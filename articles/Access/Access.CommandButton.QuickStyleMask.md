@@ -1,15 +1,17 @@
 ---
-title: ToggleButton.QuickStyleMask Property (Access)
+title: CommandButton.QuickStyleMask Property (Access)
 keywords: vbaac10.chm14647
 f1_keywords:
 - vbaac10.chm14647
 ms.prod: access
-ms.assetid: 7f3e65d9-44e8-289a-2123-093aed70650c
+api_name:
+- Access.CommandButton.QuickStyleMask
+ms.assetid: c0661897-d71c-8c3e-b18d-1100a24ed6a2
 ms.date: 06/08/2017
 ---
 
 
-# ToggleButton.QuickStyleMask Property (Access)
+# CommandButton.QuickStyleMask Property (Access)
 
 Gets or sets modifications to the Quick Style that is applied to the specified object. Read/write  **Long**.
 
@@ -18,7 +20,7 @@ Gets or sets modifications to the Quick Style that is applied to the specified o
 
  _expression_. **QuickStyle**
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a **CommandButton** object.
 
 
 ## Remarks
