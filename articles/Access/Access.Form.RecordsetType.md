@@ -4,6 +4,8 @@ keywords: vbaac10.chm13361
 f1_keywords:
 - vbaac10.chm13361
 ms.prod: access
+api_name:
+- Access.Form.RecordsetType
 ms.assetid: 29690204-1014-961d-a969-25c44ca5fc6e
 ms.date: 06/08/2017
 ---

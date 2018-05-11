@@ -1,15 +1,17 @@
 ---
-title: CommandButton.QuickStyleMask Property (Access)
+title: NavigationButton.QuickStyleMask Property (Access)
 keywords: vbaac10.chm14647
 f1_keywords:
 - vbaac10.chm14647
 ms.prod: access
-ms.assetid: c0661897-d71c-8c3e-b18d-1100a24ed6a2
+api_name:
+- Access.NavigationButton.QuickStyleMask
+ms.assetid: d7a5e454-399b-090c-46d9-add8ad13ff0f
 ms.date: 06/08/2017
 ---
 
 
-# CommandButton.QuickStyleMask Property (Access)
+# NavigationButton.QuickStyleMask Property (Access)
 
 Gets or sets modifications to the Quick Style that is applied to the specified object. Read/write  **Long**.
 
@@ -18,7 +20,7 @@ Gets or sets modifications to the Quick Style that is applied to the specified o
 
  _expression_. **QuickStyle**
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a **NavigationButton** object.
 
 
 ## Remarks
