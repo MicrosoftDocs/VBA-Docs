@@ -23,7 +23,7 @@ To return a single  **SmartTag** object, use the **Item** method of the **SmartT
 
  **Note**  Unlike the  **SmartTags** collections in Microsoft Excel and Microsoft Word, the **SmartTags** collection in Microsoft Access is zero-based. Therefore, the code `control.SmartTags(0) r`eturns the first smart tag for the specified control.
 
-To return the collection of actions available for the smart tag, use the  **[SmartTagActions](smarttag-smarttagactions-property-access.md)** property. To perform a smart tag action, use the **[Execute](smarttagaction-execute-method-access.md)** method of the **[SmartTagAction](smarttagaction-object-access.md)** object.
+To return the collection of actions available for the smart tag, use the  **[SmartTagActions](smarttag-smarttagactions-property-access.md)** property. To perform a smart tag action, use the **[Execute](Access.SmartTagAction.Execute.md)** method of the **[SmartTagAction](Access.SmartTagAction.md)** object.
 
 
 ## Methods

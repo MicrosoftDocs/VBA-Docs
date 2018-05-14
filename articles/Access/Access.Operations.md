@@ -18,7 +18,7 @@ Represents the collection of operations defined for an  **[Entity](Access.Entity
 
 ## Remarks
 
-Use the  **[Operations](entity-operations-property-access.md)** property of the **[Entity](Access.Entity.md)** object to return the collection of operations for an entity.
+Use the  **[Operations](Access.Entity.Operations.md)** property of the **[Entity](Access.Entity.md)** object to return the collection of operations for an entity.
 
 
 ## Properties

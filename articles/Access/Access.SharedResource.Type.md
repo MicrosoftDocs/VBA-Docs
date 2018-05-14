@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedResource.Type Property (Access)
 
-Gets the type of the  **[SharedResource](Access.SharedResource.md)** object. Read-only **[AcResourceType](acresourcetype-enumeration-access.md)**.
+Gets the type of the  **[SharedResource](Access.SharedResource.md)** object. Read-only **[AcResourceType](Access.AcResourceType.md)**.
 
 
 ## Syntax

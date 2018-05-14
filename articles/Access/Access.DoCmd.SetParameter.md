@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.SetParameter Method (Access)
 
-Use the  **SetParameter** method to create a parameter for use by the **[BrowseTo ](docmd-browseto-method-access.md)**, **[OpenForm](docmd-openform-method-access.md)**, **[OpenQuery](docmd-openquery-method-access.md)**, **[OpenReport](docmd-openreport-method-access.md)**, or **[RunDataMacro](docmd-rundatamacro-method-access.md)** methods.
+Use the  **SetParameter** method to create a parameter for use by the **[BrowseTo ](Access.DoCmd.BrowseTo.md)**, **[OpenForm](Access.DoCmd.OpenForm.md)**, **[OpenQuery](Access.DoCmd.OpenQuery.md)**, **[OpenReport](Access.DoCmd.OpenReport.md)**, or **[RunDataMacro](Access.DoCmd.RunDataMacro.md)** methods.
 
 
 ## Syntax

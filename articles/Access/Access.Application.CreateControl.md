@@ -59,7 +59,7 @@ If you specify the name of a field for the  _columnname_ argument, you create a 
 
  **Note**  If your wizard creates controls on a new or existing form or report, it must first open the form or report in Design view.
 
-To remove a control from a form or report, use the  **[DeleteControl](application-deletecontrol-method-access.md)** and **[DeleteReportControl](application-deletereportcontrol-method-access.md)** statements.
+To remove a control from a form or report, use the  **[DeleteControl](Access.Application.DeleteControl.md)** and **[DeleteReportControl](Access.Application.DeleteReportControl.md)** statements.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Controls Object (Access)
 
-The  **Controls** collection contains all of the controls on a form, report, or subform, within another control, or attached to another control. The **Controls** collection is a member of a **[Form](http://msdn.microsoft.com/library/72ef9219-142b-b690-b696-3eba9a5d4522%28Office.15%29.aspx)**, **[Report](report-object-access.md)**, and **[SubForm](subform-object-access.md)** objects.
+The  **Controls** collection contains all of the controls on a form, report, or subform, within another control, or attached to another control. The **Controls** collection is a member of a **[Form](http://msdn.microsoft.com/library/72ef9219-142b-b690-b696-3eba9a5d4522%28Office.15%29.aspx)**, **[Report](report-object-access.md)**, and **[SubForm](Access.SubForm.md)** objects.
 
 
 ## Remarks

@@ -30,7 +30,7 @@ You can use group headers and footers to label or summarize data in a group of r
 
  **Note**  You can't set or refer to these properties directly in Visual Basic. To create a group header or footer for a field or expression in Visual Basic, use the  **[CreateGroupLevel](Access.Application.CreateGroupLevel.md)** method.
 
-To set the grouping properties —  **[GroupOn](grouplevel-groupon-property-access.md)**, **[GroupInterval](grouplevel-groupinterval-property-access.md)**, and **[KeepTogether](grouplevel-keeptogether-property-access.md)** — to other than their default values, you must first set the **GroupHeader** or **GroupFooter** property or both to Yes for the selected field or expression.
+To set the grouping properties —  **[GroupOn](Access.GroupLevel.GroupOn.md)**, **[GroupInterval](Access.GroupLevel.GroupInterval.md)**, and **[KeepTogether](Access.GroupLevel.KeepTogether.md)** — to other than their default values, you must first set the **GroupHeader** or **GroupFooter** property or both to Yes for the selected field or expression.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllQueries Object (Access)
 
-The  **AllQueries** collection contains an **[AccessObject](accessobject-object-access.md)** for each query in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
+The  **AllQueries** collection contains an **[AccessObject](Access.AccessObject.md)** for each query in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 
 
 ## Remarks

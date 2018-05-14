@@ -25,7 +25,7 @@ Returns a  **Boolean** indicating whether the current database has any broken re
 
 ## Remarks
 
-To test the validity of a specific reference, use the  **[IsBroken](reference-isbroken-property-access.md)** property of the **[Reference](reference-object-access.md)** object.
+To test the validity of a specific reference, use the  **[IsBroken](Access.Reference.IsBroken.md)** property of the **[Reference](Access.Reference.md)** object.
 
 
 ## Example

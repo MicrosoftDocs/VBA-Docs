@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllViews Object (Access)
 
-The  **AllViews** collection contains an **[AccessObject](accessobject-object-access.md)** for each view in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
+The  **AllViews** collection contains an **[AccessObject](Access.AccessObject.md)** for each view in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 
 
 ## Remarks

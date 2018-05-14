@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllForms Object (Access)
 
-The  **AllForms** collection contains an **[AccessObject](accessobject-object-access.md)** object for each form in the **[CurrentProject](currentproject-object-access.md)** or **[CodeProject](http://msdn.microsoft.com/library/70b71f57-df23-2cf7-23f5-147053a8ec26%28Office.15%29.aspx)** object.
+The  **AllForms** collection contains an **[AccessObject](Access.AccessObject.md)** object for each form in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](http://msdn.microsoft.com/library/70b71f57-df23-2cf7-23f5-147053a8ec26%28Office.15%29.aspx)** object.
 
 
 ## Remarks

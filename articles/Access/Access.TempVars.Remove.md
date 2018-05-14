@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TempVars.Remove Method (Access)
 
-Removes the specified  **[TempVar](tempvar-object-access.md)** object from the **[TempVars](Access.TempVars.md)** collection.
+Removes the specified  **[TempVar](Access.TempVar.md)** object from the **[TempVars](Access.TempVars.md)** collection.
 
 
 ## Syntax

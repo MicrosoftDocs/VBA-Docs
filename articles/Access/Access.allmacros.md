@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # AllMacros Object (Access)
 
-The  **AllMacros** collection contains an **[AccessObject](accessobject-object-access.md)** for each macro in the **[CurrentProject](currentproject-object-access.md)** or **[CodeProject](codeproject-object-access.md)** object.
+The  **AllMacros** collection contains an **[AccessObject](Access.AccessObject.md)** for each macro in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllModules Object (Access)
 
-The  **AllModules** collection contains an **[AccessObject](accessobject-object-access.md)** of each module in the **[CurrentProject](currentproject-object-access.md)** or **[CodeProject](codeproject-object-access.md)** object.
+The  **AllModules** collection contains an **[AccessObject](Access.AccessObject.md)** of each module in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## Remarks

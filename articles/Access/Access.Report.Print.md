@@ -40,7 +40,7 @@ Nothing
 
 You can use this method only in a event procedure or macro specified by a section's  **OnPrint** event property setting.
 
-The expressions specified by the  _Expr_ argument are printed on the object starting at the position indicated by the **[CurrentX](report-currentx-property-access.md)** and **[CurrentY](report-currenty-property-access.md)** property settings.
+The expressions specified by the  _Expr_ argument are printed on the object starting at the position indicated by the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** property settings.
 
 When the  _Expr_ argument is printed, a carriage return is usually appended so that the next **Print** method begins printing on the next line. When a carriage return occurs, the **CurrentY** property setting is increased by the height of the _Expr_ argument (the same as the value returned by the **[TextHeight](report-textheight-method-access.md)** method) and the **CurrentX** property is set to 0.
 

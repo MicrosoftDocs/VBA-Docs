@@ -25,7 +25,7 @@ The  **Collection** property returns a reference to the collection that contains
 
 ## Remarks
 
-You can use the  **Collection** property to access the collection to which an object belongs. For example, the **Collection** property of a **[Reference](Access.Reference.md)** object returns an object reference to the **[References](references-object-access.md)** collection.
+You can use the  **Collection** property to access the collection to which an object belongs. For example, the **Collection** property of a **[Reference](Access.Reference.md)** object returns an object reference to the **[References](Access.References.md)** collection.
 
 The  **Collection** property is similar to the **Parent** property.
 

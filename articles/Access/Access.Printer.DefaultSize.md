@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.DefaultSize Property (Access)
 
- **True** if the size of the detail section in Design View is used for printing; otherwise, the values of the **[ItemSizeHeight](printer-itemsizeheight-property-access.md)** and **[ItemSizeWidth](printer-itemsizewidth-property-access.md)** properties are used. Read/write **Boolean**.
+ **True** if the size of the detail section in Design View is used for printing; otherwise, the values of the **[ItemSizeHeight](Access.Printer.ItemSizeHeight.md)** and **[ItemSizeWidth](Access.Printer.ItemSizeWidth.md)** properties are used. Read/write **Boolean**.
 
 
 ## Syntax

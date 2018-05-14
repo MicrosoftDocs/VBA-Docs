@@ -30,8 +30,8 @@ Use the  **CurrentProject** property to refer to one of the following current da
 
 |||
 |:-----|:-----|
-|**[AllForms](allforms-object-access.md)**|**[AllMacros](allmacros-object-access.md)**|
-|**[AllModules](allmodules-object-access.md)**|**[AccessObjectProperties](accessobjectproperties-object-access.md)**|
+|**[AllForms](Access.AllForms.md)**|**[AllMacros](Access.allmacros.md)**|
+|**[AllModules](Access.AllModules.md)**|**[AccessObjectProperties](Access.AccessObjectProperties.md)**|
 |**[AllReports](Access.AllReports.md)**||
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.Properties Property (Access)
 
-Returns a reference to a  **[CurrentProject](Access.CurrentProject.md)** object's **[AccessObjectProperties](accessobjectproperties-object-access.md)** collection. Read-only.
+Returns a reference to a  **[CurrentProject](Access.CurrentProject.md)** object's **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection. Read-only.
 
 
 ## Syntax

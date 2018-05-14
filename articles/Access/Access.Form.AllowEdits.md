@@ -27,7 +27,7 @@ You can use the  **AllowEdits** property to specify whether a user can edit save
 
 You can use the  **AllowEdits** property to prevent changes to existing data displayed by a form. If you want to prevent changes to data in a specific control, use the **Enabled** or **Locked** property.
 
-If you want to prevent changes to existing records (make a form read-only), set the  **[AllowAdditions](form-allowadditions-property-access.md)**, **[AllowDeletions](form-allowdeletions-property-access.md)**, and **AllowEdits** properties to No. You can also make records read-only by setting the **[RecordsetType](http://msdn.microsoft.com/library/a66d4043-08cc-ead1-f9ff-efc7d7ea21bf%28Office.15%29.aspx)** property to Snapshot.
+If you want to prevent changes to existing records (make a form read-only), set the  **[AllowAdditions](form-allowadditions-property-access.md)**, **[AllowDeletions](Access.Form.AllowDeletions.md)**, and **AllowEdits** properties to No. You can also make records read-only by setting the **[RecordsetType](http://msdn.microsoft.com/library/a66d4043-08cc-ead1-f9ff-efc7d7ea21bf%28Office.15%29.aspx)** property to Snapshot.
 
 When the  **AllowEdits** property is set to No, the **Delete Record** and **Data Entry** menu commands aren't available for existing records. (They may still be available for new records if the **AllowAdditions** property is set to Yes.)
 

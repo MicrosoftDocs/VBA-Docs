@@ -25,7 +25,7 @@ You can refer to an individual  **Form** object in the **Forms** collection eith
 The  **Forms** collection is indexed beginning with zero. If you refer to a form by its index, the first form opened is Forms(0), the second form opened is Forms(1), and so on. If you opened Form1 and then opened Form2, Form2 would be referenced in the **Forms** collection by its index as Forms(1). If you then closed Form1, Form2 would be referenced in the **Forms** collection by its index as Forms(0).
 
 
- **Note**   To list all forms in the database, whether open or closed, enumerate the **AllForms** collection of the **[CurrentProject](currentproject-object-access.md)** object. You can then use the **Name** property of each individual **[AccessObject](accessobject-object-access.md)** object to return the name of a form.
+ **Note**   To list all forms in the database, whether open or closed, enumerate the **AllForms** collection of the **[CurrentProject](Access.CurrentProject.md)** object. You can then use the **Name** property of each individual **[AccessObject](Access.AccessObject.md)** object to return the name of a form.
 
 You can't add or delete a  **Form** object from the **Forms** collection.
 

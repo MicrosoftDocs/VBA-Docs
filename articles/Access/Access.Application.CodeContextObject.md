@@ -27,7 +27,7 @@ You can use the  **CodeContextObject** property to determine the object in which
 
 The  **CodeContextObject** property is set by Microsoft Access and is read-only in all views.
 
-The  **[ActiveControl](screen-activecontrol-property-access.md)**, **[ActiveDatasheet](screen-activedatasheet-property-access.md)**, **[ActiveForm](screen-activeform-property-access.md)**, and **[ActiveReport](screen-activereport-property-access.md)** properties of the **[Screen](screen-object-access.md)** object always return the object that currently has the focus. The object with the focus may or may not be the object where a macro or Visual Basic code is currently running, for example, when Visual Basic code runs in the **[Timer](form-timer-event-access.md)** event on a hidden form.
+The  **[ActiveControl](Access.Screen.ActiveControl.md)**, **[ActiveDatasheet](Access.Screen.ActiveDatasheet.md)**, **[ActiveForm](Access.Screen.ActiveForm.md)**, and **[ActiveReport](Access.Screen.ActiveReport.md)** properties of the **[Screen](Access.Screen.md)** object always return the object that currently has the focus. The object with the focus may or may not be the object where a macro or Visual Basic code is currently running, for example, when Visual Basic code runs in the **[Timer](Access.Form.Timer.md)** event on a hidden form.
 
 
 ## Example

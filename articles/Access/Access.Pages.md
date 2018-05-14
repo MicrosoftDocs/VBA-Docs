@@ -22,7 +22,7 @@ The  **Pages** collection is a special kind of **Controls** collection belonging
 
 To add a new  **Page** object to the **Pages** collection from Visual Basic, use the **[Add](pages-add-method-access.md)** method of the **Pages** collection. To remove an existing **Page** object, use the **[Remove](pages-remove-method-access.md)** method of the **Pages** collection. To count the number of **Page** objects in the **Pages** collection, use the **[Count](pages-count-property-access.md)** property of the **Pages** collection.
 
-You can also use the  **[CreateControl](application-createcontrol-method-access.md)** method to add a **Page** object to the **Pages** collection of a tab control. To do this, you must specify the name of the tab control for the _Parent_ argument of the **CreateControl** function. The **[ControlType](page-controltype-property-access.md)** property constant for a **Page** object is **acPage**.
+You can also use the  **[CreateControl](Access.Application.CreateControl.md)** method to add a **Page** object to the **Pages** collection of a tab control. To do this, you must specify the name of the tab control for the _Parent_ argument of the **CreateControl** function. The **[ControlType](page-controltype-property-access.md)** property constant for a **Page** object is **acPage**.
 
 You can enumerate through the  **Pages** collection by using the **For Each...Next** statement.
 

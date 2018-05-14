@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllReports Object (Access)
 
-The  **AllReports** collection contains an **[AccessObject](accessobject-object-access.md)** for each report in the **[CurrentProject](currentproject-object-access.md)** or **[CodeProject](codeproject-object-access.md)** object.
+The  **AllReports** collection contains an **[AccessObject](Access.AccessObject.md)** for each report in the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## Remarks

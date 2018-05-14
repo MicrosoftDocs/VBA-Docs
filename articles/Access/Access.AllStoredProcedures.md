@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllStoredProcedures Object (Access)
 
-The  **AllStoredProcedures** collection contains an **[AccessObject](accessobject-object-access.md)** for each stored procedure in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
+The  **AllStoredProcedures** collection contains an **[AccessObject](Access.AccessObject.md)** for each stored procedure in the **[CurrentData](Access.CurrentData.md)** or **[CodeData](Access.CodeData.md)** object.
 
 
 ## Remarks

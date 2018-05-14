@@ -43,7 +43,7 @@ The  **CreateAccessProject** method enables you to create a new Access project f
 
 If the Access project identified by  _projname_ already exists, an error occurs.
 
-To create and open a new Access project as the current Access project in the Access window, use the  **[NewAccessProject](application-newaccessproject-method-access.md)** method of the **[Application](Access.Application.md)** object.
+To create and open a new Access project as the current Access project in the Access window, use the  **[NewAccessProject](Access.Application.NewAccessProject.md)** method of the **[Application](Access.Application.md)** object.
 
 To open an existing Access project as the current Access project in the Access window, use the  **[OpenAccessProject](Access.Application.OpenAccessProject.md)** method of the **Application** object.
 

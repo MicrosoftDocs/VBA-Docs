@@ -29,7 +29,7 @@ The  **ExportXML** method allows developers to export XML data, schemas, and pre
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Required|**AcExportXMLObjectType**| A **[AcExportXMLObjectType](acexportxmlobjecttype-enumeration-access.md)** that represents the type of **[AccessObject](accessobject-object-access.md)** object to export.|
+| _ObjectType_|Required|**AcExportXMLObjectType**| A **[AcExportXMLObjectType](Access.AcExportXMLObjectType.md)** that represents the type of **[AccessObject](Access.AccessObject.md)** object to export.|
 | _DataSource_|Required|**String**| The name of the **AccessObject** object to export. The default is the currently open object of the type specified by the _ObjectType_ argument.|
 | _DataTarget_|Optional|**String**|The file name and path for the exported data. If this argument is omitted, data is not exported.|
 | _SchemaTarget_|Optional|**String**|The file name and path for the exported schema information. If this argument is omitted, schema information is not exported to a separate XML file.|

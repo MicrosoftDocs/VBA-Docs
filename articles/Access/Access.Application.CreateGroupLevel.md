@@ -49,9 +49,9 @@ The  **CreateGroupLevel** method is available only in report Design view.
 
 Microsoft Access uses an array, the  **[GroupLevel](Access.Report.GroupLevel.md)** property array, to keep track of the group levels created for a report. The **CreateGroupLevel** method adds a new group level to the array, based on the _expression_ argument. The **CreateGroupLevel** method then returns an index value that represents the new group level's position in the array. The first field or expression you sort or group on is level 0, the second is level 1, and so on. You can have up to ten group levels in a report (0 to 9).
 
-When you specify that either the  _header_ or _footer_ argument, or both, is **True**, the **[GroupHeader](grouplevel-groupheader-property-access.md)** and **[GroupFooter](grouplevel-groupfooter-property-access.md)** properties in a report are set to Yes, and a header and/or footer is created for the group level.
+When you specify that either the  _header_ or _footer_ argument, or both, is **True**, the **[GroupHeader](Access.GroupLevel.GroupHeader.md)** and **[GroupFooter](Access.GroupLevel.GroupFooter.md)** properties in a report are set to Yes, and a header and/or footer is created for the group level.
 
-Once a header or footer is created, you can set other GroupLevel properties:  **[GroupOn](grouplevel-groupon-property-access.md)**, **[GroupInterval](grouplevel-groupinterval-property-access.md)**, and **[KeepTogether](grouplevel-keeptogether-property-access.md)**.
+Once a header or footer is created, you can set other GroupLevel properties:  **[GroupOn](Access.GroupLevel.GroupOn.md)**, **[GroupInterval](Access.GroupLevel.GroupInterval.md)**, and **[KeepTogether](Access.GroupLevel.KeepTogether.md)**.
 
 
  **Note**  If your wizard creates group levels in a new or existing report, it must open the report in Design view.

@@ -48,7 +48,7 @@ The new Access project is opened under the Admin user account .
 
 
 
- **Note**   To open an Access database, use the **[NewCurrentDatabase](application-newcurrentdatabase-method-access.md)** method of the **[Application](Access.Application.md)** object.
+ **Note**   To open an Access database, use the **[NewCurrentDatabase](Access.Application.NewCurrentDatabase.md)** method of the **[Application](Access.Application.md)** object.
 
 
 ## See also

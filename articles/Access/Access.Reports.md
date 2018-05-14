@@ -27,7 +27,7 @@ The  **Reports** collection is indexed beginning with zero. If you refer to a re
 
 
 
- **Note**   To list all reports in the database, whether open or closed, enumerate the **[AllReports](allreports-object-access.md)** collection of the **[CurrentProject](currentproject-object-access.md)** object. You can then use the **Name** property of each individual **[AccessObject](accessobject-object-access.md)** object to return the name of a report.
+ **Note**   To list all reports in the database, whether open or closed, enumerate the **[AllReports](Access.AllReports.md)** collection of the **[CurrentProject](Access.CurrentProject.md)** object. You can then use the **Name** property of each individual **[AccessObject](Access.AccessObject.md)** object to return the name of a report.
 
 You can't add or delete a  **Report** object from the **Reports** collection.
 

@@ -25,7 +25,7 @@ You can use the  **Path** property to determine the location where data is store
 
 ## Remarks
 
-You can use the  **Path** property to determine the location of information stored through the **[CurrentProject](currentproject-object-access.md)** or **[CodeProject](Access.CodeProject.md)** objects of a project or database.
+You can use the  **Path** property to determine the location of information stored through the **[CurrentProject](Access.CurrentProject.md)** or **[CodeProject](Access.CodeProject.md)** objects of a project or database.
 
 
 ## Example

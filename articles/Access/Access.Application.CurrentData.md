@@ -30,8 +30,8 @@ Use the  **CurrentData** property to refer to one of the following current datab
 
 |||
 |:-----|:-----|
-|**[AllTables](alltables-object-access.md)**|**[AllQueries](allqueries-object-access.md)**|
-|**[AllViews](allviews-object-access.md)**|**[AllStoredProcedures](allstoredprocedures-object-access.md)**|
+|**[AllTables](Access.AllTables.md)**|**[AllQueries](Access.AllQueries.md)**|
+|**[AllViews](Access.AllViews.md)**|**[AllStoredProcedures](Access.AllStoredProcedures.md)**|
 |**[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)**||
 
 ## See also

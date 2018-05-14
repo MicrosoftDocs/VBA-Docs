@@ -29,7 +29,7 @@ The  **PSet** method sets a point on a **[Report](Access.Report.md)** object to 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _flags_|Required|**Integer**| A keyword that indicates the coordinates are relative to the current graphics position given by the settings for the **[CurrentX](report-currentx-property-access.md)** and **[CurrentY](report-currenty-property-access.md)** properties of the _object_ argument.|
+| _flags_|Required|**Integer**| A keyword that indicates the coordinates are relative to the current graphics position given by the settings for the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** properties of the _object_ argument.|
 | _X_|Required|**Single**|The horizontal coordinate of the point to set.|
 | _Y_|Required|**Single**|The vertical coordinate of the point to set.|
 | _color_|Required|**Long**|the RGB (red-green-blue) color to set the point to. If this argument is omitted, the value of the  **ForeColor** property is used. You can also use the **RGB** function or **QBColor** function to specify the color.|
@@ -43,7 +43,7 @@ Nothing
 
 The size of the point depends on the  **[DrawWidth](Access.Report.DrawWidth.md)** property setting. When the **DrawWidth** property is set to 1, the **PSet** method sets a single pixel to the specified color. When the **DrawWidth** property is greater than 1, the point is centered on the specified coordinates.
 
-The way the point is drawn depends on the settings of the  **[DrawMode](report-drawmode-property-access.md)** and **[DrawStyle](report-drawstyle-property-access.md)** properties.
+The way the point is drawn depends on the settings of the  **[DrawMode](Access.Report.DrawMode.md)** and **[DrawStyle](Access.Report.DrawStyle.md)** properties.
 
 When you apply the  **PSet** method, the **CurrentX** and **CurrentY** properties are set to the point specified by the _x_ and _y_ arguments.
 

@@ -23,7 +23,7 @@ Use the  **Properties** collection in[Visual Basic](http://msdn.microsoft.com/li
 You can use the  **Properties** collection of an object to enumerate the object's built-in properties. You don't need to know beforehand exactly which properties exist or what their characteristics ( **Name** and **Value** properties) are to manipulate them.
 
 
- **Note**  In addition to the built-in properties, you can also create and add your own user-defined properties. To add a user-defined property to an existing instance of an object, see the  **[AccessObjectProperties](accessobjectproperties-object-access.md)** collection and **[Add](accessobjectproperties-add-method-access.md)** method topics.
+ **Note**  In addition to the built-in properties, you can also create and add your own user-defined properties. To add a user-defined property to an existing instance of an object, see the  **[AccessObjectProperties](Access.AccessObjectProperties.md)** collection and **[Add](Access.AccessObjectProperties.Add.md)** method topics.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TempVars.RemoveAll Method (Access)
 
-Removes all of the  **[TempVar](tempvar-object-access.md)** objects from the **[TempVars](Access.TempVars.md)** collection.
+Removes all of the  **[TempVar](Access.TempVar.md)** objects from the **[TempVars](Access.TempVars.md)** collection.
 
 
 ## Syntax

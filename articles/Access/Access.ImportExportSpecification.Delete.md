@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportExportSpecification.Delete Method (Access)
 
-Deletes the specified  **[ImportExportSpecification](Access.ImportExportSpecification.md)** object from the **[ImportExportSpecifications](importexportspecifications-object-access.md)** collection.
+Deletes the specified  **[ImportExportSpecification](Access.ImportExportSpecification.md)** object from the **[ImportExportSpecifications](Access.ImportExportSpecifications.md)** collection.
 
 
 ## Syntax

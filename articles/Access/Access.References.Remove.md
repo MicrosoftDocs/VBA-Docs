@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # References.Remove Method (Access)
 
-The  **Remove** method removes a **[Reference](reference-object-access.md)** object from the **[References](Access.References.md)** collection.
+The  **Remove** method removes a **[Reference](Access.Reference.md)** object from the **[References](Access.References.md)** collection.
 
 
 ## Syntax

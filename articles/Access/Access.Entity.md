@@ -18,7 +18,7 @@ Represents an entity defined in a Data Service data connection.
 
 ## Remarks
 
-Use the  **[Item](entities-item-property-access.md)** property of the **[Entities](entities-object-access.md)** to return an **[Entity](entity-object-access.md)** object.
+Use the  **[Item](Access.Entities.Item.md)** property of the **[Entities](Access.Entities.md)** to return an **[Entity](Access.Entity.md)** object.
 
 Use the  **[Operations](Access.Operations.md)** property to returnt he operations defined for the specified entity.
 

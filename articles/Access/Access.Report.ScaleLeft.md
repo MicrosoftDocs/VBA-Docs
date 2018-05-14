@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.ScaleLeft Property (Access)
 
-You can use the  **ScaleLeft** property to specify the units for the horizontal coordinates that describe the location of the left edge of a page when the **[Circle](report-circle-method-access.md)**, **[Line](report-line-method-access.md)**, **[Pset](report-pset-method-access.md)**, or **[Print](report-print-method-access.md)** method is used while a report is previewed, printed, or its output is saved to a file. Read / write **Single**.
+You can use the  **ScaleLeft** property to specify the units for the horizontal coordinates that describe the location of the left edge of a page when the **[Circle](Access.Report.Circle.md)**, **[Line](Access.Report.Line.md)**, **[Pset](Access.Report.PSet.md)**, or **[Print](report-print-method-access.md)** method is used while a report is previewed, printed, or its output is saved to a file. Read / write **Single**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ By using these properties and the related  **ScaleHeight** and **ScaleWidth** pr
 
 - Setting any other Scale property to any value automatically sets the  **ScaleMode** property to 0.
     
-- Setting the  **ScaleMode** property to a number greater than 0 changes the **ScaleHeight** and **ScaleWidth** property settings to the new unit of measurement and sets the **ScaleLeft** and **ScaleTop** properties to 0. Also, the **[CurrentX](report-currentx-property-access.md)** and **[CurrentY](report-currenty-property-access.md)** property settings change to reflect the new coordinates of the current point.
+- Setting the  **ScaleMode** property to a number greater than 0 changes the **ScaleHeight** and **ScaleWidth** property settings to the new unit of measurement and sets the **ScaleLeft** and **ScaleTop** properties to 0. Also, the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** property settings change to reflect the new coordinates of the current point.
     
 You can also use the  **Scale** method to set the **ScaleHeight**, **ScaleWidth**, **ScaleLeft**, and **ScaleTop** properties in one statement.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportExportSpecifications.Add Method (Access)
 
-Adds a new [ImportExportSpecification](importexportspecification-object-access.md) object to the[ImportExportSpecifications](Access.ImportExportSpecifications.md) collection.
+Adds a new [ImportExportSpecification](Access.ImportExportSpecification.md) object to the[ImportExportSpecifications](Access.ImportExportSpecifications.md) collection.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** indicating whether the specified form may be view
 
 ## Remarks
 
-Use the  **AllowDatasheetView**, **[AllowPivotChartView](form-allowpivotchartview-property-access.md)**, **AllowPivotChartView**, or **[AllowPivotTableView](form-allowpivottableview-property-access.md)** properties to control which views are allowed for a form.
+Use the  **AllowDatasheetView**, **[AllowPivotChartView](Access.Form.AllowPivotChartView.md)**, **AllowPivotChartView**, or **[AllowPivotTableView](Access.Form.AllowPivotTableView.md)** properties to control which views are allowed for a form.
 
 
 ## Example

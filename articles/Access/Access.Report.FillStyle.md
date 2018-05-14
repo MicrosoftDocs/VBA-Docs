@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.FillStyle Property (Access)
 
-You can use the  **FillStyle** property to specify whether a circle or line drawn by the **[Circle](report-circle-method-access.md)** or **[Line](report-line-method-access.md)** method on a report is transparent, opaque, or filled with a pattern. Read/write **Integer**.
+You can use the  **FillStyle** property to specify whether a circle or line drawn by the **[Circle](Access.Report.Circle.md)** or **[Line](Access.Report.Line.md)** method on a report is transparent, opaque, or filled with a pattern. Read/write **Integer**.
 
 
 ## Syntax

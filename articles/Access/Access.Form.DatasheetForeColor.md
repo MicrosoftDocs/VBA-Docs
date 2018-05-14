@@ -32,11 +32,11 @@ The following table contains the properties that don't exist in the DAO  **Prope
 
 |||
 |:-----|:-----|
-|**[DatasheetBackColor](form-datasheetbackcolor-property-access.md)**|**[DatasheetFontUnderline](form-datasheetfontunderline-property-access.md)** *|
-|**[DatasheetCellsEffect](form-datasheetcellseffect-property-access.md)**|**[DatasheetFontWeight](form-datasheetfontweight-property-access.md)** *|
+|**[DatasheetBackColor](Access.Form.DatasheetBackColor.md)**|**[DatasheetFontUnderline](Access.Form.DatasheetFontUnderline.md)** *|
+|**[DatasheetCellsEffect](Access.Form.DatasheetCellsEffect.md)**|**[DatasheetFontWeight](Access.Form.DatasheetFontWeight.md)** *|
 |**[DatasheetFontHeight](Access.Form.DatasheetFontHeight.md)** *|**DatasheetForeColor** *|
-|**[DatasheetFontItalic](form-datasheetfontitalic-property-access.md)** *|**[DatasheetGridlinesBehavior](form-datasheetgridlinesbehavior-property-access.md)**|
-|**[DatasheetFontName](form-datasheetfontname-property-access.md)** *|**[DatasheetGridlinesColor](form-datasheetgridlinesbehavior-property-access.md)**|
+|**[DatasheetFontItalic](Access.Form.DatasheetFontItalic.md)** *|**[DatasheetGridlinesBehavior](Access.Form.DatasheetGridlinesBehavior.md)**|
+|**[DatasheetFontName](Access.Form.DatasheetFontName.md)** *|**[DatasheetGridlinesColor](Access.Form.DatasheetGridlinesBehavior.md)**|
 
  **Note**   When you add or set any property listed with an asterisk, Microsoft Access automatically adds it to the **Properties** collection.
 

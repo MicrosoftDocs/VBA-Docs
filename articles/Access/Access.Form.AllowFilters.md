@@ -30,7 +30,7 @@ Filters are commonly used to view a temporary subset of the records in a databas
 
 
 
- **Note**  Setting the  **AllowFilters** property to No does not affect the **[Filter](form-filter-property-access.md)**, **[FilterOn](form-filteron-property-access.md)**, **[ServerFilter](form-serverfilter-property-access.md)**, or **[ServerFilterByForm](form-serverfilterbyform-property-access.md)** properties. You can still use these properties to set and remove filters. You can also still use the following actions or methods to apply and remove filters.
+ **Note**  Setting the  **AllowFilters** property to No does not affect the **[Filter](form-filter-property-access.md)**, **[FilterOn](Access.Form.FilterOn.md)**, **[ServerFilter](Access.Form.ServerFilter.md)**, or **[ServerFilterByForm](form-serverfilterbyform-property-access.md)** properties. You can still use these properties to set and remove filters. You can also still use the following actions or methods to apply and remove filters.
 
 
 
