@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CurrentObjectType Property (Access)
 
-You can use the  **CurrentObjectType** property together with the **[Application](Access.Application.md)** object to determine the type of the active database object (table, query, form, report, macro, module, server view, database diagram, or stored procedure). The active database object is the object that has the focus or in which code is running. Read-only **[AcObjectType](acobjecttype-enumeration-access.md)**.
+You can use the  **CurrentObjectType** property together with the **[Application](Access.Application.md)** object to determine the type of the active database object (table, query, form, report, macro, module, server view, database diagram, or stored procedure). The active database object is the object that has the focus or in which code is running. Read-only **[AcObjectType](Access.AcObjectType.md)**.
 
 
 ## Syntax

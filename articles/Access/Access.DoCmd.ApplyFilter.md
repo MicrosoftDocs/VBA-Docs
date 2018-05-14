@@ -44,7 +44,7 @@ You can use this action to apply an SQL WHERE clause only when applying a server
 
 You can apply a filter or query to a form in Form view or Datasheet view.
 
-The filter and WHERE condition you apply become the setting of the form's  **[Filter](form-filter-property-access.md)** property or the report's **[ServerFilter](Access.Report.ServerFilter.md)** property.
+The filter and WHERE condition you apply become the setting of the form's  **[Filter](Access.Form.Filter(property).md)** property or the report's **[ServerFilter](Access.Report.ServerFilter.md)** property.
 
 When you save a table or form, Access saves any filter currently defined in that object, but will not apply the filter automatically the next time the object is opened (although it will automatically apply any sort you applied to the object before it was saved). If you want to apply a filter automatically when a form is first opened, specify a macro containing the ApplyFilter action or an event procedure containing the  **ApplyFilter** method of the **DoCmd** object as the **OnOpen** event property setting of the form. You can also apply a filter by using the OpenForm or OpenReport action, or their corresponding methods. To apply a filter automatically when a table is first opened, you can open the table by using a macro containing the OpenTable action, followed immediately by the ApplyFilter action.
 

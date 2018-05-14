@@ -29,5 +29,5 @@ You can use the  **Count** property to determine the number of items in a specif
 #### Concepts
 
 
-[Pages Collection](pages-object-access.md)
+[Pages Collection](Access.Pages.md)
 

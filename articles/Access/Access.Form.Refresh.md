@@ -37,7 +37,7 @@ Microsoft Access refreshes records automatically, based on the  **Refresh Interv
 
 In a Microsoft Access database, the  **Refresh** method shows only changes made to records in the current set. Since the **Refresh** method doesn't actually requery the database, the current set won't include records that have been added or exclude records that have been deleted since the database was last requeried. Nor will it exclude records that no longer satisfy the criteria of the query or filter. To requery the database, use the **[Requery](Access.Form.Requery.md)** method. When the record source for a form is requeried, the current set of records will accurately reflect all data in the record source.
 
-In a Microsoft Access project (.adp), the  **Refresh** method requeries the database and displays any new or changed records or removes deleted records from the table on which the form is based. The form is also updated to display records based on any changes to the **[Filter](form-filter-property-access.md)** property of the form.
+In a Microsoft Access project (.adp), the  **Refresh** method requeries the database and displays any new or changed records or removes deleted records from the table on which the form is based. The form is also updated to display records based on any changes to the **[Filter](Access.Form.Filter(property).md)** property of the form.
 
 
  **Note**  

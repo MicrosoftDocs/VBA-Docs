@@ -39,7 +39,7 @@ To import an image as a  **SharedResource** object, use the **[AddSharedImage](A
 |:-----|
 |[Name](Access.SharedResource.Name.md)|
 |[Parent](Access.SharedResource.Parent.md)|
-|[Type](sharedresource-type-property-access.md)|
+|[Type](Access.SharedResource.Type.md)|
 
 ## See also
 

@@ -29,5 +29,5 @@ Gets or sets whether the data bar or the data bar and its value are displayed. S
 #### Concepts
 
 
-[FormatCondition Object](formatcondition-object-access.md)
+[FormatCondition Object](Access.FormatCondition.md)
 

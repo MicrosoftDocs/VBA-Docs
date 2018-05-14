@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.LongestBarValue Property (Access)
 
-Gets or sets a numeric expression that specifies the value of the longest bar of a  **[FormatCondition](formatcondition-object-access.md)**. Read/write **String**.
+Gets or sets a numeric expression that specifies the value of the longest bar of a  **[FormatCondition](Access.FormatCondition.md)**. Read/write **String**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Gets or sets a numeric expression that specifies the value of the longest bar of
 
 By default, the  **LongestBarValue** contains a zero-length string ("").
 
-If the value of the  **[LongestBarLimit](formatcondition-longestbarlimit-property-access.md)** property is **acAutomatic**, then the **LongestBarValue** is ignored.
+If the value of the  **[LongestBarLimit](Access.FormatCondition.LongestBarLimit.md)** property is **acAutomatic**, then the **LongestBarValue** is ignored.
 
 
 ## See also
@@ -36,5 +36,5 @@ If the value of the  **[LongestBarLimit](formatcondition-longestbarlimit-propert
 #### Concepts
 
 
-[FormatCondition Object](formatcondition-object-access.md)
+[FormatCondition Object](Access.FormatCondition.md)
 

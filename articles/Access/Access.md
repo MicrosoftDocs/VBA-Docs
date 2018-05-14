@@ -14,7 +14,7 @@ This section contains documentation for the enumerations in the Access object mo
 |[AcBrowseToObjectType Enumeration](Access.AcBrowseToObjectType.md)|Specifies the type of object to browse to.|
 |[AcCloseSave Enumeration](Access.AcCloseSave.md)|Used by the  **Close** method to specify whether or not to save an object upon closing.|
 |[AcColorIndex Enumeration](Access.AcColorIndex.md)|Specifies the color to apply.|
-|[AcCommand Enumeration](Access.AcCommand.md)|Used with the  **[RunCommand](application-runcommand-method-access.md)** method to run built-in commands.|
+|[AcCommand Enumeration](Access.AcCommand.md)|Used with the  **[RunCommand](Access.Application.RunCommand.md)** method to run built-in commands.|
 | [AcControlType Enumeration](Access.AcControlType.md)|Specifies the type of control created by the  **CreateControl** and **CreateReportControl** methods.|
 | [AcCurrentView Enumeration](Access.AcCurrentView.md)|Used with the  **CurrentView** property to determine the current view of an object.|
 | [AcCursorOnHover Enumeration](Access.AcCursorOnHover.md)|Used with the  **CursorOnHover** property to specify the type of cursor displayed when a user rests the pointer on a button.|
@@ -76,7 +76,7 @@ This section contains documentation for the enumerations in the Access object mo
 | [AcSplitFormPrinting Enumeration](Access.AcSplitFormPrinting.md)|Used with the [SplitFormPrinting](Access.Form.SplitFormPrinting.md) property to specify what to print when a form is in Split Form view.|
 | [AcSpreadSheetType Enumeration](Access.AcSpreadSheetType.md)|Used with the [TransferSpreadsheet](Access.DoCmd.TransferSpreadsheet.md) method to specify the type of spreadsheet to import from, export to, or link to.|
 | [AcSysCmdAction Enumeration](Access.AcSysCmdAction.md)|Used with the  **SysCmd** method to specify an action to take.|
-| [AcTextFormat Enumeration](Access.AcTextFormat.md)|Used with the [TextFormat](textbox-textformat-property-access.md) property to specify whether or not rich text is displayed in a Text Box.|
+| [AcTextFormat Enumeration](Access.AcTextFormat.md)|Used with the [TextFormat](Access.TextBox.TextFormat.md) property to specify whether or not rich text is displayed in a Text Box.|
 | [AcTextTransferType Enumeration](Access.AcTextTransferType.md)|Used with the [DoCmd.TransferText Method (Access)](docmd-transfertext-method-access.md) method to specify the type of transfer you want to make.|
 | [AcTransformXMLScriptOption Enumeration](Access.AcTransformXMLScriptOption.md)|Used with the [TransformXML](Access.Application.TransformXML.md) method to specify the action taken if the XSL file contains scripting code.|
 | [AcVerticalAnchor Enumeration](Access.AcVerticalAnchor.md)|Used with the  **VerticalAnchor** property to specify how a control is anchored vertically within its layout.|

@@ -29,5 +29,5 @@ Returns the parent object for the specified object. Read-only.
 #### Concepts
 
 
-[FormatConditions Collection](formatconditions-object-access.md)
+[FormatConditions Collection](Access.FormatConditions.md)
 

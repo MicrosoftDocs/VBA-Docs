@@ -29,5 +29,5 @@ Deletes the specified object.
 #### Concepts
 
 
-[FormatConditions Collection](formatconditions-object-access.md)
+[FormatConditions Collection](Access.FormatConditions.md)
 

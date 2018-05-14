@@ -18,7 +18,7 @@ Represents an operation defined for an [Entity](Access.Entity.md).
 
 ## Remarks
 
-Use the [WSParameters](operation-wsparameters-property-access.md) property to return the parameters defined for the specified operation.
+Use the [WSParameters](Access.Operation.WSParameters.md) property to return the parameters defined for the specified operation.
 
 Use the [Execute](Access.Operation.Execute.md) method to execute the operation.
 
@@ -39,7 +39,7 @@ Use the [Execute](Access.Operation.Execute.md) method to execute the operation.
 |:-----|
 |[Name](Access.Operation.Name.md)|
 |[Parent](operation-parent-property-access.md)|
-|[WSParameters](operation-wsparameters-property-access.md)|
+|[WSParameters](Access.Operation.WSParameters.md)|
 
 ## See also
 

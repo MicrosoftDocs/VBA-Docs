@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TempVars Property (Access)
 
-Returns the collection of  **[TempVar](Access.TempVar.md)** objects. Read-only **[TempVars](tempvars-object-access.md)**.
+Returns the collection of  **[TempVar](Access.TempVar.md)** objects. Read-only **[TempVars](Access.TempVars.md)**.
 
 
 ## Syntax

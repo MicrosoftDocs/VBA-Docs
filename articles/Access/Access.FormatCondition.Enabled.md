@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Enabled Property (Access)
 
-You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](formatcondition-object-access.md)** object. Read/write **Boolean**.
+You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ When the  **Enabled** property is **True**, the conditional format can be displa
 #### Concepts
 
 
-[FormatCondition Object](formatcondition-object-access.md)
+[FormatCondition Object](Access.FormatCondition.md)
 

@@ -29,5 +29,5 @@ Returns the parent object for the specified object. Read-only.
 #### Concepts
 
 
-[Forms Collection](forms-object-access.md)
+[Forms Collection](Access.Forms.md)
 

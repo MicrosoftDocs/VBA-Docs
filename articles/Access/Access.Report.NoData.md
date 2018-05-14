@@ -32,7 +32,7 @@ _expression_ A variable that represents a **Report** object.
 
 To run a macro or event procedure when this event occurs, set the **[OnNoData](Access.Report.OnNoData.md)** property to the name of the macro or to [Event Procedure].
 
-If the report isn't bound to a table or query (by using the report's **[RecordSource](report-recordsource-property-access.md)** property), the **NoData** event doesn't occur.
+If the report isn't bound to a table or query (by using the report's **[RecordSource](Access.Report.RecordSource.md)** property), the **NoData** event doesn't occur.
 
 This event occurs after the  **Format** events for the report, but before the first **Print** event.
 

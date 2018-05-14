@@ -32,7 +32,7 @@ The  **GroupInterval** property settings are **Long** values that depend on the 
 You can set the  **GroupInterval** property only the **[Open](Access.Report.Open.md)** event procedure of a report.
 
 
- **Note**  To set the  **GroupInterval** property to a value other than its default setting (1), you must first set the **[GroupHeader](grouplevel-groupheader-property-access.md)** or **[GroupFooter](Access.GroupLevel.GroupFooter.md)** property or both to Yes for the selected field or expression.
+ **Note**  To set the  **GroupInterval** property to a value other than its default setting (1), you must first set the **[GroupHeader](Access.GroupLevel.GroupHeader.md)** or **[GroupFooter](Access.GroupLevel.GroupFooter.md)** property or both to Yes for the selected field or expression.
 
 Here are examples of  **GroupInterval** property settings for different field data types.
 

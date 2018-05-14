@@ -87,7 +87,7 @@ You can also view the custom properties dialog box by clicking the  **Properties
 |[BottomPadding](Access.CustomControl.BottomPadding.md)|
 |[Cancel](Access.CustomControl.Cancel.md)|
 |[Class](Access.CustomControl.Class.md)|
-|[Controls](customcontrol-controls-property-access.md)|
+|[Controls](Access.CustomControl.Controls.md)|
 |[ControlSource](Access.CustomControl.ControlSource.md)|
 |[ControlTipText](Access.CustomControl.ControlTipText.md)|
 |[ControlType](Access.CustomControl.ControlType.md)|
@@ -110,15 +110,15 @@ You can also view the custom properties dialog box by clicking the  **Properties
 |[HorizontalAnchor](Access.CustomControl.HorizontalAnchor.md)|
 |[InSelection](Access.CustomControl.InSelection.md)|
 |[IsVisible](Access.CustomControl.IsVisible.md)|
-|[Layout](customcontrol-layout-property-access.md)|
+|[Layout](Access.CustomControl.Layout.md)|
 |[LayoutID](Access.CustomControl.LayoutID.md)|
-|[Left](customcontrol-left-property-access.md)|
+|[Left](Access.CustomControl.Left.md)|
 |[LeftPadding](Access.CustomControl.LeftPadding.md)|
 |[Locked](Access.CustomControl.Locked.md)|
 |[Name](Access.CustomControl.Name.md)|
-|[Object](customcontrol-object-property-access.md)|
+|[Object](Access.CustomControl.Object.md)|
 |[ObjectPalette](Access.CustomControl.ObjectPalette.md)|
-|[ObjectVerbs](customcontrol-objectverbs-property-access.md)|
+|[ObjectVerbs](Access.CustomControl.ObjectVerbs.md)|
 |[ObjectVerbsCount](Access.CustomControl.ObjectVerbsCount.md)|
 |[OldBorderStyle](Access.CustomControl.OldBorderStyle.md)|
 |[OldValue](Access.CustomControl.OldValue.md)|
@@ -136,7 +136,7 @@ You can also view the custom properties dialog box by clicking the  **Properties
 |[TabIndex](Access.CustomControl.TabIndex.md)|
 |[TabStop](Access.CustomControl.TabStop.md)|
 |[Tag](Access.CustomControl.Tag.md)|
-|[Top](customcontrol-top-property-access.md)|
+|[Top](Access.CustomControl.Top.md)|
 |[TopPadding](Access.CustomControl.TopPadding.md)|
 |[Value](Access.CustomControl.Value.md)|
 |[VarOleObject](Access.CustomControl.VarOleObject.md)|

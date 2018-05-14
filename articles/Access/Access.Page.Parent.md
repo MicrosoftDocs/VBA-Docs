@@ -29,5 +29,5 @@ Returns the parent object for the specified object. Read-only.
 #### Concepts
 
 
-[Page Object](page-object-access.md)
+[Page Object](Access.Page.md)
 

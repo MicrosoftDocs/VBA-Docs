@@ -58,5 +58,5 @@ Debug.Print Modules.Item(0)
 #### Concepts
 
 
-[Controls Collection](controls-object-access.md)
+[Controls Collection](Access.Controls.md)
 

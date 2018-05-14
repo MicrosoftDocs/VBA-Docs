@@ -38,5 +38,5 @@ The height of controls is measured from the center of their borders so controls 
 #### Concepts
 
 
-[Page Object](page-object-access.md)
+[Page Object](Access.Page.md)
 

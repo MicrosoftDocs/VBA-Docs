@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pages.Add Method (Access)
 
-The  **Add** method adds a new **[Page](page-object-access.md)** object to the **[Pages](pages-object-access.md)** collection of a tab control.
+The  **Add** method adds a new **[Page](Access.Page.md)** object to the **[Pages](Access.Pages.md)** collection of a tab control.
 
 
 ## Syntax
@@ -78,5 +78,5 @@ End Function
 #### Concepts
 
 
-[Pages Collection](pages-object-access.md)
+[Pages Collection](Access.Pages.md)
 

@@ -29,5 +29,5 @@ Returns the parent object for the specified object. Read-only.
 #### Concepts
 
 
-[Reports Collection](reports-object-access.md)
+[Reports Collection](Access.Reports.md)
 

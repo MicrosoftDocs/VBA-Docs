@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Forms Property (Access)
 
-You can use the  **Forms** property to return a read-only reference to the **[Forms](forms-object-access.md)** collection and its related properties.
+You can use the  **Forms** property to return a read-only reference to the **[Forms](Access.Forms.md)** collection and its related properties.
 
 
 ## Syntax

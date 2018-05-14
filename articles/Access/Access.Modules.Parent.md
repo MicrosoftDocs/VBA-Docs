@@ -29,5 +29,5 @@ Returns the parent object for the specified object. Read-only.
 #### Concepts
 
 
-[Modules Collection](modules-object-access.md)
+[Modules Collection](Access.Modules.md)
 

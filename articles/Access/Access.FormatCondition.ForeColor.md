@@ -27,7 +27,7 @@ You can use the  **ForeColor** property to specify the color for text in a contr
 
 You can use this property for controls on forms or reports to make them easy to read or to convey a special meaning. For example, you can change the color of the text in the UnitsInStock control when its value falls below the reorder level.
 
-You can also use this property on reports to create special visual effects when you print with a color printer. When used on a report, this property specifies the printing and drawing color for the  **[Print](report-print-method-access.md)**, **[Line](Access.Report.Line.md)**, and **[Circle](Access.Report.Circle.md)** methods.
+You can also use this property on reports to create special visual effects when you print with a color printer. When used on a report, this property specifies the printing and drawing color for the  **[Print](Access.Report.Print.md)**, **[Line](Access.Report.Line.md)**, and **[Circle](Access.Report.Circle.md)** methods.
 
 The  **ForeColor** property contains a numeric expression that represents the value of the text color in the control.
 
@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[FormatCondition Object](formatcondition-object-access.md)
+[FormatCondition Object](Access.FormatCondition.md)
 

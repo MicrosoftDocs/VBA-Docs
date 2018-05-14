@@ -83,7 +83,7 @@ End With
 |[PrintQuality](Access.Printer.PrintQuality.md)|
 |[RightMargin](Access.Printer.RightMargin.md)|
 |[RowSpacing](Access.Printer.RowSpacing.md)|
-|[TopMargin](printer-topmargin-property-access.md)|
+|[TopMargin](Access.Printer.TopMargin.md)|
 
 ## See also
 

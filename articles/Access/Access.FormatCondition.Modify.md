@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Modify Method (Access)
 
-You can use the  **Modify** method to change the format conditions of a **[FormatCondition](formatcondition-object-access.md)** object in the **[FormatConditions](formatconditions-object-access.md)** collection of a combo box or text box control.
+You can use the  **Modify** method to change the format conditions of a **[FormatCondition](Access.FormatCondition.md)** object in the **[FormatConditions](Access.FormatConditions.md)** collection of a combo box or text box control.
 
 
 ## Syntax
@@ -48,5 +48,5 @@ Nothing
 #### Concepts
 
 
-[FormatCondition Object](formatcondition-object-access.md)
+[FormatCondition Object](Access.FormatCondition.md)
 

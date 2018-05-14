@@ -29,5 +29,5 @@ You can use the  **Count** property to determine the number of items in a specif
 #### Concepts
 
 
-[FormatConditions Collection](formatconditions-object-access.md)
+[FormatConditions Collection](Access.FormatConditions.md)
 

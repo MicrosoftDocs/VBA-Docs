@@ -18,7 +18,7 @@ A collection of  **[SmartTagProperty](Access.SmartTagProperty.md)** objects that
 
 ## Remarks
 
-To return the  **SmartTagProperties** collection for a smart tag, use the **[Properties](smarttag-properties-property-access.md)** property of the **[SmartTag](smarttag-object-access.md)** object. To create a custom property from within a Visual Basic for Applications (VBA) project, use the **[Add](Access.SmartTagProperties.Add.md)** method of the **SmartTagProperties** collection.
+To return the  **SmartTagProperties** collection for a smart tag, use the **[Properties](Access.SmartTag.Properties.md)** property of the **[SmartTag](Access.SmartTag.md)** object. To create a custom property from within a Visual Basic for Applications (VBA) project, use the **[Add](Access.SmartTagProperties.Add.md)** method of the **SmartTagProperties** collection.
 
 
 ## Methods

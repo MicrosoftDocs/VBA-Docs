@@ -31,7 +31,7 @@ This property is available only by using [Visual Basic](set-properties-by-using-
 
 You use the  **RecordsetClone** property to navigate or operate on a form's records independent of the form itself. For example, you can use the **RecordsetClone** property when you want to use a method, such as the DAO **Find** methods, that can't be used with forms.
 
-When a new  **Recordset** object is opened, its first record is the current record. If you one of the **Find** method or one of the **Move** methods to make any other record in the **Recordset** object current, you must synchronize the current record in the **Recordset** object with the form's current record by assigning the value of the DAO **Bookmark** property to the form's **[Bookmark](form-bookmark-property-access.md)** property.
+When a new  **Recordset** object is opened, its first record is the current record. If you one of the **Find** method or one of the **Move** methods to make any other record in the **Recordset** object current, you must synchronize the current record in the **Recordset** object with the form's current record by assigning the value of the DAO **Bookmark** property to the form's **[Bookmark](Access.Form.Bookmark.md)** property.
 
  **Link provided by:**
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community

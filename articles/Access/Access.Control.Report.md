@@ -28,7 +28,7 @@ You can use the  **Report** property to refer to a report or to refer to the rep
 This property is typically used to refer to the report contained in a subreport control.
 
 
- **Note**  When you use the  **[Reports](reports-object-access.md)** collection, you must specify the name of the report.
+ **Note**  When you use the  **[Reports](Access.Reports.md)** collection, you must specify the name of the report.
 
 
 ## Example

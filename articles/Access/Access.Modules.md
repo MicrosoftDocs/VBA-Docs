@@ -58,7 +58,7 @@ End Sub
 |[Application](Access.Modules.Application.md)|
 |[Count](Access.Modules.Count.md)|
 |[Item](Access.Modules.Item.md)|
-|[Parent](modules-parent-property-access.md)|
+|[Parent](Access.Modules.Parent.md)|
 
 ## See also
 

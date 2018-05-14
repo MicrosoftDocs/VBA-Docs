@@ -58,5 +58,5 @@ Debug.Print Modules.Item(0)
 #### Concepts
 
 
-[FormatConditions Collection](formatconditions-object-access.md)
+[FormatConditions Collection](Access.FormatConditions.md)
 

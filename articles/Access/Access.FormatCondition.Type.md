@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Type Property (Access)
 
-Returns the value of a  **[FormatCondition](formatcondition-object-access.md)** object type. Read-only **[AcFormatConditionType](Access.AcFormatConditionType.md)**.
+Returns the value of a  **[FormatCondition](Access.FormatCondition.md)** object type. Read-only **[AcFormatConditionType](Access.AcFormatConditionType.md)**.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns the value of a  **[FormatCondition](formatcondition-object-access.md)** 
 #### Concepts
 
 
-[FormatCondition Object](formatcondition-object-access.md)
+[FormatCondition Object](Access.FormatCondition.md)
 

@@ -29,5 +29,5 @@ You can use the  **Count** property to determine the number of items in a specif
 #### Concepts
 
 
-[Reports Collection](reports-object-access.md)
+[Reports Collection](Access.Reports.md)
 

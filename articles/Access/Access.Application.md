@@ -52,7 +52,7 @@ Set appAccess = CreateObject("Access.Application")
 
 After you create a new instance of the  **Application** class, you can open a database or create a new database, by using either the **[OpenCurrentDatabase](http://msdn.microsoft.com/library/fd214849-02ac-eaa6-7525-9aee42b92f3d%28Office.15%29.aspx)** method or the **[NewCurrentDatabase](http://msdn.microsoft.com/library/6934a77e-5fa0-7e43-e159-2ffc2a944dca%28Office.15%29.aspx)** method. You can then set the properties of the **Application** object and call its methods. When you return a reference to the **CommandBars** object by using the **CommandBars** property of the **Application** object, you can access all Microsoft Office command bar objects and collections by using this reference.
 
-You can also manipulate other Access objects through the  **Application** object. For example, by using the **[OpenForm](http://msdn.microsoft.com/library/a1c9d3a9-2af8-c30a-acb0-6428c70dcdb0%28Office.15%29.aspx)** method of the Access **[DoCmd](docmd-object-access.md)** object, you can open an Access form from Microsoft Office Excel:
+You can also manipulate other Access objects through the  **Application** object. For example, by using the **[OpenForm](http://msdn.microsoft.com/library/a1c9d3a9-2af8-c30a-acb0-6428c70dcdb0%28Office.15%29.aspx)** method of the Access **[DoCmd](Access.DoCmd.md)** object, you can open an Access form from Microsoft Office Excel:
 
 
 

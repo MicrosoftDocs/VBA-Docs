@@ -33,26 +33,26 @@ Position page breaks above or below other controls. Placing a page break on the 
 
 |**Name**|
 |:-----|
-|[Move](pagebreak-move-method-access.md)|
-|[SizeToFit](pagebreak-sizetofit-method-access.md)|
+|[Move](Access.PageBreak.Move.md)|
+|[SizeToFit](Access.PageBreak.SizeToFit.md)|
 
 ## Properties
 
 |**Name**|
 |:-----|
-|[Application](pagebreak-application-property-access.md)|
-|[ControlType](pagebreak-controltype-property-access.md)|
-|[EventProcPrefix](pagebreak-eventprocprefix-property-access.md)|
-|[InSelection](pagebreak-inselection-property-access.md)|
-|[IsVisible](pagebreak-isvisible-property-access.md)|
-|[Left](pagebreak-left-property-access.md)|
-|[Name](pagebreak-name-property-access.md)|
-|[Parent](pagebreak-parent-property-access.md)|
-|[Properties](pagebreak-properties-property-access.md)|
-|[Section](pagebreak-section-property-access.md)|
-|[Tag](pagebreak-tag-property-access.md)|
-|[Top](pagebreak-top-property-access.md)|
-|[Visible](pagebreak-visible-property-access.md)|
+|[Application](Access.PageBreak.Application.md)|
+|[ControlType](Access.PageBreak.ControlType.md)|
+|[EventProcPrefix](Access.PageBreak.EventProcPrefix.md)|
+|[InSelection](Access.PageBreak.InSelection.md)|
+|[IsVisible](Access.PageBreak.IsVisible.md)|
+|[Left](Access.PageBreak.Left.md)|
+|[Name](Access.PageBreak.Name.md)|
+|[Parent](Access.PageBreak.Parent.md)|
+|[Properties](Access.PageBreak.Properties.md)|
+|[Section](Access.PageBreak.Section.md)|
+|[Tag](Access.PageBreak.Tag.md)|
+|[Top](Access.PageBreak.Top.md)|
+|[Visible](Access.PageBreak.Visible.md)|
 
 ## See also
 

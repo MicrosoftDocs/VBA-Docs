@@ -44,5 +44,5 @@ Me.Application.MenuBar
 #### Concepts
 
 
-[FormatConditions Collection](formatconditions-object-access.md)
+[FormatConditions Collection](Access.FormatConditions.md)
 

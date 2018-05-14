@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Modules Property (Access)
 
-You can use the  **Modules** property to access the **[Modules](modules-object-access.md)** collection and its related properties. Read-only **Modules** object.
+You can use the  **Modules** property to access the **[Modules](Access.Modules.md)** collection and its related properties. Read-only **Modules** object.
 
 
 ## Syntax

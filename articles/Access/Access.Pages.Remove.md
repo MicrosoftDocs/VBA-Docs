@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pages.Remove Method (Access)
 
-The  **Remove** method removes a **[Page](page-object-access.md)** object from the **[Pages](pages-object-access.md)** collection of a tab control.
+The  **Remove** method removes a **[Page](Access.Page.md)** object from the **[Pages](Access.Pages.md)** collection of a tab control.
 
 
 ## Syntax
@@ -71,5 +71,5 @@ End Function
 #### Concepts
 
 
-[Pages Collection](pages-object-access.md)
+[Pages Collection](Access.Pages.md)
 

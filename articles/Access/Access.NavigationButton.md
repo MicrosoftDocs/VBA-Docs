@@ -120,7 +120,7 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 |[HoverShade](Access.NavigationButton.HoverShade.md)|
 |[HoverThemeColorIndex](Access.NavigationButton.HoverThemeColorIndex.md)|
 |[HoverTint](Access.NavigationButton.HoverTint.md)|
-|[Hyperlink](navigationbutton-hyperlink-property-access.md)|
+|[Hyperlink](Access.NavigationButton.Hyperlink.md)|
 |[HyperlinkAddress](Access.NavigationButton.HyperlinkAddress.md)|
 |[HyperlinkSubAddress](Access.NavigationButton.HyperlinkSubAddress.md)|
 |[InSelection](Access.NavigationButton.InSelection.md)|
@@ -129,9 +129,9 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 |[LabelX](Access.NavigationButton.LabelX.md)|
 |[LabelY](Access.NavigationButton.LabelY.md)|
 |[Layout](Access.NavigationButton.Layout.md)|
-|[LayoutID](navigationbutton-layoutid-property-access.md)|
+|[LayoutID](Access.NavigationButton.LayoutID.md)|
 |[Left](Access.NavigationButton.Left.md)|
-|[LeftPadding](navigationbutton-leftpadding-property-access.md)|
+|[LeftPadding](Access.NavigationButton.LeftPadding.md)|
 |[Name](Access.NavigationButton.Name.md)|
 |[NavigationTargetName](Access.NavigationButton.NavigationTargetName.md)|
 |[NavigationWhereClause](Access.NavigationButton.NavigationWhereClause.md)|
@@ -152,7 +152,7 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 |[OnPush](Access.NavigationButton.OnPush.md)|
 |[Parent](Access.NavigationButton.Parent.md)|
 |[ParentTab](Access.NavigationButton.ParentTab.md)|
-|[Picture](navigationbutton-picture-property-access.md)|
+|[Picture](Access.NavigationButton.Picture.md)|
 |[PictureCaptionArrangement](Access.NavigationButton.PictureCaptionArrangement.md)|
 |[PictureData](Access.NavigationButton.PictureData.md)|
 |[PictureType](Access.NavigationButton.PictureType.md)|
@@ -165,7 +165,7 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 |[PressedThemeColorIndex](Access.NavigationButton.PressedThemeColorIndex.md)|
 |[PressedTint](Access.NavigationButton.PressedTint.md)|
 |[Properties](Access.NavigationButton.Properties.md)|
-|[QuickStyle](navigationbutton-quickstyle-property-access.md)|
+|[QuickStyle](Access.NavigationButton.QuickStyle.md)|
 |[QuickStyleMask](Access.navigationbutton.quickstylemask.md)|
 |[ReadingOrder](Access.NavigationButton.ReadingOrder.md)|
 |[RightPadding](Access.NavigationButton.RightPadding.md)|
@@ -179,7 +179,7 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 |[TabStop](Access.NavigationButton.TabStop.md)|
 |[Tag](Access.NavigationButton.Tag.md)|
 |[ThemeFontIndex](Access.NavigationButton.ThemeFontIndex.md)|
-|[Top](navigationbutton-top-property-access.md)|
+|[Top](Access.NavigationButton.Top.md)|
 |[TopPadding](Access.NavigationButton.TopPadding.md)|
 |[Transparent](Access.NavigationButton.Transparent.md)|
 |[VerticalAnchor](Access.NavigationButton.VerticalAnchor.md)|

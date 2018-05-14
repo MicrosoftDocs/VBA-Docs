@@ -44,5 +44,5 @@ Me.Application.MenuBar
 #### Concepts
 
 
-[Forms Collection](forms-object-access.md)
+[Forms Collection](Access.Forms.md)
 

@@ -24,7 +24,7 @@ Represents a parameter defined for an [Operation](Access.Operation.md).
 |:-----|
 |[Name](Access.WSParameter.Name.md)|
 |[Parent](Access.WSParameter.Parent.md)|
-|[Type](wsparameter-type-property-access.md)|
+|[Type](Access.WSParameter.Type.md)|
 
 ## See also
 

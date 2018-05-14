@@ -39,7 +39,7 @@ To run a macro or event procedure when this event occurs, set the  **[OnApplyFil
 You can use the  **ApplyFilter** event to:
 
 
-- Make sure the filter that is being applied is correct. For example, you may want to be sure that any filter applied to an Orders report includes criteria restricting the OrderDate field. To do this, check the report's  **[Filter](report-filter-property-access.md)** or **[ServerFilter](Access.Report.ServerFilter.md)** property value to make sure this criteria is included in the WHERE clause expression.
+- Make sure the filter that is being applied is correct. For example, you may want to be sure that any filter applied to an Orders report includes criteria restricting the OrderDate field. To do this, check the report's  **[Filter](Access.Report.Filter(property).md)** or **[ServerFilter](Access.Report.ServerFilter.md)** property value to make sure this criteria is included in the WHERE clause expression.
     
 - Change the display of the report before the filter is applied. For example, when you apply a certain filter, you may want to disable or hide some fields that aren't appropriate for the records displayed by this filter.
     

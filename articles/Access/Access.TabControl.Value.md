@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.Value Property (Access)
 
-Determines or specifies the selected  **[Page](page-object-access.md)** object. Read/write **Variant**.
+Determines or specifies the selected  **[Page](Access.Page.md)** object. Read/write **Variant**.
 
 
 ## Syntax

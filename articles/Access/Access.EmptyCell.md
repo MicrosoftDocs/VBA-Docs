@@ -65,9 +65,9 @@ When you type inside an empty cell, Microsoft Access automatically inserts a  **
 |[HorizontalAnchor](Access.EmptyCell.HorizontalAnchor.md)|
 |[InSelection](Access.EmptyCell.InSelection.md)|
 |[IsVisible](Access.EmptyCell.IsVisible.md)|
-|[Layout](emptycell-layout-property-access.md)|
+|[Layout](Access.EmptyCell.Layout.md)|
 |[LayoutID](Access.EmptyCell.LayoutID.md)|
-|[Left](emptycell-left-property-access.md)|
+|[Left](Access.EmptyCell.Left.md)|
 |[LeftPadding](Access.EmptyCell.LeftPadding.md)|
 |[Name](Access.EmptyCell.Name.md)|
 |[Parent](Access.EmptyCell.Parent.md)|
@@ -78,7 +78,7 @@ When you type inside an empty cell, Microsoft Access automatically inserts a  **
 |[SpecialEffect](Access.EmptyCell.SpecialEffect.md)|
 |[StatusBarText](Access.EmptyCell.StatusBarText.md)|
 |[Tag](Access.EmptyCell.Tag.md)|
-|[Top](emptycell-top-property-access.md)|
+|[Top](Access.EmptyCell.Top.md)|
 |[TopPadding](Access.EmptyCell.TopPadding.md)|
 |[VerticalAnchor](Access.EmptyCell.VerticalAnchor.md)|
 |[Visible](Access.EmptyCell.Visible.md)|

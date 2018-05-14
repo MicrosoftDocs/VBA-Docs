@@ -39,7 +39,7 @@ Displays the appropriate menu or toolbar command for Microsoft Access.
 
 |**Note**|
 |:-----|  
-|In Microsoft Access 97 and later, the  **DoMenuItem** method was replaced by the **[RunCommand](application-runcommand-method-access.md)** method. The **DoMenuItem** method is included in this version of Microsoft Access only for compatibility with previous versions. When you run existing Visual Basic code containing a **DoMenuItem** method, Microsoft Access will display the appropriate menu or toolbar command for Microsoft Access 2000. However, unlike the DoMenuItem action in a macro, a **DoMenuItem** method in Visual Basic code isn't converted to a **RunCommand** method when you convert a database created in a previous version of Microsoft Access.|
+|In Microsoft Access 97 and later, the  **DoMenuItem** method was replaced by the **[RunCommand](Access.Application.RunCommand.md)** method. The **DoMenuItem** method is included in this version of Microsoft Access only for compatibility with previous versions. When you run existing Visual Basic code containing a **DoMenuItem** method, Microsoft Access will display the appropriate menu or toolbar command for Microsoft Access 2000. However, unlike the DoMenuItem action in a macro, a **DoMenuItem** method in Visual Basic code isn't converted to a **RunCommand** method when you convert a database created in a previous version of Microsoft Access.|
 
 Some commands from previous versions of Microsoft Access aren't available in Access, and  **DoMenuItem** methods that run these commands will cause an error when they're executed in Visual Basic. You must edit your Visual Basic code to replace or delete occurrences of such **DoMenuItem** methods.
 

@@ -32,13 +32,13 @@ The  **LimitToList** property uses the following settings.
 |**Setting**|**Visual Basic**|**Description**|
 |:-----|:-----|:-----|
 |Yes|**True**|If the user selects an item from the list in the combo box or enters text that matches a listed item, Microsoft Access accepts it. If the entered text doesn't match a listed item, the text isn't accepted and the user must then retype the entry, select a listed item, press ESC, or click  **Undo** on the **Edit** menu.|
-|No|**False**|(Default) Microsoft Access accepts any text that conforms to the  **[ValidationRule](combobox-validationrule-property-access.md)** property.|
+|No|**False**|(Default) Microsoft Access accepts any text that conforms to the  **[ValidationRule](Access.ComboBox.ValidationRule.md)** property.|
 For [table fields](table-field.md) , you can set this property on the **Lookup** tab of the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box.
 
 
  **Note**  Microsoft Access sets the  **LimitToList** property automatically when you select Lookup Wizard as the data type for a field in table Design view.
 
-When the  **LimitToList** property of a bound combo box is set to No, you can enter a value in the combo box that isn't included in the list. Microsoft Access stores the new value in the form's underlying table or query (in the field specified in the combo box's **[ControlSource](combobox-controlsource-property-access.md)** property), not the table or query set for the combo box by the **[RowSource](Access.ComboBox.RowSource.md)** property. To have newly entered values appear in the combo box, you must add the new value to the table or query set in the **RowSource** property by using a macro or Visual Basic event procedure that runs when the **NotInList** event occurs.
+When the  **LimitToList** property of a bound combo box is set to No, you can enter a value in the combo box that isn't included in the list. Microsoft Access stores the new value in the form's underlying table or query (in the field specified in the combo box's **[ControlSource](Access.ComboBox.ControlSource.md)** property), not the table or query set for the combo box by the **[RowSource](Access.ComboBox.RowSource.md)** property. To have newly entered values appear in the combo box, you must add the new value to the table or query set in the **RowSource** property by using a macro or Visual Basic event procedure that runs when the **NotInList** event occurs.
 
 Setting both the  **LimitToList** property and the **[AutoExpand](Access.ComboBox.AutoExpand.md)** property to **Yes** lets Microsoft Access find matching values from the list as the user enters characters in the text box portion of the combo box, and restricts the entries to only those values.
 

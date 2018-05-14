@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Operator Property (Access)
 
-You can use the  **Operator** property to return the operator value for the conditional format or data validation of a **[FormatCondition](formatcondition-object-access.md)** object. Read-only **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)**.
+You can use the  **Operator** property to return the operator value for the conditional format or data validation of a **[FormatCondition](Access.FormatCondition.md)** object. Read-only **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)**.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The  **Operator** property's intrinsic constants are used in conjunction with th
 #### Concepts
 
 
-[FormatCondition Object](formatcondition-object-access.md)
+[FormatCondition Object](Access.FormatCondition.md)
 

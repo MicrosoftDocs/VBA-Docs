@@ -52,5 +52,5 @@ You can set the default for this property by using the default control style or 
 #### Concepts
 
 
-[FormatCondition Object](formatcondition-object-access.md)
+[FormatCondition Object](Access.FormatCondition.md)
 

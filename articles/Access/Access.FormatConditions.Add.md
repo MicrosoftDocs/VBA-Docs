@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatConditions.Add Method (Access)
 
-You can use the  **Add** method to add a conditional format as a **[FormatCondition](formatcondition-object-access.md)** object to the **[FormatConditions](formatconditions-object-access.md)** collection of a combo box or text box control.
+You can use the  **Add** method to add a conditional format as a **[FormatCondition](Access.FormatCondition.md)** object to the **[FormatConditions](Access.FormatConditions.md)** collection of a combo box or text box control.
 
 
 ## Syntax
@@ -50,5 +50,5 @@ You can use the  **Delete** method of the **FormatConditions** collection to del
 #### Concepts
 
 
-[FormatConditions Collection](formatconditions-object-access.md)
+[FormatConditions Collection](Access.FormatConditions.md)
 

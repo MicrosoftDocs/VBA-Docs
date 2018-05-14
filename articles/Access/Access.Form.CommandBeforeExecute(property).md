@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.CommandBeforeExecute Property (Access)
 
-Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[CommandBeforeExecute](form-commandbeforeexecute-event-access.md)** event occurs. Read/write.
+Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[CommandBeforeExecute](Access.Form.CommandBeforeExecute(even).md)** event occurs. Read/write.
 
 
 ## Syntax

@@ -36,5 +36,5 @@ You can use the  **Visible** property to hide a control on a form or report by i
 #### Concepts
 
 
-[PageBreak Object](pagebreak-object-access.md)
+[PageBreak Object](Access.PageBreak.md)
 

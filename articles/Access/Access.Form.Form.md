@@ -58,7 +58,7 @@ X = MyFunction(Forms!Customers!CustomerID)
 ```
 
 
- **Note**   When you use the **[Forms](forms-object-access.md)** collection, you must specify the name of the form.
+ **Note**   When you use the **[Forms](Access.Forms.md)** collection, you must specify the name of the form.
 
 
 ## Example

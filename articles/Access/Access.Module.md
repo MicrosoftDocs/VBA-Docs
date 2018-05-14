@@ -55,7 +55,7 @@ Dim mdl As Module
 Set mdl = Modules!Form_Employees
 ```
 
-To refer to a specific form or report module, you can also use the  **[Form](http://msdn.microsoft.com/library/72ef9219-142b-b690-b696-3eba9a5d4522%28Office.15%29.aspx)** or **[Report](report-object-access.md)** object's **Module** property:
+To refer to a specific form or report module, you can also use the  **[Form](http://msdn.microsoft.com/library/72ef9219-142b-b690-b696-3eba9a5d4522%28Office.15%29.aspx)** or **[Report](Access.Report.md)** object's **Module** property:
 
 
 

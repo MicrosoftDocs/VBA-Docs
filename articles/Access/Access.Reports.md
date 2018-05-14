@@ -38,10 +38,10 @@ You can't add or delete a  **Report** object from the **Reports** collection.
 
 |**Name**|
 |:-----|
-|[Application](reports-application-property-access.md)|
-|[Count](reports-count-property-access.md)|
-|[Item](reports-item-property-access.md)|
-|[Parent](reports-parent-property-access.md)|
+|[Application](Access.Reports.Application.md)|
+|[Count](Access.Reports.Count.md)|
+|[Item](Access.Reports.Item.md)|
+|[Parent](Access.Reports.Parent.md)|
 
 ## See also
 

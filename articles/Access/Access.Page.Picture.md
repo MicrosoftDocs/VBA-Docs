@@ -40,5 +40,5 @@ You can create custom bitmaps by using Microsoft Paintbrush or another applicati
 #### Concepts
 
 
-[Page Object](page-object-access.md)
+[Page Object](Access.Page.md)
 

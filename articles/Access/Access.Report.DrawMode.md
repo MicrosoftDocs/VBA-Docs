@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.DrawMode Property (Access)
 
-You can use the  **DrawMode** property to specify how the pen (the color used in drawing) interacts with existing background colors on a report when the **[Line](report-line-method-access.md)**, **[Circle](Access.Report.Circle.md)**, or **[Pset](Access.Report.PSet.md)** method is used to draw on a report when printing. Read/write **Integer**.
+You can use the  **DrawMode** property to specify how the pen (the color used in drawing) interacts with existing background colors on a report when the **[Line](Access.Report.Line.md)**, **[Circle](Access.Report.Circle.md)**, or **[Pset](Access.Report.PSet.md)** method is used to draw on a report when printing. Read/write **Integer**.
 
 
 ## Syntax

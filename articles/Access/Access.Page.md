@@ -18,7 +18,7 @@ A  **Page** object corresponds to an individual page on a tab control.
 
 ## Remarks
 
-A  **Page** object is a member of a tab control's **[Pages](pages-object-access.md)** collection.
+A  **Page** object is a member of a tab control's **[Pages](Access.Pages.md)** collection.
 
 To return a reference to a particular  **Page** object in the **Pages** collection, use any of the following syntax forms.
 
@@ -46,11 +46,11 @@ Each  **Page** object can also contain one or more controls. Controls on a **Pag
 
 |**Name**|
 |:-----|
-|[Click](page-click-event-access.md)|
-|[DblClick](page-dblclick-event-access.md)|
-|[MouseDown](page-mousedown-event-access.md)|
-|[MouseMove](page-mousemove-event-access.md)|
-|[MouseUp](page-mouseup-event-access.md)|
+|[Click](Access.Page.Click.md)|
+|[DblClick](Access.Page.DblClick.md)|
+|[MouseDown](Access.Page.MouseDown.md)|
+|[MouseMove](Access.Page.MouseMove.md)|
+|[MouseUp](Access.Page.MouseUp.md)|
 
 ## Methods
 
@@ -58,11 +58,11 @@ Each  **Page** object can also contain one or more controls. Controls on a **Pag
 
 |**Name**|
 |:-----|
-|[Move](page-move-method-access.md)|
-|[Requery](page-requery-method-access.md)|
-|[SetFocus](page-setfocus-method-access.md)|
-|[SetTabOrder](page-settaborder-method-access.md)|
-|[SizeToFit](page-sizetofit-method-access.md)|
+|[Move](Access.Page.Move.md)|
+|[Requery](Access.Page.Requery.md)|
+|[SetFocus](Access.Page.SetFocus.md)|
+|[SetTabOrder](Access.Page.SetTabOrder.md)|
+|[SizeToFit](Access.Page.SizeToFit.md)|
 
 ## Properties
 
@@ -71,32 +71,32 @@ Each  **Page** object can also contain one or more controls. Controls on a **Pag
 |**Name**|
 |:-----|
 |[Application](Access.Page.Application.md)|
-|[Caption](page-caption-property-access.md)|
-|[Controls](page-controls-property-access.md)|
-|[ControlTipText](page-controltiptext-property-access.md)|
-|[ControlType](page-controltype-property-access.md)|
-|[Enabled](page-enabled-property-access.md)|
-|[EventProcPrefix](page-eventprocprefix-property-access.md)|
-|[Height](page-height-property-access.md)|
-|[HelpContextId](page-helpcontextid-property-access.md)|
-|[InSelection](page-inselection-property-access.md)|
-|[IsVisible](page-isvisible-property-access.md)|
-|[Left](page-left-property-access.md)|
-|[Name](page-name-property-access.md)|
-|[OnClick](page-onclick-property-access.md)|
-|[OnDblClick](page-ondblclick-property-access.md)|
-|[OnMouseDown](page-onmousedown-property-access.md)|
-|[OnMouseMove](page-onmousemove-property-access.md)|
-|[OnMouseUp](page-onmouseup-property-access.md)|
-|[PageIndex](page-pageindex-property-access.md)|
-|[Parent](page-parent-property-access.md)|
-|[Picture](page-picture-property-access.md)|
-|[PictureData](page-picturedata-property-access.md)|
-|[PictureType](page-picturetype-property-access.md)|
-|[Properties](page-properties-property-access.md)|
-|[Section](page-section-property-access.md)|
-|[ShortcutMenuBar](page-shortcutmenubar-property-access.md)|
-|[StatusBarText](page-statusbartext-property-access.md)|
+|[Caption](Access.Page.Caption.md)|
+|[Controls](Access.Page.Controls.md)|
+|[ControlTipText](Access.Page.ControlTipText.md)|
+|[ControlType](Access.Page.ControlType.md)|
+|[Enabled](Access.Page.Enabled.md)|
+|[EventProcPrefix](Access.Page.EventProcPrefix.md)|
+|[Height](Access.Page.Height.md)|
+|[HelpContextId](Access.Page.HelpContextId.md)|
+|[InSelection](Access.Page.InSelection.md)|
+|[IsVisible](Access.Page.IsVisible.md)|
+|[Left](Access.Page.Left.md)|
+|[Name](Access.Page.Name.md)|
+|[OnClick](Access.Page.OnClick.md)|
+|[OnDblClick](Access.Page.OnDblClick.md)|
+|[OnMouseDown](Access.Page.OnMouseDown.md)|
+|[OnMouseMove](Access.Page.OnMouseMove.md)|
+|[OnMouseUp](Access.Page.OnMouseUp.md)|
+|[PageIndex](Access.Page.PageIndex.md)|
+|[Parent](Access.Page.Parent.md)|
+|[Picture](Access.Page.Picture.md)|
+|[PictureData](Access.Page.PictureData.md)|
+|[PictureType](Access.Page.PictureType.md)|
+|[Properties](Access.Page.Properties.md)|
+|[Section](Access.Page.Section.md)|
+|[ShortcutMenuBar](Access.Page.ShortcutMenuBar.md)|
+|[StatusBarText](Access.Page.StatusBarText.md)|
 |[Tag](Access.Page.Tag.md)|
 |[Top](Access.Page.Top.md)|
 |[Visible](Access.Page.Visible.md)|

@@ -41,5 +41,5 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 #### Concepts
 
 
-[Page Object](page-object-access.md)
+[Page Object](Access.Page.md)
 

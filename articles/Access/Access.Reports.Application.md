@@ -44,5 +44,5 @@ Me.Application.MenuBar
 #### Concepts
 
 
-[Reports Collection](reports-object-access.md)
+[Reports Collection](Access.Reports.md)
 

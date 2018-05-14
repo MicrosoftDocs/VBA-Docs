@@ -31,8 +31,8 @@ Use the  **BackColor**, **Enabled**, **FontBold**, **FontItalic**, **FontUnderli
 
 |**Name**|
 |:-----|
-|[Delete](formatcondition-delete-method-access.md)|
-|[Modify](formatcondition-modify-method-access.md)|
+|[Delete](Access.FormatCondition.Delete.md)|
+|[Modify](Access.FormatCondition.Modify.md)|
 
 ## Properties
 
@@ -40,21 +40,21 @@ Use the  **BackColor**, **Enabled**, **FontBold**, **FontItalic**, **FontUnderli
 
 |**Name**|
 |:-----|
-|[BackColor](formatcondition-backcolor-property-access.md)|
-|[Enabled](formatcondition-enabled-property-access.md)|
-|[Expression1](formatcondition-expression1-property-access.md)|
-|[Expression2](formatcondition-expression2-property-access.md)|
-|[FontBold](formatcondition-fontbold-property-access.md)|
-|[FontItalic](formatcondition-fontitalic-property-access.md)|
-|[FontUnderline](formatcondition-fontunderline-property-access.md)|
-|[ForeColor](formatcondition-forecolor-property-access.md)|
-|[LongestBarLimit](formatcondition-longestbarlimit-property-access.md)|
-|[LongestBarValue](formatcondition-longestbarvalue-property-access.md)|
-|[Operator](formatcondition-operator-property-access.md)|
-|[ShortestBarLimit](formatcondition-shortestbarlimit-property-access.md)|
-|[ShortestBarValue](formatcondition-shortestbarvalue-property-access.md)|
-|[ShowBarOnly](formatcondition-showbaronly-property-access.md)|
-|[Type](formatcondition-type-property-access.md)|
+|[BackColor](Access.FormatCondition.BackColor.md)|
+|[Enabled](Access.FormatCondition.Enabled.md)|
+|[Expression1](Access.FormatCondition.Expression1.md)|
+|[Expression2](Access.FormatCondition.Expression2.md)|
+|[FontBold](Access.FormatCondition.FontBold.md)|
+|[FontItalic](Access.FormatCondition.FontItalic.md)|
+|[FontUnderline](Access.FormatCondition.FontUnderline.md)|
+|[ForeColor](Access.FormatCondition.ForeColor.md)|
+|[LongestBarLimit](Access.FormatCondition.LongestBarLimit.md)|
+|[LongestBarValue](Access.FormatCondition.LongestBarValue.md)|
+|[Operator](Access.FormatCondition.Operator.md)|
+|[ShortestBarLimit](Access.FormatCondition.ShortestBarLimit.md)|
+|[ShortestBarValue](Access.FormatCondition.ShortestBarValue.md)|
+|[ShowBarOnly](Access.FormatCondition.ShowBarOnly.md)|
+|[Type](Access.FormatCondition.Type.md)|
 
 ## See also
 

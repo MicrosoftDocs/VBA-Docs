@@ -36,5 +36,5 @@ You can use the  **Visible** property to hide a control on a form or report by i
 #### Concepts
 
 
-[Page Object](page-object-access.md)
+[Page Object](Access.Page.md)
 
