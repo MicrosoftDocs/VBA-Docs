@@ -29,5 +29,5 @@ Returns or sets a  **String** representing a free-form field, usually containing
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

@@ -22,16 +22,16 @@ Occurs after Microsoft Outlook has saved the item.
 
 ## Remarks
 
-The  **AfterWrite** event occurs after the **[Write](remoteitem-write-event-outlook.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](remoteitem-unload-event-outlook.md)** event.
+The  **AfterWrite** event occurs after the **[Write](Outlook.RemoteItem.Write.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](Outlook.RemoteItem.Unload.md)** event.
 
 The  **AfterWrite** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnWriteComplete** .
 
 Only the following members of the item object can be accessed in the  **AfterWrite** event:
 
 
--  **[Class](remoteitem-class-property-outlook.md)**
+-  **[Class](Outlook.RemoteItem.Class.md)**
     
--  **[MessageClass](remoteitem-messageclass-property-outlook.md)**
+-  **[MessageClass](Outlook.RemoteItem.MessageClass.md)**
     
 -  **MAPIOBJECT**
     
@@ -48,5 +48,5 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

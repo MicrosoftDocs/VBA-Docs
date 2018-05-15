@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.RetentionExpirationDate Property (Outlook)
 
-Returns a  **Date** that specifies the date when the **[SharingItem](sharingitem-object-outlook.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
+Returns a  **Date** that specifies the date when the **[SharingItem](Outlook.SharingItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
 
 
 ## Syntax
@@ -47,5 +47,5 @@ Microsoft Outlook calculates the value of this property based on the item retent
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalModule.Visible Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[JournalModule](journalmodule-object-outlook.md)** object is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Boolean** value that determines whether the **[JournalModule](Outlook.JournalModule.md)** object is displayed in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that determines whether the **[JournalModul
 #### Concepts
 
 
-[JournalModule Object](journalmodule-object-outlook.md)
+[JournalModule Object](Outlook.JournalModule.md)
 

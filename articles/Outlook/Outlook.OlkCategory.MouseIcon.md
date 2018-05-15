@@ -34,5 +34,5 @@ The custom picture is of the Microsoft Windows type  **StdPicture** . The defaul
 #### Concepts
 
 
-[OlkCategory Object](olkcategory-object-outlook.md)
+[OlkCategory Object](Outlook.OlkCategory.md)
 

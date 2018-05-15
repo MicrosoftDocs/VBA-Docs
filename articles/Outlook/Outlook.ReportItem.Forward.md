@@ -40,5 +40,5 @@ In VBScript, if you set the return value of this function to  **False** , the fo
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

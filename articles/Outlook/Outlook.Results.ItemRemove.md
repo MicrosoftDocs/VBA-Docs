@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[Results Object](results-object-outlook.md)
+[Results Object](Outlook.Results.md)
 

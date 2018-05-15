@@ -22,16 +22,16 @@ Occurs after Microsoft Outlook has saved the item.
 
 ## Remarks
 
-The  **AfterWrite** event occurs after the **[Write](appointmentitem-write-event-outlook.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](appointmentitem-unload-event-outlook.md)** event.
+The  **AfterWrite** event occurs after the **[Write](Outlook.AppointmentItem.Write.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](Outlook.AppointmentItem.Unload.md)** event.
 
 The  **AfterWrite** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnWriteComplete** .
 
 Only the following members of the item object can be accessed in the  **AfterWrite** event:
 
 
--  **[Class](appointmentitem-class-property-outlook.md)**
+-  **[Class](Outlook.AppointmentItem.Class.md)**
     
--  **[MessageClass](appointmentitem-messageclass-property-outlook.md)**
+-  **[MessageClass](Outlook.AppointmentItem.MessageClass.md)**
     
 -  **MAPIOBJECT**
     
@@ -48,5 +48,5 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

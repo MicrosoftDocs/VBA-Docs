@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[CalendarSharing Object](calendarsharing-object-outlook.md)
+[CalendarSharing Object](Outlook.CalendarSharing.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Name Property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the **[ExchangeUser](exchangeuser-object-outlook.md)** object. Read/write.
+Returns or sets a  **String** value that represents the display name for the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the **[
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

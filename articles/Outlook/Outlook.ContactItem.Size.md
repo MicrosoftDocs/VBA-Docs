@@ -29,5 +29,5 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

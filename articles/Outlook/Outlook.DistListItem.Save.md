@@ -29,5 +29,5 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

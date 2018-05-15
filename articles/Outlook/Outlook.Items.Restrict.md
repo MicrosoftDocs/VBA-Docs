@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Items.Restrict Method (Outlook)
 
-Applies a filter to the  **[Items](items-object-outlook.md)** collection, returning a new collection containing all of the items from the original that match the filter.
+Applies a filter to the  **[Items](Outlook.Items.md)** collection, returning a new collection containing all of the items from the original that match the filter.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Applies a filter to the  **[Items](items-object-outlook.md)** collection, return
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Filter_|Required| **String**|A filter string expression to be applied. For details, see the  **[Find](items-find-method-outlook.md)** method.|
+| _Filter_|Required| **String**|A filter string expression to be applied. For details, see the  **[Find](Outlook.Items.Find.md)** method.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ An  **Items** collection that represents the items from the original **Items** c
 
 ## Remarks
 
-This method is an alternative to using the  **[Find](items-find-method-outlook.md)** method or **[FindNext](items-findnext-method-outlook.md)** method to iterate over specific items within a collection. The **Find** or **FindNext** methods are faster than filtering if there are a small number of items. The **Restrict** method is significantly faster if there is a large number of items in the collection, especially if only a few items in a large collection are expected to be found.
+This method is an alternative to using the  **[Find](Outlook.Items.Find.md)** method or **[FindNext](Outlook.Items.FindNext.md)** method to iterate over specific items within a collection. The **Find** or **FindNext** methods are faster than filtering if there are a small number of items. The **Restrict** method is significantly faster if there is a large number of items in the collection, especially if only a few items in a large collection are expected to be found.
 
 
  **Note**  If you are using user-defined fields as part of a  **Find** or **Restrict** clause, the user-defined fields must exist in the folder. Otherwise the code will generate an error stating that the field is unknown. You can add a field to a folder by displaying the **Field Chooser** and clicking **New**.
@@ -218,7 +218,7 @@ sFilter = "[Categories] = 'Personal' And Not([CompanyName] = 'Microsoft')"
 
 ### Additional Notes
 
-If you are trying to use the  **Find** or **Restrict** methods with user-defined fields, the fields must be defined in the folder, otherwise an error will occur. There is no way to perform a "contains" operation. For example, you cannot use **Find** or **Restrict** to search for items that have a particular word in the **Subject** field. Instead, you can use the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method, or you can loop through all of the items in the folder and use the **InStr** function to perform a search within a field. You can use the **Restrict** method to search for items that begin within a certain range of characters. For example, to search for all contacts with a last name beginning with the letter M, use this filter:
+If you are trying to use the  **Find** or **Restrict** methods with user-defined fields, the fields must be defined in the folder, otherwise an error will occur. There is no way to perform a "contains" operation. For example, you cannot use **Find** or **Restrict** to search for items that have a particular word in the **Subject** field. Instead, you can use the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method, or you can loop through all of the items in the folder and use the **InStr** function to perform a search within a field. You can use the **Restrict** method to search for items that begin within a certain range of characters. For example, to search for all contacts with a last name beginning with the letter M, use this filter:
 
 
 ```vb
@@ -307,5 +307,5 @@ End Sub
 #### Concepts
 
 
-[Items Object](items-object-outlook.md)
+[Items Object](Outlook.Items.md)
 

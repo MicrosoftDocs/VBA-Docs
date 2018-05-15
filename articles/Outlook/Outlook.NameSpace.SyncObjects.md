@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.SyncObjects Property (Outlook)
 
-Returns a  **[SyncObjects](syncobjects-object-outlook.md)** collection containing all Send\Receive groups. Read-only.
+Returns a  **[SyncObjects](Outlook.SyncObjects.md)** collection containing all Send\Receive groups. Read-only.
 
 
 ## Syntax
@@ -69,5 +69,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

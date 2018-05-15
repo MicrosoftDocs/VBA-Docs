@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [ListBox Object (Outlook Forms Script)](listbox-object-outlook-forms-script.md)
+-  [ListBox Object (Outlook Forms Script)](Outlook.listbox.md)
     
 -  [ListBox Members (Outlook Forms Script)](listbox-members-outlook-forms-script.md)
     

@@ -37,5 +37,5 @@ Occurs just after the focus passes from this control to another control on the s
 #### Concepts
 
 
-[OlkCheckBox Object](olkcheckbox-object-outlook.md)
+[OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

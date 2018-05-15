@@ -33,7 +33,7 @@ Displays a button in the  **Show** group of the Microsoft Office Fluent ribbon f
 
 ## Remarks
 
-For form regions, you can use  **ShowFormRegion** to display the button by specifying the **[InternalName](formregion-internalname-property-outlook.md)** property of the form region, if the form region is an adjoining or separate form region. Only the add-in that implements the form region can use **ShowFormRegion** to display the button.
+For form regions, you can use  **ShowFormRegion** to display the button by specifying the **[InternalName](Outlook.FormRegion.InternalName.md)** property of the form region, if the form region is an adjoining or separate form region. Only the add-in that implements the form region can use **ShowFormRegion** to display the button.
 
 
 ## Example
@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

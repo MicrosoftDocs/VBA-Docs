@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationModules.GetNavigationModule Method (Outlook)
 
-Retrieves a  **[NavigationModule](navigationmodule-object-outlook.md)** object with the specified navigation module type from the Navigation Pane.
+Retrieves a  **[NavigationModule](Outlook.NavigationModule.md)** object with the specified navigation module type from the Navigation Pane.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Retrieves a  **[NavigationModule](navigationmodule-object-outlook.md)** object w
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ModuleType_|Required| **[OlNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)**|The type of navigation module to be retrieved.|
+| _ModuleType_|Required| **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)**|The type of navigation module to be retrieved.|
 
 ### Return Value
 
@@ -42,5 +42,5 @@ A  **NavigationModule** object that represents the navigation module with the sp
 #### Concepts
 
 
-[NavigationModules Object](navigationmodules-object-outlook.md)
+[NavigationModules Object](Outlook.NavigationModules.md)
 

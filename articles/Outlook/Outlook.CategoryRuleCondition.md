@@ -18,7 +18,7 @@ Represents a rule condition that evaluates categories on a message as compared w
 
 ## Remarks
 
- **CategoryRuleCondition** is derived from the **[RuleCondition](rulecondition-object-outlook.md)** object. Each rule is associated with a **[RuleConditions](ruleconditions-object-outlook.md)** object which has a **[RuleConditions.Category](ruleconditions-category-property-outlook.md)** property. The **Category** property always returns a **CategoryRuleCondition** object. If the rule has any of these rule conditions enabled, then **[CategoryRuleCondition.Enabled](categoryrulecondition-enabled-property-outlook.md)** would be **True**.
+ **CategoryRuleCondition** is derived from the **[RuleCondition](Outlook.RuleCondition.md)** object. Each rule is associated with a **[RuleConditions](Outlook.RuleConditions.md)** object which has a **[RuleConditions.Category](Outlook.RuleConditions.Category.md)** property. The **Category** property always returns a **CategoryRuleCondition** object. If the rule has any of these rule conditions enabled, then **[CategoryRuleCondition.Enabled](Outlook.CategoryRuleCondition.Enabled.md)** would be **True**.
 
 For more information on specifying rule actions, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
 
@@ -29,12 +29,12 @@ For more information on specifying rule actions, see [Specify Rule Conditions](h
 
 |**Name**|
 |:-----|
-|[Application](categoryrulecondition-application-property-outlook.md)|
-|[Categories](categoryrulecondition-categories-property-outlook.md)|
-|[Class](categoryrulecondition-class-property-outlook.md)|
-|[ConditionType](categoryrulecondition-conditiontype-property-outlook.md)|
-|[Enabled](categoryrulecondition-enabled-property-outlook.md)|
-|[Parent](categoryrulecondition-parent-property-outlook.md)|
+|[Application](Outlook.CategoryRuleCondition.Application.md)|
+|[Categories](Outlook.CategoryRuleCondition.Categories.md)|
+|[Class](Outlook.CategoryRuleCondition.Class.md)|
+|[ConditionType](Outlook.CategoryRuleCondition.ConditionType.md)|
+|[Enabled](Outlook.CategoryRuleCondition.Enabled.md)|
+|[Parent](Outlook.CategoryRuleCondition.Parent.md)|
 |[Session](categoryrulecondition-session-property-outlook.md)|
 
 ## See also

@@ -34,5 +34,5 @@ If  **True** , clicking in the margin causes selection of text. If **False** , t
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

@@ -34,5 +34,5 @@ The font is expressed as the Microsoft Windows type  **StdFont** .
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

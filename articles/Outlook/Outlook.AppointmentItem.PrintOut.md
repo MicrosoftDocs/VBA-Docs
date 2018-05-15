@@ -29,5 +29,5 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

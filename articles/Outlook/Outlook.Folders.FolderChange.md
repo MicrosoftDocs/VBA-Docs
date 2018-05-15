@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.FolderChange Event (Outlook)
 
-Occurs when a folder in the specified  **[Folders](folders-object-outlook.md)** collection is changed.
+Occurs when a folder in the specified  **[Folders](Outlook.Folders.md)** collection is changed.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Occurs when a folder in the specified  **[Folders](folders-object-outlook.md)** 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Folder_|Required| **[Folder](folder-object-outlook.md)**|The folder that has been changed.|
+| _Folder_|Required| **[Folder](Outlook.Folder.md)**|The folder that has been changed.|
 
 ## Remarks
 
@@ -80,5 +80,5 @@ End Sub
 #### Concepts
 
 
-[Folders Object](folders-object-outlook.md)
+[Folders Object](Outlook.Folders.md)
 

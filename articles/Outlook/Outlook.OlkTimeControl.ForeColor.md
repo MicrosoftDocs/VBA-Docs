@@ -34,5 +34,5 @@ This property is of the type  **OLE_COLOR** which is a **Long** value. The defau
 #### Concepts
 
 
-[OlkTimeControl Object](olktimecontrol-object-outlook.md)
+[OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

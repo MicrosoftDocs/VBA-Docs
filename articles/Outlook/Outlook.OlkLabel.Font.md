@@ -34,5 +34,5 @@ The font is expressed as the Microsoft Windows type  **StdFont** .
 #### Concepts
 
 
-[OlkLabel Object](olklabel-object-outlook.md)
+[OlkLabel Object](Outlook.OlkLabel.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarModule.NavigationGroups Property (Outlook)
 
-Returns a  **[NavigationGroups](navigationgroups-object-outlook.md)** object that contains the set of navigation groups associated with the **[CalendarModule](calendarmodule-object-outlook.md)** object. Read-only.
+Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that contains the set of navigation groups associated with the **[CalendarModule](Outlook.CalendarModule.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[NavigationGroups](navigationgroups-object-outlook.md)** object tha
 #### Concepts
 
 
-[CalendarModule Object](calendarmodule-object-outlook.md)
+[CalendarModule Object](Outlook.CalendarModule.md)
 

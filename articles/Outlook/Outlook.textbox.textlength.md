@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # TextBox.TextLength Property (Outlook Forms Script)
 
-Returns a  **Long** that represents the length, in number of characters, of text in the edit region of a **[TextBox](textbox-object-outlook-forms-script.md)**. Read-only.
+Returns a  **Long** that represents the length, in number of characters, of text in the edit region of a **[TextBox](Outlook.textbox.md)**. Read-only.
 
 
 ## Syntax

@@ -34,5 +34,5 @@ The default value of this property is  **True** .
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

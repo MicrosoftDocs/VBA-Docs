@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ComboBox.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](combobox-boundcolumn-property-outlook-forms-script.md)** of the currently selected rows. Read/write.
+Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](Outlook.combobox.boundcolumn.md)** of the currently selected rows. Read/write.
 
 
 ## Syntax
@@ -20,6 +20,6 @@ Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](c
 
 ## Remarks
 
-Changing the contents of  **Value** does not change the value of **BoundColumn**. To add or delete entries in a  **ComboBox**, you can use the  **[AddItem](combobox-additem-method-outlook-forms-script.md)** or **[RemoveItem](combobox-removeitem-method-outlook-forms-script.md)** method.
+Changing the contents of  **Value** does not change the value of **BoundColumn**. To add or delete entries in a  **ComboBox**, you can use the  **[AddItem](Outlook.combobox.additem.md)** or **[RemoveItem](Outlook.combobox.removeitem.md)** method.
 
 

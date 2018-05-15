@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewFields.Add Method (Outlook)
 
-Adds the specified field to the end of the  **[ViewFields](viewfields-object-outlook.md)** collection for the view.
+Adds the specified field to the end of the  **[ViewFields](Outlook.ViewFields.md)** collection for the view.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Adds the specified field to the end of the  **[ViewFields](viewfields-object-out
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PropertyName_|Required| **String**|The name of the property to which the new object is associated. This property can be referenced by field name (displayed in the Field Chooser) or by namespace (represented by  **[ViewField.ViewXMLSchemaName](viewfield-viewxmlschemaname-property-outlook.md)** ).|
+| _PropertyName_|Required| **String**|The name of the property to which the new object is associated. This property can be referenced by field name (displayed in the Field Chooser) or by namespace (represented by  **[ViewField.ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)** ).|
 
 ### Return Value
 
@@ -38,11 +38,11 @@ A  **ViewField** object that represents the new view field.
 
 ## Remarks
 
-To programmatically add a custom field to a view, use the  **ViewFields.Add** method. This is the recommended way to dynamically change the view over setting the **[XML](view-xml-property-outlook.md)** property of the **[View](view-object-outlook.md)** object.
+To programmatically add a custom field to a view, use the  **ViewFields.Add** method. This is the recommended way to dynamically change the view over setting the **[XML](Outlook.View.XML.md)** property of the **[View](Outlook.View.md)** object.
 
 Referencing the property in  _PropertyName_ by its field name requires the localized name in the corresponding locale. For more information on referencing properties by namespace, see[Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).
 
-If you are adding a custom property to the  **ViewFields** collection, the property must exist in the **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** collection for the View?s parent folder.
+If you are adding a custom property to the  **ViewFields** collection, the property must exist in the **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** collection for the View?s parent folder.
 
 If the property already exists in the  **ViewFields** collection, Outlook will raise an error.
 
@@ -102,7 +102,7 @@ Err_Handler:
 End Sub
 ```
 
-The following code sample in VBA assumes the current view is a  **[TableView](tableview-object-outlook.md)** , references the Message Class property by namespace and adds it to the current view of the current folder. To avoid Outlook raising an error, the code checks for the existence of this property in the view before calling **ViewFields.Add** .
+The following code sample in VBA assumes the current view is a  **[TableView](Outlook.TableView.md)** , references the Message Class property by namespace and adds it to the current view of the current folder. To avoid Outlook raising an error, the code checks for the existence of this property in the view before calling **ViewFields.Add** .
 
 
 
@@ -152,5 +152,5 @@ End Sub
 #### Concepts
 
 
-[ViewFields Object](viewfields-object-outlook.md)
+[ViewFields Object](Outlook.ViewFields.md)
 

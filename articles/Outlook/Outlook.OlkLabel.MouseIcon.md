@@ -34,5 +34,5 @@ The custom picture is of the Microsoft Windows type  **StdPicture** . The defaul
 #### Concepts
 
 
-[OlkLabel Object](olklabel-object-outlook.md)
+[OlkLabel Object](Outlook.OlkLabel.md)
 

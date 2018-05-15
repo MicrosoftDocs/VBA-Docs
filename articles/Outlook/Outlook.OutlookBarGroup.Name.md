@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
-[OutlookBarGroup Object](outlookbargroup-object-outlook.md)
+[OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 

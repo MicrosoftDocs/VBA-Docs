@@ -29,5 +29,5 @@ Returns or sets a  **String** corresponding to the number for the specified form
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

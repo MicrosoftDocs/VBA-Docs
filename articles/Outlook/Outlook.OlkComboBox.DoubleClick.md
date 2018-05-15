@@ -29,5 +29,5 @@ Occurs when the user double-clicks inside the control.
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

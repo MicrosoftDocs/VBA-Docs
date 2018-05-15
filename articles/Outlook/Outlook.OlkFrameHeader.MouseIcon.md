@@ -34,5 +34,5 @@ The custom picture is of the Microsoft Windows type  **StdPicture** . The defaul
 #### Concepts
 
 
-[OlkFrameHeader Object](olkframeheader-object-outlook.md)
+[OlkFrameHeader Object](Outlook.OlkFrameHeader.md)
 

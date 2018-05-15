@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the name of the form, which is displa
 
 ## Remarks
 
-If both the  **[FormDescription.Name](formdescription-name-property-outlook.md)** and **FormDescription.DisplayName** properties are empty, setting one will set the other. If one has been previously set, setting the other will not change the value.
+If both the  **[FormDescription.Name](Outlook.FormDescription.Name.md)** and **FormDescription.DisplayName** properties are empty, setting one will set the other. If one has been previously set, setting the other will not change the value.
 
 
 ## See also
@@ -34,5 +34,5 @@ If both the  **[FormDescription.Name](formdescription-name-property-outlook.md)*
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

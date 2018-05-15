@@ -20,7 +20,7 @@ Refreshes the cache by obtaining the current definition from the Windows registr
 
  _expression_ . **RefreshFormRegionDefinition**( **_RegionName_** )
 
- _expression_ A variable that represents an **[Application](application-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ### Parameters
@@ -35,7 +35,7 @@ Refreshes the cache by obtaining the current definition from the Windows registr
 
 When Outlook starts, it reads the Windows registry to obtain a list of form regions and their definitions, and then caches the data. The definitions are stored in the registry under the local machine key (as HKEY_LOCAL_MACHINE\Software\Microsoft\Office\Outlook\FormRegions) and under the current user key (as HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\FormRegions). The definitions describe the layout, behavior, and other characteristics of each form region. If you register a form region or modify the definition of a form region after Outlook starts, you can use the  **RefreshFormRegionDefinition** method to instruct Outlook to obtain the updated information.
 
-The  _RegionName_ argument should match the **[InternalName](formregion-internalname-property-outlook.md)** property of the form region whose definition you are refreshing. The internal name of a form region supports only ASCII characters. If you specify an empty string, Outlook reads the Windows registry to obtain definitions for all of the form regions that are defined for the local machine and the current user.
+The  _RegionName_ argument should match the **[InternalName](Outlook.FormRegion.InternalName.md)** property of the form region whose definition you are refreshing. The internal name of a form region supports only ASCII characters. If you specify an empty string, Outlook reads the Windows registry to obtain definitions for all of the form regions that are defined for the local machine and the current user.
 
 For more information about registering form regions, see [Specifying Form Regions in the Windows Registry](http://msdn.microsoft.com/library/0de3fcb1-b357-8300-c943-9a5a788d4976%28Office.15%29.aspx).
 
@@ -46,5 +46,5 @@ For more information about registering form regions, see [Specifying Form Region
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

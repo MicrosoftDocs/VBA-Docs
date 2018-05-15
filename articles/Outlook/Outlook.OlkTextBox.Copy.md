@@ -34,5 +34,5 @@ The data is copied in unformatted text format, replacing the existing contents o
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

@@ -25,7 +25,7 @@ Returns or sets a  **String** specifying the fourth field on the Contacts form i
 
 ## Remarks
 
-The properties  **[ContactItem.User1](contactitem-user1-property-outlook.md)** , **[ContactItem.User2](contactitem-user2-property-outlook.md)** , **[ContactItem.User3](contactitem-user3-property-outlook.md)** , and **ContactItem.User4** map to the fields **User Field 1**,  **User Field 2**,  **User Field 3**, and  **User Field 4** on the Contacts form respectively. These properties are explicit built-in **String** properties; users can use these fields for miscellaneous purposes for the contact.
+The properties  **[ContactItem.User1](Outlook.ContactItem.User1.md)** , **[ContactItem.User2](Outlook.ContactItem.User2.md)** , **[ContactItem.User3](Outlook.ContactItem.User3.md)** , and **ContactItem.User4** map to the fields **User Field 1**,  **User Field 2**,  **User Field 3**, and  **User Field 4** on the Contacts form respectively. These properties are explicit built-in **String** properties; users can use these fields for miscellaneous purposes for the contact.
 
 
 ## See also
@@ -34,5 +34,5 @@ The properties  **[ContactItem.User1](contactitem-user1-property-outlook.md)** ,
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

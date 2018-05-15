@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** that is **True** if the action is enabled in the 
 #### Concepts
 
 
-[Action Object](action-object-outlook.md)
+[Action Object](Outlook.Action.md)
 

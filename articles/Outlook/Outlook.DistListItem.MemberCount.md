@@ -78,5 +78,5 @@ End Sub
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

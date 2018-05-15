@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserDefinedProperties.Add Method (Outlook)
 
-Creates a new  **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** object and appends it to the collection.
+Creates a new  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object and appends it to the collection.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Creates a new  **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new user-defined property.|
-| _Type_|Required| **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)**|The type of the new user-defined property.|
-| _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see[DisplayFormat Property](userdefinedproperty-displayformat-property-outlook.md).|
+| _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new user-defined property.|
+| _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see[DisplayFormat Property](Outlook.UserDefinedProperty.DisplayFormat.md).|
 | _Formula_|Optional| **Variant**|The formula used to calculate values for the new user-defined property. This parameter is ignored if the  _Type_ parameter is set to any value other than **olCombination** or **olFormula** .|
 
 ### Return Value
@@ -79,5 +79,5 @@ End Sub
 #### Concepts
 
 
-[UserDefinedProperties Object](userdefinedproperties-object-outlook.md)
+[UserDefinedProperties Object](Outlook.UserDefinedProperties.md)
 

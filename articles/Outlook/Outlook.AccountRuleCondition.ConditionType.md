@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccountRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionAccount** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant,  **olConditionAccount** , from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The account rule condition is supported by rules for receiving messages and rule
 #### Concepts
 
 
-[AccountRuleCondition Object](accountrulecondition-object-outlook.md)
+[AccountRuleCondition Object](Outlook.AccountRuleCondition.md)
 

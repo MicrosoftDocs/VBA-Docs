@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Reminder Object](reminder-object-outlook.md)
+[Reminder Object](Outlook.Reminder.md)
 

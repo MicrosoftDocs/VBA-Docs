@@ -29,19 +29,19 @@ This data can be obtained from the Windows registry key HKEY_LOCAL_MACHINE\SOFTW
 
 |**Name**|
 |:-----|
-|[Application](timezone-application-property-outlook.md)|
-|[Bias](timezone-bias-property-outlook.md)|
-|[Class](timezone-class-property-outlook.md)|
-|[DaylightBias](timezone-daylightbias-property-outlook.md)|
-|[DaylightDate](timezone-daylightdate-property-outlook.md)|
-|[DaylightDesignation](timezone-daylightdesignation-property-outlook.md)|
-|[ID](timezone-id-property-outlook.md)|
-|[Name](timezone-name-property-outlook.md)|
-|[Parent](timezone-parent-property-outlook.md)|
-|[Session](timezone-session-property-outlook.md)|
-|[StandardBias](timezone-standardbias-property-outlook.md)|
-|[StandardDate](timezone-standarddate-property-outlook.md)|
-|[StandardDesignation](timezone-standarddesignation-property-outlook.md)|
+|[Application](Outlook.TimeZone.Application.md)|
+|[Bias](Outlook.TimeZone.Bias.md)|
+|[Class](Outlook.TimeZone.Class.md)|
+|[DaylightBias](Outlook.TimeZone.DaylightBias.md)|
+|[DaylightDate](Outlook.TimeZone.DaylightDate.md)|
+|[DaylightDesignation](Outlook.TimeZone.DaylightDesignation.md)|
+|[ID](Outlook.TimeZone.ID.md)|
+|[Name](Outlook.TimeZone.Name.md)|
+|[Parent](Outlook.TimeZone.Parent.md)|
+|[Session](Outlook.TimeZone.Session.md)|
+|[StandardBias](Outlook.TimeZone.StandardBias.md)|
+|[StandardDate](Outlook.TimeZone.StandardDate.md)|
+|[StandardDesignation](Outlook.TimeZone.StandardDesignation.md)|
 
 ## See also
 

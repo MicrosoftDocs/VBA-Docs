@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.ClearSearch Method (Outlook)
 
-Clears results from a Microsoft Instant Search in an  **[Explorer](explorer-object-outlook.md)** if results are displayed in the **Explorer** .
+Clears results from a Microsoft Instant Search in an  **[Explorer](Outlook.Explorer.md)** if results are displayed in the **Explorer** .
 
 
 ## Syntax
@@ -36,5 +36,5 @@ If no search results are displayed in the Explorer,  **ClearSearch** will not ta
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

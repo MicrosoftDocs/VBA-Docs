@@ -25,7 +25,7 @@ Returns a  **Date** indicating the date and time on which the Outlook item was s
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagClientSubmitTime** . When you send a meeting request item using the object's **[Send](meetingitem-receivedtime-property-outlook.md)** method, the transport provider sets the **[ReceivedTime](mailitem-receivedtime-property-outlook.md)** and **SentOn** properties for you.
+This property corresponds to the MAPI property  **PidTagClientSubmitTime** . When you send a meeting request item using the object's **[Send](Outlook.MeetingItem.ReceivedTime.md)** method, the transport provider sets the **[ReceivedTime](Outlook.MailItem.ReceivedTime.md)** and **SentOn** properties for you.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagClientSubmitTime** . Whe
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

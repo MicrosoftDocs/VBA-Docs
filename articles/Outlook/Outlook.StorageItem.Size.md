@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.Size Property (Outlook)
 
-Returns a  **Long** indicating the size (in bytes) of the **[StorageItem](storageitem-object-outlook.md)** . Read-only.
+Returns a  **Long** indicating the size (in bytes) of the **[StorageItem](Outlook.StorageItem.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** indicating the size (in bytes) of the **[StorageItem](storag
 
 ## Remarks
 
-The  **Size** of a **StorageItem** that is newly created is zero (0) until you make an explicit call on the **[Save](storageitem-save-method-outlook.md)** method of the item.
+The  **Size** of a **StorageItem** that is newly created is zero (0) until you make an explicit call on the **[Save](Outlook.StorageItem.Save.md)** method of the item.
 
 
 ## See also
@@ -34,5 +34,5 @@ The  **Size** of a **StorageItem** that is newly created is zero (0) until you m
 #### Concepts
 
 
-[StorageItem Object](storageitem-object-outlook.md)
+[StorageItem Object](Outlook.StorageItem.md)
 

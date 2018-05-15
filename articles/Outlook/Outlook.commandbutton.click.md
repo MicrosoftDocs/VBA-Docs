@@ -25,7 +25,7 @@ The following are examples of actions that initiate the  **Click** event of the 
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
     
-- Clicking a  **[CommandButton](commandbutton-object-outlook-forms-script.md)**.
+- Clicking a  **[CommandButton](Outlook.commandbutton.md)**.
     
 - Pressing the  **SPACEBAR** when a **CommandButton** has the focus.
     

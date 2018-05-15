@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.Stores Property (Outlook)
 
-Returns a  **[Stores](stores-object-outlook.md)** collection object that represents all the **[Store](store-object-outlook.md)** objects in the current profile. Read-only.
+Returns a  **[Stores](Outlook.Stores.md)** collection object that represents all the **[Store](Outlook.Store.md)** objects in the current profile. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[Stores](stores-object-outlook.md)** collection object that represe
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

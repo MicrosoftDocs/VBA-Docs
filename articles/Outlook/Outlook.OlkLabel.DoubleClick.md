@@ -29,5 +29,5 @@ Occurs when the user double-clicks inside the control.
 #### Concepts
 
 
-[OlkLabel Object](olklabel-object-outlook.md)
+[OlkLabel Object](Outlook.OlkLabel.md)
 

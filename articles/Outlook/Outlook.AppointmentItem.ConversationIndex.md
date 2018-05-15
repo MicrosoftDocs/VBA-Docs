@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagConversationIndex** .
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

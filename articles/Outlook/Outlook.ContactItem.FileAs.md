@@ -29,5 +29,5 @@ Returns or sets a  **String** indicating the default keyword string assigned to 
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

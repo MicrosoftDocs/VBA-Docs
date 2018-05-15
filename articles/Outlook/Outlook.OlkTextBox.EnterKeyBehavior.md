@@ -34,5 +34,5 @@ When this property is  **True** , pressing **ENTER** creates a new line. When th
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

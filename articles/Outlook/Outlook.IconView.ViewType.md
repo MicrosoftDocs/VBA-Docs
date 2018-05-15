@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconView.ViewType Property (Outlook)
 
-Returns an  **[OlViewType](olviewtype-enumeration-outlook.md)** constant that indicates the view type of the view. Read-only.
+Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the view type of the view. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OlViewType](olviewtype-enumeration-outlook.md)** constant that in
 #### Concepts
 
 
-[IconView Object](iconview-object-outlook.md)
+[IconView Object](Outlook.IconView.md)
 

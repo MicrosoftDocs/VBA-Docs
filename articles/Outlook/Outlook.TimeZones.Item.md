@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeZones.Item Method (Outlook)
 
-Returns a  **[TimeZone](timezone-object-outlook.md)** object from the collection.
+Returns a  **[TimeZone](Outlook.TimeZone.md)** object from the collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[TimeZone](timezone-object-outlook.md)** object from the collection
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|An  **Integer** representing a one-based index into the **[TimeZones](timezones-object-outlook.md)** collection.|
+| _Index_|Required| **Long**|An  **Integer** representing a one-based index into the **[TimeZones](Outlook.TimeZones.md)** collection.|
 
 ### Return Value
 
@@ -42,5 +42,5 @@ A  **TimeZone** object that represents the specified object in the collection.
 #### Concepts
 
 
-[TimeZones Object](timezones-object-outlook.md)
+[TimeZones Object](Outlook.TimeZones.md)
 

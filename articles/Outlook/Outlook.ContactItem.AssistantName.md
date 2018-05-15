@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the name of the person who is the ass
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

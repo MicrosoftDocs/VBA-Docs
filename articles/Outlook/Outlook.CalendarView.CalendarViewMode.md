@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.CalendarViewMode Property (Outlook)
 
-Returns or sets an  **[OlCalendarViewMode](olcalendarviewmode-enumeration-outlook.md)** that determines the current view mode of the **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlCalendarViewMode](Outlook.OlCalendarViewMode.md)** that determines the current view mode of the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 
 
 ## Syntax
@@ -97,5 +97,5 @@ End Sub
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

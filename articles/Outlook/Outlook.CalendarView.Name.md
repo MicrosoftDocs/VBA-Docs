@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

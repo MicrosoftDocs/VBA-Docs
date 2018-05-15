@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.Creator Property (Outlook)
 
-Returns and sets the solution that created the  **[StorageItem](storageitem-object-outlook.md)** object. Read/write.
+Returns and sets the solution that created the  **[StorageItem](Outlook.StorageItem.md)** object. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Outlook does not set the  **Creator** property. Use the **Creator** property to 
 #### Concepts
 
 
-[StorageItem Object](storageitem-object-outlook.md)
+[StorageItem Object](Outlook.StorageItem.md)
 

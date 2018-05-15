@@ -20,7 +20,7 @@ Returns or sets a  **Byte** array that represents the body of the Microsoft Outl
 
  _expression_ . **RTFBody**
 
- _expression_ A variable that represents a **[TaskRequestUpdateItem](taskrequestupdateitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md)** object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ You can use the  **StrConv** function in Microsoft Visual Basic for Applications
 #### Concepts
 
 
-[TaskRequestUpdateItem Object](taskrequestupdateitem-object-outlook.md)
+[TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

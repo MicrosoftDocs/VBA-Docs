@@ -24,6 +24,6 @@ If you set the  **ColumnCount** property for a list box to 3 on an employee form
 
 Setting  **ColumnCount** to 0 displays zero columns, and setting it to -1 displays all the available columns. For an unbound data source, there is a 10-column limit (0 to 9).
 
-You can use the  **[ColumnWidths](listbox-columnwidths-property-outlook-forms-script.md)** property to set the width of the columns displayed in the control.
+You can use the  **[ColumnWidths](Outlook.listbox.columnwidths.md)** property to set the width of the columns displayed in the control.
 
 

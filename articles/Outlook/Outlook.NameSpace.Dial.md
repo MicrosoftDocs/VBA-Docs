@@ -29,7 +29,7 @@ Displays the  **New Call** dialog box that allows users to dial the primary phon
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ContactItem_|Optional| **Variant**|The  **[ContactItem](contactitem-object-outlook.md)** object of the contact you want to dial.|
+| _ContactItem_|Optional| **Variant**|The  **[ContactItem](Outlook.ContactItem.md)** object of the contact you want to dial.|
 
 ## Example
 
@@ -78,5 +78,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

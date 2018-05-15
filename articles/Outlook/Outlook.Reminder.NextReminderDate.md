@@ -25,12 +25,12 @@ Returns a  **Date** that indicates the next time the specified reminder will occ
 
 ## Remarks
 
-The  **NextReminderDate** property value changes every time the object's **[Snooze](reminder-snooze-method-outlook.md)** method is executed or when the user clicks the **Snooze** button.
+The  **NextReminderDate** property value changes every time the object's **[Snooze](Outlook.Reminder.Snooze.md)** method is executed or when the user clicks the **Snooze** button.
 
 
 ## Example
 
-The following example creates a report of all reminders in the collection and the dates when they will next occur. The subroutine concatenates the  **[Caption](reminder-caption-property-outlook.md)** and **NextReminderDate** properties into a string and displays the string in a dialog box.
+The following example creates a report of all reminders in the collection and the dates when they will next occur. The subroutine concatenates the  **[Caption](Outlook.Reminder.Caption.md)** and **NextReminderDate** properties into a string and displays the string in a dialog box.
 
 
 ```vb
@@ -88,5 +88,5 @@ End Sub
 #### Concepts
 
 
-[Reminder Object](reminder-object-outlook.md)
+[Reminder Object](Outlook.Reminder.md)
 

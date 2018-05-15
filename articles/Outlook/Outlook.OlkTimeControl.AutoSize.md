@@ -34,5 +34,5 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 #### Concepts
 
 
-[OlkTimeControl Object](olktimecontrol-object-outlook.md)
+[OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

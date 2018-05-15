@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions Object (Outlook)
 
-Contains a set of  **[RuleCondition](http://msdn.microsoft.com/library/e03f91c2-2c08-b036-104a-d6246f28bc2d%28Office.15%29.aspx)** objects or objects derived from **RuleCondition**, representing the conditions or exception conditions that must be satisfied in order for the **[Rule](rule-object-outlook.md)** to execute.
+Contains a set of  **[RuleCondition](http://msdn.microsoft.com/library/e03f91c2-2c08-b036-104a-d6246f28bc2d%28Office.15%29.aspx)** objects or objects derived from **RuleCondition**, representing the conditions or exception conditions that must be satisfied in order for the **[Rule](Outlook.Rule.md)** to execute.
 
 
 ## Remarks

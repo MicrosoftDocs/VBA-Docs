@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TasksModule.Name Property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[TasksModule](tasksmodule-object-outlook.md)** object. Read-only.
+Returns a  **String** value that represents the localized display name for the **[TasksModule](Outlook.TasksModule.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **String** value that represents the localized display name for the *
 #### Concepts
 
 
-[TasksModule Object](tasksmodule-object-outlook.md)
+[TasksModule Object](Outlook.TasksModule.md)
 

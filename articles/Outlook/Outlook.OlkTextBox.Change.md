@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.Change Event (Outlook)
 
-Occurs when the  **[Value](olktextbox-value-property-outlook.md)** property changes.
+Occurs when the  **[Value](Outlook.OlkTextBox.Value.md)** property changes.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Occurs when the  **[Value](olktextbox-value-property-outlook.md)** property chan
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

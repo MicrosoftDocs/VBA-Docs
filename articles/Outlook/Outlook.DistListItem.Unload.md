@@ -34,5 +34,5 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

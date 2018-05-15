@@ -25,7 +25,7 @@ Starts the timer on the journal entry. This method allows programmatic control o
 
 ## Remarks
 
-The  **[Duration](journalitem-duration-property-outlook.md)** , **[End](journalitem-end-property-outlook.md)** and **[Start](journalitem-start-property-outlook.md)** properties are automatically updated when the timer is stopped.
+The  **[Duration](Outlook.JournalItem.Duration.md)** , **[End](Outlook.JournalItem.End.md)** and **[Start](Outlook.JournalItem.Start.md)** properties are automatically updated when the timer is stopped.
 
 
 ## See also
@@ -34,5 +34,5 @@ The  **[Duration](journalitem-duration-property-outlook.md)** , **[End](journali
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

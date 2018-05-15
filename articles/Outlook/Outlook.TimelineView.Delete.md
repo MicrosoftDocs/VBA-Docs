@@ -29,5 +29,5 @@ Deletes an object from a collection.
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

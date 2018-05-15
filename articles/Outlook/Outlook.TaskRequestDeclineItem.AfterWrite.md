@@ -22,16 +22,16 @@ Occurs after Microsoft Outlook has saved the item.
 
 ## Remarks
 
-The  **AfterWrite** event occurs after the **[Write](taskrequestdeclineitem-write-event-outlook.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](taskrequestdeclineitem-unload-event-outlook.md)** event.
+The  **AfterWrite** event occurs after the **[Write](Outlook.TaskRequestDeclineItem.Write.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](Outlook.TaskRequestDeclineItem.Unload.md)** event.
 
 The  **AfterWrite** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnWriteComplete** .
 
 Only the following members of the item object can be accessed in the  **AfterWrite** event:
 
 
--  **[Class](taskrequestdeclineitem-class-property-outlook.md)**
+-  **[Class](Outlook.TaskRequestDeclineItem.Class.md)**
     
--  **[MessageClass](taskrequestdeclineitem-messageclass-property-outlook.md)**
+-  **[MessageClass](Outlook.TaskRequestDeclineItem.MessageClass.md)**
     
 -  **MAPIOBJECT**
     
@@ -48,5 +48,5 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

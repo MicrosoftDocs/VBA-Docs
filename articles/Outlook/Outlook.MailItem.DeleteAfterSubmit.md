@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if a copy of the mail mess
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # PeopleView.SaveOption Property (Outlook)
-Returns an [OlViewSaveOption](olviewsaveoption-enumeration-outlook.md) constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
+Returns an [OlViewSaveOption](Outlook.OlViewSaveOption.md) constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 
 ## Version information
 
@@ -35,6 +35,6 @@ Version Added: Outlook 2013
 #### Other resources
 
 
-[PeopleView Object](peopleview-object-outlook.md)
+[PeopleView Object](Outlook.peopleview.md)
 [PeopleView Members](http://msdn.microsoft.com/library/87b0295a-ab7d-28dd-cdf8-7e4331c3b802%28Office.15%29.aspx)
 

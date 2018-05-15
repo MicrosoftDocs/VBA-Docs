@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[OutlookBarShortcuts Object](outlookbarshortcuts-object-outlook.md)
+[OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 

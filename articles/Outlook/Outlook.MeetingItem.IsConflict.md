@@ -36,5 +36,5 @@ If  **True** , the specified item is in conflict.
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

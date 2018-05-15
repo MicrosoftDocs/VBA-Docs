@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Accounts.AutoDiscoverComplete Event (Outlook)
 
-Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange Server that is associated with the account, and has the related information available in the  **[AutoDiscoverXml](account-autodiscoverxml-property-outlook.md)** property of the **[Account](account-object-outlook.md)** object.
+Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange Server that is associated with the account, and has the related information available in the  **[AutoDiscoverXml](Outlook.Account.AutoDiscoverXml.md)** property of the **[Account](Outlook.Account.md)** object.
 
 
 ## Syntax
 
  _expression_ . **AutoDiscoverComplete**( **_Account_** )
 
- _expression_ A variable that represents an **[Accounts](accounts-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Accounts](Outlook.Accounts.md)** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Occurs after Microsoft Outlook has finished accessing the auto-discovery service
 
 ## Remarks
 
-This event is similar to the  **[AutoDiscoverComplete](namespace-autodiscovercomplete-event-outlook.md)** event of the **[NameSpace](namespace-object-outlook.md)** object, except that this event applies to the account for which auto-discovery is completed and not necessarily to the primary Exchange account.
+This event is similar to the  **[AutoDiscoverComplete](Outlook.NameSpace.AutoDiscoverComplete.md)** event of the **[NameSpace](Outlook.NameSpace.md)** object, except that this event applies to the account for which auto-discovery is completed and not necessarily to the primary Exchange account.
 
 
 ## See also
@@ -42,5 +42,5 @@ This event is similar to the  **[AutoDiscoverComplete](namespace-autodiscovercom
 #### Concepts
 
 
-[Accounts Object](accounts-object-outlook.md)
+[Accounts Object](Outlook.Accounts.md)
 

@@ -29,5 +29,5 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

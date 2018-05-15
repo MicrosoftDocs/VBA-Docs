@@ -24,6 +24,6 @@ Indicates the task recipient type.
 
 ## Remarks
 
-Used by the [Recipient.Type Property (Outlook)](recipient-type-property-outlook.md) for[TaskItem](taskitem-object-outlook.md) recipients.
+Used by the [Recipient.Type Property (Outlook)](recipient-type-property-outlook.md) for[TaskItem](Outlook.TaskItem.md) recipients.
 
 

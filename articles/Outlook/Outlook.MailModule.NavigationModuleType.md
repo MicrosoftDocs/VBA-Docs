@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailModule.NavigationModuleType Property (Outlook)
 
-Returns an  **[olNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
+Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[olNavigationModuleType](olnavigationmoduletype-enumeration-outloo
 
 ## Remarks
 
-This property returns  **olModuleMail** for the **[MailModule](mailmodule-object-outlook.md)** object.
+This property returns  **olModuleMail** for the **[MailModule](Outlook.MailModule.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olModuleMail** for the **[MailModule](mailmodule-object
 #### Concepts
 
 
-[MailModule Object](mailmodule-object-outlook.md)
+[MailModule Object](Outlook.MailModule.md)
 

@@ -34,5 +34,5 @@ The custom picture is of the Microsoft Windows type  **StdPicture** . The defaul
 #### Concepts
 
 
-[OlkTimeControl Object](olktimecontrol-object-outlook.md)
+[OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

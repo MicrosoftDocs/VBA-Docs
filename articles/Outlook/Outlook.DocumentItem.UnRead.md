@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

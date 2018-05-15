@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.SaveOption Property (Outlook)
 
-Returns an  **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
+Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)** cons
 
 ## Remarks
 
-The  **SaveOption** property is set when the **[View](view-object-outlook.md)** object is created by using the **[Views.Add](views-add-method-outlook.md)** method.
+The  **SaveOption** property is set when the **[View](Outlook.View.md)** object is created by using the **[Views.Add](Outlook.Views.Add.md)** method.
 
 
 ## Example
@@ -106,5 +106,5 @@ End Sub
 #### Concepts
 
 
-[View Object](view-object-outlook.md)
+[View Object](Outlook.View.md)
 

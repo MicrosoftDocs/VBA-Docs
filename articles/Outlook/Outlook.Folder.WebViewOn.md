@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** indicating the Web view state for a folder. Read/
 
 ## Remarks
 
-Returns  **True** to display the Web page specified by the **[WebViewURL](folder-webviewurl-property-outlook.md)** property of the **[Folder](folder-object-outlook.md)** object.
+Returns  **True** to display the Web page specified by the **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object.
 
 Microsoft Outlook uses the rendering engine of the version Windows Internet Explorer installed on the client computer to display the web page. If Internet Explorer is not installed on the client computer, Outlook will not display the web page.
 
@@ -70,5 +70,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

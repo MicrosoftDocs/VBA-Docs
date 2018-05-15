@@ -29,5 +29,5 @@ Occurs when the selection in the list displayed by the control changes.
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

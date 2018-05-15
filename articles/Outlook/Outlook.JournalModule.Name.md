@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalModule.Name Property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[JournalModule](journalmodule-object-outlook.md)** object. Read-only.
+Returns a  **String** value that represents the localized display name for the **[JournalModule](Outlook.JournalModule.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **String** value that represents the localized display name for the *
 #### Concepts
 
 
-[JournalModule Object](journalmodule-object-outlook.md)
+[JournalModule Object](Outlook.JournalModule.md)
 

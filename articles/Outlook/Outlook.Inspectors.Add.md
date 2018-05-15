@@ -33,17 +33,17 @@ Creates a new inspector window.
 
 ### Return Value
 
-An  **[Inspector](inspector-object-outlook.md)** object that represents a new inspector window.
+An  **[Inspector](Outlook.Inspector.md)** object that represents a new inspector window.
 
 
 ## Remarks
 
-This method is essentially identical to the  **GetInspector** property of an Outlook item, such as **[MailItem](mailitem-object-outlook.md)** .
+This method is essentially identical to the  **GetInspector** property of an Outlook item, such as **[MailItem](Outlook.MailItem.md)** .
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example prompts the user for a company name, uses the  **[Restrict](items-restrict-method-outlook.md)** method to locate all contact items in the Contacts folder with that name, and displays each one.
+This Microsoft Visual Basic for Applications (VBA) example prompts the user for a company name, uses the  **[Restrict](Outlook.Items.Restrict.md)** method to locate all contact items in the Contacts folder with that name, and displays each one.
 
 
 ```vb
@@ -97,5 +97,5 @@ End Sub
 #### Concepts
 
 
-[Inspectors Object](inspectors-object-outlook.md)
+[Inspectors Object](Outlook.Inspectors.md)
 

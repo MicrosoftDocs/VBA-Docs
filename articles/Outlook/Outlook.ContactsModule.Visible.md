@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactsModule.Visible Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[ContactsModule](contactsmodule-object-outlook.md)** object is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Boolean** value that determines whether the **[ContactsModule](Outlook.ContactsModule.md)** object is displayed in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that determines whether the **[ContactsModu
 #### Concepts
 
 
-[ContactsModule Object](contactsmodule-object-outlook.md)
+[ContactsModule Object](Outlook.ContactsModule.md)
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MailItem.Write Event (Outlook)
 
-Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](mailitem-save-method-outlook.md)** or **[SaveAs](mailitem-saveas-method-outlook.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
+Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.MailItem.Save.md)** or **[SaveAs](Outlook.MailItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax
@@ -99,5 +99,5 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

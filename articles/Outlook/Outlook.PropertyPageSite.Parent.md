@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[PropertyPageSite Object](propertypagesite-object-outlook.md)
+[PropertyPageSite Object](Outlook.PropertyPageSite.md)
 

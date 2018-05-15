@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.TrackingStatus Property (Outlook)
 
-Returns or sets an  **[OlTrackingStatus](oltrackingstatus-enumeration-outlook.md)** constant indicating the tracking status for the recipient. Read/write.
+Returns or sets an  **[OlTrackingStatus](Outlook.OlTrackingStatus.md)** constant indicating the tracking status for the recipient. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets an  **[OlTrackingStatus](oltrackingstatus-enumeration-outlook.md
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](Outlook.Recipient.md)
 

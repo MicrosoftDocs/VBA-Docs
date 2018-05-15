@@ -25,7 +25,7 @@ Returns or sets a semicolon-delimited  **String** of display names for recipient
 
 ## Remarks
 
-This property is calculated from the  **[Recipients](taskitem-recipients-property-outlook.md)** property. Recipients returned by the **StatusOnCompletionRecipients** property correspond to BCC recipients in the **[Recipients](recipients-object-outlook.md)** collection.
+This property is calculated from the  **[Recipients](Outlook.TaskItem.Recipients.md)** property. Recipients returned by the **StatusOnCompletionRecipients** property correspond to BCC recipients in the **[Recipients](Outlook.Recipients.md)** collection.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is calculated from the  **[Recipients](taskitem-recipients-propert
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

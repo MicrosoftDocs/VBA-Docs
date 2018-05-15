@@ -29,5 +29,5 @@ Returns a  **Long** representing the build number of the Outlook application for
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

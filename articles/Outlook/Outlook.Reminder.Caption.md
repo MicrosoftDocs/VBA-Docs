@@ -29,5 +29,5 @@ Returns a  **String** representing the title. Read-only.
 #### Concepts
 
 
-[Reminder Object](reminder-object-outlook.md)
+[Reminder Object](Outlook.Reminder.md)
 

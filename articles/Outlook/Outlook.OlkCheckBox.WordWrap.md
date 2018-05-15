@@ -34,5 +34,5 @@ The default value is  **True** .
 #### Concepts
 
 
-[OlkCheckBox Object](olkcheckbox-object-outlook.md)
+[OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

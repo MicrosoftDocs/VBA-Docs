@@ -32,9 +32,9 @@ Version Added: Outlook 2013
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the[BeforeRead](contactitem-beforeread-event-outlook.md) event and before the[Read](contactitem-read-event-outlook.md) event for the item.
+The  **ReadComplete** event occurs after the[BeforeRead](Outlook.ContactItem.BeforeRead.md) event and before the[Read](Outlook.ContactItem.Read.md) event for the item.
 
-To determine when the item is unloaded from memory, use the [Unload](contactitem-unload-event-outlook.md) event.
+To determine when the item is unloaded from memory, use the [Unload](Outlook.ContactItem.Unload.md) event.
 
 The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
 
@@ -45,5 +45,5 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

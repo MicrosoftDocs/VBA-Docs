@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewFields.Count Property (Outlook)
 
-Returns a  **Long** value indicating the count of **[ViewField](viewfield-object-outlook.md)** objects in the specified collection. Read-only.
+Returns a  **Long** value indicating the count of **[ViewField](Outlook.ViewField.md)** objects in the specified collection. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **Long** value indicating the count of **[ViewField](viewfield-object
 #### Concepts
 
 
-[ViewFields Object](viewfields-object-outlook.md)
+[ViewFields Object](Outlook.ViewFields.md)
 

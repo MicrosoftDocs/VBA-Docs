@@ -71,5 +71,5 @@ End Sub
 #### Concepts
 
 
-[NavigationPane Object](navigationpane-object-outlook.md)
+[NavigationPane Object](Outlook.NavigationPane.md)
 

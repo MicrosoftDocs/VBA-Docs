@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.IsMarkedAsTask Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[ContactItem](contactitem-object-outlook.md)** is marked as a task. Read-only.
+Returns a  **Boolean** value that indicates whether the **[ContactItem](Outlook.ContactItem.md)** is marked as a task. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **Boolean** value that indicates whether the **[ContactItem](contacti
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

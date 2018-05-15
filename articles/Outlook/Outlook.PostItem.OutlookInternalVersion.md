@@ -29,5 +29,5 @@ Returns a  **Long** representing the build number of the Outlook application for
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

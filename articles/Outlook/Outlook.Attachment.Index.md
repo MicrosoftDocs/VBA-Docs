@@ -34,5 +34,5 @@ The  **Index** property is only valid during the current session and can change 
 #### Concepts
 
 
-[Attachment Object](attachment-object-outlook.md)
+[Attachment Object](Outlook.Attachment.md)
 

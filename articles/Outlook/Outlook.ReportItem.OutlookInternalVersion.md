@@ -29,5 +29,5 @@ Returns a  **Long** representing the build number of the Outlook application for
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

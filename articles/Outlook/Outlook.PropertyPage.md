@@ -66,8 +66,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Apply](propertypage-apply-method-outlook.md)|
-|[GetPageInfo](propertypage-getpageinfo-method-outlook.md)|
+|[Apply](Outlook.PropertyPage.Apply.md)|
+|[GetPageInfo](Outlook.PropertyPage.GetPageInfo.md)|
 
 ## Properties
 
@@ -75,7 +75,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Dirty](propertypage-dirty-property-outlook.md)|
+|[Dirty](Outlook.PropertyPage.Dirty.md)|
 
 ## See also
 

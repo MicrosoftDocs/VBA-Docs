@@ -25,7 +25,7 @@ Returns a  **String** representing the concatenated last name and first name for
 
 ## Remarks
 
-This property is parsed from the  **[FirstName](contactitem-firstname-property-outlook.md)** and **[LastName](contactitem-lastname-property-outlook.md)** properties for the contact, which are themselves parsed from the **[FullName](contactitem-fullname-property-outlook.md)** property.
+This property is parsed from the  **[FirstName](Outlook.ContactItem.FirstName.md)** and **[LastName](Outlook.ContactItem.LastName.md)** properties for the contact, which are themselves parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is parsed from the  **[FirstName](contactitem-firstname-property-o
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

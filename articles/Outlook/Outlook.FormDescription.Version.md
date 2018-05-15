@@ -29,5 +29,5 @@ Returns or sets a  **String** indicating the number of the version. Read/write.
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

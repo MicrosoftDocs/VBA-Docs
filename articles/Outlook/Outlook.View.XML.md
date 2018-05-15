@@ -29,12 +29,12 @@ The XML definition describes the view type by using a series of tags and keyword
 
 To determine how the XML should be structured when creating views, you can create a view by using the Outlook user interface and then you can retrieve the XML property for that view.
 
-To programmatically add a custom field to a view, use the  **[Add](viewfields-add-method-outlook.md)** method of the **[ViewFields](viewfields-object-outlook.md)** object. This is the recommended way to dynamically change the view over setting the **[XML](view-xml-property-outlook.md)** property of the **[View](view-object-outlook.md)** object.
+To programmatically add a custom field to a view, use the  **[Add](Outlook.ViewFields.Add.md)** method of the **[ViewFields](Outlook.ViewFields.md)** object. This is the recommended way to dynamically change the view over setting the **[XML](Outlook.View.XML.md)** property of the **[View](Outlook.View.md)** object.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates an instance of the  **[Views](views-object-outlook.md)** collection and displays the XML definition of a view called "Table View". If the view does not exist, it creates one.
+The following Microsoft Visual Basic for Applications (VBA) example creates an instance of the  **[Views](Outlook.Views.md)** collection and displays the XML definition of a view called "Table View". If the view does not exist, it creates one.
 
 
 ```vb
@@ -85,5 +85,5 @@ The following are the modified properties that are visible in the following XML 
 #### Concepts
 
 
-[View Object](view-object-outlook.md)
+[View Object](Outlook.View.md)
 

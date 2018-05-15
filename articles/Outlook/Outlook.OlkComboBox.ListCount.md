@@ -34,5 +34,5 @@ The default value is zero, indicating that there are no items in the list.
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

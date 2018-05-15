@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFormatRule.Font Property (Outlook)
 
-Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the font used to display Outlook items that satisfy the conditions for the formatting rule in the view. Read-only.
+Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display Outlook items that satisfy the conditions for the formatting rule in the view. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the
 #### Concepts
 
 
-[AutoFormatRule Object](autoformatrule-object-outlook.md)
+[AutoFormatRule Object](Outlook.AutoFormatRule.md)
 

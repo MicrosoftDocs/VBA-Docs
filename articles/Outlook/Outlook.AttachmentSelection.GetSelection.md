@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AttachmentSelection.GetSelection Method (Outlook)
 
-Returns a  **[Selection](selection-object-outlook.md)** object that contains the kind of objects specified by the _SelectionContents_ parameter, and that are currently selected in the active explorer where the parent item of the **[AttachmentSelection](attachmentselection-object-outlook.md)** object is.
+Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind of objects specified by the _SelectionContents_ parameter, and that are currently selected in the active explorer where the parent item of the **[AttachmentSelection](Outlook.AttachmentSelection.md)** object is.
 
 
 ## Syntax
@@ -47,5 +47,5 @@ The only reason that this method is exposed on the  **AttachmentSelection** obje
 #### Concepts
 
 
-[AttachmentSelection Object](attachmentselection-object-outlook.md)
+[AttachmentSelection Object](Outlook.AttachmentSelection.md)
 

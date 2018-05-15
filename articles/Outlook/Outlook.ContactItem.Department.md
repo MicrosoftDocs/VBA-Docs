@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the department name for the contact. 
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

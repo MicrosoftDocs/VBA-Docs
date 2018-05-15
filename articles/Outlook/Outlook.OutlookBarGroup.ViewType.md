@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarGroup.ViewType Property (Outlook)
 
-Returns or sets an  **[OlOutlookBarViewType](oloutlookbarviewtype-enumeration-outlook.md)** constant representing the view type of an **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlOutlookBarViewType](Outlook.OlOutlookBarViewType.md)** constant representing the view type of an **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This property does not have any effect on the icons displayed in the  **Shortcut
 #### Concepts
 
 
-[OutlookBarGroup Object](outlookbargroup-object-outlook.md)
+[OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 

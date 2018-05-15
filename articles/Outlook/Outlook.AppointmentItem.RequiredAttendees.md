@@ -25,7 +25,7 @@ Returns a semicolon-delimited  **String** of required attendee names for the mee
 
 ## Remarks
 
-This property only contains the display names for the required attendees. The attendee list should be set by using the  **[Recipients](recipients-object-outlook.md)** collection.
+This property only contains the display names for the required attendees. The attendee list should be set by using the  **[Recipients](Outlook.Recipients.md)** collection.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property only contains the display names for the required attendees. The at
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

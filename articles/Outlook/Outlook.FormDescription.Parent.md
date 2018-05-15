@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

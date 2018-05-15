@@ -29,5 +29,5 @@ Returns or sets a  **Date** indicating the date and time at which the reminder s
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

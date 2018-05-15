@@ -34,5 +34,5 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

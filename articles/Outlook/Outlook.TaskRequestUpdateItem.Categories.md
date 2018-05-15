@@ -34,5 +34,5 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 #### Concepts
 
 
-[TaskRequestUpdateItem Object](taskrequestupdateitem-object-outlook.md)
+[TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

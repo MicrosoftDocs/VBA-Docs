@@ -29,5 +29,5 @@ Returns a  **String** value that represents the display name for the object. Rea
 #### Concepts
 
 
-[OutlookBarPane Object](outlookbarpane-object-outlook.md)
+[OutlookBarPane Object](Outlook.OutlookBarPane.md)
 

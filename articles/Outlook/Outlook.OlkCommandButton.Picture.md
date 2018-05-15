@@ -38,5 +38,5 @@ The picture is always displayed in the center of the button control. The picture
 #### Concepts
 
 
-[OlkCommandButton Object](olkcommandbutton-object-outlook.md)
+[OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

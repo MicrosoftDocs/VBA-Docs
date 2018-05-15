@@ -81,5 +81,5 @@ End Sub
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

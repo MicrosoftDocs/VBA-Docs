@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **[RuleActions](ruleactions-object-outlook.md)** object is the **[Rule](rule-object-outlook.md)** object.
+The parent of the  **[RuleActions](Outlook.RuleActions.md)** object is the **[Rule](Outlook.Rule.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of the  **[RuleActions](ruleactions-object-outlook.md)** object is th
 #### Concepts
 
 
-[RuleActions Object](ruleactions-object-outlook.md)
+[RuleActions Object](Outlook.RuleActions.md)
 

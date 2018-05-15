@@ -34,5 +34,5 @@ If this property returns  **True** , then the journalized item was routed as par
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

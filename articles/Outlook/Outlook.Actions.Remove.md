@@ -37,5 +37,5 @@ Removes an object from the collection.
 #### Concepts
 
 
-[Actions Object](actions-object-outlook.md)
+[Actions Object](Outlook.Actions.md)
 

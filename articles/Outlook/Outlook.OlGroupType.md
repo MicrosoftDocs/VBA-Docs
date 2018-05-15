@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # OlGroupType Enumeration (Outlook)
 
-Identifies the group type of a  **[NavigationGroup](navigationgroup-object-outlook.md)** object.
+Identifies the group type of a  **[NavigationGroup](Outlook.NavigationGroup.md)** object.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **olCustomFoldersGroup**|0|Identifies a user-defined navigation group, added using either the Outlook user interface or an add-in.|
-| **olFavoriteFoldersGroup**|4|Identifies the  **Favorite Folders** navigation group. This navigation group exists only within the **[NavigationGroups](mailmodule-navigationgroups-property-outlook.md)** collection of a **[MailModule](mailmodule-object-outlook.md)** object and cannot be created in or accessed from other modules.|
+| **olFavoriteFoldersGroup**|4|Identifies the  **Favorite Folders** navigation group. This navigation group exists only within the **[NavigationGroups](Outlook.MailModule.NavigationGroups.md)** collection of a **[MailModule](Outlook.MailModule.md)** object and cannot be created in or accessed from other modules.|
 | **olMyFoldersGroup**|1|Identifies a navigation group that, by default, contains any folders that are part of the local store.|
 | **olOtherFoldersGroup**|3|Identifies a navigation group that, by default, contains shared folders from sources other than that of other persons.|
 | **olPeopleFoldersGroup**|2|Identifies a navigation group that, by default, contains shared folders from other persons.|

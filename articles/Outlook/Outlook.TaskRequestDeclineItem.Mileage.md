@@ -34,5 +34,5 @@ This is a free-form string field and can be used to store mileage information as
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

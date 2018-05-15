@@ -34,5 +34,5 @@ This property is of the type  **OLE_COLOR** which is a **Long** value. The defau
 #### Concepts
 
 
-[OlkLabel Object](olklabel-object-outlook.md)
+[OlkLabel Object](Outlook.OlkLabel.md)
 

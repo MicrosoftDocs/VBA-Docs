@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Type Property (Outlook)
 
-Returns a  **String** representing the type of entry for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
+Returns a  **String** representing the type of entry for the **[ExchangeUser](Outlook.ExchangeUser.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the type of entry for the **[ExchangeUser](ex
 
 ## Remarks
 
-The  **ExchangeUser** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeUser** , the type is always the string "EX".
+The  **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeUser** , the type is always the string "EX".
 
 
 ## See also
@@ -34,5 +34,5 @@ The  **ExchangeUser** object is derived from the **[AddressEntry](addressentry-o
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

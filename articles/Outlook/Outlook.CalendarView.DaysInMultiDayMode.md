@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.DaysInMultiDayMode Property (Outlook)
 
-Returns or sets a  **Long** value that represents the number of consecutive days displayed in the **[CalendarView](calendarview-object-outlook.md)** object. Read/write
+Returns or sets a  **Long** value that represents the number of consecutive days displayed in the **[CalendarView](Outlook.CalendarView.md)** object. Read/write
 
 
 ## Syntax
@@ -104,5 +104,5 @@ End Sub
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

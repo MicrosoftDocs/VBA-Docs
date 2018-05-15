@@ -34,5 +34,5 @@ The font is expressed as the Microsoft Windows type  **StdFont** .
 #### Concepts
 
 
-[OlkDateControl Object](olkdatecontrol-object-outlook.md)
+[OlkDateControl Object](Outlook.OlkDateControl.md)
 

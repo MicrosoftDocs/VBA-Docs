@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.ReplyStyle Property (Outlook)
 
-Returns or sets an  **[OlActionReplyStyle](olactionreplystyle-enumeration-outlook.md)** constant indicating the text formatting reply style for the specified action. Read/write.
+Returns or sets an  **[OlActionReplyStyle](Outlook.OlActionReplyStyle.md)** constant indicating the text formatting reply style for the specified action. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets an  **[OlActionReplyStyle](olactionreplystyle-enumeration-outloo
 #### Concepts
 
 
-[Action Object](action-object-outlook.md)
+[Action Object](Outlook.Action.md)
 

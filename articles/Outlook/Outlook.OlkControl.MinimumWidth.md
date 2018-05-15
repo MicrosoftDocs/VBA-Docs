@@ -25,7 +25,7 @@ Returns or sets a  **Long** that specifies the minimum width the control can be 
 
 ## Remarks
 
- **[EnableAutoLayout](olkcontrol-enableautolayout-property-outlook.md)** must be set to **True** in order for **MinimumWidth** to become effective.
+ **[EnableAutoLayout](Outlook.OlkControl.EnableAutoLayout.md)** must be set to **True** in order for **MinimumWidth** to become effective.
 
 
 ## See also
@@ -34,5 +34,5 @@ Returns or sets a  **Long** that specifies the minimum width the control can be 
 #### Concepts
 
 
-[OlkControl Class](olkcontrol-object-outlook.md)
+[OlkControl Class](Outlook.olkcontrol.md)
 

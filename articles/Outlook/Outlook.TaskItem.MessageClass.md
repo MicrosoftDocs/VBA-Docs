@@ -34,7 +34,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 #### Other resources
 
 

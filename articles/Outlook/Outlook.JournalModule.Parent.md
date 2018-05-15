@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[JournalModule Object](journalmodule-object-outlook.md)
+[JournalModule Object](Outlook.JournalModule.md)
 

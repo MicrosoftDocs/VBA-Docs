@@ -20,14 +20,14 @@ Occurs when one or more new e-mail messages are received in the  **Inbox**.
 
  _expression_ . **NewMail**
 
- _expression_ A variable that represents an **[Application](application-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## Remarks
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-The  **NewMail** event fires when new messages arrive in the Inbox and before client rule processing occurs. If you want to process items that arrive in the **Inbox**, consider using the  **[ItemAdd](items-itemadd-event-outlook.md)** event on the collection of items in the **Inbox**. The  **ItemAdd** event passes a reference to each item that is added to a folder.
+The  **NewMail** event fires when new messages arrive in the Inbox and before client rule processing occurs. If you want to process items that arrive in the **Inbox**, consider using the  **[ItemAdd](Outlook.Items.ItemAdd.md)** event on the collection of items in the **Inbox**. The  **ItemAdd** event passes a reference to each item that is added to a folder.
 
 The  **NewMail** event does not fire when the user is in offline mode.
 
@@ -98,5 +98,5 @@ End Sub
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

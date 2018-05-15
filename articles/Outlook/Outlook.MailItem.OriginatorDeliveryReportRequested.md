@@ -36,5 +36,5 @@ The  **OriginatorDeliveryReportRequested** property corresponds to the MAPI prop
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

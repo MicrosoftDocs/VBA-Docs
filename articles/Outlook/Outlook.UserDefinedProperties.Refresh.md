@@ -29,5 +29,5 @@ Refreshes the contents of the collection from the store, retrieving any changes 
 #### Concepts
 
 
-[UserDefinedProperties Object](userdefinedproperties-object-outlook.md)
+[UserDefinedProperties Object](Outlook.UserDefinedProperties.md)
 

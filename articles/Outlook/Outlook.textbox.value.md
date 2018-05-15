@@ -20,6 +20,6 @@ Returns or sets a  **Variant** that specifies text in the edit region. Read/writ
 
 ## Remarks
 
-Any value you assign to the  **[Text](textbox-text-property-outlook-forms-script.md)** property is also assigned to the **Value** property.
+Any value you assign to the  **[Text](Outlook.textbox.text.md)** property is also assigned to the **Value** property.
 
 

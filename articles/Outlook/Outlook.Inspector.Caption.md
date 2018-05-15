@@ -29,5 +29,5 @@ Returns a  **String** representing the title. Read-only.
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

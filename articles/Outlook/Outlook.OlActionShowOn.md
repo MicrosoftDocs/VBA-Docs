@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlActionShowOn Enumeration (Outlook)
 
-Identifies where an  **[Action](action-object-outlook.md)** is displayed as an available action.
+Identifies where an  **[Action](Outlook.Action.md)** is displayed as an available action.
 
 
 

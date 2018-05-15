@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.Importance Property (Outlook)
 
-Returns or sets an  **[OlImportance](olimportance-enumeration-outlook.md)** constant indicating the relative importance level for the Outlook item. Read/write.
+Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagImportance** .
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

@@ -36,5 +36,5 @@ If  **True** , the specified item is in conflict.
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

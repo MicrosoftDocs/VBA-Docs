@@ -25,7 +25,7 @@ Returns a  **Boolean** to indicate if an add-in or external caller is considered
 
 ## Remarks
 
-For out-of-process callers that have instantiated the  **[Application](application-object-outlook.md)** object, **IsTrusted** always returns **False** . For Outlook add-ins, **IsTrusted** returns **True** if and only if the add-in is considered trusted by Outlook.
+For out-of-process callers that have instantiated the  **[Application](Outlook.Application.md)** object, **IsTrusted** always returns **False** . For Outlook add-ins, **IsTrusted** returns **True** if and only if the add-in is considered trusted by Outlook.
 
 
 ## See also
@@ -34,5 +34,5 @@ For out-of-process callers that have instantiated the  **[Application](applicati
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

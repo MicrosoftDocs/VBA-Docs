@@ -22,6 +22,6 @@ Copies the contents of an object to the Clipboard.
 
 The original content remains on the object.
 
-The actual content that is copied depends on the object. For example, on a  **[TextBox](textbox-object-outlook-forms-script.md)** or **[ComboBox](combobox-object-outlook-forms-script.md)**, it copies the currently selected text.
+The actual content that is copied depends on the object. For example, on a  **[TextBox](Outlook.textbox.md)** or **[ComboBox](Outlook.combobox.md)**, it copies the currently selected text.
 
 

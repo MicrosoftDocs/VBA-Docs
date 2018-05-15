@@ -18,7 +18,7 @@ Contains the custom property pages that have been added to the Microsoft Outlook
 
 ## Remarks
 
-You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd](application-optionspagesadd-event-outlook.md)** event. Use the **[Add](propertypages-add-method-outlook.md)** method to add a **[PropertyPage](propertypage-object-outlook.md)** object to the **PropertyPages** object.
+You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd](Outlook.Application.OptionsPagesAdd.md)** event. Use the **[Add](Outlook.PropertyPages.Add.md)** method to add a **[PropertyPage](Outlook.PropertyPage.md)** object to the **PropertyPages** object.
 
 
  **Note**  If more than one program handles the  **OptionsPagesAdd** event, the order in which the programs receive the event (and therefore, the order in which pages are added to the **PropertyPages** object) cannot be guaranteed.
@@ -30,9 +30,9 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 
 |**Name**|
 |:-----|
-|[Add](propertypages-add-method-outlook.md)|
-|[Item](propertypages-item-method-outlook.md)|
-|[Remove](propertypages-remove-method-outlook.md)|
+|[Add](Outlook.PropertyPages.Add.md)|
+|[Item](Outlook.PropertyPages.Item.md)|
+|[Remove](Outlook.PropertyPages.Remove.md)|
 
 ## Properties
 
@@ -40,10 +40,10 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 
 |**Name**|
 |:-----|
-|[Application](propertypages-application-property-outlook.md)|
-|[Class](propertypages-class-property-outlook.md)|
-|[Count](propertypages-count-property-outlook.md)|
-|[Parent](propertypages-parent-property-outlook.md)|
+|[Application](Outlook.PropertyPages.Application.md)|
+|[Class](Outlook.PropertyPages.Class.md)|
+|[Count](Outlook.PropertyPages.Count.md)|
+|[Parent](Outlook.PropertyPages.Parent.md)|
 |[Session](propertypages-session-property-outlook.md)|
 
 ## See also

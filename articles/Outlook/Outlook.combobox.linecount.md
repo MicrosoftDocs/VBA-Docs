@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ComboBox.LineCount Property (Outlook Forms Script)
 
-Returns a  **Long** that specifies the number of text lines in a **[ComboBox](combobox-object-outlook-forms-script.md)**. Read-only.
+Returns a  **Long** that specifies the number of text lines in a **[ComboBox](Outlook.combobox.md)**. Read-only.
 
 
 ## Syntax

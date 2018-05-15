@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SyncObjects Object (Outlook)
 
-Contains a set of  **[SyncObject](syncobject-object-outlook.md)** objects representing the **Send/Receive** groups for a user.
+Contains a set of  **[SyncObject](Outlook.SyncObject.md)** objects representing the **Send/Receive** groups for a user.
 
 
 ## Remarks
 
-Use the  **[SyncObjects](namespace-syncobjects-property-outlook.md)** property to return the **SyncObjects** object from a **[NameSpace](namespace-object-outlook.md)** object.
+Use the  **[SyncObjects](Outlook.NameSpace.SyncObjects.md)** property to return the **SyncObjects** object from a **[NameSpace](Outlook.NameSpace.md)** object.
 
 The  **SyncObjects** object is read-only. You cannot add an item to the collection. However, note that you can add one **Send/Receive** group using the **AppFolders** property which will create a **Send/Receive** group called Application Folders.
 
@@ -39,7 +39,7 @@ Set mySyncObjects = Application.GetNameSpace("MAPI").SyncObjects
 
 |**Name**|
 |:-----|
-|[Item](syncobjects-item-method-outlook.md)|
+|[Item](Outlook.SyncObjects.Item.md)|
 
 ## Properties
 
@@ -47,12 +47,12 @@ Set mySyncObjects = Application.GetNameSpace("MAPI").SyncObjects
 
 |**Name**|
 |:-----|
-|[AppFolders](syncobjects-appfolders-property-outlook.md)|
-|[Application](syncobjects-application-property-outlook.md)|
-|[Class](syncobjects-class-property-outlook.md)|
-|[Count](syncobjects-count-property-outlook.md)|
-|[Parent](syncobjects-parent-property-outlook.md)|
-|[Session](syncobjects-session-property-outlook.md)|
+|[AppFolders](Outlook.SyncObjects.AppFolders.md)|
+|[Application](Outlook.SyncObjects.Application.md)|
+|[Class](Outlook.SyncObjects.Class.md)|
+|[Count](Outlook.SyncObjects.Count.md)|
+|[Parent](Outlook.SyncObjects.Parent.md)|
+|[Session](Outlook.SyncObjects.Session.md)|
 
 ## See also
 

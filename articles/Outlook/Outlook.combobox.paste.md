@@ -23,6 +23,6 @@ Transfers the contents of the Clipboard to an object.
 
 ## Remarks
 
-Data pasted into a  **[ComboBox](combobox-object-outlook-forms-script.md)** is treated as text.
+Data pasted into a  **[ComboBox](Outlook.combobox.md)** is treated as text.
 
 

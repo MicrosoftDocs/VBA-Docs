@@ -20,14 +20,14 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_ . **Parent**
 
- _expression_ A variable that represents a **[ConversationHeader](conversationheader-object-outlook.md)** object.
+ _expression_ A variable that represents a **[ConversationHeader](Outlook.ConversationHeader.md)** object.
 
 
 ## Remarks
 
-The parent of the  **ConversationHeader** object returns a **[Selection](selection-object-outlook.md)** object.
+The parent of the  **ConversationHeader** object returns a **[Selection](Outlook.Selection.md)** object.
 
- The returned **Selection** object contains only **[ConversationHeader](conversationheader-object-outlook.md)** objects. Getting the **Parent** property is equivalent to calling the **[Selection.GetSelection](selection-getselection-method-outlook.md)** method with the **olConversationHeaders** argument.
+ The returned **Selection** object contains only **[ConversationHeader](Outlook.ConversationHeader.md)** objects. Getting the **Parent** property is equivalent to calling the **[Selection.GetSelection](selection-getselection-method-outlook.md)** method with the **olConversationHeaders** argument.
 
 
 ## See also
@@ -36,5 +36,5 @@ The parent of the  **ConversationHeader** object returns a **[Selection](selecti
 #### Concepts
 
 
-[ConversationHeader Object](conversationheader-object-outlook.md)
+[ConversationHeader Object](Outlook.ConversationHeader.md)
 

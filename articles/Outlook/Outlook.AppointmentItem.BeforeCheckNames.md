@@ -52,5 +52,5 @@ The event does not fire under the following circumstances:
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

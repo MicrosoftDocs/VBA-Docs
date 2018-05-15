@@ -36,5 +36,5 @@ When the control is locked, the control does not have a "disabled" appearance, b
 #### Concepts
 
 
-[OlkTimeControl Object](olktimecontrol-object-outlook.md)
+[OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

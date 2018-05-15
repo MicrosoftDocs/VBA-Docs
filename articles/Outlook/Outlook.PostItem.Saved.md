@@ -29,5 +29,5 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

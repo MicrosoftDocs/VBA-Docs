@@ -29,5 +29,5 @@ Occurs when the control is double-clicked through user action or programmaticall
 #### Concepts
 
 
-[OlkContactPhoto Object](olkcontactphoto-object-outlook.md)
+[OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 

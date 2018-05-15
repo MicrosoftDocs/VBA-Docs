@@ -29,5 +29,5 @@ Returns or sets a  **String** that specifies the name of the property in the Out
 #### Concepts
 
 
-[OlkControl Class](olkcontrol-object-outlook.md)
+[OlkControl Class](Outlook.olkcontrol.md)
 

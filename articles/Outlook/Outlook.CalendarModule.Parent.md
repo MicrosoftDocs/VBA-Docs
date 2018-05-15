@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[CalendarModule Object](calendarmodule-object-outlook.md)
+[CalendarModule Object](Outlook.CalendarModule.md)
 

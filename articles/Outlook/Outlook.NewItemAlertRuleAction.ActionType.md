@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NewItemAlertRuleAction.ActionType Property (Outlook)
 
-Returns a constant,  **olRuleActionNewItemAlert** , from the **[OlRuleActionType](olruleactiontype-enumeration-outlook.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
+Returns a constant,  **olRuleActionNewItemAlert** , from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Returns a constant,  **olRuleActionNewItemAlert** , from the **[OlRuleActionType
 #### Concepts
 
 
-[NewItemAlertRuleAction Object](newitemalertruleaction-object-outlook.md)
+[NewItemAlertRuleAction Object](Outlook.NewItemAlertRuleAction.md)
 

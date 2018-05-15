@@ -42,5 +42,5 @@ This event can be cancelled after it has started.
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

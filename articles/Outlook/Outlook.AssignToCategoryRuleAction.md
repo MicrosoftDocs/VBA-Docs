@@ -18,7 +18,7 @@ Represents an action that assigns categories to a message.
 
 ## Remarks
 
- **AssignToCategoryRuleAction** is derived from the **[RuleAction](ruleaction-object-outlook.md)** object. Each rule is associated with a **[RuleActions](ruleactions-object-outlook.md)** object which has an **[AssignToCategory](ruleactions-assigntocategory-property-outlook.md)** property. The **AssignToCategory** property always returns an **[AssignToCategoryRuleAction](assigntocategoryruleaction-object-outlook.md)** object. If the rule has an enabled rule action that assigns a message with some specified categories, then **[AssignToCategoryRuleAction.Enabled](assigntocategoryruleaction-enabled-property-outlook.md)** would be **True**.
+ **AssignToCategoryRuleAction** is derived from the **[RuleAction](Outlook.RuleAction.md)** object. Each rule is associated with a **[RuleActions](Outlook.RuleActions.md)** object which has an **[AssignToCategory](Outlook.RuleActions.AssignToCategory.md)** property. The **AssignToCategory** property always returns an **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md)** object. If the rule has an enabled rule action that assigns a message with some specified categories, then **[AssignToCategoryRuleAction.Enabled](Outlook.AssignToCategoryRuleAction.Enabled.md)** would be **True**.
 
 For more information on specifying rule actions, see [Specify Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx).
 
@@ -29,12 +29,12 @@ For more information on specifying rule actions, see [Specify Rule Actions](http
 
 |**Name**|
 |:-----|
-|[ActionType](assigntocategoryruleaction-actiontype-property-outlook.md)|
-|[Application](assigntocategoryruleaction-application-property-outlook.md)|
-|[Categories](assigntocategoryruleaction-categories-property-outlook.md)|
-|[Class](assigntocategoryruleaction-class-property-outlook.md)|
-|[Enabled](assigntocategoryruleaction-enabled-property-outlook.md)|
-|[Parent](assigntocategoryruleaction-parent-property-outlook.md)|
+|[ActionType](Outlook.AssignToCategoryRuleAction.ActionType.md)|
+|[Application](Outlook.AssignToCategoryRuleAction.Application.md)|
+|[Categories](Outlook.AssignToCategoryRuleAction.Categories.md)|
+|[Class](Outlook.AssignToCategoryRuleAction.Class.md)|
+|[Enabled](Outlook.AssignToCategoryRuleAction.Enabled.md)|
+|[Parent](Outlook.AssignToCategoryRuleAction.Parent.md)|
 |[Session](assigntocategoryruleaction-session-property-outlook.md)|
 
 ## See also

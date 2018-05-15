@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlSharingProvider Enumeration (Outlook)
 
-Indicates the sharing provider associated with a  **[SharingItem](sharingitem-object-outlook.md)** object.
+Indicates the sharing provider associated with a  **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 

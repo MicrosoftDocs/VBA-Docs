@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecurrencePattern.Duration Property (Outlook)
 
-Returns or sets a  **Long** indicating the duration (in minutes) of the **[RecurrencePattern](recurrencepattern-object-outlook.md)** . Read/write.
+Returns or sets a  **Long** indicating the duration (in minutes) of the **[RecurrencePattern](Outlook.RecurrencePattern.md)** . Read/write.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ To create a duration of one day for an all-day event, set the duration equal to 
 #### Concepts
 
 
-[RecurrencePattern Object](recurrencepattern-object-outlook.md)
+[RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

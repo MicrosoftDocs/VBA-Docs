@@ -57,5 +57,5 @@ Canceling this property will revert the control to the current value of the prop
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

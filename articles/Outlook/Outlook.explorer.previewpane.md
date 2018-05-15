@@ -11,7 +11,7 @@ ms.prod: outlook
 
 # Explorer.PreviewPane Property (Outlook)
 
-The [PreviewPane](previewpane-object-outlook.md) object displays content in a "single pane mode" by showing only the Preview Pane view.
+The [PreviewPane](Outlook.previewpane.md) object displays content in a "single pane mode" by showing only the Preview Pane view.
 
 
 ## Syntax
@@ -27,5 +27,5 @@ The [PreviewPane](previewpane-object-outlook.md) object displays content in a "s
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

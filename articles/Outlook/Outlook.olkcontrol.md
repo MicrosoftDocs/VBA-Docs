@@ -21,7 +21,7 @@ The members offered by  **OlkControl** can apply to most Outlook controls. **Olk
 
 ## Example
 
-The following code sample uses the  **[OlkControl](olkcontrol-object-outlook.md)** class to enable automatic resizing of a text box control with respect to any resizing of the form. It uses casting in Visual Basic to allow the text box control to use the properties of **OlkControl**.
+The following code sample uses the  **[OlkControl](Outlook.olkcontrol.md)** class to enable automatic resizing of a text box control with respect to any resizing of the form. It uses casting in Visual Basic to allow the text box control to use the properties of **OlkControl**.
 
 
 ```
@@ -48,15 +48,15 @@ End Sub
 
 |**Name**|
 |:-----|
-|[ControlProperty](olkcontrol-controlproperty-property-outlook.md)|
-|[EnableAutoLayout](olkcontrol-enableautolayout-property-outlook.md)|
-|[Format](olkcontrol-format-property-outlook.md)|
-|[HorizontalLayout](olkcontrol-horizontallayout-property-outlook.md)|
-|[ItemProperty](olkcontrol-itemproperty-property-outlook.md)|
-|[MinimumHeight](olkcontrol-minimumheight-property-outlook.md)|
-|[MinimumWidth](olkcontrol-minimumwidth-property-outlook.md)|
-|[PossibleValues](olkcontrol-possiblevalues-property-outlook.md)|
-|[VerticalLayout](olkcontrol-verticallayout-property-outlook.md)|
+|[ControlProperty](Outlook.OlkControl.ControlProperty.md)|
+|[EnableAutoLayout](Outlook.OlkControl.EnableAutoLayout.md)|
+|[Format](Outlook.OlkControl.Format.md)|
+|[HorizontalLayout](Outlook.OlkControl.HorizontalLayout.md)|
+|[ItemProperty](Outlook.OlkControl.ItemProperty.md)|
+|[MinimumHeight](Outlook.OlkControl.MinimumHeight.md)|
+|[MinimumWidth](Outlook.OlkControl.MinimumWidth.md)|
+|[PossibleValues](Outlook.OlkControl.PossibleValues.md)|
+|[VerticalLayout](Outlook.OlkControl.VerticalLayout.md)|
 
 ## See also
 

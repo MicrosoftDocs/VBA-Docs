@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkOptionButton.Change Event (Outlook)
 
-Occurs when the  **[Value](olkoptionbutton-value-property-outlook.md)** property changes.
+Occurs when the  **[Value](Outlook.OlkOptionButton.Value.md)** property changes.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Occurs when the  **[Value](olkoptionbutton-value-property-outlook.md)** property
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

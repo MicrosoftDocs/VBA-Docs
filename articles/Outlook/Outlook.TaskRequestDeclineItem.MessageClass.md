@@ -34,7 +34,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 #### Other resources
 
 

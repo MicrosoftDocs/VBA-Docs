@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [ScrollBar Object (Outlook Forms Script)](scrollbar-object-outlook-forms-script.md)
+-  [ScrollBar Object (Outlook Forms Script)](Outlook.scrollbar.md)
     
 -  [ScrollBar Members (Outlook Forms Script)](scrollbar-members-outlook-forms-script.md)
     

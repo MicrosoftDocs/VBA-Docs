@@ -47,5 +47,5 @@ Occurs after the data in the control has been changed through the user interface
 #### Concepts
 
 
-[OlkDateControl Object](olkdatecontrol-object-outlook.md)
+[OlkDateControl Object](Outlook.OlkDateControl.md)
 

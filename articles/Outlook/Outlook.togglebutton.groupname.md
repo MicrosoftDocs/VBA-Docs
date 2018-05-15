@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ToggleButton.GroupName Property (Outlook Forms Script)
 
-Returns or sets a  **String** that identifies a group of mutually exclusive **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls. Read/write.
+Returns or sets a  **String** that identifies a group of mutually exclusive **[ToggleButton](Outlook.togglebutton.md)** controls. Read/write.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Returns or sets a  **String** that identifies a group of mutually exclusive **[T
 
 Use the same  **GroupName** for all buttons in the group. The default setting is an empty string.
 
-To create a group of mutually exclusive  **ToggleButton** controls, you can put the buttons in a **[Frame](frame-object-outlook-forms-script.md)** on your form, or you can use the **GroupName** property. **GroupName** is more efficient for the following reasons:
+To create a group of mutually exclusive  **ToggleButton** controls, you can put the buttons in a **[Frame](Outlook.frame.md)** on your form, or you can use the **GroupName** property. **GroupName** is more efficient for the following reasons:
 
 
 - You do not have to include a  **Frame** for each group. By not using a **Frame**, you reduce the number of controls on the form, and in turn, improve performance and reduce the size of the form.
@@ -35,6 +35,6 @@ To create a group of mutually exclusive  **ToggleButton** controls, you can put 
 
 Regardless of which method you use to create the group of buttons, clicking one button in a group sets all other buttons in the same group to  **False**. All toggle buttons with the same  **GroupName** within a single container are mutually exclusive. You can use the same group name in two containers, but doing so creates two groups (one in each container) rather than one group that includes both containers.
 
-For example, assume your form includes some toggle buttons and a  **[MultiPage](multipage-object-outlook-forms-script.md)** that also includes toggle buttons. The toggle buttons on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a button on the **MultiPage** does not affect the buttons on the form.
+For example, assume your form includes some toggle buttons and a  **[MultiPage](Outlook.multipage.md)** that also includes toggle buttons. The toggle buttons on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a button on the **MultiPage** does not affect the buttons on the form.
 
 

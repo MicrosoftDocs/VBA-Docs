@@ -29,5 +29,5 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

@@ -29,5 +29,5 @@ Immediately ends the search that is being performed currently.
 #### Concepts
 
 
-[Search Object](search-object-outlook.md)
+[Search Object](Outlook.Search.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.RemoteStatus Property (Outlook)
 
-Returns or sets an  **[OlRemoteStatus](olremotestatus-enumeration-outlook.md)** constant specifying the remote status of the mail message. Read/write.
+Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant specifying the remote status of the mail message. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets an  **[OlRemoteStatus](olremotestatus-enumeration-outlook.md)** 
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

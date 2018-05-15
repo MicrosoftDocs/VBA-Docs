@@ -29,5 +29,5 @@ Occurs when the control is double-clicked through user action or programmaticall
 #### Concepts
 
 
-[OlkBusinessCardControl Object](olkbusinesscardcontrol-object-outlook.md)
+[OlkBusinessCardControl Object](Outlook.OlkBusinessCardControl.md)
 

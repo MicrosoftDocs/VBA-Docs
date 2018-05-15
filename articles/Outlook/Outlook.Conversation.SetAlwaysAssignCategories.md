@@ -20,7 +20,7 @@ Applies one or more categories to all existing items and future items of the con
 
  _expression_ . **SetAlwaysAssignCategories**( **_Categories_** , **_Store_** )
 
- _expression_ A variable that represents a **[Conversation](conversation-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ### Parameters
@@ -30,17 +30,17 @@ Applies one or more categories to all existing items and future items of the con
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Categories_|Required| **String**|A comma-delimited string of one or more category names that are always assigned to all items in the conversation.|
-| _Store_|Required| **[Store](store-object-outlook.md)**|The store in which items of the conversation should always be assigned the categories specified by the  _Categories_ parameter.|
+| _Store_|Required| **[Store](Outlook.Store.md)**|The store in which items of the conversation should always be assigned the categories specified by the  _Categories_ parameter.|
 
 ## Remarks
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the method returns a string of categories that are applied to conversation items in the default delivery store.
 
-The  **[ItemChange](items-itemchange-event-outlook.md)** event of the **[Items](items-object-outlook.md)** object occurs when you call the **SetAlwaysAssignCategories** method on a conversation.
+The  **[ItemChange](Outlook.Items.ItemChange.md)** event of the **[Items](Outlook.Items.md)** object occurs when you call the **SetAlwaysAssignCategories** method on a conversation.
 
-To determine existing master categories for the current user, examine the  **[Categories](store-categories-property-outlook.md)** property of the **[Store](store-object-outlook.md)** object that is specified by the _Store_ parameter. If one or more categories specified by the _Categories_ parameter do not exist in the master categories collection, the categories will be assigned to the conversation but will not be added to the master categories collection.
+To determine existing master categories for the current user, examine the  **[Categories](Outlook.Store.Categories.md)** property of the **[Store](Outlook.Store.md)** object that is specified by the _Store_ parameter. If one or more categories specified by the _Categories_ parameter do not exist in the master categories collection, the categories will be assigned to the conversation but will not be added to the master categories collection.
 
-To determine the existing categories that are always assigned to items of the conversation in the specified store, use the  **[GetAlwaysAssignCategories](conversation-getalwaysassigncategories-method-outlook.md)** method.
+To determine the existing categories that are always assigned to items of the conversation in the specified store, use the  **[GetAlwaysAssignCategories](Outlook.Conversation.GetAlwaysAssignCategories.md)** method.
 
 If  **SetAlwaysAssignCategories** is called more than once, the result is cumulative. For example, if you call **SetAlwaysAssignCategories** specifying the category ?Important? and then call **SetAlwaysAssignCategories** again specifying the categories "Business" and "Social", the categories that are always assigned are "Important", "Business", and "Social".
 
@@ -79,5 +79,5 @@ End Sub
 #### Concepts
 
 
-[Conversation Object](conversation-object-outlook.md)
+[Conversation Object](Outlook.Conversation.md)
 

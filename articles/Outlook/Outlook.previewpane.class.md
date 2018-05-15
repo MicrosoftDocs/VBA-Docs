@@ -11,7 +11,7 @@ ms.prod: outlook
 
 # PreviewPane.Class Property (Outlook)
 
-Returns a constant in the [OlObjectClass](olobjectclass-enumeration-outlook.md) enumeration indicating the class of the[PreviewPane](previewpane-object-outlook.md) Object. Read-only.
+Returns a constant in the [OlObjectClass](Outlook.OlObjectClass.md) enumeration indicating the class of the[PreviewPane](Outlook.previewpane.md) Object. Read-only.
 
 
 ## Syntax
@@ -28,5 +28,5 @@ Returns a constant in the [OlObjectClass](olobjectclass-enumeration-outlook.md) 
 
 
 
-[PreviewPane Object (Outlook)](previewpane-object-outlook.md)
+[PreviewPane Object (Outlook)](Outlook.previewpane.md)
 

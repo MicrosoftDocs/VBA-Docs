@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the business fax number for the conta
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

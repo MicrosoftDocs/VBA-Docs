@@ -38,5 +38,5 @@ You can assign an array with one string or an array of multiple strings to the  
 #### Concepts
 
 
-[FormNameRuleCondition Object](formnamerulecondition-object-outlook.md)
+[FormNameRuleCondition Object](Outlook.FormNameRuleCondition.md)
 

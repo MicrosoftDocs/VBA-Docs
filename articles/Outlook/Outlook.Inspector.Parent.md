@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

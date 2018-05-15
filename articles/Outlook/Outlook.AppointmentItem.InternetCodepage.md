@@ -102,5 +102,5 @@ The following table lists the code pages Microsoft recommends that you use for t
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

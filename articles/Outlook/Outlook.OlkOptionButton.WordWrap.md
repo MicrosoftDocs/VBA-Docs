@@ -34,5 +34,5 @@ The default value is  **True** .
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

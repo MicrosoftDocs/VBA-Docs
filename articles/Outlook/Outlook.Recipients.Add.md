@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipients.Add Method (Outlook)
 
-Creates a new recipient in the  **[Recipients](recipients-object-outlook.md)** collection.
+Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Creates a new recipient in the  **[Recipients](recipients-object-outlook.md)** c
 
 ### Return Value
 
-A  **[Recipient](recipient-object-outlook.md)** object that represents the new recipient.
+A  **[Recipient](Outlook.Recipient.md)** object that represents the new recipient.
 
 
 ## Example
@@ -68,5 +68,5 @@ End Sub
 #### Concepts
 
 
-[Recipients Object](recipients-object-outlook.md)
+[Recipients Object](Outlook.Recipients.md)
 

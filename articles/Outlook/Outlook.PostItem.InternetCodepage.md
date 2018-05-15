@@ -102,5 +102,5 @@ The following table lists the code pages Microsoft recommends that you use for t
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.ItemProperties Property (Outlook)
 
-Returns an  **[ItemProperties](itemproperties-object-outlook.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
+Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example returns the  **ItemProperties** collection associated with a **[MailItem](mailitem-object-outlook.md)** object.
+The following Microsoft Visual Basic for Applications (VBA) example returns the  **ItemProperties** collection associated with a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ```vb
@@ -70,5 +70,5 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

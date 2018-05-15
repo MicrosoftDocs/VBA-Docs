@@ -34,5 +34,5 @@ This property is stored as the  **Dlt** value for the time zone in the registry.
 #### Concepts
 
 
-[TimeZone Object](timezone-object-outlook.md)
+[TimeZone Object](Outlook.TimeZone.md)
 

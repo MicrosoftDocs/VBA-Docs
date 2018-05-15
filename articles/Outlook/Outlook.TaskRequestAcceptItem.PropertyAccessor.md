@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskRequestAcceptItem.PropertyAccessor Property (Outlook)
 
-Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[TaskRequestAcceptItem](taskrequestacceptitem-object-outlook.md)** object. Read-only.
+Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object tha
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

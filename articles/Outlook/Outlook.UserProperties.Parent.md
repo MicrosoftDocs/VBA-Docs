@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[UserProperties Object](userproperties-object-outlook.md)
+[UserProperties Object](Outlook.UserProperties.md)
 

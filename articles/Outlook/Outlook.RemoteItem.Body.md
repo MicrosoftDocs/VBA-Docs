@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

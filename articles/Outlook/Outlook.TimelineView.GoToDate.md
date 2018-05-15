@@ -37,5 +37,5 @@ Changes the date used by the current view to display information.
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

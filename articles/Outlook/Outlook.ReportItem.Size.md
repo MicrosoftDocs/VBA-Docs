@@ -29,5 +29,5 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

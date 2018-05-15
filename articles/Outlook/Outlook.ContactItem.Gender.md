@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Gender Property (Outlook)
 
-Returns or sets an  **[OlGender](olgender-enumeration-outlook.md)** constant indicating the gender of the contact. Read/write.
+Returns or sets an  **[OlGender](Outlook.OlGender.md)** constant indicating the gender of the contact. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets an  **[OlGender](olgender-enumeration-outlook.md)** constant ind
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

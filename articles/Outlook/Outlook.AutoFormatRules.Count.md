@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFormatRules.Count Property (Outlook)
 
-Returns a  **Long** value indicating the count of **[AutoFormatRule](autoformatrule-object-outlook.md)** objects in the specified collection. Read-only.
+Returns a  **Long** value indicating the count of **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in the specified collection. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **Long** value indicating the count of **[AutoFormatRule](autoformatr
 #### Concepts
 
 
-[AutoFormatRules Object](autoformatrules-object-outlook.md)
+[AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

@@ -52,5 +52,5 @@ The event does not fire under the following circumstances:
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

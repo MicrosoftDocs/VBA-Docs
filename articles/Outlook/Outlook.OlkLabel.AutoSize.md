@@ -34,5 +34,5 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 #### Concepts
 
 
-[OlkLabel Object](olklabel-object-outlook.md)
+[OlkLabel Object](Outlook.OlkLabel.md)
 

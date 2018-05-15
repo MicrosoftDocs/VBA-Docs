@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[ColumnFormat Object](columnformat-object-outlook.md)
+[ColumnFormat Object](Outlook.ColumnFormat.md)
 

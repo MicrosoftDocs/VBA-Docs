@@ -29,5 +29,5 @@ Returns a  **String** representing the topic of the conversation thread of the O
 #### Concepts
 
 
-[TaskRequestItem Object](taskrequestitem-object-outlook.md)
+[TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

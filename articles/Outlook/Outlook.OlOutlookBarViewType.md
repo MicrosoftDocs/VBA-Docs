@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlOutlookBarViewType Enumeration (Outlook)
 
-Specifies the type of view that is displayed by an  **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object.
+Specifies the type of view that is displayed by an  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object.
 
 
 
@@ -24,6 +24,6 @@ Specifies the type of view that is displayed by an  **[OutlookBarGroup](outlookb
 
 ## Remarks
 
-Used by the [ViewType](outlookbargroup-viewtype-property-outlook.md) property of the[OutlookBarGroup](outlookbargroup-object-outlook.md) object.
+Used by the [ViewType](Outlook.OutlookBarGroup.ViewType.md) property of the[OutlookBarGroup](Outlook.OutlookBarGroup.md) object.
 
 

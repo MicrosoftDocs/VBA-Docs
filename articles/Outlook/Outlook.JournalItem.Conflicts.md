@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalItem.Conflicts Property (Outlook)
 
-Returns the  **[Conflicts](conflicts-object-outlook.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
+Returns the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns the  **[Conflicts](conflicts-object-outlook.md)** object that represents
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

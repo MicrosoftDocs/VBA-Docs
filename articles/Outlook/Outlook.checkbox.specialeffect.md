@@ -30,7 +30,7 @@ The settings for  **SpecialEffect** are:
 |**Value**|**Description**|
 |:-----|:-----|
 |0|Object appears flat, distinguished from the surrounding form by a border, a change of color, or both.|
-|2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for  **[CheckBox](checkbox-object-outlook-forms-script.md)**.|
+|2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for  **[CheckBox](Outlook.checkbox.md)**.|
  **SpecialEffect** uses the system colors to define its borders.
 
 

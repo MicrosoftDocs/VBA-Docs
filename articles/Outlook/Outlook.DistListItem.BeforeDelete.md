@@ -42,5 +42,5 @@ The event occurs each time an item is deleted.
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

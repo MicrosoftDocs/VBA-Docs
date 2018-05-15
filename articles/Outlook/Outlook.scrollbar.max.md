@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ScrollBar.Max Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the maximum and minimum acceptable values for the **[Value](scrollbar-value-property-outlook-forms-script.md)** property of a **[ScrollBar](scrollbar-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Long** that specifies the maximum and minimum acceptable values for the **[Value](Outlook.scrollbar.value.md)** property of a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
 
 
 ## Syntax
@@ -29,6 +29,6 @@ The value for the  **Max** property corresponds to the lowest position of a vert
 
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.
 
- **Max** refer to locations, not to relative values, on the **ScrollBar**. That is, the value of  **Max** could be less than the value of **[Min](scrollbar-min-property-outlook-forms-script.md)**. If this is the case, moving toward the  **Max** (bottom) position means decreasing **Value**; moving toward the  **Min** (top) position means increasing **Value**.
+ **Max** refer to locations, not to relative values, on the **ScrollBar**. That is, the value of  **Max** could be less than the value of **[Min](Outlook.scrollbar.min.md)**. If this is the case, moving toward the  **Max** (bottom) position means decreasing **Value**; moving toward the  **Min** (top) position means increasing **Value**.
 
 

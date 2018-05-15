@@ -20,7 +20,7 @@ Returns a  **String** value that represents the full version number of the Excha
 
  _expression_ . **ExchangeMailboxServerVersion**
 
- _expression_ An expression that returns a **[NameSpace](namespace-object-outlook.md)** object.
+ _expression_ An expression that returns a **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ## Remarks
@@ -43,5 +43,5 @@ If an Exchange mailbox is not present in the namespace, this property returns an
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

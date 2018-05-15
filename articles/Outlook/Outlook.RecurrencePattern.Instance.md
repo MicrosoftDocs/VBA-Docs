@@ -34,5 +34,5 @@ This property is only valid for recurrences of the  **olRecursMonthNth** and **o
 #### Concepts
 
 
-[RecurrencePattern Object](recurrencepattern-object-outlook.md)
+[RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

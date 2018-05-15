@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the contact names associated with the
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

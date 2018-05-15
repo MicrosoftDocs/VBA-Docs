@@ -71,5 +71,5 @@ End Sub
 #### Concepts
 
 
-[UserProperty Object](userproperty-object-outlook.md)
+[UserProperty Object](Outlook.UserProperty.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.YomiDisplayName Property (Outlook)
 
-Returns a  **String** representing the Japanese phonetic rendering (yomigana) of the Exchange display name for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
+Returns a  **String** representing the Japanese phonetic rendering (yomigana) of the Exchange display name for the **[ExchangeUser](Outlook.ExchangeUser.md)** . Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **String** representing the Japanese phonetic rendering (yomigana) of
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

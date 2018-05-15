@@ -21,20 +21,20 @@ Represents the font used when formatting text in various portions of a view.
 The  **ViewFont** object is used by the following objects to represent font formatting information applied to the text in various portions of a view:
 
 
-- The  **[HeadingsFont](businesscardview-headingsfont-property-outlook.md)** property of the **[BusinessCardView](businesscardview-object-outlook.md)** object.
+- The  **[HeadingsFont](businessOutlook.CardView.HeadingsFont.md)** property of the **[BusinessCardView](businessOutlook.CardView.md)** object.
     
-- The  **[DayWeekFont](http://msdn.microsoft.com/library/ddb6f65d-72e2-d3f2-b10f-b3d8bc4d21b3%28Office.15%29.aspx)**, **[DayWeekTimeFont](http://msdn.microsoft.com/library/37ea6e1f-4148-3ab4-e0aa-48c49321ac91%28Office.15%29.aspx)**, and **[MonthFont](http://msdn.microsoft.com/library/b69d1690-d1a8-dbc0-3de4-86a8eb98a471%28Office.15%29.aspx)** properties of the **[CalendarView](calendarview-object-outlook.md)** object.
+- The  **[DayWeekFont](http://msdn.microsoft.com/library/ddb6f65d-72e2-d3f2-b10f-b3d8bc4d21b3%28Office.15%29.aspx)**, **[DayWeekTimeFont](http://msdn.microsoft.com/library/37ea6e1f-4148-3ab4-e0aa-48c49321ac91%28Office.15%29.aspx)**, and **[MonthFont](http://msdn.microsoft.com/library/b69d1690-d1a8-dbc0-3de4-86a8eb98a471%28Office.15%29.aspx)** properties of the **[CalendarView](Outlook.CalendarView.md)** object.
     
-- The  **[BodyFont](cardview-bodyfont-property-outlook.md)** and **[HeadingsFont](cardview-headingsfont-property-outlook.md)** properties of the **[CardView](cardview-object-outlook.md)** object.
+- The  **[BodyFont](Outlook.CardView.BodyFont.md)** and **[HeadingsFont](Outlook.CardView.HeadingsFont.md)** properties of the **[CardView](Outlook.CardView.md)** object.
     
-- The  **[AutoPreviewFont](tableview-autopreviewfont-property-outlook.md)**, **[ColumnFont](tableview-columnfont-property-outlook.md)**, and **[RowFont](tableview-rowfont-property-outlook.md)** properties of the **[TableView](tableview-object-outlook.md)** object.
+- The  **[AutoPreviewFont](Outlook.TableView.AutoPreviewFont.md)**, **[ColumnFont](Outlook.TableView.ColumnFont.md)**, and **[RowFont](Outlook.TableView.RowFont.md)** properties of the **[TableView](Outlook.TableView.md)** object.
     
-- The  **[ItemFont](timelineview-itemfont-property-outlook.md)**, **[LowerScaleFont](timelineview-lowerscalefont-property-outlook.md)**, and **[UpperScaleFont](timelineview-upperscalefont-property-outlook.md)** properties of the **[TimelineView](timelineview-object-outlook.md)** object.
+- The  **[ItemFont](Outlook.TimelineView.ItemFont.md)**, **[LowerScaleFont](Outlook.TimelineView.LowerScaleFont.md)**, and **[UpperScaleFont](Outlook.TimelineView.UpperScaleFont.md)** properties of the **[TimelineView](Outlook.TimelineView.md)** object.
     
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample increments the value of the  **[Size](viewfont-size-property-outlook.md)** property for the **ViewFont** object returned from the **ItemFont** property for the current **TimelineView** object.
+The following Visual Basic for Applications (VBA) sample increments the value of the  **[Size](Outlook.ViewFont.Size.md)** property for the **ViewFont** object returned from the **ItemFont** property for the current **TimelineView** object.
 
 
 ```
@@ -98,17 +98,17 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](viewfont-application-property-outlook.md)|
-|[Bold](viewfont-bold-property-outlook.md)|
-|[Class](viewfont-class-property-outlook.md)|
-|[Color](viewfont-color-property-outlook.md)|
-|[ExtendedColor](viewfont-extendedcolor-property-outlook.md)|
-|[Italic](viewfont-italic-property-outlook.md)|
-|[Name](viewfont-name-property-outlook.md)|
-|[Parent](viewfont-parent-property-outlook.md)|
-|[Session](viewfont-session-property-outlook.md)|
-|[Size](viewfont-size-property-outlook.md)|
-|[Strikethrough](viewfont-strikethrough-property-outlook.md)|
+|[Application](Outlook.ViewFont.Application.md)|
+|[Bold](Outlook.ViewFont.Bold.md)|
+|[Class](Outlook.ViewFont.Class.md)|
+|[Color](Outlook.ViewFont.Color.md)|
+|[ExtendedColor](Outlook.ViewFont.ExtendedColor.md)|
+|[Italic](Outlook.ViewFont.Italic.md)|
+|[Name](Outlook.ViewFont.Name.md)|
+|[Parent](Outlook.ViewFont.Parent.md)|
+|[Session](Outlook.ViewFont.Session.md)|
+|[Size](Outlook.ViewFont.Size.md)|
+|[Strikethrough](Outlook.ViewFont.Strikethrough.md)|
 |[Underline](viewfont-underline-property-outlook.md)|
 
 ## See also

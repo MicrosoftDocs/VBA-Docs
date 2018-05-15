@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SaveAs Method (Outlook)
 
-Saves the  **[SharingItem](sharingitem-object-outlook.md)** to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
+Saves the  **[SharingItem](Outlook.SharingItem.md)** to the specified path and in the format of the specified file type. If the file type is not specified, the MSG format (.msg) is used.
 
 
 ## Syntax
@@ -91,5 +91,5 @@ End Sub
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

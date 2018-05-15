@@ -37,5 +37,5 @@ Changes the date used by the current view to display information.
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

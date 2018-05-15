@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # SolutionsModule.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant that indicates the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicates the object's class. Read-only.
 
 
 ## Syntax
 
  _expression_ . **Class**
 
- _expression_ A variable that represents a **[SolutionsModule](solutionsmodule-object-outlook.md)** object.
+ _expression_ A variable that represents a **[SolutionsModule](Outlook.SolutionsModule.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant t
 #### Concepts
 
 
-[SolutionsModule Object](solutionsmodule-object-outlook.md)
+[SolutionsModule Object](Outlook.SolutionsModule.md)
 

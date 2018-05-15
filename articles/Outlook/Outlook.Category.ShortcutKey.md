@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Category.ShortcutKey Property (Outlook)
 
-Returns or sets an  **[OlCategoryShortcutKey](olcategoryshortcutkey-enumeration-outlook.md)** constant that specifies the shortcut key used by the **[Category](category-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlCategoryShortcutKey](Outlook.OlCategoryShortcutKey.md)** constant that specifies the shortcut key used by the **[Category](Outlook.Category.md)** object. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Any  **OlCategoryShortcutKey** constant other than **olCategoryShortcutKeyNone**
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing shortcut key assignments for each  **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing shortcut key assignments for each  **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ```vb
@@ -166,5 +166,5 @@ End Sub
 #### Concepts
 
 
-[Category Object](category-object-outlook.md)
+[Category Object](Outlook.Category.md)
 

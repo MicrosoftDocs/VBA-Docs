@@ -29,5 +29,5 @@ Returns or sets a  **Long** indicating the width (in pixels) of the specified ob
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

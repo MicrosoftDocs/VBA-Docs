@@ -34,5 +34,5 @@ This is a free-form text field.
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

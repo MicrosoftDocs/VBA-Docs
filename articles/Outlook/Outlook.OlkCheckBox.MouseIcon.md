@@ -34,5 +34,5 @@ The custom picture is of the Microsoft Windows type  **StdPicture** . The defaul
 #### Concepts
 
 
-[OlkCheckBox Object](olkcheckbox-object-outlook.md)
+[OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

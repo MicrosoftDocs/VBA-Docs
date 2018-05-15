@@ -31,7 +31,7 @@ The following are examples of actions that initiate the  **Click** event of the 
     
 
 
-For some controls, the  **Click** event occurs when the **Value** property changes. However, using the **PropertyChange** or **CustomPropertyChange** event is the preferred technique for detecting a new value for a property. The following are examples of actions that initiate the **Click** event due to assigning a new value to a control: clicking a **[ToggleButton](togglebutton-object-outlook-forms-script.md)**, pressing the SPACEBAR when a toggle button has the focus, pressing the accelerator key, or changing the value of the control in code.
+For some controls, the  **Click** event occurs when the **Value** property changes. However, using the **PropertyChange** or **CustomPropertyChange** event is the preferred technique for detecting a new value for a property. The following are examples of actions that initiate the **Click** event due to assigning a new value to a control: clicking a **[ToggleButton](Outlook.togglebutton.md)**, pressing the SPACEBAR when a toggle button has the focus, pressing the accelerator key, or changing the value of the control in code.
 
 The  **Click** event is not initiated when **Value** is set to **Null**.
 

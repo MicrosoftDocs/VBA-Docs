@@ -41,5 +41,5 @@ This method only opens a page for a new form region in design mode. This method 
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

@@ -29,5 +29,5 @@ Returns or sets a  **Variant** that represents the content of the control. Read/
 #### Concepts
 
 
-[OlkTimeZoneControl Object](olktimezonecontrol-object-outlook.md)
+[OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

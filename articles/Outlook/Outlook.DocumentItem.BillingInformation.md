@@ -34,5 +34,5 @@ This is a free-form text field.
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

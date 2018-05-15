@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportanceRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionImportance** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant,  **olConditionImportance** , from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The form name rule condition is supported by rules for receiving messages and ru
 #### Concepts
 
 
-[ImportanceRuleCondition Object](importancerulecondition-object-outlook.md)
+[ImportanceRuleCondition Object](Outlook.ImportanceRuleCondition.md)
 

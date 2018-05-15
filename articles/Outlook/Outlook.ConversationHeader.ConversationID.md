@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ConversationHeader.ConversationID Property (Outlook)
 
-Returns a  **String** that uniquely identifies the **[Conversation](conversation-object-outlook.md)** object to which this conversation header belongs. Read-only.
+Returns a  **String** that uniquely identifies the **[Conversation](Outlook.Conversation.md)** object to which this conversation header belongs. Read-only.
 
 
 ## Syntax
 
  _expression_ . **ConversationID**
 
- _expression_ A variable that represents a **[ConversationHeader](conversationheader-object-outlook.md)** object.
+ _expression_ A variable that represents a **[ConversationHeader](Outlook.ConversationHeader.md)** object.
 
 
 ## Remarks
@@ -36,5 +36,5 @@ This property corresponds with the MAPI property  **PidTagConversationId** .
 #### Concepts
 
 
-[ConversationHeader Object](conversationheader-object-outlook.md)
+[ConversationHeader Object](Outlook.ConversationHeader.md)
 

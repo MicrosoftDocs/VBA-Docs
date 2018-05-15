@@ -29,5 +29,5 @@ Saves the view, or saves the changes to a view.
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

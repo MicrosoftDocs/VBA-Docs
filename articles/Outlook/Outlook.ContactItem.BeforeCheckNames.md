@@ -52,5 +52,5 @@ The event does not fire under the following circumstances:
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

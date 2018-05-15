@@ -29,5 +29,5 @@ Returns or sets a  **Long** indicating the position (in pixels) of the top horiz
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

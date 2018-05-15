@@ -30,7 +30,7 @@ The  **Dismiss** method will fail if there is no visible reminder.
 
 ## Example
 
-The following example dismisses all active reminders. A reminder is active if its  **[IsVisible](reminder-isvisible-property-outlook.md)** property is set to **True** .
+The following example dismisses all active reminders. A reminder is active if its  **[IsVisible](Outlook.Reminder.IsVisible.md)** property is set to **True** .
 
 
 ```vb
@@ -78,5 +78,5 @@ End Sub
 #### Concepts
 
 
-[Reminder Object](reminder-object-outlook.md)
+[Reminder Object](Outlook.Reminder.md)
 

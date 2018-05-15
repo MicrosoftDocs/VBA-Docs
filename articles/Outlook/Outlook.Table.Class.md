@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Class Property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** enumeration indicating the class of the **[Table](table-object-outlook.md)** object. Read-only.
+Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Table](Outlook.Table.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.m
 #### Concepts
 
 
-[Table Object](table-object-outlook.md)
+[Table Object](Outlook.Table.md)
 

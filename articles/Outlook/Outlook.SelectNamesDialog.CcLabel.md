@@ -36,5 +36,5 @@ If  **CcLabel** is not set, then the default value will be the localized string 
 #### Concepts
 
 
-[SelectNamesDialog Object](selectnamesdialog-object-outlook.md)
+[SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

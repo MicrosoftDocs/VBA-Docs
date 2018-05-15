@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagConversationIndex** .
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

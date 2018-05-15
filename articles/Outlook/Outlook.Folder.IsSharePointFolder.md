@@ -80,5 +80,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

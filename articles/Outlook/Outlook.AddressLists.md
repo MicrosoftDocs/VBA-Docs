@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressLists Object (Outlook)
 
-Contains a set of  **[AddressList](addresslist-object-outlook.md)** objects.
+Contains a set of  **[AddressList](Outlook.AddressList.md)** objects.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ Set myAddressLists = myNameSpace.AddressLists
 
 |**Name**|
 |:-----|
-|[Item](addresslists-item-method-outlook.md)|
+|[Item](Outlook.AddressLists.Item.md)|
 
 ## Properties
 
@@ -45,11 +45,11 @@ Set myAddressLists = myNameSpace.AddressLists
 
 |**Name**|
 |:-----|
-|[Application](addresslists-application-property-outlook.md)|
-|[Class](addresslists-class-property-outlook.md)|
-|[Count](addresslists-count-property-outlook.md)|
-|[Parent](addresslists-parent-property-outlook.md)|
-|[Session](addresslists-session-property-outlook.md)|
+|[Application](Outlook.AddressLists.Application.md)|
+|[Class](Outlook.AddressLists.Class.md)|
+|[Count](Outlook.AddressLists.Count.md)|
+|[Parent](Outlook.AddressLists.Parent.md)|
+|[Session](Outlook.AddressLists.Session.md)|
 
 ## See also
 

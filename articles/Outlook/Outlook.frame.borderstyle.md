@@ -22,12 +22,12 @@ Returns or sets an  **Integer** that specifies the type of border of the control
 
 The possible values of  **BorderStyle** are 0 and 1. 0 represents no visible border line, 1 represents a single-line border (default).
 
-The default value for a  **[Frame](frame-object-outlook-forms-script.md)** is 0 (None).
+The default value for a  **[Frame](Outlook.frame.md)** is 0 (None).
 
-For a  **Frame**, the  **BorderStyle** property is ignored if the **[SpecialEffect](frame-specialeffect-property-outlook-forms-script.md)** property is zero.
+For a  **Frame**, the  **BorderStyle** property is ignored if the **[SpecialEffect](Outlook.frame.specialeffect.md)** property is zero.
 
 You can use either  **BorderStyle** or **SpecialEffect** to specify the border for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **BorderStyle** to 1, the system sets **SpecialEffect** to zero (Flat). If you specify a nonzero value for **SpecialEffect**, the system sets  **BorderStyle** to zero.
 
- **BorderStyle** uses **[BorderColor](frame-bordercolor-property-outlook-forms-script.md)** to define the colors of its borders. To use the **BorderColor** property, the **BorderStyle** property must be set to a value other than 0.
+ **BorderStyle** uses **[BorderColor](Outlook.frame.bordercolor.md)** to define the colors of its borders. To use the **BorderColor** property, the **BorderStyle** property must be set to a value other than 0.
 
 

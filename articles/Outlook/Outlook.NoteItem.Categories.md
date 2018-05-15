@@ -34,5 +34,5 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

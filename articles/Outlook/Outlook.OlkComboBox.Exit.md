@@ -37,5 +37,5 @@ Occurs just after the focus passes from this control to another control on the s
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

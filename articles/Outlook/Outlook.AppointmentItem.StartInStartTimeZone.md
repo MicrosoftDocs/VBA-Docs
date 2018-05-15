@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.StartInStartTimeZone Property (Outlook)
 
-Returns or sets a  **Date** value that represents the start date and time of the appointment expressed in the **[AppointmentItem.StartTimeZone](appointmentitem-starttimezone-property-outlook.md)** . Read/write.
+Returns or sets a  **Date** value that represents the start date and time of the appointment expressed in the **[AppointmentItem.StartTimeZone](Outlook.AppointmentItem.StartTimeZone.md)** . Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This is the value displayed as  **Start time** in the appointment inspector user
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.GetSharedDefaultFolder Method (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object that represents the specified default folder for the specified user.
+Returns a  **[Folder](Outlook.Folder.md)** object that represents the specified default folder for the specified user.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Returns a  **[Folder](folder-object-outlook.md)** object that represents the spe
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Recipient_|Required| **[Recipient](recipient-object-outlook.md)**|The owner of the folder. Note that the  **Recipient** object must be resolved.|
-| _FolderType_|Required| **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)**|The type of folder.|
+| _Recipient_|Required| **[Recipient](Outlook.Recipient.md)**|The owner of the folder. Note that the  **Recipient** object must be resolved.|
+| _FolderType_|Required| **[OlDefaultFolders](Outlook.OlDefaultFolders.md)**|The type of folder.|
 
 ### Return Value
 
@@ -100,5 +100,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

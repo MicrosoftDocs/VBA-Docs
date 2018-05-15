@@ -34,5 +34,5 @@ The default value is  **True** .
 #### Concepts
 
 
-[OlkListBox Object](olklistbox-object-outlook.md)
+[OlkListBox Object](Outlook.OlkListBox.md)
 

@@ -34,7 +34,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 #### Other resources
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.BorderStyle Property (Outlook)
 
-Returns or sets an  **[OlBorderStyle](olborderstyle-enumeration-outlook.md)** constant that defines the style of the border around the control. Read/write.
+Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that defines the style of the border around the control. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olBorderStyleSingle** .
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Pages Object (Outlook Forms Script)](pages-object-outlook-forms-script.md)
+-  [Pages Object (Outlook Forms Script)](Outlook.pages(object).md)
     
 -  [Pages Members (Outlook Forms Script)](pages-members-outlook-forms-script.md)
     

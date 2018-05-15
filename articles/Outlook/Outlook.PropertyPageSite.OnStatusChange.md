@@ -25,7 +25,7 @@ Notifies Microsoft Outlook that a custom property page has changed.
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example shows how to call the  **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)** method to notify Outlook that the user has changed a value on a custom property page.
+This Microsoft Visual Basic for Applications (VBA) example shows how to call the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method to notify Outlook that the user has changed a value on a custom property page.
 
 
 ```vb
@@ -67,5 +67,5 @@ End Sub
 #### Concepts
 
 
-[PropertyPageSite Object](propertypagesite-object-outlook.md)
+[PropertyPageSite Object](Outlook.PropertyPageSite.md)
 

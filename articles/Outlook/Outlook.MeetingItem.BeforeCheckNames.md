@@ -52,5 +52,5 @@ The event does not fire under the following circumstances:
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

@@ -43,5 +43,5 @@ If the value of  _Index_ is equal to or larger than the number of elements in th
 #### Concepts
 
 
-[OlkListBox Object](olklistbox-object-outlook.md)
+[OlkListBox Object](Outlook.OlkListBox.md)
 

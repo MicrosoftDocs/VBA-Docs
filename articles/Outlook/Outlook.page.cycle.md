@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Page.Cycle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether cycling includes controls nested in a **[MultiPage](multipage-object-outlook-forms-script.md)**. Read/write.
+Returns or sets an  **Integer** that specifies whether cycling includes controls nested in a **[MultiPage](Outlook.multipage.md)**. Read/write.
 
 
 ## Syntax

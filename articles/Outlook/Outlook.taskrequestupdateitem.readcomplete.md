@@ -32,9 +32,9 @@ Version Added: Outlook 2013
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the[BeforeRead](taskrequestupdateitem-beforeread-event-outlook.md) event and before the[Read](taskrequestupdateitem-read-event-outlook.md) event for the item.
+The  **ReadComplete** event occurs after the[BeforeRead](Outlook.TaskRequestUpdateItem.BeforeRead.md) event and before the[Read](Outlook.TaskRequestUpdateItem.Read.md) event for the item.
 
-To determine when the item is unloaded from memory, use the [Unload](taskrequestupdateitem-unload-event-outlook.md) event.
+To determine when the item is unloaded from memory, use the [Unload](Outlook.TaskRequestUpdateItem.Unload.md) event.
 
 The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
 
@@ -45,5 +45,5 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 #### Concepts
 
 
-[TaskRequestUpdateItem Object](taskrequestupdateitem-object-outlook.md)
+[TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

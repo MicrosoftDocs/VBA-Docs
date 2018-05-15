@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if a reminder has been set
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

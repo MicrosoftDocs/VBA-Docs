@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent application (Outlook) for the **[ExchangeUser](exchangeuser-object-outlook.md)** object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

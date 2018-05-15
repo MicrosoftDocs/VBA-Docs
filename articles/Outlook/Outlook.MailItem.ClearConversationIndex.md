@@ -29,5 +29,5 @@ Clears the index of the conversation thread for the mail message.
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

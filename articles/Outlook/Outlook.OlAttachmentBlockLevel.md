@@ -24,6 +24,6 @@ Specifies whether there is any restriction on the type of attachments for an ite
 
 ## Remarks
 
-Attachments with the [BlockLevel](attachment-blocklevel-property-outlook.md) equal to **olAttachmentBlockLevelOpen** are on the Level 2 list of attachments that administrators maintain for attachment security. For more information on attachment security in Outlook, see the[Office Resource Kit](http://technet.microsoft.com/en-us/library/cc303401%28office.14%29.aspx) Web site.
+Attachments with the [BlockLevel](Outlook.Attachment.BlockLevel.md) equal to **olAttachmentBlockLevelOpen** are on the Level 2 list of attachments that administrators maintain for attachment security. For more information on attachment security in Outlook, see the[Office Resource Kit](http://technet.microsoft.com/en-us/library/cc303401%28office.14%29.aspx) Web site.
 
 

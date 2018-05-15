@@ -29,5 +29,5 @@ Returns or sets a  **Long** indicating the position (in pixels) of the top horiz
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

@@ -24,7 +24,7 @@ Returns or sets a  **Boolean** that specifies whether a control can be edited. R
 
 When a control is locked and enabled, it can still initiate events and can still receive the focus.
 
-The  **[Enabled](listbox-enabled-property-outlook-forms-script.md)** and **Locked** properties work together to achieve the following effects:
+The  **[Enabled](Outlook.listbox.enabled.md)** and **Locked** properties work together to achieve the following effects:
 
 
 - If  **Enabled** and **Locked** are both **True**, the control can receive focus and appears normally (not dimmed) in the form. The user can copy, but not edit, data in the control.

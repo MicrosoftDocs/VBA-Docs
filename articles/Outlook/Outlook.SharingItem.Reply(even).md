@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Reply Event (Outlook)
 
-Occurs when the user selects the  **Reply** action for an item, or when the **[Reply](sharingitem-reply-method-outlook.md)** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the  **Reply** action for an item, or when the **[Reply](Outlook.SharingItem.Reply(method).md)** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Occurs when the user selects the  **Reply** action for an item, or when the **[R
 
 ## Remarks
 
-Returns the reply as a  **[MailItem](mailitem-object-outlook.md)** object.
+Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the reply action is not completed and the new item is not displayed.
 
@@ -42,5 +42,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

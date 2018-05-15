@@ -52,5 +52,5 @@ The event does not fire under the following circumstances:
 #### Concepts
 
 
-[TaskRequestItem Object](taskrequestitem-object-outlook.md)
+[TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

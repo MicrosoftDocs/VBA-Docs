@@ -34,5 +34,5 @@ The  **Index** property is only valid during the current session and can change 
 #### Concepts
 
 
-[AddressList Object](addresslist-object-outlook.md)
+[AddressList Object](Outlook.AddressList.md)
 

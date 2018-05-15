@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.GetFolderFromID Method (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object identified by the specified entry ID (if valid).
+Returns a  **[Folder](Outlook.Folder.md)** object identified by the specified entry ID (if valid).
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Returns a  **[Folder](folder-object-outlook.md)** object identified by the speci
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _EntryIDFolder_|Required| **String**|The  **[EntryID](folder-entryid-property-outlook.md)** of the folder.|
-| _EntryIDStore_|Optional| **Variant**|The  **[StoreID](folder-storeid-property-outlook.md)** for the folder.|
+| _EntryIDFolder_|Required| **String**|The  **[EntryID](Outlook.Folder.EntryID.md)** of the folder.|
+| _EntryIDStore_|Optional| **Variant**|The  **[StoreID](Outlook.Folder.StoreID.md)** for the folder.|
 
 ### Return Value
 
@@ -80,5 +80,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

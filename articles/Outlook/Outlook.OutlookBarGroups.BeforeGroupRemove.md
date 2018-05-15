@@ -29,7 +29,7 @@ Occurs before a new group is removed from the  **Shortcuts** pane, either as a r
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Group_|Required| **[OutlookBarGroup](outlookbargroup-object-outlook.md)**|The  **OutlookBarGroup** that is being removed.|
+| _Group_|Required| **[OutlookBarGroup](Outlook.OutlookBarGroup.md)**|The  **OutlookBarGroup** that is being removed.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the group is not removed from the **Shortcuts** pane.|
 
 ## Remarks
@@ -63,5 +63,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarGroups Object](outlookbargroups-object-outlook.md)
+[OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 

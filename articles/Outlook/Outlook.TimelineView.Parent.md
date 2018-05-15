@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

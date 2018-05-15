@@ -32,8 +32,8 @@ Obtains appropriate storage for a form region based on the specified information
 | _FormRegionName_|Required| **String**|The internal name of the form region. This can be indicated by the <name> tag in the corresponding form region XML manifest.|
 | _Item_|Required| **Object**|The Outlook item object that caused the loading of the form region.|
 | _LCID_|Required| **Long**|The current locale ID.|
-| _FormRegionMode_|Required| **[OlFormRegionMode](olformregionmode-enumeration-outlook.md)**|The mode that the form region is being loaded into.|
-| _FormRegionSize_|Required| **[OlFormRegionSize](olformregionsize-enumeration-outlook.md)**|The type of form region being loaded, either adjoining or separate.|
+| _FormRegionMode_|Required| **[OlFormRegionMode](Outlook.OlFormRegionMode.md)**|The mode that the form region is being loaded into.|
+| _FormRegionSize_|Required| **[OlFormRegionSize](Outlook.OlFormRegionSize.md)**|The type of form region being loaded, either adjoining or separate.|
 
 ### Return Value
 
@@ -51,7 +51,7 @@ The add-in must check for the return value of  **GetFormRegionStorage** . A form
     
 
 
-For examples of add-ins in C# and Visual Basic .NET that implement the  **[FormRegionStartup](formregionstartup-object-outlook.md)** interface, see code sample downloads on MSDN.
+For examples of add-ins in C# and Visual Basic .NET that implement the  **[FormRegionStartup](Outlook.formregionstartup.md)** interface, see code sample downloads on MSDN.
 
 
 ## See also
@@ -60,5 +60,5 @@ For examples of add-ins in C# and Visual Basic .NET that implement the  **[FormR
 #### Concepts
 
 
-[FormRegionStartup Interface](formregionstartup-object-outlook.md)
+[FormRegionStartup Interface](Outlook.formregionstartup.md)
 

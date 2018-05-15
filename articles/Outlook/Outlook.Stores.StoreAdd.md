@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Stores.StoreAdd Event (Outlook)
 
-Occurs when a  **[Store](store-object-outlook.md)** has been added to the current session either programmatically or through user action.
+Occurs when a  **[Store](Outlook.Store.md)** has been added to the current session either programmatically or through user action.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ Outlook must be running in order for this event to fire. This event will fire wh
     
 - A store is added through the  **Data Files** tab of the **Account Manager** dialog box.
     
-- A store is added successfully by calling the  **[Namespace.AddStore](namespace-addstore-method-outlook.md)** method.
+- A store is added successfully by calling the  **[Namespace.AddStore](Outlook.NameSpace.AddStore.md)** method.
     
 
 
@@ -55,7 +55,7 @@ This event will not fire when any of the following occurs:
     
 
 
-You can use this event to determine whether a store has been added and take appropriate actions on items in that store. Otherwise, you would have to resort to polling the  **[Stores](stores-object-outlook.md)** collection.
+You can use this event to determine whether a store has been added and take appropriate actions on items in that store. Otherwise, you would have to resort to polling the  **[Stores](Outlook.Stores.md)** collection.
 
 
 ## See also
@@ -64,5 +64,5 @@ You can use this event to determine whether a store has been added and take appr
 #### Concepts
 
 
-[Stores Object](stores-object-outlook.md)
+[Stores Object](Outlook.Stores.md)
 

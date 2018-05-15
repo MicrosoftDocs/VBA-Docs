@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.GetGlobalAddressList Method (Outlook)
 
-Returns an  **[AddressList](addresslist-object-outlook.md)** object that represents the Exchange Global Address List.
+Returns an  **[AddressList](Outlook.AddressList.md)** object that represents the Exchange Global Address List.
 
 
 ## Syntax
@@ -41,5 +41,5 @@ It also returns an error if no connection is available or the user is set to wor
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

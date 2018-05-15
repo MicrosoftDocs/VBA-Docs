@@ -34,5 +34,5 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

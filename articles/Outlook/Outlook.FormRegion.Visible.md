@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether the form region is v
 
  _expression_ . **Visible**
 
- _expression_ A variable that represents a **[FormRegion](formregion-object-outlook.md)** object.
+ _expression_ A variable that represents a **[FormRegion](Outlook.FormRegion.md)** object.
 
 
 ## Remarks
@@ -36,5 +36,5 @@ Use the  **Visible** property to control access to information without displayin
 #### Concepts
 
 
-[FormRegion Object](formregion-object-outlook.md)
+[FormRegion Object](Outlook.FormRegion.md)
 

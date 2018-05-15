@@ -30,7 +30,7 @@ If  **True** , the user can modify the settings of the current view. However, ch
 
 ## Example
 
-The following example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](view-object-outlook.md)** object and a **Boolean** value that indicates if the **View** interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
+The following example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
 
 
 ```vb
@@ -73,5 +73,5 @@ End Sub
 #### Concepts
 
 
-[View Object](view-object-outlook.md)
+[View Object](Outlook.View.md)
 

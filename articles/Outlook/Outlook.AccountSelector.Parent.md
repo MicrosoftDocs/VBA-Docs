@@ -20,12 +20,12 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_ . **Parent**
 
- _expression_ A variable that represents an **[AccountSelector](accountselector-object-outlook.md)** object.
+ _expression_ A variable that represents an **[AccountSelector](Outlook.AccountSelector.md)** object.
 
 
 ## Remarks
 
-The parent of the  **AccountSelector** object returns an **[Explorer](explorer-object-outlook.md)** object.
+The parent of the  **AccountSelector** object returns an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of the  **AccountSelector** object returns an **[Explorer](explorer-o
 #### Concepts
 
 
-[AccountSelector Object](accountselector-object-outlook.md)
+[AccountSelector Object](Outlook.AccountSelector.md)
 

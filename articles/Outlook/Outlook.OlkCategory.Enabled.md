@@ -34,5 +34,5 @@ The default value is  **True** .
 #### Concepts
 
 
-[OlkCategory Object](olkcategory-object-outlook.md)
+[OlkCategory Object](Outlook.OlkCategory.md)
 

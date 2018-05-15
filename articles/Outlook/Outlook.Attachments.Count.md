@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Attachments Object](attachments-object-outlook.md)
+[Attachments Object](Outlook.Attachments.md)
 

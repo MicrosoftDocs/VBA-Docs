@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the start date and time of the
 
 ## Remarks
 
-Changing the value for the  **[AppointmentItem.Start](appointmentitem-start-property-outlook.md)** property or the **[AppointmentItem.StartTimeZone](appointmentitem-starttimezone-property-outlook.md)** property will cause Outlook to recalculate the value of **StartUTC** .
+Changing the value for the  **[AppointmentItem.Start](Outlook.AppointmentItem.Start.md)** property or the **[AppointmentItem.StartTimeZone](Outlook.AppointmentItem.StartTimeZone.md)** property will cause Outlook to recalculate the value of **StartUTC** .
 
 
 ## See also
@@ -34,5 +34,5 @@ Changing the value for the  **[AppointmentItem.Start](appointmentitem-start-prop
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

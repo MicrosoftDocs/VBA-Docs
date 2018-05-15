@@ -20,7 +20,7 @@ Opens a shared item from a specified path or URL.
 
  _expression_ . **OpenSharedItem**( **_Path_** )
 
- _expression_ An expression that returns a **[NameSpace](namespace-object-outlook.md)** object.
+ _expression_ An expression that returns a **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ### Parameters
@@ -43,11 +43,11 @@ This method is used to open iCalendar appointment (.ics) files, vCard (.vcf) fil
 
 
 | **Shared item type**| **Outlook item**|
-|iCalendar appointment (.ics) file| **[AppointmentItem](appointmentitem-object-outlook.md)**|
-|vCard (.vcf) file| **[ContactItem](contactitem-object-outlook.md)**|
+|iCalendar appointment (.ics) file| **[AppointmentItem](Outlook.AppointmentItem.md)**|
+|vCard (.vcf) file| **[ContactItem](Outlook.ContactItem.md)**|
 |Outlook message (.msg) file|Type corresponds to the type of the item that was saved as the .msg file|
 
- **Note**  This method does not support iCalendar calendar (.ics) files. To open iCalendar calendar files, you can use the  **[OpenSharedFolder](namespace-opensharedfolder-method-outlook.md)** method of the **NameSpace** object.
+ **Note**  This method does not support iCalendar calendar (.ics) files. To open iCalendar calendar files, you can use the  **[OpenSharedFolder](Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object.
 
 
 ## See also
@@ -56,5 +56,5 @@ This method is used to open iCalendar appointment (.ics) files, vCard (.vcf) fil
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

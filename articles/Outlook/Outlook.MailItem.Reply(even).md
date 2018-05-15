@@ -31,7 +31,7 @@ Occurs when the user selects the  **Reply** action for an item, or when the **Re
 
 ## Remarks
 
-Returns the reply as a  **[MailItem](mailitem-object-outlook.md)** object.
+Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the reply action is not completed and the new item is not displayed.
 
@@ -68,5 +68,5 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

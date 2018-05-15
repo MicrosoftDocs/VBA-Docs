@@ -52,5 +52,5 @@ The event does not fire under the following circumstances:
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](distlistitem-reminderoverridedefault-property-outlook.md)** and **[ReminderPlaySound](distlistitem-reminderplaysound-property-outlook.md)** properties are set to **True** .
+This property is only valid if the  **[ReminderOverrideDefault](Outlook.DistListItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.DistListItem.ReminderPlaySound.md)** properties are set to **True** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is only valid if the  **[ReminderOverrideDefault](distlistitem-rem
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

@@ -34,5 +34,5 @@ Returns or sets a  **Long** indicating the total work for the task. Read/write.
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagConversationIndex** .
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

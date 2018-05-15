@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalItem.PropertyAccessor Property (Outlook)
 
-Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[JournalItem](journalitem-object-outlook.md)** object. Read-only.
+Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[JournalItem](Outlook.JournalItem.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object tha
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

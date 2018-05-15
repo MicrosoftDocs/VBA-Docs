@@ -29,5 +29,5 @@ Returns a  **String** value that represents the formula for the **UserDefinedPro
 #### Concepts
 
 
-[UserDefinedProperty Object](userdefinedproperty-object-outlook.md)
+[UserDefinedProperty Object](Outlook.UserDefinedProperty.md)
 

@@ -36,5 +36,5 @@ If  **True** , the specified item is in conflict.
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

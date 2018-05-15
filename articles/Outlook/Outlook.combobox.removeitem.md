@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ComboBox.RemoveItem Method (Outlook Forms Script)
 
-Removes a row from the list in a  **[ComboBox](combobox-object-outlook-forms-script.md)**.
+Removes a row from the list in a  **[ComboBox](Outlook.combobox.md)**.
 
 
 ## Syntax

@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if a reminder has been set
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

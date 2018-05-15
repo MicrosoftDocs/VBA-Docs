@@ -31,15 +31,15 @@ Specifies the time period for which an Outlook item is marked as a task.
 This enumeration is used by the  **MarkAsTask** method for the following Outlook items:
 
 
-- [ContactItem](contactitem-object-outlook.md)
+- [ContactItem](Outlook.ContactItem.md)
     
-- [DistListItem](distlistitem-object-outlook.md)
+- [DistListItem](Outlook.DistListItem.md)
     
-- [MailItem](mailitem-object-outlook.md)
+- [MailItem](Outlook.MailItem.md)
     
-- [PostItem](postitem-object-outlook.md)
+- [PostItem](Outlook.PostItem.md)
     
-- [SharingItem](sharingitem-object-outlook.md)
+- [SharingItem](Outlook.SharingItem.md)
     
 Depending on the value chosen, the following properties are set to the specified default values.
 

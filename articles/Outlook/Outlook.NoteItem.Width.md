@@ -29,5 +29,5 @@ Returns or sets a  **Long** indicating the width (in pixels) of the specified ob
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

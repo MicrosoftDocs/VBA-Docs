@@ -29,11 +29,11 @@ Occurs when a view is added to the collection. Microsoft Outlook creates the new
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _View_|Required| **[View](view-object-outlook.md)**|The new view added to the collection prior to this event.|
+| _View_|Required| **[View](Outlook.View.md)**|The new view added to the collection prior to this event.|
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the view's name and saves it when the  **ViewAdd** event is fired. Use the **[Save](view-save-method-outlook.md)** method after the properties have been modified to save the changes to the view. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `AddView()` procedure should be called before the event procedure can be called by Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example displays the view's name and saves it when the  **ViewAdd** event is fired. Use the **[Save](Outlook.View.Save.md)** method after the properties have been modified to save the changes to the view. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `AddView()` procedure should be called before the event procedure can be called by Outlook.
 
 
 ```vb
@@ -75,5 +75,5 @@ End Sub
 #### Concepts
 
 
-[Views Object](views-object-outlook.md)
+[Views Object](Outlook.Views.md)
 

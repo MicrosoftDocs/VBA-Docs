@@ -29,5 +29,5 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

@@ -20,7 +20,7 @@ Returns a  **String** value that represents the topic of the conversation thread
 
  _expression_ . **ConversationTopic**
 
- _expression_ A variable that represents a **[ConversationHeader](conversationheader-object-outlook.md)** object.
+ _expression_ A variable that represents a **[ConversationHeader](Outlook.ConversationHeader.md)** object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ Corresponds to the MAPI property  **PidTagConversationTopic** .
 #### Concepts
 
 
-[ConversationHeader Object](conversationheader-object-outlook.md)
+[ConversationHeader Object](Outlook.ConversationHeader.md)
 

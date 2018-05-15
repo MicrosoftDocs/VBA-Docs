@@ -34,7 +34,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 #### Other resources
 
 

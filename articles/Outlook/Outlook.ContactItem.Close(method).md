@@ -29,7 +29,7 @@ Closes and optionally saves changes to the Outlook item.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SaveMode_|Required| **[OlInspectorClose](olinspectorclose-enumeration-outlook.md)**|The close behavior. If the item displayed within the inspector has not been changed, this argument has no effect.|
+| _SaveMode_|Required| **[OlInspectorClose](Outlook.OlInspectorClose.md)**|The close behavior. If the item displayed within the inspector has not been changed, this argument has no effect.|
 
 ## See also
 
@@ -37,5 +37,5 @@ Closes and optionally saves changes to the Outlook item.
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

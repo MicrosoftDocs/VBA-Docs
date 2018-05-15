@@ -40,5 +40,5 @@ In VBScript, if you set the return value of this function to  **False** , the fo
 #### Concepts
 
 
-[TaskRequestUpdateItem Object](taskrequestupdateitem-object-outlook.md)
+[TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

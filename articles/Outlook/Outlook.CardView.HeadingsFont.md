@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.HeadingsFont Property (Outlook)
 
-Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the font used to display the heading of each card in the **[CardView](cardview-object-outlook.md)** object. Read-only.
+Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used to display the heading of each card in the **[CardView](Outlook.CardView.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

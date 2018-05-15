@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FromRssFeedRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionFromRssFeed** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant,  **olConditionFromRssFeed** , from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This rule condition is supported by rules for receiving messages. For more infor
 #### Concepts
 
 
-[FromRssFeedRuleCondition Object](fromrssfeedrulecondition-object-outlook.md)
+[FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 

@@ -30,12 +30,12 @@ An HRESULT value that represents the response of the event.
 
 ## Remarks
 
-Because the [PropertyPage](propertypage-object-outlook.md) is an abstract object that is implemented in your application (rather than by Microsoft Outlook itself), the implementation of the **Apply** method resembles an event procedure in your program code. That is, you write the code that implements the method in much the same way you would write an event procedure. In other words, Outlook calls the **Apply** method to notify your program that the user has taken an action in the dialog box displaying the custom property page that requires your program to apply the property values changed by the user.
+Because the [PropertyPage](Outlook.PropertyPage.md) is an abstract object that is implemented in your application (rather than by Microsoft Outlook itself), the implementation of the **Apply** method resembles an event procedure in your program code. That is, you write the code that implements the method in much the same way you would write an event procedure. In other words, Outlook calls the **Apply** method to notify your program that the user has taken an action in the dialog box displaying the custom property page that requires your program to apply the property values changed by the user.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example sets two global variables to reflect the values in controls on a form and then sets a global variable representing the  **[Dirty](propertypage-dirty-property-outlook.md)** property to **False** .
+This Microsoft Visual Basic for Applications (VBA) example sets two global variables to reflect the values in controls on a form and then sets a global variable representing the  **[Dirty](Outlook.PropertyPage.Dirty.md)** property to **False** .
 
 
 ```vb
@@ -57,5 +57,5 @@ End Sub
 #### Concepts
 
 
-[PropertyPage Object](propertypage-object-outlook.md)
+[PropertyPage Object](Outlook.PropertyPage.md)
 

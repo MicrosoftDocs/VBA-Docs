@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Search.Results Property (Outlook)
 
-Returns a  **[Results](results-object-outlook.md)** collection that specifies the results of the search. Read-only.
+Returns a  **[Results](Outlook.Results.md)** collection that specifies the results of the search. Read-only.
 
 
 ## Syntax
@@ -83,5 +83,5 @@ End Sub
 #### Concepts
 
 
-[Search Object](search-object-outlook.md)
+[Search Object](Outlook.Search.md)
 

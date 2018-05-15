@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.ShowLabelWhenViewingByMonth Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines if labels for Outlook items are displayed when viewing by month in the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
+Returns or sets a  **Boolean** value that determines if labels for Outlook items are displayed when viewing by month in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines if labels for Outlook items
 
 ## Remarks
 
-This property is applicable only if the  **[TimelineViewMode](timelineview-timelineviewmode-property-outlook.md)** property is set to **olTimelineViewMonth** .
+This property is applicable only if the  **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property is set to **olTimelineViewMonth** .
 
 
 ## Example
@@ -118,5 +118,5 @@ End Sub
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

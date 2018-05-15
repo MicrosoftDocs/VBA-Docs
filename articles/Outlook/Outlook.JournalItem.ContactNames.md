@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the contact names associated with the
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarSharing.CalendarDetail Property (Outlook)
 
-Returns or sets an  **[OlCalendarDetail](olcalendardetail-enumeration-outlook.md)** value indicating the level of detail for calendar items included in the iCalendar (.ics) file created by the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** or **[SaveAsICal](calendarsharing-saveasical-method-outlook.md)** methods of the **[CalendarSharing](calendarsharing-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlCalendarDetail](Outlook.OlCalendarDetail.md)** value indicating the level of detail for calendar items included in the iCalendar (.ics) file created by the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** or **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** methods of the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 
 
 ## Syntax
@@ -33,11 +33,11 @@ A  **OlCalendarDetail** value that indicates the level of detail for calendar it
 The value of this property determines the allowable values for the following properties of the  **CalendarSharing** object:
 
 
--  **[IncludeAttachments](calendarsharing-includeattachments-property-outlook.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly** or **olFreeBusyAndSubject** .
+-  **[IncludeAttachments](Outlook.CalendarSharing.IncludeAttachments.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly** or **olFreeBusyAndSubject** .
     
--  **[IncludePrivateDetails](calendarsharing-includeprivatedetails-property-outlook.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly** .
+-  **[IncludePrivateDetails](Outlook.CalendarSharing.IncludePrivateDetails.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyOnly** .
     
--  **[RestrictToWorkingHours](calendarsharing-restricttoworkinghours-property-outlook.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyAndSubject** or **olFullDetails** .
+-  **[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)** must be set to **False** if **CalendarDetail** is set to **olFreeBusyAndSubject** or **olFullDetails** .
     
 
 ## See also
@@ -46,5 +46,5 @@ The value of this property determines the allowable values for the following pro
 #### Concepts
 
 
-[CalendarSharing Object](calendarsharing-object-outlook.md)
+[CalendarSharing Object](Outlook.CalendarSharing.md)
 

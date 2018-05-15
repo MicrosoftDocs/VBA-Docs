@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Tabs.Clear Method (Outlook Forms Script)
 
-Removes all tabs from a  **[Tabs](tabs-object-outlook-forms-script.md)** collection.
+Removes all tabs from a  **[Tabs](Outlook.tabs.md)** collection.
 
 
 ## Syntax

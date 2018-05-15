@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

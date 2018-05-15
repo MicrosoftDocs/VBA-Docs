@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkCommandButton.TextAlign Property (Outlook)
 
-Returns or sets an  **[OlTextAlign](oltextalign-enumeration-outlook.md)** constant that specifies how text is aligned in the control. Read/write.
+Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ For the Command Button control, when  **TextAlign** is set to **olTextAlignLeft*
 #### Concepts
 
 
-[OlkCommandButton Object](olkcommandbutton-object-outlook.md)
+[OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

@@ -87,5 +87,5 @@ End Sub
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

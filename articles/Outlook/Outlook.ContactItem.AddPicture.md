@@ -98,5 +98,5 @@ Sub AddPictureToAContact()
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

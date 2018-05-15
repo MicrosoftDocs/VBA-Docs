@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.IsConflict Property (Outlook)
 
-Returns a  **Boolean** that determines if the **[SharingItem](sharingitem-object-outlook.md)** is in conflict. Read-only.
+Returns a  **Boolean** that determines if the **[SharingItem](Outlook.SharingItem.md)** is in conflict. Read-only.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ If  **true** , the specified item is in conflict.
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

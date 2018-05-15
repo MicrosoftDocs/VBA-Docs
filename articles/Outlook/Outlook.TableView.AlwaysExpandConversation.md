@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether conversations are al
 
  _expression_ . **AlwaysExpandConversation**
 
- _expression_ A variable that represents a **[TableView](tableview-object-outlook.md)** object.
+ _expression_ A variable that represents a **[TableView](Outlook.TableView.md)** object.
 
 
 ## Remarks
@@ -36,5 +36,5 @@ The  **AlwaysExpandConversation** property is analogous to selecting **Always Ex
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

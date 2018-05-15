@@ -25,7 +25,7 @@ Returns a  **String** value that represents the DASL statement used to restrict 
 
 ## Remarks
 
-This property is set as the  _Filter_ argument in the **[Application](application-object-outlook.md)** object's **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method.
+This property is set as the  _Filter_ argument in the **[Application](Outlook.Application.md)** object's **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.
 
 When searching  **Text** fields, you can use either an apostrophe (') or double quotation marks ("") to delimit the values that are part of the filter. For example, all of the following lines function correctly when the field is of type **String** :
 
@@ -53,7 +53,7 @@ sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[Search](search-object-outlook.md)** object. The event subroutine fires after the search has finished and displays the **[Tag](search-tag-property-outlook.md)** and **Filter** properties of the **Search** object in addition to the results of the search.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[Search](Outlook.Search.md)** object. The event subroutine fires after the search has finished and displays the **[Tag](Outlook.Search.Tag.md)** and **Filter** properties of the **Search** object in addition to the results of the search.
 
 
 ```vb
@@ -78,7 +78,7 @@ Sub SearchInboxFolder()
 End Sub
 ```
 
-Use an  **[AdvancedSearchComplete](application-advancedsearchcomplete-event-outlook.md)** event subroutine to ensure the integrity of the data stored in the **Search** object.
+Use an  **[AdvancedSearchComplete](Outlook.Application.AdvancedSearchComplete.md)** event subroutine to ensure the integrity of the data stored in the **Search** object.
 
 
 
@@ -120,5 +120,5 @@ End Sub
 #### Concepts
 
 
-[Search Object](search-object-outlook.md)
+[Search Object](Outlook.Search.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MarkAsTaskRuleAction.MarkInterval Property (Outlook)
 
-Returns or sets a constant in the  **[OlMarkInterval](olmarkinterval-enumeration-outlook.md)** enumeration that represents the interval before the task is due. Read/write.
+Returns or sets a constant in the  **[OlMarkInterval](Outlook.OlMarkInterval.md)** enumeration that represents the interval before the task is due. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a constant in the  **[OlMarkInterval](olmarkinterval-enumeration
 #### Concepts
 
 
-[MarkAsTaskRuleAction Object](markastaskruleaction-object-outlook.md)
+[MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 

@@ -22,16 +22,16 @@ Occurs after Microsoft Outlook has saved the item.
 
 ## Remarks
 
-The  **AfterWrite** event occurs after the **[Write](journalitem-write-event-outlook.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](journalitem-unload-event-outlook.md)** event.
+The  **AfterWrite** event occurs after the **[Write](Outlook.JournalItem.Write.md)** event. This event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](Outlook.JournalItem.Unload.md)** event.
 
 The  **AfterWrite** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnWriteComplete** .
 
 Only the following members of the item object can be accessed in the  **AfterWrite** event:
 
 
--  **[Class](journalitem-class-property-outlook.md)**
+-  **[Class](Outlook.JournalItem.Class.md)**
     
--  **[MessageClass](journalitem-messageclass-property-outlook.md)**
+-  **[MessageClass](Outlook.JournalItem.MessageClass.md)**
     
 -  **MAPIOBJECT**
     
@@ -48,5 +48,5 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

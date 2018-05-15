@@ -20,7 +20,7 @@ Returns a  **[LanguageSettings](http://msdn.microsoft.com/library/936f7d61-87e5-
 
  _expression_ . **LanguageSettings**
 
- _expression_ A variable that represents an **[Application](application-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns a  **[LanguageSettings](http://msdn.microsoft.com/library/936f7d61-87e5-
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

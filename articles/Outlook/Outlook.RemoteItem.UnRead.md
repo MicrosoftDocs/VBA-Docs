@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

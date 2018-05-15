@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Sensitivity Property (Outlook)
 
-Returns or sets an  **[OlSensitivity](olsensitivity-enumeration-outlook.md)** constant indicating the sensitivity for the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets an  **[OlSensitivity](Outlook.OlSensitivity.md)** constant indicating the sensitivity for the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagSensitivity** .
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

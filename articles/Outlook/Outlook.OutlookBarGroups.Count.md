@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[OutlookBarGroups Object](outlookbargroups-object-outlook.md)
+[OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 

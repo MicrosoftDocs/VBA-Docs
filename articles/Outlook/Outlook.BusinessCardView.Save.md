@@ -79,5 +79,5 @@ End Sub
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

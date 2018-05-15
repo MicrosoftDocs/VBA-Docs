@@ -29,5 +29,5 @@ A  **Boolean** value that returns **True** if the item was automatically forward
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

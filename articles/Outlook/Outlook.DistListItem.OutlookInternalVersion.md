@@ -29,5 +29,5 @@ Returns a  **Long** representing the build number of the Outlook application for
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

@@ -39,5 +39,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

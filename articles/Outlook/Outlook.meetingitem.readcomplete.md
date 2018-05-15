@@ -32,9 +32,9 @@ Version Added: Outlook 2013
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the[BeforeRead](meetingitem-beforeread-event-outlook.md) event and before the[Read](meetingitem-read-event-outlook.md) event for the item.
+The  **ReadComplete** event occurs after the[BeforeRead](Outlook.MeetingItem.BeforeRead.md) event and before the[Read](Outlook.MeetingItem.Read.md) event for the item.
 
-To determine when the item is unloaded from memory, use the [Unload](meetingitem-unload-event-outlook.md) event.
+To determine when the item is unloaded from memory, use the [Unload](Outlook.MeetingItem.Unload.md) event.
 
 The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
 
@@ -45,5 +45,5 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

@@ -29,7 +29,7 @@ Occurs after a reminder has been modified.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ReminderObject_|Required| **[Reminder](reminder-object-outlook.md)**|The  **Reminder** object that has been modified.|
+| _ReminderObject_|Required| **[Reminder](Outlook.Reminder.md)**|The  **Reminder** object that has been modified.|
 
 ## Example
 
@@ -65,5 +65,5 @@ End Sub
 #### Concepts
 
 
-[Reminders Object](reminders-object-outlook.md)
+[Reminders Object](Outlook.Reminders.md)
 

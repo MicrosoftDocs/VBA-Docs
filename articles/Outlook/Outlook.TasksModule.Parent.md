@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[TasksModule Object](tasksmodule-object-outlook.md)
+[TasksModule Object](Outlook.TasksModule.md)
 

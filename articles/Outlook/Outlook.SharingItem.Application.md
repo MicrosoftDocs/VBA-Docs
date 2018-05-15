@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent Outlook application for the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

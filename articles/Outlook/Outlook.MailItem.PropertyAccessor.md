@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.PropertyAccessor Property (Outlook)
 
-Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[MailItem](mailitem-object-outlook.md)** object. Read-only.
+Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[MailItem](Outlook.MailItem.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object tha
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

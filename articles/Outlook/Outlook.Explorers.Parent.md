@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Explorers Object](explorers-object-outlook.md)
+[Explorers Object](Outlook.Explorers.md)
 

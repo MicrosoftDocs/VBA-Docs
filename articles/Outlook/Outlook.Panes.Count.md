@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Panes Object](panes-object-outlook.md)
+[Panes Object](Outlook.Panes.md)
 

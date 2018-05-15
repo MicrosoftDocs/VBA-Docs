@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskRequestAcceptItem.Write Event (Outlook)
 
-Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](taskrequestacceptitem-save-method-outlook.md)** or **[SaveAs](taskrequestacceptitem-saveas-method-outlook.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
+Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.TaskRequestAcceptItem.Save.md)** or **[SaveAs](Outlook.TaskRequestAcceptItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax
@@ -39,5 +39,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

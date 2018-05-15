@@ -35,7 +35,7 @@ Adds a new shortcut to a group in the  **Shortcuts** pane.
 
 ### Return Value
 
-An  **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)** object that represents the new shortcut.
+An  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object that represents the new shortcut.
 
 
 ## Example
@@ -64,5 +64,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarShortcuts Object](outlookbarshortcuts-object-outlook.md)
+[OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 

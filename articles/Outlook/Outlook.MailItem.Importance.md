@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Importance Property (Outlook)
 
-Returns or sets an  **[OlImportance](olimportance-enumeration-outlook.md)** constant indicating the relative importance level for the Outlook item. Read/write.
+Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -60,5 +60,5 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

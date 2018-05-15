@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

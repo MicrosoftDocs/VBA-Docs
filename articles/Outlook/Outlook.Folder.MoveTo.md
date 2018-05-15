@@ -20,7 +20,7 @@ Moves a folder to the specified destination folder.
 
  _expression_ . **MoveTo**( **_DestinationFolder_** )
 
- _expression_ A variable that represents a **[Folder](folder-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object.
 
 
 ### Parameters
@@ -62,5 +62,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

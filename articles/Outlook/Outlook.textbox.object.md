@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [TextBox Object (Outlook Forms Script)](textbox-object-outlook-forms-script.md)
+-  [TextBox Object (Outlook Forms Script)](Outlook.textbox.md)
     
 -  [TextBox Members (Outlook Forms Script)](textbox-members-outlook-forms-script.md)
     

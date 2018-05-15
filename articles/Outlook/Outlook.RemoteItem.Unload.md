@@ -17,7 +17,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
  _expression_ . **Unload**
 
- _expression_ A variable that represents a **[RemoteItem](remoteitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[RemoteItem](Outlook.RemoteItem.md)** object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

@@ -29,5 +29,5 @@ Returns or sets a  **Long** specifying the height (in pixels) of the inspector w
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

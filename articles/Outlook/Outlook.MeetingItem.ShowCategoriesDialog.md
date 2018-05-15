@@ -29,5 +29,5 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

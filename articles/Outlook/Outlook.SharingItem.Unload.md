@@ -34,5 +34,5 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

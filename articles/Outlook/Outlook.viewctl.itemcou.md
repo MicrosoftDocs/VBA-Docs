@@ -20,6 +20,6 @@ Returns a  **Long** that indicates the count of objects in the current folder di
 
 ## Remarks
 
-The ** ItemCount** property always returns the number of items that are in the current folder displayed in the control, and not the number of items that are visible in the view. Setting the [Filter](viewctl-filter-property-outlook-view-control.md) or the [FilterAppend](viewctl-filterappend-property-outlook-view-control.md) property has no effect on the value of the **ItemCount** property.
+The ** ItemCount** property always returns the number of items that are in the current folder displayed in the control, and not the number of items that are visible in the view. Setting the [Filter](Outlook.viewctl.filt.md) or the [FilterAppend](Outlook.viewctl.filterappe.md) property has no effect on the value of the **ItemCount** property.
 
 

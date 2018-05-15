@@ -25,7 +25,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 ## Remarks
 
-The EntryID is one of the three means to identify a  **[StorageItem](storageitem-object-outlook.md)** object using **[Folder.GetStorage](folder-getstorage-method-outlook.md)** .
+The EntryID is one of the three means to identify a  **[StorageItem](Outlook.StorageItem.md)** object using **[Folder.GetStorage](Outlook.Folder.GetStorage.md)** .
 
 This property corresponds to the MAPI property  **PidTagEntryId** .
 
@@ -38,5 +38,5 @@ A MAPI store provider assigns a unique ID string when an item is created in its 
 #### Concepts
 
 
-[StorageItem Object](storageitem-object-outlook.md)
+[StorageItem Object](Outlook.StorageItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Views.Item Method (Outlook)
 
-Returns an  **[View](view-object-outlook.md)** object from the collection.
+Returns an  **[View](Outlook.View.md)** object from the collection.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ A  **View** object that represents the specified object.
 #### Concepts
 
 
-[Views Object](views-object-outlook.md)
+[Views Object](Outlook.Views.md)
 

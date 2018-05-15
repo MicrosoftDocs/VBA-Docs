@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[AddressEntries Object](addressentries-object-outlook.md)
+[AddressEntries Object](Outlook.AddressEntries.md)
 

@@ -29,5 +29,5 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

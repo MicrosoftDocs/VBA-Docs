@@ -18,7 +18,7 @@ Represents a rule condition that evaluates whether a form name was used to send 
 
 ## Remarks
 
- **FormNameRuleCondition** is derived from the **[RuleCondition](rulecondition-object-outlook.md)** object. Each rule is associated with a **[RuleConditions](ruleconditions-object-outlook.md)** object which has a **[FormName](ruleconditions-formname-property-outlook.md)** property. The **FormName** property always returns a **FormNameRuleCondition** object. If the rule has any of these rule conditions enabled, then **[FormNameRuleCondition.Enabled](formnamerulecondition-enabled-property-outlook.md)** would be **True**.
+ **FormNameRuleCondition** is derived from the **[RuleCondition](Outlook.RuleCondition.md)** object. Each rule is associated with a **[RuleConditions](Outlook.RuleConditions.md)** object which has a **[FormName](Outlook.RuleConditions.FormName.md)** property. The **FormName** property always returns a **FormNameRuleCondition** object. If the rule has any of these rule conditions enabled, then **[FormNameRuleCondition.Enabled](Outlook.FormNameRuleCondition.Enabled.md)** would be **True**.
 
 For more information on specifying rule actions, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
 
@@ -29,12 +29,12 @@ For more information on specifying rule actions, see [Specify Rule Conditions](h
 
 |**Name**|
 |:-----|
-|[Application](formnamerulecondition-application-property-outlook.md)|
-|[Class](formnamerulecondition-class-property-outlook.md)|
-|[ConditionType](formnamerulecondition-conditiontype-property-outlook.md)|
-|[Enabled](formnamerulecondition-enabled-property-outlook.md)|
-|[FormName](formnamerulecondition-formname-property-outlook.md)|
-|[Parent](formnamerulecondition-parent-property-outlook.md)|
+|[Application](Outlook.FormNameRuleCondition.Application.md)|
+|[Class](Outlook.FormNameRuleCondition.Class.md)|
+|[ConditionType](Outlook.FormNameRuleCondition.ConditionType.md)|
+|[Enabled](Outlook.FormNameRuleCondition.Enabled.md)|
+|[FormName](Outlook.FormNameRuleCondition.FormName.md)|
+|[Parent](Outlook.FormNameRuleCondition.Parent.md)|
 |[Session](formnamerulecondition-session-property-outlook.md)|
 
 ## See also

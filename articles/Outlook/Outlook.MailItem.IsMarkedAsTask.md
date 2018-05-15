@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.IsMarkedAsTask Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[MailItem](mailitem-object-outlook.md)** is marked as a task. Read-only.
+Returns a  **Boolean** value that indicates whether the **[MailItem](Outlook.MailItem.md)** is marked as a task. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **Boolean** value that indicates whether the **[MailItem](mailitem-ob
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

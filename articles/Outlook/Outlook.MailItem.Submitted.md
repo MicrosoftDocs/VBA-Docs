@@ -34,5 +34,5 @@ A message is always created and submitted in a folder, usually the  **Outbox**.
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

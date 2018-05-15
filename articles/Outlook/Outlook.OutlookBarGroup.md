@@ -18,7 +18,7 @@ Represents a group of shortcuts in the  **Shortcuts** pane of an explorer window
 
 ## Remarks
 
-Use the  **[Item](outlookbargroups-item-method-outlook.md)** method to retrieve the **OutlookBarGroup** object from an **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object. Because the **[Name](outlookbargroup-name-property-outlook.md)** property is the default property of the **OutlookBarGroup** object, you can identify the group by name.
+Use the  **[Item](Outlook.OutlookBarGroups.Item.md)** method to retrieve the **OutlookBarGroup** object from an **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object. Because the **[Name](Outlook.OutlookBarGroup.Name.md)** property is the default property of the **OutlookBarGroup** object, you can identify the group by name.
 
 
 ## Example
@@ -37,12 +37,12 @@ Set myOlBarGroup = myOutlookBarGroups.Item("Other Shortcuts")
 
 |**Name**|
 |:-----|
-|[Application](outlookbargroup-application-property-outlook.md)|
-|[Class](outlookbargroup-class-property-outlook.md)|
-|[Name](outlookbargroup-name-property-outlook.md)|
-|[Parent](outlookbargroup-parent-property-outlook.md)|
-|[Session](outlookbargroup-session-property-outlook.md)|
-|[Shortcuts](outlookbargroup-shortcuts-property-outlook.md)|
+|[Application](Outlook.OutlookBarGroup.Application.md)|
+|[Class](Outlook.OutlookBarGroup.Class.md)|
+|[Name](Outlook.OutlookBarGroup.Name.md)|
+|[Parent](Outlook.OutlookBarGroup.Parent.md)|
+|[Session](Outlook.OutlookBarGroup.Session.md)|
+|[Shortcuts](Outlook.OutlookBarGroup.Shortcuts.md)|
 |[ViewType](outlookbargroup-viewtype-property-outlook.md)|
 
 ## See also

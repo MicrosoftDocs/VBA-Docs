@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.PropertyAccessor Property (Outlook)
 
-Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[ExchangeUser](exchangeuser-object-outlook.md)** object. Read-only.
+Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object tha
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

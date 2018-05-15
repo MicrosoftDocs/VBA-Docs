@@ -20,7 +20,7 @@ Adds a solution root folder and its subfolders to the  **Solutions** module.
 
  _expression_ . **AddSolution**( **_Solution_** , **_Scope_** )
 
- _expression_ A variable that represents a **[SolutionsModule](solutionsmodule-object-outlook.md)** object.
+ _expression_ A variable that represents a **[SolutionsModule](Outlook.SolutionsModule.md)** object.
 
 
 ### Parameters
@@ -29,8 +29,8 @@ Adds a solution root folder and its subfolders to the  **Solutions** module.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Solution_|Required| **[Folder](folder-object-outlook.md)**|Specifies the solution root folder to add to the  **Solutions** module.|
-| _Scope_|Required| **[OlSolutionScope](olsolutionscope-enumeration-outlook.md)**|Specifies whether to display the folders that are in the solution only in the  **Solutions** module and the **Folder List**, or to display them in their respective default modules in the Navigation Pane as well.|
+| _Solution_|Required| **[Folder](Outlook.Folder.md)**|Specifies the solution root folder to add to the  **Solutions** module.|
+| _Scope_|Required| **[OlSolutionScope](Outlook.OlSolutionScope.md)**|Specifies whether to display the folders that are in the solution only in the  **Solutions** module and the **Folder List**, or to display them in their respective default modules in the Navigation Pane as well.|
 
 ## Remarks
 
@@ -39,11 +39,11 @@ If the  **AddSolution** method succeeds and no solution root folder previously e
 You cannot add the following folders to the  **Solutions** module as a solution root folder:
 
 
-- A folder that Outlook displays on the Navigation Pane, as defined by the  **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)** enumeration.
+- A folder that Outlook displays on the Navigation Pane, as defined by the  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration.
     
-- A special folder, as defined by the  **[OlSpecialFolders](olspecialfolders-enumeration-outlook.md)** enumeration.
+- A special folder, as defined by the  **[OlSpecialFolders](Outlook.OlSpecialFolders.md)** enumeration.
     
-- Any folder on a Microsoft Exchange Server public folder store. The  **[ExchangeStoreType](store-exchangestoretype-property-outlook.md)** property on the **[Store](folder-store-property-outlook.md)** object for this folder is **olExchangePublicFolder** .
+- Any folder on a Microsoft Exchange Server public folder store. The  **[ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** property on the **[Store](Outlook.Folder.Store.md)** object for this folder is **olExchangePublicFolder** .
     
 - A hidden folder. A hidden folder is one whose MAPI property,  **PR_ATTR_HIDDEN** , is **True** or one that is not in the IPM Subtree.
     
@@ -64,5 +64,5 @@ By default, Outlook displays the  **Solutions** module after the **Tasks** modul
 #### Concepts
 
 
-[SolutionsModule Object](solutionsmodule-object-outlook.md)
+[SolutionsModule Object](Outlook.SolutionsModule.md)
 

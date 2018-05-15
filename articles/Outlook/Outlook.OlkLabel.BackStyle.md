@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkLabel.BackStyle Property (Outlook)
 
-Returns or sets an  **[olBackStyle](olbackstyle-enumeration-outlook.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
+Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olBackStyleOpaque** .
 #### Concepts
 
 
-[OlkLabel Object](olklabel-object-outlook.md)
+[OlkLabel Object](Outlook.OlkLabel.md)
 

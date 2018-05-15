@@ -29,5 +29,5 @@ Copies the current selection in the drop-down list to the clipboard.
 #### Concepts
 
 
-[OlkListBox Object](olklistbox-object-outlook.md)
+[OlkListBox Object](Outlook.OlkListBox.md)
 

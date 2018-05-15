@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFormatRule.Standard Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[AutoFormatRule](autoformatrule-object-outlook.md)** object represents a built-in Outlook formatting rule. Read-only.
+Returns a  **Boolean** value that indicates whether the **[AutoFormatRule](Outlook.AutoFormatRule.md)** object represents a built-in Outlook formatting rule. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates whether the **[AutoFormatRule](autof
 
 ## Remarks
 
-If the value of this property is set to  **True** , then the **[Filter](autoformatrule-filter-property-outlook.md)** and **[Name](autoformatrule-name-property-outlook.md)** properties of the **AutoFormatRule** object cannot be changed. Similarly, you cannot use the **[Remove](autoformatrules-remove-method-outlook.md)** method of the **[AutoFormatRules](autoformatrules-object-outlook.md)** collection to delete a built-in Outlook formatting rule, nor can you use the **[Insert](autoformatrules-insert-method-outlook.md)** method of the **AutoFormatRules** collection to insert a custom formatting rule above or between the built-in Outlook formatting rules contained by that collection.
+If the value of this property is set to  **True** , then the **[Filter](Outlook.AutoFormatRule.Filter.md)** and **[Name](Outlook.AutoFormatRule.Name.md)** properties of the **AutoFormatRule** object cannot be changed. Similarly, you cannot use the **[Remove](Outlook.AutoFormatRules.Remove.md)** method of the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection to delete a built-in Outlook formatting rule, nor can you use the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to insert a custom formatting rule above or between the built-in Outlook formatting rules contained by that collection.
 
 
 ## Example
@@ -90,5 +90,5 @@ End Sub
 #### Concepts
 
 
-[AutoFormatRule Object](autoformatrule-object-outlook.md)
+[AutoFormatRule Object](Outlook.AutoFormatRule.md)
 

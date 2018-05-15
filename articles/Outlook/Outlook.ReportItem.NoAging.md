@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

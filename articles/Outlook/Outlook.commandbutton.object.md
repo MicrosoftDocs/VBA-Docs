@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [CommandButton Object (Outlook Forms Script)](commandbutton-object-outlook-forms-script.md)
+-  [CommandButton Object (Outlook Forms Script)](Outlook.commandbutton.md)
     
 -  [CommandButton Members (Outlook Forms Script)](commandbutton-members-outlook-forms-script.md)
     

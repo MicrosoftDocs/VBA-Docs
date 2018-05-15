@@ -20,7 +20,7 @@ Returns or sets a  **Byte** array that represents the body of the Microsoft Outl
 
  _expression_ . **RTFBody**
 
- _expression_ A variable that represents an **[AppointmentItem](appointmentitem-object-outlook.md)** object.
+ _expression_ A variable that represents an **[AppointmentItem](Outlook.AppointmentItem.md)** object.
 
 
 ## Remarks
@@ -89,5 +89,5 @@ private void GetRTFBodyForAppt()
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

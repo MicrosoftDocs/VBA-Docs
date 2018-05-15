@@ -34,5 +34,5 @@ Returns a  **Boolean** value that indicates whether the task is completed. Read/
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

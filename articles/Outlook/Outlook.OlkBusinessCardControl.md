@@ -36,11 +36,11 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Click](olkbusinesscardcontrol-click-event-outlook.md)|
-|[DoubleClick](olkbusinesscardcontrol-doubleclick-event-outlook.md)|
-|[MouseDown](olkbusinesscardcontrol-mousedown-event-outlook.md)|
-|[MouseMove](olkbusinesscardcontrol-mousemove-event-outlook.md)|
-|[MouseUp](olkbusinesscardcontrol-mouseup-event-outlook.md)|
+|[Click](Outlook.OlkBusinessCardControl.Click.md)|
+|[DoubleClick](Outlook.OlkBusinessCardControl.DoubleClick.md)|
+|[MouseDown](Outlook.OlkBusinessCardControl.MouseDown.md)|
+|[MouseMove](Outlook.OlkBusinessCardControl.MouseMove.md)|
+|[MouseUp](Outlook.OlkBusinessCardControl.MouseUp.md)|
 
 ## Properties
 
@@ -48,8 +48,8 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[MouseIcon](olkbusinesscardcontrol-mouseicon-property-outlook.md)|
-|[MousePointer](olkbusinesscardcontrol-mousepointer-property-outlook.md)|
+|[MouseIcon](Outlook.OlkBusinessCardControl.MouseIcon.md)|
+|[MousePointer](Outlook.OlkBusinessCardControl.MousePointer.md)|
 
 ## See also
 

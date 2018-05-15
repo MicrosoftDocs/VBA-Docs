@@ -25,6 +25,6 @@ Specifies the folder display mode.
 
 ## Remarks
 
-Used as an optional parameter to the [Explorers.Add](explorers-add-method-outlook.md) method.
+Used as an optional parameter to the [Explorers.Add](Outlook.Explorers.Add.md) method.
 
 

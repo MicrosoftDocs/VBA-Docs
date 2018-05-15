@@ -20,7 +20,7 @@ Creates another instance of an object.
 
  _expression_ . **Copy**
 
- _expression_ A variable that represents a **[RemoteItem](remoteitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[RemoteItem](Outlook.RemoteItem.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Creates another instance of an object.
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

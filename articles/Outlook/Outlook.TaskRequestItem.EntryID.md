@@ -36,5 +36,5 @@ A MAPI store provider assigns a unique ID string when an item is created in its 
 #### Concepts
 
 
-[TaskRequestItem Object](taskrequestitem-object-outlook.md)
+[TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

@@ -29,5 +29,5 @@ Returns a  **String** representing the topic of the conversation thread of the O
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

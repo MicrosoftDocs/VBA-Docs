@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Forward Method (Outlook)
 
-Executes the  **Forward** action for an item and returns the resulting copy as a **[SharingItem](sharingitem-object-outlook.md)** object.
+Executes the  **Forward** action for an item and returns the resulting copy as a **[SharingItem](Outlook.SharingItem.md)** object.
 
 
 ## Syntax
@@ -39,5 +39,5 @@ An error occurs if this method is called on sharing invitations using an Exchang
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

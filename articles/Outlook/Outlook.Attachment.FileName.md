@@ -25,7 +25,7 @@ Returns a  **String** representing the file name of the attachment. Read-only.
 
 ## Remarks
 
-Use this property in conjunction with the  **[PathName](attachment-pathname-property-outlook.md)** property.
+Use this property in conjunction with the  **[PathName](Outlook.Attachment.PathName.md)** property.
 
 
 ## See also
@@ -34,5 +34,5 @@ Use this property in conjunction with the  **[PathName](attachment-pathname-prop
 #### Concepts
 
 
-[Attachment Object](attachment-object-outlook.md)
+[Attachment Object](Outlook.Attachment.md)
 

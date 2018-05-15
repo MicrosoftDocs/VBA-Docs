@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ScrollBar.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies the state of a **[ScrollBar](scrollbar-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Variant** that specifies the state of a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
 
 
 ## Syntax
@@ -20,6 +20,6 @@ Returns or sets a  **Variant** that specifies the state of a **[ScrollBar](scrol
 
 ## Remarks
 
-The  **Value** property is an integer between the values specified for the **[Max](scrollbar-max-property-outlook-forms-script.md)** and **[Min](scrollbar-min-property-outlook-forms-script.md)** properties.
+The  **Value** property is an integer between the values specified for the **[Max](Outlook.scrollbar.max.md)** and **[Min](Outlook.scrollbar.min.md)** properties.
 
 

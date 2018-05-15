@@ -42,5 +42,5 @@ The event occurs each time an item is deleted.
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

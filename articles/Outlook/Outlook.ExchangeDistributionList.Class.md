@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Class Property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** enumeration indicating the class of the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object. Read-only.
+Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.m
 #### Concepts
 
 
-[ExchangeDistributionList Object](exchangedistributionlist-object-outlook.md)
+[ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

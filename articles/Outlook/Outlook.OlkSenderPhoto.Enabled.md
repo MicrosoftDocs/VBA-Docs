@@ -34,5 +34,5 @@ The default value is  **True** .
 #### Concepts
 
 
-[OlkSenderPhoto Object](olksenderphoto-object-outlook.md)
+[OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 

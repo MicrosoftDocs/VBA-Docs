@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

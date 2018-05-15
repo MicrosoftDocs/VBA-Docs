@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarSharing.Folder Property (Outlook)
 
-Returns the  **[Folder](folder-object-outlook.md)** containing the calendar items to be shared by the **[CalendarSharing](calendarsharing-object-outlook.md)** object. Read-only.
+Returns the  **[Folder](Outlook.Folder.md)** containing the calendar items to be shared by the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The  **Folder** containing the calendar items to be shared.
 #### Concepts
 
 
-[CalendarSharing Object](calendarsharing-object-outlook.md)
+[CalendarSharing Object](Outlook.CalendarSharing.md)
 

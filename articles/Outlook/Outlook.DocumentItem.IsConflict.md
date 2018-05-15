@@ -36,5 +36,5 @@ If  **True** , the specified item is in conflict.
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

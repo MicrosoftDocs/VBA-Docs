@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if a copy of the mail mess
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

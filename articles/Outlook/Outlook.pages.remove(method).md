@@ -32,5 +32,5 @@ Removes a member from a collection.
 #### Concepts
 
 
- [Pages Object](pages-object-outlook-forms-script.md)
+ [Pages Object](Outlook.pages(object).md)
 

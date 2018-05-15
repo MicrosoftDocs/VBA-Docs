@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagLanguage** .
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

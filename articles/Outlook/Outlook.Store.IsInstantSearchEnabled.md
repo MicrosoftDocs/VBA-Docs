@@ -68,5 +68,5 @@ End Function
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewField.ColumnFormat Property (Outlook)
 
-Returns a  **[ColumnFormat](columnformat-object-outlook.md)** object that represents the formatting information for the **[ViewField](viewfield-object-outlook.md)** object. Read-only.
+Returns a  **[ColumnFormat](Outlook.ColumnFormat.md)** object that represents the formatting information for the **[ViewField](Outlook.ViewField.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ColumnFormat](columnformat-object-outlook.md)** object that repres
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](tableview-viewfields-property-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```vb
@@ -95,5 +95,5 @@ End Sub
 #### Concepts
 
 
-[ViewField Object](viewfield-object-outlook.md)
+[ViewField Object](Outlook.ViewField.md)
 

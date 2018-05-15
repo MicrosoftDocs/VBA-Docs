@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.GetCalendarExporter Method (Outlook)
 
-Creates a  **[CalendarSharing](calendarsharing-object-outlook.md)** object for the specified **[Folder](folder-object-outlook.md)** .
+Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the specified **[Folder](Outlook.Folder.md)** .
 
 
 ## Syntax
@@ -42,5 +42,5 @@ The  **GetCalendarExporter** method automatically sets the defaults for the **Ca
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

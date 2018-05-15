@@ -20,7 +20,7 @@ Returns or sets a  **Byte** array that represents the body of the Microsoft Outl
 
  _expression_ . **RTFBody**
 
- _expression_ A variable that represents a **[MailItem](mailitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## Remarks
@@ -89,5 +89,5 @@ private void GetRTFBodyForMail()
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

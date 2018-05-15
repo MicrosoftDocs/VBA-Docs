@@ -41,7 +41,7 @@ A String value that represents the availability of the user for the specified pe
 ## Remarks
 
 
- **Note**  If an address entry represents a distribution list, the status of its individual members cannot be returned to you with the  **GetFreeBusy** method. A meeting request should be sent only to single messaging users. You can determine if a messaging user is a distribution list by determining if its **[DisplayType](addressentry-displaytype-property-outlook.md)** property is **olDistList** or **olPrivateDistList** .
+ **Note**  If an address entry represents a distribution list, the status of its individual members cannot be returned to you with the  **GetFreeBusy** method. A meeting request should be sent only to single messaging users. You can determine if a messaging user is a distribution list by determining if its **[DisplayType](Outlook.AddressEntry.DisplayType.md)** property is **olDistList** or **olPrivateDistList** .
 
 The contents of the string returned by this method are determined by the  _CompleteFormat_ parameter.
 
@@ -68,5 +68,5 @@ If  _CompleteFormat_ is set to **True** , the string returned by this method con
 #### Concepts
 
 
-[AddressEntry Object](addressentry-object-outlook.md)
+[AddressEntry Object](Outlook.AddressEntry.md)
 

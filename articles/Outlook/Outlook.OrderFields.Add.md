@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OrderFields.Add Method (Outlook)
 
-Creates a new  **[OrderField](orderfield-object-outlook.md)** object and appends it to the **[OrderFields](orderfields-object-outlook.md)** collection.
+Creates a new  **[OrderField](Outlook.OrderField.md)** object and appends it to the **[OrderFields](Outlook.OrderFields.md)** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Creates a new  **[OrderField](orderfield-object-outlook.md)** object and appends
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _PropertyName_|Required| **String**|The name of the property to which the new object is associated.|
-| _IsDescending_|Optional| **Boolean**|The value used to set the  **[IsDescending](orderfield-isdescending-property-outlook.md)** property of the new **OrderField** object. If this value is not specified, the default value of the **IsDescending** property is used.|
+| _IsDescending_|Optional| **Boolean**|The value used to set the  **[IsDescending](Outlook.OrderField.IsDescending.md)** property of the new **OrderField** object. If this value is not specified, the default value of the **IsDescending** property is used.|
 
 ### Return Value
 
@@ -43,5 +43,5 @@ An  **OrderField** object that represents the new order field.
 #### Concepts
 
 
-[OrderFields Object](orderfields-object-outlook.md)
+[OrderFields Object](Outlook.OrderFields.md)
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Columns Object (Outlook)
 
-Represents the collection of  **[Column](column-object-outlook.md)** objects in a **[Table](table-object-outlook.md)** object.
+Represents the collection of  **[Column](Outlook.Column.md)** objects in a **[Table](Outlook.Table.md)** object.
 
 
 ## Remarks
 
-The  **Columns** object supports enumerating **Column** objects in the **[Columns](columns-object-outlook.md)** collection object. It supports the COM interface, **IEnumerable**.
+The  **Columns** object supports enumerating **Column** objects in the **[Columns](Outlook.Columns.md)** collection object. It supports the COM interface, **IEnumerable**.
 
 
 ## Example
@@ -101,10 +101,10 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Add](columns-add-method-outlook.md)|
-|[Item](columns-item-method-outlook.md)|
-|[Remove](columns-remove-method-outlook.md)|
-|[RemoveAll](columns-removeall-method-outlook.md)|
+|[Add](Outlook.Columns.Add.md)|
+|[Item](Outlook.Columns.Item.md)|
+|[Remove](Outlook.Columns.Remove.md)|
+|[RemoveAll](Outlook.Columns.RemoveAll.md)|
 
 ## Properties
 
@@ -112,11 +112,11 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](columns-application-property-outlook.md)|
-|[Class](columns-class-property-outlook.md)|
-|[Count](columns-count-property-outlook.md)|
-|[Parent](columns-parent-property-outlook.md)|
-|[Session](columns-session-property-outlook.md)|
+|[Application](Outlook.Columns.Application.md)|
+|[Class](Outlook.Columns.Class.md)|
+|[Count](Outlook.Columns.Count.md)|
+|[Parent](Outlook.Columns.Parent.md)|
+|[Session](Outlook.Columns.Session.md)|
 
 ## See also
 

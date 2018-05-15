@@ -25,6 +25,6 @@ Indicates the level of detail for calendar items that will be exported to an iCa
 
 ## Remarks
 
-This enumeration is used by the [CalendarDetail ](calendarsharing-calendardetail-property-outlook.md) property of the[CalendarSharing Object (Outlook)](calendarsharing-object-outlook.md) to determine the level of detail for calendar items stored in the iCalendar file created by the[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md) and[SaveAsICal](calendarsharing-saveasical-method-outlook.md) methods.
+This enumeration is used by the [CalendarDetail ](Outlook.CalendarSharing.CalendarDetail.md) property of the[CalendarSharing Object (Outlook)](calendarsharing-object-outlook.md) to determine the level of detail for calendar items stored in the iCalendar file created by the[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md) and[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md) methods.
 
 

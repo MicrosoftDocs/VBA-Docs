@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.MarkForDownload Property (Outlook)
 
-Returns or sets an  **[OlRemoteStatus](olremotestatus-enumeration-outlook.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
+Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant that determines the status of an item once it is received by a remote user. Read/write.
 
 
 ## Syntax
@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

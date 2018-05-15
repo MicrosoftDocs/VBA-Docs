@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.DisplayName Property (Outlook)
 
-Returns a  **String** representing the display name of the **[Store](store-object-outlook.md)** object. Read-only.
+Returns a  **String** representing the display name of the **[Store](Outlook.Store.md)** object. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **String** representing the display name of the **[Store](store-objec
 
  **DisplayName** is the default property of the **Store** object. This property corresponds to the MAPI property, **PidTagDisplayName** .
 
- **DisplayName** is read-only. To change the **DisplayName** of a Personal Folders File (.pst), use the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object and the **[PropertyAccessor.SetProperty](propertyaccessor-setproperty-method-outlook.md)** method.
+ **DisplayName** is read-only. To change the **DisplayName** of a Personal Folders File (.pst), use the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object and the **[PropertyAccessor.SetProperty](Outlook.PropertyAccessor.SetProperty.md)** method.
 
 
 ## See also
@@ -36,5 +36,5 @@ Returns a  **String** representing the display name of the **[Store](store-objec
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

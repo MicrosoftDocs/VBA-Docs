@@ -25,7 +25,7 @@ Expands the drop-down portion of the time zone control.
 
 ## Remarks
 
-Simulates the user clicking the drop button on the control. This method causes the  **[DropButtonClick](olktimezonecontrol-dropbuttonclick-event-outlook.md)** event to fire.
+Simulates the user clicking the drop button on the control. This method causes the  **[DropButtonClick](Outlook.OlkTimeZoneControl.DropButtonClick.md)** event to fire.
 
 
 ## See also
@@ -34,5 +34,5 @@ Simulates the user clicking the drop button on the control. This method causes t
 #### Concepts
 
 
-[OlkTimeZoneControl Object](olktimezonecontrol-object-outlook.md)
+[OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

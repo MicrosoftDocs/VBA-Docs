@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Write Event (Outlook)
 
-Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](contactitem-save-method-outlook.md)** or **[SaveAs](contactitem-saveas-method-outlook.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
+Occurs when an instance of the parent object is saved, either explicitly (for example, using the  **[Save](Outlook.ContactItem.Save.md)** or **[SaveAs](Outlook.ContactItem.SaveAs.md)** methods) or implicitly (for example, in response to a prompt when closing the item's inspector).
 
 
 ## Syntax
@@ -39,5 +39,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

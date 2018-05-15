@@ -29,5 +29,5 @@ Returns or sets a  **String** indicating the URL of the Web page for the contact
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

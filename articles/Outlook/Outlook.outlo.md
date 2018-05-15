@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 -  [Object model (Outlook View Control reference)](object-model-outlook-view-control-reference.md)
     
--  [ViewCtl Object (Outlook View Control)](viewctl-object-outlook-view-control.md)
+-  [ViewCtl Object (Outlook View Control)](Outlook.viewc.md)
     
--  [OlxDefaultFolders Enumeration (Outlook View Control)](olxdefaultfolders-enumeration-outlook-view-control.md)
+-  [OlxDefaultFolders Enumeration (Outlook View Control)](Outlook.olxdefaultfolde.md)
     
 

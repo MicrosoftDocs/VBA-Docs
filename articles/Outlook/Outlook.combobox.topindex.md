@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ComboBox.TopIndex Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that represents the index of the item displayed in the topmost position in the list portion of the **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Long** that represents the index of the item displayed in the topmost position in the list portion of the **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax

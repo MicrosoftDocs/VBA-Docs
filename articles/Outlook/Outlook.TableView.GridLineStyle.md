@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.GridLineStyle Property (Outlook)
 
-Returns or sets an  **[OlGridLineStyle](olgridlinestyle-enumeration-outlook.md)** constant that represents the line style used for grid lines in the **[TableView](tableview-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlGridLineStyle](Outlook.OlGridLineStyle.md)** constant that represents the line style used for grid lines in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax
@@ -81,5 +81,5 @@ End Sub
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

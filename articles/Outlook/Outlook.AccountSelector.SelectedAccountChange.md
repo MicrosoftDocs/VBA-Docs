@@ -20,7 +20,7 @@ Occurs when the user selects a different account in the drop-down list under  **
 
  _expression_ . **SelectedAccountChange**( **_SelectedAccount_** )
 
- _expression_ A variable that represents an **[AccountSelector](accountselector-object-outlook.md)** object.
+ _expression_ A variable that represents an **[AccountSelector](Outlook.AccountSelector.md)** object.
 
 
 ### Parameters
@@ -37,5 +37,5 @@ Occurs when the user selects a different account in the drop-down list under  **
 #### Concepts
 
 
-[AccountSelector Object](accountselector-object-outlook.md)
+[AccountSelector Object](Outlook.AccountSelector.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkPageControl.Page Property (Outlook)
 
-Returns or sets an  **[OlPageType](olpagetype-enumeration-outlook.md)** constant that specifies the type of page that will be displayed in this control. Read/write.
+Returns or sets an  **[OlPageType](Outlook.OlPageType.md)** constant that specifies the type of page that will be displayed in this control. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olPageTypePlanner** .
 #### Concepts
 
 
-[OlkPageControl Object](olkpagecontrol-object-outlook.md)
+[OlkPageControl Object](Outlook.OlkPageControl.md)
 

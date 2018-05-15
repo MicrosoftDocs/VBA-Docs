@@ -25,7 +25,7 @@ Returns a  **Boolean** value that is **True** if the appointment is a recurring 
 
 ## Remarks
 
-When the  **[GetRecurrencePattern](appointmentitem-getrecurrencepattern-method-outlook.md)** method is used with an **[AppointmentItem](appointmentitem-object-outlook.md)** object, this property is set to **True** .
+When the  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** method is used with an **[AppointmentItem](Outlook.AppointmentItem.md)** object, this property is set to **True** .
 
 
 ## See also
@@ -34,5 +34,5 @@ When the  **[GetRecurrencePattern](appointmentitem-getrecurrencepattern-method-o
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

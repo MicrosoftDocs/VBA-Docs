@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SimpleItems.Parent Property (Outlook)
 
-Returns the parent  **Object** of the **[SimpleItems](simpleitems-object-outlook.md)** object. Read-only.
+Returns the parent  **Object** of the **[SimpleItems](Outlook.SimpleItems.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the parent  **Object** of the **[SimpleItems](simpleitems-object-outlook
 
 ## Remarks
 
-The parent object of a  **SimpleItems** object is a **[Conversation](conversation-object-outlook.md)** object.
+The parent object of a  **SimpleItems** object is a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent object of a  **SimpleItems** object is a **[Conversation](conversatio
 #### Concepts
 
 
-[SimpleItems Object](simpleitems-object-outlook.md)
+[SimpleItems Object](Outlook.SimpleItems.md)
 

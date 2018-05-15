@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkListBox.MatchEntry Property (Outlook)
 
-Returns or sets an  **[olMatchEntry](olmatchentry-enumeration-outlook.md)** constant that indicates how the control searches its list as the user types. Read/write.
+Returns or sets an  **[olMatchEntry](Outlook.OlMatchEntry.md)** constant that indicates how the control searches its list as the user types. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olMatchEntryComplete** .
 #### Concepts
 
 
-[OlkListBox Object](olklistbox-object-outlook.md)
+[OlkListBox Object](Outlook.OlkListBox.md)
 

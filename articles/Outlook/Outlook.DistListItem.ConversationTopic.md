@@ -29,5 +29,5 @@ Returns a  **String** representing the topic of the conversation thread of the O
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

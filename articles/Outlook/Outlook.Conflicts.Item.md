@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflicts.Item Method (Outlook)
 
-Returns an  **[Conflict](conflict-object-outlook.md)** object from the collection.
+Returns an  **[Conflict](Outlook.Conflict.md)** object from the collection.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ A  **Conflict** object that represents the specified object.
 #### Concepts
 
 
-[Conflicts Object](conflicts-object-outlook.md)
+[Conflicts Object](Outlook.Conflicts.md)
 

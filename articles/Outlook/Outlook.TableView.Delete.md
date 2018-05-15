@@ -29,5 +29,5 @@ Deletes an object from a collection.
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

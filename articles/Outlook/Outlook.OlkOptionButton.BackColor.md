@@ -34,5 +34,5 @@ This property is of the type  **OLE_COLOR** which is a **Long** value. The defau
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

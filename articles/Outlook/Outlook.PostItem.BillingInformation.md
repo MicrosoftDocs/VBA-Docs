@@ -34,5 +34,5 @@ This is a free-form text field.
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

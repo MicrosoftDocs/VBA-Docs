@@ -39,5 +39,5 @@ The property name is passed to the procedure so that you can determine which cus
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

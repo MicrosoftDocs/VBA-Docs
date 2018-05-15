@@ -34,5 +34,5 @@ Reurns or sets a  **Long** that indicates the location of the currently selected
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

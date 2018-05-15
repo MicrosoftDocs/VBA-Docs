@@ -38,5 +38,5 @@ When the accelerator key for a label is pressed, the next control in the tab ord
 #### Concepts
 
 
-[OlkLabel Object](olklabel-object-outlook.md)
+[OlkLabel Object](Outlook.OlkLabel.md)
 

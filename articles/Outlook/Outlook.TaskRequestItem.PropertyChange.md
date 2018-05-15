@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskRequestItem.PropertyChange Event (Outlook)
 
-Occurs when an explicit built-in property (for example,  **[Subject](appointmentitem-subject-property-outlook.md)** ) of an instance of the parent object is changed.
+Occurs when an explicit built-in property (for example,  **[Subject](Outlook.AppointmentItem.Subject.md)** ) of an instance of the parent object is changed.
 
 
 ## Syntax
@@ -39,5 +39,5 @@ The property name is passed to the event so that you can determine which propert
 #### Concepts
 
 
-[TaskRequestItem Object](taskrequestitem-object-outlook.md)
+[TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

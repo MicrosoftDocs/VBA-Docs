@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagConversationIndex** .
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

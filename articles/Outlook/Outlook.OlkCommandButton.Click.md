@@ -29,5 +29,5 @@ Occurs when the user clicks inside the control.
 #### Concepts
 
 
-[OlkCommandButton Object](olkcommandbutton-object-outlook.md)
+[OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

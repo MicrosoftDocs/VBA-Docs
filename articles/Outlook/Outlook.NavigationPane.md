@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # NavigationPane Object (Outlook)
 
-Represents the Navigation Pane displayed by the active  **[Explorer](explorer-object-outlook.md)** object.
+Represents the Navigation Pane displayed by the active  **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks
 
-Use the  **[NavigationPane](explorer-navigationpane-property-outlook.md)** property of the **Explorer** object to retrieve a **NavigationPane** object, if one exists for the explorer.
+Use the  **[NavigationPane](Outlook.Explorer.NavigationPane.md)** property of the **Explorer** object to retrieve a **NavigationPane** object, if one exists for the explorer.
 
 
  **Note**  Some  **Explorer** objects may not have a Navigation Pane.
 
-Use the  **[IsCollapsed](navigationpane-iscollapsed-property-outlook.md)** property to return or set the display mode of the Navigation Pane.
+Use the  **[IsCollapsed](Outlook.NavigationPane.IsCollapsed.md)** property to return or set the display mode of the Navigation Pane.
 
-Use the  **[Modules](navigationpane-modules-property-outlook.md)** property to return a **[NavigationModules](navigationmodules-object-outlook.md)** object that represents the collection of navigation modules contained by the Navigation Pane. Use the **[DisplayedModuleCount](navigationpane-displayedmodulecount-property-outlook.md)** to return the count of **[NavigationModule](navigationmodule-object-outlook.md)** objects currently displayed in the Navigation Pane and the **[CurrentModule](navigationpane-currentmodule-property-outlook.md)** property to return or set the currently selected **NavigationModule** object.
+Use the  **[Modules](Outlook.NavigationPane.Modules.md)** property to return a **[NavigationModules](Outlook.NavigationModules.md)** object that represents the collection of navigation modules contained by the Navigation Pane. Use the **[DisplayedModuleCount](Outlook.NavigationPane.DisplayedModuleCount.md)** to return the count of **[NavigationModule](Outlook.NavigationModule.md)** objects currently displayed in the Navigation Pane and the **[CurrentModule](Outlook.NavigationPane.CurrentModule.md)** property to return or set the currently selected **NavigationModule** object.
 
-Use the  **[ModuleSwitch](navigationpane-moduleswitch-event-outlook.md)** event to detect when the selected **NavigationModule** object changes in the Navigation Pane.
+Use the  **[ModuleSwitch](Outlook.NavigationPane.ModuleSwitch.md)** event to detect when the selected **NavigationModule** object changes in the Navigation Pane.
 
 
 ## Events
@@ -36,7 +36,7 @@ Use the  **[ModuleSwitch](navigationpane-moduleswitch-event-outlook.md)** event 
 
 |**Name**|
 |:-----|
-|[ModuleSwitch](navigationpane-moduleswitch-event-outlook.md)|
+|[ModuleSwitch](Outlook.NavigationPane.ModuleSwitch.md)|
 
 ## Properties
 
@@ -44,12 +44,12 @@ Use the  **[ModuleSwitch](navigationpane-moduleswitch-event-outlook.md)** event 
 
 |**Name**|
 |:-----|
-|[Application](navigationpane-application-property-outlook.md)|
-|[Class](navigationpane-class-property-outlook.md)|
-|[CurrentModule](navigationpane-currentmodule-property-outlook.md)|
-|[DisplayedModuleCount](navigationpane-displayedmodulecount-property-outlook.md)|
-|[IsCollapsed](navigationpane-iscollapsed-property-outlook.md)|
-|[Modules](navigationpane-modules-property-outlook.md)|
+|[Application](Outlook.NavigationPane.Application.md)|
+|[Class](Outlook.NavigationPane.Class.md)|
+|[CurrentModule](Outlook.NavigationPane.CurrentModule.md)|
+|[DisplayedModuleCount](Outlook.NavigationPane.DisplayedModuleCount.md)|
+|[IsCollapsed](Outlook.NavigationPane.IsCollapsed.md)|
+|[Modules](Outlook.NavigationPane.Modules.md)|
 |[Parent](navigationpane-parent-property-outlook.md)|
 |[Session](navigationpane-session-property-outlook.md)|
 

@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagCreationTime** .
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

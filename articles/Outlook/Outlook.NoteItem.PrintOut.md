@@ -29,5 +29,5 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleCondition.ConditionType Property (Outlook)
 
-Returns a constant in the  **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of condition for the **[RuleCondition](rulecondition-object-outlook.md)** object. Read-only.
+Returns a constant in the  **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of condition for the **[RuleCondition](Outlook.RuleCondition.md)** object. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ For more information on the rule conditions supported for programmatic rule crea
 #### Concepts
 
 
-[RuleCondition Object](rulecondition-object-outlook.md)
+[RuleCondition Object](Outlook.RuleCondition.md)
 

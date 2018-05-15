@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.FolderAdd Event (Outlook)
 
-Occurs when a folder is added to the specified  **[Folders](folders-object-outlook.md)** collection.
+Occurs when a folder is added to the specified  **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Occurs when a folder is added to the specified  **[Folders](folders-object-outlo
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Folder_|Required| **[Folder](folder-object-outlook.md)**|The  **Folder** that is added.|
+| _Folder_|Required| **[Folder](Outlook.Folder.md)**|The  **Folder** that is added.|
 
 ## Remarks
 
@@ -68,5 +68,5 @@ End Sub
 #### Concepts
 
 
-[Folders Object](folders-object-outlook.md)
+[Folders Object](Outlook.Folders.md)
 

@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates **True** if the recipient has been validat
 
  _expression_ . **Resolved**
 
- _expression_ A variable that represents a **[Recipient](recipient-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Recipient](Outlook.Recipient.md)** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ If similar names exist for a recipient in an Address Book, you can resolve the r
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Resolve](recipient-resolve-method-outlook.md)** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the  **[Resolve](Outlook.Recipient.Resolve.md)** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
 
 
 ```vb
@@ -82,5 +82,5 @@ End Sub
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](Outlook.Recipient.md)
 

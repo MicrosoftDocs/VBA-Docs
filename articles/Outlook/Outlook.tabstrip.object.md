@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [TabStrip Object (Outlook Forms Script)](tabstrip-object-outlook-forms-script.md)
+-  [TabStrip Object (Outlook Forms Script)](Outlook.tabstrip.md)
     
 -  [TabStrip Members (Outlook Forms Script)](tabstrip-members-outlook-forms-script.md)
     

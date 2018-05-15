@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconView.SortFields Property (Outlook)
 
-Returns an  **[OrderFields](orderfields-object-outlook.md)** object that represents the set of fields by which the items displayed in the **[IconView](iconview-object-outlook.md)** object are ordered. Read-only.
+Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[IconView](Outlook.IconView.md)** object are ordered. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OrderFields](orderfields-object-outlook.md)** object that represe
 #### Concepts
 
 
-[IconView Object](iconview-object-outlook.md)
+[IconView Object](Outlook.IconView.md)
 

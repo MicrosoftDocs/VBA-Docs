@@ -29,5 +29,5 @@ Returns a  **Long** indicating the number of unread items in the folder. Read-on
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

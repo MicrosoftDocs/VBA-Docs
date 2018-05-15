@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TasksModule.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olTasksModule** for the **[TasksModule](tasksmodule-object-outlook.md)** object.
+This property returns  **olTasksModule** for the **[TasksModule](Outlook.TasksModule.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olTasksModule** for the **[TasksModule](tasksmodule-obj
 #### Concepts
 
 
-[TasksModule Object](tasksmodule-object-outlook.md)
+[TasksModule Object](Outlook.TasksModule.md)
 

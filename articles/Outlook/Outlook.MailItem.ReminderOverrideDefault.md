@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder overrides 
 
 ## Remarks
 
-You must set the  **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](mailitem-reminderplaysound-property-outlook.md)** and the **[ReminderSoundFile](mailitem-remindersoundfile-property-outlook.md)** properties.
+You must set the  **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](Outlook.MailItem.ReminderPlaySound.md)** and the **[ReminderSoundFile](Outlook.MailItem.ReminderSoundFile.md)** properties.
 
 
 ## See also
@@ -34,5 +34,5 @@ You must set the  **ReminderOverrideDefault** property to validate the **[Remind
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

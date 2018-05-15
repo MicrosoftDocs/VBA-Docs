@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.TaskSubject Property (Outlook)
 
-Returns or sets a  **String** value that represents the subject of the task for the **[PostItem](postitem-object-outlook.md)** object. Read/write.
+Returns or sets a  **String** value that represents the subject of the task for the **[PostItem](Outlook.PostItem.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the subject of the task for 
 
 ## Remarks
 
-This property returns the value of the  **[Subject](postitem-subject-property-outlook.md)** property if the **[IsMarkedAsTask](postitem-ismarkedastask-property-outlook.md)** property is set to **False** .
+This property returns the value of the  **[Subject](Outlook.PostItem.Subject.md)** property if the **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property is set to **False** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns the value of the  **[Subject](postitem-subject-property-ou
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

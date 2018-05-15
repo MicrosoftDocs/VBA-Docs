@@ -42,5 +42,5 @@ An  **Object** value that represents the specified object.
 #### Concepts
 
 
-[Items Object](items-object-outlook.md)
+[Items Object](Outlook.Items.md)
 

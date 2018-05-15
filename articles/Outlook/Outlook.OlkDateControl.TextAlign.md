@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkDateControl.TextAlign Property (Outlook)
 
-Returns or sets an  **[OlTextAlign](oltextalign-enumeration-outlook.md)** constant that specifies how text is aligned in the control. Read/write.
+Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that specifies how text is aligned in the control. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olTextAlignLeft** in left-to-right languages such as Eng
 #### Concepts
 
 
-[OlkDateControl Object](olkdatecontrol-object-outlook.md)
+[OlkDateControl Object](Outlook.OlkDateControl.md)
 

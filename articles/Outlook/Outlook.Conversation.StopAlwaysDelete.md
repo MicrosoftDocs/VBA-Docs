@@ -20,7 +20,7 @@ Stops the action of always moving conversation items in the specified store to t
 
  _expression_ . **StopAlwaysDelete**( **_Store_** )
 
- _expression_ A variable that represents a **[Conversation](conversation-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ### Parameters
@@ -29,15 +29,15 @@ Stops the action of always moving conversation items in the specified store to t
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Store_|Required| **[Store](store-object-outlook.md)**|Specifies the store to which the stop-always-delete action applies.|
+| _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store to which the stop-always-delete action applies.|
 
 ## Remarks
 
 If the always-delete action has not been turned on,  **StopAlwaysDelete** does not carry out any action.
 
-If the always-delete action has been turned on (by calling the [SetAlwaysDelete](conversation-setalwaysdelete-method-outlook.md) method, **StopAlwaysDelete** moves existing conversation items in the Deleted Items folder to the Inbox.
+If the always-delete action has been turned on (by calling the [SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md) method, **StopAlwaysDelete** moves existing conversation items in the Deleted Items folder to the Inbox.
 
-After calling the  **StopAlwaysDelete** method for a conversation in a store, calling the **[GetAlwaysDelete](conversation-getalwaysdelete-method-outlook.md)** method on that conversation and store returns the constant **olDoNotDelete** .
+After calling the  **StopAlwaysDelete** method for a conversation in a store, calling the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method on that conversation and store returns the constant **olDoNotDelete** .
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the stop-always-delete action is applied to conversation items in the default delivery store.
 
@@ -74,5 +74,5 @@ End Sub
 #### Concepts
 
 
-[Conversation Object](conversation-object-outlook.md)
+[Conversation Object](Outlook.Conversation.md)
 

@@ -34,5 +34,5 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

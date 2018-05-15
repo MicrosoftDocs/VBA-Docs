@@ -23,6 +23,6 @@ Specifies the kinds of objects selected in the active explorer.
 
 ## Remark
 
-Used by the [GetSelection](selection-getselection-method-outlook.md) method of the[Selection](selection-object-outlook.md) object.
+Used by the [GetSelection](Outlook.Selection.GetSelection.md) method of the[Selection](Outlook.Selection.md) object.
 
 

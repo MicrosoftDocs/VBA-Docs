@@ -37,5 +37,5 @@ Occurs just after the focus passes from this control to another control on the s
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

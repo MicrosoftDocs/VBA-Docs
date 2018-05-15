@@ -29,5 +29,5 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 #### Concepts
 
 
-[TaskRequestUpdateItem Object](taskrequestupdateitem-object-outlook.md)
+[TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

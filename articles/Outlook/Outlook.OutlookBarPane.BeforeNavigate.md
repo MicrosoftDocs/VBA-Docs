@@ -20,7 +20,7 @@ Occurs when the user clicks a shortcut in the  **Shortcuts** pane to navigate to
 
  _expression_ . **BeforeNavigate**( **_Shortcut_** , **_Cancel_** )
 
- _expression_ A variable that represents an **[OutlookBarPane](outlookbarpane-object-outlook.md)** object.
+ _expression_ A variable that represents an **[OutlookBarPane](Outlook.OutlookBarPane.md)** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Occurs when the user clicks a shortcut in the  **Shortcuts** pane to navigate to
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Shortcut_|Required| **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)**|The shortcut that the user clicked.|
+| _Shortcut_|Required| **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)**|The shortcut that the user clicked.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the current folder is not changed.|
 
 ## Remarks
@@ -75,5 +75,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarPane Object](outlookbarpane-object-outlook.md)
+[OutlookBarPane Object](Outlook.OutlookBarPane.md)
 

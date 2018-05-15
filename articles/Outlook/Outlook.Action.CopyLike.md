@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.CopyLike Property (Outlook)
 
-Returns or sets an  **[OlActionCopyLike](olactioncopylike-enumeration-outlook.md)** constant indicating the property inheritance style to use for the action. Read/write.
+Returns or sets an  **[OlActionCopyLike](Outlook.OlActionCopyLike.md)** constant indicating the property inheritance style to use for the action. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The inheritance style is used when the action is executed to control how propert
 #### Concepts
 
 
-[Action Object](action-object-outlook.md)
+[Action Object](Outlook.Action.md)
 

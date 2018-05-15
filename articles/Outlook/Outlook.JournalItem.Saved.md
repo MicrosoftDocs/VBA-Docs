@@ -29,5 +29,5 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

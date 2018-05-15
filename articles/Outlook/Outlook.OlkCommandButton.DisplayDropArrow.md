@@ -34,5 +34,5 @@ This arrow is rendered on the right on the button in langauges written left-to-r
 #### Concepts
 
 
-[OlkCommandButton Object](olkcommandbutton-object-outlook.md)
+[OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.Recipients Property (Outlook)
 
-Returns a  **[Recipients](recipients-object-outlook.md)** collection that represents all the recipients for the Outlook item. Read-only.
+Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the Outlook item. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ A recipient can be specified by a string representing the recipient's display na
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

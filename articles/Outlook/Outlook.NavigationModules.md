@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # NavigationModules Object (Outlook)
 
-Contains a read-only set of  **[NavigationModule](navigationmodule-object-outlook.md)** objects that represent the navigation modules displayed by the Navigation Pane.
+Contains a read-only set of  **[NavigationModule](Outlook.NavigationModule.md)** objects that represent the navigation modules displayed by the Navigation Pane.
 
 
 ## Remarks
 
-Use the  **[Modules](navigationpane-modules-property-outlook.md)** property of the **[NavigationPane](navigationpane-object-outlook.md)** object to return a **NavigationModules** object.
+Use the  **[Modules](Outlook.NavigationPane.Modules.md)** property of the **[NavigationPane](Outlook.NavigationPane.md)** object to return a **NavigationModules** object.
 
-Use the  **[Item](navigationmodules-item-method-outlook.md)** method to retrieve a **NavigationModule** object by either the name or ordinal position of the navigation module within the collection, or use the **[GetNavigationModule](navigationmodules-getnavigationmodule-method-outlook.md)** method to return a **NavigationModule** object by the navigation module type.
+Use the  **[Item](Outlook.NavigationModules.Item.md)** method to retrieve a **NavigationModule** object by either the name or ordinal position of the navigation module within the collection, or use the **[GetNavigationModule](Outlook.NavigationModules.GetNavigationModule.md)** method to return a **NavigationModule** object by the navigation module type.
 
-Use the  **[Count](navigationmodules-count-property-outlook.md)** property to return the number of navigation modules contained in the Navigation Pane.
+Use the  **[Count](Outlook.NavigationModules.Count.md)** property to return the number of navigation modules contained in the Navigation Pane.
 
 
 ## Methods
@@ -31,8 +31,8 @@ Use the  **[Count](navigationmodules-count-property-outlook.md)** property to re
 
 |**Name**|
 |:-----|
-|[GetNavigationModule](navigationmodules-getnavigationmodule-method-outlook.md)|
-|[Item](navigationmodules-item-method-outlook.md)|
+|[GetNavigationModule](Outlook.NavigationModules.GetNavigationModule.md)|
+|[Item](Outlook.NavigationModules.Item.md)|
 
 ## Properties
 
@@ -40,9 +40,9 @@ Use the  **[Count](navigationmodules-count-property-outlook.md)** property to re
 
 |**Name**|
 |:-----|
-|[Application](navigationmodules-application-property-outlook.md)|
-|[Class](navigationmodules-class-property-outlook.md)|
-|[Count](navigationmodules-count-property-outlook.md)|
+|[Application](Outlook.NavigationModules.Application.md)|
+|[Class](Outlook.NavigationModules.Class.md)|
+|[Count](Outlook.NavigationModules.Count.md)|
 |[Parent](navigationmodules-parent-property-outlook.md)|
 |[Session](navigationmodules-session-property-outlook.md)|
 

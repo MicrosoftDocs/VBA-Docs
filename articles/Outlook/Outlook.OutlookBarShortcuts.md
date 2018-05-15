@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # OutlookBarShortcuts Object (Outlook)
 
-Contains a set of  **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)** objects representing all shortcuts in a group in the **Shortcuts** pane.
+Contains a set of  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** objects representing all shortcuts in a group in the **Shortcuts** pane.
 
 
 ## Remarks
 
-Use the  **[Shortcuts](outlookbargroup-shortcuts-property-outlook.md)** property to return the **OutlookBarShortcuts** collection object from the **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object.
+Use the  **[Shortcuts](Outlook.OutlookBarGroup.Shortcuts.md)** property to return the **OutlookBarShortcuts** collection object from the **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object.
 
 
 ## Example
@@ -37,9 +37,9 @@ Set myShortcuts = myOutlookBarGroup.Shortcuts
 
 |**Name**|
 |:-----|
-|[BeforeShortcutAdd](outlookbarshortcuts-beforeshortcutadd-event-outlook.md)|
-|[BeforeShortcutRemove](outlookbarshortcuts-beforeshortcutremove-event-outlook.md)|
-|[ShortcutAdd](outlookbarshortcuts-shortcutadd-event-outlook.md)|
+|[BeforeShortcutAdd](Outlook.OutlookBarShortcuts.BeforeShortcutAdd.md)|
+|[BeforeShortcutRemove](Outlook.OutlookBarShortcuts.BeforeShortcutRemove.md)|
+|[ShortcutAdd](Outlook.OutlookBarShortcuts.ShortcutAdd.md)|
 
 ## Methods
 
@@ -47,9 +47,9 @@ Set myShortcuts = myOutlookBarGroup.Shortcuts
 
 |**Name**|
 |:-----|
-|[Add](outlookbarshortcuts-add-method-outlook.md)|
-|[Item](outlookbarshortcuts-item-method-outlook.md)|
-|[Remove](outlookbarshortcuts-remove-method-outlook.md)|
+|[Add](Outlook.OutlookBarShortcuts.Add.md)|
+|[Item](Outlook.OutlookBarShortcuts.Item.md)|
+|[Remove](Outlook.OutlookBarShortcuts.Remove.md)|
 
 ## Properties
 
@@ -57,11 +57,11 @@ Set myShortcuts = myOutlookBarGroup.Shortcuts
 
 |**Name**|
 |:-----|
-|[Application](outlookbarshortcuts-application-property-outlook.md)|
-|[Class](outlookbarshortcuts-class-property-outlook.md)|
-|[Count](outlookbarshortcuts-count-property-outlook.md)|
-|[Parent](outlookbarshortcuts-parent-property-outlook.md)|
-|[Session](outlookbarshortcuts-session-property-outlook.md)|
+|[Application](Outlook.OutlookBarShortcuts.Application.md)|
+|[Class](Outlook.OutlookBarShortcuts.Class.md)|
+|[Count](Outlook.OutlookBarShortcuts.Count.md)|
+|[Parent](Outlook.OutlookBarShortcuts.Parent.md)|
+|[Session](Outlook.OutlookBarShortcuts.Session.md)|
 
 ## See also
 

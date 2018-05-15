@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the account for the contact. Read/wri
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

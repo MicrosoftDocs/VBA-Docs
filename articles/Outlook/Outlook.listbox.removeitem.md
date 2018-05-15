@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ListBox.RemoveItem Method (Outlook Forms Script)
 
-Removes a row from the list in a  **[ListBox](listbox-object-outlook-forms-script.md)**.
+Removes a row from the list in a  **[ListBox](Outlook.listbox.md)**.
 
 
 ## Syntax

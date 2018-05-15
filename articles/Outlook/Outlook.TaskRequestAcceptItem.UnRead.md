@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

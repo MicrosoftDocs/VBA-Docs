@@ -29,5 +29,5 @@ Returns or sets a  **Long** specifying the position (in pixels) of the left vert
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

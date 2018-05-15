@@ -29,5 +29,5 @@ Returns an  **[IAssistance](http://msdn.microsoft.com/library/c8327d45-a6a2-dc4c
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

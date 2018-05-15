@@ -20,7 +20,7 @@ Sets the start time for a meeting item in the free/busy grid on the  **Schedulin
 
  _expression_ . **SetSchedulingStartTime**( **_Start_** )
 
- _expression_ A variable that represents an **[Inspector](inspector-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Inspector](Outlook.Inspector.md)** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets the start time for a meeting item in the free/busy grid on the  **Schedulin
 
 ## Remarks
 
-The object specified by the  **[CurrentItem](inspector-currentitem-property-outlook.md)** property of the parent **[Inspector](inspector-object-outlook.md)** object must be an **[AppointmentItem](appointmentitem-object-outlook.md)** or **[MeetingItem](meetingitem-object-outlook.md)** . The **Scheduling Assistant** tab must be displayed in the inspector, otherwise Microsoft Outlook raises an error. If Outlook cannot display the **Scheduling Assistant** tab for that item type, Outlook displays the following error: **The scheduling start time can only be set when the Scheduling Assistant is displayed on a meeting item.**
+The object specified by the  **[CurrentItem](Outlook.Inspector.CurrentItem.md)** property of the parent **[Inspector](Outlook.Inspector.md)** object must be an **[AppointmentItem](Outlook.AppointmentItem.md)** or **[MeetingItem](meetingitem-object-outlook.md)** . The **Scheduling Assistant** tab must be displayed in the inspector, otherwise Microsoft Outlook raises an error. If Outlook cannot display the **Scheduling Assistant** tab for that item type, Outlook displays the following error: **The scheduling start time can only be set when the Scheduling Assistant is displayed on a meeting item.**
 
 
 ## Example
@@ -86,5 +86,5 @@ End Sub
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

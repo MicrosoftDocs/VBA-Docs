@@ -29,5 +29,5 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

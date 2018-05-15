@@ -38,5 +38,5 @@ Furthermore, when you call the  **AppointmentItem.Respond** method with the **ol
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

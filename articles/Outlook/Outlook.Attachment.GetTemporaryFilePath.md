@@ -20,7 +20,7 @@ Returns the full path to the attached file that is in a temporary files folder. 
 
  _expression_ . **GetTemporaryFilePath**
 
- _expression_ A variable that represents an **[Attachment](attachment-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Attachment](Outlook.Attachment.md)** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Returns a  **String** that represents the full path to the temporary attachment 
 
 ## Remarks
 
-The  **GetTemporaryFilePath** method is only valid for those attachments whose **[Type](attachment-type-property-outlook.md)** property is **OlAttachmentType.olByValue** . That means that the attachment is a copy and that the copy can be accessed even if the original file is removed. For other attachment types, the **GetTemporaryFilePath** method returns an error.
+The  **GetTemporaryFilePath** method is only valid for those attachments whose **[Type](Outlook.Attachment.Type.md)** property is **OlAttachmentType.olByValue** . That means that the attachment is a copy and that the copy can be accessed even if the original file is removed. For other attachment types, the **GetTemporaryFilePath** method returns an error.
 
- **GetTemporaryFilePath** also returns an error when accessing an **[Attachment](attachment-object-outlook.md)** object in an **[Attachments](attachments-object-outlook.md)** collection or in the **[AttachmentSelection](attachmentselection-object-outlook.md)** object. Use **GetTemporaryFilePath** only in attachment event callbacks listed below for various Microsoft Outlook items:
+ **GetTemporaryFilePath** also returns an error when accessing an **[Attachment](Outlook.Attachment.md)** object in an **[Attachments](Outlook.Attachments.md)** collection or in the **[AttachmentSelection](attachmentselection-object-outlook.md)** object. Use **GetTemporaryFilePath** only in attachment event callbacks listed below for various Microsoft Outlook items:
 
 
 -  **AttachmentAdd**
@@ -60,5 +60,5 @@ The  **GetTemporaryFilePath** method is only valid for those attachments whose *
 #### Concepts
 
 
-[Attachment Object](attachment-object-outlook.md)
+[Attachment Object](Outlook.Attachment.md)
 

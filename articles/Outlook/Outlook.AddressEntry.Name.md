@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 ## Remarks
 
-It is necessary for the  **Name** property to be set before calling the **[AddressEntry.Details](addressentry-details-method-outlook.md)** method.
+It is necessary for the  **Name** property to be set before calling the **[AddressEntry.Details](Outlook.AddressEntry.Details.md)** method.
 
 
 ## See also
@@ -34,5 +34,5 @@ It is necessary for the  **Name** property to be set before calling the **[Addre
 #### Concepts
 
 
-[AddressEntry Object](addressentry-object-outlook.md)
+[AddressEntry Object](Outlook.AddressEntry.md)
 

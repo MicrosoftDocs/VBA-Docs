@@ -37,6 +37,6 @@ For example, setting  **PictureAlignment** to 0 means that the top left corner o
 
 If you tile an image on a control or container, the setting of  **PictureAlignment** affects the tiling pattern. For example, if **PictureAlignment** is set to 0, the first copy of the image is laid in the upper left corner of the control or container and additional copies are tiled from left to right across each row. If **PictureAlignment** **PictureAlignment** is 2, the first copy of the image is laid at the center of the control or container, additional copies are laid to the left and right to complete the row, and additional rows are added to fill the control or container.
 
-Setting the  **[PictureSizeMode](page-picturesizemode-property-outlook-forms-script.md)** property to 2 overrides **PictureAlignment**. When  **PictureSizeMode** is set to 2, the picture fills the entire control or container.
+Setting the  **[PictureSizeMode](Outlook.page.picturesizemode.md)** property to 2 overrides **PictureAlignment**. When  **PictureSizeMode** is set to 2, the picture fills the entire control or container.
 
 

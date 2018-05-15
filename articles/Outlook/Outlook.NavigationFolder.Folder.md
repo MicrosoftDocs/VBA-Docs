@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolder.Folder Property (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object that represents the shared or linked folder associated with the navigation folder. Read-only.
+Returns a  **[Folder](Outlook.Folder.md)** object that represents the shared or linked folder associated with the navigation folder. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[Folder](folder-object-outlook.md)** object that represents the sha
 #### Concepts
 
 
-[NavigationFolder Object](navigationfolder-object-outlook.md)
+[NavigationFolder Object](Outlook.NavigationFolder.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarModule.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olCalendarModule** for the **[CalendarModule](calendarmodule-object-outlook.md)** object.
+This property returns  **olCalendarModule** for the **[CalendarModule](Outlook.CalendarModule.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olCalendarModule** for the **[CalendarModule](calendarm
 #### Concepts
 
 
-[CalendarModule Object](calendarmodule-object-outlook.md)
+[CalendarModule Object](Outlook.CalendarModule.md)
 

@@ -30,7 +30,7 @@ This property corresponds to the MAPI property  **PidTagOfficeLocation** .
 
 ## Example
 
-This Visual Basic for Applications example uses  **[CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
+This Visual Basic for Applications example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create an appointment and uses **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
 
 
 ```vb
@@ -82,7 +82,7 @@ End Sub
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 #### Other resources
 
 

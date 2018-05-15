@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SendRuleAction.Recipients Property (Outlook)
 
-Returns a  **[Recipients](recipients-object-outlook.md)** collection that represents the recipient list for the send action. Read-only.
+Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents the recipient list for the send action. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Multiple recipients are evaluated using the logical OR operation.
 #### Concepts
 
 
-[SendRuleAction Object](sendruleaction-object-outlook.md)
+[SendRuleAction Object](Outlook.SendRuleAction.md)
 

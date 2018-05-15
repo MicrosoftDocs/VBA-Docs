@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.UserDefinedProperties Property (Outlook)
 
-Returns a  **[UserDefinedProperties](userdefinedproperties-object-outlook.md)** object that represents the user-defined custom properties for the **[Folder](folder-object-outlook.md)** object. Read-only.
+Returns a  **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object that represents the user-defined custom properties for the **[Folder](Outlook.Folder.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[UserDefinedProperties](userdefinedproperties-object-outlook.md)** 
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

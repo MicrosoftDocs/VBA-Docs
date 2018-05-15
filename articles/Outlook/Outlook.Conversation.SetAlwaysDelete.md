@@ -20,7 +20,7 @@ Specifies a setting for the specified delivery store that indicates whether all 
 
  _expression_ . **SetAlwaysDelete**( **_AlwaysDelete_** , **_Store_** )
 
- _expression_ A variable that represents a **[Conversation](conversation-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ### Parameters
@@ -29,8 +29,8 @@ Specifies a setting for the specified delivery store that indicates whether all 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _AlwaysDelete_|Required| **[OlAlwaysDeleteConversation](olalwaysdeleteconversation-enumeration-outlook.md)**|A constant that indicates whether all existing and new items that arrive in the conversation are always moved to the Deleted Folder of the store specified by the  _Store_ parameter.|
-| _Store_|Required| **[Store](store-object-outlook.md)**|Specifies the store that contains the Deleted Items folder to which existing and new items of the conversation are to be moved.|
+| _AlwaysDelete_|Required| **[OlAlwaysDeleteConversation](Outlook.OlAlwaysDeleteConversation.md)**|A constant that indicates whether all existing and new items that arrive in the conversation are always moved to the Deleted Folder of the store specified by the  _Store_ parameter.|
+| _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store that contains the Deleted Items folder to which existing and new items of the conversation are to be moved.|
 
 ## Remarks
 
@@ -72,5 +72,5 @@ End Sub
 #### Concepts
 
 
-[Conversation Object](conversation-object-outlook.md)
+[Conversation Object](Outlook.Conversation.md)
 

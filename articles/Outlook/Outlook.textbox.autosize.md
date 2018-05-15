@@ -22,11 +22,11 @@ Returns or sets a  **Boolean** that specifies whether an object automatically re
 
  **True** to automatically resize the control to display its entire contents. **False** to keep the size of the control constant; contents are clipped when they exceed the area of the control (default).
 
-For controls without captions, this property specifies whether the control automatically adjusts to display the information stored in the control. In a  **[ComboBox](combobox-object-outlook-forms-script.md)**, for example, setting  **AutoSize** to **True** automatically sets the width of the display area to match the length of the current text.
+For controls without captions, this property specifies whether the control automatically adjusts to display the information stored in the control. In a  **[ComboBox](Outlook.combobox.md)**, for example, setting  **AutoSize** to **True** automatically sets the width of the display area to match the length of the current text.
 
 If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by  **AutoSize**.
 
-For a single-line  **[TextBox](textbox-object-outlook-forms-script.md)**, setting  **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the text box.
+For a single-line  **[TextBox](Outlook.textbox.md)**, setting  **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the text box.
 
 For a multiline  **TextBox** that contains no text, setting **AutoSize** to **True** automatically displays the text as a column. The width of the text column is set to accommodate the widest letter of that font size. The height of the text column is set to display the entire text of the **TextBox**.
 

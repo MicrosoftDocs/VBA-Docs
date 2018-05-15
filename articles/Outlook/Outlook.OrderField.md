@@ -18,25 +18,25 @@ Represents an order field, used to sort information in a view.
 
 ## Remarks
 
-Use the  **[Add](viewfields-add-method-outlook.md)** method of the **[OrderFields](orderfields-object-outlook.md)** object to add an Outlook item property to the **SortFields** collection for the following objects derived from the **[View](view-object-outlook.md)** object:
+Use the  **[Add](Outlook.ViewFields.Add.md)** method of the **[OrderFields](Outlook.OrderFields.md)** object to add an Outlook item property to the **SortFields** collection for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[BusinessCardView](businesscardview-object-outlook.md)**
+-  **[BusinessCardView](businessOutlook.CardView.md)**
     
--  **[CardView](cardview-object-outlook.md)**
+-  **[CardView](Outlook.CardView.md)**
     
--  **[IconView](iconview-object-outlook.md)**
+-  **[IconView](Outlook.IconView.md)**
     
--  **[TableView](tableview-object-outlook.md)**
+-  **[TableView](Outlook.TableView.md)**
     
-Use the  **[ViewXMLSchemaName](orderfield-viewxmlschemaname-property-outlook.md)** property to obtain the name of the order field as referenced in the XML definition of the view.
+Use the  **[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)** property to obtain the name of the order field as referenced in the XML definition of the view.
 
- **OrderField** objects contained in an **OrderFields** collection are applied to Outlook items displayed in the view in the order in which the objects are contained in the collection. For each **OrderField** object, use the **[IsDescending](orderfield-isdescending-property-outlook.md)** property to determine whether to sort the contents of the order field in ascending or descending order.
+ **OrderField** objects contained in an **OrderFields** collection are applied to Outlook items displayed in the view in the order in which the objects are contained in the collection. For each **OrderField** object, use the **[IsDescending](Outlook.OrderField.IsDescending.md)** property to determine whether to sort the contents of the order field in ascending or descending order.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[SortFields](tableview-sortfields-property-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the  **[SortFields](Outlook.TableView.SortFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
 
 
 ```
@@ -108,12 +108,12 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](orderfield-application-property-outlook.md)|
-|[Class](orderfield-class-property-outlook.md)|
-|[IsDescending](orderfield-isdescending-property-outlook.md)|
+|[Application](Outlook.OrderField.Application.md)|
+|[Class](Outlook.OrderField.Class.md)|
+|[IsDescending](Outlook.OrderField.IsDescending.md)|
 |[Parent](orderfield-parent-property-outlook.md)|
 |[Session](orderfield-session-property-outlook.md)|
-|[ViewXMLSchemaName](orderfield-viewxmlschemaname-property-outlook.md)|
+|[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)|
 
 ## See also
 

@@ -34,5 +34,5 @@ The default value is  **Null** ( **Nothing** in Visual Basic).
 #### Concepts
 
 
-[OlkTimeZoneControl Object](olktimezonecontrol-object-outlook.md)
+[OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

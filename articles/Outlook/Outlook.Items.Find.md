@@ -38,7 +38,7 @@ An  **Object** value that represents an Outlook item if the call succeeds; retur
 
 ## Remarks
 
-To use content indexing search in the  **[Items](items-object-outlook.md)** collection, use the **[Restrict](items-restrict-method-outlook.md)** method. **FindRow** will return an error if _Filter_ contains content indexing keywords. For more information on content indexing keywords, see[Filtering Items Using Query Keywords](http://msdn.microsoft.com/library/d7e6b169-c5fd-7acc-f077-658a153a921f%28Office.15%29.aspx).
+To use content indexing search in the  **[Items](Outlook.Items.md)** collection, use the **[Restrict](Outlook.Items.Restrict.md)** method. **FindRow** will return an error if _Filter_ contains content indexing keywords. For more information on content indexing keywords, see[Filtering Items Using Query Keywords](http://msdn.microsoft.com/library/d7e6b169-c5fd-7acc-f077-658a153a921f%28Office.15%29.aspx).
 
 The method will return an error with the following properties in the  _Filter_ :
 
@@ -246,5 +246,5 @@ sFilter = "[LastName] > 'LZZZ' And [LastName] < 'N'"
 #### Concepts
 
 
-[Items Object](items-object-outlook.md)
+[Items Object](Outlook.Items.md)
 

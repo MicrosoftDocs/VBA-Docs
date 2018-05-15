@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Mileage Property (Outlook)
 
-Returns or sets a  **String** representing the mileage for a **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a  **String** representing the mileage for a **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This is a free-form string field and can be used to store mileage information as
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

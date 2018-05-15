@@ -29,7 +29,7 @@ Removes an object from the collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either a  **Long** value representing the index number of the object, or a **String** value representing either the **[Name](category-name-property-outlook.md)** or **[CategoryID](category-categoryid-property-outlook.md)** property value of an object in the collection.|
+| _Index_|Required| **Variant**|Either a  **Long** value representing the index number of the object, or a **String** value representing either the **[Name](Outlook.Category.Name.md)** or **[CategoryID](Outlook.Category.CategoryID.md)** property value of an object in the collection.|
 
 ## Remarks
 
@@ -42,5 +42,5 @@ If the name of a category is specified in  _Index_, this method removes the firs
 #### Concepts
 
 
-[Categories Object](categories-object-outlook.md)
+[Categories Object](Outlook.Categories.md)
 

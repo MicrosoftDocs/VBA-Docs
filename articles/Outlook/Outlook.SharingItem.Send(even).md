@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Send Event (Outlook)
 
-Occurs when the user selects the  **Send** action for an item, or when the **[Send](sharingitem-send-method-outlook.md)** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the  **Send** action for an item, or when the **[Send](Outlook.SharingItem.Send(method).md)** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -39,5 +39,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

@@ -29,5 +29,5 @@ Occurs when the control is clicked, either through user action or programmatical
 #### Concepts
 
 
-[OlkSenderPhoto Object](olksenderphoto-object-outlook.md)
+[OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 

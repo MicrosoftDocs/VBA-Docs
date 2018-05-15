@@ -27,7 +27,7 @@ Returns or sets a  **Boolean** indicating the visible state of the specified obj
 
  **True** to display the object; **False** to hide the object.
 
-You can also use the  **[ShowPane](explorer-showpane-method-outlook.md)** method or the **[IsPaneVisible](explorer-ispanevisible-method-outlook.md)** method of an **[Explorer](explorer-object-outlook.md)** object to set or retrieve this value.
+You can also use the  **[ShowPane](Outlook.Explorer.ShowPane.md)** method or the **[IsPaneVisible](Outlook.Explorer.IsPaneVisible.md)** method of an **[Explorer](Outlook.Explorer.md)** object to set or retrieve this value.
 
 
 ## Example
@@ -56,5 +56,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarPane Object](outlookbarpane-object-outlook.md)
+[OutlookBarPane Object](Outlook.OutlookBarPane.md)
 

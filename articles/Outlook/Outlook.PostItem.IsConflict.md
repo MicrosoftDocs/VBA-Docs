@@ -36,5 +36,5 @@ If  **True** , the specified item is in conflict.
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

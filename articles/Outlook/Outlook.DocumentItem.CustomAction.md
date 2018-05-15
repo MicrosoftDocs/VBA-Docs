@@ -26,7 +26,7 @@ Occurs when a custom action of an item (which is an instance of the parent objec
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Action_|Required| **Object**|The  **[Action](action-object-outlook.md)** object.|
+| _Action_|Required| **Object**|The  **[Action](Outlook.Action.md)** object.|
 | _Response_|Required| **Object**|The newly created item resulting from the custom action.|
 | _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True** , the custom action is not completed.|
 
@@ -43,5 +43,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

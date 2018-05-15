@@ -20,7 +20,7 @@ Removes an object from the collection.
 
  _expression_ . **Remove**( **_RemovableFolder_** )
 
- _expression_ A variable that represents a **[NavigationFolders](navigationfolders-object-outlook.md)** object.
+ _expression_ A variable that represents a **[NavigationFolders](Outlook.NavigationFolders.md)** object.
 
 
 ### Parameters
@@ -29,11 +29,11 @@ Removes an object from the collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _RemovableFolder_|Required| **[NavigationFolder](navigationfolder-object-outlook.md)**|The navigation folder to be removed.|
+| _RemovableFolder_|Required| **[NavigationFolder](Outlook.NavigationFolder.md)**|The navigation folder to be removed.|
 
 ## Remarks
 
-Only removable folders,  **NavigationFolder** objects with an **[IsRemovable](navigationfolder-isremovable-property-outlook.md)** property value set to **True** , can be removed from a **NavigationFolders** collection. This means that you can use **NavigationFolders.Remove** to remove shared folders, public folders, and linked folders. However, you must use **[Folder.Delete](folder-delete-method-outlook.md)** to remove any user-created folders.
+Only removable folders,  **NavigationFolder** objects with an **[IsRemovable](Outlook.NavigationFolder.IsRemovable.md)** property value set to **True** , can be removed from a **NavigationFolders** collection. This means that you can use **NavigationFolders.Remove** to remove shared folders, public folders, and linked folders. However, you must use **[Folder.Delete](Outlook.Folder.Delete.md)** to remove any user-created folders.
 
 
 ## See also
@@ -42,5 +42,5 @@ Only removable folders,  **NavigationFolder** objects with an **[IsRemovable](na
 #### Concepts
 
 
-[NavigationFolders Object](navigationfolders-object-outlook.md)
+[NavigationFolders Object](Outlook.NavigationFolders.md)
 

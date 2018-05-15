@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserProperty.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 #### Concepts
 
 
-[UserProperty Object](userproperty-object-outlook.md)
+[UserProperty Object](Outlook.UserProperty.md)
 

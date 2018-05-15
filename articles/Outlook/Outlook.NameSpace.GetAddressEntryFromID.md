@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # NameSpace.GetAddressEntryFromID Method (Outlook)
 
-Returns an  **[AddressEntry](addressentry-object-outlook.md)** object that represents the address entry for the specified _ID_ .
+Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the address entry for the specified _ID_ .
 
 
 ## Syntax
 
  _expression_ . **GetAddressEntryFromID**( **_ID_** )
 
- _expression_ A variable that represents a **[NameSpace](namespace-object-outlook.md)** object.
+ _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ### Parameters
@@ -33,12 +33,12 @@ Returns an  **[AddressEntry](addressentry-object-outlook.md)** object that repre
 
 ### Return Value
 
-An  **AddressEntry** that has the **[ID](addressentry-id-property-outlook.md)** property that matches the specified _ID_ .
+An  **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property that matches the specified _ID_ .
 
 
 ## Remarks
 
-This method is similar to the  **[GetAddressEntryFromID](account-getaddressentryfromid-method-outlook.md)** method of the **[Account](account-object-outlook.md)** object. Use this method if there is only the primary Exchange account in the current profile. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetAddressEntryFromID** method for the corresponding account.
+This method is similar to the  **[GetAddressEntryFromID](Outlook.Account.GetAddressEntryFromID.md)** method of the **[Account](Outlook.Account.md)** object. Use this method if there is only the primary Exchange account in the current profile. If there are multiple Microsoft Exchange accounts in the current profile, use the **GetAddressEntryFromID** method for the corresponding account.
 
 The  **ID** property for an **AddressEntry** is a permanent, unique string identifier that the transport provider assigns when an **AddressEntry** is created.
 
@@ -53,5 +53,5 @@ Outlook maintains a hierarchy of address books for a session, and the address en
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

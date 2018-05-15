@@ -29,5 +29,5 @@ Returns a  **String** representing the topic of the conversation thread of the O
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

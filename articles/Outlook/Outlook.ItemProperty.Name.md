@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
-[ItemProperty Object](itemproperty-object-outlook.md)
+[ItemProperty Object](Outlook.ItemProperty.md)
 

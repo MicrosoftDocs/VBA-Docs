@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # TextBox.EnterFieldBehavior Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the selection behavior when entering a **[TextBox](textbox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets an  **Integer** that specifies the selection behavior when entering a **[TextBox](Outlook.textbox.md)**. Read/write.
 
 
 ## Syntax
@@ -24,6 +24,6 @@ The possible values of  **EnterFieldBehavior** are 0 and 1. 0 represents selecti
 
 The  **EnterFieldBehavior** property controls the way text is selected when the user tabs to the control, not when the control receives focus as a result of the **SetFocus** method. Following **SetFocus**, the contents of the control are not selected and the insertion point appears after the last character in the control's edit region.
 
-You can combine the effects of the  **EnterFieldBehavior** property and **[DragBehavior](textbox-dragbehavior-property-outlook-forms-script.md)** to create a large number of text box styles.
+You can combine the effects of the  **EnterFieldBehavior** property and **[DragBehavior](Outlook.textbox.dragbehavior.md)** to create a large number of text box styles.
 
 

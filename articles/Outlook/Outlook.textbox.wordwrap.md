@@ -22,6 +22,6 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
  **True** to specify that the text wraps (default), **False** to specify that the text does not.
 
-For controls that support the  **[MultiLine](textbox-multiline-property-outlook-forms-script.md)** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
+For controls that support the  **[MultiLine](Outlook.textbox.multiline.md)** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
 
 

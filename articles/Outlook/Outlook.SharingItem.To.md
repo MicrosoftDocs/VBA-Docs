@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.To Property (Outlook)
 
-Returns or sets a semicolon-delimited  **String** list of display names for the **To** recipients for the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a semicolon-delimited  **String** list of display names for the **To** recipients for the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a semicolon-delimited  **String** list of display names for the 
 
 ## Remarks
 
-This property contains the display names only. The  **To** property corresponds to the MAPI property **PidTagDisplayTo** . The **[Recipients](recipients-object-outlook.md)** collection should be used to modify this property.
+This property contains the display names only. The  **To** property corresponds to the MAPI property **PidTagDisplayTo** . The **[Recipients](Outlook.Recipients.md)** collection should be used to modify this property.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property contains the display names only. The  **To** property corresponds 
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

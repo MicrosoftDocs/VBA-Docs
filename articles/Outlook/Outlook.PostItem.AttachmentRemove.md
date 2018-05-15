@@ -26,7 +26,7 @@ Occurs when an attachment has been removed from an instance of the parent object
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **Attachment**|The  **[Attachment](attachment-object-outlook.md)** that was removed from the item.|
+| _Attachment_|Required| **Attachment**|The  **[Attachment](Outlook.Attachment.md)** that was removed from the item.|
 
 ## See also
 
@@ -34,5 +34,5 @@ Occurs when an attachment has been removed from an instance of the parent object
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

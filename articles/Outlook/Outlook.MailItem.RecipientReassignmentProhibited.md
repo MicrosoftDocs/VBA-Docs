@@ -29,5 +29,5 @@ Returns a  **Boolean** that indicates **True** if the recipient cannot forward t
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

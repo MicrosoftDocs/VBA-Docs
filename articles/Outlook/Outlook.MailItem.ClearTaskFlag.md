@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.ClearTaskFlag Method (Outlook)
 
-Clears the  **[MailItem](mailitem-object-outlook.md)** object as a task.
+Clears the  **[MailItem](Outlook.MailItem.md)** object as a task.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Clears the  **[MailItem](mailitem-object-outlook.md)** object as a task.
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](mailitem-ismarkedastask-property-outlook.md)** property to **False** .
+Calling this method sets the  **[IsMarkedAsTask](Outlook.MailItem.IsMarkedAsTask.md)** property to **False** .
 
 
 ## See also
@@ -34,5 +34,5 @@ Calling this method sets the  **[IsMarkedAsTask](mailitem-ismarkedastask-propert
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

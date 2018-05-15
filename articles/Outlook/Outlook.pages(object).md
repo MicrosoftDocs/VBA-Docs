@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Pages Object (Outlook Forms Script)
 
-Represents all the pages of a  **[MultiPage](multipage-object-outlook-forms-script.md)**.
+Represents all the pages of a  **[MultiPage](Outlook.multipage.md)**.
 
 
 ## Remarks

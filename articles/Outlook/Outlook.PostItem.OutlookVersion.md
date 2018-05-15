@@ -29,5 +29,5 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

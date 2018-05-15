@@ -26,6 +26,6 @@ Specifies the editor type.
 
 ## Remarks
 
-Used by the [EditorType](inspector-editortype-property-outlook.md) property of[Inspector](inspector-object-outlook.md) objects.
+Used by the [EditorType](Outlook.Inspector.EditorType.md) property of[Inspector](Outlook.Inspector.md) objects.
 
 

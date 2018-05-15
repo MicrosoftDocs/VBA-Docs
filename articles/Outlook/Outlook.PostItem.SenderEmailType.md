@@ -29,5 +29,5 @@ Returns a  **String** that represents the type of entry for the e-mail address o
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

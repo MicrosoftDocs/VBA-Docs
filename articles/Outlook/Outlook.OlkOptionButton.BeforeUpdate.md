@@ -57,5 +57,5 @@ Canceling this property will revert the control to the current value of the prop
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

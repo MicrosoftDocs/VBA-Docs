@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Tabs Object (Outlook Forms Script)
 
-Represents all the  **[Tab](tab-object-outlook-forms-script.md)** controls of a **[TabStrip](tabstrip-object-outlook-forms-script.md)**.
+Represents all the  **[Tab](Outlook.tab.md)** controls of a **[TabStrip](Outlook.tabstrip.md)**.
 
 
 ## Remarks

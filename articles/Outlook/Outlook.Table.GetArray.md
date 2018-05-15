@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.GetArray Method (Outlook)
 
-Obtains a two-dimensional array that contains a set of row and column values from the  **[Table](table-object-outlook.md)** .
+Obtains a two-dimensional array that contains a set of row and column values from the  **[Table](Outlook.Table.md)** .
 
 
 ## Syntax
@@ -42,7 +42,7 @@ The  **GetArray** method offers a conceptually simple means to get values from a
 
  **GetArray** always starts at the current row of the **Table** . It returns an array with _MaxRows_ number of rows if there are at least _MaxRows_ number of rows in the **Table** starting at the current position. If _MaxRows_ is not larger than the total number of rows in the **Table** , and there are fewer than _MaxRows_ number of elements in the **Table** starting at the current row, it will return an array that contains only the remaining rows in the **Table** . If **GetArray** is called and there are no remaining rows, then **GetArray** returns an empty array with zero elements.
 
-After obtaining the appropriate rows from the  **Table** and before it returns, **GetArray** always repositions the current row to the next row in the **Table** , if there exists a next row. `GetArray(n)` operates as if **[Table.GetNextRow](table-getnextrow-method-outlook.md)** is called n times.
+After obtaining the appropriate rows from the  **Table** and before it returns, **GetArray** always repositions the current row to the next row in the **Table** , if there exists a next row. `GetArray(n)` operates as if **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** is called n times.
 
 The values in the columns map to columns in the  **Table** , and are therefore determined by the format of the property name used for the column. For more information, see[Factors Affecting Property Value Representation in the Table and View Classes](http://msdn.microsoft.com/library/13cf9945-a9e0-bb32-a2cb-74366a365ae1%28Office.15%29.aspx).
 
@@ -108,5 +108,5 @@ End Sub
 #### Concepts
 
 
-[Table Object](table-object-outlook.md)
+[Table Object](Outlook.Table.md)
 

@@ -29,7 +29,7 @@ Adds new members to a distribution list.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Recipients_|Required| **[Recipients](recipients-object-outlook.md)**|The members to be added to the distribution list.|
+| _Recipients_|Required| **[Recipients](Outlook.Recipients.md)**|The members to be added to the distribution list.|
 
 ## Example
 
@@ -83,5 +83,5 @@ End Sub
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

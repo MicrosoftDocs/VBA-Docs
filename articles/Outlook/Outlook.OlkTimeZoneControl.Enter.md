@@ -34,5 +34,5 @@ This is similar to the  **GotFocus** event exposed by managed-code controls or i
 #### Concepts
 
 
-[OlkTimeZoneControl Object](olktimezonecontrol-object-outlook.md)
+[OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

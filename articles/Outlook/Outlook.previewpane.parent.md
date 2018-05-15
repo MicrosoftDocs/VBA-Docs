@@ -11,7 +11,7 @@ ms.prod: outlook
 
 # PreviewPane.Parent Property (Outlook)
 
-Returns the parent property for the [PreviewPane](previewpane-object-outlook.md) Object. Read only.
+Returns the parent property for the [PreviewPane](Outlook.previewpane.md) Object. Read only.
 
 
 ## Syntax
@@ -28,5 +28,5 @@ Returns the parent property for the [PreviewPane](previewpane-object-outlook.md)
 
 
 
-[PreviewPane Object (Outlook)](previewpane-object-outlook.md)
+[PreviewPane Object (Outlook)](Outlook.previewpane.md)
 

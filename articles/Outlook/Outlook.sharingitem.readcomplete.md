@@ -32,9 +32,9 @@ Version Added: Outlook 2013
 
 ## Remarks
 
-The  **ReadComplete** event occurs after the[BeforeRead](sharingitem-beforeread-event-outlook.md) event and before the[Read](sharingitem-read-event-outlook.md) event for the item.
+The  **ReadComplete** event occurs after the[BeforeRead](Outlook.SharingItem.BeforeRead.md) event and before the[Read](Outlook.SharingItem.Read.md) event for the item.
 
-To determine when the item is unloaded from memory, use the [Unload](sharingitem-unload-event-outlook.md) event.
+To determine when the item is unloaded from memory, use the [Unload](Outlook.SharingItem.Unload.md) event.
 
 The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnReadComplete**.
 
@@ -45,5 +45,5 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

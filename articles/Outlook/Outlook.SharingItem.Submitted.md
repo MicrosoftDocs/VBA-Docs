@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Submitted Property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the **[SharingItem](sharingitem-object-outlook.md)** has been submitted. Read-only.
+Returns a  **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has been submitted. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ A message is always created and submitted in a folder, usually the  **Outbox**.
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

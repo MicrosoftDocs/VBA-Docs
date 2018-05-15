@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Pages.Add Method (Outlook Forms Script)
 
-Adds a  **[Page](page-object-outlook-forms-script.md)** to a **[Pages](pages-object-outlook-forms-script.md)** collection.
+Adds a  **[Page](Outlook.page.md)** to a **[Pages](Outlook.pages(object).md)** collection.
 
 
 ## Syntax
@@ -46,5 +46,5 @@ You can change the  **Name** property of the object at run time only if you adde
 #### Concepts
 
 
- [Pages Object](pages-object-outlook-forms-script.md)
+ [Pages Object](Outlook.pages(object).md)
 

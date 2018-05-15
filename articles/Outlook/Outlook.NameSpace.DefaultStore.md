@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.DefaultStore Property (Outlook)
 
-Returns a  **[Store](store-object-outlook.md)** object representing the default Store for the profile. Read-only.
+Returns a  **[Store](Outlook.Store.md)** object representing the default Store for the profile. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Returns an error if there is no default store for the current profile.
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

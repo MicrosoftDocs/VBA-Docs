@@ -18,19 +18,19 @@ Represents a view field, used to display information in a view.
 
 ## Remarks
 
-Use the  **[Add](viewfields-add-method-outlook.md)** method of the **[ViewFields](viewfields-object-outlook.md)** collection to add an Outlook item property to the following objects derived from the **[View](view-object-outlook.md)** object:
+Use the  **[Add](Outlook.ViewFields.Add.md)** method of the **[ViewFields](Outlook.ViewFields.md)** collection to add an Outlook item property to the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[CardView](cardview-object-outlook.md)**
+-  **[CardView](Outlook.CardView.md)**
     
--  **[TableView](tableview-object-outlook.md)**
+-  **[TableView](Outlook.TableView.md)**
     
-Use the  **[ColumnFormat](viewfield-columnformat-property-outlook.md)** property to access the **[ColumnFormat](columnformat-object-outlook.md)** object representing the display properties associated with the view field. Use the **[ViewXMLSchemaName](viewfield-viewxmlschemaname-property-outlook.md)** property to obtain the name of the view field as referenced in the XML definition of the view.
+Use the  **[ColumnFormat](Outlook.ViewField.ColumnFormat.md)** property to access the **[ColumnFormat](Outlook.ColumnFormat.md)** object representing the display properties associated with the view field. Use the **[ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)** property to obtain the name of the view field as referenced in the XML definition of the view.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](tableview-viewfields-property-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```
@@ -102,12 +102,12 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](viewfield-application-property-outlook.md)|
-|[Class](viewfield-class-property-outlook.md)|
-|[ColumnFormat](viewfield-columnformat-property-outlook.md)|
+|[Application](Outlook.ViewField.Application.md)|
+|[Class](Outlook.ViewField.Class.md)|
+|[ColumnFormat](Outlook.ViewField.ColumnFormat.md)|
 |[Parent](viewfield-parent-property-outlook.md)|
 |[Session](viewfield-session-property-outlook.md)|
-|[ViewXMLSchemaName](viewfield-viewxmlschemaname-property-outlook.md)|
+|[ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)|
 
 ## See also
 

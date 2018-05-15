@@ -36,5 +36,5 @@ To determine how the XML should be structured when creating views, you can creat
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

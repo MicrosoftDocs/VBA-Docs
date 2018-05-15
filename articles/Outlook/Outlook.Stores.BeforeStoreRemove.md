@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Stores.BeforeStoreRemove Event (Outlook)
 
-Occurs when a  **[Store](store-object-outlook.md)** is about to be removed from the current session either programmatically or through user action.
+Occurs when a  **[Store](Outlook.Store.md)** is about to be removed from the current session either programmatically or through user action.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Outlook must be running in order for this event to fire. This event will fire wh
 
 - A store is removed by the user clicking the  **Close** command on the Shortcut menu.
     
-- A store is removed programmatically by calling  **[Namespace.RemoveStore](namespace-removestore-method-outlook.md)** .
+- A store is removed programmatically by calling  **[Namespace.RemoveStore](Outlook.NameSpace.RemoveStore.md)** .
     
 
 
@@ -58,7 +58,7 @@ This event will not fire when any of the following occurs:
     
 
 
-You can use this event to determine that a store has been removed, and take appropriate actions if the store is required for your application (such as remounting the store). Otherwise you would have to resort to polling the  **[Stores](stores-object-outlook.md)** collection.
+You can use this event to determine that a store has been removed, and take appropriate actions if the store is required for your application (such as remounting the store). Otherwise you would have to resort to polling the  **[Stores](Outlook.Stores.md)** collection.
 
 
 ## See also
@@ -67,5 +67,5 @@ You can use this event to determine that a store has been removed, and take appr
 #### Concepts
 
 
-[Stores Object](stores-object-outlook.md)
+[Stores Object](Outlook.Stores.md)
 

@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagCreationTime** .
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

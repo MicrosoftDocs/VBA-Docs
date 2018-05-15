@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the category assigned to the form des
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

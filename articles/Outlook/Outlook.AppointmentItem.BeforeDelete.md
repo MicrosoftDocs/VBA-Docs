@@ -42,5 +42,5 @@ The event occurs each time an item is deleted.
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

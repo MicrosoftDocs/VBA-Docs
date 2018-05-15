@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # SolutionsModule.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent Outlook application for the object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
 
 ## Syntax
 
  _expression_ . **Application**
 
- _expression_ A variable that represents a **[SolutionsModule](solutionsmodule-object-outlook.md)** object.
+ _expression_ A variable that represents a **[SolutionsModule](Outlook.SolutionsModule.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[SolutionsModule Object](solutionsmodule-object-outlook.md)
+[SolutionsModule Object](Outlook.SolutionsModule.md)
 

@@ -38,5 +38,5 @@ Adds a new custom property page to the Microsoft Outlook **Options** dialog box 
 #### Concepts
 
 
-[PropertyPages Object](propertypages-object-outlook.md)
+[PropertyPages Object](Outlook.PropertyPages.md)
 

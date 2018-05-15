@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Actions Object (Outlook)
 
-Contains a collection of  **[Action](action-object-outlook.md)** objects that represent all the specialized actions that can be executed on an Outlook item.
+Contains a collection of  **[Action](Outlook.Action.md)** objects that represent all the specialized actions that can be executed on an Outlook item.
 
 
 ## Remarks

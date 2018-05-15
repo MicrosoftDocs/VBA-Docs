@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.EditorType Property (Outlook)
 
-Returns an  **[OlEditorType](oleditortype-enumeration-outlook.md)** constant indicating the type of editor. Read-only.
+Returns an  **[OlEditorType](Outlook.OlEditorType.md)** constant indicating the type of editor. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Since Microsoft Office Outlook 2007, the  **EditorType** property always returns
 
 ## Example
 
-This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **[Open](mailitem-open-event-outlook.md)** event to access the **[HTMLBody](mailitem-htmlbody-property-outlook.md)** property of an item. This sets the **[EditorType](inspector-editortype-property-outlook.md)** property of the item's **[Inspector](inspector-object-outlook.md)** to **olEditorHTML** . If this code is placed in the Script Editor of a form in design mode, the message boxes during run time will reflect the change in the **EditorType** as the body of the form changes. The final message box utilizes the **[ScriptText](formdescription-scripttext-property-outlook.md)** property to display all the VBScript code in the Script Editor.
+This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **[Open](Outlook.MailItem.Open.md)** event to access the **[HTMLBody](Outlook.MailItem.HTMLBody.md)** property of an item. This sets the **[EditorType](Outlook.Inspector.EditorType.md)** property of the item's **[Inspector](Outlook.Inspector.md)** to **olEditorHTML** . If this code is placed in the Script Editor of a form in design mode, the message boxes during run time will reflect the change in the **EditorType** as the body of the form changes. The final message box utilizes the **[ScriptText](Outlook.FormDescription.ScriptText.md)** property to display all the VBScript code in the Script Editor.
 
 
 ```vb
@@ -62,5 +62,5 @@ End Function
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

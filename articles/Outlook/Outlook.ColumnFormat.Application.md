@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColumnFormat.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent Outlook application for the object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[ColumnFormat Object](columnformat-object-outlook.md)
+[ColumnFormat Object](Outlook.ColumnFormat.md)
 

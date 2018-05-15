@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
  _expression_ . **Subject**
 
- _expression_ A variable that represents a **[MailItem](mailitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ This property corresponds to the MAPI property  **PidTagSubject** . The **Subjec
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example creates a new e-mail message, uses the  **[Add](recipients-add-method-outlook.md)** method to add "Dan Wilson" as a **[To](mailitem-to-property-outlook.md)** recipient, sets the **Subject** property, and displays the message.
+This Microsoft Visual Basic for Applications (VBA) example creates a new e-mail message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, sets the **Subject** property, and displays the message.
 
 
 ```vb
@@ -60,7 +60,7 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 #### Other resources
 
 

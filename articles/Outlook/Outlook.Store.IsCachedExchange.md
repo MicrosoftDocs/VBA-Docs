@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.IsCachedExchange Property (Outlook)
 
-Returns a  **Boolean** that indicates if the **[Store](store-object-outlook.md)** is a cached Exchange store. Read-only.
+Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a cached Exchange store. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** that indicates if the **[Store](store-object-outlook.md)*
 
 ## Remarks
 
- **IsCachedExchange** returns **True** when **[Store.ExchangeStoreType](store-exchangestoretype-property-outlook.md)** is a primary Exchange mailbox ( **Store.ExchangeStoreType** is **olExchangePrimaryMailbox** ) and the mailbox is configured to use cached Exchange mode. It returns **False** otherwise. In particular, it returns **False** for an Exchange Public Folder store that is configured to cache Public Folder favorites.
+ **IsCachedExchange** returns **True** when **[Store.ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** is a primary Exchange mailbox ( **Store.ExchangeStoreType** is **olExchangePrimaryMailbox** ) and the mailbox is configured to use cached Exchange mode. It returns **False** otherwise. In particular, it returns **False** for an Exchange Public Folder store that is configured to cache Public Folder favorites.
 
 
 ## See also
@@ -34,5 +34,5 @@ Returns a  **Boolean** that indicates if the **[Store](store-object-outlook.md)*
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

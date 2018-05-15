@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ViewFont.ExtendedColor Property (Outlook)
 
-Returns or sets an  **[OlCategoryColor](olcategorycolor-enumeration-outlook.md)** constant as the font color of the view. Read/write
+Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant as the font color of the view. Read/write
 
 
 ## Syntax
 
  _expression_ . **ExtendedColor**
 
- _expression_ A variable that represents a **[ViewFont](viewfont-object-outlook.md)** object.
+ _expression_ A variable that represents a **[ViewFont](Outlook.ViewFont.md)** object.
 
 
 ## Remarks
 
-You can use the  **[Color](viewfont-color-property-outlook.md)** property or the **[ExtendedColor](viewfont-extendedcolor-property-outlook.md)** property to set the font color in a view. For a calendar view in particular, you must use the **ExtendedColor** property to set the font color.
+You can use the  **[Color](Outlook.ViewFont.Color.md)** property or the **[ExtendedColor](Outlook.ViewFont.ExtendedColor.md)** property to set the font color in a view. For a calendar view in particular, you must use the **ExtendedColor** property to set the font color.
 
 
 ## See also
@@ -34,5 +34,5 @@ You can use the  **[Color](viewfont-color-property-outlook.md)** property or the
 #### Concepts
 
 
-[ViewFont Object](viewfont-object-outlook.md)
+[ViewFont Object](Outlook.ViewFont.md)
 

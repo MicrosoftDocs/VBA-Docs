@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the URL of the personal Web page for 
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

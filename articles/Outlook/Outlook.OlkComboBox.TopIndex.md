@@ -36,5 +36,5 @@ The index value is zero-based. The default value is -1, indicating that no speci
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

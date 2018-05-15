@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationPane.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olNavigationPane** for the **[NavigationPane](navigationpane-object-outlook.md)** object.
+This property returns  **olNavigationPane** for the **[NavigationPane](Outlook.NavigationPane.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olNavigationPane** for the **[NavigationPane](navigatio
 #### Concepts
 
 
-[NavigationPane Object](navigationpane-object-outlook.md)
+[NavigationPane Object](Outlook.NavigationPane.md)
 

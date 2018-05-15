@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Categories Object](categories-object-outlook.md)
+[Categories Object](Outlook.Categories.md)
 

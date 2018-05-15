@@ -29,5 +29,5 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

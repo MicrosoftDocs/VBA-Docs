@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AccountSelector.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant that indicates the class of the object. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicates the class of the object. Read-only.
 
 
 ## Syntax
 
  _expression_ . **Class**
 
- _expression_ A variable that represents an **[AccountSelector](accountselector-object-outlook.md)** object.
+ _expression_ A variable that represents an **[AccountSelector](Outlook.AccountSelector.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant t
 #### Concepts
 
 
-[AccountSelector Object](accountselector-object-outlook.md)
+[AccountSelector Object](Outlook.AccountSelector.md)
 

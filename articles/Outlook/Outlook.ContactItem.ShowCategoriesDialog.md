@@ -29,5 +29,5 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

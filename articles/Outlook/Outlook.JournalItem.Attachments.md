@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalItem.Attachments Property (Outlook)
 
-Returns an  **[Attachments](attachments-object-outlook.md)** object that represents all the attachments for the specified item. Read-only.
+Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified item. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Attachments](attachments-object-outlook.md)** object that represe
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

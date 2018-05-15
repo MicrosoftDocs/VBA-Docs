@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

@@ -36,5 +36,5 @@ Setting the  **Caption** to a long string (for example, 300 characters) will cau
 #### Concepts
 
 
-[SelectNamesDialog Object](selectnamesdialog-object-outlook.md)
+[SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PropertyPages.Item Method (Outlook)
 
-Returns a  **[PropertyPage](propertypage-object-outlook.md)** object from the collection.
+Returns a  **[PropertyPage](Outlook.PropertyPage.md)** object from the collection.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ An  **Object** value that represents the specified object.
 #### Concepts
 
 
-[PropertyPages Object](propertypages-object-outlook.md)
+[PropertyPages Object](Outlook.PropertyPages.md)
 

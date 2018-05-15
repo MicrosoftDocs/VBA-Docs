@@ -26,6 +26,6 @@ Indicates the format used to display duration Outlook item properties.
 
 ## Remarks
 
-Used by the [FieldFormat](columnformat-fieldformat-property-outlook.md) property of the[ColumnFormat](columnformat-object-outlook.md) object, and the[DisplayFormat](userdefinedproperty-displayformat-property-outlook.md) property of the[UserDefinedProperty](userdefinedproperty-object-outlook.md) object.
+Used by the [FieldFormat](Outlook.ColumnFormat.FieldFormat.md) property of the[ColumnFormat](Outlook.ColumnFormat.md) object, and the[DisplayFormat](Outlook.UserDefinedProperty.DisplayFormat.md) property of the[UserDefinedProperty](Outlook.UserDefinedProperty.md) object.
 
 

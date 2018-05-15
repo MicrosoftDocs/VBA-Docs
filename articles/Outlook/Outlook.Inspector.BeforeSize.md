@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.BeforeSize Event (Outlook)
 
-Occurs when the user sizes the current  **[Inspector](inspector-object-outlook.md)** .
+Occurs when the user sizes the current  **[Inspector](Outlook.Inspector.md)** .
 
 
 ## Syntax
@@ -82,5 +82,5 @@ End Sub
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

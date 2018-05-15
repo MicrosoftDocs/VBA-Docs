@@ -29,5 +29,5 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

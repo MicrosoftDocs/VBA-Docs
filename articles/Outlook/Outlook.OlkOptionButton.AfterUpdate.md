@@ -47,5 +47,5 @@ Occurs after the data in the control has been changed through the user interface
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

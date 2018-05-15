@@ -34,5 +34,5 @@ This is a free-form string field and can be used to store mileage information as
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

@@ -24,6 +24,6 @@ Returns or sets a  **Boolean** that specifies whether a control can receive the 
 
 Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
 
-If a  **[Frame](frame-object-outlook-forms-script.md)** is disabled, all controls that it contains are disabled.
+If a  **[Frame](Outlook.frame.md)** is disabled, all controls that it contains are disabled.
 
 

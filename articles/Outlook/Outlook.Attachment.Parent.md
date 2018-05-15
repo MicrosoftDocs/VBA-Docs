@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Attachment Object](attachment-object-outlook.md)
+[Attachment Object](Outlook.Attachment.md)
 

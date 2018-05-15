@@ -18,7 +18,7 @@ Represents an action that marks a message as a task.
 
 ## Remarks
 
- **MarkAsTaskRuleAction** is derived from the **[RuleAction](ruleaction-object-outlook.md)** object. Each rule is associated with a **[RuleActions](ruleactions-object-outlook.md)** object which has a **[MarkAsTask](ruleactions-markastask-property-outlook.md)** property. The **MarkAsTask** property always returns a **MarkAsTaskRuleAction** object. If the rule has an enabled rule action that marks a message as a task, then **[MarkAsTaskRuleAction.Enabled](markastaskruleaction-enabled-property-outlook.md)** would be **True**.
+ **MarkAsTaskRuleAction** is derived from the **[RuleAction](Outlook.RuleAction.md)** object. Each rule is associated with a **[RuleActions](Outlook.RuleActions.md)** object which has a **[MarkAsTask](Outlook.RuleActions.MarkAsTask.md)** property. The **MarkAsTask** property always returns a **MarkAsTaskRuleAction** object. If the rule has an enabled rule action that marks a message as a task, then **[MarkAsTaskRuleAction.Enabled](Outlook.MarkAsTaskRuleAction.Enabled.md)** would be **True**.
 
 For more information on specifying rule actions, see [Specify Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx).
 
@@ -29,13 +29,13 @@ For more information on specifying rule actions, see [Specify Rule Actions](http
 
 |**Name**|
 |:-----|
-|[ActionType](markastaskruleaction-actiontype-property-outlook.md)|
-|[Application](markastaskruleaction-application-property-outlook.md)|
-|[Class](markastaskruleaction-class-property-outlook.md)|
-|[Enabled](markastaskruleaction-enabled-property-outlook.md)|
-|[FlagTo](markastaskruleaction-flagto-property-outlook.md)|
-|[MarkInterval](markastaskruleaction-markinterval-property-outlook.md)|
-|[Parent](markastaskruleaction-parent-property-outlook.md)|
+|[ActionType](Outlook.MarkAsTaskRuleAction.ActionType.md)|
+|[Application](Outlook.MarkAsTaskRuleAction.Application.md)|
+|[Class](Outlook.MarkAsTaskRuleAction.Class.md)|
+|[Enabled](Outlook.MarkAsTaskRuleAction.Enabled.md)|
+|[FlagTo](Outlook.MarkAsTaskRuleAction.FlagTo.md)|
+|[MarkInterval](Outlook.MarkAsTaskRuleAction.MarkInterval.md)|
+|[Parent](Outlook.MarkAsTaskRuleAction.Parent.md)|
 |[Session](markastaskruleaction-session-property-outlook.md)|
 
 ## See also

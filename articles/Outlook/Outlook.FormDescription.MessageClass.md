@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.MessageClass Property (Outlook)
 
-Returns a  **String** representing the message class for the **[FormDescription](formdescription-object-outlook.md)** object. Read-only.
+Returns a  **String** representing the message class for the **[FormDescription](Outlook.FormDescription.md)** object. Read-only.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 #### Other resources
 
 

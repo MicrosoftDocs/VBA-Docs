@@ -24,7 +24,7 @@ Returns or sets a  **Boolean** that specifies whether a control can receive the 
 
 Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
 
-The  **Enabled** and **[Locked](commandbutton-locked-property-outlook-forms-script.md)** properties work together to achieve the following effects:
+The  **Enabled** and **[Locked](Outlook.commandbutton.locked.md)** properties work together to achieve the following effects:
 
 
 - If  **Enabled** and **Locked** are both **True**, the control can receive focus and appears normally (not dimmed) in the form. The user can copy, but not edit, data in the control.
@@ -37,6 +37,6 @@ The  **Enabled** and **[Locked](commandbutton-locked-property-outlook-forms-scri
     
 
 
-You can combine the settings of the  **Enabled** and the **TabStop** properties to prevent the user from selecting a **[CommandButton](commandbutton-object-outlook-forms-script.md)** with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the **CommandButton** won't appear in the tab order. However, if **Enabled** is **True**, then the user can still click the command button, as long as  **[TakeFocusOnClick](commandbutton-takefocusonclick-property-outlook-forms-script.md)** is set to **True**.
+You can combine the settings of the  **Enabled** and the **TabStop** properties to prevent the user from selecting a **[CommandButton](Outlook.commandbutton.md)** with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the **CommandButton** won't appear in the tab order. However, if **Enabled** is **True**, then the user can still click the command button, as long as  **[TakeFocusOnClick](Outlook.commandbutton.takefocusonclick.md)** is set to **True**.
 
 

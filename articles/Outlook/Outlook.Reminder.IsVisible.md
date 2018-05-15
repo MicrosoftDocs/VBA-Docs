@@ -74,5 +74,5 @@ End Sub
 #### Concepts
 
 
-[Reminder Object](reminder-object-outlook.md)
+[Reminder Object](Outlook.Reminder.md)
 

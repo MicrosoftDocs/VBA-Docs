@@ -20,7 +20,7 @@ Represents a form region in an Outlook form.
 
 The  **FormRegion** object allows an add-in to add code behind a form region in a custom form to modify the appearance and behavior of the form region.
 
-To obtain an instance of the  **FormRegion** object, an add-in must implement the **[FormRegionStartup](formregionstartup-object-outlook.md)** interface. Outlook allocates storage for the form region, instantiates an instance of the **FormRegion** object, and returns the **FormRegion** object in the **[GetFormRegionStorage](formregionstartup-getformregionstorage-method-outlook.md)** method.
+To obtain an instance of the  **FormRegion** object, an add-in must implement the **[FormRegionStartup](Outlook.formregionstartup.md)** interface. Outlook allocates storage for the form region, instantiates an instance of the **FormRegion** object, and returns the **FormRegion** object in the **[GetFormRegionStorage](Outlook.FormRegionStartup.GetFormRegionStorage.md)** method.
 
 When the add-in closes the frame for the form region, the add-in must release the object for the form region.
 
@@ -33,8 +33,8 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 |**Name**|
 |:-----|
-|[Close](formregion-close-event-outlook.md)|
-|[Expanded](formregion-expanded-event-outlook.md)|
+|[Close](Outlook.FormRegion.Close.md)|
+|[Expanded](Outlook.FormRegion.Expanded.md)|
 
 ## Methods
 
@@ -42,9 +42,9 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 |**Name**|
 |:-----|
-|[Reflow](formregion-reflow-method-outlook.md)|
-|[Select](formregion-select-method-outlook.md)|
-|[SetControlItemProperty](formregion-setcontrolitemproperty-method-outlook.md)|
+|[Reflow](Outlook.FormRegion.Reflow.md)|
+|[Select](Outlook.FormRegion.Select.md)|
+|[SetControlItemProperty](Outlook.FormRegion.SetControlItemProperty.md)|
 
 ## Properties
 
@@ -52,22 +52,22 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 |**Name**|
 |:-----|
-|[Application](formregion-application-property-outlook.md)|
-|[Class](formregion-class-property-outlook.md)|
-|[Detail](formregion-detail-property-outlook.md)|
-|[DisplayName](formregion-displayname-property-outlook.md)|
-|[EnableAutoLayout](formregion-enableautolayout-property-outlook.md)|
-|[Form](formregion-form-property-outlook.md)|
-|[FormRegionMode](formregion-formregionmode-property-outlook.md)|
-|[Inspector](formregion-inspector-property-outlook.md)|
-|[InternalName](formregion-internalname-property-outlook.md)|
-|[IsExpanded](formregion-isexpanded-property-outlook.md)|
-|[Item](formregion-item-property-outlook.md)|
-|[Language](formregion-language-property-outlook.md)|
-|[Parent](formregion-parent-property-outlook.md)|
-|[Session](formregion-session-property-outlook.md)|
-|[SuppressControlReplacement](formregion-suppresscontrolreplacement-property-outlook.md)|
-|[Visible](formregion-visible-property-outlook.md)|
+|[Application](Outlook.FormRegion.Application.md)|
+|[Class](Outlook.FormRegion.Class.md)|
+|[Detail](Outlook.FormRegion.Detail.md)|
+|[DisplayName](Outlook.FormRegion.DisplayName.md)|
+|[EnableAutoLayout](Outlook.FormRegion.EnableAutoLayout.md)|
+|[Form](Outlook.FormRegion.Form.md)|
+|[FormRegionMode](Outlook.FormRegion.FormRegionMode.md)|
+|[Inspector](Outlook.FormRegion.Inspector.md)|
+|[InternalName](Outlook.FormRegion.InternalName.md)|
+|[IsExpanded](Outlook.FormRegion.IsExpanded.md)|
+|[Item](Outlook.FormRegion.Item.md)|
+|[Language](Outlook.FormRegion.Language.md)|
+|[Parent](Outlook.FormRegion.Parent.md)|
+|[Session](Outlook.FormRegion.Session.md)|
+|[SuppressControlReplacement](Outlook.FormRegion.SuppressControlReplacement.md)|
+|[Visible](Outlook.FormRegion.Visible.md)|
 
 ## See also
 

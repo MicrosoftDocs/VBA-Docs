@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # RecurrencePattern Object (Outlook)
 
-Represents the pattern of incidence of recurring appointments and tasks for the associated  **[AppointmentItem](appointmentitem-object-outlook.md)** and **[TaskItem](taskitem-object-outlook.md)** object.
+Represents the pattern of incidence of recurring appointments and tasks for the associated  **[AppointmentItem](Outlook.AppointmentItem.md)** and **[TaskItem](Outlook.TaskItem.md)** object.
 
 
 ## Remarks
 
 Use the  **GetRecurrencePattern** method to return the **RecurrencePattern** object associated with an **AppointmentItem** or **TaskItem** object.
 
-Calling  **GetRecurrencePattern** or **ClearRecurrencePattern** has the side effect of setting the **IsRecurring** property of the item accordingly. This property can be used as required for efficient filtering of the **[Items](items-object-outlook.md)** object.
+Calling  **GetRecurrencePattern** or **ClearRecurrencePattern** has the side effect of setting the **IsRecurring** property of the item accordingly. This property can be used as required for efficient filtering of the **[Items](Outlook.Items.md)** object.
 
 The type of recurrence pattern is indicated by the  **[RecurrenceType](http://msdn.microsoft.com/library/bc9b35b5-ef00-e5cf-09cc-ee8743efddcf%28Office.15%29.aspx)** property. The **RecurrenceType** property is the first property you should set.
 
@@ -38,7 +38,7 @@ The following table shows the properties that are valid for the different recurr
 |**olRecursMonthNth**|**DayOfWeekMask**, **Duration**, **EndTime**, **Interval**, **[Instance](http://msdn.microsoft.com/library/3458aeff-97b7-02f8-e352-203ecc92dedd%28Office.15%29.aspx)**, **NoEndDate**, **Occurrences**, **PatternStartDate**, **PatternEndDate**, **StartTime**|A value N for  **Interval** is every N months. An example of value N for **Instance** is every Nth Tuesday. An example of **DayofWeekMask** is every Tuesday and Wednesday.|
 |**olRecursYearly**|**DayOfMonth**, **Duration**, **EndTime**, **Interval**, **[MonthOfYear](http://msdn.microsoft.com/library/14112950-1e2a-a99a-7c48-3e76358de645%28Office.15%29.aspx)**, **NoEndDate**, **Occurrences**, **PatternStartDate**, **PatternEndDate**, **StartTime**|A value N for  **DayofMonth** is the Nth day of the month. An example of **MonthOfYear** is February.|
 |**olRecursYearNth**|**DayOfWeekMask**, **Duration**, **EndTime**, **Interval**, **Instance**, **NoEndDate**, **Occurrences**, **PatternStartDate**, **PatternEndDate**, **StartTime**|An example of value N for  **Instance** is the Nth Tuesday. An example of **DayofWeekMask** is Tuesday, Wednesday, and Thursday. An example of **MonthOfYear** is February.|
-When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring  **AppointmentItem** object, and any **[Exception](http://msdn.microsoft.com/library/010552b0-9ba6-c81b-1e3a-fd6a681e5163%28Office.15%29.aspx)** or **[RecurrencePattern](recurrencepattern-object-outlook.md)** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object. For a code example, see the topic for the **AppointmentItem** object.
+When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring  **AppointmentItem** object, and any **[Exception](http://msdn.microsoft.com/library/010552b0-9ba6-c81b-1e3a-fd6a681e5163%28Office.15%29.aspx)** or **[RecurrencePattern](Outlook.RecurrencePattern.md)** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object. For a code example, see the topic for the **AppointmentItem** object.
 
 Note that even after you release your reference and attempt to obtain a new reference, if there is still an active reference, held by another add-in or Outlook, to one of the above objects, your new reference will still point to an out-of-date copy of the object. Therefore, it is important that you release your references as soon as you are finished with the recurring appointment.
 

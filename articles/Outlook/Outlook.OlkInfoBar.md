@@ -40,11 +40,11 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Click](olkinfobar-click-event-outlook.md)|
-|[DoubleClick](olkinfobar-doubleclick-event-outlook.md)|
-|[MouseDown](olkinfobar-mousedown-event-outlook.md)|
-|[MouseMove](olkinfobar-mousemove-event-outlook.md)|
-|[MouseUp](olkinfobar-mouseup-event-outlook.md)|
+|[Click](Outlook.OlkInfoBar.Click.md)|
+|[DoubleClick](Outlook.OlkInfoBar.DoubleClick.md)|
+|[MouseDown](Outlook.OlkInfoBar.MouseDown.md)|
+|[MouseMove](Outlook.OlkInfoBar.MouseMove.md)|
+|[MouseUp](Outlook.OlkInfoBar.MouseUp.md)|
 
 ## Properties
 
@@ -52,8 +52,8 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[MouseIcon](olkinfobar-mouseicon-property-outlook.md)|
-|[MousePointer](olkinfobar-mousepointer-property-outlook.md)|
+|[MouseIcon](Outlook.OlkInfoBar.MouseIcon.md)|
+|[MousePointer](Outlook.OlkInfoBar.MousePointer.md)|
 
 ## See also
 

@@ -26,7 +26,7 @@ Occurs before the item is automatically saved by Outlook.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[RemoteItem](remoteitem-object-outlook.md)** to be saved.|
+| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[RemoteItem](Outlook.RemoteItem.md)** to be saved.|
 
 ## See also
 
@@ -34,5 +34,5 @@ Occurs before the item is automatically saved by Outlook.
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

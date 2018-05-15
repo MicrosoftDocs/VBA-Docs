@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BeforeFolderSharingDialog Event (Outlook)
 
-Occurs before the  **Sharing** dialog box is displayed for a selected **[Folder](folder-object-outlook.md)** object.
+Occurs before the  **Sharing** dialog box is displayed for a selected **[Folder](Outlook.Folder.md)** object.
 
 
 ## Syntax
@@ -43,5 +43,5 @@ This event provides an add-in with the capability of replacing the sharing user 
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

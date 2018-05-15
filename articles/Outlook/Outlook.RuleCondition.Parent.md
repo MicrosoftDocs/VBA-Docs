@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **[RuleCondition](rulecondition-object-outlook.md)** object is the **[Rule](rule-object-outlook.md)** object.
+The parent of the  **[RuleCondition](Outlook.RuleCondition.md)** object is the **[Rule](Outlook.Rule.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of the  **[RuleCondition](rulecondition-object-outlook.md)** object i
 #### Concepts
 
 
-[RuleCondition Object](rulecondition-object-outlook.md)
+[RuleCondition Object](Outlook.RuleCondition.md)
 

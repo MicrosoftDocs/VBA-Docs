@@ -22,16 +22,16 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
 ## Remarks
 
-The  **BeforeRead** event occurs before the **[Read](taskrequestupdateitem-read-event-outlook.md)** event. Unlike other events with the Before prefix, this event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](taskrequestupdateitem-unload-event-outlook.md)** event.
+The  **BeforeRead** event occurs before the **[Read](Outlook.TaskRequestUpdateItem.Read.md)** event. Unlike other events with the Before prefix, this event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](Outlook.TaskRequestUpdateItem.Unload.md)** event.
 
 The  **BeforeRead** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnRead** .
 
 Only the following members of the item object can be accessed in the  **BeforeRead** event:
 
 
--  **[Class](taskrequestupdateitem-class-property-outlook.md)**
+-  **[Class](Outlook.TaskRequestUpdateItem.Class.md)**
     
--  **[MessageClass](taskrequestupdateitem-messageclass-property-outlook.md)**
+-  **[MessageClass](Outlook.TaskRequestUpdateItem.MessageClass.md)**
     
 -  **MAPIOBJECT**
     
@@ -48,5 +48,5 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 #### Concepts
 
 
-[TaskRequestUpdateItem Object](taskrequestupdateitem-object-outlook.md)
+[TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

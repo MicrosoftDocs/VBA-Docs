@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **[AssignToCategoryRuleAction](assigntocategoryruleaction-object-outlook.md)** object is the **[RuleAction](ruleaction-object-outlook.md)** object.
+The parent of the  **[AssignToCategoryRuleAction](assigntocategoryOutlook.RuleAction.md)** object is the **[RuleAction](Outlook.RuleAction.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of the  **[AssignToCategoryRuleAction](assigntocategoryruleaction-obj
 #### Concepts
 
 
-[AssignToCategoryRuleAction Object](assigntocategoryruleaction-object-outlook.md)
+[AssignToCategoryRuleAction Object](assigntocategoryOutlook.RuleAction.md)
 

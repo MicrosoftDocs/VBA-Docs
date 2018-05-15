@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BusinessCardView.SortFields Property (Outlook)
 
-Returns an  **[OrderFields](orderfields-object-outlook.md)** collection object that represents all the fields by which the view is sorted. Read-only.
+Returns an  **[OrderFields](Outlook.OrderFields.md)** collection object that represents all the fields by which the view is sorted. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OrderFields](orderfields-object-outlook.md)** collection object t
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

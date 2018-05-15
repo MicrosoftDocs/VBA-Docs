@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[PropertyPages Object](propertypages-object-outlook.md)
+[PropertyPages Object](Outlook.PropertyPages.md)
 

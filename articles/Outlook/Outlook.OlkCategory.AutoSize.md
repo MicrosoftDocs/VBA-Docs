@@ -36,5 +36,5 @@ This control assumes one line unless the contents expand and need more space. If
 #### Concepts
 
 
-[OlkCategory Object](olkcategory-object-outlook.md)
+[OlkCategory Object](Outlook.OlkCategory.md)
 

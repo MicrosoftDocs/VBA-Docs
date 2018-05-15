@@ -18,9 +18,9 @@ Represents the  **Contacts** navigation module in the Navigation Pane of an expl
 
 ## Remarks
 
-The  **ContactsModule** object, derived from the **[NavigationModule](navigationmodule-object-outlook.md)** object, provides access to the navigation groups contained in the **Contacts** navigation module of the Navigation Pane for an explorer. Use the **[GetNavigationModule](navigationmodules-getnavigationmodule-method-outlook.md)** method or the **[Item](navigationmodules-item-method-outlook.md)** method of the **[Modules](navigationpane-modules-property-outlook.md)** collection for the parent **[NavigationPane](navigationpane-object-outlook.md)** object to retrieve a **NavigationModule** object, then use the **[NavigationModuleType](navigationmodule-navigationmoduletype-property-outlook.md)** property of the **NavigationModule** object to retrieve the navigation module type. If the **NavigationModuleType** property is set to **olModuleContacts**, you can then cast the **NavigationModule** object reference as a **ContactsModule** object to access the **[NavigationGroups](contactsmodule-navigationgroups-property-outlook.md)** property for that navigation module.
+The  **ContactsModule** object, derived from the **[NavigationModule](Outlook.NavigationModule.md)** object, provides access to the navigation groups contained in the **Contacts** navigation module of the Navigation Pane for an explorer. Use the **[GetNavigationModule](Outlook.NavigationModules.GetNavigationModule.md)** method or the **[Item](Outlook.NavigationModules.Item.md)** method of the **[Modules](Outlook.NavigationPane.Modules.md)** collection for the parent **[NavigationPane](Outlook.NavigationPane.md)** object to retrieve a **NavigationModule** object, then use the **[NavigationModuleType](Outlook.NavigationModule.NavigationModuleType.md)** property of the **NavigationModule** object to retrieve the navigation module type. If the **NavigationModuleType** property is set to **olModuleContacts**, you can then cast the **NavigationModule** object reference as a **ContactsModule** object to access the **[NavigationGroups](Outlook.ContactsModule.NavigationGroups.md)** property for that navigation module.
 
-You can use the  **[Visible](contactsmodule-visible-property-outlook.md)** property to determine if the navigation module is visible and the **[Position](contactsmodule-position-property-outlook.md)** property to return or set the display position of the navigation module within the Navigation Pane. You can use the **[Name](contactsmodule-name-property-outlook.md)** property to return the display name of the **Contacts** navigation module within the Navigation Pane.
+You can use the  **[Visible](Outlook.ContactsModule.Visible.md)** property to determine if the navigation module is visible and the **[Position](Outlook.ContactsModule.Position.md)** property to return or set the display position of the navigation module within the Navigation Pane. You can use the **[Name](Outlook.ContactsModule.Name.md)** property to return the display name of the **Contacts** navigation module within the Navigation Pane.
 
 
 ## Properties
@@ -29,15 +29,15 @@ You can use the  **[Visible](contactsmodule-visible-property-outlook.md)** prope
 
 |**Name**|
 |:-----|
-|[Application](contactsmodule-application-property-outlook.md)|
-|[Class](contactsmodule-class-property-outlook.md)|
-|[Name](contactsmodule-name-property-outlook.md)|
-|[NavigationGroups](contactsmodule-navigationgroups-property-outlook.md)|
-|[NavigationModuleType](contactsmodule-navigationmoduletype-property-outlook.md)|
+|[Application](Outlook.ContactsModule.Application.md)|
+|[Class](Outlook.ContactsModule.Class.md)|
+|[Name](Outlook.ContactsModule.Name.md)|
+|[NavigationGroups](Outlook.ContactsModule.NavigationGroups.md)|
+|[NavigationModuleType](Outlook.ContactsModule.NavigationModuleType.md)|
 |[Parent](contactsmodule-parent-property-outlook.md)|
-|[Position](contactsmodule-position-property-outlook.md)|
+|[Position](Outlook.ContactsModule.Position.md)|
 |[Session](contactsmodule-session-property-outlook.md)|
-|[Visible](contactsmodule-visible-property-outlook.md)|
+|[Visible](Outlook.ContactsModule.Visible.md)|
 
 ## See also
 

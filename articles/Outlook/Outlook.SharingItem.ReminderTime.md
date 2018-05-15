@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReminderTime Property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time at which the reminder should occur for the specified **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a  **Date** indicating the date and time at which the reminder should occur for the specified **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Date** indicating the date and time at which the reminder s
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

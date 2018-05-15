@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Comments Property (Outlook)
 
-Returns a  **String** representing the comments for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read/write.
+Returns a  **String** representing the comments for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** . Read/write.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ This property corresponds to the MAPI property,  **PidTagComment** .
 #### Concepts
 
 
-[ExchangeDistributionList Object](exchangedistributionlist-object-outlook.md)
+[ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

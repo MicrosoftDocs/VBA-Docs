@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents a contact's Microsoft Instant Mess
 
 ## Remarks
 
-Unlike the  **[Recipients](mailitem-recipients-property-outlook.md)** or **[To](mailitem-to-property-outlook.md)** properties, there is no way to verify that the **IMAddress** property contains a valid address.
+Unlike the  **[Recipients](Outlook.MailItem.Recipients.md)** or **[To](Outlook.MailItem.To.md)** properties, there is no way to verify that the **IMAddress** property contains a valid address.
 
 
 ## Example
@@ -60,5 +60,5 @@ End Sub
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

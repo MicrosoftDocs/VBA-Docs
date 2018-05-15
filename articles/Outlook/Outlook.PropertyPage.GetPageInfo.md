@@ -56,5 +56,5 @@ End Sub
 #### Concepts
 
 
-[PropertyPage Object](propertypage-object-outlook.md)
+[PropertyPage Object](Outlook.PropertyPage.md)
 

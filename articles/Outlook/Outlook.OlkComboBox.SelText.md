@@ -25,7 +25,7 @@ Returns a  **String** that represents the selected portion of the value of the c
 
 ## Remarks
 
- **SelText** represents the current selection, which is a portion of the control's **[Value](olkcombobox-value-property-outlook.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](olkcombobox-maxlength-property-outlook.md)** .
+ **SelText** represents the current selection, which is a portion of the control's **[Value](Outlook.OlkComboBox.Value.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkComboBox.MaxLength.md)** .
 
 The default value is an empty string.
 
@@ -36,5 +36,5 @@ The default value is an empty string.
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

@@ -38,19 +38,19 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AfterUpdate](olkoptionbutton-afterupdate-event-outlook.md)|
-|[BeforeUpdate](olkoptionbutton-beforeupdate-event-outlook.md)|
-|[Change](olkoptionbutton-change-event-outlook.md)|
-|[Click](olkoptionbutton-click-event-outlook.md)|
-|[DoubleClick](olkoptionbutton-doubleclick-event-outlook.md)|
-|[Enter](olkoptionbutton-enter-event-outlook.md)|
-|[Exit](olkoptionbutton-exit-event-outlook.md)|
-|[KeyDown](olkoptionbutton-keydown-event-outlook.md)|
-|[KeyPress](olkoptionbutton-keypress-event-outlook.md)|
-|[KeyUp](olkoptionbutton-keyup-event-outlook.md)|
-|[MouseDown](olkoptionbutton-mousedown-event-outlook.md)|
-|[MouseMove](olkoptionbutton-mousemove-event-outlook.md)|
-|[MouseUp](olkoptionbutton-mouseup-event-outlook.md)|
+|[AfterUpdate](Outlook.OlkOptionButton.AfterUpdate.md)|
+|[BeforeUpdate](Outlook.OlkOptionButton.BeforeUpdate.md)|
+|[Change](Outlook.OlkOptionButton.Change.md)|
+|[Click](Outlook.OlkOptionButton.Click.md)|
+|[DoubleClick](Outlook.OlkOptionButton.DoubleClick.md)|
+|[Enter](Outlook.OlkOptionButton.Enter.md)|
+|[Exit](Outlook.OlkOptionButton.Exit.md)|
+|[KeyDown](Outlook.OlkOptionButton.KeyDown.md)|
+|[KeyPress](Outlook.OlkOptionButton.KeyPress.md)|
+|[KeyUp](Outlook.OlkOptionButton.KeyUp.md)|
+|[MouseDown](Outlook.OlkOptionButton.MouseDown.md)|
+|[MouseMove](Outlook.OlkOptionButton.MouseMove.md)|
+|[MouseUp](Outlook.OlkOptionButton.MouseUp.md)|
 
 ## Properties
 
@@ -58,19 +58,19 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Accelerator](olkoptionbutton-accelerator-property-outlook.md)|
-|[Alignment](olkoptionbutton-alignment-property-outlook.md)|
-|[BackColor](olkoptionbutton-backcolor-property-outlook.md)|
-|[BackStyle](olkoptionbutton-backstyle-property-outlook.md)|
-|[Caption](olkoptionbutton-caption-property-outlook.md)|
-|[Enabled](olkoptionbutton-enabled-property-outlook.md)|
-|[Font](olkoptionbutton-font-property-outlook.md)|
-|[ForeColor](olkoptionbutton-forecolor-property-outlook.md)|
-|[GroupName](olkoptionbutton-groupname-property-outlook.md)|
-|[MouseIcon](olkoptionbutton-mouseicon-property-outlook.md)|
-|[MousePointer](olkoptionbutton-mousepointer-property-outlook.md)|
-|[Value](olkoptionbutton-value-property-outlook.md)|
-|[WordWrap](olkoptionbutton-wordwrap-property-outlook.md)|
+|[Accelerator](Outlook.OlkOptionButton.Accelerator.md)|
+|[Alignment](Outlook.OlkOptionButton.Alignment.md)|
+|[BackColor](Outlook.OlkOptionButton.BackColor.md)|
+|[BackStyle](Outlook.OlkOptionButton.BackStyle.md)|
+|[Caption](Outlook.OlkOptionButton.Caption.md)|
+|[Enabled](Outlook.OlkOptionButton.Enabled.md)|
+|[Font](Outlook.OlkOptionButton.Font.md)|
+|[ForeColor](Outlook.OlkOptionButton.ForeColor.md)|
+|[GroupName](Outlook.OlkOptionButton.GroupName.md)|
+|[MouseIcon](Outlook.OlkOptionButton.MouseIcon.md)|
+|[MousePointer](Outlook.OlkOptionButton.MousePointer.md)|
+|[Value](Outlook.OlkOptionButton.Value.md)|
+|[WordWrap](Outlook.OlkOptionButton.WordWrap.md)|
 
 ## See also
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroups.Delete Method (Outlook)
 
-Deletes the specified  **[NavigationGroup](navigationgroup-object-outlook.md)** object from the **[NavigationGroups](navigationgroups-object-outlook.md)** collection.
+Deletes the specified  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## Syntax
@@ -36,11 +36,11 @@ Deletes the specified  **[NavigationGroup](navigationgroup-object-outlook.md)** 
 The  **Delete** method raises an error if:
 
 
--  The navigation group specified in _Group_ contains navigation folders in its **[NavigationFolders](navigationfolders-object-outlook.md)** collection.
+-  The navigation group specified in _Group_ contains navigation folders in its **[NavigationFolders](Outlook.NavigationFolders.md)** collection.
     
-- The  **[GroupType](navigationgroup-grouptype-property-outlook.md)** property of the navigation group specified in _Group_ is set to **olMyFoldersGroup** .
+- The  **[GroupType](Outlook.NavigationGroup.GroupType.md)** property of the navigation group specified in _Group_ is set to **olMyFoldersGroup** .
     
-- The parent of the  **NavigationGroups** collection is a **[MailModule](mailmodule-object-outlook.md)** object.
+- The parent of the  **NavigationGroups** collection is a **[MailModule](Outlook.MailModule.md)** object.
     
 
 ## See also
@@ -49,5 +49,5 @@ The  **Delete** method raises an error if:
 #### Concepts
 
 
-[NavigationGroups Object](navigationgroups-object-outlook.md)
+[NavigationGroups Object](Outlook.NavigationGroups.md)
 

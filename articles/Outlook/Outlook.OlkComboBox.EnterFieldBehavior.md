@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.EnterFieldBehavior Property (Outlook)
 
-Returns or sets an  **[olEnterFieldBehavior](olenterfieldbehavior-enumeration-outlook.md)** constant that specifies the selection behavior when entering the control. Read/write.
+Returns or sets an  **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** constant that specifies the selection behavior when entering the control. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olEnterFieldBehaviorSelectAll** .
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

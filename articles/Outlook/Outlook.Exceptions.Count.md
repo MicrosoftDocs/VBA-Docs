@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Exceptions Object](exceptions-object-outlook.md)
+[Exceptions Object](Outlook.Exceptions.md)
 

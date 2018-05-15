@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagSubject** . The **Subjec
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

@@ -25,7 +25,7 @@ Returns the Microsoft Word Document Object Model of the message being displayed.
 
 ## Remarks
 
-The  **WordEditor** property is only valid if the **[IsWordMail](inspector-iswordmail-method-outlook.md)** method returns **True** and the **[EditorType](inspector-editortype-property-outlook.md)** property is **olEditorWord** . The returned **WordDocument** object provides access to most of the Word object model except for the following members:
+The  **WordEditor** property is only valid if the **[IsWordMail](Outlook.Inspector.IsWordMail.md)** method returns **True** and the **[EditorType](Outlook.Inspector.EditorType.md)** property is **olEditorWord** . The returned **WordDocument** object provides access to most of the Word object model except for the following members:
 
 
 -  **Tables.Add**
@@ -51,5 +51,5 @@ The  **WordEditor** property is only valid if the **[IsWordMail](inspector-iswor
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

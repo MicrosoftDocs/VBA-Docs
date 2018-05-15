@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Conflict Object](conflict-object-outlook.md)
+[Conflict Object](Outlook.Conflict.md)
 

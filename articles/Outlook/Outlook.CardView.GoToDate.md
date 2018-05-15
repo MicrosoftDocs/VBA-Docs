@@ -37,5 +37,5 @@ Changes the date used by the current view to display information.
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

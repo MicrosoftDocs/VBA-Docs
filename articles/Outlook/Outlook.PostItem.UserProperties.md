@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.UserProperties Property (Outlook)
 
-Returns the  **[UserProperties](userproperties-object-outlook.md)** collection that represents all the user properties for the Outlook item. Read-only.
+Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns the  **[UserProperties](userproperties-object-outlook.md)** collection t
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

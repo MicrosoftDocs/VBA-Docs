@@ -33,7 +33,7 @@ Occurs when an Outlook item is loaded into memory.
 
 ## Remarks
 
-This event occurs when the Outlook item begins to load into memory. Data for the item is not yet available, other than the values for the  **Class** and **MessageClass** properties of the Outlook item, so an error occurs when calling any property other than **Class** or **MessageClass** for the Outlook item returned in _Item_. Similarly, an error occurs if you attempt to call any method from the Outlook item, or if you call the  **[GetObjectReference](application-getobjectreference-method-outlook.md)** method of the **[Application](application-object-outlook.md)** object on the Outlook item returned in _Item_.
+This event occurs when the Outlook item begins to load into memory. Data for the item is not yet available, other than the values for the  **Class** and **MessageClass** properties of the Outlook item, so an error occurs when calling any property other than **Class** or **MessageClass** for the Outlook item returned in _Item_. Similarly, an error occurs if you attempt to call any method from the Outlook item, or if you call the  **[GetObjectReference](Outlook.Application.GetObjectReference.md)** method of the **[Application](Outlook.Application.md)** object on the Outlook item returned in _Item_.
 
 The  **ItemLoad** event should typically be implemented as a means to hook up item-level event handlers such as **BeforeRead**,  **Open**,  **Send**, and  **Write**.
 
@@ -55,5 +55,5 @@ This event is not raised when the following conditions occur:
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

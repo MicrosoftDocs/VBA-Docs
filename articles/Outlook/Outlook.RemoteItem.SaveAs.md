@@ -20,7 +20,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 
  _expression_ . **SaveAs**( **_Path_** , **_Type_** )
 
- _expression_ A variable that represents a **[RemoteItem](remoteitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[RemoteItem](Outlook.RemoteItem.md)** object.
 
 
 ### Parameters
@@ -30,7 +30,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path in which to save the item.|
-| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **[OlSaveAsType](olsaveastype-enumeration-outlook.md)** constants: **olHTML** , **olMSG** , **olRTF** , **olTemplate** , **olDoc** , ** olTXT** , **olVCal** , **olVCard** , **olICal** , or **olMSGUnicode** .|
+| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **[OlSaveAsType](Outlook.OlSaveAsType.md)** constants: **olHTML** , **olMSG** , **olRTF** , **olTemplate** , **olDoc** , ** olTXT** , **olVCal** , **olVCard** , **olICal** , or **olMSGUnicode** .|
 
 ## Remarks
 
@@ -43,5 +43,5 @@ Also note that even though  **olDoc** is a valid **OlSaveAsType** constant, mess
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

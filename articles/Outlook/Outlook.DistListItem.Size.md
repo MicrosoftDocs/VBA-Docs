@@ -29,5 +29,5 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

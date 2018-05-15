@@ -42,6 +42,6 @@ Specifies the folder type for a specified folder.
 
 ## Remarks
 
-Used as a parameter to the [NameSpace.GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md), [NameSpace.GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md), [Store.GetDefaultFolder](store-getdefaultfolder-method-outlook.md), and [Folder.Add](folders-add-method-outlook.md) methods. Also used by the[SharingItem.RequestFolder](sharingitem-requestedfolder-property-outlook.md) property.
+Used as a parameter to the [NameSpace.GetSharedDefaultFolder](Outlook.NameSpace.GetSharedDefaultFolder.md), [NameSpace.GetDefaultFolder](Outlook.NameSpace.GetDefaultFolder.md), [Store.GetDefaultFolder](Outlook.Store.GetDefaultFolder.md), and [Folder.Add](Outlook.Folders.Add.md) methods. Also used by the[SharingItem.RequestFolder](Outlook.SharingItem.RequestedFolder.md) property.
 
 

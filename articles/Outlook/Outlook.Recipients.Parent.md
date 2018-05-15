@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Recipients Object](recipients-object-outlook.md)
+[Recipients Object](Outlook.Recipients.md)
 

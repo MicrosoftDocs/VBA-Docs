@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Page Object (Outlook Forms Script)
 
-Represents one page of a  **[MultiPage](multipage-object-outlook-forms-script.md)** or a single member of a **[Pages](pages-object-outlook-forms-script.md)** collection.
+Represents one page of a  **[MultiPage](Outlook.multipage.md)** or a single member of a **[Pages](Outlook.pages(object).md)** collection.
 
 
 ## Remarks

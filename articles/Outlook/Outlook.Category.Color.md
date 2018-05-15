@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Category.Color Property (Outlook)
 
-Returns or sets an  **[OlCategoryColor](olcategorycolor-enumeration-outlook.md)** constant that indicates the color used by the **[Category](category-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant that indicates the color used by the **[Category](Outlook.Category.md)** object. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ You can share the same color for multiple categories, by specifying the same con
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing color assignments for each  **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing color assignments for each  **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ```vb
@@ -133,5 +133,5 @@ End Sub
 #### Concepts
 
 
-[Category Object](category-object-outlook.md)
+[Category Object](Outlook.Category.md)
 

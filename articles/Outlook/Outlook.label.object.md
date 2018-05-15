@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Label Object (Outlook Forms Script)](label-object-outlook-forms-script.md)
+-  [Label Object (Outlook Forms Script)](Outlook.label.md)
     
 -  [Label Members (Outlook Forms Script)](label-members-outlook-forms-script.md)
     

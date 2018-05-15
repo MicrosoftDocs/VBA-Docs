@@ -47,5 +47,5 @@ Occurs after the data in the control has been changed through the user interface
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

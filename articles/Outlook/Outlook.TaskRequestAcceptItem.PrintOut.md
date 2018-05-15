@@ -29,5 +29,5 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

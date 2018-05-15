@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.AutoPreviewFont Property (Outlook)
 
-Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the font used when automatically previewing Outlook items in the **[TableView](tableview-object-outlook.md)** object. Read-only.
+Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font used when automatically previewing Outlook items in the **[TableView](Outlook.TableView.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample decrements the value of the  **[Size](viewfont-size-property-outlook.md)** property for the **ViewFont** object returned from the **AutoPreviewFont** property for the current **TableView** object.
+The following Visual Basic for Applications (VBA) sample decrements the value of the  **[Size](Outlook.ViewFont.Size.md)** property for the **ViewFont** object returned from the **AutoPreviewFont** property for the current **TableView** object.
 
 
 ```vb
@@ -85,5 +85,5 @@ End Sub
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

@@ -18,9 +18,9 @@ Represents an Outlook item that is in conflict with another Outlook item.
 
 ## Remarks
 
- Each Outlook item has a **[Conflicts](conflicts-object-outlook.md)** collection object associated with it that represents all the items that are in conflict with that item.
+ Each Outlook item has a **[Conflicts](Outlook.Conflicts.md)** collection object associated with it that represents all the items that are in conflict with that item.
 
-Use the  **[Item](conflicts-item-method-outlook.md)** method to retrieve a particular **Conflict** object from the **Conflicts** collection object, for example:
+Use the  **[Item](Outlook.Conflicts.Item.md)** method to retrieve a particular **Conflict** object from the **Conflicts** collection object, for example:
 
 
 ## Example
@@ -39,13 +39,13 @@ Set myConflictItem = myConflicts.Item(1)
 
 |**Name**|
 |:-----|
-|[Application](conflict-application-property-outlook.md)|
-|[Class](conflict-class-property-outlook.md)|
-|[Item](conflict-item-property-outlook.md)|
-|[Name](conflict-name-property-outlook.md)|
-|[Parent](conflict-parent-property-outlook.md)|
-|[Session](conflict-session-property-outlook.md)|
-|[Type](conflict-type-property-outlook.md)|
+|[Application](Outlook.Conflict.Application.md)|
+|[Class](Outlook.Conflict.Class.md)|
+|[Item](Outlook.Conflict.Item.md)|
+|[Name](Outlook.Conflict.Name.md)|
+|[Parent](Outlook.Conflict.Parent.md)|
+|[Session](Outlook.Conflict.Session.md)|
+|[Type](Outlook.Conflict.Type.md)|
 
 ## See also
 

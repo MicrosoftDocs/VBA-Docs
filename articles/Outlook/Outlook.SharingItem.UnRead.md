@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.UnRead Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the **[SharingItem](sharingitem-object-outlook.md)** has not been opened (read). Read/write.
+Returns or sets a  **Boolean** value that is **True** if the **[SharingItem](Outlook.SharingItem.md)** has not been opened (read). Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if the **[SharingItem](sha
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

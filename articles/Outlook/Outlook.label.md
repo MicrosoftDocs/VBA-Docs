@@ -18,7 +18,7 @@ Displays descriptive text.
 
 A  **Label** control on a form displays descriptive text such as titles, captions, pictures, or brief instructions. For example, labels for an address book might include a **Label** for a name, street, or city.
 
-The default property for a  **Label** is the **[Caption](frame-caption-property-outlook-forms-script.md)** property.
+The default property for a  **Label** is the **[Caption](Outlook.frame.caption.md)** property.
 
 You can also display a picture on a  **Label**. However, a  **Label** does not let you crop, size, or zoom the picture.
 

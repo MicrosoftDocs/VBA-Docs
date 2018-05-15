@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.Inspector Property (Outlook)
 
-Returns an  **[Inspector](inspector-object-outlook.md)** object representing the Inspector that hosts the form region. Read-only.
+Returns an  **[Inspector](Outlook.Inspector.md)** object representing the Inspector that hosts the form region. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Returns  **Null** ( **Nothing** in Visual Basic) if the form region is displayed
 #### Concepts
 
 
-[FormRegion Object](formregion-object-outlook.md)
+[FormRegion Object](Outlook.FormRegion.md)
 

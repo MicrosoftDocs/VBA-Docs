@@ -25,7 +25,7 @@ Returns a  **String** representing the display name of the first e-mail address 
 
 ## Remarks
 
-This property is set to the value of the  **[FullName](contactitem-fullname-property-outlook.md)** property by default.
+This property is set to the value of the  **[FullName](Outlook.ContactItem.FullName.md)** property by default.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is set to the value of the  **[FullName](contactitem-fullname-prop
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

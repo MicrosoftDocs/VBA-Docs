@@ -18,7 +18,7 @@ Contains a collection of [Outlook item objects](http://msdn.microsoft.com/librar
 
 ## Remarks
 
-Use the  **[Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3%28Office.15%29.aspx)** property to return the **Items** object of a **[Folder](folder-object-outlook.md)** object.
+Use the  **[Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3%28Office.15%29.aspx)** property to return the **Items** object of a **[Folder](Outlook.Folder.md)** object.
 
 Use  **Items** ( _index_ ), where _index_ is the name or index number, to return a single Outlook item.
 

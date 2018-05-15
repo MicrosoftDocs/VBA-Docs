@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskRequestItem.DownloadState Property (Outlook)
 
-Returns a constant that belongs to the  **[OlDownloadState](oldownloadstate-enumeration-outlook.md)** enumeration indicating the download state of the item. Read-only.
+Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadState.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
@@ -81,5 +81,5 @@ End Sub
 #### Concepts
 
 
-[TaskRequestItem Object](taskrequestitem-object-outlook.md)
+[TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

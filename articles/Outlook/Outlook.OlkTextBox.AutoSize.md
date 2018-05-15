@@ -38,5 +38,5 @@ For a multiline text box that contains no text, setting  **AutoSize** to **True*
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

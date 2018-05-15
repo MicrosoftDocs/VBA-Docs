@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TimeZones Property (Outlook)
 
-Returns a  **[TimeZones](timezones-object-outlook.md)** collection that represents the set of time zones supported by Outlook. Read-only.
+Returns a  **[TimeZones](Outlook.TimeZones.md)** collection that represents the set of time zones supported by Outlook. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The set of time zones supported by Outlook is based on the data stored in the Wi
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

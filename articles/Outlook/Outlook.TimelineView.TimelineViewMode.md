@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.TimelineViewMode Property (Outlook)
 
-Returns or sets an  **[OlTimelineViewMode](oltimelineviewmode-enumeration-outlook.md)** constant that indicates the view mode for the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlTimelineViewMode](Outlook.OlTimelineViewMode.md)** constant that indicates the view mode for the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax
@@ -113,5 +113,5 @@ End Sub
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

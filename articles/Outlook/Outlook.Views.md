@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # Views Object (Outlook)
 
-Contains a collection of all  **[View](view-object-outlook.md)** objects in the current folder.
+Contains a collection of all  **[View](Outlook.View.md)** objects in the current folder.
 
 
 ## Remarks
 
-Use the  **Views** property of the **[Folder](folder-object-outlook.md)** object to return the **Views** collection. Use **Views** ( _index_ ),where _index_ is the object's name or position within the collection, to return a single **View** object.
+Use the  **Views** property of the **[Folder](Outlook.Folder.md)** object to return the **Views** collection. Use **Views** ( _index_ ),where _index_ is the object's name or position within the collection, to return a single **View** object.
 
-Use the  **[Add](views-add-method-outlook.md)** method of the views collection to add a new view to the collection.
+Use the  **[Add](Outlook.Views.Add.md)** method of the views collection to add a new view to the collection.
 
-Use the  **[Remove](views-remove-method-outlook.md)** method to remove a view from the collection.
+Use the  **[Remove](Outlook.Views.Remove.md)** method to remove a view from the collection.
 
 
 ## Example
@@ -122,8 +122,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[ViewAdd](views-viewadd-event-outlook.md)|
-|[ViewRemove](views-viewremove-event-outlook.md)|
+|[ViewAdd](Outlook.Views.ViewAdd.md)|
+|[ViewRemove](Outlook.ViewRemove.md)|
 
 ## Methods
 
@@ -131,9 +131,9 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Add](views-add-method-outlook.md)|
-|[Item](views-item-method-outlook.md)|
-|[Remove](views-remove-method-outlook.md)|
+|[Add](Outlook.Views.Add.md)|
+|[Item](Outlook.Views.Item.md)|
+|[Remove](Outlook.Views.Remove.md)|
 
 ## Properties
 
@@ -141,9 +141,9 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](views-application-property-outlook.md)|
-|[Class](views-class-property-outlook.md)|
-|[Count](views-count-property-outlook.md)|
+|[Application](Outlook.Views.Application.md)|
+|[Class](Outlook.Views.Class.md)|
+|[Count](Outlook.Views.Count.md)|
 |[Parent](views-parent-property-outlook.md)|
 |[Session](views-session-property-outlook.md)|
 

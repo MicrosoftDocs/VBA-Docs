@@ -38,17 +38,17 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Change](olkcategory-change-event-outlook.md)|
-|[Click](olkcategory-click-event-outlook.md)|
-|[DoubleClick](olkcategory-doubleclick-event-outlook.md)|
-|[Enter](olkcategory-enter-event-outlook.md)|
-|[Exit](olkcategory-exit-event-outlook.md)|
-|[KeyDown](olkcategory-keydown-event-outlook.md)|
-|[KeyPress](olkcategory-keypress-event-outlook.md)|
-|[KeyUp](olkcategory-keyup-event-outlook.md)|
-|[MouseDown](olkcategory-mousedown-event-outlook.md)|
-|[MouseMove](olkcategory-mousemove-event-outlook.md)|
-|[MouseUp](olkcategory-mouseup-event-outlook.md)|
+|[Change](Outlook.OlkCategory.Change.md)|
+|[Click](Outlook.OlkCategory.Click.md)|
+|[DoubleClick](Outlook.OlkCategory.DoubleClick.md)|
+|[Enter](Outlook.OlkCategory.Enter.md)|
+|[Exit](Outlook.OlkCategory.Exit.md)|
+|[KeyDown](Outlook.OlkCategory.KeyDown.md)|
+|[KeyPress](Outlook.OlkCategory.KeyPress.md)|
+|[KeyUp](Outlook.OlkCategory.KeyUp.md)|
+|[MouseDown](Outlook.OlkCategory.MouseDown.md)|
+|[MouseMove](Outlook.OlkCategory.MouseMove.md)|
+|[MouseUp](Outlook.OlkCategory.MouseUp.md)|
 
 ## Properties
 
@@ -56,13 +56,13 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AutoSize](olkcategory-autosize-property-outlook.md)|
-|[BackColor](olkcategory-backcolor-property-outlook.md)|
-|[BackStyle](olkcategory-backstyle-property-outlook.md)|
-|[Enabled](olkcategory-enabled-property-outlook.md)|
-|[ForeColor](olkcategory-forecolor-property-outlook.md)|
-|[MouseIcon](olkcategory-mouseicon-property-outlook.md)|
-|[MousePointer](olkcategory-mousepointer-property-outlook.md)|
+|[AutoSize](Outlook.OlkCategory.AutoSize.md)|
+|[BackColor](Outlook.OlkCategory.BackColor.md)|
+|[BackStyle](Outlook.OlkCategory.BackStyle.md)|
+|[Enabled](Outlook.OlkCategory.Enabled.md)|
+|[ForeColor](Outlook.OlkCategory.ForeColor.md)|
+|[MouseIcon](Outlook.OlkCategory.MouseIcon.md)|
+|[MousePointer](Outlook.OlkCategory.MousePointer.md)|
 
 ## See also
 

@@ -20,12 +20,12 @@ Returns a  **String** that represents information in XML retrieved from the auto
 
  _expression_ . **AutoDiscoverXml**
 
- _expression_ A variable that represents an **[Account](account-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Account](Outlook.Account.md)** object.
 
 
 ## Remarks
 
-This property is similar to the  **[AutoDiscoverXml](namespace-autodiscoverxml-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the account for which auto-discovery is completed and not necessarily to the primary Exchange account.
+This property is similar to the  **[AutoDiscoverXml](Outlook.NameSpace.AutoDiscoverXml.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that this property applies to the account for which auto-discovery is completed and not necessarily to the primary Exchange account.
 
 The returned string of XML contains information about various Web services (for example, availability service and unified messaging service) and available servers.
 
@@ -38,5 +38,5 @@ An error is returned if the account is not associated with an Exchange Server th
 #### Concepts
 
 
-[Account Object](account-object-outlook.md)
+[Account Object](Outlook.Account.md)
 

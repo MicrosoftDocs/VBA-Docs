@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntries.GetNext Method (Outlook)
 
-Returns the next object in the  **[AddressEntries](addressentries-object-outlook.md)** collection.
+Returns the next object in the  **[AddressEntries](Outlook.AddressEntries.md)** collection.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the next object in the  **[AddressEntries](addressentries-object-outlook
 
 ### Return Value
 
-An  **[AddressEntry](addressentry-object-outlook.md)** object that represents the next object contained by the collection.
+An  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the next object contained by the collection.
 
 
 ## Remarks
 
-It returns  **Nothing** if no next object exists, for example, if already positioned at the end of the collection.To ensure correct operation of the **[GetFirst](addressentries-getfirst-method-outlook.md)** , **[GetLast](addressentries-getlast-method-outlook.md)** , **GetNext** , and **[GetPrevious](addressentries-getprevious-method-outlook.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+It returns  **Nothing** if no next object exists, for example, if already positioned at the end of the collection.To ensure correct operation of the **[GetFirst](Outlook.AddressEntries.GetFirst.md)** , **[GetLast](Outlook.AddressEntries.GetLast.md)** , **GetNext** , and **[GetPrevious](Outlook.AddressEntries.GetPrevious.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## See also
@@ -39,5 +39,5 @@ It returns  **Nothing** if no next object exists, for example, if already positi
 #### Concepts
 
 
-[AddressEntries Object](addressentries-object-outlook.md)
+[AddressEntries Object](Outlook.AddressEntries.md)
 

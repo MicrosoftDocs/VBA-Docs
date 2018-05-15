@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

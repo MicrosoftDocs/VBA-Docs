@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the name suffix (such as Jr., III, or P
 
 ## Remarks
 
-The  **[LastName](contactitem-lastname-property-outlook.md)** , **[FirstName](contactitem-firstname-property-outlook.md)** , **[MiddleName](contactitem-middlename-property-outlook.md)** , and **Suffix** properties are parsed from the **[FullName](contactitem-fullname-property-outlook.md)** property.
+The  **[LastName](Outlook.ContactItem.LastName.md)** , **[FirstName](Outlook.ContactItem.FirstName.md)** , **[MiddleName](Outlook.ContactItem.MiddleName.md)** , and **Suffix** properties are parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property.
 
 
 ## See also
@@ -34,5 +34,5 @@ The  **[LastName](contactitem-lastname-property-outlook.md)** , **[FirstName](co
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

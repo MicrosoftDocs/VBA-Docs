@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BusinessCardView.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olBusinessCardView** for the **[BusinessCardView](businesscardview-object-outlook.md)** object.
+This property returns  **olBusinessCardView** for the **[BusinessCardView](Outlook.BusinessCardView.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olBusinessCardView** for the **[BusinessCardView](busin
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

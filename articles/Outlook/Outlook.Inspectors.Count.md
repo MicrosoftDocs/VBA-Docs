@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Inspectors Object](inspectors-object-outlook.md)
+[Inspectors Object](Outlook.Inspectors.md)
 

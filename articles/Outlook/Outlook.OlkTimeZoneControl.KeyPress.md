@@ -55,5 +55,5 @@ A  **KeyPress** event does not occur under the following conditions:
 #### Concepts
 
 
-[OlkTimeZoneControl Object](olktimezonecontrol-object-outlook.md)
+[OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

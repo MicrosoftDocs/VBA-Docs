@@ -25,6 +25,6 @@ Returns or sets a  **Long** that represents the number of columns to display in 
 
 Setting  **ColumnCount** to 0 displays zero columns, and setting it to -1 displays all the available columns. For an unbound data source, there is a 10-column limit (0 to 9).
 
-You can use the  **[ColumnWidths](combobox-columnwidths-property-outlook-forms-script.md)** property to set the width of the columns displayed in the control.
+You can use the  **[ColumnWidths](Outlook.combobox.columnwidths.md)** property to set the width of the columns displayed in the control.
 
 

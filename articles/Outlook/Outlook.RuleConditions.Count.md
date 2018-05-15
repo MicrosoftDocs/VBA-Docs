@@ -25,7 +25,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 ## Remarks
 
-You can enumerate the  **[RuleConditions](ruleconditions-object-outlook.md)** collection from 1 through **RuleConditions.Count** to determine all the rule conditions for an existing rule. Although the Rules OM supports creating rules with only the most commonly used rule conditions and not all rule conditions supported by the Rules and Alerts Wizard, the **RuleConditions** collection includes all rule conditions of a rule. Hence you can always enumerate the **RuleConditions** collection object to determine which rule conditions are enabled for an existing rule.
+You can enumerate the  **[RuleConditions](Outlook.RuleConditions.md)** collection from 1 through **RuleConditions.Count** to determine all the rule conditions for an existing rule. Although the Rules OM supports creating rules with only the most commonly used rule conditions and not all rule conditions supported by the Rules and Alerts Wizard, the **RuleConditions** collection includes all rule conditions of a rule. Hence you can always enumerate the **RuleConditions** collection object to determine which rule conditions are enabled for an existing rule.
 
 
 ## See also
@@ -34,5 +34,5 @@ You can enumerate the  **[RuleConditions](ruleconditions-object-outlook.md)** co
 #### Concepts
 
 
-[RuleConditions Object](ruleconditions-object-outlook.md)
+[RuleConditions Object](Outlook.RuleConditions.md)
 

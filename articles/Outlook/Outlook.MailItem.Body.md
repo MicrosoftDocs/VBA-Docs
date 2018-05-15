@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
 ## Remarks
 
-The  **[MailItem.BodyFormat](mailitem-bodyformat-property-outlook.md)** property allows you to programmatically change the editor that is used for the body of an item.
+The  **[MailItem.BodyFormat](Outlook.MailItem.BodyFormat.md)** property allows you to programmatically change the editor that is used for the body of an item.
 
 
 ## See also
@@ -34,7 +34,7 @@ The  **[MailItem.BodyFormat](mailitem-bodyformat-property-outlook.md)** property
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 #### Other resources
 
 

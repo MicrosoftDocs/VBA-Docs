@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Forward Event (Outlook)
 
-Occurs when the user selects the  **Forward** action for an item, or when the **[Forward](sharingitem-forward-method-outlook.md)** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the  **Forward** action for an item, or when the **[Forward](Outlook.SharingItem.Forward(method).md)** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -40,5 +40,5 @@ In VBScript, if you set the return value of this function to  **False** , the fo
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

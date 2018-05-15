@@ -29,7 +29,7 @@ Occurs immediately before a reminder is displayed.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required| **Object**|The  **[AppointmentItem](appointmentitem-object-outlook.md)** , **[MailItem](mailitem-object-outlook.md)** , **[ContactItem](contactitem-object-outlook.md)** , or **[TaskItem](taskitem-object-outlook.md)** associated with the reminder. If the appointment associated with the reminder is a recurring appointment, _Item_ is the specific occurrence of the appointment that displayed the reminder, not the master appointment.|
+| _Item_|Required| **Object**|The  **[AppointmentItem](Outlook.AppointmentItem.md)** , **[MailItem](Outlook.MailItem.md)** , **[ContactItem](Outlook.ContactItem.md)** , or **[TaskItem](Outlook.TaskItem.md)** associated with the reminder. If the appointment associated with the reminder is a recurring appointment, _Item_ is the specific occurrence of the appointment that displayed the reminder, not the master appointment.|
 
 ## Example
 
@@ -63,5 +63,5 @@ End Sub
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

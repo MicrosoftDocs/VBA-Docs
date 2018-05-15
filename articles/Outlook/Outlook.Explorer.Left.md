@@ -29,5 +29,5 @@ Returns or sets a  **Long** specifying the position (in pixels) of the left vert
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

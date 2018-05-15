@@ -26,6 +26,6 @@ Indicates the form registry (library) where the  **Form** is stored.
 
 ## Remarks
 
-Used as a parameter to the [FormDescription.PublishForm](formdescription-publishform-method-outlook.md) method to specify the form registry (library) in which to register the Form.
+Used as a parameter to the [FormDescription.PublishForm](Outlook.FormDescription.PublishForm.md) method to specify the form registry (library) in which to register the Form.
 
 

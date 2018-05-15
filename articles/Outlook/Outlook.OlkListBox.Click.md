@@ -29,5 +29,5 @@ Occurs when the user clicks inside the control.
 #### Concepts
 
 
-[OlkListBox Object](olklistbox-object-outlook.md)
+[OlkListBox Object](Outlook.OlkListBox.md)
 

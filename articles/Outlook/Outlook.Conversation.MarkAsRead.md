@@ -20,7 +20,7 @@ Marks all items in the conversation as read.
 
  _expression_ . **MarkAsRead**
 
- _expression_ A variable that represents a **[Conversation](conversation-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Marks all items in the conversation as read.
 #### Concepts
 
 
-[Conversation Object](conversation-object-outlook.md)
+[Conversation Object](Outlook.Conversation.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConversationHeader.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent Outlook application for the **[ConversationHeader](conversationheader-object-outlook.md)** object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the **[ConversationHeader](Outlook.ConversationHeader.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[ConversationHeader Object](conversationheader-object-outlook.md)
+[ConversationHeader Object](Outlook.ConversationHeader.md)
 

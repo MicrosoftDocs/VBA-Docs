@@ -16,7 +16,7 @@ Occurs when the user performs an action that causes an inline response to appear
 
  _expression_ . **InlineResponse**_(Item)_
 
- _expression_ A variable that represents an **[Explorer](explorer-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ### Parameters
@@ -39,5 +39,5 @@ This event returns an item object representing the inline response item.
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

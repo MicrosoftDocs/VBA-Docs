@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Actions Object](actions-object-outlook.md)
+[Actions Object](Outlook.Actions.md)
 

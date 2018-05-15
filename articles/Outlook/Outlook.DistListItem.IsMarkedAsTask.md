@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.IsMarkedAsTask Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[DistListItem](distlistitem-object-outlook.md)** is marked as a task. Read-only.
+Returns a  **Boolean** value that indicates whether the **[DistListItem](Outlook.DistListItem.md)** is marked as a task. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **Boolean** value that indicates whether the **[DistListItem](distlis
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

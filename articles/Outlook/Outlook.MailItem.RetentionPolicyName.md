@@ -34,5 +34,5 @@ Retention is enabled and disabled by an administrator for an Exchange Server on 
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

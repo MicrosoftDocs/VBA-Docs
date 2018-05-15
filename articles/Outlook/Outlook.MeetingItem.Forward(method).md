@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.Forward Method (Outlook)
 
-Executes the  **Forward** action for an item and returns the resulting copy as a **[MeetingItem](meetingitem-object-outlook.md)** object.
+Executes the  **Forward** action for an item and returns the resulting copy as a **[MeetingItem](Outlook.MeetingItem.md)** object.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ A  **MeetingItem** object that represents the new meeting item.
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.GetSpecialFolder Method (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object for a special folder specified by _FolderType_ in a given store.
+Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified by _FolderType_ in a given store.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[Folder](folder-object-outlook.md)** object for a special folder sp
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FolderType_|Required| **[OlSpecialFolders](olspecialfolders-enumeration-outlook.md)**|A constant in the  **OlSpecialFolders** enumeration that specifies the type of the special folder in the store.|
+| _FolderType_|Required| **[OlSpecialFolders](Outlook.OlSpecialFolders.md)**|A constant in the  **OlSpecialFolders** enumeration that specifies the type of the special folder in the store.|
 
 ### Return Value
 
@@ -47,5 +47,5 @@ Not all special folders exist in all stores. If the requested special folder doe
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

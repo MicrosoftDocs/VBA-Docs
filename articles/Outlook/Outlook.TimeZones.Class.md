@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeZones.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant that represents the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that represents the object's class. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant t
 #### Concepts
 
 
-[TimeZones Object](timezones-object-outlook.md)
+[TimeZones Object](Outlook.TimeZones.md)
 

@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if the item can be forward
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

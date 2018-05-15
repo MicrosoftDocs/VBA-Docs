@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.Details Method (Outlook)
 
-Displays a modeless dialog box that provides detailed information about an  **[AddressEntry](addressentry-object-outlook.md)** object.
+Displays a modeless dialog box that provides detailed information about an  **[AddressEntry](Outlook.AddressEntry.md)** object.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Displays a modeless dialog box that provides detailed information about an  **[A
 ## Remarks
 
 
- **Note**  The  **Details** method fails if the **[Name](addressentry-name-property-outlook.md)** property is empty.
+ **Note**  The  **Details** method fails if the **[Name](Outlook.AddressEntry.Name.md)** property is empty.
 
 You must use error handling to handle run-time errors when the user clicks  **Cancel** in the dialog box. The **Details** method actually stops the code from running while the dialog box is displayed.
 
@@ -45,5 +45,5 @@ You must use error handling to handle run-time errors when the user clicks  **Ca
 #### Concepts
 
 
-[AddressEntry Object](addressentry-object-outlook.md)
+[AddressEntry Object](Outlook.AddressEntry.md)
 

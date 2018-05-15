@@ -34,5 +34,5 @@ The font is expressed as the Microsoft Windows type  **StdFont** .
 #### Concepts
 
 
-[OlkCommandButton Object](olkcommandbutton-object-outlook.md)
+[OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

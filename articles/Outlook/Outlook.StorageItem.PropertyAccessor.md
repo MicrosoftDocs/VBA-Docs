@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.PropertyAccessor Property (Outlook)
 
-Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[StorageItem](storageitem-object-outlook.md)** object. Read-only.
+Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that supports creating, getting, setting, and deleting properties of the parent **[StorageItem](Outlook.StorageItem.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object tha
 #### Concepts
 
 
-[StorageItem Object](storageitem-object-outlook.md)
+[StorageItem Object](Outlook.StorageItem.md)
 

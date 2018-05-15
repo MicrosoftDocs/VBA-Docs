@@ -43,5 +43,5 @@ Also note that even though  **olDoc** is a valid **OlSaveAsType** constant, mess
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

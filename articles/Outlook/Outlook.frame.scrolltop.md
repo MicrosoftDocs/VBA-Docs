@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Frame.ScrollTop Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that specifies the distance, in points, of the top edge of the visible form from the top edge of the **[Frame](frame-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Single** that specifies the distance, in points, of the top edge of the visible form from the top edge of the **[Frame](Outlook.frame.md)**. Read/write.
 
 
 ## Syntax

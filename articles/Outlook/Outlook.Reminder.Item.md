@@ -29,5 +29,5 @@ Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 #### Concepts
 
 
-[Reminder Object](reminder-object-outlook.md)
+[Reminder Object](Outlook.Reminder.md)
 

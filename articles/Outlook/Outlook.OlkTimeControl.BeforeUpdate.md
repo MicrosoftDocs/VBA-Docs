@@ -57,5 +57,5 @@ Canceling this property will revert the control to the current value of the prop
 #### Concepts
 
 
-[OlkTimeControl Object](olktimecontrol-object-outlook.md)
+[OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

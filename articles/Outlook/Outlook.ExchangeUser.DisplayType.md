@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.DisplayType Property (Outlook)
 
-Returns  **olUser** which is a constant from the **[OlDisplayType](oldisplaytype-enumeration-outlook.md)** enumeration representing the nature of the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read-only.
+Returns  **olUser** which is a constant from the **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration representing the nature of the **[ExchangeUser](Outlook.ExchangeUser.md)** . Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns  **olUser** which is a constant from the **[OlDisplayType](oldisplaytype
 
 This property corresponds to the MAPI property,  **PidTagDisplayType** .
 
- The **ExchangeUser** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeUser** , **DisplayType** should always return **olUser** .
+ The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeUser** , **DisplayType** should always return **olUser** .
 
 
 ## See also
@@ -36,5 +36,5 @@ This property corresponds to the MAPI property,  **PidTagDisplayType** .
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

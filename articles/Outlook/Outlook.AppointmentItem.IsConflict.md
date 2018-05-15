@@ -36,5 +36,5 @@ This property does not indicate whether the appointment item has a time conflict
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

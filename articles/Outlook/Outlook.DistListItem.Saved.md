@@ -29,5 +29,5 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

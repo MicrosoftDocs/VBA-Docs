@@ -55,5 +55,5 @@ A  **KeyPress** event does not occur under the following conditions:
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

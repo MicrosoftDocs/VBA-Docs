@@ -34,5 +34,5 @@ Returns an empty string if no profile has been configured or if there is no defa
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.TaskStartDate Property (Outlook)
 
-Returns or sets a  **Date** value that represents the start date of the task for this **[SharingItem](sharingitem-object-outlook.md)** object. Read/write.
+Returns or sets a  **Date** value that represents the start date of the task for this **[SharingItem](Outlook.SharingItem.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the start date of the task for
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](sharingitem-ismarkedastask-property-outlook.md)** property is set to **False** .
+This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property is set to **False** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarke
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

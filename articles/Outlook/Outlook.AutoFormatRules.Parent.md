@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[AutoFormatRules Object](autoformatrules-object-outlook.md)
+[AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

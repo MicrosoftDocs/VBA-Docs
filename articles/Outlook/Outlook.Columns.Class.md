@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.Class Property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** enumeration indicating the class of the **[Columns](columns-object-outlook.md)** object. Read-only.
+Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Columns](Outlook.Columns.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.m
 #### Concepts
 
 
-[Columns Object](columns-object-outlook.md)
+[Columns Object](Outlook.Columns.md)
 

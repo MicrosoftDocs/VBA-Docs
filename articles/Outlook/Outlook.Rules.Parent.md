@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **Rules** object is the **[Store](store-object-outlook.md)** object.
+The parent of the  **Rules** object is the **[Store](Outlook.Store.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of the  **Rules** object is the **[Store](store-object-outlook.md)** 
 #### Concepts
 
 
-[Rules Object](rules-object-outlook.md)
+[Rules Object](Outlook.Rules.md)
 

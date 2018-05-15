@@ -20,12 +20,12 @@ A  **TextBox** is the control most commonly used to display information entered 
 
 Formatting applied to any piece of text in a  **TextBox** will affect all text in the control. For example, if you change the font or point size of any character in the control, the change will affect all characters in the control.
 
-The default property for a  **TextBox** is the **[Value](textbox-value-property-outlook-forms-script.md)** property.
+The default property for a  **TextBox** is the **[Value](Outlook.textbox.value.md)** property.
 
 
 ### Tips on using text boxes
 
-The  **TextBox** is a flexible control governed by the following properties: **[Text](textbox-text-property-outlook-forms-script.md)**,  **[MultiLine](textbox-multiline-property-outlook-forms-script.md)**,  **[WordWrap](textbox-wordwrap-property-outlook-forms-script.md)**, and  **[AutoSize](textbox-autosize-property-outlook-forms-script.md)**.
+The  **TextBox** is a flexible control governed by the following properties: **[Text](Outlook.textbox.text.md)**,  **[MultiLine](Outlook.textbox.multiline.md)**,  **[WordWrap](Outlook.textbox.wordwrap.md)**, and  **[AutoSize](Outlook.textbox.autosize.md)**.
 
  **Text** contains the text that's displayed in the text box.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.Post Method (Outlook)
 
-Sends (posts) the  **[PostItem](postitem-object-outlook.md)** object.
+Sends (posts) the  **[PostItem](Outlook.PostItem.md)** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sends (posts) the  **[PostItem](postitem-object-outlook.md)** object.
 
 ## Remarks
 
- The **Post** method, which is analogous to the **[Send](mailitem-send-method-outlook.md)** method for the **[MailItem](mailitem-object-outlook.md)** object, is used to save the post to the target public folder instead of mailing it.
+ The **Post** method, which is analogous to the **[Send](Outlook.MailItem.Send(method).md)** method for the **[MailItem](Outlook.MailItem.md)** object, is used to save the post to the target public folder instead of mailing it.
 
 
 ## See also
@@ -34,5 +34,5 @@ Sends (posts) the  **[PostItem](postitem-object-outlook.md)** object.
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

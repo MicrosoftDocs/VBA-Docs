@@ -22,8 +22,8 @@ Returns or sets a  **String** that specifies text in the control. Read/write.
 
 The default value is a zero-length string ("").
 
-Any value you assign to the  **Text** property is also assigned to the **[Value](textbox-value-property-outlook-forms-script.md)** property.
+Any value you assign to the  **Text** property is also assigned to the **[Value](Outlook.textbox.value.md)** property.
 
-The  **[ForeColor](textbox-forecolor-property-outlook-forms-script.md)** property determines the color of the text.
+The  **[ForeColor](Outlook.textbox.forecolor.md)** property determines the color of the text.
 
 

@@ -37,5 +37,5 @@ Changes the date used by the current view to display information.
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

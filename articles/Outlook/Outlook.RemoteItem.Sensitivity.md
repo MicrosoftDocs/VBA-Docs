@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RemoteItem.Sensitivity Property (Outlook)
 
-Returns or sets a constant in the  **[OlSensitivity](olsensitivity-enumeration-outlook.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
+Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagSensitivity** .
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

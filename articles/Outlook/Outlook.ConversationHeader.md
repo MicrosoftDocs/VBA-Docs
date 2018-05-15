@@ -38,8 +38,8 @@ In Outlook, a conversation groups messages that share the same subject and belon
 
 |**Name**|
 |:-----|
-|[GetConversation](conversationheader-getconversation-method-outlook.md)|
-|[GetItems](conversationheader-getitems-method-outlook.md)|
+|[GetConversation](Outlook.ConversationHeader.GetConversation.md)|
+|[GetItems](Outlook.ConversationHeader.GetItems.md)|
 
 ## Properties
 
@@ -47,12 +47,12 @@ In Outlook, a conversation groups messages that share the same subject and belon
 
 |**Name**|
 |:-----|
-|[Application](conversationheader-application-property-outlook.md)|
-|[Class](conversationheader-class-property-outlook.md)|
-|[ConversationID](conversationheader-conversationid-property-outlook.md)|
-|[ConversationTopic](conversationheader-conversationtopic-property-outlook.md)|
-|[Parent](conversationheader-parent-property-outlook.md)|
-|[Session](conversationheader-session-property-outlook.md)|
+|[Application](Outlook.ConversationHeader.Application.md)|
+|[Class](Outlook.ConversationHeader.Class.md)|
+|[ConversationID](Outlook.ConversationHeader.ConversationID.md)|
+|[ConversationTopic](Outlook.ConversationHeader.ConversationTopic.md)|
+|[Parent](Outlook.ConversationHeader.Parent.md)|
+|[Session](Outlook.ConversationHeader.Session.md)|
 
 ## See also
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactsModule.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olContactsModule** for the **[ContactsModule](contactsmodule-object-outlook.md)** object.
+This property returns  **olContactsModule** for the **[ContactsModule](Outlook.ContactsModule.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olContactsModule** for the **[ContactsModule](contactsm
 #### Concepts
 
 
-[ContactsModule Object](contactsmodule-object-outlook.md)
+[ContactsModule Object](Outlook.ContactsModule.md)
 

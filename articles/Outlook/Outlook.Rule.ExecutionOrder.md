@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rule.ExecutionOrder Property (Outlook)
 
-Returns or sets a  **Long** that indicates the order of execution of the rule among other rules in the **[Rules](rules-object-outlook.md)** collection. Read/write.
+Returns or sets a  **Long** that indicates the order of execution of the rule among other rules in the **[Rules](Outlook.Rules.md)** collection. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** that indicates the order of execution of the rule am
 
 ## Remarks
 
- **ExecutionOrder** is directly mapped with the numerical value of _Index_ in the **[Item](rules-item-method-outlook.md)** method. For example, `Rules.Item(1)` represents a rule with **ExecutionOrder** being 1, `Rules.Item(2)` represents a rule with **ExecutionOrder** being 2, and `Rules.Item(Rules.Count)` represents the rule with **ExecutionOrder** being **[Count](rules-count-property-outlook.md)** property.
+ **ExecutionOrder** is directly mapped with the numerical value of _Index_ in the **[Item](Outlook.Rules.Item.md)** method. For example, `Rules.Item(1)` represents a rule with **ExecutionOrder** being 1, `Rules.Item(2)` represents a rule with **ExecutionOrder** being 2, and `Rules.Item(Rules.Count)` represents the rule with **ExecutionOrder** being **[Count](Outlook.Rules.Count.md)** property.
 
 
 ## See also
@@ -34,5 +34,5 @@ Returns or sets a  **Long** that indicates the order of execution of the rule am
 #### Concepts
 
 
-[Rule Object](rule-object-outlook.md)
+[Rule Object](Outlook.Rule.md)
 

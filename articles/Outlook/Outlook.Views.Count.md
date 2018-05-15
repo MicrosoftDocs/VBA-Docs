@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Views Object](views-object-outlook.md)
+[Views Object](Outlook.Views.md)
 

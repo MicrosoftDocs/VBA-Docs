@@ -55,5 +55,5 @@ A  **KeyPress** event does not occur under the following conditions:
 #### Concepts
 
 
-[OlkDateControl Object](olkdatecontrol-object-outlook.md)
+[OlkDateControl Object](Outlook.OlkDateControl.md)
 

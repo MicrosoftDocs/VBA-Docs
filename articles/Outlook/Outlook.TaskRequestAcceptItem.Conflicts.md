@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskRequestAcceptItem.Conflicts Property (Outlook)
 
-Return the  **[Conflicts](conflicts-object-outlook.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
+Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Return the  **[Conflicts](conflicts-object-outlook.md)** object that represents 
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

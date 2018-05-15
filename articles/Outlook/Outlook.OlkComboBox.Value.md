@@ -25,7 +25,7 @@ Returns or sets a  **Variant** that represents the content selected in the list 
 
 ## Remarks
 
-The value is the same as the value of  **[Text](olkcombobox-text-property-outlook.md)** , except that this property is **Variant** and **Text** is strongly typed as **String** .
+The value is the same as the value of  **[Text](Outlook.OlkComboBox.Text.md)** , except that this property is **Variant** and **Text** is strongly typed as **String** .
 
 
 ## See also
@@ -34,5 +34,5 @@ The value is the same as the value of  **[Text](olkcombobox-text-property-outloo
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

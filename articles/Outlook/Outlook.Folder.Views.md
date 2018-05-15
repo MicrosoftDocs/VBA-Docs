@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Views Property (Outlook)
 
-Returns the  **[Views](views-object-outlook.md)** collection object of the **[Folder](folder-object-outlook.md)** object. Read-only.
+Returns the  **[Views](Outlook.Views.md)** collection object of the **[Folder](Outlook.Folder.md)** object. Read-only.
 
 
 ## Syntax
@@ -69,5 +69,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

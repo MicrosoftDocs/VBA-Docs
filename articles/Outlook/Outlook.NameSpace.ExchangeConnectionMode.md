@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # NameSpace.ExchangeConnectionMode Property (Outlook)
 
-Returns an  **[OlExchangeConnectionMode](olexchangeconnectionmode-enumeration-outlook.md)** constant that indicates the connection mode of the user's primary Exchange account. Read-only.
+Returns an  **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** constant that indicates the connection mode of the user's primary Exchange account. Read-only.
 
 
 ## Syntax
 
  _expression_ . **ExchangeConnectionMode**
 
- _expression_ A variable that represents a **[NameSpace](namespace-object-outlook.md)** object.
+ _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ## Remarks
 
-If the  **ExchangeConnectionMode** property is **olOffline** or **olDisconnected** , the **[NameSpace.Offline](namespace-offline-property-outlook.md)** property returns **True** . If the **ExchangeConnectionMode** property is **olOnline** , **olConnected** , or **olConnectedHeaders** , the **NameSpace.Offline** property returns **False** .
+If the  **ExchangeConnectionMode** property is **olOffline** or **olDisconnected** , the **[NameSpace.Offline](Outlook.NameSpace.Offline.md)** property returns **True** . If the **ExchangeConnectionMode** property is **olOnline** , **olConnected** , or **olConnectedHeaders** , the **NameSpace.Offline** property returns **False** .
 
 
 ## Example
@@ -80,5 +80,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

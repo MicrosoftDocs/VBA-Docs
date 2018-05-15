@@ -30,7 +30,7 @@ Returns or sets a  **Boolean** value that indicates whether a sharing invitation
 
 ## Remarks
 
-When sending a sharing invitation for a non-default folder, the recipient can be granted write access to the folder in addition to the default read access. This property determines if write permission should be granted to the recipient when the  **[SharingItem](sharingitem-object-outlook.md)** is sent.
+When sending a sharing invitation for a non-default folder, the recipient can be granted write access to the folder in addition to the default read access. This property determines if write permission should be granted to the recipient when the  **[SharingItem](Outlook.SharingItem.md)** is sent.
 
 An error occurs if you attempt to set this property after the sharing message has been sent or received.
 
@@ -41,5 +41,5 @@ An error occurs if you attempt to set this property after the sharing message ha
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

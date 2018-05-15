@@ -36,7 +36,7 @@ Binds a built-in property or custom property to a control in an inspector.
 
 You can use this method to bind an explicit built-in property or a custom property to a control. You must reference the property by its string name, for example,  **Subject** , and not by namespace, for example, http://schemas.microsoft.com/mapi/proptag/0x0037001E.
 
-The  _PropertyName_ parameter is not case-sensitive. For example, **SetControlItemProperty** interprets an argument, _CustomerId_, to be the same as  _CustomerID_ and binds the specified control to the built-in **[ContactItem.CustomerID](contactitem-customerid-property-outlook.md)** property.
+The  _PropertyName_ parameter is not case-sensitive. For example, **SetControlItemProperty** interprets an argument, _CustomerId_, to be the same as  _CustomerID_ and binds the specified control to the built-in **[ContactItem.CustomerID](Outlook.ContactItem.CustomerID.md)** property.
 
 You can also use the following line of code  `myPage.Controls("bar").ItemProperty = "subject"` to bind the subject property to a control. However, note that untrusted code using this will trigger a security warning if the property is protected by the object model security guard such as **To** , and the client computer is running Microsoft Office Outlook 2007 or later but does not have an appropriately set up antivirus software. You can use the **SetControlItemProperty** method to avoid security warnings with trusted applications.
 
@@ -77,5 +77,5 @@ End Sub
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

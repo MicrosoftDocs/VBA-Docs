@@ -25,7 +25,7 @@ Returns or sets a  **Variant** that specifies the state of the control. Read/wri
 
 ## Remarks
 
-For the check box control, this property is  **True** or **False** , or if the **[TripleState](olkcheckbox-triplestate-property-outlook.md)** property is set, the **Value** property can also be **Null** ( **Nothing** in Visual Basic). The default value is **False** .
+For the check box control, this property is  **True** or **False** , or if the **[TripleState](Outlook.OlkCheckBox.TripleState.md)** property is set, the **Value** property can also be **Null** ( **Nothing** in Visual Basic). The default value is **False** .
 
 
 ## See also
@@ -34,5 +34,5 @@ For the check box control, this property is  **True** or **False** , or if the *
 #### Concepts
 
 
-[OlkCheckBox Object](olkcheckbox-object-outlook.md)
+[OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

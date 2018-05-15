@@ -29,11 +29,11 @@ Removes an object from the collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the  **[Name](autoformatrule-name-property-outlook.md)** property value of an object in the collection.|
+| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the  **[Name](Outlook.AutoFormatRule.Name.md)** property value of an object in the collection.|
 
 ## Remarks
 
-If the name of a formatting rule to be removed is specified in  _Index_, this method removes the first  **[AutoFormatRule](autoformatrule-object-outlook.md)** object that matches the specified name.
+If the name of a formatting rule to be removed is specified in  _Index_, this method removes the first  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object that matches the specified name.
 
 Built-in formatting rules cannot be removed from the collection.
 
@@ -44,5 +44,5 @@ Built-in formatting rules cannot be removed from the collection.
 #### Concepts
 
 
-[AutoFormatRules Object](autoformatrules-object-outlook.md)
+[AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

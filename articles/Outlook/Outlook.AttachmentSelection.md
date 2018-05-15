@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AttachmentSelection Object (Outlook)
 
-Contains a set of  **[Attachment](attachment-object-outlook.md)** objects that represent the selected attachments in an Outlook item.
+Contains a set of  **[Attachment](Outlook.Attachment.md)** objects that represent the selected attachments in an Outlook item.
 
 
 ## Remarks
@@ -29,8 +29,8 @@ To customize the attachment shortcut menu by using Microsoft Office Fluent ribbo
 
 |**Name**|
 |:-----|
-|[GetSelection](attachmentselection-getselection-method-outlook.md)|
-|[Item](attachmentselection-item-method-outlook.md)|
+|[GetSelection](Outlook.AttachmentSelection.GetSelection.md)|
+|[Item](Outlook.AttachmentSelection.Item.md)|
 
 ## Properties
 
@@ -38,12 +38,12 @@ To customize the attachment shortcut menu by using Microsoft Office Fluent ribbo
 
 |**Name**|
 |:-----|
-|[Application](attachmentselection-application-property-outlook.md)|
-|[Class](attachmentselection-class-property-outlook.md)|
-|[Count](attachmentselection-count-property-outlook.md)|
-|[Location](attachmentselection-location-property-outlook.md)|
-|[Parent](attachmentselection-parent-property-outlook.md)|
-|[Session](attachmentselection-session-property-outlook.md)|
+|[Application](Outlook.AttachmentSelection.Application.md)|
+|[Class](Outlook.AttachmentSelection.Class.md)|
+|[Count](Outlook.AttachmentSelection.Count.md)|
+|[Location](Outlook.AttachmentSelection.Location.md)|
+|[Parent](Outlook.AttachmentSelection.Parent.md)|
+|[Session](Outlook.AttachmentSelection.Session.md)|
 
 ## See also
 

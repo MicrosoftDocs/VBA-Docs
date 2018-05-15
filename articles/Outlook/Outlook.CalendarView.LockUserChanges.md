@@ -30,7 +30,7 @@ If  **True** , the user can modify the settings of the specified view. However, 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](view-object-outlook.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
+The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
 
 
 ```vb
@@ -116,5 +116,5 @@ End Sub
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

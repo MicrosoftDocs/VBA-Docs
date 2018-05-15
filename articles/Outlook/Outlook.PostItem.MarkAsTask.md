@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.MarkAsTask Method (Outlook)
 
-Marks a  **[PostItem](postitem-object-outlook.md)** object as a task and assigns a task interval for the object.
+Marks a  **[PostItem](Outlook.PostItem.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Marks a  **[PostItem](postitem-object-outlook.md)** object as a task and assigns
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](olmarkinterval-enumeration-outlook.md)**|The task interval for the  **PostItem** .|
+| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **PostItem** .|
 
 ## Remarks
 
-Calling this method sets the value of several other properties, depending on the value provided in  _MarkInterval_. For more information about the properties set by specifying  _MarkInterval_, see [OlMarkInterval Enumeration](olmarkinterval-enumeration-outlook.md).
+Calling this method sets the value of several other properties, depending on the value provided in  _MarkInterval_. For more information about the properties set by specifying  _MarkInterval_, see [OlMarkInterval Enumeration](Outlook.OlMarkInterval.md).
 
 
 ## See also
@@ -42,5 +42,5 @@ Calling this method sets the value of several other properties, depending on the
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

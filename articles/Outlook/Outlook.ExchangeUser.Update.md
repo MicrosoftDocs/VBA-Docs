@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Update Method (Outlook)
 
-Posts a change to the  **[ExchangeUser](exchangeuser-object-outlook.md)** object in the messaging system.
+Posts a change to the  **[ExchangeUser](Outlook.ExchangeUser.md)** object in the messaging system.
 
 
 ## Syntax
@@ -45,5 +45,5 @@ To flush the cache and then reload the values from the address book, call  **Upd
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

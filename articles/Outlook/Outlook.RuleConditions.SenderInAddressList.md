@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions.SenderInAddressList Property (Outlook)
 
-Returns a  **[SenderInAddressListRuleCondition](senderinaddresslistrulecondition-object-outlook.md)** object with a **[SenderInAddressListRuleCondition.ConditionType](senderinaddresslistrulecondition-conditiontype-property-outlook.md)** of **olConditionAccount** . Read-only.
+Returns a  **[SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md)** object with a **[SenderInAddressListRuleCondition.ConditionType](Outlook.SenderInAddressListRuleCondition.ConditionType.md)** of **olConditionAccount** . Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[SenderInAddressListRuleCondition](senderinaddresslistrulecondition
 
 Use the returned  **SenderInAddressListRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that the sender is in a specified address list.
 
-This property of the  **[RuleConditions](ruleconditions-object-outlook.md)** collection always returns a **SenderInAddressListRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[SenderInAddressListRuleCondition.Enabled](senderinaddresslistrulecondition-enabled-property-outlook.md)** will be **True** .
+This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **SenderInAddressListRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[SenderInAddressListRuleCondition.Enabled](Outlook.SenderInAddressListRuleCondition.Enabled.md)** will be **True** .
 
 
 ## See also
@@ -36,5 +36,5 @@ This property of the  **[RuleConditions](ruleconditions-object-outlook.md)** col
 #### Concepts
 
 
-[RuleConditions Object](ruleconditions-object-outlook.md)
+[RuleConditions Object](Outlook.RuleConditions.md)
 

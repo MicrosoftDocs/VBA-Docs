@@ -24,7 +24,7 @@ Indicates the user property type.
 | **olDateTime**|5|Represents a  **DateTime** property type. It corresponds to the MAPI type **PT_SYSTIME**.|
 | **olDuration**|7|Represents a time duration property type. It corresponds to the MAPI type  **PT_LONG**.|
 | **olEnumeration**|21|Represents an enumeration property type. It corresponds to the MAPI type  **PT_LONG**.|
-| **olFormula**|18|Represents a formula property type. It corresponds to the MAPI type  **PT_STRING8**. See  **[UserDefinedProperty.Formula](userdefinedproperty-formula-property-outlook.md)** property.|
+| **olFormula**|18|Represents a formula property type. It corresponds to the MAPI type  **PT_STRING8**. See  **[UserDefinedProperty.Formula](Outlook.UserDefinedProperty.Formula.md)** property.|
 | **olInteger**|20|Represents an  **Integer** number property type. It corresponds to the MAPI type **PT_LONG**.|
 | **olKeywords**|11|Represents a  **String** array property type used to store keywords. It corresponds to the MAPI type **PT_MV_STRING8**.|
 | **olNumber**|3|Represents a  **Double** number property type. It corresponds to the MAPI type **PT_DOUBLE**.|
@@ -36,6 +36,6 @@ Indicates the user property type.
 
 ## Remarks
 
-Used by the [ItemProperties.Add](itemproperties-add-method-outlook.md), [UserDefinedProperties.Add](userdefinedproperties-add-method-outlook.md), and [UserProperties.Add](userproperties-add-method-outlook.md) methods, and[ColumnFormat.FieldType](columnformat-fieldtype-property-outlook.md), [ItemProperty.Type](itemproperty-type-property-outlook.md), and [UserDefinedProperty.Type](userdefinedproperty-type-property-outlook.md) properties.
+Used by the [ItemProperties.Add](Outlook.ItemProperties.Add.md), [UserDefinedProperties.Add](Outlook.UserDefinedProperties.Add.md), and [UserProperties.Add](Outlook.UserProperties.Add.md) methods, and[ColumnFormat.FieldType](Outlook.ColumnFormat.FieldType.md), [ItemProperty.Type](Outlook.ItemProperty.Type.md), and [UserDefinedProperty.Type](Outlook.UserDefinedProperty.Type.md) properties.
 
 

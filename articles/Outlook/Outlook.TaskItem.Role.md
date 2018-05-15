@@ -29,5 +29,5 @@ Returns or sets a  **String** containing the free-form text string associating t
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

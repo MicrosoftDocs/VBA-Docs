@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [MultiPage Object (Outlook Forms Script)](multipage-object-outlook-forms-script.md)
+-  [MultiPage Object (Outlook Forms Script)](Outlook.multipage.md)
     
 -  [MultiPage Members (Outlook Forms Script)](multipage-members-outlook-forms-script.md)
     

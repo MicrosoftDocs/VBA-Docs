@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.AutoFormatRules Property (Outlook)
 
-Returns an  **[AutoFormatRules](autoformatrules-object-outlook.md)** object that represents the set of formatting rules applicable to the **[CardView](cardview-object-outlook.md)** object. Read-only.
+Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[CardView](Outlook.CardView.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[AutoFormatRules](autoformatrules-object-outlook.md)** object that
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

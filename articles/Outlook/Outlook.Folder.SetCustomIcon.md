@@ -20,7 +20,7 @@ Sets a custom icon that is specified by  _Picture_ for the folder.
 
  _expression_ . **SetCustomIcon**( **_Picture_** )
 
- _expression_ A variable that represents a **[Folder](folder-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object.
 
 
 ### Parameters
@@ -38,9 +38,9 @@ The  **IPictureDisp** object specified by _Picture_ must have its **Type** prope
 You can set a custom icon for a search folder and for all folders that do not represent a default or a special folder. If you attempt to set a custom icon for a folder that belongs to one of the following groups of folders,  **SetCustomIcon** will return an error:
 
 
--  Default folders (as listed by the **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)** enumeration)
+-  Default folders (as listed by the **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)
     
-- Special folders (as listed by the  **[OlSpecialFolders](olspecialfolders-enumeration-outlook.md)** enumeration)
+- Special folders (as listed by the  **[OlSpecialFolders](Outlook.OlSpecialFolders.md)** enumeration)
     
 - Exchange public folders
     
@@ -186,5 +186,5 @@ public static class PictureDispConverter
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

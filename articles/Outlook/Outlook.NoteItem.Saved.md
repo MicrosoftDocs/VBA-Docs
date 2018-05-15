@@ -29,5 +29,5 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

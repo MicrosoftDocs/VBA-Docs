@@ -37,5 +37,5 @@ Removes an object from the collection.
 #### Concepts
 
 
-[OutlookBarShortcuts Object](outlookbarshortcuts-object-outlook.md)
+[OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 

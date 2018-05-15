@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
-[ViewFont Object](viewfont-object-outlook.md)
+[ViewFont Object](Outlook.ViewFont.md)
 

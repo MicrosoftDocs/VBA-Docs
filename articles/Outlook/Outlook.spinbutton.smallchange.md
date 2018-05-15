@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # SpinButton.SmallChange Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **[SpinButton](spinbutton-object-outlook-forms-script.md)**. Read/write.
+Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
 
 
 ## Syntax
@@ -20,7 +20,7 @@ Returns or sets an  **Integer** that specifies the amount of movement that occur
 
 ## Remarks
 
-The  **SmallChange** property specifies the amount of change to the **[Value](spinbutton-value-property-outlook-forms-script.md)** property.
+The  **SmallChange** property specifies the amount of change to the **[Value](Outlook.spinbutton.value.md)** property.
 
 The  **SmallChange** property does not have units.
 

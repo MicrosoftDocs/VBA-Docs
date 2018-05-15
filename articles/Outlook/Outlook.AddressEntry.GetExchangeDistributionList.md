@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.GetExchangeDistributionList Method (Outlook)
 
-Returns an  **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object that represents the **[AddressEntry](addressentry-object-outlook.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](addresslist-object-outlook.md)** object such as the Global Address List (GAL) and corresponds to an Exchange distribution list.
+Returns an  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](Outlook.AddressList.md)** object such as the Global Address List (GAL) and corresponds to an Exchange distribution list.
 
 
 ## Syntax
@@ -39,5 +39,5 @@ An  **ExchangeDistributionList** object that represents the **AddressEntry** . R
 #### Concepts
 
 
-[AddressEntry Object](addressentry-object-outlook.md)
+[AddressEntry Object](Outlook.AddressEntry.md)
 

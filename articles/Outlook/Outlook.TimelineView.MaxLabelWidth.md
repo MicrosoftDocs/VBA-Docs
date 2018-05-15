@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.MaxLabelWidth Property (Outlook)
 
-Returns or sets a  **Long** value that represents the maximum length (in characters) for the label of an Outlook item in the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
+Returns or sets a  **Long** value that represents the maximum length (in characters) for the label of an Outlook item in the **[TimelineView](Outlook.TimelineView.md)** object. Read/write.
 
 
 ## Syntax
@@ -120,5 +120,5 @@ End Sub
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

@@ -20,16 +20,16 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_ . **Parent**
 
- _expression_ A variable that represents an **[AttachmentSelection](attachmentselection-object-outlook.md)** object.
+ _expression_ A variable that represents an **[AttachmentSelection](Outlook.AttachmentSelection.md)** object.
 
 
 ## Remarks
 
 The  **Parent** property of an **AttachmentSelection** object represents the Microsoft Outlook item that contains the selected attachments.
 
-If the item is in an explorer, the value of the  **Parent** property is the same as the first item in the selection that is returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property, which is `Explorer.Selection.Item(1)`. 
+If the item is in an explorer, the value of the  **Parent** property is the same as the first item in the selection that is returned by the **[Explorer.Selection](Outlook.Explorer.Selection.md)** property, which is `Explorer.Selection.Item(1)`. 
 
-If the item is in an inspector, the value of the  **Parent** property is the same as the value of the **[Inspector.CurrentItem](inspector-currentitem-property-outlook.md)** property.
+If the item is in an inspector, the value of the  **Parent** property is the same as the value of the **[Inspector.CurrentItem](Outlook.Inspector.CurrentItem.md)** property.
 
 
 ## See also
@@ -38,5 +38,5 @@ If the item is in an inspector, the value of the  **Parent** property is the sam
 #### Concepts
 
 
-[AttachmentSelection Object](attachmentselection-object-outlook.md)
+[AttachmentSelection Object](Outlook.AttachmentSelection.md)
 

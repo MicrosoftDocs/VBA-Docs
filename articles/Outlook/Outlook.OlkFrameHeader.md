@@ -36,13 +36,13 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Alignment](olkframeheader-alignment-property-outlook.md)|
-|[Caption](olkframeheader-caption-property-outlook.md)|
-|[Enabled](olkframeheader-enabled-property-outlook.md)|
-|[Font](olkframeheader-font-property-outlook.md)|
-|[ForeColor](olkframeheader-forecolor-property-outlook.md)|
-|[MouseIcon](olkframeheader-mouseicon-property-outlook.md)|
-|[MousePointer](olkframeheader-mousepointer-property-outlook.md)|
+|[Alignment](Outlook.OlkFrameHeader.Alignment.md)|
+|[Caption](Outlook.OlkFrameHeader.Caption.md)|
+|[Enabled](Outlook.OlkFrameHeader.Enabled.md)|
+|[Font](Outlook.OlkFrameHeader.Font.md)|
+|[ForeColor](Outlook.OlkFrameHeader.ForeColor.md)|
+|[MouseIcon](Outlook.OlkFrameHeader.MouseIcon.md)|
+|[MousePointer](Outlook.OlkFrameHeader.MousePointer.md)|
 
 ## See also
 

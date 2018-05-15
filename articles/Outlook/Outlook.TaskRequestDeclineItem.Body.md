@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

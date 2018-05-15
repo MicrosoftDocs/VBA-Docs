@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Font Object (Outlook Forms Script)](font-object-outlook-forms-script.md)
+-  [Font Object (Outlook Forms Script)](Outlook.font.md)
     
 -  [Font Members (Outlook Forms Script)](font-members-outlook-forms-script.md)
     

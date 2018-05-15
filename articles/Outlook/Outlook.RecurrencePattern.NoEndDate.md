@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates whether the recurrence pattern has n
 
 ## Remarks
 
-This property must be coordinated with other properties when setting up a recurrence pattern. If the  **[PatternEndDate](recurrencepattern-patternenddate-property-outlook.md)** property or the **[Occurrences](recurrencepattern-occurrences-property-outlook.md)** property is set, the pattern is considered to be finite and the **NoEndDate** property is **False** . If neither **PatternEndDate** nor **Occurrences** is set, the pattern is considered infinite and **NoEndDate** is **True** .
+This property must be coordinated with other properties when setting up a recurrence pattern. If the  **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** property or the **[Occurrences](Outlook.RecurrencePattern.Occurrences.md)** property is set, the pattern is considered to be finite and the **NoEndDate** property is **False** . If neither **PatternEndDate** nor **Occurrences** is set, the pattern is considered infinite and **NoEndDate** is **True** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property must be coordinated with other properties when setting up a recurr
 #### Concepts
 
 
-[RecurrencePattern Object](recurrencepattern-object-outlook.md)
+[RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

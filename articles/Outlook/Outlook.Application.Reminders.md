@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Reminders Property (Outlook)
 
-Returns a  **[Reminders](reminders-object-outlook.md)** collection that represents all current reminders. Read-only.
+Returns a  **[Reminders](Outlook.Reminders.md)** collection that represents all current reminders. Read-only.
 
 
 ## Syntax
@@ -81,5 +81,5 @@ End Sub
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

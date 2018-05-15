@@ -29,5 +29,5 @@ Returns or sets a  **Long** specifying the position in the view (ordinal) for th
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.GetDefaultFolder Method (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object that represents the default folder of the requested type for the current profile; for example, obtains the default **Calendar** folder for the user who is currently logged on.
+Returns a  **[Folder](Outlook.Folder.md)** object that represents the default folder of the requested type for the current profile; for example, obtains the default **Calendar** folder for the user who is currently logged on.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[Folder](folder-object-outlook.md)** object that represents the def
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FolderType_|Required| **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)**|The type of default folder to return.|
+| _FolderType_|Required| **[OlDefaultFolders](Outlook.OlDefaultFolders.md)**|The type of default folder to return.|
 
 ### Return Value
 
@@ -38,14 +38,14 @@ A  **Folder** object that represents the default folder of the requested type fo
 
 ## Remarks
 
-To return a specific non-default folder, use the  **[Folders](folders-object-outlook.md)** collection.
+To return a specific non-default folder, use the  **[Folders](Outlook.Folders.md)** collection.
 
 If the default folder of the requested type does not exist, depending on the type, Outlook may create and return the folder, or may raise an error. For example, if  **olFolderManagedEmail** is specified as the _FolderType_ but the Managed Folders group has not been deployed, Microsoft Outlook raises an error.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[CurrentFolder](explorer-currentfolder-property-outlook.md)** property to change the displayed folder to the user's default **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the  **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property to change the displayed folder to the user's default **Calendar** folder.
 
 
 ```vb
@@ -100,5 +100,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

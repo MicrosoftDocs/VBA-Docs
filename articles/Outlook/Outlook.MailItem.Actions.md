@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Actions Property (Outlook)
 
-Returns an  **[Actions](actions-object-outlook.md)** collection that represents all the available actions for the item. Read-only.
+Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Actions](actions-object-outlook.md)** collection that represents 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example creates a new mail item and uses the  **[Actions.Add](actions-add-method-outlook.md)** method to add an **[Action](action-object-outlook.md)** to it. Then it sends the mail item to the current user. The mail item received will have the **Agree** action in addition to the standard actions such as **Reply** and **Reply All**.
+This Visual Basic for Applications (VBA) example creates a new mail item and uses the  **[Actions.Add](Outlook.Actions.Add.md)** method to add an **[Action](Outlook.Action.md)** to it. Then it sends the mail item to the current user. The mail item received will have the **Agree** action in addition to the standard actions such as **Reply** and **Reply All**.
 
 
 ```vb
@@ -88,5 +88,5 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

@@ -34,5 +34,5 @@ Returns an error if  **FlagTo** is an empty string.
 #### Concepts
 
 
-[MarkAsTaskRuleAction Object](markastaskruleaction-object-outlook.md)
+[MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 

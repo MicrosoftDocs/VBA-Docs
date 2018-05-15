@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder overrides 
 
 ## Remarks
 
-You must set the  **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](appointmentitem-reminderplaysound-property-outlook.md)** and the **[ReminderSoundFile](appointmentitem-remindersoundfile-property-outlook.md)** properties.
+You must set the  **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](Outlook.AppointmentItem.ReminderPlaySound.md)** and the **[ReminderSoundFile](Outlook.AppointmentItem.ReminderSoundFile.md)** properties.
 
 
 ## See also
@@ -34,5 +34,5 @@ You must set the  **ReminderOverrideDefault** property to validate the **[Remind
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

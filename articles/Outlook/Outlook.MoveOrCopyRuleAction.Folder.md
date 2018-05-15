@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MoveOrCopyRuleAction.Folder Property (Outlook)
 
-Returns or sets a  **[Folder](folder-object-outlook.md)** object that represents the folder to which the rule moves or copies the message. Read/write.
+Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the folder to which the rule moves or copies the message. Read/write.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ This property returns an error if the specified folder cannot serve as a target 
 #### Concepts
 
 
-[MoveOrCopyRuleAction Object](moveorcopyruleaction-object-outlook.md)
+[MoveOrCopyRuleAction Object](Outlook.MoveOrCopyRuleAction.md)
 

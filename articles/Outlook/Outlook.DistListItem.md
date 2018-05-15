@@ -20,9 +20,9 @@ Represents a distribution list in a Contacts folder.
 
  A distribution list can contain multiple recipients and is used to send messages to everyone in the list.
 
-Use the  **[CreateItem](application-createitem-method-outlook.md)** method to create a **DistListItem** object that represents a new distribution list.
+Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **DistListItem** object that represents a new distribution list.
 
-Use  **[Items](folder-items-property-outlook.md)** ( _index_ ), where _index_ is the index number of an item in a contacts folder or a value used to match the default property of an item in the folder, to return a single **DistListItem** object from a contacts folder (that is, a folder whose default item type is **olContactItem** ).
+Use  **[Items](Outlook.Folder.Items.md)** ( _index_ ), where _index_ is the index number of an item in a contacts folder or a value used to match the default property of an item in the folder, to return a single **DistListItem** object from a contacts folder (that is, a folder whose default item type is **olContactItem** ).
 
 
 ## Example
@@ -60,32 +60,32 @@ myItem.Display
 
 |**Name**|
 |:-----|
-|[AfterWrite](distlistitem-afterwrite-event-outlook.md)|
-|[AttachmentAdd](distlistitem-attachmentadd-event-outlook.md)|
-|[AttachmentRead](distlistitem-attachmentread-event-outlook.md)|
-|[AttachmentRemove](distlistitem-attachmentremove-event-outlook.md)|
-|[BeforeAttachmentAdd](distlistitem-beforeattachmentadd-event-outlook.md)|
-|[BeforeAttachmentPreview](distlistitem-beforeattachmentpreview-event-outlook.md)|
-|[BeforeAttachmentRead](distlistitem-beforeattachmentread-event-outlook.md)|
-|[BeforeAttachmentSave](distlistitem-beforeattachmentsave-event-outlook.md)|
-|[BeforeAttachmentWriteToTempFile](distlistitem-beforeattachmentwritetotempfile-event-outlook.md)|
-|[BeforeAutoSave](distlistitem-beforeautosave-event-outlook.md)|
-|[BeforeCheckNames](distlistitem-beforechecknames-event-outlook.md)|
-|[BeforeDelete](distlistitem-beforedelete-event-outlook.md)|
-|[BeforeRead](distlistitem-beforeread-event-outlook.md)|
-|[Close](distlistitem-close-event-outlook.md)|
-|[CustomAction](distlistitem-customaction-event-outlook.md)|
-|[CustomPropertyChange](distlistitem-custompropertychange-event-outlook.md)|
-|[Forward](distlistitem-forward-event-outlook.md)|
-|[Open](distlistitem-open-event-outlook.md)|
-|[PropertyChange](distlistitem-propertychange-event-outlook.md)|
-|[Read](distlistitem-read-event-outlook.md)|
-|[ReadComplete](distlistitem-readcomplete-event-outlook.md)|
-|[Reply](distlistitem-reply-event-outlook.md)|
-|[ReplyAll](distlistitem-replyall-event-outlook.md)|
-|[Send](distlistitem-send-event-outlook.md)|
-|[Unload](distlistitem-unload-event-outlook.md)|
-|[Write](distlistitem-write-event-outlook.md)|
+|[AfterWrite](Outlook.DistListItem.AfterWrite.md)|
+|[AttachmentAdd](Outlook.DistListItem.AttachmentAdd.md)|
+|[AttachmentRead](Outlook.DistListItem.AttachmentRead.md)|
+|[AttachmentRemove](Outlook.DistListItem.AttachmentRemove.md)|
+|[BeforeAttachmentAdd](Outlook.DistListItem.BeforeAttachmentAdd.md)|
+|[BeforeAttachmentPreview](Outlook.DistListItem.BeforeAttachmentPreview.md)|
+|[BeforeAttachmentRead](Outlook.DistListItem.BeforeAttachmentRead.md)|
+|[BeforeAttachmentSave](Outlook.DistListItem.BeforeAttachmentSave.md)|
+|[BeforeAttachmentWriteToTempFile](Outlook.DistListItem.BeforeAttachmentWriteToTempFile.md)|
+|[BeforeAutoSave](Outlook.DistListItem.BeforeAutoSave.md)|
+|[BeforeCheckNames](Outlook.DistListItem.BeforeCheckNames.md)|
+|[BeforeDelete](Outlook.DistListItem.BeforeDelete.md)|
+|[BeforeRead](Outlook.DistListItem.BeforeRead.md)|
+|[Close](Outlook.DistListItem.Close(even).md)|
+|[CustomAction](Outlook.DistListItem.CustomAction.md)|
+|[CustomPropertyChange](Outlook.DistListItem.CustomPropertyChange.md)|
+|[Forward](Outlook.DistListItem.Forward.md)|
+|[Open](Outlook.DistListItem.Open.md)|
+|[PropertyChange](Outlook.DistListItem.PropertyChange.md)|
+|[Read](Outlook.DistListItem.Read.md)|
+|[ReadComplete](Outlook.distlistitem.readcomplete.md)|
+|[Reply](Outlook.DistListItem.Reply.md)|
+|[ReplyAll](Outlook.DistListItem.ReplyAll.md)|
+|[Send](Outlook.DistListItem.Send.md)|
+|[Unload](Outlook.DistListItem.Unload.md)|
+|[Write](Outlook.DistListItem.Write.md)|
 
 ## Methods
 
@@ -93,23 +93,23 @@ myItem.Display
 
 |**Name**|
 |:-----|
-|[AddMember](distlistitem-addmember-method-outlook.md)|
-|[AddMembers](distlistitem-addmembers-method-outlook.md)|
-|[ClearTaskFlag](distlistitem-cleartaskflag-method-outlook.md)|
-|[Close](distlistitem-close-method-outlook.md)|
-|[Copy](distlistitem-copy-method-outlook.md)|
-|[Delete](distlistitem-delete-method-outlook.md)|
-|[Display](distlistitem-display-method-outlook.md)|
-|[GetConversation](distlistitem-getconversation-method-outlook.md)|
-|[GetMember](distlistitem-getmember-method-outlook.md)|
-|[MarkAsTask](distlistitem-markastask-method-outlook.md)|
-|[Move](distlistitem-move-method-outlook.md)|
-|[PrintOut](distlistitem-printout-method-outlook.md)|
-|[RemoveMember](distlistitem-removemember-method-outlook.md)|
-|[RemoveMembers](distlistitem-removemembers-method-outlook.md)|
-|[Save](distlistitem-save-method-outlook.md)|
-|[SaveAs](distlistitem-saveas-method-outlook.md)|
-|[ShowCategoriesDialog](distlistitem-showcategoriesdialog-method-outlook.md)|
+|[AddMember](Outlook.DistListItem.AddMember.md)|
+|[AddMembers](Outlook.DistListItem.AddMembers.md)|
+|[ClearTaskFlag](Outlook.DistListItem.ClearTaskFlag.md)|
+|[Close](Outlook.DistListItem.Close(method).md)|
+|[Copy](Outlook.DistListItem.Copy.md)|
+|[Delete](Outlook.DistListItem.Delete.md)|
+|[Display](Outlook.DistListItem.Display.md)|
+|[GetConversation](Outlook.DistListItem.GetConversation.md)|
+|[GetMember](Outlook.DistListItem.GetMember.md)|
+|[MarkAsTask](Outlook.DistListItem.MarkAsTask.md)|
+|[Move](Outlook.DistListItem.Move.md)|
+|[PrintOut](Outlook.DistListItem.PrintOut.md)|
+|[RemoveMember](Outlook.DistListItem.RemoveMember.md)|
+|[RemoveMembers](Outlook.DistListItem.RemoveMembers.md)|
+|[Save](Outlook.DistListItem.Save.md)|
+|[SaveAs](Outlook.DistListItem.SaveAs.md)|
+|[ShowCategoriesDialog](Outlook.DistListItem.ShowCategoriesDialog.md)|
 
 ## Properties
 
@@ -117,57 +117,57 @@ myItem.Display
 
 |**Name**|
 |:-----|
-|[Actions](distlistitem-actions-property-outlook.md)|
-|[Application](distlistitem-application-property-outlook.md)|
-|[Attachments](distlistitem-attachments-property-outlook.md)|
-|[AutoResolvedWinner](distlistitem-autoresolvedwinner-property-outlook.md)|
-|[BillingInformation](distlistitem-billinginformation-property-outlook.md)|
-|[Body](distlistitem-body-property-outlook.md)|
-|[Categories](distlistitem-categories-property-outlook.md)|
-|[Class](distlistitem-class-property-outlook.md)|
-|[Companies](distlistitem-companies-property-outlook.md)|
-|[Conflicts](distlistitem-conflicts-property-outlook.md)|
-|[ConversationID](distlistitem-conversationid-property-outlook.md)|
-|[ConversationIndex](distlistitem-conversationindex-property-outlook.md)|
-|[ConversationTopic](distlistitem-conversationtopic-property-outlook.md)|
-|[CreationTime](distlistitem-creationtime-property-outlook.md)|
-|[DLName](distlistitem-dlname-property-outlook.md)|
-|[DownloadState](distlistitem-downloadstate-property-outlook.md)|
-|[EntryID](distlistitem-entryid-property-outlook.md)|
-|[FormDescription](distlistitem-formdescription-property-outlook.md)|
-|[GetInspector](distlistitem-getinspector-property-outlook.md)|
-|[Importance](distlistitem-importance-property-outlook.md)|
-|[IsConflict](distlistitem-isconflict-property-outlook.md)|
-|[IsMarkedAsTask](distlistitem-ismarkedastask-property-outlook.md)|
-|[ItemProperties](distlistitem-itemproperties-property-outlook.md)|
-|[LastModificationTime](distlistitem-lastmodificationtime-property-outlook.md)|
-|[MarkForDownload](distlistitem-markfordownload-property-outlook.md)|
-|[MemberCount](distlistitem-membercount-property-outlook.md)|
-|[MessageClass](distlistitem-messageclass-property-outlook.md)|
-|[Mileage](distlistitem-mileage-property-outlook.md)|
-|[NoAging](distlistitem-noaging-property-outlook.md)|
-|[OutlookInternalVersion](distlistitem-outlookinternalversion-property-outlook.md)|
-|[OutlookVersion](distlistitem-outlookversion-property-outlook.md)|
-|[Parent](distlistitem-parent-property-outlook.md)|
-|[PropertyAccessor](distlistitem-propertyaccessor-property-outlook.md)|
-|[ReminderOverrideDefault](distlistitem-reminderoverridedefault-property-outlook.md)|
-|[ReminderPlaySound](distlistitem-reminderplaysound-property-outlook.md)|
-|[ReminderSet](distlistitem-reminderset-property-outlook.md)|
-|[ReminderSoundFile](distlistitem-remindersoundfile-property-outlook.md)|
-|[ReminderTime](distlistitem-remindertime-property-outlook.md)|
-|[RTFBody](distlistitem-rtfbody-property-outlook.md)|
-|[Saved](distlistitem-saved-property-outlook.md)|
-|[Sensitivity](distlistitem-sensitivity-property-outlook.md)|
-|[Session](distlistitem-session-property-outlook.md)|
-|[Size](distlistitem-size-property-outlook.md)|
-|[Subject](distlistitem-subject-property-outlook.md)|
-|[TaskCompletedDate](distlistitem-taskcompleteddate-property-outlook.md)|
-|[TaskDueDate](distlistitem-taskduedate-property-outlook.md)|
-|[TaskStartDate](distlistitem-taskstartdate-property-outlook.md)|
-|[TaskSubject](distlistitem-tasksubject-property-outlook.md)|
-|[ToDoTaskOrdinal](distlistitem-todotaskordinal-property-outlook.md)|
-|[UnRead](distlistitem-unread-property-outlook.md)|
-|[UserProperties](distlistitem-userproperties-property-outlook.md)|
+|[Actions](Outlook.DistListItem.Actions.md)|
+|[Application](Outlook.DistListItem.Application.md)|
+|[Attachments](Outlook.DistListItem.Attachments.md)|
+|[AutoResolvedWinner](Outlook.DistListItem.AutoResolvedWinner.md)|
+|[BillingInformation](Outlook.DistListItem.BillingInformation.md)|
+|[Body](Outlook.DistListItem.Body.md)|
+|[Categories](Outlook.DistListItem.Categories.md)|
+|[Class](Outlook.DistListItem.Class.md)|
+|[Companies](Outlook.DistListItem.Companies.md)|
+|[Conflicts](Outlook.DistListItem.Conflicts.md)|
+|[ConversationID](Outlook.DistListItem.ConversationID.md)|
+|[ConversationIndex](Outlook.DistListItem.ConversationIndex.md)|
+|[ConversationTopic](Outlook.DistListItem.ConversationTopic.md)|
+|[CreationTime](Outlook.DistListItem.CreationTime.md)|
+|[DLName](Outlook.DistListItem.DLName.md)|
+|[DownloadState](Outlook.DistListItem.DownloadState.md)|
+|[EntryID](Outlook.DistListItem.EntryID.md)|
+|[FormDescription](Outlook.DistListItem.FormDescription.md)|
+|[GetInspector](Outlook.DistListItem.GetInspector.md)|
+|[Importance](Outlook.DistListItem.Importance.md)|
+|[IsConflict](Outlook.DistListItem.IsConflict.md)|
+|[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAsTask.md)|
+|[ItemProperties](Outlook.DistListItem.ItemProperties.md)|
+|[LastModificationTime](Outlook.DistListItem.LastModificationTime.md)|
+|[MarkForDownload](Outlook.DistListItem.MarkForDownload.md)|
+|[MemberCount](Outlook.DistListItem.MemberCount.md)|
+|[MessageClass](Outlook.DistListItem.MessageClass.md)|
+|[Mileage](Outlook.DistListItem.Mileage.md)|
+|[NoAging](Outlook.DistListItem.NoAging.md)|
+|[OutlookInternalVersion](Outlook.DistListItem.OutlookInternalVersion.md)|
+|[OutlookVersion](Outlook.DistListItem.OutlookVersion.md)|
+|[Parent](Outlook.DistListItem.Parent.md)|
+|[PropertyAccessor](Outlook.DistListItem.PropertyAccessor.md)|
+|[ReminderOverrideDefault](Outlook.DistListItem.ReminderOverrideDefault.md)|
+|[ReminderPlaySound](Outlook.DistListItem.ReminderPlaySound.md)|
+|[ReminderSet](Outlook.DistListItem.ReminderSet.md)|
+|[ReminderSoundFile](Outlook.DistListItem.ReminderSoundFile.md)|
+|[ReminderTime](Outlook.DistListItem.ReminderTime.md)|
+|[RTFBody](Outlook.DistListItem.RTFBody.md)|
+|[Saved](Outlook.DistListItem.Saved.md)|
+|[Sensitivity](Outlook.DistListItem.Sensitivity.md)|
+|[Session](Outlook.DistListItem.Session.md)|
+|[Size](Outlook.DistListItem.Size.md)|
+|[Subject](Outlook.DistListItem.Subject.md)|
+|[TaskCompletedDate](Outlook.DistListItem.TaskCompletedDate.md)|
+|[TaskDueDate](Outlook.DistListItem.TaskDueDate.md)|
+|[TaskStartDate](Outlook.DistListItem.TaskStartDate.md)|
+|[TaskSubject](Outlook.DistListItem.TaskSubject.md)|
+|[ToDoTaskOrdinal](Outlook.DistListItem.ToDoTaskOrdinal.md)|
+|[UnRead](Outlook.DistListItem.UnRead.md)|
+|[UserProperties](Outlook.DistListItem.UserProperties.md)|
 
 ## See also
 

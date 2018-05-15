@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Page.InsideWidth Property (Outlook Forms Script)
 
-Returns a  **Long** that specifies the width, in points, of the client region inside a **[Page](page-object-outlook-forms-script.md)**. Read-only.
+Returns a  **Long** that specifies the width, in points, of the client region inside a **[Page](Outlook.page.md)**. Read-only.
 
 
 ## Syntax

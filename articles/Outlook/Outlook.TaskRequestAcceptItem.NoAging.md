@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

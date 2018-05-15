@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # NameSpace.GetSelectNamesDialog Method (Outlook)
 
-Obtains a  **[SelectNamesDialog](selectnamesdialog-object-outlook.md)** object for the current session.
+Obtains a  **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object for the current session.
 
 
 ## Syntax
 
  _expression_ . **GetSelectNamesDialog**
 
- _expression_ A variable that represents a **[NameSpace](namespace-object-outlook.md)** object.
+ _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ### Return Value
@@ -68,5 +68,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

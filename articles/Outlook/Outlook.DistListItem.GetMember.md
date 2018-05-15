@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.GetMember Method (Outlook)
 
-Returns a  **[Recipient](recipient-object-outlook.md)** object representing a member in a distribution list.
+Returns a  **[Recipient](Outlook.Recipient.md)** object representing a member in a distribution list.
 
 
 ## Syntax
@@ -98,5 +98,5 @@ End Sub
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeZone.StandardBias Property (Outlook)
 
-Returns a  **Long** value that represents the time offset in minutes from the **[Bias](timezone-bias-property-outlook.md)** to account for standard time in this time zone. Read-only.
+Returns a  **Long** value that represents the time offset in minutes from the **[Bias](Outlook.TimeZone.Bias.md)** to account for standard time in this time zone. Read-only.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ In relation to the UTC time and the local time of the time zone, UTC time is the
 #### Concepts
 
 
-[TimeZone Object](timezone-object-outlook.md)
+[TimeZone Object](Outlook.TimeZone.md)
 

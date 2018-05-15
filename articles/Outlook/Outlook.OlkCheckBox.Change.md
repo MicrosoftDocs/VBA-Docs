@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkCheckBox.Change Event (Outlook)
 
-Occurs when the  **[Value](olkcheckbox-value-property-outlook.md)** property changes.
+Occurs when the  **[Value](Outlook.OlkCheckBox.Value.md)** property changes.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Occurs when the  **[Value](olkcheckbox-value-property-outlook.md)** property cha
 #### Concepts
 
 
-[OlkCheckBox Object](olkcheckbox-object-outlook.md)
+[OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.HTMLBody Property (Outlook)
 
-Returns or sets a  **String** representing the HTML body of the specified **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a  **String** representing the HTML body of the specified **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ Returns or sets a  **String** representing the HTML body of the specified **[Sha
 
 The  **HTMLBody** property should be an HTML syntax string.
 
-Setting the  **HTMLBody** property sets the **[EditorType](inspector-editortype-property-outlook.md)** property of the item's **[Inspector](inspector-object-outlook.md)** to **olEditorHTML** .
+Setting the  **HTMLBody** property sets the **[EditorType](Outlook.Inspector.EditorType.md)** property of the item's **[Inspector](Outlook.Inspector.md)** to **olEditorHTML** .
 
-Setting the  **HTMLBody** property will always update the **[Body](sharingitem-body-property-outlook.md)** property immediately.
+Setting the  **HTMLBody** property will always update the **[Body](Outlook.SharingItem.Body.md)** property immediately.
 
 
 ## See also
@@ -38,5 +38,5 @@ Setting the  **HTMLBody** property will always update the **[Body](sharingitem-b
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

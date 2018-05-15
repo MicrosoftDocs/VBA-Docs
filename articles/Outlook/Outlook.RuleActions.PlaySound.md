@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions.PlaySound Property (Outlook)
 
-Returns a  **[PlaySoundRuleAction](playsoundruleaction-object-outlook.md)** object with **[PlaySoundRuleAction.ActionType](playsoundruleaction-actiontype-property-outlook.md)** being **olRuleActionNotifyRead** . Read-only.
+Returns a  **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)** object with **[PlaySoundRuleAction.ActionType](Outlook.PlaySoundRuleAction.ActionType.md)** being **olRuleActionNotifyRead** . Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[PlaySoundRuleAction](playsoundruleaction-object-outlook.md)** obje
 
 Use the returned  **PlaySoundRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies playing a sound file as an action.
 
-This property of the  **[RuleActions](ruleactions-object-outlook.md)** collection always returns a **PlaySoundRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[PlaySoundRuleAction.Enabled](playsoundruleaction-enabled-property-outlook.md)** will be **True** .
+This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns a **PlaySoundRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[PlaySoundRuleAction.Enabled](Outlook.PlaySoundRuleAction.Enabled.md)** will be **True** .
 
 
 ## See also
@@ -36,5 +36,5 @@ This property of the  **[RuleActions](ruleactions-object-outlook.md)** collectio
 #### Concepts
 
 
-[RuleActions Object](ruleactions-object-outlook.md)
+[RuleActions Object](Outlook.RuleActions.md)
 

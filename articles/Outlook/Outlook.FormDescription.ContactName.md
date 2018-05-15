@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.ContactName Property (Outlook)
 
-Returns or sets a  **String** representing the name of the person to contact for information regarding the custom form for this **[FormDescription](formdescription-object-outlook.md)** object. Read/write.
+Returns or sets a  **String** representing the name of the person to contact for information regarding the custom form for this **[FormDescription](Outlook.FormDescription.md)** object. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the name of the person to contact for
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

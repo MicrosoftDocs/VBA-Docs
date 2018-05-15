@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.StatusReport Method (Outlook)
 
-Sends a status report to all Cc recipients (recipients returned by the  **[StatusUpdateRecipients](taskitem-statusupdaterecipients-property-outlook.md)** property) with the current status for the task and returns an **Object** representing the status report.
+Sends a status report to all Cc recipients (recipients returned by the  **[StatusUpdateRecipients](Outlook.TaskItem.StatusUpdateRecipients.md)** property) with the current status for the task and returns an **Object** representing the status report.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ An  **Object** value that represents the status report.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[StatusReport](taskitem-statusreport-method-outlook.md)** method to report the status of the currently open task.
+This Visual Basic for Applications (VBA) example uses the  **[StatusReport](Outlook.TaskItem.StatusReport.md)** method to report the status of the currently open task.
 
 
 ```vb
@@ -61,5 +61,5 @@ End Sub
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

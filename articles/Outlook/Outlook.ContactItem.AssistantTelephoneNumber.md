@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the telephone number of the person wh
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

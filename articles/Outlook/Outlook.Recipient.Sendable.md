@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Recipient.Sendable Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether a meeting request can be sent to the **[Recipient](recipient-object-outlook.md)** . Read/write
+Returns or sets a  **Boolean** value that indicates whether a meeting request can be sent to the **[Recipient](Outlook.Recipient.md)** . Read/write
 
 
 ## Syntax
 
  _expression_ . **Sendable**
 
- _expression_ A variable that represents a **[Recipient](recipient-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Recipient](Outlook.Recipient.md)** object.
 
 
 ## Remarks
@@ -36,5 +36,5 @@ This property applies only to a recipient of a meeting request. If the recipient
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](Outlook.Recipient.md)
 

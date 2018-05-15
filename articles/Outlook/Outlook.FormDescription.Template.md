@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the name of the template for the form. 
 
 ## Remarks
 
-This property refers to a Microsoft Office Word .DOT template file, and so is applicable for forms with  **[UseWordMail](formdescription-usewordmail-property-outlook.md)** = **True** .
+This property refers to a Microsoft Office Word .DOT template file, and so is applicable for forms with  **[UseWordMail](Outlook.FormDescription.UseWordMail.md)** = **True** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property refers to a Microsoft Office Word .DOT template file, and so is ap
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

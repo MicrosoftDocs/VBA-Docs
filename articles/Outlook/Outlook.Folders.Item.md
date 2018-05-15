@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.Item Method (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object from the collection.
+Returns a  **[Folder](Outlook.Folder.md)** object from the collection.
 
 
 ## Syntax
@@ -62,5 +62,5 @@ End Sub
 #### Concepts
 
 
-[Folders Object](folders-object-outlook.md)
+[Folders Object](Outlook.Folders.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleAction Object (Outlook)
 
-Represents an action that is run when a  **[Rule](rule-object-outlook.md)** object executes.
+Represents an action that is run when a  **[Rule](Outlook.Rule.md)** object executes.
 
 
 ## Remarks
@@ -21,17 +21,17 @@ Represents an action that is run when a  **[Rule](rule-object-outlook.md)** obje
  **RuleAction** is the base class for rule actions that are supported in programmatic rule creation. The classes derived from **RuleAction** include:
 
 
--  **[AssignToCategoryRuleAction](assigntocategoryruleaction-object-outlook.md)**
+-  **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md)**
     
--  **[MarkAsTaskRuleAction](markastaskruleaction-object-outlook.md)**
+-  **[MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md)**
     
--  **[MoveOrCopyRuleAction](moveorcopyruleaction-object-outlook.md)**
+-  **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)**
     
--  **[NewItemAlertRuleAction](newitemalertruleaction-object-outlook.md)**
+-  **[NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md)**
     
--  **[PlaySoundRuleAction](playsoundruleaction-object-outlook.md)**
+-  **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)**
     
--  **[SendRuleAction](sendruleaction-object-outlook.md)**
+-  **[SendRuleAction](Outlook.SendRuleAction.md)**
     
 
 
@@ -46,12 +46,12 @@ For more information on rule actions, see [Specifying Rule Actions](http://msdn.
 
 |**Name**|
 |:-----|
-|[ActionType](ruleaction-actiontype-property-outlook.md)|
-|[Application](ruleaction-application-property-outlook.md)|
-|[Class](ruleaction-class-property-outlook.md)|
-|[Enabled](ruleaction-enabled-property-outlook.md)|
-|[Parent](ruleaction-parent-property-outlook.md)|
-|[Session](ruleaction-session-property-outlook.md)|
+|[ActionType](Outlook.RuleAction.ActionType.md)|
+|[Application](Outlook.RuleAction.Application.md)|
+|[Class](Outlook.RuleAction.Class.md)|
+|[Enabled](Outlook.RuleAction.Enabled.md)|
+|[Parent](Outlook.RuleAction.Parent.md)|
+|[Session](Outlook.RuleAction.Session.md)|
 
 ## See also
 

@@ -29,5 +29,5 @@ Deletes an object from the collection.
 #### Concepts
 
 
-[Action Object](action-object-outlook.md)
+[Action Object](Outlook.Action.md)
 

@@ -34,5 +34,5 @@ This event occurs only when the control is displaying the contact picture button
 #### Concepts
 
 
-[OlkContactPhoto Object](olkcontactphoto-object-outlook.md)
+[OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 

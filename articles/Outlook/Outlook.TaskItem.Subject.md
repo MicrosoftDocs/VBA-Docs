@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagSubject** . The **Subjec
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

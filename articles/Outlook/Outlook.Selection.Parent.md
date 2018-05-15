@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Selection Object](selection-object-outlook.md)
+[Selection Object](Outlook.Selection.md)
 

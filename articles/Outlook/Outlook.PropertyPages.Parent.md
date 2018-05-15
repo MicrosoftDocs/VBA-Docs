@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[PropertyPages Object](propertypages-object-outlook.md)
+[PropertyPages Object](Outlook.PropertyPages.md)
 

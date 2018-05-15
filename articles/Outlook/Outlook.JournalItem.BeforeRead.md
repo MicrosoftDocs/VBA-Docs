@@ -22,16 +22,16 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
 ## Remarks
 
-The  **BeforeRead** event occurs before the **[Read](journalitem-read-event-outlook.md)** event. Unlike other events with the Before prefix, this event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](journalitem-unload-event-outlook.md)** event.
+The  **BeforeRead** event occurs before the **[Read](Outlook.JournalItem.Read.md)** event. Unlike other events with the Before prefix, this event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](Outlook.JournalItem.Unload.md)** event.
 
 The  **BeforeRead** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnRead** .
 
 Only the following members of the item object can be accessed in the  **BeforeRead** event:
 
 
--  **[Class](journalitem-class-property-outlook.md)**
+-  **[Class](Outlook.JournalItem.Class.md)**
     
--  **[MessageClass](journalitem-messageclass-property-outlook.md)**
+-  **[MessageClass](Outlook.JournalItem.MessageClass.md)**
     
 -  **MAPIOBJECT**
     
@@ -48,5 +48,5 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

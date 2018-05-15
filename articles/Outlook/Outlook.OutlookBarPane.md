@@ -18,7 +18,7 @@ Represents the  **Shortcuts** pane in an explorer window.
 
 ## Remarks
 
-Use the  **[Item](panes-item-method-outlook.md)** method to retrieve the **OutlookBarPane** object from a **[Panes](panes-object-outlook.md)** object. Because the **[Name](outlookbarpane-name-property-outlook.md)** property is the default property of the **OutlookBarPane** object, you can identify the **OutlookBarPane** object by name. For example:
+Use the  **[Item](Outlook.Panes.Item.md)** method to retrieve the **OutlookBarPane** object from a **[Panes](Outlook.Panes.md)** object. Because the **[Name](Outlook.OutlookBarPane.Name.md)** property is the default property of the **OutlookBarPane** object, you can identify the **OutlookBarPane** object by name. For example:
 
 
 ## Example
@@ -37,7 +37,7 @@ Set myOlBarPane = myPanes.Item("OutlookBar")
 
 |**Name**|
 |:-----|
-|[BeforeNavigate](outlookbarpane-beforenavigate-event-outlook.md)|
+|[BeforeNavigate](Outlook.OutlookBarPane.BeforeNavigate.md)|
 
 ## Properties
 
@@ -45,12 +45,12 @@ Set myOlBarPane = myPanes.Item("OutlookBar")
 
 |**Name**|
 |:-----|
-|[Application](outlookbarpane-application-property-outlook.md)|
-|[Class](outlookbarpane-class-property-outlook.md)|
-|[Contents](outlookbarpane-contents-property-outlook.md)|
-|[Name](outlookbarpane-name-property-outlook.md)|
-|[Parent](outlookbarpane-parent-property-outlook.md)|
-|[Session](outlookbarpane-session-property-outlook.md)|
+|[Application](Outlook.OutlookBarPane.Application.md)|
+|[Class](Outlook.OutlookBarPane.Class.md)|
+|[Contents](Outlook.OutlookBarPane.Contents.md)|
+|[Name](Outlook.OutlookBarPane.Name.md)|
+|[Parent](Outlook.OutlookBarPane.Parent.md)|
+|[Session](Outlook.OutlookBarPane.Session.md)|
 |[Visible](outlookbarpane-visible-property-outlook.md)|
 
 ## See also

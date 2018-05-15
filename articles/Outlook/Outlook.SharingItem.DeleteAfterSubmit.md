@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if a copy of the item is n
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

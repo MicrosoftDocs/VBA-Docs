@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.ShowNewItemRow Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines if the new item row is displayed in the **[TableView](tableview-object-outlook.md)** object. Read/write
+Returns or sets a  **Boolean** value that determines if the new item row is displayed in the **[TableView](Outlook.TableView.md)** object. Read/write
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines if the new item row is disp
 
 ## Remarks
 
-The value of this property applies only if the  **[AllowInCellEditing](tableview-allowincellediting-property-outlook.md)** property is set to **True** .
+The value of this property applies only if the  **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True** .
 
 
 ## Example
@@ -94,5 +94,5 @@ End Sub
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

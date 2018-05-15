@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Update Method (Outlook)
 
-Posts a change to the  **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object in the messaging system.
+Posts a change to the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object in the messaging system.
 
 
 ## Syntax
@@ -45,5 +45,5 @@ To flush the cache and then reload the values from the address book, call  **Upd
 #### Concepts
 
 
-[ExchangeDistributionList Object](exchangedistributionlist-object-outlook.md)
+[ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

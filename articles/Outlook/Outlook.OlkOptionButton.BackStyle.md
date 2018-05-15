@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkOptionButton.BackStyle Property (Outlook)
 
-Returns or sets an  **[olBackStyle](olbackstyle-enumeration-outlook.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
+Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that changes the background style of the control between transparent and opaque. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olBackStyleOpaque** .
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

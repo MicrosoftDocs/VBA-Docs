@@ -29,5 +29,5 @@ Returns  **True** if the appointment is an all-day event (as opposed to a specif
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

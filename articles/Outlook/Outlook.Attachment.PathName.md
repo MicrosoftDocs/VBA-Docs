@@ -34,5 +34,5 @@ This property is only valid for linked files.
 #### Concepts
 
 
-[Attachment Object](attachment-object-outlook.md)
+[Attachment Object](Outlook.Attachment.md)
 

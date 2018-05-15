@@ -29,5 +29,5 @@ Returns or sets a  **Long** specifying the height (in pixels) of the explorer wi
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

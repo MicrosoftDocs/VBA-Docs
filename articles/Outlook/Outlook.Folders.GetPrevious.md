@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.GetPrevious Method (Outlook)
 
-Returns the previous object in the  **[Folders](folders-object-outlook.md)** collection.
+Returns the previous object in the  **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the previous object in the  **[Folders](folders-object-outlook.md)** col
 
 ### Return Value
 
-A  **[Folder](folder-object-outlook.md)** object that represents the previous object contained by the collection.
+A  **[Folder](Outlook.Folder.md)** object that represents the previous object contained by the collection.
 
 
 ## Remarks
 
-It returns  **Nothing** if no previous object exists, for example, if already positioned at the beginning of the collection.To ensure correct operation of the **[GetFirst](folders-getfirst-method-outlook.md)** , **[GetLast](folders-getlast-method-outlook.md)** , **[GetNext](folders-getnext-method-outlook.md)** , and **GetPrevious** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+It returns  **Nothing** if no previous object exists, for example, if already positioned at the beginning of the collection.To ensure correct operation of the **[GetFirst](Outlook.Folders.GetFirst.md)** , **[GetLast](Outlook.Folders.GetLast.md)** , **[GetNext](Outlook.Folders.GetNext.md)** , and **GetPrevious** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## Example
@@ -85,5 +85,5 @@ End Sub
 #### Concepts
 
 
-[Folders Object](folders-object-outlook.md)
+[Folders Object](Outlook.Folders.md)
 

@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of a  **[Stores](stores-object-outlook.md)** object is the **[NameSpace](namespace-object-outlook.md)** object.
+The parent of a  **[Stores](Outlook.Stores.md)** object is the **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of a  **[Stores](stores-object-outlook.md)** object is the **[NameSpa
 #### Concepts
 
 
-[Stores Object](stores-object-outlook.md)
+[Stores Object](Outlook.Stores.md)
 

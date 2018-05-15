@@ -18,9 +18,9 @@ Represents the storage for objects in the Outlook Bar.
 
 ## Remarks
 
-Use the  **[Contents](outlookbarpane-contents-property-outlook.md)** property of an **[OutlookBarPane](outlookbarpane-object-outlook.md)** object to retrieve the **OutlookBarStorage** object for the Outlook Bar.
+Use the  **[Contents](Outlook.OutlookBarPane.Contents.md)** property of an **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to retrieve the **OutlookBarStorage** object for the Outlook Bar.
 
-Use the  **[Groups](outlookbarstorage-groups-property-outlook.md)** property to retrieve the **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object for the Outlook Bar.
+Use the  **[Groups](Outlook.OutlookBarStorage.Groups.md)** property to retrieve the **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object for the Outlook Bar.
 
 
 ## Example
@@ -39,10 +39,10 @@ Set myOLBarStorage = myPanes.Item("OutlookBar").Contents
 
 |**Name**|
 |:-----|
-|[Application](outlookbarstorage-application-property-outlook.md)|
-|[Class](outlookbarstorage-class-property-outlook.md)|
-|[Groups](outlookbarstorage-groups-property-outlook.md)|
-|[Parent](outlookbarstorage-parent-property-outlook.md)|
+|[Application](Outlook.OutlookBarStorage.Application.md)|
+|[Class](Outlook.OutlookBarStorage.Class.md)|
+|[Groups](Outlook.OutlookBarStorage.Groups.md)|
+|[Parent](Outlook.OutlookBarStorage.Parent.md)|
 |[Session](outlookbarstorage-session-property-outlook.md)|
 
 ## See also

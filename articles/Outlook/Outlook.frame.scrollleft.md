@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Frame.ScrollLeft Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that specifies the distance, in points, of the left edge of the visible form from the left edge of the **[Frame](frame-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Single** that specifies the distance, in points, of the left edge of the visible form from the left edge of the **[Frame](Outlook.frame.md)**. Read/write.
 
 
 ## Syntax
@@ -23,6 +23,6 @@ Returns or sets a  **Single** that specifies the distance, in points, of the lef
 
 ## Remarks
 
-The minimum value is zero; the maximum value is the difference between the value of the  **[ScrollWidth](frame-scrollwidth-property-outlook-forms-script.md)** property and the value of the **Width** property for the form or page.
+The minimum value is zero; the maximum value is the difference between the value of the  **[ScrollWidth](Outlook.frame.scrollwidth.md)** property and the value of the **Width** property for the form or page.
 
 

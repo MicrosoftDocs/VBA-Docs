@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # TabStrip.TabFixedHeight Property (Outlook Forms Script)
 
-Returns or sets a  **Single** that represents the height in points of the tabs on a **[TabStrip](tabstrip-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Single** that represents the height in points of the tabs on a **[TabStrip](Outlook.tabstrip.md)**. Read/write.
 
 
 ## Syntax

@@ -34,5 +34,5 @@ This property uses the character specified in the value name,  **sList** , under
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

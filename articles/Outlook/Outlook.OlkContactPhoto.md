@@ -36,17 +36,17 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Change](olkcontactphoto-change-event-outlook.md)|
-|[Click](olkcontactphoto-click-event-outlook.md)|
-|[DoubleClick](olkcontactphoto-doubleclick-event-outlook.md)|
-|[Enter](olkcontactphoto-enter-event-outlook.md)|
-|[Exit](olkcontactphoto-exit-event-outlook.md)|
-|[KeyDown](olkcontactphoto-keydown-event-outlook.md)|
-|[KeyPress](olkcontactphoto-keypress-event-outlook.md)|
-|[KeyUp](olkcontactphoto-keyup-event-outlook.md)|
-|[MouseDown](olkcontactphoto-mousedown-event-outlook.md)|
-|[MouseMove](olkcontactphoto-mousemove-event-outlook.md)|
-|[MouseUp](olkcontactphoto-mouseup-event-outlook.md)|
+|[Change](Outlook.OlkContactPhoto.Change.md)|
+|[Click](Outlook.OlkContactPhoto.Click.md)|
+|[DoubleClick](Outlook.OlkContactPhoto.DoubleClick.md)|
+|[Enter](Outlook.OlkContactPhoto.Enter.md)|
+|[Exit](Outlook.OlkContactPhoto.Exit.md)|
+|[KeyDown](Outlook.OlkContactPhoto.KeyDown.md)|
+|[KeyPress](Outlook.OlkContactPhoto.KeyPress.md)|
+|[KeyUp](Outlook.OlkContactPhoto.KeyUp.md)|
+|[MouseDown](Outlook.OlkContactPhoto.MouseDown.md)|
+|[MouseMove](Outlook.OlkContactPhoto.MouseMove.md)|
+|[MouseUp](Outlook.OlkContactPhoto.MouseUp.md)|
 
 ## Properties
 
@@ -54,9 +54,9 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Enabled](olkcontactphoto-enabled-property-outlook.md)|
-|[MouseIcon](olkcontactphoto-mouseicon-property-outlook.md)|
-|[MousePointer](olkcontactphoto-mousepointer-property-outlook.md)|
+|[Enabled](Outlook.OlkContactPhoto.Enabled.md)|
+|[MouseIcon](Outlook.OlkContactPhoto.MouseIcon.md)|
+|[MousePointer](Outlook.OlkContactPhoto.MousePointer.md)|
 
 ## See also
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.CreationTime Property (Outlook)
 
-Returns a  **Date** indicating the creation time for the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a  **Date** indicating the creation time for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagCreationTime** .
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

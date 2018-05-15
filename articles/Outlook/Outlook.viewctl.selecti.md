@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ViewCtl.Selection Property (Outlook View Control)
 
-Returns a  [Selection](selection-object-outlook.md) object that consists of one or more items that are selected in the current view. Read-only.
+Returns a  [Selection](Outlook.Selection.md) object that consists of one or more items that are selected in the current view. Read-only.
 
 
 ## Syntax

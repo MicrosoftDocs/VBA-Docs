@@ -83,5 +83,5 @@ End Sub
 #### Concepts
 
 
-[Attachments Object](attachments-object-outlook.md)
+[Attachments Object](Outlook.Attachments.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OrderFields.Insert Method (Outlook)
 
-Creates a new  **[OrderField](orderfield-object-outlook.md)** object and inserts it at the specified index within the **[OrderFields](orderfields-object-outlook.md)** collection.
+Creates a new  **[OrderField](Outlook.OrderField.md)** object and inserts it at the specified index within the **[OrderFields](Outlook.OrderFields.md)** collection.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Creates a new  **[OrderField](orderfield-object-outlook.md)** object and inserts
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _PropertyName_|Required| **String**|The name of the property to which the new object is associated.|
-| _Index_|Required| **Variant**|Either the index number at which to insert the new object, or a value used to match the  **[ViewXMLSchemaName](orderfield-viewxmlschemaname-property-outlook.md)** property value of an object in the collection at where the new object is to be inserted.|
-| _IsDescending_|Optional| **Boolean**|The value used to set the  **[IsDescending](orderfield-isdescending-property-outlook.md)** property of the new **OrderField** object. If this value is not specified, the default value of the **IsDescending** property is used.|
+| _Index_|Required| **Variant**|Either the index number at which to insert the new object, or a value used to match the  **[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)** property value of an object in the collection at where the new object is to be inserted.|
+| _IsDescending_|Optional| **Boolean**|The value used to set the  **[IsDescending](Outlook.OrderField.IsDescending.md)** property of the new **OrderField** object. If this value is not specified, the default value of the **IsDescending** property is used.|
 
 ### Return Value
 
@@ -44,5 +44,5 @@ An  **OrderField** object that represents the new order field.
 #### Concepts
 
 
-[OrderFields Object](orderfields-object-outlook.md)
+[OrderFields Object](Outlook.OrderFields.md)
 

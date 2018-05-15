@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.MessageClass Property (Outlook)
 
-Returns or sets a  **String** representing the message class for the **[Action](action-object-outlook.md)** . Read/write.
+Returns or sets a  **String** representing the message class for the **[Action](Outlook.Action.md)** . Read/write.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 #### Concepts
 
 
-[Action Object](action-object-outlook.md)
+[Action Object](Outlook.Action.md)
 #### Other resources
 
 

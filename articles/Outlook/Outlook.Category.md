@@ -20,9 +20,9 @@ Represents a user-defined category by which Outlook items can be grouped.
 
 Microsoft Outlook provides a categorization system with which Outlook items can be easily identified and grouped into user-defined categories. The  **Category** object represents a user-defined category.
 
-Use the  **[Add](categories-add-method-outlook.md)** method of the **[Categories](namespace-categories-property-outlook.md)** property for the **[NameSpace](namespace-object-outlook.md)** object to create a new **Category** object, adding the category to the Master Category List for that namespace.
+Use the  **[Add](Outlook.Categories.Add.md)** method of the **[Categories](Outlook.NameSpace.Categories.md)** property for the **[NameSpace](Outlook.NameSpace.md)** object to create a new **Category** object, adding the category to the Master Category List for that namespace.
 
-Use the  **[Name](category-name-property-outlook.md)** property to specify the name of the category, the **[Color](category-color-property-outlook.md)** property to specify the color displayed for that category, and the **[ShortcutKey](category-shortcutkey-property-outlook.md)** property to specify the shortcut key used to assign that category to an Outlook item in the Outlook user interface. Use the **[CategoryID](category-categoryid-property-outlook.md)** property to retrieve the unique identifer for a category.
+Use the  **[Name](Outlook.Category.Name.md)** property to specify the name of the category, the **[Color](Outlook.Category.Color.md)** property to specify the color displayed for that category, and the **[ShortcutKey](Outlook.Category.ShortcutKey.md)** property to specify the shortcut key used to assign that category to an Outlook item in the Outlook user interface. Use the **[CategoryID](Outlook.Category.CategoryID.md)** property to retrieve the unique identifer for a category.
 
 
 ### Assigning Categories to Items
@@ -40,11 +40,11 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 |**[MailItem](mailitem-object-outlook.md)**|**[TaskRequestDeclineItem](taskrequestdeclineitem-object-outlook.md)**|
 |**[MeetingItem](meetingitem-object-outlook.md)**|**[TaskRequestItem](taskrequestitem-object-outlook.md)**|
 |**[NoteItem](noteitem-object-outlook.md)**|**[TaskRequestUpdateItem](taskrequestupdateitem-object-outlook.md)**|
-|**[PostItem](postitem-object-outlook.md)**||
+|**[PostItem](Outlook.PostItem.md)**||
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ```
@@ -118,17 +118,17 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](category-application-property-outlook.md)|
-|[CategoryBorderColor](category-categorybordercolor-property-outlook.md)|
-|[CategoryGradientBottomColor](category-categorygradientbottomcolor-property-outlook.md)|
-|[CategoryGradientTopColor](category-categorygradienttopcolor-property-outlook.md)|
-|[CategoryID](category-categoryid-property-outlook.md)|
+|[Application](Outlook.Category.Application.md)|
+|[CategoryBorderColor](Outlook.Category.CategoryBorderColor.md)|
+|[CategoryGradientBottomColor](Outlook.Category.CategoryGradientBottomColor.md)|
+|[CategoryGradientTopColor](Outlook.Category.CategoryGradientTopColor.md)|
+|[CategoryID](Outlook.Category.CategoryID.md)|
 |[Class](category-class-property-outlook.md)|
-|[Color](category-color-property-outlook.md)|
-|[Name](category-name-property-outlook.md)|
+|[Color](Outlook.Category.Color.md)|
+|[Name](Outlook.Category.Name.md)|
 |[Parent](category-parent-property-outlook.md)|
 |[Session](category-session-property-outlook.md)|
-|[ShortcutKey](category-shortcutkey-property-outlook.md)|
+|[ShortcutKey](Outlook.Category.ShortcutKey.md)|
 
 ## See also
 

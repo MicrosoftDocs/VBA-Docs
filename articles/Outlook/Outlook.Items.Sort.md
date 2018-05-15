@@ -29,7 +29,7 @@ Sorts the collection of items by the specified property. The index for the colle
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Property_|Required| **String**|The name of the property by which to sort, which may be enclosed in brackets, for example, "[CompanyName]". User-defined properties that contain spaces must be enclosed in brackets. May not be a user-defined property of type keywords, and may not be a multi-valued property, such as a category. For user-defined properties, the property must exist in the  **UserDefinedProperties** collection for **[Items.Parent](items-parent-property-outlook.md)** , which represents the **[Folder](folder-object-outlook.md)** object that contains the items.|
+| _Property_|Required| **String**|The name of the property by which to sort, which may be enclosed in brackets, for example, "[CompanyName]". User-defined properties that contain spaces must be enclosed in brackets. May not be a user-defined property of type keywords, and may not be a multi-valued property, such as a category. For user-defined properties, the property must exist in the  **UserDefinedProperties** collection for **[Items.Parent](Outlook.Items.Parent.md)** , which represents the **[Folder](Outlook.Folder.md)** object that contains the items.|
 | _Descending_|Optional| **Variant**| **True** to sort in descending order. The default value is **False** (ascending).|
 
 ## Remarks
@@ -40,19 +40,19 @@ Sorts the collection of items by the specified property. The index for the colle
 
 
 
-| **Categories**| **[LastFirstSpaceOnly](contactitem-lastfirstspaceonly-property-outlook.md)**|
-| **[Children](contactitem-children-property-outlook.md)**| **[LastFirstSpaceOnlyCompany](contactitem-lastfirstspaceonlycompany-property-outlook.md)**|
-| **Class**| **[MemberCount](distlistitem-membercount-property-outlook.md)**|
-| **[CompanyLastFirstNoSpace](contactitem-companylastfirstnospace-property-outlook.md)**| **[NetMeetingAlias](contactitem-netmeetingalias-property-outlook.md)**|
-| **[CompanyLastFirstSpaceOnly](contactitem-companylastfirstspaceonly-property-outlook.md)**| **[RecurrenceState](appointmentitem-recurrencestate-property-outlook.md)**|
-| **[DLName](distlistitem-dlname-property-outlook.md)**| **[ResponseState](taskitem-responsestate-property-outlook.md)**|
-| **[LastFirstAndSuffix](contactitem-lastfirstandsuffix-property-outlook.md)**| **Saved**|
-| **[LastFirstNoSpace](contactitem-lastfirstnospace-property-outlook.md)**| **Sent**|
-| **[LastFirstNoSpaceCompany](contactitem-lastfirstnospacecompany-property-outlook.md)**||
+| **Categories**| **[LastFirstSpaceOnly](Outlook.ContactItem.LastFirstSpaceOnly.md)**|
+| **[Children](Outlook.ContactItem.Children.md)**| **[LastFirstSpaceOnlyCompany](Outlook.ContactItem.LastFirstSpaceOnlyCompany.md)**|
+| **Class**| **[MemberCount](Outlook.DistListItem.MemberCount.md)**|
+| **[CompanyLastFirstNoSpace](Outlook.ContactItem.CompanyLastFirstNoSpace.md)**| **[NetMeetingAlias](Outlook.ContactItem.NetMeetingAlias.md)**|
+| **[CompanyLastFirstSpaceOnly](Outlook.ContactItem.CompanyLastFirstSpaceOnly.md)**| **[RecurrenceState](Outlook.AppointmentItem.RecurrenceState.md)**|
+| **[DLName](Outlook.DistListItem.DLName.md)**| **[ResponseState](Outlook.TaskItem.ResponseState.md)**|
+| **[LastFirstAndSuffix](Outlook.ContactItem.LastFirstAndSuffix.md)**| **Saved**|
+| **[LastFirstNoSpace](Outlook.ContactItem.LastFirstNoSpace.md)**| **Sent**|
+| **[LastFirstNoSpaceCompany](Outlook.ContactItem.LastFirstNoSpaceCompany.md)**||
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example uses the  **Sort** method to sort the **[Items](items-object-outlook.md)** collection for the default **Tasks** folder by the "DueDate" property and displays the due dates each in turn.
+The following Visual Basic for Applications (VBA) example uses the  **Sort** method to sort the **[Items](Outlook.Items.md)** collection for the default **Tasks** folder by the "DueDate" property and displays the due dates each in turn.
 
 
 ```vb
@@ -79,5 +79,5 @@ End Sub
 #### Concepts
 
 
-[Items Object](items-object-outlook.md)
+[Items Object](Outlook.Items.md)
 

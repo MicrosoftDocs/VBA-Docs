@@ -33,7 +33,7 @@ Removes the specified item from the list.
 
 ## Remarks
 
-If  _Index_ is outside the range of the allowed values (between zero and **[ListCount](olklistbox-listcount-property-outlook.md)** -1), then an out-of-bounds error will be returned.
+If  _Index_ is outside the range of the allowed values (between zero and **[ListCount](Outlook.OlkListBox.ListCount.md)** -1), then an out-of-bounds error will be returned.
 
 
 ## See also
@@ -42,5 +42,5 @@ If  _Index_ is outside the range of the allowed values (between zero and **[List
 #### Concepts
 
 
-[OlkListBox Object](olklistbox-object-outlook.md)
+[OlkListBox Object](Outlook.OlkListBox.md)
 

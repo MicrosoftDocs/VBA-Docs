@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[SyncObjects Object](syncobjects-object-outlook.md)
+[SyncObjects Object](Outlook.SyncObjects.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.ForwardAsVcard Method (Outlook)
 
-Creates a  **[MailItem](mailitem-object-outlook.md)** and attaches the contact information in vCard format.
+Creates a  **[MailItem](Outlook.MailItem.md)** and attaches the contact information in vCard format.
 
 
 ## Syntax
@@ -39,5 +39,5 @@ vCard is the Internet standard for creating and sharing virtual business cards.
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

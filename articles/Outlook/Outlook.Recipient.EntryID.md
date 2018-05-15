@@ -36,5 +36,5 @@ A MAPI store provider assigns a unique ID string when an item is created in its 
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](Outlook.Recipient.md)
 

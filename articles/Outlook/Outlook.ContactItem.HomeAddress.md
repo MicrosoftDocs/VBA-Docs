@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the full, unparsed text of the home a
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

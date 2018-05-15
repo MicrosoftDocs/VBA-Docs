@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.Categories Property (Outlook)
 
-Returns a  **[Categories](categories-object-outlook.md)** collection that represents all of the categories that are defined for the **[Store](store-object-outlook.md)** . Read-only.
+Returns a  **[Categories](Outlook.Categories.md)** collection that represents all of the categories that are defined for the **[Store](Outlook.Store.md)** . Read-only.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns a  **[Categories](categories-object-outlook.md)** collection that repres
 
 ## Remarks
 
-This property is similar to the  **[Categories](namespace-categories-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that the **Store.Categories** property applies to a session profile that specifies one or more accounts and **Store.Categories** specifies the categories for the store that an account is associated with, whereas **NameSpace.Categories** applies to a session profile that defines only one account and the **NameSpace.Categories** property specifies the Master Category List for that session.
+This property is similar to the  **[Categories](Outlook.NameSpace.Categories.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that the **Store.Categories** property applies to a session profile that specifies one or more accounts and **Store.Categories** specifies the categories for the store that an account is associated with, whereas **NameSpace.Categories** applies to a session profile that defines only one account and the **NameSpace.Categories** property specifies the Master Category List for that session.
 
 For certain secondary delivery stores such as an IMAP store, the  **Categories** property returns the **Categories** collection for the primary store. IMAP stores do not actually support a separate categories collection.
 
 
 ## Example
 
-The following code sample in Microsoft Visual Basic for Applications (VBA) displays the name of each  **[Category](category-object-outlook.md)** object that is contained in the **Categories** collection associated with each **Store** object in the **[Stores](stores-object-outlook.md)** collection for the session.
+The following code sample in Microsoft Visual Basic for Applications (VBA) displays the name of each  **[Category](Outlook.Category.md)** object that is contained in the **Categories** collection associated with each **Store** object in the **[Stores](Outlook.Stores.md)** collection for the session.
 
 
 ```vb
@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

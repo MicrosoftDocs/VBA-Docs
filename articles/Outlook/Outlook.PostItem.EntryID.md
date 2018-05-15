@@ -36,5 +36,5 @@ A MAPI store provider assigns a unique ID string when an item is created in its 
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

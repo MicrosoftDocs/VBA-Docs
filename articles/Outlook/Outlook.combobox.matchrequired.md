@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ComboBox.MatchRequired Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a value entered in the text portion of a **[ComboBox](combobox-object-outlook-forms-script.md)** must match an entry in the existing list portion of the control. Read/write.
+Returns or sets a  **Boolean** that specifies whether a value entered in the text portion of a **[ComboBox](Outlook.combobox.md)** must match an entry in the existing list portion of the control. Read/write.
 
 
 ## Syntax

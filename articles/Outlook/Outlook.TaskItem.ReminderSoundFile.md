@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](taskitem-reminderoverridedefault-property-outlook.md)** and **[ReminderPlaySound](taskitem-reminderplaysound-property-outlook.md)** properties are set to **True** .
+This property is only valid if the  **[ReminderOverrideDefault](Outlook.TaskItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.TaskItem.ReminderPlaySound.md)** properties are set to **True** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is only valid if the  **[ReminderOverrideDefault](taskitem-reminde
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

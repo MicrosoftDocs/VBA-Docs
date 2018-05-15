@@ -33,12 +33,12 @@ Returns a  **Boolean** value that indicates whether the contents of a custom pro
 
 ## Remarks
 
-The ActiveX control that implements the  **[PropertyPage](propertypage-object-outlook.md)** object sets the value of this property, and Microsoft Outlook queries this in response to the **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)** method of a **[PropertyPageSite](propertypagesite-object-outlook.md)** object.
+The ActiveX control that implements the  **[PropertyPage](Outlook.PropertyPage.md)** object sets the value of this property, and Microsoft Outlook queries this in response to the **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method of a **[PropertyPageSite](Outlook.PropertyPageSite.md)** object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example returns the value of the  **[Dirty](propertypage-dirty-property-outlook.md)** property as the value of a global variable.
+This Visual Basic for Applications (VBA) example returns the value of the  **[Dirty](Outlook.PropertyPage.Dirty.md)** property as the value of a global variable.
 
 
 ```vb
@@ -54,5 +54,5 @@ End Property
 #### Concepts
 
 
-[PropertyPage Object](propertypage-object-outlook.md)
+[PropertyPage Object](Outlook.PropertyPage.md)
 

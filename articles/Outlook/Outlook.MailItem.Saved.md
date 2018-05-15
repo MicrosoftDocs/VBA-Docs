@@ -25,7 +25,7 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example tests for the  **[Close](mailitem-close-event-outlook.md)** event and if the item has not been **[Saved](mailitem-saved-property-outlook.md)** , it uses the **[Save](mailitem-save-method-outlook.md)** method to save the item without prompting the user.
+This Microsoft Visual Basic for Applications (VBA) example tests for the  **[Close](Outlook.MailItem.Close(even).md)** event and if the item has not been **[Saved](Outlook.MailItem.Saved.md)** , it uses the **[Save](Outlook.MailItem.Save.md)** method to save the item without prompting the user.
 
 
 ```vb
@@ -61,5 +61,5 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

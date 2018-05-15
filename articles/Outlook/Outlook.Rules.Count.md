@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Rules Object](rules-object-outlook.md)
+[Rules Object](Outlook.Rules.md)
 

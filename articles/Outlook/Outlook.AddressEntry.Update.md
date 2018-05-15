@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.Update Method (Outlook)
 
-Posts a change to the  **[AddressEntry](addressentry-object-outlook.md)** object in the messaging system.
+Posts a change to the  **[AddressEntry](Outlook.AddressEntry.md)** object in the messaging system.
 
 
 ## Syntax
@@ -45,5 +45,5 @@ To flush the cache and then reload the values from the address book, call  **Upd
 #### Concepts
 
 
-[AddressEntry Object](addressentry-object-outlook.md)
+[AddressEntry Object](Outlook.AddressEntry.md)
 

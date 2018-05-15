@@ -37,5 +37,5 @@ Removes an object from the collection.
 #### Concepts
 
 
-[OutlookBarGroups Object](outlookbargroups-object-outlook.md)
+[OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 

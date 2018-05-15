@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions.AssignToCategory Property (Outlook)
 
-Returns an  **[AssignToCategoryRuleAction](assigntocategoryruleaction-object-outlook.md)** object with **[AssignToCategoryRuleAction.ActionType](assigntocategoryruleaction-actiontype-property-outlook.md)** being **olRuleAssignToCategory** . Read-only.
+Returns an  **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md)** object with **[AssignToCategoryRuleAction.ActionType](Outlook.AssignToCategoryRuleAction.ActionType.md)** being **olRuleAssignToCategory** . Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns an  **[AssignToCategoryRuleAction](assigntocategoryruleaction-object-out
 
 Use the returned  **AssignToCategoryRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that assigns categories to a message.
 
-This property of the  **[RuleActions](ruleactions-object-outlook.md)** collection always returns an **AssignToCategoryRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[AssignToCategoryRuleAction.Enabled](assigntocategoryruleaction-enabled-property-outlook.md)** will be **True** .
+This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns an **AssignToCategoryRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[AssignToCategoryRuleAction.Enabled](Outlook.AssignToCategoryRuleAction.Enabled.md)** will be **True** .
 
 
 ## See also
@@ -36,5 +36,5 @@ This property of the  **[RuleActions](ruleactions-object-outlook.md)** collectio
 #### Concepts
 
 
-[RuleActions Object](ruleactions-object-outlook.md)
+[RuleActions Object](Outlook.RuleActions.md)
 

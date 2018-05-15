@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [OptionButton Object (Outlook Forms Script)](optionbutton-object-outlook-forms-script.md)
+-  [OptionButton Object (Outlook Forms Script)](Outlook.optionbutton.md)
     
 -  [OptionButton Members (Outlook Forms Script)](optionbutton-members-outlook-forms-script.md)
     

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.GetSearchFolders Method (Outlook)
 
-Returns a  **[Folders](folders-object-outlook.md)** collection object that represents the search folders defined for the **[Store](store-object-outlook.md)** object.
+Returns a  **[Folders](Outlook.Folders.md)** collection object that represents the search folders defined for the **[Store](Outlook.Store.md)** object.
 
 
 ## Syntax
@@ -32,9 +32,9 @@ A  **Folders** collection object that represents all the search folders for the 
 
  **GetSearchFolders** returns all the visible active search folders for the **Store** . It does not return uninitialized or aged out search folders.
 
- **GetSearchFolders** returns a **Folders** collection object with **[Folders.Count](folders-count-property-outlook.md)** equal zero (0) if no search folders have been defined for the **Store** .
+ **GetSearchFolders** returns a **Folders** collection object with **[Folders.Count](Outlook.Folders.Count.md)** equal zero (0) if no search folders have been defined for the **Store** .
 
-For a  **Folders** collection object that represents a collection of search folders, **[Folders.Parent](folders-parent-property-outlook.md)** returns the same object as **[Store.GetRootFolder](store-getrootfolder-method-outlook.md)** . **[Folder.Folders](folder-folders-property-outlook.md)** returns **Null** ( **Nothing** in Visual Basic).
+For a  **Folders** collection object that represents a collection of search folders, **[Folders.Parent](Outlook.Folders.Parent.md)** returns the same object as **[Store.GetRootFolder](Outlook.Store.GetRootFolder.md)** . **[Folder.Folders](Outlook.Folder.Folders.md)** returns **Null** ( **Nothing** in Visual Basic).
 
 
 ## Example
@@ -81,5 +81,5 @@ End Sub
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

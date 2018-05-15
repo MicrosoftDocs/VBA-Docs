@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.AutoFormatRules Property (Outlook)
 
-Returns an  **[AutoFormatRules](autoformatrules-object-outlook.md)** object that represents the set of formatting rules applicable to the **[CalendarView](calendarview-object-outlook.md)** object. Read-only.
+Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that represents the set of formatting rules applicable to the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[AutoFormatRules](autoformatrules-object-outlook.md)** object that
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

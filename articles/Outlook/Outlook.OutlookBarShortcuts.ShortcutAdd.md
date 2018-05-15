@@ -29,7 +29,7 @@ Occurs when a new shortcut is added to a  **Shortcuts** pane group.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _NewShortcut_|Required| **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)**|The shortcut that is being added.|
+| _NewShortcut_|Required| **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)**|The shortcut that is being added.|
 
 ## Remarks
 
@@ -67,5 +67,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarShortcuts Object](outlookbarshortcuts-object-outlook.md)
+[OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 

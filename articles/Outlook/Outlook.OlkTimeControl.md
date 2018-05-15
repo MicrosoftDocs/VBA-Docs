@@ -29,7 +29,7 @@ The following is an example of the time control at runtime. This control support
 
 
 
-If the  **[Click](olktimecontrol-click-event-outlook.md)** event is implemented but the **[DropButtonClick](olktimecontrol-dropbuttonclick-event-outlook.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
+If the  **[Click](Outlook.OlkTimeControl.Click.md)** event is implemented but the **[DropButtonClick](Outlook.OlkTimeControl.DropButtonClick.md)** event is not implemented, then clicking the drop button will fire only the **Click** event.
 
 If you bind the time control to the start time or the end time of an appointment item, you must use an add-in to control enabling and disabling of the time control. In particular, when the user sets the appointment as an all-day event, you must use code to disable the time controls for the start time and the end time, and enable the controls only when the user clears this setting.
 
@@ -42,20 +42,20 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AfterUpdate](olktimecontrol-afterupdate-event-outlook.md)|
-|[BeforeUpdate](olktimecontrol-beforeupdate-event-outlook.md)|
-|[Change](olktimecontrol-change-event-outlook.md)|
-|[Click](olktimecontrol-click-event-outlook.md)|
-|[DoubleClick](olktimecontrol-doubleclick-event-outlook.md)|
-|[DropButtonClick](olktimecontrol-dropbuttonclick-event-outlook.md)|
-|[Enter](olktimecontrol-enter-event-outlook.md)|
-|[Exit](olktimecontrol-exit-event-outlook.md)|
-|[KeyDown](olktimecontrol-keydown-event-outlook.md)|
-|[KeyPress](olktimecontrol-keypress-event-outlook.md)|
-|[KeyUp](olktimecontrol-keyup-event-outlook.md)|
-|[MouseDown](olktimecontrol-mousedown-event-outlook.md)|
-|[MouseMove](olktimecontrol-mousemove-event-outlook.md)|
-|[MouseUp](olktimecontrol-mouseup-event-outlook.md)|
+|[AfterUpdate](Outlook.OlkTimeControl.AfterUpdate.md)|
+|[BeforeUpdate](Outlook.OlkTimeControl.BeforeUpdate.md)|
+|[Change](Outlook.OlkTimeControl.Change.md)|
+|[Click](Outlook.OlkTimeControl.Click.md)|
+|[DoubleClick](Outlook.OlkTimeControl.DoubleClick.md)|
+|[DropButtonClick](Outlook.OlkTimeControl.DropButtonClick.md)|
+|[Enter](Outlook.OlkTimeControl.Enter.md)|
+|[Exit](Outlook.OlkTimeControl.Exit.md)|
+|[KeyDown](Outlook.OlkTimeControl.KeyDown.md)|
+|[KeyPress](Outlook.OlkTimeControl.KeyPress.md)|
+|[KeyUp](Outlook.OlkTimeControl.KeyUp.md)|
+|[MouseDown](Outlook.OlkTimeControl.MouseDown.md)|
+|[MouseMove](Outlook.OlkTimeControl.MouseMove.md)|
+|[MouseUp](Outlook.OlkTimeControl.MouseUp.md)|
 
 ## Methods
 
@@ -63,7 +63,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[DropDown](olktimecontrol-dropdown-method-outlook.md)|
+|[DropDown](Outlook.OlkTimeControl.DropDown.md)|
 
 ## Properties
 
@@ -71,23 +71,23 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AutoSize](olktimecontrol-autosize-property-outlook.md)|
-|[AutoWordSelect](olktimecontrol-autowordselect-property-outlook.md)|
-|[BackColor](olktimecontrol-backcolor-property-outlook.md)|
-|[BackStyle](olktimecontrol-backstyle-property-outlook.md)|
-|[Enabled](olktimecontrol-enabled-property-outlook.md)|
-|[EnterFieldBehavior](olktimecontrol-enterfieldbehavior-property-outlook.md)|
-|[Font](olktimecontrol-font-property-outlook.md)|
-|[ForeColor](olktimecontrol-forecolor-property-outlook.md)|
-|[HideSelection](olktimecontrol-hideselection-property-outlook.md)|
-|[IntervalTime](olktimecontrol-intervaltime-property-outlook.md)|
-|[Locked](olktimecontrol-locked-property-outlook.md)|
-|[MouseIcon](olktimecontrol-mouseicon-property-outlook.md)|
-|[MousePointer](olktimecontrol-mousepointer-property-outlook.md)|
-|[ReferenceTime](olktimecontrol-referencetime-property-outlook.md)|
-|[Style](olktimecontrol-style-property-outlook.md)|
-|[Text](olktimecontrol-text-property-outlook.md)|
-|[TextAlign](olktimecontrol-textalign-property-outlook.md)|
+|[AutoSize](Outlook.OlkTimeControl.AutoSize.md)|
+|[AutoWordSelect](Outlook.OlkTimeControl.AutoWordSelect.md)|
+|[BackColor](Outlook.OlkTimeControl.BackColor.md)|
+|[BackStyle](Outlook.OlkTimeControl.BackStyle.md)|
+|[Enabled](Outlook.OlkTimeControl.Enabled.md)|
+|[EnterFieldBehavior](Outlook.OlkTimeControl.EnterFieldBehavior.md)|
+|[Font](Outlook.OlkTimeControl.Font.md)|
+|[ForeColor](Outlook.OlkTimeControl.ForeColor.md)|
+|[HideSelection](Outlook.OlkTimeControl.HideSelection.md)|
+|[IntervalTime](Outlook.OlkTimeControl.IntervalTime.md)|
+|[Locked](Outlook.OlkTimeControl.Locked.md)|
+|[MouseIcon](Outlook.OlkTimeControl.MouseIcon.md)|
+|[MousePointer](Outlook.OlkTimeControl.MousePointer.md)|
+|[ReferenceTime](Outlook.OlkTimeControl.ReferenceTime.md)|
+|[Style](Outlook.OlkTimeControl.Style.md)|
+|[Text](Outlook.OlkTimeControl.Text.md)|
+|[TextAlign](Outlook.OlkTimeControl.TextAlign.md)|
 |[Time](olktimecontrol-time-property-outlook.md)|
 |[Value](olktimecontrol-value-property-outlook.md)|
 

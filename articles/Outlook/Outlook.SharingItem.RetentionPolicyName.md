@@ -34,5 +34,5 @@ Retention is enabled and disabled by an administrator for an Exchange Server on 
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

@@ -25,7 +25,7 @@ Displays the  **Pick Folder** dialog box.
 
 ### Return Value
 
-A  **[Folder](folder-object-outlook.md)** object that represents the folder that the user selects in the dialog box, or **Nothing** if the dialog box is canceled by the user.
+A  **[Folder](Outlook.Folder.md)** object that represents the folder that the user selects in the dialog box, or **Nothing** if the dialog box is canceled by the user.
 
 
 ## Remarks
@@ -39,5 +39,5 @@ The  **Pick Folder** dialog box is a modal dialog box which means that code exec
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.FolderRemove Event (Outlook)
 
-Occurs when a folder is removed from the specified  **[Folders](folders-object-outlook.md)** collection.
+Occurs when a folder is removed from the specified  **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax
@@ -64,5 +64,5 @@ End Sub
 #### Concepts
 
 
-[Folders Object](folders-object-outlook.md)
+[Folders Object](Outlook.Folders.md)
 

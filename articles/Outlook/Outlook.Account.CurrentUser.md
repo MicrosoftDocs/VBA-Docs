@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Account.CurrentUser Property (Outlook)
 
-Returns a  **[Recipient](recipient-object-outlook.md)** object that represents the current user identity for the account. Read-only.
+Returns a  **[Recipient](Outlook.Recipient.md)** object that represents the current user identity for the account. Read-only.
 
 
 ## Syntax
 
  _expression_ . **CurrentUser**
 
- _expression_ A variable that represents an **[Account](account-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Account](Outlook.Account.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns a  **[Recipient](recipient-object-outlook.md)** object that represents t
 #### Concepts
 
 
-[Account Object](account-object-outlook.md)
+[Account Object](Outlook.Account.md)
 

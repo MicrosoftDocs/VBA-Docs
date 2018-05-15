@@ -18,16 +18,16 @@ Represents the display properties of an order field or view field in a view.
 
 ## Remarks
 
-The  **ColumnFormat** object represents the display properties, such as the alignment or field type, of an **[OrderField](orderfield-object-outlook.md)** or **[ViewField](viewfield-object-outlook.md)** object. Use the **[ColumnFormat](viewfield-columnformat-property-outlook.md)** property of the **ViewField** object to access the display properties of a view field.
+The  **ColumnFormat** object represents the display properties, such as the alignment or field type, of an **[OrderField](Outlook.OrderField.md)** or **[ViewField](Outlook.ViewField.md)** object. Use the **[ColumnFormat](Outlook.ViewField.ColumnFormat.md)** property of the **ViewField** object to access the display properties of a view field.
 
-Use the  **[Label](columnformat-label-property-outlook.md)** property to obtain or change the text used to label the field, or the **[Align](columnformat-align-property-outlook.md)** property to determine the alignment of the contents within the field.
+Use the  **[Label](Outlook.ColumnFormat.Label.md)** property to obtain or change the text used to label the field, or the **[Align](Outlook.ColumnFormat.Align.md)** property to determine the alignment of the contents within the field.
 
-Use the  **[FieldType](columnformat-fieldtype-property-outlook.md)** property to determine the type and form of the data displayed for that field, and the **[FieldFormat](columnformat-fieldformat-property-outlook.md)** property to determine how to format the data for that field.
+Use the  **[FieldType](Outlook.ColumnFormat.FieldType.md)** property to determine the type and form of the data displayed for that field, and the **[FieldFormat](Outlook.ColumnFormat.FieldFormat.md)** property to determine how to format the data for that field.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](tableview-viewfields-property-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```
@@ -99,12 +99,12 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Align](columnformat-align-property-outlook.md)|
-|[Application](columnformat-application-property-outlook.md)|
-|[Class](columnformat-class-property-outlook.md)|
-|[FieldFormat](columnformat-fieldformat-property-outlook.md)|
-|[FieldType](columnformat-fieldtype-property-outlook.md)|
-|[Label](columnformat-label-property-outlook.md)|
+|[Align](Outlook.ColumnFormat.Align.md)|
+|[Application](Outlook.ColumnFormat.Application.md)|
+|[Class](Outlook.ColumnFormat.Class.md)|
+|[FieldFormat](Outlook.ColumnFormat.FieldFormat.md)|
+|[FieldType](Outlook.ColumnFormat.FieldType.md)|
+|[Label](Outlook.ColumnFormat.Label.md)|
 |[Parent](columnformat-parent-property-outlook.md)|
 |[Session](columnformat-session-property-outlook.md)|
 |[Width](columnformat-width-property-outlook.md)|

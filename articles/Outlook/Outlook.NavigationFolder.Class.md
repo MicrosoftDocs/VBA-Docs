@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolder.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olNavigationFolder** for the **[NavigationFolder](navigationfolder-object-outlook.md)** object.
+This property returns  **olNavigationFolder** for the **[NavigationFolder](Outlook.NavigationFolder.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olNavigationFolder** for the **[NavigationFolder](navig
 #### Concepts
 
 
-[NavigationFolder Object](navigationfolder-object-outlook.md)
+[NavigationFolder Object](Outlook.NavigationFolder.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationModules.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olNavigationModules** for the **[NavigationModules](navigationmodules-object-outlook.md)** object.
+This property returns  **olNavigationModules** for the **[NavigationModules](Outlook.NavigationModules.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olNavigationModules** for the **[NavigationModules](nav
 #### Concepts
 
 
-[NavigationModules Object](navigationmodules-object-outlook.md)
+[NavigationModules Object](Outlook.NavigationModules.md)
 

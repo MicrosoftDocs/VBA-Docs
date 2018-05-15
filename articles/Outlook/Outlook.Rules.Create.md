@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rules.Create Method (Outlook)
 
-Creates a  **[Rule](rule-object-outlook.md)** object with the name specified by _Name_ and the type of rule specified by _RuleType_ .
+Creates a  **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ and the type of rule specified by _RuleType_ .
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Creates a  **[Rule](rule-object-outlook.md)** object with the name specified by 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|A string identifier for the rule, which will be represented by  **[Rule.Name](rule-name-property-outlook.md)** after rule creation. Names of rules in a collection are not unique.|
-| _RuleType_|Required| **[OlRuleType](olruletype-enumeration-outlook.md)**|A constant in the  **OlRuleType** enumeration that determines whether the rule is applied on sending or receiving a message.|
+| _Name_|Required| **String**|A string identifier for the rule, which will be represented by  **[Rule.Name](Outlook.Rule.Name.md)** after rule creation. Names of rules in a collection are not unique.|
+| _RuleType_|Required| **[OlRuleType](Outlook.OlRuleType.md)**|A constant in the  **OlRuleType** enumeration that determines whether the rule is applied on sending or receiving a message.|
 
 ### Return Value
 
@@ -41,12 +41,12 @@ A  **Rule** object that represents the newly created rule.
 
 The  _RuleType_ parameter of the added rule determines valid rule actions, rule conditions, and rule exception conditions that can be associated with the **Rule** object.
 
-When a rule is added to the collection, the  **[Rule.ExecutionOrder](rule-executionorder-property-outlook.md)** of the new rule is 1. The **ExecutionOrder** of other rules in the collection is incremented by 1.
+When a rule is added to the collection, the  **[Rule.ExecutionOrder](Outlook.Rule.ExecutionOrder.md)** of the new rule is 1. The **ExecutionOrder** of other rules in the collection is incremented by 1.
 
 
 ## Example
 
-The following code sample in Visual Basic for Applicatons (VBA) uses the Rules object model to create a rule. The code sample uses the  **[RuleAction](ruleaction-object-outlook.md)** and **[RuleCondition](rulecondition-object-outlook.md)** objects to specify a rule that forwards messages from a specific sender to a specific folder, unless the message contains certain terms in the subject. Note that the code sample assumes that there already exists a folder "Dan" under the Inbox.
+The following code sample in Visual Basic for Applicatons (VBA) uses the Rules object model to create a rule. The code sample uses the  **[RuleAction](Outlook.RuleAction.md)** and **[RuleCondition](Outlook.RuleCondition.md)** objects to specify a rule that forwards messages from a specific sender to a specific folder, unless the message contains certain terms in the subject. Note that the code sample assumes that there already exists a folder "Dan" under the Inbox.
 
 
 ```vb
@@ -158,5 +158,5 @@ End Sub
 #### Concepts
 
 
-[Rules Object](rules-object-outlook.md)
+[Rules Object](Outlook.Rules.md)
 

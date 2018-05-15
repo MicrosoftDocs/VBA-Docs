@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TaskRequestAcceptItem.GetConversation Method (Outlook)
 
-Obtains a  **[Conversation](conversation-object-outlook.md)** object that represents the conversation to which this item belongs.
+Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents the conversation to which this item belongs.
 
 
 ## Syntax
 
  _expression_ . **GetConversation**
 
- _expression_ A variable that represents a **[TaskRequestAcceptItem](taskrequestacceptitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md)** object.
 
 
 ### Return Value
@@ -39,7 +39,7 @@ A  **Conversation** object that represents the conversation to which this item b
     
 - Conversations have been disabled through the Windows registry.
     
-- The store does not support Conversation view (for example, Outlook is running in classic online mode against a version of Microsoft Exchange earlier than Microsoft Exchange Server 2010). Use the  **[IsConversationEnabled](store-isconversationenabled-property-outlook.md)** property of the **[Store](store-object-outlook.md)** object to determine whether the store supports Conversation view.
+- The store does not support Conversation view (for example, Outlook is running in classic online mode against a version of Microsoft Exchange earlier than Microsoft Exchange Server 2010). Use the  **[IsConversationEnabled](Outlook.Store.IsConversationEnabled.md)** property of the **[Store](Outlook.Store.md)** object to determine whether the store supports Conversation view.
     
 
 
@@ -50,5 +50,5 @@ A  **Conversation** object that represents the conversation to which this item b
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

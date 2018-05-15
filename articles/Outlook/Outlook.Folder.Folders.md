@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Folders Property (Outlook)
 
-Returns the  **[Folders](http://msdn.microsoft.com/library/0c814c3c-74fc-414c-982d-a0097fcb35c2%28Office.15%29.aspx)** collection that represents all the folders contained in the specified **[Folder](folder-object-outlook.md)**. Read-only.
+Returns the  **[Folders](http://msdn.microsoft.com/library/0c814c3c-74fc-414c-982d-a0097fcb35c2%28Office.15%29.aspx)** collection that represents all the folders contained in the specified **[Folder](Outlook.Folder.md)**. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[Folders](http://msdn.microsoft.com/library/0c814c3c-74fc-414c-98
 
 ## Remarks
 
-The  **[NameSpace](namespace-object-outlook.md)** object is the root of all the folders for the given name space.
+The  **[NameSpace](Outlook.NameSpace.md)** object is the root of all the folders for the given name space.
 
 
 ## Example
@@ -103,7 +103,7 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 #### Other resources
 
 

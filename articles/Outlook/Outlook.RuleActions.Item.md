@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions.Item Method (Outlook)
 
-Obtains a  **[RuleAction](ruleaction-object-outlook.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](ruleactions-object-outlook.md)** collection.
+Obtains a  **[RuleAction](Outlook.RuleAction.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](Outlook.RuleActions.md)** collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ A  **RuleAction** object that matches the rule action specified by _Index_ .
 
 ## Remarks
 
-The  **RuleActions** collection object is a fixed collection. It contains **RuleAction** objects or objects derived from **RuleAction** . You cannot add or remove items from this collection, but you can use **Item** to enumerate the rule action items, and set the **[Enabled](ruleaction-enabled-property-outlook.md)** property of the rule action. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](ruleactions-count-property-outlook.md)** .
+The  **RuleActions** collection object is a fixed collection. It contains **RuleAction** objects or objects derived from **RuleAction** . You cannot add or remove items from this collection, but you can use **Item** to enumerate the rule action items, and set the **[Enabled](Outlook.RuleAction.Enabled.md)** property of the rule action. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](Outlook.RuleActions.Count.md)** .
 
 
 ## See also
@@ -47,5 +47,5 @@ The  **RuleActions** collection object is a fixed collection. It contains **Rule
 #### Concepts
 
 
-[RuleActions Object](ruleactions-object-outlook.md)
+[RuleActions Object](Outlook.RuleActions.md)
 

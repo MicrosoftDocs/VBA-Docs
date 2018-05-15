@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.Delete Method (Outlook)
 
-Permanently removes the  **[StorageItem](storageitem-object-outlook.md)** object from the parent folder.
+Permanently removes the  **[StorageItem](Outlook.StorageItem.md)** object from the parent folder.
 
 
 ## Syntax
@@ -74,5 +74,5 @@ End Sub
 #### Concepts
 
 
-[StorageItem Object](storageitem-object-outlook.md)
+[StorageItem Object](Outlook.StorageItem.md)
 

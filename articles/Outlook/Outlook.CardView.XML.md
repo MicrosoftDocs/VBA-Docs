@@ -36,5 +36,5 @@ To determine how the XML should be structured when creating views, you can creat
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

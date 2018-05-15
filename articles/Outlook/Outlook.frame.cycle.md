@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Frame.Cycle Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies whether cycling includes controls nested in a **[Frame](frame-object-outlook-forms-script.md)**. Read/write.
+Returns or sets an  **Integer** that specifies whether cycling includes controls nested in a **[Frame](Outlook.frame.md)**. Read/write.
 
 
 ## Syntax

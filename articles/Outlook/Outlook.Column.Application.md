@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Column.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent application (Outlook) for the **[Column](column-object-outlook.md)** object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[Column](Outlook.Column.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[Column Object](column-object-outlook.md)
+[Column Object](Outlook.Column.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.IsLatestVersion Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[MeetingItem](meetingitem-object-outlook.md)** represents the latest version of the item on the organizer's calendar. Read-only.
+Returns a  **Boolean** value that indicates whether the **[MeetingItem](Outlook.MeetingItem.md)** represents the latest version of the item on the organizer's calendar. Read-only.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ This property applies to all  **MeetingItem** objects including meeting requests
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

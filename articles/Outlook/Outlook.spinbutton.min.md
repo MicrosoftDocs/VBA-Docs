@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # SpinButton.Min Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the maximum and minimum acceptable values for the **[Value](spinbutton-value-property-outlook-forms-script.md)** property of a **[SpinButton](spinbutton-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Long** that specifies the maximum and minimum acceptable values for the **[Value](Outlook.spinbutton.value.md)** property of a **[SpinButton](Outlook.spinbutton.md)**. Read/write.
 
 
 ## Syntax

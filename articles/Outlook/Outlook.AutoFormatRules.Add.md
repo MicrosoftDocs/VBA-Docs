@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFormatRules.Add Method (Outlook)
 
-Creates a new  **[AutoFormatRule](autoformatrule-object-outlook.md)** object and appends it to the **[AutoFormatRules](autoformatrules-object-outlook.md)** collection.
+Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and appends it to the **[AutoFormatRules](Outlook.AutoFormatRules.md)** collection.
 
 
 ## Syntax
@@ -47,5 +47,5 @@ Duplicate names for  **AutoFormatRule** objects are allowed in the **AutoFormatR
 #### Concepts
 
 
-[AutoFormatRules Object](autoformatrules-object-outlook.md)
+[AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

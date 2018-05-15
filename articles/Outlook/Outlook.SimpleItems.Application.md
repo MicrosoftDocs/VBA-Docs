@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SimpleItems.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent Microsoft Outlook application for the **[SimpleItems](simpleitems-object-outlook.md)** object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent Microsoft Outlook application for the **[SimpleItems](Outlook.SimpleItems.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[SimpleItems Object](simpleitems-object-outlook.md)
+[SimpleItems Object](Outlook.SimpleItems.md)
 

@@ -25,7 +25,7 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 
 ## Remarks
 
- The default value is based on the control's name. The position of the caption relative to the check box is determined by the **[Alignment](olkoptionbutton-alignment-property-outlook.md)** property.
+ The default value is based on the control's name. The position of the caption relative to the check box is determined by the **[Alignment](Outlook.OlkOptionButton.Alignment.md)** property.
 
 
 ## See also
@@ -34,5 +34,5 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

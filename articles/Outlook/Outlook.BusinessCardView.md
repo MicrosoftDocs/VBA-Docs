@@ -18,11 +18,11 @@ Represents a view that displays data as a series of Electronic Business Card (EB
 
 ## Remarks
 
-The  **BusinessCardView** object, derived from the **[View](view-object-outlook.md)** object, allows you to create customizable views that allow you to better sort, group and ultimately view contact items in Outlook as a series of Electronic Business Cards, each of which displays the contact information for an Outlook contact item based on the EBC design associated with the contact item.
+The  **BusinessCardView** object, derived from the **[View](Outlook.View.md)** object, allows you to create customizable views that allow you to better sort, group and ultimately view contact items in Outlook as a series of Electronic Business Cards, each of which displays the contact information for an Outlook contact item based on the EBC design associated with the contact item.
 
-Use the  **[Add](views-add-method-outlook.md)** method of the **[Views](views-object-outlook.md)** collection to add a new **BusinessCardView** to a **[Folder](folder-object-outlook.md)** object.
+Use the  **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection to add a new **BusinessCardView** to a **[Folder](Outlook.Folder.md)** object.
 
-Use the  **[Filter](businesscardview-filter-property-outlook.md)** property to determine which Outlook contact items to display in the view, the **[CardSize](businesscardview-cardsize-property-outlook.md)** property to specify the size of each Electronic Business Card in the view, and the **[HeadingsFont](businesscardview-headingsfont-property-outlook.md)** to retrieve the **[ViewFont](viewfont-object-outlook.md)** object for the view. Use the **[LockUserChanges](businesscardview-lockuserchanges-property-outlook.md)** property to allow or prevent changes to the user interface for the view.
+Use the  **[Filter](Outlook.BusinessCardView.Filter.md)** property to determine which Outlook contact items to display in the view, the **[CardSize](Outlook.BusinessCardView.CardSize.md)** property to specify the size of each Electronic Business Card in the view, and the **[HeadingsFont](Outlook.BusinessCardView.HeadingsFont.md)** to retrieve the **[ViewFont](Outlook.ViewFont.md)** object for the view. Use the **[LockUserChanges](Outlook.BusinessCardView.LockUserChanges.md)** property to allow or prevent changes to the user interface for the view.
 
 
 ## Example
@@ -81,12 +81,12 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Apply](businesscardview-apply-method-outlook.md)|
-|[Copy](businesscardview-copy-method-outlook.md)|
-|[Delete](businesscardview-delete-method-outlook.md)|
-|[GoToDate](businesscardview-gotodate-method-outlook.md)|
-|[Reset](businesscardview-reset-method-outlook.md)|
-|[Save](businesscardview-save-method-outlook.md)|
+|[Apply](Outlook.BusinessCardView.Apply.md)|
+|[Copy](Outlook.BusinessCardView.Copy.md)|
+|[Delete](Outlook.BusinessCardView.Delete.md)|
+|[GoToDate](Outlook.BusinessCardView.GoToDate.md)|
+|[Reset](Outlook.BusinessCardView.Reset.md)|
+|[Save](Outlook.BusinessCardView.Save.md)|
 
 ## Properties
 
@@ -94,17 +94,17 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](businesscardview-application-property-outlook.md)|
-|[CardSize](businesscardview-cardsize-property-outlook.md)|
-|[Class](businesscardview-class-property-outlook.md)|
-|[Filter](businesscardview-filter-property-outlook.md)|
-|[HeadingsFont](businesscardview-headingsfont-property-outlook.md)|
-|[Language](businesscardview-language-property-outlook.md)|
-|[LockUserChanges](businesscardview-lockuserchanges-property-outlook.md)|
-|[Name](businesscardview-name-property-outlook.md)|
-|[Parent](businesscardview-parent-property-outlook.md)|
-|[SaveOption](businesscardview-saveoption-property-outlook.md)|
-|[Session](businesscardview-session-property-outlook.md)|
+|[Application](Outlook.BusinessCardView.Application.md)|
+|[CardSize](Outlook.BusinessCardView.CardSize.md)|
+|[Class](Outlook.BusinessCardView.Class.md)|
+|[Filter](Outlook.BusinessCardView.Filter.md)|
+|[HeadingsFont](Outlook.BusinessCardView.HeadingsFont.md)|
+|[Language](Outlook.BusinessCardView.Language.md)|
+|[LockUserChanges](Outlook.BusinessCardView.LockUserChanges.md)|
+|[Name](Outlook.BusinessCardView.Name.md)|
+|[Parent](Outlook.BusinessCardView.Parent.md)|
+|[SaveOption](Outlook.BusinessCardView.SaveOption.md)|
+|[Session](Outlook.BusinessCardView.Session.md)|
 |[SortFields](businesscardview-sortfields-property-outlook.md)|
 |[Standard](businesscardview-standard-property-outlook.md)|
 |[ViewType](businesscardview-viewtype-property-outlook.md)|

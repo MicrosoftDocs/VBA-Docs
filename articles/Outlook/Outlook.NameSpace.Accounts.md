@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.Accounts Property (Outlook)
 
-Returns an  **[Accounts](accounts-object-outlook.md)** collection object that represents all the **[Account](account-object-outlook.md)** objects in the current profile. Read-only.
+Returns an  **[Accounts](Outlook.Accounts.md)** collection object that represents all the **[Account](Outlook.Account.md)** objects in the current profile. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Accounts](accounts-object-outlook.md)** collection object that re
 
 ## Remarks
 
-If Outlook is running in sessionless mode,  **Accounts** returns an **Accounts** collection with **[Accounts.Count](accounts-count-property-outlook.md)** equal to 0.
+If Outlook is running in sessionless mode,  **Accounts** returns an **Accounts** collection with **[Accounts.Count](Outlook.Accounts.Count.md)** equal to 0.
 
 
 ## See also
@@ -34,5 +34,5 @@ If Outlook is running in sessionless mode,  **Accounts** returns an **Accounts**
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

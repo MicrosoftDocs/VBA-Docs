@@ -36,5 +36,5 @@ If the control style is  **olComboBoxStyleListBox** , then this method will not 
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

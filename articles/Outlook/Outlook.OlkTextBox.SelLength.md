@@ -25,7 +25,7 @@ Returns or sets a  **Long** that specifies the number of characters in the curre
 
 ## Remarks
 
-The current selection is specified by  **[SelText](olktextbox-seltext-property-outlook.md)** , which is a portion of the control's **[Value](olktextbox-value-property-outlook.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](olktextbox-maxlength-property-outlook.md)** .
+The current selection is specified by  **[SelText](Outlook.OlkTextBox.SelText.md)** , which is a portion of the control's **[Value](Outlook.OlkTextBox.Value.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkTextBox.MaxLength.md)** .
 
 The default value is zero, which means no text is currently selected.
 
@@ -40,5 +40,5 @@ Setting  **SelLength** to a value less than zero causes an error. Attempting to 
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

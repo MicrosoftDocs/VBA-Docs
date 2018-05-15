@@ -31,7 +31,7 @@ Occurs when the user selects the  **ReplyAll** action for an item (which is an i
 
 ## Remarks
 
-Returns the reply as a  **[MailItem](mailitem-object-outlook.md)** object.
+Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## See also
@@ -40,5 +40,5 @@ Returns the reply as a  **[MailItem](mailitem-object-outlook.md)** object.
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

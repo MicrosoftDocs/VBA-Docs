@@ -34,5 +34,5 @@ The transport provider assigns a permanent, unique string  **ID** property when 
 #### Concepts
 
 
-[AddressEntry Object](addressentry-object-outlook.md)
+[AddressEntry Object](Outlook.AddressEntry.md)
 

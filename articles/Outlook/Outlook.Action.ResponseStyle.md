@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.ResponseStyle Property (Outlook)
 
-Returns or sets an  **[OlActionResponseStyle](olactionresponsestyle-enumeration-outlook.md)** constant indicating the response style used when the specified action is executed. Read/write.
+Returns or sets an  **[OlActionResponseStyle](Outlook.OlActionResponseStyle.md)** constant indicating the response style used when the specified action is executed. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets an  **[OlActionResponseStyle](olactionresponsestyle-enumeration-
 #### Concepts
 
 
-[Action Object](action-object-outlook.md)
+[Action Object](Outlook.Action.md)
 

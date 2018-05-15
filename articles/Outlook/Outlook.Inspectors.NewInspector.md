@@ -29,7 +29,7 @@ Occurs whenever a new inspector window is opened, either as a result of user act
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Inspector_|Required| **[Inspector](inspector-object-outlook.md)**|The inspector that was opened.|
+| _Inspector_|Required| **[Inspector](Outlook.Inspector.md)**|The inspector that was opened.|
 
 ## Remarks
 
@@ -44,5 +44,5 @@ The event occurs after the new  **Inspector** object is created but before the i
 #### Concepts
 
 
-[Inspectors Object](inspectors-object-outlook.md)
+[Inspectors Object](Outlook.Inspectors.md)
 

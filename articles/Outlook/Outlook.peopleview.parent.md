@@ -27,6 +27,6 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Other resources
 
 
-[PeopleView Object](peopleview-object-outlook.md)
+[PeopleView Object](Outlook.peopleview.md)
 [PeopleView Members](http://msdn.microsoft.com/library/87b0295a-ab7d-28dd-cdf8-7e4331c3b802%28Office.15%29.aspx)
 

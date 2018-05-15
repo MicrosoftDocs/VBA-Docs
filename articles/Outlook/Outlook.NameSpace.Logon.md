@@ -40,7 +40,7 @@ Use the  **Logon** method only to log on to a specific profile when Outlook is n
 
 If Outlook is already running, using this method does not create a new Outlook session or change the current profile to a different one. 
 
-If Outlook is not running and you only want to start Outlook with the default profile, do not use the  **Logon** method. A better alternative is shown in the following code example, `InitializeMAPI`: first, instantiate the Outlook [Application](application-object-outlook.md) object, then reference a default folder such as the Inbox. This has the side effect of initializing MAPI to use the default profile and to make the object model fully functional.
+If Outlook is not running and you only want to start Outlook with the default profile, do not use the  **Logon** method. A better alternative is shown in the following code example, `InitializeMAPI`: first, instantiate the Outlook [Application](Outlook.Application.md) object, then reference a default folder such as the Inbox. This has the side effect of initializing MAPI to use the default profile and to make the object model fully functional.
 
 
 
@@ -90,7 +90,7 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 #### Other resources
 
 

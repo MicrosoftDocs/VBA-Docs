@@ -34,5 +34,5 @@ If this property is  **True** , the control displays fill lines of text; otherwi
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

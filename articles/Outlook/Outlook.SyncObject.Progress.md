@@ -29,7 +29,7 @@ Occurs periodically while Microsoft Outlook is synchronizing a user?s folders us
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _State_|Required| **[OlSyncState](olsyncstate-enumeration-outlook.md)**|A value that identifies the current state of the synchronization process.|
+| _State_|Required| **[OlSyncState](Outlook.OlSyncState.md)**|A value that identifies the current state of the synchronization process.|
 | _Description_|Required| **String**|A textual description of the current state of the synchronization process.|
 | _Value_|Required| **Long**|Specifies the current value of the synchronization process (such as the number of items synchronized).|
 | _Max_|Required| **Long**|The maximum that  _Value_ can reach. The ratio of _Value_ to _Max_ represents the percent complete of the synchronization process.|
@@ -66,5 +66,5 @@ End Sub
 #### Concepts
 
 
-[SyncObject Object](syncobject-object-outlook.md)
+[SyncObject Object](Outlook.SyncObject.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachments.Item Method (Outlook)
 
-Returns an  **[Attachment](attachment-object-outlook.md)** object from the collection.
+Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ An  **Attachment** object that represents the specified object.
 #### Concepts
 
 
-[Attachments Object](attachments-object-outlook.md)
+[Attachments Object](Outlook.Attachments.md)
 

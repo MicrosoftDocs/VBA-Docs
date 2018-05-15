@@ -46,7 +46,7 @@ This method is provided so that other applications can be automated from Microso
 
 ## Example
 
-This VBScript example uses the  **[Open](mailitem-open-event-outlook.md)** event of the item to access Windows Internet Explorer and display the Web page.
+This VBScript example uses the  **[Open](Outlook.MailItem.Open.md)** event of the item to access Windows Internet Explorer and display the Web page.
 
 
 ```vb
@@ -85,5 +85,5 @@ End Sub
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

@@ -57,5 +57,5 @@ Canceling this property will revert the control to the current value of the prop
 #### Concepts
 
 
-[OlkDateControl Object](olkdatecontrol-object-outlook.md)
+[OlkDateControl Object](Outlook.OlkDateControl.md)
 

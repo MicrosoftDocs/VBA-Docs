@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the hobby for the contact. Read/write
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

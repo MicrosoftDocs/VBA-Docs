@@ -43,5 +43,5 @@ Also note that even though  **olDoc** is a valid **OlSaveAsType** constant, mess
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

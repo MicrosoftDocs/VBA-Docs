@@ -25,7 +25,7 @@ Returns a semicolon-delimited  **String** of resource names for the meeting. Rea
 
 ## Remarks
 
-This property contains the display names only. The  **[Recipients](recipients-object-outlook.md)** collection should be used to modify the resource recipients. Resources are added as **[BCC](mailitem-bcc-property-outlook.md)** recipients to the collection.
+This property contains the display names only. The  **[Recipients](Outlook.Recipients.md)** collection should be used to modify the resource recipients. Resources are added as **[BCC](Outlook.MailItem.BCC.md)** recipients to the collection.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property contains the display names only. The  **[Recipients](recipients-ob
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

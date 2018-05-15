@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.MultiLine Property (Outlook)
 
-Returns or sets an  **[OlMultiLine](olmultiline-enumeration-outlook.md)** constant that determines how multiple lines are displayed in the **[TableView](tableview-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlMultiLine](Outlook.OlMultiLine.md)** constant that determines how multiple lines are displayed in the **[TableView](Outlook.TableView.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlMultiLine](olmultiline-enumeration-outlook.md)** consta
 
 ## Remarks
 
-If the value of the  **[AutomaticColumnSizing](tableview-automaticcolumnsizing-property-outlook.md)** property is set to **False** or if the value of the **[AllowInCellEditing](tableview-allowincellediting-property-outlook.md)** property is set to **True** , the value of this property is automatically set to **olAlwaysSingleLine** .
+If the value of the  **[AutomaticColumnSizing](Outlook.TableView.AutomaticColumnSizing.md)** property is set to **False** or if the value of the **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True** , the value of this property is automatically set to **olAlwaysSingleLine** .
 
 
 ## See also
@@ -34,5 +34,5 @@ If the value of the  **[AutomaticColumnSizing](tableview-automaticcolumnsizing-p
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ItemSend Event (Outlook)
 
-Occurs whenever an Microsoft Outlook item is sent, either by the user through an  **[Inspector](inspector-object-outlook.md)** (before the inspector is closed, but after the user clicks the **Send** button) or when the **[Send](mailitem-send-method-outlook.md)** method for an Outlook item, such as **[MailItem](mailitem-object-outlook.md)** , is used in a program.
+Occurs whenever an Microsoft Outlook item is sent, either by the user through an  **[Inspector](Outlook.Inspector.md)** (before the inspector is closed, but after the user clicks the **Send** button) or when the **[Send](Outlook.MailItem.Send(method).md)** method for an Outlook item, such as **[MailItem](Outlook.MailItem.md)** , is used in a program.
 
 
 ## Syntax
@@ -77,5 +77,5 @@ End Sub
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

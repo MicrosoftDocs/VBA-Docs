@@ -20,7 +20,7 @@ Returns or sets a  **Byte** array that represents the body of the Microsoft Outl
 
  _expression_ . **RTFBody**
 
- _expression_ A variable that represents a **[TaskRequestAcceptItem](taskrequestacceptitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md)** object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ You can use the  **StrConv** function in Microsoft Visual Basic for Applications
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

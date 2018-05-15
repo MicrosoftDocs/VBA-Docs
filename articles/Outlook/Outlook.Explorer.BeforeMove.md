@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.BeforeMove Event (Outlook)
 
-Occurs when the  **[Explorer](explorer-object-outlook.md)** is moved by the user.
+Occurs when the  **[Explorer](Outlook.Explorer.md)** is moved by the user.
 
 
 ## Syntax
@@ -88,5 +88,5 @@ End Sub
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

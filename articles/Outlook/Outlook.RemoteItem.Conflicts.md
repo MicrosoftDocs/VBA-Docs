@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RemoteItem.Conflicts Property (Outlook)
 
-Return the  **[Conflicts](conflicts-object-outlook.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
+Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict for any Outlook item object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Return the  **[Conflicts](conflicts-object-outlook.md)** object that represents 
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

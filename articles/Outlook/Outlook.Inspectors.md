@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Inspectors Object (Outlook)
 
-Contains a set of  **[Inspector](inspector-object-outlook.md)** objects representing all inspectors.
+Contains a set of  **[Inspector](Outlook.Inspector.md)** objects representing all inspectors.
 
 
 ## Remarks
 
  An inspector need not be visible to be included in the collection.
 
-Use the  **[Inspectors](application-inspectors-property-outlook.md)** property to return the **Inspectors** object from the **[Application](application-object-outlook.md)** object.
+Use the  **[Inspectors](Outlook.Application.Inspectors.md)** property to return the **Inspectors** object from the **[Application](Outlook.Application.md)** object.
 
 
 ## Example
@@ -39,7 +39,7 @@ Set myInspectors = Application.Inspectors
 
 |**Name**|
 |:-----|
-|[NewInspector](inspectors-newinspector-event-outlook.md)|
+|[NewInspector](Outlook.Inspectors.NewInspector.md)|
 
 ## Methods
 
@@ -47,8 +47,8 @@ Set myInspectors = Application.Inspectors
 
 |**Name**|
 |:-----|
-|[Add](inspectors-add-method-outlook.md)|
-|[Item](inspectors-item-method-outlook.md)|
+|[Add](Outlook.Inspectors.Add.md)|
+|[Item](Outlook.Inspectors.Item.md)|
 
 ## Properties
 
@@ -56,11 +56,11 @@ Set myInspectors = Application.Inspectors
 
 |**Name**|
 |:-----|
-|[Application](inspectors-application-property-outlook.md)|
-|[Class](inspectors-class-property-outlook.md)|
-|[Count](inspectors-count-property-outlook.md)|
-|[Parent](inspectors-parent-property-outlook.md)|
-|[Session](inspectors-session-property-outlook.md)|
+|[Application](Outlook.Inspectors.Application.md)|
+|[Class](Outlook.Inspectors.Class.md)|
+|[Count](Outlook.Inspectors.Count.md)|
+|[Parent](Outlook.Inspectors.Parent.md)|
+|[Session](Outlook.Inspectors.Session.md)|
 
 ## See also
 

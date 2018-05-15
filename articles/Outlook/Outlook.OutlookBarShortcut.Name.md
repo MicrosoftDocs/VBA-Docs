@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
-[OutlookBarShortcut Object](outlookbarshortcut-object-outlook.md)
+[OutlookBarShortcut Object](Outlook.OutlookBarShortcut.md)
 

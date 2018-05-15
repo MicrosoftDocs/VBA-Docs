@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.DelegationState Property (Outlook)
 
-Returns an  **[OlTaskDelegationState](oltaskdelegationstate-enumeration-outlook.md)** constant indicating the delegation state of the task. Read-only.
+Returns an  **[OlTaskDelegationState](Outlook.OlTaskDelegationState.md)** constant indicating the delegation state of the task. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OlTaskDelegationState](oltaskdelegationstate-enumeration-outlook.
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

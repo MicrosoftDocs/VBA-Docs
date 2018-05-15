@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Conflicts Object](conflicts-object-outlook.md)
+[Conflicts Object](Outlook.Conflicts.md)
 

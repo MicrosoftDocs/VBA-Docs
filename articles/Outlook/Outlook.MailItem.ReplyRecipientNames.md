@@ -25,7 +25,7 @@ Returns a semicolon-delimited  **String** list of reply recipients for the mail 
 
 ## Remarks
 
-This property only contains the display names for the reply recipients. The reply recipients list should be set by using the  **[ReplyRecipients](mailitem-replyrecipients-property-outlook.md)** collection.
+This property only contains the display names for the reply recipients. The reply recipients list should be set by using the  **[ReplyRecipients](Outlook.MailItem.ReplyRecipients.md)** collection.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property only contains the display names for the reply recipients. The repl
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

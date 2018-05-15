@@ -21,23 +21,23 @@ The  **RuleCondition** object represents either a condition that must be met bef
  **RuleCondition** is the base class for rule conditions that are supported in programmatic rule creation. The classes derived from **RuleCondition** include:
 
 
--  **[AccountRuleCondition](accountrulecondition-object-outlook.md)**
+-  **[AccountRuleCondition](Outlook.AccountRuleCondition.md)**
     
--  **[AddressRuleCondition](addressrulecondition-object-outlook.md)**
+-  **[AddressRuleCondition](Outlook.AddressRuleCondition.md)**
     
--  **[CategoryRuleCondition](categoryrulecondition-object-outlook.md)**
+-  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)**
     
--  **[FromRssFeedRuleCondition](fromrssfeedrulecondition-object-outlook.md)**
+-  **[FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md)**
     
--  **[FormNameRuleCondition](formnamerulecondition-object-outlook.md)**
+-  **[FormNameRuleCondition](Outlook.FormNameRuleCondition.md)**
     
--  **[ImportanceRuleCondition](importancerulecondition-object-outlook.md)**
+-  **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)**
     
--  **[SenderInAddressListRuleCondition](senderinaddresslistrulecondition-object-outlook.md)**
+-  **[SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md)**
     
--  **[TextRuleCondition](textrulecondition-object-outlook.md)**
+-  **[TextRuleCondition](Outlook.TextRuleCondition.md)**
     
--  **[ToOrFromRuleCondition](toorfromrulecondition-object-outlook.md)**
+-  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)**
     
 
 
@@ -52,12 +52,12 @@ For more information on rule conditions, see [Specifying Rule Conditions](http:/
 
 |**Name**|
 |:-----|
-|[Application](rulecondition-application-property-outlook.md)|
-|[Class](rulecondition-class-property-outlook.md)|
-|[ConditionType](rulecondition-conditiontype-property-outlook.md)|
-|[Enabled](rulecondition-enabled-property-outlook.md)|
-|[Parent](rulecondition-parent-property-outlook.md)|
-|[Session](rulecondition-session-property-outlook.md)|
+|[Application](Outlook.RuleCondition.Application.md)|
+|[Class](Outlook.RuleCondition.Class.md)|
+|[ConditionType](Outlook.RuleCondition.ConditionType.md)|
+|[Enabled](Outlook.RuleCondition.Enabled.md)|
+|[Parent](Outlook.RuleCondition.Parent.md)|
+|[Session](Outlook.RuleCondition.Session.md)|
 
 ## See also
 

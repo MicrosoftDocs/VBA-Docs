@@ -20,12 +20,12 @@ Returns a  **String** containing all the VBScript code in the form's Script Edit
 
  _expression_ . **ScriptText**
 
- _expression_ A variable that represents a **[FormDescription](formdescription-object-outlook.md)** object.
+ _expression_ A variable that represents a **[FormDescription](Outlook.FormDescription.md)** object.
 
 
 ## Example
 
-This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **[Open](mailitem-open-event-outlook.md)** event to access the **[HTMLBody](mailitem-htmlbody-property-outlook.md)** property of a **[MailItem](mailitem-object-outlook.md)** . This sets the **[EditorType](inspector-editortype-property-outlook.md)** property of the **MailItem** 's **[Inspector](inspector-object-outlook.md)** to **olEditorHTML** . When the **MailItem** 's **[Body](mailitem-body-property-outlook.md)** property is set, the **EditorType** property is changed to the default. For example, if the default e-mail editor is set to RTF, the **EditorType** is set to **olEditorRTF** . If this code is placed in the Script Editor of a form in design mode, the message boxes during run time will reflect the change in the **EditorType** as the body of the form changes. The final message box uses the **Script Text** property to display all the VBScript code in the Script Editor.
+This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **[Open](Outlook.MailItem.Open.md)** event to access the **[HTMLBody](Outlook.MailItem.HTMLBody.md)** property of a **[MailItem](Outlook.MailItem.md)** . This sets the **[EditorType](Outlook.Inspector.EditorType.md)** property of the **MailItem** 's **[Inspector](Outlook.Inspector.md)** to **olEditorHTML** . When the **MailItem** 's **[Body](Outlook.MailItem.Body.md)** property is set, the **EditorType** property is changed to the default. For example, if the default e-mail editor is set to RTF, the **EditorType** is set to **olEditorRTF** . If this code is placed in the Script Editor of a form in design mode, the message boxes during run time will reflect the change in the **EditorType** as the body of the form changes. The final message box uses the **Script Text** property to display all the VBScript code in the Script Editor.
 
 
 ```vb
@@ -87,5 +87,5 @@ End Function
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

@@ -29,5 +29,5 @@ Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 #### Concepts
 
 
-[Conflict Object](conflict-object-outlook.md)
+[Conflict Object](Outlook.Conflict.md)
 

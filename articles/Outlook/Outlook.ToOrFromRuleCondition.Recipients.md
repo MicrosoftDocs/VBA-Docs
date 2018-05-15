@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ToOrFromRuleCondition.Recipients Property (Outlook)
 
-Returns a  **[Recipients](recipients-object-outlook.md)** collection that represents the recipient list for the evaluation of the rule condition. Read-only.
+Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents the recipient list for the evaluation of the rule condition. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Multiple recipients are evaluated using the logical OR operation.
 #### Concepts
 
 
-[ToOrFromRuleCondition Object](toorfromrulecondition-object-outlook.md)
+[ToOrFromRuleCondition Object](Outlook.ToOrFromRuleCondition.md)
 

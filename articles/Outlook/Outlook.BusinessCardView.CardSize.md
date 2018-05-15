@@ -34,5 +34,5 @@ This property can be set to a value between 20 and 100. If this property is set 
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

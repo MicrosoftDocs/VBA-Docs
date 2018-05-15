@@ -29,7 +29,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestFldr_|Required| **[Folder](folder-object-outlook.md)**|An expression that returns a  **Folder** object. The destination folder.|
+| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a  **Folder** object. The destination folder.|
 
 ### Return Value
 
@@ -42,5 +42,5 @@ An  **Object** value that represents the item which has been moved to the design
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

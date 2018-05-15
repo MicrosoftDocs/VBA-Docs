@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ComboBox.ColumnWidths Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies the width of each column in a multicolumn **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **String** that specifies the width of each column in a multicolumn **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax
@@ -46,6 +46,6 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 |1.5 in;0;2.5 in|The first column is 1.5 inches, the second column is hidden, and the third column is 2.5 inches.|
 |2 in;;2 in|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches. Because only half of the third column is visible, a horizontal scroll bar appears.|
 |(Blank)|All three columns are the same width (1.33 inches).|
-In a  **ComboBox**, the system displays the column designated by the  **[TextColumn](combobox-textcolumn-property-outlook-forms-script.md)** property in the text box portion of the control. Setting **TextColumn** to -1 displays the first column that has a **ColumnWidths** value greater than 0.
+In a  **ComboBox**, the system displays the column designated by the  **[TextColumn](Outlook.combobox.textcolumn.md)** property in the text box portion of the control. Setting **TextColumn** to -1 displays the first column that has a **ColumnWidths** value greater than 0.
 
 

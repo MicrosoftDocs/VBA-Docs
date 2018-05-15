@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReceivedOnBehalfOfEntryID Property (Outlook)
 
-Returns a  **String** representing the **[EntryID](recipient-entryid-property-outlook.md)** of the user delegated to represent the recipient for the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)** of the user delegated to represent the recipient for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagReceivedRepresentingEntr
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

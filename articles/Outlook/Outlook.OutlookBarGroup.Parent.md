@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[OutlookBarGroup Object](outlookbargroup-object-outlook.md)
+[OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 

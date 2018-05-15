@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ListBox.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](listbox-boundcolumn-property-outlook-forms-script.md)** of the currently selected rows. Read/write.
+Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](Outlook.listbox.boundcolumn.md)** of the currently selected rows. Read/write.
 
 
 ## Syntax
@@ -20,6 +20,6 @@ Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](l
 
 ## Remarks
 
- **Value** cannot be used with a multi-select **[ListBox](listbox-object-outlook-forms-script.md)**.
+ **Value** cannot be used with a multi-select **[ListBox](Outlook.listbox.md)**.
 
 

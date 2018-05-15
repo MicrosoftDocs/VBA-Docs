@@ -27,7 +27,7 @@ Occurs when the inspector associated with a Microsoft Outlook item is being clos
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the close operation isn't completed and the inspector is left open. This event cannot be canceled.
 
-If you use the  **[Close](inspector-close-method-outlook.md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
+If you use the  **[Close](Outlook.Inspector.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
 
 
 ## See also
@@ -36,5 +36,5 @@ If you use the  **[Close](inspector-close-method-outlook.md)** method to fire th
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

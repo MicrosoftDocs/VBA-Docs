@@ -13,27 +13,27 @@ ms.date: 06/08/2017
 
 # AutoFormatRules Object (Outlook)
 
-Represents the collection of  **[AutoFormatRule](autoformatrule-object-outlook.md)** objects in a view.
+Represents the collection of  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objects in a view.
 
 
 ## Remarks
 
-Use the  **[Add](autoformatrules-add-method-outlook.md)** method or the **[Insert](autoformatrules-insert-method-outlook.md)** method of the **AutoFormatRules** collection to create a new formatting rule for the following objects derived from the **[View](view-object-outlook.md)** object:
+Use the  **[Add](Outlook.AutoFormatRules.Add.md)** method or the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to create a new formatting rule for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[BusinessCardView](businesscardview-object-outlook.md)**
+-  **[BusinessCardView](businessOutlook.CardView.md)**
     
--  **[CalendarView](calendarview-object-outlook.md)**
+-  **[CalendarView](Outlook.CalendarView.md)**
     
--  **[CardView](cardview-object-outlook.md)**
+-  **[CardView](Outlook.CardView.md)**
     
--  **[IconView](iconview-object-outlook.md)**
+-  **[IconView](Outlook.IconView.md)**
     
--  **[TableView](tableview-object-outlook.md)**
+-  **[TableView](Outlook.TableView.md)**
     
--  **[TimelineView Object](timelineview-object-outlook.md)**
+-  **[TimelineView Object](Outlook.TimelineView.md)**
     
- **AutoFormatRule** objects contained in an **AutoFormatRules** collection are applied to each Outlook item in the order in which they are contained in the collection. Changes to **AutoFormatRule** objects are persisted only if the **[Save](autoformatrules-save-method-outlook.md)** method of the **AutoFormatRules** collection is called.
+ **AutoFormatRule** objects contained in an **AutoFormatRules** collection are applied to each Outlook item in the order in which they are contained in the collection. Changes to **AutoFormatRule** objects are persisted only if the **[Save](Outlook.AutoFormatRules.Save.md)** method of the **AutoFormatRules** collection is called.
 
 
 ## Example
@@ -100,12 +100,12 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Add](autoformatrules-add-method-outlook.md)|
-|[Insert](autoformatrules-insert-method-outlook.md)|
-|[Item](autoformatrules-item-method-outlook.md)|
-|[Remove](autoformatrules-remove-method-outlook.md)|
-|[RemoveAll](autoformatrules-removeall-method-outlook.md)|
-|[Save](autoformatrules-save-method-outlook.md)|
+|[Add](Outlook.AutoFormatRules.Add.md)|
+|[Insert](Outlook.AutoFormatRules.Insert.md)|
+|[Item](Outlook.AutoFormatRules.Item.md)|
+|[Remove](Outlook.AutoFormatRules.Remove.md)|
+|[RemoveAll](Outlook.AutoFormatRules.RemoveAll.md)|
+|[Save](Outlook.AutoFormatRules.Save.md)|
 
 ## Properties
 
@@ -113,8 +113,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](autoformatrules-application-property-outlook.md)|
-|[Class](autoformatrules-class-property-outlook.md)|
+|[Application](Outlook.AutoFormatRules.Application.md)|
+|[Class](Outlook.AutoFormatRules.Class.md)|
 |[Count](autoformatrules-count-property-outlook.md)|
 |[Parent](autoformatrules-parent-property-outlook.md)|
 |[Session](autoformatrules-session-property-outlook.md)|

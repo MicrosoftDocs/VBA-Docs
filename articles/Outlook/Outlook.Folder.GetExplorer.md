@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.GetExplorer Method (Outlook)
 
-Returns an  **[Explorer](explorer-object-outlook.md)** object that represents a new, inactive **Explorer** object initialized with the specified folder as the current folder.
+Returns an  **[Explorer](Outlook.Explorer.md)** object that represents a new, inactive **Explorer** object initialized with the specified folder as the current folder.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns an  **[Explorer](explorer-object-outlook.md)** object that represents a 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DisplayMode_|Optional| **Variant**|The display mode of the folder. Can be one of the constants in the  **[OlFolderDisplayMode](olfolderdisplaymode-enumeration-outlook.md)** enumeration.|
+| _DisplayMode_|Optional| **Variant**|The display mode of the folder. Can be one of the constants in the  **[OlFolderDisplayMode](Outlook.OlFolderDisplayMode.md)** enumeration.|
 
 ### Return Value
 
@@ -38,9 +38,9 @@ An  **Explorer** object that represents a new, inactive Explorer initialized wit
 
 ## Remarks
 
-This method is useful for returning a new  **Explorer** object in which to display the folder, as opposed to using the **[ActiveExplorer](application-activeexplorer-method-outlook.md)** method and setting the **[CurrentFolder](explorer-currentfolder-property-outlook.md)** property.
+This method is useful for returning a new  **Explorer** object in which to display the folder, as opposed to using the **[ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method and setting the **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property.
 
-The  **[Explorer.Display](explorer-display-method-outlook.md)** method can be used to activate or show the **Explorer** .
+The  **[Explorer.Display](Outlook.Explorer.Display.md)** method can be used to activate or show the **Explorer** .
 
 The  **GetExplorer** method takes an optional argument of an **OlFolderDisplayMode** constant.
 
@@ -85,5 +85,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

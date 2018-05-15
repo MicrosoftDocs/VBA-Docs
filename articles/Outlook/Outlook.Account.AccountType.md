@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.AccountType Property (Outlook)
 
-Returns a constant in the  **[OlAccountType](olaccounttype-enumeration-outlook.md)** enumeration that indicates the type of the **[Account](account-object-outlook.md)** . Read-only.
+Returns a constant in the  **[OlAccountType](Outlook.OlAccountType.md)** enumeration that indicates the type of the **[Account](Outlook.Account.md)** . Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a constant in the  **[OlAccountType](olaccounttype-enumeration-outlook.m
 #### Concepts
 
 
-[Account Object](account-object-outlook.md)
+[Account Object](Outlook.Account.md)
 

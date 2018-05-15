@@ -29,7 +29,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestFldr_|Required| **[Folder](folder-object-outlook.md)**|The destination folder.|
+| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|The destination folder.|
 
 ### Return Value
 
@@ -42,5 +42,5 @@ An  **Object** that represents the item which has been moved to the designated f
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReplyRecipientNames Property (Outlook)
 
-Returns a semicolon-delimited  **String** list of reply recipients for the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a semicolon-delimited  **String** list of reply recipients for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a semicolon-delimited  **String** list of reply recipients for the **[Sh
 
 ## Remarks
 
-This property only contains the display names for the reply recipients. The reply recipients list should be set by using the  **[ReplyRecipients](sharingitem-replyrecipients-property-outlook.md)** collection.
+This property only contains the display names for the reply recipients. The reply recipients list should be set by using the  **[ReplyRecipients](Outlook.SharingItem.ReplyRecipients.md)** collection.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property only contains the display names for the reply recipients. The repl
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

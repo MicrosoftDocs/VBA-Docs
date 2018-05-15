@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.GetRootFolder Method (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object representing the root-level folder of the **[Store](store-object-outlook.md)** . Read-only.
+Returns a  **[Folder](Outlook.Folder.md)** object representing the root-level folder of the **[Store](Outlook.Store.md)** . Read-only.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ A  **Folder** object that represents the folder at the root of that **Store** .
 
 ## Remarks
 
-You can use the  **GetRootFolder** method to enumerate the subfolders of the root folder of the **Store** . Unlike **[NameSpace.Folders](namespace-folders-property-outlook.md)** which contains all folders for all stores in the current profile, **Store.GetRootFolder.Folders** allows you to enumerate all folders for a given **Store** object in the current profile.
+You can use the  **GetRootFolder** method to enumerate the subfolders of the root folder of the **Store** . Unlike **[NameSpace.Folders](Outlook.NameSpace.Folders.md)** which contains all folders for all stores in the current profile, **Store.GetRootFolder.Folders** allows you to enumerate all folders for a given **Store** object in the current profile.
 
-The  **[Parent](folder-parent-property-outlook.md)** property of the root folder of a store returns the string "Mapi".
+The  **[Parent](Outlook.Folder.Parent.md)** property of the root folder of a store returns the string "Mapi".
 
 The root folder for the Exchange Public Folder store is the folder  **Public Folders**. This folder is returned by the call to  `Application.Session.GetDefaultFolder(olPublicFoldersAllPublicFolders)`.
 
@@ -41,7 +41,7 @@ The root folder for the Exchange Public Folder store is the folder  **Public Fol
 
 ## Example
 
-The following code sample in Microsoft Visual Basic for Applications (VBA) starts at the root-level folder of each  **Store** in a **[Stores](stores-object-outlook.md)** collection for a session, and enumerates all folders on all stores for that session.
+The following code sample in Microsoft Visual Basic for Applications (VBA) starts at the root-level folder of each  **Store** in a **[Stores](Outlook.Stores.md)** collection for a session, and enumerates all folders on all stores for that session.
 
 
 ```vb
@@ -113,5 +113,5 @@ End Sub
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

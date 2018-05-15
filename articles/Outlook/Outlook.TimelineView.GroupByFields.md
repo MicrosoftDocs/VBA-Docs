@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.GroupByFields Property (Outlook)
 
-Returns an  **[OrderFields](orderfields-object-outlook.md)** object that represents the set of fields by which the items displayed in the **[TimelineView](timelineview-object-outlook.md)** object are grouped. Read-only.
+Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[TimelineView](Outlook.TimelineView.md)** object are grouped. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OrderFields](orderfields-object-outlook.md)** object that represe
 #### Concepts
 
 
-[TimelineView Object](timelineview-object-outlook.md)
+[TimelineView Object](Outlook.TimelineView.md)
 

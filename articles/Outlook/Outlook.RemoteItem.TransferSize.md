@@ -29,5 +29,5 @@ Returns a  **Long** specifying the transfer size (in bytes) for the remote item.
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

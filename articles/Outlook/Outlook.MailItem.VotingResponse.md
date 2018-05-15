@@ -25,7 +25,7 @@ Returns or sets a  **String** specifying the voting response for the mail messag
 
 ## Remarks
 
-This property is usually set to one of the delimited values returned by the  **[VotingOptions](mailitem-votingoptions-property-outlook.md)** property on a reply to the original message.
+This property is usually set to one of the delimited values returned by the  **[VotingOptions](Outlook.MailItem.VotingOptions.md)** property on a reply to the original message.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is usually set to one of the delimited values returned by the  **[
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

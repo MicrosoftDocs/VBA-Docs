@@ -34,7 +34,7 @@ Adds a new, empty group to the  **Shortcuts** pane.
 
 ### Return Value
 
-An  **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object that represents the new group.
+An  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object that represents the new group.
 
 
 ## Example
@@ -58,5 +58,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarGroups Object](outlookbargroups-object-outlook.md)
+[OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 

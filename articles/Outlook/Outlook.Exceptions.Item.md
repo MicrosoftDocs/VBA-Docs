@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Exceptions.Item Method (Outlook)
 
-Returns an  **[Exception](exception-object-outlook.md)** object from the collection.
+Returns an  **[Exception](Outlook.Exception.md)** object from the collection.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ An  **Exception** object that represents the specified object.
 #### Concepts
 
 
-[Exceptions Object](exceptions-object-outlook.md)
+[Exceptions Object](Outlook.Exceptions.md)
 

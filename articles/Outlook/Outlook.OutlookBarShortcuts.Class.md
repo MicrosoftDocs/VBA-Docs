@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarShortcuts.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 #### Concepts
 
 
-[OutlookBarShortcuts Object](outlookbarshortcuts-object-outlook.md)
+[OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 

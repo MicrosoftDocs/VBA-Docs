@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReportItem.RetentionExpirationDate Property (Outlook)
 
-Returns a  **Date** that specifies the date when the **[ReportItem](reportitem-object-outlook.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
+Returns a  **Date** that specifies the date when the **[ReportItem](Outlook.ReportItem.md)** object expires, after which the Messaging Records Management (MRM) Assistant will delete the item. Read-only.
 
 
 ## Syntax
@@ -47,5 +47,5 @@ Microsoft Outlook calculates the value of this property based on the item retent
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

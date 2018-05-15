@@ -25,7 +25,7 @@ This object, member, or enumeration will be deprecated and is not intended to be
 
 ## Remarks
 
-To display an item, you can use [DocumentItem.Display](documentitem-display-method-outlook.md).
+To display an item, you can use [DocumentItem.Display](Outlook.DocumentItem.Display.md).
 
 
 ## See also
@@ -34,5 +34,5 @@ To display an item, you can use [DocumentItem.Display](documentitem-display-meth
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

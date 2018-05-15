@@ -29,5 +29,5 @@ Returns a  **Boolean** that indicates **True** if the sender would like a respon
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

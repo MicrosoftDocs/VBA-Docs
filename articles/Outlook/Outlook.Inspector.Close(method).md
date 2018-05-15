@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.Close Method (Outlook)
 
-Closes the  **[Inspector](inspector-object-outlook.md)** and optionally saves changes to the displayed Outlook item.
+Closes the  **[Inspector](Outlook.Inspector.md)** and optionally saves changes to the displayed Outlook item.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Closes the  **[Inspector](inspector-object-outlook.md)** and optionally saves ch
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SaveMode_|Required| **[OlInspectorClose](olinspectorclose-enumeration-outlook.md)**|The close behavior. If the item displayed within the inspector has not been changed, this argument has no effect.|
+| _SaveMode_|Required| **[OlInspectorClose](Outlook.OlInspectorClose.md)**|The close behavior. If the item displayed within the inspector has not been changed, this argument has no effect.|
 
 ## Remarks
 
@@ -67,5 +67,5 @@ End Sub
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

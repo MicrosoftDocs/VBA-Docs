@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions.CopyToFolder Property (Outlook)
 
-Returns a  **[MoveOrCopyRuleAction](moveorcopyruleaction-object-outlook.md)** object with **[MoveOrCopyRuleAction.ActionType](moveorcopyruleaction-actiontype-property-outlook.md)** being **olRuleActionCopyToFolder** . Read-only.
+Returns a  **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)** object with **[MoveOrCopyRuleAction.ActionType](Outlook.MoveOrCopyRuleAction.ActionType.md)** being **olRuleActionCopyToFolder** . Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[MoveOrCopyRuleAction](moveorcopyruleaction-object-outlook.md)** ob
 
 Use the returned  **MoveOrCopyRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies copying a message to a specific folder as an action.
 
-This property of the  **[RuleActions](ruleactions-object-outlook.md)** collection always returns a **MoveOrCopyRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[MoveOrCopyRuleAction.Enabled](moveorcopyruleaction-enabled-property-outlook.md)** will be **True** .
+This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns a **MoveOrCopyRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[MoveOrCopyRuleAction.Enabled](Outlook.MoveOrCopyRuleAction.Enabled.md)** will be **True** .
 
 
 ## See also
@@ -36,5 +36,5 @@ This property of the  **[RuleActions](ruleactions-object-outlook.md)** collectio
 #### Concepts
 
 
-[RuleActions Object](ruleactions-object-outlook.md)
+[RuleActions Object](Outlook.RuleActions.md)
 

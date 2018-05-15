@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OrderField.IsDescending Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the contents of the **[OrderField](orderfield-object-outlook.md)** object are sorted in descending order. Read/write.
+Returns or sets a  **Boolean** value that indicates whether the contents of the **[OrderField](Outlook.OrderField.md)** object are sorted in descending order. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ If this property is set to  **True** , the contents of the property referenced b
 #### Concepts
 
 
-[OrderField Object](orderfield-object-outlook.md)
+[OrderField Object](Outlook.OrderField.md)
 

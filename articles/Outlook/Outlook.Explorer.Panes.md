@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.Panes Property (Outlook)
 
-Returns a  **[Panes](panes-object-outlook.md)** collection object representing the panes displayed by the specified explorer.
+Returns a  **[Panes](Outlook.Panes.md)** collection object representing the panes displayed by the specified explorer.
 
 
 ## Syntax
@@ -44,5 +44,5 @@ End Sub
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

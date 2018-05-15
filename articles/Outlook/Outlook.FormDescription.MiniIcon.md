@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the file name of the mini-icon to be 
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

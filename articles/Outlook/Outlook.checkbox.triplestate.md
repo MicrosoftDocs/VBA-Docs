@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CheckBox.TripleState Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that determines whether a user can specify, from the user interface, the **Null** state for a **[CheckBox](checkbox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Boolean** that determines whether a user can specify, from the user interface, the **Null** state for a **[CheckBox](Outlook.checkbox.md)**. Read/write.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ When the  **TripleState** property is **True**, a user can choose from the value
 
 When  **TripleState** is **False**, the user can choose either  **True** or **False**.
 
-A control set to  **Null** does not initiate the **[Click](checkbox-click-event-outlook-forms-script.md)** event.
+A control set to  **Null** does not initiate the **[Click](Outlook.checkbox.click.md)** event.
 
 Regardless of the property setting, the  **Null** value can always be assigned programmatically to a **CheckBox**, causing that control to appear shaded.
 

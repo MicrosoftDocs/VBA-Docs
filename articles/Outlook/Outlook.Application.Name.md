@@ -29,5 +29,5 @@ Returns a  **String** value that represents the display name for the object. Rea
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

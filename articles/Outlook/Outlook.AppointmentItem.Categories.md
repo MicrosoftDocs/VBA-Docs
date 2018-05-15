@@ -30,7 +30,7 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new appointment, displays the appointment on the screen, and opens the  **Show Categories** dialog box. Finally, it displays the categories that the user assigned using **[AppointmentItem.ShowCategoriesDialog](appointmentitem-showcategoriesdialog-method-outlook.md)** . Replace 'Dan Wilson' with a valid recipient name before running the example.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new appointment, displays the appointment on the screen, and opens the  **Show Categories** dialog box. Finally, it displays the categories that the user assigned using **[AppointmentItem.ShowCategoriesDialog](Outlook.AppointmentItem.ShowCategoriesDialog.md)** . Replace 'Dan Wilson' with a valid recipient name before running the example.
 
 
 ```vb
@@ -72,5 +72,5 @@ End Sub
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

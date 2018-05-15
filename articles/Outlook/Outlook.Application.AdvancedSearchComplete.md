@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AdvancedSearchComplete Event (Outlook)
 
-Occurs when the  **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method has completed.
+Occurs when the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method has completed.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Occurs when the  **[AdvancedSearch](application-advancedsearch-method-outlook.md
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SearchObject_|Required| **[Search](search-object-outlook.md)**|The  **Search** object returned by the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method.|
+| _SearchObject_|Required| **[Search](Outlook.Search.md)**|The  **Search** object returned by the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.|
 
 ## Remarks
 

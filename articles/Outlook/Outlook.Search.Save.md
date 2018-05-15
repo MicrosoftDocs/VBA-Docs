@@ -90,5 +90,5 @@ End Sub
 #### Concepts
 
 
-[Search Object](search-object-outlook.md)
+[Search Object](Outlook.Search.md)
 

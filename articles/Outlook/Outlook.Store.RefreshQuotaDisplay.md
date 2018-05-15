@@ -20,7 +20,7 @@ Refreshes the store quota information that is displayed in the status bar in the
 
  _expression_ . **RefreshQuotaDisplay**
 
- _expression_ A variable that represents a **[Store](store-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Store](Outlook.Store.md)** object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ If the store does not support the display of quota information, this method does
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

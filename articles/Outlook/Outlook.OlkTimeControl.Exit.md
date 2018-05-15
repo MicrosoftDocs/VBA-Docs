@@ -37,5 +37,5 @@ Occurs just after the focus passes from this control to another control on the s
 #### Concepts
 
 
-[OlkTimeControl Object](olktimecontrol-object-outlook.md)
+[OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

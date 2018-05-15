@@ -29,14 +29,14 @@ Occurs whenever the user clicks the  **Add-in Options** button on the **Add-ins*
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Pages_|Required| **[PropertyPages](propertypages-object-outlook.md)**|The collection of property pages that have been added to the dialog box. This collection includes only custom property pages. It does not include standard Microsoft Outlook property pages.|
-| _Folder_|Required| **PropertyPages**|This argument is only used with the  **[Folder](folder-object-outlook.md)** object. The **Folder** object for which the **Properties** dialog box is being opened.|
+| _Pages_|Required| **[PropertyPages](Outlook.PropertyPages.md)**|The collection of property pages that have been added to the dialog box. This collection includes only custom property pages. It does not include standard Microsoft Outlook property pages.|
+| _Folder_|Required| **PropertyPages**|This argument is only used with the  **[Folder](Outlook.Folder.md)** object. The **Folder** object for which the **Properties** dialog box is being opened.|
 
 ## Remarks
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-Your program handles this event to add a custom property page. The property page will be added to the  **Options** dialog box. When the event fires, the **PropertyPages** collection object identified by _Pages_ contains the property pages that have been added prior to the event handler being called. To add your property page to the collection, use the **[Add](propertypages-add-method-outlook.md)** method of the **PropertyPages** collection before exiting the event handler.
+Your program handles this event to add a custom property page. The property page will be added to the  **Options** dialog box. When the event fires, the **PropertyPages** collection object identified by _Pages_ contains the property pages that have been added prior to the event handler being called. To add your property page to the collection, use the **[Add](Outlook.PropertyPages.Add.md)** method of the **PropertyPages** collection before exiting the event handler.
 
 
 ## Example
@@ -65,5 +65,5 @@ End Sub
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

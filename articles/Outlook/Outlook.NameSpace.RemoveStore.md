@@ -29,7 +29,7 @@ Removes a Personal Folders file (.pst) from the current MAPI profile or session.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Folder_|Required| **[Folder](folder-object-outlook.md)**|The Personal Folders file (.pst) to be deleted from the list.|
+| _Folder_|Required| **[Folder](Outlook.Folder.md)**|The Personal Folders file (.pst) to be deleted from the list.|
 
 ## Remarks
 
@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

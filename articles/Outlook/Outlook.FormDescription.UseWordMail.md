@@ -29,5 +29,5 @@ Returns a  **Boolean** that indicates **True** to use Microsoft Office Word as t
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

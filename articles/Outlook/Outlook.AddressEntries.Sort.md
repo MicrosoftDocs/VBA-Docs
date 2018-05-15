@@ -43,5 +43,5 @@ Sorts the collection of items by the specified property. The index for the colle
 #### Concepts
 
 
-[AddressEntries Object](addressentries-object-outlook.md)
+[AddressEntries Object](Outlook.AddressEntries.md)
 

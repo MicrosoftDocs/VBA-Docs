@@ -29,5 +29,5 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlBusinessCardType Enumeration (Outlook)
 
-Identifies the type of Electronic Business Card (EBC) format associated with a  **[ContactItem](contactitem-object-outlook.md)** object.
+Identifies the type of Electronic Business Card (EBC) format associated with a  **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 

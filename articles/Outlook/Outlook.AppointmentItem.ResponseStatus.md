@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.ResponseStatus Property (Outlook)
 
-Returns an  **[OlResponseStatus](olresponsestatus-enumeration-outlook.md)** constant indicating the overall status of the meeting for the current user for the appointment. Read-only.
+Returns an  **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicating the overall status of the meeting for the current user for the appointment. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OlResponseStatus](olresponsestatus-enumeration-outlook.md)** cons
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

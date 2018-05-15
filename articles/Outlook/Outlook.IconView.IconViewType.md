@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconView.IconViewType Property (Outlook)
 
-Returns or sets an  **[OlIconViewType](oliconviewtype-enumeration-outlook.md)** constant that determines how Outlook items are displayed in the **[IconView](iconview-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlIconViewType](Outlook.OlIconViewType.md)** constant that determines how Outlook items are displayed in the **[IconView](Outlook.IconView.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlIconViewType](oliconviewtype-enumeration-outlook.md)** 
 
 ## Remarks
 
-If the value of this property is set to  **olIconSortAndAutoArrange** , the value of the **[IconPlacement](iconview-iconplacement-property-outlook.md)** property is automatically set to **olIconSortAndAutoArrange** .
+If the value of this property is set to  **olIconSortAndAutoArrange** , the value of the **[IconPlacement](Outlook.IconView.IconPlacement.md)** property is automatically set to **olIconSortAndAutoArrange** .
 
 
 ## Example
@@ -96,5 +96,5 @@ End Sub
 #### Concepts
 
 
-[IconView Object](iconview-object-outlook.md)
+[IconView Object](Outlook.IconView.md)
 

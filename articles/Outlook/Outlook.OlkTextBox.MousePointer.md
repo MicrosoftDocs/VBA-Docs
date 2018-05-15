@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.MousePointer Property (Outlook)
 
-Returns or sets an  **[OlMousePointer](olmousepointer-enumeration-outlook.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
+Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olMousePointerDefault** .
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

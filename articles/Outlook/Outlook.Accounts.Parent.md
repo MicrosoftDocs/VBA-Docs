@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **[Accounts](accounts-object-outlook.md)** object is the **[NameSpace](namespace-object-outlook.md)** object.
+The parent of the  **[Accounts](Outlook.Accounts.md)** object is the **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of the  **[Accounts](accounts-object-outlook.md)** object is the **[N
 #### Concepts
 
 
-[Accounts Object](accounts-object-outlook.md)
+[Accounts Object](Outlook.Accounts.md)
 

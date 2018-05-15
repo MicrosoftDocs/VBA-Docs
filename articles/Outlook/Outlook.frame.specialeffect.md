@@ -33,7 +33,7 @@ The settings for  **SpecialEffect** are:
 |6|Object has a ridge on the bottom and right and appears flat on the top and left.|
 The default value is 2.
 
-You can use either the  **SpecialEffect** or the **[BorderStyle](frame-borderstyle-property-outlook-forms-script.md)** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to 1, the system sets **BorderStyle** to 0.
+You can use either the  **SpecialEffect** or the **[BorderStyle](Outlook.frame.borderstyle.md)** property to specify the edging for a control, but not both. If you specify a nonzero value for one of these properties, the system sets the value of the other property to zero. For example, if you set **SpecialEffect** to 1, the system sets **BorderStyle** to 0.
 
  **BorderStyle** is ignored if **SpecialEffect** is 0.
 

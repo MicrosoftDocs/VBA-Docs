@@ -36,5 +36,5 @@ Only one character is accepted for the value of this property. If a string of mo
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

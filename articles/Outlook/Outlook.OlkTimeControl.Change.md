@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeControl.Change Event (Outlook)
 
-Occurs when the  **[Value](olktimecontrol-value-property-outlook.md)** property changes.
+Occurs when the  **[Value](Outlook.OlkTimeControl.Value.md)** property changes.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Occurs when the  **[Value](olktimecontrol-value-property-outlook.md)** property 
 #### Concepts
 
 
-[OlkTimeControl Object](olktimecontrol-object-outlook.md)
+[OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Conversation.SetAlwaysMoveToFolder Method (Outlook)
 
-Sets a  **[Folder](folder-object-outlook.md)** object that indicates the folder to which all existing conversation items and new items that arrive in the conversation are always moved.
+Sets a  **[Folder](Outlook.Folder.md)** object that indicates the folder to which all existing conversation items and new items that arrive in the conversation are always moved.
 
 
 ## Syntax
 
  _expression_ . **SetAlwaysMoveToFolder**( **_MoveToFolder_** , **_Store_** )
 
- _expression_ A variable that represents a **[Conversation](conversation-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ### Parameters
@@ -38,14 +38,14 @@ The  **SetAlwaysMoveToFolder** method operates on conversation items in the deli
 
 If the  _MoveToFolder_ parameter specifies an invalid folder that does not exist, has been moved, or is read-only, Outlook will raise an error.
 
-To stop the always-move-to-folder action for conversations items in a store, call the  **[StopAlwaysMoveToFolder](conversation-stopalwaysmovetofolder-method-outlook.md)** method.
+To stop the always-move-to-folder action for conversations items in a store, call the  **[StopAlwaysMoveToFolder](Outlook.Conversation.StopAlwaysMoveToFolder.md)** method.
 
 
 
 
- **Note**  Setting the Deleted Items folder as the  _MoveToFolder_ parameter in **SetAlwaysMoveToFolder** is not equivalent to calling **[SetAlwaysDelete](conversation-setalwaysdelete-method-outlook.md)** on the same store and conversation. Setting the _MoveToFolder_ parameter to the Deleted Items folder results in the **[GetAlwaysDelete](conversation-getalwaysdelete-method-outlook.md)** method returning the value **olDoNotDelete** .
+ **Note**  Setting the Deleted Items folder as the  _MoveToFolder_ parameter in **SetAlwaysMoveToFolder** is not equivalent to calling **[SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md)** on the same store and conversation. Setting the _MoveToFolder_ parameter to the Deleted Items folder results in the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method returning the value **olDoNotDelete** .
 
-The  **[BeforeItemMove](folder-beforeitemmove-event-outlook.md)** event of the **Folder** object occurs when you call **SetAlwaysMoveToFolder** .
+The  **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder** object occurs when you call **SetAlwaysMoveToFolder** .
 
 
 ## Example
@@ -82,5 +82,5 @@ End Sub
 #### Concepts
 
 
-[Conversation Object](conversation-object-outlook.md)
+[Conversation Object](Outlook.Conversation.md)
 

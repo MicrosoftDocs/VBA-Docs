@@ -29,5 +29,5 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 #### Concepts
 
 
-[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)
+[TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

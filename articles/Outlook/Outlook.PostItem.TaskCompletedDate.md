@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.TaskCompletedDate Property (Outlook)
 
-Returns or sets a  **Date** value that represents the completion date of the task for this **[PostItem](postitem-object-outlook.md)** . Read/write.
+Returns or sets a  **Date** value that represents the completion date of the task for this **[PostItem](Outlook.PostItem.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the completion date of the tas
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](postitem-ismarkedastask-property-outlook.md)** property is set to **False** .
+This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property is set to **False** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarke
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

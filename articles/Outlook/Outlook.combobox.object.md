@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [ComboBox Object (Outlook Forms Script)](combobox-object-outlook-forms-script.md)
+-  [ComboBox Object (Outlook Forms Script)](Outlook.combobox.md)
     
 -  [ComboBox Members (Outlook Forms Script)](combobox-members-outlook-forms-script.md)
     

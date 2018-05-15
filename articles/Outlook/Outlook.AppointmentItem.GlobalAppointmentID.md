@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.GlobalAppointmentID Property (Outlook)
 
-Returns a  **String** value that represents a unique global identifier for the **[AppointmentItem](appointmentitem-object-outlook.md)** object. Read-only.
+Returns a  **String** value that represents a unique global identifier for the **[AppointmentItem](Outlook.AppointmentItem.md)** object. Read-only.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ Therefore, each Outlook appointment item is assigned a Global Object ID, a uniqu
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

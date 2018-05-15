@@ -18,9 +18,9 @@ Represents a set of utilities for sharing calendar information.
 
 ## Remarks
 
-You can use the  **[GetCalendarExporter](folder-getcalendarexporter-method-outlook.md)** method of a **[Folder](folder-object-outlook.md)** object that represents a calendar folder to create a **CalendarSharing** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
+You can use the  **[GetCalendarExporter](Outlook.Folder.GetCalendarExporter.md)** method of a **[Folder](Outlook.Folder.md)** object that represents a calendar folder to create a **CalendarSharing** object. The **GetCalendarExporter** method can only be used on calendar folders. An error occurs if you use the method on **Folder** objects that represent other folder types.
 
-You can use the  **[SaveAsICal](calendarsharing-saveasical-method-outlook.md)** method to save calendar information in an iCalendar (.ics) file for sharing a calendar as a URL, or use the **[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)** method to create a **[MailItem](mailitem-object-outlook.md)** for sharing a calendar as a payload.
+You can use the  **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** method to save calendar information in an iCalendar (.ics) file for sharing a calendar as a URL, or use the **[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)** method to create a **[MailItem](Outlook.MailItem.md)** for sharing a calendar as a payload.
 
 
  **Note**  The  **CalendarSharing** object only supports exporting the iCalendar format.
@@ -178,8 +178,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[ForwardAsICal](calendarsharing-forwardasical-method-outlook.md)|
-|[SaveAsICal](calendarsharing-saveasical-method-outlook.md)|
+|[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)|
+|[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)|
 
 ## Properties
 
@@ -187,16 +187,16 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](calendarsharing-application-property-outlook.md)|
-|[CalendarDetail](calendarsharing-calendardetail-property-outlook.md)|
-|[Class](calendarsharing-class-property-outlook.md)|
-|[EndDate](calendarsharing-enddate-property-outlook.md)|
-|[Folder](calendarsharing-folder-property-outlook.md)|
-|[IncludeAttachments](calendarsharing-includeattachments-property-outlook.md)|
-|[IncludePrivateDetails](calendarsharing-includeprivatedetails-property-outlook.md)|
-|[IncludeWholeCalendar](calendarsharing-includewholecalendar-property-outlook.md)|
-|[Parent](calendarsharing-parent-property-outlook.md)|
-|[RestrictToWorkingHours](calendarsharing-restricttoworkinghours-property-outlook.md)|
+|[Application](Outlook.CalendarSharing.Application.md)|
+|[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)|
+|[Class](Outlook.CalendarSharing.Class.md)|
+|[EndDate](Outlook.CalendarSharing.EndDate.md)|
+|[Folder](Outlook.CalendarSharing.Folder.md)|
+|[IncludeAttachments](Outlook.CalendarSharing.IncludeAttachments.md)|
+|[IncludePrivateDetails](Outlook.CalendarSharing.IncludePrivateDetails.md)|
+|[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)|
+|[Parent](Outlook.CalendarSharing.Parent.md)|
+|[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)|
 |[Session](calendarsharing-session-property-outlook.md)|
 |[StartDate](calendarsharing-startdate-property-outlook.md)|
 

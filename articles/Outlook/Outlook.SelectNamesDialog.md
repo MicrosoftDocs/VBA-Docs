@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # SelectNamesDialog Object (Outlook)
 
-Displays the  **Select Names** dialog box for the user to select entries from one or more address lists, and returns the selected entries in the collection object specified by the property **[SelectNamesDialog.Recipients](selectnamesdialog-recipients-property-outlook.md)**.
+Displays the  **Select Names** dialog box for the user to select entries from one or more address lists, and returns the selected entries in the collection object specified by the property **[SelectNamesDialog.Recipients](Outlook.SelectNamesDialog.Recipients.md)**.
 
 
 ## Remarks
 
-You can instantiate an instance of the  **SelectNamesDialog** object by calling **[NameSpace.GetSelectNamesDialog](namespace-getselectnamesdialog-method-outlook.md)**.
+You can instantiate an instance of the  **SelectNamesDialog** object by calling **[NameSpace.GetSelectNamesDialog](Outlook.NameSpace.GetSelectNamesDialog.md)**.
 
-The dialog box displayed by  **[SelectNamesDialog.Display](selectnamesdialog-display-method-outlook.md)** is similar to the **Select Names** dialog box in the Outlook user interface. It observes the size and position settings of the built-in **Select Names** dialog box. However, its default state does not show **Message Recipients** above the **To**,  **Cc**, and  **Bcc** edit boxes. For more information on using the **SelectNamesDialog** object to display the **Select Names** dialog box, see[Display Names from the Address Book](http://msdn.microsoft.com/library/32e7179c-8133-ee20-ecf6-52c9275f205f%28Office.15%29.aspx).
+The dialog box displayed by  **[SelectNamesDialog.Display](Outlook.SelectNamesDialog.Display.md)** is similar to the **Select Names** dialog box in the Outlook user interface. It observes the size and position settings of the built-in **Select Names** dialog box. However, its default state does not show **Message Recipients** above the **To**,  **Cc**, and  **Bcc** edit boxes. For more information on using the **SelectNamesDialog** object to display the **Select Names** dialog box, see[Display Names from the Address Book](http://msdn.microsoft.com/library/32e7179c-8133-ee20-ecf6-52c9275f205f%28Office.15%29.aspx).
 
 
 ## Example
@@ -87,8 +87,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Display](selectnamesdialog-display-method-outlook.md)|
-|[SetDefaultDisplayMode](selectnamesdialog-setdefaultdisplaymode-method-outlook.md)|
+|[Display](Outlook.SelectNamesDialog.Display.md)|
+|[SetDefaultDisplayMode](Outlook.SelectNamesDialog.SetDefaultDisplayMode.md)|
 
 ## Properties
 
@@ -96,18 +96,18 @@ End Sub
 
 |**Name**|
 |:-----|
-|[AllowMultipleSelection](selectnamesdialog-allowmultipleselection-property-outlook.md)|
-|[Application](selectnamesdialog-application-property-outlook.md)|
-|[BccLabel](selectnamesdialog-bcclabel-property-outlook.md)|
-|[Caption](selectnamesdialog-caption-property-outlook.md)|
-|[CcLabel](selectnamesdialog-cclabel-property-outlook.md)|
-|[Class](selectnamesdialog-class-property-outlook.md)|
-|[ForceResolution](selectnamesdialog-forceresolution-property-outlook.md)|
-|[InitialAddressList](selectnamesdialog-initialaddresslist-property-outlook.md)|
-|[NumberOfRecipientSelectors](selectnamesdialog-numberofrecipientselectors-property-outlook.md)|
-|[Parent](selectnamesdialog-parent-property-outlook.md)|
-|[Recipients](selectnamesdialog-recipients-property-outlook.md)|
-|[Session](selectnamesdialog-session-property-outlook.md)|
+|[AllowMultipleSelection](Outlook.SelectNamesDialog.AllowMultipleSelection.md)|
+|[Application](Outlook.SelectNamesDialog.Application.md)|
+|[BccLabel](Outlook.SelectNamesDialog.BccLabel.md)|
+|[Caption](Outlook.SelectNamesDialog.Caption.md)|
+|[CcLabel](Outlook.SelectNamesDialog.CcLabel.md)|
+|[Class](Outlook.SelectNamesDialog.Class.md)|
+|[ForceResolution](Outlook.SelectNamesDialog.ForceResolution.md)|
+|[InitialAddressList](Outlook.SelectNamesDialog.InitialAddressList.md)|
+|[NumberOfRecipientSelectors](Outlook.SelectNamesDialog.NumberOfRecipientSelectors.md)|
+|[Parent](Outlook.SelectNamesDialog.Parent.md)|
+|[Recipients](Outlook.SelectNamesDialog.Recipients.md)|
+|[Session](Outlook.SelectNamesDialog.Session.md)|
 |[ShowOnlyInitialAddressList](selectnamesdialog-showonlyinitialaddresslist-property-outlook.md)|
 |[ToLabel](selectnamesdialog-tolabel-property-outlook.md)|
 

@@ -29,5 +29,5 @@ Saves the view, or saves the changes to a view.
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

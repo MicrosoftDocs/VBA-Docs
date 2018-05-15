@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent Outlook application for the object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

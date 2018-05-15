@@ -25,7 +25,7 @@ Occurs after the data in the control has been changed through the user interface
 
 ## Remarks
 
- **[BeforeUpdate](olktimezonecontrol-beforeupdate-event-outlook.md)** and **AfterUpdate** can occur any time the data in the control is being saved to the item. The typical sequence of events involving **AfterUpdate** for this control is as follows:
+ **[BeforeUpdate](Outlook.OlkTimeZoneControl.BeforeUpdate.md)** and **AfterUpdate** can occur any time the data in the control is being saved to the item. The typical sequence of events involving **AfterUpdate** for this control is as follows:
 
 
 1. User focuses on the control
@@ -36,7 +36,7 @@ Occurs after the data in the control has been changed through the user interface
     
 4.  **AfterUpdate** occurs
     
-5.  **[Exit](olktimezonecontrol-exit-event-outlook.md)** occurs: User moves focus away from control
+5.  **[Exit](Outlook.OlkTimeZoneControl.Exit.md)** occurs: User moves focus away from control
     
 
 
@@ -47,5 +47,5 @@ Occurs after the data in the control has been changed through the user interface
 #### Concepts
 
 
-[OlkTimeZoneControl Object](olktimezonecontrol-object-outlook.md)
+[OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

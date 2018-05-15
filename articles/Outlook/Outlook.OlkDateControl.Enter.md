@@ -29,5 +29,5 @@ Occurs before the control actually receives the focus from a control on the same
 #### Concepts
 
 
-[OlkDateControl Object](olkdatecontrol-object-outlook.md)
+[OlkDateControl Object](Outlook.OlkDateControl.md)
 

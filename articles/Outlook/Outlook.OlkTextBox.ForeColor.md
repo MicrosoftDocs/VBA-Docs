@@ -34,5 +34,5 @@ This property is of the type  **OLE_COLOR** which is a **Long** value. The defau
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

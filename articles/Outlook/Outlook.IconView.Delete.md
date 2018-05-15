@@ -29,5 +29,5 @@ Deletes an object from a collection.
 #### Concepts
 
 
-[IconView Object](iconview-object-outlook.md)
+[IconView Object](Outlook.IconView.md)
 

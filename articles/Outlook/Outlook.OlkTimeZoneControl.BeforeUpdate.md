@@ -35,7 +35,7 @@ Occurs when the data in the control is changed through the user interface and is
 
 Canceling this property will revert the control to the current value of the property and return the focus to the control.
 
- **BeforeUpdate** and **[AfterUpdate](olktimezonecontrol-afterupdate-event-outlook.md)** can occur any time the data in the control is being saved to the item. The typical sequence of events involving **AfterUpdate** for this control is as follows:
+ **BeforeUpdate** and **[AfterUpdate](Outlook.OlkTimeZoneControl.AfterUpdate.md)** can occur any time the data in the control is being saved to the item. The typical sequence of events involving **AfterUpdate** for this control is as follows:
 
 
 1. User focuses on the control
@@ -46,7 +46,7 @@ Canceling this property will revert the control to the current value of the prop
     
 4.  **AfterUpdate** occurs
     
-5.  **[Exit](olktimezonecontrol-exit-event-outlook.md)** occurs: User moves focus away from control
+5.  **[Exit](Outlook.OlkTimeZoneControl.Exit.md)** occurs: User moves focus away from control
     
 
 
@@ -57,5 +57,5 @@ Canceling this property will revert the control to the current value of the prop
 #### Concepts
 
 
-[OlkTimeZoneControl Object](olktimezonecontrol-object-outlook.md)
+[OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

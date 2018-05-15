@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that determines if the rule action is enabled. Re
 
 ## Remarks
 
-After you enable a rule, you must also save the rule by using  **[Rules.Save](rules-save-method-outlook.md)** so that the rule and its enabled state will persist beyond the current session. A rule is only enabled after it has been saved successfully.
+After you enable a rule, you must also save the rule by using  **[Rules.Save](Outlook.Rules.Save.md)** so that the rule and its enabled state will persist beyond the current session. A rule is only enabled after it has been saved successfully.
 
 
 ## See also
@@ -34,5 +34,5 @@ After you enable a rule, you must also save the rule by using  **[Rules.Save](ru
 #### Concepts
 
 
-[AssignToCategoryRuleAction Object](assigntocategoryruleaction-object-outlook.md)
+[AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 

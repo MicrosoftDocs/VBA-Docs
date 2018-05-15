@@ -25,11 +25,11 @@ Returns or sets a  **Variant** representing the current view. Read/write.
 
 ## Remarks
 
-To obtain a  **[View](view-object-outlook.md)** object for the view of the current **[Explorer](explorer-object-outlook.md)** , use **Explorer.CurrentView** instead of the **[CurrentView](folder-currentview-property-outlook.md)** property of the current **[Folder](folder-object-outlook.md)** object returned by **[Explorer.CurrentFolder](explorer-currentfolder-property-outlook.md)** .
+To obtain a  **[View](Outlook.View.md)** object for the view of the current **[Explorer](Outlook.Explorer.md)** , use **Explorer.CurrentView** instead of the **[CurrentView](Outlook.Folder.CurrentView.md)** property of the current **[Folder](Outlook.Folder.md)** object returned by **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)** .
 
 You must save a reference to the  **View** object returned by **CurrentView** before you proceed to use it for any purpose.
 
-To properly reset the current view, you must do a  **[View.Reset](view-reset-method-outlook.md)** and then a **[View.Apply](view-apply-method-outlook.md)** . The code sample below illustrates the order of the calls:
+To properly reset the current view, you must do a  **[View.Reset](Outlook.View.Reset.md)** and then a **[View.Apply](Outlook.View.Apply.md)** . The code sample below illustrates the order of the calls:
 
 
 
@@ -52,7 +52,7 @@ Sub ResetView()
 End Sub
 ```
 
-When this property is set, two events occur:  **[BeforeViewSwitch](explorer-beforeviewswitch-event-outlook.md)** occurs before the actual view change takes place and can be used to cancel the change and **[ViewSwitch](explorer-viewswitch-event-outlook.md)** takes place after the change is effective.
+When this property is set, two events occur:  **[BeforeViewSwitch](Outlook.Explorer.BeforeViewSwitch.md)** occurs before the actual view change takes place and can be used to cancel the change and **[ViewSwitch](Outlook.Explorer.ViewSwitch.md)** takes place after the change is effective.
 
 
 ## Example
@@ -85,5 +85,5 @@ End Sub
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

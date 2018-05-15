@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Image Object (Outlook Forms Script)](image-object-outlook-forms-script.md)
+-  [Image Object (Outlook Forms Script)](Outlook.image.md)
     
 -  [Image Members (Outlook Forms Script)](image-members-outlook-forms-script.md)
     

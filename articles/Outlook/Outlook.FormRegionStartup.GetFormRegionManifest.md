@@ -39,7 +39,7 @@ A  **Variant** that represents the XML manifest for a form region. This XML stri
 
 ## Remarks
 
-This method is intended to be implemented by an add-in and called by Outlook. As part of the  **[FormRegionStartup](formregionstartup-object-outlook.md)** interface, this method and the **[GetFormRegionIcon](formregionstartup-getformregionicon-method-outlook.md)** method provide a mechanism through which an add-in can register a form region and provide Outlook the XML manifest and the icons for the form region.
+This method is intended to be implemented by an add-in and called by Outlook. As part of the  **[FormRegionStartup](Outlook.formregionstartup.md)** interface, this method and the **[GetFormRegionIcon](Outlook.FormRegionStartup.GetFormRegionIcon.md)** method provide a mechanism through which an add-in can register a form region and provide Outlook the XML manifest and the icons for the form region.
 
 If you would like an add-in to provide the XML manifest for a form region, specify the  **ProgID** of the add-in when you register the form region in the Windows registry. For more information on registering a form region, see[Specifying Form Regions in the Windows Registry](http://msdn.microsoft.com/library/0de3fcb1-b357-8300-c943-9a5a788d4976%28Office.15%29.aspx). The add-in must implement the  **GetFormRegionManifest** method of the **FormRegionStartup** interface. Note that if you do not specify any **ProgID** in the Windows registry, Outlook will not call this method.
 
@@ -67,5 +67,5 @@ Outlook ignores the following elements when the add-in provides the XML manifest
 #### Concepts
 
 
-[FormRegionStartup Interface](formregionstartup-object-outlook.md)
+[FormRegionStartup Interface](Outlook.formregionstartup.md)
 

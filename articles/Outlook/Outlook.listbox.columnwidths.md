@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ListBox.ColumnWidths Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies the width of each column in a multicolumn **[ListBox](listbox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **String** that specifies the width of each column in a multicolumn **[ListBox](Outlook.listbox.md)**. Read/write.
 
 
 ## Syntax

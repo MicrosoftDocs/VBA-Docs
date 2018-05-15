@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactsModule.Name Property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[ContactsModule](contactsmodule-object-outlook.md)** object. Read-only.
+Returns a  **String** value that represents the localized display name for the **[ContactsModule](Outlook.ContactsModule.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **String** value that represents the localized display name for the *
 #### Concepts
 
 
-[ContactsModule Object](contactsmodule-object-outlook.md)
+[ContactsModule Object](Outlook.ContactsModule.md)
 

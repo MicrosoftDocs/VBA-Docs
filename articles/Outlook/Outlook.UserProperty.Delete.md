@@ -29,5 +29,5 @@ Deletes an object from the collection.
 #### Concepts
 
 
-[UserProperty Object](userproperty-object-outlook.md)
+[UserProperty Object](Outlook.UserProperty.md)
 

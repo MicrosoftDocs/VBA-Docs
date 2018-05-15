@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # UserDefinedProperty Object (Outlook)
 
-Represents the definition of a user-defined property for a  **[Folder](folder-object-outlook.md)** object.
+Represents the definition of a user-defined property for a  **[Folder](Outlook.Folder.md)** object.
 
 
 ## Remarks
 
-Use  **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** ( _index_), where  _index_ is a name or index number, to return a single **UserDefinedProperty** object.
+Use  **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** ( _index_), where  _index_ is a name or index number, to return a single **UserDefinedProperty** object.
 
-Use the  **[Add](userdefinedproperties-add-method-outlook.md)** method of the **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** collection for a **Folder** object to define a user-defined property for that folder.
+Use the  **[Add](Outlook.UserDefinedProperties.Add.md)** method of the **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** collection for a **Folder** object to define a user-defined property for that folder.
 
-Use the  **[Type](userdefinedproperty-type-property-outlook.md)** property to return the user-defined property type and the **[DisplayFormat](userdefinedproperty-displayformat-property-outlook.md)** property to return the display format for the user-defined property. If the **Type** property is set to **olCombination** or **olFormula**, use the **[Formula](userdefinedproperty-formula-property-outlook.md)** property to return the formula used to generate values for the user-defined property.
+Use the  **[Type](Outlook.UserDefinedProperty.Type.md)** property to return the user-defined property type and the **[DisplayFormat](Outlook.UserDefinedProperty.DisplayFormat.md)** property to return the display format for the user-defined property. If the **Type** property is set to **olCombination** or **olFormula**, use the **[Formula](Outlook.UserDefinedProperty.Formula.md)** property to return the formula used to generate values for the user-defined property.
 
-The  **UserDefinedProperty** object represents only the definition of a user-defined property, which is applicable to all Outlook items contained by the folder. To retrieve or change user-defined property values for an Outlook item in that folder, use the **[UserProperties](mailitem-userproperties-property-outlook.md)** property of the Outlook item, such as a **[MailItem](mailitem-object-outlook.md)** object, to retrieve the **[UserProperties](userproperties-object-outlook.md)** collection for that item. You can then use the **[UserProperty](userproperty-object-outlook.md)** object for the appropriate user-defined property to retrieve or change the value of that user-defined property for the Outlook item.
+The  **UserDefinedProperty** object represents only the definition of a user-defined property, which is applicable to all Outlook items contained by the folder. To retrieve or change user-defined property values for an Outlook item in that folder, use the **[UserProperties](Outlook.MailItem.UserProperties.md)** property of the Outlook item, such as a **[MailItem](Outlook.MailItem.md)** object, to retrieve the **[UserProperties](Outlook.UserProperties.md)** collection for that item. You can then use the **[UserProperty](Outlook.UserProperty.md)** object for the appropriate user-defined property to retrieve or change the value of that user-defined property for the Outlook item.
 
 
 ## Example
@@ -101,7 +101,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Delete](userdefinedproperty-delete-method-outlook.md)|
+|[Delete](Outlook.UserDefinedProperty.Delete.md)|
 
 ## Properties
 
@@ -109,14 +109,14 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](userdefinedproperty-application-property-outlook.md)|
-|[Class](userdefinedproperty-class-property-outlook.md)|
-|[DisplayFormat](userdefinedproperty-displayformat-property-outlook.md)|
-|[Formula](userdefinedproperty-formula-property-outlook.md)|
+|[Application](Outlook.UserDefinedProperty.Application.md)|
+|[Class](Outlook.UserDefinedProperty.Class.md)|
+|[DisplayFormat](Outlook.UserDefinedProperty.DisplayFormat.md)|
+|[Formula](Outlook.UserDefinedProperty.Formula.md)|
 |[Name](userdefinedproperty-name-property-outlook.md)|
 |[Parent](userdefinedproperty-parent-property-outlook.md)|
 |[Session](userdefinedproperty-session-property-outlook.md)|
-|[Type](userdefinedproperty-type-property-outlook.md)|
+|[Type](Outlook.UserDefinedProperty.Type.md)|
 
 ## See also
 

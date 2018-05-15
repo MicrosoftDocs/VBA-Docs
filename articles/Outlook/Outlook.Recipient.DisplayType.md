@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.DisplayType Property (Outlook)
 
-Returns a constant belonging to the  **[OlDisplayType](oldisplaytype-enumeration-outlook.md)** enumeration that describes the nature of the **[Recipient](recipient-object-outlook.md)** . Read-only.
+Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration that describes the nature of the **[Recipient](Outlook.Recipient.md)** . Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ You can use the  **DisplayType** property to filter recipients. The **DisplayTyp
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](Outlook.Recipient.md)
 

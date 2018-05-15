@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.OriginatorDeliveryReportRequested Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the originator of the **[SharingItem](sharingitem-object-outlook.md)** will receive a delivery report. Read/write.
+Returns or sets a  **Boolean** value that determines whether the originator of the **[SharingItem](Outlook.SharingItem.md)** will receive a delivery report. Read/write.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ The  **OriginatorDeliveryReportRequested** property corresponds to the MAPI prop
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

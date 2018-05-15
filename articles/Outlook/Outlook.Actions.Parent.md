@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Actions Object](actions-object-outlook.md)
+[Actions Object](Outlook.Actions.md)
 

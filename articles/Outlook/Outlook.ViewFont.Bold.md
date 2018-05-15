@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewFont.Bold Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates if the font is bold in the **[ViewFont](viewfont-object-outlook.md)** object. Read/write.
+Returns or sets a  **Boolean** value that indicates if the font is bold in the **[ViewFont](Outlook.ViewFont.md)** object. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that indicates if the font is bold in the *
 #### Concepts
 
 
-[ViewFont Object](viewfont-object-outlook.md)
+[ViewFont Object](Outlook.ViewFont.md)
 

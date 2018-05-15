@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Page.Visible Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a **[Page](page-object-outlook-forms-script.md)** is visible or hidden. Read/write.
+Returns or sets a  **Boolean** that specifies whether a **[Page](Outlook.page.md)** is visible or hidden. Read/write.
 
 
 ## Syntax

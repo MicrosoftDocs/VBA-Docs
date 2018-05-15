@@ -34,5 +34,5 @@ By default, a mail item is not marked with any flag and the default value for th
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.ViewType Property (Outlook)
 
-Returns an  **[OlViewType](olviewtype-enumeration-outlook.md)** constant that indicates the view type of the view. Read-only.
+Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the view type of the view. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OlViewType](olviewtype-enumeration-outlook.md)** constant that in
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

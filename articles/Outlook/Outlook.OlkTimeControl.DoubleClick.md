@@ -29,5 +29,5 @@ Occurs when the user double-clicks inside the control.
 #### Concepts
 
 
-[OlkTimeControl Object](olktimecontrol-object-outlook.md)
+[OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

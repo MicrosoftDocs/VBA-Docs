@@ -25,7 +25,7 @@ Returns or sets a  **Date** indicating the end date for the recurrence pattern. 
 
 ## Remarks
 
-This property is optional but must be coordinated with other properties when setting up a recurrence pattern. If this property or the  **[Occurrences](recurrencepattern-occurrences-property-outlook.md)** property is set, the pattern is considered to be finite, and the **[NoEndDate](recurrencepattern-noenddate-property-outlook.md)** property is **False** . If neither **PatternEndDate** nor **Occurrences** is set, the pattern is considered infinite and **NoEndDate** is **True** . The **[Interval](recurrencepattern-interval-property-outlook.md)** property must be set before setting **PatternEndDate** .
+This property is optional but must be coordinated with other properties when setting up a recurrence pattern. If this property or the  **[Occurrences](Outlook.RecurrencePattern.Occurrences.md)** property is set, the pattern is considered to be finite, and the **[NoEndDate](Outlook.RecurrencePattern.NoEndDate.md)** property is **False** . If neither **PatternEndDate** nor **Occurrences** is set, the pattern is considered infinite and **NoEndDate** is **True** . The **[Interval](Outlook.RecurrencePattern.Interval.md)** property must be set before setting **PatternEndDate** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is optional but must be coordinated with other properties when set
 #### Concepts
 
 
-[RecurrencePattern Object](recurrencepattern-object-outlook.md)
+[RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.BusinessCardType Property (Outlook)
 
-Returns an  **[OlBusinessCardType](olbusinesscardtype-enumeration-outlook.md)** constant that specifies the type of Electronic Business Card used by this contact. Read-only.
+Returns an  **[OlBusinessCardType](Outlook.OlBusinessCardType.md)** constant that specifies the type of Electronic Business Card used by this contact. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The Electronic Business Card can be either in Microsoft Office InterConnect form
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

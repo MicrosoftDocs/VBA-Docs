@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressList.IsInitialAddressList Property (Outlook)
 
-Returns a  **Boolean** that indicates if the **[AddressList](addresslist-object-outlook.md)** is the initial **AddressList** shown in the **Select Names** dialog. Read-only.
+Returns a  **Boolean** that indicates if the **[AddressList](Outlook.AddressList.md)** is the initial **AddressList** shown in the **Select Names** dialog. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Returns a  **Boolean** that indicates if the **[AddressList](addresslist-object-
 #### Concepts
 
 
-[AddressList Object](addresslist-object-outlook.md)
+[AddressList Object](Outlook.AddressList.md)
 

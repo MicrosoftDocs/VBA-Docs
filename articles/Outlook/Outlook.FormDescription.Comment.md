@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the text of a comment assigned to the
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

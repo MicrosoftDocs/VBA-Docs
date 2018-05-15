@@ -22,7 +22,7 @@ Returns a  **Long** that represents the number of objects in a collection. Read-
 
 The  **Count** property is read only.
 
-Note that the index value for the first page of a collection is zero, the value for the second page is one, and so on. For example, if a  **[MultiPage](multipage-object-outlook-forms-script.md)** contains two pages, the indexes of the pages are 0 and 1, and the value of **Count** is 2.
+Note that the index value for the first page of a collection is zero, the value for the second page is one, and so on. For example, if a  **[MultiPage](Outlook.multipage.md)** contains two pages, the indexes of the pages are 0 and 1, and the value of **Count** is 2.
 
 
 ## See also
@@ -31,5 +31,5 @@ Note that the index value for the first page of a collection is zero, the value 
 #### Concepts
 
 
- [Pages Object](pages-object-outlook-forms-script.md)
+ [Pages Object](Outlook.pages(object).md)
 

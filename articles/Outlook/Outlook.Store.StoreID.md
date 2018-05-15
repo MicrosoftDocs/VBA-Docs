@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.StoreID Property (Outlook)
 
-Returns a  **String** identifying the **[Store](store-object-outlook.md)** . Read-only.
+Returns a  **String** identifying the **[Store](Outlook.Store.md)** . Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Returns a  **String** identifying the **[Store](store-object-outlook.md)** . Rea
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

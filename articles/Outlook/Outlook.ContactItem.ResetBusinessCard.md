@@ -34,5 +34,5 @@ For contacts with a Microsoft Office InterConnect card type, this will reset the
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

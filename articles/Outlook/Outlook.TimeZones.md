@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TimeZones Object (Outlook)
 
-A collection of  **[TimeZone](timezone-object-outlook.md)** objects.
+A collection of  **[TimeZone](Outlook.TimeZone.md)** objects.
 
 
 ## Remarks
 
-This collection is read-only, and serves the purpose of enumerating time zones supported by Microsoft Windows and thus Outlook. Its value is accessible through the property  **[Application.TimeZones](application-timezones-property-outlook.md)** and is based on the data stored in the Windows registry key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones.
+This collection is read-only, and serves the purpose of enumerating time zones supported by Microsoft Windows and thus Outlook. Its value is accessible through the property  **[Application.TimeZones](Outlook.Application.TimeZones.md)** and is based on the data stored in the Windows registry key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones.
 
 
 ## Methods
@@ -27,8 +27,8 @@ This collection is read-only, and serves the purpose of enumerating time zones s
 
 |**Name**|
 |:-----|
-|[ConvertTime](timezones-converttime-method-outlook.md)|
-|[Item](timezones-item-method-outlook.md)|
+|[ConvertTime](Outlook.TimeZones.ConvertTime.md)|
+|[Item](Outlook.TimeZones.Item.md)|
 
 ## Properties
 
@@ -36,12 +36,12 @@ This collection is read-only, and serves the purpose of enumerating time zones s
 
 |**Name**|
 |:-----|
-|[Application](timezones-application-property-outlook.md)|
-|[Class](timezones-class-property-outlook.md)|
-|[Count](timezones-count-property-outlook.md)|
-|[CurrentTimeZone](timezones-currenttimezone-property-outlook.md)|
-|[Parent](timezones-parent-property-outlook.md)|
-|[Session](timezones-session-property-outlook.md)|
+|[Application](Outlook.TimeZones.Application.md)|
+|[Class](Outlook.TimeZones.Class.md)|
+|[Count](Outlook.TimeZones.Count.md)|
+|[CurrentTimeZone](Outlook.TimeZones.CurrentTimeZone.md)|
+|[Parent](Outlook.TimeZones.Parent.md)|
+|[Session](Outlook.TimeZones.Session.md)|
 
 ## See also
 

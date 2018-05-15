@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder should pla
 
 ## Remarks
 
-The  **ReminderPlaySound** property must be set in order to validate the **[ReminderSoundFile](postitem-remindersoundfile-property-outlook.md)** property.
+The  **ReminderPlaySound** property must be set in order to validate the **[ReminderSoundFile](Outlook.PostItem.ReminderSoundFile.md)** property.
 
 
 ## See also
@@ -34,5 +34,5 @@ The  **ReminderPlaySound** property must be set in order to validate the **[Remi
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

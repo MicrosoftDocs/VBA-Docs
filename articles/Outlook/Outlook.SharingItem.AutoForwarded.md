@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if the item was automatica
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Item Method (Outlook)
 
-Obtains an  **Object** that represents the value for the **[Row](row-object-outlook.md)** object at the column specified by _Index_ .
+Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)** object at the column specified by _Index_ .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Obtains an  **Object** that represents the value for the **[Row](row-object-outl
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **[Columns](columns-object-outlook.md)** collection or a **String** representing the **[Name](column-name-property-outlook.md)** of the **[Column](column-object-outlook.md)** .|
+| _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **[Columns](Outlook.Columns.md)** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **[Column](Outlook.Column.md)** .|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ A  **Variant** that represents the value of a property (as specified by _Index_ 
 
 ## Remarks
 
-The  **Item** method is the default method of the **Row** object, meaning that the method can be used implicitly. The following two lines of code both access the value of the **Subject** property at the specified **Row** in a **[Table](table-object-outlook.md)** :
+The  **Item** method is the default method of the **Row** object, meaning that the method can be used implicitly. The following two lines of code both access the value of the **Subject** property at the specified **Row** in a **[Table](Outlook.Table.md)** :
 
  `Row.Item("Subject")`
 
@@ -84,5 +84,5 @@ End Sub
 #### Concepts
 
 
-[Row Object](row-object-outlook.md)
+[Row Object](Outlook.Row.md)
 

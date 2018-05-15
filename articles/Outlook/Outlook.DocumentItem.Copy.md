@@ -20,7 +20,7 @@ Creates another instance of an object.
 
  _expression_ . **Copy**
 
- _expression_ A variable that represents a **[DocumentItem](documentitem-object-outlook.md)** object.
+ _expression_ A variable that represents a **[DocumentItem](Outlook.DocumentItem.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Creates another instance of an object.
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

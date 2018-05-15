@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.EntryID Property (Outlook)
 
-Returns a  **String** representing the unique Entry ID of the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a  **String** representing the unique Entry ID of the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ A MAPI store provider assigns a unique ID string when an item is created in its 
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

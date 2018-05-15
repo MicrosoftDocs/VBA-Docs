@@ -18,7 +18,7 @@ Represents an action that moves or copies a message.
 
 ## Remarks
 
- **MoveOrCopyRuleAction** is derived from the **[RuleAction](ruleaction-object-outlook.md)** object. Each rule is associated with a **[RuleActions](ruleactions-object-outlook.md)** object which has a **[CopyToFolder](ruleactions-copytofolder-property-outlook.md)** property and a **[MoveToFolder](ruleactions-movetofolder-property-outlook.md)** property. Each of these properties always returns a **MoveOrCopyRuleAction** object. **[MoveOrCopyRuleAction.ActionType](moveorcopyruleaction-actiontype-property-outlook.md)** distinguishes between the two action types. If the rule has an enabled rule action that copies or moves a message to the specified folder, then the corresponding **[MoveOrCopyRuleAction.Enabled](moveorcopyruleaction-enabled-property-outlook.md)** would be **True**.
+ **MoveOrCopyRuleAction** is derived from the **[RuleAction](Outlook.RuleAction.md)** object. Each rule is associated with a **[RuleActions](Outlook.RuleActions.md)** object which has a **[CopyToFolder](Outlook.RuleActions.CopyToFolder.md)** property and a **[MoveToFolder](Outlook.RuleActions.MoveToFolder.md)** property. Each of these properties always returns a **MoveOrCopyRuleAction** object. **[MoveOrCopyRuleAction.ActionType](Outlook.MoveOrCopyRuleAction.ActionType.md)** distinguishes between the two action types. If the rule has an enabled rule action that copies or moves a message to the specified folder, then the corresponding **[MoveOrCopyRuleAction.Enabled](Outlook.MoveOrCopyRuleAction.Enabled.md)** would be **True**.
 
 For more information on specifying rule actions, see [Specify Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx).
 
@@ -29,11 +29,11 @@ For more information on specifying rule actions, see [Specify Rule Actions](http
 
 |**Name**|
 |:-----|
-|[ActionType](moveorcopyruleaction-actiontype-property-outlook.md)|
-|[Application](moveorcopyruleaction-application-property-outlook.md)|
-|[Class](moveorcopyruleaction-class-property-outlook.md)|
-|[Enabled](moveorcopyruleaction-enabled-property-outlook.md)|
-|[Folder](moveorcopyruleaction-folder-property-outlook.md)|
+|[ActionType](Outlook.MoveOrCopyRuleAction.ActionType.md)|
+|[Application](Outlook.MoveOrCopyRuleAction.Application.md)|
+|[Class](Outlook.MoveOrCopyRuleAction.Class.md)|
+|[Enabled](Outlook.MoveOrCopyRuleAction.Enabled.md)|
+|[Folder](Outlook.MoveOrCopyRuleAction.Folder.md)|
 |[Parent](moveorcopyruleaction-parent-property-outlook.md)|
 |[Session](moveorcopyruleaction-session-property-outlook.md)|
 

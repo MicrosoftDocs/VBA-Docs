@@ -25,7 +25,7 @@ Returns or sets a  **Long** that specifies either the starting point of the sele
 
 ## Remarks
 
-The current selection is specified by  **[SelText](olktextbox-seltext-property-outlook.md)** , which is a portion of the control's **[Value](olktextbox-value-property-outlook.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](olktextbox-maxlength-property-outlook.md)** .
+The current selection is specified by  **[SelText](Outlook.OlkTextBox.SelText.md)** , which is a portion of the control's **[Value](Outlook.OlkTextBox.Value.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkTextBox.MaxLength.md)** .
 
 The default value is zero, which means no text is selected and the insertion point is at the beginning.
 
@@ -38,5 +38,5 @@ The  **SelStart** property is always valid, even when the control does not have 
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

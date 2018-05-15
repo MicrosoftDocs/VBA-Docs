@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # TabStrip.SelectedItem Property (Outlook Forms Script)
 
-Returns an  **Object** that indicates the currently selected **[Tab](tab-object-outlook-forms-script.md)** object. Read-only.
+Returns an  **Object** that indicates the currently selected **[Tab](Outlook.tab.md)** object. Read-only.
 
 
 ## Syntax

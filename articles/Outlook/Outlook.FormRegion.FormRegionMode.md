@@ -25,7 +25,7 @@ Returns an  **OlFormRegionMode** constant that indicates whether the form region
 
 ## Remarks
 
-If the user has a mail item in the Reading Pane, you can use the  **[MailItem.Sent](mailitem-sent-property-outlook.md)** property to further determine if the user is in the edit mode or the read mode of the Reading Pane. A mail item is displayed differently in the Reading Pane if it is in the edit mode (the mail item is in the Draft folder) than if it is in the read mode (the mail item is in the Inbox or Sent folder).
+If the user has a mail item in the Reading Pane, you can use the  **[MailItem.Sent](Outlook.MailItem.Sent.md)** property to further determine if the user is in the edit mode or the read mode of the Reading Pane. A mail item is displayed differently in the Reading Pane if it is in the edit mode (the mail item is in the Draft folder) than if it is in the read mode (the mail item is in the Inbox or Sent folder).
 
 
 ## See also
@@ -34,5 +34,5 @@ If the user has a mail item in the Reading Pane, you can use the  **[MailItem.Se
 #### Concepts
 
 
-[FormRegion Object](formregion-object-outlook.md)
+[FormRegion Object](Outlook.FormRegion.md)
 

@@ -68,5 +68,5 @@ End Sub
 #### Concepts
 
 
-[View Object](view-object-outlook.md)
+[View Object](Outlook.View.md)
 

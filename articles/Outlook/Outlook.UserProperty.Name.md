@@ -29,5 +29,5 @@ Returns a  **String** value that represents the display name for the object. Rea
 #### Concepts
 
 
-[UserProperty Object](userproperty-object-outlook.md)
+[UserProperty Object](Outlook.UserProperty.md)
 

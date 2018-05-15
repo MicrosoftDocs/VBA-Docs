@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ListBox.IntegralHeight Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a **[ListBox](listbox-object-outlook-forms-script.md)** displays full lines of text in a list or partial lines. Read/write.
+Returns or sets a  **Boolean** that specifies whether a **[ListBox](Outlook.listbox.md)** displays full lines of text in a list or partial lines. Read/write.
 
 
 ## Syntax

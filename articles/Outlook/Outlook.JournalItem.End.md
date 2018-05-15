@@ -29,5 +29,5 @@ Returns or sets a  **Date** indicating the end date and time of a Journal entry.
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

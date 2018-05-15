@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ComboBox.DropDown Method (Outlook Forms Script)
 
-Displays the list portion of a  **[ComboBox](combobox-object-outlook-forms-script.md)**.
+Displays the list portion of a  **[ComboBox](Outlook.combobox.md)**.
 
 
 ## Syntax

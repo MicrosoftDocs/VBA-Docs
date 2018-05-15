@@ -29,5 +29,5 @@ Deletes an object from a collection.
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

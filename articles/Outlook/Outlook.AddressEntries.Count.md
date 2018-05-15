@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[AddressEntries Object](addressentries-object-outlook.md)
+[AddressEntries Object](Outlook.AddressEntries.md)
 

@@ -29,5 +29,5 @@ Returns a  **String** value that represents the display name for the object. Rea
 #### Concepts
 
 
-[Conflict Object](conflict-object-outlook.md)
+[Conflict Object](Outlook.Conflict.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SentOnBehalfOfName Property (Outlook)
 
-Returns or sets a  **String** indicating the display name for the intended sender of the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a  **String** indicating the display name for the intended sender of the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagSentRepresentingName** .
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

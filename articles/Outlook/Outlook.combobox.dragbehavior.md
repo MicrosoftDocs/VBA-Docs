@@ -27,10 +27,10 @@ The possible values of  **DragBehavior** are 0 and 1. 0 represents that drag-and
 
 If the  **DragBehavior** property is enabled, dragging in a combo box starts a drag-and-drop operation on the selected text. If **DragBehavior** is disabled, dragging in a combo box selects text.
 
-The drop-down portion of a  **[ComboBox](combobox-object-outlook-forms-script.md)** does not support drag-and-drop processes, nor does it support selection of list items within the text.
+The drop-down portion of a  **[ComboBox](Outlook.combobox.md)** does not support drag-and-drop processes, nor does it support selection of list items within the text.
 
- **DragBehavior** has no effect on a **ComboBox** whose **[Style](combobox-style-property-outlook-forms-script.md)** property is set to 2.
+ **DragBehavior** has no effect on a **ComboBox** whose **[Style](Outlook.combobox.style.md)** property is set to 2.
 
-You can combine the effects of the  **[EnterFieldBehavior](combobox-enterfieldbehavior-property-outlook-forms-script.md)** property and **DragBehavior** to create a large number of combo box styles.
+You can combine the effects of the  **[EnterFieldBehavior](Outlook.combobox.enterfieldbehavior.md)** property and **DragBehavior** to create a large number of combo box styles.
 
 

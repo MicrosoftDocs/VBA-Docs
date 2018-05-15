@@ -36,19 +36,19 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AfterUpdate](olktextbox-afterupdate-event-outlook.md)|
-|[BeforeUpdate](olktextbox-beforeupdate-event-outlook.md)|
-|[Change](olktextbox-change-event-outlook.md)|
-|[Click](olktextbox-click-event-outlook.md)|
-|[DoubleClick](olktextbox-doubleclick-event-outlook.md)|
-|[Enter](olktextbox-enter-event-outlook.md)|
-|[Exit](olktextbox-exit-event-outlook.md)|
-|[KeyDown](olktextbox-keydown-event-outlook.md)|
-|[KeyPress](olktextbox-keypress-event-outlook.md)|
-|[KeyUp](olktextbox-keyup-event-outlook.md)|
-|[MouseDown](olktextbox-mousedown-event-outlook.md)|
-|[MouseMove](olktextbox-mousemove-event-outlook.md)|
-|[MouseUp](olktextbox-mouseup-event-outlook.md)|
+|[AfterUpdate](Outlook.OlkTextBox.AfterUpdate.md)|
+|[BeforeUpdate](Outlook.OlkTextBox.BeforeUpdate.md)|
+|[Change](Outlook.OlkTextBox.Change.md)|
+|[Click](Outlook.OlkTextBox.Click.md)|
+|[DoubleClick](Outlook.OlkTextBox.DoubleClick.md)|
+|[Enter](Outlook.OlkTextBox.Enter.md)|
+|[Exit](Outlook.OlkTextBox.Exit.md)|
+|[KeyDown](Outlook.OlkTextBox.KeyDown.md)|
+|[KeyPress](Outlook.OlkTextBox.KeyPress.md)|
+|[KeyUp](Outlook.OlkTextBox.KeyUp.md)|
+|[MouseDown](Outlook.OlkTextBox.MouseDown.md)|
+|[MouseMove](Outlook.OlkTextBox.MouseMove.md)|
+|[MouseUp](Outlook.OlkTextBox.MouseUp.md)|
 
 ## Methods
 
@@ -56,10 +56,10 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Clear](olktextbox-clear-method-outlook.md)|
-|[Copy](olktextbox-copy-method-outlook.md)|
-|[Cut](olktextbox-cut-method-outlook.md)|
-|[Paste](olktextbox-paste-method-outlook.md)|
+|[Clear](Outlook.OlkTextBox.Clear.md)|
+|[Copy](Outlook.OlkTextBox.Copy.md)|
+|[Cut](Outlook.OlkTextBox.Cut.md)|
+|[Paste](Outlook.OlkTextBox.Paste.md)|
 
 ## Properties
 
@@ -67,35 +67,35 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AutoSize](olktextbox-autosize-property-outlook.md)|
-|[AutoTab](olktextbox-autotab-property-outlook.md)|
-|[AutoWordSelect](olktextbox-autowordselect-property-outlook.md)|
-|[BackColor](olktextbox-backcolor-property-outlook.md)|
-|[BorderStyle](olktextbox-borderstyle-property-outlook.md)|
-|[DragBehavior](olktextbox-dragbehavior-property-outlook.md)|
-|[Enabled](olktextbox-enabled-property-outlook.md)|
-|[EnterFieldBehavior](olktextbox-enterfieldbehavior-property-outlook.md)|
-|[EnterKeyBehavior](olktextbox-enterkeybehavior-property-outlook.md)|
-|[Font](olktextbox-font-property-outlook.md)|
-|[ForeColor](olktextbox-forecolor-property-outlook.md)|
-|[HideSelection](olktextbox-hideselection-property-outlook.md)|
-|[IntegralHeight](olktextbox-integralheight-property-outlook.md)|
-|[Locked](olktextbox-locked-property-outlook.md)|
-|[MaxLength](olktextbox-maxlength-property-outlook.md)|
-|[MouseIcon](olktextbox-mouseicon-property-outlook.md)|
-|[MousePointer](olktextbox-mousepointer-property-outlook.md)|
-|[MultiLine](olktextbox-multiline-property-outlook.md)|
-|[PasswordChar](olktextbox-passwordchar-property-outlook.md)|
-|[Scrollbars](olktextbox-scrollbars-property-outlook.md)|
-|[SelectionMargin](olktextbox-selectionmargin-property-outlook.md)|
-|[SelLength](olktextbox-sellength-property-outlook.md)|
-|[SelStart](olktextbox-selstart-property-outlook.md)|
-|[SelText](olktextbox-seltext-property-outlook.md)|
-|[TabKeyBehavior](olktextbox-tabkeybehavior-property-outlook.md)|
-|[Text](olktextbox-text-property-outlook.md)|
-|[TextAlign](olktextbox-textalign-property-outlook.md)|
-|[Value](olktextbox-value-property-outlook.md)|
-|[WordWrap](olktextbox-wordwrap-property-outlook.md)|
+|[AutoSize](Outlook.OlkTextBox.AutoSize.md)|
+|[AutoTab](Outlook.OlkTextBox.AutoTab.md)|
+|[AutoWordSelect](Outlook.OlkTextBox.AutoWordSelect.md)|
+|[BackColor](Outlook.OlkTextBox.BackColor.md)|
+|[BorderStyle](Outlook.OlkTextBox.BorderStyle.md)|
+|[DragBehavior](Outlook.OlkTextBox.DragBehavior.md)|
+|[Enabled](Outlook.OlkTextBox.Enabled.md)|
+|[EnterFieldBehavior](Outlook.OlkTextBox.EnterFieldBehavior.md)|
+|[EnterKeyBehavior](Outlook.OlkTextBox.EnterKeyBehavior.md)|
+|[Font](Outlook.OlkTextBox.Font.md)|
+|[ForeColor](Outlook.OlkTextBox.ForeColor.md)|
+|[HideSelection](Outlook.OlkTextBox.HideSelection.md)|
+|[IntegralHeight](Outlook.OlkTextBox.IntegralHeight.md)|
+|[Locked](Outlook.OlkTextBox.Locked.md)|
+|[MaxLength](Outlook.OlkTextBox.MaxLength.md)|
+|[MouseIcon](Outlook.OlkTextBox.MouseIcon.md)|
+|[MousePointer](Outlook.OlkTextBox.MousePointer.md)|
+|[MultiLine](Outlook.OlkTextBox.Multiline.md)|
+|[PasswordChar](Outlook.OlkTextBox.PasswordChar.md)|
+|[Scrollbars](Outlook.OlkTextBox.Scrollbars.md)|
+|[SelectionMargin](Outlook.OlkTextBox.SelectionMargin.md)|
+|[SelLength](Outlook.OlkTextBox.SelLength.md)|
+|[SelStart](Outlook.OlkTextBox.SelStart.md)|
+|[SelText](Outlook.OlkTextBox.SelText.md)|
+|[TabKeyBehavior](Outlook.OlkTextBox.TabKeyBehavior.md)|
+|[Text](Outlook.OlkTextBox.Text.md)|
+|[TextAlign](Outlook.OlkTextBox.TextAlign.md)|
+|[Value](Outlook.OlkTextBox.Value.md)|
+|[WordWrap](Outlook.OlkTextBox.WordWrap.md)|
 
 ## See also
 

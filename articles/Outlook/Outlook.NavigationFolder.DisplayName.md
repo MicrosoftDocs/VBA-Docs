@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolder.DisplayName Property (Outlook)
 
-Returns a  **String** representing the display name of the **[NavigationFolder](navigationfolder-object-outlook.md)** object. Read-only.
+Returns a  **String** representing the display name of the **[NavigationFolder](Outlook.NavigationFolder.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the display name of the **[NavigationFolder](
 
 ## Remarks
 
-Use  **NavigationFolder.DisplayName** , instead of **[Folder.Name](folder-name-property-outlook.md)** , to get the name of a shared folder.
+Use  **NavigationFolder.DisplayName** , instead of **[Folder.Name](Outlook.Folder.Name.md)** , to get the name of a shared folder.
 
 
 ## See also
@@ -34,5 +34,5 @@ Use  **NavigationFolder.DisplayName** , instead of **[Folder.Name](folder-name-p
 #### Concepts
 
 
-[NavigationFolder Object](navigationfolder-object-outlook.md)
+[NavigationFolder Object](Outlook.NavigationFolder.md)
 

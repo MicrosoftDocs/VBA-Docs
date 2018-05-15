@@ -25,7 +25,7 @@ Returns a  **String** that indicates the path of the current folder. Read-only.
 
 ## Example
 
-The following example displays information about the default Contacts folder. The subroutine accepts a  **[Folder](folder-object-outlook.md)** object and displays the folder's name, path, and address book information.
+The following example displays information about the default Contacts folder. The subroutine accepts a  **[Folder](Outlook.Folder.md)** object and displays the folder's name, path, and address book information.
 
 
 ```vb
@@ -73,5 +73,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

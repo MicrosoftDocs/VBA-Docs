@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.Add Method (Outlook)
 
-Creates a new folder in the  **[Folders](folders-object-outlook.md)** collection.
+Creates a new folder in the  **[Folders](Outlook.Folders.md)** collection.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ Creates a new folder in the  **[Folders](folders-object-outlook.md)** collection
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The display name for the new folder.|
-| _Type_|Optional| **Long**|The Outlook folder type for the new folder. If the folder type is not specified, the new folder will default to the same type as the folder in which it is created. Can be one of the following  **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . The constants **olFolderConflicts** , **olFolderDeletedItems** , **olFolderJunk** , **olFolderLocalFailures** , **olFolderManagedEmail** , **olFolderOutbox** , **olFolderRssSubscriptions** , **olFolderSentMail** , **olFolderServerFailures** , **olFolderSyncIssues** , **olFolderToDo** , and **olPublicFoldersAllPublicFolders** cannot be specified for this argument.|
+| _Type_|Optional| **Long**|The Outlook folder type for the new folder. If the folder type is not specified, the new folder will default to the same type as the folder in which it is created. Can be one of the following  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . The constants **olFolderConflicts** , **olFolderDeletedItems** , **olFolderJunk** , **olFolderLocalFailures** , **olFolderManagedEmail** , **olFolderOutbox** , **olFolderRssSubscriptions** , **olFolderSentMail** , **olFolderServerFailures** , **olFolderSyncIssues** , **olFolderToDo** , and **olPublicFoldersAllPublicFolders** cannot be specified for this argument.|
 
 ### Return Value
 
-A  **[Folder](folder-object-outlook.md)** object that represents the new folder.
+A  **[Folder](Outlook.Folder.md)** object that represents the new folder.
 
 
 ## Example
@@ -87,5 +87,5 @@ End Sub
 #### Concepts
 
 
-[Folders Object](folders-object-outlook.md)
+[Folders Object](Outlook.Folders.md)
 

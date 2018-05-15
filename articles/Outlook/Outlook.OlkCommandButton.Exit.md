@@ -37,5 +37,5 @@ Occurs just after the focus passes from this control to another control on the s
 #### Concepts
 
 
-[OlkCommandButton Object](olkcommandbutton-object-outlook.md)
+[OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

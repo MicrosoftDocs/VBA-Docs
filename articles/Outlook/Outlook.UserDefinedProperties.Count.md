@@ -29,5 +29,5 @@ Returns a  **Long** value that indicates the count of objects in the specified c
 #### Concepts
 
 
-[UserDefinedProperties Object](userdefinedproperties-object-outlook.md)
+[UserDefinedProperties Object](Outlook.UserDefinedProperties.md)
 

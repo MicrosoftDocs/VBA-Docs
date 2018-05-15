@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[NotesModule Object](notesmodule-object-outlook.md)
+[NotesModule Object](Outlook.NotesModule.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.SmtpAddress Property (Outlook)
 
-Returns a  **String** representing the Simple Mail Transfer Protocol (SMTP) address for the **[Account](account-object-outlook.md)** . Read-only.
+Returns a  **String** representing the Simple Mail Transfer Protocol (SMTP) address for the **[Account](Outlook.Account.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the Simple Mail Transfer Protocol (SMTP) addr
 
 ## Remarks
 
-The purpose of  **SmtpAddress** and **[Account.UserName](account-username-property-outlook.md)** is to provide an account-based context to determine identity.
+The purpose of  **SmtpAddress** and **[Account.UserName](Outlook.Account.UserName.md)** is to provide an account-based context to determine identity.
 
 If the account does not have an SMTP address,  **SmtpAddress** returns an empty string.
 
@@ -36,7 +36,7 @@ If the account does not have an SMTP address,  **SmtpAddress** returns an empty 
 #### Concepts
 
 
-[Account Object](account-object-outlook.md)
+[Account Object](Outlook.Account.md)
 #### Other resources
 
 

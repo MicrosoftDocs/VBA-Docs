@@ -30,13 +30,13 @@ Applies a rule as an one-off operation.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ShowProgress_|Optional| **Boolean**| **True** to display the progress dialog box when the rule is executed, **False** to run the rule without displaying the dialog box.|
-| _Folder_|Optional| **[Folder](folder-object-outlook.md)**|Represents the folder where the rule will be applied.|
+| _Folder_|Optional| **[Folder](Outlook.Folder.md)**|Represents the folder where the rule will be applied.|
 | _IncludeSubfolders_|Optional| **Boolean**| **True** to apply the rule to subfolders of the folder indicated by the _Folder_ parameter; **False** to apply the rule only to that folder but not its subfolders.|
-| _RuleExecuteOption_|Optional| **[OlRuleExecuteOption](olruleexecuteoption-enumeration-outlook.md)**|Represents whether to apply the rule to read, unread, or all messages in the folder or folders specified by the  _Folder_ and _IncludeSubfolders_ parameters.|
+| _RuleExecuteOption_|Optional| **[OlRuleExecuteOption](Outlook.OlRuleExecuteOption.md)**|Represents whether to apply the rule to read, unread, or all messages in the folder or folders specified by the  _Folder_ and _IncludeSubfolders_ parameters.|
 
 ## Remarks
 
-Use  **[Rule.Execute](rule-execute-method-outlook.md)** to apply a rule as a one-off operation regardless of whether **[Rule.Enabled](rule-enabled-property-outlook.md)** is **True** . Use **Rule.Enabled** and then **[Rules.Save](rules-save-method-outlook.md)** if you want to apply the rule consistently and persist the rules beyond the current session.
+Use  **[Rule.Execute](Outlook.Rule.Execute.md)** to apply a rule as a one-off operation regardless of whether **[Rule.Enabled](Outlook.Rule.Enabled.md)** is **True** . Use **Rule.Enabled** and then **[Rules.Save](Outlook.Rules.Save.md)** if you want to apply the rule consistently and persist the rules beyond the current session.
 
 The parameters to the  **Execute** method are optional. If you do not specify any parameters, the rule will be applied to all messages in the Inbox but not to the subfolders of the Inbox. The default values for the optional arguments are as follows:
 
@@ -58,5 +58,5 @@ If you plan to show a custom progress user interface instead of using the progre
 #### Concepts
 
 
-[Rule Object](rule-object-outlook.md)
+[Rule Object](Outlook.Rule.md)
 

@@ -95,5 +95,5 @@ The following table lists the code pages Microsoft recommends that you use for t
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

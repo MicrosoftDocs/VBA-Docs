@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Stores Object (Outlook)
 
-A set of  **[Store](store-object-outlook.md)** objects representing all the stores available in the current profile.
+A set of  **[Store](Outlook.Store.md)** objects representing all the stores available in the current profile.
 
 
 ## Remarks

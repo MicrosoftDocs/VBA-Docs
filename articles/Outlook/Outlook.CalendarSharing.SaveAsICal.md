@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarSharing.SaveAsICal Method (Outlook)
 
-Exports calendar information from the parent  **[Folder](folder-object-outlook.md)** of the **[CalendarSharing](calendarsharing-object-outlook.md)** object as an iCalendar calendar (.ics) file.
+Exports calendar information from the parent  **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as an iCalendar calendar (.ics) file.
 
 
 ## Syntax
@@ -36,15 +36,15 @@ Exports calendar information from the parent  **[Folder](folder-object-outlook.m
 The level of detail provided in the iCalendar file is determined by a combination of values in the following  **CalendarSharing** properties:
 
 
--  **[CalendarDetail](calendarsharing-calendardetail-property-outlook.md)**
+-  **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)**
     
--  **[IncludeAttachments](calendarsharing-includeattachments-property-outlook.md)**
+-  **[IncludeAttachments](Outlook.CalendarSharing.IncludeAttachments.md)**
     
--  **[IncludePrivateDetails](calendarsharing-includeprivatedetails-property-outlook.md)**
+-  **[IncludePrivateDetails](Outlook.CalendarSharing.IncludePrivateDetails.md)**
     
--  **[RestrictToWorkingHours](calendarsharing-restricttoworkinghours-property-outlook.md)**
+-  **[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)**
     
-You can set the  **[IncludeWholeCalendar](calendarsharing-includewholecalendar-property-outlook.md)** property to **True** to export all items contained in the folder, or you can set the **[StartDate](calendarsharing-startdate-property-outlook.md)** and **[EndDate](calendarsharing-enddate-property-outlook.md)** properties to limit the exported items to a date range between a specified start date and end date, respectively.
+You can set the  **[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)** property to **True** to export all items contained in the folder, or you can set the **[StartDate](Outlook.CalendarSharing.StartDate.md)** and **[EndDate](Outlook.CalendarSharing.EndDate.md)** properties to limit the exported items to a date range between a specified start date and end date, respectively.
 
 
 ## Example
@@ -201,5 +201,5 @@ End Sub
 #### Concepts
 
 
-[CalendarSharing Object](calendarsharing-object-outlook.md)
+[CalendarSharing Object](Outlook.CalendarSharing.md)
 

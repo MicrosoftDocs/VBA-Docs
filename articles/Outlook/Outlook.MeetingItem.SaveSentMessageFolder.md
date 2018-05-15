@@ -29,5 +29,5 @@ Setting or getting this property has no noticeable effect. Do not use this prope
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

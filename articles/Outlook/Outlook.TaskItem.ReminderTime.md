@@ -29,5 +29,5 @@ Returns or sets a  **Date** indicating the date and time at which the reminder s
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

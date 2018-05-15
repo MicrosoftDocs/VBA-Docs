@@ -36,19 +36,19 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AfterUpdate](olklistbox-afterupdate-event-outlook.md)|
-|[BeforeUpdate](olklistbox-beforeupdate-event-outlook.md)|
-|[Change](olklistbox-change-event-outlook.md)|
-|[Click](olklistbox-click-event-outlook.md)|
-|[DoubleClick](olklistbox-doubleclick-event-outlook.md)|
-|[Enter](olklistbox-enter-event-outlook.md)|
-|[Exit](olklistbox-exit-event-outlook.md)|
-|[KeyDown](olklistbox-keydown-event-outlook.md)|
-|[KeyPress](olklistbox-keypress-event-outlook.md)|
-|[KeyUp](olklistbox-keyup-event-outlook.md)|
-|[MouseDown](olklistbox-mousedown-event-outlook.md)|
-|[MouseMove](olklistbox-mousemove-event-outlook.md)|
-|[MouseUp](olklistbox-mouseup-event-outlook.md)|
+|[AfterUpdate](Outlook.OlkListBox.AfterUpdate.md)|
+|[BeforeUpdate](Outlook.OlkListBox.BeforeUpdate.md)|
+|[Change](Outlook.OlkListBox.Change.md)|
+|[Click](Outlook.OlkListBox.Click.md)|
+|[DoubleClick](Outlook.OlkListBox.DoubleClick.md)|
+|[Enter](Outlook.OlkListBox.Enter.md)|
+|[Exit](Outlook.OlkListBox.Exit.md)|
+|[KeyDown](Outlook.OlkListBox.KeyDown.md)|
+|[KeyPress](Outlook.OlkListBox.KeyPress.md)|
+|[KeyUp](Outlook.OlkListBox.KeyUp.md)|
+|[MouseDown](Outlook.OlkListBox.MouseDown.md)|
+|[MouseMove](Outlook.OlkListBox.MouseMove.md)|
+|[MouseUp](Outlook.OlkListBox.MouseUp.md)|
 
 ## Methods
 
@@ -56,14 +56,14 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AddItem](olklistbox-additem-method-outlook.md)|
-|[Clear](olklistbox-clear-method-outlook.md)|
-|[Copy](olklistbox-copy-method-outlook.md)|
-|[GetItem](olklistbox-getitem-method-outlook.md)|
-|[GetSelected](olklistbox-getselected-method-outlook.md)|
-|[RemoveItem](olklistbox-removeitem-method-outlook.md)|
-|[SetItem](olklistbox-setitem-method-outlook.md)|
-|[SetSelected](olklistbox-setselected-method-outlook.md)|
+|[AddItem](Outlook.OlkListBox.AddItem.md)|
+|[Clear](Outlook.OlkListBox.Clear.md)|
+|[Copy](Outlook.OlkListBox.Copy.md)|
+|[GetItem](Outlook.OlkListBox.GetItem.md)|
+|[GetSelected](Outlook.OlkListBox.GetSelected.md)|
+|[RemoveItem](Outlook.OlkListBox.RemoveItem.md)|
+|[SetItem](Outlook.OlkListBox.SetItem.md)|
+|[SetSelected](Outlook.OlkListBox.SetSelected.md)|
 
 ## Properties
 
@@ -71,22 +71,22 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[BackColor](olklistbox-backcolor-property-outlook.md)|
-|[BorderStyle](olklistbox-borderstyle-property-outlook.md)|
-|[Enabled](olklistbox-enabled-property-outlook.md)|
-|[Font](olklistbox-font-property-outlook.md)|
-|[ForeColor](olklistbox-forecolor-property-outlook.md)|
-|[ListCount](olklistbox-listcount-property-outlook.md)|
-|[ListIndex](olklistbox-listindex-property-outlook.md)|
-|[Locked](olklistbox-locked-property-outlook.md)|
-|[MatchEntry](olklistbox-matchentry-property-outlook.md)|
-|[MouseIcon](olklistbox-mouseicon-property-outlook.md)|
-|[MousePointer](olklistbox-mousepointer-property-outlook.md)|
-|[MultiSelect](olklistbox-multiselect-property-outlook.md)|
-|[Text](olklistbox-text-property-outlook.md)|
-|[TextAlign](olklistbox-textalign-property-outlook.md)|
-|[TopIndex](olklistbox-topindex-property-outlook.md)|
-|[Value](olklistbox-value-property-outlook.md)|
+|[BackColor](Outlook.OlkListBox.BackColor.md)|
+|[BorderStyle](Outlook.OlkListBox.BorderStyle.md)|
+|[Enabled](Outlook.OlkListBox.Enabled.md)|
+|[Font](Outlook.OlkListBox.Font.md)|
+|[ForeColor](Outlook.OlkListBox.ForeColor.md)|
+|[ListCount](Outlook.OlkListBox.ListCount.md)|
+|[ListIndex](Outlook.OlkListBox.ListIndex.md)|
+|[Locked](Outlook.OlkListBox.Locked.md)|
+|[MatchEntry](Outlook.OlkListBox.MatchEntry.md)|
+|[MouseIcon](Outlook.OlkListBox.MouseIcon.md)|
+|[MousePointer](Outlook.OlkListBox.MousePointer.md)|
+|[MultiSelect](Outlook.OlkListBox.MultiSelect.md)|
+|[Text](Outlook.OlkListBox.Text.md)|
+|[TextAlign](Outlook.OlkListBox.TextAlign.md)|
+|[TopIndex](Outlook.OlkListBox.TopIndex.md)|
+|[Value](Outlook.OlkListBox.Value.md)|
 
 ## See also
 

@@ -36,5 +36,5 @@ Setting  **AutoSize** to **True** automatically sets the width of the display ar
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

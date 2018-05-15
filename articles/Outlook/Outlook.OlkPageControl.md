@@ -43,7 +43,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Page](olkpagecontrol-page-property-outlook.md)|
+|[Page](Outlook.OlkPageControl.Page.md)|
 
 ## See also
 

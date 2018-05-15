@@ -29,5 +29,5 @@ Returns or sets a  **Long** indicating the width (in pixels) of the specified ob
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

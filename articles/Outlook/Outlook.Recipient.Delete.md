@@ -29,5 +29,5 @@ Deletes an object from the collection.
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](Outlook.Recipient.md)
 

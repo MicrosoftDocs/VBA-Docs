@@ -29,5 +29,5 @@ Deletes an object from the collection.
 #### Concepts
 
 
-[Attachment Object](attachment-object-outlook.md)
+[Attachment Object](Outlook.Attachment.md)
 

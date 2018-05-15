@@ -20,14 +20,14 @@ Returns a  **Boolean** indicating **True** if Outlook is offline (not connected 
 
  _expression_ . **Offline**
 
- _expression_ A variable that represents a **[NameSpace](namespace-object-outlook.md)** object.
+ _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ## Remarks
 
 The Offline property returns valid information only for an Exchange profile. It is not intended for non-Exchange account types such as POP3, IMAPI, and HTTP.
 
-If the  **[NameSpace.ExchangeConnectionMode](namespace-exchangeconnectionmode-property-outlook.md)** property is **olOffline** or **olDisconnected** , the **Offline** property will return **True** . If the **ExchangeConnectionMode** property is **olOnline** , **olConnected** , or **olConnectedHeaders** , the **Offline** property will return **False** .
+If the  **[NameSpace.ExchangeConnectionMode](Outlook.NameSpace.ExchangeConnectionMode.md)** property is **olOffline** or **olDisconnected** , the **Offline** property will return **True** . If the **ExchangeConnectionMode** property is **olOnline** , **olConnected** , or **olConnectedHeaders** , the **Offline** property will return **False** .
 
 
 ## Example
@@ -58,5 +58,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

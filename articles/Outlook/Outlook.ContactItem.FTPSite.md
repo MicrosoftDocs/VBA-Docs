@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the FTP site entry for the contact. R
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

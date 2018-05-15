@@ -25,7 +25,7 @@ Returns a  **Boolean** value that is **True** if the task is a recurring task. R
 
 ## Remarks
 
-When the  **[GetRecurrencePattern](taskitem-getrecurrencepattern-method-outlook.md)** method is used with a **[TaskItem](taskitem-object-outlook.md)** object, this property is set to **True** .
+When the  **[GetRecurrencePattern](Outlook.TaskItem.GetRecurrencePattern.md)** method is used with a **[TaskItem](Outlook.TaskItem.md)** object, this property is set to **True** .
 
 
 ## See also
@@ -34,5 +34,5 @@ When the  **[GetRecurrencePattern](taskitem-getrecurrencepattern-method-outlook.
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

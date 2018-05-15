@@ -26,7 +26,7 @@ Occurs before the item is automatically saved by Outlook.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[ContactItem](contactitem-object-outlook.md)** to be saved.|
+| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[ContactItem](Outlook.ContactItem.md)** to be saved.|
 
 ## See also
 
@@ -34,5 +34,5 @@ Occurs before the item is automatically saved by Outlook.
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

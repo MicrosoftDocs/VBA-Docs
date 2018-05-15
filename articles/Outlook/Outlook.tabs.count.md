@@ -23,6 +23,6 @@ Returns a  **Long** that represents the number of objects in a collection. Read-
 
 ## Remarks
 
-Note that the index value for the first tab of a collection is zero, the value for the second tab is one, and so on. For example, if a  **[TabStrip](tabstrip-object-outlook-forms-script.md)** contains two tabs, the indexes of the tabs are 0 and 1, and the value of **Count** is 2.
+Note that the index value for the first tab of a collection is zero, the value for the second tab is one, and so on. For example, if a  **[TabStrip](Outlook.tabstrip.md)** contains two tabs, the indexes of the tabs are 0 and 1, and the value of **Count** is 2.
 
 

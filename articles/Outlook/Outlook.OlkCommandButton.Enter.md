@@ -29,5 +29,5 @@ Occurs before the control actually receives the focus from a control on the same
 #### Concepts
 
 
-[OlkCommandButton Object](olkcommandbutton-object-outlook.md)
+[OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

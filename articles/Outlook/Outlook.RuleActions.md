@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions Object (Outlook)
 
-The  **RuleActions** object contains a set of **[RuleAction](ruleaction-object-outlook.md)** objects or objects derived from **RuleAction**, representing the actions that are executed on a **[Rule](rule-object-outlook.md)** object.
+The  **RuleActions** object contains a set of **[RuleAction](Outlook.RuleAction.md)** objects or objects derived from **RuleAction**, representing the actions that are executed on a **[Rule](Outlook.Rule.md)** object.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ For more information on rule actions, see [Specifying Rule Actions](http://msdn.
 
 |**Name**|
 |:-----|
-|[Item](ruleactions-item-method-outlook.md)|
+|[Item](Outlook.RuleActions.Item.md)|
 
 ## Properties
 
@@ -39,28 +39,28 @@ For more information on rule actions, see [Specifying Rule Actions](http://msdn.
 
 |**Name**|
 |:-----|
-|[Application](ruleactions-application-property-outlook.md)|
-|[AssignToCategory](ruleactions-assigntocategory-property-outlook.md)|
-|[CC](ruleactions-cc-property-outlook.md)|
-|[Class](ruleactions-class-property-outlook.md)|
-|[ClearCategories](ruleactions-clearcategories-property-outlook.md)|
-|[CopyToFolder](ruleactions-copytofolder-property-outlook.md)|
-|[Count](ruleactions-count-property-outlook.md)|
-|[Delete](ruleactions-delete-property-outlook.md)|
-|[DeletePermanently](ruleactions-deletepermanently-property-outlook.md)|
-|[DesktopAlert](ruleactions-desktopalert-property-outlook.md)|
-|[Forward](ruleactions-forward-property-outlook.md)|
-|[ForwardAsAttachment](ruleactions-forwardasattachment-property-outlook.md)|
-|[MarkAsTask](ruleactions-markastask-property-outlook.md)|
-|[MoveToFolder](ruleactions-movetofolder-property-outlook.md)|
-|[NewItemAlert](ruleactions-newitemalert-property-outlook.md)|
-|[NotifyDelivery](ruleactions-notifydelivery-property-outlook.md)|
-|[NotifyRead](ruleactions-notifyread-property-outlook.md)|
-|[Parent](ruleactions-parent-property-outlook.md)|
-|[PlaySound](ruleactions-playsound-property-outlook.md)|
-|[Redirect](ruleactions-redirect-property-outlook.md)|
-|[Session](ruleactions-session-property-outlook.md)|
-|[Stop](ruleactions-stop-property-outlook.md)|
+|[Application](Outlook.RuleActions.Application.md)|
+|[AssignToCategory](Outlook.RuleActions.AssignToCategory.md)|
+|[CC](Outlook.RuleActions.CC.md)|
+|[Class](Outlook.RuleActions.Class.md)|
+|[ClearCategories](Outlook.RuleActions.ClearCategories.md)|
+|[CopyToFolder](Outlook.RuleActions.CopyToFolder.md)|
+|[Count](Outlook.RuleActions.Count.md)|
+|[Delete](Outlook.RuleActions.Delete.md)|
+|[DeletePermanently](Outlook.RuleActions.DeletePermanently.md)|
+|[DesktopAlert](Outlook.RuleActions.DesktopAlert.md)|
+|[Forward](Outlook.RuleActions.Forward.md)|
+|[ForwardAsAttachment](Outlook.RuleActions.ForwardAsAttachment.md)|
+|[MarkAsTask](Outlook.RuleActions.MarkAsTask.md)|
+|[MoveToFolder](Outlook.RuleActions.MoveToFolder.md)|
+|[NewItemAlert](Outlook.RuleActions.NewItemAlert.md)|
+|[NotifyDelivery](Outlook.RuleActions.NotifyDelivery.md)|
+|[NotifyRead](Outlook.RuleActions.NotifyRead.md)|
+|[Parent](Outlook.RuleActions.Parent.md)|
+|[PlaySound](Outlook.RuleActions.PlaySound.md)|
+|[Redirect](Outlook.RuleActions.Redirect.md)|
+|[Session](Outlook.RuleActions.Session.md)|
+|[Stop](Outlook.RuleActions.Stop.md)|
 
 ## See also
 

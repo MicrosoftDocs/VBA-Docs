@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.GetFreeBusy Method (Outlook)
 
-Obtains a  **String** representing the availability of the **[ExchangeUser](exchangeuser-object-outlook.md)** for a period of 30 days from the start date, beginning at midnight of the date specified.
+Obtains a  **String** representing the availability of the **[ExchangeUser](Outlook.ExchangeUser.md)** for a period of 30 days from the start date, beginning at midnight of the date specified.
 
 
 ## Syntax
@@ -92,5 +92,5 @@ End Sub
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

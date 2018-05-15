@@ -11,7 +11,7 @@ ms.prod: outlook
 
 # PreviewPane.Application Property (Outlook)
 
-Returns the [Application](application-object-outlook.md) object that represents the parent application (Outlook) for the[PreviewPane](previewpane-object-outlook.md) Object. Read-only.
+Returns the [Application](Outlook.Application.md) object that represents the parent application (Outlook) for the[PreviewPane](Outlook.previewpane.md) Object. Read-only.
 
 
 ## Syntax
@@ -28,5 +28,5 @@ Returns the [Application](application-object-outlook.md) object that represents 
 
 
 
-[PreviewPane Object (Outlook)](previewpane-object-outlook.md)
+[PreviewPane Object (Outlook)](Outlook.previewpane.md)
 

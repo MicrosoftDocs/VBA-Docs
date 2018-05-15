@@ -25,12 +25,12 @@ Returns a  **String** that specifies the scope of the specified search. Read-onl
 
 ## Remarks
 
-The scope of the search is defined when the search is initiated. For more information, see the  **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method.
+The scope of the search is defined when the search is initiated. For more information, see the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a  **Search** object. The user's **Inbox** is specified as the scope of the search. The event subroutine occurs when the search has completed and displays the **[Tag](search-tag-property-outlook.md)** and **Scope** properties for the new object in addition to the results of the search.
+The following Microsoft Visual Basic for Applications (VBA) example creates a  **Search** object. The user's **Inbox** is specified as the scope of the search. The event subroutine occurs when the search has completed and displays the **[Tag](Outlook.Search.Tag.md)** and **Scope** properties for the new object in addition to the results of the search.
 
 
 ```vb
@@ -96,5 +96,5 @@ End Sub
 #### Concepts
 
 
-[Search Object](search-object-outlook.md)
+[Search Object](Outlook.Search.md)
 

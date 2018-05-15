@@ -29,7 +29,7 @@ Removes an object from the collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the  **[ViewXMLSchemaName](orderfield-viewxmlschemaname-property-outlook.md)** property value of an object in the collection.|
+| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the  **[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)** property value of an object in the collection.|
 
 ## See also
 
@@ -37,5 +37,5 @@ Removes an object from the collection.
 #### Concepts
 
 
-[OrderFields Object](orderfields-object-outlook.md)
+[OrderFields Object](Outlook.OrderFields.md)
 

@@ -22,12 +22,12 @@ New pages are added to the right of the currently selected page rather than adja
 
 A  **MultiPage** is a control that contains a collection of one or more pages.
 
-Each  **[Page](page-object-outlook-forms-script.md)** of a **MultiPage** is a form that contains its own controls, and as such, can have a unique layout. Typically, the pages in a **MultiPage** have tabs so the user can select the individual pages.
+Each  **[Page](Outlook.page.md)** of a **MultiPage** is a form that contains its own controls, and as such, can have a unique layout. Typically, the pages in a **MultiPage** have tabs so the user can select the individual pages.
 
-By default, a  **MultiPage** includes two pages, called Page1 and Page2. Each of these is a **Page** object, and together they represent the **[Pages](pages-object-outlook-forms-script.md)** collection of the **MultiPage**. If you add more pages, they become part of the same  **Pages** collection.
+By default, a  **MultiPage** includes two pages, called Page1 and Page2. Each of these is a **Page** object, and together they represent the **[Pages](Outlook.pages(object).md)** collection of the **MultiPage**. If you add more pages, they become part of the same  **Pages** collection.
 
-The default property for a  **MultiPage** is the **[Value](multipage-value-property-outlook-forms-script.md)** property, which returns the index of the currently active **Page** in the **Pages** collection of the **MultiPage**.
+The default property for a  **MultiPage** is the **[Value](Outlook.multipage.value.md)** property, which returns the index of the currently active **Page** in the **Pages** collection of the **MultiPage**.
 
-The  **MultiPage** control does not support the **[Click](multipage-click-event-outlook-forms-script.md)** event.
+The  **MultiPage** control does not support the **[Click](Outlook.multipage.click.md)** event.
 
 

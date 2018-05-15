@@ -25,7 +25,7 @@ Returns or sets a  **Date** indicating the date and time at which the item becom
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[MailItem.Send](mailitem-send-event-outlook.md)** event and sends an item with an automatic expiration date.
+This Visual Basic for Applications (VBA) example uses the  **[MailItem.Send](Outlook.MailItem.Send(even).md)** event and sends an item with an automatic expiration date.
 
 
 ```vb
@@ -61,5 +61,5 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

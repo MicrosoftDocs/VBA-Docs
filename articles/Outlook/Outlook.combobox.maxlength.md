@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ComboBox.MaxLength Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the maximum number of characters a user can enter in a **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Long** that specifies the maximum number of characters a user can enter in a **[ComboBox](Outlook.combobox.md)**. Read/write.
 
 
 ## Syntax

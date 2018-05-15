@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Class Property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** enumeration indicating the class of the **[ExchangeUser](exchangeuser-object-outlook.md)** object. Read-only.
+Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[ExchangeUser](Outlook.ExchangeUser.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.m
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [CheckBox Object (Outlook Forms Script)](checkbox-object-outlook-forms-script.md)
+-  [CheckBox Object (Outlook Forms Script)](Outlook.checkbox.md)
     
 -  [CheckBox Members (Outlook Forms Script)](checkbox-members-outlook-forms-script.md)
     

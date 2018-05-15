@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.PageChange Event (Outlook)
 
-Occurs when the active form page changes, either programmatically or by user action, on an [Inspector](inspector-object-outlook.md) object.
+Occurs when the active form page changes, either programmatically or by user action, on an [Inspector](Outlook.Inspector.md) object.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Occurs when the active form page changes, either programmatically or by user act
 
 ## Remarks
 
-An error occurs if the event handler for this event calls either the  **[Close](inspector-close-method-outlook.md)** or **[SetCurrentFormPage](inspector-setcurrentformpage-method-outlook.md)** methods.
+An error occurs if the event handler for this event calls either the  **[Close](Outlook.Inspector.Close(method).md)** or **[SetCurrentFormPage](Outlook.Inspector.SetCurrentFormPage.md)** methods.
 
 
 ## See also
@@ -42,5 +42,5 @@ An error occurs if the event handler for this event calls either the  **[Close](
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

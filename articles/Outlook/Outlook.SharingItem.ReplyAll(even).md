@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReplyAll Event (Outlook)
 
-Occurs when the user selects the  **ReplyAll** action for an item, or when the **[ReplyAll](sharingitem-replyall-method-outlook.md)** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the  **ReplyAll** action for an item, or when the **[ReplyAll](Outlook.SharingItem.ReplyAll(method).md)** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
 
 ## Remarks
 
-Returns the reply as a  **[MailItem](mailitem-object-outlook.md)** object.
+Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
 
 
 ## See also
@@ -40,5 +40,5 @@ Returns the reply as a  **[MailItem](mailitem-object-outlook.md)** object.
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

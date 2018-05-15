@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.InternetCodepage Property (Outlook)
 
-Returns or sets a  **Long** that determines the Internet code page used by the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a  **Long** that determines the Internet code page used by the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -95,5 +95,5 @@ The following table lists the code pages Microsoft recommends that you use for t
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

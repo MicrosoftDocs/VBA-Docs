@@ -29,5 +29,5 @@ Returns or sets a  **Date** indicating the starting date and time for the Outloo
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [SpinButton Object (Outlook Forms Script)](spinbutton-object-outlook-forms-script.md)
+-  [SpinButton Object (Outlook Forms Script)](Outlook.spinbutton.md)
     
 -  [SpinButton Members (Outlook Forms Script)](spinbutton-members-outlook-forms-script.md)
     

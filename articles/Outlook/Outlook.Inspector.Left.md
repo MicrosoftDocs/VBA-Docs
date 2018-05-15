@@ -29,5 +29,5 @@ Returns or sets a  **Long** specifying the position (in pixels) of the left vert
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

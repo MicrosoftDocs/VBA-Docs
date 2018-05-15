@@ -34,5 +34,5 @@ Returns or sets a  **Long** indicating the actual effort spent on the task. Read
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

@@ -27,12 +27,12 @@ Returns or sets a  **String** representing the HTML body of the specified item. 
 
 The  **HTMLBody** property should be an HTML syntax string.
 
-Setting the  **HTMLBody** property will always update the **[Body](mailitem-body-property-outlook.md)** property immediately.
+Setting the  **HTMLBody** property will always update the **[Body](Outlook.MailItem.Body.md)** property immediately.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a new  **[MailItem](mailitem-object-outlook.md)** object and sets the **[BodyFormat](mailitem-bodyformat-property-outlook.md)** property to **olFormatHTML** . The body text of the e-mail item will now appear in HTML format.
+The following Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **[BodyFormat](Outlook.MailItem.BodyFormat.md)** property to **olFormatHTML** . The body text of the e-mail item will now appear in HTML format.
 
 
 ```vb
@@ -72,5 +72,5 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

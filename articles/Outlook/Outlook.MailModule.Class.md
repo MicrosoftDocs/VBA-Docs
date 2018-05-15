@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailModule.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olMailModule** for the **[MailModule](mailmodule-object-outlook.md)** object.
+This property returns  **olMailModule** for the **[MailModule](Outlook.MailModule.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olMailModule** for the **[MailModule](mailmodule-object
 #### Concepts
 
 
-[MailModule Object](mailmodule-object-outlook.md)
+[MailModule Object](Outlook.MailModule.md)
 

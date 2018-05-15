@@ -29,7 +29,7 @@ Returns a  **Boolean** indicating whether a specific explorer pane is visible.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Pane_|Required| **[OlPane](olpane-enumeration-outlook.md)**|The pane to check.|
+| _Pane_|Required| **[OlPane](Outlook.OlPane.md)**|The pane to check.|
 
 ### Return Value
 
@@ -38,12 +38,12 @@ Returns a  **Boolean** indicating whether a specific explorer pane is visible.
 
 ## Remarks
 
-You can also use the  **[Visible](outlookbarpane-visible-property-outlook.md)** property of the **[OutlookBarPane](outlookbarpane-object-outlook.md)** object to determine whether the **Shortcuts** pane is visible.
+You can also use the  **[Visible](Outlook.OutlookBarPane.Visible.md)** property of the **[OutlookBarPane](Outlook.OutlookBarPane.md)** object to determine whether the **Shortcuts** pane is visible.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) sample uses the  **IsPaneVisible** method to determine whether the preview pane is visible and uses the **[ShowPane](explorer-showpane-method-outlook.md)** method to display it if it is not visible. Use the **olNavigationPane** constant to hide or display the Navigation Pane.
+This Microsoft Visual Basic for Applications (VBA) sample uses the  **IsPaneVisible** method to determine whether the preview pane is visible and uses the **[ShowPane](Outlook.Explorer.ShowPane.md)** method to display it if it is not visible. Use the **olNavigationPane** constant to hide or display the Navigation Pane.
 
 
 ```vb
@@ -71,5 +71,5 @@ End Sub
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

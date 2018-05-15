@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the customer ID for the contact. Read
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

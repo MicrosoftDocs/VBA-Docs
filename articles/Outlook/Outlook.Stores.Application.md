@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Stores.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent Outlook application for the object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[Stores Object](stores-object-outlook.md)
+[Stores Object](Outlook.Stores.md)
 

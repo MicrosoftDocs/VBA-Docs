@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.Parent Property (Outlook)
 
-Returns the parent object of the  **[Columns](columns-object-outlook.md)** object. Read-only.
+Returns the parent object of the  **[Columns](Outlook.Columns.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns the parent object of the  **[Columns](columns-object-outlook.md)** objec
 #### Concepts
 
 
-[Columns Object](columns-object-outlook.md)
+[Columns Object](Outlook.Columns.md)
 

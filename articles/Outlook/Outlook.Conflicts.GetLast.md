@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflicts.GetLast Method (Outlook)
 
-Returns the last object in the  **[Conflicts](conflicts-object-outlook.md)** collection.
+Returns the last object in the  **[Conflicts](Outlook.Conflicts.md)** collection.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the last object in the  **[Conflicts](conflicts-object-outlook.md)** col
 
 ### Return Value
 
-A  **[Conflict](conflict-object-outlook.md)** object that represents the last object contained by the collection.
+A  **[Conflict](Outlook.Conflict.md)** object that represents the last object contained by the collection.
 
 
 ## Remarks
 
- It returns **Nothing** if no last object exists, for example, if the collection is empty. To ensure correct operation of the **[GetFirst](conflicts-getfirst-method-outlook.md)** , **GetLast** , **[GetNext](conflicts-getnext-method-outlook.md)** , and **[GetPrevious](conflicts-getprevious-method-outlook.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+ It returns **Nothing** if no last object exists, for example, if the collection is empty. To ensure correct operation of the **[GetFirst](Outlook.Conflicts.GetFirst.md)** , **GetLast** , **[GetNext](Outlook.Conflicts.GetNext.md)** , and **[GetPrevious](Outlook.Conflicts.GetPrevious.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## See also
@@ -39,5 +39,5 @@ A  **[Conflict](conflict-object-outlook.md)** object that represents the last ob
 #### Concepts
 
 
-[Conflicts Object](conflicts-object-outlook.md)
+[Conflicts Object](Outlook.Conflicts.md)
 

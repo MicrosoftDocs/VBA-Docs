@@ -29,5 +29,5 @@ Returns or sets a  **Date** indicating the date and time at which the item was r
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BusinessCardView.Copy Method (Outlook)
 
-Creates a new  **[View](view-object-outlook.md)** object based on the existing **[BusinessCardView](businesscardview-object-outlook.md)** object.
+Creates a new  **[View](Outlook.View.md)** object based on the existing **[BusinessCardView](Outlook.BusinessCardView.md)** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Creates a new  **[View](view-object-outlook.md)** object based on the existing *
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new view.|
-| _SaveOption_|Optional| **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)**|The save option for the new view.|
+| _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option for the new view.|
 
 ### Return Value
 
@@ -83,5 +83,5 @@ End Sub
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

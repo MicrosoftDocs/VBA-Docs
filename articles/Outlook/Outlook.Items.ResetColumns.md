@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Items.ResetColumns Method (Outlook)
 
-Clears the properties that have been cached with the  **[SetColumns](items-setcolumns-method-outlook.md)** method.
+Clears the properties that have been cached with the  **[SetColumns](Outlook.Items.SetColumns.md)** method.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ All properties are accessible after calling the  **ResetColumns** method. **SetC
 #### Concepts
 
 
-[Items Object](items-object-outlook.md)
+[Items Object](Outlook.Items.md)
 

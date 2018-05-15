@@ -29,5 +29,5 @@ Returns or sets a  **Long** indicating the percentage of the task completed at t
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

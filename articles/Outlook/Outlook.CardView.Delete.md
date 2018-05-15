@@ -29,5 +29,5 @@ Deletes an object from a collection.
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

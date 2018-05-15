@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the end date and time of the a
 
 ## Remarks
 
-Changing the value for the  **[AppointmentItem.End](appointmentitem-end-property-outlook.md)** property or the **[AppointmentItem.EndTimeZone](appointmentitem-endtimezone-property-outlook.md)** property will cause Outlook to recalculate the **EndUTC** .
+Changing the value for the  **[AppointmentItem.End](Outlook.AppointmentItem.End.md)** property or the **[AppointmentItem.EndTimeZone](Outlook.AppointmentItem.EndTimeZone.md)** property will cause Outlook to recalculate the **EndUTC** .
 
 
 ## See also
@@ -34,5 +34,5 @@ Changing the value for the  **[AppointmentItem.End](appointmentitem-end-property
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

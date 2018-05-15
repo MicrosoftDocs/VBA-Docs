@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Parent Property (Outlook)
 
-Returns the parent  **Object** of the **[Table](table-object-outlook.md)** object. Read-only.
+Returns the parent  **Object** of the **[Table](Outlook.Table.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns the parent  **Object** of the **[Table](table-object-outlook.md)** objec
 #### Concepts
 
 
-[Table Object](table-object-outlook.md)
+[Table Object](Outlook.Table.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Class Property (Outlook)
 
-Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** enumeration indicating the class of the **[Row](row-object-outlook.md)** object. Read-only.
+Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumeration indicating the class of the **[Row](Outlook.Row.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a constant in the  **[OlObjectClass](olobjectclass-enumeration-outlook.m
 #### Concepts
 
 
-[Row Object](row-object-outlook.md)
+[Row Object](Outlook.Row.md)
 

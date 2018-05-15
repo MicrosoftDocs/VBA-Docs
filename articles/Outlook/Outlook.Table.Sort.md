@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Sort Method (Outlook)
 
-Sorts the rows of the  **[Table](table-object-outlook.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table** .
+Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table** .
 
 
 ## Syntax
@@ -36,9 +36,9 @@ Sorts the rows of the  **[Table](table-object-outlook.md)** by the property spec
 
  _SortProperty_ can be any explicit built-in property or custom property, with the exception of binary and multi-valued properties. The property must be referenced by its explicit string name; it cannot be referenced by namespace. For futher information on specifying sort properties, see[Sorting Items in a Folder](http://msdn.microsoft.com/library/bc3651da-cfdb-4301-4034-bb848f371e55%28Office.15%29.aspx).
 
-Sorting the table is equivalent to calling a  **[MoveToStart](table-movetostart-method-outlook.md)** method. The cursor will be positioned to the start of the Table.
+Sorting the table is equivalent to calling a  **[MoveToStart](Outlook.Table.MoveToStart.md)** method. The cursor will be positioned to the start of the Table.
 
-If  **Table.Sort** and then **[Table.Restrict](table-restrict-method-outlook.md)** are called, the filtered items in the new **Table** will be sorted by the same _SortProperty_ and _SortOrder_ .
+If  **Table.Sort** and then **[Table.Restrict](Outlook.Table.Restrict.md)** are called, the filtered items in the new **Table** will be sorted by the same _SortProperty_ and _SortOrder_ .
 
  **Table.Sort** only supports sorting on a single column.
 
@@ -89,5 +89,5 @@ End Sub
 #### Concepts
 
 
-[Table Object](table-object-outlook.md)
+[Table Object](Outlook.Table.md)
 

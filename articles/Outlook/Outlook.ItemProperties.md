@@ -18,7 +18,7 @@ A collection of all properties associated with the item.
 
 ## Remarks
 
-Use the  **[ItemProperties](http://msdn.microsoft.com/library/620e3af5-0c11-bd78-a98f-b08b36857113%28Office.15%29.aspx)** property to return the **ItemProperties** collection. Use **ItemProperties.Item** ( _index_ ), where _index_ is the name of the object or the numeric position of the item within the collection, to return a single **[ItemProperty](itemproperty-object-outlook.md)** object.
+Use the  **[ItemProperties](http://msdn.microsoft.com/library/620e3af5-0c11-bd78-a98f-b08b36857113%28Office.15%29.aspx)** property to return the **ItemProperties** collection. Use **ItemProperties.Item** ( _index_ ), where _index_ is the name of the object or the numeric position of the item within the collection, to return a single **[ItemProperty](Outlook.ItemProperty.md)** object.
 
 
  **Note**  The  **ItemProperties** collection is zero-based, meaning that the first item in the collection is referenced by 0.

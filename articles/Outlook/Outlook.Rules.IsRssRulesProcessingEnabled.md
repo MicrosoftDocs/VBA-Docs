@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that indicates whether RSS rules processing has b
 
 ## Remarks
 
-After setting  **IsRssRulesProcessingEnabled** , you must call **[Rules.Save](rules-save-method-outlook.md)** to persist this setting. This property is persisted on a mailbox-level setting that will roam with the user.
+After setting  **IsRssRulesProcessingEnabled** , you must call **[Rules.Save](Outlook.Rules.Save.md)** to persist this setting. This property is persisted on a mailbox-level setting that will roam with the user.
 
 If  **IsRssRulesProcessingEnabled** is **False** , then no conditions about RSS feeds will be evaluated during rules processing.
 
@@ -36,5 +36,5 @@ If  **IsRssRulesProcessingEnabled** is **False** , then no conditions about RSS 
 #### Concepts
 
 
-[Rules Object](rules-object-outlook.md)
+[Rules Object](Outlook.Rules.md)
 

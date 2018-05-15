@@ -25,7 +25,7 @@ Marks the task as completed.
 
 ## Remarks
 
- Sets **[PercentComplete](taskitem-percentcomplete-property-outlook.md)** to "100%", **[Complete](taskitem-complete-property-outlook.md)** to **True** , and **[DateCompleted](taskitem-datecompleted-property-outlook.md)** to the current date.
+ Sets **[PercentComplete](Outlook.TaskItem.PercentComplete.md)** to "100%", **[Complete](Outlook.TaskItem.Complete.md)** to **True** , and **[DateCompleted](Outlook.TaskItem.DateCompleted.md)** to the current date.
 
 
 ## See also
@@ -34,5 +34,5 @@ Marks the task as completed.
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

@@ -34,5 +34,5 @@ If this property returns  **True** , then the journalized item was saved as part
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

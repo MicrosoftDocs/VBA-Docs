@@ -11,7 +11,7 @@ ms.prod: outlook
 
 # OlUnifiedGroupType Enumeration (Outlook)
 
-Specifies the group type as public or private for the [CreateUnifiedGroup](store-createunifiedgroup-method-outlook.md) method.
+Specifies the group type as public or private for the [CreateUnifiedGroup](Outlook.store.createunifiedgroup.md) method.
 
 
 ## Members

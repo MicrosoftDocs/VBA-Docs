@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Panes Object (Outlook)
 
-Contains the panes displayed by the specified  **[Explorer](explorer-object-outlook.md)**.
+Contains the panes displayed by the specified  **[Explorer](Outlook.Explorer.md)**.
 
 
 ## Remarks
 
-Use the  **[Panes](explorer-panes-property-outlook.md)** property to return the **Panes** collection object from an **Explorer** object.
+Use the  **[Panes](Outlook.Explorer.Panes.md)** property to return the **Panes** collection object from an **Explorer** object.
 
-Use the  **[Item](panes-item-method-outlook.md)** method to retrieve a specific pane.
+Use the  **[Item](Outlook.Panes.Item.md)** method to retrieve a specific pane.
 
 For Microsoft Outlook 2000 and later, the  **Shortcuts** pane is the only pane that you can access through the **Panes** object.
 
@@ -34,7 +34,7 @@ The following Visual Basic for Applications (VBA) example retrieves the  **Panes
 Set myPanes = myExplorer.Panes
 ```
 
-The following example retrieves the  **[OutlookBarPane](outlookbarpane-object-outlook.md)** object representing the **Shortcuts** pane.
+The following example retrieves the  **[OutlookBarPane](Outlook.OutlookBarPane.md)** object representing the **Shortcuts** pane.
 
 
 
@@ -51,7 +51,7 @@ Set myOLBarPane = myExplorer.Panes.Item("OutlookBar")
 
 |**Name**|
 |:-----|
-|[Item](panes-item-method-outlook.md)|
+|[Item](Outlook.Panes.Item.md)|
 
 ## Properties
 
@@ -59,10 +59,10 @@ Set myOLBarPane = myExplorer.Panes.Item("OutlookBar")
 
 |**Name**|
 |:-----|
-|[Application](panes-application-property-outlook.md)|
-|[Class](panes-class-property-outlook.md)|
-|[Count](panes-count-property-outlook.md)|
-|[Parent](panes-parent-property-outlook.md)|
+|[Application](Outlook.Panes.Application.md)|
+|[Class](Outlook.Panes.Class.md)|
+|[Count](Outlook.Panes.Count.md)|
+|[Parent](Outlook.Panes.Parent.md)|
 |[Session](panes-session-property-outlook.md)|
 
 ## See also

@@ -30,7 +30,7 @@ An  **Object** value that represents the next object contained by the collection
 
 ## Remarks
 
-It returns  **Nothing** if no next object exists, for example, if already positioned at the end of the collection.To ensure correct operation of the **[GetFirst](results-getfirst-method-outlook.md)** , **[GetLast](results-getlast-method-outlook.md)** , **GetNext** , and **[GetPrevious](results-getprevious-method-outlook.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+It returns  **Nothing** if no next object exists, for example, if already positioned at the end of the collection.To ensure correct operation of the **[GetFirst](Outlook.Results.GetFirst.md)** , **[GetLast](Outlook.Results.GetLast.md)** , **GetNext** , and **[GetPrevious](Outlook.Results.GetPrevious.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection, and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## See also
@@ -39,5 +39,5 @@ It returns  **Nothing** if no next object exists, for example, if already positi
 #### Concepts
 
 
-[Results Object](results-object-outlook.md)
+[Results Object](Outlook.Results.md)
 

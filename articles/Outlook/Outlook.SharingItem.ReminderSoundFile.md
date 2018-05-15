@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](sharingitem-reminderoverridedefault-property-outlook.md)** and **[ReminderPlaySound](sharingitem-reminderplaysound-property-outlook.md)** properties are set to **true** .
+This property is only valid if the  **[ReminderOverrideDefault](Outlook.SharingItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.SharingItem.ReminderPlaySound.md)** properties are set to **true** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is only valid if the  **[ReminderOverrideDefault](sharingitem-remi
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

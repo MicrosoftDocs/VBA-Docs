@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Panes Object](panes-object-outlook.md)
+[Panes Object](Outlook.Panes.md)
 

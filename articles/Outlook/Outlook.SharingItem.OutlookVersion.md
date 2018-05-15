@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.OutlookVersion Property (Outlook)
 
-Returns a  **String** indicating the major and minor version number of the Outlook application for a **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a  **String** indicating the major and minor version number of the Outlook application for a **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

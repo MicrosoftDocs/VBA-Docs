@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent application (Outlook) for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[ExchangeDistributionList Object](exchangedistributionlist-object-outlook.md)
+[ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

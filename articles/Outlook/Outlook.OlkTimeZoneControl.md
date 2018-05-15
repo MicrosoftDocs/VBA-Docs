@@ -36,20 +36,20 @@ If an appointment item was originally created with a time zone value that no lon
 
 |**Name**|
 |:-----|
-|[AfterUpdate](olktimezonecontrol-afterupdate-event-outlook.md)|
-|[BeforeUpdate](olktimezonecontrol-beforeupdate-event-outlook.md)|
-|[Change](olktimezonecontrol-change-event-outlook.md)|
-|[Click](olktimezonecontrol-click-event-outlook.md)|
-|[DoubleClick](olktimezonecontrol-doubleclick-event-outlook.md)|
-|[DropButtonClick](olktimezonecontrol-dropbuttonclick-event-outlook.md)|
-|[Enter](olktimezonecontrol-enter-event-outlook.md)|
-|[Exit](olktimezonecontrol-exit-event-outlook.md)|
-|[KeyDown](olktimezonecontrol-keydown-event-outlook.md)|
-|[KeyPress](olktimezonecontrol-keypress-event-outlook.md)|
-|[KeyUp](olktimezonecontrol-keyup-event-outlook.md)|
-|[MouseDown](olktimezonecontrol-mousedown-event-outlook.md)|
-|[MouseMove](olktimezonecontrol-mousemove-event-outlook.md)|
-|[MouseUp](olktimezonecontrol-mouseup-event-outlook.md)|
+|[AfterUpdate](Outlook.OlkTimeZoneControl.AfterUpdate.md)|
+|[BeforeUpdate](Outlook.OlkTimeZoneControl.BeforeUpdate.md)|
+|[Change](Outlook.OlkTimeZoneControl.Change.md)|
+|[Click](Outlook.OlkTimeZoneControl.Click.md)|
+|[DoubleClick](Outlook.OlkTimeZoneControl.DoubleClick.md)|
+|[DropButtonClick](Outlook.OlkTimeZoneControl.DropButtonClick.md)|
+|[Enter](Outlook.OlkTimeZoneControl.Enter.md)|
+|[Exit](Outlook.OlkTimeZoneControl.Exit.md)|
+|[KeyDown](Outlook.OlkTimeZoneControl.KeyDown.md)|
+|[KeyPress](Outlook.OlkTimeZoneControl.KeyPress.md)|
+|[KeyUp](Outlook.OlkTimeZoneControl.KeyUp.md)|
+|[MouseDown](Outlook.OlkTimeZoneControl.MouseDown.md)|
+|[MouseMove](Outlook.OlkTimeZoneControl.MouseMove.md)|
+|[MouseUp](Outlook.OlkTimeZoneControl.MouseUp.md)|
 
 ## Methods
 
@@ -57,7 +57,7 @@ If an appointment item was originally created with a time zone value that no lon
 
 |**Name**|
 |:-----|
-|[DropDown](olktimezonecontrol-dropdown-method-outlook.md)|
+|[DropDown](Outlook.OlkTimeZoneControl.DropDown.md)|
 
 ## Properties
 
@@ -65,14 +65,14 @@ If an appointment item was originally created with a time zone value that no lon
 
 |**Name**|
 |:-----|
-|[AppointmentTimeField](olktimezonecontrol-appointmenttimefield-property-outlook.md)|
-|[BorderStyle](olktimezonecontrol-borderstyle-property-outlook.md)|
-|[Enabled](olktimezonecontrol-enabled-property-outlook.md)|
-|[Locked](olktimezonecontrol-locked-property-outlook.md)|
-|[MouseIcon](olktimezonecontrol-mouseicon-property-outlook.md)|
-|[MousePointer](olktimezonecontrol-mousepointer-property-outlook.md)|
-|[SelectedTimeZoneIndex](olktimezonecontrol-selectedtimezoneindex-property-outlook.md)|
-|[Value](olktimezonecontrol-value-property-outlook.md)|
+|[AppointmentTimeField](Outlook.OlkTimeZoneControl.AppointmentTimeField.md)|
+|[BorderStyle](Outlook.OlkTimeZoneControl.BorderStyle.md)|
+|[Enabled](Outlook.OlkTimeZoneControl.Enabled.md)|
+|[Locked](Outlook.OlkTimeZoneControl.Locked.md)|
+|[MouseIcon](Outlook.OlkTimeZoneControl.MouseIcon.md)|
+|[MousePointer](Outlook.OlkTimeZoneControl.MousePointer.md)|
+|[SelectedTimeZoneIndex](Outlook.OlkTimeZoneControl.SelectedTimeZoneIndex.md)|
+|[Value](Outlook.OlkTimeZoneControl.Value.md)|
 
 ## See also
 

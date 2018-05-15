@@ -25,7 +25,7 @@ Returns or sets a  **Long** that specifies either the starting point of the sele
 
 ## Remarks
 
-The current selection is specified by  **[SelText](olkcombobox-seltext-property-outlook.md)** , which is a portion of the control's **[Value](olkcombobox-value-property-outlook.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](olkcombobox-maxlength-property-outlook.md)** .
+The current selection is specified by  **[SelText](Outlook.OlkComboBox.SelText.md)** , which is a portion of the control's **[Value](Outlook.OlkComboBox.Value.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkComboBox.MaxLength.md)** .
 
 The default value is zero, which means no text is selected and the insertion point is at the beginning.
 
@@ -38,5 +38,5 @@ The  **SelStart** property is always valid, even when the control does not have 
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

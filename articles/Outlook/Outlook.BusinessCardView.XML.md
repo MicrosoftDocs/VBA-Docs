@@ -32,7 +32,7 @@ To determine how the XML should be structured when creating views, create a view
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates the  **[Views](views-object-outlook.md)** collection of the **Contacts** default folder and displays the XML definition of a **[BusinessCardView](businesscardview-object-outlook.md)** object named "Card View".
+The following Visual Basic for Applications (VBA) example enumerates the  **[Views](Outlook.Views.md)** collection of the **Contacts** default folder and displays the XML definition of a **[BusinessCardView](Outlook.BusinessCardView.md)** object named "Card View".
 
 
 ```vb
@@ -94,5 +94,5 @@ End Sub
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

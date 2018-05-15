@@ -29,5 +29,5 @@ Returns or sets a  **Long** specifying the height (in pixels) of the note window
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.RemoteStatus Property (Outlook)
 
-Returns or sets an  **[OlRemoteStatus](olremotestatus-enumeration-outlook.md)** constant specifying the remote status of the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant specifying the remote status of the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets an  **[OlRemoteStatus](olremotestatus-enumeration-outlook.md)** 
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

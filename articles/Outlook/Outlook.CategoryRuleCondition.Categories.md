@@ -42,5 +42,5 @@ Returns an error if  **Categories** contains one or more empty strings.
 #### Concepts
 
 
-[CategoryRuleCondition Object](categoryrulecondition-object-outlook.md)
+[CategoryRuleCondition Object](Outlook.CategoryRuleCondition.md)
 

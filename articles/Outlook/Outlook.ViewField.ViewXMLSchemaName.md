@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewField.ViewXMLSchemaName Property (Outlook)
 
-Returns a  **String** value that represents the XML schema name for the property referenced by the **[ViewField](viewfield-object-outlook.md)** object. Read-only.
+Returns a  **String** value that represents the XML schema name for the property referenced by the **[ViewField](Outlook.ViewField.md)** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The value of this property contains the name of the property as it is included w
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](viewfields-object-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```vb
@@ -100,5 +100,5 @@ End Sub
 #### Concepts
 
 
-[ViewField Object](viewfield-object-outlook.md)
+[ViewField Object](Outlook.ViewField.md)
 

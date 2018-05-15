@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.DisplayType Property (Outlook)
 
-Returns a constant belonging to the  **[OlDisplayType](oldisplaytype-enumeration-outlook.md)** enumeration that describes the nature of the **[AddressEntry](addressentry-object-outlook.md)** . Read-only.
+Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)** enumeration that describes the nature of the **[AddressEntry](Outlook.AddressEntry.md)** . Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ You can use the  **DisplayType** property to filter address entries. The **Displ
 #### Concepts
 
 
-[AddressEntry Object](addressentry-object-outlook.md)
+[AddressEntry Object](Outlook.AddressEntry.md)
 

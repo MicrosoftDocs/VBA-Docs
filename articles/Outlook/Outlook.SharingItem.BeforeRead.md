@@ -22,16 +22,16 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
 ## Remarks
 
-The  **BeforeRead** event occurs before the **[Read](sharingitem-read-event-outlook.md)** event. Unlike other events with the Before prefix, this event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](sharingitem-unload-event-outlook.md)** event.
+The  **BeforeRead** event occurs before the **[Read](Outlook.SharingItem.Read.md)** event. Unlike other events with the Before prefix, this event is not cancelable. To determine when the item is unloaded from memory, use the **[Unload](Outlook.SharingItem.Unload.md)** event.
 
 The  **BeforeRead** event corresponds to the Exchange Client Extensions (ECE) event **IExchExtMessageEvents::OnRead** .
 
 Only the following members of the item object can be accessed in the  **BeforeRead** event:
 
 
--  **[Class](sharingitem-class-property-outlook.md)**
+-  **[Class](Outlook.SharingItem.Class.md)**
     
--  **[MessageClass](sharingitem-messageclass-property-outlook.md)**
+-  **[MessageClass](Outlook.SharingItem.MessageClass.md)**
     
 -  **MAPIOBJECT**
     
@@ -48,5 +48,5 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

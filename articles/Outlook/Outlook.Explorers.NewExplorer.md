@@ -29,13 +29,13 @@ Occurs whenever a new explorer window is opened, either as a result of user acti
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Explorer_|Required| **[Explorer](explorer-object-outlook.md)**|The explorer that was opened.|
+| _Explorer_|Required| **[Explorer](Outlook.Explorer.md)**|The explorer that was opened.|
 
 ## Remarks
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-The event occurs after the new  **[Explorer](explorer-object-outlook.md)** object is created but before the explorer window appears.
+The event occurs after the new  **[Explorer](Outlook.Explorer.md)** object is created but before the explorer window appears.
 
 
 ## Example

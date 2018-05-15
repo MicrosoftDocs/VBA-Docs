@@ -34,5 +34,5 @@ This is similar to the  **GotFocus** event exposed by managed-code controls or i
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

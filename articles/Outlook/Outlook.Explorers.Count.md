@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[Explorers Object](explorers-object-outlook.md)
+[Explorers Object](Outlook.Explorers.md)
 

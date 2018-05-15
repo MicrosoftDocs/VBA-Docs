@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroups.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant i
 
 ## Remarks
 
-This property returns  **olNavigationGroups** for the **[NavigationGroups](navigationgroups-object-outlook.md)** object.
+This property returns  **olNavigationGroups** for the **[NavigationGroups](Outlook.NavigationGroups.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **olNavigationGroups** for the **[NavigationGroups](navig
 #### Concepts
 
 
-[NavigationGroups Object](navigationgroups-object-outlook.md)
+[NavigationGroups Object](Outlook.NavigationGroups.md)
 

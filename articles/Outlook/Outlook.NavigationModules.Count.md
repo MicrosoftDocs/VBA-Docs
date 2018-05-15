@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[NavigationModules Object](navigationmodules-object-outlook.md)
+[NavigationModules Object](Outlook.NavigationModules.md)
 

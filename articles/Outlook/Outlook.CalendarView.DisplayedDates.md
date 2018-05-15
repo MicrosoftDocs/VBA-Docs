@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.DisplayedDates Property (Outlook)
 
-Returns a  **Variant** array containing strings that represent the days displayed in a **[CalendarView](calendarview-object-outlook.md)** object. Read-only.
+Returns a  **Variant** array containing strings that represent the days displayed in a **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax
@@ -102,5 +102,5 @@ End Sub
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

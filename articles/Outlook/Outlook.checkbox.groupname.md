@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CheckBox.GroupName Property (Outlook Forms Script)
 
-Returns or sets a  **String** that identifies a group of mutually exclusive **[CheckBox](checkbox-object-outlook-forms-script.md)** controls. Read/write.
+Returns or sets a  **String** that identifies a group of mutually exclusive **[CheckBox](Outlook.checkbox.md)** controls. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that identifies a group of mutually exclusive **[C
 
 Use the same  **GroupName** for all check boxes in the group. The default setting is an empty string.
 
-To create a group of mutually exclusive  **CheckBox** controls, you can put the check boxes in a **[Frame](frame-object-outlook-forms-script.md)** on your form, or you can use the **GroupName** property. **GroupName** is more efficient for the following reasons:
+To create a group of mutually exclusive  **CheckBox** controls, you can put the check boxes in a **[Frame](Outlook.frame.md)** on your form, or you can use the **GroupName** property. **GroupName** is more efficient for the following reasons:
 
 
 - You do not have to include a  **Frame** for each group. By not using a **Frame**, you reduce the number of controls on the form, and in turn, improve performance and reduce the size of the form.
@@ -38,6 +38,6 @@ To create a group of mutually exclusive  **CheckBox** controls, you can put the 
 
 Regardless of which method you use to create the group of check boxes, clicking one check box in a group sets all other check boxes in the same group to  **False**. All check boxes with the same  **GroupName** within a single container are mutually exclusive. You can use the same group name in two containers, but doing so creates two groups (one in each container) rather than one group that includes both containers.
 
-For example, assume your form includes some check boxes and a  **[MultiPage](multipage-object-outlook-forms-script.md)** that also includes option buttons. The check boxes on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a check box on the **MultiPage** does not affect the check boxes on the form.
+For example, assume your form includes some check boxes and a  **[MultiPage](Outlook.multipage.md)** that also includes option buttons. The check boxes on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a check box on the **MultiPage** does not affect the check boxes on the form.
 
 

@@ -29,5 +29,5 @@ Returns a  **Boolean** that specifies whether or not the view is a built-in Outl
 #### Concepts
 
 
-[View Object](view-object-outlook.md)
+[View Object](Outlook.View.md)
 

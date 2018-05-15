@@ -42,5 +42,5 @@ An  **Object** value that represents the specified object.
 #### Concepts
 
 
-[Panes Object](panes-object-outlook.md)
+[Panes Object](Outlook.Panes.md)
 

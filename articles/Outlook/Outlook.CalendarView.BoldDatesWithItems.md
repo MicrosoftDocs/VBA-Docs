@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.BoldDatesWithItems Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether days that contain Outlook items should be displayed in bold within the Date Navigator for the **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
+Returns or sets a  **Boolean** value that indicates whether days that contain Outlook items should be displayed in bold within the Date Navigator for the **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that indicates whether days that contain Ou
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

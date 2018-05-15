@@ -30,7 +30,7 @@ Adds a Personal Folders file (.pst) in the specified format to the current profi
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Store_|Required| **Variant**|The path of the .pst file to be added to the profile. If the .pst file does not exist, Microsoft Outlook creates it.|
-| _Type_|Required| **[OlStoreType](olstoretype-enumeration-outlook.md)**|The format in which the data file should be created.|
+| _Type_|Required| **[OlStoreType](Outlook.OlStoreType.md)**|The format in which the data file should be created.|
 
 ## Remarks
 
@@ -63,5 +63,5 @@ End Sub
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

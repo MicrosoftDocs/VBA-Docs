@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Accounts.Item Method (Outlook)
 
-Returns an  **[Account](account-object-outlook.md)** object specified by _Index_ .
+Returns an  **[Account](Outlook.Account.md)** object specified by _Index_ .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns an  **[Account](account-object-outlook.md)** object specified by _Index_
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|A one-based  **Long** that indexes into the **[Accounts](accounts-object-outlook.md)** collection, or a **String** that specifies the **[DisplayName](account-displayname-property-outlook.md)** of an **Account** .|
+| _Index_|Required| **Variant**|A one-based  **Long** that indexes into the **[Accounts](Outlook.Accounts.md)** collection, or a **String** that specifies the **[DisplayName](Outlook.Account.DisplayName.md)** of an **Account** .|
 
 ### Return Value
 
@@ -42,5 +42,5 @@ An  **Account** object that matches the account specified by _Index_ .
 #### Concepts
 
 
-[Accounts Object](accounts-object-outlook.md)
+[Accounts Object](Outlook.Accounts.md)
 

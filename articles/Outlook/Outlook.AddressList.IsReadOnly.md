@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressList.IsReadOnly Property (Outlook)
 
-Returns a  **Boolean** value that indicates that the **[AddressList](addresslist-object-outlook.md)** object cannot be modified. Read-only.
+Returns a  **Boolean** value that indicates that the **[AddressList](Outlook.AddressList.md)** object cannot be modified. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The  **IsReadOnly** property refers to adding and deleting the entries in the ad
 #### Concepts
 
 
-[AddressList Object](addresslist-object-outlook.md)
+[AddressList Object](Outlook.AddressList.md)
 

@@ -36,5 +36,5 @@ If a string specified by  **Address** is contained in the recipient or sender ad
 #### Concepts
 
 
-[AddressRuleCondition Object](addressrulecondition-object-outlook.md)
+[AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 

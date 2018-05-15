@@ -18,7 +18,7 @@ Represents a rule condition that evaluates whether an item is from a specified R
 
 ## Remarks
 
- **FromRssFeedRuleCondition** is derived from the **[RuleCondition](rulecondition-object-outlook.md)** object. Each rule is associated with a **[RuleConditions](ruleconditions-object-outlook.md)** object, which has a **[RuleConditions.FromRssFeed](ruleconditions-fromrssfeed-property-outlook.md)** property. The **FromRssFeed** property always returns a **FromRssFeedRuleCondition** object. If the rule has any of these rule conditions enabled, then **[FromRssFeedRuleCondition.Enabled](fromrssfeedrulecondition-enabled-property-outlook.md)** is **True**.
+ **FromRssFeedRuleCondition** is derived from the **[RuleCondition](Outlook.RuleCondition.md)** object. Each rule is associated with a **[RuleConditions](Outlook.RuleConditions.md)** object, which has a **[RuleConditions.FromRssFeed](Outlook.RuleConditions.FromRssFeed.md)** property. The **FromRssFeed** property always returns a **FromRssFeedRuleCondition** object. If the rule has any of these rule conditions enabled, then **[FromRssFeedRuleCondition.Enabled](Outlook.FromRssFeedRuleCondition.Enabled.md)** is **True**.
 
 For more information about specifying rule actions, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
 
@@ -29,12 +29,12 @@ For more information about specifying rule actions, see [Specify Rule Conditions
 
 |**Name**|
 |:-----|
-|[Application](fromrssfeedrulecondition-application-property-outlook.md)|
-|[Class](fromrssfeedrulecondition-class-property-outlook.md)|
-|[ConditionType](fromrssfeedrulecondition-conditiontype-property-outlook.md)|
-|[Enabled](fromrssfeedrulecondition-enabled-property-outlook.md)|
-|[FromRssFeed](fromrssfeedrulecondition-fromrssfeed-property-outlook.md)|
-|[Parent](fromrssfeedrulecondition-parent-property-outlook.md)|
+|[Application](Outlook.FromRssFeedRuleCondition.Application.md)|
+|[Class](Outlook.FromRssFeedRuleCondition.Class.md)|
+|[ConditionType](Outlook.FromRssFeedRuleCondition.ConditionType.md)|
+|[Enabled](Outlook.FromRssFeedRuleCondition.Enabled.md)|
+|[FromRssFeed](Outlook.FromRssFeedRuleCondition.FromRssFeed.md)|
+|[Parent](Outlook.FromRssFeedRuleCondition.Parent.md)|
 |[Session](fromrssfeedrulecondition-session-property-outlook.md)|
 
 ## See also

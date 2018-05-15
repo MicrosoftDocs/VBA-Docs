@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColumnFormat.FieldType Property (Outlook)
 
-Returns an  **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)** constant which represents the field type of the property to which the **[ColumnFormat](columnformat-object-outlook.md)** object is associated. Read-only.
+Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant which represents the field type of the property to which the **[ColumnFormat](Outlook.ColumnFormat.md)** object is associated. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)** 
 #### Concepts
 
 
-[ColumnFormat Object](columnformat-object-outlook.md)
+[ColumnFormat Object](Outlook.ColumnFormat.md)
 

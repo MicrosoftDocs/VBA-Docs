@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PropertyAccessor.Class Property (Outlook)
 
-Returns a constant in the [OlObjectClass](olobjectclass-enumeration-outlook.md) enumeration indicating the class of the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object. Read-only.
+Returns a constant in the [OlObjectClass](Outlook.OlObjectClass.md) enumeration indicating the class of the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a constant in the [OlObjectClass](olobjectclass-enumeration-outlook.md) 
 #### Concepts
 
 
-[PropertyAccessor Object](propertyaccessor-object-outlook.md)
+[PropertyAccessor Object](Outlook.PropertyAccessor.md)
 

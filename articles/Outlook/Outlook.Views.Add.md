@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Views.Add Method (Outlook)
 
-Creates a new view in the  **[Views](views-object-outlook.md)** collection.
+Creates a new view in the  **[Views](Outlook.Views.md)** collection.
 
 
 ## Syntax
@@ -30,18 +30,18 @@ Creates a new view in the  **[Views](views-object-outlook.md)** collection.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new view.|
-| _ViewType_|Required| **[OlViewType](olviewtype-enumeration-outlook.md)**|The type of the new view.|
-| _SaveOption_|Optional| **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)**|The save option that specifies the permissions of the new view. 
+| _ViewType_|Required| **[OlViewType](Outlook.OlViewType.md)**|The type of the new view.|
+| _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option that specifies the permissions of the new view. 
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>olViewSaveOptionAllFoldersOfType</b>  The view can be accessed in all folders of this type.</p></li><li><p><b>olViewSaveOptionThisFolderEveryOne</b>  The view can be accessed by all users in this folder only.</p></li><li><p><b>olViewSaveOptionThisFolderOnlyMe</b>  The view can be accessed in this folder only by the user.</p></li></ul>|
 
 ### Return Value
 
-A  **[View](view-object-outlook.md)** object that represents the new view.
+A  **[View](Outlook.View.md)** object that represents the new view.
 
 
 ## Remarks
 
-If you add a  **View** to a **Views** collection of a folder that is not the current folder, you must first save a copy of the **Views** collection object and then add the **View** to this collection object, as shown in the code sample below. This is a work-around for an existing problem which will otherwise cause a call to **[View.Apply](view-apply-method-outlook.md)** for the added **View** to fail.
+If you add a  **View** to a **Views** collection of a folder that is not the current folder, you must first save a copy of the **Views** collection object and then add the **View** to this collection object, as shown in the code sample below. This is a work-around for an existing problem which will otherwise cause a call to **[View.Apply](Outlook.View.Apply.md)** for the added **View** to fail.
 
 
 ```vb
@@ -88,5 +88,5 @@ End Sub
 #### Concepts
 
 
-[Views Object](views-object-outlook.md)
+[Views Object](Outlook.Views.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Parent Property (Outlook)
 
-Returns the parent  **Object** of the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object. Read-only.
+Returns the parent  **Object** of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns the parent  **Object** of the **[ExchangeDistributionList](exchangedistr
 #### Concepts
 
 
-[ExchangeDistributionList Object](exchangedistributionlist-object-outlook.md)
+[ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

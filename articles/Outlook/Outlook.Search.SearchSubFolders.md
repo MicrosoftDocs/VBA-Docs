@@ -25,7 +25,7 @@ Returns a  **Boolean** indicating whether the scope of the specified search incl
 
 ## Remarks
 
-This property is determined by the  _SearchSubfolders_ argument of the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method and is specified when the search is initiated. If **True** , the **Search** object searches through any subfolders in the specified filter path.
+This property is determined by the  _SearchSubfolders_ argument of the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method and is specified when the search is initiated. If **True** , the **Search** object searches through any subfolders in the specified filter path.
 
 
 ## Example
@@ -100,5 +100,5 @@ End Sub
 #### Concepts
 
 
-[Search Object](search-object-outlook.md)
+[Search Object](Outlook.Search.md)
 

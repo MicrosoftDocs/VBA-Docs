@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserProperties.Find Method (Outlook)
 
-Locates and returns a  **[UserProperty](userproperty-object-outlook.md)** object for the requested property name, if it exists.
+Locates and returns a  **[UserProperty](Outlook.UserProperty.md)** object for the requested property name, if it exists.
 
 
 ## Syntax
@@ -48,5 +48,5 @@ If  _Custom_ parameter is **True** , only custom user properties will be searche
 #### Concepts
 
 
-[UserProperties Object](userproperties-object-outlook.md)
+[UserProperties Object](Outlook.UserProperties.md)
 

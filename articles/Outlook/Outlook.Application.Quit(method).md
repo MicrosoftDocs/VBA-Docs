@@ -34,5 +34,5 @@ The associated Outlook session is closed completely; the user is logged out of t
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

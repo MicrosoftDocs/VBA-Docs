@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroup.Name Property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the **[NavigationGroup](navigationgroup-object-outlook.md)** object. Read/write.
+Returns or sets a  **String** value that represents the display name for the **[NavigationGroup](Outlook.NavigationGroup.md)** object. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets a  **String** value that represents the display name for the **[
 
 This property is limited to 127 characters.  **String** values longer than 127 characters are truncated.
 
-An error occurs if you attempt to set the value of this property for any  **NavigationGroup** object associated with a **[MailModule](mailmodule-object-outlook.md)** object.
+An error occurs if you attempt to set the value of this property for any  **NavigationGroup** object associated with a **[MailModule](Outlook.MailModule.md)** object.
 
 
 ## See also
@@ -36,5 +36,5 @@ An error occurs if you attempt to set the value of this property for any  **Navi
 #### Concepts
 
 
-[NavigationGroup Object](navigationgroup-object-outlook.md)
+[NavigationGroup Object](Outlook.NavigationGroup.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BusinessCardView.Apply Method (Outlook)
 
-Applies the  **[BusinessCardView](businesscardview-object-outlook.md)** object to the current view.
+Applies the  **[BusinessCardView](Outlook.BusinessCardView.md)** object to the current view.
 
 
 ## Syntax
@@ -79,5 +79,5 @@ End Sub
 #### Concepts
 
 
-[BusinessCardView Object](businesscardview-object-outlook.md)
+[BusinessCardView Object](Outlook.BusinessCardView.md)
 

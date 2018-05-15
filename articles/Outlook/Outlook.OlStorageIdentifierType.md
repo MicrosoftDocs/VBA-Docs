@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # OlStorageIdentifierType Enumeration (Outlook)
 
-Specifies the type of identifier for a  **[StorageItem](storageitem-object-outlook.md)** object.
+Specifies the type of identifier for a  **[StorageItem](Outlook.StorageItem.md)** object.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **olIdentifyByEntryID**|1|Identifies a  **StorageItem** by **[EntryID](storageitem-entryid-property-outlook.md)** .|
+| **olIdentifyByEntryID**|1|Identifies a  **StorageItem** by **[EntryID](Outlook.StorageItem.EntryID.md)** .|
 | **olIdentifyByMessageClass**|2|Identifies a  **StorageItem** by message class.|
-| **olIdentifyBySubject**|0|Identifies a  **StorageItem** by **[Subject](storageitem-subject-property-outlook.md)** .|
+| **olIdentifyBySubject**|0|Identifies a  **StorageItem** by **[Subject](Outlook.StorageItem.Subject.md)** .|
 
 ## Remarks
 
-The message class of a [StorageItem Object (Outlook)](storageitem-object-outlook.md) is not exposed as an explicit built-in property. You can access the message class property through the[PropertyAccessor Object (Outlook)](propertyaccessor-object-outlook.md) that is provided by[StorageItem.PropertyAccessor Property (Outlook)](storageitem-propertyaccessor-property-outlook.md).
+The message class of a [StorageItem Object (Outlook)](Outlook.StorageItem.md) is not exposed as an explicit built-in property. You can access the message class property through the[PropertyAccessor Object (Outlook)](propertyaccessor-object-outlook.md) that is provided by[StorageItem.PropertyAccessor Property (Outlook)](storageitem-propertyaccessor-property-outlook.md).
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AdvancedSearchStopped Event (Outlook)
 
-Occurs when a specified  **[Search](search-object-outlook.md)** object's **[Stop](search-stop-method-outlook.md)** method has been executed.
+Occurs when a specified  **[Search](Outlook.Search.md)** object's **[Stop](Outlook.Search.Stop.md)** method has been executed.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Occurs when a specified  **[Search](search-object-outlook.md)** object's **[Stop
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SearchObject_|Required| **Search**|The  **[Search](search-object-outlook.md)** object returned by the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method.|
+| _SearchObject_|Required| **Search**|The  **[Search](Outlook.Search.md)** object returned by the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method.|
 
 ## Remarks
 
-After this event is fired, the  **Search** object?s **[Results](results-object-outlook.md)** collection will no longer be updated. This event can only be triggered programmatically.
+After this event is fired, the  **Search** object?s **[Results](Outlook.Results.md)** collection will no longer be updated. This event can only be triggered programmatically.
 
 
 ## Example

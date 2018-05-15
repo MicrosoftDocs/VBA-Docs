@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarSharing.EndDate Property (Outlook)
 
-Returns or sets a  **Date** value that represents the inclusive end date of the range of calendar items to be shared by the **[CalendarSharing](calendarsharing-object-outlook.md)** object. Read/write.
+Returns or sets a  **Date** value that represents the inclusive end date of the range of calendar items to be shared by the **[CalendarSharing](Outlook.CalendarSharing.md)** object. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ A  **Date** value representing the inclusive end date of the range of calendar i
 
 ## Remarks
 
-This property is ignored if the  **[IncludeWholeCalendar](calendarsharing-includewholecalendar-property-outlook.md)** property of the **CalendarSharing** object is set to **true** .
+This property is ignored if the  **[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)** property of the **CalendarSharing** object is set to **true** .
 
 
 ## See also
@@ -39,5 +39,5 @@ This property is ignored if the  **[IncludeWholeCalendar](calendarsharing-includ
 #### Concepts
 
 
-[CalendarSharing Object](calendarsharing-object-outlook.md)
+[CalendarSharing Object](Outlook.CalendarSharing.md)
 

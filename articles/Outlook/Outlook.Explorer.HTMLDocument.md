@@ -20,12 +20,12 @@ Returns an  **HTMLDocument** object that specifies the HTML object model associa
 
  _expression_ . **HTMLDocument**
 
- _expression_ A variable that represents an **[Explorer](explorer-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks
 
-In order to use this property, a folder must be using a folder home page, or you can set the  **[WebViewURL](folder-webviewurl-property-outlook.md)** property of the **[Folder](folder-object-outlook.md)** object to a Web page.
+In order to use this property, a folder must be using a folder home page, or you can set the  **[WebViewURL](Outlook.Folder.WebViewURL.md)** property of the **[Folder](Outlook.Folder.md)** object to a Web page.
 
 
 ## Example
@@ -82,5 +82,5 @@ End Sub
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

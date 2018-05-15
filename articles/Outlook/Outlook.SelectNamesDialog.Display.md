@@ -68,5 +68,5 @@ End Sub
 #### Concepts
 
 
-[SelectNamesDialog Object](selectnamesdialog-object-outlook.md)
+[SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

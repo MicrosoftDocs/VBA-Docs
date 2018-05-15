@@ -34,5 +34,5 @@ The default value is an empty string. The Forms Designer sets this property to t
 #### Concepts
 
 
-[OlkCommandButton Object](olkcommandbutton-object-outlook.md)
+[OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

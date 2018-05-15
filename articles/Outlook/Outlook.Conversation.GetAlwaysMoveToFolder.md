@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Conversation.GetAlwaysMoveToFolder Method (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object that indicates the folder in the specified delivery store to which new items that arrive in the conversation are always moved.
+Returns a  **[Folder](Outlook.Folder.md)** object that indicates the folder in the specified delivery store to which new items that arrive in the conversation are always moved.
 
 
 ## Syntax
 
  _expression_ . **GetAlwaysMoveToFolder**( **_Store_** )
 
- _expression_ A variable that represents a **[Conversation](conversation-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns a  **[Folder](folder-object-outlook.md)** object that indicates the fold
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Store_|Required| **[Store](store-object-outlook.md)**|The store where the folder to which conversation items are moved resides.|
+| _Store_|Required| **[Store](Outlook.Store.md)**|The store where the folder to which conversation items are moved resides.|
 
 ### Return Value
 
@@ -101,5 +101,5 @@ End Sub
 #### Concepts
 
 
-[Conversation Object](conversation-object-outlook.md)
+[Conversation Object](Outlook.Conversation.md)
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ConversationHeader.GetItems Method (Outlook)
 
-Obtains a  **[SimpleItems](simpleitems-object-outlook.md)** collection that contains all of the items in the conversation that reside in the same folder as the selected conversation header.
+Obtains a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains all of the items in the conversation that reside in the same folder as the selected conversation header.
 
 
 ## Syntax
 
  _expression_ . **GetItems**
 
- _expression_ A variable that represents a **[ConversationHeader](conversationheader-object-outlook.md)** object.
+ _expression_ A variable that represents a **[ConversationHeader](Outlook.ConversationHeader.md)** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ A  **SimpleItems** collection of items that belong to the same conversation and 
 
 ## Remarks
 
-The  **SimpleItems** collection only contains conversation items in the folder that contains the conversation header. The **SimpleItems** collection does not return cross-folder conversation items. If you must access cross-folder content, use the **[Conversation](conversation-object-outlook.md)** object.
+The  **SimpleItems** collection only contains conversation items in the folder that contains the conversation header. The **SimpleItems** collection does not return cross-folder conversation items. If you must access cross-folder content, use the **[Conversation](Outlook.Conversation.md)** object.
 
-If no conversation items exist in the same folder as the conversation header,  **GetItems** returns a **SimpleItems** collection with the **[SimpleItems.Count](simpleitems-count-property-outlook.md)** property equal to 0.
+If no conversation items exist in the same folder as the conversation header,  **GetItems** returns a **SimpleItems** collection with the **[SimpleItems.Count](Outlook.SimpleItems.Count.md)** property equal to 0.
 
 
 ## See also
@@ -41,7 +41,7 @@ If no conversation items exist in the same folder as the conversation header,  *
 #### Concepts
 
 
-[ConversationHeader Object](conversationheader-object-outlook.md)
+[ConversationHeader Object](Outlook.ConversationHeader.md)
 #### Other resources
 
 

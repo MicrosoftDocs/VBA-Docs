@@ -65,5 +65,5 @@ End Sub
 #### Concepts
 
 
-[SyncObject Object](syncobject-object-outlook.md)
+[SyncObject Object](Outlook.SyncObject.md)
 

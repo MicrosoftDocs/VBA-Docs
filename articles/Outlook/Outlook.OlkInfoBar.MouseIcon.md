@@ -34,5 +34,5 @@ The custom picture is of the Microsoft Windows type  **StdPicture** . The defaul
 #### Concepts
 
 
-[OlkInfoBar Object](olkinfobar-object-outlook.md)
+[OlkInfoBar Object](Outlook.OlkInfoBar.md)
 

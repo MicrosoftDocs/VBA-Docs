@@ -27,7 +27,7 @@ Returns a  **Long** that specifies the application-preferred height of the sende
 
 The value is expressed in units of pixels. The default value is 96.
 
- You can use this property and the **[PreferredWidth](olksenderphoto-preferredwidth-property-outlook.md)** property to simulate Outlook's behavior to render, resize, and align the sender picture in a standard form.
+ You can use this property and the **[PreferredWidth](Outlook.OlkSenderPhoto.PreferredWidth.md)** property to simulate Outlook's behavior to render, resize, and align the sender picture in a standard form.
 
 
 ## See also
@@ -36,5 +36,5 @@ The value is expressed in units of pixels. The default value is 96.
 #### Concepts
 
 
-[OlkSenderPhoto Object](olksenderphoto-object-outlook.md)
+[OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 

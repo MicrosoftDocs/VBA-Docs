@@ -29,5 +29,5 @@ Returns or sets a  **Date** indicating the start date for the recurrence pattern
 #### Concepts
 
 
-[RecurrencePattern Object](recurrencepattern-object-outlook.md)
+[RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

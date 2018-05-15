@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RemoteItem.Actions Property (Outlook)
 
-Returns an  **[Actions](actions-object-outlook.md)** collection that represents all the available actions for the item. Read-only.
+Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the item. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Actions](actions-object-outlook.md)** collection that represents 
 #### Concepts
 
 
-[RemoteItem Object](remoteitem-object-outlook.md)
+[RemoteItem Object](Outlook.RemoteItem.md)
 

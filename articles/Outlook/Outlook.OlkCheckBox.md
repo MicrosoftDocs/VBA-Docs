@@ -36,19 +36,19 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AfterUpdate](olkcheckbox-afterupdate-event-outlook.md)|
-|[BeforeUpdate](olkcheckbox-beforeupdate-event-outlook.md)|
-|[Change](olkcheckbox-change-event-outlook.md)|
-|[Click](olkcheckbox-click-event-outlook.md)|
-|[DoubleClick](olkcheckbox-doubleclick-event-outlook.md)|
-|[Enter](olkcheckbox-enter-event-outlook.md)|
-|[Exit](olkcheckbox-exit-event-outlook.md)|
-|[KeyDown](olkcheckbox-keydown-event-outlook.md)|
-|[KeyPress](olkcheckbox-keypress-event-outlook.md)|
-|[KeyUp](olkcheckbox-keyup-event-outlook.md)|
-|[MouseDown](olkcheckbox-mousedown-event-outlook.md)|
-|[MouseMove](olkcheckbox-mousemove-event-outlook.md)|
-|[MouseUp](olkcheckbox-mouseup-event-outlook.md)|
+|[AfterUpdate](Outlook.OlkCheckBox.AfterUpdate.md)|
+|[BeforeUpdate](Outlook.OlkCheckBox.BeforeUpdate.md)|
+|[Change](Outlook.OlkCheckBox.Change.md)|
+|[Click](Outlook.OlkCheckBox.Click.md)|
+|[DoubleClick](Outlook.OlkCheckBox.DoubleClick.md)|
+|[Enter](Outlook.OlkCheckBox.Enter.md)|
+|[Exit](Outlook.OlkCheckBox.Exit.md)|
+|[KeyDown](Outlook.OlkCheckBox.KeyDown.md)|
+|[KeyPress](Outlook.OlkCheckBox.KeyPress.md)|
+|[KeyUp](Outlook.OlkCheckBox.KeyUp.md)|
+|[MouseDown](Outlook.OlkCheckBox.MouseDown.md)|
+|[MouseMove](Outlook.OlkCheckBox.MouseMove.md)|
+|[MouseUp](Outlook.OlkCheckBox.MouseUp.md)|
 
 ## Properties
 
@@ -56,19 +56,19 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Accelerator](olkcheckbox-accelerator-property-outlook.md)|
-|[Alignment](olkcheckbox-alignment-property-outlook.md)|
-|[BackColor](olkcheckbox-backcolor-property-outlook.md)|
-|[BackStyle](olkcheckbox-backstyle-property-outlook.md)|
-|[Caption](olkcheckbox-caption-property-outlook.md)|
-|[Enabled](olkcheckbox-enabled-property-outlook.md)|
-|[Font](olkcheckbox-font-property-outlook.md)|
-|[ForeColor](olkcheckbox-forecolor-property-outlook.md)|
-|[MouseIcon](olkcheckbox-mouseicon-property-outlook.md)|
-|[MousePointer](olkcheckbox-mousepointer-property-outlook.md)|
-|[TripleState](olkcheckbox-triplestate-property-outlook.md)|
-|[Value](olkcheckbox-value-property-outlook.md)|
-|[WordWrap](olkcheckbox-wordwrap-property-outlook.md)|
+|[Accelerator](Outlook.OlkCheckBox.Accelerator.md)|
+|[Alignment](Outlook.OlkCheckBox.Alignment.md)|
+|[BackColor](Outlook.OlkCheckBox.BackColor.md)|
+|[BackStyle](Outlook.OlkCheckBox.BackStyle.md)|
+|[Caption](Outlook.OlkCheckBox.Caption.md)|
+|[Enabled](Outlook.OlkCheckBox.Enabled.md)|
+|[Font](Outlook.OlkCheckBox.Font.md)|
+|[ForeColor](Outlook.OlkCheckBox.ForeColor.md)|
+|[MouseIcon](Outlook.OlkCheckBox.MouseIcon.md)|
+|[MousePointer](Outlook.OlkCheckBox.MousePointer.md)|
+|[TripleState](Outlook.OlkCheckBox.TripleState.md)|
+|[Value](Outlook.OlkCheckBox.Value.md)|
+|[WordWrap](Outlook.OlkCheckBox.WordWrap.md)|
 
 ## See also
 

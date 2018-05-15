@@ -20,7 +20,7 @@ Returns a  **String** that indicates the category or categories that are assigne
 
  _expression_ . **GetAlwaysAssignCategories**( **_Store_** )
 
- _expression_ A variable that represents a **[Conversation](conversation-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns a  **String** that indicates the category or categories that are assigne
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Store_|Required| **[Store](store-object-outlook.md)**|Specifies the store to which categories of items that belong to the conversation should be returned.|
+| _Store_|Required| **[Store](Outlook.Store.md)**|Specifies the store to which categories of items that belong to the conversation should be returned.|
 
 ### Return Value
 
@@ -42,9 +42,9 @@ Multiple categories are delimited by commas in the string of category names that
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the method returns a string of categories that are applied to conversation items in the default delivery store.
 
-If the  **[SetAlwaysAssignCategories](conversation-setalwaysassigncategories-method-outlook.md)** method has not been applied to a conversation, **GetAlwaysAssignCategories** returns **Null** ( **Nothing** in Visual Basic).
+If the  **[SetAlwaysAssignCategories](Outlook.Conversation.SetAlwaysAssignCategories.md)** method has not been applied to a conversation, **GetAlwaysAssignCategories** returns **Null** ( **Nothing** in Visual Basic).
 
-To stop the action of always assigning categories, use the  **[ClearAlwaysAssignCategories](conversation-clearalwaysassigncategories-method-outlook.md)** method. After the **ClearAlwaysAssignCategories** method has been called, **GetAlwaysAssignCategories** returns an empty string.
+To stop the action of always assigning categories, use the  **[ClearAlwaysAssignCategories](Outlook.Conversation.ClearAlwaysAssignCategories.md)** method. After the **ClearAlwaysAssignCategories** method has been called, **GetAlwaysAssignCategories** returns an empty string.
 
 
 ## See also
@@ -53,5 +53,5 @@ To stop the action of always assigning categories, use the  **[ClearAlwaysAssign
 #### Concepts
 
 
-[Conversation Object](conversation-object-outlook.md)
+[Conversation Object](Outlook.Conversation.md)
 

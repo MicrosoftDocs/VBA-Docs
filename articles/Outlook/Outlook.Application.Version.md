@@ -29,5 +29,5 @@ Returns or sets a  **String** indicating the number of the version. Read-only.
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

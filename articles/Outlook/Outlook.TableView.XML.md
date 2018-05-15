@@ -36,5 +36,5 @@ To determine how the XML should be structured when creating views, you can creat
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Sender Property (Outlook)
 
-Returns or sets an [AddressEntry](addressentry-object-outlook.md) object that corresponds to the user of the account from which the[MailItem](mailitem-object-outlook.md) is sent. Read/write.
+Returns or sets an [AddressEntry](Outlook.AddressEntry.md) object that corresponds to the user of the account from which the[MailItem](Outlook.MailItem.md) is sent. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an [AddressEntry](addressentry-object-outlook.md) object that co
 
 ## Remarks
 
-In a session where multiple accounts are defined in the profile, you can set this property to specify the account from which to send a mail item. Set this property to the  **AddressEntry** object of the user that is represented by the[CurrentUser](account-currentuser-property-outlook.md) property of a specific account.
+In a session where multiple accounts are defined in the profile, you can set this property to specify the account from which to send a mail item. Set this property to the  **AddressEntry** object of the user that is represented by the[CurrentUser](Outlook.Account.CurrentUser.md) property of a specific account.
 
 If you set the  **Sender** property to an **AddressEntry** that does not have permissions to send messages on that account, Microsoft Outlook will raise an error.
 
@@ -93,7 +93,7 @@ End Sub
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 #### Other resources
 
 

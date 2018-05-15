@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # UserDefinedProperties Object (Outlook)
 
-Contains a set of  **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** objects representing the user-defined properties defined for a **[Folder](folder-object-outlook.md)** object.
+Contains a set of  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** objects representing the user-defined properties defined for a **[Folder](Outlook.Folder.md)** object.
 
 
 ## Remarks
 
 The members of the  **UserDefinedProperties** collection correspond to the fields under **User-defined fields in folder** that you get in the **Show Fields** dialog.
 
-Use the  **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** property to retrieve the **UserDefinedProperties** object from a **Folder** object.
+Use the  **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** property to retrieve the **UserDefinedProperties** object from a **Folder** object.
 
-Use the  **[Add](userdefinedproperties-add-method-outlook.md)** method to define and add a user-defined property to, and the **[Remove](userdefinedproperties-remove-method-outlook.md)** method to remove an existing user-defined property from, the **UserDefinedProperties** collection. Use the **[Item](userdefinedproperties-item-method-outlook.md)** method to retrieve by name or index, or the **[Find](userdefinedproperties-find-method-outlook.md)** method to locate and retrieve by name, a **UserDefinedProperty** object from the **UserDefinedProperties** collection. Use the **[Refresh](userdefinedproperties-refresh-method-outlook.md)** method to reload the **UserDefinedProperties** collection from the store.
+Use the  **[Add](Outlook.UserDefinedProperties.Add.md)** method to define and add a user-defined property to, and the **[Remove](Outlook.UserDefinedProperties.Remove.md)** method to remove an existing user-defined property from, the **UserDefinedProperties** collection. Use the **[Item](Outlook.UserDefinedProperties.Item.md)** method to retrieve by name or index, or the **[Find](Outlook.UserDefinedProperties.Find.md)** method to locate and retrieve by name, a **UserDefinedProperty** object from the **UserDefinedProperties** collection. Use the **[Refresh](Outlook.UserDefinedProperties.Refresh.md)** method to reload the **UserDefinedProperties** collection from the store.
 
-The  **UserDefinedProperties** collection contains only the definitions of user-defined properties, which are applicable to all Outlook items contained by the folder. To retrieve or change user-defined property values for an Outlook item in that folder, use the **[UserProperties](mailitem-userproperties-property-outlook.md)** property of the Outlook item, such as a **[MailItem](mailitem-object-outlook.md)** object, to retrieve the **[UserProperties](userproperties-object-outlook.md)** collection for that item. You can then use the **[UserProperty](userproperty-object-outlook.md)** object for the appropriate user-defined property to retrieve or change the value of that user-defined property for the Outlook item.
+The  **UserDefinedProperties** collection contains only the definitions of user-defined properties, which are applicable to all Outlook items contained by the folder. To retrieve or change user-defined property values for an Outlook item in that folder, use the **[UserProperties](Outlook.MailItem.UserProperties.md)** property of the Outlook item, such as a **[MailItem](Outlook.MailItem.md)** object, to retrieve the **[UserProperties](Outlook.UserProperties.md)** collection for that item. You can then use the **[UserProperty](Outlook.UserProperty.md)** object for the appropriate user-defined property to retrieve or change the value of that user-defined property for the Outlook item.
 
 
 ## Example
@@ -83,11 +83,11 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Add](userdefinedproperties-add-method-outlook.md)|
-|[Find](userdefinedproperties-find-method-outlook.md)|
-|[Item](userdefinedproperties-item-method-outlook.md)|
-|[Refresh](userdefinedproperties-refresh-method-outlook.md)|
-|[Remove](userdefinedproperties-remove-method-outlook.md)|
+|[Add](Outlook.UserDefinedProperties.Add.md)|
+|[Find](Outlook.UserDefinedProperties.Find.md)|
+|[Item](Outlook.UserDefinedProperties.Item.md)|
+|[Refresh](Outlook.UserDefinedProperties.Refresh.md)|
+|[Remove](Outlook.UserDefinedProperties.Remove.md)|
 
 ## Properties
 

@@ -20,15 +20,15 @@ Represents the  **Solutions** navigation module in the Navigation Pane of an exp
 
 The  **Solutions** navigation module contains folders that developers of individual add-ins want to expose to users in the Navigation Pane. Each solution has one root folder under the **Solutions** module, and each root folder can contain subfolders that hold heterogeneous Outlook items.
 
-To add solution folders programmatically to the  **Solutions** module, use the **SolutionsModule** object, which is derived from the **[NavigationModule](navigationmodule-object-outlook.md)** object.
+To add solution folders programmatically to the  **Solutions** module, use the **SolutionsModule** object, which is derived from the **[NavigationModule](Outlook.NavigationModule.md)** object.
 
-To obtain an object for the  **Solutions** module, you must first determine whether the **Solutions** module exists in the Navigation Pane. To do that, use the **Modules** property for the **[NavigationPane](navigationpane-object-outlook.md)** object to obtain a **[NavigationModules](navigationmodules-object-outlook.md)** collection, and then specify the argument **olModuleSolutions** in the **[GetNavigationModule](navigationmodules-getnavigationmodule-method-outlook.md)** method of the **NavigationModules** collection.
+To obtain an object for the  **Solutions** module, you must first determine whether the **Solutions** module exists in the Navigation Pane. To do that, use the **Modules** property for the **[NavigationPane](Outlook.NavigationPane.md)** object to obtain a **[NavigationModules](Outlook.NavigationModules.md)** collection, and then specify the argument **olModuleSolutions** in the **[GetNavigationModule](Outlook.NavigationModules.GetNavigationModule.md)** method of the **NavigationModules** collection.
 
 If the call is successful, you can then cast the returned  **NavigationModule** object reference as a **SolutionsModule** object to access the properties and methods for that navigation module.
 
-To add a solution root folder and its subfolders, pass a  **[Folder](folder-object-outlook.md)** object reference to the **[AddSolution](solutionsmodule-addsolution-method-outlook.md)** method of the **SolutionsModule** object. The default position of the **Solutions** module on the Navigation Pane is '9'.
+To add a solution root folder and its subfolders, pass a  **[Folder](Outlook.Folder.md)** object reference to the **[AddSolution](Outlook.SolutionsModule.AddSolution.md)** method of the **SolutionsModule** object. The default position of the **Solutions** module on the Navigation Pane is '9'.
 
-If no solutions have been added to the  **Solutions** module, it is not visible in the Navigation Pane, and any attempt to set the **[Position](solutionsmodule-position-property-outlook.md)** or the **[Visible](solutionsmodule-visible-property-outlook.md)** properties of the **SolutionsModule** object raises an error. In addition, any attempt to set the **SolutionsModule** as the **[CurrentModule](navigationpane-currentmodule-property-outlook.md)** property of the **NavigationPane** object raises an error.
+If no solutions have been added to the  **Solutions** module, it is not visible in the Navigation Pane, and any attempt to set the **[Position](Outlook.SolutionsModule.Position.md)** or the **[Visible](Outlook.SolutionsModule.Visible.md)** properties of the **SolutionsModule** object raises an error. In addition, any attempt to set the **SolutionsModule** as the **[CurrentModule](Outlook.NavigationPane.CurrentModule.md)** property of the **NavigationPane** object raises an error.
 
 
 ## Example
@@ -42,7 +42,7 @@ To see an example of an add-in that adds folders to the  **Solutions** module, s
 
 |**Name**|
 |:-----|
-|[AddSolution](solutionsmodule-addsolution-method-outlook.md)|
+|[AddSolution](Outlook.SolutionsModule.AddSolution.md)|
 
 ## Properties
 
@@ -50,14 +50,14 @@ To see an example of an add-in that adds folders to the  **Solutions** module, s
 
 |**Name**|
 |:-----|
-|[Application](solutionsmodule-application-property-outlook.md)|
-|[Class](solutionsmodule-class-property-outlook.md)|
-|[Name](solutionsmodule-name-property-outlook.md)|
-|[NavigationModuleType](solutionsmodule-navigationmoduletype-property-outlook.md)|
-|[Parent](solutionsmodule-parent-property-outlook.md)|
-|[Position](solutionsmodule-position-property-outlook.md)|
+|[Application](Outlook.SolutionsModule.Application.md)|
+|[Class](Outlook.SolutionsModule.Class.md)|
+|[Name](Outlook.SolutionsModule.Name.md)|
+|[NavigationModuleType](Outlook.SolutionsModule.NavigationModuleType.md)|
+|[Parent](Outlook.SolutionsModule.Parent.md)|
+|[Position](Outlook.SolutionsModule.Position.md)|
 |[Session](solutionsmodule-session-property-outlook.md)|
-|[Visible](solutionsmodule-visible-property-outlook.md)|
+|[Visible](Outlook.SolutionsModule.Visible.md)|
 
 ## See also
 

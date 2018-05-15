@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Close Method (Outlook)
 
-Closes and optionally saves changes to the  **[SharingItem](sharingitem-object-outlook.md)** .
+Closes and optionally saves changes to the  **[SharingItem](Outlook.SharingItem.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Closes and optionally saves changes to the  **[SharingItem](sharingitem-object-o
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SaveMode_|Required| **[OlInspectorClose](olinspectorclose-enumeration-outlook.md)**|The close behavior. If the item displayed within the inspector has not been changed, this argument has no effect.|
+| _SaveMode_|Required| **[OlInspectorClose](Outlook.OlInspectorClose.md)**|The close behavior. If the item displayed within the inspector has not been changed, this argument has no effect.|
 
 ## See also
 
@@ -37,5 +37,5 @@ Closes and optionally saves changes to the  **[SharingItem](sharingitem-object-o
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

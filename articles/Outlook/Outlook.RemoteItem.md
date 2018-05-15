@@ -18,7 +18,7 @@ Represents a remote item in an Inbox folder.
 
 ## Remarks
 
-The  **RemoteItem** object is similar to the **[MailItem](mailitem-object-outlook.md)** object, but it contains only the **Subject**,  **Received Date** and **Time**,  **Sender**,  **Size**, and the first 256 characters of the body of the message. It is used to give someone connecting in remote mode enough information to decide whether or not to download the corresponding mail message. However, the headers in items contained in an Offline Folders file (.ost) cannot be accessed using the  **RemoteItem** object.
+The  **RemoteItem** object is similar to the **[MailItem](Outlook.MailItem.md)** object, but it contains only the **Subject**,  **Received Date** and **Time**,  **Sender**,  **Size**, and the first 256 characters of the body of the message. It is used to give someone connecting in remote mode enough information to decide whether or not to download the corresponding mail message. However, the headers in items contained in an Offline Folders file (.ost) cannot be accessed using the  **RemoteItem** object.
 
 Unlike other Microsoft Outlook objects, you cannot create this object. Remote items are created by Outlook automatically when you use a Remote Access System (RAS) connection. Each  **RemoteItem** object created on the local system corresponds to a preexisting **MailItem** object on the remote system.
 
@@ -37,32 +37,32 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 |**Name**|
 |:-----|
-|[AfterWrite](remoteitem-afterwrite-event-outlook.md)|
-|[AttachmentAdd](remoteitem-attachmentadd-event-outlook.md)|
-|[AttachmentRead](remoteitem-attachmentread-event-outlook.md)|
-|[AttachmentRemove](remoteitem-attachmentremove-event-outlook.md)|
-|[BeforeAttachmentAdd](remoteitem-beforeattachmentadd-event-outlook.md)|
-|[BeforeAttachmentPreview](remoteitem-beforeattachmentpreview-event-outlook.md)|
-|[BeforeAttachmentRead](remoteitem-beforeattachmentread-event-outlook.md)|
-|[BeforeAttachmentSave](remoteitem-beforeattachmentsave-event-outlook.md)|
-|[BeforeAttachmentWriteToTempFile](remoteitem-beforeattachmentwritetotempfile-event-outlook.md)|
-|[BeforeAutoSave](remoteitem-beforeautosave-event-outlook.md)|
-|[BeforeCheckNames](remoteitem-beforechecknames-event-outlook.md)|
-|[BeforeDelete](remoteitem-beforedelete-event-outlook.md)|
-|[BeforeRead](remoteitem-beforeread-event-outlook.md)|
-|[Close](remoteitem-close-event-outlook.md)|
-|[CustomAction](remoteitem-customaction-event-outlook.md)|
-|[CustomPropertyChange](remoteitem-custompropertychange-event-outlook.md)|
-|[Forward](remoteitem-forward-event-outlook.md)|
-|[Open](remoteitem-open-event-outlook.md)|
-|[PropertyChange](remoteitem-propertychange-event-outlook.md)|
-|[Read](remoteitem-read-event-outlook.md)|
-|[ReadComplete](remoteitem-readcomplete-event-outlook.md)|
-|[Reply](remoteitem-reply-event-outlook.md)|
-|[ReplyAll](remoteitem-replyall-event-outlook.md)|
-|[Send](remoteitem-send-event-outlook.md)|
-|[Unload](remoteitem-unload-event-outlook.md)|
-|[Write](remoteitem-write-event-outlook.md)|
+|[AfterWrite](Outlook.RemoteItem.AfterWrite.md)|
+|[AttachmentAdd](Outlook.RemoteItem.AttachmentAdd.md)|
+|[AttachmentRead](Outlook.RemoteItem.AttachmentRead.md)|
+|[AttachmentRemove](Outlook.RemoteItem.AttachmentRemove.md)|
+|[BeforeAttachmentAdd](Outlook.RemoteItem.BeforeAttachmentAdd.md)|
+|[BeforeAttachmentPreview](Outlook.RemoteItem.BeforeAttachmentPreview.md)|
+|[BeforeAttachmentRead](Outlook.RemoteItem.BeforeAttachmentRead.md)|
+|[BeforeAttachmentSave](Outlook.RemoteItem.BeforeAttachmentSave.md)|
+|[BeforeAttachmentWriteToTempFile](Outlook.RemoteItem.BeforeAttachmentWriteToTempFile.md)|
+|[BeforeAutoSave](Outlook.RemoteItem.BeforeAutoSave.md)|
+|[BeforeCheckNames](Outlook.RemoteItem.BeforeCheckNames.md)|
+|[BeforeDelete](Outlook.RemoteItem.BeforeDelete.md)|
+|[BeforeRead](Outlook.RemoteItem.BeforeRead.md)|
+|[Close](Outlook.RemoteItem.Close(even).md)|
+|[CustomAction](Outlook.RemoteItem.CustomAction.md)|
+|[CustomPropertyChange](Outlook.RemoteItem.CustomPropertyChange.md)|
+|[Forward](Outlook.RemoteItem.Forward.md)|
+|[Open](Outlook.RemoteItem.Open.md)|
+|[PropertyChange](Outlook.RemoteItem.PropertyChange.md)|
+|[Read](Outlook.RemoteItem.Read.md)|
+|[ReadComplete](Outlook.remoteitem.readcomplete.md)|
+|[Reply](Outlook.RemoteItem.Reply.md)|
+|[ReplyAll](Outlook.RemoteItem.ReplyAll.md)|
+|[Send](Outlook.RemoteItem.Send.md)|
+|[Unload](Outlook.RemoteItem.Unload.md)|
+|[Write](Outlook.RemoteItem.Write.md)|
 
 ## Methods
 
@@ -70,16 +70,16 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 |**Name**|
 |:-----|
-|[Close](remoteitem-close-method-outlook.md)|
-|[Copy](remoteitem-copy-method-outlook.md)|
-|[Delete](remoteitem-delete-method-outlook.md)|
-|[Display](remoteitem-display-method-outlook.md)|
-|[GetConversation](remoteitem-getconversation-method-outlook.md)|
-|[Move](remoteitem-move-method-outlook.md)|
-|[PrintOut](remoteitem-printout-method-outlook.md)|
-|[Save](remoteitem-save-method-outlook.md)|
-|[SaveAs](remoteitem-saveas-method-outlook.md)|
-|[ShowCategoriesDialog](remoteitem-showcategoriesdialog-method-outlook.md)|
+|[Close](Outlook.RemoteItem.Close(method).md)|
+|[Copy](Outlook.RemoteItem.Copy.md)|
+|[Delete](Outlook.RemoteItem.Delete.md)|
+|[Display](Outlook.RemoteItem.Display.md)|
+|[GetConversation](Outlook.RemoteItem.GetConversation.md)|
+|[Move](Outlook.RemoteItem.Move.md)|
+|[PrintOut](Outlook.RemoteItem.PrintOut.md)|
+|[Save](Outlook.RemoteItem.Save.md)|
+|[SaveAs](Outlook.RemoteItem.SaveAs.md)|
+|[ShowCategoriesDialog](Outlook.RemoteItem.ShowCategoriesDialog.md)|
 
 ## Properties
 
@@ -87,47 +87,47 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 |**Name**|
 |:-----|
-|[Actions](remoteitem-actions-property-outlook.md)|
-|[Application](remoteitem-application-property-outlook.md)|
-|[Attachments](remoteitem-attachments-property-outlook.md)|
-|[AutoResolvedWinner](remoteitem-autoresolvedwinner-property-outlook.md)|
-|[BillingInformation](remoteitem-billinginformation-property-outlook.md)|
-|[Body](remoteitem-body-property-outlook.md)|
-|[Categories](remoteitem-categories-property-outlook.md)|
-|[Class](remoteitem-class-property-outlook.md)|
-|[Companies](remoteitem-companies-property-outlook.md)|
-|[Conflicts](remoteitem-conflicts-property-outlook.md)|
-|[ConversationID](remoteitem-conversationid-property-outlook.md)|
-|[ConversationIndex](remoteitem-conversationindex-property-outlook.md)|
-|[ConversationTopic](remoteitem-conversationtopic-property-outlook.md)|
-|[CreationTime](remoteitem-creationtime-property-outlook.md)|
-|[DownloadState](remoteitem-downloadstate-property-outlook.md)|
-|[EntryID](remoteitem-entryid-property-outlook.md)|
-|[FormDescription](remoteitem-formdescription-property-outlook.md)|
-|[GetInspector](remoteitem-getinspector-property-outlook.md)|
-|[HasAttachment](remoteitem-hasattachment-property-outlook.md)|
-|[Importance](remoteitem-importance-property-outlook.md)|
-|[IsConflict](remoteitem-isconflict-property-outlook.md)|
-|[ItemProperties](remoteitem-itemproperties-property-outlook.md)|
-|[LastModificationTime](remoteitem-lastmodificationtime-property-outlook.md)|
-|[MarkForDownload](remoteitem-markfordownload-property-outlook.md)|
-|[MessageClass](remoteitem-messageclass-property-outlook.md)|
-|[Mileage](remoteitem-mileage-property-outlook.md)|
-|[NoAging](remoteitem-noaging-property-outlook.md)|
-|[OutlookInternalVersion](remoteitem-outlookinternalversion-property-outlook.md)|
-|[OutlookVersion](remoteitem-outlookversion-property-outlook.md)|
-|[Parent](remoteitem-parent-property-outlook.md)|
-|[PropertyAccessor](remoteitem-propertyaccessor-property-outlook.md)|
-|[RemoteMessageClass](remoteitem-remotemessageclass-property-outlook.md)|
-|[Saved](remoteitem-saved-property-outlook.md)|
-|[Sensitivity](remoteitem-sensitivity-property-outlook.md)|
-|[Session](remoteitem-session-property-outlook.md)|
-|[Size](remoteitem-size-property-outlook.md)|
-|[Subject](remoteitem-subject-property-outlook.md)|
-|[TransferSize](remoteitem-transfersize-property-outlook.md)|
-|[TransferTime](remoteitem-transfertime-property-outlook.md)|
-|[UnRead](remoteitem-unread-property-outlook.md)|
-|[UserProperties](remoteitem-userproperties-property-outlook.md)|
+|[Actions](Outlook.RemoteItem.Actions.md)|
+|[Application](Outlook.RemoteItem.Application.md)|
+|[Attachments](Outlook.RemoteItem.Attachments.md)|
+|[AutoResolvedWinner](Outlook.RemoteItem.AutoResolvedWinner.md)|
+|[BillingInformation](Outlook.RemoteItem.BillingInformation.md)|
+|[Body](Outlook.RemoteItem.Body.md)|
+|[Categories](Outlook.RemoteItem.Categories.md)|
+|[Class](Outlook.RemoteItem.Class.md)|
+|[Companies](Outlook.RemoteItem.Companies.md)|
+|[Conflicts](Outlook.RemoteItem.Conflicts.md)|
+|[ConversationID](Outlook.RemoteItem.ConversationID.md)|
+|[ConversationIndex](Outlook.RemoteItem.ConversationIndex.md)|
+|[ConversationTopic](Outlook.RemoteItem.ConversationTopic.md)|
+|[CreationTime](Outlook.RemoteItem.CreationTime.md)|
+|[DownloadState](Outlook.RemoteItem.DownloadState.md)|
+|[EntryID](Outlook.RemoteItem.EntryID.md)|
+|[FormDescription](Outlook.RemoteItem.FormDescription.md)|
+|[GetInspector](Outlook.RemoteItem.GetInspector.md)|
+|[HasAttachment](Outlook.RemoteItem.HasAttachment.md)|
+|[Importance](Outlook.RemoteItem.Importance.md)|
+|[IsConflict](Outlook.RemoteItem.IsConflict.md)|
+|[ItemProperties](Outlook.RemoteItem.ItemProperties.md)|
+|[LastModificationTime](Outlook.RemoteItem.LastModificationTime.md)|
+|[MarkForDownload](Outlook.RemoteItem.MarkForDownload.md)|
+|[MessageClass](Outlook.RemoteItem.MessageClass.md)|
+|[Mileage](Outlook.RemoteItem.Mileage.md)|
+|[NoAging](Outlook.RemoteItem.NoAging.md)|
+|[OutlookInternalVersion](Outlook.RemoteItem.OutlookInternalVersion.md)|
+|[OutlookVersion](Outlook.RemoteItem.OutlookVersion.md)|
+|[Parent](Outlook.RemoteItem.Parent.md)|
+|[PropertyAccessor](Outlook.RemoteItem.PropertyAccessor.md)|
+|[RemoteMessageClass](Outlook.RemoteItem.RemoteMessageClass.md)|
+|[Saved](Outlook.RemoteItem.Saved.md)|
+|[Sensitivity](Outlook.RemoteItem.Sensitivity.md)|
+|[Session](Outlook.RemoteItem.Session.md)|
+|[Size](Outlook.RemoteItem.Size.md)|
+|[Subject](Outlook.RemoteItem.Subject.md)|
+|[TransferSize](Outlook.RemoteItem.TransferSize.md)|
+|[TransferTime](Outlook.RemoteItem.TransferTime.md)|
+|[UnRead](Outlook.RemoteItem.UnRead.md)|
+|[UserProperties](Outlook.RemoteItem.UserProperties.md)|
 
 ## See also
 

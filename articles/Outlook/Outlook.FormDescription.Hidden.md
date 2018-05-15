@@ -34,5 +34,5 @@ The custom form will not appear on the menu or in the  **Choose Form** dialog bo
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

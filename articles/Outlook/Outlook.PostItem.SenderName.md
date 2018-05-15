@@ -27,7 +27,7 @@ Returns a  **String** indicating the display name of the sender for the Outlook 
 
 This property corresponds to the MAPI property  **PidTagSenderName** .
 
-If you wish to retrieve the fully qualified e-mail address of the sender, use the  **[SenderEmailAddress](postitem-senderemailaddress-property-outlook.md)** property.
+If you wish to retrieve the fully qualified e-mail address of the sender, use the  **[SenderEmailAddress](Outlook.PostItem.SenderEmailAddress.md)** property.
 
 
 ## See also
@@ -36,5 +36,5 @@ If you wish to retrieve the fully qualified e-mail address of the sender, use th
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

@@ -36,5 +36,5 @@ If the control style is  **olComboBoxStyleListBox** , then this method copies th
 #### Concepts
 
 
-[OlkComboBox Object](olkcombobox-object-outlook.md)
+[OlkComboBox Object](Outlook.OlkComboBox.md)
 

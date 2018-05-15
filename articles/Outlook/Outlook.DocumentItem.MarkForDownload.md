@@ -29,5 +29,5 @@ This object, member, or enumeration will be deprecated and is not intended to be
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

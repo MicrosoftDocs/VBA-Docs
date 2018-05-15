@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the type of entry for this address su
 #### Concepts
 
 
-[AddressEntry Object](addressentry-object-outlook.md)
+[AddressEntry Object](Outlook.AddressEntry.md)
 

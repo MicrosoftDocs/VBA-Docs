@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Stores.Item Method (Outlook)
 
-Returns a  **[Store](store-object-outlook.md)** object that is specified by _Index_ . Read-only.
+Returns a  **[Store](Outlook.Store.md)** object that is specified by _Index_ . Read-only.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Returns a  **[Store](store-object-outlook.md)** object that is specified by _Ind
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either an  **Integer** that specifies a one-based index into the **Stores** collection, or a **String** value that specifies the **[DisplayName](store-displayname-property-outlook.md)** of a **Store** in the **Stores** collection.|
+| _Index_|Required| **Variant**|Either an  **Integer** that specifies a one-based index into the **Stores** collection, or a **String** value that specifies the **[DisplayName](Outlook.Store.DisplayName.md)** of a **Store** in the **Stores** collection.|
 
 ### Return Value
 
-A  **Store** object in the parent **[Stores](stores-object-outlook.md)** collection, as specified by _Index_ .
+A  **Store** object in the parent **[Stores](Outlook.Stores.md)** collection, as specified by _Index_ .
 
 
 ## Remarks
@@ -49,5 +49,5 @@ If  _Index_ is a string and no item can be found by that name, an error will be 
 #### Concepts
 
 
-[Stores Object](stores-object-outlook.md)
+[Stores Object](Outlook.Stores.md)
 

@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # PeopleView.ViewType Property (Outlook)
-Returns an [OlViewType](olviewtype-enumeration-outlook.md) constant that indicates the view type of the view. Read-only.
+Returns an [OlViewType](Outlook.OlViewType.md) constant that indicates the view type of the view. Read-only.
 
 ## Version information
 
@@ -35,6 +35,6 @@ Version Added: Outlook 2013
 #### Other resources
 
 
-[PeopleView Object](peopleview-object-outlook.md)
+[PeopleView Object](Outlook.peopleview.md)
 [PeopleView Members](http://msdn.microsoft.com/library/87b0295a-ab7d-28dd-cdf8-7e4331c3b802%28Office.15%29.aspx)
 

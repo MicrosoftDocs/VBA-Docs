@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** if a reminder has been set
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

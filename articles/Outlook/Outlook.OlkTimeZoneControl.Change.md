@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeZoneControl.Change Event (Outlook)
 
-Occurs when the  **[Value](olktimezonecontrol-value-property-outlook.md)** property changes.
+Occurs when the  **[Value](Outlook.OlkTimeZoneControl.Value.md)** property changes.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Occurs when the  **[Value](olktimezonecontrol-value-property-outlook.md)** prope
 #### Concepts
 
 
-[OlkTimeZoneControl Object](olktimezonecontrol-object-outlook.md)
+[OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

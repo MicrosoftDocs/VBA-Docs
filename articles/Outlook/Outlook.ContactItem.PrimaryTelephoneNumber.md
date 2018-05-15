@@ -29,5 +29,5 @@ Returns or sets a  **String** specifying the primary telephone number for the co
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

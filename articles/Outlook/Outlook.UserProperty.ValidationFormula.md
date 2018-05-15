@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the validation formula for the user pro
 
 ## Remarks
 
-The validation formula is used by Outlook to validate the  **[Value](userproperty-value-property-outlook.md)** property when an item is saved.
+The validation formula is used by Outlook to validate the  **[Value](Outlook.UserProperty.Value.md)** property when an item is saved.
 
 
 ## Example
@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[UserProperty Object](userproperty-object-outlook.md)
+[UserProperty Object](Outlook.UserProperty.md)
 

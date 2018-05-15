@@ -25,7 +25,7 @@ Returns or sets a  **Variant** that represents the content of the control. Read/
 
 ## Remarks
 
-The value is the same as the value of  **[Text](olktextbox-text-property-outlook.md)** , except that this property is **Variant** and **Text** is strongly typed as **String** .
+The value is the same as the value of  **[Text](Outlook.OlkTextBox.Text.md)** , except that this property is **Variant** and **Text** is strongly typed as **String** .
 
 
 ## See also
@@ -34,5 +34,5 @@ The value is the same as the value of  **[Text](olktextbox-text-property-outlook
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

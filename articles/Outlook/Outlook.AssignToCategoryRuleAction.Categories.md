@@ -36,5 +36,5 @@ This property uses the character specified in the value name,  **sList** , under
 #### Concepts
 
 
-[AssignToCategoryRuleAction Object](assigntocategoryruleaction-object-outlook.md)
+[AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 

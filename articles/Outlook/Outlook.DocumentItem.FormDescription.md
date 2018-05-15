@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentItem.FormDescription Property (Outlook)
 
-Returns the  **[FormDescription](formdescription-object-outlook.md)** object that represents the form description for the specified Outlook item. Read-only.
+Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified Outlook item. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns the  **[FormDescription](formdescription-object-outlook.md)** object tha
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

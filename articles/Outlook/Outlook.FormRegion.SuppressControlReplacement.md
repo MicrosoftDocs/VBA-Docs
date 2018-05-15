@@ -34,5 +34,5 @@ For more information on Outlook automatically replacing a Forms 2.0 control by a
 #### Concepts
 
 
-[FormRegion Object](formregion-object-outlook.md)
+[FormRegion Object](Outlook.FormRegion.md)
 

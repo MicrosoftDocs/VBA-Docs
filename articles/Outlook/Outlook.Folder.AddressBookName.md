@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.AddressBookName Property (Outlook)
 
-Returns or sets a  **String** that indicates the Address Book name for the **[Folder](folder-object-outlook.md)** object representing a Contacts folder. Read/write.
+Returns or sets a  **String** that indicates the Address Book name for the **[Folder](Outlook.Folder.md)** object representing a Contacts folder. Read/write.
 
 
 ## Syntax
@@ -88,5 +88,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

@@ -38,12 +38,12 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Change](olksenderphoto-change-event-outlook.md)|
-|[Click](olksenderphoto-click-event-outlook.md)|
-|[DoubleClick](olksenderphoto-doubleclick-event-outlook.md)|
-|[MouseDown](olksenderphoto-mousedown-event-outlook.md)|
-|[MouseMove](olksenderphoto-mousemove-event-outlook.md)|
-|[MouseUp](olksenderphoto-mouseup-event-outlook.md)|
+|[Change](Outlook.OlkSenderPhoto.Change.md)|
+|[Click](Outlook.OlkSenderPhoto.Click.md)|
+|[DoubleClick](Outlook.OlkSenderPhoto.DoubleClick.md)|
+|[MouseDown](Outlook.OlkSenderPhoto.MouseDown.md)|
+|[MouseMove](Outlook.OlkSenderPhoto.MouseMove.md)|
+|[MouseUp](Outlook.OlkSenderPhoto.MouseUp.md)|
 
 ## Properties
 
@@ -51,11 +51,11 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Enabled](olksenderphoto-enabled-property-outlook.md)|
-|[MouseIcon](olksenderphoto-mouseicon-property-outlook.md)|
-|[MousePointer](olksenderphoto-mousepointer-property-outlook.md)|
-|[PreferredHeight](olksenderphoto-preferredheight-property-outlook.md)|
-|[PreferredWidth](olksenderphoto-preferredwidth-property-outlook.md)|
+|[Enabled](Outlook.OlkSenderPhoto.Enabled.md)|
+|[MouseIcon](Outlook.OlkSenderPhoto.MouseIcon.md)|
+|[MousePointer](Outlook.OlkSenderPhoto.MousePointer.md)|
+|[PreferredHeight](Outlook.OlkSenderPhoto.PreferredHeight.md)|
+|[PreferredWidth](Outlook.OlkSenderPhoto.PreferredWidth.md)|
 
 ## See also
 

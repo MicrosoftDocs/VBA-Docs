@@ -36,5 +36,5 @@ The  **Detail** property is optional for an adjoining form region.
 #### Concepts
 
 
-[FormRegion Object](formregion-object-outlook.md)
+[FormRegion Object](Outlook.FormRegion.md)
 

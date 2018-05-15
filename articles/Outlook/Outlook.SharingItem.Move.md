@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Move Method (Outlook)
 
-Moves a  **[SharingItem](sharingitem-object-outlook.md)** to a new folder.
+Moves a  **[SharingItem](Outlook.SharingItem.md)** to a new folder.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Moves a  **[SharingItem](sharingitem-object-outlook.md)** to a new folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestFldr_|Required| **[Folder](folder-object-outlook.md)**|An expression that returns a  **Folder** object. The destination folder.|
+| _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a  **Folder** object. The destination folder.|
 
 ### Return Value
 
@@ -42,5 +42,5 @@ An  **Object** value that represents the item that has been moved to the designa
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

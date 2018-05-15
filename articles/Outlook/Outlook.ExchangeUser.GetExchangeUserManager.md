@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.GetExchangeUserManager Method (Outlook)
 
-Returns an  **[ExchangeUser](exchangeuser-object-outlook.md)** object that represents the manager of the Exchange user.
+Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents the manager of the Exchange user.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ An  **ExchangeUser** object that represents the manager of the Exchange user.
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

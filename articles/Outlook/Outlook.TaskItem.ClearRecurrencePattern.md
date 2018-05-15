@@ -29,5 +29,5 @@ Removes the recurrence settings and restores the single-occurrence state for an 
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

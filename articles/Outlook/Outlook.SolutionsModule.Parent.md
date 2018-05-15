@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SolutionsModule.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified **[SolutionsModule](solutionsmodule-object-outlook.md)** object. Read-only.
+Returns the parent  **Object** of the specified **[SolutionsModule](Outlook.SolutionsModule.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified **[SolutionsModule](solutionsmod
 
 ## Remarks
 
-The parent of a  **SolutionsModule** object returns a **[NavigationPane](navigationpane-object-outlook.md)** object.
+The parent of a  **SolutionsModule** object returns a **[NavigationPane](Outlook.NavigationPane.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of a  **SolutionsModule** object returns a **[NavigationPane](navigat
 #### Concepts
 
 
-[SolutionsModule Object](solutionsmodule-object-outlook.md)
+[SolutionsModule Object](Outlook.SolutionsModule.md)
 

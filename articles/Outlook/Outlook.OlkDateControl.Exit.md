@@ -35,5 +35,5 @@ _expression_ A variable that represents an **OlkDateControl** object.
 
 #### Concepts
 
-- [OlkDateControl Object](olkdatecontrol-object-outlook.md)
+- [OlkDateControl Object](Outlook.OlkDateControl.md)
 

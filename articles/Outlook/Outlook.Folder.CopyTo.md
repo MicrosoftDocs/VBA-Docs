@@ -29,7 +29,7 @@ Copies the current folder in its entirety to the destination folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestinationFolder_|Required| **[Folder](folder-object-outlook.md)**|Required  **Folder** object that represents the destination folder.|
+| _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Required  **Folder** object that represents the destination folder.|
 
 ### Return Value
 
@@ -67,5 +67,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

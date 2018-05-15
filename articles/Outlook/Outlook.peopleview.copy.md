@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # PeopleView.Copy Method (Outlook)
-Creates a new [View](view-object-outlook.md) object based on the existing[PeopleView](peopleview-object-outlook.md) object.
+Creates a new [View](Outlook.View.md) object based on the existing[PeopleView](Outlook.peopleview.md) object.
 
 ## Version information
 
@@ -32,7 +32,7 @@ Version Added: Outlook 2013
 |:-----|:-----|:-----|:-----|
 |||||
 | _Name_|Required| **String**|The name of the new view.|
-| _SaveOption_|Optional|[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)|The save option for the new view.|
+| _SaveOption_|Optional|[OlViewSaveOption](Outlook.OlViewSaveOption.md)|The save option for the new view.|
 
 ## See also
 
@@ -40,6 +40,6 @@ Version Added: Outlook 2013
 #### Other resources
 
 
-[PeopleView Object](peopleview-object-outlook.md)
+[PeopleView Object](Outlook.peopleview.md)
 [PeopleView Members](http://msdn.microsoft.com/library/87b0295a-ab7d-28dd-cdf8-7e4331c3b802%28Office.15%29.aspx)
 

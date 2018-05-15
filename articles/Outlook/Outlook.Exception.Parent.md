@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Exception Object](exception-object-outlook.md)
+[Exception Object](Outlook.Exception.md)
 

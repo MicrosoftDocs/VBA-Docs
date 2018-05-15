@@ -25,7 +25,7 @@ Creates a reply, pre-addressed to the original sender, from the original message
 
 ### Return Value
 
-A  **[MailItem](mailitem-object-outlook.md)** object that represents the reply.
+A  **[MailItem](Outlook.MailItem.md)** object that represents the reply.
 
 
 ## See also
@@ -34,5 +34,5 @@ A  **[MailItem](mailitem-object-outlook.md)** object that represents the reply.
 #### Concepts
 
 
-[JournalItem Object](journalitem-object-outlook.md)
+[JournalItem Object](Outlook.JournalItem.md)
 

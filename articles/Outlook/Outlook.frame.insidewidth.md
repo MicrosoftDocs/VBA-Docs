@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Frame.InsideWidth Property (Outlook Forms Script)
 
-Returns a  **Long** that specifies the width, in points, of the client region inside a **[Frame](frame-object-outlook-forms-script.md)**. Read-only.
+Returns a  **Long** that specifies the width, in points, of the client region inside a **[Frame](Outlook.frame.md)**. Read-only.
 
 
 ## Syntax

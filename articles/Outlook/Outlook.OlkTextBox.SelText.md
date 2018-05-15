@@ -25,7 +25,7 @@ Returns a  **String** that represents the currently selected portion of the valu
 
 ## Remarks
 
- **SelText** represents the current selection, which is a portion of the control's **[Value](olktextbox-value-property-outlook.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](olktextbox-maxlength-property-outlook.md)** .
+ **SelText** represents the current selection, which is a portion of the control's **[Value](Outlook.OlkTextBox.Value.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkTextBox.MaxLength.md)** .
 
 The default value is an empty string.
 
@@ -36,5 +36,5 @@ The default value is an empty string.
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

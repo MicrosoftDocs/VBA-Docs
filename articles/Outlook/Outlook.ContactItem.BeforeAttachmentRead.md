@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ContactItem.BeforeAttachmentRead Event (Outlook)
 
-Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](attachment-object-outlook.md)** object.
+Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 
 
 ## Syntax
@@ -35,5 +35,5 @@ Occurs before an attachment associated with an instance of the parent object is 
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

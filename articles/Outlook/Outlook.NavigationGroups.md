@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # NavigationGroups Object (Outlook)
 
-Contains a set of  **[NavigationGroup](navigationgroup-object-outlook.md)** objects that represent the navigation groups displayed by a navigation module in the Navigation Pane.
+Contains a set of  **[NavigationGroup](Outlook.NavigationGroup.md)** objects that represent the navigation groups displayed by a navigation module in the Navigation Pane.
 
 
 ## Remarks
 
-Use the  **[NavigationGroups](mailmodule-navigationgroups-property-outlook.md)** property of the parent navigation module, such as a **[MailModule](mailmodule-object-outlook.md)** object, to return a **NavigationGroups** object.
+Use the  **[NavigationGroups](Outlook.MailModule.NavigationGroups.md)** property of the parent navigation module, such as a **[MailModule](Outlook.MailModule.md)** object, to return a **NavigationGroups** object.
 
-Use the  **[Create](navigationgroups-create-method-outlook.md)** method to create a new **NavigationGroup** object and add it to the collection. Use the **[Item](navigationgroups-item-method-outlook.md)** method to retrieve a **NavigationGroup** object from the collection. Use the **[Delete](navigationgroups-delete-method-outlook.md)** method of the **NavigationGroups** collection to create a new **NavigationGroup** object.
+Use the  **[Create](Outlook.NavigationGroups.Create.md)** method to create a new **NavigationGroup** object and add it to the collection. Use the **[Item](Outlook.NavigationGroups.Item.md)** method to retrieve a **NavigationGroup** object from the collection. Use the **[Delete](Outlook.NavigationGroups.Delete.md)** method of the **NavigationGroups** collection to create a new **NavigationGroup** object.
 
-Use the  **[GetDefaultNavigationGroup](navigationgroups-getdefaultnavigationgroup-method-outlook.md)** to return the default navigation group for a specified group type.
+Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNavigationGroup.md)** to return the default navigation group for a specified group type.
 
 
 ## Events
@@ -31,9 +31,9 @@ Use the  **[GetDefaultNavigationGroup](navigationgroups-getdefaultnavigationgrou
 
 |**Name**|
 |:-----|
-|[NavigationFolderAdd](navigationgroups-navigationfolderadd-event-outlook.md)|
-|[NavigationFolderRemove](navigationgroups-navigationfolderremove-event-outlook.md)|
-|[SelectedChange](navigationgroups-selectedchange-event-outlook.md)|
+|[NavigationFolderAdd](Outlook.NavigationGroups.NavigationFolderAdd.md)|
+|[NavigationFolderRemove](Outlook.NavigationGroups.NavigationFolderRemove.md)|
+|[SelectedChange](Outlook.NavigationGroups.SelectedChange.md)|
 
 ## Methods
 
@@ -41,10 +41,10 @@ Use the  **[GetDefaultNavigationGroup](navigationgroups-getdefaultnavigationgrou
 
 |**Name**|
 |:-----|
-|[Create](navigationgroups-create-method-outlook.md)|
-|[Delete](navigationgroups-delete-method-outlook.md)|
-|[GetDefaultNavigationGroup](navigationgroups-getdefaultnavigationgroup-method-outlook.md)|
-|[Item](navigationgroups-item-method-outlook.md)|
+|[Create](Outlook.NavigationGroups.Create.md)|
+|[Delete](Outlook.NavigationGroups.Delete.md)|
+|[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNavigationGroup.md)|
+|[Item](Outlook.NavigationGroups.Item.md)|
 
 ## Properties
 
@@ -52,7 +52,7 @@ Use the  **[GetDefaultNavigationGroup](navigationgroups-getdefaultnavigationgrou
 
 |**Name**|
 |:-----|
-|[Application](navigationgroups-application-property-outlook.md)|
+|[Application](Outlook.NavigationGroups.Application.md)|
 |[Class](navigationgroups-class-property-outlook.md)|
 |[Count](navigationgroups-count-property-outlook.md)|
 |[Parent](navigationgroups-parent-property-outlook.md)|

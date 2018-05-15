@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Tab Object (Outlook Forms Script)](tab-object-outlook-forms-script.md)
+-  [Tab Object (Outlook Forms Script)](Outlook.tab.md)
     
 -  [Tab Members (Outlook Forms Script)](tab-members-outlook-forms-script.md)
     

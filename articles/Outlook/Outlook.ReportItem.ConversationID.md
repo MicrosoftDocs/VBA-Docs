@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReportItem.ConversationID Property (Outlook)
 
-Returns a  **String** that uniquely identifies a **[Conversation](conversation-object-outlook.md)** object that the **[ReportItem](reportitem-object-outlook.md)** object belongs to. Read-only.
+Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conversation.md)** object that the **[ReportItem](Outlook.ReportItem.md)** object belongs to. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ This property associates items with a conversation. These items and the conversa
 
 This property corresponds with the MAPI property  **PidTagConversationId** .
 
-If the  **ReportItem** object is created in a version of Microsoft Outlook earlier than Outlook 2013, or if Outlook is running in online mode against a version of Microsoft Exchange Server earlier than Microsoft Exchange Server 2010, this property returns the same value as the **[ConversationTopic](appointmentitem-conversationtopic-property-outlook.md)** property.
+If the  **ReportItem** object is created in a version of Microsoft Outlook earlier than Outlook 2013, or if Outlook is running in online mode against a version of Microsoft Exchange Server earlier than Microsoft Exchange Server 2010, this property returns the same value as the **[ConversationTopic](Outlook.AppointmentItem.ConversationTopic.md)** property.
 
 
 ## See also
@@ -38,5 +38,5 @@ If the  **ReportItem** object is created in a version of Microsoft Outlook earli
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

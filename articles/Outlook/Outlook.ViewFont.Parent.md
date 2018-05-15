@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[ViewFont Object](viewfont-object-outlook.md)
+[ViewFont Object](Outlook.ViewFont.md)
 

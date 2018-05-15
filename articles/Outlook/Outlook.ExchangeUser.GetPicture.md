@@ -20,7 +20,7 @@ Obtains an  **[IPictureDisp](http://msdn.microsoft.com/en-us/library/ms680762%28
 
  _expression_ . **GetPicture**
 
- _expression_ A variable that represents an **[ExchangeUser](exchangeuser-object-outlook.md)** object.
+ _expression_ A variable that represents an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
 
 ### Return Value
@@ -43,5 +43,5 @@ You can only call  **GetPicture** from code that runs in-process as Outlook. An 
 #### Concepts
 
 
-[ExchangeUser Object](exchangeuser-object-outlook.md)
+[ExchangeUser Object](Outlook.ExchangeUser.md)
 

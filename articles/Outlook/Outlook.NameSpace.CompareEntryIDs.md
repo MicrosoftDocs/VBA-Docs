@@ -44,7 +44,7 @@ Entry identifiers cannot be compared directly because one object can be represen
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example compares the entry identifier associated with the organizer of a specified  **[AppointmentItem](appointmentitem-object-outlook.md)** object with the entry identifier of a specified **[Recipient](recipient-object-outlook.md)** object, using the **CompareEntryIDs** method, and returns **True** if the organizer and the specified recipient represent the same user.
+The following Visual Basic for Applications (VBA) example compares the entry identifier associated with the organizer of a specified  **[AppointmentItem](Outlook.AppointmentItem.md)** object with the entry identifier of a specified **[Recipient](Outlook.Recipient.md)** object, using the **CompareEntryIDs** method, and returns **True** if the organizer and the specified recipient represent the same user.
 
 
 ```vb
@@ -250,5 +250,5 @@ End Function
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

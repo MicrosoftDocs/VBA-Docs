@@ -25,7 +25,7 @@ Returns or sets a  **Date** indicating the starting date and time for the Outloo
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" and to make it a meeting request with both a required and an optional attendee.
+This Visual Basic for Applications (VBA) example uses  **[CreateItem](Outlook.Application.CreateItem.md)** to create an appointment and uses **[MeetingStatus](Outlook.AppointmentItem.MeetingStatus.md)** to set the meeting status to "Meeting" and to make it a meeting request with both a required and an optional attendee.
 
 
 ```vb
@@ -77,7 +77,7 @@ End Sub
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 #### Other resources
 
 

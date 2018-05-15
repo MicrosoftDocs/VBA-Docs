@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the names of the children of the cont
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

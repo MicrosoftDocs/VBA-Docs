@@ -29,5 +29,5 @@ Returns or sets a  **Long** indicating the position (in pixels) of the top horiz
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

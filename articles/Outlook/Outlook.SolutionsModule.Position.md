@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SolutionsModule.Position Property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[SolutionsModule](solutionsmodule-object-outlook.md)** object when it is displayed in the **Navigation Pane**. Read/write.
+Returns or sets a  **Long** value that represents the ordinal position of the **[SolutionsModule](Outlook.SolutionsModule.md)** object when it is displayed in the **Navigation Pane**. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets a  **Long** value that represents the ordinal position of the **
 
 This property can only be set to a value between 1 and 9. An error occurs if you attempt to set this property to a value outside that range. If no solutions exist in the  **Solutions** module, setting or getting the **Position** property also raises an error.
 
-Changing the value of this property for a given  **SolutionsModule** object changes the **Position** values of other navigation modules in a **[NavigationModules](navigationmodules-object-outlook.md)** collection, depending on the relative change between the new value and the original value.
+Changing the value of this property for a given  **SolutionsModule** object changes the **Position** values of other navigation modules in a **[NavigationModules](Outlook.NavigationModules.md)** collection, depending on the relative change between the new value and the original value.
 
 
 - If the new value is less than the original value, the specified  **SolutionsModule** object moves up to the new position and the other navigation modules that are already at or below that new position move down.
@@ -43,5 +43,5 @@ Changing the value of this property for a given  **SolutionsModule** object chan
 #### Concepts
 
 
-[SolutionsModule Object](solutionsmodule-object-outlook.md)
+[SolutionsModule Object](Outlook.SolutionsModule.md)
 

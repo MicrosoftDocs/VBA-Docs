@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[Results Object](results-object-outlook.md)
+[Results Object](Outlook.Results.md)
 

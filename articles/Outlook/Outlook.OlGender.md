@@ -25,6 +25,6 @@ Constants representing gender.
 
 ## Remarks
 
-Used by the [ContactItem.Gender](contactitem-gender-property-outlook.md) property.
+Used by the [ContactItem.Gender](Outlook.ContactItem.Gender.md) property.
 
 

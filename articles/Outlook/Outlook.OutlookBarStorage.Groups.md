@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarStorage.Groups Property (Outlook)
 
-Returns an  **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object representing the set of groups in the **Shortcuts** pane. Read-only.
+Returns an  **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object representing the set of groups in the **Shortcuts** pane. Read-only.
 
 
 ## Syntax
@@ -39,5 +39,5 @@ Sub CountOlBarGroups()     Dim myOlBar As Outlook.OutlookBarPane     Dim myCount
 #### Concepts
 
 
-[OutlookBarStorage Object](outlookbarstorage-object-outlook.md)
+[OutlookBarStorage Object](Outlook.OutlookBarStorage.md)
 

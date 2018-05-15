@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarModule.Visible Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[CalendarModule](calendarmodule-object-outlook.md)** object is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Boolean** value that determines whether the **[CalendarModule](Outlook.CalendarModule.md)** object is displayed in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that determines whether the **[CalendarModu
 #### Concepts
 
 
-[CalendarModule Object](calendarmodule-object-outlook.md)
+[CalendarModule Object](Outlook.CalendarModule.md)
 

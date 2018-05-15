@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the display name for a form.
 
 ## Remarks
 
-The  **Name** is also the caption for a form. This property must be set before you can use the **[FormDescription.PublishForm](formdescription-publishform-method-outlook.md)** method.
+The  **Name** is also the caption for a form. This property must be set before you can use the **[FormDescription.PublishForm](Outlook.FormDescription.PublishForm.md)** method.
 
 
 ## See also
@@ -34,5 +34,5 @@ The  **Name** is also the caption for a form. This property must be set before y
 #### Concepts
 
 
-[FormDescription Object](formdescription-object-outlook.md)
+[FormDescription Object](Outlook.FormDescription.md)
 

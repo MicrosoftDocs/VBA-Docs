@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroups.Item Method (Outlook)
 
-Returns a  **[NavigationGroup](navigationgroup-object-outlook.md)** object from the collection.
+Returns a  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ A  **NavigationGroup** object that represents the specified object.
 
 ## Remarks
 
-The index value of a  **NavigationGroup** in the collection represents the ordinal position of the navigation group when displayed in the Navigation Pane. Changing the position of navigation groups also changes the index values of navigation groups contained within the **[NavigationGroups](navigationgroups-object-outlook.md)** collection.
+The index value of a  **NavigationGroup** in the collection represents the ordinal position of the navigation group when displayed in the Navigation Pane. Changing the position of navigation groups also changes the index values of navigation groups contained within the **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## See also
@@ -47,5 +47,5 @@ The index value of a  **NavigationGroup** in the collection represents the ordin
 #### Concepts
 
 
-[NavigationGroups Object](navigationgroups-object-outlook.md)
+[NavigationGroups Object](Outlook.NavigationGroups.md)
 

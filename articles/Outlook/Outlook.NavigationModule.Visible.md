@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationModule.Visible Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[NavigationModule](navigationmodule-object-outlook.md)** object is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Boolean** value that determines whether the **[NavigationModule](Outlook.NavigationModule.md)** object is displayed in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that determines whether the **[NavigationMo
 #### Concepts
 
 
-[NavigationModule Object](navigationmodule-object-outlook.md)
+[NavigationModule Object](Outlook.NavigationModule.md)
 

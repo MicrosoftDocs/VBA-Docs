@@ -34,5 +34,5 @@ The  **Address** box on the **Details** tab can contain the URL location of the 
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

@@ -29,5 +29,5 @@ Occurs when the user double-clicks inside the control.
 #### Concepts
 
 
-[OlkOptionButton Object](olkoptionbutton-object-outlook.md)
+[OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

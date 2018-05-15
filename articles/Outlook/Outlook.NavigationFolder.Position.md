@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolder.Position Property (Outlook)
 
-Returns or sets an  **Long** value that represents the ordinal position of the **[NavigationFolder](navigationfolder-object-outlook.md)** object when displayed in the Navigation Pane. Read/write.
+Returns or sets an  **Long** value that represents the ordinal position of the **[NavigationFolder](Outlook.NavigationFolder.md)** object when displayed in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **Long** value that represents the ordinal position of the *
 
 ## Remarks
 
-This property can only be set to a value between 1 and the value of the  **[Count](navigationfolders-count-property-outlook.md)** property for the parent **[NavigationFolders](navigationfolders-object-outlook.md)** object. An error occurs if you attempt to set this property to a value outside that range.
+This property can only be set to a value between 1 and the value of the  **[Count](Outlook.NavigationFolders.Count.md)** property for the parent **[NavigationFolders](Outlook.NavigationFolders.md)** object. An error occurs if you attempt to set this property to a value outside that range.
 
 Changing the value of this property for a  **NavigationFolder** object changes the **Position** values of other navigation folders contained by a **NavigationFolders** collection, depending on the relative change between the new value and the original value of the **Position** property for that **NavigationFolder** object:
 
@@ -43,5 +43,5 @@ If the navigation folder has been removed from the Navigation Pane, then this pr
 #### Concepts
 
 
-[NavigationFolder Object](navigationfolder-object-outlook.md)
+[NavigationFolder Object](Outlook.NavigationFolder.md)
 

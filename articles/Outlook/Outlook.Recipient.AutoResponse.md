@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.AutoResponse Property (Outlook)
 
-Returns or sets a  **String** representing the text of an automatic response for a **[Recipient](recipient-object-outlook.md)** . Read/write.
+Returns or sets a  **String** representing the text of an automatic response for a **[Recipient](Outlook.Recipient.md)** . Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the text of an automatic response for
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](Outlook.Recipient.md)
 

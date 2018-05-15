@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[OutlookBarStorage Object](outlookbarstorage-object-outlook.md)
+[OutlookBarStorage Object](Outlook.OutlookBarStorage.md)
 

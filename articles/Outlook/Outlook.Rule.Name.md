@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the name of the rule. Read/write.
 
 ## Remarks
 
- **Name** is the default property and an indexer for a rule in a **[Rules](rules-object-outlook.md)** collection object. It corresponds to **PidTagRuleMsgName** (0x65EC001E).
+ **Name** is the default property and an indexer for a rule in a **[Rules](Outlook.Rules.md)** collection object. It corresponds to **PidTagRuleMsgName** (0x65EC001E).
 
 Rule names are not unique among rules in the same collection.
 
@@ -36,5 +36,5 @@ Rule names are not unique among rules in the same collection.
 #### Concepts
 
 
-[Rule Object](rule-object-outlook.md)
+[Rule Object](Outlook.Rule.md)
 

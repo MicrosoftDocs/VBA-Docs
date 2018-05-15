@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReceivedByName Property (Outlook)
 
-Returns a  **String** representing the display name of the true recipient for the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a  **String** representing the display name of the true recipient for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagReceivedByName** .
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

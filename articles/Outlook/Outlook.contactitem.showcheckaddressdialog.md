@@ -31,7 +31,7 @@ Version Added: Outlook 2013
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |||||
-| _MailingAddress_|Required|[OlMailingAddress](olmailingaddress-enumeration-outlook.md)|The type of address to be checked.|
+| _MailingAddress_|Required|[OlMailingAddress](Outlook.OlMailingAddress.md)|The type of address to be checked.|
 
 ## See also
 
@@ -39,5 +39,5 @@ Version Added: Outlook 2013
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

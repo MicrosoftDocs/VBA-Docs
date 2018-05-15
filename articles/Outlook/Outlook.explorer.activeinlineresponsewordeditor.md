@@ -16,7 +16,7 @@ Returns the Word [Document](http://msdn.microsoft.com/library/8d83487a-2345-a036
 
  _expression_ . **ActiveInlineResponseWordEditor**
 
- _expression_ A variable that represents an **[Explorer](explorer-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks
@@ -45,5 +45,5 @@ This property returns  **Null** ( **Nothing** in Visual Basic) if no inline resp
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

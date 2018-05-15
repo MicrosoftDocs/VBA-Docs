@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ScrollBar.SmallChange Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **[ScrollBar](scrollbar-object-outlook-forms-script.md)**. Read/write.
+Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **[ScrollBar](Outlook.scrollbar.md)**. Read/write.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns or sets an  **Integer** that specifies the amount of movement that occur
 
 ## Remarks
 
-The  **SmallChange** property specifies the amount of change to the **[Value](scrollbar-value-property-outlook-forms-script.md)** property.
+The  **SmallChange** property specifies the amount of change to the **[Value](Outlook.scrollbar.value.md)** property.
 
 The  **SmallChange** property does not have units.
 

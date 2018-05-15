@@ -29,5 +29,5 @@ Occurs when the control is double-clicked through user action.
 #### Concepts
 
 
-[OlkInfoBar Object](olkinfobar-object-outlook.md)
+[OlkInfoBar Object](Outlook.OlkInfoBar.md)
 

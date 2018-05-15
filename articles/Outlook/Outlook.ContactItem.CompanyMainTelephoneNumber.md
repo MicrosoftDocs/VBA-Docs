@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the company main telephone number for
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

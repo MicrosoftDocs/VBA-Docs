@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
-[AutoFormatRule Object](autoformatrule-object-outlook.md)
+[AutoFormatRule Object](Outlook.AutoFormatRule.md)
 

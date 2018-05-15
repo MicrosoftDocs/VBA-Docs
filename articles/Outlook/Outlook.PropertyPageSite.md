@@ -18,7 +18,7 @@ Represents the container of a custom property page.
 
 ## Remarks
 
-Use the  **Parent** property of the ActiveX control that implements the **[PropertyPage](propertypage-object-outlook.md)** object associated with the **PropertyPageSite** object to return the **PropertyPageSite** object. The Declarations section of the module implementing the **PropertyPage** object must contain a declaration similar to the following.
+Use the  **Parent** property of the ActiveX control that implements the **[PropertyPage](Outlook.PropertyPage.md)** object associated with the **PropertyPageSite** object to return the **PropertyPageSite** object. The Declarations section of the module implementing the **PropertyPage** object must contain a declaration similar to the following.
 
 
 ```
@@ -34,7 +34,7 @@ The object is then returned from the  **Parent** property.
 Set myPropertyPageSite = Parent
 ```
 
-Use the  **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)** method to notify Microsoft Outlook that the property page has changed.
+Use the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method to notify Microsoft Outlook that the property page has changed.
 
 
 ## Methods
@@ -43,7 +43,7 @@ Use the  **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)**
 
 |**Name**|
 |:-----|
-|[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)|
+|[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)|
 
 ## Properties
 
@@ -51,9 +51,9 @@ Use the  **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)**
 
 |**Name**|
 |:-----|
-|[Application](propertypagesite-application-property-outlook.md)|
-|[Class](propertypagesite-class-property-outlook.md)|
-|[Parent](propertypagesite-parent-property-outlook.md)|
+|[Application](Outlook.PropertyPageSite.Application.md)|
+|[Class](Outlook.PropertyPageSite.Class.md)|
+|[Parent](Outlook.PropertyPageSite.Parent.md)|
 |[Session](propertypagesite-session-property-outlook.md)|
 
 ## See also

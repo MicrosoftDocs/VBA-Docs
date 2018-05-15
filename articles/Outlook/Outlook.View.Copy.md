@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.Copy Method (Outlook)
 
-Creates a new instance of a  **[View](view-object-outlook.md)** object.
+Creates a new instance of a  **[View](Outlook.View.md)** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Creates a new instance of a  **[View](view-object-outlook.md)** object.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|Represents the name of the new  **View** object.|
-| _SaveOption_|Optional| **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)**|The save option that defines the permissions of the  **View** object.|
+| _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option that defines the permissions of the  **View** object.|
 
 ## Example
 
@@ -68,5 +68,5 @@ End Sub
 #### Concepts
 
 
-[View Object](view-object-outlook.md)
+[View Object](Outlook.View.md)
 

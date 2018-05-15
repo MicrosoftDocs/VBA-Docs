@@ -32,7 +32,7 @@ Occurs when the inspector associated with an item (which is an instance of the p
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the close operation isn't completed and the inspector is left open.
 
-If you use the  **[Close](reportitem-close-method-outlook.md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
+If you use the  **[Close](Outlook.ReportItem.Close(method).md)** method to fire this event, it can only be canceled if the **Close** method uses the **olPromptForSave** argument.
 
 
 ## See also
@@ -41,5 +41,5 @@ If you use the  **[Close](reportitem-close-method-outlook.md)** method to fire t
 #### Concepts
 
 
-[ReportItem Object](reportitem-object-outlook.md)
+[ReportItem Object](Outlook.ReportItem.md)
 

@@ -27,6 +27,6 @@ You can use any integer that represents a valid color. You can also specify a co
 RGB(15,200,75)
 ```
 
-You can only see the background color of an object if the  **[BackStyle](textbox-backstyle-property-outlook-forms-script.md)** property is set to 1.
+You can only see the background color of an object if the  **[BackStyle](Outlook.textbox.backstyle.md)** property is set to 1.
 
 

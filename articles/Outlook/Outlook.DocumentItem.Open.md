@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # DocumentItem.Open Event (Outlook)
 
-Occurs when an instance of the parent object is being opened in an  **[Inspector](inspector-object-outlook.md)** .
+Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)** .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Occurs when an instance of the parent object is being opened in an  **[Inspector
 
 ## Remarks
 
-When this event occurs, the  **Inspector** object is initialized but not yet displayed. The **Open** event differs from the **[Read](documentitem-read-event-outlook.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an inspector.
+When this event occurs, the  **Inspector** object is initialized but not yet displayed. The **Open** event differs from the **[Read](Outlook.DocumentItem.Read.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an inspector.
 
 In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the open operation is not completed and the inspector is not displayed.
 
@@ -41,5 +41,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

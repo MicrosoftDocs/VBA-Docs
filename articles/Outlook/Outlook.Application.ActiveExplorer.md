@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveExplorer Method (Outlook)
 
-Returns the topmost  **[Explorer](explorer-object-outlook.md)** object on the desktop.
+Returns the topmost  **[Explorer](Outlook.Explorer.md)** object on the desktop.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ An  **Explorer** that represents the topmost explorer on the desktop. Returns **
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example uses the  **[Count](selection-count-property-outlook.md)** property and **[Item](selection-item-method-outlook.md)** method of the **[Selection](selection-object-outlook.md)** collection returned by the **Selection** property to display the senders of all mail items selected in the active explorer window. To run this example, you need to have at least one mail item selected in the active Explorer window.
+The following Microsoft Visual Basic for Applications (VBA) example uses the  **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** collection returned by the **Selection** property to display the senders of all mail items selected in the active explorer window. To run this example, you need to have at least one mail item selected in the active Explorer window.
 
 
  **Note**  You might receive an error if you select items other than a mail item such as task request as the  **SenderName** property does not exist for a **TaskRequestItem** object.
@@ -78,5 +78,5 @@ End Sub
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

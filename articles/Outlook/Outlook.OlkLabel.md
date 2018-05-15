@@ -38,11 +38,11 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Click](olklabel-click-event-outlook.md)|
-|[DoubleClick](olklabel-doubleclick-event-outlook.md)|
-|[MouseDown](olklabel-mousedown-event-outlook.md)|
-|[MouseMove](olklabel-mousemove-event-outlook.md)|
-|[MouseUp](olklabel-mouseup-event-outlook.md)|
+|[Click](Outlook.OlkLabel.Click.md)|
+|[DoubleClick](Outlook.OlkLabel.DoubleClick.md)|
+|[MouseDown](Outlook.OlkLabel.MouseDown.md)|
+|[MouseMove](Outlook.OlkLabel.MouseMove.md)|
+|[MouseUp](Outlook.OlkLabel.MouseUp.md)|
 
 ## Properties
 
@@ -50,20 +50,20 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Accelerator](olklabel-accelerator-property-outlook.md)|
-|[AutoSize](olklabel-autosize-property-outlook.md)|
-|[BackColor](olklabel-backcolor-property-outlook.md)|
-|[BackStyle](olklabel-backstyle-property-outlook.md)|
-|[BorderStyle](olklabel-borderstyle-property-outlook.md)|
-|[Caption](olklabel-caption-property-outlook.md)|
-|[Enabled](olklabel-enabled-property-outlook.md)|
-|[Font](olklabel-font-property-outlook.md)|
-|[ForeColor](olklabel-forecolor-property-outlook.md)|
-|[MouseIcon](olklabel-mouseicon-property-outlook.md)|
-|[MousePointer](olklabel-mousepointer-property-outlook.md)|
-|[TextAlign](olklabel-textalign-property-outlook.md)|
-|[UseHeaderColor](olklabel-useheadercolor-property-outlook.md)|
-|[WordWrap](olklabel-wordwrap-property-outlook.md)|
+|[Accelerator](Outlook.OlkLabel.Accelerator.md)|
+|[AutoSize](Outlook.OlkLabel.AutoSize.md)|
+|[BackColor](Outlook.OlkLabel.BackColor.md)|
+|[BackStyle](Outlook.OlkLabel.BackStyle.md)|
+|[BorderStyle](Outlook.OlkLabel.BorderStyle.md)|
+|[Caption](Outlook.OlkLabel.Caption.md)|
+|[Enabled](Outlook.OlkLabel.Enabled.md)|
+|[Font](Outlook.OlkLabel.Font.md)|
+|[ForeColor](Outlook.OlkLabel.ForeColor.md)|
+|[MouseIcon](Outlook.OlkLabel.MouseIcon.md)|
+|[MousePointer](Outlook.OlkLabel.MousePointer.md)|
+|[TextAlign](Outlook.OlkLabel.TextAlign.md)|
+|[UseHeaderColor](Outlook.OlkLabel.UseHeaderColor.md)|
+|[WordWrap](Outlook.OlkLabel.WordWrap.md)|
 
 ## See also
 

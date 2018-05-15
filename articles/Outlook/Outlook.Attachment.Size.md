@@ -34,5 +34,5 @@ This information may not always be available for attachments. For example, on an
 #### Concepts
 
 
-[Attachment Object](attachment-object-outlook.md)
+[Attachment Object](Outlook.Attachment.md)
 

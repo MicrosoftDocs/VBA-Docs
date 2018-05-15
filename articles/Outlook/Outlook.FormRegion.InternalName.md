@@ -36,5 +36,5 @@ The value of the  **InternalName** property is used by the add-in or Microsoft O
 #### Concepts
 
 
-[FormRegion Object](formregion-object-outlook.md)
+[FormRegion Object](Outlook.FormRegion.md)
 

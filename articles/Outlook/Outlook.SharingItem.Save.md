@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Save Method (Outlook)
 
-Saves the  **[SharingItem](sharingitem-object-outlook.md)** to the current folder or, if this is a new item, to the Outlook default folder for the item type.
+Saves the  **[SharingItem](Outlook.SharingItem.md)** to the current folder or, if this is a new item, to the Outlook default folder for the item type.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Saves the  **[SharingItem](sharingitem-object-outlook.md)** to the current folde
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

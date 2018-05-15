@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[NavigationModules Object](navigationmodules-object-outlook.md)
+[NavigationModules Object](Outlook.NavigationModules.md)
 

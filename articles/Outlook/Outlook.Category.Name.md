@@ -29,5 +29,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 #### Concepts
 
 
-[Category Object](category-object-outlook.md)
+[Category Object](Outlook.Category.md)
 

@@ -39,6 +39,6 @@ Constants that represent colors.
 
 ## Remarks
 
-Used by the [Color](viewfont-color-property-outlook.md) property of the[ViewFont Object (Outlook)](viewfont-object-outlook.md) to indicate the font color.
+Used by the [Color](Outlook.ViewFont.Color.md) property of the[ViewFont Object (Outlook)](viewfont-object-outlook.md) to indicate the font color.
 
 

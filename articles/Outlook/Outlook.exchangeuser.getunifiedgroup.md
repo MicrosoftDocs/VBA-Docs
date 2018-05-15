@@ -11,7 +11,7 @@ ms.prod: outlook
 
 # ExchangeUser.GetUnifiedGroup Method (Outlook)
 
-Determines if the object is a unified group, by way of a call to [IsUnifiedGroup](exchangeuser-isunifiedgroup-method-outlook.md).
+Determines if the object is a unified group, by way of a call to [IsUnifiedGroup](Outlook.exchangeuser.isunifiedgroup.md).
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Determines if the object is a unified group, by way of a call to [IsUnifiedGroup
 
 ### Return Value
 
-Returns the  **Outlook.Folder** object associated with the group using the **GetUnifiedGroup** and[GetUnifiedGroupFromStore](exchangeuser-getunifiedgroupfromstore-method-outlook.md) methods.
+Returns the  **Outlook.Folder** object associated with the group using the **GetUnifiedGroup** and[GetUnifiedGroupFromStore](Outlook.exchangeuser.getunifiedgroupfromstore.md) methods.
 
 
 ## See also

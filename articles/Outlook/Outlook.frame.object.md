@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Frame Object (Outlook Forms Script)](frame-object-outlook-forms-script.md)
+-  [Frame Object (Outlook Forms Script)](Outlook.frame.md)
     
 -  [Frame Members (Outlook Forms Script)](frame-members-outlook-forms-script.md)
     

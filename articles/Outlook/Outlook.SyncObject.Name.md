@@ -29,5 +29,5 @@ Returns a  **String** value that represents the display name for the object. Rea
 #### Concepts
 
 
-[SyncObject Object](syncobject-object-outlook.md)
+[SyncObject Object](Outlook.SyncObject.md)
 

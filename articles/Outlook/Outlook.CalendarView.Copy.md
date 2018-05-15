@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.Copy Method (Outlook)
 
-Creates a new  **[View](view-object-outlook.md)** object based on the existing **[CalendarView](calendarview-object-outlook.md)** object.
+Creates a new  **[View](Outlook.View.md)** object based on the existing **[CalendarView](Outlook.CalendarView.md)** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Creates a new  **[View](view-object-outlook.md)** object based on the existing *
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new view.|
-| _SaveOption_|Optional| **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)**|The save option for the new view.|
+| _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option for the new view.|
 
 ### Return Value
 
@@ -43,5 +43,5 @@ A  **View** object that represents the new view.
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

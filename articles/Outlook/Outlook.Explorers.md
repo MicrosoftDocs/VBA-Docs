@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Explorers Object (Outlook)
 
-Contains a set of  **[Explorer](explorer-object-outlook.md)** objects representing all explorers.
+Contains a set of  **[Explorer](Outlook.Explorer.md)** objects representing all explorers.
 
 
 ## Remarks
 
  An explorer need not be visible to be included in the **Explorers** collection.
 
-Use the  **[Explorers](application-explorers-property-outlook.md)** property to return the **Explorers** object from the **[Application](application-object-outlook.md)** object.
+Use the  **[Explorers](Outlook.Application.Explorers.md)** property to return the **Explorers** object from the **[Application](Outlook.Application.md)** object.
 
 
 ## Example
@@ -39,7 +39,7 @@ Set myExplorers = Application.Explorers
 
 |**Name**|
 |:-----|
-|[NewExplorer](explorers-newexplorer-event-outlook.md)|
+|[NewExplorer](Outlook.Explorers.NewExplorer.md)|
 
 ## Methods
 
@@ -47,8 +47,8 @@ Set myExplorers = Application.Explorers
 
 |**Name**|
 |:-----|
-|[Add](explorers-add-method-outlook.md)|
-|[Item](explorers-item-method-outlook.md)|
+|[Add](Outlook.Explorers.Add.md)|
+|[Item](Outlook.Explorers.Item.md)|
 
 ## Properties
 
@@ -56,11 +56,11 @@ Set myExplorers = Application.Explorers
 
 |**Name**|
 |:-----|
-|[Application](explorers-application-property-outlook.md)|
-|[Class](explorers-class-property-outlook.md)|
-|[Count](explorers-count-property-outlook.md)|
-|[Parent](explorers-parent-property-outlook.md)|
-|[Session](explorers-session-property-outlook.md)|
+|[Application](Outlook.Explorers.Application.md)|
+|[Class](Outlook.Explorers.Class.md)|
+|[Count](Outlook.Explorers.Count.md)|
+|[Parent](Outlook.Explorers.Parent.md)|
+|[Session](Outlook.Explorers.Session.md)|
 
 ## See also
 

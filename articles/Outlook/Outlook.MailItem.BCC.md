@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.BCC Property (Outlook)
 
-Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](mailitem-object-outlook.md)** . Read/write.
+Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](Outlook.MailItem.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the display list of blind carbon copy (BCC) n
 
 ## Remarks
 
-This property contains the display names only. The  **[Recipients](recipients-object-outlook.md)** collection should be used to modify the BCC recipients.
+This property contains the display names only. The  **[Recipients](Outlook.Recipients.md)** collection should be used to modify the BCC recipients.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property contains the display names only. The  **[Recipients](recipients-ob
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.DayWeekTimeScale Property (Outlook)
 
-Returns or sets an  **[OlDayWeekTimeScale](oldayweektimescale-enumeration-outlook.md)** constant that represents the scale used to represent time periods in a **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
+Returns or sets an  **[OlDayWeekTimeScale](Outlook.OlDayWeekTimeScale.md)** constant that represents the scale used to represent time periods in a **[CalendarView](Outlook.CalendarView.md)** object. Read/write.
 
 
 ## Syntax
@@ -99,5 +99,5 @@ End Sub
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

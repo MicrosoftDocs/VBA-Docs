@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [ToggleButton Object (Outlook Forms Script)](togglebutton-object-outlook-forms-script.md)
+-  [ToggleButton Object (Outlook Forms Script)](Outlook.togglebutton.md)
     
 -  [ToggleButton Members (Outlook Forms Script)](togglebutton-members-outlook-forms-script.md)
     

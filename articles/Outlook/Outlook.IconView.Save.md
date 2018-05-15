@@ -29,5 +29,5 @@ Saves the view, or saves the changes to a view.
 #### Concepts
 
 
-[IconView Object](iconview-object-outlook.md)
+[IconView Object](Outlook.IconView.md)
 

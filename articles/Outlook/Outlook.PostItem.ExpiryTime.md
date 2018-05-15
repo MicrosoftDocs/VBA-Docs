@@ -29,5 +29,5 @@ Returns or sets a  **Date** indicating the date and time at which the item becom
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.TaskDueDate Property (Outlook)
 
-Returns or sets a  **Date** value that represents the due date of the task for this **[MailItem](mailitem-object-outlook.md)** . Read/write.
+Returns or sets a  **Date** value that represents the due date of the task for this **[MailItem](Outlook.MailItem.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](mailitem-ismarkedastask-property-outlook.md)** property is set to **False** .
+This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.MailItem.IsMarkedAsTask.md)** property is set to **False** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarke
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

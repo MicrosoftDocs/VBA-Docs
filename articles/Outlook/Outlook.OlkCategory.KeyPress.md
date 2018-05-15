@@ -55,5 +55,5 @@ A  **KeyPress** event does not occur under the following conditions:
 #### Concepts
 
 
-[OlkCategory Object](olkcategory-object-outlook.md)
+[OlkCategory Object](Outlook.OlkCategory.md)
 

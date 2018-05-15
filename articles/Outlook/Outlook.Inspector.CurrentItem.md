@@ -30,7 +30,7 @@ If no item is currently open, an error message will be returned.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[CurrentItem](inspector-currentitem-property-outlook.md)** property to obtain the current item that the user is viewing and closes it. If no item is currently open, an error message will be returned.
+This Visual Basic for Applications (VBA) example uses the  **[CurrentItem](Outlook.Inspector.CurrentItem.md)** property to obtain the current item that the user is viewing and closes it. If no item is currently open, an error message will be returned.
 
 
 ```vb
@@ -54,5 +54,5 @@ End Sub
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

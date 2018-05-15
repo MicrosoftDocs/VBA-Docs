@@ -37,5 +37,5 @@ Occurs before the  **Reminder** dialog box is displayed.
 #### Concepts
 
 
-[Reminders Object](reminders-object-outlook.md)
+[Reminders Object](Outlook.Reminders.md)
 

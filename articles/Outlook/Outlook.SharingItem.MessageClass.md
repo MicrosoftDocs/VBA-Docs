@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.MessageClass Property (Outlook)
 
-Returns or sets a  **String** representing the message class for the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a  **String** representing the message class for the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ The default value for this property is  `IPM.Sharing`.
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 #### Other resources
 
 

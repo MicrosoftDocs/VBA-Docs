@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # OptionButton.TripleState Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that determines whether the **[OptionButton](optionbutton-object-outlook-forms-script.md)** supports the **Null** state. Read/write.
+Returns or sets a  **Boolean** that determines whether the **[OptionButton](Outlook.optionbutton.md)** supports the **Null** state. Read/write.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ When the  **TripleState** property is **True**, a user can choose from the value
 
 When  **TripleState** is **False**, the user can choose either  **True** or **False**.
 
-A control set to  **Null** does not initiate the **[Click](optionbutton-click-event-outlook-forms-script.md)** event.
+A control set to  **Null** does not initiate the **[Click](Outlook.optionbutton.click.md)** event.
 
 

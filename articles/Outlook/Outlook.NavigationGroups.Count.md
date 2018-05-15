@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[NavigationGroups Object](navigationgroups-object-outlook.md)
+[NavigationGroups Object](Outlook.NavigationGroups.md)
 

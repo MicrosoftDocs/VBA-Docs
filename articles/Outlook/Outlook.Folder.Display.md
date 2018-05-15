@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Display Method (Outlook)
 
-Displays a new  **[Explorer](explorer-object-outlook.md)** object for the folder.
+Displays a new  **[Explorer](Outlook.Explorer.md)** object for the folder.
 
 
 ## Syntax
@@ -87,5 +87,5 @@ End Sub
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

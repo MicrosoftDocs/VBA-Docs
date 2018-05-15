@@ -36,18 +36,18 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[AfterUpdate](olkcommandbutton-afterupdate-event-outlook.md)|
-|[BeforeUpdate](olkcommandbutton-beforeupdate-event-outlook.md)|
-|[Click](olkcommandbutton-click-event-outlook.md)|
-|[DoubleClick](olkcommandbutton-doubleclick-event-outlook.md)|
-|[Enter](olkcommandbutton-enter-event-outlook.md)|
-|[Exit](olkcommandbutton-exit-event-outlook.md)|
-|[KeyDown](olkcommandbutton-keydown-event-outlook.md)|
-|[KeyPress](olkcommandbutton-keypress-event-outlook.md)|
-|[KeyUp](olkcommandbutton-keyup-event-outlook.md)|
-|[MouseDown](olkcommandbutton-mousedown-event-outlook.md)|
-|[MouseMove](olkcommandbutton-mousemove-event-outlook.md)|
-|[MouseUp](olkcommandbutton-mouseup-event-outlook.md)|
+|[AfterUpdate](Outlook.OlkCommandButton.AfterUpdate.md)|
+|[BeforeUpdate](Outlook.OlkCommandButton.BeforeUpdate.md)|
+|[Click](Outlook.OlkCommandButton.Click.md)|
+|[DoubleClick](Outlook.OlkCommandButton.DoubleClick.md)|
+|[Enter](Outlook.OlkCommandButton.Enter.md)|
+|[Exit](Outlook.OlkCommandButton.Exit.md)|
+|[KeyDown](Outlook.OlkCommandButton.KeyDown.md)|
+|[KeyPress](Outlook.OlkCommandButton.KeyPress.md)|
+|[KeyUp](Outlook.OlkCommandButton.KeyUp.md)|
+|[MouseDown](Outlook.OlkCommandButton.MouseDown.md)|
+|[MouseMove](Outlook.OlkCommandButton.MouseMove.md)|
+|[MouseUp](Outlook.OlkCommandButton.MouseUp.md)|
 
 ## Properties
 
@@ -55,18 +55,18 @@ For more information about Outlook controls, see [Controls in a Custom Form](htt
 
 |**Name**|
 |:-----|
-|[Accelerator](olkcommandbutton-accelerator-property-outlook.md)|
-|[AutoSize](olkcommandbutton-autosize-property-outlook.md)|
-|[Caption](olkcommandbutton-caption-property-outlook.md)|
-|[DisplayDropArrow](olkcommandbutton-displaydroparrow-property-outlook.md)|
-|[Enabled](olkcommandbutton-enabled-property-outlook.md)|
-|[Font](olkcommandbutton-font-property-outlook.md)|
-|[MouseIcon](olkcommandbutton-mouseicon-property-outlook.md)|
-|[MousePointer](olkcommandbutton-mousepointer-property-outlook.md)|
-|[Picture](olkcommandbutton-picture-property-outlook.md)|
-|[PictureAlignment](olkcommandbutton-picturealignment-property-outlook.md)|
-|[TextAlign](olkcommandbutton-textalign-property-outlook.md)|
-|[WordWrap](olkcommandbutton-wordwrap-property-outlook.md)|
+|[Accelerator](Outlook.OlkCommandButton.Accelerator.md)|
+|[AutoSize](Outlook.OlkCommandButton.AutoSize.md)|
+|[Caption](Outlook.OlkCommandButton.Caption.md)|
+|[DisplayDropArrow](Outlook.OlkCommandButton.DisplayDropArrow.md)|
+|[Enabled](Outlook.OlkCommandButton.Enabled.md)|
+|[Font](Outlook.OlkCommandButton.Font.md)|
+|[MouseIcon](Outlook.OlkCommandButton.MouseIcon.md)|
+|[MousePointer](Outlook.OlkCommandButton.MousePointer.md)|
+|[Picture](Outlook.OlkCommandButton.Picture.md)|
+|[PictureAlignment](Outlook.OlkCommandButton.PictureAlignment.md)|
+|[TextAlign](Outlook.OlkCommandButton.TextAlign.md)|
+|[WordWrap](Outlook.OlkCommandButton.WordWrap.md)|
 
 ## See also
 

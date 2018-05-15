@@ -29,7 +29,7 @@ Creates and returns a new Microsoft Outlook item.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ItemType_|Required| **[OlItemType](olitemtype-enumeration-outlook.md)**|The Outlook item type for the new item.|
+| _ItemType_|Required| **[OlItemType](Outlook.OlItemType.md)**|The Outlook item type for the new item.|
 
 ### Return Value
 
@@ -38,12 +38,12 @@ An  **Object** value that represents the new Outlook item.
 
 ## Remarks
 
-The  **CreateItem** method can only create default Outlook items. To create new items using a custom form, use the **[Add](items-add-method-outlook.md)** method on the **[Items](items-object-outlook.md)** collection.
+The  **CreateItem** method can only create default Outlook items. To create new items using a custom form, use the **[Add](Outlook.Items.Add.md)** method on the **[Items](Outlook.Items.md)** collection.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](mailitem-object-outlook.md)** object and sets the **BodyFormat** property to **olFormatHTML** . The Body text of the e-mail item will now appear in HTML format.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML** . The Body text of the e-mail item will now appear in HTML format.
 
 
 ```vb
@@ -81,7 +81,7 @@ End Sub
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 #### Other resources
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.DragBehavior Property (Outlook)
 
-Returns or sets an  **[OlDragBehavior Enumeration](oldragbehavior-enumeration-outlook.md)** constant that indicates whether the system enables the drag-and-drop feature for this control. Read/write.
+Returns or sets an  **[OlDragBehavior Enumeration](Outlook.OlDragBehavior.md)** constant that indicates whether the system enables the drag-and-drop feature for this control. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The default value is  **olDragDropDisabled** .
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

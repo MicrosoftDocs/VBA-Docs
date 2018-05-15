@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ComboBox.MatchFound Property (Outlook Forms Script)
 
-Returns a  **Boolean** value that indicates whether the text that a user has typed into a **[ComboBox](combobox-object-outlook-forms-script.md)** matches any of the entries in the list. Read-only.
+Returns a  **Boolean** value that indicates whether the text that a user has typed into a **[ComboBox](Outlook.combobox.md)** matches any of the entries in the list. Read-only.
 
 
 ## Syntax
@@ -23,8 +23,8 @@ Returns a  **Boolean** value that indicates whether the text that a user has typ
 
 ## Remarks
 
- **True** if the contents of the **[Value](combobox-value-property-outlook-forms-script.md)** property matches one of the records in the list. **False** if the contents of **Value** does not match any of the records in the list (default).
+ **True** if the contents of the **[Value](Outlook.combobox.value.md)** property matches one of the records in the list. **False** if the contents of **Value** does not match any of the records in the list (default).
 
-The  **MatchFound** property is read-only. It is not applicable when the **[MatchEntry](combobox-matchentry-property-outlook-forms-script.md)** property is set to 2.
+The  **MatchFound** property is read-only. It is not applicable when the **[MatchEntry](Outlook.combobox.matchentry.md)** property is set to 2.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.PrimarySmtpAddress Property (Outlook)
 
-Returns a  **String** representing the primary Simple Mail Transfer Protocol (SMTP) address for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read-only.
+Returns a  **String** representing the primary Simple Mail Transfer Protocol (SMTP) address for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** . Read-only.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ Returns an empty string if this property has not been implemented or does not ex
 #### Concepts
 
 
-[ExchangeDistributionList Object](exchangedistributionlist-object-outlook.md)
+[ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 #### Other resources
 
 

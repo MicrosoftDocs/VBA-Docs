@@ -34,5 +34,5 @@ Returns or sets a  **Long** that indicates the location of the currently selecte
 #### Concepts
 
 
-[OlkListBox Object](olklistbox-object-outlook.md)
+[OlkListBox Object](Outlook.OlkListBox.md)
 

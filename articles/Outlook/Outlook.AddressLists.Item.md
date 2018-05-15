@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressLists.Item Method (Outlook)
 
-Returns an  **[AddressList](addresslist-object-outlook.md)** object from the collection.
+Returns an  **[AddressList](Outlook.AddressList.md)** object from the collection.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ An  **AddressList** object that represents the specified object.
 #### Concepts
 
 
-[AddressLists Object](addresslists-object-outlook.md)
+[AddressLists Object](Outlook.AddressLists.md)
 

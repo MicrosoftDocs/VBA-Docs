@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the StorageItem object is the  **[Folder](folder-object-outlook.md)** object.
+The parent of the StorageItem object is the  **[Folder](Outlook.Folder.md)** object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of the StorageItem object is the  **[Folder](folder-object-outlook.md
 #### Concepts
 
 
-[StorageItem Object](storageitem-object-outlook.md)
+[StorageItem Object](Outlook.StorageItem.md)
 

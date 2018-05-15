@@ -37,5 +37,5 @@ Removes an object from the collection.
 #### Concepts
 
 
-[PropertyPages Object](propertypages-object-outlook.md)
+[PropertyPages Object](Outlook.PropertyPages.md)
 

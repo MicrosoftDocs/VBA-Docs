@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarShortcuts.Item Method (Outlook)
 
-Returns an  **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)** object from the collection.
+Returns an  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from the collection.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ An  **OutlookBarShortcut** object that represents the specified object.
 #### Concepts
 
 
-[OutlookBarShortcuts Object](outlookbarshortcuts-object-outlook.md)
+[OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 

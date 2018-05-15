@@ -20,7 +20,7 @@ Returns free/busy information for the recipient.
 
  _expression_ . **FreeBusy**( **_Start_** , **_MinPerChar_** , **_CompleteFormat_** )
 
- _expression_ A variable that represents a[Recipient](recipient-object-outlook.md) object.
+ _expression_ A variable that represents a[Recipient](Outlook.Recipient.md) object.
 
 
 ### Parameters
@@ -31,7 +31,7 @@ Returns free/busy information for the recipient.
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|The start date for the returned period of free/busy information.|
 | _MinPerChar_|Required| **Long**|The number of minutes per character represented in the returned free/busy string.|
-| _CompleteFormat_|Optional| **Variant**| **True** if the returned string should contain not only free/busy information, but also values for each character according to the **[OlBusyStatus](olbusystatus-enumeration-outlook.md)** constants.|
+| _CompleteFormat_|Optional| **Variant**| **True** if the returned string should contain not only free/busy information, but also values for each character according to the **[OlBusyStatus](Outlook.OlBusyStatus.md)** constants.|
 
 ### Return Value
 
@@ -44,7 +44,7 @@ A  **String** value that represents the free/busy information.
 
 If the optional argument  _CompleteFormat_ is omitted or **False** , then "free" is indicated by the character 0 and all other states by the character 1.
 
-If  _CompleteFormat_ is **True** , then the same length string is returned as defined above, but the characters now correspond to the[OlBusyStatus](olbusystatus-enumeration-outlook.md) constants.
+If  _CompleteFormat_ is **True** , then the same length string is returned as defined above, but the characters now correspond to the[OlBusyStatus](Outlook.OlBusyStatus.md) constants.
 
 
 ## Example
@@ -86,5 +86,5 @@ myFBInfo = myRecipient.FreeBusy(#8/1/03#, 60, True)
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](Outlook.Recipient.md)
 

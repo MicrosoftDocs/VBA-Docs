@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextBox.PasswordChar Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies a placeholder character to be displayed instead of the characters actually entered in a **[TextBox](textbox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **String** that specifies a placeholder character to be displayed instead of the characters actually entered in a **[TextBox](Outlook.textbox.md)**. Read/write.
 
 
 ## Syntax

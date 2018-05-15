@@ -36,5 +36,5 @@ You assign a profile name when you create a profile.
 #### Concepts
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SharingItem.PropertyChange Event (Outlook)
 
-Occurs when an explicit built-in property (for example,  **[Subject](sharingitem-subject-property-outlook.md)** ) of an instance of the parent object is changed.
+Occurs when an explicit built-in property (for example,  **[Subject](Outlook.SharingItem.Subject.md)** ) of an instance of the parent object is changed.
 
 
 ## Syntax
@@ -39,5 +39,5 @@ The property name is passed to the event so that you can determine which propert
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

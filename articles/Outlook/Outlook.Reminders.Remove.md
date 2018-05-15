@@ -37,5 +37,5 @@ Removes an object from the collection.
 #### Concepts
 
 
-[Reminders Object](reminders-object-outlook.md)
+[Reminders Object](Outlook.Reminders.md)
 

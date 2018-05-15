@@ -27,7 +27,7 @@ Represents the window in which the contents of a folder are displayed.
     
 - Use the  **[GetExplorer](http://msdn.microsoft.com/library/f60bf373-802e-cb93-2152-bc6c8945edb1%28Office.15%29.aspx)** method to return the **Explorer** object associated with a folder.
     
-- Use the  **[Display](http://msdn.microsoft.com/library/cde389e0-5ec9-8261-5ec0-9a5ba4f8776d%28Office.15%29.aspx)** method of a **[Folder](folder-object-outlook.md)** object to display a folder in its associated explorer.
+- Use the  **[Display](http://msdn.microsoft.com/library/cde389e0-5ec9-8261-5ec0-9a5ba4f8776d%28Office.15%29.aspx)** method of a **[Folder](Outlook.Folder.md)** object to display a folder in its associated explorer.
     
 
 ## Events

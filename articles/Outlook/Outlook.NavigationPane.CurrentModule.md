@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationPane.CurrentModule Property (Outlook)
 
-Returns or sets a  **[NavigationModule](navigationmodule-object-outlook.md)** object that represents the currently selected navigation module in the Navigation Pane. Read/write.
+Returns or sets a  **[NavigationModule](Outlook.NavigationModule.md)** object that represents the currently selected navigation module in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **[NavigationModule](navigationmodule-object-outlook.md)** ob
 #### Concepts
 
 
-[NavigationPane Object](navigationpane-object-outlook.md)
+[NavigationPane Object](Outlook.NavigationPane.md)
 

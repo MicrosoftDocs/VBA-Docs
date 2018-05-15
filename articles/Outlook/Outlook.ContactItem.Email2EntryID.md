@@ -27,7 +27,7 @@ Returns a  **String** representing the entry ID of the second e-mail entry for t
 
 This property corresponds to the MAPI named property  **dispidEmail2OriginalEntryID** .
 
-If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **Email2EntryID** , you should get the property through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object returned by the **[ContactItem.PropertyAccessor](contactitem-propertyaccessor-property-outlook.md)** property, specifying the MAPI property **PidLidEmail2OriginalEntryId** property and its MAPI id namespace. The following code sample in VBA shows the workaround.
+If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **Email2EntryID** , you should get the property through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by the **[ContactItem.PropertyAccessor](Outlook.ContactItem.PropertyAccessor.md)** property, specifying the MAPI property **PidLidEmail2OriginalEntryId** property and its MAPI id namespace. The following code sample in VBA shows the workaround.
 
 
 
@@ -91,5 +91,5 @@ End Sub
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

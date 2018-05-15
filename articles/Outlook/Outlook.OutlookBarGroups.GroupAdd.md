@@ -29,7 +29,7 @@ Occurs when a new group has been added to the  **Shortcuts** pane.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _NewGroup_|Required| **[OutlookBarGroup](outlookbargroup-object-outlook.md)**|The  **OutlookBarGroup** that was added.|
+| _NewGroup_|Required| **[OutlookBarGroup](Outlook.OutlookBarGroup.md)**|The  **OutlookBarGroup** that was added.|
 
 ## Remarks
 
@@ -64,5 +64,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarGroups Object](outlookbargroups-object-outlook.md)
+[OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 

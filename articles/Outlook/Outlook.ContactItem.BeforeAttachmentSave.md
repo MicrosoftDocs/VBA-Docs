@@ -26,7 +26,7 @@ Occurs just before an attachment is saved.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **[Attachment](attachment-object-outlook.md)**|The  **Attachment** to be saved.|
+| _Attachment_|Required| **[Attachment](Outlook.Attachment.md)**|The  **Attachment** to be saved.|
 | _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True** , the save operation is not completed and the attachment is not changed.|
 
 ## Remarks
@@ -42,5 +42,5 @@ In VBScript, if you set the return value of this function to  **False** , the sa
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

@@ -37,6 +37,6 @@ The  **Image** supports the following file formats:
     
 
 
-You can also display a picture on a  **[Label](label-object-outlook-forms-script.md)**. However, a  **Label** does not let you crop, size, or zoom the picture.<P>
+You can also display a picture on a  **[Label](Outlook.label.md)**. However, a  **Label** does not let you crop, size, or zoom the picture.<P>
 
 

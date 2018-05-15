@@ -25,7 +25,7 @@ Creates another instance of an object.
 
 ### Return Value
 
-A  **[NoteItem](noteitem-object-outlook.md)** object that represents a copy of the specified note.
+A  **[NoteItem](Outlook.NoteItem.md)** object that represents a copy of the specified note.
 
 
 ## Example
@@ -72,5 +72,5 @@ End Sub
 #### Concepts
 
 
-[NoteItem Object](noteitem-object-outlook.md)
+[NoteItem Object](Outlook.NoteItem.md)
 

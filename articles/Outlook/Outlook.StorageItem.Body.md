@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
 ## Remarks
 
- **[StorageItem](storageitem-object-outlook.md)** objects only support the item body in text format. They do not support HTML or RTF body streams.
+ **[StorageItem](Outlook.StorageItem.md)** objects only support the item body in text format. They do not support HTML or RTF body streams.
 
 
 ## See also
@@ -34,5 +34,5 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 #### Concepts
 
 
-[StorageItem Object](storageitem-object-outlook.md)
+[StorageItem Object](Outlook.StorageItem.md)
 

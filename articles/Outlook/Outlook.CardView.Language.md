@@ -32,7 +32,7 @@ If a valid language code is specified, the object will only be available in the 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example sets the language type of all  **[View](view-object-outlook.md)** objects of type **olTableView** to U.S. English.
+The following Microsoft Visual Basic for Applications (VBA) example sets the language type of all  **[View](Outlook.View.md)** objects of type **olTableView** to U.S. English.
 
 
 ```vb
@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[CardView Object](cardview-object-outlook.md)
+[CardView Object](Outlook.CardView.md)
 

@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](postitem-reminderoverridedefault-property-outlook.md)** and **[ReminderPlaySound](postitem-reminderplaysound-property-outlook.md)** properties are set to **True** .
+This property is only valid if the  **[ReminderOverrideDefault](Outlook.PostItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.PostItem.ReminderPlaySound.md)** properties are set to **True** .
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is only valid if the  **[ReminderOverrideDefault](postitem-reminde
 #### Concepts
 
 
-[PostItem Object](postitem-object-outlook.md)
+[PostItem Object](Outlook.PostItem.md)
 

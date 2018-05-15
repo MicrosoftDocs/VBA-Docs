@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rules.Save Method (Outlook)
 
-Saves all rules in the  **[Rules](rules-object-outlook.md)** collection.
+Saves all rules in the  **[Rules](Outlook.Rules.md)** collection.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ After you enable a rule, you must also save the rule by using  **Rules.Save** so
 
  **Rules.Save** can be an expensive operation in terms of performance on slow connections to Exchange server. For more information on using the progress dialog box, see[Manage Rules in the Outlook Object Model](http://msdn.microsoft.com/library/05ddd643-e9bd-a37d-b680-b8519960a5f6%28Office.15%29.aspx).
 
-Saving rules that are incompatible or have improperly defined actions or conditions (such as an empty string for  **[TextRuleCondition.Text](textrulecondition-text-property-outlook.md)** ) will return an error.
+Saving rules that are incompatible or have improperly defined actions or conditions (such as an empty string for  **[TextRuleCondition.Text](Outlook.TextRuleCondition.Text.md)** ) will return an error.
 
 The Exchange server limits the maximum number of rules that can be supported by a store.  **Rules.Save** returns an error when this limit is reached.
 
@@ -48,5 +48,5 @@ The Exchange server limits the maximum number of rules that can be supported by 
 #### Concepts
 
 
-[Rules Object](rules-object-outlook.md)
+[Rules Object](Outlook.Rules.md)
 

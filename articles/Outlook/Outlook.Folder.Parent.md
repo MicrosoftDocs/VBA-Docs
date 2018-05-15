@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **[Folder](folder-object-outlook.md)** object is the **[Folders](folders-object-outlook.md)** collection object.
+The parent of the  **[Folder](Outlook.Folder.md)** object is the **[Folders](Outlook.Folders.md)** collection object.
 
 
 ## See also
@@ -34,5 +34,5 @@ The parent of the  **[Folder](folder-object-outlook.md)** object is the **[Folde
 #### Concepts
 
 
-[Folder Object](folder-object-outlook.md)
+[Folder Object](Outlook.Folder.md)
 

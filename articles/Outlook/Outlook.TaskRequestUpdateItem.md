@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # TaskRequestUpdateItem Object (Outlook)
 
-Represents a response to a  **[TaskRequestItem](taskrequestitem-object-outlook.md)** sent by the initiating user.
+Represents a response to a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
 
 
 ## Remarks
 
-If the delegated user updates the task by changing properties such as the  **[DueDate](taskitem-duedate-property-outlook.md)** or the **[Status](taskitem-status-property-outlook.md)**, and then sends it, the associated **[TaskItem](taskitem-object-outlook.md)** is received by the delegator as a **TaskRequestUpdateItem** object.
+If the delegated user updates the task by changing properties such as the  **[DueDate](Outlook.TaskItem.DueDate.md)** or the **[Status](Outlook.TaskItem.Status.md)**, and then sends it, the associated **[TaskItem](Outlook.TaskItem.md)** is received by the delegator as a **TaskRequestUpdateItem** object.
 
 Unlike other Microsoft Outlook objects, you cannot create this object.
 
-Use the  **[GetAssociatedTask](taskrequestupdateitem-getassociatedtask-method-outlook.md)** method to return the **TaskItem** object that is associated with this **TaskRequestUpdateItem**. Work directly with the **TaskItem** object
+Use the  **[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.md)** method to return the **TaskItem** object that is associated with this **TaskRequestUpdateItem**. Work directly with the **TaskItem** object
 
 
 ## Events
@@ -31,32 +31,32 @@ Use the  **[GetAssociatedTask](taskrequestupdateitem-getassociatedtask-method-ou
 
 |**Name**|
 |:-----|
-|[AfterWrite](taskrequestupdateitem-afterwrite-event-outlook.md)|
-|[AttachmentAdd](taskrequestupdateitem-attachmentadd-event-outlook.md)|
-|[AttachmentRead](taskrequestupdateitem-attachmentread-event-outlook.md)|
-|[AttachmentRemove](taskrequestupdateitem-attachmentremove-event-outlook.md)|
-|[BeforeAttachmentAdd](taskrequestupdateitem-beforeattachmentadd-event-outlook.md)|
-|[BeforeAttachmentPreview](taskrequestupdateitem-beforeattachmentpreview-event-outlook.md)|
-|[BeforeAttachmentRead](taskrequestupdateitem-beforeattachmentread-event-outlook.md)|
-|[BeforeAttachmentSave](taskrequestupdateitem-beforeattachmentsave-event-outlook.md)|
-|[BeforeAttachmentWriteToTempFile](taskrequestupdateitem-beforeattachmentwritetotempfile-event-outlook.md)|
-|[BeforeAutoSave](taskrequestupdateitem-beforeautosave-event-outlook.md)|
-|[BeforeCheckNames](taskrequestupdateitem-beforechecknames-event-outlook.md)|
-|[BeforeDelete](taskrequestupdateitem-beforedelete-event-outlook.md)|
-|[BeforeRead](taskrequestupdateitem-beforeread-event-outlook.md)|
-|[Close](taskrequestupdateitem-close-event-outlook.md)|
-|[CustomAction](taskrequestupdateitem-customaction-event-outlook.md)|
-|[CustomPropertyChange](taskrequestupdateitem-custompropertychange-event-outlook.md)|
-|[Forward](taskrequestupdateitem-forward-event-outlook.md)|
-|[Open](taskrequestupdateitem-open-event-outlook.md)|
-|[PropertyChange](taskrequestupdateitem-propertychange-event-outlook.md)|
-|[Read](taskrequestupdateitem-read-event-outlook.md)|
-|[ReadComplete](taskrequestupdateitem-readcomplete-event-outlook.md)|
-|[Reply](taskrequestupdateitem-reply-event-outlook.md)|
-|[ReplyAll](taskrequestupdateitem-replyall-event-outlook.md)|
-|[Send](taskrequestupdateitem-send-event-outlook.md)|
-|[Unload](taskrequestupdateitem-unload-event-outlook.md)|
-|[Write](taskrequestupdateitem-write-event-outlook.md)|
+|[AfterWrite](Outlook.TaskRequestUpdateItem.AfterWrite.md)|
+|[AttachmentAdd](Outlook.TaskRequestUpdateItem.AttachmentAdd.md)|
+|[AttachmentRead](Outlook.TaskRequestUpdateItem.AttachmentRead.md)|
+|[AttachmentRemove](Outlook.TaskRequestUpdateItem.AttachmentRemove.md)|
+|[BeforeAttachmentAdd](Outlook.TaskRequestUpdateItem.BeforeAttachmentAdd.md)|
+|[BeforeAttachmentPreview](Outlook.TaskRequestUpdateItem.BeforeAttachmentPreview.md)|
+|[BeforeAttachmentRead](Outlook.TaskRequestUpdateItem.BeforeAttachmentRead.md)|
+|[BeforeAttachmentSave](Outlook.TaskRequestUpdateItem.BeforeAttachmentSave.md)|
+|[BeforeAttachmentWriteToTempFile](Outlook.TaskRequestUpdateItem.BeforeAttachmentWriteToTempFile.md)|
+|[BeforeAutoSave](Outlook.TaskRequestUpdateItem.BeforeAutoSave.md)|
+|[BeforeCheckNames](Outlook.TaskRequestUpdateItem.BeforeCheckNames.md)|
+|[BeforeDelete](Outlook.TaskRequestUpdateItem.BeforeDelete.md)|
+|[BeforeRead](Outlook.TaskRequestUpdateItem.BeforeRead.md)|
+|[Close](Outlook.TaskRequestUpdateItem.Close(even).md)|
+|[CustomAction](Outlook.TaskRequestUpdateItem.CustomAction.md)|
+|[CustomPropertyChange](Outlook.TaskRequestUpdateItem.CustomPropertyChange.md)|
+|[Forward](Outlook.TaskRequestUpdateItem.Forward.md)|
+|[Open](Outlook.TaskRequestUpdateItem.Open.md)|
+|[PropertyChange](Outlook.TaskRequestUpdateItem.PropertyChange.md)|
+|[Read](Outlook.TaskRequestUpdateItem.Read.md)|
+|[ReadComplete](Outlook.taskrequestupdateitem.readcomplete.md)|
+|[Reply](Outlook.TaskRequestUpdateItem.Reply.md)|
+|[ReplyAll](Outlook.TaskRequestUpdateItem.ReplyAll.md)|
+|[Send](Outlook.TaskRequestUpdateItem.Send.md)|
+|[Unload](Outlook.TaskRequestUpdateItem.Unload.md)|
+|[Write](Outlook.TaskRequestUpdateItem.Write.md)|
 
 ## Methods
 
@@ -64,17 +64,17 @@ Use the  **[GetAssociatedTask](taskrequestupdateitem-getassociatedtask-method-ou
 
 |**Name**|
 |:-----|
-|[Close](taskrequestupdateitem-close-method-outlook.md)|
-|[Copy](taskrequestupdateitem-copy-method-outlook.md)|
-|[Delete](taskrequestupdateitem-delete-method-outlook.md)|
-|[Display](taskrequestupdateitem-display-method-outlook.md)|
-|[GetAssociatedTask](taskrequestupdateitem-getassociatedtask-method-outlook.md)|
-|[GetConversation](taskrequestupdateitem-getconversation-method-outlook.md)|
-|[Move](taskrequestupdateitem-move-method-outlook.md)|
-|[PrintOut](taskrequestupdateitem-printout-method-outlook.md)|
-|[Save](taskrequestupdateitem-save-method-outlook.md)|
-|[SaveAs](taskrequestupdateitem-saveas-method-outlook.md)|
-|[ShowCategoriesDialog](taskrequestupdateitem-showcategoriesdialog-method-outlook.md)|
+|[Close](Outlook.TaskRequestUpdateItem.Close(method).md)|
+|[Copy](Outlook.TaskRequestUpdateItem.Copy.md)|
+|[Delete](Outlook.TaskRequestUpdateItem.Delete.md)|
+|[Display](Outlook.TaskRequestUpdateItem.Display.md)|
+|[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.md)|
+|[GetConversation](Outlook.TaskRequestUpdateItem.GetConversation.md)|
+|[Move](Outlook.TaskRequestUpdateItem.Move.md)|
+|[PrintOut](Outlook.TaskRequestUpdateItem.PrintOut.md)|
+|[Save](Outlook.TaskRequestUpdateItem.Save.md)|
+|[SaveAs](Outlook.TaskRequestUpdateItem.SaveAs.md)|
+|[ShowCategoriesDialog](Outlook.TaskRequestUpdateItem.ShowCategoriesDialog.md)|
 
 ## Properties
 
@@ -82,43 +82,43 @@ Use the  **[GetAssociatedTask](taskrequestupdateitem-getassociatedtask-method-ou
 
 |**Name**|
 |:-----|
-|[Actions](taskrequestupdateitem-actions-property-outlook.md)|
-|[Application](taskrequestupdateitem-application-property-outlook.md)|
-|[Attachments](taskrequestupdateitem-attachments-property-outlook.md)|
-|[AutoResolvedWinner](taskrequestupdateitem-autoresolvedwinner-property-outlook.md)|
-|[BillingInformation](taskrequestupdateitem-billinginformation-property-outlook.md)|
-|[Body](taskrequestupdateitem-body-property-outlook.md)|
-|[Categories](taskrequestupdateitem-categories-property-outlook.md)|
-|[Class](taskrequestupdateitem-class-property-outlook.md)|
-|[Companies](taskrequestupdateitem-companies-property-outlook.md)|
-|[Conflicts](taskrequestupdateitem-conflicts-property-outlook.md)|
-|[ConversationID](taskrequestupdateitem-conversationid-property-outlook.md)|
-|[ConversationIndex](taskrequestupdateitem-conversationindex-property-outlook.md)|
-|[ConversationTopic](taskrequestupdateitem-conversationtopic-property-outlook.md)|
-|[CreationTime](taskrequestupdateitem-creationtime-property-outlook.md)|
-|[DownloadState](taskrequestupdateitem-downloadstate-property-outlook.md)|
-|[EntryID](taskrequestupdateitem-entryid-property-outlook.md)|
-|[FormDescription](taskrequestupdateitem-formdescription-property-outlook.md)|
-|[GetInspector](taskrequestupdateitem-getinspector-property-outlook.md)|
-|[Importance](taskrequestupdateitem-importance-property-outlook.md)|
-|[IsConflict](taskrequestupdateitem-isconflict-property-outlook.md)|
-|[ItemProperties](taskrequestupdateitem-itemproperties-property-outlook.md)|
-|[LastModificationTime](taskrequestupdateitem-lastmodificationtime-property-outlook.md)|
-|[MarkForDownload](taskrequestupdateitem-markfordownload-property-outlook.md)|
-|[MessageClass](taskrequestupdateitem-messageclass-property-outlook.md)|
-|[Mileage](taskrequestupdateitem-mileage-property-outlook.md)|
-|[NoAging](taskrequestupdateitem-noaging-property-outlook.md)|
-|[OutlookInternalVersion](taskrequestupdateitem-outlookinternalversion-property-outlook.md)|
-|[OutlookVersion](taskrequestupdateitem-outlookversion-property-outlook.md)|
-|[Parent](taskrequestupdateitem-parent-property-outlook.md)|
-|[PropertyAccessor](taskrequestupdateitem-propertyaccessor-property-outlook.md)|
-|[RTFBody](taskrequestupdateitem-rtfbody-property-outlook.md)|
-|[Saved](taskrequestupdateitem-saved-property-outlook.md)|
-|[Sensitivity](taskrequestupdateitem-sensitivity-property-outlook.md)|
-|[Session](taskrequestupdateitem-session-property-outlook.md)|
-|[Size](taskrequestupdateitem-size-property-outlook.md)|
-|[Subject](taskrequestupdateitem-subject-property-outlook.md)|
-|[UnRead](taskrequestupdateitem-unread-property-outlook.md)|
+|[Actions](Outlook.TaskRequestUpdateItem.Actions.md)|
+|[Application](Outlook.TaskRequestUpdateItem.Application.md)|
+|[Attachments](Outlook.TaskRequestUpdateItem.Attachments.md)|
+|[AutoResolvedWinner](Outlook.TaskRequestUpdateItem.AutoResolvedWinner.md)|
+|[BillingInformation](Outlook.TaskRequestUpdateItem.BillingInformation.md)|
+|[Body](Outlook.TaskRequestUpdateItem.Body.md)|
+|[Categories](Outlook.TaskRequestUpdateItem.Categories.md)|
+|[Class](Outlook.TaskRequestUpdateItem.Class.md)|
+|[Companies](Outlook.TaskRequestUpdateItem.Companies.md)|
+|[Conflicts](Outlook.TaskRequestUpdateItem.Conflicts.md)|
+|[ConversationID](Outlook.TaskRequestUpdateItem.ConversationID.md)|
+|[ConversationIndex](Outlook.TaskRequestUpdateItem.ConversationIndex.md)|
+|[ConversationTopic](Outlook.TaskRequestUpdateItem.ConversationTopic.md)|
+|[CreationTime](Outlook.TaskRequestUpdateItem.CreationTime.md)|
+|[DownloadState](Outlook.TaskRequestUpdateItem.DownloadState.md)|
+|[EntryID](Outlook.TaskRequestUpdateItem.EntryID.md)|
+|[FormDescription](Outlook.TaskRequestUpdateItem.FormDescription.md)|
+|[GetInspector](Outlook.TaskRequestUpdateItem.GetInspector.md)|
+|[Importance](Outlook.TaskRequestUpdateItem.Importance.md)|
+|[IsConflict](Outlook.TaskRequestUpdateItem.IsConflict.md)|
+|[ItemProperties](Outlook.TaskRequestUpdateItem.ItemProperties.md)|
+|[LastModificationTime](Outlook.TaskRequestUpdateItem.LastModificationTime.md)|
+|[MarkForDownload](Outlook.TaskRequestUpdateItem.MarkForDownload.md)|
+|[MessageClass](Outlook.TaskRequestUpdateItem.MessageClass.md)|
+|[Mileage](Outlook.TaskRequestUpdateItem.Mileage.md)|
+|[NoAging](Outlook.TaskRequestUpdateItem.NoAging.md)|
+|[OutlookInternalVersion](Outlook.TaskRequestUpdateItem.OutlookInternalVersion.md)|
+|[OutlookVersion](Outlook.TaskRequestUpdateItem.OutlookVersion.md)|
+|[Parent](Outlook.TaskRequestUpdateItem.Parent.md)|
+|[PropertyAccessor](Outlook.TaskRequestUpdateItem.PropertyAccessor.md)|
+|[RTFBody](Outlook.TaskRequestUpdateItem.RTFBody.md)|
+|[Saved](Outlook.TaskRequestUpdateItem.Saved.md)|
+|[Sensitivity](Outlook.TaskRequestUpdateItem.Sensitivity.md)|
+|[Session](Outlook.TaskRequestUpdateItem.Session.md)|
+|[Size](Outlook.TaskRequestUpdateItem.Size.md)|
+|[Subject](Outlook.TaskRequestUpdateItem.Subject.md)|
+|[UnRead](Outlook.TaskRequestUpdateItem.UnRead.md)|
 |[UserProperties](taskrequestupdateitem-userproperties-property-outlook.md)|
 
 ## See also

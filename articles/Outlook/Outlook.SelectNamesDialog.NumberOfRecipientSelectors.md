@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SelectNamesDialog.NumberOfRecipientSelectors Property (Outlook)
 
-Returns or sets a  **[OlRecipientSelectors](olrecipientselectors-enumeration-outlook.md)** constant that determines the number of recipient edit boxes (each associated with a command button) displayed in the **Select Names** dialog box. Read/write.
+Returns or sets a  **[OlRecipientSelectors](Outlook.OlRecipientSelectors.md)** constant that determines the number of recipient edit boxes (each associated with a command button) displayed in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ Returns or sets a  **[OlRecipientSelectors](olrecipientselectors-enumeration-out
 
 A recipient edit box allows you to enter recipient names. Each recipient edit box is associated with a command button in the  **Select Names** dialog box; examples of a command button for a recipient edit box are the **To** and **Cc** command buttons. The default value of **NumberOfRecipientSelectors** is **OlRecipientSelectors.olToCcBcc** .
 
-If you set  **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowTo** and then subsequently set the text for **[SelectNamesDialog.CcLabel](selectnamesdialog-cclabel-property-outlook.md)** or **[SelectNamesDialog.BccLabel](selectnamesdialog-bcclabel-property-outlook.md)** , the **NumberOfRecipientSelectors** will remain unchanged.
+If you set  **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowTo** and then subsequently set the text for **[SelectNamesDialog.CcLabel](Outlook.SelectNamesDialog.CcLabel.md)** or **[SelectNamesDialog.BccLabel](Outlook.SelectNamesDialog.BccLabel.md)** , the **NumberOfRecipientSelectors** will remain unchanged.
 
-If you set  **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowNone** , then the **[SelectNamesDialog.AllowMultipleSelection](selectnamesdialog-allowmultipleselection-property-outlook.md)** property will be ignored.
+If you set  **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowNone** , then the **[SelectNamesDialog.AllowMultipleSelection](Outlook.SelectNamesDialog.AllowMultipleSelection.md)** property will be ignored.
 
 
 ## See also
@@ -38,5 +38,5 @@ If you set  **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowNone*
 #### Concepts
 
 
-[SelectNamesDialog Object](selectnamesdialog-object-outlook.md)
+[SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

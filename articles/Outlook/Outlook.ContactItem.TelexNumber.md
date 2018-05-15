@@ -29,5 +29,5 @@ Returns or sets a  **String** indicating the telex number for the contact. Read/
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[TimeZones Object](timezones-object-outlook.md)
+[TimeZones Object](Outlook.TimeZones.md)
 

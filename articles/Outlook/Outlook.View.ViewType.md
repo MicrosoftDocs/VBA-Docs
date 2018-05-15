@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ViewType Property (Outlook)
 
-Returns an  **[OlViewType](olviewtype-enumeration-outlook.md)** constant representing the view type of a **[View](view-object-outlook.md)** object. Read-only.
+Returns an  **[OlViewType](Outlook.OlViewType.md)** constant representing the view type of a **[View](Outlook.View.md)** object. Read-only.
 
 
 ## Syntax
@@ -76,5 +76,5 @@ End Sub
 #### Concepts
 
 
-[View Object](view-object-outlook.md)
+[View Object](Outlook.View.md)
 

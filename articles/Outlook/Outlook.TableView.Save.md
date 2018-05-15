@@ -29,5 +29,5 @@ Saves the view, or saves the changes to a view.
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

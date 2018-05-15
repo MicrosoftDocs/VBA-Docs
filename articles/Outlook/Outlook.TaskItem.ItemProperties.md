@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.ItemProperties Property (Outlook)
 
-Returns an  **[ItemProperties](itemproperties-object-outlook.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
+Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that represents all standard and user-defined properties associated with the Outlook item. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

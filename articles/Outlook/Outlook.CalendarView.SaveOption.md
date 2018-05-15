@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.SaveOption Property (Outlook)
 
-Returns an  **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
+Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that specifies the folders in which the specified view is available and the read permissions attached to the view. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns an  **[OlViewSaveOption](olviewsaveoption-enumeration-outlook.md)** cons
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[CalendarView](calendarview-object-outlook.md)** object is created by using the **[Add](views-add-method-outlook.md)** method of the **[Views](views-object-outlook.md)** collection.
+The value of the  **SaveOption** property is set when the **[CalendarView](calendarOutlook.View.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](view-object-outlook.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
+The following Visual Basic for Applications (VBA) example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **[View](Outlook.View.md)** object and a **Boolean** value that indicates if the **View** user interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
 
 
 ```vb
@@ -120,5 +120,5 @@ End Sub
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](calendarOutlook.View.md)
 

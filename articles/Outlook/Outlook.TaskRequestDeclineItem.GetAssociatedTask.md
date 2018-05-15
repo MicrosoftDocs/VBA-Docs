@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskRequestDeclineItem.GetAssociatedTask Method (Outlook)
 
-Returns a  **[TaskItem](taskitem-object-outlook.md)** object that represents the requested task.
+Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the requested task.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ A  **TaskItem** object that represents the requested task.
 
 ## Remarks
 
-The  **GetAssociatedTask** method will not work unless the **TaskItem** is processed before the method is called. To do so, call the **[Display](taskitem-display-method-outlook.md)** method before calling **GetAssociatedTask** .
+The  **GetAssociatedTask** method will not work unless the **TaskItem** is processed before the method is called. To do so, call the **[Display](Outlook.TaskItem.Display.md)** method before calling **GetAssociatedTask** .
 
 
 ## See also
@@ -47,5 +47,5 @@ The  **GetAssociatedTask** method will not work unless the **TaskItem** is proce
 #### Concepts
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

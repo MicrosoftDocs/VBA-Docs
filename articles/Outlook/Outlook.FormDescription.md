@@ -22,7 +22,7 @@ The properties of an Outlook form are displayed on the  **Properties** page of a
 
 To see the  **Properties** page in design time, open the Outlook item, on the **Developer** tab of the Microsoft Office Fluent ribbon, click **Design This Form**, and then click the  **Properties** tab in the item's window.
 
-Use the  **[FormDescription](mailitem-formdescription-property-outlook.md)** property to return the **FormDescription** object associated with an Outlook item.
+Use the  **[FormDescription](Outlook.MailItem.FormDescription.md)** property to return the **FormDescription** object associated with an Outlook item.
 
 
 ## Methods
@@ -31,7 +31,7 @@ Use the  **[FormDescription](mailitem-formdescription-property-outlook.md)** pro
 
 |**Name**|
 |:-----|
-|[PublishForm](formdescription-publishform-method-outlook.md)|
+|[PublishForm](Outlook.FormDescription.PublishForm.md)|
 
 ## Properties
 
@@ -39,27 +39,27 @@ Use the  **[FormDescription](mailitem-formdescription-property-outlook.md)** pro
 
 |**Name**|
 |:-----|
-|[Application](formdescription-application-property-outlook.md)|
-|[Category](formdescription-category-property-outlook.md)|
-|[CategorySub](formdescription-categorysub-property-outlook.md)|
-|[Class](formdescription-class-property-outlook.md)|
-|[Comment](formdescription-comment-property-outlook.md)|
-|[ContactName](formdescription-contactname-property-outlook.md)|
-|[DisplayName](formdescription-displayname-property-outlook.md)|
-|[Hidden](formdescription-hidden-property-outlook.md)|
-|[Icon](formdescription-icon-property-outlook.md)|
-|[Locked](formdescription-locked-property-outlook.md)|
-|[MessageClass](formdescription-messageclass-property-outlook.md)|
-|[MiniIcon](formdescription-miniicon-property-outlook.md)|
-|[Name](formdescription-name-property-outlook.md)|
-|[Number](formdescription-number-property-outlook.md)|
-|[OneOff](formdescription-oneoff-property-outlook.md)|
-|[Parent](formdescription-parent-property-outlook.md)|
-|[ScriptText](formdescription-scripttext-property-outlook.md)|
-|[Session](formdescription-session-property-outlook.md)|
-|[Template](formdescription-template-property-outlook.md)|
-|[UseWordMail](formdescription-usewordmail-property-outlook.md)|
-|[Version](formdescription-version-property-outlook.md)|
+|[Application](Outlook.FormDescription.Application.md)|
+|[Category](Outlook.FormDescription.Category.md)|
+|[CategorySub](Outlook.FormDescription.CategorySub.md)|
+|[Class](Outlook.FormDescription.Class.md)|
+|[Comment](Outlook.FormDescription.Comment.md)|
+|[ContactName](Outlook.FormDescription.ContactName.md)|
+|[DisplayName](Outlook.FormDescription.DisplayName.md)|
+|[Hidden](Outlook.FormDescription.Hidden.md)|
+|[Icon](Outlook.FormDescription.Icon.md)|
+|[Locked](Outlook.FormDescription.Locked.md)|
+|[MessageClass](Outlook.FormDescription.MessageClass.md)|
+|[MiniIcon](Outlook.FormDescription.MiniIcon.md)|
+|[Name](Outlook.FormDescription.Name.md)|
+|[Number](Outlook.FormDescription.Number.md)|
+|[OneOff](Outlook.FormDescription.OneOff.md)|
+|[Parent](Outlook.FormDescription.Parent.md)|
+|[ScriptText](Outlook.FormDescription.ScriptText.md)|
+|[Session](Outlook.FormDescription.Session.md)|
+|[Template](Outlook.FormDescription.Template.md)|
+|[UseWordMail](Outlook.FormDescription.UseWordMail.md)|
+|[Version](Outlook.FormDescription.Version.md)|
 
 ## See also
 

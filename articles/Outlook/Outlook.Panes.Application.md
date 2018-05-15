@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Panes.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent Outlook application for the object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent Outlook application for the object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[Panes Object](panes-object-outlook.md)
+[Panes Object](Outlook.Panes.md)
 

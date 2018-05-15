@@ -32,7 +32,7 @@ The settings for  **ScrollBars** are:
 |3|Displays both a horizontal and a vertical scroll bar.|
 A scroll bar constrains its scroll box to the visible region of the scroll bar. It also modifies the scroll position as needed to keep the entire scroll bar visible. The range of a scroll bar changes when the value of the  **ScrollBars** property changes, the scroll size changes, or the visible size changes.
 
-For a single-line control, you can display a horizontal scroll bar by using the  **ScrollBars** and **[AutoSize](textbox-autosize-property-outlook-forms-script.md)** properties. Scroll bars are hidden or displayed according to the following rules:
+For a single-line control, you can display a horizontal scroll bar by using the  **ScrollBars** and **[AutoSize](Outlook.textbox.autosize.md)** properties. Scroll bars are hidden or displayed according to the following rules:
 
 
 1. When  **ScrollBars** is set to 0, no scroll bar is displayed.
@@ -43,7 +43,7 @@ For a single-line control, you can display a horizontal scroll bar by using the 
     
 
 
-For a multiline  **[TextBox](textbox-object-outlook-forms-script.md)**, you can display scroll bars by using the  **ScrollBars**,  **[WordWrap](textbox-wordwrap-property-outlook-forms-script.md)**, and  **AutoSize** properties. Scroll bars are hidden or displayed according to the following rules:
+For a multiline  **[TextBox](Outlook.textbox.md)**, you can display scroll bars by using the  **ScrollBars**,  **[WordWrap](Outlook.textbox.wordwrap.md)**, and  **AutoSize** properties. Scroll bars are hidden or displayed according to the following rules:
 
 
 1. When  **ScrollBars** is set to 0, no scroll bar is displayed.

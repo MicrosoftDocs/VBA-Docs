@@ -25,7 +25,7 @@ Returns or sets a semicolon-delimited  **String** list of display names for the 
 
 ## Remarks
 
-This property contains the display names only. The  **To** property corresponds to the MAPI property **PidTagDisplayTo** . The **[Recipients](recipients-object-outlook.md)** collection should be used to modify this property.
+This property contains the display names only. The  **To** property corresponds to the MAPI property **PidTagDisplayTo** . The **[Recipients](Outlook.Recipients.md)** collection should be used to modify this property.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property contains the display names only. The  **To** property corresponds 
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

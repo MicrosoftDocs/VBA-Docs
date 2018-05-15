@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.SelectedEndTime Property (Outlook)
 
-Returns a  **Date** that represents the end time of a selection in the **[CalendarView](calendarview-object-outlook.md)** object. Read-only.
+Returns a  **Date** that represents the end time of a selection in the **[CalendarView](Outlook.CalendarView.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ Returns a  **Date** that represents the end time of a selection in the **[Calend
 
 ## Remarks
 
-The intent of the  **[SelectedStartTime](calendarview-selectedstarttime-property-outlook.md)** and the **SelectedEndTime** properties is to replicate, programmatically, the way that users create an appointment in the Microsoft Outlook user interface. Typically, a user selects a time range in the calendar view and then creates a new appointment by double clicking the selection or by clicking **New Appointment** in the **Home** tab of the ribbon. With these two properties of the **CalendarView** object, you can obtain the start time and the end time of any selection in that view programmatically. You can then programmatically create the **[AppointmentItem](appointmentitem-object-outlook.md)** object, setting the **[Start](appointmentitem-start-property-outlook.md)** and **[End](appointmentitem-end-property-outlook.md)** properties of the **AppointmentItem** object to the **SelectedStartTime** and **SelectedEndTime** properties respectively to reflect any user selection in the calendar view.
+The intent of the  **[SelectedStartTime](Outlook.CalendarView.SelectedStartTime.md)** and the **SelectedEndTime** properties is to replicate, programmatically, the way that users create an appointment in the Microsoft Outlook user interface. Typically, a user selects a time range in the calendar view and then creates a new appointment by double clicking the selection or by clicking **New Appointment** in the **Home** tab of the ribbon. With these two properties of the **CalendarView** object, you can obtain the start time and the end time of any selection in that view programmatically. You can then programmatically create the **[AppointmentItem](Outlook.AppointmentItem.md)** object, setting the **[Start](Outlook.AppointmentItem.Start.md)** and **[End](Outlook.AppointmentItem.End.md)** properties of the **AppointmentItem** object to the **SelectedStartTime** and **SelectedEndTime** properties respectively to reflect any user selection in the calendar view.
 
 If the selection in the calendar view is a time range and is not an item,  **SelectedEndTime** returns a **Date** value equal to the end time of the selection.
 
-If one or more items are selected in the calendar view,  **SelectedEndTime** returns a **Date** value equal to the end time of the first item in the selection of the explorer that displays the calendar view. That selection is specified by the **[Selection](explorer-selection-property-outlook.md)** property of the **[Explorer](explorer-object-outlook.md)** object.
+If one or more items are selected in the calendar view,  **SelectedEndTime** returns a **Date** value equal to the end time of the first item in the selection of the explorer that displays the calendar view. That selection is specified by the **[Selection](Outlook.Explorer.Selection.md)** property of the **[Explorer](Outlook.Explorer.md)** object.
 
-To use this property on a  **CalendarView** object, obtain the **CalendarView** object from the **[CurrentView](explorer-currentview-property-outlook.md)** property of the active **[Explorer](explorer-object-outlook.md)** object (which can be returned by the **[Application.ActiveExplorer](application-activeexplorer-method-outlook.md)** method). There is a known issue with using this property on an **CalendarView** object obtained otherwise - using the **[CurrentView](folder-currentview-property-outlook.md)** property of the current **[Folder](folder-object-outlook.md)** object (returned by the **[Application.ActiveExplorer.CurrentFolder](explorer-currentfolder-property-outlook.md)** property).
+To use this property on a  **CalendarView** object, obtain the **CalendarView** object from the **[CurrentView](Outlook.Explorer.CurrentView.md)** property of the active **[Explorer](Outlook.Explorer.md)** object (which can be returned by the **[Application.ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method). There is a known issue with using this property on an **CalendarView** object obtained otherwise - using the **[CurrentView](Outlook.Folder.CurrentView.md)** property of the current **[Folder](Outlook.Folder.md)** object (returned by the **[Application.ActiveExplorer.CurrentFolder](explorer-currentfolder-property-outlook.md)** property).
 
 
 ## Example
@@ -115,5 +115,5 @@ private void CreateAppointmentUsingSelectedTime()
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

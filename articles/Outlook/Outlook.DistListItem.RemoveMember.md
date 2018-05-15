@@ -29,7 +29,7 @@ Removes an individual member from a given distribution list.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Recipient_|Required| **[Recipient](recipient-object-outlook.md)**|The  **Recipient** to be removed from the distribution list.|
+| _Recipient_|Required| **[Recipient](Outlook.Recipient.md)**|The  **Recipient** to be removed from the distribution list.|
 
 ## Example
 
@@ -79,5 +79,5 @@ End Sub
 #### Concepts
 
 
-[DistListItem Object](distlistitem-object-outlook.md)
+[DistListItem Object](Outlook.DistListItem.md)
 

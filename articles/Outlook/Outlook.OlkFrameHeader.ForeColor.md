@@ -36,5 +36,5 @@ The frame header control has only the foreground color and not the background co
 #### Concepts
 
 
-[OlkFrameHeader Object](olkframeheader-object-outlook.md)
+[OlkFrameHeader Object](Outlook.OlkFrameHeader.md)
 

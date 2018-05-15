@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Actions Property (Outlook)
 
-Returns an  **[Actions](actions-object-outlook.md)** collection that represents all the available actions for the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the available actions for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Actions](actions-object-outlook.md)** collection that represents 
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

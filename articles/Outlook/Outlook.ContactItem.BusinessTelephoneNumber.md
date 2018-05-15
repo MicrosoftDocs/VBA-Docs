@@ -29,5 +29,5 @@ Returns or sets a  **String** representing the first business telephone number f
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

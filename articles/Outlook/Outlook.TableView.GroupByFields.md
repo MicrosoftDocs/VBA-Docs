@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.GroupByFields Property (Outlook)
 
-Returns an  **[OrderFields](orderfields-object-outlook.md)** object that represents the set of fields by which the items displayed in the **[TableView](tableview-object-outlook.md)** object are grouped. Read-only.
+Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the set of fields by which the items displayed in the **[TableView](Outlook.TableView.md)** object are grouped. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[OrderFields](orderfields-object-outlook.md)** object that represe
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

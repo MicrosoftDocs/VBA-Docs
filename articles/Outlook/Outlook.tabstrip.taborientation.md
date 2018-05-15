@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # TabStrip.TabOrientation Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of the tabs on a **[TabStrip](tabstrip-object-outlook-forms-script.md)**. Read/write.
+Returns or sets an  **Integer** that specifies the location of the tabs on a **[TabStrip](Outlook.tabstrip.md)**. Read/write.
 
 
 ## Syntax

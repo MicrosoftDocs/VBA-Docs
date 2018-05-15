@@ -36,5 +36,5 @@ To determine how the XML should be structured when creating views, you can creat
 #### Concepts
 
 
-[CalendarView Object](calendarview-object-outlook.md)
+[CalendarView Object](Outlook.CalendarView.md)
 

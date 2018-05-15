@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserProperties.Item Method (Outlook)
 
-Returns a  **[UserProperty](userproperty-object-outlook.md)** object from the collection.
+Returns a  **[UserProperty](Outlook.UserProperty.md)** object from the collection.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ A  **UserProperty** object that represents the specified object.
 #### Concepts
 
 
-[UserProperties Object](userproperties-object-outlook.md)
+[UserProperties Object](Outlook.UserProperties.md)
 

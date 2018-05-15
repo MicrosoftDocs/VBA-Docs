@@ -29,5 +29,5 @@ A  **Boolean** value that returns **True** if the item was automatically forward
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # DocumentItem.BeforeAttachmentRead Event (Outlook)
 
-Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](attachment-object-outlook.md)** object.
+Occurs before an attachment associated with an instance of the parent object is read from the file system, an attachment stream, or an  **[Attachment](Outlook.Attachment.md)** object.
 
 
 ## Syntax
@@ -35,5 +35,5 @@ Occurs before an attachment associated with an instance of the parent object is 
 #### Concepts
 
 
-[DocumentItem Object](documentitem-object-outlook.md)
+[DocumentItem Object](Outlook.DocumentItem.md)
 

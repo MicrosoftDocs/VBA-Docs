@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Parent Property (Outlook)
 
-Returns the parent object of the  **[Row](row-object-outlook.md)** object. Read-only.
+Returns the parent object of the  **[Row](Outlook.Row.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns the parent object of the  **[Row](row-object-outlook.md)** object. Read-
 #### Concepts
 
 
-[Row Object](row-object-outlook.md)
+[Row Object](Outlook.Row.md)
 

@@ -24,6 +24,6 @@ Returns or sets a  **Boolean** that specifies whether a picture is repeated acro
 
 If a picture is smaller than the form or page that contains it, you can tile the picture on the form or page.
 
-The tiling pattern depends on the current setting of the  **[PictureAlignment](image-picturealignment-property-outlook-forms-script.md)** and **[PictureSizeMode](image-picturesizemode-property-outlook-forms-script.md)** properties. For example, if **PictureAlignment** is set to 0, the tiling pattern starts at the upper left and repeats the picture across the form or page and down the height of the form or page. If **PictureSizeMode** is set to 0, the tiling pattern crops the last tile if it doesn't completely fit on the form or page.
+The tiling pattern depends on the current setting of the  **[PictureAlignment](Outlook.image.picturealignment.md)** and **[PictureSizeMode](Outlook.image.picturesizemode.md)** properties. For example, if **PictureAlignment** is set to 0, the tiling pattern starts at the upper left and repeats the picture across the form or page and down the height of the form or page. If **PictureSizeMode** is set to 0, the tiling pattern crops the last tile if it doesn't completely fit on the form or page.
 
 

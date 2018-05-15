@@ -34,5 +34,5 @@ This is a free-form string field. Setting this property to someone other than th
 #### Concepts
 
 
-[TaskItem Object](taskitem-object-outlook.md)
+[TaskItem Object](Outlook.TaskItem.md)
 

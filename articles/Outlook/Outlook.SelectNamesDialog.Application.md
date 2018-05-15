@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SelectNamesDialog.Application Property (Outlook)
 
-Returns an  **[Application](application-object-outlook.md)** object that represents the parent application (Outlook) for the **[SelectNamesDialog](selectnamesdialog-object-outlook.md)** object. Read-only.
+Returns an  **[Application](Outlook.Application.md)** object that represents the parent application (Outlook) for the **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns an  **[Application](application-object-outlook.md)** object that represe
 #### Concepts
 
 
-[SelectNamesDialog Object](selectnamesdialog-object-outlook.md)
+[SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

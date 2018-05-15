@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.NoAging Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** to not age the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a  **Boolean** value that is **True** to not age the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that is **True** to not age the **[SharingI
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

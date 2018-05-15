@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ClearTaskFlag Method (Outlook)
 
-Clears the  **[SharingItem](sharingitem-object-outlook.md)** object as a task.
+Clears the  **[SharingItem](Outlook.SharingItem.md)** object as a task.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Clears the  **[SharingItem](sharingitem-object-outlook.md)** object as a task.
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](sharingitem-ismarkedastask-property-outlook.md)** property to **False** .
+Calling this method sets the  **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property to **False** .
 
 
 ## See also
@@ -34,5 +34,5 @@ Calling this method sets the  **[IsMarkedAsTask](sharingitem-ismarkedastask-prop
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

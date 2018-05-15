@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.NavigationPane Property (Outlook)
 
-Returns a  **[NavigationPane](navigationpane-object-outlook.md)** object that represents the Navigation Pane for an **[Explorer](explorer-object-outlook.md)** object. Read-only.
+Returns a  **[NavigationPane](Outlook.NavigationPane.md)** object that represents the Navigation Pane for an **[Explorer](Outlook.Explorer.md)** object. Read-only.
 
 
 ## Syntax
@@ -74,5 +74,5 @@ End Sub
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

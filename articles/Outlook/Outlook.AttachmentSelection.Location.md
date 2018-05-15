@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AttachmentSelection.Location Property (Outlook)
 
-Returns a  **[OlSelectionLocation](olselectionlocation-enumeration-outlook.md)** constant that specifies where the attachment selection is in the Microsoft Outlook user interface. Read-only
+Returns a  **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant that specifies where the attachment selection is in the Microsoft Outlook user interface. Read-only
 
 
 ## Syntax
 
  _expression_ . **Location**
 
- _expression_ A variable that represents an **[AttachmentSelection](attachmentselection-object-outlook.md)** object.
+ _expression_ A variable that represents an **[AttachmentSelection](Outlook.AttachmentSelection.md)** object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ This property always returns the constant  **olAttachmentWell** .
 #### Concepts
 
 
-[AttachmentSelection Object](attachmentselection-object-outlook.md)
+[AttachmentSelection Object](Outlook.AttachmentSelection.md)
 

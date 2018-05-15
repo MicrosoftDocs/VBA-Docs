@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SenderInAddressListRuleCondition Object (Outlook)
 
-Represents a rule condition that the sender's address is in the address list specified in  **[AddressRuleCondition.Address](addressrulecondition-address-property-outlook.md)**.
+Represents a rule condition that the sender's address is in the address list specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.
 
 
 ## Remarks
 
- **SenderInAddressListRuleCondition** is derived from the **[RuleCondition](rulecondition-object-outlook.md)** object. Each rule is associated with a **[RuleConditions](ruleconditions-object-outlook.md)** object which has a **[SenderInAddressList](ruleconditions-senderinaddresslist-property-outlook.md)** property. The **SenderInAddressList** property always returns a **SenderInAddressListRuleCondition** object. If the rule has any of these rule conditions enabled, then **[SenderInAddressListRuleCondition.Enabled](senderinaddresslistrulecondition-enabled-property-outlook.md)** would be **True**.
+ **SenderInAddressListRuleCondition** is derived from the **[RuleCondition](Outlook.RuleCondition.md)** object. Each rule is associated with a **[RuleConditions](Outlook.RuleConditions.md)** object which has a **[SenderInAddressList](Outlook.RuleConditions.SenderInAddressList.md)** property. The **SenderInAddressList** property always returns a **SenderInAddressListRuleCondition** object. If the rule has any of these rule conditions enabled, then **[SenderInAddressListRuleCondition.Enabled](Outlook.SenderInAddressListRuleCondition.Enabled.md)** would be **True**.
 
 For more information on specifying rule conditions, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
 
@@ -29,12 +29,12 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 
 |**Name**|
 |:-----|
-|[AddressList](senderinaddresslistrulecondition-addresslist-property-outlook.md)|
-|[Application](senderinaddresslistrulecondition-application-property-outlook.md)|
-|[Class](senderinaddresslistrulecondition-class-property-outlook.md)|
-|[ConditionType](senderinaddresslistrulecondition-conditiontype-property-outlook.md)|
-|[Enabled](senderinaddresslistrulecondition-enabled-property-outlook.md)|
-|[Parent](senderinaddresslistrulecondition-parent-property-outlook.md)|
+|[AddressList](Outlook.SenderInAddressListRuleCondition.AddressList.md)|
+|[Application](Outlook.SenderInAddressListRuleCondition.Application.md)|
+|[Class](Outlook.SenderInAddressListRuleCondition.Class.md)|
+|[ConditionType](Outlook.SenderInAddressListRuleCondition.ConditionType.md)|
+|[Enabled](Outlook.SenderInAddressListRuleCondition.Enabled.md)|
+|[Parent](Outlook.SenderInAddressListRuleCondition.Parent.md)|
 |[Session](senderinaddresslistrulecondition-session-property-outlook.md)|
 
 ## See also

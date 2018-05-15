@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Tab.Visible Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a **[Tab](tab-object-outlook-forms-script.md)** is visible or hidden. Read/write.
+Returns or sets a  **Boolean** that specifies whether a **[Tab](Outlook.tab.md)** is visible or hidden. Read/write.
 
 
 ## Syntax

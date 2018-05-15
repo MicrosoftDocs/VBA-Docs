@@ -20,12 +20,12 @@ Returns a  **String** value that represents the full version number of the Micro
 
  _expression_ . **ExchangeMailboxServerVersion**
 
- _expression_ A variable that represents an **[Account](account-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Account](Outlook.Account.md)** object.
 
 
 ## Remarks
 
-This property is similar to the  **[ExchangeMailboxServerVersion](namespace-exchangemailboxserverversion-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
+This property is similar to the  **[ExchangeMailboxServerVersion](Outlook.NameSpace.ExchangeMailboxServerVersion.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
 
 This property returns a string that contains the version number of the Exchange server for the account. The version number has the following four parts. 
 
@@ -47,5 +47,5 @@ If an Exchange mailbox is not associated with this account, this property return
 #### Concepts
 
 
-[Account Object](account-object-outlook.md)
+[Account Object](Outlook.Account.md)
 

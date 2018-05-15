@@ -20,9 +20,9 @@ Represents a  **Send\Receive** group for a user.
 
 A  **Send\Receive** group lets users configure different synchronization scenarios, selecting which folders and which filters apply.
 
-Use the  **[Item](syncobjects-item-method-outlook.md)** method to retrieve the **SyncObject** object from a **[SyncObjects](syncobjects-object-outlook.md)** object. Because the **[Name](syncobject-name-property-outlook.md)** property is the default property of the **SyncObject** object, you can identify the group by name.
+Use the  **[Item](Outlook.SyncObjects.Item.md)** method to retrieve the **SyncObject** object from a **[SyncObjects](Outlook.SyncObjects.md)** object. Because the **[Name](Outlook.SyncObject.Name.md)** property is the default property of the **SyncObject** object, you can identify the group by name.
 
-The  **SyncObject** object is read-only; you cannot change its properties or create new ones. However, note that you can add one **Send/Receive** group using the **[SyncObjects.AppFolders](syncobjects-appfolders-property-outlook.md)** property which will create a **Send/Receive** group called **Application Folders**.
+The  **SyncObject** object is read-only; you cannot change its properties or create new ones. However, note that you can add one **Send/Receive** group using the **[SyncObjects.AppFolders](Outlook.SyncObjects.AppFolders.md)** property which will create a **Send/Receive** group called **Application Folders**.
 
 
 ## Example
@@ -41,10 +41,10 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 |**Name**|
 |:-----|
-|[OnError](syncobject-onerror-event-outlook.md)|
-|[Progress](syncobject-progress-event-outlook.md)|
-|[SyncEnd](syncobject-syncend-event-outlook.md)|
-|[SyncStart](syncobject-syncstart-event-outlook.md)|
+|[OnError](Outlook.SyncObject.OnError.md)|
+|[Progress](Outlook.SyncObject.Progress.md)|
+|[SyncEnd](Outlook.SyncObject.SyncEnd.md)|
+|[SyncStart](Outlook.SyncObject.SyncStart.md)|
 
 ## Methods
 
@@ -52,8 +52,8 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 |**Name**|
 |:-----|
-|[Start](syncobject-start-method-outlook.md)|
-|[Stop](syncobject-stop-method-outlook.md)|
+|[Start](Outlook.SyncObject.Start.md)|
+|[Stop](Outlook.SyncObject.Stop.md)|
 
 ## Properties
 
@@ -61,10 +61,10 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 |**Name**|
 |:-----|
-|[Application](syncobject-application-property-outlook.md)|
-|[Class](syncobject-class-property-outlook.md)|
-|[Name](syncobject-name-property-outlook.md)|
-|[Parent](syncobject-parent-property-outlook.md)|
+|[Application](Outlook.SyncObject.Application.md)|
+|[Class](Outlook.SyncObject.Class.md)|
+|[Name](Outlook.SyncObject.Name.md)|
+|[Parent](Outlook.SyncObject.Parent.md)|
 |[Session](syncobject-session-property-outlook.md)|
 
 ## See also

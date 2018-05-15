@@ -20,7 +20,7 @@ Stops the action of always moving conversation items in the specified store to a
 
  _expression_ . **StopAlwaysMoveToFolder**( **_Store_** )
 
- _expression_ A variable that represents a **[Conversation](conversation-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Stops the action of always moving conversation items in the specified store to a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Store_|Required| **[Store](store-object-outlook.md)**|The store where the conversation items to be cleaned up reside.|
+| _Store_|Required| **[Store](Outlook.Store.md)**|The store where the conversation items to be cleaned up reside.|
 
 ## Remarks
 
@@ -37,7 +37,7 @@ If the always-move action has not been turned on,  **StopAlwaysMoveToFolder** do
 
 If the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the stop-always-move action will apply to conversation items in the default delivery store.
 
-After you call the  **StopAlwaysMoveToFolder** method, calling the **[GetAlwaysMoveToFolder](conversation-getalwaysmovetofolder-method-outlook.md)** method returns **Null** ( **Nothing** in Visual Basic).
+After you call the  **StopAlwaysMoveToFolder** method, calling the **[GetAlwaysMoveToFolder](Outlook.Conversation.GetAlwaysMoveToFolder.md)** method returns **Null** ( **Nothing** in Visual Basic).
 
 
 ## See also
@@ -46,5 +46,5 @@ After you call the  **StopAlwaysMoveToFolder** method, calling the **[GetAlwaysM
 #### Concepts
 
 
-[Conversation Object](conversation-object-outlook.md)
+[Conversation Object](Outlook.Conversation.md)
 

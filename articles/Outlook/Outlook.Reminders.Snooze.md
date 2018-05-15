@@ -29,11 +29,11 @@ Occurs when a reminder is dismissed using the  **Snooze** button.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ReminderObject_|Required| **[Reminder](reminder-object-outlook.md)**|Represents the reminder to dismiss.|
+| _ReminderObject_|Required| **[Reminder](Outlook.Reminder.md)**|Represents the reminder to dismiss.|
 
 ## Remarks
 
-This event will fire when the  **[Snooze](reminder-snooze-method-outlook.md)** method is executed, or when the user clicks the **Snooze** button.
+This event will fire when the  **[Snooze](Outlook.Reminder.Snooze.md)** method is executed, or when the user clicks the **Snooze** button.
 
 
 ## Example
@@ -63,5 +63,5 @@ End Sub
 #### Concepts
 
 
-[Reminders Object](reminders-object-outlook.md)
+[Reminders Object](Outlook.Reminders.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SentOn Property (Outlook)
 
-Returns a  **Date** indicating the date and time on which the **[SharingItem](sharingitem-object-outlook.md)** was sent. Read-only.
+Returns a  **Date** indicating the date and time on which the **[SharingItem](Outlook.SharingItem.md)** was sent. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Date** indicating the date and time on which the **[SharingItem](sh
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagClientSubmitTime** . When you send an item using the object's **[Send](sharingitem-send-method-outlook.md)** method, the transport provider sets the **[ReceivedTime](sharingitem-receivedtime-property-outlook.md)** and **SentOn** properties for you.
+This property corresponds to the MAPI property  **PidTagClientSubmitTime** . When you send an item using the object's **[Send](Outlook.SharingItem.Send(method).md)** method, the transport provider sets the **[ReceivedTime](Outlook.SharingItem.ReceivedTime.md)** and **SentOn** properties for you.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property corresponds to the MAPI property  **PidTagClientSubmitTime** . Whe
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

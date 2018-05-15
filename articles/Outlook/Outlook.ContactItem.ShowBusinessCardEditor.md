@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.ShowBusinessCardEditor Method (Outlook)
 
-Displays the electronic business card (EBC) editor dialog box for the  **[ContactItem](contactitem-object-outlook.md)** object.
+Displays the electronic business card (EBC) editor dialog box for the  **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Calling this method retrieves the data for the specified  **ContactItem** object
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

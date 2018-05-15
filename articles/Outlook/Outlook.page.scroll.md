@@ -42,6 +42,6 @@ The settings for  _xAction_ and _yAction_ are:
 |4|Move one pagedown on a vertical scroll bar or one page right on a horizontal scroll bar. Movement is equivalent to pressing  **PAGE DOWN** on the keyboard to move the scroll bar.|
 |5|Move to the top of a vertical scroll bar or to the left end of a horizontal scroll bar.|
 |6|Move to the bottom of a vertical scroll bar or to the right end of a horizontal scroll bar.|
-The  **Scroll** method applies scroll bars that appear on a **[Page](page-object-outlook-forms-script.md)** that is larger than its display area. This method does not apply to the stand-alone **[ScrollBar](scrollbar-object-outlook-forms-script.md)** control or to scroll bars that appear on a **[TextBox](textbox-object-outlook-forms-script.md)**.
+The  **Scroll** method applies scroll bars that appear on a **[Page](Outlook.page.md)** that is larger than its display area. This method does not apply to the stand-alone **[ScrollBar](Outlook.scrollbar.md)** control or to scroll bars that appear on a **[TextBox](Outlook.textbox.md)**.
 
 

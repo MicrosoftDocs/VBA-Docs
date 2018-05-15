@@ -29,5 +29,5 @@ Returns an  **Object** corresponding to the Outlook item bound to the form regio
 #### Concepts
 
 
-[FormRegion Object](formregion-object-outlook.md)
+[FormRegion Object](Outlook.FormRegion.md)
 

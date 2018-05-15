@@ -34,5 +34,5 @@ If this property returns  **True** , then the mail message can be forwarded.
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

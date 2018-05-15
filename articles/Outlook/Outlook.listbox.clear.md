@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ListBox.Clear Method (Outlook Forms Script)
 
-Removes all entries in the list in a  **[ListBox](listbox-object-outlook-forms-script.md)**.
+Removes all entries in the list in a  **[ListBox](Outlook.listbox.md)**.
 
 
 ## Syntax

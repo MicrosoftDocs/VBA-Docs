@@ -20,7 +20,7 @@ Occurs when the user selects a different or additional Microsoft Outlook item pr
 
  _expression_ . **SelectionChange**
 
- _expression_ A variable that represents an **[Explorer](explorer-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks
@@ -60,5 +60,5 @@ End Sub
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

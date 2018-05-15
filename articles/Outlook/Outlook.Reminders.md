@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Reminders Object (Outlook)
 
-Contains a collection of all the  **[Reminder](reminder-object-outlook.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
+Contains a collection of all the  **[Reminder](Outlook.Reminder.md)** objects in a Microsoft Outlook application that represent the reminders for all pending items.
 
 
 ## Remarks
 
-Use the  **[Application](application-object-outlook.md)** object's **[Reminders](application-reminders-property-outlook.md)** property to return the **Reminders** collection. Use **Reminders** ( _index_ ), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](reminder-object-outlook.md)** object.
+Use the  **[Application](Outlook.Application.md)** object's **[Reminders](Outlook.Application.Reminders.md)** property to return the **Reminders** collection. Use **Reminders** ( _index_ ), where _index_ is the name or ordinal value of the reminder, to return a single **[Reminder](Outlook.Reminder.md)** object.
 
-Reminders are created programmatically when a new Outlook item is created with a reminder. For example, a reminder is created when an  **[AppointmentItem](appointmentitem-object-outlook.md)** object is created and the **AppointmentItem** object's **[ReminderSet](appointmentitem-reminderset-property-outlook.md)** property is set to **True**.
+Reminders are created programmatically when a new Outlook item is created with a reminder. For example, a reminder is created when an  **[AppointmentItem](Outlook.AppointmentItem.md)** object is created and the **AppointmentItem** object's **[ReminderSet](Outlook.AppointmentItem.ReminderSet.md)** property is set to **True**.
 
 
 ## Example
@@ -81,12 +81,12 @@ End Sub
 
 |**Name**|
 |:-----|
-|[BeforeReminderShow](reminders-beforeremindershow-event-outlook.md)|
-|[ReminderAdd](reminders-reminderadd-event-outlook.md)|
-|[ReminderChange](reminders-reminderchange-event-outlook.md)|
-|[ReminderFire](reminders-reminderfire-event-outlook.md)|
-|[ReminderRemove](reminders-reminderremove-event-outlook.md)|
-|[Snooze](reminders-snooze-event-outlook.md)|
+|[BeforeReminderShow](Outlook.Reminders.BeforeReminderShow.md)|
+|[ReminderAdd](Outlook.Reminders.ReminderAdd.md)|
+|[ReminderChange](Outlook.Reminders.ReminderChange.md)|
+|[ReminderFire](Outlook.Reminders.ReminderFire.md)|
+|[ReminderRemove](Outlook.Reminders.ReminderRemove.md)|
+|[Snooze](Outlook.Reminders.Snooze.md)|
 
 ## Methods
 
@@ -94,8 +94,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Item](reminders-item-method-outlook.md)|
-|[Remove](reminders-remove-method-outlook.md)|
+|[Item](Outlook.Reminders.Item.md)|
+|[Remove](Outlook.Reminders.Remove.md)|
 
 ## Properties
 
@@ -103,10 +103,10 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](reminders-application-property-outlook.md)|
-|[Class](reminders-class-property-outlook.md)|
-|[Count](reminders-count-property-outlook.md)|
-|[Parent](reminders-parent-property-outlook.md)|
+|[Application](Outlook.Reminders.Application.md)|
+|[Class](Outlook.Reminders.Class.md)|
+|[Count](Outlook.Reminders.Count.md)|
+|[Parent](Outlook.Reminders.Parent.md)|
 |[Session](reminders-session-property-outlook.md)|
 
 ## See also

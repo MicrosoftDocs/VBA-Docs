@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarGroup.Shortcuts Property (Outlook)
 
-Returns an  **[OutlookBarShortcuts](outlookbarshortcuts-object-outlook.md)** collection of shortcuts contained within the **Shortcuts** pane. Read-only.
+Returns an  **[OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md)** collection of shortcuts contained within the **Shortcuts** pane. Read-only.
 
 
 ## Syntax
@@ -51,5 +51,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarGroup Object](outlookbargroup-object-outlook.md)
+[OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 

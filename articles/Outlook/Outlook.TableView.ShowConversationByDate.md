@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether items in a conversat
 
  _expression_ . **ShowConversationByDate**
 
- _expression_ A variable that represents a **[TableView](tableview-object-outlook.md)** object.
+ _expression_ A variable that represents a **[TableView](Outlook.TableView.md)** object.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ Setting the  **ShowConversationByDate** property to **True** vertically left-ali
 
 Setting the  **ShowConversationByDate** property to **False** indents conversation items and orders them by their received date and time, with the earliest item on top. The root of each thread of the conversation is displayed first, followed by items belonging to that thread, each left-indented from the last. This organization in the conversation view is the same as having selected the **Use Classic Indented View** setting in the **Conversations Settings** menu in the **Conversations** group of the ribbon.
 
-To apply a change to the  **ShowConversationByDate** property to the view, call the **[Apply](tableview-apply-method-outlook.md)** method. Conversations are then displayed as collapsed in the conversation view. If you expand a conversation, you will see items in the conversation reorganized and displayed the way you set the **ShowConversationByDate** property.
+To apply a change to the  **ShowConversationByDate** property to the view, call the **[Apply](Outlook.TableView.Apply.md)** method. Conversations are then displayed as collapsed in the conversation view. If you expand a conversation, you will see items in the conversation reorganized and displayed the way you set the **ShowConversationByDate** property.
 
 
 ## Example
@@ -70,5 +70,5 @@ End Sub
 #### Concepts
 
 
-[TableView Object](tableview-object-outlook.md)
+[TableView Object](Outlook.TableView.md)
 

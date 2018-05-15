@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Restrict Method (Outlook)
 
-Applies a filter to the rows in the  **[Table](table-object-outlook.md)** and obtains a new **Table** object.
+Applies a filter to the rows in the  **[Table](Outlook.Table.md)** and obtains a new **Table** object.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ A  **Table** object that is returned by applying _Filter_ to the rows in the par
 
 ## Remarks
 
-You can only use  **Table.Restrict** to apply another filter to that **Table** if the parent object of the **Table** is a **[Folder](folder-object-outlook.md)** object. If the parent object is a **[Search](search-object-outlook.md)** object, **Restrict** will return an error.
+You can only use  **Table.Restrict** to apply another filter to that **Table** if the parent object of the **Table** is a **[Folder](Outlook.Folder.md)** object. If the parent object is a **[Search](Outlook.Search.md)** object, **Restrict** will return an error.
 
 Since the filter is applied to the rows in the  **Table** object, this is equivalent to applying a filter that is a logical **AND** of _Filter_ and all preceding filters applied to the same **Table** object.
 
@@ -103,5 +103,5 @@ End Sub
 #### Concepts
 
 
-[Table Object](table-object-outlook.md)
+[Table Object](Outlook.Table.md)
 

@@ -34,5 +34,5 @@ The  **Name** usually includes the offset value from Coordinated Universal Time 
 #### Concepts
 
 
-[TimeZone Object](timezone-object-outlook.md)
+[TimeZone Object](Outlook.TimeZone.md)
 

@@ -34,5 +34,5 @@ This property supports both Exchange and non-Exchange stores. If the store is no
 #### Concepts
 
 
-[Store Object](store-object-outlook.md)
+[Store Object](Outlook.Store.md)
 

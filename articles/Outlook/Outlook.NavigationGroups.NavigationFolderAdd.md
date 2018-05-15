@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroups.NavigationFolderAdd Event (Outlook)
 
-Occurs after a folder is added to a  **[NavigationGroups](navigationgroups-object-outlook.md)** collection.
+Occurs after a folder is added to a  **[NavigationGroups](Outlook.NavigationGroups.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Occurs after a folder is added to a  **[NavigationGroups](navigationgroups-objec
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _NavigationFolder_|Required| **[NavigationFolder](navigationfolder-object-outlook.md)**|The navigation folder added to the collection.|
+| _NavigationFolder_|Required| **[NavigationFolder](Outlook.NavigationFolder.md)**|The navigation folder added to the collection.|
 
 ## See also
 
@@ -37,5 +37,5 @@ Occurs after a folder is added to a  **[NavigationGroups](navigationgroups-objec
 #### Concepts
 
 
-[NavigationGroups Object](navigationgroups-object-outlook.md)
+[NavigationGroups Object](Outlook.NavigationGroups.md)
 

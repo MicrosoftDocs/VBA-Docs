@@ -36,5 +36,5 @@ If a valid language code is specified, the object will only be available in the 
 #### Concepts
 
 
-[View Object](view-object-outlook.md)
+[View Object](Outlook.View.md)
 

@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # AccountSelector.Session Property (Outlook)
 
-Returns the  **[NameSpace](namespace-object-outlook.md)** object for the current session. Read-only.
+Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current session. Read-only.
 
 
 ## Syntax
 
  _expression_ . **Session**
 
- _expression_ A variable that represents an **[AccountSelector](accountselector-object-outlook.md)** object.
+ _expression_ A variable that represents an **[AccountSelector](Outlook.AccountSelector.md)** object.
 
 
 ## Remarks
 
 Returns  **Null** ( **Nothing** in Visual Basic) if there is no logged-on session.
 
-You can use the  **Session** property and the **[GetNamespace](application-getnamespace-method-outlook.md)** method of the **[Application](application-object-outlook.md)** object interchangeably to obtain the **NameSpace** object for the current session.
+You can use the  **Session** property and the **[GetNamespace](Outlook.Application.GetNamespace.md)** method of the **[Application](Outlook.Application.md)** object interchangeably to obtain the **NameSpace** object for the current session.
 
 
 ## See also
@@ -36,5 +36,5 @@ You can use the  **Session** property and the **[GetNamespace](application-getna
 #### Concepts
 
 
-[AccountSelector Object](accountselector-object-outlook.md)
+[AccountSelector Object](Outlook.AccountSelector.md)
 

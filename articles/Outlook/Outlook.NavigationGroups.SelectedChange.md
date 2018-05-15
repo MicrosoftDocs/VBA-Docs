@@ -29,11 +29,11 @@ Occurs after the selection state is changed for a navigation folder contained in
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _NavigationFolder_|Required| **[NavigationFolder](navigationfolder-object-outlook.md)**|The selected navigation folder.|
+| _NavigationFolder_|Required| **[NavigationFolder](Outlook.NavigationFolder.md)**|The selected navigation folder.|
 
 ## Remarks
 
-This event occurs when the selection state changes for a folder in the  **Calendar** navigation module, either by a user checking or unchecking a folder in the **Calendar** navigation module of the Navigation Pane or by an add-in changing the value of the **[IsSelected](navigationfolder-isselected-property-outlook.md)** property for a **NavigationFolder** object contained in the **[NavigationGroups](navigationgroups-object-outlook.md)** collection of a **[CalendarModule](calendarmodule-object-outlook.md)** object.
+This event occurs when the selection state changes for a folder in the  **Calendar** navigation module, either by a user checking or unchecking a folder in the **Calendar** navigation module of the Navigation Pane or by an add-in changing the value of the **[IsSelected](Outlook.NavigationFolder.IsSelected.md)** property for a **NavigationFolder** object contained in the **[NavigationGroups](Outlook.NavigationGroups.md)** collection of a **[CalendarModule](Outlook.CalendarModule.md)** object.
 
 
 ## See also
@@ -42,5 +42,5 @@ This event occurs when the selection state changes for a folder in the  **Calend
 #### Concepts
 
 
-[NavigationGroups Object](navigationgroups-object-outlook.md)
+[NavigationGroups Object](Outlook.NavigationGroups.md)
 

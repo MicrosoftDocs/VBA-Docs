@@ -29,5 +29,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 #### Concepts
 
 
-[SyncObjects Object](syncobjects-object-outlook.md)
+[SyncObjects Object](Outlook.SyncObjects.md)
 

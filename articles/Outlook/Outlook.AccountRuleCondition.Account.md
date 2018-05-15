@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccountRuleCondition.Account Property (Outlook)
 
-Returns or sets an  **[Account](account-object-outlook.md)** object that represents the account used to evaluate the rule condition. Read/write.
+Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account used to evaluate the rule condition. Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Returns an error if account does not represent an initialized account.
 #### Concepts
 
 
-[AccountRuleCondition Object](accountrulecondition-object-outlook.md)
+[AccountRuleCondition Object](Outlook.AccountRuleCondition.md)
 

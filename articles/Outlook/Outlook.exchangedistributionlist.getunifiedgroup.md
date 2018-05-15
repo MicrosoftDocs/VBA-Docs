@@ -11,7 +11,7 @@ ms.prod: outlook
 
 # ExchangeDistributionList.GetUnifiedGroup Method (Outlook)
 
-Determines if the object is a unified group, by way of a call to [IsUnifiedGroup](exchangedistributionlist-isunifiedgroup-method-outlook.md). 
+Determines if the object is a unified group, by way of a call to [IsUnifiedGroup](Outlook.exchangedistributionlist.isunifiedgroup.md). 
 
 
 ## Syntax

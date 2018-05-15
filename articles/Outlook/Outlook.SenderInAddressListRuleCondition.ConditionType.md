@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SenderInAddressListRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionSenderInAddressBook** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant,  **olConditionSenderInAddressBook** , from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ The rule condition that the sender must be in the address list is supported only
 #### Concepts
 
 
-[SenderInAddressListRuleCondition Object](senderinaddresslistrulecondition-object-outlook.md)
+[SenderInAddressListRuleCondition Object](Outlook.SenderInAddressListRuleCondition.md)
 

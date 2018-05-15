@@ -16,31 +16,31 @@ Returns an item object representing the active inline response item in the explo
 
  _expression_ . **ActiveInlineResponse**
 
- _expression_ A variable that represents an **[Explorer](explorer-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks
 
-You can use the same properties and methods of the [MailItem](mailitem-object-outlook.md) object on this item, except for the following:
+You can use the same properties and methods of the [MailItem](Outlook.MailItem.md) object on this item, except for the following:
 
 
-- [MailItem.Actions](mailitem-actions-property-outlook.md) property
+- [MailItem.Actions](Outlook.MailItem.Actions.md) property
     
-- [MailItem.Close](mailitem-close-method-outlook.md) method
+- [MailItem.Close](Outlook.MailItem.Close(method).md) method
     
-- [MailItem.Copy](mailitem-copy-method-outlook.md) method
+- [MailItem.Copy](Outlook.MailItem.Copy.md) method
     
-- [MailItem.Delete](mailitem-delete-method-outlook.md) method
+- [MailItem.Delete](Outlook.MailItem.Delete.md) method
     
-- [MailItem.Forward](mailitem-forward-method-outlook.md) method
+- [MailItem.Forward](Outlook.MailItem.Forward(method).md) method
     
-- [MailItem.Move](mailitem-move-method-outlook.md) method
+- [MailItem.Move](Outlook.MailItem.Move.md) method
     
-- [MailItem.Reply](mailitem-reply-method-outlook.md) method
+- [MailItem.Reply](Outlook.MailItem.Reply(method).md) method
     
-- [MailItem.ReplyAll](mailitem-replyall-method-outlook.md) method
+- [MailItem.ReplyAll](Outlook.MailItem.ReplyAll(method).md) method
     
-- [MailItem.Send](mailitem-send-method-outlook.md) method
+- [MailItem.Send](Outlook.MailItem.Send(method).md) method
     
 This property returns  **Null** ( **Nothing** in Visual Basic) if no inline response is visible in the Reading Pane.
 
@@ -51,5 +51,5 @@ This property returns  **Null** ( **Nothing** in Visual Basic) if no inline resp
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

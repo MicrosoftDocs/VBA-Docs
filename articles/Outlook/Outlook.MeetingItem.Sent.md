@@ -34,5 +34,5 @@ In general, there are three different kinds of messages: sent, posted, and saved
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

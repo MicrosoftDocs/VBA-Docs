@@ -29,5 +29,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 #### Concepts
 
 
-[ViewField Object](viewfield-object-outlook.md)
+[ViewField Object](Outlook.ViewField.md)
 

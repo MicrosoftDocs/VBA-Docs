@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # MultiPage.TabOrientation Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies the location of the tabs on a **[MultiPage](multipage-object-outlook-forms-script.md)**. Read/write.
+Returns or sets an  **Integer** that specifies the location of the tabs on a **[MultiPage](Outlook.multipage.md)**. Read/write.
 
 
 ## Syntax

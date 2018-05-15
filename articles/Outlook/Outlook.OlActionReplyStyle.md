@@ -29,6 +29,6 @@ Specifies the reply style.
 
 ## Remarks
 
-Used by the [ReplyStyle](action-replystyle-property-outlook.md) property of an[Action](action-object-outlook.md) to specify the reply style that will be used when the **Action** is executed.
+Used by the [ReplyStyle](Outlook.Action.ReplyStyle.md) property of an[Action](Outlook.Action.md) to specify the reply style that will be used when the **Action** is executed.
 
 

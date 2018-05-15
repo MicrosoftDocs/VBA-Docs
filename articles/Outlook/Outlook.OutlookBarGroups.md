@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # OutlookBarGroups Object (Outlook)
 
-Contains a set of  **[OutlookBarGroup](outlookbargroup-object-outlook.md)** objects representing all groups in the Outlook Bar.
+Contains a set of  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** objects representing all groups in the Outlook Bar.
 
 
 ## Remarks
 
-Use the  **[Groups](outlookbarstorage-groups-property-outlook.md)** property to return the **OutlookBarGroups** object from the **[OutlookBarStorage](outlookbarstorage-object-outlook.md)** object.
+Use the  **[Groups](Outlook.OutlookBarStorage.Groups.md)** property to return the **OutlookBarGroups** object from the **[OutlookBarStorage](Outlook.OutlookBarStorage.md)** object.
 
 Use  **Groups** ( _index_ ), where _index_ is the name of an available group, to return a single **OutlookBarGroup** object.
 
@@ -39,9 +39,9 @@ Set myGroups = myOutlookBarStorage.Groups
 
 |**Name**|
 |:-----|
-|[BeforeGroupAdd](outlookbargroups-beforegroupadd-event-outlook.md)|
-|[BeforeGroupRemove](outlookbargroups-beforegroupremove-event-outlook.md)|
-|[GroupAdd](outlookbargroups-groupadd-event-outlook.md)|
+|[BeforeGroupAdd](Outlook.OutlookBarGroups.BeforeGroupAdd.md)|
+|[BeforeGroupRemove](Outlook.OutlookBarGroups.BeforeGroupRemove.md)|
+|[GroupAdd](Outlook.OutlookBarGroups.GroupAdd.md)|
 
 ## Methods
 
@@ -49,9 +49,9 @@ Set myGroups = myOutlookBarStorage.Groups
 
 |**Name**|
 |:-----|
-|[Add](outlookbargroups-add-method-outlook.md)|
-|[Item](outlookbargroups-item-method-outlook.md)|
-|[Remove](outlookbargroups-remove-method-outlook.md)|
+|[Add](Outlook.OutlookBarGroups.Add.md)|
+|[Item](Outlook.OutlookBarGroups.Item.md)|
+|[Remove](Outlook.OutlookBarGroups.Remove.md)|
 
 ## Properties
 
@@ -59,11 +59,11 @@ Set myGroups = myOutlookBarStorage.Groups
 
 |**Name**|
 |:-----|
-|[Application](outlookbargroups-application-property-outlook.md)|
-|[Class](outlookbargroups-class-property-outlook.md)|
-|[Count](outlookbargroups-count-property-outlook.md)|
-|[Parent](outlookbargroups-parent-property-outlook.md)|
-|[Session](outlookbargroups-session-property-outlook.md)|
+|[Application](Outlook.OutlookBarGroups.Application.md)|
+|[Class](Outlook.OutlookBarGroups.Class.md)|
+|[Count](Outlook.OutlookBarGroups.Count.md)|
+|[Parent](Outlook.OutlookBarGroups.Parent.md)|
+|[Session](Outlook.OutlookBarGroups.Session.md)|
 
 ## See also
 

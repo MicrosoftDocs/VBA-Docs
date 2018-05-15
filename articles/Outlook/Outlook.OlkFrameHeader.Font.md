@@ -34,5 +34,5 @@ The font is expressed as the Microsoft Windows type  **StdFont** .
 #### Concepts
 
 
-[OlkFrameHeader Object](olkframeheader-object-outlook.md)
+[OlkFrameHeader Object](Outlook.OlkFrameHeader.md)
 

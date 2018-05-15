@@ -34,5 +34,5 @@ In general, there are three different kinds of messages: sent, posted, and saved
 #### Concepts
 
 
-[MailItem Object](mailitem-object-outlook.md)
+[MailItem Object](Outlook.MailItem.md)
 

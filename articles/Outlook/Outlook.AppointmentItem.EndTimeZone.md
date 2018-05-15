@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.EndTimeZone Property (Outlook)
 
-Returns or sets a  **[TimeZone](timezone-object-outlook.md)** value that corresponds to the end time of the appointment. Read/write.
+Returns or sets a  **[TimeZone](Outlook.TimeZone.md)** value that corresponds to the end time of the appointment. Read/write.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ Returns or sets a  **[TimeZone](timezone-object-outlook.md)** value that corresp
 
 The time zone information is used to map the appointment to the correct UTC time when the appointment is saved, and into the correct local time when the item is displayed in the calendar.
 
- Changing **EndTimeZone** affects the value of **[AppointmentItem.End](appointmentitem-end-property-outlook.md)** which is always represented in the local time zone, **[Application.TimeZones.CurrentTimeZone](timezones-currenttimezone-property-outlook.md)** .
+ Changing **EndTimeZone** affects the value of **[AppointmentItem.End](Outlook.AppointmentItem.End.md)** which is always represented in the local time zone, **[Application.TimeZones.CurrentTimeZone](Outlook.TimeZones.CurrentTimeZone.md)** .
 
-Depending on the circumstances, changing the  **EndTimeZone** may or may not cause Outlook to recalculate and update the **[AppointmentItem.EndInEndTimeZone](appointmentitem-endinendtimezone-property-outlook.md)** .
+Depending on the circumstances, changing the  **EndTimeZone** may or may not cause Outlook to recalculate and update the **[AppointmentItem.EndInEndTimeZone](Outlook.AppointmentItem.EndInEndTimeZone.md)** .
 
 As an example, in the appointment inspector, if you are the organizer of an appointment with a start time at 1 P.M. EST and end time at 3 P.M. EST, changing the appointment to have an  **EndTimeZone** of PST will result in an appointment lasting from 1 P.M. EST to 3 P.M. PST, with the **EndInEndTimeZone** remaining as 3 P.M. However, if you are not the organizer, then changing the **EndTimeZone** from EST to PST will cause Outlook to recalculate and update the **EndInEndTimeZone** , and the appointment will last from 1 P.M. EST to 12 P.M. PST.
 
@@ -42,5 +42,5 @@ Another example is changing the  **EndTimeZone** resulting in an appointment end
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # AddressEntries Object (Outlook)
 
-Contains a collection of addresses for an  **[AddressList](addresslist-object-outlook.md)** object.
+Contains a collection of addresses for an  **[AddressList](Outlook.AddressList.md)** object.
 
 
 ## Remarks
 
-The object may contain zero or more  **[AddressEntry](addressentry-object-outlook.md)** objects and provides access to the entries in a transport provider's address book container.
+The object may contain zero or more  **[AddressEntry](Outlook.AddressEntry.md)** objects and provides access to the entries in a transport provider's address book container.
 
 
 ## Example

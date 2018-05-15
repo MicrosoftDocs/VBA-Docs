@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ListBox.Selected Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that indicates the selection state of items in a **[ListBox](listbox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Boolean** that indicates the selection state of items in a **[ListBox](Outlook.listbox.md)**. Read/write.
 
 
 ## Syntax
@@ -37,9 +37,9 @@ The  **Selected** property is useful when users can make multiple selections. Yo
 
 The default value of this property is based on the current selection state of the  **ListBox**.
 
-For single-selection list boxes, the  **[Value](listbox-value-property-outlook-forms-script.md)** or **[ListIndex](listbox-listindex-property-outlook-forms-script.md)** properties are recommended for getting and setting the selection. In this case, **ListIndex** returns the index of the selected item. However, in a multiple selection, **ListIndex** returns the index of the row contained within the focus rectangle, regardless of whether the row is actually selected.
+For single-selection list boxes, the  **[Value](Outlook.listbox.value.md)** or **[ListIndex](Outlook.listbox.listindex.md)** properties are recommended for getting and setting the selection. In this case, **ListIndex** returns the index of the selected item. However, in a multiple selection, **ListIndex** returns the index of the row contained within the focus rectangle, regardless of whether the row is actually selected.
 
-When a list box control's  **[MultiSelect](listbox-multiselect-property-outlook-forms-script.md)** property is set to 0, only one row can have its **Selected** property set to **True**.
+When a list box control's  **[MultiSelect](Outlook.listbox.multiselect.md)** property is set to 0, only one row can have its **Selected** property set to **True**.
 
 Entering a value that is out of range for the index does not generate an error message, but does not set a property for any item in the list.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NotesModule.Visible Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the **[NotesModule](notesmodule-object-outlook.md)** object is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Boolean** value that determines whether the **[NotesModule](Outlook.NotesModule.md)** object is displayed in the Navigation Pane. Read/write.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns or sets a  **Boolean** value that determines whether the **[NotesModule]
 #### Concepts
 
 
-[NotesModule Object](notesmodule-object-outlook.md)
+[NotesModule Object](Outlook.NotesModule.md)
 

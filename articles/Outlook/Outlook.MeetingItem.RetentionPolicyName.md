@@ -34,5 +34,5 @@ Retention is enabled and disabled by an administrator for an Exchange Server on 
 #### Concepts
 
 
-[MeetingItem Object](meetingitem-object-outlook.md)
+[MeetingItem Object](Outlook.MeetingItem.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Categories Property (Outlook)
 
-Returns or sets a  **String** representing the categories assigned to the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a  **String** representing the categories assigned to the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
 
 
 ## Syntax
@@ -34,5 +34,5 @@ Returns or sets a  **String** representing the categories assigned to the **[Sha
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

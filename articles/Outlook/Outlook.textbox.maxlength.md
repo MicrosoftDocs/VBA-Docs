@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # TextBox.MaxLength Property (Outlook Forms Script)
 
-Returns or sets a  **Long** that specifies the maximum number of characters a user can enter in a **[TextBox](textbox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a  **Long** that specifies the maximum number of characters a user can enter in a **[TextBox](Outlook.textbox.md)**. Read/write.
 
 
 ## Syntax

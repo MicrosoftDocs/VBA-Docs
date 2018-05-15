@@ -34,5 +34,5 @@ For more information on the XML schema for Electronic Business Cards, see the Mi
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

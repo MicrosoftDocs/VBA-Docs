@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.FullNameAndCompany Property (Outlook)
 
-Returns a  **String** representing the full name and company of the contact by concatenating the values of the **[FullName](contactitem-fullname-property-outlook.md)** and **[CompanyName](contactitem-companyname-property-outlook.md)** properties. Read-only.
+Returns a  **String** representing the full name and company of the contact by concatenating the values of the **[FullName](Outlook.ContactItem.FullName.md)** and **[CompanyName](Outlook.ContactItem.CompanyName.md)** properties. Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **String** representing the full name and company of the contact by c
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 

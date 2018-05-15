@@ -20,7 +20,7 @@ Occurs when the user selects a different or additional attachment in the active 
 
  _expression_ . **AttachmentSelectionChange**
 
- _expression_ A variable that represents an **[Explorer](explorer-object-outlook.md)** object.
+ _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ The  **AttachmentSelectionChange** event fires when a different or additional at
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](Outlook.Explorer.md)
 

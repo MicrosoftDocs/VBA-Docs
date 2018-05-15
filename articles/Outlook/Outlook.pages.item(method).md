@@ -44,5 +44,5 @@ If an invalid index or name is specified, an error occurs.
 #### Concepts
 
 
- [Pages Object](pages-object-outlook-forms-script.md)
+ [Pages Object](Outlook.pages(object).md)
 

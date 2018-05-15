@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that indicates whether the label control should u
 
 ## Remarks
 
-This property is intended for label controls in a message form displayed in the Reading Pane and in the Inspector. If the property is  **True** , then the label should use the foreground color that matches the current Windows theme. If the property is **False** , then the label should use the foreground color indicated by the **[ForeColor](olklabel-forecolor-property-outlook.md)** property.
+This property is intended for label controls in a message form displayed in the Reading Pane and in the Inspector. If the property is  **True** , then the label should use the foreground color that matches the current Windows theme. If the property is **False** , then the label should use the foreground color indicated by the **[ForeColor](Outlook.OlkLabel.ForeColor.md)** property.
 
 
 ## See also
@@ -34,5 +34,5 @@ This property is intended for label controls in a message form displayed in the 
 #### Concepts
 
 
-[OlkLabel Object](olklabel-object-outlook.md)
+[OlkLabel Object](Outlook.OlkLabel.md)
 

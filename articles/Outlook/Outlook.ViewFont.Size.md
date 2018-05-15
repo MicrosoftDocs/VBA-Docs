@@ -36,5 +36,5 @@ The default value for this property is determined by the operating system.
 #### Concepts
 
 
-[ViewFont Object](viewfont-object-outlook.md)
+[ViewFont Object](Outlook.ViewFont.md)
 

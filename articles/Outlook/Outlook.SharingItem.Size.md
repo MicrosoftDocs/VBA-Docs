@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Size Property (Outlook)
 
-Returns a  **Long** indicating the size (in bytes) of the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a  **Long** indicating the size (in bytes) of the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax
@@ -29,5 +29,5 @@ Returns a  **Long** indicating the size (in bytes) of the **[SharingItem](sharin
 #### Concepts
 
 
-[SharingItem Object](sharingitem-object-outlook.md)
+[SharingItem Object](Outlook.SharingItem.md)
 

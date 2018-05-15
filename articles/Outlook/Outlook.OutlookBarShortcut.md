@@ -18,7 +18,7 @@ Represents a shortcut in a group in the  **Shortcuts** pane.
 
 ## Remarks
 
-Use the  **[Item](outlookbarshortcuts-item-method-outlook.md)** method to retrieve the **OutlookBarShortcut** object from an **[OutlookBarShortcuts](outlookbarshortcuts-object-outlook.md)** object. Because the **[Name](outlookbarshortcut-name-property-outlook.md)** property is the default property of the **OutlookBarShortcut** object, you can identify the shortcut by name.
+Use the  **[Item](Outlook.OutlookBarShortcuts.Item.md)** method to retrieve the **OutlookBarShortcut** object from an **[OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md)** object. Because the **[Name](Outlook.OutlookBarShortcut.Name.md)** property is the default property of the **OutlookBarShortcut** object, you can identify the shortcut by name.
 
 
 ## Example
@@ -37,7 +37,7 @@ Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 
 |**Name**|
 |:-----|
-|[SetIcon](outlookbarshortcut-seticon-method-outlook.md)|
+|[SetIcon](Outlook.OutlookBarShortcut.SetIcon.md)|
 
 ## Properties
 
@@ -45,11 +45,11 @@ Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 
 |**Name**|
 |:-----|
-|[Application](outlookbarshortcut-application-property-outlook.md)|
-|[Class](outlookbarshortcut-class-property-outlook.md)|
-|[Name](outlookbarshortcut-name-property-outlook.md)|
-|[Parent](outlookbarshortcut-parent-property-outlook.md)|
-|[Session](outlookbarshortcut-session-property-outlook.md)|
+|[Application](Outlook.OutlookBarShortcut.Application.md)|
+|[Class](Outlook.OutlookBarShortcut.Class.md)|
+|[Name](Outlook.OutlookBarShortcut.Name.md)|
+|[Parent](Outlook.OutlookBarShortcut.Parent.md)|
+|[Session](Outlook.OutlookBarShortcut.Session.md)|
 |[Target](outlookbarshortcut-target-property-outlook.md)|
 
 ## See also

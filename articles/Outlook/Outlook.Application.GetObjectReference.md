@@ -30,7 +30,7 @@ Creates a strong or weak object reference for a specified Outlook object.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The object from which to obtain a strong or weak object reference.|
-| _ReferenceType_|Required| **[OlReferenceType](olreferencetype-enumeration-outlook.md)**|The type of object reference.|
+| _ReferenceType_|Required| **[OlReferenceType](Outlook.OlReferenceType.md)**|The type of object reference.|
 
 ### Return Value
 
@@ -51,5 +51,5 @@ This method returns a weak or strong object reference for the object specified i
 #### Concepts
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

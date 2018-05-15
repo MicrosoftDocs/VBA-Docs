@@ -29,5 +29,5 @@ Returns a  **String** representing the name of the organizer of the appointment.
 #### Concepts
 
 
-[AppointmentItem Object](appointmentitem-object-outlook.md)
+[AppointmentItem Object](Outlook.AppointmentItem.md)
 

@@ -34,5 +34,5 @@ Returns or sets a  **Boolean** that specifies if a tab is inserted automatically
 #### Concepts
 
 
-[OlkTextBox Object](olktextbox-object-outlook.md)
+[OlkTextBox Object](Outlook.OlkTextBox.md)
 

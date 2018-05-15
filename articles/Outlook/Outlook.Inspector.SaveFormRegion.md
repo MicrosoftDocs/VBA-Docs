@@ -43,5 +43,5 @@ In order for  **SaveFormRegion** to save the form region, the form region must h
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

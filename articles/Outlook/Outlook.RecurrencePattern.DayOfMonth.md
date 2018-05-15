@@ -29,5 +29,5 @@ Returns or sets a  **Long** indicating the day of the month on which the recurri
 #### Concepts
 
 
-[RecurrencePattern Object](recurrencepattern-object-outlook.md)
+[RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

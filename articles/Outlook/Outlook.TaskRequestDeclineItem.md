@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # TaskRequestDeclineItem Object (Outlook)
 
-Represents a response to a  **[TaskRequestItem](taskrequestitem-object-outlook.md)** sent by the initiating user.
+Represents a response to a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** sent by the initiating user.
 
 
 ## Remarks
 
-If the delegated user declines the task, the  **[ResponseState](taskitem-responsestate-property-outlook.md)** property is set to **olTaskDecline**. The associated **[TaskItem](taskitem-object-outlook.md)** is received by the delegator as a **TaskRequestDeclineItem** object.
+If the delegated user declines the task, the  **[ResponseState](Outlook.TaskItem.ResponseState.md)** property is set to **olTaskDecline**. The associated **[TaskItem](Outlook.TaskItem.md)** is received by the delegator as a **TaskRequestDeclineItem** object.
 
 Unlike other Microsoft Outlook objects, you cannot create this object.
 
-Use the  **[GetAssociatedTask](taskrequestdeclineitem-getassociatedtask-method-outlook.md)** method to return the **TaskItem** object that is associated with this **TaskRequestDeclineItem**. Work directly with the **TaskItem** object.
+Use the  **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.md)** method to return the **TaskItem** object that is associated with this **TaskRequestDeclineItem**. Work directly with the **TaskItem** object.
 
 
 ## Events
@@ -31,32 +31,32 @@ Use the  **[GetAssociatedTask](taskrequestdeclineitem-getassociatedtask-method-o
 
 |**Name**|
 |:-----|
-|[AfterWrite](taskrequestdeclineitem-afterwrite-event-outlook.md)|
-|[AttachmentAdd](taskrequestdeclineitem-attachmentadd-event-outlook.md)|
-|[AttachmentRead](taskrequestdeclineitem-attachmentread-event-outlook.md)|
-|[AttachmentRemove](taskrequestdeclineitem-attachmentremove-event-outlook.md)|
-|[BeforeAttachmentAdd](taskrequestdeclineitem-beforeattachmentadd-event-outlook.md)|
-|[BeforeAttachmentPreview](taskrequestdeclineitem-beforeattachmentpreview-event-outlook.md)|
-|[BeforeAttachmentRead](taskrequestdeclineitem-beforeattachmentread-event-outlook.md)|
-|[BeforeAttachmentSave](taskrequestdeclineitem-beforeattachmentsave-event-outlook.md)|
-|[BeforeAttachmentWriteToTempFile](taskrequestdeclineitem-beforeattachmentwritetotempfile-event-outlook.md)|
-|[BeforeAutoSave](taskrequestdeclineitem-beforeautosave-event-outlook.md)|
-|[BeforeCheckNames](taskrequestdeclineitem-beforechecknames-event-outlook.md)|
-|[BeforeDelete](taskrequestdeclineitem-beforedelete-event-outlook.md)|
-|[BeforeRead](taskrequestdeclineitem-beforeread-event-outlook.md)|
-|[Close](taskrequestdeclineitem-close-event-outlook.md)|
-|[CustomAction](taskrequestdeclineitem-customaction-event-outlook.md)|
-|[CustomPropertyChange](taskrequestdeclineitem-custompropertychange-event-outlook.md)|
-|[Forward](taskrequestdeclineitem-forward-event-outlook.md)|
-|[Open](taskrequestdeclineitem-open-event-outlook.md)|
-|[PropertyChange](taskrequestdeclineitem-propertychange-event-outlook.md)|
-|[Read](taskrequestdeclineitem-read-event-outlook.md)|
-|[ReadComplete](taskrequestdeclineitem-readcomplete-event-outlook.md)|
-|[Reply](taskrequestdeclineitem-reply-event-outlook.md)|
-|[ReplyAll](taskrequestdeclineitem-replyall-event-outlook.md)|
-|[Send](taskrequestdeclineitem-send-event-outlook.md)|
-|[Unload](taskrequestdeclineitem-unload-event-outlook.md)|
-|[Write](taskrequestdeclineitem-write-event-outlook.md)|
+|[AfterWrite](Outlook.TaskRequestDeclineItem.AfterWrite.md)|
+|[AttachmentAdd](Outlook.TaskRequestDeclineItem.AttachmentAdd.md)|
+|[AttachmentRead](Outlook.TaskRequestDeclineItem.AttachmentRead.md)|
+|[AttachmentRemove](Outlook.TaskRequestDeclineItem.AttachmentRemove.md)|
+|[BeforeAttachmentAdd](Outlook.TaskRequestDeclineItem.BeforeAttachmentAdd.md)|
+|[BeforeAttachmentPreview](Outlook.TaskRequestDeclineItem.BeforeAttachmentPreview.md)|
+|[BeforeAttachmentRead](Outlook.TaskRequestDeclineItem.BeforeAttachmentRead.md)|
+|[BeforeAttachmentSave](Outlook.TaskRequestDeclineItem.BeforeAttachmentSave.md)|
+|[BeforeAttachmentWriteToTempFile](Outlook.TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile.md)|
+|[BeforeAutoSave](Outlook.TaskRequestDeclineItem.BeforeAutoSave.md)|
+|[BeforeCheckNames](Outlook.TaskRequestDeclineItem.BeforeCheckNames.md)|
+|[BeforeDelete](Outlook.TaskRequestDeclineItem.BeforeDelete.md)|
+|[BeforeRead](Outlook.TaskRequestDeclineItem.BeforeRead.md)|
+|[Close](Outlook.TaskRequestDeclineItem.Close(even).md)|
+|[CustomAction](Outlook.TaskRequestDeclineItem.CustomAction.md)|
+|[CustomPropertyChange](Outlook.TaskRequestDeclineItem.CustomPropertyChange.md)|
+|[Forward](Outlook.TaskRequestDeclineItem.Forward.md)|
+|[Open](Outlook.TaskRequestDeclineItem.Open.md)|
+|[PropertyChange](Outlook.TaskRequestDeclineItem.PropertyChange.md)|
+|[Read](Outlook.TaskRequestDeclineItem.Read.md)|
+|[ReadComplete](Outlook.taskrequestdeclineitem.readcomplete.md)|
+|[Reply](Outlook.TaskRequestDeclineItem.Reply.md)|
+|[ReplyAll](Outlook.TaskRequestDeclineItem.ReplyAll.md)|
+|[Send](Outlook.TaskRequestDeclineItem.Send.md)|
+|[Unload](Outlook.TaskRequestDeclineItem.Unload.md)|
+|[Write](Outlook.TaskRequestDeclineItem.Write.md)|
 
 ## Methods
 
@@ -64,17 +64,17 @@ Use the  **[GetAssociatedTask](taskrequestdeclineitem-getassociatedtask-method-o
 
 |**Name**|
 |:-----|
-|[Close](taskrequestdeclineitem-close-method-outlook.md)|
-|[Copy](taskrequestdeclineitem-copy-method-outlook.md)|
-|[Delete](taskrequestdeclineitem-delete-method-outlook.md)|
-|[Display](taskrequestdeclineitem-display-method-outlook.md)|
-|[GetAssociatedTask](taskrequestdeclineitem-getassociatedtask-method-outlook.md)|
-|[GetConversation](taskrequestdeclineitem-getconversation-method-outlook.md)|
-|[Move](taskrequestdeclineitem-move-method-outlook.md)|
-|[PrintOut](taskrequestdeclineitem-printout-method-outlook.md)|
-|[Save](taskrequestdeclineitem-save-method-outlook.md)|
-|[SaveAs](taskrequestdeclineitem-saveas-method-outlook.md)|
-|[ShowCategoriesDialog](taskrequestdeclineitem-showcategoriesdialog-method-outlook.md)|
+|[Close](Outlook.TaskRequestDeclineItem.Close(method).md)|
+|[Copy](Outlook.TaskRequestDeclineItem.Copy.md)|
+|[Delete](Outlook.TaskRequestDeclineItem.Delete.md)|
+|[Display](Outlook.TaskRequestDeclineItem.Display.md)|
+|[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.md)|
+|[GetConversation](Outlook.TaskRequestDeclineItem.GetConversation.md)|
+|[Move](Outlook.TaskRequestDeclineItem.Move.md)|
+|[PrintOut](Outlook.TaskRequestDeclineItem.PrintOut.md)|
+|[Save](Outlook.TaskRequestDeclineItem.Save.md)|
+|[SaveAs](Outlook.TaskRequestDeclineItem.SaveAs.md)|
+|[ShowCategoriesDialog](Outlook.TaskRequestDeclineItem.ShowCategoriesDialog.md)|
 
 ## Properties
 
@@ -82,43 +82,43 @@ Use the  **[GetAssociatedTask](taskrequestdeclineitem-getassociatedtask-method-o
 
 |**Name**|
 |:-----|
-|[Actions](taskrequestdeclineitem-actions-property-outlook.md)|
-|[Application](taskrequestdeclineitem-application-property-outlook.md)|
-|[Attachments](taskrequestdeclineitem-attachments-property-outlook.md)|
-|[AutoResolvedWinner](taskrequestdeclineitem-autoresolvedwinner-property-outlook.md)|
-|[BillingInformation](taskrequestdeclineitem-billinginformation-property-outlook.md)|
-|[Body](taskrequestdeclineitem-body-property-outlook.md)|
-|[Categories](taskrequestdeclineitem-categories-property-outlook.md)|
-|[Class](taskrequestdeclineitem-class-property-outlook.md)|
-|[Companies](taskrequestdeclineitem-companies-property-outlook.md)|
-|[Conflicts](taskrequestdeclineitem-conflicts-property-outlook.md)|
-|[ConversationID](taskrequestdeclineitem-conversationid-property-outlook.md)|
-|[ConversationIndex](taskrequestdeclineitem-conversationindex-property-outlook.md)|
-|[ConversationTopic](taskrequestdeclineitem-conversationtopic-property-outlook.md)|
-|[CreationTime](taskrequestdeclineitem-creationtime-property-outlook.md)|
-|[DownloadState](taskrequestdeclineitem-downloadstate-property-outlook.md)|
-|[EntryID](taskrequestdeclineitem-entryid-property-outlook.md)|
-|[FormDescription](taskrequestdeclineitem-formdescription-property-outlook.md)|
-|[GetInspector](taskrequestdeclineitem-getinspector-property-outlook.md)|
-|[Importance](taskrequestdeclineitem-importance-property-outlook.md)|
-|[IsConflict](taskrequestdeclineitem-isconflict-property-outlook.md)|
-|[ItemProperties](taskrequestdeclineitem-itemproperties-property-outlook.md)|
-|[LastModificationTime](taskrequestdeclineitem-lastmodificationtime-property-outlook.md)|
-|[MarkForDownload](taskrequestdeclineitem-markfordownload-property-outlook.md)|
-|[MessageClass](taskrequestdeclineitem-messageclass-property-outlook.md)|
-|[Mileage](taskrequestdeclineitem-mileage-property-outlook.md)|
-|[NoAging](taskrequestdeclineitem-noaging-property-outlook.md)|
-|[OutlookInternalVersion](taskrequestdeclineitem-outlookinternalversion-property-outlook.md)|
-|[OutlookVersion](taskrequestdeclineitem-outlookversion-property-outlook.md)|
-|[Parent](taskrequestdeclineitem-parent-property-outlook.md)|
-|[PropertyAccessor](taskrequestdeclineitem-propertyaccessor-property-outlook.md)|
-|[RTFBody](taskrequestdeclineitem-rtfbody-property-outlook.md)|
-|[Saved](taskrequestdeclineitem-saved-property-outlook.md)|
-|[Sensitivity](taskrequestdeclineitem-sensitivity-property-outlook.md)|
-|[Session](taskrequestdeclineitem-session-property-outlook.md)|
-|[Size](taskrequestdeclineitem-size-property-outlook.md)|
-|[Subject](taskrequestdeclineitem-subject-property-outlook.md)|
-|[UnRead](taskrequestdeclineitem-unread-property-outlook.md)|
+|[Actions](Outlook.TaskRequestDeclineItem.Actions.md)|
+|[Application](Outlook.TaskRequestDeclineItem.Application.md)|
+|[Attachments](Outlook.TaskRequestDeclineItem.Attachments.md)|
+|[AutoResolvedWinner](Outlook.TaskRequestDeclineItem.AutoResolvedWinner.md)|
+|[BillingInformation](Outlook.TaskRequestDeclineItem.BillingInformation.md)|
+|[Body](Outlook.TaskRequestDeclineItem.Body.md)|
+|[Categories](Outlook.TaskRequestDeclineItem.Categories.md)|
+|[Class](Outlook.TaskRequestDeclineItem.Class.md)|
+|[Companies](Outlook.TaskRequestDeclineItem.Companies.md)|
+|[Conflicts](Outlook.TaskRequestDeclineItem.Conflicts.md)|
+|[ConversationID](Outlook.TaskRequestDeclineItem.ConversationID.md)|
+|[ConversationIndex](Outlook.TaskRequestDeclineItem.ConversationIndex.md)|
+|[ConversationTopic](Outlook.TaskRequestDeclineItem.ConversationTopic.md)|
+|[CreationTime](Outlook.TaskRequestDeclineItem.CreationTime.md)|
+|[DownloadState](Outlook.TaskRequestDeclineItem.DownloadState.md)|
+|[EntryID](Outlook.TaskRequestDeclineItem.EntryID.md)|
+|[FormDescription](Outlook.TaskRequestDeclineItem.FormDescription.md)|
+|[GetInspector](Outlook.TaskRequestDeclineItem.GetInspector.md)|
+|[Importance](Outlook.TaskRequestDeclineItem.Importance.md)|
+|[IsConflict](Outlook.TaskRequestDeclineItem.IsConflict.md)|
+|[ItemProperties](Outlook.TaskRequestDeclineItem.ItemProperties.md)|
+|[LastModificationTime](Outlook.TaskRequestDeclineItem.LastModificationTime.md)|
+|[MarkForDownload](Outlook.TaskRequestDeclineItem.MarkForDownload.md)|
+|[MessageClass](Outlook.TaskRequestDeclineItem.MessageClass.md)|
+|[Mileage](Outlook.TaskRequestDeclineItem.Mileage.md)|
+|[NoAging](Outlook.TaskRequestDeclineItem.NoAging.md)|
+|[OutlookInternalVersion](Outlook.TaskRequestDeclineItem.OutlookInternalVersion.md)|
+|[OutlookVersion](Outlook.TaskRequestDeclineItem.OutlookVersion.md)|
+|[Parent](Outlook.TaskRequestDeclineItem.Parent.md)|
+|[PropertyAccessor](Outlook.TaskRequestDeclineItem.PropertyAccessor.md)|
+|[RTFBody](Outlook.TaskRequestDeclineItem.RTFBody.md)|
+|[Saved](Outlook.TaskRequestDeclineItem.Saved.md)|
+|[Sensitivity](Outlook.TaskRequestDeclineItem.Sensitivity.md)|
+|[Session](Outlook.TaskRequestDeclineItem.Session.md)|
+|[Size](Outlook.TaskRequestDeclineItem.Size.md)|
+|[Subject](Outlook.TaskRequestDeclineItem.Subject.md)|
+|[UnRead](Outlook.TaskRequestDeclineItem.UnRead.md)|
 |[UserProperties](taskrequestdeclineitem-userproperties-property-outlook.md)|
 
 ## See also

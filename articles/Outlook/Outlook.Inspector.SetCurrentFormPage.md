@@ -33,7 +33,7 @@ Displays the specified form page or form region in the inspector.
 
 ## Remarks
 
-You can use  **SetCurrentFormPage** to display a form region by specifying the **[InternalName](formregion-internalname-property-outlook.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
+You can use  **SetCurrentFormPage** to display a form region by specifying the **[InternalName](Outlook.FormRegion.InternalName.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
 
 
 ## Example
@@ -78,5 +78,5 @@ End Sub
 #### Concepts
 
 
-[Inspector Object](inspector-object-outlook.md)
+[Inspector Object](Outlook.Inspector.md)
 

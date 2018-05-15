@@ -64,5 +64,5 @@ End Sub
 #### Concepts
 
 
-[OutlookBarShortcut Object](outlookbarshortcut-object-outlook.md)
+[OutlookBarShortcut Object](Outlook.OutlookBarShortcut.md)
 

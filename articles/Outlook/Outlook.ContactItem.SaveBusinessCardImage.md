@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.SaveBusinessCardImage Method (Outlook)
 
-Saves an image of the business card generated from the specified  **[ContactItem](contactitem-object-outlook.md)** object.
+Saves an image of the business card generated from the specified  **[ContactItem](Outlook.ContactItem.md)** object.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ This method generates an image, as a Portable Network Graphics (.png) file, of t
 #### Concepts
 
 
-[ContactItem Object](contactitem-object-outlook.md)
+[ContactItem Object](Outlook.ContactItem.md)
 
