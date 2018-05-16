@@ -12,7 +12,7 @@ This reference contains a conceptual overview topic and reference topics, includ
 
 This documentation contains the following information:
 
--  [About Programming Visio Viewer](about-programming-visio-viewer.md) : Provides important conceptual information for developing custom solutions for Visio Viewer.
+-  [About Programming Visio Viewer](Visio.about.programming.md) : Provides important conceptual information for developing custom solutions for Visio Viewer.
     
 -  [Object model](object-model-visio-viewer-reference.md): Provides a list of object members in alphabetical order.
     
