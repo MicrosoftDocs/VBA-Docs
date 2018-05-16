@@ -21,10 +21,10 @@ Represents the reflection formatting for a shape or range of shapes.
 
 |**Name**|
 |:-----|
-|[Blur](reflectionformat-blur-property-publisher.md)|
-|[Offset](reflectionformat-offset-property-publisher.md)|
-|[Size](reflectionformat-size-property-publisher.md)|
-|[Transparency](reflectionformat-transparency-property-publisher.md)|
-|[Type](reflectionformat-type-property-publisher.md)|
-|[Visible](reflectionformat-visible-property-publisher.md)|
+|[Blur](Publisher.reflectionformat.blur.md)|
+|[Offset](Publisher.reflectionformat.offset.md)|
+|[Size](Publisher.reflectionformat.size.md)|
+|[Transparency](Publisher.reflectionformat.transparency.md)|
+|[Type](Publisher.reflectionformat.type.md)|
+|[Visible](Publisher.reflectionformat.visible.md)|
 

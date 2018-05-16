@@ -21,7 +21,7 @@ Represents the soft edge formatting for a shape or range of shapes.
 
 |**Name**|
 |:-----|
-|[Radius](softedgeformat-radius-property-publisher.md)|
-|[Type](softedgeformat-type-property-publisher.md)|
-|[Visible](softedgeformat-visible-property-publisher.md)|
+|[Radius](Publisher.softedgeformat.radius.md)|
+|[Type](Publisher.softedgeformat.type.md)|
+|[Visible](Publisher.softedgeformat.visible.md)|
 

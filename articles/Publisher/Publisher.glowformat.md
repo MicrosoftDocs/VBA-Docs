@@ -21,8 +21,8 @@ Represents the glow formatting for a shape or a range of shapes.
 
 |**Name**|
 |:-----|
-|[Color](glowformat-color-property-publisher.md)|
-|[Radius](glowformat-radius-property-publisher.md)|
-|[Transparency](glowformat-transparency-property-publisher.md)|
-|[Visible](glowformat-visible-property-publisher.md)|
+|[Color](Publisher.glowformat.color.md)|
+|[Radius](Publisher.glowformat.radius.md)|
+|[Transparency](Publisher.glowformat.transparency.md)|
+|[Visible](Publisher.glowformat.visible.md)|
 

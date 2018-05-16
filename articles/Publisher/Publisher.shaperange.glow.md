@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Glow Property (Publisher)
 
-Returns a  **[GlowFormat](glowformat-object-publisher.md)** object that represents the glow formatting for a range of shapes. Read-only.
+Returns a  **[GlowFormat](Publisher.glowformat.md)** object that represents the glow formatting for a range of shapes. Read-only.
 
 
 ## Syntax

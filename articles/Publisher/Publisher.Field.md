@@ -76,5 +76,5 @@ End Sub
 |[PhoneticGuide](Publisher.Field.PhoneticGuide.md)|
 |[Result](Publisher.Field.Result.md)|
 |[TextRange](Publisher.Field.TextRange.md)|
-|[Type](field-type-property-publisher.md)|
+|[Type](Publisher.field.type.md)|
 

@@ -55,14 +55,14 @@ End Sub
 |**Name**|
 |:-----|
 |[Application](Publisher.ShadowFormat.Application.md)|
-|[Blur](shadowformat-blur-property-publisher.md)|
+|[Blur](Publisher.shadowformat.blur.md)|
 |[ForeColor](Publisher.ShadowFormat.ForeColor.md)|
 |[Obscured](Publisher.ShadowFormat.Obscured.md)|
 |[OffsetX](Publisher.PictureFormat.OffsetX.md)|
 |[OffsetY](Publisher.PictureFormat.OffsetY.md)|
 |[Parent](Publisher.ShadowFormat.Parent.md)|
-|[RotateWithShape](shadowformat-rotatewithshape-property-publisher.md)|
-|[Size](shadowformat-size-property-publisher.md)|
+|[RotateWithShape](Publisher.shadowformat.rotatewithshape.md)|
+|[Size](Publisher.shadowformat.size.md)|
 |[Type](Publisher.ShadowFormat.Type.md)|
 |[Visible](Publisher.ShadowFormat.Visible.md)|
 

@@ -28,7 +28,7 @@ Returns the gradient style for the specified line. Read-only.
 
 ## Remarks
 
-Attempting to return this property for a line that doesn't have a gradient generates an error. Use the  **[Type](lineformat-type-property-publisher.md)** property to determine whether the line has a gradient.
+Attempting to return this property for a line that doesn't have a gradient generates an error. Use the  **[Type](Publisher.lineformat.type.md)** property to determine whether the line has a gradient.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WrapFormat.DistanceBottom Property (Publisher)
 
-When the  **[Type](wrapformat-type-property-publisher.md)** property of the **[WrapFormat](wrapformat-object-publisher.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the bottom edge of the specified shape. Read/write.
+When the  **[Type](Publisher.WrapFormat.Type.md)** property of the **[WrapFormat](Publisher.WrapFormat.md)** object is set to **pbWrapTypeSquare**, returns or sets a  **Variant** that represents the distance (in points) between the document text and the bottom edge of the specified shape. Read/write.
 
 
 ## Syntax

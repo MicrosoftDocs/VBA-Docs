@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Font.NumberStyle Property (Publisher)
 
-Returns or sets a  **[pbNumberStyles](pbnumberstylestype-enumeration-publisher.md)** constant that represents the state of the **NumberStyles** property on the numerical characters in a text range. Read/write.
+Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constant that represents the state of the **NumberStyles** property on the numerical characters in a text range. Read/write.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns or sets a  **[pbNumberStyles](pbnumberstylestype-enumeration-publisher.m
 
 ## Return Value
 
- ** [pbNumberStyles](pbnumberstylestype-enumeration-publisher.md)**
+ ** [pbNumberStyles](Publisher.pbnumberstylestype.md)**
 
 
 ## Remarks

@@ -32,6 +32,6 @@ ms.date: 06/08/2017
 #### Other resources
 
 
- [SoftEdgeFormat Object](softedgeformat-object-publisher.md)
+ [SoftEdgeFormat Object](Publisher.softedgeformat.md)
  
 

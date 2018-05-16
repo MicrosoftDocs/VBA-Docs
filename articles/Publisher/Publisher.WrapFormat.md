@@ -49,13 +49,13 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](wrapformat-application-property-publisher.md)|
-|[DistanceAuto](wrapformat-distanceauto-property-publisher.md)|
-|[DistanceBottom](wrapformat-distancebottom-property-publisher.md)|
-|[DistanceLeft](wrapformat-distanceleft-property-publisher.md)|
-|[DistanceRight](wrapformat-distanceright-property-publisher.md)|
-|[DistanceTop](wrapformat-distancetop-property-publisher.md)|
-|[Parent](wrapformat-parent-property-publisher.md)|
-|[Side](wrapformat-side-property-publisher.md)|
-|[Type](wrapformat-type-property-publisher.md)|
+|[Application](Publisher.WrapFormat.Application.md)|
+|[DistanceAuto](Publisher.WrapFormat.DistanceAuto.md)|
+|[DistanceBottom](Publisher.WrapFormat.DistanceBottom.md)|
+|[DistanceLeft](Publisher.WrapFormat.DistanceLeft.md)|
+|[DistanceRight](Publisher.WrapFormat.DistanceRight.md)|
+|[DistanceTop](Publisher.WrapFormat.DistanceTop.md)|
+|[Parent](Publisher.WrapFormat.Parent.md)|
+|[Side](Publisher.WrapFormat.Side.md)|
+|[Type](Publisher.WrapFormat.Type.md)|
 

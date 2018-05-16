@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WizardProperty.Values Property (Publisher)
 
-Returns a  **[WizardValues](wizardvalues-object-publisher.md)** collection representing all the valid values for a wizard property.
+Returns a  **[WizardValues](Publisher.WizardValues.md)** collection representing all the valid values for a wizard property.
 
 
 ## Syntax

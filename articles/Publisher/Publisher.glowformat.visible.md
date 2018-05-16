@@ -37,6 +37,6 @@ For any object, some methods and properties may be unavailable if the  **Visible
 #### Other resources
 
 
- [GlowFormat Object](glowformat-object-publisher.md)
+ [GlowFormat Object](Publisher.glowformat.md)
  
 

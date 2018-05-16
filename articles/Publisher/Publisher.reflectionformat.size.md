@@ -33,5 +33,5 @@ Returns or sets the size of the reflection as a percentage of the reflected shap
 
 
  
- [ReflectionFormat Object](reflectionformat-object-publisher.md)
+ [ReflectionFormat Object](Publisher.reflectionformat.md)
 

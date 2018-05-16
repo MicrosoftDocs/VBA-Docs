@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Shape.SoftEdge Property (Publisher)
 
-Returns a  **[SoftEdgeFormat](softedgeformat-object-publisher.md)** object that represents the soft edge formatting for a shape. Read-only.
+Returns a  **[SoftEdgeFormat](Publisher.softedgeformat.md)** object that represents the soft edge formatting for a shape. Read-only.
 
 
 ## Syntax

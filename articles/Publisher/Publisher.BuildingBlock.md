@@ -34,7 +34,7 @@ Represents a single building block. The  **BuildingBlock** object is a member of
 |[Category](Publisher.BuildingBlock.Category.md)|
 |[Description](Publisher.BuildingBlock.Description.md)|
 |[Gallery](Publisher.BuildingBlock.Gallery.md)|
-|[Keywords](buildingblock-keywords-property-publisher.md)|
+|[Keywords](Publisher.buildingblock.keywords.md)|
 |[Name](Publisher.BuildingBlock.Name.md)|
 |[ShowInGallery](Publisher.BuildingBlock.ShowInGallery.md)|
 |[Type](Publisher.BuildingBlock.Type.md)|

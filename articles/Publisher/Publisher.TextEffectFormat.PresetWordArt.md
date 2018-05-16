@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.PresetWordArt Property (Publisher)
 
-A  **[pbPresetWordArt](pbpresetwordart-enumeration-publisher.md)** constant that indicates the type of preset WordArt associated with the specified object. Read/write.
+A  **[pbPresetWordArt](Publisher.pbpresetwordart.md)** constant that indicates the type of preset WordArt associated with the specified object. Read/write.
 
 
 ## Syntax

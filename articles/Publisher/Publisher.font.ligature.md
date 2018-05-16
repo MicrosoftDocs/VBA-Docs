@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Font.Ligature Property (Publisher)
 
-Returns or sets a  **[pbLigaturePresetType](pbligaturepresettype-enumeration-publisher.md)** constant that represents the state of the **Ligature** property on the characters in a text range. The **Ligature** property enables embellishments to the characters, often in the form of bigger and more flamboyant serifs. Read/write.
+Returns or sets a  **[pbLigaturePresetType](Publisher.pbligaturepresettype.md)** constant that represents the state of the **Ligature** property on the characters in a text range. The **Ligature** property enables embellishments to the characters, often in the form of bigger and more flamboyant serifs. Read/write.
 
 
 ## Syntax

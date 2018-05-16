@@ -28,7 +28,7 @@ Returns the preset gradient type for the specified line. Read-only.
 
 ## Remarks
 
-Use the  **[PresetGradient](lineformat-presetgradient-method-publisher.md)** method to set the preset gradient type for the fill.
+Use the  **[PresetGradient](Publisher.lineformat.presetgradient.md)** method to set the preset gradient type for the fill.
 
 
 ## See also

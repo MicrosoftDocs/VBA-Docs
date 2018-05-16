@@ -59,8 +59,8 @@ End With
 |[Application](Publisher.WizardProperty.Application.md)|
 |[CurrentValueId](Publisher.WizardProperty.CurrentValueId.md)|
 |[Enabled](Publisher.WizardProperty.Enabled.md)|
-|[ID](wizardproperty-id-property-publisher.md)|
-|[Name](wizardproperty-name-property-publisher.md)|
-|[Parent](wizardproperty-parent-property-publisher.md)|
-|[Values](wizardproperty-values-property-publisher.md)|
+|[ID](Publisher.WizardProperty.ID.md)|
+|[Name](Publisher.WizardProperty.Name.md)|
+|[Parent](Publisher.WizardProperty.Parent.md)|
+|[Values](Publisher.WizardProperty.Values.md)|
 

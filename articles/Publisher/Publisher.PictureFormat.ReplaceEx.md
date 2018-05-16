@@ -31,7 +31,7 @@ Replaces the specified picture, optionally fitting the replacement picture to th
 |:-----|:-----|:-----|:-----|
 |Pathname|Required| **String**|The name and path of the file with which you want to replace the specified picture.|
 |InsertAs|Optional| **[PbPictureInsertAs](Publisher.PbPictureInsertAs.md)**|The manner in which you want the picture file inserted into the document: linked or embedded.|
-|Fit|Optional| **[pbPictureInsertFit](pbpictureinsertfit-enumeration-publisher.md)**|Whether the inserted picture is fit to the frame, or fills the frame.|
+|Fit|Optional| **[pbPictureInsertFit](Publisher.pbpictureinsertfit.md)**|Whether the inserted picture is fit to the frame, or fills the frame.|
 
 ## Remarks
 

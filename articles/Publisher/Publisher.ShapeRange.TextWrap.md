@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.TextWrap Property (Publisher)
 
-Returns a  **[WrapFormat](wrapformat-object-publisher.md)** object that represents the properties for wrapping text around a shape or shape range.
+Returns a  **[WrapFormat](Publisher.WrapFormat.md)** object that represents the properties for wrapping text around a shape or shape range.
 
 
 ## Syntax

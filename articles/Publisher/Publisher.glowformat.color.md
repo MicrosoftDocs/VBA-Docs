@@ -32,6 +32,6 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object that represents th
 #### Other resources
 
 
- [GlowFormat Object](glowformat-object-publisher.md)
+ [GlowFormat Object](Publisher.glowformat.md)
  
 

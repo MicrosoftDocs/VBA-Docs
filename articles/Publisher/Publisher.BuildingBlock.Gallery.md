@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock.Gallery Property (Publisher)
 
-A  **[PbBuildingBlockGallery](pbbuildingblockgallery-enumeration-publisher.md)** constant that indicates the building block gallery on the ribbon that contains the specified building block, if [ShowInGallery](Publisher.BuildingBlock.ShowInGallery.md) is **True**. Read/write.
+A  **[PbBuildingBlockGallery](Publisher.pbbuildingblockgallery.md)** constant that indicates the building block gallery on the ribbon that contains the specified building block, if [ShowInGallery](Publisher.BuildingBlock.ShowInGallery.md) is **True**. Read/write.
 
 
 ## Syntax

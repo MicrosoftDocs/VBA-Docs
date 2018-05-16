@@ -47,7 +47,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[PresetGradient](lineformat-presetgradient-method-publisher.md)|
+|[PresetGradient](Publisher.lineformat.presetgradient.md)|
 
 ## Properties
 
@@ -60,24 +60,24 @@ End Sub
 |[BeginArrowheadLength](Publisher.LineFormat.BeginArrowheadLength.md)|
 |[BeginArrowheadStyle](Publisher.LineFormat.BeginArrowheadStyle.md)|
 |[BeginArrowheadWidth](Publisher.LineFormat.BeginArrowheadWidth.md)|
-|[CapStyle](lineformat-capstyle-property-publisher.md)|
+|[CapStyle](Publisher.lineformat.capstyle.md)|
 |[DashStyle](Publisher.LineFormat.DashStyle.md)|
 |[EndArrowheadLength](Publisher.LineFormat.EndArrowheadLength.md)|
 |[EndArrowheadStyle](Publisher.LineFormat.EndArrowheadStyle.md)|
 |[EndArrowheadWidth](Publisher.LineFormat.EndArrowheadWidth.md)|
 |[ForeColor](Publisher.LineFormat.ForeColor.md)|
-|[GradientAngle](lineformat-gradientangle-property-publisher.md)|
-|[GradientColorType](lineformat-gradientcolortype-property-publisher.md)|
-|[GradientStyle](lineformat-gradientstyle-property-publisher.md)|
-|[GradientVariant](lineformat-gradientvariant-property-publisher.md)|
+|[GradientAngle](Publisher.lineformat.gradientangle.md)|
+|[GradientColorType](Publisher.lineformat.gradientcolortype.md)|
+|[GradientStyle](Publisher.lineformat.gradientstyle.md)|
+|[GradientVariant](Publisher.lineformat.gradientvariant.md)|
 |[InsetPen](Publisher.LineFormat.InsetPen.md)|
-|[JoinStyle](lineformat-joinstyle-property-publisher.md)|
+|[JoinStyle](Publisher.lineformat.joinstyle.md)|
 |[Parent](Publisher.LineFormat.Parent.md)|
 |[Pattern](Publisher.LineFormat.Pattern.md)|
-|[PresetGradientType](lineformat-presetgradienttype-property-publisher.md)|
+|[PresetGradientType](Publisher.lineformat.presetgradienttype.md)|
 |[Style](Publisher.LineFormat.Style.md)|
-|[Transparency](lineformat-transparency-property-publisher.md)|
-|[Type](lineformat-type-property-publisher.md)|
+|[Transparency](Publisher.lineformat.transparency.md)|
+|[Type](Publisher.lineformat.type.md)|
 |[Visible](Publisher.LineFormat.Visible.md)|
 |[Weight](Publisher.LineFormat.Weight.md)|
 

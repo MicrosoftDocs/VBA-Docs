@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Font.Reflection Property (Publisher)
 
-Returns a  [ReflectionFormat](reflectionformat-object-publisher.md) object that represents the reflection formatting for a shape. Read-only.
+Returns a  [ReflectionFormat](Publisher.reflectionformat.md) object that represents the reflection formatting for a shape. Read-only.
 
 
 ## Syntax

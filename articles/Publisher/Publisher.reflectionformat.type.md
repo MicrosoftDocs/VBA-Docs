@@ -33,5 +33,5 @@ Returns or sets an  **MsoReflectionType** constant that represents the type and 
 
 
  
- [ReflectionFormat Object](reflectionformat-object-publisher.md)
+ [ReflectionFormat Object](Publisher.reflectionformat.md)
 

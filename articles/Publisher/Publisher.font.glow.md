@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Font.Glow Property (Publisher)
 
-Returns a  [GlowFormat](glowformat-object-publisher.md) object that represents the glow formatting for the font used by the specified range of text. Read-only.
+Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow formatting for the font used by the specified range of text. Read-only.
 
 
 ## Syntax

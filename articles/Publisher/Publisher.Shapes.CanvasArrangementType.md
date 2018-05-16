@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.CanvasArrangementType Property (Publisher)
 
-A  **[pbCanvasArrangementType](pbcanvasarrangementtype-enumeration-publisher.md)** constant that specifies the arrangement type of the canvas. Read/write.
+A  **[pbCanvasArrangementType](Publisher.pbcanvasarrangementtype.md)** constant that specifies the arrangement type of the canvas. Read/write.
 
 
 ## Syntax

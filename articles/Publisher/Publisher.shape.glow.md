@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Shape.Glow Property (Publisher)
 
-Returns a  [GlowFormat](glowformat-object-publisher.md) object that represents the glow formatting for a shape. Read-only.
+Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow formatting for a shape. Read-only.
 
 
 ## Syntax

@@ -28,7 +28,7 @@ Returns or sets a  **Long** that specifies the vertical offset of the texture fr
 
 ## Remarks
 
-The position of the origin is determined by the setting of the  [TextureAlignment](fillformat-texturealignment-property-publisher.md) property.
+The position of the origin is determined by the setting of the  [TextureAlignment](Publisher.fillformat.texturealignment.md) property.
 
 The setting of the  **TextureOffsetY** property corresponds to the setting of the **Offset Y** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface. (Under **Drawing Tools**, on the  **Format** tab, click **Shape Fill**, point to  **Texture**, and then click  **More Textures**.)
 

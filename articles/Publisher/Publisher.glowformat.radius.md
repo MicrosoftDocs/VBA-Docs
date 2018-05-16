@@ -32,6 +32,6 @@ Returns or sets a  **Single** that represents the length of the radius for a glo
 #### Other resources
 
 
- [GlowFormat Object](glowformat-object-publisher.md)
+ [GlowFormat Object](Publisher.glowformat.md)
  
 
