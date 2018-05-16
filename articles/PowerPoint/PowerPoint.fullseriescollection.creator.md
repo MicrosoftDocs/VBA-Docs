@@ -18,6 +18,6 @@ Returns a  **Long** that represents the four-character creator code for the appl
 
  _expression_. **Creator**
 
- _expression_ A variable that represents a[FullSeriesCollection](fullseriescollection-object-powerpoint.md) object.
+ _expression_ A variable that represents a[FullSeriesCollection](PowerPoint.fullseriescollection.md) object.
 
 

@@ -25,7 +25,7 @@ Returns or sets the color of the border. Read/write  **Variant**.
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](xlcolorindex-enumeration-powerpoint.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

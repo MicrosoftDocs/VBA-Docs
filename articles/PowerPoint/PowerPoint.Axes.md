@@ -20,7 +20,7 @@ Represents a collection of all the  **[Axis](PowerPoint.Axis.md)** objects in th
 
 Use the  **[Axes](PowerPoint.Chart.Axes.md)** method to return the **Axes** collection.
 
-Use  **Axes** ( _Type_, _AxisGroup_ ), where _Type_ is the axis type and _AxisGroup_ is the axis group, to return an **Axes** collection that contains a single **Axis** object. _Type_ can be one of the following **[XlAxisType](xlaxistype-enumeration-powerpoint.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](xlaxisgroup-enumeration-powerpoint.md)** constants: **xlPrimary** or **xlSecondary**.
+Use  **Axes** ( _Type_, _AxisGroup_ ), where _Type_ is the axis type and _AxisGroup_ is the axis group, to return an **Axes** collection that contains a single **Axis** object. _Type_ can be one of the following **[XlAxisType](PowerPoint.XlAxisType.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](PowerPoint.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary**.
 
 
 ## Example

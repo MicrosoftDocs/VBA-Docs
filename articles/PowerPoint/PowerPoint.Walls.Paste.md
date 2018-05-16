@@ -17,7 +17,7 @@ Pastes a picture from the Clipboard on the walls of the specified chart.
 
  _expression_. **Paste**
 
- _expression_ A variable that represents a **[Walls](walls-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
 
 
 ## Remarks
@@ -31,5 +31,5 @@ You can use this method on column, bar, line, or radar charts.
 #### Concepts
 
 
-[Walls Object](walls-object-powerpoint.md)
+[Walls Object](PowerPoint.Walls.md)
 

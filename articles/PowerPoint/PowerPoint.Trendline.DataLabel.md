@@ -17,12 +17,12 @@ Returns the data label that is associated with the trendline. Read-only  **[Data
 
  _expression_. **DataLabel**
 
- _expression_ A variable that represents a **[Trendline](trendline-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendline](PowerPoint.Trendline.md)** object.
 
 
 ## Remarks
 
-To enable data labels for a trendline, you need to set the  **[DisplayEquation](trendline-displayequation-property-powerpoint.md)** property or the **[DisplayRSquared](trendline-displayrsquared-property-powerpoint.md)** property to **True**.
+To enable data labels for a trendline, you need to set the  **[DisplayEquation](PowerPoint.Trendline.DisplayEquation.md)** property or the **[DisplayRSquared](PowerPoint.Trendline.DisplayRSquared.md)** property to **True**.
 
 
 ## See also
@@ -31,5 +31,5 @@ To enable data labels for a trendline, you need to set the  **[DisplayEquation](
 #### Concepts
 
 
-[Trendline Object](trendline-object-powerpoint.md)
+[Trendline Object](PowerPoint.Trendline.md)
 

@@ -17,7 +17,7 @@ Deletes the object.
 
  _expression_. **Delete**
 
- _expression_ A variable that represents a **[Trendline](trendline-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendline](PowerPoint.Trendline.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Deletes the object.
 #### Concepts
 
 
-[Trendline Object](trendline-object-powerpoint.md)
+[Trendline Object](PowerPoint.Trendline.md)
 

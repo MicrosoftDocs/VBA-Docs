@@ -20,7 +20,7 @@ Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object for the parent char
 
  _expression_. **Fill**
 
- _expression_ A variable that represents an **[UpBars](upbars-object-powerpoint.md)** object.
+ _expression_ A variable that represents an **[UpBars](PowerPoint.UpBars.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object for the parent char
 #### Concepts
 
 
-[UpBars Object](upbars-object-powerpoint.md)
+[UpBars Object](PowerPoint.UpBars.md)
 

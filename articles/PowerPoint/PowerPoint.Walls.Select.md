@@ -17,7 +17,7 @@ Selects the object.
 
  _expression_. **Select**
 
- _expression_ A variable that represents a **[Walls](walls-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Selects the object.
 #### Concepts
 
 
-[Walls Object](walls-object-powerpoint.md)
+[Walls Object](PowerPoint.Walls.md)
 

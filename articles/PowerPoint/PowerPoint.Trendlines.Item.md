@@ -17,7 +17,7 @@ Returns a single object from a collection.
 
  _expression_. **Item**( **_Index_** )
 
- _expression_ A variable that represents a **[Trendlines](trendlines-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendlines](PowerPoint.Trendlines.md)** object.
 
 
 ### Parameters
@@ -30,7 +30,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Trendline](trendline-object-powerpoint.md)** object that the collection contains.
+A  **[Trendline](PowerPoint.Trendline.md)** object that the collection contains.
 
 
 ## Example
@@ -70,5 +70,5 @@ End With
 #### Concepts
 
 
-[Trendlines Object](trendlines-object-powerpoint.md)
+[Trendlines Object](PowerPoint.Trendlines.md)
 

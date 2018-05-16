@@ -15,6 +15,6 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
  _expression_. **Application**
 
- _expression_ A variable that represents a[ThemeVariant](themevariant-object-powerpoint.md) object.
+ _expression_ A variable that represents a[ThemeVariant](PowerPoint.themevariant.md) object.
 
 

@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # XlCategoryLabelLevel Enumeration (PowerPoint)
 
-Constants that represent chart category-label levels, passed to and returned by the [Chart.CategoryLabelLevel](chart-categorylabellevel-property-powerpoint.md) property.
+Constants that represent chart category-label levels, passed to and returned by the [Chart.CategoryLabelLevel](PowerPoint.chart.categorylabellevel.md) property.
 
 
 ## Members

@@ -32,7 +32,7 @@ Single
 
 For example, a value of 0.9 means that an acceleration should start slower than the default speed for 90% of the total animation time, with the last 10% of the animation at the default speed. 
 
-To slow down an animation at the end, use the  **[Decelerate](timing-decelerate-property-powerpoint.md)** property.
+To slow down an animation at the end, use the  **[Decelerate](PowerPoint.Timing.Decelerate.md)** property.
 
 
 ## Example
@@ -71,5 +71,5 @@ End Sub
 #### Concepts
 
 
-[Timing Object](timing-object-powerpoint.md)
+[Timing Object](PowerPoint.Timing.md)
 

@@ -29,9 +29,9 @@ Applies error bars to the series.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Required|**[XlErrorBarDirection](xlerrorbardirection-enumeration-powerpoint.md)**|One of the enumeration values that specifies the error bar direction.|
-| _Include_|Required|**[XlErrorBarInclude](xlerrorbarinclude-enumeration-powerpoint.md)**|One of the enumeration values that specifies the error bar parts to include.|
-| _Type_|Required|**[XlErrorBarType](xlerrorbartype-enumeration-powerpoint.md)**|One of the enumeration values that specifies the error bar type.|
+| _Direction_|Required|**[XlErrorBarDirection](PowerPoint.XlErrorBarDirection.md)**|One of the enumeration values that specifies the error bar direction.|
+| _Include_|Required|**[XlErrorBarInclude](PowerPoint.XlErrorBarInclude.md)**|One of the enumeration values that specifies the error bar parts to include.|
+| _Type_|Required|**[XlErrorBarType](PowerPoint.XlErrorBarType.md)**|One of the enumeration values that specifies the error bar type.|
 | _Amount_|Optional|**Variant**|The error amount. Used for only the positive error amount when Type is  **xlErrorBarTypeCustom**.|
 | _MinusValues_|Optional|**Variant**|The negative error amount when Type is  **xlErrorBarTypeCustom**.|
 

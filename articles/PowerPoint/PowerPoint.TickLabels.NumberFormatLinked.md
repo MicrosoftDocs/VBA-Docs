@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **NumberFormatLinked**
 
- _expression_ A variable that represents a **[TickLabels](ticklabels-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
 
 
 ## Example
@@ -54,5 +54,5 @@ End With
 #### Concepts
 
 
-[TickLabels Object](ticklabels-object-powerpoint.md)
+[TickLabels Object](PowerPoint.TickLabels.md)
 

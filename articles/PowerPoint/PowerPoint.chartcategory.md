@@ -16,6 +16,6 @@ Represents all chart categories in the document, whether visible (unfiltered) or
 
 ## Remarks
 
-You can use the [IsFiltered](chartcategory-isfiltered-property-powerpoint.md) property to determine which categories are visible and which are filtered out.
+You can use the [IsFiltered](PowerPoint.chartcategory.isfiltered.md) property to determine which categories are visible and which are filtered out.
 
 

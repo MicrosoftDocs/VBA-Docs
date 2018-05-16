@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # XlSeriesNameLevel Enumeration (PowerPoint)
 
-Series-name-level constants passed to and returned by the [Chart.SeriesNameLevel](chart-seriesnamelevel-property-powerpoint.md) property.
+Series-name-level constants passed to and returned by the [Chart.SeriesNameLevel](PowerPoint.chart.seriesnamelevel.md) property.
 
 
 ## Members

@@ -17,12 +17,12 @@ Returns or sets a value that specifies how pictures are displayed on the walls a
 
  _expression_. **PictureType**
 
- _expression_ A variable that represents a **[Walls](walls-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
 
 
 ## Remarks
 
-You can set this property to one of the following  **[XlChartPictureType](xlchartpicturetype-enumeration-powerpoint.md)** constants: **xlStack** or **xlStretch**.
+You can set this property to one of the following  **[XlChartPictureType](PowerPoint.XlChartPictureType.md)** constants: **xlStack** or **xlStretch**.
 
 
 ## See also
@@ -31,5 +31,5 @@ You can set this property to one of the following  **[XlChartPictureType](xlchar
 #### Concepts
 
 
-[Walls Object](walls-object-powerpoint.md)
+[Walls Object](PowerPoint.Walls.md)
 

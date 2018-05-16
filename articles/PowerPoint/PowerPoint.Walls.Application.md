@@ -20,7 +20,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
  _expression_. **Application**
 
- _expression_ A variable that represents a **[Walls](walls-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 #### Concepts
 
 
-[Walls Object](walls-object-powerpoint.md)
+[Walls Object](PowerPoint.Walls.md)
 

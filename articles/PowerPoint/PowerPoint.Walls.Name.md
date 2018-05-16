@@ -17,7 +17,7 @@ Returns the name of the object. Read-only  **String**.
 
  _expression_. **Name**
 
- _expression_ A variable that represents a **[Walls](walls-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Returns the name of the object. Read-only  **String**.
 #### Concepts
 
 
-[Walls Object](walls-object-powerpoint.md)
+[Walls Object](PowerPoint.Walls.md)
 

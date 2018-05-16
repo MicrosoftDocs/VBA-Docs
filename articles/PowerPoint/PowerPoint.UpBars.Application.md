@@ -20,7 +20,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
  _expression_. **Application**
 
- _expression_ A variable that represents an **[UpBars](upbars-object-powerpoint.md)** object.
+ _expression_ A variable that represents an **[UpBars](PowerPoint.UpBars.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 #### Concepts
 
 
-[UpBars Object](upbars-object-powerpoint.md)
+[UpBars Object](PowerPoint.UpBars.md)
 

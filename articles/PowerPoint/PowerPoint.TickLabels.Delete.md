@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. **Delete**
 
- _expression_ A variable that represents a **[TickLabels](ticklabels-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Deletes the object.
 #### Concepts
 
 
-[TickLabels Object](ticklabels-object-powerpoint.md)
+[TickLabels Object](PowerPoint.TickLabels.md)
 

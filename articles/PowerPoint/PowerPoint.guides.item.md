@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Guides.Item Method (PowerPoint)
 
-Returns a [Guide](guide-object-powerpoint.md) object from the collection.
+Returns a [Guide](PowerPoint.guide.md) object from the collection.
 
 
 ## Syntax

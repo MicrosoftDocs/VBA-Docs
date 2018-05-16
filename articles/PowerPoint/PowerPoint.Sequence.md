@@ -18,7 +18,7 @@ Represents a collection of  **[Effect](PowerPoint.Effect.md)** objects for a sli
 
 ## Example
 
-Use the [MainSequence](timeline-mainsequence-property-powerpoint.md)property of the  **[TimeLine](timeline-object-powerpoint.md)** object to return a **Sequence** object.
+Use the [MainSequence](PowerPoint.TimeLine.MainSequence.md)property of the  **[TimeLine](PowerPoint.TimeLine.md)** object to return a **Sequence** object.
 
 Use the [AddEffect](PowerPoint.Sequence.AddEffect.md)method to add a new  **Sequence** object. This example adds a shape and an animation sequence to the first shape on the first slide in the active presentation.
 

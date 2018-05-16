@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MinorUnitScale Property (PowerPoint)
 
-Returns or sets the minor unit scale value for the category axis when the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](xltimeunit-enumeration-powerpoint.md)**.
+Returns or sets the minor unit scale value for the category axis when the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 
 
 ## Syntax

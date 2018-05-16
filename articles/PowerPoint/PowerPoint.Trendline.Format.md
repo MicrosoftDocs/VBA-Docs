@@ -20,7 +20,7 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
  _expression_. **Format**
 
- _expression_ A variable that represents a **[Trendline](trendline-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendline](PowerPoint.Trendline.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 #### Concepts
 
 
-[Trendline Object](trendline-object-powerpoint.md)
+[Trendline Object](PowerPoint.Trendline.md)
 

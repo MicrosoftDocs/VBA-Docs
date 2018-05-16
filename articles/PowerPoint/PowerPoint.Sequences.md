@@ -18,7 +18,7 @@ Represents a collection of  **[Sequence](PowerPoint.Sequence.md)** objects. Use 
 
 ## Example
 
-Use the [InteractiveSequences](timeline-interactivesequences-property-powerpoint.md)property of the  **[TimeLine](timeline-object-powerpoint.md)** object to return a **Sequences** collection. Use the[Add](PowerPoint.Sequences.Add.md)method to add an interactive animation sequence. The following example adds two shapes on the first slide of the active presentation and sets interactive effect for the star shape so that when you click the bevel shape, the star shape is be animated.
+Use the [InteractiveSequences](PowerPoint.TimeLine.InteractiveSequences.md)property of the  **[TimeLine](PowerPoint.TimeLine.md)** object to return a **Sequences** collection. Use the[Add](PowerPoint.Sequences.Add.md)method to add an interactive animation sequence. The following example adds two shapes on the first slide of the active presentation and sets interactive effect for the star shape so that when you click the bevel shape, the star shape is be animated.
 
 
 ```vb

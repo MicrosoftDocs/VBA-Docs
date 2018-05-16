@@ -32,7 +32,7 @@ Opens the specified theme file (*thmx).
 
 ### Return value
 
-[Theme](theme-object-powerpoint.md)
+[Theme](PowerPoint.theme.md)
 
 
 ## Example

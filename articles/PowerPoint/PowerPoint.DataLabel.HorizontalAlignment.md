@@ -22,7 +22,7 @@ Returns or sets the horizontal alignment for the specified object. Read/write  *
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[XlConstants](xlconstants-enumeration-powerpoint.md)** constants:
+You can set the value of this property to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
 -  **xlCenter**

@@ -17,7 +17,7 @@ Returns the number of objects in the collection. Read-only  **Long**.
 
  _expression_. **Count**
 
- _expression_ A variable that represents a **[Trendlines](trendlines-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendlines](PowerPoint.Trendlines.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Returns the number of objects in the collection. Read-only  **Long**.
 #### Concepts
 
 
-[Trendlines Object](trendlines-object-powerpoint.md)
+[Trendlines Object](PowerPoint.Trendlines.md)
 

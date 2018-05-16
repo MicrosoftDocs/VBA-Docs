@@ -82,7 +82,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-On a trendline, the  **[Trendline.DataLabel](trendline-datalabel-property-powerpoint.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text for the first trendline in the first series of the first chart in the active document to show only the equation.
+On a trendline, the  **[Trendline.DataLabel](PowerPoint.Trendline.DataLabel.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text for the first trendline in the first series of the first chart in the active document to show only the equation.
 
 
 

@@ -17,7 +17,7 @@ Returns the index number of the object within the collection of similar objects.
 
  _expression_. **Index**
 
- _expression_ A variable that represents a **[Trendline](trendline-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendline](PowerPoint.Trendline.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Returns the index number of the object within the collection of similar objects.
 #### Concepts
 
 
-[Trendline Object](trendline-object-powerpoint.md)
+[Trendline Object](PowerPoint.Trendline.md)
 

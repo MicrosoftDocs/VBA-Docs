@@ -33,7 +33,7 @@ Changes the rotation of the specified shape around the y-axis by the specified n
 
 ## Remarks
 
-Use the  **[RotationY](threedformat-rotationy-property-powerpoint.md)** property to set the absolute rotation of the shape around the y-axis.
+Use the  **[RotationY](PowerPoint.ThreeDFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
 
 To change the rotation of a shape around the x-axis, use the  **[IncrementRotationX](PowerPoint.ThreeDFormat.IncrementRotationX.md)** method. To change the rotation around the z-axis, use the **[IncrementRotation](PowerPoint.Shape.IncrementRotation.md)** method.
 

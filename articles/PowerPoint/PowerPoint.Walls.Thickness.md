@@ -17,7 +17,7 @@ Returns or sets the thickness of the wall. Read/write  **Long**.
 
  _expression_. **Thickness**
 
- _expression_ A variable that represents a **[Walls](walls-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
 
 
 ## Remarks
@@ -31,5 +31,5 @@ Use this property to set the thickness of the walls on a chart. The default valu
 #### Concepts
 
 
-[Walls Object](walls-object-powerpoint.md)
+[Walls Object](PowerPoint.Walls.md)
 

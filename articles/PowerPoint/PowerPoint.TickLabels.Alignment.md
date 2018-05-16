@@ -20,7 +20,7 @@ Returns or sets the alignment for the specified phonetic text or tick label. Rea
 
  _expression_. **Alignment**
 
- _expression_ A variable that represents a **[TickLabels](ticklabels-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns or sets the alignment for the specified phonetic text or tick label. Rea
 #### Concepts
 
 
-[TickLabels Object](ticklabels-object-powerpoint.md)
+[TickLabels Object](PowerPoint.TickLabels.md)
 

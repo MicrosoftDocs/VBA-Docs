@@ -20,12 +20,12 @@ ms.date: 06/08/2017
 
  _expression_. **InterceptIsAuto**
 
- _expression_ A variable that represents a **[Trendline](trendline-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendline](PowerPoint.Trendline.md)** object.
 
 
 ## Remarks
 
-Setting the  **[Intercept](trendline-intercept-property-powerpoint.md)** property sets this property to **False**.
+Setting the  **[Intercept](PowerPoint.Trendline.Intercept.md)** property sets this property to **False**.
 
 
 ## Example
@@ -56,5 +56,5 @@ End With
 #### Concepts
 
 
-[Trendline Object](trendline-object-powerpoint.md)
+[Trendline Object](PowerPoint.Trendline.md)
 

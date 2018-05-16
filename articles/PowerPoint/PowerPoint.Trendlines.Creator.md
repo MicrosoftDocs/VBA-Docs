@@ -17,7 +17,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_ A variable that represents a **[Trendlines](trendlines-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendlines](PowerPoint.Trendlines.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Returns a 32-bit integer that indicates the application in which the specified o
 #### Concepts
 
 
-[Trendlines Object](trendlines-object-powerpoint.md)
+[Trendlines Object](PowerPoint.Trendlines.md)
 

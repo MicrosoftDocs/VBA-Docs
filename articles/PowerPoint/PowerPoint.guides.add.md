@@ -27,13 +27,13 @@ Adds a new drawing guide to the presentation, slide master, or custom layout.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required|[PpGuideOrientation](ppguideorientation-enumeration-powerpoint.md)|Specifies the orientation of a drawing guide, either horizontal or vertical.|
+| _Orientation_|Required|[PpGuideOrientation](PowerPoint.ppguideorientation.md)|Specifies the orientation of a drawing guide, either horizontal or vertical.|
 | _Position_|Required|**Float**|The position of the guide along the specified axis.|
 | _Orientation_|Required|PPGUIDEORIENTATION||
 | _Position_|Required|FLOAT||
 
 ### Return value
 
-[Guide](guide-object-powerpoint.md)
+[Guide](PowerPoint.guide.md)
 
 

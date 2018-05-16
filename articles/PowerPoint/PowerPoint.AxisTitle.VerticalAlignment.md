@@ -25,7 +25,7 @@ Returns or sets the vertical alignment of the specified object. Read/write  **Va
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[XlConstants](xlconstants-enumeration-powerpoint.md)** constants:
+The value of this property can be set to one of the following  **[XlConstants](PowerPoint.XlConstants.md)** constants:
 
 
 -  **xlBottom**

@@ -18,6 +18,6 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
  _expression_. **Application**
 
- _expression_ A variable that represents a[FullSeriesCollection](fullseriescollection-object-powerpoint.md) object.
+ _expression_ A variable that represents a[FullSeriesCollection](PowerPoint.fullseriescollection.md) object.
 
 

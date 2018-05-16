@@ -11,6 +11,6 @@ ms.prod: powerpoint
 
 # Guides Object (PowerPoint)
 
-A collection of [Guide](guide-object-powerpoint.md) objects in a presentation or custom layout.
+A collection of [Guide](PowerPoint.guide.md) objects in a presentation or custom layout.
 
 

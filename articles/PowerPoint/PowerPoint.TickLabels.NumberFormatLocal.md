@@ -20,12 +20,12 @@ Returns or sets the format code for the object as a string in the language of th
 
  _expression_. **NumberFormatLocal**
 
- _expression_ A variable that represents a **[TickLabels](ticklabels-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
 
 
 ## Remarks
 
-The  **Format** function uses different format code strings than do the **[NumberFormat](ticklabels-numberformat-property-powerpoint.md)** and **NumberFormatLocal** properties.
+The  **Format** function uses different format code strings than do the **[NumberFormat](PowerPoint.TickLabels.NumberFormat.md)** and **NumberFormatLocal** properties.
 
 
 ## See also
@@ -34,5 +34,5 @@ The  **Format** function uses different format code strings than do the **[Numbe
 #### Concepts
 
 
-[TickLabels Object](ticklabels-object-powerpoint.md)
+[TickLabels Object](PowerPoint.TickLabels.md)
 

@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # ShapeRange.HasInkXML Property (PowerPoint)
 
-Returns an [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx) enumeration value that indicates whether the specified shape range contains ink XML that can be retrieved via the[ShapeRange.InkXML](shaperange-inkxml-property-powerpoint.md) property. Read-only.
+Returns an [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx) enumeration value that indicates whether the specified shape range contains ink XML that can be retrieved via the[ShapeRange.InkXML](PowerPoint.shaperange.inkxml.md) property. Read-only.
 
 An error is returned if the shape range does not contain any ink XML.
 
@@ -47,6 +47,6 @@ The value of the this property can be one of these  **MsoTriState** constants.
 
 
 [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)
-[ShapeRange.InkXML](shaperange-inkxml-property-powerpoint.md)
+[ShapeRange.InkXML](PowerPoint.shaperange.inkxml.md)
 
 

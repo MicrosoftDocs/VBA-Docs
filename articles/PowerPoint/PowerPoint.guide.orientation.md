@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Guide.Orientation Property (PowerPoint)
 
-Returns the orientation of the drawing guide (horizontal or vertical) as a constant from the [PpGuideOrientation](ppguideorientation-enumeration-powerpoint.md) enumeration. Read-only.
+Returns the orientation of the drawing guide (horizontal or vertical) as a constant from the [PpGuideOrientation](PowerPoint.ppguideorientation.md) enumeration. Read-only.
 
 
 ## Syntax

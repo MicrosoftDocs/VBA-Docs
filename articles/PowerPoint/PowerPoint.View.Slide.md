@@ -53,5 +53,5 @@ MsgBox SlideShowWindows(1).View.Slide.Parent.Name
 #### Concepts
 
 
-[View Object](view-object-powerpoint.md)
+[View Object](PowerPoint.View.md)
 

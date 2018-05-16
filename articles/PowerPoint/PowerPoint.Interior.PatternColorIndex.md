@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior.PatternColorIndex Property (PowerPoint)
 
-Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[XlColorIndex](xlcolorindex-enumeration-powerpoint.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
+Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[XlColorIndex](PowerPoint.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax

@@ -35,7 +35,7 @@ Sets the preset extrusion format.
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion.
 
-This method sets the  **[PresetThreeDFormat](threedformat-presetthreedformat-property-powerpoint.md)** property to the format specified by the PresetThreeDFormat parameter.
+This method sets the  **[PresetThreeDFormat](PowerPoint.ThreeDFormat.PresetThreeDFormat.md)** property to the format specified by the PresetThreeDFormat parameter.
 
 The value of the PresetThreeDFormat parameter can be one of these  **MsoPresetThreeDFormat** constants. Specifying **msoPresetThreeDFormatMixed** causes an error.
 

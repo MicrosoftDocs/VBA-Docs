@@ -26,8 +26,8 @@ Returns a single  **[Axis](PowerPoint.Axis.md)** object from an **Axes** collect
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**[XlAxisType](xlaxistype-enumeration-powerpoint.md)**|The axis type.|
-| _AxisGroup_|Optional|**[XlAxisGroup](xlaxisgroup-enumeration-powerpoint.md)**|The axis.|
+| _Type_|Required|**[XlAxisType](PowerPoint.XlAxisType.md)**|The axis type.|
+| _AxisGroup_|Optional|**[XlAxisGroup](PowerPoint.XlAxisGroup.md)**|The axis.|
 
 ## Example
 

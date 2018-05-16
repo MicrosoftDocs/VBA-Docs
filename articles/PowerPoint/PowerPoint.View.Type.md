@@ -54,5 +54,5 @@ The value of the  **Type** property can be one of these **PpViewType** constants
 #### Concepts
 
 
-[View Object](view-object-powerpoint.md)
+[View Object](PowerPoint.View.md)
 

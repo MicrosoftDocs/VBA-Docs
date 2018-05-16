@@ -17,7 +17,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. **Creator**
 
- _expression_ A variable that represents an **[UpBars](upbars-object-powerpoint.md)** object.
+ _expression_ A variable that represents an **[UpBars](PowerPoint.UpBars.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Returns a 32-bit integer that indicates the application in which the specified o
 #### Concepts
 
 
-[UpBars Object](upbars-object-powerpoint.md)
+[UpBars Object](PowerPoint.UpBars.md)
 

@@ -33,7 +33,7 @@ Changes the rotation of the specified shape around the x-axis by the specified n
 
 ## Remarks
 
-Use the  **[RotationX](threedformat-rotationx-property-powerpoint.md)** property to set the absolute rotation of the shape around the x-axis.
+Use the  **[RotationX](PowerPoint.ThreeDFormat.RotationX.md)** property to set the absolute rotation of the shape around the x-axis.
 
 You cannot adjust the rotation around the x-axis of the specified shape past the upper or lower limit for the  **RotationX** property (90 degrees to ? 90 degrees). For example, if the **RotationX** property is initially set to 80 and you specify 40 for the Increment argument, the resulting rotation will be 90 (the upper limit for the **RotationX** property) instead of 120.
 

@@ -20,7 +20,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
  _expression_. **Application**
 
- _expression_ A variable that represents a **[TickLabels](ticklabels-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 #### Concepts
 
 
-[TickLabels Object](ticklabels-object-powerpoint.md)
+[TickLabels Object](PowerPoint.TickLabels.md)
 

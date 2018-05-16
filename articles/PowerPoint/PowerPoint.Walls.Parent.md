@@ -17,7 +17,7 @@ Returns the parent for the specified object. Read-only  **Object**.
 
  _expression_. **Parent**
 
- _expression_ A variable that represents a **[Walls](walls-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Returns the parent for the specified object. Read-only  **Object**.
 #### Concepts
 
 
-[Walls Object](walls-object-powerpoint.md)
+[Walls Object](PowerPoint.Walls.md)
 

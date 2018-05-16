@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # DataLabels.Position Property (PowerPoint)
 
-Returns a value from the [XlDataLabelPosition](xldatalabelposition-enumeration-powerpoint.md) enumeration indicating the position of the data labels in a chart. Read/write.
+Returns a value from the [XlDataLabelPosition](PowerPoint.XlDataLabelPosition.md) enumeration indicating the position of the data labels in a chart. Read/write.
 
 
 ## Syntax

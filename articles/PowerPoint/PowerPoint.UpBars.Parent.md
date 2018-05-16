@@ -17,7 +17,7 @@ Returns the parent for the specified object. Read-only  **Object**.
 
  _expression_. **Parent**
 
- _expression_ A variable that represents an **[UpBars](upbars-object-powerpoint.md)** object.
+ _expression_ A variable that represents an **[UpBars](PowerPoint.UpBars.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Returns the parent for the specified object. Read-only  **Object**.
 #### Concepts
 
 
-[UpBars Object](upbars-object-powerpoint.md)
+[UpBars Object](PowerPoint.UpBars.md)
 

@@ -52,5 +52,5 @@ End With
 #### Concepts
 
 
-[View Object](view-object-powerpoint.md)
+[View Object](PowerPoint.View.md)
 

@@ -20,7 +20,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
  _expression_. **Application**
 
- _expression_ A variable that represents a **[Trendlines](trendlines-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendlines](PowerPoint.Trendlines.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 #### Concepts
 
 
-[Trendlines Object](trendlines-object-powerpoint.md)
+[Trendlines Object](PowerPoint.Trendlines.md)
 

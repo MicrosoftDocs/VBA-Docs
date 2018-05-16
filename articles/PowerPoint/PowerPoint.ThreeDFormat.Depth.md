@@ -59,6 +59,6 @@ End With
 #### Concepts
 
 
-[TickLabels Object](ticklabels-object-powerpoint.md)
+[TickLabels Object](PowerPoint.TickLabels.md)
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 

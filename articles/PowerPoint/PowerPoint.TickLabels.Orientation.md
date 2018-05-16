@@ -20,12 +20,12 @@ Returns or sets the text orientation. Read/write  **Long**.
 
  _expression_. **Orientation**
 
- _expression_ A variable that represents a **[TickLabels](ticklabels-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
 
 
 ## Remarks
 
-The value of this property can be an integer from -90 through 90 degrees or one of the  **[XlTickLabelOrientation](xlticklabelorientation-enumeration-powerpoint.md)** constants.
+The value of this property can be an integer from -90 through 90 degrees or one of the  **[XlTickLabelOrientation](PowerPoint.XlTickLabelOrientation.md)** constants.
 
 
 ## See also
@@ -34,5 +34,5 @@ The value of this property can be an integer from -90 through 90 degrees or one 
 #### Concepts
 
 
-[TickLabels Object](ticklabels-object-powerpoint.md)
+[TickLabels Object](PowerPoint.TickLabels.md)
 

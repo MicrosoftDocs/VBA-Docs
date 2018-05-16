@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Series.MarkerStyle Property (PowerPoint)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](xlmarkerstyle-enumeration-powerpoint.md)**.
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](PowerPoint.XlMarkerStyle.md)**.
 
 
 ## Syntax

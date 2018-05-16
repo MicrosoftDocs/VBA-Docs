@@ -20,7 +20,7 @@ Returns or sets the number of periods (or units on a scatter chart) that the tre
 
  _expression_. **Backward2**
 
- _expression_ A variable that represents a **[Trendline](trendline-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendline](PowerPoint.Trendline.md)** object.
 
 
 ## Example
@@ -60,5 +60,5 @@ End With
 #### Concepts
 
 
-[Trendline Object](trendline-object-powerpoint.md)
+[Trendline Object](PowerPoint.Trendline.md)
 

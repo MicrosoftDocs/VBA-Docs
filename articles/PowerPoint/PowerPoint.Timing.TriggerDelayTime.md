@@ -63,5 +63,5 @@ End Sub
 #### Concepts
 
 
-[Timing Object](timing-object-powerpoint.md)
+[Timing Object](PowerPoint.Timing.md)
 

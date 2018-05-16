@@ -17,7 +17,7 @@ Returns the name of the object. Read-only  **String**.
 
  _expression_. **Name**
 
- _expression_ A variable that represents an **[UpBars](upbars-object-powerpoint.md)** object.
+ _expression_ A variable that represents an **[UpBars](PowerPoint.UpBars.md)** object.
 
 
 ## See also
@@ -26,5 +26,5 @@ Returns the name of the object. Read-only  **String**.
 #### Concepts
 
 
-[UpBars Object](upbars-object-powerpoint.md)
+[UpBars Object](PowerPoint.UpBars.md)
 

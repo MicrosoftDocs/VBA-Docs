@@ -29,7 +29,7 @@ Applies data labels to a series.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**[XlDataLabelsType](xldatalabelstype-enumeration-powerpoint.md)**|The type of data label to apply.|
+| _Type_|Optional|**[XlDataLabelsType](PowerPoint.XlDataLabelsType.md)**|The type of data label to apply.|
 | _LegendKey_|Optional|**Variant**|**True** to show the legend key next to the point. The default is **False**.|
 | _AutoText_|Optional|**Variant**|**True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional|**Variant**|For the  **[Chart](PowerPoint.Chart.md)** and **[Series](PowerPoint.Series.md)** objects, **True** if the series has leader lines.|

@@ -20,12 +20,12 @@ Returns or sets the point where the trendline crosses the value axis. Read/write
 
  _expression_. **Intercept**
 
- _expression_ A variable that represents a **[Trendline](trendline-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendline](PowerPoint.Trendline.md)** object.
 
 
 ## Remarks
 
-Setting this property sets the  **[InterceptIsAuto](trendline-interceptisauto-property-powerpoint.md)** property to **False**.
+Setting this property sets the  **[InterceptIsAuto](PowerPoint.Trendline.InterceptIsAuto.md)** property to **False**.
 
 
 ## Example
@@ -59,5 +59,5 @@ End With
 #### Concepts
 
 
-[Trendline Object](trendline-object-powerpoint.md)
+[Trendline Object](PowerPoint.Trendline.md)
 

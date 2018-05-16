@@ -20,7 +20,7 @@ Returns or sets the trendline order (an integer greater than 1) when the trendli
 
  _expression_. **Order**
 
- _expression_ A variable that represents a **[Trendline](trendline-object-powerpoint.md)** object.
+ _expression_ A variable that represents a **[Trendline](PowerPoint.Trendline.md)** object.
 
 
 ## See also
@@ -29,5 +29,5 @@ Returns or sets the trendline order (an integer greater than 1) when the trendli
 #### Concepts
 
 
-[Trendline Object](trendline-object-powerpoint.md)
+[Trendline Object](PowerPoint.Trendline.md)
 

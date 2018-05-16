@@ -24,19 +24,19 @@ Use the following read/write properties of the  **Timing** object to manipulate 
 
 |**Use this property**|**To change this...**|
 |:-----|:-----|
-|[Accelerate](timing-accelerate-property-powerpoint.md)|Percentage of the duration over which acceleration should take place|
-|[AutoReverse](timing-autoreverse-property-powerpoint.md)|Whether an effect should play forward and then reverse, thereby doubling the duration|
-|[Decelerate](timing-decelerate-property-powerpoint.md)|Percentage of the duration over which acceleration should take place|
+|[Accelerate](PowerPoint.Timing.Accelerate.md)|Percentage of the duration over which acceleration should take place|
+|[AutoReverse](PowerPoint.Timing.AutoReverse.md)|Whether an effect should play forward and then reverse, thereby doubling the duration|
+|[Decelerate](PowerPoint.Timing.Decelerate.md)|Percentage of the duration over which acceleration should take place|
 |[Duration](PowerPoint.SlideShowTransition.Duration.md)|Length of animation (in seconds)|
-|[RepeatCount](timing-repeatcount-property-powerpoint.md)|Number of times to repeat the animation|
-|[RepeatDuration](timing-repeatduration-property-powerpoint.md)|How long should the repeats last (in seconds)|
-|[Restart](timing-restart-property-powerpoint.md)|Restart behavior of an animation node|
-|[RewindAtEnd](timing-rewindatend-property-powerpoint.md)|Whether an objects return to its beginning position after an effect has ended|
-|[SmoothStart](timing-smoothstart-property-powerpoint.md)|Whether an effect accelerates when it starts|
-|[SmoothEnd](timing-smoothend-property-powerpoint.md)|Whether an effect decelerates when it ends|
-|[TriggerDelayTime](timing-triggerdelaytime-property-powerpoint.md)|Delay time from when the trigger is enabled (in seconds)|
-|[TriggerShape](timing-triggershape-property-powerpoint.md)|Which shape is associated with the timing effect|
-|[TriggerType](timing-triggertype-property-powerpoint.md)|How the timing effect is triggered|
+|[RepeatCount](PowerPoint.Timing.RepeatCount.md)|Number of times to repeat the animation|
+|[RepeatDuration](PowerPoint.Timing.RepeatDuration.md)|How long should the repeats last (in seconds)|
+|[Restart](PowerPoint.Timing.Restart.md)|Restart behavior of an animation node|
+|[RewindAtEnd](PowerPoint.Timing.RewindAtEnd.md)|Whether an objects return to its beginning position after an effect has ended|
+|[SmoothStart](PowerPoint.Timing.SmoothStart.md)|Whether an effect accelerates when it starts|
+|[SmoothEnd](PowerPoint.Timing.SmoothEnd.md)|Whether an effect decelerates when it ends|
+|[TriggerDelayTime](PowerPoint.Timing.TriggerDelayTime.md)|Delay time from when the trigger is enabled (in seconds)|
+|[TriggerShape](PowerPoint.Timing.TriggerShape.md)|Which shape is associated with the timing effect|
+|[TriggerType](PowerPoint.Timing.TriggerType.md)|How the timing effect is triggered|
 
 ## Example
 

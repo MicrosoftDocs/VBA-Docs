@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendlines Object (PowerPoint)
 
-Represents a collection of all the  **[Trendline](trendline-object-powerpoint.md)** objects for the specified series.
+Represents a collection of all the  **[Trendline](PowerPoint.Trendline.md)** objects for the specified series.
 
 
 ## Remarks
@@ -50,7 +50,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Add](trendlines-add-method-powerpoint.md)** method to create a new trendline and add it to the series. The following example adds a linear trendline to the first series for the first chart in the active document.
+Use the  **[Add](PowerPoint.Trendlines.Add.md)** method to create a new trendline and add it to the series. The following example adds a linear trendline to the first series for the first chart in the active document.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.BaseUnit Property (PowerPoint)
 
-Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](xltimeunit-enumeration-powerpoint.md)**.
+Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 
 
 ## Syntax
