@@ -29,5 +29,5 @@ Returns the SMTP (Simple Mail Transfer Protocol) address of the author of the co
 #### Other resources
 
 
-[Comment Object](comment-object-visio.md)
+[Comment Object](Visio.comment.md)
 

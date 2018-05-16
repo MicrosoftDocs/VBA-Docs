@@ -29,5 +29,5 @@ Returns the [Document](Visio.Document.md) object that is associated with an obje
 #### Other resources
 
 
-[Comments Collection](comments-object-visio.md)
+[Comments Collection](Visio.comments.md)
 

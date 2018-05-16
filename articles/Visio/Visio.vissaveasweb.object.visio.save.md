@@ -39,14 +39,14 @@ Application.Documents.Open("drive:\folder\drawingname.vdx")
   vsoSaveAsWeb.CreatePages vsoSaveAsWeb.CreatePages
 ```
 
-You can control certain user interface behavior during page creation by using the  **[SilentMode](viswebpagesettings-silentmode-property-visio-save-as-web.md)** property or the **[QuietMode](viswebpagesettings-quietmode-property-visio-save-as-web.md)** property of the **VisWebPageSettings** object.
+You can control certain user interface behavior during page creation by using the  **[SilentMode](Visio.SilentMode.md)** property or the **[QuietMode](Visio.QuietMode.md)** property of the **VisWebPageSettings** object.
 
-The files created by the Save as Web Page feature are placed into the target path you specify, or a location you specify in the  **[TargetPath](viswebpagesettings-targetpath-property-visio-save-as-web.md)** property of the **VisWebPageSettings** object.
+The files created by the Save as Web Page feature are placed into the target path you specify, or a location you specify in the  **[TargetPath](Visio.TargetPath.md)** property of the **VisWebPageSettings** object.
 
 
  **Note**  You must specify a target path, or Visio will generate an error.
 
-They can be organized as flat files or in a subfolder that has the same name as the drawing (see the  **[StoreInFolder](viswebpagesettings-storeinfolder-property-visio-save-as-web.md)** property of the **VisWebPageSettings** object).
+They can be organized as flat files or in a subfolder that has the same name as the drawing (see the  **[StoreInFolder](Visio.StoreInFolder.md)** property of the **VisWebPageSettings** object).
 
 
  **Note**  To view the  **VisSaveAsWeb** class in the Object Browser, make sure that you have a reference to the Save As Web Page DLL in your project (in the Visual Basic Editor window, click **References**, on the  **Tools** menu, and then select the **Microsoft Visio 15.0 SaveAsWeb Type Library** check box in the **Available References** list).

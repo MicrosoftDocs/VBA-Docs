@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comments.Add Method (Visio)
 
-Adds a new [Comment](comment-object-visio.md) object to the **Comments** collection, and returns the new object.
+Adds a new [Comment](Visio.comment.md) object to the **Comments** collection, and returns the new object.
 
 
 ## Syntax
@@ -38,5 +38,5 @@ Adds a new [Comment](comment-object-visio.md) object to the **Comments** collect
 #### Other resources
 
 
-[Comments Collection](comments-object-visio.md)
+[Comments Collection](Visio.comments.md)
 

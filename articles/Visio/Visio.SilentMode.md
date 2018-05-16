@@ -31,7 +31,7 @@ Set  **SilentMode** to a non-zero value ( **True**) to prevent any component of 
 
 Setting the  **SilentMode** property to **True** overrides the setting of the **[OpenBrowser](Visio.OpenBrowser.md)** property and prevents newly created Web pages from opening in the default browser automatically.
 
-To control only the display of dialog boxes in the Visio user interface, use the  **[QuietMode](viswebpagesettings-quietmode-property-visio-save-as-web.md)** property.
+To control only the display of dialog boxes in the Visio user interface, use the  **[QuietMode](Visio.QuietMode.md)** property.
 
 If both the  **QuietMode** and **SilentMode** properties are set to **True**, the  **SilentMode** property takes precedence and no user interface components are displayed.
 

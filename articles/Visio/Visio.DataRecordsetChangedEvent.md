@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordsetChangedEvent Object (Visio)
 
-Passed by Microsoft Visio as the pSubjectObj argument to the  **[VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method of the **[IVisEventProc](iviseventproc-object-visio.md)** interface when events related to refreshing a data recordset fire.
+Passed by Microsoft Visio as the pSubjectObj argument to the  **[VisEventProc](Visio.IVisEventProc.VisEventProc.md)** method of the **[IVisEventProc](Visio.iviseventproc.md)** interface when events related to refreshing a data recordset fire.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

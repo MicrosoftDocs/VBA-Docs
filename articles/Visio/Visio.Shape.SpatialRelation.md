@@ -41,7 +41,7 @@ Integer
 ## Remarks
 
 
-- The integer returned can be any combination of the values defined in  **[VisSpatialRelationCodes](visspatialrelationcodes-enumeration-visio.md)** in the Visio type library. The **SpatialRelation** property returns zero (0) if the two shapes being compared are not in any of the relationships discussed in the table in the **[VisSpatialRelationCodes](visspatialrelationcodes-enumeration-visio.md)** topic.
+- The integer returned can be any combination of the values defined in  **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)** in the Visio type library. The **SpatialRelation** property returns zero (0) if the two shapes being compared are not in any of the relationships discussed in the table in the **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)** topic.
     
 - The Flags argument can be any combination of the values of the constants defined in the following table. These constants are declared in  **VisSpatialRelationFlags** in the Visio type library. Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
     

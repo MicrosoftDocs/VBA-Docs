@@ -35,7 +35,7 @@ Integer
 
 Objects that have lower numbers are docked first. Several items can share the same row index. If two or more items share the same row index, the item most recently assigned is displayed first in its group.
 
-Constants that represent the first and last positions (see the following table) are declared by the Visio type library in member  **[VisUIBarRow](visuibarrow-enumeration-visio.md)** .
+Constants that represent the first and last positions (see the following table) are declared by the Visio type library in member  **[VisUIBarRow](Visio.visuibarrow.md)** .
 
 
 

@@ -29,7 +29,7 @@ Returns the minimal distance, in the specified units, between the edges of the c
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MarginUnits_|Required| **[VisUnitCodes](visunitcodes-enumeration-visio.md)**|The units in which to measure the margin.|
+| _MarginUnits_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units in which to measure the margin.|
 
 ### Return Value
 

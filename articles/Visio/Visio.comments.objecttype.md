@@ -34,5 +34,5 @@ Constants representing object types are prefixed with  **visObjType** and are de
 #### Other resources
 
 
-[Comments Collection](comments-object-visio.md)
+[Comments Collection](Visio.comments.md)
 

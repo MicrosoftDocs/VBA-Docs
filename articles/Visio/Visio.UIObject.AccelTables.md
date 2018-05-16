@@ -35,7 +35,7 @@ AccelTables
 
 If a  **UIObject** object represents menu items and accelerators (for example, if you used the **BuiltInMenus** property of an **Application** object to retrieve the **UIObject** object), its **AccelTables** collection represents tables of accelerator keys for that **UIObject** object.
 
-To retrieve accelerators for a particular window context, for example, the drawing window, use the  **ItemAtID** property of an **AccelTables** collection. If a window context does not include accelerators, it has no **AccelTables** collection. Valid window context IDs are declared in **[VisUIObjSets](visuiobjsets-enumeration-visio.md)** in the Visio type library.
+To retrieve accelerators for a particular window context, for example, the drawing window, use the  **ItemAtID** property of an **AccelTables** collection. If a window context does not include accelerators, it has no **AccelTables** collection. Valid window context IDs are declared in **[VisUIObjSets](Visio.visuiobjsets.md)** in the Visio type library.
 
 
 ## Example

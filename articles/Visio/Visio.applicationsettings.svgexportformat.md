@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ApplicationSettings.SVGExportFormat Property (Visio)
 
-Returns or sets a [VisSVGExportFormat](vissvgexportformat-enumeration-visio.md) constant that specifies the options for saving a Microsoft Visio file in SVG format. Read/write.
+Returns or sets a [VisSVGExportFormat](Visio.vissvgexportformat.md) constant that specifies the options for saving a Microsoft Visio file in SVG format. Read/write.
 
 
 ## Syntax

@@ -29,5 +29,5 @@ Deletes the specified comment.
 #### Other resources
 
 
-[Comment Object](comment-object-visio.md)
+[Comment Object](Visio.comment.md)
 

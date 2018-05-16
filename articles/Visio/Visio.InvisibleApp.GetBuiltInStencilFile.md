@@ -30,7 +30,7 @@ Returns the file path to the specified built-in, hidden stencil used to populate
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _StencilType_|Required| **[VisBuiltInStencilTypes](Visio.VisBuiltInStencilTypes.md)**|The stencil to retrieve. See Remarks for possible values.|
-| _MeasurementSystem_|Required| **[VisMeasurementSystem](vismeasurementsystem-enumeration-visio.md)**|The measurement system for the stencil.|
+| _MeasurementSystem_|Required| **[VisMeasurementSystem](Visio.vismeasurementsystem.md)**|The measurement system for the stencil.|
 
 ### Return Value
 

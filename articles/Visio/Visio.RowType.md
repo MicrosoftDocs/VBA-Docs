@@ -41,7 +41,7 @@ Integer
 
 After you change a row's type, the new row type may or may not have the same cells. Your program must provide the appropriate formulas for the new or changed cells.
 
-You can specify the type of row you want by setting  **RowType** equal to any of the following constants declared by the Visio type library in member **[VisRowTags](visrowtags-enumeration-visio.md)** .
+You can specify the type of row you want by setting  **RowType** equal to any of the following constants declared by the Visio type library in member **[VisRowTags](Visio.visrowtags.md)** .
 
 
 
@@ -70,7 +70,7 @@ If an inappropriate row tag is passed or the row does not exist, no changes occu
 
 Use the  **RowName** property to transition from unnamed to named Connection Points rows.
 
-See  **[VisRowIndices](visrowindices-enumeration-visio.md)** for a list of valid row constants and **[VisRowTags](visrowtags-enumeration-visio.md)** for a list of valid row tag constants.
+See  **[VisRowIndices](Visio.visrowindices.md)** for a list of valid row constants and **[VisRowTags](Visio.visrowtags.md)** for a list of valid row tag constants.
 
 See  **[VisSectionIndices](vissectionindices-enumeration-visio.md)** for a list of valid section constants.
 

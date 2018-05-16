@@ -26,7 +26,7 @@ Replaces the specified shape with an instance of the master passed as the first 
 |:-----|:-----|:-----|:-----|
 |||||
 | _MasterOrMasterShortcutToDrop_|Required|UNKNOWN|Specifies the replacement shape to drop. Must be either a [Master](Visio.Master.md) or[MasterShortcut](Visio.MasterShortcut.md) object.|
-| _ReplaceFlags_|Optional|INT32|Specifies the properties of the original shape to retain in the new shape. Possible values include any of the [VisReplaceFlags](visreplaceflags-enumeration-visio.md) constants, and certain combinations of those constants. See Remarks for more information.|
+| _ReplaceFlags_|Optional|INT32|Specifies the properties of the original shape to retain in the new shape. Possible values include any of the [VisReplaceFlags](Visio.visreplaceflags.md) constants, and certain combinations of those constants. See Remarks for more information.|
 
 ### Return value
 

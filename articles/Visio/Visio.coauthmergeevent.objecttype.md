@@ -34,6 +34,6 @@ Constants representing object types are prefixed with  **visObjType** and are de
 #### Other resources
 
 
-[CoauthMergeEvent Object](coauthmergeevent-object-visio.md)
+[CoauthMergeEvent Object](Visio.coauthmergeevent.md)
 
 

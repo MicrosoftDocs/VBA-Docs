@@ -43,9 +43,9 @@ Selection
 ## Remarks
 
 
-- The  _relation_ argument can be any combination of the constants defined in **[VisSpatialRelationCodes](visspatialrelationcodes-enumeration-visio.md)** . If _relation_ is not specified, the **SpatialSearch** property uses both relationships as criteria.
+- The  _relation_ argument can be any combination of the constants defined in **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)** . If _relation_ is not specified, the **SpatialSearch** property uses both relationships as criteria.
     
-- The  _flags_ argument can be any combination of the values of the constants defined in **[VisSpatialRelationFlags](visspatialrelationflags-enumeration-visio.md)** in the Visio type library (except **visSpatialIncludeHidden** , which is reserved for future use, and should not be used).
+- The  _flags_ argument can be any combination of the values of the constants defined in **[VisSpatialRelationFlags](Visio.visspatialrelationflags.md)** in the Visio type library (except **visSpatialIncludeHidden** , which is reserved for future use, and should not be used).
     
 Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry section sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
 

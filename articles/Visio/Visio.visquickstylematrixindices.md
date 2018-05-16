@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # VisQuickStyleMatrixIndices Enumeration (Visio)
 
-Quick Style shape-style constants passed to the [Selection.SetQuickStyle](selection-setquickstyle-method-visio.md) and[Shape.SetQuickStyle](shape-setquickstyle-method-visio.md) methods.
+Quick Style shape-style constants passed to the [Selection.SetQuickStyle](Visio.selection.setquickstyle.md) and[Shape.SetQuickStyle](Visio.shape.setquickstyle.md) methods.
 
 
 ## Members

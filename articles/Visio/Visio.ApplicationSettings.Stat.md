@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-Possible values returned by the  **Stat** property are declared by the Visio type library in **[VisStatCodes](visstatcodes-enumeration-visio.md)** .
+Possible values returned by the  **Stat** property are declared by the Visio type library in **[VisStatCodes](Visio.visstatcodes.md)** .
 
 If an object is a reference to an entity in a document, and if that document closes, the  **Stat** property returns a value in which the **visStatClosed** bit is set.
 

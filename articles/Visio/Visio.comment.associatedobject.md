@@ -29,5 +29,5 @@ Returns the object associated with the specified comment. Read-only  **Object**.
 #### Other resources
 
 
-[Comment Object](comment-object-visio.md)
+[Comment Object](Visio.comment.md)
 

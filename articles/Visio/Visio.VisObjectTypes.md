@@ -27,8 +27,8 @@ Specifies codes returned by the  **ObjectType** property.
 | **visObjTypeChars**|5|[Characters](Visio.Characters.md) object|
 | **visObjTypeColor**|29|[Color](Visio.Color.md) object|
 | **visObjTypeColors**|30|[Colors](Visio.Colors.md) collection|
-| **visObjTypeComment**|74|[Comment](comment-object-visio.md) object|
-| **visObjTypeComments**|74|[Comments](comments-object-visio.md) collection|
+| **visObjTypeComment**|74|[Comment](Visio.comment.md) object|
+| **visObjTypeComments**|74|[Comments](Visio.comments.md) collection|
 | **visObjTypeConnect**|8|[Connect](Visio.Connect.md) object|
 | **visObjTypeConnects**|9|[Connects](Visio.Connects.md) collection|
 | **visObjTypeContainerProperties**|60|[ContainerProperties](Visio.ContainerProperties.md) collection|
@@ -84,6 +84,6 @@ Specifies codes returned by the  **ObjectType** property.
 | **visObjTypeValidationRules**|67|[ValidationRules](Visio.ValidationRules.md) collection|
 | **visObjTypeValidationRuleSet**|66|[ValidationRuleSet](Visio.ValidationRuleSet.md) object|
 | **visObjTypeValidationRuleSets**|65|[ValidationRuleSets](Visio.ValidationRuleSets.md) collection|
-| **visObjTypeWindow**|21|[Window](window-object-visio.md) object|
-| **visObjTypeWindows**|22|[Windows](windows-object-visio.md) collection|
+| **visObjTypeWindow**|21|[Window](Visio.Window.md) object|
+| **visObjTypeWindows**|22|[Windows](Visio.Windows.md) collection|
 

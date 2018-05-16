@@ -31,7 +31,7 @@ Resizes the shape by moving shape handles as specified.
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[VisResizeDirection](Visio.VisResizeDirection.md)**|The direction that corresponds to the shape handle. See Remarks for possible values.|
 | _Distance_|Required| **Double**|The distance to move the shape edge or corner; positive values move outward and negative values move inward.|
-| _UnitCode_|Required| **[VisUnitCodes](visunitcodes-enumeration-visio.md)**|The units of measure to use for the resize distance.|
+| _UnitCode_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units of measure to use for the resize distance.|
 
 ### Return Value
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Document.Comments Property (Visio)
 
-Returns a [Comments](comments-object-visio.md) object that represents the collection of all the reviewer comments in the document. Read-only.
+Returns a [Comments](Visio.comments.md) object that represents the collection of all the reviewer comments in the document. Read-only.
 
 
 ## Syntax

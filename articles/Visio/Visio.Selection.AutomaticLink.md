@@ -34,7 +34,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The value of the  **ID** property of the **DataRecordset** object that contains the data rows to link to.|
 | _ColumnNames()_|Required| **String**|An array of strings that correspond to names of columns in the data recordset. |
-| _AutoLinkFieldTypes()_|Required| **Long**|An array of  **Long** values from the **[VisAutoLinkFieldTypes](visautolinkfieldtypes-enumeration-visio.md)** enumeration, consisting of shape attribute types. At least one position in the array must have a value that corresponds to the values in the same position in the ColumnNames and FieldNames arrays.|
+| _AutoLinkFieldTypes()_|Required| **Long**|An array of  **Long** values from the **[VisAutoLinkFieldTypes](Visio.visautolinkfieldtypes.md)** enumeration, consisting of shape attribute types. At least one position in the array must have a value that corresponds to the values in the same position in the ColumnNames and FieldNames arrays.|
 | _FieldNames()_|Required| **String**|An array of strings that represent shape values.|
 | _AutoLinkBehavior_|Required| **Long**|A combination of one or more constants from the  **VisAutoLinkBehavior** enumeration that specify how the linking will occur. See Remarks for possible values.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of IDs of shapes (of type  **Long** ) that were linked by the method.|
@@ -48,7 +48,7 @@ Long
 
 For the ColumnNames() parameter, pass a string array consisting of names of columns in the database. At least one position in the array must have a value that corresponds to the values in the same position in the AutoLinkFieldTypes() and FieldNames() arrays.
 
-For the AutoLinkFieldTypes() parameter, pass an array of  **Long** values from the **[VisAutoLinkFieldTypes](visautolinkfieldtypes-enumeration-visio.md)** enumeration, consisting of shape attribute types. Among the shape attributes enumerated are height, width, text, and the name of the master the shape was derived from. At least one position in the array must have a value that corresponds to the values in the same position in the ColumnNames() and FieldNames() arrays.
+For the AutoLinkFieldTypes() parameter, pass an array of  **Long** values from the **[VisAutoLinkFieldTypes](Visio.visautolinkfieldtypes.md)** enumeration, consisting of shape attribute types. Among the shape attributes enumerated are height, width, text, and the name of the master the shape was derived from. At least one position in the array must have a value that corresponds to the values in the same position in the ColumnNames() and FieldNames() arrays.
 
 For the FieldNames() parameter, pass an array of strings that represent shape values. At least one position in the FieldNames() array must have a value that corresponds to the values in the same position in the ColumnNames() and AutoLinkFieldTypes() arrays.
 

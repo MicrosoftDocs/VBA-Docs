@@ -37,7 +37,7 @@ When the  **AddOnName** property of a **ToolbarItem** object indicates an add-on
 
 To insert a separator in a spacer in a toolbar preceding a  **ToolbarItem** object, use the **BeginGroup** property.
 
-Valid command IDs are declared by the Visio type library in  **[VisUICmds](visuicmds-enumeration-visio.md)** . They have the prefix **visCmd** .
+Valid command IDs are declared by the Visio type library in  **[VisUICmds](Visio.visuicmds.md)** . They have the prefix **visCmd** .
 
 
 ## Example

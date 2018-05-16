@@ -34,7 +34,7 @@ Makes small adjustments to the position of shapes on the drawing page to better 
 | _AlignVertical_|Required| **[VisLayoutVertAlignType](Visio.VisLayoutVertAlignType.md)**|Indicates how Visio aligns shapes vertically when it aligns incrementally (except if layout style is circular). See Remarks for possible values.|
 | _SpaceHorizontal_|Required| **Double**|The edge-to-edge horizontal spacing. Must be greater than or equal to zero.|
 | _SpaceVertical_|Required| **Double**|The edge-to-edge vertical spacing (except if layout style is circular). Must be greater than or equal to zero.|
-| _UnitsNameOrCode_|Required| **[VisUnitCodes](visunitcodes-enumeration-visio.md)**|The units for the spacing values.|
+| _UnitsNameOrCode_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units for the spacing values.|
 
 ### Return Value
 

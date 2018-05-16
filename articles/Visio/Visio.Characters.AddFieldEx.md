@@ -42,7 +42,7 @@ Nothing
 
 ## Remarks
 
-Constant values for  _Category, Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](visfieldcategories-enumeration-visio.md)** , **[VisFieldCodes](visfieldcodes-enumeration-visio.md)** , and **[VisFieldFormats](visfieldformats-enumeration-visio.md)** respectively.
+Constant values for  _Category, Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](Visio.visfieldcategories.md)** , **[VisFieldCodes](Visio.visfieldcodes.md)** , and **[VisFieldFormats](Visio.visfieldformats.md)** respectively.
 
 The  _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, the language ID is &;H0409 for the U.S. version of Microsoft Visio. To see a list of possible language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
 

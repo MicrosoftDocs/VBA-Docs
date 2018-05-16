@@ -25,7 +25,7 @@ Returns a  **Variant** that represents the specified theme component of the spec
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |||||
-| _eThemeType_|Required|[VISTHEMETYPES](visthemetypes-enumeration-visio.md)|Specifies the type of the theme component to return.|
+| _eThemeType_|Required|[VISTHEMETYPES](Visio.visthemetypes.md)|Specifies the type of the theme component to return.|
 
 ### Return value
 

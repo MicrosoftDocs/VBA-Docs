@@ -38,5 +38,5 @@ A Component Object Model (COM) object, such as a Microsoft Visio  **Document** o
 #### Other resources
 
 
-[Comments Collection](comments-object-visio.md)
+[Comments Collection](Visio.comments.md)
 

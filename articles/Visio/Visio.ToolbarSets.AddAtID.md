@@ -43,6 +43,6 @@ ToolbarSet
 
 The ID corresponds to a window or context menu. If the collection already contains an object at the specified ID, the  **AddAtID** method returns an error.
 
-Valid IDs are declared by the Visio type library in member  **[VisUIObjSets](visuiobjsets-enumeration-visio.md)** . Not all collections include an object for every possible ID.
+Valid IDs are declared by the Visio type library in member  **[VisUIObjSets](Visio.visuiobjsets.md)** . Not all collections include an object for every possible ID.
 
 

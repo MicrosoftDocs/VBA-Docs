@@ -20,7 +20,7 @@ Specifies the options for the shape replacement. Read-only.
 
 ## Remarks
 
-The value returned by  **ReplaceFlags** is equal to a combination of one or more[VisReplaceFlags](visreplaceflags-enumeration-visio.md) constants.
+The value returned by  **ReplaceFlags** is equal to a combination of one or more[VisReplaceFlags](Visio.visreplaceflags.md) constants.
 
 
 ## Property value
@@ -34,6 +34,6 @@ The value returned by  **ReplaceFlags** is equal to a combination of one or more
 #### Other resources
 
 
-[ReplaceShapesEvent Object](replaceshapesevent-object-visio.md)
+[ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 

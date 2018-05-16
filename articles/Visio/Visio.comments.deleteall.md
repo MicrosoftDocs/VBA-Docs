@@ -37,5 +37,5 @@ Deletes all the comments from the active document.
 #### Other resources
 
 
-[Comments Collection](comments-object-visio.md)
+[Comments Collection](Visio.comments.md)
 

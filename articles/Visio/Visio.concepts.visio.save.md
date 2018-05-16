@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [About the Save as Web Page API](about-the-save-as-web-page-api.md)
+-  [About the Save as Web Page API](Visio.about.the.save.as.web.md)
     
--  [Persisting Save as Web Page Settings](persisting-save-as-web-page-settings.md)
+-  [Persisting Save as Web Page Settings](Visio.persisting.save.as.web.md)
     
--  [Running Save as Web Page from the Command Line](running-save-as-web-page-from-the-command-line.md)
+-  [Running Save as Web Page from the Command Line](Visio.running.save.as.web.page.from.the.md)
     
--  [Using the Save as Web Page Object Model from Visual Basic: An Example](using-the-save-as-web-page-object-model-from-visual-basic-an-example.md)
+-  [Using the Save as Web Page Object Model from Visual Basic: An Example](Visio.using.the.save.as.web.page.object.model.from.visual.basic.md)
     
 

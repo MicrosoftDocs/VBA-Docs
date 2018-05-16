@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # CoauthMergeEvent Object (Visio)
 
-Represents the merging of changes by various authors to a document or documents. Passed as a parameter to the [Document.AfterDocumentMerge](document-afterdocumentmerge-event-visio.md) and[Documents.AfterDocumentMerge](documents-afterdocumentmerge-event-visio.md) events.
+Represents the merging of changes by various authors to a document or documents. Passed as a parameter to the [Document.AfterDocumentMerge](Visio.document.afterdocumentmerge.md) and[Documents.AfterDocumentMerge](Visio.documents.afterdocumentmerge.md) events.
 
 
 ## See also

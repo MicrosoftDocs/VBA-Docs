@@ -29,7 +29,7 @@ Saves the current Web page settings to the registry.
 
 By default, when some Web page settings are explicitly set to something other than the default value, they are saved to the registry when a Save as Web Page project's files are exported to the target path. The  **SaveSettings** method causes these settings to be written to the registry when the method is called rather than waiting until the files are exported.
 
-For more information about which settings are persisted to the registry, see  [Persisting Save as Web Page Settings](persisting-save-as-web-page-settings.md).
+For more information about which settings are persisted to the registry, see  [Persisting Save as Web Page Settings](Visio.persisting.save.as.web.md).
 
 
 ## Example

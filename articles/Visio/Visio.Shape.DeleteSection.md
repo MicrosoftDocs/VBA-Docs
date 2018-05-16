@@ -44,7 +44,7 @@ If a Geometry section is deleted, any subsequent Geometry sections shift up beca
 
 You can delete any section except the section represented by  **visSectionObject** (although you can delete rows within that section).
 
-Section index values are declared in the Visio type library in  **[VisSectionIndices](vissectionindices-enumeration-visio.md)** .
+Section index values are declared in the Visio type library in  **[VisSectionIndices](Visio.vissectionindices.md)** .
 
 
 ## Example

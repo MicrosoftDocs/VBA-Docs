@@ -39,7 +39,7 @@ The number of elements in the array is a multiple of 3, as follows:
 
 
 
-- The first element contains the beginning command ID of the range (any member of  **[VisUICmds](visuicmds-enumeration-visio.md)** ).
+- The first element contains the beginning command ID of the range (any member of  **[VisUICmds](Visio.visuicmds.md)** ).
     
 - The second element contains the end command ID of the range (any member of  **VisUICmds** ).
     

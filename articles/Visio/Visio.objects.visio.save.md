@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [VisSaveAsWeb Object (Visio Save As Web)](vissaveasweb-object-visio-save-as-web.md)
+-  [VisSaveAsWeb Object (Visio Save As Web)](Visio.vissaveasweb.object.visio.save.md)
     
--  [VisWebPageSettings Object (Visio Save As Web)](viswebpagesettings-object-visio-save-as-web.md)
+-  [VisWebPageSettings Object (Visio Save As Web)](Visio.viswebpagesettings.object.visio.save.md)
     
 -  [Enumerations (Visio Save As Web)](enumerations-visio-save-as-web.md)
     

@@ -32,7 +32,7 @@ Unglues the specified connector end points and offsets them the specified amount
 | _ConnectorEnd_|Required| **[VisConnectorEnds](Visio.VisConnectorEnds.md)**|The end of the connector to disconnect.|
 | _OffsetX_|Required| **Double**|The  _x_-distance that the connector end is moved away from the shape.|
 | _OffsetY_|Required| **Double**|The  _y_-distance that the connector end is moved away from the shape.|
-| _Units_|Required| **[VisUnitCodes](visunitcodes-enumeration-visio.md)**|The units of measure for the assigned offset values.|
+| _Units_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units of measure for the assigned offset values.|
 
 ### Return Value
 

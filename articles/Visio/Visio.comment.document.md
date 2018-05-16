@@ -29,5 +29,5 @@ Returns the document that contains the comment. Read-only  ** **[Document](Visio
 #### Other resources
 
 
-[Comment Object](comment-object-visio.md)
+[Comment Object](Visio.comment.md)
 

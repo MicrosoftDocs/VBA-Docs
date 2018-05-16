@@ -42,9 +42,9 @@ Integer
 
 If the ShapeSheet section does not already exist, it is created with a blank row. New cells in new rows are initialized with default formulas, if applicable. Otherwise, a program must include statements to set the formulas for the new cells. If the new row cannot be added, an error is generated.
 
-The Visio type library declares row constants prefixed with  **visRow** in **[VisRowIndices](visrowindices-enumeration-visio.md)** .
+The Visio type library declares row constants prefixed with  **visRow** in **[VisRowIndices](Visio.visrowindices.md)** .
 
-Constants for rows in the Geometry, Connection Points, and Controls sections are prefixed with  **visTag** and declared by the type library in **[VisRowTags](visrowtags-enumeration-visio.md)** . To see a list of these constants, see the **RowType** property.
+Constants for rows in the Geometry, Connection Points, and Controls sections are prefixed with  **visTag** and declared by the type library in **[VisRowTags](Visio.visrowtags.md)** . To see a list of these constants, see the **RowType** property.
 
 The row constants declared by the Visio type library serve as base positions at which a section's rows begin. Add offsets to these constants to specify the first row and beyond, for example,  **visRowFirst** +0, **visRowFirst** +1, and so on. To add rows at the end of a section, pass the constant **visRowLast** for the _Row_ argument. The value returned is the actual row index.
 

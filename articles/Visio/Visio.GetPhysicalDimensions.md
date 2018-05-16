@@ -26,7 +26,7 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|eRes|Required| ** [VISWEB_DISP_RES](visweb_disp_res-enumeration-visio-save-as-web.md)**|A screen-resolution value.|
+|eRes|Required| ** [VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md)**|A screen-resolution value.|
 |pnWidth |Required| **Long**|The number of horizontal screen pixels.|
 |pnHeight |Required| **Long**|The number of vertical screen pixels.|
 

@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [VISWEB_DISP_RES Enumeration (Visio Save as Web)](visweb_disp_res-enumeration-visio-save-as-web.md)
+-  [VISWEB_DISP_RES Enumeration (Visio Save as Web)](Visio.visweb_disp_res.enumeration.visio.save.md)
     
 

@@ -52,7 +52,7 @@ The  _fExistsLocally_ argument specifies the scope of the search.
     
 
 
-For a list of cell index values, view the Visio type library for the members of class  **[VisCellIndices](viscellindices-enumeration-visio.md)** .
+For a list of cell index values, view the Visio type library for the members of class  **[VisCellIndices](Visio.viscellindices.md)** .
 
 
 

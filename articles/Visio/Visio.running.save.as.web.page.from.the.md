@@ -44,25 +44,25 @@ The following table lists the command-line options for the Save as Web Page comm
 
 |**Option**|**Default**|**Value type**|**Method/Property name**|
 |:-----|:-----|:-----|:-----|
-|target|None. You must supply a target value or Visio will generate an error.|Text| [TargetPath](viswebpagesettings-targetpath-property-visio-save-as-web.md)|
+|target|None. You must supply a target value or Visio will generate an error.|Text| [TargetPath](Visio.TargetPath.md)|
 |pagetitle|Same as document file name|Text| [PageTitle](Visio.PageTitle.md)|
 |prop|TRUE|Boolean| [PropControl](Visio.PropControl.md)|
 |altformat|TRUE|Boolean| [AltFormat](Visio.AltFormat.md)|
-|folder|TRUE|Boolean| [StoreInFolder](viswebpagesettings-storeinfolder-property-visio-save-as-web.md)|
-|theme|Null|Text| [ThemeName](viswebpagesettings-themename-property-visio-save-as-web.md)|
-|startpage|-1 (all pages)|Number| [StartPage](viswebpagesettings-startpage-property-visio-save-as-web.md)|
+|folder|TRUE|Boolean| [StoreInFolder](Visio.StoreInFolder.md)|
+|theme|Null|Text| [ThemeName](Visio.ThemeName.md)|
+|startpage|-1 (all pages)|Number| [StartPage](Visio.StartPage.md)|
 |endpage|-1 (all pages)|Number| [EndPage](Visio.EndPage.md)|
 |openbrowser|TRUE|Boolean| [OpenBrowser](Visio.OpenBrowser.md)|
 |screenres|1024x768|Text/Number1| [DispScreenRes](Visio.DispScreenRes.md)|
 |priformat|XAML|Text/Number1| [PriFormat](Visio.PriFormat.md)|
-|secformat|PNG|Text/Number1| [SecFormat](viswebpagesettings-secformat-property-visio-save-as-web.md)|
-|silent|FALSE|Boolean| [SilentMode](viswebpagesettings-silentmode-property-visio-save-as-web.md)|
-|quiet|FALSE|Boolean| [QuietMode](viswebpagesettings-quietmode-property-visio-save-as-web.md)|
-|stylesheet|\ _your_Visio_path\your_language_ID_\Default.css|Text| [Stylesheet](viswebpagesettings-stylesheet-property-visio-save-as-web.md)|
+|secformat|PNG|Text/Number1| [SecFormat](Visio.SecFormat.md)|
+|silent|FALSE|Boolean| [SilentMode](Visio.SilentMode.md)|
+|quiet|FALSE|Boolean| [QuietMode](Visio.QuietMode.md)|
+|stylesheet|\ _your_Visio_path\your_language_ID_\Default.css|Text| [Stylesheet](Visio.Stylesheet.md)|
 |navbar|TRUE|Boolean| [NavBar](Visio.NavBar.md)|
-|search|TRUE|Boolean| [Search](viswebpagesettings-search-property-visio-save-as-web.md)|
+|search|TRUE|Boolean| [Search](Visio.Search.md)|
 |panzoom|TRUE|Boolean| [PanAndZoom](Visio.PanAndZoom.md)|
-1For the text/number value type, the user may specify text such as  _vml_ for the output type, or a number (for example, 1) representing the index of this output type. Each output type will have its own unique index. For **screenres**, text and number values are defined by the  [VISWEB_DISP_RES](visweb_disp_res-enumeration-visio-save-as-web.md) enumeration.
+1For the text/number value type, the user may specify text such as  _vml_ for the output type, or a number (for example, 1) representing the index of this output type. Each output type will have its own unique index. For **screenres**, text and number values are defined by the  [VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md) enumeration.
 
 
 ## Using the RUNADDONWARGS function

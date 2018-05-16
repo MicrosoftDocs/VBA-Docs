@@ -30,6 +30,6 @@ VisDocumentTypes
 
 ## Remarks
 
-Type value constants for  **Document** objects (the possible values that the **Type** property of a **Document** object returns) are declared by the Visio type library in **[VisDocumentTypes](visdocumenttypes-enumeration-visio.md)** .
+Type value constants for  **Document** objects (the possible values that the **Type** property of a **Document** object returns) are declared by the Visio type library in **[VisDocumentTypes](Visio.visdocumenttypes.md)** .
 
 

@@ -29,5 +29,5 @@ Returns the most recent date on which the specified comment was edited. Read-onl
 #### Other resources
 
 
-[Comment Object](comment-object-visio.md)
+[Comment Object](Visio.comment.md)
 

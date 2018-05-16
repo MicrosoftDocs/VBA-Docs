@@ -34,6 +34,6 @@ Each  **AccelTable** object has a set ID that corresponds to a Microsoft Visio w
 
 You can retrieve an object from its collection by passing the object's set ID to the  **ItemAtID** property. You can also set the set ID of an object by using the **AddAtID** method.
 
-Valid set ID values are declared by the Visio type library in  **[VisUIObjSets](visuiobjsets-enumeration-visio.md)** .
+Valid set ID values are declared by the Visio type library in  **[VisUIObjSets](Visio.visuiobjsets.md)** .
 
 

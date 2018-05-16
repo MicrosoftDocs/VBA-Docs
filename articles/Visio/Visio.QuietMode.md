@@ -31,7 +31,7 @@ Set  **QuietMode** to a non-zero value ( **True**) to prevent modal dialog boxes
 
 Setting the  **QuietMode** property to **True** prevents modal dialog boxes from appearing in the Microsoft Visio user interface; however, the **Save As Web Page** progress bar is displayed while the page is being created.
 
-To prevent the user interface from appearing entirely, use the  **[SilentMode](viswebpagesettings-silentmode-property-visio-save-as-web.md)** property.
+To prevent the user interface from appearing entirely, use the  **[SilentMode](Visio.SilentMode.md)** property.
 
 If both the  **QuietMode** and **SilentMode** properties are set to **True**, the  **SilentMode** property takes precedence and no user interface is displayed.
 

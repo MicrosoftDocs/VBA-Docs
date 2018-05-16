@@ -29,5 +29,5 @@ Returns the number of objects in a collection. Read-only  **Long**.
 #### Other resources
 
 
-[Comments Collection](comments-object-visio.md)
+[Comments Collection](Visio.comments.md)
 

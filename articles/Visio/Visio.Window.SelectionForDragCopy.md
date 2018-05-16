@@ -20,7 +20,7 @@ Returns the  **[Selection](Visio.Selection.md)** object that represents the coll
 
  _expression_ . **SelectionForDragCopy**
 
- _expression_ A variable that represents a **[Window](window-object-visio.md)** object.
+ _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 
 
 ### Return Value

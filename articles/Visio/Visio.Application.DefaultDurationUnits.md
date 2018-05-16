@@ -32,9 +32,9 @@ Variant
 
 The  **DefaultDurationUnits** property corresponds to the value shown in the **Duration** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-The return value contains one of the values of  **[VisUnitCodes](visunitcodes-enumeration-visio.md)** , which are declared in the Microsoft Visio type library.
+The return value contains one of the values of  **[VisUnitCodes](Visio.visunitcodes.md)** , which are declared in the Microsoft Visio type library.
 
-You can specify  **DefaultDurationUnits** as an integer (a member of **[VisUnitCodes](visunitcodes-enumeration-visio.md)** ) or a string value such as "minutes". If the string is invalid or the unit code is inappropriate (non-duration), an error is generated.
+You can specify  **DefaultDurationUnits** as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)** ) or a string value such as "minutes". If the string is invalid or the unit code is inappropriate (non-duration), an error is generated.
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
 

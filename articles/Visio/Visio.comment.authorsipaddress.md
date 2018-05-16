@@ -29,5 +29,5 @@ Returns the SIP (Session Initiation Protocol) address of the author of the comme
 #### Other resources
 
 
-[Comment Object](comment-object-visio.md)
+[Comment Object](Visio.comment.md)
 

@@ -29,5 +29,5 @@ Returns the initials of the author of the specified comment. Read-only  **String
 #### Other resources
 
 
-[Comment Object](comment-object-visio.md)
+[Comment Object](Visio.comment.md)
 

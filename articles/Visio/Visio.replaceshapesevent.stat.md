@@ -38,6 +38,6 @@ A Component Object Model (COM) object, such as a Microsoft Visio  **Document** o
 #### Other resources
 
 
-[ReplaceShapesEvent Object](replaceshapesevent-object-visio.md)
+[ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 

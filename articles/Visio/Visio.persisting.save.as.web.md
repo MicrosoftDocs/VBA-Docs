@@ -44,7 +44,7 @@ The following Web page settings are persisted when their values are explicitly s
     
 - theme
     
-For information regarding default values, see the table describing command-line parameters in  [Running Save as Web Page from the command line](running-save-as-web-page-from-the-command-line.md) (the registry entries are the same as the command-line option names), or see the corresponding property topic. (The corresponding property topics are listed in [Running Save as Web Page from the command line](running-save-as-web-page-from-the-command-line.md).)
+For information regarding default values, see the table describing command-line parameters in  [Running Save as Web Page from the command line](Visio.running.save.as.web.page.from.the.md) (the registry entries are the same as the command-line option names), or see the corresponding property topic. (The corresponding property topics are listed in [Running Save as Web Page from the command line](Visio.running.save.as.web.page.from.the.md).)
 
  **Note**  If for some reason the registry entries are corrupt or if you delete the  **SaveAsWeb** subkey in the registry, the solution reverts to using the original default values. These default values are stored internally in the solution and are used whenever the corresponding registry key does not exist.
 

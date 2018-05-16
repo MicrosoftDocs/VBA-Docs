@@ -25,7 +25,7 @@ Returns status information for an object. Read-only.
 
 ### Return Value
 
- **[VisStatCodes](visstatcodes-enumeration-visio.md)**
+ **[VisStatCodes](Visio.visstatcodes.md)**
 
 
 ## Remarks

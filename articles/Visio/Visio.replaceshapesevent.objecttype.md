@@ -34,6 +34,6 @@ Constants representing object types are prefixed with  **visObjType** and are de
 #### Other resources
 
 
-[ReplaceShapesEvent Object](replaceshapesevent-object-visio.md)
+[ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 

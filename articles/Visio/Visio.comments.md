@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comments Object (Visio)
 
-Includes a [Comment](comment-object-visio.md) object for each comment in a Microsoft Visio document.
+Includes a [Comment](Visio.comment.md) object for each comment in a Microsoft Visio document.
 
 
 ## See also

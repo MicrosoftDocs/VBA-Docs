@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # VisSVGExportFormat Enumeration (Visio)
 
-Constants passed to and returned by the [ApplicationSettings.SVGExportFormat](applicationsettings-svgexportformat-property-visio.md) property that specify whether to include both SVG elements and Visio elements when saving Microsoft Visio documents to the SVG file format.
+Constants passed to and returned by the [ApplicationSettings.SVGExportFormat](Visio.applicationsettings.svgexportformat.md) property that specify whether to include both SVG elements and Visio elements when saving Microsoft Visio documents to the SVG file format.
 
 
 ## Members
@@ -27,5 +27,5 @@ Constants passed to and returned by the [ApplicationSettings.SVGExportFormat](ap
 #### Other resources
 
 
-[ApplicationSettings.SVGExportFormat](applicationsettings-svgexportformat-property-visio.md)
+[ApplicationSettings.SVGExportFormat](Visio.applicationsettings.svgexportformat.md)
 

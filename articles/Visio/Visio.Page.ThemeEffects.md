@@ -37,7 +37,7 @@ You can set the  **ThemeEffects** property value to any one of the following:
 
 - The name or universal name of the theme effect (strings)
     
-- An enumerated value from the  **[VisThemeEffects](visthemeeffects-enumeration-visio.md)** enumeration
+- An enumerated value from the  **[VisThemeEffects](Visio.visthemeeffects.md)** enumeration
     
 - A  **Master** object of type **visTypeThemeEffects**
     

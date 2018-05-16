@@ -27,7 +27,7 @@ Specifies the primary output format for the Web page. Read/write.
 
 ## Remarks
 
-If you select a primary output format that is not supported by all browsers, you should also select a secondary output format for older browsers. To do this, see the  **[SecFormat](viswebpagesettings-secformat-property-visio-save-as-web.md)** property.
+If you select a primary output format that is not supported by all browsers, you should also select a secondary output format for older browsers. To do this, see the  **[SecFormat](Visio.SecFormat.md)** property.
 
 For information about which browsers are compatible with selected formats, see the  **[AltFormat](Visio.AltFormat.md)** property.
 
