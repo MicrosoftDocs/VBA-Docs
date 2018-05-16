@@ -27,6 +27,6 @@ Gets a value that indicates whether the shape is flipped around the horizontal a
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
-[VerticalFlip Property](shape-verticalflip-property-project.md)
+[Shape Object](Project.shape.md)
+[VerticalFlip Property](Project.shape.verticalflip.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

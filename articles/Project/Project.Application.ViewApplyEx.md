@@ -30,7 +30,7 @@ _expression_ An expression that returns an **Application** object.
 | _SinglePane_|Optional|**Boolean**|**True** if an existing split is removed and the active window displays a single-pane view. The default value is **False**.|
 | _Toggle_|Optional|**Boolean**|**True** if the active window switches from one pane to two panes, or from two panes to one pane. _Toggle_ is ignored if _SinglePane_ is **True**. The default value is **False**.|
 | _ApplyTo_|Optional|**Integer**|Specifies where the view is applied. The value can be one of the [ApplyTo values](#applyto-values).|
-| _BuiltInView_|Optional|**PjViewType**|Specifies a built-in view. Can be one of the **[PjViewType](pjviewtype-enumeration-project.md)** constants. The default is **pjViewUndefined**. _BuiltInView_ is ignored if _Name_ is specified.|
+| _BuiltInView_|Optional|**PjViewType**|Specifies a built-in view. Can be one of the **[PjViewType](Project.pjviewtype.md)** constants. The default is **pjViewUndefined**. _BuiltInView_ is ignored if _Name_ is specified.|
 
 <br/>
 

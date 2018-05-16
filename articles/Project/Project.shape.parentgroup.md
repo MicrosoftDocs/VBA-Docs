@@ -27,4 +27,4 @@ Gets the common parent shape of a child shape or a range of child shapes. Read-o
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)

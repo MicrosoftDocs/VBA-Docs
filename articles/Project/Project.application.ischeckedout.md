@@ -82,4 +82,4 @@ End Sub
 #### Other resources
 
 
-[Project.CheckoutProject Method](project-checkoutproject-method-project.md)
+[Project.CheckoutProject Method](Project.project.checkoutproject.md)

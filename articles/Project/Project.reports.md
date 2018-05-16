@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Reports Object (Project)
-Contains a collection of  **[Report](report-object-project.md)** objects, where each report is a custom report.
+Contains a collection of  **[Report](Project.report.md)** objects, where each report is a custom report.
  
 
 ## Example
@@ -45,9 +45,9 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Add](reports-add-method-project.md)|
-|[Copy](reports-copy-method-project.md)|
-|[IsPresent](reports-ispresent-method-project.md)|
+|[Add](Project.reports.add.md)|
+|[Copy](Project.reports.copy.md)|
+|[IsPresent](Project.reports.ispresent.md)|
 
 ## Properties
 
@@ -55,10 +55,10 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](reports-application-property-project.md)|
-|[Count](reports-count-property-project.md)|
-|[Item](reports-item-property-project.md)|
-|[Parent](reports-parent-property-project.md)|
+|[Application](Project.reports.application.md)|
+|[Count](Project.reports.count.md)|
+|[Item](Project.reports.item.md)|
+|[Parent](Project.reports.parent.md)|
 
 ## See also
 
@@ -67,6 +67,6 @@ End Sub
 
 
  
-[Report Object](report-object-project.md)
+[Report Object](Project.report.md)
  
 [Project.Reports Property](project-reports-property-project.md)

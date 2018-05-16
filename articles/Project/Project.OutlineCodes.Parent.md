@@ -31,4 +31,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 #### Concepts
 
 
-[OutlineCodes Collection Object](outlinecodes-object-project.md)
+[OutlineCodes Collection Object](Project.outlinecodes(object).md)

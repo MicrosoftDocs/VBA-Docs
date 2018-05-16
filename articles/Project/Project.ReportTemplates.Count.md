@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReportTemplates.Count Property (Project)
 
-Gets the number of items in the  **[ReportTemplates](reporttemplates-object-project.md)** collection. Read-only **Long**.
+Gets the number of items in the  **[ReportTemplates](Project.reporttemplates.md)** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -34,4 +34,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[ReportTemplates Collection Object](reporttemplates-object-project.md)
+[ReportTemplates Collection Object](Project.reporttemplates.md)

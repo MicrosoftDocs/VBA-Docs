@@ -45,7 +45,7 @@ Use  **Windows** (*Index* ), where*Index* is the window index number or window c
 Application.Windows(1).WindowState = pjMaximized
 ```
 
-The window caption is the text shown in the title bar at the top of the window when the window is not maximized. The caption is also shown in the list of open files on the bottom of the  **Windows** menu. Use the **[Caption](window-caption-property-project.md)** property to set or return the window caption. Changing the window caption does not change the name of the project. The following example hides the window that contains the caption "Project1".
+The window caption is the text shown in the title bar at the top of the window when the window is not maximized. The caption is also shown in the list of open files on the bottom of the  **Windows** menu. Use the **[Caption](Project.Window.Caption.md)** property to set or return the window caption. Changing the window caption does not change the name of the project. The following example hides the window that contains the caption "Project1".
  
 
  
@@ -97,11 +97,11 @@ Application.WindowNewWindow
 
 |**Name**|
 |:-----|
-|[Activate](window-activate-method-project.md)|
-|[Close](window-close-method-project.md)|
-|[Refresh](window-refresh-method-project.md)|
-|[WebBrowserControlFrame](window-webbrowsercontrolframe-method-project.md)|
-|[WebBrowserControlWindow](window-webbrowsercontrolwindow-method-project.md)|
+|[Activate](Project.Window.Activate.md)|
+|[Close](Project.Window.Close.md)|
+|[Refresh](Project.Window.Refresh.md)|
+|[WebBrowserControlFrame](Project.Window.WebBrowserControlFrame.md)|
+|[WebBrowserControlWindow](Project.Window.WebBrowserControlWindow.md)|
 
 ## Properties
 
@@ -109,17 +109,17 @@ Application.WindowNewWindow
 
 |**Name**|
 |:-----|
-|[ActivePane](window-activepane-property-project.md)|
-|[Application](window-application-property-project.md)|
-|[BottomPane](window-bottompane-property-project.md)|
-|[Caption](window-caption-property-project.md)|
-|[Height](window-height-property-project.md)|
-|[Index](window-index-property-project.md)|
-|[Left](window-left-property-project.md)|
-|[Parent](window-parent-property-project.md)|
-|[Top](window-top-property-project.md)|
-|[TopPane](window-toppane-property-project.md)|
-|[Visible](window-visible-property-project.md)|
-|[Width](window-width-property-project.md)|
+|[ActivePane](Project.Window.ActivePane.md)|
+|[Application](Project.Window.Application.md)|
+|[BottomPane](Project.Window.BottomPane.md)|
+|[Caption](Project.Window.Caption.md)|
+|[Height](Project.Window.Height.md)|
+|[Index](Project.Window.Index.md)|
+|[Left](Project.Window.Left.md)|
+|[Parent](Project.Window.Parent.md)|
+|[Top](Project.Window.Top.md)|
+|[TopPane](Project.Window.TopPane.md)|
+|[Visible](Project.Window.Visible.md)|
+|[Width](Project.Window.Width.md)|
 |[WindowState](window-windowstate-property-project.md)|
 

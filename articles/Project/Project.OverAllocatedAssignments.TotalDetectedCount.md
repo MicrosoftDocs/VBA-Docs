@@ -31,5 +31,5 @@ For an example that uses the  **TotalDetectedCount** property, see the **[Item](
 #### Concepts
 
 
-[OverAllocatedAssignments Collection Object](overallocatedassignments-object-project.md)
+[OverAllocatedAssignments Collection Object](Project.overallocatedassignments.md)
 

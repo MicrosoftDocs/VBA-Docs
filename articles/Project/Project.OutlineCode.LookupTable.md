@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OutlineCode.LookupTable Property (Project)
 
-Gets a  **[LookupTable](lookuptable-object-project.md)** collection of lookup table entries for the outline code. Read-only **LookupTable**.
+Gets a  **[LookupTable](Project.lookuptable.md)** collection of lookup table entries for the outline code. Read-only **LookupTable**.
 
 
 ## Syntax

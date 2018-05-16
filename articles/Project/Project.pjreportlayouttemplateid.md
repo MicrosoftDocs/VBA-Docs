@@ -26,7 +26,7 @@ Contains constants that specify the type of template to apply for a report layou
 
 ## Remarks
 
-The  _TemplateId_ parameter in the **[Application.ApplyReportLayoutTemplate](application-applyreportlayouttemplate-method-project.md)** method can be one of the **PjReportLayoutTemplateId** constants.
+The  _TemplateId_ parameter in the **[Application.ApplyReportLayoutTemplate](Project.application.applyreportlayouttemplate.md)** method can be one of the **PjReportLayoutTemplateId** constants.
 
 
 ## See also
@@ -39,4 +39,4 @@ The  _TemplateId_ parameter in the **[Application.ApplyReportLayoutTemplate](app
 #### Other resources
 
 
-[Application.ApplyReportLayoutTemplate](application-applyreportlayouttemplate-method-project.md)
+[Application.ApplyReportLayoutTemplate](Project.application.applyreportlayouttemplate.md)

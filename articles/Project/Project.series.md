@@ -12,7 +12,7 @@ Represents a collection of related data that makes a row or a column in a chart.
 
 ## Remarks
 
-A  **Series** object is a member of the **[SeriesCollection](seriescollection-object-project.md)** collection, which includes all of the data series in the chart. The name of the series is often displayed in the chart legend.
+A  **Series** object is a member of the **[SeriesCollection](Project.seriescollection.md)** collection, which includes all of the data series in the chart. The name of the series is often displayed in the chart legend.
  
 
  
@@ -63,7 +63,7 @@ Sub TestChartSeries()
 End Sub
 ```
 
-The following sample output is from a chart such as the example in the [Chart](chart-object-project.md) object documentation.
+The following sample output is from a chart such as the example in the [Chart](Project.chart.md) object documentation.
  
 
  
@@ -92,11 +92,11 @@ Series 3: Work
 
 |**Name**|
 |:-----|
-|[Application](series-application-property-project.md)|
-|[Name](series-name-property-project.md)|
-|[Parent](series-parent-property-project.md)|
-|[Values](series-values-property-project.md)|
-|[XValues](series-xvalues-property-project.md)|
+|[Application](Project.series.application.md)|
+|[Name](Project.series.name.md)|
+|[Parent](Project.series.parent.md)|
+|[Values](Project.series.values.md)|
+|[XValues](Project.series.xvalues.md)|
 
 ## See also
 
@@ -105,4 +105,4 @@ Series 3: Work
 
 
  
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

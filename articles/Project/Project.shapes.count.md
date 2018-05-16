@@ -27,4 +27,4 @@ Gets the number of  **Shape** objects in the **Shapes** collection. Read-only **
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
+[Shapes Object](Project.shapes.md)

@@ -34,4 +34,4 @@ Gets a single  **Resource** object from the **Resources** collection. Read-only 
 #### Concepts
 
 
-[Resources Collection Object](resources-object-project.md)
+[Resources Collection Object](Project.resources(object).md)

@@ -40,5 +40,5 @@ Copies a selected object to the Clipboard as a picture.
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
-[Copy Method](chart-copy-method-project.md)
+[Chart Object](Project.chart.md)
+[Copy Method](Project.chart.copy.md)

@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # WorkWeekDays Object (Project)
 
- Contains a collection of **[WorkWeekDay](workweekday-object-project.md)** objects.
+ Contains a collection of **[WorkWeekDay](Project.WorkWeekDay.md)** objects.
  
 
 
 ## Remarks
 
-Use the  **[Item](workweekdays-item-property-project.md)** property return a single **WorkWeekDay** object.
+Use the  **[Item](Project.WorkWeekDays.Item.md)** property return a single **WorkWeekDay** object.
  
 
  
@@ -25,9 +25,9 @@ Use the  **[Item](workweekdays-item-property-project.md)** property return a sin
 
 |**Name**|
 |:-----|
-|[Application](workweekdays-application-property-project.md)|
-|[Count](workweekdays-count-property-project.md)|
-|[Item](workweekdays-item-property-project.md)|
+|[Application](Project.WorkWeekDays.Application.md)|
+|[Count](Project.WorkWeekDays.Count.md)|
+|[Item](Project.WorkWeekDays.Item.md)|
 |[Parent](workweekdays-parent-property-project.md)|
 
 ## See also

@@ -31,4 +31,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 #### Concepts
 
 
-[Availabilities Collection Object](availabilities-object-project.md)
+[Availabilities Collection Object](Project.availabilities.md)

@@ -27,4 +27,4 @@ Gets an  **Office.IMsoChartFormat** object that enables access to format informa
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

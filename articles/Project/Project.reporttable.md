@@ -20,11 +20,11 @@ The  **ReportTable** object is a kind of **Shape** object; it is not related to 
  
 
  
-You can update the data query associated with a report table, by using the  **[UpdateTableData](reporttable-updatetabledata-method-project.md)** method. To get the text in a table cell, use the **[GetCellText](reporttable-getcelltext-method-project.md)** method.
+You can update the data query associated with a report table, by using the  **[UpdateTableData](Project.reporttable.updatetabledata.md)** method. To get the text in a table cell, use the **[GetCellText](Project.reporttable.getcelltext.md)** method.
  
 
  
-To programmatically create a  **ReportTable**, use the  **[Shapes.AddTable](shapes-addtable-method-project.md)** method. To return a **ReportTable** object, use `Shapes(Index).Table`, where  _Index_ is the name or the index number of a shape.
+To programmatically create a  **ReportTable**, use the  **[Shapes.AddTable](Project.shapes.addtable.md)** method. To return a **ReportTable** object, use `Shapes(Index).Table`, where  _Index_ is the name or the index number of a shape.
  
 
  
@@ -73,7 +73,7 @@ Sub TestReportTable()
 End Sub
 ```
 
-In Figure 1, the top  **ReportTable** object in the Table Tests report is created by the **TestReportTable** macro. When you first create the table, it has one row and one column; the _NumRows_ and _NumColumns_ parameters of the **AddTable** method have no effect. The number of rows and columns in the table is updated when you manually add fields to the table from the **Field List** task pane, or when you use the[UpdateTableData](reporttable-updatetabledata-method-project.md) method. You can filter the fields to limit the number of rows. The **TestReportTable** macro writes the following in the Immediate window of the VBE:
+In Figure 1, the top  **ReportTable** object in the Table Tests report is created by the **TestReportTable** macro. When you first create the table, it has one row and one column; the _NumRows_ and _NumColumns_ parameters of the **AddTable** method have no effect. The number of rows and columns in the table is updated when you manually add fields to the table from the **Field List** task pane, or when you use the[UpdateTableData](Project.reporttable.updatetabledata.md) method. You can filter the fields to limit the number of rows. The **TestReportTable** macro writes the following in the Immediate window of the VBE:
  
 
  
@@ -95,7 +95,7 @@ The bottom  **ReportTable** object in Figure 1 is the default report table that 
 **Figure 1. The ReportTable object requires manual editing to add fields and change formatting**
 
  
-![The ReportTable object requires manual editing](images/pj15_VBA_ReportTableObject.gif)To delete a  **ReportTable** object, use the **[Shape.Delete](shape-delete-method-project.md)** method, as in the following macro:
+![The ReportTable object requires manual editing](images/pj15_VBA_ReportTableObject.gif)To delete a  **ReportTable** object, use the **[Shape.Delete](Project.shape.delete.md)** method, as in the following macro:
  
 
  
@@ -147,8 +147,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[GetCellText](reporttable-getcelltext-method-project.md)|
-|[UpdateTableData](reporttable-updatetabledata-method-project.md)|
+|[GetCellText](Project.reporttable.getcelltext.md)|
+|[UpdateTableData](Project.reporttable.updatetabledata.md)|
 
 ## Properties
 
@@ -156,8 +156,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[ColumnsCount](reporttable-columnscount-property-project.md)|
-|[RowsCount](reporttable-rowscount-property-project.md)|
+|[ColumnsCount](Project.reporttable.columnscount.md)|
+|[RowsCount](Project.reporttable.rowscount.md)|
 
 ## See also
 
@@ -166,7 +166,7 @@ End Sub
 
 
  
-[Report Object](report-object-project.md)
+[Report Object](Project.report.md)
  
 [Shape Object](shape-object-project.md)
  

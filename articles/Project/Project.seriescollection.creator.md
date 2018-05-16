@@ -32,5 +32,5 @@ If the chart was created in Microsoft Project, the  **Creator** property returns
 #### Other resources
 
 
-[SeriesCollection Object](seriescollection-object-project.md)
-[Chart.Creator Property](chart-creator-property-project.md)
+[SeriesCollection Object](Project.seriescollection.md)
+[Chart.Creator Property](Project.chart.creator.md)

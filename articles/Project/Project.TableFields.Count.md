@@ -31,4 +31,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[TableFields Collection Object](tablefields-object-project.md)
+[TableFields Collection Object](Project.tablefields.md)

@@ -26,12 +26,12 @@ A collection of  **EngagementComment** objects. Introduced in Office 2016.
 
 |**Name**|
 |:-----|
-|[Application](engagementcomment-application-property-project.md)|
-|[AuthorResEmail](engagementcomment-authorresemail-property-project.md)|
-|[AuthorResGuid](engagementcomment-authorresguid-property-project.md)|
-|[AuthorResName](engagementcomment-authorresname-property-project.md)|
-|[CreatedDate](engagementcomment-createddate-property-project.md)|
-|[Guid](engagementcomment-guid-property-project.md)|
-|[Message](engagementcomment-message-property-project.md)|
-|[Parent](engagementcomment-parent-property-project.md)|
+|[Application](Project.engagementcomment.application.md)|
+|[AuthorResEmail](Project.engagementcomment.authorresemail.md)|
+|[AuthorResGuid](Project.engagementcomment.authorresguid.md)|
+|[AuthorResName](Project.engagementcomment.authorresname.md)|
+|[CreatedDate](Project.engagementcomment.createddate.md)|
+|[Guid](Project.engagementcomment.guid.md)|
+|[Message](Project.engagementcomment.message.md)|
+|[Parent](Project.engagementcomment.parent.md)|
 

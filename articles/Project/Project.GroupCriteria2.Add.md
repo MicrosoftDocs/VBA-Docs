@@ -56,5 +56,5 @@ To add a  **GroupCriterion2** object where colors can be hexadecimal values, use
 #### Concepts
 
 
-[GroupCriteria2 Collection Object](groupcriteria2-object-project.md)
+[GroupCriteria2 Collection Object](Project.groupcriteria2.md)
 

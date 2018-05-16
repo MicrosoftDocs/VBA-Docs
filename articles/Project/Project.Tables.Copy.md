@@ -43,4 +43,4 @@ Makes a copy of a group definition for the  **Tables** collection and returns a 
 #### Concepts
 
 
-[Tables Collection Object](tables-object-project.md)
+[Tables Collection Object](Project.tables.md)

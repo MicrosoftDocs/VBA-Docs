@@ -27,5 +27,5 @@ Gets a  **Chart** object that represents the chart contained in the shape. Read-
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
-[Chart Object](chart-object-project.md)
+[Shape Object](Project.shape.md)
+[Chart Object](Project.chart.md)

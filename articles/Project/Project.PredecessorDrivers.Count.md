@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PredecessorDrivers.Count Property (Project)
 
-Gets the number of items in the  **[PredecessorDrivers](predecessordrivers-object-project.md)** collection. Read-only **Long**.
+Gets the number of items in the  **[PredecessorDrivers](Project.predecessordrivers.md)** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -31,4 +31,4 @@ If  **TotalDetectedCount** is greater than 5 then count is 0.
 #### Concepts
 
 
-[PredecessorDrivers Collection Object](predecessordrivers-object-project.md)
+[PredecessorDrivers Collection Object](Project.predecessordrivers.md)

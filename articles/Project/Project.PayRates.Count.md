@@ -92,4 +92,4 @@ End Sub
 #### Concepts
 
 
-[PayRates Collection Object](payrates-object-project.md)
+[PayRates Collection Object](Project.payrates.md)

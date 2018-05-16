@@ -36,4 +36,4 @@ Moves each shape in the shape range horizontally by the specified number of poin
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

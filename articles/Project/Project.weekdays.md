@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # WeekDays Object (Project)
 
-Contains a collection of  **[Weekday](weekday-object-project.md)** objects.
+Contains a collection of  **[Weekday](Project.WeekDay.md)** objects.
  
 
 
@@ -72,10 +72,10 @@ ActiveProject.Calendar.WeekDays
 
 |**Name**|
 |:-----|
-|[Application](weekdays-application-property-project.md)|
-|[Count](weekdays-count-property-project.md)|
-|[Item](weekdays-item-property-project.md)|
-|[Parent](weekdays-parent-property-project.md)|
+|[Application](Project.WeekDays.Application.md)|
+|[Count](Project.WeekDays.Count.md)|
+|[Item](Project.WeekDays.Item.md)|
+|[Parent](Project.WeekDays.Parent.md)|
 
 ## See also
 

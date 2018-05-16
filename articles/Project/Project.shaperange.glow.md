@@ -27,5 +27,5 @@ Gets a  **GlowFormat** object for the shape range, if the shape range contains g
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)
 [GlowFormat](http://msdn.microsoft.com/en-us/library/office/ff864010%28v=office.15%29)

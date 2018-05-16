@@ -27,4 +27,4 @@ Gets the identification type for the shape. Read-only  **Long**.
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)

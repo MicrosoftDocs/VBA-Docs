@@ -32,5 +32,5 @@ For an example that uses the  **RowsCount** property, see the **ReportTable** ob
 #### Other resources
 
 
-[ReportTable Object](reporttable-object-project.md)
-[Shape Object](shape-object-project.md)
+[ReportTable Object](Project.reporttable.md)
+[Shape Object](Project.shape.md)

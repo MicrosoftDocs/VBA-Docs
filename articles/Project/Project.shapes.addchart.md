@@ -75,6 +75,6 @@ End Sub
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
-[Shape Object](shape-object-project.md)
-[Chart Object](chart-object-project.md)
+[Shapes Object](Project.shapes.md)
+[Shape Object](Project.shape.md)
+[Chart Object](Project.chart.md)

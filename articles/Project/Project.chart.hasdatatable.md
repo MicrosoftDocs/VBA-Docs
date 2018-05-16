@@ -30,4 +30,4 @@ ms.date: 06/08/2017
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

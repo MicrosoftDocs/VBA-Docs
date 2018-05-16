@@ -34,4 +34,4 @@ Gets a single  **GroupCriterion** object from the **GroupCriteria** collection. 
 #### Concepts
 
 
-[GroupCriteria Collection Object](groupcriteria-object-project.md)
+[GroupCriteria Collection Object](Project.groupcriteria.md)

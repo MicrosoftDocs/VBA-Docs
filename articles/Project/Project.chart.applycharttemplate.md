@@ -37,4 +37,4 @@ Applies a standard or custom chart type to a chart.
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Projects Property (Project)
 
-Gets a  **[Projects](projects-object-project.md)** collection representing the open projects. Read-only **Projects**.
+Gets a  **[Projects](Project.projects.md)** collection representing the open projects. Read-only **Projects**.
 
 
 ## Syntax

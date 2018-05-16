@@ -43,5 +43,5 @@ If the active view is not a report, the  **SelectTable** method displays a dialo
 #### Other resources
 
 
-[ReportTable Object](reporttable-object-project.md)
-[Shape.Table Property](shape-table-property-project.md)
+[ReportTable Object](Project.reporttable.md)
+[Shape.Table Property](Project.shape.table.md)

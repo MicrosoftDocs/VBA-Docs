@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment Object (Project)
 
-Represents an assignment for a task or resource. The  **Assignment** object is a member of an **[Assignments](assignments-object-project.md)** or an **[OverAllocatedAssignments](http://msdn.microsoft.com/library/b2856ebf-cff2-04a6-53c9-123de09f2a3b%28Office.15%29.aspx)** collection.
+Represents an assignment for a task or resource. The  **Assignment** object is a member of an **[Assignments](Project.assignments.md)** or an **[OverAllocatedAssignments](http://msdn.microsoft.com/library/b2856ebf-cff2-04a6-53c9-123de09f2a3b%28Office.15%29.aspx)** collection.
 
 
 ## Example

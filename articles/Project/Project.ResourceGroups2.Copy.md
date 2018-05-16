@@ -40,5 +40,5 @@ Makes a copy of a group definition for the  **ResourceGroups2** collection and r
 #### Concepts
 
 
-[ResourceGroups2 Collection Object](resourcegroups2-object-project.md)
+[ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 

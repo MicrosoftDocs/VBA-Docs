@@ -26,7 +26,7 @@ A collection of  **Engagement** objects. Introduced in Office 2016.
 
 |**Name**|
 |:-----|
-|[Add](engagements-add-method-project.md)|
+|[Add](Project.engagements.add.md)|
 
 ## Properties
 <a name="properties"> </a>
@@ -35,9 +35,9 @@ A collection of  **Engagement** objects. Introduced in Office 2016.
 
 |**Name**|
 |:-----|
-|[Application](engagements-application-property-project.md)|
-|[Count](engagements-count-property-project.md)|
-|[Item](engagements-item-property-project.md)|
-|[Parent](engagements-parent-property-project.md)|
-|[UniqueID](engagements-uniqueid-property-project.md)|
+|[Application](Project.engagements.application.md)|
+|[Count](Project.engagements.count.md)|
+|[Item](Project.engagements.item.md)|
+|[Parent](Project.engagements.parent.md)|
+|[UniqueID](Project.engagements.uniqueid.md)|
 

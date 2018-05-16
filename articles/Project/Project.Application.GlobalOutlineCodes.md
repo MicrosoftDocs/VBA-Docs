@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.GlobalOutlineCodes Property (Project)
 
-Gets or sets an  **[OutlineCodes](outlinecodes-object-project.md)** collection in the Global.mpt file, along with enterprise text custom fields that use a lookup table. Read/write **OutlineCodes**.
+Gets or sets an  **[OutlineCodes](Project.outlinecodes(object).md)** collection in the Global.mpt file, along with enterprise text custom fields that use a lookup table. Read/write **OutlineCodes**.
 
 
 ## Syntax

@@ -27,4 +27,4 @@ Gets an object that represents the parent of the  **Shapes** object. Read-only *
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
+[Shapes Object](Project.shapes.md)

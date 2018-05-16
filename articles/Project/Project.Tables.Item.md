@@ -34,4 +34,4 @@ Gets a single  **Table** object from the **Tables** collection. Read-only **Tabl
 #### Concepts
 
 
-[Tables Collection Object](tables-object-project.md)
+[Tables Collection Object](Project.tables.md)

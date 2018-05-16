@@ -42,4 +42,4 @@ Adds a  **PayRate** object to a **PayRates** collection.
 #### Concepts
 
 
-[PayRates Collection Object](payrates-object-project.md)
+[PayRates Collection Object](Project.payrates.md)

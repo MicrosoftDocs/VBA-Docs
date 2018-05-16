@@ -27,4 +27,4 @@ Gets or sets the name of the shape range. Read-write  **String**.
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

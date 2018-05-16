@@ -34,4 +34,4 @@ Gets a single  **Subproject** object from the **Subprojects** collection. Read-o
 #### Concepts
 
 
-[Subprojects Collection Object](subprojects-object-project.md)
+[Subprojects Collection Object](Project.subprojects(object).md)

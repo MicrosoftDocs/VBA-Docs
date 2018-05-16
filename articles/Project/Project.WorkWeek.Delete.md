@@ -26,5 +26,5 @@ Deletes the  **WorkWeek** object from a **WorkWeeks** collection.
 #### Concepts
 
 
-[WorkWeek Object](workweek-object-project.md)
+[WorkWeek Object](Project.WorkWeek.md)
 

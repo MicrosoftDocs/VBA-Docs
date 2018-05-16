@@ -26,4 +26,4 @@ Gets or sets a  **[Profile](Project.Profile.md)** object that represents the def
 #### Concepts
 
 
-[Profiles Collection Object](profiles-object-project.md)
+[Profiles Collection Object](Project.profiles.md)

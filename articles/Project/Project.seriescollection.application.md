@@ -22,4 +22,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 #### Other resources
 
 
-[SeriesCollection Object](seriescollection-object-project.md)
+[SeriesCollection Object](Project.seriescollection.md)

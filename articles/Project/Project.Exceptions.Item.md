@@ -34,4 +34,4 @@ Gets a single  **Exception** object from the **Exceptions** collection. Read-onl
 #### Concepts
 
 
-[Exceptions Collection Object](exceptions-object-project.md)
+[Exceptions Collection Object](Project.exceptions.md)

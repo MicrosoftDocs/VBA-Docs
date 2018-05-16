@@ -40,7 +40,7 @@ Opens the  **Visual Reports - Create Report** dialog box to the specified tab.
 
 The  **VisualReports** method returns **False** if successful.
 
-The  **VisualReports** method corresponds to the **Visual Reports** command on the **REPORT** tab of the ribbon, which accesses the reports that use Excel and Visio templates. For the newer Office Art types of reports, see the **[ReportsDialog](application-reportsdialog-method-project.md)** method.
+The  **VisualReports** method corresponds to the **Visual Reports** command on the **REPORT** tab of the ribbon, which accesses the reports that use Excel and Visio templates. For the newer Office Art types of reports, see the **[ReportsDialog](Project.application.reportsdialog.md)** method.
 
 
  **Note**  The  **[Reports](Project.Application.Reports.md)** method, for the older style of reports that require connection with a printer, is deprecated in Project.

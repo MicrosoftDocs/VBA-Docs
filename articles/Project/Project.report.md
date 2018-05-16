@@ -23,7 +23,7 @@ Represents a report in Project that can contain Office Art objects such as a  **
 
 ## Example
 
-To create a report, use the  **[Reports.Add](reports-add-method-project.md)** method. For example, the following command creates a report named My New Report.
+To create a report, use the  **[Reports.Add](Project.reports.add.md)** method. For example, the following command creates a report named My New Report.
  
 
  
@@ -72,8 +72,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Apply](report-apply-method-project.md)|
-|[Delete](report-delete-method-project.md)|
+|[Apply](Project.report.apply.md)|
+|[Delete](Project.report.delete.md)|
 
 ## Properties
 
@@ -81,11 +81,11 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](report-application-property-project.md)|
-|[Index](report-index-property-project.md)|
-|[Name](report-name-property-project.md)|
-|[Parent](report-parent-property-project.md)|
-|[Shapes](report-shapes-property-project.md)|
+|[Application](Project.report.application.md)|
+|[Index](Project.report.index.md)|
+|[Name](Project.report.name.md)|
+|[Parent](Project.report.parent.md)|
+|[Shapes](Project.report.shapes.md)|
 
 ## See also
 
@@ -94,12 +94,12 @@ End Sub
 
 
  
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)
  
-[Reports Object](reports-object-project.md)
+[Reports Object](Project.reports.md)
  
-[ReportTable Object](reporttable-object-project.md)
+[ReportTable Object](Project.reporttable.md)
  
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
  
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

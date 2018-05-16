@@ -26,7 +26,7 @@ A collection of  **EngagementComments** objects. Introduced in Office 2016.
 
 |**Name**|
 |:-----|
-|[Add](engagementcomments-add-method-project.md)|
+|[Add](Project.engagementcomments.add.md)|
 
 ## Properties
 <a name="properties"> </a>
@@ -35,8 +35,8 @@ A collection of  **EngagementComments** objects. Introduced in Office 2016.
 
 |**Name**|
 |:-----|
-|[Application](engagementcomments-application-property-project.md)|
-|[Count](engagementcomments-count-property-project.md)|
-|[Item](engagementcomments-item-property-project.md)|
-|[Parent](engagementcomments-parent-property-project.md)|
+|[Application](Project.engagementcomments.application.md)|
+|[Count](Project.engagementcomments.count.md)|
+|[Item](Project.engagementcomments.item.md)|
+|[Parent](Project.engagementcomments.parent.md)|
 

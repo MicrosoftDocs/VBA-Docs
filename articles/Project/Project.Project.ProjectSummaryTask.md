@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ProjectSummaryTask Property (Project)
 
-Gets a  **[Task](task-object-project.md)** object representing the project summary task for the active project. Read-only **Task**.
+Gets a  **[Task](Project.Task.md)** object representing the project summary task for the active project. Read-only **Task**.
 
 
 ## Syntax

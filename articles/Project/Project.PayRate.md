@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  
 
-Represents a line of rates from the cost rate table of a resource. The  **PayRate** object is a member of the **[PayRates](payrates-object-project.md)** collection.
+Represents a line of rates from the cost rate table of a resource. The  **PayRate** object is a member of the **[PayRates](Project.payrates.md)** collection.
  
  **Using the PayRate Object**
  

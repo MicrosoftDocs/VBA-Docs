@@ -44,7 +44,7 @@ The returned string ends with a newline character ( `chr(10)`, which is equivale
 
 ## Example
 
-The  **GetTableText** example finds all of the tables on the active report, gets the value of each cell in a table, removes the last character of each value (the newline character), and then prints the table cell values to the Immediate window in the VBE. To use the **GetTableText** macro, create a project with values such as the example that is specified in the[Chart Object](chart-object-project.md) topic, and then do the following steps (see Figure 1):
+The  **GetTableText** example finds all of the tables on the active report, gets the value of each cell in a table, removes the last character of each value (the newline character), and then prints the table cell values to the Immediate window in the VBE. To use the **GetTableText** macro, create a project with values such as the example that is specified in the[Chart Object](Project.chart.md) topic, and then do the following steps (see Figure 1):
 
 
 1. Manually create a report. For example, on the  **PROJECT** tab of the ribbon, in the **Reports** drop-down list, choose **More Reports**. In the  **Reports** dialog box, choose **New** in the left pane, choose **Blank** in the right pane, and then choose **Select**. In the  **Report Name** dialog box, typeReport 1.
@@ -131,5 +131,5 @@ Table name: Table 3
 #### Other resources
 
 
-[ReportTable Object](reporttable-object-project.md)
-[ID Property](shape-id-property-project.md)
+[ReportTable Object](Project.reporttable.md)
+[ID Property](Project.shape.id.md)

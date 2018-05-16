@@ -27,4 +27,4 @@ Gets the identification type for the shape range. Read-only  **Long**.
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

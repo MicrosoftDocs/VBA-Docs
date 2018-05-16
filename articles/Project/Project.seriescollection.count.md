@@ -18,7 +18,7 @@ Gets the number of  **Series** objects in the collection. Read-only **Long**.
 
 ## Remarks
 
-For an example that uses the  **SeriesCollection.Count** property, see the[SeriesCollection](seriescollection-object-project.md) object.
+For an example that uses the  **SeriesCollection.Count** property, see the[SeriesCollection](Project.seriescollection.md) object.
 
 
 ## See also
@@ -27,5 +27,5 @@ For an example that uses the  **SeriesCollection.Count** property, see the[Serie
 #### Other resources
 
 
-[SeriesCollection Object](seriescollection-object-project.md)
+[SeriesCollection Object](Project.seriescollection.md)
 [Series Object](series-object-project.md)

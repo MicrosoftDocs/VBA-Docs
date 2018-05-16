@@ -31,4 +31,4 @@ The  `Profiles.Count` statement shows the number of profiles that are defined in
 #### Concepts
 
 
-[Profiles Collection Object](profiles-object-project.md)
+[Profiles Collection Object](Project.profiles.md)

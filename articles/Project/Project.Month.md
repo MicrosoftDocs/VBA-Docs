@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Month Object (Project)
 
-Represents a month in a year. The  **Month** object is a member of the **[Months](months-object-project.md)** collection.
+Represents a month in a year. The  **Month** object is a member of the **[Months](Project.months.md)** collection.
  
 
 
@@ -54,7 +54,7 @@ Next R
  
 
  
-Use the  **[Months](year-months-property-project.md)** property to return a **Months** collection. The following example counts the number of months in 2012.
+Use the  **[Months](Project.Year.Months.md)** property to return a **Months** collection. The following example counts the number of months in 2012.
  
 
  

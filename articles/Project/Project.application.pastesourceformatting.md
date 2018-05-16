@@ -99,7 +99,7 @@ End Sub
 #### Other resources
 
 
-[CopyReport Method](application-copyreport-method-project.md)
-[Shape.Copy Method](shape-copy-method-project.md)
-[PasteDestFormatting Method](application-pastedestformatting-method-project.md)
-[PasteAsPicture Method](application-pasteaspicture-method-project.md)
+[CopyReport Method](Project.application.copyreport.md)
+[Shape.Copy Method](Project.shape.copy.md)
+[PasteDestFormatting Method](Project.application.pastedestformatting.md)
+[PasteAsPicture Method](Project.application.pasteaspicture.md)

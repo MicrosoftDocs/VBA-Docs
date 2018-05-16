@@ -18,7 +18,7 @@ Gets the number of items in the  **Reports** collection. Read-only **Long**.
 
 ## Remarks
 
-For a code example that uses the  **Reports.Count** property, see the **[Report.Index](report-index-property-project.md)** property.
+For a code example that uses the  **Reports.Count** property, see the **[Report.Index](Project.report.index.md)** property.
 
 
 ## Property value
@@ -32,4 +32,4 @@ For a code example that uses the  **Reports.Count** property, see the **[Report.
 #### Other resources
 
 
-[Reports Object](reports-object-project.md)
+[Reports Object](Project.reports.md)

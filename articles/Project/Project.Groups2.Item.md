@@ -34,5 +34,5 @@ Gets a single  **Group2** object from a **Groups2** collection. Read-only **[Gro
 #### Concepts
 
 
-[Groups2 Collection Object](groups2-object-project.md)
+[Groups2 Collection Object](Project.groups2.md)
 

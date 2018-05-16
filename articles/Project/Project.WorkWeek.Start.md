@@ -26,5 +26,5 @@ Gets or sets the start date of the work week. Read/write  **Variant**.
 #### Concepts
 
 
-[WorkWeek Object](workweek-object-project.md)
+[WorkWeek Object](Project.WorkWeek.md)
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Years Object (Project)
 
-Contains a collection of  **[Year](year-object-project.md)** objects.
+Contains a collection of  **[Year](Project.Year.md)** objects.
  
 
 
@@ -98,10 +98,10 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 |**Name**|
 |:-----|
-|[Application](years-application-property-project.md)|
-|[Count](years-count-property-project.md)|
-|[Item](years-item-property-project.md)|
-|[Parent](years-parent-property-project.md)|
+|[Application](Project.Years.Application.md)|
+|[Count](Project.Years.Count.md)|
+|[Item](Project.Years.Item.md)|
+|[Parent](Project.Years.Parent.md)|
 
 ## See also
 

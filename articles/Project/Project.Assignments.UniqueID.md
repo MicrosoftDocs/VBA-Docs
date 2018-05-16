@@ -34,4 +34,4 @@ Gets an  **[Assignment](Project.Assignment.md)** object from its containing coll
 #### Concepts
 
 
-[Assignments Collection Object](assignments-object-project.md)
+[Assignments Collection Object](Project.assignments.md)

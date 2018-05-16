@@ -26,4 +26,4 @@ Gets a  **[Shift](Project.Shift.md)** object representing the fifth work shift i
 #### Concepts
 
 
-[WorkWeekDay Object](workweekday-object-project.md)
+[WorkWeekDay Object](Project.WorkWeekDay.md)

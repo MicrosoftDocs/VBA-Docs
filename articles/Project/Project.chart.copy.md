@@ -50,5 +50,5 @@ End Sub
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
-[CopyPicture Method](chart-copypicture-method-project.md)
+[Chart Object](Project.chart.md)
+[CopyPicture Method](Project.chart.copypicture.md)

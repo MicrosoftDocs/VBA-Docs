@@ -48,7 +48,7 @@ Contains constants that specify the cache status of a job that Project Professio
 
 ## Remarks
 
-The  **[Application.GetCacheStatusForProject](application-getcachestatusforproject-property-project.md)** property returns a **PjCacheJobState** constant. The **PjCacheJobState** constants from 0 to 13 correspond to the[JobState enumeration](http://msdn.microsoft.com/en-us/library/websvcqueuesystem.jobstate_di_pj14mref%28office.15%29.aspx) of the **QueueSystem** service in the Project Server Interface (PSI).
+The  **[Application.GetCacheStatusForProject](Project.application.getcachestatusforproject.md)** property returns a **PjCacheJobState** constant. The **PjCacheJobState** constants from 0 to 13 correspond to the[JobState enumeration](http://msdn.microsoft.com/en-us/library/websvcqueuesystem.jobstate_di_pj14mref%28office.15%29.aspx) of the **QueueSystem** service in the Project Server Interface (PSI).
 
 
 ## See also
@@ -57,6 +57,6 @@ The  **[Application.GetCacheStatusForProject](application-getcachestatusforproje
 #### Other resources
 
 
-[GetCacheStatusForProject Property](application-getcachestatusforproject-property-project.md)
+[GetCacheStatusForProject Property](Project.application.getcachestatusforproject.md)
 [PjJobType Enumeration](pjjobtype-enumeration-project.md)
 [QueueConstants.JobState enumeration](http://msdn.microsoft.com/en-us/library/microsoft.office.project.server.library.queueconstants.jobstate_di_pj14mref%28office.15%29.aspx)

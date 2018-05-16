@@ -76,6 +76,6 @@ End Sub
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
-[Shape Object](shape-object-project.md)
-[Line Property](shape-line-property-project.md)
+[Shapes Object](Project.shapes.md)
+[Shape Object](Project.shape.md)
+[Line Property](Project.shape.line.md)

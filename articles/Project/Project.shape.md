@@ -12,7 +12,7 @@ Represents an object in a Project report, such as a chart, report table, text bo
 
 ## Remarks
 
-The  **Shape** object is a member of the **[Shapes](shapes-object-project.md)** collection, which includes all of the shapes in the report.
+The  **Shape** object is a member of the **[Shapes](Project.shapes.md)** collection, which includes all of the shapes in the report.
  
 
  
@@ -118,23 +118,23 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 
 |**Name**|
 |:-----|
-|[Apply](shape-apply-method-project.md)|
-|[Copy](shape-copy-method-project.md)|
-|[Cut](shape-cut-method-project.md)|
-|[Delete](shape-delete-method-project.md)|
-|[Duplicate](shape-duplicate-method-project.md)|
-|[Flip](shape-flip-method-project.md)|
-|[IncrementLeft](shape-incrementleft-method-project.md)|
-|[IncrementRotation](shape-incrementrotation-method-project.md)|
-|[IncrementTop](shape-incrementtop-method-project.md)|
-|[PickUp](shape-pickup-method-project.md)|
-|[RerouteConnections](shape-rerouteconnections-method-project.md)|
-|[ScaleHeight](shape-scaleheight-method-project.md)|
-|[ScaleWidth](shape-scalewidth-method-project.md)|
-|[Select](shape-select-method-project.md)|
-|[SetShapesDefaultProperties](shape-setshapesdefaultproperties-method-project.md)|
-|[Ungroup](shape-ungroup-method-project.md)|
-|[ZOrder](shape-zorder-method-project.md)|
+|[Apply](Project.shape.apply.md)|
+|[Copy](Project.shape.copy.md)|
+|[Cut](Project.shape.cut.md)|
+|[Delete](Project.shape.delete.md)|
+|[Duplicate](Project.shape.duplicate.md)|
+|[Flip](Project.shape.flip.md)|
+|[IncrementLeft](Project.shape.incrementleft.md)|
+|[IncrementRotation](Project.shape.incrementrotation.md)|
+|[IncrementTop](Project.shape.incrementtop.md)|
+|[PickUp](Project.shape.pickup.md)|
+|[RerouteConnections](Project.shape.rerouteconnections.md)|
+|[ScaleHeight](Project.shape.scaleheight.md)|
+|[ScaleWidth](Project.shape.scalewidth.md)|
+|[Select](Project.shape.select.md)|
+|[SetShapesDefaultProperties](Project.shape.setshapesdefaultproperties.md)|
+|[Ungroup](Project.shape.ungroup.md)|
+|[ZOrder](Project.shape.zorder.md)|
 
 ## Properties
 
@@ -142,51 +142,51 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 
 |**Name**|
 |:-----|
-|[Adjustments](shape-adjustments-property-project.md)|
-|[AlternativeText](shape-alternativetext-property-project.md)|
-|[Application](shape-application-property-project.md)|
-|[AutoShapeType](shape-autoshapetype-property-project.md)|
-|[BackgroundStyle](shape-backgroundstyle-property-project.md)|
-|[BlackWhiteMode](shape-blackwhitemode-property-project.md)|
-|[Callout](shape-callout-property-project.md)|
-|[Chart](shape-chart-property-project.md)|
-|[Child](shape-child-property-project.md)|
-|[ConnectionSiteCount](shape-connectionsitecount-property-project.md)|
-|[Connector](shape-connector-property-project.md)|
-|[ConnectorFormat](shape-connectorformat-property-project.md)|
-|[Fill](shape-fill-property-project.md)|
-|[Glow](shape-glow-property-project.md)|
-|[GroupItems](shape-groupitems-property-project.md)|
-|[HasChart](shape-haschart-property-project.md)|
-|[HasTable](shape-hastable-property-project.md)|
-|[Height](shape-height-property-project.md)|
-|[HorizontalFlip](shape-horizontalflip-property-project.md)|
-|[ID](shape-id-property-project.md)|
-|[Left](shape-left-property-project.md)|
-|[Line](shape-line-property-project.md)|
-|[LockAspectRatio](shape-lockaspectratio-property-project.md)|
-|[Name](shape-name-property-project.md)|
-|[Nodes](shape-nodes-property-project.md)|
-|[Parent](shape-parent-property-project.md)|
-|[ParentGroup](shape-parentgroup-property-project.md)|
-|[Reflection](shape-reflection-property-project.md)|
-|[Rotation](shape-rotation-property-project.md)|
-|[Shadow](shape-shadow-property-project.md)|
-|[ShapeStyle](shape-shapestyle-property-project.md)|
-|[SoftEdge](shape-softedge-property-project.md)|
-|[Table](shape-table-property-project.md)|
-|[TextEffect](shape-texteffect-property-project.md)|
-|[TextFrame](shape-textframe-property-project.md)|
-|[TextFrame2](shape-textframe2-property-project.md)|
-|[ThreeD](shape-threed-property-project.md)|
-|[Title](shape-title-property-project.md)|
-|[Top](shape-top-property-project.md)|
-|[Type](shape-type-property-project.md)|
-|[VerticalFlip](shape-verticalflip-property-project.md)|
-|[Vertices](shape-vertices-property-project.md)|
-|[Visible](shape-visible-property-project.md)|
-|[Width](shape-width-property-project.md)|
-|[ZOrderPosition](shape-zorderposition-property-project.md)|
+|[Adjustments](Project.shape.adjustments.md)|
+|[AlternativeText](Project.shape.alternativetext.md)|
+|[Application](Project.shape.application.md)|
+|[AutoShapeType](Project.shape.autoshapetype.md)|
+|[BackgroundStyle](Project.shape.backgroundstyle.md)|
+|[BlackWhiteMode](Project.shape.blackwhitemode.md)|
+|[Callout](Project.shape.callout.md)|
+|[Chart](Project.shape.chart.md)|
+|[Child](Project.shape.child.md)|
+|[ConnectionSiteCount](Project.shape.connectionsitecount.md)|
+|[Connector](Project.shape.connector.md)|
+|[ConnectorFormat](Project.shape.connectorformat.md)|
+|[Fill](Project.shape.fill.md)|
+|[Glow](Project.shape.glow.md)|
+|[GroupItems](Project.shape.groupitems.md)|
+|[HasChart](Project.shape.haschart.md)|
+|[HasTable](Project.shape.hastable.md)|
+|[Height](Project.shape.height.md)|
+|[HorizontalFlip](Project.shape.horizontalflip.md)|
+|[ID](Project.shape.id.md)|
+|[Left](Project.shape.left.md)|
+|[Line](Project.shape.line.md)|
+|[LockAspectRatio](Project.shape.lockaspectratio.md)|
+|[Name](Project.shape.name.md)|
+|[Nodes](Project.shape.nodes.md)|
+|[Parent](Project.shape.parent.md)|
+|[ParentGroup](Project.shape.parentgroup.md)|
+|[Reflection](Project.shape.reflection.md)|
+|[Rotation](Project.shape.rotation.md)|
+|[Shadow](Project.shape.shadow.md)|
+|[ShapeStyle](Project.shape.shapestyle.md)|
+|[SoftEdge](Project.shape.softedge.md)|
+|[Table](Project.shape.table.md)|
+|[TextEffect](Project.shape.texteffect.md)|
+|[TextFrame](Project.shape.textframe.md)|
+|[TextFrame2](Project.shape.textframe2.md)|
+|[ThreeD](Project.shape.threed.md)|
+|[Title](Project.shape.title.md)|
+|[Top](Project.shape.top.md)|
+|[Type](Project.shape.type.md)|
+|[VerticalFlip](Project.shape.verticalflip.md)|
+|[Vertices](Project.shape.vertices.md)|
+|[Visible](Project.shape.visible.md)|
+|[Width](Project.shape.width.md)|
+|[ZOrderPosition](Project.shape.zorderposition.md)|
 
 ## See also
 
@@ -195,6 +195,6 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 
 
  
-[Report Object](report-object-project.md)
+[Report Object](Project.report.md)
  
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

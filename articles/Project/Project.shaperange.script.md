@@ -27,4 +27,4 @@ ms.date: 06/08/2017
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

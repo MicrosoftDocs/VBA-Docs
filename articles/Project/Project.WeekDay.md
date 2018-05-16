@@ -32,7 +32,7 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 
 |**Name**|
 |:-----|
-|[Default](weekday-default-method-project.md)|
+|[Default](Project.WeekDay.Default.md)|
 
 ## Properties
 
@@ -40,16 +40,16 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 
 |**Name**|
 |:-----|
-|[Application](weekday-application-property-project.md)|
-|[Calendar](weekday-calendar-property-project.md)|
-|[Count](weekday-count-property-project.md)|
-|[Index](weekday-index-property-project.md)|
-|[Name](weekday-name-property-project.md)|
-|[Parent](weekday-parent-property-project.md)|
-|[Shift1](weekday-shift1-property-project.md)|
-|[Shift2](weekday-shift2-property-project.md)|
-|[Shift3](weekday-shift3-property-project.md)|
-|[Shift4](weekday-shift4-property-project.md)|
-|[Shift5](weekday-shift5-property-project.md)|
-|[Working](weekday-working-property-project.md)|
+|[Application](Project.WeekDay.Application.md)|
+|[Calendar](Project.WeekDay.Calendar.md)|
+|[Count](Project.WeekDay.Count.md)|
+|[Index](Project.WeekDay.Index.md)|
+|[Name](Project.WeekDay.Name.md)|
+|[Parent](Project.WeekDay.Parent.md)|
+|[Shift1](Project.WeekDay.Shift1.md)|
+|[Shift2](Project.WeekDay.Shift2.md)|
+|[Shift3](Project.WeekDay.Shift3.md)|
+|[Shift4](Project.WeekDay.Shift4.md)|
+|[Shift5](Project.WeekDay.Shift5.md)|
+|[Working](Project.WeekDay.Working.md)|
 

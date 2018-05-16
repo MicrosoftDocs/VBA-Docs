@@ -96,5 +96,5 @@ End Sub
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
-[ShapeRange Object](shaperange-object-project.md)
+[Shapes Object](Project.shapes.md)
+[ShapeRange Object](Project.shaperange.md)

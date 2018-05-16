@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Views Object (Project)
 
-Contains a collection of **[View](view-object-project.md)** objects. The **[View](http://msdn.microsoft.com/library/a29aa7d4-e712-bbf4-96dd-e0fdeab70ba2%28Office.15%29.aspx)** method, which applies to the **[Pane](http://msdn.microsoft.com/library/a6995e47-c0a0-2c5e-269f-d7a59d20f982%28Office.15%29.aspx)** object, returns the **View** object.
+Contains a collection of **[View](Project.View.md)** objects. The **[View](http://msdn.microsoft.com/library/a29aa7d4-e712-bbf4-96dd-e0fdeab70ba2%28Office.15%29.aspx)** method, which applies to the **[Pane](http://msdn.microsoft.com/library/a6995e47-c0a0-2c5e-269f-d7a59d20f982%28Office.15%29.aspx)** object, returns the **View** object.
 
 
 ## Methods

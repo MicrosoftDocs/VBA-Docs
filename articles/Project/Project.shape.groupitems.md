@@ -32,5 +32,5 @@ Use the  **GroupShapes.Item** method to return a single shape from the group.
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
 [GroupShapes](http://msdn.microsoft.com/en-us/library/office/ff195331%28v=office.15%29)

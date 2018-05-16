@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ChildDrivers.Count Property (Project)
 
-Gets the number of items in the  **[ChildDrivers](childdrivers-object-project.md)** collection. Read-only **Long**.
+Gets the number of items in the  **[ChildDrivers](Project.childdrivers.md)** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -33,4 +33,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[ChildDrivers Collection Object](childdrivers-object-project.md)
+[ChildDrivers Collection Object](Project.childdrivers.md)

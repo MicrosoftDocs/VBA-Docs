@@ -27,4 +27,4 @@ Deletes the shape range.
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

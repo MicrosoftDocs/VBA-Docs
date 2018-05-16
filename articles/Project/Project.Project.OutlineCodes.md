@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.OutlineCodes Property (Project)
 
-Gets an **[OutlineCodes](outlinecodes-object-project.md)** collection of all outline codes defined for resources and tasks in the project. Read-only **OutlineCodes**.
+Gets an **[OutlineCodes](Project.outlinecodes(object).md)** collection of all outline codes defined for resources and tasks in the project. Read-only **OutlineCodes**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets an **[OutlineCodes](outlinecodes-object-project.md)** collection of all out
 
 ## Remarks
 
-Use the local  **OutlineCode[1-10]** properties of resources or tasks to set outline code values in an open project. For example, use the **[OutlineCode4](task-outlinecode4-property-project.md)** property of the **Task** object.
+Use the local  **OutlineCode[1-10]** properties of resources or tasks to set outline code values in an open project. For example, use the **[OutlineCode4](Project.Task.OutlineCode4.md)** property of the **Task** object.
 
 

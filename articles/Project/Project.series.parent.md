@@ -27,5 +27,5 @@ The parent of a  **Series** object is a **SeriesCollection** object.
 #### Other resources
 
 
-[Series Object](series-object-project.md)
-[SeriesCollection Object](seriescollection-object-project.md)
+[Series Object](Project.series.md)
+[SeriesCollection Object](Project.seriescollection.md)

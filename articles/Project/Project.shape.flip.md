@@ -36,5 +36,5 @@ Flips the shape around its horizontal or vertical axis.
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
 [MsoFlipCmd](http://msdn.microsoft.com/en-us/library/office/ff863040%28v=office.15%29)

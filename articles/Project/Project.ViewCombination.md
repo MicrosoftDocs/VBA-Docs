@@ -20,8 +20,8 @@ Represents a combination view in Project. The  **ViewCombination** object is a m
 
 |**Name**|
 |:-----|
-|[Apply](viewcombination-apply-method-project.md)|
-|[Delete](viewcombination-delete-method-project.md)|
+|[Apply](Project.ViewCombination.Apply.md)|
+|[Delete](Project.ViewCombination.Delete.md)|
 
 ## Properties
 
@@ -29,14 +29,14 @@ Represents a combination view in Project. The  **ViewCombination** object is a m
 
 |**Name**|
 |:-----|
-|[Application](viewcombination-application-property-project.md)|
-|[BottomView](viewcombination-bottomview-property-project.md)|
-|[Index](viewcombination-index-property-project.md)|
-|[Name](viewcombination-name-property-project.md)|
-|[Parent](viewcombination-parent-property-project.md)|
-|[Screen](viewcombination-screen-property-project.md)|
-|[ShowInMenu](viewcombination-showinmenu-property-project.md)|
-|[Single](viewcombination-single-property-project.md)|
-|[TopView](viewcombination-topview-property-project.md)|
-|[Type](viewcombination-type-property-project.md)|
+|[Application](Project.ViewCombination.Application.md)|
+|[BottomView](Project.ViewCombination.BottomView.md)|
+|[Index](Project.ViewCombination.Index.md)|
+|[Name](Project.ViewCombination.Name.md)|
+|[Parent](Project.ViewCombination.Parent.md)|
+|[Screen](Project.ViewCombination.Screen.md)|
+|[ShowInMenu](Project.ViewCombination.ShowInMenu.md)|
+|[Single](Project.ViewCombination.Single.md)|
+|[TopView](Project.ViewCombination.TopView.md)|
+|[Type](Project.ViewCombination.Type.md)|
 

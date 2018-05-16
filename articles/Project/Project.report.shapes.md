@@ -74,5 +74,5 @@ End Sub
 #### Other resources
 
 
-[Report Object](report-object-project.md)
-[Shapes Object](shape-object-project.md)
+[Report Object](Project.report.md)
+[Shapes Object](Project.shape.md)

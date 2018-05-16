@@ -31,4 +31,4 @@ For an example that uses the  **Month** object, see **[Working](Project.Month.Wo
 #### Concepts
 
 
-[WorkWeekDay Object](workweekday-object-project.md)
+[WorkWeekDay Object](Project.WorkWeekDay.md)

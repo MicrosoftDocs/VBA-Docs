@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Table Property (Project)
-Gets the  **ReportTable** object in the shape. Read-only[ReportTable](reporttable-object-project.md).
+Gets the  **ReportTable** object in the shape. Read-only[ReportTable](Project.reporttable.md).
 
 ## Syntax
 
@@ -27,5 +27,5 @@ Gets the  **ReportTable** object in the shape. Read-only[ReportTable](reporttabl
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
-[ReportTable Object](reporttable-object-project.md)
+[Shape Object](Project.shape.md)
+[ReportTable Object](Project.reporttable.md)

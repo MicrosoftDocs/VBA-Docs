@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-Represents a resource. The  **Resource** object is a member of the **[Resources](resources-object-project.md)** collection.
+Represents a resource. The  **Resource** object is a member of the **[Resources](Project.resources(object).md)** collection.
  **Using the Resource Object**
 Use  **Resources** ( _Index_ ), where _Index_ is the resource index number or resource name, to return a single **Resource** object. The following example lists the names of all resources in the active project.
  **Using the Resources Collection**

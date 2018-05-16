@@ -31,4 +31,4 @@ For an example that resets the project calendar, see the  **[Calendar](Project.P
 #### Concepts
 
 
-[WorkWeekDay Object](workweekday-object-project.md)
+[WorkWeekDay Object](Project.WorkWeekDay.md)

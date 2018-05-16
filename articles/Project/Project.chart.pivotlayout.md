@@ -32,4 +32,4 @@ If the chart you specify isn't a PivotChart report, the value of the  **PivotLay
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

@@ -31,4 +31,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[SplitParts Collection Object](splitparts-object-project.md)
+[SplitParts Collection Object](Project.splitparts.md)

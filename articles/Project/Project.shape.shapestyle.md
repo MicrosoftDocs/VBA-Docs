@@ -27,5 +27,5 @@ Gets or sets the style of the shape. Read/write  **[MsoShapeStyleIndex](http://m
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
 [MsoShapeStyleIndex](http://msdn.microsoft.com/en-us/library/office/ff862067%28v=office.15%29)

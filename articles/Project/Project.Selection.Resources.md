@@ -22,6 +22,6 @@ Gets a  **[Resources](Project.Resource.md)** collection that contains the resour
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see the **[Resources](task-resources-property-project.md)** property.
+For a code example that uses the  **Task** object, see the **[Resources](Project.Task.Resources.md)** property.
 
 

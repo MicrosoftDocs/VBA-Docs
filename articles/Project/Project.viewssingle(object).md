@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ViewsSingle Object (Project)
 
-Contains a collection of  **[ViewSingle](viewsingle-object-project.md)** objects.
+Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
  
 
 
@@ -18,8 +18,8 @@ Contains a collection of  **[ViewSingle](viewsingle-object-project.md)** objects
 
 |**Name**|
 |:-----|
-|[Add](viewssingle-add-method-project.md)|
-|[Copy](viewssingle-copy-method-project.md)|
+|[Add](Project.ViewsSingle.Add.md)|
+|[Copy](Project.ViewsSingle.Copy.md)|
 
 ## Properties
 
@@ -27,10 +27,10 @@ Contains a collection of  **[ViewSingle](viewsingle-object-project.md)** objects
 
 |**Name**|
 |:-----|
-|[Application](viewssingle-application-property-project.md)|
-|[Count](viewssingle-count-property-project.md)|
-|[Item](viewssingle-item-property-project.md)|
-|[Parent](viewssingle-parent-property-project.md)|
+|[Application](Project.ViewsSingle.Application.md)|
+|[Count](Project.ViewsSingle.Count.md)|
+|[Item](Project.ViewsSingle.Item.md)|
+|[Parent](Project.ViewsSingle.Parent.md)|
 
 ## See also
 

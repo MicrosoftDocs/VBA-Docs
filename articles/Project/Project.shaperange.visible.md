@@ -32,5 +32,5 @@ The value of the  **Visible** property can be **msoTrue** or **msoFalse**.
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

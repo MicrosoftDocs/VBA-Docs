@@ -27,5 +27,5 @@ Gets a  **TextFrame** object that contains the alignment and anchoring propertie
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)
 [TextFrame](http://msdn.microsoft.com/en-us/library/office/ff197860%28v=office.15%29)

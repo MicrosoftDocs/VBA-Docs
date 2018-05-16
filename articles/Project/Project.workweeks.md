@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 
 # WorkWeeks Object (Project)
 
- Contains a collection of **[WorkWeek](workweek-object-project.md)** objects.
+ Contains a collection of **[WorkWeek](Project.WorkWeek.md)** objects.
  
 
 
 ## Remarks
 
-Use the  **[Item](workweeks-item-property-project.md)** property return a single **WorkWeek** object.
+Use the  **[Item](Project.WorkWeeks.Item.md)** property return a single **WorkWeek** object.
  
 
  
-Use the  **[Add](workweeks-add-method-project.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
+Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
  
 
  
@@ -32,7 +32,7 @@ Use the  **[Add](workweeks-add-method-project.md)** method of the **WorkWeeks** 
 
 |**Name**|
 |:-----|
-|[Add](workweeks-add-method-project.md)|
+|[Add](Project.WorkWeeks.Add.md)|
 
 ## Properties
 
@@ -40,9 +40,9 @@ Use the  **[Add](workweeks-add-method-project.md)** method of the **WorkWeeks** 
 
 |**Name**|
 |:-----|
-|[Application](workweeks-application-property-project.md)|
-|[Count](workweeks-count-property-project.md)|
-|[Item](workweeks-item-property-project.md)|
+|[Application](Project.WorkWeeks.Application.md)|
+|[Count](Project.WorkWeeks.Count.md)|
+|[Item](Project.WorkWeeks.Item.md)|
 |[Parent](workweeks-parent-property-project.md)|
 
 ## See also

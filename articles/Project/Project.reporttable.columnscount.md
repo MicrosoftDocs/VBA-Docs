@@ -32,5 +32,5 @@ For an example that uses the  **ColumnsCount** property, see the **ReportTable**
 #### Other resources
 
 
-[ReportTable Object](reporttable-object-project.md)
-[Shape Object](shape-object-project.md)
+[ReportTable Object](Project.reporttable.md)
+[Shape Object](Project.shape.md)

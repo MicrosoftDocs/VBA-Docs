@@ -27,5 +27,5 @@ Gets the geometric description of nodes or control points in the shape range. Re
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)
 [ShapeNodes](http://msdn.microsoft.com/en-us/library/office/ff822109%28v=office.15%29)

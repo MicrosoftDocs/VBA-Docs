@@ -26,5 +26,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 #### Concepts
 
 
-[GroupCriteria2 Collection Object](groupcriteria2-object-project.md)
+[GroupCriteria2 Collection Object](Project.groupcriteria2.md)
 

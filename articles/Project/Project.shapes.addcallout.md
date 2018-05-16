@@ -50,7 +50,7 @@ The  _Type_ parameter can be one of the following **MsoCalloutType** constants:
 |**msoCalloutMixed**: A return value that indicates a combination of the other states.|
 |**msoCalloutThree**: A two-segment line, where the segment ends can be dragged to different positions.|
 |**msoCalloutFour**: A three-segment line.|
-You can insert a greater variety of callouts, such as balloons and clouds, by using the  **[AddShape](shapes-addshape-method-project.md)** method.
+You can insert a greater variety of callouts, such as balloons and clouds, by using the  **[AddShape](Project.shapes.addshape.md)** method.
 
 
 ### Example
@@ -96,6 +96,6 @@ End Sub
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
-[Shape Object](shape-object-project.md)
-[AddShape Method](shapes-addshape-method-project.md)
+[Shapes Object](Project.shapes.md)
+[Shape Object](Project.shape.md)
+[AddShape Method](Project.shapes.addshape.md)

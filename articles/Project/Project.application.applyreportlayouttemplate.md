@@ -25,7 +25,7 @@ Applies the specified report template to the active report.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TemplateId_|Optional|**[PjReportLayoutTemplateId](pjreportlayouttemplateid-enumeration-project.md)**|Specifies the kind of report; can be one of the following constants:  **pjReportLayoutComparison**,  **pjReportLayoutTitleAndChart**,  **pjReportLayoutTitleAndTable**, or  **pjReportLayoutTitleOnly**.|
+| _TemplateId_|Optional|**[PjReportLayoutTemplateId](Project.pjreportlayouttemplateid.md)**|Specifies the kind of report; can be one of the following constants:  **pjReportLayoutComparison**,  **pjReportLayoutTitleAndChart**,  **pjReportLayoutTitleAndTable**, or  **pjReportLayoutTitleOnly**.|
 | _TemplateId_|Optional|PJREPORTLAYOUTTEMPLATEID||
 
 ### Return value
@@ -75,5 +75,5 @@ End Sub
 #### Other resources
 
 
-[Report Object](report-object-project.md)
-[PjReportLayoutTemplateId Enumeration](pjreportlayouttemplateid-enumeration-project.md)
+[Report Object](Project.report.md)
+[PjReportLayoutTemplateId Enumeration](Project.pjreportlayouttemplateid.md)

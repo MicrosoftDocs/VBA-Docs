@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ChildDrivers Object (Project)
 
-The  **ChildDrivers** object is a collection of child **[Task](task-object-project.md)** objects that affect the task start date.
+The  **ChildDrivers** object is a collection of child **[Task](Project.Task.md)** objects that affect the task start date.
  
 
 

@@ -35,4 +35,4 @@ To show the  **Office.IMsoWalls** object in the Object Browser, select the **Off
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

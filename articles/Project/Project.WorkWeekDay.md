@@ -16,7 +16,7 @@ Represents a single calendar day in a work week. The  **WorkWeekDay** object is 
 
 ## Remarks
 
-Use the  **[Item](workweekdays-item-property-project.md)** property of the **WorkWeekDays** collection to return a single **WorkWeekDay** object.
+Use the  **[Item](Project.WorkWeekDays.Item.md)** property of the **WorkWeekDays** collection to return a single **WorkWeekDay** object.
  
 
  
@@ -27,7 +27,7 @@ Use the  **[Item](workweekdays-item-property-project.md)** property of the **Wor
 
 |**Name**|
 |:-----|
-|[Default](workweekday-default-method-project.md)|
+|[Default](Project.WorkWeekDay.Default.md)|
 
 ## Properties
 
@@ -35,18 +35,18 @@ Use the  **[Item](workweekdays-item-property-project.md)** property of the **Wor
 
 |**Name**|
 |:-----|
-|[Application](workweekday-application-property-project.md)|
-|[Calendar](workweekday-calendar-property-project.md)|
-|[Count](workweekday-count-property-project.md)|
-|[Index](workweekday-index-property-project.md)|
-|[Name](workweekday-name-property-project.md)|
-|[Parent](workweekday-parent-property-project.md)|
-|[Shift1](workweekday-shift1-property-project.md)|
-|[Shift2](workweekday-shift2-property-project.md)|
-|[Shift3](workweekday-shift3-property-project.md)|
-|[Shift4](workweekday-shift4-property-project.md)|
-|[Shift5](workweekday-shift5-property-project.md)|
-|[Working](workweekday-working-property-project.md)|
+|[Application](Project.WorkWeekDay.Application.md)|
+|[Calendar](Project.WorkWeekDay.Calendar.md)|
+|[Count](Project.WorkWeekDay.Count.md)|
+|[Index](Project.WorkWeekDay.Index.md)|
+|[Name](Project.WorkWeekDay.Name.md)|
+|[Parent](Project.WorkWeekDay.Parent.md)|
+|[Shift1](Project.WorkWeekDay.Shift1.md)|
+|[Shift2](Project.WorkWeekDay.Shift2.md)|
+|[Shift3](Project.WorkWeekDay.Shift3.md)|
+|[Shift4](Project.WorkWeekDay.Shift4.md)|
+|[Shift5](Project.WorkWeekDay.Shift5.md)|
+|[Working](Project.WorkWeekDay.Working.md)|
 
 ## See also
 

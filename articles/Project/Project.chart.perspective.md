@@ -18,7 +18,7 @@ Gets or sets a value that represents the perspective for the 3-D chart view. Rea
 
 ## Remarks
 
-The value of the  **Perspective** property must be between 0 and 100. **Perspective** is ignored if the[RightAngleAxes](chart-rightangleaxes-property-project.md) property is **True**.
+The value of the  **Perspective** property must be between 0 and 100. **Perspective** is ignored if the[RightAngleAxes](Project.chart.rightangleaxes.md) property is **True**.
 
 
 ## Example
@@ -51,4 +51,4 @@ End Sub
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

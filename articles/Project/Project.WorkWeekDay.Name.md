@@ -33,4 +33,4 @@ For a code example that uses the  **Task** object, see **[Name](Project.Task.Nam
 #### Concepts
 
 
-[WorkWeekDay Object](workweekday-object-project.md)
+[WorkWeekDay Object](Project.WorkWeekDay.md)

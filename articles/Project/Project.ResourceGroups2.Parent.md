@@ -31,5 +31,5 @@ Use the  **Parent** property to access the properties or methods of an object's 
 #### Concepts
 
 
-[ResourceGroups2 Collection Object](resourcegroups2-object-project.md)
+[ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 

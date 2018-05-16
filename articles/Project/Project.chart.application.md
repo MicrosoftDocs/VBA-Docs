@@ -27,4 +27,4 @@ Gets the [Application](Project.Application.md) object. Read-only **Application**
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

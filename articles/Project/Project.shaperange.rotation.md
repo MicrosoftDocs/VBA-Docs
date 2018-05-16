@@ -27,4 +27,4 @@ Gets or sets the rotation of the shape range, in degrees. Read/write  **Single**
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

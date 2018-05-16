@@ -26,4 +26,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 #### Concepts
 
 
-[SplitParts Collection Object](splitparts-object-project.md)
+[SplitParts Collection Object](Project.splitparts.md)

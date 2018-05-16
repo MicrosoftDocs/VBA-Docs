@@ -54,5 +54,5 @@ End Sub
 #### Other resources
 
 
-[Report Object](report-object-project.md)
-[Reports Object](reports-object-project.md)
+[Report Object](Project.report.md)
+[Reports Object](Project.reports.md)

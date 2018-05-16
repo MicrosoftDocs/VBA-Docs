@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Day Object (Project)
 
-Represents a day in a month. The  **Day** object is a member of the **[Days](days-object-project.md)** collection.
+Represents a day in a month. The  **Day** object is a member of the **[Days](Project.days.md)** collection.
  
 
 

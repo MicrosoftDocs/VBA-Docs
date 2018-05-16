@@ -22,6 +22,6 @@ Gets the remaining overtime cost for the assignment. Read-only  **Variant**.
 
 ## Remarks
 
-For a code example that uses a  **Task** object, see **[RemainingOvertimeCost](task-remainingovertimecost-property-project.md)**.
+For a code example that uses a  **Task** object, see **[RemainingOvertimeCost](Project.Task.RemainingOvertimeCost.md)**.
 
 

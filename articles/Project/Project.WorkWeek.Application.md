@@ -26,5 +26,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Object**
 #### Concepts
 
 
-[WorkWeek Object](workweek-object-project.md)
+[WorkWeek Object](Project.WorkWeek.md)
 

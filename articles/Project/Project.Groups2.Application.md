@@ -26,5 +26,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 #### Concepts
 
 
-[Groups2 Collection Object](groups2-object-project.md)
+[Groups2 Collection Object](Project.groups2.md)
 

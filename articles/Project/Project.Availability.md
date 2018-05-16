@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  
 
-Represents a line from the  **Resource Availability** grid for a resource. The **Availability** object is a member of the **[Availabilities](availabilities-object-project.md)** collection.
+Represents a line from the  **Resource Availability** grid for a resource. The **Availability** object is a member of the **[Availabilities](Project.availabilities.md)** collection.
  
  **Using the Availability Object**
  

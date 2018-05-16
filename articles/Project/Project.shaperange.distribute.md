@@ -34,4 +34,4 @@ If you try to use the  **Distribute** method, such as `sRange1.Distribute msoDis
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

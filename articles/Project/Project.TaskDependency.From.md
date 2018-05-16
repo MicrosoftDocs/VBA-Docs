@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskDependency.From Property (Project)
 
-Gets a  **[Task](task-object-project.md)** object that is the predecessor in a task dependency. Read-only **Task**.
+Gets a  **[Task](Project.Task.md)** object that is the predecessor in a task dependency. Read-only **Task**.
 
 
 ## Syntax

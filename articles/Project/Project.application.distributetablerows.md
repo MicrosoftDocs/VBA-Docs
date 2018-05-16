@@ -34,4 +34,4 @@ Distributes the rows of a selected table in a report, so that all rows are the s
 #### Other resources
 
 
-[Shape.Select Method](shape-select-method-project.md)
+[Shape.Select Method](Project.shape.select.md)

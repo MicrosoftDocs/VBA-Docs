@@ -27,5 +27,5 @@ Gets a  **Chart** object that represents the chart contained in the shape range.
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
-[Chart Object](chart-object-project.md)
+[ShapeRange Object](Project.shaperange.md)
+[Chart Object](Project.chart.md)

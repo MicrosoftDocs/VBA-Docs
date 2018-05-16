@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # SeriesCollection Object (Project)
-Represents a collection of data series ( **[Series](series-object-project.md)** objects) in a chart.
+Represents a collection of data series ( **[Series](Project.series.md)** objects) in a chart.
  
 
 ## Remarks
@@ -63,7 +63,7 @@ Sub TestChartSeries()
 End Sub
 ```
 
-The following sample output is from a chart such as the example in the [Chart](chart-object-project.md) object documentation.
+The following sample output is from a chart such as the example in the [Chart](Project.chart.md) object documentation.
  
 
  
@@ -92,7 +92,7 @@ Series 3: Work
 
 |**Name**|
 |:-----|
-|[Item](seriescollection-item-method-project.md)|
+|[Item](Project.seriescollection.item.md)|
 
 ## Properties
 
@@ -100,10 +100,10 @@ Series 3: Work
 
 |**Name**|
 |:-----|
-|[Application](seriescollection-application-property-project.md)|
-|[Count](seriescollection-count-property-project.md)|
-|[Creator](seriescollection-creator-property-project.md)|
-|[Parent](seriescollection-parent-property-project.md)|
+|[Application](Project.seriescollection.application.md)|
+|[Count](Project.seriescollection.count.md)|
+|[Creator](Project.seriescollection.creator.md)|
+|[Parent](Project.seriescollection.parent.md)|
 
 ## See also
 
@@ -112,6 +112,6 @@ Series 3: Work
 
 
  
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)
  
-[Series Object](series-object-project.md)
+[Series Object](Project.series.md)

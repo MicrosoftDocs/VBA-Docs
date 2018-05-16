@@ -27,4 +27,4 @@ Cuts the shape range to the Clipboard.
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

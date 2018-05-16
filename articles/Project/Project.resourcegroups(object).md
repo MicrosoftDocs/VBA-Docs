@@ -44,7 +44,7 @@ ActiveProject.ResourceGroups("Resources by Rate").GroupCriteria(1).Ascending = F
 
 ## Remarks
 
-For resource groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the  **[ResourceGroups2](resourcegroups2-object-project.md)** collection object.
+For resource groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the  **[ResourceGroups2](Project.resourcegroups2(object).md)** collection object.
  
 
  

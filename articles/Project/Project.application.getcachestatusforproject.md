@@ -23,7 +23,7 @@ Gets the state of a specified job that the active cache in Project Professional 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ProjectName_|Required|**String**|The name of the project; can be the active project or a different project that is open.|
-| _ProjectJobType_|Required|**PjJobType**|Can be one of the [PjJobType](pjjobtype-enumeration-project.md) constants for the save, publish, or check-in operation.|
+| _ProjectJobType_|Required|**PjJobType**|Can be one of the [PjJobType](Project.pjjobtype.md) constants for the save, publish, or check-in operation.|
 
 ## Remarks
 
@@ -116,7 +116,7 @@ Function WaitForJob(job As PjJobType, msWait As Long) As Boolean
 End Function
 ```
 
-Following is the output for a wait time of 500 milliseconds between status messages. If the network latency is greater, set the wait time for a longer interval. To find the meaning of output values, see the [PjCacheJobState](pjcachejobstate-enumeration-project.md) enumeration. For example, the value **4** is the **pjCacheJobStateSuccess** constant. If you run **TestCacheStatus** when there are no changes made to the project, the save job state repeats many times as **-1**, which is the value of the  **pjCacheJobStateInvalid** constant.
+Following is the output for a wait time of 500 milliseconds between status messages. If the network latency is greater, set the wait time for a longer interval. To find the meaning of output values, see the [PjCacheJobState](Project.pjcachejobstate.md) enumeration. For example, the value **4** is the **pjCacheJobStateSuccess** constant. If you run **TestCacheStatus** when there are no changes made to the project, the save job state repeats many times as **-1**, which is the value of the  **pjCacheJobStateInvalid** constant.
 
 
 
@@ -143,5 +143,5 @@ Publish completed: WinProj test 1
 #### Other resources
 
 
-[PjCacheJobState Enumeration](pjcachejobstate-enumeration-project.md)
-[PjJobType Enumeration](pjjobtype-enumeration-project.md)
+[PjCacheJobState Enumeration](Project.pjcachejobstate.md)
+[PjJobType Enumeration](Project.pjjobtype.md)

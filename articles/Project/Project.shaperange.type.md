@@ -27,5 +27,5 @@ Gets the the type of shape in the shape range. Read-only  **[MsoShapeType](http:
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)
 [MsoShapeType](http://msdn.microsoft.com/en-us/library/office/ff860759%28v=office.15%29)

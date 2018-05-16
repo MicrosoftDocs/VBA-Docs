@@ -23,7 +23,7 @@ Copies the formatting of the shape range.
 
 ### Remarks
 
-Use the  **[Apply](shaperange-apply-method-project.md)** method to apply copied formatting to another shape or shape range.
+Use the  **[Apply](Project.shaperange.apply.md)** method to apply copied formatting to another shape or shape range.
 
 
 ## Example
@@ -67,6 +67,6 @@ End Sub
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
-[Apply Method](shaperange-apply-method-project.md)
+[ShapeRange Object](Project.shaperange.md)
+[Apply Method](Project.shaperange.apply.md)
 [Shape.PickUp Method](shape-pickup-method-project.md)

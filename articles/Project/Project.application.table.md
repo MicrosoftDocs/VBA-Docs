@@ -35,4 +35,4 @@ The  **Table** method corresponds to the **Table** command on the **DESIGN** tab
 #### Other resources
 
 
-[Shapes.AddTable Method](shapes-addtable-method-project.md)
+[Shapes.AddTable Method](Project.shapes.addtable.md)

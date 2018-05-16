@@ -31,4 +31,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 #### Concepts
 
 
-[GroupCriteria Collection Object](groupcriteria-object-project.md)
+[GroupCriteria Collection Object](Project.groupcriteria.md)

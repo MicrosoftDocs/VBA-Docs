@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Chart.SeriesCollection Method (Project)
-Returns an object that represents either one series (a  **[Series](series-object-project.md)** object) or a collection of the series (a **[SeriesCollection](seriescollection-object-project.md)** object) in the chart or chart group.
+Returns an object that represents either one series (a  **[Series](Project.series.md)** object) or a collection of the series (a **[SeriesCollection](Project.seriescollection.md)** object) in the chart or chart group.
 
 ## Syntax
 
@@ -75,4 +75,4 @@ For example, running the  **GetSeriesValue** macro on a chart that includes a pl
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

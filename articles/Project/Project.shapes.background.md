@@ -32,4 +32,4 @@ If you try to use the  **Background** property, Project shows a run-time error 4
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
+[Shapes Object](Project.shapes.md)

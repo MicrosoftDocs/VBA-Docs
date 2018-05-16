@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion2 Object (Project)
 
-Represents a criterion in a group definition where the group hierarchy can be maintained and cell color can be a hexadecimal value. The  **GroupCriterion2** object is a member of the **[GroupCriteria2](groupcriteria2-object-project.md)** collection.
+Represents a criterion in a group definition where the group hierarchy can be maintained and cell color can be a hexadecimal value. The  **GroupCriterion2** object is a member of the **[GroupCriteria2](Project.groupcriteria2.md)** collection.
  
 
 

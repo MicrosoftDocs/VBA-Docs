@@ -91,7 +91,7 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 |**Description**|
 |:-----|
 |The  **Align** method is not implemented in Project.|
-|Applies formatting to a shape range, where the formatting information has been copied by using the  **[PickUp](shape-pickup-method-project.md)** method.|
+|Applies formatting to a shape range, where the formatting information has been copied by using the  **[PickUp](Project.shape.pickup.md)** method.|
 |Copies the shape range to the Clipboard.|
 |Cuts the shape range to the Clipboard.|
 |Deletes the shape range.|
@@ -120,54 +120,54 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 
 |**Name**|
 |:-----|
-|[Adjustments](shaperange-adjustments-property-project.md)|
-|[AlternativeText](shaperange-alternativetext-property-project.md)|
-|[Application](shaperange-application-property-project.md)|
-|[AutoShapeType](shaperange-autoshapetype-property-project.md)|
-|[BackgroundStyle](shaperange-backgroundstyle-property-project.md)|
-|[BlackWhiteMode](shaperange-blackwhitemode-property-project.md)|
-|[Callout](shaperange-callout-property-project.md)|
-|[Chart](shaperange-chart-property-project.md)|
-|[Child](shaperange-child-property-project.md)|
-|[ConnectionSiteCount](shaperange-connectionsitecount-property-project.md)|
-|[Connector](shaperange-connector-property-project.md)|
-|[ConnectorFormat](shaperange-connectorformat-property-project.md)|
-|[Count](shaperange-count-property-project.md)|
-|[Fill](shaperange-fill-property-project.md)|
-|[Glow](shaperange-glow-property-project.md)|
-|[GroupItems](shaperange-groupitems-property-project.md)|
-|[HasChart](shaperange-haschart-property-project.md)|
-|[HasTable](shaperange-hastable-property-project.md)|
-|[Height](shaperange-height-property-project.md)|
-|[HorizontalFlip](shaperange-horizontalflip-property-project.md)|
-|[ID](shaperange-id-property-project.md)|
-|[Left](shaperange-left-property-project.md)|
-|[Line](shaperange-line-property-project.md)|
-|[LockAspectRatio](shaperange-lockaspectratio-property-project.md)|
-|[Name](shaperange-name-property-project.md)|
-|[Nodes](shaperange-nodes-property-project.md)|
-|[Parent](shaperange-parent-property-project.md)|
-|[ParentGroup](shaperange-parentgroup-property-project.md)|
-|[Reflection](shaperange-reflection-property-project.md)|
-|[Rotation](shaperange-rotation-property-project.md)|
-|[Script](shaperange-script-property-project.md)|
-|[Shadow](shaperange-shadow-property-project.md)|
-|[ShapeStyle](shaperange-shapestyle-property-project.md)|
-|[SoftEdge](shaperange-softedge-property-project.md)|
-|[Table](shaperange-table-property-project.md)|
-|[TextEffect](shaperange-texteffect-property-project.md)|
-|[TextFrame](shaperange-textframe-property-project.md)|
-|[TextFrame2](shaperange-textframe2-property-project.md)|
-|[ThreeD](shaperange-threed-property-project.md)|
-|[Title](shaperange-title-property-project.md)|
-|[Top](shaperange-top-property-project.md)|
-|[Type](shaperange-type-property-project.md)|
-|[Value](shaperange-value-property-project.md)|
-|[VerticalFlip](shaperange-verticalflip-property-project.md)|
-|[Vertices](shaperange-vertices-property-project.md)|
-|[Visible](shaperange-visible-property-project.md)|
-|[Width](shaperange-width-property-project.md)|
-|[ZOrderPosition](shaperange-zorderposition-property-project.md)|
+|[Adjustments](Project.shaperange.adjustments.md)|
+|[AlternativeText](Project.shaperange.alternativetext.md)|
+|[Application](Project.shaperange.application.md)|
+|[AutoShapeType](Project.shaperange.autoshapetype.md)|
+|[BackgroundStyle](Project.shaperange.backgroundstyle.md)|
+|[BlackWhiteMode](Project.shaperange.blackwhitemode.md)|
+|[Callout](Project.shaperange.callout.md)|
+|[Chart](Project.shaperange.chart.md)|
+|[Child](Project.shaperange.child.md)|
+|[ConnectionSiteCount](Project.shaperange.connectionsitecount.md)|
+|[Connector](Project.shaperange.connector.md)|
+|[ConnectorFormat](Project.shaperange.connectorformat.md)|
+|[Count](Project.shaperange.count.md)|
+|[Fill](Project.shaperange.fill.md)|
+|[Glow](Project.shaperange.glow.md)|
+|[GroupItems](Project.shaperange.groupitems.md)|
+|[HasChart](Project.shaperange.haschart.md)|
+|[HasTable](Project.shaperange.hastable.md)|
+|[Height](Project.shaperange.height.md)|
+|[HorizontalFlip](Project.shaperange.horizontalflip.md)|
+|[ID](Project.shaperange.id.md)|
+|[Left](Project.shaperange.left.md)|
+|[Line](Project.shaperange.line.md)|
+|[LockAspectRatio](Project.shaperange.lockaspectratio.md)|
+|[Name](Project.shaperange.name.md)|
+|[Nodes](Project.shaperange.nodes.md)|
+|[Parent](Project.shaperange.parent.md)|
+|[ParentGroup](Project.shaperange.parentgroup.md)|
+|[Reflection](Project.shaperange.reflection.md)|
+|[Rotation](Project.shaperange.rotation.md)|
+|[Script](Project.shaperange.script.md)|
+|[Shadow](Project.shaperange.shadow.md)|
+|[ShapeStyle](Project.shaperange.shapestyle.md)|
+|[SoftEdge](Project.shaperange.softedge.md)|
+|[Table](Project.shaperange.table.md)|
+|[TextEffect](Project.shaperange.texteffect.md)|
+|[TextFrame](Project.shaperange.textframe.md)|
+|[TextFrame2](Project.shaperange.textframe2.md)|
+|[ThreeD](Project.shaperange.threed.md)|
+|[Title](Project.shaperange.title.md)|
+|[Top](Project.shaperange.top.md)|
+|[Type](Project.shaperange.type.md)|
+|[Value](Project.shaperange.value.md)|
+|[VerticalFlip](Project.shaperange.verticalflip.md)|
+|[Vertices](Project.shaperange.vertices.md)|
+|[Visible](Project.shaperange.visible.md)|
+|[Width](Project.shaperange.width.md)|
+|[ZOrderPosition](Project.shaperange.zorderposition.md)|
 
 ## See also
 
@@ -176,6 +176,6 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 
 
  
-[Shapes Object](shapes-object-project.md)
+[Shapes Object](Project.shapes.md)
  
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Windows Object (Project)
 
-Contains a collection of  **[Window](window-object-project.md)** objects. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Project** object contains only the windows in the specified project.
+Contains a collection of  **[Window](Project.Window.md)** objects. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Project** object contains only the windows in the specified project.
  
 
 
@@ -91,11 +91,11 @@ Application.WindowNewWindow
 
 |**Name**|
 |:-----|
-|[ActiveWindow](windows-activewindow-property-project.md)|
-|[Application](windows-application-property-project.md)|
-|[Count](windows-count-property-project.md)|
-|[Item](windows-item-property-project.md)|
-|[Parent](windows-parent-property-project.md)|
+|[ActiveWindow](Project.Windows.ActiveWindow.md)|
+|[Application](Project.Windows.Application.md)|
+|[Count](Project.Windows.Count.md)|
+|[Item](Project.Windows.Item.md)|
+|[Parent](Project.Windows.Parent.md)|
 
 ## See also
 

@@ -32,4 +32,4 @@ In general for applications that implement Office Art, the  **Ungroup** method u
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

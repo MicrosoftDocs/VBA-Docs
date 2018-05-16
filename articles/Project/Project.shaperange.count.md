@@ -27,4 +27,4 @@ Gets the number of shapes in the shape range. Read-only  **Long**.
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

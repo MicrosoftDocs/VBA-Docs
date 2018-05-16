@@ -60,6 +60,6 @@ End Sub
 #### Other resources
 
 
-[IsCheckoutMsgBarVisible](project-ischeckoutmsgbarvisible-property-project.md)
-[HideCheckoutMsgBar Method](project-hidecheckoutmsgbar-method-project.md)
-[CheckoutProject Method](project-checkoutproject-method-project.md)
+[IsCheckoutMsgBarVisible](Project.project.ischeckoutmsgbarvisible.md)
+[HideCheckoutMsgBar Method](Project.project.hidecheckoutmsgbar.md)
+[CheckoutProject Method](Project.project.checkoutproject.md)

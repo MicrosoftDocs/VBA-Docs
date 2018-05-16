@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.TaskDependencies Property (Project)
 
-Gets a  **[TaskDependencies](taskdependency-object-project.md)** collection of dependent (predecessor and successor) tasks. Read-only **TaskDependencies**.
+Gets a  **[TaskDependencies](Project.TaskDependency.md)** collection of dependent (predecessor and successor) tasks. Read-only **TaskDependencies**.
 
 
 ## Syntax

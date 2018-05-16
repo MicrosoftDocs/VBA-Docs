@@ -43,5 +43,5 @@ In general for applications that implement Office Art, the  **MergeShapes** meth
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)
 [MsoMergeCmd](http://msdn.microsoft.com/en-us/library/office/jj227893%28v=office.15%29)

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ReportTemplate Object (Project)
 
-Represents a template for a Visual Report. The  **ReportTemplate** object is a member of the **[ReportTemplates](reporttemplates-object-project.md)** collection.
+Represents a template for a Visual Report. The  **ReportTemplate** object is a member of the **[ReportTemplates](Project.reporttemplates.md)** collection.
  
 
 

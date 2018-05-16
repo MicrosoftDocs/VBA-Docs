@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-Represents a subproject. The  **Subproject** object is a member of the **[Subprojects](subprojects-object-project.md)** collection.
+Represents a subproject. The  **Subproject** object is a member of the **[Subprojects](Project.subprojects(object).md)** collection.
  **Using the Subproject Object**
 Use  **Subprojects** ( _Index_ ), where _Index_ is the subproject index or project summary task name, to return a single **Subproject** object. The following example prevents changes made to the specified subproject in a master project from being automatically made to the source project.
  **Using the Subprojects Collection**

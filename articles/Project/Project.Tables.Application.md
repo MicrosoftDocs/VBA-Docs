@@ -26,4 +26,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 #### Concepts
 
 
-[Tables Collection Object](tables-object-project.md)
+[Tables Collection Object](Project.tables.md)

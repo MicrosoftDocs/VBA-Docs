@@ -40,4 +40,4 @@ If creating a new task portion would overlap any other portions in the same task
 #### Concepts
 
 
-[SplitParts Collection Object](splitparts-object-project.md)
+[SplitParts Collection Object](Project.splitparts.md)

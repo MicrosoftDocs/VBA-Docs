@@ -26,4 +26,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 #### Concepts
 
 
-[Exceptions Collection Object](exceptions-object-project.md)
+[Exceptions Collection Object](Project.exceptions.md)

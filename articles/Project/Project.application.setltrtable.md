@@ -43,6 +43,6 @@ If a report is not active, the  **SetLTRTable** method displays a dialog box wit
 #### Other resources
 
 
-[SetRTLTable](application-setrtltable-method-project.md)
-[ReportTable Object](reporttable-object-project.md)
-[Shape.Table Property](shape-table-property-project.md)
+[SetRTLTable](Project.application.setrtltable.md)
+[ReportTable Object](Project.reporttable.md)
+[Shape.Table Property](Project.shape.table.md)

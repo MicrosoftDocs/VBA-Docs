@@ -31,4 +31,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 #### Concepts
 
 
-[SplitParts Collection Object](splitparts-object-project.md)
+[SplitParts Collection Object](Project.splitparts.md)

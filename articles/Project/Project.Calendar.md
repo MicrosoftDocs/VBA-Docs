@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-Represents the calendar for a resource or project. The  **Calendar** object is a member of the **[Calendars](calendars-object-project.md)** collection.
+Represents the calendar for a resource or project. The  **Calendar** object is a member of the **[Calendars](Project.calendars.md)** collection.
  **Using the Calendar Object**
 Use  **BaseCalendars(** _Index_ **)**, where _Index_ is the calendar index number or calendar name, to return a single **Calendar** object.
  **Using the Calendars Collection**

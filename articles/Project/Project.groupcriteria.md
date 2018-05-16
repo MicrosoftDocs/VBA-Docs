@@ -14,7 +14,7 @@ Contains a collection of  **[GroupCriterion](Project.GroupCriterion.md)** object
 
 ## Remarks
 
-For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the  **[GroupCriteria2](groupcriteria2-object-project.md)** collection object.
+For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the  **[GroupCriteria2](Project.groupcriteria2.md)** collection object.
  
 
  

@@ -27,6 +27,6 @@ Gets a value that indicates whether the shape contains a chart. Read-only  **[Ms
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
-[Chart Object](chart-object-project.md)
+[Shape Object](Project.shape.md)
+[Chart Object](Project.chart.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

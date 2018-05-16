@@ -31,4 +31,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[CostRateTables Collection Object](costratetables-object-project.md)
+[CostRateTables Collection Object](Project.costratetables.md)

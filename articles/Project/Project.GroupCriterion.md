@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion Object (Project)
 
-Represents a criterion in a group definition. The  **GroupCriterion** object is a member of the **[GroupCriteria](groupcriteria-object-project.md)** collection.
+Represents a criterion in a group definition. The  **GroupCriterion** object is a member of the **[GroupCriteria](Project.groupcriteria.md)** collection.
  
 
 

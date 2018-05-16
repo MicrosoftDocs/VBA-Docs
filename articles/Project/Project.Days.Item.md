@@ -34,4 +34,4 @@ Gets a single  **Day** object from the **Days** collection. Read-only **Day**.
 #### Concepts
 
 
-[Days Collection Object](days-object-project.md)
+[Days Collection Object](Project.days.md)

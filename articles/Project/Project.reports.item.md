@@ -26,7 +26,7 @@ Gets a single  **Report** object from the **Reports** collection. Read-only **Re
 
 ## Remarks
 
-To get the index number of a report, you can use the [Report.Index](report-index-property-project.md) property. For example, create a report namedReport 1, and then run the following statement in the  **Immediate** window of the VBE:
+To get the index number of a report, you can use the [Report.Index](Project.report.index.md) property. For example, create a report namedReport 1, and then run the following statement in the  **Immediate** window of the VBE:
 
 
 ```vb
@@ -54,4 +54,4 @@ To get the index number of a report, you can use the [Report.Index](report-index
 #### Other resources
 
 
-[Reports Object](reports-object-project.md)
+[Reports Object](Project.reports.md)

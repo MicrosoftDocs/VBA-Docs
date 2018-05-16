@@ -34,4 +34,4 @@ Gets a single  **Availability** object from the **Availabilities** collection. R
 #### Concepts
 
 
-[Availabilities Collection Object](availabilities-object-project.md)
+[Availabilities Collection Object](Project.availabilities.md)

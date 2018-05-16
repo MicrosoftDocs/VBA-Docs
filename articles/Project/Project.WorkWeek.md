@@ -19,11 +19,11 @@ Represents a single calendar work week. The  **WorkWeek** object is a member of 
 
 ## Remarks
 
-Use the  **[Item](workweeks-item-property-project.md)** property of the **WorkWeeks** collection to return a single **WorkWeek** object.
+Use the  **[Item](Project.WorkWeeks.Item.md)** property of the **WorkWeeks** collection to return a single **WorkWeek** object.
  
 
  
-Use the  **[Add](workweeks-add-method-project.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
+Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
  
 
  
@@ -34,7 +34,7 @@ Use the  **[Add](workweeks-add-method-project.md)** method of the **WorkWeeks** 
 
 |**Name**|
 |:-----|
-|[Delete](workweek-delete-method-project.md)|
+|[Delete](Project.WorkWeek.Delete.md)|
 
 ## Properties
 
@@ -42,13 +42,13 @@ Use the  **[Add](workweeks-add-method-project.md)** method of the **WorkWeeks** 
 
 |**Name**|
 |:-----|
-|[Application](workweek-application-property-project.md)|
-|[Finish](workweek-finish-property-project.md)|
-|[Index](workweek-index-property-project.md)|
-|[Name](workweek-name-property-project.md)|
-|[Parent](workweek-parent-property-project.md)|
-|[Start](workweek-start-property-project.md)|
-|[WeekDays](workweek-weekdays-property-project.md)|
+|[Application](Project.WorkWeek.Application.md)|
+|[Finish](Project.WorkWeek.Finish.md)|
+|[Index](Project.WorkWeek.Index.md)|
+|[Name](Project.WorkWeek.Name.md)|
+|[Parent](Project.WorkWeek.Parent.md)|
+|[Start](Project.WorkWeek.Start.md)|
+|[WeekDays](Project.WorkWeek.WeekDays.md)|
 
 ## See also
 

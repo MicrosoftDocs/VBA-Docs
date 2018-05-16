@@ -27,5 +27,5 @@ Gets the shape type. Read-only  **[MsoShapeType](http://msdn.microsoft.com/en-us
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
 [MsoShapeType](http://msdn.microsoft.com/en-us/library/office/ff860759%28v=office.15%29)

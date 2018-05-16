@@ -41,4 +41,4 @@ Adds a  **Table** object to a **Tables** collection.
 #### Concepts
 
 
-[Tables Collection Object](tables-object-project.md)
+[Tables Collection Object](Project.tables.md)

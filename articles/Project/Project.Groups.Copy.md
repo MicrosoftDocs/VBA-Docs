@@ -40,4 +40,4 @@ Makes a copy of a group definition for the  **Groups** collection and returns a 
 #### Concepts
 
 
-[Groups Collection Object](groups-object-project.md)
+[Groups Collection Object](Project.groups.md)

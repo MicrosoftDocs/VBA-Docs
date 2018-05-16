@@ -23,7 +23,7 @@ Duplicates a shape and returns a reference to the copy.
 
 ## Example
 
-The following example uses the report created by the code example in the  **[Shape.Apply](shape-apply-method-project.md)** method. The example duplicates a shape, and then rotates, horizontally flips, and selects the new shape. The horizontal offset and vertical offset of the new shape are both 12 points.
+The following example uses the report created by the code example in the  **[Shape.Apply](Project.shape.apply.md)** method. The example duplicates a shape, and then rotates, horizontally flips, and selects the new shape. The horizontal offset and vertical offset of the new shape are both 12 points.
 
 
 ```vb
@@ -62,5 +62,5 @@ End Sub
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
-[ShapeRange.Duplicate Method](shaperange-duplicate-method-project.md)
+[Shape Object](Project.shape.md)
+[ShapeRange.Duplicate Method](Project.shaperange.duplicate.md)

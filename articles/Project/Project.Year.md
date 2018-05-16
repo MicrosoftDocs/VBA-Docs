@@ -103,7 +103,7 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 |**Name**|
 |:-----|
-|[Default](year-default-method-project.md)|
+|[Default](Project.Year.Default.md)|
 
 ## Properties
 
@@ -111,17 +111,17 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 |**Name**|
 |:-----|
-|[Application](year-application-property-project.md)|
-|[Calendar](year-calendar-property-project.md)|
-|[Count](year-count-property-project.md)|
-|[Index](year-index-property-project.md)|
-|[Months](year-months-property-project.md)|
-|[Name](year-name-property-project.md)|
-|[Parent](year-parent-property-project.md)|
-|[Shift1](year-shift1-property-project.md)|
-|[Shift2](year-shift2-property-project.md)|
-|[Shift3](year-shift3-property-project.md)|
-|[Shift4](year-shift4-property-project.md)|
-|[Shift5](year-shift5-property-project.md)|
-|[Working](year-working-property-project.md)|
+|[Application](Project.Year.Application.md)|
+|[Calendar](Project.Year.Calendar.md)|
+|[Count](Project.Year.Count.md)|
+|[Index](Project.Year.Index.md)|
+|[Months](Project.Year.Months.md)|
+|[Name](Project.Year.Name.md)|
+|[Parent](Project.Year.Parent.md)|
+|[Shift1](Project.Year.Shift1.md)|
+|[Shift2](Project.Year.Shift2.md)|
+|[Shift3](Project.Year.Shift3.md)|
+|[Shift4](Project.Year.Shift4.md)|
+|[Shift5](Project.Year.Shift5.md)|
+|[Working](Project.Year.Working.md)|
 

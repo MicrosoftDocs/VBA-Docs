@@ -40,5 +40,5 @@ Adds a  **[Group2](Project.Group2.md)** object to a **Groups2** collection.
 #### Concepts
 
 
-[Groups2 Collection Object](groups2-object-project.md)
+[Groups2 Collection Object](Project.groups2.md)
 

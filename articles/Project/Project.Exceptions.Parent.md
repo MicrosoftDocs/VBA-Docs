@@ -31,4 +31,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 #### Concepts
 
 
-[Exceptions Collection Object](exceptions-object-project.md)
+[Exceptions Collection Object](Project.exceptions.md)

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the  **RightAngleAxes** property is **True**, the  **[Perspective](chart-perspective-property-project.md)** property is ignored.
+If the  **RightAngleAxes** property is **True**, the  **[Perspective](Project.chart.perspective.md)** property is ignored.
 
 
 ## Example
@@ -50,5 +50,5 @@ End Sub
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
-[AutoScaling Property](chart-autoscaling-property-project.md)
+[Chart Object](Project.chart.md)
+[AutoScaling Property](Project.chart.autoscaling.md)

@@ -50,6 +50,6 @@ End Sub
 #### Other resources
 
 
-[IsCheckoutOSVisible](project-ischeckoutosvisible-property-project.md)
-[HideCheckoutMsgBar Method](project-hidecheckoutmsgbar-method-project.md)
-[CheckoutProject Method](project-checkoutproject-method-project.md)
+[IsCheckoutOSVisible](Project.project.ischeckoutosvisible.md)
+[HideCheckoutMsgBar Method](Project.project.hidecheckoutmsgbar.md)
+[CheckoutProject Method](Project.project.checkoutproject.md)

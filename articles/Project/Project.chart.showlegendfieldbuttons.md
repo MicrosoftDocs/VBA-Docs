@@ -27,4 +27,4 @@ Gets or sets whether to display legend field buttons on a PivotChart. Read/write
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

@@ -36,7 +36,7 @@ Pastes a copy of a report or a shape, where the copy is formatted in the default
 #### Other resources
 
 
-[CopyReport Method](application-copyreport-method-project.md)
-[Shape.Copy Method](shape-copy-method-project.md)
-[PasteSourceFormatting Method](application-pastesourceformatting-method-project.md)
-[PasteAsPicture Method](application-pasteaspicture-method-project.md)
+[CopyReport Method](Project.application.copyreport.md)
+[Shape.Copy Method](Project.shape.copy.md)
+[PasteSourceFormatting Method](Project.application.pastesourceformatting.md)
+[PasteAsPicture Method](Project.application.pasteaspicture.md)

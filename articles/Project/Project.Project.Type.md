@@ -66,5 +66,5 @@ End Sub
 #### Other resources
 
 
-[CheckoutProject Method](project-checkoutproject-method-project.md)
+[CheckoutProject Method](Project.project.checkoutproject.md)
 [Application.IsCheckedOut Property](application-ischeckedout-property-project.md)

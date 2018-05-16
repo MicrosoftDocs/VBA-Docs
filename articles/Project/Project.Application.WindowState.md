@@ -24,7 +24,7 @@ Gets or sets the state of the Project application window, where the state is max
 
 The  **WindowState** property can be one of the **[PjWindowState](Project.PjWindowState.md)** constants.
 
-To change the state of a window within the application window, use the  **[WindowState](window-windowstate-property-project.md)** property of the **Window** object.
+To change the state of a window within the application window, use the  **[WindowState](Project.Window.WindowState.md)** property of the **Window** object.
 
 
 ## Example

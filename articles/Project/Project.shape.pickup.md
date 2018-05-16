@@ -23,7 +23,7 @@ Copies the formatting of a shape.
 
 ### Remarks
 
-Use the  **[Apply](shape-apply-method-project.md)** method to apply copied formatting to another shape.
+Use the  **[Apply](Project.shape.apply.md)** method to apply copied formatting to another shape.
 
 
 ## Example
@@ -63,6 +63,6 @@ End Sub
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
-[Apply Method](shape-apply-method-project.md)
+[Shape Object](Project.shape.md)
+[Apply Method](Project.shape.apply.md)
 [ShapeRange.Pickup Method](shaperange-pickup-method-project.md)

@@ -31,4 +31,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[Availabilities Collection Object](availabilities-object-project.md)
+[Availabilities Collection Object](Project.availabilities.md)

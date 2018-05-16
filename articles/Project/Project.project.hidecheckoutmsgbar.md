@@ -53,5 +53,5 @@ End Sub
 #### Other resources
 
 
-[IsCheckoutMsgBarVisible Property](project-ischeckoutmsgbarvisible-property-project.md)
-[CheckoutProject Method](project-checkoutproject-method-project.md)
+[IsCheckoutMsgBarVisible Property](Project.project.ischeckoutmsgbarvisible.md)
+[CheckoutProject Method](Project.project.checkoutproject.md)

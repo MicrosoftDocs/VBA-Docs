@@ -34,4 +34,4 @@ Gets a single  **CostRateTable** object from the **CostRateTables** collection. 
 #### Concepts
 
 
-[CostRateTables Collection Object](costratetables-object-project.md)
+[CostRateTables Collection Object](Project.costratetables.md)

@@ -34,4 +34,4 @@ If you try to use the  **Align** method, such as `sRange1.Align msoAlignMiddles,
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

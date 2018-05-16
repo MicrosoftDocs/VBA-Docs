@@ -51,5 +51,5 @@ If a chart or table is not selected, the  **ShowReportDataPane** method displays
 #### Other resources
 
 
-[ReportTable Object](reporttable-object-project.md)
-[Chart Object](chart-object-project.md)
+[ReportTable Object](Project.reporttable.md)
+[Chart Object](Project.chart.md)

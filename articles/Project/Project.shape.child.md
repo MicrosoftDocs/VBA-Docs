@@ -27,5 +27,5 @@ Gets a value that indicates whether the shape is a child shape. Read-only  **[Ms
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

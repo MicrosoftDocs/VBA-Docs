@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlineCode.CodeMask Property (Project)
 
-Gets a  **[CodeMask](codemask-object-project.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
+Gets a  **[CodeMask](Project.codemask.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
 
 
 ## Syntax

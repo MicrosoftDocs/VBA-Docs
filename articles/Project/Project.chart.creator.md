@@ -40,4 +40,4 @@ Print ActiveProject.Reports("Simple scalar chart").Shapes(1).Chart.Creator
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

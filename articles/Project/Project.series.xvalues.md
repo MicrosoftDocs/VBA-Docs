@@ -18,7 +18,7 @@ Gets the horizontal (X) axis values for the data series on a chart. Read-only  *
 
 ## Remarks
 
-For a code example that uses the  **XValues** property, see the **[Series](series-object-project.md)** object.
+For a code example that uses the  **XValues** property, see the **[Series](Project.series.md)** object.
 
 
 ## See also
@@ -27,5 +27,5 @@ For a code example that uses the  **XValues** property, see the **[Series](serie
 #### Other resources
 
 
-[Series Object](series-object-project.md)
+[Series Object](Project.series.md)
 [Values Property](series-values-property-project.md)

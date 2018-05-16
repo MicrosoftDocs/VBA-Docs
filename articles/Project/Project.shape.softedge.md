@@ -27,5 +27,5 @@ Gets soft edge formatting properties for the shape. Read-only  **[SoftEdgeFormat
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
 [SoftEdgeFormat](http://msdn.microsoft.com/en-us/library/office/ff863361%28v=office.15%29)

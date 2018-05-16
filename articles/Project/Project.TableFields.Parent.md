@@ -31,4 +31,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 #### Concepts
 
 
-[TableFields Collection Object](tablefields-object-project.md)
+[TableFields Collection Object](Project.tablefields.md)

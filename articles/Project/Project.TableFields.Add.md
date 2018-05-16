@@ -48,4 +48,4 @@ Adds a  **TableField** object to a **TableFields** collection.
 #### Concepts
 
 
-[TableFields Collection Object](tablefields-object-project.md)
+[TableFields Collection Object](Project.tablefields.md)

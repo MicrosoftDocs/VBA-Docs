@@ -63,5 +63,5 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
-[Item Method](shapes-item-method-project.md)
+[Shapes Object](Project.shapes.md)
+[Item Method](Project.shapes.item.md)

@@ -31,5 +31,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[ResourceGroups2 Collection Object](resourcegroups2-object-project.md)
+[ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 

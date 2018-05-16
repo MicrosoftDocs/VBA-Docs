@@ -26,4 +26,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 #### Concepts
 
 
-[Availabilities Collection Object](availabilities-object-project.md)
+[Availabilities Collection Object](Project.availabilities.md)

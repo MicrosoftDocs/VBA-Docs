@@ -86,6 +86,6 @@ End Sub
 #### Other resources
 
 
-[Report Object](report-object-project.md)
-[AlignTableCellTop Method](application-aligntablecelltop-method-project.md)
-[AlignTableCellVerticalCenter Method](application-aligntablecellverticalcenter-method-project.md)
+[Report Object](Project.report.md)
+[AlignTableCellTop Method](Project.application.aligntablecelltop.md)
+[AlignTableCellVerticalCenter Method](Project.application.aligntablecellverticalcenter.md)

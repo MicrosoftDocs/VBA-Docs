@@ -94,7 +94,7 @@ The following example maximizes the first window in the window list.
 Application.Windows2(1).WindowState = pjMaximized
 ```
 
-The window caption is the text shown in the title bar at the top of the window when the window is not maximized. The caption is also shown in the list of open files on the bottom of the  **Windows** menu. Use the **[Caption](window-caption-property-project.md)** property to set or return the window caption. Changing the window caption does not change the name of the project.
+The window caption is the text shown in the title bar at the top of the window when the window is not maximized. The caption is also shown in the list of open files on the bottom of the  **Windows** menu. Use the **[Caption](Project.Window.Caption.md)** property to set or return the window caption. Changing the window caption does not change the name of the project.
  
 
  
@@ -118,11 +118,11 @@ End If
 
 |**Name**|
 |:-----|
-|[ActiveWindow](windows2-activewindow-property-project.md)|
-|[Application](windows2-application-property-project.md)|
-|[Count](windows2-count-property-project.md)|
-|[Item](windows2-item-property-project.md)|
-|[Parent](windows2-parent-property-project.md)|
+|[ActiveWindow](Project.Windows2.ActiveWindow.md)|
+|[Application](Project.Windows2.Application.md)|
+|[Count](Project.Windows2.Count.md)|
+|[Item](Project.Windows2.Item.md)|
+|[Parent](Project.Windows2.Parent.md)|
 
 ## See also
 

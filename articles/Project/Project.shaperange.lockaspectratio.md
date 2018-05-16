@@ -88,6 +88,6 @@ In Figure 1, the right shape range with the locked aspect ratio is selected.
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
-[Shape.LockAspectRatio Property](shape-lockaspectratio-property-project.md)
+[ShapeRange Object](Project.shaperange.md)
+[Shape.LockAspectRatio Property](Project.shape.lockaspectratio.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

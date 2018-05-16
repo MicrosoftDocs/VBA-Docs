@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SplitPart Object (Project)
 
-Represents a task portion. The  **SplitPart** object is a member of the **[SplitParts](splitparts-object-project.md)** collection.
+Represents a task portion. The  **SplitPart** object is a member of the **[SplitParts](Project.splitparts.md)** collection.
  
 
 
@@ -45,7 +45,7 @@ MsgBox Portions
  
 
  
-Use the  **[SplitParts](task-splitparts-property-project.md)** property to return a **SplitParts** collection. The following example returns the number of task portions for each task in the active project.
+Use the  **[SplitParts](Project.Task.SplitParts.md)** property to return a **SplitParts** collection. The following example returns the number of task portions for each task in the active project.
  
 
  
@@ -63,7 +63,7 @@ For Each T In ActiveProject.Tasks
 Next T
 ```
 
-Use the  **[Split](task-split-method-project.md)** method ( **Task** object) to add a **SplitPart** object to the **SplitParts** collection. (The **Split** method creates a split in a task.) The following example creates a split in the task from Wednesday to Monday, in October of 2012.
+Use the  **[Split](Project.Task.Split.md)** method ( **Task** object) to add a **SplitPart** object to the **SplitParts** collection. (The **Split** method creates a split in a task.) The following example creates a split in the task from Wednesday to Monday, in October of 2012.
  
 
  

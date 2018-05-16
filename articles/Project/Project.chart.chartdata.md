@@ -27,4 +27,4 @@ Gets an  **Office.IMsoChartData** object that enables the user to show, hide, or
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)

@@ -27,5 +27,5 @@ Gets the reflection formatting for the shape. Read-only  **[ReflectionFormat](ht
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
 [ReflectionFormat](http://msdn.microsoft.com/en-us/library/office/ff863140%28v=office.15%29)

@@ -23,7 +23,7 @@ The  **RerouteConnections** method is not implemented in Project.
 
 ## Remarks
 
-In general for applications that implement Office Art, the  **RerouteConnections** method changes the routing of a connector to the shortest path between the shapes it connects. Project does not support the connect and disconnect methods of the **ConnectorFormat** object, and so it does not support **RerouteConnections**. For more information, see the  **[ConnectorFormat](shaperange-connectorformat-property-project.md)** property.
+In general for applications that implement Office Art, the  **RerouteConnections** method changes the routing of a connector to the shortest path between the shapes it connects. Project does not support the connect and disconnect methods of the **ConnectorFormat** object, and so it does not support **RerouteConnections**. For more information, see the  **[ConnectorFormat](Project.shaperange.connectorformat.md)** property.
 
 
 ## See also
@@ -32,4 +32,4 @@ In general for applications that implement Office Art, the  **RerouteConnections
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

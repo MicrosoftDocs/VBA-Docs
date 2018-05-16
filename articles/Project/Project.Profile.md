@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  
 
-Represents an account profile in Project Professional. The  **Profile** object is a member of the **[Profiles](profiles-object-project.md)** collection.
+Represents an account profile in Project Professional. The  **Profile** object is a member of the **[Profiles](Project.profiles.md)** collection.
  
 If the second account profile is a Project Server account, the following statement returns the value 1, which is the value of the  **pjServerProfile** constant in the **[PjProfileType](Project.PjProfileType.md)** enumeration.
  
@@ -50,7 +50,7 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 |[LoginType](Project.Profile.LoginType.md)|
 |[Name](Project.Profile.Name.md)|
 |[Server](Project.Profile.Server.md)|
-|[SiteId](profile-siteid-property-project.md)|
+|[SiteId](Project.profile.siteid.md)|
 |[Type](Project.Profile.Type.md)|
 |[UserName](Project.Profile.UserName.md)|
 

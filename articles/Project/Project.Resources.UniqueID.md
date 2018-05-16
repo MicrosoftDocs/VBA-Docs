@@ -34,4 +34,4 @@ Gets a  **[Resource](Project.Resource.md)** object from its containing collectio
 #### Concepts
 
 
-[Resources Collection Object](resources-object-project.md)
+[Resources Collection Object](Project.resources(object).md)

@@ -31,5 +31,5 @@ Use the  **Parent** property to access the properties or methods of the parent o
 #### Concepts
 
 
-[WorkWeek Object](workweek-object-project.md)
+[WorkWeek Object](Project.WorkWeek.md)
 

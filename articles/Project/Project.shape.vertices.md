@@ -18,7 +18,7 @@ Gets the coordinates of the vertices (and control points for a B?zier curve) as 
 
 ## Remarks
 
-You can use the array returned by the  **Vertices** property as an argument for the[AddCurve](shapes-addcurve-method-project.md) method or the[AddPolyLine](shapes-addpolyline-method-project.md) method.
+You can use the array returned by the  **Vertices** property as an argument for the[AddCurve](Project.shapes.addcurve.md) method or the[AddPolyLine](Project.shapes.addpolyline.md) method.
 
 For an array of vertices named  `vertArray`, the following table shows how the  **Vertices** property associates values in the array with the coordinates of vertices in a triangle.
 
@@ -44,4 +44,4 @@ For an array of vertices named  `vertArray`, the following table shows how the  
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)

@@ -27,4 +27,4 @@ Gets or sets the width, in points, of the shapes within the range. Read/write  *
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Profile.Delete Method (Project)
 
-Deletes an account profile from the  **[Profiles](profiles-object-project.md)** collection in Project.
+Deletes an account profile from the  **[Profiles](Project.profiles.md)** collection in Project.
 
 
 ## Syntax

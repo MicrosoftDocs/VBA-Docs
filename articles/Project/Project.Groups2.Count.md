@@ -31,5 +31,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[Groups2 Collection Object](groups2-object-project.md)
+[Groups2 Collection Object](Project.groups2.md)
 

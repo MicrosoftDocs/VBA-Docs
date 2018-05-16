@@ -34,4 +34,4 @@ Gets a single  **Profile** object from the **Profiles** collection. Read-only **
 #### Concepts
 
 
-[Profiles Collection Object](profiles-object-project.md)
+[Profiles Collection Object](Project.profiles.md)

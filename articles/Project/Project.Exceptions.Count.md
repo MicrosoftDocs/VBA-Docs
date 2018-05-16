@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exceptions.Count Property (Project)
 
-Gets the number of  **[Exception](exceptions-object-project.md)** objects in the calendar **Exceptions** collection. Read-only **Long**.
+Gets the number of  **[Exception](Project.exceptions.md)** objects in the calendar **Exceptions** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -31,4 +31,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 #### Concepts
 
 
-[Exceptions Collection Object](exceptions-object-project.md)
+[Exceptions Collection Object](Project.exceptions.md)

@@ -31,5 +31,5 @@ The  **Index** properties of different objects are used in similar ways. For an 
 #### Concepts
 
 
-[WorkWeek Object](workweek-object-project.md)
+[WorkWeek Object](Project.WorkWeek.md)
 

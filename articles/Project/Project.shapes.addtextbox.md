@@ -88,7 +88,7 @@ End Sub
 #### Other resources
 
 
-[Shapes Object](shapes-object-project.md)
-[Shape Object](shape-object-project.md)
-[TextFrame2 Property](shape-textframe2-property-project.md)
+[Shapes Object](Project.shapes.md)
+[Shape Object](Project.shape.md)
+[TextFrame2 Property](Project.shape.textframe2.md)
 [MsoTextOrientation Enumeration (Office)](http://msdn.microsoft.com/en-us/library/office/ff862778%28v=office.15%29)

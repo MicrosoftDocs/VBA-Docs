@@ -27,5 +27,5 @@ Gets the number of connection sites on the shape. Read-only  **Long**.
 #### Other resources
 
 
-[Shape Object](shape-object-project.md)
-[AddConnector Method](shapes-addconnector-method-project.md)
+[Shape Object](Project.shape.md)
+[AddConnector Method](Project.shapes.addconnector.md)

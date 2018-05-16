@@ -34,4 +34,4 @@ Gets a single  **Group** object from the **Groups** collection. Read-only **Grou
 #### Concepts
 
 
-[Groups Collection Object](groups-object-project.md)
+[Groups Collection Object](Project.groups.md)

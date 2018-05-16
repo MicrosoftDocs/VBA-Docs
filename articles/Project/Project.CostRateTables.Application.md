@@ -26,4 +26,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 #### Concepts
 
 
-[CostRateTables Collection Object](costratetables-object-project.md)
+[CostRateTables Collection Object](Project.costratetables.md)

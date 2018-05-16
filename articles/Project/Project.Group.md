@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group Object (Project)
 
-Represents a group definition. A  **Group** object is a member of the **[ResourceGroups](resourcegroups-object-project.md)** collection or the **[TaskGroups](Project.taskgroups(object).md)** collection.
+Represents a group definition. A  **Group** object is a member of the **[ResourceGroups](Project.resourcegroups(object).md)** collection or the **[TaskGroups](Project.taskgroups(object).md)** collection.
  
 
 

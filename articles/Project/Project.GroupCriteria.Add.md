@@ -51,4 +51,4 @@ Adds a  **GroupCriterion** object to a **GroupCriteria** collection.
 #### Concepts
 
 
-[GroupCriteria Collection Object](groupcriteria-object-project.md)
+[GroupCriteria Collection Object](Project.groupcriteria.md)

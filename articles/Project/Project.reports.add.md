@@ -34,7 +34,7 @@ The custom report object that is added.
 
 ## Remarks
 
-The new report is empty; it does not contain any shapes such as tables or charts. To add shapes to the report, you can use methods in the  **[Shapes](shapes-object-project.md)** object such as **AddChart** and **AddTable**.
+The new report is empty; it does not contain any shapes such as tables or charts. To add shapes to the report, you can use methods in the  **[Shapes](Project.shapes.md)** object such as **AddChart** and **AddTable**.
 
 
 ## Examples
@@ -77,6 +77,6 @@ End Sub
 #### Other resources
 
 
-[Reports Object](reports-object-project.md)
-[Report Object](report-object-project.md)
-[Shapes](shapes-object-project.md)
+[Reports Object](Project.reports.md)
+[Report Object](Project.report.md)
+[Shapes](Project.shapes.md)

@@ -40,5 +40,5 @@ Makes a copy of a group definition from the  **Groups2** collection and returns 
 #### Concepts
 
 
-[Groups2 Collection Object](groups2-object-project.md)
+[Groups2 Collection Object](Project.groups2.md)
 

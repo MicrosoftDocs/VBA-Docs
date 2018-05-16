@@ -52,7 +52,7 @@ Modifies the properties and formatting of a chart.
 
 ## Remarks
 
-You can use the  **ChartWizard** method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties. The[AutoFormat](chart-autoformat-method-project.md) method can do the same job as a call to **ChartWizard** that uses only the _varGallery_ and _varFormat_ parameters.
+You can use the  **ChartWizard** method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties. The[AutoFormat](Project.chart.autoformat.md) method can do the same job as a call to **ChartWizard** that uses only the _varGallery_ and _varFormat_ parameters.
 
 If the  _Source_ parameter is omitted and the selection isn't an embedded chart on the active report, or the active report does not contain a chart, the **ChartWizard** method fails and an error occurs.
 
@@ -81,5 +81,5 @@ End Sub
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
-[AutoFormat Method](chart-autoformat-method-project.md)
+[Chart Object](Project.chart.md)
+[AutoFormat Method](Project.chart.autoformat.md)

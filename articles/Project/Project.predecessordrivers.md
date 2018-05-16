@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # PredecessorDrivers Object (Project)
 
-The  **PredecessorDrivers** object is a collection of **[TaskDependency](taskdependency-object-project.md)** objects that affect a task start date.
+The  **PredecessorDrivers** object is a collection of **[TaskDependency](Project.TaskDependency.md)** objects that affect a task start date.
  
 
 

@@ -21,7 +21,7 @@ Gets the name of the data series on a chart. Read-only  **String**.
 
 ## Remarks
 
-For a code example that uses the  **Name** property, see the **[Series](series-object-project.md)** object.
+For a code example that uses the  **Name** property, see the **[Series](Project.series.md)** object.
 
 
 ## See also
@@ -30,4 +30,4 @@ For a code example that uses the  **Name** property, see the **[Series](series-o
 #### Other resources
 
 
-[Series Object](series-object-project.md)
+[Series Object](Project.series.md)

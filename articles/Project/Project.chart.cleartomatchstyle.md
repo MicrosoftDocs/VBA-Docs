@@ -32,5 +32,5 @@ Use the  **ClearToMatchSyle** method to reset the formatting of all chart elemen
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
-[ClearToMatchColorStyle](chart-cleartomatchcolorstyle-method-project.md)
+[Chart Object](Project.chart.md)
+[ClearToMatchColorStyle](Project.chart.cleartomatchcolorstyle.md)

@@ -34,4 +34,4 @@ Gets a single  **Assignment** object from the **Assignments** collection. Read-o
 #### Concepts
 
 
-[Assignments Collection Object](assignments-object-project.md)
+[Assignments Collection Object](Project.assignments.md)

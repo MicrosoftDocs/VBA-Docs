@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ReportTemplates.Item Property (Project)
 
-Gets a single  **ReportTemplate** object from a **[ReportTemplates](reporttemplates-object-project.md)** collection. Read-only **ReportTemplate**.
+Gets a single  **ReportTemplate** object from a **[ReportTemplates](Project.reporttemplates.md)** collection. Read-only **ReportTemplate**.
 
 
 ## Syntax
@@ -34,4 +34,4 @@ Gets a single  **ReportTemplate** object from a **[ReportTemplates](reporttempla
 #### Concepts
 
 
-[ReportTemplates Collection Object](reporttemplates-object-project.md)
+[ReportTemplates Collection Object](Project.reporttemplates.md)

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  
 
-Represents a local outline code in Project. The  **OutlineCode** object is a member of the **[OutlineCodes](outlinecodes-object-project.md)** collection.
+Represents a local outline code in Project. The  **OutlineCode** object is a member of the **[OutlineCodes](Project.outlinecodes(object).md)** collection.
  
  **Using the OutlineCode Object**
  

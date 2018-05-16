@@ -34,4 +34,4 @@ Distributes the columns of a selected table in a report, so that all columns are
 #### Other resources
 
 
-[Shape.Select Method](shape-select-method-project.md)
+[Shape.Select Method](Project.shape.select.md)

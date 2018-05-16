@@ -27,5 +27,5 @@ Gets callout formatting properties for the shape range, when the  **ShapeRange**
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)
 [CalloutFormat Object](http://msdn.microsoft.com/en-us/library/office/ff839772%28v=office.15%29)

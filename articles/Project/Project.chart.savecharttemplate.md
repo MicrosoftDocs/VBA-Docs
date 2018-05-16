@@ -59,5 +59,5 @@ End Sub
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
-[SetDefaultChart Method](chart-setdefaultchart-method-project.md)
+[Chart Object](Project.chart.md)
+[SetDefaultChart Method](Project.chart.setdefaultchart.md)

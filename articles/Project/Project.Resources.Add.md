@@ -40,4 +40,4 @@ Adds a  **Resource** object to a **Resources** collection.
 #### Concepts
 
 
-[Resources Collection Object](resources-object-project.md)
+[Resources Collection Object](Project.resources(object).md)

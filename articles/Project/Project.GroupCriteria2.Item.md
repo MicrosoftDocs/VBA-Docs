@@ -34,5 +34,5 @@ Gets a single item from a collection. Read-only  **GroupCriterion2**.
 #### Concepts
 
 
-[GroupCriteria2 Collection Object](groupcriteria2-object-project.md)
+[GroupCriteria2 Collection Object](Project.groupcriteria2.md)
 

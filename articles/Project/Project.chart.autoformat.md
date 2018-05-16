@@ -34,7 +34,7 @@ Changes the chart to a default format for another chart type.
 
 ## Remarks
 
-The [ChartWizard](chart-chartwizard-method-project.md) method can do the same job as the **AutoFormat** method, although **ChartWizard** has more options.
+The [ChartWizard](Project.chart.chartwizard.md) method can do the same job as the **AutoFormat** method, although **ChartWizard** has more options.
 
 
 ## Example
@@ -61,5 +61,5 @@ End Sub
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
-[ChartWizard Method](chart-chartwizard-method-project.md)
+[Chart Object](Project.chart.md)
+[ChartWizard Method](Project.chart.chartwizard.md)

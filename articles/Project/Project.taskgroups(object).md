@@ -43,7 +43,7 @@ Next tg
 MsgBox tGroups
 ```
 
-Use the  **[Add](taskgroups-add-method-project.md)** method to add a **Group** object to the **TaskGroups** collection. The following example creates a new group that groups tasks by whether they are overallocated and then modifies the criterion so that overallocated tasks are sorted in descending order.
+Use the  **[Add](Project.TaskGroups.Add.md)** method to add a **Group** object to the **TaskGroups** collection. The following example creates a new group that groups tasks by whether they are overallocated and then modifies the criterion so that overallocated tasks are sorted in descending order.
  
 
  
@@ -62,8 +62,8 @@ ActiveProject.TaskGroups("Overallocated Tasks").GroupCriteria(1).Ascending = Fal
 
 |**Name**|
 |:-----|
-|[Add](taskgroups-add-method-project.md)|
-|[Copy](taskgroups-copy-method-project.md)|
+|[Add](Project.TaskGroups.Add.md)|
+|[Copy](Project.TaskGroups.Copy.md)|
 
 ## Properties
 
@@ -71,8 +71,8 @@ ActiveProject.TaskGroups("Overallocated Tasks").GroupCriteria(1).Ascending = Fal
 
 |**Name**|
 |:-----|
-|[Application](taskgroups-application-property-project.md)|
-|[Count](taskgroups-count-property-project.md)|
-|[Item](taskgroups-item-property-project.md)|
+|[Application](Project.TaskGroups.Application.md)|
+|[Count](Project.TaskGroups.Count.md)|
+|[Item](Project.TaskGroups.Item.md)|
 |[Parent](taskgroups-parent-property-project.md)|
 

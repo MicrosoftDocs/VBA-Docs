@@ -31,5 +31,5 @@ Application
 #### Concepts
 
 
-[ResourceGroups2 Collection Object](resourcegroups2-object-project.md)
+[ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 

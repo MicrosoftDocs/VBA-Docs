@@ -48,6 +48,6 @@ End With
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
-[AddConnector Method](shapes-addconnector-method-project.md)
+[ShapeRange Object](Project.shaperange.md)
+[AddConnector Method](Project.shapes.addconnector.md)
 [ConnectorFormat Object](http://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)

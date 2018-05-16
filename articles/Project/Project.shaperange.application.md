@@ -27,4 +27,4 @@ Gets the [Application Object (Project)](application-object-project.md) object. R
 #### Other resources
 
 
-[ShapeRange Object](shaperange-object-project.md)
+[ShapeRange Object](Project.shaperange.md)

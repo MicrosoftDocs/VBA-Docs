@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ResourceGroups Property (Project)
 
-Gets a  **[ResourceGroups](resourcegroups-object-project.md)** collection that contains all the resource-based group definitions in the project. Read-only **ResourceGroups**.
+Gets a  **[ResourceGroups](Project.resourcegroups(object).md)** collection that contains all the resource-based group definitions in the project. Read-only **ResourceGroups**.
 
 
 ## Syntax

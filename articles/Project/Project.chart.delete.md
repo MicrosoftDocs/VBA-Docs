@@ -58,5 +58,5 @@ End Sub
 #### Other resources
 
 
-[Chart Object](chart-object-project.md)
-[Report.Delete Method](report-delete-method-project.md)
+[Chart Object](Project.chart.md)
+[Report.Delete Method](Project.report.delete.md)

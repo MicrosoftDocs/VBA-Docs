@@ -40,4 +40,4 @@ Adds a  **Group** object to a **Groups** collection.
 #### Concepts
 
 
-[Groups Collection Object](groups-object-project.md)
+[Groups Collection Object](Project.groups.md)

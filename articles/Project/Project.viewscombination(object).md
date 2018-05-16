@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ViewsCombination Object (Project)
 
-Contains a collection of  **[ViewCombination](viewcombination-object-project.md)** objects.
+Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** objects.
  
 
 
@@ -18,8 +18,8 @@ Contains a collection of  **[ViewCombination](viewcombination-object-project.md)
 
 |**Name**|
 |:-----|
-|[Add](viewscombination-add-method-project.md)|
-|[Copy](viewscombination-copy-method-project.md)|
+|[Add](Project.ViewsCombination.Add.md)|
+|[Copy](Project.ViewsCombination.Copy.md)|
 
 ## Properties
 
@@ -27,10 +27,10 @@ Contains a collection of  **[ViewCombination](viewcombination-object-project.md)
 
 |**Name**|
 |:-----|
-|[Application](viewscombination-application-property-project.md)|
-|[Count](viewscombination-count-property-project.md)|
-|[Item](viewscombination-item-property-project.md)|
-|[Parent](viewscombination-parent-property-project.md)|
+|[Application](Project.ViewsCombination.Application.md)|
+|[Count](Project.ViewsCombination.Count.md)|
+|[Item](Project.ViewsCombination.Item.md)|
+|[Parent](Project.ViewsCombination.Parent.md)|
 
 ## See also
 
