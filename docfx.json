@@ -41,10 +41,10 @@
     "fileMetadata": {
       "ms.topic":
        {
-         "articles/**.md": "conference",
-		 "conceptual/**.md": "conceptual"
+         "articles/**.md": "reference",
+         "conceptuals/**.md": "conceptual"
        }
-	},
+    },
     "template": [],
     "dest": "VBA-Docs",
     "markdownEngineName": "markdig"
