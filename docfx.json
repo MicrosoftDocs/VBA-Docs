@@ -35,10 +35,16 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/VBA/breadcrumb/toc.json",
+      "breadcrumb_path": "/breadcrumb/toc.yml",
       "extendBreadcrumb": true
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "ms.topic":
+       {
+         "articles/**.md": "conference",
+		 "conceptual/**.md": "conceptual"
+       }
+	},
     "template": [],
     "dest": "VBA-Docs",
     "markdownEngineName": "markdig"
