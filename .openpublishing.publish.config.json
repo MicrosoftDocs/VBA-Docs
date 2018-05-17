@@ -2,7 +2,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "VBA-Docs",
-      "build_source_folder": "articles",
+      "build_source_folder": ".",
       "build_output_subfolder": "VBA-Docs",
       "locale": "en-us",
       "monikers": [],
