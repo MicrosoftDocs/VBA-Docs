@@ -1,4 +1,4 @@
-# [Introduction to Outlook VBA](../../VBA-Outlook.md)
+# [Introduction to Outlook VBA](../Outlook.md)
 # Concepts
 ## Getting Started
 ### [Using Visual Basic to Automate Outlook](using-visual-basic-to-automate-outlook.md)

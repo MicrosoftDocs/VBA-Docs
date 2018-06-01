@@ -1,4 +1,4 @@
-# [Introduction to Access VBA](../../VBA-Access.md)
+# [Introduction to Access VBA](../Access.md)
 # Concepts
 ## Settings
 ### [Set References to Type Libraries](set-references-to-type-libraries.md)

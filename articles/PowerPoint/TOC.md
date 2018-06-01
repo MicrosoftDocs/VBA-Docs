@@ -1,4 +1,4 @@
-# [Introduction to PowerPoint VBA](../../VBA-PowerPoint.md)
+# [Introduction to PowerPoint VBA](../PowerPoint.md)
 # Concepts
 ## [Control and Dialog Box Events](control-and-dialog-box-events-powerpoint.md)
 ## [Language-Specific Properties and Methods](language-specific-properties-and-methods-powerpoint.md)
