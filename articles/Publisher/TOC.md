@@ -1,4 +1,4 @@
-# [Introduction to Publisher VBA](../../VBA-Publisher.md)
+# [Introduction to Publisher VBA](../Publisher.md)
 # Concepts
 ## [Returning an Object from a Collection](returning-an-object-from-a-collection-publisher.md)
 ## [Using Events with the Application Object](using-events-with-the-Publisher.Application.md)

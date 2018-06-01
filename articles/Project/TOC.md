@@ -1,4 +1,4 @@
-# [Introduction to Project VBA](../../VBA-Project.md)
+# [Introduction to Project VBA](../Project.md)
 # Concepts
 ## [Using events with Application and Project objects](using-events-with-application-and-project-objects.md)
 ## [OLE programmatic identifiers, late binding, and early binding](ole-programmatic-identifiers-late-binding-and-early-binding-project.md)

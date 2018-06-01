@@ -36,13 +36,33 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/breadcrumb/toc.yml",
-      "extendBreadcrumb": true
+      "extendBreadcrumb": true,
+	  "ms.suite": "office",
+	  "ms.technology": "vba",
+	  "ms.author": "o365devx",
+	  "author": "o365devx",
+	  "ms.topic": "reference"
     },
     "fileMetadata": {
       "ms.topic":
        {
          "articles/**.md": "reference",
          "conceptuals/**.md": "conceptual"
+       },
+	   "ms.prod": 
+       { 
+         "articles/Access/**.md": "access",
+         "articles/Excel/**.md": "excel",
+         "articles/Outlook/**.md": "outlook",
+         "articles/PowerPoint/**.md": "powerpoint",
+         "articles/Project/**.md": "project",
+         "articles/Publisher/**.md": "publisher",
+         "articles/Visio/**.md": "visio",
+         "articles/Word/**.md": "word",
+         "articles/Language-Reference/**.md": "office",
+         "articles/Office-F1-Landing/**.md": "office",
+         "articles/Office-Mac/**.md": "office",
+         "articles/Office-Shared/**.md": "office"
        }
     },
     "template": [],

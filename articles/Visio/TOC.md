@@ -1,4 +1,4 @@
-# [Introduction to Visio VBA](../../VBA-Visio.md)
+# [Introduction to Visio VBA](../Visio.md)
 # Concepts
 ## [About Automation](about-automation-visio.md)
 ## [About Connecting to Data in Visio](about-connecting-to-data-in-visio.md)

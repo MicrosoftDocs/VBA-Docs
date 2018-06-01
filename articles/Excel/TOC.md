@@ -1,4 +1,4 @@
-# [Introduction to Excel VBA](../../VBA-Excel.md)
+# [Introduction to Excel VBA](../Excel.md)
 # Concepts
 ## [About the PowerPivot Model Object in Excel](about-the-powerpivot-model-object-in-excel.md)
 ## [About coauthoring](about-coauthoring-in-excel.md)

@@ -1,4 +1,4 @@
-# [Introduction to Word VBA](../../VBA-Word.md)
+# [Introduction to Word VBA](../Word.md)
 # Concepts
 ## Customizing Word
 ### [Adding Controls to a Document](adding-controls-to-a-document.md)
