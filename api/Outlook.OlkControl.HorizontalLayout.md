@@ -26,8 +26,5 @@ Returns or sets an  **[OlHorizontalLayout](Outlook.OlHorizontalLayout.md)** cons
 ## See also
 
 
-#### Concepts
-
-
 [OlkControl Class](Outlook.olkcontrol.md)
 

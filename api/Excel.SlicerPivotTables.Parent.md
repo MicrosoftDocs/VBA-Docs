@@ -26,8 +26,5 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object that is the parent o
 ## See also
 
 
-#### Concepts
-
-
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 

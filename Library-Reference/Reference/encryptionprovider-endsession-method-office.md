@@ -39,9 +39,6 @@ During a save operation, the  **CloneSession** method is called by your COM add-
 ## See also
 
 
-#### Concepts
-
-
 [EncryptionProvider Object](encryptionprovider-object-office.md)
 #### Other resources
 

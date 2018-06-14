@@ -86,8 +86,5 @@ Selection.Characters(1).Borders.Enable = True
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection Object](Word.borders.md)
 

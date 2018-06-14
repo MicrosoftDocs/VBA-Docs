@@ -39,8 +39,5 @@ Variable
 ## See also
 
 
-#### Concepts
-
-
 [Variables Collection Object](Word.variables.md)
 

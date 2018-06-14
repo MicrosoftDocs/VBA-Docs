@@ -81,9 +81,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CommandBars Object](commandbars-object-office.md)
 #### Other resources
 

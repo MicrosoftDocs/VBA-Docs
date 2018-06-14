@@ -42,8 +42,5 @@ ActiveDocument.Range.Font.StylisticSet = wdStylisticSet06
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

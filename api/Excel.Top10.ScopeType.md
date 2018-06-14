@@ -31,8 +31,5 @@ The default value is  **xlSelectionScope** , which sets the scope using the **Ap
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

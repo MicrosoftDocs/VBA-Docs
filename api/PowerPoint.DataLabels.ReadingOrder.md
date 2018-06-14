@@ -23,8 +23,5 @@ Returns or sets an  **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant 
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](PowerPoint.DataLabels.md)
 

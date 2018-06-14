@@ -57,8 +57,5 @@ To distinguish between the left, right, and middle mouse buttons, use the  **Mou
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

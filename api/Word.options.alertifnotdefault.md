@@ -34,8 +34,5 @@ The setting of  **AlertIfNotDefault** corresponds to the setting of **Tell me if
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

@@ -42,9 +42,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 [ValueChange Object](Excel.ValueChange.md)
 

@@ -155,8 +155,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Rules Object](Outlook.Rules.md)
 

@@ -38,8 +38,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TextColumn Object](Word.TextColumn.md)
 

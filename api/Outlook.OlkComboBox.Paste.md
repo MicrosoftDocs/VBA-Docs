@@ -33,8 +33,5 @@ This method does not paste anything when the control's  **[Style](Outlook.OlkCom
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

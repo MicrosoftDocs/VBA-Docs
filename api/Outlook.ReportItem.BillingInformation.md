@@ -31,8 +31,5 @@ This is a free-form text field.
 ## See also
 
 
-#### Concepts
-
-
 [ReportItem Object](Outlook.ReportItem.md)
 

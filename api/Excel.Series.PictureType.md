@@ -36,8 +36,5 @@ Charts("Chart1").SeriesCollection(1).PictureType = xlStretch
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

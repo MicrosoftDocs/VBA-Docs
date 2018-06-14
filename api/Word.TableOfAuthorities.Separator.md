@@ -45,8 +45,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 

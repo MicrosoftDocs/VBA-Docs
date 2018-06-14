@@ -41,8 +41,5 @@ Application.MailMessage.DisplayMoveDialog
 ## See also
 
 
-#### Concepts
-
-
 [MailMessage Object](Word.MailMessage.md)
 

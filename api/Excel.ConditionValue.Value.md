@@ -33,8 +33,5 @@ If the threshold type is a formula, you can set the formula as a  **String** . T
 ## See also
 
 
-#### Concepts
-
-
 [ConditionValue Object](Excel.ConditionValue.md)
 

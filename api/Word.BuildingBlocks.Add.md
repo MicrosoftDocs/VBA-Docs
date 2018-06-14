@@ -56,8 +56,5 @@ objTemplate.BuildingBlockTypes(wdTypeAutoText) _
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlocks Collection](Word.BuildingBlocks.md)
 

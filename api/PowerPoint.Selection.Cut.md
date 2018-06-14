@@ -36,8 +36,5 @@ Windows(1).Selection.Cut
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

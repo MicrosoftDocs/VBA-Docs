@@ -45,8 +45,5 @@ Selection.PageSetup.FirstPageTray = wdPrinterUpperBin
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

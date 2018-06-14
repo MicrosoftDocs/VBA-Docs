@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagSenderEmailAddress** .
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

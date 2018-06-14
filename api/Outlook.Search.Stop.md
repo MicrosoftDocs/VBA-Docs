@@ -26,8 +26,5 @@ Immediately ends the search that is being performed currently.
 ## See also
 
 
-#### Concepts
-
-
 [Search Object](Outlook.Search.md)
 

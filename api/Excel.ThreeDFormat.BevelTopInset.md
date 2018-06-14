@@ -23,8 +23,5 @@ Returns or sets a value indicating whether the top insert bevel should be raised
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

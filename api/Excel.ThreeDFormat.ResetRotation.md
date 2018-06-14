@@ -42,8 +42,5 @@ myDocument.Shapes(1).ThreeD.ResetRotation
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

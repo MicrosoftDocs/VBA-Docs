@@ -51,9 +51,6 @@ The following example lists the subfolders in the current shared workspace.
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspace Object](sharedworkspace-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the account for the contact. Read/wri
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

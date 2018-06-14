@@ -31,8 +31,5 @@ Calling this method sets the  **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsT
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

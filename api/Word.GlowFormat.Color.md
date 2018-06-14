@@ -26,8 +26,5 @@ Returns a  **[ColorFormat](Word.ColorFormat.md)** object that represents the col
 ## See also
 
 
-#### Concepts
-
-
 [GlowFormat Object](Word.GlowFormat.md)
 

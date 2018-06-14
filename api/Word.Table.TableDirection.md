@@ -42,8 +42,5 @@ Selection.Rows.TableDirection = _
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

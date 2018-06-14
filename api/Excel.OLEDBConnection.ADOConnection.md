@@ -33,8 +33,5 @@ The  **ADOConnection** property is available only for sessions where the data so
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

@@ -26,8 +26,5 @@ Removes all of the  **[TempVar](Access.TempVar.md)** objects from the **[TempVar
 ## See also
 
 
-#### Concepts
-
-
 [TempVars Collection](Access.TempVars.md)
 

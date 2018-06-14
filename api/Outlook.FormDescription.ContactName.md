@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the name of the person to contact for
 ## See also
 
 
-#### Concepts
-
-
 [FormDescription Object](Outlook.FormDescription.md)
 

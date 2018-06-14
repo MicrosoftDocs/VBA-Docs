@@ -26,8 +26,5 @@ Occurs when the  **[Value](Outlook.OlkOptionButton.Value.md)** property changes.
 ## See also
 
 
-#### Concepts
-
-
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

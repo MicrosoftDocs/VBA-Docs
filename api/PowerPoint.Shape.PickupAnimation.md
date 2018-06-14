@@ -26,8 +26,5 @@ Picks up all animation from the  **Shape** object.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

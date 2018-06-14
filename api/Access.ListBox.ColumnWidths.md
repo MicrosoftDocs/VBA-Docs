@@ -64,8 +64,5 @@ For example, the following settings are applied to a 4-inch list box with three 
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

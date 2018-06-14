@@ -60,8 +60,5 @@ MsgBox PointsToInches(sngMargin) &; " inches"
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

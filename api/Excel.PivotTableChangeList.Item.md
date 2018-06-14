@@ -34,8 +34,5 @@ Returns a single  **[ValueChange](Excel.ValueChange.md)** object from the specif
 ## See also
 
 
-#### Concepts
-
-
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 

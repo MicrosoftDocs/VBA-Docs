@@ -31,8 +31,5 @@ The parent object is the  **[RuleAction](Outlook.RuleAction.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [NewItemAlertRuleAction Object](Outlook.NewItemAlertRuleAction.md)
 

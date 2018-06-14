@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [RecentFile Object](Excel.RecentFile.md)
 

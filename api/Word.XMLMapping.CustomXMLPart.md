@@ -46,8 +46,5 @@ objNode.Text = "Mystery of the Empty Chair"
 ## See also
 
 
-#### Concepts
-
-
 [XMLMapping Object](Word.XMLMapping.md)
 

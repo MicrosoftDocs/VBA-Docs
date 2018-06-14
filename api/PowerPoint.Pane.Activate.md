@@ -26,8 +26,5 @@ Activates the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](PowerPoint.Pane.md)
 

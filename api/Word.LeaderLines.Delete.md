@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [LeaderLines Object](Word.LeaderLines.md)
 

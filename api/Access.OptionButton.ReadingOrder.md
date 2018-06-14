@@ -48,8 +48,5 @@ Forms("International Shipping").Controls("Address").ReadingOrder = 2
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

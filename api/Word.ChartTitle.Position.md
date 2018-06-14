@@ -26,8 +26,5 @@ Returns or sets the position of the chart title on the chart. Read/write  **[XlC
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](Word.ChartTitle.md)
 

@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [FreeformBuilder Object](PowerPoint.FreeformBuilder.md)
 

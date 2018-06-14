@@ -31,8 +31,5 @@ This property can have a value from 2 through 72.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Word.Point.md)
 

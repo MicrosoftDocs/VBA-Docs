@@ -51,8 +51,5 @@ currSet = ActiveDocument.PrintPostScriptOverText
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

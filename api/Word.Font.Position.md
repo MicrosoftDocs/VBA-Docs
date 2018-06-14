@@ -41,8 +41,5 @@ Selection.Font.Position = -2
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

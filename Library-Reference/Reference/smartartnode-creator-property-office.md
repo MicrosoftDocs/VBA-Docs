@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtNod
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

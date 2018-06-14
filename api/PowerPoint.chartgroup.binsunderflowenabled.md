@@ -24,8 +24,5 @@ Specifies whether a bin for values below the [ChartGroup.BinsUnderflowValue Prop
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object (PowerPoint)](chartgroup-object-powerpoint.md)
 

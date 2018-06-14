@@ -31,8 +31,5 @@ Returns the  **TextRange2** object of the current **Selection** object. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

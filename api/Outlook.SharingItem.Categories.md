@@ -31,8 +31,5 @@ Returns or sets a  **String** representing the categories assigned to the **[Sha
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -26,8 +26,5 @@ Returns a  **WrapFormat** object that contains the properties for wrapping text 
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

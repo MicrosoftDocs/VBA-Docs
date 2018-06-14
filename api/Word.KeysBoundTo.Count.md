@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of keys in the collection. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 

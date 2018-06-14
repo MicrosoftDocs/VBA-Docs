@@ -43,8 +43,5 @@ The  **RightGridlineStyle** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

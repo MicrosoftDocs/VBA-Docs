@@ -31,8 +31,5 @@ If  **True** , clicking in the margin causes selection of text. If **False** , t
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

@@ -56,8 +56,5 @@ Worksheets("Sheet1").Scenarios(1).ChangeScenario _
 ## See also
 
 
-#### Concepts
-
-
 [Scenario Object](Excel.Scenario.md)
 

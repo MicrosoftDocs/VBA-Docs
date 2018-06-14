@@ -55,8 +55,5 @@ Worksheets(1).PivotTables(1).CalculatedFields.Item(1) _
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedFields Collection](Excel.CalculatedFields.md)
 

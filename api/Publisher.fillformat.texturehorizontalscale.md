@@ -34,8 +34,5 @@ The setting of the  **TextureHorizontalScale** property corresponds to the setti
 ## See also
 
 
-#### Concepts
-
-
  [FillFormat Object](Publisher.FillFormat.md)
 

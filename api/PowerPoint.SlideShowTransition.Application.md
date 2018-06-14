@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 

@@ -41,8 +41,5 @@ This method generates a new  **SharingItem** object and sets the **Type** proper
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

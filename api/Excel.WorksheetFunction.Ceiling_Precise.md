@@ -65,8 +65,5 @@ Depending on the sign of the number and significance arguments, the  **Ceiling_P
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

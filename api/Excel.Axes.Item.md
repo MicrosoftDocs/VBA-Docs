@@ -53,8 +53,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Axes Collection](Excel.Axes(object).md)
 

@@ -40,8 +40,5 @@ The setting of the  **ObjectPalette** property makes the palette of the applicat
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

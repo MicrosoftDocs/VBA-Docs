@@ -44,8 +44,5 @@ Next prtLoop
 ## See also
 
 
-#### Concepts
-
-
 [Printer Object](Access.Printer.md)
 

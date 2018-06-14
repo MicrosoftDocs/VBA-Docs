@@ -48,8 +48,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Word.LineFormat.md)
 

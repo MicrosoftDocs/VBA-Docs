@@ -40,7 +40,4 @@ Makes a copy of a group definition for the  **Filters** collection and returns a
 ## See also
 
 
-#### Concepts
-
-
 [Filters Collection Object](Project.filters.md)

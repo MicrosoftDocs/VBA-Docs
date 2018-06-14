@@ -45,8 +45,5 @@ This method creates a new Outlook mail item based on the information stored in t
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

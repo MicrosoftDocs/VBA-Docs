@@ -26,8 +26,5 @@ Returns a  **[Border](Excel.Border(objec).md)** object that represents the borde
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](Excel.DataTable(objec).md)
 

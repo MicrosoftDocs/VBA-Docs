@@ -31,7 +31,4 @@ Gets a single  **TaskDependency** object from the **TaskDependencies** collectio
 ## See also
 
 
-#### Concepts
-
-
 [TaskDependencies Collection Object](Project.taskdependencies.md)

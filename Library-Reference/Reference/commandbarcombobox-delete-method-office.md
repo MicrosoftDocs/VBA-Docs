@@ -31,9 +31,6 @@ Deletes  **CommandBarCombo** control object from its collection.
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

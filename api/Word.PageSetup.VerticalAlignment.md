@@ -53,8 +53,5 @@ myDoc.PageSetup.VerticalAlignment = wdAlignVerticalJustify
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

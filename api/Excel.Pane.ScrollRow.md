@@ -42,8 +42,5 @@ ActiveWindow.ScrollRow = 10
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Excel.Pane.md)
 

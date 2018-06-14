@@ -40,8 +40,5 @@ If the navigation folder has been removed from the Navigation Pane, then this pr
 ## See also
 
 
-#### Concepts
-
-
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 

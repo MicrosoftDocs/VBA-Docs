@@ -26,8 +26,5 @@ Returns a  **Chart** object that represents a chart within the collection of sha
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

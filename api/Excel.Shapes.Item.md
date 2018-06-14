@@ -55,8 +55,5 @@ ss.Item(2).OnAction = "ShapeAction"
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

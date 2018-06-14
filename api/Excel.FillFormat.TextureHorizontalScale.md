@@ -23,8 +23,5 @@ Returns or sets the value for horizontally scaling the text for the  **FillForma
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

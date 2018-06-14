@@ -54,8 +54,5 @@ Application.ActivePresentation.Slides(1).Shapes.Title _
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](PowerPoint.Font.md)
 

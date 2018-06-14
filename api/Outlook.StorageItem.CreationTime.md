@@ -26,8 +26,5 @@ Returns a  **DateTime** value that indicates the creation time for the **[Storag
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](Outlook.StorageItem.md)
 

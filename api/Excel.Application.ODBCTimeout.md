@@ -41,8 +41,5 @@ Application.ODBCTimeout = 15
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

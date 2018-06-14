@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 

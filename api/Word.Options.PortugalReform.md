@@ -34,8 +34,5 @@ Setting this property has the same effect as selecting an item in the dropdown b
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

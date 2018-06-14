@@ -39,8 +39,5 @@ Returns an equivalent interest rate for the growth of an investment.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

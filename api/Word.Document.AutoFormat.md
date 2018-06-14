@@ -31,8 +31,5 @@ Use the  **Kind** property to specify a document type.
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

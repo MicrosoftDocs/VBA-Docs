@@ -36,8 +36,5 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.RoundedCorners = True
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](Excel.ChartArea(objec).md)
 

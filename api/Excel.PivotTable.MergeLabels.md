@@ -36,8 +36,5 @@ Worksheets(1).PivotTables(1).MergeLabels = True
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

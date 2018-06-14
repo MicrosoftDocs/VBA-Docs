@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Cont
 ## See also
 
 
-#### Concepts
-
-
 [ContentControlListEntry Object](Word.ContentControlListEntry.md)
 

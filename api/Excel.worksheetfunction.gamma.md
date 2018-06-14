@@ -37,8 +37,5 @@ Returns the Gamma function value.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

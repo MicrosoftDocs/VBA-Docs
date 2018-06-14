@@ -31,8 +31,5 @@ The setting of the  **TopPadding** property for a single cell overrides the sett
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Word.TableStyle.md)
 

@@ -26,8 +26,5 @@ Indicates that a range of shapes has been flipped horizontally. Read-only  **Mso
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

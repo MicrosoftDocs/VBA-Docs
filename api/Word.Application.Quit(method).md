@@ -60,8 +60,5 @@ If intResponse = vbYes Then Application.Quit _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

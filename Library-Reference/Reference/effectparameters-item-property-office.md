@@ -31,9 +31,6 @@ Retrieves a  **EffectParameter** object at the specified index or with the speci
 ## See also
 
 
-#### Concepts
-
-
 [EffectParameters Object](effectparameters-object-office.md)
 #### Other resources
 

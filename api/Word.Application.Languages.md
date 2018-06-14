@@ -63,8 +63,5 @@ Next langLoop
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

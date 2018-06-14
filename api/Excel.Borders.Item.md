@@ -61,8 +61,5 @@ Worksheets("Sheet1").Range("a1:g1"). _
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection](Excel.Borders.md)
 

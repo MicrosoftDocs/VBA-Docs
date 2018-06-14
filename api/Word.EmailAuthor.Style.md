@@ -38,8 +38,5 @@ Msgbox MyEmailStyle.Font.Name
 ## See also
 
 
-#### Concepts
-
-
 [EmailAuthor Object](Word.EmailAuthor.md)
 

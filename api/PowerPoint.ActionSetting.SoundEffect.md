@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ActionSetting Object](PowerPoint.ActionSetting.md)
 

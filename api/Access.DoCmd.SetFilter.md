@@ -55,8 +55,5 @@ DoCmd.SetFilter WhereCondition:="[Product Code] Like ""NWTB*"""
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

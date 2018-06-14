@@ -26,8 +26,5 @@ Retuns a new connection for the specified  **XMLMap** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

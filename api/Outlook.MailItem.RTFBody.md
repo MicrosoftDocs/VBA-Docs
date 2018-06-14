@@ -86,8 +86,5 @@ private void GetRTFBodyForMail()
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

@@ -43,8 +43,5 @@ Worksheets(1).Hyperlinks(1).EmailSubject = "Quote Request"
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

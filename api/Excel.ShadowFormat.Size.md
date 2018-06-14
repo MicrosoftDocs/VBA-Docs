@@ -26,8 +26,5 @@ Returns or sets the size of the specified shadow. Read/write  **Single** .
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Excel.ShadowFormat.md)
 

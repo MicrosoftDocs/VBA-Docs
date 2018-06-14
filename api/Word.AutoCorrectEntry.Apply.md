@@ -54,8 +54,5 @@ AutoCorrect.Entries("sr").Apply ActiveDocument.Words(1)
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 

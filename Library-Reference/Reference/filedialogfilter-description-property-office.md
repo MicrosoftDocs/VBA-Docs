@@ -59,9 +59,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [FileDialogFilter Object](filedialogfilter-object-office.md)
 #### Other resources
 

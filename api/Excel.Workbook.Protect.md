@@ -36,8 +36,5 @@ Protects a workbook so that it cannot be modified.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

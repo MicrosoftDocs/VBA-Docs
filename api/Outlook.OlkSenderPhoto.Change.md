@@ -31,8 +31,5 @@ The change of the sender's contact picture usually means that the  **[PreferredW
 ## See also
 
 
-#### Concepts
-
-
 [OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 

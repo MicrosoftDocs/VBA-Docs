@@ -44,8 +44,5 @@ If ActivePresentation.Fonts(1).Embedded = True Then
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

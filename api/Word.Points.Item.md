@@ -55,8 +55,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Points Object](Word.Points.md)
 

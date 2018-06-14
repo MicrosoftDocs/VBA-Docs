@@ -46,8 +46,5 @@ In Datasheet view or Print Preview, changes made using the  **Move** method are 
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

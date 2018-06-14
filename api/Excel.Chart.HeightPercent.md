@@ -36,8 +36,5 @@ Charts("Chart1").HeightPercent = 80
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -41,8 +41,5 @@ Options.DisplayGridLines = Not Options.DisplayGridLines
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

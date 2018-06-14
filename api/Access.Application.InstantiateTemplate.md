@@ -34,8 +34,5 @@ Opens a new database and applies the specified template.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

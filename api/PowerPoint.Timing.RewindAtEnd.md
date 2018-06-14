@@ -73,8 +73,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Timing Object](PowerPoint.Timing.md)
 

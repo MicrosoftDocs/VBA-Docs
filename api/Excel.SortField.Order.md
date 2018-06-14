@@ -26,8 +26,5 @@ Determines the sort order for the values specified in the key. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

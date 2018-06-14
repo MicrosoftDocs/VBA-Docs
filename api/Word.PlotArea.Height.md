@@ -26,8 +26,5 @@ Returns or sets the height, in points, of the object. Read/write  **Double** .
 ## See also
 
 
-#### Concepts
-
-
 [PlotArea Object](Word.PlotArea.md)
 

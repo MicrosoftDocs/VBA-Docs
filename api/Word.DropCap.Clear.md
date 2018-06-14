@@ -37,8 +37,5 @@ If Not (drop Is Nothing) Then drop.Clear
 ## See also
 
 
-#### Concepts
-
-
 [DropCap Object](Word.DropCap.md)
 

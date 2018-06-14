@@ -64,8 +64,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](PowerPoint.Options.md)
 

@@ -26,8 +26,5 @@ Returns a  **Categories** collection that represents the categories for a buildi
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlockType Object](Word.BuildingBlockType.md)
 

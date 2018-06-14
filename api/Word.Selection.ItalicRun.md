@@ -41,8 +41,5 @@ Selection.ItalicRun
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

@@ -36,8 +36,5 @@ The  **BevelBottomType** property value can be one of the **[MsoBevelType](http:
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 

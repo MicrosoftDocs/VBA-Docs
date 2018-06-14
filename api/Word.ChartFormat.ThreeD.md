@@ -26,8 +26,5 @@ Returns the 3-D-effect formatting properties for the specified chart. Read-only 
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Word.ChartFormat.md)
 

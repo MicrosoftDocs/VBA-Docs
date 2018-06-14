@@ -42,8 +42,5 @@ Forms(0).After Insert = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

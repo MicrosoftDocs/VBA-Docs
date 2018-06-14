@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of list levels in the collection.
 ## See also
 
 
-#### Concepts
-
-
 [ListLevels Collection Object](Word.listlevels.md)
 

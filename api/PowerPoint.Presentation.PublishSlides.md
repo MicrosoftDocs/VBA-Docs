@@ -35,8 +35,5 @@ Creates a Web presentation (in HTML format) containing slides from any loaded pr
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

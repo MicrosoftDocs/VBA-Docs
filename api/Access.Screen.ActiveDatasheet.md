@@ -76,8 +76,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Screen Object](Access.Screen.md)
 

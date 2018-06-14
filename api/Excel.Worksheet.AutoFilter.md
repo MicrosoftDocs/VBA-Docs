@@ -46,8 +46,5 @@ Set returnValue = Worksheet1.AutoFilter
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

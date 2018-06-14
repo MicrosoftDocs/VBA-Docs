@@ -42,8 +42,5 @@ OMathFunction
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunctions Collection](Word.OMathFunctions.md)
 

@@ -31,8 +31,5 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

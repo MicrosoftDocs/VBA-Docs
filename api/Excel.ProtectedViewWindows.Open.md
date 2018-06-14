@@ -58,8 +58,5 @@ ProtectedViewWindows.Open FileName:="C:\MyFiles\MyWorkbook.xls"
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindows Object](Excel.ProtectedViewWindows.md)
 

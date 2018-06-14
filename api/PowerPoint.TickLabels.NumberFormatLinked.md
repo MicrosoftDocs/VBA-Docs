@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](PowerPoint.TickLabels.md)
 

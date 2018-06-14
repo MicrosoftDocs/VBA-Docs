@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("OK").OnLostFocus
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

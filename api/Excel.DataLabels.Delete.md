@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](Excel.DataLabels(object).md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [LeaderLines Object](Excel.LeaderLines(objec).md)
 

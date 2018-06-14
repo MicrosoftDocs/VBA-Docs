@@ -26,8 +26,5 @@ This property should not be used. Sound notes have been removed from Microsoft E
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

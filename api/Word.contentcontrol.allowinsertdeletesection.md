@@ -34,8 +34,5 @@ You can use this property only with repeating section content controls. Using it
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

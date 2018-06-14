@@ -60,9 +60,6 @@ Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLPart Object](customxmlpart-object-office.md)
 #### Other resources
 

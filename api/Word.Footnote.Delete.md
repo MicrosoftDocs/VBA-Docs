@@ -26,8 +26,5 @@ Deletes the specified footnote.
 ## See also
 
 
-#### Concepts
-
-
 [Footnote Object](Word.Footnote.md)
 

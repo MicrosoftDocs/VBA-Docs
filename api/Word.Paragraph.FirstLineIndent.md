@@ -47,8 +47,5 @@ ActiveDocument.Paragraphs(2).FirstLineIndent = _
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

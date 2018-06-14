@@ -26,8 +26,5 @@ Returns the name of an add-in. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](Word.AddIn.md)
 

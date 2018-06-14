@@ -43,8 +43,5 @@ ActiveDocument.WebOptions.RelyOnVML = False
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Word.WebOptions.md)
 

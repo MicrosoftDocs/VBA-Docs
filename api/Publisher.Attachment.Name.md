@@ -31,8 +31,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
  [Attachment Object](Publisher.Attachment.md)
 

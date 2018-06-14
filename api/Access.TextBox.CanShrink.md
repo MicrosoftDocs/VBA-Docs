@@ -57,8 +57,5 @@ When you use the  **CanShrink** property, remember that:
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

@@ -31,8 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-#### Concepts
-
-
 [FreeformBuilder Object](Excel.FreeformBuilder.md)
 

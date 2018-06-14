@@ -39,8 +39,5 @@ StyleSheet
 ## See also
 
 
-#### Concepts
-
-
 [StyleSheets Collection](Word.StyleSheets.md)
 

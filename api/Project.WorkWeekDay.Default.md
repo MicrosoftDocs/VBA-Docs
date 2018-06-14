@@ -33,7 +33,4 @@ Applying the  **Default** method to a base calendar resets the properties to the
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeekDay Object](Project.WorkWeekDay.md)

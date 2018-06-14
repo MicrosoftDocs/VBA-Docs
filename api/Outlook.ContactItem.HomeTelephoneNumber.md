@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the first home telephone number for t
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

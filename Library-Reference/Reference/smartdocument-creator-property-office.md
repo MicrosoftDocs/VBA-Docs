@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [SmartDocument Object](smartdocument-object-office.md)
 #### Other resources
 

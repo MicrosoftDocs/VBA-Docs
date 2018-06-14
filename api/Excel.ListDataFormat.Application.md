@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ListDataFormat Object](Excel.ListDataFormat.md)
 

@@ -59,9 +59,6 @@ strNamespacePrefix = objCustomPrefixMappings.LookupPrefix("urn:invoice:namespace
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLPrefixMappings Object](customxmlprefixmappings-object-office.md)
 #### Other resources
 

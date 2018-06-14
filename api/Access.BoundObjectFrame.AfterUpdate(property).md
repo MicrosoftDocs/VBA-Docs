@@ -42,8 +42,5 @@ Forms(0).AfterUpdate = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

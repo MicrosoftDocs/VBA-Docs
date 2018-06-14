@@ -26,8 +26,5 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object that is the parent o
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevels Object](Excel.SlicerCacheLevels.md)
 

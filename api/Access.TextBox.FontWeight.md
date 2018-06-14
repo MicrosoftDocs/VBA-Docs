@@ -117,8 +117,5 @@ Forms!Products.DatasheetFontWeight = 500
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

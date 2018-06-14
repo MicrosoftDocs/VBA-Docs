@@ -44,8 +44,5 @@ If you want to convert the result from radians to degrees, multiply it by 180/PI
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

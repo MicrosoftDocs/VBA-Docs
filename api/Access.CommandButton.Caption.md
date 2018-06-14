@@ -38,8 +38,5 @@ Include two ampersands (&;&;) in the setting for a caption if you want to displa
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

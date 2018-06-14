@@ -26,8 +26,5 @@ Synonym for  **[Borders.LineStyle](Excel.Borders.LineStyle.md)** .
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperty Object](Excel.CustomProperty.md)
 

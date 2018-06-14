@@ -23,8 +23,5 @@ Gets or sets the finish date of a work week represented by the **WorkWeek** obje
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeek Object](Project.WorkWeek.md)
 

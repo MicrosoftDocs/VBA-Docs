@@ -69,8 +69,5 @@ DoCmd.CopySQLDatabaseFile _
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

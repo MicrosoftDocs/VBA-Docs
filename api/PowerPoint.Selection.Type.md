@@ -43,8 +43,5 @@ The value of the  **Type** property can be one of these **PpSelectionType** cons
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

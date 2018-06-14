@@ -40,8 +40,5 @@ The user interface settings that correspond to the setting of the  **CrossFilter
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

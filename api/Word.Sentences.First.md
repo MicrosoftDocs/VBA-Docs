@@ -26,8 +26,5 @@ Returns a  **[Range](Word.Range.md)** object that represents the first sentence 
 ## See also
 
 
-#### Concepts
-
-
 [Sentences Collection Object](Word.sentences.md)
 

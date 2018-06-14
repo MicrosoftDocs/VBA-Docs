@@ -26,8 +26,5 @@ Returns or sets an  **Integer** that represents the beginning delimiter characte
 ## See also
 
 
-#### Concepts
-
-
 [OMathDelim Object](Word.OMathDelim.md)
 

@@ -38,7 +38,4 @@ Adds a  **WorkWeek** object to a **WorkWeeks** collection.
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeeks Collection Object](Project.workweeks.md)

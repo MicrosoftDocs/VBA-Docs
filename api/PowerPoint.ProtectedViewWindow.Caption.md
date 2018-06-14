@@ -26,8 +26,5 @@ Returns the text that appears in the title bar of the specified window. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 

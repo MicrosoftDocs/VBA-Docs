@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

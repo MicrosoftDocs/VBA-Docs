@@ -33,8 +33,5 @@ When the control is locked, the control does not have a "disabled" appearance, b
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

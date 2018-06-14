@@ -46,8 +46,5 @@ The following example displays the name of the default list object on Sheet1 of 
 ## See also
 
 
-#### Concepts
-
-
 [ListObjects Object](Excel.ListObjects.md)
 

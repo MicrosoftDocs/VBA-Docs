@@ -48,8 +48,5 @@ Worksheets("Sheet1").UsedRange.Columns("A:C").Calculate
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

@@ -37,7 +37,4 @@ Makes a copy of a group definition for the  **ViewsCombination** collection and 
 ## See also
 
 
-#### Concepts
-
-
 [ViewsCombination Collection Object](Project.viewscombination(object).md)

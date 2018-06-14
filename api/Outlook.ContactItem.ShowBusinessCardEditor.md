@@ -31,8 +31,5 @@ Calling this method retrieves the data for the specified  **ContactItem** object
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

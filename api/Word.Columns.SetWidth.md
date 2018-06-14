@@ -40,8 +40,5 @@ The  **WdRulerStyle** behavior described above applies to left-aligned tables. T
 ## See also
 
 
-#### Concepts
-
-
 [Columns Collection Object](Word.columns.md)
 

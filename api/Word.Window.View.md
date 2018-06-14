@@ -51,8 +51,5 @@ Next myWindow
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

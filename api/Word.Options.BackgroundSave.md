@@ -47,8 +47,5 @@ blnAutoSave = Options.BackgroundSave
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

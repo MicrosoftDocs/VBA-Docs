@@ -53,8 +53,5 @@ ActivePresentation.FarEastLineBreakLanguage =  MsoFarEastLineBreakLanguageJapane
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

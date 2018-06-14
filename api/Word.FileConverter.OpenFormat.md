@@ -54,8 +54,5 @@ Documents.Open FileName:="C:\Data.wp", _
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](Word.FileConverter.md)
 

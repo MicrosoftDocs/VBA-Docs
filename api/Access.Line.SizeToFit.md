@@ -66,8 +66,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Access.Line.md)
 

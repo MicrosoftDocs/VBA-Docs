@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathFracType](Word.WdOMathFracType.md)** constant that 
 ## See also
 
 
-#### Concepts
-
-
 [OMathFrac Object](Word.OMathFrac.md)
 

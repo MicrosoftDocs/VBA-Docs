@@ -52,8 +52,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartBorder Object](Word.ChartBorder.md)
 

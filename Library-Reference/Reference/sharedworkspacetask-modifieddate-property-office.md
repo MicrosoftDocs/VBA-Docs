@@ -57,9 +57,6 @@ Dim swsFile As Office.SharedWorkspaceFile
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)
 #### Other resources
 

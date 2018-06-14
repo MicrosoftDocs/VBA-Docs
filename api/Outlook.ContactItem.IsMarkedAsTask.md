@@ -26,8 +26,5 @@ Returns a  **Boolean** value that indicates whether the **[ContactItem](Outlook.
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

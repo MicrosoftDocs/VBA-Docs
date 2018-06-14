@@ -31,8 +31,5 @@ Setting the  **Value** property only returns the first 255 characters of the obj
 ## See also
 
 
-#### Concepts
-
-
 [AutoTextEntry Object](Word.AutoTextEntry.md)
 

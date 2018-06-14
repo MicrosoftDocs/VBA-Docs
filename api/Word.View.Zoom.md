@@ -51,8 +51,5 @@ ActiveDocument.ActiveWindow.View.Zoom.PageFit = wdPageFitBestFit
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

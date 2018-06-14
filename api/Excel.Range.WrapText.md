@@ -45,8 +45,5 @@ Worksheets("Sheet1").Range("B2").WrapText = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

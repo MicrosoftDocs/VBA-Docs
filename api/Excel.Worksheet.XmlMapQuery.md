@@ -49,8 +49,5 @@ Unlike the  **[XmlDataQuery](Excel.Worksheet.XmlDataQuery.md)** method, the **Xm
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

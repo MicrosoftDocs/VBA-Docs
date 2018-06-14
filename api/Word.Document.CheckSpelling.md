@@ -50,8 +50,5 @@ ActiveDocument.CheckSpelling
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

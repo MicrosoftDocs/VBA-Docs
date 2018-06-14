@@ -28,7 +28,4 @@ The default value of  **MonthDay** is 1.
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

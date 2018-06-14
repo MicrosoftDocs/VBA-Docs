@@ -33,8 +33,5 @@ On a protected sheet, this property returns the previous unlocked cell. On an un
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

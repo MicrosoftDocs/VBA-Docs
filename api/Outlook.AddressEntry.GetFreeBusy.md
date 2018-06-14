@@ -65,8 +65,5 @@ If  _CompleteFormat_ is set to **True** , the string returned by this method con
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

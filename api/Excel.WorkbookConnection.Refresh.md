@@ -33,8 +33,5 @@ A refresh failure for one connection will not have any impact on refresh operati
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

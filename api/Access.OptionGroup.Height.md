@@ -35,8 +35,5 @@ The height of controls is measured from the center of their borders so controls 
 ## See also
 
 
-#### Concepts
-
-
 [OptionGroup Object](Access.OptionGroup.md)
 

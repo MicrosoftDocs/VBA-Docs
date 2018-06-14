@@ -32,8 +32,5 @@ This method has the same effect as clicking the Microsoft Office Button
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

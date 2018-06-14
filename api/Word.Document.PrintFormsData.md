@@ -46,8 +46,5 @@ temp = ActiveDocument.PrintFormsData
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

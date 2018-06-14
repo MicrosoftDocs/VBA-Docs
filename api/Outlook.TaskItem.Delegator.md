@@ -26,8 +26,5 @@ Returns a  **String** representing the display name of the delegator for the tas
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

@@ -34,8 +34,5 @@ Returns a  **[Slicer](Excel.Slicer.md)** object from the collection. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Slicers Object](Excel.Slicers.md)
 

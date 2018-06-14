@@ -34,8 +34,5 @@ Moves the specified shape vertically by the specified number of points.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

@@ -50,8 +50,5 @@ Reports("Product Summary").GroupLevel(0).SortOrder = False
 ## See also
 
 
-#### Concepts
-
-
 [GroupLevel Object](Access.GroupLevel.md)
 

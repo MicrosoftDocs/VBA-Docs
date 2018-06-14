@@ -48,8 +48,5 @@ To move the focus outside a subreport control, press CTRL+TAB.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

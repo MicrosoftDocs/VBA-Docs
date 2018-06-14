@@ -45,8 +45,5 @@ temp = Options.Pagination
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

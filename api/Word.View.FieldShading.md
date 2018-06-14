@@ -37,8 +37,5 @@ ActiveDocument.ActiveWindow.View.FieldShading = _
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

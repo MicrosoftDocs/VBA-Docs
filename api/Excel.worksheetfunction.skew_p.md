@@ -66,8 +66,5 @@ Returns the skewness of a distribution based on a population: a characterization
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

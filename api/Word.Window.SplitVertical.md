@@ -50,8 +50,5 @@ Windows("Document1").SplitVertical = 50
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

@@ -26,8 +26,5 @@ Returns the number of items in the  **OMathAutoCorrectEntries** collection. Read
 ## See also
 
 
-#### Concepts
-
-
 [OMathAutoCorrectEntries Collection](Word.OMathAutoCorrectEntries.md)
 

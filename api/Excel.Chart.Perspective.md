@@ -42,8 +42,5 @@ Charts("Chart1").Perspective = 70
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

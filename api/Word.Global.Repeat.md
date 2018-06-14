@@ -66,8 +66,5 @@ If Repeat(3) = True Then StatusBar = "Action repeated"
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

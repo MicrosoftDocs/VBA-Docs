@@ -33,8 +33,5 @@ Returns an error if you attempt to enable a rule action that is supported only o
 ## See also
 
 
-#### Concepts
-
-
 [RuleAction Object](Outlook.RuleAction.md)
 

@@ -42,8 +42,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [MailMerge Object](Word.MailMerge.md)
 

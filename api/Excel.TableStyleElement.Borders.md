@@ -42,8 +42,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TableStyleElement Object](Excel.TableStyleElement.md)
 

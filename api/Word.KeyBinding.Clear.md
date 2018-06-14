@@ -36,8 +36,5 @@ CustomizationContext = NormalTemplateFindKey(BuildKeyCode(Arg1:=wdKeyAlt, Arg2:=
 ## See also
 
 
-#### Concepts
-
-
 [KeyBinding Object](Word.KeyBinding.md)
 

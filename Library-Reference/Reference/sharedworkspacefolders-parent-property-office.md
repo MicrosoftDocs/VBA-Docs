@@ -34,9 +34,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFolders Object](sharedworkspacefolders-object-office.md)
 #### Other resources
 

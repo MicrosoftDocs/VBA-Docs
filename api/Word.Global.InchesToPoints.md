@@ -66,8 +66,5 @@ Next docLoop
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

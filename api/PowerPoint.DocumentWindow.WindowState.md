@@ -54,9 +54,6 @@ Windows(1).WindowState = ppWindowMaximized
 ## See also
 
 
-#### Concepts
-
-
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 

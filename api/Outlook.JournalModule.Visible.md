@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the **[JournalModul
 ## See also
 
 
-#### Concepts
-
-
 [JournalModule Object](Outlook.JournalModule.md)
 

@@ -52,8 +52,5 @@ blnAutoFormat = EmailOptions.AutoFormatAsYouTypeReplaceSymbols
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

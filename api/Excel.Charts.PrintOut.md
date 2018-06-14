@@ -62,8 +62,5 @@ ActiveSheet.PrintOut
 ## See also
 
 
-#### Concepts
-
-
 [Charts Collection](Excel.Charts.md)
 

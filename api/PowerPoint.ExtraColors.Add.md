@@ -34,8 +34,5 @@ Adds a color to the extra colors available to a presentation, if the color hasn'
 ## See also
 
 
-#### Concepts
-
-
 [ExtraColors Object](PowerPoint.ExtraColors.md)
 

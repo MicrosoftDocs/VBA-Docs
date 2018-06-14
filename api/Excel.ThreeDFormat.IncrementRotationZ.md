@@ -40,8 +40,5 @@ You cannot adjust the rotation around the z-axis of the specified shape past the
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

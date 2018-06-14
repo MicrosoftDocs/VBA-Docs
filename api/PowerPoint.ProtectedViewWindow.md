@@ -26,8 +26,5 @@ Use  **[ProtectedViewWindows](PowerPoint.ProtectedViewWindows.md)** ( _Index_ ),
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

@@ -26,8 +26,5 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 ## See also
 
 
-#### Concepts
-
-
 [ImportanceRuleCondition Object](Outlook.ImportanceRuleCondition.md)
 

@@ -36,8 +36,5 @@ Options.ArabicNumeral = wdNumeralHindi
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

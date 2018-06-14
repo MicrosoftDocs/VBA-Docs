@@ -41,8 +41,5 @@ ActiveSheet.Hyperlinks(1).ScreenTip = "Return to the home page"
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

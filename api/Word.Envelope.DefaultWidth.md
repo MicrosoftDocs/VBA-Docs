@@ -55,8 +55,5 @@ ActiveDocument.Envelope.Insert _
 ## See also
 
 
-#### Concepts
-
-
 [Envelope Object](Word.Envelope.md)
 

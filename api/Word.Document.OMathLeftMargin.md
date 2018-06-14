@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the left margin for equations. Rea
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

@@ -44,8 +44,5 @@ ActiveChart.SetDefaultChart Name:="Monthly Sales"
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

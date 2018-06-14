@@ -43,8 +43,5 @@ ActiveSheet.Shapes(1).Fill.ForeColor.Brightness = 0.5
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Excel.ColorFormat.md)
 

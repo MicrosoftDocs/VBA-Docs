@@ -33,8 +33,5 @@ This property corresponds to the MAPI property,  **PidTagStreetAddress** .
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

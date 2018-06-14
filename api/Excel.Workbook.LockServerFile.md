@@ -26,8 +26,5 @@ Locks the workbook on the server to prevent modification.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

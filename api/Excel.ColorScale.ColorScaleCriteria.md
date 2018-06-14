@@ -26,8 +26,5 @@ Returns a  **[ColorScaleCriteria](Excel.ColorScaleCriteria.md)** object, which i
 ## See also
 
 
-#### Concepts
-
-
 [ColorScale Object](Excel.ColorScale.md)
 

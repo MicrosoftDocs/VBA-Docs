@@ -26,8 +26,5 @@ Returns or sets the alternative text associated with a shape in a Web page. Read
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

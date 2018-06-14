@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the file name of the icon to be displ
 ## See also
 
 
-#### Concepts
-
-
 [FormDescription Object](Outlook.FormDescription.md)
 

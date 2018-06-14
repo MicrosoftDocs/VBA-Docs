@@ -26,8 +26,5 @@ Returns an  **[Adjustments](Word.Adjustments.md)** object that contains adjustme
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

@@ -46,8 +46,5 @@ The  **Unload** event can be canceled, but the **Close** event can't.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

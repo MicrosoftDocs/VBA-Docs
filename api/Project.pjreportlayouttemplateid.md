@@ -32,9 +32,6 @@ The  _TemplateId_ parameter in the **[Application.ApplyReportLayoutTemplate](Pro
 ## See also
 
 
-#### Concepts
-
-
 [ReportTemplate Object](Project.ReportTemplate.md)
 #### Other resources
 

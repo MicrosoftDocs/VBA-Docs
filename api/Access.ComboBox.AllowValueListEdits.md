@@ -37,8 +37,5 @@ The  **AllowValueEditLists** property is not available for combo boxes on a repo
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

@@ -26,8 +26,5 @@ Returns an  **[OMathLimUpp](Word.OMathLimUpp.md)** object that represents upper 
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

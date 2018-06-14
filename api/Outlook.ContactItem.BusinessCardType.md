@@ -31,8 +31,5 @@ The Electronic Business Card can be either in Microsoft Office InterConnect form
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

@@ -50,8 +50,5 @@ Later, the document is saved as a Web page, and the following line of HTML is ad
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

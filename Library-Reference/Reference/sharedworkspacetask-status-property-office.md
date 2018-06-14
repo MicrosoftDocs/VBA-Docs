@@ -63,9 +63,6 @@ The following example displays a list of all tasks in the current shared workspa
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)
 #### Other resources
 

@@ -39,8 +39,5 @@ ContentControlListEntry
 ## See also
 
 
-#### Concepts
-
-
 [ContentControlListEntries Collection](Word.ContentControlListEntries.md)
 

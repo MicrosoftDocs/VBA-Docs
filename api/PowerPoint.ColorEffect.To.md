@@ -71,8 +71,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ColorEffect Object](PowerPoint.ColorEffect.md)
 

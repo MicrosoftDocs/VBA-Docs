@@ -37,8 +37,5 @@ The default value for  **ReferenceTime** is 30 Dec 1899 12:00 AM. In this case, 
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

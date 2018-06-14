@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [PublishObject Object](Excel.PublishObject.md)
 

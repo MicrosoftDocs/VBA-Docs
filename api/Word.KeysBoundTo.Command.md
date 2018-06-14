@@ -45,8 +45,5 @@ If Count = 0 Then MsgBox "Keys haven't been assigned to fonts"
 ## See also
 
 
-#### Concepts
-
-
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 

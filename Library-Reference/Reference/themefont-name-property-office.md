@@ -28,9 +28,6 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [ThemeFont Object](themefont-object-office.md)
 #### Other resources
 

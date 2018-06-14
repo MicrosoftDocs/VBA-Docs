@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to hide the opening delim
 ## See also
 
 
-#### Concepts
-
-
 [OMathDelim Object](Word.OMathDelim.md)
 

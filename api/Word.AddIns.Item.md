@@ -34,8 +34,5 @@ Returns an individual object in a collection.
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Collection Object](Word.addins.md)
 

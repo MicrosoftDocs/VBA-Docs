@@ -50,8 +50,5 @@ temp = Options.MapPaperSize
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

@@ -72,8 +72,5 @@ MsgBox "Current spacing after paragraphs: " &; sa &; saUnits
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 

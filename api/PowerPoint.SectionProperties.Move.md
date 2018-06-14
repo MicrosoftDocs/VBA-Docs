@@ -40,8 +40,5 @@ The section is moved to the index position immediately before the section whose 
 ## See also
 
 
-#### Concepts
-
-
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 

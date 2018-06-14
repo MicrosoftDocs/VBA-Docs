@@ -38,8 +38,5 @@ Forms("Form1").Controls("Textbox1").Properties(5).Name
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

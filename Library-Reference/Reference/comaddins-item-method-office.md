@@ -34,9 +34,6 @@ Gets a member of the specified  **COMAddIns** collection.
 ## See also
 
 
-#### Concepts
-
-
 [COMAddIns Object](comaddins-object-office.md)
 #### Other resources
 

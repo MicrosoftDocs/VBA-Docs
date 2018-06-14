@@ -36,8 +36,5 @@ ActiveDocument.BaseLineAlignment = wdBaselineAlignAuto
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

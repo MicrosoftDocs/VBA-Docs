@@ -31,7 +31,4 @@ Gets a single  **Project** object from the **Projects** collection. Read-only **
 ## See also
 
 
-#### Concepts
-
-
 [Projects Collection Object](Project.projects.md)

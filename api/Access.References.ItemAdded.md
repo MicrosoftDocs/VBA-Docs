@@ -106,8 +106,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [References Collection](Access.References.md)
 

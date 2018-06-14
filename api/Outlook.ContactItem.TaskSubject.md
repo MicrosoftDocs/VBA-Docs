@@ -31,8 +31,5 @@ This property returns the value of the  **[Subject](Outlook.ContactItem.Subject.
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

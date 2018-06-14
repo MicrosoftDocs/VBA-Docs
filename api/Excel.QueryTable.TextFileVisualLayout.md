@@ -40,8 +40,5 @@ The  **TextFileVisualLayout** property applies only to **QueryTable** objects.
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

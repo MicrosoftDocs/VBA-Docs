@@ -26,8 +26,5 @@ Returns or sets the distance, in points, from the top edge of the object to the 
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 

@@ -38,8 +38,5 @@ Next myPane
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

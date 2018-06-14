@@ -31,8 +31,5 @@ MsoGlowType
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

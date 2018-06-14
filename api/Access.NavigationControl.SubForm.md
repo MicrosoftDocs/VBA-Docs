@@ -26,8 +26,5 @@ Gets or sets the name of the  **[SubForm](Access.SubForm.md)** object used to di
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

@@ -31,8 +31,5 @@ For more information about how to display a customized ribbon when loading a for
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

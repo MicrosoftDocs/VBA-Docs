@@ -45,8 +45,5 @@ Selection.PageSetup.OtherPagesTray = wdPrinterLowerBin
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

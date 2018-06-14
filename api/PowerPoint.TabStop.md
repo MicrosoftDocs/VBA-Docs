@@ -30,8 +30,5 @@ ActivePresentation.Slides(1).Shapes(2).TextFrame _
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

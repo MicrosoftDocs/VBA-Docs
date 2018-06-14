@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **XMLS
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 

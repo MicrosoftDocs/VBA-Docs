@@ -26,8 +26,5 @@ Deletes the specified conditional formatting rule object.
 ## See also
 
 
-#### Concepts
-
-
 [ColorScale Object](Excel.ColorScale.md)
 

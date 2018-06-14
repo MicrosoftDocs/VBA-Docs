@@ -26,8 +26,5 @@ Returns the text formatting for the specified chart element. Read-only  **TextFr
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Word.ChartFormat.md)
 

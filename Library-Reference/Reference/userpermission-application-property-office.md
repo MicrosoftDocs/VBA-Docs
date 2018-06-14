@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [UserPermission Object](userpermission-object-office.md)
 #### Other resources
 

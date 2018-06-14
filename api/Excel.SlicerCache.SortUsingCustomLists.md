@@ -33,8 +33,5 @@ The  **SortUsingCustomLists** property only applies to slicers that are filterin
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

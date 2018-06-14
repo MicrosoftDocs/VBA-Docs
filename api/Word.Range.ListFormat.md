@@ -50,8 +50,5 @@ Selection.Range.ListFormat.ApplyListTemplate _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -52,8 +52,5 @@ Forms("Suppliers").Controls("Address").TextAlign = 3
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

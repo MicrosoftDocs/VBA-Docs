@@ -69,9 +69,6 @@ This example creates a command bar named "Custom" and adds two buttons to it. Th
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarButton Object](commandbarbutton-object-office.md)
 #### Other resources
 

@@ -41,8 +41,5 @@ The  **HyperlinkAddress** property can contain an absolute or a relative path to
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Access.Hyperlink.md)
 

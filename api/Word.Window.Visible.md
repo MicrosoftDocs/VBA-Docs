@@ -31,8 +31,5 @@ Some methods and properties may be unavailable if the  **Visible** property is *
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

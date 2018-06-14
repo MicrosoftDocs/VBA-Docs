@@ -31,8 +31,5 @@ This property applies to bubble charts only.
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

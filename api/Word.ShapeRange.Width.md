@@ -26,8 +26,5 @@ Returns or sets the width, in points, of the shapes within the range. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

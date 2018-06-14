@@ -38,8 +38,5 @@ The  **ShowAllItems** property applies only to slicers that are based on workboo
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

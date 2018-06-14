@@ -23,8 +23,5 @@ Returns the number of items in the  **Sources** collection. Read-only **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [Sources Collection](Word.Sources.md)
 

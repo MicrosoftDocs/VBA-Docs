@@ -72,8 +72,5 @@ MsgBox "Current line spacing: " &; ls &; lsUnits
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 

@@ -36,8 +36,5 @@ Selection.Find.MatchControl = True
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

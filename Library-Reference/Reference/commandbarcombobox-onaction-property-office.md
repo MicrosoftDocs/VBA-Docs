@@ -39,9 +39,6 @@ The container application determines whether the value is a valid macro name.
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

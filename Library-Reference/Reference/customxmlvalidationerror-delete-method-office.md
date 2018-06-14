@@ -39,9 +39,6 @@ objCustomXMLValidationError.Text("To add content to this data stream, it must be
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLValidationError Object](customxmlvalidationerror-object-office.md)
 #### Other resources
 

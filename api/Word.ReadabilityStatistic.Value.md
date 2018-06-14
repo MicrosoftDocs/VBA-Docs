@@ -38,8 +38,5 @@ MsgBox ActiveDocument.ReadabilityStatistics( _
 ## See also
 
 
-#### Concepts
-
-
 [ReadabilityStatistic Object](Word.ReadabilityStatistic.md)
 

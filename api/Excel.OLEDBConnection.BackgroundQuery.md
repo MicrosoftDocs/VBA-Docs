@@ -31,8 +31,5 @@ For OLAP data sources, this property is read-only and always returns  **False** 
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

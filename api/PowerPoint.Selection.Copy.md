@@ -43,8 +43,5 @@ Windows(2).View.Paste
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

@@ -36,8 +36,5 @@ Deleting a  **[LegendKey](Excel.LegendKey(objec).md)** object deletes the entire
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Excel.LegendKey(objec).md)
 

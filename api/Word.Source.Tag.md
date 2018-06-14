@@ -26,8 +26,5 @@ Returns a  **String** that represents an internal identifying label for a source
 ## See also
 
 
-#### Concepts
-
-
 [Source Object](Word.Source.md)
 

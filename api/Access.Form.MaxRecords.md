@@ -54,8 +54,5 @@ Forms(formname).MaxRecords = numrecords
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

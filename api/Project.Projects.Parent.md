@@ -30,7 +30,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 ## See also
 
 
-#### Concepts
-
-
 [Projects Collection Object](Project.projects.md)

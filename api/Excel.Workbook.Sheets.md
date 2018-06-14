@@ -44,8 +44,5 @@ Next i
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

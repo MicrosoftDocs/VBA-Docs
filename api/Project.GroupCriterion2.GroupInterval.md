@@ -23,8 +23,5 @@ Gets or sets the interval for a field used as a criterion in a group definition.
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

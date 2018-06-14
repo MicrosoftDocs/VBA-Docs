@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the type of entry for this address su
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

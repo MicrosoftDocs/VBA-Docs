@@ -37,7 +37,4 @@ Adds a  **Resource** object to a **Resources** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Resources Collection Object](Project.resources(object).md)

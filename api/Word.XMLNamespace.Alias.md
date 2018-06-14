@@ -36,8 +36,5 @@ MsgBox Application.XMLNamespaces(1).Alias
 ## See also
 
 
-#### Concepts
-
-
 [XMLNamespace Object](Word.XMLNamespace.md)
 

@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [Timing Object](PowerPoint.Timing.md)
 

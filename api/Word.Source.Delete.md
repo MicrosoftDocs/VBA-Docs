@@ -26,8 +26,5 @@ Deletes the specified source.
 ## See also
 
 
-#### Concepts
-
-
 [Source Object](Word.Source.md)
 

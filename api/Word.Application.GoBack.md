@@ -37,8 +37,5 @@ Application.GoBack
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

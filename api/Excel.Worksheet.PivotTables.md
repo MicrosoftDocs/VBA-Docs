@@ -50,8 +50,5 @@ ActiveSheet.PivotTables("PivotTable1"). _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

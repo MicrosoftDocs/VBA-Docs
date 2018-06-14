@@ -47,9 +47,6 @@ MsgBox Application.COMAddIns.Item("msodraa9.ShapeSelect").Description
 ## See also
 
 
-#### Concepts
-
-
 [Object Model Reference](reference-object-library-reference-for-office.md)
 #### Other resources
 

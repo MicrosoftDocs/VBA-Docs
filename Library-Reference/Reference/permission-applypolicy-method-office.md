@@ -66,9 +66,6 @@ The following example enables permissions on the active document and applies an 
 ## See also
 
 
-#### Concepts
-
-
 [Permission Object](permission-object-office.md)
 #### Other resources
 

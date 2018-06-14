@@ -38,8 +38,5 @@ MsgBox "The active cell is in the field " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

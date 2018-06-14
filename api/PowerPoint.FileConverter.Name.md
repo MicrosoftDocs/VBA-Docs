@@ -26,8 +26,5 @@ Returns the name of the specified object. Read-only  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](PowerPoint.FileConverter.md)
 

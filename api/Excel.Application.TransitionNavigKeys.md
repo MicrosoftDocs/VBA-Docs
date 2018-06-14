@@ -41,8 +41,5 @@ MsgBox "The Transition Navigation Keys option is " &; keyState
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

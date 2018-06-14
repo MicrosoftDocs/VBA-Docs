@@ -39,8 +39,5 @@ An  **Exception** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Exceptions Object](Outlook.Exceptions.md)
 

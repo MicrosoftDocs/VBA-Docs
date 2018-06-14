@@ -33,8 +33,5 @@ This property uses the character specified in the value name,  **sList** , under
 ## See also
 
 
-#### Concepts
-
-
 [AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 

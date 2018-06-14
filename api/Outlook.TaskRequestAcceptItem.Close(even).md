@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.TaskRequestAcceptItem.Close(method).md)** meth
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

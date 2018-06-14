@@ -26,8 +26,5 @@ Converts file to the newest file format and enables all new features.
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

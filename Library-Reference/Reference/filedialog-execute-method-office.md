@@ -26,9 +26,6 @@ Carries out a user's action right after the  **Show** method is invoked.
 ## See also
 
 
-#### Concepts
-
-
 [FileDialog Object](filedialog-object-office.md)
 #### Other resources
 

@@ -31,8 +31,5 @@ Returns a  **String** representing the concatenated last name, first name, and m
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

@@ -41,8 +41,5 @@ Msgbox ActiveDocument.Shapes(1).OLEFormat.Object.Container.Name
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

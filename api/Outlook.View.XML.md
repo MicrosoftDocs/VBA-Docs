@@ -82,8 +82,5 @@ The following are the modified properties that are visible in the following XML 
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Outlook.View.md)
 

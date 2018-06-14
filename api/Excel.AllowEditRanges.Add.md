@@ -75,8 +75,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AllowEditRanges Collection](Excel.AllowEditRanges.md)
 

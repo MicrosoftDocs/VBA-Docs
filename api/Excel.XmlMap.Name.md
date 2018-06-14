@@ -31,8 +31,5 @@ The string specified for the  **Name** property must be unique within the workbo
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

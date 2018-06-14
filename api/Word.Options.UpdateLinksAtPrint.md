@@ -46,8 +46,5 @@ temp = Options.UpdateLinksAtPrint
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

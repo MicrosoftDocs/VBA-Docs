@@ -26,8 +26,5 @@ Returns or sets the shape shadow type. Read/write  **MsoShadowType** .
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Word.ShadowFormat.md)
 

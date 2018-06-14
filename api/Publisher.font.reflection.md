@@ -29,8 +29,5 @@ Returns a  [ReflectionFormat](Publisher.reflectionformat.md) object that represe
 ## See also
 
 
-#### Concepts
-
-
  [Font Object](Publisher.Font.md)
 

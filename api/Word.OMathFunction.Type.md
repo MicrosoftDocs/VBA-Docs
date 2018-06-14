@@ -26,8 +26,5 @@ Returns a  **[WdOMathFunctionType](Word.WdOMathFunctionType.md)** constant that 
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

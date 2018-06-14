@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [RulerLevels2 Object](rulerlevels2-object-office.md)
 #### Other resources
 

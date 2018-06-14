@@ -61,8 +61,5 @@ ActiveDocument.TablesOfFigures.Add Range:=Selection.Range
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 

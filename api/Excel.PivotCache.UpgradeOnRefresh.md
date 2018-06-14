@@ -35,8 +35,5 @@ Saving to an Excel 2007 or later file format, when in compatibility mode, will s
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

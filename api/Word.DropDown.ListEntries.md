@@ -56,8 +56,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [DropDown Object](Word.DropDown.md)
 

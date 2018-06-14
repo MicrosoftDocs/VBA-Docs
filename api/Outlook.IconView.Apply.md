@@ -26,8 +26,5 @@ Applies the  **[IconView](Outlook.IconView.md)** object to the current view.
 ## See also
 
 
-#### Concepts
-
-
 [IconView Object](Outlook.IconView.md)
 

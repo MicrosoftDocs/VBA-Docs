@@ -32,8 +32,5 @@ Occurs before an attachment is added to an instance of the parent object.
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

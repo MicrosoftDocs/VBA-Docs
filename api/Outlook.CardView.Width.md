@@ -41,8 +41,5 @@ The default value for this property depends on the  **[DefaultItemType](Outlook.
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

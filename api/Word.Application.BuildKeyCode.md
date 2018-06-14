@@ -68,8 +68,5 @@ MsgBox FindKey(BuildKeyCode(Arg1:=wdKeyF1)).Command
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

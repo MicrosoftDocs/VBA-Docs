@@ -26,8 +26,5 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

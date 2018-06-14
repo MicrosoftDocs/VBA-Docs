@@ -26,8 +26,5 @@ Returns a  **TextFrame2** object that contains the text for the specified range 
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

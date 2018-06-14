@@ -49,8 +49,5 @@ Creates and returns a  **[PivotTable](Excel.PivotTable.md)** object. This method
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

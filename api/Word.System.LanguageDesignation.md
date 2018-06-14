@@ -37,8 +37,5 @@ If System.LanguageDesignation = "English (US)" Then _
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

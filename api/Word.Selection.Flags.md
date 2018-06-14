@@ -48,8 +48,5 @@ Selection.Flags = wdSelStartActive
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](PowerPoint.Comment.md)
 

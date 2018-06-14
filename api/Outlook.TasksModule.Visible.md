@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the **[TasksModule]
 ## See also
 
 
-#### Concepts
-
-
 [TasksModule Object](Outlook.TasksModule.md)
 

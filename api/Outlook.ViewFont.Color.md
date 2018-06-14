@@ -26,8 +26,5 @@ Returns or sets an  **[OlColor](Outlook.OlColor.md)** constant that indicates th
 ## See also
 
 
-#### Concepts
-
-
 [ViewFont Object](Outlook.ViewFont.md)
 

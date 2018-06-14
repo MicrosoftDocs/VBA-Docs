@@ -31,8 +31,5 @@ Valid values for this property are " _macroname_" where  _macroname_ is the name
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

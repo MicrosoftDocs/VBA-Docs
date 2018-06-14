@@ -38,8 +38,5 @@ The  **SortItems** property of the **SlicerCache** object only applies to slicer
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

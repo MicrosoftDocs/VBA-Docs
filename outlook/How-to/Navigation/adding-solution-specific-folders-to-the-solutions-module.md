@@ -20,8 +20,5 @@ A solution root folder and its subfolders must reside on the same store. If the 
 ## See also
 
 
-#### Concepts
-
-
  [Customizing the Navigation Pane](customizing-the-navigation-pane.md)
 

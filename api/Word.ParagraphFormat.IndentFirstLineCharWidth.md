@@ -44,8 +44,5 @@ Selection.ParagraphFormat.IndentFirstLineCharWidth 10
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

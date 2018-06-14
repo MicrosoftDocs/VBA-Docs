@@ -31,8 +31,5 @@ For a line, the  **LineFormat** object represents the line itself; for a chart w
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Excel.ChartFormat.md)
 

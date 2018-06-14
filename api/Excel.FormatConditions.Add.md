@@ -68,8 +68,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Object](Excel.FormatConditions.md)
 

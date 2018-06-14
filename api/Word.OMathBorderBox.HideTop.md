@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to hide the top border of
 ## See also
 
 
-#### Concepts
-
-
 [OMathBorderBox Object](Word.OMathBorderBox.md)
 

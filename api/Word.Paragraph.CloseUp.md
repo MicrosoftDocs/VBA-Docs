@@ -47,8 +47,5 @@ Selection.Paragraphs(1).CloseUp
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

@@ -110,8 +110,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

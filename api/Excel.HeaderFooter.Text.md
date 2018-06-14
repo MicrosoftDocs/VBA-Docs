@@ -26,8 +26,5 @@ Returns or sets a  **Text** object that represents text included in the specifie
 ## See also
 
 
-#### Concepts
-
-
 [HeaderFooter Object](Excel.HeaderFooter.md)
 

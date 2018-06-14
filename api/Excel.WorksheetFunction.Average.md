@@ -67,8 +67,5 @@ For a symmetrical distribution of a group of numbers, these three measures of ce
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

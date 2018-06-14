@@ -36,8 +36,5 @@ Selection.Range.CheckSynonyms
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -31,8 +31,5 @@ This property corresponds to the  **Keep bullets and numbers when pasting text w
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

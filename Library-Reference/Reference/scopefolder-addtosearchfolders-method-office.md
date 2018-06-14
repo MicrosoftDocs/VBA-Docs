@@ -41,9 +41,6 @@ SearchScopes(1).ScopeFolder.AddToSearchFolders
 ## See also
 
 
-#### Concepts
-
-
 [ScopeFolder Object](scopefolder-object-office.md)
 #### Other resources
 

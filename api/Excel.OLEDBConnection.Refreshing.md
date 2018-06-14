@@ -31,8 +31,5 @@ Use the  **[CancelRefresh](Excel.OLEDBConnection.CancelRefresh.md)** method to c
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

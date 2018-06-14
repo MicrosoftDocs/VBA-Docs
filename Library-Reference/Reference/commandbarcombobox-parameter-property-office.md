@@ -39,9 +39,6 @@ If the specified parameter is set for a built-in control, the application can mo
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

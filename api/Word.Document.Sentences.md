@@ -50,8 +50,5 @@ ActiveDocument.Sentences.Last.Delete
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

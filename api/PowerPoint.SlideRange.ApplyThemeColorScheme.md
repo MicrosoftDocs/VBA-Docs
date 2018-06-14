@@ -34,8 +34,5 @@ Applies a color scheme to the specified range of slides.
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

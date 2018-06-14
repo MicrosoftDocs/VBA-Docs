@@ -23,8 +23,5 @@ Returns a  **Long** that represents the number of rectangles in the collection. 
 ## See also
 
 
-#### Concepts
-
-
 [Rectangles Collection](Word.Rectangles.md)
 

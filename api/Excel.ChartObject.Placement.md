@@ -36,8 +36,5 @@ Worksheets("Sheet1").ChartObjects(1).Placement = xlFreeFloating
 ## See also
 
 
-#### Concepts
-
-
 [ChartObject Object](Excel.ChartObject.md)
 

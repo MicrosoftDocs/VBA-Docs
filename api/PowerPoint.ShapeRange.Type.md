@@ -61,8 +61,5 @@ The value of the  **Type** property can be one of these **MsoShapeType** constan
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

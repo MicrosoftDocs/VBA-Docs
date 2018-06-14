@@ -31,8 +31,5 @@ Corresponds with the  **Show MiniBar on selection** check box in the **Word Opti
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

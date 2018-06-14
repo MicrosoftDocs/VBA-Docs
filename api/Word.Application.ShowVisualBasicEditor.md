@@ -36,8 +36,5 @@ Application.ShowVisualBasicEditor = True
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

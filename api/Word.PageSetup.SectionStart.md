@@ -46,8 +46,5 @@ ActiveDocument.PageSetup.SectionStart = mytype
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

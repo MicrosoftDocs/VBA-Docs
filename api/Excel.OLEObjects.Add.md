@@ -71,8 +71,5 @@ Worksheets(1).OLEObjects.Add ClassType:="Forms.CommandButton.1", _
 ## See also
 
 
-#### Concepts
-
-
 [OLEObjects Object](Excel.OLEObjects.md)
 

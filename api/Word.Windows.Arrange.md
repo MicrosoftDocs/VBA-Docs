@@ -67,8 +67,5 @@ Windows.Arrange ArrangeStyle:=wdIcons
 ## See also
 
 
-#### Concepts
-
-
 [Windows Collection Object](Word.windows.md)
 

@@ -28,8 +28,5 @@ Use the  **Parent** property to access the properties or methods of an object's 
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriteria2 Collection Object](Project.groupcriteria2.md)
 

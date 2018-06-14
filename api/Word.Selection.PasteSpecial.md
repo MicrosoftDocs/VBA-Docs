@@ -56,8 +56,5 @@ Selection.PasteSpecial DataType:=wdPasteText
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

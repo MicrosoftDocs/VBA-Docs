@@ -44,8 +44,5 @@ AddIns.Remove "mytools"
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Object](PowerPoint.AddIns.md)
 

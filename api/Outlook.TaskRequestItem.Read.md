@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.TaskRequestItem.Open.md)**
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Pict
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Word.PictureFormat.md)
 

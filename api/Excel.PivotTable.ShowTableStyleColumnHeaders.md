@@ -26,8 +26,5 @@ The  **ShowTableStyleColumnHeaders** property is set to **True** if the coulmn h
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

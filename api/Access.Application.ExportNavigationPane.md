@@ -34,8 +34,5 @@ Saves the current configuration of the Navigation Pane to an XML file.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

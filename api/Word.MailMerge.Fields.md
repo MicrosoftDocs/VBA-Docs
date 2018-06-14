@@ -26,8 +26,5 @@ Returns a read-only  **MailMergeFields** collection that represents all the mail
 ## See also
 
 
-#### Concepts
-
-
 [MailMerge Object](Word.MailMerge.md)
 

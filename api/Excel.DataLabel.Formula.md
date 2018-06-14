@@ -36,8 +36,5 @@ For more information about A1-style notation, see [How to: Refer to Cells and Ra
 ## See also
 
 
-#### Concepts
-
-
 [DataLabel Object](Excel.DataLabel(objec).md)
 

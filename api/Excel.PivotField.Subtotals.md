@@ -68,8 +68,5 @@ ActiveCell.PivotField.Subtotals(2) = True
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

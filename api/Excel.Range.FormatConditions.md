@@ -37,8 +37,5 @@ Worksheets(1).Range("e1:e10").FormatConditions(1) _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

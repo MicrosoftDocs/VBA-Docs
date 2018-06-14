@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [WebPageFont Object](webpagefont-object-office.md)
 #### Other resources
 

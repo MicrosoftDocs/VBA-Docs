@@ -34,9 +34,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControls Object](commandbarcontrols-object-office.md)
 #### Other resources
 

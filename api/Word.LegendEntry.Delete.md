@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](Word.LegendEntry.md)
 

@@ -31,8 +31,5 @@ The  **Name** property must be unique within the **[ImportExportSpecifications](
 ## See also
 
 
-#### Concepts
-
-
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 

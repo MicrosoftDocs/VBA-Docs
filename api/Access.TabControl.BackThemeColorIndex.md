@@ -61,8 +61,5 @@ Me.FormHeader.BackThemeColorIndex=2
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

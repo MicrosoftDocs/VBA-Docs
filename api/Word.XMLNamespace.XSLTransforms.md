@@ -44,8 +44,5 @@ Set objTransform = objSchema.XSLTransforms _
 ## See also
 
 
-#### Concepts
-
-
 [XMLNamespace Object](Word.XMLNamespace.md)
 

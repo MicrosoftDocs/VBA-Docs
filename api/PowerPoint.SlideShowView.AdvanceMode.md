@@ -37,8 +37,5 @@ The value returned by the  **AdvanceMode** property can be one of these **PpSlid
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

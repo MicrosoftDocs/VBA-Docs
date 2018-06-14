@@ -36,8 +36,5 @@ ActiveDocument.Tables(1).Rows.Last.Cells.Delete
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

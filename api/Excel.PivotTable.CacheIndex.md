@@ -42,8 +42,5 @@ Worksheets(1).PivotTables("Pivot1").CacheIndex = _
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

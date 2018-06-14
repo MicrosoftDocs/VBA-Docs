@@ -46,8 +46,5 @@ ActiveDocument.Shapes.AddLine _
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

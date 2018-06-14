@@ -57,8 +57,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Controls Collection](Access.Controls.md)
 

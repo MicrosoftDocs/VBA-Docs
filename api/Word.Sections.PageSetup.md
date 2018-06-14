@@ -36,8 +36,5 @@ Documents("Summary.doc").Sections(1).PageSetup.Gutter = 36
 ## See also
 
 
-#### Concepts
-
-
 [Sections Collection Object](Word.sections.md)
 

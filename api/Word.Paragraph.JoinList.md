@@ -26,8 +26,5 @@ Joins a list paragraph with the closest list above or below the specified paragr
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

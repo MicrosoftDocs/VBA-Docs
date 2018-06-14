@@ -43,8 +43,5 @@ If the  **[SetAlwaysAssignCategories](Outlook.Conversation.SetAlwaysAssignCatego
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

@@ -45,9 +45,6 @@ When you save a file to the Office Open XML File Format (which is the only forma
 ## See also
 
 
-#### Concepts
-
-
 [EncryptionProvider Object](encryptionprovider-object-office.md)
 #### Other resources
 

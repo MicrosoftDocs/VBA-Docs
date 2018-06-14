@@ -31,8 +31,5 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 ## See also
 
 
-#### Concepts
-
-
 [Sentences Collection Object](Word.sentences.md)
 

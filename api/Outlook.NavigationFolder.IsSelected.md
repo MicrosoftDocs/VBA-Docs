@@ -39,8 +39,5 @@ The  **[SelectedChange](Outlook.NavigationGroups.SelectedChange.md)** event for 
 ## See also
 
 
-#### Concepts
-
-
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 

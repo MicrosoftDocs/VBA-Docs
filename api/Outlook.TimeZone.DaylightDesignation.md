@@ -31,8 +31,5 @@ This property is stored as the  **Dlt** value for the time zone in the registry.
 ## See also
 
 
-#### Concepts
-
-
 [TimeZone Object](Outlook.TimeZone.md)
 

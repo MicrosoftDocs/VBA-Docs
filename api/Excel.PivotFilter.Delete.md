@@ -26,8 +26,5 @@ Deletes the filter and removes it from the filter collections of the PivotField 
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

@@ -34,8 +34,5 @@ The encryption provider mechanism manages each file on a separate process, so ea
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

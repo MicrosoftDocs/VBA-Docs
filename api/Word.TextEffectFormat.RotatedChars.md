@@ -50,8 +50,5 @@ newWordArt.TextEffect.RotatedChars = True
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 

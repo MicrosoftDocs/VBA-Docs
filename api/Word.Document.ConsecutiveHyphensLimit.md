@@ -53,8 +53,5 @@ ActiveDocument.ConsecutiveHyphensLimit = 0
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

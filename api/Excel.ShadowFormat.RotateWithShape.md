@@ -26,8 +26,5 @@ Returns or sets an  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-b
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Excel.ShadowFormat.md)
 

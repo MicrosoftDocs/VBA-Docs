@@ -36,9 +36,6 @@ The contents of the Policy Statement is displayed as a "business bar" notificati
 ## See also
 
 
-#### Concepts
-
-
 [ServerPolicy Object](serverpolicy-object-office.md)
 #### Other resources
 

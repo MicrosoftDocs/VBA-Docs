@@ -31,8 +31,5 @@ If you change the value axis in such a way that it becomes smaller than the size
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

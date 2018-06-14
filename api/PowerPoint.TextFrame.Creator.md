@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](PowerPoint.TextFrame.md)
 

@@ -224,8 +224,5 @@ Use the [Group](http://msdn.microsoft.com/library/f70f3986-3a39-78f9-476e-b72ef0
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](http://msdn.microsoft.com/library/00acd64a-5896-0459-39af-98df2849849e%28Office.15%29.aspx)
 

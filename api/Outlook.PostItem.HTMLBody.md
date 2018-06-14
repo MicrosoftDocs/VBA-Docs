@@ -35,8 +35,5 @@ Setting the  **HTMLBody** property will always update the **[Body](Outlook.PostI
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

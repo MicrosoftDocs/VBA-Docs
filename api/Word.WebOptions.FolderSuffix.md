@@ -88,8 +88,5 @@ strFolderSuffix = ActiveDocument.WebOptions.FolderSuffix
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Word.WebOptions.md)
 

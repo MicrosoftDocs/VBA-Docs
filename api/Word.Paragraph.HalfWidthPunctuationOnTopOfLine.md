@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).HalfWidthPunctuationOnTopOfLine = True
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

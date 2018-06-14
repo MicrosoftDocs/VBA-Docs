@@ -53,8 +53,5 @@ ActiveDocument.Paragraphs.TabStops = para1Tabs
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

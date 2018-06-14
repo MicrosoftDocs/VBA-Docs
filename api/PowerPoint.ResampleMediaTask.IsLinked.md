@@ -26,8 +26,5 @@ Returns whether the sample is linked. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ResampleMediaTask Object](PowerPoint.ResampleMediaTask.md)
 

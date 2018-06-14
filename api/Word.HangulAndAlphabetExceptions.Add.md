@@ -56,8 +56,5 @@ AutoCorrect.HangulAndAlphabetExceptions.Add Name:="test"
 ## See also
 
 
-#### Concepts
-
-
 [HangulAndAlphabetExceptions Collection Object](Word.hangulandalphabetexceptions.md)
 

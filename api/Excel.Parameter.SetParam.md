@@ -61,8 +61,5 @@ qt.Refresh
 ## See also
 
 
-#### Concepts
-
-
 [Parameter Object](Excel.Parameter.md)
 

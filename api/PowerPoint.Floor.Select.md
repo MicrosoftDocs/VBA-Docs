@@ -23,8 +23,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [Floor Object](PowerPoint.Floor.md)
 

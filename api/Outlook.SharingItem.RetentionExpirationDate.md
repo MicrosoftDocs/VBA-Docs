@@ -44,8 +44,5 @@ Microsoft Outlook calculates the value of this property based on the item retent
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

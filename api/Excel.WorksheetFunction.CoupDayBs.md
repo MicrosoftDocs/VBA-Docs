@@ -72,8 +72,5 @@ The following table contains the list of values for  _Arg4_ .
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -39,8 +39,5 @@ This operation can only be performed on fields that are actually on the PivotTab
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

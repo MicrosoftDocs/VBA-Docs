@@ -39,8 +39,5 @@ TaskPane
 ## See also
 
 
-#### Concepts
-
-
 [TaskPanes Collection](Word.TaskPanes.md)
 

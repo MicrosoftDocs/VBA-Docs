@@ -36,8 +36,5 @@ For a cell in a PivotTable based on an OLAP data source, the  **DiscardChange** 
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

@@ -42,8 +42,5 @@ A run-time error will occur if the form or report specified by the  _ObjectName_
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

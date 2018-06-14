@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](PowerPoint.PageSetup.md)
 

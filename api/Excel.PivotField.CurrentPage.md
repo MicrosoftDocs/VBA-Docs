@@ -37,8 +37,5 @@ strPgName = pvtTable.PivotFields("Country").CurrentPage.Name
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

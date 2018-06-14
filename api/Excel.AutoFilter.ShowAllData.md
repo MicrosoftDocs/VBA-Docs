@@ -26,8 +26,5 @@ Displays all the data returned by the  **AutoFilter** object.
 ## See also
 
 
-#### Concepts
-
-
 [AutoFilter Object](Excel.AutoFilter.md)
 

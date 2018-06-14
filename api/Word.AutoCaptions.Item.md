@@ -39,8 +39,5 @@ AutoCaption
 ## See also
 
 
-#### Concepts
-
-
 [AutoCaptions Collection Object](Word.autocaptions.md)
 

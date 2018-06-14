@@ -36,8 +36,5 @@ Use an icon set to annotate and classify data into three to five categories sepa
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Object](Excel.FormatConditions.md)
 

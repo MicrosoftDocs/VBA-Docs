@@ -65,8 +65,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TimeLine Object](timeline-object-powerpoint.md)
 

@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the subform and its right g
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

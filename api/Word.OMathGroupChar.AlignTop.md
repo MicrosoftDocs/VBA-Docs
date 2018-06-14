@@ -31,8 +31,5 @@ Returns or sets a  **Boolean** that represents whether the grouping character is
 ## See also
 
 
-#### Concepts
-
-
 [OMathGroupChar Object](Word.OMathGroupChar.md)
 

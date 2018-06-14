@@ -50,8 +50,5 @@ If any argument is nonnumeric, SERIESSUM returns the #VALUE! error value.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

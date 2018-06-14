@@ -51,9 +51,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [SignatureInfo Object](signatureinfo-object-office.md)
 #### Other resources
 

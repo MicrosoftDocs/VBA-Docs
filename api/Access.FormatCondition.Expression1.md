@@ -31,8 +31,5 @@ The  **Expression1** property returns a **Variant** value or expression associat
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Access.FormatCondition.md)
 

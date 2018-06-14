@@ -26,8 +26,5 @@ Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that repres
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

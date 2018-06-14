@@ -26,8 +26,5 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

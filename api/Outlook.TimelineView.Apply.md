@@ -26,8 +26,5 @@ Applies the  **[TimelineView](Outlook.TimelineView.md)** object to the current v
 ## See also
 
 
-#### Concepts
-
-
 [TimelineView Object](Outlook.TimelineView.md)
 

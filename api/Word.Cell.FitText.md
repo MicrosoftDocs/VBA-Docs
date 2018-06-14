@@ -41,8 +41,5 @@ Selection.Cells(1).FitText = True
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

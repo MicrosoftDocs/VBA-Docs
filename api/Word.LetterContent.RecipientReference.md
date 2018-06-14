@@ -42,8 +42,5 @@ Documents.Add.RunLetterWizard LetterContent:=myContent
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

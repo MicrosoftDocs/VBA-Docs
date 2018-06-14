@@ -39,8 +39,5 @@ Like other worksheet events, this event doesn't occur if you right-click while t
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

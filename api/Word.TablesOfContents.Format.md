@@ -36,8 +36,5 @@ Documents("Report.doc").TablesOfContents.Format = wdTOCClassic
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfContents Collection Object](Word.tablesofcontents.md)
 

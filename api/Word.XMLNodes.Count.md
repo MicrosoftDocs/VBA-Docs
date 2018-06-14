@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of XML elements in the collection
 ## See also
 
 
-#### Concepts
-
-
 [XMLNodes Collection](Word.XMLNodes.md)
 

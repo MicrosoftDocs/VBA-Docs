@@ -46,8 +46,5 @@ An error occurs if an add-in attempts to add more than 50 navigation groups to a
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 

@@ -150,8 +150,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

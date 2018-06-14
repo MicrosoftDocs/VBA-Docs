@@ -31,9 +31,6 @@ Retrieves a  **PickerField** object at the specified index. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [PickerFields Object](pickerfields-object-office.md)
 #### Other resources
 

@@ -87,8 +87,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AutoFormatRule Object](Outlook.AutoFormatRule.md)
 

@@ -31,8 +31,5 @@ Returns the value that the user entered in the cell or that the formula in the c
 ## See also
 
 
-#### Concepts
-
-
 [ValueChange Object](Excel.ValueChange.md)
 

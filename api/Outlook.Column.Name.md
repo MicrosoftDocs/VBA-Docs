@@ -33,8 +33,5 @@ If the  **Column** is a default column in the **[Table](Outlook.Table.md)** , or
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Outlook.Column.md)
 

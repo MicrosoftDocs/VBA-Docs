@@ -106,9 +106,6 @@ The following example examines the  **Status** property and takes an appropriate
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

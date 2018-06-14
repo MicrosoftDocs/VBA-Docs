@@ -37,8 +37,5 @@ In VBScript, if you set the return value of this function to  **False** , the fo
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

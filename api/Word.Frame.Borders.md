@@ -33,8 +33,5 @@ For information about returning a single member of a collection, see [Returning 
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

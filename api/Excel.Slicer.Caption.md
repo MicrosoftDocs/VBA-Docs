@@ -36,8 +36,5 @@ The value specified for the  **Caption** property is displayed in the header of 
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

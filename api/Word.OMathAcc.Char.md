@@ -26,8 +26,5 @@ Returns or sets an  **Integer** that represents the accent character for the acc
 ## See also
 
 
-#### Concepts
-
-
 [OMathAcc Object](Word.OMathAcc.md)
 

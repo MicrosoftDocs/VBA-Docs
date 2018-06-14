@@ -71,8 +71,5 @@ Dialogs(wdDialogFilePrint).Execute
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

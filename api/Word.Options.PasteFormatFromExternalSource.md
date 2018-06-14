@@ -31,8 +31,5 @@ Corresponds to the  **Pasting from other programs** option in the **Advanced** t
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

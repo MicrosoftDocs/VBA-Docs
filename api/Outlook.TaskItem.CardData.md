@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the text of the card data for the tas
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

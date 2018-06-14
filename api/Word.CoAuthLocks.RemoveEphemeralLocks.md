@@ -47,8 +47,5 @@ ActiveDocument.CoAuthoring.Locks.RemoveEphemeralLocks
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthLocks Object](Word.CoAuthLocks.md)
 

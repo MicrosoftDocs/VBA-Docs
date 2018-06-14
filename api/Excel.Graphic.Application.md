@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Graphic Object](Excel.Graphic.md)
 

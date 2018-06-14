@@ -42,8 +42,5 @@ MsgBox "There are " &; ActiveWorkbook.Excel4MacroSheets.Count &; _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

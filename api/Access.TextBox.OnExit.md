@@ -54,8 +54,5 @@ Forms("Order Entry").Controls("OK").OnExit = "Exit_Macro"
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

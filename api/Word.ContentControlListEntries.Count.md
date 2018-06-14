@@ -26,8 +26,5 @@ Returns the number of items in the  **ContentControlListEntries** collection. Re
 ## See also
 
 
-#### Concepts
-
-
 [ContentControlListEntries Collection](Word.ContentControlListEntries.md)
 

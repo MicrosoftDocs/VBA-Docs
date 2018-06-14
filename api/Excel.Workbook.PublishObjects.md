@@ -41,8 +41,5 @@ Next objPO
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

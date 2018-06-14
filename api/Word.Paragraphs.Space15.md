@@ -51,8 +51,5 @@ ActiveDocument.Paragraphs.Space15
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

@@ -31,9 +31,6 @@ This property corresponds to the MAPI property  **PidTagSubject** . The **Subjec
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 #### Other resources
 

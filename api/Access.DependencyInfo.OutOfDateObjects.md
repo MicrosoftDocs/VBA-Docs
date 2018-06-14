@@ -36,8 +36,5 @@ Application.CurrentProject.UpdateDependencyInfo
 ## See also
 
 
-#### Concepts
-
-
 [DependencyInfo Object](Access.DependencyInfo.md)
 

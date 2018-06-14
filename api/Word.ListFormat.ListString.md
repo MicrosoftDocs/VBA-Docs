@@ -46,8 +46,5 @@ MsgBox "List value " &; v _
 ## See also
 
 
-#### Concepts
-
-
 [ListFormat Object](Word.ListFormat.md)
 

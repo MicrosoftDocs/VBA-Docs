@@ -74,8 +74,5 @@ If rngTemp.Revisions.Count >= 1 Then _
 ## See also
 
 
-#### Concepts
-
-
 [Revision Object](Word.Revision.md)
 

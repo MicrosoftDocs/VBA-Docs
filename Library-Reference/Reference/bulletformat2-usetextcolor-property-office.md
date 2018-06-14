@@ -28,9 +28,6 @@ MsoTriState
 ## See also
 
 
-#### Concepts
-
-
 [BulletFormat2 Object](bulletformat2-object-office.md)
 #### Other resources
 

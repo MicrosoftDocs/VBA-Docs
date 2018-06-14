@@ -127,8 +127,5 @@ KeyBindings.Add KeyCategory:=wdKeyCategoryAutoText, _
 ## See also
 
 
-#### Concepts
-
-
 [KeyBindings Collection Object](Word.keybindings.md)
 

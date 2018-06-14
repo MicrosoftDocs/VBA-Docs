@@ -78,8 +78,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Editor Object](Word.Editor.md)
 

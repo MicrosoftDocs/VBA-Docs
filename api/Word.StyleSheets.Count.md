@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of style sheets in the collection
 ## See also
 
 
-#### Concepts
-
-
 [StyleSheets Collection](Word.StyleSheets.md)
 

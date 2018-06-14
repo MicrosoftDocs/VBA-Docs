@@ -26,8 +26,5 @@ Gets or sets the position of the datasheet relative to the form when the form is
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

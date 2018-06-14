@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of mapped data fields in the coll
 ## See also
 
 
-#### Concepts
-
-
 [MappedDataFields Collection](Word.MappedDataFields.md)
 

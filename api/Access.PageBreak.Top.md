@@ -31,8 +31,5 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 ## See also
 
 
-#### Concepts
-
-
 [PageBreak Object](Access.PageBreak.md)
 

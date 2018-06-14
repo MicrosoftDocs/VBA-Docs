@@ -33,8 +33,5 @@ If the control style is  **olComboBoxStyleListBox** , then this method copies th
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

@@ -31,8 +31,5 @@ Application
 ## See also
 
 
-#### Concepts
-
-
  [Attachments Collection](Publisher.Attachments.md)
 

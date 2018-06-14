@@ -68,8 +68,5 @@ Charts("Chart1").SeriesCollection(1). _
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Excel.Point(objec).md)
 

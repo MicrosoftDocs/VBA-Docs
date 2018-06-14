@@ -31,8 +31,5 @@ The  **AttachmentSelectionChange** event fires when a different or additional at
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

@@ -78,8 +78,5 @@ The following table lists each language version of Office, and gives its corresp
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 

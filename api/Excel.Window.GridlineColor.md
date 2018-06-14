@@ -37,8 +37,5 @@ ActiveWindow.GridlineColor = RGB(255,0,0)
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

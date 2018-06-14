@@ -39,8 +39,5 @@ A  **TimeZone** object that represents the specified object in the collection.
 ## See also
 
 
-#### Concepts
-
-
 [TimeZones Object](Outlook.TimeZones.md)
 

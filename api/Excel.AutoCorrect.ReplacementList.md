@@ -60,8 +60,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Excel.AutoCorrect(objec).md)
 

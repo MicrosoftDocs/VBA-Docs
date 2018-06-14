@@ -60,8 +60,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PlotArea Object](PowerPoint.PlotArea.md)
 

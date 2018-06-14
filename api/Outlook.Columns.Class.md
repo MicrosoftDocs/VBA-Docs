@@ -26,8 +26,5 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 ## See also
 
 
-#### Concepts
-
-
 [Columns Object](Outlook.Columns.md)
 

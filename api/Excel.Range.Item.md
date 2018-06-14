@@ -50,8 +50,5 @@ Worksheets("Sheet1").Range.Item("A1:A10").FillDown
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

@@ -26,8 +26,5 @@ Returns an  **[OMathBreaks](Word.OMathBreaks.md)** collection that represents th
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

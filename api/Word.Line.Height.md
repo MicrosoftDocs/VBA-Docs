@@ -26,8 +26,5 @@ Returns or sets the height of a line.
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Word.Line.md)
 

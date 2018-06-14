@@ -31,8 +31,5 @@ This property corresponds to the  **Match suffix** check box in the **Find and R
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

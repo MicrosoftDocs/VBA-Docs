@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.SharingItem.Open.md)** eve
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

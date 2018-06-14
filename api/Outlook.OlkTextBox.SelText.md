@@ -33,8 +33,5 @@ The default value is an empty string.
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

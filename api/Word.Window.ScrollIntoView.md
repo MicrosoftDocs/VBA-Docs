@@ -50,8 +50,5 @@ ActiveWindow.ScrollIntoView Selection.Range, True
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

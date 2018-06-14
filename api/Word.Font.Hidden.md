@@ -65,8 +65,5 @@ If Selection.Type = wdSelectionNormal Then _
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

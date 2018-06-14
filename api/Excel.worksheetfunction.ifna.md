@@ -38,8 +38,5 @@ Returns the value you specify if the expression resolves to #N/A, otherwise retu
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

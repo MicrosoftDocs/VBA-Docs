@@ -38,8 +38,5 @@ Worksheets("Sheet1").Range("A1") _
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Excel.Font(objec).md)
 

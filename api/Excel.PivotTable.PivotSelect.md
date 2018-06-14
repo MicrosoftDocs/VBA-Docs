@@ -51,8 +51,5 @@ Worksheets(1).PivotTables(1).PivotSelect "date[All]", xlLabelOnly
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

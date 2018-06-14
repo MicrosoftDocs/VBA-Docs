@@ -23,8 +23,5 @@ Returns or sets text break lines within or past the boundaries of the shape. Rea
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

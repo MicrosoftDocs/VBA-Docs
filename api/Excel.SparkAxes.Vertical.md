@@ -31,8 +31,5 @@ Returns the  **[SparkVerticalAxis](Excel.SparkVerticalAxis.md)** object for the 
 ## See also
 
 
-#### Concepts
-
-
 [SparkAxes Object](Excel.SparkAxes.md)
 

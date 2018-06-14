@@ -38,8 +38,5 @@ Converts a text representation of a number in a given base into a decimal number
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

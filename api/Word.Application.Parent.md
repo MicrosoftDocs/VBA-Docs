@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Appl
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

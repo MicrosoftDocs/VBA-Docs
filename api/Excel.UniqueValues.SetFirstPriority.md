@@ -34,8 +34,5 @@ When you have multiple conditional formatting rules in a worksheet, if the rule 
 ## See also
 
 
-#### Concepts
-
-
 [UniqueValues Object](Excel.UniqueValues.md)
 

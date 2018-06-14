@@ -26,8 +26,5 @@ Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the ite
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

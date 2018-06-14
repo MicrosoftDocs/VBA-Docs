@@ -26,8 +26,5 @@ Returns or sets a  **[WdCalendarType](Word.WdCalendarType.md)** constant that re
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

@@ -26,8 +26,5 @@ Returns or sets the identifying label for the specified object when the parent d
 ## See also
 
 
-#### Concepts
-
-
 [Editor Object](Word.Editor.md)
 

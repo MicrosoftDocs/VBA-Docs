@@ -45,8 +45,5 @@ temp = Options.RevisedLinesMark
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

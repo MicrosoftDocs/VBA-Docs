@@ -26,8 +26,5 @@ Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the fo
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

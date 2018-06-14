@@ -46,8 +46,5 @@ temp = Options.RevisedPropertiesMark
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

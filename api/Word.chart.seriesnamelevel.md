@@ -29,8 +29,5 @@ Returns or sets an [XlSeriesNameLevel](Word.xlseriesnamelevel.md) constant that 
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

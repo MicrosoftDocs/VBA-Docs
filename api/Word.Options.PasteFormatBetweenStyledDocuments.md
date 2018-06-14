@@ -31,8 +31,5 @@ Corresponds to the  **Pasting between two documents (with styles)** option in th
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

@@ -62,8 +62,5 @@ Application.CreateAccessProject "C:\Order Entry.adp"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

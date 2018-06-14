@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.AppointmentItem.Open.md)**
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

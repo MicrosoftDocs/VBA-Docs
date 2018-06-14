@@ -46,8 +46,5 @@ Set ns = Charts(1).SeriesCollection.NewSeries
 ## See also
 
 
-#### Concepts
-
-
 [SeriesCollection Object](Excel.SeriesCollection(object).md)
 

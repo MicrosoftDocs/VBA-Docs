@@ -43,8 +43,5 @@ Selection.Footnotes.Add Range:=Selection.Range, _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

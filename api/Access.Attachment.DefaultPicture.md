@@ -33,8 +33,5 @@ The default setting is (none). After the graphic is loaded into the object, the 
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

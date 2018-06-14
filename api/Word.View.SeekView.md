@@ -72,8 +72,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

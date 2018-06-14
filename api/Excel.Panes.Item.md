@@ -46,8 +46,5 @@ ActiveWindow.Panes.Item(3).ScrollRow = 5
 ## See also
 
 
-#### Concepts
-
-
 [Panes Object](Excel.Panes.md)
 

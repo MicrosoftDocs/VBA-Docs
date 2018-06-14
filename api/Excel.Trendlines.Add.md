@@ -57,8 +57,5 @@ ActiveWorkbook.Charts("Chart1").SeriesCollection(1).Trendlines.Add
 ## See also
 
 
-#### Concepts
-
-
 [Trendlines Object](Excel.Trendlines(object).md)
 

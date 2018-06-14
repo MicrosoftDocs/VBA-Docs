@@ -45,7 +45,4 @@ The  **ShowOSFTaskPane** method is not fully implemented in Project. If another 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)

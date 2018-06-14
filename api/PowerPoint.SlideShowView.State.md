@@ -54,8 +54,5 @@ SlideShowWindows(1).View.State = ppSlideShowBlackScreen
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

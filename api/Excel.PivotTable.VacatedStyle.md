@@ -36,8 +36,5 @@ Worksheets(1).PivotTables("Pivot1").VacatedStyle = "BlackAndBlue"
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

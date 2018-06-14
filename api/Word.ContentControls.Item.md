@@ -36,8 +36,5 @@ ContentControl
 ## See also
 
 
-#### Concepts
-
-
 [ContentControls Collection](Word.ContentControls.md)
 

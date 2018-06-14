@@ -37,8 +37,5 @@ MsgBox "The current default file path is " &; _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

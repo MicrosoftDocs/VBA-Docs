@@ -62,7 +62,4 @@ The following examples are valid, if the specified  _URL_ location exists:
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)

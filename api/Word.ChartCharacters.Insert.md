@@ -34,8 +34,5 @@ Inserts a string preceding the selected characters.
 ## See also
 
 
-#### Concepts
-
-
 [ChartCharacters Object](Word.ChartCharacters.md)
 

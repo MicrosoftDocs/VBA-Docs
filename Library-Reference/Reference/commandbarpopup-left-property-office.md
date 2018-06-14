@@ -29,9 +29,6 @@ Gets the horizontal position of the specified  **CommandBarPopup** control (in p
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarPopup Object](commandbarpopup-object-office.md)
 #### Other resources
 

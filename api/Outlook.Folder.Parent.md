@@ -31,8 +31,5 @@ The parent of the  **[Folder](Outlook.Folder.md)** object is the **[Folders](Out
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

@@ -39,9 +39,6 @@ MsgBox "The description of this " &amp; _
 ## See also
 
 
-#### Concepts
-
-
 [COMAddIn Object](comaddin-object-office.md)
 #### Other resources
 

@@ -31,8 +31,5 @@ Application
 ## See also
 
 
-#### Concepts
-
-
 [MediaFormat Object](PowerPoint.MediaFormat.md)
 

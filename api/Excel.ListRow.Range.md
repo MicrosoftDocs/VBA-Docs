@@ -26,8 +26,5 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range t
 ## See also
 
 
-#### Concepts
-
-
 [ListRow Object](Excel.ListRow.md)
 

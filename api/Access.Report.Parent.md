@@ -40,8 +40,5 @@ For example, you might insert an OrderDetails subform into both a form and a rep
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

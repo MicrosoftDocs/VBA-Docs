@@ -33,8 +33,5 @@ If you don't set a caption for a form, button, or label, Microsoft Access will a
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

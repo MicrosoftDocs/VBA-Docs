@@ -49,8 +49,5 @@ Selection.Previous(Unit:=wdParagraph, Count:=1).Select
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

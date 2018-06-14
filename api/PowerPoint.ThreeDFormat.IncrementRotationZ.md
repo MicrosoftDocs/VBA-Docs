@@ -34,8 +34,5 @@ Rotates the  **ThreeDFormat** object around the ground plane by the specified nu
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 

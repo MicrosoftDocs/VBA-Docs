@@ -59,8 +59,5 @@ Documents("Brochure.doc").Sections(1) _
 ## See also
 
 
-#### Concepts
-
-
 [TextColumns Collection Object](Word(textcolumns).md)
 

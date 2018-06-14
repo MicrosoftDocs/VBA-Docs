@@ -183,8 +183,5 @@ public static class PictureDispConverter
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

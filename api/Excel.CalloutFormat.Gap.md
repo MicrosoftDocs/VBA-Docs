@@ -37,8 +37,5 @@ myDocument.Shapes(1).Callout.Gap = 3
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Excel.CalloutFormat.md)
 

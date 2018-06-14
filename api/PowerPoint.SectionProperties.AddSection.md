@@ -51,8 +51,5 @@ If no sections exist in the presentation, calling this method and passing a sect
 ## See also
 
 
-#### Concepts
-
-
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 

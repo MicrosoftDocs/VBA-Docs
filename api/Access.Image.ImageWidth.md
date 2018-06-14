@@ -38,8 +38,5 @@ The following example prompts the user to enter the name of a bitmap and then as
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

@@ -36,8 +36,5 @@ Msgbox ActiveDocument.Styles(wdStyleHeading3).ListLevelNumber
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

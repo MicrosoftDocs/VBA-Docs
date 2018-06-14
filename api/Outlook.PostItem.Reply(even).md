@@ -39,8 +39,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

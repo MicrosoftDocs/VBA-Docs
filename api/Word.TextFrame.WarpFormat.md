@@ -36,8 +36,5 @@ ActiveDocument.Shapes(1).TextFrame.WarpFormat = msoWarpFormat15
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

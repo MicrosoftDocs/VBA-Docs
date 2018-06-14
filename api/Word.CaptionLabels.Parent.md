@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Capt
 ## See also
 
 
-#### Concepts
-
-
 [CaptionLabels Collection Object](Word.captionlabels.md)
 

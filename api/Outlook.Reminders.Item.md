@@ -39,8 +39,5 @@ A  **Reminder** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Reminders Object](Outlook.Reminders.md)
 

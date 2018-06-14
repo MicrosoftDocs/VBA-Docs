@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

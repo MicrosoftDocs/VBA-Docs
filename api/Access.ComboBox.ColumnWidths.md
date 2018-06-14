@@ -93,10 +93,6 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [ComboBox Object](Access.ComboBox.md)

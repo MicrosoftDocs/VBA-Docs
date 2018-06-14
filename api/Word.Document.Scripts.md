@@ -36,8 +36,5 @@ Debug.Print ActiveDocument.Scripts(1).ScriptText
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

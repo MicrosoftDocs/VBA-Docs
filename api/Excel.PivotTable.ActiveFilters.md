@@ -26,8 +26,5 @@ Indicates the currently active filter in the specified PivotTable. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

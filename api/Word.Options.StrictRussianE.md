@@ -31,8 +31,5 @@ Setting this property has the same effect as checking or unchecking the  **Russi
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

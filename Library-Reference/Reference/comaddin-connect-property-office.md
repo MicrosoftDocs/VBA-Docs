@@ -45,9 +45,6 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [COMAddIn Object](comaddin-object-office.md)
 #### Other resources
 

@@ -31,7 +31,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 ## See also
 
 
-#### Concepts
-
-
 [ReportTemplates Collection Object](Project.reporttemplates.md)

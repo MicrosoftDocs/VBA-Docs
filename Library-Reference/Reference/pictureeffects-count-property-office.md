@@ -23,9 +23,6 @@ Retrieves the count of the number of  **PictureEffect** objects contained within
 ## See also
 
 
-#### Concepts
-
-
 [PictureEffects Object](pictureeffects-object-office.md)
 #### Other resources
 

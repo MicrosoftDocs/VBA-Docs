@@ -69,8 +69,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
  [Attachment Object](Publisher.Attachment.md)
 

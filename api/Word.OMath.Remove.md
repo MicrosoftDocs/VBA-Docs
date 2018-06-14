@@ -26,8 +26,5 @@ Removes an equation from the collection of equations in a document, range, or se
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

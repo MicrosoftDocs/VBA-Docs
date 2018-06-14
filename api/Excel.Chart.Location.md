@@ -51,8 +51,5 @@ Worksheets(1).ChartObjects(1).Chart _
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -45,8 +45,5 @@ MsgBox "The name of the child field is " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

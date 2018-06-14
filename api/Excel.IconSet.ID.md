@@ -26,8 +26,5 @@ Returns one of the constants of the  **[XlIconSet](Excel.XlIconSet.md)** enumera
 ## See also
 
 
-#### Concepts
-
-
 [IconSet Object](Excel.IconSet.md)
 

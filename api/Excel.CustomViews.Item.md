@@ -50,8 +50,5 @@ ThisWorkbook.CustomViews.Item("Current Inventory") _
 ## See also
 
 
-#### Concepts
-
-
 [CustomViews Object](Excel.CustomViews.md)
 

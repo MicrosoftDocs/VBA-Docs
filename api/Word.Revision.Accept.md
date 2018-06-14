@@ -55,8 +55,5 @@ Next revLoop
 ## See also
 
 
-#### Concepts
-
-
 [Revision Object](Word.Revision.md)
 

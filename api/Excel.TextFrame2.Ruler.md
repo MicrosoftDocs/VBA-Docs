@@ -23,8 +23,5 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

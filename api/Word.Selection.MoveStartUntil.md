@@ -50,8 +50,5 @@ Selection.MoveStartUntil Cset:="I", Count:=wdBackward
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

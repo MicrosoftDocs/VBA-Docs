@@ -31,8 +31,5 @@ The  **[RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)** propert
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

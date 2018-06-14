@@ -31,9 +31,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersions Object](documentlibraryversions-object-office.md)
 #### Other resources
 

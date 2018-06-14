@@ -46,8 +46,5 @@ SlideShowWindows(1).View.First
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

@@ -26,8 +26,5 @@ Returns the type of layout for the specified option button. Read-only  **[AcLayo
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

@@ -31,8 +31,5 @@ This property can be any valid  **WdColor** constant or a value returned by Visu
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

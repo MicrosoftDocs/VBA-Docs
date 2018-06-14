@@ -36,8 +36,5 @@ Worksheets(1).Range("a10").QueryTable.Refresh
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

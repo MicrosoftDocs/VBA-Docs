@@ -44,8 +44,5 @@ You can set the value of this property to one of the following  **[XlConstants](
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 

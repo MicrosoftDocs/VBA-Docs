@@ -26,8 +26,5 @@ Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

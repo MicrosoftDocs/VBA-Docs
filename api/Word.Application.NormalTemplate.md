@@ -47,8 +47,5 @@ If NormalTemplate.Saved = False Then NormalTemplate.Save
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

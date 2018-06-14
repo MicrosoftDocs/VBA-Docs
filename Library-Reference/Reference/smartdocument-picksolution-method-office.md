@@ -70,9 +70,6 @@ The following example checks the  **SolutionID** property to determine whether t
 ## See also
 
 
-#### Concepts
-
-
 [SmartDocument Object](smartdocument-object-office.md)
 #### Other resources
 

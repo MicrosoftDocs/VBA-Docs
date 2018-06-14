@@ -47,8 +47,5 @@ Windows(1).Selection.SlideRange.ColorScheme _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

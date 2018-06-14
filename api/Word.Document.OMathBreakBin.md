@@ -33,8 +33,5 @@ When this property is set to  **wdOMathBreakBinRepeat** , use the **[OMathBreakS
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

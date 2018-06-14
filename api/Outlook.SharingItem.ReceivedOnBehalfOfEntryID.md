@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagReceivedRepresentingEntr
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

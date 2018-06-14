@@ -36,9 +36,6 @@ GradientStop
 ## See also
 
 
-#### Concepts
-
-
 [GradientStops Object](gradientstops-object-office.md)
 #### Other resources
 

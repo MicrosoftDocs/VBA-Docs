@@ -31,8 +31,5 @@ To support backward compatibility, the default value for this property is  **Fal
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

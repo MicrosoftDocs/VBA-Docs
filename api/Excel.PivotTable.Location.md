@@ -26,8 +26,5 @@ Gets or sets a  **String** that represents the top-left cell in the body of the 
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

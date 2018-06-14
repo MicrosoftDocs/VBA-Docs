@@ -23,9 +23,6 @@ Retrieves the string name of the SmartArt quick style. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtQuickStyle Object](smartartquickstyle-object-office.md)
 #### Other resources
 

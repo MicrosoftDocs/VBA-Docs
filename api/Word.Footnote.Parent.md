@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Foot
 ## See also
 
 
-#### Concepts
-
-
 [Footnote Object](Word.Footnote.md)
 

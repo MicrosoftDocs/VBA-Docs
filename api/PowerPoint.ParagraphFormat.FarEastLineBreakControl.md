@@ -51,8 +51,5 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.ParagraphFormat.FarEa
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 

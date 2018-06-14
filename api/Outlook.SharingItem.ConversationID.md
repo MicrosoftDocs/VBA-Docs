@@ -35,8 +35,5 @@ If the  **SharingItem** object is created in a version of Microsoft Outlook earl
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -60,9 +60,6 @@ The following example adds a new member to the members collection of the shared 
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceMembers Object](sharedworkspacemembers-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns or sets the identifying label for the specified table when the document 
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

@@ -26,8 +26,5 @@ Gets the name of the specified  **[TempVar](Access.TempVar.md)**. Read-only **St
 ## See also
 
 
-#### Concepts
-
-
 [TempVar Object](Access.TempVar.md)
 

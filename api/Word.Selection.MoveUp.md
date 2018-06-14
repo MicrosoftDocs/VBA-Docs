@@ -63,8 +63,5 @@ MsgBox "Line " &; Selection.Information(wdFirstCharacterLineNumber)
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

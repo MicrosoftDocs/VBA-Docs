@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [ScopeFolders Object](scopefolders-object-office.md)
 #### Other resources
 

@@ -44,8 +44,5 @@ If  _Index_ is outside the range of the allowed values (between zero and **[List
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

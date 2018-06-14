@@ -26,8 +26,5 @@ Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFon
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](Word.DataTable.md)
 

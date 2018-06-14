@@ -53,8 +53,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 

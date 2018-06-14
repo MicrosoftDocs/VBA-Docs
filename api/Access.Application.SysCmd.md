@@ -110,8 +110,5 @@ SysCmd 14, "<ActiveX Control GUID>"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

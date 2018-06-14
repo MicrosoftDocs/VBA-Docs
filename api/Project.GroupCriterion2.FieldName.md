@@ -23,8 +23,5 @@ Gets or sets the name of the field being grouped by. Read/write  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

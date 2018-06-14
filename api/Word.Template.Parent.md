@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Temp
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

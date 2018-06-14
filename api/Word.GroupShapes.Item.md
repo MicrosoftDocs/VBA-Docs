@@ -39,8 +39,5 @@ Shape
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Collection Object](Word.groupshapes.md)
 

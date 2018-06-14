@@ -26,8 +26,5 @@ Separates a list into two separate lists. For numbered lists, the new list resta
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

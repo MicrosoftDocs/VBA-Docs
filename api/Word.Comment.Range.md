@@ -39,8 +39,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

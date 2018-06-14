@@ -48,8 +48,5 @@ Application.ActivePresentation.SaveAs MyPath
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

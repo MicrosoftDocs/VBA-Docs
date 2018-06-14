@@ -58,8 +58,5 @@ Next pvtItem
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

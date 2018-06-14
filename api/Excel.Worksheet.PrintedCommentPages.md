@@ -36,8 +36,5 @@ The  **PrintedCommentPages** property will only return a number greater than zer
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

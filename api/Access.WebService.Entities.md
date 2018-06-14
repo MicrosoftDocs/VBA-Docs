@@ -26,8 +26,5 @@ Gets the collection of entities defined for the specified Data Service data conn
 ## See also
 
 
-#### Concepts
-
-
 [WebService Object](Access.WebService.md)
 

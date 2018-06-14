@@ -23,7 +23,4 @@ Gets the total number of child task drivers that affect the dates of a task. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ChildDrivers Collection Object](Project.childdrivers.md)

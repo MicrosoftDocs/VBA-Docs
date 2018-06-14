@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.DistListItem.Open.md)** ev
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

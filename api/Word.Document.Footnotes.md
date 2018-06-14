@@ -55,8 +55,5 @@ ActiveDocument.Footnotes.Add Range:=Selection.Range, _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

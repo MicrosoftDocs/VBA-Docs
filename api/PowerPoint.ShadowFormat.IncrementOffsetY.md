@@ -51,8 +51,5 @@ myDocument.Shapes(3).Shadow.IncrementOffsetY -3
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 

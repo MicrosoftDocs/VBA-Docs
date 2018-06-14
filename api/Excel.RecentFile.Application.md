@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [RecentFile Object](Excel.RecentFile.md)
 

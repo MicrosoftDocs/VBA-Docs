@@ -26,8 +26,5 @@ Returns one of the constants of the  **[XlConditionValueTypes](Excel.XlCondition
 ## See also
 
 
-#### Concepts
-
-
 [ConditionValue Object](Excel.ConditionValue.md)
 

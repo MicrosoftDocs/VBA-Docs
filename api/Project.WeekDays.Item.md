@@ -31,7 +31,4 @@ Gets a single  **WeekDay** object from the **WeekDays** collection. Read-only **
 ## See also
 
 
-#### Concepts
-
-
 [WeekDays Collection Object](Project.weekdays.md)

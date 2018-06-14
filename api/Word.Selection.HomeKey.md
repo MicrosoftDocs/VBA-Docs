@@ -55,8 +55,5 @@ If pos = 0 Then StatusBar = "Selection was not moved"
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

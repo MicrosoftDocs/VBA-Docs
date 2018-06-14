@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](PowerPoint.Font.md)
 

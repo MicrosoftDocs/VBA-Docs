@@ -26,8 +26,5 @@ Returns the number of items in the  **Breaks** collection. Read-only **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [Breaks Collection](Word.Breaks.md)
 

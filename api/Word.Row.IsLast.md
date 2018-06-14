@@ -36,8 +36,5 @@ MsgBox ActiveDocument.Tables(1).Rows(2).IsLast
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

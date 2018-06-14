@@ -53,8 +53,5 @@ DoCmd.Rename "Old Employees Table", acTable, "Employees"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

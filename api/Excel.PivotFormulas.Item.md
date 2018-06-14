@@ -49,8 +49,5 @@ MsgBox Worksheets(1).PivotTables(1).PivotFormulas.Item(1).Formula
 ## See also
 
 
-#### Concepts
-
-
 [PivotFormulas Object](Excel.PivotFormulas.md)
 

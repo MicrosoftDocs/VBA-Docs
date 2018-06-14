@@ -40,8 +40,5 @@ Returns the probability of a trial result using a binomial distribution.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

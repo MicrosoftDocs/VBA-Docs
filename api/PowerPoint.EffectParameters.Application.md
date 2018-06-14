@@ -64,9 +64,6 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 
 

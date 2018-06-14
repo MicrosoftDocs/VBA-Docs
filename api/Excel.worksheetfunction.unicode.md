@@ -37,8 +37,5 @@ Returns the number (code point) corresponding to the first character of the text
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

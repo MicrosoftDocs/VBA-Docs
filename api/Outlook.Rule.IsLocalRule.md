@@ -35,8 +35,5 @@ If the rules collection on a store contains both server and client-side rules, t
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

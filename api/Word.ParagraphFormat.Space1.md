@@ -51,8 +51,5 @@ Selection.ParagraphFormat.Space1
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

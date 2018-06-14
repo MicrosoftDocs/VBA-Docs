@@ -31,8 +31,5 @@ The custom picture is of the Microsoft Windows type  **StdPicture** . The defaul
 ## See also
 
 
-#### Concepts
-
-
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

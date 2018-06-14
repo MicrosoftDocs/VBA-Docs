@@ -47,8 +47,5 @@ If NormalTemplate.Saved = False Then NormalTemplate.Save
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

@@ -26,8 +26,5 @@ Returns or sets the position of the axis title on the chart. Read/write  **[XlCh
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](Word.AxisTitle.md)
 

@@ -31,8 +31,5 @@ This property can be set to a value between 1 and 20. If this property is set to
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

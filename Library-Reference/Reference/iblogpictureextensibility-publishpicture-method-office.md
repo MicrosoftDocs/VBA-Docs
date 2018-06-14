@@ -45,9 +45,6 @@ This method is called during xHTML generation and hands off a .PNG representatio
 ## See also
 
 
-#### Concepts
-
-
 [IBlogPictureExtensibility Object](iblogpictureextensibility-object-office.md)
 #### Other resources
 

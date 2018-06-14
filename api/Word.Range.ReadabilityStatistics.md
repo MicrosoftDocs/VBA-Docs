@@ -43,8 +43,5 @@ Next rs
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -59,8 +59,5 @@ The  **Unload** event occurs before the **Close** event. The **Unload** event ca
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

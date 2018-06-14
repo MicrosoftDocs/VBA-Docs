@@ -34,8 +34,5 @@ Returns a  **Page** object that represents a collection of pages in a workbook. 
 ## See also
 
 
-#### Concepts
-
-
 [Pages Object](Excel.Pages.md)
 

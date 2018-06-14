@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [CubeFields Object](Excel.CubeFields.md)
 

@@ -44,8 +44,5 @@ The index value of a  **NavigationFolder** in the collection represents the ordi
 ## See also
 
 
-#### Concepts
-
-
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 

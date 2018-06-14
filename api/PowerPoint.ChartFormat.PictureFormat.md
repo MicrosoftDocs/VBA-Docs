@@ -26,8 +26,5 @@ Returns a  **[PictureFormat](PowerPoint.PictureFormat.md)** object for a specifi
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](PowerPoint.ChartFormat.md)
 

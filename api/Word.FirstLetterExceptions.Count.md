@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of first letter exceptions in the
 ## See also
 
 
-#### Concepts
-
-
 [FirstLetterExceptions Collection Object](Word.firstletterexceptions.md)
 

@@ -23,8 +23,5 @@ Deletes a  **GroupCriterion2** object from its containing **GroupCriteria2** col
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

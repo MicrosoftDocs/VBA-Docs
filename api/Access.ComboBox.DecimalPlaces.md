@@ -45,8 +45,5 @@ You can use the  **DecimalPlaces** property to display numbers differently from 
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

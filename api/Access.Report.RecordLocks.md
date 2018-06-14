@@ -51,8 +51,5 @@ You can use the All Records setting when you need to ensure that no changes are 
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

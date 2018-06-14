@@ -41,8 +41,5 @@ Worksheets(1).ScrollArea = "a1:f10"
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

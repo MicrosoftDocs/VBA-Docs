@@ -31,8 +31,5 @@ Single
 ## See also
 
 
-#### Concepts
-
-
 [View Object](PowerPoint.View.md)
 

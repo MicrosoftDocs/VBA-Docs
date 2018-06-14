@@ -34,8 +34,5 @@ The setting of  **SkyDriveSignInOption** corresponds to that of the **Show addit
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

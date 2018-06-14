@@ -41,9 +41,6 @@ Returns the list and details of user blogs associated with the specified account
 ## See also
 
 
-#### Concepts
-
-
 [IBlogExtensibility Object](iblogextensibility-object-office.md)
 #### Other resources
 

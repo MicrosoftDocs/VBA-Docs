@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Firs
 ## See also
 
 
-#### Concepts
-
-
 [FirstLetterException Object](Word.FirstLetterException.md)
 

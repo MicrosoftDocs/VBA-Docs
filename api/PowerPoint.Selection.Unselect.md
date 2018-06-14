@@ -36,8 +36,5 @@ Windows(1).Selection.Unselect
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

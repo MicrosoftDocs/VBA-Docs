@@ -26,8 +26,5 @@ Returns or sets the shape used with the 3-D bar or column chart. Read/write  **[
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

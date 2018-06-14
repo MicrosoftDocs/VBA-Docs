@@ -78,8 +78,5 @@ DoCmd.Close acForm, "Order Review", acSaveYes
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

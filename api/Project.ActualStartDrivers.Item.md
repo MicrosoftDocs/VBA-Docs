@@ -31,8 +31,5 @@ Gets a single  **Assignment** object from an **ActualStartDrivers** collection. 
 ## See also
 
 
-#### Concepts
-
-
 [ActualStartDrivers Collection Object](Project.actualstartdrivers.md)
 

@@ -31,8 +31,5 @@ The  **[LastName](Outlook.ContactItem.LastName.md)** , **[FirstName](Outlook.Con
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

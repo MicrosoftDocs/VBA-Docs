@@ -42,8 +42,5 @@ objTable.Columns.Width = InchesToPoints(1.5)
 ## See also
 
 
-#### Concepts
-
-
 [Columns Collection Object](Word.columns.md)
 

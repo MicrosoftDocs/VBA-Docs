@@ -51,8 +51,5 @@ You can save as a PDF or XPS file from a 2007 Microsoft Office system program on
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [PlotArea Object](Word.PlotArea.md)
 

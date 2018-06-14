@@ -31,8 +31,5 @@ This property is parsed from the  **[HomeAddress](Outlook.ContactItem.HomeAddres
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

@@ -26,8 +26,5 @@ Returns or sets the height of the specified object, in points. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 

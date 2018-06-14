@@ -40,8 +40,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Bookmark Object](Word.Bookmark.md)
 

@@ -132,8 +132,6 @@ Such add-ins should ensure that AutoSave is turned off by setting AutoSaveOn to 
 
 ## See also
 
-#### Concepts
-
 - [Coauthoring in Excel](../../Excel-VBA/articles/about-coauthoring-in-excel.md)
 
 - [Document object](../../Word-VBA/articles/document-object-word.md)

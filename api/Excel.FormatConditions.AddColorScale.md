@@ -44,8 +44,5 @@ Color scales are visual guides that help you understand data distribution and va
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Object](Excel.FormatConditions.md)
 

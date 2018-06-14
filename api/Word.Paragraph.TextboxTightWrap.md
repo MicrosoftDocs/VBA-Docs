@@ -26,8 +26,5 @@ Returns or sets a  **[WdTextboxTightWrap](Word.WdTextboxTightWrap.md)** constant
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

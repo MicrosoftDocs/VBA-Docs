@@ -36,8 +36,5 @@ Returns  **True** if text automatically shrinks to fit in the available column w
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

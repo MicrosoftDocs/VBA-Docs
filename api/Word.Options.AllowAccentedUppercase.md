@@ -54,8 +54,5 @@ blnUppercaseAccents = Options.AllowAccentedUppercase
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

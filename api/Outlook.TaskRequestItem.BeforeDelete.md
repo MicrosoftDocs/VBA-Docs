@@ -39,8 +39,5 @@ The event occurs each time an item is deleted.
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

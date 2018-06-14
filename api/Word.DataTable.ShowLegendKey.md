@@ -26,8 +26,5 @@ ms.date: 06/08/2017
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](Word.DataTable.md)
 

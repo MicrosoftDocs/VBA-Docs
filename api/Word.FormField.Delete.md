@@ -26,8 +26,5 @@ Deletes the specified form field.
 ## See also
 
 
-#### Concepts
-
-
 [FormField Object](Word.FormField.md)
 

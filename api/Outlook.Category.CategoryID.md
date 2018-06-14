@@ -104,8 +104,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Category Object](Outlook.Category.md)
 

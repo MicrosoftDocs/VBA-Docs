@@ -26,8 +26,5 @@ You can use the  **ProjectType** property to determine the type of project that 
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

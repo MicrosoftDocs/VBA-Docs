@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ListColumn Object](Excel.ListColumn.md)
 

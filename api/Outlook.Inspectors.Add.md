@@ -94,8 +94,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Inspectors Object](Outlook.Inspectors.md)
 

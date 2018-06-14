@@ -44,8 +44,6 @@ End Sub
 
 ## See also
 
-#### Concepts
-
 [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
 
 [Presentation Object](PowerPoint.Presentation.md)

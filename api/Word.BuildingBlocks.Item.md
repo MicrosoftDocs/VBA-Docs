@@ -39,8 +39,5 @@ BuildingBlock
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlocks Collection](Word.BuildingBlocks.md)
 

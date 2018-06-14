@@ -34,8 +34,5 @@ You can specify a gradient fill in the formatting for various shapes. The valid 
 ## See also
 
 
-#### Concepts
-
-
  [FillFormat Object](Publisher.FillFormat.md)
 

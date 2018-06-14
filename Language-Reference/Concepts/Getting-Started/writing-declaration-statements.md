@@ -32,9 +32,6 @@ The  **Dim** statement declares the `myCell` variable. The data type is an objec
 ## See also
 
 
-#### Concepts
-
-
 [Writing a Sub Procedure](writing-a-sub-procedure.md)
 [Declaring Constants](declaring-constants.md)
 [Declaring Variables](declaring-variables.md)

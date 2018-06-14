@@ -49,8 +49,5 @@ Worksheets("Sheet1").OLEObjects(1).Verb
 ## See also
 
 
-#### Concepts
-
-
 [OLEObject Object](Excel.OLEObject.md)
 

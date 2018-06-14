@@ -26,9 +26,6 @@ Retrieves the unique Id of the associated  **PickerResult** object. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [PickerResult Object](pickerresult-object-office.md)
 #### Other resources
 

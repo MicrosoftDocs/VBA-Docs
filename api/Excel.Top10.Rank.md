@@ -26,8 +26,5 @@ Returns or sets a  **Long** value, specifying either the number or percentage of
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

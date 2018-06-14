@@ -68,8 +68,6 @@ End With
 
 ## See also
 
-#### Concepts
-
 - [DocumentProperties Object](documentproperties-object-office.md)
 
 #### Other resources

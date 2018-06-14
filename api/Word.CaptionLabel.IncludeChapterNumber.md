@@ -41,8 +41,5 @@ Selection.InsertCaption Label:="Figure", Title:=": History"
 ## See also
 
 
-#### Concepts
-
-
 [CaptionLabel Object](Word.CaptionLabel.md)
 

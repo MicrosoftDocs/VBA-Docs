@@ -41,8 +41,5 @@ ActiveDocument.WebOptions.AllowPNG = True
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Word.WebOptions.md)
 

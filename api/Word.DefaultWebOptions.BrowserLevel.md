@@ -45,8 +45,5 @@ Documents.Add DocumentType:=wdNewWebPage
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 

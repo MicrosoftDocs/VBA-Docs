@@ -35,9 +35,6 @@ Deletes a filter object from the  **ODSOFilters** collection.
 ## See also
 
 
-#### Concepts
-
-
 [ODSOFilters Object](odsofilters-object-office.md)
 #### Other resources
 

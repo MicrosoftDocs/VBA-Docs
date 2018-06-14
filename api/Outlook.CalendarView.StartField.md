@@ -31,8 +31,5 @@ The values of the  **StartField** and **[EndField](Outlook.CalendarView.EndField
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

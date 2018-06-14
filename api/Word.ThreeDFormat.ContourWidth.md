@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the width of the contour of a shap
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

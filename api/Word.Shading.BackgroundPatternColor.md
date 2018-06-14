@@ -57,8 +57,5 @@ myTable.Cell(1, 1).Shading.BackgroundPatternColor = _
 ## See also
 
 
-#### Concepts
-
-
 [Shading Object](Word.Shading.md)
 

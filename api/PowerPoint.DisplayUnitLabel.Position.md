@@ -23,8 +23,5 @@ Returns or sets the position of the unit label on an axis in the chart. Read/wri
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 

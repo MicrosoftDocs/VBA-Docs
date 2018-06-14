@@ -34,8 +34,5 @@ Applies the specified style but maintains any formatting that a user directly ap
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

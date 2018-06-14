@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [MetaProperties Object](metaproperties-object-office.md)
 #### Other resources
 

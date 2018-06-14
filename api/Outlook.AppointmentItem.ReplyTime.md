@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the reply time for the appointment. Read/
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

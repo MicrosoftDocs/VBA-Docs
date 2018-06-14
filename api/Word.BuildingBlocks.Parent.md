@@ -23,8 +23,5 @@ Returns an  **Object** that represents the parent object of the specified **Buil
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlocks Collection](Word.BuildingBlocks.md)
 

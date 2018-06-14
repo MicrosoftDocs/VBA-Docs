@@ -43,8 +43,5 @@ SlideShowWindows(1).View.Next
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

@@ -50,8 +50,5 @@ newWordArt.TextEffect.ToggleVerticalText
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 

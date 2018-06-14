@@ -37,8 +37,5 @@ ParagraphFormat.SpaceBefore = 0
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

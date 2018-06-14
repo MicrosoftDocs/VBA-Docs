@@ -36,8 +36,5 @@ It returns  **Nothing** if no last object exists, for example, if the collection
 ## See also
 
 
-#### Concepts
-
-
 [Results Object](Outlook.Results.md)
 

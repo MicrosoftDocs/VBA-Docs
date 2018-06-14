@@ -36,8 +36,5 @@ MsgBox ActiveSheet.ProtectionMode
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

@@ -26,8 +26,5 @@ Saves the view, or saves the changes to a view.
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

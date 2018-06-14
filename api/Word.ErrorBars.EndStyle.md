@@ -52,8 +52,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ErrorBars Object](Word.ErrorBars.md)
 

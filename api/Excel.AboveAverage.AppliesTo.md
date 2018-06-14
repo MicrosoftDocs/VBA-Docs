@@ -26,8 +26,5 @@ Returns a  **[Range](Excel.Range(objec).md)** object specifying the cell range t
 ## See also
 
 
-#### Concepts
-
-
 [AboveAverage Object](Excel.AboveAverage.md)
 

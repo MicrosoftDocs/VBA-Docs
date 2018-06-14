@@ -37,8 +37,5 @@ ActiveWorkbook.Connections(1).OLEDBConnection.Refresh
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

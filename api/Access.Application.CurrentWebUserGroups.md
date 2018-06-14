@@ -44,8 +44,5 @@ The  **CurrentWebUserGroups** method returns **Null** if the user is not a membe
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

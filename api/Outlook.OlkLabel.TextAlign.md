@@ -31,8 +31,5 @@ The default value is  **olTextAlignLeft** in left-to-right languages such as Eng
 ## See also
 
 
-#### Concepts
-
-
 [OlkLabel Object](Outlook.OlkLabel.md)
 

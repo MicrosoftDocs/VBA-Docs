@@ -80,8 +80,5 @@ Documents.Open FileName:="C:\Files\Doc.doc", ReadOnly:=True
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

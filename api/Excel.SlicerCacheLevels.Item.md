@@ -45,8 +45,5 @@ ActiveWorkbook.SlicerCaches("Slicer_Country"). _
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevels Object](Excel.SlicerCacheLevels.md)
 

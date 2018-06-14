@@ -63,8 +63,5 @@ Windows.Add Window:=Documents("MyDoc.doc").Windows(1)
 ## See also
 
 
-#### Concepts
-
-
 [Windows Collection Object](Word.windows.md)
 

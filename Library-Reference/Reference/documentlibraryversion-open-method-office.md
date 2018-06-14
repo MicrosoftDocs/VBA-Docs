@@ -40,9 +40,6 @@ The following example opens the previous saved version of the active document in
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)
 #### Other resources
 

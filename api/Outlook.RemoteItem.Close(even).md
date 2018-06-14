@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.RemoteItem.Close(method).md)** method to fire 
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

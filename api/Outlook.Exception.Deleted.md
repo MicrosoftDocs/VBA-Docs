@@ -31,8 +31,5 @@ If this property returns  **True** , then the **AppointmentItem** was deleted fr
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Outlook.Exception.md)
 

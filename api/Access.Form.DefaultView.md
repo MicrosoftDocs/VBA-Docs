@@ -54,8 +54,5 @@ The combination of these properties creates the following conditions.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

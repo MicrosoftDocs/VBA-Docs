@@ -44,8 +44,5 @@ If the  **On Paint** box is blank, the property value is an empty string.
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

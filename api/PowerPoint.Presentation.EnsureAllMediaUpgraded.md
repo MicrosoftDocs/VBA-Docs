@@ -26,8 +26,5 @@ Ensures that all media is up to date in a  **Presentation** object.
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

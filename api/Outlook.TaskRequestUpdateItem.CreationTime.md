@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagCreationTime** .
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

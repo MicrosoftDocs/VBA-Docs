@@ -43,8 +43,5 @@ myDocument.Shapes(3).Adjustments(1) = 0.25
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

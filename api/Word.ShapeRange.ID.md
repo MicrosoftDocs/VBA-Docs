@@ -26,8 +26,5 @@ Returns the identification type for the range of shapes. Read-only  **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

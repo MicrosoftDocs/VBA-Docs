@@ -46,8 +46,5 @@ System.Connect Path:="\\Project\Info"
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

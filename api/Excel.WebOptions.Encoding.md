@@ -31,8 +31,5 @@ You cannot use any of the constants that have the suffix  **AutoDetect** . These
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

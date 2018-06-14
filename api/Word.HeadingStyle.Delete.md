@@ -26,8 +26,5 @@ Deletes the specified heading style.
 ## See also
 
 
-#### Concepts
-
-
 [HeadingStyle Object](Word.HeadingStyle.md)
 

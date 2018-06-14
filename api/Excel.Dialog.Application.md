@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Excel.Dialog.md)
 

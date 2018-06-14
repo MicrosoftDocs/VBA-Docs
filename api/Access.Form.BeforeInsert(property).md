@@ -42,8 +42,5 @@ Forms(0).BeforeInsert = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -95,9 +95,6 @@ private void DemoViewGetTable()
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 #### Other resources
 

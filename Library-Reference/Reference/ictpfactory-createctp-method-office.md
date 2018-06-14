@@ -65,9 +65,6 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 ## See also
 
 
-#### Concepts
-
-
 [ICTPFactory Object](ictpfactory-object-office.md)
 #### Other resources
 

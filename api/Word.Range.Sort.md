@@ -68,8 +68,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

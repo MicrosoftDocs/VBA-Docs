@@ -41,8 +41,5 @@ ActiveDocument.ActiveWindow.View.ShowInkAnnotations = True
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

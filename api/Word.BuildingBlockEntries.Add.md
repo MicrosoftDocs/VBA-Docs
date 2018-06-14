@@ -59,8 +59,5 @@ Set objBB = objTemplate.BuildingBlockEntries.Add("Author Name", _
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlockEntries Collection](Word.BuildingBlockEntries.md)
 

@@ -44,8 +44,5 @@ If no report has the focus when you use the  **ActiveReport** property, an error
 ## See also
 
 
-#### Concepts
-
-
 [Screen Object](Access.Screen.md)
 

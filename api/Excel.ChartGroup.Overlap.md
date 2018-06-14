@@ -41,8 +41,5 @@ Charts("Chart1").ChartGroups(1).Overlap = -50
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

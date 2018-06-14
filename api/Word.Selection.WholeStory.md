@@ -37,8 +37,5 @@ objSel.Expand Unit:=wdStory
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

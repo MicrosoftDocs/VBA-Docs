@@ -26,8 +26,5 @@ Returns an  **[XmlDataBinding](Excel.XmlDataBinding.md)** object that represents
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

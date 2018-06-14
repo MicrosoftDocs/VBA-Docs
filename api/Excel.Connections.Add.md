@@ -45,8 +45,5 @@ WorkbookConnection
 ## See also
 
 
-#### Concepts
-
-
 [Connections Object](Excel.Connections.md)
 

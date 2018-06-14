@@ -44,8 +44,5 @@ This method validates that the user who made the request is the creator of the d
 ## See also
 
 
-#### Concepts
-
-
 [Broadcast Object](PowerPoint.Broadcast.md)
 

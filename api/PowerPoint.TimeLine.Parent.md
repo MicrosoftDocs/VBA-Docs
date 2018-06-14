@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TimeLine Object](PowerPoint.TimeLine.md)
 

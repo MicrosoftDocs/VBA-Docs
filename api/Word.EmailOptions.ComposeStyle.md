@@ -46,8 +46,5 @@ Application.EmailOptions.ComposeStyle.Font.Color = _
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

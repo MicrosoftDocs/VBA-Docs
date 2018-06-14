@@ -36,8 +36,5 @@ Uses either LinearGradient or RectangularGradient.
 ## See also
 
 
-#### Concepts
-
-
 [Interior Object](Excel.Interior(objec).md)
 

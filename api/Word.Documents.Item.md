@@ -58,8 +58,5 @@ Documents.Item("Reports.docx").Save
 ## See also
 
 
-#### Concepts
-
-
 [Documents Collection Object](Word.documents.md)
 

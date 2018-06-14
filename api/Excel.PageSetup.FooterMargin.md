@@ -37,8 +37,5 @@ Worksheets("Sheet1").PageSetup.FooterMargin = _
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

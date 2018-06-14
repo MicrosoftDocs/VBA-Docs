@@ -43,8 +43,5 @@ ActiveDocument.Range.Font.NumberForm = wdNumberFormOldStyle
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

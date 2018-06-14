@@ -31,8 +31,5 @@ Setting this property to  **True** (default) will have no immediate visual effec
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

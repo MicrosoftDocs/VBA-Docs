@@ -34,8 +34,5 @@ Horizontally rotates a shape on the x-axis using the specified incrementation va
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

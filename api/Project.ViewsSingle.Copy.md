@@ -37,7 +37,4 @@ Makes a copy of a group definition for the  **ViewsSingle** collection and retur
 ## See also
 
 
-#### Concepts
-
-
 [ViewsSingle Collection Object](Project.viewssingle(object).md)

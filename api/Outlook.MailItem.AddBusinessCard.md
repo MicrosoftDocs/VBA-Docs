@@ -48,8 +48,5 @@ This method adds contact information, generated from the information stored in t
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

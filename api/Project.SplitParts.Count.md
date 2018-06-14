@@ -28,7 +28,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 ## See also
 
 
-#### Concepts
-
-
 [SplitParts Collection Object](Project.splitparts.md)

@@ -57,9 +57,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Timing Object](PowerPoint.Timing.md)
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 

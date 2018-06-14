@@ -23,8 +23,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [LeaderLines Object](PowerPoint.LeaderLines.md)
 

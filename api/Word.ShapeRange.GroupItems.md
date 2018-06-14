@@ -31,8 +31,5 @@ Returns a  **[GroupShapes](Word.groupshapes.md)** object that represents the ind
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

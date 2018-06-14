@@ -42,8 +42,5 @@ MsgBox ActiveDocument.Styles("Title").Description
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

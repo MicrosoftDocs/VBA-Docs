@@ -31,8 +31,5 @@ Sets the camera for the specified  **ThreeDFormat** object.
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

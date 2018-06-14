@@ -26,8 +26,5 @@ Returns or sets a value that determines whether the object has a shadow. Read/wr
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 

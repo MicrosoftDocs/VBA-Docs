@@ -50,9 +50,6 @@ Set latinMinorFont = tfThemeFonts(msoThemeLatin)
 ## See also
 
 
-#### Concepts
-
-
 [ThemeFonts Object](themefonts-object-office.md)
 #### Other resources
 

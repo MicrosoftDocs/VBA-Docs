@@ -26,8 +26,5 @@ Returns a  **Boolean** that indicates **True** if the task is a team task. Read/
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

@@ -36,8 +36,5 @@ The default setting of this property is  **xlDataSourceOrder** (1).
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 

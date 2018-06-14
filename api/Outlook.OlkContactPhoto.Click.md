@@ -26,8 +26,5 @@ Occurs when the control is clicked, either through user action or programmatical
 ## See also
 
 
-#### Concepts
-
-
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 

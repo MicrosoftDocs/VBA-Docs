@@ -43,8 +43,5 @@ To make a command button invisible, set its  **Transparent** property to Yes.
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

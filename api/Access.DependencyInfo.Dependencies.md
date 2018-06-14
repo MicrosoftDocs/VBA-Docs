@@ -31,8 +31,5 @@ To return the collection of objects that depend upon the specified  **AccessObje
 ## See also
 
 
-#### Concepts
-
-
 [DependencyInfo Object](Access.DependencyInfo.md)
 

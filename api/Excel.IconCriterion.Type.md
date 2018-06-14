@@ -31,8 +31,5 @@ The type of threshold value for an icon set can be a number, percent, formula, o
 ## See also
 
 
-#### Concepts
-
-
 [IconCriterion Object](Excel.IconCriterion.md)
 

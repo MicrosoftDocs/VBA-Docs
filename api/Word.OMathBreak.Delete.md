@@ -26,8 +26,5 @@ Deletes the specified equation break.
 ## See also
 
 
-#### Concepts
-
-
 [OMathBreak Object](Word.OMathBreak.md)
 

@@ -31,8 +31,5 @@ This is a free-form text field.
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

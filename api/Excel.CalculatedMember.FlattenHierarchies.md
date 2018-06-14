@@ -38,8 +38,5 @@ The value of this property corresponds to the setting of the  **Display items fr
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

@@ -57,9 +57,6 @@ You can use the following table to predict the number of sessions for which a me
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarButton Object](commandbarbutton-object-office.md)
 #### Other resources
 

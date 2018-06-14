@@ -31,8 +31,5 @@ The value of this property can be set to an integer value from - 90 to 90 degree
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Excel.TextFrame.md)
 

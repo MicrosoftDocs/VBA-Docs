@@ -35,8 +35,5 @@ Because opening a store can impose a performance overhead, and  **[Store.GetRoot
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

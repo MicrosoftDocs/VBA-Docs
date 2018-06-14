@@ -31,8 +31,5 @@ The  **NameSpace** object is the root of all the folders for the given name spac
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

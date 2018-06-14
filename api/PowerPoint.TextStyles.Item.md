@@ -56,8 +56,5 @@ The  _Type_ parameter value can be one of these **PpTextStyleType** constants.
 ## See also
 
 
-#### Concepts
-
-
 [TextStyles Object](PowerPoint.TextStyles.md)
 

@@ -31,8 +31,5 @@ The parent object of a  **SimpleItems** object is a **[Conversation](Outlook.Con
 ## See also
 
 
-#### Concepts
-
-
 [SimpleItems Object](Outlook.SimpleItems.md)
 

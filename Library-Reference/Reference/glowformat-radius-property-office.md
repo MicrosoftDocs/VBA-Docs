@@ -28,9 +28,6 @@ Single
 ## See also
 
 
-#### Concepts
-
-
 [GlowFormat Object](glowformat-object-office.md)
 #### Other resources
 

@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Validation Object](Excel.Validation.md)
 

@@ -51,8 +51,5 @@ lrule = Selection.Paragraphs(1).LineSpacingRule
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

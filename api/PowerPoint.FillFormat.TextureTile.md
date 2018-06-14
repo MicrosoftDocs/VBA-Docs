@@ -44,8 +44,5 @@ The setting of the  **TextureTile** property corresponds to the setting of the *
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](PowerPoint.FillFormat.md)
 

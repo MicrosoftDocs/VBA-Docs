@@ -31,8 +31,5 @@ Returns  **wdUndefined** if the **DisableCharacterSpaceGrid** property is set to
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

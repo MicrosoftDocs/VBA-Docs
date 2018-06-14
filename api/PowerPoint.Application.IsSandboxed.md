@@ -31,8 +31,5 @@ Use the  **IsSandboxed** property to determine whether a presentation is open in
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

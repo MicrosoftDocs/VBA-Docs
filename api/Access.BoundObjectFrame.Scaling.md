@@ -48,8 +48,5 @@ Forms("Order Entry").Controls("Customer Picture").Scaling = 2
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

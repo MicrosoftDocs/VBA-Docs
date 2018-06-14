@@ -33,8 +33,5 @@ If you use the  **[Close](Outlook.Inspector.Close(method).md)** method to fire t
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

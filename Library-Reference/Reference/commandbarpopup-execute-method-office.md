@@ -46,9 +46,6 @@ ctlAutoSum.Execute
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarPopup Object](commandbarpopup-object-office.md)
 #### Other resources
 

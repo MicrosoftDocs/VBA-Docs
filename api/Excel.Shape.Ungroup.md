@@ -60,8 +60,5 @@ For Each s In myDocument.Shapes
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

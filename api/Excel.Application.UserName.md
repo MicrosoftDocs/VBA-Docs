@@ -36,8 +36,5 @@ MsgBox "Current user is " &; Application.UserName
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

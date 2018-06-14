@@ -26,8 +26,5 @@ Specifies the Date operator used in the format condition. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Excel.FormatCondition.md)
 

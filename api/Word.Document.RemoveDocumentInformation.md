@@ -34,8 +34,5 @@ Removes sensitive information, properties, comments, and other metadata from a d
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

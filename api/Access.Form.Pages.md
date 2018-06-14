@@ -40,8 +40,5 @@ To refer to the  **Pages** property in a macro or Visual Basic, the form or repo
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -26,8 +26,5 @@ Gets or sets whether page margins are displayed when the specified report is in 
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

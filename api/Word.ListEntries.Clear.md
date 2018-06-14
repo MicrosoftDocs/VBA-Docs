@@ -37,8 +37,5 @@ Documents("Sales.doc").FormFields("Colors") _
 ## See also
 
 
-#### Concepts
-
-
 [ListEntries Collection Object](Word.listentries.md)
 

@@ -48,8 +48,5 @@ myDocument.Shapes.Title.TextFrame.TextRange.Text = "Welcome!"
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

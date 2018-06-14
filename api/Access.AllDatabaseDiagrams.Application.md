@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [AllDatabaseDiagrams Collection](Access.AllDatabaseDiagrams.md)
 

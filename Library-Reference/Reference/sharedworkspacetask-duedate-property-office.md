@@ -45,9 +45,6 @@ Dim swsTask As Office.SharedWorkspaceTask
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)
 #### Other resources
 

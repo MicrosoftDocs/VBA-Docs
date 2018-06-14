@@ -42,8 +42,5 @@ Documents("Sales.doc").FormFields("Colors").DropDown _
 ## See also
 
 
-#### Concepts
-
-
 [DropDown Object](Word.DropDown.md)
 

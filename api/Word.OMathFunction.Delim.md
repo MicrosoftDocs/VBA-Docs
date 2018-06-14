@@ -26,8 +26,5 @@ Returns an  **[OMathDelim](Word.OMathDelim.md)** object that represents the deli
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

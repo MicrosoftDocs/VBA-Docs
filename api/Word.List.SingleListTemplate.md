@@ -26,8 +26,5 @@ ms.date: 06/08/2017
 ## See also
 
 
-#### Concepts
-
-
 [List Object](Word.List.md)
 

@@ -26,8 +26,5 @@ You can use the  **AllReports** property to reference the **[AllReports](Access.
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

@@ -28,8 +28,5 @@ The  **Format** function uses different format code strings than do the **[Numbe
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](PowerPoint.DataLabels.md)
 

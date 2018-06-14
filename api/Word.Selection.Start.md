@@ -43,8 +43,5 @@ SelLength = Selection.End - Selection.Start
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

@@ -51,9 +51,6 @@ Dim swsMember As Office.SharedWorkspaceMember
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceMember Object](sharedworkspacemember-object-office.md)
 #### Other resources
 

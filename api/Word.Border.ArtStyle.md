@@ -62,8 +62,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Border Object](Word.Border.md)
 

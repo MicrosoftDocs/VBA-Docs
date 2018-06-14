@@ -26,8 +26,5 @@ Removes the recurrence settings and restores the single-occurrence state for an 
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

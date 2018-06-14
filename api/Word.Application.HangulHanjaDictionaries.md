@@ -66,8 +66,5 @@ Next di
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

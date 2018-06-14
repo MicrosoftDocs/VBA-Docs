@@ -39,9 +39,6 @@ The position of the first command bar control is 1. Separators are not counted i
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarPopup Object](commandbarpopup-object-office.md)
 #### Other resources
 

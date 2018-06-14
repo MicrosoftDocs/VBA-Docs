@@ -58,9 +58,6 @@ The following example adds a new file to the files collection of the shared work
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFiles Object](sharedworkspacefiles-object-office.md)
 #### Other resources
 

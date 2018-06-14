@@ -31,8 +31,5 @@ Returns or sets a  **Long** that indicates the order of execution of the rule am
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

@@ -46,8 +46,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ListGallery Object](Word.ListGallery.md)
 

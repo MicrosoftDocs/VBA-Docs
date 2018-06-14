@@ -31,8 +31,5 @@ OMathFunction
 ## See also
 
 
-#### Concepts
-
-
 [OMathScrSubSup Object](Word.OMathScrSubSup.md)
 

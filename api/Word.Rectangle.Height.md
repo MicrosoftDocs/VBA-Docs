@@ -26,8 +26,5 @@ Returns a  **Long** that represents the height of a rectangle, in pixels.
 ## See also
 
 
-#### Concepts
-
-
 [Rectangle Object](Word.Rectangle.md)
 

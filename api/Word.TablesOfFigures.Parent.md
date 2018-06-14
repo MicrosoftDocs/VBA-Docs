@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Tabl
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 

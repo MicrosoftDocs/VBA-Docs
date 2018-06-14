@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that indicates if the user is allowed acces
 ## See also
 
 
-#### Concepts
-
-
 [UserAccess Object](Excel.UserAccess.md)
 

@@ -26,8 +26,5 @@ Gets the collection of installed Data Service data connections. Read-only  **[We
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

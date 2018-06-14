@@ -50,8 +50,5 @@ AutoCorrect.Entries.Add Name:="thier", Value:="their"
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrectEntries Collection Object](Word.autocorrectentries.md)
 

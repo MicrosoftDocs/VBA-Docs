@@ -40,8 +40,5 @@ myTE.TextEffect.Alignment = msoTextEffectAlignmentRight
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ErrorBars Object](Word.ErrorBars.md)
 

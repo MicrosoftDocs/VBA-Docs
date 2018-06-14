@@ -39,8 +39,5 @@ ActiveDocument.Tables.Add Range:=Selection.Range, _
 ## See also
 
 
-#### Concepts
-
-
 [AutoCaption Object](Word.AutoCaption.md)
 

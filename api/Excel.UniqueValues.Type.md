@@ -31,8 +31,5 @@ This property will always return a  **Long** value of "8", which is equivalent t
 ## See also
 
 
-#### Concepts
-
-
 [UniqueValues Object](Excel.UniqueValues.md)
 

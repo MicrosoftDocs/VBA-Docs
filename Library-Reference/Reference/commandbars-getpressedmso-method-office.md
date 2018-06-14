@@ -55,9 +55,6 @@ Application.CommandBars.GetPressedMso("Bold")
 ## See also
 
 
-#### Concepts
-
-
 [CommandBars Object](commandbars-object-office.md)
 #### Other resources
 

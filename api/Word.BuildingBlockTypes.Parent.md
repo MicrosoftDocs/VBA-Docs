@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Buil
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlockTypes Collection](Word.BuildingBlockTypes.md)
 

@@ -36,8 +36,5 @@ MsgBox ActiveSheet.ProtectionMode
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

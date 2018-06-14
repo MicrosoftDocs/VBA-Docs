@@ -38,8 +38,5 @@ Returns the number of days between the two dates.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -119,10 +119,6 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 
 ## See also
-<a name="AboutContributor"> </a>
-
-
-#### Concepts
 
 
 [Workbooks Object](Excel.Workbooks.md)

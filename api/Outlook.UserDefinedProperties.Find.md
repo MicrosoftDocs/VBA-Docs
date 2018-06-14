@@ -39,8 +39,5 @@ A  **UserDefinedProperty** object that represents the located object, if success
 ## See also
 
 
-#### Concepts
-
-
 [UserDefinedProperties Object](Outlook.UserDefinedProperties.md)
 

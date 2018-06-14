@@ -36,8 +36,5 @@ Options.ShowDiacritics = False
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

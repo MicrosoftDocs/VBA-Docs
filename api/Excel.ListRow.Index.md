@@ -26,8 +26,5 @@ Returns a  **Long** value that represents the index number of the **[ListRow](Ex
 ## See also
 
 
-#### Concepts
-
-
 [ListRow Object](Excel.ListRow.md)
 

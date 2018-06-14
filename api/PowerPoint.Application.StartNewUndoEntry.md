@@ -26,8 +26,5 @@ Starts a new undo entry in the  **Application** object.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

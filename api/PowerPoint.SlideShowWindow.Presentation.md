@@ -50,8 +50,5 @@ Windows(2).Presentation.PageSetup _
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 

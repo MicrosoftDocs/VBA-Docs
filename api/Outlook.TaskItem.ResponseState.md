@@ -26,8 +26,5 @@ Returns an  **[OlTaskResponse](Outlook.OlTaskResponse.md)** constant indicating 
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

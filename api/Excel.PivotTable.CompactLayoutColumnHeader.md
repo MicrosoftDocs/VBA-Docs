@@ -31,8 +31,5 @@ When the user customizes these captions in the grid, it is also reflected in the
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -48,8 +48,5 @@ objPT.PivotFields("State").CurrentPageName = "Oregon"
 ## See also
 
 
-#### Concepts
-
-
 [PivotLayout Object](Excel.PivotLayout.md)
 

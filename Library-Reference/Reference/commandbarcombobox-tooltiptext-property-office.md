@@ -39,9 +39,6 @@ By default, the value of the  **Caption** property is used as the **ScreenTip**.
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

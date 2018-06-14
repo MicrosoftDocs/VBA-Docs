@@ -26,8 +26,5 @@ Returns the previous mail merge field in the collection of mail merge fields. Re
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeField Object](Word.MailMergeField.md)
 

@@ -23,8 +23,5 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](P
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](PowerPoint.LegendKey.md)
 

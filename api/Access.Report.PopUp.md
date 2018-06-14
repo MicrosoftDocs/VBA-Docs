@@ -50,8 +50,5 @@ Setting the  **PopUp** property to Yes makes the report a pop-up window only whe
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

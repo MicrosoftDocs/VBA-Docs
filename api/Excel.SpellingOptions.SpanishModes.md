@@ -31,8 +31,5 @@ Returns or sets the mode for checking the spelling of Spanish. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [SpellingOptions Object](Excel.SpellingOptions.md)
 

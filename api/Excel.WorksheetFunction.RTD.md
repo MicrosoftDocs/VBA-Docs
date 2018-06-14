@@ -73,8 +73,5 @@ The  _server_ argument is required in Visual Basic for Applications (VBA), even 
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

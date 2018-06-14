@@ -31,8 +31,5 @@ The inheritance style is used when the action is executed to control how propert
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Outlook.Action.md)
 

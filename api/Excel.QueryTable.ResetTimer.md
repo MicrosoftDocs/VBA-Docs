@@ -36,8 +36,5 @@ ActiveSheet.QueryTables(1).ResetTimer
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

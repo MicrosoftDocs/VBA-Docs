@@ -33,8 +33,5 @@ You can use the Color Builder to set this property by clicking the  **Build** bu
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

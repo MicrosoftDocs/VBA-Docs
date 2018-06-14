@@ -65,9 +65,6 @@ The following example lists the links in a shared workspace site that were modif
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceLink Object](sharedworkspacelink-object-office.md)
 #### Other resources
 

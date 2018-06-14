@@ -31,7 +31,4 @@ Gets a single  **View** object from the **ViewsSingle** collection. Read-only **
 ## See also
 
 
-#### Concepts
-
-
 [ViewsSingle Collection Object](Project.viewssingle(object).md)

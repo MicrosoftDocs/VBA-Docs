@@ -47,8 +47,5 @@ A  **Conversation** object that represents the conversation to which this conver
 ## See also
 
 
-#### Concepts
-
-
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 

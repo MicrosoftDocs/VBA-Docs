@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Endn
 ## See also
 
 
-#### Concepts
-
-
 [EndnoteOptions Object](Word.EndnoteOptions.md)
 

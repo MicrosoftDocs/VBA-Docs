@@ -31,8 +31,5 @@ This property provides a way to access the object model of the container applica
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

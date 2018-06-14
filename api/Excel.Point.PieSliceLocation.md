@@ -45,8 +45,5 @@ This property only applies to pie and doughnut chart types.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Excel.Point(objec).md)
 

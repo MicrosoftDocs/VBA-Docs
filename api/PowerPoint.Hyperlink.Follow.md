@@ -36,8 +36,5 @@ ActivePresentation.Slides(1).Hyperlinks(1).Follow
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 

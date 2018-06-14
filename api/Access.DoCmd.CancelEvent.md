@@ -42,8 +42,5 @@ For events that can be canceled, the default behavior for the event (that is, wh
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

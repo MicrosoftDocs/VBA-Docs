@@ -48,8 +48,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Legend Object](PowerPoint.Legend.md)
 

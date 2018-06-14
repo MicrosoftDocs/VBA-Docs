@@ -41,8 +41,5 @@ Selection.BoldRun
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

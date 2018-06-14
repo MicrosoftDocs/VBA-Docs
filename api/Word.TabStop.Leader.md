@@ -42,8 +42,5 @@ Next tsLoop
 ## See also
 
 
-#### Concepts
-
-
 [TabStop Object](Word.TabStop.md)
 

@@ -36,8 +36,5 @@ ActiveDocument.PageSetup.CharsLine = 42
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

@@ -31,8 +31,5 @@ For the  **[Phonetic](Excel.Phonetic.md)** object, this property returns or sets
 ## See also
 
 
-#### Concepts
-
-
 [Phonetics Object](Excel.Phonetics.md)
 

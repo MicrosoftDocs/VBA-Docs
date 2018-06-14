@@ -54,8 +54,5 @@ Application.MailingLabel.PrintOut Name:="5664", Address:=addr
 ## See also
 
 
-#### Concepts
-
-
 [MailingLabel Object](Word.MailingLabel.md)
 

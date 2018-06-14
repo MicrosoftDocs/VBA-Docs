@@ -26,8 +26,5 @@ Returns or sets the preferred unit of measurement to use for the width of the sp
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Word.Column.md)
 

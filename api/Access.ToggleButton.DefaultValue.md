@@ -64,8 +64,5 @@ If the controls are on the same form, the control that's the source of the defau
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

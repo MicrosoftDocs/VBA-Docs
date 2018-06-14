@@ -105,8 +105,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

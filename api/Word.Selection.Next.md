@@ -50,8 +50,5 @@ Selection.Next(Unit:=wdWord, Count:=1).Select
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

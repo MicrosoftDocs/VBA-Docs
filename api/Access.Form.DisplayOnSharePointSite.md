@@ -37,8 +37,5 @@ The  **DisplayOnSharePointSite** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

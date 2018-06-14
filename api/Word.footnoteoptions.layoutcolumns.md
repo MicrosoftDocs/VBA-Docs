@@ -29,8 +29,5 @@ Returns or sets the way footnotes are laid out in columns when the section conta
 ## See also
 
 
-#### Concepts
-
-
 [FootnoteOptions Object](Word.FootnoteOptions.md)
 

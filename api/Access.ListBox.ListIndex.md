@@ -39,8 +39,5 @@ The  **ItemsSelected** collection also provides a way to access data in the sele
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

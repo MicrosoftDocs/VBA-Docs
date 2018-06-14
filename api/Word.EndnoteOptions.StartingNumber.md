@@ -26,8 +26,5 @@ Returns or sets the starting endnote number. Read/write  **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [EndnoteOptions Object](Word.EndnoteOptions.md)
 

@@ -54,8 +54,5 @@ MsgBox "Horizontal Print Quality is " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

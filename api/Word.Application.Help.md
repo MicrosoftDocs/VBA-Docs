@@ -53,8 +53,5 @@ Help HelpType:=wdHelpUsingHelp
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

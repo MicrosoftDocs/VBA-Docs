@@ -26,8 +26,5 @@ Deletes the specified hyperlink.
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

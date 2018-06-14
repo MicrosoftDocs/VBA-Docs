@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Hang
 ## See also
 
 
-#### Concepts
-
-
 [HangulAndAlphabetException Object](Word.HangulAndAlphabetException.md)
 

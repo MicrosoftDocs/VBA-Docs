@@ -31,8 +31,5 @@ For contacts with a Microsoft Office InterConnect card type, this will reset the
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

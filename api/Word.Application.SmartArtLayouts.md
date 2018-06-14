@@ -47,8 +47,5 @@ mySmartArt.Layout = Application.SmartArtLayouts(15)
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

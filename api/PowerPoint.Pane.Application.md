@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](PowerPoint.Pane.md)
 

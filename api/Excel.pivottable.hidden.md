@@ -34,8 +34,5 @@ When the  **Hidden** property is set to **True** , the PivotTable object is hidd
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

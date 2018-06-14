@@ -101,8 +101,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [XPath Object](Excel.XPath.md)
 

@@ -26,8 +26,5 @@ Returns the type of item assigned to the specified key binding. Read-only  **WdK
 ## See also
 
 
-#### Concepts
-
-
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 

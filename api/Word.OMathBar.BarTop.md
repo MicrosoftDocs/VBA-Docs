@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents the position of a bar in a bar ob
 ## See also
 
 
-#### Concepts
-
-
 [OMathBar Object](Word.OMathBar.md)
 

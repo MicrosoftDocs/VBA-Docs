@@ -31,8 +31,5 @@ This property only contains the display names for the reply recipients. The repl
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

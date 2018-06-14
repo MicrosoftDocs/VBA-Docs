@@ -50,8 +50,5 @@ ActiveDocument.Paragraphs(5).Range _
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection Object](Word.inlineshapes.md)
 

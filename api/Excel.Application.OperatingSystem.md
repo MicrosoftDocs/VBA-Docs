@@ -41,8 +41,5 @@ MsgBox "Microsoft Excel is using " & Application.OperatingSystem
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

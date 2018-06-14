@@ -42,8 +42,5 @@ Selection.Range.TwoLinesInOne = _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

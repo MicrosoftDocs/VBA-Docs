@@ -65,9 +65,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [DocumentProperty Object](documentproperty-object-office.md)
 [Sync Object](sync-object-office.md)
 #### Other resources

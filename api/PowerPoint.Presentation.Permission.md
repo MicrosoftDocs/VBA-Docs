@@ -77,8 +77,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

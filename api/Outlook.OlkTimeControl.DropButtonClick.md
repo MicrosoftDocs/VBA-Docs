@@ -26,8 +26,5 @@ Occurs when the user clicks the drop button to expand the time drop-down list in
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

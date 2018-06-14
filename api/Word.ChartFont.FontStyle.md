@@ -45,8 +45,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartFont Object](Word.ChartFont.md)
 

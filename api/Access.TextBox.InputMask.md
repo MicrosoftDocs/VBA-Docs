@@ -104,8 +104,5 @@ The following table shows some useful input masks and the type of values you can
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

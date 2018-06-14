@@ -48,8 +48,5 @@ Set var = QueryTable.Sort
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

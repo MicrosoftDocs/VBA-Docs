@@ -54,8 +54,5 @@ AutoCorrect.OtherCorrectionsExceptions.Add Name:="myCompany"
 ## See also
 
 
-#### Concepts
-
-
 [OtherCorrectionsExceptions Collection Object](Word.othercorrectionsexceptions.md)
 

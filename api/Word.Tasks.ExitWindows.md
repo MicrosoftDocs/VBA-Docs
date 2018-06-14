@@ -43,8 +43,5 @@ Tasks.ExitWindows
 ## See also
 
 
-#### Concepts
-
-
 [Tasks Collection Object](Word.tasks.md)
 

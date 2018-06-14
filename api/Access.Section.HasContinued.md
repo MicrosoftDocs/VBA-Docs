@@ -39,8 +39,5 @@ You can use this property to determine whether to show or hide certain controls 
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

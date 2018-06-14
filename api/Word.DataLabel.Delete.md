@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [DataLabel Object](Word.DataLabel.md)
 

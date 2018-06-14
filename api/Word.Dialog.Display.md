@@ -74,8 +74,5 @@ Dialogs(wdDialogToolsCustomize).Display
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Word.Dialog.md)
 

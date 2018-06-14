@@ -41,9 +41,6 @@ Application.COMAddIns.Update
 ## See also
 
 
-#### Concepts
-
-
 [COMAddIns Object](comaddins-object-office.md)
 #### Other resources
 

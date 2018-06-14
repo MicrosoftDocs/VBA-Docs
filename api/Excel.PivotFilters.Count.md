@@ -26,8 +26,5 @@ Returns the number of items in the  **PivotFilters** collection. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilters Object](Excel.PivotFilters.md)
 

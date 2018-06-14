@@ -35,8 +35,5 @@ An error occurs if the  **[BCC](Outlook.SharingItem.BCC.md)** or **[CC](Outlook.
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

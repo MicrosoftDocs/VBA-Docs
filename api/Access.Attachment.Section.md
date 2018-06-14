@@ -31,8 +31,5 @@ For controls, you can use the  **Section** property to determine which section o
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

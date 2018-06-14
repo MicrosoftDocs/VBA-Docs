@@ -26,8 +26,5 @@ Deletes the specified email signature.
 ## See also
 
 
-#### Concepts
-
-
 [EmailSignatureEntry Object](Word.EmailSignatureEntry.md)
 

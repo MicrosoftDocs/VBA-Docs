@@ -34,8 +34,5 @@ Returns a  **Actions** object that represents a collection of actions in a workb
 ## See also
 
 
-#### Concepts
-
-
 [Actions Object](Excel.Actions.md)
 

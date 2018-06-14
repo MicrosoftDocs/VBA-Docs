@@ -52,8 +52,5 @@ ActivePresentation.FarEastLineBreakLevel = ppFarEastLineBreakLevelNormal
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

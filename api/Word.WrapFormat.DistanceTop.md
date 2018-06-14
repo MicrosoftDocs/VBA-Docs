@@ -74,8 +74,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [WrapFormat Object](Word.WrapFormat.md)
 

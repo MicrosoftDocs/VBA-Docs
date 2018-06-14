@@ -51,8 +51,5 @@ ActiveDocument.Paragraphs.OutlinePromote
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

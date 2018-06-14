@@ -26,8 +26,5 @@ Returns an  **[Interior](Excel.Interior(objec).md)** object that specifies a cel
 ## See also
 
 
-#### Concepts
-
-
 [UniqueValues Object](Excel.UniqueValues.md)
 

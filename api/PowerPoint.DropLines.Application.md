@@ -26,9 +26,6 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 ## See also
 
 
-#### Concepts
-
-
 [DropLines Object](PowerPoint.DropLines.md)
 
 

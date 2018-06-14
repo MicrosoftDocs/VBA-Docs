@@ -91,8 +91,5 @@ If (kbTemp Is Nothing) Then MsgBox _
 ## See also
 
 
-#### Concepts
-
-
 [KeyBindings Collection Object](Word.keybindings.md)
 

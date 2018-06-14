@@ -88,8 +88,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

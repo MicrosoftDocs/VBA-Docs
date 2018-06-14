@@ -35,8 +35,5 @@ Returns an error if one or more elements in the array contains an empty string o
 ## See also
 
 
-#### Concepts
-
-
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 

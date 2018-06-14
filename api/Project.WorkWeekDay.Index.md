@@ -28,7 +28,4 @@ The  **Index** properties of different objects are used in similar ways. For an 
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeekDay Object](Project.WorkWeekDay.md)

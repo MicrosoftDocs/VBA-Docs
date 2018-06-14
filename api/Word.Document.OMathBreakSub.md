@@ -31,8 +31,5 @@ This property is used only when the  **[OMathBreakBin](Word.Document.OMathBreakB
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

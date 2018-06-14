@@ -26,8 +26,5 @@ Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart 
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

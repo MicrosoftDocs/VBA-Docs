@@ -33,9 +33,6 @@ The default value for this property is  `IPM.Sharing`.
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 #### Other resources
 

@@ -60,8 +60,5 @@ If ActiveDocument.Undo = False Then _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

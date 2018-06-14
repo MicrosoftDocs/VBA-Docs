@@ -26,8 +26,5 @@ Returns or sets a  **[MsoShapeType](http://msdn.microsoft.com/library/21ab1915-9
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

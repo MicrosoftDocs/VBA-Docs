@@ -38,8 +38,5 @@ To change the pointer to a pen, set the  **[PointerType](PowerPoint.SlideShowVie
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

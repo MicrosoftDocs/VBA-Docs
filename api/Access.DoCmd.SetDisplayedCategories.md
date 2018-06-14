@@ -44,8 +44,5 @@ This method only enables or disables the display of the specified category or ca
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

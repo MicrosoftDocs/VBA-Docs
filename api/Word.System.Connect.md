@@ -73,8 +73,5 @@ System.Connect Path:="\\Team1\Public", Drive:=2
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

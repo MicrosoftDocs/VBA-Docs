@@ -42,9 +42,6 @@ Use the Save method to upload changes to the server after changing the propertie
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceLink Object](sharedworkspacelink-object-office.md)
 #### Other resources
 

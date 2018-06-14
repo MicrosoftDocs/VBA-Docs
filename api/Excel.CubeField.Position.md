@@ -26,8 +26,5 @@ Returns or sets a  **Long** value that represents the position of the hierarchy 
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

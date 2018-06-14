@@ -123,8 +123,5 @@ ActivePresentation.Slides(1).NotesPage.Shapes _
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

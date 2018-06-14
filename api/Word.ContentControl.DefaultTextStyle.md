@@ -26,8 +26,5 @@ Returns or sets a  **Variant** that represents the name of the character style t
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

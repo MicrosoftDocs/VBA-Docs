@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [AnimationPoints Object](PowerPoint.AnimationPoints.md)
 

@@ -56,8 +56,5 @@ Keyboard = Application.Keyboard
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

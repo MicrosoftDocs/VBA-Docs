@@ -39,8 +39,5 @@ You must apply the  **[AddNodes](Word.FreeformBuilder.AddNodes.md)** method to a
 ## See also
 
 
-#### Concepts
-
-
 [FreeformBuilder Object](Word.FreeformBuilder.md)
 

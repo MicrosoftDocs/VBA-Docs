@@ -41,8 +41,5 @@ Workbooks(1).PublishObjects(1).Title = "Sales Forecast"
 ## See also
 
 
-#### Concepts
-
-
 [PublishObject Object](Excel.PublishObject.md)
 

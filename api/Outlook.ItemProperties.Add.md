@@ -42,8 +42,5 @@ You can create a property of a type that is defined by the  **OlUserPropertyType
 ## See also
 
 
-#### Concepts
-
-
 [ItemProperties Object](Outlook.ItemProperties.md)
 

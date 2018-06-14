@@ -43,8 +43,5 @@ ActiveDocument.Shapes(1).Anchor.Paragraphs(1).Range.Select
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

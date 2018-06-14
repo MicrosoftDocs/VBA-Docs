@@ -46,7 +46,4 @@ Debug.Print ActiveProject.Tasks(2).StartDriver.OverAllocatedAssignments(pjOveral
 ## See also
 
 
-#### Concepts
-
-
 [StartDriver Object](Project.StartDriver.md)

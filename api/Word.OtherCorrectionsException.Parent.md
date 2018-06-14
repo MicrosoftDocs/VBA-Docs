@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Othe
 ## See also
 
 
-#### Concepts
-
-
 [OtherCorrectionsException Object](Word.OtherCorrectionsException.md)
 

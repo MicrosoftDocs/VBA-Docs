@@ -26,8 +26,5 @@ Returns or sets a  **WdBaselineAlignment** constant that represents the vertical
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

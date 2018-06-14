@@ -52,8 +52,5 @@ Selection.InsertBreak Type:=wdSectionBreakContinuous
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

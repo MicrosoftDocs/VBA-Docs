@@ -26,8 +26,5 @@ Returns a  **String** value that represents the complete path to the **Add-in** 
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](Excel.AddIn.md)
 

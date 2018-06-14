@@ -36,8 +36,5 @@ The  **CustomMaxScaleValue** property can be returned or set only when the **[Ma
 ## See also
 
 
-#### Concepts
-
-
 [SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 

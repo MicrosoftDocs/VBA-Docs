@@ -31,8 +31,5 @@ The  **Text** property returns the plain, unformatted text that is contained wit
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

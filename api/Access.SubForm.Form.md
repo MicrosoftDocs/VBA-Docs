@@ -77,8 +77,5 @@ curTotalAmount = Forms!Orders!OrderDetails.Form!TotalAmount
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

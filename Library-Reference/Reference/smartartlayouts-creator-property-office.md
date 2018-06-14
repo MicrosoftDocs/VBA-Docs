@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtLay
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtLayouts Object](smartartlayouts-object-office.md)
 #### Other resources
 

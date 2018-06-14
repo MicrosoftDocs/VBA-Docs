@@ -43,8 +43,5 @@ Application.DefaultWebOptions.RelyOnCSS = True
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Word.WebOptions.md)
 

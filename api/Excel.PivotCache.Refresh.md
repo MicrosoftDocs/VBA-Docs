@@ -36,8 +36,5 @@ Worksheets(1).PivotTables(1).PivotCache.Refresh
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

@@ -26,8 +26,5 @@ Clears the header and footer from the specified slide or slides.
 ## See also
 
 
-#### Concepts
-
-
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 

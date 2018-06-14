@@ -37,7 +37,4 @@ Adds an  **OutlineCode** object to an **OutlineCodes** collection.
 ## See also
 
 
-#### Concepts
-
-
 [OutlineCodes Collection Object](Project.outlinecodes(object).md)

@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the tracking status date and time for the
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

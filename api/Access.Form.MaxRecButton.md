@@ -43,8 +43,5 @@ Forms("Order Entry").MaxRecButton = False
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

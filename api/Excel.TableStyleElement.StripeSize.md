@@ -31,8 +31,5 @@ This property does not apply to all  **[TableStyleElement](Excel.TableStyleEleme
 ## See also
 
 
-#### Concepts
-
-
 [TableStyleElement Object](Excel.TableStyleElement.md)
 

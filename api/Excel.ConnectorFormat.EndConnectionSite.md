@@ -54,8 +54,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ConnectorFormat Object](Excel.ConnectorFormat.md)
 

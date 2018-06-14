@@ -53,9 +53,6 @@ objCustomXMLValidationErrors.Add("//badTag", "ValidationError", "To add content 
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLValidationErrors Object](customxmlvalidationerrors-object-office.md)
 #### Other resources
 

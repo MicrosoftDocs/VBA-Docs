@@ -49,8 +49,5 @@ Next aFrame
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

@@ -31,8 +31,5 @@ Automatic adjustments of the layout of a control include vertically or horizonta
 ## See also
 
 
-#### Concepts
-
-
 [OlkControl Class](Outlook.olkcontrol.md)
 

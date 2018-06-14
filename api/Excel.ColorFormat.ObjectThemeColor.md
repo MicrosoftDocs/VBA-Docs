@@ -26,8 +26,5 @@ Returns or sets a color that is mapped to the theme color scheme. Read/write  **
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Excel.ColorFormat.md)
 

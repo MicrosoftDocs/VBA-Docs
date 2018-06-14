@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Tags Object](PowerPoint.Tags.md)
 

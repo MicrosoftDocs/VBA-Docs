@@ -36,8 +36,5 @@ Selection.LanguageID = Languages("Icelandic").ID
 ## See also
 
 
-#### Concepts
-
-
 [Language Object](Word.Language.md)
 

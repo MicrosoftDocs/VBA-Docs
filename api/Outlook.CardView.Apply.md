@@ -26,8 +26,5 @@ Applies the  **[CardView](Outlook.CardView.md)** object to the current view.
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

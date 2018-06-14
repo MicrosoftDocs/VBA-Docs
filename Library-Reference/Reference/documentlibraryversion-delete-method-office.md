@@ -26,9 +26,6 @@ Removes a document library version from the  **DocumentLibraryVersions** collect
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns a  **[Shapes](Excel.Shapes.md)** collection that represents all the shap
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

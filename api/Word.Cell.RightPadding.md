@@ -42,8 +42,5 @@ ActiveDocument.Tables(1).Rows(1).Cells(1).RightPadding = _
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

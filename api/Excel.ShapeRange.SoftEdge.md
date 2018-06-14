@@ -26,8 +26,5 @@ Returns a  **[SoftEdgeFormat](http://msdn.microsoft.com/library/9d9b34e1-03b5-9e
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

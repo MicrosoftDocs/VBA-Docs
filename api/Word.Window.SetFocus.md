@@ -42,8 +42,5 @@ ActiveWindow.SetFocus
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

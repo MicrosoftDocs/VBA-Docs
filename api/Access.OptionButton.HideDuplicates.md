@@ -56,8 +56,5 @@ intCurVal = Me!CategoryName.HideDuplicates
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

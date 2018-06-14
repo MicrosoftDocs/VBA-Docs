@@ -61,8 +61,5 @@ Application.Addins("mytools").Loaded = msoFalse
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](PowerPoint.AddIn.md)
 

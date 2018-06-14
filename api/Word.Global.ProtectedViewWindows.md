@@ -26,8 +26,5 @@ Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) object that repre
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

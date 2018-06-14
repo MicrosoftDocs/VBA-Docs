@@ -45,8 +45,5 @@ Selection.Range.InsertAlignmentTab 1, 1
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

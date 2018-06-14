@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [VPageBreak Object](Excel.VPageBreak.md)
 

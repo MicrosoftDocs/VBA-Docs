@@ -34,8 +34,5 @@ The path doesn't include a trailing character—for example, "C:\MSOffice" or "h
 ## See also
 
 
-#### Concepts
-
-
 [StyleSheet Object](Word.StyleSheet.md)
 

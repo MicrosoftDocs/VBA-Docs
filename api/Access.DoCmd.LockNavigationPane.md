@@ -50,8 +50,5 @@ Locking the Navigation Pane prevents the user from deleting database objects or 
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

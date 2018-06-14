@@ -55,8 +55,5 @@ MsgBox "The current bottom margin is " &; marginInches &; " inches"
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

@@ -37,8 +37,5 @@ Use the  **CurrentData** property to refer to one of the following current datab
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

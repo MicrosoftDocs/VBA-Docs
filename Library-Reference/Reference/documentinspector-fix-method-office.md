@@ -59,9 +59,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [DocumentInspector Object](documentinspector-object-office.md)
 #### Other resources
 

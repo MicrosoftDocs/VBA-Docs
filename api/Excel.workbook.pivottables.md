@@ -34,8 +34,5 @@ Returns an object that represents a collection of all the PivotTable reports on 
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

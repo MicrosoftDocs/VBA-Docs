@@ -39,8 +39,5 @@ The segment following the Index node is also deleted. If the node is a control p
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 

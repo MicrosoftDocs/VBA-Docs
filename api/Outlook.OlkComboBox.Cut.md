@@ -33,8 +33,5 @@ If the control style is  **olComboBoxStyleListBox** , then this method will not 
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

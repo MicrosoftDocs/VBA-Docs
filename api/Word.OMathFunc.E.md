@@ -26,8 +26,5 @@ Returns an  **OMath** object that represents the base of the specified equation 
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunc Object](Word.OMathFunc.md)
 

@@ -26,8 +26,5 @@ Returns a  **[GlowFormat](Publisher.glowformat.md)** object that represents the 
 ## See also
 
 
-#### Concepts
-
-
  [ShapeRange Object](Publisher.ShapeRange.md)
 

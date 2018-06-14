@@ -31,9 +31,6 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [WorkflowTask Object](workflowtask-object-office.md)
 #### Other resources
 

@@ -117,8 +117,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [IconView Object](iconOutlook.View.md)
 

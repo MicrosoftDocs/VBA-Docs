@@ -36,8 +36,5 @@ Msgbox "The version of Word is " &; Application.Version
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

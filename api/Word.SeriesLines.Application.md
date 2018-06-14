@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [SeriesLines Object](Word.SeriesLines.md)
 

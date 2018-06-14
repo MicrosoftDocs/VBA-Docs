@@ -48,9 +48,6 @@ The following example determines whether the active Excel workbook has an XML ex
 ## See also
 
 
-#### Concepts
-
-
 [SmartDocument Object](smartdocument-object-office.md)
 #### Other resources
 

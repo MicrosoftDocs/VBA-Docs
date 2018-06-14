@@ -51,8 +51,5 @@ ScreenUpdating = True
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

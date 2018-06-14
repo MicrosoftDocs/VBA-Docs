@@ -41,8 +41,5 @@ Selection.GoToEditableRange wdEditorCurrent
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

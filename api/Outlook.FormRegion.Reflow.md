@@ -31,8 +31,5 @@ The  **Reflow** method only applies to adjoining form regions. No action occurs 
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

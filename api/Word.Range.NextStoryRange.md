@@ -38,8 +38,5 @@ The following table describes the range returned depending on the type of story.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

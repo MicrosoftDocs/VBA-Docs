@@ -39,8 +39,5 @@ Set rng = ActiveDocument.CoAuthoring.Conflicts(2).Range
 ## See also
 
 
-#### Concepts
-
-
 [Conflict Object](Word.Conflict.md)
 

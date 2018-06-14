@@ -44,9 +44,6 @@ The output of this method is another session handle with the same encryption set
 ## See also
 
 
-#### Concepts
-
-
 [EncryptionProvider Object](encryptionprovider-object-office.md)
 #### Other resources
 

@@ -31,9 +31,6 @@ For the  **Scripts** collection, using the **Delete** method removes all scripts
 ## See also
 
 
-#### Concepts
-
-
 [Signature Object](signature-object-office.md)
 #### Other resources
 

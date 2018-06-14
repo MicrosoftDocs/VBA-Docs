@@ -39,8 +39,5 @@ Use the  **[ReadingModeGrowFont](Word.Selection.ReadingModeGrowFont.md)** method
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

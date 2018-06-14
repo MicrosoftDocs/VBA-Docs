@@ -40,8 +40,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [DropCap Object](Word.DropCap.md)
 

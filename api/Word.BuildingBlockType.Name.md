@@ -26,8 +26,5 @@ Returns a  **String** that represents the localized name of a building block typ
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlockType Object](Word.BuildingBlockType.md)
 

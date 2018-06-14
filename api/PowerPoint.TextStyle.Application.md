@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [TextStyle Object](PowerPoint.TextStyle.md)
 

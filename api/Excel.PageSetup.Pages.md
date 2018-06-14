@@ -26,8 +26,5 @@ Returns or sets the count or item number of the pages in  **Pages** collection.
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

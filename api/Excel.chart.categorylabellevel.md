@@ -59,8 +59,5 @@ The following sample code uses the  **CategoryNameLevel** property to set the ch
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

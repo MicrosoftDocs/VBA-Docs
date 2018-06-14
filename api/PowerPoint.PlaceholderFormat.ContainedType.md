@@ -36,8 +36,5 @@ The value returned by the  **ContainedType** property can be one of the **[MsoSh
 ## See also
 
 
-#### Concepts
-
-
 [PlaceholderFormat Object](PowerPoint.PlaceholderFormat.md)
 

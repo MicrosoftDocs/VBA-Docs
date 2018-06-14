@@ -38,8 +38,5 @@ MsgBox "Resolution = " &; horz &; " x " &; vert
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

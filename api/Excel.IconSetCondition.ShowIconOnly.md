@@ -31,8 +31,5 @@ The default value for this property is  **False** .
 ## See also
 
 
-#### Concepts
-
-
 [IconSetCondition Object](Excel.IconSetCondition.md)
 

@@ -36,8 +36,5 @@ NormalTemplate.NoLineBreakBefore = "!)]"
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

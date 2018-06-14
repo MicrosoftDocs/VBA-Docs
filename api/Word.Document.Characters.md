@@ -41,8 +41,5 @@ numchars = ActiveDocument.Characters.Count
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

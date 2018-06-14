@@ -141,8 +141,5 @@ Set cnnConn = Nothing
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

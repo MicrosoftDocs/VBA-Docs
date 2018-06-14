@@ -26,8 +26,5 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

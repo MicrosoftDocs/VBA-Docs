@@ -26,8 +26,5 @@ Allows access to the media controls in the  **SlideShowSettings** object. Read/w
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 

@@ -52,8 +52,5 @@ You can specify the Kanji Conversion Mode when the focus shifts to control by se
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

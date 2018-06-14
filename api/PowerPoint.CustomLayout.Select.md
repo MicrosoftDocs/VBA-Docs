@@ -26,8 +26,5 @@ Selects the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 

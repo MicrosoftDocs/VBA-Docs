@@ -39,8 +39,5 @@ This event can be cancelled after it has started.
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

@@ -45,8 +45,5 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

@@ -31,8 +31,5 @@ Occurs when an attachment has been removed from an instance of the parent object
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

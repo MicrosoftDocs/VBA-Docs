@@ -26,8 +26,5 @@ Deletes the specified mail merge field.
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeField Object](Word.MailMergeField.md)
 

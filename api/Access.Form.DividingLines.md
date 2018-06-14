@@ -33,8 +33,5 @@ This property can be set in any view.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -39,8 +39,5 @@ KeyBinding
 ## See also
 
 
-#### Concepts
-
-
 [KeyBindings Collection Object](Word.keybindings.md)
 

@@ -41,8 +41,5 @@ ActiveDocument.Sections(2).PageSetup.LeftMargin = 72
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

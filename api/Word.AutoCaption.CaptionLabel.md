@@ -61,8 +61,5 @@ ActiveDocument.Tables.Add Range:=Selection.Range, NumRows:=2, _
 ## See also
 
 
-#### Concepts
-
-
 [AutoCaption Object](Word.AutoCaption.md)
 

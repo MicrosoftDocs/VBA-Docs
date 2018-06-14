@@ -26,8 +26,5 @@ Returns the wrap type for the specified shape. Read/write  **[WdWrapType](Word.W
 ## See also
 
 
-#### Concepts
-
-
 [WrapFormat Object](Word.WrapFormat.md)
 

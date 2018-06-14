@@ -55,9 +55,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OfficeDataSourceObject Object](officedatasourceobject-object-office.md)
 #### Other resources
 

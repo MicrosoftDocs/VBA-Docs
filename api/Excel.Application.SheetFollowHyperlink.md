@@ -35,8 +35,5 @@ Occurs when you click any hyperlink in Microsoft Excel. For worksheet-level even
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

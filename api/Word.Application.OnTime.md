@@ -77,8 +77,5 @@ Application.OnTime When:=TimeValue("1:30 pm"), _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

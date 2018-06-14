@@ -76,8 +76,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [HTMLDivision Object](Word.HTMLDivision.md)
 

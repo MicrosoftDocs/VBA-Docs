@@ -52,9 +52,6 @@ The following example extracts the domain name from the  **DomainName** property
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceMember Object](sharedworkspacemember-object-office.md)
 #### Other resources
 

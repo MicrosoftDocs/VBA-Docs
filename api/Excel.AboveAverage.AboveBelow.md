@@ -26,8 +26,5 @@ Returns or sets one of the constants of the  **[XlAboveBelow](Excel.XlAboveBelow
 ## See also
 
 
-#### Concepts
-
-
 [AboveAverage Object](Excel.AboveAverage.md)
 

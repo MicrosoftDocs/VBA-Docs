@@ -26,8 +26,5 @@ Returns the  **[Application](Outlook.Application.md)** object that represents th
 ## See also
 
 
-#### Concepts
-
-
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 

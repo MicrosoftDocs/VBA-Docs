@@ -47,8 +47,5 @@ Duplicate names for  **AutoFormatRule** objects are allowed in the **AutoFormatR
 ## See also
 
 
-#### Concepts
-
-
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

@@ -28,9 +28,6 @@ ThemeFonts
 ## See also
 
 
-#### Concepts
-
-
 [ThemeFontScheme Object](themefontscheme-object-office.md)
 #### Other resources
 

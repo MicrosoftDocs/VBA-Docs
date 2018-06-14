@@ -31,8 +31,5 @@ For file-based data sources (for example, Access) the  **SourceDataFile** proper
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

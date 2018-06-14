@@ -29,8 +29,5 @@ Returns the type of the specified shape.  **MsoAutoShapeType** Read-only
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Excel.ChartFormat.md)
 

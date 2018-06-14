@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the name of the specified fi
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

@@ -42,8 +42,5 @@ To use a hexadecimal RGB value, see the  **[FontColorEx](Project.GroupCriterion2
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

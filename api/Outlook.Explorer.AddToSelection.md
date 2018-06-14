@@ -81,8 +81,5 @@ Note that you can use  **AddToSelection** to add items to a selection, but you c
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

@@ -31,7 +31,4 @@ Gets a single  **TimeScaleValue** object from the **TimeScaleValues** collection
 ## See also
 
 
-#### Concepts
-
-
 [TimeScaleValues Collection Object](Project.timescalevalues.md)

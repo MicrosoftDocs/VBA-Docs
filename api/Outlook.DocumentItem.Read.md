@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.DocumentItem.Open.md)** ev
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

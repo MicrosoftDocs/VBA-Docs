@@ -59,8 +59,5 @@ Selection.MoveEndWhile Cset:="abcdefgh", Count:=10
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

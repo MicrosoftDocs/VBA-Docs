@@ -61,8 +61,5 @@ Worksheets("Sheet1").QueryTables(1) _
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

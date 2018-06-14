@@ -47,8 +47,5 @@ Set objSession = Application.Session
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](Outlook.StorageItem.md)
 

@@ -45,8 +45,5 @@ temp = ActiveDocument.SaveFormsData
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

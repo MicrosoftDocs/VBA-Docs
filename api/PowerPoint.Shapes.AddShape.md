@@ -60,8 +60,5 @@ myDocument.Shapes.AddShape Type:=msoShapeRectangle, _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

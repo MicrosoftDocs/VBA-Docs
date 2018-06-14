@@ -31,8 +31,5 @@ Returns the set of color styles that are currently loaded in the application. Re
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

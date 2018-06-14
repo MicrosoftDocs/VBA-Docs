@@ -31,8 +31,5 @@ The value of the  **ShapeStyle** property can be one of the **[MsoShapeStyleInde
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

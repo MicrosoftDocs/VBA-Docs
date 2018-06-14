@@ -52,8 +52,5 @@ Application.ImportXML _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

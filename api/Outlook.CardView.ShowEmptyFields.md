@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines if empty fields are display
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

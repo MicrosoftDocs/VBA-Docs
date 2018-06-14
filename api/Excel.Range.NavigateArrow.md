@@ -53,8 +53,5 @@ ActiveCell.NavigateArrow True, 1
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

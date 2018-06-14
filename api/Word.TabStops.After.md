@@ -49,8 +49,5 @@ tabTemp.Alignment = wdAlignTabCenter
 ## See also
 
 
-#### Concepts
-
-
 [TabStops Collection Object](Word.tabstops.md)
 

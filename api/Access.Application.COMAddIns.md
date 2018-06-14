@@ -33,8 +33,5 @@ Once you establish a reference to the  **COMAddIns** collection object, you can 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

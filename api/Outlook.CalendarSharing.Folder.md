@@ -31,8 +31,5 @@ The  **Folder** containing the calendar items to be shared.
 ## See also
 
 
-#### Concepts
-
-
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 

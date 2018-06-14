@@ -37,8 +37,5 @@ If ActiveDocument.Revisions.Count >= 1 Then _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

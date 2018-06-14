@@ -41,8 +41,5 @@ The  **Details** method actually stops the code from running while the dialog bo
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

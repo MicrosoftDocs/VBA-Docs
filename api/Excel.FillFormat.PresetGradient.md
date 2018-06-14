@@ -36,8 +36,5 @@ Sets the specified fill to a preset gradient.
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

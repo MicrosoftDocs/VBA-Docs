@@ -117,8 +117,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Collection Object](Word.shapes.md)
 

@@ -60,8 +60,5 @@ temp = ActiveDocument.ShowSpellingErrors
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

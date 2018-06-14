@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the second home telephone number for 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** specifying the transfer size (in bytes) for the remote item.
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

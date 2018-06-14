@@ -57,8 +57,5 @@ ActiveWorkbook.Sheets.Add Before:=Worksheets(Worksheets.Count)
 ## See also
 
 
-#### Concepts
-
-
 [Sheets Object](Excel.Sheets.md)
 

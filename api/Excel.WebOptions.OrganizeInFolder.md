@@ -45,8 +45,5 @@ Application.DefaultWebOptions.OrganizeInFolder = False
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

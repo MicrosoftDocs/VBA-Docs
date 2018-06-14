@@ -39,8 +39,5 @@ OMathMatCol
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatCols Collection](Word.OMathMatCols.md)
 

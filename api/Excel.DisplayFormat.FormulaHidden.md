@@ -36,8 +36,5 @@ Returns  **True** if the formula is hidden when the worksheet is protected, **Nu
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

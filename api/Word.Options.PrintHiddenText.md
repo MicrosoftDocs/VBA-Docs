@@ -51,8 +51,5 @@ temp = Options.PrintHiddenText
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

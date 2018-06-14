@@ -39,8 +39,5 @@ Application.MailingLabel.CreateNewDocument _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

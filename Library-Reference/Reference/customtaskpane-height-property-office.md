@@ -31,9 +31,6 @@ Integer
 ## See also
 
 
-#### Concepts
-
-
 [CustomTaskPane Object](customtaskpane-object-office.md)
 #### Other resources
 

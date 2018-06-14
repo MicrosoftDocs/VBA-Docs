@@ -72,9 +72,6 @@ The following example, written in C#, shows the implementation of the  **ShowSig
 ## See also
 
 
-#### Concepts
-
-
 [SignatureProvider Object](signatureprovider-object-office.md)
 #### Other resources
 

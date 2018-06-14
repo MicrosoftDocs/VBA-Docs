@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **PictureEffe
 ## See also
 
 
-#### Concepts
-
-
 [PictureEffect Object](pictureeffect-object-office.md)
 #### Other resources
 

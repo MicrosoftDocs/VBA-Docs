@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [CellRange Object](PowerPoint.CellRange.md)
 

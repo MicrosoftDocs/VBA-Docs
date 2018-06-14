@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ColorScheme Object](PowerPoint.ColorScheme.md)
 

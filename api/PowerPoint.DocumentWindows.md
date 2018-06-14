@@ -55,9 +55,6 @@ Windows(2).Close
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 
 

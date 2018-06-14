@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Call
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Word.CalloutFormat.md)
 

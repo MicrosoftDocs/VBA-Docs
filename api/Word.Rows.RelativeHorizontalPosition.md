@@ -26,8 +26,5 @@ Specifies the relative horizontal position of a group of rows. Read/write  **[Wd
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

@@ -31,8 +31,5 @@ You can use the  **Duplicate** property to pick up the settings of all the prope
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

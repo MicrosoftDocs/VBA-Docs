@@ -34,8 +34,5 @@ Setting the  **HeartbeatInterval** property to -1 will result in the **[Heartbea
 ## See also
 
 
-#### Concepts
-
-
 [IRTDUpdateEvent Object](Excel.IRTDUpdateEvent.md)
 

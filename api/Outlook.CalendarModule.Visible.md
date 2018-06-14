@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the **[CalendarModu
 ## See also
 
 
-#### Concepts
-
-
 [CalendarModule Object](Outlook.CalendarModule.md)
 

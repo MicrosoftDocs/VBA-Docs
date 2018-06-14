@@ -34,8 +34,5 @@ Use the  **[PresetGradient](Publisher.lineformat.presetgradient.md)** method to 
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

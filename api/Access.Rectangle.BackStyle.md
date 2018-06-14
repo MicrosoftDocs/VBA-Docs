@@ -43,8 +43,5 @@ To make a command button invisible, set its  **Transparent** property to Yes.
 ## See also
 
 
-#### Concepts
-
-
 [Rectangle Object](Access.Rectangle.md)
 

@@ -26,8 +26,5 @@ Gets or sets whether to show a list of relevant functions and defined names when
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

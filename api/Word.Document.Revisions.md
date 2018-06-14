@@ -51,8 +51,5 @@ myRange.Revisions.AcceptAll
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

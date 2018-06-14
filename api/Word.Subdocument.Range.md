@@ -31,8 +31,5 @@ For information about returning a range from a document, see the  **[Range](Word
 ## See also
 
 
-#### Concepts
-
-
 [Subdocument Object](Word.Subdocument.md)
 

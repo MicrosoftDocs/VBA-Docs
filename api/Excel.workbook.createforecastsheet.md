@@ -59,8 +59,5 @@ When you use a formula to create a forecast, it returns a table with the histori
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

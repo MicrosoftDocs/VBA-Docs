@@ -47,8 +47,5 @@ Selection.Paragraphs(1).Range.Style = "frame"
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

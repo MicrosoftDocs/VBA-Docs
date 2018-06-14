@@ -41,9 +41,6 @@ This method applies only to data labels in a chart. Calling this method on any o
 ## See also
 
 
-#### Concepts
-
-
 [TextRange2 Object (PowerPoint)](textrange2-object-powerpoint.md)
 
 

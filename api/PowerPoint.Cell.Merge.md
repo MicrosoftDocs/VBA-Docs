@@ -55,9 +55,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 [Cell Object](PowerPoint.Cell.md)
 

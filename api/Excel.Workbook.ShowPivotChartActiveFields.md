@@ -31,8 +31,5 @@ This property controls the visibility of the PivotChart Filter Pane (toggles it 
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

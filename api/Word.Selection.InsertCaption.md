@@ -50,8 +50,5 @@ Selection.InsertCaption Label:="Figure", _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

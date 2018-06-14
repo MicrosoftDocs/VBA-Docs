@@ -23,8 +23,5 @@ Returns an  **Object** that represents the parent object of the specified **Rese
 ## See also
 
 
-#### Concepts
-
-
 [Research Object](Word.Research.md)
 

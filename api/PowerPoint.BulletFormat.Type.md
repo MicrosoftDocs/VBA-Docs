@@ -44,8 +44,5 @@ The value of the  **Type** property can be one of these **PpBulletType** constan
 ## See also
 
 
-#### Concepts
-
-
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 

@@ -23,8 +23,5 @@ Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D-ef
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

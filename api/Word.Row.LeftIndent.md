@@ -36,8 +36,5 @@ ActiveDocument.Tables(1).Rows(1).LeftIndent = InchesToPoints(1)
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

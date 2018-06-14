@@ -59,9 +59,6 @@ The following example returns a list of shared workspace files whose date and ti
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFile Object](sharedworkspacefile-object-office.md)
 #### Other resources
 

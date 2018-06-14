@@ -31,8 +31,5 @@ An  **AddressEntries** collection that contains **[AddressEntry](Outlook.Address
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

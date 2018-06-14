@@ -48,8 +48,5 @@ To specify an array of integers or strings for  **Index**, you can use the **Arr
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 

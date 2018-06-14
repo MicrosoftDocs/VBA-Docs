@@ -52,8 +52,5 @@ Application.MailingLabel.DefaultLabelName = "5160"
 ## See also
 
 
-#### Concepts
-
-
 [MailingLabel Object](Word.MailingLabel.md)
 

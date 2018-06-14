@@ -42,8 +42,5 @@ Because the recordset is created asynchronously, the event allows automation to 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

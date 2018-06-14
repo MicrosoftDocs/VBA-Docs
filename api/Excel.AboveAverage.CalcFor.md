@@ -33,8 +33,5 @@ This property can be set to  **xlAllValues** , **xlColGroups** , or **xlRowGroup
 ## See also
 
 
-#### Concepts
-
-
 [AboveAverage Object](Excel.AboveAverage.md)
 

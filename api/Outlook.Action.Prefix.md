@@ -31,8 +31,5 @@ Outlook automatically adds a colon (:) to the value of the  **Prefix** property 
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Outlook.Action.md)
 

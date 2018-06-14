@@ -31,8 +31,5 @@ The parent of the StorageItem object is the  **[Folder](Outlook.Folder.md)** obj
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](Outlook.StorageItem.md)
 

@@ -96,8 +96,5 @@ Presentations.Open2007 FileName:="C:\My Documents\pres1.ppt", ReadOnly:=msoTrue,
 ## See also
 
 
-#### Concepts
-
-
 [Presentations Object](PowerPoint.Presentations.md)
 

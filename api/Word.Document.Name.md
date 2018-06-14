@@ -36,8 +36,5 @@ abook = Documents("Hello.doc").Bookmarks(1).Name
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

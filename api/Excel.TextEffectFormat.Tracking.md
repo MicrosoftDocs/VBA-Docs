@@ -56,8 +56,5 @@ newWordArt.TextEffect.Tracking =0.8
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 

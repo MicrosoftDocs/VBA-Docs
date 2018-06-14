@@ -26,8 +26,5 @@ Occurs when the contact picture has changed.
 ## See also
 
 
-#### Concepts
-
-
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 

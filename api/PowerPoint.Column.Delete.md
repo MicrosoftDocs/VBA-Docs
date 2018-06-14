@@ -31,8 +31,5 @@ Attempting to delete the only existing column in a table will result in a run-ti
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](PowerPoint.Column.md)
 

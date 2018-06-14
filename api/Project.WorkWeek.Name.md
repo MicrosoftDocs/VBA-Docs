@@ -30,8 +30,5 @@ For a code example that uses the  **Task** object, see **[Name](Project.Task.Nam
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeek Object](Project.WorkWeek.md)
 

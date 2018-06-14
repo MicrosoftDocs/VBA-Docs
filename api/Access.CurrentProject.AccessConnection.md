@@ -31,8 +31,5 @@ You should use the AccessConnection property if you intend to create ADO records
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

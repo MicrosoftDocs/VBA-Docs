@@ -36,8 +36,5 @@ Options.ButtonFieldClicks = 1
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

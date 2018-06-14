@@ -26,8 +26,5 @@ Returns a  **Variant** value that represents the width, in units, of the range.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

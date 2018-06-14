@@ -26,8 +26,5 @@ Deletes the specified style.
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

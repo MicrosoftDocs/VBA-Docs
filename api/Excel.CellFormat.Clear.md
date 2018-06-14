@@ -26,8 +26,5 @@ Clears the criterias set in the  **[FindFormat](Excel.Application.FindFormat.md)
 ## See also
 
 
-#### Concepts
-
-
 [CellFormat Object](Excel.CellFormat.md)
 

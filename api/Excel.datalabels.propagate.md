@@ -45,8 +45,5 @@ If the source data label supports fields that are incompatible with the destinat
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](Excel.DataLabels(object).md)
 

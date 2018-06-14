@@ -69,8 +69,5 @@ returnValue = instance.Forecast_Linear(Arg1, Arg2, Arg3)
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

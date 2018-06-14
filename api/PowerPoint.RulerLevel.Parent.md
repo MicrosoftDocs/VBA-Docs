@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [RulerLevel Object](PowerPoint.RulerLevel.md)
 

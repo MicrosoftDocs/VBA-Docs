@@ -56,8 +56,5 @@ myDocument.Shapes.AddLabel(Orientation:=msoTextOrientationVerticalFarEast, _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

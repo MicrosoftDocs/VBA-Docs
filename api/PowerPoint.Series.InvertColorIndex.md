@@ -52,8 +52,5 @@ ActiveChart.SeriesCollection(1).InvertColorIndex = 7
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

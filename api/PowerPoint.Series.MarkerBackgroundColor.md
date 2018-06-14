@@ -28,8 +28,5 @@ This property applies only to line, scatter, and radar charts.
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

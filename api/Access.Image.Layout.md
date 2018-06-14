@@ -26,8 +26,5 @@ Returns the type of layout for the specified image. Read-only  **[AcLayoutType](
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

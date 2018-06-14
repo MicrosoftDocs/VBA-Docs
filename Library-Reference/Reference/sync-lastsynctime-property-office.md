@@ -58,9 +58,6 @@ The following example alerts the user and displays the sync status if more than 
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

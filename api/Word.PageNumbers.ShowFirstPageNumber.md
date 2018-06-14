@@ -55,8 +55,5 @@ ActiveDocument.Sections(1) _
 ## See also
 
 
-#### Concepts
-
-
 [PageNumbers Collection Object](Word.pagenumbers.md)
 

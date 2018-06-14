@@ -26,8 +26,5 @@ Downgrades a document to the Word 97-2003 document format so that it can be edit
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

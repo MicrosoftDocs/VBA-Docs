@@ -64,8 +64,5 @@ You can use this event to determine that a store has been removed, and take appr
 ## See also
 
 
-#### Concepts
-
-
 [Stores Object](Outlook.Stores.md)
 

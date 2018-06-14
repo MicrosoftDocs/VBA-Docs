@@ -44,8 +44,5 @@ Worksheets(1).PivotTables(1).PivotItems("Year").Add "1998"
 ## See also
 
 
-#### Concepts
-
-
 [PivotItems Object](Excel.PivotItems.md)
 

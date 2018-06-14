@@ -26,8 +26,5 @@ Deletes the specified matrix column.
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatCol Object](Word.OMathMatCol.md)
 

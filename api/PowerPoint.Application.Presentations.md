@@ -70,8 +70,5 @@ Application.Presentations("Year-End Report.ppt").Close
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

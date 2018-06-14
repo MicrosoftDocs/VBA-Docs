@@ -62,9 +62,6 @@ public string GetCustomUI(string RibbonID)
 ## See also
 
 
-#### Concepts
-
-
 [IRibbonExtensibility Object](iribbonextensibility-object-office.md)
 #### Other resources
 

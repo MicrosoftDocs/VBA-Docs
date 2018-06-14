@@ -64,8 +64,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Trendlines Object](Word.Trendlines.md)
 

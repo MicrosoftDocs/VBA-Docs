@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents a diagonal strikethrough from low
 ## See also
 
 
-#### Concepts
-
-
 [OMathBorderBox Object](Word.OMathBorderBox.md)
 

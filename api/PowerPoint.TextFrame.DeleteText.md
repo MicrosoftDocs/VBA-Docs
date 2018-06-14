@@ -38,8 +38,5 @@ myDocument.Shapes(2).TextFrame.DeleteText
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](PowerPoint.TextFrame.md)
 

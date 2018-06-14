@@ -31,8 +31,5 @@ Returns an error if the  **AddressList** object does not represent an initialize
 ## See also
 
 
-#### Concepts
-
-
 [SenderInAddressListRuleCondition Object](Outlook.SenderInAddressListRuleCondition.md)
 

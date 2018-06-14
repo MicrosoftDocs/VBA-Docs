@@ -35,8 +35,5 @@ The  **OpenDataAccessPage** method carries out the OpenDataAccessPage action in 
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

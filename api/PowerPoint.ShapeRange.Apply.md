@@ -26,8 +26,5 @@ Applies to the specified shape range formatting that's been copied by using the 
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

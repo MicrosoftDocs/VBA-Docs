@@ -36,8 +36,5 @@ If the pane isn't in the active window, the window that the pane belongs to will
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Excel.Pane.md)
 

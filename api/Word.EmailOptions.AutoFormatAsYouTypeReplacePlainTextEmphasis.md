@@ -48,8 +48,5 @@ blnAutoFormat = _
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

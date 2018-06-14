@@ -48,8 +48,5 @@ ActiveWindow.ScrollColumn = hr.Column
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

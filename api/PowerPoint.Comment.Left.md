@@ -26,8 +26,5 @@ Returns a  **Single** that represents the distance in points from the left edge 
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](PowerPoint.Comment.md)
 

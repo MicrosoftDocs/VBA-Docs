@@ -38,8 +38,5 @@ This method will return a run-time error if any of the following conditions are 
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

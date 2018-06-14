@@ -82,9 +82,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [FileDialog Object](filedialog-object-office.md)
 #### Other resources
 

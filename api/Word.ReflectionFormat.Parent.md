@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Refl
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 

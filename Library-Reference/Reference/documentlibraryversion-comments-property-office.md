@@ -60,9 +60,6 @@ The following example lists comments and other properties for each version of a 
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)
 #### Other resources
 

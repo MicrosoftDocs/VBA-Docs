@@ -156,8 +156,5 @@ void EnumerateConversation(object item,
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

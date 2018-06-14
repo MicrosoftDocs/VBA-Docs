@@ -71,8 +71,5 @@ vertArray(3, 2)
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

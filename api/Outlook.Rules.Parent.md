@@ -31,8 +31,5 @@ The parent of the  **Rules** object is the **[Store](Outlook.Store.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [Rules Object](Outlook.Rules.md)
 

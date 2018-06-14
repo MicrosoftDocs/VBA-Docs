@@ -31,8 +31,5 @@ Returns or sets a value that represents the distance, in points, from the left e
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 

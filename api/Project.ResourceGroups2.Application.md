@@ -28,8 +28,5 @@ Application
 ## See also
 
 
-#### Concepts
-
-
 [ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 

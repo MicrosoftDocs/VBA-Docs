@@ -41,8 +41,5 @@ Documents(1).PageSetup.PaperSize = wdPaperLegal
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

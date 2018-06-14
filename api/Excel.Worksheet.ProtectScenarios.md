@@ -37,8 +37,5 @@ If Worksheets("Sheet1").ProtectScenarios Then _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

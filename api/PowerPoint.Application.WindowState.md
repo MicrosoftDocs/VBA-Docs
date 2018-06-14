@@ -54,8 +54,5 @@ Application.ActiveWindow.WindowState = ppWindowMaximized
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

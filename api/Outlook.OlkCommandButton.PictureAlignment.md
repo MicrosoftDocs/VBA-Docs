@@ -26,8 +26,5 @@ Returns or sets an  **[OlPictureAlignment](Outlook.OlPictureAlignment.md)** cons
 ## See also
 
 
-#### Concepts
-
-
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

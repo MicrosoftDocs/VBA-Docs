@@ -26,8 +26,5 @@ Returns  **True** if the specified smart tag is not installed or is installed in
 ## See also
 
 
-#### Concepts
-
-
 [SmartTag Object](Access.SmartTag.md)
 

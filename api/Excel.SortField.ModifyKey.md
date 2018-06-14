@@ -34,8 +34,5 @@ Modify the key value by which values are sorted in the field.
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

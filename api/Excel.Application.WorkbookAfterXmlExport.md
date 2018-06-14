@@ -52,9 +52,6 @@ Use the  **[AfterXmlExport](Excel.Workbook.AfterXmlExport.md)** event if you wan
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 [Application Object](application-object-excel.md)
 

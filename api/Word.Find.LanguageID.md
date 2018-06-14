@@ -31,8 +31,5 @@ Some of the  **WdLanguageID** constants may not be available to you, depending o
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

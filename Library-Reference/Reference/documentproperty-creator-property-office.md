@@ -39,9 +39,6 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentPro
 ## See also
 
 
-#### Concepts
-
-
 [DocumentProperty Object](documentproperty-object-office.md)
 #### Other resources
 

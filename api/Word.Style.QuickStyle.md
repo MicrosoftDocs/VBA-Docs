@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether the style corresponds to 
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

@@ -48,8 +48,5 @@ The  **SheetPivotTableBeforeAllocateChanges** event occurs immediately before Ex
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

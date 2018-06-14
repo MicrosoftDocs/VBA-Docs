@@ -46,8 +46,5 @@ MsgBox dicGrammar.Path &; Application.PathSeparator &; dicGrammar.Name
 ## See also
 
 
-#### Concepts
-
-
 [Language Object](Word.Language.md)
 

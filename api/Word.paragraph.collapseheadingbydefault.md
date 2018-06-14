@@ -29,8 +29,5 @@ Returns or sets whether the specified paragraph is collapsed by default when the
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

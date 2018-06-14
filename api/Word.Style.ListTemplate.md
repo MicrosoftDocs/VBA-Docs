@@ -31,8 +31,5 @@ A list template includes all the formatting that defines a particular list. Each
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

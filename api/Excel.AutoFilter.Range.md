@@ -48,8 +48,5 @@ ActiveWindow.ScrollColumn = hr.Column
 ## See also
 
 
-#### Concepts
-
-
 [AutoFilter Object](Excel.AutoFilter.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether delimiter characters grow
 ## See also
 
 
-#### Concepts
-
-
 [OMathDelim Object](Word.OMathDelim.md)
 

@@ -76,8 +76,5 @@ Me.ctl.Gradient = 2
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

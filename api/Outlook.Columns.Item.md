@@ -39,8 +39,5 @@ Obtains a  **[Column](Outlook.Column.md)** object specified by _Index_ .
 ## See also
 
 
-#### Concepts
-
-
 [Columns Object](Outlook.Columns.md)
 

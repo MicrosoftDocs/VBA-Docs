@@ -34,9 +34,6 @@ Gets a value that indicates which file type will be searched for. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [FileTypes Object](filetypes-object-office.md)
 #### Other resources
 

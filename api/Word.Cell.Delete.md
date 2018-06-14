@@ -53,8 +53,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

@@ -31,8 +31,5 @@ The format color is expressed as an RGB function. For example, to set the color 
 ## See also
 
 
-#### Concepts
-
-
 [FormatColor Object](Excel.FormatColor.md)
 

@@ -34,8 +34,5 @@ You can use the ShowAllRecords action to remove any applied filter from the acti
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

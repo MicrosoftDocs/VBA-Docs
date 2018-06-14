@@ -67,8 +67,5 @@ MsgBox "The insertion point is in section " &; _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

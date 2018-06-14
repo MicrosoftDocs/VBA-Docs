@@ -35,8 +35,5 @@ If the  **RemoteItem** object is created in a version of Microsoft Outlook earli
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

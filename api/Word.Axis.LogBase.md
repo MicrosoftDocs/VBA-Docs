@@ -31,8 +31,5 @@ Attempting to set this property to a value less than or equal to zero (0) raises
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Word.Axis.md)
 

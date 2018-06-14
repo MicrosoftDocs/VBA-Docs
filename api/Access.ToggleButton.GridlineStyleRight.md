@@ -43,8 +43,5 @@ The  **RightGridlineStyle** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

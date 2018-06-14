@@ -63,8 +63,5 @@ MsgBox "The current right margin is " &; marginInches &; " inches"
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

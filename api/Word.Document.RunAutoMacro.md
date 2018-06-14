@@ -49,8 +49,5 @@ ActiveDocument.RunAutoMacro Which:=wdAutoOpen
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("Address").OnChange
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

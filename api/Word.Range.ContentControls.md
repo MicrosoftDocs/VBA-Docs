@@ -48,8 +48,5 @@ objCC.DropdownListEntries.Add "Other"
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

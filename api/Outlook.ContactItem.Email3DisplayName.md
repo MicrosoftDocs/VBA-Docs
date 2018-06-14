@@ -31,8 +31,5 @@ This property is set to the value of the  **[FullName](Outlook.ContactItem.FullN
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

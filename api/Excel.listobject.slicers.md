@@ -34,8 +34,5 @@ A  **ListObject** is essentially a table.
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

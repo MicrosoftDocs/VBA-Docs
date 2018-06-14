@@ -47,8 +47,5 @@ lngTemp = Options.DefaultHighlightColorIndex
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

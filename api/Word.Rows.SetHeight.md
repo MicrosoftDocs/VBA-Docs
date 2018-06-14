@@ -50,8 +50,5 @@ aTable.Rows.SetHeight RowHeight:=InchesToPoints(0.5), _
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

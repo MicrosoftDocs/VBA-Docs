@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **KeyB
 ## See also
 
 
-#### Concepts
-
-
 [KeyBinding Object](Word.KeyBinding.md)
 

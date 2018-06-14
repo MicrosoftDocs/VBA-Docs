@@ -50,8 +50,5 @@ The  **GoToPage** method of the **DoCmd** object was added to provide backwards 
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

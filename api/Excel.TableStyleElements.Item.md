@@ -39,8 +39,5 @@ TableStyleElement
 ## See also
 
 
-#### Concepts
-
-
 [TableStyleElements Object](Excel.TableStyleElements.md)
 

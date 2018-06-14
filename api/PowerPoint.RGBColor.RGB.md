@@ -70,8 +70,5 @@ MsgBox "RGB components: " &; redComponent &; _
 ## See also
 
 
-#### Concepts
-
-
 [RGBColor Object](PowerPoint.RGBColor.md)
 

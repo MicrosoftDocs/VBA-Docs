@@ -45,8 +45,5 @@ ActiveDocument.Tables(1).Cell(1, 1).Split NumColumns:=2
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

@@ -26,8 +26,5 @@ Returns the width, in points, of the object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 

@@ -26,8 +26,5 @@ Returns the current  **MediaFormat** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

@@ -36,8 +36,5 @@ This property corresponds to the name of a data point on a chart. The name is re
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](PowerPoint.Point.md)
 

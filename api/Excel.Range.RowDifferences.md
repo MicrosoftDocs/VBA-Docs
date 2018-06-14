@@ -52,8 +52,5 @@ c1.Select
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

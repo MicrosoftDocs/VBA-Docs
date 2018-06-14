@@ -38,8 +38,5 @@ Set objSchema = Application.XMLNamespaces.Item(1)
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -26,8 +26,5 @@ Applies the last picked up animation to the  **Shape** object.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

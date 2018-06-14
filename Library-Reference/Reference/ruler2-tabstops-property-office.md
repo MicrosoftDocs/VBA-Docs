@@ -28,9 +28,6 @@ TabStops2
 ## See also
 
 
-#### Concepts
-
-
 [Ruler2 Object](ruler2-object-office.md)
 #### Other resources
 

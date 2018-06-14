@@ -35,8 +35,5 @@ The value of the  **LocalConnection** property is used if the **UseLocalConnecti
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

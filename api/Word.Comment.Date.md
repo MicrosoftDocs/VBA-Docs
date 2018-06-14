@@ -26,8 +26,5 @@ Returns a  **Date** that represents the date and time that a comment was inserte
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

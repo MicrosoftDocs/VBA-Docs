@@ -55,9 +55,6 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes.Add
 ## See also
 
 
-#### Concepts
-
-
 [SmartArt Object](smartart-object-office.md)
 #### Other resources
 

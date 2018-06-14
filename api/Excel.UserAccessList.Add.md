@@ -40,8 +40,5 @@ A  **[UserAccess](Excel.UserAccess.md)** object that represents the new user acc
 ## See also
 
 
-#### Concepts
-
-
 [UserAccessList Object](Excel.UserAccessList.md)
 

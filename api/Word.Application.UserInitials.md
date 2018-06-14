@@ -45,8 +45,5 @@ Msgbox Application.UserInitials
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

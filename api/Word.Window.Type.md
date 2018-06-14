@@ -26,8 +26,5 @@ Returns the window type. Read-only  **[WdWindowType](Word.WdWindowType.md)** .
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

@@ -65,8 +65,5 @@ rngTemp.Borders.InsideLineWidth = wdLineWidth075pt
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection Object](Word.borders.md)
 

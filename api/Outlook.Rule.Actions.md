@@ -33,8 +33,5 @@ Through the  **Actions** property, each rule is associated with a **RuleActions*
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

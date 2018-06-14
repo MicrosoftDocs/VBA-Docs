@@ -52,8 +52,5 @@ Setting the  **ControlBox** property to No suppresses the **Control** menu when 
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

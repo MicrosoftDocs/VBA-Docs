@@ -23,8 +23,5 @@ ms.date: 06/08/2017
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](PowerPoint.DataLabels.md)
 

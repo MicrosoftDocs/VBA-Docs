@@ -38,8 +38,5 @@ ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 ## See also
 
 
-#### Concepts
-
-
 [TableOfContents Object](Word.TableOfContents.md)
 

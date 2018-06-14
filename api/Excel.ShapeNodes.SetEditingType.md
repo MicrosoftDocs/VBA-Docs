@@ -52,8 +52,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Object](Excel.ShapeNodes.md)
 

@@ -228,8 +228,5 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.LanguageID = msoLangu
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

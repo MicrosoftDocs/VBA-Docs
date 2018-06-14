@@ -26,8 +26,5 @@ Deletes an object from a collection.
 ## See also
 
 
-#### Concepts
-
-
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 

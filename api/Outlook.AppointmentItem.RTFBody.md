@@ -86,8 +86,5 @@ private void GetRTFBodyForAppt()
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

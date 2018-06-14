@@ -69,8 +69,5 @@ Dialogs(wdDialogFilePrint).Execute
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

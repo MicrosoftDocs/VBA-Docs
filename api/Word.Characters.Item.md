@@ -39,8 +39,5 @@ Range
 ## See also
 
 
-#### Concepts
-
-
 [Characters Collection Object](Word.characters.md)
 

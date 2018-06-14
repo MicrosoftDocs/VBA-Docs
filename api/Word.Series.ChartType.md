@@ -31,8 +31,5 @@ Some chart types are not available for PivotChart reports.
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Word.Series.md)
 

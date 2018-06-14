@@ -54,8 +54,5 @@ Msgbox _
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

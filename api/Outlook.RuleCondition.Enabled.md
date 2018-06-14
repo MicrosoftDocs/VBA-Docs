@@ -37,8 +37,5 @@ Returns an error if you attempt to enable an exception condition of type  **olCo
 ## See also
 
 
-#### Concepts
-
-
 [RuleCondition Object](Outlook.RuleCondition.md)
 

@@ -27,8 +27,5 @@ This property has been deprecated in Office 2016, but it remains part of the obj
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

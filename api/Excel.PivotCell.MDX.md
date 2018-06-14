@@ -36,8 +36,5 @@ The dimensions returned in the tuple by the  **MDX** property include row and co
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

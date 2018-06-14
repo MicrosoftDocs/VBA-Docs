@@ -49,8 +49,5 @@ ActiveDocument.Words(1).Shading.Texture = wdTexture10Percent
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

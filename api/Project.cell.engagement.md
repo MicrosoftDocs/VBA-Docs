@@ -24,8 +24,5 @@ Gets or sets the engagement resource for a cell.
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object (Project)](cell-object-project.md)
 

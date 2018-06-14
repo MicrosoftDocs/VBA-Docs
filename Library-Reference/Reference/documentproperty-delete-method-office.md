@@ -41,9 +41,6 @@ ActiveDocument.CustomDocumentProperties("CustomNumber").Delete
 ## See also
 
 
-#### Concepts
-
-
 [DocumentProperty Object](documentproperty-object-office.md)
 #### Other resources
 

@@ -83,8 +83,5 @@ Selection.EndOf Unit:=wdColumn, Extend:=wdExtend
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

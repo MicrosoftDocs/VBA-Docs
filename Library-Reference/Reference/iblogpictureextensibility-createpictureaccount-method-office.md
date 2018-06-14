@@ -39,9 +39,6 @@ Allows a picture provider to display the user interface needed to guide the user
 ## See also
 
 
-#### Concepts
-
-
 [IBlogPictureExtensibility Object](iblogpictureextensibility-object-office.md)
 #### Other resources
 

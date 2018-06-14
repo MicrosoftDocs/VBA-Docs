@@ -26,8 +26,5 @@ Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBor
 ## See also
 
 
-#### Concepts
-
-
 [HiLoLines Object](PowerPoint.HiLoLines.md)
 

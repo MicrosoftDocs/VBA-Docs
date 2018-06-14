@@ -44,8 +44,5 @@ If the  _Template_ argument specifies a file, the file name can include a path.
 ## See also
 
 
-#### Concepts
-
-
 [Workbooks Object](Excel.Workbooks.md)
 

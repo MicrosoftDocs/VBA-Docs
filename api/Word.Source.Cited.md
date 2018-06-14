@@ -26,8 +26,5 @@ Returns a  **Boolean** that represents whether a source has been cited in a docu
 ## See also
 
 
-#### Concepts
-
-
 [Source Object](Word.Source.md)
 

@@ -35,7 +35,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 ## See also
 
 
-#### Concepts
-
-
 [Years Collection Object](Project.years.md)

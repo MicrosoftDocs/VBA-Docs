@@ -43,8 +43,5 @@ currentproject.allforms.count
 ## See also
 
 
-#### Concepts
-
-
 [AllReports Collection](Access.AllReports.md)
 

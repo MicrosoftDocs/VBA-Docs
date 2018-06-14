@@ -31,8 +31,5 @@ This property corresponds to the  **Ignore punctuation characters** check box in
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

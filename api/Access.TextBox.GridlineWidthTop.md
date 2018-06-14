@@ -37,8 +37,5 @@ The  **TopGridlineWidth** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

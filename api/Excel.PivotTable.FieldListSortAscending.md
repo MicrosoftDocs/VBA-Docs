@@ -31,8 +31,5 @@ Does not apply to PivotTables connected to OLAP data sources.
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

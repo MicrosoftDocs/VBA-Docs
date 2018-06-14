@@ -31,8 +31,5 @@ When opening a database in Access that was created in an earlier version of Micr
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

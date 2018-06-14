@@ -26,8 +26,5 @@ The  **ShowTableStyleRowHeaders** property is set to **True** if the row headers
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

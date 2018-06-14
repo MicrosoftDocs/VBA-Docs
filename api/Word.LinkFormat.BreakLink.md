@@ -50,8 +50,5 @@ Next shapeLoop
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](Word.LinkFormat.md)
 

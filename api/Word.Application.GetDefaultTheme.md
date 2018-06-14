@@ -49,8 +49,5 @@ MsgBox Application.GetDefaultTheme(wdWebPage)
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

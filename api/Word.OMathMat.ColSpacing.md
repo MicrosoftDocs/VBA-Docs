@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the spacing for columns in a matrix.
 ## See also
 
 
-#### Concepts
-
-
 [OMathMat Object](Word.OMathMat.md)
 

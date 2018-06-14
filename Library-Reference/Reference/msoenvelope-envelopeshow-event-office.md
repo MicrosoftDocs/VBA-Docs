@@ -54,9 +54,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [MsoEnvelope Object](msoenvelope-object-office.md)
 #### Other resources
 

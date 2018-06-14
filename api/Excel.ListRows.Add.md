@@ -55,8 +55,5 @@ Set myNewRow = ActiveWorkbook.Worksheets(1).ListObject(1).ListRows.Add
 ## See also
 
 
-#### Concepts
-
-
 [ListRows Object](Excel.ListRows.md)
 

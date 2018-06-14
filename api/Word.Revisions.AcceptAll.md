@@ -51,8 +51,5 @@ Selection.Range.Revisions.AcceptAll
 ## See also
 
 
-#### Concepts
-
-
 [Revisions Collection Object](Word.revisions.md)
 

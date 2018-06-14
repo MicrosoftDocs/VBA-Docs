@@ -53,8 +53,5 @@ blnCheck = Options.CheckGrammarAsYouType
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

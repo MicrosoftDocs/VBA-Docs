@@ -36,8 +36,5 @@ To change an equation to linear format, use the  **[Linearize](Word.OMath.Linear
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

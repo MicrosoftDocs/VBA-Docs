@@ -45,8 +45,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](Excel.TickLabels(objec).md)
 

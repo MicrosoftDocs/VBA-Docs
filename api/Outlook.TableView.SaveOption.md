@@ -117,8 +117,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](tableOutlook.View.md)
 

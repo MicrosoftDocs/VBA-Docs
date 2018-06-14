@@ -68,8 +68,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AllowEditRange Object](Excel.AllowEditRange.md)
 

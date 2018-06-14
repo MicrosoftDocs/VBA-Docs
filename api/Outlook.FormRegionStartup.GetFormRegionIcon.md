@@ -52,8 +52,5 @@ In the XML manifest for the form region, under the  **icons** element, specify t
 ## See also
 
 
-#### Concepts
-
-
 [FormRegionStartup Interface](Outlook.formregionstartup.md)
 

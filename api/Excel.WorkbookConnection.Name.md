@@ -26,8 +26,5 @@ Returns or sets the name of the workbook connection object. Read/write  **String
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

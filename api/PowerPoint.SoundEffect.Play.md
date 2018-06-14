@@ -36,9 +36,6 @@ ActivePresentation.Slides(2).SlideShowTransition.SoundEffect.Play
 ## See also
 
 
-#### Concepts
-
-
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 [Player Object](PowerPoint.Player.md)
 

@@ -35,8 +35,5 @@ The  **TimerInterval** property setting of the report specifies the interval, in
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

@@ -26,8 +26,5 @@ Returns the dictionary type. Read-only  **WdDictionaryType** .
 ## See also
 
 
-#### Concepts
-
-
 [Dictionary Object](Word.Dictionary.md)
 

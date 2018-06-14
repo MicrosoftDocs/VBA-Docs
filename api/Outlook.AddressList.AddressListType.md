@@ -26,8 +26,5 @@ Returns a constant from the  **[OlAddressListType](Outlook.OlAddressListType.md)
 ## See also
 
 
-#### Concepts
-
-
 [AddressList Object](Outlook.AddressList.md)
 

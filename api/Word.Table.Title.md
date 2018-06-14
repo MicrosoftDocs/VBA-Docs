@@ -44,8 +44,5 @@ ActiveDocument.Tables(1).Title = "Table 1."
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

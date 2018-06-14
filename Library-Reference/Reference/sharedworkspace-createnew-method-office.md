@@ -68,9 +68,6 @@ The following example creates a shared workspace site at the URL http://server/s
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspace Object](sharedworkspace-object-office.md)
 #### Other resources
 

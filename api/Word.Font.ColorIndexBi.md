@@ -41,8 +41,5 @@ Selection.Font.ColorIndexBi = wdTeal
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

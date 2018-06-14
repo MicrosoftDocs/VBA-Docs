@@ -54,8 +54,5 @@ Msgbox Selection.Cells(1).ColumnIndex
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

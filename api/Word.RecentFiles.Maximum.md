@@ -46,8 +46,5 @@ If num <> 9 Then RecentFiles.Maximum = num + 1
 ## See also
 
 
-#### Concepts
-
-
 [RecentFiles Collection Object](Word.recentfiles.md)
 

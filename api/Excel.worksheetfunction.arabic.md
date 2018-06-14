@@ -37,8 +37,5 @@ Converts a Roman numeral to an Arabic numeral.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -59,8 +59,5 @@ Selection.Range.MoveStartWhile Cset:="abcdefgh", Count:=-10
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

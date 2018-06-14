@@ -31,8 +31,5 @@ Slicers can be used to filter data in PivotTable reports. The  **Slicers** colle
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

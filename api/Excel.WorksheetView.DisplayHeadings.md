@@ -33,8 +33,5 @@ This property affects only displayed headings. Use the  **[PrintHeadings](Excel.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetView Object](Excel.WorksheetView.md)
 

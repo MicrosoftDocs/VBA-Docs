@@ -26,8 +26,5 @@ Deletes the specified  **Frameset** object.
 ## See also
 
 
-#### Concepts
-
-
 [Frameset Object](Word.Frameset.md)
 

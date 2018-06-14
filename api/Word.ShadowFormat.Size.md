@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the width of the shadow. Read/writ
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Word.ShadowFormat.md)
 

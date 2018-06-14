@@ -31,8 +31,5 @@ The default for this property is true.
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](Excel.TickLabels(objec).md)
 

@@ -31,8 +31,5 @@ A  **RecurrencePattern** that represents the recurrence attributes of the task.
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

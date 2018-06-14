@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of heading styles in the collecti
 ## See also
 
 
-#### Concepts
-
-
 [HeadingStyles Collection Object](Word.headingstyles.md)
 

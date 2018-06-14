@@ -46,8 +46,5 @@ objBB.BuildingBlockCategory = "General"
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

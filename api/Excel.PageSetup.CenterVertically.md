@@ -36,8 +36,5 @@ Worksheets("Sheet1").PageSetup.CenterVertically = True
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

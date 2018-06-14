@@ -52,8 +52,5 @@ Documents("Report.doc").TablesOfFigures(1).Update
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

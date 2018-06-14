@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [OfficeTheme Object](officetheme-object-office.md)
 #### Other resources
 

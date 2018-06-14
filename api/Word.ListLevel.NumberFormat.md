@@ -52,8 +52,5 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=LT
 ## See also
 
 
-#### Concepts
-
-
 [ListLevel Object](Word.ListLevel.md)
 

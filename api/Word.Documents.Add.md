@@ -72,8 +72,5 @@ Documents.Add Template:=tmpName, NewTemplate:=True
 ## See also
 
 
-#### Concepts
-
-
 [Documents Collection Object](Word.documents.md)
 

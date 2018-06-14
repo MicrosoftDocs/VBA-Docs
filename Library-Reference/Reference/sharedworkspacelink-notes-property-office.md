@@ -48,9 +48,6 @@ MsgBox "Building Links: " &amp; vbCrLf &amp; strBuildingLinks, _
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceLink Object](sharedworkspacelink-object-office.md)
 #### Other resources
 

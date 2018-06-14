@@ -49,8 +49,5 @@ ActiveWorkbook.PivotCaches.Item(1).Refresh
 ## See also
 
 
-#### Concepts
-
-
 [PivotCaches Object](Excel.PivotCaches.md)
 

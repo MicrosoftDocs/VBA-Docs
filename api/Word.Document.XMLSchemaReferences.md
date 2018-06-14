@@ -40,8 +40,5 @@ objSchema.Reload
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

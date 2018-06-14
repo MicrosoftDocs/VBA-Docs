@@ -49,8 +49,5 @@ MsgBox "OrderByOn property is " &; Forms("Mailing List").OrderByOn
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

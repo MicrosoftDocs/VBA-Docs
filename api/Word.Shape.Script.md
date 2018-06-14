@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

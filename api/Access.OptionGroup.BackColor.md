@@ -67,8 +67,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OptionGroup Object](Access.OptionGroup.md)
 

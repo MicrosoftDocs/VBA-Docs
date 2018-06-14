@@ -23,9 +23,6 @@ Retrieves the name of the Picker field. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [PickerField Object](pickerfield-object-office.md)
 #### Other resources
 

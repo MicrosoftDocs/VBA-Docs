@@ -26,8 +26,5 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 ## See also
 
 
-#### Concepts
-
-
 [SeriesLines Object](Word.SeriesLines.md)
 

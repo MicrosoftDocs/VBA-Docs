@@ -31,8 +31,5 @@ The value of the  **BackgroundStyle** property can be one of the **[MsoBackgroun
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

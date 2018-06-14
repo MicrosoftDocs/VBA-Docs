@@ -33,8 +33,5 @@ Microsoft Access adds the prefix portion of an event procedure name to the event
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

@@ -31,8 +31,5 @@ Moves the current row of the  **[Table](Outlook.Table.md)** to just before the f
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Outlook.Table.md)
 

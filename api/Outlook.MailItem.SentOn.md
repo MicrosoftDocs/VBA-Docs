@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagClientSubmitTime** . Whe
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

@@ -60,8 +60,5 @@ Application.Goto Reference:=Worksheets("Sheet1").Range("A154"), _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

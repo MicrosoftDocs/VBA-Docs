@@ -26,8 +26,5 @@ Copies the specified mail merge field to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeField Object](Word.MailMergeField.md)
 

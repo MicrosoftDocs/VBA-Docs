@@ -41,8 +41,5 @@ Set objSession = Application.Session
 ## See also
 
 
-#### Concepts
-
-
 [AccountRuleCondition Object](Outlook.AccountRuleCondition.md)
 

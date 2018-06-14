@@ -36,8 +36,5 @@ Application.RecentFiles.Maximum = 6
 ## See also
 
 
-#### Concepts
-
-
 [RecentFiles Object](Excel.RecentFiles.md)
 

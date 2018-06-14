@@ -36,8 +36,5 @@ appErrorCode = Application.DDEAppReturnCode
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -44,8 +44,5 @@ Next objCubeFld
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

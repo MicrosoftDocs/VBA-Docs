@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the **[NavigationMo
 ## See also
 
 
-#### Concepts
-
-
 [NavigationModule Object](Outlook.NavigationModule.md)
 

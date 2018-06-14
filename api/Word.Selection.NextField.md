@@ -58,8 +58,5 @@ If Not (myField Is Nothing) Then StatusBar = "Field found"
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

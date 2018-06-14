@@ -35,8 +35,5 @@ It can only be set in form Design view.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

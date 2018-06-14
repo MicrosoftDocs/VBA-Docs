@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).FarEastLineBreakControl = True
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

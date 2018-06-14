@@ -44,8 +44,5 @@ Documents.Open FileName:="C:\Documents\Mac Word Document"
 ## See also
 
 
-#### Concepts
-
-
 [FileConverters Collection Object](Word.fileconverters.md)
 

@@ -65,8 +65,5 @@ Documents("Sales.doc").CustomDocumentProperties.Add _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

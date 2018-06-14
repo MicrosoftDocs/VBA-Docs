@@ -37,8 +37,5 @@ ActiveDocument.Sections(1).PageSetup.SectionDirection = _
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

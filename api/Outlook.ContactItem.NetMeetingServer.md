@@ -26,8 +26,5 @@ Returns or sets a  **String** specifying the name of the Microsoft NetMeeting se
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

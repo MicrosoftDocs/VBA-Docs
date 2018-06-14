@@ -28,8 +28,5 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 ## See also
 
 
-#### Concepts
-
-
 [TaskPanes Collection](Word.TaskPanes.md)
 

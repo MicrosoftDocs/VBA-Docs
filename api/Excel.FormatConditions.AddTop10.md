@@ -36,8 +36,5 @@ Using the  **Top10** object, you can find the highest and lowest values in a ran
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Object](Excel.FormatConditions.md)
 

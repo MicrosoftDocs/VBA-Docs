@@ -58,9 +58,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLPrefixMappings Object](customxmlprefixmappings-object-office.md)
 #### Other resources
 

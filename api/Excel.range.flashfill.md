@@ -29,8 +29,5 @@ TRUE indicates that the Excel Flash Fill feature has been enabled and active.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

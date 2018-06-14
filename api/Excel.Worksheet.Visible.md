@@ -67,8 +67,5 @@ newSheet.Range("A1:D4").Formula = "=RAND()"
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

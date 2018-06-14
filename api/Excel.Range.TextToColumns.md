@@ -104,8 +104,5 @@ Selection.TextToColumns DataType:=xlDelimited, _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

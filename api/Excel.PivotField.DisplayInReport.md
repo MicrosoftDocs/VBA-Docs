@@ -26,8 +26,5 @@ This property is used to specify whether the specified member property PivotFiel
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

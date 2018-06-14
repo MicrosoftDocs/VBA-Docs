@@ -46,8 +46,5 @@ If the  **KeepTogether** property for a section is set to No and the **KeepToget
 ## See also
 
 
-#### Concepts
-
-
 [GroupLevel Object](Access.GroupLevel.md)
 

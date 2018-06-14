@@ -26,8 +26,5 @@ Clears the formatting for this element.
 ## See also
 
 
-#### Concepts
-
-
 [TableStyleElement Object](Excel.TableStyleElement.md)
 

@@ -35,8 +35,5 @@ The  **ListObject** property applies only to **ListObject** objects.
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

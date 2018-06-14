@@ -64,8 +64,5 @@ Cells.ApplyNames Names:=Array("Sales", "Profits")
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

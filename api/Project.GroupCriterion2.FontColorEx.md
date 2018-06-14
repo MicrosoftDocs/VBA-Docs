@@ -30,8 +30,5 @@ The valid range for a normal RGB color is 0 to 16,777,215 (&;HFFFFFF&;). Each co
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

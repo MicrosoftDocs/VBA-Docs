@@ -26,8 +26,5 @@ Returns a  **Range** object that represents the portion of a document that's con
 ## See also
 
 
-#### Concepts
-
-
 [HTMLDivision Object](Word.HTMLDivision.md)
 

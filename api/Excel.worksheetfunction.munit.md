@@ -37,8 +37,5 @@ Returns the unit matrix for the specified dimension.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

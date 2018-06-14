@@ -27,9 +27,6 @@ Distributes the columns of a selected table in a report, so that all columns are
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 #### Other resources
 

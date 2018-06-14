@@ -64,8 +64,5 @@ ActiveSheet.PivotTableWizard xlDatabase, Range("A1:C100")
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

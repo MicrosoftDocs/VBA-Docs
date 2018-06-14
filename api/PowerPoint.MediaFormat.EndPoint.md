@@ -36,8 +36,5 @@ The end point must be after the start point.
 ## See also
 
 
-#### Concepts
-
-
 [MediaFormat Object](PowerPoint.MediaFormat.md)
 

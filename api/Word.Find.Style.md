@@ -31,8 +31,5 @@ To set this property, specify the local name of the style, an integer, a  **[WdB
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

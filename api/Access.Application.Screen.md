@@ -41,8 +41,5 @@ Application.Screen.MousePointer = 11 ' Hourglass' Do some background activity.Ap
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

@@ -60,9 +60,6 @@ The following example displays the Modified date and time along with other prope
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)
 #### Other resources
 

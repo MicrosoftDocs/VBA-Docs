@@ -100,8 +100,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Outlook.Table.md)
 

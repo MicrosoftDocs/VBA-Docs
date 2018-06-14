@@ -64,8 +64,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PageNumbers Collection Object](Word.pagenumbers.md)
 

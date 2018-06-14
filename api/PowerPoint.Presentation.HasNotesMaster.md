@@ -31,8 +31,5 @@ Indicates whether the presentation has media that resides on a notes master. Rea
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

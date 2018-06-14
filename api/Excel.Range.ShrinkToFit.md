@@ -41,8 +41,5 @@ Rows(1).ShrinkToFit = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

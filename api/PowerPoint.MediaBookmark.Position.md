@@ -26,8 +26,5 @@ Returns the time that is associated with the bookmark. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [MediaBookmark Object](PowerPoint.MediaBookmark.md)
 

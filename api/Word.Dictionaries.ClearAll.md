@@ -36,8 +36,5 @@ CustomDictionaries.ClearAll
 ## See also
 
 
-#### Concepts
-
-
 [Dictionaries Collection Object](Word.dictionaries.md)
 

@@ -36,8 +36,5 @@ A  **[Conflict](Outlook.Conflict.md)** object that represents the last object co
 ## See also
 
 
-#### Concepts
-
-
 [Conflicts Object](Outlook.Conflicts.md)
 

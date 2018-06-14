@@ -23,7 +23,4 @@ Gets a  **[Window](Project.Window.md)** object that represents the active window
 ## See also
 
 
-#### Concepts
-
-
 [Windows2 Collection Object](Project.windows2(object).md)

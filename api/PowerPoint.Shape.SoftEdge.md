@@ -31,8 +31,5 @@ MsoSoftEdgeType
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

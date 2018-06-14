@@ -50,8 +50,5 @@ Msgbox Options.DefaultTray
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

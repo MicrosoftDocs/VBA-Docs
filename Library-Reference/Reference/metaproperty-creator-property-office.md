@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [MetaProperty Object](metaproperty-object-office.md)
 #### Other resources
 

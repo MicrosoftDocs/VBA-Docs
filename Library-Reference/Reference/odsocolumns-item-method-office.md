@@ -49,9 +49,6 @@ oOdsoColumn = oOdsoColumns.Item(2)
 ## See also
 
 
-#### Concepts
-
-
 [ODSOColumns Object](odsocolumns-object-office.md)
 #### Other resources
 

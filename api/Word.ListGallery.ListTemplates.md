@@ -45,8 +45,5 @@ ActiveDocument.Lists(2).ApplyListTemplate ListTemplate:=mytemp
 ## See also
 
 
-#### Concepts
-
-
 [ListGallery Object](Word.ListGallery.md)
 

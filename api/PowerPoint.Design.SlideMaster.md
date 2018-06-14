@@ -42,8 +42,5 @@ Application.ActivePresentation.SlideMaster.Background.Fill _
 ## See also
 
 
-#### Concepts
-
-
 [Design Object](PowerPoint.Design.md)
 

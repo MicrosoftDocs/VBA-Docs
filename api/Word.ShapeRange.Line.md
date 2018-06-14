@@ -31,8 +31,5 @@ For a line, the  **LineFormat** object represents the line itself; for a range o
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

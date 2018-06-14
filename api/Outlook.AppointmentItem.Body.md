@@ -26,9 +26,6 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 #### Other resources
 

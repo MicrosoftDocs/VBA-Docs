@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ScaleEffect Object](PowerPoint.ScaleEffect.md)
 

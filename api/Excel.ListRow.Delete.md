@@ -26,8 +26,5 @@ Deletes the cells of the list row and shifts upward any remaining cells below th
 ## See also
 
 
-#### Concepts
-
-
 [ListRow Object](Excel.ListRow.md)
 

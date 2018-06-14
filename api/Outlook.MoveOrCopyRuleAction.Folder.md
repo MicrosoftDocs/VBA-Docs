@@ -33,8 +33,5 @@ This property returns an error if the specified folder cannot serve as a target 
 ## See also
 
 
-#### Concepts
-
-
 [MoveOrCopyRuleAction Object](Outlook.MoveOrCopyRuleAction.md)
 

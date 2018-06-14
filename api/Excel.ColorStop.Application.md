@@ -47,8 +47,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ColorStop Object](Excel.ColorStop.md)
 

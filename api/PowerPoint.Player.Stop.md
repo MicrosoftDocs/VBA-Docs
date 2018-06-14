@@ -26,8 +26,5 @@ Stops the media playing in the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Player Object](PowerPoint.Player.md)
 

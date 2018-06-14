@@ -35,8 +35,5 @@ Positions a task window.
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

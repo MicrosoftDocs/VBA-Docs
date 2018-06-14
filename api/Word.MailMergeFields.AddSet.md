@@ -65,8 +65,5 @@ ActiveDocument.Fields.Add Range:=Selection.Range, _
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 

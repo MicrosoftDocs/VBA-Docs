@@ -54,8 +54,6 @@ End If
 
 ## See also
 
-#### Concepts
-
 [Handle Run-Time Errors in VBA](../../Access-VBA/articles/elements-of-run-time-error-handling.md)
 
 #### Other resources

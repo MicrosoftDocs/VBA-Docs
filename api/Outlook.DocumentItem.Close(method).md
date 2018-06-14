@@ -26,8 +26,5 @@ This object, member, or enumeration will be deprecated and is not intended to be
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

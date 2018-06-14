@@ -38,8 +38,5 @@ objWO.Encoding = msoEncodingWestern
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

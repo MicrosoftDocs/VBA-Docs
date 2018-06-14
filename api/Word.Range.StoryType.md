@@ -26,8 +26,5 @@ Returns the story type for the specified range, selection, or bookmark. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -34,8 +34,5 @@ Closes and optionally saves changes to the Outlook item.
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

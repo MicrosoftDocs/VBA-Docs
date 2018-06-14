@@ -36,8 +36,5 @@ The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Ou
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

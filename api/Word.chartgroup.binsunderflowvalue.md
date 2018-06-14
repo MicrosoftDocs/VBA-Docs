@@ -24,8 +24,5 @@ If an [BinsUnderflowEnabled](Word.chartgroup.binsunderflowenabled.md) is **True*
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Word.ChartGroup.md)
 

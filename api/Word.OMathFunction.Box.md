@@ -26,8 +26,5 @@ Returns an  **[OMathBox](Word.OMathBox.md)** object that represents an invisible
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

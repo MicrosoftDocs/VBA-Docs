@@ -36,8 +36,5 @@ Selection.Range.HorizontalInVertical = wdHorizontalInVerticalFitInLine
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

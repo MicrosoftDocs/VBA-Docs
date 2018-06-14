@@ -47,9 +47,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](textframe2-object-office.md)
 #### Other resources
 

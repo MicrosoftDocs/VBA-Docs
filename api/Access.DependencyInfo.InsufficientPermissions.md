@@ -31,8 +31,5 @@ The  **DependencyObjects** collection returned by this property contains a colle
 ## See also
 
 
-#### Concepts
-
-
 [DependencyInfo Object](Access.DependencyInfo.md)
 

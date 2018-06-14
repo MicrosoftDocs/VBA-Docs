@@ -26,8 +26,5 @@ Returns or sets the formatting for the tables of authorities in the specified do
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 

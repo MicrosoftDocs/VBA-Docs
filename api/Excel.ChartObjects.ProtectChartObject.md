@@ -39,8 +39,5 @@ Worksheets(1).ChartObjects(1).ProtectChartObject = True
 ## See also
 
 
-#### Concepts
-
-
 [ChartObjects Object](Excel.ChartObjects.md)
 

@@ -26,8 +26,5 @@ Returns an  **[OrderFields](Outlook.OrderFields.md)** collection object that rep
 ## See also
 
 
-#### Concepts
-
-
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 

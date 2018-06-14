@@ -42,8 +42,5 @@ Forms(0).AfterUpdate = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

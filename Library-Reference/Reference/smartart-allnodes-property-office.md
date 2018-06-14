@@ -55,9 +55,6 @@ smartart.AllNodes(1).TextFrame2.TextRange.Text="Node 1"
 ## See also
 
 
-#### Concepts
-
-
 [SmartArt Object](smartart-object-office.md)
 #### Other resources
 

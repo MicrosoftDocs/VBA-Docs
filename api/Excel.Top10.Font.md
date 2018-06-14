@@ -31,8 +31,5 @@ Not all properties of the  **Font** object are supported for a conditional forma
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

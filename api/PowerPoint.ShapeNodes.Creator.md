@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 

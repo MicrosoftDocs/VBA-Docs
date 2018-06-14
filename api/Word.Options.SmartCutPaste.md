@@ -51,8 +51,5 @@ temp = Options.SmartCutPaste
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

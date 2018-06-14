@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](PowerPoint.OLEFormat.md)
 

@@ -53,8 +53,5 @@ Forms("Mailing List").Controls("Address_TextBox"). _
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Access.Page.md)
 

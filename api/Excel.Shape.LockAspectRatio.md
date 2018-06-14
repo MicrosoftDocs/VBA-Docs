@@ -51,8 +51,5 @@ myDocument.Shapes.AddShape(msoShapeCube, _
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

@@ -73,8 +73,5 @@ shapeTextbox2.TextFrame.BreakForwardLink
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

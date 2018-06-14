@@ -123,9 +123,6 @@ Selected task ID 4, name: T4
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Project.Task.md)
 #### Other resources
 

@@ -69,8 +69,5 @@ To run a macro or event procedure in response to pressing and releasing the mous
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

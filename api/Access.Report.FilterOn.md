@@ -40,8 +40,5 @@ You can remove a filter by clicking the pressed-in  **Apply Filter** button, cli
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

@@ -160,8 +160,6 @@ Your add-in displays all current workbook tabs in a task pane for easy navigatio
 
 ## See also
 
-#### Concepts
-
 [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
 
 #### Additional resources

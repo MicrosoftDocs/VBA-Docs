@@ -44,8 +44,5 @@ MsgBox "You are currently running Microsoft Publisher, " _
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

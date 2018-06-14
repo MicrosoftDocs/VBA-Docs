@@ -45,8 +45,5 @@ AutoCorrect.CorrectDays = Not AutoCorrect.CorrectDays
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Word.AutoCorrect.md)
 

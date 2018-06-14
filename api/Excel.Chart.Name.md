@@ -31,8 +31,5 @@ This property is read-only for chart objects (embedded charts).
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

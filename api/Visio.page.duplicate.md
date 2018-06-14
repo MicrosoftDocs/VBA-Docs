@@ -34,8 +34,5 @@ The duplicated page is inserted immediately after the original page in the docum
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Visio.Page.md)
 

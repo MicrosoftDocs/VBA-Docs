@@ -38,9 +38,6 @@ If no conversation items exist in the same folder as the conversation header,  *
 ## See also
 
 
-#### Concepts
-
-
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 #### Other resources
 

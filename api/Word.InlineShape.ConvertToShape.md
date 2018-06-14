@@ -41,8 +41,5 @@ ActiveDocument.InlineShapes(1).ConvertToShape
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

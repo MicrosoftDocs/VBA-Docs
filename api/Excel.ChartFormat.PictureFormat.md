@@ -26,8 +26,5 @@ Returns a  **[PictureFormat](Excel.PictureFormat.md)** object for a specified ch
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Excel.ChartFormat.md)
 

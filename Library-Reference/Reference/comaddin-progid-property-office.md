@@ -39,9 +39,6 @@ MsgBox "My ProgID is " &amp; _
 ## See also
 
 
-#### Concepts
-
-
 [COMAddIn Object](comaddin-object-office.md)
 #### Other resources
 

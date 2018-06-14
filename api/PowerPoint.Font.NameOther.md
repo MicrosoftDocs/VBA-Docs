@@ -46,8 +46,5 @@ ActivePresentation.Fonts(1).NameOther = "Tahoma"
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](PowerPoint.Font.md)
 

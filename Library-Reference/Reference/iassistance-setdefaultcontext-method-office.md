@@ -50,9 +50,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [IAssistance Object](iassistance-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the Microsoft Office Data Connection fi
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

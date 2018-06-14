@@ -49,8 +49,5 @@ Selection.Range.Subdocuments(1).Split Range:=Selection.Range
 ## See also
 
 
-#### Concepts
-
-
 [Subdocument Object](Word.Subdocument.md)
 

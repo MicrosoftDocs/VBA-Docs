@@ -39,8 +39,5 @@ Rounds a number down, to the nearest integer or to the nearest multiple of signi
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

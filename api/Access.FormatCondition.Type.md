@@ -26,8 +26,5 @@ Returns the value of a  **[FormatCondition](Access.FormatCondition.md)** object 
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Access.FormatCondition.md)
 

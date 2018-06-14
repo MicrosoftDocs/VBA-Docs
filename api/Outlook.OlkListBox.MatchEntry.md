@@ -31,8 +31,5 @@ The default value is  **olMatchEntryComplete** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

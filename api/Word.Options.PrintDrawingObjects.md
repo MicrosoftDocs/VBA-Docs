@@ -46,8 +46,5 @@ temp = Options.PrintDrawingObjects
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

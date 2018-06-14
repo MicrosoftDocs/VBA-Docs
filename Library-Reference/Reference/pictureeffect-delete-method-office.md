@@ -28,9 +28,6 @@ Nothing
 ## See also
 
 
-#### Concepts
-
-
 [PictureEffect Object](pictureeffect-object-office.md)
 #### Other resources
 

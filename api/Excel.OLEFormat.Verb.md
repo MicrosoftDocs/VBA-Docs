@@ -34,8 +34,5 @@ Sends a verb to the server of the specified OLE object.
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Excel.OLEFormat.md)
 

@@ -39,9 +39,6 @@ Use the  **ErrorType** property to determine the type of the most recent documen
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

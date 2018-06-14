@@ -31,8 +31,5 @@ To set this property, specify an expression that returns a  **[Font](Word.Font.m
 ## See also
 
 
-#### Concepts
-
-
 [ListLevel Object](Word.ListLevel.md)
 

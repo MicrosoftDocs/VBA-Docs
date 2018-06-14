@@ -58,9 +58,6 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 ## See also
 
 
-#### Concepts
-
-
 [ICustomTaskPaneConsumer Object](icustomtaskpaneconsumer-object-office.md)
 #### Other resources
 

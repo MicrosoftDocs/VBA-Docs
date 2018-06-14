@@ -31,8 +31,5 @@ This property corresponds to the  **Enable Live Preview** check box in the **Exc
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -43,8 +43,5 @@ MsgBox ActiveProtectedViewWindow.SourcePath &; Application.PathSeparator _
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

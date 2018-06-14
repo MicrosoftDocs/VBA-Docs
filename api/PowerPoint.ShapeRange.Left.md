@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the distance in points from the le
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

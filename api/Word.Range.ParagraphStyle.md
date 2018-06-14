@@ -26,8 +26,5 @@ Returns a  **Variant** that represents the style used to format a paragraph. Rea
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

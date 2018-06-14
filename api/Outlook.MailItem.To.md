@@ -31,8 +31,5 @@ This property contains the display names only. The  **To** property corresponds 
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

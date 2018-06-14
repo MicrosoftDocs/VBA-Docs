@@ -51,9 +51,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 
 

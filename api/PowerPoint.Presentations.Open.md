@@ -81,8 +81,5 @@ Presentations.Open FileName:="C:\My Documents\pres1.pptx", ReadOnly:=msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [Presentations Object](PowerPoint.Presentations.md)
 

@@ -43,8 +43,5 @@ For a non-date filter, any access returns a run-time error.
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

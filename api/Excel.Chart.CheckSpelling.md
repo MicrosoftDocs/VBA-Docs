@@ -44,8 +44,5 @@ To check headers, footers, and objects on a worksheet, use this method on a  **[
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

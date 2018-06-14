@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartCharacters Object](PowerPoint.ChartCharacters.md)
 

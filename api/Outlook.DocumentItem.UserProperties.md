@@ -31,8 +31,5 @@ Even though  **olWordDocumentItem** is a valid constant in the **[OlItemType](Ou
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

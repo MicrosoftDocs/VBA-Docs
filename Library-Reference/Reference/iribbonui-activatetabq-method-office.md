@@ -59,9 +59,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [IRibbonUI Object](iribbonui-object-office.md)
 #### Other resources
 

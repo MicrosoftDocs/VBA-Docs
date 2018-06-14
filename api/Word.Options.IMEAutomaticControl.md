@@ -36,8 +36,5 @@ Options.IMEAutomaticControl = True
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

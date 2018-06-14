@@ -26,8 +26,5 @@ Returns the type of layout for the specified text box. Read-only [AcLayoutType](
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

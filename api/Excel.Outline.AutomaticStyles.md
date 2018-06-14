@@ -36,8 +36,5 @@ Worksheets("Sheet1").Outline.AutomaticStyles = True
 ## See also
 
 
-#### Concepts
-
-
 [Outline Object](Excel.Outline.md)
 

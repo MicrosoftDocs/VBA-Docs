@@ -26,8 +26,5 @@ Returns the number of items in the  **OMaths** collection. Read-only **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [OMaths Object](Word.OMaths.md)
 

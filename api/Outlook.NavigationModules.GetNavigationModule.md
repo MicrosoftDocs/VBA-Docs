@@ -39,8 +39,5 @@ A  **NavigationModule** object that represents the navigation module with the sp
 ## See also
 
 
-#### Concepts
-
-
 [NavigationModules Object](Outlook.NavigationModules.md)
 

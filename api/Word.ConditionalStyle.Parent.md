@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Cond
 ## See also
 
 
-#### Concepts
-
-
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 

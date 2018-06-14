@@ -26,8 +26,5 @@ Returns an  **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicat
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

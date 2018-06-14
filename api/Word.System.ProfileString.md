@@ -46,8 +46,5 @@ MsgBox System.ProfileString("SubkeyName", "EntryName")
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

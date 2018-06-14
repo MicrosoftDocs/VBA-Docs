@@ -37,8 +37,5 @@ This property is automatically set to  **True** when no manual filtering is appl
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

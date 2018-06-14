@@ -26,8 +26,5 @@ Indicates whether the document window is in merge mode. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

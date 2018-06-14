@@ -50,9 +50,6 @@ MsgBox "URL: " &amp; ActiveWorkbook.SharedWorkspaceLink.URL, _
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceLink Object](sharedworkspacelink-object-office.md)
 #### Other resources
 

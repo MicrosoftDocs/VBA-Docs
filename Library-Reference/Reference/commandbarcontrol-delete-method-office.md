@@ -37,9 +37,6 @@ Deletes the  **CommandBarControl** object from its collection.
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControl Object](commandbarcontrol-object-office.md)
 #### Other resources
 

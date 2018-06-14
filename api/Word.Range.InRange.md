@@ -55,8 +55,5 @@ If myRange.InRange(Selection.Range) = False Then myRange.Select
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

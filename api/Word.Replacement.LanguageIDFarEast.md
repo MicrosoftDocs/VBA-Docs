@@ -41,8 +41,5 @@ Selection.LanguageIDFarEast = wdKorean
 ## See also
 
 
-#### Concepts
-
-
 [Replacement Object](Word.Replacement.md)
 

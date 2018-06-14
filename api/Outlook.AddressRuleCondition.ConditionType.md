@@ -33,8 +33,5 @@ This however does not mean that the rule always has a defined rule condition for
 ## See also
 
 
-#### Concepts
-
-
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 

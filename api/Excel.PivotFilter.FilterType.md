@@ -103,8 +103,5 @@ The following table shows the new filter types, the arguments that must be suppl
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

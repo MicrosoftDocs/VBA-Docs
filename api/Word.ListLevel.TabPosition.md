@@ -60,8 +60,5 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=myltemp
 ## See also
 
 
-#### Concepts
-
-
 [ListLevel Object](Word.ListLevel.md)
 

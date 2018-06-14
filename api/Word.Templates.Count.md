@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of templates in the specified col
 ## See also
 
 
-#### Concepts
-
-
 [Templates Collection Object](Word.templates.md)
 

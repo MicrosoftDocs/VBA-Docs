@@ -39,8 +39,5 @@ In VBScript, if you set the return value of this function to  **False** , the sa
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

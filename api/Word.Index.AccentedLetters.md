@@ -42,8 +42,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Index Object](Word.Index.md)
 

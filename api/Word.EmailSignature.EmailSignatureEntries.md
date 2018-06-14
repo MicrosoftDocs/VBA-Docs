@@ -46,8 +46,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [EmailSignature Object](Word.EmailSignature.md)
 

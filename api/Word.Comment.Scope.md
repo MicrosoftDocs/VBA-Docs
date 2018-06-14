@@ -49,8 +49,5 @@ If total >= 1 Then ActiveDocument.Comments(total).Scope.Copy
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

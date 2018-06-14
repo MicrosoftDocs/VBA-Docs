@@ -26,8 +26,5 @@ Returns a  **TextFrame** object that represents the previous text frame in a col
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

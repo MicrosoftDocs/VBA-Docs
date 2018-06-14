@@ -26,8 +26,5 @@ Return the range of values on which the sort is performed. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Sort Object](Excel.Sort.md)
 

@@ -53,8 +53,5 @@ MsgBox "The first paragraph contains " &; wordCount _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

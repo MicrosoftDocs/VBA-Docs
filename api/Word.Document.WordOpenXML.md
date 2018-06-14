@@ -26,8 +26,5 @@ Returns a  **String** that represents the flat XML format for the Word Open XML 
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

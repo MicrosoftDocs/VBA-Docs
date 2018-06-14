@@ -48,8 +48,5 @@ MsgBox currTime
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

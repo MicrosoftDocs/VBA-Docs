@@ -26,8 +26,5 @@ Returns an  **[OlRecurrenceState](Outlook.OlRecurrenceState.md)** constant indic
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

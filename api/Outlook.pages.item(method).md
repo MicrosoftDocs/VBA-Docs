@@ -41,8 +41,5 @@ If an invalid index or name is specified, an error occurs.
 ## See also
 
 
-#### Concepts
-
-
  [Pages Object](Outlook.pages(object).md)
 

@@ -42,9 +42,6 @@ This feature is only available in the Open XML Format SDK.
 ## See also
 
 
-#### Concepts
-
-
 [IConverterUICallback Object](iconverteruicallback-object-office.md)
 #### Other resources
 

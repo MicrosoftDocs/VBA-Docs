@@ -33,8 +33,5 @@ The  **Text** property provides the same value as the **[Value](Outlook.OlkTimeC
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

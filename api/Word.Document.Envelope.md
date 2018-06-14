@@ -63,8 +63,5 @@ ActiveDocument.ActiveWindow.View.Type = wdPrintView
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

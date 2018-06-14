@@ -37,8 +37,5 @@ The  **ItemsSelected** collection has no methods and two properties, the **Count
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

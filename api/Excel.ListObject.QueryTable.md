@@ -55,8 +55,5 @@ Dim wrksht As Worksheet
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Scenarios Object](Excel.Scenarios.md)
 

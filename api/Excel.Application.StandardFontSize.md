@@ -41,8 +41,5 @@ Application.StandardFontSize = 12
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

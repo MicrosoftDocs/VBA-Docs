@@ -53,8 +53,5 @@ Application.Interactive = True
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

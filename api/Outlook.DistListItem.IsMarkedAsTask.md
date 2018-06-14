@@ -26,8 +26,5 @@ Returns a  **Boolean** value that indicates whether the **[DistListItem](Outlook
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

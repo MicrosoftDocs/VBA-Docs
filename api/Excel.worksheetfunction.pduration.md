@@ -39,8 +39,5 @@ Returns the number of periods required by an investment to reach a specified val
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

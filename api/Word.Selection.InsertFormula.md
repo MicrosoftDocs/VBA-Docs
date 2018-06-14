@@ -81,8 +81,5 @@ Selection.InsertFormula Formula:= "=GrossSales-45,000.00", _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

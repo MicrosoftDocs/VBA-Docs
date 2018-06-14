@@ -79,8 +79,5 @@ myDocument.Shapes.AddPicture _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

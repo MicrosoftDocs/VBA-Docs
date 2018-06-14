@@ -31,8 +31,5 @@ The  **SingleStep** method will not stop the execution of or assist in debugging
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

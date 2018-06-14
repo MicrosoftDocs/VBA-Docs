@@ -56,8 +56,5 @@ Application.CommandBars("Standard").Controls.Add _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

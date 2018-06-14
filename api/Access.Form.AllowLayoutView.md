@@ -26,8 +26,5 @@ Gets or sets whether the specified form can be used in Layout View. Read/write  
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

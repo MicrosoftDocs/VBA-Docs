@@ -29,8 +29,5 @@ Returns a  **Boolean** that indicates whether the specified document is in compa
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Visio.Document.md)
 

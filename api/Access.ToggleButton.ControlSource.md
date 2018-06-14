@@ -70,8 +70,5 @@ Me!Expected.ControlSource = "=Date() + 7"
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

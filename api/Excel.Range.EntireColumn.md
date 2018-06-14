@@ -36,8 +36,5 @@ ActiveCell.EntireColumn.Cells(1, 1).Value = 5
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

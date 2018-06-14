@@ -36,8 +36,5 @@ ActiveDocument.Footnotes.Location = wdBottomOfPage
 ## See also
 
 
-#### Concepts
-
-
 [FootnoteOptions Object](Word.FootnoteOptions.md)
 

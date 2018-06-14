@@ -53,8 +53,5 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 

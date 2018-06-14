@@ -47,8 +47,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Filters Object](Excel.Filters.md)
 

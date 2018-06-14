@@ -39,8 +39,5 @@ The  **FileURL** property returns an empty string if the table that contains the
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

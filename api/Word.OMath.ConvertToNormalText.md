@@ -26,8 +26,5 @@ Converts an equation to normal text.
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

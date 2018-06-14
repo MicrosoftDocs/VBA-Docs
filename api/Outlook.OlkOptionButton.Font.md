@@ -31,8 +31,5 @@ The font is expressed as the Microsoft Windows type  **StdFont** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

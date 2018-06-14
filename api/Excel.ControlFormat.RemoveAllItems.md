@@ -36,8 +36,5 @@ Worksheets(1).Shapes(2).ControlFormat.RemoveAllItems
 ## See also
 
 
-#### Concepts
-
-
 [ControlFormat Object](Excel.ControlFormat.md)
 

@@ -26,8 +26,5 @@ Returns a  **String** value that represents the friendly name used to identify a
 ## See also
 
 
-#### Concepts
-
-
 [XmlSchema Object](Excel.XmlSchema.md)
 

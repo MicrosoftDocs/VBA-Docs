@@ -26,8 +26,5 @@ Returns  **True** if merge-mode updates are pending. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Coauthoring Object](PowerPoint.Coauthoring.md)
 

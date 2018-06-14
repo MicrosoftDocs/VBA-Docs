@@ -52,9 +52,6 @@ saNode.OrgChartLayout = msoOrgChartLayoutDefault
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

@@ -49,8 +49,5 @@ ActiveWorkbook.Unprotect
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

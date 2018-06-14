@@ -93,7 +93,5 @@ Selection.GoTo What:=wdGoToPage, Which:=wdGoToPrevious, Count:=2
 
 ## See also
 
-#### Concepts
-
 [Selection Object](Word.Selection.md)
 

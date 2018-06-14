@@ -31,8 +31,5 @@ Returns an  **[XlListDataType](Excel.XlListDataType.md)** value that represents 
 ## See also
 
 
-#### Concepts
-
-
 [ListDataFormat Object](Excel.ListDataFormat.md)
 

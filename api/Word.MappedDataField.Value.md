@@ -46,8 +46,5 @@ MsgBox dRecord
 ## See also
 
 
-#### Concepts
-
-
 [MappedDataField Object](Word.MappedDataField.md)
 

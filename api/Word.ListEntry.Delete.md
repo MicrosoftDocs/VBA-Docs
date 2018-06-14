@@ -26,8 +26,5 @@ Deletes the specified list entry.
 ## See also
 
 
-#### Concepts
-
-
 [ListEntry Object](Word.ListEntry.md)
 

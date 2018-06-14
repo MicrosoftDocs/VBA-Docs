@@ -54,8 +54,5 @@ Tasks("Calculator").WindowState = wdWindowStateNormal
 ## See also
 
 
-#### Concepts
-
-
 [Tasks Collection Object](Word.tasks.md)
 

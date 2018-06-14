@@ -47,8 +47,5 @@ Exports to a file of the specified format.
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

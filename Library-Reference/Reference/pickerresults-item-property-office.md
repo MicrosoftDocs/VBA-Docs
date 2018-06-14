@@ -69,9 +69,6 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [PickerResults Object](pickerresults-object-office.md)
 #### Other resources
 

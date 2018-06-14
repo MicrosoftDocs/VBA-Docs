@@ -31,8 +31,5 @@ By default, the lowest value is used to determine the length of the shortest dat
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Access.FormatCondition.md)
 

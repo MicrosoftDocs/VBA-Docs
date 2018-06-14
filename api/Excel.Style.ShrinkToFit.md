@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that indicates if text automatically shrink
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

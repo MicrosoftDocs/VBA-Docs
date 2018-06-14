@@ -23,8 +23,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 ## See also
 
 
-#### Concepts
-
-
 [ActualStartDrivers Collection Object](Project.actualstartdrivers.md)
 

@@ -39,8 +39,5 @@ NamedSlideShow
 ## See also
 
 
-#### Concepts
-
-
 [NamedSlideShows Object](PowerPoint.NamedSlideShows.md)
 

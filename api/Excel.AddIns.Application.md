@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Collection](Excel.AddIns.md)
 

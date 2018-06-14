@@ -31,8 +31,5 @@ If this property is set to  **False** , the LCID value in the connection string 
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

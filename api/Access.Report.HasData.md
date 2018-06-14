@@ -49,8 +49,5 @@ Me!SubReportControl.Visible = Me!SubReportControl.Report.HasData
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

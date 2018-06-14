@@ -74,8 +74,5 @@ ActiveDocument.SaveAs _
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](Word.FileConverter.md)
 

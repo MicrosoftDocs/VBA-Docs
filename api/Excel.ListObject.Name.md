@@ -56,8 +56,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

@@ -49,8 +49,5 @@ Worksheets("options").Scenarios.Item("typical").Show
 ## See also
 
 
-#### Concepts
-
-
 [Scenarios Object](Excel.Scenarios.md)
 

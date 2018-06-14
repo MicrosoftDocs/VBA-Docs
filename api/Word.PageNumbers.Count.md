@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of page numbers in the collection
 ## See also
 
 
-#### Concepts
-
-
 [PageNumbers Collection Object](Word.pagenumbers.md)
 

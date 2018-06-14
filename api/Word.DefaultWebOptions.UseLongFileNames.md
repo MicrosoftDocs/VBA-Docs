@@ -41,8 +41,5 @@ Application.DefaultWebOptions.UseLongFileNames = False
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 

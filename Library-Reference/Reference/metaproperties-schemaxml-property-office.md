@@ -36,9 +36,6 @@ This property is used to return information representing various metadata proper
 ## See also
 
 
-#### Concepts
-
-
 [MetaProperties Object](metaproperties-object-office.md)
 #### Other resources
 

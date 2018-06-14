@@ -26,8 +26,5 @@ Deletes the specified add-in.
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](Word.AddIn.md)
 

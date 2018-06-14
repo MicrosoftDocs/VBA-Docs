@@ -53,8 +53,5 @@ ActiveDocument.Range.Font.Ligatures = wdLigaturesDiscretional
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

@@ -35,8 +35,5 @@ Setting the  **HTMLBody** property will always update the **[Body](Outlook.Shari
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

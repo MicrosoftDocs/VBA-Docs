@@ -31,8 +31,5 @@ The  **[RefreshOnFileOpen](Excel.ODBCConnection.RefreshOnFileOpen.md)** property
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

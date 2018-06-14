@@ -26,8 +26,5 @@ Returns the type of layout for the specified attachment. Read-only  **[AcLayoutT
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

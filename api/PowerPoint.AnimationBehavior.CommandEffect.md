@@ -56,8 +56,5 @@ The following example shows how to set a command effect animation behavior.
 ## See also
 
 
-#### Concepts
-
-
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 

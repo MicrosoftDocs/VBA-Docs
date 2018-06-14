@@ -63,8 +63,5 @@ Next lt
 ## See also
 
 
-#### Concepts
-
-
 [ListLevel Object](Word.ListLevel.md)
 

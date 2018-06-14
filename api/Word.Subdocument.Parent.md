@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Subd
 ## See also
 
 
-#### Concepts
-
-
 [Subdocument Object](Word.Subdocument.md)
 

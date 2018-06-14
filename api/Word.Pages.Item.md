@@ -39,8 +39,5 @@ Page
 ## See also
 
 
-#### Concepts
-
-
 [Pages Collection](Word.pages.md)
 

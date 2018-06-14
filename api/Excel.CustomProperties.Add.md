@@ -65,8 +65,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperties Object](Excel.CustomProperties.md)
 

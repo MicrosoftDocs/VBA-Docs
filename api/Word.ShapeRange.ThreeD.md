@@ -26,8 +26,5 @@ Returns a  **ThreeDFormat** object that contains 3-D formatting properties for t
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

@@ -31,8 +31,5 @@ Indicates whether the media controls are visible. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

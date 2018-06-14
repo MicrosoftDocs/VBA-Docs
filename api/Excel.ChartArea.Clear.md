@@ -43,8 +43,5 @@ Charts("Chart1").ChartArea.Clear
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](Excel.ChartArea(objec).md)
 

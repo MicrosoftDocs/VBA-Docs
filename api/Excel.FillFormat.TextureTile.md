@@ -36,8 +36,5 @@ Returns the texture tile style for the specified fill. Read/write  **[MsoTriStat
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

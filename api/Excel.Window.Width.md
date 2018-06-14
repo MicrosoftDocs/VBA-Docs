@@ -31,8 +31,5 @@ Use the  **[UsableWidth](Excel.Window.UsableWidth.md)** property to determine th
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

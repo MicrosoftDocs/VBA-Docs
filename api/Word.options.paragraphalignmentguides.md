@@ -34,8 +34,5 @@ If  **ParagraphAlignmentGuides** is set to **True**, paragraph alignment guides 
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

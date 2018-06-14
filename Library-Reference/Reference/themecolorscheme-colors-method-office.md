@@ -52,9 +52,6 @@ tcsThemeColorScheme.Save ("C:\myThemeColorScheme.xml")
 ## See also
 
 
-#### Concepts
-
-
 [ThemeColorScheme Object](themecolorscheme-object-office.md)
 #### Other resources
 

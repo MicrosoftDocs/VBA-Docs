@@ -52,8 +52,5 @@ Languages(wdEnglishUS).SpellingDictionaryType = wdSpellingLegal
 ## See also
 
 
-#### Concepts
-
-
 [Language Object](Word.Language.md)
 

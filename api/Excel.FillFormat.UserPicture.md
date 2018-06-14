@@ -34,8 +34,5 @@ Fills the specified shape with an image.
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

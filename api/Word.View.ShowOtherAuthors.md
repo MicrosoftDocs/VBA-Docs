@@ -31,8 +31,5 @@ By default, when Word other authors are editing or have blocked off a section of
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

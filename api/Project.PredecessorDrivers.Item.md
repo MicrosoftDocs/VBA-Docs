@@ -31,7 +31,4 @@ Gets a single  **TaskDependency** object from a **PredecessorDrivers** collectio
 ## See also
 
 
-#### Concepts
-
-
 [PredecessorDrivers Collection Object](Project.predecessordrivers.md)

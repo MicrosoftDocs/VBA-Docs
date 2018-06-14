@@ -41,8 +41,5 @@ Worksheets("Sheet1").Range("A1:G37").ClearOutline
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

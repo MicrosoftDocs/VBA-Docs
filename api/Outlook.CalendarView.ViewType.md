@@ -26,8 +26,5 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the 
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

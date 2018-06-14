@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Canv
 ## See also
 
 
-#### Concepts
-
-
 [CanvasShapes Collection](Word.CanvasShapes.md)
 

@@ -40,8 +40,5 @@ ActiveDocument.Indexes.Add(Range:=myRange, Type:=wdIndexIndent, _
 ## See also
 
 
-#### Concepts
-
-
 [Index Object](Word.Index.md)
 

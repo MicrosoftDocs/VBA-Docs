@@ -56,8 +56,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

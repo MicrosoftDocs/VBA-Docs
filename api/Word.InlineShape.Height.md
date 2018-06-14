@@ -26,8 +26,5 @@ Returns or sets the height of an inline shape. Read/write  **Single** .
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

@@ -26,8 +26,5 @@ Deletes the specified field.
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

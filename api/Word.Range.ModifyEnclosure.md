@@ -47,8 +47,5 @@ Selection.Range.ModifyEnclosure wdEncloseStyleLarge, _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

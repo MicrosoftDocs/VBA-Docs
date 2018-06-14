@@ -43,9 +43,6 @@ Application.ActivePresentation.Slides(1) _
 ## See also
 
 
-#### Concepts
-
-
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 
 

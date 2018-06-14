@@ -34,8 +34,5 @@ The  **TextVisibleOnScreen** property returns 1 if all text in the range is visi
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

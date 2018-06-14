@@ -46,8 +46,5 @@ Windows(1).Selection.TextRange.Font.Bold = True
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

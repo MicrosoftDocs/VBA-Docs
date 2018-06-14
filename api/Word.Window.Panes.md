@@ -51,8 +51,5 @@ Windows("Document2").Panes(1).Activate
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

@@ -31,8 +31,5 @@ Returns a  **[SparklineGroups](Excel.SparklineGroups.md)** object that represent
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

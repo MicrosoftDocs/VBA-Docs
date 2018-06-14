@@ -39,8 +39,5 @@ HTMLDivision
 ## See also
 
 
-#### Concepts
-
-
 [HTMLDivisions Collection](Word.HTMLDivisions.md)
 

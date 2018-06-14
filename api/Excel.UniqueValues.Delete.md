@@ -26,8 +26,5 @@ Deletes the specified conditional formatting rule object.
 ## See also
 
 
-#### Concepts
-
-
 [UniqueValues Object](Excel.UniqueValues.md)
 

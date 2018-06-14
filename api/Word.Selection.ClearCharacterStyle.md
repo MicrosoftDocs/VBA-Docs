@@ -34,8 +34,5 @@ This method does not remove character formatting that a user has applied manuall
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

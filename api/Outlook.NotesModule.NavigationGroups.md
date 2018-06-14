@@ -26,8 +26,5 @@ Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that conta
 ## See also
 
 
-#### Concepts
-
-
 [NotesModule Object](Outlook.NotesModule.md)
 

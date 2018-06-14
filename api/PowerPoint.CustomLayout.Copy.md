@@ -31,8 +31,5 @@ Use the  **[Paste](PowerPoint.CustomLayouts.Paste.md)** method of the **[CustomL
 ## See also
 
 
-#### Concepts
-
-
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 

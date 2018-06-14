@@ -56,8 +56,5 @@ ActiveDocument.CheckGrammar
 ## See also
 
 
-#### Concepts
-
-
 [Language Object](Word.Language.md)
 

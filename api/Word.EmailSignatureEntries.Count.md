@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of e-mail signature entries in th
 ## See also
 
 
-#### Concepts
-
-
 [EmailSignatureEntries Collection](Word.EmailSignatureEntries.md)
 

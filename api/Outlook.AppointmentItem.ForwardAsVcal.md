@@ -36,8 +36,5 @@ The  **ForwardAsVcal** method returns a **[MailItem](Outlook.MailItem.md)** with
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

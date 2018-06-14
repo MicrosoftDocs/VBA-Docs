@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of pages in the collection. Read-
 ## See also
 
 
-#### Concepts
-
-
 [Pages Collection](Word.pages.md)
 

@@ -61,8 +61,5 @@ Selection.ParagraphFormat.FirstLineIndent = PicasToPoints(3)
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

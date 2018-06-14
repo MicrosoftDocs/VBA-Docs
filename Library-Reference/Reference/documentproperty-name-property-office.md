@@ -59,9 +59,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [DocumentProperty Object](documentproperty-object-office.md)
 #### Other resources
 

@@ -73,8 +73,5 @@ Selection.Range.Subdocuments.AddFromFile Name:="C:\Subdoc.doc", _
 ## See also
 
 
-#### Concepts
-
-
 [Subdocuments Collection Object](Word.subdocuments.md)
 

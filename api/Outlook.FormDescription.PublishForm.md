@@ -101,8 +101,5 @@ myForm.PublishForm olPersonalRegistry
 ## See also
 
 
-#### Concepts
-
-
 [FormDescription Object](Outlook.FormDescription.md)
 

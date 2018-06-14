@@ -31,8 +31,5 @@ Returns a **Boolean** that represents whether a style is a linked style that can
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

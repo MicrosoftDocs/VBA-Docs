@@ -40,8 +40,5 @@ This property along with the  **[DisplayFolder](Excel.CalculatedMember.DisplayFo
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

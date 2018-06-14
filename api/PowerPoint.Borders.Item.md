@@ -53,8 +53,5 @@ The  _BorderType_ parameter value can be one of these **PpBorderType** constants
 ## See also
 
 
-#### Concepts
-
-
 [Borders Object](PowerPoint.Borders.md)
 

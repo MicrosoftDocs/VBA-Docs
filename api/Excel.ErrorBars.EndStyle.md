@@ -36,8 +36,5 @@ Charts("Chart1").SeriesCollection(1).ErrorBars.EndStyle = xlCap
 ## See also
 
 
-#### Concepts
-
-
 [ErrorBars Object](Excel.ErrorBars(objec).md)
 

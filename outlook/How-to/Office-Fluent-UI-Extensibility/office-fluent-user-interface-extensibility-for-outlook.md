@@ -31,9 +31,6 @@ For more information and examples of different ways to customize the Outlook UI,
 ## See also
 
 
-#### Concepts
-
-
  [Customizing Shortcut Menus](customizing-shortcut-menus.md)<br>
  [Updating Earlier Code for CommandBars](updating-earlier-code-for-commandbars.md)<br>
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>

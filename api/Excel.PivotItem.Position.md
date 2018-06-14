@@ -38,8 +38,5 @@ MsgBox "The active item is in position number " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

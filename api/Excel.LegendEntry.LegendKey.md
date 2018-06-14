@@ -37,8 +37,5 @@ Charts("Chart1").Legend.LegendEntries(1).LegendKey _
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](Excel.LegendEntry(objec).md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of caption labels in the collecti
 ## See also
 
 
-#### Concepts
-
-
 [CaptionLabels Collection Object](Word.captionlabels.md)
 

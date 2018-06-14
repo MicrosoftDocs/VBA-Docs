@@ -36,8 +36,5 @@ Files that contain data caches that do not validate will be opened in a  **Prote
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

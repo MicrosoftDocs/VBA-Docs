@@ -88,8 +88,5 @@ strFolderSuffix = Workbooks(1).WebOptions.FolderSuffix
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

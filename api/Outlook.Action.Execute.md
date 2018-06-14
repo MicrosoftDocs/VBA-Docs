@@ -79,8 +79,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Outlook.Action.md)
 

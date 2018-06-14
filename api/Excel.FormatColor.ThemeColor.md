@@ -26,8 +26,5 @@ Returns or sets one of the constants of the  **[XlThemeColor](Excel.XlThemeColor
 ## See also
 
 
-#### Concepts
-
-
 [FormatColor Object](Excel.FormatColor.md)
 

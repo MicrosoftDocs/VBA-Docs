@@ -26,8 +26,5 @@ Returns or sets a  **[WdShowSourceDocuments](Word.WdShowSourceDocuments.md)** co
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

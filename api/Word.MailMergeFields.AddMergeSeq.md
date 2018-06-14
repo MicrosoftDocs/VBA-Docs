@@ -60,8 +60,5 @@ rngTemp.InsertAfter "Sequence Number: "
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 

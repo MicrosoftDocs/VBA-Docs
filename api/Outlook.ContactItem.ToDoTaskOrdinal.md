@@ -33,8 +33,5 @@ This property is used to indicate how the task should be ordered within the pare
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

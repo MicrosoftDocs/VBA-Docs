@@ -56,8 +56,5 @@ pvts.AddPivotTable(ActiveSheet.PivotTables("PivotTable1"))
 ## See also
 
 
-#### Concepts
-
-
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 

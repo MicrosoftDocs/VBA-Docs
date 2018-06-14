@@ -26,8 +26,5 @@ Returns the number of items in the  **OMathRecognizedFunctions** collection. Rea
 ## See also
 
 
-#### Concepts
-
-
 [OMathRecognizedFunctions Collection](Word.OMathRecognizedFunctions.md)
 

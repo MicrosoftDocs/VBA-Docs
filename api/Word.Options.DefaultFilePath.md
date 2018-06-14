@@ -60,8 +60,5 @@ strPath = Options.DefaultFilePath(wdUserTemplatesPath)
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

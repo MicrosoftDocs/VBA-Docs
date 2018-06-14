@@ -37,8 +37,5 @@ MsgBox ActiveDocument.Email _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

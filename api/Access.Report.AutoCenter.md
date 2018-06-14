@@ -41,8 +41,5 @@ Depending on the size and placement of the application window, reports can appea
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

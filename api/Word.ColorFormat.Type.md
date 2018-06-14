@@ -26,8 +26,5 @@ Returns or sets the shape color type. Read-only  **MsoColorType** .
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Word.ColorFormat.md)
 

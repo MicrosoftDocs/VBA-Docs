@@ -40,8 +40,5 @@ Do not confuse this property with the  **From** property of the **[ColorEffect](
 ## See also
 
 
-#### Concepts
-
-
 [ScaleEffect Object](PowerPoint.ScaleEffect.md)
 

@@ -40,8 +40,5 @@ If Err = 5852 Then MsgBox "Insert an envelope into the document"
 ## See also
 
 
-#### Concepts
-
-
 [Envelope Object](Word.Envelope.md)
 

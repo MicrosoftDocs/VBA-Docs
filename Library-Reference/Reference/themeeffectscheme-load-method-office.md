@@ -42,9 +42,6 @@ tesEffectScheme.Load("C:\myThemeEffectScheme.eftx")
 ## See also
 
 
-#### Concepts
-
-
 [ThemeEffectScheme Object](themeeffectscheme-object-office.md)
 #### Other resources
 

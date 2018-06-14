@@ -31,8 +31,5 @@ Occurs when an attachment in an instance of the parent object has been opened fo
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

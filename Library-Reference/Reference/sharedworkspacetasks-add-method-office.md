@@ -80,9 +80,6 @@ The following example adds a new task to the tasks collection of the shared work
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTasks Object](sharedworkspacetasks-object-office.md)
 #### Other resources
 

@@ -43,8 +43,5 @@ MsgBox "The language ID used for Access Help is " &; mli
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

@@ -38,8 +38,5 @@ MsgBox "Number of COM add-ins available:" &; _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

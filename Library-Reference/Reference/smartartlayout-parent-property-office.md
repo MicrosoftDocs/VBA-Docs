@@ -23,9 +23,6 @@ Returns the calling object. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtLayout Object](smartartlayout-object-office.md)
 #### Other resources
 

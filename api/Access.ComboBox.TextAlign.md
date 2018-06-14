@@ -52,8 +52,5 @@ Forms("Suppliers").Controls("Address").TextAlign = 3
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

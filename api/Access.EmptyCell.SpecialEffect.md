@@ -56,8 +56,5 @@ Forms("Mailing List").Controls("OrganizationName1").SpecialEffect = 1
 ## See also
 
 
-#### Concepts
-
-
 [EmptyCell Object](Access.EmptyCell.md)
 

@@ -31,8 +31,5 @@ If the workbook contains more than one namespace, then the namespaces are sepera
 ## See also
 
 
-#### Concepts
-
-
 [XmlNamespaces Object](Excel.XmlNamespaces.md)
 

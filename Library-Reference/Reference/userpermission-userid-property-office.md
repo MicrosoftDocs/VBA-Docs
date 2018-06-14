@@ -57,9 +57,6 @@ The following example lists the users who have permissions on the active documen
 ## See also
 
 
-#### Concepts
-
-
 [UserPermission Object](userpermission-object-office.md)
 #### Other resources
 

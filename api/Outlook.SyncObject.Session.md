@@ -41,8 +41,5 @@ Set objSession = Application.Session
 ## See also
 
 
-#### Concepts
-
-
 [SyncObject Object](Outlook.SyncObject.md)
 

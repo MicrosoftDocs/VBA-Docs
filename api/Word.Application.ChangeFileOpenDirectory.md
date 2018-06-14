@@ -60,8 +60,5 @@ Dialogs(wdDialogFileOpen).Show
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -33,8 +33,5 @@ If a string specified by  **Address** is contained in the recipient or sender ad
 ## See also
 
 
-#### Concepts
-
-
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 

@@ -26,8 +26,5 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

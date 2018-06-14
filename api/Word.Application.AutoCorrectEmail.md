@@ -42,8 +42,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

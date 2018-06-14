@@ -31,8 +31,5 @@ The  **wdWindowStateNormal** constant indicates a window that's not maximized or
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

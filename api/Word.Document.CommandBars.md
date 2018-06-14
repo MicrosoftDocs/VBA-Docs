@@ -73,8 +73,5 @@ CommandBars("Standard").Controls.Add Type:=msoControlButton, _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

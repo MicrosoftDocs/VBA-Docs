@@ -41,8 +41,5 @@ Charts("Chart1").RightAngleAxes = True
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

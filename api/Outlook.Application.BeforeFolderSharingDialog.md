@@ -40,8 +40,5 @@ This event provides an add-in with the capability of replacing the sharing user 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

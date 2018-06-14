@@ -31,8 +31,5 @@ To set mapping for a content control, use the  **[SetMapping](Word.XMLMapping.Se
 ## See also
 
 
-#### Concepts
-
-
 [XMLMapping Object](Word.XMLMapping.md)
 

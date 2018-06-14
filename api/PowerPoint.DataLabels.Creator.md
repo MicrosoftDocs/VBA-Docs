@@ -23,8 +23,5 @@ Returns a 32-bit integer that indicates the application in which the specified o
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](PowerPoint.DataLabels.md)
 

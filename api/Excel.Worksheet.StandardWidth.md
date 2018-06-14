@@ -42,8 +42,5 @@ Worksheets("Sheet1").Columns(1).ColumnWidth = _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

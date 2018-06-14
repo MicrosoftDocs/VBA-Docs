@@ -31,8 +31,5 @@ This is the recommended way to return or set the language of Latin text in a doc
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

@@ -64,8 +64,5 @@ ActiveDocument.Content.ListFormat.ApplyListTemplate _
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

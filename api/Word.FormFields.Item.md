@@ -39,8 +39,5 @@ FormField
 ## See also
 
 
-#### Concepts
-
-
 [FormFields Collection Object](Word.formfields.md)
 

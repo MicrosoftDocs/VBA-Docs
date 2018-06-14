@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the depth of the bottom bevel. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

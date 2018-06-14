@@ -26,8 +26,5 @@ Returns the sheet name for the specified  **[DialogSheetView](Excel.DialogSheetV
 ## See also
 
 
-#### Concepts
-
-
 [DialogSheetView Object](Excel.DialogSheetView.md)
 

@@ -67,8 +67,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [EmptyCell Object](Access.EmptyCell.md)
 

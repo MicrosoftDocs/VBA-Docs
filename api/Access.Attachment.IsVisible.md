@@ -31,8 +31,5 @@ You can set the  **IsVisible** property only in the **Print** event of a report 
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

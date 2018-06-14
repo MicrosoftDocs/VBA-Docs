@@ -44,8 +44,5 @@ The  **[Name](Outlook.NavigationModule.Name.md)** property is the default proper
 ## See also
 
 
-#### Concepts
-
-
 [NavigationModules Object](Outlook.NavigationModules.md)
 

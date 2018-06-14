@@ -31,8 +31,5 @@ This property corresponds to the setting of the  **Show the Values** row check b
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -56,8 +56,5 @@ ActiveDocument.Paragraphs(1).FirstLineIndent = _
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

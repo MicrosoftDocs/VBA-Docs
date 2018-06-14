@@ -26,8 +26,5 @@ Returns a  **Long** value that specifies the number of icons in the icon set. Re
 ## See also
 
 
-#### Concepts
-
-
 [IconSet Object](Excel.IconSet.md)
 

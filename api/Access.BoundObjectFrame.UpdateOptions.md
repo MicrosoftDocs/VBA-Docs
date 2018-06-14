@@ -55,8 +55,5 @@ OLE1.Action = acOLEUpdate
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

@@ -39,8 +39,5 @@ To select a sheet or multiple sheets, use the  **Select** method. To make a sing
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

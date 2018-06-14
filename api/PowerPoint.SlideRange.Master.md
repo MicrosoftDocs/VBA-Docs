@@ -42,8 +42,5 @@ ActivePresentation.Slides(1).Master.Background.Fill _
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

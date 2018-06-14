@@ -31,8 +31,5 @@ A  **ContactItem** object that corresponds to the **AddressEntry** . Returns **N
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

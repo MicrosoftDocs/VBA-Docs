@@ -39,8 +39,5 @@ OMathBreak
 ## See also
 
 
-#### Concepts
-
-
 [OMathBreaks Collection](Word.OMathBreaks.md)
 

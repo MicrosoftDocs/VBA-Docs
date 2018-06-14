@@ -58,8 +58,5 @@ ActiveDocument.Shapes.AddOLEObject _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Collection Object](Word.shapes.md)
 

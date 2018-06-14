@@ -46,8 +46,5 @@ One example of when  **GetDefaultFolder** returns **Null** ( **Nothing** in Visu
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

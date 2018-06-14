@@ -55,8 +55,5 @@ MsgBox "The hyperlink goes to " &; SCut.SubAddress
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

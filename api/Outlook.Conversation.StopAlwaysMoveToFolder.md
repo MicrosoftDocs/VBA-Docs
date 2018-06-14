@@ -43,8 +43,5 @@ After you call the  **StopAlwaysMoveToFolder** method, calling the **[GetAlwaysM
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

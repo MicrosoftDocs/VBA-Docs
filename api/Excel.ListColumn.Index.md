@@ -26,8 +26,5 @@ Returns a  **Long** value that represents the index number of the **[ListColumn]
 ## See also
 
 
-#### Concepts
-
-
 [ListColumn Object](Excel.ListColumn.md)
 

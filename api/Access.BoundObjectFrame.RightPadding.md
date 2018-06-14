@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the object frame and its ri
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

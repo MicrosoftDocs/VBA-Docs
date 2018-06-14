@@ -29,8 +29,5 @@ Returns a  [ShadowFormat](Publisher.ShadowFormat.md) object that specifies the s
 ## See also
 
 
-#### Concepts
-
-
  [Font Object](Publisher.Font.md)
 

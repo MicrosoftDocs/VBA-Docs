@@ -26,8 +26,5 @@ Returns or sets the starting footnote number. Read/write  **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [FootnoteOptions Object](Word.FootnoteOptions.md)
 

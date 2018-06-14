@@ -39,8 +39,5 @@ For OLAP data sources, the PivotField being drilled to has to be in the same hie
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

@@ -31,8 +31,5 @@ Panning mode changes the mouse pointer to a hand and enables the user to press a
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

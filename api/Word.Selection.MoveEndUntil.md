@@ -70,8 +70,5 @@ If char = 0 Then StatusBar = "Selection not moved"
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

@@ -31,8 +31,5 @@ Returns a  **String** representing the unique identifier for the **[ExchangeDist
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

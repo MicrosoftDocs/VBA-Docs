@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Dict
 ## See also
 
 
-#### Concepts
-
-
 [Dictionaries Collection Object](Word.dictionaries.md)
 

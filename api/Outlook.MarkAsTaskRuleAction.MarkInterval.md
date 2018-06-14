@@ -26,8 +26,5 @@ Returns or sets a constant in the  **[OlMarkInterval](Outlook.OlMarkInterval.md)
 ## See also
 
 
-#### Concepts
-
-
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 

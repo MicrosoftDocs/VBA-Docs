@@ -94,8 +94,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](namespace-object-outlook.md)
 

@@ -26,8 +26,5 @@ Returns the parent object of the  **[SelectNamesDialog](Outlook.SelectNamesDialo
 ## See also
 
 
-#### Concepts
-
-
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

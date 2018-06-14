@@ -56,8 +56,5 @@ If IsObjectValid(aTable) = True Then _
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

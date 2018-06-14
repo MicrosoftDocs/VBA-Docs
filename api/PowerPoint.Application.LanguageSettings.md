@@ -26,8 +26,5 @@ Returns a  **LanguageSettings** object that contains information about the langu
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

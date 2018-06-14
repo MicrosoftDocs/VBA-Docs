@@ -49,8 +49,5 @@ Windows(1).Selection.ShapeRange.Fill _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

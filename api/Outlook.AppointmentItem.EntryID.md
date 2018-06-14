@@ -35,8 +35,5 @@ Furthermore, when you call the  **AppointmentItem.Respond** method with the **ol
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

@@ -26,8 +26,5 @@ Returns the type of layout for the specified text box. Read-only  **[AcLayoutTyp
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

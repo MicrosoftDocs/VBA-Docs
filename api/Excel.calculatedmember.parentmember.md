@@ -36,8 +36,5 @@ If the selected parent hierarchy does not have an "All" parent member, another d
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

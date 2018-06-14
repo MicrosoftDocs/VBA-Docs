@@ -29,8 +29,5 @@ Deletes the specified comment and all replies associated with it.
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

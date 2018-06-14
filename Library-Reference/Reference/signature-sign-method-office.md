@@ -57,9 +57,6 @@ objSignature.Sign(varSigline, varSuggestedSigner, varSignatureTitle, varSignerEm
 ## See also
 
 
-#### Concepts
-
-
 [Signature Object](signature-object-office.md)
 #### Other resources
 

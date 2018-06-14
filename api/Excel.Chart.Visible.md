@@ -26,8 +26,5 @@ Returns or sets an  **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value th
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

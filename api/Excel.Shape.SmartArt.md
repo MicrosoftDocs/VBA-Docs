@@ -31,8 +31,5 @@ Returns an object that represents the SmartArt associated with the shape. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

@@ -31,8 +31,5 @@ Returns or sets a  **String** representing the categories assigned to the Outloo
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

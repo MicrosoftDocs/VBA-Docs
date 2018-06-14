@@ -31,8 +31,5 @@ The  **Value** property of a custom property contains the value of the specified
 ## See also
 
 
-#### Concepts
-
-
 [AccessObjectProperty Object](Access.AccessObjectProperty.md)
 

@@ -41,8 +41,5 @@ ActiveDocument.Tables(1).Rows.Height = 20
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

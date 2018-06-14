@@ -74,8 +74,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 

@@ -31,8 +31,5 @@ Setting this property has the same effect as selecting or clearing the  **Enforc
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

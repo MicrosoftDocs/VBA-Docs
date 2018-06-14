@@ -31,8 +31,5 @@ When the Web Browser control does not contain a document, the value of this prop
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

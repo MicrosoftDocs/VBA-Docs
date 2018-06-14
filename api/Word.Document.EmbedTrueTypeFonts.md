@@ -51,8 +51,5 @@ temp = ActiveDocument.EmbedTrueTypeFonts
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

@@ -53,8 +53,5 @@ Selection.Range.ListFormat.RemoveNumbers wdNumberListNum
 ## See also
 
 
-#### Concepts
-
-
 [ListFormat Object](Word.ListFormat.md)
 

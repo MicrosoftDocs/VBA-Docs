@@ -50,8 +50,5 @@ temp = Application.DisplayScreenTips
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

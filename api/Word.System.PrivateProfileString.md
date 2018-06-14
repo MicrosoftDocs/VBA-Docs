@@ -75,8 +75,5 @@ MsgBox aName
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

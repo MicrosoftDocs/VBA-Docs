@@ -41,8 +41,5 @@ MsgBox "Resolution = " &; lngHorizontal &; " x " &; lngVertical
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

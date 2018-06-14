@@ -54,9 +54,6 @@ The following example uses the  **RemoveAll** method to remove all user permissi
 ## See also
 
 
-#### Concepts
-
-
 [Permission Object](permission-object-office.md)
 #### Other resources
 

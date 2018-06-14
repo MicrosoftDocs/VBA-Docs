@@ -31,7 +31,4 @@ Gets a single  **TableField** object from the **TableFields** collection. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [TableFields Collection Object](Project.tablefields.md)

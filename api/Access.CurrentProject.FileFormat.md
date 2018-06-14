@@ -58,8 +58,5 @@ MsgBox "This is a " &; strFormat &; " project."
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

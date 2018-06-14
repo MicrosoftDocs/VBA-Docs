@@ -63,8 +63,5 @@ Forms("Order Entry").Controls("Details").MultiRow = True
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

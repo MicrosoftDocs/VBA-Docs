@@ -44,8 +44,5 @@ SlideShowWindows(1).View.GotoNamedShow "Quick Show"
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

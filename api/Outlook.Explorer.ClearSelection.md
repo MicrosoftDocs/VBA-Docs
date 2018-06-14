@@ -37,8 +37,5 @@ If the current view or current folder does not contain any items, calling  **Cle
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

@@ -54,8 +54,5 @@ MsgBox "The selection object type is " &; TypeName(Selection)
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

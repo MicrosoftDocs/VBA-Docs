@@ -34,9 +34,6 @@ Gets a  **DocumentProperty** object from the **DocumentProperties** collection. 
 ## See also
 
 
-#### Concepts
-
-
 [DocumentProperties Object](documentproperties-object-office.md)
 #### Other resources
 

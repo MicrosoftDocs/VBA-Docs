@@ -48,9 +48,6 @@ Use the  **[BeforeXmlImport](Excel.Workbook.BeforeXmlImport.md)** event if you w
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 [Application Object](application-object-excel.md)
 

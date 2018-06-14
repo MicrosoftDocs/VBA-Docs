@@ -55,8 +55,5 @@ Use this property to produce visual effects when drawing on a report. Microsoft 
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

@@ -51,8 +51,5 @@ myPage.Controls("bar").ItemProperty = "subject"
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

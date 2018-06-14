@@ -70,9 +70,6 @@ viewMenu.Controls.Add ID:=3    'ID of Save command is 3
 ## See also
 
 
-#### Concepts
-
-
 [Object Model Reference](reference-object-library-reference-for-office.md)
 #### Other resources
 

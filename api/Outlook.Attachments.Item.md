@@ -39,8 +39,5 @@ An  **Attachment** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Attachments Object](Outlook.Attachments.md)
 

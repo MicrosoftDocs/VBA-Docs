@@ -36,8 +36,5 @@ ActiveDocument.PageSetup.GutterStyle = wdGutterStyleBidi
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

@@ -26,8 +26,5 @@ Returns or sets the shape style for the shapes in the specified shape range. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

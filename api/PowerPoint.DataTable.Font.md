@@ -26,8 +26,5 @@ Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.Ch
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](PowerPoint.DataTable.md)
 

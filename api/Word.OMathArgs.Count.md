@@ -26,8 +26,5 @@ Returns the number of items in the  **OMathArgs** collection. Read-only **Long**
 ## See also
 
 
-#### Concepts
-
-
 [OMathArgs Collection](Word.OMathArgs.md)
 

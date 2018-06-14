@@ -39,7 +39,4 @@ If you enter the following statement in the Immediate pane of the VBE, the state
 ## See also
 
 
-#### Concepts
-
-
 [Profile Object](Project.Profile.md)

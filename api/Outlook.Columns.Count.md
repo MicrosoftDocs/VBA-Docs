@@ -26,8 +26,5 @@ Returns a  **Long** representing the number of **[Column](Outlook.Column.md)** o
 ## See also
 
 
-#### Concepts
-
-
 [Columns Object](Outlook.Columns.md)
 

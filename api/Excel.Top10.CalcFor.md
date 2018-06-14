@@ -33,8 +33,5 @@ This property can be set to  **xlAllValues** , **xlColGroups** , or **xlRowGroup
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

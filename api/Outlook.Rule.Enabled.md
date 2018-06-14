@@ -33,8 +33,5 @@ Using  **Rule.Enabled** and **Rules.Save** applies the rule consistently and per
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

@@ -58,8 +58,5 @@ Selection.Font.Spacing = MillimetersToPoints(1)
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

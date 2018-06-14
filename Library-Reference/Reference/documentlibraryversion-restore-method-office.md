@@ -61,9 +61,6 @@ The following example restores the previous version of the active document.
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)
 #### Other resources
 

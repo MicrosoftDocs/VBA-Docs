@@ -48,8 +48,5 @@ The value  **msoPathTypeMixed** cannot be set. Setting the value **msoPathTypeNo
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

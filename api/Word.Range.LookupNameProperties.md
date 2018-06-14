@@ -41,8 +41,5 @@ Selection.Range.LookupNameProperties
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

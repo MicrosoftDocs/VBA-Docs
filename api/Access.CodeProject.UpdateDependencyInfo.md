@@ -43,8 +43,5 @@ This method will return a run-time error if any of the following conditions are 
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

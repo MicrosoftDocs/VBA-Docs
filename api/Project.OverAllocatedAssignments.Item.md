@@ -89,8 +89,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OverAllocatedAssignments Collection Object](Project.overallocatedassignments.md)
 

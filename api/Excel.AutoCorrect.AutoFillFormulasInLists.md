@@ -31,8 +31,5 @@ Affects the creation of calculated columns created by automatic fill-down lists.
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Excel.AutoCorrect(objec).md)
 

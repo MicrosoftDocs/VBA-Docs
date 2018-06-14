@@ -26,8 +26,5 @@ Returns a  **[BuildingBlocks](Word.BuildingBlocks.md)** collection that represen
 ## See also
 
 
-#### Concepts
-
-
 [Category Object](Word.Category.md)
 

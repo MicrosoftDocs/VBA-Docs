@@ -26,8 +26,5 @@ Returns a  **String** representing the Japanese phonetic rendering (yomigana) of
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

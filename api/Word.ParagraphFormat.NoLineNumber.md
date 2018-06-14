@@ -31,8 +31,5 @@ Use the  **[LineNumbering](Word.PageSetup.LineNumbering.md)** property of the **
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

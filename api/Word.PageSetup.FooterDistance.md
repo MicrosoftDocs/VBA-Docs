@@ -45,8 +45,5 @@ Selection.Range.PageSetup.FooterDistance = 72
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

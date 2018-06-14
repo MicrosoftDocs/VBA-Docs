@@ -31,8 +31,5 @@ Setting the  **CursorOnHover** property to **acCursorOnHoverHyperlinkHand** can 
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

@@ -26,8 +26,5 @@ Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFon
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](Word.LegendEntry.md)
 

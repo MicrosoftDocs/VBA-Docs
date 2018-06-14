@@ -31,8 +31,5 @@ The  **IAssistance** object exposes methods that allow developers to display Hel
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

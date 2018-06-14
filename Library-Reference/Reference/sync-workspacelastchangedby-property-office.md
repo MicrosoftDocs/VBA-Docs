@@ -54,9 +54,6 @@ The following example checks for a conflict between the local and the server cop
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

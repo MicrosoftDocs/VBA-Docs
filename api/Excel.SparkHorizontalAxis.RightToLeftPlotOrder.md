@@ -36,8 +36,5 @@ Set the  **RightToLeftPlotOrder** property to **True** to plot the values on the
 ## See also
 
 
-#### Concepts
-
-
 [SparkHorizontalAxis Object](Excel.SparkHorizontalAxis.md)
 

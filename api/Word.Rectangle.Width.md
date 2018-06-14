@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the width, in points, of a rectangle
 ## See also
 
 
-#### Concepts
-
-
 [Rectangle Object](Word.Rectangle.md)
 

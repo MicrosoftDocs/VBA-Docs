@@ -31,8 +31,5 @@ This method can be used on column, bar, line, or radar charts.
 ## See also
 
 
-#### Concepts
-
-
 [Floor Object](Excel.Floor(objec).md)
 

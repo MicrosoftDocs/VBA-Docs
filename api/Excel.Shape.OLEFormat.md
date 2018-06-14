@@ -36,8 +36,5 @@ Worksheets(1).Shapes(1).OLEFormat.Activate
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

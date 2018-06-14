@@ -31,8 +31,5 @@ This method fails if you run it on a control that is not of type  **wdContentCon
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

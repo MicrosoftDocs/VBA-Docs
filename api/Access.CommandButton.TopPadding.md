@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the button and its top grid
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

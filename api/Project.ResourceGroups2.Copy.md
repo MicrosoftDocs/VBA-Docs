@@ -37,8 +37,5 @@ Makes a copy of a group definition for the  **ResourceGroups2** collection and r
 ## See also
 
 
-#### Concepts
-
-
 [ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 

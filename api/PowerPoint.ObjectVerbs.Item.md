@@ -39,8 +39,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [ObjectVerbs Object](PowerPoint.ObjectVerbs.md)
 

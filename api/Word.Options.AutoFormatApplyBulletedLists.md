@@ -48,8 +48,5 @@ blnAutoFormat = Options.AutoFormatApplyBulletedLists
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

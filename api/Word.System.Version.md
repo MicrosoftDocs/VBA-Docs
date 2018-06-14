@@ -36,8 +36,5 @@ Msgbox "The system version is " &; System.Version
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

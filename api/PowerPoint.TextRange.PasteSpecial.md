@@ -68,8 +68,5 @@ An error occurs if there is no data on the Clipboard when the  **PasteSpecial** 
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

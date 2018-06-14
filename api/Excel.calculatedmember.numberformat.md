@@ -29,8 +29,5 @@ Returns a  **[XlCalcMemNumberFormatType](Excel.xlcalcmemnumberformattype.md)** v
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

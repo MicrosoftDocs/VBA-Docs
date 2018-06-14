@@ -26,8 +26,5 @@ Indicates whether to print in high quality. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 

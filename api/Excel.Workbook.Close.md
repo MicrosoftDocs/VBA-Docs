@@ -51,8 +51,5 @@ Workbooks("BOOK1.XLS").Close SaveChanges:=False
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

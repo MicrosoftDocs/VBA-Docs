@@ -45,8 +45,5 @@ The name you specify when you add a named slide show is the name you use as an a
 ## See also
 
 
-#### Concepts
-
-
 [NamedSlideShows Object](PowerPoint.NamedSlideShows.md)
 

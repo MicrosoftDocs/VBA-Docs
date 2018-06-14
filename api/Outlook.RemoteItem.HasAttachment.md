@@ -26,8 +26,5 @@ Returns a  **Boolean** that is **True** (default) if the remote item has an atta
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

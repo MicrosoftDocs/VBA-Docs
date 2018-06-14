@@ -26,8 +26,5 @@ You can use the  **IsHyperlink** property to specify or determine if the data co
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

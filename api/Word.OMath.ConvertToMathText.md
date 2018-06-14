@@ -26,8 +26,5 @@ Converts an equation to math text.
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

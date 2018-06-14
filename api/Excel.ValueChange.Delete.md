@@ -31,8 +31,5 @@ You can also delete a  **ValueChange** object by using the Delete method of the 
 ## See also
 
 
-#### Concepts
-
-
 [ValueChange Object](Excel.ValueChange.md)
 

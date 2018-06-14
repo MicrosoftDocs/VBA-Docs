@@ -28,9 +28,6 @@ This property takes a  **MsoPictureEffectType** enumeration.
 ## See also
 
 
-#### Concepts
-
-
 [PictureEffect Object](pictureeffect-object-office.md)
 #### Other resources
 

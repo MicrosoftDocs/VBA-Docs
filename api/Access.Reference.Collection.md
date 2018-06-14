@@ -33,8 +33,5 @@ The  **Collection** property is similar to the **Parent** property.
 ## See also
 
 
-#### Concepts
-
-
 [Reference Object](Access.Reference.md)
 

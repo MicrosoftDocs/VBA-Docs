@@ -31,8 +31,5 @@ Returns an error if account does not represent an initialized account.
 ## See also
 
 
-#### Concepts
-
-
 [AccountRuleCondition Object](Outlook.AccountRuleCondition.md)
 

@@ -63,9 +63,6 @@ The following example adds a new link to the links collection of the shared work
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceLinks Object](sharedworkspacelinks-object-office.md)
 #### Other resources
 

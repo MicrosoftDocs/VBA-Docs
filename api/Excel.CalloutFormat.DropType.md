@@ -60,8 +60,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Excel.CalloutFormat.md)
 

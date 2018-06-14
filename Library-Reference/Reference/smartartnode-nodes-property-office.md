@@ -33,9 +33,6 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Nodes.Count
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

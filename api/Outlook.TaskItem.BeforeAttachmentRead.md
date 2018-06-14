@@ -32,8 +32,5 @@ Occurs before an attachment associated with an instance of the parent object is 
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

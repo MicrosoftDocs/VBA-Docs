@@ -26,8 +26,5 @@ Returns an  **[OlGroupType](Outlook.OlGroupType.md)** constant that indicates th
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroup Object](Outlook.NavigationGroup.md)
 

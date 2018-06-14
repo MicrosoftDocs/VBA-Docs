@@ -34,8 +34,5 @@ Returns a  **SortField** object that represents a collection of items that can b
 ## See also
 
 
-#### Concepts
-
-
 [SortFields Object](Excel.SortFields.md)
 

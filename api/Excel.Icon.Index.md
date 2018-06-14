@@ -26,8 +26,5 @@ Returns a  **Long** value specifying the index number of the **Icon** object wit
 ## See also
 
 
-#### Concepts
-
-
 [Icon Object](Excel.Icon.md)
 

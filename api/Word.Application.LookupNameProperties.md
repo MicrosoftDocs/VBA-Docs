@@ -49,8 +49,5 @@ Application.LookupNameProperties Name:="Don Funk"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

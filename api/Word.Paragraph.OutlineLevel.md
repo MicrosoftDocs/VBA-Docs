@@ -61,8 +61,5 @@ ActiveDocument.ActiveWindow.View.Type = wdOutlineView
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

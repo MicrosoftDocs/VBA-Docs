@@ -36,8 +36,5 @@ If Selection.Footnotes.Count > 0 Then Selection.Footnotes.Convert
 ## See also
 
 
-#### Concepts
-
-
 [Footnotes Collection Object](Word.footnotes.md)
 

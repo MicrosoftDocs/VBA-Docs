@@ -36,8 +36,5 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 ## See also
 
 
-#### Concepts
-
-
 [SparkPoints Object](Excel.SparkPoints.md)
 

@@ -26,8 +26,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the subscript for 
 ## See also
 
 
-#### Concepts
-
-
 [OMathScrSubSup Object](Word.OMathScrSubSup.md)
 

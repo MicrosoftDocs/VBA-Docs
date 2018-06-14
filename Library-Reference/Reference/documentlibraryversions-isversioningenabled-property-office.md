@@ -52,9 +52,6 @@ The following example displays the number of saved versions of the active docume
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersions Object](documentlibraryversions-object-office.md)
 #### Other resources
 

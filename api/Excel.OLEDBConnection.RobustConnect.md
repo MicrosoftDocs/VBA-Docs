@@ -38,8 +38,5 @@ This provides robust connectivity in scenarios where an Information Technology D
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

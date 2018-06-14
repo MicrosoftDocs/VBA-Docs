@@ -46,8 +46,5 @@ Windows(1).View.Zoom = 30
 ## See also
 
 
-#### Concepts
-
-
 [View Object](PowerPoint.View.md)
 

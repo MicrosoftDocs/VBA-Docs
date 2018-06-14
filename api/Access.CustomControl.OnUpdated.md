@@ -42,8 +42,5 @@ If the  **On Updated** box is blank, the property value is an empty string.
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

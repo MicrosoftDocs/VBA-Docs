@@ -42,8 +42,5 @@ ActiveDocument.Content.ShapeRange.Fill.ForeColor.RGB = _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

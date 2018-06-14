@@ -26,8 +26,5 @@ Returns the number of objects in the specified collection. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 

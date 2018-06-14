@@ -26,8 +26,5 @@ Returns or sets the distance, in points, from the left edge of the object to the
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](Word.ChartTitle.md)
 

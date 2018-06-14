@@ -31,9 +31,6 @@ If the container application doesn't define a value for one of the built-in docu
 ## See also
 
 
-#### Concepts
-
-
 [DocumentProperty Object](documentproperty-object-office.md)
 #### Other resources
 

@@ -51,9 +51,6 @@ The following example determines whether an XML expansion pack is attached to th
 ## See also
 
 
-#### Concepts
-
-
 [SmartDocument Object](smartdocument-object-office.md)
 #### Other resources
 

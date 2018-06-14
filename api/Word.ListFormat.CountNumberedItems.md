@@ -63,8 +63,5 @@ Msgbox numfields
 ## See also
 
 
-#### Concepts
-
-
 [ListFormat Object](Word.ListFormat.md)
 

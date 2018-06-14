@@ -38,9 +38,6 @@ The value of this property can be one of these  **MsoTriState** constants.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 #### Other resources
 

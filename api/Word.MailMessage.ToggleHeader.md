@@ -36,8 +36,5 @@ Application.MailMessage.ToggleHeader
 ## See also
 
 
-#### Concepts
-
-
 [MailMessage Object](Word.MailMessage.md)
 

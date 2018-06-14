@@ -59,9 +59,6 @@ The following example updates the server copy of the document from the local cop
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

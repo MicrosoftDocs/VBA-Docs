@@ -69,8 +69,5 @@ shapeToCrop.PictureFormat.CropLeft = cropPoints
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 

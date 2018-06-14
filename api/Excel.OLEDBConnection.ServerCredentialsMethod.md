@@ -26,8 +26,5 @@ Returns or sets the type of credentials that should be used for server authentic
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

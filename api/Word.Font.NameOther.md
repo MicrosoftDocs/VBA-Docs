@@ -41,8 +41,5 @@ Selection.Font.NameOther = "Century"
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

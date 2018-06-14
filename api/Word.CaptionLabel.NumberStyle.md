@@ -44,8 +44,5 @@ Selection.InsertCaption Label:=wdCaptionFigure
 ## See also
 
 
-#### Concepts
-
-
 [CaptionLabel Object](Word.CaptionLabel.md)
 

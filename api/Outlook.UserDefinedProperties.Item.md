@@ -39,8 +39,5 @@ A  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object that represe
 ## See also
 
 
-#### Concepts
-
-
 [UserDefinedProperties Object](Outlook.UserDefinedProperties.md)
 

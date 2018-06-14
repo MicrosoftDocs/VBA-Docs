@@ -34,8 +34,5 @@ Chart color schemes are numbered from 1 to 17; the setting of this property corr
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

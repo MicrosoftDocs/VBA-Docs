@@ -44,8 +44,5 @@ ActiveDocument.InlineShapes(1).Title = "Desktop screenshot."
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

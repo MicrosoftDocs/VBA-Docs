@@ -44,8 +44,5 @@ If number is not a valid binary number, or if number contains more than 10 chara
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -34,9 +34,6 @@ This method corresponds to the  **Expand All Headings** command on the **Expand/
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 #### Other resources
 

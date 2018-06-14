@@ -31,9 +31,6 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLValidationError Object](customxmlvalidationerror-object-office.md)
 #### Other resources
 

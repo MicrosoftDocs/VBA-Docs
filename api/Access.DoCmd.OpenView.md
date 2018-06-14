@@ -53,8 +53,5 @@ DoCmd.OpenView "Employees"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -39,8 +39,5 @@ Column
 ## See also
 
 
-#### Concepts
-
-
 [Columns Object](PowerPoint.Columns.md)
 

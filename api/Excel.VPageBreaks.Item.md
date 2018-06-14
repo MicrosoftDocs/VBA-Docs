@@ -44,8 +44,5 @@ Worksheets(1).VPageBreaks.Item(1).Location = .Range("e5")
 ## See also
 
 
-#### Concepts
-
-
 [VPageBreaks Object](Excel.VPageBreaks.md)
 

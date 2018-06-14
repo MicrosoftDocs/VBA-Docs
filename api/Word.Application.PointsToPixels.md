@@ -53,8 +53,5 @@ MsgBox "180x120 points is equivalent to " _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

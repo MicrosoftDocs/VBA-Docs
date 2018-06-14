@@ -123,8 +123,5 @@ SELECT Links.URL, HyperlinkPart([URL],0)
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

@@ -36,8 +36,5 @@ The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for al
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -53,8 +53,5 @@ Do not confuse the add-in title with the add-in name, which is the file name of 
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

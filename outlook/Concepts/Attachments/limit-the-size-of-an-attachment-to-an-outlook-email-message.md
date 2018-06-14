@@ -141,9 +141,6 @@ End Class
 ## See also
 
 
-#### Concepts
-
-
  [Attach a File to a Mail Item](attach-a-file-to-a-mail-item.md)<br>
  [Attach an Outlook Contact Item to an Email Message](attach-an-outlook-contact-item-to-an-email-message.md)<br>
  [Modify an Attachment of an Outlook Email Message](modify-an-attachment-of-an-outlook-email-message.md)

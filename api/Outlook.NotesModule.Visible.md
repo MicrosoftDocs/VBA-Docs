@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the **[NotesModule]
 ## See also
 
 
-#### Concepts
-
-
 [NotesModule Object](Outlook.NotesModule.md)
 

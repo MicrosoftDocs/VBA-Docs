@@ -56,8 +56,5 @@ Options.DefaultOpenFormat = _
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

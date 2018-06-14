@@ -37,8 +37,5 @@ You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of th
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

@@ -26,8 +26,5 @@ Returns the type of layout for the specified combo box. Read-only  **[AcLayoutTy
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

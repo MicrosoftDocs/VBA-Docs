@@ -34,8 +34,5 @@ This method removes all paragraph formatting. If you need to remove paragraph fo
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

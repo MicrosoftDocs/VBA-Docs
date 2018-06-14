@@ -62,9 +62,6 @@ The following example displays permission policy information about the active do
 ## See also
 
 
-#### Concepts
-
-
 [Permission Object](permission-object-office.md)
 #### Other resources
 

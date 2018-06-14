@@ -39,8 +39,5 @@ MediaBookmark
 ## See also
 
 
-#### Concepts
-
-
 [MediaBookmarks Object](PowerPoint.MediaBookmarks.md)
 

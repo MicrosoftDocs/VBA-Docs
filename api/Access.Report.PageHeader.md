@@ -56,8 +56,5 @@ Reports!Report1.PageHeader = 1
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

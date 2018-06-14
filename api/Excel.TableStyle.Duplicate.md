@@ -44,8 +44,5 @@ If no name is specified, the  **Duplicate** method uses the same default name as
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Excel.TableStyle.md)
 

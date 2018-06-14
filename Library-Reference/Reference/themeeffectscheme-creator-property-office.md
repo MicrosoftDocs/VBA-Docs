@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [ThemeEffectScheme Object](themeeffectscheme-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns a  **DocumentInspectors** collection that enables you to locate hidden p
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

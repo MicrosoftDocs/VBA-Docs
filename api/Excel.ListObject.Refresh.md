@@ -31,8 +31,5 @@ Calling the  **Refresh** method does not commit changes to the list in the Excel
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

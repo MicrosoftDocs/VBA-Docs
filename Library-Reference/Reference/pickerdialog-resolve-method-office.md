@@ -66,9 +66,6 @@ Set objPickerResults = objPickerDialog.Resolve("johndoe", False)
 ## See also
 
 
-#### Concepts
-
-
 [PickerDialog Object](pickerdialog-object-office.md)
 #### Other resources
 

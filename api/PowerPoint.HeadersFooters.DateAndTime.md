@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 

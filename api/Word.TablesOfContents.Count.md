@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of tables of contents in the coll
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfContents Collection Object](Word.tablesofcontents.md)
 

@@ -38,8 +38,5 @@ Set objEditor = Selection.Editors.Add(wdEditorCurrent)
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

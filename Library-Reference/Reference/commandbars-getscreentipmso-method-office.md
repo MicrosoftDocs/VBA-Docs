@@ -55,9 +55,6 @@ Application.CommandBars.GetScreentipMso("Paste")
 ## See also
 
 
-#### Concepts
-
-
 [CommandBars Object](commandbars-object-office.md)
 #### Other resources
 

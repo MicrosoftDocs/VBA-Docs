@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the character position of the alignm
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

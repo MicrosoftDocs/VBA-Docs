@@ -47,8 +47,5 @@ Worksheets(1).PageSetup.PrintComments = xlPrintSheetEnd
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

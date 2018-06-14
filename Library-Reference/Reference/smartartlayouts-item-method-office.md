@@ -36,9 +36,6 @@ SmartArtLayout
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtLayouts Object](smartartlayouts-object-office.md)
 #### Other resources
 

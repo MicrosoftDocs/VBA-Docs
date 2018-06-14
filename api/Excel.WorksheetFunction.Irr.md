@@ -61,8 +61,5 @@ IRR is closely related to NPV, the net present value function. The rate of retur
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

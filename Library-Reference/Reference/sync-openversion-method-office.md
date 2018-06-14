@@ -65,9 +65,6 @@ The following example prompts the user to open the server copy of the shared doc
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

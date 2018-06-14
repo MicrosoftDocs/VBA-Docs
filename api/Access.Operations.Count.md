@@ -26,8 +26,5 @@ You can use the  **Count** property to determine the number of items in a specif
 ## See also
 
 
-#### Concepts
-
-
 [Operations Collection](Access.Operations.md)
 

@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [ScopeFolder Object](scopefolder-object-office.md)
 #### Other resources
 

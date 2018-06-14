@@ -26,8 +26,5 @@ Returns a  **Long** that indicates the LCID for the current language. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

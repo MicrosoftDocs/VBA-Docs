@@ -36,8 +36,5 @@ ActiveDocument.PageSetup.LinesPage = 35
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

@@ -50,8 +50,5 @@ The following table lists the different value filter types that will be deleted 
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

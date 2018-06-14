@@ -47,8 +47,5 @@ Application.MailingLabel.CreateNewDocument Name:="My Label"
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabel Object](Word.CustomLabel.md)
 

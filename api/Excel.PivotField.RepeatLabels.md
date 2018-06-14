@@ -40,8 +40,5 @@ To specify whether to repeat item labels for all PivotFields in a PivotTable in 
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

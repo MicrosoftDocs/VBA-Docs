@@ -26,8 +26,5 @@ Gets or sets an  **[AcDisplayAsHyperlink](Access.AcDisplayAsHyperlink.md)** cons
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

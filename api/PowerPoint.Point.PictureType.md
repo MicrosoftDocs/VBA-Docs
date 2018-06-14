@@ -23,8 +23,5 @@ Returns or sets a value that specifies how pictures are displayed on a column or
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](PowerPoint.Point.md)
 

@@ -68,9 +68,6 @@ The following example gets the hash value of a data stream.
 ## See also
 
 
-#### Concepts
-
-
 [SignatureProvider Object](signatureprovider-object-office.md)
 #### Other resources
 

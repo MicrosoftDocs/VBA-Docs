@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to hide the upper limit o
 ## See also
 
 
-#### Concepts
-
-
 [OMathNary Object](Word.OMathNary.md)
 

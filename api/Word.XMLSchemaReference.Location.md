@@ -26,8 +26,5 @@ Returns a  **String** that represents the physical location of an XML schema. Re
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReference Object](Word.XMLSchemaReference.md)
 

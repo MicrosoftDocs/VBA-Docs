@@ -23,9 +23,6 @@ Returns or sets the degree of transparency of the specified glow as a value betw
 ## See also
 
 
-#### Concepts
-
-
 [GlowFormat Object](glowformat-object-office.md)
 #### Other resources
 

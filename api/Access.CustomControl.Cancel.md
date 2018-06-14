@@ -48,8 +48,5 @@ For a form that supports irreversible operations, such as deletions, it's a good
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

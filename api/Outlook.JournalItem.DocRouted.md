@@ -31,8 +31,5 @@ If this property returns  **True** , then the journalized item was routed as par
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

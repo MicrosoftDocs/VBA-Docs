@@ -73,9 +73,6 @@ Number of global reports: 21
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 #### Other resources
 

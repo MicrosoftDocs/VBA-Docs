@@ -33,8 +33,5 @@ This property corresponds to the MAPI property,  **PidTagComment** .
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

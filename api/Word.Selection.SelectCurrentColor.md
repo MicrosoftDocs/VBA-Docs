@@ -39,8 +39,5 @@ MsgBox "Contiguous characters with the same color: " &; n
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

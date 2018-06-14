@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [HiLoLines Object](Word.HiLoLines.md)
 

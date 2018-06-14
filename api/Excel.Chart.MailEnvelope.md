@@ -26,8 +26,5 @@ Rrepresents an e-mail header for a document.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

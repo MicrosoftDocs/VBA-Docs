@@ -31,8 +31,5 @@ If you manually right align a paragraph and the underlying style has a different
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

@@ -45,8 +45,5 @@ Returns or sets the bottom bevel type for a  **ThreeDFormat** object. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

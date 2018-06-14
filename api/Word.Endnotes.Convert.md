@@ -37,8 +37,5 @@ If endDocEndnotes.Count > 0 Then myEndnotes.Convert
 ## See also
 
 
-#### Concepts
-
-
 [Endnotes Collection Object](Word.endnotes.md)
 

@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Sequences Object](PowerPoint.Sequences.md)
 

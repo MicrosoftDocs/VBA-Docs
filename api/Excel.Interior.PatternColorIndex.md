@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Interior Object](Excel.Interior(objec).md)
 

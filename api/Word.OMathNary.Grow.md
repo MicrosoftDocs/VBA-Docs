@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether n-ary operators grow to t
 ## See also
 
 
-#### Concepts
-
-
 [OMathNary Object](Word.OMathNary.md)
 

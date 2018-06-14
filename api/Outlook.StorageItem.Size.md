@@ -31,8 +31,5 @@ The  **Size** of a **StorageItem** that is newly created is zero (0) until you m
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](Outlook.StorageItem.md)
 

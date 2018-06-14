@@ -26,8 +26,5 @@ Occurs when the user clicks the drop button to expand the calendar in the date c
 ## See also
 
 
-#### Concepts
-
-
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 

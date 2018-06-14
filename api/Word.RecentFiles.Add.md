@@ -52,8 +52,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [RecentFiles Collection Object](Word.recentfiles.md)
 

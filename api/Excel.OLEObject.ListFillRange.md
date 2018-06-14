@@ -33,8 +33,5 @@ If the list in the list box was created with the  **[AddItem](Excel.ControlForma
 ## See also
 
 
-#### Concepts
-
-
 [OLEObject Object](Excel.OLEObject.md)
 

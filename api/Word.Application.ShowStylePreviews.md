@@ -31,8 +31,5 @@ This property corresponds to the  **Show Preview** check box in the **Styles** d
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 

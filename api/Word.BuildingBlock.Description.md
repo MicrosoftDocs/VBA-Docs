@@ -26,8 +26,5 @@ Returns or sets a  **String** that represents the description for a building blo
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlock Object](Word.BuildingBlock.md)
 

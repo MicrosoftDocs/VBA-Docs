@@ -58,9 +58,6 @@ The following example lists files in the shared workspace site that were created
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFile Object](sharedworkspacefile-object-office.md)
 #### Other resources
 

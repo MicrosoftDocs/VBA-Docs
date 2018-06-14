@@ -46,8 +46,5 @@ Selection.Paragraphs(1).OutlineDemoteToBody
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

@@ -56,9 +56,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](PowerPoint.TickLabels.md)
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 

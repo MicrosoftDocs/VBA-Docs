@@ -44,8 +44,5 @@ Set objBreaks = ActiveDocument.ActiveWindow _
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Word.Page.md)
 

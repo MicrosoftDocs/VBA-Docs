@@ -63,8 +63,5 @@ Range("B4", Range("B4").End(xlToRight)).Select
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

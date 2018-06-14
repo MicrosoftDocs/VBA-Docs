@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of tables of figures in the colle
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the formula that the name is
 ## See also
 
 
-#### Concepts
-
-
 [Name Object](Excel.Name.md)
 

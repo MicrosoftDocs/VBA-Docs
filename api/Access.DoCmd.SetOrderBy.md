@@ -56,8 +56,5 @@ DoCmd.SetOrderBy "LastName DESC, FirstName ASC"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

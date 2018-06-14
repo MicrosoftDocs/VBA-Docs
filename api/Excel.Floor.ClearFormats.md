@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [Floor Object](Excel.Floor(objec).md)
 

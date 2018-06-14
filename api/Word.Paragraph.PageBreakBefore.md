@@ -41,8 +41,5 @@ Selection.Paragraphs(1).PageBreakBefore = True
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

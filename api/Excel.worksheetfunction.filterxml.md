@@ -45,8 +45,5 @@ The  **FILTERXML** function returns results that are parsed via the user specifi
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -24,8 +24,5 @@ Specifies whether a bin for values above the [BinsOverflowValue](Excel.chartgrou
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

@@ -26,8 +26,5 @@ Returns or sets whether page numbers in a table of contents or a table of figure
 ## See also
 
 
-#### Concepts
-
-
 [TableOfFigures Object](Word.TableOfFigures.md)
 

@@ -56,8 +56,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ListEntries Collection Object](Word.listentries.md)
 

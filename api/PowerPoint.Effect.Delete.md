@@ -26,9 +26,6 @@ Deletes the specified  **Effect** object.
 ## See also
 
 
-#### Concepts
-
-
 
 [Effect Object](PowerPoint.Effect.md)
 

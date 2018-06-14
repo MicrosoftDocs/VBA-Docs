@@ -44,9 +44,6 @@ Each filter in a list is made up of two parts: the file name extension (that is,
 ## See also
 
 
-#### Concepts
-
-
 [FileDialogFilters Object](filedialogfilters-object-office.md)
 #### Other resources
 

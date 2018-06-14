@@ -48,8 +48,5 @@ To change the type of an AutoShape that you've added, set the  **AutoShapeType**
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Collection Object](Word.shapes.md)
 

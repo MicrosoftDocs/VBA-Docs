@@ -31,8 +31,5 @@ For an explanation of the specific error, see you SQL documentation.
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBError Object](Excel.OLEDBError.md)
 

@@ -64,9 +64,6 @@ The following example displays information about the permissions settings of the
 ## See also
 
 
-#### Concepts
-
-
 [Permission Object](permission-object-office.md)
 #### Other resources
 

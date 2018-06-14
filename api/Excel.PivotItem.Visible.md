@@ -31,8 +31,5 @@ The  **Visible** property for a PivotTable item is **True** if the item is curre
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

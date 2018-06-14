@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the text box and its top gr
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

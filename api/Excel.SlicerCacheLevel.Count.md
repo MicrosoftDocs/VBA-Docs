@@ -31,8 +31,5 @@ Returns the number of  **[SlicerItem](Excel.SlicerItem.md)** objects in the spec
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 

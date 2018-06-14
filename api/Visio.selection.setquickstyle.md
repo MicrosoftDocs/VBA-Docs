@@ -47,8 +47,5 @@ Calling the  **SetQuickStyle** method corresponds to setting a quick style in th
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Visio.Selection.md)
 

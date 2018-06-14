@@ -54,9 +54,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [SlicerItem Object](Excel.SlicerItem.md)
 [PivotItem Object](Excel.PivotItem.md)
 

@@ -42,8 +42,5 @@ dChart.Select
 ## See also
 
 
-#### Concepts
-
-
 [ChartObjects Object](Excel.ChartObjects.md)
 

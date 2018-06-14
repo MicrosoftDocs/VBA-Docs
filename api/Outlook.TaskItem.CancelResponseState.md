@@ -31,8 +31,5 @@ Resets an unsent response to a task request back to a simple task.
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

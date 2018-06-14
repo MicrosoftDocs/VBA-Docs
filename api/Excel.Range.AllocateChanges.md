@@ -31,8 +31,5 @@ The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for al
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

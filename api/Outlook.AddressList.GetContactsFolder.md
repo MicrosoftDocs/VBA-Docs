@@ -120,8 +120,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AddressList Object](Outlook.AddressList.md)
 

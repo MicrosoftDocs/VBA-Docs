@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of variables in the collection.
 ## See also
 
 
-#### Concepts
-
-
 [Variables Collection Object](Word.variables.md)
 

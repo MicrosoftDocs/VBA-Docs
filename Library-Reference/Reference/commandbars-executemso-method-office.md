@@ -49,9 +49,6 @@ Application.CommandBars.ExecuteMso("Copy")
 ## See also
 
 
-#### Concepts
-
-
 [CommandBars Object](commandbars-object-office.md)
 #### Other resources
 

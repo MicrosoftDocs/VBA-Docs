@@ -43,8 +43,5 @@ For information about using events with a  **Document** object, see[Using Events
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

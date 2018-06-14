@@ -26,8 +26,5 @@ Returns or sets the width, in points, of the specified inline shape. Read/write 
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

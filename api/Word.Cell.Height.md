@@ -31,8 +31,5 @@ If the  **HeightRule** property of the specified row is **wdRowHeightAuto** , **
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

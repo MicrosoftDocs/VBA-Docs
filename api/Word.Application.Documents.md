@@ -83,8 +83,5 @@ Documents.Open FileName:="C:\Files\Doc.doc", ReadOnly:=True
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

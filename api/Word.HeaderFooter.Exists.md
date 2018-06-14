@@ -47,8 +47,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [HeaderFooter Object](Word.HeaderFooter.md)
 

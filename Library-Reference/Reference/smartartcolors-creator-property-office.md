@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtCol
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtColors Object](smartartcolors-object-office.md)
 #### Other resources
 

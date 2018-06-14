@@ -51,9 +51,6 @@ The following example displays the base URL of the shared workspace.
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspace Object](sharedworkspace-object-office.md)
 #### Other resources
 

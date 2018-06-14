@@ -26,8 +26,5 @@ Returns the Total row for a  **ListColumn** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ListColumn Object](Excel.ListColumn.md)
 

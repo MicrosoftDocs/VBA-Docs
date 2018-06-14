@@ -26,8 +26,5 @@ Returns a  **String** that represents the complete path to the workbook/file tha
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

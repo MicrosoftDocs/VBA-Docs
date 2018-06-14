@@ -26,8 +26,5 @@ Returns a  **Variant** that represents the style used to format one or more char
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

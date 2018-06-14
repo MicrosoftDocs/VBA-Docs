@@ -132,8 +132,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CalendarModule Object](Outlook.CalendarModule.md)
 

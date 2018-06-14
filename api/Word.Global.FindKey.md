@@ -62,8 +62,5 @@ MsgBox FindKey(KeyCode:=wdKeyF1).Command
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

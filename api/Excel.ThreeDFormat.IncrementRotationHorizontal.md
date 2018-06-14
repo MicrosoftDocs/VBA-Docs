@@ -31,8 +31,5 @@ Changes the rotation of the specified shape horizontally by the specified number
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

@@ -44,8 +44,5 @@ If AddIns.Count >= 1 Then MsgBox AddIns(1).Path
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](Word.AddIn.md)
 

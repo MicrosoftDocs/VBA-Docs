@@ -40,8 +40,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Dictionaries Collection Object](Word.dictionaries.md)
 

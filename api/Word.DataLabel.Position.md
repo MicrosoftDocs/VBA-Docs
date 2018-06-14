@@ -26,8 +26,5 @@ Returns or sets the position of the data label. Read/write  **[XlDataLabelPositi
 ## See also
 
 
-#### Concepts
-
-
 [DataLabel Object](Word.DataLabel.md)
 

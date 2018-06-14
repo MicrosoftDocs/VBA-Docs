@@ -35,8 +35,5 @@ You cannot programmatically enable or disable a condition of type  **olCondition
 ## See also
 
 
-#### Concepts
-
-
 [RuleConditions Object](Outlook.RuleConditions.md)
 

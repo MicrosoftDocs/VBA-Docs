@@ -26,8 +26,5 @@ Occurs when the user clicks inside the control.
 ## See also
 
 
-#### Concepts
-
-
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

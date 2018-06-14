@@ -26,8 +26,5 @@ Returns the template type. Read-only  **[WdTemplateType](Word.WdTemplateType.md)
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

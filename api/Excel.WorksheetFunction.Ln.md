@@ -44,8 +44,5 @@ LN is the inverse of the EXP function.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

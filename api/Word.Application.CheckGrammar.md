@@ -50,8 +50,5 @@ MsgBox "Selection is grammatically correct: " &; strPass
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

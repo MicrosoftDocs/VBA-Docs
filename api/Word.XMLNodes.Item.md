@@ -39,8 +39,5 @@ XMLNode
 ## See also
 
 
-#### Concepts
-
-
 [XMLNodes Collection](Word.XMLNodes.md)
 

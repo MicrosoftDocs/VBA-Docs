@@ -31,8 +31,5 @@ Specifies whether the first row contains header information. Read/write  **[XlYe
 ## See also
 
 
-#### Concepts
-
-
 [Sort Object](Excel.Sort.md)
 

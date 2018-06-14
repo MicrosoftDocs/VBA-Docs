@@ -33,8 +33,5 @@ After an error has been handled, the information in the  **MacroError** object i
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -54,8 +54,5 @@ Next myTOC
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

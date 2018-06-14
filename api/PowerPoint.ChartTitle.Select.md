@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 

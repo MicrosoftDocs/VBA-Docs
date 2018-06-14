@@ -36,8 +36,5 @@ The  **Lastpoint** property corresponds to the setting of the **Last Point**, ch
 ## See also
 
 
-#### Concepts
-
-
 [SparkPoints Object](Excel.SparkPoints.md)
 

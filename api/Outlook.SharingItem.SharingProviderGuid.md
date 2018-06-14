@@ -38,8 +38,5 @@ If the  **[SharingProvider](Outlook.SharingItem.SharingProvider.md)** property o
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

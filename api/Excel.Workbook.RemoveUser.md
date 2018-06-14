@@ -44,8 +44,5 @@ Workbooks(2).RemoveUser 2
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

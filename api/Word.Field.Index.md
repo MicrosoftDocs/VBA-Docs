@@ -36,8 +36,5 @@ num = Selection.Fields(1).Index
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

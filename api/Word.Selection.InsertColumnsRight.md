@@ -44,8 +44,5 @@ Selection.InsertColumnsRight
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

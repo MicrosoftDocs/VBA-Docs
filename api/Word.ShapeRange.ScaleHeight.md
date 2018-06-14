@@ -41,8 +41,5 @@ For pictures and OLE objects, you can indicate whether you want to scale the sha
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

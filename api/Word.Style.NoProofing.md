@@ -36,8 +36,5 @@ ActiveDocument.Styles("Test").NoProofing = True
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

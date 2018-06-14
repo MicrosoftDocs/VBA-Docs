@@ -26,8 +26,5 @@ Returns a [ShadowFormat](Word.ShadowFormat.md) object that specifies the shadow 
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

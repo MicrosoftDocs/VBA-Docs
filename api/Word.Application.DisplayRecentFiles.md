@@ -46,8 +46,5 @@ Application.DisplayRecentFiles = False
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -46,8 +46,5 @@ Selection.CreateAutoTextEntry "handdel", _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

@@ -23,8 +23,5 @@ Returns or sets the bottom depth when using the bevel effect on a  **ThreeDForma
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

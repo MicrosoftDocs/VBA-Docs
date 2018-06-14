@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [PrintRange Object](PowerPoint.PrintRange.md)
 

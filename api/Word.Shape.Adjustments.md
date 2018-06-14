@@ -37,8 +37,5 @@ myDocument.Shapes(3).Adjustments(1) = 0.25
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

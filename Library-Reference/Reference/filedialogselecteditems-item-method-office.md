@@ -27,9 +27,6 @@ _Index_ Required. The index is one based.
 ## See also
 
 
-#### Concepts
-
-
 [FileDialogSelectedItems Object](filedialogselecteditems-object-office.md)
 #### Other resources
 

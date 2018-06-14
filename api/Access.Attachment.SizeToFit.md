@@ -37,8 +37,5 @@ You can use the  **SizeToFit** method in conjunction with the **[CreateControl](
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

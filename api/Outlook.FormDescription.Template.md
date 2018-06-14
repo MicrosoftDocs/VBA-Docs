@@ -31,8 +31,5 @@ This property refers to a Microsoft Office Word .DOT template file, and so is ap
 ## See also
 
 
-#### Concepts
-
-
 [FormDescription Object](Outlook.FormDescription.md)
 

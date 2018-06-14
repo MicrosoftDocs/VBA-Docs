@@ -21,9 +21,6 @@ Returns a  **TextRange2** object that represents the specified subset of right-t
 ## See also
 
 
-#### Concepts
-
-
 [TextRange2 Object (PowerPoint)](textrange2-object-powerpoint.md)
 
 

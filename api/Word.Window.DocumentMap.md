@@ -51,8 +51,5 @@ docSales.ActiveWindow.DocumentMap = True
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

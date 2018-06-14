@@ -50,9 +50,6 @@ If  _Length_ is greater than the number of words from the specified starting wor
 ## See also
 
 
-#### Concepts
-
-
 [TextRange2 Object](textrange2-object-office.md)
 #### Other resources
 

@@ -37,8 +37,5 @@ If x = vbYes Then Application.ToggleKeyboard
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

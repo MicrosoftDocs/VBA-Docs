@@ -26,8 +26,5 @@ Returns the text of this range of characters. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [ChartCharacters Object](Word.ChartCharacters.md)
 

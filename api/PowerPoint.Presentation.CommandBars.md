@@ -26,8 +26,5 @@ Returns a  **CommandBars** collection that represents the merged command bar set
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

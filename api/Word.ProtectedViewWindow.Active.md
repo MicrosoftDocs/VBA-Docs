@@ -37,8 +37,5 @@ ProtectedViewWindows.Open FileName:="C:\MyFiles\MyDoc.doc"
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

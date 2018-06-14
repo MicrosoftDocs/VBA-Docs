@@ -41,8 +41,5 @@ ActiveDocument.Range.Font.NumberSpacing = wdNumberSpacingProportional
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

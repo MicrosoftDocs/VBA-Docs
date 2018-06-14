@@ -66,9 +66,6 @@ MsgBox "There are " &amp; myControls.Count &amp; _
 ## See also
 
 
-#### Concepts
-
-
 [CommandBars Object](commandbars-object-office.md)
 #### Other resources
 

@@ -62,8 +62,5 @@ Selection.SetRange Start:=Selection.Start, _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

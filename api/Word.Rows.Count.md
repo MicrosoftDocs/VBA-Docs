@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of rows in the collection. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

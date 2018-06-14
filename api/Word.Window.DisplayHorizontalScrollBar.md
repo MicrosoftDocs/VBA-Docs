@@ -53,8 +53,5 @@ winTemp.DisplayHorizontalScrollBar = _
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

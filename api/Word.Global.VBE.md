@@ -36,8 +36,5 @@ MsgBox "References = " &; VBE.ActiveVBProject.References.Count
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

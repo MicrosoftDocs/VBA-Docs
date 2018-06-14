@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [NamedSlideShow Object](PowerPoint.NamedSlideShow.md)
 

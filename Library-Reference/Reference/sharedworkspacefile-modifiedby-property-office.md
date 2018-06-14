@@ -63,9 +63,6 @@ The following example lists the files in a shared workspace site that were last 
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFile Object](sharedworkspacefile-object-office.md)
 #### Other resources
 

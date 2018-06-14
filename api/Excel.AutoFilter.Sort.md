@@ -26,8 +26,5 @@ Gets the sort column or columns, and sort order for the  **AutoFilter** collecti
 ## See also
 
 
-#### Concepts
-
-
 [AutoFilter Object](Excel.AutoFilter.md)
 

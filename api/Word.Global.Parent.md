@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Glob
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

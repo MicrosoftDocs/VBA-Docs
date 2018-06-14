@@ -55,9 +55,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ODSOFilter Object](odsofilter-object-office.md)
 [TextFrame2 Object](textframe2-object-office.md)
 #### Other resources

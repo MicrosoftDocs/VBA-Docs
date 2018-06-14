@@ -86,8 +86,5 @@ Dialogs(wdDialogViewZoom).Show TimeOut:=9000
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Word.Dialog.md)
 

@@ -26,8 +26,5 @@ Returns a [ThreeDFormat](Word.ThreeDFormat.md) object that contains 3-D effect f
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

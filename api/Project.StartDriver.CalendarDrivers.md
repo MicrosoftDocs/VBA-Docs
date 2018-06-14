@@ -23,7 +23,4 @@ Gets the  **[CalendarDrivers](Project.calendardrivers.md)** object for the task 
 ## See also
 
 
-#### Concepts
-
-
 [StartDriver Object](Project.StartDriver.md)

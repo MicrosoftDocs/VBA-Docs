@@ -50,8 +50,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [DataBarBorder Object](Excel.DataBarBorder.md)
 

@@ -45,8 +45,5 @@ The value of the  **PathFormat** property can be one of these **MsoPathType** co
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 

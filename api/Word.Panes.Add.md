@@ -54,8 +54,5 @@ ActiveDocument.ActiveWindow.Panes.Add SplitVertical:=30
 ## See also
 
 
-#### Concepts
-
-
 [Panes Collection Object](Word.panes.md)
 

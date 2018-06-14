@@ -54,9 +54,6 @@ myBar.Visible = True
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControl Object](commandbarcontrol-object-office.md)
 #### Other resources
 

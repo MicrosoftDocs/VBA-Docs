@@ -44,8 +44,5 @@ For more information about how to use event procedures with the  **Application**
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

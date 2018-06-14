@@ -42,8 +42,5 @@ MsgBox ActiveDocument.ActiveWindow.ActivePane _
 ## See also
 
 
-#### Concepts
-
-
 [Frameset Object](Word.Frameset.md)
 

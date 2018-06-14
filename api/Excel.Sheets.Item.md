@@ -44,8 +44,5 @@ Sheets.Item("sheet1").Activate
 ## See also
 
 
-#### Concepts
-
-
 [Sheets Object](Excel.Sheets.md)
 

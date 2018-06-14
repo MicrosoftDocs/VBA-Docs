@@ -57,8 +57,5 @@ The following example displays the first number in a currency format, two digits
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

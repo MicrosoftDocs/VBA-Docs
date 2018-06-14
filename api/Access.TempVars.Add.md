@@ -35,8 +35,5 @@ Adds a variable to the  **[TempVars](Access.TempVars.md)** collection.
 ## See also
 
 
-#### Concepts
-
-
 [TempVars Collection](Access.TempVars.md)
 

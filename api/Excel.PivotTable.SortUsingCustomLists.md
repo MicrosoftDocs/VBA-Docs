@@ -31,8 +31,5 @@ Setting this property to  **False** can optimize performance for fields with man
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

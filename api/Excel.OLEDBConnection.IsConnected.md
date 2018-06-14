@@ -31,8 +31,5 @@ The  **IsConnected** property does not check to see if the connection is connect
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

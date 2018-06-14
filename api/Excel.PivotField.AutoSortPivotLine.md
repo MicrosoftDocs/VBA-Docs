@@ -26,8 +26,5 @@ Returns the name of the PivotLine used to sort the specified PivotTable field au
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

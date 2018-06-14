@@ -66,8 +66,5 @@ Set pvWbk = ActiveProtectedViewWindow.Edit
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 

@@ -26,8 +26,5 @@ Returns the number of items in the  **[AutoTextEntries](Word.autotextentries.md)
 ## See also
 
 
-#### Concepts
-
-
 [AutoTextEntries Collection Object](Word.autotextentries.md)
 

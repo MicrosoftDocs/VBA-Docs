@@ -66,8 +66,5 @@ Use the  **XMLImport** method of the **[Workbook](Excel.Workbook.md)** object to
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

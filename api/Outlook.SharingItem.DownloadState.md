@@ -26,8 +26,5 @@ Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadSt
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

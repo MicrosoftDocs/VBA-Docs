@@ -39,8 +39,5 @@ SlicerItem
 ## See also
 
 
-#### Concepts
-
-
 [SlicerItems Object](Excel.SlicerItems.md)
 

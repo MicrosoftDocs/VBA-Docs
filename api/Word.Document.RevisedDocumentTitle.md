@@ -31,8 +31,5 @@ To perform a legal-blackline document compare, use the  **[CompareDocuments](Wor
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

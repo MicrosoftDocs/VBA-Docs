@@ -26,8 +26,5 @@ Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlac
 ## See also
 
 
-#### Concepts
-
-
 [OLEObject Object](Excel.OLEObject.md)
 

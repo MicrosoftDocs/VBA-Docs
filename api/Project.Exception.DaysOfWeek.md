@@ -28,7 +28,4 @@ Gets or sets the bit mask used for calendar exceptions of type  **pjWeekly**, in
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

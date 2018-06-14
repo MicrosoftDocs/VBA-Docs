@@ -36,8 +36,5 @@ Selection.Range.AutoFormat
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

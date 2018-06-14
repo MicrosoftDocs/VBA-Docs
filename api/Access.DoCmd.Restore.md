@@ -34,8 +34,5 @@ You can use the  **Restore** method to restore a maximized or minimized window t
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

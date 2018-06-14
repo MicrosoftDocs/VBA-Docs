@@ -58,8 +58,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
  [BorderArts Object](Publisher.BorderArts.md)
 

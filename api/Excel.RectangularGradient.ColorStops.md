@@ -31,8 +31,5 @@ ColorStops
 ## See also
 
 
-#### Concepts
-
-
 [RectangularGradient Object](Excel.RectangularGradient.md)
 

@@ -31,8 +31,5 @@ New shapes inherit many of their attributes from the default shape.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

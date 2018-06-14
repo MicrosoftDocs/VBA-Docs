@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the combo box and its left 
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

@@ -26,9 +26,6 @@ Gets a value that corresponds to the type of  **SearchScope** object. The type i
 ## See also
 
 
-#### Concepts
-
-
 [SearchScope Object](searchscope-object-office.md)
 #### Other resources
 

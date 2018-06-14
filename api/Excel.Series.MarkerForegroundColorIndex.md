@@ -26,8 +26,5 @@ Returns or sets the marker foreground color as an index into the current color p
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

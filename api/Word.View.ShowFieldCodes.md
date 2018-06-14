@@ -55,8 +55,5 @@ ActiveDocument.ActiveWindow.View.ShowFieldCodes = _
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

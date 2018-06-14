@@ -43,8 +43,5 @@ ThisWorkbook.Windows(1).OnWindow = "WindowActivate"
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

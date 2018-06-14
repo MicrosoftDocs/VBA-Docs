@@ -64,7 +64,5 @@ Application.SetDefaultTheme "expeditn 010", wdWebPage
 
 ## See also
 
-#### Concepts
-
 - [Application Object](Word.Application.md)
 

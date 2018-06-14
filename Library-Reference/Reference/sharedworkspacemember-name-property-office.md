@@ -52,9 +52,6 @@ The following example displays properties of the shared workspace member.
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceMember Object](sharedworkspacemember-object-office.md)
 #### Other resources
 

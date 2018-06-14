@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **List
 ## See also
 
 
-#### Concepts
-
-
 [List Object](Word.List.md)
 

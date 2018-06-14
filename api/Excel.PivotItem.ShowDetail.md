@@ -44,8 +44,5 @@ If the specified range is in a PivotTable report, it's possible to set this prop
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

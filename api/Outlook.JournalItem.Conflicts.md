@@ -26,8 +26,5 @@ Returns the  **[Conflicts](Outlook.Conflicts.md)** object that represents the it
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

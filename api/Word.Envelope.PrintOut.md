@@ -75,8 +75,5 @@ ActiveDocument.Envelope.PrintOut Address:=recep, _
 ## See also
 
 
-#### Concepts
-
-
 [Envelope Object](Word.Envelope.md)
 

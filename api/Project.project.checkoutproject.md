@@ -63,9 +63,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Project Object](Project.Project.md)
 [Checkin Method](Project.Project.CheckIn.md)
 #### Other resources

@@ -50,8 +50,5 @@ temp = Options.ReplaceSelection
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

@@ -34,8 +34,5 @@ Sets an icon for a  **SortField** object.
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

@@ -29,8 +29,5 @@ Returns an object that contains information for a connection from the PowerPivot
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

@@ -37,8 +37,5 @@ MsgBox myLetterContent.SenderJobTitle
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

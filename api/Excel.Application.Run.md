@@ -47,8 +47,5 @@ The  **Run** method returns whatever the called macro returns.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -26,8 +26,5 @@ Deletes the specified XML schema from the list of available XML schemas.
 ## See also
 
 
-#### Concepts
-
-
 [XMLNamespace Object](Word.XMLNamespace.md)
 

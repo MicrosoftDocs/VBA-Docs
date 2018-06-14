@@ -26,8 +26,5 @@ Returns a  **[CanvasShapes](Word.CanvasShapes.md)** object that represents a col
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

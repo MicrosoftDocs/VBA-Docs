@@ -33,8 +33,5 @@ The purpose of this flag is to allow VBA programmers to configure a rule complet
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

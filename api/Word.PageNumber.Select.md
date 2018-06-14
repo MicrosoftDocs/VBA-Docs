@@ -31,8 +31,5 @@ After using this method, use the  **Selection** property to work with the select
 ## See also
 
 
-#### Concepts
-
-
 [PageNumber Object](Word.PageNumber.md)
 

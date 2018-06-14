@@ -36,8 +36,5 @@ Charts(1).SeriesCollection(1).ApplyPictToFront = True
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Excel.Point(objec).md)
 

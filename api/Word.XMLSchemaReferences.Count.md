@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of XML schemas in the collection.
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 

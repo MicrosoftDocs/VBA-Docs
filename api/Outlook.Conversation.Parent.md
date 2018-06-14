@@ -33,8 +33,5 @@ The parent of a  **Conversation** object is the first item in the conversation.
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

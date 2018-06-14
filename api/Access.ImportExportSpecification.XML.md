@@ -26,8 +26,5 @@ Gets or sets the Extensible Markup Language (XML) string that defines an  **[Imp
 ## See also
 
 
-#### Concepts
-
-
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 

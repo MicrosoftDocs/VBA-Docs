@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLParts Object](customxmlparts-object-office.md)
 #### Other resources
 

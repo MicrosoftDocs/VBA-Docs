@@ -26,8 +26,5 @@ Returns the name of the specified object. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperty Object](Word.CustomProperty.md)
 

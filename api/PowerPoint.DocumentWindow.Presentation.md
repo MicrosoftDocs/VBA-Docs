@@ -51,9 +51,6 @@ Windows(2).Presentation.PageSetup _
 ## See also
 
 
-#### Concepts
-
-
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
 

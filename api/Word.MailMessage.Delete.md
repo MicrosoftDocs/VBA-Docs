@@ -26,8 +26,5 @@ Deletes the specified mail message.
 ## See also
 
 
-#### Concepts
-
-
 [MailMessage Object](Word.MailMessage.md)
 

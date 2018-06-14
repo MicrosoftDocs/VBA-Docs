@@ -60,8 +60,5 @@ Application.ConvertAccessProject _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

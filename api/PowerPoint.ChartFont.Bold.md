@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartFont Object](PowerPoint.ChartFont.md)
 

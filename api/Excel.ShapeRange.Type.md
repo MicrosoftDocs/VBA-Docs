@@ -26,8 +26,5 @@ Returns a  **[MsoShapeType](http://msdn.microsoft.com/library/21ab1915-9885-5837
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [HPageBreak Object](Excel.HPageBreak.md)
 

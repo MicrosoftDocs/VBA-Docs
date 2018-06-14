@@ -26,8 +26,5 @@ Logs the user off from the current MAPI session.
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

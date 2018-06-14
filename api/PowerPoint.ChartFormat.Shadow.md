@@ -26,8 +26,5 @@ Returns shadow formatting properties for the chart element. Read-only  **[Shadow
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](PowerPoint.ChartFormat.md)
 

@@ -34,8 +34,5 @@ If  **TRUE** is returned then the connection is refreshed. If **FALSE** is retur
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

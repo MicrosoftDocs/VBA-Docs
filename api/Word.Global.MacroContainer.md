@@ -37,8 +37,5 @@ MsgBox cntnr.Name
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

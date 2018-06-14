@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](Excel.DataTable(objec).md)
 

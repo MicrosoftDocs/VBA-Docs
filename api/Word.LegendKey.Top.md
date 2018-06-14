@@ -26,8 +26,5 @@ Returns the distance, in points, from the top edge of the object to the top of t
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Word.LegendKey.md)
 

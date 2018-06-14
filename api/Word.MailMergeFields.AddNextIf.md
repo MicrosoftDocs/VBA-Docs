@@ -61,8 +61,5 @@ Documents("Main.doc").MailMerge.Fields.AddNextIf _
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 

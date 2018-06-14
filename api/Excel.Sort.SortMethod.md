@@ -36,8 +36,5 @@ Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](Ex
 ## See also
 
 
-#### Concepts
-
-
 [Sort Object](Excel.Sort.md)
 

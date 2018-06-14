@@ -26,8 +26,5 @@ Marks all items in the conversation as unread.
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

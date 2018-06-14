@@ -31,8 +31,5 @@ The container for an equation array may be the margins of a page, the margins of
 ## See also
 
 
-#### Concepts
-
-
 [OMathEqArray Object](Word.OMathEqArray.md)
 

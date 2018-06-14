@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value, specifying if the rank is determined by a 
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

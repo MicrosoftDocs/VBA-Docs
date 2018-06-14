@@ -26,8 +26,5 @@ Returns a  **[Range](Word.Range.md)** object that represents a range of text tha
 ## See also
 
 
-#### Concepts
-
-
 [Revision Object](Word.Revision.md)
 

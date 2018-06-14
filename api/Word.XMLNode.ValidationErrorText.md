@@ -57,8 +57,5 @@ MsgBox "The following elements do not validate against " &; _
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

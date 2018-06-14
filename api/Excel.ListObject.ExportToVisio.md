@@ -26,8 +26,5 @@ Exports a  **ListObject** object to Visio.
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

@@ -39,8 +39,5 @@ PrintRange
 ## See also
 
 
-#### Concepts
-
-
 [PrintRanges Object](PowerPoint.PrintRanges.md)
 

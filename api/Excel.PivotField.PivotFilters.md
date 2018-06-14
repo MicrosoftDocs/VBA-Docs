@@ -26,8 +26,5 @@ Returns or sets the PivotFilters for the specified  **PivotField** object. Read-
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

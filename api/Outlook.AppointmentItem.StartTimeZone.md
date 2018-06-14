@@ -39,8 +39,5 @@ Another example is changing the  **StartTimeZone** resulting in an appointment e
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

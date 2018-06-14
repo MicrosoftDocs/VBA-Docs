@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [VPageBreaks Object](Excel.VPageBreaks.md)
 

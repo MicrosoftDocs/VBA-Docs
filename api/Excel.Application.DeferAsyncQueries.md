@@ -31,8 +31,5 @@ Setting the  **DeferAsyncQueries** property to **True** prevents any asynchronou
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

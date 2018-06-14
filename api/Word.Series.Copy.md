@@ -26,8 +26,5 @@ If the series has a picture fill, copies the picture to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Word.Series.md)
 

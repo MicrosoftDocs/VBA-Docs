@@ -31,8 +31,5 @@ The value of  **ConditionType** depends on the type of rule condition, as severa
 ## See also
 
 
-#### Concepts
-
-
 [TextRuleCondition Object](Outlook.TextRuleCondition.md)
 

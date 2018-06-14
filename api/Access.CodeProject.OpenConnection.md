@@ -41,8 +41,5 @@ The  **OpenConnection** method is similar to the **Open** method of an ADO **Con
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

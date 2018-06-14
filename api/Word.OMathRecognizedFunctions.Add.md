@@ -39,8 +39,5 @@ OMathRecognizedFunction
 ## See also
 
 
-#### Concepts
-
-
 [OMathRecognizedFunctions Collection](Word.OMathRecognizedFunctions.md)
 

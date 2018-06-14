@@ -46,8 +46,5 @@ MsgBox PointsToInches(ActiveDocument.PageSetup.LeftMargin) _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

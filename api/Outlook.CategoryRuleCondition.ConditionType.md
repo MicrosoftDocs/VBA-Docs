@@ -31,8 +31,5 @@ The category rule condition is supported by rules for receiving messages and rul
 ## See also
 
 
-#### Concepts
-
-
 [CategoryRuleCondition Object](Outlook.CategoryRuleCondition.md)
 

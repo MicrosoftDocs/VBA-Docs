@@ -40,8 +40,5 @@ If a document has not been saved before, the  **Save As** dialog box prompts the
 ## See also
 
 
-#### Concepts
-
-
 [Documents Collection Object](Word.documents.md)
 

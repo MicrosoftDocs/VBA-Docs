@@ -31,8 +31,5 @@ Returns a  **Boolean** that indicates if the **[AddressList](Outlook.AddressList
 ## See also
 
 
-#### Concepts
-
-
 [AddressList Object](Outlook.AddressList.md)
 

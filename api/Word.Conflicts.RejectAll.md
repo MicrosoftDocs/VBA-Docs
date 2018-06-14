@@ -41,8 +41,5 @@ ActiveDocument.CoAuthoring.Conflicts.RejectAll
 ## See also
 
 
-#### Concepts
-
-
 [Conflicts Object](Word.Conflicts.md)
 

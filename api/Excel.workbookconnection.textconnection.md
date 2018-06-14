@@ -29,8 +29,5 @@ Returns a [TextConnection Object (Excel)](textconnection-object-excel.md) object
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

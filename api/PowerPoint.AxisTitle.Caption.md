@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the axis title text.
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 

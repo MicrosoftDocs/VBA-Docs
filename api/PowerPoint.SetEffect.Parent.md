@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [SetEffect Object](PowerPoint.SetEffect.md)
 

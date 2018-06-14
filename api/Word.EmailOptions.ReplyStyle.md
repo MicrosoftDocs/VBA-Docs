@@ -36,8 +36,5 @@ MsgBox Application.EmailOptions.ReplyStyle.NameLocal
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

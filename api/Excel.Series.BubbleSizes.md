@@ -47,8 +47,5 @@ Worksheets(1).ChartObjects(1).Chart _
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

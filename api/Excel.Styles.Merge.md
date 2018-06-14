@@ -49,8 +49,5 @@ ActiveWorkbook.Styles.Merge Workbook:=Workbooks("TEMPLATE.XLS")
 ## See also
 
 
-#### Concepts
-
-
 [Styles Object](Excel.Styles.md)
 

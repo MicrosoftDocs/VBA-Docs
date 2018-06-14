@@ -31,8 +31,5 @@ Outlook does not set the  **Creator** property. Use the **Creator** property to 
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](Outlook.StorageItem.md)
 

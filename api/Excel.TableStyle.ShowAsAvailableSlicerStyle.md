@@ -31,8 +31,5 @@ Returns or sets if the specified table style is shown as available in the slicer
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Excel.TableStyle.md)
 

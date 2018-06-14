@@ -36,8 +36,5 @@ To set the grouping properties —  **[GroupOn](Access.GroupLevel.GroupOn.md)**,
 ## See also
 
 
-#### Concepts
-
-
 [GroupLevel Object](Access.GroupLevel.md)
 

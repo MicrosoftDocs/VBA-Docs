@@ -31,8 +31,5 @@ The  **Index** property is only valid during the current session and can change 
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

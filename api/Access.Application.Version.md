@@ -39,8 +39,5 @@ MsgBox "You are currently running Microsoft Access, " _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

@@ -31,8 +31,5 @@ Determines whether the mail message associated with an inspector is displayed in
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

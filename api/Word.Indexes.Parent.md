@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Inde
 ## See also
 
 
-#### Concepts
-
-
 [Indexes Collection Object](Word.indexes.md)
 

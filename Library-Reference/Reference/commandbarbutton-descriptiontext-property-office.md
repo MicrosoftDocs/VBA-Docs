@@ -39,9 +39,6 @@ The description is not displayed to the user, but it can be useful for documenti
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarButton Object](commandbarbutton-object-office.md)
 #### Other resources
 

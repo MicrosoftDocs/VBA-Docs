@@ -39,8 +39,5 @@ If you forget the password, you cannot unprotect the sheet or workbook. It's a g
 ## See also
 
 
-#### Concepts
-
-
 [AllowEditRange Object](Excel.AllowEditRange.md)
 

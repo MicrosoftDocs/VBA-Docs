@@ -38,8 +38,5 @@ This property along with the  **[Dynamic](Excel.CalculatedMember.Dynamic.md)** a
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

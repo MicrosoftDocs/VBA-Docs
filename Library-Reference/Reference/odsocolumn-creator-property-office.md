@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [ODSOColumn Object](odsocolumn-object-office.md)
 #### Other resources
 

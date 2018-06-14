@@ -50,8 +50,5 @@ Selection.MoveWhile Cset:=vbTab, Count:=wdForward
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

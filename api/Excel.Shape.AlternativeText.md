@@ -41,8 +41,5 @@ Worksheets(1).Shapes(1).AlternativeText = "Concentric circles"
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

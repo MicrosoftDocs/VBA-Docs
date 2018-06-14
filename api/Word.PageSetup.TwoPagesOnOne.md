@@ -36,8 +36,5 @@ ActiveDocument.PageSetup.TwoPagesOnOne = True
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

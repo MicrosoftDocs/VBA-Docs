@@ -26,8 +26,5 @@ Makes the current chart the active chart.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

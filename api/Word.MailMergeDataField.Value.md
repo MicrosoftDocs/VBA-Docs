@@ -46,8 +46,5 @@ MsgBox dRecord
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataField Object](Word.MailMergeDataField.md)
 

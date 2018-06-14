@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

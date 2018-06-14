@@ -33,8 +33,5 @@ This property is always 0 for objects that do not have scroll bars. For these ob
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

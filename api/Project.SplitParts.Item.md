@@ -31,7 +31,4 @@ Gets a single  **SplitPart** object from the **SplitParts** collection. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [SplitParts Collection Object](Project.splitparts.md)

@@ -39,9 +39,6 @@ For shared workspace objects, the  **ModifiedBy** property returns the display n
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)
 #### Other resources
 

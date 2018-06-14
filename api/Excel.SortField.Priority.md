@@ -26,8 +26,5 @@ Specifies the priority for the sort field. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

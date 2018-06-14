@@ -85,8 +85,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

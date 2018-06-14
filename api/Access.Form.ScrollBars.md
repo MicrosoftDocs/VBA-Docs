@@ -43,8 +43,5 @@ You can use the  **NavigationButtons** property to control record navigation.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -36,8 +36,5 @@ It returns  **Nothing** if no previous object exists, for example, if already po
 ## See also
 
 
-#### Concepts
-
-
 [Results Object](Outlook.Results.md)
 

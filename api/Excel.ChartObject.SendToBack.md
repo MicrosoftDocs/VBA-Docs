@@ -41,8 +41,5 @@ Worksheets("Sheet1").ChartObjects(1).SendToBack
 ## See also
 
 
-#### Concepts
-
-
 [ChartObject Object](Excel.ChartObject.md)
 

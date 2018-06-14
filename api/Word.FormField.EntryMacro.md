@@ -50,8 +50,5 @@ ActiveDocument.FormFields("Text1").EntryMacro = "Breadth"
 ## See also
 
 
-#### Concepts
-
-
 [FormField Object](Word.FormField.md)
 

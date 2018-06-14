@@ -39,8 +39,5 @@ A  **[ShapeNode](Excel.ShapeNode.md)** object contained by the collection.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Object](Excel.ShapeNodes.md)
 

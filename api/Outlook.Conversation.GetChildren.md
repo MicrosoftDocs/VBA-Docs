@@ -46,8 +46,5 @@ If no child items exist under that node, the  **GetChildren** method returns a *
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

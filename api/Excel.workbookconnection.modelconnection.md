@@ -29,8 +29,5 @@ Returns an object that contains information for the new Model Connection Type in
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

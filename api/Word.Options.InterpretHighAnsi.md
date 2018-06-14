@@ -36,8 +36,5 @@ Options.InterpretHighAnsi = wdHighAnsiIsFarEast
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

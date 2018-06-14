@@ -31,8 +31,5 @@ This property works only when you are in Web layout view.
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

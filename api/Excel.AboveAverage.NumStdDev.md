@@ -26,8 +26,5 @@ Returns or sets the numeric standard deviation for an  **AboveAverage** object. 
 ## See also
 
 
-#### Concepts
-
-
 [AboveAverage Object](Excel.AboveAverage.md)
 

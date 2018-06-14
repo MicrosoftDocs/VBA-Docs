@@ -63,8 +63,5 @@ Forms("Order Entry").Controls("Country").MultiSelect = 2 ' Extended.
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

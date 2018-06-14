@@ -26,8 +26,5 @@ Returns a  **String** that represents the name of an equation recognized functio
 ## See also
 
 
-#### Concepts
-
-
 [OMathRecognizedFunction Object](Word.OMathRecognizedFunction.md)
 

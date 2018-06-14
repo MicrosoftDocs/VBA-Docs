@@ -31,8 +31,5 @@ To run a macro or event procedure when this event occurs, set the  **OnClose** p
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

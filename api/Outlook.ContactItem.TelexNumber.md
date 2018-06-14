@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the telex number for the contact. Read/
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

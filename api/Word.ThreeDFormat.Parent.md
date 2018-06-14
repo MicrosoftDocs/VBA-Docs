@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Thre
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

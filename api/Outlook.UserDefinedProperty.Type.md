@@ -150,8 +150,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [UserDefinedProperty Object](Outlook.UserDefinedProperty.md)
 

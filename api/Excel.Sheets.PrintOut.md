@@ -84,8 +84,5 @@ Worksheets. ("sheet1").PrintOut From:=2, To:=3, Copies:=3
 ## See also
 
 
-#### Concepts
-
-
 [Sheets Object](Excel.Sheets.md)
 

@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs.Last.Alignment = wdAlignParagraphRight
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

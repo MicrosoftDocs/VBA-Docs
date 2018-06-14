@@ -31,8 +31,5 @@ Long
 ## See also
 
 
-#### Concepts
-
-
  [Attachments Collection](Publisher.Attachments.md)
 

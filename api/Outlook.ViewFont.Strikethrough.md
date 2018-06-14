@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that indicates if the font is struck throug
 ## See also
 
 
-#### Concepts
-
-
 [ViewFont Object](Outlook.ViewFont.md)
 

@@ -39,8 +39,5 @@ Break
 ## See also
 
 
-#### Concepts
-
-
 [Breaks Collection](Word.Breaks.md)
 

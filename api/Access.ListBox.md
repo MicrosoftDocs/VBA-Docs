@@ -256,10 +256,6 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [Access Object Model Reference](object-model-access-vba-reference.md)

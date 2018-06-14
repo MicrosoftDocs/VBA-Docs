@@ -26,8 +26,5 @@ Returns a constant in the  **[OlAccountType](Outlook.OlAccountType.md)** enumera
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

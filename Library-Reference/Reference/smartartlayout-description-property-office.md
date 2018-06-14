@@ -23,9 +23,6 @@ Retrieves the description of the SmartArt layout. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtLayout Object](smartartlayout-object-office.md)
 #### Other resources
 

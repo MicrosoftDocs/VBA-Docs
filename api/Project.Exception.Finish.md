@@ -23,7 +23,4 @@ Gets or sets the finish date of an exception. Read/write  **Variant**.
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

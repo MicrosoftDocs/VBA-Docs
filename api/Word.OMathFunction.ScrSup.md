@@ -26,8 +26,5 @@ Returns an  **[OMathScrSup](Word.OMathScrSup.md)** object that represents the ma
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

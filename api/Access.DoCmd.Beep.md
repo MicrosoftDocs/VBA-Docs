@@ -35,8 +35,5 @@ You can also use the Visual Basic  **Beep** statement to cause your computer to 
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

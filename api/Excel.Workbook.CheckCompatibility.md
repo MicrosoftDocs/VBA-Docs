@@ -26,8 +26,5 @@ Controls whether or not the compatibility checker is run automatically when the 
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

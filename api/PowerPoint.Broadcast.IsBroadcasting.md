@@ -26,8 +26,5 @@ Indicates whether the file is in the Broadcast Documents library. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Broadcast Object](PowerPoint.Broadcast.md)
 

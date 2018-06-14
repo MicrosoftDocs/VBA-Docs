@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **XMLM
 ## See also
 
 
-#### Concepts
-
-
 [XMLMapping Object](Word.XMLMapping.md)
 

@@ -26,8 +26,5 @@ The real-time data (RTD) server uses this method to notify Microsoft Excel that 
 ## See also
 
 
-#### Concepts
-
-
 [IRTDUpdateEvent Object](Excel.IRTDUpdateEvent.md)
 

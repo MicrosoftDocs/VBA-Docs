@@ -36,8 +36,5 @@ Application.MailMessage.DisplaySelectNamesDialog
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

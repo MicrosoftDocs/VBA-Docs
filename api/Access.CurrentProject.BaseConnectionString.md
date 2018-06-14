@@ -48,8 +48,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

@@ -26,8 +26,5 @@ Removes all sorting properties from the  **[OrderFields](Outlook.OrderFields.md)
 ## See also
 
 
-#### Concepts
-
-
 [OrderFields Object](Outlook.OrderFields.md)
 

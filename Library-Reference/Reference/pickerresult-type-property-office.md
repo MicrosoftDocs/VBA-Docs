@@ -54,9 +54,6 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 ## See also
 
 
-#### Concepts
-
-
 [PickerResult Object](pickerresult-object-office.md)
 #### Other resources
 

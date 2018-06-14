@@ -62,8 +62,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 

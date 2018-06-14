@@ -35,8 +35,5 @@ If the range is a one- or two-dimensional range, you can set the formula to a Vi
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Word.Series.md)
 

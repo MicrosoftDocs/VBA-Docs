@@ -26,9 +26,6 @@ Gets a  **UserPermission** object that is a member of the **Permission** collect
 ## See also
 
 
-#### Concepts
-
-
 [Permission Object](permission-object-office.md)
 #### Other resources
 

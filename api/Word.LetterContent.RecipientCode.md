@@ -31,8 +31,5 @@ Not used in the U.S. English version of Microsoft Word. This property may not be
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

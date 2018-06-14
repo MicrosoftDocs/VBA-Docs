@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of font names in the collection. 
 ## See also
 
 
-#### Concepts
-
-
 [FontNames Object](Word.FontNames.md)
 

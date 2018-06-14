@@ -50,9 +50,6 @@ oOdso.Move(msoMoveRowFirst, 3)
 ## See also
 
 
-#### Concepts
-
-
 [OfficeDataSourceObject Object](officedatasourceobject-object-office.md)
 #### Other resources
 

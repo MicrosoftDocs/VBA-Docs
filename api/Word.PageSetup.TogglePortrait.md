@@ -50,8 +50,5 @@ Selection.PageSetup.TogglePortrait
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

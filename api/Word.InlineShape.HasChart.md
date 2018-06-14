@@ -31,8 +31,5 @@ This property always returns false for OLE charts. For OLE charts, use  `InlineS
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

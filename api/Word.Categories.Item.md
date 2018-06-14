@@ -39,8 +39,5 @@ Category
 ## See also
 
 
-#### Concepts
-
-
 [Categories Object](Word.Categories.md)
 

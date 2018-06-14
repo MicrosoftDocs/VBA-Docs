@@ -44,8 +44,5 @@ Selection.Collapse Direction:=wdCollapseStart
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

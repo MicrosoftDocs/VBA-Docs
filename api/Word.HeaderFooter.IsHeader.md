@@ -46,8 +46,5 @@ Selection.HeaderFooter.PageNumbers.Add
 ## See also
 
 
-#### Concepts
-
-
 [HeaderFooter Object](Word.HeaderFooter.md)
 

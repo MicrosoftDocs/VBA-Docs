@@ -26,8 +26,5 @@ Deletes the specified two initial-capital exception from the collection of AutoC
 ## See also
 
 
-#### Concepts
-
-
 [TwoInitialCapsException Object](Word.TwoInitialCapsException.md)
 

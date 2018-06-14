@@ -26,8 +26,5 @@ Returns a  **Range** object that represents the portion of a document that is co
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

@@ -52,8 +52,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

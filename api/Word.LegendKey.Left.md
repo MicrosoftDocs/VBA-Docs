@@ -26,8 +26,5 @@ Returns the distance, in points, from the left edge of the object to the left ed
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Word.LegendKey.md)
 

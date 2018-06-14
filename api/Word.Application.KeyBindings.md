@@ -55,8 +55,5 @@ Next kbLoop
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

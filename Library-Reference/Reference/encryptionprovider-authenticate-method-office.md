@@ -46,9 +46,6 @@ This is where your COM add-in encryption provider displays whatever user interfa
 ## See also
 
 
-#### Concepts
-
-
 [EncryptionProvider Object](encryptionprovider-object-office.md)
 #### Other resources
 

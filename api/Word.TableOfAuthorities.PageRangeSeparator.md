@@ -41,8 +41,5 @@ ActiveDocument.TablesOfAuthorities(1).PageRangeSeparator = " - "
 ## See also
 
 
-#### Concepts
-
-
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 

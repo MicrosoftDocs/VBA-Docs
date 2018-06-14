@@ -52,8 +52,5 @@ ActivePresentation.SlideShowSettings.AdvanceMode = _
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

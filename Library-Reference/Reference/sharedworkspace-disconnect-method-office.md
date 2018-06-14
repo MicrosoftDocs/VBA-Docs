@@ -60,9 +60,6 @@ The following example determines whether the active document is connected to a s
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspace Object](sharedworkspace-object-office.md)
 #### Other resources
 

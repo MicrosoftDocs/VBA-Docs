@@ -26,9 +26,6 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes.Add
 ## See also
 
 
-#### Concepts
-
-
 [Object Model Reference](reference-object-library-reference-for-office.md)
 #### Other resources
 

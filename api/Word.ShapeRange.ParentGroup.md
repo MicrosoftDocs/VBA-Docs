@@ -26,8 +26,5 @@ Returns a  **Shape** object that represents the common parent shape of a range o
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

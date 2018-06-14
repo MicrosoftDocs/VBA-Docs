@@ -31,8 +31,5 @@ The source document must be formatted as a Word document.
 ## See also
 
 
-#### Concepts
-
-
 [Fields Collection Object](Word.fields.md)
 

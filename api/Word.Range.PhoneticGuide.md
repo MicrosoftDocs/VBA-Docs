@@ -55,8 +55,5 @@ Selection.Range.PhoneticGuide Text:="tray sheek", _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

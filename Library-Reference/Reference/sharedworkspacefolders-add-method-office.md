@@ -54,9 +54,6 @@ The following example adds a new folder to the folders collection of the shared 
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFolders Object](sharedworkspacefolders-object-office.md)
 #### Other resources
 

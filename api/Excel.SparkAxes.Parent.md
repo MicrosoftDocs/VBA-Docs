@@ -31,8 +31,5 @@ Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the
 ## See also
 
 
-#### Concepts
-
-
 [SparkAxes Object](Excel.SparkAxes.md)
 

@@ -31,8 +31,5 @@ For any object, some methods and properties may be unavailable if the  **Visible
 ## See also
 
 
-#### Concepts
-
-
 [TaskPane Object](Word.TaskPane.md)
 

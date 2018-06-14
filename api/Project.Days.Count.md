@@ -38,7 +38,4 @@ Debug.Print ActiveProject.Resources(1).Calendar.WeekDays.Count
 ## See also
 
 
-#### Concepts
-
-
 [Days Collection Object](Project.days.md)

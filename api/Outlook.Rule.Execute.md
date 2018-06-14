@@ -55,8 +55,5 @@ If you plan to show a custom progress user interface instead of using the progre
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

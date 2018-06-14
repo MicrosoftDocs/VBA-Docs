@@ -33,8 +33,5 @@ The  **Subject** serves as a unique identifier for **[StorageItem](Outlook.Stora
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](Outlook.StorageItem.md)
 

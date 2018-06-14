@@ -26,8 +26,5 @@ Returns or sets a  **Long** value that represents the alignment for the specifie
 ## See also
 
 
-#### Concepts
-
-
 [Phonetics Object](Excel.Phonetics.md)
 

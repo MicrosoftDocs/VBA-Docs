@@ -59,8 +59,5 @@ The aggregation parameter ( _Arg6_) is a numeric value specifying the method to 
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -36,8 +36,5 @@ qString = ActiveDocument.MailMerge.DataSource.QueryString
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 

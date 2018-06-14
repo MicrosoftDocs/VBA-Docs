@@ -36,8 +36,5 @@ MsgBox "The name of the active Protected View window is " &; ActiveProtectedWind
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 

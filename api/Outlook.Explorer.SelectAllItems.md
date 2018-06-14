@@ -39,8 +39,5 @@ If the current view or current folder does not contain any items, calling  **Sel
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

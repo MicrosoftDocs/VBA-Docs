@@ -36,8 +36,5 @@ The value of this property affects the appearance of solid-colored fills only. I
 ## See also
 
 
-#### Concepts
-
-
  [FillFormat Object](Publisher.FillFormat.md)
 

@@ -51,8 +51,5 @@ Selection.InlineShapes.AddPictureBullet _
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection Object](Word.inlineshapes.md)
 

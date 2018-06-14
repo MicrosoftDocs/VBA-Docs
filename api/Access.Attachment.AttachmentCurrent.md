@@ -31,8 +31,5 @@ By running a macro or event procedure when the  **AttachmentCurrent** event occu
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

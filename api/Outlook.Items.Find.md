@@ -243,8 +243,5 @@ sFilter = "[LastName] > 'LZZZ' And [LastName] < 'N'"
 ## See also
 
 
-#### Concepts
-
-
 [Items Object](Outlook.Items.md)
 

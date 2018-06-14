@@ -26,8 +26,5 @@ Returns  **True** if the OLE DB connection is connected to an Online Analytical 
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

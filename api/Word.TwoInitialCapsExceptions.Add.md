@@ -72,8 +72,5 @@ AutoCorrect.OtherCorrectionsExceptions.Add Name:="myCompany"
 ## See also
 
 
-#### Concepts
-
-
 [TwoInitialCapsExceptions Collection Object](Word.twoinitialcapsexceptions.md)
 

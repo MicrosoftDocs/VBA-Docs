@@ -60,9 +60,6 @@ Set objPickerProperty = objPickerProperties.Add("SiteUrl", "http://my", msoPicke
 ## See also
 
 
-#### Concepts
-
-
 [PickerProperties Object](pickerproperties-object-office.md)
 #### Other resources
 

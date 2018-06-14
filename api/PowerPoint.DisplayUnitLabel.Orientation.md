@@ -31,8 +31,5 @@ The value of this property can be an integer value from -90 through 90 degrees o
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 

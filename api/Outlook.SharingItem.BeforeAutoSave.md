@@ -31,8 +31,5 @@ Occurs before the  **[SharingItem](Outlook.SharingItem.md)** is automatically sa
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

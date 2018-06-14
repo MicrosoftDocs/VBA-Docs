@@ -50,8 +50,5 @@ To use content indexing search in a  **Table** , use the **[Restrict](Outlook.Ta
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Outlook.Table.md)
 

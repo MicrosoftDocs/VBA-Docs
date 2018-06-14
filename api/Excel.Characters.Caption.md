@@ -26,8 +26,5 @@ Returns a  **String** value that represents the text of this range of characters
 ## See also
 
 
-#### Concepts
-
-
 [Characters Object](Excel.Characters.md)
 

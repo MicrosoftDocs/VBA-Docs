@@ -31,8 +31,5 @@ For OLAP data sources, this property always returns  **False** .
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

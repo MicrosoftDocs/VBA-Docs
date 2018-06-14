@@ -36,8 +36,5 @@ The value of the  **AlternativeText** property corresponds to the value in the *
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

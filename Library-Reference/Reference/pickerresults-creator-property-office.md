@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **PickerResul
 ## See also
 
 
-#### Concepts
-
-
 [PickerResults Object](pickerresults-object-office.md)
 #### Other resources
 

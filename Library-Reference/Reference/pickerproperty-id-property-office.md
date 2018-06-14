@@ -26,9 +26,6 @@ Retrieves the unique Id of the associated  **PickerProperty** object. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [PickerProperty Object](pickerproperty-object-office.md)
 #### Other resources
 

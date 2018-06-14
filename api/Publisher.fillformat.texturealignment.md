@@ -55,8 +55,5 @@ The setting of the  **TextureAlignment** property corresponds to the **Alignment
 ## See also
 
 
-#### Concepts
-
-
  [FillFormat Object](Publisher.FillFormat.md)
 

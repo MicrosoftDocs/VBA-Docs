@@ -31,8 +31,5 @@ The comment text cannot exceed 255 characters.
 ## See also
 
 
-#### Concepts
-
-
 [Name Object](Excel.Name.md)
 

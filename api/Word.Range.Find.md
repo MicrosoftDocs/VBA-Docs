@@ -26,8 +26,5 @@ Returns a  **[Find](Word.Find.md)** object that contains the criteria for a find
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

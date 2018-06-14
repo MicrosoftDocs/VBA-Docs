@@ -31,8 +31,5 @@ This property corresponds to the  **Show next heading when previous level is use
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

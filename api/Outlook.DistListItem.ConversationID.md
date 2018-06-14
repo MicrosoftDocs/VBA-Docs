@@ -35,8 +35,5 @@ If the  **DistListItem** object is created in a version of Microsoft Outlook ear
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

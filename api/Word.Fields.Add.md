@@ -82,8 +82,5 @@ MsgBox myField.Result
 ## See also
 
 
-#### Concepts
-
-
 [Fields Collection Object](fields-object-word.md)
 

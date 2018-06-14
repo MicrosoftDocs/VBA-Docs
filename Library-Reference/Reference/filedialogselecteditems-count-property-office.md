@@ -84,9 +84,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [FileDialogSelectedItems Object](filedialogselecteditems-object-office.md)
 #### Other resources
 

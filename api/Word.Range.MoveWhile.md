@@ -52,8 +52,5 @@ aRange.MoveWhile Cset:="atiATI", Count:=wdForward
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -43,8 +43,5 @@ Me.ctl.ForeTint=25
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

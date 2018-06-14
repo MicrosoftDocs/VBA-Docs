@@ -33,9 +33,6 @@ This property corresponds to the MAPI property,  **PidTagEmailAddress** .
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 #### Other resources
 

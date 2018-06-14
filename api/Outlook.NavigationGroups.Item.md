@@ -44,8 +44,5 @@ The index value of a  **NavigationGroup** in the collection represents the ordin
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 

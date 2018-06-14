@@ -52,9 +52,6 @@ err_NeverRefreshed:
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspace Object](sharedworkspace-object-office.md)
 #### Other resources
 

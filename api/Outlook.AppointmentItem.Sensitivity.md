@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagSensitivity** .
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

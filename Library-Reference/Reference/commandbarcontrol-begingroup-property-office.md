@@ -47,9 +47,6 @@ lastMenu.BeginGroup = True
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControl Object](commandbarcontrol-object-office.md)
 #### Other resources
 

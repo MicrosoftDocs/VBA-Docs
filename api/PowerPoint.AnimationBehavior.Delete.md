@@ -26,8 +26,5 @@ Deletes the specified  **AnimationBehavior** object.
 ## See also
 
 
-#### Concepts
-
-
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 

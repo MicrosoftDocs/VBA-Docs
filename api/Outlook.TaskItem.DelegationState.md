@@ -26,8 +26,5 @@ Returns an  **[OlTaskDelegationState](Outlook.OlTaskDelegationState.md)** consta
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

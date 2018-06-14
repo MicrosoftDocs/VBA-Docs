@@ -37,8 +37,5 @@ Returns the hyperbolic cotangent of a number
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

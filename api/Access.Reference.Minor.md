@@ -49,8 +49,5 @@ MsgBox "Current References: " &; vbCrLf &; strInfo
 ## See also
 
 
-#### Concepts
-
-
 [Reference Object](Access.Reference.md)
 

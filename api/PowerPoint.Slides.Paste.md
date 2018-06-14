@@ -63,8 +63,5 @@ ActivePresentation.Slides.Paste 4
 ## See also
 
 
-#### Concepts
-
-
 [Slides Object](PowerPoint.Slides.md)
 

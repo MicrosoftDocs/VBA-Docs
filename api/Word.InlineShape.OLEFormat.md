@@ -26,8 +26,5 @@ Returns an  **OLEFormat** object that represents the OLE characteristics (other 
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

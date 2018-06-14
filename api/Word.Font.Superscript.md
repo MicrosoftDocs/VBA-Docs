@@ -58,8 +58,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

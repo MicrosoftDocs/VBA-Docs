@@ -26,8 +26,5 @@ Deletes the specified frame.
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

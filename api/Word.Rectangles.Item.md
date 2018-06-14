@@ -36,8 +36,5 @@ Rectangle
 ## See also
 
 
-#### Concepts
-
-
 [Rectangles Collection](Word.Rectangles.md)
 

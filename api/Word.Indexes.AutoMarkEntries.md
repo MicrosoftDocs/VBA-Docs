@@ -50,8 +50,5 @@ Documents("Thesis.doc").Indexes.AutoMarkEntries _
 ## See also
 
 
-#### Concepts
-
-
 [Indexes Collection Object](Word.indexes.md)
 

@@ -41,8 +41,5 @@ ThisWorkbook.WebOptions.RelyOnCSS = True
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

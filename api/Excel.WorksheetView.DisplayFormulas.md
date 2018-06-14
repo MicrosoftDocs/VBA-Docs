@@ -26,8 +26,5 @@ Returns or sets if formulas should be displayed or hidden in the current workshe
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetView Object](Excel.WorksheetView.md)
 

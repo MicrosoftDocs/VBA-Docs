@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Word
 ## See also
 
 
-#### Concepts
-
-
 [Words Collection Object](Word.words.md)
 

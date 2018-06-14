@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [XmlSchemas Object](Excel.XmlSchemas.md)
 

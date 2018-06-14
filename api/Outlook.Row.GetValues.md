@@ -40,8 +40,5 @@ Values returned in the array are of the same type as the values in the parent  *
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Outlook.Row.md)
 

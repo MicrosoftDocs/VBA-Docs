@@ -41,8 +41,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](Word.ChartTitle.md)
 

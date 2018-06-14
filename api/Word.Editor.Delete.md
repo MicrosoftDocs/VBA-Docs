@@ -26,8 +26,5 @@ Deletes the specified  **Editor** object.
 ## See also
 
 
-#### Concepts
-
-
 [Editor Object](Word.Editor.md)
 

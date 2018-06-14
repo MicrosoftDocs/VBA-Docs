@@ -26,8 +26,5 @@ Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant whi
 ## See also
 
 
-#### Concepts
-
-
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 

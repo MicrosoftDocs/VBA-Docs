@@ -36,8 +36,5 @@ Msgbox Selection.Document.FullName
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

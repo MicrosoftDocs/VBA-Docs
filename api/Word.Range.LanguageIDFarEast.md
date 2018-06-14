@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).Range.LanguageIDFarEast = wdKorean
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

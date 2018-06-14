@@ -54,8 +54,5 @@ Documents("Form.doc").FormFields(intMax).ExitMacro = "Blue"
 ## See also
 
 
-#### Concepts
-
-
 [FormField Object](Word.FormField.md)
 

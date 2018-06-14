@@ -41,8 +41,5 @@ Application.MailMessage.DisplaySelectNamesDialog
 ## See also
 
 
-#### Concepts
-
-
 [MailMessage Object](Word.MailMessage.md)
 

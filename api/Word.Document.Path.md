@@ -54,8 +54,5 @@ ChDir ActiveDocument.AttachedTemplate.Path
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

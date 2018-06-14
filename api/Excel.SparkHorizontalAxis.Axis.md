@@ -26,8 +26,5 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that specifies the color
 ## See also
 
 
-#### Concepts
-
-
 [SparkHorizontalAxis Object](Excel.SparkHorizontalAxis.md)
 

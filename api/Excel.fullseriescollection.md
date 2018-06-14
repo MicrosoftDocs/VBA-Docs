@@ -51,9 +51,6 @@ MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 ## See also
 
 
-#### Concepts
-
-
 [SeriesCollection](seriescollection-object-excel.md)
 #### Other resources
 

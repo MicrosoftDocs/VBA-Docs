@@ -35,8 +35,5 @@ If the item is in an inspector, the value of the  **Parent** property is the sam
 ## See also
 
 
-#### Concepts
-
-
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 

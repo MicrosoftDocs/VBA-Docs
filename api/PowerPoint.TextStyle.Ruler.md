@@ -44,8 +44,5 @@ myDocument.Shapes(2).TextFrame.Ruler.TabStops _
 ## See also
 
 
-#### Concepts
-
-
 [TextStyle Object](PowerPoint.TextStyle.md)
 

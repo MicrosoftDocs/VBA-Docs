@@ -31,8 +31,5 @@ You can assign an array with one string or multiple strings for evaluation. Mult
 ## See also
 
 
-#### Concepts
-
-
 [TextRuleCondition Object](Outlook.TextRuleCondition.md)
 

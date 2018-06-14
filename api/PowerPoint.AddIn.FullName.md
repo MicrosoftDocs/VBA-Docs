@@ -59,8 +59,5 @@ MsgBox Application.ActivePresentation.FullName
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](PowerPoint.AddIn.md)
 

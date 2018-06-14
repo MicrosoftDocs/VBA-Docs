@@ -75,8 +75,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [HeaderFooter Object](PowerPoint.HeaderFooter.md)
 

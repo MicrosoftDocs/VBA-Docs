@@ -24,8 +24,5 @@ Returns an  **Object** that represents the parent object of the specified **Subd
 ## See also
 
 
-#### Concepts
-
-
 [Subdocuments Collection Object](Word.subdocuments.md)
 

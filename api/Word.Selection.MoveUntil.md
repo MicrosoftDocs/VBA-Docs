@@ -51,8 +51,5 @@ MsgBox x-1 &; " character positions were moved"
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

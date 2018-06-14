@@ -82,8 +82,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Access.CheckBox.md)
 

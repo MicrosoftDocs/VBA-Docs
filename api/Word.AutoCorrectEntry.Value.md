@@ -42,8 +42,5 @@ MsgBox AutoCorrect.Entries("i.e.").Value
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 

@@ -65,8 +65,5 @@ ActiveDocument.Indexes.Add Range:=MyRange, Type:=wdIndexRunin
 ## See also
 
 
-#### Concepts
-
-
 [Indexes Collection Object](Word.indexes.md)
 

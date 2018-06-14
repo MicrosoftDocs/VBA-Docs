@@ -42,8 +42,5 @@ ActiveWorkbook.Names.Add Name:="myName", RefersToR1C1:= _
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

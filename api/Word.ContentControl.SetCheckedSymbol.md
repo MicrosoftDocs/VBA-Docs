@@ -49,8 +49,5 @@ objCC.SetCheckedSymbol CharacterNumber:=&;H2612, Font:="MS Gothic"
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

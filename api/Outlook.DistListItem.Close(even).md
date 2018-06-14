@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.DistListItem.Close(method).md)** method to fir
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

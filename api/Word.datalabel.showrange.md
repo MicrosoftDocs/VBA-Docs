@@ -43,8 +43,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [DataLabel Object](Word.DataLabel.md)
 

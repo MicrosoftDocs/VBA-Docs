@@ -23,8 +23,5 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 

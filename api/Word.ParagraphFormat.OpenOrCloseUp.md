@@ -41,8 +41,5 @@ Selection.ParagraphFormat.OpenOrCloseUp
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

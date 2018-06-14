@@ -41,8 +41,5 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.Copy
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

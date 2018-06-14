@@ -26,8 +26,5 @@ Returns or sets a  **Double** value that represents the height, in points, of th
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](Excel.ChartArea(objec).md)
 

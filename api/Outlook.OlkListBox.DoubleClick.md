@@ -26,8 +26,5 @@ Occurs when the user double-clicks inside the control.
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

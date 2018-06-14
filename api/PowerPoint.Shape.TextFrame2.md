@@ -38,8 +38,5 @@ Use the  **[HasTextFrame](PowerPoint.Shape.HasTextFrame.md)** property to determ
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

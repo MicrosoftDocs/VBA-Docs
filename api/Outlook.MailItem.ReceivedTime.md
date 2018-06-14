@@ -26,8 +26,5 @@ Returns a  **Date** indicating the date and time at which the item was received.
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

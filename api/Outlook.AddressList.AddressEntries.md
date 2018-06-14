@@ -26,8 +26,5 @@ Returns the  **[AddressEntries](Outlook.AddressEntries.md)** collection for the 
 ## See also
 
 
-#### Concepts
-
-
 [AddressList Object](Outlook.AddressList.md)
 

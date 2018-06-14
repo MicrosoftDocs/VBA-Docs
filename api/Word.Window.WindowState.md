@@ -44,8 +44,5 @@ If ActiveDocument.ActiveWindow _
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

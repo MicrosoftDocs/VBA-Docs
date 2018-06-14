@@ -26,8 +26,5 @@ Gets or sets how the specified button's caption is arranged in relation to its p
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

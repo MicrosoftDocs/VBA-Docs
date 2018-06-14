@@ -35,8 +35,5 @@ The  **ShowFullConversations** property is analogous to selecting **Show Message
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

@@ -39,8 +39,5 @@ HangulAndAlphabetException
 ## See also
 
 
-#### Concepts
-
-
 [HangulAndAlphabetExceptions Collection Object](Word.hangulandalphabetexceptions.md)
 

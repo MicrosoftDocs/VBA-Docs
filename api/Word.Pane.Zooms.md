@@ -55,8 +55,5 @@ ActiveDocument.ActiveWindow.Panes(1).Zooms(wdPrintView).PageFit = _
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

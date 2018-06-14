@@ -37,8 +37,5 @@ MsgBox "The path separator character is " & _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

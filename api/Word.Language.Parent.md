@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Lang
 ## See also
 
 
-#### Concepts
-
-
 [Language Object](Word.Language.md)
 

@@ -31,8 +31,5 @@ Use the  **[Refreshing](Excel.OLEDBConnection.Refreshing.md)** property to deter
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

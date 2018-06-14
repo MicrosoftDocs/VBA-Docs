@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** indicating whether personal information about the
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

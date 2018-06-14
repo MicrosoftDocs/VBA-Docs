@@ -31,8 +31,5 @@ Returns the number of objects in the collection. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [SlicerItems Object](Excel.SlicerItems.md)
 

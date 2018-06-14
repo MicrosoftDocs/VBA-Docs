@@ -52,8 +52,5 @@ Application.ActivePresentation.PageSetup.NotesOrientation = msoOrientationHorizo
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](PowerPoint.PageSetup.md)
 

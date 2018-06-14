@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Brea
 ## See also
 
 
-#### Concepts
-
-
 [Breaks Collection](Word.Breaks.md)
 

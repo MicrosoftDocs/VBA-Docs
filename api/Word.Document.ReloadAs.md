@@ -44,8 +44,5 @@ ActiveDocument.ReloadAs msoEncodingCyrillic
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

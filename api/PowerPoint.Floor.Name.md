@@ -23,8 +23,5 @@ Returns the name of the object. Read-only  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [Floor Object](PowerPoint.Floor.md)
 

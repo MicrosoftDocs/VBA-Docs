@@ -56,8 +56,5 @@ pvts.RemovePivotTable("PivotTable1")
 ## See also
 
 
-#### Concepts
-
-
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 

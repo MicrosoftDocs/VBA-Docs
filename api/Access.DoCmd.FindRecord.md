@@ -57,8 +57,5 @@ DoCmd.FindRecord "Smith",, True,, True
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

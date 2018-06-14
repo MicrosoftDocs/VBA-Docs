@@ -26,8 +26,5 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 ## See also
 
 
-#### Concepts
-
-
 [ReportItem Object](Outlook.ReportItem.md)
 

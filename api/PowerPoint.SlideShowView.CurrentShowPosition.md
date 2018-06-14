@@ -46,8 +46,5 @@ lastSlideSeen = SlideShowWindows(1).View.CurrentShowPosition
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

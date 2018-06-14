@@ -26,8 +26,5 @@ Gets or sets whether all records are displayed when the subform's master field i
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

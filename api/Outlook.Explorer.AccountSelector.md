@@ -26,8 +26,5 @@ Returns an  **[AccountSelector](Outlook.AccountSelector.md)** object that repres
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

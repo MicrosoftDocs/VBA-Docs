@@ -61,8 +61,5 @@ Documents.Save NoPrompt:=True, _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

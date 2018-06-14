@@ -46,8 +46,5 @@ objCC.Checked = true
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

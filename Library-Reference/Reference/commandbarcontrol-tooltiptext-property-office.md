@@ -53,9 +53,6 @@ lastCtrl.TooltipText = "Click for help on UI feature"
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControl Object](commandbarcontrol-object-office.md)
 #### Other resources
 

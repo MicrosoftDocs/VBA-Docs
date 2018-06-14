@@ -36,8 +36,5 @@ This property returns one of the following  **[MsoColorType](http://msdn.microso
 ## See also
 
 
-#### Concepts
-
-
 [ChartColorFormat Object](Word.ChartColorFormat.md)
 

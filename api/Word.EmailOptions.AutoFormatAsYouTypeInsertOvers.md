@@ -36,8 +36,5 @@ Options.AutoFormatAsYouTypeInsertOvers = True
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

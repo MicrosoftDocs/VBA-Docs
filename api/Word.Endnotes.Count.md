@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of endnotes in the collection. Re
 ## See also
 
 
-#### Concepts
-
-
 [Endnotes Collection Object](Word.endnotes.md)
 

@@ -62,9 +62,6 @@ Set cxn = cxp1(1).SelectSingleNode("//*[@supplierID = 1]")
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLParts Object](customxmlparts-object-office.md)
 #### Other resources
 

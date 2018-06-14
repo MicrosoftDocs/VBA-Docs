@@ -40,8 +40,5 @@ FindKey(BuildKeyCode(wdKeyControl, wdKeyShift, wdKeyC)).Execute
 ## See also
 
 
-#### Concepts
-
-
 [KeyBinding Object](Word.KeyBinding.md)
 

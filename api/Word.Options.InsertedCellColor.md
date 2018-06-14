@@ -26,8 +26,5 @@ Returns or sets a  **WdCellColor** constant that represents the color for an ins
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

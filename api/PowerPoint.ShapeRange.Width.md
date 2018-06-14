@@ -76,8 +76,5 @@ ActivePresentation.Slides(2).Shapes(5).Table.Columns(1).Width = 80
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

@@ -31,8 +31,5 @@ This property supports both Exchange and non-Exchange stores. If the store is no
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

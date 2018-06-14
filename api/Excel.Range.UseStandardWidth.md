@@ -36,8 +36,5 @@ Worksheets("Sheet1").Columns("A").UseStandardWidth = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

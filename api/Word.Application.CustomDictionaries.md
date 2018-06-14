@@ -65,8 +65,5 @@ Next dicLoop
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

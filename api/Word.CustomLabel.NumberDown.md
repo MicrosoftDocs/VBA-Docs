@@ -45,8 +45,5 @@ MsgBox Prompt:= "Number of labels across " &; numAcr &; vbCr _
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabel Object](Word.CustomLabel.md)
 

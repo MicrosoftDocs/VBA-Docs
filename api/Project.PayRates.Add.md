@@ -39,7 +39,4 @@ Adds a  **PayRate** object to a **PayRates** collection.
 ## See also
 
 
-#### Concepts
-
-
 [PayRates Collection Object](Project.payrates.md)

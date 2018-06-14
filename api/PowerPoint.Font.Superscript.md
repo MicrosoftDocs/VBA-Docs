@@ -69,9 +69,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 [Font Object](PowerPoint.Font.md)
 

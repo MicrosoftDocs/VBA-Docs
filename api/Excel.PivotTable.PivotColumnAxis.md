@@ -26,8 +26,5 @@ Returns a  **PivotAxis** object representing the entire column axis. Read-only *
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

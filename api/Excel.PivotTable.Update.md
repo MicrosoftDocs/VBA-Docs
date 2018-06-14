@@ -26,8 +26,5 @@ Updates the PivotTable report.
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

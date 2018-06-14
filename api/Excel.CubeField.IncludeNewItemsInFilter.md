@@ -37,8 +37,5 @@ When  **IncludeNewItemsInFilter** is set to **True** , the **VisibleItemsList** 
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

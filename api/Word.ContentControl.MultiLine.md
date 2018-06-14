@@ -31,8 +31,5 @@ This property applies only to text content controls and rich text content contro
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

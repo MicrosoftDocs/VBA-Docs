@@ -26,8 +26,5 @@ Returns or sets if the header information should be displayed for the specified 
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

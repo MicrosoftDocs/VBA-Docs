@@ -26,8 +26,5 @@ Deletes the specified  **Hyperlink** object.
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 

@@ -39,8 +39,5 @@ The  **SelHeight** and **SelWidth** properties contain the position of the lower
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

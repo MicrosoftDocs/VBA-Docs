@@ -26,8 +26,5 @@ Returns or sets a  **String** value representing the name of the object.
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Excel.Trendline(objec).md)
 

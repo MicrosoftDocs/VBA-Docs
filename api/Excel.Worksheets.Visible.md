@@ -26,8 +26,5 @@ Returns or sets a  **Variant** value that determines whether the object is visib
 ## See also
 
 
-#### Concepts
-
-
 [Worksheets Object](Excel.Worksheets.md)
 

@@ -55,8 +55,5 @@ MsgBox ActiveDocument.Shapes(1).Fill.ForeColor.RGB
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Word.ColorFormat.md)
 

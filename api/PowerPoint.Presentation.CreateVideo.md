@@ -39,8 +39,5 @@ Creates a video in a  **Presentation** object.
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

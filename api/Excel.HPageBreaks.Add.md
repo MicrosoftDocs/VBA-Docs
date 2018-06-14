@@ -52,8 +52,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [HPageBreaks Object](Excel.HPageBreaks.md)
 

@@ -59,8 +59,5 @@ Given a value for probability, Beta_Inv seeks that value x such that Beta_Dist(x
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

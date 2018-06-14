@@ -43,8 +43,5 @@ Next borderLoop
 ## See also
 
 
-#### Concepts
-
-
 [Border Object](Word.Border.md)
 

@@ -26,8 +26,5 @@ Returns or sets the page name for a CubeField. Read/write  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

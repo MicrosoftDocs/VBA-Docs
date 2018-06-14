@@ -26,8 +26,5 @@ Returns a  **[FillFormat](Word.FillFormat.md)** object that contains fill format
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

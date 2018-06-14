@@ -47,8 +47,5 @@ ActivePresentation.Slides(1).SlideShowTransition.SoundEffect _
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

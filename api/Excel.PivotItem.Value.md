@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the name of the specified it
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

@@ -71,9 +71,6 @@ The following example attempts to resolve a conflict by merging changes between 
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

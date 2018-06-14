@@ -57,8 +57,5 @@ MsgBox KeyString(KeyCode:=BuildKeyCode(wdKeyControl, _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

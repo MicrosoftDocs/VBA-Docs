@@ -26,8 +26,5 @@ Returns or sets the property with a constant in the  **[OlWindowState](Outlook.O
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

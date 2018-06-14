@@ -26,8 +26,5 @@ Returns the type of layout for the specified check box. Read-only  **[AcLayoutTy
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Access.CheckBox.md)
 

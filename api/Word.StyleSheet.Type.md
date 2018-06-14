@@ -26,8 +26,5 @@ Returns or sets the style sheet type. Read/write  **[WdStyleSheetLinkType](Word.
 ## See also
 
 
-#### Concepts
-
-
 [StyleSheet Object](Word.StyleSheet.md)
 

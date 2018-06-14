@@ -26,8 +26,5 @@ Deletes the specified inline shape.
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

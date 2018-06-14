@@ -52,8 +52,5 @@ ActiveDocument.SetLetterContent LetterContent:=lcTemp
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

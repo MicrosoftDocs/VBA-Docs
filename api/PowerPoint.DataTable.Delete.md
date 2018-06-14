@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](PowerPoint.DataTable.md)
 

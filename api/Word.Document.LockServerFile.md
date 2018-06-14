@@ -31,8 +31,5 @@ This method applies only to documents stored on a server running Microsoft Offic
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

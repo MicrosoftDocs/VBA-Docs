@@ -33,8 +33,5 @@ Rule names are not unique among rules in the same collection.
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

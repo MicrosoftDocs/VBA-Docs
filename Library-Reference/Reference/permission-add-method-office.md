@@ -55,9 +55,6 @@ The following example assigns a combination of read and edit permissions on the 
 ## See also
 
 
-#### Concepts
-
-
 [Permission Object](permission-object-office.md)
 #### Other resources
 

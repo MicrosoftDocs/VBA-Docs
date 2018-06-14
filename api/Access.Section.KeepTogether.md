@@ -43,8 +43,5 @@ If the  **KeepTogether** property for a group is set to Whole Group or With Firs
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

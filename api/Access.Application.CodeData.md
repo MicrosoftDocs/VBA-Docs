@@ -31,8 +31,5 @@ Use the  **CodeData** property to refer to one of the following code database co
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

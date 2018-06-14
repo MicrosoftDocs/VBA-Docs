@@ -29,8 +29,5 @@ Returns of sets the join style for the specified line. Read-write.
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

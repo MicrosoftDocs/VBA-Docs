@@ -26,8 +26,5 @@ Returns the nesting level of the specified HTML DIV elements. Read-only  **Long*
 ## See also
 
 
-#### Concepts
-
-
 [HTMLDivisions Collection](Word.HTMLDivisions.md)
 

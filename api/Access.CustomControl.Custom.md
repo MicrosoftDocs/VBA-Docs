@@ -37,8 +37,5 @@ You can also view the custom properties dialog box by clicking the  **Properties
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

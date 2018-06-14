@@ -55,8 +55,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Design Object](PowerPoint.Design.md)
 

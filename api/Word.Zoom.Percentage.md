@@ -49,8 +49,5 @@ myZoom.Percentage = myZoom.Percentage + 10
 ## See also
 
 
-#### Concepts
-
-
 [Zoom Object](Word.Zoom.md)
 

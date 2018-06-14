@@ -26,8 +26,5 @@ Returns or sets an  **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant 
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](PowerPoint.TickLabels.md)
 

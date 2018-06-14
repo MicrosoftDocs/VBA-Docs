@@ -42,8 +42,5 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

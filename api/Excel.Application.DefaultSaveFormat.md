@@ -36,8 +36,5 @@ Application.DefaultSaveFormat = xlExcel4Workbook
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

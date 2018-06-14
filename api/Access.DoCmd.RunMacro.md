@@ -55,8 +55,5 @@ DoCmd.RunMacro "Print Sales", 2
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

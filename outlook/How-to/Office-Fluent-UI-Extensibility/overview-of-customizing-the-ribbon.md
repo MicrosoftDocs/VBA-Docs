@@ -19,9 +19,6 @@ For a detailed discussion of the ribbon and ribbon extensibility, see  [Overview
 ## See also
 
 
-#### Concepts
-
-
  [Detecting Errors](detecting-errors.md)<br>
  [Updating Earlier Code for CommandBars](updating-earlier-code-for-commandbars.md)<br>
  [Overview of the IRibbonUI Object](overview-of-the-iribbonui-object.md)<br>

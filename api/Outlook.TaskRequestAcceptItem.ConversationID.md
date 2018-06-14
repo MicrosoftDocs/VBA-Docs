@@ -35,8 +35,5 @@ If the  **TaskRequestAcceptItem** object is created in a version of Microsoft Ou
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

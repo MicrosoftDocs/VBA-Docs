@@ -47,8 +47,5 @@ SlideShowWindows(1).View.DrawLine 5, 5, 250, 250
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

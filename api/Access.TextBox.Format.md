@@ -107,8 +107,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

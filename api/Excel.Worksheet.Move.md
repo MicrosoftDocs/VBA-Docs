@@ -51,8 +51,5 @@ Worksheets("Sheet1").Move _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

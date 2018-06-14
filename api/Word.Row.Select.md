@@ -41,8 +41,5 @@ Documents("Report.doc").Tables(1).Rows(1).Select
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

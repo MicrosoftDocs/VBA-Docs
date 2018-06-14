@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Mapp
 ## See also
 
 
-#### Concepts
-
-
 [MappedDataField Object](Word.MappedDataField.md)
 

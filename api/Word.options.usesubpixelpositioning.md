@@ -34,8 +34,5 @@ The  **UseSubPixelPositioning** value is **True** if sub-pixel positioning is en
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

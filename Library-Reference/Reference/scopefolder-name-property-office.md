@@ -53,9 +53,6 @@ Dim sf As ScopeFolder
 ## See also
 
 
-#### Concepts
-
-
 [ScopeFolder Object](scopefolder-object-office.md)
 #### Other resources
 

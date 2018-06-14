@@ -37,8 +37,5 @@ The  **TopGridlineWidth** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

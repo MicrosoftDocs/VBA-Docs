@@ -26,8 +26,5 @@ Returns a  **Boolean** value that indicates **True** if the form will be discard
 ## See also
 
 
-#### Concepts
-
-
 [FormDescription Object](Outlook.FormDescription.md)
 

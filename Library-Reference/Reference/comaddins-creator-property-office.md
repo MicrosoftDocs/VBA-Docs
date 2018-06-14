@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [COMAddIns Object](comaddins-object-office.md)
 #### Other resources
 

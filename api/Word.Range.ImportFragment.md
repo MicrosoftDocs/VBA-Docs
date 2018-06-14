@@ -45,8 +45,5 @@ This method replaces the contents of a range. To stop this from occurring, use t
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

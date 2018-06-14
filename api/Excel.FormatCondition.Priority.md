@@ -31,8 +31,5 @@ When setting the priority, the value must be a positive integer between 1 and th
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Excel.FormatCondition.md)
 

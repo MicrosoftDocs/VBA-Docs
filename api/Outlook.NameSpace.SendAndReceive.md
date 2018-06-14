@@ -45,8 +45,5 @@ All accounts defined in the current profile are used in  **Send/Receive All**. I
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

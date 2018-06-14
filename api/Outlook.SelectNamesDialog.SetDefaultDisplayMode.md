@@ -43,8 +43,5 @@ You can set additional properties (for example, setting  **[NumberOfRecipientSel
 ## See also
 
 
-#### Concepts
-
-
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

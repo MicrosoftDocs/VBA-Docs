@@ -26,8 +26,5 @@ Returns a  **ShadowFormat** object that represents the shadow formatting for the
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

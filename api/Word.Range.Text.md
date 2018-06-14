@@ -42,8 +42,5 @@ myRange.Text = "Dear "
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -61,8 +61,5 @@ Forms("Order Entry").Controls("Customer Photo").PictureType = 1
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

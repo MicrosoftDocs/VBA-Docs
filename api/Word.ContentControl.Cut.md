@@ -31,8 +31,5 @@ Use the  **Paste** method of the **[Selection](Word.Selection.md)** object or th
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

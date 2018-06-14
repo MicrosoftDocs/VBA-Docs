@@ -36,8 +36,5 @@ The  **SlicerItems** property of the **SlicerCache** object is only applicable f
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

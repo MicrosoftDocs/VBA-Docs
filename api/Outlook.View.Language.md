@@ -33,8 +33,5 @@ If a valid language code is specified, the object will only be available in the 
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Outlook.View.md)
 

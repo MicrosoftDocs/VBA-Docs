@@ -36,8 +36,5 @@ Charts("Chart1").Walls.Border.ColorIndex = 3
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

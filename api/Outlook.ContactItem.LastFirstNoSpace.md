@@ -31,8 +31,5 @@ This property is parsed from the  **[LastName](Outlook.ContactItem.LastName.md)*
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

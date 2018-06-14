@@ -79,8 +79,5 @@ Application.AddIns("mytools").AutoLoad = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](PowerPoint.AddIn.md)
 

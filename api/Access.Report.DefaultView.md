@@ -37,8 +37,5 @@ The  **DefaultView** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

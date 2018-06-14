@@ -41,8 +41,5 @@ Documents("Sales.doc").Fields(1).Unlink
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

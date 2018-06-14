@@ -43,8 +43,5 @@ Msgbox myText
 ## See also
 
 
-#### Concepts
-
-
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 

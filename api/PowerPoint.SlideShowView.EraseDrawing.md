@@ -34,8 +34,5 @@ SlideShowWindows(1).View.EraseDrawing
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

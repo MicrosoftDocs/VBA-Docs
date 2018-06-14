@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PublishObjects Object](PowerPoint.PublishObjects.md)
 

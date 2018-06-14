@@ -71,8 +71,5 @@ Selection.EndKey Unit:=wdStory, Extend:=wdMove
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

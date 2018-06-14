@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that indicates whether the subject informat
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

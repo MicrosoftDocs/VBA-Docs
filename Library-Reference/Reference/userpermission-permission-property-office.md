@@ -69,9 +69,6 @@ The following example uses the bitwise  **And** operator with the **Permission**
 ## See also
 
 
-#### Concepts
-
-
 [UserPermission Object](userpermission-object-office.md)
 #### Other resources
 

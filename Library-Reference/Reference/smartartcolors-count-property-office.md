@@ -23,9 +23,6 @@ Retrieves the count of the number of  **SmartArtColor** objects contained within
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtColors Object](smartartcolors-object-office.md)
 #### Other resources
 

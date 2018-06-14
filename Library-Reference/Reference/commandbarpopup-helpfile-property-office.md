@@ -39,9 +39,6 @@ To use this property, you must also set the HelpContextID property. Help topics 
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarPopup Object](commandbarpopup-object-office.md)
 #### Other resources
 

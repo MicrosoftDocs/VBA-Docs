@@ -54,8 +54,5 @@ Worksheets("sheet1").OLEObjects.Item(1).Delete
 ## See also
 
 
-#### Concepts
-
-
 [OLEObjects Object](Excel.OLEObjects.md)
 

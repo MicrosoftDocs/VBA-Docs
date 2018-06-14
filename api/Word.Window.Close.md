@@ -45,8 +45,5 @@ ActiveDocument.ActiveWindow.Close SaveChanges:=wdSaveChanges
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

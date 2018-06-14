@@ -40,8 +40,5 @@ Shortcut menus aren't available to any object if the  **AllowShortcutMenus** pro
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

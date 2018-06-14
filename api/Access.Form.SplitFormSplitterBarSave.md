@@ -26,8 +26,5 @@ Gets or sets whether the location of the splitter bar is saved when a form that'
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

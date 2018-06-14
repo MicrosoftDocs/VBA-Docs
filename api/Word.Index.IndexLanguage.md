@@ -42,8 +42,5 @@ ActiveDocument.Indexes(1).IndexLanguage = _
 ## See also
 
 
-#### Concepts
-
-
 [Index Object](Word.Index.md)
 

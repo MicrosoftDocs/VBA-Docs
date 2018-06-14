@@ -47,8 +47,5 @@ Sheets(x).FillAcrossSheets _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheets Object](Excel.Worksheets.md)
 

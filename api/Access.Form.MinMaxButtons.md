@@ -60,8 +60,5 @@ b = Forms("Order Entry").MinMaxButtons
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

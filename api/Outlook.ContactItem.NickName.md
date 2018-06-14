@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the nickname for the contact. Read/wr
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

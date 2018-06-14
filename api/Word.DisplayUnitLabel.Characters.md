@@ -40,8 +40,5 @@ The  **ChartCharacters** object is not a collection.
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 

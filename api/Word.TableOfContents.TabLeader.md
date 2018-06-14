@@ -38,8 +38,5 @@ Next aTOC
 ## See also
 
 
-#### Concepts
-
-
 [TableOfContents Object](Word.TableOfContents.md)
 

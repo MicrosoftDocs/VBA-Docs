@@ -33,8 +33,5 @@ This property is read-only if the  **SharingItem** is a received item, or if the
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

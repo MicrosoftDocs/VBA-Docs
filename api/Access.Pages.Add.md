@@ -75,8 +75,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [Pages Collection](Access.Pages.md)
 

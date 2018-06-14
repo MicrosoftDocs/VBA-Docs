@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Proo
 ## See also
 
 
-#### Concepts
-
-
 [ProofreadingErrors Collection Object](Word.proofreadingerrors.md)
 

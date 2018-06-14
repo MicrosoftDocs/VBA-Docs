@@ -31,8 +31,5 @@ For more information on the rule actions supported for programmatic rule creatio
 ## See also
 
 
-#### Concepts
-
-
 [RuleAction Object](Outlook.RuleAction.md)
 

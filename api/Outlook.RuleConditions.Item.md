@@ -44,8 +44,5 @@ The  **RuleConditions** collection object is a fixed collection. It contains **R
 ## See also
 
 
-#### Concepts
-
-
 [RuleConditions Object](Outlook.RuleConditions.md)
 

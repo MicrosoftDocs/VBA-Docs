@@ -41,8 +41,5 @@ Selection.ShapeRange.Shadow.Type = msoShadow6
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

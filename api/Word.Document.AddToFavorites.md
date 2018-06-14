@@ -52,8 +52,5 @@ Documents("Sales.doc").AddToFavorites
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

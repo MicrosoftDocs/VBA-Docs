@@ -48,8 +48,5 @@ MsgBox "Print_Area: " &; UBound(p, 1) &; " rows, " &; _
 ## See also
 
 
-#### Concepts
-
-
 [Name Object](Excel.Name.md)
 

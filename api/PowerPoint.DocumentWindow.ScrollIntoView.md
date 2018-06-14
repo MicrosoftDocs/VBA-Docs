@@ -62,9 +62,6 @@ ActiveWindow.ScrollIntoView Left:=50, Top:=20, _
 ## See also
 
 
-#### Concepts
-
-
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
 

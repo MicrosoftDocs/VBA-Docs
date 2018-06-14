@@ -40,8 +40,5 @@ docActive.Shapes(1).PictureFormat.Contrast = 0.8
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Word.PictureFormat.md)
 

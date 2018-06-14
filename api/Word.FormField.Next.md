@@ -26,8 +26,5 @@ Returns the next form field in the collection. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [FormField Object](Word.FormField.md)
 

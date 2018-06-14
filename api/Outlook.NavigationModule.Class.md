@@ -31,8 +31,5 @@ This property returns  **olNavigationModule** for the **[NavigationModule](Outlo
 ## See also
 
 
-#### Concepts
-
-
 [NavigationModule Object](Outlook.NavigationModule.md)
 

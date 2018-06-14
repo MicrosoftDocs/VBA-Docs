@@ -54,8 +54,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
  [BorderArt Object](Publisher.BorderArt.md)
 

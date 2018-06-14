@@ -26,8 +26,5 @@ Returns a  **String** value that represents the display name for the object. Rea
 ## See also
 
 
-#### Concepts
-
-
 [AddressList Object](Outlook.AddressList.md)
 

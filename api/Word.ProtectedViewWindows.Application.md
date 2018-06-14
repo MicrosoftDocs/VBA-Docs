@@ -26,8 +26,5 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindows Object](Word.ProtectedViewWindows.md)
 

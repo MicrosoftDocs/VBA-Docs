@@ -31,8 +31,5 @@ If  **DisplayContextTooltips** is set to **False** , contextual tooltips for Piv
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

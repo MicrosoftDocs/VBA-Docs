@@ -61,8 +61,5 @@ MsgBox styleBase
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

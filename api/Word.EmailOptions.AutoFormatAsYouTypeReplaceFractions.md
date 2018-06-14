@@ -47,8 +47,5 @@ blnAutoFormat = Options.AutoFormatAsYouTypeReplaceFractions
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

@@ -80,8 +80,5 @@ The following table describes the values that can be used for  _Arg5_ .
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

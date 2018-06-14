@@ -26,8 +26,5 @@ Returns a  **Range** object that represents the last sentence in a document, sel
 ## See also
 
 
-#### Concepts
-
-
 [Sentences Collection Object](Word.sentences.md)
 

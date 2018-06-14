@@ -50,8 +50,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [MailMerge Object](Word.MailMerge.md)
 

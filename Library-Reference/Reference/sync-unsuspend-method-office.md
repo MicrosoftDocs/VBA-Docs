@@ -54,9 +54,6 @@ The following example resumes document synchronization if it has been suspended.
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

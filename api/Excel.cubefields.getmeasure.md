@@ -60,8 +60,5 @@ Given an attribute hierarchy, returns an implicit measure for the given function
 ## See also
 
 
-#### Concepts
-
-
 [CubeFields Object](Excel.CubeFields.md)
 

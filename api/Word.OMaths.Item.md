@@ -39,8 +39,5 @@ OMath
 ## See also
 
 
-#### Concepts
-
-
 [OMaths Object](Word.OMaths.md)
 

@@ -33,8 +33,5 @@ If the  **Location** property is not equal to **olViewList** , calling **GetSele
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Outlook.Selection.md)
 

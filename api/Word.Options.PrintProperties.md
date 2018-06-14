@@ -51,8 +51,5 @@ temp = Options.PrintProperties
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

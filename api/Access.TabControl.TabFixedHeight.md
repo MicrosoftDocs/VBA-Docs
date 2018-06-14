@@ -50,8 +50,5 @@ Forms("Mailing List").Controls("TabCtl1").TabFixedWidth = 500
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

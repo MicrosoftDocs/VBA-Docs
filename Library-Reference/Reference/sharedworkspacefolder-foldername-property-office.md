@@ -56,9 +56,6 @@ The following example displays the number of subfolders in the shared workspace 
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFolder Object](sharedworkspacefolder-object-office.md)
 #### Other resources
 

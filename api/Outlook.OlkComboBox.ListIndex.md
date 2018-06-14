@@ -31,8 +31,5 @@ Reurns or sets a  **Long** that indicates the location of the currently selected
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

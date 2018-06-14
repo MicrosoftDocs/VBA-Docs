@@ -89,7 +89,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [PayRates Collection Object](Project.payrates.md)

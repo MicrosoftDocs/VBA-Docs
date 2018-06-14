@@ -48,8 +48,5 @@ ActiveWindow.ScrollColumn = hr.Column
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

@@ -35,8 +35,5 @@ The value specified by this property corresponds to the value shown in the recor
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -26,8 +26,5 @@ Returns an  **[OMathRad](Word.OMathRad.md)** object that represents the mathemat
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

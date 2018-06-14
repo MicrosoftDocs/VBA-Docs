@@ -26,8 +26,5 @@ Returns an  **[AutoCorrect](Access.AutoCorrect.md)** object that represents the 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

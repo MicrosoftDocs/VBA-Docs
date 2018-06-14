@@ -33,8 +33,5 @@ On a protected sheet, this property returns the next unlocked cell. On an unprot
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

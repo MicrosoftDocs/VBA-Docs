@@ -64,8 +64,5 @@ Selection.MoveStart Unit:=wdLine, Count:=-1
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

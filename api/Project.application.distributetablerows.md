@@ -27,9 +27,6 @@ Distributes the rows of a selected table in a report, so that all rows are the s
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 #### Other resources
 

@@ -39,8 +39,5 @@ The encryption provider mechanism manages each file on a separate process, so ea
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

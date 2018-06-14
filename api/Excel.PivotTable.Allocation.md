@@ -36,8 +36,5 @@ The  **Allocation** property corresponds to the **Calculate with changes** setti
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

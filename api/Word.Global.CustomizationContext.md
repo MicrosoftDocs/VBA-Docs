@@ -56,8 +56,5 @@ Application.CommandBars("Standard").Controls.Add _
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

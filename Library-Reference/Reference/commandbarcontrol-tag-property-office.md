@@ -79,9 +79,6 @@ MsgBox (CommandBars("Custom").Controls(1).Tag)
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControl Object](commandbarcontrol-object-office.md)
 #### Other resources
 

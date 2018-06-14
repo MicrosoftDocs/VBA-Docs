@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the other telephone number for the co
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

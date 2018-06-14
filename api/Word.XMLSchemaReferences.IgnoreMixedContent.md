@@ -42,8 +42,5 @@ ActiveDocument.XMLSchemaReferences _
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 

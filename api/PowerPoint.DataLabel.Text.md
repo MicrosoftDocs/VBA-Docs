@@ -23,8 +23,5 @@ Returns or sets the text for the specified object. Read/write  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [DataLabel Object](PowerPoint.DataLabel.md)
 

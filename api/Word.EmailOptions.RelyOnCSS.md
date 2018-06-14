@@ -43,8 +43,5 @@ Application.DefaultWebOptions.RelyOnCSS = True
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

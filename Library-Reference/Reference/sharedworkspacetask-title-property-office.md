@@ -58,9 +58,6 @@ The following example displays a list of the titles of all tasks in the current 
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)
 #### Other resources
 

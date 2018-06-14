@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Zoom
 ## See also
 
 
-#### Concepts
-
-
 [Zoom Object](Word.Zoom.md)
 

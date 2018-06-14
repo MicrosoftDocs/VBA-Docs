@@ -47,9 +47,6 @@ The following example checks the  **Connected** property to determine whether th
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspace Object](sharedworkspace-object-office.md)
 #### Other resources
 

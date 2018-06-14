@@ -57,8 +57,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](PowerPoint.Cell.md)
 

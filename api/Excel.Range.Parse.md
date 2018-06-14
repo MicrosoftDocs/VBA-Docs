@@ -57,8 +57,5 @@ Worksheets("Sheet1").Columns("A").Parse _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

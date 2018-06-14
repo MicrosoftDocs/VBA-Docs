@@ -26,8 +26,5 @@ Removes the specified  **[SortField](Excel.SortField.md)** object from the **[So
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

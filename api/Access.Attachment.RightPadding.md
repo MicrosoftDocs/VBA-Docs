@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the attachment and its righ
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

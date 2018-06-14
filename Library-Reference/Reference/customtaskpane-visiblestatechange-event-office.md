@@ -71,9 +71,6 @@ private void CTP_VisibleStateChange(object sender, string visiblestateArgs)
 ## See also
 
 
-#### Concepts
-
-
 [CustomTaskPane Object](customtaskpane-object-office.md)
 #### Other resources
 

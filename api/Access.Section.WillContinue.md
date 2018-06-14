@@ -41,8 +41,5 @@ MsgBox Reports("Product Summary").Section("PageHeaderSection").WillContinue
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

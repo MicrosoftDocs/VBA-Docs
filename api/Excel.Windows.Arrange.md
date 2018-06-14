@@ -64,8 +64,5 @@ Application.Windows.Arrange ArrangeStyle:=xlArrangeStyleTiled
 ## See also
 
 
-#### Concepts
-
-
 [Windows Object](Excel.Windows.md)
 

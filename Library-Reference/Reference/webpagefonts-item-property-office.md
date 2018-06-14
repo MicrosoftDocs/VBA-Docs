@@ -47,9 +47,6 @@ Set myFont = _
 ## See also
 
 
-#### Concepts
-
-
 [WebPageFonts Object](webpagefonts-object-office.md)
 #### Other resources
 

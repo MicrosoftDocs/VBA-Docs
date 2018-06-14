@@ -66,8 +66,5 @@ ActiveDocument.TablesOfAuthorities.Add Range:=myRange, _
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 

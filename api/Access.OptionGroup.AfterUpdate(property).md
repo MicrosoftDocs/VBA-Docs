@@ -42,8 +42,5 @@ Forms(0).AfterUpdate = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [OptionGroup Object](Access.OptionGroup.md)
 

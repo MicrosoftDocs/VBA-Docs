@@ -39,8 +39,5 @@ ListTemplate
 ## See also
 
 
-#### Concepts
-
-
 [ListTemplates Collection Object](Word.listtemplates.md)
 

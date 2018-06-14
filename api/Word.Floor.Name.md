@@ -26,8 +26,5 @@ Returns the name of the object. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [Floor Object](Word.Floor.md)
 

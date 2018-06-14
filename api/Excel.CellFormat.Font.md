@@ -54,8 +54,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CellFormat Object](Excel.CellFormat.md)
 

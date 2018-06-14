@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [WorkflowTasks Object](workflowtasks-object-office.md)
 #### Other resources
 

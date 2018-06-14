@@ -41,8 +41,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

@@ -31,8 +31,5 @@ The  **InheritValueList** property is effective only when the combo box is bound
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

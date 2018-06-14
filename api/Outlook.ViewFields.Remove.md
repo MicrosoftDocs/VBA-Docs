@@ -34,8 +34,5 @@ Removes an object from the collection.
 ## See also
 
 
-#### Concepts
-
-
 [ViewFields Object](Outlook.ViewFields.md)
 

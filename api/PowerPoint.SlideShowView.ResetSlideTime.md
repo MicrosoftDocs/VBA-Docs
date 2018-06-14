@@ -36,8 +36,5 @@ SlideShowWindows(1).View.ResetSlideTime
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

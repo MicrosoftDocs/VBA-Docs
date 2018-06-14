@@ -39,9 +39,6 @@ The description is not displayed to the user, but it can be useful for documenti
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

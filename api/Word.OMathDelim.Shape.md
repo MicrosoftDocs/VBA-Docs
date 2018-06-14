@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathShapeType](Word.WdOMathShapeType.md)** constant tha
 ## See also
 
 
-#### Concepts
-
-
 [OMathDelim Object](Word.OMathDelim.md)
 

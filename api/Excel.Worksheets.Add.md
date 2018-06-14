@@ -47,8 +47,5 @@ If  _Before_ and _After_ are both omitted, the new sheet is inserted before the 
 ## See also
 
 
-#### Concepts
-
-
 [Worksheets Object](Excel.Worksheets.md)
 

@@ -41,8 +41,5 @@ ActiveChart.HasLegend = True
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

@@ -39,8 +39,5 @@ Line
 ## See also
 
 
-#### Concepts
-
-
 [Lines Collection](Word.Lines.md)
 

@@ -23,8 +23,5 @@ Returns or sets the angle at which a  **ThreeDFormat** object can be viewed. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

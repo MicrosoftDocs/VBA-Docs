@@ -31,8 +31,5 @@ You can use this property with an OLE Automation object to return the applicatio
 ## See also
 
 
-#### Concepts
-
-
 [PivotAxis Object](Excel.PivotAxis.md)
 

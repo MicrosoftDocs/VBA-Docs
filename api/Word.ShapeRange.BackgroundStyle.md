@@ -26,8 +26,5 @@ Sets or returns the background style of the shapes in the specified shape range.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

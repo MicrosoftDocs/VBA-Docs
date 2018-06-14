@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [ThemeColor Object](themecolor-object-office.md)
 #### Other resources
 

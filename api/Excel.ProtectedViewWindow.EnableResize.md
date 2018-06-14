@@ -41,8 +41,5 @@ ActiveProtectedViewWindow.EnableResize = False
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 

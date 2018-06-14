@@ -39,8 +39,5 @@ BorderArt
 ## See also
 
 
-#### Concepts
-
-
  [BorderArts Object](Publisher.BorderArts.md)
 

@@ -60,8 +60,5 @@ ActivePresentation.SlideShowSettings.NamedSlideShows _
 ## See also
 
 
-#### Concepts
-
-
 [NamedSlideShow Object](PowerPoint.NamedSlideShow.md)
 

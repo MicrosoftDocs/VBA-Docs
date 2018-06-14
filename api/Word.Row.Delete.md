@@ -26,8 +26,5 @@ Deletes the specified table row.
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

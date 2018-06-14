@@ -59,8 +59,5 @@ ActiveDocument.Styles("Test").NameLocal = "Intro"
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

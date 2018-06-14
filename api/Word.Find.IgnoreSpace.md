@@ -31,8 +31,5 @@ This property corresponds to the  **Ignore white-space characters** check box in
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

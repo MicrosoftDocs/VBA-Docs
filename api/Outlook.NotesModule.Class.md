@@ -31,8 +31,5 @@ This property returns  **olNotesModule** for the **[NotesModule](Outlook.NotesMo
 ## See also
 
 
-#### Concepts
-
-
 [NotesModule Object](Outlook.NotesModule.md)
 

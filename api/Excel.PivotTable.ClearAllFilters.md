@@ -31,8 +31,5 @@ After calling the  **ClearAllFilters** method, the **PivotFilters** collection w
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

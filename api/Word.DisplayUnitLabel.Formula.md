@@ -36,8 +36,5 @@ For more information about A1-style notation, see[How to: Refer to Cells and Ran
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 

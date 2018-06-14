@@ -42,8 +42,5 @@ Range("A3").PivotTable.TableRange1.Select
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

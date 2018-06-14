@@ -44,8 +44,5 @@ MsgBox fcTemp.Description
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

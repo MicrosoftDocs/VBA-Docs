@@ -42,7 +42,4 @@ Adds a  **ViewCombination** object to a **ViewsCombination** collection.
 ## See also
 
 
-#### Concepts
-
-
 [ViewsCombination Collection Object](Project.viewscombination(object).md)

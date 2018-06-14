@@ -26,8 +26,5 @@ Returns a  **[PictureFormat](Word.PictureFormat.md)** object for a specified cha
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Word.ChartFormat.md)
 

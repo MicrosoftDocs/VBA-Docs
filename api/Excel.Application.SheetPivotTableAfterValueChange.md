@@ -46,8 +46,5 @@ The  **PivotTableAfterValueChange** event does not occur under any conditions ot
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

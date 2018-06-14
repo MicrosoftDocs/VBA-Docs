@@ -33,8 +33,5 @@ When you get the  **ID** property value at runtime, it is returned as an unsigne
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

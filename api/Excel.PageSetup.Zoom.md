@@ -45,8 +45,5 @@ Worksheets("Sheet1").PageSetup.Zoom = 150
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

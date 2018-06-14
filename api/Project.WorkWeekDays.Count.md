@@ -33,7 +33,4 @@ Debug.Print ActiveProject.Resources(1).Calendar.WorkWeeks(1).WeekDays.Count
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeekDays Collection Object](Project.workweekdays.md)

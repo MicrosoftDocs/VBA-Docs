@@ -31,8 +31,5 @@ This method is available only from outside Microsoft Word.
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

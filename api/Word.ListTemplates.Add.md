@@ -58,8 +58,5 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=myList
 ## See also
 
 
-#### Concepts
-
-
 [ListTemplates Collection Object](Word.listtemplates.md)
 

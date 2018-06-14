@@ -36,8 +36,5 @@ The default value is 1.
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

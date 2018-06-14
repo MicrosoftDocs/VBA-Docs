@@ -26,8 +26,5 @@ Returns the type of layout for the specified object frame. Read-only  **[AcLayou
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

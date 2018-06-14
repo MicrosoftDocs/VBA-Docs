@@ -59,8 +59,5 @@ Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Re
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

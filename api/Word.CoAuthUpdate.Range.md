@@ -39,8 +39,5 @@ Set rng = ActiveDocument.CoAuthoring.Updates(1).Range
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthUpdate Object](Word.CoAuthUpdate.md)
 

@@ -43,8 +43,5 @@ If objLine.LineType = wdTableRow Then _
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Word.Line.md)
 

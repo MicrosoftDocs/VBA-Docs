@@ -21,8 +21,5 @@ Returns a  **Long** that represents the number of editors of a co authored docum
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Visio.Document.md)
 

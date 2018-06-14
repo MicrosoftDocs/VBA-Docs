@@ -39,8 +39,5 @@ TableOfAuthorities
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 

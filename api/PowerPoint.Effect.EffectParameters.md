@@ -53,9 +53,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Effect Object](PowerPoint.Effect.md)
 
 

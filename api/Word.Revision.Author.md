@@ -39,8 +39,5 @@ MsgBox "Revisions made by " &; rngSection.Revisions(1).Author
 ## See also
 
 
-#### Concepts
-
-
 [Revision Object](Word.Revision.md)
 

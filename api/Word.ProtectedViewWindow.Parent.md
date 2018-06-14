@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Prot
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

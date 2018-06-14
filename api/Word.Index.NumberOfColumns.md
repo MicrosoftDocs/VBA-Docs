@@ -52,8 +52,5 @@ Next myIndex
 ## See also
 
 
-#### Concepts
-
-
 [Index Object](Word.Index.md)
 

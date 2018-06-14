@@ -39,8 +39,5 @@ ReadabilityStatistic
 ## See also
 
 
-#### Concepts
-
-
 [ReadabilityStatistics Collection Object](Word.readabilitystatistics.md)
 

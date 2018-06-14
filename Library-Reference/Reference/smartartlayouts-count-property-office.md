@@ -23,9 +23,6 @@ Retrieves the count of the number of  **SmartArtLayout** objects contained withi
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtLayouts Object](smartartlayouts-object-office.md)
 #### Other resources
 

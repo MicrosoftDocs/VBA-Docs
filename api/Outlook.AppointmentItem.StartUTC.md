@@ -31,8 +31,5 @@ Changing the value for the  **[AppointmentItem.Start](Outlook.AppointmentItem.St
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

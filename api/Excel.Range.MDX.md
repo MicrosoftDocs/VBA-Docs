@@ -26,8 +26,5 @@ Returns the MDX name for the specified  **Range** object. Read-only **String** .
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

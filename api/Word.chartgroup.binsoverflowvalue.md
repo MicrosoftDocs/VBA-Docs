@@ -24,8 +24,5 @@ If an [BinsOverflowEnabled](http://msdn.microsoft.com/library/3af8d552-94e1-6f15
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Word.ChartGroup.md)
 

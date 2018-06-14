@@ -26,8 +26,5 @@ Returns or sets one of the constants of the  **[XlContainsOperator](Excel.XlCont
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Excel.FormatCondition.md)
 

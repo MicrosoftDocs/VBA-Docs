@@ -40,8 +40,5 @@ For information about using events with the  **Application** object, see[How to:
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

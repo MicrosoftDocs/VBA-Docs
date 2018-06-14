@@ -26,8 +26,5 @@ When used without an object qualifier, this property returns an  **[Application]
 ## See also
 
 
-#### Concepts
-
-
 [SparkPoints Object](Excel.SparkPoints.md)
 

@@ -31,7 +31,5 @@ _expression_ A variable that represents a **PostItem** object.
 
 ## See also
 
-#### Concepts
-
 - [PostItem Object](Outlook.PostItem.md)
 

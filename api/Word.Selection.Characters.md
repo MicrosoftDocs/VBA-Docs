@@ -42,8 +42,5 @@ MsgBox "The first character is... " &; char
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

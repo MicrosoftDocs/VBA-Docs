@@ -57,8 +57,5 @@ Parameter values are also settable in code using the ActiveX Data Object's (ADO)
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

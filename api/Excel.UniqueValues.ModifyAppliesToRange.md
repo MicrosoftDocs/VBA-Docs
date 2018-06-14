@@ -41,8 +41,5 @@ You can also use a local defined name in any part of the range, but the name mus
 ## See also
 
 
-#### Concepts
-
-
 [UniqueValues Object](Excel.UniqueValues.md)
 

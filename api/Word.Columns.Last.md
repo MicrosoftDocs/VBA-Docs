@@ -26,8 +26,5 @@ Returns a  **Column** object that represents the last column in a table.
 ## See also
 
 
-#### Concepts
-
-
 [Columns Collection Object](Word.columns.md)
 

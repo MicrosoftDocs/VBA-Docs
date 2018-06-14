@@ -62,8 +62,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [FreeformBuilder Object](freeformbuilder-object-powerpoint.md)
 

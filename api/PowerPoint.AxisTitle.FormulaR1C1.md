@@ -26,8 +26,5 @@ Returns or sets the formula for the object by using R1C1-style notation. Read/wr
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 

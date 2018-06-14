@@ -50,9 +50,6 @@ The following example removes the second user's permissions on the active docume
 ## See also
 
 
-#### Concepts
-
-
 [UserPermission Object](userpermission-object-office.md)
 #### Other resources
 

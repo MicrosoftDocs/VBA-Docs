@@ -55,8 +55,5 @@ ActiveDocument.ActiveWindow.View.ShowFieldCodes = False
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection Object](Word.inlineshapes.md)
 

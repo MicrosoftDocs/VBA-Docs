@@ -33,8 +33,5 @@ This event occurs when the focus moves in response to a user action, such as pre
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

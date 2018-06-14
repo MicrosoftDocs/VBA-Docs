@@ -31,8 +31,5 @@ This property returns  **True** if the object is locked or **False** if the obje
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

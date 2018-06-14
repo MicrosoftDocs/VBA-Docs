@@ -31,8 +31,5 @@ A  **[MailItem](Outlook.MailItem.md)** object that represents the reply.
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

@@ -26,8 +26,5 @@ Returns a  **String** that represents the type of entry for the e-mail address o
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

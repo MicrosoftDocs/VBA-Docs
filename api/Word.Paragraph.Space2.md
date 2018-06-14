@@ -51,8 +51,5 @@ Selection.Paragraphs(1).Space2
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

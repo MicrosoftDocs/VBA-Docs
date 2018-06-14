@@ -36,8 +36,5 @@ Range("e5").Validation.IgnoreBlank = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

@@ -34,8 +34,5 @@ The default value is  **False** . This property corresponds to the **Remove cont
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

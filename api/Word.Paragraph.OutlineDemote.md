@@ -50,8 +50,5 @@ ActiveDocument.Paragraphs(3).OutlineDemote
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

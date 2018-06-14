@@ -35,8 +35,5 @@ To use the  **BackColor** property, the **BackStyle** property, if available, mu
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

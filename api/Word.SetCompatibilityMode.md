@@ -49,8 +49,5 @@ ActiveDocument.SetCompatibilityMode (wdWord2003)
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

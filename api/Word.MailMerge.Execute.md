@@ -45,8 +45,5 @@ If myMerge.State = wdMainAndDataSource Then MyMerge.Execute
 ## See also
 
 
-#### Concepts
-
-
 [MailMerge Object](Word.MailMerge.md)
 

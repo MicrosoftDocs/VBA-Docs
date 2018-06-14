@@ -44,9 +44,6 @@ If a chart or table is not selected, the  **ShowReportDataPane** method displays
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 #### Other resources
 

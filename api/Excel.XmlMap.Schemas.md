@@ -31,8 +31,5 @@ The first item in the returned  **XmlSchemas** collection is the schema that is 
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

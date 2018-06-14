@@ -50,8 +50,5 @@ Outlook maintains a hierarchy of address books for a session, and the address en
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

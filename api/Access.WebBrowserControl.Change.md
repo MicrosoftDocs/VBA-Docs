@@ -61,8 +61,5 @@ In combo boxes for which the  **LimitToList** property is set to Yes, the **NotI
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

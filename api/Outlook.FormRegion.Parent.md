@@ -26,8 +26,5 @@ Returns the parent  **Object** of the form region. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

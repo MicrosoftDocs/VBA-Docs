@@ -63,8 +63,5 @@ ActiveDocument.AttachedTemplate = "C:\Templates\Letter.dot"
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

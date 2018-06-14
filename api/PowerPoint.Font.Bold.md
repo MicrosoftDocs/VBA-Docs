@@ -55,8 +55,5 @@ myT.TextFrame.TextRange.Characters(1, 5).Font.Bold = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](PowerPoint.Font.md)
 

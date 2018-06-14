@@ -39,8 +39,5 @@ List
 ## See also
 
 
-#### Concepts
-
-
 [Lists Collection Object](Word.lists.md)
 

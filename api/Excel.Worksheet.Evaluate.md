@@ -85,8 +85,5 @@ Application.Evaluate(boldCell).Font.Bold = True
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

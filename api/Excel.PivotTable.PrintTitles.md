@@ -41,8 +41,5 @@ ActiveSheet.PivotTables("PivotTable4").PrintTitles = True
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

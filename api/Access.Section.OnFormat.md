@@ -54,8 +54,5 @@ Debug.Print Reports("Purchase Order").Section("GroupHeader0").OnFormat
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

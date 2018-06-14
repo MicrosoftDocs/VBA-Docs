@@ -46,9 +46,6 @@ ActiveWindow.SplitVertical = 60
 ## See also
 
 
-#### Concepts
-
-
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
 

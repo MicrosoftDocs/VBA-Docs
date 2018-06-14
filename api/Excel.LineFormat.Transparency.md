@@ -31,8 +31,5 @@ The value of this property affects the appearance of solid-colored fills and lin
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Excel.LineFormat.md)
 

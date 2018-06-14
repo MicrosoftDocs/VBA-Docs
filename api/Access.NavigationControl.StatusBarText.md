@@ -53,8 +53,5 @@ Forms("Mailing List").Controls("Address_TextBox"). _
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

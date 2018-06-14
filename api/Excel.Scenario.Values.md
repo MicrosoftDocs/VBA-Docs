@@ -34,8 +34,5 @@ Returns a  **Variant** array that contains the current values of the changing ce
 ## See also
 
 
-#### Concepts
-
-
 [Scenario Object](Excel.Scenario.md)
 

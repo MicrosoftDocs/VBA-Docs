@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of proofreading errors in the col
 ## See also
 
 
-#### Concepts
-
-
 [ProofreadingErrors Collection Object](Word.proofreadingerrors.md)
 

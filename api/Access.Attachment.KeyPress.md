@@ -89,8 +89,5 @@ For example, if you go to a new record and type a character in the first control
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

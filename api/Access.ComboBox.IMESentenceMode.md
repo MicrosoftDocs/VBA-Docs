@@ -56,8 +56,5 @@ In this mode, inputted characters are settled without conversion.
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

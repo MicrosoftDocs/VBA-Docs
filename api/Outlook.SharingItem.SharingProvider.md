@@ -26,8 +26,5 @@ Returns an  **[OlSharingProvider](Outlook.OlSharingProvider.md)** constant that 
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

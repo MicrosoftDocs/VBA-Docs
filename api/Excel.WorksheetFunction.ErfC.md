@@ -63,8 +63,5 @@ The following example displays the complementary ERF function of 1 (0.1573).
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

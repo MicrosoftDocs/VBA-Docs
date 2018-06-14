@@ -45,8 +45,5 @@ objNode.PlaceholderText = "Enter Book Information Here"
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

@@ -36,8 +36,5 @@ lev = ActiveDocument.Paragraphs(3).Range.ListFormat.ListLevelNumber
 ## See also
 
 
-#### Concepts
-
-
 [ListFormat Object](Word.ListFormat.md)
 

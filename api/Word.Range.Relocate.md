@@ -63,8 +63,5 @@ Selection.Paragraphs(1).Range.Relocate Direction:=wdRelocateUp
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

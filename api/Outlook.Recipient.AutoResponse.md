@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the text of an automatic response for
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

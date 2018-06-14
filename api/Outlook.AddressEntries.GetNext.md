@@ -36,8 +36,5 @@ It returns  **Nothing** if no next object exists, for example, if already positi
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntries Object](Outlook.AddressEntries.md)
 

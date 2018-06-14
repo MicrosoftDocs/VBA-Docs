@@ -29,8 +29,5 @@ Returns or sets a  **Single** that represents the inset size for the bottom beve
 ## See also
 
 
-#### Concepts
-
-
  [ThreeDFormat Object](Publisher.ThreeDFormat.md)
 

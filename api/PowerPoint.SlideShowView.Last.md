@@ -41,8 +41,5 @@ SlideShowWindows(1).View.Last
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

@@ -26,8 +26,5 @@ Returns or sets the East Asian language to use when breaking lines of text in th
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

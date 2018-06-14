@@ -26,8 +26,5 @@ Returns the width, in points, of the object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](Word.AxisTitle.md)
 

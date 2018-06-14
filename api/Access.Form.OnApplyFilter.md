@@ -54,8 +54,5 @@ Forms("Order Entry").OnFilter = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -51,8 +51,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [PivotFormula Object](Excel.PivotFormula.md)
 

@@ -31,8 +31,5 @@ This rule condition is supported by rules for receiving messages. For more infor
 ## See also
 
 
-#### Concepts
-
-
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 

@@ -89,7 +89,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Assignments Collection Object](Project.assignments.md)

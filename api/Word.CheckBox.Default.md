@@ -39,8 +39,5 @@ If ActiveDocument.FormFields(1).Type = wdFieldFormCheckBox Then
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Word.CheckBox.md)
 

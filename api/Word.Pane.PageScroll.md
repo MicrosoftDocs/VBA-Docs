@@ -53,8 +53,5 @@ ActiveDocument.ActiveWindow.ActivePane.PageScroll Up:=1
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

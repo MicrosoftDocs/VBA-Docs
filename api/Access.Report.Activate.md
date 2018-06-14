@@ -42,8 +42,5 @@ The  **Activate** event occurs before the **GotFocus** event; the Deactivate eve
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

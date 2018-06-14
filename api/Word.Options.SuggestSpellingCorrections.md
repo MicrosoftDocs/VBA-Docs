@@ -46,8 +46,5 @@ temp = Options.SuggestSpellingCorrections
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

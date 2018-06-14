@@ -97,8 +97,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OrderField Object](Outlook.OrderField.md)
 

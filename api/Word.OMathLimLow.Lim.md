@@ -26,8 +26,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the l
 ## See also
 
 
-#### Concepts
-
-
 [OMathLimLow Object](Word.OMathLimLow.md)
 

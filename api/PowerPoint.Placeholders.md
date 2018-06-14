@@ -39,8 +39,5 @@ sObj.Placeholders(2).TextFrame.TextRange.Text = _
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

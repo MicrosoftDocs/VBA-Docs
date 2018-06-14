@@ -49,8 +49,5 @@ MsgBox cFull &; " full-screen page breaks, " &; cPartial &; _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheets Object](Excel.Worksheets.md)
 

@@ -34,8 +34,5 @@ Returns the type of the slicer cache - slicer or timeline. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

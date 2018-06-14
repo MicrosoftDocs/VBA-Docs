@@ -46,8 +46,5 @@ To specify whether to repeat item labels for a single PivotField, use the  **[Re
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

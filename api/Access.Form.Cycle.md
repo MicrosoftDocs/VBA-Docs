@@ -52,8 +52,5 @@ To move the focus outside a subform control, press CTRL+TAB.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

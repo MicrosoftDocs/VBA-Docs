@@ -47,8 +47,5 @@ MsgBox ActiveWindow.Selection.ShapeRange _
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](PowerPoint.Font.md)
 

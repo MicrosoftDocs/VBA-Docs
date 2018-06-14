@@ -29,8 +29,5 @@ Returns a  [FillFormat](Publisher.FillFormat.md) object that contains fill forma
 ## See also
 
 
-#### Concepts
-
-
  [Font Object](Publisher.Font.md)
 

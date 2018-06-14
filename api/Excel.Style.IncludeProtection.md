@@ -36,8 +36,5 @@ Worksheets("Sheet1").Range("A1").Style.IncludeProtection = True
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

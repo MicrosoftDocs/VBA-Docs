@@ -52,8 +52,5 @@ ActivePresentation.Paragraphs(1).HangingPunctuation = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 

@@ -26,8 +26,5 @@ The  **ToggleFormsDesign** method is used to toggle Excel into Design Mode when 
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

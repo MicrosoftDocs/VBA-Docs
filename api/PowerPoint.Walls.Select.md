@@ -23,8 +23,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [Walls Object](PowerPoint.Walls.md)
 

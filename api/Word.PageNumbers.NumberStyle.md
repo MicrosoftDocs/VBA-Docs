@@ -39,8 +39,5 @@ Next sec
 ## See also
 
 
-#### Concepts
-
-
 [PageNumbers Collection Object](Word.pagenumbers.md)
 

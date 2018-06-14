@@ -64,8 +64,5 @@ Msgbox Application.DefaultSaveFormat
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

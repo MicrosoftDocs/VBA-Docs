@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **PickerDialo
 ## See also
 
 
-#### Concepts
-
-
 [PickerDialog Object](pickerdialog-object-office.md)
 #### Other resources
 

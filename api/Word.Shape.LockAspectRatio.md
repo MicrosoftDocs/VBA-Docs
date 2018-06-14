@@ -38,8 +38,5 @@ myDocument.Shapes.AddShape(msoShapeCube, _
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 
