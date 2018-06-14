@@ -30,7 +30,7 @@ Use the  **Add** method to add a **KeyBinding** object to the **KeyBindings** co
 
 
 
-```
+```vb
 CustomizationContext = ActiveDocument 
 KeyBindings.Add KeyCategory:=wdKeyCategoryStyle, _ 
  Command:="Heading 1", _ 

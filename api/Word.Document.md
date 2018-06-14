@@ -21,7 +21,7 @@ Represents a document. The  **Document** object is a member of the **[Documents]
 Use  **Documents** (Index), where Index is the document name or index number, to return a single **Document** object. The following example closes the document named "Report.doc" without saving changes.
 
 
-```
+```vb
 Documents("Report.doc").Close SaveChanges:=wdDoNotSaveChanges
 ```
 
@@ -30,7 +30,7 @@ The index number represents the position of the document in the  **Documents** c
 
 
 
-```
+```vb
 Documents(1).Activate
 ```
 
@@ -41,7 +41,7 @@ You can use the  **[ActiveDocument](https://msdn.microsoft.com/en-us/vba/word-vb
 
 
 
-```
+```vb
 Documents("Document1").Activate 
 ActiveDocument.PageSetup.Orientation = wdOrientLandscape 
 ActiveDocument.PrintOut

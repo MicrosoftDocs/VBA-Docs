@@ -43,7 +43,7 @@ This example returns the current status of the  **Embed TrueType** fonts check b
 
 
 
-```
+```vb
 temp = ActiveDocument.EmbedTrueTypeFonts
 ```
 

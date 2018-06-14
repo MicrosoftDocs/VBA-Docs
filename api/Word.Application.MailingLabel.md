@@ -28,7 +28,7 @@ Returns a  **[MailingLabel](Word.MailingLabel.md)** object that represents a mai
 This example creates a new Avery 2160 mini-label document for a specified address.
 
 
-```
+```vb
 addr = "Dave Edson" &; vbCr &; "123 Skye St." _ 
  &; vbCr &; "Our Town, WA 98004" 
 Application.MailingLabel.CreateNewDocument _ 

@@ -36,7 +36,7 @@ Converts a measurement from inches to points (1 inch = 72 points). Returns the c
 This example sets the space before for the selected paragraphs to 0.25 inch.
 
 
-```
+```vb
 Selection.ParagraphFormat.SpaceBefore = InchesToPoints(0.25)
 ```
 

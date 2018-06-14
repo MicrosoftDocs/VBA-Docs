@@ -42,7 +42,7 @@ While any character in Cset is found, the end position of the specified range is
 This example moves the end position of the selected range forward while the space character is found.
 
 
-```
+```vb
 Selection.Range.MoveEndWhile Cset:=" ", Count:=wdForward
 ```
 
@@ -51,7 +51,7 @@ This example moves the end position of the selected range forward while Count is
 
 
 
-```
+```vb
 Selection.Range.MoveEndWhile Cset:="abcdefgh", Count:=10
 ```
 

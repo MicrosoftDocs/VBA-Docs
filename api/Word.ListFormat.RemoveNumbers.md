@@ -36,7 +36,7 @@ Removes numbers or bullets from the specified list.
 This example removes the bullets or numbers from any numbered paragraphs in the selection.
 
 
-```
+```vb
 Selection.Range.ListFormat.RemoveNumbers
 ```
 
@@ -45,7 +45,7 @@ This example removes the LISTNUM fields from the selection.
 
 
 
-```
+```vb
 Selection.Range.ListFormat.RemoveNumbers wdNumberListNum
 ```
 

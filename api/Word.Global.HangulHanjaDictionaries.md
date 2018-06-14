@@ -47,7 +47,7 @@ This example deactivates all custom dictionaries but does not delete the custom 
 
 
 
-```
+```vb
 HangulHanjaDictionaries.ClearAll
 ```
 

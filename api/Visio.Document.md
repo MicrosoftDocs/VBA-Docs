@@ -39,7 +39,7 @@ Use the  **CustomMenus** or **CustomToolbars** properties of a **Document** obje
 
 
 
-```
+```vb
     MsgBox ThisDocument.Name
 ```
 

@@ -28,7 +28,7 @@ Displays the  **Thesaurus** dialog box, which lists alternative word choices, or
 This example displays the  **Thesaurus** dialog box with synonyms for the selected text.
 
 
-```
+```vb
 Selection.Range.CheckSynonyms
 ```
 

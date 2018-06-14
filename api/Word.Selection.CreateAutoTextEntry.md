@@ -37,7 +37,7 @@ Adds a new  **[AutoTextEntry](Word.AutoTextEntry.md)** object to the **[AutoText
 This example creates a new AutoText entry named "handdel" under the category "Mailing Instructions," given "HAND DELIVERY" as the currently selected text.
 
 
-```
+```vb
 Selection.CreateAutoTextEntry "handdel", _ 
  "Mailing Instructions"
 ```

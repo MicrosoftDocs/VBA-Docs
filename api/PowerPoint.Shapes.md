@@ -29,7 +29,7 @@ Each  **Shape** object represents an object in the drawing layer, such as an Aut
 Use the  **Shapes** property to return the **Shapes** collection. The following example selects all the shapes in the active presentation.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes.SelectAll
 ```
 
@@ -41,7 +41,7 @@ Use the [AddCallout](http://msdn.microsoft.com/library/e4b468d7-793a-09ae-fcfc-6
 
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes.AddShape Type:=msoShapeRectangle, _
 
     Left:=50, Top:=50, Width:=100, Height:=200
@@ -52,7 +52,7 @@ Use  **Shapes** (index), where index is the shape's name or index number, to ret
 
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).Fill _
 
     .PresetGradient Style:=msoGradientHorizontal, Variant:=1, _
@@ -65,7 +65,7 @@ Use  **Shapes.Range** (index), where index is the shape's name or index number o
 
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes.Range(Array(1, 3)).Fill _
 
     .Patterned Pattern:=msoPatternHorizontalBrick
@@ -76,7 +76,7 @@ Use  **Shapes.Placeholders** (index), where index is the placeholder number, to 
 
 
 
-```
+```vb
 With ActivePresentation.Slides.Add(Index:=1, Layout:=ppLayoutTitle).Shapes
 
     .Title.TextFrame.TextRange = "This is the title text"

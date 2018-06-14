@@ -33,7 +33,7 @@ In the U.S. English version of Microsoft Word, the default value of this propert
 This example sets the font used for Latin text.
 
 
-```
+```vb
 Selection.Font.NameAscii = "Century"
 ```
 

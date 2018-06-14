@@ -24,7 +24,7 @@ The  **Option Compare** statement specifies the[string comparison](vbe-glossary.
 
 
 
-```
+```vb
 A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø 
 
 ```
@@ -33,7 +33,7 @@ A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø
 
 
 
-```
+```vb
 (A=a) < ( À=à) < (B=b) < (E=e) < (Ê=ê) < (Z=z) < (Ø=ø) 
 
 ```

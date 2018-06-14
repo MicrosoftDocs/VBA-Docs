@@ -38,7 +38,7 @@ This example returns the current status of the  **Update fields** option on the 
 
 
 
-```
+```vb
 temp = Options.UpdateFieldsAtPrint
 ```
 

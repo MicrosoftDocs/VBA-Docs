@@ -30,7 +30,7 @@ Use the  **[Filter](Outlook.BusinessCardView.Filter.md)** property to determine 
 The following Visual Basic for Applications (VBA) example creates, saves, and applies a new  **BusinessCardView** object.
 
 
-```
+```vb
 Sub CreateBusinessCardView() 
  
  

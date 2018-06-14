@@ -48,7 +48,7 @@ The following examples describe how to:
 Use  **Shapes** (index), where index is the shape name or the index number, to return a **Shape** object that represents a shape on a slide. The following example horizontally flips shape one and the shape named Rectangle 1 on myDocument.
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 myDocument.Shapes(1).Flip msoFlipHorizontal
@@ -61,7 +61,7 @@ Each shape is assigned a default name when you add it to the  **Shapes** collect
 
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 With myDocument.Shapes.AddShape(Type:=msoShapeRectangle, _
@@ -84,7 +84,7 @@ Use  **Selection.ShapeRange** (index), where index is the shape name or the inde
 
 
 
-```
+```vb
 ActiveWindow.Selection.ShapeRange(1).Fill _
 
     .ForeColor.RGB = RGB(255, 0, 0)
@@ -95,7 +95,7 @@ Use  **Shapes.Title** to return a **Shape** object that represents an existing s
 
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes.Title _
 
     .TextFrame.TextRange.Font.Italic = True

@@ -37,7 +37,7 @@ This example sets and returns the value for an entry in the Windows registry (th
 
 
 
-```
+```vb
 System.ProfileString("SubkeyName", "EntryName") = "Value" 
 MsgBox System.ProfileString("SubkeyName", "EntryName")
 ```

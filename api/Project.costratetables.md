@@ -25,7 +25,7 @@ Use the  **[CostRateTables](Project.Resource.CostRateTables.md)** property to re
 
 
 
-```
+```vb
 Dim CRT As CostRateTable, PR As PayRate 
 
 Dim Rates As String 

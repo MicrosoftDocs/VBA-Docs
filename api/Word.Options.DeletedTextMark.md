@@ -28,7 +28,7 @@ Returns or sets the format of text that is deleted while change tracking is enab
 This example applies strikethrough formatting to deleted text.
 
 
-```
+```vb
 Options.DeletedTextMark = wdDeletedTextMarkStrikeThrough
 ```
 

@@ -42,7 +42,7 @@ If Word is accessing the data through open database connectivity (ODBC), this me
 This example opens or activates the data source attached to the document named "Sales.doc."
 
 
-```
+```vb
 Documents("Sales.doc").MailMerge.EditDataSource
 ```
 

@@ -39,7 +39,7 @@ ActiveDocument.Paragraphs(1).SpaceBefore = 0
 This example removes any space before the first paragraph in the selection.
 
 
-```
+```vb
 Selection.Paragraphs(1).CloseUp
 ```
 

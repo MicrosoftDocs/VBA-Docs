@@ -27,7 +27,7 @@ Use  **GroupCriteria2(***Index* **)**, where*Index* is the criterion index, to r
 
 
 
-```
+```vb
 ActiveProject.ResourceGroups2("Standard Rate").GroupCriteria2(1).CellColor = &amp;HFF0000
 ```
 
@@ -42,7 +42,7 @@ Use the  **[GroupCriteria](Project.Group2.GroupCriteria.md)** property to return
 
 
 
-```
+```vb
 Dim GC2 As GroupCriterion2  
 Dim Fields As String  
   
@@ -64,7 +64,7 @@ Use the  **[AddEx](Project.GroupCriteria2.AddEx.md)** method to add a **GroupCri
 
 
 
-```
+```vb
 ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work Complete", True, _
     CellColor:=&amp;H0101FF, GroupOn:=pjGroupOnPct1_25
 ```

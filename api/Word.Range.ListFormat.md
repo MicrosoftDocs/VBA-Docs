@@ -41,7 +41,7 @@ This example applies the second list template on the  **Numbered** tab in the **
 
 
 
-```
+```vb
 Selection.Range.ListFormat.ApplyListTemplate _ 
  ListTemplate:=ListGalleries(wdNumberGallery).ListTemplates(2)
 ```

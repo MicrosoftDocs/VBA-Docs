@@ -33,7 +33,7 @@ Although you can use the  **SearchFolders** collection's **Add** method to add a
 The following example adds the root  **ScopeFolder** object to the **SearchFolders** collection. For a longer example that uses the **AddToSearchFolders** method, see the **SearchFolders** collection topic.
 
 
-```
+```vb
 SearchScopes(1).ScopeFolder.AddToSearchFolders
 ```
 

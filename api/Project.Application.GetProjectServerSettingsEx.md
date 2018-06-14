@@ -30,7 +30,7 @@ Returns global Project settings in a single XML string. You can obtain settings 
 Following is the format of the the XML string returned by  **GetProjectServerSettingsEx** method.
 
 
-```XML
+```vbXML
 <ProjectServerSettingsReturn> 
    <ProjectIDInProjectServer>self explanatory</ProjectIDInProjectServer> 
    <AdminDefaultTrackingMethod>see explanation below</AdminDefaultTrackingMethod> 

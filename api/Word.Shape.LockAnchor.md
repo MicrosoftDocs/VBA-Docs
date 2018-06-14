@@ -46,7 +46,7 @@ This example returns a message that states the lock status for each shape in the
 
 
 
-```
+```vb
 For x = 1 to ActiveDocument.Shapes.Count 
  Msgbox "Shape " &; x &; " is locked - " _ 
  &; ActiveDocument.Shapes(x).LockAnchor 

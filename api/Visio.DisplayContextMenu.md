@@ -44,7 +44,7 @@ Use the screenX and screenY parameters to specify the coordinates of the point w
 The following code specifies that the shortcut menu appear at screen coordinates (300, 300).
 
 
-```
+```vb
 vsoViewer.DisplayContextMenu(300,300)
 ```
 

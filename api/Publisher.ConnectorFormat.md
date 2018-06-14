@@ -42,7 +42,7 @@ The following example adds two rectangles to the active publication and connects
 
 
 
-```
+```vb
 Dim shpAll As Shapes 
 Dim firstRect As Shape 
 Dim secondRect As Shape 
@@ -58,7 +58,7 @@ Set secondRect = shpAll.AddShape(Type:=msoShapeRectangle, _
 
 
 
-```
+```vb
 With shpAll.AddConnector(Type:=msoConnectorCurve, BeginX:=0, _ 
  BeginY:=0, EndX:=0, EndY:=0).ConnectorFormat 
  .BeginConnect ConnectedShape:=firstRect, ConnectionSite:=1 

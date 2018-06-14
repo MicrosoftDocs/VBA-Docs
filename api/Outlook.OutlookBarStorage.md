@@ -28,7 +28,7 @@ Use the  **[Groups](Outlook.OutlookBarStorage.Groups.md)** property to retrieve 
 The following example retrieves an  **OutlookBarStorage** object by name.
 
 
-```
+```vb
 Set myOLBarStorage = myPanes.Item("OutlookBar").Contents
 ```
 

@@ -48,7 +48,7 @@ You can use the  **GetFormulasU** method to get formulas in universal syntax of 
 
 
 
-```
+```vb
 {sheetID, sectionIdx, rowIdx, cellIdx}n
 ```
 

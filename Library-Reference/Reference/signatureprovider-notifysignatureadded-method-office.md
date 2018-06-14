@@ -43,7 +43,7 @@ This method is called when the signing process has completed. Allows a signature
 The following example, written in C#, shows the implementation of the  **NotifySignatureAdded** method in a custom signature provider project.
 
 
-```
+```vb
  public void NotifySignatureAdded(object parentWindow, SignatureSetup sigsetup, SignatureInfo siginfo) 
  { 
  using (Win32WindowFromOleWindow window = new Win32WindowFromOleWindow(parentWindow)) 

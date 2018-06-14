@@ -41,7 +41,7 @@ Because Microsoft Word uses a Single Document Interface (SDI), this method no lo
 This example arranges all open windows so that they don't overlap.
 
 
-```
+```vb
 Windows.Arrange ArrangeStyle:=wdTiled
 ```
 

@@ -34,7 +34,7 @@ The following example displays the style name and base style of the first style 
 
 
 
-```
+```vb
 Sub BaseStyleName() 
  With ActiveDocument.TextStyles(1) 
  MsgBox "Style name= " &amp; .Name _ 
@@ -50,7 +50,7 @@ Use the  **[Add](Publisher.TextStyles.Add.md)** method to create a new style. To
 
 
 
-```
+```vb
 Sub ApplyTextStyle() 
  Dim styNew As TextStyle 
  Dim fntStyle As Font 

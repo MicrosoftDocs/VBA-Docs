@@ -24,7 +24,7 @@ Use  **Rows** (index), where index is the row number, to return a single **Row**
 
  
 
-```
+```vb
 Sub SelectRow() 
  ActiveDocument.Pages(2).Shapes(1).Table.Rows(1).Cells.Select 
 End Sub
@@ -37,7 +37,7 @@ Use the  **[Item](Publisher.Rows.Item.md)** method of a **[Rows](Publisher.Rows.
 
 
 
-```
+```vb
 Sub FillCellsByRow() 
  Dim shpTable As Shape 
  Dim rowTable As Row 
@@ -66,7 +66,7 @@ Use the  **[Add](Publisher.Rows.Add.md)** method to add a row to a table. This e
 
 
 
-```
+```vb
 Sub NewRow() 
  Dim rowNew As Row 
  
@@ -87,7 +87,7 @@ Use the  **[Delete](Publisher.Row.Delete.md)** method to delete a row from a tab
 
 
 
-```
+```vb
 Sub DeleteRow() 
  ActiveDocument.Pages(2).Shapes(1).Table.Rows(3).Delete 
 End Sub

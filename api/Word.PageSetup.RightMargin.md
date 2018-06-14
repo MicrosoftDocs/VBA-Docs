@@ -45,7 +45,7 @@ This example sets the right margin for section two in the selection. The  **[Inc
 
 
 
-```
+```vb
 Selection.Sections(2).PageSetup.RightMargin = InchesToPoints(1)
 ```
 

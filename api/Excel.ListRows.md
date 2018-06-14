@@ -26,7 +26,7 @@ A collection of all the  **[ListRow](Excel.ListRow.md)** objects in the specifie
 Use the  **[ListRows](Excel.ListObject.ListRows.md)** property of the **[ListObject](Excel.ListObject.md)** object to return the **ListRows** collection. The following example adds a new row to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, a new row is added to the end of the table.
 
 
-```
+```vb
 Set myNewRow = Worksheets(1).ListObject(0).ListRows.Add
 ```
 

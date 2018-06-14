@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 The following example assigns  `replyToBlog` as the internal name of a custom action, and specifies that the body of the current item will be included and indented in the resulting item:
 
 
-```
+```vb
 <customActions>
     <action name="replyToBlog">
         <body>indent</body>

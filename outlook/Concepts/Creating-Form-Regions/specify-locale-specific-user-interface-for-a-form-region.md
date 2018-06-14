@@ -39,7 +39,7 @@ Localization files follow an XML schema consisting of elements similar to the ch
     
 
 
-```
+```vb
   <stringOverride language="1034;1036">
     <!-- specify localization strings here -->
 </stringOverride>
@@ -57,7 +57,7 @@ Localization files follow an XML schema consisting of elements similar to the ch
     
 
 
-```
+```vb
   <stringOverride language="1034" file="%langid%\UserStrings.xml" />
     <!-- no need to specify localization strings here -->
 ```
@@ -76,7 +76,7 @@ Localization files follow an XML schema consisting of elements similar to the ch
     
 
 
-```
+```vb
   <stringOverride language="4105">
     <title>Template for Canadians</title>
 </stringOverride>
@@ -94,7 +94,7 @@ Localization files follow an XML schema consisting of elements similar to the ch
     
 
 
-```
+```vb
   <stringOverride language="4105">
     <formRegionName>Addendum</formRegionName>
 </stringOverride>
@@ -113,7 +113,7 @@ Localization files follow an XML schema consisting of elements similar to the ch
     
 
 
-```
+```vb
   <stringOverride language="4105">
     <description>This template is intended for English speaking Canadians.</description>
 </stringOverride>
@@ -136,7 +136,7 @@ Localization files follow an XML schema consisting of elements similar to the ch
     
 
 
-```
+```vb
   <stringOverride language="4105">
     <control name="TextBox1">
         <caption>Canadian postal code</caption>
@@ -158,7 +158,7 @@ Localization files follow an XML schema consisting of elements similar to the ch
     
 
 
-```
+```vb
   <stringOverride language="4105">
     <action name="replyToBlog">
         <title>Reply to Blog</title>
@@ -181,7 +181,7 @@ Localization files follow an XML schema consisting of elements similar to the ch
     
 
 
-```
+```vb
   <stringOverride language="4105">
     <action name="replyToBlog">
         <subject>Re</subject>

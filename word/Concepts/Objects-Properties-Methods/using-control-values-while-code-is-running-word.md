@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 You can set and return some properties for  [ActiveX controls](http://msdn.microsoft.com/library/befa20c2-c4e7-1a53-7740-248885691710%28Office.15%29.aspx) while Visual Basic code is running. The following example sets the  **Text** property of a text box to "Hello."
 
 
-```
+```vb
 TextBox1.Text = "Hello"
 ```
 

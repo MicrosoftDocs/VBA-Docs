@@ -28,7 +28,7 @@ Returns the path to the location on the user's computer where the COM add-ins ar
 This example determines where the COM add-ins are installed on the user's computer and assigns the string to the variable  `strLibPath`.
 
 
-```
+```vb
 strLibPath = Application.UserLibraryPath
 ```
 

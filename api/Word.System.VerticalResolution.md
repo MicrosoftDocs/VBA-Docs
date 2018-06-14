@@ -28,7 +28,7 @@ Returns the vertical screen resolution in pixels. Read-only  **Long** .
 This example displays the current screen resolution (for example, "1024 x 768").
 
 
-```
+```vb
 horz = System.HorizontalResolution 
 vert = System.VerticalResolution 
 MsgBox "Resolution = " &; horz &; " x " &; vert

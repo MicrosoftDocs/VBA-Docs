@@ -51,7 +51,7 @@ This example copies the styles from the Sales96.dot template to Sales.doc.
 
 
 
-```
+```vb
 Documents("Sales.doc").CopyStylesFromTemplate _ 
  Template:="C:\MSOffice\Templates\Sales96.dot"
 ```

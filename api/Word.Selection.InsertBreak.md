@@ -44,7 +44,7 @@ When you insert a page or column break, the break replaces the selection. If you
 This example inserts a continuous section break immediately preceding the selection.
 
 
-```
+```vb
 Selection.InsertBreak Type:=wdSectionBreakContinuous
 ```
 

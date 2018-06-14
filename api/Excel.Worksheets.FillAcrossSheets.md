@@ -37,7 +37,7 @@ Copies a range to the same area on all other worksheets in a collection.
 This example fills the range A1:C5 on Sheet1, Sheet5, and Sheet7 with the contents of the same range on Sheet1.
 
 
-```
+```vb
 x = Array("Sheet1", "Sheet5", "Sheet7") 
 Sheets(x).FillAcrossSheets _ 
  Worksheets("Sheet1").Range("A1:C5")

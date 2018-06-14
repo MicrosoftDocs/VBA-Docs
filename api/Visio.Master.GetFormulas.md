@@ -48,7 +48,7 @@ For  **Master** objects, you can use the **GetFormulas** method to get formulas 
 
 
 
-```
+```vb
 {sheetID, sectionIdx, rowIdx, cellIdx}n
 ```
 

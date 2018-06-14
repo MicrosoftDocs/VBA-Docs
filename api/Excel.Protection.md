@@ -51,7 +51,7 @@ Once a  **Protection** object is returned, you can use its following properties,
 The following example demonstrates how to use the  **[AllowInsertingColumns](Excel.Protection.AllowInsertingColumns.md)** property of the **Protection** object, placing three numbers in the top row and protecting the worksheet. Then this example checks to see if the protection setting for allowing the insertion of columns is **False** and sets it to **True**, if necessary. Finally, it notifies the user to insert a column.
 
 
-```
+```vb
 Sub SetProtection() 
  
  Range("A1").Formula = "1" 

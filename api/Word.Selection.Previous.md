@@ -42,7 +42,7 @@ Range
 If the selection is just after the specified Unit, the selection is moved to the previous unit. For example, if the selection is just after a word (before the trailing space), the following instruction moves the selection backward to the previous word.
 
 
-```
+```vb
 Selection.Previous(Unit:=wdWord, Count:=1).Select
 ```
 

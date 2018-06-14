@@ -33,7 +33,7 @@ To use this method, the current selection must be contained within a single cell
 This example selects the entire cell containing the current selection.
 
 
-```
+```vb
 Selection.SelectCell
 ```
 

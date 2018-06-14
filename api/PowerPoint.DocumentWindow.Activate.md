@@ -28,7 +28,7 @@ Activates the specified object.
 This example activates the document window immediately following the active window in the document window order.
 
 
-```
+```vb
 Windows(2).Activate
 ```
 

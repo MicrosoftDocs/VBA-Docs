@@ -54,7 +54,7 @@ End Sub
 ```
 
 
-```
+```vb
 private void GetRTFBodyForMail() 
  
 { 

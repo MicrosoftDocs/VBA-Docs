@@ -14,7 +14,7 @@ ms.date: 06/08/2017
  **Sub** procedures, built-in[statements](vbe-glossary.md), and some [methods](vbe-glossary.md) don't return a value, so the[arguments](vbe-glossary.md) aren't enclosed in parentheses. For example:
 
 
-```
+```vb
 MySub "stringArgument", integerArgument 
 
 ```
@@ -34,7 +34,7 @@ To use the return value of a function, enclose the arguments in parentheses, as 
 
 
 
-```
+```vb
 Answer3 = MsgBox("Are you happy with your salary?", 4, "Question 3") 
 
 ```
@@ -53,7 +53,7 @@ The following example calls the  **MsgBox** function using named arguments and a
 
 
 
-```
+```vb
 answer3 = MsgBox(Title:="Question 3", _ 
  Prompt:="Are you happy with your salary?", Buttons:=4) 
 

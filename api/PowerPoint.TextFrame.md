@@ -21,7 +21,7 @@ Represents the text frame in a  **Shape** object. Contains the text in the text 
 Use the  **TextFrame** property to return a **TextFrame** object. The following example adds a rectangle to myDocument, adds text to the rectangle, and then sets the margins for the text frame.
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 With myDocument.Shapes _
@@ -46,7 +46,7 @@ Use the [HasTextFrame](http://msdn.microsoft.com/library/ea1a53e4-32d8-e51f-9e60
 
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 For Each s In myDocument.Shapes

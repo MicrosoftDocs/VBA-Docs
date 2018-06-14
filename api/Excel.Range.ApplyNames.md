@@ -56,7 +56,7 @@ You cannot "unapply" names; to delete names, use the  **Delete** method.
 This example applies names to the entire sheet.
 
 
-```
+```vb
 Cells.ApplyNames Names:=Array("Sales", "Profits")
 ```
 

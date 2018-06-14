@@ -41,7 +41,7 @@ The following example lists properties of each color in the active publication t
 
 
 
-```
+```vb
 Sub ListColorsBasedOnInk() 
 Dim cfLoop As ColorFormat 
  
@@ -68,7 +68,7 @@ Use  **ColorsInUse** (index), where index is the color index number, to return a
 
 
 
-```
+```vb
 Sub ColorProperties() 
  
  With ActiveDocument.ColorsInUse(2) 

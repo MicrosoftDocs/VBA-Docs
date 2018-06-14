@@ -17,7 +17,7 @@ The length of a record [variable](vbe-glossary.md) in a **Get** or **Put** state
 
 - The record variable's length differs from the length specified in the corresponding  **Open** statement. Make sure the sum of the sizes of fixed-length[variables](vbe-glossary.md) in the[user-defined type](vbe-glossary.md) defining the record variable's type is the same as the value stated in the **Open** statement's **Len** clause. In the following example, assume `RecVar` is a variable of the appropriate type. You can use the **Len** function to specify the length, as follows:
     
-  ```
+  ```vb
   Open MyFile As #1 Len = Len(RecVar) 
 
   ```

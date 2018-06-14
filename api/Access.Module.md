@@ -38,7 +38,7 @@ The following example returns a reference to a standard  **Module** object and a
 
 
 
-```
+```vb
 Dim mdl As Module 
 Set mdl = Modules![Utility Functions]
 ```
@@ -50,7 +50,7 @@ The next example returns a reference to a form  **Module** object and assigns it
 
 
 
-```
+```vb
 Dim mdl As Module 
 Set mdl = Modules!Form_Employees
 ```
@@ -60,7 +60,7 @@ To refer to a specific form or report module, you can also use the  **[Form](htt
 
 
 
-```
+```vb
 Forms!formname .Module
 ```
 
@@ -69,7 +69,7 @@ The following example also returns a reference to the  **Module** object associa
 
 
 
-```
+```vb
 Dim mdl As Module 
 Set mdl = Forms!Employees.Module
 ```

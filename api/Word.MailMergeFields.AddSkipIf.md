@@ -49,7 +49,7 @@ A SKIPIF field compares two expressions, and if the comparison is true, SKIPIF m
 This example adds a SKIPIF field before the first MERGEFIELD field in Main.doc. If the next postal code equals 98040, the next record is skipped.
 
 
-```
+```vb
 Documents("Main.doc").MailMerge.Fields(1).Select 
 Selection.Collapse Direction:=wdCollapseStart 
 Documents("Main.doc").MailMerge.Fields.AddSkipIf _ 

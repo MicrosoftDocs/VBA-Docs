@@ -29,7 +29,7 @@ A collection of all the  **[ListColumn](Excel.ListColumn.md)** objects in the sp
 Use the  **[ListColumns](Excel.ListObject.ListColumns.md)** property of the[ListObject](Excel.ListObject.md) object to return the **[ListColumns](Excel.ListColumns.md)** collection. The following example adds a new column to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, a new rightmost column is added.
 
 
-```
+```vb
 Set myNewColumn = Worksheets(1).ListObject(1).ListColumns.Add
 ```
 

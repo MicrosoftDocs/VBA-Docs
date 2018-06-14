@@ -42,7 +42,7 @@ This example splits the window for Document1 in half vertically.
 
 
 
-```
+```vb
 Windows("Document1").SplitVertical = 50
 ```
 

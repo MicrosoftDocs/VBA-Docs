@@ -64,7 +64,7 @@ This example adds a password-protected subdocument named "Subdoc.doc" to the act
 
 
 
-```
+```vb
 Selection.Range.Subdocuments.AddFromFile Name:="C:\Subdoc.doc", _ 
  ReadOnly:=True, PasswordDocument:=strPassword
 ```

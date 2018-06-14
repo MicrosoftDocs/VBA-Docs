@@ -41,7 +41,7 @@ Object
 The following example retrieves an  **ODSOFilter** object from the **ODSOFilters** collection.
 
 
-```
+```vb
 oOdsoFilter = oOdsoFilters.Item(1)
 ```
 

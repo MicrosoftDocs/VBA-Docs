@@ -35,7 +35,7 @@ Use the  **[Add](Word.KeyBindings.Add.md)** method of the **[KeyBindings](Word.k
 This example displays the protection status for the CTRL+S key binding.
 
 
-```
+```vb
 CustomizationContext = ActiveDocument.AttachedTemplate 
 MsgBox FindKey(BuildKeyCode(wdKeyControl, wdKeyS)).Protected
 ```

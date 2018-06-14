@@ -59,7 +59,7 @@ The following code shows how to programmatically attach files to an outgoing ema
 
 
 
-```C#
+```vbC#
 using System.Collections.Generic;
 using Outlook = Microsoft.Office.Interop.Outlook;
  
@@ -152,7 +152,7 @@ namespace AttachFileAddIn
 
 
 
-```VB.net
+```vbVB.net
 Public Class ThisAddIn
  
     Private Sub ThisAddIn_Startup() Handles Me.Startup

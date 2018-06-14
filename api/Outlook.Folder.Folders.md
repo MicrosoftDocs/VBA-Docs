@@ -33,7 +33,7 @@ The  **[NameSpace](Outlook.NameSpace.md)** object is the root of all the folders
 This Visual Basic for Applications (VBA) example uses the  **[Folders.Add](http://msdn.microsoft.com/library/20ced7ad-779c-a9b0-267e-6d729c0eb822%28Office.15%29.aspx)** method to add the new folder named "My Personal Contacts" to the default **Contacts** folder.
 
 
-```
+```vb
 Sub CreatePersonalContacts() 
  
  Dim myNamespace As Outlook.NameSpace 
@@ -58,7 +58,7 @@ This VBA example uses the  **Folders.Add** method to add two new folders in the 
 
 
 
-```
+```vb
 Sub CreateFolders() 
  
  Dim myNamespace As Outlook.NameSpace 

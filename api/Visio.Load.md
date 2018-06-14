@@ -47,7 +47,7 @@ If the source file is a multipage document, Visio Viewer displays the page that 
 The following code loads a drawing named "Shapes.vsd" from the local drive into Visio Viewer and returns whether the load was successful.
 
 
-```
+```vb
 vsoViewer.Load "C:\Users\User\Shapes.vsd"
 ```
 

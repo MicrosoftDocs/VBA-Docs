@@ -28,7 +28,7 @@ Use the  **[Explorers](Outlook.Application.Explorers.md)** property to return th
 The following example shows how to retrieve the  **Explorers** object in Microsoft Visual Basic and Microsoft Visual Basic for Applications (VBA).
 
 
-```
+```vb
 Set myExplorers = Application.Explorers
 ```
 

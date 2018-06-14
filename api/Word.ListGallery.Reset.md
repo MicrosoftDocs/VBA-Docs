@@ -36,7 +36,7 @@ Resets the list template specified by Index for the specified list gallery to th
 This example sets the fourth format listed on the Numbered tab in the Bullets and Numbering dialog box back to the built-in numbering format, and then it applies the list template to the selection.
 
 
-```
+```vb
 ListGalleries(wdNumberGallery).Reset(4) 
 Selection.Range.ListFormat.ApplyListTemplate _ 
  ListTemplate:=ListGalleries(2).ListTemplates(4)

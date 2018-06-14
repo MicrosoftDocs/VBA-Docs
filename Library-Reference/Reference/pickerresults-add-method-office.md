@@ -46,7 +46,7 @@ PickerResult
 The following code sets the Picker Dialog properties and then displays the Picker Dialog.
 
 
-```
+```vb
 Dim objPickerDialog As PickerDialog 
 Dim objPickerProperties As PickerProperties 
 Dim objPickerProperty As PickerProperty 

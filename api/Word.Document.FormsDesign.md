@@ -35,7 +35,7 @@ When Word is in form design mode, the  **Control Toolbox** toolbar is displayed.
 This example displays a message box that indicates whether the active document is in form design mode. This example will always return  **False** .
 
 
-```
+```vb
 Msgbox ActiveDocument.FormsDesign
 ```
 

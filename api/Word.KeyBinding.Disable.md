@@ -33,7 +33,7 @@ Using this method is the equivalent to clicking the  **Remove** button in the **
 This example removes the CTRL+SHIFT+B key assignment. This key combination is assigned to the Bold command by default.
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 FindKey(BuildKeyCode(wdKeyControl, wdKeyShift, wdKeyB)).Disable
 ```

@@ -27,7 +27,7 @@ Use the  **Add** method to add a new custom conversion dictionary to the collect
 
 
 
-```
+```vb
 CustomDictionaries.Add FileName:="Hanja1.hhd"
 ```
 

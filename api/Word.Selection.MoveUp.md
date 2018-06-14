@@ -43,7 +43,7 @@ Long
 This example moves the selection to the beginning of the previous paragraph.
 
 
-```
+```vb
 Selection.MoveRight 
 Selection.MoveUp Unit:=wdParagraph, Count:=2, Extend:=wdMove
 ```

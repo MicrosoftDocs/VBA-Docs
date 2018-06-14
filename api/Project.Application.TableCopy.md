@@ -51,7 +51,7 @@ For detailed control of table features when making a copy, see the  **[TableEdit
 If the active view is the Resource Sheet, the following statement copies the resource Entry table to a table named "Copy of Resource Sheet table" and then sets the Resource Sheet view to use that table.
 
 
-```
+```vb
 TableCopy Name:="Copy of Resource Sheet table"
 ```
 

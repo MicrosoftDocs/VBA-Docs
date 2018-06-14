@@ -24,7 +24,7 @@ Returns the value of the specified cell. If the cell is empty, Value returns the
 This example sets the value of cell A1 on the datasheet to 3.14159.
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A1").Value = 3.14159
 ```
 

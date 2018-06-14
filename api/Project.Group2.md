@@ -36,7 +36,7 @@ The following example ensures that the Standard Rate resource group displays sum
 
  
 
-```
+```vb
 ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True
 ```
 

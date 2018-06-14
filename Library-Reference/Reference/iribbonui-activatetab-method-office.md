@@ -41,7 +41,7 @@ Nothing
 The following code makes the custom tab the active tab.
 
 
-```
+```vb
 Public myRibbon As IRibbonUI 
  
 Sub tabActivate(ByVal control As IRibbonControl) 

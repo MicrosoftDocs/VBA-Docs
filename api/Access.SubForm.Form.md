@@ -42,7 +42,7 @@ The next example calls a function from a property sheet by using the  **Form** p
 
 
 
-```
+```vb
 =MyFunction(Form!CustomerID)
 ```
 

@@ -25,7 +25,7 @@ Use the  **Add** method to add an endnote to the **Endnotes** collection. The fo
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseEnd 
 ActiveDocument.Endnotes.Add Range:=Selection.Range , _ 
  Text:="The Willow Tree, (Lone Creek Press, 1996)."

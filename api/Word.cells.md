@@ -16,7 +16,7 @@ A collection of  **[Cell](Word.Cell.md)** objects in a table column, table row, 
 Use the  **Cells** property to return the **Cells** collection. The following example formats the cells in the first row in table one in the active document to be 30 points wide.
 
 
-```
+```vb
 ActiveDocument.Tables(1).Rows(1).Cells.Width = 30
 ```
 
@@ -25,7 +25,7 @@ The following example returns the number of cells in the current row.
 
 
 
-```
+```vb
 num = Selection.Rows(1).Cells.Count
 ```
 
@@ -34,7 +34,7 @@ Use the  **[Add](Word.Cells.Add.md)** method to add a **[Cell](Word.Cell.md)** o
 
 
 
-```
+```vb
 Set myTable = ActiveDocument.Tables(1) 
 myTable.Range.Cells.Add BeforeCell:=myTable.Cell(1, 1)
 ```
@@ -44,7 +44,7 @@ Use  **Cell** (row, column), where row is the row number and column is the colum
 
 
 
-```
+```vb
 Set myCell = ActiveDocument.Tables(1).Cell(Row:=1, Column:=2) 
 myCell.Shading.Texture = wdTexture20Percent
 ```
@@ -54,7 +54,7 @@ The following example applies shading to the first cell in the first row.
 
 
 
-```
+```vb
 ActiveDocument.Tables(1).Rows(1).Cells(1).Shading _ 
  .Texture = wdTexture20Percent
 ```
@@ -66,7 +66,7 @@ Use the  **Add** method with the **[Rows](Word.rows.md)** or **[Columns](Word.co
 
 
 
-```
+```vb
 Set myTable = ActiveDocument.Tables(1) 
 Set aColumn = myTable.Columns.Add(BeforeColumn:=myTable.Columns(1)) 
 For Each aCell In aColumn.Cells 

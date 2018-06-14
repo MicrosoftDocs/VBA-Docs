@@ -21,7 +21,7 @@ Represents a slide master, title master, handout master, notes master, or design
 To return a  **Master** object, use the[Master](http://msdn.microsoft.com/library/cec5385d-f6af-dd8d-7989-251a70c4937e%28Office.15%29.aspx)property of the  **[Slide](PowerPoint.Slide.md)** object or **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** collection, or use the[HandoutMaster](http://msdn.microsoft.com/library/d80a8e51-61db-8da0-1fda-20a043e62569%28Office.15%29.aspx), [NotesMaster](http://msdn.microsoft.com/library/0889b69b-4c51-82cf-ccc2-ccb211d8a34e%28Office.15%29.aspx), [SlideMaster](http://msdn.microsoft.com/library/c6a9263c-462a-e9d8-7afc-32da3e133e90%28Office.15%29.aspx), or [TitleMaster](http://msdn.microsoft.com/library/d5a84b2a-fff0-dcb5-e744-466428a586b5%28Office.15%29.aspx)property of the  **[Presentation](PowerPoint.Presentation.md)** object. Note that some of these properties are also available from the **[Design](http://msdn.microsoft.com/library/3b02c779-8313-9512-c8d9-cf8a3883229f%28Office.15%29.aspx)** object as well. The following example sets the background fill for the slide master for the active presentation.
 
 
-```
+```vb
 ActivePresentation.SlideMaster.Background.Fill _
 
     .PresetGradient msoGradientHorizontal, 1, msoGradientBrass
@@ -32,7 +32,7 @@ To add a title master or design to a presentation and return a  **Master** objec
 
 
 
-```
+```vb
 ActivePresentation.AddTitleMaster.Shapes.Title.Top = 10
 ```
 

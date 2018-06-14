@@ -31,7 +31,7 @@ Gets a  **[SharedWorkspaceLinks](sharedworkspacelinks-object-office.md)** collec
 The following example lists the links saved in the current shared workspace.
 
 
-```
+```vb
   Dim swsLinks As Office.SharedWorkspaceLinks 
     Set swsLinks = ActiveWorkbook.SharedWorkspace.Links 
     MsgBox "There are " &amp; swsLinks.Count &amp; _ 

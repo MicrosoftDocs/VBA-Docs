@@ -28,7 +28,7 @@ Reminders are created programmatically when a new Outlook item is created with a
 The following example displays the captions of each reminder in the list.
 
 
-```
+```vb
 Sub ViewReminderInfo() 
  'Lists reminder caption information 
  Dim objRem As Reminder 
@@ -62,7 +62,7 @@ The following example creates a new appointment item and sets the  **ReminderSet
 
 
 
-```
+```vb
 Sub AddAppt() 
  'Adds a new appointment and reminder to the reminders collection 
  Dim objApt As AppointmentItem 

@@ -43,7 +43,7 @@ TabStop
 This example adds a tab stop positioned at 2.5 inches (from the left edge of the page) to the selected paragraphs.
 
 
-```
+```vb
 Selection.Paragraphs.TabStops.Add Position:=InchesToPoints(2.5)
 ```
 

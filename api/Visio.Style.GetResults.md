@@ -50,7 +50,7 @@ For  **Style** objects, you can use the **GetResults** method to get results of 
 
 
 
-```
+```vb
 {sectionIdx, rowIdx, cellIdx }n
 ```
 

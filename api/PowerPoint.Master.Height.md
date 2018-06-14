@@ -38,7 +38,7 @@ The  **Height** property of a **Shape** object returns or sets the height of the
 This example sets the height of document window two to half the height of the application window.
 
 
-```
+```vb
 Windows(2).Height = Application.Height / 2
 ```
 

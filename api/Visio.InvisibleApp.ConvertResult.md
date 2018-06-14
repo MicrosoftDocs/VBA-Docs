@@ -67,7 +67,7 @@ Examples where string is specified:
 
 
 
-```
+```vb
  
 Debug.Print vsoApplication.ConvertResult("0.5 * 2", "ft", "ft") >>> 1.0 
 Debug.Print vsoApplication.ConvertResult("0.5 * 2", "ft", "in") >>> 12.0 
@@ -83,7 +83,7 @@ Examples where number is specified:
 
 
 
-```
+```vb
  
 Debug.Print vsoApplication.ConvertResult(1, "ft", "ft") >>> 1 
 Debug.Print vsoApplication.ConvertResult(1, "ft", "in") >>> 12 

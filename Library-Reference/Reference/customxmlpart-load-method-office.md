@@ -41,7 +41,7 @@ Boolean
 The following example adds a custom XML part, populates the custom XML part with XML from a file, and then manipulates the part's nodes.
 
 
-```
+```vb
 Sub ShowCustomXmlParts() 
     On Error GoTo Err 
  

@@ -36,7 +36,7 @@ Replaces a range with the value of the specified AutoCorrect entry.
 This example adds an AutoCorrect replacement entry, then applies the "sr" AutoCorrect entry to the selected text.
 
 
-```
+```vb
 AutoCorrect.Entries.Add Name:= "sr", Value:= "Stella Richards" 
 AutoCorrect.Entries("sr").Apply Selection.Range
 ```
@@ -46,7 +46,7 @@ This example applies the "sr" AutoCorrect entry to the first word in the active 
 
 
 
-```
+```vb
 AutoCorrect.Entries("sr").Apply ActiveDocument.Words(1)
 ```
 

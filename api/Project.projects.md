@@ -23,7 +23,7 @@ Use  **Projects** (Index), where Index is the project index number or project na
 
 
 
-```
+```vb
 Dim Temp As Long, Names As String 
 
  
@@ -48,7 +48,7 @@ Use the  **[Projects](http://msdn.microsoft.com/library/792b7334-a424-abe1-287e-
 
 
 
-```
+```vb
 Application.Projects.Count
 ```
 
@@ -57,7 +57,7 @@ Because the  **Projects** collection is a top-level object, the following exampl
 
 
 
-```
+```vb
 Projects.Count
 ```
 
@@ -66,7 +66,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/51629c33-1521-bfee-edf7-bed79
 
 
 
-```
+```vb
 Projects.Add False
 ```
 

@@ -47,7 +47,7 @@ A GUID is a unique hexadecimal identifier for a list or a view. A GUID must be e
 
 
 
-```
+```vb
  
 {FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF}
 ```

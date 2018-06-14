@@ -42,7 +42,7 @@ This example returns the current status of the  **Show document tooltips on hove
 
 
 
-```
+```vb
 temp = Application.DisplayScreenTips
 ```
 

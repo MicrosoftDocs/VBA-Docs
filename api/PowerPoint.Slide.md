@@ -38,7 +38,7 @@ The following examples describe how to:
 Use  **Slides** (index), where index is the slide name or index number, or use **Slides.FindBySlideID** (index), where index is the slide ID number, to return a single **Slide** object. The following example sets the layout for slide one in the active presentation.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Layout = ppLayoutTitle
 ```
 
@@ -47,7 +47,7 @@ The following example sets the layout for the slide with the ID number 265.
 
 
 
-```
+```vb
 ActivePresentation.Slides.FindBySlideID(265).Layout = ppLayoutTitle
 ```
 
@@ -56,7 +56,7 @@ Use  **Selection.SlideRange** (index), where index is the slide name or index nu
 
 
 
-```
+```vb
 ActiveWindow.Selection.SlideRange(1).Layout = ppLayoutTitle
 ```
 
@@ -65,7 +65,7 @@ If there's only one slide selected, you can use  **Selection.SlideRange** to ret
 
 
 
-```
+```vb
 ActiveWindow.Selection.SlideRange.Layout = ppLayoutTitle
 ```
 
@@ -74,7 +74,7 @@ Use the  **Slide** property to return the slide that's currently displayed in th
 
 
 
-```
+```vb
 Windows(2).View.Slide.Copy
 ```
 
@@ -83,7 +83,7 @@ Use the  **Add** method to create a new slide and add it to the presentation. Th
 
 
 
-```
+```vb
 ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 ```
 

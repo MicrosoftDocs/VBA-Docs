@@ -35,7 +35,7 @@ Use the  **[WebOptions](Publisher.Application.WebOptions.md)** property on the *
 
  
 
-```
+```vb
 Dim theWO As WebOptions 
  
 Set theWO = Application.WebOptions

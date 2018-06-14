@@ -21,7 +21,7 @@ The  _script_ argument is a [String expression](vbe-glossary.md). The  **String*
 Multiline scripts can be created by embedding carriage-return characters ( **Chr(** 13 **)** ).
 
 
-```
+```vb
 ThePath$ = Macscript("ChooseFile")
 
 

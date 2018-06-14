@@ -31,7 +31,7 @@ Use the  **Find** property to return a **FindReplace** object. The following exa
 
  
 
-```
+```vb
 With ActiveDocument.Find 
  .Clear 
  .FindText = "factory" 
@@ -46,7 +46,7 @@ Set the  **ReplaceScope** property to determine the extent of the search. The fo
 
 
 
-```
+```vb
 With ActiveDocument.Find 
  .Clear 
  .FindText = "Visual Basic Scripting Edition" 
@@ -63,7 +63,7 @@ The following example illustrates how the font attributes of the FoundTextRange 
 
 
 
-```
+```vb
 Dim objFindReplace As FindReplace 
  
 Set objFindReplace = ActiveDocument.Find 

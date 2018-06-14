@@ -16,7 +16,7 @@ A collection of  **Footnote** objects that represent all the footnotes in a sele
 Use the  **Footnotes** property to return the **Footnotes** collection. The following example changes all of the footnotes in the active document to endnotes.
 
 
-```
+```vb
 ActiveDocument.Footnotes.SwapWithEndnotes
 ```
 
@@ -25,7 +25,7 @@ Use the  **Add** method to add a footnote to the **Footnotes** collection. The f
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseEnd 
 ActiveDocument.Footnotes.Add Range:=Selection.Range , _ 
  Text:="The Willow Tree, (Lone Creek Press, 1996)."
@@ -36,7 +36,7 @@ Use  **Footnotes** (index), where index is the index number, to return a single 
 
 
 
-```
+```vb
 If Selection.Footnotes.Count >= 1 Then 
  Selection.Footnotes(1).Reference.Font.ColorIndex = wdRed 
 End If

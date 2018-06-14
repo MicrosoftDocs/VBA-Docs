@@ -40,7 +40,7 @@ This example sets the bottom margin to 2.5 inches for all the sections in the cu
 
 
 
-```
+```vb
 Selection.PageSetup.BottomMargin = InchesToPoints(2.5)
 ```
 

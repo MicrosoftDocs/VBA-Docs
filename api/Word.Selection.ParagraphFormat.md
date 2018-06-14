@@ -28,7 +28,7 @@ Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that re
 This example sets the paragraph formatting for the current selection to be right-aligned.
 
 
-```
+```vb
 Selection.ParagraphFormat.Alignment = wdAlignParagraphRight
 ```
 

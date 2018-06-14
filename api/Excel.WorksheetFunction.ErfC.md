@@ -55,7 +55,7 @@ If the parameter is negative, ERFC returns the #NUM! error value.
 The following example displays the complementary ERF function of 1 (0.1573).
 
 
-```
+```vb
 =ERFC(1)
 ```
 

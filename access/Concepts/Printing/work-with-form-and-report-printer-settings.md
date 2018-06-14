@@ -29,7 +29,7 @@ Whether a form or report uses the settings of the default application printer (t
 To determine whether a form or report has saved printer settings, you can read the  **UseDefaultPrinter** property of a **Form** or **Report** object using the following syntax:
 
 
-```
+```vb
 expression .UseDefaultPrinter 
 
 ```

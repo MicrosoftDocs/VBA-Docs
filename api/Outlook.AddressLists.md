@@ -26,7 +26,7 @@ The  **AddressLists** collection provides access to the root of the transport pr
 The following example sets a reference to the  **AddressLists** object.
 
 
-```
+```vb
 Set myAddressLists = myNameSpace.AddressLists
 ```
 

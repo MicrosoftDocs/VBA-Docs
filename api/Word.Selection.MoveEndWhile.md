@@ -42,7 +42,7 @@ While any character in Cset is found, the end position of the specified selectio
 This example moves the end position of the selection forward while the space character is found.
 
 
-```
+```vb
 Selection.MoveEndWhile Cset:=" ", Count:=wdForward
 ```
 
@@ -51,7 +51,7 @@ This example moves the end position of the selection forward while  **Count** is
 
 
 
-```
+```vb
 Selection.MoveEndWhile Cset:="abcdefgh", Count:=10
 ```
 

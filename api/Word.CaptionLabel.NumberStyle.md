@@ -33,7 +33,7 @@ Some of the constants listed above may not be available to you, depending on the
 This example inserts a caption at the insertion point. The caption letter is formatted as an uppercase letter.
 
 
-```
+```vb
 CaptionLabels(wdCaptionFigure).NumberStyle = _ 
  wdCaptionNumberStyleUppercaseLetter 
 Selection.Collapse Direction:=wdCollapseEnd 

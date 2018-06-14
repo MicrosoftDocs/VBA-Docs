@@ -40,7 +40,7 @@ If the  **PresetDrop** method was previously used to set the drop for the specif
 
 
 
-```
+```vb
 PresetDrop msoCalloutDropCustom
 ```
 

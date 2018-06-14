@@ -28,7 +28,7 @@ Returns or sets the standard measurement unit for Microsoft Word. Read/write  **
 This example sets the standard measurement unit for Word to points.
 
 
-```
+```vb
 Options.MeasurementUnit = wdPoints
 ```
 
@@ -37,7 +37,7 @@ This example returns the current measurement unit selected on the General tab in
 
 
 
-```
+```vb
 CurrUnit = Options.MeasurementUnit
 ```
 

@@ -33,7 +33,7 @@ If the spacing before the specified paragraphs is 0 (zero), this method sets spa
 This example toggles the formatting of the first paragraph in the active document to either add 12 points of space before the paragraph or leave no space before it.
 
 
-```
+```vb
 Selection.ParagraphFormat.OpenOrCloseUp
 ```
 

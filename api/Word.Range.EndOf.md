@@ -41,7 +41,7 @@ If the both the starting and ending positions for the range or selection are alr
 
 
 
-```
+```vb
 char = Selection.EndOf(Unit:=wdWord, Extend:=wdMove)
 ```
 

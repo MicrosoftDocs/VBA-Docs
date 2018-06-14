@@ -41,7 +41,7 @@ If the paragraphs are already formatted as an outline-numbered list, this method
 This example adds outline numbering to the paragraphs in the selection. If the selection is already an outline-numbered list, the example removes the numbers and formatting.
 
 
-```
+```vb
 Selection.Range.ListFormat.ApplyOutlineNumberDefault
 ```
 

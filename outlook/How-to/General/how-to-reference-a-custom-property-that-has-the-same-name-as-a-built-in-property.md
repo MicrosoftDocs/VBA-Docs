@@ -15,7 +15,7 @@ Assume a new control has a  **Top** property that is different from the standard
 
 
 - 
-```
+```vb
   control.Top
 ```
 
@@ -23,7 +23,7 @@ Assume a new control has a  **Top** property that is different from the standard
     uses the standard  **Top** property.
     
 - 
-```
+```vb
   control.Object.Top
 ```
 

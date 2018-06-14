@@ -60,7 +60,7 @@ Following are the results of the  **TestDocProps** macro, for a project that doe
 
 
 
-```
+```vb
 Number of custom document properties: 7
 % Complete  : 0%
 Cost    : $0.00

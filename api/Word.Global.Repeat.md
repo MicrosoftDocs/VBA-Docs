@@ -46,7 +46,7 @@ Using this method is the equivalent to using the  **Repeat** command on the **Ed
 This example inserts the text "Hello" followed by two paragraphs (the second typing action is repeated once).
 
 
-```
+```vb
 Selection.TypeText "Hello" 
 Selection.TypeParagraph 
 Repeat

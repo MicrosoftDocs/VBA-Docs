@@ -35,7 +35,7 @@ You can't add or delete an  **AccessObject** object from the **AllForms** collec
 The following example prints the name of each open  **AccessObject** object in the **AllForms** collection.
 
 
-```
+```vb
 Sub AllForms() 
     Dim obj As AccessObject, dbs As Object 
     Set dbs = Application.CurrentProject 
@@ -54,7 +54,7 @@ The following example shows how to prevent a user form opening a particular form
  **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
-```
+```vb
 'Don't let this form be opened from the Navigator
 If Not CurrentProject.AllForms(cFormUsage).IsLoaded Then
     MsgBox "This form cannot be opened from the Navigation Pane.", _

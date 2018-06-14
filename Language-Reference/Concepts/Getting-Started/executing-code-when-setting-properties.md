@@ -17,7 +17,7 @@ The  **Property Let** statement allows you to create a procedure that sets the v
 
 
 
-```
+```vb
 Form1.Inverted = True 
 
 ```
@@ -46,7 +46,7 @@ This  **Property Get** procedure is used to return the current state of the prop
 
 
 
-```
+```vb
 Property Get Inverted() As Boolean 
  Inverted = IsInverted 
 End Property 

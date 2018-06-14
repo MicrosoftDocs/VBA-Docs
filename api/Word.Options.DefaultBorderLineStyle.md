@@ -28,7 +28,7 @@ Returns or sets the default border line style. Read/write  **WdLineStyle** .
 This example sets the default line style to double.
 
 
-```
+```vb
 Options.DefaultBorderLineStyle = wdLineStyleDouble
 ```
 

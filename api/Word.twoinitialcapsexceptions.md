@@ -30,7 +30,7 @@ If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically
 
 
 
-```
+```vb
 AutoCorrect.TwoInitialCapsExceptions.Add Name:="INdustry"
 ```
 
@@ -39,7 +39,7 @@ Use  **TwoInitialCapsExceptions** (Index), where Index is the initial cap name o
 
 
 
-```
+```vb
 AutoCorrect.TwoInitialCapsExceptions("KMenu").Delete
 ```
 

@@ -33,7 +33,7 @@ The shape range can contain drawings, shapes, pictures, OLE objects, ActiveX con
 The following example applies shadow formatting to all the shapes in the selection.
 
 
-```
+```vb
 Selection.ShapeRange.Shadow.Type = msoShadow6
 ```
 

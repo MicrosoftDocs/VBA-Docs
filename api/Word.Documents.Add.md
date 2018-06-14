@@ -44,7 +44,7 @@ Document
 This example creates a new document based on the Normal template.
 
 
-```
+```vb
 Documents.Add
 ```
 
@@ -53,7 +53,7 @@ This example creates a new document based on the Professional Memo template.
 
 
 
-```
+```vb
 Documents.Add Template:="C:\Program Files\Microsoft Office" _ 
  &; "\Templates\Memos\Professional Memo.dot"
 ```
@@ -63,7 +63,7 @@ This example creates and opens a new template, using the template attached to th
 
 
 
-```
+```vb
 tmpName = ActiveDocument.AttachedTemplate.FullName 
 Documents.Add Template:=tmpName, NewTemplate:=True
 ```

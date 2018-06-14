@@ -16,7 +16,7 @@ You tried to use an object in an incorrect way. This error has the following cau
 
 - You tried to discontinue an object reference by assigning  **Nothing** to it but omitted the **Set**[keyword](vbe-glossary.md):
     
-  ```
+  ```vb
   MyObject = Nothing 
   ```
 

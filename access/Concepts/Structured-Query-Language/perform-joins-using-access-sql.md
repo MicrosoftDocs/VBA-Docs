@@ -16,7 +16,7 @@ In a relational database system like Access, you often need to extract informati
 The  **[INNER JOIN](http://msdn.microsoft.com/library/8D16C74C-02C6-12B7-B180-3E7744EF65F3%28Office.15%29.aspx)**, also known as an equi-join, is the most commonly used type of join. This join is used to retrieve rows from two or more tables by matching a field value that is common between the tables. The fields you join on must have similar data types, and you cannot join on MEMO or OLEOBJECT data types. To build an **INNER JOIN** statement, use the **INNER JOIN** keywords in the **[FROM](from-clause-microsoft-access-sql.md)** clause of a **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. This example uses the **INNER JOIN** to build a result set of all customers who have invoices, in addition to the dates and amounts of those invoices.
 
 
-```sql
+```vbsql
 SELECT [Last Name], InvoiceDate, Amount 
    FROM tblCustomers INNER JOIN tblInvoices 
    ON tblCustomers.CustomerID=tblInvoices.CustomerID 
@@ -30,7 +30,7 @@ To further qualify the  **SELECT** statement, you can use a **[WHERE](where-clau
 
 
 
-```sql
+```vbsql
 SELECT [Last Name], InvoiceDate, Amount 
    FROM tblCustomers INNER JOIN tblInvoices 
    ON tblCustomers.CustomerID=tblInvoices.CustomerID 
@@ -43,7 +43,7 @@ When you must join more than one table, you can nest the  **INNER JOIN** clauses
 
 
 
-```sql
+```vbsql
 SELECT [Last Name], InvoiceDate, Amount, City, State 
    FROM (tblCustomers INNER JOIN tblInvoices 
    ON tblCustomers.CustomerID=tblInvoices.CustomerID) 
@@ -57,7 +57,7 @@ Be aware that the first  **JOIN** clause is enclosed in parentheses to keep it l
 
 
 
-```sql
+```vbsql
 SELECT tblCustomers.[Last Name], 
    tblCustomers.[First Name] 
    FROM tblCustomers INNER JOIN tblCustomers AS A 
@@ -76,7 +76,7 @@ As an example, suppose that you want to determine the total amount invoiced to e
 
 
 
-```sql
+```vbsql
 SELECT [Last Name] &; ', ' &;  [First Name] AS Name, 
    IIF(Sum(Amount) IS NULL,'NONE',Sum(Amount)) AS Total 
    FROM tblCustomers LEFT OUTER JOIN tblInvoices 
@@ -94,7 +94,7 @@ Several things occur in the previous SQL statement. The first is the use of the 
 A term that often comes up when discussing joins is the Cartesian product. A Cartesian product is defined as "all possible combinations of all rows in all tables." For example, if you were to join two tables without any kind of qualification or join type, you would get a Cartesian product.
 
 
-```sql
+```vbsql
 SELECT * 
    FROM tblCustomers, tblInvoices 
 ```
@@ -107,7 +107,7 @@ This is not a good thing, especially with tables that contain hundreds or thousa
 Although the  **[UNION](http://msdn.microsoft.com/library/A5139921-51E5-7D96-74E3-11C3FD5F7EAA%28Office.15%29.aspx)** operator, also known as a union query, is not technically a join, it is included here because it does involve combining data from multiple sources of data into one result set, which is similar to some types of joins. The **UNION** operator is used to splice together data from tables, **SELECT** statements, or queries, while leaving out any duplicate rows. Both data sources must have the same number of fields, but the fields do not have to be the same data type. Suppose that you have an Employees table that has the same structure as the Customers table, and you want to build a list of names and e-mail addresses by combining both tables.
 
 
-```sql
+```vbsql
 SELECT [Last Name], [First Name], Email 
    FROM tblCustomers 
 UNION 
@@ -120,7 +120,7 @@ To retrieve all fields from both tables, you could use the  **[TABLE](table-micr
 
 
 
-```sql
+```vbsql
 TABLE tblCustomers 
 UNION 
 TABLE tblEmployees 
@@ -131,7 +131,7 @@ The  **UNION** operator will not display any records that are exact duplicates i
 
 
 
-```sql
+```vbsql
 SELECT [Last Name], [First Name], Email 
    FROM tblCustomers 
 UNION ALL 
@@ -149,7 +149,7 @@ A  **TRANSFORM** statement is used to calculate a sum, average, count, or other 
 
 
 
-```sql
+```vbsql
    TRANSFORM aggregating function 
    SELECT statement 
    PIVOT column heading field 
@@ -160,7 +160,7 @@ An example scenario could be if you want to build a datasheet that displays the 
 
 
 
-```sql
+```vbsql
 TRANSFORM 
 IIF(Sum([Amount]) IS NULL,'NONE',Sum([Amount])) 
    AS Total 

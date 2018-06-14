@@ -21,7 +21,7 @@ Returns an  **[Interior](Excel.Interior(Graph object).md)** object that represen
 This example sets the interior color of the chart title.
 
 
-```
+```vb
 myChart.ChartTitle.Interior.ColorIndex = 8
 ```
 

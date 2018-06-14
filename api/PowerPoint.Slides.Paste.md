@@ -53,7 +53,7 @@ Use the  **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set t
 This example cuts slides three and five from the Old Sales presentation and then inserts them before slide four in the active presentation.
 
 
-```
+```vb
 Presentations("Old Sales").Slides.Range(Array(3, 5)).Cut
 
 ActivePresentation.Slides.Paste 4

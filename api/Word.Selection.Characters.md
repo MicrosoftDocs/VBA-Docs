@@ -33,7 +33,7 @@ For information about returning a single member of a collection, see [Returning 
 This example displays the first character in the selection. If nothing is selected, the character immediately after the insertion point is displayed.
 
 
-```
+```vb
 char = Selection.Characters(1).Text 
 MsgBox "The first character is... " &; char
 ```

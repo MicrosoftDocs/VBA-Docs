@@ -47,7 +47,7 @@ Document
 This example creates a new Avery 2160 minilabel document using a predefined address.
 
 
-```
+```vb
 addr = "Dave Edson" &; vbCr &; "123 Skye St." _ 
  &; vbCr &; "Our Town, WA 98004" 
 Application.MailingLabel.CreateNewDocument _ 
@@ -59,7 +59,7 @@ This example creates a new Avery 5664 shipping-label document using the selected
 
 
 
-```
+```vb
 addr = Selection.Text 
 Application.MailingLabel.CreateNewDocument _ 
  Name:="5664", Address:=addr, _ 

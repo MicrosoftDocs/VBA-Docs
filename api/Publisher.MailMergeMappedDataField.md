@@ -24,7 +24,7 @@ Use  **MappedDataFields** (index) to return a **MailMergeMappedDataField** objec
 
  
 
-```
+```vb
 Sub MappedFieldName() 
  Dim strMappedDataField As String 
  With ActiveDocument.MailMerge.DataSource 

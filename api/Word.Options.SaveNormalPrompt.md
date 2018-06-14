@@ -43,7 +43,7 @@ This example returns the current status of the  **Prompt to save Normal template
 
 
 
-```
+```vb
 temp = Options.SaveNormalPrompt
 ```
 

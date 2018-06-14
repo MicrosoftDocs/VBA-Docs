@@ -24,7 +24,7 @@ Use the  **[Line](Publisher.Shape.Line.md)** property to return a **LineFormat**
 
  
 
-```
+```vb
 Sub FormatLine() 
  With ActiveDocument.Pages(1).Shapes.AddLine(BeginX:=100, _ 
  BeginY:=100, EndX:=200, EndY:=300).Line 

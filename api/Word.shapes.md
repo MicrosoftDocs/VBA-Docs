@@ -23,7 +23,7 @@ Use the  **Shapes** property to return the **Shapes** collection. The following 
 
 
 
-```
+```vb
 ActiveDocument.Shapes.SelectAll
 ```
 
@@ -35,7 +35,7 @@ Use one of the following methods of the  **Shapes** collection: **AddCallout**, 
 
 
 
-```
+```vb
 ActiveDocument.Shapes.AddShape msoShapeRectangle, 50, 50, 100, 200
 ```
 
@@ -44,7 +44,7 @@ Use  **Shapes** (Index), where Index is the name or the index number, to return 
 
 
 
-```
+```vb
 ActiveDocument.Shapes(1).Flip msoFlipHorizontal
 ```
 
@@ -53,7 +53,7 @@ This example horizontally flips the shape named "Rectangle 1" on the active docu
 
 
 
-```
+```vb
 ActiveDocument.Shapes("Rectangle 1").Flip msoFlipHorizontal
 ```
 

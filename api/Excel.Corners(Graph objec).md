@@ -21,7 +21,7 @@ Represents the corners of the specified 3-D chart. This object isn't a collectio
 Use the  **[Corners](Excel.Corners(Graph property).md)** property to return the  **Corners** object. The following example selects the corners of the chart.
 
 
-```
+```vb
 myChart.Corners.Select
 ```
 

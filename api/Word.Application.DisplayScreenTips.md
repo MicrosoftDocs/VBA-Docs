@@ -37,7 +37,7 @@ This example returns the current status of the  **ScreenTips** checkbox in the *
 
 
 
-```
+```vb
 temp = Application.DisplayScreenTips
 ```
 

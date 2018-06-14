@@ -48,7 +48,7 @@ If you use the Team Planner to drag an assignment from one resource to another w
 The following line of code reassigns the assignments selected in the Team Planner to the resource with ID = 2.
 
 
-```
+```vb
 ReassignSelectedAssns ResourceID:=2
 ```
 
@@ -57,7 +57,7 @@ The following line of code changes the assignments to unassigned.
 
 
 
-```
+```vb
 ReassignSelectedAssns ResourceID:=-65535
 ```
 

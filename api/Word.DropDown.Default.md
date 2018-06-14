@@ -33,7 +33,7 @@ The first item in a drop-down form field is 1, the second item is 2, and so on.
 This example sets the default item for the drop-down form field named "Colors" in Sales.doc.
 
 
-```
+```vb
 Documents("Sales.doc").FormFields("Colors").DropDown _ 
  .Default = 2
 ```

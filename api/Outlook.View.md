@@ -45,7 +45,7 @@ Always use  **[Save](http://msdn.microsoft.com/library/effc4046-2e9c-3898-e37f-c
 The following example returns a view called Table View and stores it in a variable of type  **View** called objView. Before running this example, make sure a view by the name 'Table View' exists.
 
 
-```
+```vb
 Sub GetView() 
  
  'Creates a new view 
@@ -74,7 +74,7 @@ The following example creates a new view of type  **olTableView** called New Tab
 
 
 
-```
+```vb
 Sub CreateView() 
  
  'Creates a new view 

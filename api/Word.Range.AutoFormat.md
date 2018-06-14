@@ -28,7 +28,7 @@ Automatically formats a document. Use the  **Kind** property to specify a docume
 This example automatically formats the selection.
 
 
-```
+```vb
 Selection.Range.AutoFormat
 ```
 

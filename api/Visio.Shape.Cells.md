@@ -47,7 +47,7 @@ For example, if "Row_1" is the name of a row in a shape's User-Defined Cells sec
 
 
 
-```
+```vb
 vsoCell = vsoShape.Cells("User.Row_1")
 ```
 
@@ -56,7 +56,7 @@ You can use this statement to access the prompt cell in Row_1:
 
 
 
-```
+```vb
 vsoCell = vsoShape.Cells("User.Row_1.Prompt")
 ```
 
@@ -65,7 +65,7 @@ Next, assume that Row_1 is in the Shape Data section instead of the User- Define
 
 
 
-```
+```vb
 vsoCell = vsoShape.Cells("Prop.Row_1")
 ```
 
@@ -74,7 +74,7 @@ You can use this statement to access other cells in the row:
 
 
 
-```
+```vb
 vsoCell = vsoShape.Cells("Prop.Row_1.xxx")
 ```
 

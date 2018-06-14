@@ -21,7 +21,7 @@ Represents an outline on a worksheet.
 Use the  **[Outline](Excel.Worksheet.Outline.md)** property to return an **Outline** object. The following example sets the outline on Sheet4 so that only the first outline level is shown.
 
 
-```
+```vb
 Worksheets("sheet4").Outline.ShowLevels 1
 ```
 

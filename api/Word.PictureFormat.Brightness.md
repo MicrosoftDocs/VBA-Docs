@@ -36,7 +36,7 @@ Set docActive = ActiveDocument
 ```
 
 
-```
+```vb
 docActive.Shapes(1).PictureFormat.Brightness = 0.3
 ```
 

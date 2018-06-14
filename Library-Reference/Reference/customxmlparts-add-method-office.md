@@ -42,7 +42,7 @@ CustomXMLPart
 The following example adds a new CustomXMLPart, selects a CustomXMLPart using a search criteria, and then selects a single node from that part.
 
 
-```
+```vb
 Sub ShowCustomXmlParts() 
     On Error GoTo Err 
  

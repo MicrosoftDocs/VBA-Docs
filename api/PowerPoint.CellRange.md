@@ -41,7 +41,7 @@ This example returns the number of cells in row one of the selected table.
 
 
 
-```
+```vb
 num = ActiveWindow.Selection.ShapeRange.Table.Rows(1).Cells.Count
 ```
 

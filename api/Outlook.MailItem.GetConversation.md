@@ -53,7 +53,7 @@ The following code example assumes that the selected item in the explorer window
 
 
 
-```C#
+```vbC#
 void DemoConversation() 
 { 
  object selectedItem = 

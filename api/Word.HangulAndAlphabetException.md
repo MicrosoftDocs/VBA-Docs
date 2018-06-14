@@ -21,7 +21,7 @@ Represents a single Hangul or alphabet AutoCorrect exception. The  **HangulAndAl
 Use  **HangulAndAlphabetExceptions** (Index), where Index is the Hangul or alphabet AutoCorrect exception name or the index number, to return a single **HangulAndAlphabetException** object. The following example deletes the alphabet AutoCorrect exception named "hello."
 
 
-```
+```vb
 AutoCorrect.HangulAndAlphabetExceptions("hello").Delete
 ```
 
@@ -39,7 +39,7 @@ If the value of the  **HangulAndAlphabetAutoAdd** property is **True** , words a
 
 
 
-```
+```vb
 AutoCorrect.HangulAndAlphabetExceptions.Add Name:="goodbye"
 ```
 

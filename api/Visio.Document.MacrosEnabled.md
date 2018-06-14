@@ -57,7 +57,7 @@ To open a document in a disabled state (macros are not enabled), you can use the
 
 
 
-```
+```vb
 Documents.OpenEx(fileName , visOpenMacrosDisabled)
 ```
 

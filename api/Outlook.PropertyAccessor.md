@@ -30,7 +30,7 @@ For more information on using the  **PropertyAccessor** object, see[Properties O
 The following code sample demonstrates how to use the  **[PropertyAccessor.GetProperty](http://msdn.microsoft.com/library/a5f3493b-f302-c7b6-f442-23a7605be1c1%28Office.15%29.aspx)** method to read a MAPI property that belongs to a **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)** but that is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS**.
 
 
-```
+```vb
 Sub DemoPropertyAccessorGetProperty() 
  
  Dim PropName, Header As String 
@@ -67,7 +67,7 @@ The next code sample demonstrates how the  **[PropertyAccessor.SetProperties](ht
 
 
 
-```
+```vb
 Sub DemoPropertyAccessorSetProperties() 
  
  Dim PropNames(), myValues() As Variant 

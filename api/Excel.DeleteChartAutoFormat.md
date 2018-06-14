@@ -26,7 +26,7 @@ Removes a custom chart autoformat from the list of available chart autoformats.
 This example deletes the custom autoformat named "Presentation Chart."
 
 
-```
+```vb
 myChart.Application.DeleteChartAutoFormat _ 
  name:="Presentation Chart" 
 

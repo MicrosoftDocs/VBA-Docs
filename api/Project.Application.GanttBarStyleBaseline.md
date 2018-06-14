@@ -47,7 +47,7 @@ On the Ribbon, the  **GanttBarStyleBaseline** method corresponds to the **Baseli
 The following command shows the baseline 1 data for tasks on the active Gantt chart view.
 
 
-```
+```vb
 GanttBarStyleBaseline(1, True)
 ```
 

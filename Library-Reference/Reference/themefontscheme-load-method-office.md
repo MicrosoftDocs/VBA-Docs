@@ -33,7 +33,7 @@ Loads the font scheme of a Microsoft Office theme from a file.
 The following example loads a theme font scheme from a file.
 
 
-```
+```vb
 ThemeFontScheme.Load ("C:\myThemeFontScheme.xml")
 ```
 

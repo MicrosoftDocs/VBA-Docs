@@ -42,7 +42,7 @@ Range
 If the selection is just before the specified Unit, the selection is moved to the following unit. For example, if the selection is just before a word, the following instruction moves the selection forward to the word that follows.
 
 
-```
+```vb
 Selection.Next(Unit:=wdWord, Count:=1).Select
 ```
 

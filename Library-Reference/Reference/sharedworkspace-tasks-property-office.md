@@ -31,7 +31,7 @@ Gets a  **[SharedWorkspaceTasks](sharedworkspacetasks-object-office.md)** collec
 The following example lists the tasks in the current shared workspace.
 
 
-```
+```vb
    Dim swsTasks As Office.SharedWorkspaceTasks 
     Set swsTasks = ActiveWorkbook.SharedWorkspace.Tasks 
     MsgBox "There are " &amp; swsTasks.Count &amp; _ 

@@ -31,7 +31,7 @@ Use  **[Tabs](Publisher.TabStops.Add.md)** (index), where index is the location 
 
  
 
-```
+```vb
 Sub ClearTabStop() 
  Selection.TextRange.ParagraphFormat.Tabs(1).Clear 
 End Sub
@@ -44,7 +44,7 @@ The following example adds a right-aligned tab stop positioned at 2 inches to th
 
 
 
-```
+```vb
 Sub ChangeTabStop() 
  Selection.TextRange.ParagraphFormat.Tabs(2) _ 
  .Alignment = pbTabAlignmentTrailing 
@@ -58,7 +58,7 @@ Use the  **[Add](Publisher.TabStops.Add.md)** method to add a tab stop. The foll
 
 
 
-```
+```vb
 Sub AddNewTabs() 
  With Selection.TextRange.ParagraphFormat.Tabs 
  .Add Position:=InchesToPoints(1), _ 

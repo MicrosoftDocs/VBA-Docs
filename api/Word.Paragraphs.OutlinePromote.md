@@ -33,7 +33,7 @@ If a paragraph is formatted with the Heading 2 style, this method promotes the p
 This example promotes the selected paragraphs.
 
 
-```
+```vb
 Selection.Paragraphs.OutlinePromote
 ```
 

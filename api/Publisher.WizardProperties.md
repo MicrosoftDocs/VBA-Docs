@@ -24,7 +24,7 @@ Use the  **[Properties](Publisher.Wizard.Properties.md)** property with a **Wiza
 
  
 
-```
+```vb
 Dim wizTemp As Wizard 
 Dim wizproTemp As WizardProperty 
 Dim wizproAll As WizardProperties 

@@ -21,7 +21,7 @@ Represents the text frame in a  **[Shape](http://msdn.microsoft.com/library/666c
 Use the  **[TextFrame](http://msdn.microsoft.com/library/fc654905-d56b-9a6c-28fa-4b54bf2a8686%28Office.15%29.aspx)** property to return the **TextFrame** object for a shape. The **[TextRange](http://msdn.microsoft.com/library/44a8395e-81dc-7d06-f068-89f77a889f5e%28Office.15%29.aspx)** property returns a **[TextRange](Publisher.TextRange.md)** object that represents the range of text inside the specified text frame. The following example adds text to the text frame of shape one in the active publication, and then formats the new text.
 
 
-```
+```vb
 Sub AddTextToTextFrame() 
  With ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange 
  .Text = "My Text" 
@@ -42,7 +42,7 @@ Use the  **[HasTextFrame](http://msdn.microsoft.com/library/faf9514a-438b-ad12-a
 
 
 
-```
+```vb
 Sub GetTextFromTextFrame() 
  Dim shpText As Shape 
  
@@ -61,7 +61,7 @@ Text frames can be linked together so that the text flows from the text frame of
 
 
 
-```
+```vb
 Sub LinkTextBoxes() 
  Dim shpTextBox1 As Shape 
  Dim shpTextBox2 As Shape 

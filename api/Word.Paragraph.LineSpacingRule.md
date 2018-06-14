@@ -43,7 +43,7 @@ This example returns the line spacing rule used for the first paragraph in the s
 
 
 
-```
+```vb
 lrule = Selection.Paragraphs(1).LineSpacingRule
 ```
 

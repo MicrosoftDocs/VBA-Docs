@@ -25,7 +25,7 @@ Represents the entire Project application. The  **Application** object contains:
 Use the  **[Application](http://msdn.microsoft.com/library/935ad507-7df9-ce7b-16ab-4270349d9b74%28Office.15%29.aspx)** property to return an **Application** object in Project . The following example applies the **Windows** property to the **Application** object.
 
 
-```
+```vb
 Application.Windows("Project1.mpp").Activate
 ```
 
@@ -38,7 +38,7 @@ The following example creates the Microsoft Project  **Application** object at r
  **Note**  Because the application queries the  **MSProject.Application** type library only at run time, Microsoft IntelliSense is not available and performance is relatively poor with late binding. Scripting languages, such as JavaScript and VBScript, require late binding. VBScript supports only the generic **Object** and **Variant** data types. For better performance in VBA and other compiled languages, you should use early binding by setting a reference to the Project type library.
 
 
-```
+```vb
 Sub CreateProject_Late() 
     Dim pjApp As Object 
     Set pjApp = CreateObject("MSProject.Application") 
@@ -63,7 +63,7 @@ The following example opens a project from another application such as Excel , a
 
 
 
-```
+```vb
 Sub ModifyProject_Early() 
     Dim pjApp As MSProject.Application 
     Set pjApp = New MSProject.Application 

@@ -54,7 +54,7 @@ The  **SignatureProvider** object is used exclusively in custom signature provid
 The following example, written in C#, shows the implementation of the  **GenerateSignatureLineImage** method in a custom signature provider project.
 
 
-```
+```vb
  public IPictureDisp GenerateSignatureLineImage(SignatureLineImage siglnimg, SignatureSetup sigsetup, SignatureInfo siginfo, object xmldsigStream) 
  { 
  IPictureDisp sigline = null; 

@@ -17,7 +17,7 @@ You can use the following query keywords only in DAV Searching and Locating (DAS
     
 
 
-```
+```vb
   criteria = "@SQL=" &; Chr(34) _ 
 &; "urn:schemas:contacts:sn" &; Chr(34) _ 
 &; " ci_startswith 'Smith'"
@@ -28,7 +28,7 @@ You can use the following query keywords only in DAV Searching and Locating (DAS
     
 
 
-```
+```vb
   criteria = "@SQL=" &; Chr(34) _ 
 &; "urn:schemas:contacts:sn" &; Chr(34) _ 
 &; " ci_phrasematch 'Smith'"
@@ -44,7 +44,7 @@ You can use the following query keywords only in DAV Searching and Locating (DAS
     
 
 
-```sql
+```vbsql
   [PropertyName] IS NULL
 ```
 
@@ -57,7 +57,7 @@ You can use the following query keywords only in DAV Searching and Locating (DAS
     
 
 
-```sql
+```vbsql
   criteria = "@SQL=" &; "(NOT(" _ 
 &; Chr(34) &; "http://schemas.microsoft.com/mapi/string/" _ 
 &; "{00020329-0000-0000-C000-000000000046}/Order%20Date" &; Chr(34) _ 

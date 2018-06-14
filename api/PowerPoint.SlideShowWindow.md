@@ -21,7 +21,7 @@ Represents a window in which a slide show runs.
 Use  **SlideShowWindows** (index), where index is the slide show window index number, to return a single **SlideShowWindow** object. The following example activates slide show window two.
 
 
-```
+```vb
 SlideShowWindows(2).Activate
 ```
 
@@ -30,7 +30,7 @@ Use the [Run](http://msdn.microsoft.com/library/497fae3b-b6a3-dc26-20d9-bdc8057d
 
 
 
-```
+```vb
 With ActivePresentation.SlideShowSettings
 
     .ShowType = ppShowTypeSpeaker
@@ -51,7 +51,7 @@ Use the [View](http://msdn.microsoft.com/library/ebf565af-fc90-ab1b-0e05-6dcb90a
 
 
 
-```
+```vb
 SlideShowWindows(1).View.GotoSlide 3
 ```
 
@@ -60,7 +60,7 @@ Use the [Presentation](http://msdn.microsoft.com/library/9c05deb7-a385-540f-97a5
 
 
 
-```
+```vb
 MsgBox SlideShowWindows(1).Presentation.Name
 ```
 

@@ -35,7 +35,7 @@ Use the  **[ListValue](Word.ListFormat.ListValue.md)** property to return the nu
 This example displays both the numeric value of the first paragraph in the selection and the string representation of the list value.
 
 
-```
+```vb
 v = Selection.Range.ListFormat.ListValue 
 lstring = Selection.Range.ListFormat.ListString 
 MsgBox "List value " &; v _ 

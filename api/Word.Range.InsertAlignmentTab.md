@@ -37,7 +37,7 @@ Inserts an absolute tab that is always positioned in the same spot, relative to 
 The following example inserts an alignment tab at the Insertion Point.
 
 
-```
+```vb
 Selection.Range.InsertAlignmentTab 1, 1
 ```
 

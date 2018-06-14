@@ -35,7 +35,7 @@ This property returns the starting character position relative to the beginning 
 This example determines the length of the selection by comparing the starting and ending character positions.
 
 
-```
+```vb
 SelLength = Selection.End - Selection.Start
 ```
 

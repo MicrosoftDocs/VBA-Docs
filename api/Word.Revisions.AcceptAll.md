@@ -43,7 +43,7 @@ The following code example accepts all the tracked changes in the selection.
 
 
 
-```
+```vb
 Selection.Range.Revisions.AcceptAll
 ```
 

@@ -26,7 +26,7 @@ Represents a Document Inspector module in a  **[DocumentInspectors](documentinsp
 The following example inspects a document using a Document Inspector module and displays the status and results of the inspection.
 
 
-```
+```vb
 Public Sub DI_InspectDocument() 
 Dim docStatus As MsoDocInspectorStatus 
 Dim result As String 

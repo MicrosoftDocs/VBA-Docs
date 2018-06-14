@@ -32,7 +32,7 @@ Use  **[Items](Outlook.Items.Item.md)** ( _index_ ), where _index_ is the index 
  The following Microsoft Visual Basic example returns a new note.
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olNoteItem)
 ```
 

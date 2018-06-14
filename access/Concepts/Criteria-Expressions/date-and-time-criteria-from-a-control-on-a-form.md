@@ -44,7 +44,7 @@ If the current value of the HireDate control is , the  **Filter** or **ServerFil
 
 
 
-```text
+```vbtext
 "[HireDate] >= #5-1-92#"
 ```
 

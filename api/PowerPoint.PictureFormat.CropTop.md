@@ -49,7 +49,7 @@ This example crops the percentage specified by the user off the top of the selec
 
 
 
-```
+```vb
 percentToCrop = InputBox("What percentage do you " &; _
     "want to crop off the top of this picture?")
 

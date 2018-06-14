@@ -17,7 +17,7 @@ Visual Basic permits you to use very large strings. However, the requirements of
 
 - [Expressions](vbe-glossary.md) requiring that temporary strings be created for evaluation may cause this error. For example, the following code causes an `Out of string space` error on some operating systems:
     
-  ```
+  ```vb
   MyString = "Hello" 
 For Count = 1 To 100 
 MyString = MyString &; MyString 

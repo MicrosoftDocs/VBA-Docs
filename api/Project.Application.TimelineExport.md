@@ -54,7 +54,7 @@ Values of ExportWidth are limited to a range of 100 to 10000. Values outside tha
 The following statement corresponds to the  **Full Size** command in the **Copy Timeline** drop-down menu. The actual width of the exported image is the width of the Timeline pane.
 
 
-```
+```vb
 TimelineExport
 ```
 
@@ -63,7 +63,7 @@ The following statement corresponds to the  **For Presentation** command in the 
 
 
 
-```
+```vb
 TimelineExport ExportWidth:=916
 ```
 
@@ -72,7 +72,7 @@ The following statement corresponds to the  **For E-mail** command in the **Copy
 
 
 
-```
+```vb
 TimelineExport ExportWidth:=600
 ```
 

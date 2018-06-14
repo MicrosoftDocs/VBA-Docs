@@ -42,7 +42,7 @@ Range
 If the range is just before the specified Unit, the range is moved to the following unit. For example, if the range is just before a word, the following instruction moves the selected text forward to the following word.
 
 
-```
+```vb
 Selection.Range.Next(Unit:=wdWord, Count:=1).Select
 ```
 

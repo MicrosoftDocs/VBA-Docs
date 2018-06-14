@@ -37,7 +37,7 @@ The  **BackColor** property controls the color shown in the Visio Viewer window 
 The following code sets the value of the  **BackColor** property to the default value in a Windows form.
 
 
-```
+```vb
  vsoViewer.BackColor = &;H8000000F
 ```
 

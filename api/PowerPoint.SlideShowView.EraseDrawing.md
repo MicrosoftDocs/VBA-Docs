@@ -26,7 +26,7 @@ Removes lines drawn during a slide show by using either the  **[DrawLine](PowerP
 ## Example
 
 
-```
+```vb
 SlideShowWindows(1).View.EraseDrawing
 ```
 

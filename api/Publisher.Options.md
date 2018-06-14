@@ -21,7 +21,7 @@ Represents application and publication options in Microsoft Publisher. Many of t
 Use the  **[Options](http://msdn.microsoft.com/library/999f208a-02e6-49fb-c9a0-42aa97c5e37e%28Office.15%29.aspx)** property to return the **Options** object. The following example sets four application options for Publisher.
 
 
-```
+```vb
 Sub SetSpecialOptions() 
  With Options 
  .AllowBackgroundSave = True 

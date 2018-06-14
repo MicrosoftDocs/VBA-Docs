@@ -33,7 +33,7 @@ To call the  **GetDrive** method on a normal path string, use the following sequ
 
 
 
-```
+```vb
 DriveSpec = GetDriveName(GetAbsolutePathName(Path))
 
 

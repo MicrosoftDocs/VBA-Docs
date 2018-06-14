@@ -28,7 +28,7 @@ Returns or sets the formatting for the tables of contents in the specified docum
 This example applies Classic formatting to the tables of contents in Report.doc.
 
 
-```
+```vb
 Documents("Report.doc").TablesOfContents.Format = wdTOCClassic
 ```
 

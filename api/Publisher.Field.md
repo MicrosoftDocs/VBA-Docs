@@ -31,7 +31,7 @@ Use  **[Fields](Publisher.TextRange.Fields.md)** (index), where index is the ind
 
  
 
-```
+```vb
 Sub CountFields() 
  Dim pagPage As Page 
  Dim shpShape As Shape 

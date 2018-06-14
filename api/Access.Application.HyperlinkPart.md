@@ -109,7 +109,7 @@ When you use the  **HyperlinkPart** method in a query, the _part_ argument is re
 
 
 
-```sql
+```vbsql
 SELECT Links.URL, HyperlinkPart([URL],0) 
  AS Display, HyperlinkPart([URL],1) 
  AS Name, HyperlinkPart([URL],2) 

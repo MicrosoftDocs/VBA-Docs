@@ -39,7 +39,7 @@ The  **DropActions** property can be blank, or it can define a series of one or 
 
 
 
-```
+```vb
 Angle=45; FillForegnd=7; Width=(ThePage!PageWidth / 2 - 4cm)
 ```
 

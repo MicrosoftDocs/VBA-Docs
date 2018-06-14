@@ -32,7 +32,7 @@ This property returns a string that contains the version number of the Exchange 
 
 
 
-```
+```vb
 <major version>.<minor version>.<build number>.<revision>
 ```
 

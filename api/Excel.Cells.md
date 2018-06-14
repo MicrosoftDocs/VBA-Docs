@@ -25,7 +25,7 @@ Returns a Range object that represents the cells in the specified range, as it a
 This example clears the formula in cell A1 on the datasheet. Note that on the datasheet, column A is the second column and row 1 is the second row.
 
 
-```
+```vb
 myChart.Application.DataSheet.Cells(2,2).ClearContents
 ```
 

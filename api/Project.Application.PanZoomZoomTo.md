@@ -46,7 +46,7 @@ To pan the Gantt chart to a different starting date and maintain the same timesc
 The following command zooms in the Gantt chart to show the time between 10 AM and 5 PM on March 19, 2012.
 
 
-```
+```vb
 PanZoomZoomTo Start:="3/19/2012 10:00:00 AM", Finish:="3/19/2012 5:00:00 PM"
 ```
 

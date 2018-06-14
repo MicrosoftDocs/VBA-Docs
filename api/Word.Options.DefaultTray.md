@@ -33,7 +33,7 @@ When setting this property, you must specify a string found in the  **Default** 
 This example sets Word up to use the lower print tray.
 
 
-```
+```vb
 Options.DefaultTray = "Lower tray"
 ```
 
@@ -42,7 +42,7 @@ This example returns the string found in the  **Default tray** box on the **Prin
 
 
 
-```
+```vb
 Msgbox Options.DefaultTray
 ```
 

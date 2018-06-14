@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 - A [procedure](vbe-glossary.md) or data member identifier in your object module uses an identifier already used in the object module from which it derives. For example, a form has a **BackColor** property, so the following code would cause this error:
     
-  ```
+  ```vb
   ' Form already has a BackColor property. 
 Dim BackColor As Integer    ' Generates the error. 
  

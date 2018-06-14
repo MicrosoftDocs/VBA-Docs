@@ -21,7 +21,7 @@ Contains shading attributes for an object.
 Use the  **Shading** property to return the **Shading** object. The following example applies fine gray shading to the first paragraph in the active document.
 
 
-```
+```vb
 ActiveDocument.Paragraphs(1).Shading.Texture = wdTexture10Percent
 ```
 
@@ -30,7 +30,7 @@ The following example applies shading with different foreground and background c
 
 
 
-```
+```vb
 With Selection.Shading 
  .Texture = wdTexture20Percent 
  .ForegroundPatternColorIndex = wdBlue 
@@ -43,7 +43,7 @@ The following example applies a vertical line texture to the first row in the fi
 
 
 
-```
+```vb
 ActiveDocument.Tables(1).Rows(1).Shading.Texture = _ 
  wdTextureVertical
 ```

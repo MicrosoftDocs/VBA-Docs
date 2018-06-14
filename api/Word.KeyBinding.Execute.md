@@ -28,7 +28,7 @@ Runs the command associated with the specified key combination.
 This example assigns the CTRL+SHIFT+C key combination to the  **FileClose** command and then executes the key combination (the document is closed).
 
 
-```
+```vb
 CustomizationContext = ActiveDocument.AttachedTemplate 
 Keybindings.Add KeyCode:=BuildKeyCode(wdKeyControl, _ 
  wdKeyShift, wdKeyC), KeyCategory:=wdKeyCategoryCommand, _ 

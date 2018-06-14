@@ -37,7 +37,7 @@ This example returns the type of section break used at the beginning of the seco
 
 
 
-```
+```vb
 mytype = Documents("MyDoc.doc").Sections(2).PageSetup.SectionStart 
 ActiveDocument.PageSetup.SectionStart = mytype
 ```

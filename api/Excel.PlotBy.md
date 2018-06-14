@@ -30,7 +30,7 @@ Returns or sets the way columns or rows are used as data series on the chart. Re
 This example causes the embedded chart to plot data by columns.
 
 
-```
+```vb
 myChart.PlotBy = xlColumns
 ```
 

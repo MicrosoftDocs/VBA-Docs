@@ -62,7 +62,7 @@ The following example applies the Heading 1 style to the first paragraph in the 
 
 
 
-```
+```vb
 Selection.Paragraphs(1).Style = wdStyleHeading1
 ```
 

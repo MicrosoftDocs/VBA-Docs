@@ -23,7 +23,7 @@ Dim MyArray()
   ```
 
 
-  ```
+  ```vb
   ReDim MyArray(n) 
 
   ```

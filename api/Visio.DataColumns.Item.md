@@ -48,7 +48,7 @@ When you retrieve objects from a collection, you can omit  **Item** from the exp
 
 
 
-```
+```vb
 objectReturned = expression(Index) 
 objectReturned = expression(Name) 
 

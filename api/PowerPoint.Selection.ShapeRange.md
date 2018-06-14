@@ -40,7 +40,7 @@ You can return a shape range from a selection when the presentation is in normal
 This example sets the fill foreground color for all the selected shapes in window one.
 
 
-```
+```vb
 Windows(1).Selection.ShapeRange.Fill _
     .ForeColor.RGB = RGB(255, 0, 255)
 ```

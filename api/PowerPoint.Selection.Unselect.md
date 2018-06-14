@@ -28,7 +28,7 @@ Cancels the current selection.
 This example cancels the current selection in window one.
 
 
-```
+```vb
 Windows(1).Selection.Unselect
 ```
 

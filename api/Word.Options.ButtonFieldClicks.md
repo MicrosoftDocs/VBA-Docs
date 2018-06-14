@@ -28,7 +28,7 @@ Returns or sets the number of clicks (either one or two) required to run a GOTOB
 This example sets the number of clicks required to run a MACROBUTTON or GOTOBUTTON field to one.
 
 
-```
+```vb
 Options.ButtonFieldClicks = 1
 ```
 

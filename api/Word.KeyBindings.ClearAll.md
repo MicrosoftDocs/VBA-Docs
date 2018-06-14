@@ -28,7 +28,7 @@ Clears all the customized key assignments and restores the original Microsoft Wo
 This example clears the customized key assignments in the Normal template. The key assignments are reset to the default settings.
 
 
-```
+```vb
 CustomizationContext = NormalTemplateKeyBindings.ClearAll
 ```
 

@@ -41,32 +41,32 @@ When you use the  **GoTo** method with the **wdGoToGrammaticalError** , **wdGoTo
 
 The following examples are functionally equivalent; they both move the selection to the first heading in the document.
 
-```
+```vb
 Selection.GoTo What:=wdGoToHeading, Which:=wdGoToFirst
 Selection.GoTo What:=wdGoToHeading, Which:=wdGoToAbsolute, Count:=1
 ```
 
 The following example moves the selection to the fourth line in the document.
 
-```
+```vb
 Selection.GoTo What:=wdGoToLine, Which:=wdGoToAbsolute, Count:=4
 ```
 
 The following example moves the selection up two lines.
 
-```
+```vb
 Selection.GoTo What:=wdGoToLine, Which:=wdGoToPrevious, Count:=2
 ```
 
 The following example moves to the next DATE field.
 
-```
+```vb
 Selection.GoTo What:=wdGoToField, Name:="Date"
 ```
 
 This example moves the selection to the first cell in the next table.
 
-```
+```vb
 Selection.GoTo What:=wdGoToTable, Which:=wdGoToNext
 ```
 
@@ -81,13 +81,13 @@ End If
 
 This example moves the selection down four lines.
 
-```
+```vb
 Selection.GoTo What:=wdGoToLine, Which:=wdGoToRelative, Count:=4
 ```
 
 This example moves the selection back two pages.
 
-```
+```vb
 Selection.GoTo What:=wdGoToPage, Which:=wdGoToPrevious, Count:=2
 ```
 

@@ -52,7 +52,7 @@ You can often use the  **Nz** function as an alternative to the **IIf** function
 
 
 
-```
+```vb
 varTemp = IIf(IsNull(varFreight), 0, varFreight) 
 varResult = IIf(varTemp > 50, "High", "Low")
 ```
@@ -62,7 +62,7 @@ In the next example, the  **Nz** function provides the same functionality as the
 
 
 
-```
+```vb
 varResult = IIf(Nz(varFreight) > 50, "High", "Low")
 ```
 
@@ -71,7 +71,7 @@ If you supply a value for the optional argument valueifnull, that value will be 
 
 
 
-```
+```vb
 varResult = IIf(IsNull(varFreight), "No Freight Charge", varFreight)
 ```
 
@@ -80,7 +80,7 @@ In the next example, the optional argument supplied to the  **Nz** function prov
 
 
 
-```
+```vb
 varResult = Nz(varFreight, "No Freight Charge")
 ```
 

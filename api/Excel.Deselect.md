@@ -25,7 +25,7 @@ Cancels the selection for the chart.
 This example is equivalent to pressing ESC while working on the chart. The example should be run on a chart that has a component (such as an axis) selected.
 
 
-```
+```vb
 myChart.Deselect
 ```
 

@@ -42,7 +42,7 @@ Use the  **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set t
 This example copies the selection in window one to the Clipboard and copies it into the view in window two. If the Clipboard contents cannot be pasted into the view in window two ? for example, if you try to paste a shape into slide sorter view ? this example fails.
 
 
-```
+```vb
 Windows(1).Selection.Copy
 
 Windows(2).View.Paste
@@ -53,7 +53,7 @@ This example copies the selection in window one to the Clipboard, makes sure tha
 
 
 
-```
+```vb
 Windows(1).Selection.Copy
 
 With Windows(2)

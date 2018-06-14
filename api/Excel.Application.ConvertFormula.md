@@ -50,7 +50,7 @@ There is a 255 character limit for the formula.
 This example converts a SUM formula that contains R1C1-style references to an equivalent formula that contains A1-style references, and then it displays the result.
 
 
-```
+```vb
 inputFormula = "=SUM(R10C2:R15C2)" 
 MsgBox Application.ConvertFormula( _ 
  formula:=inputFormula, _ 

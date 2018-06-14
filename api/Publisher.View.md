@@ -24,7 +24,7 @@ Use the  **[ActiveView](Publisher.Document.ActiveView.md)** property to return t
 
  
 
-```
+```vb
 Sub ZoomFitSelection() 
  ActiveDocument.ActiveView.Zoom = pbZoomFitSelection 
 End Sub
@@ -37,7 +37,7 @@ The following examples zoom in and out, respectively, on the active view.
 
 
 
-```
+```vb
 Sub ViewZoomIn() 
  ActiveDocument.ActiveView.ZoomIn 
 End Sub 
@@ -54,7 +54,7 @@ The following example scrolls the active view to the specified shape.
 
 
 
-```
+```vb
 Sub ScrollToShape() 
  Dim shpOne As Shape 
  

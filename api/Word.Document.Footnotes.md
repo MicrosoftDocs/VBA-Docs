@@ -45,7 +45,7 @@ This example inserts an automatically numbered footnote at the insertion point.
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 ActiveDocument.Footnotes.Add Range:=Selection.Range, _ 
  Text:="(Lone Creek Press, 1995)"

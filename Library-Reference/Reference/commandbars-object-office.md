@@ -24,7 +24,7 @@ A collection of  **CommandBar** objects that represent the command bars in the c
 Use the  **CommandBars** property to return the **CommandBars** collection. The following example displays in the **Immediate** window both the name and local name of each menu bar and toolbar, and it displays a value that indicates whether the menu bar or toolbar is visible.
 
 
-```
+```vb
 For Each cbar in CommandBars 
     Debug.Print cbar.Name, cbar.NameLocal, cbar.Visible 
 Next
@@ -35,7 +35,7 @@ Use the  **Add** method to add a new command bar to the collection. The followin
 
 
 
-```
+```vb
 Set cbar1 = CommandBars.Add(Name:="Custom1", Position:=msoBarFloating) 
 cbar1.Visible = True
 ```
@@ -45,7 +45,7 @@ Use enumName, where  _index_ is the name or index number of a command bar, to re
 
 
 
-```
+```vb
 CommandBars("Custom1").Position = msoBarBottom
 ```
 

@@ -38,7 +38,7 @@ This example returns the current status of the  **Background printing** option o
 
 
 
-```
+```vb
 temp = Options.PrintBackground
 ```
 

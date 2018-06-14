@@ -46,7 +46,7 @@ This example removes all custom dictionaries so that no custom dictionaries are 
 
 
 
-```
+```vb
 CustomDictionaries.ClearAll
 ```
 

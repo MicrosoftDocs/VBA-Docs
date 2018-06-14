@@ -41,7 +41,7 @@ Boolean
 The following sample returns True if the  **Bold** button is enabled.
 
 
-```
+```vb
 Application.CommandBars.GetEnabledMso("Bold")
 ```
 

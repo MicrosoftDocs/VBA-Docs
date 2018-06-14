@@ -19,7 +19,7 @@ A collection of words in a selection, range, or document. Each item in the  **Wo
 Use the  **Words** property to return the **Words** object. The following code example displays how many words are currently selected.
 
 
-```
+```vb
 MsgBox Selection.Words.Count &amp; " words are selected"
 ```
 
@@ -28,7 +28,7 @@ Use  **Words** (Index), where Index is the index number, to return a **Range** o
 
 
 
-```
+```vb
 With Selection.Words(1) 
  .Italic = True 
  .Font.Size = 24 
@@ -40,7 +40,7 @@ The item in the  **Words** collection includes both the word and the spaces afte
 
 
 
-```
+```vb
 ActiveDocument.Words(1).Select
 ```
 
@@ -51,7 +51,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-```
+```vb
 Set temp = Dialogs(wdDialogToolsWordCount) 
 ' Execute the dialog box to refresh its data. 
 temp.Execute 
@@ -66,7 +66,7 @@ The  **Add** method is not available for the **Words** collection. Instead, use 
 
 
 
-```
+```vb
 ActiveDocument.Range.Words(1).InsertAfter "New text "
 ```
 

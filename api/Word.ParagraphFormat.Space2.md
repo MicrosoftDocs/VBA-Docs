@@ -32,7 +32,7 @@ You can also use the  **[LineSpacingRule](Word.ParagraphFormat.LineSpacingRule.m
 
 
 
-```
+```vb
 Selection.ParagraphFormat.Space2 
 Selection.ParagraphFormat.LineSpacingRule = wdLineSpaceDouble
 ```
@@ -43,7 +43,7 @@ Selection.ParagraphFormat.LineSpacingRule = wdLineSpaceDouble
 This example changes the first paragraph in the selection to double spacing.
 
 
-```
+```vb
 Selection.ParagraphFormat.Space2
 ```
 

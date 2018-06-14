@@ -28,7 +28,7 @@ Returns or sets the numeral style for an Arabic language document. Read/write  *
 This example sets the numeral style to Hindi.
 
 
-```
+```vb
 Options.ArabicNumeral = wdNumeralHindi
 ```
 

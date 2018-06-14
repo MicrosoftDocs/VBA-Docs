@@ -40,7 +40,7 @@ Inserts a caption immediately preceding or following the specified selection.
 This example inserts a Figure caption at the insertion point.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 Selection.InsertCaption Label:="Figure", _ 
  Title:=": Sales Results", Position:=wdCaptionPositionBelow

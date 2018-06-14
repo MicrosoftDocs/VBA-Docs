@@ -16,7 +16,7 @@ A collection of  **[Comment](Word.Comment.md)** objects that represent the comme
 Use the  **Comments** property to return the **Comments** collection. The following example displays comments made by Don Funk in the active document.
 
 
-```
+```vb
 ActiveDocument.ActiveWindow.View.SplitSpecial = wdPaneComments 
 ActiveDocument.Comments.ShowBy = "Don Funk"
 ```
@@ -26,7 +26,7 @@ Use the  **[Add](Word.Comments.Add.md)** method to add a comment at the specifie
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseEnd 
 ActiveDocument.Comments.Add Range:=Selection.Range, _ 
  Text:="review this"
@@ -37,7 +37,7 @@ Use  **Comments** (Index), where Index is the index number, to return a single *
 
 
 
-```
+```vb
 MsgBox ActiveDocument.Comments(1).Author
 ```
 
@@ -46,7 +46,7 @@ The following example displays the initials of the author of the first comment i
 
 
 
-```
+```vb
 If Selection.Comments.Count >= 1 Then MsgBox _ 
  Selection.Comments(1).Initial
 ```

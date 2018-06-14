@@ -32,7 +32,7 @@ You can return a set of shapes that are specified by the index number or by the 
 
  
 
-```
+```vb
 Set myRange1 = theReport.Shapes.Range(Array(1, 2))
 Set myRange2 = theReport.Shapes.Range(Array("Textbox 1", "Textbox 2"))
 ```
@@ -44,7 +44,7 @@ To create a  **ShapeRange** object that contains all of the shapes in the report
 
 
 
-```
+```vb
 Set allShapes = theReport.Shapes.Range(Array(1, theReport.Shapes.Count))
 ```
 
@@ -55,7 +55,7 @@ To create a  **ShapeRange** object with a single member of the **Shapes** collec
 
 
 
-```
+```vb
 Set myRange3 = theReport.Shapes.Range(2)
 Set myRange4 = theReport.Shapes.Range("Rectangle 2")
 ```
@@ -67,7 +67,7 @@ To perform an operation on a single shape in a  **ShapeRange** collection, you c
 
 
 
-```
+```vb
 myRange1(2).Fill.ForeColor.RGB = RGB(120, 120, 80)
 myRange1("Textbox 2").Fill.ForeColor.RGB = RGB(120, 120, 80)
 ```
@@ -79,7 +79,7 @@ Alternately, you can perform an operation directly on a  **Shape** object, witho
 
 
 
-```
+```vb
 theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 ```
 

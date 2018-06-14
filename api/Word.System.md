@@ -32,7 +32,7 @@ The following example displays the current screen resolution (for example, "1024
 
 
 
-```
+```vb
 horz = System.HorizontalResolution 
 vert = System.VerticalResolution 
 MsgBox "Resolution = " &; horz &; " x " &; vert

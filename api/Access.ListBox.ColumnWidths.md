@@ -36,7 +36,7 @@ In Visual Basic, use a string expression to set the column width values in twips
 
 
 
-```
+```vb
 "6 cm;0;6 cm"
 ```
 

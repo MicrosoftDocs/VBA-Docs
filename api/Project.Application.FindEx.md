@@ -68,7 +68,7 @@ Using the **FindEx** method with no arguments, or without specifying Field, Test
 Either of the following statements finds the next field that contains the value 2, within the set of all available fields.
 
 
-```
+```vb
 FindEx Field:="Name", value:="2", Test:="contains", SearchAllFields:=True 
 FindEx Field:="OtherField", value:="2", Test:="xx", FieldID:=pjTaskName, _
     TestID:=pjCompareContains, SearchAllFields:=True

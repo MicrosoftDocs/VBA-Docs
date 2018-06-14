@@ -43,7 +43,7 @@ This example sets the line spacing to double for the first paragraph in the sele
 
 
 
-```
+```vb
 Selection.Paragraphs(1).LineSpacingRule = wdLineSpaceDouble
 ```
 

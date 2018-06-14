@@ -21,7 +21,7 @@ Represents a single tab stop. The  **TabStop** object is a member of the **[TabS
 Use  **TabStops** (Index), where Index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the selected paragraphs.
 
 
-```
+```vb
 Selection.Paragraphs.TabStops(1).Clear
 ```
 
@@ -30,7 +30,7 @@ The following example adds a right-aligned tab stop positioned at 2 inches to th
 
 
 
-```
+```vb
 Selection.Paragraphs.TabStops(InchesToPoints(2)) _ 
  .Alignment = wdAlignTabRight
 ```
@@ -53,7 +53,7 @@ You can also add a tab stop by specifying a location with the  **TabStops** prop
 
 
 
-```
+```vb
 Selection.Paragraphs.TabStops(InchesToPoints(2)) _ 
  .Alignment = wdAlignTabRight
 ```

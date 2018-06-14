@@ -21,7 +21,7 @@ Represents data validation for a worksheet range.
 Use the  **[Validation](Excel.Range.Validation.md)** property to return the **Validation** object. The following example changes the data validation for cell E5.
 
 
-```
+```vb
 Range("e5").Validation _ 
  .Modify xlValidateList, xlValidAlertStop, "=$A$1:$A$10"
 ```
@@ -31,7 +31,7 @@ Use the  **[Add](Excel.Validation.Add.md)** method to add data validation to a r
 
 
 
-```
+```vb
 With Range("e5").Validation 
  .Add Type:=xlValidateWholeNumber, _ 
  AlertStyle:=xlValidAlertInformation, _ 

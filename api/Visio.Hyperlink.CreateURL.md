@@ -48,7 +48,7 @@ When you use the canonical form, the  **CreateURL** method applies URL canonical
 Here are some examples of results of the  **CreateURL** method:
 
 
-```
+```vb
 Address = "http://www.microsoft.com/" 
 CreateURL(False) returns "http://www.microsoft.com/" 
  
@@ -64,7 +64,7 @@ Relative path example:
 
 
 
-```
+```vb
 Assume : Document.HyperlinkBase = "http://www.microsoft.com/widgets/" 
 Address = "../file.htm" 
 CreateURL(False) returns "http://www.microsoft.com/file.htm" 

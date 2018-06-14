@@ -24,7 +24,7 @@ Use the  **[Item](Publisher.WizardProperties.Item.md)** property or the **[FindB
 
  
 
-```
+```vb
 Dim wizTemp As Wizard 
 Dim wizproTemp As WizardProperty 
 Dim wizproAll As WizardProperties 

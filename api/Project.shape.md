@@ -36,7 +36,7 @@ In the following example, the  **TestTextShape** macro creates a textbox shape, 
 
  
 
-```
+```vb
 Sub TestTextShape()
     Dim theReport As Report
     Dim textShape As Shape

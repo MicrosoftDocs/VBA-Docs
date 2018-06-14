@@ -45,7 +45,7 @@ This example returns the minimum font size for the active pane.
 
 
 
-```
+```vb
 Msgbox _ 
  ActiveDocument.ActiveWindow.ActivePane.MinimumFontSize
 ```

@@ -44,7 +44,7 @@ The collection of hyperlinks is one-based, so the first hyperlink in the collect
 The following code follows the hyperlink in the first index position in the collection of hyperlinks in the first shape on the page in Visio Viewer.
 
 
-```
+```vb
 vsoViewer.FollowHyperlink 1, 1
 ```
 

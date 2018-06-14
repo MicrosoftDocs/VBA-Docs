@@ -106,7 +106,7 @@ To remove the fractional portion of the  **Now** function, use the **[Int](http:
 When you compare time values, you may receive inconsistent results because a time value is stored as the fractional portion of a double-precision, floating-point number. For example, if you type the following expression in the Immediate window, you receive a  **False** (0) result even though the two time values look the same:
 
 
-```
+```vb
 var1 = #2:01:00 PM# 
 var2 = DateAdd("n", 10, var1) 
 ? var2 = #2:11:00 PM# 
@@ -121,7 +121,7 @@ Add an associated date to the time comparison:
 
 
 
-```
+```vb
 var1 = #7/11/2006 2:00:00 PM# 
 var2 = DateAdd("n", 10, var1) 
 ? var2 = #7/11/2006 2:10:00 PM#
@@ -132,7 +132,7 @@ Convert the time values to  **String** data types before you compare them:
 
 
 
-```
+```vb
 var1 = #2:00:00 PM# 
 var2 = DateAdd("n", 10, var1) 
 ? CStr(var2) = CStr(#2:10:00 PM#)
@@ -143,7 +143,7 @@ Use the  **[DateDiff](http://msdn.microsoft.com/library/15C9DF5F-1403-B6A5-71B9-
 
 
 
-```
+```vb
 var1 = #2:00:00 PM# 
 var2 = DateAdd("n", 10, var1) 
 ? DateDiff("s", var2, #2:10:00 PM#) = 0

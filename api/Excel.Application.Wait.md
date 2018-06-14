@@ -55,7 +55,7 @@ This example pauses a running macro for approximately 10 seconds.
 
 
 
-```
+```vb
 newHour = Hour(Now()) 
 newMinute = Minute(Now()) 
 newSecond = Second(Now()) + 10 

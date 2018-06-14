@@ -31,7 +31,7 @@ Use the  **[Fields](Publisher.TextRange.Fields.md)** property to return the **Fi
 
  
 
-```
+```vb
 Sub ShowFieldCodes() 
  Dim pagPage As Page 
  Dim shpShape As Shape 

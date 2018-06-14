@@ -36,7 +36,7 @@ String
 The following example displays the properties of the shared workspace to which the active document is connected.
 
 
-```
+```vb
 Dim swsWorkspace As Office.SharedWorkspace 
     Dim strSWSInfo As String 
     Set swsWorkspace = ActiveWorkbook.SharedWorkspace 

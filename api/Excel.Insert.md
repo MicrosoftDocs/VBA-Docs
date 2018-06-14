@@ -33,7 +33,7 @@ Inserts a cell or a range of cells into the datasheet and shifts other cells awa
 This example inserts a new row before row four on the datasheet.
 
 
-```
+```vb
 myChart.Application.DataSheet.Rows(4).Insert
 ```
 

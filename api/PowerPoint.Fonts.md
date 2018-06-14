@@ -35,7 +35,7 @@ Use  **Fonts** (index), where index is the font's name or index number, to retur
 
 
 
-```
+```vb
 If ActivePresentation.Fonts(1).Embedded = True Then 
     MsgBox "Font 1 is embedded"
 ```

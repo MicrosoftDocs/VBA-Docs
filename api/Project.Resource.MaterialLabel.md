@@ -30,7 +30,7 @@ The  **MaterialLabel** property does not return any meaningful information for n
 This example goes through the list of resources in the current project and sets the material label for all material resources to "pallet." (The error trapping in this example is only to illustrate how you might handle an expected exception. In a real-life example, you would probably include a test such as the following: 
 
 
-```
+```vb
 If InStr(R.Name, "bricks") <> 0 Then...
 ```
 

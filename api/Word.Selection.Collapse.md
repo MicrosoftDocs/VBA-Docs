@@ -36,7 +36,7 @@ Collapses a selection to the starting or ending position. After a selection is c
 This example collapses the selection to an insertion point at the beginning of the previous selection.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart
 ```
 

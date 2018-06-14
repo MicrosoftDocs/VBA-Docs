@@ -21,12 +21,12 @@ Represents a custom layout associated with a presentation design. The  **CustomL
 Use the  **CustomLayout** property of the **[Slide](PowerPoint.Slide.md)** or **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** objects to access a **CustomLayout** object, for example:
 
 
-```
+```vb
 ActiveWindow.Selection.SlideRange(1).CustomLayout
 ```
 
 
-```
+```vb
 ActivePresentation.Slides(1).CustomLayout
 ```
 

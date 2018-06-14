@@ -68,7 +68,7 @@ Categories are user-defined strings that you can use to categorize shapes and, t
 The following Visual Basic for Applications (VBA) example shows how to use the  **AddMember** method to add a new member (vsoShape) to an existing container (vsoContainerShape) on a page. The code assumes that vsoShape already overlaps vsoContainerShape.
 
 
-```
+```vb
 vsoContainerShape.ContainerProperties.AddMember vsoShape, visMemberAddExpandContainer
 ```
 

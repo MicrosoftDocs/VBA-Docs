@@ -28,7 +28,7 @@ Returns or sets the vertical alignment of text on each page in a document or sec
 This example changes the vertical alignment of the first document so that the text is centered between the top and bottom margins.
 
 
-```
+```vb
 Documents(1).PageSetup.VerticalAlignment = wdAlignVerticalCenter
 ```
 

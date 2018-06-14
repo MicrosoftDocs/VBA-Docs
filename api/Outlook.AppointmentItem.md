@@ -33,7 +33,7 @@ The following code example in VBA shows how to release and refresh references in
 
 
 
-```
+```vb
 Sub TestExceptions() 
  
  Dim oItems As Items 
@@ -195,7 +195,7 @@ End Sub
 The following Visual Basic for Applications (VBA) example returns a new appointment.
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olAppointmentItem)
 ```
 

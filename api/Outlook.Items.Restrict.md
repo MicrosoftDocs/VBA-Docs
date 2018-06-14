@@ -81,7 +81,7 @@ The syntax for the filter varies depending on the type of field you are filterin
 When filtering text fields, you can use either a pair of single quotes (') or a pair of double quotes ("), to delimit the values that are part of the filter. For example, all of the following lines function correctly when the field is of type  **String** :
 
 
-```
+```vb
 sFilter = "[CompanyName] = 'Microsoft'" sFilter = "[CompanyName] = ""Microsoft"""  
 sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
 ```
@@ -93,7 +93,7 @@ For example, in the DASL filter string that filters for the  **Subject** propert
 
 
 
-```
+```vb
 filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'can''t'"
 ```
 
@@ -102,7 +102,7 @@ Alternatively, you can use the  `chr(34)` function to represent the double quote
 
 
 
-```
+```vb
 filter = "@SQL= " &; Chr(34) &; "http://schemas.microsoft.com/mapi/proptag/0x0037001f" _  
     &; Chr(34) &; " = " &; "'can''t'"
 ```
@@ -112,7 +112,7 @@ Escaping single and double quote characters is also required for DASL queries wi
 
 
 
-```
+```vb
 filter = "@SQL=" &; Chr(34) &; "http://schemas.microsoft.com/mapi/proptag/0x0037001E" _  
     &; Chr(34) &; " ci_phrasematch " &; "'can''t'"
 ```
@@ -122,7 +122,7 @@ Another example is a DASL filter string that filters for the  **Subject** proper
 
 
 
-```
+```vb
 filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'the right ""stuff""'"
 ```
 
@@ -134,7 +134,7 @@ A different set of escaping rules apply to a property reference for named proper
 Although dates and times are typically stored with a  **Date** format, the **Find** and **Restrict** methods require that the date and time be converted to a string representation. To make sure that the date is formatted as Microsoft Outlook expects, use the **Format** function. The following example creates a filter to find all contacts that have been modified after January 15, 1999 at 3:30 P.M.
 
 
-```
+```vb
 sFilter = "[LastModificationTime] > '" &; Format("1/15/99 3:30pm", "ddddd h:nn AMPM") &; "'"
 ```
 
@@ -144,7 +144,7 @@ sFilter = "[LastModificationTime] > '" &; Format("1/15/99 3:30pm", "ddddd h:nn A
  **Boolean** operators, **TRUE**/ **FALSE**, YES/NO, ON/OFF, and so on, should not be converted to a string. For example, to determine whether journaling is enabled for contacts, you can use this filter: 
 
 
-```
+```vb
 sFilter = "[Journal] = True" 
 ```
 
@@ -165,7 +165,7 @@ The  **Categories** field is of type keywords, which is designed to hold multipl
 You can search for  **Integer** fields with, or without quotation marks as delimiters. The following filters will find contacts that were created by using Outlook 2000:
 
 
-```
+```vb
 sFilter = "[OutlookInternalVersion] = 92711" sFilter = "[OutlookInternalVersion] = '92711'"
 ```
 
@@ -175,7 +175,7 @@ sFilter = "[OutlookInternalVersion] = 92711" sFilter = "[OutlookInternalVersion]
 As the  **Restrict** method example illustrates, you can use values from variables as part of the filter. The following Microsoft Visual Basic Scripting Edition (VBScript) code sample illustrates syntax that uses variables as part of the filter.
 
 
-```
+```vb
 sFullName = "Dan Wilson"  
 ' This approach uses Chr(34) to delimit the value.  
 sFilter = "[FullName] = " &; Chr(34) &; sFullName &; Chr(34)  

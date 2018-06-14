@@ -21,7 +21,7 @@ For example, to change the value of a custom field called Fax, you use the follo
 
 
 
-```
+```vb
 Item.UserProperties.Find("Fax").Value = "555-1234"
 
 ```
@@ -38,7 +38,7 @@ You can bind a control to a field at run time by using the internal property nam
 
 
 
-```
+```vb
 Item.GetInspector.SetControlItemProperty("Textbox1", "Business Address")
 ```
 

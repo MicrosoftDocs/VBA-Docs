@@ -35,7 +35,7 @@ A logarithmic scale uses base 10 logarithms.
 This example sets the value axis to use a logarithmic scale.
 
 
-```
+```vb
 myChart.Axes(xlValue).ScaleType = xlScaleLogarithmic
 ```
 

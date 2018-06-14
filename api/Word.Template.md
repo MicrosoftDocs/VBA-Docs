@@ -21,7 +21,7 @@ Represents a document template. The  **Template** object is a member of the **[T
 Use  **Templates** (Index), where Index is the template name or the index number, to return a single **Template** object. The following example saves the Memo2.dot template if it is in the **Templates** collection.
 
 
-```
+```vb
 For Each aTemp In Templates 
  If LCase(aTemp.Name) = "memo2.dot" Then aTemp.Save 
 Next aTemp
@@ -32,7 +32,7 @@ The index number represents the position of the template in the  **Templates** c
 
 
 
-```
+```vb
 Templates(1).OpenAsDocument
 ```
 
@@ -54,7 +54,7 @@ Use the  **DefaultFilePath** property to return or set the location of user or w
 
 
 
-```
+```vb
 MsgBox Options.DefaultFilePath(wdUserTemplatesPath)
 ```
 

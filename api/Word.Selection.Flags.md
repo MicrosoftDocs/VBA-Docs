@@ -40,7 +40,7 @@ This example turns on overtype mode for the selection.
 
 
 
-```
+```vb
 Selection.Flags = wdSelStartActive
 ```
 

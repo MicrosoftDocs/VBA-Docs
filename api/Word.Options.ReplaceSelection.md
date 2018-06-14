@@ -42,7 +42,7 @@ This example returns the status of the  **Typing replaces selection** option on 
 
 
 
-```
+```vb
 temp = Options.ReplaceSelection
 ```
 

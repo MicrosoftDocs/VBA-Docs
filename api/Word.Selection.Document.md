@@ -28,7 +28,7 @@ Returns a  **[Document](Word.Document.md)** object associated with the specified
 This example displays the document name and path for the selection.
 
 
-```
+```vb
 Msgbox Selection.Document.FullName
 ```
 

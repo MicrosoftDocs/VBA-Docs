@@ -41,7 +41,7 @@ CustomXMLNodes
 The following example demonstrates adding a custom XML part, selecting a part matching a namespace URI, and then selecting nodes within that part that match an XPath expression.
 
 
-```
+```vb
 Dim cxp1 As CustomXMLPart 
 Dim cxn As CustomXMLNode 
  

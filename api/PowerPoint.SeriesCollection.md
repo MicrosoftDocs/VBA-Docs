@@ -33,7 +33,7 @@ Use the  **[SeriesCollection](http://msdn.microsoft.com/library/8adeb8b4-ba4f-6c
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then
@@ -55,7 +55,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/29dd05a7-a707-78ff-fc06-1085e
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then
@@ -77,7 +77,7 @@ Use  **SeriesCollection** ( _Index_ ), where _Index_ is the series index number 
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

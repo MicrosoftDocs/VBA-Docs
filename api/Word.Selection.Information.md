@@ -57,7 +57,7 @@ This example displays a message that indicates the current section number.
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 MsgBox "The insertion point is in section " &; _ 
  Selection.Information(wdActiveEndSectionNumber)

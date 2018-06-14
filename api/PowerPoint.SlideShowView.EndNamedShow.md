@@ -28,7 +28,7 @@ Switches from running a custom, or named, slide show to running the entire prese
 If a custom slide show is currently running in slide show window one, this example redefines the slide show to include all the slides in the presentation from which the slides in the custom show were selected.
 
 
-```
+```vb
 SlideShowWindows(1).View.EndNamedShow
 ```
 

@@ -26,7 +26,7 @@ Represents a [ListObject Object (Excel)](listobject-object-excel.md) object in t
 Use the [ListObjects](Excel.Worksheet.ListObjects.md) property of the **[Worksheet](Excel.Worksheet.md)** object to return a **ListObjects** collection. The following example adds a new **[ListRow](Excel.ListRow.md)** object to the default **ListObject** object in the first worksheet of the active workbook.
 
 
-```
+```vb
 Dim wrksht As Worksheet 
 Dim oListCol As ListRow 
  

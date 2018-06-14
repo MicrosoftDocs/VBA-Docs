@@ -43,7 +43,7 @@ Suppose the content control is mapped to the following sample custom XML file.
 
 
 
-```
+```vb
 <?xml version="1.0" encoding="utf-8" ?> 
 <tree> 
   <fruit> 

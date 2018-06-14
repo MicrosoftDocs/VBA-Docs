@@ -43,7 +43,7 @@ This example returns the current status of the Suggest from main dictionary only
 
 
 
-```
+```vb
 temp = Options.SuggestFromMainDictionaryOnly
 ```
 

@@ -26,7 +26,7 @@ Represents an item in a PivotTable field.
 Use  **[PivotItems](Excel.PivotField.PivotItems.md)** ( _index_ ), where _index_ is the item index number or name, to return a single **PivotItem** object. The following example hides all entries in the first PivotTable report on Sheet3 that contain "1998" in the Year field.
 
 
-```
+```vb
 Worksheets("sheet3").PivotTables(1) _ 
  .PivotFields("year").PivotItems("1998").Visible = False
 ```

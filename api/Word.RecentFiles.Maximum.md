@@ -28,7 +28,7 @@ Returns or sets the maximum number of recently used files that can appear on the
 This example disables the list of most recently used files.
 
 
-```
+```vb
 RecentFiles.Maximum = 0
 ```
 

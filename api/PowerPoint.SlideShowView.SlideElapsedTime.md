@@ -38,7 +38,7 @@ Use the  **[ResetSlideTime](PowerPoint.SlideShowView.ResetSlideTime.md)** method
 This example sets a variable to the elapsed time for the slide that's currently displayed in slide show window one and then displays the value of the variable.
 
 
-```
+```vb
 currTime = SlideShowWindows(1).View.SlideElapsedTime
 
 MsgBox currTime

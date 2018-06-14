@@ -41,7 +41,7 @@ Boolean
 This example undoes the last two actions taken in Sales.doc.
 
 
-```
+```vb
 Documents("Sales.doc").Undo 2
 ```
 

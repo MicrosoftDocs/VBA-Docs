@@ -28,7 +28,7 @@ Returns or sets the language for the specified range. Read/write  **WdLanguageID
 This example sets the language of the selection to French.
 
 
-```
+```vb
 Selection.Range.LanguageIDOther = wdFrench
 ```
 

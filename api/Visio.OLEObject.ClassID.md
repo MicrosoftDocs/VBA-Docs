@@ -37,7 +37,7 @@ The  **ClassID** property raises an exception if the shape doesn't represent an 
 
 
 
-```
+```vb
 {2287DC42-B167-11CE-88E9-002AFDDD917}
 ```
 

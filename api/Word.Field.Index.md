@@ -28,7 +28,7 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 This example returns the position of the selected field in the Fields collection.
 
 
-```
+```vb
 num = Selection.Fields(1).Index
 ```
 

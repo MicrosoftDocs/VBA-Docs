@@ -42,7 +42,7 @@ You can use the  **[BuildKeyCode](Word.Application.BuildKeyCode.md)** method to 
 This example disables the ALT+SHIFT+F12 key combination in the template attached to the active document. To return a  **KeyBinding** object that includes more than two keys, use the **BuildKeyCode** method, as shown in the example.
 
 
-```
+```vb
 CustomizationContext = ActiveDocument.AttachedTemplate 
 FindKey(KeyCode:=BuildKeyCode(wdKeyAlt, wdKeyShift, _ 
  wdKeyF12)).Disable
@@ -53,7 +53,7 @@ This example displays the command assigned to the F1 key.
 
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 MsgBox FindKey(KeyCode:=wdKeyF1).Command
 ```

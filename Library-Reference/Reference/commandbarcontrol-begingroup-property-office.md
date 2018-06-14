@@ -36,7 +36,7 @@ Boolean
 This example begins a new group with the last control on the active menu bar.
 
 
-```
+```vb
 Set myMenuBar = CommandBars.ActiveMenuBar 
 Set lastMenu = myMenuBar _ 
     .Controls(myMenuBar.Controls.Count) 

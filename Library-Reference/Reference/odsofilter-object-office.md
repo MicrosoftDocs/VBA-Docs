@@ -26,7 +26,7 @@ Each filter is a line in a query string. Use the  **Column**, **Comparison**, **
 The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA".
 
 
-```
+```vb
 Sub SetQueryCriterion() 
  Dim appOffice As Office.OfficeDataSourceObject 
  Dim intItem As Integer 
@@ -54,7 +54,7 @@ Use the  **Add** method of the **ODSOFilters** object to add a new filter criter
 
 
 
-```
+```vb
 Sub SetQueryCriterion() 
  Dim appOffice As OfficeDataSourceObject 
  

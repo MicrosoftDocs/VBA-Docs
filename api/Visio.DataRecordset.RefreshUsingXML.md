@@ -61,7 +61,7 @@ When you pass it to the  **RefreshUsingXML** method, this string will update the
 
 
 
-```
+```vb
 <xml xmlns:s='uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882' 
 xmlns:dt='uuid:C2F41010-65B3-11d1-A29F-00AA00C14882' 
 xmlns:rs='urn:schemas-microsoft-com:rowset' 

@@ -26,7 +26,7 @@ For more information about using a single  **Workbook** object, see the[Workbook
 Use the  **[Workbooks](Excel.Application.Workbooks.md)** property to return the **Workbooks** collection. The following example closes all open workbooks.
 
 
-```
+```vb
 Workbooks.Close
 ```
 
@@ -35,7 +35,7 @@ Use the  **[Add](Excel.Workbooks.Add.md)** method to create a new, empty workboo
 
 
 
-```
+```vb
 Workbooks.Add
 ```
 
@@ -44,7 +44,7 @@ Use the  **[Open](Excel.Workbooks.Open.md)** method to open a file. This creates
 
 
 
-```
+```vb
 Workbooks.Open FileName:="Array.xls", ReadOnly:=True
 ```
 

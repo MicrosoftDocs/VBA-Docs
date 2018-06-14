@@ -42,7 +42,7 @@ This method is used for both the insertion time configuration process and if a u
 The following example, written in C#, shows the implementation of the  **ShowSignatureSetup** method in a custom signature provider project.
 
 
-```
+```vb
  public void ShowSignatureSetup(object parentWindow, SignatureSetup sigsetup) 
  { 
  bool firstInit = string.IsNullOrEmpty(sigsetup.AdditionalXml); 

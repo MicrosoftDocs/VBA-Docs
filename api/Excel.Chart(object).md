@@ -39,13 +39,13 @@ All chart sheets are included in the index count, even if they are hidden. The c
 
 The following example changes the color of series 1 on chart sheet 1.
 
-```
+```vb
 Charts(1).SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbRed
 ```
 
 The following example moves the chart named Sales to the end of the active workbook.
 
-```
+```vb
 Charts("Sales").Move after:=Sheets(Sheets.Count)
 ```
 
@@ -55,7 +55,7 @@ When a chart is the active object, you can use the **ActiveChart** property to r
 
 The following example activates chart sheet 1 and then sets the chart type and title.
 
-```
+```vb
 Charts(1).Activate 
 With ActiveChart 
  .Type = xlLine 
@@ -68,7 +68,7 @@ An embedded chart is active if the user has selected it, or the **[ChartObject](
 
 The following example activates embedded chart 1 on worksheet 1 and then sets the chart type and title. Notice that after the embedded chart has been activated, the code in this example is the same as that in the previous example. Using the **ActiveChart** property allows you to write Visual Basic code that can refer to either an embedded chart or a chart sheet (whichever is active).
 
-```
+```vb
 Worksheets(1).ChartObjects(1).Activate 
 ActiveChart.ChartType = xlLine 
 ActiveChart.HasTitle = True 
@@ -77,7 +77,7 @@ ActiveChart.ChartTitle.Text = "January Sales"
 
 When a chart sheet is the active sheet, you can use the **ActiveSheet** property to refer to it. The following example uses the **Activate** method to activate the chart sheet named Chart1, and then sets the interior color for series 1 in the chart to blue.
 
-```
+```vb
 Charts("chart1").Activate 
 ActiveSheet.SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbBlue
 ```

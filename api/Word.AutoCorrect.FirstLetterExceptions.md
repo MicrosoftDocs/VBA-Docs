@@ -33,7 +33,7 @@ This list corresponds to the list of AutoCorrect exceptions on the  **First Lett
 This example adds "apt." to the list of AutoCorrect First Letter exceptions.
 
 
-```
+```vb
 AutoCorrect.FirstLetterExceptions.Add "apt."
 ```
 

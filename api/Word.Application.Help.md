@@ -36,7 +36,7 @@ Displays installed Help information.
 This example displays the  **Help Topics** dialog box.
 
 
-```
+```vb
 Help HelpType:=wdHelp
 ```
 
@@ -45,7 +45,7 @@ This example displays a list of Help topics that describe how to use Help.
 
 
 
-```
+```vb
 Help HelpType:=wdHelpUsingHelp
 ```
 

@@ -21,7 +21,7 @@ Represents the Microsoft Word application. The  **Application** object includes 
 Use the  **Application** property to return the **Application** object. The following example displays the user name for Word.
 
 
-```
+```vb
 MsgBox Application.UserName
 ```
 
@@ -34,7 +34,7 @@ To use Automation (formerly OLE Automation) to control Word from another applica
 
 
 
-```
+```vb
 Set wrd = GetObject(, "Word.Application") 
 wrd.Visible = True 
 wrd.Documents.Open "C:\My Documents\Temp.doc" 

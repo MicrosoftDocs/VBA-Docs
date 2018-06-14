@@ -21,7 +21,7 @@ Represents a hyperlink. The  **Hyperlink** object is a member of the **Hyperlink
 Use the  **Hyperlink** property to return a **Hyperlink** object associated with a shape (a shape can have only one hyperlink). The following example activates the hyperlink associated with the first shape in the active document.
 
 
-```
+```vb
 ActiveDocument.Shapes(1).Hyperlink.Follow
 ```
 
@@ -30,7 +30,7 @@ Use  **Hyperlinks** (Index), where Index is the index number, to return a single
 
 
 
-```
+```vb
 If Selection.HyperLinks.Count >= 1 Then 
  Selection.HyperLinks(1).Follow 
 End If

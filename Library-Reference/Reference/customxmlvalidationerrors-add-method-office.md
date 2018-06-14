@@ -39,7 +39,7 @@ Adds a  **CustomXMLValidationError** object containing an XML validation error t
 The following example adds an error message to the collection.
 
 
-```
+```vb
 Dim objCustomXMLValidationErrors as CustomXMLValidationErrors 
  
 On Error GoTo Err 

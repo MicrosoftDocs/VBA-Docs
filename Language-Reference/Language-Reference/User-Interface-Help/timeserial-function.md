@@ -29,7 +29,7 @@ To specify a time, such as 11:59:59, the range of numbers for each  **TimeSerial
 
 
 
-```
+```vb
 TimeSerial(12 - 6, -15, 0)
 ```
 

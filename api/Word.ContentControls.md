@@ -18,7 +18,7 @@ A collection of  **[ContentControl](Word.ContentControl.md)** objects. Content c
 Use the  **[Add](Word.ContentControls.Add.md)** method to create a new content control and insert it into a document. The following example creates a new drop-down list content control and adds several items to the list.
 
 
-```
+```vb
 Dim objcc As ContentControl 
 Dim objMap As XMLMapping 
  
@@ -41,7 +41,7 @@ Use the  **[Item](Word.ContentControls.Item.md)** method to access a specific co
 
 
 
-```
+```vb
 Dim objcc As ContentControl 
 Dim objLE1 As ContentControlListEntry 
 Dim objLE2 As ContentControlListEntry 

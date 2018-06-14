@@ -48,7 +48,7 @@ Many properties that Outlook supports are MAPI properties. The  **[PropertyAcces
     
 
 
-```
+```vb
   proptag-specifier = "http://schemas.microsoft.com/mapi/proptag/x" property-id property-type 
 property-id = 4HEXDIG 
 property-type = 4HEXDIG
@@ -71,7 +71,7 @@ property-type = 4HEXDIG
     
 
 
-```
+```vb
   id-specifier = "http://schemas.microsoft.com/mapi/id/" property-set "/x" property-long-id 
 property-set = "{" 8HEXDIG "-" 4HEXDIG "-" 4HEXDIG "-" 4HEXDIG "-" 12HEXDIG "}" 
 property-long-id = 8HEXDIG
@@ -94,7 +94,7 @@ property-long-id = 8HEXDIG
     
 
 
-```
+```vb
   string-specifier = "http://schemas.microsoft.com/mapi/string/" property-set "/" property-name 
 property-set = "{" 8*HEXDIG "-" 4*HEXDIG "-" 4*HEXDIG "-" 4*HEXDIG "-" 12*HEXDIG "}" 
 property-name = 1*CHAR

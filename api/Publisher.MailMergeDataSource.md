@@ -24,7 +24,7 @@ Use the  **[DataSource](Publisher.MailMerge.DataSource.md)** property to return 
 
  
 
-```
+```vb
 Sub ShowDataSourceName() 
  If ActiveDocument.MailMerge.DataSource.Name <> "" Then _ 
  MsgBox ActiveDocument.MailMerge.DataSource.Name 
@@ -38,7 +38,7 @@ The following example tests the open data source associated with the active publ
 
 
 
-```
+```vb
 Sub FindSelectedRecord() 
  With ActiveDocument.MailMerge 
  If .DataSource.FindRecord(FindText:="Fuller", _ 

@@ -60,7 +60,7 @@ This example stores the third word in the active document as a formatted AutoCor
 
 
 
-```
+```vb
 AutoCorrect.Entries.AddRichText "NewText", ActiveDocument.Words(3)
 ```
 

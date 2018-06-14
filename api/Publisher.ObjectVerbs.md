@@ -24,7 +24,7 @@ Use the  **[ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)** property to retur
 
  
 
-```
+```vb
 Sub GetVerbs() 
  Dim intCount As Integer 
  

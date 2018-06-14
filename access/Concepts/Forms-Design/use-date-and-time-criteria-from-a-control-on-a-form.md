@@ -41,7 +41,7 @@ If the current value of the HireDate control is  `5-1-92`, the  **Filter** or **
 
 
 
-```
+```vb
 "[HireDate] >= #5-1-92#"
 ```
 

@@ -24,7 +24,7 @@ Use  **Nodes** (index), where index is the node index number, to return a single
 
  
 
-```
+```vb
 Sub ChangeNodeType() 
  With ActiveDocument.Pages(1).Shapes(1) 
  If .Nodes(1).EditingType = msoEditingCorner Then 

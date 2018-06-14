@@ -31,7 +31,7 @@ Returns or sets the way that blank cells are plotted on a chart. Read/write XlDi
 This example sets Microsoft Graph to not plot blank cells.
 
 
-```
+```vb
 myChart.DisplayBlanksAs = xlNotPlotted
 ```
 

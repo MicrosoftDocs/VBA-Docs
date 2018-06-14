@@ -25,7 +25,7 @@ Returns a ChartGroup object that represents the specified column chart group on 
 This example sets the space between column clusters in the 3-D column chart group to be 50 percent of the column width.
 
 
-```
+```vb
 myChart.Column3DGroup.GapWidth = 50
 ```
 

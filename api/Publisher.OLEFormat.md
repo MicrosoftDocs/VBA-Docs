@@ -35,7 +35,7 @@ Use the  **[OLEFormat](Publisher.Shape.OLEFormat.md)** property for a shape or f
 
  
 
-```
+```vb
 Sub ActivateOLEObjects() 
  Dim shpShape As Shape 
  

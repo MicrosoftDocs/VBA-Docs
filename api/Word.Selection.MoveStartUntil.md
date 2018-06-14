@@ -42,7 +42,7 @@ This method returns the number of characters by which the start position of the 
 This example extends the selection backward until a capital "I" is found.
 
 
-```
+```vb
 Selection.MoveStartUntil Cset:="I", Count:=wdBackward
 ```
 

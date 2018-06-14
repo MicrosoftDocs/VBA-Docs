@@ -37,7 +37,7 @@ This example aligns the left edge of the chart title with the left edge of the c
 
 
 
-```
+```vb
 myChart.ChartTitle.Left = 0 
 
 ```

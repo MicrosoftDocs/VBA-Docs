@@ -43,7 +43,7 @@ The Help topic specified appears in the default browser.
 The following code displays the default Help topic.
 
 
-```
+```vb
 vsoViewer.DisplayHelp(1)
 ```
 

@@ -47,7 +47,7 @@ The nodes are retrieved in order, independent of data model. For example, the fo
 The following example sets the text inside the first node.
 
 
-```
+```vb
 smartart.AllNodes(1).TextFrame2.TextRange.Text="Node 1"
 ```
 

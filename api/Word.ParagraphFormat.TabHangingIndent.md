@@ -41,7 +41,7 @@ You can also use this method to remove tab stops from a hanging indent if the va
 This example sets a hanging indent of the selected paragraphs to the second tab stop.
 
 
-```
+```vb
 Selection.ParagraphFormat.TabHangingIndent(2)
 ```
 
@@ -50,7 +50,7 @@ This example moves the hanging indent of the selected paragraphs back one tab st
 
 
 
-```
+```vb
 Selection.ParagraphFormat.TabHangingIndent(-1)
 ```
 

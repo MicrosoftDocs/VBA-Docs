@@ -36,7 +36,7 @@ Use the  **[Disconnect](sharedworkspace-disconnect-method-office.md)** method of
 The following example checks the  **Connected** property to determine whether the active document is already saved in a shared workspace.
 
 
-```
+```vb
     If ActiveWorkbook.SharedWorkspace.Connected Then 
         MsgBox "This document is already saved in a shared workspace." 
     End If 

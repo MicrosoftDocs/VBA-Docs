@@ -46,7 +46,7 @@ This example changes the current folder to the path of the template attached to 
 
 
 
-```
+```vb
 ChDir ActiveDocument.AttachedTemplate.Path
 ```
 

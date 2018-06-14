@@ -18,7 +18,7 @@ Represents a Microsoft Office theme.
 The following example sets a ThemeColorScheme of an  **OfficeTheme** object.
 
 
-```
+```vb
 Dim tTheme As OfficeTheme 
 Dim tcsThemeColorScheme As ThemeColorScheme 
 Set tcsThemeColorScheme = tTheme.ThemeColorScheme 

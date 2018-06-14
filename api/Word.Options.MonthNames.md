@@ -28,7 +28,7 @@ Returns or sets the direction for conversion between Hangul and Hanja. Read/writ
 This example sets Microsoft Word to convert from Hangul to Hanja by default.
 
 
-```
+```vb
 Options.MultipleWordConversionsMode = wdHangulToHanja
 ```
 

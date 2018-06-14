@@ -33,7 +33,7 @@ Adds the bold character format to or removes it from the current run.
 This example toggles the bold formatting for the current selection.
 
 
-```
+```vb
 Selection.BoldRun
 ```
 

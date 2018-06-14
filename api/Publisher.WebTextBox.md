@@ -24,7 +24,7 @@ Use the  **[AddWebControl](Publisher.Shapes.AddWebControl.md)** method to create
 
  
 
-```
+```vb
 Sub CreateWebTextBox() 
  With ActiveDocument.Pages(1).Shapes 
  With .AddWebControl(Type:=pbWebControlSingleLineTextBox, _ 

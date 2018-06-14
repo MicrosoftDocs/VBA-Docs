@@ -21,7 +21,7 @@ Represents the chart area of the specified chart. The chart area in a 2-D chart 
 Use the  **ChartArea** property to return the **ChartArea** object. The following example sets the pattern for the chart area.
 
 
-```
+```vb
 myChart.ChartArea.Interior.Pattern = xlLightDown
 ```
 

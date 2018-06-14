@@ -29,7 +29,7 @@ Use the  **CreateEventProc** method to create an event procedure. For example, t
 
 
 
-```
+```vb
 TextLocation = CM.CreateEventProc("Click", "Command1")
 ```
 

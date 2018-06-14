@@ -25,7 +25,7 @@ You can use the  **Application** object to apply methods or property settings to
 
 
 
-```
+```vb
 Application.SetOption "Show Status Bar", True
 ```
 
@@ -36,7 +36,7 @@ For example, Microsoft Visual Basic is a COM component. You can open anAccess da
 
 
 
-```
+```vb
 Dim appAccess As New Access.Application
 ```
 
@@ -45,7 +45,7 @@ From applications that do not support the  **New** keyword, you can create a new
 
 
 
-```
+```vb
 Dim appAccess As Object 
 Set appAccess = CreateObject("Access.Application")
 ```
@@ -57,7 +57,7 @@ You can also manipulate other Access objects through the  **Application** object
 
 
 
-```
+```vb
 appAccess.DoCmd.OpenForm "Orders"
 ```
 

@@ -38,7 +38,7 @@ In the case of a naming conflict (multiple auto macros with the same name), Word
 
 
 
-```
+```vb
 WordBasic.DisableAutoMacros
 
 ```

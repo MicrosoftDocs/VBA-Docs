@@ -21,7 +21,7 @@ The following example adds three levels to a code mask.
 
  
 
-```
+```vb
 Sub DefineLocationCodeMask(objCodeMask As CodeMask) 
  
  objCodeMask.Add _ 

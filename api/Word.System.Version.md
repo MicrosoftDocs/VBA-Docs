@@ -28,7 +28,7 @@ Returns the version number of the operating system. Read-only  **String** .
 This example displays the version number of the operating system in a message box.
 
 
-```
+```vb
 Msgbox "The system version is " &; System.Version
 ```
 

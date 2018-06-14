@@ -50,7 +50,7 @@ For a  **Page** object, you can use the **GetResults** method to get results of 
 
 
 
-```
+```vb
 {sheetID, sectionIdx, rowIdx, cellIdx }n
 ```
 

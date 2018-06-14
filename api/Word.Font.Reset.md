@@ -28,7 +28,7 @@ Removes manual character formatting (formatting not applied using a style). For 
 This example removes manual formatting from the selection.
 
 
-```
+```vb
 Selection.Font.Reset
 ```
 

@@ -33,7 +33,7 @@ If the  **InsertedTextColor** property is set to **wdByAuthor** , Microsoft Word
 This example sets the color of inserted text to dark red.
 
 
-```
+```vb
 Options.InsertedTextColor = wdDarkRed
 ```
 

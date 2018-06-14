@@ -33,7 +33,7 @@ If the run contains a mix of italic and non-italic text, this method adds the it
 This example toggles the italic formatting for the current selection.
 
 
-```
+```vb
 Selection.ItalicRun
 ```
 

@@ -77,7 +77,7 @@ For the ChartFillFormat object, returns or sets the fill pattern, read-only MsoP
 This example adds a crisscross pattern to the interior of the plot area.
 
 
-```
+```vb
 myChart.PlotArea.Interior.Pattern = xlPatternCrissCross
 ```
 

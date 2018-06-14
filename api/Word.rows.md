@@ -16,7 +16,7 @@ A collection of  **[Row](Word.Row.md)** objects that represent the table rows in
 Use the  **Rows** property to return the **Rows** collection. The following example centers rows in the first table in the active document between the left and right margins.
 
 
-```
+```vb
 ActiveDocument.Tables(1).Rows.Alignment = wdAlignRowCenter
 ```
 
@@ -25,7 +25,7 @@ Use the  **Add** method to add a row to a table. The following example inserts a
 
 
 
-```
+```vb
 If Selection.Information(wdWithInTable) = True Then 
  Selection.Rows.Add BeforeRow:=Selection.Rows(1) 
 End If
@@ -36,7 +36,7 @@ Use  **Rows** (Index), where Index is the index number, to return a single **Row
 
 
 
-```
+```vb
 ActiveDocument.Tables(1).Rows(1).Delete
 ```
 

@@ -16,7 +16,7 @@ You may think that querying for appointments that start on or after the start da
 
 
 
-```sql
+```vbsql
 [Start] >= myStart AND [End] <= myEnd
 ```
 
@@ -24,7 +24,7 @@ However, to reliably find all appointments that occur entirely within the time p
 
 
 
-```sql
+```vbsql
 [Start] <= myEnd AND [End] >= myStart
 ```
 

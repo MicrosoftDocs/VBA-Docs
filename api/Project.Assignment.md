@@ -22,7 +22,7 @@ Use  **Assignments** ( _Index_ ), where _Index_ is the assignment index number, 
 
 
 
-```
+```vb
 MsgBox ActiveProject.Tasks(1).Assignments(1).ResourceName
 ```
 
@@ -33,7 +33,7 @@ Use the  **[Assignments](http://msdn.microsoft.com/library/a481e813-8f02-c58b-29
 
 
 
-```
+```vb
 Dim A As Assignment 
  
 For Each A In ActiveProject.Tasks(1).Assignments 
@@ -46,7 +46,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/c135a80e-1fb9-32e3-864e-f701c
 
 
 
-```
+```vb
 ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 ```
 

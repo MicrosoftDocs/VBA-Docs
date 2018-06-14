@@ -38,7 +38,7 @@ The  **Zoom** property value can be from 10 to 400 percent.
 The following example sets the zoom to 30 percent for the view in document window one.
 
 
-```
+```vb
 Windows(1).View.Zoom = 30
 ```
 

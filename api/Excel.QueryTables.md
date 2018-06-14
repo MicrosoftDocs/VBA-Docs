@@ -26,7 +26,7 @@ A collection of  **[QueryTable](Excel.QueryTable.md)** objects.
 Use the  **[QueryTables](Excel.Worksheet.QueryTables.md)** property to return the **[QueryTables](Excel.QueryTables.md)** collection. The following example displays the number of query tables on the active worksheet.
 
 
-```
+```vb
 MsgBox ActiveSheet.QueryTables.Count
 ```
 
@@ -35,7 +35,7 @@ Use the  **[Add](Excel.QueryTables.Add.md)** method to create a new query table 
 
 
 
-```
+```vb
 Dim qt As QueryTable 
 sqlstring = "select 96Sales.totals from 96Sales where profit < 5" 
 connstring = _ 

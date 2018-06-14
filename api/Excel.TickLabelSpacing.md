@@ -26,7 +26,7 @@ Tick-mark label spacing on the value axis is always calculated by Microsoft Grap
 This example sets the number of categories between tick-mark labels on the category axis.
 
 
-```
+```vb
 myChart.Axes(xlCategory).TickLabelSpacing = 10
 ```
 

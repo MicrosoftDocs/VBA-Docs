@@ -32,7 +32,7 @@ The following Visual Basic for Applications (VBA) example creates a new  **MailI
 
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olMailItem) 
  
 Set myRecipient = myItem.Recipients.Add ("Jon Grande")
@@ -43,7 +43,7 @@ The following VBA example creates the same  **MailItem** object as the preceding
 
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olMailItem) 
  
 Set myRecipient = myItem.Recipients.Add ("Jon Grande") 

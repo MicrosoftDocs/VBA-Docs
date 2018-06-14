@@ -34,7 +34,7 @@ Use the  **[View](http://msdn.microsoft.com/library/6488ba10-744a-eb88-df8d-bf85
 Use  **Windows** (index), where index is the document window index number, to return a single **DocumentWindow** object. The following example activates document window two.
 
 
-```
+```vb
 Windows(2).Activate
 ```
 
@@ -43,7 +43,7 @@ The first member of the  **DocumentWindows** collection, `Windows(1)`, always re
 
 
 
-```
+```vb
 ActiveWindow.WindowState = ppWindowMaximized
 ```
 
@@ -52,7 +52,7 @@ Use  **Panes** (index), where index is the pane index number, to manipulate pane
 
 
 
-```
+```vb
 ActiveWindow.Panes(3).Activate
 ```
 
@@ -61,7 +61,7 @@ Use the  **[ActivePane](http://msdn.microsoft.com/library/8fa4c8a1-37b6-2676-1cf
 
 
 
-```
+```vb
 mypane = ActiveWindow.ActivePane.ViewType
 
     If mypane <> 1 Then

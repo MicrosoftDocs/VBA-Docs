@@ -44,7 +44,7 @@ The value of the  **Loaded** property can be one of these **MsoTriState** consta
 This example adds MyTools.ppa to the list in the  **Add-Ins** tab and then loads it.
 
 
-```
+```vb
 Addins.Add("c:\my documents\mytools.ppa").Loaded = msoTrue
 ```
 

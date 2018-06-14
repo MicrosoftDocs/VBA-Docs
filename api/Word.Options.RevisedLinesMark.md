@@ -28,7 +28,7 @@ Returns or sets the placement of changed lines in a document with tracked change
 This example sets changed lines to appear in the left margin of every page.
 
 
-```
+```vb
 Options.RevisedLinesMark = wdRevisedLinesMarkLeftBorder
 ```
 
@@ -37,7 +37,7 @@ This example returns the current status of the  **Mark** option under **Changed 
 
 
 
-```
+```vb
 temp = Options.RevisedLinesMark
 ```
 

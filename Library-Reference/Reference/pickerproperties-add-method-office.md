@@ -43,7 +43,7 @@ PickerProperty
 The following code sets various properties of the  **PickerDialog** object.
 
 
-```
+```vb
 Dim objPickerDialog As PickerDialog 
 Dim objPickerProperties As PickerProperties 
  

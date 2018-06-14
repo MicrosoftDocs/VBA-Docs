@@ -28,7 +28,7 @@ Moves the insertion point among the last three locations where editing occurred 
 This example opens the most recently used file and then moves the insertion point to the location where editing last occurred.
 
 
-```
+```vb
 RecentFiles(1).Open 
 Application.GoBack
 ```

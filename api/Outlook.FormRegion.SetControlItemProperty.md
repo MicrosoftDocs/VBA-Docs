@@ -43,7 +43,7 @@ Other than using the  **SetControlItemProperty** method of a **[FormRegion](Outl
 
 
 
-```
+```vb
 myPage.Controls("bar").ItemProperty = "subject"
 ```
 

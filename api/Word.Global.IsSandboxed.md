@@ -28,7 +28,7 @@ ms.date: 06/08/2017
 The following code example displays whether or not the document referenced by  _doc_ is in a protected view window.
 
 
-```
+```vb
 If doc.Application.IsSandboxed Then 
  MsgBox "The document " &; _ 
  """" &; doc.Name &; """" &; _ 

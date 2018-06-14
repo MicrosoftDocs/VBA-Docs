@@ -41,7 +41,7 @@ Variant
 The following example gets the expiration date of the digital certificate.
 
 
-```
+```vb
 Sub GetCertDetails() 
 Dim objSignatureInfo As SignatureInfo 
 Dim varDetail As Variant 

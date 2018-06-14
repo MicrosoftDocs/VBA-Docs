@@ -53,7 +53,7 @@ Unlike the  **Print #** statement, the **Write #** statement inserts commas betw
 This example uses the  **Write #** statement to write raw data to a sequential file.
 
 
-```
+```vb
 Open "TESTFILE" For Output As #1    ' Open file for output. 
 Write #1, "Hello World", 234    ' Write comma-delimited data. 
 Write #1,    ' Write blank line. 

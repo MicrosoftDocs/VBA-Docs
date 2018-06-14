@@ -57,7 +57,7 @@ You can reference the shape data of a shape other than the one to which the data
 
 
 
-```
+```vb
 vsoGraphicItem.SetExpression visGraphicExpression, "Ellipse.34!Width"
 ```
 

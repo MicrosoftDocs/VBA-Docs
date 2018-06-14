@@ -25,21 +25,21 @@ It is faster to refer to the  **Controls** collection implicitly, as in the foll
 
 
 
-```
+```vb
 Me!NewData               ' Or Forms!OrderForm!NewData.
 ```
 
 
 
 
-```
+```vb
 Me![New Data]            ' Use if control name contains space.
 ```
 
 
 
 
-```
+```vb
 Me("NewData")            ' Performance is slightly slower.
 ```
 
@@ -48,21 +48,21 @@ You can also refer to an individual control by referring explicitly to the  **Co
 
 
 
-```
+```vb
 Me.Controls!NewData      ' Or Forms!OrderForm.Controls!NewData.
 ```
 
 
 
 
-```
+```vb
 Me.Controls![New Data]
 ```
 
 
 
 
-```
+```vb
 Me.Controls("NewData")
 ```
 
@@ -71,14 +71,14 @@ Additionally, you can refer to a control by its index in the collection. The  **
 
 
 
-```
+```vb
 Me(0)                    ' Refer to first item in collection.
 ```
 
 
 
 
-```
+```vb
 Me.Controls(0)
 ```
 

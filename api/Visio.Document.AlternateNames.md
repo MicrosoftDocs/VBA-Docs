@@ -42,7 +42,7 @@ When the application opens a document or accesses the  **Document** object's col
 
 
 
-```
+```vb
 Visio.Documents("New Shapes 2009.vss").AlternateNames = "New Shapes 2008.vss"
 ```
 
@@ -51,7 +51,7 @@ The  **AlternateNames** property is empty until you set it by using Automation. 
 
 
 
-```
+```vb
 Visio.Documents("HRShapes.vss").AlternateNames = "Human Resources Shapes.vss; <old name> HRDept Shapes.vss"
 ```
 

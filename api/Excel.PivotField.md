@@ -41,7 +41,7 @@ In some cases, it may be easier to use one of the properties that returns a subs
 Use  **[PivotFields](Excel.PivotTable.PivotFields.md)** ( _index_ ), where _index_ is the field name or index number, to return a single **PivotField** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
 
 
-```
+```vb
 Worksheets("sheet3").PivotTables(1) _ 
  .PivotFields("year").Orientation = xlRowField
 ```

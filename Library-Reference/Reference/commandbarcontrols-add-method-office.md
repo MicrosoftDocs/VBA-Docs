@@ -46,7 +46,7 @@ Creates a new  **CommandBarControl** object and adds it to the collection of con
 This example creates a custom editing toolbar that contains buttons (controls) for cutting, copying, and pasting.
 
 
-```
+```vb
 Dim customBar As CommandBar 
 Dim newButton As CommandBarButton 
 Set customBar = CommandBars.Add("Custom") 

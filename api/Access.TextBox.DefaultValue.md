@@ -52,7 +52,7 @@ One control can provide the default value for another control. For example, if y
 
 
 
-```
+```vb
 =Forms!frmInvoice!txtShipTo
 ```
 

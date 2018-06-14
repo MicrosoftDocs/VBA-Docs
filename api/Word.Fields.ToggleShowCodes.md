@@ -28,7 +28,7 @@ Switches the display of the fields between field codes and field results. Use th
 This example switches on or switches off the display of fields in the selection (the equivalent of pressing SHIFT+F9).
 
 
-```
+```vb
 Selection.Fields.ToggleShowCodes
 ```
 

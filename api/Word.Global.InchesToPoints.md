@@ -41,7 +41,7 @@ Single
 This example sets the space before for the selected paragraphs to 0.25 inch.
 
 
-```
+```vb
 Selection.ParagraphFormat.SpaceBefore = InchesToPoints(0.25)
 ```
 

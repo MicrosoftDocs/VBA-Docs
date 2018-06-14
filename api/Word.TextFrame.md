@@ -21,7 +21,7 @@ Represents the text frame in a  **Shape** object. The **TextFrame** object conta
 Use the  **TextFrame** property to return the **TextFrame** object for a shape. The **TextRange** property returns a **[Range](Word.Range.md)** object that represents the range of text inside the specified text frame. The following example adds text to the text frame of shape one in the active document.
 
 
-```
+```vb
 ActiveDocument.Shapes(1).TextFrame.TextRange.Text = "My Text"
 ```
 
@@ -33,7 +33,7 @@ Use the  **HasText** property to determine whether the text frame contains text,
 
 
 
-```
+```vb
 For Each s In ActiveDocument.Shapes 
  With s.TextFrame 
  If .HasText Then MsgBox .TextRange.Text 
@@ -46,7 +46,7 @@ Text frames can be linked together so that the text flows from the text frame of
 
 
 
-```
+```vb
 Set myTB1 = ActiveDocument.Shapes.AddTextbox _ 
  (msoTextOrientationHorizontal, 72, 72, 72, 36) 
 myTB1.TextFrame.TextRange = _ 
@@ -61,7 +61,7 @@ Use the  **ContainingRange** property to return a **Range** object that represen
 
 
 
-```
+```vb
 Set myStory = ActiveDocument.Shapes("TextBox 3") _ 
  .TextFrame.ContainingRange 
 myStory.CheckSpelling

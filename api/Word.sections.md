@@ -19,7 +19,7 @@ A collection of  **Section** objects in a selection, range, or document.
 Use the  **Sections** property to return the **Sections** collection. The following example inserts text at the end of the last section in the active document.
 
 
-```
+```vb
 With ActiveDocument.Sections.Last.Range 
  .Collapse Direction:=wdCollapseEnd 
  .InsertAfter "end of document" 
@@ -31,7 +31,7 @@ Use the  **Add** method or the **InsertBreak** method to add a new section to a 
 
 
 
-```
+```vb
 Set myRange = ActiveDocument.Range(Start:=0, End:=0) 
 ActiveDocument.Sections.Add Range:=myRange 
 myRange.InsertParagraphAfter
@@ -42,7 +42,7 @@ The following example displays the number of sections in the active document, ad
 
 
 
-```
+```vb
 MsgBox ActiveDocument.Sections.Count &amp; " sections" 
 Selection.Paragraphs(1).Range.InsertBreak _ 
  Type:=wdSectionBreakContinuous 
@@ -54,7 +54,7 @@ Use  **Sections** (index), where index is the index number, to return a single *
 
 
 
-```
+```vb
 With ActiveDocument.Sections(1).PageSetup 
  .LeftMargin = InchesToPoints(0.5) 
  .RightMargin = InchesToPoints(0.5) 

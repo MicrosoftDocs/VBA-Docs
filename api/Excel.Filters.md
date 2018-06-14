@@ -21,7 +21,7 @@ A collection of  **[Filter](Excel.Filter.md)** objects that represents all the f
 Use the  **[Filters](Excel.AutoFilter.Filters.md)** property to return the **Filters** collection. The following example creates a list that contains the criteria and operators for the filters in the autofiltered range on the Crew worksheet.
 
 
-```
+```vb
 Dim f As Filter 
 Dim w As Worksheet 
 Const ns As String = "Not set" 
@@ -56,7 +56,7 @@ Use  **Filters** ( _index_ ), where _index_ is the filter title or index number,
 
 
 
-```
+```vb
 Set w = Worksheets("Crew") 
 If w.AutoFilterMode Then 
  filterIsOn = w.AutoFilter.Filters(1).On 

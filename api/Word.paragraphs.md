@@ -28,7 +28,7 @@ Use the  **Add** , **InsertParagraph** , **InsertParagraphAfter** , or **InsertP
 
 
 
-```
+```vb
 Selection.Paragraphs.Add Range:=Selection.Paragraphs(1).Range
 ```
 
@@ -37,7 +37,7 @@ The following example also adds a paragraph before the first paragraph in the se
 
 
 
-```
+```vb
 Selection.Paragraphs(1).Range.InsertParagraphBefore
 ```
 

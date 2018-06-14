@@ -64,7 +64,7 @@ In the following table, the left column contains commands that require a command
 This example adds the CTRL+ALT+W key combination to the  **FileClose** command. The keyboard customization is saved in the Normal template.
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 KeyBindings.Add _ 
     KeyCategory:=wdKeyCategoryCommand, _ 
@@ -77,7 +77,7 @@ This example adds the ALT+F4 key combination to the Arial font and then displays
 
 
 
-```
+```vb
 CustomizationContext = ActiveDocument.AttachedTemplate 
 Set myKey = KeyBindings.Add(KeyCategory:=wdKeyCategoryFont, _ 
     Command:="Arial", KeyCode:=BuildKeyCode(wdKeyAlt, wdKeyF4)) 
@@ -91,7 +91,7 @@ This example adds the CTRL+ALT+S key combination to the  **Font** command with 8
 
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 KeyBindings.Add KeyCategory:=wdKeyCategoryCommand, _ 
     Command:="FontSize", _ 
@@ -104,7 +104,7 @@ This example adds the CTRL+ALT+H key combination to the Heading 1 style in the a
 
 
 
-```
+```vb
 CustomizationContext = ActiveDocument 
 KeyBindings.Add KeyCategory:=wdKeyCategoryStyle, _ 
     Command:="Heading 1", _ 
@@ -116,7 +116,7 @@ This example adds the CTRL+ALT+O key combination to the AutoText entry named "He
 
 
 
-```
+```vb
 CustomizationContext = ActiveDocument 
 KeyBindings.Add KeyCategory:=wdKeyCategoryAutoText, _ 
     Command:="Hello", _ 

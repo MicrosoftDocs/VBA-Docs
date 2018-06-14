@@ -20,7 +20,7 @@ Use the  **[Add](Word.CaptionLabels.Add.md)** method to add a custom caption lab
 
 
 
-```
+```vb
 CaptionLabels.Add Name:="Photo"
 ```
 
@@ -29,7 +29,7 @@ Use  **CaptionLabels** (index), where index is the caption label name or index n
 
 
 
-```
+```vb
 CaptionLabels("Figure").NumberStyle = _ 
  wdCaptionNumberStyleLowercaseLetter
 ```
@@ -39,7 +39,7 @@ The index number represents the position of the caption label in the  **CaptionL
 
 
 
-```
+```vb
 MsgBox CaptionLabels(1).Name
 ```
 

@@ -34,7 +34,7 @@ Returns or sets the shape used with the specified 3-D bar or column chart. Read/
 This example sets the shape used with series one on the chart.
 
 
-```
+```vb
 myChart.SeriesCollection(1).BarShape = xlConeToPoint
 ```
 

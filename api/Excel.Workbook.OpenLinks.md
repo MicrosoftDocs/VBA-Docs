@@ -38,7 +38,7 @@ Opens the supporting documents for a link or links.
 This example opens OLE link one in the active workbook.
 
 
-```
+```vb
 linkArray = ActiveWorkbook.LinkSources(xlOLELinks) 
 ActiveWorkbook.OpenLinks linkArray(1)
 ```

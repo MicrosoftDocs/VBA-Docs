@@ -36,7 +36,7 @@ Assume that there is an XML file, C:\test.xml, and two text content controls. Th
 
 
 
-```
+```vb
 <?xml version="1.0" standalone="no"?>  
 <root xmlns="urn:test">  
   <a>NodeA</a>  

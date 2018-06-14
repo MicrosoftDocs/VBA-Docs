@@ -21,7 +21,7 @@ A collection of  **FileDialogFilter** objects that represent the types of files 
 Use the  **Filters** property of the **FileDialog** object to return a **FileDialogFilters** collection. The following code returns the **FileDialogFilters** collection for the **File Open** dialog box.
 
 
-```
+```vb
 Application.FileDialog(msoFileDialogOpen).Filters
 ```
 
@@ -30,7 +30,7 @@ Use the  **Add** method to add **FileDialogFilter** objects to the **FileDialogF
 
 
 
-```
+```vb
 Sub Main() 
  
     'Declare a variable as a FileDialog object. 
@@ -87,7 +87,7 @@ When changing the  **FileDialogFilters** collection, remember that each applicat
 
 
 
-```
+```vb
 Sub Main() 
  
     'Declare a variable as a FileDialogFilters collection. 

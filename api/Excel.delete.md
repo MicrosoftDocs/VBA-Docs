@@ -51,7 +51,7 @@ This example deletes the chart title.
 
 
 
-```
+```vb
 myChart.ChartTitle.Delete
 ```
 

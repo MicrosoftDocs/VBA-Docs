@@ -43,7 +43,7 @@ This example returns the address found in the  **Mailing address** box on the **
 
 
 
-```
+```vb
 Msgbox Application.UserAddress
 ```
 

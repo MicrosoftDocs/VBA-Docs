@@ -33,7 +33,7 @@ If a paragraph has a heading style applied to it (Heading 1 through Heading 9), 
 This example returns the outline level of the first paragraph in the active document.
 
 
-```
+```vb
 temp = ActiveDocument.Paragraphs(1).OutlineLevel
 ```
 

@@ -28,7 +28,7 @@ Expands a selection to include the entire story.
 The following instructions, where  _objSel_ is a valid **Selection** object, are functionally equivalent:
 
 
-```
+```vb
 objSel.WholeStory 
 objSel.Expand Unit:=wdStory
 ```

@@ -37,7 +37,7 @@ This example sets the tray to use for printing the first page of each section in
 
 
 
-```
+```vb
 Selection.PageSetup.FirstPageTray = wdPrinterUpperBin
 ```
 

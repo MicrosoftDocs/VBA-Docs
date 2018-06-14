@@ -30,7 +30,7 @@ Some properties such as  **Comments** are read-write properties. Setting these p
 The following code sample shows how to obtain the names of the Exchange distribution lists that the current user's manager belongs to. It uses the  **[ExchangeUser.GetExchangeUserManager](Outlook.ExchangeUser.GetExchangeUserManager.md)** method to obtain information about the user's manager, and uses **[ExchangeUser.GetMemberOfList](Outlook.ExchangeUser.GetMemberOfList.md)** to obtain the distribution lists (represented by **ExchangeDistributionList** objects) that the manager has joined.
 
 
-```
+```vb
 Sub ShowManagerDistLists() 
  Dim oAE As Outlook.AddressEntry 
  Dim oExUser As Outlook.ExchangeUser 

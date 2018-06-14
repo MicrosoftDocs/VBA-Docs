@@ -41,7 +41,7 @@ You can also use this method to remove an indent if the value of Count is a nega
 This example indents the selected paragraphs to the second tab stop.
 
 
-```
+```vb
 Selection.ParagraphFormat.TabIndent(2)
 ```
 
@@ -50,7 +50,7 @@ This example moves the indent of the selected paragraphs back one tab stop.
 
 
 
-```
+```vb
 Selection.ParagraphFormat.TabIndent(-1)
 ```
 

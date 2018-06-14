@@ -21,7 +21,7 @@ Represents a publication.
 Use the  **[ActiveDocument](http://msdn.microsoft.com/library/c6293fa6-291c-d8ce-be54-f8a997b95d2e%28Office.15%29.aspx)** property to refer to the current publication. This example adds a table to the first page of the active publication.
 
 
-```
+```vb
 Sub NewTable() 
  With ActiveDocument.Pages(1).Shapes 
  .AddTable NumRows:=3, NumColumns:=3, Left:=72, Top:=300, _ 
@@ -40,7 +40,7 @@ You can also write the above routine by using a reference to the  **ThisDocument
 
 
 
-```
+```vb
 Sub PrintPublication() 
  With ThisDocument.Pages(1).Shapes 
  .AddTable NumRows:=3, NumColumns:=3, Left:=72, Top:=300, _ 

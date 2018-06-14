@@ -43,7 +43,7 @@ You can write macros that use a settings file to store and retrieve settings. Fo
 This example sets the current document name as the LastFile setting under the MacroSettings heading in Settings.txt.
 
 
-```
+```vb
 System.PrivateProfileString("C:\Settings.txt", "MacroSettings", _ 
  "LastFile") = ActiveDocument.FullName
 ```

@@ -20,7 +20,7 @@ For information about returning a single member of a collection, see  [Returning
 This example deletes row three on the datasheet.
 
 
-```
+```vb
 myChart.Application.DataSheet.Rows(3).Delete
 ```
 

@@ -24,7 +24,7 @@ Use the  **[Item](Publisher.Tags.Item.md)** method of the **[Tags](Publisher.Tag
 
  
 
-```
+```vb
 Sub FormatTaggedShapes() 
  Dim shp As Shape 
  With ActiveDocument.Pages(1) 
@@ -46,7 +46,7 @@ Use the  **[Add](Publisher.Tags.Add.md)** method to add a Tag object. This examp
 
 
 
-```
+```vb
 Sub TagShapes() 
  Dim shp As Shape 
  With ActiveDocument.Pages(1) 

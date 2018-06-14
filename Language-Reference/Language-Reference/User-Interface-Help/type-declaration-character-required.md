@@ -17,7 +17,7 @@ The necessity of using [type-declaration characters](vbe-glossary.md) depends on
 
 - A [variable](vbe-glossary.md) that was originally implicitly declared with a type-declaration characters was referenced without a type-declaration character. For example:
     
-  ```
+  ```vb
   MyStr$ = "Implicit declaration" 
 MyStr = "Trying to refer to MyStr$, but error results" _ 
  &; "from calling it MyStr." 

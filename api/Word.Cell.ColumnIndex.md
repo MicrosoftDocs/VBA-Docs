@@ -46,7 +46,7 @@ This example returns the column number of the cell that contains the insertion p
 
 
 
-```
+```vb
 Msgbox Selection.Cells(1).ColumnIndex
 ```
 

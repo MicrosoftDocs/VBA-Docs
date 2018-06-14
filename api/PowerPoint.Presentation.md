@@ -35,7 +35,7 @@ The following examples describe how to:
 Use  **Presentations** (index), where index is the presentation's name or index number, to return a single **Presentation** object. The name of the presentation is the file name, with or without the file name extension, and without the path. The following example adds a slide to the beginning of Sample Presentation.
 
 
-```
+```vb
 Presentations("Sample Presentation").Slides.Add 1, 1
 ```
 
@@ -46,7 +46,7 @@ Use the [ActivePresentation](http://msdn.microsoft.com/library/55ff4906-09e5-2c5
 
 
 
-```
+```vb
 ActivePresentation.Save
 ```
 
@@ -55,7 +55,7 @@ Use the [Presentation](http://msdn.microsoft.com/library/f009e2c3-aa08-09f0-c879
 
 
 
-```
+```vb
 MsgBox SlideShowWindows(1).Presentation.Name
 ```
 

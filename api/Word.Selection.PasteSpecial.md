@@ -47,7 +47,7 @@ Unlike with the  **[Paste](Word.Selection.Paste.md)** method, with **PasteSpecia
 This example inserts the Clipboard contents at the insertion point as unformatted text.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 Selection.PasteSpecial DataType:=wdPasteText
 ```

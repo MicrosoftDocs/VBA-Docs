@@ -41,7 +41,7 @@ Paragraph
 This example selects the paragraph that precedes the selection in the active document.
 
 
-```
+```vb
 Selection.Previous(Unit:=wdParagraph, Count:=1).Select
 ```
 

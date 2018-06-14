@@ -41,7 +41,7 @@ The following example verifies whether the first inline shape in the active docu
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1) 
  If .HasChart Then 
  .Chart.SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbRed 
@@ -54,7 +54,7 @@ The following example creates a new 3-D column chart and adds it to the active d
 
 
 
-```
+```vb
 ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn 
 
 ```

@@ -88,7 +88,7 @@ For the project in Figure 1, if the  **Predecessors**,  **Driving Predecessors**
 
 
 
-```
+```vb
 Selected task ID 1, name: T1
     T2: PathSuccessor
     T2: PathDrivenSuccessor

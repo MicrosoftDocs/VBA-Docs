@@ -31,7 +31,7 @@ Represents a shape range, which is a set of shapes on a document. A shape range 
 Use  **Shapes.Range** (index), where index is the index number of the shape or an array that contains index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes in a publication. You can use Visual Basic's **Array** function to construct an array of index numbers. The following example sets the fill pattern for shapes one through three on the active publication.
 
 
-```
+```vb
 Sub ChangeFillPattern() 
     ActiveDocument.Pages(1).Shapes.Range(Array(1, 2, 3)) _ 
         .Fill.PresetGradient Style:=msoGradientDiagonalDown, _ 
@@ -46,7 +46,7 @@ Use  **Selection.ShapeRange** (index), where index is the index number of the sh
 
 
 
-```
+```vb
 Sub ChangeFillForShapeRange() 
     ActiveDocument.Pages(1).Shapes.Range(Array(1, 2)).Select 
     Selection.ShapeRange(1).Fill.ForeColor.RGB = RGB(255, 0, 0) 
@@ -58,7 +58,7 @@ This example selects all the shapes on the first page of the active publication,
 
 
 
-```
+```vb
 Sub SelectShapesOnPageOne() 
     ActiveDocument.Pages(1).Shapes.Range.Select 
     With Selection.ShapeRange(2).TextFrame.TextRange 
@@ -74,7 +74,7 @@ Use the  **[Align](http://msdn.microsoft.com/library/ef522d47-3fc7-cfca-5b9a-44f
 
 
 
-```
+```vb
 Sub AlignDistibuteShapes() 
     Dim rngShapes As ShapeRange 
     Set rngShapes = ActiveDocument.Pages(1).Shapes.Range 
@@ -91,7 +91,7 @@ Use the  **[Group](http://msdn.microsoft.com/library/ca3e011f-72ea-904e-da3f-cac
 
 
 
-```
+```vb
 Sub GroupShapes() 
     Dim rngShapes As ShapeRange 
     Set rngShapes = ActiveDocument.Pages(1).Shapes.Range 

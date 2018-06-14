@@ -41,7 +41,7 @@ Font
 When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections. The following statements are equivalent to the syntax example given above:
 
 
-```
+```vb
 objRet = object(index) 
 objRet = object(stringExpression) 
 

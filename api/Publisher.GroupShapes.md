@@ -24,7 +24,7 @@ Use the  **[GroupItems](Publisher.Shape.GroupItems.md)** property to return a **
 
  
 
-```
+```vb
 Sub WorkWithGroupShapes() 
  With ActiveDocument.Pages.Add(Count:=1, After:=1).Shapes 
  .AddShape(msoShapeIsoscelesTriangle, _ 

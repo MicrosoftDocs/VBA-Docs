@@ -36,7 +36,7 @@ Returns information about the current country/region and international settings.
 This example displays the currency format in the status bar.
 
 
-```
+```vb
 StatusBar = "Currency Format: " _ 
  &; Application.International(wdCurrencyCode)
 ```

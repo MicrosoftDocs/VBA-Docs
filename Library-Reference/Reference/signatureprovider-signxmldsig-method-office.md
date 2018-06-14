@@ -44,7 +44,7 @@ XMLDSIG is a standards-based signature format (http://www.w3.org/TR/xmldsig-core
 The following example, written in C#, shows the implementation of the  **SignXmlDsig** method in a custom signature provider project.
 
 
-```
+```vb
  public void SignXmlDsig(object queryContinue, SignatureSetup sigsetup, SignatureInfo siginfo, object xmldsigStream) 
  { 
  using (COMStream comstream = new COMStream(xmldsigStream)) 

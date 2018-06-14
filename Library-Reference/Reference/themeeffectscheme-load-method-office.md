@@ -33,7 +33,7 @@ Loads the effects scheme of a Microsoft Office theme from a file.
 The following example loads a theme effect scheme from a file.
 
 
-```
+```vb
 tesEffectScheme.Load("C:\myThemeEffectScheme.eftx") 
 
 ```

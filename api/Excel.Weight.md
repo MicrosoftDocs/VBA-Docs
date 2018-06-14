@@ -32,7 +32,7 @@ Returns or sets the weight of the border. Read/write
 This example sets the border weight for the chart area.
 
 
-```
+```vb
 myChart.ChartArea.Border.Weight = xlMedium
 ```
 

@@ -28,7 +28,7 @@ Use  **[Actions](http://msdn.microsoft.com/library/1b7bb1c0-334f-826a-fd6b-8fc3f
 The following Visual Basic for Applications (VBA) example uses the Reply action of a particular item to send a reply.
 
 
-```
+```vb
 myItem = CreateItem(olMailItem) 
  
 Set myReply = myItem.Actions("Reply").Execute
@@ -39,7 +39,7 @@ The following Visual Basic for Applications example does the same thing, using a
 
 
 
-```
+```vb
 myItem = CreateItem(olMailItem) 
  
 myItem.Actions("Reply").ReplyStyle = _ 

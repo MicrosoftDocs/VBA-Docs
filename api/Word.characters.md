@@ -16,7 +16,7 @@ A collection of characters in a selection, range, or document. There is no Chara
 Use the  **Characters** property of a **[Document](Word.Document.md)**, **Range**, or **[Selection](Word.Selection.md)** object to return the **Characters** collection. The following example displays how many characters are selected.
 
 
-```
+```vb
 MsgBox Selection.Characters.Count &amp; " characters are selected"
 ```
 
@@ -25,7 +25,7 @@ Use  **Characters** (Index), where Index is the index number, to return a **Rang
 
 
 
-```
+```vb
 With Selection.Characters(1) 
  .Bold = True 
  .Font.Size = 24 
@@ -41,7 +41,7 @@ There is no  **Add** method for the **Characters** collection. Instead, use the 
 
 
 
-```
+```vb
 With ActiveDocument 
  .Paragraphs(1).Range.InsertParagraphAfter 
  .Paragraphs(2).Range.InsertBefore "New Text" 

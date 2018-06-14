@@ -21,7 +21,7 @@ Represents a table shape on a slide. The  **Table** object is a member of the **
 Use  **Shapes** (index), where index is a number, to return a shape containing a table. Use the[HasTable](http://msdn.microsoft.com/library/fa38891a-e915-3a5c-4169-3c14e5e7136e%28Office.15%29.aspx)property to see if a shape contains a table. This example walks through the shapes on slide one, checks to see if each shape has a table, and then sets the mouse click action for each table shape to advance to the next slide.
 
 
-```
+```vb
 With ActivePresentation.Slides(2).Shapes
 
     For i = 1 To .Count
@@ -44,7 +44,7 @@ Use the [Cell](http://msdn.microsoft.com/library/31a2908b-7a33-994d-860a-e01da62
 
 
 
-```
+```vb
 ActivePresentation.Slides(3).Shapes(5).Table _
 
     .Cell(1, 1).Shape.TextFrame.TextRange _
@@ -57,7 +57,7 @@ Use the [AddTable](http://msdn.microsoft.com/library/77ce193e-10f7-25f4-a6f8-99d
 
 
 
-```
+```vb
 ActivePresentation.Slides(2).Shapes.AddTable(3, 3)
 ```
 

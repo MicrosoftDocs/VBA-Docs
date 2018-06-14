@@ -38,7 +38,7 @@ This example returns the current status of the  **Field codes** option on the **
 
 
 
-```
+```vb
 temp = Options.PrintFieldCodes
 ```
 

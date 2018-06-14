@@ -42,7 +42,7 @@ This example returns the status of the  **Allow A4/Letter paper resizing** optio
 
 
 
-```
+```vb
 temp = Options.MapPaperSize
 ```
 

@@ -54,7 +54,7 @@ ActiveDocument
 
 
 
-```
+```vb
 .Pages(1).Shapes(1).Cut
 ```
 
@@ -70,7 +70,7 @@ ActiveDocument
 
 
 
-```
+```vb
 .Pages(1).Shapes(1).TextFrame.TextRange.Cut
 ```
 

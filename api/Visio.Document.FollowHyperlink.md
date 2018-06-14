@@ -52,7 +52,7 @@ Visio 4.5 provided an undocumented  **Hyperlink** method for a **Document** obje
 
 
 
-```
+```vb
 HRESULT FollowHyperlink[in] (BSTR Target, [in] BSTR Location);
 ```
 
@@ -61,7 +61,7 @@ Visio 5.0 and later still support this method but it has been renamed  **FollowH
 
 
 
-```
+```vb
 HRESULT FollowHyperlink45[in] (BSTR Target, [in] BSTR Location);
 ```
 

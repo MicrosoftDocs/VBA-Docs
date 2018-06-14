@@ -70,7 +70,7 @@ This example applies category labels to series one.
 
 
 
-```
+```vb
 myChart.SeriesCollection(1). _ 
  ApplyDataLabels Type:=xlDataLabelsShowLabel
 ```

@@ -28,7 +28,7 @@ Resets the elapsed time (represented by the  **[SlideElapsedTime](PowerPoint.Sli
 This example resets the elapsed time for the slide that's currently displayed in slide show window one to 0 (zero).
 
 
-```
+```vb
 SlideShowWindows(1).View.ResetSlideTime
 ```
 

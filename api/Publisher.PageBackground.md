@@ -24,7 +24,7 @@ Use the  **Background** property of a **Page** object to return a **PageBackgrou
 
  
 
-```
+```vb
 Dim objPageBackground As PageBackground 
 Set objPageBackground = ActiveDocument.Pages(1).Background 
  
@@ -37,7 +37,7 @@ Use  **PageBackground.Exists** to determine if a background already exists for t
 
 
 
-```
+```vb
 Dim objPageBackground As PageBackground 
 Set objPageBackground = ActiveDocument.Pages(1).Background 
 If objPageBackground.Exists = False Then 
@@ -53,7 +53,7 @@ Use  **PageBackground.Fill** to return a **FillFormat** object. The following ex
 
 
 
-```
+```vb
 Dim objPageBackground As PageBackground 
 Dim objFillFormat As FillFormat 
  
@@ -78,7 +78,7 @@ Use  **PageBackground.Delete** to delete a background for the specified page. Th
 
 
 
-```
+```vb
 ActiveDocument.Pages(1).Background.Delete
 ```
 

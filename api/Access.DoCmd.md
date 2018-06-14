@@ -25,7 +25,7 @@ Most of the methods of the  **DoCmd** object have arguments — some are require
 
 
 
-```
+```vb
 DoCmd.OpenForm "Employees", , ,"[Title] = 'Sales Representative'"
 ```
 
@@ -51,7 +51,7 @@ The  **DoCmd** object doesn't support methods corresponding to the following act
 The following example opens a form in Form view and moves to a new record.
 
 
-```
+```vb
 Sub ShowNewRecord() 
  DoCmd.OpenForm "Employees", acNormal 
  DoCmd.GoToRecord , , acNewRec 

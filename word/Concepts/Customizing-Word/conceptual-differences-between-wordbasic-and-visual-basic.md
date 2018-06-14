@@ -20,7 +20,7 @@ The programming task of applying bold formatting demonstrates the differences be
 
 
 
-```
+```vb
 Bold 1
 ```
 
@@ -37,7 +37,7 @@ The  **Bold** property is a read/write Boolean property. This means that the **B
 
 
 
-```
+```vb
 x = Bold()
 ```
 
@@ -45,7 +45,7 @@ The following example is the Visual Basic equivalent for returning the bold form
 
 
 
-```
+```vb
 x = Selection.Font.Bold
 ```
 
@@ -75,7 +75,7 @@ The following Visual Basic example inserts text and a new paragraph after the se
 
 
 
-```
+```vb
 Selection.InsertAfter Text:="Hello World" 
 Selection.InsertParagraphAfter
 ```

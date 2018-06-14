@@ -32,7 +32,7 @@ When you run the code containing this declaration, Visual Basic creates the new 
 
 
 
-```
+```vb
 abc.ListNames
 ```
 

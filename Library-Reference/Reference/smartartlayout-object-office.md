@@ -23,7 +23,7 @@ Choices include Basic Block List, Picture Caption List, Vertical Bulleted List, 
 The following code changes the diagram style of a Smart Art diagram in Microsoft PowerPoint.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArt.Layout = Application.SmartArtLayouts(1)
 ```
 

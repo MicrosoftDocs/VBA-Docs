@@ -99,7 +99,7 @@ After running the above instruction, the Macro.ini file includes the following t
 
 
 
-```
+```vb
 [DocTracker] 
 DocNum=1
 ```

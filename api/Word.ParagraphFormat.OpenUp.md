@@ -28,7 +28,7 @@ Sets spacing before the specified paragraphs to 12 points.
 You can also use the  **[SpaceBefore](Word.ParagraphFormat.SpaceBefore.md)** property to set the spacing of paragraphs. The following two statements are equivalent:
 
 
-```
+```vb
 Selection.ParagraphFormat.OpenUp 
 Selection.ParagraphFormat.SpaceBefore = 12
 ```
@@ -39,7 +39,7 @@ Selection.ParagraphFormat.SpaceBefore = 12
 This example changes the formatting of the second paragraph in the active document to leave 12 points of space before the paragraph.
 
 
-```
+```vb
 Selection.ParagraphFormat.OpenUp
 ```
 

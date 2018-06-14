@@ -28,7 +28,7 @@ Returns the list level for the specified style. Read-only  **Long** .
 This example displays the list level for the Heading 3 style.
 
 
-```
+```vb
 Msgbox ActiveDocument.Styles(wdStyleHeading3).ListLevelNumber
 ```
 

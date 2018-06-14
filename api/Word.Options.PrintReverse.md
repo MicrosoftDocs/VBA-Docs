@@ -38,7 +38,7 @@ This example returns the current status of the  **Reverse print order** option o
 
 
 
-```
+```vb
 temp = Options.PrintReverse
 ```
 

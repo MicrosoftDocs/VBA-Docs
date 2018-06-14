@@ -21,7 +21,7 @@ Represents the mail merge data source in a mail merge operation.
 Use the  **DataSource** property to return the **MailMergeDataSource** object. The following example displays the name of the data source associated with the active document.
 
 
-```
+```vb
 If ActiveDocument.MailMerge.DataSource.Name <> "" Then _ 
  MsgBox ActiveDocument.MailMerge.DataSource.Name
 ```
@@ -31,7 +31,7 @@ The following example displays the field names in the data source associated wit
 
 
 
-```
+```vb
 For Each aField In ActiveDocument.MailMerge.DataSource.FieldNames 
  MsgBox aField.Name 
 Next aField
@@ -42,7 +42,7 @@ The following example opens the data source associated with Form letter.doc and 
 
 
 
-```
+```vb
 With Documents("Form letter.doc").MailMerge 
  .EditDataSource 
  If .DataSource.FindRecord(FindText:="Kate", _ 

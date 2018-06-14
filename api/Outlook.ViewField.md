@@ -33,7 +33,7 @@ Use the  **[ColumnFormat](Outlook.ViewField.ColumnFormat.md)** property to acces
 The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](Outlook.TableView.ViewFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
-```
+```vb
 Private Sub DisplayTableViewFields() 
  
  Dim objTableView As TableView 

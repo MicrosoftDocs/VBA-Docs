@@ -35,7 +35,7 @@ The following Microsoft Visual Basic for Applications (VBA) example returns the 
 
 
 
-```
+```vb
 Sub GetItem() 
  
  Dim myNameSpace As Outlook.NameSpace 
@@ -66,7 +66,7 @@ The following VBA example returns the first item in the  **Inbox**. In Microsoft
 
 
 
-```
+```vb
 Sub GetItem() 
  
  Dim myNameSpace As Outlook.NameSpace 

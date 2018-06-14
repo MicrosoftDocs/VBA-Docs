@@ -28,7 +28,7 @@ Exports the chart in a graphic format. Returns a value of type  **Boolean**.
 This example exports the chart as a GIF file.
 
 
-```
+```vb
 myChart.Export _ 
  FileName:="current_sales.gif", FilterName:="GIF"
 ```

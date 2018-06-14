@@ -41,7 +41,7 @@ Using this method is equivalent to clicking the  **Increase Indent** button on t
 This example indents the first paragraph of the active document by 10 characters.
 
 
-```
+```vb
 Selection.ParagraphFormat.IndentCharWidth 10
 ```
 

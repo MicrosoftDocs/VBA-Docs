@@ -61,7 +61,7 @@ This example prints the active document, using the settings from the Print dialo
 
 
 
-```
+```vb
 Dialogs(wdDialogFilePrint).Execute
 ```
 

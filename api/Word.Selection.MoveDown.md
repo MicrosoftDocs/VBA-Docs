@@ -38,7 +38,7 @@ Moves the selection down and returns the number of units it has been moved.
 This example extends the selection down one line.
 
 
-```
+```vb
 Selection.MoveDown Unit:=wdLine, Count:=1, Extend:=wdExtend
 ```
 

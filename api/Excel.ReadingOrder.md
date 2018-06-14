@@ -35,7 +35,7 @@ Some of these constants may not be available to you, depending on the language s
 This example sets the chart title's reading order to right-to-left.
 
 
-```
+```vb
 myChart.ChartTitle.ReadingOrder = xlRTL
 ```
 

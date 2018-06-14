@@ -14,7 +14,7 @@ This example takes a chart named &;quot;Chart 1&;quot; from Sheet 1 and exports 
 
 
 
-```
+```vb
 Sub Export_Chart_Word()
 
     'Name of an existing Word document, and the name the chart will have when exported.

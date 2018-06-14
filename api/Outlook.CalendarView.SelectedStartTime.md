@@ -81,7 +81,7 @@ The following managed code is written in C#. To run a .NET Framework managed cod
 
 
 
-```C#
+```vbC#
 private void CreateAppointmentUsingSelectedTime() 
 { 
  DateTime dateNull = 

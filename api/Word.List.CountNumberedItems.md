@@ -28,7 +28,7 @@ Returns the number of bulleted or numbered items and LISTNUM fields in the speci
 This example formats the current selection as a list, using the second numbered list template. The example then counts the numbered and bulleted items and LISTNUM fields in the active document and displays the result in a message box.
 
 
-```
+```vb
 Selection.Range.ListFormat.ApplyListTemplate _ 
     ListTemplate:=ListGalleries(wdNumberGallery).ListTemplates(2) 
 Msgbox ActiveDocument.CountNumberedItems
@@ -39,7 +39,7 @@ This example counts the number of first-level numbered or bulleted items in the 
 
 
 
-```
+```vb
 Msgbox ActiveDocument.Content.ListFormat _ 
     .CountNumberedItems(Level:=1)
 ```

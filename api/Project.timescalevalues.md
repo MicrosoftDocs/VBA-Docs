@@ -20,7 +20,7 @@ Use  **TimeScaleValues** ( _Index_ ), where _Index_ is the index number of the t
 
 
 
-```
+```vb
 Dim TSV As TimeScaleValues, HowMany As Long
 Dim HoursPerDay As String
 
@@ -41,7 +41,7 @@ Use the  **[TimeScaleData](http://msdn.microsoft.com/library/51649bc3-8224-15cd-
 
 
 
-```
+```vb
 ActiveCell.Resource.TimeScaleData("10/1/2012", "10/31/2012")
 ```
 
@@ -50,7 +50,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/083ef154-31ce-55ec-793a-0627c
 
 
 
-```
+```vb
 Dim TSV As TimeScaleValues
   
 Set TSV = ActiveCell.Resource.TimeScaleData("10/1/2012", "10/5/2012", TimescaleUnit:=pjTimescaleDays)

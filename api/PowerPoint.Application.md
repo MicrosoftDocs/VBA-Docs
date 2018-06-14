@@ -37,7 +37,7 @@ For example, instead of writing  `Application.ActiveWindow.Height = 200`, you ca
 Use the  **Application** property to return the **Application** object. The following example returns the path to the program file.
 
 
-```
+```vb
 Dim MyPath As String
 
 MyPath = Application.Path
@@ -48,7 +48,7 @@ The following example creates a PowerPoint  **Application** object in another ap
 
 
 
-```
+```vb
 Set ppt = New Powerpoint.Application
 
 ppt.Visible = True

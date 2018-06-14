@@ -43,7 +43,7 @@ This example begins a spelling and grammar check on the selection.
 
 
 
-```
+```vb
 Selection.Range.CheckGrammar
 ```
 

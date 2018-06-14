@@ -27,7 +27,7 @@ Call MySub 5                ' Error due to no parentheses.
     
 -  **Expected: )**. Incorrect syntax for a procedure call. For example, a function call can't stand by itself, and **Sub** procedure calls sometimes require the **Call** keyword, depending on how you specify their arguments.
     
-  ```
+  ```vb
   Workbook.Add (X:=5, Y:=7)    ' Function call without expression. 
 YourSub(5, 7)                ' Sub invocation without Call. 
 
@@ -38,7 +38,7 @@ YourSub(5, 7)                ' Sub invocation without Call.
     
 -  **Expected: Expression**. For example, when pasting code from the[Object Browser](vbe-glossary.md), you may have forgotten to specify a value for a [named argument](vbe-glossary.md).
     
-  ```
+  ```vb
   Workbook.Add (X:= )    ' Error because no value assigned to 
 ' named argument. 
 

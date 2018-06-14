@@ -31,7 +31,7 @@ Use the  **[Fill](Publisher.Shape.Fill.md)** property to return a **FillFormat**
 
  
 
-```
+```vb
 Sub AddShapeAndSetFill() 
  With ActiveDocument.Pages(1).Shapes.AddShape(Type:=msoShapeHeart, _ 
  Left:=90, Top:=90, Width:=90, Height:=80).Fill 

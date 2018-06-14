@@ -30,7 +30,7 @@ Clears the formulas from the range.
 This example clears the formulas from cells A1:G37 on the datasheet but leaves the formatting intact.
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A1:G37").ClearContents
 ```
 
@@ -39,7 +39,7 @@ This example clears the chart data from a chart but leaves the formatting intact
 
 
 
-```
+```vb
 myChart.ChartArea.ClearContents
 ```
 

@@ -42,7 +42,7 @@ While any character in Cset is found, the start position of the range is moved. 
 This example moves the start position of the selected range backward through the document while the space character is found.
 
 
-```
+```vb
 Selection.Range.MoveStartWhile Cset:=" ", Count:=wdBackward
 ```
 
@@ -51,7 +51,7 @@ This example moves the start position of the selected range backward through the
 
 
 
-```
+```vb
 Selection.Range.MoveStartWhile Cset:="abcdefgh", Count:=-10
 ```
 

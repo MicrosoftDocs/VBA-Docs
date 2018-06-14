@@ -21,7 +21,7 @@ Represents a cell, a row, a column, a selection of cells containing one or more 
 Use  **Range** ( _arg_ ), where _arg_ names the range, to return a **Range** object that represents a single cell or a range of cells. The following example places the value of cell A1 in cell A5.
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A5").Value = _ 
     Worksheets("Sheet1").Range("A1").Value
 ```
@@ -31,7 +31,7 @@ The following example fills the range A1:H8 with random numbers by setting the f
 
 
 
-```
+```vb
 Worksheets("Sheet1").Activate 
 Range("A1:H8").Formula = "=Rand()"    'Range is on the active sheet
 ```
@@ -44,7 +44,7 @@ The following example clears the contents of the range named  _Criteria_.
 
 
 
-```
+```vb
 Worksheets(1).Range("Criteria").ClearContents
 ```
 
@@ -53,7 +53,7 @@ Use  **Cells** ( _row_, _column_ ) where _row_ is the row index and _column_ is 
 
 
 
-```
+```vb
 Worksheets(1).Cells(1, 1).Value = 24
 ```
 
@@ -62,7 +62,7 @@ The following example sets the formula for cell A2.
 
 
 
-```
+```vb
 ActiveSheet.Cells(2, 1).Formula = "=Sum(B1:B5)"
 ```
 
@@ -74,7 +74,7 @@ Although you can also use  `Range("A1")` to return cell A1, there may be times w
 
 
 
-```
+```vb
 Sub SetUpTable() 
 Worksheets("Sheet1").Activate 
 For TheYear = 1 To 5 
@@ -91,7 +91,7 @@ Use  _expression_. **Cells** ( _row_, _column_ ), where _expression_ is an expre
 
 
 
-```
+```vb
 Worksheets(1).Range("C5:C10").Cells(1, 1).Formula = "=Rand()"
 ```
 
@@ -103,7 +103,7 @@ Use  **Range** ( _cell1, cell2_ ), where _cell1_ and _cell2_ are **Range** objec
 
 
 
-```
+```vb
 With Worksheets(1) 
     .Range(.Cells(1, 1), _ 
         .Cells(10, 10)).Borders.LineStyle = xlThick 
@@ -115,7 +115,7 @@ Use  **Offset** ( _row, column_ ), where _row_ and _column_ are the row and colu
 
 
 
-```
+```vb
 Worksheets("Sheet1").Activate 
   'Can't select unless the sheet is active 
 Selection.Offset(3, 1).Range("A1").Select
@@ -126,7 +126,7 @@ Use  **Union** ( _range1, range2_, ...) to return multiple-area ranges—that is
 
 
 
-```
+```vb
 Dim r1 As Range, r2 As Range, myMultiAreaRange As Range 
 Worksheets("sheet1").Activate 
 Set r1 = Range("A1:B2") 
@@ -140,7 +140,7 @@ If you work with selections that contain more than one area, the  **[Areas](http
 
 
 
-```
+```vb
 Sub NoMultiAreaSelection() 
     NumberOfSelectedAreas = Selection.Areas.Count 
     If NumberOfSelectedAreas > 1 Then 
@@ -157,7 +157,7 @@ This example uses the  **AdvancedFilter** method of the **Range** object to crea
 
 
 
-```
+```vb
 Sub Create_Unique_List_Count()
     'Excel workbook, the source and target worksheets, and the source and target ranges.
     Dim wbBook As Workbook

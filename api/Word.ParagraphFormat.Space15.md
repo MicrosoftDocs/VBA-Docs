@@ -32,7 +32,7 @@ You can also use the  **[LineSpacingRule](Word.ParagraphFormat.LineSpacingRule.m
 
 
 
-```
+```vb
 Selection.ParagraphFormat.Space15 
 Selection.ParagraphFormat.LineSpacingRule = wdLineSpace1pt5
 ```
@@ -43,7 +43,7 @@ Selection.ParagraphFormat.LineSpacingRule = wdLineSpace1pt5
 This example changes the first paragraph in the active document to 1.5-line spacing.
 
 
-```
+```vb
 Selection.ParagraphFormat.Space15
 ```
 

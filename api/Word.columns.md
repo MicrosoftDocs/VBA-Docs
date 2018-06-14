@@ -16,7 +16,7 @@ A collection of  **[Column](Word.Column.md)** objects that represent the columns
 Use the  **Columns** property of a **[Range](Word.Range.md)**, **[Selection](Word.Selection.md)**, or **[Table](Word.Table.md)** object to return a **Columns** collection. The following example displays the number of **Column** objects in the **Columns** collection for the first table in the active document.
 
 
-```
+```vb
 MsgBox ActiveDocument.Tables(1).Columns.Count
 ```
 
@@ -25,7 +25,7 @@ The following example creates a table with six columns and three rows and then f
 
 
 
-```
+```vb
 Set myTable = ActiveDocument.Tables.Add(Range:=Selection.Range, _ 
  NumRows:=3, NumColumns:=6) 
 For Each col In myTable.Columns 
@@ -39,7 +39,7 @@ Use the  **[Add](Word.Columns.Add.md)** method to add a column to a table. The f
 
 
 
-```
+```vb
 If ActiveDocument.Tables.Count >= 1 Then 
  Set myTable = ActiveDocument.Tables(1) 
  myTable.Columns.Add BeforeColumn:=myTable.Columns(1) 
@@ -52,7 +52,7 @@ Use  **Columns** (Index), where Index is the index number, to return a single **
 
 
 
-```
+```vb
 ActiveDocument.Tables(1).Columns(1).Select
 ```
 

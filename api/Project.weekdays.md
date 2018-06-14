@@ -25,7 +25,7 @@ Use  **Weekdays** (*Index* ), where*Index* is the weekday index number, three-le
 
 
 
-```
+```vb
 With ActiveProject.Calendar.WeekDays(6) 
 
  .Shift1.Start = #8:00:00 AM# 
@@ -46,7 +46,7 @@ A much better way to return the same object is to use the predefined constant fo
 
 
 
-```
+```vb
 With ActiveProject.Calendar.WeekDays(pjFriday)
 ```
 
@@ -61,7 +61,7 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 
 
 
-```
+```vb
 ActiveProject.Calendar.WeekDays
 ```
 

@@ -30,7 +30,7 @@ The following example sets a reference to an  **AddressEntries** object.
 
 
 
-```
+```vb
 Set myNameSpace = Application.GetNameSpace("MAPI") 
  
 Set myAddressList = myNameSpace.AddressLists("Personal Address Book") 
@@ -43,7 +43,7 @@ You can also index directly into the  **AddressEntries** object, returning an **
 
 
 
-```
+```vb
 Set myAddressEntry = myAddressList.AddressEntries(index)
 ```
 

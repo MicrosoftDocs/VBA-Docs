@@ -77,7 +77,7 @@ The **InputBox** method differs from the **InputBox** function in that it allows
 
 This example prompts the user for a number.
 
-```
+```vb
 myNum = Application.InputBox("Enter a number")
 ```
 

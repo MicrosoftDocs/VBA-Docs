@@ -33,7 +33,7 @@ Saves the color scheme of a Microsoft Office theme to a file.
 The following example saves the color scheme for an Office theme to a file.
 
 
-```
+```vb
 ThemeColorScheme.Save("C:\myThemeColorScheme.xml") 
 
 ```

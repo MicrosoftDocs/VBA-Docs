@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 To change the value of an Outlook field, use the property name of the associated standard field. For example, to change the value of the Subject field, use the following code.
 
 
-```
+```vb
 Item.Subject = "New Subject"
 ```
 
@@ -24,7 +24,7 @@ To change the value of a custom field, use the following code to refer to a cust
 
 
 
-```
+```vb
 Item.UserProperties.Find("MyProperty").Value = "New Value"
 ```
 

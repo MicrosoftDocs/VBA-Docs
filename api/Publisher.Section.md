@@ -24,7 +24,7 @@ Use  **Sections**.Item(index) where index is the index number, to return a singl
 
  
 
-```
+```vb
 Dim objSection As Section 
 Set objSection = ActiveDocument.Sections.Item(1)
 ```
@@ -36,7 +36,7 @@ Use  **Sections**.Add(StartPageIndex) where StartPageIndex is the index number o
 
 
 
-```
+```vb
 Dim objSection As Section 
 Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 ```

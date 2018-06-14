@@ -33,7 +33,7 @@ This is the recommended way to return or set the language of Latin text in a doc
 This example sets the language of the selection to French.
 
 
-```
+```vb
 Selection.LanguageIDOther = wdFrench
 ```
 

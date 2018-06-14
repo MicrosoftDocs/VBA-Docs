@@ -46,7 +46,7 @@ When the state of the window is  **ppWindowNormal**, the window is neither maxim
 This example maximizes the first member of the  **DocumentWindows** collection.
 
 
-```
+```vb
 Windows(1).WindowState = ppWindowMaximized
 ```
 

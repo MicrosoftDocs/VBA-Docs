@@ -21,7 +21,7 @@ Represents a trendline in the specified chart. A trendline shows the trend, or d
 Use  **Trendlines**( _index_), where  _index_ is the trendline's index number, to return a single **Trendline** object. The following example changes the trendline type for series one in the chart. If the series has no trendline, this example will fail.
 
 
-```
+```vb
 myChart.SeriesCollection(1).Trendlines(1).Type = xlMovingAvg
 ```
 

@@ -28,7 +28,7 @@ Returns or sets the mark used to show formatting changes while change tracking i
 This example causes text with changed formatting to be double-underlined when change tracking is enabled.
 
 
-```
+```vb
 Options.RevisedPropertiesMark = _ 
  wdRevisedPropertiesMarkDoubleUnderline
 ```
@@ -38,7 +38,7 @@ This example returns the option selected in the  **Formatting** box under **Trac
 
 
 
-```
+```vb
 temp = Options.RevisedPropertiesMark
 ```
 

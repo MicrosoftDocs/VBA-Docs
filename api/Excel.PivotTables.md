@@ -29,7 +29,7 @@ Because PivotTable report programming can be complex, it's generally easiest to 
 Use the  **[PivotTables](Excel.Worksheet.PivotTables.md)** method to return the **PivotTables** collection. The following example displays the number of PivotTable reports on Sheet3.
 
 
-```
+```vb
 MsgBox Worksheets("sheet3").PivotTables.Count
 ```
 
@@ -38,7 +38,7 @@ Use the  **[PivotTableWizard](Excel.Worksheet.PivotTableWizard.md)** method to c
 
 
 
-```
+```vb
 ActiveSheet.PivotTableWizard xlDatabase, Range("A1:C100")
 ```
 
@@ -47,7 +47,7 @@ Use  **PivotTables** ( _index_ ), where _index_ is the PivotTable index number o
 
 
 
-```
+```vb
 Worksheets("sheet3").PivotTables(1) _ 
  .PivotFields("year").Orientation = xlRowField
 ```

@@ -27,7 +27,7 @@ Use  **Months** (*Index* ), where*Index* is the month index number, month name, 
 
 
 
-```
+```vb
 Dim R As Resource 
 Dim D As Integer, M As Integer, WorkingDays As Integer 
  
@@ -61,7 +61,7 @@ Use the  **[Months](Project.Year.Months.md)** property to return a **Months** co
 
 
 
-```
+```vb
 ActiveProject.Calendar.Years(2012).Months.Count
 ```
 

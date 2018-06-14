@@ -38,7 +38,7 @@ This example returns the current status of the Always suggest corrections option
 
 
 
-```
+```vb
 temp = Options.SuggestSpellingCorrections
 ```
 

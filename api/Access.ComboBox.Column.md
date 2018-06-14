@@ -46,7 +46,7 @@ You can use the  **Column** property to assign the contents of a combo box or li
 
 
 
-```text
+```vbtext
 =Forms!Customers!CompanyName.Column(1)
 ```
 

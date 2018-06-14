@@ -33,7 +33,7 @@ When you unlink a field, the current result is converted to text or a graphic an
 This example unlinks the first field in "Sales.doc."
 
 
-```
+```vb
 Documents("Sales.doc").Fields(1).Unlink
 ```
 

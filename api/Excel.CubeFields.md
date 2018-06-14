@@ -38,7 +38,7 @@ Use  **CubeFields** ( _index_ ), where _index_ is the cube field's index number,
 
 
 
-```
+```vb
 strAlphaName = _ 
  ActiveSheet.PivotTables(1).CubeFields(2).Name
 ```

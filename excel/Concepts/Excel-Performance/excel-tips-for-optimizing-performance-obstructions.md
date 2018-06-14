@@ -87,7 +87,7 @@ This solution has both advantages and disadvantages:
 
 By using the **OFFSET** or **INDEX** and **COUNTA** functions in the definition of a named range, you can make the area that the named range refers to dynamically expand and contract. For example, create a defined name using one of the following formulas:
 
-```
+```vb
   =OFFSET(Sheet1!$A$1,0,0,COUNTA(Sheet1!$A:$A),1)
   =Sheet1!$A$1:INDEX(Sheet1!$A:$A,COUNTA(Sheet1!$A:$A)+ROW(Sheet1!$A$1) - 1,1)
 ```
@@ -98,7 +98,7 @@ Using the **INDEX** formula for a dynamic range is generally preferable to the *
 
 Performance decreases because the **COUNTA** function inside the dynamic range formula must examine many rows. You can minimize this performance decrease by storing the **COUNTA** part of the formula in a separate cell or defined name, and then referring to the cell or name in the dynamic range:
 
-```
+```vb
  Counts!z1=COUNTA(Sheet1!$A:$A)
  OffsetDynamicRange=OFFSET(Sheet1!$A$1,0,0,Counts!$Z$1,1)
  IndexDynamicRange=Sheet1!$A$1:INDEX(Sheet1!$A:$A,Counts!$Z$1+ROW(Sheet1!$A$1) - 1,1)
@@ -126,7 +126,7 @@ Ensure that you understand the match-type and range-lookup options in **MATCH**,
 
 The following code example shows the syntax for the **MATCH** function. For more information, see the [Match](http://msdn.microsoft.com/library/901cdd78-e8fc-f149-66ff-5887f7099c96%28Office.14%29.aspx) method of the [WorksheetFunction](http://msdn.microsoft.com/library/7b1d5639-363d-632c-2cf0-2232562646b6%28Office.14%29.aspx) object.
 
-```
+```vb
   MATCH(lookup value, lookup array, matchtype)
 ```
 
@@ -138,7 +138,7 @@ The following code example shows the syntax for the **MATCH** function. For more
     
 The following code example shows the syntax for the **VLOOKUP** and **HLOOKUP** functions. For more information, see the [VLOOKUP](http://msdn.microsoft.com/library/1b84b1f5-b557-3a5c-0787-7c19a9800580%28Office.14%29.aspx) and [HLOOKUP](http://msdn.microsoft.com/library/6e7b5ad0-3f70-d7a8-b161-ce418107d2a1%28Office.14%29.aspx) methods of the [WorksheetFunction](http://msdn.microsoft.com/library/7b1d5639-363d-632c-2cf0-2232562646b6%28Office.14%29.aspx) object.
 
-```
+```vb
   VLOOKUP(lookup value, table array, col index num, range-lookup)
   HLOOKUP(lookup value, table array, row index num, range-lookup)
 ```
@@ -157,7 +157,7 @@ The **INDEX** function is fast and is a non-volatile function, which speeds up r
 
 It is easy to convert **VLOOKUP** to **INDEX** and **MATCH**. The following two statements return the same answer:
 
-```
+```vb
  VLOOKUP(A1, Data!$A$2:$F$1000,3,False)
 
  INDEX(Data!$A$2:$F$1000,MATCH(A1,$A$1:$A$1000,0),3)
@@ -179,26 +179,26 @@ Because exact match lookups can be slow, consider the following options for impr
 
 If you can sort your data but still cannot use approximate match because you cannot be sure that the value you are looking up exists in the lookup range, you can use this formula:
 
-```
+```vb
   IF(VLOOKUP(lookup_val ,lookup_array,1,True)=lookup_val, _
       VLOOKUP(lookup_val, lookup_array, column, True), "notexist")
 ```
 
 The first part of the formula works by doing an approximate lookup on the lookup column itself.
 
-```
+```vb
   VLOOKUP(lookup_val ,lookup_array,1,True)
 ```
 
 You can check if the answer from the lookup column is the same as the lookup value (in which case you have an exact match) by using the following formula:
 
-```
+```vb
   IF(VLOOKUP(lookup_val ,lookup_array,1,True)=lookup_val,
 ```
 
 If this formula returns True, you have found an exact match, so you can do the approximate lookup again, but this time, return the answer from the column you want. 
 
-```
+```vb
   VLOOKUP(lookup_val, lookup_array, column, True)
 ```
 
@@ -210,27 +210,27 @@ Be aware that if you look up a value smaller than the smallest value in the list
 
 If you must use exact match lookup on unsorted data, and you cannot be sure whether the lookup value exists, you often must handle the #N/A that is returned if no match is found. Beginning with Excel 2007, you can use the **IFERROR** function, which is both simple and fast.  
 
-```
+```vb
   IF IFERROR(VLOOKUP(lookupval, table, 2 FALSE),0)
 ```
 
 In earlier versions, a simple but slow way is to use an **IF** function that contains two lookups.  
 
-```
+```vb
   IF(ISNA(VLOOKUP(lookupval,table,2,FALSE)),0,_
       VLOOKUP(lookupval,table,2,FALSE))
 ```
 
 You can avoid the double exact lookup if you use exact **MATCH** once, store the result in a cell, and then test the result before doing an **INDEX**.
 
-```
+```vb
   In A1 =MATCH(lookupvalue,lookuparray,0)
   In B1 =IF(ISNA(A1),0,INDEX(tablearray,A1,column))
 ```
 
 If you cannot use two cells, use **COUNTIF**. It is generally faster than an exact match lookup. 
 
-```
+```vb
   IF (COUNTIF(lookuparray,lookupvalue)=0, 0, _
       VLOOKUP(lookupval, table, 2 FALSE))
 ```
@@ -241,13 +241,13 @@ You can often reuse a stored exact **MATCH** many times. For example, if you are
  
 Add an extra column for the **MATCH** to store the result (`stored_row`), and for each result column use the following: 
 
-```
+```vb
   INDEX(Lookup_Range,stored_row,column_number)
 ```
 
 Alternatively, you can use **VLOOKUP** in an array formula. (Array formulas must be entered by using Ctrl+-Shift+Enter. Excel will add the { and } to show you that this is an array formula).
 
-```
+```vb
   {VLOOKUP(lookupvalue,{4,2},FALSE)}
 ```
 
@@ -255,7 +255,7 @@ Alternatively, you can use **VLOOKUP** in an array formula. (Array formulas must
 
 You can also return many cells from one lookup operation. To look up several contiguous columns, you can use the **INDEX** function in an array formula to return multiple columns at once (use 0 as the column number). You can also use the **INDEX** function to return multiple rows at one time.
 
-```
+```vb
   {INDEX($A$1:$J$1000,stored_row,0)}
 ```
 
@@ -287,21 +287,21 @@ If each table that you want to look up (the third dimension) is stored as a set 
 
 - Using **CHOOSE** and range names can be an efficient method. **CHOOSE** is not volatile, but it is best-suited to a relatively small number of tables. This example dynamically uses `TableLookup_Value` to choose which range name (`TableName1, TableName2, ...`) to use for the lookup table.
 
-  ```
+  ```vb
     INDEX(CHOOSE(TableLookup_Value,TableName1,TableName2,TableName3), _
     MATCH(RowLookup_Value,$A$2:$A$1000),MATCH(colLookup_value,$B$1:$Z$1))
   ```
 
 - The following example uses the **INDIRECT** function and `TableLookup_Value` to dynamically create the sheet name to use for the lookup table. This method has the advantage of being simple and able to handle a large number of tables. Because **INDIRECT** is a volatile single-threaded function, the lookup is single-thread calculated at every calculation even if no data has changed. Using this method is slow.
   
-  ```
+  ```vb
     INDEX(INDIRECT("Sheet" &amp; TableLookup_Value &amp; "!$B$2:$Z$1000"), _
     MATCH(RowLookup_Value,$A$2:$A$1000),MATCH(colLookup_value,$B$1:$Z$1))
   ```
 
 - You could also use the **VLOOKUP** function to find the name of the sheet or the text string to use for the table, and then use the **INDIRECT** function to convert the resulting text into a range.
 
-  ```
+  ```vb
     INDEX(INDIRECT(VLOOKUP(TableLookup_Value,TableOfTAbles,1)),MATCH(RowLookup_Value,$A$2:$A$1000),MATCH(colLookup_value,$B$1:$Z$1))
   ```
 
@@ -364,7 +364,7 @@ In earlier versions, there are a few advantages to using **SUMPRODUCT** instead 
 
 You can use **SUMPRODUCT** for multiple-condition array formulas as follows:
 
-```
+```vb
   SUMPRODUCT(--(Condition1),--(Condition2),RangetoSum)
 ```
 
@@ -374,7 +374,7 @@ Note that the size and shape of the ranges or arrays that are used in the condit
   
 You can also directly multiply the terms inside **SUMPRODUCT** rather than separate them by commas:
 
-```
+```vb
   SUMPRODUCT((Condition1)*(Condition2)*RangetoSum)
 ```
 
@@ -384,7 +384,7 @@ This is usually slightly slower than using the comma syntax, and it gives an err
 
 In cases like weighted average calculations, where you need to multiply a range of numbers by another range of numbers and sum the results, using the comma syntax for **SUMPRODUCT** can be 20 to 25 percent faster than an array-entered **SUM**.
 
-```
+```vb
   {=SUM($D$2:$D$10301*$E$2:$E$10301)}
   =SUMPRODUCT($D$2:$D$10301*$E$2:$E$10301)
   =SUMPRODUCT($D$2:$D$10301,$E$2:$E$10301)
@@ -458,7 +458,7 @@ If you must have many formulas that use user-defined functions, ensure that you 
  
 You can trap F9 and redirect it to a VBA calculation subroutine as follows. Add this subroutine to the *Thisworkbook* module.
 
-```
+```vb
   Private Sub Workbook_Open()
       Application.OnKey "{F9}", "Recalc"
   End Sub
@@ -466,7 +466,7 @@ You can trap F9 and redirect it to a VBA calculation subroutine as follows. Add 
 
 Add this subroutine to a standard module.  
    
-```
+```vb
   Sub Recalc()
       Application.Calculate
       MsgBox "hello"
@@ -477,7 +477,7 @@ User-defined functions in Automation add-ins (Excel 2002 and later versions) do 
 
 If your user-defined function processes each cell in a range, declare the input as a range, assign it to a variant that contains an array, and loop on that. If you want to handle whole column references efficiently, you must make a subset of the input range, dividing it at its intersection with the used range, as in this example.
 
-```
+```vb
   Public Function DemoUDF(theInputRange as Range)
       Dim vArr as Variant
       Dim vCell as Variant
@@ -492,7 +492,7 @@ If your user-defined function processes each cell in a range, declare the input 
 
 If your user-defined function is using worksheet functions or Excel object model methods to process a range, it is generally more efficient to keep the range as an object variable than to transfer all the data from Excel to the user-defined function.
 
-```
+```vb
   Function uLOOKUP(lookup_value As Variant, lookup_array As Range, _
                    col_num As Variant, sorted As Variant, _
                    NotFound As Variant)
@@ -509,7 +509,7 @@ If your user-defined function is using worksheet functions or Excel object model
 
 If your user-defined function is called early in the calculation chain, it can be passed as uncalculated arguments. Inside a user-defined function, you can detect uncalculated cells by using the following test for empty cells that contain a formula:
 
-```
+```vb
   If ISEMPTY(Cell.Value) AND Len(Cell.formula)>0 then
 ```
 
@@ -586,7 +586,7 @@ The following functionality can usually be turned off while your VBA macro execu
 
 The following example shows the functionality that you can turn off while your VBA macro executes.
 
-```
+```vb
   ' Save the current state of Excel settings.
   screenUpdateState = Application.ScreenUpdating
   statusBarState = Application.DisplayStatusBar
@@ -622,7 +622,7 @@ Optimize your code by explicitly reducing the number of times data is transferre
 
 The following code example shows non-optimized code that loops through cells one at a time to get and set the values of cells A1:C10000. These cells do not contain formulas.
 
-```
+```vb
   Dim DataRange as Range
   Dim Irow as Long
   Dim Icol as Integer 
@@ -645,7 +645,7 @@ The following code example shows non-optimized code that loops through cells one
 
 The following code example shows optimized code that uses an array to get and set the values of cells A1:C10000 all at the same time. These cells do not contain formulas.  
 
-```
+```vb
   Dim DataRange As Variant
   Dim Irow As Long 
   Dim Icol As Integer 
@@ -681,7 +681,7 @@ Selecting and activating objects is more processing intensive than referencing o
     
 The following code example shows non-optimized code that selects each Shape on the active sheet and changes the text to "Hello".
   
-```
+```vb
   For i = 0 To ActiveSheet.Shapes.Count
       ActiveSheet.Shapes(i).Select
       Selection.Text = "Hello"
@@ -690,7 +690,7 @@ The following code example shows non-optimized code that selects each Shape on t
 
 The following code example shows optimized code that references each Shape directly and changes the text to "Hello".
 
-```
+```vb
   For i = 0 To ActiveSheet.Shapes.Count
       ActiveSheet.Shapes(i).TextEffect.Text = "Hello"
   Next i

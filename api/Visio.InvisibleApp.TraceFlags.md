@@ -47,7 +47,7 @@ Here is a string Visio might log when  **visTraceEvents** is set:
 
 
 
-```
+```vb
 -event: 0x8040 /doc=1 /page=1 /shape=Sheet.1
 ```
 
@@ -58,7 +58,7 @@ Setting the  **visTraceAdvises** flag writes a line to the Immediate window just
 
 
 
-```
+```vb
 >advise seq=4 event=0x8040 sink=0x40097598 
 <advise seq=4 
 
@@ -71,7 +71,7 @@ Setting the  **visTraceAddonInvokes** flag records when Visio invokes an EXE or 
 
 
 
-```
+```vb
 >invokeAO: SHOWARGS.EXE 
 <invokeAO: completed 
 
@@ -84,7 +84,7 @@ Setting the  **visTraceCallToVBA flag** writes a line to the Immediate window ju
 
 
 
-```
+```vb
 >invokeVBA: Module1.MyMacro 
 <invokeVBA: completed 
 

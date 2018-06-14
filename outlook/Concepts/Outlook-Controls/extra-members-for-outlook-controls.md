@@ -48,7 +48,7 @@ To access these members, you can directly reference the member, as in the follow
 
 
 
-```
+```vb
 TextBoxControl.ControlTipText = "Enter name of product here"
 ```
 

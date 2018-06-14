@@ -46,7 +46,7 @@ If more than one task or resource is selected, the  **Details** pane shows the f
 If the current view is a Calendar view where one task is selected, the following example first shows the  **Details** pane for that task, and then hides the **Details** pane and shows the **Timeline** pane.
 
 
-```
+```vb
 DetailsPaneToggleDetailsPaneToggle Timeline:=True
 ```
 

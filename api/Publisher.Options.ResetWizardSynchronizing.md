@@ -33,7 +33,7 @@ Unexpected formatting changes may be a result of Publisher's object synchronizat
 The following example resets the synchronization data that Publisher uses to give similar objects the same formatting.
 
 
-```
+```vb
 Options.ResetWizardSynchronizing
 ```
 

@@ -33,7 +33,7 @@ The  **Container** property provides access to the specified document's containe
 This example displays the name of the container application for the first shape in the active document. For the example to work, this shape must be an OLE object.
 
 
-```
+```vb
 Msgbox ActiveDocument.Shapes(1).OLEFormat.Object.Container.Name
 ```
 

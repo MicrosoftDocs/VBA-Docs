@@ -47,7 +47,7 @@ The following example cascades all the windows that are currently displayed in P
 
 
 
-```
+```vb
 With Application.Windows2  
     For I = 1 To .Count  
         .Item(I).Activate  
@@ -68,7 +68,7 @@ The following example creates a new window for the active project.
 
 
 
-```
+```vb
 Application.WindowNewWindow
 ```
 
@@ -90,7 +90,7 @@ The following example maximizes the first window in the window list.
 
 
 
-```
+```vb
 Application.Windows2(1).WindowState = pjMaximized
 ```
 
@@ -105,7 +105,7 @@ The following example hides the window that contains the caption "Project1".
 
 
 
-```
+```vb
 If Application.Windows2(1).Caption = "Project1" Then  
     Application.Windows2(1).Visible = False  
 End If

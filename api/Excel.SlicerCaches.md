@@ -26,7 +26,7 @@ Use the  **[Item](Excel.SlicerCaches.Item.md)** property of the **SlicerCaches**
 The following code example retrieves the  **SlicerCache** object that represents the slicer cache associated with the Country slicer.
 
 
-```
+```vb
 ActiveWorkbook.SlicerCaches("Slicer_Country")
 ```
 

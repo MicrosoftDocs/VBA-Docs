@@ -28,7 +28,7 @@ Updates the page numbers for items in the specified table of contents.
 This example inserts a page break at the insertion point and then updates the page numbers for the first table of contents in the active document.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 Selection.InsertBreak Type:=wdPageBreak 
 ActiveDocument.TablesOfContents(1).UpdatePageNumbers

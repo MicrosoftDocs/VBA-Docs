@@ -22,7 +22,7 @@ Use  **PayRates** (*Index* ), where*Index* is the pay rate index number or date 
 
 
 
-```
+```vb
 ActiveProject.Resources("Tamara").CostRateTables("C").PayRates(1).StandardRate
 ```
 
@@ -33,7 +33,7 @@ Use the  **[PayRates](Project.CostRateTable.PayRates.md)** property to return a 
 
 
 
-```
+```vb
 Dim CRT As CostRateTable
 DIM PR As PayRate
 Dim Rates As String
@@ -52,7 +52,7 @@ Use the  **[Add](Project.PayRates.Add.md)** method to add a **PayRate** object t
 
 
 
-```
+```vb
 ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "$40/h", "$60/h", "$0"
 ```
 

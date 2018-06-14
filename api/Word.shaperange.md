@@ -23,7 +23,7 @@ Use  **Range** (Index), where Index is the name or index number of the shape or 
 
 
 
-```
+```vb
 ActiveDocument.Shapes.Range(Array(1, 3)).Fill.Patterned _ 
  msoPatternHorizontalBrick
 ```
@@ -33,7 +33,7 @@ The following example selects the shapes named "Oval 4" and "Rectangle 5" on the
 
 
 
-```
+```vb
 ActiveDocument.Shapes.Range(Array("Oval 4", "Rectangle 5")).Select
 ```
 
@@ -44,7 +44,7 @@ Use  **ShapeRange** (Index), where Index is the name or the index number, to ret
 
 
 
-```
+```vb
 Selection.ShapeRange(1).Fill.ForeColor.RGB = RGB(255, 0, 0)
 ```
 
@@ -53,7 +53,7 @@ This example selects all the shapes in the first section of the active document.
 
 
 
-```
+```vb
 Set myRange = ActiveDocument.Sections(1).Range 
 myRange.ShapeRange.Select
 ```

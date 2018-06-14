@@ -39,7 +39,7 @@ Using the  **SendFaxOverInternet** method requires that the fax service be enabl
 
 The format used for specifying fax numbers in the Recipients parameter is either  _recipientsfaxnumber_ @ _usersfaxprovider_ or _recipientsname_ @ _recipientsfaxnumber_. You can access the user's fax provider information by using the following registry path:
 
-```text
+```vbtext
 HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\Common\Services\Fax
 ```
 

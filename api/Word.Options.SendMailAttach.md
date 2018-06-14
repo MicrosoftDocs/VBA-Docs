@@ -43,7 +43,7 @@ This example returns the state of the  **Mail as attachment** option on the **Ge
 
 
 
-```
+```vb
 Msgbox Options.SendMailAttach
 ```
 

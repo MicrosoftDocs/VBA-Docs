@@ -37,7 +37,7 @@ This example returns the BorderArt "Apples" from the active publication.
 
 
 
-```
+```vb
 Dim bdaTemp As BorderArt 
  
 Set bdaTemp = ActiveDocument.BorderArts.Item (Index:="Apples") 
@@ -50,7 +50,7 @@ Use the  **[Count](Publisher.BorderArts.Count.md)** property to return the numbe
 
 
 
-```
+```vb
 Sub CountBorderArts() 
  MsgBox ActiveDocument.BorderArts.Count 
 End Sub

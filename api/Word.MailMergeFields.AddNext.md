@@ -46,7 +46,7 @@ A NEXT field advances to the next record so that data from more than one record 
 This example adds a NEXT field after the third MERGEFIELD field in Main.doc.
 
 
-```
+```vb
 Documents("Main.doc").MailMerge.Fields(3).Select 
 Selection.Collapse Direction:=wdCollapseEnd 
 Documents("Main.doc").MailMerge.Fields.AddNext _ 

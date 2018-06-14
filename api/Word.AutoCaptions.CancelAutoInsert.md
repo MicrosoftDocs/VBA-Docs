@@ -28,7 +28,7 @@ Prevents Word from automatically adding captions to any type of item.
 This example prevents Word from automatically adding captions to any type of item.
 
 
-```
+```vb
 AutoCaptions.CancelAutoInsert
 ```
 

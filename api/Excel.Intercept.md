@@ -26,7 +26,7 @@ Setting this property sets the  **[InterceptIsAuto](Excel.InterceptIsAuto.md)** 
 This example sets trendline one to cross the value axis at 5. The example should be run on a 2-D column chart that contains a single series with a trendline.
 
 
-```
+```vb
 myChart.SeriesCollection(1).Trendlines(1).Intercept = 5
 ```
 

@@ -33,7 +33,7 @@ If you use the  **Preserve** keyword, you can resize only the last array dimensi
 
 
 
-```
+```vb
 ReDim X(10, 10, 10) 
 . . . 
 ReDim Preserve X(10, 10, 15) 
@@ -67,7 +67,7 @@ The next statement resizes the array and erases the elements.
 
 
 
-```
+```vb
 Redim MyArray(10) ' Resize to 10 elements. 
 For I = 1 To 10 ' Loop 10 times. 
  MyArray(I) = I ' Initialize array. 
@@ -80,7 +80,7 @@ The following statement resizes the array but does not erase elements.
 
 
 
-```
+```vb
 Redim Preserve MyArray(15) ' Resize to 15 elements. 
 
 ```

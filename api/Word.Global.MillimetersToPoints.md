@@ -50,7 +50,7 @@ This example expands the spacing of the selected characters to 2.8 points.
 
 
 
-```
+```vb
 Selection.Font.Spacing = MillimetersToPoints(1)
 ```
 

@@ -44,12 +44,12 @@ Invalidating a control repaints the screen and causes any callback procedures as
 ## Example
 
 
-```XML
+```vbXML
 <customUI … OnLoad="MyAddInInitialize" …>
 ```
 
 
-```
+```vb
 Sub MyAddInInitialize(Ribbon As IRibbonUI) 
  Set MyRibbon = Ribbon 
 End Sub 

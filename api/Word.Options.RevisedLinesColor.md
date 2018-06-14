@@ -28,7 +28,7 @@ Returns or sets the color of changed lines in a document with tracked changes. R
 This example sets the color of changed lines to pink.
 
 
-```
+```vb
 Options.RevisedLinesColor = wdPink
 ```
 
@@ -37,7 +37,7 @@ This example returns the current status of the  **Color** option under **Changed
 
 
 
-```
+```vb
 temp = Options.RevisedLinesColor
 ```
 

@@ -25,7 +25,7 @@ The following example
 
 
 
-```
+```vb
 m_sConnStr = "Provider='SQLOLEDB';Data Source='MySqlServer';" &; _ 
  "Initial Catalog='Northwind';Integrated Security='SSPI';"
 ```
@@ -35,7 +35,7 @@ To open the connection, simply pass the connection string as the first argument 
 
 
 
-```
+```vb
 objConn.Open m_sConnStr
 ```
 

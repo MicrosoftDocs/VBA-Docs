@@ -28,7 +28,7 @@ Returns or sets the alignment and reading order for the entire document. Read/wr
 This example sets the alignment to right and the reading order to right-to-left for the entire document.
 
 
-```
+```vb
 Options.DocumentViewDirection = wdDocumentViewRtl
 ```
 

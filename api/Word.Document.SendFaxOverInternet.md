@@ -42,7 +42,7 @@ The format used for specifying fax numbers in the Recipients parameter is either
 
 
 
-```text
+```vbtext
 HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\Common\Services\Fax
 ```
 

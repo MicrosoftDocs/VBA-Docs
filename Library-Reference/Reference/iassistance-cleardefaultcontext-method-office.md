@@ -43,7 +43,7 @@ The  **Assistance** property returns an **IAssistance** object. The **IAssistanc
 In the following example, the default help topic is cleared and will no longer displayed.
 
 
-```
+```vb
 Sub ClearDefaultHelpTopic() 
  Application.Assistance.ClearDefaultContext "22261" 
 End Sub

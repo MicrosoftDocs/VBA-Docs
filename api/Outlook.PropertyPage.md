@@ -27,7 +27,7 @@ A custom property page is an ActiveX control that is displayed by Outlook in the
 
 
 
-```
+```vb
 Implements Outlook.PropertyPage
 ```
 
@@ -36,7 +36,7 @@ The module must also contain procedures that implement the properties and method
 
 
 
-```
+```vb
 Private Property Get PropertyPage_Dirty() As Boolean 
  
  PropertyPage_Dirty = gblDirty 
@@ -49,7 +49,7 @@ To implement a method of the  **PropertyPage** object, the module must contain a
 
 
 
-```
+```vb
 Private Sub PropertyPage_Apply() 
  
  ' Code to set properties according to the user's 

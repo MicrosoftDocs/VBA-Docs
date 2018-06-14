@@ -121,7 +121,7 @@ Following is the output for a wait time of 500 milliseconds between status messa
 
 
 
-```
+```vb
 Save job state: 4
 Save completed ...
 Publish job state: -1

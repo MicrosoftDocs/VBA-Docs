@@ -31,7 +31,7 @@ Use the  **WebNavigationBarSets** property of the current document to return a *
 
  
 
-```
+```vb
 Dim objWebNavBarSets As WebNavigationBarSets 
 Set objWebNavBarSets = ActiveDocument.WebNavigationBarSets
 ```
@@ -43,7 +43,7 @@ Use  **WebNavigationBarSets** **.Item** (index), where index is the index number
 
 
 
-```
+```vb
 Dim objWebNavBarSet As WebNavigationBarSet 
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets.Item(1)
 ```
@@ -55,7 +55,7 @@ The previous example can also be accomplished using  **WebNavigationBarSets** (i
 
 
 
-```
+```vb
 Dim objWebNavBarSet As WebNavigationBarSet 
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets(1)
 ```
@@ -67,7 +67,7 @@ The previous example can also be accomplished using  **WebNavigationBarSets** (i
 
 
 
-```
+```vb
 Dim objWebNavBarSet As WebNavigationBarSet 
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets("WebNavBarSet1")
 ```
@@ -79,7 +79,7 @@ Use  **WebNavigationBarSets** **.Count** to return the number of Web navigation 
 
 
 
-```
+```vb
 MsgBox ActiveDocument.WebNavigationBarSets.Count 
 
 ```
@@ -91,7 +91,7 @@ Use  **WebNavigationBarSets** **.AddToEveryPage** (Left, Top, [Width]), where Le
 
 
 
-```
+```vb
 ActiveDocument.WebNavigationBarSets.Item _ 
  ("WebNavBarSet1").AddToEveryPage _ 
  Left:=50, Top:=25

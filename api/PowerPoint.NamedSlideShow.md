@@ -36,7 +36,7 @@ Use the [SlideIDs](PowerPoint.NamedSlideShow.SlideIDs.md)property to return an a
 
 
 
-```
+```vb
 idArray = ActivePresentation.SlideShowSettings _
     .NamedSlideShows("Quick Show").SlideIDs
 

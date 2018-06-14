@@ -28,7 +28,7 @@ Returns a  **[System](Word.System.md)** object, which can be used to return syst
 This example returns information about the system.
 
 
-```
+```vb
 processor = System.ProcessorType 
 enviro = System.OperatingSystem
 ```
@@ -38,7 +38,7 @@ This example establishes a connection to a network drive.
 
 
 
-```
+```vb
 System.Connect Path:="\\Project\Info"
 ```
 

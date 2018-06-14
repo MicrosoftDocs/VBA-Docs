@@ -39,7 +39,7 @@ This property will not return the value for a LISTNUM field.
 This example displays both the numeric value of the first paragraph in the selection and the string representation of that value.
 
 
-```
+```vb
 v = Selection.Range.ListFormat.ListValue 
 lstring = Selection.Range.ListFormat.ListString 
 MsgBox "List value " &; v _ 

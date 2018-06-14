@@ -26,7 +26,7 @@ Represents the data label on a chart point or trendline.
 Use  **[DataLabels](Excel.Series.DataLabels.md)** ( _index_ ), where _index_ is the data-label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in embedded chart one on worksheet one.
 
 
-```
+```vb
 Worksheets(1).ChartObjects(1).Chart _ 
  .SeriesCollection(1).DataLabels(5).NumberFormat = "0.000"
 ```
@@ -36,7 +36,7 @@ Use the  **[DataLabel](Excel.Point.DataLabel.md)** property to return the **Data
 
 
 
-```
+```vb
 With Charts("chart1") 
  With .SeriesCollection(1).Points(2) 
  .HasDataLabel = True 
@@ -50,7 +50,7 @@ On a trendline, the  **[DataLabel](Excel.Trendline.DataLabel.md)** property retu
 
 
 
-```
+```vb
 With Charts("chart1").SeriesCollection(1).Trendlines(1) 
  .DisplayRSquared = False 
  .DisplayEquation = True 

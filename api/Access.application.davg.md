@@ -49,7 +49,7 @@ You can use the  **DAvg** function to specify criteria in the Criteria row of a 
 
 
 
-```
+```vb
 >DAvg("[Quantity]", "Orders")
 ```
 
@@ -63,7 +63,7 @@ Use the  **DAvg** function in a calculated control when you need to specify crit
 
 
 
-```
+```vb
 =DAvg("[Freight]", "Orders", "[ShipRegion] = 'CA'")
 ```
 
@@ -107,7 +107,7 @@ The following examples show how to use various types of criteria with the  **DAv
 
 
 
-```js
+```vbjs
     ' ***************************
     ' Typical Use
     ' Numerical values. Replace "number" with the number to use.

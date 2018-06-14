@@ -45,7 +45,7 @@ This example toggles outline formatting for the selected text.
 
 
 
-```
+```vb
 Selection.Font.Outline = wdToggle
 ```
 

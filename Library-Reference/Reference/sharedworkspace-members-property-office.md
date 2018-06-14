@@ -31,7 +31,7 @@ Gets a  **[SharedWorkspaceMembers](sharedworkspacemembers-object-office.md)** co
 The following example lists the members in the current shared workspace.
 
 
-```
+```vb
 Dim swsMembers As Office.SharedWorkspaceMembers 
     Set swsMembers = ActiveWorkbook.SharedWorkspace.Members 
     MsgBox "There are " &amp; swsMembers.Count &amp; _ 

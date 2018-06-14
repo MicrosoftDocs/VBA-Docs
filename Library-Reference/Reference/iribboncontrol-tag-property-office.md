@@ -45,7 +45,7 @@ Normally you can distinguish between controls in a Ribbon user interface XML cus
 In the XML used to customize the Ribbon user interface, you can set a tag as follows. When the MyFunction action is called, you can read the  **Tag** property, which will be equal to "some string".
 
 
-```XML
+```vbXML
 <button id="mybutton" tag="some string" onAction="MyFunction"/>
 ```
 

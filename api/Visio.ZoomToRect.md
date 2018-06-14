@@ -48,7 +48,7 @@ The  **ZoomToRect** method, in effect, crops a rectangular section of the drawin
 The following code zooms to display a rectangular section of the drawing that is open in Visio Viewer. The upper left corner of the displayed section corresponds to the upper left corner of the Visio Viewer window as originally displayed. The lower right corner corresponds to a point 300 pixels down and 300 pixels to the right of the upper left corner in that original display.
 
 
-```
+```vb
 vsoViewer.ZoomToRect 0, 0, 300, 300
 ```
 

@@ -28,7 +28,7 @@ Each element of an [array](vbe-glossary.md) must have its value assigned individ
     
 
 
-  ```
+  ```vb
   Arr1 = Arr2    ' Invalid assignment. 
 Arr1() = Arr2()    ' Invalid assignment. 
 
@@ -51,7 +51,7 @@ MyVar = Arr2()
     
 
 
-  ```
+  ```vb
   MyVar(3) = MyVar(1) + MyVar(5) 
   ```
 

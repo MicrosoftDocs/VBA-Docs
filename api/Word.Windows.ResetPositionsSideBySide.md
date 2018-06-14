@@ -33,7 +33,7 @@ This method corresponds to the  **Reset Window Position** button on the **Compar
 The following example places two documents that were previously placed in side-by-side windows in adjacent windows.
 
 
-```
+```vb
 Windows.ResetPositionsSideBySide
 ```
 

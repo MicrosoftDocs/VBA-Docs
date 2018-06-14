@@ -33,7 +33,7 @@ If this property is changed to a value that isn't valid for the specified mailin
 This example displays the number of labels across and down the page for the first custom label in the CustomLabels collection.
 
 
-```
+```vb
 numAcr = Application.MailingLabel.CustomLabels(1).NumberAcross 
 numDwn = Application.MailingLabel.CustomLabels(1).NumberDown 
 MsgBox Prompt:= "Number of labels across " &; numAcr &; vbCr _ 

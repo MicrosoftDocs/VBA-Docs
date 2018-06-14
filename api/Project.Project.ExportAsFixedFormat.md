@@ -53,7 +53,7 @@ The  **ExportAsFixedFormat** method is similar to the **[DocumentExport](Project
 If the active project shows a Network Diagram view, the following example creates an XPS document named TestProject.xps. When you open the file in the  **XPS Viewer** application, the last page includes document properties and a legend that shows the PERT chart symbols.
 
 
-```
+```vb
 ExportAsFixedFormat FileName:="TestProject.xps", FileType:=pjXPS
 ```
 

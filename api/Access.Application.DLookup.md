@@ -65,7 +65,7 @@ You can also use the  **DLookup** function in an expression in a calculated cont
 
 
 
-```
+```vb
 =DLookup("[ProductName]", "Products", "[ProductID] =" _ 
      &; Forms![Order Details]!ProductID)
 ```
@@ -131,7 +131,7 @@ The following examples show how to use various types of criteria with the  **DLo
 
 
 
-```js
+```vbjs
     ' ***************************
     ' Typical Use
     ' Numerical values. Replace "number" with the number to use.

@@ -33,7 +33,7 @@ If the currently displayed slide is from an embedded presentation, you can use t
 This example places on the Clipboard a copy of the slide that's currently displayed in slide show window one.
 
 
-```
+```vb
 SlideShowWindows(1).View.Slide.Copy
 ```
 

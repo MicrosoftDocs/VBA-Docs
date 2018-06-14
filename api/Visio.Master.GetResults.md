@@ -50,7 +50,7 @@ For a  **Master** object, you can use the **GetResults** method to get results o
 
 
 
-```
+```vb
 {sheetID, sectionIdx, rowIdx, cellIdx }n
 ```
 

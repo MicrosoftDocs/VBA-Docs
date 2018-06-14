@@ -37,7 +37,7 @@ This example returns the letters found in the  **Initials** box on the **User In
 
 
 
-```
+```vb
 Msgbox Application.UserInitials
 ```
 

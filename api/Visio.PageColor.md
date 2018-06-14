@@ -39,7 +39,7 @@ The default value of the  **PageColor** property is white (16777215).
 The following example sets the page color to red.
 
 
-```
+```vb
 vsoViewer.PageColor = 225
 ```
 

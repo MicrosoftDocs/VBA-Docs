@@ -34,7 +34,7 @@ The following example adds a new  **PhoneticGuide** object to the active publica
 
 
 
-```
+```vb
 Selection.TextRange.Fields.AddPhoneticGuide _ 
  Range:=Selection.TextRange, Text:="ver-E nIs", _ 
  Alignment:=pbPhoneticGuideAlignmentCenter, _ 

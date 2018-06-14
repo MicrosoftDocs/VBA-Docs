@@ -41,7 +41,7 @@ Object
 The following example retrieves an  **ODSOColumn** object from the **ODSOColumns** collection.
 
 
-```
+```vb
 oOdsoColumn = oOdsoColumns.Item(2)
 ```
 

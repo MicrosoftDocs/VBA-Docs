@@ -47,7 +47,7 @@ String
 The following sample returns the String "Paste".
 
 
-```
+```vb
 Application.CommandBars.GetLabelMso("Paste")
 ```
 

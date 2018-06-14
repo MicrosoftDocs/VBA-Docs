@@ -66,7 +66,7 @@ This example displays the  **Customize** dialog box.
 
 
 
-```
+```vb
 Dialogs(wdDialogToolsCustomize).Display
 ```
 

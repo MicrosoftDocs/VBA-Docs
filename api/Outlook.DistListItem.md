@@ -30,7 +30,7 @@ Use  **[Items](Outlook.Folder.Items.md)** ( _index_ ), where _index_ is the inde
 The following Microsoft Visual Basic for Applications (VBA) example creates and displays a new distribution list.
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olDistributionListItem) 
  
 myItem.Display
@@ -41,7 +41,7 @@ The following Visual Basic for Applications example sets the current folder as t
 
 
 
-```
+```vb
 Set myNamespace = Application.GetNamespace("MAPI") 
  
 Set myFolder = myNamespace.GetDefaultFolder(olFolderContacts) 

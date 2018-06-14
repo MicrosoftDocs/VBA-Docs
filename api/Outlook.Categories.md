@@ -30,7 +30,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/f776c2a2-1b32-f4eb-de5e-6e245
 The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **Categories** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
-```
+```vb
 Private Sub ListCategoryIDs() 
  Dim objNameSpace As NameSpace 
  Dim objCategory As Category 

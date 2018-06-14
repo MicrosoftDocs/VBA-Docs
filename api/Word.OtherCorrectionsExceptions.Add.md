@@ -46,7 +46,7 @@ If the  **OtherCorrectionsAutoAdd** property is **True** , words are automatical
 This example adds myCompany to the list of other corrections exceptions.
 
 
-```
+```vb
 AutoCorrect.OtherCorrectionsExceptions.Add Name:="myCompany"
 ```
 

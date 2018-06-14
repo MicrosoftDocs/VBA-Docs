@@ -16,7 +16,7 @@ This topic describes the support for filtering on a string property using Micros
 When matching string properties, you can use either a pair of single quotes ('), or a pair of double quotes ("), to delimit a string that is part of the filter. For example, all of the following lines function correctly when the property is of type  **String**:
 
 
-```
+```vb
 sFilter = "[CompanyName] = 'Microsoft'"
 
 sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
@@ -30,7 +30,7 @@ For example, in the DASL filter string that filters for the  **Subject** propert
 
 
 
-```
+```vb
 filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'can''t'"
 ```
 
@@ -39,7 +39,7 @@ Alternatively, you can use the  `chr(34)` function to represent the double quote
 
 
 
-```
+```vb
 filter = "@SQL= " &; Chr(34) &; "http://schemas.microsoft.com/mapi/proptag/0x0037001f" _
     &; Chr(34) &; " = " &; "'can''t'"
 ```
@@ -49,7 +49,7 @@ Escaping single and double quote characters is also required for DASL queries wi
 
 
 
-```
+```vb
 filter = "@SQL=" &; Chr(34) &; "http://schemas.microsoft.com/mapi/proptag/0x0037001E" _
     &; Chr(34) &; " ci_phrasematch " &; "'can''t'"
 ```
@@ -59,7 +59,7 @@ Another example is a DASL filter string that filters for the  **Subject** proper
 
 
 
-```
+```vb
 filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'the right ""stuff""'"
 ```
 
@@ -78,7 +78,7 @@ For example, you would use the following filter to search for a custom property 
 
 
 
-```
+```vb
 filter = "@SQL=" &; Chr(34) &; _
     "http://schemas.microsoft.com/mapi/string/{00020329-0000-0000-C000-000000000046}/" _
     &; "Mom%27s%20%22Gift%22" &; Chr(34) &; " like '%pearls%'"
@@ -95,7 +95,7 @@ The string comparison that Jet filters support is limited to an equivalence matc
 The string comparison that DASL filters support includes equivalence, prefix, phrase, and substring matching. Note that when you filter on the  **Subject** property, prefixes such as "RE: " and "FW: " are ignored. For example,
 
 
-```
+```vb
 sFilter = "[Subject] = 'cat'"
 ```
 
@@ -111,7 +111,7 @@ As an example, the following DASL query creates a filter for company name equals
 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr(34) _
 &; "urn:schemas-microsoft-com:office:office#Company" &; Chr(34) _
 &; " = 'Microsoft'"
@@ -135,7 +135,7 @@ The following = restriction:
 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr(34) _ 
 &; "urn:schemas:httpmail:subject" &; Chr(34) _ 
 &; " = 'question'"
@@ -161,7 +161,7 @@ A DASL query can contain  **ci_startswith** or **ci_phrasematch**, and  **like**
 The syntax of  **ci_startswith** is as follows:
 
 
-```
+```vb
 <PropertySchemaName> ci_startswith <ComparisonString> 
 
 ```
@@ -207,7 +207,7 @@ The following  **ci_startswith** restriction:
 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr(34) _ 
 &; "urn:schemas:httpmail:subject" &; Chr(34) _ 
 &; " ci_startswith 'question'" 
@@ -230,7 +230,7 @@ will return the following results:
 The syntax of  **ci_phrasematch** is as follows:
 
 
-```
+```vb
 <PropertySchemaName> ci_phrasematch <ComparisonString> 
 
 ```
@@ -268,7 +268,7 @@ The following  **ci_phrasematch** restriction:
 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr(34) _ 
 &; "urn:schemas:httpmail:subject" &; Chr(34) _ 
 &; " ci_phrasematch 'question'" 
@@ -290,14 +290,14 @@ will return the following results:
 
 
 - 
-```
+```vb
   like '<token>%'
 ```
 
 
     provides prefix matching. For example, restricting for
     
-```
+```vb
   like 'cat%'
 ```
 
@@ -305,14 +305,14 @@ will return the following results:
     would match "cat" and "catalog".
     
 - 
-```
+```vb
   like '%<token>%'
 ```
 
 
     provides substring matching. For example, restricting for
     
-```
+```vb
   like '%cat%'
 ```
 
@@ -320,14 +320,14 @@ will return the following results:
     would match "cat", "catalog", "kittycat", "decathalon".
     
 - 
-```
+```vb
   like '<token>'
 ```
 
 
     provides equivalence matching. For example, restricting for
     
-```
+```vb
   like 'cat'
 ```
 
@@ -354,7 +354,7 @@ The following like restriction :
 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr(34) _ 
 &; "urn:schemas:httpmail:subject" &; Chr(34) _ 
 &; " like '%question%'" 

@@ -33,7 +33,7 @@ You can also use the  **NextRange** property of the **Editor** object to return 
 The following example goes to the next range for which the current user has permission to modify.
 
 
-```
+```vb
 Selection.GoToEditableRange wdEditorCurrent
 ```
 

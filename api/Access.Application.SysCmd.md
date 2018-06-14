@@ -63,7 +63,7 @@ You can't set the status bar text to a zero-length string (" "). If you want to 
 
 
 
-```
+```vb
 varReturn = SysCmd(acSysCmdInitMeter, " ", 100) 
 varReturn = SysCmd(acSysCmdSetStatus, " ")
 ```

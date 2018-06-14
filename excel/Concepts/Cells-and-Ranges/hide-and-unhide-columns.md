@@ -14,7 +14,7 @@ This example finds all the cells in the first four columns that have a constant 
 
 
 
-```
+```vb
 Sub Hide_Columns()
 
     'Excel objects.
@@ -52,7 +52,7 @@ This example finds all the cells in the first four columns that have a constant 
 
 
 
-```
+```vb
 Sub Unhide_Columns()
     'Excel objects.
     Dim m_wbBook As Workbook

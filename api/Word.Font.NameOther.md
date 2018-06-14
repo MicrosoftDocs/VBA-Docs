@@ -33,7 +33,7 @@ In the U.S. English version of Microsoft Word, the default value of this propert
 This example sets the font used for characters with character codes from 128 through 255.
 
 
-```
+```vb
 Selection.Font.NameOther = "Century"
 ```
 

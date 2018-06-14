@@ -47,7 +47,7 @@ You can use the single-line form (first syntax) for short, simple tests. However
 
 
 
-```
+```vb
 If A > 10 Then A = A + 1 : B = B + A : C = C + B 
 
 ```

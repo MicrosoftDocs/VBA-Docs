@@ -27,7 +27,7 @@ The string delimiters are not actually part of the variable itself, but they mus
 
 
 
-```
+```vb
 "[LastName] = 'Smith'"
 ```
 
@@ -35,7 +35,7 @@ The string delimiters are not actually part of the variable itself, but they mus
 
 
 
-```
+```vb
 "[LastName] = ""Smith"""
 ```
 
@@ -45,7 +45,7 @@ The string delimiters are not actually part of the variable itself, but they mus
 You should include single quotation marks in the  _criteria_ argument in such a way that when the value of the variable is concatenated into the string, it will be enclosed within the single quotation marks. For instance, suppose your _criteria_ argument must contain a string variable called . You could construct the _criteria_ argument as in the following example:
 
 
-```
+```vb
 "[LastName] = '" &; strName &; "'"
 ```
 
@@ -54,7 +54,7 @@ When the variable  `strName` is evaluated and concatenated into the _criteria_ s
 
 
 
-```
+```vb
 "[LastName] = 'Smith'"
 ```
 
@@ -67,7 +67,7 @@ When the variable  `strName` is evaluated and concatenated into the _criteria_ s
 You should include double quotation marks within the  _criteria_ argument in such a way so that when the value of the variable is evaluated, it will be enclosed within the quotation marks. Within a string, you must use two sets of double quotation marks to represent a single set of double quotation marks. You could construct the _criteria_ argument as in the following example:
 
 
-```
+```vb
 "[LastName] = """ &; strName &; """"
 ```
 
@@ -76,7 +76,7 @@ When the variable  `strName` is evaluated and concatenated into the _criteria_ a
 
 
 
-```
+```vb
 "[LastName] = 'Smith'"
 ```
 
@@ -88,7 +88,7 @@ This syntax may appear more complicated than the single quotation mark syntax, b
 You can create a string variable that represents double quotation marks, and concatenate this variable into the  _criteria_ argument along with the value of the variable. The ANSI representation for double quotation marks is `Chr$(34)`; you could assign this value to a string variable called  `strQuote`. You could then construct the  _criteria_ argument as in the following example:
 
 
-```
+```vb
 "[LastName] = " &; strQuote &; strName &; strQuote
 ```
 
@@ -97,7 +97,7 @@ When the variables are evaluated and concatenated into the  _criteria_ argument,
 
 
 
-```
+```vb
 [LastName] = "Smith"
 ```
 

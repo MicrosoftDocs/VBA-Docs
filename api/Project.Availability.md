@@ -22,7 +22,7 @@ Use  **Availabilities(***Index* **)**, where*Index* is the availability index nu
 
 
 
-```
+```vb
 MsgBox ActiveProject.Resources("Tom").Name &amp; " is available from " &amp; _ 
     ActiveProject.Resources("Tom").Availabilities(1).AvailableFrom &amp; " to " &amp; _ 
     ActiveProject.Resources("Tom").Availabilities(1).AvailableTo &amp; "." 
@@ -34,7 +34,7 @@ Use the  **[Availabilities](Project.Resource.Availabilities.md)** property to re
 
 
 
-```
+```vb
 Dim Avail As Availability 
  
 For Each Avail In ActiveProject.Resources("Tom").Availabilities 
@@ -48,7 +48,7 @@ Use the  **[Add](Project.Availabilities.Add.md)** method to add an **Availabilit
 
 
 
-```
+```vb
 ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 ```
 

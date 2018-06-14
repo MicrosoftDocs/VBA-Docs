@@ -28,7 +28,7 @@ Demotes the specified paragraph or paragraphs to body text by applying the Norma
 This example demotes the selected paragraphs to body text by applying the Normal style.
 
 
-```
+```vb
 Selection.Paragraphs.OutlineDemoteToBody
 ```
 

@@ -21,7 +21,7 @@ Represents the current selection in a window or pane. A selection represents eit
 Use the  **Selection** property to return the **Selection** object. If no object qualifier is used with the **Selection** property, Microsoft Word returns the selection from the active pane of the active document window. The following example copies the current selection from the active document.
 
 
-```
+```vb
 Selection.Copy
 ```
 
@@ -30,7 +30,7 @@ The following example deletes the selection from the third document in the  **Do
 
 
 
-```
+```vb
 Documents(3).ActiveWindow.Selection.Cut
 ```
 
@@ -39,7 +39,7 @@ The following example copies the selection from the first pane of the active doc
 
 
 
-```
+```vb
 ActiveDocument.ActiveWindow.Panes(1).Selection.Copy 
 ActiveDocument.ActiveWindow.Panes(2).Selection.Paste
 ```
@@ -49,7 +49,7 @@ The  **Text** property is the default property of the **Selection** object. Use 
 
 
 
-```
+```vb
 Dim strTemp as String 
  
 strTemp = Selection.Text 
@@ -62,7 +62,7 @@ The  **Selection** object has various methods and properties with which you can 
 
 
 
-```
+```vb
 Selection.EndOf Unit:=wdStory, Extend:=wdMove 
 Selection.HomeKey Unit:=wdLine, Extend:=wdExtend 
 Selection.MoveUp Unit:=wdLine, Count:=2, Extend:=wdExtend
@@ -73,7 +73,7 @@ The  **Selection** object has various methods and properties with which you can 
 
 
 
-```
+```vb
 Options.ReplaceSelection = True 
 ActiveDocument.Sentences(1).Select 
 Selection.TypeText "Material below is confidential." 
@@ -85,7 +85,7 @@ The following example deletes the last paragraph of the first document in the  *
 
 
 
-```
+```vb
 With Documents(1) 
  .Paragraphs.Last.Range.Select 
  .ActiveWindow.Selection.Cut 
@@ -102,7 +102,7 @@ The  **Selection** object has various methods and properties with which you can 
 
 
 
-```
+```vb
 If Selection.Font.Name = "Times New Roman" Then _ 
  Selection.Font.Name = "Tahoma"
 ```
@@ -112,7 +112,7 @@ Use properties like  **Flags**, **Information**, and **Type** to return informat
 
 
 
-```
+```vb
 If Selection.Type = wdSelectionIP Then 
  MsgBox Prompt:="You have not selected any text! Exiting procedure..." 
  Exit Sub 
@@ -126,7 +126,7 @@ It is possible for the user to select a region in a document that does not repre
 
 
 
-```
+```vb
 If Selection.Type <> wdSelectionNormal Then 
  MsgBox Prompt:="Not a valid selection! Exiting procedure..." 
  Exit Sub 

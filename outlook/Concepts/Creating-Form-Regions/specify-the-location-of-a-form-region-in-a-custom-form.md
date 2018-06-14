@@ -30,7 +30,7 @@ For example, to add a form region to the bottom of the default page of the stand
 
 
 
-```
+```vb
 <formRegionType>adjoining</formRegionType>
 ```
 
@@ -53,7 +53,7 @@ For example, if you want to order three form regions, A, B, and C, that have the
 
 
 
-```
+```vb
 <formRegionType>adjoining</formRegionType>
 ```
 
@@ -62,7 +62,7 @@ You will specify the following in B's form region manifest XML file:
 
 
 
-```
+```vb
 <formRegionType>adjoining</formRegionType> 
 <displayAfter>FormRegionA</displayAfter>
 ```
@@ -72,7 +72,7 @@ You will specify the following in C's form region manifest XML file:
 
 
 
-```
+```vb
 <formRegionType>adjoining</formRegionType> 
 <displayAfter>FormRegionB</displayAfter>
 ```
@@ -97,7 +97,7 @@ For example, you have created a form region that has the internal name CustomPag
 
 
 
-```
+```vb
 <formRegionType>replace</formRegionType>
 ```
 
@@ -120,7 +120,7 @@ For example, you have created a form region that has the internal name CustomMes
 
 
 
-```
+```vb
 <formRegionType>replaceall</formRegionType>
 ```
 
@@ -144,7 +144,7 @@ For example, to add a form region as a separate page to the standard Contact for
 
 
 
-```
+```vb
 <formRegionType>separate</formRegionType>
 ```
 
@@ -169,7 +169,7 @@ For example, if you want to order three separate form regions, A, B, and C, that
 
 
 
-```
+```vb
 <formRegionType>separate</formRegionType>
 ```
 
@@ -178,7 +178,7 @@ You will specify the following in B's form region manifest XML file:
 
 
 
-```
+```vb
 <formRegionType>separate</formRegionType>
 <displayAfter>FormRegionA</displayAfter>
 ```
@@ -188,7 +188,7 @@ You will specify the following in C's form region manifest XML file:
 
 
 
-```
+```vb
 <formRegionType>separate</formRegionType>
 <displayAfter>FormRegionB</displayAfter>
 ```

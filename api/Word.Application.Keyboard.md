@@ -48,7 +48,7 @@ lng
 ```
 
 
-```
+```vb
 Keyboard = Application.Keyboard
 ```
 

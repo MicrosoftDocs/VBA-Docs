@@ -28,7 +28,7 @@ The  **Let** statement is optional and is usually omitted. For example, the prec
 
 
 
-```
+```vb
 Let yourName = InputBox("What is your name?"). 
 
 ```

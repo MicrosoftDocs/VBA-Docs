@@ -41,7 +41,7 @@ You can determine a  **Master** object's unique ID by using the following code:
 
 
 
-```
+```vb
 strID = vsoMaster.UniqueID
 ```
 
@@ -50,7 +50,7 @@ The value it returns is a string in the following form:
 
 
 
-```
+```vb
 {2287DC42-B167-11CE-88E9-0020AFDDD917}
 ```
 

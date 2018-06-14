@@ -33,7 +33,7 @@ For information about returning a single member of a collection, see [Returning 
 This example returns the number of characters in the first sentence in the active document (spaces are included in the count).
 
 
-```
+```vb
 numchars = ActiveDocument.Characters.Count
 ```
 

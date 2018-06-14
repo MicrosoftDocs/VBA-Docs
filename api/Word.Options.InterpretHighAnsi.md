@@ -28,7 +28,7 @@ Returns or sets the high-ANSI text interpretation behavior. Read/write  **WdHigh
 This example sets Word to interpret all high-ANSI text as East Asian characters.
 
 
-```
+```vb
 Options.InterpretHighAnsi = wdHighAnsiIsFarEast
 ```
 

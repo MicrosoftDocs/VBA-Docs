@@ -44,7 +44,7 @@ The values of DeltaX and DeltaY can be positive or negative.
 The following code moves the page 100 pixels to the right (horizontally) and 200 pixels down (vertically).
 
 
-```
+```vb
 vsoViewer.Pan 100, 200
 ```
 

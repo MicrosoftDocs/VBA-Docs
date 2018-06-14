@@ -28,7 +28,7 @@ Use the  **[ListRows](Excel.ListObject.ListRows.md)** property of the **[ListObj
  The following example adds a new **ListRow** object to the default **ListObject** object in the first worksheet of the active workbook. Because no position is specified, a new row is added to the end of the table.
 
 
-```
+```vb
 Dim wrksht As Worksheet 
 Dim oListRow As ListRow 
  

@@ -50,7 +50,7 @@ This example assigns the first story in the active publication to an object vari
 
 
 
-```
+```vb
 Dim stFirst As Story 
  
 stFirst = Application.ActiveDocument.Stories(1)

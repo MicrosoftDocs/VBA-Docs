@@ -43,7 +43,7 @@ This example activates the first pane in the window for Document2.
 
 
 
-```
+```vb
 Windows("Document2").Panes(1).Activate
 ```
 

@@ -47,7 +47,7 @@ The following code activates the qualified tab "test:MyTab". It assumes that you
 - <tab idQ="test:MyTab" >
     
 
-```
+```vb
 Public myRibbon As IRibbonUI 
  
 Sub OnLoad(ByVal control As IRibbonControl) 

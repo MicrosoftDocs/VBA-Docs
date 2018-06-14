@@ -25,7 +25,7 @@ Use  **Windows** (Index), where Index is the window name or the index number, to
 
 
 
-```
+```vb
 Windows("Document1").WindowState = wdWindowStateMaximize
 ```
 
@@ -34,7 +34,7 @@ The index number is the number to the left of the window name on the  **Window**
 
 
 
-```
+```vb
 MsgBox Windows(1).Caption
 ```
 
@@ -43,7 +43,7 @@ Use the  **Add** method or the **NewWindow** method to add a new window to the *
 
 
 
-```
+```vb
 ActiveDocument.ActiveWindow.NewWindow 
 NewWindow 
 Windows.Add

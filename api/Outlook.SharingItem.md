@@ -28,7 +28,7 @@ Use  **[Item](Outlook.Folders.Item.md)** ( _index_ ), where _index_ is the index
 The following Visual Basic for Applications (VBA) example creates and displays a new sharing invitation for the Tasks folder.
 
 
-```
+```vb
 Public Sub CreateTasksSharingItem() 
  
  

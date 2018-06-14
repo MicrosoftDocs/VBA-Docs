@@ -28,7 +28,7 @@ Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that contains the curr
 This example adds an AutoCorrect replacement entry. After this code runs, every instance of "sr" that's typed in a document will automatically be replaced with "Stella Richards."
 
 
-```
+```vb
 AutoCorrect.Entries.Add Name:= "sr", Value:= "Stella Richards"
 ```
 

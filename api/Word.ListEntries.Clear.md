@@ -28,7 +28,7 @@ Removes all items from a drop-down form field.
 This example removes all items from the form field named "Colors" in Sales.doc.
 
 
-```
+```vb
 Documents("Sales.doc").FormFields("Colors") _ 
  .DropDown.ListEntries.Clear
 ```

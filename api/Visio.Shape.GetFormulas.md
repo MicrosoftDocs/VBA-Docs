@@ -48,7 +48,7 @@ For  **Shape** objects, you can use the **GetFormulas** method to get formulas o
 
 
 
-```
+```vb
 {sectionIdx, rowIdx, cellIdx}n
 ```
 

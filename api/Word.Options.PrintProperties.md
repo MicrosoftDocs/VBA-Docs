@@ -43,7 +43,7 @@ This example returns the current status of the  **Document properties** option o
 
 
 
-```
+```vb
 temp = Options.PrintProperties
 ```
 

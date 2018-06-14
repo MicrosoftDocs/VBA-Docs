@@ -43,7 +43,7 @@ Formatting rules are checked and applied against each Outlook item, in the order
 The following Visual Basic for Applications (VBA) example enumerates the  **[AutoFormatRules](Outlook.TableView.AutoFormatRules.md)** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
 
 
-```
+```vb
 Private Sub DisableCustomAutoFormatRules() 
  
  Dim objTableView As TableView 

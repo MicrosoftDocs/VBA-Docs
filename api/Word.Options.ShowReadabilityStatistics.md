@@ -38,7 +38,7 @@ This example returns the current status of the Show readability statistics optio
 
 
 
-```
+```vb
 temp = Options.ShowReadabilityStatistics
 ```
 

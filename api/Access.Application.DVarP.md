@@ -78,7 +78,7 @@ The following examples show how to use various types of criteria with the  **DVa
 
 
 
-```js
+```vbjs
     ' ***************************
     ' Typical Use
     ' Numerical values. Replace "number" with the number to use.

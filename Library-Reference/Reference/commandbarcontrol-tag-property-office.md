@@ -36,7 +36,7 @@ String
 To avoid duplicate calls of the same class when tiggered with events, define the  **Tag** property unique to the events. The following example demonstrates this concept with two modules.
 
 
-```
+```vb
 Public WithEvents oBtn As CommandBarButton 
  
 Private Sub oBtn_click(ByVal ctrl As Office.CommandBarButton, CancelDefault As Boolean) 
@@ -70,7 +70,7 @@ This example sets the tag for the button on the custom command bar to "Spelling 
 
 
 
-```
+```vb
 CommandBars("Custom").Controls(1).Tag = "Spelling Button" 
 MsgBox (CommandBars("Custom").Controls(1).Tag)
 ```

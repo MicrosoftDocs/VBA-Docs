@@ -41,7 +41,7 @@ The container application determines whether the value is a valid macro name.
 This example adds a command bar control to the command bar named "Custom". The procedure named  **MySub** will run each time the control is clicked.
 
 
-```
+```vb
 Set myBar = CommandBars("Custom") 
 Set myControl = myBar.Controls _ 
     .Add(Type:=msocontrolButton) 
@@ -57,7 +57,7 @@ This example adds a command bar control to the command bar named "Custom". The C
 
 
 
-```
+```vb
 Set myBar = CommandBars("Custom") 
 Set myControl = myBar.Controls _ 
     .Add(Type:=msocontrolButton) 

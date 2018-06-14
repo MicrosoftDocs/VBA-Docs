@@ -21,7 +21,7 @@ Represents the interior of an object.
 Use the  **[Interior](Excel.Range.Interior.md)** property to return the **Interior** object. The following example sets the color for the interior of cell A1 to red.
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A1").Interior.ColorIndex = 3
 ```
 
@@ -32,7 +32,7 @@ This example gets the value of the color of a cell in column A using the  **Colo
 
 
 
-```
+```vb
 Sub ColorSort()
    'Set up your variables and turn off screen updating.
    Dim iCounter As Integer

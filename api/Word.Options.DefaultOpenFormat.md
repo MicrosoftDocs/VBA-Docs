@@ -28,7 +28,7 @@ Returns or sets the default file converter used to open documents. Can be a numb
 This example sets the default converter for opening documents to the Word document format and then opens Forecast.doc.
 
 
-```
+```vb
 Options.DefaultOpenFormat = wdOpenFormatDocument 
 Documents.Open FileName:="C:\Sales\Forecast.doc"
 ```
@@ -38,7 +38,7 @@ This example sets the default converter for opening documents to automatically d
 
 
 
-```
+```vb
 Options.DefaultOpenFormat = wdOpenFormatAuto
 ```
 
@@ -47,7 +47,7 @@ This example sets the default converter for opening documents to the WordPerfect
 
 
 
-```
+```vb
 Options.DefaultOpenFormat = _ 
  FileConverters("WordPerfect6x").OpenFormat
 ```

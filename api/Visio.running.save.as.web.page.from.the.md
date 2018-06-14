@@ -70,7 +70,7 @@ The following table lists the command-line options for the Save as Web Page comm
 The following shows one way to use the RUNADDONWARGS function to call the SaveAsWeb add-on.
 
 
-```
+```vb
 =RUNADDONWARGS("SaveAsWeb","/target=c:\temp\mypage.htm /quiet /prop /startpage=1 /endpage=3 /altformat /priformat=vml /secformat=jpg /openbrowser")
 ```
 

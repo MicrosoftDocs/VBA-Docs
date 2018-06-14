@@ -28,7 +28,7 @@ Increases the list level of the paragraphs in the range for the specified  **Lis
 This example indents each paragraph in the first list in document one by one level.
 
 
-```
+```vb
 Documents(1).Lists(1).Range.ListFormat.ListIndent
 ```
 

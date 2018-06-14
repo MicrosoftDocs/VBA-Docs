@@ -33,7 +33,7 @@ A positive number raises the text, and a negative number lowers it.
 This example lowers the selected text by 2 points.
 
 
-```
+```vb
 Selection.Font.Position = -2
 ```
 

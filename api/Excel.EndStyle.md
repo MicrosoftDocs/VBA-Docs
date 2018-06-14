@@ -30,7 +30,7 @@ Returns or sets the end style for the error bars. Read/write  **XlEndStyleCap**.
 This example sets the end style for the error bars for series one. The example should be run on a 2-D line chart that has Y error bars for the first series.
 
 
-```
+```vb
 myChart.SeriesCollection(1).ErrorBars. EndStyle = xlCap
 
 ```

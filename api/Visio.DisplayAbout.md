@@ -35,7 +35,7 @@ Calling this method is equivalent to clicking the  **About Microsoft Visio Viewe
 The following code displays the  **About Microsoft Visio Viewer** dialog box.
 
 
-```
+```vb
 vsoViewer.DisplayAbout
 ```
 

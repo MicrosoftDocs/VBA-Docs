@@ -25,7 +25,7 @@ Use  **OtherCorrectionsExceptions** (Index), where Index is the AutoCorrect exce
 
 
 
-```
+```vb
 AutoCorrect.OtherCorrectionsExceptions("WTop").Delete
 ```
 
@@ -43,7 +43,7 @@ If the value of the  **OtherCorrectionsAutoAdd** property is **True** , words ar
 
 
 
-```
+```vb
 AutoCorrect.OtherCorrectionsExceptions.Add Name:="TipTop"
 ```
 

@@ -24,7 +24,7 @@ Use the  **[ActiveWindow](Publisher.Application.ActiveWindow.md)** property to r
 
  
 
-```
+```vb
 Sub MaximizeWindow 
  ActiveWindow.WindowState = pbWindowStateMaximize 
 End Sub
@@ -37,7 +37,7 @@ Use the  **[Caption](Publisher.Window.Caption.md)** property to return the file 
 
 
 
-```
+```vb
 Sub ShowFileApNames 
  MsgBox Windows(1).Caption 
 End Sub

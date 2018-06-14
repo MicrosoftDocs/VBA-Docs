@@ -21,7 +21,7 @@ Represents a footnote positioned at the bottom of the page or beneath text. The 
 Use  **Footnotes** (Index), where Index is the index number, to return a single **Footnote** object. The index number represents the position of the footnote in the selection, range, or document. The following example applies red formatting to the first footnote in the selection.
 
 
-```
+```vb
 If Selection.Footnotes.Count >= 1 Then 
  Selection.Footnotes(1).Reference.Font.ColorIndex = wdRed 
 End If
@@ -32,7 +32,7 @@ Use the  **Add** method to add a footnote to the **[Footnotes](Word.footnotes.md
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseEnd 
 ActiveDocument.Footnotes.Add Range:=Selection.Range , _ 
  Text:="The Willow Tree, (Lone Creek Press, 1996)."

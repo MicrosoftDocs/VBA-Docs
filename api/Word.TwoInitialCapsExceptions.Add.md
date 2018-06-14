@@ -46,7 +46,7 @@ If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically
 This example adds the abbreviation addr. to the list of first-letter exceptions.
 
 
-```
+```vb
 AutoCorrect.FirstLetterExceptions.Add Name:="addr."
 ```
 
@@ -55,7 +55,7 @@ This example adds MSOffice to the list of initial-capital exceptions.
 
 
 
-```
+```vb
 AutoCorrect.TwoInitialCapsExceptions.Add Name:="MSOffice"
 ```
 
@@ -64,7 +64,7 @@ This example adds myCompany to the list of other corrections exceptions.
 
 
 
-```
+```vb
 AutoCorrect.OtherCorrectionsExceptions.Add Name:="myCompany"
 ```
 
