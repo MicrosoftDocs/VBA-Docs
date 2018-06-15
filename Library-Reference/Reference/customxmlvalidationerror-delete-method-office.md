@@ -28,7 +28,7 @@ Deletes the  **CustomXMLValidationError** object representing a data validation 
 The following example deletes the validation error containing specific text.
 
 
-```
+```vb
 Dim objCustomXMLValidationError as CustomXMLValidationError 
  
 ' Deletes the specified error message. 
@@ -37,9 +37,6 @@ objCustomXMLValidationError.Text("To add content to this data stream, it must be
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLValidationError Object](customxmlvalidationerror-object-office.md)

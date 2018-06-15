@@ -34,8 +34,5 @@ If  **PageAlignmentGuides** is set to **True**, page alignment guides are displa
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

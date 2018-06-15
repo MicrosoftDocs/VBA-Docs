@@ -31,9 +31,6 @@ The return value will be a  **MsoDocProperties** constant.
 ## See also
 
 
-#### Concepts
-
-
 [DocumentProperty Object](documentproperty-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the default keyword string assigned to 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

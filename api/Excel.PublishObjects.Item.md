@@ -56,8 +56,5 @@ Close #1
 ## See also
 
 
-#### Concepts
-
-
 [PublishObjects Object](Excel.PublishObjects.md)
 

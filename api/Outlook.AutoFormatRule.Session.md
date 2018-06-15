@@ -41,8 +41,5 @@ Set objSession = Application.Session
 ## See also
 
 
-#### Concepts
-
-
 [AutoFormatRule Object](Outlook.AutoFormatRule.md)
 

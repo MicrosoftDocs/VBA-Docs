@@ -38,8 +38,5 @@ ActiveCell.PivotTable.RowRange.Select
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

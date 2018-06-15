@@ -31,8 +31,5 @@ The parent of the  **[Accounts](Outlook.Accounts.md)** object is the **[NameSpac
 ## See also
 
 
-#### Concepts
-
-
 [Accounts Object](Outlook.Accounts.md)
 

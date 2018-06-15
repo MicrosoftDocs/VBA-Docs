@@ -26,8 +26,5 @@ Returns the  **Controls** collection of a form, subform, report or section. Read
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

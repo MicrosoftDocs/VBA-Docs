@@ -41,8 +41,5 @@ ActiveWorkbook.SlicerCaches("Slicer_Country").Delete
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

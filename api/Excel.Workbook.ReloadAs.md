@@ -49,8 +49,5 @@ Workbooks(1).ReloadAs Encoding:=msoEncodingWestern
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

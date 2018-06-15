@@ -33,8 +33,5 @@ The index value is zero-based. The default value is -1, indicating that no speci
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

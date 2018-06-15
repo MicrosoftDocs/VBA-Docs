@@ -31,8 +31,5 @@ After you have the  **IconCriteria** collection, you can use the **[Item](Excel.
 ## See also
 
 
-#### Concepts
-
-
 [IconSetCondition Object](Excel.IconSetCondition.md)
 

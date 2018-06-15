@@ -94,8 +94,5 @@ Returns or sets the extrusion preset camera for a  **ThreeDFormat** object. Read
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

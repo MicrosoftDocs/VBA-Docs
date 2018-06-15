@@ -26,8 +26,5 @@ Returns a  **Boolean** that represents whether an XML node has child nodes. Read
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

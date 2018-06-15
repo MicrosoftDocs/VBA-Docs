@@ -42,7 +42,7 @@ In many circumstances, the best way to resolve an error condition is to call the
 The following example updates the server copy of the document from the local copy using the PutUpdate method if the local copy has been edited.
 
 
-```
+```vb
     Dim objSync As Office.Sync 
     Dim strStatus As String 
     Set objSync = ActiveDocument.Sync 
@@ -57,9 +57,6 @@ The following example updates the server copy of the document from the local cop
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Sync Object](sync-object-office.md)

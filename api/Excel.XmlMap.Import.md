@@ -57,8 +57,5 @@ If either of the following conditions is true, a runtime error will occur. If mo
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

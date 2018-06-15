@@ -26,8 +26,5 @@ Returns or sets an  **Integer** that represents a character used as the n-ary op
 ## See also
 
 
-#### Concepts
-
-
 [OMathNary Object](Word.OMathNary.md)
 

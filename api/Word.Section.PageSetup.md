@@ -28,15 +28,12 @@ Returns a  **PageSetup** object that is associated with the specified section.
 This example sets the gutter for the first section in Summary.doc to 36 points (0.5 inch).
 
 
-```
+```vb
 Documents("Summary.doc").Sections(1).PageSetup.Gutter = 36
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Section Object](Word.Section.md)

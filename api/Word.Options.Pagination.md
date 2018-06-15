@@ -37,15 +37,12 @@ This example returns the current status of the Background repagination option on
 
 
 
-```
+```vb
 temp = Options.Pagination
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

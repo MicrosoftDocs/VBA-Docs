@@ -28,7 +28,4 @@ Predecessor tasks are tasks that are linked to the current task and occur before
 ## See also
 
 
-#### Concepts
-
-
 [PredecessorDrivers Collection Object](Project.predecessordrivers.md)

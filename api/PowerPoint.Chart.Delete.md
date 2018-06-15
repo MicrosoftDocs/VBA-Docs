@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

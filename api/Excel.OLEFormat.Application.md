@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Excel.OLEFormat.md)
 

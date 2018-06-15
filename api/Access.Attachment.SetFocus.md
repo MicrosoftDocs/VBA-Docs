@@ -41,8 +41,5 @@ If a form contains controls for which the  **Enabled** property is set to **True
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

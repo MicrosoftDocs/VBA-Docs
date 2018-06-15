@@ -31,8 +31,5 @@ You can use an ID label as a hyperlink reference in other HTML documents or on t
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

@@ -33,8 +33,5 @@ The  **Address** property must be set before calling the **[ExchangeUser.Details
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

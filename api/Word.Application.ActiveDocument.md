@@ -75,8 +75,5 @@ ActiveDocument.PrintOut
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](application-object-word.md)
 

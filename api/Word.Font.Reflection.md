@@ -26,8 +26,5 @@ Returns a [ReflectionFormat](Word.ReflectionFormat.md) object that represents th
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

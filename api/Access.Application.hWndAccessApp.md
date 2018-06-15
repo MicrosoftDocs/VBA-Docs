@@ -40,8 +40,5 @@ To get the handle to a window containing a Microsoft Access object such as a For
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

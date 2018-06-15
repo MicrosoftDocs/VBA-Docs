@@ -43,8 +43,5 @@ Worksheets("Sheet1").Columns(1).Font.Bold = True
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

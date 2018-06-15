@@ -99,8 +99,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

@@ -33,8 +33,5 @@ Use the  **Locked** property to protect data in a field by making it read-only. 
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

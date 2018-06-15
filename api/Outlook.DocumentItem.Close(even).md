@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.DocumentItem.Close(method).md)** method to fir
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

@@ -55,8 +55,5 @@ ActiveDocument.SubDocuments.AddFromRange Range:=Selection.Range
 ## See also
 
 
-#### Concepts
-
-
 [Subdocuments Collection Object](Word.subdocuments.md)
 

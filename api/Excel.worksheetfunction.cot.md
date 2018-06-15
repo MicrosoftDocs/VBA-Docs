@@ -37,8 +37,5 @@ Returns the cotangent of an angle.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

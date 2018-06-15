@@ -29,9 +29,6 @@ Pastes a copy of a report or a shape, where the copy is a picture.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 #### Other resources
 

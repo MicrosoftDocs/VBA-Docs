@@ -26,8 +26,5 @@ Returns the number of items in the  **BuildingBlockEntries** collection. Read-on
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlockEntries Collection](Word.BuildingBlockEntries.md)
 

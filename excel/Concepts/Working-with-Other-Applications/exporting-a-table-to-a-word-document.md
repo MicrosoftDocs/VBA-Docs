@@ -13,7 +13,7 @@ This example takes the table named &;quot;Table1&;quot; on Sheet 1 and copies it
 
 
 
-```
+```vb
 Sub Export_Table_Word()
 
     'Name of the existing Word doc.

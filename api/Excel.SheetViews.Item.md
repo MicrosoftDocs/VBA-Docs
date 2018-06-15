@@ -34,8 +34,5 @@ Returns a  **SheetView** object that represents views in a workbook. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [SheetViews Object](Excel.SheetViews.md)
 

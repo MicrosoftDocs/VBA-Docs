@@ -39,8 +39,5 @@ CoAuthor
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthors Object](Word.CoAuthors.md)
 

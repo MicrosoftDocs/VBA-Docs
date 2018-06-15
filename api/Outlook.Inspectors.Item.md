@@ -39,8 +39,5 @@ An  **Inspector** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Inspectors Object](Outlook.Inspectors.md)
 

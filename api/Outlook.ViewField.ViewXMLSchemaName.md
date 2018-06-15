@@ -97,8 +97,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ViewField Object](Outlook.ViewField.md)
 

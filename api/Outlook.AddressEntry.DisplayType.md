@@ -31,8 +31,5 @@ You can use the  **DisplayType** property to filter address entries. The **Displ
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

@@ -26,7 +26,7 @@ Returns or sets a  **Long** that specifies the border color of an object. Read/w
 You can use any integer that represents a valid color. You can also specify a color by using the Visual Basic  **RGB** function with red, green, and blue color components. The value of each color component is an integer that ranges from zero to 255. For example, you can specify teal blue as the integer value 4966415 or as red, green, and blue color components 15, 200, 75, as shown in the following example.
 
 
-```
+```vb
 RGB(15,200,75)
 ```
 

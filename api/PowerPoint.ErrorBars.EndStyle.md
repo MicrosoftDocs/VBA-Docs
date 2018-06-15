@@ -63,9 +63,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ErrorBars Object](PowerPoint.ErrorBars.md)
 
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of inline shapes in the collectio
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection Object](Word.inlineshapes.md)
 

@@ -26,8 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

@@ -31,8 +31,5 @@ If the ribbon is visible, the  **TobbleRibbon** method hides it; if the ribbon i
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

@@ -26,8 +26,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the name of a math
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunc Object](Word.OMathFunc.md)
 

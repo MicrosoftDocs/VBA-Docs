@@ -52,8 +52,5 @@ objCC.Range.Text = objNode.Text
 ## See also
 
 
-#### Concepts
-
-
 [XMLMapping Object](Word.XMLMapping.md)
 

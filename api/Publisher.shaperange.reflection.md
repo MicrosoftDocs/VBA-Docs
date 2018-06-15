@@ -26,8 +26,5 @@ Returns a  **[ReflectionFormat](Publisher.reflectionformat.md)** object that rep
 ## See also
 
 
-#### Concepts
-
-
  [ShapeRange Object](Publisher.ShapeRange.md)
 

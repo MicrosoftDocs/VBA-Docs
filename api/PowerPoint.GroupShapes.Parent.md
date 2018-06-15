@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 

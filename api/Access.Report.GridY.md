@@ -35,8 +35,5 @@ The  **GridX** and **GridY** properties provide control over the placement and a
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

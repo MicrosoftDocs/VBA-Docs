@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Soft
 ## See also
 
 
-#### Concepts
-
-
 [SoftEdgeFormat Object](Word.SoftEdgeFormat.md)
 

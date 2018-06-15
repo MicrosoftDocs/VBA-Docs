@@ -36,8 +36,5 @@ ActiveDocument.GridSpaceBetweenVerticalLines = 2
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

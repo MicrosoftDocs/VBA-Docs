@@ -36,8 +36,5 @@ Worksheets(1).PivotTables(1).PageRangeCells.Select
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

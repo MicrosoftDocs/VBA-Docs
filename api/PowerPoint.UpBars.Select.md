@@ -23,8 +23,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [UpBars Object](PowerPoint.UpBars.md)
 

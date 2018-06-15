@@ -23,7 +23,4 @@ Deletes the  **Exception** object from an **Exceptions** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

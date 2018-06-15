@@ -37,15 +37,12 @@ This example returns the current status of the  **Save data only for forms** che
 
 
 
-```
+```vb
 temp = ActiveDocument.SaveFormsData
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

@@ -67,8 +67,5 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

@@ -26,8 +26,5 @@ Returns or sets an  **Integer** that represents the ending delimiter character i
 ## See also
 
 
-#### Concepts
-
-
 [OMathDelim Object](Word.OMathDelim.md)
 

@@ -40,8 +40,5 @@ An  **[XmlMap](Excel.XmlMap.md)** object that represents the new XML map.
 ## See also
 
 
-#### Concepts
-
-
 [XmlMaps Object](Excel.XmlMaps.md)
 

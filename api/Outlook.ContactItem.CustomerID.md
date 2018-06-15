@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the customer ID for the contact. Read
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

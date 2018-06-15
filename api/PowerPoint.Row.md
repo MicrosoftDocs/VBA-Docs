@@ -48,8 +48,5 @@ ActiveWindow.Selection.ShapeRange.Table.Rows(2) _
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

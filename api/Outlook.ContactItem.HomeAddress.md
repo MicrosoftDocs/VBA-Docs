@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the full, unparsed text of the home a
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

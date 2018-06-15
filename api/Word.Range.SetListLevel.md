@@ -34,8 +34,5 @@ Sets the list level for one or more items in a numbered list.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

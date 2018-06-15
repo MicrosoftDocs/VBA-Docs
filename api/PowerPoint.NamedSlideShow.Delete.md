@@ -26,8 +26,5 @@ Deletes the specified  **NamedSlideShow** object.
 ## See also
 
 
-#### Concepts
-
-
 [NamedSlideShow Object](PowerPoint.NamedSlideShow.md)
 

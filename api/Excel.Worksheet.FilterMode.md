@@ -39,8 +39,5 @@ returnValue = Worksheet1.FilterMode
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

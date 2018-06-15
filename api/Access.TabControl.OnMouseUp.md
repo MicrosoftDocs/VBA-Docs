@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseUp
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

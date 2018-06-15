@@ -52,8 +52,5 @@ The  **CubeFieldSubType** can be any of the values in the following enumeration
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

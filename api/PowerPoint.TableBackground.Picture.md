@@ -31,8 +31,5 @@ PictureFormat
 ## See also
 
 
-#### Concepts
-
-
 [TableBackground Object](PowerPoint.TableBackground.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **Long** value that represents the name of specified control 
 ## See also
 
 
-#### Concepts
-
-
 [ControlFormat Object](Excel.ControlFormat.md)
 

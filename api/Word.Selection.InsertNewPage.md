@@ -26,8 +26,5 @@ Inserts a new page at the position of the Insertion Point.
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

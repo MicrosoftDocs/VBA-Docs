@@ -36,8 +36,5 @@ Closes the specified documents.
 ## See also
 
 
-#### Concepts
-
-
 [Documents Collection Object](Word.documents.md)
 

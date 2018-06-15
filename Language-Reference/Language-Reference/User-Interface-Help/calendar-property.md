@@ -28,7 +28,7 @@ You can only set the  **Calendar** property programmatically. For example, to us
 
 
 
-```
+```vb
 Calendar = vbCalHijri
 
 

@@ -54,8 +54,5 @@ Debug.Print Reports("Catalog").Controls("OK").OnGotFocus
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

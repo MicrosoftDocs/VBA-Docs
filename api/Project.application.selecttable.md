@@ -36,9 +36,6 @@ If the active view is not a report, the  **SelectTable** method displays a dialo
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 #### Other resources
 

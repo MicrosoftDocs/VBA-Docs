@@ -34,8 +34,5 @@ Rotates the  **ThreeDFormat** object along the vertical axis by the specified nu
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 

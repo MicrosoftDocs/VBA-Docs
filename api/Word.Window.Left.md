@@ -40,8 +40,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

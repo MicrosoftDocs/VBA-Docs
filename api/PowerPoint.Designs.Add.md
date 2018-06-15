@@ -40,8 +40,5 @@ Design
 ## See also
 
 
-#### Concepts
-
-
 [Designs Object](PowerPoint.Designs.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of languages in the collection. R
 ## See also
 
 
-#### Concepts
-
-
 [Languages Collection Object](Word.languages.md)
 

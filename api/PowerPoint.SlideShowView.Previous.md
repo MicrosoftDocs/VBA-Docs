@@ -33,15 +33,12 @@ If you are currently on the first slide in a kiosk slide show, the  **Previous**
 This example shows the slide immediately preceding the currently displayed slide on slide show window one.
 
 
-```
+```vb
 SlideShowWindows(1).View.Previous
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)

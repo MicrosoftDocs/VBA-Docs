@@ -26,8 +26,5 @@ Returns the number of items in the  **OMathFunctions** collection. Read-only **L
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunctions Collection](Word.OMathFunctions.md)
 

@@ -26,8 +26,5 @@ Returns a  **[Range](Word.Range.md)** object that represents the last character 
 ## See also
 
 
-#### Concepts
-
-
 [Characters Collection Object](Word.characters.md)
 

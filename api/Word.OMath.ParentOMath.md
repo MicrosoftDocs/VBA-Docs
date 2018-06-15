@@ -26,8 +26,5 @@ Returns an  **OMath** object that represents the parent element. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

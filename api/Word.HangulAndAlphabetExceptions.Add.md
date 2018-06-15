@@ -48,15 +48,12 @@ For more information on using Word with East Asian languages, see Word features 
 This example adds test to the list of hangul and alphabet AutoCorrect exceptions on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
 
-```
+```vb
 AutoCorrect.HangulAndAlphabetExceptions.Add Name:="test"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [HangulAndAlphabetExceptions Collection Object](Word.hangulandalphabetexceptions.md)

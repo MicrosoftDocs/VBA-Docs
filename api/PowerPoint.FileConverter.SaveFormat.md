@@ -26,8 +26,5 @@ Returns the file format of the specified document or file converter. Read-only  
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](PowerPoint.FileConverter.md)
 

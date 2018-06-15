@@ -61,8 +61,5 @@ Me.ctl.ForeThemeColorIndex=2
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

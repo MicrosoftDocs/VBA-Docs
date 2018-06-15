@@ -57,8 +57,5 @@ Make sure that you are consistent about the units you use for specifying rate an
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

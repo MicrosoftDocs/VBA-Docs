@@ -26,8 +26,5 @@ Returns a  **Long** value, containing a **[xlFormatConditionType](Excel.XlFormat
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Excel.FormatCondition.md)
 

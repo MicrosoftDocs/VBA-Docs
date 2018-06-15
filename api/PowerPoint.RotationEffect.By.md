@@ -66,8 +66,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [RotationEffect Object](PowerPoint.RotationEffect.md)
 

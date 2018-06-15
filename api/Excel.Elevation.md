@@ -26,7 +26,7 @@ The chart elevation is the height at which you view the chart, in degrees. The d
 This example sets the chart elevation to 34 degrees. The example should be run on a 3-D chart (the  **Elevation** property fails on 2-D charts).
 
 
-```
+```vb
 myChart.Elevation = 34
 ```
 

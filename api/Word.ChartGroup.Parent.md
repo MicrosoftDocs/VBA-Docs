@@ -26,8 +26,5 @@ Returns the parent for the specified object. Read-only  **Object** .
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Word.ChartGroup.md)
 

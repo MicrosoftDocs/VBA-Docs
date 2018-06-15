@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [DownBars Object](Word.DownBars.md)
 

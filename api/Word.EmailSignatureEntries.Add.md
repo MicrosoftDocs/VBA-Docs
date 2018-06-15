@@ -60,8 +60,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [EmailSignatureEntries Collection](Word.EmailSignatureEntries.md)
 

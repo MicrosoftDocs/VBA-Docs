@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 - You are trying to obtain the value of a  **Variant** variable or an[expression](vbe-glossary.md) that is **Null**. For example:
     
-  ```
+  ```vb
   MyVar = Null 
 For Count = 1 To MyVar 
 . . . 

@@ -36,8 +36,5 @@ Selection.Find.MatchDiacritics = True
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

@@ -46,8 +46,5 @@ objCC.Range.Text = "January 1, 2007"
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

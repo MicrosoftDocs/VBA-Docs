@@ -35,8 +35,5 @@ Sets the languages for the translation service.
 ## See also
 
 
-#### Concepts
-
-
 [Research Object](PowerPoint.Research.md)
 

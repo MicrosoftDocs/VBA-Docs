@@ -41,8 +41,5 @@ ActiveCell.Interior.Gradient.ColorStops.Count
 ## See also
 
 
-#### Concepts
-
-
 [ColorStops Object](Excel.ColorStops.md)
 

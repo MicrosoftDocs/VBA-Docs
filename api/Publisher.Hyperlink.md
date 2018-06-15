@@ -21,7 +21,7 @@ Represents a hyperlink. The  **Hyperlink** object is a member of the **[Hyperlin
 Use the  **[Hyperlink](http://msdn.microsoft.com/library/0990ab32-b4a3-6c89-cb9f-8f8c64ef804f%28Office.15%29.aspx)** property to return a **Hyperlink** object associated with a shape (a shape can have only one hyperlink). The following example deletes the hyperlink associated with the first shape in the active document.
 
 
-```
+```vb
 Sub DeleteHyperlink() 
  ActiveDocument.Pages(1).Shapes(1).Hyperlink.Delete 
 End Sub
@@ -32,7 +32,7 @@ Use  **Hyperlinks** (index), where index is the index number, to return a single
 
 
 
-```
+```vb
 Sub DeleteSelectedHyperlink() 
  If Selection.TextRange.Hyperlinks.Count >= 1 Then 
  Selection.TextRange.Hyperlinks(1).Delete 
@@ -45,7 +45,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/f5a8cc01-a571-623d-bfab-fe48e
 
 
 
-```
+```vb
 Sub AddHyperlinkToSelectedText() 
  Selection.TextRange.Hyperlinks.Add Text:=Selection.TextRange, _ 
  Address:="http://www.tailspintoys.com/" 
@@ -57,7 +57,7 @@ Use the  **[Address](http://msdn.microsoft.com/library/784a9213-38bc-c5fd-f215-a
 
 
 
-```
+```vb
 Sub AddHyperlinkToShape() 
  With ActiveDocument.Pages(1).Shapes.AddShape _ 
  (Type:=msoShape5pointStar, Left:=200, _ 

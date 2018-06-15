@@ -42,8 +42,5 @@ lbcf.RemoveItem lbcf.ListIndex
 ## See also
 
 
-#### Concepts
-
-
 [ControlFormat Object](Excel.ControlFormat.md)
 

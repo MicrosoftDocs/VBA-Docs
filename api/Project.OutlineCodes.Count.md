@@ -89,7 +89,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OutlineCodes Collection Object](Project.outlinecodes(object).md)

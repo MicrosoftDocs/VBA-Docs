@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [DownBars Object](Word.DownBars.md)
 

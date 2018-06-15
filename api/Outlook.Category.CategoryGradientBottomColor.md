@@ -33,8 +33,5 @@ This color should be used to display a gradient-shaded color swatch for the  **C
 ## See also
 
 
-#### Concepts
-
-
 [Category Object](Outlook.Category.md)
 

@@ -44,8 +44,5 @@ Windows.Item(1).WindowState = xlMaximized
 ## See also
 
 
-#### Concepts
-
-
 [Windows Object](Excel.Windows.md)
 

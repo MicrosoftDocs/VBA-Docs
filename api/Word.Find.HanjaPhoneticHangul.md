@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to locate phonetic Hangul
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

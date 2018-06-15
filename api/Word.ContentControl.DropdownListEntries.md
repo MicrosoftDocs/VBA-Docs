@@ -50,8 +50,5 @@ objCC.DropdownListEntries.Add("Other")
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

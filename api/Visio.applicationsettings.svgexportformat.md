@@ -31,8 +31,5 @@ The value of this property determines whether the resulting SVG file includes bo
 ## See also
 
 
-#### Concepts
-
-
 [ApplicationSettings Object](Visio.ApplicationSettings.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of mail merge data fields in the 
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataFields Collection Object](Word.mailmergedatafields.md)
 

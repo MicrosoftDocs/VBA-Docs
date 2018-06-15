@@ -54,8 +54,5 @@ myDocument.Shapes.AddShape(msoShapeCube, 50, 50, 100, 200).LockAspectRatio = mso
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

@@ -33,8 +33,5 @@ This property corresponds to the  **Use contextual spelling** check box in the *
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

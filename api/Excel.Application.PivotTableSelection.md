@@ -37,8 +37,5 @@ Worksheets(1).PivotTables(1).SelectionMode = xlDataOnly
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

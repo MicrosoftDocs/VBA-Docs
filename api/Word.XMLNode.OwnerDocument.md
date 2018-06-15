@@ -38,8 +38,5 @@ Set objDoc = Selection.XMLNodes(1).OwnerDocument
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

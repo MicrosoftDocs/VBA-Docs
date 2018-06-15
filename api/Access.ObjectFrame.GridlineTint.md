@@ -33,8 +33,5 @@ This property is not surfaced in the property sheet.
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

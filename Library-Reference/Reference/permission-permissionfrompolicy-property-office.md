@@ -35,7 +35,7 @@ The  **PermissionFromPolicy** property always returns **False** when checked by 
 The following example displays permission policy information about the active document.
 
 
-```
+```vb
  Dim irmPermission As Office.Permission 
  Dim strIRMInfo As String 
  Set irmPermission = ActiveWorkbook.Permission 
@@ -60,9 +60,6 @@ The following example displays permission policy information about the active do
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Permission Object](permission-object-office.md)

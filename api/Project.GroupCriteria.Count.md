@@ -89,7 +89,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriteria Collection Object](Project.groupcriteria.md)

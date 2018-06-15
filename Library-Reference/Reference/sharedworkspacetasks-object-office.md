@@ -24,7 +24,7 @@ A collection of the  **[SharedWorkspaceTask](sharedworkspacetask-object-office.m
 Use the  **[Tasks](sharedworkspace-tasks-property-office.md)** property of the **[SharedWorkspace](sharedworkspace-object-office.md)** object to return a **SharedWorkspaceTasks** collection.
 
 
-```
+```vb
     Dim swsTasks As Office.SharedWorkspaceTasks 
     Set swsTasks = ActiveWorkbook.SharedWorkspace.Tasks 
     MsgBox "There are " &amp; swsTasks.Count &amp; _ 

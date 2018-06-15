@@ -44,8 +44,5 @@ If the default navigation group specified in  _DefaultFolderGroup_ was deleted o
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 

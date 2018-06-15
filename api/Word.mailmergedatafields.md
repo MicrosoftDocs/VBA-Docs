@@ -43,7 +43,7 @@ Use  **DataFields** (Index), where Index is the data field name or the index num
 
 
 
-```
+```vb
 first = ActiveDocument.MailMerge _ 
  .DataSource.DataFields("FName").Value
 ```

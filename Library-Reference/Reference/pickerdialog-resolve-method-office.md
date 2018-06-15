@@ -42,7 +42,7 @@ PickerResults
 Resolves entities by using the Picker Dialog object.
 
 
-```
+```vb
 Dim objPickerDialog As PickerDialog 
 Dim objPickerProperties As PickerProperties 
 Dim objPickerProperty As PickerProperty 
@@ -64,9 +64,6 @@ Set objPickerResults = objPickerDialog.Resolve("johndoe", False)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PickerDialog Object](pickerdialog-object-office.md)

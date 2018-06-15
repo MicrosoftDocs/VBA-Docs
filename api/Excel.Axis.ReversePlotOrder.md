@@ -41,8 +41,5 @@ Charts("Chart1").Axes(xlValue).ReversePlotOrder = True
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Excel.Axis(objec).md)
 

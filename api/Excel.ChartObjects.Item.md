@@ -54,8 +54,5 @@ Worksheets("sheet1").ChartObjects.Item(1).Activate
 ## See also
 
 
-#### Concepts
-
-
 [ChartObjects Object](Excel.ChartObjects.md)
 

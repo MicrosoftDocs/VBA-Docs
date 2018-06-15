@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Sheets Object](Excel.Sheets.md)
 

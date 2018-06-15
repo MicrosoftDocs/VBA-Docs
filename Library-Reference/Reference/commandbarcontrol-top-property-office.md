@@ -29,9 +29,6 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarCo
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControl Object](commandbarcontrol-object-office.md)
 #### Other resources
 

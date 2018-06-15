@@ -31,8 +31,5 @@ This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarke
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

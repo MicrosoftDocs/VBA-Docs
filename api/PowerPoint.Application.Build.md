@@ -41,8 +41,5 @@ MsgBox Prompt:=Application.Build, Title:="PowerPoint Build"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

@@ -33,8 +33,5 @@ If the value of the  **[ShortestBarLimit](Access.FormatCondition.ShortestBarLimi
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Access.FormatCondition.md)
 

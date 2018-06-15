@@ -23,8 +23,5 @@ Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBor
 ## See also
 
 
-#### Concepts
-
-
 [SeriesLines Object](PowerPoint.SeriesLines.md)
 

@@ -26,9 +26,6 @@ Is the identifier for Office Communication Server. It's used only for people pic
 ## See also
 
 
-#### Concepts
-
-
 [PickerResult Object](pickerresult-object-office.md)
 #### Other resources
 

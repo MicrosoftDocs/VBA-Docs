@@ -37,8 +37,5 @@ The  **LeftGridlineWidth** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

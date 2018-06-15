@@ -45,8 +45,5 @@ Next lev
 ## See also
 
 
-#### Concepts
-
-
 [ListLevel Object](Word.ListLevel.md)
 

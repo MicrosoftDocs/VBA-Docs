@@ -45,7 +45,7 @@ Setting the  **LinkSource** property sets the **LinkToContent** property to **Tr
 This example displays the linked status of a custom document property. For the example to work,  **dp** must be a valid **DocumentProperty** object.
 
 
-```
+```vb
 Sub DisplayLinkStatus(dp As DocumentProperty) 
  Dim stat As String, tf As String 
  If dp.LinkToContent Then 
@@ -63,9 +63,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentProperty Object](documentproperty-object-office.md)

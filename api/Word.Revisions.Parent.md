@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Revi
 ## See also
 
 
-#### Concepts
-
-
 [Revisions Collection Object](Word.revisions.md)
 

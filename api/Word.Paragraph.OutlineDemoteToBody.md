@@ -28,7 +28,7 @@ Demotes the specified paragraph to body text by applying the Normal style.
 This example demotes the first paragraph in the selection to body text.
 
 
-```
+```vb
 Selection.Paragraphs(1).OutlineDemoteToBody
 ```
 
@@ -44,9 +44,6 @@ Selection.Paragraphs(1).OutlineDemoteToBody
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Paragraph Object](Word.Paragraph.md)

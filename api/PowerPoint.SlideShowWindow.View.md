@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 

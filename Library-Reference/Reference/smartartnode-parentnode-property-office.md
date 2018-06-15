@@ -28,9 +28,6 @@ If this node is the root node, an error is returned.
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

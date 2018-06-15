@@ -55,8 +55,5 @@ Forms("Suppliers").Controls("City").TabStop = False
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

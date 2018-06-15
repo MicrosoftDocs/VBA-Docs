@@ -37,8 +37,5 @@ If ActiveDocument.ActiveWindow.Panes.Count >= 2 Then _
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

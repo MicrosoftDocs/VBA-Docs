@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Fiel
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

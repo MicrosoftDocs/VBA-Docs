@@ -34,8 +34,5 @@ The  **Range** object maps an arbitrary range of cells to a range of data labels
 ## See also
 
 
-#### Concepts
-
-
 [DataLabel Object](Excel.DataLabel(objec).md)
 

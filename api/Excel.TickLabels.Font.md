@@ -26,8 +26,5 @@ Returns a  **[Font](Excel.Font(objec).md)** object that represents the font of t
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](Excel.TickLabels(objec).md)
 

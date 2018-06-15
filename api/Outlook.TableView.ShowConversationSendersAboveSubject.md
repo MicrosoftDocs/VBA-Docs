@@ -31,8 +31,5 @@ Returns or sets a  **Boolean** value that indicates whether the table view displ
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

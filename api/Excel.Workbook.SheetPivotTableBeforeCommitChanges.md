@@ -48,8 +48,5 @@ The  **SheetPivotTableBeforeCommitChanges** event occurs immediately before Exce
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

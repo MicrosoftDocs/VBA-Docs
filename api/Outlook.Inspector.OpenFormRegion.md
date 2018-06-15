@@ -44,8 +44,5 @@ If the inspector is not already in design mode,  **OpenFormRegion** will put it 
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

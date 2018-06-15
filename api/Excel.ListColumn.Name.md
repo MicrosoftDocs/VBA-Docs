@@ -31,8 +31,5 @@ The value of this property is also used as the display name of the list column. 
 ## See also
 
 
-#### Concepts
-
-
 [ListColumn Object](Excel.ListColumn.md)
 

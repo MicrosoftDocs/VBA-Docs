@@ -30,7 +30,7 @@ Returns or sets the type of underline applied to the font. Required  **XlUnderli
 This example sets the font in the chart title to single underline.
 
 
-```
+```vb
 myChart.ChartTitle.Font.Underline = xlUnderlineStyleSingle
 ```
 

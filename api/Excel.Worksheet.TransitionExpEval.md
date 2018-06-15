@@ -36,8 +36,5 @@ Worksheets("Sheet1").TransitionExpEval = True
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

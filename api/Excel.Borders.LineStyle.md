@@ -42,8 +42,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection](Excel.Borders.md)
 

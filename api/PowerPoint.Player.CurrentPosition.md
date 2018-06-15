@@ -26,8 +26,5 @@ Gets or sets a  **Long** that represents the current position of the player in t
 ## See also
 
 
-#### Concepts
-
-
 [Player Object](PowerPoint.Player.md)
 

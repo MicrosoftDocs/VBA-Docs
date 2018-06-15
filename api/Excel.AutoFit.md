@@ -30,7 +30,7 @@ One unit of column width is equal to the width of one character in the Normal st
 This example changes the width of columns A through I on the datasheet to achieve the best fit.
 
 
-```
+```vb
 myChart.Application.DataSheet.Columns("A:I").AutoFit
 ```
 
@@ -39,7 +39,7 @@ This example changes the width of columns A through E on the datasheet to achiev
 
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A1:E1").Columns.AutoFit
 ```
 

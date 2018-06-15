@@ -26,8 +26,5 @@ Returns a  **[ViewFields](Outlook.ViewFields.md)** object that represents the se
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

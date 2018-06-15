@@ -46,7 +46,7 @@ To provide an entry point to trigger this method, you need to create a user inte
 The following function uses the signature provider ID argument to create a signature packet when digitally signing a document.
 
 
-```
+```vb
 Function CreateSignature(ByVal varSigProviderID As Variant) As Signature 
 Dim objSignatureSet As SignatureSet 
 Dim objSignature As Signature 
@@ -59,9 +59,6 @@ End Function
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureSet Object](signatureset-object-office.md)

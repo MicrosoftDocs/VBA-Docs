@@ -33,8 +33,5 @@ Some of the constants listed above may not be available to you, depending on the
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the check box and its botto
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Access.CheckBox.md)
 

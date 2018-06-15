@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of pixels from the top of the pag
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Word.Line.md)
 

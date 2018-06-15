@@ -56,8 +56,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Word.FillFormat.md)
 

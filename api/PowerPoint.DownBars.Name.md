@@ -23,9 +23,6 @@ Returns the name of the object. Read-only  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [DownBars Object](PowerPoint.DownBars.md)
 
 

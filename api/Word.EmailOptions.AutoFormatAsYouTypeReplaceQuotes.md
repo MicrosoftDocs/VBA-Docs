@@ -47,8 +47,5 @@ blnAutoFormat = Options.AutoFormatReplaceQuotes
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

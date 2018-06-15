@@ -42,8 +42,5 @@ To flush the cache and then reload the values from the address book, call  **Upd
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

@@ -36,8 +36,5 @@ The  **String** returned for a **MotionEffect** object is a specific path that t
 ## See also
 
 
-#### Concepts
-
-
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 

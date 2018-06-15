@@ -26,8 +26,5 @@ Returns the collection of  **[TempVar](Access.TempVar.md)** objects. Read-only *
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

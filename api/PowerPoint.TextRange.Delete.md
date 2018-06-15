@@ -26,8 +26,5 @@ Deletes the specified  **TextRange** object.
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

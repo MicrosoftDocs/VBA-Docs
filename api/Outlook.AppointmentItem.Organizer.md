@@ -26,8 +26,5 @@ Returns a  **String** representing the name of the organizer of the appointment.
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

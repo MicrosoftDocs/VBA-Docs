@@ -31,7 +31,4 @@ Gets a single  **Task** object from the **Tasks** collection. Read-only **Task**
 ## See also
 
 
-#### Concepts
-
-
 [Tasks Collection Object](Project.tasks(object).md)

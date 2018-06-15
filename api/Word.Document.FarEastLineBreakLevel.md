@@ -43,8 +43,5 @@ ActiveDocument.FarEastLineBreakLevel = wdJustificationModeCompressKana
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

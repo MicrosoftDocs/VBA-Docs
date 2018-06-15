@@ -50,8 +50,5 @@ You can specify how vertical text will be displayed, edited, or printed in the c
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

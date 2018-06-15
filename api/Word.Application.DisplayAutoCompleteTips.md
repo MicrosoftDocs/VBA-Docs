@@ -47,8 +47,5 @@ blnTemp = Application.DisplayAutoCompleteTips
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

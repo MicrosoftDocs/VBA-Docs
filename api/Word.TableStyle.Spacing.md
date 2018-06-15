@@ -26,8 +26,5 @@ Returns or sets the spacing (in points) between the cells in a table style. Read
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Word.TableStyle.md)
 

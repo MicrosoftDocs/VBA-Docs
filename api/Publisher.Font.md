@@ -21,7 +21,7 @@ Contains font attributes (font name, font size, color, and so on) for an object.
 Use the  **[Font](http://msdn.microsoft.com/library/80d7177a-fef9-c3fd-f559-94644a2ba0f7%28Office.15%29.aspx)** property to return the **Font** object. The following instruction applies bold formatting to the selection.
 
 
-```
+```vb
 Sub BoldText() 
  Selection.TextRange.Font.Bold = True 
 End Sub
@@ -32,7 +32,7 @@ The following example formats the first paragraph in the active publication as 2
 
 
 
-```
+```vb
 Sub FormatText() 
  Dim txtRange As TextRange 
  Set txtRange = ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange 
@@ -49,7 +49,7 @@ The following example changes the formatting of the Heading 2 style in the activ
 
 
 
-```
+```vb
 Sub FormatStyle() 
  With ActiveDocument.TextStyles("Normal").Font 
  .Name = "Tahoma" 
@@ -64,7 +64,7 @@ You can also duplicate a  **Font** object by using the **[Duplicate](http://msdn
 
 
 
-```
+```vb
 Sub DuplicateFont() 
  Dim fntNew As Font 
  Set fntNew = Selection.TextRange.Font.Duplicate 

@@ -38,7 +38,7 @@ The distance from the top edge of the object to the top of row 1 (on a datasheet
 This example sets the position of the top of the chart title.
 
 
-```
+```vb
 myChart.ChartTitle.Top = 10
 ```
 

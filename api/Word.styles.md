@@ -19,7 +19,7 @@ A collection of  **Style** objects that represent both the built-in and user-def
 Use the  **Styles** property to return the **Styles** collection. The following example deletes all user-defined styles in the active document.
 
 
-```
+```vb
 For Each sty In ActiveDocument.Styles 
  If sty.BuiltIn = False Then sty.Delete 
 Next sty
@@ -30,7 +30,7 @@ Use the  **Add** method to create a new user-defined style and add it to the **S
 
 
 
-```
+```vb
 Set myStyle = ActiveDocument.Styles.Add(Name:="Introduction", _ 
  Type:=wdStyleTypeCharacter) 
 With myStyle.Font 
@@ -47,7 +47,7 @@ Use  **Styles** (Index), where Index is the style name, a **WdBuiltinStyle** con
 
 
 
-```
+```vb
 ActiveDocument.Styles("Color").Font.Name = "Arial"
 ```
 
@@ -56,7 +56,7 @@ The following example sets the built-in Heading 1 style to not be bold.
 
 
 
-```
+```vb
 ActiveDocument.Styles(wdStyleHeading1).Font.Bold = False
 ```
 
@@ -65,7 +65,7 @@ The style index number represents the position of the style in the alphabeticall
 
 
 
-```
+```vb
 MsgBox "Base style= " _ 
  &amp; ActiveDocument.Styles(1).BaseStyle &amp; vbCr _ 
  &amp; "Style name= " &amp; ActiveDocument.Styles(1).NameLocal
@@ -76,7 +76,7 @@ The  **Styles** object is not available from the **Template** object. However, y
 
 
 
-```
+```vb
 Set aDoc = ActiveDocument.AttachedTemplate.OpenAsDocument 
 With aDoc 
  .Styles(wdStyleHeading1).Font.Name = "Arial" 

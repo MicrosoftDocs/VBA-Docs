@@ -31,8 +31,5 @@ Double
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 

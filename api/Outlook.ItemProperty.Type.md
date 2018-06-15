@@ -26,8 +26,5 @@ Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant ind
 ## See also
 
 
-#### Concepts
-
-
 [ItemProperty Object](Outlook.ItemProperty.md)
 

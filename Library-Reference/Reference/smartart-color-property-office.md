@@ -25,15 +25,12 @@ Retrieves or sets the Smart Art color style applied to the Smart Art graphic. Re
 The following code sets the color scheme of the Smart Art diagram.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArt.Color = Application.SmartArtColors(1)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArt Object](smartart-object-office.md)

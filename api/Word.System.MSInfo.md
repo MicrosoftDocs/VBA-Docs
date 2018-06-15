@@ -28,15 +28,12 @@ Starts the Microsoft System Information application if it is not running, or swi
 This example starts or switches to the Microsoft System Information application.
 
 
-```
+```vb
 System.MSInfo
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [System Object](Word.System.md)

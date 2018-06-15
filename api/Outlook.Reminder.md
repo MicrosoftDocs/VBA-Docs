@@ -32,7 +32,7 @@ Use the  **Reminders** collection's **[Remove](http://msdn.microsoft.com/library
 The following example displays the caption of the first reminder in the collection.
 
 
-```
+```vb
 Sub ViewReminderInfo() 
  
  'Displays information about first reminder in collection 
@@ -75,7 +75,7 @@ The following example creates a new appointment item and sets the  **ReminderSet
 
 
 
-```
+```vb
 Sub AddAppt() 
  
  'Adds a new appointment and reminder to the reminders collection 

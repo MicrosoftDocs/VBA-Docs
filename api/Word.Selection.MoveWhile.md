@@ -42,15 +42,12 @@ While any character in Cset is found, the specified selection is moved. The resu
 This example moves the selection after consecutive tabs.
 
 
-```
+```vb
 Selection.MoveWhile Cset:=vbTab, Count:=wdForward
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

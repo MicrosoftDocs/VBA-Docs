@@ -41,7 +41,7 @@ Returns the label of the specified undo list item.
 The following example returns the label of the first item in the undo list.
 
 
-```
+```vb
 GetUndoListItem(1)
 ```
 

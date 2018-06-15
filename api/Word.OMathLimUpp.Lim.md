@@ -26,8 +26,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the u
 ## See also
 
 
-#### Concepts
-
-
 [OMathLimUpp Object](Word.OMathLimUpp.md)
 

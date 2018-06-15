@@ -31,8 +31,5 @@ The only supported string is "MAPI."
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

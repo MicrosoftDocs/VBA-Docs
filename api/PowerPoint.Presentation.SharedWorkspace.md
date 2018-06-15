@@ -79,8 +79,5 @@ Set objWorkspace = ActivePresentation.SharedWorkspace
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

@@ -26,8 +26,5 @@ The  **GenerateTableRefs** property determines whether the traditional notation 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

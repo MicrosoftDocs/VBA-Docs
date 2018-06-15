@@ -26,8 +26,5 @@ Returns a collection that represents all the shapes on the chart sheet. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

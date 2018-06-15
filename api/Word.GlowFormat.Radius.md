@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the length of the radius for a glo
 ## See also
 
 
-#### Concepts
-
-
 [GlowFormat Object](Word.GlowFormat.md)
 

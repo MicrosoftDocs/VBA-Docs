@@ -26,8 +26,5 @@ Returns an  **[AttachmentSelection](Outlook.AttachmentSelection.md)** object con
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

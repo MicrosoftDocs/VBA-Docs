@@ -40,8 +40,5 @@ myShape.ShapeStyle = msoLineStylePreset12
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

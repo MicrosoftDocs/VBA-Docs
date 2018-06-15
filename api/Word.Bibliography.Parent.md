@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Bibl
 ## See also
 
 
-#### Concepts
-
-
 [Bibliography Object](Word.Bibliography.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **Long** value that represents the trendline order (an intege
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Excel.Trendline(objec).md)
 

@@ -26,8 +26,5 @@ Saves the  **[SharingItem](Outlook.SharingItem.md)** to the current folder or, i
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

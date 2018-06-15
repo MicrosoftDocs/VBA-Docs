@@ -46,8 +46,5 @@ myShapeRange.Align msoAlignLefts, False
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

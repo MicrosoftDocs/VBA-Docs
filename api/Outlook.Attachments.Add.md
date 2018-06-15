@@ -66,9 +66,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Attachments Object](Outlook.Attachments.md)
 #### Other resources
 

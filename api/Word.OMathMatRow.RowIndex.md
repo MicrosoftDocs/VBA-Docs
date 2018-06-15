@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the ordinal position of a matrix row
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatRow Object](Word.OMathMatRow.md)
 

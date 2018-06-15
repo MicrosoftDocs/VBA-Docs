@@ -25,16 +25,13 @@ Removes the specified custom tab stop
 This example clears the first custom tab in the first paragraph of the active Microsoft Word document.
 
 
-```
+```vb
 ActiveDocument.Paragraphs(1).TabStops2(1).Clear 
 
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TabStop2 Object](tabstop2-object-office.md)

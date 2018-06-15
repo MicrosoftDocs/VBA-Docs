@@ -34,8 +34,5 @@ Setting  **EnableProofingToolsAdvertisement** to **True** is the equivalent of s
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

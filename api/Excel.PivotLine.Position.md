@@ -26,8 +26,5 @@ Returns or sets the position of the  **PivotLine** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [PivotLine Object](Excel.PivotLine.md)
 

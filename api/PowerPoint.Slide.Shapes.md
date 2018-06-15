@@ -96,8 +96,5 @@ testShape.TextFrame.TextRange.Text = "First Item" &; _
 ## See also
 
 
-#### Concepts
-
-
 [Slide Object](PowerPoint.Slide.md)
 

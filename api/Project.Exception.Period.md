@@ -23,7 +23,4 @@ Gets or sets the period for calendar exception recurrences, specified as the num
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

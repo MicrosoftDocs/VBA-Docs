@@ -42,8 +42,5 @@ Worksheets(1).PivotTables("Pivot1") _
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

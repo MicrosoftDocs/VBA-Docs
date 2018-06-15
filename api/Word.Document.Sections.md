@@ -55,8 +55,5 @@ mysec.Range.InsertAfter "This is section 2"
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

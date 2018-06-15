@@ -31,8 +31,5 @@ Attempting to delete the only existing row in a table will result in a run-time 
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](PowerPoint.Row.md)
 

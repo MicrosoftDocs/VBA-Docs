@@ -41,8 +41,5 @@ Set objSession = Application.Session
 ## See also
 
 
-#### Concepts
-
-
 [NotesModule Object](Outlook.NotesModule.md)
 

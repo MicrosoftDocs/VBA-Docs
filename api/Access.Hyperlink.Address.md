@@ -33,8 +33,5 @@ For more information about hyperlink addresses and their format, see the  **Hype
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Access.Hyperlink.md)
 

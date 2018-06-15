@@ -26,8 +26,5 @@ You can use the  **AllStoredProcedures** property to reference the **[AllStoredP
 ## See also
 
 
-#### Concepts
-
-
 [CurrentData Object](Access.CurrentData.md)
 

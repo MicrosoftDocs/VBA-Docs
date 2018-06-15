@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Rang
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

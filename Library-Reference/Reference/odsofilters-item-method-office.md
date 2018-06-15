@@ -41,15 +41,12 @@ Object
 The following example retrieves an  **ODSOFilter** object from the **ODSOFilters** collection.
 
 
-```
+```vb
 oOdsoFilter = oOdsoFilters.Item(1)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ODSOFilters Object](odsofilters-object-office.md)

@@ -26,7 +26,7 @@ Use the  **[Item](Outlook.OutlookBarGroups.Item.md)** method to retrieve the **O
 The following example retrieves an  **OutlookBarGroup** object by name.
 
 
-```
+```vb
 Set myOlBarGroup = myOutlookBarGroups.Item("Other Shortcuts")
 ```
 

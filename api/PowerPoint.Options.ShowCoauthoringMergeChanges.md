@@ -36,8 +36,5 @@ Set this value to  **msoTrue** for the application to show changes. The default 
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](PowerPoint.Options.md)
 

@@ -36,8 +36,5 @@ ActiveSheet.PivotTables("PivotTable2").GrandTotalName = "Regional Total"
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

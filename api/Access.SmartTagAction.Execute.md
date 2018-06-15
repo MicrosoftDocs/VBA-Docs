@@ -38,8 +38,5 @@ Calling the  **Execute** method will result in a run-time error if the smart tag
 ## See also
 
 
-#### Concepts
-
-
 [SmartTagAction Object](Access.SmartTagAction.md)
 

@@ -39,8 +39,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Browser Object](Word.Browser.md)
 

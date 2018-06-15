@@ -23,7 +23,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 ## See also
 
 
-#### Concepts
-
-
 [Tasks Collection Object](Project.tasks(object).md)

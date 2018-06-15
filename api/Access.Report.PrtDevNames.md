@@ -47,8 +47,5 @@ Microsoft Access uses the DEVNAMES structure to initialize the  **Print** dialog
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

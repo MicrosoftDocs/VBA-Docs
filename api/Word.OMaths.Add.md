@@ -56,8 +56,5 @@ objEq.BuildUp
 ## See also
 
 
-#### Concepts
-
-
 [OMaths Object](Word.OMaths.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that is **True** if a reminder has been set
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

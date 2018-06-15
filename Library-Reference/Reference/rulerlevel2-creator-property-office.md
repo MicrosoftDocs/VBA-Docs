@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [RulerLevel2 Object](rulerlevel2-object-office.md)
 #### Other resources
 

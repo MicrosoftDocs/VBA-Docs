@@ -58,8 +58,5 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=2, NumColumns:=2
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

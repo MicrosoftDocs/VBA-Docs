@@ -26,8 +26,5 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [NoteItem Object](Outlook.NoteItem.md)
 

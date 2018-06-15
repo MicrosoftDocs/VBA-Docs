@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [NamedSlideShows Object](PowerPoint.NamedSlideShows.md)
 

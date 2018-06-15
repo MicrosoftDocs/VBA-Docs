@@ -33,8 +33,5 @@ An error occurs if you attempt to set the value of this property for any  **Navi
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroup Object](Outlook.NavigationGroup.md)
 

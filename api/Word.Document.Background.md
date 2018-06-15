@@ -56,8 +56,5 @@ ActiveDocument.Background.Fill.UserPicture _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

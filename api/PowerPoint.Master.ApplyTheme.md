@@ -53,8 +53,5 @@ ActivePresentation.SlideMaster.ApplyTheme "C:\Program Files\Microsoft Office\Tem
 ## See also
 
 
-#### Concepts
-
-
 [Master Object](PowerPoint.Master.md)
 

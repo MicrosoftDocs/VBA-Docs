@@ -80,8 +80,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ActionSetting Object](actionsetting-object-powerpoint.md)
 

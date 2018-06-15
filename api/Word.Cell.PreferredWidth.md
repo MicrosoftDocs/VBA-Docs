@@ -31,8 +31,5 @@ If the  **PreferredWidthType** property is set to **wdPreferredWidthPoints** , t
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

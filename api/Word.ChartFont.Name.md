@@ -26,8 +26,5 @@ Returns or sets the name of the object. Read/write  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [ChartFont Object](Word.ChartFont.md)
 

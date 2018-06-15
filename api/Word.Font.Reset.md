@@ -28,15 +28,12 @@ Removes manual character formatting (formatting not applied using a style). For 
 This example removes manual formatting from the selection.
 
 
-```
+```vb
 Selection.Font.Reset
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Font Object](Word.Font.md)

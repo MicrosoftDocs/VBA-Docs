@@ -23,8 +23,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [GridLines Object](PowerPoint.GridLines.md)
 

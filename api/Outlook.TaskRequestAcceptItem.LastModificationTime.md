@@ -114,8 +114,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

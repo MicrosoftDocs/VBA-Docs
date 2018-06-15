@@ -31,8 +31,5 @@ Indicates whether the media controls are currently visible. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [View Object](PowerPoint.View.md)
 

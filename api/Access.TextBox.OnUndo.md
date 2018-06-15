@@ -59,8 +59,5 @@ Next ctlLoop
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

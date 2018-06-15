@@ -26,8 +26,5 @@ Returns a  **String** value that represents the complete path to the workbook/fi
 ## See also
 
 
-#### Concepts
-
-
 [RecentFile Object](Excel.RecentFile.md)
 

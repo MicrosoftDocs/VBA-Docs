@@ -20,7 +20,7 @@ All [arguments](vbe-glossary.md) in a call to a[procedure](vbe-glossary.md) defi
     
 
 
-  ```
+  ```vb
   MySub Arg1, Arg2, 7,, 44,,,3 
   ```
 

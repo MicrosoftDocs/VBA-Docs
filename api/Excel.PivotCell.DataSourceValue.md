@@ -38,8 +38,5 @@ Reading the  **DataSourceValue** property for cells that are outside of the valu
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

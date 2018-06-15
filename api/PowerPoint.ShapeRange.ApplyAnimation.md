@@ -26,8 +26,5 @@ Applies animation to a  **ShapeRange** object.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

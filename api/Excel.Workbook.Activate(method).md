@@ -41,8 +41,5 @@ Workbooks("BOOK4.XLS").Activate
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

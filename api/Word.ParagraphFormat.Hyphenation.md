@@ -41,8 +41,5 @@ ActiveDocument.Styles("Normal").ParagraphFormat.Hyphenation = False
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

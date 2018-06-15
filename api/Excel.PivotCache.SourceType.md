@@ -26,8 +26,5 @@ Returns a  **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value t
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

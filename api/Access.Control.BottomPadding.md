@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the control and its bottom 
 ## See also
 
 
-#### Concepts
-
-
 [Control Object](Access.Control.md)
 

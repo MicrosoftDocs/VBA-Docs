@@ -31,8 +31,5 @@ This property is similar to the  **[ExchangeConnectionMode](Outlook.NameSpace.Ex
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

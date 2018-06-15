@@ -41,7 +41,7 @@ Provides a signature povider add-in the opportunity to display details about a s
 The following example, written in C#, shows the implementation of the  **ShowSignatureDetails** method in a custom signature provider project.
 
 
-```
+```vb
  public void ShowSignatureDetails(object parentWindow, SignatureSetup sigsetup, SignatureInfo siginfo, object xmldsigStream, ref ContentVerificationResults contverresults, ref CertificateVerificationResults certverresults) 
  { 
  using (Win32WindowFromOleWindow window = new Win32WindowFromOleWindow(parentWindow)) 
@@ -61,9 +61,6 @@ The following example, written in C#, shows the implementation of the  **ShowSig
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureProvider Object](signatureprovider-object-office.md)

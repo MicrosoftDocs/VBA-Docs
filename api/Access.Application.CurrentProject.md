@@ -37,8 +37,5 @@ Use the  **CurrentProject** property to refer to one of the following current da
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

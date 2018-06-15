@@ -61,8 +61,5 @@ ws.Range("A2").CopyFromRecordset rs
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

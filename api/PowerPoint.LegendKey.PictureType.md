@@ -23,8 +23,5 @@ Returns or sets the way pictures are displayed on a legend key. Read/write  **[X
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](PowerPoint.LegendKey.md)
 

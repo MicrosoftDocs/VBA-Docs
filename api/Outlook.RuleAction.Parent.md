@@ -31,8 +31,5 @@ The parent of the  **[RuleAction](Outlook.RuleAction.md)** object is the **[Rule
 ## See also
 
 
-#### Concepts
-
-
 [RuleAction Object](Outlook.RuleAction.md)
 

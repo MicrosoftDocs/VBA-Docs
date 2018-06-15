@@ -47,8 +47,5 @@ ActiveWindow.View = xlPageBreakPreview
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

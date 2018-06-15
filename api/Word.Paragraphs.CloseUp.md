@@ -39,15 +39,12 @@ ActiveDocument.Paragraphs.SpaceBefore = 0
 This example removes any space before the first paragraph in the selection.
 
 
-```
+```vb
 Selection.Paragraphs.CloseUp
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Paragraphs Collection Object](Word.paragraphs.md)

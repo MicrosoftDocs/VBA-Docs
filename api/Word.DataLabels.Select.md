@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](Word.DataLabels.md)
 

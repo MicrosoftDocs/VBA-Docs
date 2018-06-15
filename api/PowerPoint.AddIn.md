@@ -26,7 +26,7 @@ The  **AddIn** object is a member of the **[AddIns](PowerPoint.AddIns.md)** coll
 Use  **AddIns** (index), where index is the add-in's title or index number, to return a single **AddIn** object. The following example loads the My Ppt Tools add-in.
 
 
-```
+```vb
 AddIns("my ppt tools").Loaded = True
 ```
 
@@ -37,7 +37,7 @@ The index number represents the position of the add-in in the  **Add-Ins** tab. 
 
 
 
-```
+```vb
 For i = 1 To AddIns.Count
 
     If AddIns(i).Loaded Then MsgBox AddIns(i).Name
@@ -50,7 +50,7 @@ Use the [Add](PowerPoint.AddIns.Add.md)method to add a PowerPoint-specific add-i
 
 
 
-```
+```vb
 AddIns.Add("generic.ppa").Loaded = True
 ```
 
@@ -71,9 +71,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)

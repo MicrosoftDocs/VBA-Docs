@@ -36,7 +36,7 @@ Gets a  **MsoAppLanguageID** constant representing the locale identifier (LCID) 
 This Microsoft Excel example checks the  **LanguageID** property settings for the user interface and execution mode to verify that they are set to the same LCID. The example returns an error if there is a discrepancy.
 
 
-```
+```vb
 If Application.LanguageSettings.LanguageID(msoLanguageIDExeMode) _ 
  > Application.LanguageSettings.LanguageID(msoLanguageIDUI) _ 
  Then MsgBox "The user interface language and execution " &amp; _ 
@@ -45,9 +45,6 @@ If Application.LanguageSettings.LanguageID(msoLanguageIDExeMode) _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [LanguageSettings Object](languagesettings-object-office.md)

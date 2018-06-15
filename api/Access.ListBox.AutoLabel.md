@@ -26,8 +26,5 @@ Specifies whether labels are automatically created and attached to new controls.
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

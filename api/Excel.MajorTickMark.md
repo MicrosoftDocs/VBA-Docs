@@ -32,7 +32,7 @@ Returns or sets the type of major tick mark for the specified axis. Read/write X
 This example sets the major tick marks for the value axis to be outside the axis.
 
 
-```
+```vb
 myChart.Axes(xlValue).MajorTickMark = xlTickMarkOutside
 ```
 

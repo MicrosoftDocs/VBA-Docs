@@ -53,8 +53,5 @@ Set Forms!Orders!OLECustomControl.Picture = _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

@@ -26,8 +26,5 @@ Returns the parent  **Object** of the **[Table](Outlook.Table.md)** object. Read
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Outlook.Table.md)
 

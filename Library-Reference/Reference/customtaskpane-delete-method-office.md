@@ -28,7 +28,7 @@ Deletes the active custom task pane.
 The following example, written in C#, creates an instance of a  **CustomTaskPane** object and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes a **CTPFactory** object to the add-in, that can be used during the add-in's lifetime to create task panes by using the **CreateCTP** method. The project also implements a button that is used to delete the active task pane. Note that the example assumes that the task pane is part of an COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also refers to a Microsoft ActiveX® control, SampleActiveX.myControl, that was created in a separate project.
 
 
-```
+```vb
 public class Connect : Object, Extensibility.IDTExtensibility2, ICustomTaskPaneConsumer 
 ... 
 object missing = Type.Missing; 
@@ -50,9 +50,6 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomTaskPane Object](customtaskpane-object-office.md)

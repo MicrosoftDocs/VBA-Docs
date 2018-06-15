@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents whether left and right indents are t
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

@@ -41,7 +41,7 @@ Returns or sets default folders for items such as documents, templates, and grap
 This example sets the default folder for Word documents.
 
 
-```
+```vb
 Options.DefaultFilePath(wdDocumentsPath) = "C:\Documents"
 ```
 
@@ -58,9 +58,6 @@ strPath = Options.DefaultFilePath(wdUserTemplatesPath)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

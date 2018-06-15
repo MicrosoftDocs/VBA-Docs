@@ -26,8 +26,5 @@ Returns or sets the height of the active document window in pixels. Read/write  
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

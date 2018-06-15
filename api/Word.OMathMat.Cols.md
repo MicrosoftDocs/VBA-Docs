@@ -26,8 +26,5 @@ Returns an  **[OMathMatCols](Word.OMathMatCols.md)** collection that represents 
 ## See also
 
 
-#### Concepts
-
-
 [OMathMat Object](Word.OMathMat.md)
 

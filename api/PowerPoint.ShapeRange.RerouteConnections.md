@@ -57,8 +57,5 @@ newConnector.RerouteConnections
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **[CoA
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthLock Object](Word.CoAuthLock.md)
 

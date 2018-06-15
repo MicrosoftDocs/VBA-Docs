@@ -26,8 +26,5 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 ## See also
 
 
-#### Concepts
-
-
 [Mailer Object](Excel.Mailer.md)
 

@@ -36,8 +36,5 @@ The  **ServerPolicy** object represents a policy specified for a document type s
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

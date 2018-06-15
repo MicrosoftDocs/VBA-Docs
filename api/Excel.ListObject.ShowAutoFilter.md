@@ -48,8 +48,5 @@ The following example displays the setting of the  **ShowAutoFilter** property t
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

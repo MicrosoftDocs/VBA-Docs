@@ -31,8 +31,5 @@ The default value is  **True** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

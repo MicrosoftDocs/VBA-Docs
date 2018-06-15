@@ -26,8 +26,5 @@ Returns a  **[LanguageSettings](http://msdn.microsoft.com/library/936f7d61-87e5-
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

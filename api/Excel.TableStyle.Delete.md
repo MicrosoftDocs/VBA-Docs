@@ -31,8 +31,5 @@ Nothing
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Excel.TableStyle.md)
 

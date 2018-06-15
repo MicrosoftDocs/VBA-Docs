@@ -28,7 +28,7 @@ Returns a  **String** that represents the GUID of the sharing provider used by t
 The GUID is returned as a string using the following format:
 
 
-```
+```vb
 {00000000-0000-0000-0000-000000000000}
 ```
 
@@ -36,9 +36,6 @@ If the  **[SharingProvider](Outlook.SharingItem.SharingProvider.md)** property o
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharingItem Object](Outlook.SharingItem.md)

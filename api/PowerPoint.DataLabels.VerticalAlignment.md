@@ -41,8 +41,5 @@ You can set the value of this property to one of the following  **[XlConstants](
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](PowerPoint.DataLabels.md)
 

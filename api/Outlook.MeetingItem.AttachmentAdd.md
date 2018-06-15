@@ -31,8 +31,5 @@ Occurs when an attachment has been added to an instance of the parent object.
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

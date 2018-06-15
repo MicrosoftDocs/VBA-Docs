@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Shap
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNode Object](Word.ShapeNode.md)
 

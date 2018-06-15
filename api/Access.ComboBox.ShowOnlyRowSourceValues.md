@@ -26,8 +26,5 @@ Gets or sets whether the combo box can display values that aren't specified by t
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

@@ -36,8 +36,5 @@ MsgBox "The name of the active window is " &; ActiveWindow.Caption
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

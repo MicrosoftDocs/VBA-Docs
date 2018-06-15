@@ -49,8 +49,5 @@ ActiveDocument.ListTemplates(1).Convert
 ## See also
 
 
-#### Concepts
-
-
 [ListTemplate Object](Word.ListTemplate.md)
 

@@ -41,8 +41,5 @@ MsgBox "There are " &; Selection.Words.Count &; " words."
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

@@ -48,8 +48,5 @@ The  **WordEditor** property is only valid if the **[IsWordMail](Outlook.Inspect
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

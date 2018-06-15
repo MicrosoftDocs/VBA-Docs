@@ -28,8 +28,5 @@ Use the  **Parent** property to access the properties or methods of the parent o
 ## See also
 
 
-#### Concepts
-
-
 [Groups2 Collection Object](Project.groups2.md)
 

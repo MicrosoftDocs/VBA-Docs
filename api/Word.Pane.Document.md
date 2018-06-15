@@ -26,8 +26,5 @@ Returns a  **[Document](Word.Document.md)** object associated with the specified
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

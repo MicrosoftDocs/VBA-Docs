@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 The following example assigns  `replyToBlog` as the internal name of a custom action, and specifies `Re` as the subject line prefix for the resulting item:
 
 
-```
+```vb
 <customActions>
     <action name="replyToBlog">
         <subjectPrefix>Re</subjectPrefix>

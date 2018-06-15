@@ -43,8 +43,5 @@ ActiveSheet.PivotTables(1).TotalsAnnotation = False
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -31,8 +31,5 @@ The  **[TickLabelSpacing](Excel.Axis.TickLabelSpacing.md)** property returns the
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Excel.Axis(objec).md)
 

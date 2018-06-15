@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the list box and its left g
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

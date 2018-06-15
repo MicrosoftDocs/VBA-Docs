@@ -26,8 +26,5 @@ Deletes the specified version.
 ## See also
 
 
-#### Concepts
-
-
 [Version Object](Word.Version.md)
 

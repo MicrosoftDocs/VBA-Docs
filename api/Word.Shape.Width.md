@@ -26,8 +26,5 @@ Returns or sets the width, in points, of the specified shape. Read/write  **Long
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

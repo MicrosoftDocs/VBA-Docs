@@ -23,8 +23,5 @@ Returns the contour color for a  **ThreeDFormat** object. Read-only **ColorForma
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

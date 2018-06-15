@@ -118,7 +118,7 @@ The  **[LastModified](http://msdn.microsoft.com/library/7386F25B-BDE1-A446-E980-
 
 
 
-```
+```vb
 rstCustomers.Bookmark = rstCustomers.LastModified 
 
 ```

@@ -28,8 +28,5 @@ The value of this property can be from 2 through 72.
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](PowerPoint.LegendKey.md)
 

@@ -26,8 +26,5 @@ Returns the workbook connection type. Read-only  **[XlConnectionType](Excel.XlCo
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

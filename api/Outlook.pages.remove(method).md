@@ -29,8 +29,5 @@ Removes a member from a collection.
 ## See also
 
 
-#### Concepts
-
-
  [Pages Object](Outlook.pages(object).md)
 

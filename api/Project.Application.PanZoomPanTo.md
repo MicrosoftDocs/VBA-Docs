@@ -45,7 +45,7 @@ To zoom the Gantt chart in or out, which changes the timescale, use the  **[PanZ
 The following command moves the beginning of the visible Gantt chart to March 18, 2012.
 
 
-```
+```vb
 PanZoomPanTo Start:="3/18/2012" 
 
 ```

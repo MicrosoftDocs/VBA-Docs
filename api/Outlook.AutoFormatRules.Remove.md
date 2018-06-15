@@ -41,8 +41,5 @@ Built-in formatting rules cannot be removed from the collection.
 ## See also
 
 
-#### Concepts
-
-
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

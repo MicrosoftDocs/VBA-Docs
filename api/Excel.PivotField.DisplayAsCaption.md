@@ -31,8 +31,5 @@ This property returns  **True** when a given member property is used as a captio
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

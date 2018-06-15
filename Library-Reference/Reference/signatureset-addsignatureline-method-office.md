@@ -46,7 +46,7 @@ After the line is added, the author of the document can add the necessary inform
 The procedure in the following example receives the ID of a signature provider and, as long as the document is not read-only, adds a signature line.
 
 
-```
+```vb
 Function InsertSignatureLines(ByVal SignProviderID As Variant) As Signature 
 Dim objSignature As Signature 
  
@@ -61,9 +61,6 @@ End Function
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureSet Object](signatureset-object-office.md)

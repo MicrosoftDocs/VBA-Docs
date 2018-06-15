@@ -26,8 +26,5 @@ Deletes the specified subdocument.
 ## See also
 
 
-#### Concepts
-
-
 [Subdocument Object](Word.Subdocument.md)
 

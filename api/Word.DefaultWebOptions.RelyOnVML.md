@@ -43,8 +43,5 @@ Application.DefaultWebOptions.RelyOnVML = False
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 

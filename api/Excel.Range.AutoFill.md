@@ -52,8 +52,5 @@ sourceRange.AutoFill Destination:=fillRange
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

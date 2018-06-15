@@ -47,7 +47,7 @@ You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argum
 This example displays the key combination string (CTRL+SHIFT+A) for the following  **WdKey** constants: **wdKeyControl** , **wdKeyShift** , and **wdKeyA** .
 
 
-```
+```vb
 CustomizationContext = ActiveDocument.AttachedTemplate 
 MsgBox KeyString(KeyCode:=BuildKeyCode(wdKeyControl, _ 
  wdKeyShift, wdKeyA))
@@ -55,9 +55,6 @@ MsgBox KeyString(KeyCode:=BuildKeyCode(wdKeyControl, _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

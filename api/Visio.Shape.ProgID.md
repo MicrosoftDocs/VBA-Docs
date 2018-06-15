@@ -39,7 +39,7 @@ These are strings that the  **ProgID** property might return:
 
 
 
-```
+```vb
  
 Visio.Drawing.5 
 MSGraph.Chart.5 

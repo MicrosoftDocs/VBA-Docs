@@ -47,8 +47,5 @@ ActiveDocument.Paragraphs(2).NoLineNumber = True
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

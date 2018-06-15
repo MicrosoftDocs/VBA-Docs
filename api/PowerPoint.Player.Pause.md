@@ -26,8 +26,5 @@ Pauses the media.
 ## See also
 
 
-#### Concepts
-
-
 [Player Object](PowerPoint.Player.md)
 

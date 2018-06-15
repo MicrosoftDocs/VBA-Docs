@@ -31,8 +31,5 @@ Returns  **Null** ( **Nothing** in Visual Basic) if the form region is displayed
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

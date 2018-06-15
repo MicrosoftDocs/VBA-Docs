@@ -45,7 +45,7 @@ Passing 0 to the  **SelectShape** method deselects the currently selected shape.
 The following code selects the shape at index position 2 in the collection of shapes in the drawing that is open in Visio Viewer.
 
 
-```
+```vb
 vsoViewer.SelectShape (2)
 ```
 

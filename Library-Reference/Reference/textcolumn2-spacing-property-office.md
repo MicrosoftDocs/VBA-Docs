@@ -28,9 +28,6 @@ Single
 ## See also
 
 
-#### Concepts
-
-
 [TextColumn2 Object](textcolumn2-object-office.md)
 #### Other resources
 

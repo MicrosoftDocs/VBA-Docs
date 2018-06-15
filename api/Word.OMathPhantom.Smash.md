@@ -31,8 +31,5 @@ If this property is  **True** , the **[ZeroAsc](Word.OMathPhantom.ZeroAsc.md)** 
 ## See also
 
 
-#### Concepts
-
-
 [OMathPhantom Object](Word.OMathPhantom.md)
 

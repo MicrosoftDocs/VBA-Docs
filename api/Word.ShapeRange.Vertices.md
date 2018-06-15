@@ -32,46 +32,43 @@ The following table shows how the  **Vertices** property associates values in th
 |**vertArray element**|**Contains**|
 |:-----|:-----|
 |
-```
+```vb
 vertArray(1, 1)
 ```
 
 |The horizontal distance from the first vertex to the left side of the document.|
 |
-```
+```vb
 vertArray(1, 2)
 ```
 
 |The vertical distance from the first vertex to the top of the document.|
 |
-```
+```vb
 vertArray(2, 1)
 ```
 
 |The horizontal distance from the second vertex to the left side of the document.|
 |
-```
+```vb
 vertArray(2, 2)
 ```
 
 |The vertical distance from the second vertex to the top of the document.|
 |
-```
+```vb
 vertArray(3, 1)
 ```
 
 |The horizontal distance from the third vertex to the left side of the document.|
 |
-```
+```vb
 vertArray(3, 2)
 ```
 
 |The vertical distance from the third vertex to the top of the document.|
 
 ## See also
-
-
-#### Concepts
 
 
 [ShapeRange Collection Object](Word.shaperange.md)

@@ -31,8 +31,5 @@ This property is used for each threshold of a color scale or data bar conditiona
 ## See also
 
 
-#### Concepts
-
-
 [FormatColor Object](Excel.FormatColor.md)
 

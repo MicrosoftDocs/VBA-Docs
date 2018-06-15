@@ -45,8 +45,5 @@ Use the  **[ExportXml](Excel.XmlMap.ExportXml.md)** method to export the content
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

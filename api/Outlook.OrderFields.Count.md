@@ -26,8 +26,5 @@ Returns a  **Long** value indicating the count of **[OrderField](Outlook.OrderFi
 ## See also
 
 
-#### Concepts
-
-
 [OrderFields Object](Outlook.OrderFields.md)
 

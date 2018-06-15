@@ -23,9 +23,6 @@ Retrieves the primary category name associated with the SmartArt color style. Re
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtColor Object](smartartcolor-object-office.md)
 #### Other resources
 

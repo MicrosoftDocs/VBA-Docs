@@ -44,8 +44,5 @@ The cut range must be made up of adjacent cells.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

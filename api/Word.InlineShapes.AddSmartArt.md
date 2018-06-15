@@ -40,8 +40,5 @@ InlineShape
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection Object](Word.inlineshapes.md)
 

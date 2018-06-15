@@ -26,8 +26,5 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that represen
 ## See also
 
 
-#### Concepts
-
-
 [TimeZones Object](Outlook.TimeZones.md)
 

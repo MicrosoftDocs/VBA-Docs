@@ -33,7 +33,7 @@ String
 The following example lists files in the shared workspace site that were created by users other than the creator of the workspace site.
 
 
-```
+```vb
  Dim swsFile As Office.SharedWorkspaceFile 
  Dim swsOwner As Office.SharedWorkspaceMember 
  Dim strMemberFiles As String 
@@ -56,9 +56,6 @@ The following example lists files in the shared workspace site that were created
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceFile Object](sharedworkspacefile-object-office.md)

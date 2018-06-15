@@ -31,8 +31,5 @@ You can assign the icon set by using the  **[IconSets](Excel.Workbook.IconSets.m
 ## See also
 
 
-#### Concepts
-
-
 [IconSetCondition Object](Excel.IconSetCondition.md)
 

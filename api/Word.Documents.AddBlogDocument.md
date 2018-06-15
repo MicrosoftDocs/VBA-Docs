@@ -42,8 +42,5 @@ This method creates a new document, and it also registers the specified blog acc
 ## See also
 
 
-#### Concepts
-
-
 [Documents Collection Object](Word.documents.md)
 

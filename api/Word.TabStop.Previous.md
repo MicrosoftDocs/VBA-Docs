@@ -26,8 +26,5 @@ Returns the previous tab stop in the collection. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [TabStop Object](Word.TabStop.md)
 

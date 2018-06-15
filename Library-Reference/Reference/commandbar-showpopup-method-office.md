@@ -50,7 +50,7 @@ When the screen location of the (x, y) coordinates would cause all or part of th
 This example creates a shortcut menu containing two controls. The  **ShowPopup** method is used to make the shortcut menu visible.
 
 
-```
+```vb
 Set myBar = CommandBars _ 
     .Add(Name:="Custom", Position:=msoBarPopup, Temporary:=False) 
 With myBar 
@@ -68,9 +68,6 @@ myBar.ShowPopup
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBar Object](commandbar-object-office.md)

@@ -21,7 +21,7 @@ Represents a single AutoCorrect entry. The  **AutoCorrectEntry** object is a mem
 Use  **[Entries](Word.AutoCorrect.Entries.md)** (index), where index is the AutoCorrect entry name or index number, to return a single **AutoCorrectEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown under **Replace** in the **AutoCorrect** dialog box. The following example sets the value of the AutoCorrect entry named "teh."
 
 
-```
+```vb
 AutoCorrect.Entries("teh").Value = "the"
 ```
 
@@ -30,7 +30,7 @@ Use the  **[Apply](Word.AutoCorrectEntry.Apply.md)** method to insert an AutoCor
 
 
 
-```
+```vb
 AutoCorrect.Entries.Add Name:="hellp", Value:="hello" 
 AutoCorrect.Entries("hellp").Apply Range:=Selection.Range
 ```
@@ -40,7 +40,7 @@ Use either the  **[Add](Word.AutoCorrectEntries.Add.md)** or **[AddRichText](Wor
 
 
 
-```
+```vb
 AutoCorrect.Entries.Add Name:="thier", Value:="their"
 ```
 
@@ -49,7 +49,7 @@ The following example creates an AutoCorrect entry named "PMO" based on the text
 
 
 
-```
+```vb
 AutoCorrect.Entries.AddRichText Name:="PMO", Range:=Selection.Range
 ```
 

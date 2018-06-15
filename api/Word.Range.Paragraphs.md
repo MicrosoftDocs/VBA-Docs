@@ -42,8 +42,5 @@ ActiveDocument.Sections(1).Range.Paragraphs.LineSpacingRule = _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -36,8 +36,5 @@ Returns whether there is a SmartArt diagram present on the specified shape. Read
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

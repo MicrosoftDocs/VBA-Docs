@@ -43,15 +43,12 @@ This example returns the status of the  **Snap to grid** option in the **Snap to
 
 
 
-```
+```vb
 Temp = Options.SnapToGrid
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

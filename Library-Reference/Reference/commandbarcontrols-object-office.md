@@ -27,7 +27,7 @@ A collection of  **CommandBarControl** objects that represent the command bar co
 Use the  **Controls** property to return the **CommandBarControls** collection. The following example changes the caption of every control on the toolbar named "Standard" to the current value of the **Id** property for that control.
 
 
-```
+```vb
 For Each ctl In CommandBars("Standard").Controls 
     ctl.Caption = CStr(ctl.Id) 
 Next ctl
@@ -38,7 +38,7 @@ Use the  **Add** method to add a new command bar control to the **CommandBarCont
 
 
 
-```
+```vb
 Set myBlankBtn = CommandBars("Custom").Controls.Add
 ```
 
@@ -47,7 +47,7 @@ Use Controls(index), where  _index_ is the caption or index number of a control,
 
 
 
-```
+```vb
 Set myCustomBar = CommandBars("Custom") 
 Set myControl = CommandBars("Standard").Controls(1) 
 myControl.Copy Bar:=myCustomBar, Before:=1
@@ -55,9 +55,6 @@ myControl.Copy Bar:=myCustomBar, Before:=1
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

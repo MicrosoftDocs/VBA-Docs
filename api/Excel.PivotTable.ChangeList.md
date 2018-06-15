@@ -31,8 +31,5 @@ Returns the  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collectio
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

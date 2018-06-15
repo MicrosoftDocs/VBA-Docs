@@ -26,8 +26,5 @@ Returns whether the specified window is active. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 

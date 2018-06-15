@@ -34,9 +34,6 @@ This method corresponds to the  **Collapse All Headings** command on the **Expan
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 #### Other resources
 

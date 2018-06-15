@@ -17,7 +17,7 @@ You can use a [named argument](vbe-glossary.md) only once in the[argument](vbe-g
 
 - You specified the same named argument more than once in a single call. For example, if the procedure  `MySub` expects the named arguments `Arg1` and `Arg2`, the following call would generate this error:
     
-  ```
+  ```vb
   Call MySub(Arg1 := 3, Arg1 := 5) 
 
   ```
@@ -27,7 +27,7 @@ You can use a [named argument](vbe-glossary.md) only once in the[argument](vbe-g
     
 - You specified the same [argument](vbe-glossary.md) both by position and with a named argument, for example:
     
-  ```
+  ```vb
   Call MySub(1, Arg1 := 3) 
 
   ```

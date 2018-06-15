@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether the width of a phantom ob
 ## See also
 
 
-#### Concepts
-
-
 [OMathPhantom Object](Word.OMathPhantom.md)
 

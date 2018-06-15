@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagConversationIndex** .
 ## See also
 
 
-#### Concepts
-
-
 [ReportItem Object](Outlook.ReportItem.md)
 

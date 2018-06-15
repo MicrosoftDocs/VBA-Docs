@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

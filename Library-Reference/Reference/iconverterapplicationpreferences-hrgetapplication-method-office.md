@@ -39,9 +39,6 @@ This feature is only available in the Open XML Format SDK.
 ## See also
 
 
-#### Concepts
-
-
 [IConverterApplicationPreferences Object](iconverterapplicationpreferences-object-office.md)
 #### Other resources
 

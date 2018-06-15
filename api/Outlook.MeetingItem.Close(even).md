@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.MeetingItem.Close(method).md)** method to fire
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

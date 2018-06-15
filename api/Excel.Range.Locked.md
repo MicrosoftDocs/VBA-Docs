@@ -42,8 +42,5 @@ Worksheets("Sheet1").Protect
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

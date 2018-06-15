@@ -31,8 +31,5 @@ For information about using events with the Application object, see  [Using Even
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

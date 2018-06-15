@@ -43,8 +43,5 @@ Me.ctl.BackTint=25
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

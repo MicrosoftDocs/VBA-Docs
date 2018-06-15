@@ -31,8 +31,5 @@ This property is helpful for programmatically changing the action Microsoft Acce
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

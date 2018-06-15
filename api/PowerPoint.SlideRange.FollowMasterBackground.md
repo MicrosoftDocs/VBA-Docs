@@ -48,7 +48,7 @@ Note that the look of the slide's background is determined by the color scheme a
 This example copies slide one from presentation two, pastes the slide at the end of presentation one, and matches the slide's background, color scheme, and background objects to the rest of presentation one.
 
 
-```
+```vb
 Presentations(2).Slides(1).Copy
 
 With Presentations(1).Slides.Paste
@@ -64,9 +64,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideRange Object](PowerPoint.SlideRange.md)

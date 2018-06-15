@@ -33,8 +33,5 @@ This function affects only the sheet that's currently active in the window. To u
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

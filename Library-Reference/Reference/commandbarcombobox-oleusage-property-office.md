@@ -41,9 +41,6 @@ If one of the merging applications isn't an Office application, normal OLE menu 
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

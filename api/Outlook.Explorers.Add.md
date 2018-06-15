@@ -79,8 +79,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Explorers Object](Outlook.Explorers.md)
 

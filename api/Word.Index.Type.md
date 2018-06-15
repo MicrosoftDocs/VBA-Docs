@@ -26,8 +26,5 @@ Returns or sets the index type. Read/write  **[WdIndexType](Word.WdIndexType.md)
 ## See also
 
 
-#### Concepts
-
-
 [Index Object](Word.Index.md)
 

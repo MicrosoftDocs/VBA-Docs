@@ -81,8 +81,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Adjustments Object](PowerPoint.Adjustments.md)
 

@@ -55,8 +55,5 @@ Forms(0).DatasheetColumnHeaderUnderlineStyle = 5
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -27,7 +27,7 @@ In a host application such as Microsoft PowerPoint, saves a chart in the specifi
 This example saves the chart in Microsoft Graph version 5.0 file format.
 
 
-```
+```vb
 myChart.Application.SaveAsOldFileFormat MajorVersion:=5
 ```
 

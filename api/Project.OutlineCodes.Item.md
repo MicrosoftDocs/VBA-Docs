@@ -31,7 +31,4 @@ Gets a single  **OutlineCode** object from the **OutlineCodes** collection. Read
 ## See also
 
 
-#### Concepts
-
-
 [OutlineCodes Collection Object](Project.outlinecodes(object).md)

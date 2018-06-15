@@ -31,9 +31,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [SignatureSet Object](signatureset-object-office.md)
 #### Other resources
 

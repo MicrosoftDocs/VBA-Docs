@@ -26,8 +26,5 @@ Resets the tab order of the controls in the specified  **Page** to their default
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Access.Page.md)
 

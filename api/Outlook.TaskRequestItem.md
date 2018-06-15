@@ -32,7 +32,7 @@ The following Visual Basic for Applications (VBA) example creates a simple task,
 
 
 
-```
+```vb
 Sub SendTask() 
  
  Dim myItem As Outlook.TaskItem 

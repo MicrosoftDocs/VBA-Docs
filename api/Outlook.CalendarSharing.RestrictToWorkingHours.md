@@ -36,8 +36,5 @@ This property must be set to  **False** if the **[CalendarDetail](Outlook.Calend
 ## See also
 
 
-#### Concepts
-
-
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 

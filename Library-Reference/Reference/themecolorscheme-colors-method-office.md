@@ -38,7 +38,7 @@ ThemeColor
 In the following example, the  **msoThemeAccent1** theme color is set to the color **Red** and then the scheme is saved to a file.
 
 
-```
+```vb
 Dim tTheme As OfficeTheme 
 Dim tcsThemeColorScheme As ThemeColorScheme 
 Dim tcThemeColor As ThemeColor 
@@ -50,9 +50,6 @@ tcsThemeColorScheme.Save ("C:\myThemeColorScheme.xml")
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ThemeColorScheme Object](themecolorscheme-object-office.md)

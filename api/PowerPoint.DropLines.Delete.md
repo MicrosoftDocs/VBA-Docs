@@ -26,9 +26,6 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 
 [DropLines Object](PowerPoint.DropLines.md)
 

@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

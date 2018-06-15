@@ -32,7 +32,7 @@ Returns or sets the name of the object. Read-only String.
 This example assigns the name of the first trendline to the variable myTrendname.
 
 
-```
+```vb
 myTrendname = myChart.SeriesCollection(1).Trendlines(1).Name
 ```
 

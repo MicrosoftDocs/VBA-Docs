@@ -23,7 +23,4 @@ Gets the number of occurrences of the calendar exception. Read/write  **Long**.
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

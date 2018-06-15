@@ -26,8 +26,5 @@ Gets or sets whether a section's height is adjusted automatically when controls 
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

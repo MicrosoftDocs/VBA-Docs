@@ -31,8 +31,5 @@ Returns the set of SmartArt layouts that are currently loaded in the application
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

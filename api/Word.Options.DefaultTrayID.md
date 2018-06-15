@@ -33,7 +33,7 @@ You can use the  **DefaultTray**property with a string from the  **Default tray*
 This example sets Word to use the upper print tray, and then it prints the active document.
 
 
-```
+```vb
 Options.DefaultTrayID = wdPrinterUpperBin 
 ActiveDocument.PrintOut
 ```
@@ -51,9 +51,6 @@ lngTray = Options.DefaultTrayID
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

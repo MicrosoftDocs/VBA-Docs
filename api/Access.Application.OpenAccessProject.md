@@ -50,8 +50,5 @@ If you have already opened a project and wish to open another project in the Mic
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

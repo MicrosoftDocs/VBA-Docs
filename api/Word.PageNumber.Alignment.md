@@ -26,8 +26,5 @@ Returns or sets a  **WdPageNumberAlignment** constant that represents the alignm
 ## See also
 
 
-#### Concepts
-
-
 [PageNumber Object](Word.PageNumber.md)
 

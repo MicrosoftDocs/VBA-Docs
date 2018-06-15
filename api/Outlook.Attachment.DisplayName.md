@@ -89,8 +89,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Outlook.Attachment.md)
 

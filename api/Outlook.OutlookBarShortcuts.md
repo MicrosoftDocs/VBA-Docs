@@ -26,7 +26,7 @@ Use the  **[Shortcuts](Outlook.OutlookBarGroup.Shortcuts.md)** property to retur
 The following Microsoft Visual Basic for Applications (VBA) example shows how to retrieve the  **OutlookBarShortcuts** object.
 
 
-```
+```vb
 Set myShortcuts = myOutlookBarGroup.Shortcuts
 ```
 

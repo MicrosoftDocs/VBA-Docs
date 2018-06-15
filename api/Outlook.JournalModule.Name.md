@@ -26,8 +26,5 @@ Returns a  **String** value that represents the localized display name for the *
 ## See also
 
 
-#### Concepts
-
-
 [JournalModule Object](Outlook.JournalModule.md)
 

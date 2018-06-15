@@ -14,7 +14,7 @@ With the  **ALTER TABLE** statement, you can add, remove, or change a column (or
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblCustomers 
    ADD COLUMN Address TEXT(30) 
 
@@ -24,7 +24,7 @@ To change the data type or size of a field, use the  **ALTER COLUMN** clause wit
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblCustomers 
    ALTER COLUMN Address TEXT(40) 
 
@@ -34,7 +34,7 @@ If you want to change the name of a field, you will have to remove the field and
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblCustomers 
    DROP COLUMN Address 
 
@@ -45,7 +45,7 @@ A default value is the value that is entered in a field any time a new record is
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblCustomers 
    ALTER COLUMN Address TEXT(40) DEFAULT Unknown 
 
@@ -55,7 +55,7 @@ Be aware that the default value is not enclosed in single quotation marks. If it
 
 
 
-```sql
+```vbsql
 CREATE TABLE tblCustomers ( 
    CustomerID INTEGER CONSTRAINT PK_tblCustomers 
       PRIMARY KEY,  
@@ -82,7 +82,7 @@ A single-field constraint, also known as a column-level constraint, is declared 
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblCustomers 
    ALTER COLUMN CustomerID INTEGER 
    CONSTRAINT PK_tblCustomers PRIMARY KEY 
@@ -94,7 +94,7 @@ Be aware that the name of the constraint is given. You could use a shortcut for 
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblCustomers 
    ALTER COLUMN CustomerID INTEGER PRIMARY KEY 
 
@@ -107,7 +107,7 @@ To drop a constraint, use the  **DROP CONSTRAINT** clause with the **ALTER TABLE
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblCustomers 
    DROP CONSTRAINT PK_tblCustomers 
 
@@ -118,7 +118,7 @@ Constraints also can be used to restrict the allowable values for a field. You c
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblCustomers 
    ADD CONSTRAINT CustomerID UNIQUE 
    ([Last Name], [First Name]) 
@@ -130,7 +130,7 @@ A check constraint is a powerful SQL feature that allows you to add data validat
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblInvoices 
    ADD CONSTRAINT CheckAmount 
    CHECK (Amount > 0) 
@@ -144,7 +144,7 @@ Suppose that you want to check each customer's credit limit before he or she is 
 
 
 
-```sql
+```vbsql
 CREATE TABLE tblCreditLimit ( 
    Limit DOUBLE) 
  
@@ -177,7 +177,7 @@ To enable cascading updates and deletions, use the  **ON UPDATE CASCADE** and/or
 
 
 
-```sql
+```vbsql
 ALTER TABLE tblShipping 
    ADD CONSTRAINT FK_tblShipping 
    FOREIGN KEY (CustomerID) REFERENCES 

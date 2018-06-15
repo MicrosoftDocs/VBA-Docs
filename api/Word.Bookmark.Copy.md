@@ -34,8 +34,5 @@ Copies a bookmark to the new bookmark specified in the Name argument, and return
 ## See also
 
 
-#### Concepts
-
-
 [Bookmark Object](Word.Bookmark.md)
 

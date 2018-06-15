@@ -31,8 +31,5 @@ A  **MailItem** object that represents the new mail item.
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

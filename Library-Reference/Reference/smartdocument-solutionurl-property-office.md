@@ -35,7 +35,7 @@ Provide appropriate values for the  **SolutionID** and **SolutionUrl** propertie
 The following example determines whether an XML expansion pack is attached to the active Word document, then displays the smart document's Solution URL.
 
 
-```
+```vb
  Dim objSmartDoc As Office.SmartDocument 
  Set objSmartDoc = ActiveDocument.SmartDocument 
  If objSmartDoc.SolutionID = "None" Or objSmartDoc.SolutionID = "" Then 
@@ -49,9 +49,6 @@ The following example determines whether an XML expansion pack is attached to th
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartDocument Object](smartdocument-object-office.md)

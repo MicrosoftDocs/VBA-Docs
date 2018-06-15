@@ -31,8 +31,5 @@ This method removes every  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objec
 ## See also
 
 
-#### Concepts
-
-
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

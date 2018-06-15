@@ -26,8 +26,5 @@ Returns the index position of the bookmark. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [MediaBookmark Object](PowerPoint.MediaBookmark.md)
 

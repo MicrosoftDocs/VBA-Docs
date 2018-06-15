@@ -33,7 +33,7 @@ Object
 This example displays the name of the parent object for a document property. You must pass a valid  **DocumentProperty** object to the procedure.
 
 
-```
+```vb
 Sub DisplayParent(dp as DocumentProperty) 
  MsgBox dp.Parent.Name 
 End Sub
@@ -41,9 +41,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentProperty Object](documentproperty-object-office.md)

@@ -27,7 +27,7 @@ Adds a custom chart autoformat to the list of available chart autoformats.
 This example adds a new autoformat.
 
 
-```
+```vb
 myChart.Application.AddChartAutoFormat _ 
  Name:="Presentation Chart"
 ```

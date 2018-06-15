@@ -39,8 +39,5 @@ Use the  **ScaleProportionally** method to resize a table and maintain the text 
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](PowerPoint.Table.md)
 

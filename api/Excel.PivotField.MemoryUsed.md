@@ -37,8 +37,5 @@ MsgBox "Microsoft Excel is currently using " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

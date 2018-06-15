@@ -47,15 +47,12 @@ Boolean
 The following sample returns True when the  **Bold** button is pressed.
 
 
-```
+```vb
 Application.CommandBars.GetPressedMso("Bold") 
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

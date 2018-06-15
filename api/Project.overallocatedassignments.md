@@ -26,7 +26,7 @@ The following example finds assignments where the resource is overallocated. Whe
 
  
 
-```
+```vb
 Sub FindOverallocatedAssignments()  
     Dim t As Task  
     Dim a As Assignment  

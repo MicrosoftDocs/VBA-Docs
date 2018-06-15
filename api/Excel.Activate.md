@@ -25,7 +25,7 @@ Activates the object.
 This example activates the datasheet.
 
 
-```
+```vb
 myChart.Application.DataSheet.Activate
 ```
 

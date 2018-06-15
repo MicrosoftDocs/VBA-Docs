@@ -18,15 +18,12 @@ A single semantic node within the data model of a Smart Art graphic.
 The following code returns the number of nodes in the Smart Art diagram.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Count 
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

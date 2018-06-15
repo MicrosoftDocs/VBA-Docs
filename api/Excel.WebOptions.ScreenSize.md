@@ -26,8 +26,5 @@ Returns or sets the ideal minimum screen size (width by height, in pixels) that 
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

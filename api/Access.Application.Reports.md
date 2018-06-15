@@ -31,8 +31,5 @@ The  **Reports** collection contains all of the currently open reports in a Micr
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

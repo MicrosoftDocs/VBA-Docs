@@ -39,8 +39,5 @@ Returns  **msoTrue** if the specified shape is a child shape or if all shapes in
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

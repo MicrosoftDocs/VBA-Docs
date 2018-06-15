@@ -21,7 +21,7 @@ Represents the mail merge and catalog merge functionality in Microsoft Publisher
 Use the  **[MailMerge](http://msdn.microsoft.com/library/15b1a8aa-3472-c67d-1d99-92617b05c157%28Office.15%29.aspx)** property to return the **MailMerge** object. The **MailMerge** object is always available regardless of whether the mail merge or catalog merge operation has begun. The following example merges and prints the main publication with the first three records in the attached data source.
 
 
-```
+```vb
 Sub SelectiveMerge() 
  Dim mrgMain As MailMerge 
  Set mrgMain = ActiveDocument.MailMerge 

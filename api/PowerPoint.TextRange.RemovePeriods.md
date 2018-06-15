@@ -38,8 +38,5 @@ Application.ActivePresentation.Slides(1) _
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

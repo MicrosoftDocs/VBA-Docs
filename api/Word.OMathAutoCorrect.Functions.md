@@ -26,8 +26,5 @@ Returns an  **[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)** col
 ## See also
 
 
-#### Concepts
-
-
 [OMathAutoCorrect Object](Word.OMathAutoCorrect.md)
 

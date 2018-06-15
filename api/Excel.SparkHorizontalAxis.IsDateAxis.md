@@ -36,8 +36,5 @@ Returns whether the horizontal axis of the sparkline is based on date values. Re
 ## See also
 
 
-#### Concepts
-
-
 [SparkHorizontalAxis Object](Excel.SparkHorizontalAxis.md)
 

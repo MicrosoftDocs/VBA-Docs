@@ -31,8 +31,5 @@ This property is only valid if the  **[ReminderOverrideDefault](Outlook.MailItem
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

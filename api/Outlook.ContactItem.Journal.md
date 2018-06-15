@@ -31,8 +31,5 @@ The default value is  **False** .
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

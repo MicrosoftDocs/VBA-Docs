@@ -54,7 +54,7 @@ To export a custom format PDF or XPS document, where you can use a pointer to a 
 If the active project shows a Network Diagram view, the following example creates an XPS document named TestProject.xps. When you open the file in the  **XPS Viewer** application, the last page includes document properties and a legend that shows the PERT chart symbols.
 
 
-```
+```vb
 DocumentExport FileName:="TestProject.xps", FileType:=pjXPS
 ```
 

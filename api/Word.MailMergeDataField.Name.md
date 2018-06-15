@@ -26,8 +26,5 @@ Returns name of the specified object. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataField Object](Word.MailMergeDataField.md)
 

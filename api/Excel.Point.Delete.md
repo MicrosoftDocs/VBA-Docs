@@ -36,8 +36,5 @@ Deleting a  **[Point](Excel.Point(objec).md)** object deletes the entire series.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Excel.Point(objec).md)
 

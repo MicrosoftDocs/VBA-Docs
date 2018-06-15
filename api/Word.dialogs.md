@@ -25,7 +25,7 @@ You cannot create a new built-in dialog box or add one to the  **Dialogs** colle
 
 
 
-```
+```vb
 dlgAnswer = Dialogs(wdDialogFileOpen).Show
 ```
 

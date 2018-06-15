@@ -50,8 +50,5 @@ pvtTable.PivotFields("REGION").DataRange.Select
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

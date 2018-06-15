@@ -26,8 +26,5 @@ Returns or sets a  **String** representing a free-form field, usually containing
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

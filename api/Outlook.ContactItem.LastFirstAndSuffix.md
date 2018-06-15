@@ -31,8 +31,5 @@ There is a comma between the last and first names and spaces between all the nam
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

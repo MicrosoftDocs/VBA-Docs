@@ -29,8 +29,5 @@ Returns an [Adjustments Object (Excel)](adjustments-object-excel.md) object. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Excel.ChartFormat.md)
 

@@ -48,7 +48,7 @@ For  **Page** objects, you can use the **GetFormulas** method to get formulas of
 
 
 
-```
+```vb
 {sheetID, sectionIdx, rowIdx, cellIdx}n
 ```
 

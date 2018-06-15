@@ -26,8 +26,5 @@ Returns a  **LinkFormat** object that represents the link options of the specifi
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

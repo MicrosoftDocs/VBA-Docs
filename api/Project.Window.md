@@ -41,7 +41,7 @@ Use  **Windows** (*Index* ), where*Index* is the window index number or window c
 
 
 
-```
+```vb
 Application.Windows(1).WindowState = pjMaximized
 ```
 
@@ -52,7 +52,7 @@ The window caption is the text shown in the title bar at the top of the window w
 
 
 
-```
+```vb
 If Application.Windows(1).Caption = "Project1" Then
     Application.Windows(1).Visible = False
 End If
@@ -69,7 +69,7 @@ Use the  **[Windows](Project.Application.Windows.md)** property to return a **Wi
 
 
 
-```
+```vb
 With Application.Windows
     For I = 1 To .Count
         .Item(I).Activate
@@ -86,7 +86,7 @@ Use the  **[WindowNewWindow](Project.Application.WindowNewWindow.md)** method to
 
 
 
-```
+```vb
 Application.WindowNewWindow
 ```
 

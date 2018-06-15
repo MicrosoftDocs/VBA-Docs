@@ -31,8 +31,5 @@ If you use the  **[UserProperties.Add](Outlook.UserProperties.Add.md)** method o
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](storageitem-object-outlook.md)
 

@@ -26,7 +26,7 @@ Represents line and arrowhead formatting.
 Use the  **[Line](Excel.Shape.Line.md)** property to return a **LineFormat** object. The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its end point.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddLine(100, 100, 200, 300).Line 
  .DashStyle = msoLineDashDotDot 

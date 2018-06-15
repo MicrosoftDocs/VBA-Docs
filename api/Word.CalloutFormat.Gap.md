@@ -39,8 +39,5 @@ docActive.Shapes(1).Callout.Gap = 3
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Word.CalloutFormat.md)
 

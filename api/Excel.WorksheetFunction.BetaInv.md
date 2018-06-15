@@ -63,8 +63,5 @@ Given a value for probability, BetaInv seeks that value x such that BetaDist(x, 
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

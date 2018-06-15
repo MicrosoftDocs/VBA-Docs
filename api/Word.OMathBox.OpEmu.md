@@ -31,8 +31,5 @@ When the OpEmu property is  **True** , the character can serve as a point for a 
 ## See also
 
 
-#### Concepts
-
-
 [OMathBox Object](Word.OMathBox.md)
 

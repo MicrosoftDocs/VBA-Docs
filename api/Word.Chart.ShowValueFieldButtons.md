@@ -31,8 +31,5 @@ This object or member is part of the shared chart object model infrastructure be
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

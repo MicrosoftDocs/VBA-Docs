@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Cust
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabels Collection Object](Word.customlabels.md)
 

@@ -26,8 +26,5 @@ Returns a  **Shading** object that refers to the shading formatting for the spec
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

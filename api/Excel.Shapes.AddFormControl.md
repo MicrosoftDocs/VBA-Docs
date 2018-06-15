@@ -61,8 +61,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

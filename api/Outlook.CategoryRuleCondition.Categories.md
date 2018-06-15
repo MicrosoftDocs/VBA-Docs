@@ -39,8 +39,5 @@ Returns an error if  **Categories** contains one or more empty strings.
 ## See also
 
 
-#### Concepts
-
-
 [CategoryRuleCondition Object](Outlook.CategoryRuleCondition.md)
 

@@ -53,9 +53,6 @@ This functionality mimics the Demote button in the Microsoft Office Fluent Ribbo
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

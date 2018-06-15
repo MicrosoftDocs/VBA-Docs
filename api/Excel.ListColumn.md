@@ -28,7 +28,7 @@ Use the [ListColumns](Excel.ListObject.ListColumns.md) property of the **ListObj
 The following example adds a new  **ListColumn** object to the default **ListObject** object in the first worksheet of the active workbook. Because no position is specified, a new rightmost column is added.
 
 
-```
+```vb
 Sub AddListColumn() 
  Dim wrksht As Worksheet 
  Dim objListCol As ListColumn 

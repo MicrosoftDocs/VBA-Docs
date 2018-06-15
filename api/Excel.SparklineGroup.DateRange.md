@@ -42,8 +42,5 @@ Empty cells and non-date values in the date range are not displayed.
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroup Object](Excel.SparklineGroup.md)
 

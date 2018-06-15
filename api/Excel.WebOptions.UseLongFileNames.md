@@ -42,8 +42,5 @@ Application.DefaultWebOptions.UseLongFileNames = False
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

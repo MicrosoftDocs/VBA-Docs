@@ -49,8 +49,5 @@ You can set the default for this property by using the default control style or 
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

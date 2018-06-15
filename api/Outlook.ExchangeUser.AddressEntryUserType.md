@@ -31,8 +31,5 @@ The  **ExchangeUser** object is derived from the **[AddressEntry](Outlook.Addres
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

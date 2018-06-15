@@ -41,8 +41,5 @@ Returns or sets an  **MsoAutomationSecurity** constant that represents the secur
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

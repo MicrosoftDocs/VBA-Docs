@@ -26,8 +26,5 @@ Returns an  **OMathArgs** object that represents the list of arguments for the s
 ## See also
 
 
-#### Concepts
-
-
 [OMathDelim Object](Word.OMathDelim.md)
 

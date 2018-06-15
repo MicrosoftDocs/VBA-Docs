@@ -31,8 +31,5 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 ## See also
 
 
-#### Concepts
-
-
 [Styles Collection Object](Word.styles.md)
 

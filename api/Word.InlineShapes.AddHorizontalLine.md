@@ -42,16 +42,13 @@ To add a horizontal line that isn't based on an existing image file, use the  **
 This example adds a horizontal line above the current selection in the active document using a file called "ArtsyRule.gif."
 
 
-```
+```vb
 Selection.InlineShapes.AddHorizontalLine _ 
  "C:\Art files\ArtsyRule.gif"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [InlineShapes Collection Object](Word.inlineshapes.md)

@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the horizontal position of the speci
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

@@ -33,8 +33,5 @@ After calling this method, the following collections are empty:  **HiddenItemsLi
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

@@ -31,8 +31,5 @@ You cannot use this property with multiselect list boxes.
 ## See also
 
 
-#### Concepts
-
-
 [OLEObject Object](Excel.OLEObject.md)
 

@@ -43,8 +43,5 @@ Next shapeLoop
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Word.OLEFormat.md)
 

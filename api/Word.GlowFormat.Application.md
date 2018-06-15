@@ -26,8 +26,5 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 ## See also
 
 
-#### Concepts
-
-
 [GlowFormat Object](Word.GlowFormat.md)
 

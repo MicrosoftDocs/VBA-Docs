@@ -42,8 +42,5 @@ Set objUndo = Application.UndoRecord
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

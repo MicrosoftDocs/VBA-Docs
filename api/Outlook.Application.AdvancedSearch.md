@@ -50,14 +50,14 @@ Using the  _Scope_ parameter, you can specify one or more folders in the same st
 
 
 
-```
+```vb
 Scope = "'Inbox', 'Sent Items'"
 ```
 
 
 
 
-```
+```vb
 Scope = "'" &; Application.Session.GetDefaultFolder(olFolderInbox).FolderPath _  
     &; "','" &; Application.Session.GetDefaultFolder(olFolderSentMail).FolderPath &; "'"
 ```
@@ -148,9 +148,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Outlook.Application.md)

@@ -61,8 +61,5 @@ You can use this event to determine whether a store has been added and take appr
 ## See also
 
 
-#### Concepts
-
-
 [Stores Object](Outlook.Stores.md)
 

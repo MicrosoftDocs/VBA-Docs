@@ -26,8 +26,5 @@ Returns or sets the primary color of the object. Read/write  **Variant** .
 ## See also
 
 
-#### Concepts
-
-
 [Interior Object](Word.Interior.md)
 

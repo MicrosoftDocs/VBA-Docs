@@ -51,7 +51,7 @@ The ZoomFactor parameter value is the factor by which to multiply both dimension
 The following code sets the center of the page at the center of the Visio Viewer window and halves both the height and width of the page.
 
 
-```
+```vb
 vsoViewer.SetPageView 4, 5, 0.50
 ```
 

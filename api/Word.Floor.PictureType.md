@@ -31,8 +31,5 @@ You can set this property to one of the following  **[XlChartPictureType](Word.x
 ## See also
 
 
-#### Concepts
-
-
 [Floor Object](Word.Floor.md)
 

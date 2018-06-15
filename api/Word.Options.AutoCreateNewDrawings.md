@@ -43,8 +43,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

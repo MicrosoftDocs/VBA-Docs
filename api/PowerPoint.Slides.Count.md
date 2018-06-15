@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Slides Object](PowerPoint.Slides.md)
 

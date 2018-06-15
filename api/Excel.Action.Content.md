@@ -26,8 +26,5 @@ Returns the content associated to the  **Action** object. Read-only **String** .
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Excel.Action.md)
 

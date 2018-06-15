@@ -26,8 +26,5 @@ Deletes the specified custom label.
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabel Object](Word.CustomLabel.md)
 

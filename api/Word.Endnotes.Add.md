@@ -53,8 +53,5 @@ ActiveDocument.Endnotes.Add Range:=myRange, _
 ## See also
 
 
-#### Concepts
-
-
 [Endnotes Collection Object](Word.endnotes.md)
 

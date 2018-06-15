@@ -20,7 +20,7 @@ Use  **BaseCalendars(** _Index_ **)**, where _Index_ is the calendar index numbe
 
 
 
-```
+```vb
 MsgBox ActiveProject.BaseCalendars(1).Name
 ```
 
@@ -31,7 +31,7 @@ Use the  **[BaseCalendars](http://msdn.microsoft.com/library/fb7f55f6-6618-fb82-
 
 
 
-```
+```vb
 Dim C As Calendar 
 
  
@@ -48,7 +48,7 @@ Use the  **[BaseCalendarCreate](http://msdn.microsoft.com/library/c9c92dff-255a-
 
 
 
-```
+```vb
 BaseCalendarCreate Name:="Base Holiday Calendar"
 ```
 

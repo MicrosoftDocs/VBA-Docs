@@ -17,7 +17,7 @@ The  **Reports** object is the collection of custom reports in a project. It doe
 
  
 
-```
+```vb
 Sub ListCustomReports()
     Dim oReport As Report
     Dim msg As String

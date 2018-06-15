@@ -43,15 +43,12 @@ This example returns the status of the  **Smart cut and paste** option on the **
 
 
 
-```
+```vb
 temp = Options.SmartCutPaste
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

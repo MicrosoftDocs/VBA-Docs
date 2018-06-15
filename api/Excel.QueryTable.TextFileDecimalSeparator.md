@@ -50,7 +50,7 @@ The  **TextFileDecimalSeparator** property applies only to **QueryTable** object
 This example saves the original decimal separator and sets it to a comma for the first query table on Sheet1, in preparation for importing a French text file (for example) into the U.S. English version of Microsoft Excel.
 
 
-```
+```vb
 strDecSep = Worksheets("Sheet1").QueryTables(1) _ 
  .TextFileDecimalSeparator 
 Worksheets("Sheet1").QueryTables(1) _ 
@@ -59,9 +59,6 @@ Worksheets("Sheet1").QueryTables(1) _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [QueryTable Object](Excel.QueryTable.md)

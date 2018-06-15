@@ -31,8 +31,5 @@ Normally, updates are sent to attendees only if the time or location of an appoi
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

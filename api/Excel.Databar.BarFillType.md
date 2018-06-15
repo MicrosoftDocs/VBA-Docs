@@ -50,8 +50,5 @@ myDataBar.BarFillType = xlDataBarFillSolid
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

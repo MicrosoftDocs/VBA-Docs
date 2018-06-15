@@ -55,8 +55,5 @@ Forms!Employees!EmployeeID.SetFocus
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

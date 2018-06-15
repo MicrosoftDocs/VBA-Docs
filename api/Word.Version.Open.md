@@ -49,8 +49,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Version Object](Word.Version.md)
 

@@ -26,8 +26,5 @@ Returns an  **[Adjustments](Excel.Adjustments.md)** object that contains adjustm
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

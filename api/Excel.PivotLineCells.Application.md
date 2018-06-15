@@ -31,8 +31,5 @@ You can use this property with an OLE Automation object to return the applicatio
 ## See also
 
 
-#### Concepts
-
-
 [PivotLineCells Object](Excel.PivotLineCells.md)
 

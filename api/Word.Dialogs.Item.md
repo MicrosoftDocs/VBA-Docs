@@ -51,8 +51,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Dialogs Collection Object](Word.dialogs.md)
 

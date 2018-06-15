@@ -26,8 +26,5 @@ Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant spe
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

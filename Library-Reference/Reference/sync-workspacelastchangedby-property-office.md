@@ -36,7 +36,7 @@ If the active document is not configured for synchronization between the local c
 The following example checks for a conflict between the local and the server copies of the shared document and reports the name of the user who last saved changes to the server copy.
 
 
-```
+```vb
     Dim objSync As Office.Sync 
     Dim strStatus As String 
     Set objSync = ActiveDocument.Sync 
@@ -52,9 +52,6 @@ The following example checks for a conflict between the local and the server cop
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Sync Object](sync-object-office.md)

@@ -26,8 +26,5 @@ Returns the quick styles of the SmartArt diagram in the current  **Application**
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

@@ -23,8 +23,5 @@ Returns the offset X value for the specified fill. Read/write  **Single** .
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

@@ -45,8 +45,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ChartCharacters Object](Word.ChartCharacters.md)
 

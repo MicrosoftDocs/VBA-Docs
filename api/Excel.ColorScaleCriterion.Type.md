@@ -31,8 +31,5 @@ The type of threshold value for a data bar or color scale can be a number, perce
 ## See also
 
 
-#### Concepts
-
-
 [ColorScaleCriterion Object](Excel.ColorScaleCriterion.md)
 

@@ -35,8 +35,5 @@ Sets the specified fill to a two-color gradient.
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

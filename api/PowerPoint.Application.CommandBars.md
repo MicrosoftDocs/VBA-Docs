@@ -26,8 +26,5 @@ Returns a  **CommandBars** collection that represents all the command bars in Mi
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

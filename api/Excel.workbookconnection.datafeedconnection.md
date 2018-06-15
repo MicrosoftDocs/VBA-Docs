@@ -29,8 +29,5 @@ Returns a  **DataFeedConnection** object that contains the data and functionalit
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

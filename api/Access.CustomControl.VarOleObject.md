@@ -40,8 +40,5 @@ If an API call is made to a function that performs a callback to the control, th
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

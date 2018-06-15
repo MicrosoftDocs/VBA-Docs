@@ -42,7 +42,7 @@ Adds a file to the document library in a shared workspace. Returns a  **[SharedW
 The following example adds a new file to the files collection of the shared workspace.
 
 
-```
+```vb
     Dim swsfile As Office.SharedWorkspaceFile 
     Set swsfile = ActiveWorkbook.SharedWorkspace.Files.Add( _ 
         "C:\MyWorkbook.xls", _ 
@@ -56,9 +56,6 @@ The following example adds a new file to the files collection of the shared work
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceFiles Object](sharedworkspacefiles-object-office.md)

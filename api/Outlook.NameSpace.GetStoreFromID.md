@@ -48,8 +48,5 @@ The store must be mounted in order for this method to succeed.
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

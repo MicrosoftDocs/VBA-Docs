@@ -31,8 +31,5 @@ Setting the  **Connection** property does not immediately initiate the connectio
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

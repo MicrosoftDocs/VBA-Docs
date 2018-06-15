@@ -31,8 +31,5 @@ This property returns the version of the PivotTable. Default settings and behavi
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

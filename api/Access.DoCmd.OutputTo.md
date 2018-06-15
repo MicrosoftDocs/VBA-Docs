@@ -64,8 +64,5 @@ DoCmd.OutputTo acOutputTable, "Employees", _
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

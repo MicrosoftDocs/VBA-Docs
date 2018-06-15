@@ -28,7 +28,7 @@ Gets the full name for the specified level and parent levels of the  **LookupTab
 The  **CreateLocationOutlineCode** macro example sets three **LookupTableEntry** levels for a custom task outline code named **Location**. After the **CreateLocationOutlineCode** macro is executed, entering the following line in the **Immediate** window of the Visual Basic Editor (VBE) returns the result shown.
 
 
-```
+```vb
 Print ActiveProject.OutlineCodes.Item(1).LookupTable.Item(4).FullName 
 WA.KING.RED
 ```

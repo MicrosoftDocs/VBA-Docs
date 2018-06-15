@@ -34,8 +34,5 @@ Occurs after a folder is added to a  **[NavigationGroups](Outlook.NavigationGrou
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 

@@ -28,7 +28,7 @@ Gets or sets a  **String** that represents the name of the attached data source.
 The following example sets the name of the data source if the name is blank.
 
 
-```
+```vb
 Sub SetAndReturnDataSourceName() 
  Dim appOffice As OfficeDataSourceObject 
  
@@ -47,9 +47,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [OfficeDataSourceObject Object](officedatasourceobject-object-office.md)

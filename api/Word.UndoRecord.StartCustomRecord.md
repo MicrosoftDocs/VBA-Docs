@@ -58,9 +58,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [UndoRecord Object](Word.UndoRecord.md)
 #### Other resources
 

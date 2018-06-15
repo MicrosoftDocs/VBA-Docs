@@ -41,8 +41,5 @@ Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindow
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindows Object](PowerPoint.ProtectedViewWindows.md)
 

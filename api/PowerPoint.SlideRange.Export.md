@@ -44,8 +44,5 @@ PowerPoint uses the specified graphics filter to save each individual slide. The
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

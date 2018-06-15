@@ -26,8 +26,5 @@ Deletes the specified object and places it on the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 

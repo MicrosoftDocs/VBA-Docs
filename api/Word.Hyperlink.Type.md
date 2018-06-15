@@ -26,8 +26,5 @@ Returns the hyperlink type. Read-only  **MsoHyperlinkType** .
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

@@ -40,8 +40,5 @@ This event fires when a new inline response or draft inline response is closed f
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

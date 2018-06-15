@@ -26,8 +26,5 @@ Returns a  **[FillFormat](Excel.FillFormat.md)** object for the parent chart ele
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Excel.ChartFormat.md)
 

@@ -37,7 +37,7 @@ The following managed code is written in C#. To run a .NET Framework managed cod
 
 
 
-```C#
+```vbC#
 private void GetSMTPAddressForRecipients(Outlook.MailItem mail) 
 { 
     const string PR_SMTP_ADDRESS = 

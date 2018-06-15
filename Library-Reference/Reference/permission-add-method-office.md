@@ -38,7 +38,7 @@ Creates a set of permissions on the active document for the specified user. Retu
 The following example assigns a combination of read and edit permissions on the current document to a user and specifies an expiration date for these document permissions.
 
 
-```
+```vb
  Dim objUserPerm As Office.UserPermission 
  Set objUserPerm = ActiveWorkbook.Permission.Add( _ 
  "user@domain.com", _ 
@@ -53,9 +53,6 @@ The following example assigns a combination of read and edit permissions on the 
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Permission Object](permission-object-office.md)

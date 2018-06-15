@@ -39,9 +39,6 @@ The container application determines whether the value is a valid macro name.
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarPopup Object](commandbarpopup-object-office.md)
 #### Other resources
 

@@ -41,8 +41,5 @@ ActiveDocument.ActiveWindow.View.ReadingLayout = False
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

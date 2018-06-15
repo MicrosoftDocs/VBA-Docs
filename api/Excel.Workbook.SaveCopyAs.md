@@ -44,8 +44,5 @@ ActiveWorkbook.SaveCopyAs "C:\TEMP\XXXX.XLS"
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

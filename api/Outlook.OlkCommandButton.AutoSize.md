@@ -33,8 +33,5 @@ For a button control, this property specifies whether the control automatically 
 ## See also
 
 
-#### Concepts
-
-
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

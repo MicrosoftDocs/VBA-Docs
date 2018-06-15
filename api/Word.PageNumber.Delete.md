@@ -26,8 +26,5 @@ Deletes the specified page number.
 ## See also
 
 
-#### Concepts
-
-
 [PageNumber Object](Word.PageNumber.md)
 

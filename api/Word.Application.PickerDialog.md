@@ -48,8 +48,5 @@ The  **PickerDialog** object is available in the Microsoft Office type library. 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

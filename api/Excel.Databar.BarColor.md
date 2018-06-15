@@ -26,8 +26,5 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that you can use to mo
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

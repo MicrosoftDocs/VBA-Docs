@@ -71,8 +71,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](Outlook.StorageItem.md)
 

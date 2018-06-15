@@ -38,15 +38,12 @@ If you use the  **First** method to switch from one slide to another during a sl
 This example sets slide show window one to display the first slide in the presentation.
 
 
-```
+```vb
 SlideShowWindows(1).View.First
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)

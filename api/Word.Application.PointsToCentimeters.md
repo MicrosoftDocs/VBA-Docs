@@ -76,8 +76,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

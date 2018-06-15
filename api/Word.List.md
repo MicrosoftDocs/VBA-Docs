@@ -21,7 +21,7 @@ Represents a single list format that's been applied to specified paragraphs in a
 Use  **Lists** (Index), where Index is the index number, to return a single **List** object. The following example returns the number of items in list one in the active document.
 
 
-```
+```vb
 mycount = ActiveDocument.Lists(1).CountNumberedItems
 ```
 

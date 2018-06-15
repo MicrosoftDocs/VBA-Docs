@@ -41,8 +41,5 @@ ActiveProtectedViewWindow.WindowState = wdWindowStateMinimize
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

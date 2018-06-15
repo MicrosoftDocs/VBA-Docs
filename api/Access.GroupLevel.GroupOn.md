@@ -70,8 +70,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [GroupLevel Object](Access.GroupLevel.md)
 

@@ -38,8 +38,5 @@ If a slide has no animations or if a user has not advanced yet to an animation, 
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

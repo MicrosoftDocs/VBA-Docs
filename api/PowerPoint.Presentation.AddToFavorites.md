@@ -41,8 +41,5 @@ Application.ActivePresentation.AddToFavorites
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

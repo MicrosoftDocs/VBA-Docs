@@ -69,8 +69,5 @@ shapeCrop.PictureFormat.CropTop = sngCrop
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Word.PictureFormat.md)
 

@@ -32,7 +32,7 @@ Use  **GroupCriteria(***Index* **)**, where*Index* is the criterion index, to re
 
 
 
-```
+```vb
 ActiveProject.ResourceGroups("Standard Rate").GroupCriteria(1).CellColor = pjBlue
 ```
 
@@ -47,7 +47,7 @@ Use the  **[GroupCriteria](Project.Group.GroupCriteria.md)** property to return 
 
 
 
-```
+```vb
 Dim GC As GroupCriterion 
 
 Dim Fields As String 
@@ -80,7 +80,7 @@ Use the  **[Add](Project.GroupCriteria.Add.md)** method to add a **GroupCriterio
 
 
 
-```
+```vb
 ActiveProject.ResourceGroups("Response Pending").GroupCriteria.Add "% Work Complete", True, CellColor:=pjRed, GroupOn:=pjGroupOnPct1_25
 ```
 

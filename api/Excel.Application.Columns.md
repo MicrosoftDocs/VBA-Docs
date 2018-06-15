@@ -33,8 +33,5 @@ When applied to a  **Range** object that's a multiple-area selection, this prope
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

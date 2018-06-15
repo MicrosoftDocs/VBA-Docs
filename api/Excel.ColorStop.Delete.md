@@ -31,8 +31,5 @@ Nothing
 ## See also
 
 
-#### Concepts
-
-
 [ColorStop Object](Excel.ColorStop.md)
 

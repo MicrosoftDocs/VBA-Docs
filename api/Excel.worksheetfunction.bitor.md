@@ -38,8 +38,5 @@ Returns a bitwise OR of 2 numbers.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -73,8 +73,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 

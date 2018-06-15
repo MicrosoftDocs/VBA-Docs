@@ -26,8 +26,5 @@ Returns or sets an  **[OlGender](Outlook.OlGender.md)** constant indicating the 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

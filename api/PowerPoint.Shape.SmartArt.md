@@ -31,8 +31,5 @@ The returned Microsoft Office  **SmartArt** object replaces the PowerPoint **Dia
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

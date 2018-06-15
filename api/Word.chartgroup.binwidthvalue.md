@@ -24,8 +24,5 @@ Specifies the number of points in each range. Read/write  **Double**.
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Word.ChartGroup.md)
 

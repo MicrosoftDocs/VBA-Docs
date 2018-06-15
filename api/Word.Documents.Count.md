@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of documents in the collection. R
 ## See also
 
 
-#### Concepts
-
-
 [Documents Collection Object](Word.documents.md)
 

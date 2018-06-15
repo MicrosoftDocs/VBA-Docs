@@ -41,7 +41,7 @@ Use the  **RGB** property to set a color to an explicit red-green-blue value. Th
 
  
 
-```
+```vb
 Sub GradientFill() 
  With ActiveDocument.Pages(1).Shapes _ 
  .AddShape(Type:=msoShapeRectangle, _ 

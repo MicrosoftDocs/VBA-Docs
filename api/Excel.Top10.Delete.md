@@ -26,8 +26,5 @@ Deletes the specified conditional formatting rule object.
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

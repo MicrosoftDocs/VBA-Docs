@@ -26,8 +26,5 @@ Returns the number of objects in the collection. Read-only  **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [TableStyleElements Object](Excel.TableStyleElements.md)
 

@@ -31,8 +31,5 @@ The  **ID** of a time zone is globally the same for that time zone. It is the na
 ## See also
 
 
-#### Concepts
-
-
 [TimeZone Object](Outlook.TimeZone.md)
 

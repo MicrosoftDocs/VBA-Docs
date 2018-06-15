@@ -55,8 +55,5 @@ Forms(0).DatasheetBorderLineStyle = 3
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -47,8 +47,5 @@ For field types not listed in the above table, the value of this property is ign
 ## See also
 
 
-#### Concepts
-
-
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 

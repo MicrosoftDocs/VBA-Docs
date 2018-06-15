@@ -40,8 +40,5 @@ Occurs before navigation occurs in the given  **WebBrowserControl**.
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

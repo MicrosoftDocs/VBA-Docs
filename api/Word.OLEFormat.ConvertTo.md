@@ -57,8 +57,5 @@ objEmbedded.OLEFormat.OLEFormat.ConvertTo _
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Word.OLEFormat.md)
 

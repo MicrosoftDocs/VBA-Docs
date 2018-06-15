@@ -26,8 +26,5 @@ Gets or sets an  **[AcDisplayAsHyperlink](Access.AcDisplayAsHyperlink.md)** cons
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

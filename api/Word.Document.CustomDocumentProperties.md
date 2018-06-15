@@ -54,7 +54,7 @@ This example adds a custom built-in property to Sales.doc.
 
 
 
-```
+```vb
 thename = InputBox("Please type your name", "Name") 
 Documents("Sales.doc").CustomDocumentProperties.Add _ 
  Name:="YourName", LinkToContent:=False, Value:=thename, _ 
@@ -63,9 +63,6 @@ Documents("Sales.doc").CustomDocumentProperties.Add _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

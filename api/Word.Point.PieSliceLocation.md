@@ -45,8 +45,5 @@ This property only applies to pie chart types.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Word.Point.md)
 

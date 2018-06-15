@@ -31,8 +31,5 @@ This property corresponds to the  **Markup Area Highlight** option in the **Show
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

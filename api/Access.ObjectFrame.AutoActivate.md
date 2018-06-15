@@ -47,8 +47,5 @@ With Visual Basic, you can determine if a control contains an object by checking
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

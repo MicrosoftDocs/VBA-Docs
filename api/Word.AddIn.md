@@ -57,7 +57,7 @@ Use the  **[Add](Word.AddIns.Add.md)** method to add an add-in to the list of av
 
 
 
-```
+```vb
 AddIns.Add FileName:="C:\Templates\Other\Letter.dot", Install:=True
 ```
 

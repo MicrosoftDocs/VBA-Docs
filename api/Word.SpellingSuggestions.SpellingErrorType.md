@@ -44,8 +44,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [SpellingSuggestions Collection Object](Word.spellingsuggestions.md)
 

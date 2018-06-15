@@ -23,8 +23,5 @@ Returns or sets the position of the plot area on the chart. Read/write  **[XlCha
 ## See also
 
 
-#### Concepts
-
-
 [PlotArea Object](PowerPoint.PlotArea.md)
 

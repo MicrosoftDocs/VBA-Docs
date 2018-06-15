@@ -69,8 +69,5 @@ When the  **ServerFilter** property is set in form Design view, Microsoft Access
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

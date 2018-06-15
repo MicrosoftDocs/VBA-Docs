@@ -31,8 +31,5 @@ Rotations are always rounded to the nearest integer.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

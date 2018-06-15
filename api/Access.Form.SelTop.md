@@ -37,8 +37,5 @@ You can use these properties with the  **SelHeight** and **SelWidth** properties
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

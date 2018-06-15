@@ -42,8 +42,5 @@ MsgBox Worksheets(1).PivotTables("Pivot1") _
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

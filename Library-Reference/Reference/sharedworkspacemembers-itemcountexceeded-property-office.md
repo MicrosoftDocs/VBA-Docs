@@ -41,9 +41,6 @@ Furthermore, once the  **ItemCountExceeded** property returns **True** for one o
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceMembers Object](sharedworkspacemembers-object-office.md)
 #### Other resources
 

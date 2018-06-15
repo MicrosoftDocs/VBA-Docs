@@ -26,8 +26,5 @@ Returns a  **SmartTagProperties** collection that represents the collection of p
 ## See also
 
 
-#### Concepts
-
-
 [SmartTag Object](Access.SmartTag.md)
 

@@ -33,8 +33,5 @@ If the value of this property for every column in a view is less than the total 
 ## See also
 
 
-#### Concepts
-
-
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 

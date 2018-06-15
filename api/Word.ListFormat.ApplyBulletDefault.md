@@ -41,7 +41,7 @@ If the paragraphs are already formatted with bullets, this method removes the bu
 This example adds bullets and formatting to the paragraphs in the selection. If there are already bullets in the selection, the example removes the bullets and formatting.
 
 
-```
+```vb
 Selection.Range.ListFormat.ApplyBulletDefault
 ```
 
@@ -50,7 +50,7 @@ This example adds a bullet and formatting to, or removes them from, the second p
 
 
 
-```
+```vb
 Documents("MyDoc.doc").Paragraphs(2).Range.ListFormat _ 
  .ApplyBulletDefault
 ```
@@ -72,9 +72,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ListFormat Object](Word.ListFormat.md)

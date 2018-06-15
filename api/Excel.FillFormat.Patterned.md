@@ -34,8 +34,5 @@ Sets the specified fill to a pattern.
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

@@ -98,8 +98,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

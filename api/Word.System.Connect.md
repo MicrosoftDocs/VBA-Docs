@@ -56,7 +56,7 @@ End With
 This example establishes a connection to a network drive (\\Project\Info) protected with the password contained in the String variable, and then assigns the network drive to the next available drive letter.
 
 
-```
+```vb
 System.Connect Path:="\\Project\Info", Password:=strPassword
 ```
 
@@ -65,15 +65,12 @@ This example establishes a connection to a network drive (\\Team1\Public) and as
 
 
 
-```
+```vb
 System.Connect Path:="\\Team1\Public", Drive:=2
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [System Object](Word.System.md)

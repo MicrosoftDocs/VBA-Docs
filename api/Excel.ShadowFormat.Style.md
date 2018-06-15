@@ -37,8 +37,5 @@ Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Excel.ShadowFormat.md)
 

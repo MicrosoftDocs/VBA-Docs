@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the Japanese phonetic rendering (yomiga
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

@@ -45,8 +45,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Subdocument Object](Word.Subdocument.md)
 

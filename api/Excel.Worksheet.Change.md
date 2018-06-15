@@ -103,10 +103,6 @@ MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Mic
 
 
 ## See also
-<a name="AboutContributor"> </a>
-
-
-#### Concepts
 
 
 [Worksheet Object](Excel.Worksheet.md)

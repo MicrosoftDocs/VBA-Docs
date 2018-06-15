@@ -41,7 +41,7 @@ Returns the Project Workspace URLs for the active enterprise project as an XML s
 The following is an example of the XML schema definition.
 
 
-```XML
+```vbXML
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:mstns="http://schemas.microsoft.com/office/project/server/webservices/ProjectWSSInfoDataSet/" 
            xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" 

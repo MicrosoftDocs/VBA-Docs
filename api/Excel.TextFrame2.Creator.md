@@ -48,8 +48,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

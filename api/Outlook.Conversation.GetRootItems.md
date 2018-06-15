@@ -38,8 +38,5 @@ If all items are deleted from the conversation after the  **[Conversation](Outlo
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

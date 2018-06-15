@@ -39,8 +39,5 @@ A  **SyncObject** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [SyncObjects Object](Outlook.SyncObjects.md)
 

@@ -47,8 +47,5 @@ mySmartArt.QuickStyle = Application.SmartArtQuickStyles.Item(6)
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

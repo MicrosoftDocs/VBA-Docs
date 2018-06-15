@@ -39,8 +39,5 @@ EmailSignatureEntry
 ## See also
 
 
-#### Concepts
-
-
 [EmailSignatureEntries Collection](Word.EmailSignatureEntries.md)
 

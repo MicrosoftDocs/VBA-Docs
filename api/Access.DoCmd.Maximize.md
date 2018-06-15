@@ -39,8 +39,5 @@ This method cannot be applied to module windows in the Visual Basic Editor (VBE)
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

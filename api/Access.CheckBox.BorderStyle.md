@@ -48,8 +48,5 @@ A control's border style is visible only when its  **SpecialEffect** property is
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Access.CheckBox.md)
 

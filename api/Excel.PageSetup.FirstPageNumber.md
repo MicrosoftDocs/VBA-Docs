@@ -36,8 +36,5 @@ Worksheets("Sheet1").PageSetup.FirstPageNumber = 100
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

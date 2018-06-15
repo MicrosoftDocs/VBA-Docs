@@ -39,8 +39,5 @@ Paragraph
 ## See also
 
 
-#### Concepts
-
-
 [ListParagraphs Collection Object](Word.listparagraphs.md)
 

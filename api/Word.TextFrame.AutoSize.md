@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents whether a text frame is sized automa
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

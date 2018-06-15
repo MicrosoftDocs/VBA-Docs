@@ -20,8 +20,5 @@ This property will always return  **false** .
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthLock Object](Word.CoAuthLock.md)
 

@@ -41,9 +41,6 @@ If one of the merging applications is not an Office application, normal OLE menu
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarPopup Object](commandbarpopup-object-office.md)
 #### Other resources
 

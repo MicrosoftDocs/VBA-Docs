@@ -41,8 +41,5 @@ If your report is larger than the available display window, you can use the  **S
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

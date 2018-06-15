@@ -66,8 +66,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

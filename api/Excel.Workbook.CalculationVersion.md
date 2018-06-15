@@ -31,8 +31,5 @@ If the workbook was saved in an earlier version of Excel and if the workbook has
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

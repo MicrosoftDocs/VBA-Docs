@@ -31,8 +31,5 @@ The maximum column width is two-thirds the width of the screen.
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

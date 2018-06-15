@@ -17,7 +17,7 @@ When an application supports Automation, the objects the application exposes can
 
 
 
-```
+```vb
 MyObj.Insert "Hello, world." ' Place text. 
 MyObj.Bold = True ' Format text. 
 If Mac = True ' Check your platform constant 

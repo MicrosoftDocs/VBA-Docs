@@ -38,8 +38,5 @@ Returns the number of permutations for a given number of objects (with repetitio
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -47,8 +47,5 @@ MsgBox "Current version of Office Web Components: " _
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

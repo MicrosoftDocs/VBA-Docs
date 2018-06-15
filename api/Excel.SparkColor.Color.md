@@ -31,8 +31,5 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that you can use to se
 ## See also
 
 
-#### Concepts
-
-
 [SparkColor Object](Excel.SparkColor.md)
 

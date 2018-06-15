@@ -48,7 +48,7 @@ You can use the  **GetFormulasU** method to get formulas of any set of cells.
 
 
 
-```
+```vb
 {sectionIdx, rowIdx, cellIdx}n
 ```
 

@@ -41,8 +41,5 @@ If the word is spelled correctly, the  **Count** property of the **[SpellingSugg
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

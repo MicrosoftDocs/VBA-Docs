@@ -23,9 +23,6 @@ Returns a  **TextRange2** object that represents the specified subset of right-t
 ## See also
 
 
-#### Concepts
-
-
 [TextRange2 Object](textrange2-object-office.md)
 #### Other resources
 

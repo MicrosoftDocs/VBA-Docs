@@ -50,8 +50,5 @@ Application.Caption = UserName &; "'s copy of Word"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

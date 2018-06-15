@@ -50,8 +50,5 @@ tbl.Descr = "This is a table description."
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

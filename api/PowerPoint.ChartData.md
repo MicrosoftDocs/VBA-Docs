@@ -33,7 +33,7 @@ The following example uses the  **[Activate](http://msdn.microsoft.com/library/7
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1).Chart.ChartData
 
     .Activate

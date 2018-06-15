@@ -52,8 +52,5 @@ Next taskLoop
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

@@ -34,8 +34,5 @@ Returns a single object from a collection.
 ## See also
 
 
-#### Concepts
-
-
 [ListColumns Object](Excel.ListColumns.md)
 

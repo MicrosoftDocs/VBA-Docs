@@ -56,7 +56,7 @@ Applies error bars to the specified series. Variant.
 This example applies standard error bars in the Y direction for series one. The error bars are applied in the positive and negative directions. The example should be run on a 2-D line chart.
 
 
-```
+```vb
 myChart.SeriesCollection(1).ErrorBar _ 
  Direction:=xlY, Include:=xlErrorBarIncludeBoth, _ 
  Type:=xlErrorBarTypeStError

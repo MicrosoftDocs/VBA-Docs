@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [GradientStop Object](gradientstop-object-office.md)
 #### Other resources
 

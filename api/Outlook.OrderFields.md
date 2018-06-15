@@ -39,7 +39,7 @@ The  **OrderFields** collection represents the Outlook item properties used to s
 The following Visual Basic for Applications (VBA) example iterates through the  **[SortFields](Outlook.TableView.SortFields.md)** collection of the current **[TableView](Outlook.TableView.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
 
 
-```
+```vb
 Private Sub DisplayTableViewSortFields() 
  
  Dim objTableView As TableView 

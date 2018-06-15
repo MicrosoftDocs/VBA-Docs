@@ -37,8 +37,5 @@ ActiveDocument.ActiveWindow.View.ShowHyphens = True
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

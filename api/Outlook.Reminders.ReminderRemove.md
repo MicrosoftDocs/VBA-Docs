@@ -76,8 +76,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Reminders Object](reminders-object-outlook.md)
 

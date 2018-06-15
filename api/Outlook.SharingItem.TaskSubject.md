@@ -31,8 +31,5 @@ This property returns the value of the  **[Subject](Outlook.SharingItem.Subject.
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

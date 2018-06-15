@@ -31,8 +31,5 @@ Returns an error if the text is an empty string.
 ## See also
 
 
-#### Concepts
-
-
 [NewItemAlertRuleAction Object](Outlook.NewItemAlertRuleAction.md)
 

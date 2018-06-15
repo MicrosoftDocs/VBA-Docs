@@ -26,8 +26,5 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 ## See also
 
 
-#### Concepts
-
-
 [OLEObject Object](Excel.OLEObject.md)
 

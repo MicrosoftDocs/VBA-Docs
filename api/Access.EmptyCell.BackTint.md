@@ -43,8 +43,5 @@ Me.ctl.BackTint=25
 ## See also
 
 
-#### Concepts
-
-
 [EmptyCell Object](Access.EmptyCell.md)
 

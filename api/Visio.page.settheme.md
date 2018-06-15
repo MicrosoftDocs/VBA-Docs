@@ -44,8 +44,5 @@ Possible themes correspond to those displayed in the  **Themes** and the **Color
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Visio.Page.md)
 

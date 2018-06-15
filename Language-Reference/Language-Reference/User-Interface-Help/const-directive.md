@@ -34,7 +34,7 @@ Conditional compiler constants are always evaluated at the [module level](vbe-gl
 This example uses the  **#Const** directive to declare conditional compiler constants for use in **#If...#Else...#End If** constructs.
 
 
-```
+```vb
 #Const DebugVersion = 1 ' Will evaluate true in #If block. 
 
 ```

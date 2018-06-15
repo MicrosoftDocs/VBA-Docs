@@ -44,7 +44,4 @@ The UserName argument can be either a Project Server user name, if the LoginType
 ## See also
 
 
-#### Concepts
-
-
 [Profiles Collection Object](Project.profiles.md)

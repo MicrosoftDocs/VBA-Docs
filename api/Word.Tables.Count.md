@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of tables in the collection. Read
 ## See also
 
 
-#### Concepts
-
-
 [Tables Collection Object](Word.tables.md)
 

@@ -26,8 +26,5 @@ Marks all items in the conversation as read.
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

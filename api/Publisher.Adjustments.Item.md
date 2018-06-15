@@ -72,8 +72,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
  [Adjustments Object](Publisher.Adjustments.md)
 

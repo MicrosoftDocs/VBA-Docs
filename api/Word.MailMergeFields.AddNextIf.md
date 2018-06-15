@@ -49,7 +49,7 @@ A NEXTIF field compares two expressions, and if the comparison is true, the next
 This example adds a NEXTIF field before the first MERGEFIELD field in Main.doc. If the next postal code equals 98004, the next record is merged into the current merge document.
 
 
-```
+```vb
 Documents("Main.doc").MailMerge.Fields(1).Select 
 Selection.Collapse Direction:=wdCollapseStart 
 Documents("Main.doc").MailMerge.Fields.AddNextIf _ 
@@ -59,9 +59,6 @@ Documents("Main.doc").MailMerge.Fields.AddNextIf _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)

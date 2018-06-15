@@ -28,8 +28,5 @@ Application
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

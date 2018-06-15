@@ -35,8 +35,5 @@ For example, in a state adopting daylight time in the Pacific time zone, the  **
 ## See also
 
 
-#### Concepts
-
-
 [TimeZone Object](Outlook.TimeZone.md)
 

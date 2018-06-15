@@ -41,8 +41,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 

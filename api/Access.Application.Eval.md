@@ -137,8 +137,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

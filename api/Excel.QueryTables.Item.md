@@ -49,8 +49,5 @@ Sheets("sheet1").QueryTables.Item(1).FillAdjacentFormulas = True
 ## See also
 
 
-#### Concepts
-
-
 [QueryTables Object](Excel.QueryTables.md)
 

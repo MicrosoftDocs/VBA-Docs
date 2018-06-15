@@ -24,7 +24,7 @@ Use  **Sections**.Item(index) where index is the index number, to return a singl
 
  
 
-```
+```vb
 With ActiveDocument.Sections.Item(1) 
  .PageNumberFormat = pbPageNumberFormatArabic 
  .PageNumberStart = 1 
@@ -38,7 +38,7 @@ Using  **Sections** (index) where index is the index number, will also return a 
 
 
 
-```
+```vb
 ActiveDocument.Sections(2).ContinueNumbersFromPreviousSection=True
 ```
 
@@ -49,7 +49,7 @@ Use  **Sections**.Count to return the number of sections in the publication. The
 
 
 
-```
+```vb
 MsgBox Documents(1).Sections.Count
 ```
 
@@ -60,7 +60,7 @@ Use  **Sections**.Add(StartPageIndex) where StartPageIndex is the index number o
 
 
 
-```
+```vb
 Dim objSection As Section 
 Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 ```
@@ -76,7 +76,7 @@ Use  **Sections** (index).Delete where index is the index number, to delete the 
 
 
 
-```
+```vb
 Dim i As Long 
 For i = ActiveDocument.Sections.Count To 1 Step -1 
  If i = 1 Then Exit For 

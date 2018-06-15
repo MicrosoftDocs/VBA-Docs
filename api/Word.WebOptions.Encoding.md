@@ -43,8 +43,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Word.WebOptions.md)
 

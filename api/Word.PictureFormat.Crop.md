@@ -47,8 +47,5 @@ myCrop.ShapeHeight = 100
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Word.PictureFormat.md)
 

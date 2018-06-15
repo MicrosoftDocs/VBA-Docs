@@ -16,7 +16,7 @@ A collection of  **[ListGallery](Word.ListGallery.md)** objects that represent t
 Use the  **ListGalleries** property to return the **ListGalleries** collection. The following code example enumerates the collection of list galleries and sets each of the seven list templates (formats) back to the list template format built into Word.
 
 
-```
+```vb
 For Each lg In ListGalleries 
  For x = 1 To 7 
  lg.Reset(x) 
@@ -31,7 +31,7 @@ The following code example returns the third list format (excluding  **None**) o
 
 
 
-```
+```vb
 Set temp3 = ListGalleries(wdBulletGallery).ListTemplates(3) 
 Selection.Range.ListFormat.ApplyListTemplate ListTemplate:= temp3
 ```

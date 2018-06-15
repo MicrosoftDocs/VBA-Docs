@@ -77,8 +77,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [FilterEffect Object](PowerPoint.FilterEffect.md)
 

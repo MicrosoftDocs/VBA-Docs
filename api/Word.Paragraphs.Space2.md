@@ -43,15 +43,12 @@ ActiveDocument.Paragraphs.LineSpacingRule = wdLineSpaceDouble
 This example changes all selected paragraphs to double spacing.
 
 
-```
+```vb
 Selection.Paragraphs.Space2
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Paragraphs Collection Object](Word.paragraphs.md)

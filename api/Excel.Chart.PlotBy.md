@@ -41,9 +41,6 @@ Worksheets(1).ChartObjects(1).Chart.PlotBy = xlColumns
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroup Object](Excel.SparklineGroup.md)
 [Chart Object](Excel.Chart(object).md)
 

@@ -31,8 +31,5 @@ This property returns  **olModuleCalendar** for the **[CalendarModule](Outlook.C
 ## See also
 
 
-#### Concepts
-
-
 [CalendarModule Object](Outlook.CalendarModule.md)
 

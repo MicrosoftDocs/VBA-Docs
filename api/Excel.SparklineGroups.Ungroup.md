@@ -42,8 +42,5 @@ Selection.SparklineGroups.Ungroup
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroups Object](Excel.SparklineGroups.md)
 

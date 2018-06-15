@@ -53,9 +53,6 @@ If the  **CommandBars** collection contains two or more controls that fit the se
 ## See also
 
 
-#### Concepts
-
-
 [CommandBars Object](commandbars-object-office.md)
 #### Other resources
 

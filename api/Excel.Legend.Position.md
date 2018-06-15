@@ -36,8 +36,5 @@ Charts(1).Legend.Position = xlLegendPositionBottom
 ## See also
 
 
-#### Concepts
-
-
 [Legend Object](Excel.Legend(objec).md)
 

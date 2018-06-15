@@ -23,8 +23,5 @@ Returns or sets the width, in points, of the object. Read/write  **Double**.
 ## See also
 
 
-#### Concepts
-
-
 [PlotArea Object](PowerPoint.PlotArea.md)
 

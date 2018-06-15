@@ -56,8 +56,5 @@ In this mode, inputted characters are settled without conversion.
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

@@ -54,8 +54,5 @@ Debug.Print Reports("Purchase Order").OnNoData
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

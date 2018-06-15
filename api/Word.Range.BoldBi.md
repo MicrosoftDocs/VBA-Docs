@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).Range.BoldBi = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

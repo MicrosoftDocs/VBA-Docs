@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLValidationErrors Object](customxmlvalidationerrors-object-office.md)
 #### Other resources
 

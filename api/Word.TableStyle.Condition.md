@@ -56,8 +56,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Word.TableStyle.md)
 

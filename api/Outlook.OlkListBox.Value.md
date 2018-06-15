@@ -31,8 +31,5 @@ The value is the same as the value of  **[Text](Outlook.OlkListBox.Text.md)** , 
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

@@ -21,7 +21,7 @@ A collection of  **[Row](http://msdn.microsoft.com/library/df5ca5df-8119-1af8-b6
 Use the [Rows](http://msdn.microsoft.com/library/f7003d61-62d4-8d00-15c5-d9a2c5d57625%28Office.15%29.aspx)property to return the  **Rows** collection. This example changes the height of all rows in the specified table to 160 points.
 
 
-```
+```vb
 Dim i As Integer
 
 With ActivePresentation.Slides(2).Shapes(4).Table
@@ -40,7 +40,7 @@ Use the [Add](http://msdn.microsoft.com/library/7cc0c530-e817-1983-0946-90e49947
 
 
 
-```
+```vb
 ActivePresentation.Slides(2).Shapes(5).Table.Rows.Add (2)
 ```
 
@@ -49,7 +49,7 @@ Use  **Rows** (index), where index is a number that represents the position of t
 
 
 
-```
+```vb
 ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 ```
 

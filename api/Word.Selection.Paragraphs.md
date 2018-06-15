@@ -33,15 +33,12 @@ For information about returning a single member of a collection, see [Returning 
 This example sets the line spacing to double for the first paragraph in the selection.
 
 
-```
+```vb
 Selection.Paragraphs(1).LineSpacingRule = wdLineSpaceDouble
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

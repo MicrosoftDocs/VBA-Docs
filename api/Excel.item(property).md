@@ -30,7 +30,7 @@ Syntax 1 uses a row number and either a column number or a letter as index argum
 This example clears cell B2 on the datasheet.
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A1").Item(2, 2).Clear
 ```
 

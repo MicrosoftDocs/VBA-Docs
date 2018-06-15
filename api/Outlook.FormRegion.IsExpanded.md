@@ -33,8 +33,5 @@ Outlook always first loads a form region in an expanded state and sets  **IsExpa
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

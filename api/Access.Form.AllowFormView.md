@@ -42,8 +42,5 @@ DoCmd.OpenForm FormName:=Forms(0).Name, View:=acNormal
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

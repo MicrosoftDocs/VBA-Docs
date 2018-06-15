@@ -31,7 +31,7 @@ The following event handler examines new resource assignments and cancels them i
 
  
 
-```
+```vb
 Private Sub App_ProjectBeforeAssignmentChange2(ByVal asg As Assignment, ByVal Field As PjAssignmentField, _ 
     ByVal NewVal As Variant, EventInfo As Object) 
  

@@ -49,8 +49,5 @@ Given a value for probability, NORM_S_INV seeks that value z such that NORM_S_DI
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -33,15 +33,12 @@ The default font formatting is stored in the Normal style.
 This example sets the character formatting in the selection as the default.
 
 
-```
+```vb
 Selection.Font.SetAsTemplateDefault
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Font Object](Word.Font.md)

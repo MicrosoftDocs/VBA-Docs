@@ -26,8 +26,5 @@ Returns the PivotLines attached to the specified  **PivotAxis** object. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [PivotAxis Object](Excel.PivotAxis.md)
 

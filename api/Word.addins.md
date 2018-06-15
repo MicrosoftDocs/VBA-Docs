@@ -31,7 +31,7 @@ Use the  **Add** method to add an add-in to the list of available add-ins and (o
 
 
 
-```
+```vb
 AddIns.Add FileName:="C:\Templates\Other\Letter.dot", Install:=True
 ```
 

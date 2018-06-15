@@ -41,8 +41,5 @@ The default value for sp data in a square-shaped range is to plot the data by ro
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroup Object](Excel.SparklineGroup.md)
 

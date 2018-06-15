@@ -26,8 +26,5 @@ Gets or sets the color displayed on alternate rows of a form's datasheet. Read/w
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

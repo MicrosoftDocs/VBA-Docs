@@ -34,8 +34,5 @@ Attempting to return this property for a line that doesn't have a gradient gener
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

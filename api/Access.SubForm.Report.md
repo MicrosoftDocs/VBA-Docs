@@ -46,8 +46,5 @@ curTotalSales = Reports!Sales!Employees.Report!TotalSales
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

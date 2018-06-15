@@ -26,8 +26,5 @@ Gets the index number of the file that has the focus in the  **Attachment** cont
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

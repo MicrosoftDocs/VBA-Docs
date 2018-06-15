@@ -56,8 +56,5 @@ In combo boxes for which the  **LimitToList** property is set to Yes, the **NotI
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

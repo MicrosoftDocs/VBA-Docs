@@ -43,8 +43,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](Word.AxisTitle.md)
 

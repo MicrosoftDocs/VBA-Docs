@@ -49,7 +49,7 @@ The  **Restore** method raises a run-time error if the active document has chang
 The following example restores the previous version of the active document.
 
 
-```
+```vb
  Dim dlvVersions As Office.DocumentLibraryVersions 
  Set dlvVersions = ActiveDocument.DocumentLibraryVersions 
  dlvVersions(dlvVersions.Count - 1).Restore 
@@ -59,9 +59,6 @@ The following example restores the previous version of the active document.
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)

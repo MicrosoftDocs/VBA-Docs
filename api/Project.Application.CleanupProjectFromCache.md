@@ -46,7 +46,7 @@ You can use the  **CleanupProjectFromCache** method if you suspect the project i
 
 
 
-```
+```vb
 CleanupProjectFromCache("Sample.mpp")
 ```
 

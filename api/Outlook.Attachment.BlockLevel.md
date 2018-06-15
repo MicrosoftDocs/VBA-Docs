@@ -31,8 +31,5 @@ This value of this property reflects whether an attachment is blocked based on i
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Outlook.Attachment.md)
 

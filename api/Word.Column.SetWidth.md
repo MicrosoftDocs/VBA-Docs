@@ -40,8 +40,5 @@ The  **[WdRulerStyle](Word.WdRulerStyle.md)** behavior described above applies t
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Word.Column.md)
 

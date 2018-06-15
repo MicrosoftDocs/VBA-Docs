@@ -48,8 +48,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](PowerPoint.Trendline.md)
 

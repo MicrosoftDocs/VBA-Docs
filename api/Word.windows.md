@@ -19,7 +19,7 @@ A collection of  **[Window](Word.Window.md)** objects that represent all the ava
 Use the  **Windows** property to return the **Windows** collection. The following example tiles all the windows so that they don't overlap one another.
 
 
-```
+```vb
 Windows.Arrange ArrangeStyle:=wdTiled
 ```
 
@@ -39,7 +39,7 @@ Use  **Windows** (Index), where Index is the window name or the index number, to
 
 
 
-```
+```vb
 Windows("Document1").WindowState = wdWindowStateMaximize
 ```
 

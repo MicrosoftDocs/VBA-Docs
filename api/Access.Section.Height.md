@@ -37,8 +37,5 @@ The height of sections is measured from the inside of their borders. The height 
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

@@ -44,8 +44,5 @@ If the  **On Click** box is blank, the property value is an empty string.
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

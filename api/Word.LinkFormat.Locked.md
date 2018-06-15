@@ -31,8 +31,5 @@ If you use this property with a  **Shape** object that is a floating linked pict
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](Word.LinkFormat.md)
 

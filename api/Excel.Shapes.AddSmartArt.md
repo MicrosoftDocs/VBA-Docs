@@ -43,8 +43,5 @@ Shape
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

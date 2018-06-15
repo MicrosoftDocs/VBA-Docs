@@ -45,8 +45,5 @@ MROUND rounds up, away from zero, if the remainder of dividing number by multipl
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

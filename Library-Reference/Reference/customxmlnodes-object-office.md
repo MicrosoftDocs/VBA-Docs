@@ -26,7 +26,7 @@ The  **Attributes** and the **ChildNodes** properties return collections of node
 The following example selects one or more matching the XPath expression.
 
 
-```
+```vb
 Sub CustomXmlNodes() 
     Dim cxp1 As CustomXMLPart 
     Dim cxns As CustomXMLNodes 

@@ -29,8 +29,5 @@ The name of the default slicer style of the workbook.  **Variant**. Read/Write
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -48,8 +48,5 @@ The following example displays the setting of the  **ReadOnly** property for the
 ## See also
 
 
-#### Concepts
-
-
 [ListDataFormat Object](Excel.ListDataFormat.md)
 

@@ -41,7 +41,7 @@ Variant
 The following example gets information on the suggested signer of the document.
 
 
-```
+```vb
 Sub GetSigDetails() 
 Dim objSignatureInfo As SignatureInfo 
 Dim varDetail As Variant 
@@ -53,9 +53,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureInfo Object](signatureinfo-object-office.md)

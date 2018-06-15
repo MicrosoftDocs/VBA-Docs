@@ -95,8 +95,5 @@ The following table lists the different date filter types that will be deleted b
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

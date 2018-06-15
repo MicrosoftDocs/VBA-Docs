@@ -26,8 +26,5 @@ Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyl
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

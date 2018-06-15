@@ -64,8 +64,5 @@ Application.ActivePresentation.PageSetup _
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](PowerPoint.PageSetup.md)
 

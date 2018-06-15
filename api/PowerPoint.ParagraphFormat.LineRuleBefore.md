@@ -72,8 +72,5 @@ MsgBox "Current spacing before paragraphs: " &; sb &; sbUnits
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 

@@ -31,8 +31,5 @@ This is the value displayed as  **Start time** in the appointment inspector user
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

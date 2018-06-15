@@ -36,8 +36,5 @@ This property only has an effect when the  **[WordWrap](Excel.TextFrame2.WordWra
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Excel.TextFrame.md)
 

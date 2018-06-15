@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TableOfContents Object](Word.TableOfContents.md)
 

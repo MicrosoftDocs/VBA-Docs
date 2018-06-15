@@ -41,8 +41,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Envelope Object](Word.Envelope.md)
 

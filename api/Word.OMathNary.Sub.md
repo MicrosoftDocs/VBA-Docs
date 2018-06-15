@@ -26,8 +26,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the lower limit of
 ## See also
 
 
-#### Concepts
-
-
 [OMathNary Object](Word.OMathNary.md)
 

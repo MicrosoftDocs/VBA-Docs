@@ -24,7 +24,7 @@ As it applies to the Application object, the Width property determines the dista
 This example sets the width of the chart.
 
 
-```
+```vb
 myChart.Width = 360
 ```
 

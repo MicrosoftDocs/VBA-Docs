@@ -39,8 +39,5 @@ A  **ViewField** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [ViewFields Object](Outlook.ViewFields.md)
 

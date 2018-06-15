@@ -28,7 +28,7 @@ With a  **CellFormat** object, you can use the **[Borders](Excel.CellFormat.Bord
 The following example sets the search criteria for the interior of the cell format. 
 
 
-```
+```vb
 Sub ChangeCellFormat() 
  
  ' Set the interior of cell A1 to yellow. 

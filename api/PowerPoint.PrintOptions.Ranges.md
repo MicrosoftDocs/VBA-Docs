@@ -72,8 +72,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PrintOptions Object](printoptions-object-powerpoint.md)
 

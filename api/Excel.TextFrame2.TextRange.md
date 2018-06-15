@@ -23,8 +23,5 @@ Returns the  **[TextRange2](http://msdn.microsoft.com/library/a6a59c9b-9b64-c1e2
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

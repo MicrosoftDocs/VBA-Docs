@@ -85,8 +85,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Results Object](Outlook.Results.md)
 

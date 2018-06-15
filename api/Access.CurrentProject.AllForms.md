@@ -26,8 +26,5 @@ You can use the  **AllForms** property to reference the **[AllForms](Access.AllF
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

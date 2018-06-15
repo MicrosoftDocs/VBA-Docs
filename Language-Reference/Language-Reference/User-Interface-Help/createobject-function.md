@@ -80,7 +80,7 @@ You can pass an object returned by the  **CreateObject** function to a function 
 
 
 
-```
+```vb
 Call MySub (CreateObject("Excel.Application"))
 ```
 

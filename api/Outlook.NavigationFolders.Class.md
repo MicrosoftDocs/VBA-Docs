@@ -31,8 +31,5 @@ This property returns  **olNavigationFolders** for the **[NavigationFolders](Out
 ## See also
 
 
-#### Concepts
-
-
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 

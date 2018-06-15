@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [Watches Object](Excel.Watches.md)
 

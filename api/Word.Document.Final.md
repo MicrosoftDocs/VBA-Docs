@@ -31,8 +31,5 @@ Returns or sets a  **Boolean** that indicates whether a document is final. Read/
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

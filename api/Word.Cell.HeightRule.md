@@ -31,8 +31,5 @@ Setting the  **HeightRule** property of a **Cell** object automatically sets the
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

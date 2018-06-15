@@ -34,8 +34,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [Sheets Object](Excel.Sheets.md)
 

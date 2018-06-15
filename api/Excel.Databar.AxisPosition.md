@@ -50,8 +50,5 @@ myDataBar.AxisPosition = xlDataBarAxisMidpoint
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

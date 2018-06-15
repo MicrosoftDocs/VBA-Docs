@@ -49,8 +49,5 @@ c1.End(xlDown).Offset(2, 0).Formula = "=sum(Column1)"
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

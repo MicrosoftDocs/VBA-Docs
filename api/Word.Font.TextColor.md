@@ -26,8 +26,5 @@ Returns a [ColorFormat](Word.ColorFormat.md) object that represents the color fo
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

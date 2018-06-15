@@ -37,9 +37,6 @@ Boolean
 ## See also
 
 
-#### Concepts
-
-
 [CommandBar Object](commandbar-object-office.md)
 #### Other resources
 

@@ -48,8 +48,5 @@ If the  **AutoExpand** property is set to Yes, Microsoft Access automatically fi
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

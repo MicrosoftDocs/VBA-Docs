@@ -26,8 +26,5 @@ Returns the number of items in the  **OMathMatRows** collection. Read-only **Lon
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatRows Collection](Word.OMathMatRows.md)
 

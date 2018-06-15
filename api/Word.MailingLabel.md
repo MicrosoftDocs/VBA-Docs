@@ -33,7 +33,7 @@ Use the  **PrintOut** method to print a mailing label listed in the **Product Nu
 
 
 
-```
+```vb
 addr = "Katie Jordan" &; vbCr &; "123 Skye St." _ 
  &; vbCr &; "OurTown, WA 98107" 
 Application.MailingLabel.PrintOut Name:="5162", Address:=addr

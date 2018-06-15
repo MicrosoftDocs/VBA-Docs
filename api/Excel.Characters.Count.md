@@ -42,8 +42,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Characters Object](Excel.Characters.md)
 

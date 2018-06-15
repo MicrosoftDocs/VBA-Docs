@@ -24,9 +24,6 @@ There is only one  **FileTypes** collection for all searches so it's important t
 ## See also
 
 
-#### Concepts
-
-
 [Object Model Reference](reference-object-library-reference-for-office.md)
 #### Other resources
 

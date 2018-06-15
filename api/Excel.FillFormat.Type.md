@@ -33,8 +33,5 @@ The  **msoFillBackground** constant is not used in Microsoft Excel.
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

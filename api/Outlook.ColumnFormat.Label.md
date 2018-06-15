@@ -99,8 +99,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 

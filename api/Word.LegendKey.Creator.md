@@ -31,8 +31,5 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Word.LegendKey.md)
 

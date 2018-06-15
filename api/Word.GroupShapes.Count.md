@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of shapes in the collection. Read
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Collection Object](Word.groupshapes.md)
 

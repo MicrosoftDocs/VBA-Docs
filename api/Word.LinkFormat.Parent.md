@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Link
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](Word.LinkFormat.md)
 

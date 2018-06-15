@@ -31,8 +31,5 @@ The default value is  **True** . If you anticipate frequent queries to a server,
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

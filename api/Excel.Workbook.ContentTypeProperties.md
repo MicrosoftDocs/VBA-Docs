@@ -26,8 +26,5 @@ Returns a  **[MetaProperties](http://msdn.microsoft.com/library/957a6e06-3348-b1
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

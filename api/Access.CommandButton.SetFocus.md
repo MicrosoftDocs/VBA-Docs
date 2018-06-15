@@ -60,8 +60,5 @@ Forms!Employees!EmployeeID.SetFocus
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

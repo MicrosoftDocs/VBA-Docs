@@ -37,8 +37,5 @@ Returns the Unicode character referenced by the given numeric value.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

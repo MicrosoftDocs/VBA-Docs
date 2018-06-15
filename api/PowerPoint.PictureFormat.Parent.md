@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 

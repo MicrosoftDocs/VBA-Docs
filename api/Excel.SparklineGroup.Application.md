@@ -26,8 +26,5 @@ When used without an object qualifier, this property returns an  **[Application]
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroup Object](Excel.SparklineGroup.md)
 

@@ -57,7 +57,7 @@ Displays the  **More Views** dialog box with the specified pane of the current v
 If the current view includes the Timeline and the Gantt Chart, where the Timeline is the active pane, the following example shows  **Timeline** selected in the **More Views** dialog box.
 
 
-```
+```vb
 application.ViewsEx ApplyTo:=5
 ```
 

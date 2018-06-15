@@ -26,8 +26,5 @@ Returns or sets a  **[WdReadingLayoutMargin](Word.WdReadingLayoutMargin.md)** co
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

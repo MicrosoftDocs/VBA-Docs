@@ -34,8 +34,5 @@ In cell-reference data-point tracking, data labels track the cell reference that
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

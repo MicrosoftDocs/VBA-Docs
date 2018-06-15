@@ -26,8 +26,5 @@ Deletes the specified XML element from an XML document.
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

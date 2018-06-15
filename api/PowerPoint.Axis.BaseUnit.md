@@ -42,7 +42,7 @@ The following example sets the category axis for the first chart in the active d
 
 
 
-```
+```vb
 
 
 With ActiveDocument.InlineShapes(1)
@@ -64,9 +64,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Axis Object](PowerPoint.Axis.md)

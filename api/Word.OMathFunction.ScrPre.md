@@ -26,8 +26,5 @@ Returns an  **[OMathScrPre](Word.OMathScrPre.md)** object that represents a supe
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

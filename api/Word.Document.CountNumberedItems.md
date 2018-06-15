@@ -42,8 +42,5 @@ There are two types of numbers: preset numbers ( **wdNumberParagraph** ), which 
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

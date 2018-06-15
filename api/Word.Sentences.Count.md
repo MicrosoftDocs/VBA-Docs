@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of sentences in the collection. R
 ## See also
 
 
-#### Concepts
-
-
 [Sentences Collection Object](Word.sentences.md)
 

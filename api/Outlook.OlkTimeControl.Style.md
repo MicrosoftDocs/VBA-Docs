@@ -31,8 +31,5 @@ The default value is  **olTimeStyleTimeOnly** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

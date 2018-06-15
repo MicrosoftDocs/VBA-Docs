@@ -34,8 +34,5 @@ Occurs when the user selects a different account in the drop-down list under  **
 ## See also
 
 
-#### Concepts
-
-
 [AccountSelector Object](Outlook.AccountSelector.md)
 

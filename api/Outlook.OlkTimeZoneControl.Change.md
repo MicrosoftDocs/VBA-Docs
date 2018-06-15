@@ -26,8 +26,5 @@ Occurs when the  **[Value](Outlook.OlkTimeZoneControl.Value.md)** property chang
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

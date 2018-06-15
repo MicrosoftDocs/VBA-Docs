@@ -46,8 +46,5 @@ The  **Run** method returns whatever the called macro returns. Objects passed as
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

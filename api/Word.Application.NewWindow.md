@@ -66,8 +66,5 @@ Windows.Arrange ArrangeStyle:=wdTiled
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

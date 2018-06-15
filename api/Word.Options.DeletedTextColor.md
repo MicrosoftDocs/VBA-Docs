@@ -33,7 +33,7 @@ If the  **DeletedTextColor** property is set to **wdByAuthor** , Word automatica
 This example sets the color of deleted text to bright green.
 
 
-```
+```vb
 Options.DeletedTextColor = wdBrightGreen
 ```
 
@@ -50,9 +50,6 @@ lngTemp = Options.DeletedTextColor
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

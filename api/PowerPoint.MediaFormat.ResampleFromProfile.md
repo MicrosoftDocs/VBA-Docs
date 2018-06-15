@@ -52,8 +52,5 @@ profile must be one of the following  **PpResampleMediaProfile** constants.
 ## See also
 
 
-#### Concepts
-
-
 [MediaFormat Object](PowerPoint.MediaFormat.md)
 

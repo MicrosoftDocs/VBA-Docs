@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the spouse/partner name entry for the c
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

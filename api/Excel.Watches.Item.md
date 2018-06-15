@@ -34,8 +34,5 @@ Returns a single object from a collection.
 ## See also
 
 
-#### Concepts
-
-
 [Watches Object](Excel.Watches.md)
 

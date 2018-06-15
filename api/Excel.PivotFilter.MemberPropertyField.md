@@ -31,8 +31,5 @@ This property is valid only for Label filters and for OLAP PivotFields that have
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

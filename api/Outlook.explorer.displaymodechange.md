@@ -27,8 +27,5 @@ Occurs when the user performs an action that changes the display mode. Possible 
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object (Outlook)](explorer-object-outlook.md)
 

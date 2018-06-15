@@ -26,8 +26,5 @@ Returns a  **Coauthoring** object in the current **Presentation** object. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

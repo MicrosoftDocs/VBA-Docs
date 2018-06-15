@@ -41,15 +41,12 @@ Boolean
 The following sample returns True if the  **Bold** button is enabled.
 
 
-```
+```vb
 Application.CommandBars.GetEnabledMso("Bold")
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

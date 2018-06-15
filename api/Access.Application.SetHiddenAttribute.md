@@ -55,8 +55,5 @@ Application.SetHiddenAttribute acTable,"Customers", True
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

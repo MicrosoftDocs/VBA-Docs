@@ -27,7 +27,7 @@ Represents autofiltering for the specified worksheet.
 Use the  **[AutoFilter](Excel.Worksheet.AutoFilter.md)** property to return the **AutoFilter** object. Use the **[Filters](Excel.AutoFilter.Filters.md)** property to return a collection of individual column filters. Use the **[Range](Excel.AutoFilter.Range.md)** property to return the **Range** object that represents the entire filtered range. The following example stores the address and filtering criteria for the current filtering and then applies new filters.
 
 
-```
+```vb
 Dim w As Worksheet 
 Dim filterArray() 
 Dim currentFiltRange As String 
@@ -64,7 +64,7 @@ To create an  **AutoFilter** object for a worksheet, you must turn autofiltering
 
 
 
-```
+```vb
 Sub RestoreFilters() 
 Set w = Worksheets("Crew") 
 w.AutoFilterMode = False 

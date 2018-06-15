@@ -37,8 +37,5 @@ Application.DefaultWebOptions.ScreenSize = _
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 

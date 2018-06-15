@@ -33,8 +33,5 @@ A given member property is displayed in tooltips when the  **DisplayAsTooltip** 
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

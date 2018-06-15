@@ -31,8 +31,5 @@ Returns an error if there is no default store for the current profile.
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

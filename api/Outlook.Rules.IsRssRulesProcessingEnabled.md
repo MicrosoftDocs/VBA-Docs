@@ -33,8 +33,5 @@ If  **IsRssRulesProcessingEnabled** is **False** , then no conditions about RSS 
 ## See also
 
 
-#### Concepts
-
-
 [Rules Object](Outlook.Rules.md)
 

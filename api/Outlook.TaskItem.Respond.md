@@ -56,8 +56,5 @@ The following table describes the behavior of the  **Respond** method depending 
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

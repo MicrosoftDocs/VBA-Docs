@@ -51,8 +51,5 @@ DoCmd.OpenTable "Employees", acViewPreview
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -63,8 +63,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

@@ -39,8 +39,5 @@ FileExportConverter
 ## See also
 
 
-#### Concepts
-
-
 [FileExportConverters Collection](Excel.FileExportConverters.md)
 

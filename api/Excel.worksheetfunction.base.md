@@ -39,8 +39,5 @@ Converts a number into a text representation with the given radix (base).
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

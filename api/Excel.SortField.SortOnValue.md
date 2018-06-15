@@ -78,8 +78,5 @@ SortField.SetIcon ActiveWorkbook.IconSets(1).Item(3)
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

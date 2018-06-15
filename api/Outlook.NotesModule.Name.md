@@ -26,8 +26,5 @@ Returns a  **String** value that represents the localized display name for the *
 ## See also
 
 
-#### Concepts
-
-
 [NotesModule Object](Outlook.NotesModule.md)
 

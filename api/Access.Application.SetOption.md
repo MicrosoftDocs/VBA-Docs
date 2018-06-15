@@ -86,8 +86,5 @@ Application.SetOption "Selection Behavior", 1
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

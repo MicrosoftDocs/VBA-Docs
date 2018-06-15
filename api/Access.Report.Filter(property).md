@@ -58,8 +58,5 @@ When the  **Filter** property is set in form Design view, Microsoft Access does 
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

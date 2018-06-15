@@ -35,7 +35,7 @@ Some of the constants listed above may not be available to you, depending on the
 This example returns the type of spelling dictionary used for U.S. English.
 
 
-```
+```vb
 myType = Languages(wdEnglishUS).SpellingDictionaryType
 ```
 
@@ -44,15 +44,12 @@ This example makes the legal dictionary the active spelling dictionary.
 
 
 
-```
+```vb
 Languages(wdEnglishUS).SpellingDictionaryType = wdSpellingLegal
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Language Object](Word.Language.md)

@@ -26,8 +26,5 @@ A  **Boolean** value that is **True** if data validation is enabled in a list. R
 ## See also
 
 
-#### Concepts
-
-
 [ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 

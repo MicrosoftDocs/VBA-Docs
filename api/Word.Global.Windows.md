@@ -33,15 +33,12 @@ For information about returning a single member of a collection, see [Returning 
 This example arranges all open windows so that they don't overlap.
 
 
-```
+```vb
 Windows.Arrange ArrangeStyle:=wdTiled
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

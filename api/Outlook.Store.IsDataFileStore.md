@@ -37,8 +37,5 @@ The return value of  **IsDataFileStore** can change if the user is configured fo
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

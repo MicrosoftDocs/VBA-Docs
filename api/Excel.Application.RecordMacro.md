@@ -54,8 +54,5 @@ Application.RecordMacro BasicCode:="Application.Run ""MySub"" "
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -41,7 +41,7 @@ If the context node is any type other than  **msoXMLNodeElement**, the append op
 The following example demonstrates appending a node to an existing node.
 
 
-```
+```vb
 Sub ShowCustomXmlParts() 
     Dim cxp1 As CustomXMLPart 
     Dim cxn As CustomXMLNode 
@@ -64,9 +64,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLNode Object](customxmlnode-object-office.md)

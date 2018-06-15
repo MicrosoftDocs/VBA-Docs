@@ -26,8 +26,5 @@ Returns or sets a  **Single** value that represents the width, in points, of the
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

@@ -39,8 +39,5 @@ confCount = ActiveDocument.CoAuthoring.Conflicts.Count
 ## See also
 
 
-#### Concepts
-
-
 [Conflicts Object](Word.Conflicts.md)
 

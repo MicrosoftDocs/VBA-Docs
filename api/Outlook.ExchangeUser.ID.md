@@ -31,8 +31,5 @@ Returns a  **String** representing the unique identifier for the **[ExchangeUser
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

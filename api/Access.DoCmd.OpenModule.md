@@ -52,8 +52,5 @@ DoCmd.OpenModule "Utility Functions", "IsLoaded"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -26,9 +26,6 @@ Retrieves the value of a Picker property. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [PickerProperty Object](pickerproperty-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns the type of layout for the specified subform. Read-only  **[AcLayoutType
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

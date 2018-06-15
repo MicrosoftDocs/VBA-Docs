@@ -26,8 +26,5 @@ You can use the  **AllViews** property to reference the **[AllViews](Access.AllV
 ## See also
 
 
-#### Concepts
-
-
 [CodeData Object](Access.CodeData.md)
 

@@ -63,8 +63,5 @@ Workbooks("Book1").Connections.Add2 _
 ## See also
 
 
-#### Concepts
-
-
 [PivotCaches Object](Excel.PivotCaches.md)
 

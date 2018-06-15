@@ -31,8 +31,5 @@ This property is similar to the  **[AutoDiscoverConnectionMode](Outlook.NameSpac
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

@@ -44,8 +44,5 @@ If the  **On Dirty** box is blank, the property value is an empty string.
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

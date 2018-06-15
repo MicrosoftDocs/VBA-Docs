@@ -88,8 +88,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Items Object](Outlook.Items.md)
 

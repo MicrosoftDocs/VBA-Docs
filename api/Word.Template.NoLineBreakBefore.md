@@ -28,15 +28,12 @@ Returns or sets the kinsoku characters before which Microsoft Word will not brea
 This example sets "!", ")", and "]" as the kinsoku characters before which Word will not break a line in the active document.
 
 
-```
+```vb
 NormalTemplate.NoLineBreakBefore = "!)]"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Template Object](Word.Template.md)

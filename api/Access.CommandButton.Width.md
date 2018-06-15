@@ -48,8 +48,5 @@ Me!cmdSizeButton.Width = 1440
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

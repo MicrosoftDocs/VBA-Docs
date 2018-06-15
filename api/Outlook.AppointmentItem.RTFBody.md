@@ -54,7 +54,7 @@ End Sub
 ```
 
 
-```
+```vb
 private void GetRTFBodyForAppt() 
  
 { 
@@ -84,9 +84,6 @@ private void GetRTFBodyForAppt()
 
 
 ## See also
-
-
-#### Concepts
 
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)

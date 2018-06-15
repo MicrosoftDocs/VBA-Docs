@@ -38,8 +38,5 @@ Use the  **[HasTextFrame](PowerPoint.ShapeRange.HasTextFrame.md)** property to d
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

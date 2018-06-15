@@ -65,8 +65,5 @@ docActive.Paragraphs(4).Range.ListFormat.ListOutdent
 ## See also
 
 
-#### Concepts
-
-
 [ListFormat Object](Word.ListFormat.md)
 

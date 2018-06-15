@@ -38,8 +38,5 @@ The  **Updated** event occurs when the data in an OLE object has been modified. 
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

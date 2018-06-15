@@ -36,8 +36,5 @@ You can enter a value from -1 (darkest) to 1 (lightest) for the  **TintAndShade*
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 

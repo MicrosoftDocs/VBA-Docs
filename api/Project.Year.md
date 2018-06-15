@@ -37,7 +37,7 @@ Use  **Years** ( _Index_), where  _Index_ is the year index number, to return a 
 
 
 
-```
+```vb
 Dim r As Resource
 Dim d As Integer
 Dim workingDays As Integer
@@ -70,7 +70,7 @@ Use the  **[Years](Project.Calendar.Years.md)** property to return a **Years** c
 
 
 
-```
+```vb
 Sub CountYears()
     Dim c As Long
     Dim temp As String

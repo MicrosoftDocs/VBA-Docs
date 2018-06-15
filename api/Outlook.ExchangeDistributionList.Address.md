@@ -33,8 +33,5 @@ The  **Address** property must be set before calling the **[ExchangeDistribution
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

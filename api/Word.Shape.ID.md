@@ -26,8 +26,5 @@ Returns the identification type for the specified shape. Read-only  **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

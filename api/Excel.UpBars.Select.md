@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [UpBars Object](Excel.UpBars(objec).md)
 

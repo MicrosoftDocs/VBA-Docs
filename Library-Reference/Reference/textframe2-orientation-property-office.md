@@ -45,7 +45,7 @@ The value of the Orientation property can be one of these MsoTextOrientation con
 This example shows how to orient the text horizontally in shape one on slide one in the active presentation. 
 
 
-```
+```vb
 Dim pptSlide As Slide 
 Set pptSlide = ActivePresentation.Slides(1) 
 pptSlide.Shapes(1).TextFrame2.Orientation = msoTextOrientationHorizontal
@@ -56,9 +56,6 @@ pptSlide.Shapes(1).TextFrame2.Orientation = msoTextOrientationHorizontal
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextFrame2 Object](textframe2-object-office.md)

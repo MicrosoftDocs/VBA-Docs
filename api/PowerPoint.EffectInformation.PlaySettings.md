@@ -48,9 +48,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [EffectInformation Object](PowerPoint.EffectInformation.md)
 
 

@@ -52,8 +52,5 @@ ActivePresentation.Slides(2).SlideShowTransition.Hidden = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 

@@ -37,8 +37,5 @@ ActiveDocument.WebOptions.ScreenSize = _
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Word.WebOptions.md)
 

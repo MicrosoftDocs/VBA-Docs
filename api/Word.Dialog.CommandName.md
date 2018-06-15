@@ -41,8 +41,5 @@ MsgBox Dialogs(wdDialogFileSaveAs).CommandName
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Word.Dialog.md)
 

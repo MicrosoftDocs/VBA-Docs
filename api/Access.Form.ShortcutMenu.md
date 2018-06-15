@@ -45,8 +45,5 @@ Forms!Invoice.ShortcutMenu = False
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

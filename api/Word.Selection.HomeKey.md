@@ -37,7 +37,7 @@ Moves or extends the selection to the beginning of the specified unit. This meth
 This example moves the selection to the beginning of the current story. If the selection is in the main text story, the selection is moved to the beginning of the document.
 
 
-```
+```vb
 Selection.HomeKey Unit:=wdStory, Extend:=wdMove
 ```
 
@@ -53,9 +53,6 @@ If pos = 0 Then StatusBar = "Selection was not moved"
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

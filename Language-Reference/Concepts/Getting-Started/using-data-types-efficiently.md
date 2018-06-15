@@ -38,7 +38,7 @@ This statement declares that a variable  `X` is an integer — a whole number be
 
 
 
-```
+```vb
 X = 32768        ' Causes error. 
 X = 5.9        ' Sets x to 6. 
 

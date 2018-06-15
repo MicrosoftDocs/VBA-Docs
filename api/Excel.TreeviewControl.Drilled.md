@@ -61,8 +61,5 @@ ActiveSheet.PivotTables("PivotTable1").CubeFields(1) _
 ## See also
 
 
-#### Concepts
-
-
 [TreeviewControl Object](Excel.TreeviewControl.md)
 

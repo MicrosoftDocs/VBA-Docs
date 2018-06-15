@@ -26,8 +26,5 @@ Specifies the PivotField to which the filter is applied. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

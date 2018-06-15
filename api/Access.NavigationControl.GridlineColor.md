@@ -33,8 +33,5 @@ You can use the Color Builder to set this property by clicking the  **Build** bu
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

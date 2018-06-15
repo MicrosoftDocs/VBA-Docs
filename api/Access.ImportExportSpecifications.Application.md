@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [ImportExportSpecifications Collection](Access.ImportExportSpecifications.md)
 

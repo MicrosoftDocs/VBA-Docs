@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of mail merge field names in the 
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeFieldNames Object](Word.MailMergeFieldNames.md)
 

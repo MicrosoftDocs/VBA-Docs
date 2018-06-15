@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of task panes in the collection. 
 ## See also
 
 
-#### Concepts
-
-
 [TaskPanes Collection](Word.TaskPanes.md)
 

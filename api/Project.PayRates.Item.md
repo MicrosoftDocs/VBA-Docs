@@ -31,7 +31,4 @@ Gets a single  **PayRate** object from the **PayRates** collection. Read-only **
 ## See also
 
 
-#### Concepts
-
-
 [PayRates Collection Object](Project.payrates.md)

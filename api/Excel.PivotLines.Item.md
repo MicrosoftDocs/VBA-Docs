@@ -34,8 +34,5 @@ Returns a specific element of the  **PivotLines** collection object by its posit
 ## See also
 
 
-#### Concepts
-
-
 [PivotLines Object](Excel.PivotLines.md)
 

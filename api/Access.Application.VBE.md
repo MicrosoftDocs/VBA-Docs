@@ -42,8 +42,5 @@ MsgBox "Number of References = " &; VBE.ActiveVBProject _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

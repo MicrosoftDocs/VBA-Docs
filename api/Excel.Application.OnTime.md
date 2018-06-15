@@ -77,8 +77,5 @@ Application.OnTime EarliestTime:=TimeValue("17:00:00"), _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

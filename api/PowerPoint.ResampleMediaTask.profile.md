@@ -44,8 +44,5 @@ Returns the media mobilization profile for the specified media asset. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ResampleMediaTask Object](PowerPoint.ResampleMediaTask.md)
 

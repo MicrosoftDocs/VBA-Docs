@@ -36,9 +36,6 @@ SmartArtQuickStyle
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtQuickStyles Object](smartartquickstyles-object-office.md)
 #### Other resources
 

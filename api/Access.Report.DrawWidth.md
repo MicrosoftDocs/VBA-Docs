@@ -35,8 +35,5 @@ Increase the value of this property to increase the width of the line. If the  *
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

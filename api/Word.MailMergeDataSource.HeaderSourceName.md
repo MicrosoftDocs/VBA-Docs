@@ -54,8 +54,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 

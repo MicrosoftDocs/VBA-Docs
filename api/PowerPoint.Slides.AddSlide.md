@@ -68,8 +68,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
 ## See also
 
 
-#### Concepts
-
-
 [Slides Object](PowerPoint.Slides.md)
 

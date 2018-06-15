@@ -31,8 +31,5 @@ This property always returns  **olSharing** for the **[SharingItem](Outlook.Shar
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

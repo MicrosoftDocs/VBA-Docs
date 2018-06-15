@@ -31,8 +31,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [SlicerItem Object](Excel.SlicerItem.md)
 

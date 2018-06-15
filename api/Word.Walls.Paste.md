@@ -31,8 +31,5 @@ You can use this method on column, bar, line, or radar charts.
 ## See also
 
 
-#### Concepts
-
-
 [Walls Object](Word.Walls.md)
 

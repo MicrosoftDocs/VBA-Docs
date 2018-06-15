@@ -31,8 +31,5 @@ The Visual Basic functions  **CreateObject** and **GetObject** enable access to 
 ## See also
 
 
-#### Concepts
-
-
 [Footnotes Collection Object](Word.footnotes.md)
 

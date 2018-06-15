@@ -49,8 +49,5 @@ MsgBox ActiveDocument.Versions(last).SavedBy
 ## See also
 
 
-#### Concepts
-
-
 [Version Object](Word.Version.md)
 

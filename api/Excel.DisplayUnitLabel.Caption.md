@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the display unit label text.
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(objec).md)
 

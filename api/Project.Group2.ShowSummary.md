@@ -35,8 +35,5 @@ Debug.Print activeproject.TaskGroups2(2).ShowSummary
 ## See also
 
 
-#### Concepts
-
-
 [Group2 Object](Project.Group2.md)
 

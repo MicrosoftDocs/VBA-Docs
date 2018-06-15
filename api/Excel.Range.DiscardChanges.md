@@ -31,8 +31,5 @@ For a range based on an OLAP data source, this method removes all values and for
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

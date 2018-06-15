@@ -41,7 +41,7 @@ You must test all valid  **msoLanguageID** values to enumerate the set of prefer
 This example displays a message if U.S. English is a preferred editing language.
 
 
-```
+```vb
 If Application.LanguageSettings. _ 
  LanguagePreferredForEditing(msoLanguageIDEnglishUS) Then 
  MsgBox "One of the preferred editing languages is US English." 
@@ -50,9 +50,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [LanguageSettings Object](languagesettings-object-office.md)

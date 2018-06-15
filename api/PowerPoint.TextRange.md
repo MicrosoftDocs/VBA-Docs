@@ -39,7 +39,7 @@ The following examples describe how to:
 Use the [TextRange](http://msdn.microsoft.com/library/4a565e39-8bfa-7370-3ed6-57c442796144%28Office.15%29.aspx)property of the  **[TextFrame](PowerPoint.TextFrame.md)** object to return a **TextRange** object for any shape you specify. Use the[Text](http://msdn.microsoft.com/library/c80c8b19-73e2-0820-abd6-c44f4b2644b2%28Office.15%29.aspx)property to return the string of text in the  **TextRange** object. The following example adds a rectangle to `myDocument` and sets the text it contains.
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 myDocument.Shapes.AddShape(msoShapeRectangle, 0, 0, 250, 140) _
@@ -52,7 +52,7 @@ Because the  **Text** property is the default property of the **TextRange** obje
 
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).TextFrame _
 
     .TextRange.Text = "Here is some test text"
@@ -69,7 +69,7 @@ Use the  **TextRange** property of the **Selection** object to return the curren
 
 
 
-```
+```vb
 ActiveWindow.Selection.TextRange.Copy
 ```
 

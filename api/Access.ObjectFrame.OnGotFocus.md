@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("OK").OnGotFocus
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

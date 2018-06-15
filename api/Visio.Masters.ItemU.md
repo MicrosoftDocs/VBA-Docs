@@ -47,7 +47,7 @@ You can also pass the unique ID string of a  **Master** or **Shape** object to t
 
 
 
-```
+```vb
 objRet = vsoShapes.ItemU("{2287DC42-B167-11CE-88E9-0020AFDDD917}")
 ```
 
@@ -58,7 +58,7 @@ To search all shapes in the collection, plus the shapes inside groups and the co
 
 
 
-```
+```vb
 objRet = vsoShapes.ItemU("*{2287DC42-B167-11CE-88E9-0020AFDDD917}")
 ```
 

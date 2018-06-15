@@ -31,8 +31,5 @@ The default value is 2000 milliseconds. If this value is changed, the new value 
 ## See also
 
 
-#### Concepts
-
-
 [RTD Object](Excel.RTD.md)
 

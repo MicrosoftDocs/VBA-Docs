@@ -43,8 +43,5 @@ You can use the Column property to return data from a specified row and column, 
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

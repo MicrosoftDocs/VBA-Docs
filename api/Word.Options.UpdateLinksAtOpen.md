@@ -37,15 +37,12 @@ This example returns the current status of the  **Update automatic links at Open
 
 
 
-```
+```vb
 temp = Options.UpdateLinksAtOpen
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

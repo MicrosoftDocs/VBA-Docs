@@ -19,8 +19,5 @@ Contains methods and properties that allow access to and control over audio and 
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

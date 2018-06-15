@@ -31,7 +31,4 @@ Gets a single  **View** object from the **ViewsCombination** collection. Read-on
 ## See also
 
 
-#### Concepts
-
-
 [ViewsCombination Collection Object](Project.viewscombination(object).md)

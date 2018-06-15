@@ -24,7 +24,7 @@ Use the  **[DropCap](Publisher.TextRange.DropCap.md)** property to return a **Dr
 
  
 
-```
+```vb
 Sub ApplyDropCap() 
  ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange _ 
  .DropCap.ApplyCustomDropCap Size:=3, Span:=3, Bold:=True 

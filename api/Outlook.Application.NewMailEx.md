@@ -49,8 +49,5 @@ For users using Cached Exchange Mode, the event will fire in all settings, provi
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

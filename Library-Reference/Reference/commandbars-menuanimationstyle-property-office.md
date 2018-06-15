@@ -34,7 +34,7 @@ Gets or sets a  **MsoMenuAnimation** that represents the way a command bar is an
 This example sets options for all command bars in Microsoft Office.
 
 
-```
+```vb
 With CommandBars 
     .LargeButtons = True  
     .DisplayTooltips = True  
@@ -45,9 +45,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

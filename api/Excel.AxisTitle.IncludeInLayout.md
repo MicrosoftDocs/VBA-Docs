@@ -31,8 +31,5 @@ This property does not affect whether a chart is in autolayout mode or not. If t
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](Excel.AxisTitle(objec).md)
 

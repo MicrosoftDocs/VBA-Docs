@@ -26,8 +26,5 @@ Specifies a custom order to sort the fields. Read/write  **Variant** .
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

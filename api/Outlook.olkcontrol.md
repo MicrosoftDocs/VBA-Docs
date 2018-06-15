@@ -24,7 +24,7 @@ The members offered by  **OlkControl** can apply to most Outlook controls. **Olk
 The following code sample uses the  **[OlkControl](Outlook.olkcontrol.md)** class to enable automatic resizing of a text box control with respect to any resizing of the form. It uses casting in Visual Basic to allow the text box control to use the properties of **OlkControl**.
 
 
-```
+```vb
 Sub ResizeWithForm() 
  Dim myTextBox As OlkTextBox 
  Dim olkCtrl As OlkControl 

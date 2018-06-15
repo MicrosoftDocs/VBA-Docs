@@ -18,7 +18,7 @@ To check whether Outlook was delivered by Click-to-Run on a client computer:
 
 - Verify if the  `VirtualOutlook` key exists in the following location in the Windows registry:
     
-```text
+```vbtext
 HKEY_LOCAL_MACHINE\Software\Microsoft\Office\15.0\Common\InstallRoot\Virtual\VirtualOutlook
 ```
 

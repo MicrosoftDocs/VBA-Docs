@@ -53,8 +53,5 @@ ActiveWorkbook.Colors(5) = RGB(255, 0, 0)
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

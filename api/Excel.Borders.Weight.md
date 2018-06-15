@@ -26,8 +26,5 @@ Returns or sets a  **[XlBorderWeight](Excel.XlBorderWeight.md)** value that repr
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection](Excel.Borders.md)
 

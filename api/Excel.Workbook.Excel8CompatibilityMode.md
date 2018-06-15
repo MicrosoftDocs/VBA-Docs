@@ -31,8 +31,5 @@ In compatibility mode, certain functionality is disabled or functions differentl
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

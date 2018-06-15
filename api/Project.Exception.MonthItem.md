@@ -28,7 +28,4 @@ The  **MonthItem** property can be one of the following **[PjExceptionItem](Proj
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

@@ -47,8 +47,5 @@ Changing the  **DisplayType** property of a bound object frame doesn't affect th
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

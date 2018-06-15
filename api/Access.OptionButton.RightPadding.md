@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the option button and its r
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

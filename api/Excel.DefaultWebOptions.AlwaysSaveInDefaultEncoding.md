@@ -41,8 +41,5 @@ Application.DefaultWebOptions.AlwaysSaveInDefaultEncoding = True
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 

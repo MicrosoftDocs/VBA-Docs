@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the **Addins** colle
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Collection Object](Word.addins.md)
 

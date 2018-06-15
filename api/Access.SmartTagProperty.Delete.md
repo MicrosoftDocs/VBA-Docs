@@ -31,8 +31,5 @@ Nothing
 ## See also
 
 
-#### Concepts
-
-
 [SmartTagProperty Object](Access.SmartTagProperty.md)
 

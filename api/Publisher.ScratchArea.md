@@ -34,7 +34,7 @@ This example assigns the first shape on the scratch area of the active document 
 
 
 
-```
+```vb
 Dim saPage As ScratchArea 
 Dim objFirst As Object 
  

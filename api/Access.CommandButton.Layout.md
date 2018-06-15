@@ -26,8 +26,5 @@ Returns the type of layout for the specified button. Read-only  **[AcLayoutType]
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

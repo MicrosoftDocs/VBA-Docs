@@ -26,8 +26,5 @@ Retuns the OLEDB Connection details for the specified  **WorkbookConnection** ob
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

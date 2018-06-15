@@ -34,9 +34,6 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceLink Object](sharedworkspacelink-object-office.md)
 #### Other resources
 

@@ -47,7 +47,7 @@ A GUID is a unique hexadecimal identifier for a list or a view. A GUID must be e
 
 
 
-```
+```vb
  
 {FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF}
 ```
@@ -63,9 +63,6 @@ You can obtain the GUID for a list or view from the SharePoint site by using the
     
 
 ## See also
-
-
-#### Concepts
 
 
 [DoCmd Object](Access.DoCmd.md)

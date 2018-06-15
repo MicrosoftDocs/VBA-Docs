@@ -33,8 +33,5 @@ Use the  **Parent** property to access the properties or methods of an object's 
 ## See also
 
 
-#### Concepts
-
-
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 

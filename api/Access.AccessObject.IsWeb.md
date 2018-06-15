@@ -31,8 +31,5 @@ The  **IsWeb** property contains **True** if the object is a Web object.
 ## See also
 
 
-#### Concepts
-
-
 [AccessObject Object](Access.AccessObject.md)
 

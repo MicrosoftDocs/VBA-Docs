@@ -45,8 +45,5 @@ The value of the  **Type** property can be one of these **MsoColorType** constan
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 

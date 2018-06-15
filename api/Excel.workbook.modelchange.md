@@ -32,8 +32,5 @@ Occurs after the Excel data model is changed.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

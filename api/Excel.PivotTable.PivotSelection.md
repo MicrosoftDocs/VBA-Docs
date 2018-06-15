@@ -41,8 +41,5 @@ Worksheets(1).PivotTables(1).PivotSelection = "Salesman[Bob]"
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

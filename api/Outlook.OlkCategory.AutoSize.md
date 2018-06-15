@@ -33,8 +33,5 @@ This control assumes one line unless the contents expand and need more space. If
 ## See also
 
 
-#### Concepts
-
-
 [OlkCategory Object](Outlook.OlkCategory.md)
 

@@ -26,8 +26,5 @@ Returns an  **[OMathFunc](Word.OMathFunc.md)** object that represents a type of 
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

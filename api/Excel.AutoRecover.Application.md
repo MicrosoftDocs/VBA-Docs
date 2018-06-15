@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [AutoRecover Object](Excel.AutoRecover.md)
 

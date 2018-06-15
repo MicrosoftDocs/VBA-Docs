@@ -31,8 +31,5 @@ The default value is  **olEnterFieldBehaviorSelectAll** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

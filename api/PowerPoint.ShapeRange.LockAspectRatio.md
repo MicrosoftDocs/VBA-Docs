@@ -55,8 +55,5 @@ myDocument.Shapes.AddShape(msoShapeCube, 50, 50, 100, 200) _
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

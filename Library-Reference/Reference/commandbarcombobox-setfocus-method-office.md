@@ -31,7 +31,7 @@ Moves the keyboard focus to the specified  **CommandBarComboBox** control. If th
 This example creates a command bar named "Custom" and adds a  **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
 
 
-```
+```vb
 Set focusBar = CommandBars.Add(Name:="Custom") 
 With CommandBars("Custom") 
     .Visible = True  
@@ -53,9 +53,6 @@ testComboBox.SetFocus
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)

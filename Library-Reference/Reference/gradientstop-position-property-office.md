@@ -33,9 +33,6 @@ Gradients are a smooth transition from one color state to another. The endpoints
 ## See also
 
 
-#### Concepts
-
-
 [GradientStop Object](gradientstop-object-office.md)
 #### Other resources
 

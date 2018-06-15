@@ -47,8 +47,5 @@ The  **DrawStyle** property produces the results described in the preceding tabl
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

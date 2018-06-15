@@ -33,8 +33,5 @@ If  **True** , the specified item is in conflict.
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

@@ -49,8 +49,5 @@ Charts("Chart1").SeriesCollection(1).HasDataLabels = True
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

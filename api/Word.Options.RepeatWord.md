@@ -31,8 +31,5 @@ This property corresponds to the  **Flag repeated words** check box on the **Pro
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

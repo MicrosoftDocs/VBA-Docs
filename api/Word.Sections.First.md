@@ -26,8 +26,5 @@ Returns a  **[Section](Word.Section.md)** object that represents the first item 
 ## See also
 
 
-#### Concepts
-
-
 [Sections Collection Object](Word.sections.md)
 

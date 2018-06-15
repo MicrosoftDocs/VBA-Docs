@@ -23,9 +23,6 @@ Gets an  **Application** object that represents the container application for th
 ## See also
 
 
-#### Concepts
-
-
 [PickerDialog Object](pickerdialog-object-office.md)
 #### Other resources
 

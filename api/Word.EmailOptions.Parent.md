@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Emai
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

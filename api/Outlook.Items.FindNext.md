@@ -64,8 +64,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Items Object](items-object-outlook.md)
 

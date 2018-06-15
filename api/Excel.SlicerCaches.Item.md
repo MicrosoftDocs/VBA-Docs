@@ -39,8 +39,5 @@ Returns a single  **[SlicerCache](Excel.SlicerCache.md)** object from the collec
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCaches Object](Excel.SlicerCaches.md)
 

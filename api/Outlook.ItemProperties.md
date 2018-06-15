@@ -34,7 +34,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/317daeba-e34c-8458-2492-c4347
 The following example creates a new  **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)** object and stores its **ItemProperties** collection in a variable called `objItems`.
 
 
-```
+```vb
 Sub ItemProperty() 
  
  'Creates a new MailItem and access its properties 

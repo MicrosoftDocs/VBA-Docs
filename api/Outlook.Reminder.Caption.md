@@ -26,8 +26,5 @@ Returns a  **String** representing the title. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Reminder Object](Outlook.Reminder.md)
 

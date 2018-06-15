@@ -43,8 +43,5 @@ Me.ctl.BorderTint=25
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

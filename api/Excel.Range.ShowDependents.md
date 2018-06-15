@@ -60,8 +60,5 @@ ActiveCell.ShowDependents Remove:=True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

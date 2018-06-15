@@ -43,8 +43,5 @@ Worksheets("Sheet1").Columns("C").Hidden = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

@@ -24,7 +24,7 @@ Use the  **TextStyles** property to return the **TextStyles** collection. The fo
 
  
 
-```
+```vb
 Sub ListTextStyles() 
  Dim sty As TextStyle 
  Dim tbl As Table 
@@ -51,7 +51,7 @@ Use the  **[Add](Publisher.TextStyles.Add.md)** method to create a new user-defi
 
 
 
-```
+```vb
 Sub ApplyTextStyle() 
  Dim styNew As TextStyle 
  Dim fntStyle As Font 

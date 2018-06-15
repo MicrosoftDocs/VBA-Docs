@@ -31,8 +31,5 @@ Possible values for the  **BibliographySort** property are `Author`,  `Title`,  
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

@@ -34,8 +34,5 @@ Deletes a tag.
 ## See also
 
 
-#### Concepts
-
-
 [Tags Object](PowerPoint.Tags.md)
 

@@ -31,8 +31,5 @@ Some methods and properties may be unavailable if the Visible property is  **Fal
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

@@ -28,7 +28,4 @@ The  **Index** properties of other objects are used in similar ways. For an exam
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

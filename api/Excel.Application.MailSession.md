@@ -43,8 +43,5 @@ If Not IsNull(Application.MailSession) Then Application.MailLogoff
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

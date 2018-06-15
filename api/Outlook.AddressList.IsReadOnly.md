@@ -31,8 +31,5 @@ The  **IsReadOnly** property refers to adding and deleting the entries in the ad
 ## See also
 
 
-#### Concepts
-
-
 [AddressList Object](Outlook.AddressList.md)
 

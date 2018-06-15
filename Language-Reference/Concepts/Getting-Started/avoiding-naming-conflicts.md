@@ -28,7 +28,7 @@ Most naming conflicts can be resolved by preceding each identifier with a qualif
 
 
 
-```
+```vb
 YourProject.YourModule.YourSub MyProject.MyModule.MyVar
 ```
 

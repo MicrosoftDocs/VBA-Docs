@@ -29,8 +29,5 @@ For comments that are replies to existing comments, returns the parent  **Commen
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

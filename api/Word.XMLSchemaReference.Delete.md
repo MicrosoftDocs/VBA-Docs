@@ -26,8 +26,5 @@ Deletes the specified XML Schema Reference.
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReference Object](Word.XMLSchemaReference.md)
 

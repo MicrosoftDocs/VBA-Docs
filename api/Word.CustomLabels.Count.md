@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of items in the collection. Read-
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabels Collection Object](Word.customlabels.md)
 

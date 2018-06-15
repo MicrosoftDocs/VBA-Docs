@@ -116,8 +116,5 @@ When you quit Microsoft Access, you can reset all options to their original sett
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

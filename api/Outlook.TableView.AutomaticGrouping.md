@@ -31,8 +31,5 @@ If this property is set to  **True** , items are automatically grouped in the vi
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

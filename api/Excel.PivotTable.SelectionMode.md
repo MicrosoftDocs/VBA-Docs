@@ -63,8 +63,5 @@ Worksheets(1).PivotTables(1).SelectionMode = _
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -70,8 +70,5 @@ ActiveChart.SeriesCollection.Add _
 ## See also
 
 
-#### Concepts
-
-
 [SeriesCollection Object](Excel.SeriesCollection(object).md)
 

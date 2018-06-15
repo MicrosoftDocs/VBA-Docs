@@ -43,15 +43,12 @@ Other than using the  **SetControlItemProperty** method of a **[FormRegion](Outl
 
 
 
-```
+```vb
 myPage.Controls("bar").ItemProperty = "subject"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FormRegion Object](Outlook.FormRegion.md)

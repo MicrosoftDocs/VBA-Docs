@@ -35,16 +35,13 @@ This new node is added to the bottom of the data model at the top most level for
 The following code adds a SmartArtNode to the collection of SmartArtNodes. 
 
 
-```
+```vb
 Dim saNodes As SmartArtNodes 
 saNodes.Add()
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArtNodes Object](smartartnodes-object-office.md)

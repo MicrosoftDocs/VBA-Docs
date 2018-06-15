@@ -37,7 +37,7 @@ If the class ID of the container application in which the document is embedded c
 
 
 
-```
+```vb
     {2287DC42-B167-11CE-88E9-002AFDDD917}
 ```
 

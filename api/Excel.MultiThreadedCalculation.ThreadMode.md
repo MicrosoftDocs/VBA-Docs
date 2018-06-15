@@ -31,8 +31,5 @@ You can set the thread mode to either  **XlThreadModeAutomatic** or **XlThreadMo
 ## See also
 
 
-#### Concepts
-
-
 [MultiThreadedCalculation Object](Excel.MultiThreadedCalculation.md)
 

@@ -36,8 +36,5 @@ If ActiveDocument.Saved = False Then ActiveDocument.Save
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

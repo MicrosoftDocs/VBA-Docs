@@ -38,8 +38,5 @@ By running a macro or event procedure when a Change event occurs, you can coordi
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

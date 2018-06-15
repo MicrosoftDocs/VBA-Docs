@@ -38,8 +38,5 @@ Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn]
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

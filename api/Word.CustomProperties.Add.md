@@ -40,8 +40,5 @@ CustomProperty
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperties Collection](Word.CustomProperties.md)
 

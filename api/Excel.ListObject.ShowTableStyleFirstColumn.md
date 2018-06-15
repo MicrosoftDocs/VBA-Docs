@@ -26,8 +26,5 @@ Returns or sets if the first column is formatted for the specified  **ListObject
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

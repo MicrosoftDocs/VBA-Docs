@@ -33,8 +33,5 @@ After calling this method, the  **HiddenItemsList** / **HiddenItems** and **Visi
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

@@ -26,9 +26,6 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 ## See also
 
 
-#### Concepts
-
-
 [DownBars Object](PowerPoint.DownBars.md)
 
 

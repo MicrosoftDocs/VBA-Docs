@@ -44,8 +44,5 @@ When created, controls have an attached label (as long as their  **AutoLabel** p
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

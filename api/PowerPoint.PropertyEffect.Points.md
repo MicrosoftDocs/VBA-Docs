@@ -31,8 +31,5 @@ Use the  **[From](PowerPoint.PropertyEffect.From.md)** and **[To](PowerPoint.Pro
 ## See also
 
 
-#### Concepts
-
-
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 

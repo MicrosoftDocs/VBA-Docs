@@ -27,7 +27,7 @@ Use  **Days** (*Index* ), where*Index* is the day index number or **[PjWeekday](
 
 
 
-```
+```vb
 Dim R As Resource, D As Integer, WorkingDays As Integer 
  
 For Each R In ActiveSelection.Resources() 
@@ -55,7 +55,7 @@ Use the  **[Days](Project.Month.Days.md)** property to return a **Days** collect
 
 
 
-```
+```vb
 ActiveProject.Calendar.Years(2008).Months(pjSeptember).Days.Count
 ```
 

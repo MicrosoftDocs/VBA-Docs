@@ -26,8 +26,5 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeFieldNames Object](Word.MailMergeFieldNames.md)
 

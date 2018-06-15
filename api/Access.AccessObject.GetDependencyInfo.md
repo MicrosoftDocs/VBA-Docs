@@ -47,8 +47,5 @@ Access does not search Visual Basic for Applications (VBA) code, macros, or data
 ## See also
 
 
-#### Concepts
-
-
 [AccessObject Object](Access.AccessObject.md)
 

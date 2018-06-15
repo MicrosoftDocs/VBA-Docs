@@ -25,7 +25,7 @@ When you refer to an individual  **Control** object in the **Controls** collecti
 
 
 
-```
+```vb
 ' Implicitly refer to NewData control in Controls 
 ' collection. 
 Me!NewData
@@ -34,7 +34,7 @@ Me!NewData
 
 
 
-```
+```vb
 ' Use if control name contains space. 
 Me![New Data]
 ```
@@ -42,7 +42,7 @@ Me![New Data]
 
 
 
-```
+```vb
 ' Performance slightly slower. 
 Me("NewData")
 ```
@@ -50,7 +50,7 @@ Me("NewData")
 
 
 
-```
+```vb
 ' Refer to a control by its index in the controls 
 ' collection. 
 Me(0)
@@ -59,7 +59,7 @@ Me(0)
 
 
 
-```
+```vb
 ' Refer to a NewData control by using the subform 
 ' Controls collection. 
 Me.ctlSubForm.Controls!NewData
@@ -68,7 +68,7 @@ Me.ctlSubForm.Controls!NewData
 
 
 
-```
+```vb
 ' Explicitly refer to the NewData control in the 
 ' Controls collection. 
 Me.Controls!NewData
@@ -77,14 +77,14 @@ Me.Controls!NewData
 
 
 
-```
+```vb
 Me.Controls("NewData")
 ```
 
 
 
 
-```
+```vb
 Me.Controls(0)
 ```
 
@@ -100,7 +100,7 @@ If you do know the data type of the control to which you are referring, and the 
 
 
 
-```
+```vb
 Dim txt As TextBox 
 Set txt = Forms!Employees!LastName 
 

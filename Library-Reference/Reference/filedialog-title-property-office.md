@@ -29,9 +29,6 @@ Sets or gets the title of a file dialog box displayed using the  **FileDialog** 
 ## See also
 
 
-#### Concepts
-
-
 [FileDialog Object](filedialog-object-office.md)
 #### Other resources
 

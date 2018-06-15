@@ -39,8 +39,5 @@ MsgBox ActiveCell.Phonetics(2).Length
 ## See also
 
 
-#### Concepts
-
-
 [Phonetics Object](Excel.Phonetics.md)
 

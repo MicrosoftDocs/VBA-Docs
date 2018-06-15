@@ -58,8 +58,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartData Object](PowerPoint.ChartData.md)
 

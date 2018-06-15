@@ -26,8 +26,5 @@ Returns the range of object for the specified  **WorkbookConnection** object. Re
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

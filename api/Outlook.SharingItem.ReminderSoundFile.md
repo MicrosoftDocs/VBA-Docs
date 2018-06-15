@@ -31,8 +31,5 @@ This property is only valid if the  **[ReminderOverrideDefault](Outlook.SharingI
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

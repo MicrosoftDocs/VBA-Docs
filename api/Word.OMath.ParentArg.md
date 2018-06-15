@@ -26,8 +26,5 @@ Returns an  **OMath** object that represents the parent, or containing, argument
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

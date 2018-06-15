@@ -29,8 +29,5 @@ Clears the filter for a timeline (date filter).
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

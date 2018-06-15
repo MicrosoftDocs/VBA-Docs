@@ -33,8 +33,5 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Dist
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

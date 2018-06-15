@@ -26,8 +26,5 @@ Copies the specified field to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

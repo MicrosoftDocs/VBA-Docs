@@ -31,8 +31,5 @@ If  **DisplayMemberPropertyTooltips** is set to **False** , no member properties
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

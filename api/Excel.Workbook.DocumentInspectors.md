@@ -26,8 +26,5 @@ Returns a  **[DocumentInspectors](http://msdn.microsoft.com/library/8366d7cd-e01
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

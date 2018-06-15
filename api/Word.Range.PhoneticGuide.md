@@ -45,7 +45,7 @@ For more information on using Word with East Asian languages, see Word features 
 This example adds a phonetic guide to the selected phrase "tres chic."
 
 
-```
+```vb
 Selection.Range.PhoneticGuide Text:="tray sheek", _ 
  Alignment:=wdPhoneticGuideAlignmentCenter, _ 
  Raise:=11, FontSize:=7
@@ -53,9 +53,6 @@ Selection.Range.PhoneticGuide Text:="tray sheek", _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

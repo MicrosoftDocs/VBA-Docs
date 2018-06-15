@@ -31,8 +31,5 @@ To display an item, you can use [DocumentItem.Display](Outlook.DocumentItem.Disp
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

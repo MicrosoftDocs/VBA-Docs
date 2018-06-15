@@ -52,8 +52,5 @@ ActiveDocument.Paragraphs(1).Range.Bold = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

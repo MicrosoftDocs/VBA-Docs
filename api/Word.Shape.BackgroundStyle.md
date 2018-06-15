@@ -26,8 +26,5 @@ Sets or returns the background style of the specified shape. Read/write [MsoBack
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

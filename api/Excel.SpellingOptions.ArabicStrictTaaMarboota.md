@@ -36,8 +36,5 @@ Returns or sets whether the spelling checker uses rules to flag Arabic words end
 ## See also
 
 
-#### Concepts
-
-
 [SpellingOptions Object](Excel.SpellingOptions.md)
 

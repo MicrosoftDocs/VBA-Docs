@@ -33,8 +33,5 @@ You assign a profile name when you create a profile.
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

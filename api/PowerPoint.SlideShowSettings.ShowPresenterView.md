@@ -26,8 +26,5 @@ Returns the presenter view of the  **SlideShowSettings** object. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 

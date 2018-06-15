@@ -42,7 +42,7 @@ In Visual Basic:
 
 
 
-```VB.net
+```vbVB.net
 Public Function GetFormRegionStorage(ByVal FormRegionName As String,
     ByVal Item As Object, 
     ByVal LCID As Integer, 
@@ -57,7 +57,7 @@ In C#:
 
 
 
-```C#
+```vbC#
 public object GetFormRegionStorage(string FormRegionName, 
     object Item, 
     int LCID,
@@ -75,7 +75,7 @@ In Visual Basic:
 
 
 
-```VB.net
+```vbVB.net
 Public Sub BeforeFormRegionShow(ByVal Item As Object, 
     ByVal FormRegion As Microsoft.Office.Interop.Outlook.FormRegion) _ 
 Implements Microsoft.Office.Interop.Outlook.FormRegionStartup.BeforeFormRegionShow 
@@ -87,7 +87,7 @@ In C#:
 
 
 
-```C#
+```vbC#
 public void BeforeFormRegionShow(object Item, Outlook.FormRegion FormRegion) 
 ```
 
@@ -103,7 +103,7 @@ In Visual Basic:
 
 
 
-```VB.net
+```vbVB.net
 Imports Outlook = Microsoft.Office.Interop.Outlook 
 Imports Office = Microsoft.Office.Core  
 Imports MSForms = Microsoft.Vbe.Interop.Forms 
@@ -114,7 +114,7 @@ In C#:
 
 
 
-```C#
+```vbC#
 using Outlook = Microsoft.Office.Interop.Outlook; 
 using Office = Microsoft.Office.Core; 
 using MSForms = Microsoft.Vbe.Interop.Forms; 
@@ -132,7 +132,7 @@ In Visual Basic:
 
 
 
-```VB.net
+```vbVB.net
 Dim UserForm As MSForms.UserForm 
 Dim FormControls As MSForms.Controls 
 Dim TextBox1 As Outlook.OlkTextBox 
@@ -153,7 +153,7 @@ In C#:
 
 
 
-```C#
+```vbC#
 MSForms.UserForm userForm = (MSForms.UserForm)FormRegion.Form; 
 MSForms.Controls formControls = userForm.Controls; 
  
@@ -181,7 +181,7 @@ In Visual Basic:
 
 
 
-```VB.net
+```vbVB.net
 Public Function GetFormRegionManifest(ByVal FormRegionName As String, 
     ByVal LCID As Integer) _ 
 Implements Microsoft.Office.Interop.Outlook.FormRegionStartup.GetFormRegionManifest 
@@ -193,7 +193,7 @@ In C#:
 
 
 
-```C#
+```vbC#
 public object GetFormRegionManifest(string FormRegionName, int LCID)
 ```
 
@@ -209,7 +209,7 @@ In Visual Basic:
 
 
 
-```VB.net
+```vbVB.net
 Public Function GetFormRegionIcon(ByVal FormRegionName As String, 
     ByVal LCID As Integer, _ 
     ByVal Icon As Outlook.OlFormRegionIcon) _ 
@@ -222,7 +222,7 @@ In C#:
 
 
 
-```C#
+```vbC#
 public object GetFormRegionIcon(string FormRegionName, int LCID, Outlook.OlFormRegionIcon Icon)
 ```
 

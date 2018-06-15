@@ -31,8 +31,5 @@ The default value is zero, indicating that there are no items in the list.
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

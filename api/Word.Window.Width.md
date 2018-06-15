@@ -26,8 +26,5 @@ Returns or sets the width of the specified document window, in points. Read/writ
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

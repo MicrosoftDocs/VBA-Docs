@@ -42,7 +42,7 @@ This method returns an integer that indicates the number of characters the selec
 This example moves the selection to the end of the current line and assigns the number of characters moved to the pos variable.
 
 
-```
+```vb
 pos = Selection.EndKey(Unit:=wdLine, Extend:=wdMove)
 ```
 
@@ -63,15 +63,12 @@ This example moves the selection to the end of the current story. If the selecti
 
 
 
-```
+```vb
 Selection.EndKey Unit:=wdStory, Extend:=wdMove
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

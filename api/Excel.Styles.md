@@ -26,7 +26,7 @@ A collection of all the  **[Style](Excel.Style.md)** objects in the specified or
 Use the  **[Styles](Excel.Workbook.Styles.md)** property to return the **Styles** collection. The following example creates a list of style names on worksheet one in the active workbook.
 
 
-```
+```vb
 For i = 1 To ActiveWorkbook.Styles.Count 
  Worksheets(1).Cells(i, 1) = ActiveWorkbook.Styles(i).Name 
 Next
@@ -37,7 +37,7 @@ Use the  **[Add](Excel.Styles.Add.md)** method to create a new style and add it 
 
 
 
-```
+```vb
 With ActiveWorkbook.Styles.Add(Name:="Bookman Top Border") 
  .Borders(xlTop).LineStyle = xlDouble 
  .Font.Bold = True 
@@ -51,7 +51,7 @@ Use  **Styles** ( _index_ ), where _index_ is the style index number or name, to
 
 
 
-```
+```vb
 ActiveWorkbook.Styles("Normal").Font.Bold = True
 ```
 

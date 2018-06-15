@@ -29,8 +29,5 @@ Returns the top level  **Model** object which is the one Data Model for the work
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -24,8 +24,5 @@ Specifies whether a bin for values below the [BinsUnderflowValue](Word.chartgrou
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Word.ChartGroup.md)
 

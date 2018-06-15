@@ -40,9 +40,6 @@ The  **MsoContactCardType** enumeration consists of the following members:
 ## See also
 
 
-#### Concepts
-
-
 [IMsoContactCard Object](imsocontactcard-object-office.md)
 #### Other resources
 

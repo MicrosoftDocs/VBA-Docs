@@ -30,8 +30,5 @@ Occurs when Visio incorporates changes from other users? versions of a document 
 ## See also
 
 
-#### Concepts
-
-
 [Documents Object](Visio.Documents.md)
 

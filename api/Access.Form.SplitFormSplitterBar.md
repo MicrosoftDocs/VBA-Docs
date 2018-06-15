@@ -26,8 +26,5 @@ Gets or sets whether the splitter bar is available when the form is displayed in
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

@@ -45,8 +45,5 @@ The Exchange server limits the maximum number of rules that can be supported by 
 ## See also
 
 
-#### Concepts
-
-
 [Rules Object](Outlook.Rules.md)
 

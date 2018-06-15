@@ -81,8 +81,5 @@ Next atEntry
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

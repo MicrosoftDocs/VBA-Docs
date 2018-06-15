@@ -58,8 +58,5 @@ ActiveDocument.Paragraphs(1).TabIndent(-1)
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

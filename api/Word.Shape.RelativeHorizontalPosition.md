@@ -26,8 +26,5 @@ Specifies to the relative horizontal position of a shape. Read/write  **[WdRelat
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

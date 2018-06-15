@@ -39,8 +39,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 

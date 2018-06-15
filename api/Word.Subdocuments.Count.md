@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of subdocuments in the collection
 ## See also
 
 
-#### Concepts
-
-
 [Subdocuments Collection Object](Word.subdocuments.md)
 

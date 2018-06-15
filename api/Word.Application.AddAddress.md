@@ -91,7 +91,5 @@ Application.AddAddress TagID:=tagIDArray(), Value:=valueArray()
 
 ## See also
 
-#### Concepts
-
 - [Application Object](Word.Application.md)
 

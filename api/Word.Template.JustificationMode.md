@@ -28,15 +28,12 @@ Returns or sets the character spacing adjustment for the specified template. Rea
 This example sets Microsoft Word to compress only punctuation marks when adjusting character spacing.
 
 
-```
+```vb
 NormalTemplate.JustificationMode = wdJustificationModeCompressKana
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Template Object](Word.Template.md)

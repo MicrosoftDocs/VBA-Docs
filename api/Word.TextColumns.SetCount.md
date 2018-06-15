@@ -50,16 +50,13 @@ This example arranges the text in the first section of Brochure.doc into three c
 
 
 
-```
+```vb
 Documents("Brochure.doc").Sections(1) _ 
  .PageSetup.TextColumns.SetCount NumColumns:=3
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextColumns Collection Object](Word(textcolumns).md)

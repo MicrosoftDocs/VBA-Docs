@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of exceptions in the collection. 
 ## See also
 
 
-#### Concepts
-
-
 [HangulAndAlphabetExceptions Collection Object](Word.hangulandalphabetexceptions.md)
 

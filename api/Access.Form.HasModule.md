@@ -55,8 +55,5 @@ Objects created by using the  **CreateForm** or **CreateReport** methods are lig
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

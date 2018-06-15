@@ -31,7 +31,7 @@ Use the  **[WebPageOptions](Publisher.Page.WebPageOptions.md)** property on the 
 
  
 
-```
+```vb
 Dim theWPO As WebPageOptions 
  
 Set theWPO = ActiveDocument.Pages(2).WebPageOptions 

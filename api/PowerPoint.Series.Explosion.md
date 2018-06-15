@@ -28,8 +28,5 @@ This property returns 0 (zero) if there is no explosion (the tip of the slice is
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

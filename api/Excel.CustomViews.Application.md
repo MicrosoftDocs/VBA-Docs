@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [CustomViews Object](Excel.CustomViews.md)
 

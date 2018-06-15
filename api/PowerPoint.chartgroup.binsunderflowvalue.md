@@ -24,8 +24,5 @@ If [ChartGroup.BinsUnderflowEnabled Property (PowerPoint)](chartgroup-binsunderf
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object (PowerPoint)](chartgroup-object-powerpoint.md)
 

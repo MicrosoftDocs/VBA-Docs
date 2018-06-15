@@ -65,8 +65,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](PowerPoint.DataTable.md)
 

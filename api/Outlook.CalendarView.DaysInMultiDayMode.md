@@ -101,8 +101,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

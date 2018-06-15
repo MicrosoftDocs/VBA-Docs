@@ -28,15 +28,12 @@ Deletes the specified object and places it on the Clipboard.
 This example deletes the selection in window one and places a copy of it on the Clipboard.
 
 
-```
+```vb
 Windows(1).Selection.Cut
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](PowerPoint.Selection.md)

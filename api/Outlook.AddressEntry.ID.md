@@ -31,8 +31,5 @@ The transport provider assigns a permanent, unique string  **ID** property when 
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

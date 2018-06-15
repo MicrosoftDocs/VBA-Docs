@@ -36,8 +36,5 @@ ActiveDocument.PageSetup.LayoutMode = wdLayoutModeGenko
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

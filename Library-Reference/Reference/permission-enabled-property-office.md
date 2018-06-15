@@ -33,9 +33,6 @@ When permissions are disabled, the  **Count** property of the **Permission** obj
 ## See also
 
 
-#### Concepts
-
-
 [Permission Object](permission-object-office.md)
 #### Other resources
 

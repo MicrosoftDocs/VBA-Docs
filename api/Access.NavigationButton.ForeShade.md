@@ -43,8 +43,5 @@ Me.ctl.ForeShade=25
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

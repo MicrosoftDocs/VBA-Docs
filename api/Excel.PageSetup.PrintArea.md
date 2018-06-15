@@ -54,8 +54,5 @@ ActiveSheet.PageSetup.PrintArea = _
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

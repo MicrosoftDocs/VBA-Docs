@@ -39,8 +39,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 

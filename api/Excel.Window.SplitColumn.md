@@ -37,8 +37,5 @@ ActiveWindow.SplitColumn = 1.5
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

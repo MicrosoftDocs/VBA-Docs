@@ -39,8 +39,5 @@ AdditionalData
 ## See also
 
 
-#### Concepts
-
-
 [AdditionalData Object](Access.AdditionalData.md)
 

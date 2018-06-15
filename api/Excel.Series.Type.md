@@ -47,8 +47,5 @@ Returns or sets a Long value that represents the series type.
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

@@ -26,8 +26,5 @@ Deletes the specified matrix row.
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatRow Object](Word.OMathMatRow.md)
 

@@ -31,8 +31,5 @@ Returns the one-based ordinal value of the hierarchy level represented by the sp
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 

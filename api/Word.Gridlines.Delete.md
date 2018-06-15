@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [GridLines Object](Word.GridLines.md)
 

@@ -48,8 +48,5 @@ groupRange.Cells(1).Ungroup
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

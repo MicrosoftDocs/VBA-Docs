@@ -26,8 +26,5 @@ Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

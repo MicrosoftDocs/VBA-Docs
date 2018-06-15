@@ -36,8 +36,5 @@ Next acol
 ## See also
 
 
-#### Concepts
-
-
 [TextColumn Object](Word.TextColumn.md)
 

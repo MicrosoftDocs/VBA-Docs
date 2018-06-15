@@ -26,8 +26,5 @@ Returns a  **[MsoColorType](http://msdn.microsoft.com/library/d7dfbd4b-d3ac-6e08
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Excel.ColorFormat.md)
 

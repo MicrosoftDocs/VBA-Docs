@@ -33,7 +33,7 @@ For more information on creating frames pages, see [Creating frames pages](http:
 This example opens a file named "Proposal.doc", creates a frames page based on the file, and adds a frame (on the left side of the page) containing a table of contents for the file.
 
 
-```
+```vb
 Documents.Open "C:\Documents\Proposal.doc" 
 ActiveDocument.ActiveWindow.ActivePane.NewFrameset 
 ActiveDocument.ActiveWindow.ActivePane.TOCInFrameset
@@ -41,9 +41,6 @@ ActiveDocument.ActiveWindow.ActivePane.TOCInFrameset
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Pane Object](Word.Pane.md)

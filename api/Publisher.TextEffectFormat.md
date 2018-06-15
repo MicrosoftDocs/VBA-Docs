@@ -24,7 +24,7 @@ Use the  **TextEffect** property to return a **TextEffectFormat** object. The fo
 
  
 
-```
+```vb
 Sub FormatWordArt() 
  With ActiveDocument.Pages(1).Shapes(1).TextEffect 
  .FontName = "Courier New" 

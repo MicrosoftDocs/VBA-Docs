@@ -26,8 +26,5 @@ Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the glow 
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

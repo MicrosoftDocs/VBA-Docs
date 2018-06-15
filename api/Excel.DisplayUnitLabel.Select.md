@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(objec).md)
 

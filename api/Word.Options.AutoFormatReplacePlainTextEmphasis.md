@@ -48,8 +48,5 @@ blnAutoFormat = Options.AutoFormatReplacePlainTextEmphasis
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

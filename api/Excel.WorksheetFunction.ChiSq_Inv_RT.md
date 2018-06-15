@@ -56,8 +56,5 @@ Given a value for probability, ChiSq_Inv_RT seeks that value x such that ChiSq_D
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

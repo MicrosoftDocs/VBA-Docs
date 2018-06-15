@@ -37,8 +37,5 @@ Application.TransitionMenuKeyAction = xlLotusHelp
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

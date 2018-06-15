@@ -26,8 +26,5 @@ Returns a  **Long** that represents the ordinal position of a column within the 
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatCol Object](Word.OMathMatCol.md)
 

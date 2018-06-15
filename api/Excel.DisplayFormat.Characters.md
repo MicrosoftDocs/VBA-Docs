@@ -45,8 +45,5 @@ The  **Characters** object is not a collection.
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

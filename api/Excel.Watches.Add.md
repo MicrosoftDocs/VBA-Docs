@@ -59,8 +59,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Watches Object](Excel.Watches.md)
 

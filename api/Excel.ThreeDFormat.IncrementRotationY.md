@@ -52,8 +52,5 @@ myDocument.Shapes(1).ThreeD.IncrementRotationY -10
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

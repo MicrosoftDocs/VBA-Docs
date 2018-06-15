@@ -21,7 +21,7 @@ Represents the view in a slide show window.
 Use the [View](http://msdn.microsoft.com/library/ebf565af-fc90-ab1b-0e05-6dcb90a7c2d2%28Office.15%29.aspx)property of the  **SlideShowWindow** object to return the **SlideShowView** object. The following example sets slide show window one to display the first slide in the presentation.
 
 
-```
+```vb
 SlideShowWindows(1).View.First
 ```
 
@@ -30,7 +30,7 @@ Use the [Run](http://msdn.microsoft.com/library/497fae3b-b6a3-dc26-20d9-bdc8057d
 
 
 
-```
+```vb
 With ActivePresentation.SlideShowSettings.Run.View
 
     .PointerColor.RGB = RGB(255, 0, 0)

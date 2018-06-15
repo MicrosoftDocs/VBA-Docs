@@ -33,16 +33,13 @@ Setting the  **TwoLinesInOne** property to **wdTwoLinesInOneNoBrackets** sets tw
 This example formats the current selection as two lines of text in one, enclosed in parentheses.
 
 
-```
+```vb
 Selection.Range.TwoLinesInOne = _ 
  wdTwoLinesInOneParentheses
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

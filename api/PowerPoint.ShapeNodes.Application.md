@@ -61,8 +61,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 

@@ -63,7 +63,7 @@ Use the  **DefaultWritingStyle** property to set the default writing style you w
 
 
 
-```
+```vb
 Languages(wdEnglishUS).DefaultWritingStyle = "Casual"
 ```
 

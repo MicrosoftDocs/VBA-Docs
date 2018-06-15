@@ -21,7 +21,7 @@ Represents the walls of the specified 3-D chart. This object isn't a collection.
 Use the  **Walls** property to return the **Walls** object. The following example sets the pattern on the walls for the chart. If the chart isn't a 3-D chart, this example will fail.
 
 
-```
+```vb
 myChart.Walls.Interior.Pattern = xlGray75
 ```
 

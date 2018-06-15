@@ -41,8 +41,5 @@ Worksheets("Sheet1").PageSetup.PrintHeadings = False
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

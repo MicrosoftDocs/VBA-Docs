@@ -40,8 +40,5 @@ For information about using events with the  **Document** object, see[Using Even
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

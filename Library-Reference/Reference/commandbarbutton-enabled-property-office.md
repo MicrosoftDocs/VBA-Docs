@@ -41,9 +41,6 @@ For built-in controls, if you set the  **Enabled** property to **True**, the app
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarButton Object](commandbarbutton-object-office.md)
 #### Other resources
 

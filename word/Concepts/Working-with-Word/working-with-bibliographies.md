@@ -62,7 +62,7 @@ After following the previous steps, the Immediate Window contains the following 
 
 
 
-```
+```vb
 <b:Source xmlns:b="http://schemas.microsoft.com/office/word/2004/10/bibliography"> 
     <b:Tag>And01</b:Tag> 
     <b:SourceType>Book</b:SourceType> 
@@ -94,7 +94,7 @@ After removing optional elements, you may have a structure similar to the follow
 
 
 
-```
+```vb
 <b:Source xmlns:b="http://schemas.microsoft.com/office/word/2004/10/bibliography"> 
     <b:Tag>And01</b:Tag> 
     <b:SourceType></b:SourceType> 

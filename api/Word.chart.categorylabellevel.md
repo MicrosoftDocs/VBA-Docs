@@ -29,8 +29,5 @@ Returns or sets an [XlCategoryLabel](Word.xlcategorylabellevel.md) constant that
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

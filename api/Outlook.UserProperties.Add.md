@@ -91,8 +91,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [UserProperties Object](Outlook.UserProperties.md)
 

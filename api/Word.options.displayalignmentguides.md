@@ -34,8 +34,5 @@ If  **DisplayAlignmentGuides** is **True**, alignment guides are enabled. Settin
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

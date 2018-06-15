@@ -26,8 +26,5 @@ Returns or sets the distance (in points) between the right edge of the page and 
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

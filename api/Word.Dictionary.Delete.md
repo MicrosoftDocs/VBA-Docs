@@ -26,8 +26,5 @@ Deletes the specified dictionary.
 ## See also
 
 
-#### Concepts
-
-
 [Dictionary Object](Word.Dictionary.md)
 

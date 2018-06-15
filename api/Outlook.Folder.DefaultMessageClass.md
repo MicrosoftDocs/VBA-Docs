@@ -26,8 +26,5 @@ Returns a  **String** representing the default message class for items in the fo
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

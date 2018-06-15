@@ -26,8 +26,5 @@ Returns or sets a  **WdRowAlignment** constant that represents the alignment for
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Word.TableStyle.md)
 

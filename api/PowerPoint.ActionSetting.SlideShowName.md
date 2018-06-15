@@ -31,8 +31,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [ActionSetting Object](PowerPoint.ActionSetting.md)
 

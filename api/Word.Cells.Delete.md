@@ -34,8 +34,5 @@ Deletes a table cell or cells and optionally controls how the remaining cells ar
 ## See also
 
 
-#### Concepts
-
-
 [Cells Collection Object](Word.cells.md)
 

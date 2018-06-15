@@ -40,8 +40,5 @@ OMathAutoCorrectEntry
 ## See also
 
 
-#### Concepts
-
-
 [OMathAutoCorrectEntries Collection](Word.OMathAutoCorrectEntries.md)
 

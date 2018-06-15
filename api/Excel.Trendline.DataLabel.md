@@ -31,8 +31,5 @@ To turn on data labels for a trendline you need to set the  **[DisplayEquation](
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Excel.Trendline(objec).md)
 

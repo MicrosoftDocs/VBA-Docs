@@ -26,8 +26,5 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the shared or 
 ## See also
 
 
-#### Concepts
-
-
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 

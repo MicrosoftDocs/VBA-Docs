@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [SmartTagProperties Collection](Access.SmartTagProperties.md)
 

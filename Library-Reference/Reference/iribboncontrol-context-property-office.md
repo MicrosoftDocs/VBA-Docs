@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [IRibbonControl Object](iribboncontrol-object-office.md)
 #### Other resources
 

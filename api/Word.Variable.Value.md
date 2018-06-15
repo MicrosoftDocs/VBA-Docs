@@ -40,8 +40,5 @@ MsgBox ActiveDocument.Variables("Temp2").Value
 ## See also
 
 
-#### Concepts
-
-
 [Variable Object](Word.Variable.md)
 

@@ -77,7 +77,7 @@ The **InputBox** method differs from the **InputBox** function in that it allows
 
 This example prompts the user for a number.
 
-```
+```vb
 myNum = Application.InputBox("Enter a number")
 ```
 
@@ -121,8 +121,6 @@ End Function
 *Holy Macro! Books* publishes entertaining books for people who use Office. See the complete catalog at MrExcel.com. 
 
 ## See also
-
-#### Concepts
 
 [Application Object](Excel.Application(objec).md)
 

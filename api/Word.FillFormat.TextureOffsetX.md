@@ -33,8 +33,5 @@ The setting of the  **TextureOffsetX** property corresponds to the setting of th
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Word.FillFormat.md)
 

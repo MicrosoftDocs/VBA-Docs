@@ -31,8 +31,5 @@ The  **ID** property returns an identification string that is in the form of a G
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlock Object](Word.BuildingBlock.md)
 

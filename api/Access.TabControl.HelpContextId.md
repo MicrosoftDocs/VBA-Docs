@@ -38,8 +38,5 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

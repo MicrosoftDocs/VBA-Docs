@@ -26,8 +26,5 @@ Returns the  **[FormDescription](Outlook.FormDescription.md)** object that repre
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

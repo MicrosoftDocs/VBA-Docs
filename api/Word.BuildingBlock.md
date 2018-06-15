@@ -25,7 +25,7 @@ Each  **BuildingBlock** object is a member of the **[BuildingBlocks](Word.Buildi
 
 
 
-```
+```vb
 Dim objTemplate As Template 
 Dim objBB As BuildingBlock 
  
@@ -41,7 +41,7 @@ To create a new building block, you can use the  **Add** method for either the *
 
 
 
-```
+```vb
 Dim objTemplate As Template 
 Dim objBB As BuildingBlock 
  
@@ -59,7 +59,7 @@ Use the  **[Insert](Word.BuildingBlock.Insert.md)** method to insert a new build
 
 
 
-```
+```vb
 Dim objTemplate As Template 
 Dim objBB As BuildingBlock 
  
@@ -74,7 +74,7 @@ Use the  **[Delete](Word.BuildingBlock.Delete.md)** method to remove a building 
 
 
 
-```
+```vb
 Dim objTemplate As Template 
  
 Set objTemplate = Templates(1) 
@@ -87,7 +87,7 @@ objTemplate.BuildingBlockEntries(1).Delete
 
 
 
-```
+```vb
 Dim objTemplate As Template 
 Dim objBBT As BuildingBlockType 
 Dim objCat As Category 

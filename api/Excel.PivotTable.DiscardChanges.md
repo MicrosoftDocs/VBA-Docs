@@ -38,8 +38,5 @@ If you try to execute this method for a PivotTable report based on a non-OLAP da
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -33,7 +33,7 @@ If the operation would result in an invalid tree structure, the deletion is not 
 The following example demonstrates using various methods to add custom XML parts, select parts and nodes with different criteria, append child subtrees, and delete parts and nodes.
 
 
-```
+```vb
 Sub ShowCustomXmlParts() 
     On Error GoTo Err 
  
@@ -90,9 +90,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLNode Object](customxmlnode-object-office.md)

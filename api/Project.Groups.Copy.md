@@ -37,7 +37,4 @@ Makes a copy of a group definition for the  **Groups** collection and returns a 
 ## See also
 
 
-#### Concepts
-
-
 [Groups Collection Object](Project.groups.md)

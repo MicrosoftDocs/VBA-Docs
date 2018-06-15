@@ -31,8 +31,5 @@ Returns the MDX tuple of the value was changed in the OLAP data source. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [ValueChange Object](Excel.ValueChange.md)
 

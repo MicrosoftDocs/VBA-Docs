@@ -42,8 +42,5 @@ Application.EmailOptions.UseThemeStyle = True
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

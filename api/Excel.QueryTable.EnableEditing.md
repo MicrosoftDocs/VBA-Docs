@@ -45,8 +45,5 @@ Worksheets(1).QueryTables(1).EnableEditing = False
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

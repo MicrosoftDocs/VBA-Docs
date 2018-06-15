@@ -40,8 +40,5 @@ The theme components returned are enumerations of built-in theme definitions for
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Visio.Page.md)
 

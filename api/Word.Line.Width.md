@@ -26,8 +26,5 @@ Returns or sets the width, in points, of a line. Read/write  **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Word.Line.md)
 

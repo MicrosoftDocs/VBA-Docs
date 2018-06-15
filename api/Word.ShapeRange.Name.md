@@ -26,8 +26,5 @@ Returns or sets the name of the specified object. Read/write  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

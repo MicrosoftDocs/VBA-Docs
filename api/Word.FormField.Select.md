@@ -31,8 +31,5 @@ After using this method, use the  **[Selection](Word.Selection.md)** object to w
 ## See also
 
 
-#### Concepts
-
-
 [FormField Object](Word.FormField.md)
 

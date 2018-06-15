@@ -26,8 +26,5 @@ Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object for the parent char
 ## See also
 
 
-#### Concepts
-
-
 [UpBars Object](PowerPoint.UpBars.md)
 

@@ -31,8 +31,5 @@ This method applies only to presentations stored on a server running Microsoft O
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

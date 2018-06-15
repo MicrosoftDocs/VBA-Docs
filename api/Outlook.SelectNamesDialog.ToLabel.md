@@ -33,8 +33,5 @@ If  **ToLabel** is not set, the default value will be the localized string for "
 ## See also
 
 
-#### Concepts
-
-
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

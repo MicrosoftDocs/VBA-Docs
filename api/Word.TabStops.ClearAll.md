@@ -47,8 +47,5 @@ ActiveDocument.Paragraphs.TabStops.ClearAll
 ## See also
 
 
-#### Concepts
-
-
 [TabStops Collection Object](Word.tabstops.md)
 

@@ -52,8 +52,5 @@ Application.ActivePresentation.SlideMaster.HeadersFooters.DisplayOnTitleSlide = 
 ## See also
 
 
-#### Concepts
-
-
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 

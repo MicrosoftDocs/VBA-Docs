@@ -26,8 +26,5 @@ Copies the specified frame to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

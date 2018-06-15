@@ -26,8 +26,5 @@ Returns a  **Long** indicating the transfer time (in seconds) for the remote ite
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

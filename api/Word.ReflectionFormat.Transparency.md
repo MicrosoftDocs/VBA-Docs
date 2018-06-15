@@ -26,8 +26,5 @@ Returns or sets the degree of transparency for the reflection effect as a value 
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 

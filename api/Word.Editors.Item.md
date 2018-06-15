@@ -39,8 +39,5 @@ Editor
 ## See also
 
 
-#### Concepts
-
-
 [Editors Collection](Word.Editors.md)
 

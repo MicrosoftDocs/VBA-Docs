@@ -60,8 +60,5 @@ lngSpaced = ActiveDocument.PageSetup.TextColumns.EvenlySpaced
 ## See also
 
 
-#### Concepts
-
-
 [TextColumns Collection Object](Word(textcolumns).md)
 

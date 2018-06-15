@@ -24,8 +24,5 @@ If an [ChartGroup.BinsOverflowEnabled Property (PowerPoint)](chartgroup-binsover
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object (PowerPoint)](chartgroup-object-powerpoint.md)
 

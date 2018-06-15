@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](Word.DataTable.md)
 

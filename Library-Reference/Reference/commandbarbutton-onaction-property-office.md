@@ -41,7 +41,7 @@ The container application determines whether the value is a valid macro name.
 This example adds a command bar control to the command bar named "Custom". The COM add in named "FinanceAddIn" will run each time the control is clicked.
 
 
-```
+```vb
 Set myBar = CommandBars("Custom") 
 Set myControl = myBar.Controls _ 
     .Add(Type:=msocontrolButton) 
@@ -54,9 +54,6 @@ myBar.Visible = True
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarButton Object](commandbarbutton-object-office.md)

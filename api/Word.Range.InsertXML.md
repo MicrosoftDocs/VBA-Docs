@@ -63,8 +63,5 @@ ActiveDocument.Paragraphs(5).Range.InsertXML strXML
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

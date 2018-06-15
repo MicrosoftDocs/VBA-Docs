@@ -43,8 +43,5 @@ Application.DefaultWebOptions.CheckIfOfficeIsHTMLEditor = False
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 

@@ -37,7 +37,4 @@ Adds a  **Group** object to a **Groups** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Groups Collection Object](Project.groups.md)

@@ -31,8 +31,5 @@ Use the  **[ApplyDocumentTheme](Word.ApplyDocumentTheme.md)** method to apply a 
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

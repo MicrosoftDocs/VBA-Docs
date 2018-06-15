@@ -26,8 +26,5 @@ Deletes the specified index.
 ## See also
 
 
-#### Concepts
-
-
 [Index Object](Word.Index.md)
 

@@ -26,8 +26,5 @@ Returns or sets if the user should be prompted to convert the workbook if the wo
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

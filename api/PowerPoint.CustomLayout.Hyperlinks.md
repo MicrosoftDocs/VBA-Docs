@@ -31,8 +31,5 @@ Hyperlinks
 ## See also
 
 
-#### Concepts
-
-
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 

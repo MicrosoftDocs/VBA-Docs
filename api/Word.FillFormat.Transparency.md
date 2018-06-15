@@ -31,8 +31,5 @@ The value of this property affects the appearance of solid-colored fills. It has
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Word.FillFormat.md)
 

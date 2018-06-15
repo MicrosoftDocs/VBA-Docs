@@ -34,8 +34,5 @@ Returns the type of mail merge data source. Read-only  **[WdMailMergeDataSource]
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 

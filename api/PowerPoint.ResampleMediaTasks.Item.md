@@ -39,8 +39,5 @@ ResampleMediaTask
 ## See also
 
 
-#### Concepts
-
-
 [ResampleMediaTasks Object](PowerPoint.ResampleMediaTasks.md)
 

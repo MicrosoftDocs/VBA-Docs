@@ -42,8 +42,5 @@ ActiveDocument.SetLetterContent LetterContent:=myLetterContent
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

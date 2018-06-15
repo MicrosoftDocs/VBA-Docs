@@ -42,8 +42,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 

@@ -40,9 +40,6 @@ Gets a  **CommandBarControl** object from the **CommandBarControls** collection.
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControls Object](commandbarcontrols-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns a  **String** value that represents the name of the specified style.
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

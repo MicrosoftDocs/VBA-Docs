@@ -31,8 +31,5 @@ This property returns  **olMailModule** for the **[MailModule](Outlook.MailModul
 ## See also
 
 
-#### Concepts
-
-
 [MailModule Object](Outlook.MailModule.md)
 

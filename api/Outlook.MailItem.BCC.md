@@ -31,8 +31,5 @@ This property contains the display names only. The  **[Recipients](Outlook.Recip
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

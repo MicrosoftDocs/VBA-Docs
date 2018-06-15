@@ -28,15 +28,12 @@ Returns or sets the query string (SQL statement) used to retrieve a subset of th
 This example returns the query string for the data source attached to the active document.
 
 
-```
+```vb
 qString = ActiveDocument.MailMerge.DataSource.QueryString
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)

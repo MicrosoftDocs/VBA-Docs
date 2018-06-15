@@ -31,8 +31,5 @@ If the form region is an adjoining form region, then  **Select** will expand the
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

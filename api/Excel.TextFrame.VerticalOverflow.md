@@ -36,8 +36,5 @@ This property only has an effect when the  **[AutoSize](Excel.TextFrame.AutoSize
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Excel.TextFrame.md)
 

@@ -40,15 +40,12 @@ This example turns on overtype mode for the selection.
 
 
 
-```
+```vb
 Selection.Flags = wdSelStartActive
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

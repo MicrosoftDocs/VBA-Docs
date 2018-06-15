@@ -42,8 +42,5 @@ ActiveDocument.Tables(1).RightPadding = _
 ## See also
 
 
-#### Concepts
-
-
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 

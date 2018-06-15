@@ -52,8 +52,5 @@ The  **KeyDown** and **KeyPress** events occur when you press or send an ANSI ke
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

@@ -26,8 +26,5 @@ Returns the parent  **[SlicerCache](Excel.SlicerCache.md)** object for the speci
 ## See also
 
 
-#### Concepts
-
-
 [Slicers Object](Excel.Slicers.md)
 

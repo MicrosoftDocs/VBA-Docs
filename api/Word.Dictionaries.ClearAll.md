@@ -28,15 +28,12 @@ Unloads all of the custom or conversion dictionaries.
 This example unloads all of the custom dictionaries.
 
 
-```
+```vb
 CustomDictionaries.ClearAll
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Dictionaries Collection Object](Word.dictionaries.md)

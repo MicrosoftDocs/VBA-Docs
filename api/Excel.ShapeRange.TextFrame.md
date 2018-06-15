@@ -37,8 +37,5 @@ Worksheets(1).Shapes(1).TextFrame _
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

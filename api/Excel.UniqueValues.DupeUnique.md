@@ -26,8 +26,5 @@ Returns or sets one of the constants of the  **[XlDupeUnique](Excel.XlDupeUnique
 ## See also
 
 
-#### Concepts
-
-
 [UniqueValues Object](Excel.UniqueValues.md)
 

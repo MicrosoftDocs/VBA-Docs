@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [XPath Object](Excel.XPath.md)
 

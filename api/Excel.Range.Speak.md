@@ -35,8 +35,5 @@ Causes the cells of the range to be spoken in row order or column order.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

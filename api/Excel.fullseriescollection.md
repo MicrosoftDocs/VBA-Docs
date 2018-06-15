@@ -24,7 +24,7 @@ The [FullSeriesCollection Object (Excel)](fullseriescollection-object-excel.md) 
 The following example displays a message box with the name of the second [Series Object (Excel)](series-object-excel.md) object in the second chart.
 
 
-```VB.net
+```vbVB.net
 MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 ```
 
@@ -49,9 +49,6 @@ MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 |[Parent](fullseriescollection-parent-property-excel.md)|
 
 ## See also
-
-
-#### Concepts
 
 
 [SeriesCollection](seriescollection-object-excel.md)

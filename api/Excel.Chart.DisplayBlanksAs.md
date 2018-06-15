@@ -36,9 +36,6 @@ Charts("Chart1").DisplayBlanksAs = xlNotPlotted
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 [SparklineGroup Object](Excel.SparklineGroup.md)
 

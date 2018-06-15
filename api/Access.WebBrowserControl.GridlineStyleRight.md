@@ -43,8 +43,5 @@ The  **RightGridlineStyle** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

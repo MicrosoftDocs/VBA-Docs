@@ -58,8 +58,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Points Object](PowerPoint.Points.md)
 

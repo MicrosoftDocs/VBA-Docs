@@ -36,8 +36,5 @@ The  **FieldOfView** property controls the amount of perspective that is applied
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 

@@ -49,7 +49,7 @@ Use the  **DCount** function in a calculated control when you need to specify cr
 
 
 
-```
+```vb
 =DCount("[OrderID]", "Orders", "[ShipRegion] = 'CA'")
 ```
 
@@ -64,7 +64,7 @@ The  **DCount** function doesn't count records that contain **Null** values in t
 
 
 
-```
+```vb
 intX = DCount("*", "Orders")
 ```
 
@@ -75,7 +75,7 @@ If  _expr_ identifies multiple fields, separate the field names with a concatena
 
 
 
-```
+```vb
 intW = DCount("[ShipName]", "Orders") 
 intX = DCount("[ShipRegion]", "Orders") 
 intY = DCount("[ShipName] + [ShipRegion]", "Orders") 
@@ -111,7 +111,7 @@ The following examples show how to use various types of criteria with the  **DCo
 
 
 
-```js
+```vbjs
     ' ***************************
     ' Typical Use
     ' Numerical values. Replace "number" with the number to use.
@@ -163,10 +163,6 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [Application Object](Access.Application.md)

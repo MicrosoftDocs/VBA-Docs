@@ -46,7 +46,7 @@ XMLDSIG is a standards-based signature format (http://www.w3.org/TR/xmldsig-core
 The following example, written in C#, shows the implementation of the  **VerifyXmlDsig** method in a custom signature provider project.
 
 
-```
+```vb
  public void VerifyXmlDsig(object queryContinue, SignatureSetup sigsetup, SignatureInfo siginfo, object xmldsigStream, ref ContentVerificationResults contverresults, ref CertificateVerificationResults certverresults) 
  { 
  using (COMStream comstream = new COMStream(xmldsigStream)) 
@@ -71,9 +71,6 @@ The following example, written in C#, shows the implementation of the  **VerifyX
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureProvider Object](signatureprovider-object-office.md)

@@ -36,7 +36,7 @@ Note that the following instruction is the same as  `Range2.Text = Range1.Text`.
 
 
 
-```
+```vb
 Range2 = Range1
 ```
 

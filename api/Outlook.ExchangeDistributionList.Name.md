@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the display name for the **[
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

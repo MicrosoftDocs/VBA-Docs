@@ -33,8 +33,5 @@ While you can view content that is protected by IRM on any computer running the 
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

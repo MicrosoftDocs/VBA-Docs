@@ -31,8 +31,5 @@ If an Exchange mailbox is not present in the namespace, this property returns an
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

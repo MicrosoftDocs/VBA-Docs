@@ -23,8 +23,5 @@ Gets a  **[WorkWeekDays](Project.Year.md)** collection representing the days in 
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeek Object](Project.WorkWeek.md)
 

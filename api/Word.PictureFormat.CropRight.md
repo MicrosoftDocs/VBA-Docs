@@ -69,8 +69,5 @@ shapeCrop.PictureFormat.CropRight = sngCrop
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Word.PictureFormat.md)
 

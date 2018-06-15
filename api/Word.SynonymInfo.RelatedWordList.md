@@ -46,8 +46,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [SynonymInfo Object](Word.SynonymInfo.md)
 

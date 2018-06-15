@@ -26,8 +26,5 @@ Gets the number of  **[TempVar](Access.TempVar.md)** objects in the **[TempVars]
 ## See also
 
 
-#### Concepts
-
-
 [TempVars Collection](Access.TempVars.md)
 

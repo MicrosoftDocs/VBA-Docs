@@ -38,8 +38,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Excel.ColorFormat.md)
 

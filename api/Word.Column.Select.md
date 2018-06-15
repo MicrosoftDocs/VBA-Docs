@@ -31,8 +31,5 @@ After using this method, use the  **[Selection](Word.Selection.md)** property to
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Word.Column.md)
 

@@ -34,7 +34,7 @@ Pastes the contents of the Clipboard onto a  **CommandBarButton**.
 This example finds the built-in  **FileOpen** button and pastes the face from the **Spelling** and **Grammar** button onto it from the Clipboard.
 
 
-```
+```vb
 Set myControl = CommandBars.FindControl(Type:=msoControlButton, Id:=2) 
 myControl.CopyFace 
 Set myControl = CommandBars.FindControl(Type:=msoControlButton, Id:=23) 
@@ -43,9 +43,6 @@ myControl.PasteFace
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarButton Object](commandbarbutton-object-office.md)

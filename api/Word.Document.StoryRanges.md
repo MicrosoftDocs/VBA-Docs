@@ -56,8 +56,5 @@ MsgBox ActiveDocument.StoryRanges(wdPrimaryHeaderStory).Text
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

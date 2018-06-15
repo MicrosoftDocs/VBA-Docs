@@ -31,8 +31,5 @@ When the  **InGridDropZones** property is set to **True** , there are in-grid dr
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **TwoI
 ## See also
 
 
-#### Concepts
-
-
 [TwoInitialCapsException Object](Word.TwoInitialCapsException.md)
 

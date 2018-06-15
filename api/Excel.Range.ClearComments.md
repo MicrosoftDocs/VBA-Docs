@@ -36,8 +36,5 @@ Worksheets(1).Range("e5").ClearComments
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

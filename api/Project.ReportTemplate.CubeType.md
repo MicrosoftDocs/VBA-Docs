@@ -31,7 +31,4 @@ Can be one of the  **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.m
 ## See also
 
 
-#### Concepts
-
-
 [ReportTemplate Object](Project.ReportTemplate.md)

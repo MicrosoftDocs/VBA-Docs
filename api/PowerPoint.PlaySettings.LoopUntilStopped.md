@@ -48,8 +48,5 @@ ActivePresentation.Slides(1).Shapes(3) _
 ## See also
 
 
-#### Concepts
-
-
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 

@@ -31,8 +31,5 @@ MsoShadowStyle
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 

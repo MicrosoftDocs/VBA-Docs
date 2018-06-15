@@ -31,8 +31,5 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

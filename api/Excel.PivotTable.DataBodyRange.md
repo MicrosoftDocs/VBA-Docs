@@ -26,8 +26,5 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range o
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

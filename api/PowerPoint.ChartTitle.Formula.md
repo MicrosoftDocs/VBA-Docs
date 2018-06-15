@@ -26,8 +26,5 @@ Returns or sets the object's formula in A1-style notation. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 

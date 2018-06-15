@@ -42,8 +42,5 @@ The value of this property can be set to one of the following  **[XlConstants](P
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 

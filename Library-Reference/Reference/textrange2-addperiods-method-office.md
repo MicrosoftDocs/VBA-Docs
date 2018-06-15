@@ -23,9 +23,6 @@ Adds period (.) punctuation to the right side of the text contained in TextRange
 ## See also
 
 
-#### Concepts
-
-
 [TextRange2 Object](textrange2-object-office.md)
 #### Other resources
 

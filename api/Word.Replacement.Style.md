@@ -31,8 +31,5 @@ When you return the style for a range that includes more than one style, only th
 ## See also
 
 
-#### Concepts
-
-
 [Replacement Object](Word.Replacement.md)
 

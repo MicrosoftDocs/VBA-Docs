@@ -47,8 +47,5 @@ fldTemp.Data = "Hidden information"
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

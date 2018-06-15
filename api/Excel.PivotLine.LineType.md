@@ -26,8 +26,5 @@ Returns an  **[XlPivotLineType](Excel.XlPivotLineType.md)** constant that indica
 ## See also
 
 
-#### Concepts
-
-
 [PivotLine Object](Excel.PivotLine.md)
 

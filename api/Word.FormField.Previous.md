@@ -38,8 +38,5 @@ MsgBox "Form field code = " &; aField.Code
 ## See also
 
 
-#### Concepts
-
-
 [FormField Object](Word.FormField.md)
 

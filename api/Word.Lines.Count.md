@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of lines in the collection. Read-
 ## See also
 
 
-#### Concepts
-
-
 [Lines Collection](Word.Lines.md)
 

@@ -26,8 +26,5 @@ Returns a  **Chart** object that represents a chart within the collection of inl
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

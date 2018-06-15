@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the header for an O
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

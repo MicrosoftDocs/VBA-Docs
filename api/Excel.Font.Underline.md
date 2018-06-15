@@ -50,8 +50,5 @@ ActiveCell.Font.Underline = xlUnderlineStyleSingle
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Excel.Font(objec).md)
 

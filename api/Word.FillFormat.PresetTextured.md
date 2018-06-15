@@ -45,8 +45,5 @@ ActiveDocument.Shapes.AddShape(msoShapeCan, 90, 90, 40, 80) _
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Word.FillFormat.md)
 

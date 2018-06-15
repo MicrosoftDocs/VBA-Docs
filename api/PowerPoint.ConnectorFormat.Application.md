@@ -61,8 +61,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 

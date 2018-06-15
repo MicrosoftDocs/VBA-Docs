@@ -36,8 +36,5 @@ This method allows the recipient of a sharing invitation to open the shared fold
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

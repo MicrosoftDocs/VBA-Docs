@@ -31,9 +31,6 @@ Boolean
 ## See also
 
 
-#### Concepts
-
-
 [ServerPolicy Object](serverpolicy-object-office.md)
 #### Other resources
 

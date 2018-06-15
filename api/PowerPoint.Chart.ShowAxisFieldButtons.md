@@ -36,8 +36,5 @@ This member is part of the shared chart object model infrastructure between Word
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

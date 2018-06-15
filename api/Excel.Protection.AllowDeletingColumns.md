@@ -57,8 +57,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Protection Object](Excel.Protection.md)
 

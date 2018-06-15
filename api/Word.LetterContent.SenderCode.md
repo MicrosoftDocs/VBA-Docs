@@ -31,8 +31,5 @@ This property may not be available to you, depending on the language support (U.
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

@@ -36,8 +36,5 @@ For more information about A1-style notation, see [How to: Refer to Cells and Ra
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](Excel.AxisTitle(objec).md)
 

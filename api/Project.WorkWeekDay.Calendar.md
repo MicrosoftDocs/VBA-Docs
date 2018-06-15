@@ -28,7 +28,4 @@ For an example that resets the project calendar, see the  **[Calendar](Project.P
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeekDay Object](Project.WorkWeekDay.md)

@@ -26,8 +26,5 @@ Returns a  **String** that represents the related XML code for a smart tag. Read
 ## See also
 
 
-#### Concepts
-
-
 [SmartTag Object](Access.SmartTag.md)
 

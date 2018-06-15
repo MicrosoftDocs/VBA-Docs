@@ -77,8 +77,5 @@ Me.ctl.Bevel = BevelEffectCross
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

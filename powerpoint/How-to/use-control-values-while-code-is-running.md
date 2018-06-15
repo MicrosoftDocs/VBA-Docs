@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 Some control properties can be set and returned while Visual Basic code is running. The following example sets the  **Text** property of a text box to "Hello."
 
 
-```
+```vb
 TextBox1.Text = "Hello"
 ```
 

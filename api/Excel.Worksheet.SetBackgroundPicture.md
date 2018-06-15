@@ -44,8 +44,5 @@ Worksheets(1).SetBackgroundPicture "c:\graphics\watermark.gif"
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

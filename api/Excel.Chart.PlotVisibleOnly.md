@@ -36,8 +36,5 @@ Charts("Chart1").PlotVisibleOnly = True
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

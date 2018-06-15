@@ -37,8 +37,5 @@ Setting  **SelLength** to a value less than zero causes an error. Attempting to 
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

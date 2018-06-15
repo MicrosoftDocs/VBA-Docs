@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Comm
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

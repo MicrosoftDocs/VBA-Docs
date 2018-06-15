@@ -56,8 +56,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ListFormat Object](Word.ListFormat.md)
 

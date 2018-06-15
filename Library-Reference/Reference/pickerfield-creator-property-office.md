@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **PickerField
 ## See also
 
 
-#### Concepts
-
-
 [PickerField Object](pickerfield-object-office.md)
 #### Other resources
 

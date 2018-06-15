@@ -36,9 +36,6 @@ As an example, if the object was created in Microsoft Word, this property return
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspace Object](sharedworkspace-object-office.md)
 #### Other resources
 

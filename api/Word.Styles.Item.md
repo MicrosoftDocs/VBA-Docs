@@ -39,8 +39,5 @@ Style
 ## See also
 
 
-#### Concepts
-
-
 [Styles Collection Object](Word.styles.md)
 

@@ -66,8 +66,5 @@ Returns a logical exclusive OR of all arguments.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

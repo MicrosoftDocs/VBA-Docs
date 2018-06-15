@@ -26,8 +26,5 @@ Returns a  **ServerPolicy** object that represents a policy specified for a work
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

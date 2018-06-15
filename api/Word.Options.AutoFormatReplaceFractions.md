@@ -48,8 +48,5 @@ blnAutoFormat = Options.AutoFormatReplaceFractions
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

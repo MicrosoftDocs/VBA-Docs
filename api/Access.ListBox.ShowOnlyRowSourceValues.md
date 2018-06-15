@@ -26,8 +26,5 @@ Gets or sets whether the list box can display values that aren't specified by th
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

@@ -24,7 +24,7 @@ Use the  **[Tabs](Publisher.ParagraphFormat.Tabs.md)** property to return the **
 
  
 
-```
+```vb
 Sub ClearAllTabStops() 
  ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange _ 
  .ParagraphFormat.Tabs.ClearAll 
@@ -38,7 +38,7 @@ The following example adds a tab stop positioned at 2.5 inches to the selected p
 
 
 
-```
+```vb
 Sub Tabs() 
  Dim intTab As Integer 
  Selection.TextRange.ParagraphFormat.Tabs _ 
@@ -61,7 +61,7 @@ Use the  **[Add](Publisher.TabStops.Add.md)** method to add a tab stop. The foll
 
 
 
-```
+```vb
 Sub AddNewTabs() 
  With Selection.TextRange.ParagraphFormat.Tabs 
  .Add Position:=InchesToPoints(1), _ 
@@ -79,7 +79,7 @@ Use  **[Tabs](Publisher.ParagraphFormat.Tabs.md)** (index), where index is the l
 
 
 
-```
+```vb
 Sub ClearTabStop() 
  ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange _ 
  .ParagraphFormat.Tabs(1).Clear 
@@ -93,7 +93,7 @@ The following example changes the second tab in the selection to a right-aligned
 
 
 
-```
+```vb
 Sub ChangeTabStop() 
  Selection.TextRange.ParagraphFormat.Tabs(2) _ 
  .Alignment = pbTabAlignmentTrailing 

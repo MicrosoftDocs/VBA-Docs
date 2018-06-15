@@ -38,8 +38,5 @@ Next cl
 ## See also
 
 
-#### Concepts
-
-
 [CaptionLabel Object](Word.CaptionLabel.md)
 

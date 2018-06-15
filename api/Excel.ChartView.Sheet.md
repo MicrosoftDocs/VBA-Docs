@@ -26,8 +26,5 @@ Returns the sheet name for the specified  **[ChartView](Excel.ChartView.md)** ob
 ## See also
 
 
-#### Concepts
-
-
 [ChartView Object](Excel.ChartView.md)
 

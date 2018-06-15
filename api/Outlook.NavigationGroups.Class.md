@@ -31,8 +31,5 @@ This property returns  **olNavigationGroups** for the **[NavigationGroups](Outlo
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 

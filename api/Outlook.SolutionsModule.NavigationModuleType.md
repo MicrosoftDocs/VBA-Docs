@@ -31,8 +31,5 @@ For the  **SolutionsModule** object, this property returns the value **olModuleS
 ## See also
 
 
-#### Concepts
-
-
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 

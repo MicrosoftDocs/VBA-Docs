@@ -31,8 +31,5 @@ If this property is set to  **True** , then the **[Multiline](Outlook.TableView.
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

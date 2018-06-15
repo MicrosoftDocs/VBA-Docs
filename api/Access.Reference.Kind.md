@@ -37,8 +37,5 @@ The  **Kind** property returns the following values:
 ## See also
 
 
-#### Concepts
-
-
 [Reference Object](Access.Reference.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Pane
 ## See also
 
 
-#### Concepts
-
-
 [Panes Collection Object](Word.panes.md)
 

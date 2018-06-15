@@ -43,8 +43,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

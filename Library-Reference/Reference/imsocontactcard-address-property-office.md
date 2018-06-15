@@ -26,9 +26,6 @@ Represents the address in a Contact card. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [IMsoContactCard Object](imsocontactcard-object-office.md)
 #### Other resources
 

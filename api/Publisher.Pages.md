@@ -24,7 +24,7 @@ Use the  **[Add](Publisher.Pages.Add.md)** method to add a new page to a publica
 
  
 
-```
+```vb
 Sub AddPageAndShape() 
  With ActiveDocument.Pages.Add(Count:=1, After:=1) 
  With .Shapes.AddShape(Type:=msoShape5pointStar, _ 

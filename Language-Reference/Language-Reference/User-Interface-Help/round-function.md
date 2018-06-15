@@ -27,7 +27,7 @@ The  **Round** function syntax has these parts:
 
  **Note**
 This VBA function returns something commonly referred to as bankers rounding. So be careful before using this function. For more predictable results use Worksheet Round functions in Excel VBA:
-```
+```vb
 ?Round(0.12335,4)
  0,1234
 ?Round(0.12345,4)

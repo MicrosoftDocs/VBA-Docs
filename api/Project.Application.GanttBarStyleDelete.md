@@ -46,7 +46,7 @@ To manually show the  **Bar Styles** dialog box, click the **Format** tab under 
 The following command deletes style number 41 in the  **Bar Styles** dialog box.
 
 
-```
+```vb
 GanttBarStyleDelete Item:="41"
 ```
 

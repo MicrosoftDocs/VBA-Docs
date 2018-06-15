@@ -31,8 +31,5 @@ For information about returning a range from a document or returning a shape ran
 ## See also
 
 
-#### Concepts
-
-
 [Bookmark Object](Word.Bookmark.md)
 

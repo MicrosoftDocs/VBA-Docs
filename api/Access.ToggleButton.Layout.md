@@ -26,8 +26,5 @@ Returns the type of layout for the specified toggle button. Read-only  **[AcLayo
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

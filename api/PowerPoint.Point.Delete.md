@@ -28,8 +28,5 @@ Deleting a  **Point** object deletes the entire series.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](PowerPoint.Point.md)
 

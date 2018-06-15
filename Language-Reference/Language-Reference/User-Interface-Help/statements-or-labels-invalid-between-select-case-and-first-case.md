@@ -17,7 +17,7 @@ You can place nothing but a [comment](vbe-glossary.md) between the **Select Case
 
 - You placed a statement between  **Select Case** and its first **Case** clause. For example:
     
-  ```
+  ```vb
   Select Case SomeVar 
 ' This is a comment and is valid. 
 Stop ' Even a Stop statement is invalid here. 

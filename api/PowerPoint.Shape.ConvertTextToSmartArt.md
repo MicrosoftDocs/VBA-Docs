@@ -34,8 +34,5 @@ Converts text in a  **Shape** object to a SmartArt diagram.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

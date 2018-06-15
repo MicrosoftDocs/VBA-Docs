@@ -50,8 +50,5 @@ Documents("Sales.doc").PrintOut
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

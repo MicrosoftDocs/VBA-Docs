@@ -50,8 +50,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

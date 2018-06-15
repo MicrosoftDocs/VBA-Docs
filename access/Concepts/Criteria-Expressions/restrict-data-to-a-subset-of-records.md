@@ -17,7 +17,7 @@ For example, you can use the  **DSum** function, a domain aggregate function, to
 
 
 
-```
+```vb
 =DSum("[Freight]", "Orders")
 ```
 
@@ -25,7 +25,7 @@ If you specify the optional  _criteria_ argument, the **DSum** function will be 
 
 
 
-```
+```vb
 =DSum("[Freight]", "Orders", "[ShipRegion] = 'CA'")
 ```
 

@@ -26,8 +26,5 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicate
 ## See also
 
 
-#### Concepts
-
-
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 

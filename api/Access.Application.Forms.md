@@ -31,8 +31,5 @@ The properties of the  **Forms** collection in Visual Basic refer to forms that 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

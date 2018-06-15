@@ -34,9 +34,6 @@ Gets a  **DocumentLibraryVersion** object from the **DocumentLibraryVersions** c
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersions Object](documentlibraryversions-object-office.md)
 #### Other resources
 

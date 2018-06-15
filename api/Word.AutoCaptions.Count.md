@@ -26,8 +26,5 @@ Returns the number of items in the  **AutoCaptions** collection. Read-only **Lon
 ## See also
 
 
-#### Concepts
-
-
 [AutoCaptions Collection Object](Word.autocaptions.md)
 

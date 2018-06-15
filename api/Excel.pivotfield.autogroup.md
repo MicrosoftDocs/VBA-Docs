@@ -24,8 +24,5 @@ Automatically groups the pivot fields in a pivot table.
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

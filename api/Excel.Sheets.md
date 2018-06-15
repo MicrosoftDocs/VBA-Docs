@@ -28,7 +28,7 @@ The  **Sheets** collection is useful when you want to return sheets of any type.
 Use the  **[Sheets](Excel.Workbook.Sheets.md)** property to return the **Sheets** collection. The following example prints all sheets in the active workbook.
 
 
-```
+```vb
 Sheets.PrintOut
 ```
 
@@ -37,7 +37,7 @@ Use the  **[Add](Excel.Sheets.Add.md)** method to create a new sheet and add it 
 
 
 
-```
+```vb
 Sheets.Add type:=xlChart, count:=2, after:=Sheets(2)
 ```
 
@@ -46,7 +46,7 @@ Use  **Sheets** ( _index_ ), where _index_ is the sheet name or index number, to
 
 
 
-```
+```vb
 Sheets("sheet1").Activate
 ```
 
@@ -55,7 +55,7 @@ Use  **Sheets** ( _array_ ) to specify more than one sheet. The following exampl
 
 
 
-```
+```vb
 Sheets(Array("Sheet4", "Sheet5")).Move before:=Sheets(1)
 ```
 

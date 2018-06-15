@@ -45,8 +45,5 @@ myShape.ActionSettings(ppMouseOver).SoundEffect.Name = "applause"
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

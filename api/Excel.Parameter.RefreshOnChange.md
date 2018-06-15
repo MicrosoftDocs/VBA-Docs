@@ -46,8 +46,5 @@ objParam1.SetParam xlRange, Range("D4")
 ## See also
 
 
-#### Concepts
-
-
 [Parameter Object](Excel.Parameter.md)
 

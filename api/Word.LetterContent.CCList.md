@@ -48,8 +48,5 @@ ActiveDocument.RunLetterWizard LetterContent:=lcNew
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

@@ -64,8 +64,5 @@ Worksheets(1).Shapes(2).ControlFormat.List(4) = "gadgets"
 ## See also
 
 
-#### Concepts
-
-
 [ControlFormat Object](Excel.ControlFormat.md)
 

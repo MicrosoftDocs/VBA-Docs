@@ -42,8 +42,5 @@ ActiveWindow.Document.Frameset _
 ## See also
 
 
-#### Concepts
-
-
 [Frameset Object](Word.Frameset.md)
 

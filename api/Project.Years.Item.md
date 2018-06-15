@@ -31,7 +31,4 @@ Gets a single  **Year** object from the **Years** collection. Read-only **Year**
 ## See also
 
 
-#### Concepts
-
-
 [Years Collection Object](Project.years.md)

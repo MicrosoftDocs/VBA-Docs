@@ -45,16 +45,13 @@ This example opens the file named "Data.wp" by using the WordPerfect 6x file con
 
 
 
-```
+```vb
 Documents.Open FileName:="C:\Data.wp", _ 
  Format:=FileConverters("WordPerfect6x").OpenFormat
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FileConverter Object](Word.FileConverter.md)

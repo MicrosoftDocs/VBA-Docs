@@ -31,8 +31,5 @@ If this property is set to  **True** , the contents of the property referenced b
 ## See also
 
 
-#### Concepts
-
-
 [OrderField Object](Outlook.OrderField.md)
 

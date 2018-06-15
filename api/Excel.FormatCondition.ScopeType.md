@@ -31,8 +31,5 @@ The default value is  **xlSelectionScope** , which sets the scope using the **[A
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Excel.FormatCondition.md)
 

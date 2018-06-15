@@ -23,9 +23,6 @@ Retrieves the string name of the SmartArt color style. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtColor Object](smartartcolor-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns the SmartArt diagram of the  **ShapeRange** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

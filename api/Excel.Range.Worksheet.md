@@ -45,8 +45,5 @@ MsgBox Range("testRange").Worksheet.Name
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

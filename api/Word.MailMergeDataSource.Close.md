@@ -26,8 +26,5 @@ Closes the specified Mail Merge data source.
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 

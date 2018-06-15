@@ -35,8 +35,5 @@ This event occurs after all  **Worksheet** . **Calculate** , **Chart** . **Calcu
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

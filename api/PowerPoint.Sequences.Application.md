@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [Sequences Object](PowerPoint.Sequences.md)
 

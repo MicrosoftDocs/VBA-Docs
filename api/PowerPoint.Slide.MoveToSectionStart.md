@@ -34,8 +34,5 @@ Moves the current slide to the start of the specified section.
 ## See also
 
 
-#### Concepts
-
-
 [Slide Object](PowerPoint.Slide.md)
 

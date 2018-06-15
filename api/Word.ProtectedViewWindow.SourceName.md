@@ -43,8 +43,5 @@ MsgBox ActiveProtectedViewWindow.SourcePath &; "\" _
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

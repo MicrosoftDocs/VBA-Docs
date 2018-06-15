@@ -39,8 +39,5 @@ AutoCorrectEntry
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrectEntries Collection Object](Word.autocorrectentries.md)
 

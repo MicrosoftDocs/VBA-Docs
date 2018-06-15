@@ -43,8 +43,5 @@ ActiveDocument.CheckSpelling
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

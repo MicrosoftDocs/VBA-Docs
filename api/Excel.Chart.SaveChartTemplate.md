@@ -51,8 +51,5 @@ ActiveChart.SaveChartTemplate _
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

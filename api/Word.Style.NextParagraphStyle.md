@@ -58,8 +58,5 @@ Set myStyle = myDoc.Styles.Add(Name:= "MyStyle")
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

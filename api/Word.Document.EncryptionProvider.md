@@ -26,8 +26,5 @@ Returns a  **String** specifying the name of the algorithm encryption provider t
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

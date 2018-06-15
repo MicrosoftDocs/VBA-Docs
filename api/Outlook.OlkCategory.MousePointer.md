@@ -31,8 +31,5 @@ The default value is  **olMousePointerDefault** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkCategory Object](Outlook.OlkCategory.md)
 

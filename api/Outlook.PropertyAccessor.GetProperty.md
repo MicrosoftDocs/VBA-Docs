@@ -70,8 +70,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 

@@ -35,8 +35,5 @@ If the  **ReportItem** object is created in a version of Microsoft Outlook earli
 ## See also
 
 
-#### Concepts
-
-
 [ReportItem Object](Outlook.ReportItem.md)
 

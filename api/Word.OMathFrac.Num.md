@@ -26,8 +26,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the numerator for 
 ## See also
 
 
-#### Concepts
-
-
 [OMathFrac Object](Word.OMathFrac.md)
 

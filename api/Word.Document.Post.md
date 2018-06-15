@@ -41,8 +41,5 @@ ActiveDocument.Post
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

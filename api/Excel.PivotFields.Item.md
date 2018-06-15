@@ -56,8 +56,5 @@ Worksheets("sheet3").PivotTables(1) _
 ## See also
 
 
-#### Concepts
-
-
 [PivotFields Object](Excel.PivotFields.md)
 

@@ -26,8 +26,5 @@ Returns an  **XmlMap** object that represents the schema map used for the specif
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

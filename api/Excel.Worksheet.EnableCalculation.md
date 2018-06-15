@@ -41,8 +41,5 @@ Worksheets(1).EnableCalculation = False
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

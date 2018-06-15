@@ -43,15 +43,12 @@ This example returns the current status of the  **Prompt to save Normal template
 
 
 
-```
+```vb
 temp = Options.SaveNormalPrompt
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

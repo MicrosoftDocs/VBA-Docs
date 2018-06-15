@@ -23,9 +23,6 @@ Gets or sets the state of the SmartArt diagram with regard to (left-to-right) LT
 ## See also
 
 
-#### Concepts
-
-
 [SmartArt Object](smartart-object-office.md)
 #### Other resources
 

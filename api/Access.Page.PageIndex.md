@@ -47,8 +47,5 @@ Forms("Order Entry").Controls("Information").Pages("Notes").PageIndex = 0
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Access.Page.md)
 

@@ -41,8 +41,5 @@ ActiveDocument.Words(1).Italic = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

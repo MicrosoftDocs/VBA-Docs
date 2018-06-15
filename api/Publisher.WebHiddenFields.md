@@ -24,7 +24,7 @@ Use the  **HiddenFields** property to access hidden Web fields. This example add
 
  
 
-```
+```vb
 Sub CreateActionWebButton() 
  With ActiveDocument.Pages(1).Shapes 
  With .AddWebControl _ 

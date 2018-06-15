@@ -41,8 +41,5 @@ Worksheets("Sheet1").Range("A1").Font.FontStyle = "Bold Italic"
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Excel.Font(objec).md)
 

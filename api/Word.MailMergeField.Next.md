@@ -26,8 +26,5 @@ Returns the next mail merge field in the collection of mail merge fields. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeField Object](Word.MailMergeField.md)
 

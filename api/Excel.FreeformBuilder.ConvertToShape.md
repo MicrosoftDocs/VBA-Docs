@@ -54,8 +54,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [FreeformBuilder Object](Excel.FreeformBuilder.md)
 

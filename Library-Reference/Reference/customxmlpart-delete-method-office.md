@@ -33,7 +33,7 @@ If you attempt to delete the part containing the core properties, the operation 
 The following example adds a custom XML part, select a node with a criteria, and delete the part and node.
 
 
-```
+```vb
 Sub ShowCustomXmlParts() 
     On Error GoTo Err 
  
@@ -68,9 +68,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLPart Object](customxmlpart-object-office.md)

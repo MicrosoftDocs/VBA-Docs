@@ -39,8 +39,5 @@ Subdocument
 ## See also
 
 
-#### Concepts
-
-
 [Subdocuments Collection Object](Word.subdocuments.md)
 

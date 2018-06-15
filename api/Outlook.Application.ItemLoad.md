@@ -52,8 +52,5 @@ This event is not raised when the following conditions occur:
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

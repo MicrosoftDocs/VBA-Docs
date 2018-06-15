@@ -26,8 +26,5 @@ Returns or sets an  **[XlPlacement](Excel.XlPlacement.md)** value that represent
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

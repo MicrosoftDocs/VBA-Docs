@@ -31,8 +31,5 @@ The name of a  **[Range](Excel.Range(objec).md)** object is a **[Name](Excel.Nam
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

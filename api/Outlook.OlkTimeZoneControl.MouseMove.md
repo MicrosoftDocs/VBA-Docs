@@ -42,8 +42,5 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

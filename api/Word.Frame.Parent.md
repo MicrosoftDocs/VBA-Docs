@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Fram
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

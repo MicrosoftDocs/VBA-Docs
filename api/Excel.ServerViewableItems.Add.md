@@ -44,8 +44,5 @@ If you try to add a mix of both sheets and named items to the  **[ServerViewable
 ## See also
 
 
-#### Concepts
-
-
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 

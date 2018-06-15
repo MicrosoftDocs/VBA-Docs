@@ -36,9 +36,6 @@ The specific class for this property depends on the host application.
 ## See also
 
 
-#### Concepts
-
-
 [CustomTaskPane Object](customtaskpane-object-office.md)
 #### Other resources
 

@@ -21,7 +21,7 @@ Returns a  **[Floor](Excel.Floor(Graph object).md)** object that represents the 
 This example sets the floor color to blue. The example should be run on a 3-D chart (the  **Floor** property fails on 2-D charts).
 
 
-```
+```vb
 myChart.Floor.Interior.ColorIndex = 5
 ```
 

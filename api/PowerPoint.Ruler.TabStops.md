@@ -53,8 +53,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Ruler Object](PowerPoint.Ruler.md)
 

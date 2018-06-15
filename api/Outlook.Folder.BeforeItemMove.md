@@ -43,8 +43,5 @@ If the action is a permanent delete, the  _MoveTo_ folder returned in the event 
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

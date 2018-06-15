@@ -44,8 +44,5 @@ For more information on type conversion when using the  **PropertyAccessor** obj
 ## See also
 
 
-#### Concepts
-
-
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 

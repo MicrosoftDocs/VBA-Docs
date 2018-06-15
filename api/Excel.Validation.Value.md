@@ -26,8 +26,5 @@ Returns a  **Boolean** value that indicates if all the validation criteria are m
 ## See also
 
 
-#### Concepts
-
-
 [Validation Object](Excel.Validation.md)
 

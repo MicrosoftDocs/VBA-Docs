@@ -31,8 +31,5 @@ Updates the entries shown in specified index.
 ## See also
 
 
-#### Concepts
-
-
 [Index Object](Word.Index.md)
 

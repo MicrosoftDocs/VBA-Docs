@@ -26,8 +26,5 @@ Gets or sets whether rich text is displayed in the specified text box. Read/writ
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

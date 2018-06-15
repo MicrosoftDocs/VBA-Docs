@@ -198,8 +198,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 

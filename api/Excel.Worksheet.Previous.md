@@ -44,8 +44,5 @@ ActiveCell.Previous.Select
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

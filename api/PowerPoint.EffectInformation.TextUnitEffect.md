@@ -43,9 +43,6 @@ The value of the  **TextUnitEffect** property can be one of these **MsoAnimTextU
 ## See also
 
 
-#### Concepts
-
-
 
 [EffectInformation Object](PowerPoint.EffectInformation.md)
 

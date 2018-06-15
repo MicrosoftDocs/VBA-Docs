@@ -31,8 +31,5 @@ Returns the color of the axis for cells with conditional formatting as data bars
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

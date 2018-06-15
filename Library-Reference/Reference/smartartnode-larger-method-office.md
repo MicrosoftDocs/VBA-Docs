@@ -33,9 +33,6 @@ The actual amount of increase depends on the layout of the nodes.
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

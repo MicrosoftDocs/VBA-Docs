@@ -31,8 +31,5 @@ The property returns  **True** if the PivotField is currently visible and return
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

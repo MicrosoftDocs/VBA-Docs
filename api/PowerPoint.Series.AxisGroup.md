@@ -26,8 +26,5 @@ Returns the type of axis group. Read/write  **[XlAxisGroup](PowerPoint.XlAxisGro
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

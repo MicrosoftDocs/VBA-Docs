@@ -23,7 +23,4 @@ Gets or sets the start date of the calendar exception. Read/write  **Variant**.
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

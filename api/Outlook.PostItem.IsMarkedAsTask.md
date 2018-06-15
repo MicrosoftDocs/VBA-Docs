@@ -26,8 +26,5 @@ Returns a  **Boolean** value that indicates whether the **[PostItem](Outlook.Pos
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

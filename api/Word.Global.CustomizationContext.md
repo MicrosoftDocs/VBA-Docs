@@ -33,7 +33,7 @@ Corresponds to the value of the  **Save in** box on the **Commands** tab in the 
 This example adds the ALT+CTRL+W key combination to the FileClose command. The keyboard customization is saved in the Normal template.
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyControl, _ 
  wdKeyAlt, wdKeyW), _ 
@@ -45,7 +45,7 @@ This example adds the File Versions button to the Standard toolbar. The command 
 
 
 
-```
+```vb
 CustomizationContext = ActiveDocument.AttachedTemplate 
 Application.CommandBars("Standard").Controls.Add _ 
  Type:=msoControlButton, _ 
@@ -54,9 +54,6 @@ Application.CommandBars("Standard").Controls.Add _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

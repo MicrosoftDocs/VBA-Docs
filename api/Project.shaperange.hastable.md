@@ -24,9 +24,6 @@ Gets a value that indicates whether the shape range contains a table. Read-only 
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Project.Table.md)
 #### Other resources
 

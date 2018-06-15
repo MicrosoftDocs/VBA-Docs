@@ -26,8 +26,5 @@ Returns a  **Long** value indicating the count of **[Category](Outlook.Category.
 ## See also
 
 
-#### Concepts
-
-
 [Categories Object](Outlook.Categories.md)
 

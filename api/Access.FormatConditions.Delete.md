@@ -26,8 +26,5 @@ Deletes the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Collection](Access.FormatConditions.md)
 

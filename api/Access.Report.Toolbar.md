@@ -31,8 +31,5 @@ When opening a report in Access that's part of a database that was created in an
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

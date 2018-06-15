@@ -26,8 +26,5 @@ Clears the extra colors in a presentation.
 ## See also
 
 
-#### Concepts
-
-
 [ExtraColors Object](PowerPoint.ExtraColors.md)
 

@@ -37,8 +37,5 @@ If you design a report on a system with a different printer than the one you wil
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

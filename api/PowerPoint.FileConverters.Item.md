@@ -39,8 +39,5 @@ FileConverter
 ## See also
 
 
-#### Concepts
-
-
 [FileConverters Object](PowerPoint.FileConverters.md)
 

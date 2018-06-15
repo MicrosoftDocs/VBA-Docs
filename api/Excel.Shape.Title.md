@@ -36,8 +36,5 @@ To set the descriptive text string of the alternative text for a shape, use the 
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

@@ -34,8 +34,5 @@ Returns a  **Range** object that refers to the start position of the previous it
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

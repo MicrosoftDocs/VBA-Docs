@@ -31,9 +31,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [Sync Object](sync-object-office.md)
 #### Other resources
 

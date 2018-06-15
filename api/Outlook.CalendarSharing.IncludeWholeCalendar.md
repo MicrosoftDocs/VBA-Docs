@@ -38,8 +38,5 @@ If this property is set to  **false** , the **StartDate** and **EndDate** proper
 ## See also
 
 
-#### Concepts
-
-
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 

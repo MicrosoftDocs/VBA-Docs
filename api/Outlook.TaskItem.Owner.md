@@ -31,8 +31,5 @@ This is a free-form string field. Setting this property to someone other than th
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

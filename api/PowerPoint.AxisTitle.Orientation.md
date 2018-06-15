@@ -31,8 +31,5 @@ The value of this property can be an integer value from -90 to 90 degrees or one
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 

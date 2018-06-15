@@ -26,8 +26,5 @@ Returns the number of characters in the story that contains the specified select
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

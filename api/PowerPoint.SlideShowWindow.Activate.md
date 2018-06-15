@@ -26,8 +26,5 @@ Activates the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 

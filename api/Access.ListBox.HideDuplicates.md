@@ -54,8 +54,5 @@ intCurVal = Me!CategoryName.HideDuplicates
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

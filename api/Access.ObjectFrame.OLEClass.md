@@ -46,8 +46,5 @@ MsgBox "The OLE class = " &; Forms("Order Entry").Controls("Customer Picture").O
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

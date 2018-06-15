@@ -55,8 +55,5 @@ Selection.InsertCaption Label:="Figure", Title:=": History"
 ## See also
 
 
-#### Concepts
-
-
 [PageNumbers Collection Object](Word.pagenumbers.md)
 

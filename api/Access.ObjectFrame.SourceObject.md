@@ -33,8 +33,5 @@ For linked unbound object frames, the  **SourceObject** property can't be set in
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

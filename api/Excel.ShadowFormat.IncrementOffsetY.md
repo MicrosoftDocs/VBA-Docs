@@ -45,8 +45,5 @@ myDocument.Shapes(3).Shadow.IncrementOffsetY -3
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Excel.ShadowFormat.md)
 

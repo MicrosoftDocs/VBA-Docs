@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **OLEF
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Word.OLEFormat.md)
 

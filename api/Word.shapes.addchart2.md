@@ -57,8 +57,5 @@ Adds a chart to the document. Returns a [Shape](Word.Shape.md) object that repre
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Collection](Word.shapes.md)
 

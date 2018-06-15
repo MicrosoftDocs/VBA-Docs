@@ -40,7 +40,7 @@ The  **Creator** property always returns the numeric identifier for the active a
 This example displays a message about the creator of "myObject" variable.
 
 
-```
+```vb
 Set myObject = ActiveDocument 
 If myObject.Creator = wdCreatorCode Then 
     MsgBox "This is a Microsoft Word object" 
@@ -52,9 +52,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)

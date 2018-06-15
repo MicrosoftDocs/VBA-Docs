@@ -45,8 +45,5 @@ MsgBox Prompt:= ActiveDocument.Windows.Count &; " windows", _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

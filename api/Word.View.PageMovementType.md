@@ -29,6 +29,4 @@ ActiveWindow.View.PageMovementType = wdSideToSide
 
 ## See also
 
-#### Concepts
-
 [View Object](Word.View.md)

@@ -34,9 +34,6 @@ If you rename a built-in report, the report is copied to a new custom report.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 #### Other resources
 

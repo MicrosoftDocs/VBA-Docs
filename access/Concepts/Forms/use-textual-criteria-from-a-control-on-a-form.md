@@ -21,7 +21,7 @@ The following example performs a lookup on an Employees table and returns the re
 
 
 
-```
+```vb
 =DLookup("[Region]", "Employees", "[LastName] = '" _
     &; Forms!Employees!LastName &; "'")
 ```
@@ -30,7 +30,7 @@ If the current value of the control is  `King`, the following  _criteria_ argume
 
 
 
-```
+```vb
 "[LastName] = 'King'"
 
 ```

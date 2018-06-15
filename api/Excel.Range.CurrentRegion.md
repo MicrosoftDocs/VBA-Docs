@@ -55,8 +55,5 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

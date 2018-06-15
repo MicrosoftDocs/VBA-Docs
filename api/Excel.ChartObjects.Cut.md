@@ -36,8 +36,5 @@ Only embedded charts can be cut.
 ## See also
 
 
-#### Concepts
-
-
 [ChartObjects Object](Excel.ChartObjects.md)
 

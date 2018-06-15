@@ -26,8 +26,5 @@ Returns an  **[OMathFrac](Word.OMathFrac.md)** object that represents a fraction
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

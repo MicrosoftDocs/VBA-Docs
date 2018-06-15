@@ -41,8 +41,5 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

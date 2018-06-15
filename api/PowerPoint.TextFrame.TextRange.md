@@ -38,15 +38,12 @@ You can construct a text range from a selection when the presentation is in slid
 This example makes the selected text bold in the first window.
 
 
-```
+```vb
 Windows(1).Selection.TextRange.Font.Bold = True
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextFrame Object](PowerPoint.TextFrame.md)

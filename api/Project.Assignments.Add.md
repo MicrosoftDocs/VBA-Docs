@@ -38,7 +38,4 @@ Adds an  **Assignment** object to an **Assignments** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Assignments Collection Object](Project.assignments.md)

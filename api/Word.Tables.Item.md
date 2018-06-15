@@ -39,8 +39,5 @@ Table
 ## See also
 
 
-#### Concepts
-
-
 [Tables Collection Object](Word.tables.md)
 

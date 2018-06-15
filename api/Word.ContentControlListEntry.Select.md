@@ -53,8 +53,5 @@ objCE.Select
 ## See also
 
 
-#### Concepts
-
-
 [ContentControlListEntry Object](Word.ContentControlListEntry.md)
 

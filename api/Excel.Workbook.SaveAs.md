@@ -64,8 +64,5 @@ NewBook.SaveAs Filename:=fName
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](workbook-object-excel.md)
 

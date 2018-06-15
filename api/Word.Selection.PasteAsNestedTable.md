@@ -42,8 +42,5 @@ ActiveDocument.Tables(1).Rows(1).Cells(3).Range _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

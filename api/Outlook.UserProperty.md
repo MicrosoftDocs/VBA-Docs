@@ -33,7 +33,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/88b86622-2234-77be-41e7-b76b0
 The following example adds a custom text property named MyPropName.
 
 
-```
+```vb
 Set myProp = myItem.UserProperties.Add("MyPropName", olText)
 ```
 

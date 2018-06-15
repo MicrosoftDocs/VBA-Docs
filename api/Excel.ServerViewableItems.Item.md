@@ -39,8 +39,5 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 

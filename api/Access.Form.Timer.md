@@ -61,10 +61,6 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [Form Object](Access.Form.md)

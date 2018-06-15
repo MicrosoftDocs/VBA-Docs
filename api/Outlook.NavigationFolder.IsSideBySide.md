@@ -37,8 +37,5 @@ However, the  **IsSideBySide** property is automatically set to **True** if the 
 ## See also
 
 
-#### Concepts
-
-
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 

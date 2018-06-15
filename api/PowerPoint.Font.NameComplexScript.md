@@ -47,8 +47,5 @@ ActivePresentation.Slides(1).Shapes.Title.TextFrame _
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](PowerPoint.Font.md)
 

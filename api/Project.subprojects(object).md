@@ -20,7 +20,7 @@ Use  **Subprojects** ( _Index_ ), where _Index_ is the subproject index or proje
 
 
 
-```
+```vb
 ActiveProject.Subprojects("Arcadia Bay Online Catalog Plan").LinkToSource = False
 ```
 
@@ -31,7 +31,7 @@ Use the  **[Subprojects](http://msdn.microsoft.com/library/e4b143fb-3da7-69bd-65
 
 
 
-```
+```vb
 Dim SubProj As Subproject 
 
  

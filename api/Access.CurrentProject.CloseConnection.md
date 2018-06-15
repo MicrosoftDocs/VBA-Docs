@@ -38,8 +38,5 @@ The  **CloseConnection** method is useful when you have opened a Microsoft Acces
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

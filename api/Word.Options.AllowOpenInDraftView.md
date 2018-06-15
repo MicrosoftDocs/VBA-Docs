@@ -31,8 +31,5 @@ This property corresponds to the  **Allow opening a document in draft view** che
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

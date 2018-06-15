@@ -26,7 +26,7 @@ There are three default parts that are always created with a document. These are
 The following example adds a node to a  **CustomXMLPart** object that is part of the **CustomXMLParts** object collection.
 
 
-```
+```vb
 Sub AddPartToCollection() 
     Dim myPart As CustomXMLPart 
  
@@ -37,9 +37,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

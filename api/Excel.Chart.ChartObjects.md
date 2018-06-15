@@ -77,8 +77,5 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.ClearFormats
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

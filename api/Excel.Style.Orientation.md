@@ -26,8 +26,5 @@ Returns or sets a  **[XlOrientation](Excel.XlOrientation.md)** value that repres
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

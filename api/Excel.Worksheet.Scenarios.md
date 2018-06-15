@@ -50,8 +50,5 @@ Worksheets("Sheet1").Scenarios(1).Comment = _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

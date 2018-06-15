@@ -24,7 +24,7 @@ Use the  **[ReaderSpread](Publisher.Page.ReaderSpread.md)** property to access t
 
  
 
-```
+```vb
 Sub SetFacingPages() 
  With ActiveDocument 
  If .Pages.Count >= 2 Then 

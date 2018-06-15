@@ -21,7 +21,7 @@ Represents a single AutoText entry. The  **AutoTextEntry** object is a member of
 Use  **[AutoTextEntries](Word.AutoTextEntries.Item.md)** (index), where index is the AutoText entry name or index number, to return a single **AutoTextEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown on the **AutoText** tab in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoText entry named "cName."
 
 
-```
+```vb
 NormalTemplate.AutoTextEntries("cName").Value = _ 
  "The Johnson Company"
 ```
@@ -42,7 +42,7 @@ The following example inserts the global AutoText entry named "TheWorld" at the 
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseEnd 
 NormalTemplate.AutoTextEntries("TheWorld").Insert _ 
  Where:=Selection.Range
@@ -53,7 +53,7 @@ Use the  **[Add](Word.AutoTextEntries.Add.md)** method to add an **AutoTextEntry
 
 
 
-```
+```vb
 NormalTemplate.AutoTextEntries.Add Name:="Blue", _ 
  Range:=Selection.Range
 ```

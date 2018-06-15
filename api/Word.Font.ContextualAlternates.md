@@ -43,8 +43,5 @@ ActiveDocument.Range.Font.ContextualAlternates = True
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

@@ -39,8 +39,5 @@ MailMergeFieldName
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeFieldNames Object](Word.MailMergeFieldNames.md)
 

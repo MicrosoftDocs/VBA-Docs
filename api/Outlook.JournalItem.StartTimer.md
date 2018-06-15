@@ -31,8 +31,5 @@ The  **[Duration](Outlook.JournalItem.Duration.md)** , **[End](Outlook.JournalIt
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

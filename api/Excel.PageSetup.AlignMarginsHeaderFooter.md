@@ -26,8 +26,5 @@ Returns  **True** for Excel to align the header and the footer with the margins 
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

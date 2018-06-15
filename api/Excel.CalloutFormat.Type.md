@@ -26,8 +26,5 @@ Returns or sets a  **[MsoCalloutType](http://msdn.microsoft.com/library/65548284
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Excel.CalloutFormat.md)
 

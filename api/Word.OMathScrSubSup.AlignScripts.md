@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to horizontally align sub
 ## See also
 
 
-#### Concepts
-
-
 [OMathScrSubSup Object](Word.OMathScrSubSup.md)
 

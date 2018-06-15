@@ -43,8 +43,5 @@ Msgbox "The page width is " _
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

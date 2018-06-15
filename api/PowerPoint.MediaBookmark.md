@@ -19,8 +19,5 @@ Contains properties and methods that specify information about the bookmark of t
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

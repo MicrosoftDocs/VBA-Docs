@@ -26,8 +26,5 @@ Returns the  **[TableStyleElements](Excel.TableStyleElements.md)** object. Read-
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Excel.TableStyle.md)
 

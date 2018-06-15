@@ -43,8 +43,5 @@ Field
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfContents Collection Object](Word.tablesofcontents.md)
 

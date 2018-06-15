@@ -26,8 +26,5 @@ Returns a  **Boolean** value that indicates **True** if the form cannot be modif
 ## See also
 
 
-#### Concepts
-
-
 [FormDescription Object](Outlook.FormDescription.md)
 

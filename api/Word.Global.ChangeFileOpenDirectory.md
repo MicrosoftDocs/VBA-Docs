@@ -41,7 +41,7 @@ The contents of the specified folder are listed the next time the  **Open** dial
 This example changes the folder in which Word searches for documents, and then opens a file named "Test.doc."
 
 
-```
+```vb
 ChangeFileOpenDirectory "C:\Documents" 
 Documents.Open FileName:="Test.doc"
 ```
@@ -51,16 +51,13 @@ This example changes the folder in which Word searches for documents, and then d
 
 
 
-```
+```vb
 ChangeFileOpenDirectory "C:\" 
 Dialogs(wdDialogFileOpen).Show
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

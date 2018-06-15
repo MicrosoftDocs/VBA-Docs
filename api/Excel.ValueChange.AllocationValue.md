@@ -36,8 +36,5 @@ The  **AllocationValue** property corresponds to the **Value to Allocate** setti
 ## See also
 
 
-#### Concepts
-
-
 [ValueChange Object](Excel.ValueChange.md)
 

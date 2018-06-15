@@ -68,8 +68,5 @@ objCC.DropdownListEntries.Add "Other"
 ## See also
 
 
-#### Concepts
-
-
 [ContentControlListEntries Collection](Word.ContentControlListEntries.md)
 

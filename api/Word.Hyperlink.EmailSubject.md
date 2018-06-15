@@ -48,8 +48,5 @@ Next hypLoop
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

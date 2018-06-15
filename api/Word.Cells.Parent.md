@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Cell
 ## See also
 
 
-#### Concepts
-
-
 [Cells Collection Object](Word.cells.md)
 

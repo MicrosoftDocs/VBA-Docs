@@ -40,8 +40,5 @@ The  **ChartCharacters** object is not a collection.
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 

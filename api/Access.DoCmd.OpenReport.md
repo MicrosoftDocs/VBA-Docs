@@ -56,8 +56,5 @@ DoCmd.OpenReport "Sales Report", acViewNormal, "Report Filter"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

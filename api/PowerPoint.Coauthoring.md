@@ -24,8 +24,5 @@ The  **Presentation.Coauthoring** property returns a **Coauthoring** object.
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

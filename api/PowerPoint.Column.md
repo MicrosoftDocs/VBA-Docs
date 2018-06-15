@@ -69,8 +69,5 @@ ActiveWindow.Selection.ShapeRange.Table.Columns(1) _
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

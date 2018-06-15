@@ -41,8 +41,5 @@ Application.MailMessage.DisplayProperties
 ## See also
 
 
-#### Concepts
-
-
 [MailMessage Object](Word.MailMessage.md)
 

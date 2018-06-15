@@ -18,7 +18,7 @@ Represents a color in the color scheme of a Microsoft Office theme.
 The following example sets a  **ThemeColor** object to the **msoThemeAccent1** constant.
 
 
-```
+```vb
 Dim tcsThemeColorScheme As ThemeColorScheme 
 Dim tcThemeColor As ThemeColor 
 Set tcThemeColor = tcsThemeColorScheme.Colors(msoThemeAccent1)
@@ -26,9 +26,6 @@ Set tcThemeColor = tcsThemeColorScheme.Colors(msoThemeAccent1)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

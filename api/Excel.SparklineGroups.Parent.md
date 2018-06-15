@@ -26,8 +26,5 @@ Returns the  **[Range](Excel.Range(objec).md)** object for the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroups Object](Excel.SparklineGroups.md)
 

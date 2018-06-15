@@ -26,8 +26,5 @@ Returns the current view for the specified Access object. Read-only  **[AcCurren
 ## See also
 
 
-#### Concepts
-
-
 [AccessObject Object](Access.AccessObject.md)
 

@@ -46,7 +46,7 @@ For Word, Excel, PowerPoint, and Access, there is only one ID for each applicati
 In the following example, written in C#, the  **IRibbonExtensibility** interface is specified in the class definition. The example then implements the interfaces's only method, **GetCustomUI**. The method creates an instance of a **SteamReader** object that reads in the customization markup in an external XML file.
 
 
-```
+```vb
 public class Connect : Object, Extensibility.IDTExtensibility2, IRibbonExtensibility 
 ... 
 public string GetCustomUI(string RibbonID) 
@@ -60,9 +60,6 @@ public string GetCustomUI(string RibbonID)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [IRibbonExtensibility Object](iribbonextensibility-object-office.md)

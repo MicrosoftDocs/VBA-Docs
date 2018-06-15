@@ -54,8 +54,5 @@ Forms(0).HorizontalDatasheetGridlineStyle = 6
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

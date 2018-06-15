@@ -36,8 +36,5 @@ Set sr = Worksheets(1).ChartObjects.ShapeRange
 ## See also
 
 
-#### Concepts
-
-
 [ChartObjects Object](Excel.ChartObjects.md)
 

@@ -33,8 +33,5 @@ Once you establish a reference to the  **CommandBars** collection object, you ca
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

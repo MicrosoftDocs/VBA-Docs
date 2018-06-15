@@ -26,8 +26,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the superscript fo
 ## See also
 
 
-#### Concepts
-
-
 [OMathScrPre Object](Word.OMathScrPre.md)
 

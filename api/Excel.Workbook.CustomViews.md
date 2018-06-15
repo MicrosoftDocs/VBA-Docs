@@ -36,8 +36,5 @@ ActiveWorkbook.CustomViews.Add "Summary", True, True
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

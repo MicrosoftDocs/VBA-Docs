@@ -36,8 +36,5 @@ This property is ignored if the  **[IncludeWholeCalendar](Outlook.CalendarSharin
 ## See also
 
 
-#### Concepts
-
-
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 

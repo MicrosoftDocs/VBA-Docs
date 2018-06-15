@@ -34,7 +34,7 @@ Although a  **[Range](Excel.Range(objec).md)** object can have more than one nam
 The following example displays the cell reference for the first name in the application collection.
 
 
-```
+```vb
 MsgBox Names(1).RefersTo
 ```
 
@@ -43,7 +43,7 @@ The following example deletes the name "mySortRange" from the active workbook.
 
 
 
-```
+```vb
 ActiveWorkbook.Names("mySortRange").Delete
 ```
 
@@ -52,7 +52,7 @@ Use the  **Name** property to return or set the text of the name itself. The fol
 
 
 
-```
+```vb
 Names(1).Name = "stock_values"
 ```
 
@@ -61,7 +61,7 @@ The following example sets the  **Visible** property for the first name assigned
 
 
 
-```
+```vb
 Worksheets(1).Range("a1:b1").Name.Visible = False
 ```
 

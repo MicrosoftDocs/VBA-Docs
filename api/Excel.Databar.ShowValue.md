@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that specifies if the value in the cell is 
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

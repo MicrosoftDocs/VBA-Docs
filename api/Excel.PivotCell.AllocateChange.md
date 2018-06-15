@@ -38,8 +38,5 @@ Running the  **AllocateChange** method for a cell in a PivotTable report based o
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

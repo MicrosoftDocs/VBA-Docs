@@ -49,8 +49,5 @@ Charts(1).ChartGroups.Item(1).HasDropLines = True
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroups Object](Excel.ChartGroups(object).md)
 

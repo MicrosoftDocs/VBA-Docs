@@ -32,7 +32,7 @@ Returns or sets the type of minor tick mark for the specified axis. Read/write X
 This example sets the minor tick marks for the value axis to be inside the axis.
 
 
-```
+```vb
 myChart.Axes(xlValue).MinorTickMark = xlTickMarkInside
 ```
 

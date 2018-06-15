@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [UpBars Object](Word.UpBars.md)
 

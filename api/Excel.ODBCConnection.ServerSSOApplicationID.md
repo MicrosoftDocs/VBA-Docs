@@ -26,8 +26,5 @@ Returns or sets a single sign-on application (SSO) identifier that is used to do
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

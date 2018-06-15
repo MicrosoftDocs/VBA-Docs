@@ -36,8 +36,5 @@ MsgBox AutoCorrect.Entries(1).RichText
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 

@@ -39,8 +39,5 @@ In PivotTables, this setting is set on the  **PivotField** object. Toggling this
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

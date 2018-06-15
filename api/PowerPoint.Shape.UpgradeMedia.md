@@ -26,8 +26,5 @@ Converts a legacy media object to an updated media object.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

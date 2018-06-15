@@ -31,8 +31,5 @@ It is necessary for the  **Name** property to be set before calling the **[Addre
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

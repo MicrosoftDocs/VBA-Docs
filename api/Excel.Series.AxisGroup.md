@@ -31,8 +31,5 @@ Returns or sets the group for the specified series. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

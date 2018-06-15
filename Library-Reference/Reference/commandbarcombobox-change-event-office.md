@@ -47,7 +47,7 @@ The  **Change** event is recognized by the **CommandBarComboBox** object. To ret
 The following example creates a command bar with a  **CommandBarComboBox** control containing four selections. The combo box responds to user interaction through the **CommandBarComboBox_Change** event.
 
 
-```
+```vb
 Private ctlComboBoxHandler As New ComboBoxHandler 
 Sub AddComboBox() 
  
@@ -78,7 +78,7 @@ The preceding example relies on the following code, which is stored in a class m
 
 
 
-```
+```vb
 Private WithEvents ComboBoxEvent As Office.CommandBarComboBox 
 Public Sub SyncBox(box As Office.CommandBarComboBox) 
     Set ComboBoxEvent = box 
@@ -125,9 +125,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)

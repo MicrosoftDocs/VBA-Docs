@@ -37,7 +37,7 @@ Each host application can only create a single instance of the  **FileDialog** o
 To display a file dialog box using the  **FileDialog** object, you must use the **Show** method. Once a dialog box is displayed, no code executes until the user dismisses the dialog box. The following example creates and displays a **File Picker** dialog box and then displays each selected file in a message box.
 
 
-```
+```vb
 Sub Main() 
  
  'Declare a variable as a FileDialog object. 
@@ -81,9 +81,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

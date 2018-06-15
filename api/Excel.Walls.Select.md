@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [Walls Object](Excel.Walls(objec).md)
 

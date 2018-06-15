@@ -31,8 +31,5 @@ Accessing the  **AddressEntry** property forces resolution of an unresolved reci
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

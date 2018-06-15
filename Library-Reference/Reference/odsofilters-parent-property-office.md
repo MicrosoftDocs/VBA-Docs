@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [ODSOFilters Object](odsofilters-object-office.md)
 #### Other resources
 

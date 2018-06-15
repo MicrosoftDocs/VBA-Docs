@@ -22,7 +22,7 @@ Pie of Pie and Bar of Pie charts: Returns or sets the space between the primary 
 This example sets the space between column clusters to be 50 percent of the column width.
 
 
-```
+```vb
 myChart.ChartGroups(1).GapWidth = 50
 ```
 

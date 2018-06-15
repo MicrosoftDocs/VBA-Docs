@@ -31,8 +31,5 @@ The  **AccessObjectProperties** collection object is the collection of all the p
 ## See also
 
 
-#### Concepts
-
-
 [AccessObject Object](Access.AccessObject.md)
 

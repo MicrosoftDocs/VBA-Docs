@@ -46,7 +46,7 @@ If the  **AddNode** operation would result in an invalid tree structure, the app
 The following example demonstrates adding a node to a  **CustomXMLPart** object.
 
 
-```
+```vb
 Sub AddNodeCustomXmlParts() 
  
     Dim cxp1 As CustomXMLPart 
@@ -69,9 +69,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLPart Object](customxmlpart-object-office.md)

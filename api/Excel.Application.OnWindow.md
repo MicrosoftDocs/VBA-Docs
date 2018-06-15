@@ -33,8 +33,5 @@ If a worksheet or macro sheet has an Auto_Activate or Auto_Deactivate macro defi
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

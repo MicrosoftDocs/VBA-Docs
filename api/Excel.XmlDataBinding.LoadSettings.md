@@ -34,8 +34,5 @@ Initializes the specified data binding with settings from an XML data file or a 
 ## See also
 
 
-#### Concepts
-
-
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 

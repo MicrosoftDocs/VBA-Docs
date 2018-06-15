@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Book
 ## See also
 
 
-#### Concepts
-
-
 [Bookmarks Collection Object](Word.bookmarks.md)
 

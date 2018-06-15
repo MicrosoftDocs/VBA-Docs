@@ -26,8 +26,5 @@ Returns the name of the bookmark. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [MediaBookmark Object](PowerPoint.MediaBookmark.md)
 

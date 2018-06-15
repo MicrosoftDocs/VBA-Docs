@@ -24,8 +24,5 @@ ms.prod: excel
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

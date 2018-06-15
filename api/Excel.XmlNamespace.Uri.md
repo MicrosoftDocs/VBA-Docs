@@ -26,8 +26,5 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) for 
 ## See also
 
 
-#### Concepts
-
-
 [XmlNamespace Object](Excel.XmlNamespace.md)
 

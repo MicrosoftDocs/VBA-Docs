@@ -38,8 +38,5 @@ MsgBox "The active field is a child of the field " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

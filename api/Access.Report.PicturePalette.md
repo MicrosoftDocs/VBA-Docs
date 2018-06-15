@@ -26,8 +26,5 @@ You can use the  **PicturePalette** property to specify a palette to be used by 
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

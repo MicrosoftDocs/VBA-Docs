@@ -31,8 +31,5 @@ Using this property to set the indent level to a number less than 0 (zero) or gr
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

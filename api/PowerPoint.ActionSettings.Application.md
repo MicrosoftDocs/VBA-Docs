@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [ActionSettings Object](PowerPoint.ActionSettings.md)
 

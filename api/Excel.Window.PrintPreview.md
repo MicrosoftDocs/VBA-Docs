@@ -49,8 +49,5 @@ Worksheets("Sheet1").PrintPreview
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

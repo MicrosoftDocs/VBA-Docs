@@ -64,8 +64,5 @@ The V in  **VLookup** stands for vertical. Use the **VLookup** method instead of
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

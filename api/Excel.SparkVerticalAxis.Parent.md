@@ -26,8 +26,5 @@ Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the
 ## See also
 
 
-#### Concepts
-
-
 [SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 

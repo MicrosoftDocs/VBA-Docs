@@ -80,15 +80,12 @@ The following table lists each language version of Office and gives its correspo
 This example places the folder suffix used by the active document in a string variable.
 
 
-```
+```vb
 strFolderSuffix = ActiveDocument.WebOptions.FolderSuffix
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [WebOptions Object](Word.WebOptions.md)

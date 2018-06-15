@@ -45,8 +45,5 @@ Marking a presentation as final makes the presentation read-only and prevents ch
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

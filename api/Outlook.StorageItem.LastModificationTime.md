@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagLastModificationTime** .
 ## See also
 
 
-#### Concepts
-
-
 [StorageItem Object](Outlook.StorageItem.md)
 

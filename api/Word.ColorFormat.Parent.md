@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Colo
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Word.ColorFormat.md)
 

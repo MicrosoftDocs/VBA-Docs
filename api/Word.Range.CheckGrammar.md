@@ -43,15 +43,12 @@ This example begins a spelling and grammar check on the selection.
 
 
 
-```
+```vb
 Selection.Range.CheckGrammar
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

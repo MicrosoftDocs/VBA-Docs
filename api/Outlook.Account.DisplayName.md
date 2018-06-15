@@ -31,8 +31,5 @@ Returns a  **String** representing the display name of the e-mail **[Account](Ou
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

@@ -26,8 +26,5 @@ Returns a  **BuildingBlockType** object that represents the type for a building 
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlock Object](Word.BuildingBlock.md)
 

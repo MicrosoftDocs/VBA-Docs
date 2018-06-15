@@ -31,8 +31,5 @@ The maximum number of characters that can be used for the  **Description** prope
 ## See also
 
 
-#### Concepts
-
-
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 

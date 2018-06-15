@@ -44,8 +44,5 @@ ActiveSheet.ChartObjects("Chart 1").Chart.PivotLayout.PivotTable.PivotColumnAxis
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

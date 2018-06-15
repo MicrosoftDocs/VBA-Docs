@@ -47,7 +47,7 @@ If successful, the  **DDEInitiate** method returns the number of the open channe
 This example opens a channel to Word, opens the Word document Formletr.doc, and then sends the FilePrint command to WordBasic.
 
 
-```
+```vb
 channelNumber = Application.DDEInitiate( _ 
  app:="WinWord", _ 
  topic:="C:\WINWORD\FORMLETR.DOC") 
@@ -57,9 +57,6 @@ Application.DDETerminate channelNumber
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Excel.Application(objec).md)

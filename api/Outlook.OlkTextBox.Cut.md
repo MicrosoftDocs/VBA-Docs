@@ -31,8 +31,5 @@ The data is copied to the clipboard in unformatted text format, replacing the ex
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

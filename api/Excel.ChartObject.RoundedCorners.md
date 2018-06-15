@@ -36,8 +36,5 @@ Worksheets("Sheet1").ChartObjects(1).RoundedCorners = True
 ## See also
 
 
-#### Concepts
-
-
 [ChartObject Object](Excel.ChartObject.md)
 

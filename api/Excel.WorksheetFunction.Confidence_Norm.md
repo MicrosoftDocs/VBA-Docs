@@ -62,8 +62,5 @@ The confidence interval is a range of values. Your sample mean, x , is at the ce
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

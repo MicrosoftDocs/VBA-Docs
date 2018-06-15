@@ -49,8 +49,5 @@ Charts("Chart1").Legend.LegendEntries(1).Font.Name = "Arial"
 ## See also
 
 
-#### Concepts
-
-
 [Legend Object](Excel.Legend(objec).md)
 

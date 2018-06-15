@@ -56,8 +56,5 @@ Application.MailingLabel.CreateNewDocument Name:="My Label"
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

@@ -34,8 +34,5 @@ Returns a single  **[PivotTable](Excel.PivotTable.md)** object from the collecti
 ## See also
 
 
-#### Concepts
-
-
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 

@@ -41,8 +41,5 @@ ActiveProtectedViewWindow.Close
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

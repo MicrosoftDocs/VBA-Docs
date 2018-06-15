@@ -26,8 +26,5 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 ## See also
 
 
-#### Concepts
-
-
 [ContentControls Collection](Word.ContentControls.md)
 

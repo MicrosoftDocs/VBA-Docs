@@ -26,9 +26,6 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 [Point Object](PowerPoint.Point.md)
 

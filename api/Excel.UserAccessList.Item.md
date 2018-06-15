@@ -39,8 +39,5 @@ For more information about returning a single member of a collection, see [Retur
 ## See also
 
 
-#### Concepts
-
-
 [UserAccessList Object](Excel.UserAccessList.md)
 

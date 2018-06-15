@@ -46,7 +46,7 @@ If Range isn't specified, the new paragraph is added after the selection or rang
 This example adds a paragraph after the selection.
 
 
-```
+```vb
 Selection.Paragraphs.Add
 ```
 
@@ -55,7 +55,7 @@ This example adds a paragraph mark before the first paragraph in the selection.
 
 
 
-```
+```vb
 Selection.Paragraphs.Add Range:=Selection.Paragraphs(1).Range
 ```
 
@@ -80,9 +80,6 @@ ActiveDocument.Paragraphs.Add
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Paragraphs Collection Object](Word.paragraphs.md)

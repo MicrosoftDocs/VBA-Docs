@@ -26,8 +26,5 @@ Returns a read-only unique identifier, or CLSID, identifying an object, as a  **
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](Excel.AddIn.md)
 

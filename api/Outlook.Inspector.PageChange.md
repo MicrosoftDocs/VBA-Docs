@@ -39,8 +39,5 @@ An error occurs if the event handler for this event calls either the  **[Close](
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

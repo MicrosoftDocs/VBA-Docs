@@ -26,8 +26,5 @@ Gets the Uniform Resource Locator (URL) of the current document. Read-only  **St
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

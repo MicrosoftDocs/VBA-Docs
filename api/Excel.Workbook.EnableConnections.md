@@ -26,8 +26,5 @@ The  **EnableConnections** method allows developers to programmatically enable d
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

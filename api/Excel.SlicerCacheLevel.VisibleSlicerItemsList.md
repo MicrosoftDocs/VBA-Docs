@@ -36,8 +36,5 @@ The list of slicer items are returned as MDX unique name strings. If this list i
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 

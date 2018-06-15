@@ -31,8 +31,5 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a 
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

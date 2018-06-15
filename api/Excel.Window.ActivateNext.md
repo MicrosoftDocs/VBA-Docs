@@ -41,8 +41,5 @@ ActiveWindow.ActivateNext
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

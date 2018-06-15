@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents how equations are represented in 
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

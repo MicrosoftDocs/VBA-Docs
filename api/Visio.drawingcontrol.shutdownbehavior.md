@@ -31,8 +31,5 @@ A value of 0 (the default) does not unload MSO dlls when the drawing control is 
 ## See also
 
 
-#### Concepts
-
-
 [DrawingControl Object](Visio.DrawingControl.md)
 

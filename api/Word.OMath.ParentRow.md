@@ -26,8 +26,5 @@ Returns an  **[OMathMatRow](Word.OMathMatRow.md)** object that represents the pa
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

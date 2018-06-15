@@ -40,8 +40,5 @@ Returns the collection of all the series in the specified chart, or the specifie
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

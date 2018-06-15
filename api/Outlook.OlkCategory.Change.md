@@ -26,8 +26,5 @@ Occurs when a category selection has changed.
 ## See also
 
 
-#### Concepts
-
-
 [OlkCategory Object](Outlook.OlkCategory.md)
 

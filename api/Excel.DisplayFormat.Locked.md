@@ -36,8 +36,5 @@ Returns  **True** if the range is locked, **False** if the range can be modified
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the toggle button and its l
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

@@ -33,8 +33,5 @@ Returns or sets whether text remains flat when the specified object is rotated. 
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

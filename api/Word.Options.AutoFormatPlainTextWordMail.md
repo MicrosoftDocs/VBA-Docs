@@ -47,8 +47,5 @@ blnAutoFormat = Options.AutoFormatPlainTextWordMail
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

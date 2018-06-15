@@ -31,8 +31,5 @@ An  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the
 ## See also
 
 
-#### Concepts
-
-
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 

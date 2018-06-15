@@ -31,8 +31,5 @@ Returns the  **Broadcast** object of the current **Presentation** object. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

@@ -55,8 +55,5 @@ ActivePresentation.SlideShowSettings.Run _
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

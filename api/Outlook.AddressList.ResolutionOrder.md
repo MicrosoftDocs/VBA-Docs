@@ -33,8 +33,5 @@ When  **Custom** is selected in the **Addressing** dialog box, the **ResolutionO
 ## See also
 
 
-#### Concepts
-
-
 [AddressList Object](Outlook.AddressList.md)
 

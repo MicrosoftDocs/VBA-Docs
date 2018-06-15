@@ -36,8 +36,5 @@ You cannot set this property for a maximized  **Protected View** window. Use the
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 

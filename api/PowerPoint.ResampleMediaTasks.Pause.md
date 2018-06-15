@@ -26,8 +26,5 @@ Pauses the media represented by the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [ResampleMediaTasks Object](PowerPoint.ResampleMediaTasks.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether in-cell editing is 
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

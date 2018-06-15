@@ -44,8 +44,5 @@ This method doesn't load the new add-in. You must set the  **Loaded** property t
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Object](PowerPoint.AddIns.md)
 

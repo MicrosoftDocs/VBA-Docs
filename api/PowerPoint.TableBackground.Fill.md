@@ -36,8 +36,5 @@ A shape can have a solid, gradient, texture, pattern, picture, or semi-transpare
 ## See also
 
 
-#### Concepts
-
-
 [TableBackground Object](PowerPoint.TableBackground.md)
 

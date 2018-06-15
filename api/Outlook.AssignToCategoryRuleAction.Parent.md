@@ -31,8 +31,5 @@ The parent of the  **[AssignToCategoryRuleAction](assigntocategoryOutlook.RuleAc
 ## See also
 
 
-#### Concepts
-
-
 [AssignToCategoryRuleAction Object](assigntocategoryOutlook.RuleAction.md)
 

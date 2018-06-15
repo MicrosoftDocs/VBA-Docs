@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Borders Object](PowerPoint.Borders.md)
 

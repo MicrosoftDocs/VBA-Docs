@@ -36,8 +36,5 @@ ActiveWindow.DisplayHorizontalScrollBar = True
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

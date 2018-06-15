@@ -31,8 +31,5 @@ Use this property with the  **[WidthRelative](Word.Shape.WidthRelative.md)** pro
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

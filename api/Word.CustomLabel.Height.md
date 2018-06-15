@@ -26,8 +26,5 @@ Returns or sets the height of a specified custom mailing label, in points. Read/
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabel Object](Word.CustomLabel.md)
 

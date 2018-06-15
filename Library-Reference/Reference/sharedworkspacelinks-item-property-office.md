@@ -37,9 +37,6 @@ Gets a  **SharedWorkspaceLink** object from the **Links** collection of the shar
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceLinks Object](sharedworkspacelinks-object-office.md)
 #### Other resources
 

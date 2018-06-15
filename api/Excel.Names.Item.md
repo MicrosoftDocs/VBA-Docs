@@ -56,8 +56,5 @@ ActiveWorkbook.Names.Item("mySortRange").Delete
 ## See also
 
 
-#### Concepts
-
-
 [Names Object](Excel.Names.md)
 

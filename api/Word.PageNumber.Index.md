@@ -23,8 +23,5 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 ## See also
 
 
-#### Concepts
-
-
 [PageNumber Object](Word.PageNumber.md)
 

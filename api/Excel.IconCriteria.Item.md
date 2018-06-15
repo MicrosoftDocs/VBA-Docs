@@ -39,8 +39,5 @@ The value of the  _Index_ parameter cannot be greater than the number of criteri
 ## See also
 
 
-#### Concepts
-
-
 [IconCriteria Collection](Excel.IconCriteria.md)
 

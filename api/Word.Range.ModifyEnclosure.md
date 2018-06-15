@@ -38,16 +38,13 @@ Adds, modifies, or removes an enclosure around the specified character or charac
 This example replaces the current selection with the number 25 enclosed in a circle.
 
 
-```
+```vb
 Selection.Range.ModifyEnclosure wdEncloseStyleLarge, _ 
  wdEnclosureCircle, "25"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

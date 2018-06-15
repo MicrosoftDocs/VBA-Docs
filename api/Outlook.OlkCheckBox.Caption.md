@@ -31,8 +31,5 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 ## See also
 
 
-#### Concepts
-
-
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

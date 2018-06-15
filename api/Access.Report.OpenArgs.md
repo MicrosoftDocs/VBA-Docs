@@ -33,8 +33,5 @@ To use the  **OpenArgs** property, open a report by using the **OpenReport** met
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

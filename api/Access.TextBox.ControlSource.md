@@ -69,8 +69,5 @@ Me!Expected.ControlSource = "=Date() + 7"
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

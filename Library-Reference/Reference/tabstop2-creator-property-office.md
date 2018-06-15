@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [TabStop2 Object](tabstop2-object-office.md)
 #### Other resources
 

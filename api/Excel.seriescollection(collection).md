@@ -32,7 +32,7 @@ Use  **SeriesCollection**( _index_), where  _index_ is the series' index number 
 
 
 
-```
+```vb
 myChart.SeriesCollection(1).Interior.Color = RGB(255, 0, 0)
 ```
 

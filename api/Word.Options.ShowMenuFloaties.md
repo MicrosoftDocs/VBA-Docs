@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to display mini toolbars 
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

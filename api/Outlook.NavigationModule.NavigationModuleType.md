@@ -44,8 +44,5 @@ This property is typically used when casting a  **[NavigationModule](Outlook.Nav
 ## See also
 
 
-#### Concepts
-
-
 [NavigationModule Object](Outlook.NavigationModule.md)
 

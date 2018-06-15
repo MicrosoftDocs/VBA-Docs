@@ -26,8 +26,5 @@ Returns a  **Long** value that represents the index number of the object within 
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

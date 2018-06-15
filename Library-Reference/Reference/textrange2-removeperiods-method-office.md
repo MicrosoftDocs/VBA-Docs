@@ -23,9 +23,6 @@ Removes all period (.) punctuation from the text in the  **TextRange2** object.
 ## See also
 
 
-#### Concepts
-
-
 [TextRange2 Object](textrange2-object-office.md)
 #### Other resources
 

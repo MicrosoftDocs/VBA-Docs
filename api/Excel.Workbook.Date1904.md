@@ -36,8 +36,5 @@ ActiveWorkbook.Date1904 = True
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -40,8 +40,5 @@ This method is only implemented for the  **Charts** collection object and will p
 ## See also
 
 
-#### Concepts
-
-
 [Sheets Object](Excel.Sheets.md)
 

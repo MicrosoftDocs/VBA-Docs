@@ -26,9 +26,6 @@ Represents a display name of PickerResult. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [PickerResult Object](pickerresult-object-office.md)
 #### Other resources
 

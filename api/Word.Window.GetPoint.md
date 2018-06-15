@@ -63,8 +63,5 @@ MsgBox "Left = " &; pLeft &; vbLf _
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

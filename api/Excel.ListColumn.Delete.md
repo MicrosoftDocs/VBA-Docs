@@ -31,8 +31,5 @@ This method does not remove the column from the sheet. If the list is linked to 
 ## See also
 
 
-#### Concepts
-
-
 [ListColumn Object](Excel.ListColumn.md)
 

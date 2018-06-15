@@ -41,7 +41,7 @@ Shape
 When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
 
 
-```
+```vb
 objRet = object(index )
 ```
 

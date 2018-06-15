@@ -41,8 +41,5 @@ The  **UserName** property of the default **Workspace** object indicates the nam
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

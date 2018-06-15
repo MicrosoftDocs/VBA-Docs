@@ -54,8 +54,5 @@ DoCmd.PrintOut acPages, 1, 4, , 2
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

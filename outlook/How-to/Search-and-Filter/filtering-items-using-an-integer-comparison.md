@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 You can compare an integer property with an integer value in a filter string using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax. You can specify the integer value with or without quotation marks as delimiters. The following three filter strings filter on the condition that the  **Importance** value is high:
 
 
-```
+```vb
 criteria = "[Importance] = 2"
 ```
 
@@ -21,7 +21,7 @@ If you want to use a value from an integer enumeration, convert the value to a s
 
 
 
-```
+```vb
 criteria = "[Importance] = " _ &; CStr(Outlook.OlImportance.olImportanceHigh)
 
 criteria = "@SQL=" &; Chr(34) &; "urn:schemas:httpmail:importance" _ &; Chr(34) &; " = 2"

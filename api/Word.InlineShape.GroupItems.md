@@ -26,8 +26,5 @@ Returns a  **[GroupShapes](Word.groupshapes.md)** collection that represents the
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

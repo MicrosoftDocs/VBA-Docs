@@ -68,8 +68,5 @@ Use the  **[XmlImportXml](Excel.Workbook.XmlImportXml.md)** method of the **[Wor
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

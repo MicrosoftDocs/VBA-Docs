@@ -29,8 +29,5 @@ Returns the associated measure group.  **String** Read-only
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

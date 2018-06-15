@@ -43,8 +43,5 @@ Set sr = Selection.ShapeRange
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

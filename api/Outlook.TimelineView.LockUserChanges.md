@@ -113,8 +113,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TimelineView Object](Outlook.TimelineView.md)
 

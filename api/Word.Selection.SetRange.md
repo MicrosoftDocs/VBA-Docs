@@ -44,7 +44,7 @@ The  **SetRange** method redefines the starting and ending positions of an exist
 This example selects the first 10 characters in the document.
 
 
-```
+```vb
 Selection.SetRange Start:=0, End:=10
 ```
 
@@ -53,16 +53,13 @@ This example extends the selection to the end of the document.
 
 
 
-```
+```vb
 Selection.SetRange Start:=Selection.Start, _ 
  End:=ActiveDocument.Content.End
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

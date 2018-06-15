@@ -28,7 +28,7 @@ Use  **ChartObjects** ( _index_ ), where _index_ is the embedded chart index num
 The following example sets the pattern for the chart area in embedded Chart 1 on the worksheet named "Sheet1."
 
 
-```
+```vb
 Worksheets("Sheet1").ChartObjects(1).Chart. _ 
  ChartArea.Format.Fill.Pattern = msoPatternLightDownwardDiagonal
 ```
@@ -38,7 +38,7 @@ The embedded chart name is shown in the Name box when the embedded chart is sele
 
 
 
-```
+```vb
 Worksheets("sheet1").ChartObjects("chart 1").RoundedCorners = True
 ```
 

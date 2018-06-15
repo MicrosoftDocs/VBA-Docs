@@ -28,7 +28,7 @@ If you have a recurring  **[AppointmentItem](Outlook.AppointmentItem.md)**, the 
 The following example sets a reference to the  **Exceptions** object.
 
 
-```
+```vb
 Set myExceptions = myRecurrencePattern.Exceptions
 ```
 

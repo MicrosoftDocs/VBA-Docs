@@ -43,8 +43,5 @@ Application.DefaultWebOptions.LocationOfComponents = _
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 

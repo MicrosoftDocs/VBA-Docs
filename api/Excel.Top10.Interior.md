@@ -26,8 +26,5 @@ Returns an  **[Interior](Excel.Interior(objec).md)** object that specifies a cel
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

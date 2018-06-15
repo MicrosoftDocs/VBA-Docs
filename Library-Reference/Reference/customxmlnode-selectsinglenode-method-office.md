@@ -46,7 +46,7 @@ The prefix mappings for the XPath expression are retrieved from the  **Namespace
 The following example demonstrates adding a custom XML part, selecting a part with a namespace URI, and then selecting a node within that part that matches an XPath expression.
 
 
-```
+```vb
 Dim cxp1 As CustomXMLPart 
 Dim cxn As CustomXMLNode 
  
@@ -63,9 +63,6 @@ Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLNode Object](customxmlnode-object-office.md)

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Free
 ## See also
 
 
-#### Concepts
-
-
 [FreeformBuilder Object](Word.FreeformBuilder.md)
 

@@ -29,8 +29,5 @@ Returns or sets an  **MsoTriState** constant that represents whether to rotate t
 ## See also
 
 
-#### Concepts
-
-
  [ShadowFormat Object](Publisher.ShadowFormat.md)
 

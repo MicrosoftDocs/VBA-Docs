@@ -45,8 +45,5 @@ MsgBox ActiveWindow.RangeSelection.Address
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

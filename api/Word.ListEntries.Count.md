@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of list entries in the collection
 ## See also
 
 
-#### Concepts
-
-
 [ListEntries Collection Object](Word.listentries.md)
 

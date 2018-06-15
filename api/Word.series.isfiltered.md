@@ -29,8 +29,5 @@ Returns or sets a  **Boolean** that determines whether the specified chart serie
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Word.Series.md)
 

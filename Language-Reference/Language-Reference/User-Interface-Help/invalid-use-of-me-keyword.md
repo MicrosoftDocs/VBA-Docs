@@ -34,7 +34,7 @@ Set Me = MyObject    ' Causes "Invalid use of Me keyword" message.
 
 
 
-```
+```vb
 Let Me = MyObject    ' Valid assignment with explicit Let. 
 Me = MyObject    ' Valid assignment with implicit Let. 
 

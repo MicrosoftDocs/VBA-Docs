@@ -36,8 +36,5 @@ Returns whether the slicer associated with the specified slicer cache is based o
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

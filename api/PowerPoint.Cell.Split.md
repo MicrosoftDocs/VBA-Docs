@@ -45,8 +45,5 @@ ActivePresentation.Slides(2).Shapes(5).Table.Cell(1, 1).Split 2, 1
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](PowerPoint.Cell.md)
 

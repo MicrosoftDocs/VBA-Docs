@@ -52,8 +52,5 @@ Reports("Purchase Order").MoveLayout = True
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

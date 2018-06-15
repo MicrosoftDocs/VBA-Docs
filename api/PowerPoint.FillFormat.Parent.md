@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](PowerPoint.FillFormat.md)
 

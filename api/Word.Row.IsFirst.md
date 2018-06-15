@@ -36,8 +36,5 @@ MsgBox Selection.Rows(1).IsFirst
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

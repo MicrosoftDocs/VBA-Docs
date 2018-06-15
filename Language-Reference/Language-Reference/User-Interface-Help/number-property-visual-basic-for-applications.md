@@ -19,7 +19,7 @@ When returning a user-defined error from an object, set  **Err.Number** by addin
 
 
 
-```
+```vb
 Err.Raise Number := vbObjectError + 1051, Source:= "SomeClass"
 
 

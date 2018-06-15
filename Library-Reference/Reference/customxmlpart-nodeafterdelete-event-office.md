@@ -39,7 +39,7 @@ Occurs after a node is deleted in a  **CustomXMLPart** object.
 The following example displays a message telling the user the results of deleting the node.
 
 
-```
+```vb
 Sub CustomXMLParts_NodeAfterDelete(newNode As CustomXMLNode, boolInUndoRedo As Boolean) 
    MsgBox ("The node " &amp; newNode.BaseName &amp; " was just deleted.") 
 End Sub
@@ -47,9 +47,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLPart Object](customxmlpart-object-office.md)

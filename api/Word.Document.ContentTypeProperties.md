@@ -26,8 +26,5 @@ Returns a  **MetaProperties** collection that represents the metadata stored in 
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

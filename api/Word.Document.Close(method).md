@@ -51,8 +51,5 @@ If Err = 4198 Then MsgBox "Document was not closed"
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

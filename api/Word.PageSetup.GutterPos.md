@@ -36,8 +36,5 @@ ActiveDocument.PageSetup.GutterPos = wdGutterPosRight
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

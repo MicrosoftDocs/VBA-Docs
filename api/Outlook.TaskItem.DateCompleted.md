@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the completion date of the task. Read/wri
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

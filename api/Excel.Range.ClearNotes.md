@@ -41,8 +41,5 @@ Worksheets("Sheet1").Columns("A:C").ClearNotes
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

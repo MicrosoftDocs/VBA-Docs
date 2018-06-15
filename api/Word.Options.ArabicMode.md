@@ -28,15 +28,12 @@ Returns or sets the mode for the Arabic spelling checker. Read/write  **WdAraSpe
 This example sets the spelling checker to ignore spelling rules regarding Arabic words beginning with an alef hamza.
 
 
-```
+```vb
 Options.ArabicMode = wdInitialAlef
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

@@ -26,8 +26,5 @@ Returns or sets the formula for the object, using A1-style references in the lan
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 

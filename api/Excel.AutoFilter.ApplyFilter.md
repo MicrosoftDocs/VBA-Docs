@@ -26,8 +26,5 @@ Applies the specified  **Autofilter** object.
 ## See also
 
 
-#### Concepts
-
-
 [AutoFilter Object](Excel.AutoFilter.md)
 

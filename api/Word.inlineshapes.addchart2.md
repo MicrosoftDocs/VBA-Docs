@@ -42,8 +42,5 @@ Adds a chart to the document. Returns an [InlineShape](Word.InlineShape.md) obje
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection](Word.inlineshapes.md)
 

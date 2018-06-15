@@ -36,8 +36,5 @@ Range
 ## See also
 
 
-#### Concepts
-
-
 [Sentences Collection Object](Word.sentences.md)
 

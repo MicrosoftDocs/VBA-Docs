@@ -24,7 +24,7 @@ A collection of the  **[SharedWorkspaceMember](sharedworkspacemember-object-offi
 Use the  **[Members](sharedworkspace-members-property-office.md)** property of the **[SharedWorkspace](sharedworkspace-object-office.md)** object to return a **SharedWorkspaceMembers** collection.
 
 
-```
+```vb
     Dim swsMembers As Office.SharedWorkspaceMembers 
     Set swsMembers = ActiveWorkbook.SharedWorkspace.Members 
     MsgBox "There are " &amp; swsMembers.Count &amp; _ 

@@ -61,8 +61,5 @@ gslides.FindBySlideID(graphSlideID) _
 ## See also
 
 
-#### Concepts
-
-
 [Slides Object](PowerPoint.Slides.md)
 

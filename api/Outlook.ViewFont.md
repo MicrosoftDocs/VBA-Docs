@@ -37,7 +37,7 @@ The  **ViewFont** object is used by the following objects to represent font form
 The following Visual Basic for Applications (VBA) sample increments the value of the  **[Size](Outlook.ViewFont.Size.md)** property for the **ViewFont** object returned from the **ItemFont** property for the current **TimelineView** object.
 
 
-```
+```vb
 Private Sub IncreaseItemFontSize() 
  
  Dim objTimelineView As TimelineView 

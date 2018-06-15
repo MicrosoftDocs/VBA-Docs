@@ -38,8 +38,5 @@ Set objNode = Selection.XMLParentNode.ParentNode
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

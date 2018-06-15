@@ -34,8 +34,5 @@ When  **MemberPropertyCaption** is set, the setting is remembered while toggling
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

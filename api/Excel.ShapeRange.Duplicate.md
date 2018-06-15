@@ -26,8 +26,5 @@ Duplicates the object and returns a reference to the new copy.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

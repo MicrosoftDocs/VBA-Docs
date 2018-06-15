@@ -33,8 +33,5 @@ Data from Web queries or text queries is imported as a  **[QueryTable](Excel.Que
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

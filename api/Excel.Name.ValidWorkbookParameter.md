@@ -26,8 +26,5 @@ Returns  **True** if the specified **Name** object is a valid workbook parameter
 ## See also
 
 
-#### Concepts
-
-
 [Name Object](Excel.Name.md)
 

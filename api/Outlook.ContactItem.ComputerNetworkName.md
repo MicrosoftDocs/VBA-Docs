@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the name of the computer network for 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

@@ -31,8 +31,5 @@ The value of this property might be different from the current item name if the 
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

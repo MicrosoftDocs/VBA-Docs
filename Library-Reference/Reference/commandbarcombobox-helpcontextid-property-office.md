@@ -41,7 +41,7 @@ To use this property, you must also set the HelpFile property. Help topics respo
 This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses SHIFT+F1.
 
 
-```
+```vb
 Set myBar = CommandBars _ 
     .Add(Name:="Custom", Position:=msoBarTop, _ 
     Temporary:=True) 
@@ -63,9 +63,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)

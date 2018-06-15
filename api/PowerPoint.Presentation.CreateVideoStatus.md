@@ -26,8 +26,5 @@ Returns the status of creating a video in the current  **Presentation**. Read-on
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

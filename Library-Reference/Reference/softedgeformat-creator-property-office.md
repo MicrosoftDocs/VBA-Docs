@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [SoftEdgeFormat Object](softedgeformat-object-office.md)
 #### Other resources
 

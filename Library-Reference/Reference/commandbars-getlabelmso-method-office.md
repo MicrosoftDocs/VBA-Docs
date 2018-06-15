@@ -47,15 +47,12 @@ String
 The following sample returns the String "Paste".
 
 
-```
+```vb
 Application.CommandBars.GetLabelMso("Paste")
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

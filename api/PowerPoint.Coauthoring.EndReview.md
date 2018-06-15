@@ -31,8 +31,5 @@ Returns an error if the application is not already in merge mode.
 ## See also
 
 
-#### Concepts
-
-
 [Coauthoring Object](PowerPoint.Coauthoring.md)
 

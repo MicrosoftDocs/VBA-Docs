@@ -26,7 +26,7 @@ Use Application.LanguageSettings.LanguageID( _MsoAppLanguageID_ ), where[MsoAppL
 The following example returns the install language, user interface language, and Help language LCIDs in a message box.
 
 
-```
+```vb
 MsgBox "The following locale IDs are registered " &amp; _ 
  "for this application: Install Language - " &amp; _ 
  Application.LanguageSettings.LanguageID(msoLanguageIDInstall) &amp; _ 
@@ -41,7 +41,7 @@ Use  **Application.LanguageSettings.LanguagePreferredForEditing** to determine w
 
 
 
-```
+```vb
 If Application.LanguageSettings. _ 
  LanguagePreferredForEditing(msoLanguageIDEnglishUS) Then 
  MsgBox "U.S. English is one of the chosen editing languagess." 
@@ -50,9 +50,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

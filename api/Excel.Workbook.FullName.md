@@ -36,8 +36,5 @@ MsgBox ActiveWorkbook.FullName
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

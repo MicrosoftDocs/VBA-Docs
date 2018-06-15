@@ -28,7 +28,4 @@ The  **MonthPosition** property can be one of the following **[PjExceptionPositi
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

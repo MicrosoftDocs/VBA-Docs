@@ -26,7 +26,7 @@ On a 2-D chart, returns an object that represents either a single doughnut chart
 This example sets the starting angle for doughnut group one.
 
 
-```
+```vb
 myChart.DoughnutGroups(1).FirstSliceAngle = 45
 ```
 

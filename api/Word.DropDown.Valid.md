@@ -31,8 +31,5 @@ Use the  **Type** property of the **[FormField](Word.FormField.md)** object to d
 ## See also
 
 
-#### Concepts
-
-
 [DropDown Object](Word.DropDown.md)
 

@@ -23,9 +23,6 @@ Retrieves the primary category name associated with the SmartArt layout. Read-on
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtLayout Object](smartartlayout-object-office.md)
 #### Other resources
 

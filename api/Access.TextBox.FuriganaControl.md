@@ -41,8 +41,5 @@ When you use  **FuriganaControl** property in ADP file, be sure to change the da
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

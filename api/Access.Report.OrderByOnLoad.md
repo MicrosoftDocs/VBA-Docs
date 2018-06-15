@@ -26,8 +26,5 @@ Gets or sets whether the sorting specified by the  **[OrderBy](Access.Report.Ord
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

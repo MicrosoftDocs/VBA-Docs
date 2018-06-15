@@ -52,8 +52,5 @@ Use the  **ZOrderPosition** property to determine a shape's current position in 
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

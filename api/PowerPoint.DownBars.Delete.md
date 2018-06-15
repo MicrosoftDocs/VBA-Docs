@@ -23,9 +23,6 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [DownBars Object](PowerPoint.DownBars.md)
 
 

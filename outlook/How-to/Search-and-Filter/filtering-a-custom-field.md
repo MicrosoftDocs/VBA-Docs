@@ -16,7 +16,7 @@ You can specify custom properties in filters using Microsoft Jet syntax or DAV S
 Custom properties can contain spaces in the property name. In a Jet query, as in all property name references, simply enclose the custom property name in square brackets. For example, the following Jet query retrieves all contacts where the custom property named "Preferred Gift" is exactly "Diamonds". For the query to succeed, the custom property named "Preferred Gift" has been defined in the folder that contains the custom contact items: 
 
 
-```
+```vb
 criteria = "[Preferred Gift] = 'Diamonds'"
 ```
 
@@ -46,7 +46,7 @@ For example, if you want to use  **[Items.Restrict](items-restrict-method-outloo
 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr$(34) &; "http://schemas.microsoft.com/mapi/string/" _ 
 &; "{00020329-0000-0000-C000-000000000046}/MyProperty"_ 
 &; "/0000001f" &; Chr(34) &; " = '12-74440'" 

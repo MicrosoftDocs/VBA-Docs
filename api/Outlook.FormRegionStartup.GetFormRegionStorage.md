@@ -57,8 +57,5 @@ For examples of add-ins in C# and Visual Basic .NET that implement the  **[FormR
 ## See also
 
 
-#### Concepts
-
-
 [FormRegionStartup Interface](Outlook.formregionstartup.md)
 

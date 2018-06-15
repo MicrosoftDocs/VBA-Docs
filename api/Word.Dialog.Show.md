@@ -78,15 +78,12 @@ This example displays and carries out any action initiated in the  **Zoom** dial
 
 
 
-```
+```vb
 Dialogs(wdDialogViewZoom).Show TimeOut:=9000
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Dialog Object](Word.Dialog.md)

@@ -36,8 +36,5 @@ Worksheets("Sheet1").ClearArrows
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

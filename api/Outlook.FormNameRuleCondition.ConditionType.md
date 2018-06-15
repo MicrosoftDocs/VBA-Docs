@@ -31,8 +31,5 @@ The form name rule condition is supported by rules for receiving messages and ru
 ## See also
 
 
-#### Concepts
-
-
 [FormNameRuleCondition Object](Outlook.FormNameRuleCondition.md)
 

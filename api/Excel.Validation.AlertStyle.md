@@ -41,8 +41,5 @@ MsgBox Range("e5").Validation.AlertStyle
 ## See also
 
 
-#### Concepts
-
-
 [Validation Object](Excel.Validation.md)
 

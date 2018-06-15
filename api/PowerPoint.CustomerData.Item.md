@@ -81,8 +81,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CustomerData Collection](PowerPoint.CustomerData.md)
 

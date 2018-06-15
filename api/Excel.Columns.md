@@ -26,7 +26,7 @@ For information about returning a single member of a collection, see  [Returning
 This example clears column A of the datasheet.
 
 
-```
+```vb
 myChart.Application.DataSheet.Columns(2).ClearContents
 ```
 

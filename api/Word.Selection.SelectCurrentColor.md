@@ -28,7 +28,7 @@ Extends the selection forward until text with a different color is encountered.
 This example extends the selection from the beginning of the document to the first character formatted with a different color and then displays the number of characters in the resulting selection.
 
 
-```
+```vb
 Selection.HomeKey Unit:=wdStory, Extend:=wdMove 
 Selection.SelectCurrentColor 
 n = Len(Selection.Text) 
@@ -37,9 +37,6 @@ MsgBox "Contiguous characters with the same color: " &; n
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

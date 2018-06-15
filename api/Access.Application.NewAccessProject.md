@@ -54,8 +54,5 @@ The new Access project is opened under the Admin user account .
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

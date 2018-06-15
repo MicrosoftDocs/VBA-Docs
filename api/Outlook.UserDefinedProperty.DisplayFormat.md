@@ -48,8 +48,5 @@ The value of this property is a constant from an enumeration, where the enumerat
 ## See also
 
 
-#### Concepts
-
-
 [UserDefinedProperty Object](Outlook.UserDefinedProperty.md)
 

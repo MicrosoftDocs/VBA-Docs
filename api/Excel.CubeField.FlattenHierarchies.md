@@ -51,8 +51,5 @@ ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&;L]"). _
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

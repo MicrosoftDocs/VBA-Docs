@@ -42,8 +42,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Excel.FormatCondition.md)
 

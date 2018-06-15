@@ -39,8 +39,5 @@ The value of a merged range is specified in the cell of the range's upper-left c
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

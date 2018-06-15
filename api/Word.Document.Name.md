@@ -28,15 +28,12 @@ Returns the name of the specified object. Read-only  **String** .
 This example returns the name of the first bookmark in Hello.doc.
 
 
-```
+```vb
 abook = Documents("Hello.doc").Bookmarks(1).Name
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

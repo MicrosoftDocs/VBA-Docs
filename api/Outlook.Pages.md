@@ -36,7 +36,7 @@ The following example returns the  **Pages** object for the active **Inspector**
 
 
 
-```
+```vb
 Set myPages = myItem.GetInspector.ModifiedFormPages
 ```
 
@@ -45,7 +45,7 @@ The following example returns a custom page with a default name (such as "Custom
 
 
 
-```
+```vb
 Set myPage = myPages.Add
 ```
 
@@ -56,7 +56,7 @@ The following example returns a custom page named "My Page."
 
 
 
-```
+```vb
 Set myPage = myPages.Add("My Page")
 ```
 
@@ -65,7 +65,7 @@ The following example returns the Message page if the Inspector contains a mail 
 
 
 
-```
+```vb
 Set myPage = myPages.Add("Message")
 ```
 
@@ -74,7 +74,7 @@ The following example returns the General (main) page if the inspector contains 
 
 
 
-```
+```vb
 Set myPage = myPages.Add("General")
 ```
 

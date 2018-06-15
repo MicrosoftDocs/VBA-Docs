@@ -36,8 +36,5 @@ Use the  **[HitHighlight](Word.Find.HitHighlight.md)** method to highlight found
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

@@ -57,8 +57,5 @@ Forms![Customers]![Address].ColumnWidth = -2
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

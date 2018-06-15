@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **OMat
 ## See also
 
 
-#### Concepts
-
-
 [OMathRad Object](Word.OMathRad.md)
 

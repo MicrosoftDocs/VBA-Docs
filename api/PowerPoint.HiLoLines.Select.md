@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [HiLoLines Object](PowerPoint.HiLoLines.md)
 

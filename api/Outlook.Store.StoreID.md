@@ -31,8 +31,5 @@ Returns a  **String** identifying the **[Store](Outlook.Store.md)** . Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

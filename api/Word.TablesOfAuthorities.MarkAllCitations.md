@@ -49,8 +49,5 @@ ActiveDocument.TablesOfAuthorities.MarkAllCitations _
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 

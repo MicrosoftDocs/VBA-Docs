@@ -36,8 +36,5 @@ This won't run any Auto_Activate or Auto_Deactivate macros that might be attache
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

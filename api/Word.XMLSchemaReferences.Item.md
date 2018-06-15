@@ -39,8 +39,5 @@ XMLSchemaReference
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 

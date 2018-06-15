@@ -45,7 +45,7 @@ The shared workspace task schema on the server can be customized. Customization 
 The following example displays a list of all tasks in the current shared workspace whose status is not set to Complete.
 
 
-```
+```vb
     Dim swsTask As Office.SharedWorkspaceTask 
     Dim strTaskStatus As String 
     For Each swsTask In ActiveWorkbook.SharedWorkspace.Tasks 
@@ -61,9 +61,6 @@ The following example displays a list of all tasks in the current shared workspa
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)

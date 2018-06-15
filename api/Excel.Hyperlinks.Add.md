@@ -78,8 +78,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlinks Object](Excel.Hyperlinks.md)
 

@@ -35,8 +35,5 @@ If the  **ContactItem** object is created in a version of Microsoft Outlook earl
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

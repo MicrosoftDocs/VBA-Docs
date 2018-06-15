@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** cons
 ## See also
 
 
-#### Concepts
-
-
 [OMathMat Object](Word.OMathMat.md)
 

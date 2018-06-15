@@ -32,7 +32,7 @@ Use the  **[GetFirst](Outlook.Conflicts.GetFirst.md)**, **[GetNext](Outlook.Conf
 The following Microsoft Visual Basic for Applications (VBA) example uses the  **Count** property of the **Conflicts** object to determine if the item is involved in any conflict. To run this example, make sure an e-mail item is open in the active window.
 
 
-```
+```vb
 Sub CheckConflicts() 
  
  Dim myItem As Outlook.MailItem 

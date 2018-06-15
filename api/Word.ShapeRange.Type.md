@@ -26,8 +26,5 @@ Returns the shape type. Read-only  **MsoShapeType** .
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

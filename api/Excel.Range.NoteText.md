@@ -56,8 +56,5 @@ Worksheets("Sheet1").Range("A1").NoteText "This may change!"
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

@@ -25,7 +25,7 @@ For example, you can use the  **Screen** object with the **ActiveForm** property
 
 
 
-```
+```vb
 MsgBox Screen.ActiveForm.Name
 ```
 
@@ -39,7 +39,7 @@ If you refer to the  **Screen** object when there's no active form, report, or c
 The following example uses the  **Screen** object to print the name of the form in the active window and of the active control on that form:
 
 
-```
+```vb
 Sub ActiveObjects() 
  Dim frm As Form, ctl As Control 
  

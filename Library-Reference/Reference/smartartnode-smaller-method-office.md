@@ -33,9 +33,6 @@ The amount of decrease depends on the layout size of the node.
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

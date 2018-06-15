@@ -30,7 +30,7 @@ Use  **[Items](Outlook.Folder.Items.md)** ( _index_ ), where _index_ is the inde
 The following Visual Basic for Applications (VBA) example returns a new journal entry.
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olJournalItem)
 ```
 

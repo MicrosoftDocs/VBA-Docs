@@ -26,8 +26,5 @@ Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](http
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](PowerPoint.ChartFormat.md)
 

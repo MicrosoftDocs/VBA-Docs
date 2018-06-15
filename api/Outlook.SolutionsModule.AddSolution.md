@@ -61,8 +61,5 @@ By default, Outlook displays the  **Solutions** module after the **Tasks** modul
 ## See also
 
 
-#### Concepts
-
-
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 

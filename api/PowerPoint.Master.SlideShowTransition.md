@@ -48,8 +48,5 @@ ActivePresentation.SlideShowSettings.AdvanceMode = _
 ## See also
 
 
-#### Concepts
-
-
 [Master Object](PowerPoint.Master.md)
 

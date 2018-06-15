@@ -31,8 +31,5 @@ This property is ignored if the  **[Type](Excel.FormatCondition.Type.md)** prope
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Excel.FormatCondition.md)
 

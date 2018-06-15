@@ -33,8 +33,5 @@ Returns an empty string if this property has not been implemented or does not ex
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

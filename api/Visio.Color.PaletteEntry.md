@@ -37,7 +37,7 @@ The value passed is four tightly packed BYTE fields. The correspondence between 
 
 
 
-```
+```vb
     paletteentry == r+256(b+256(g+256f))
 ```
 

@@ -26,8 +26,5 @@ Returns a  **Long** representing the build number of the Outlook application for
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

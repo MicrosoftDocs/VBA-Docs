@@ -44,8 +44,5 @@ ActiveDocument.Shapes(2).Title = "Shape 2."
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

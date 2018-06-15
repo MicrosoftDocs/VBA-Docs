@@ -33,8 +33,5 @@ If no search results are displayed in the Explorer,  **ClearSearch** will not ta
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

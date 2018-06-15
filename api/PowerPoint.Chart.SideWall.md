@@ -26,8 +26,5 @@ Returns a  **[Walls](PowerPoint.Walls.md)** object that allows the user to indiv
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

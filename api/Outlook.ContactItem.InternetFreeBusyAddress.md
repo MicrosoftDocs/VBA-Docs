@@ -31,8 +31,5 @@ The  **Address** box on the **Details** tab can contain the URL location of the 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

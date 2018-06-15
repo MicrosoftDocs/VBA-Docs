@@ -43,8 +43,5 @@ Me.ctl.BackShade=25
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

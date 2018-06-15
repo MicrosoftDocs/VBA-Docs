@@ -26,8 +26,5 @@ Runs all pending queries to OLEDB and OLAP data sources.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

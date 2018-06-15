@@ -100,8 +100,5 @@ Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

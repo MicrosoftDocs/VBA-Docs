@@ -38,8 +38,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Words Collection Object](Word.words.md)
 

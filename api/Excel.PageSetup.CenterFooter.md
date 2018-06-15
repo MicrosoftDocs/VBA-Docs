@@ -26,8 +26,5 @@ Center aligns the footer information in the  **PageSetup** object. Read/write **
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

@@ -50,8 +50,5 @@ Application.MailingLabel.DefaultLaserTray = wdPrinterUpperBin
 ## See also
 
 
-#### Concepts
-
-
 [MailingLabel Object](Word.MailingLabel.md)
 

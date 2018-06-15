@@ -26,7 +26,7 @@ Use the  **Add** method of the **ODSOFilters** object to add a new filter criter
 This example adds a new line to the query string and then applies the combined filter to the data source.
 
 
-```
+```vb
 Sub SetQueryCriterion() 
  Dim appOffice As OfficeDataSourceObject 
  
@@ -48,7 +48,7 @@ Use the  **Item** method to access an individual filter criterion. This example 
 
 
 
-```
+```vb
 Sub SetQueryCriterion() 
  Dim appOffice As Office.OfficeDataSourceObject 
  Dim intItem As Integer 

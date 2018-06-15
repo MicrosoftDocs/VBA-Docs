@@ -38,8 +38,5 @@ The value of this property corresponds to the setting of the  **Evaluate calcula
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

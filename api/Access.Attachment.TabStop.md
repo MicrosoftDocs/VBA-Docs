@@ -43,8 +43,5 @@ As long as a control's  **Enabled** property is set to Yes, you can click the co
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

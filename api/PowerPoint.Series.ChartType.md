@@ -28,8 +28,5 @@ Some chart types are not available for PivotChart reports.
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

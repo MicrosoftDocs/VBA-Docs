@@ -31,8 +31,5 @@ Document
 ## See also
 
 
-#### Concepts
-
-
 [Subdocument Object](Word.Subdocument.md)
 

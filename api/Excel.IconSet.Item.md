@@ -39,8 +39,5 @@ The value of the  _Index_ parameter cannot be greater than the number of icons i
 ## See also
 
 
-#### Concepts
-
-
 [IconSet Object](Excel.IconSet.md)
 

@@ -31,8 +31,5 @@ The default value is  **True** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 

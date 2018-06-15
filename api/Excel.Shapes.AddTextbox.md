@@ -56,8 +56,5 @@ myDocument.Shapes.AddTextbox(msoTextOrientationHorizontal, _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

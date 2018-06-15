@@ -26,8 +26,5 @@ Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represent
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Excel.LineFormat.md)
 

@@ -44,8 +44,5 @@ For information about available ActiveX control class types, see [OLE Programmat
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection Object](Word.inlineshapes.md)
 

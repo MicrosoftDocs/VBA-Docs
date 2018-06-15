@@ -60,8 +60,5 @@ ActiveCell.ShowPrecedents remove:=True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

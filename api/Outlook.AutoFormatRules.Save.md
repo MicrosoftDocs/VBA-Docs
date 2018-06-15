@@ -31,8 +31,5 @@ Any changes made to the  **AutoFormatRules** collection, such as adding or remov
 ## See also
 
 
-#### Concepts
-
-
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

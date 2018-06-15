@@ -36,8 +36,5 @@ Charts("Chart1").DepthPercent = 50
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

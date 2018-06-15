@@ -34,7 +34,7 @@ For more information about creating and modifying a style, see the  **[Styles](E
 Use the  **Style** property to return the **Style** object used with a **Range** object. The following example applies the Percent style to cells A1:A10 on Sheet1.
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A1:A10").Style = "Percent"
 ```
 
@@ -43,7 +43,7 @@ Use  **Styles** ( _index_ ), where _index_ is the style index number or name, to
 
 
 
-```
+```vb
 ActiveWorkbook.Styles("Normal").Font.Bold = True
 ```
 

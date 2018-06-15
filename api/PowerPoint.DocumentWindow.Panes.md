@@ -33,7 +33,7 @@ Panes
 This example tests for the number of panes in the active window. If the value is one, indicating any view other that normal view, normal view is activated.
 
 
-```
+```vb
 If ActiveWindow.Panes.Count = 1 Then
 
     ActiveWindow.ViewType = ppViewNormal
@@ -43,9 +43,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)

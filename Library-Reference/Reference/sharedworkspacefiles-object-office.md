@@ -24,7 +24,7 @@ A collection of the  **[SharedWorkspaceFile](sharedworkspacefile-object-office.m
 Use the  **[Files](sharedworkspace-files-property-office.md)** property of the **[SharedWorkspace](sharedworkspace-object-office.md)** object to return a **SharedWorkspaceFiles** collection.
 
 
-```
+```vb
     Dim swsFiles As Office.SharedWorkspaceFiles 
     Set swsFiles = ActiveWorkbook.SharedWorkspace.Files 
     MsgBox "There are " &amp; swsFiles.Count &amp; _ 

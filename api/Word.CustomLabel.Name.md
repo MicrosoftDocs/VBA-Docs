@@ -26,8 +26,5 @@ Returns or sets the name of the specified object. Read/write  **CustomLabel** .
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabel Object](Word.CustomLabel.md)
 

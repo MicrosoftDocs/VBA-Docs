@@ -46,8 +46,5 @@ Application.ActivePresentation.Fonts _
 ## See also
 
 
-#### Concepts
-
-
 [Fonts Object](PowerPoint.Fonts.md)
 

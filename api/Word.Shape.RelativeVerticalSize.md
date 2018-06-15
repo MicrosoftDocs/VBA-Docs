@@ -31,8 +31,5 @@ Use this property with the  **[HeightRelative](Word.Shape.HeightRelative.md)** p
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

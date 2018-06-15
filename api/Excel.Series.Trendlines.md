@@ -49,8 +49,5 @@ Charts("Chart1").SeriesCollection(1).Trendlines.Add Type:=xlLinear
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

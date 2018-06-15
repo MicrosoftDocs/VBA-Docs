@@ -53,8 +53,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Error Object](Excel.Error.md)
 

@@ -26,8 +26,5 @@ Use the  **[Id](PowerPoint.TableStyle.Id.md)** property to return the numeric id
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

@@ -45,8 +45,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

@@ -63,8 +63,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [SetEffect Object](PowerPoint.SetEffect.md)
 

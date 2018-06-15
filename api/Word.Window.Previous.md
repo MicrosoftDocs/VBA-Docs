@@ -26,8 +26,5 @@ Returns the previous document window in the collection open document windows. Re
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

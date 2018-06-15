@@ -40,8 +40,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AutoRecover Object](Excel.AutoRecover.md)
 

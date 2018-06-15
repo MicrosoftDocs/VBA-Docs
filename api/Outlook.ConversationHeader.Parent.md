@@ -33,8 +33,5 @@ The parent of the  **ConversationHeader** object returns a **[Selection](Outlook
 ## See also
 
 
-#### Concepts
-
-
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 

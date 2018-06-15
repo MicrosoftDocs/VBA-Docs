@@ -41,8 +41,5 @@ AutoCorrect.FirstLetterAutoAdd = False
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Word.AutoCorrect.md)
 

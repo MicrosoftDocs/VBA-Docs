@@ -33,8 +33,5 @@ The effect of the  **PercentMin** property varies depending on the setting of th
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

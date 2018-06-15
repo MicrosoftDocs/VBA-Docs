@@ -49,8 +49,5 @@ Worksheets(1).Comments.Item(2).Visible = False
 ## See also
 
 
-#### Concepts
-
-
 [Comments Object](Excel.Comments.md)
 

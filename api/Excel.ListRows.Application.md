@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ListRows Object](Excel.ListRows.md)
 

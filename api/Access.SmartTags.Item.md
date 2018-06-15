@@ -55,8 +55,5 @@ Debug.Print Modules.Item(0)
 ## See also
 
 
-#### Concepts
-
-
 [SmartTags Collection](Access.SmartTags.md)
 

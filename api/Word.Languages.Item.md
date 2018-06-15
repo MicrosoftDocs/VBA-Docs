@@ -39,8 +39,5 @@ Language
 ## See also
 
 
-#### Concepts
-
-
 [Languages Collection Object](Word.languages.md)
 

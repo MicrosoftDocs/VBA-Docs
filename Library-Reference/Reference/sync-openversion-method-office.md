@@ -48,7 +48,7 @@ Not all document synchronization problems raise trappable run-time errors. After
 The following example prompts the user to open the server copy of the shared document alongside the currently open local version.
 
 
-```
+```vb
     Dim objSync As Office.Sync 
     Dim lngChoice As VbMsgBoxResult 
     Set objSync = ActiveDocument.Sync 
@@ -63,9 +63,6 @@ The following example prompts the user to open the server copy of the shared doc
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Sync Object](sync-object-office.md)

@@ -25,7 +25,7 @@ Sets the specified fill to a uniform color. Use this method to convert a gradien
 This example converts the chart area fill to a solid color.
 
 
-```
+```vb
 myChart.ChartArea.Fill.Solid
 ```
 

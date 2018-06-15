@@ -41,8 +41,5 @@ docActive.Shapes(1).PictureFormat.ColorType = _
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Word.PictureFormat.md)
 

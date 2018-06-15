@@ -31,8 +31,5 @@ The default value is  **olMousePointerDefault** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 

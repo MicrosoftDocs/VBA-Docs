@@ -26,8 +26,5 @@ Returns a  **ServerPolicy** object that represents a policy specified for a docu
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

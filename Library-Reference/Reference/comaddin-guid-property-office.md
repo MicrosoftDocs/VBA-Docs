@@ -28,7 +28,7 @@ Gets the class identifier (CLSID) for the specified  **COMAddIn** object. Read-o
 The following example displays the ProgID and CLSID for the first COM add-in in the  **COMAddIns** collection in a message box.
 
 
-```
+```vb
 MsgBox "My ProgID is " &amp; _ 
  Application.COMAddIns(1).ProgID &amp; _ 
  " and my CLSID is " &amp; _ 
@@ -37,9 +37,6 @@ MsgBox "My ProgID is " &amp; _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [COMAddIn Object](comaddin-object-office.md)

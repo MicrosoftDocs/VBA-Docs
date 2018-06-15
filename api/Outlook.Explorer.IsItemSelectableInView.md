@@ -52,8 +52,5 @@ The  **IsItemSelectableInView** method raises an error if the current view is a 
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

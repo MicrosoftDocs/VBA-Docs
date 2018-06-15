@@ -41,9 +41,6 @@ This feature is only available in the Open XML Format SDK.
 ## See also
 
 
-#### Concepts
-
-
 [IConverter Object](iconverter-object-office.md)
 #### Other resources
 

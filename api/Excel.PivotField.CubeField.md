@@ -51,8 +51,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

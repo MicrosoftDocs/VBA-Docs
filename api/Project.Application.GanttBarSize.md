@@ -51,7 +51,7 @@ pjBarSize24
 ```
 
 
-```
+```vb
 End Sub
 ```
 

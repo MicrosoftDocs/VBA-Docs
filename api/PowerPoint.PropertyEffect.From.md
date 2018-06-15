@@ -35,8 +35,5 @@ Do not confuse this property with the  **FromX** or **FromY** properties of the 
 ## See also
 
 
-#### Concepts
-
-
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 

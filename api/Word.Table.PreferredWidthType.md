@@ -39,8 +39,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

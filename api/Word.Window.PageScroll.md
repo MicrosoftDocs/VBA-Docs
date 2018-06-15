@@ -63,8 +63,5 @@ ActiveDocument.ActiveWindow.PageScroll
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

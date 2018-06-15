@@ -68,8 +68,5 @@ ActiveDocument.Footnotes.Add Range:= Selection.Range , _
 ## See also
 
 
-#### Concepts
-
-
 [Footnotes Collection Object](Word.footnotes.md)
 

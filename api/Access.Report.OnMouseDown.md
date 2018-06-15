@@ -44,8 +44,5 @@ If the  **On Mouse Down** box is blank, the property value is an empty string.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

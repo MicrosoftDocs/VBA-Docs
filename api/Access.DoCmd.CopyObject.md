@@ -61,8 +61,5 @@ DoCmd.CopyObject, "Employees Copy", acTable, "Employees"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

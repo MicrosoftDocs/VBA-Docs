@@ -65,8 +65,5 @@ You can use the  **SearchForRecord** method to search for a specific record in a
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

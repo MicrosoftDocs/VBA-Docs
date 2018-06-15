@@ -26,8 +26,5 @@ Returns or sets an  **Integer** that represents the separator character in a del
 ## See also
 
 
-#### Concepts
-
-
 [OMathDelim Object](Word.OMathDelim.md)
 

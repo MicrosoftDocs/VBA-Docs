@@ -26,8 +26,5 @@ Sets or returns the bookmark of the specified object. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [CommandEffect Object](PowerPoint.CommandEffect.md)
 

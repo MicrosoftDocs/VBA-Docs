@@ -23,9 +23,6 @@ Gets or sets a Boolean value representing the visible state of the picture effec
 ## See also
 
 
-#### Concepts
-
-
 [PictureEffect Object](pictureeffect-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Syno
 ## See also
 
 
-#### Concepts
-
-
 [SynonymInfo Object](Word.SynonymInfo.md)
 

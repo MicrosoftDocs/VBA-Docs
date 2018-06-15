@@ -72,9 +72,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 [Project.Checkin Method](Project.Project.CheckIn.md)
 #### Other resources

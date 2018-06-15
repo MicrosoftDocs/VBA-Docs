@@ -34,8 +34,5 @@ The  **TableObject** object is a worksheet table built from data returned from a
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

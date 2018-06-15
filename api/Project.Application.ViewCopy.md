@@ -60,7 +60,7 @@ Using the  **ViewCopy** method with no arguments displays the **Save View** dial
 If the current view includes the Timeline in the top pane and the Gantt Chart in the bottom pane, where the Gantt Chart is the active pane, the following statement copies the Timeline view. After you execute the statement, the drop-down list of views includes  **Copy of Timeline** in the **Custom** section.
 
 
-```
+```vb
 application.ViewCopy Name:="Copy of Timeline", ApplyTo:=1
 ```
 

@@ -43,7 +43,7 @@ If the named custom color doesn't exist, an error is generated.
 The following example creates a variable representing the color scheme in an Office theme and then creates another variable containing a custom color. This custom color can then be combined with other colors to define the theme.
 
 
-```
+```vb
 Dim tTheme As OfficeTheme 
 Dim tcsThemeColorScheme As ThemeColorScheme 
 Dim csCustomColor As MsoRGBType 
@@ -54,9 +54,6 @@ csCustomColor = tcsThemeColorScheme.GetCustomColor("CheerfulColor")
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ThemeColorScheme Object](themecolorscheme-object-office.md)

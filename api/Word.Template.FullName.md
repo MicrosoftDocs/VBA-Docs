@@ -43,8 +43,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

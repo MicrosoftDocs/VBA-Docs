@@ -26,8 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

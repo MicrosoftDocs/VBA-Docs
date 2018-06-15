@@ -26,8 +26,5 @@ Returns the parent  **[PivotTable](Excel.PivotTable.md)** object for the specifi
 ## See also
 
 
-#### Concepts
-
-
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 

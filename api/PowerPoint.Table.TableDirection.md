@@ -57,8 +57,5 @@ ActiveWindow.Selection.ShapeRange.Table.TableDirection = _
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](PowerPoint.Table.md)
 

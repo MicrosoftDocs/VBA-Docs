@@ -68,8 +68,5 @@ If you double-click any other control besides a command button, the second  **Cl
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

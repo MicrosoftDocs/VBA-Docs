@@ -24,8 +24,5 @@ Using a property or method that does not apply to the type of object the  **Char
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

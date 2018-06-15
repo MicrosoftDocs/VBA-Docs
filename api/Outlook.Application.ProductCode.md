@@ -26,8 +26,5 @@ Returns a  **String** specifying the Microsoft Outlook globally unique identifie
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

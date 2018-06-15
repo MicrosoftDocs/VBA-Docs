@@ -31,8 +31,5 @@ A  **TempVar** can store only numeric or text data. Setting the **Value** proper
 ## See also
 
 
-#### Concepts
-
-
 [TempVar Object](Access.TempVar.md)
 

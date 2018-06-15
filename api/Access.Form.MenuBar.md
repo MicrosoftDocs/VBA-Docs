@@ -31,8 +31,5 @@ When opening a form in Access that is part of a database that was created in an 
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

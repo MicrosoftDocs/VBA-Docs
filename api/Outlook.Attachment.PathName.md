@@ -31,8 +31,5 @@ This property is only valid for linked files.
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Outlook.Attachment.md)
 

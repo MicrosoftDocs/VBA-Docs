@@ -35,8 +35,5 @@ To add  **[Column](Outlook.Column.md)** objects to the **Columns** collection of
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Outlook.Table.md)
 

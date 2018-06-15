@@ -42,8 +42,5 @@ Worksheets("Sheet1").PageSetup.HeaderMargin = _
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

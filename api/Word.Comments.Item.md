@@ -39,8 +39,5 @@ Comment
 ## See also
 
 
-#### Concepts
-
-
 [Comments Collection Object](Word.comments.md)
 

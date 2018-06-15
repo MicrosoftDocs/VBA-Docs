@@ -26,8 +26,5 @@ Copies the object to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

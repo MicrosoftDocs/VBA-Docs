@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Enve
 ## See also
 
 
-#### Concepts
-
-
 [Envelope Object](Word.Envelope.md)
 

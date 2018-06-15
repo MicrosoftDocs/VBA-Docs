@@ -31,8 +31,5 @@ This property returns  **olModuleJournal** for the **[JournalModule](Outlook.Jou
 ## See also
 
 
-#### Concepts
-
-
 [JournalModule Object](Outlook.JournalModule.md)
 

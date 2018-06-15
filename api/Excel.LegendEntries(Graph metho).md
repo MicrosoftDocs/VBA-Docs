@@ -26,7 +26,7 @@ Returns an object that represents either a single legend entry or a collection o
 This example sets the font for legend entry one.
 
 
-```
+```vb
 myChart.Legend.LegendEntries(1).Font.Name = "Arial"
 ```
 

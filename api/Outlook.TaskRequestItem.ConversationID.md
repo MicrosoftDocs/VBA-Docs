@@ -35,8 +35,5 @@ If the  **TaskRequestItem** object is created in a version of Microsoft Outlook 
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

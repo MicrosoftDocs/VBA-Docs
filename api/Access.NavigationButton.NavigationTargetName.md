@@ -26,8 +26,5 @@ Gets or sets the name of the form or report to be displayed when the user click 
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

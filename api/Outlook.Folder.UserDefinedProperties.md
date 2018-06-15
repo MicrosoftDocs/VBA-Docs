@@ -26,8 +26,5 @@ Returns a  **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object 
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

@@ -31,8 +31,5 @@ This property is stored as the  **Std** value for the time zone in the registry.
 ## See also
 
 
-#### Concepts
-
-
 [TimeZone Object](Outlook.TimeZone.md)
 

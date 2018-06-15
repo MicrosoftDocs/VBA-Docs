@@ -39,7 +39,7 @@ To display shortcut keys in  **ToolTips**, you must also set the  **DisplayToolt
 This example sets options for all command bars in Microsoft Office.
 
 
-```
+```vb
 With CommandBars 
     .LargeButtons = True  
     .DisplayTooltips = True  
@@ -50,9 +50,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

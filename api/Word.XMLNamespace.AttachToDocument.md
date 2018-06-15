@@ -52,8 +52,5 @@ objSchema.AttachToDocument ActiveDocument
 ## See also
 
 
-#### Concepts
-
-
 [XMLNamespace Object](Word.XMLNamespace.md)
 

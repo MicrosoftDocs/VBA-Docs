@@ -34,8 +34,5 @@ Moves a style sheet's order of precedence.
 ## See also
 
 
-#### Concepts
-
-
 [StyleSheet Object](Word.StyleSheet.md)
 

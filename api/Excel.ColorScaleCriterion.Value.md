@@ -33,8 +33,5 @@ If the type of threshold is a formula, you can set the formula as a  **String** 
 ## See also
 
 
-#### Concepts
-
-
 [ColorScaleCriterion Object](Excel.ColorScaleCriterion.md)
 

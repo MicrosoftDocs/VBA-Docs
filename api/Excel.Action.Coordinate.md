@@ -26,8 +26,5 @@ Returns the coordinate property of the  **Action** object. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Excel.Action.md)
 

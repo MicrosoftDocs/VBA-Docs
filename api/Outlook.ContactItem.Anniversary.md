@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the anniversary date for the contact. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

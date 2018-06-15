@@ -31,8 +31,5 @@ The properties  **[ContactItem.User1](Outlook.ContactItem.User1.md)** , **[Conta
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

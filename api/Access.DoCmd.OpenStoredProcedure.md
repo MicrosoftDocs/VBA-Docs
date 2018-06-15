@@ -53,8 +53,5 @@ DoCmd.OpenStoredProcedure "Employees", 1
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

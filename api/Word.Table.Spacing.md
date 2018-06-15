@@ -36,8 +36,5 @@ ActiveDocument.Tables(1).Spacing = 9
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

@@ -36,8 +36,5 @@ You can use the object's name in conjunction with the  **Item** method to return
 ## See also
 
 
-#### Concepts
-
-
 [Design Object](PowerPoint.Design.md)
 

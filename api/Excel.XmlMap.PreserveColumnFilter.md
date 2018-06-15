@@ -26,8 +26,5 @@ Returns or sets whether filtering is preserved when the specified XML map is ref
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

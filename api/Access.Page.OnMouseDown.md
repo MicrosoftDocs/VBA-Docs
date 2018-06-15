@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseDown
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Access.Page.md)
 

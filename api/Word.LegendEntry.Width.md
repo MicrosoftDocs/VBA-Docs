@@ -26,8 +26,5 @@ Returns the width, in points, of the object. Read-only  **Double** .
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](Word.LegendEntry.md)
 

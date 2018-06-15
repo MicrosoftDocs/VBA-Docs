@@ -36,8 +36,5 @@ MsgBox ActiveDocument.Coauthoring.Locks(1).Range
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthLock Object](Word.CoAuthLock.md)
 

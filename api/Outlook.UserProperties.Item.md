@@ -39,8 +39,5 @@ A  **UserProperty** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [UserProperties Object](Outlook.UserProperties.md)
 

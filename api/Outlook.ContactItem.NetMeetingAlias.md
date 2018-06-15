@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the user's Microsoft NetMeeting ID, or 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

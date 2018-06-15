@@ -23,7 +23,4 @@ Gets the  **[ActualStartDrivers](Project.actualstartdrivers.md)** collection for
 ## See also
 
 
-#### Concepts
-
-
 [StartDriver Object](Project.StartDriver.md)

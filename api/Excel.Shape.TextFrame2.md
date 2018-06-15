@@ -26,8 +26,5 @@ Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text forma
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

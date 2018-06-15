@@ -31,8 +31,5 @@ The default value is  **True** for new reports, and **False** for reports create
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

@@ -42,15 +42,12 @@ This example splits the window for Document1 in half vertically.
 
 
 
-```
+```vb
 Windows("Document1").SplitVertical = 50
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Window Object](Word.Window.md)

@@ -42,8 +42,5 @@ Returns a  **Range** object that refers to the start position of the next item o
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

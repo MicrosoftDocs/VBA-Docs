@@ -26,8 +26,5 @@ Deletes the collection of subdocuments.
 ## See also
 
 
-#### Concepts
-
-
 [Subdocuments Collection Object](Word.subdocuments.md)
 

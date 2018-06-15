@@ -16,7 +16,7 @@ The code example in this topic shows how to add custom components to the ribbon 
     
 2. Add the following XML markup to the file and then close and save the file. 
     
-  ```XML
+  ```vbXML
   <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 
   <ribbon> 
     <tabs> 
@@ -40,7 +40,7 @@ The code example in this topic shows how to add custom components to the ribbon 
     
 6.  Open the Visual Basic Editor, add the following procedure to the **ThisDocument** code module, and then close and save the document.
     
-  ```
+  ```vb
   Sub InsertCompanyName(ByVal control As IRibbonControl) 
    ' Inserts the specified text at the beginning of a range or selection. 
    Dim MyText As String 

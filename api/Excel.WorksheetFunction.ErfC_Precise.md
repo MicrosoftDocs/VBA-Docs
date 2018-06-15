@@ -44,8 +44,5 @@ If the specified value is nonnumeric,  **ErfC_Precise** generates an error.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -23,9 +23,6 @@ Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBor
 ## See also
 
 
-#### Concepts
-
-
 [ErrorBars Object](PowerPoint.ErrorBars.md)
 
 

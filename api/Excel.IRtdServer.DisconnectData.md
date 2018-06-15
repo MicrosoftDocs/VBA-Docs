@@ -34,8 +34,5 @@ Notifies a real-time data (RTD) server application that a topic is no longer in 
 ## See also
 
 
-#### Concepts
-
-
 [IRtdServer Object](Excel.IRtdServer.md)
 

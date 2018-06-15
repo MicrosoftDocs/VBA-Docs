@@ -36,8 +36,5 @@ The name must be unique across all slicers within a workbook. The default name u
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

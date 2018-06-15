@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).TabStops(1).Clear
 ## See also
 
 
-#### Concepts
-
-
 [TabStop Object](Word.TabStop.md)
 

@@ -34,8 +34,5 @@ Returns or sets a  **String** that represents the physical location of the XSL t
 ## See also
 
 
-#### Concepts
-
-
 [XSLTransform Object](Word.XSLTransform.md)
 

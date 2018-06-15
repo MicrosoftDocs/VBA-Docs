@@ -26,8 +26,5 @@ Returns or sets the title of the range of cells that can edited on a protected s
 ## See also
 
 
-#### Concepts
-
-
 [AllowEditRange Object](Excel.AllowEditRange.md)
 

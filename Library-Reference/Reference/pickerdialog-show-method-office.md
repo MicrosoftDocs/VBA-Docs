@@ -42,7 +42,7 @@ PickerResults
 The following code sets the Picker Dialog properties and then displays the Picker Dialog.
 
 
-```
+```vb
 Dim objPickerDialog As PickerDialog 
 Dim objPickerProperties As PickerProperties 
 Dim objPickerProperty As PickerProperty 
@@ -65,9 +65,6 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PickerDialog Object](pickerdialog-object-office.md)

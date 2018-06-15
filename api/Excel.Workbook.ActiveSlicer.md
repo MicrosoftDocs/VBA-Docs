@@ -36,8 +36,5 @@ If you do not specify a  **Workbook** object, this property returns the active s
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

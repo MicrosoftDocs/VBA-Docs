@@ -43,8 +43,5 @@ Worksheets(1).ChartObjects(1).Chart.ProtectSelection = True
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -23,9 +23,6 @@ Returns a 32-bit integer that indicates the application in which this object was
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtColor Object](smartartcolor-object-office.md)
 #### Other resources
 

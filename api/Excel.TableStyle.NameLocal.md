@@ -31,8 +31,5 @@ If the style is a built-in style, this property returns the name of the style in
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Excel.TableStyle.md)
 

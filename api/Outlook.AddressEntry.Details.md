@@ -42,8 +42,5 @@ You must use error handling to handle run-time errors when the user clicks  **Ca
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

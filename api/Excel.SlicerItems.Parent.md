@@ -31,8 +31,5 @@ SlicerCache
 ## See also
 
 
-#### Concepts
-
-
 [SlicerItems Object](Excel.SlicerItems.md)
 

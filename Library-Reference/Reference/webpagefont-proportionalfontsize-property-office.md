@@ -33,7 +33,7 @@ When you set the  **ProportionalFontSize** property, the host application does n
 This example sets the proportional font and proportional font size for the English/Western European/Other Latin Script character set in the active application.
 
 
-```
+```vb
 Application.DefaultWebOptions. _ 
 Fonts(msoCharacterSetEnglishWesternEuropeanOtherLatinScript) _ 
 .ProportionalFont = "Tahoma" 
@@ -44,9 +44,6 @@ Fonts(msoCharacterSetEnglishWesternEuropeanOtherLatinScript) _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [WebPageFont Object](webpagefont-object-office.md)

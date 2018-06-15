@@ -36,8 +36,5 @@ Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.
 ## See also
 
 
-#### Concepts
-
-
 [Sort Object](Excel.Sort.md)
 

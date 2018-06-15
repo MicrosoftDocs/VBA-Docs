@@ -127,8 +127,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Object](Excel.GroupShapes.md)
 

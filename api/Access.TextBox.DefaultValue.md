@@ -52,7 +52,7 @@ One control can provide the default value for another control. For example, if y
 
 
 
-```
+```vb
 =Forms!frmInvoice!txtShipTo
 ```
 
@@ -60,9 +60,6 @@ If the controls are on the same form, the control that's the source of the defau
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextBox Object](Access.TextBox.md)

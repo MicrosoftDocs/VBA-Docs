@@ -35,8 +35,5 @@ Not supported for this object.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

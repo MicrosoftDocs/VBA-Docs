@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Styl
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

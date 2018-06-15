@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.Inspector.Close(method).md)** method to fire t
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

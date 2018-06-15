@@ -40,8 +40,5 @@ If you copy a range, it must be made up of adjacent cells.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

@@ -36,7 +36,7 @@ The  **TestReportTable** macro creates a report named Table Tests, and then crea
 
  
 
-```
+```vb
 Sub TestReportTable()
     Dim theReport As Report
     Dim theShape As Shape
@@ -80,7 +80,7 @@ In Figure 1, the top  **ReportTable** object in the Table Tests report is create
 
 
 
-```
+```vb
 Rows: 1
 Columns: 1
 Table contents:
@@ -102,7 +102,7 @@ The bottom  **ReportTable** object in Figure 1 is the default report table that 
 
 
 
-```
+```vb
 Sub DeleteTheReportTable()
     Dim theReport As Report
     Dim theShape As Shape
@@ -126,7 +126,7 @@ To delete the entire report, change to another view, as in the following macro:
 
 
 
-```
+```vb
 Sub DeleteTheReport()
     Dim i As Integer
     Dim reportName As String

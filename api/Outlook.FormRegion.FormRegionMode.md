@@ -31,8 +31,5 @@ If the user has a mail item in the Reading Pane, you can use the  **[MailItem.Se
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of spelling suggestions in the co
 ## See also
 
 
-#### Concepts
-
-
 [SpellingSuggestions Collection Object](Word.spellingsuggestions.md)
 

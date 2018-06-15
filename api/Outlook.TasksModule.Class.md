@@ -31,8 +31,5 @@ This property returns  **olTasksModule** for the **[TasksModule](Outlook.TasksMo
 ## See also
 
 
-#### Concepts
-
-
 [TasksModule Object](Outlook.TasksModule.md)
 

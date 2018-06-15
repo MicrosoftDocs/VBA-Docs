@@ -42,8 +42,5 @@ The value of this property can be set to one of the following  **[XlConstants](W
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](Word.AxisTitle.md)
 

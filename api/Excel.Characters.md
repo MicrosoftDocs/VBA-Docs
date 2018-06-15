@@ -28,7 +28,7 @@ Use  **Characters** ( _start_, _length_ ), where _start_ is the start character 
 The following example adds text to cell B1 and then makes the second word bold.
 
 
-```
+```vb
 With Worksheets("Sheet1").Range("B1") 
  .Value = "New Title" 
  .Characters(5, 5).Font.Bold = True 
@@ -40,7 +40,7 @@ The  **[Characters](Excel.Range.Characters.md)** method is necessary only when y
 
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A5").Font.Italic = True
 ```
 

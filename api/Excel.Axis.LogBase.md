@@ -31,8 +31,5 @@ Attempting to set this property to a value less than two (2) causes an error. Th
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Excel.Axis(objec).md)
 

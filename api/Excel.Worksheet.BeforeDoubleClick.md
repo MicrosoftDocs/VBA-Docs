@@ -42,8 +42,5 @@ This event doesn't occur when the user double-clicks the border of a cell.
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

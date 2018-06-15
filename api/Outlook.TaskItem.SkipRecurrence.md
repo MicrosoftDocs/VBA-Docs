@@ -31,8 +31,5 @@ Clears the current instance of a recurring task and sets the recurrence to the n
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

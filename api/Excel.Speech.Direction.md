@@ -55,9 +55,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 [Speech Object](Excel.Speech.md)
 

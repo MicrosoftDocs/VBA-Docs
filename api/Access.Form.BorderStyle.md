@@ -56,8 +56,5 @@ Pop-up forms are typically fixed in size, but you can make a pop-up form sizable
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

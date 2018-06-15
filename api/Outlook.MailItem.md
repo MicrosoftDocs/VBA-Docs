@@ -28,7 +28,7 @@ Use the  **[Folder.Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-8
 The following Visual Basic for Applications (VBA) example creates and displays a new mail message.
 
 
-```
+```vb
 Sub CreateMail() 
  
  Dim myItem As Object 
@@ -49,7 +49,7 @@ The following VBA example sets the current folder as the Inbox and displays the 
 
 
 
-```
+```vb
 Sub DisplayMail() 
  
  Dim myItem As Object 

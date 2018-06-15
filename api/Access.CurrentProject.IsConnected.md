@@ -26,8 +26,5 @@ You can use the  **IsConnected** property to determine if the **[CurrentProject]
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

@@ -80,8 +80,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

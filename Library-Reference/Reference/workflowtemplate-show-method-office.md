@@ -33,7 +33,7 @@ Integer
 The following example displays the name of each workflow template in the current document and then displays workflow specific configuration user interface for a specific template.
 
 
-```
+```vb
 Sub DisplayWorkTemplates() 
 Dim objWorkflowTemplates As WorkflowTemplates 
 Dim objWorkflowTemplate As WorkflowTemplate 
@@ -54,9 +54,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [WorkflowTemplate Object](workflowtemplate-object-office.md)

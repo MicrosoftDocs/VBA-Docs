@@ -42,7 +42,7 @@ If the prefix already exists in the Namespace Manager, this method will overwrit
 The following example adds a prefix and namespace to a  **CustomPrefixMappings** object.
 
 
-```
+```vb
 Sub AddNamespacePrefix() 
   
     Dim objCustomPrefixMappings As  CustomPrefixMappings 
@@ -56,9 +56,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLPrefixMappings Object](customxmlprefixmappings-object-office.md)

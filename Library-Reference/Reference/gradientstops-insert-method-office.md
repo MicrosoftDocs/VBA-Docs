@@ -41,7 +41,7 @@ Gradients are a smooth transition from one color state to another. The endpoints
 The following example creates three color gradient stops in Microsoft PowerPoint.
 
 
-```
+```vb
 Sub gradients() 
  Set myDocument = ActivePresentation.Slides(1) 
  Set GradientShapeFill = myDocument.Shapes.AddShape(msoShapeRectangle, 90, 90, 90, 80).Fill 
@@ -58,9 +58,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [GradientStops Object](gradientstops-object-office.md)

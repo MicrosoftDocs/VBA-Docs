@@ -31,8 +31,5 @@ This property is used in both ODBC and OLEDB queries, and by both PivotTables an
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

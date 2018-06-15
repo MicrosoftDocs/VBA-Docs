@@ -26,8 +26,5 @@ Returns a collection of  **PivotCell** objects in a PivotLine. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [PivotLine Object](Excel.PivotLine.md)
 

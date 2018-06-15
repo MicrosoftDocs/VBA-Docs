@@ -127,8 +127,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

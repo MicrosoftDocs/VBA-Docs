@@ -41,8 +41,5 @@ Application.DefaultWebOptions.AllowPNG = True
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 

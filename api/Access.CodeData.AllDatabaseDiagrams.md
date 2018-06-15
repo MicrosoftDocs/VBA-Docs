@@ -26,8 +26,5 @@ You can use the  **AllDatabaseDiagrams** property to reference the **[AllDatabas
 ## See also
 
 
-#### Concepts
-
-
 [CodeData Object](Access.CodeData.md)
 

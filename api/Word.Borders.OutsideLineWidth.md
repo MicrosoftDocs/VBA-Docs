@@ -59,8 +59,5 @@ myRange.Borders.OutsideLineWidth = wdLineWidth075pt
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection Object](Word.borders.md)
 

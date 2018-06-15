@@ -38,7 +38,7 @@ The object returned by the  **ParentGroupShape** property can be used to determi
 The following statement can be used to return a  **True** value if the first shape of the active publication is a group member.
 
 
-```
+```vb
 blnGrouped = Application.ActiveDocument.MasterPages _ 
  .Item.Shapes(1).IsGroupMember
 ```

@@ -47,8 +47,5 @@ The value of the  **Type** property can be one of these **MsoAnimType** constant
 ## See also
 
 
-#### Concepts
-
-
 [FilterEffect Object](PowerPoint.FilterEffect.md)
 

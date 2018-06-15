@@ -59,8 +59,5 @@ myToc.HeadingStyles.Add Style:="Title", Level:=2
 ## See also
 
 
-#### Concepts
-
-
 [Styles Collection Object](Word.styles.md)
 

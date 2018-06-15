@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the chart was crea
 If the chart was created in Microsoft Project, the  **Creator** property returns the decimal number 1347571530, which is hexadecimal 0x50524F4A, which is equivalent to the string **PROJ**. For example, run the following command in the  **Immediate** window of the VBE, with the name of the active report.
 
 
-```
+```vb
 Print ActiveProject.Reports("Simple scalar chart").Shapes(1).Chart.Creator
 ```
 

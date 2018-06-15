@@ -26,9 +26,6 @@ Gets or sets a non-display purpose item binding to data. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [PickerResult Object](pickerresult-object-office.md)
 #### Other resources
 

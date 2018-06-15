@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [FilterEffect Object](PowerPoint.FilterEffect.md)
 

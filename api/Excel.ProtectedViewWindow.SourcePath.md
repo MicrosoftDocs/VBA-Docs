@@ -46,8 +46,5 @@ MsgBox ActiveProtectedViewWindow.SourcePath &; Application.PathSeparator _
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 

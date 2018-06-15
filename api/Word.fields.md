@@ -19,7 +19,7 @@ Use the  **Fields** property to return the **Fields** collection. The following 
  **Note**  Use the  **Fields** property with a **[MailMerge](Word.MailMerge.md)** object to return a **[MailMergeFields](Word.mailmergefields.md)** collection.
 
 
-```
+```vb
 Selection.Fields.Update
 ```
 

@@ -47,7 +47,7 @@ From Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA), a 
 
 
 
-```
+```vb
 object.AddToFavorites "SomeString " 
 object.AddToFavorites 
 

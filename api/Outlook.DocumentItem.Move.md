@@ -39,8 +39,5 @@ An  **Object** that represents the item which has been moved to the designated f
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

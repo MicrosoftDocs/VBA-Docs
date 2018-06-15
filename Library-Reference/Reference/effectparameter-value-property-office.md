@@ -25,7 +25,7 @@ Retrieves or sets the value of the  **EffectParameter** object. Read/write
 The following code sets the first parameter of the  **PictureEffect** object as color temperature.
 
 
-```
+```vb
 Dim picEffect As PictureEffect 
  
 picEffect.EffectParameters(1).Value = MsoPictureEffectType.msoEffectColorTemperature
@@ -33,9 +33,6 @@ picEffect.EffectParameters(1).Value = MsoPictureEffectType.msoEffectColorTempera
 
 
 ## See also
-
-
-#### Concepts
 
 
 [EffectParameter Object](effectparameter-object-office.md)

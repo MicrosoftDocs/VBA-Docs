@@ -40,8 +40,5 @@ If the navigation group is not on the Navigation Pane, then this property return
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroup Object](Outlook.NavigationGroup.md)
 

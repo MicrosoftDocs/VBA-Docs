@@ -26,8 +26,5 @@ Returns the type of inline shape. Read-only  **[WdInlineShapeType](Word.WdInline
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

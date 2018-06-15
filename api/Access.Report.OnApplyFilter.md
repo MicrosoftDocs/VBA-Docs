@@ -54,8 +54,5 @@ Reports("Catalog").OnApplyFilter = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

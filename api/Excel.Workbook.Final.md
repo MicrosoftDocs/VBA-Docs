@@ -31,8 +31,5 @@ Setting the value to  **True** marks the workbook as final, notifies recipients 
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

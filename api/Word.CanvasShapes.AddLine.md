@@ -71,8 +71,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CanvasShapes Collection](Word.CanvasShapes.md)
 

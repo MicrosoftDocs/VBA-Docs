@@ -45,8 +45,5 @@ The collection is automatically re-sorted incrementally by time. This method ret
 ## See also
 
 
-#### Concepts
-
-
 [MediaBookmarks Object](PowerPoint.MediaBookmarks.md)
 

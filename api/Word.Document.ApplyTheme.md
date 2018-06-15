@@ -50,8 +50,5 @@ ActiveDocument.ApplyTheme "artsy 100"
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

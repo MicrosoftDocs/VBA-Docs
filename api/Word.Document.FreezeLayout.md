@@ -26,8 +26,5 @@ In Web view, fixes the layout of the document as it currently appears so that li
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

@@ -39,8 +39,5 @@ This event is similar to the  **[AutoDiscoverComplete](Outlook.NameSpace.AutoDis
 ## See also
 
 
-#### Concepts
-
-
 [Accounts Object](Outlook.Accounts.md)
 

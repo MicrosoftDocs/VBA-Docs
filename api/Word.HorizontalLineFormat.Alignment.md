@@ -26,8 +26,5 @@ Returns or sets a  **WdHorizontalLineAlignment** constant that represents the al
 ## See also
 
 
-#### Concepts
-
-
 [HorizontalLineFormat Object](Word.HorizontalLineFormat.md)
 

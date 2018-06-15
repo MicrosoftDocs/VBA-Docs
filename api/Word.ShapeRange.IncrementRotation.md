@@ -39,8 +39,5 @@ Use the  **Rotation** property to set the absolute rotation of the shape. To rot
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

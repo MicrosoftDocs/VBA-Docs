@@ -28,7 +28,4 @@ The  **Month** property can be one of the **[PjMonth](Project.PjMonth.md)** cons
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

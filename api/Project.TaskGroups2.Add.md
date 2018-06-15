@@ -37,8 +37,5 @@ Adds a  **[Group2](Project.Group2.md)** object to the **TaskGroups2** collection
 ## See also
 
 
-#### Concepts
-
-
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 

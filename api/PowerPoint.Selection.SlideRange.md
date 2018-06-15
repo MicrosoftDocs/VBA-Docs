@@ -38,16 +38,13 @@ A slide range can be constructed in slide view, slide sorter view, normal view, 
 This example sets the background scheme color for all the selected slides in window one.
 
 
-```
+```vb
 Windows(1).Selection.SlideRange.ColorScheme _
     .Colors(ppBackground).RGB = RGB(0, 0, 255)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](PowerPoint.Selection.md)

@@ -54,8 +54,5 @@ End Select
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

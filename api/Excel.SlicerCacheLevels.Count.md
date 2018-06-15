@@ -31,8 +31,5 @@ Returns the number of levels in the specified  **[SlicerCacheLevels](Excel.Slice
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevels Object](Excel.SlicerCacheLevels.md)
 

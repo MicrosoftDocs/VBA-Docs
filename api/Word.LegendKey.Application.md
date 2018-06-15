@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Word.LegendKey.md)
 

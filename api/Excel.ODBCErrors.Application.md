@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ODBCErrors Object](Excel.ODBCErrors.md)
 

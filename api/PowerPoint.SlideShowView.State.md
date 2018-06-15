@@ -46,15 +46,12 @@ The value of the  **State** property can be one of these **PpSlideShowState** co
 This example sets the view state in slide show window one to a black screen.
 
 
-```
+```vb
 SlideShowWindows(1).View.State = ppSlideShowBlackScreen
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)

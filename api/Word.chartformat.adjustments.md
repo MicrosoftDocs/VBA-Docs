@@ -29,8 +29,5 @@ Returns an [Adjustments](Word.Adjustments.md) object that contains a collection 
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Word.ChartFormat.md)
 

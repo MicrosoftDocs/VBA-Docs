@@ -26,8 +26,5 @@ Returns or sets an  **MsoPresetCamera** constant that represents the bevel type 
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

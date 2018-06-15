@@ -58,8 +58,5 @@ Next fcLoop
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](PowerPoint.FileConverter.md)
 

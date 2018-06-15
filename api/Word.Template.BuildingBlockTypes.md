@@ -26,8 +26,5 @@ Returns a  **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection that 
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

@@ -46,7 +46,4 @@ Adds an  **Exception** object to an **Exceptions** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Exceptions Collection Object](Project.exceptions.md)

@@ -26,8 +26,5 @@ Activates the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

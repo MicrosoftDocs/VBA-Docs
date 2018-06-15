@@ -38,7 +38,4 @@ Adds a  **Table** object to a **Tables** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Tables Collection Object](Project.tables.md)

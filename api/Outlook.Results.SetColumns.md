@@ -31,8 +31,5 @@ The  **SetColumns** method is useful for iterating through the **[Results](Outlo
 ## See also
 
 
-#### Concepts
-
-
 [Results Object](Outlook.Results.md)
 

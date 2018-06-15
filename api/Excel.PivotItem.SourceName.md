@@ -68,8 +68,5 @@ MsgBox "The original item name is " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

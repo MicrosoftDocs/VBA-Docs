@@ -104,7 +104,7 @@ To specify fields for the table, use the  **UpdateTableData** method. Add the fo
 
 
 
-```
+```vb
     ' Set fields for the table.
     Dim fieldArray(1 To 6) As PjField
         

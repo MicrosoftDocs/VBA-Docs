@@ -29,8 +29,5 @@ Returns or sets whether the specified paragraph is currently in a collapsed stat
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

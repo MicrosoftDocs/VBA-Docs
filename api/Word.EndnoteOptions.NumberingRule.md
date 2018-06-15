@@ -36,8 +36,5 @@ ActiveDocument.Endnotes.NumberingRule = wdRestartSection
 ## See also
 
 
-#### Concepts
-
-
 [EndnoteOptions Object](Word.EndnoteOptions.md)
 

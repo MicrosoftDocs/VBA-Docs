@@ -31,8 +31,5 @@ To view an  **About** box showing version and copyright information for an Activ
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

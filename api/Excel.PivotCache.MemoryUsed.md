@@ -44,8 +44,5 @@ MsgBox "Microsoft Excel is currently using " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

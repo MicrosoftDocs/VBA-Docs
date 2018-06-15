@@ -25,9 +25,6 @@ When you write managed code, try to cast the object represented by  **IRibbonCon
 ## See also
 
 
-#### Concepts
-
-
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
 

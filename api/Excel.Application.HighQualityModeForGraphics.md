@@ -31,8 +31,5 @@ This property corresponds to the setting of the  **High quality mode for graphic
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

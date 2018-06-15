@@ -37,8 +37,5 @@ Makes a copy of a group definition for the  **TaskGroups2** collection and retur
 ## See also
 
 
-#### Concepts
-
-
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 

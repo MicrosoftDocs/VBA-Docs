@@ -48,8 +48,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 

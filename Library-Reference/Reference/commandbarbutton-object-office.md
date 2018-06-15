@@ -27,7 +27,7 @@ Represents a button control on a command bar.
 Use  **Controls(index)**, where _index_ is the index number of the control, to return a **CommandBarButton** object. Note that the **Type** property of the control must be **msoControlButton**. Assuming that the second control on the command bar named "Custom" is a button, the following example changes the style of that button.
 
 
-```
+```vb
 Set c = CommandBars("Custom").Controls(2) 
 With c 
 If .Type = msoControlButton Then 
@@ -48,9 +48,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

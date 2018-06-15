@@ -31,8 +31,5 @@ When the  **[GetRecurrencePattern](Outlook.TaskItem.GetRecurrencePattern.md)** m
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

@@ -31,8 +31,5 @@ This control does not support standard data binding.
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

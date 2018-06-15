@@ -60,8 +60,5 @@ The following table contains examples of  **HyperlinkAddress** and **HyperlinkSu
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

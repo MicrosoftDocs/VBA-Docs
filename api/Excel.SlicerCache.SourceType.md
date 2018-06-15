@@ -36,8 +36,5 @@ Only the  **xlDatabase** and **xlExternal** data source types are supported.
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

@@ -16,7 +16,7 @@ A collection of  **[Range](Word.Range.md)** objects that represent all the sente
 Use the  **Sentences** property to return the **Sentences** collection. The following example displays the number of sentences selected.
 
 
-```
+```vb
 MsgBox Selection.Sentences.Count &amp; " sentences are selected"
 ```
 
@@ -25,7 +25,7 @@ Use  **Sentences** (Index), where Index is the index number, to return a **Range
 
 
 
-```
+```vb
 With ActiveDocument.Sentences(1) 
  .Bold = True 
  .Font.Size = 24 
@@ -39,7 +39,7 @@ The  **Add** method isn't available for the **Sentences** collection. Instead, u
 
 
 
-```
+```vb
 ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 ```
 

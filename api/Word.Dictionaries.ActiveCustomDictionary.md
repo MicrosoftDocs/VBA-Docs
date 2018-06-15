@@ -53,8 +53,5 @@ Application.CustomDictionaries.ActiveCustomDictionary = dicCustom
 ## See also
 
 
-#### Concepts
-
-
 [Dictionaries Collection Object](Word.dictionaries.md)
 

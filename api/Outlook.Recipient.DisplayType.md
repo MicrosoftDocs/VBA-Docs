@@ -31,8 +31,5 @@ You can use the  **DisplayType** property to filter recipients. The **DisplayTyp
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

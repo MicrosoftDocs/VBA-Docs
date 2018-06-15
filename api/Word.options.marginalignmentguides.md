@@ -34,8 +34,5 @@ If  **MarginAlignmentGuides** is set to **True**, margin alignment guides are di
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

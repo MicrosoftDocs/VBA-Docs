@@ -33,8 +33,5 @@ For the Command Button control, when  **TextAlign** is set to **olTextAlignLeft*
 ## See also
 
 
-#### Concepts
-
-
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

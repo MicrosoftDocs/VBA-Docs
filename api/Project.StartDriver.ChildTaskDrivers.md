@@ -23,7 +23,4 @@ Gets the  **[ChildDrivers](Project.childdrivers.md)** object for the task **Star
 ## See also
 
 
-#### Concepts
-
-
 [StartDriver Object](Project.StartDriver.md)

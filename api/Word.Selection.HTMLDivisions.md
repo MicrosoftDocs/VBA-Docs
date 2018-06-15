@@ -26,8 +26,5 @@ Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** object that represents an
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

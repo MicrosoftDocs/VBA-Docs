@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.TaskItem.Close(method).md)** method to fire th
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

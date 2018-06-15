@@ -36,8 +36,5 @@ You can implement an encryption provider by creating a custom COM add-in. Within
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

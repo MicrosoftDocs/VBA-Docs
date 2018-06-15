@@ -46,8 +46,5 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 ## See also
 
 
-#### Concepts
-
-
 [OptionGroup Object](Access.OptionGroup.md)
 

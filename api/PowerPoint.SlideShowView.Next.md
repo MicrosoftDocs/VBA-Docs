@@ -35,15 +35,12 @@ If the last slide is displayed, the  **Next** method closes the slide show in sp
 This example shows the slide immediately following the currently displayed slide on slide show window one.
 
 
-```
+```vb
 SlideShowWindows(1).View.Next
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)

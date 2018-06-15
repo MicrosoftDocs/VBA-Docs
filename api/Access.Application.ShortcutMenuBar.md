@@ -33,8 +33,5 @@ Shortcut menus aren't available to any object if the  **AllowShortcutMenus** pro
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

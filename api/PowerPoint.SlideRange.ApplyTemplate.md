@@ -37,8 +37,5 @@ Applies a design template to the specified slide range.
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

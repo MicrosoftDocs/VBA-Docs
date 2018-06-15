@@ -34,8 +34,5 @@ If the gradient style is  **msoGradientFromCenter**, this property returns eithe
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

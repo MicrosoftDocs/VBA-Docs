@@ -37,8 +37,5 @@ ActiveWindow.SplitRow = 10
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

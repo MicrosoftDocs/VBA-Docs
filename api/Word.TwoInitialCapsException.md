@@ -21,7 +21,7 @@ Represents a single initial-capital AutoCorrect exception. The  **TwoInitialCaps
 Use  **TwoInitialCapsExceptions** (Index), where Index is the initial capital exception name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital exception named "KMenu."
 
 
-```
+```vb
 AutoCorrect.TwoInitialCapsExceptions("KMenu").Delete
 ```
 
@@ -39,7 +39,7 @@ If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically
 
 
 
-```
+```vb
 AutoCorrect.TwoInitialCapsExceptions.Add Name:="INdustry"
 ```
 

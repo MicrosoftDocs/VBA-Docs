@@ -35,7 +35,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how you 
 
  
 
-```
+```vb
 Public Sub InstalledPrinters_Example() 
  
  Dim pubInstalledPrinters As Publisher.InstalledPrinters 

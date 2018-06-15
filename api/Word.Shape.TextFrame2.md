@@ -26,8 +26,5 @@ Returns a  **TextFrame2** object that contains the text for the specified shape.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

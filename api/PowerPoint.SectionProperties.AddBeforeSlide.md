@@ -49,8 +49,5 @@ If the presentation does not contain any sections and you call this method, pass
 ## See also
 
 
-#### Concepts
-
-
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 

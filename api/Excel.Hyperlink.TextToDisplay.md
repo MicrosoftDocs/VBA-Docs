@@ -37,8 +37,5 @@ ActiveSheet.Hyperlinks(1).TextToDisplay = _
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

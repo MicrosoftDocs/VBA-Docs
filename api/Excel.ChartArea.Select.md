@@ -31,8 +31,5 @@ A Variant value that represents the selected object.
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](Excel.ChartArea(objec).md)
 

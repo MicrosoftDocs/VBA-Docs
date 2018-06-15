@@ -24,7 +24,7 @@ Use the  **[Add](Publisher.MailMergeFilters.Add.md)** method of the **MailMergeF
 
  
 
-```
+```vb
 Sub FilterDataSource() 
  With ActiveDocument.MailMerge.DataSource 
  .Filters.Add Column:="Region", _ 
@@ -42,7 +42,7 @@ Use the  **[Item](Publisher.MailMergeFilters.Item.md)** method to access an indi
 
 
 
-```
+```vb
 Sub SetQueryCriterion() 
  Dim intItem As Integer 
  With ActiveDocument.MailMerge.DataSource.Filters 

@@ -36,7 +36,7 @@ Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts**
 The following example displays the XML contents of a part after it has been added to a  **CustomXMLParts** collection.
 
 
-```
+```vb
 Sub CustomXMLParts_PartAfterAdd(ByVal objPart As CustomXMLPart) 
 Dim strPartXML As String 
 strPartXML = objPart.XML 
@@ -46,9 +46,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLParts Object](customxmlparts-object-office.md)

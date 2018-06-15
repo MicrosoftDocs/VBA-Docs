@@ -31,8 +31,5 @@ Double
 ## See also
 
 
-#### Concepts
-
-
 [ColorStop Object](Excel.ColorStop.md)
 

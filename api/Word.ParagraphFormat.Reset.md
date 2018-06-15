@@ -41,8 +41,5 @@ ActiveDocument.Paragraphs(2).Reset
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

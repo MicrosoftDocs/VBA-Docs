@@ -33,15 +33,12 @@ Setting the  **PageHeight** or **PageWidth** property changes the **PaperSize** 
 This example sets the paper size to legal for the first document.
 
 
-```
+```vb
 Documents(1).PageSetup.PaperSize = wdPaperLegal
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PageSetup Object](Word.PageSetup.md)

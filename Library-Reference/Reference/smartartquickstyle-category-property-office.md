@@ -23,9 +23,6 @@ Retrieves the primary category name associated with the SmartArt quick style. Re
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtQuickStyle Object](smartartquickstyle-object-office.md)
 #### Other resources
 

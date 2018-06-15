@@ -41,7 +41,7 @@ Boolean
 This example undoes the last two actions taken in Sales.doc.
 
 
-```
+```vb
 Documents("Sales.doc").Undo 2
 ```
 
@@ -58,9 +58,6 @@ If ActiveDocument.Undo = False Then _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

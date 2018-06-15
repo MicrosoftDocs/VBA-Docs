@@ -36,8 +36,5 @@ Because a group of shapes is treated as a single object, grouping and ungrouping
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

@@ -38,7 +38,7 @@ In Visual Basic, use a string expression to set the column width values in twips
 
 
 
-```
+```vb
 "6 cm;0;6 cm"
 ```
 
@@ -93,10 +93,6 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [ComboBox Object](Access.ComboBox.md)

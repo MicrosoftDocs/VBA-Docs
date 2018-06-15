@@ -62,8 +62,5 @@ blnCheck = Options.CheckSpellingAsYouType
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

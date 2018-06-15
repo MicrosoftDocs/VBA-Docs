@@ -36,8 +36,5 @@ When you delete a  **[Worksheet](Excel.Worksheet.md)** , this method displays a 
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

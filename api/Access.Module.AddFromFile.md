@@ -54,8 +54,5 @@ Modules("CalculateShipping").AddFromFile "C:\Shipping\ShippingRoutines.bas"
 ## See also
 
 
-#### Concepts
-
-
 [Module Object](Access.Module.md)
 

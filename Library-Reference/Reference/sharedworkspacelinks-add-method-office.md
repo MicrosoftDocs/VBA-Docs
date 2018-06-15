@@ -46,7 +46,7 @@ SharedWorkspaceLink
 The following example adds a new link to the links collection of the shared workspace.
 
 
-```
+```vb
     Dim swsLink As Office.SharedWorkspaceLink 
     Set swsLink = ActiveWorkbook.SharedWorkspace.Links.Add( _ 
         "http://msdn.microsoft.com", _ 
@@ -61,9 +61,6 @@ The following example adds a new link to the links collection of the shared work
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceLinks Object](sharedworkspacelinks-object-office.md)

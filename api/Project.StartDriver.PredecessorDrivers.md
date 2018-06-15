@@ -23,7 +23,4 @@ Gets the  **[PredecessorDrivers](Project.predecessordrivers.md)** collection obj
 ## See also
 
 
-#### Concepts
-
-
 [StartDriver Object](Project.StartDriver.md)

@@ -31,8 +31,5 @@ This property specifies the layout settings for PivotFields when they are added 
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

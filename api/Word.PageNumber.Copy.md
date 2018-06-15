@@ -23,8 +23,5 @@ Copies the specified page number to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [PageNumber Object](Word.PageNumber.md)
 

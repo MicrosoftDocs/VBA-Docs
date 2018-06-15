@@ -35,7 +35,7 @@ The  **ShowRevisions** property must be **True** to see the formatting for inser
 This example sets Word to italicize inserted text.
 
 
-```
+```vb
 Options.InsertedTextMark = wdInsertedTextMarkItalic
 ```
 
@@ -54,9 +54,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

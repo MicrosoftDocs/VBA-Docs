@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Hori
 ## See also
 
 
-#### Concepts
-
-
 [HorizontalLineFormat Object](Word.HorizontalLineFormat.md)
 

@@ -30,7 +30,7 @@ Use  **[Items](Outlook.Items.md)** ( _index_ ), where _index_ is the index numbe
 The following example returns a new post.
 
 
-```
+```vb
 Set myItem = myOlApp.CreateItem(olPostItem)
 ```
 

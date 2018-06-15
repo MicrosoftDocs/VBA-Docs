@@ -36,8 +36,5 @@ The value of the  **Order** property is automatically assigned by Excel based on
 ## See also
 
 
-#### Concepts
-
-
 [ValueChange Object](Excel.ValueChange.md)
 

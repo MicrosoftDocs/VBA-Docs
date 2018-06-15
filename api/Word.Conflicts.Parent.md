@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Conf
 ## See also
 
 
-#### Concepts
-
-
 [Conflicts Object](Word.Conflicts.md)
 

@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Interior Object](Word.Interior.md)
 

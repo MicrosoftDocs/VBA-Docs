@@ -26,7 +26,7 @@ Use  **[Points](Excel.Series.Points.md)** ( _index_ ), where _index_ is the poin
 Use the  **Points** method to return the **[Points](Excel.Points(object).md)** collection. The following example adds a data label to the last point on series one in embedded chart one on worksheet one.
 
 
-```
+```vb
 Dim pts As Points 
 Set pts = Worksheets(1).ChartObjects(1).Chart. _ 
  SeriesCollection(1).Points 
@@ -38,7 +38,7 @@ pts(pts.Count).ApplyDataLabels type:=xlShowValue
 
 
 
-```
+```vb
 Worksheets(1).ChartObjects(1).Chart. _ 
  SeriesCollection(1).Points(3).MarkerStyle = xlDiamond
 ```

@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Excel.Comment.md)
 

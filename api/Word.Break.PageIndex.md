@@ -36,8 +36,5 @@ ActiveDocument.ActiveWindow.Panes(1).Pages(1).Breaks(1).PageIndex
 ## See also
 
 
-#### Concepts
-
-
 [Break Object](Word.Break.md)
 

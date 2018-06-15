@@ -73,8 +73,5 @@ hypTemp.Follow NewWindow:=False, AddHistory:=True
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

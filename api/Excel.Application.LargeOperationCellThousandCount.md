@@ -26,8 +26,5 @@ Returns or sets the maximum number of cells needed in an operation beyond which 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

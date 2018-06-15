@@ -46,7 +46,7 @@ If no custom XML parts with this namespace exist, the method returns an empty  *
 The following example selects all of the custom XML parts matching the namespace and then selects a node from those parts that match an XPath expression.
 
 
-```
+```vb
 Dim cxp1 As CustomXMLParts 
 Dim cxn As CustomXMLNode 
  
@@ -60,9 +60,6 @@ Set cxn = cxp1(1).SelectSingleNode("//*[@supplierID = 1]")
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLParts Object](customxmlparts-object-office.md)

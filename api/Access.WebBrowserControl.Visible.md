@@ -33,8 +33,5 @@ You can use the  **Visible** property to hide a control on a form or report by i
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

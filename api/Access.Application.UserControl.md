@@ -53,8 +53,5 @@ MsgBox "The user started Access:  " &; Application.UserControl
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

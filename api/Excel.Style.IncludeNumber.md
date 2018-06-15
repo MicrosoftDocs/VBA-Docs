@@ -36,8 +36,5 @@ Worksheets("Sheet1").Range("A1").Style.IncludeNumber = True
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

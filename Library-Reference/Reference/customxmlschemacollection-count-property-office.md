@@ -31,9 +31,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLSchemaCollection Object](customxmlschemacollection-object-office.md)
 #### Other resources
 

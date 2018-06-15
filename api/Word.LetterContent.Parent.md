@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Lett
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

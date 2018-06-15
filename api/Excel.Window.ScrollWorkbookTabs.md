@@ -50,8 +50,5 @@ ActiveWindow.ScrollWorkbookTabs position:=xlLast
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

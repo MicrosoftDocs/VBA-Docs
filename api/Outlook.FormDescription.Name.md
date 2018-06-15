@@ -31,8 +31,5 @@ The  **Name** is also the caption for a form. This property must be set before y
 ## See also
 
 
-#### Concepts
-
-
 [FormDescription Object](Outlook.FormDescription.md)
 

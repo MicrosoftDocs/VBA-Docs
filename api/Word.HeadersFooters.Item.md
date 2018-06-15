@@ -61,8 +61,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [HeadersFooters Collection Object](Word.headersfooters.md)
 

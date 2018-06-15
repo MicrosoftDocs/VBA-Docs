@@ -37,8 +37,5 @@ Selection.Paragraphs.Format = paraFormat
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

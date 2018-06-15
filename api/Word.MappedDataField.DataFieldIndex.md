@@ -46,8 +46,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [MappedDataField Object](Word.MappedDataField.md)
 

@@ -31,8 +31,5 @@ Returns or sets the location of a single sparkline. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [Sparkline Object](Excel.Sparkline.md)
 

@@ -27,7 +27,7 @@ To reference a timeline object, use syntax similar to these code examples:
 
 
 
-```
+```vb
 ActivePresentation.Slides(1).TimeLine.MainSequence
 
 ActivePresentation.SlideMaster.TimeLine.InteractiveSequences

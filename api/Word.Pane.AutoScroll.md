@@ -60,8 +60,5 @@ ActiveDocument.ActiveWindow.ActivePane.AutoScroll _
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

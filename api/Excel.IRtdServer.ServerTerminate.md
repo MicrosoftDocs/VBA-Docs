@@ -26,8 +26,5 @@ Terminates the connection to the real-time data server.
 ## See also
 
 
-#### Concepts
-
-
 [IRtdServer Object](Excel.IRtdServer.md)
 

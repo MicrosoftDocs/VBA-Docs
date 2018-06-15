@@ -33,8 +33,5 @@ You can use the  **Session** property and the **[GetNamespace](Outlook.Applicati
 ## See also
 
 
-#### Concepts
-
-
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 

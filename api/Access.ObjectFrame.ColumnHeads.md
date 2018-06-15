@@ -47,8 +47,5 @@ Headings in combo boxes appear only when displaying the list in the control.
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

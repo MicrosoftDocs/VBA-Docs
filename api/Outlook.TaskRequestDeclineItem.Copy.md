@@ -26,8 +26,5 @@ Creates another instance of an object.
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

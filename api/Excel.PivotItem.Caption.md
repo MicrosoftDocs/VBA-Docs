@@ -53,8 +53,5 @@ When using the  **Item** property to reference a specific member of a collection
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

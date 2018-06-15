@@ -40,8 +40,5 @@ The setting of the  **ObjectPalette** property makes the palette of the applicat
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

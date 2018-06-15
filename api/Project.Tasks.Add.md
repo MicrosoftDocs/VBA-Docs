@@ -37,7 +37,4 @@ Adds a  **Task** object to a **Tasks** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Tasks Collection Object](Project.tasks(object).md)

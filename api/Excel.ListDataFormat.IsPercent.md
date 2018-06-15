@@ -51,8 +51,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [ListDataFormat Object](Excel.ListDataFormat.md)
 

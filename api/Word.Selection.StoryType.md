@@ -28,7 +28,7 @@ Returns the story type for the specified selection. Read-only  **WdStoryType** .
 This example returns the story type of the selection.
 
 
-```
+```vb
 story = Selection.StoryType
 ```
 
@@ -45,9 +45,6 @@ If Selection.StoryType = wdFootnotesStory Then _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

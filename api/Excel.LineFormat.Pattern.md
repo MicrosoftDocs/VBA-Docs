@@ -26,8 +26,5 @@ Returns or sets an  **[MsoPatternType](Excel.LineFormat.Pattern.md)** value that
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Excel.LineFormat.md)
 

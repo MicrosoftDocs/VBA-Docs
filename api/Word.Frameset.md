@@ -30,7 +30,7 @@ This example opens a file named "Proposal.doc," creates a frames page based on t
 
 
 
-```
+```vb
 Documents.Open "C:\My Documents\proposal.doc" 
 ActiveDocument.ActiveWindow.ActivePane.NewFrameset 
 ActiveDocument.ActiveWindow.ActivePane.TOCInFrameset

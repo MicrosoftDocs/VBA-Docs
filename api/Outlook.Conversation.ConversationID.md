@@ -33,8 +33,5 @@ This property corresponds with the MAPI property  **PidTagConversationId** .
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

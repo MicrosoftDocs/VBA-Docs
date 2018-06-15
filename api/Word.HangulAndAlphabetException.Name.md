@@ -26,8 +26,5 @@ Returns the name of the specified object. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [HangulAndAlphabetException Object](Word.HangulAndAlphabetException.md)
 

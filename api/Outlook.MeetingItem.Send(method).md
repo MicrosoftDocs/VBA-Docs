@@ -31,9 +31,6 @@ When you create a meeting request programmatically, you first create an  **[Appo
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 #### Other resources
 

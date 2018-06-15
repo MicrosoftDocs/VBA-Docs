@@ -47,8 +47,5 @@ Next c
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -47,9 +47,6 @@ MsoDocInspectorStatus members
 ## See also
 
 
-#### Concepts
-
-
 [IDocumentInspector Object](idocumentinspector-object-office.md)
 #### Other resources
 

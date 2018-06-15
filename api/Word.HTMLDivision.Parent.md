@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **HTML
 ## See also
 
 
-#### Concepts
-
-
 [HTMLDivision Object](Word.HTMLDivision.md)
 

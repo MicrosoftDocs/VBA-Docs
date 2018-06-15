@@ -44,8 +44,5 @@ MsgBox myDoc.Name
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

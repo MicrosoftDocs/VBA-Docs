@@ -87,8 +87,5 @@ If the control you move to on the subform previously had the focus, neither its 
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

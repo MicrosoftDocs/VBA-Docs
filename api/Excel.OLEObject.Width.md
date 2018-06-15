@@ -26,8 +26,5 @@ Returns or sets a  **Double** value that represents the width, in points, of the
 ## See also
 
 
-#### Concepts
-
-
 [OLEObject Object](Excel.OLEObject.md)
 

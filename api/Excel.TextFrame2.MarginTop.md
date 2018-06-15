@@ -23,8 +23,5 @@ Returns or sets the distance (in points) between the top of the text frame and t
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

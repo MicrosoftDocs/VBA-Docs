@@ -44,8 +44,5 @@ Occurs after the data in the control has been changed through the user interface
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

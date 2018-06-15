@@ -48,8 +48,5 @@ ActiveSheet.PivotTables(1).PivotField("Company") _
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

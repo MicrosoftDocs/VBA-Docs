@@ -31,8 +31,5 @@ This property returns the value of the  **[Subject](Outlook.PostItem.Subject.md)
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

@@ -42,8 +42,5 @@ The value of the  **HasChart** property can be one of these **MsoTriState** cons
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

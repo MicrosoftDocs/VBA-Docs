@@ -105,8 +105,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Columns Object](Outlook.Columns.md)
 

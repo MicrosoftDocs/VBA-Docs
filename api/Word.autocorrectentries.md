@@ -25,7 +25,7 @@ Use the  **[Add](Word.AutoCorrectEntries.Add.md)** or **[AddRichText](Word.AutoC
 
 
 
-```
+```vb
 AutoCorrect.Entries.Add Name:="thier", Value:="their"
 ```
 
@@ -34,7 +34,7 @@ The following example creates an AutoCorrect entry named "PMO" based on the text
 
 
 
-```
+```vb
 AutoCorrect.Entries.AddRichText Name:="PMO", Range:=Selection.Range
 ```
 
@@ -43,7 +43,7 @@ Use  **Entries** ( _index_ ), where _index_ is the AutoCorrect entry name or ind
 
 
 
-```
+```vb
 AutoCorrect.Entries("teh").Value = "the"
 ```
 

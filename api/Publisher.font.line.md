@@ -29,8 +29,5 @@ Returns a  [LineFormat](Publisher.LineFormat.md) object that specifies the forma
 ## See also
 
 
-#### Concepts
-
-
  [Font Object](Publisher.Font.md)
 

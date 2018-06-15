@@ -39,8 +39,5 @@ ListGallery
 ## See also
 
 
-#### Concepts
-
-
 [ListGalleries Collection Object](Word.listgalleries.md)
 

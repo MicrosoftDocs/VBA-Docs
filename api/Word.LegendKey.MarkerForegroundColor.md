@@ -31,8 +31,5 @@ Sets the marker foreground color as an RGB value or returns the corresponding co
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Word.LegendKey.md)
 

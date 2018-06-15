@@ -26,7 +26,7 @@ Represents a window.
 Use  **Windows** ( _index_ ), where _index_ is the window name or index number, to return a single **Window** object. The following example maximizes the active window.
 
 
-```
+```vb
 Windows(1).WindowState = xlMaximized
 ```
 
@@ -37,7 +37,7 @@ The window caption is the text shown in the title bar at the top of the window w
 
 
 
-```
+```vb
 Windows("book1.xls":1).DisplayGridlines = False
 ```
 

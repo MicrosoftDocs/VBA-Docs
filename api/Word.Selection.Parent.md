@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **[Sel
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

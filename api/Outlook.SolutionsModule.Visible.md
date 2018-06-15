@@ -31,8 +31,5 @@ If there are no solutions under the  **Solutions** module, setting or getting th
 ## See also
 
 
-#### Concepts
-
-
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 

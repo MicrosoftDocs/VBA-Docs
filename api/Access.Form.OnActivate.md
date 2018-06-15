@@ -54,8 +54,5 @@ Forms("Order Entry").OnActivate = "Activate_Macro"
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

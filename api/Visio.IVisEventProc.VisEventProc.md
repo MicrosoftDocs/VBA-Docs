@@ -54,7 +54,7 @@ From within  **VisEventProc** , you can use the following code to get the **Even
 
 
 
-```
+```vb
 pSourceObj. EventList.ItemFromID(nEventID )
 ```
 

@@ -33,7 +33,7 @@ Hyperlinks
 This example allows the user to update an outdated Internet address for all hyperlinks in the active presentation.
 
 
-```
+```vb
 oldAddr = InputBox("Old Internet address")
 
 newAddr = InputBox("New Internet address")
@@ -51,9 +51,6 @@ Next
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Master Object](PowerPoint.Master.md)

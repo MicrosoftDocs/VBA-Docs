@@ -31,8 +31,5 @@ This property is calculated from the  **[Recipients](Outlook.TaskItem.Recipients
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

@@ -33,7 +33,7 @@ The  **UserPermission** object associates a set of permissions on the active doc
 The following example lists the users who have permissions on the active document.
 
 
-```
+```vb
  Dim irmPermission As Office.Permission 
  Dim irmUserPerm As Office.UserPermission 
  Dim strUsers As String 
@@ -55,9 +55,6 @@ The following example lists the users who have permissions on the active documen
 
 
 ## See also
-
-
-#### Concepts
 
 
 [UserPermission Object](userpermission-object-office.md)

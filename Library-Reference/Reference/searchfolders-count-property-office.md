@@ -31,9 +31,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [SearchFolders Object](searchfolders-object-office.md)
 #### Other resources
 

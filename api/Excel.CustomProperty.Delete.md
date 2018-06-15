@@ -31,8 +31,5 @@ You can delete custom document properties, but you cannot delete a built-in docu
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperty Object](Excel.CustomProperty.md)
 

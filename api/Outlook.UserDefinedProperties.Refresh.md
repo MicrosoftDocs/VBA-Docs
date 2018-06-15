@@ -26,8 +26,5 @@ Refreshes the contents of the collection from the store, retrieving any changes 
 ## See also
 
 
-#### Concepts
-
-
 [UserDefinedProperties Object](Outlook.UserDefinedProperties.md)
 

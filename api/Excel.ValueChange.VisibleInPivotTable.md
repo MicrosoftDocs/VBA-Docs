@@ -36,8 +36,5 @@ Return  **True** if the cell (tuple) is currently visible in the PivotTable repo
 ## See also
 
 
-#### Concepts
-
-
 [ValueChange Object](Excel.ValueChange.md)
 

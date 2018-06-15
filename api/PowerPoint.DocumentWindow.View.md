@@ -26,9 +26,6 @@ Returns a  **[View](PowerPoint.View.md)** object that represents the view in the
 ## See also
 
 
-#### Concepts
-
-
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 

@@ -23,9 +23,6 @@ Returns a  **ThreeDFormat** object that represents the three-dimensional formatt
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](textframe2-object-office.md)
 #### Other resources
 

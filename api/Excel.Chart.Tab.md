@@ -26,8 +26,5 @@ Returns a  **[Tab](Excel.Tab.md)** object for a chart.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

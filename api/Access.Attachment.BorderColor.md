@@ -35,8 +35,5 @@ A control's border color is visible only when its  **SpecialEffect** property is
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

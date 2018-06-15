@@ -28,7 +28,7 @@ Use the  **[Add](Excel.Slicers.Add.md)** method to add a **Slicer** object to th
 The following code example changes the caption for the first slicer in the first slicer cache to "My Slicer".
 
 
-```
+```vb
 ActiveWorkbook.SlicerCaches(1).Slicers(1).Caption = "My Slicer"
 ```
 
@@ -37,7 +37,7 @@ The following code example sets the width of the first slicer in the first slice
 
 
 
-```
+```vb
 ActiveWorkbook.SlicerCaches(1).Slicers(1).Width = 200
 ```
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the argument index of this component relativ
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

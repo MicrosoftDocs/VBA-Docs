@@ -33,8 +33,5 @@ If  **true** , the specified item is in conflict.
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -40,8 +40,5 @@ A  **ViewField** object that represents the new view field.
 ## See also
 
 
-#### Concepts
-
-
 [ViewFields Object](Outlook.ViewFields.md)
 

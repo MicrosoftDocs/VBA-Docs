@@ -25,7 +25,7 @@ Returns or sets the primary color of the Border object, Font object, or the Inte
 This example sets the color of the tick-mark labels on the value axis.
 
 
-```
+```vb
 myChart.Axes(xlValue).TickLabels.Font.Color = RGB(0, 255, 0)
 ```
 

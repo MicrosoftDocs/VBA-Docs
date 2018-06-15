@@ -36,8 +36,5 @@ The property name is passed to the event so that you can determine which propert
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

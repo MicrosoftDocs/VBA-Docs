@@ -45,8 +45,5 @@ ActiveWorkbook.Windows("Consolidated Balance Sheet") _
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -38,8 +38,5 @@ Set objPermission = ActiveDocument.Permission
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

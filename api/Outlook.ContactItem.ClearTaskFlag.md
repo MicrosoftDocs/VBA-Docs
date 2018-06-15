@@ -31,8 +31,5 @@ Calling this method sets the  **[IsMarkedAsTask](Outlook.ContactItem.IsMarkedAsT
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

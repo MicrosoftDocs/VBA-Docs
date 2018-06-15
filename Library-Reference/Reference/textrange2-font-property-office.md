@@ -30,7 +30,7 @@ Font
 This example sets the formatting for the text in shape one on slide one in the active PowerPoint presentation.
 
 
-```
+```vb
 With ActivePresentation.Slides(1).Shapes(1) 
  With .TextFrame.TextRange2.Font 
  .Size = 48 
@@ -43,9 +43,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextRange2 Object](textrange2-object-office.md)

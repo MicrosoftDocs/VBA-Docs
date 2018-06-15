@@ -49,7 +49,7 @@ For  **Master** objects _SID_SRCStream()_ should be a one-dimensional array of 4
 
 
 
-```
+```vb
 {sheetID, sectionIdx, rowIdx, cellIdx }n
 ```
 

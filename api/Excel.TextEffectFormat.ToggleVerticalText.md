@@ -49,8 +49,5 @@ newWordArt.TextEffect.ToggleVerticalText
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 

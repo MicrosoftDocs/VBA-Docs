@@ -48,8 +48,5 @@ If you want to sort paragraphs within a table cell, include only the paragraphs 
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Word.Column.md)
 

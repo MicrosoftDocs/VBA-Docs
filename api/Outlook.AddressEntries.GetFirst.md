@@ -36,8 +36,5 @@ Returns  **Nothing** if no first object exists, for example, if there are no obj
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntries Object](Outlook.AddressEntries.md)
 

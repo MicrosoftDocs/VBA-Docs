@@ -34,8 +34,5 @@ Displaying crop marks does not allow a user to change the margins by dragging th
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

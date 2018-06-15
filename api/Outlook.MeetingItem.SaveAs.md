@@ -40,8 +40,5 @@ Also note that even though  **olDoc** is a valid **OlSaveAsType** constant, mess
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

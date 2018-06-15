@@ -16,7 +16,7 @@ A collection of  **[Border](Word.Border.md)** objects that represent the borders
 Use the  **Borders** property to return the **Borders** collection. The following example applies the default border around the first paragraph in the active document.
 
 
-```
+```vb
 ActiveDocument.Paragraphs(1).Borders.Enable = True
 ```
 
@@ -29,7 +29,7 @@ Use the  **[LineStyle](Word.Border.LineStyle.md)** property to apply a border li
 
 
 
-```
+```vb
 With ActiveDocument.Paragraphs(1).Borders(wdBorderBottom) 
  .LineStyle = wdLineStyleDouble 
  .LineWidth = wdLineWidth025pt 
@@ -41,7 +41,7 @@ The following example applies a single-line border around the first character in
 
 
 
-```
+```vb
 With Selection.Characters(1) 
  .Font.Size = 36 
  .Borders.Enable = True 
@@ -53,7 +53,7 @@ The following example adds an art border around each page in the first section.
 
 
 
-```
+```vb
 For Each aBorder In ActiveDocument.Sections(1).Borders 
  With aBorder 
  .ArtStyle = wdArtSeattle 

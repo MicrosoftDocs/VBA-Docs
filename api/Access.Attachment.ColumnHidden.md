@@ -37,8 +37,5 @@ Hiding a column with the  **ColumnHidden** property in Datasheet view doesn't hi
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

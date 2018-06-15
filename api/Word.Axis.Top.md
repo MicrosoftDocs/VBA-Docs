@@ -26,8 +26,5 @@ Returns the distance, in points, from the top edge of the object to the top of r
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Word.Axis.md)
 

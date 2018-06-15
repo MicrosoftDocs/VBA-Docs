@@ -35,8 +35,5 @@ Objects that use a deleted connection behave as if the connection could not be e
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

@@ -26,8 +26,5 @@ Gets or sets whether the filter specified by the  **[Filter](Access.Form.Filter(
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

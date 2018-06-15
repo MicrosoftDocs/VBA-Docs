@@ -50,8 +50,5 @@ The aggregation parameter ( _Arg4_) is a numeric value specifying the method to 
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

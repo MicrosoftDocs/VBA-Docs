@@ -25,7 +25,7 @@ Gets or sets the subproject name for the task. Read/write  **String**.
 The following line of code inserts the specified project as a subproject for the task. If the project is not found, it displays a file dialog box with the title  **Cannot find inserted project - C:\Project\MySubProject.mpp**.
 
 
-```
+```vb
 activecell.Task.SubProject = "C:\Project\MySubProject.mpp"
 ```
 

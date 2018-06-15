@@ -77,8 +77,5 @@ If a modal dialog box is displayed as a result of pressing or sending a key, the
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

@@ -31,8 +31,5 @@ For information about returning a single member of a collection, see [Returning 
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

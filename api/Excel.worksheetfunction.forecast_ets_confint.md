@@ -57,8 +57,5 @@ The aggregation parameter ( _Arg7_) is a numeric value specifying the method to 
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

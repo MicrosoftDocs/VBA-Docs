@@ -41,8 +41,5 @@ Application.VBE.ActiveVBProject.Name = "TestProject"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

@@ -26,8 +26,5 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 ## See also
 
 
-#### Concepts
-
-
 [ReportItem Object](Outlook.ReportItem.md)
 

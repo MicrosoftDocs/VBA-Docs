@@ -31,8 +31,5 @@ You can use the  **FindNext** method to find the next record that meets the crit
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

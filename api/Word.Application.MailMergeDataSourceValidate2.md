@@ -43,8 +43,5 @@ If you do not have address verification software installed on your computer, the
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

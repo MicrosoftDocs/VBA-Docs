@@ -21,7 +21,7 @@ Represents the collection of  **[Hyperlink](Publisher.Hyperlink.md)** objects in
 Use the  **[Hyperlinks](http://msdn.microsoft.com/library/0cf1f043-532c-3ffc-67cf-389adc5ac02f%28Office.15%29.aspx)** property to return the **Hyperlinks** collection. The following example deletes all text hyperlinks in the active publication that contain the word "Tailspin" in the address.
 
 
-```
+```vb
 Sub DeleteMSHyperlinks() 
  Dim pgsPage As Page 
  Dim shpShape As Shape 
@@ -50,7 +50,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/f5a8cc01-a571-623d-bfab-fe48e
 
 
 
-```
+```vb
 Sub AddHyperlink() 
  Selection.TextRange.Hyperlinks.Add Text:=Selection.TextRange, _ 
  Address:="http://www.tailspintoys.com/" 
@@ -62,7 +62,7 @@ Use  **Hyperlinks** (index), where index is the index number, to return a single
 
 
 
-```
+```vb
 Sub DisplayHyperlinkAddress() 
  With Selection.TextRange.Hyperlinks 
  If .Count > 0 Then _ 

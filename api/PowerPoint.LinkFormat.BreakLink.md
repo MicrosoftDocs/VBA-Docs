@@ -67,8 +67,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](PowerPoint.LinkFormat.md)
 

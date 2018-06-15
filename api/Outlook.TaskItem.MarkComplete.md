@@ -31,8 +31,5 @@ Marks the task as completed.
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

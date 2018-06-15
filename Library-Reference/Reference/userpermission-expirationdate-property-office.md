@@ -36,9 +36,6 @@ The  **UserPermission** object associates a set of permissions on the active doc
 ## See also
 
 
-#### Concepts
-
-
 [UserPermission Object](userpermission-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns or sets a  **WdIndexFormat** that represents the formatting for the inde
 ## See also
 
 
-#### Concepts
-
-
 [Indexes Collection Object](Word.indexes.md)
 

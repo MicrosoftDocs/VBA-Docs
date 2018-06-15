@@ -55,8 +55,5 @@ Worksheets("Sheet1").Range("A1").Consolidate _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

@@ -39,8 +39,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [RecentFile Object](Word.RecentFile.md)
 

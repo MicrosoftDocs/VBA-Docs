@@ -59,8 +59,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 

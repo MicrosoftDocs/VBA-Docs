@@ -33,8 +33,5 @@ You cannot use digits in an accelerator.
 ## See also
 
 
-#### Concepts
-
-
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

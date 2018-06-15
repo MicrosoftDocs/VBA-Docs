@@ -26,8 +26,5 @@ Returns a  **String** that represents the XPath for the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [XPath Object](Excel.XPath.md)
 

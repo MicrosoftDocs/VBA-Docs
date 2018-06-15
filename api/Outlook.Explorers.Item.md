@@ -39,8 +39,5 @@ An  **Explorer** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Explorers Object](Outlook.Explorers.md)
 

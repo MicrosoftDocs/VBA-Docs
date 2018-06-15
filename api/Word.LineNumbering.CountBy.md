@@ -45,8 +45,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [LineNumbering Object](Word.LineNumbering.md)
 

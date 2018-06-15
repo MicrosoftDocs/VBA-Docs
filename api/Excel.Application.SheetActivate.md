@@ -34,8 +34,5 @@ Occurs when any sheet is activated.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

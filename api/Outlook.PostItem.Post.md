@@ -31,8 +31,5 @@ Sends (posts) the  **[PostItem](Outlook.PostItem.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

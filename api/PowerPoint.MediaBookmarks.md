@@ -19,8 +19,5 @@ A collection of [MediaBookmark](PowerPoint.MediaBookmark.md) objects.
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

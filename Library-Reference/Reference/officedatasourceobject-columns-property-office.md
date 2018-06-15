@@ -28,7 +28,7 @@ Gets an  **ODSOColumns** object that represents the fields in a data source. Rea
 The following example displays the field names in the data source attached to the active publication.
 
 
-```
+```vb
 Sub ShowFieldNames() 
  Dim appOffice As OfficeDataSourceObject 
  Dim intCount As Integer 
@@ -47,9 +47,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [OfficeDataSourceObject Object](officedatasourceobject-object-office.md)

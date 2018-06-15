@@ -28,7 +28,4 @@ The  `Profiles.ActiveProfile` statement returns the name of the current account 
 ## See also
 
 
-#### Concepts
-
-
 [Profiles Collection Object](Project.profiles.md)

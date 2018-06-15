@@ -26,8 +26,5 @@ Returns a  **Long** value, containing a **[MsoHyperlinkType](http://msdn.microso
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

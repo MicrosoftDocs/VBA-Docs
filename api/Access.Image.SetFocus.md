@@ -60,8 +60,5 @@ Forms!Employees!EmployeeID.SetFocus
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

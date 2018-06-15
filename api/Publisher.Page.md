@@ -21,7 +21,7 @@ Represents a page in a publication. The  **[Pages](http://msdn.microsoft.com/lib
 Use  **Pages** (index) to return a single **Page** object. The following example adds new text to the first shape on the first page in the active publication.
 
 
-```
+```vb
 Sub AddPageNumberField() 
  With ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange 
  .InsertAfter " This text is added after the existing text." 
@@ -35,7 +35,7 @@ Use the  **[FindBypageID](http://msdn.microsoft.com/library/23ff5e69-33b1-e394-9
 
 
 
-```
+```vb
 Sub FindPage() 
  Dim lngPageID As Long 
  

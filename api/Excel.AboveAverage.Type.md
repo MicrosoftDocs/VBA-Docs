@@ -31,8 +31,5 @@ This property will always return a  **Long** value of "12", which is equivalent 
 ## See also
 
 
-#### Concepts
-
-
 [AboveAverage Object](Excel.AboveAverage.md)
 

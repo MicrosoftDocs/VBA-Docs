@@ -109,8 +109,5 @@ objCustomControl.XMLMapping.SetMappingByNode objCustomNode
 ## See also
 
 
-#### Concepts
-
-
 [XMLMapping Object](Word.XMLMapping.md)
 

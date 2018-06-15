@@ -46,7 +46,7 @@ This example changes the current folder to the path of the template attached to 
 
 
 
-```
+```vb
 ChDir ActiveDocument.AttachedTemplate.Path
 ```
 
@@ -61,9 +61,6 @@ If AddIns.Count >= 1 Then MsgBox AddIns(1).Path
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

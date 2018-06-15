@@ -21,7 +21,7 @@ Represents timing information about a slide animation.
 Use the [AddEffect](http://msdn.microsoft.com/library/fea5ac1e-83ae-2241-bf3a-8cfdd8354791%28Office.15%29.aspx)method to add an effect. This example adds a shape to the first slide in the active presentation and adds an effect and a behavior to the shape.
 
 
-```
+```vb
 Sub NewShapeAndEffect()
 
     Dim shpStar As Shape
@@ -68,7 +68,7 @@ To refer to an existing  **Effect** object, use **[MainSequence](http://msdn.mic
 
 
 
-```
+```vb
 Sub ChangeEffect()
 
     With ActivePresentation.Slides(1).TimeLine _

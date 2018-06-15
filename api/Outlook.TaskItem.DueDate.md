@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the due date for the task. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

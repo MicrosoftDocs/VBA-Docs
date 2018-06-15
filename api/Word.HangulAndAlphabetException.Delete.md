@@ -26,8 +26,5 @@ Deletes the specified exception.
 ## See also
 
 
-#### Concepts
-
-
 [HangulAndAlphabetException Object](Word.HangulAndAlphabetException.md)
 

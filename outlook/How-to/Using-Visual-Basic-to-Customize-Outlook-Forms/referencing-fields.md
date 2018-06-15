@@ -20,7 +20,7 @@ For example, to retrieve the text from the Subject field of a mail message, you 
 
 
 
-```
+```vb
 mySubject = Item.Subject
 ```
 
@@ -28,7 +28,7 @@ If the field is a custom (user-defined) field, you access it using the  **UserPr
 
 
 
-```
+```vb
 MyReferral = Item.UserProperties("ReferredBy")
 ```
 

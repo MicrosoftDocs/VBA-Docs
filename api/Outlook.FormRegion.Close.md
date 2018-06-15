@@ -26,8 +26,5 @@ Represents the closing of the frame for a form region, which occurs just before 
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

@@ -34,8 +34,5 @@ The setting of  **CloudSignInOption** corresponds to that of the **Show addition
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

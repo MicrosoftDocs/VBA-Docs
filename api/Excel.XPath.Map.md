@@ -26,8 +26,5 @@ Returns an  **[XmlMap](Excel.XmlMap.md)** object that represents the schema map 
 ## See also
 
 
-#### Concepts
-
-
 [XPath Object](Excel.XPath.md)
 

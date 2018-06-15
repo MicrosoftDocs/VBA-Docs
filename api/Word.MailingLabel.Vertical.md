@@ -41,8 +41,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [MailingLabel Object](Word.MailingLabel.md)
 

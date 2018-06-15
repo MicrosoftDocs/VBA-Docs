@@ -52,9 +52,6 @@ Application.Windows(1).BlackAndWhite = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
 

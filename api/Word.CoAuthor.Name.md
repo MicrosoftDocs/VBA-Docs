@@ -38,8 +38,5 @@ coAuth.Name &; "."
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthor Object](Word.CoAuthor.md)
 

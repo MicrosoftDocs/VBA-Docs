@@ -26,8 +26,5 @@ Returns the type of axis group. Read-only  **[XlAxisGroup](Word.xlaxisgroup.md)*
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Word.Axis.md)
 

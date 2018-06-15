@@ -31,8 +31,5 @@ The key can either be a range name (String) or a  **Range** object.
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

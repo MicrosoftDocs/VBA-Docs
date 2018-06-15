@@ -26,8 +26,5 @@ Returns or sets a  **[MsoShadowType](http://msdn.microsoft.com/library/736e847a-
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Excel.ShadowFormat.md)
 

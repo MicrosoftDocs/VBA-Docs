@@ -31,8 +31,5 @@ To set this property, specify the local name of the style, an integer, a  **WdBu
 ## See also
 
 
-#### Concepts
-
-
 [HeadingStyle Object](Word.HeadingStyle.md)
 

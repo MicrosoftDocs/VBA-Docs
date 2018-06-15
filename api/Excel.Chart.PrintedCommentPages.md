@@ -36,8 +36,5 @@ Because charts and chart sheets do not support comments, the  **PrintedCommentPa
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

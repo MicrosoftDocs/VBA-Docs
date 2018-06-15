@@ -52,8 +52,5 @@ ActiveDocument.Tables(1).AutoFitBehavior _
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

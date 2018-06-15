@@ -54,8 +54,5 @@ Forms("Order Entry").Controls("OK").OnExit = "Exit_Macro"
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

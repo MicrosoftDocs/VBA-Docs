@@ -37,8 +37,5 @@ myDocument.Shapes.SelectAll
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

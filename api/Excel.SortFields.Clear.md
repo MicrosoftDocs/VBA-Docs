@@ -26,8 +26,5 @@ Clears all the  **[SortFields](Excel.SortFields.md)** objects.
 ## See also
 
 
-#### Concepts
-
-
 [SortFields Object](Excel.SortFields.md)
 

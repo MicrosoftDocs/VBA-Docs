@@ -23,8 +23,5 @@ Copies the object to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](PowerPoint.ChartArea.md)
 

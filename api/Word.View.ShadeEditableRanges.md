@@ -41,8 +41,5 @@ ActiveWindow.View.ShadeEditableRanges = True
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

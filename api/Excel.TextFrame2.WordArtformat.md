@@ -23,8 +23,5 @@ Returns or sets the Word Art type for the specified text frame. Read/write  **[M
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

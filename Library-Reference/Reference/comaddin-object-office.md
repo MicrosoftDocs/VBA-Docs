@@ -21,7 +21,7 @@ Represents a COM add-in in the Microsoft Office host application. The  **COMAddI
 Use  **COMAddIns.Item(index)**, where _index_ is either an ordinal value that returns the COM add-in at that position in the **COMAddIns** collection, or a **String** value that represents the ProgID of the specified COM add-in. The following example displays a COM add-in's description text in a message box.
 
 
-```
+```vb
 MsgBox Application.COMAddIns.Item("msodraa9.ShapeSelect").Description
 ```
 
@@ -30,7 +30,7 @@ Use the  **ProgID** property of the **COMAddin** object to return the programmat
 
 
 
-```
+```vb
 MsgBox "My ProgID is " &amp; _ 
  Application.COMAddIns(1).ProgID &amp; _ 
  " and my GUID is " &amp; _ 
@@ -42,7 +42,7 @@ Use the  **Connect** property to set or return the state of the connection to a 
 
 
 
-```
+```vb
 If Application.COMAddIns(1).Connect Then 
  MsgBox "The add-in is connected." 
 Else 
@@ -52,9 +52,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

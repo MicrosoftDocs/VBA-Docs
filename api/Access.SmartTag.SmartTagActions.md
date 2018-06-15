@@ -31,8 +31,5 @@ Smart tag actions are processes that are programmed into smart tags that allow u
 ## See also
 
 
-#### Concepts
-
-
 [SmartTag Object](Access.SmartTag.md)
 

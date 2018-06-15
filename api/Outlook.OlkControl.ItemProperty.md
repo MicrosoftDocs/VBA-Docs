@@ -26,8 +26,5 @@ Returns or sets a  **String** that specifies the name of the property in the Out
 ## See also
 
 
-#### Concepts
-
-
 [OlkControl Class](Outlook.olkcontrol.md)
 

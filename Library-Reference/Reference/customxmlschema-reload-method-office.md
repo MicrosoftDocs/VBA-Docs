@@ -33,7 +33,7 @@ Typically, this method is used to update the location of the schema or to determ
 The following example specifies the location of the schema and then reloads it.
 
 
-```
+```vb
 Dim objCustomXMLSchema As  CustomXMLSchema 
 Dim strSchemaLocation As String 
 ' Set the location of the schema.. 
@@ -46,9 +46,6 @@ objCustomXMLSchema.Reload
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLSchema Object](customxmlschema-object-office.md)

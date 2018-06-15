@@ -42,8 +42,5 @@ Selection.Comments.Add Range:=Selection.Range, Text:="Approved"
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

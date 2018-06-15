@@ -31,8 +31,5 @@ This property returns  **olContactsModule** for the **[ContactsModule](Outlook.C
 ## See also
 
 
-#### Concepts
-
-
 [ContactsModule Object](Outlook.ContactsModule.md)
 

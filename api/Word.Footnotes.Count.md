@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of footnotes in the collection. R
 ## See also
 
 
-#### Concepts
-
-
 [Footnotes Collection Object](Word.footnotes.md)
 

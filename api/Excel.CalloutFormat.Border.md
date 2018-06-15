@@ -38,8 +38,5 @@ The value of this property can be set to one of the following  **MsoTriState** c
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Excel.CalloutFormat.md)
 

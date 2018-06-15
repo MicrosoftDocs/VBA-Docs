@@ -31,8 +31,5 @@ Some methods and properties may be unavailable if the  **Visible** property is *
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

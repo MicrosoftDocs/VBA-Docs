@@ -31,8 +31,5 @@ Some of these constants may not be available to you, depending on the language s
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Excel.TextFrame.md)
 

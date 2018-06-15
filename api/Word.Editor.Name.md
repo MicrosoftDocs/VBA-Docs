@@ -26,8 +26,5 @@ Returns or sets the name of the specified object. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [Editor Object](Word.Editor.md)
 

@@ -90,8 +90,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

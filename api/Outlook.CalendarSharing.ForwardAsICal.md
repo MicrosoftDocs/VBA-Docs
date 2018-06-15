@@ -49,8 +49,5 @@ The  **ForwardAsICal** method provides a single method by which you can use payl
 ## See also
 
 
-#### Concepts
-
-
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 

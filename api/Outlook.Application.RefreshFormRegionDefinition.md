@@ -43,8 +43,5 @@ For more information about registering form regions, see [Specifying Form Region
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

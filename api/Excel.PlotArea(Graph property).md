@@ -21,7 +21,7 @@ Returns a  **[PlotArea](Excel.PlotArea(Graph object).md)** object that represent
 This example sets the color of the plot area interior of  `myChart` to cyan.
 
 
-```
+```vb
 myChart.PlotArea.Interior.ColorIndex = 8
 ```
 

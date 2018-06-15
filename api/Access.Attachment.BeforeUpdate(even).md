@@ -69,8 +69,5 @@ A run-time error will occur if you attempt to modify the data contained in the c
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

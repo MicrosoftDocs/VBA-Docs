@@ -39,8 +39,5 @@ AnimationPoint
 ## See also
 
 
-#### Concepts
-
-
 [AnimationPoints Object](PowerPoint.AnimationPoints.md)
 

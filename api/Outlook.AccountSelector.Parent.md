@@ -31,8 +31,5 @@ The parent of the  **AccountSelector** object returns an **[Explorer](Outlook.Ex
 ## See also
 
 
-#### Concepts
-
-
 [AccountSelector Object](Outlook.AccountSelector.md)
 

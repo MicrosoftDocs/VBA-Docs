@@ -26,8 +26,5 @@ You can use the  **AllFunctions** property to reference the **[AllFunctions](Acc
 ## See also
 
 
-#### Concepts
-
-
 [CurrentData Object](Access.CurrentData.md)
 

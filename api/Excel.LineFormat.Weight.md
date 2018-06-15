@@ -26,8 +26,5 @@ Returns or sets a  **Single** value that represents the weight of the line.
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Excel.LineFormat.md)
 

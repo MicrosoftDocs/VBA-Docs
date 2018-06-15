@@ -39,8 +39,5 @@ myShape.Shadow.Type = msoShadow5
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

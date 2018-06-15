@@ -44,8 +44,5 @@ Application.ActivateMicrosoftApp xlMicrosoftWord
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

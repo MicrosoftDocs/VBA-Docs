@@ -26,8 +26,5 @@ Returns or sets a  **[NavigationModule](Outlook.NavigationModule.md)** object th
 ## See also
 
 
-#### Concepts
-
-
 [NavigationPane Object](Outlook.NavigationPane.md)
 

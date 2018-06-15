@@ -34,8 +34,5 @@ Closes and optionally saves changes to the Outlook item.
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

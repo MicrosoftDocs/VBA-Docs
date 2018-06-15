@@ -28,7 +28,7 @@ Use the  **[GetAssociatedAppointment](http://msdn.microsoft.com/library/8344d40d
 The following example uses the  **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create an appointment. It becomes a **MeetingItem** with both a required and an optional attendee when it is received in the inbox of each of the recipients.
 
 
-```
+```vb
 Set myItem = myOlApp.CreateItem(olAppointmentItem) 
  
 myItem.MeetingStatus = olMeeting 

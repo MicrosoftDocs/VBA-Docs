@@ -34,9 +34,6 @@ The Microsoft SharePoint Team Services user interface allows users to copy a pub
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspace Object](sharedworkspace-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Deletes the specified table of contents.
 ## See also
 
 
-#### Concepts
-
-
 [TableOfContents Object](Word.TableOfContents.md)
 

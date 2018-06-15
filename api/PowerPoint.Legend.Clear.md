@@ -23,8 +23,5 @@ Clears the entire object.
 ## See also
 
 
-#### Concepts
-
-
 [Legend Object](PowerPoint.Legend.md)
 

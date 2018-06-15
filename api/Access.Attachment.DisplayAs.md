@@ -26,8 +26,5 @@ Gets or sets an  **[AcDisplayAs](Access.AcDisplayAs.md)** constant that specifie
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

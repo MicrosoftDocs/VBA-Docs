@@ -43,8 +43,5 @@ bytSelection = Selection.EnhMetaFileBits
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

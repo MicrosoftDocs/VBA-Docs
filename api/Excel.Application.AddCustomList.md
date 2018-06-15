@@ -53,8 +53,5 @@ On Error Goto 0       ' resume regular error handling
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -29,8 +29,5 @@ Returns or sets the auto shape type of the specified object. Read-write [MSOAuto
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Word.ChartFormat.md)
 

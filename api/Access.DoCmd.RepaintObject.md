@@ -54,8 +54,5 @@ DoCmd.RepaintObject acTable, "Customers"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

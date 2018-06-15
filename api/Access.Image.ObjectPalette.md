@@ -38,8 +38,5 @@ The setting of the  **ObjectPalette** property makes the palette of the applicat
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

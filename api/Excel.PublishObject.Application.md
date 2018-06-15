@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [PublishObject Object](Excel.PublishObject.md)
 

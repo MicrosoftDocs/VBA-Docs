@@ -47,8 +47,5 @@ Selection.Paragraphs.Format = myDup
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

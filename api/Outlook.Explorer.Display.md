@@ -33,8 +33,5 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

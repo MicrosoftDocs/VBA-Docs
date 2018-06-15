@@ -31,8 +31,5 @@ The default value is  **olBackStyleOpaque** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

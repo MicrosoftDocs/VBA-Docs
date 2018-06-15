@@ -44,8 +44,5 @@ If fldTemp.Type = wdFieldGoToButton Then fldTemp.DoClick
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

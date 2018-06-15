@@ -29,8 +29,5 @@ Returns the active document to the last saved reading position, and returns an i
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

@@ -33,8 +33,5 @@ If  **BccLabel** is not set, then the default value will be the localized string
 ## See also
 
 
-#### Concepts
-
-
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

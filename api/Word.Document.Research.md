@@ -26,8 +26,5 @@ Returns a  **Research** object that represents the research service for a docume
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

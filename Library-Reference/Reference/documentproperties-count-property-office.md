@@ -41,7 +41,7 @@ Long
 This example displays the number of custom document properties in the active document.
 
 
-```
+```vb
 MsgBox ("There are " &amp; _ 
  ActiveDocument.CustomDocumentProperties.Count &amp; _ 
  " custom document properties in the " &amp; _ 
@@ -50,9 +50,6 @@ MsgBox ("There are " &amp; _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentProperties Object](documentproperties-object-office.md)

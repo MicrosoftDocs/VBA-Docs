@@ -41,9 +41,6 @@ Returns the list of the user's last fifteen blog posts that Microsoft Word then 
 ## See also
 
 
-#### Concepts
-
-
 [IBlogExtensibility Object](iblogextensibility-object-office.md)
 #### Other resources
 

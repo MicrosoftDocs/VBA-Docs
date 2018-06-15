@@ -40,8 +40,5 @@ myRange.Paste
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

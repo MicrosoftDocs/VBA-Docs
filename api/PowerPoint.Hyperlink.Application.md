@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 

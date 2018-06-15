@@ -26,7 +26,7 @@ Use the  **[SeriesCollection](Excel.Chart.SeriesCollection.md)** method to retur
  The following example adds the data in cells C1:C10 on worksheet one to an existing series in the series collection in embedded chart one.
 
 
-```
+```vb
 Worksheets(1).ChartObjects(1).Chart. _ 
  SeriesCollection.Extend Worksheets(1).Range("c1:c10")
 ```
@@ -36,7 +36,7 @@ Use the  **[Add](Excel.SeriesCollection.Add.md)** method to create a new series 
 
 
 
-```
+```vb
 Charts("chart1").SeriesCollection.Add _ 
  source:=Worksheets("sheet1").Range("a1:a19")
 ```
@@ -46,7 +46,7 @@ Use  **SeriesCollection** ( _index_ ), where _index_ is the series index number 
 
 
 
-```
+```vb
 Worksheets("sheet1").ChartObjects(1).Chart. _ 
  SeriesCollection(1).Interior.Color = RGB(255, 0, 0)
 ```

@@ -33,7 +33,7 @@ Single
 This example arranges windows one and two horizontally; in other words, each window occupies half the available vertical space and all the available horizontal space in the application window's client area. For this example to work, there must be only two document windows open.
 
 
-```
+```vb
 Windows.Arrange ppArrangeTiled
 
 sngHeight = Windows(1).Height                     ' available height
@@ -65,9 +65,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)

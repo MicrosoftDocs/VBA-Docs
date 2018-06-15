@@ -94,7 +94,7 @@ Copy the code into a file in a text editor, and save the resulting document as a
 
 
 
-```HTML
+```vbHTML
 <html>
 <OBJECT id="DrawingControl1"
     height=400 
@@ -139,7 +139,7 @@ In your Visual Studio project, in the Form1.cs file, add the following code to i
 
 
 
-```
+```vb
 <code language="CS" type="developer">public partial class Form1 : Form
     {
         private AxVisioViewer.AxViewer viewer;

@@ -51,8 +51,5 @@ ActiveCell.Phonetics.Visible = True
 ## See also
 
 
-#### Concepts
-
-
 [Phonetics Object](Excel.Phonetics.md)
 

@@ -74,15 +74,12 @@ The following are the modified properties that are visible in the following XML 
 
 
 
-```XML
+```vbXML
 <heading>Flag Status</heading>     <prop>http://schemas.microsoft.com/mapi/proptag/0x10900003</prop>     <type>i4</type>     <bitmap>1</bitmap>     <style>padding-left:3px;text-align:center;padding-left:3px</style> </column> <column>     <format>boolicon</format>     <heading>Attachment</heading>     <prop>urn:schemas:httpmail:hasattachment</prop>     <type>boolean</type>     <bitmap>1</bitmap>     <style>padding-left:3px;text-align:center;padding-left:3px</style>     <displayformat>3</displayformat> </column>
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [View Object](Outlook.View.md)

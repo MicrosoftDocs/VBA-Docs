@@ -26,8 +26,5 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 ## See also
 
 
-#### Concepts
-
-
 [Source Object](Word.Source.md)
 

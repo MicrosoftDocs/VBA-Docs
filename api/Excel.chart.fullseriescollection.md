@@ -42,8 +42,5 @@ Enables retrieving the filtered out series specified by the Index argument.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

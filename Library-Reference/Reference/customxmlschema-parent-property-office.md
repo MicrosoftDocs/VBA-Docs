@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLSchema Object](customxmlschema-object-office.md)
 #### Other resources
 

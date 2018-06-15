@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that is **True** to not age the Outlook ite
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

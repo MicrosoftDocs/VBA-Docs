@@ -38,7 +38,7 @@ Not all document synchronization problems raise trappable run-time errors. After
 The following example resumes document synchronization if it has been suspended.
 
 
-```
+```vb
     Dim objSync As Office.Sync 
     Set objSync = ActiveDocument.Sync 
     If objSync.Status = msoSyncStatusSuspended Then 
@@ -52,9 +52,6 @@ The following example resumes document synchronization if it has been suspended.
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Sync Object](sync-object-office.md)

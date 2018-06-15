@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the SQL Server owner name of the record
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

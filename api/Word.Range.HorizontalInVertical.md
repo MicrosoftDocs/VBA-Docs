@@ -28,15 +28,12 @@ Returns or sets the formatting for horizontal text set within vertical text. Rea
 This example formats the current selection as horizontal text within a run of vertical text, fitting the text to the line width of the vertical text.
 
 
-```
+```vb
 Selection.Range.HorizontalInVertical = wdHorizontalInVerticalFitInLine
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

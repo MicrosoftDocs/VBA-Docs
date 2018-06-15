@@ -35,7 +35,7 @@ Provide appropriate values for the  **SolutionID** and **SolutionURL** propertie
 The following example determines whether an XML expansion pack is attached to the active Excel workbook by checking the  **SolutionID** property.
 
 
-```
+```vb
  Dim objSmartDoc As Office.SmartDocument 
  Set objSmartDoc = ActiveWorkbook.SmartDocument 
  If objSmartDoc.SolutionID = "None" Or objSmartDoc.SolutionID = "" Then 
@@ -50,9 +50,6 @@ The following example determines whether an XML expansion pack is attached to th
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartDocument Object](smartdocument-object-office.md)

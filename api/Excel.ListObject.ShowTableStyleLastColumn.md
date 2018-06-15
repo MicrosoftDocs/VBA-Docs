@@ -26,8 +26,5 @@ Returns or sets if the last column is displayed for the specified  **ListObject*
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

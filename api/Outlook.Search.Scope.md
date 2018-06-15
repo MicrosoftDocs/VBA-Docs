@@ -93,8 +93,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Search Object](Outlook.Search.md)
 

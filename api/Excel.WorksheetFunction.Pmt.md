@@ -59,8 +59,5 @@ For a more complete description of the arguments in PMT, see the PV function.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

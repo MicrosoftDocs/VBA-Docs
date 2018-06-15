@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).LeftIndent = InchesToPoints(1)
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

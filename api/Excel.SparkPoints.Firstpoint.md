@@ -36,8 +36,5 @@ The  **Firstpoint** property corresponds to the setting of the **First Point** c
 ## See also
 
 
-#### Concepts
-
-
 [SparkPoints Object](Excel.SparkPoints.md)
 

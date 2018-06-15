@@ -52,8 +52,5 @@ Charts("Chart1").Axes(xlCategory).CategoryNames = _
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Excel.Axis(objec).md)
 

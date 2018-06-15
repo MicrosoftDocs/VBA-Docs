@@ -26,8 +26,5 @@ Returns a  **Long** value that represents the operator for the data validation.
 ## See also
 
 
-#### Concepts
-
-
 [Validation Object](Excel.Validation.md)
 

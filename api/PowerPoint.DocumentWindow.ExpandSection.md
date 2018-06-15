@@ -35,9 +35,6 @@ Expands the section in the current  **DocumentWindow**.
 ## See also
 
 
-#### Concepts
-
-
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 

@@ -35,8 +35,5 @@ If the  **JournalItem** object is created in a version of Microsoft Outlook earl
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

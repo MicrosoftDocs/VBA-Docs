@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that is **True** if the Outlook item has no
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

@@ -28,8 +28,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 ## See also
 
 
-#### Concepts
-
-
 [Groups2 Collection Object](Project.groups2.md)
 

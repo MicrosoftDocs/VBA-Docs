@@ -117,8 +117,5 @@ Forms!Products.DatasheetFontWeight = 500
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

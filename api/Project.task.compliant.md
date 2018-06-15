@@ -21,8 +21,5 @@ ms.prod: project-server
 ## See also
 
 
-#### Concepts
-
-
 [Task Object (Project)](task-object-project.md)
 

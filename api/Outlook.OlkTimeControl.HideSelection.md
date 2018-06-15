@@ -31,8 +31,5 @@ The default value of this property is  **True** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

@@ -61,8 +61,5 @@ Debug.Print "ViewsAllowed = " &; Forms.Item("Switchboard").ViewsAllowed
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

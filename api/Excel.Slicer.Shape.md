@@ -36,8 +36,5 @@ Some properties of the slicer, such as the  **[AlternativeText](Excel.Shape.Alte
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

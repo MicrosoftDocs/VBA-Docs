@@ -65,8 +65,5 @@ To run a macro or event procedure in response to pressing and releasing the mous
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

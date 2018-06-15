@@ -38,8 +38,5 @@ Returns a ?Bitwise And' of two numbers
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

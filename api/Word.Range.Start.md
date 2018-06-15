@@ -55,8 +55,5 @@ myRange.SetRange Start:=myRange.Start + 1, End:=myRange.End
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

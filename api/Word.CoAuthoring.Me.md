@@ -40,8 +40,5 @@ MsgBox "The current user has " &; coAuth.Locks.Count &; _
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthoring Object](Word.CoAuthoring.md)
 

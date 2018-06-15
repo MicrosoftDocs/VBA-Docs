@@ -38,8 +38,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Excel.LineFormat.md)
 

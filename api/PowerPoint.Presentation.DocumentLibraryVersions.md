@@ -43,8 +43,5 @@ Set objVersions = ActivePresentation.DocumentLibraryVersions
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

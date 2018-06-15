@@ -43,8 +43,5 @@ Microsoft Access automatically resets the  _HourglassOn_ argument to **False** w
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -38,7 +38,7 @@ ThemeFont
 The following example sets the font for the body of a document to the Latin theme.
 
 
-```
+```vb
 Dim tTheme As OfficeTheme 
 Dim tfThemeFonts As ThemeFonts 
 Dim latinMinorFont As ThemeFont 
@@ -48,9 +48,6 @@ Set latinMinorFont = tfThemeFonts(msoThemeLatin)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ThemeFonts Object](themefonts-object-office.md)

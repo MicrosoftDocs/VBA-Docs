@@ -31,8 +31,5 @@ Use this property with the  **[HeightRelative](Word.ShapeRange.HeightRelative.md
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

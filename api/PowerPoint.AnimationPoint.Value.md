@@ -70,8 +70,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AnimationPoint Object](PowerPoint.AnimationPoint.md)
 

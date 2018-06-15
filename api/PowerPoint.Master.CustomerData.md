@@ -31,8 +31,5 @@ CustomerData
 ## See also
 
 
-#### Concepts
-
-
 [Master Object](PowerPoint.Master.md)
 

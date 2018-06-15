@@ -56,8 +56,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

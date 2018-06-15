@@ -37,15 +37,12 @@ This example returns the name found in the  **Name** box on the **User Informati
 
 
 
-```
+```vb
 Msgbox Application.UserName
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

@@ -62,8 +62,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

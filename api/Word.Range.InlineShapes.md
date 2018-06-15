@@ -43,8 +43,5 @@ Msgbox "InlineShape = " &; doc.InlineShapes.Count &; _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

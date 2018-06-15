@@ -55,8 +55,5 @@ Worksheets("sheet3").PivotTables.Item(1) _
 ## See also
 
 
-#### Concepts
-
-
 [PivotTables Object](Excel.PivotTables.md)
 

@@ -44,7 +44,7 @@ Prints a label or a page of labels with the same address.
 This example prints a page of Avery 5664 mailing labels, using the specified address.
 
 
-```
+```vb
 addr = "Jane Doe" &; vbCr &; "123 Skye St." _ 
  &; vbCr &; "OurTown, WA 98107" 
 Application.MailingLabel.PrintOut Name:="5664", Address:=addr
@@ -52,9 +52,6 @@ Application.MailingLabel.PrintOut Name:="5664", Address:=addr
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MailingLabel Object](Word.MailingLabel.md)

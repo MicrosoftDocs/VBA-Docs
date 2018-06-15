@@ -28,7 +28,7 @@ An ActiveX control on a sheet has two names: the name of the shape that contains
 Use the  **[OLEObjects](Excel.Worksheet.OLEObjects.md)** method to return the **OLEObjects** collection. The following example hides all the OLE objects on worksheet one.
 
 
-```
+```vb
 Worksheets(1).OLEObjects.Visible = False
 ```
 
@@ -37,7 +37,7 @@ Use the  **[Add](Excel.OLEObjects.Add.md)** method to create a new OLE object an
 
 
 
-```
+```vb
 Worksheets(1).OLEObjects.Add FileName:="arcade.gif"
 ```
 
@@ -46,7 +46,7 @@ The following example creates a new ActiveX control (a list box) and adds it to 
 
 
 
-```
+```vb
 Worksheets(1).OLEObjects.Add ClassType:="Forms.ListBox.1"
 ```
 
@@ -55,7 +55,7 @@ You use the code name of a control in the names of its event procedures. However
 
 
 
-```
+```vb
 Private Sub chkFinished_Click() 
  ActiveSheet.OLEObjects("CheckBox1").Object.Value = 1 
 End Sub

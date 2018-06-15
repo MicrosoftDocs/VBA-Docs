@@ -39,8 +39,5 @@ Enables you to drill to a location within an OLAP or PowerPivot based cube hiera
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

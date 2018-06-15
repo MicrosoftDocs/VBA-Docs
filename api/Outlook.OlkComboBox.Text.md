@@ -33,8 +33,5 @@ The  **Text** property provides the same value as the **[Value](Outlook.OlkCombo
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

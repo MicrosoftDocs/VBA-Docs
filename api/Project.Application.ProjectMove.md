@@ -49,7 +49,7 @@ Running the  **ProjectMove** method with no arguments displays the **Move Projec
 The following command moves the project start date to May 23, 2012. Deadlines are moved a corresponding number of days.
 
 
-```
+```vb
 projectmove Date:="5/23/2012"
 ```
 

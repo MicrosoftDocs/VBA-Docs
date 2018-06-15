@@ -36,7 +36,7 @@ You can use the following types of names in Microsoft Graph with this method:
  **Note**  Using square brackets (for example, "[A1:C5]") is identical to calling the  **Evaluate** method with a string argument. For example, the following expressions are equivalent:
 
 
-```
+```vb
 myChart.Application.[a1].Value = 25 
 myChart.Application.Evaluate("A1").Value = 25
 ```
@@ -49,7 +49,7 @@ The advantage of using square brackets is that the code is shorter. The advantag
 This example clears cell A1 on the datasheet.
 
 
-```
+```vb
 clearCell = "A1" 
 myChart.Application.Evaluate(clearCell).Clear
 ```

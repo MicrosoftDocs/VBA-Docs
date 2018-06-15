@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](PowerPoint.Row.md)
 

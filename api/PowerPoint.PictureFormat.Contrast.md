@@ -48,8 +48,5 @@ myDocument.Shapes(1).PictureFormat.Contrast = 0.8
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 

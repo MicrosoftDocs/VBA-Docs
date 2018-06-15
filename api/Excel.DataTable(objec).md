@@ -21,7 +21,7 @@ Represents a chart data table.
 Use the  **[DataTable](Excel.Chart.DataTable.md)** property to return a **DataTable** object. The following example adds a data table with an outline border to embedded chart one.
 
 
-```
+```vb
 With Worksheets(1).ChartObjects(1).Chart 
  .HasDataTable = True 
  .DataTable.HasBorderOutline = True 

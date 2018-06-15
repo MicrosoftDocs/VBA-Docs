@@ -43,8 +43,5 @@ ActiveDocument.Paragraphs(1).Range.Font.BoldBi = True
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

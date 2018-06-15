@@ -45,7 +45,7 @@ This example toggles outline formatting for the selected text.
 
 
 
-```
+```vb
 Selection.Font.Outline = wdToggle
 ```
 
@@ -63,9 +63,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Font Object](Word.Font.md)

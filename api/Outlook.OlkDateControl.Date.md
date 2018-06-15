@@ -31,8 +31,5 @@ When getting this property, the default value is the current date with the time 
 ## See also
 
 
-#### Concepts
-
-
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 

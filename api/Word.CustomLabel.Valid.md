@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabel Object](Word.CustomLabel.md)
 

@@ -37,7 +37,7 @@ The following example returns the BorderArt of the first shape on the first page
 
 
 
-```
+```vb
 Dim bdaTemp As BorderArtFormat 
  
 Set bdaTemp = ActiveDocument.Pages(1).Shapes(1).BorderArt 
@@ -51,7 +51,7 @@ Use the  **[Set](Publisher.BorderArtFormat.Set.md)** method to specify which typ
 
 
 
-```
+```vb
 Sub SetBorderArt() 
 Dim anyPage As Page 
 Dim anyShape As Shape 
@@ -78,7 +78,7 @@ You can also use the  **[Name](Publisher.BorderArtFormat.Name.md)** property to 
 
 
 
-```
+```vb
 Sub SetBorderArtByName() 
 Dim anyPage As Page 
 Dim anyShape As Shape 
@@ -109,7 +109,7 @@ Use the  **[Delete](Publisher.BorderArtFormat.Delete.md)** method to remove Bord
 
 
 
-```
+```vb
 Sub DeleteBorderArt() 
 Dim anyPage As Page 
 Dim anyShape As Shape 

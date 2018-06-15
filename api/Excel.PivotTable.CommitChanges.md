@@ -36,8 +36,5 @@ The  **CommitChanges** method sends a **COMMIT TRANSACTION** statement to the OL
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

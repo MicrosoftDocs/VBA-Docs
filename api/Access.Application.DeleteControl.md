@@ -84,8 +84,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

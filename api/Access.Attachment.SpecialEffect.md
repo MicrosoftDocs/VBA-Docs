@@ -43,8 +43,5 @@ The  **SpecialEffect** property setting affects related property settings for th
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

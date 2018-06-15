@@ -26,8 +26,5 @@ Closes the  **[Explorer](Outlook.Explorer.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

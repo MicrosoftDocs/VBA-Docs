@@ -26,8 +26,5 @@ Returns the parent object for the specified  **PivotLineCells** object. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [PivotLineCells Object](Excel.PivotLineCells.md)
 

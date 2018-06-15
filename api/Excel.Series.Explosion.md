@@ -26,8 +26,5 @@ Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Ret
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

@@ -26,8 +26,5 @@ Returns the  **Selection** object that represents a selection or the insertion p
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

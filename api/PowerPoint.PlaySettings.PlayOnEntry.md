@@ -58,8 +58,5 @@ OLEobj.AnimationSettings.PlaySettings.PlayOnEntry = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 

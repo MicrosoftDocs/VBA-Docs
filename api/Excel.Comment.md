@@ -26,7 +26,7 @@ Represents a cell comment.
 Use the  **[Comment](Excel.Range.Comment.md)** property to return a **Comment** object. The following example changes the text in the comment in cell E5.
 
 
-```
+```vb
 Worksheets(1).Range("E5").Comment.Text "reviewed on " &amp; Date
 ```
 
@@ -35,7 +35,7 @@ Use  **Comments** ( _index_ ), where _index_ is the comment number, to return a 
 
 
 
-```
+```vb
 Worksheets(1).Comments(2).Visible = False
 ```
 
@@ -44,7 +44,7 @@ Use the  **[AddComment](Excel.Range.AddComment.md)** method to add a comment to 
 
 
 
-```
+```vb
 With Worksheets(1).Range("e5").AddComment 
  .Visible = False 
  .Text "reviewed on " &amp; Date 

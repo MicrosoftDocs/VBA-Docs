@@ -40,8 +40,5 @@ You can only call  **GetPicture** from code that runs in-process as Outlook. An 
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

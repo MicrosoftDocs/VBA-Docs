@@ -36,8 +36,5 @@ An error occurs if this method is called on sharing invitations using an Exchang
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

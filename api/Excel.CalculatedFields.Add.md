@@ -52,8 +52,5 @@ Worksheets(1).PivotTables(1).CalculatedFields.Add "PxS", _
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedFields Collection](Excel.CalculatedFields.md)
 

@@ -47,8 +47,5 @@ If there are no DDE channels open, the  **DDETerminateAll** statement runs witho
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

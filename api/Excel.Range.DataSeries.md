@@ -56,8 +56,5 @@ dateRange.DataSeries Type:=xlChronological, Date:=xlMonth
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

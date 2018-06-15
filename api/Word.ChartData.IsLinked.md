@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartData Object](Word.ChartData.md)
 

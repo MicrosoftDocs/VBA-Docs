@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [SignatureSetup Object](signaturesetup-object-office.md)
 #### Other resources
 

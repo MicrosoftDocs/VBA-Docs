@@ -26,8 +26,5 @@ Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the forma
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

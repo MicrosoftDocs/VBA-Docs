@@ -56,8 +56,5 @@ If the  **ListObject** object is not currently linked to a list on a SharePoint 
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

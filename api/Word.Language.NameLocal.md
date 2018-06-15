@@ -37,8 +37,5 @@ MsgBox Languages(wdGerman).Name
 ## See also
 
 
-#### Concepts
-
-
 [Language Object](Word.Language.md)
 

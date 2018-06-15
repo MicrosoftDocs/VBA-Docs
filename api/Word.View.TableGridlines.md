@@ -47,8 +47,5 @@ Next myPane
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

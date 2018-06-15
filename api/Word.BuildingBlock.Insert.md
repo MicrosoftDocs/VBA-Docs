@@ -56,8 +56,5 @@ objBB.Insert ActiveDocument.Paragraphs(1).Range
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlock Object](Word.BuildingBlock.md)
 

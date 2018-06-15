@@ -36,7 +36,7 @@ For information about returning a single member of a collection, see [Returning 
 This example creates a new document based on the Normal template and then displays the  **Save As** dialog box.
 
 
-```
+```vb
 Documents.Add.Save
 ```
 
@@ -75,15 +75,12 @@ This example opens Doc.doc as a read-only document.
 
 
 
-```
+```vb
 Documents.Open FileName:="C:\Files\Doc.doc", ReadOnly:=True
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

@@ -37,7 +37,7 @@ This example returns the BorderArt "Apples" from the active publication.
 
 
 
-```
+```vb
 Dim bdaTemp As BorderArt 
  
 Set bdaTemp = ActiveDocument.BorderArts.Item (Index:="Apples") 
@@ -50,7 +50,7 @@ Use the  **[Name](Publisher.BorderArt.Name.md)** property to specify which type 
 
 
 
-```
+```vb
 Sub SetBorderArtByName() 
  
 Dim anyPage As Page 

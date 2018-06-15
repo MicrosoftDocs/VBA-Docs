@@ -31,7 +31,4 @@ Gets a single  **Calendar** object from the **Calendars** collection. Read-only 
 ## See also
 
 
-#### Concepts
-
-
 [Calendars Collection Object](Project.calendars.md)

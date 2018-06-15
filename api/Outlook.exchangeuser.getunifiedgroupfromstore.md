@@ -29,8 +29,5 @@ Returns the  **Outlook.Folder** object associated with the group using the[GetUn
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object (Outlook)](exchangeuser-object-outlook.md)
 

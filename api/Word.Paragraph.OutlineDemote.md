@@ -33,7 +33,7 @@ If a paragraph is formatted with the Heading 2 style, this method demotes the pa
 This example demotes the first paragraph in the selection.
 
 
-```
+```vb
 Selection.Paragraphs(1).OutlineDemote
 ```
 
@@ -48,9 +48,6 @@ ActiveDocument.Paragraphs(3).OutlineDemote
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Paragraph Object](Word.Paragraph.md)

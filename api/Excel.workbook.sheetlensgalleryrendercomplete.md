@@ -37,8 +37,5 @@ This event can be used to indicate when re-enable screen updating or display add
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

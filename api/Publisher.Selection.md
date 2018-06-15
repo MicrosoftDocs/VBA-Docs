@@ -24,7 +24,7 @@ Use the  **[Selection](Publisher.Document.Selection.md)** property to return the
 
  
 
-```
+```vb
 Sub CopySelection() 
  Selection.ShapeRange.Copy 
 End Sub
@@ -37,7 +37,7 @@ The following example determines what type of item is selected and, if it is an 
 
 
 
-```
+```vb
 Sub SelectedShape() 
  If Selection.Type = pbSelectionShape Then 
  Selection.ShapeRange.Item(1).Fill.ForeColor _ 
@@ -53,7 +53,7 @@ The following example copies the selection and pastes it into the first shape on
 
 
 
-```
+```vb
 Sub CopyPasteSelection() 
  Selection.TextRange.Copy 
  With ActiveDocument.Pages(2).Shapes(1).TextFrame.TextRange 

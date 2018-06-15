@@ -31,8 +31,5 @@ A  **[Row](Outlook.Row.md)** object that represents the next valid row in the **
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Outlook.Table.md)
 

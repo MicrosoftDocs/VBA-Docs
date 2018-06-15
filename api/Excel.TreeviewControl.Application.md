@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [TreeviewControl Object](Excel.TreeviewControl.md)
 

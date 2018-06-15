@@ -43,9 +43,6 @@ Creates a new command bar and adds it to the collection of command bars.
 ## See also
 
 
-#### Concepts
-
-
 [CommandBars Object](commandbars-object-office.md)
 #### Other resources
 

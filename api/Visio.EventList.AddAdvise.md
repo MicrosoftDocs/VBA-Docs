@@ -97,7 +97,7 @@ Following are descriptions of the arguments to  **VisEventProc** .
 | nEventCode| The event(s) that occurred. You can provide a distinct object for each event or provide a single object that receives all notifications and switches internally based on nEventCode.|
 | pSourceObj| The object whose ** EventList** collection contains the **Event** object that triggered the notification.|
 | nEventID|The unique identifier of the  **Event** object within the **EventList** collection. (Unlike the **Index** property of the **EventList** collection, nEventID does not change as **Event** objects are added to or deleted from the collection.) You can get the **Event** object from **VisEventProc** by using the following code:
-```
+```vb
 pSourceObj .EventList.ItemFromID(nEventID )
 ```
 

@@ -36,8 +36,5 @@ The  **Value** property returns or sets a control's default property, which is t
 ## See also
 
 
-#### Concepts
-
-
 [OptionGroup Object](Access.OptionGroup.md)
 

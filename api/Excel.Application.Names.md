@@ -31,8 +31,5 @@ Using this property without an object qualifier is equivalent to using  `ActiveW
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

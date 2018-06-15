@@ -26,8 +26,5 @@ Returns a  **Long** value that represents the number of levels of category tick 
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](Excel.TickLabels(objec).md)
 

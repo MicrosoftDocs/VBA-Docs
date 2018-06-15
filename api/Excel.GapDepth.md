@@ -21,7 +21,7 @@ Returns or sets the distance between the data series on a 3-D chart, as a percen
 This example sets the distance between the data series to 200 percent of the marker width. The example should be run on a 3-D chart (the  **GapDepth** property fails on 2-D charts).
 
 
-```
+```vb
 myChart.GapDepth = 200
 ```
 

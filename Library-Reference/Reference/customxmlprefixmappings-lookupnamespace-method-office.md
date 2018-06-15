@@ -46,7 +46,7 @@ If no namespace is assigned to the requested prefix, the method returns an empty
 The following example retrieves the namespace corresponding to the prefix argument.
 
 
-```
+```vb
 Dim objCustomPrefixMappings As  CustomPrefixMappings 
     Dim strNamespace As String 
  
@@ -56,9 +56,6 @@ Dim objCustomPrefixMappings As  CustomPrefixMappings
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLPrefixMappings Object](customxmlprefixmappings-object-office.md)

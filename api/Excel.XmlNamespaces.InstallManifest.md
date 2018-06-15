@@ -54,8 +54,5 @@ Application.XMLNamespaces.InstallManifest _
 ## See also
 
 
-#### Concepts
-
-
 [XmlNamespaces Object](Excel.XmlNamespaces.md)
 

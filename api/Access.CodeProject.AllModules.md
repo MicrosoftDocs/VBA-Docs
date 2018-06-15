@@ -26,8 +26,5 @@ You can use the  **AllModules** property to reference the **[AllModules](Access.
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

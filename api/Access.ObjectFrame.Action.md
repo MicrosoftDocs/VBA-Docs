@@ -65,8 +65,5 @@ When a control's  **Enabled** property is set to No or its **Locked** property i
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

@@ -37,8 +37,5 @@ Returns the value of the density function for a standard normal distribution.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

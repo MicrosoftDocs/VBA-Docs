@@ -26,8 +26,5 @@ Returns or sets the maximum number of records to retrieve. Read/write  **Long** 
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

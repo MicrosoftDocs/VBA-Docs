@@ -26,9 +26,6 @@ Gets a  **FileDialogFilter** object that is a member of the specified **FileDial
 ## See also
 
 
-#### Concepts
-
-
 [FileDialogFilters Object](filedialogfilters-object-office.md)
 #### Other resources
 

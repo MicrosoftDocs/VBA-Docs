@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the priority for sorting styles in t
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

@@ -62,8 +62,5 @@ ActiveDocument.ActiveWindow.View.Type = wdPrintPreview
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 ## See also
 
 
-#### Concepts
-
-
 [RecentFile Object](Word.RecentFile.md)
 

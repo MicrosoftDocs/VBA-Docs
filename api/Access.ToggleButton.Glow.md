@@ -74,8 +74,5 @@ Me.ctl.Glow = 17
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

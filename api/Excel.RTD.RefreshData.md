@@ -31,8 +31,5 @@ Avoid using the  **RefreshData** method in user-defined functions because this m
 ## See also
 
 
-#### Concepts
-
-
 [RTD Object](Excel.RTD.md)
 

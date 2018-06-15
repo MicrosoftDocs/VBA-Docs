@@ -36,8 +36,5 @@ Boolean
 ## See also
 
 
-#### Concepts
-
-
 [Coauthoring Object](PowerPoint.Coauthoring.md)
 

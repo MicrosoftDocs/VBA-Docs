@@ -21,7 +21,7 @@ Represents a change marked with a revision mark. The  **Revision** object is a m
 Use  **Revisions** (Index), where Index is the index number, to return a single **Revision** object. The index number represents the position of the revision in the range or document. The following example displays the author name for the first revision in section one of the active document.
 
 
-```
+```vb
 MsgBox ActiveDocument.Sections(1).Range.Revisions(1).Author
 ```
 
@@ -30,7 +30,7 @@ The  **Add** method isn't available for the **Revisions** collection. **Revision
 
 
 
-```
+```vb
 ActiveDocument.TrackRevisions = True 
 Selection.InsertBefore "Action "
 ```

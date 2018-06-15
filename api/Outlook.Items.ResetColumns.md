@@ -31,8 +31,5 @@ All properties are accessible after calling the  **ResetColumns** method. **SetC
 ## See also
 
 
-#### Concepts
-
-
 [Items Object](Outlook.Items.md)
 

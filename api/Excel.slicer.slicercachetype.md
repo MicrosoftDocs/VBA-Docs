@@ -29,8 +29,5 @@ Returns the type of the slicer cache - slicer or timeline.  **XlSlicerCacheType*
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

@@ -29,9 +29,6 @@ To view any errors that your XML markup generates when it is loaded, follow thes
 ## See also
 
 
-#### Concepts
-
-
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)
 

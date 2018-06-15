@@ -41,8 +41,5 @@ This property is not surfaced in the property sheet.
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

@@ -43,8 +43,5 @@ Application.ActivePresentation.Slides(1) _
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](PowerPoint.Font.md)
 

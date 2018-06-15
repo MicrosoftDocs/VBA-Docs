@@ -41,8 +41,5 @@ ActiveDocument.Styles(wdStyleHeading1).Font.Bold = False
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

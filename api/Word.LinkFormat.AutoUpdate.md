@@ -60,8 +60,5 @@ Next fieldLoop
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](Word.LinkFormat.md)
 

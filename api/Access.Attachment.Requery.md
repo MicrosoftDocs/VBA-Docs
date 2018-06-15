@@ -62,8 +62,5 @@ If a subform control has the focus, this method requeries the record source only
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

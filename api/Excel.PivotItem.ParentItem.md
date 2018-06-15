@@ -43,8 +43,5 @@ MsgBox "This item is a subitem of " &; _
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

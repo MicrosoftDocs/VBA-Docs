@@ -26,8 +26,5 @@ Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Word.ShadowFormat.md)
 

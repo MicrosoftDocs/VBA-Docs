@@ -26,8 +26,5 @@ Returns the number of items in the  **BuildingBlockTypes** collection. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlockTypes Collection](Word.BuildingBlockTypes.md)
 

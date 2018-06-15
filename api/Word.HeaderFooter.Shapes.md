@@ -44,8 +44,5 @@ MsgBox ActiveDocument.Sections(1). _
 ## See also
 
 
-#### Concepts
-
-
 [HeaderFooter Object](Word.HeaderFooter.md)
 

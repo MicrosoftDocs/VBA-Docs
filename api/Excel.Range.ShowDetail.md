@@ -57,8 +57,5 @@ myRange.Rows(lastRow).ShowDetail = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

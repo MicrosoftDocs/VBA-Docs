@@ -25,7 +25,7 @@ Quits Microsoft Graph.
 This example quits Microsoft Graph.
 
 
-```
+```vb
 myChart.Application.Quit
 ```
 

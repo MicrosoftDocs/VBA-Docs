@@ -20,7 +20,7 @@ Suppose that you are performing the [DLookup](application-dlookup-method-access.
 
 
 
-```
+```vb
 =DLookup("[LastName]", "Employees", "[EmployeeID] = " _ 
  &; Forms!Orders!EmployeeID)
 ```
@@ -29,7 +29,7 @@ If the current value of the EmployeeID field is 7, the  _criteria_ argument that
 
 
 
-```
+```vb
 "[EmployeeID] = 7"
 ```
 

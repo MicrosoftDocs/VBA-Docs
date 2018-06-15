@@ -33,7 +33,7 @@ The  **StoreLicenses** property corresponds to (and its value is the opposite of
 The following example displays information about the permissions settings of the active document, including the  **StoreLicenses** setting.
 
 
-```
+```vb
  Dim irmPermission As Office.Permission 
  Dim strIRMInfo As String 
  Set irmPermission = ActiveWorkbook.Permission 
@@ -62,9 +62,6 @@ The following example displays information about the permissions settings of the
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Permission Object](permission-object-office.md)

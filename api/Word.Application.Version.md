@@ -28,15 +28,12 @@ Returns the Microsoft Word version number. Read-only  **String** .
 This example displays the Word version number in a message box.
 
 
-```
+```vb
 Msgbox "The version of Word is " &; Application.Version
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

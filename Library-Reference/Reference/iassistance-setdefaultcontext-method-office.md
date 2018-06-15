@@ -40,7 +40,7 @@ The  **Assistance** property returns an **IAssistance** object. The **IAssistanc
 The following example, the help topic associated with ID "60385" will be set as the default for the application. 
 
 
-```
+```vb
 Sub SetDefaultHelpTopic() 
  Application.Assistance.SetDefaultContext "60385" 
 End Sub
@@ -48,9 +48,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [IAssistance Object](iassistance-object-office.md)

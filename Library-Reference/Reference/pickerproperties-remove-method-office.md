@@ -39,9 +39,6 @@ Nothing
 ## See also
 
 
-#### Concepts
-
-
 [PickerProperties Object](pickerproperties-object-office.md)
 #### Other resources
 

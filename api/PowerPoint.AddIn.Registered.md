@@ -52,8 +52,5 @@ Application.Addins("MyTools").Registered = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](PowerPoint.AddIn.md)
 

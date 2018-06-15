@@ -26,8 +26,5 @@ Returns a  **[Walls](Excel.Walls(objec).md)** object that allows the user to ind
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

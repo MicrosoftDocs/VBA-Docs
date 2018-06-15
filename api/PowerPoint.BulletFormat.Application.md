@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 

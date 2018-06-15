@@ -26,7 +26,7 @@ Represents the collection of memory caches from the PivotTable reports in a work
 Use the  **[PivotCaches](Excel.Workbook.PivotCaches.md)** method to return the **[PivotCaches](Excel.PivotCaches.md)** collection. The following example sets the **[RefreshOnFileOpen](Excel.PivotCache.RefreshOnFileOpen.md)** property for all memory caches in the active workbook.
 
 
-```
+```vb
 For Each pc In ActiveWorkbook.PivotCaches 
  pc.RefreshOnFileOpen = True 
 Next

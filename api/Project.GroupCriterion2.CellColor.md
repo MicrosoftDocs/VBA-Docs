@@ -23,8 +23,5 @@ Gets or sets the color of the cell background for a field used as a criterion in
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

@@ -65,8 +65,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](PowerPoint.LineFormat.md)
 

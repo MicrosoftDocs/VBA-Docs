@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of categories in the collection. 
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfAuthoritiesCategories Collection Object](Word.tablesofauthoritiescategories.md)
 

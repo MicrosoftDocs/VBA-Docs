@@ -26,8 +26,5 @@ Returns an  **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** colle
 ## See also
 
 
-#### Concepts
-
-
 [OMathAutoCorrect Object](Word.OMathAutoCorrect.md)
 

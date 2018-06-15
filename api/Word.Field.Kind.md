@@ -38,8 +38,5 @@ Next aField
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

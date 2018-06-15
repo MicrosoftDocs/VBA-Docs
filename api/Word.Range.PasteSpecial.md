@@ -42,7 +42,7 @@ Inserts the contents of the Clipboard. .
 This example inserts the Clipboard contents at the insertion point as unformatted text.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 Selection.Range.PasteSpecial DataType:=wdPasteText
 ```
@@ -62,9 +62,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

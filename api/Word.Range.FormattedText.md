@@ -33,8 +33,5 @@ When you set this property, the text in the range is replaced with formatted tex
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

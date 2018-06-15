@@ -26,8 +26,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 ## See also
 
 
-#### Concepts
-
-
 [TimeZones Object](Outlook.TimeZones.md)
 

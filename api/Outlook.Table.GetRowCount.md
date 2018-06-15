@@ -36,8 +36,5 @@ A Long value that represents the number of rows in the Table.
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Outlook.Table.md)
 

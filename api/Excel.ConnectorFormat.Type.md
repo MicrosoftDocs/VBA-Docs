@@ -26,8 +26,5 @@ Returns or sets a  **[MsoConnectorType](http://msdn.microsoft.com/library/2c6796
 ## See also
 
 
-#### Concepts
-
-
 [ConnectorFormat Object](Excel.ConnectorFormat.md)
 

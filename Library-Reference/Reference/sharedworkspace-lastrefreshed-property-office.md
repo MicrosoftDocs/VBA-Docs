@@ -36,7 +36,7 @@ The  **LastRefreshed** property raises an error if the **[Refresh](sharedworkspa
 The following example refreshes the shared workspace if it has not been refreshed in the last 3 minutes. The example also handles the error condition where the workspace has not yet been refreshed.
 
 
-```
+```vb
     On Error GoTo err_NeverRefreshed 
     If DateDiff("s", ActiveWorkbook.SharedWorkspace.LastRefreshed, Now) > 180 Then 
         ActiveWorkbook.SharedWorkspace.Refresh 
@@ -50,9 +50,6 @@ err_NeverRefreshed:
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspace Object](sharedworkspace-object-office.md)

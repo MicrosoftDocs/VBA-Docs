@@ -41,8 +41,5 @@ ActiveDocument.Windows.BreakSideBySide
 ## See also
 
 
-#### Concepts
-
-
 [Windows Collection Object](Word.windows.md)
 

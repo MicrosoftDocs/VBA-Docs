@@ -37,8 +37,5 @@ Worksheets(1).ChartObjects(1).Chart _
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Excel.Trendline(objec).md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Docu
 ## See also
 
 
-#### Concepts
-
-
 [Documents Collection Object](Word.documents.md)
 

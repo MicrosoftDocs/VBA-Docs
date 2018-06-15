@@ -109,8 +109,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

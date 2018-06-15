@@ -80,15 +80,12 @@ The following table lists each language version of Office, and gives its corresp
 This example returns the folder suffix used by the first workbook. The suffix is returned in the string variable  `strFolderSuffix`.
 
 
-```
+```vb
 strFolderSuffix = Workbooks(1).WebOptions.FolderSuffix
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [WebOptions Object](Excel.WebOptions.md)

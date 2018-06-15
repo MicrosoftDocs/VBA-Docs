@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [PivotItemList Object](Excel.PivotItemList.md)
 

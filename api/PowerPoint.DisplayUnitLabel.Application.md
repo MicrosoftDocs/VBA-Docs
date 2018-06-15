@@ -26,8 +26,5 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 

@@ -24,8 +24,5 @@ Specifies the number of bins in the histogram chart. Read/write  **Long**.
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

@@ -16,7 +16,7 @@ A collection of  **FormField** objects that represent all the form fields in a s
 Use the  **FormFields** property to return the **FormFields** collection. The following example counts the number of text box form fields in the active document.
 
 
-```
+```vb
 For Each aField In ActiveDocument.FormFields 
  If aField.Type = wdFieldFormTextInput Then count = count + 1 
 Next aField 
@@ -28,7 +28,7 @@ Use the  **Add** method with the **FormFields** object to add a form field. The 
 
 
 
-```
+```vb
 Set ffield = ActiveDocument.FormFields.Add( _ 
  Range:=ActiveDocument.Range(Start:=0,End:=0), _ 
  Type:=wdFieldFormCheckBox) 
@@ -40,7 +40,7 @@ Use  **FormFields** (Index), where Index is a bookmark name or index number, to 
 
 
 
-```
+```vb
 ActiveDocument.FormFields("Text1").Result = "Don Funk"
 ```
 
@@ -49,7 +49,7 @@ The index number represents the position of the form field in the selection, ran
 
 
 
-```
+```vb
 If Selection.FormFields.Count >= 1 Then 
  MsgBox Selection.FormFields(1).Name 
 End If

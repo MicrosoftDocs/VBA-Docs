@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlinks Object](Excel.Hyperlinks.md)
 

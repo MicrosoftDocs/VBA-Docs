@@ -24,7 +24,7 @@ Use the  **[Add](Publisher.Plates.Add.md)** method of the **[Plates](Publisher.P
 
  
 
-```
+```vb
 Sub AddNewPlates() 
  Dim plts As Plates 
  Set plts = ActiveDocument.CreatePlateCollection(Mode:=pbColorModeSpot) 

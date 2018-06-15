@@ -24,7 +24,7 @@ Use the  **[Columns](Publisher.Table.Columns.md)** property of the **[Table](Pub
 
  
 
-```
+```vb
 Sub CountColumns() 
  MsgBox "The number of columns in the table is " &amp; _ 
  ActiveDocument.Pages(2).Shapes(1).Table.Columns.Count 
@@ -38,7 +38,7 @@ This example enters a bold number into each cell in the specified table. This ex
 
 
 
-```
+```vb
 Sub CountCellsByColumn() 
  Dim shpTable As Shape 
  Dim colTable As Column 
@@ -70,7 +70,7 @@ Use  **Columns** (index), where index is the index number, to return a single **
 
 
 
-```
+```vb
 Sub SelectColumns() 
  ActiveDocument.Pages(2).Shapes(1).Table.Columns(3).Cells.Select 
 End Sub
@@ -83,7 +83,7 @@ Use the  **[Add](Publisher.Columns.Add.md)** method to add a column to a table. 
 
 
 
-```
+```vb
 Sub NewColumn() 
  Dim colNew As Column 
  

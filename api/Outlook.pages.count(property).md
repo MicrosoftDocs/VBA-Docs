@@ -28,8 +28,5 @@ Note that the index value for the first page of a collection is zero, the value 
 ## See also
 
 
-#### Concepts
-
-
  [Pages Object](Outlook.pages(object).md)
 

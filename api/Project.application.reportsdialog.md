@@ -37,7 +37,4 @@ To access the reports that use Excel and Visio templates, use the  **[Visual Rep
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)

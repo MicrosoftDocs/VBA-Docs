@@ -31,8 +31,5 @@ The  **WebSite** property contains a zero-length string if the database has not 
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

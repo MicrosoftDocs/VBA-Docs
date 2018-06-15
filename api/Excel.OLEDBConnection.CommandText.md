@@ -33,8 +33,5 @@ The  **[CommandType](Excel.OLEDBConnection.CommandType.md)** property describes 
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

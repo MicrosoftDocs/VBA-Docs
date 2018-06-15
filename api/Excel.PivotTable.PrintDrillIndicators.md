@@ -33,8 +33,5 @@ When the  **[ShowDrillIndicators](Excel.PivotTable.ShowDrillIndicators.md)** pro
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

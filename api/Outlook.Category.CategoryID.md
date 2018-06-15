@@ -28,7 +28,7 @@ Returns a  **String** value that represents the unique identifier for the **[Cat
 Because the  **[Name](Outlook.Category.Name.md)** property of a **Category** object can be changed either programmatically or by user action, each **Category** object is uniquely identified by a globally unique identifier (GUID), assigned to the object, that can be retrieved using this property. The GUID is presented as a string using the following format:
 
 
-```
+```vb
 {00000000-0000-0000-0000-000000000000}
 ```
 
@@ -102,9 +102,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Category Object](Outlook.Category.md)

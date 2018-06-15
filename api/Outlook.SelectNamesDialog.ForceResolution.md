@@ -33,8 +33,5 @@ The default value is  **True** . If a recipient cannot be resolved, Outlook will
 ## See also
 
 
-#### Concepts
-
-
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

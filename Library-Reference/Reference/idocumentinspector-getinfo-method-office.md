@@ -40,9 +40,6 @@ Gets information about a custom Document Inspector module.
 ## See also
 
 
-#### Concepts
-
-
 [IDocumentInspector Object](idocumentinspector-object-office.md)
 #### Other resources
 

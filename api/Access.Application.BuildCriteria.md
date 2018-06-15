@@ -73,7 +73,7 @@ strCriteria = BuildCriteria("OrderDate", dbDate, ">1-1-95 and <5-1-95")
 
 This example returns the following criteria string:
 
-```text
+```vbtext
 OrderDate>#1/1/95# And OrderDate<#5/1/95#
 ```
 
@@ -109,9 +109,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Access.Application.md)

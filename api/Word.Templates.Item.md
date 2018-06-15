@@ -39,8 +39,5 @@ Template
 ## See also
 
 
-#### Concepts
-
-
 [Templates Collection Object](Word.templates.md)
 

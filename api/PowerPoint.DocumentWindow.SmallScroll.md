@@ -54,9 +54,6 @@ Application.ActiveWindow.SmallScroll Down:=3
 ## See also
 
 
-#### Concepts
-
-
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 

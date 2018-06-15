@@ -26,8 +26,5 @@ Returns a  **[Bibliography](Word.Bibliography.md)** object that represents the b
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

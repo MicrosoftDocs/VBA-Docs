@@ -39,7 +39,7 @@ SmartArtNode
 The following code adds a default SmartArtNode below the current node. 
 
 
-```
+```vb
 Dim saNode As SmartArtNode 
  
 saNode = saNode.AddNode(msoSmartArtNodeBelow, msoSmartArtNodeTypeDefault)
@@ -47,9 +47,6 @@ saNode = saNode.AddNode(msoSmartArtNodeBelow, msoSmartArtNodeTypeDefault)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArtNode Object](smartartnode-object-office.md)

@@ -43,8 +43,5 @@ Adds a chart to the document. Returns a  **Shape** object that represents a char
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

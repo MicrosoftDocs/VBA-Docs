@@ -53,9 +53,6 @@ Use the  **[AfterXmlImport](Excel.Workbook.AfterXmlImport.md)** event if you wan
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 [Application Object](application-object-excel.md)
 

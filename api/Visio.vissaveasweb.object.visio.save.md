@@ -25,7 +25,7 @@ To set the properties for your web page, use the  **[WebPageSettings](Visio.WebP
 
 1. Call the  **[AttachToVisioDoc](Visio.AttachToVisioDoc.md)** method to specify the drawing to be saved as a web page. For example:
     
-```
+```vb
   vsoSaveAsWeb.AttachToVisioDoc _ 
 Application.Documents.Open("drive:\folder\drawingname.vdx")
 ```
@@ -35,7 +35,7 @@ Application.Documents.Open("drive:\folder\drawingname.vdx")
     
 2. Call the  **[CreatePages](Visio.CreatePages.md)** method to create the web page. For example:
     
-```
+```vb
   vsoSaveAsWeb.CreatePages vsoSaveAsWeb.CreatePages
 ```
 

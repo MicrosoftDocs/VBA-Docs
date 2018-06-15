@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the operator in one line, to which M
 ## See also
 
 
-#### Concepts
-
-
 [OMathBreak Object](Word.OMathBreak.md)
 

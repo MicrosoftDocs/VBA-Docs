@@ -66,8 +66,5 @@ ActivePresentation.Slides(2).Shapes(5).Table _
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](PowerPoint.Table.md)
 

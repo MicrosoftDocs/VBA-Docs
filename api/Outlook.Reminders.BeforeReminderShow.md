@@ -34,8 +34,5 @@ Occurs before the  **Reminder** dialog box is displayed.
 ## See also
 
 
-#### Concepts
-
-
 [Reminders Object](Outlook.Reminders.md)
 

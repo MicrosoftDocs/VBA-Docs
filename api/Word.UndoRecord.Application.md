@@ -26,8 +26,5 @@ Returns an [Application](Word.Application.md) object that represents the Word ap
 ## See also
 
 
-#### Concepts
-
-
 [UndoRecord Object](Word.UndoRecord.md)
 

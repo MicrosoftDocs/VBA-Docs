@@ -55,8 +55,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [List Object](Word.List.md)
 

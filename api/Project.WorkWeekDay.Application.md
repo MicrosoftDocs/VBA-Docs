@@ -23,7 +23,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Object**
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeekDay Object](Project.WorkWeekDay.md)

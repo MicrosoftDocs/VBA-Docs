@@ -26,8 +26,5 @@ Deletes the specified file on the list of recent files.
 ## See also
 
 
-#### Concepts
-
-
 [RecentFile Object](Word.RecentFile.md)
 

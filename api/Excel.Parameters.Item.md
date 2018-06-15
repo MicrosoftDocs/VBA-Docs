@@ -56,8 +56,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Parameters Object](Excel.Parameters.md)
 

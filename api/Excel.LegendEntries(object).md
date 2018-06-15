@@ -26,7 +26,7 @@ A collection of all the  **[LegendEntry](Excel.LegendEntry(objec).md)** objects 
 Use the  **[LegendEntries](Excel.Legend.LegendEntries.md)** method to return the **LegendEntries** collection. The following example loops through the collection of legend entries in embedded chart one and changes their font color.
 
 
-```
+```vb
 With Worksheets("sheet1").ChartObjects(1).Chart.Legend 
  For i = 1 To .LegendEntries.Count 
  .LegendEntries(i).Font.ColorIndex = 5 
@@ -43,7 +43,7 @@ The index number represents the position of the legend entry in the legend.  `Le
 
 
 
-```
+```vb
 Worksheets("sheet1").ChartObjects(1).Chart _ 
  .Legend.LegendEntries(1).Font.Italic = True
 ```

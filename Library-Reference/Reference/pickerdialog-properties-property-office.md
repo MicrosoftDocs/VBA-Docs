@@ -33,7 +33,7 @@ The properties of the  **PickerProperties** object will be passed to the data ha
 The following code sets various Picker Dialog properties and retrieves the results.
 
 
-```
+```vb
 Dim objPickerDialog As PickerDialog 
 Dim objPickerProperties As PickerProperties 
  
@@ -50,9 +50,6 @@ Set objPickerResults = objPickerDialog.Show(True)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PickerDialog Object](pickerdialog-object-office.md)

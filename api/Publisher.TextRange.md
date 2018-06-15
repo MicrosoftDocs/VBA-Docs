@@ -30,7 +30,7 @@ Contains the text that is attached to a shape, in addition to properties and met
 Use the  **[TextRange](http://msdn.microsoft.com/library/44a8395e-81dc-7d06-f068-89f77a889f5e%28Office.15%29.aspx)** property of the **[TextFrame](Publisher.TextFrame.md)** object to return a **TextRange** object for any shape you specify. Use the **[Text](http://msdn.microsoft.com/library/13584812-307a-c32b-ca8f-27869728b64e%28Office.15%29.aspx)** property to return the string of text in the **TextRange** object. The following example adds a rectangle to the active publication and sets the text it contains.
 
 
-```
+```vb
 Sub AddTextToShape() 
     With ActiveDocument.Pages(1).Shapes.AddShape(Type:=msoShapeRectangle, _ 
         Left:=72, Top:=72, Width:=250, Height:=140) 
@@ -44,7 +44,7 @@ Because the  **Text** property is the default property of the **TextRange** obje
 
 
 
-```
+```vb
 ActiveDocument.Pages(1).Shapes(1).TextFrame _ 
     .TextRange.text = "Here is some test text" 
 ActiveDocument.Pages(1).Shapes(1).TextFrame _ 
@@ -58,7 +58,7 @@ Use the  **TextRange** property of the **Selection** object to return the curren
 
 
 
-```
+```vb
 Sub CopyAndPasteText() 
     With ActiveDocument 
         .Selection.TextRange.Copy 
@@ -72,7 +72,7 @@ Use one of the following methods to return a portion of the text of a  **TextRan
 
 
 
-```
+```vb
 Sub FormatWords() 
     With ActiveDocument.Pages(1).Shapes(1).TextFrame _ 
             .TextRange.Words(2).Font 
@@ -88,7 +88,7 @@ Use one of the following methods to insert characters into a  **TextRange** obje
 
 
 
-```
+```vb
 Sub InsertNewText() 
     Dim intCount As Integer 
     With ActiveDocument.Pages(1).Shapes(1).TextFrame _ 

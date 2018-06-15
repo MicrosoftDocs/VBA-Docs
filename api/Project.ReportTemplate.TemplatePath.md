@@ -82,7 +82,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ReportTemplate Object](Project.ReportTemplate.md)

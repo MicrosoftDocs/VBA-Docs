@@ -19,8 +19,5 @@ This object or member has been deprecated, but it remains part of the object mod
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

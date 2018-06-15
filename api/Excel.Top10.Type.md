@@ -31,8 +31,5 @@ This property will always return a  **Long** value of "5", which is equivalent t
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

@@ -33,8 +33,5 @@ Occurs when the data model is updated.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

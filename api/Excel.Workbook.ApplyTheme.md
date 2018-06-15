@@ -34,8 +34,5 @@ Applies the specified theme to the current workbook.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

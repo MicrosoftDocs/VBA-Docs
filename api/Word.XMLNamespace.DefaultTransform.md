@@ -38,8 +38,5 @@ Set objXSLT = Application.XMLNamespaces(1).DefaultTransform
 ## See also
 
 
-#### Concepts
-
-
 [XMLNamespace Object](Word.XMLNamespace.md)
 

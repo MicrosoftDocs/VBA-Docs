@@ -31,8 +31,5 @@ The display name of the  **Solutions** module can be customized if there is only
 ## See also
 
 
-#### Concepts
-
-
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 

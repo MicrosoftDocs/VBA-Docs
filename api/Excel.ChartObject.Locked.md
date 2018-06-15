@@ -31,8 +31,5 @@ This property returns  **True** if the object is locked or **False** if the obje
 ## See also
 
 
-#### Concepts
-
-
 [ChartObject Object](Excel.ChartObject.md)
 

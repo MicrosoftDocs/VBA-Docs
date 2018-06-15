@@ -31,8 +31,5 @@ This is the recommended way to return or set the language of East Asian text in 
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

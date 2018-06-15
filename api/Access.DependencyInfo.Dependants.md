@@ -31,8 +31,5 @@ To return the collection of objects that an  **AccessObject** object depends upo
 ## See also
 
 
-#### Concepts
-
-
 [DependencyInfo Object](Access.DependencyInfo.md)
 

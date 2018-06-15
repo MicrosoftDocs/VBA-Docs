@@ -46,7 +46,7 @@ This method generates an error if there's no corresponding list.
 This example deletes a custom list.
 
 
-```
+```vb
 n = Application.GetCustomListNum(Array("cogs", "sprockets", _ 
  "widgets", "gizmos")) 
 Application.DeleteCustomList n
@@ -54,9 +54,6 @@ Application.DeleteCustomList n
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Excel.Application(objec).md)

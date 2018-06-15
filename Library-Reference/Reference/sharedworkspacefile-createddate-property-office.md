@@ -33,7 +33,7 @@ Variant
 The following example returns a list of shared workspace files whose date and time created is earlier than today.
 
 
-```
+```vb
  Dim swsFile As Office.SharedWorkspaceFile 
  Dim dtmMidnight As Date 
  Dim dtmFileDate As Date 
@@ -57,9 +57,6 @@ The following example returns a list of shared workspace files whose date and ti
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceFile Object](sharedworkspacefile-object-office.md)

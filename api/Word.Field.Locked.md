@@ -44,8 +44,5 @@ myField.Locked = True
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

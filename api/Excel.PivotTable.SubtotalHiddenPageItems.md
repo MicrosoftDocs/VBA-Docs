@@ -41,8 +41,5 @@ Worksheets(1).PivotTables("Pivot1").SubtotalHiddenPageItems = True
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

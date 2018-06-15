@@ -43,8 +43,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [EmailSignature Object](Word.EmailSignature.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the toolbar control id for a built-in Micros
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Word.Dialog.md)
 

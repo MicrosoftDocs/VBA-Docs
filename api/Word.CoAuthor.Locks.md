@@ -44,8 +44,5 @@ MsgBox "There are " &; lockCount &; _
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthor Object](Word.CoAuthor.md)
 

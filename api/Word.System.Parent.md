@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Syst
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

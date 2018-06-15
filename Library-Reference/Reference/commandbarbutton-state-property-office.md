@@ -33,7 +33,7 @@ The  **State** property of built-in command bar buttons is read-only. The value 
 This example creates a command bar named "Custom" and adds two buttons to it. The example then sets the button on the left to  **msoButtonUp** and sets the button on the right to **msoButtonDown**.
 
 
-```
+```vb
  Dim myBar As Office.CommandBar 
  Dim imgSource As Office.CommandBarButton 
  Dim myControl1 As Office.CommandBarButton 
@@ -67,9 +67,6 @@ This example creates a command bar named "Custom" and adds two buttons to it. Th
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarButton Object](commandbarbutton-object-office.md)

@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtQui
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtQuickStyle Object](smartartquickstyle-object-office.md)
 #### Other resources
 

@@ -49,8 +49,5 @@ Worksheets(1).Range("E5").AddComment "Current Sales"
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

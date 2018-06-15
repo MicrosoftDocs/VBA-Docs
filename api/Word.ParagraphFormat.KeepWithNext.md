@@ -31,8 +31,5 @@ This property can be  **True** , **False** , or **wdUndefined** .
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

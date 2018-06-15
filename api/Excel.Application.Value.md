@@ -31,8 +31,5 @@ This property always returns "Microsoft Excel".
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -26,8 +26,5 @@ Deletes the specified  **SlideRange** object.
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

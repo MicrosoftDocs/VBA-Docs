@@ -33,7 +33,7 @@ The  **RemoveAll** method removes all UserPermissions that have been added to th
 The following example uses the  **RemoveAll** method to remove all user permissions and to disable restrictions on the active document.
 
 
-```
+```vb
  Dim irmPermission As Office.Permission 
  Set irmPermission = ActiveWorkbook.Permission 
  If irmPermission.Enabled Then 
@@ -52,9 +52,6 @@ The following example uses the  **RemoveAll** method to remove all user permissi
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Permission Object](permission-object-office.md)

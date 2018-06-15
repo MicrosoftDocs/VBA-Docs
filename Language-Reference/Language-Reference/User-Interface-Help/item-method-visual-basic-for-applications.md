@@ -29,7 +29,7 @@ The  **Item** method is the default method for a collection. Therefore, the foll
 
 
 
-```
+```vb
 Print MyCollection(1)
 Print MyCollection.Item(1)
 

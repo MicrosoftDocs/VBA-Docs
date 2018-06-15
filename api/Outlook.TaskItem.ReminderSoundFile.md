@@ -31,8 +31,5 @@ This property is only valid if the  **[ReminderOverrideDefault](Outlook.TaskItem
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

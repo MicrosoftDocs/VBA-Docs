@@ -46,8 +46,5 @@ Next fldLoop
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

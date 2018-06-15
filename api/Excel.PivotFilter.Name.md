@@ -26,8 +26,5 @@ This property provides the option of naming filters for reference. You cannot re
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

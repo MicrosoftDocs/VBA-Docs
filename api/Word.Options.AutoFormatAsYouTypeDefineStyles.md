@@ -47,8 +47,5 @@ blnAutoFormat = Options.AutoFormatAsYouTypeDefineStyles
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

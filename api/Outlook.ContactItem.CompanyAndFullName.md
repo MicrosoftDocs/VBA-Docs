@@ -26,8 +26,5 @@ Returns a  **String** representing the concatenated company name and full name f
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

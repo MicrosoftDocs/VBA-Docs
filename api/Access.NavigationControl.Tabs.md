@@ -26,8 +26,5 @@ Gets the collection of navigation buttons for the specified navigation control. 
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

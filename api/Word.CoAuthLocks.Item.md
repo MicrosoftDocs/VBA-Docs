@@ -39,8 +39,5 @@ Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collecti
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthLocks Object](Word.CoAuthLocks.md)
 

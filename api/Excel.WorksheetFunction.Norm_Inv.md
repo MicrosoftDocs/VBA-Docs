@@ -55,8 +55,5 @@ Given a value for probability, NORM_INV seeks that value x such that NORM_DIST(x
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

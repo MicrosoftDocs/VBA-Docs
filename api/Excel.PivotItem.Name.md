@@ -53,8 +53,5 @@ When using the  **[Item](Excel.IconCriteria.Item.md)** property to reference a s
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

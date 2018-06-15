@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Spel
 ## See also
 
 
-#### Concepts
-
-
 [SpellingSuggestions Collection Object](Word.spellingsuggestions.md)
 

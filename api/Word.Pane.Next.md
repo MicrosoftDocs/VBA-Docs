@@ -26,8 +26,5 @@ Returns a  **Pane** object that represents the next document pane in the collect
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

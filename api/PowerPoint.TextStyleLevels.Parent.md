@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TextStyleLevels Object](PowerPoint.TextStyleLevels.md)
 

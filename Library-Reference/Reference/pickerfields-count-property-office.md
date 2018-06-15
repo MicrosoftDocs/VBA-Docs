@@ -23,9 +23,6 @@ Retrieves the count of the number of  **PickerField** objects contained within t
 ## See also
 
 
-#### Concepts
-
-
 [PickerFields Object](pickerfields-object-office.md)
 #### Other resources
 

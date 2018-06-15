@@ -26,8 +26,5 @@ Returns the maximum number of custom or conversion dictionaries allowed. Read-on
 ## See also
 
 
-#### Concepts
-
-
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 

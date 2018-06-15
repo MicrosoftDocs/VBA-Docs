@@ -23,9 +23,6 @@ Gets or sets the amount of transparency, measured in percentages, of the shape's
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](reflectionformat-object-office.md)
 #### Other resources
 

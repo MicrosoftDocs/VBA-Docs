@@ -26,8 +26,5 @@ Returns a  **Long** value indicating the count of **[ViewField](Outlook.ViewFiel
 ## See also
 
 
-#### Concepts
-
-
 [ViewFields Object](Outlook.ViewFields.md)
 

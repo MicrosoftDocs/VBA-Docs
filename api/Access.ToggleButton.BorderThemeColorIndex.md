@@ -61,8 +61,5 @@ Me.FormHeader.BorderThemeColorIndex=2
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

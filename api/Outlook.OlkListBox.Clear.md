@@ -26,8 +26,5 @@ Removes all objects from the list.
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

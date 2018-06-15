@@ -61,8 +61,5 @@ shapeToCrop.PictureFormat.CropTop = cropPoints
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Excel.PictureFormat.md)
 

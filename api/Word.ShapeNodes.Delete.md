@@ -34,8 +34,5 @@ Deletes the specified shape node.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Collection Object](Word.shapenodes.md)
 

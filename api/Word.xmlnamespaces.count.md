@@ -24,8 +24,5 @@ Returns a  **Long** that represents the number of XML namespaces in the collecti
 ## See also
 
 
-#### Concepts
-
-
 
 

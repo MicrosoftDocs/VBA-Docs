@@ -43,8 +43,5 @@ Set objNode = ActiveDocument.XMLNodes(3).PreviousSibling
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

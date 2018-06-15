@@ -26,8 +26,5 @@ Gets the number of documents attached to the specified  **Attachment** control. 
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

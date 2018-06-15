@@ -46,8 +46,5 @@ Worksheets("Sheet1").Columns("C"). _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

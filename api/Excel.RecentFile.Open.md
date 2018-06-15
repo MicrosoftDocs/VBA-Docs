@@ -41,8 +41,5 @@ Application.RecentFiles(2).Open
 ## See also
 
 
-#### Concepts
-
-
 [RecentFile Object](Excel.RecentFile.md)
 

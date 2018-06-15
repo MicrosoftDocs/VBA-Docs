@@ -26,8 +26,5 @@ Returns or sets a  **[WdFrenchSpeller](Word.WdFrenchSpeller.md)** constant that 
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

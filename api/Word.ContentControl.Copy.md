@@ -31,8 +31,5 @@ When you use the  **Copy** method, the original content control remains in the a
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

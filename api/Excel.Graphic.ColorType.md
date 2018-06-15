@@ -26,8 +26,5 @@ Returns or sets the type of color transformation applied to the specified pictur
 ## See also
 
 
-#### Concepts
-
-
 [Graphic Object](Excel.Graphic.md)
 

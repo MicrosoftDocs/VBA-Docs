@@ -24,7 +24,7 @@ The following example prints the series names, X (horizontal) values, and Y (ver
 
  
 
-```
+```vb
 Sub TestChartSeries()
     Dim reportName As String
     Dim theReportIndex As Integer
@@ -70,7 +70,7 @@ The following sample output is from a chart such as the example in the [Chart](P
 
 
 
-```
+```vb
 Series 1: Actual Work
     X, Y values(1): T1, 16
     X, Y values(2): T2 - new, 32

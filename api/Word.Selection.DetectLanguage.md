@@ -35,8 +35,5 @@ If the  **DetectLanguage** method has already been applied to the specified text
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

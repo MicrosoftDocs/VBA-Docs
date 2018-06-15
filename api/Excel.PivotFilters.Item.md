@@ -34,8 +34,5 @@ Returns a specific element of the  **PivotFilters** collection object by its pos
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilters Object](Excel.PivotFilters.md)
 

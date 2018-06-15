@@ -31,8 +31,5 @@ This property applies only to documents upon which you have run the  **[CompareD
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

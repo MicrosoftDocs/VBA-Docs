@@ -44,8 +44,5 @@ Worksheets(1).Range("E5").Hyperlinks.Item(1).Follow
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlinks Object](Excel.Hyperlinks.md)
 

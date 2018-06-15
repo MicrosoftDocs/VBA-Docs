@@ -33,8 +33,5 @@ When this property is set to  **True** , multiple filters can be applied to sing
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

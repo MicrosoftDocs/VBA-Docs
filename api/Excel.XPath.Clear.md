@@ -46,8 +46,5 @@ This method will produce an error if any of the following conditions are true:
 ## See also
 
 
-#### Concepts
-
-
 [XPath Object](Excel.XPath.md)
 

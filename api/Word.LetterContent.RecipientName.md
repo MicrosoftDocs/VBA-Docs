@@ -37,8 +37,5 @@ MsgBox ActiveDocument.GetLetterContent.Salutation _
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

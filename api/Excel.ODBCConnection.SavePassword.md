@@ -31,8 +31,5 @@ This property is used in both ODBC and OLE DB queries, and by both PivotTables a
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

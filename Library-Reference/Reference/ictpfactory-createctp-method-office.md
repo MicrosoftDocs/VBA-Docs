@@ -43,7 +43,7 @@ CustomTaskPane
 The following example, written in C#, creates an instance of a  **CustomTaskPane** object through the **ICustomTaskPaneConsumer** interface and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes a **CTPFactory** object to the add-in, which you can use during the add-in's lifetime to create task panes by using the **CreateCTP** method. Note that the example assumes that the task pane is part of an COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also references an ActiveX control, SampleActiveX.myControl, that was created in a separate project.
 
 
-```
+```vb
 public class Connect : Object, Extensibility.IDTExtensibility2, ICustomTaskPaneConsumer 
 ... 
 object missing = Type.Missing; 
@@ -63,9 +63,6 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ICTPFactory Object](ictpfactory-object-office.md)

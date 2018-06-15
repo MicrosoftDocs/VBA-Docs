@@ -36,8 +36,5 @@ Returns or sets whether Excel automatically calculates text frame margins. Read/
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Excel.TextFrame.md)
 

@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.AppointmentItem.Close(method).md)** method to 
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

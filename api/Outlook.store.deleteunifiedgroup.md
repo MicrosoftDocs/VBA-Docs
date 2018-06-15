@@ -36,8 +36,5 @@ The Smtp address used to delete the group.
 ## See also
 
 
-#### Concepts
-
-
 [Store Object (Outlook)](store-object-outlook.md)
 

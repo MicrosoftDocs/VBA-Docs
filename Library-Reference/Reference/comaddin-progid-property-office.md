@@ -28,7 +28,7 @@ Gets the programmatic identifier (ProgID) for the specified  **COMAddIn** object
 The following example displays the ProgID and GUID for COM add-in one in a message box.
 
 
-```
+```vb
 MsgBox "My ProgID is " &amp; _ 
  Application.COMAddIns(1).ProgID &amp; _ 
  " and my GUID is " &amp; _ 
@@ -37,9 +37,6 @@ MsgBox "My ProgID is " &amp; _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [COMAddIn Object](comaddin-object-office.md)

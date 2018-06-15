@@ -49,7 +49,7 @@ For  **Style** objects, _SID_SRCStream()_ should be a one-dimensional array of 3
 
 
 
-```
+```vb
 {sectionIdx, rowIdx, cellIdx }n
 ```
 

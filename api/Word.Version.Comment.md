@@ -58,8 +58,5 @@ MsgBox Prompt:=verTemp(lngCount).Comment, _
 ## See also
 
 
-#### Concepts
-
-
 [Version Object](Word.Version.md)
 

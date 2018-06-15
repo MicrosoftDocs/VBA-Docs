@@ -39,8 +39,5 @@ ActiveSheet.Comments(2).Shape.Select
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Excel.Comment.md)
 

@@ -31,8 +31,5 @@ The value is the same as the value of  **[Text](Outlook.OlkComboBox.Text.md)** ,
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

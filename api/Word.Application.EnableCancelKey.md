@@ -47,8 +47,5 @@ Application.EnableCancelKey = wdCancelInterrupt
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

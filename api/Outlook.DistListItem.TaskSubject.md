@@ -31,8 +31,5 @@ This property returns the value of the  **[Subject](Outlook.DistListItem.Subject
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

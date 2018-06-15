@@ -26,8 +26,5 @@ Returns the parent object for the specified  **PivotAxis** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [PivotAxis Object](Excel.PivotAxis.md)
 

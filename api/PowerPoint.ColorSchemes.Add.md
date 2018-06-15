@@ -48,8 +48,5 @@ Note that although Microsoft PowerPoint automatically checks whether a color sch
 ## See also
 
 
-#### Concepts
-
-
 [ColorSchemes Object](PowerPoint.ColorSchemes.md)
 

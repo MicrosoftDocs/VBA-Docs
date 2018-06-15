@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that is **true** if a reminder has been set
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -38,8 +38,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Object](Excel.ShapeNodes.md)
 

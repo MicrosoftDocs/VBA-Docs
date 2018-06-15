@@ -19,8 +19,5 @@ This property is no longer supported in Microsoft Word Visual Basic for Applicat
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

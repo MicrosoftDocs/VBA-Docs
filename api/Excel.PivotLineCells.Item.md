@@ -34,8 +34,5 @@ Returns a specific element of the  **PivotLineCells** collection object by its p
 ## See also
 
 
-#### Concepts
-
-
 [PivotLineCells Object](Excel.PivotLineCells.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Hype
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

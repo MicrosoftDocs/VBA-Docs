@@ -26,8 +26,5 @@ Updates the specified link format.
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](Word.LinkFormat.md)
 

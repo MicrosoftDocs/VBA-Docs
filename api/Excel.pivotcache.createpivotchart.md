@@ -80,8 +80,5 @@ Workbooks("Book1").Connections.Add _
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](pivotcache-object-excel.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents angle of the lighting. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

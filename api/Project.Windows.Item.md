@@ -31,7 +31,4 @@ Gets a single  **Window** object from the **Windows** collection. Read-only **Wi
 ## See also
 
 
-#### Concepts
-
-
 [Windows Collection Object](Project.windows(object).md)

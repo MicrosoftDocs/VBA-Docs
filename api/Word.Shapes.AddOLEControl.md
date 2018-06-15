@@ -47,8 +47,5 @@ For information about available ActiveX control class types, see [OLE Programmat
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Collection Object](Word.shapes.md)
 

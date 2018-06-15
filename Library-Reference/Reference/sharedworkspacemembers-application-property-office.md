@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceMembers Object](sharedworkspacemembers-object-office.md)
 #### Other resources
 

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 The following example assigns  `replyToBlog` as the internal name of a custom action, and `IPM.Post` as the message class of the resulting item. The resulting item will use the same form that a contact item uses by default:
 
 
-```XML
+```vbXML
 <customActions>
     <action name="replyToBlog">
         <targetForm>IPM.Post</targetForm>

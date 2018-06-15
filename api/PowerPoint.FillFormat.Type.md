@@ -46,8 +46,5 @@ The value of the  **Type** property can be one of these **MsoFillType** constant
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](PowerPoint.FillFormat.md)
 

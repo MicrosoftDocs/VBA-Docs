@@ -32,15 +32,12 @@ For example, you might insert an OrderDetails subform into both a form and a rep
 
 
 
-```
+```vb
 =Parent!OrderID
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [AllForms Collection](Access.AllForms.md)

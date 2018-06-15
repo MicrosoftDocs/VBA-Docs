@@ -42,8 +42,5 @@ ActiveWindow.ScrollColumn = 3
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

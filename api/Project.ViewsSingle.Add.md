@@ -45,7 +45,4 @@ Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 ## See also
 
 
-#### Concepts
-
-
 [ViewsSingle Collection Object](Project.viewssingle(object).md)

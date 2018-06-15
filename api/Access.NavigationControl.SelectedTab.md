@@ -26,8 +26,5 @@ Gets the active tab of the navigation control. Read-only  **[NavigationButton](A
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

@@ -37,15 +37,12 @@ This example returns the current status of the  **Prompt for document properties
 
 
 
-```
+```vb
 temp = Options.SavePropertiesPrompt
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Emai
 ## See also
 
 
-#### Concepts
-
-
 [EmailSignatureEntries Collection](Word.EmailSignatureEntries.md)
 

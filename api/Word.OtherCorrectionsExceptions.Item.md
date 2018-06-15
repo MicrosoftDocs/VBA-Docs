@@ -39,8 +39,5 @@ OtherCorrectionsException
 ## See also
 
 
-#### Concepts
-
-
 [OtherCorrectionsExceptions Collection Object](Word.othercorrectionsexceptions.md)
 

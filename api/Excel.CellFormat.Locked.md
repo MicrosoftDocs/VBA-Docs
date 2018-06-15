@@ -42,8 +42,5 @@ Worksheets("Sheet1").Protect
 ## See also
 
 
-#### Concepts
-
-
 [CellFormat Object](Excel.CellFormat.md)
 

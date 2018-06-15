@@ -44,8 +44,5 @@ If a subform has the focus,  **ActiveForm** refers to the main form. If no form 
 ## See also
 
 
-#### Concepts
-
-
 [Screen Object](Access.Screen.md)
 

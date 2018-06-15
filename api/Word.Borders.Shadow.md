@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection Object](Word.borders.md)
 

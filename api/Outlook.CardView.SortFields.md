@@ -26,8 +26,5 @@ Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

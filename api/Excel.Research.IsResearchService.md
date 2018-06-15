@@ -39,8 +39,5 @@ Boolean
 ## See also
 
 
-#### Concepts
-
-
 [Research Object](Excel.Research.md)
 

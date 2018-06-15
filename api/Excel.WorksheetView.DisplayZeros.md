@@ -31,8 +31,5 @@ This property applies only to worksheets and macro sheets.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetView Object](Excel.WorksheetView.md)
 

@@ -31,7 +31,7 @@ Gets the e-mail name of the specified  **SharedWorkspaceMember** in the format u
 The following example extracts the e-mail domain name from the  **Email** property of each shared workspace member and lists members who have e-mail addresses at the "example.com" domain.
 
 
-```
+```vb
 Dim swsMember As Office.SharedWorkspaceMember 
     Dim strEmailDomain As String 
     Dim strMemberList As String 
@@ -49,9 +49,6 @@ Dim swsMember As Office.SharedWorkspaceMember
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceMember Object](sharedworkspacemember-object-office.md)

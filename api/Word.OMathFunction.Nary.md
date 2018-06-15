@@ -26,8 +26,5 @@ Returns an  **[OMathNary](Word.OMathNary.md)** object that represents the n-ary 
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

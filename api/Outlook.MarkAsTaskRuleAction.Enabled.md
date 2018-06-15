@@ -31,8 +31,5 @@ After you enable a rule, you must also save the rule by using  **[Rules.Save](Ou
 ## See also
 
 
-#### Concepts
-
-
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 

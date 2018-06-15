@@ -36,8 +36,5 @@ The  **Type** property of the sharing response sent when this method is called i
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

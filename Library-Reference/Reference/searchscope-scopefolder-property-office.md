@@ -28,7 +28,7 @@ Gets a  **ScopeFolder** object. Read-only.
 The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the  **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be "A:\", "C:\", etc.
 
 
-```
+```vb
 Sub DisplayRootScopeFolders() 
  
  'Declare variables that reference a 
@@ -59,9 +59,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SearchScope Object](searchscope-object-office.md)

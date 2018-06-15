@@ -26,8 +26,5 @@ Converts hyphens created by automatic hyphenation to manual hyphens.
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

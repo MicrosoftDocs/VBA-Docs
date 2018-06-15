@@ -40,8 +40,5 @@ objEditor.DeleteAll
 ## See also
 
 
-#### Concepts
-
-
 [Editor Object](Word.Editor.md)
 

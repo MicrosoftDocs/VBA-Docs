@@ -46,8 +46,5 @@ Application.DisplayStatusBar = oldStatusBar
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

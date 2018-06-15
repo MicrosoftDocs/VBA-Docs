@@ -41,8 +41,5 @@ Use this property to perform different tasks depending on the current view. For 
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

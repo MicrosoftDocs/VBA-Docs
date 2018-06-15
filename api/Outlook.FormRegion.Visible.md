@@ -33,8 +33,5 @@ Use the  **Visible** property to control access to information without displayin
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

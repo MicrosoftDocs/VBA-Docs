@@ -48,8 +48,5 @@ This method returns a weak or strong object reference for the object specified i
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

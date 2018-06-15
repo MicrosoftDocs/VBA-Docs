@@ -44,8 +44,5 @@ mylist.ApplyListTemplate _
 ## See also
 
 
-#### Concepts
-
-
 [ListFormat Object](Word.ListFormat.md)
 

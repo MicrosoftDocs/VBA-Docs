@@ -44,8 +44,5 @@ ActiveDocument.Paragraphs(1).Range.ItalicBi = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

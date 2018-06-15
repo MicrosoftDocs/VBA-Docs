@@ -37,15 +37,12 @@ This example returns the current status of the  **ScreenTips** checkbox in the *
 
 
 
-```
+```vb
 temp = Application.DisplayScreenTips
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

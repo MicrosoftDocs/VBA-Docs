@@ -34,7 +34,7 @@ To get or set multiple custom properties, use the  **[PropertyAccessor](property
 The following example adds a custom text property named MyPropName to myItem.
 
 
-```
+```vb
 Set myProp = myItem.UserProperties.Add("MyPropName", olText)
 ```
 

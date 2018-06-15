@@ -34,8 +34,5 @@ Moves the current position to the start of the specified section in the  **Slide
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

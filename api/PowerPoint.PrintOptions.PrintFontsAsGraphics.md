@@ -52,8 +52,5 @@ ActivePresentation.PrintOptions.PrintFontsAsGraphics = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 

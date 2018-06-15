@@ -24,8 +24,5 @@ The [PreviewPane](Outlook.previewpane.md) object displays content in a "single p
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

@@ -50,8 +50,5 @@ Templates created by the  **SaveAsTemplate** method cannot be used in Microsoft 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

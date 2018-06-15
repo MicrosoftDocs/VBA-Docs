@@ -31,8 +31,5 @@ The value of this property is a DAV Search and Locating (DASL) string that repre
 ## See also
 
 
-#### Concepts
-
-
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 

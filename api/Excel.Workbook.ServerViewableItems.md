@@ -31,8 +31,5 @@ This property returns a collection of the items that could be published to Excel
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

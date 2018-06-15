@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Timing Object](PowerPoint.Timing.md)
 

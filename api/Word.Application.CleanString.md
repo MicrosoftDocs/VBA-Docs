@@ -80,8 +80,5 @@ MsgBox Application.CleanString(Selection.Text)
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

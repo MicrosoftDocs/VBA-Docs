@@ -52,8 +52,5 @@ Worksheets("Sheet1").Copy After:=Worksheets("Sheet3")
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

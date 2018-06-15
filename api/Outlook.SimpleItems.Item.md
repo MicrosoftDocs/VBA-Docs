@@ -44,8 +44,5 @@ If this method fails to return an object in the collection as specified by the  
 ## See also
 
 
-#### Concepts
-
-
 [SimpleItems Object](Outlook.SimpleItems.md)
 

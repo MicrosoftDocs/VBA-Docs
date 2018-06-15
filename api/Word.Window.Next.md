@@ -36,8 +36,5 @@ If Windows.Count > 1 Then ActiveDocument.ActiveWindow.Next.Activate
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

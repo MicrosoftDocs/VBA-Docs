@@ -36,8 +36,5 @@ ActiveDocument.TableOfContents(1).HidePageNumbersInWeb = True
 ## See also
 
 
-#### Concepts
-
-
 [TableOfContents Object](Word.TableOfContents.md)
 

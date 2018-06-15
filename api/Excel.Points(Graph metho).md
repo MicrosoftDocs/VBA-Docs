@@ -26,7 +26,7 @@ Returns an object that represents a single point or a collection of all the poin
 This example applies a data label to point one in series one.
 
 
-```
+```vb
 myChart.SeriesCollection(1).Points(1).ApplyDataLabels
 ```
 

@@ -55,8 +55,5 @@ Worksheets(1).PivotTables(1).PivotFields("year") _
 ## See also
 
 
-#### Concepts
-
-
 [PivotItemList Object](Excel.PivotItemList.md)
 

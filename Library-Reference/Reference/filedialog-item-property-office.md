@@ -26,9 +26,6 @@ Gets the text associated with an object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [FileDialog Object](filedialog-object-office.md)
 #### Other resources
 

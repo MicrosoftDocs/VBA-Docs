@@ -64,7 +64,7 @@ The following code fragment in C# sets the icons for folders that appear in the 
 
 
 
-```C#
+```vbC#
 //Get the icons for the solution 
 stdole.StdPicture rootPict = 
  PictureDispConverter.ToIPictureDisp( 
@@ -95,7 +95,7 @@ The following is the definition of the  `PictureDispConverter` class.
 
 
 
-```C#
+```vbC#
 using System; 
 using System.Drawing; 
 using System.Collections.Generic; 
@@ -181,9 +181,6 @@ public static class PictureDispConverter
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Folder Object](Outlook.Folder.md)

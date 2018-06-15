@@ -23,8 +23,5 @@ Returns the name of the object. Read-only  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [DataLabel Object](PowerPoint.DataLabel.md)
 

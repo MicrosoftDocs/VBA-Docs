@@ -26,8 +26,5 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 ## See also
 
 
-#### Concepts
-
-
 [Broadcast Object](PowerPoint.Broadcast.md)
 

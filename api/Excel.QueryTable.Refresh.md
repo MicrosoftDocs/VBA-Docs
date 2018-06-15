@@ -58,8 +58,5 @@ To see whether the number of fetched rows exceeded the number of available rows 
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

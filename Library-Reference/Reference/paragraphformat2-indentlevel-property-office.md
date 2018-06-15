@@ -28,9 +28,6 @@ Integer
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat2 Object](paragraphformat2-object-office.md)
 #### Other resources
 

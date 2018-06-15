@@ -31,8 +31,5 @@ OMathFunction
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

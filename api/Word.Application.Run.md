@@ -81,8 +81,5 @@ Application.Run MacroName:=strTemplate &; "." _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

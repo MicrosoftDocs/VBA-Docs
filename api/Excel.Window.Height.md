@@ -31,8 +31,5 @@ Use the  **[UsableHeight](Excel.Window.UsableHeight.md)** property to determine 
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

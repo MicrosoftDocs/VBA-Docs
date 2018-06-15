@@ -36,8 +36,5 @@ ActiveDocument.Lists(1).ConvertNumbersToText
 ## See also
 
 
-#### Concepts
-
-
 [List Object](Word.List.md)
 

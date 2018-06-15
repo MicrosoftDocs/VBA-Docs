@@ -62,8 +62,5 @@ The  **Range** object must be a single cell in the PivotTable field?s data range
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

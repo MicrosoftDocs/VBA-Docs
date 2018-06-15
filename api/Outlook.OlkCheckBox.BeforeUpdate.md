@@ -50,7 +50,5 @@ Canceling this property will revert the control to the current value of the prop
     
 ## See also
 
-#### Concepts
-
 - [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

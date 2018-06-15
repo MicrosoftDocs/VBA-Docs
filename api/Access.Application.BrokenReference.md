@@ -61,8 +61,5 @@ MsgBox strReport
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

@@ -39,8 +39,5 @@ The  **OldValue** property setting has the same data type as the field to which 
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

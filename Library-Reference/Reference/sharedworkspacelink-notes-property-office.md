@@ -31,7 +31,7 @@ Gets or sets the optional notes associated with a shared workspace link. Read/wr
 The following example creates a list of all the shared workspace links that contain the word "building" in the Notes field.
 
 
-```
+```vb
 Dim strBuildingLinks As String 
 Dim swsLink As Office.SharedWorkspaceLink 
 For Each swsLink In ActiveWorkbook.SharedWorkspace.Links 
@@ -46,9 +46,6 @@ MsgBox "Building Links: " &amp; vbCrLf &amp; strBuildingLinks, _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceLink Object](sharedworkspacelink-object-office.md)

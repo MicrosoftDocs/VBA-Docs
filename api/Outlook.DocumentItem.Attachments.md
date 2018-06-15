@@ -26,8 +26,5 @@ Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

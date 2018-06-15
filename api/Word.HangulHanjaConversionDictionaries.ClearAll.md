@@ -33,15 +33,12 @@ The  **ClearAll** method does not delete the conversion dictionary files. After 
 This example unloads all of the conversion dictionaries.
 
 
-```
+```vb
 HangulHanjaDictionaries.ClearAll
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)

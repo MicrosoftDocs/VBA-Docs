@@ -31,9 +31,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [SearchScopes Object](searchscopes-object-office.md)
 #### Other resources
 

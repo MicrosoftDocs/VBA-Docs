@@ -36,7 +36,7 @@ Occurs when the user changes the docking position of the active custom task pane
 The following example, written in C#, creates a custom task pane and adds a Microsoft ActiveX® button control that was created in another project. A  **DockPositionStateChange** event of type **_CustomTaskPaneEvents_DockPositionStateChangeEventHandler** is then defined. When the event is triggered, a message box is displayed telling the user that the docked task pane has been moved.
 
 
-```
+```vb
 object missing = Type.Missing; 
 public CustomTaskPane CTP = null; 
  
@@ -62,9 +62,6 @@ private void CTP_DockPositionStateChange(object sender, string dockpositionArgs)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomTaskPane Object](customtaskpane-object-office.md)

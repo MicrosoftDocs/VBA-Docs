@@ -42,8 +42,5 @@ If Options.UseDiffDiacColor = True Then _
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

@@ -59,7 +59,7 @@ This example adds the Versions command button to the  **Standard** toolbar.
 
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 CommandBars("Standard").Controls.Add Type:=msoControlButton, _ 
  ID:=2522, Before:=4
@@ -67,9 +67,6 @@ CommandBars("Standard").Controls.Add Type:=msoControlButton, _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

@@ -31,8 +31,5 @@ Sorts paragraphs or table rows in ascending alphanumeric order.
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

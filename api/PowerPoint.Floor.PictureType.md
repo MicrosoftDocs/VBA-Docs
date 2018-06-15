@@ -28,8 +28,5 @@ You can set this property to one of the following  **[XlChartPictureType](PowerP
 ## See also
 
 
-#### Concepts
-
-
 [Floor Object](PowerPoint.Floor.md)
 

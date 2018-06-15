@@ -36,8 +36,5 @@ Returns  **True** if the range contains merged cells.
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

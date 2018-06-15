@@ -34,8 +34,5 @@ Use the  **Connection** property to refer to the **Connection** object of the Ac
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

@@ -36,8 +36,5 @@ The  **Heartbeat** method is called by Microsoft Excel if the **[HeartbeatInterv
 ## See also
 
 
-#### Concepts
-
-
 [IRtdServer Object](Excel.IRtdServer.md)
 

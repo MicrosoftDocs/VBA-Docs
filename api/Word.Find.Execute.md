@@ -95,8 +95,5 @@ myRange.Find.Execute FindText:="hi", _
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

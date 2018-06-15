@@ -24,7 +24,7 @@ Use the  **[MappedDataFields](Publisher.MailMergeDataSource.MappedDataFields.md)
 
  
 
-```
+```vb
 Sub MappedFields() 
  Dim intCount As Integer 
  Dim intRows As Integer 

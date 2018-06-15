@@ -41,7 +41,7 @@ By default, the value of the  **Caption** property is used as the **ScreenTip**.
 This example adds a  **ScreenTip** to the last control on the active menu bar.
 
 
-```
+```vb
 Set myMenuBar = CommandBars.ActiveMenuBar 
 Set lastCtrl = myMenuBar _ 
    .Controls(myMenuBar.Controls.Count) 
@@ -51,9 +51,6 @@ lastCtrl.TooltipText = "Click for help on UI feature"
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarControl Object](commandbarcontrol-object-office.md)

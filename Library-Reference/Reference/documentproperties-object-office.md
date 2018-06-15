@@ -26,9 +26,6 @@ Use  **BuiltinDocumentProperties(index)**, where _index_ is the index number of 
 ## See also
 
 
-#### Concepts
-
-
 [Object Model Reference](reference-object-library-reference-for-office.md)
 #### Other resources
 

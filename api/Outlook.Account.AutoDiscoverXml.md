@@ -35,8 +35,5 @@ An error is returned if the account is not associated with an Exchange Server th
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

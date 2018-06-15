@@ -42,8 +42,5 @@ If Options.CursorMovement = wdCursorMovementVisual Then _
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

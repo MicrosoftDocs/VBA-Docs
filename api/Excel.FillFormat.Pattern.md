@@ -31,8 +31,5 @@ Use the  **[Patterned](Excel.FillFormat.Patterned.md)** method to set the patter
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

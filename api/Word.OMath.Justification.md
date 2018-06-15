@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** that represents the justif
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

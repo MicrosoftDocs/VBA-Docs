@@ -48,7 +48,7 @@ The  **Click** event is recognized by the **CommandBarButton** object. To return
 The following example creates a command bar button on the  **File** menu of the host application that enables the user to save a workbook as a comma-separated value file. (This example works in all applications, but the context of saving as CSV is applicable to Microsoft Excel.)
 
 
-```
+```vb
 Private HostApp As Object 
  
 Sub createAndSynch() 
@@ -84,9 +84,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarButton Object](commandbarbutton-object-office.md)

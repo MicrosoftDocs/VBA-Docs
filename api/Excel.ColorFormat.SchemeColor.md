@@ -26,8 +26,5 @@ Returns or sets an  **Integer** value that represents the color of a **Color** o
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Excel.ColorFormat.md)
 

@@ -79,8 +79,5 @@ Worksheets("Sheet1").Range("F5").PasteSpecial _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

@@ -26,8 +26,5 @@ Get the data type of the specified parameter.  **Read-only** Integer.
 ## See also
 
 
-#### Concepts
-
-
 [WSParameter Object](Access.WSParameter.md)
 

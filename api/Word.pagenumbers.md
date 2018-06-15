@@ -16,7 +16,7 @@ A collection of  **PageNumber** objects that represent the page numbers in a sin
 Use the  **PageNumbers** property to return the **PageNumbers** collection. The following example starts page numbering at 3 for the first section in the active document.
 
 
-```
+```vb
 ActiveDocument.Sections(1).Footers(wdHeaderFooterPrimary) _ 
  .PageNumbers.StartingNumber = 3
 ```
@@ -26,7 +26,7 @@ Use the  **Add** method to add page numbers to a header or footer. The following
 
 
 
-```
+```vb
 With ActiveDocument.Sections(1) 
  .Footers(wdHeaderFooterPrimary).PageNumbers.Add _ 
  PageNumberAlignment:=wdAlignPageNumberLeft, _ 
@@ -41,7 +41,7 @@ Use  **PageNumbers** (index), where index is the index number, to return a singl
 
 
 
-```
+```vb
 ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary) _ 
  .PageNumbers(1).Alignment = wdAlignPageNumberCenter
 ```

@@ -26,8 +26,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the degree for a r
 ## See also
 
 
-#### Concepts
-
-
 [OMathRad Object](Word.OMathRad.md)
 

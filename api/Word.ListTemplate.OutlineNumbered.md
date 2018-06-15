@@ -57,8 +57,5 @@ If num = True Then ActiveDocument.Lists(3).ApplyListTemplate _
 ## See also
 
 
-#### Concepts
-
-
 [ListTemplate Object](Word.ListTemplate.md)
 

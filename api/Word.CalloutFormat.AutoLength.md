@@ -52,8 +52,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Word.CalloutFormat.md)
 

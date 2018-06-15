@@ -24,7 +24,7 @@ Use the  **[Count](Publisher.ColorSchemes.Count.md)** property to return the num
 
  
 
-```
+```vb
 Sub CountColorSchemes() 
  MsgBox Application.ColorSchemes.Count 
 End Sub
@@ -37,7 +37,7 @@ Use the  **[Item](Publisher.ColorSchemes.Item.md)** property to return a specifi
 
 
 
-```
+```vb
 Sub SetColorScheme() 
  ActiveDocument.ColorScheme _ 
  = ColorSchemes.Item(pbColorSchemeWildflower) 
@@ -51,7 +51,7 @@ Use the  **[Name](Publisher.ColorScheme.Name.md)** property to return a color sc
 
 
 
-```
+```vb
 Sub ListColorShemes() 
  
  Dim clrScheme As ColorScheme 

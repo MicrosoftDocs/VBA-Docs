@@ -43,15 +43,12 @@ This example returns the current status of the Print PostScript over text check 
 
 
 
-```
+```vb
 currSet = ActiveDocument.PrintPostScriptOverText
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

@@ -63,8 +63,5 @@ newWordArt.TextEffect.RotatedChars = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 

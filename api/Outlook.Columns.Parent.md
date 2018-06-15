@@ -26,8 +26,5 @@ Returns the parent object of the  **[Columns](Outlook.Columns.md)** object. Read
 ## See also
 
 
-#### Concepts
-
-
 [Columns Object](Outlook.Columns.md)
 

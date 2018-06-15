@@ -26,8 +26,5 @@ Returns or sets an  **MsoVerticalAnchor** constant that represents the vertical 
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

@@ -23,8 +23,5 @@ Returns the number of items in the  **BuildingBlocks** collection. Read-only **L
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlocks Collection](Word.BuildingBlocks.md)
 

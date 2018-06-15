@@ -69,8 +69,5 @@ Application.OrganizerRename Source:=dotTemp, Name:="Module1", _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -33,8 +33,5 @@ Only one character is accepted for the value of this property. If a string of mo
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

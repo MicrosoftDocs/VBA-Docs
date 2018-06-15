@@ -66,8 +66,5 @@ The following tables lists values used in  _Arg6_ .
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperties Object](Excel.CustomProperties.md)
 

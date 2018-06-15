@@ -27,7 +27,7 @@ If the value of the  **HangulAndAlphabetAutoAdd** property is **True** , words a
 
 
 
-```
+```vb
 AutoCorrect.HangulAndAlphabetExceptions.Add Name:="hello"
 ```
 
@@ -36,7 +36,7 @@ Use  **HangulAndAlphabetExceptions** (Index), where Index is the Hangul or alpha
 
 
 
-```
+```vb
 AutoCorrect.HangulAndAlphabetExceptions("goodbye").Delete
 ```
 

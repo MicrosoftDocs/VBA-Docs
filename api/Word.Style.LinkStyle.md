@@ -68,8 +68,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

@@ -26,9 +26,6 @@ Display purpose or non-display purpose field data of a PickerResult object. It i
 ## See also
 
 
-#### Concepts
-
-
 [PickerResult Object](pickerresult-object-office.md)
 #### Other resources
 

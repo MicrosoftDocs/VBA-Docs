@@ -61,8 +61,5 @@ Charts("Chart1").ChartWizard _
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

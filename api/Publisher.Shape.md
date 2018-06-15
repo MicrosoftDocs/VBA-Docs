@@ -37,7 +37,7 @@ Represents an object in the drawing layer, such as an AutoShape, freeform, OLE o
 Use  **[Shapes](http://msdn.microsoft.com/library/52e069a6-d54b-a11a-1cba-96174329cb02%28Office.15%29.aspx)** (index), where index is the name or the index number, to return a single **Shape** object. The following example horizontally flips shape one on the active document.
 
 
-```
+```vb
 Sub FlipShape() 
     ActiveDocument.Pages(1).Shapes(1).Flip FlipCmd:=msoFlipHorizontal 
 End Sub
@@ -48,7 +48,7 @@ The following example horizontally flips the shape named "Rectangle 1" on the ac
 
 
 
-```
+```vb
 Sub FlipShapeByName() 
     ActiveDocument.Pages(1).Shapes("Rectangle 1") _ 
         .Flip FlipCmd:=msoFlipHorizontal 
@@ -62,7 +62,7 @@ Use  **Selection.ShapeRange** (index), where index is the name or the index numb
 
 
 
-```
+```vb
 Sub FillSelectedShape() 
     Selection.ShapeRange(1).Fill.ForeColor.RGB = RGB(255, 0, 0) 
 End Sub
@@ -73,7 +73,7 @@ The following example sets the fill for all the shapes in the selection, assumin
 
 
 
-```
+```vb
 Sub FillAllSelectedShapes() 
     Dim shpShape As Shape 
     For Each
@@ -82,7 +82,7 @@ Sub FillAllSelectedShapes()
 
 
 
-```
+```vb
 shpShape In Selection.ShapeRange 
        
 ```
@@ -90,7 +90,7 @@ shpShape In Selection.ShapeRange
 
 
 
-```
+```vb
 shpShape.Fill.ForeColor.RGB = RGB(Red:=255, Green:=0, Blue:=0) 
     Next shpShape 
 End Sub
@@ -101,7 +101,7 @@ To add a  **Shape** object to the collection of shapes for the specified documen
 
 
 
-```
+```vb
 Sub AddNewShape() 
     ActiveDocument.Pages(1).Shapes.AddShape Type:=msoShapeRectangle, _ 
         Left:=400, Top:=72, Width:=100, Height:=200 
@@ -113,7 +113,7 @@ Use  **[GroupItems](http://msdn.microsoft.com/library/9194f43b-bd8a-76a9-aa8c-17
 
 
 
-```
+```vb
 Sub WorkWithGroupShapes() 
  
     With ActiveDocument.Pages(1).Shapes 
@@ -157,7 +157,7 @@ Use  **[TextFrame](http://msdn.microsoft.com/library/fc654905-d56b-9a6c-28fa-4b5
 
 
 
-```
+```vb
 Sub CreateNewTextBox() 
     With ActiveDocument.Pages(1).Shapes.AddTextbox( _ 
         Orientation:=pbTextOrientationHorizontal, Left:=100, _ 

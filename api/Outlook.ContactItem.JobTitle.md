@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the job title for the contact. Read/w
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

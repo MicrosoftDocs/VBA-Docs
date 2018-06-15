@@ -44,9 +44,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
  [SparklineGroup Object](sparklinegroup-object-excel.md)
 #### Other resources
 

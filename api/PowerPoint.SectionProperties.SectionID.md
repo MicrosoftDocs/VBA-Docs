@@ -44,8 +44,5 @@ The returned string is in the form "{XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX}", where e
 ## See also
 
 
-#### Concepts
-
-
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 

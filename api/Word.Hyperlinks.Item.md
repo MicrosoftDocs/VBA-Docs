@@ -39,8 +39,5 @@ Hyperlink
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlinks Collection Object](Word.hyperlinks.md)
 

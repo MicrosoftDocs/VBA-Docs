@@ -32,7 +32,7 @@ This instruction makes the  **Application** object in Word available for Automat
 
 
 
-```
+```vb
 wrd.Documents.Add
 ```
 

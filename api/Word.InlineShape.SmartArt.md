@@ -48,8 +48,5 @@ Set mySmartArt = myShape.SmartArt
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

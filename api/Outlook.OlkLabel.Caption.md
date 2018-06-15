@@ -31,8 +31,5 @@ The default value is an empty string. The Forms Designer sets this property to t
 ## See also
 
 
-#### Concepts
-
-
 [OlkLabel Object](Outlook.OlkLabel.md)
 

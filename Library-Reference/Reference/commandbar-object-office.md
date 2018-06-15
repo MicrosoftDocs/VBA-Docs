@@ -27,7 +27,7 @@ Represents a command bar in the container application. The  **CommandBar** objec
 Use  **CommandBars** ( _index_ ), where _index_ is the name or index number of a command bar, to return a single **CommandBar** object. The following example steps through the collection of command bars to find the command bar named "Forms." If it finds this command bar, the example makes it visible and protects its docking state. In this example, the variable **cb** represents a **CommandBar** object.
 
 
-```
+```vb
 foundFlag = False  
 For Each cb In CommandBars 
     If cb.Name = "Forms" Then 
@@ -46,7 +46,7 @@ You can use a name or index number to specify a menu bar or toolbar in the list 
 
 
 
-```
+```vb
 Set newItem = CommandBars("Tools").Controls.Add(Type:=msoControlButton) 
 With newItem 
     .BeginGroup = True  
@@ -61,16 +61,13 @@ If two or more custom menus or submenus have the same name,  **CommandBars(index
 
 
 
-```
+```vb
 Set viewMenu = CommandBars("Custom Tools").Controls(3) 
 viewMenu.Controls.Add ID:=3    'ID of Save command is 3
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

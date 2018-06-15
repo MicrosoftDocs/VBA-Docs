@@ -43,8 +43,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [TableOfContents Object](Word.TableOfContents.md)
 

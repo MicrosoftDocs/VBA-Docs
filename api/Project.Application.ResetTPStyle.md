@@ -55,7 +55,7 @@ The  **PjTeamPlannerStyle** constants are equivalent to the five styles shown in
 The following line of code resets the border color and fill color of auto-scheduled assignments in the Team Planner to their default values.
 
 
-```
+```vb
 ResetTPStyle Style:=pjTPScheduledWork
 ```
 

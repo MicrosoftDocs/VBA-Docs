@@ -34,8 +34,5 @@ Loads a bibliography source file.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Object](PowerPoint.AddIns.md)
 

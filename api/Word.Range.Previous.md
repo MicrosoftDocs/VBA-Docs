@@ -61,8 +61,5 @@ ActiveDocument.Words(2) _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -26,8 +26,5 @@ Returns or sets a **[WdStyleSort](Word.WdStyleSort.md)** constant that represent
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

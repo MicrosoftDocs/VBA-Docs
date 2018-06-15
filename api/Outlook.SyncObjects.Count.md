@@ -26,8 +26,5 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 ## See also
 
 
-#### Concepts
-
-
 [SyncObjects Object](Outlook.SyncObjects.md)
 

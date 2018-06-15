@@ -31,8 +31,5 @@ The path doesn't include a trailing character — for example, "C:\MSOffice" or 
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](Word.FileConverter.md)
 

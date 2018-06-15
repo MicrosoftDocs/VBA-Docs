@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to use small fractions in
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

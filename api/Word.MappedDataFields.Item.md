@@ -39,8 +39,5 @@ MappedDataField
 ## See also
 
 
-#### Concepts
-
-
 [MappedDataFields Collection](Word.MappedDataFields.md)
 

@@ -57,7 +57,7 @@ If you pass a non-contiguous selection of list members for  _ObjectToReorder_, V
 The following Visual Basic for Applications (VBA) example shows how to use the  **ReorderListMember** method to move a list member shape to the second position in the list.
 
 
-```
+```vb
 vsoListShape.ContainerProperties.ReorderListMember vsoShape, 2
 ```
 

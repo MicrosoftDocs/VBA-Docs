@@ -25,7 +25,7 @@ Returns or sets the format code for the object. Returns Null if the cells in the
 This example sets the number format for the data labels for series one.
 
 
-```
+```vb
 myChart.SeriesCollection(1).DataLabels.NumberFormat = "General"
 ```
 

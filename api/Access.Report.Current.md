@@ -41,8 +41,5 @@ Open → Load → Resize → Activate → Current
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

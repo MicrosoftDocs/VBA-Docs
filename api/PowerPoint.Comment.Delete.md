@@ -26,8 +26,5 @@ Deletes the specified  **Comment** object.
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](PowerPoint.Comment.md)
 

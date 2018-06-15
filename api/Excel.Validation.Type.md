@@ -26,8 +26,5 @@ Returns a  **Long** value, containing a **[XlDVType](Excel.XlDVType.md)** consta
 ## See also
 
 
-#### Concepts
-
-
 [Validation Object](Excel.Validation.md)
 

@@ -52,8 +52,5 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyTables
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

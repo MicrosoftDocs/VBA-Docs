@@ -36,8 +36,5 @@ You can control the appearance and behavior of a shadow applied to a table by se
 ## See also
 
 
-#### Concepts
-
-
 [TableBackground Object](PowerPoint.TableBackground.md)
 

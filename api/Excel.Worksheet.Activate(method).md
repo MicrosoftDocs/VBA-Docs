@@ -41,8 +41,5 @@ Worksheets("Sheet1").Activate
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

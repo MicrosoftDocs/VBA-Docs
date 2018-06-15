@@ -66,8 +66,5 @@ ActiveDocument.PageSetup.LineNumbering = Documents("MyDocument.doc") _
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

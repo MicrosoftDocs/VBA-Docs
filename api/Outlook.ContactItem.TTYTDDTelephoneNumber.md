@@ -26,8 +26,5 @@ Returns or sets a  **String** specifying the TTY/TDD telephone number for the co
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

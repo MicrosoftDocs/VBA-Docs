@@ -31,8 +31,5 @@ Returns a constant,  **olRuleActionNewItemAlert** , from the **[OlRuleActionType
 ## See also
 
 
-#### Concepts
-
-
 [NewItemAlertRuleAction Object](Outlook.NewItemAlertRuleAction.md)
 

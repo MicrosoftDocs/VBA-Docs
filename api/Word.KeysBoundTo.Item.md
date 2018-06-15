@@ -39,8 +39,5 @@ KeyBinding
 ## See also
 
 
-#### Concepts
-
-
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 

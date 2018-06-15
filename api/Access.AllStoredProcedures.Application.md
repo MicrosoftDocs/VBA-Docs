@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [AllStoredProcedures Collection](Access.AllStoredProcedures.md)
 

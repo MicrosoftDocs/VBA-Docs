@@ -76,8 +76,5 @@ ActiveDocument.MailMerge.CreateDataSource _
 ## See also
 
 
-#### Concepts
-
-
 [MailMerge Object](Word.MailMerge.md)
 

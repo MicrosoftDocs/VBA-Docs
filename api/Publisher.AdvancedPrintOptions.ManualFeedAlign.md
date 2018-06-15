@@ -38,8 +38,5 @@ Possible values for  **ManualFeedAlign** are **pbPlacementCenter** (3), **pbPlac
 ## See also
 
 
-#### Concepts
-
-
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 

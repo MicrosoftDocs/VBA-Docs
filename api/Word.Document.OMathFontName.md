@@ -26,8 +26,5 @@ Returns or sets a  **String** that represents the name of the font used in a doc
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

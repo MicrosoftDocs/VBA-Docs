@@ -26,8 +26,5 @@ Activates an inspector window by bringing it to the foreground and setting keybo
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

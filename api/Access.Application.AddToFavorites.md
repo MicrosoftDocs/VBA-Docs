@@ -31,8 +31,5 @@ When applied to the  **Application** object, the **AddToFavorites** method adds 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

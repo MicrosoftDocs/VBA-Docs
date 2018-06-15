@@ -36,8 +36,5 @@ The  **ControlType** property is also used to specify the type of control to cre
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

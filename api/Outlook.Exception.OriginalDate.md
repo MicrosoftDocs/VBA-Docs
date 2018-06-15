@@ -162,8 +162,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Outlook.Exception.md)
 

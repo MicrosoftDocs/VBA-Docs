@@ -26,8 +26,5 @@ Returns a  **String** value that represents the label text for the cube field.
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

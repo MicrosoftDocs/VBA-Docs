@@ -43,8 +43,5 @@ Application.EmailOptions.ThemeName = "blueprnt 100"
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

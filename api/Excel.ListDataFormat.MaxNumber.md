@@ -52,8 +52,5 @@ The following example displays the setting of the  **MaxNumber** property for th
 ## See also
 
 
-#### Concepts
-
-
 [ListDataFormat Object](Excel.ListDataFormat.md)
 

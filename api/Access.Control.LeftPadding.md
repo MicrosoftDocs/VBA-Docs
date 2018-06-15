@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the control and its left gr
 ## See also
 
 
-#### Concepts
-
-
 [Control Object](Access.Control.md)
 

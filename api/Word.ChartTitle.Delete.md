@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](Word.ChartTitle.md)
 

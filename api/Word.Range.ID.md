@@ -26,8 +26,5 @@ Returns or sets the identification name for the specified range. Read/write  **S
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

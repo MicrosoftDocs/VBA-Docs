@@ -48,7 +48,7 @@ This control is set in any application by doing the following:
 This example sets three options for all command bars in Microsoft Office, including custom command bars and the controls on them.
 
 
-```
+```vb
 With CommandBars 
     .LargeButtons = True  
     .DisplayFonts = True  
@@ -58,9 +58,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

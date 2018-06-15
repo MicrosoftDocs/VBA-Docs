@@ -31,8 +31,5 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

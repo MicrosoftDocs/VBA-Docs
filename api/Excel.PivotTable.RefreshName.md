@@ -42,8 +42,5 @@ MsgBox "The data was last refreshed by " &; pvtTable.RefreshName
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

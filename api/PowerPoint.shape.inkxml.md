@@ -27,8 +27,5 @@ A  **String** that contains the InkActionML associated with the specified shape.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

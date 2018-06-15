@@ -26,8 +26,5 @@ Returns or sets a  **Long** value that represents the index number of the **[Piv
 ## See also
 
 
-#### Concepts
-
-
 [PivotFormula Object](Excel.PivotFormula.md)
 

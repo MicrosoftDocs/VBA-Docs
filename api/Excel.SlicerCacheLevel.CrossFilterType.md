@@ -40,8 +40,5 @@ Slicers filtering non-OLAP data sources ( **SlicerCache** . **OLAP** = **False**
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 

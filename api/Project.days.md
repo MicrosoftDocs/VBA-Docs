@@ -25,7 +25,7 @@ Use  **Days(***Index* **)**, where*Index* is the day index number or **[PjWeekda
 
 
 
-```
+```vb
 Dim R As Resource, D As Integer, WorkingDays As Integer 
 
  
@@ -66,7 +66,7 @@ Use the  **[Days](Project.Month.Days.md)** property to return a **Days** collect
 
 
 
-```
+```vb
 MsgBox ActiveProject.Calendar.Years(2006).Months(pjNovember).Days.Count 
 
 

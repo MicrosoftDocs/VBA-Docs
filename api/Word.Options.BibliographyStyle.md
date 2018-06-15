@@ -26,8 +26,5 @@ Returns or sets a  **String** that represents the name of the style to use for f
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

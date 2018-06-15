@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to hide the degree for a 
 ## See also
 
 
-#### Concepts
-
-
 [OMathRad Object](Word.OMathRad.md)
 

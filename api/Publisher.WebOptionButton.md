@@ -24,7 +24,7 @@ Use the  **[AddWebControl](Publisher.Shapes.AddWebControl.md)** method to create
 
  
 
-```
+```vb
 Sub CreateNewWebOptionButton() 
  With ActiveDocument.Pages(1).Shapes 
  With .AddWebControl(Type:=pbWebControlOptionButton, Left:=100, _ 

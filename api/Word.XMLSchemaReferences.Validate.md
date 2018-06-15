@@ -36,8 +36,5 @@ When you run the  **Validate** method, Microsoft Word populates the **[XMLSchema
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 

@@ -42,8 +42,5 @@ If num <> 0 Then MsgBox ActiveDocument.Content.Bookmarks(num).Name
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

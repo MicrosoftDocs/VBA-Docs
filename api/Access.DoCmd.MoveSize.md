@@ -56,8 +56,5 @@ DoCmd.MoveSize 1440, 2400, , 2000
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

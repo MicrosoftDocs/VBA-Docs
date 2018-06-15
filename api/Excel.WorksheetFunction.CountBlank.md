@@ -44,8 +44,5 @@ Cells with formulas that return "" (empty text) are also counted. Cells with zer
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

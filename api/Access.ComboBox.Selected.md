@@ -56,8 +56,5 @@ Me!Combobox.Selected(4) = True
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

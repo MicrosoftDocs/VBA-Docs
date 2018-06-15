@@ -31,8 +31,5 @@ Occurs when an attachment has been added to an instance of the parent object.
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

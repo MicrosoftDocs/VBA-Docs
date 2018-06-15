@@ -40,8 +40,5 @@ The  **Alignment** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

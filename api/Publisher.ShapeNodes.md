@@ -24,7 +24,7 @@ Use the  **[Nodes](Publisher.Shape.Nodes.md)** property to return a **ShapeNodes
 
  
 
-```
+```vb
 Sub DeleteShapeNode() 
  ActiveDocument.Pages(1).Shapes(3).Nodes.Delete Index:=4 
 End Sub
@@ -37,7 +37,7 @@ Use the  **[Insert](Publisher.ShapeNodes.Insert.md)** method to create a new nod
 
 
 
-```
+```vb
 Sub AddCurvedSmoothSegment() 
  ActiveDocument.Pages(1).Shapes(3).Nodes.Insert _ 
  Index:=4, SegmentType:=msoSegmentCurve, _ 
@@ -52,7 +52,7 @@ Use  **Nodes** (index), where index is the node index number, to return a single
 
 
 
-```
+```vb
 Sub SetPointType() 
  With ActiveDocument.Pages(1).Shapes(3) 
  If .Nodes(1).EditingType = msoEditingCorner Then 

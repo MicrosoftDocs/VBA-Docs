@@ -33,7 +33,7 @@ If you'll be creating an add-in from your Visual Basic code, you should use the 
 Use  **Workbooks** ( _index_ ), where _index_ is the workbook name or index number, to return a single [Workbook](Excel.Workbook.md) object. The following example activates workbook one.
 
 
-```
+```vb
 Workbooks(1).Activate
 ```
 
@@ -46,7 +46,7 @@ The  **[Name](http://msdn.microsoft.com/library/55526a99-da9c-7f14-55f7-dfe9bd8f
 
 
 
-```
+```vb
 Workbooks("Cogs.xls").Worksheets("Sheet1").Activate
 ```
 
@@ -57,7 +57,7 @@ The  **[ActiveWorkbook](http://msdn.microsoft.com/library/637a2a30-f80c-08cd-e5c
 
 
 
-```
+```vb
 ActiveWorkbook.Author = "Jean Selva"
 ```
 
@@ -68,7 +68,7 @@ This example emails a worksheet tab from the active workbook using a specified e
 
 
 
-```
+```vb
 Sub SendTab()
    'Declare and initialize your variables, and turn off screen updating.
    Dim wks As Worksheet

@@ -47,9 +47,6 @@ This method differs from the [Insert](gradientstops-insert-method-office.md) met
 ## See also
 
 
-#### Concepts
-
-
 [GradientStops Object](gradientstops-object-office.md)
 #### Other resources
 

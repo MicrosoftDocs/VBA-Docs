@@ -48,8 +48,5 @@ Setting the  _WellFormedXMLOutput_ argument to **True** will result in a run-tim
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

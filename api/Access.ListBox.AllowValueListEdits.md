@@ -37,8 +37,5 @@ The  **AllowValueEditLists** property is not available for list boxes on a repor
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

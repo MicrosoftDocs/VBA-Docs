@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.ReportItem.Open.md)** even
 ## See also
 
 
-#### Concepts
-
-
 [ReportItem Object](Outlook.ReportItem.md)
 

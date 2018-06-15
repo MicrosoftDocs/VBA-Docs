@@ -65,8 +65,5 @@ strOutput = "12 points = " _
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

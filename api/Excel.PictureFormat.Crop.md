@@ -23,8 +23,5 @@ Returns an  **[Crop](http://msdn.microsoft.com/library/21ac150e-0a8f-c77b-717f-b
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Excel.PictureFormat.md)
 

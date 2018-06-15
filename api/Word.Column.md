@@ -25,7 +25,7 @@ The following example selects column one in table one in the active document.
 
 
 
-```
+```vb
 ActiveDocument.Tables(1).Columns(1).Select
 ```
 
@@ -34,7 +34,7 @@ Use the  **[Column](Word.Cell.Column.md)** property with a **[Cell](Word.Cell.md
 
 
 
-```
+```vb
 With ActiveDocument.Tables(1).Cell(1, 1) 
  .Range.Delete 
  .Range.InsertBefore "Sales" 
@@ -47,7 +47,7 @@ Use the  **[Add](Word.Columns.Add.md)** method to add a column to a table. The f
 
 
 
-```
+```vb
 If ActiveDocument.Tables.Count >= 1 Then 
  Set myTable = ActiveDocument.Tables(1) 
  myTable.Columns.Add BeforeColumn:=myTable.Columns(1) 
@@ -62,7 +62,7 @@ Use the  **[Information](Word.Selection.Information.md)** property with a **[Sel
 
 
 
-```
+```vb
 If Selection.Information(wdWithInTable) = True Then 
  Selection.Columns(1).Select 
  MsgBox "Column " _ 

@@ -28,7 +28,7 @@ Many of the properties of the  **FillFormat** object are read-only. To set one o
 Use the  **[Fill](Excel.Shape.Fill.md)** property to return a **FillFormat** object. The following example adds a rectangle to _myDocument_ and then sets the gradient and color for the rectangle's fill.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddShape(msoShapeRectangle, _ 
  90, 90, 90, 80).Fill 

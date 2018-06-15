@@ -47,8 +47,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Word.LineFormat.md)
 

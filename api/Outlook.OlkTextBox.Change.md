@@ -26,8 +26,5 @@ Occurs when the  **[Value](Outlook.OlkTextBox.Value.md)** property changes.
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

@@ -39,8 +39,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [Operation Object](Access.Operation.md)
 

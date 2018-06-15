@@ -31,8 +31,5 @@ For a two-color scale conditional format rule, this property will return a value
 ## See also
 
 
-#### Concepts
-
-
 [ColorScaleCriterion Object](Excel.ColorScaleCriterion.md)
 

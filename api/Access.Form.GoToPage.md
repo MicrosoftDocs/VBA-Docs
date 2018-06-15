@@ -55,8 +55,5 @@ Forms!Customer.GoToPage 2, 1440, 600
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

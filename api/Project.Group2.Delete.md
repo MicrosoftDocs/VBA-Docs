@@ -23,8 +23,5 @@ Deletes the  **Group2** object from a **Groups2** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Group2 Object](Project.Group2.md)
 

@@ -69,8 +69,5 @@ myDocument.Shapes.AddCallout(Type:=msoCalloutTwo, _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

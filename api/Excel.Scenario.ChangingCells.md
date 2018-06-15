@@ -37,8 +37,5 @@ ActiveSheet.Scenarios(1).ChangingCells.Select
 ## See also
 
 
-#### Concepts
-
-
 [Scenario Object](Excel.Scenario.md)
 

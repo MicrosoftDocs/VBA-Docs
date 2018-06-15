@@ -35,8 +35,5 @@ You can use this property to assign an identification string to an object withou
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

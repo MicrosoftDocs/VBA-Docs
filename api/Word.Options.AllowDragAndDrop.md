@@ -47,8 +47,5 @@ blnDragAndDrop = Options.AllowDragAndDrop
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

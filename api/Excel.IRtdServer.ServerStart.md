@@ -39,8 +39,5 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [IRtdServer Object](Excel.IRtdServer.md)
 

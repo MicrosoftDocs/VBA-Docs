@@ -25,7 +25,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 This example displays a message about the creator of an Excel workbook. In this example, the hexadecimal number 5843454C is equivalent to the string XCEL which indicates that this object was created in Excel.
 
 
-```
+```vb
 Sub FindCreator() 
  
  Dim myObject As Excel.Workbook 
@@ -42,9 +42,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextFrame2 Object](textframe2-object-office.md)

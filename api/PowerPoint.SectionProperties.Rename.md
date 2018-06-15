@@ -40,8 +40,5 @@ If sectionName is empty, the section is assigned the default section name.
 ## See also
 
 
-#### Concepts
-
-
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 

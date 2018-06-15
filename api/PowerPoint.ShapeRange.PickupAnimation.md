@@ -26,8 +26,5 @@ Picks up all animation from the  **ShapeRange** object.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

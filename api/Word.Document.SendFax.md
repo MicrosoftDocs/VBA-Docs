@@ -46,8 +46,5 @@ ActiveDocument.SendFax Address:="12065551234", _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

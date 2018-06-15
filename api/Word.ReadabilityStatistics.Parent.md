@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Read
 ## See also
 
 
-#### Concepts
-
-
 [ReadabilityStatistics Collection Object](Word.readabilitystatistics.md)
 

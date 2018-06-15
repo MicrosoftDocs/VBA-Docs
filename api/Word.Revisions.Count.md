@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of revisions in the collection. R
 ## See also
 
 
-#### Concepts
-
-
 [Revisions Collection Object](Word.revisions.md)
 

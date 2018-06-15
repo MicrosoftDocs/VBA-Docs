@@ -34,8 +34,5 @@ Using the  **SmartTags** property will result in a run-time error if the control
 ## See also
 
 
-#### Concepts
-
-
 [Control Object](Access.Control.md)
 

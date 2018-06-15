@@ -49,7 +49,7 @@ You can use the  **DStDev** function to specify criteria in the Criteria row of 
 
 
 
-```
+```vb
 >(DStDev("[Freight]", "Orders") + DAvg("[Freight]", "Orders"))
 ```
 
@@ -63,7 +63,7 @@ Use the  **DStDev** function in a calculated control when you need to specify cr
 
 
 
-```
+```vb
 =DStDev("[Freight]", "Orders", "[ShipRegion] = 'CA'")
 ```
 
@@ -117,7 +117,7 @@ The following examples show how to use various types of criteria with the  **DSt
 
 
 
-```js
+```vbjs
     ' ***************************
     ' Typical Use
     ' Numerical values. Replace "number" with the number to use.
@@ -169,10 +169,6 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [Application Object](Access.Application.md)

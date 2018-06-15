@@ -29,8 +29,5 @@ Returns or sets a  **ColorFormat** object that represents color of the contour o
 ## See also
 
 
-#### Concepts
-
-
  [ThreeDFormat Object](Publisher.ThreeDFormat.md)
 

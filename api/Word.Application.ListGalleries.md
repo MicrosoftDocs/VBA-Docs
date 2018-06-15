@@ -56,8 +56,5 @@ Next listgal
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

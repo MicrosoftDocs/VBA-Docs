@@ -41,8 +41,5 @@ Controls on the same form, report, or data access page can't have the same name,
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

@@ -51,9 +51,6 @@ Windows.Arrange ppArrangeCascade
 ## See also
 
 
-#### Concepts
-
-
 [DocumentWindows Object](PowerPoint.DocumentWindows.md)
 
 

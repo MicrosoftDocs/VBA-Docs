@@ -36,8 +36,5 @@ ActiveWorkbook.Styles("Stock Quote Style").Delete
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

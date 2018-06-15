@@ -57,8 +57,5 @@ myTE.TextEffect.Alignment = msoTextEffectAlignmentRight
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 

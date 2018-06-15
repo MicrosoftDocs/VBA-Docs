@@ -23,8 +23,5 @@ Returns or sets the text alignment for the specified  **FillFormat** object. Rea
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

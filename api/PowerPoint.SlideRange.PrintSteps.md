@@ -33,7 +33,7 @@ Long
 This example sets a variable to the number of slides you'd need to print to simulate the builds on slide one in the active presentation and then displays the value of the variable.
 
 
-```
+```vb
 steps1 = ActivePresentation.Slides(1).PrintSteps
 
 MsgBox steps1
@@ -41,9 +41,6 @@ MsgBox steps1
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideRange Object](PowerPoint.SlideRange.md)

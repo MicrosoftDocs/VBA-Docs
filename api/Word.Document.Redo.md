@@ -41,7 +41,7 @@ Boolean
 This example redoes the last two actions in the Sales.doc redo list.
 
 
-```
+```vb
 Documents("Sales.doc").Redo 2
 ```
 
@@ -58,9 +58,6 @@ If ActiveDocument.Redo = False Then _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

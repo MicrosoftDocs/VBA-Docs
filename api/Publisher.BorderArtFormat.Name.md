@@ -33,8 +33,5 @@ The  **Name** property is the default property for the **BorderArt**,  **BorderA
 ## See also
 
 
-#### Concepts
-
-
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 

@@ -46,8 +46,5 @@ The sort order used in a report isn't affected by the  **DateGrouping** property
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

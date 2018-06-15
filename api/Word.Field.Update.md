@@ -46,8 +46,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

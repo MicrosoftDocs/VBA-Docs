@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](PowerPoint.CalloutFormat.md)
 

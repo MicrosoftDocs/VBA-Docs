@@ -26,8 +26,5 @@ Allows Microsoft Word to break the specified table across pages. Read/write  **B
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Word.TableStyle.md)
 

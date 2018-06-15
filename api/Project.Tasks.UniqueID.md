@@ -31,7 +31,4 @@ Gets a  **[Task](Project.Task.md)** object from its containing collection. Read-
 ## See also
 
 
-#### Concepts
-
-
 [Tasks Collection Object](Project.tasks(object).md)

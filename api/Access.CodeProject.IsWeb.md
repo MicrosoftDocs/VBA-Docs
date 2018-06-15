@@ -31,8 +31,5 @@ The  **IsWeb** property contains **True** if the database is a Web database.
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

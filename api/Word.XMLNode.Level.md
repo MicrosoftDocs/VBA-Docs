@@ -26,8 +26,5 @@ Returns a  **[WdXMLNodeLevel](http://msdn.microsoft.com/library/77480b20-9400-c7
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

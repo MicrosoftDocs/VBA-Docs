@@ -36,7 +36,7 @@ The following example adds a custom outline code to store the location of resour
 
 
 
-```
+```vb
 Sub CreateLocationOutlineCode() 
 
  

@@ -56,8 +56,5 @@ myDocument.Shapes.AddMediaObject FileName:="C:\Windows\clock.avi", _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

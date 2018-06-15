@@ -42,7 +42,7 @@ The next example calls a function from a property sheet by using the  **Form** p
 
 
 
-```
+```vb
 =MyFunction(Form!CustomerID)
 ```
 
@@ -75,9 +75,6 @@ curTotalAmount = Forms!Orders!OrderDetails.Form!TotalAmount
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Form Object](Access.Form.md)

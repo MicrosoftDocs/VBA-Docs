@@ -31,8 +31,5 @@ This property does not have any effect on the icons displayed in the  **Shortcut
 ## See also
 
 
-#### Concepts
-
-
 [OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 

@@ -109,9 +109,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 

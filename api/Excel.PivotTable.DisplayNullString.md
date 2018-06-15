@@ -53,8 +53,5 @@ Worksheets(1).PivotTables("Pivot1").DisplayNullString = False
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

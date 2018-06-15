@@ -26,8 +26,5 @@ Returns an  **[XmlNamespace](Excel.XmlNamespace.md)** object that represents the
 ## See also
 
 
-#### Concepts
-
-
 [XmlSchema Object](Excel.XmlSchema.md)
 

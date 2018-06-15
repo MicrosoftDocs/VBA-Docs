@@ -49,7 +49,7 @@ You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argum
 This example assigns the ALT+F4 key combination to the Arial font and then displays the number of items in the  **KeyBindings** collection. The example then clears the key combinations (returns it to its default setting) and redisplays the number of items in the **KeyBindings** collection.
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyAlt, wdKeyF4), _ 
  KeyCategory:=wdKeyCategoryFont, Command:="Arial" 
@@ -63,7 +63,7 @@ This example assigns the CTRL+SHIFT+U key combination to the macro named "Macro1
 
 
 
-```
+```vb
 CustomizationContext = ActiveDocument 
 KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyControl, _ 
  wdKeyShift, wdKeyU), KeyCategory:=wdKeyCategoryMacro, _ 
@@ -89,9 +89,6 @@ If (kbTemp Is Nothing) Then MsgBox _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [KeyBindings Collection Object](Word.keybindings.md)

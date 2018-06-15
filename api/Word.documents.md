@@ -28,7 +28,7 @@ Use the  **[Add](Word.Documents.Add.md)** method to create a new empty document 
 
 
 
-```
+```vb
 Documents.Add
 ```
 
@@ -37,7 +37,7 @@ Use the  **[Open](Word.Documents.Open.md)** method to open a file. The following
 
 
 
-```
+```vb
 Documents.Open FileName:="C:\My Documents\Sales.doc"
 ```
 
@@ -46,7 +46,7 @@ Use  **[Documents](Word.Application.Documents.md)** (Index), where Index is the 
 
 
 
-```
+```vb
 Documents("Report.doc").Close SaveChanges:=wdDoNotSaveChanges
 ```
 
@@ -55,7 +55,7 @@ The index number represents the position of the document in the  **Documents** c
 
 
 
-```
+```vb
 Documents(1).Activate
 ```
 

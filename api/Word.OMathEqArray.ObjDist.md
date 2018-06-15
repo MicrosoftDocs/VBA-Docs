@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether the equations in an equat
 ## See also
 
 
-#### Concepts
-
-
 [OMathEqArray Object](Word.OMathEqArray.md)
 

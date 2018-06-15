@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether Outlook items are s
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

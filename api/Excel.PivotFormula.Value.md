@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the name of the specified fo
 ## See also
 
 
-#### Concepts
-
-
 [PivotFormula Object](Excel.PivotFormula.md)
 

@@ -42,8 +42,5 @@ Set allAuthors = ActiveDocument.CoAuthoring.Authors
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthoring Object](Word.CoAuthoring.md)
 

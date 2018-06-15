@@ -26,8 +26,5 @@ Returns or sets an  **[OlMailingAddress](Outlook.OlMailingAddress.md)** constant
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

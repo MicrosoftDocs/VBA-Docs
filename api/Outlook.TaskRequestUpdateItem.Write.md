@@ -36,8 +36,5 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

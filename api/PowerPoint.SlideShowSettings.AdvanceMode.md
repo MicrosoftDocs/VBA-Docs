@@ -37,8 +37,5 @@ The value of the  **AdvanceMode** property can be one of these **PpSlideShowAdva
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 

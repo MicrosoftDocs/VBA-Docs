@@ -33,9 +33,6 @@ Returns an empty string if this property has not been implemented or does not ex
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns or sets the degree of blurriness of the specified shadow. Read/write  **
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Excel.ShadowFormat.md)
 

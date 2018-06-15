@@ -26,8 +26,5 @@ Returns the parent object for the specified object. Read-only  **Object**.
 ## See also
 
 
-#### Concepts
-
-
 [TempVars Collection](Access.TempVars.md)
 

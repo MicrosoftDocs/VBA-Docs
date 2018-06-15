@@ -26,8 +26,5 @@ Returns or sets the value of a custom property. Read/write  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperty Object](Word.CustomProperty.md)
 

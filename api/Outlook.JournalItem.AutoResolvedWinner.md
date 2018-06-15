@@ -33,8 +33,5 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Jour
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

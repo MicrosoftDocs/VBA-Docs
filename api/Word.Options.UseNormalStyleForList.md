@@ -31,8 +31,5 @@ Corresponds to the  **Use Normal style for bulleted and numbered lists** check b
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

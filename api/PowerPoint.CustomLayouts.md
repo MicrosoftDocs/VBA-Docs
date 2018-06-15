@@ -30,7 +30,7 @@ Use the  **CustomLayout** property of a **[Slide](PowerPoint.Slide.md)** or **[S
 The following example adds a custom layout to the slide master of the active presentation.
 
 
-```
+```vb
 Sub AddCustomLayout()
 
     With ActivePresentation.SlideMaster
@@ -49,7 +49,7 @@ The following example displays the name of the custom layout for the first slide
 
 
 
-```
+```vb
 MsgBox ActivePresentation.Slides(1).CustomLayout.Name
 ```
 

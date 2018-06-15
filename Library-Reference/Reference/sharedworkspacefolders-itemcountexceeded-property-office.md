@@ -43,9 +43,6 @@ The  **ItemCountExceeded** property of the **SharedWorkspaceFolders** collection
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFolders Object](sharedworkspacefolders-object-office.md)
 #### Other resources
 

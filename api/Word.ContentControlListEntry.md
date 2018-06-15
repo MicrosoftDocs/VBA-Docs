@@ -28,7 +28,7 @@ The following code example uses the  **Add** method to add several list items to
 
 
 
-```
+```vb
 Dim objCC As ContentControl 
 Dim objLE As ContentControlListEntry 
 Dim objMap As XMLMapping 
@@ -52,7 +52,7 @@ Use the  **[MoveUp](Word.ContentControlListEntry.MoveUp.md)** and **[MoveDown](W
 
 
 
-```
+```vb
 Dim objcc As ContentControl 
 Dim objLE1 As ContentControlListEntry 
 Dim objLE2 As ContentControlListEntry 
@@ -85,7 +85,7 @@ Use the  **[Select](Word.ContentControlListEntry.Select.md)** method to programm
 
 
 
-```
+```vb
 Dim objCC As ContentControl 
 Dim objCE As ContentControlListEntry 
 Dim objMap As XMLMapping 
@@ -113,7 +113,7 @@ The following code example sets the value for the item based on the contents of 
 
 
 
-```
+```vb
 Dim objCc As ContentControl 
 Dim objLe As ContentControlListEntry 
 Dim strText As String 
@@ -134,7 +134,7 @@ Use the  **[Delete](Word.ContentControlListEntry.Delete.md)** method to remove a
 
 
 
-```
+```vb
 Dim objCC As ContentControl 
 Dim objCL As ContentControlListEntry 
  

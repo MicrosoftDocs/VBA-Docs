@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of columns in the collection. Rea
 ## See also
 
 
-#### Concepts
-
-
 [Columns Collection Object](Word.columns.md)
 

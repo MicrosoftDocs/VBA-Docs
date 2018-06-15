@@ -56,8 +56,5 @@ The value of the  **Type** property can be one of these **PpPlaceholderType** co
 ## See also
 
 
-#### Concepts
-
-
 [PlaceholderFormat Object](PowerPoint.PlaceholderFormat.md)
 

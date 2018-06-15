@@ -51,8 +51,5 @@ ActiveDocument.Paragraphs(1).Range.Font = myFont
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

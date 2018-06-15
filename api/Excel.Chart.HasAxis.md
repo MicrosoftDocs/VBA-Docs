@@ -52,8 +52,5 @@ Charts("Chart1").HasAxis(xlValue, xlPrimary) = True
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

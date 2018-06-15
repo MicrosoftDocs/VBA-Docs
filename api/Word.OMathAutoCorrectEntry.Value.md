@@ -26,8 +26,5 @@ Returns or sets a  **String** that represents the contents of an equation auto c
 ## See also
 
 
-#### Concepts
-
-
 [OMathAutoCorrectEntry Object](Word.OMathAutoCorrectEntry.md)
 

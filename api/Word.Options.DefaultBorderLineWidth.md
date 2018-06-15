@@ -37,8 +37,5 @@ Selection.Borders.Enable = True
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

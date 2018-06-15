@@ -43,8 +43,5 @@ MsgBox Documents.Add(DocumentType:=wdNewBlankDocument) _
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

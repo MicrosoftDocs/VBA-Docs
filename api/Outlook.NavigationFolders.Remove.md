@@ -39,8 +39,5 @@ Only removable folders,  **NavigationFolder** objects with an **[IsRemovable](Ou
 ## See also
 
 
-#### Concepts
-
-
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 

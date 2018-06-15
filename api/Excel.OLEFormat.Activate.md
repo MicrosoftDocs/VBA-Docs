@@ -26,8 +26,5 @@ Activates the current ole object.
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Excel.OLEFormat.md)
 

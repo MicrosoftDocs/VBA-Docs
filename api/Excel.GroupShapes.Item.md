@@ -50,8 +50,5 @@ sr.Item(2).OnAction = "ShapeAction"
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Object](Excel.GroupShapes.md)
 

@@ -49,8 +49,5 @@ ActiveDocument.SetLetterContent LetterContent:=lcCurrent
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

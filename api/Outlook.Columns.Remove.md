@@ -41,8 +41,5 @@ Returns an error message if an invalid  _Index_ has been specified.
 ## See also
 
 
-#### Concepts
-
-
 [Columns Object](Outlook.Columns.md)
 

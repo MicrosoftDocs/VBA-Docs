@@ -39,8 +39,5 @@ Row
 ## See also
 
 
-#### Concepts
-
-
 [Rows Object](PowerPoint.Rows.md)
 

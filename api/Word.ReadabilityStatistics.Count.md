@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of readability statistics in the 
 ## See also
 
 
-#### Concepts
-
-
 [ReadabilityStatistics Collection Object](Word.readabilitystatistics.md)
 

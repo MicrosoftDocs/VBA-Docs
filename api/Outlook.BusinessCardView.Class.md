@@ -31,8 +31,5 @@ This property returns  **olBusinessCardView** for the **[BusinessCardView](Outlo
 ## See also
 
 
-#### Concepts
-
-
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 

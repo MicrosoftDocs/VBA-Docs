@@ -29,8 +29,5 @@ Returns or sets the color of the content control. Read/write [WdColor](Word.cont
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

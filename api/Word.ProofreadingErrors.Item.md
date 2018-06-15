@@ -39,8 +39,5 @@ Range
 ## See also
 
 
-#### Concepts
-
-
 [ProofreadingErrors Collection Object](Word.proofreadingerrors.md)
 

@@ -50,8 +50,5 @@ The default value varies depending whether the new media is an audio or video fi
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

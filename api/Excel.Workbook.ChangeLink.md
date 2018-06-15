@@ -54,8 +54,5 @@ ActiveWorkbook.ChangeLink "c:\excel\book1.xls", _
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

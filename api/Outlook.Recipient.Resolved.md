@@ -79,8 +79,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

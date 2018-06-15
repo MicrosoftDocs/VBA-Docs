@@ -75,8 +75,5 @@ To respond to an event caused by moving the mouse, you use a  **MouseMove** even
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Access.CheckBox.md)
 

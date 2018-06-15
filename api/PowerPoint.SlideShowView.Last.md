@@ -33,15 +33,12 @@ If you use the  **Last** method to switch from one slide to another during a sli
 This example sets slide show window one to display the last slide in the presentation.
 
 
-```
+```vb
 SlideShowWindows(1).View.Last
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)

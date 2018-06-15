@@ -37,8 +37,5 @@ ActiveDocument.Indexes(1).SortBy = _
 ## See also
 
 
-#### Concepts
-
-
 [Index Object](Word.Index.md)
 

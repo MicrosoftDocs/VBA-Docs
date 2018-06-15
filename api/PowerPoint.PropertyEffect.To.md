@@ -38,8 +38,5 @@ Do not confuse this property with the  **ToX** or **ToY** properties of the **[S
 ## See also
 
 
-#### Concepts
-
-
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 

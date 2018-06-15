@@ -40,8 +40,5 @@ If you don't specify either  _Before_ or _After_, Microsoft Excel creates a new 
 ## See also
 
 
-#### Concepts
-
-
 [Charts Collection](Excel.Charts.md)
 

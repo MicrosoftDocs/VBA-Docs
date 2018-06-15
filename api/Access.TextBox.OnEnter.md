@@ -54,8 +54,5 @@ Forms("Order Entry").Controls("OK").OnEnter = "Enter_Macro"
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

@@ -34,8 +34,5 @@ Returns an  **Integer** that represents the original list level for a paragraph.
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

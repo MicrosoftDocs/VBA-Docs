@@ -39,8 +39,5 @@ The name of the field corresponds to the name of the corresponding XML element i
 ## See also
 
 
-#### Concepts
-
-
 [Source Object](Word.Source.md)
 

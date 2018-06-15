@@ -82,8 +82,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 

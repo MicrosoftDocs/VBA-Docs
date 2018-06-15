@@ -34,8 +34,5 @@ The actual value of the priority will be equal to the total number of conditiona
 ## See also
 
 
-#### Concepts
-
-
 [UniqueValues Object](Excel.UniqueValues.md)
 

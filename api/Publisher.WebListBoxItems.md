@@ -24,7 +24,7 @@ Use the  **[ListBoxItems](Publisher.WebListBox.ListBoxItems.md)** property to ac
 
  
 
-```
+```vb
 Sub CreateWebListBox() 
  Dim intCount As Integer 
  With ActiveDocument.Pages(1).Shapes 

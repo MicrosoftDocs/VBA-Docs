@@ -39,8 +39,5 @@ Source
 ## See also
 
 
-#### Concepts
-
-
 [Sources Collection](Word.Sources.md)
 

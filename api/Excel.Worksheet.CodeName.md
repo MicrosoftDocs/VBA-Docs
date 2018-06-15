@@ -53,8 +53,5 @@ MsgBox Worksheets(1).CodeName
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

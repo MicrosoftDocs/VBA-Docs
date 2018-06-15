@@ -42,8 +42,5 @@ ActiveWindow.Selection.ShapeRange.Table.Rows(2) _
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](PowerPoint.Cell.md)
 

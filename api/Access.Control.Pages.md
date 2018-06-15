@@ -36,8 +36,5 @@ MsgBox "Number of pages in TabCtl1:" &; TabCtl1.Pages.Count
 ## See also
 
 
-#### Concepts
-
-
 [Control Object](Access.Control.md)
 

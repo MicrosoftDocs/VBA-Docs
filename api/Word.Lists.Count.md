@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of lists in the collection. Read-
 ## See also
 
 
-#### Concepts
-
-
 [Lists Collection Object](Word.lists.md)
 

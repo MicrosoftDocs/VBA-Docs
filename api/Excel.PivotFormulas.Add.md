@@ -51,8 +51,5 @@ Worksheets(1).PivotTables(1).PivotFormulas _
 ## See also
 
 
-#### Concepts
-
-
 [PivotFormulas Object](Excel.PivotFormulas.md)
 

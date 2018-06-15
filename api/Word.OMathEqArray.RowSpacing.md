@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the spacing between the rows in an e
 ## See also
 
 
-#### Concepts
-
-
 [OMathEqArray Object](Word.OMathEqArray.md)
 

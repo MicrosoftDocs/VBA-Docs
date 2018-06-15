@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether the ascent of the phantom
 ## See also
 
 
-#### Concepts
-
-
 [OMathPhantom Object](Word.OMathPhantom.md)
 

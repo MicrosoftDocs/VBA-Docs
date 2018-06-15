@@ -52,8 +52,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Trendlines Object](Excel.Trendlines(object).md)
 

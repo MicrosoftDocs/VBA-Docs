@@ -59,8 +59,5 @@ ChiTest returns the value from the chi-squared ( 2 ) distribution for the statis
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -31,8 +31,5 @@ Attempting to set this property returns an error.
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

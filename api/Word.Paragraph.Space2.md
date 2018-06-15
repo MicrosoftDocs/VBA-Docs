@@ -43,15 +43,12 @@ ActiveDocument.Paragraphs(1).LineSpacingRule = wdLineSpaceDouble
 This example changes the first paragraph in the selection to double spacing.
 
 
-```
+```vb
 Selection.Paragraphs(1).Space2
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Paragraph Object](Word.Paragraph.md)

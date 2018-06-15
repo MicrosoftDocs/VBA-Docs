@@ -64,7 +64,7 @@ UtterAccess members can download a database that contains this example from [her
 
 
 
-```
+```vb
 Private Sub cmdSearch_Click()
     Dim db As Database
     Dim qd As QueryDef
@@ -109,7 +109,7 @@ The following example shows how to set the  **RowSource** property of a combo bo
 
 
 
-```
+```vb
 Private Sub Form_Load()
     Me.Caption = "Today is " &amp; Format$(Date, "dddd mmm-d-yyyy")
     Me.RecordSource = "tblDepartments"
@@ -133,7 +133,7 @@ The  **ColumnWidths** property specifies the width of the two columns. By settin
 
 
 
-```
+```vb
 Private Sub cboDept_Enter()
     With cboDept
         .RowSource = "SELECT * FROM tblDepartments ORDER BY Department"
@@ -149,7 +149,7 @@ The following example shows how to add an item to a bound combo box.
  **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
-```
+```vb
 Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
 
     On Error GoTo Error_Handler

@@ -28,8 +28,5 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [CustomerData Collection](PowerPoint.CustomerData.md)
 

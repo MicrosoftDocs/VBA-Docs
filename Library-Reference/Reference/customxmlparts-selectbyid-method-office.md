@@ -46,7 +46,7 @@ If a custom XML part with this ID does not exist, the method returns  **Nothing*
 The following example retrieves a custom XML part matching the GUID and then searches for a node in that part that matches an XPath expression.
 
 
-```
+```vb
 Dim cxp1 As CustomXMLPart 
 Dim cxn As CustomXMLNode 
  
@@ -59,9 +59,6 @@ Set cxn = cxp1.SelectSingleNode("//*[@supplierID = 1]")
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLParts Object](customxmlparts-object-office.md)

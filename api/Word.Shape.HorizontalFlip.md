@@ -42,8 +42,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

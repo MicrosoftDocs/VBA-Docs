@@ -46,8 +46,5 @@ MsgBox "The name of the active printer is " &; Application.ActivePrinter
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

@@ -42,9 +42,6 @@ This method can only be called on an already encrypted document. You can use thi
 ## See also
 
 
-#### Concepts
-
-
 [EncryptionProvider Object](encryptionprovider-object-office.md)
 #### Other resources
 

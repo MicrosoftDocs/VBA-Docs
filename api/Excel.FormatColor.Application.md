@@ -31,8 +31,5 @@ You can use this property with an OLE Automation object to return the applicatio
 ## See also
 
 
-#### Concepts
-
-
 [FormatColor Object](Excel.FormatColor.md)
 

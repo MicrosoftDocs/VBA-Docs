@@ -31,7 +31,4 @@ Gets an  **[Assignment](Project.Assignment.md)** object from its containing coll
 ## See also
 
 
-#### Concepts
-
-
 [Assignments Collection Object](Project.assignments.md)

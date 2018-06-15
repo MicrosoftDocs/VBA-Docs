@@ -36,7 +36,7 @@ The  **SharedWorkspaceFolders** collection does not include the root document li
 The following example lists the subfolders in the current shared workspace.
 
 
-```
+```vb
     Dim swsFolders As Office.SharedWorkspaceFolders 
     Set swsFolders = ActiveWorkbook.SharedWorkspace.Folders 
     MsgBox "There are " &amp; swsFolders.Count &amp; _ 
@@ -49,9 +49,6 @@ The following example lists the subfolders in the current shared workspace.
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspace Object](sharedworkspace-object-office.md)

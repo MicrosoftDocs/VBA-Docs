@@ -41,7 +41,7 @@ Use the  **[Add](Outlook.AutoFormatRules.Add.md)** method or the **[Insert](Outl
 The following Visual Basic for Applications (VBA) example enumerates the  **AutoFormatRules** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
 
 
-```
+```vb
 Private Sub DisableCustomAutoFormatRules() 
  
  Dim objTableView As TableView 

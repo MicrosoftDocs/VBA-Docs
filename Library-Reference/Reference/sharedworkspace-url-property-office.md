@@ -41,7 +41,7 @@ The URL property returns the address of the shared workspace in this format:  `h
 The following example displays the base URL of the shared workspace.
 
 
-```
+```vb
  MsgBox "URL: " &amp; ActiveWorkbook.SharedWorkspaceLink.URL, _ 
         vbInformation + vbOKOnly, "Shared Workspace URL" 
 
@@ -49,9 +49,6 @@ The following example displays the base URL of the shared workspace.
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspace Object](sharedworkspace-object-office.md)

@@ -62,8 +62,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](PowerPoint.AutoCorrect.md)
 

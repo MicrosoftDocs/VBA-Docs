@@ -26,8 +26,5 @@ Returns the  **Frameset** object type. Read-only **[WdFramesetType](Word.WdFrame
 ## See also
 
 
-#### Concepts
-
-
 [Frameset Object](Word.Frameset.md)
 

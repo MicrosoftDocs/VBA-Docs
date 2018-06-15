@@ -46,8 +46,5 @@ If the  **ProtectedViewWindowsBeforeClose** event is called as part of the[Prote
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

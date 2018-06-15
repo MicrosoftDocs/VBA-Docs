@@ -29,8 +29,5 @@ Returns a [Broadcast](Word.broadcast.md) object that represents a broadcast sess
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

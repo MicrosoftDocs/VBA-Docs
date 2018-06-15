@@ -28,7 +28,7 @@ Use the  **[Inspectors](Outlook.Application.Inspectors.md)** property to return 
 The following example shows how to retrieve the  **Inspectors** object in Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA).
 
 
-```
+```vb
 Set myInspectors = Application.Inspectors
 ```
 

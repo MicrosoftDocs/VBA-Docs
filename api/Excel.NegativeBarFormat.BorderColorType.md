@@ -36,8 +36,5 @@ If you set the  **BorderColorType** property to **xlDataBarColor** , use the **[
 ## See also
 
 
-#### Concepts
-
-
 [NegativeBarFormat Object](Excel.NegativeBarFormat.md)
 

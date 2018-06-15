@@ -40,7 +40,7 @@ Adds a folder to the document library in a shared workspace. Returns a  **[Share
 The following example adds a new folder to the folders collection of the shared workspace.
 
 
-```
+```vb
     Dim swsFolder As Office.SharedWorkspaceFolder 
     Set swsFolder = ActiveWorkbook.SharedWorkspace.Folders.Add("MyNewFolder") 
     MsgBox "New folder: " &amp; swsFolder.FolderName, _ 
@@ -52,9 +52,6 @@ The following example adds a new folder to the folders collection of the shared 
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceFolders Object](sharedworkspacefolders-object-office.md)

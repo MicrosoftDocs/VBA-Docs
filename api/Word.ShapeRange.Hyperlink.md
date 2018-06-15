@@ -36,8 +36,5 @@ ActiveDocument.Hyperlinks.Add Selection.ShapeRange(1), "http://www.microsoft.com
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

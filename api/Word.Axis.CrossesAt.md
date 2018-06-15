@@ -33,8 +33,5 @@ You cannot use this property on radar charts. For 3-D charts, this property indi
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Word.Axis.md)
 

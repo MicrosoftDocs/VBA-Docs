@@ -34,8 +34,5 @@ Returns the link type. Read-only  **[WdLinkType](Word.WdLinkType.md)** .
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](Word.LinkFormat.md)
 

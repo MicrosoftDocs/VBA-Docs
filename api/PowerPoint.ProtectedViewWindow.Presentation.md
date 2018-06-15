@@ -26,8 +26,5 @@ Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 

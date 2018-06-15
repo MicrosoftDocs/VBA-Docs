@@ -31,9 +31,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [FileTypes Object](filetypes-object-office.md)
 #### Other resources
 

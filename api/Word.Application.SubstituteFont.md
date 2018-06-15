@@ -51,8 +51,5 @@ Application.SubstituteFont UnavailableFont:= "CustomFont1", _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

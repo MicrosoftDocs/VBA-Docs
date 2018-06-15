@@ -34,8 +34,5 @@ You can use the  **Remove** method to remove an **AccessObjectProperty** object 
 ## See also
 
 
-#### Concepts
-
-
 [AccessObjectProperties Collection](Access.AccessObjectProperties.md)
 

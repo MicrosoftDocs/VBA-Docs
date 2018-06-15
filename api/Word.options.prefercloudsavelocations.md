@@ -34,8 +34,5 @@ The setting of the  **PreferCloudSaveLocations** property is the reverse of that
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

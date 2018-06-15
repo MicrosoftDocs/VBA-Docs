@@ -44,8 +44,5 @@ myHandHF.Header.Text = "Third Quarter Report"
 ## See also
 
 
-#### Concepts
-
-
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 

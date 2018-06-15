@@ -62,8 +62,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
  [Attachments Collection](Publisher.Attachments.md)
 

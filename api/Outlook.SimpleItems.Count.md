@@ -26,8 +26,5 @@ Returns a  **Long** that indicates the count of objects in the **[SimpleItems](O
 ## See also
 
 
-#### Concepts
-
-
 [SimpleItems Object](Outlook.SimpleItems.md)
 

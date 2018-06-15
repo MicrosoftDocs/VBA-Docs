@@ -48,8 +48,5 @@ Use strong passwords that combine upper- and lowercase letters, numbers, and sym
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

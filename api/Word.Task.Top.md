@@ -40,8 +40,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

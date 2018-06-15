@@ -21,7 +21,7 @@ Returns or sets the depth of a 3-D chart as a percentage of the chart width (bet
 This example sets the depth of the chart to be 50 percent of its width. The example should be run on a 3-D chart (the  **DepthPercent** property fails on 2-D charts).
 
 
-```
+```vb
 myChart.DepthPercent = 50
 ```
 

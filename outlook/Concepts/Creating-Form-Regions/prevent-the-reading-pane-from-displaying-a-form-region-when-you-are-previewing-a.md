@@ -19,7 +19,7 @@ When you create a form region in a custom form, by default, the form region will
 The following example disables the Reading Pane from displaying a form region:
 
 
-```
+```vb
 <showReadingPane>false</showReadingPane>
 ```
 

@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.PostItem.Close(method).md)** method to fire th
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

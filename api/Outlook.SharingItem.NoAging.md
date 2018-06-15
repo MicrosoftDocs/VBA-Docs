@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that is **True** to not age the **[SharingI
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

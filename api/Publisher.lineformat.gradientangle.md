@@ -34,8 +34,5 @@ A gradient fill can be specified in the formatting for various elements. The val
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

@@ -47,7 +47,4 @@ For an enterprise project that Project Server manages, if you try to set the val
 ## See also
 
 
-#### Concepts
-
-
 [Project Object](Project.Project.md)

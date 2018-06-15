@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [DropLines Object](Excel.DropLines(objec).md)
 

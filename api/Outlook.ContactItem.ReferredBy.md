@@ -26,8 +26,5 @@ Returns or sets a  **String** specifying the referral name entry for the contact
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

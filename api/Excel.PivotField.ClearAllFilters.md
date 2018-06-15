@@ -26,8 +26,5 @@ Calling this method deletes all filters currently applied to the PivotField. Thi
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

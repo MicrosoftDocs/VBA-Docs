@@ -26,7 +26,7 @@ Use the  **[Item](Outlook.OutlookBarShortcuts.Item.md)** method to retrieve the 
 The following example retrieves an  **OutlookBarShortcut** object by name.
 
 
-```
+```vb
 Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 ```
 

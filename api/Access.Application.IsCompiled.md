@@ -31,8 +31,5 @@ The  **IsCompiled** property of the **[Application](Access.Application.md)** obj
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

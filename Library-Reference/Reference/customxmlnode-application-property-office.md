@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLNode Object](customxmlnode-object-office.md)
 #### Other resources
 

@@ -39,9 +39,6 @@ The value of the this property can be one of these  **MsoTriState** constants.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 #### Other resources
 

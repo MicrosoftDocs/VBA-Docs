@@ -95,7 +95,5 @@ The postal code converter program has been developed and licensed by Advanced Gi
 
 ## See also
 
-#### Concepts
-
 - [TextBox Object](Access.TextBox.md)
 

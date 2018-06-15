@@ -71,8 +71,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Documents Collection Object](Word.documents.md)
 

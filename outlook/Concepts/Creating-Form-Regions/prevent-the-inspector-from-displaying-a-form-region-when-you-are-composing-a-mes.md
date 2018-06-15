@@ -19,7 +19,7 @@ When you create a form region in a custom form, by default, the form region will
 The following example disables the inspector from displaying a form region when in compose mode:
 
 
-```
+```vb
 <showInspectorCompose>false</showInspectorCompose>
 ```
 

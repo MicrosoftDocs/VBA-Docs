@@ -26,8 +26,5 @@ Sets or returns the full path (including file name) of a specific object. Read/w
 ## See also
 
 
-#### Concepts
-
-
 [AccessObject Object](Access.AccessObject.md)
 

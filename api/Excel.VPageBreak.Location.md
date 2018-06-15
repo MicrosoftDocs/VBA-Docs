@@ -37,8 +37,5 @@ Set r = Worksheets(1).VPageBreaks(1).Location
 ## See also
 
 
-#### Concepts
-
-
 [VPageBreak Object](Excel.VPageBreak.md)
 

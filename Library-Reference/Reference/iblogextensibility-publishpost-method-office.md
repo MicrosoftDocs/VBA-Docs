@@ -45,9 +45,6 @@ Hands off the current post so it can be published by the provider.
 ## See also
 
 
-#### Concepts
-
-
 [IBlogExtensibility Object](iblogextensibility-object-office.md)
 #### Other resources
 

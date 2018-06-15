@@ -166,8 +166,5 @@ The following abbreviated unit prefixes can be prepended to any metric from_unit
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

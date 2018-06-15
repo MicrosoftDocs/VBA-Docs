@@ -36,8 +36,5 @@ The  **Shapes** collection of layout elements can include drawings, shapes, OLE 
 ## See also
 
 
-#### Concepts
-
-
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 

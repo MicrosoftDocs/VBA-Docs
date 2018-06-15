@@ -49,8 +49,5 @@ Charts("Chart1").SeriesCollection(1).Points(1).ApplyDataLabels
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

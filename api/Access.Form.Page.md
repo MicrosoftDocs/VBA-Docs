@@ -33,8 +33,5 @@ This property is only available in Print Preview or when printing.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

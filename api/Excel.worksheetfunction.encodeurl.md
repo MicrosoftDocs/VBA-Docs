@@ -42,8 +42,5 @@ This method enables the referencing of other cells as arguments into the Web Ser
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

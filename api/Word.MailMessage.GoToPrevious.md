@@ -26,8 +26,5 @@ Displays the previous mail message if you are using Word as your e-mail editor.
 ## See also
 
 
-#### Concepts
-
-
 [MailMessage Object](Word.MailMessage.md)
 

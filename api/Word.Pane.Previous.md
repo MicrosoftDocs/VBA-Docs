@@ -26,8 +26,5 @@ Returns a  **Pane** object that represents the previous document pane in the col
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

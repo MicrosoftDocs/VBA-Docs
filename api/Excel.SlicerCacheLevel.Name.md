@@ -31,8 +31,5 @@ Returns the MDX unique name of OLAP hierarchy level represented by the object.
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 

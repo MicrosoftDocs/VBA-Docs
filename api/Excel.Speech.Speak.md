@@ -51,8 +51,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Speech Object](Excel.Speech.md)
 

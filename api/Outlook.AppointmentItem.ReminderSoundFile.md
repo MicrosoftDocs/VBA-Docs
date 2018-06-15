@@ -31,8 +31,5 @@ This property is only valid if the  **[ReminderOverrideDefault](Outlook.Appointm
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

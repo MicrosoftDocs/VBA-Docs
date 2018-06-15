@@ -38,7 +38,7 @@ Presentation
 This example saves the loaded presentation to the application folder in a file named "TestFile."
 
 
-```
+```vb
 MyPath = Application.Path &; "\TestFile"
 
 Application.ActivePresentation.SaveAs MyPath
@@ -46,9 +46,6 @@ Application.ActivePresentation.SaveAs MyPath
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](PowerPoint.Application.md)

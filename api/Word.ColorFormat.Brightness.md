@@ -51,8 +51,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Word.ColorFormat.md)
 

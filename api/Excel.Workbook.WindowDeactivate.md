@@ -34,8 +34,5 @@ Occurs when any workbook window is deactivated.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

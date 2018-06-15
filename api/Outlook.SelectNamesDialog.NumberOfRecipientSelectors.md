@@ -35,8 +35,5 @@ If you set  **NumberOfRecipientSelectors** to **OlRecipientSelectors.olShowNone*
 ## See also
 
 
-#### Concepts
-
-
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

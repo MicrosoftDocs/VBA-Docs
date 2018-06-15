@@ -51,8 +51,5 @@ This property is not surfaced in the property sheet.
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of tasks in the collection. Read-
 ## See also
 
 
-#### Concepts
-
-
 [Tasks Collection Object](Word.tasks.md)
 

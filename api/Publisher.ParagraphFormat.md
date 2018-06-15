@@ -21,7 +21,7 @@ Represents all the formatting for a paragraph.
 Use the  **[ParagraphFormat](http://msdn.microsoft.com/library/5ab0a2ec-d7a9-f3af-29e7-5421427ee783%28Office.15%29.aspx)** property to return the **ParagraphFormat** object for a paragraph or paragraphs. The **ParagraphFormat** property returns the **ParagraphFormat** object for a selection, range, or style. The following example centers the paragraph at the cursor position. This example assumes that the first shape is a text box and not another type of shape.
 
 
-```
+```vb
 Sub CenterParagraph() 
  Selection.TextRange.ParagraphFormat _ 
  .Alignment = pbParagraphAlignmentCenter 
@@ -33,7 +33,7 @@ Use the  **[Duplicate](http://msdn.microsoft.com/library/545dbfdb-4cd5-99b1-1ba3
 
 
 
-```
+```vb
 Sub DuplicateParagraphFormating() 
  Dim pfmtDup As ParagraphFormat 
  

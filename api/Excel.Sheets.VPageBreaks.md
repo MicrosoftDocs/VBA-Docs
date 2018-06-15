@@ -26,8 +26,5 @@ Returns a  **[VPageBreaks](Excel.Sheets.VPageBreaks.md)** collection that repres
 ## See also
 
 
-#### Concepts
-
-
 [Sheets Object](Excel.Sheets.md)
 

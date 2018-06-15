@@ -117,8 +117,5 @@ ActiveDocument.PrintOut _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

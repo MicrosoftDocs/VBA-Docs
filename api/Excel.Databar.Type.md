@@ -31,8 +31,5 @@ This property will always return a  **Long** value of "4", which is equivalent t
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

@@ -26,8 +26,5 @@ Returns whether a table style element has formatting applied to the specified el
 ## See also
 
 
-#### Concepts
-
-
 [TableStyleElement Object](Excel.TableStyleElement.md)
 

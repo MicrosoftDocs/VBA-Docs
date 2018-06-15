@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [UserAccess Object](Excel.UserAccess.md)
 

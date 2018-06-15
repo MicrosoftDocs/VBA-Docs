@@ -35,8 +35,5 @@ Converts a table to text and returns a  **Range** object that represents the del
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

@@ -23,7 +23,4 @@ Gets or sets a  **[Profile](Project.Profile.md)** object that represents the def
 ## See also
 
 
-#### Concepts
-
-
 [Profiles Collection Object](Project.profiles.md)

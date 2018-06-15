@@ -91,8 +91,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

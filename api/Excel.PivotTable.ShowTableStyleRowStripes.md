@@ -26,8 +26,5 @@ The  **ShowTableStyleRowStripes** property displays banded rows in which even ro
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

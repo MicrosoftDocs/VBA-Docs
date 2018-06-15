@@ -31,8 +31,5 @@ The shortcut name is the display name of the document, if that's available; othe
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 

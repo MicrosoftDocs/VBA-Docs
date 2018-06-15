@@ -26,8 +26,5 @@ Returns or sets the width (in points) of the frame, in points. Read/write  **Lon
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

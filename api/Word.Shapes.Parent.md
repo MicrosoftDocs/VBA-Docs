@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Shap
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Collection Object](Word.shapes.md)
 

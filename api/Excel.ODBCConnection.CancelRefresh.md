@@ -31,8 +31,5 @@ Use the  **[Refreshing](Excel.ODBCConnection.Refreshing.md)** property to determ
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

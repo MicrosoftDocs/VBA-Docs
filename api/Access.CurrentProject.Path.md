@@ -43,8 +43,5 @@ MsgBox "The current database is located at " &; Application.CurrentProject.Path 
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

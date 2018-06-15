@@ -26,8 +26,5 @@ Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md
 ## See also
 
 
-#### Concepts
-
-
 [HiLoLines Object](Word.HiLoLines.md)
 

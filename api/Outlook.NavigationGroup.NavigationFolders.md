@@ -26,8 +26,5 @@ Returns a  **[NavigationFolders](Outlook.NavigationFolders.md)** object that con
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroup Object](Outlook.NavigationGroup.md)
 

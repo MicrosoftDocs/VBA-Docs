@@ -19,7 +19,7 @@ Saves the workbook and publishes it to a document.
 ## Example
 
 
-```
+```vb
 Workbook.PublishToDocs(Title As String, DisclosureScope As XlPublishToDocsDisclosureScope) As String
 ```
 
