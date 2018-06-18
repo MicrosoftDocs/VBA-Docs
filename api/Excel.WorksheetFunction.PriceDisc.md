@@ -71,7 +71,7 @@ Double
 - If settlement ? maturity, PRICEDISC returns the #NUM! error value.
     
 - PRICEDISC is calculated as follows:
-![Formula](images/awfprdc_ZA06051234.gif)where: B = number of days in year, depending on year basis. DSM = number of days from settlement to maturity. 
+![Formula](../images/awfprdc_ZA06051234.gif)where: B = number of days in year, depending on year basis. DSM = number of days from settlement to maturity. 
     
 
 ## See also

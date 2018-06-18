@@ -21,7 +21,7 @@ The  **Math** module contains procedures used to perform mathematical operations
 1. Select the procedure from the  **Members of 'Math'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

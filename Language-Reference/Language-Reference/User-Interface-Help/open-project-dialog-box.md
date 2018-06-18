@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Open Project Dialog Box
 
 
-![Open project dialog box](images/va24w61_ZA01201774.gif)
+![Open project dialog box](../../../images/va24w61_ZA01201774.gif)
 
 
 

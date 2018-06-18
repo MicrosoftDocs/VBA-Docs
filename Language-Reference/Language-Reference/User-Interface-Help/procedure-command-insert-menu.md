@@ -16,6 +16,6 @@ Inserts a new [Sub](vbe-glossary.md), [Function](vbe-glossary.md), or [Property]
 Not available if the module is not active.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_proc_ZA01201726.gif).
+![Toolbar button](../../../images/tbr_proc_ZA01201726.gif).
 
 

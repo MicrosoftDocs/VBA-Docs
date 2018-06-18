@@ -45,7 +45,7 @@ ChiSq_Test returns the value from the chi-squared ( 2 ) distribution for the sta
 - If actual_range and expected_range have a different number of data points, ChiSq_Test returns the #N/A error value.
     
 - The 2 test first calculates a ?2 statistic using the formula:
-![Formula](images/awfchtst_ZA06051120.gif)where: A ij = actual frequency in the i-th row, j-th column Eij = expected frequency in the i-th row, j-th column r = number or rows c = number of columns
+![Formula](../images/awfchtst_ZA06051120.gif)where: A ij = actual frequency in the i-th row, j-th column Eij = expected frequency in the i-th row, j-th column r = number or rows c = number of columns
     
 - A low value of 2 is an indicator of independence. As can be seen from the formula, 2 is always positive or 0, and is 0 only if Aij = Eij for every i,j.
     

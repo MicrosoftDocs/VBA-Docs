@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Properties Window
 
 
-![Properties window](images/prop_ZA01201645.gif)
+![Properties window](../../../images/prop_ZA01201645.gif)
 
 
 

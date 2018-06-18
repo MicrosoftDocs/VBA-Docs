@@ -22,7 +22,7 @@ This object corresponds to a toggle button. A toggle button on a form is a stand
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|![Toggle button with the label 'Discontinued'.](images/t-togbtn_ZA06054009.gif)|![Toggle button](images/togglbtn_ZA06044638.gif)|
+|![Toggle button with the label 'Discontinued'.](../images/t-togbtn_ZA06054009.gif)|![Toggle button](../images/togglbtn_ZA06044638.gif)|
 
  **Note**  When you click a toggle button that's bound to a Yes/No field, Microsoft Access displays the value in the underlying table according to the field's  **Format** property (Yes/No, **True** / **False**, or On/Off).
 

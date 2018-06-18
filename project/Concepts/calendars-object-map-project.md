@@ -28,7 +28,7 @@ For an overview of the  **Application** and **Project** objects, and for details
  **Note**  Objects in the following image do not link to the documentation pages.
 
 
-![VBA object map for Calendar](images/c9afe0e4-c832-47d0-9fe8-0fc85a180e6b.jpg)
-![Legend for the VBA object maps](images/ff3d756d-0d45-4140-bab4-e84faed9fdbd.gif)
+![VBA object map for Calendar](../../images/c9afe0e4-c832-47d0-9fe8-0fc85a180e6b.jpg)
+![Legend for the VBA object maps](../../images/ff3d756d-0d45-4140-bab4-e84faed9fdbd.gif)
 
 

@@ -25,7 +25,7 @@ Use the  **[Adjustments](Excel.Shape.Adjustments.md)** property to return an **A
 Different shapes have different numbers of adjustment values, different kinds of adjustments change the geometry of a shape in different ways, and different kinds of adjustments have different ranges of valid values. For example, the following illustration shows what each of the four adjustment values for a right-arrow callout contributes to the definition of the callout's geometry. 
 
 
-![Adjustment](images/adjlabel_ZA06051188.gif)
+![Adjustment](../images/adjlabel_ZA06051188.gif)
     
  **Note**  Because each adjustable shape has a different set of adjustments, the best way to verify the adjustment behavior for a specific shape is to manually create an instance of the shape, make adjustments with the macro recorder turned on, and then examine the recorded code.
 

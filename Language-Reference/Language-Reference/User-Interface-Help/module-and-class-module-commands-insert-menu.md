@@ -16,10 +16,10 @@ ms.date: 06/08/2017
 Inserts a new [standard module](vbe-glossary.md) and adds it to your active project.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_mod_ZA01201714.gif).
+![Toolbar button](../../../images/tbr_mod_ZA01201714.gif).
 
  **Class Module**
 Creates a new [class module](vbe-glossary.md) and adds it to your active project.
 Toolbar shortcut: 
-![Toolbar button](images/tbr_cmod_ZA01201688.gif).
+![Toolbar button](../../../images/tbr_cmod_ZA01201688.gif).
 

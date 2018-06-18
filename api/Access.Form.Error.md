@@ -41,7 +41,7 @@ To run a macro or event procedure when this event occurs, set the  **OnError** p
 By running an event procedure or a macro when an Error event occurs, you can intercept a Microsoft Access error message and display a custom message that conveys a more specific meaning for your application.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
 - [Handling Access Errors with VBA](http://www.utteraccess.com/wiki/index.php/Error_Handling)
@@ -75,7 +75,7 @@ End Sub
 The following example shows how you can replace a default error message with a custom error message.
 
  **Sample code provided by:**
-![MVP Contributor](images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+![MVP Contributor](../images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
 
 
 

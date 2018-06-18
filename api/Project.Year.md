@@ -92,7 +92,7 @@ Figure 1 shows the results of the  **CountYears** macro.
 **Figure 1. Getting the list of years available**
 
  
-![Years available for project planning](images/pj15_VBA_Years.gif)
+![Years available for project planning](../images/pj15_VBA_Years.gif)
  
 
  

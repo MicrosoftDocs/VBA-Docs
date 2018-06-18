@@ -14,14 +14,14 @@ ms.date: 06/08/2017
 # Options.MatchFuzzyTC Property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
-![Symbol](images/fe279_ZA06051758.gif)
-![Symbol](images/fe280_ZA06051759.gif)", "
-![Symbol](images/fe281_ZA06051760.gif)
-![Symbol](images/fe280_ZA06051759.gif)", and "
-![Symbol](images/fe208_ZA06051694.gif)", and between "
-![Symbol](images/fe282_ZA06051761.gif)
-![Symbol](images/fe280_ZA06051759.gif)" and "
-![Symbol](images/fe275_ZA06051754.gif)" during a search. Read/write  **Boolean** .
+![Symbol](../images/fe279_ZA06051758.gif)
+![Symbol](../images/fe280_ZA06051759.gif)", "
+![Symbol](../images/fe281_ZA06051760.gif)
+![Symbol](../images/fe280_ZA06051759.gif)", and "
+![Symbol](../images/fe208_ZA06051694.gif)", and between "
+![Symbol](../images/fe282_ZA06051761.gif)
+![Symbol](../images/fe280_ZA06051759.gif)" and "
+![Symbol](../images/fe275_ZA06051754.gif)" during a search. Read/write  **Boolean** .
 
 
 ## Syntax
@@ -34,14 +34,14 @@ ms.date: 06/08/2017
 ## Example
 
 This example sets Microsoft Word to ignore the distinction between "
-![Symbol](images/fe279_ZA06051758.gif)
-![Symbol](images/fe280_ZA06051759.gif)", "
-![Symbol](images/fe281_ZA06051760.gif)
-![Symbol](images/fe280_ZA06051759.gif)", and "
-![Symbol](images/fe208_ZA06051694.gif)", and between "
-![Symbol](images/fe282_ZA06051761.gif)
-![Symbol](images/fe280_ZA06051759.gif)" and "
-![Symbol](images/fe275_ZA06051754.gif)" during a search.
+![Symbol](../images/fe279_ZA06051758.gif)
+![Symbol](../images/fe280_ZA06051759.gif)", "
+![Symbol](../images/fe281_ZA06051760.gif)
+![Symbol](../images/fe280_ZA06051759.gif)", and "
+![Symbol](../images/fe208_ZA06051694.gif)", and between "
+![Symbol](../images/fe282_ZA06051761.gif)
+![Symbol](../images/fe280_ZA06051759.gif)" and "
+![Symbol](../images/fe275_ZA06051754.gif)" during a search.
 
 
 ```vb

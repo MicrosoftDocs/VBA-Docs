@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Customize Dialog Box
 
 
-![Customize](images/customtb_ZA01201593.gif)
+![Customize](../../../images/customtb_ZA01201593.gif)
 
 
 

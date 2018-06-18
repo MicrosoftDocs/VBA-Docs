@@ -41,7 +41,7 @@ Double
 The formula for the hyperbolic tangent is: 
 
 
-![worksheet function tanh](images/awftanh_ZA06051254.jpg)
+![worksheet function tanh](../images/awftanh_ZA06051254.jpg)
 
 
 

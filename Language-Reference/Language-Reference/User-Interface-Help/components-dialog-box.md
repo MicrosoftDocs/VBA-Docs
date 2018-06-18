@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Components Dialog Box
 
 
-![Components dialog box](images/va5lxx1_ZA01201778.gif)
+![Components dialog box](../../../images/va5lxx1_ZA01201778.gif)
 
 
 

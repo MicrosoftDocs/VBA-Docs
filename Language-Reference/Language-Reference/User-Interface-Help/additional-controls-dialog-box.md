@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Additional Controls Dialog Box
 
 
-![Additional controls](images/addctrid_ZA01201564.gif)
+![Additional controls](../../../images/addctrid_ZA01201564.gif)
 
 
 

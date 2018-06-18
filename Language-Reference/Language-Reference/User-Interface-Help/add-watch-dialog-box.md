@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Add Watch Dialog Box
 
 
-![Add watch](images/addwatch_ZA01201565.gif)
+![Add watch](../../../images/addwatch_ZA01201565.gif)
 
 
 

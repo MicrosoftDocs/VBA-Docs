@@ -48,7 +48,7 @@ Project ignores  _NumRows_ and _NumColumns_ when the **AddTable** method creates
 
 **Figure 1. The AddTable method creates a table with one row and one column**
 
-![Using the AddTable method](images/pj15_VBA_AddTable1.gif)
+![Using the AddTable method](../images/pj15_VBA_AddTable1.gif)
 
 
 ## Example
@@ -123,7 +123,7 @@ Run the modified  **TestReportTable** macro on a project that has four tasks wit
 
 **Figure 2. The UpdateTableData method can add fields to a table**
 
-![Updating a table with the UpdateTableData method](images/pj15_VBA_AddTable2.gif)
+![Updating a table with the UpdateTableData method](../images/pj15_VBA_AddTable2.gif)
 
 
 ## See also

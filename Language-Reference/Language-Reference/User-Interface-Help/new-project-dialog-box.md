@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # New Project Dialog Box
 
 
-![New project dialog box](images/va5lx01_ZA01201777.gif)
+![New project dialog box](../../../images/va5lx01_ZA01201777.gif)
 
 
 

@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 Changes the height and width of an [object](vbe-glossary.md) to fit its contents.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_sfit_ZA01201742.gif).
+![Toolbar button](../../../images/tbr_sfit_ZA01201742.gif).
 

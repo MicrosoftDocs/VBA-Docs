@@ -46,7 +46,7 @@ Double
 - If standard_dev ? 0, STANDARDIZE returns the #NUM! error value.
     
 - The equation for the normalized value is:
-![Formula](images/awfstand_ZA06051247.gif)
+![Formula](../images/awfstand_ZA06051247.gif)
 
 
     

@@ -18,5 +18,5 @@ Provides the syntax for a variable, function, statement, method, or procedure se
 To have  **Quick** **Info** automatically appear as you type your code, select Auto Quick Info on the **Editor** tab in the **Options** dialog box.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_qtip_ZA01201732.gif). Keyboard shortcut: CTRL+I.
+![Toolbar button](../../../images/tbr_qtip_ZA01201732.gif). Keyboard shortcut: CTRL+I.
 

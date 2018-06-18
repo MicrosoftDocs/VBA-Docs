@@ -63,7 +63,7 @@ End Sub
 
 **Figure 1. Using the Select method to add to a selection**
 
-![Using the Select method to add a selection](images/pj15_VBA_ShapeRange_Select.gif)
+![Using the Select method to add a selection](../images/pj15_VBA_ShapeRange_Select.gif)
 
 
 ## See also

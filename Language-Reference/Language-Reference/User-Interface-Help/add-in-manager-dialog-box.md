@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Add-In Manager Dialog Box
 
 
-![Add-in manager](images/va5lxy1_ZA01201779.gif)
+![Add-in manager](../../../images/va5lxy1_ZA01201779.gif)
 
 
 

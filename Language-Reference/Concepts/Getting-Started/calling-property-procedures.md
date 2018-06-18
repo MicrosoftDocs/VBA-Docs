@@ -25,7 +25,7 @@ When you call a  **Property Let** or **Property Set** procedure, one [argument](
 
 When you declare a  **Property Let** or **Property Set** procedure with multiple arguments, Visual Basic passes the argument on the right side of the call to the last argument in the **Property Let** or **Property Set** declaration. For example, the following diagram shows how arguments in the **Property** procedure call relate to arguments in the **Property Let** declaration:
 
-![Property let](images/abhlp002_ZA01201812.gif)
+![Property let](../../../images/abhlp002_ZA01201812.gif)
 
 
 In practice, the only use for property procedures with multiple arguments is to create [arrays](vbe-glossary.md) of [properties](vbe-glossary.md).

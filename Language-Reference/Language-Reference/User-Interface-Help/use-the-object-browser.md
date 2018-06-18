@@ -22,7 +22,7 @@ You can get help for the  **Object Browser** by searching for **Object Browser**
 1. Activate a [module](vbe-glossary.md).
     
 2. From the  **View** menu, choose **Object Browser** (F2), or use the toolbar shortcut:
-![Toolbar button](images/tbr_obbr_ZA01201718.gif).
+![Toolbar button](../../../images/tbr_obbr_ZA01201718.gif).
     
 3. Select the name of the project or library you want to view in the  **Project/Library** list.
     

@@ -28,7 +28,7 @@ For an overview of the  **Application** and **Project** objects, and for details
  **Note**  Objects in the following image do not link to the documentation pages. To see this topic with an active link for each object, use the local VBA Help content on your computer. In the bottom right corner of the  **Project Help** window, right-click the **Connection Status** drop-down list, and then click **Show content only from this computer**.
 
 
-![Resources object map](images/44e5a9ca-12f7-4e24-921b-6fa1943bfd80.jpg)
-![Legend for the VBA object maps](images/ff3d756d-0d45-4140-bab4-e84faed9fdbd.gif)
+![Resources object map](../../images/44e5a9ca-12f7-4e24-921b-6fa1943bfd80.jpg)
+![Legend for the VBA object maps](../../images/ff3d756d-0d45-4140-bab4-e84faed9fdbd.gif)
 
 

@@ -16,6 +16,6 @@ Sets or removes a [breakpoint](vbe-glossary.md) at the current line. You can't s
 A line of code in which a breakpoint is set appears in the colors specified in the  **Editor Format** tab of the **Options** dialog box.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_bkpt_ZA01201681.gif). Keyboard shortcut: F9.
+![Toolbar button](../../../images/tbr_bkpt_ZA01201681.gif). Keyboard shortcut: F9.
 
 

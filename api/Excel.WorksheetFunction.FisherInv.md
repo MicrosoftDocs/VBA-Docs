@@ -44,7 +44,7 @@ Double
 - If y is nonnumeric, FISHERINV returns the #VALUE! error value.
     
 - The equation for the inverse of the Fisher transformation is: 
-![Formula](images/awffshri_ZA06051142.gif)
+![Formula](../images/awffshri_ZA06051142.gif)
 
 
     

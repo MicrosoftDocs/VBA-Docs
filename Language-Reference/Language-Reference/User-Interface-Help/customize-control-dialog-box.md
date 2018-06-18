@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Customize Control Dialog Box
 
 
-![Customize control](images/cusctrld_ZA01201592.gif)
+![Customize control](../../../images/cusctrld_ZA01201592.gif)
 
 
 

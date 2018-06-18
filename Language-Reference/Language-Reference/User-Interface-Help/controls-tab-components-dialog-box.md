@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 # Controls Tab (Components Dialog Box)
 
 
-![Controls tab](images/addcc_ZA01201563.gif)
+![Controls tab](../../../images/addcc_ZA01201563.gif)
 
 
 

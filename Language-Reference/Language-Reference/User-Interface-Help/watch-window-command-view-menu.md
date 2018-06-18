@@ -16,6 +16,6 @@ Displays the  **Watch** window and displays the current watch expressions. The *
 If the context of the expression isn't in [scope](vbe-glossary.md) when going to[break mode](vbe-glossary.md), the current value isn't displayed.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_wawd_ZA01201768.gif).
+![Toolbar button](../../../images/tbr_wawd_ZA01201768.gif).
 
 

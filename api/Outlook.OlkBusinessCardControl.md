@@ -23,7 +23,7 @@ Before you use this control for the first time in the forms designer, add the Mi
 The following is an example of a Business Card control at runtime:
 
 
-![Business card control](images/olEBC_ZA10120218.gif)
+![Business card control](../images/olEBC_ZA10120218.gif)
 
 
 

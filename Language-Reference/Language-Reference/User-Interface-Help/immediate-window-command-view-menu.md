@@ -30,5 +30,5 @@ Use the Immediate window to:
     
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_imwd_ZA01201710.gif). Keyboard shortcut: CTRL+G.
+![Toolbar button](../../../images/tbr_imwd_ZA01201710.gif). Keyboard shortcut: CTRL+G.
 

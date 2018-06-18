@@ -21,7 +21,7 @@ Available only in East Asia versions, the  **VbIMEStatus** enumeration contains 
 1. Select the constant from the  **Members of 'VbIMEStatus'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

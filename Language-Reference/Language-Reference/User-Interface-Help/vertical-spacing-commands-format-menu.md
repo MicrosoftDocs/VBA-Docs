@@ -18,19 +18,19 @@ Changes the vertical space between the selected [objects](vbe-glossary.md), base
 Moves the selected objects so that there is equal space between them using the top and bottom objects as the endpoints.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_veql_ZA01201765.gif).
+![Toolbar button](../../../images/tbr_veql_ZA01201765.gif).
  **Increase**
 Increases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units in the  **General** tab of the **Options** dialog box.
 Toolbar shortcut: 
-![Toolbar button](images/tbr_vinc_ZA01201766.gif).
+![Toolbar button](../../../images/tbr_vinc_ZA01201766.gif).
  **Decrease**
 Decreases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units in the  **General** tab of the **Options** dialog box.
 Toolbar shortcut: 
-![Toolbar button](images/tbr_vdec_ZA01201764.gif).
+![Toolbar button](../../../images/tbr_vdec_ZA01201764.gif).
  **Remove**
 Removes the vertical spacing so that the object's borders are touching, based on the object with focus
 Toolbar shortcut: 
-![Toolbar button](images/tbr_vrem_ZA01201767.gif).
+![Toolbar button](../../../images/tbr_vrem_ZA01201767.gif).
 
  **Note**  The object with focus does not move but the other objects move around it.
 

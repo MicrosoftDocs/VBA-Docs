@@ -21,7 +21,7 @@ The  **VbCalendar** enumeration contains constants used to determine the type of
 1. Select the constant from the  **Members of 'VbCalendar'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

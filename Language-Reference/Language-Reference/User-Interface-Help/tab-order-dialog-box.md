@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Tab Order Dialog Box
 
 
-![Tab order](images/taborder_ZA01201655.gif)
+![Tab order](../../../images/taborder_ZA01201655.gif)
 
 
 

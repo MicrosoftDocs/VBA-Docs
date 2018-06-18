@@ -18,59 +18,59 @@ The  **Object** **Browser** and **Code** window contain many icons that represen
 |**This Icon:**|**Represents a:**|
 |:-----|:-----|
 |
-![Icon](images/property_ZA01201646.gif)
+![Icon](../../../images/property_ZA01201646.gif)
 
 |Property|
 |
-![Property](images/defprop_ZA01201599.gif)
+![Property](../../../images/defprop_ZA01201599.gif)
 
 |Default Property|
 |
-![Default property](images/vb2a531_ZA01201804.gif)
+![Default property](../../../images/vb2a531_ZA01201804.gif)
 
 |Method|
 |
-![Method](images/defmeth_ZA01201598.gif)
+![Method](../../../images/defmeth_ZA01201598.gif)
 
 |Default Method|
 |
-![Default method](images/event_ZA01201605.gif)
+![Default method](../../../images/event_ZA01201605.gif)
 
 |Event|
 |
-![Event](images/constant_ZA01201590.gif)
+![Event](../../../images/constant_ZA01201590.gif)
 
 |Constant|
 |
-![Constant](images/module_ZA01201625.gif)
+![Constant](../../../images/module_ZA01201625.gif)
 
 |Module|
 |
-![Module](images/classmod_ZA01201586.gif)
+![Module](../../../images/classmod_ZA01201586.gif)
 
 |Class|
 |
-![Class](images/udt_ZA01201772.gif)
+![Class](../../../images/udt_ZA01201772.gif)
 
 |User Defined Type|
 |
-![User defined type](images/global_ZA01201612.gif)
+![User defined type](../../../images/global_ZA01201612.gif)
 
 |Global|
 |
-![Global](images/library_ZA01201620.gif)
+![Global](../../../images/library_ZA01201620.gif)
 
 |Library|
 |
-![Library](images/project_ZA01201643.gif)
+![Library](../../../images/project_ZA01201643.gif)
 
 |Project|
 |
-![Project](images/intrin_ZA01201811.gif)
+![Project](../../../images/intrin_ZA01201811.gif)
 
 |Built-in keywords and types|
 |
-![Buit-in keywords and types](images/enum_ZA01201604.gif)
+![Buit-in keywords and types](../../../images/enum_ZA01201604.gif)
 
 |Enum|
 

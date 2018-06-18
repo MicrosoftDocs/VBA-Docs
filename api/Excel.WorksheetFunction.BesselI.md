@@ -49,7 +49,7 @@ Double
 - If n < 0, BesselI generates an error value.
     
 - The n-th order modified Bessel function of the variable x is:
-![Bessel function](images/awfbesli_ZA06051111.gif)
+![Bessel function](../images/awfbesli_ZA06051111.gif)
 
 
     

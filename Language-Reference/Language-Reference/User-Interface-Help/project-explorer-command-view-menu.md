@@ -16,6 +16,6 @@ Displays the  **Project** **Explorer**, which displays a hierarchical list of th
 The  **Project** **Explorer** is a navigational and management tool only. You cannot build an application from the **Project** **Explorer**.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_pexp_ZA01201722.gif). Keyboard shortcut: CTRL+R.
+![Toolbar button](../../../images/tbr_pexp_ZA01201722.gif). Keyboard shortcut: CTRL+R.
 
 

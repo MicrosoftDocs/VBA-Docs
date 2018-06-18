@@ -27,5 +27,5 @@ The  **Parameter** **Info**, once activated, will not close until:
     
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_ptip_ZA01201731.gif). Keyboard shortcut: CTRL+SHIFT+I.
+![Toolbar button](../../../images/tbr_ptip_ZA01201731.gif). Keyboard shortcut: CTRL+SHIFT+I.
 

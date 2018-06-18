@@ -49,7 +49,7 @@ Double
 - If array_x and array_y have a different number of dimensions, SUMXMY2 returns the #N/A error value.
     
 - The equation for the sum of squared differences is:
-![Formula](images/awfsumxm_ZA06051252.gif)
+![Formula](../images/awfsumxm_ZA06051252.gif)
 
 
     

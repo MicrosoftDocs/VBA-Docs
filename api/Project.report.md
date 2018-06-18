@@ -40,7 +40,7 @@ When you run the command, Project creates the report and then changes the view t
 **Figure 1. Creating a report in Project**
 
  
-![Creating a report in Project](images/pj15_VBA_ReportObject.gif)To delete a report, you must first close the active report view. For example, on the  **DESIGN** tab of the ribbon, in the **View** group, choose a different report in the **Reports** drop-down menu. Then, in the **Report** group on the ribbon, choose **Organizer** in the **Manage** drop-down menu. In the **Organizer** dialog box, choose the **Reports** tab, select **My New Report** in the project pane, and then choose **Delete**.
+![Creating a report in Project](../images/pj15_VBA_ReportObject.gif)To delete a report, you must first close the active report view. For example, on the  **DESIGN** tab of the ribbon, in the **View** group, choose a different report in the **Reports** drop-down menu. Then, in the **Report** group on the ribbon, choose **Organizer** in the **Manage** drop-down menu. In the **Organizer** dialog box, choose the **Reports** tab, select **My New Report** in the project pane, and then choose **Delete**.
  
 
  

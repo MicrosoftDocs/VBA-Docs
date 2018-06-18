@@ -21,7 +21,7 @@ The  **KeyCodeConstants** module contains predefined keycode constants that can 
 1. Select the constant from the  **Members of 'KeyCodeConstants'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

@@ -60,8 +60,8 @@ Double
 - If mean ? 0, POISSON returns the #NUM! error value.
     
 - POISSON is calculated as follows. For cumulative = FALSE: 
-![Formula](images/awfpois1_ZA06051232.gif)For cumulative = TRUE: 
-![Formula](images/awfpois2_ZA06051233.gif)
+![Formula](../images/awfpois1_ZA06051232.gif)For cumulative = TRUE: 
+![Formula](../images/awfpois2_ZA06051233.gif)
 
 
     

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Options Tab (Customize Dialog Box)
 
 
-![Options tab](images/avhdg008_ZA01201571.gif)
+![Options tab](../../../images/avhdg008_ZA01201571.gif)
 
 
 

@@ -44,7 +44,7 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The product of two complex numbers is: 
-![Formula](images/awfimprd_ZA06051163.gif)
+![Formula](../images/awfimprd_ZA06051163.gif)
 
 
     

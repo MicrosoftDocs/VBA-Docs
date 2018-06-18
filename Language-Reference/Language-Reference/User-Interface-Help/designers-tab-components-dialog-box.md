@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Designers Tab (Components Dialog Box)
 
 
-![Designers tab](images/va267r1_ZA01201775.gif)
+![Designers tab](../../../images/va267r1_ZA01201775.gif)
 
 
 

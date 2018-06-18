@@ -21,7 +21,7 @@ The  **Information** module contains the procedures used to return, test for, or
 1. Select the procedure from the  **Members of 'Information'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

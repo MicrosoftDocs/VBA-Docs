@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Docking Tab (Options Dialog Box)
 
 
-![Docking tab](images/dcktabva_ZA01201597.gif)
+![Docking tab](../../../images/dcktabva_ZA01201597.gif)
 
 
 

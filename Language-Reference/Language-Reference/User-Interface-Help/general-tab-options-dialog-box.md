@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # General Tab (Options Dialog Box)
 
 
-![General tab](images/genlop_ZA01201611.gif)
+![General tab](../../../images/genlop_ZA01201611.gif)
 
 
 

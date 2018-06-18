@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Displays the help viewer for the associated application.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_ahlp_ZA01201669.gif). Keyboard shortcut: F1.
+![Toolbar button](../../../images/tbr_ahlp_ZA01201669.gif). Keyboard shortcut: F1.
 
 
 ## MSDN on the Web
@@ -36,7 +36,7 @@ Displays a dialog box with the version number, a copyright notice, and system in
 Displays the help viewer for the associated application.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_ahlp_ZA01201669.gif). Keyboard shortcut: F1.
+![Toolbar button](../../../images/tbr_ahlp_ZA01201669.gif). Keyboard shortcut: F1.
 
 
 ## MSDN on the Web

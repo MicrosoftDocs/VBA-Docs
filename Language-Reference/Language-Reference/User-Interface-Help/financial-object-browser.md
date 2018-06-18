@@ -21,7 +21,7 @@ The  **Financial** module contains procedures used to perform financial operatio
 1. Select the procedure from the  **Members of 'Financial'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

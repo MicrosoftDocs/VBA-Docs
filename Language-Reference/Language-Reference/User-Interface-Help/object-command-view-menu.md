@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 Displays the active item.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_obj_ZA01201719.gif). Keyboard shortcut: SHIFT+F7.
+![Toolbar button](../../../images/tbr_obj_ZA01201719.gif). Keyboard shortcut: SHIFT+F7.
 

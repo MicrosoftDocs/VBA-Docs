@@ -35,5 +35,5 @@ You can insert the property or method into your statement by:
      **Note**  Objects of the type Variant do not show a list after the period (.).
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_selm_ZA01201741.gif). Keyboard shortcut: CTRL+J.
+![Toolbar button](../../../images/tbr_selm_ZA01201741.gif). Keyboard shortcut: CTRL+J.
 

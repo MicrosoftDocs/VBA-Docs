@@ -143,7 +143,7 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 
 **Figure 1. Adding fields to a synchronized SharePoint task list**
 
-![Adding fields to a synchronized tasks list](images/pj15_VBA_AddSiteColumn.gif)
+![Adding fields to a synchronized tasks list](../images/pj15_VBA_AddSiteColumn.gif)
 
 
 ## See also

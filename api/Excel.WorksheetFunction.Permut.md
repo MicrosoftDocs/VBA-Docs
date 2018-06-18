@@ -51,7 +51,7 @@ Double
 - If number < number_chosen, PERMUT returns the #NUM! error value.
     
 - The equation for the number of permutations is:
-![Formula](images/awfpermu_ZA06051231.gif)
+![Formula](../images/awfpermu_ZA06051231.gif)
 
 
     

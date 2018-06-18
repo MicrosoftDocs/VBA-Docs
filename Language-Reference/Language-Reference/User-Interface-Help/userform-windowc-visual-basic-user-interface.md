@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # UserForm Windows (Visual Basic User Interface)
 
 
-![Userform windows](images/userform_ZA01201773.gif)
+![Userform windows](../../../images/userform_ZA01201773.gif)
 
 
 

@@ -50,7 +50,7 @@ Double
 - The equation for the standard normal cumulative distribution function is: 
     
     
-![Equation](images/abbf5ae3-a27b-4e9c-eff8-009885a4ccf2.gif)
+![Equation](../images/abbf5ae3-a27b-4e9c-eff8-009885a4ccf2.gif)
 
 
     

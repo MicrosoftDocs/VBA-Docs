@@ -16,7 +16,7 @@ Reduces or enlarges the display of the selected form. You can choose or type a m
 Only available on  **theUserForm** toolbar.
 
 Toolbar: 
-![Toolbar button](images/tbr_zoom_ZA01201769.gif)
+![Toolbar button](../../../images/tbr_zoom_ZA01201769.gif)
 
 
 

@@ -16,6 +16,6 @@ Displays the  **Locals** window and automatically displays all of the[variables]
 The  **Locals** window is automatically updated every time you change from[run time](vbe-glossary.md) to[break mode](vbe-glossary.md) and every time the stack context changes.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_lowd_ZA01201713.gif).
+![Toolbar button](../../../images/tbr_lowd_ZA01201713.gif).
 
 

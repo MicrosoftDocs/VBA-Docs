@@ -44,7 +44,7 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The exponential of a complex number is:
-![Formula](images/awfimexp_ZA06051159.gif)
+![Formula](../images/awfimexp_ZA06051159.gif)
 
 
     

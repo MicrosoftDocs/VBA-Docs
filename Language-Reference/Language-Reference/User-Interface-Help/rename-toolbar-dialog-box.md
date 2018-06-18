@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Rename Toolbar Dialog Box
 
 
-![Rename toolbar](images/renamtbr_ZA01201649.gif)
+![Rename toolbar](../../../images/renamtbr_ZA01201649.gif)
 
 
 

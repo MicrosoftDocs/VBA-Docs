@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Digital Signature Dialog Box
 
 
-![Digital signature](images/va5m641_ZA01201780.gif)
+![Digital signature](../../../images/va5m641_ZA01201780.gif)
 
 
 

@@ -56,7 +56,7 @@ In Figure 1, the right shape with the locked aspect ratio is selected.
 
 **Figure 1. Resizing a shape when the aspect ratio is unlocked or locked**
 
-![Resizing a shape with the aspect ratio unlocked](images/pj15_VBA_LockAspectRatio.gif)
+![Resizing a shape with the aspect ratio unlocked](../images/pj15_VBA_LockAspectRatio.gif)
 
 
 ## Property value

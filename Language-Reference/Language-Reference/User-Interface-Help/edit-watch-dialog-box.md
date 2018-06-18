@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Edit Watch Dialog Box
 
 
-![Edit watch dialog box](images/editwtch_ZA01201603.gif)
+![Edit watch dialog box](../../../images/editwtch_ZA01201603.gif)
 
 
 

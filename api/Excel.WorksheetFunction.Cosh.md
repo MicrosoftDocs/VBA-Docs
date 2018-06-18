@@ -41,7 +41,7 @@ Double
 The formula for the hyperbolic cosine is: 
 
 
-![Formula](images/awfcosh_ZA06051127.gif)
+![Formula](../images/awfcosh_ZA06051127.gif)
 
 
 ## See also

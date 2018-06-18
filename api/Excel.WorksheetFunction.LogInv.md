@@ -53,7 +53,7 @@ Double
 - If standard_dev <= 0, LOGINV returns the #NUM! error value.
     
 -  The inverse of the lognormal distribution function is:
-![Formula](images/awflginv_ZA06051178.gif)
+![Formula](../images/awflginv_ZA06051178.gif)
 
 
     

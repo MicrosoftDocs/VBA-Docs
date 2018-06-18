@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 Removes all [breakpoints](vbe-glossary.md) in your project. Your application may still interrupt execution, however, if you have set a[watch expression](vbe-glossary.md) or selected the **Break** **on** **All** **Errors** option in the **General** tab of the **Options** dialog box. You cannot undo the **Clear** **All** **Breakpoints** command.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_clbp_ZA01201686.gif). Keyboard shortcut: CTRL+SHIFT+F9.
+![Toolbar button](../../../images/tbr_clbp_ZA01201686.gif). Keyboard shortcut: CTRL+SHIFT+F9.
 

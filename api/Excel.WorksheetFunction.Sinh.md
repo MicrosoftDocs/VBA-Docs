@@ -41,7 +41,7 @@ Double
 The formula for the hyperbolic sine is: 
 
 
-![Formula](images/awfsinh_ZA06051240.gif)
+![Formula](../images/awfsinh_ZA06051240.gif)
 
 
 

@@ -18,7 +18,7 @@ The  **ErrObject** module contains properties and procedures used to identify an
 1. Select the property or procedure from the  **Members of 'ErrObject'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

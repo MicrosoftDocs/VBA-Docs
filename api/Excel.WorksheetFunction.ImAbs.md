@@ -44,7 +44,7 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The absolute value of a complex number is:
-![Formula](images/awfimabs_ZA06051152.gif)where: z = x + yi 
+![Formula](../images/awfimabs_ZA06051152.gif)where: z = x + yi 
     
 
 ## See also

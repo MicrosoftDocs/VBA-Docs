@@ -22,19 +22,19 @@ You can turn the Margin Indicator Bar on and off in the  **Editor** **Format** t
 |**Margin Indicator**|**Margin Indicator Name**|**Description**|
 |:-----|:-----|:-----|
 |
-![Breakpoint](images/wbrkpnt_ZA01201808.gif)
+![Breakpoint](../../../images/wbrkpnt_ZA01201808.gif)
 
 |Breakpoint|Indicates that you have set a breakpoint using the  **Toggle** **Breakpoint** command on the **Debug** menu. You can toggle the breakpoint by placing your mouse pointer in the margin indicator region and clicking.|
 |
-![Current line of execution](images/wcurline_ZA01201810.gif)
+![Current line of execution](../../../images/wcurline_ZA01201810.gif)
 
 |Current line of execution|Indicates the line of code that will be executed next. You can drag this margin indicator to a new location within any running code module. If you drag the Current line of execution margin indicator to any non-valid region or line, nothing happens and the indicator returns to the original location.|
 |
-![Bookmark](images/wbkmark_ZA01201807.gif)
+![Bookmark](../../../images/wbkmark_ZA01201807.gif)
 
 |Bookmark|Indicates the location of a bookmark set using the  **Toggle** **Bookmark** command on the **Edit** menu.|
 |
-![Call stack marker](images/wcallst_ZA01201809.gif)
+![Call stack marker](../../../images/wcallst_ZA01201809.gif)
 
 |Call Stack Marker|Indicates lines that are currently in the call stack. The Call Stack Marker indicator appears only in [break mode](vbe-glossary.md).|
 

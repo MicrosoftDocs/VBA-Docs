@@ -164,13 +164,13 @@ Excel has a range of options that enable you to control the way it calculates. Y
 
 *Figure 1. Calculation group on the Formulas tab*
 
-![Calculation options on the Formulas tab](images/ocd_xl2010_ta_improvingcalculationperf_fig01.jpg)
+![Calculation options on the Formulas tab](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig01.jpg)
     
 To see more Excel calculation options, on the **File** tab, click **Options**. In the **Excel Options** dialog box, click the **Formulas** tab.
 
 *Figure 2. Calculation options on the Formulas tab in Excel Options*
 
-![Calculation options in backstage view](images/ocd_xl2010_ta_improvingcalculationperf_fig02.jpg)
+![Calculation options in backstage view](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig02.jpg)
 
 Many calculation options (**Automatic**, **Automatic except for data tables**, **Manual**, **Recalculate workbook before saving**) and the iteration settings (**Enable iterative calculation**, **Maximum Iterations**, **Maximum Change**) operate at the application level instead of at the workbook level (they are the same for all open workbooks). 
 
@@ -178,7 +178,7 @@ To find advanced calculation options, on the **File** tab, click **Options**. In
 
 *Figure 3. Advanced calculation options*
 
-![Advanced calculation options in backstage view](images/ocd_xl2010_ta_improvingcalculationperf_fig03.jpg)
+![Advanced calculation options in backstage view](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig03.jpg)
   
 When you start Excel, or when it is running without any workbooks open, the initial calculation mode and iteration settings are set from the first non-template, non-add-in workbook that you open. This means that the calculation settings in workbooks opened later are ignored, although, of course, you can manually change the settings in Excel at any time. When you save a workbook, the current calculation settings are stored in the workbook.
 
@@ -210,7 +210,7 @@ You can control this setting using the **VBE** (Alt+F11), selecting **ThisWorkbo
 
 *Figure 4. Setting the Workbook.ForceFullCalculation property*
 
-![Setting ForceFullCalculation](images/ImprovingCalculationPerf_ForceFull.jpg)
+![Setting ForceFullCalculation](../../../images/ImprovingCalculationPerf_ForceFull.jpg)
 
 ## Making workbooks calculate faster
 
@@ -399,7 +399,7 @@ To run the subroutines in Excel, press Alt+F8. Select the subroutine you want, a
 
 *Figure 5. The Excel Macro window showing the calculation timers*
 
-![Excel macro window](images/ocd_xl2010_ta_improvingcalculationperf_fig05.jpg)
+![Excel macro window](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig05.jpg)
  
 ## Finding and prioritizing calculation obstructions
 
@@ -543,7 +543,7 @@ You could write the formula using **SUM**, which is an efficient function.
 
 *Figure 6. Example of period-to-date SUM formulas*
 
-![Period to date SUM formula example](images/ocd_xl2010_ta_improvingcalculationperf_fig06.jpg)
+![Period to date SUM formula example](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig06.jpg)
    
 Copy the formula down to B2000.
 
@@ -586,7 +586,7 @@ If you have a calculation-intensive formula where you want the result to be show
 
 *Figure 7. Example list of data for count unique*
  
-![Count unique data example](images/ocd_xl2010_ta_improvingcalculationperf_fig07.jpg)
+![Count unique data example](../../../images/ocd_xl2010_ta_improvingcalculationperf_fig07.jpg)
 
 If you have a list of 11,000 rows of data in column A, which frequently changes, and you need a formula that dynamically calculates the number of unique items in the list, ignoring blanks, following are several possible solutions.
 

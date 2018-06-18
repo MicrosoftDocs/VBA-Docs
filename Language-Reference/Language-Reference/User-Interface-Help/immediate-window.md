@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Immediate Window
 
 
-![Immediate window](images/immed_ZA01201615.gif)
+![Immediate window](../../../images/immed_ZA01201615.gif)
 
 
 

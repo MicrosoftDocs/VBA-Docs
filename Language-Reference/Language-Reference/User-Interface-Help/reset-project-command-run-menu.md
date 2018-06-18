@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 Clears the  **Call** stack and clears the module level variables.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_end_ZA01201701.gif).
+![Toolbar button](../../../images/tbr_end_ZA01201701.gif).
 

@@ -14,10 +14,10 @@ ms.date: 06/08/2017
 # Options.MatchFuzzyAY Property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
-![Symbol](images/fe289_ZA06051768.gif)" and "
-![Symbol](images/fe241_ZA06051721.gif)" following 
-![Symbol](images/fe144_ZA06051649.gif)-row and 
-![Symbol](images/fe209_ZA06051695.gif)-row characters during a search. Read/write  **Boolean** .
+![Symbol](../images/fe289_ZA06051768.gif)" and "
+![Symbol](../images/fe241_ZA06051721.gif)" following 
+![Symbol](../images/fe144_ZA06051649.gif)-row and 
+![Symbol](../images/fe209_ZA06051695.gif)-row characters during a search. Read/write  **Boolean** .
 
 
 ## Syntax
@@ -30,10 +30,10 @@ ms.date: 06/08/2017
 ## Example
 
 This example sets Microsoft Word to ignore the distinction between "
-![Symbol](images/fe289_ZA06051768.gif)" and "
-![Symbol](images/fe241_ZA06051721.gif)" following 
-![Symbol](images/fe144_ZA06051649.gif)-row and 
-![Symbol](images/fe209_ZA06051695.gif)-row characters during a search.
+![Symbol](../images/fe289_ZA06051768.gif)" and "
+![Symbol](../images/fe241_ZA06051721.gif)" following 
+![Symbol](../images/fe144_ZA06051649.gif)-row and 
+![Symbol](../images/fe209_ZA06051695.gif)-row characters during a search.
 
 
 ```vb

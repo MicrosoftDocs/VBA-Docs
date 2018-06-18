@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 # Watch Window
 
 
-![Watch window](images/watch_ZA01201806.gif)
+![Watch window](../../../images/watch_ZA01201806.gif)
 
 
 
@@ -32,7 +32,7 @@ You can:
  **Expression**
 
 Lists the watch expression with the  **Watch** icon,
-![Toolbar button](images/tbr_wawd_ZA01201768.gif) on the left.
+![Toolbar button](../../../images/tbr_wawd_ZA01201768.gif) on the left.
 
  **Value**
 

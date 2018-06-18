@@ -44,7 +44,7 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The base-2 logarithm of a complex number can be calculated from the natural logarithm as follows:
-![Formula](images/awfimlg2_ZA06051161.gif)
+![Formula](../images/awfimlg2_ZA06051161.gif)
 
 
     

@@ -46,7 +46,7 @@ Double
 - If x ? -1 or if x ? 1, FISHER returns the #NUM! error value.
     
 - The equation for the Fisher transformation is: 
-![Formula](images/awffishr_ZA06051141.gif)
+![Formula](../images/awffishr_ZA06051141.gif)
 
 
     

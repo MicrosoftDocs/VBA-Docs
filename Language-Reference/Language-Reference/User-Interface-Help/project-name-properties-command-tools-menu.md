@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 Displays the  **Project** **Properties** dialog box where you can set protection for and options specific to your project.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_prpr_ZA01201728.gif).
+![Toolbar button](../../../images/tbr_prpr_ZA01201728.gif).
 

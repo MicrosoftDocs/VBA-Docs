@@ -21,7 +21,7 @@ The  **VbCompareMethod** enumeration contains constants used to determine the wa
 1. Select the constant from the  **Members of 'VbCompareMethod'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

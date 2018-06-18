@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Add Procedure Dialog Box
 
 
-![Add procedure dialog box](images/insproc_ZA01201617.gif)
+![Add procedure dialog box](../../../images/insproc_ZA01201617.gif)
 
 
 

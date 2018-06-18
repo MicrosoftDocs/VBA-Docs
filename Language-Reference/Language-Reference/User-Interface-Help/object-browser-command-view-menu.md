@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 Displays the [Object Browser](vbe-glossary.md), which lists the [object libraries](vbe-glossary.md), the [type libraries](vbe-glossary.md), [classes](vbe-glossary.md), methods, properties, events, and constants you can use in code, as well as the modules and procedures you defined for your project.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_obbr_ZA01201718.gif). Keyboard shortcut: F2.
+![Toolbar button](../../../images/tbr_obbr_ZA01201718.gif). Keyboard shortcut: F2.
 

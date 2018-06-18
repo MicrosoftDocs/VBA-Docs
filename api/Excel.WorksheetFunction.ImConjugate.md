@@ -44,7 +44,7 @@ String
 - 2Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The conjugate of a complex number is: 
-![Formula](images/awfimcon_ZA06051156.gif)
+![Formula](../images/awfimcon_ZA06051156.gif)
 
 
     

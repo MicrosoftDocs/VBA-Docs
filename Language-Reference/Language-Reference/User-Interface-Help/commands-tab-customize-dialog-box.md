@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Commands Tab (Customize Dialog Box)
 
 
-![Commands tab](images/cmdtab_ZA01201587.gif)
+![Commands tab](../../../images/cmdtab_ZA01201587.gif)
 
 
 

@@ -23,7 +23,7 @@ Before you use this control for the first time in the forms designer, add the Mi
 The following is an example of a combo box control that has been bound to the Sensitivity field. This control supports Microsoft Windows themes.
 
 
-![Combo box](images/olComboBox_ZA10120277.gif)
+![Combo box](../images/olComboBox_ZA10120277.gif)
 
 
 

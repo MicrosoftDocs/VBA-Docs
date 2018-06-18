@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Project Properties Dialog Box
 
 
-![Project properties](images/avhdg002_ZA01201566.gif)
+![Project properties](../../../images/avhdg002_ZA01201566.gif)
 
 
 

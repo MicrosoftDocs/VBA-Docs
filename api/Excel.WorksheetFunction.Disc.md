@@ -62,7 +62,7 @@ Double
 - If settlement ? maturity, DISC returns the #NUM! error value.
     
 - DISC is calculated as follows:
-![Formula](images/awfdisc_ZA06051134.gif)where: B = number of days in a year, depending on the year basis. DSM = number of days between settlement and maturity. 
+![Formula](../images/awfdisc_ZA06051134.gif)where: B = number of days in a year, depending on the year basis. DSM = number of days between settlement and maturity. 
     
 
 ## See also

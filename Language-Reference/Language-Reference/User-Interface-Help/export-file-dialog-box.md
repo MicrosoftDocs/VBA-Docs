@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Export File Dialog Box
 
 
-![Export file dialog box](images/exprtfle_ZA01201607.gif)
+![Export file dialog box](../../../images/exprtfle_ZA01201607.gif)
 
 
 
@@ -25,22 +25,22 @@ Allows you to give a name to the exported file and choose a location where it wi
 Select the folder where you want to store the file.
 
 
-![Up one level](images/tbr_up_ZA01201763.gif) **Up One Level**
+![Up one level](../../../images/tbr_up_ZA01201763.gif) **Up One Level**
 
 Shows a list of folders or drives one level above the current folder.
 
 
-![Create new folder](images/tbr_new_ZA01201715.gif) **Create New Folder**
+![Create new folder](../../../images/tbr_new_ZA01201715.gif) **Create New Folder**
 
 Creates a new folder.
 
 
-![Details](images/tbr_deta_ZA01201697.gif) **Details**
+![Details](../../../images/tbr_deta_ZA01201697.gif) **Details**
 
 Shows the folder or documents in a list that includes the folder or document icon and name, its size (documents only), type, and the date and time it was last modified.
 
 
-![List](images/tbr_list_ZA01201712.gif) **List**
+![List](../../../images/tbr_list_ZA01201712.gif) **List**
 
 Shows the folders or documents in a list format that includes the folder or document icon and its name.
 

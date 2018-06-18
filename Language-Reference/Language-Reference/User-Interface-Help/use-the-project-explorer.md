@@ -19,7 +19,7 @@ The  **Project Explorer** displays a hierarchical list of the[projects](vbe-glos
 
 
 1. From the  **View** menu, choose **Project Explorer** (CTRL+R), or use the toolbar shortcut:
-![Toolbar button](images/tbr_pexp_ZA01201722.gif).
+![Toolbar button](../../../images/tbr_pexp_ZA01201722.gif).
     
 2. Select an item from the collapsible tree that includes all projects and their components.
     

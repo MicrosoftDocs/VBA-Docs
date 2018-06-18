@@ -95,7 +95,7 @@ The bottom  **ReportTable** object in Figure 1 is the default report table that 
 **Figure 1. The ReportTable object requires manual editing to add fields and change formatting**
 
  
-![The ReportTable object requires manual editing](images/pj15_VBA_ReportTableObject.gif)To delete a  **ReportTable** object, use the **[Shape.Delete](Project.shape.delete.md)** method, as in the following macro:
+![The ReportTable object requires manual editing](../images/pj15_VBA_ReportTableObject.gif)To delete a  **ReportTable** object, use the **[Shape.Delete](Project.shape.delete.md)** method, as in the following macro:
  
 
  

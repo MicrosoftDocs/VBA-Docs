@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Import File Dialog Box
 
 
-![Import File dialog box](images/imprtfle_ZA01201616.gif)
+![Import File dialog box](../../../images/imprtfle_ZA01201616.gif)
 
 
 
@@ -25,22 +25,22 @@ Allows you to choose the file that you want to import.
 Select the location of the project you want to open.
 
 
-![Up one level](images/tbr_up_ZA01201763.gif) **Up One Level**
+![Up one level](../../../images/tbr_up_ZA01201763.gif) **Up One Level**
 
 Shows a list of folders or drives one level above the current folder.
 
 
-![Create new folder](images/tbr_new_ZA01201715.gif) **Create New Folder**
+![Create new folder](../../../images/tbr_new_ZA01201715.gif) **Create New Folder**
 
 Creates a new folder.
 
 
-![List](images/tbr_list_ZA01201712.gif) **List**
+![List](../../../images/tbr_list_ZA01201712.gif) **List**
 
 Shows the folders or projects in a list format that includes the folder or project icon and its name.
 
 
-![Details](images/tbr_deta_ZA01201697.gif) **Details**
+![Details](../../../images/tbr_deta_ZA01201697.gif) **Details**
 
 Shows the folders or projects in a list that includes the folder or project icon and name, its size, type, and the date and time it was last modified.
 

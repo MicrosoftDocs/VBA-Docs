@@ -56,7 +56,7 @@ Double
 - Arguments that are error values or text that cannot be translated into numbers cause errors.
     
 - STDEV_P uses the following formula:
-![Formula](images/awfstdv2_ZA06051249.gif)where x is the sample mean AVERAGE(number1,number2,?) and n is the sample size. 
+![Formula](../images/awfstdv2_ZA06051249.gif)where x is the sample mean AVERAGE(number1,number2,?) and n is the sample size. 
     
 
 ## See also

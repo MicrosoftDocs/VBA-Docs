@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Call Stack Dialog Box
 
 
-![Call stack](images/calls_ZA01201584.gif)
+![Call stack](../../../images/calls_ZA01201584.gif)
 
 
 
@@ -27,6 +27,6 @@ Lists the procedures.
  **Show**
 
 Moves the insertion point to the location where the call was made and turns on the Call Stack indicator, 
-![Call stack indicator](images/wcallst_ZA01201809.gif).
+![Call stack indicator](../../../images/wcallst_ZA01201809.gif).
 
 

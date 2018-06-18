@@ -18,13 +18,13 @@ Based on the object with the white grab handles, makes the selected objects the 
 Adjusts width.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_swid_ZA01201752.gif).
+![Toolbar button](../../../images/tbr_swid_ZA01201752.gif).
  **Height**
 Adjusts height.
 Toolbar shortcut: 
-![Toolbar button](images/tbr_sht_ZA01201744.gif).
+![Toolbar button](../../../images/tbr_sht_ZA01201744.gif).
  **Both**
 Adjusts both the width and the height.
 Toolbar shortcut: 
-![Toolbar button](images/tbr_sbth_ZA01201738.gif).
+![Toolbar button](../../../images/tbr_sbth_ZA01201738.gif).
 

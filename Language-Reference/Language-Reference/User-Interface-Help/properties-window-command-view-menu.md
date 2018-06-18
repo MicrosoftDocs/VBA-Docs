@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 Displays the  **Properties** window, which lists the design-time properties for a selected [form](vbe-glossary.md), [control](vbe-glossary.md), [class](vbe-glossary.md), [project](vbe-glossary.md) or [module](vbe-glossary.md).
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_prop_ZA01201727.gif). Keyboard shortcut: F6.
+![Toolbar button](../../../images/tbr_prop_ZA01201727.gif). Keyboard shortcut: F6.
 

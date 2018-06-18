@@ -54,7 +54,7 @@ The confidence interval is a range of values. Your sample mean, x , is at the ce
 - If size < 1, Confidence_Norm generates an error.
     
 - If it is assumed that alpha equals 0.05, calculate the area under the standard normal curve that equals (1 - alpha), or 95 percent. This value is = 1.96. The confidence interval is therefore:
-![Formula](images/awfcnfd1_ZA06051124.gif)
+![Formula](../images/awfcnfd1_ZA06051124.gif)
 
 
     

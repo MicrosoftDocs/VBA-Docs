@@ -50,7 +50,7 @@ Double
 - Arguments that are error values or text that cannot be translated into numbers cause errors.
     
 - The equation for the sum of squared deviations is:
-![Formula](images/awfdevsq_ZA06051133.gif)
+![Formula](../images/awfdevsq_ZA06051133.gif)
 
 
     

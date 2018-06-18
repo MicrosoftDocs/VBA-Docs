@@ -24,9 +24,9 @@ Creates a group.
  **Note**  You cannot create groups within a group (nested grouping).
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_grp_ZA01201704.gif).
+![Toolbar button](../../../images/tbr_grp_ZA01201704.gif).
  **Ungroup**
 Ungroups the objects that were previously grouped.
 Toolbar shortcut: 
-![Toolbar button](images/tbr_ugrp_ZA01201760.gif).
+![Toolbar button](../../../images/tbr_ugrp_ZA01201760.gif).
 

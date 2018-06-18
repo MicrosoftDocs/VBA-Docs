@@ -40,7 +40,7 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|![Text box control](images/t-txtbox_ZA06054010.gif)|![Text box tool](images/textbox_ZA06044637.gif)|
+|![Text box control](../images/t-txtbox_ZA06054010.gif)|![Text box tool](../images/textbox_ZA06044637.gif)|
 
 ## Events
 

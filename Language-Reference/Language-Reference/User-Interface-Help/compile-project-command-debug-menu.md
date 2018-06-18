@@ -11,5 +11,5 @@ ms.date: 06/08/2017
 Compiles your project.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_comp_ZA01201690.gif).
+![Toolbar button](../../../images/tbr_comp_ZA01201690.gif).
 

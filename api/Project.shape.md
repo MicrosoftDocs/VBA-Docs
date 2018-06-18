@@ -107,7 +107,7 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 **Figure 1. Testing the Shape object model**
 
  
-![Testing the Shape object model](images/pj15_VBA_ShapeObject.gif)
+![Testing the Shape object model](../images/pj15_VBA_ShapeObject.gif)
  
 
  

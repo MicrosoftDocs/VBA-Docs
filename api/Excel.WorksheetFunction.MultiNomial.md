@@ -46,7 +46,7 @@ Double
 - If any argument is less than zero, MULTINOMIAL returns the #NUM! error value.
     
 - The multinomial is:
-![Formula](images/awfmlnom_ZA06051208.gif)
+![Formula](../images/awfmlnom_ZA06051208.gif)
 
 
     

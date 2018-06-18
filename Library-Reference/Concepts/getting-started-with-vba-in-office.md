@@ -158,7 +158,7 @@ After you enable the  **Developer** tab, it is easy to find the **Visual Basic**
 
 **Figure 1. Buttons on the Developer tab**
 
-![Buttons on the Developer tab](images/a3f71a29-06f2-4ee5-8c30-5dc60ad2ed31.png)
+![Buttons on the Developer tab](../../images/a3f71a29-06f2-4ee5-8c30-5dc60ad2ed31.png)
 
 
 #### Security Issues
@@ -196,7 +196,7 @@ Another button on the  **Developer** tab in Word and Excel is the **Record Macro
 
 **Figure 2. Macro code in Visual Basic Editor**
 
-![Macro code in Visual Basic Editor](images/5d9acd78-5168-4a0c-83b6-3f1e440bf649.png)
+![Macro code in Visual Basic Editor](../../images/5d9acd78-5168-4a0c-83b6-3f1e440bf649.png)
 
 
 #### Looking at the Code
@@ -262,7 +262,7 @@ You do not need to save the code to try it out, so return to the Excel document,
 
 **Figure 3. Results of your first macro**
 
-![Results of your first macro](images/a9c16102-00ad-4f89-b3b5-20f0052bfa20.png)
+![Results of your first macro](../../images/a9c16102-00ad-4f89-b3b5-20f0052bfa20.png)
 
 You just combined macro recording, reading the object model documentation, and simple programming to make a VBA program that does something. Congratulations!
 
@@ -317,7 +317,7 @@ To open the Developer Reference that is built into Office Help, open the Help re
 
 **Figure 5. Filtering on developer Help applies to all Office applications**
 
-![Filtering on developer Help applies to all Office applications](images/5deb3fe2-2c45-4fb0-851c-3816bce8f68d.png)
+![Filtering on developer Help applies to all Office applications](../../images/5deb3fe2-2c45-4fb0-851c-3816bce8f68d.png)
 
 Time spent browsing the Object Model reference pays off. After you understand the basics of VBA syntax and the object model for the Office application that you are working with, you advance from guesswork to methodical programming.
 

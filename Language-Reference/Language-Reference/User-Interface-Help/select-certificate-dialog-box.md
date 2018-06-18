@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Select Certificate Dialog Box
 
 
-![Select certificate](images/va5m6c1_ZA01201781.gif)
+![Select certificate](../../../images/va5m6c1_ZA01201781.gif)
 
 
 

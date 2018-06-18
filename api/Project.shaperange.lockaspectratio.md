@@ -74,7 +74,7 @@ In Figure 1, the right shape range with the locked aspect ratio is selected.
 
 **Figure 1. Resizing a shape range when the aspect ratio is unlocked or locked**
 
-![Resizing a shape range with a locked aspect ratio](images/pj15_VBA_ShapeRange_LockAspectRatio.gif)
+![Resizing a shape range with a locked aspect ratio](../images/pj15_VBA_ShapeRange_LockAspectRatio.gif)
 
 
 ## Property value

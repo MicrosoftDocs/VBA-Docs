@@ -44,7 +44,7 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The common logarithm of a complex number can be calculated from the natural logarithm as follows:
-![Formula](images/awfimlg_ZA06051160.gif)
+![Formula](../images/awfimlg_ZA06051160.gif)
 
 
     

@@ -37,7 +37,7 @@ End Sub
 
 The resulting undo records appear on the undo stack for the actions performed by the code.
 
-![Undo button expanded with several entries.](images/wd14_VBAConceptual_WorkingWithUndoRecord_fig01.jpg)
+![Undo button expanded with several entries.](../../../images/wd14_VBAConceptual_WorkingWithUndoRecord_fig01.jpg)
 
 If the end user then needs to rollback or undo the "insert metadata" task, each action associated with the task must be undone individually (by pressing CTRL+Z or clicking the dropdown arrow on the  **Undo** button and then selecting the actions to undo). In this situation, the potential exists for the end user to only partially undo the series of actions associated with the single task, possibly leaving the document in an undesired state.
 
@@ -82,7 +82,7 @@ The [StartCustomRecord](http://msdn.microsoft.com/library/cd8d4337-4bbc-1943-6e0
 The [EndCustomRecord](http://msdn.microsoft.com/library/af11d231-f799-d592-2bc5-de08030b41e4%28Office.15%29.aspx) method stops recording the custom undo record. All the actions taken by the code between the [StartCustomRecord](http://msdn.microsoft.com/library/cd8d4337-4bbc-1943-6e0a-bc764861e886%28Office.15%29.aspx) call and the [EndCustomRecord](http://msdn.microsoft.com/library/af11d231-f799-d592-2bc5-de08030b41e4%28Office.15%29.aspx) call are linked into one [UndoRecord](http://msdn.microsoft.com/library/77bf9801-e940-e661-6bbe-20a8714d5dbd%28Office.15%29.aspx) object. When you run code that creates a custom undo record, as in the previous code example, the custom undo record is listed in the undo stack as a single entry.
 
 
-![Undo button expanded with one entry.](images/wd14_VBAConceptual_WorkingWithUndoRecord_fig02.jpg)
+![Undo button expanded with one entry.](../../../images/wd14_VBAConceptual_WorkingWithUndoRecord_fig02.jpg)
 
 
 ## UndoRecord Object Members

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Data Tips Window
 
 
-![Data tips window](images/valuetip_ZA01201790.gif)
+![Data tips window](../../../images/valuetip_ZA01201790.gif)
 
 
 

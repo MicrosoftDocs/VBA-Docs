@@ -34,5 +34,5 @@ You can insert the constant into your code statement by:
     
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_selc_ZA01201740.gif). Keyboard shortcut: CTRL+SHIFT+J.
+![Toolbar button](../../../images/tbr_selc_ZA01201740.gif). Keyboard shortcut: CTRL+SHIFT+J.
 

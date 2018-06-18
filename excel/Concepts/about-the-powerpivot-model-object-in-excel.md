@@ -114,7 +114,7 @@ All actions that lead to the creation of a PPM can be undone. If these actions a
 
 **Figure 1. Set the size for large Data Model undo operations**
 
-![Set size of Data Model undo operations](images/XLPowerPivotModel_01.jpg)
+![Set size of Data Model undo operations](../../images/XLPowerPivotModel_01.jpg)
 
 
 ## The PowerPivot Model Object Model

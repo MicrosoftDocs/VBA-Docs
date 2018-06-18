@@ -16,6 +16,6 @@ Shifts all lines in the selection to the previous tab stop. If you place the cur
 You can change the tab width on the  **Editor** tab of the **Options** dialog box.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_outd_ZA01201721.gif). Keyboard shortcuts: CTRL+SHIFT+M.
+![Toolbar button](../../../images/tbr_outd_ZA01201721.gif). Keyboard shortcuts: CTRL+SHIFT+M.
 
 

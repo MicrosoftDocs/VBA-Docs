@@ -45,7 +45,7 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The quotient of two complex numbers is:
-![Formula](images/awfimdiv_ZA06051158.gif)
+![Formula](../images/awfimdiv_ZA06051158.gif)
 
 
     

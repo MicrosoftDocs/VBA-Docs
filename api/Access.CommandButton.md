@@ -22,7 +22,7 @@ This object corresponds to a command button. A command button on a form can star
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|![Command button](images/t-cmdbtn_ZA06053979.gif)|![Command button](images/command_ZA06047243.gif)|
+|![Command button](../images/t-cmdbtn_ZA06053979.gif)|![Command button](../images/command_ZA06047243.gif)|
 
 You can display text on a command button by setting its  **Caption** property, or you can display a picture by setting its **Picture** property.
 

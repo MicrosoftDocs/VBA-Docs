@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 Displays the  **Edit Watch** dialog box in which you can edit or delete a[watch expression](vbe-glossary.md). Available when the watch is set even if the  **Watch** window is hidden.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_edtw_ZA01201700.gif). Keyboard shortcut: CTRL+W.
+![Toolbar button](../../../images/tbr_edtw_ZA01201700.gif). Keyboard shortcut: CTRL+W.
 

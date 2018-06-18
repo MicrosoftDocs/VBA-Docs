@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Editor Tab (Options Dialog Box)
 
 
-![Editor tab](images/formatop_ZA01201609.gif)
+![Editor tab](../../../images/formatop_ZA01201609.gif)
 
 
 

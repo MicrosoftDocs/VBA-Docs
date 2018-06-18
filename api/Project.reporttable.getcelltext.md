@@ -60,7 +60,7 @@ The  **GetTableText** example finds all of the tables on the active report, gets
 
 **Figure 1. The sample report contains two tables and three text boxes**
 
-![Report with two tables and three text boxes](images/pj15_VBA_ReportTable_GetCellText.gif)?
+![Report with two tables and three text boxes](../images/pj15_VBA_ReportTable_GetCellText.gif)?
 
 
 

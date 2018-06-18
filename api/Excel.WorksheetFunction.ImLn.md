@@ -44,8 +44,8 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The natural logarithm of a complex number is:
-![Formula](images/awfimln_ZA06051162.gif)where: 
-![Formula](images/awfimar3_ZA06051155.gif)
+![Formula](../images/awfimln_ZA06051162.gif)where: 
+![Formula](../images/awfimar3_ZA06051155.gif)
 
 
     

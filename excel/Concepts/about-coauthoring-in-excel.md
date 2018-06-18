@@ -106,7 +106,7 @@ End Sub
 
 *Figure 1. Sample of chart representing dessert sales*
 
-![dessert sales](images/saleschart.png) 
+![dessert sales](../../images/saleschart.png) 
 
 <br/>
 
@@ -150,7 +150,7 @@ End Sub
 
 *Figure 2. Sample of London map with a few points of interest*
 
-![london locations](images/londonLocations.png) 
+![london locations](../../images/londonLocations.png) 
 
 <br/>
 

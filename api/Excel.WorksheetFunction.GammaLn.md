@@ -52,8 +52,8 @@ Double
 - The number e raised to the GAMMALN(i) power, where i is an integer, returns the same result as (i - 1)!.
     
 - GAMMALN is calculated as follows:
-![Formula](images/awfgamm1_ZA06051143.gif)where: 
-![Formula](images/awfgamm2_ZA06051144.gif)
+![Formula](../images/awfgamm1_ZA06051143.gif)where: 
+![Formula](../images/awfgamm2_ZA06051144.gif)
 
 
     

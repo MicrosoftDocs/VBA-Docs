@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # General Tab (Project Properties Dialog Box)
 
 
-![General tab](images/avhdg006_ZA01201570.gif)
+![General tab](../../../images/avhdg006_ZA01201570.gif)
 
 
 
@@ -39,7 +39,7 @@ Sets the descriptive text that is displayed in the  **Description** pane at the 
  **Project Help Context ID**
 
 Lists the context ID for the specific Help topic to be called when the user selects the 
-![Help button](images/but_help_ZA01201583.gif) button while the application's[object library](vbe-glossary.md) is selected in the[Object Browser](vbe-glossary.md).
+![Help button](../../../images/but_help_ZA01201583.gif) button while the application's[object library](vbe-glossary.md) is selected in the[Object Browser](vbe-glossary.md).
 
  **Conditional Compilation Arguments**
 

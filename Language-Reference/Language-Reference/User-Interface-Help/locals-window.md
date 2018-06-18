@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 # Locals Window
 
 
-![Locals window](images/local_ZA01201622.gif)
+![Locals window](../../../images/local_ZA01201622.gif)
 
 
 
@@ -49,8 +49,8 @@ When you click on a value in the Value column, the cursor changes to an I-beam. 
 All numeric variables must have a value listed. String variables can have an empty Value list.
 
 Variables that contain subvariables can be expanded and collapsed. Collapsed variables do not display a value but each subvariable does. The expand icon, 
-![Expand icon](images/expand_ZA01201606.gif) and the collapse icon,
-![Collapse icon](images/collapse_ZA01201589.gif) appear to the left of the variable.
+![Expand icon](../../../images/expand_ZA01201606.gif) and the collapse icon,
+![Collapse icon](../../../images/collapse_ZA01201589.gif) appear to the left of the variable.
 
  **Type**
 

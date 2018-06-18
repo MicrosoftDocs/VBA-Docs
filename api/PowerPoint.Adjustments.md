@@ -25,7 +25,7 @@ Use the  **Adjustments** property to return an **Adjustments** object. Use **Adj
 Different shapes have different numbers of adjustment values, different kinds of adjustments change the geometry of a shape in different ways, and different kinds of adjustments have different ranges of valid values. For example, the following illustration shows what each of the four adjustment values for a right-arrow callout contributes to the definition of the callout's geometry.
 
 
-![Adjustment values](images/adjlabel_ZA06051188.gif)
+![Adjustment values](../images/adjlabel_ZA06051188.gif)
 
 
 

@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 # WorksheetFunction.SeriesSum Method (Excel)
 
 Returns the sum of a power series based on the formula:
-![Formula](images/awfsrssm_ZA06051246.gif)
+![Formula](../images/awfsrssm_ZA06051246.gif)
 
 
 

@@ -21,7 +21,7 @@ The  **Global** module contains procedures and properties used to perform operat
 1. Select the procedure from the  **Members Of 'Global'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

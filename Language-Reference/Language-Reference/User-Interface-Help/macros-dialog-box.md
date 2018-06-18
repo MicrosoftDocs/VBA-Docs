@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Macros Dialog Box
 
 
-![Macros dialog box](images/macrodb_ZA01201623.gif)
+![Macros dialog box](../../../images/macrodb_ZA01201623.gif)
 
 
 

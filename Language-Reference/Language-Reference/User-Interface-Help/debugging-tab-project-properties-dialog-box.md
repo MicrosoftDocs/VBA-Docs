@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Debugging Tab (Project Properties Dialog Box)
 
 
-![Debugging tab](images/va4zlh1_ZA01201776.gif)
+![Debugging tab](../../../images/va4zlh1_ZA01201776.gif)
 
 
 

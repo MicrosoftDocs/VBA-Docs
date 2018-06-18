@@ -66,7 +66,7 @@ You often use the BeforeUpdate event to validate data, especially when you perfo
 A run-time error will occur if you attempt to modify the data contained in the control that fired the  **BeforeUpdate** event in the event's procedure.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung,[FMS, Inc.](http://www.fmsinc.com/)
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung,[FMS, Inc.](http://www.fmsinc.com/)
 
 
 - [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)

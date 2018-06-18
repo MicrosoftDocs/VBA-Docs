@@ -55,7 +55,7 @@ Double
 - If mean = 0, standard_dev = 1, and cumulative = TRUE, NORMDIST returns the standard normal distribution, NORMSDIST.
     
 - The equation for the normal density function (cumulative = FALSE) is:
-![Formula](images/awfnrmdi_ZA06051213.gif)
+![Formula](../images/awfnrmdi_ZA06051213.gif)
 
 
     

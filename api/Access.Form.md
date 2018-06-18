@@ -63,7 +63,7 @@ Forms!OrderForm.ctlSubForm!NewData
 ```
 
  **Links provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](http://www.fmsinc.com/)
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](http://www.fmsinc.com/)
 
 
 - [Microsoft Access Form Tips and Avoiding Common Mistakes](http://www.fmsinc.com/tpapers/genaccess/formtips.html)
@@ -71,7 +71,7 @@ Forms!OrderForm.ctlSubForm!NewData
 - [Microsoft Office Access 2007 Form Design Tips](http://www.fmsinc.com/tpapers/access/Forms/Access2007FormTips.html)
     
  **Links provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Display Pictures on a Form](http://www.utteraccess.com/wiki/index.php/Display_Pictures_on_a_Form)
@@ -92,7 +92,7 @@ The following example shows how to use  **TextBox** controls to supply date crit
 UtterAccess members can download a database that contains this example from [here](http://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
  **Sample code provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 

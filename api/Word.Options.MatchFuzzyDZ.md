@@ -14,10 +14,10 @@ ms.date: 06/08/2017
 # Options.MatchFuzzyDZ Property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
-![Symbol](images/fe274_ZA06051753.gif)" and "
-![Symbol](images/fe275_ZA06051754.gif)" and between "
-![Symbol](images/fe276_ZA06051755.gif)" and "
-![Symbol](images/fe277_ZA06051756.gif)" during a search. Read/write  **Boolean** .
+![Symbol](../images/fe274_ZA06051753.gif)" and "
+![Symbol](../images/fe275_ZA06051754.gif)" and between "
+![Symbol](../images/fe276_ZA06051755.gif)" and "
+![Symbol](../images/fe277_ZA06051756.gif)" during a search. Read/write  **Boolean** .
 
 
 ## Syntax
@@ -30,10 +30,10 @@ ms.date: 06/08/2017
 ## Example
 
 This example sets Microsoft Word to ignore the distinction between "
-![Symbol](images/fe274_ZA06051753.gif)" and "
-![Symbol](images/fe275_ZA06051754.gif)" and between "
-![Symbol](images/fe276_ZA06051755.gif)" and "
-![Symbol](images/fe277_ZA06051756.gif)" during a search.
+![Symbol](../images/fe274_ZA06051753.gif)" and "
+![Symbol](../images/fe275_ZA06051754.gif)" and between "
+![Symbol](../images/fe276_ZA06051755.gif)" and "
+![Symbol](../images/fe277_ZA06051756.gif)" during a search.
 
 
 ```vb

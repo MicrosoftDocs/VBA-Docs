@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Quick Watch Dialog Box
 
 
-![Quick watch dialog box](images/instwtch_ZA01201619.gif)
+![Quick watch dialog box](../../../images/instwtch_ZA01201619.gif)
 
 
 

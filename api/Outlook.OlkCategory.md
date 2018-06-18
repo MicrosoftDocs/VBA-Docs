@@ -25,7 +25,7 @@ This control shows both the category name and the category color. Right-clicking
 The following is an example of a category control at runtime. This control supports Microsoft Windows themes.
 
 
-![Category strip](images/olCategoryStrip_ZA10120276.gif)
+![Category strip](../images/olCategoryStrip_ZA10120276.gif)
 
 
 

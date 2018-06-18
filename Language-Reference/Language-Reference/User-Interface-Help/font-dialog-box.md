@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Font Dialog Box
 
 
-![Font](images/avhdg003_ZA01201567.gif)
+![Font](../../../images/avhdg003_ZA01201567.gif)
 
 
 

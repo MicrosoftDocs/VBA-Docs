@@ -21,7 +21,7 @@ The  **VbDayOfWeek** enumeration contains constants used to identify specific da
 1. Select the constant from the  **Members of 'VbDayOfWeek'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

@@ -45,7 +45,7 @@ Double
 
 
 - SYD is calculated as follows:
-![Formula](images/awfsyd_ZA06051253.gif)
+![Formula](../images/awfsyd_ZA06051253.gif)
 
 
     

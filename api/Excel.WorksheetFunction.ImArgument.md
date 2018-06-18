@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 # WorksheetFunction.ImArgument Method (Excel)
 
 Returns the argument 
-![Formula](images/theta_ZA06052070.gif) (theta), an angle expressed in radians, such that:
-![Formula](images/awfimar1_ZA06051153.gif)
+![Formula](../images/theta_ZA06052070.gif) (theta), an angle expressed in radians, such that:
+![Formula](../images/awfimar1_ZA06051153.gif)
 
 
 
@@ -48,8 +48,8 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - IMARGUMENT is calculated as follows:
-![Formula](images/awfimar2_ZA06051154.gif)where: 
-![Formula](images/awfimar3_ZA06051155.gif) and z = x + yi
+![Formula](../images/awfimar2_ZA06051154.gif)where: 
+![Formula](../images/awfimar3_ZA06051155.gif) and z = x + yi
     
 
 ## See also

@@ -52,7 +52,7 @@ Double
 - If there are fewer than three data points, or the sample standard deviation is zero, SKEW returns the #DIV/0! error value.
     
 - The equation for skewness is defined as:
-![Formula](images/awfskew_ZA06051241.gif)
+![Formula](../images/awfskew_ZA06051241.gif)
 
 
     

@@ -18,9 +18,9 @@ Centers selected [objects](vbe-glossary.md) on the central axes of the form.
 Aligns the middles of the selected objects to a horizontal line in the middle of the form.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_cenh_ZA01201684.gif).
+![Toolbar button](../../../images/tbr_cenh_ZA01201684.gif).
  **Vertically**
 Aligns the centers of the selected objects to a vertical line in the center of the form.
 Toolbar shortcut: 
-![Toolbar button](images/tbr_cenve_ZA01201685.gif).
+![Toolbar button](../../../images/tbr_cenve_ZA01201685.gif).
 

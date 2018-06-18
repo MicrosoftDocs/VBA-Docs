@@ -18,9 +18,9 @@ Arranges selected command buttons along the bottom or edge of a [form](vbe-gloss
 Arranges to the bottom left side of the form with equal spacing between each of them.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_arrb_ZA01201677.gif).
+![Toolbar button](../../../images/tbr_arrb_ZA01201677.gif).
  **Right**
 Arranges to the top right side of the form with equal spacing between each of them.
 Toolbar shortcut: 
-![Toolbar button](images/tbr_arrr_ZA01201678.gif).
+![Toolbar button](../../../images/tbr_arrr_ZA01201678.gif).
 

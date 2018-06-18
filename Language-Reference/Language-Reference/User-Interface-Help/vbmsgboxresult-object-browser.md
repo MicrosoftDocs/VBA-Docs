@@ -21,7 +21,7 @@ The  **VbMsgBoxResult** enumeration contains constants used to identify which bu
 1. Select the constant from the  **Members of 'VbMsgBoxResult'** list.
     
 2. Click the 
-![Help button](images/but_help_ZA01201583.gif) button.
+![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

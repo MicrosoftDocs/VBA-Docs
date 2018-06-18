@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Options Dialog Box
 
 
-![Options dialog box](images/opdlvbe_ZA01201635.gif)
+![Options dialog box](../../../images/opdlvbe_ZA01201635.gif)
 
 
 

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Protection Tab (Project Properties Dialog Box)
 
 
-![Protection tab](images/protabpp_ZA01201647.gif)
+![Protection tab](../../../images/protabpp_ZA01201647.gif)
 
 
 

@@ -13,6 +13,6 @@ Closes the current project or group project, if one is loaded, and opens an exis
 You can open as many projects as your system resources permit.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_open_ZA01201720.gif). Keyboard shortcut: CTRL+O.
+![Toolbar button](../../../images/tbr_open_ZA01201720.gif). Keyboard shortcut: CTRL+O.
 
 

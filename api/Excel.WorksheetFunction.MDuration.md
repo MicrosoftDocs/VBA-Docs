@@ -74,7 +74,7 @@ Double
 - If settlement ? maturity, MDURATION returns the #NUM! error value.
     
 - Modified duration is defined as follows:
-![Formula](images/awfmdur_ZA06051206.gif)
+![Formula](../images/awfmdur_ZA06051206.gif)
 
 
     

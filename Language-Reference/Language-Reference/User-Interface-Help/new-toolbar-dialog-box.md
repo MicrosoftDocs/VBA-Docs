@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # New Toolbar Dialog Box
 
 
-![New toolbar dialog box](images/newtbr_ZA01201633.gif)
+![New toolbar dialog box](../../../images/newtbr_ZA01201633.gif)
 
 
 

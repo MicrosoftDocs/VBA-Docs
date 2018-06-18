@@ -54,7 +54,7 @@ Double
 - If any data point ? 0, HARMEAN returns the #NUM! error value.
     
 - The equation for the harmonic mean is:
-![Formula](images/awfharmn_ZA06051150.gif)
+![Formula](../images/awfharmn_ZA06051150.gif)
 
 
     

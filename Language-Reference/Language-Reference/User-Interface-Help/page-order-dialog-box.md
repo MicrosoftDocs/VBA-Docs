@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Page Order Dialog Box
 
 
-![Page order dialog box](images/pgorderd_ZA01201641.gif)
+![Page order dialog box](../../../images/pgorderd_ZA01201641.gif)
 
 
 

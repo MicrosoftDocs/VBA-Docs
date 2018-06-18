@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Member Options Dialog Box
 
 
-![Member options dialog box](images/membropt_ZA01201624.gif)
+![Member options dialog box](../../../images/membropt_ZA01201624.gif)
 
 
 
@@ -35,6 +35,6 @@ Displays the Help file associated with the item listed in the Member Name box. T
  **Help Context ID**
 
 Assigns a unique numeric value for the context ID. This value is used to find the appropriate Help topic in the file listed in the Help File box when the user presses F1 or the 
-![Help button](images/but_help_ZA01201583.gif) button while looking at the procedure in the **Object** **Browser**.
+![Help button](../../../images/but_help_ZA01201583.gif) button while looking at the procedure in the **Object** **Browser**.
 
 

@@ -70,7 +70,7 @@ When you run the  **AddSimpleScalarChart** macro, Project creates the report and
 
 **Figure 1. The chart shows the data in Table 1**
 
-![Simple scalar chart in a report](images/pj15_VBA_ChartObject.gif)To delete the chart, you can delete the shape that contains the chart. The following macro deletes the chart on the report that is created by the  **AddSimpleScalarChart** macro, and leaves the empty report as the active view.
+![Simple scalar chart in a report](../images/pj15_VBA_ChartObject.gif)To delete the chart, you can delete the shape that contains the chart. The following macro deletes the chart on the report that is created by the  **AddSimpleScalarChart** macro, and leaves the empty report as the active view.
 
 
 

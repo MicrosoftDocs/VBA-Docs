@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Make Tab (Project Properties Dialog Box)
 
 
-![Make tab](images/vamaketabsdkversion_ZA01201791.gif)
+![Make tab](../../../images/vamaketabsdkversion_ZA01201791.gif)
 
 
 

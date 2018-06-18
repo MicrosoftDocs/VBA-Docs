@@ -23,7 +23,7 @@ Before you use this control for the first time in the forms designer, add the Mi
 The following is an example of the command button control at runtime. This control supports Microsoft Windows themes.
 
 
-![Command button](images/olCommandButton_ZA10120278.gif)
+![Command button](../images/olCommandButton_ZA10120278.gif)
 
 
 

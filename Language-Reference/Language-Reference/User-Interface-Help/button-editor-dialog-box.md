@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Button Editor Dialog Box
 
 
-![Button editor dialog box](images/editpict_ZA01201602.gif)
+![Button editor dialog box](../../../images/editpict_ZA01201602.gif)
 
 
 
@@ -32,16 +32,16 @@ Moves the picture around so that you have access to all parts of it.
 
 
 - 
-![Up one row](images/moveup_ZA01201630.gif) — Moves the picture up one row each time you click it until the top row of pixels is visible.
+![Up one row](../../../images/moveup_ZA01201630.gif) — Moves the picture up one row each time you click it until the top row of pixels is visible.
     
 - 
-![Down one row](images/movedwn_ZA01201627.gif) — Moves the picture down one row each time you click it until the bottom row of pixels is visible.
+![Down one row](../../../images/movedwn_ZA01201627.gif) — Moves the picture down one row each time you click it until the bottom row of pixels is visible.
     
 - 
-![Right one column](images/movert_ZA01201629.gif) — Moves the picture to the right one column each time you click it until the right-most column is visible.
+![Right one column](../../../images/movert_ZA01201629.gif) — Moves the picture to the right one column each time you click it until the right-most column is visible.
     
 - 
-![Left one column](images/movelt_ZA01201628.gif) — Moves the picture to the left one column each time you click it until the left-most column is visible.
+![Left one column](../../../images/movelt_ZA01201628.gif) — Moves the picture to the left one column each time you click it until the left-most column is visible.
     
 
 

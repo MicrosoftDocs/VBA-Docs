@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 Prints forms and code to the printer specified in the Microsoft Windows  **Control** **Panel**.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_prnt_ZA01201725.gif). Keyboard shortcut: CTRL+P.
+![Toolbar button](../../../images/tbr_prnt_ZA01201725.gif). Keyboard shortcut: CTRL+P.
 
 ## Dialog Box Options
 

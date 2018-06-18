@@ -16,6 +16,6 @@ Saves the current project and all of its components - forms and [modules](vbe-gl
 The  **Save** command displays the **Save As** dialog box if this is the first time the project is being saved.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_save_ZA01201736.gif). Keyboard shortcut: CTRL+S.
+![Toolbar button](../../../images/tbr_save_ZA01201736.gif). Keyboard shortcut: CTRL+S.
 
 

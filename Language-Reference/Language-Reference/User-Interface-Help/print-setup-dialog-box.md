@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Print Setup Dialog Box
 
 
-![Print setup dialog box](images/prntset_ZA01201642.gif)
+![Print setup dialog box](../../../images/prntset_ZA01201642.gif)
 
 
 

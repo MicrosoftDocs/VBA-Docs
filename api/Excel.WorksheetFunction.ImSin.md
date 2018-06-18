@@ -44,7 +44,7 @@ String
 - Use COMPLEX to convert real and imaginary coefficients into a complex number.
     
 - The sine of a complex number is:
-![Formula](images/awfimsin_ZA06051167.gif)
+![Formula](../images/awfimsin_ZA06051167.gif)
 
 
     

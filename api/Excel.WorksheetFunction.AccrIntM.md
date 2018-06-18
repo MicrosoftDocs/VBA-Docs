@@ -74,7 +74,7 @@ The following table describes the values that can be used for  _Arg5_ .
 - If issue = maturity, ACCRINTM will generate an error.
     
 - ACCRINTM is calculated as follows:
-![ACCRINTM](images/awfacrtm_ZA06051109.gif)where: A = Number of accrued days counted according to a monthly basis. For interest at maturity items, the number of days from the issue date to the maturity date is used. D = Annual Year Basis. 
+![ACCRINTM](../images/awfacrtm_ZA06051109.gif)where: A = Number of accrued days counted according to a monthly basis. For interest at maturity items, the number of days from the issue date to the maturity date is used. D = Annual Year Basis. 
     
 
 ## See also

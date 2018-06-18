@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 Searches code in the project for the specified text and replaces it with the new text specified in the  **Replace** dialog box.
 
 Toolbar shortcut: 
-![Toolbar button](images/tbr_repl_ZA01201735.gif). Keyboard shortcut: CTRL+H.
+![Toolbar button](../../../images/tbr_repl_ZA01201735.gif). Keyboard shortcut: CTRL+H.
 
 ## Dialog Box Options
 

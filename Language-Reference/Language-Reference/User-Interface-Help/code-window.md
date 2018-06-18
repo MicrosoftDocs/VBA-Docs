@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 # Code Window
 
 
-![Code window](images/code_ZA01201588.gif)
+![Code window](../../../images/code_ZA01201588.gif)
 
 
 
@@ -60,12 +60,12 @@ Dragging this bar down, splits the  **Code** window into two horizontal panes, e
 A gray area on the left side of the  **Code** window where[margin indicators](vbe-glossary.md) are displayed.
 
 
-![Code window](images/avhdg004_ZA01201568.gif) **Procedure View Icon**
+![Code window](../../../images/avhdg004_ZA01201568.gif) **Procedure View Icon**
 
 Displays the selected procedure. Only one procedure at a time is displayed in the  **Code** window.
 
 
-![Code window](images/avhdg005_ZA01201569.gif) **Full Module View Icon**
+![Code window](../../../images/avhdg005_ZA01201569.gif) **Full Module View Icon**
 
 Displays the entire code in the module.
 

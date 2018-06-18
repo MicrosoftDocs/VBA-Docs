@@ -51,17 +51,17 @@ Double
 - If alpha ? 0 or if beta ? 0, WEIBULL_DIST returns the #NUM! error value.
     
 - The equation for the Weibull cumulative distribution function is:
-![Formula](images/awfweib1_ZA06051261.gif)
+![Formula](../images/awfweib1_ZA06051261.gif)
 
 
     
 - The equation for the Weibull probability density function is:
-![Formula](images/awfweib2_ZA06051262.gif)
+![Formula](../images/awfweib2_ZA06051262.gif)
 
 
     
 - When alpha = 1, WEIBULL_DIST returns the exponential distribution with:
-![Formula](images/awfweib3_ZA06051263.gif)
+![Formula](../images/awfweib3_ZA06051263.gif)
 
 
     

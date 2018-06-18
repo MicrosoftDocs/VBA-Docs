@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Insert File Dialog Box
 
 
-![Insert file dialog box](images/insrtfl_ZA01201618.gif)
+![Insert file dialog box](../../../images/insrtfl_ZA01201618.gif)
 
 
 
@@ -27,22 +27,22 @@ Displays the computers, servers, drives, and folders available on your computer 
  **Up One Level**
 
 
-![Up one level](images/tbr_up_ZA01201763.gif) Shows a list of folders or drives one level above the current server, computer, or folder.
+![Up one level](../../../images/tbr_up_ZA01201763.gif) Shows a list of folders or drives one level above the current server, computer, or folder.
 
  **Create New Folder**
 
 
-![Create new folder](images/tbr_new_ZA01201715.gif) Creates a new folder.
+![Create new folder](../../../images/tbr_new_ZA01201715.gif) Creates a new folder.
 
  **List**
 
 
-![List](images/tbr_list_ZA01201712.gif) Shows the folders or documents in a list format that includes the folder or document icon and its name.
+![List](../../../images/tbr_list_ZA01201712.gif) Shows the folders or documents in a list format that includes the folder or document icon and its name.
 
  **Details**
 
 
-![Details](images/tbr_deta_ZA01201697.gif) Shows the folder or documents in a list that includes the folder or document icon and name, its size (documents only), type, and the date and time it was last modified.
+![Details](../../../images/tbr_deta_ZA01201697.gif) Shows the folder or documents in a list that includes the folder or document icon and name, its size (documents only), type, and the date and time it was last modified.
 
  **File Name**
 

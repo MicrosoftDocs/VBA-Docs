@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # Toolbars Tab (Customize Dialog Box)
 
 
-![Toolbars tab](images/toolbtab_ZA01201771.gif)
+![Toolbars tab](../../../images/toolbtab_ZA01201771.gif)
 
 
 
