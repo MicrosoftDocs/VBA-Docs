@@ -34,6 +34,7 @@ The  _arglist_ argument has the following syntax and parts:
 |**ByRef**|Optional. Indicates that the argument is passed [by reference](vbe-glossary.md).  **ByRef** is the default in Visual Basic.|
 | _varname_|Required. Name of the variable representing the argument being passed to the [procedure](vbe-glossary.md); follows standard variable naming conventions.|
 | _type_|Optional. [Data type](vbe-glossary.md) of the argument passed to the procedure; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md) (variable length only),[Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an object type.|
+
  **Remarks**
 Once the event has been declared, use the  **RaiseEvent** statement to fire the event. A syntax error occurs if an **Event** declaration appears in a[standard module](vbe-glossary.md). An event can't be declared to return a value. A typical event might be declared and raised as shown in the following fragments:
 

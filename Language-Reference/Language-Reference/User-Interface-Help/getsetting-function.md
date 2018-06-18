@@ -25,6 +25,7 @@ The  **GetSetting** function syntax has these[named arguments](vbe-glossary.md):
 |**_section_**|Required. String expression containing the name of the section where the key setting is found.|
 |**_key_**|Required. String expression containing the name of the key setting to return.|
 |**_default_**|Optional. [Expression](vbe-glossary.md) containing the value to return if no value is set in the key setting. If omitted, **_default_** is assumed to be a zero-length string ("").|
+
  **Remarks**
 If any of the items named in the  **GetSetting** arguments do not exist, **GetSetting** returns the value of **_default_**.
 

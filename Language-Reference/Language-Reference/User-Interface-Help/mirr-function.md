@@ -24,6 +24,7 @@ The  **MIRR** function has these[named arguments](vbe-glossary.md):
 |**_values_ ()**|Required. [Array](vbe-glossary.md) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
 |**_finance_rate_**|Required.  **Double** specifying interest rate paid as the cost of financing.|
 |**_reinvest_rate_**|Required.  **Double** specifying interest rate received on gains from cash reinvestment.|
+
  **Remarks**
 The modified internal rate of return is the internal rate of return when payments and receipts are financed at different rates. The  **MIRR** function takes into account both the cost of the investment ( **_finance_rate_** ) and the interest rate received on reinvestment of cash ( **_reinvest_rate_** ).
 The  **_finance_rate_** and **_reinvest_rate_**[arguments](vbe-glossary.md) are percentages expressed as decimal values. For example, 12 percent is expressed as 0.12.

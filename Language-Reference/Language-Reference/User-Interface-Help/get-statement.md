@@ -25,6 +25,7 @@ The  **Get** statement syntax has these parts:
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
 | _recnumber_|Optional.  **Variant** ( **Long** ). Record number ( **Random** mode files) or byte number ( **Binary** mode files) at which reading begins.|
 | _varname_|Required. Valid variable name into which data is read.|
+
  **Remarks**
 Data read with  **Get** is usually written to a file with **Put**.
 The first record or byte in a file is at position 1, the second record or byte is at position 2, and so on. If you omit  _recnumber_, the next record or byte following the last **Get** or **Put**[statement](vbe-glossary.md) (or pointed to by the last **Seek** function) is read. You must include delimiting commas, for example:

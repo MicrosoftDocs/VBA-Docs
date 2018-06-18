@@ -23,6 +23,7 @@ The  **InsideHeight** and **InsideWidth** property syntaxes have these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 The  **InsideHeight** and **InsideWidth** properties are read-only. If the region includes a scroll bar, the returned value does not include the height or width of the scroll bar.
 

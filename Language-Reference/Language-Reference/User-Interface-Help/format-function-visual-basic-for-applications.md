@@ -26,6 +26,7 @@ The  **Format** function syntax has these parts:
 | _format_|Optional. A valid named or user-defined format expression.|
 | _firstdayofweek_|Optional. A [constant](vbe-glossary.md) that specifies the first day of the week.|
 | _firstweekofyear_|Optional. A constant that specifies the first week of the year.|
+
  **Settings**
 The  _firstdayofweek_[argument](vbe-glossary.md) has these settings:
 
@@ -49,6 +50,7 @@ The  _firstweekofyear_ argument has these settings:
 |**vbFirstJan1**|1|Start with week in which January 1 occurs (default).|
 |**vbFirstFourDays**|2|Start with the first week that has at least four days in the year.|
 |**vbFirstFullWeek**|3|Start with the first full week of the year.|
+
  **Remarks**
 
 
@@ -157,6 +159,7 @@ A format [expression](vbe-glossary.md) for strings can have one section or two s
 |:-----|:-----|
 |One section only|The format applies to all string data.|
 |Two sections|The first section applies to string data, the second to [Null](vbe-glossary.md) values and zero-length strings ("").|
+
  **Named Date/Time Formats (Format Function)**
 The following table identifies the predefined date and time format names:
 
@@ -170,6 +173,7 @@ The following table identifies the predefined date and time format names:
 |**Long Time**|Display a time using your system's long time format; includes hours, minutes, seconds.|
 |**Medium Time**|Display time in 12-hour format using hours and minutes and the AM/PM designator.|
 |**Short Time**|Display a time using the 24-hour format, for example, 17:45.|
+
  **Named Numeric Formats (Format Function)**
 The following table identifies the predefined numeric format names:
 
@@ -185,6 +189,7 @@ The following table identifies the predefined numeric format names:
 |**Yes/No**|Display No if number is 0; otherwise, display Yes.|
 |**True/False**|Display  **False** if number is 0; otherwise, display **True**.|
 |**On/Off**|Display Off if number is 0; otherwise, display On.|
+
  **User-Defined String Formats (Format Function)**
 You can use any of the following characters to create a format [expression](vbe-glossary.md) for strings:
 
@@ -196,6 +201,7 @@ You can use any of the following characters to create a format [expression](vbe-
 |**&lt;**|Force lowercase. Display all characters in lowercase format.|
 |**&gt;**|Force uppercase. Display all characters in uppercase format.|
 |**!**|Force left to right fill of placeholders. The default is to fill placeholders from right to left.|
+
  **User-Defined Date/Time Formats (Format Function)**
 The following table identifies characters you can use to create user-defined date/time formats:
 
@@ -235,6 +241,7 @@ The following table identifies characters you can use to create user-defined dat
 |A/P|Use the 12-hour clock and display an uppercase A with any hour before noon; display an uppercase P with any hour between noon and 11:59 P.M.|
 |a/p|Use the 12-hour clock and display a lowercase A with any hour before noon; display a lowercase P with any hour between noon and 11:59 P.M.|
 |AMPM|Use the 12-hour clock and display the AM [string literal](vbe-glossary.md) as defined by your system with any hour before noon; display the PM string literal as defined by your system with any hour between noon and 11:59 P.M. AMPM can be either uppercase or lowercase, but the case of the string displayed matches the string as defined by your system settings. The default format is AM/PM.|
+
  **User-Defined Numeric Formats (Format Function)**
 The following table identifies characters you can use to create user-defined number formats:
 

@@ -36,6 +36,7 @@ The  **IMESentenceMode** property accepts the[AcImeSentenceMode Enumeration (Acc
 |Plural|Set IME Sentence Mode to ?Plural? mode.|1|
 |Speaking|Set IME Sentence Mode to ?Speaking? mode.|2|
 |No Conversion|Doesn?t set IME Sentence Mode.|3|
+
  **Normal mode**
 
 Use this mode when creating a literary Japanese document.

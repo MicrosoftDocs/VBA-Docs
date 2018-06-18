@@ -35,6 +35,7 @@ The  **BeforeDropOrPaste** event syntax has these parts:
 | _X, Y_|Required. The horizontal and vertical position of the mouse pointer when the drop occurs. Both coordinates are measured in points.  _X_ is measured from the left edge of the control; _Y_ is measured from the top of the control..|
 | _Effect_|Required. Effect of the drag-and-drop operation on the target control.|
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
+
  **Settings**
 The settings for  _Action_ are:
 
@@ -60,6 +61,7 @@ The settings for  _Shift_ are:
 | _fmShiftMask_|1|SHIFT was pressed.|
 | _fmCtrlMask_|2|CTRL was pressed.|
 | _fmAltMask_|4|ALT was pressed.|
+
  **Remarks**
 For a  **MultiPage** or **TabStrip**, Visual Basic for Applications initiates this event when it transfers a data object to the control.
 For other controls, the system initiates this event immediately prior to the drop or paste operation.

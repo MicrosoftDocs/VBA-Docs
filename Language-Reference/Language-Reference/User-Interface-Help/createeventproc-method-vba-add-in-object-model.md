@@ -24,6 +24,7 @@ The  **CreateEventProc** syntax has these parts:
 | _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _eventname_|Required. A [string expression](vbe-glossary.md) specifying the name of the event you want to add to the[module](vbe-glossary.md).|
 | _objectname_|Required. A string expression specifying the name of the object that is the source of the event.|
+
  **Remarks**
 Use the  **CreateEventProc** method to create an event procedure. For example, to create an event procedure for the **Click** event of a **Command Button** control named `Command1` you would use the following code, where `CM` represents an object of type **CodeModule**:
 

@@ -25,6 +25,7 @@ The  **TabOrientation** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmTabOrientation_|Optional. Where the tabs will appear.|
+
  **Settings**
 The settings for  _fmTabOrientation_ are:
 
@@ -35,6 +36,7 @@ The settings for  _fmTabOrientation_ are:
 | _fmTabOrientationBottom_|1|The tabs appear at the bottom of the control.|
 | _fmTabOrientationLeft_|2|The tabs appear at the left side of the control.|
 | _fmTabOrientationRight_|3|The tabs appear at the right side of the control.|
+
  **Remarks**
 If you use TrueType fonts, the text rotates when the  **TabOrientation** property is set to **fmTabOrientationLeft** or **fmTabOrientationRight**. If you use bitmapped fonts, the text does not rotate.
 

@@ -26,6 +26,7 @@ The  **Skip** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **TextStream** object.|
 | _characters_|Required. Number of characters to skip when reading a file.|
+
  **Remarks**
 Skipped characters are discarded.
 

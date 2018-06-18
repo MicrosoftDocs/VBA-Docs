@@ -24,6 +24,7 @@ The  **Delete** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _force_|Optional.  **Boolean** value that is **True** if files or folders with the read-only attribute set are to be deleted; **False** (default) if they are not.|
+
  **Remarks**
 An error occurs if the specified file or folder does not exist.
 The results of the  **Delete** method on a **File** or **Folder** are identical to operations performed using **FileSystemObject.DeleteFile** or **FileSystemObject.DeleteFolder**.

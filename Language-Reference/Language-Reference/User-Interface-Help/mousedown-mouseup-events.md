@@ -27,6 +27,7 @@ The  **MouseDown** and **MouseUp** event syntaxes have these parts:
 | _Button_|Required. An integer value that identifies which mouse button caused the event.|
 | _Shift_|Required. The state of SHIFT, CTRL, and ALT.|
 | _X, Y_|Required. The horizontal or vertical position, in points, from the left or top edge of the form,  **Frame**, or **Page**.|
+
  **Settings**
 The settings for  _Button_ are:
 
@@ -56,6 +57,7 @@ You can identify individual keyboard modifiers by using the following constants:
 | _fmShiftMask_|1|Mask to detect SHIFT.|
 | _fmCtrlMask_|2|Mask to detect CTRL.|
 | _fmAltMask_|4|Mask to detect ALT.|
+
  **Remarks**
 For a  **MultiPage**, the MouseDown event occurs when the user presses a mouse button over the control.
 For a  **TabStrip**, the index argument identifies the tab where the user clicked. An index of -1 indicates the user did not click a tab. For example, if there are no tabs in the upper right corner of the control, clicking in the upper right corner sets the index to -1.

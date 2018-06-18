@@ -26,6 +26,7 @@ The  **Lock** and **Unlock** statement syntax has these parts:
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
 | _recordrange_|Optional. The range of records to lock or unlock.|
+
  **Settings**
 The  _recordrange_[argument](vbe-glossary.md) settings are:
  _recnumber_ | [ _start_ ] **To**_end_
@@ -36,6 +37,7 @@ The  _recordrange_[argument](vbe-glossary.md) settings are:
 | _recnumber_|Record number ( **Random** mode files) or byte number ( **Binary** mode files) at which locking or unlocking begins.|
 | _start_|Number of the first record or byte to lock or unlock.|
 | _end_|Number of the last record or byte to lock or unlock.|
+
  **Remarks**
 The  **Lock** and **Unlock** statements are used in environments where several processes might need access to the same file.
  **Lock** and **Unlock** statements are always used in pairs. The arguments to **Lock** and **Unlock** must match exactly.

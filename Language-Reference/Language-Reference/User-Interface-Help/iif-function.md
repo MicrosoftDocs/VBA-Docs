@@ -24,6 +24,7 @@ The  **IIf** function syntax has these[named arguments](vbe-glossary.md):
 |**_expr_**|Required. Expression you want to evaluate.|
 |**_truepart_**|Required. Value or expression returned if  **_expr_** is **True**.|
 |**_falsepart_**|Required. Value or expression returned if  **_expr_** is **False**.|
+
  **Remarks**
  **IIf** always evaluates both **_truepart_** and **_falsepart_**, even though it returns only one of them. Because of this, you should watch for undesirable side effects. For example, if evaluating **_falsepart_** results in a division by zero error, an error occurs even if **_expr_** is **True**.
 

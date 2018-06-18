@@ -24,6 +24,7 @@ The  **Max** and **Min** property syntaxes have these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. A numeric expression specifying the maximum or minimum  **Value** property setting.|
+
  **Remarks**
 Clicking a  **SpinButton** or moving the scroll box in a **ScrollBar** changes the **Value** property of the control.
 The value for the  **Max** property corresponds to the lowest position of a vertical **ScrollBar** or the rightmost position of a horizontal **ScrollBar**. The value for the **Min** property corresponds to the highest position of a vertical **ScrollBar** or the leftmost position of a horizontal **ScrollBar**.

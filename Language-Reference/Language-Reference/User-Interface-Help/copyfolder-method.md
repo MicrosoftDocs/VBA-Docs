@@ -28,6 +28,7 @@ The  **CopyFolder** method syntax has these parts:
 | _source_|Required. Character string folder specification, which can include wildcard characters, for one or more folders to be copied.|
 | _destination_|Required. Character string destination where the folder and subfolders from  _source_ are to be copied. Wildcard characters are not allowed.|
 | _overwrite_|Optional.  **Boolean** value that indicates if existing folders are to be overwritten. If **True**, files are overwritten; if **False**, they are not. The default is **True**.|
+
  **Remarks**
 Wildcard characters can only be used in the last path component of the  _source_ argument. For example, you can use:
 

@@ -23,6 +23,7 @@ The  **Switch** function syntax has these parts:
 |:-----|:-----|
 | _expr_|Required. [Variant expression](vbe-glossary.md) you want to evaluate.|
 | _value_|Required. Value or expression to be returned if the corresponding expression is  **True**.|
+
  **Remarks**
 The  **Switch** function[argument](vbe-glossary.md) list consists of pairs of expressions and values. The expressions are evaluated from left to right, and the value associated with the first expression to evaluate to **True** is returned. If the parts aren't properly paired, a[run-time error](vbe-glossary.md) occurs. For example, if _expr-1_ is **True**, **Switch** returns _value-1_. If _expr-1_ is **False**, but _expr-2_ is **True**, **Switch** returns _value-2_, and so on.
  **Switch** returns a[Null](vbe-glossary.md) value if:

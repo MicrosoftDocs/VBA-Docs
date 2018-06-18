@@ -58,6 +58,7 @@ The following settings are specified in the  **Solver Options** dialog box.
 |27|The  **Max Feasible Solutions** option (All Methods tab).|
 |28|The  **Ignore Integer Constraints** option (All Methods tab).|
 |29|The  **Maximum Time without Improvement** option (Evolutionary tab).|
+
  **SheetName** Optional **Variant**. The name of the sheet that contains the Solver model for which you want information. If  **_SheetName_** is omitted, this sheet is assumed to be the active sheet.
 
 ## Example

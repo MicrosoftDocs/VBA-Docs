@@ -24,6 +24,7 @@ The  **\*** operator syntax has these parts:
 | _result_|Required; any numeric [variable](vbe-glossary.md).|
 | _number1_|Required; any [numeric expression](vbe-glossary.md).|
 | _number2_|Required; any numeric expression.|
+
  **Remarks**
 The [data type](vbe-glossary.md) of _result_ is usually the same as that of the most precise[expression](vbe-glossary.md). The order of precision, from least to most precise, is [Byte](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Single](vbe-glossary.md), [Currency](vbe-glossary.md), [Double](vbe-glossary.md), and [Decimal](vbe-glossary.md). The following are exceptions to this order:
 

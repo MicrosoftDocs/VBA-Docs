@@ -29,6 +29,7 @@ Returns a single Axis object from an Axes collection.
 | **xlCategory**|
 | **xlSeriesAxis** Valid only for 3-D charts.|
 | **xlValue**|
+
  **AxisGroup**Optional 
  **XlAxisGroup**
 . The axis group.

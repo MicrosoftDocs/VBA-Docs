@@ -25,6 +25,7 @@ The  **Alignment** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmAlignment_|Optional. Caption position.|
+
  **Settings**
 The settings for  _fmAlignment_ are:
 
@@ -33,6 +34,7 @@ The settings for  _fmAlignment_ are:
 |:-----|:-----|:-----|
 | _fmAlignmentLeft_|0|Places the caption to the left of the control.|
 | _fmAlignmentRight_|1|Places the caption to the right of the control (default).|
+
  **Remarks**
 The caption text for a control is left-aligned.
 

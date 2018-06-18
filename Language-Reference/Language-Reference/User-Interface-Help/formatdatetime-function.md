@@ -24,6 +24,7 @@ The  **FormatDateTime** function syntax has these parts:
 |:-----|:-----|
 | _Date_|Required. Date expression to be formatted.|
 | _NamedFormat_|Optional. Numeric value that indicates the date/time format used. If omitted,  **vbGeneralDate** is used.|
+
  **Settings**
 The  _NamedFormat_ argument has the following settings:
 

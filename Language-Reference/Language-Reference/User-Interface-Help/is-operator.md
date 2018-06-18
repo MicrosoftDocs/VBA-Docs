@@ -24,6 +24,7 @@ The  **Is** operator syntax has these parts:
 | _result_|Required; any numeric variable.|
 | _object1_|Required; any object name.|
 | _object2_|Required; any object name.|
+
  **Remarks**
 If  _object1_ and _object2_ both refer to the same object, _result_ is **True**; if they do not, _result_ is **False**. Two variables can be made to refer to the same object in several ways.
 In the following example, A has been set to refer to the same object as B:

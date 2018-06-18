@@ -24,6 +24,7 @@ The  **CurTargetX** property syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Return Values**
 The  **CurTargetX** property retrieves the preferred position, measured in himetric units. A himetric is 0.0001 meter.
  **Remarks**

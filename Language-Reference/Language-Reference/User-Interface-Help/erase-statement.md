@@ -30,6 +30,7 @@ The required  _arraylist_[argument](vbe-glossary.md) is one or more comma-delimi
 |Fixed [Variant](vbe-glossary.md) array|Sets each element to [Empty](vbe-glossary.md).|
 |Array of [user-defined types](vbe-glossary.md)|Sets each element as if it were a separate variable.|
 |Array of objects|Sets each element to the special value  **Nothing**.|
+
  **Erase** frees the memory used by dynamic arrays. Before your program can refer to the dynamic array again, it must redeclare the array variable's dimensions using a **ReDim** statement.
 
 ## Example

@@ -26,6 +26,7 @@ The  **Set** statement syntax has these parts:
 |**New**|Optional.  **New** is usually used during declaration to enable implicit object creation. When **New** is used with **Set**, it creates a new instance of the[class](vbe-glossary.md). If  _objectvar_ contained a reference to an object, that reference is released when the new one is assigned. The **New**[keyword](vbe-glossary.md) can't be used to create new instances of any intrinsic[data type](vbe-glossary.md) and can't be used to create dependent objects.|
 | _objectexpression_|Required. [Expression](vbe-glossary.md) consisting of the name of an object, another declared variable of the same[object type](vbe-glossary.md), or a function or [method](vbe-glossary.md) that returns an object of the same object type.|
 |**Nothing**|Optional. Discontinues association of  _objectvar_ with any specific object. Assigning **Nothing** to _objectvar_ releases all the system and memory resources associated with the previously referenced object when no other variable refers to it.|
+
  **Remarks**
 To be valid,  _objectvar_ must be an object type consistent with the object being assigned to it.
 The  **Dim**, **Private**, **Public**, **ReDim**, and **Static** statements only declare a variable that refers to an object. No actual object is referred to until you use the **Set** statement to assign a specific object.

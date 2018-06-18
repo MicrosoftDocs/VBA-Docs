@@ -26,6 +26,7 @@ The  **GetFile** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _filespec_|Required. The  _filespec_ is the path (absolute or relative) to a specific file.|
+
  **Remarks**
 An error occurs if the specified file does not exist.
 

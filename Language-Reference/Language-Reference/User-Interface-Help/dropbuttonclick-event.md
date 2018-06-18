@@ -24,6 +24,7 @@ The  **DropButtonClick** event syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 You can initiate the DropButtonClick event through code or by taking certain actions in the user interface.
 In code, calling the  **DropDown** method initiates the DropButtonClick event.

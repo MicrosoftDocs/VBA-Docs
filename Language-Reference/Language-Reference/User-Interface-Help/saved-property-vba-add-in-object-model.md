@@ -22,6 +22,7 @@ The  **Saved** property returns these values:
 |:-----|:-----|
 |**True**|The object has not been edited since the last time it was saved.|
 |**False**|The object has been edited since the last time it was saved.|
+
  **Remarks**
 The  **SaveAs** method sets the **Saved** property to **True**.
 

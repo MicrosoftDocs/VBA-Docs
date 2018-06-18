@@ -27,6 +27,7 @@ The  **RemoveControl** event syntax has these parts:
 | _object_|Required. A valid object name.|
 | _index_|Required. The index of the page in a  **MultiPage** that contained the deleted control.|
 | _ctrl_|Required. The deleted control.|
+
  **Remarks**
 This event occurs when a control is deleted from the form, not when a control is unloaded due to a form being closed.
 

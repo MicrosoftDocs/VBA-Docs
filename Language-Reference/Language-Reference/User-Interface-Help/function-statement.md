@@ -50,6 +50,7 @@ The  _arglist_ argument has the following syntax and parts:
 | _varname_|Required. Name of the variable representing the argument; follows standard variable naming conventions.|
 | _type_|Optional. Data type of the argument passed to the procedure; may be  **Byte**, **Boolean**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Decimal** (not currently supported) **Date**, **String** (variable length only), **Object**, **Variant**, or a specific[object type](vbe-glossary.md). If the parameter is not  **Optional**, a user-defined type may also be specified.|
 | _defaultvalue_|Optional. Any [constant](vbe-glossary.md) or constant expression. Valid for **Optional** parameters only. If the type is an **Object**, an explicit default value can only be **Nothing**.|
+
  **Remarks**
 If not explicitly specified using  **Public**, **Private**, or **Friend**, **Function** procedures are public by default. If **Static** isn't used, the value of local variables is not preserved between calls. The **Friend** keyword can only be used in class modules. However, **Friend** procedures can be accessed by procedures in any module of a project. A **Friend** procedure does't appear in the[type library](vbe-glossary.md) of its parent class, nor can a **Friend** procedure be late bound.
  **Function** procedures can be recursive; that is, they can call themselves to perform a given task. However, recursion can lead to stack overflow. The **Static** keyword usually isn't used with recursive **Function** procedures.

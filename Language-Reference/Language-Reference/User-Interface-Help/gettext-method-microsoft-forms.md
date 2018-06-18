@@ -23,6 +23,7 @@ The  **GetText** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _format_|Optional. A string or integer specifying the format of the data to retrieve from the  **DataObject**.|
+
  **Settings**
 The settings for  _format_ are:
 
@@ -31,6 +32,7 @@ The settings for  _format_ are:
 |:-----|:-----|
 |1|Text format.|
 |A string or any integer other than 1|A user-defined  **DataObject** format passed to the **DataObject** from **SetText**.|
+
  **Remarks**
 The  **DataObject** supports multiple formats, but only supports one data item of each format. For example, the **DataObject** might include one text item and one item in a custom format; but cannot include two text items.
 If no format is specified, the  **GetText** method requests information in the Text format from the **DataObject**.

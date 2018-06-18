@@ -34,6 +34,7 @@ The  **_windowstyle_** named argument has these values:
 |**vbMaximizedFocus**|3|Window is maximized with focus.|
 |**vbNormalNoFocus**|4|Window is restored to its most recent size and position. The currently active window remains active.|
 |**vbMinimizedNoFocus**|6|Window is displayed as an icon. The currently active window remains active.|
+
  **Remarks**
 If the  **Shell** function successfully executes the named file, it returns the task ID of the started program. The task ID is a unique number that identifies the running program. If the **Shell** function can't start the named program, an error occurs.
 On the Macintosh,  **vbNormalFocus**, **vbMinimizedFocus**, and **vbMaximizedFocus** all place the application in the foreground; **vbHide**, **vbNoFocus**, **vbMinimizeFocus** all place the application in the background.

@@ -35,6 +35,7 @@ You can use one of the following [constants](vbe-glossary.md) for the _prockind_
 |**vbext_pk_Let**|Specifies a procedure that assigns a value to a property.|
 |**vbext_pk_Set**|Specifies a procedure that sets a reference to an object.|
 |**vbext_pk_Proc**|Specifies all procedures other than property procedures.|
+
  **Remarks**
 The first line of a procedure is the line on which the  **Sub**, **Function**, or **Property** statement appears.
 

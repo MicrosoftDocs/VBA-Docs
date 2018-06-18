@@ -25,6 +25,7 @@ The  **MaxLength** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. An integer indicating the allowable number of characters.|
+
  **Remarks**
 Setting the  **MaxLength** property to 0 indicates there is no limit other than that created by memory constraints.
 

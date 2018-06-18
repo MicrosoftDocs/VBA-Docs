@@ -23,6 +23,7 @@ The  **Value** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The state or content of the control.|
+
  **Settings**
 
 
@@ -41,6 +42,7 @@ The  **Value** property syntax has these parts:
 |**MultiPage**|An integer indicating the currently active page.|
 ||Zero (0) indicates the first page. The maximum value is one less than the number of pages.|
 |**TextBox**|The text in the edit region.|
+
  **Remarks**
 For a  **CommandButton**, setting the **Value** property to **True** in a macro or procedure initiates the button's Click event.
 For a  **ComboBox**, changing the contents of **Value** does not change the value of **BoundColumn**. To add or delete entries in a **ComboBox**, you can use the **AddItem** or **RemoveItem** method.

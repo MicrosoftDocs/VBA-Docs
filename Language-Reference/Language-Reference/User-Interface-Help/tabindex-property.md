@@ -25,6 +25,7 @@ The  **TabIndex** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Integer_|Optional. An integer from 0 to one less than the number of controls on the form that have a  **TabIndex** property. Assigning a **TabIndex** value of less than 0 generates an error. If you assign a **TabIndex** value greater than the largest index value, the system resets the value to the maximum allowable value.|
+
  **Remarks**
 The index value of the first object in the tab order is zero.
 

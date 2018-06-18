@@ -24,6 +24,7 @@ The  **DateAdd** function syntax has these[named arguments](vbe-glossary.md):
 |**_interval_**|Required. [String expression](vbe-glossary.md) that is the interval of time you want to add.|
 |**_number_**|Required. [Numeric expression](vbe-glossary.md) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
 |**_date_**|Required.  **Variant** ( **Date** ) or literal representing date to which the interval is added.|
+
  **Settings**
 The  **_interval_**[argument](vbe-glossary.md) has these settings:
 
@@ -40,6 +41,7 @@ The  **_interval_**[argument](vbe-glossary.md) has these settings:
 |h|Hour|
 |n|Minute|
 |s|Second|
+
  **Remarks**
 You can use the  **DateAdd** function to add or subtract a specified time interval from a date. For example, you can use **DateAdd** to calculate a date 30 days from today or a time 45 minutes from now.
 To add days to  **_date_**, you can use Day of Year ("y"), Day ("d"), or Weekday ("w").

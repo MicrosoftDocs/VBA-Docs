@@ -26,6 +26,7 @@ The  **GetExtensionName** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _path_|Required. The path specification for the component whose extension name is to be returned.|
+
  **Remarks**
 For network drives, the root directory ( **\** ) is considered to be a component.
 The  **GetExtensionName** method returns a zero-length string ("") if no component matches the _path_ argument.

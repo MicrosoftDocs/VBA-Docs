@@ -28,6 +28,7 @@ Fills the specified shape with an image.
 |XlChartPictureType can be one of these XlChartPictureType constants.|
 | **xlScale**|
 | **xlStackScale** **xlStack** **xlStretch**|
+
  **PictureStackUnit** Optional **Variant**. The stack or scale unit for the specified picture (depends on the  **_PictureFormat_** argument).
  **PicturePlacement** Optional
  **XlChartPicturePlacement**

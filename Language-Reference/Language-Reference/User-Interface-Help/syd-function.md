@@ -25,6 +25,7 @@ The  **SYD** function has these[named arguments](vbe-glossary.md):
 |**_salvage_**|Required.  **Double** specifying value of the asset at the end of its useful life.|
 |**_life_**|Required.  **Double** specifying length of the useful life of the asset.|
 |**_period_**|Required.  **Double** specifying period for which asset depreciation is calculated.|
+
  **Remarks**
 The  **_life_** and **_period_**[arguments](vbe-glossary.md) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
 

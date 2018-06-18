@@ -25,6 +25,7 @@ The  **RowSource** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. The source of the list for the  **ComboBox** or **ListBox**.|
+
  **Remarks**
 The  **RowSource** property accepts worksheet ranges from Microsoft Excel.
 

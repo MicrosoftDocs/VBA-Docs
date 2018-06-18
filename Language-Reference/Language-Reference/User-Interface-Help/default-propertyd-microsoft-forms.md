@@ -23,6 +23,7 @@ The  **Default** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the command button is the default.|
+
  **Settings**
 The settings for  _Boolean_ are:
 
@@ -31,6 +32,7 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|The  **CommandButton** is the default button.|
 |**False**|The  **CommandButton** is not the default button (default).|
+
  **Remarks**
 A  **CommandButton** or an object that acts like a command button can be designated as the default command button. Only one object on a form can be the default command button. Setting the **Default** property to **True** for one object automatically sets it to **False** for all other objects on the form.
 To choose the default command button on an active form, the user can click the button, or press ENTER when no other  **CommandButton** has the[focus](vbe-glossary.md). Pressing ENTER when no other  **CommandButton** has the focus also initiates the KeyUp event for the default command button.

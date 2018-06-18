@@ -33,6 +33,7 @@ Sets the specified fill to a two-color gradient.
 | **msoGradientHorizontal**|
 | **msoGradientMixed**|
 | **msoGradientVertical**|
+
  **Variant** Required **Long**. Specifies the gradient variant. Can be a value from 1 through 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If **_Style_** is **msoGradientFromCenter**, the  **_Variant_** argument can only be either 1 or 2.
 
 ## Example

@@ -24,6 +24,7 @@ The  **Write #** statement syntax has these parts:
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
 | _outputlist_|Optional. One or more comma-delimited [numeric expressions](vbe-glossary.md) or[string expressions](vbe-glossary.md) to write to a file.|
+
  **Remarks**
 Data written with  **Write #** is usually read from a file with **Input #**.
 If you omit  _outputlist_ and include a comma after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with a space, a semicolon, or a comma. A space has the same effect as a semicolon.

@@ -30,6 +30,7 @@ The  _class_[argument](vbe-glossary.md) uses the syntax _appname_**.**_objecttyp
 |:-----|:-----|
 | _appname_|Required;  **Variant** ( **String** ). The name of the application providing the object.|
 | _objecttype_|Required;  **Variant** ( **String** ). The type or[class](vbe-glossary.md) of object to create.|
+
  **Remarks**
 Every application that supports Automation provides at least one type of object. For example, a word processing application may provide an  **Application** object, a **Document** object, and a **Toolbar** object.
 To create an ActiveX object, assign the object returned by  **CreateObject** to an[object variable](vbe-glossary.md):

@@ -23,6 +23,7 @@ The  **Input** function syntax has these parts:
 |:-----|:-----|
 | _number_|Required. Any valid [numeric expression](vbe-glossary.md) specifying the number of characters to return.|
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
+
  **Remarks**
 Data read with the  **Input** function is usually written to a file with **Print #** or **Put**. Use this function only with files opened in **Input** or **Binary** mode.
 Unlike the  **Input #** statement, the **Input** function returns all of the characters it reads, including commas, carriage returns, linefeeds, quotation marks, and leading spaces.

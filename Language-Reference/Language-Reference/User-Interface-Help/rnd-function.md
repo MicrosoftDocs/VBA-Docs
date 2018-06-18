@@ -26,6 +26,7 @@ The optional  _number_[argument](vbe-glossary.md) is a[Single](vbe-glossary.md) 
 |Greater than zero|The next random number in the sequence.|
 |Equal to zero|The most recently generated number.|
 |Not supplied|The next random number in the sequence.|
+
  **Remarks**
 The  **Rnd** function returns a value less than 1 but greater than or equal to zero.
 The value of  _number_ determines how **Rnd** generates a random number:

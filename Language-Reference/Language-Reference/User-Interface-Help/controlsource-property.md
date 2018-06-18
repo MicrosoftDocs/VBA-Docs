@@ -25,6 +25,7 @@ The  **ControlSource** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. Specifies the worksheet cell linked to the  **Value** property of a control.|
+
  **Remarks**
 The  **ControlSource** property identifies a cell or field; it does not contain the data stored in the cell or field. If you change the **Value** of the control, the change is automatically reflected in the linked cell or field. Similarly, if you change the value of the linked cell or field, the change is automatically reflected in the **Value** of the control.
 You cannot specify another control for the  **ControlSource**. Doing so causes an error.

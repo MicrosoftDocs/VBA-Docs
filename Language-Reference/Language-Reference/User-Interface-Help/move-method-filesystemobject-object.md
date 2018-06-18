@@ -24,6 +24,7 @@ The  **Move** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _destination_|Required. Destination where the file or folder is to be moved. Wildcard characters are not allowed.|
+
  **Remarks**
 The results of the  **Move** method on a **File** or **Folder** are identical to operations performed using **FileSystemObject.MoveFile** or **FileSystemObject.MoveFolder**. You should note, however, that the alternative methods are capable of moving multiple files or folders.
 

@@ -27,6 +27,7 @@ The  **Column** property syntax has these parts:
 | _column_|Optional. An integer with a range from 0 to one less than the total number of columns.|
 | _row_|Optional. An integer with a range from 0 to one less than the total number of rows.|
 | _Variant_|Optional. Specifies a single value, a column of values, or a two-dimensional array to load into a  **ListBox** or **ComboBox**.|
+
  **Settings**
 If you specify both the column and row values,  **Column** reads or writes a specific item.
 If you specify only the column value, the  **Column** property reads or writes the specified column in the current row of the object. For example, MyListBox.Column (3) reads or writes the third column in MyListBox.

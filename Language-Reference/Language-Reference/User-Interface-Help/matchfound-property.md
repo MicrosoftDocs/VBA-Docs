@@ -24,6 +24,7 @@ The  **MatchFound** property syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Return Values**
 The  **MatchFound** property return values are:
 
@@ -32,6 +33,7 @@ The  **MatchFound** property return values are:
 |:-----|:-----|
 |**True**|The contents of the  **Value** property matches one of the records in the list.|
 |**False**|The contents of  **Value** does not match any of the records in the list (default).|
+
  **Remarks**
 The  **MatchFound** property is read-only. It is not applicable when the **MatchEntry** property is set to **fmMatchEntryNone**.
 

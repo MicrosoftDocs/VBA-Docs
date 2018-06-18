@@ -24,6 +24,7 @@ The  **ScrollLeft** and **ScrollTop** property syntaxes have these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Single_|Optional. The distance from the edge of the form.|
+
  **Remarks**
 The minimum value is zero; the maximum value is the difference between the value of the  **ScrollWidth** property and the value of the **Width** property for the form or page.
 

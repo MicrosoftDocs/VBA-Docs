@@ -25,6 +25,7 @@ The  **List** property syntax has these parts:
 | _row_|Required. An integer with a range from 0 to one less than the number of entries in the list.|
 | _column_|Required. An integer with a range from 0 to one less than the number of columns.|
 | _Variant_|Optional. The contents of the specified entry in the  **ListBox** or **ComboBox**.|
+
  **Settings**
 Row and column numbering begins with zero. That is, the row number of the first row in the list is zero; the column number of the first column is zero. The number of the second row or column is 1, and so on.
  **Remarks**

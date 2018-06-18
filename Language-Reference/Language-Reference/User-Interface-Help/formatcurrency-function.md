@@ -27,6 +27,7 @@ The  **FormatCurrency** function syntax has these parts:
 | _IncludeLeadingDigit_|Optional. Tristate constant that indicates whether or not a leading zero is displayed for fractional values. See Settings section for values.|
 | _UseParensForNegativeNumbers_|Optional. Tristate constant that indicates whether or not to place negative values within parentheses. See Settings section for values.|
 | _GroupDigits_|Optional. Tristate constant that indicates whether or not numbers are grouped using the group delimiter specified in the computer's regional settings. See Settings section for values.|
+
  **Settings**
 The  _IncludeLeadingDigit_, _UseParensForNegativeNumbers_, and _GroupDigits_ arguments have the following settings:
 
@@ -36,6 +37,7 @@ The  _IncludeLeadingDigit_, _UseParensForNegativeNumbers_, and _GroupDigits_ arg
 |**vbTrue**|-1|True|
 |**vbFalse**| 0|False|
 |**vbUseDefault**|-2|Use the setting from the computer's regional settings.|
+
  **Remarks**
 When one or more optional arguments are omitted, the values for omitted arguments are provided by the computer's regional settings.
 The position of the currency symbol relative to the currency value is determined by the system's regional settings.

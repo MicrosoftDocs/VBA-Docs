@@ -35,6 +35,7 @@ The  **BeforeDragOver** event syntax has these parts:
 | _DragState_|Required. Transition state of the data being dragged.|
 | _Effect_|Required. Operations supported by the [drop source](glossary-vba.md).|
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
+
  **Settings**
 The settings for  _DragState_ are:
 
@@ -61,6 +62,7 @@ The settings for  _Shift_ are:
 | _fmShiftMask_|1|SHIFT was pressed.|
 | _fmCtrlMask_|2|CTRL was pressed.|
 | _fmAltMask_|4|ALT was pressed.|
+
  **Remarks**
 Use this event to monitor the mouse pointer as it enters, leaves, or rests directly over a valid [target](glossary-vba.md). When a drag-and-drop operation is in progress, the system initiates this event when the user moves the mouse, or presses or releases the mouse button or buttons. The mouse pointer position determines the target object that receives this event. You can determine the state of the mouse pointer by examining the  _DragState_ argument.
 When a control handles this event, you can use the  _Effect_ argument to identify the drag-and-drop action to perform. When _Effect_ is set to **fmDropEffectCopyOrMove**, the drop source supports a copy ( **fmDropEffectCopy** ), move ( **fmDropEffectMove** ), or a cancel ( **fmDropEffectNone** ) operation.

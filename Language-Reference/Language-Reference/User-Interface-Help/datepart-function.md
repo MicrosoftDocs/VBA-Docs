@@ -25,6 +25,7 @@ The  **DatePart** function syntax has these[named arguments](vbe-glossary.md):
 |**_date_**|Required.  **Variant** ( **Date** ) value that you want to evaluate.|
 |**_firstdayofweek_**|Optional. A [constant](vbe-glossary.md) that specifies the first day of the week. If not specified, Sunday is assumed.|
 |**_firstweekofyear_**|Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs.|
+
  **Settings**
 The  **_interval_**[argument](vbe-glossary.md) has these settings:
 
@@ -63,6 +64,7 @@ The  **_firstweekofyear_** argument has these settings:
 |**vbFirstJan1**|1|Start with week in which January 1 occurs (default).|
 |**vbFirstFourDays**|2|Start with the first week that has at least four days in the new year.|
 |**vbFirstFullWeek**|3|Start with first full week of the year.|
+
  **Remarks**
 You can use the  **DatePart** function to evaluate a date and return a specific interval of time. For example, you might use **DatePart** to calculate the day of the week or the current hour.
 The  **_firstdayofweek_** argument affects calculations that use the "w" and "ww" interval symbols.

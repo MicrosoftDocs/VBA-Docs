@@ -25,6 +25,7 @@ The  **SelectionMargin** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether clicking in the margin selects a line of text.|
+
  **Settings**
 The settings for  _Boolean_ are:
 
@@ -33,6 +34,7 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|Clicking in margin causes selection of text (default).|
 |**False**|Clicking in margin does not cause selection of text.|
+
  **Remarks**
 When the  **SelectionMargin** property is **True**, the selection margin occupies a thin strip along the left edge of a control's edit region. When set to **False**, the entire edit region can store text.
 If the  **SelectionMargin** property is set to **True** when a control is printed, the selection margin also prints.

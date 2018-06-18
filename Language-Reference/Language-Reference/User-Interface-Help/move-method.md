@@ -31,6 +31,7 @@ The  **Move** method syntax has these parts:
 | _Height_|Optional. Single-precision value, in points, indicating the height of the object.|
 | _Layout_|Optional. A Boolean value indicating whether the Layout event is initiated for the control's parent following this move.  **False** is the default value.|
 | _X, Y_|Required. Single-precision value, in points, that specifies the change from the current horizontal and vertical position for each control in the  **Controls** collection.|
+
  **Settings**
 The maximum and minimum values for the  _Left_, _Top_, _Width_, _Height_, _X_, and _Y_ arguments vary from one application to another.
  **Remarks**

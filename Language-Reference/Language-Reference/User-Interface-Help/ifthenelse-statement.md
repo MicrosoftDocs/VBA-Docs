@@ -39,6 +39,7 @@ The  **If...Then...Else** statement syntax has these parts:
 | _condition-n_|Optional. Same as  _condition_.|
 | _elseifstatements_|Optional. One or more statements executed if associated  _condition-n_ is **True**.|
 | _elsestatements_|Optional. One or more statements executed if no previous  _condition_ or _condition-n_ expression is **True**.|
+
  **Remarks**
 You can use the single-line form (first syntax) for short, simple tests. However, the block form (second syntax) provides more structure and flexibility than the single-line form and is usually easier to read, maintain, and debug.
 

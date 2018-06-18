@@ -25,6 +25,7 @@ The  **TransitionPeriod** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. How long it takes to complete the transition from one page to another.|
+
  **Remarks**
 Any integer from zero to 10000 is a valid setting for this property. Setting the  **TransitionPeriod** property to zero disables the transition effect; setting **TransitionPeriod** to 10000 creates a 10-second transition.
 

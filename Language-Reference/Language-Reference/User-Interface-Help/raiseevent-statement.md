@@ -25,6 +25,7 @@ The  **RaiseEvent** statement syntax has these parts:
 |:-----|:-----|
 | _eventname_|Required. Name of the event to fire.|
 | _argumentlist_|Optional. Comma-delimited list of [variables](vbe-glossary.md), [arrays](vbe-glossary.md), or [expressions](vbe-glossary.md) The _argumentlist_ must be enclosed by parentheses. If there are no[arguments](vbe-glossary.md), the parentheses must be omitted.|
+
  **Remarks**
 If the event has not been declared within the module in which it is raised, an error occurs. The following fragment illustrates an event declaration and a procedure in which the event is raised.
 

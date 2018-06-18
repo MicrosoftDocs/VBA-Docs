@@ -35,6 +35,7 @@ The following table lists the collections and their corresponding  _key_ argumen
 |**VBComponents**|**Name** property setting|
 |**References**|**Name** property setting|
 |**Properties**|**Name** property setting|
+
  **Remarks**
 The  _index_ argument can be a numeric value or a string containing the title of the object.
 

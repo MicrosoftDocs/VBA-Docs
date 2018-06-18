@@ -26,6 +26,7 @@ The  **Add** method has the following parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **Folders** collection.|
 | _folderName_|Required. The name of the new  **Folder** being added.|
+
  **Remarks**
 An error occurs if the  _folderName_ already exists.
 

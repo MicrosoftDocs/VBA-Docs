@@ -24,6 +24,7 @@ The  **Seek** statement syntax has these parts:
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
 | _position_|Required. Number in the range 1 - 2,147,483,647, inclusive, that indicates where the next read/write operation should occur.|
+
  **Remarks**
 Record numbers specified in  **Get** and **Put** statements override file positioning performed by **Seek**.
 Performing a file-write operation after a  **Seek** operation beyond the end of a file extends the file. If you attempt a **Seek** operation to a negative or zero position, an error occurs.

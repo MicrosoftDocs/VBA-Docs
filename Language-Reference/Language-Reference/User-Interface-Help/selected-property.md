@@ -26,6 +26,7 @@ The  **Selected** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _index_|Required. An integer with a range from 0 to one less than the number of items in the list.|
 | _Boolean_|Optional. Whether an item is selected.|
+
  **Settings**
 The settings for  _Boolean_ are:
 
@@ -34,6 +35,7 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|The item is selected.|
 |**False**|The item is not selected.|
+
  **Remarks**
 The  **Selected** property is useful when users can make multiple selections. You can use this property to determine the selected rows in a multi-select list box. You can also use this property to select or deselect rows in a list from code.
 The default value of this property is based on the current selection state of the  **ListBox**.

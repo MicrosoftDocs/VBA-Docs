@@ -24,6 +24,7 @@ The  **ActiveControl** property syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 The  **ActiveControl** property is read-only and is set when you select a control in the interface. You can use **ActiveControl** as a substitute for the control name when setting properties or calling methods.
 

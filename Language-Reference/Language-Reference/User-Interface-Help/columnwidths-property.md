@@ -25,6 +25,7 @@ The  **ColumnWidths** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. Sets the column width in points. A setting of -1 or blank results in a calculated width. A width of 0 hides a column. To specify a different unit of measurement, include the unit of measure. A value greater than 0 explicitly specifies the width of the column.|
+
  **Settings**
 To separate column entries, use semicolons (;) as list separators. In Windows, use the list separator specified in the Regional Settings section of the Windows Control Panel to change this value.
 Any or all of the  **ColumnWidths** property settings can be blank. You create a blank setting by typing a list separator without a preceding value.
@@ -41,6 +42,7 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 |1.5 in;0;2.5 in|The first column is 1.5 inches, the second column is hidden, and the third column is 2.5 inches.|
 |2 in;;2 in|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches. Because only half of the third column is visible, a horizontal scroll bar appears.|
 |(Blank)|All three columns are the same width (1.33 inches).|
+
  **Remarks**
 In a combo box, the system displays the column designated by the  **TextColumn** property in the text box portion of the control.
 

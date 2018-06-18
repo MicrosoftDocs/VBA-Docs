@@ -24,6 +24,7 @@ The  **StrComp** function syntax has these[named arguments](vbe-glossary.md):
 |**_string1_**|Required. Any valid [string expression](vbe-glossary.md).|
 |**_string2_**|Required. Any valid string expression.|
 |**_compare_**|Optional. Specifies the type of string comparison. If the  **_compare_**[argument](vbe-glossary.md) is[Null](vbe-glossary.md), an error occurs. If  **_compare_** is omitted, the **Option Compare** setting determines the type of comparison.|
+
  **Settings**
 The  **compare** argument settings are:
 
@@ -34,6 +35,7 @@ The  **compare** argument settings are:
 |**vbBinaryCompare**|0|Performs a binary comparison.|
 |**vbTextCompare**|1|Performs a textual comparison.|
 |**vbDatabaseCompare**|2|Microsoft Access only. Performs a comparison based on information in your database.|
+
  **Return Values**
 The  **StrComp** function has the following return values:
 

@@ -35,6 +35,7 @@ You can use one of the following [constants](vbe-glossary.md) for the _prockind_
 |**vbext_pk_Let**|Specifies a procedure that assigns a value to a property.|
 |**vbext_pk_Set**|Specifies a procedure that sets a reference to an object.|
 |**vbext_pk_Proc**|Specifies all procedures other than property procedures.|
+
  **Remarks**
 The  **ProcCountLines** property returns the count of all blank or comment lines preceding the procedure declaration and, if the procedure is the last procedure in a[code module](vbe-glossary.md), any blank lines following the procedure.
 

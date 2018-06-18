@@ -24,6 +24,7 @@ The  **DropDown** method syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 Use the  **DropDown** method to open the list in a combo box.
 

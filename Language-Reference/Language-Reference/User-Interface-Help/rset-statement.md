@@ -24,6 +24,7 @@ The  **RSet** statement syntax has these parts:
 |:-----|:-----|
 | _stringvar_|Required. Name of string variable.|
 | _string_|Required. [String expression](vbe-glossary.md) to be right-aligned within _stringvar_.|
+
  **Remarks**
 If  _stringvar_ is longer than _string_, **RSet** replaces any leftover characters in _stringvar_ with spaces, back to its beginning.
 

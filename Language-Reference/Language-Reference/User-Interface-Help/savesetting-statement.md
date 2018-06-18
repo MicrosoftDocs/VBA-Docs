@@ -26,6 +26,7 @@ The  **SaveSetting** statement syntax has these[named arguments](vbe-glossary.md
 |**_section_**|Required. String expression containing the name of the section where the key setting is being saved.|
 |**_key_**|Required. String expression containing the name of the key setting being saved.|
 |**_setting_**|Required. [Expression](vbe-glossary.md) containing the value that **_key_** is being set to.|
+
  **Remarks**
 An error occurs if the key setting can't be saved for any reason.
 

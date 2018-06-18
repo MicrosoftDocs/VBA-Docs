@@ -33,6 +33,7 @@ The  **Click** event syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** associated with this event.|
+
  **Remarks**
 Of the two cases where the Click event occurs, the first case applies to the  **CommandButton**, **Frame**, **Image**, **Label**, **ScrollBar**, and **SpinButton**. The second case applies to the **CheckBox**, **ComboBox**, **ListBox**, **MultiPage**, **TabStrip**, and **ToggleButton**. It also applies to an **OptionButton** when the value changes to **True**.
 The following are examples of actions that initiate the Click event:

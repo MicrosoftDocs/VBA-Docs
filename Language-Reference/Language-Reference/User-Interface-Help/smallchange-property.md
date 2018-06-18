@@ -25,6 +25,7 @@ The  **SmallChange** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. An integer that specifies the amount of change to the  **Value** property.|
+
  **Remarks**
 The  **SmallChange** property does not have units.
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.

@@ -24,6 +24,7 @@ The  **CanRedo** property syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Return Values**
 The  **CanRedo** property return values are:
 
@@ -32,6 +33,7 @@ The  **CanRedo** property return values are:
 |:-----|:-----|
 |**True**|The most recent Undo can be reversed.|
 |**False**|The most recent Undo is irreversible.|
+
  **Remarks**
  **CanRedo** is read-only.
 To Redo an action means to reverse an Undo; it does not necessarily mean to repeat the last user action.

@@ -25,6 +25,7 @@ The  **InStr** function syntax has these[arguments](vbe-glossary.md):
 | _string1_|Required. [String expression](vbe-glossary.md) being searched.|
 | _string2_|Required. String expression sought.|
 | _compare_|Optional. Specifies the type of [string comparison](vbe-glossary.md). If  **_compare_** is Null, an error occurs. If **_compare_** is omitted, the **Option** **Compare** setting determines the type of comparison. Specify a valid LCID (LocaleID) to use locale-specific rules in the comparison.|
+
  **Settings**
 The  _compare_ argument settings are:
 
@@ -35,6 +36,7 @@ The  _compare_ argument settings are:
 |**vbBinaryCompare**|0|Performs a binary comparison.|
 |**vbTextCompare**|1|Performs a textual comparison.|
 |**vbDatabaseCompare**|2|Microsoft Access only. Performs a comparison based on information in your database.|
+
  **Return Values**
 
 
@@ -47,6 +49,7 @@ The  _compare_ argument settings are:
 |**_string2_** is not found|0|
 |**_string2_** is found within **_string1_**|Position at which match is found|
 |**_start_** > **_string2_**|0|
+
  **Remarks**
 The  **InStrB** function is used with byte data contained in a string. Instead of returning the character position of the first occurrence of one string within another, **InStrB** returns the byte position.
 

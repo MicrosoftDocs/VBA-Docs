@@ -27,6 +27,7 @@ Applies error bars to the specified series. Variant.
 |XlErrorBarDirection can be one of these XlErrorBarDirection constants.|
 | **xlX** Can only be used with scatter charts.|
 | **xlY**_default._|
+
  **Include**Required 
  **XlErrorBarInclude**
 . The error bar parts to be included.
@@ -37,6 +38,7 @@ Applies error bars to the specified series. Variant.
 | **xlErrorBarIncludeMinusValues**|
 | **xlErrorBarIncludeNone**|
 | **xlErrorBarIncludePlusValues**|
+
  **Type**Required 
  **XlErrorBarType**
 . The error bar type.
@@ -48,6 +50,7 @@ Applies error bars to the specified series. Variant.
 | **xlErrorBarTypePercent**|
 | **xlErrorBarTypeStDev**|
 | **xlErrorBarTypeStError**|
+
  **Amount** Optional **Variant**. The error amount. Used for only the positive error amount when  **_Type_** is **xlErrorBarTypeCustom**.
  **MinusValues** Optional **Variant**. The negative error amount when  **_Type_** is **xlErrorBarTypeCustom**.
 

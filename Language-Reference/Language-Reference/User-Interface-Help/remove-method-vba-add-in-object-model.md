@@ -23,6 +23,7 @@ The  **Remove** syntax has these parts:
 |:-----|:-----|
 | _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _component_|Required. For the  **LinkedWindows** collection, an object. For the **References** collection, a reference to a[type library](vbe-glossary.md) or a[project](vbe-glossary.md). For the  **VBComponents** collection, an enumerated[constant](vbe-glossary.md) representing a[class module](vbe-glossary.md), a form, or a [standard module](vbe-glossary.md). For the  **VBProjects** collection, a standalone project.|
+
  **Remarks**
 When used on the  **LinkedWindows** collection, the **Remove** method removes a window from the collection of currently[linked windows](vbe-glossary.md). The removed window becomes a floating window that has its own [linked window frame](vbe-glossary.md). The  **Remove** method can only be used on a standalone project. It generates a run-time error if you try to use it on a host project.
 

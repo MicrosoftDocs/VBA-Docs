@@ -27,6 +27,7 @@ The  **DeleteFile** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _filespec_|Required. The name of the file to delete. The  _filespec_ can contain wildcard characters in the last path component.|
 | _force_|Optional.  **Boolean** value that is **True** if files with the read-only attribute set are to be deleted; **False** (default) if they are not.|
+
  **Remarks**
 An error occurs if no matching files are found. The  **DeleteFile** method stops on the first error it encounters. No attempt is made to roll back or undo any changes that were made before an error occurred.
 

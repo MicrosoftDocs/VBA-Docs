@@ -26,6 +26,7 @@ The  **MsgBox** function syntax has these[named arguments](vbe-glossary.md):
 |**_title_**|Optional. String expression displayed in the title bar of the dialog box. If you omit  **_title_**, the application name is placed in the title bar.|
 |**_helpfile_**|Optional. String expression that identifies the Help file to use to provide context-sensitive Help for the dialog box. If  **_helpfile_** is provided, **_context_** must also be provided.|
 |**_context_**|Optional. Numeric expression that is the Help context number assigned to the appropriate Help topic by the Help author. If  **_context_** is provided, **_helpfile_** must also be provided.|
+
  **Settings**
 The  **_buttons_**[argument](vbe-glossary.md) settings are:
 
@@ -68,6 +69,7 @@ The first group of values (0-5) describes the number and type of buttons display
 |**vbIgnore**|5|**Ignore**|
 |**vbYes**|6|**Yes**|
 |**vbNo**|7|**No**|
+
  **Remarks**
 When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](vbe-glossary.md), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
 If the dialog box displays a  **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.

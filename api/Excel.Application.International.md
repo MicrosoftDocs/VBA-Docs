@@ -47,6 +47,7 @@ Returns information about the current country/region and international settings.
 | **xlRightBracket**|String|Character used instead of the right bracket (]) in R1C1-style references.|
 | **xlUpperCaseColumnLetter**|String|Uppercase column letter.|
 | **xlUpperCaseRowLetter**|String|Uppercase row letter (for R1C1-style references).|
+
  **Country/Region Settings**
 
 
@@ -56,6 +57,7 @@ Returns information about the current country/region and international settings.
 | **xlCountryCode**|Long|Country/Region version of Microsoft Excel.|
 | **xlCountrySetting**|Long|Current country/region setting in the Windows Control Panel.|
 | **xlGeneralFormatName**|String|Name of the General number format.|
+
  **Currency**
 
 
@@ -71,6 +73,7 @@ Returns information about the current country/region and international settings.
 | **xlCurrencySpaceBefore**|Boolean| **True** if a space is added before the currency symbol.|
 | **xlCurrencyTrailingZeros**|Boolean| **True** if trailing zeros are displayed for zero currency values.|
 | **xlNoncurrencyDigits**|Long|Number of decimal digits to be used in noncurrency formats.|
+
  **Date and Time**
 
 
@@ -94,6 +97,7 @@ Returns information about the current country/region and international settings.
 | **xlTimeLeadingZero**| **Boolean**| **True** if a leading zero is displayed in times.|
 | **xlWeekdayNameChars**| **Long**|Always returns three characters for backward compatibility. Abbreviated weekday names are read from Microsoft Windows and can be any length.|
 | **xlYearCode**| **String**|Year symbol in number formats (y).|
+
  **Measurement Systems**
 
 
@@ -102,6 +106,7 @@ Returns information about the current country/region and international settings.
 |:-----|:-----|:-----|
 | **xlMetric**| **Boolean**| **True** if you?re using the metric system; **False** if you?re using the English measurement system.|
 | **xlNonEnglishFunctions**| **Boolean**| **True** if you?re not displaying functions in English.|
+
  **Separators**
 
 

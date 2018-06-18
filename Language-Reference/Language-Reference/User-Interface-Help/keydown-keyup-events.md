@@ -25,6 +25,7 @@ The  **KeyDown** and **KeyUp** event syntaxes have these parts:
 | _object_|Required. A valid object name.|
 | _KeyCode_|Required. An integer that represents the key code of the key that was pressed or released.|
 | _Shift_|Required. The state of SHIFT, CTRL, and ALT.|
+
  **Settings**
 The settings for  _Shift_ are:
 
@@ -34,6 +35,7 @@ The settings for  _Shift_ are:
 | _fmShiftMask_|1|SHIFT was pressed.|
 | _fmCtrlMask_|2|CTRL was pressed.|
 | _fmAltMask_|4|ALT was pressed.|
+
  **Remarks**
 The KeyDown event occurs when the user presses a key on a running form while that form or a control on it has the [focus](vbe-glossary.md). The KeyDown and KeyPress events alternate repeatedly until the user releases the key, at which time the KeyUp event occurs. The form or control with the focus receives all keystrokes. A form can have the focus only if it has no controls or all its visible controls are disabled.
 These events also occur if you send a keystroke to a form or control using either the SendKeys action in a macro or the [SendKeys Statement](vbe-glossary.md) in Visual Basic.

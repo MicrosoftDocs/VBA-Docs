@@ -25,6 +25,7 @@ The  **BoundValue** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The current state or content of the control.|
+
  **Settings**
 
 
@@ -43,6 +44,7 @@ The  **BoundValue** property syntax has these parts:
 |**MultiPage**|An integer indicating the currently active page.|
 ||Zero (0) indicates the first page. The maximum value is one less than the number of pages.|
 |**TextBox**|The text in the edit region.|
+
  **Remarks**
  **BoundValue** applies to the control that has the focus.
 The contents of the  **BoundValue** and **Value** properties are identical most of the time. When the user edits a control so that its value changes, the contents of **BoundValue** and **Value** are different until the change is final.

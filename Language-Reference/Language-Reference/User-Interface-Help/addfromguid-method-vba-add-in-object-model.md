@@ -25,6 +25,7 @@ The  **AddFromGuid** syntax has these parts:
 | _guid_|Required. A [string expression](vbe-glossary.md)representing the GUID of the reference.|
 | _major_|Required. A [Long](vbe-glossary.md) specifying the major version number of the reference.|
 | _minor_|Required. A  **Long** specifying the minor version number of the reference.|
+
  **Remarks**
 The  **AddFromGuid** method searches the[registry](vbe-glossary.md) to find the reference you want to add. The GUID can be a[type library](vbe-glossary.md), [control](vbe-glossary.md), class identifier, and so on.
 

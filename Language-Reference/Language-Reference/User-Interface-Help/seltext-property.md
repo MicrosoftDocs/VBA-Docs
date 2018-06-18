@@ -25,6 +25,7 @@ The  **SelText** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. A string expression containing the selected text.|
+
  **Remarks**
 If no characters are selected in the edit region of the control, the  **SelText** property returns a zero length string. This property is valid regardless of whether the control has the[focus](vbe-glossary.md).
 

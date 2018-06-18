@@ -51,6 +51,7 @@ The _ContainerFlags_ parameter can be one or more of the following **VisContaine
 | **visContainerFlagsExcludeElements**|8|Excludes member shapes that are not containers, lists, connectors, or callouts.|
 | **visContainerFlagsExcludeNested**|16|Excludes any member shapes that are members of containers or lists nested within the container.|
 | **visContainerFlagsExcludeListMembers**|32|Excludes members of a list container that are explicitly members of any list. Does not exclude other shapes in the list container.|
+
  **GetMemberShapes** returns an empty array if there are no member shapes.
 
 

@@ -29,6 +29,7 @@ The  **MouseMove** event syntax has these parts:
 | _Button_|Required. An integer value that identifies the state of the mouse buttons.|
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
 | _X, Y_|Required. The horizontal or vertical position, measured in points, from the left or top edge of the control.|
+
  **Settings**
 The  _index_ argument specifies which page or tab was clicked over. A _-_ 1 designates that the user did not click on any of the pages or tabs.
 The settings for  _Button_ are:
@@ -64,6 +65,7 @@ You can identify individual keyboard modifiers by using the following constants:
 | _fmShiftMask_|1|Mask to detect SHIFT.|
 | _fmCtrlMask_|2|Mask to detect CTRL.|
 | _fmAltMask_|4|Mask to detect ALT.|
+
  **Remarks**
 The MouseMove event applies to forms, controls on a form, and labels.
 MouseMove events are generated continually as the mouse pointer moves across objects. Unless another object has captured the mouse, an object recognizes a MouseMove event whenever the mouse position is within its borders.

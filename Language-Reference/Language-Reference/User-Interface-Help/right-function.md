@@ -23,6 +23,7 @@ The  **Right** function syntax has these[named arguments](vbe-glossary.md):
 |:-----|:-----|
 |**_string_**|Required. [String expression](vbe-glossary.md) from which the rightmost characters are returned. If **_string_** contains[Null](vbe-glossary.md),  **Null** is returned.|
 |**_length_**|Required;  **Variant** ( **Long** ).[Numeric expression](vbe-glossary.md) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
+
  **Remarks**
 To determine the number of characters in  **_string_**, use the **Len** function.
 

@@ -27,6 +27,7 @@ Returns an object that represents either a single axis or a collection of the ax
 |XlAxisType can be one of these XlAxisType constants.|
 | **xlValue**|
 | **xlCategory** **xlSeriesAxis** (valid only for 3-D charts)|
+
  **AxisGroup** Optional
  **XlAxisGroup**
 . The reference style of the formula.

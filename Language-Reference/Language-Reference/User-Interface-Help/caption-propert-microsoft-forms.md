@@ -23,6 +23,7 @@ The  **Caption** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. A string expression that evaluates to the text displayed as the caption.|
+
  **Settings**
 The default setting for a control is a unique name based on the type of control. For example, CommandButton1 is the default caption for the first command button in a form.
  **Remarks**

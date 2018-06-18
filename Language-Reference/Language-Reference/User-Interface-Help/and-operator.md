@@ -24,6 +24,7 @@ The  **And** operator syntax has these parts:
 | _result_|Required; any numeric [variable](vbe-glossary.md).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
+
  **Remarks**
 If both expressions evaluate to  **True**, _result_ is **True**. If either expression evaluates to **False**, _result_ is **False.** The following table illustrates how _result_ is determined:
 

@@ -26,6 +26,7 @@ The  **GetSpecialFolder** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _folderspec_|Required. The name of the special folder to be returned. Can be any of the constants shown in the Settings section.|
+
  **Settings**
 The  _folderspec_ argument can have any of the following values:
 

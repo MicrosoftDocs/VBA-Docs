@@ -28,6 +28,7 @@ The  **CopyFile** method syntax has these parts:
 | _source_|Required. Character string file specification, which can include wildcard characters, for one or more files to be copied.|
 | _destination_|Required. Character string destination where the file or files from  _source_ are to be copied. Wildcard characters are not allowed.|
 | _overwrite_|Optional.  **Boolean** value that indicates if existing files are to be overwritten. If **True**, files are overwritten; if **False**, they are not. The default is **True**. Note that **CopyFile** will fail if _destination_ has the read-only attribute set, regardless of the value of _overwrite_.|
+
  **Remarks**
 Wildcard characters can only be used in the last path component of the  _source_ argument. For example, you can use:
 

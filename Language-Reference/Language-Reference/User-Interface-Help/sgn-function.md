@@ -25,6 +25,7 @@ The required  _number_[argument](vbe-glossary.md) can be any valid[numeric expre
 |Greater than zero|1|
 |Equal to zero|0|
 |Less than zero|-1|
+
  **Remarks**
 The sign of the  _number_ argument determines the return value of the **Sgn** function.
 

@@ -25,6 +25,7 @@ The  **Show** method syntax has these parts:
 |:-----|:-----|
 | _object_|Optional. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** associated with the active **UserForm**[module](vbe-glossary.md) is assumed to be _object._|
 | _modal_|Optional. Variant value that determines if the  **UserForm** is modal or modeless.|
+
  **Settings**
 The settings for  _modal_ are:
 
@@ -33,6 +34,7 @@ The settings for  _modal_ are:
 |:-----|:-----|:-----|
 |**vbModal**|1|**UserForm** is modal. Default.|
 |**vbModeless**|0|**UserForm** is modeless.|
+
  **Remarks**
 If the specified object isn't loaded when the  **Show** method is invoked, Visual Basic automatically loads it.
 

@@ -33,6 +33,7 @@ Sets the specified fill to a one-color gradient.
 | **msoGradientHorizontal**|
 | **msoGradientMixed**|
 | **msoGradientVertical**|
+
  **Variant**Required  **Long**. The gradient variant for the specified fill. Can be a value from 1 through 4, corresponding to the four variants listed on the  **Gradient** tab in the **Fill Effects** dialog box. If **_Style_** is **msoGradientFromCenter**, the  **_Variant_** argument can only be 1 or 2.
  **Degree**Required  **Single**. The gradient degree for the specified fill. Can be a value from 0.0 (dark) through 1.0 (light).
 

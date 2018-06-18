@@ -24,6 +24,7 @@ The  **=** operator syntax has these parts:
 |:-----|:-----|
 | _variable_|Any variable or any writable property.|
 | _value_|Any numeric or string literal, [constant](vbe-glossary.md), or [expression](vbe-glossary.md).|
+
  **Remarks**
 The name on the left side of the equal sign can be a simple scalar variable or an element of an [array](vbe-glossary.md). Properties on the left side of the equal sign can only be those properties that are writable at [run time](vbe-glossary.md).
 

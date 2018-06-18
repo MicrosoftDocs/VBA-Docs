@@ -25,6 +25,7 @@ The  **StartDrag** method syntax has these parts:
 |:-----|:-----|
 | _Object_|Required. A valid object.|
 | _Effect_|Optional. Effect of the drop operation on the target control.|
+
  **Settings**
 The settings for  _Effect_ are:
 
@@ -35,6 +36,7 @@ The settings for  _Effect_ are:
 | _fmDropEffectCopy_|1|Copies the drop source to the drop target.|
 | _fmDropEffectMove_|2|Moves the drop source to the drop target.|
 | _fmDropEffectCopyOrMove_|3|Copies or moves the drop source to the drop target.|
+
  **Remarks**
 The drag action starts at the current mouse pointer position with the current [keyboard state](glossary-vba.md) and ends when the user releases the mouse. The effect of the drag-and-drop operation depends on the effect chosen for the drop target.
 For example, a control's MouseMove event might include the  **StartDrag** method. When the user clicks the control and moves the mouse, the mouse pointer changes to indicate whether _Effect_ is valid for the drop target.

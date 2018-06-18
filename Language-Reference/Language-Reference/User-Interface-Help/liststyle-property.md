@@ -25,6 +25,7 @@ The  **ListStyle** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmListStyle_|Optional. The visual style of the list.|
+
  **Settings**
 The settings for  _fmListStyle_ are:
 
@@ -33,6 +34,7 @@ The settings for  _fmListStyle_ are:
 |:-----|:-----|:-----|
 | _fmListStylePlain_|0|Looks like a regular list box, with the background of items highlighted.|
 | _fmListStyleOption_|1|Shows option buttons, or check boxes for a multi-select list (default). When the user selects an item from the group, the option button associated with that item is selected and the option buttons for the other items in the group are deselected.|
+
  **Remarks**
 The  **ListStyle** property lets you change the visual presentation of a **ListBox** or **ComboBox**. By specifying a setting other than **fmListStylePlain**, you can present the contents of either control as a group of individual items, with each item including a visual cue to indicate whether it is selected.
 If the control supports a single selection (the  **MultiSelect** property is set to **fmMultiSelectSingle** ), the user can press one button in the group. If the control supports multi-select, the user can press two or more buttons in the group.

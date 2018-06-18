@@ -23,6 +23,7 @@ The  **Orientation** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmOrientation_|Optional. Orientation of the control.|
+
  **Settings**
 The settings for  _fmOrientation_ are:
 
@@ -32,6 +33,7 @@ The settings for  _fmOrientation_ are:
 | _fmOrientationAuto_|-1|Automatically determines the orientation based upon the dimensions of the control (default).|
 | _FmOrientationVertical_|0|Control is rendered vertically.|
 | _FmOrientationHorizontal_|1|Control is rendered horizontally.|
+
  **Remarks**
 If you specify automatic orientation, the height and width of the control determine whether it appears horizontally or vertically. For example, if the control is wider than it is tall, it appears horizontally; if it is taller than it is wide, the control appears vertically.
 

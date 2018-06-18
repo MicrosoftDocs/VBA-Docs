@@ -24,6 +24,7 @@ The settings for the  **WhatsThisButton** property are:
 |:-----|:-----|
 |**True**|Turns on display of the  **What's This Help** button.|
 |**False**|(Default) Turns off display of the  **What's This Help** button.|
+
  **Remarks**
 The  **WhatsThisHelp** property must be **True** for the **WhatsThisButton** property to be **True**.
 

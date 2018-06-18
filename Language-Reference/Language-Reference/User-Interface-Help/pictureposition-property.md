@@ -25,6 +25,7 @@ The  **PicturePosition** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmPicturePosition_|Optional. How the picture aligns with its container.|
+
  **Settings**
 The settings for  _fmPicturePosition_ are:
 
@@ -44,6 +45,7 @@ The settings for  _fmPicturePosition_ are:
 | _fmPicturePositionBelowCenter_|10|The picture appears below the caption. The caption is centered above the picture.|
 | _fmPicturePositionBelowRight_|11|The picture appears below the caption. The caption is aligned with the right edge of the picture.|
 | _fmPicturePositionCenter_|12|The picture appears in the center of the control. The caption is centered horizontally and vertically on top of the picture.|
+
  **Remarks**
 The picture and the caption, as a unit, are centered on the control. If no caption exists, the picture's location is relative to the center of the control.
 This property is ignored if the  **Picture** property does not specify a picture.

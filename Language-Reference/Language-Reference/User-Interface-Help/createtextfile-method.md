@@ -28,6 +28,7 @@ The  **CreateTextFile** method has these parts:
 | _filename_|Required. [String expression](vbe-glossary.md) that identifies the file to create.|
 | _overwrite_|Optional.  **Boolean** value that indicates if an existing file can be overwritten. The value is **True** if the file can be overwritten; **False** if it can't be overwritten. If omitted, existing files are not overwritten.|
 | _unicode_|Optional.  **Boolean** value that indicates whether the file is created as a Unicode or ASCII file. The value is **True** if the file is created as a Unicode file; **False** if it's created as an ASCII file. If omitted, an ASCII file is assumed.|
+
  **Remarks**
 The following code illustrates how to use the  **CreateTextFile** method to create and open a text file:
 If the  _overwrite_ argument is **False**, or is not provided, for a _filename_ that already exists, an error occurs.

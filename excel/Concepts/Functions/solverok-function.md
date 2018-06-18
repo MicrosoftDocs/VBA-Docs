@@ -27,6 +27,7 @@ Defines a basic Solver model. Equivalent to clicking  **Solver** in the **Data**
 |1|Maximize|
 |2|Minimize|
 |3|Match a specific value|
+
  **ValueOf** Optional **Variant**. If  **_MaxMinVal_** is 3, you must specify the value to which the target cell is matched.
  
  **ByChange** Optional **Variant**. The cell or range of cells that will be changed so that you will obtain the desired result in the target cell. Corresponds to the  **By Changing Cells** box in the **Solver Parameters** dialog box.

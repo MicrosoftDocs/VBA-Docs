@@ -28,6 +28,7 @@ The  **Replace** function syntax has these[named arguments](vbe-glossary.md):
 |**_start_**|Optional. Position within  **_expression_** where substring search is to begin. If omitted, 1 is assumed.|
 |**_count_**|Optional. Number of substring substitutions to perform. If omitted, the default value is -1, which means make all possible substitutions.|
 |**_compare_**|Optional. Numeric value indicating the kind of comparison to use when evaluating substrings. See Settings section for values.|
+
  **Settings**
 The  **_compare_** argument can have the following values:
 
@@ -38,6 +39,7 @@ The  **_compare_** argument can have the following values:
 |**vbBinaryCompare**|0|Performs a binary comparison.|
 |**vbTextCompare**|1|Performs a textual comparison.|
 |**vbDatabaseCompare**|2|Microsoft Access only. Performs a comparison based on information in your database.|
+
  **Return Values**
  **Replace** returns the following values:
 
@@ -50,6 +52,7 @@ The  **_compare_** argument can have the following values:
 |**_replace_** is zero-length|Copy of  **_expression_** with all occurences of _find_ removed.|
 |**_start_** > **Len( _expression_ )**|Zero-length string.|
 |**_count_** is 0|Copy of  **_expression_**.|
+
  **Remarks**
 The return value of the  **Replace** function is a string, with substitutions made, that begins at the position specified by **_start_** and and concludes at the end of the **_expression_** string. It is not a copy of the original string from start to finish.
 

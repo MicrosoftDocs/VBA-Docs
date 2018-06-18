@@ -27,6 +27,7 @@ The  **DblClick** event syntax has these parts:
 | _object_|Required. A valid object.|
 | _index_|Required. The position of a  **Page** or **Tab** object within a **Pages** or **Tabs** collection.|
 | _Cancel_|Required. Event status.  **False** indicates that the control should handle the event (default). **True** indicates the application handles the event.|
+
  **Remarks**
 For this event to occur, the two clicks must occur within the time span specified by the system's double-click speed setting.
 For controls that support Click, the following sequence of events leads to the DblClick event:

@@ -24,6 +24,7 @@ The  **SLN** function has these[named arguments](vbe-glossary.md):
 |**_cost_**|Required.  **Double** specifying initial cost of the asset.|
 |**_salvage_**|Required.  **Double** specifying value of the asset at the end of its useful life.|
 |**_life_**|Required.  **Double** specifying length of the useful life of the asset.|
+
  **Remarks**
 The depreciation period must be expressed in the same unit as the  **_life_**[argument](vbe-glossary.md). All arguments must be positive numbers.
 

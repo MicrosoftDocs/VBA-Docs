@@ -24,6 +24,7 @@ The  **InsertLines** syntax has these parts:
 | _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _line_|Required. A [Long](vbe-glossary.md) specifying the location at which you want to insert the code.|
 | _code_|Required. A [String](vbe-glossary.md) containing the code you want to insert.|
+
  **Remarks**
 If the text you insert using the  **InsertLines** method is carriage return-linefeed delimited, it will be inserted as consecutive lines.
 

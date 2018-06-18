@@ -27,6 +27,7 @@ The  **BuildPath** method syntax has these parts:
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _path_|Required. Existing path to which  _name_ is appended. Path can be absolute or relative and need not specify an existing folder.|
 | _name_|Required. Name being appended to the existing  _path_.|
+
  **Remarks**
 The  **BuildPath** method inserts an additional path separator between the existing path and the name, only if necessary.
 

@@ -25,6 +25,7 @@ The  **BoundColumn** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Variant_|Optional. Indicates how the  **BoundColumn** value is selected.|
+
  **Settings**
 The settings for  _Variant_ are:
 
@@ -33,6 +34,7 @@ The settings for  _Variant_ are:
 |:-----|:-----|
 |0|Assigns the value of the  **ListIndex** property to the control.|
 |1 or greater|Assigns the value from the specified column to the control. Columns are numbered from 1 when using this property (default).|
+
  **Remarks**
 When the user chooses a row in a multicolumn  **ListBox** or **ComboBox**, the **BoundColumn** property identifies which item from that row to store as the value of the control. For example, if each row contains 8 items and **BoundColumn** is 3, the system stores the information in the third column of the currently-selected row as the value of the object.
 You can display one set of data to users but store different, associated values for the object by using the  **BoundColumn** and the **TextColumn** properties. **TextColumn** identifies the column of data displayed in text box portion of a **ComboBox** and the value stored in the **Text** property; **BoundColumn** identifies the column of associated data values stored for the control. For example, you could set up a multicolumn **ListBox** that contains the names of holidays in one column and dates for the holidays in a second column. To present the holiday names to users, specify the first column as the **TextColumn**. To store the dates of the holidays, specify the second column as the **BoundColumn**. To hide the dates of the holidays, set the **ColumnWidths** property of the sceond column to zero.

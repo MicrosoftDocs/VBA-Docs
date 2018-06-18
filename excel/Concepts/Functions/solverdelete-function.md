@@ -31,6 +31,7 @@ Deletes an existing constraint. Equivalent to clicking  **Solver** in the **Data
 |4|Cells referenced by  **_CellRef_** must have final values that are integers.|
 |5|Cells referenced by  **_CellRef_** must have final values of either 0 (zero) or 1.|
 |6|Cells referenced by  **_CellRef_** must have final values that are all different and integers.|
+
  **FormulaText** Optional **Variant**. The right side of the constraint.
 
 ## Example

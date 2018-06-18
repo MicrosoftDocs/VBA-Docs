@@ -24,6 +24,7 @@ The **#Const** compiler directive syntax has these parts:
 |:-----|:-----|
 | _constname_|Required;  **Variant** ( **String** ). Name of the [constant](vbe-glossary.md); follows standard [variable](vbe-glossary.md) naming conventions.|
 | _expression_|Required. Literal, other conditional compiler constant, or any combination that includes any or all arithmetic or logical operators except  **Is**.|
+
  **Remarks**
 Conditional compiler constants are always [Private](vbe-glossary.md) to the [module](vbe-glossary.md) in which they appear. It is not possible to create [Public](vbe-glossary.md) compiler constants using the **#Const** directive. **Public** compiler constants can only be created in the user interface.
 Only conditional compiler constants and literals can be used in  _expression_. Using a standard constant defined with **Const**, or using a constant that is undefined, causes an error to occur. Conversely, constants defined using the **#Const** [keyword](vbe-glossary.md) can only be used for conditional compilation.

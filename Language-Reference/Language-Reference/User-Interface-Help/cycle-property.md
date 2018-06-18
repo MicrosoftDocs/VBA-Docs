@@ -25,6 +25,7 @@ The  **Cycle** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmCycle_|Optional. Specifies whether cycling includes controls nested in a  **Frame** or **MultiPage**.|
+
  **Settings**
 The settings for  _fmCycle_ are:
 

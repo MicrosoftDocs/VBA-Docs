@@ -33,6 +33,7 @@ The  **Error** event syntax has these parts:
 | _HelpFile_|Required. Specifies a fully qualified path name for the Help file that describes the error.|
 | _HelpContext_|Required. Specifies the [context ID](glossary-vba.md) of the Help file topic that contains a description of the error.|
 | _CancelDisplay_|Required. Specifies whether to display the error string in a message box.|
+
  **Remarks**
 The code written for the Error event determines how the control responds to the error condition.
 The ability to handle error conditions varies from one application to another. The Error event is initiated when an error occurs that the application is not equipped to handle.

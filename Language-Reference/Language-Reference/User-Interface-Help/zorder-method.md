@@ -25,6 +25,7 @@ The  **ZOrder** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _zPosition_|Optional. A control's position, front or back, in the container's z-order.|
+
  **Settings**
 The settings for  _zPosition_ are:
 
@@ -33,6 +34,7 @@ The settings for  _zPosition_ are:
 |:-----|:-----|:-----|
 | _fmTop_|0|Places the control at the front of the z-order. The control appears on top of other controls (default).|
 | _fmBottom_|1|Places the control at the back of the z-order. The control appears underneath other controls.|
+
  **Remarks**
 The z-order determines how windows and controls are stacked when they are presented to the user. Items at the back of the z-order are overlaid by closer items; items at the front of the z-order appear to be on top of items at the back. When the  _zPosition_ argument is omitted, the object is brought to the front.
 In [design mode](vbe-glossary.md), the Bring to Front or Send To Back commands set the z-order. Bring to Front is equivalent to using the  **ZOrder** method and putting the object at the front of the z-order. Send to Back is equivalent to using **ZOrder** and putting the object at the back of the z-order.

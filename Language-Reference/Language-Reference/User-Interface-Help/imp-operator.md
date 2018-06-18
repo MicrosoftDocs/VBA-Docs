@@ -24,6 +24,7 @@ The  **Imp** operator syntax has these parts:
 | _result_|Required; any numeric [variable](vbe-glossary.md).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
+
  **Remarks**
 The following table illustrates how  _result_ is determined:
 

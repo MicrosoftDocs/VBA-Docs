@@ -27,6 +27,7 @@ The  **Const** statement syntax has these parts:
 | _constname_|Required. Name of the constant; follows standard [variable](vbe-glossary.md) naming conventions.|
 | _type_|Optional. [Data type](vbe-glossary.md) of the constant; may be [Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported), [Date](vbe-glossary.md), [String](vbe-glossary.md), or [Variant](vbe-glossary.md). Use a separate  **As** _type_ clause for each constant being declared.|
 | _expression_|Required. Literal, other constant, or any combination that includes all arithmetic or logical operators except  **Is**.|
+
  **Remarks**
 Constants are private by default. Within procedures, constants are always private; their visibility can't be changed. In [standard modules](vbe-glossary.md), the default visibility of module-level constants can be changed using the  **Public** keyword. In [class modules](vbe-glossary.md), however, constants can only be private and their visibility can't be changed using the  **Public** keyword.
 To combine several constant declarations on the same line, separate each constant assignment with a comma. When constant declarations are combined in this way, the  **Public** or **Private** keyword, if used, applies to all of them.

@@ -24,6 +24,7 @@ The  **Name** property has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|
+
  **Remarks**
 The following code illustrates the use of the  **Name** property:
 

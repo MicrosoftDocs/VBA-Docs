@@ -67,6 +67,7 @@ The method will return an error with the following properties in the  _Filter_ :
 | **BodyFormat**| **IsConflict**|
 | **InternetCodePage**| **MeetingWorkspaceURL**|
 | **Permission**||
+
  **Creating Filters for the Find and Restrict Methods**
 
 The syntax for the filter varies depending on the type of field you are filtering on.

@@ -45,6 +45,7 @@ You can set the behavior and look of the Visual Basic development environment th
 |**Auto Quick Info**|Information about functions and their [arguments](vbe-glossary.md) is displayed as you type.|
 |**Auto Data Tips**|Automatically display the value of any [variable](vbe-glossary.md) on which you place the mouse pointer. Available only in[break mode](vbe-glossary.md).|
 |**Drag-Drop in Text Editing**|Code elements can be dragged from the  **Code** window into the **Immediate** or **Watch** windows.|
+
  **Editor Format**
 
 
@@ -54,6 +55,7 @@ You can set the behavior and look of the Visual Basic development environment th
 |**Font**|The font used for displaying code.|
 |**Size**|The size of the font used for code.|
 |**Margin Indicator Bar**|Display the  **Margin Indicator Bar**.|
+
  **General**
 
 
@@ -72,6 +74,7 @@ You can set the behavior and look of the Visual Basic development environment th
 |**Break on Unhandled Errors**|Any other unhandled error causes the project to enter break mode.|
 |**Compile On Demand**|A project is fully compiled before it starts, or code is compiled as needed.|
 |**Background Compile**|Use idle time during run time to finish compiling the project in the background. (Available only if  **Compile On Demand** is set.)|
+
  **Docking**
 
 

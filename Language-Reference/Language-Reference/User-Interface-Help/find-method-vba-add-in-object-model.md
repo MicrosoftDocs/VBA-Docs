@@ -30,6 +30,7 @@ The  **Find** syntax has these parts:
 | _wholeword_|Optional. A [Boolean](vbe-glossary.md) value specifying whether to only match whole words. If **True**, only matches whole words. **False** is the default.|
 | _matchcase_|Optional. A  **Boolean** value specifying whether to match case. If **True**, the search is case sensitive. **False** is the default.|
 | _patternsearch_|Optional. A  **Boolean** value specifying whether or not the target string is a regular expression pattern. If **True**, the target string is a regular expression pattern. **False** is the default.|
+
  **Remarks**
  **Find** returns **True** if a match is found and **False** if a match isn't found.
 The  _matchcase_ and _patternsearch_[arguments](vbe-glossary.md) are mutually exclusive; if both arguments are passed as **True**, an error occurs.

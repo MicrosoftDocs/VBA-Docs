@@ -26,6 +26,7 @@ The  **Filter** function syntax has these[named argument](vbe-glossary.md):
 |**_match_**|Required. String to search for.|
 |**_include_**|Optional.  **Boolean** value indicating whether to return substrings that include or exclude **_match_**. If **_include_** is **True**, **Filter** returns the subset of the array that contains **_match_** as a substring. If **_include_** is **False**, **Filter** returns the subset of the array that does not contain **_match_** as a substring.|
 |**_compare_**|Optional. Numeric value indicating the kind of string comparison to use. See Settings section for values.|
+
  **Settings**
 The  **_compare_** argument can have the following values:
 
@@ -36,6 +37,7 @@ The  **_compare_** argument can have the following values:
 |**vbBinaryCompare**| 0|Performs a binary comparison.|
 |**vbTextCompare**| 1|Performs a textual comparison.|
 |**vbDatabaseCompare**| 2|Microsoft Access only. Performs a comparison based on information in your database.|
+
  **Remarks**
 If no matches of  **_match_** are found within **_sourcearray_**, **Filter** returns an empty array. An error occurs if **_sourcearray_** is **Null** or is not a one-dimensional array.
 The array returned by the  **Filter** function contains only enough elements to contain the number of matched items.

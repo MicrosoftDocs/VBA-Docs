@@ -141,6 +141,7 @@ The  **Model** object stores references to workbook connections and information 
 | **ModelTables**|Read-only| **ModelTable**|Collection of tables inside the PPM.|
 | **ModelRelationships**|Read-only| **ModelRelationships**|Collection of relationships between PPM tables.|
 | **DataModelConnection**|N/A| **WorkbookConnection**|Returns the model workbook connection object from the workbook connections collection which connects to the model.|
+
  **Model.AddConnection** Method
 
 Adds a new workbook connection to the model with the same properties as the one supplied as an argument. This method only works on non-model external connections and will return an error if called with an external model connection as its argument. When calling this method, a new model connection is created and it is named the same as the legacy connection with an integer at the end to make the name unique. Table 3 lists the parameters of the  **AddConnection** method.
@@ -152,6 +153,7 @@ Adds a new workbook connection to the model with the same properties as the one 
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |ConnectionToDataSource|Required| **WorkbookConnection**|The Workbook connection|
+
  **Model.CreateModelWorkbookConnection** Method
 
 Calling this method returns a  **WorkbookConnection** object of type **ModelConnection**. A model connection connected to the specified table is returned. This type of connection can only be used by query tables in Excel. Table 4 lists the parameters of the  **CreateModelWorkbookConnection** method.
@@ -163,6 +165,7 @@ Calling this method returns a  **WorkbookConnection** object of type **ModelConn
 |**Name**|**Required/Optional**|**Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |ModelTable|Required| **Variant**|Either a model table name or a model table object.|
+
  **Model.Initialize** Method
 
 The  **Initialize** method of the **Model** object has no parameters. Initializes the PPM. This is called by default the first time the model is used.
@@ -210,6 +213,7 @@ A collection of  **ModelColumnChange** objects that represent columns for which 
 | **Count**|Read-only| **Long**|Returns number of  **ModelColumnChange** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelColumnChanges** object.|
+
  **ModelColumnChanges.Item** Method
 
 Returns a single object from the  **ModelColumnChanges** collection. Table 7 lists the parameters of the **Item** method.
@@ -252,6 +256,7 @@ A collection of  **ModelColumnName** objects that represents columns of tables i
 | **Count**|Read-only| **Long**|Returns number of  **ModelColumnName** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelColumnNames** collection.|
+
  **ModelColumnNames.Item** Method
 
 Returns a single object from the  **ModelColumnNames** collection. Table 10 lists the parameters of the **Item** method
@@ -311,6 +316,7 @@ The  **ModelMeasureNames** collection contains a collection of **ModelMeasureNam
 | **Count**|Read-only| **Long**|Returns number of  **ModelMeasureName** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelMeasureNames** collection.|
+
  **ModelMeasureNames.Item** Method
 
 Returns a single object from the  **ModelMeasureNames** collection. Table 14 list the parameters of the **Item** method.
@@ -353,6 +359,7 @@ The  **ModelRelationships** collection contains a collection of **ModelRelations
 | **Count**|Read-only| **Long**|Returns number of  **ModelRelationship** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelRelationships** collection.|
+
  **ModelRelationships.Add** Method
 
 Adds a relationship to the  **ModelRelationships** collection. Table 17 lists the parameters of the **Add** method.
@@ -365,6 +372,7 @@ Adds a relationship to the  **ModelRelationships** collection. Table 17 lists th
 |:-----|:-----|:-----|:-----|
 |ForeignKeyColumn|Required| **ModelTableColumn**|A  **ModelTableColumn** object that represents the foreign key column in the table on the many side of the one-to-many relationship.|
 |PrimaryKeyColumn|Required| **ModelTableColumn**|A  **ModelTableColumn** object that represents the primary key column in the table on the one side of the one-to-many relationship.|
+
  **ModelRelationships.Item** Method
 
 Returns a single object from the  **ModelRelationships** collection. Table 18 lists the parameters of the **Item** method.
@@ -395,6 +403,7 @@ Represent a relationship between  **ModelTableColumn** objects. Used when progra
 | **Parent**|Read-only| **Object**|Returns an  **Object** model object that represents the model the **ModelRelationship** object resides in.|
 | **PrimaryKeyColumn**|Read-only| **ModelTableColumn**|Contains the  **ModelTableColumn** object that represents the primary key column in the table on the one side of the one-to-many relationship.|
 | **PrimaryKeyTable**|Read-only| **ModelTable**|Contains the  **ModelTable** object that represents the table on the one side of the one-to-many relationship.|
+
  **ModelRelationship.Delete** Method
 
 The  **Delete** method of the **ModelRelationship** object has no parameters. Deletes a relationship.
@@ -414,6 +423,7 @@ The  **ModelTables** collection contains a collection of **ModelTable** objects 
 | **Count**|Read-only| **Long**|Returns number of  **ModelTable** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTables** collection.|
+
  **ModelTables.Item** Method
 
 Returns a single object from the  **ModelTables** collection. Table 21 lists the parameters of the Item method.
@@ -444,6 +454,7 @@ Represent a table in the  **Model** object. The **ModelTable** object is read on
 | **RecordCount**|Read-only| **Integer**|Returns the total row count for the  **ModelTable** object.|
 | **SourceName**|Read-only| **String**|Name of table at the data source. If table has no data source (created in the model), the property will return an error.|
 | **SourceWorkbookConnection**|Read-only| **WorkbookConnection**|Returns the workbook connection from which the  **ModelTable** object originated.|
+
  **ModelTable.Refresh** Method
 
 The  **Refresh** method of the **ModelTable** object has no parameters. Refreshes the model table source connections.
@@ -463,6 +474,7 @@ The  **ModelTableColumns** collection contains a collection of **ModelTableColum
 | **Count**|Read-only| **Long**|Returns number of  **ModelTableColumn** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableColumns** collection.|
+
  **ModelTableColumns.Item** Method
 
 Returns a single object from the  **ModelTableColumns** collection. Table 24 lists the parameters of the **Item** method.
@@ -505,6 +517,7 @@ The  **ModelTableNames** collection contains a collection of **ModelTableName** 
 | **Count**|Read-only| **Long**|Returns number of  **ModelTableName** objects in the collection|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableNames** object.|
+
  **ModelTableNames.Item** Method
 
 Returns a single object from the  **ModelTableNames** collection. Table 27 lists the parameters of the **Item** method.
@@ -531,6 +544,7 @@ The  **ModelTableNameChanges** collection contains a collection of **ModelTableN
 | **Count**|Read-only| **Long**|Returns number of  **ModelTableNameChange** objects in the collection.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableNameChanges** collection.|
+
  **ModelTableNameChanges.Item** Method
 
 Returns a single object from the  **ModelTableNameChanges** collection. Table 29 lists the parameters of the **Item** method.

@@ -27,6 +27,7 @@ The  **Zoom** event syntax has these parts:
 | _object_|Required. A valid object name.|
 | _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
 | _Percent_|Required. The percentage the form is to be zoomed. Valid values range from 10 percent to 400 percent.|
+
  **Remarks**
 The value of the  **Zoom** property identifies how the size of the form or **Page** changes. The value of the property indicates how the size of the control should change relative to its current size. Values less than 100 reduce the displayed size of the form; values greater than 100 increase the displayed size of the form.
 You can set this property to any integer from 10 to 400.

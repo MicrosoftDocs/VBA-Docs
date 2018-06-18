@@ -24,6 +24,7 @@ The  **DateSerial** function syntax has these[named arguments](vbe-glossary.md):
 |**_year_**|Required;  **Integer**. Number between 100 and 9999, inclusive, or a[numeric expression](vbe-glossary.md).|
 |**_month_**|Required;  **Integer**. Any numeric expression.|
 |**_day_**|Required;  **Integer**. Any numeric expression.|
+
  **Remarks**
 To specify a date, such as December 31, 1991, the range of numbers for each  **DateSerial**[argument](vbe-glossary.md) should be in the accepted range for the unit; that is, 1-31 for days and 1-12 for months. However, you can also specify relative dates for each argument using any numeric expression that represents some number of days, months, or years before or after a certain date.
 The following example uses numeric expressions instead of absolute date numbers. Here the  **DateSerial** function returns a date that is the day before the first day ( `1 - 1`), two months before August ( `8 - 2`), 10 years before 1990 (), two months before August ( `8 - 2`), 10 years before 1990 ( `1990 - 10`); in other words, May 31, 1980.

@@ -27,6 +27,7 @@ The  **LSet** statement syntax has these parts:
 | _string_|Required. [String expression](vbe-glossary.md) to be left-aligned within _stringvar._|
 | _varname1_|Required. Variable name of the user-defined type being copied to.|
 | _varname2_|Required. Variable name of the user-defined type being copied from.|
+
  **Remarks**
  **LSet** replaces any leftover characters in _stringvar_ with spaces.
 If  _string_ is longer than _stringvar_, **LSet** places only the leftmost characters, up to the length of the _stringvar,_ in _stringvar_.

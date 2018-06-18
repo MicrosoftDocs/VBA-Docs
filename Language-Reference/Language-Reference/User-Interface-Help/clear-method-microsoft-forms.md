@@ -22,6 +22,7 @@ The  **Clear** method syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 For a  **MultiPage** or **TabStrip**, the **Clear** method deletes individual pages or tabs.
 For a  **ListBox** or **ComboBox**, **Clear** removes all entries in the list.

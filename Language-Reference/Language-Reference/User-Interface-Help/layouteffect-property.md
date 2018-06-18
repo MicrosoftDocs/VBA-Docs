@@ -24,6 +24,7 @@ The  **LayoutEffect** property syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Return Values**
 The  **LayoutEffect** property return values are:
 
@@ -32,6 +33,7 @@ The  **LayoutEffect** property return values are:
 |:-----|:-----|:-----|
 | _fmLayoutEffectNone_|0|The control was not moved.|
 | _fmLayoutEffectInitiate_|1|The control moved.|
+
  **Remarks**
 The  **LayoutEffect** property is read-only and is available only in the Layout event. The Layout event is initiated by the **Move** method if the _Layout_ argument is **True**.
 The Layout event is not initiated when you change the settings of the  **Left**, **Top**, **Height**, or **Width** properties of a control.

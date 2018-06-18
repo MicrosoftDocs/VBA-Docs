@@ -25,6 +25,7 @@ The  **MatchRequired** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the text entered must match an existing item in the list.|
+
  **Settings**
 The settings for  _Boolean_ are:
 
@@ -33,6 +34,7 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|The text entered must match an existing list entry.|
 |**False**|The text entered can be different from all existing list entries (default).|
+
  **Remarks**
 If the  **MatchRequired** property is **True**, the user cannot exit the **ComboBox** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
 

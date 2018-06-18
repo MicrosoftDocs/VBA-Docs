@@ -25,6 +25,7 @@ The  **MousePointer** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmMousePointer_|Optional. The shape you want for the mouse pointer.|
+
  **Settings**
 The settings for  _fmMousePointer_ are:
 
@@ -46,6 +47,7 @@ The settings for  _fmMousePointer_ are:
 | _fmMousePointerHelp_|14|Arrow with a question mark.|
 | _fmMousePointerSizeAll_|15|Size all cursor (arrows pointing north, south, east, and west).|
 | _fmMousePointerCustom_|99|Uses the icon specified by the  **MouseIcon** property.|
+
  **Remarks**
 Use the  **MousePointer** property when you want to indicate changes in functionality as the mouse pointer passes over controls on a form. For example, the hourglass setting (11) is useful to indicate that the user must wait for a process or operation to finish.
 Some icons vary depending on system settings, such as the icons associated with desktop themes.

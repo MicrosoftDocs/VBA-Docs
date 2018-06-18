@@ -25,6 +25,7 @@ The  **Put** statement syntax has these parts:
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
 | _recnumber_|Optional.  **Variant** ( **Long** ). Record number ( **Random** mode files) or byte number ( **Binary** mode files) at which writing begins.|
 | _varname_|Required. Name of variable containing data to be written to disk.|
+
  **Remarks**
 Data written with  **Put** is usually read from a file with **Get**.
 The first record or byte in a file is at position 1, the second record or byte is at position 2, and so on. If you omit  _recnumber_, the next record or byte after the last **Get** or **Put** statement or pointed to by the last **Seek** function is written. You must include delimiting commas, for example:

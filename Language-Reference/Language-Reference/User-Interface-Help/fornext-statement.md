@@ -31,6 +31,7 @@ The  **For…Next** statement syntax has these parts:
 | _end_|Required. Final value of  _counter_.|
 | _step_|Optional. Amount  _counter_ is changed each time through the loop. If not specified, _step_ defaults to one.|
 | _statements_|Optional. One or more statements between  **For** and **Next** that are executed the specified number of times.|
+
  **Remarks**
 The  _step_[argument](vbe-glossary.md) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
 

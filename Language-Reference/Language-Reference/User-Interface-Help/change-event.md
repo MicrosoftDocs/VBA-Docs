@@ -24,6 +24,7 @@ The  **Change** event syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Settings**
 The Change event occurs when the setting of the  **Value** property changes, regardless of whether the change results from execution of code or a user action in the interface.
 Here are some examples of actions that change the  **Value** property:

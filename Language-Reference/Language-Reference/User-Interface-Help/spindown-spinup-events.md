@@ -23,6 +23,7 @@ The  **SpinDown** and **SpinUp** event syntaxes have these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 The SpinDown event decreases the  **Value** property. The SpinUp event increases **Value**.
 

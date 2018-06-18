@@ -23,6 +23,7 @@ The  **Item** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _collectionindex_|Required. A member's position, or index, within a collection.|
+
  **Settings**
 The  _collectionindex_ can be either a string or an integer. If it is a string, it must be a valid member name. If it is an integer, the minimum value is 0 and the maximum value is one less than the number of items in the collection.
  **Remarks**

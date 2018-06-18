@@ -31,6 +31,7 @@ The  _color_ argument has these settings:
 |5|Magenta|13|Light Magenta|
 |6|Yellow|14|Light Yellow|
 |7|White|15|Bright White|
+
  **Remarks**
 The  _color_ argument represents color values used by earlier versions of Basic (such as Microsoft Visual Basic for MS-DOS and the Basic Compiler). Starting with the least-significant byte, the returned value specifies the red, green, and blue values used to set the appropriate color in the RGB system used by Visual Basic for Applications.
 

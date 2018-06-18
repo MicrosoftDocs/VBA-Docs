@@ -24,6 +24,7 @@ The  **UndoAction** method syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 The Undo command in the user interface uses the  **UndoAction** method. For example, if you paste text into a **TextBox**, you can use **UndoAction** to remove that text and restore the previous contents of the **TextBox**.
 Not all user actions can be undone. If an action cannot be undone, the Undo command is unavailable following the action.

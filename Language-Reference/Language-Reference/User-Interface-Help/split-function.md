@@ -26,6 +26,7 @@ The  **Split** function syntax has these[named arguments](vbe-glossary.md):
 |**_delimiter_**|Optional. String character used to identify substring limits. If omitted, the space character (" ") is assumed to be the delimiter. If  **_delimiter_** is a zero-length string, a single-element array containing the entire **_expression_** string is returned.|
 |**_limit_**|Optional. Number of substrings to be returned; -1 indicates that all substrings are returned.|
 |**_compare_**|Optional. Numeric value indicating the kind of comparison to use when evaluating substrings. See Settings section for values.|
+
  **Settings**
 The  **_compare_** argument can have the following values:
 

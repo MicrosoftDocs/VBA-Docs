@@ -25,6 +25,7 @@ You can use one of four settings for  **StartUpPosition**:
 |**CenterOwner**|1|Center on the item to which the  **UserForm** belongs.|
 |**CenterScreen**|2|Center on the whole screen.|
 |**WindowsDefault**|3|Position in upper-left corner of screen.|
+
  **Remarks**
 You can set the  **StartUpPosition** property programmatically or from the **Properties** window.
 

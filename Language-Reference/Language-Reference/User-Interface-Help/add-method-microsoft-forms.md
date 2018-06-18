@@ -28,6 +28,7 @@ The  **Add** method syntax has these parts:
 | _index_|Optional. Identifies the position of a page or tab within a  **Pages** or **Tabs** collection. If an index is not specified, the system appends the page or tab to the end of the **Pages** or **Tabs** collection and assigns the appropriate index value.|
 | _ProgID_|Required. Programmatic identifier. A text string with no spaces that identifies an object class. The standard syntax for a  _ProgID_ is <Vendor>.<Component>.<Version>. A _ProgID_ is mapped to a class identifier (CLSID).|
 | _Visible_|Optional.  **True** if the object is visible (default). **False** if the object is hidden.|
+
  **Settings**
  _ProgID_ values for individual controls are:
 
@@ -47,6 +48,7 @@ The  **Add** method syntax has these parts:
 |**TabStrip**|Forms.TabStrip.1|
 |**TextBox**|Forms.TextBox.1|
 |**ToggleButton**|Forms.ToggleButton.1|
+
  **Remarks**
 For a  **MultiPage** control, the **Add** method returns a **Page** object. For a **TabStrip**, it returns a **Tab** object. The index value for the first **Page** or **Tab** of a[collection](vbe-glossary.md) is 0, the value for the second **Page** or **Tab** is 1, and so on.
 For the  **Controls** collection of an object, the **Add** method returns a control corresponding to the specified _ProgID_. The AddControl event occurs after the control is added.

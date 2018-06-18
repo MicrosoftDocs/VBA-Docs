@@ -23,6 +23,7 @@ The  **Len** function syntax has these parts:
 |:-----|:-----|
 | _string_|Any valid [string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md), Null is returned.|
 | _Varname_|Any valid [variable](vbe-glossary.md) name. If _varname_ contains **Null**, **Null** is returned. If _varname_ is a[Variant](vbe-glossary.md),  **Len** treats it the same as a **String** and always returns the number of characters it contains.|
+
  **Remarks**
 One (and only one) of the two possible [arguments](vbe-glossary.md) must be specified. With[user-defined types](vbe-glossary.md),  **Len** returns the size as it will be written to the file.
 

@@ -26,6 +26,7 @@ The  **DDB** function has these[named arguments](vbe-glossary.md):
 |**_life_**|Required.  **Double** specifying length of useful life of the asset.|
 |**_period_**|Required.  **Double** specifying period for which asset depreciation is calculated.|
 |**_factor_**|Optional. [Variant](vbe-glossary.md) specifying rate at which the balance declines. If omitted, 2 (double-declining method) is assumed.|
+
  **Remarks**
 The double-declining balance method computes depreciation at an accelerated rate. Depreciation is highest in the first period and decreases in successive periods.
 The  **_life_** and **_period_**[arguments](vbe-glossary.md) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.

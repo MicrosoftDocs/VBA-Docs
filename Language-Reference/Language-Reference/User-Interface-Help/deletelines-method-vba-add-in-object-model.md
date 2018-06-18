@@ -24,6 +24,7 @@ The  **DeleteLines** syntax has these parts:
 | _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _startline_|Required. A [Long](vbe-glossary.md) specifying the first line you want to delete.|
 | _count_|Optional. A  **Long** specifying the number of lines you want to delete.|
+
  **Remarks**
 If you don't specify how many lines you want to delete,  **DeleteLines** deletes one line.
 

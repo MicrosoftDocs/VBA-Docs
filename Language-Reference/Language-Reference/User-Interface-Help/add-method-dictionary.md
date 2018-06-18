@@ -25,6 +25,7 @@ The  **Add** method has the following parts:
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _key_|Required. The key associated with the item being added.|
 | _item_|Required. The item associated with the key being added.|
+
  **Remarks**
 An error occurs if the  _key_ already exists.
 

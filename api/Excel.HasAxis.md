@@ -25,6 +25,7 @@ Returns or sets which axes exist on the chart. Read/write Variant.
 |XlAxisType can be one of these XlAxisType constants.|
 | **xlCategory**|
 | **xlValue** **xlSeriesAxis**. Series axes apply only to 3-D charts.|
+
  **Index2** Optional **XlAxisGroup**. The axis priority.
 
 

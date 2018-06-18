@@ -30,6 +30,7 @@ The  **_class_**[argument](vbe-glossary.md) uses the syntax _appname_**.**_objec
 |:-----|:-----|
 | _appname_|Required;  **Variant** ( **String** ). The name of the application providing the object.|
 | _objecttype_|Required;  **Variant** ( **String** ). The type or class of object to create.|
+
  **Remarks**
 Use the  **GetObject** function to access an ActiveX object from a file and assign the object to an[object variable](vbe-glossary.md). Use the  **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
 

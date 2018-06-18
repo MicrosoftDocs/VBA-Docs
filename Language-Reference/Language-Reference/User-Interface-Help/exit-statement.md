@@ -31,6 +31,7 @@ The  **Exit** statement syntax has these forms:
 |**Exit Function**|Immediately exits the  **Function**[procedure](vbe-glossary.md) in which it appears. Execution continues with the statement following the statement that called the **Function**.|
 |**Exit Property**|Immediately exits the  **Property** procedure in which it appears. Execution continues with the statement following the statement that called the **Property** procedure.|
 |**Exit Sub**|Immediately exits the  **Sub** procedure in which it appears. Execution continues with the statement following the statement that called the **Sub** procedure.|
+
  **Remarks**
 Do not confuse  **Exit** statements with **End** statements. **Exit** does not define the end of a structure.
 

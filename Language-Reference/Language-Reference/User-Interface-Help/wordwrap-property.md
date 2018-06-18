@@ -25,6 +25,7 @@ The  **WordWrap** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control expands to fit the text.|
+
  **Settings**
 The settings for  _Boolean_ are:
 
@@ -33,6 +34,7 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|The text wraps (default).|
 |**False**|The text does not wrap.|
+
  **Remarks**
 For controls that support the  **MultiLine** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
 

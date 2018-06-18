@@ -26,6 +26,7 @@ The  **GetFolder** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _folderspec_|Required. The  _folderspec_ is the path (absolute or relative) to a specific folder.|
+
  **Remarks**
 An error occurs if the specified folder does not exist.
 

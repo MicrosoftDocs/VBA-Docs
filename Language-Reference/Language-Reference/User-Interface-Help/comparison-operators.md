@@ -29,6 +29,7 @@ Used to compare [expressions](vbe-glossary.md).
 | _object_|Required; any object name.|
 | _string_|Required; any [string expression](vbe-glossary.md).|
 | _pattern_|Required; any string expression or range of characters.|
+
  **Remarks**
 The following table contains a list of the comparison operators and the conditions that determine whether  _result_ is **True**, **False**, or[Null](vbe-glossary.md):
 

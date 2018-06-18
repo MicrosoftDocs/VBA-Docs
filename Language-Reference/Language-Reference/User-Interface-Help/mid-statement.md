@@ -26,6 +26,7 @@ The  **Mid** statement syntax has these parts:
 | _start_|Required;  **Variant** ( **Long** ). Character position in _stringvar_ where the replacement of text begins.|
 | _length_|Optional;  **Variant** ( **Long** ). Number of characters to replace. If omitted, all of _string_ is used.|
 | _string_|Required. [String expression](vbe-glossary.md) that replaces part of _stringvar_.|
+
  **Remarks**
 The number of characters replaced is always less than or equal to the number of characters in  _stringvar_.
 

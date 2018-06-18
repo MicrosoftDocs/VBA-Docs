@@ -182,6 +182,7 @@ Applies a standard or custom chart type to a chart.
 | **xlSurfaceWireframe**|
 | **xlXYScatterLines**|
 | **xlXYScatterSmooth**|
+
  **TypeName**Optional  **Variant**. A  **String** naming the custom chart type when **_ChartType_** specifies a custom chart gallery.
 
 ## Example

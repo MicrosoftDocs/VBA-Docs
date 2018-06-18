@@ -25,6 +25,7 @@ The  **ScrollBars** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmScrollBars_|Optional. Where scroll bars should be displayed.|
+
  **Settings**
 The settings for  _fmScrollBars_ are:
 
@@ -35,6 +36,7 @@ The settings for  _fmScrollBars_ are:
 | _fmScrollBarsHorizontal_|1|Displays a horizontal scroll bar.|
 | _fmScrollBarsVertical_|2|Displays a vertical scroll bar.|
 | _fmScrollBarsBoth_|3|Displays both a horizontal and a vertical scroll bar.|
+
  **Remarks**
 If the  **KeepScrollBarsVisible** property is **True**, any scroll bar on a form or page is always visible, regardless of whether the object's contents fit within the object's borders.
 If visible, a scroll bar constrains its scroll box to the visible region of the scroll bar. It also modifies the scroll position as needed to keep the entire scroll bar visible. The range of a scroll bar changes when the value of the  **ScrollBars** property changes, the scroll size changes, or the visible size changes.

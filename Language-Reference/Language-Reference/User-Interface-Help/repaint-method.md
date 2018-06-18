@@ -24,6 +24,7 @@ The  **Repaint** method syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 The  **Repaint** method is useful if the contents or appearance of an object changes significantly, and you don't want to wait until the system automatically repaints the area.
 

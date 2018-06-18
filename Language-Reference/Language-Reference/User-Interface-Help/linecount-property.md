@@ -24,6 +24,7 @@ The  **LineCount** property syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 The  **LineCount** property is read-only.
 

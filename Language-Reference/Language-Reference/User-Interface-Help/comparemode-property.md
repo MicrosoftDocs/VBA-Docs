@@ -26,6 +26,7 @@ The  **CompareMode** property has the following parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _compare_|Optional. If provided,  _compare_ is a value representing the comparison mode used by functions such as **StrComp**.|
+
  **Settings**
 The  _compare_ argument can have the following values:
 
@@ -36,6 +37,7 @@ The  _compare_ argument can have the following values:
 |**vbBinaryCompare**| 0|Performs a binary comparison.|
 |**vbTextCompare**| 1|Performs a textual comparison.|
 |**vbDatabaseCompare**| 2|Microsoft Access only. Performs a comparison based on information in your database.|
+
  **Remarks**
 An error occurs if you try to change the comparison mode of a  **Dictionary** object that already contains data.
 The  **CompareMode** property uses the same values as the _compare_ argument for the **StrComp** function. Values greater than 2 can be used to refer to comparisons using specific Locale IDs (LCID).

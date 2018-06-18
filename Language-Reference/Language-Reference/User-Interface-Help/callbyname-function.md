@@ -25,6 +25,7 @@ The  **CallByName** function syntax has these[named arguments](vbe-glossary.md):
 |**_procname_**|Required;  **Variant** ( **String** ). A string expression containing the name of a property or method of the object.|
 |**_calltype_**|Required;  **Constant**. A constant of type **vbCallType** representing the type of procedure being called.|
 | _args()_|Optional:  **Variant** ( **Array** ).|
+
  **Remarks**
 The  **CallByName** function is used to get or set a property, or invoke a method at run time using a string name.
 In the following example, the first line uses  **CallByName** to set the **MousePointer** property of a text box, the second line gets the value of the **MousePointer** property, and the third line invokes the **Move** method to move the text box:

@@ -25,6 +25,7 @@ The  **DropButtonStyle** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmDropButtonStyle_|Optional. The appearance of the drop button.|
+
  **Settings**
 The settings for  _fmDropButtonStyle_ are:
 
@@ -35,6 +36,7 @@ The settings for  _fmDropButtonStyle_ are:
 | _fmDropButtonStyleArrow_|1|Displays a down arrow (default).|
 | _fmDropButtonStyleEllipsis_|2|Displays an ellipsis (...).|
 | _fmDropButtonStyleReduce_|3|Displays a horizontal line like an underscore character.|
+
  **Remarks**
 The recommended setting for showing items in a list is  **fmDropButtonStyleArrow**. If you want to use the drop button in another way, such as to display a dialog box, specify **fmDropButtonStyleEllipsis**, **fmDropButtonStylePlain**, or **fmDropButtonStyleReduce** and trap the DropButtonClick event.
 

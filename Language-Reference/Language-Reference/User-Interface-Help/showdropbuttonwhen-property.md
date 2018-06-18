@@ -25,6 +25,7 @@ The  **ShowDropButtonWhen** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmShowDropButtonWhen_|Optional. The circumstances under which the drop-down button will be visible.|
+
  **Settings**
 The settings for  _fmShowDropButtonWhen_ are:
 

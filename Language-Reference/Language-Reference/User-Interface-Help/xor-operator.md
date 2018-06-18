@@ -24,6 +24,7 @@ The  **Xor** operator syntax has these parts:
 | _result_|Optional; any numeric [variable](vbe-glossary.md).|
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
+
  **Remarks**
 If one, and only one, of the expressions evaluates to  **True**, _result_ is **True**. However, if either expression is [Null](vbe-glossary.md),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
 

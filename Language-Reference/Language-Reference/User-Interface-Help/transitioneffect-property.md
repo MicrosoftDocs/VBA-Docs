@@ -25,6 +25,7 @@ The  **TransitionEffect** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmTransitionEffect_|Optional. The transition effect you want between pages.|
+
  **Settings**
 The settings for  _fmTransitionEffect_ are:
 
@@ -44,6 +45,7 @@ The settings for  _fmTransitionEffect_ are:
 | _fmTransitionEffectPushRight_|10|The new page pushes the old page out of view, moving from the left to the right.|
 | _fmTransitionEffectPushDown_|11|The new page pushes the old page out of view, moving from the top to the bottom.|
 | _fmTransitionEffectPushLeft_|12|The new page pushes the old page out of view, moving from the right to the left.|
+
  **Remarks**
 Use the  **TransitionPeriod** property to specify the duration of a transition effect.
 

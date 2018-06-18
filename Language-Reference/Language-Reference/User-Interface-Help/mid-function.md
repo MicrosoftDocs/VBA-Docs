@@ -24,6 +24,7 @@ The  **Mid** function syntax has these[named arguments](vbe-glossary.md):
 |**_string_**|Required. [String expression](vbe-glossary.md) from which characters are returned. If **_string_** contains[Null](vbe-glossary.md),  **Null** is returned.|
 |**_start_**|Required; [Long](vbe-glossary.md). Character position in  **_string_** at which the part to be taken begins. If **_start_** is greater than the number of characters in **_string_**, **Mid** returns a zero-length string ("").|
 |**_length_**|Optional;  **Variant** ( **Long** ). Number of characters to return. If omitted or if there are fewer than **_length_** characters in the text (including the character at **_start_** ), all characters from the **_start_** position to the end of the string are returned.|
+
  **Remarks**
 To determine the number of characters in  **_string_**, use the **Len** function.
 

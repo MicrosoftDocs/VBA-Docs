@@ -25,6 +25,7 @@ The  **GetFormat** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _format_|Required. An integer or string specifying a specific format that might exist in the  **DataObject**. If the specified format exists in the **DataObject**, **GetFormat** returns **True**.|
+
  **Settings**
 The settings for  _format_ are:
 
@@ -33,6 +34,7 @@ The settings for  _format_ are:
 |:-----|:-----|
 |1|Text format.|
 |A string or any integer other than 1|A user-defined  **DataObject** format passed to the **DataObject** from **SetText**.|
+
  **Remarks**
 The  **GetFormat** method searches for a format in the current list of formats on the **DataObject**. If the format is on the **DataObject**, **GetFormat** returns **True**; if not, **GetFormat** returns **False**.
 The  **DataObject** currently supports only text formats.

@@ -25,6 +25,7 @@ The  **Locked** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control can be edited.|
+
  **Settings**
 The settings for  _Boolean_ are:
 
@@ -33,6 +34,7 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|You can't edit the value.|
 |**False**|You can edit the value (default).|
+
  **Remarks**
 When a control is locked and enabled, it can still initiate events and can still receive the [focus](vbe-glossary.md).
 

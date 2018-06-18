@@ -25,6 +25,7 @@ The  **MatchEntry** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmMatchEntry_|Optional. The rule used to match entries in the list.|
+
  **Settings**
 The settings for  _fmMatchEntry_ are:
 
@@ -34,6 +35,7 @@ The settings for  _fmMatchEntry_ are:
 | _fmMatchEntryFirstLetter_|0|Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter [cycles](glossary-vba.md) through all entries beginning with that letter.|
 | _FmMatchEntryComplete_|1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).|
 | _FmMatchEntryNone_|2|No matching.|
+
  **Remarks**
 The  **MatchEntry** property searches entries from the **TextColumn** property of a **ListBox** or **ComboBox**.
 The control searches the column identified by  **TextColumn** for an entry that matches the user's typed entry. Upon finding a match, the row containing the match is selected, the contents of the column are displayed, and the contents of its **BoundColumn** property become the value of the control. If the match is unambiguous, finding the match initiates the Click event.

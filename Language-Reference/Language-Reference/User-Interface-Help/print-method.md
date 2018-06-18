@@ -35,6 +35,7 @@ The  _outputlist_[argument](vbe-glossary.md) has the following syntax and parts:
 |**Tab(**_n_**)**|Optional. Used to position the insertion point at an absolute column number where  _n_ is the column number. Use **Tab** with no argument to position the insertion point at the beginning of the next[print zone](vbe-glossary.md).|
 | _expression_|Optional. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) to print.|
 | _charpos_|Optional. Specifies the insertion point for the next character. Use a semicolon ( **;** ) to position the insertion point immediately following the last character displayed. Use **Tab(**_n_**)** to position the insertion point at an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
+
  **Remarks**
 Multiple expressions can be separated with either a space or a semicolon.
 All data printed to the  **Immediate** window is properly formatted using the decimal separator for the[locale](vbe-glossary.md) settings specified for your system. The[keywords](vbe-glossary.md) are output in the appropriate language for the[host application](vbe-glossary.md).

@@ -23,6 +23,7 @@ The  **String** function syntax has these[named arguments](vbe-glossary.md):
 |:-----|:-----|
 |**_number_**|Required; [Long](vbe-glossary.md). Length of the returned string. If  **_number_** contains[Null](vbe-glossary.md),  **Null** is returned.|
 |**_character_**|Required; [Variant](vbe-glossary.md). [Character code](vbe-glossary.md) specifying the character or[string expression](vbe-glossary.md) whose first character is used to build the return string. If **_character_** contains **Null**, **Null** is returned.|
+
  **Remarks**
 If you specify a number for  **_character_** greater than 255, **String** converts the number to a valid character code using the formula:
  **_character_** **Mod** 256

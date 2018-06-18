@@ -23,6 +23,7 @@ The  **OldHeight** and **OldWidth** property syntaxes have these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
  **OldHeight** and **OldWidth** are read-only.
 The  **OldHeight** and **OldWidth** properties are automatically updated when you move or size a control. If you change the size of a control, the **Height** and **Width** properties store the new height and **OldHeight** and **OldWidth** store the previous height.

@@ -23,6 +23,7 @@ The  **Remove** method syntax has the following object qualifier and part:
 |:-----|:-----|
 | _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _index_|Required. An [expression](vbe-glossary.md) that specifies the position of a member of the[collection](vbe-glossary.md). If a [numeric expression](vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count**[property](vbe-glossary.md). If a [string expression](vbe-glossary.md),  _index_ must correspond to the **_key_**[argument](vbe-glossary.md) specified when the member referred to was added to the collection.|
+
  **Remarks**
 If the value provided as  _index_ doesn't match an existing member of the collection, an error occurs.
 

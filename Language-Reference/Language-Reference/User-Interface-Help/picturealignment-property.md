@@ -25,6 +25,7 @@ The  **PictureAlignment** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmPictureAlignment_|Optional. The position where the picture aligns with the control.|
+
  **Settings**
 The settings for  _fmPictureAlignment_ are:
 
@@ -36,6 +37,7 @@ The settings for  _fmPictureAlignment_ are:
 | _fmPictureAlignmentCenter_|2|The center.|
 | _fmPictureAlignmentBottomLeft_|3|The bottom left corner.|
 | _fmPictureAlignmentBottomRight_|4|The bottom right corner.|
+
  **Remarks**
 The  **PictureAlignment** property identifies which corner of the picture is the same as the corresponding corner of the control or[container](vbe-glossary.md) where the picture is used.
 For example, setting  **PictureAlignment** to **fmPictureAlignmentTopLeft** means that the top left corner of the picture coincides with the top left corner of the control or container. Setting **PictureAlignment** to **fmPictureAlignmentCenter** positions the picture in the middle, relative to the height as well as the width of the control or container.

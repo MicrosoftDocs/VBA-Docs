@@ -26,6 +26,7 @@ The  **GetDriveName** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _path_|Required. The path specification for the component whose drive name is to be returned.|
+
  **Remarks**
 The  **GetDriveName** method returns a zero-length string ("") if the drive can't be determined.
 

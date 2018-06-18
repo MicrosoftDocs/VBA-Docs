@@ -24,6 +24,7 @@ The  **PutInClipboard** method syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
 The  **PutInClipboard** method replaces the contents of the Clipboard with the contents of the **DataObject** that is in Text format.
 

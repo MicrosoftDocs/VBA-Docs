@@ -24,6 +24,7 @@ The  **+** operator syntax has these parts:
 | _result_|Required; any numeric [variable](vbe-glossary.md).|
 | _expression1_|Required; any [expression](vbe-glossary.md).|
 | _expression2_|Required; any expression.|
+
  **Remarks**
 When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&;** operator for concatenation to eliminate ambiguity and provide self-documenting code.
 If at least one expression is not a [Variant](vbe-glossary.md), the following rules apply:

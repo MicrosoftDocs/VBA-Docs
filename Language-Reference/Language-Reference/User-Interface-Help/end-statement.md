@@ -37,6 +37,7 @@ The  **End** statement syntax has these forms:
 |**End Sub**|Required to end a  **Sub** statement.|
 |**End Type**|Required to end a [user-defined type](vbe-glossary.md) definition ( **Type** statement).|
 |**End With**|Required to end a  **With** statement.|
+
  **Remarks**
 When executed, the  **End** statement resets all[module-level](vbe-glossary.md) variables and all static local variables in all[modules](vbe-glossary.md). To preserve the value of these variables, use the  **Stop** statement instead. You can then resume execution while preserving the value of those variables.
 

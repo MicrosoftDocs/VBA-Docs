@@ -25,6 +25,7 @@ The  **CurLine** property syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. Specifies the current line of a control.|
+
  **Remarks**
 The current line of a control is the line that contains the insertion point. The number of the first line is zero.
 The  **CurLine** property is valid when the control has the[focus](vbe-glossary.md).

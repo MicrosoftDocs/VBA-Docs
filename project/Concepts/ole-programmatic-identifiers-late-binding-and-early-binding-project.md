@@ -98,6 +98,7 @@ To create the ActiveX controls listed in the following table, use the correspond
 |TabStrip|Forms.TabStrip.1|
 |TextBox|Forms.TextBox.1|
 |ToggleButton|Forms.ToggleButton.1|
+
  **Microsoft Access**
 
 To create the Access objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Access that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Access 15.0 Object Library**.
@@ -110,6 +111,7 @@ To create the Access objects listed in the following table, use one of the corre
 |CurrentData|Access.CodeData, Access.CurrentData|
 |CurrentProject|Access.CodeProject, Access.CurrentProject|
 |DefaultWebOptions|Access.DefaultWebOptions|
+
  **Microsoft Excel**
 
 To create the Excel objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Excel that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Excel 15.0 Object Library**.
@@ -122,6 +124,7 @@ To create the Excel objects listed in the following table, use one of the corres
 |Workbook|Excel.AddIn||
 |Workbook|Excel.Chart, Excel.Chart.8|Returns a workbook containing two worksheets: one for the chart, and one for its data. The chart worksheet is the active worksheet.|
 |Workbook|Excel.Sheet, Excel.Sheet.12|Returns a workbook with one worksheet.|
+
  **Microsoft Graph**
 
 To create the Microsoft Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Graph 15.0 Object Library**.
@@ -132,6 +135,7 @@ To create the Microsoft Graph objects listed in the following table, use one of 
 |:-----|:-----|
 |Application|MSGraph.Application, MSGraph.Application.8|
 |Chart|MSGraph.Chart, MSGraph.Chart.8|
+
  **Microsoft Office Web Components**
 
 
@@ -146,6 +150,7 @@ To create the Microsoft Outlook object given in the following table, use one of 
 |**To create this object**|**Use one of these identifiers**|
 |:-----|:-----|
 |Application|Outlook.Application, Outlook.Application.15|
+
  **Microsoft PowerPoint**
 
 To create the Microsoft PowerPoint object given in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of PowerPoint that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft PowerPoint 15.0 Object Library**.
@@ -155,6 +160,7 @@ To create the Microsoft PowerPoint object given in the following table, use one 
 |**To create this object**|**Use one of these identifiers**|
 |:-----|:-----|
 |Application|PowerPoint.Application, PowerPoint.Application.15|
+
  **Microsoft Word**
 
 To create the Microsoft Word objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Word that is available on the computer where the macro is running. Word.Document.8 and Word.Document.12 both create a document in the default Open XML format (.docx). For early binding, set a reference to  **Microsoft Word 15.0 Object Library**.

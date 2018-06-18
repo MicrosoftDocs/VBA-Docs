@@ -33,6 +33,7 @@ The  **Scroll** event syntax has these parts:
 | _RequestDy_|Required. The distance, in points, you want the scroll bar to move in the vertical direction.|
 | _ActualDx_|Required. The distance, in points, the scroll bar travelled in the horizontal direction.|
 | _ActualDy_|Required. The distance, in points, the scroll bar travelled in the vertical direction.|
+
  **Settings**
 The settings for  _ActionX_ and _ActionY_ are:
 
@@ -49,6 +50,7 @@ The settings for  _ActionX_ and _ActionY_ are:
 | _fmScrollActionPropertyChange_|8|The value of either the  **ScrollTop** or the **ScrollLeft** property changed. The direction and amount of movement depend on which property was changed and on the new property value.|
 | _fmScrollActionControlRequest_|9|A control asked its container to scroll. The amount of movement depends on the specific control and container involved.|
 | _fmScrollActionFocusRequest_|10|The user moved to a different control. The amount of movement depends on the placement of the selected control, and generally has the effect of moving the selected control so it is completely visible to the user.|
+
  **Remarks**
 The Scroll events associated with a form,  **Frame**, or **Page** return the following arguments: _ActionX_, _ActionY_, _ActualX_, and _ActualY_. _ActionX_ and _ActionY_ identify the action that occurred. _ActualX_ and _ActualY_ identify the distance that the scroll box traveled.
 The default action is to calculate the new position of the scroll box and then scroll to that position.

@@ -24,6 +24,7 @@ The  **GetFileName** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _pathspec_|Required. The path (absolute or relative) to a specific file.|
+
  **Remarks**
 The  **GetFileName** method returns a zero-length string ("") if _pathspec_ does not end with the named component.
 

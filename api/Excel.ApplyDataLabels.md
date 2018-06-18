@@ -32,6 +32,7 @@ Applies data labels to a point, a series, or all the series in a chart.
 | **xlDataLabelsShowNone**. No data labels.|
 | **xlDataLabelsShowPercent**. Percentage of the total. Available only for pie charts and doughnut charts.|
 | **xlDataLabelsShowValue**_default_. Value for the point.|
+
  **LegendKey** Optional **Variant**.  **True** to show the legend key next to the point. The default value is **False**.
  **AutoText** Optional **Variant**.  **True** if the object automatically generates appropriate text based on content.
  **HasLeaderLines**Optional  **Variant**.  **True** if the series has leader lines.
@@ -51,6 +52,7 @@ Applies data labels to a point, a series, or all the series in a chart.
 | **xlDataLabelsShowNone**. No data labels.|
 | **xlDataLabelsShowPercent**. Percentage of the total. Available only for pie charts and doughnut charts.|
 | **xlDataLabelsShowValue**_default_. Value for the point.|
+
  **LegendKey** Optional **Variant**.  **True** to show the legend key next to the point. The default value is **False**.
  **AutoText** Optional **Variant**.  **True** if the object automatically generates appropriate text based on content.
  **HasLeaderLines**Optional  **Variant**.  **True** if the series has leader lines.

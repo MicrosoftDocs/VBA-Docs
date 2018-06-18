@@ -24,6 +24,7 @@ The  **StrConv** function syntax has these[named arguments](vbe-glossary.md):
 |**_string_**|Required. [String expression](vbe-glossary.md) to be converted.|
 |**_conversion_**|Required. [Integer](vbe-glossary.md). The sum of values specifying the type of conversion to perform.|
 |**_LCID_**|Optional. The LocaleID, if different than the system LocaleID. (The system LocaleID is the default.)|
+
  **Settings**
 The  **_conversion_**[argument](vbe-glossary.md) settings are:
 

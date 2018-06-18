@@ -26,6 +26,7 @@ The  **GetDrive** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _drivespec_|Required. The  _drivespec_ argument can be a drive letter (c), a drive letter with a colon appended (c:), a drive letter with a colon and path separator appended (c:\), or any network share specification (\\computer2\share1).|
+
  **Remarks**
 For network shares, a check is made to ensure that the share exists.
 An error occurs if  _drivespec_ does not conform to one of the accepted forms or does not exist.

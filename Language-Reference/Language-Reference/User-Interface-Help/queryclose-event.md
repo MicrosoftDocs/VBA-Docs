@@ -25,6 +25,7 @@ The  **QueryClose** event syntax has these parts:
 |:-----|:-----|
 | _cancel_|An integer. Setting this [argument](vbe-glossary.md) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **UserForm** and application from closing.|
 | _closemode_|A value or [constant](vbe-glossary.md) indicating the cause of the QueryClose event.|
+
  **Return Values**
 The  _closemode_ argument returns the following values:
 

@@ -26,6 +26,7 @@ The  **AddItem** method syntax has these parts:
 | _object_|Required. A valid object.|
 | _Item_|Optional. Specifies the item or row to add. The number of the first item or row is 0; the number of the second item or row is 1, and so on.|
 | _varIndex_|Optional. Integer specifying the position within the object where the new item or row is placed.|
+
  **Remarks**
 If you supply a valid value for  _varIndex_, the **AddItem** method places the item or row at that position within the list. If you omit _varIndex_, the method adds the item or row at the end of the list.
 The value of  _varIndex_ must not be greater than the value of the **ListCount** property.

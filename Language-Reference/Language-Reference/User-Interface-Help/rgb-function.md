@@ -24,6 +24,7 @@ The  **RGB** function syntax has these[named arguments](vbe-glossary.md):
 |**_red_**|Required;  **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the red component of the color.|
 |**_green_**|Required;  **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the green component of the color.|
 |**_blue_**|Required;  **Variant** ( **Integer** ). Number in the range 0-255, inclusive, that represents the blue component of the color.|
+
  **Remarks**
 Application [methods](vbe-glossary.md) and[properties](vbe-glossary.md) that accept a color specification expect that specification to be a number representing an RGB color value. An RGB color value specifies the relative intensity of red, green, and blue to cause a specific color to be displayed.
 The value for any [argument](vbe-glossary.md) to **RGB** that exceeds 255 is assumed to be 255.

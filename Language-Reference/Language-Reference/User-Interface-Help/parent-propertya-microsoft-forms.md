@@ -22,6 +22,7 @@ The  **Parent** property syntax has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
+
  **Remarks**
  **Parent** is read-only.
 Use the  **Parent** property to access the properties, methods, or controls of an object's parent.
