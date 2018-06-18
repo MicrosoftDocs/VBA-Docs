@@ -41,8 +41,5 @@ MsgBox Selection.Font.NameFarEast
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

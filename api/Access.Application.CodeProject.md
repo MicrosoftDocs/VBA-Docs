@@ -39,8 +39,5 @@ Use the  **CodeProject** property to refer to one of the following code database
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

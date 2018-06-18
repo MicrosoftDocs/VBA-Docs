@@ -36,9 +36,6 @@ The value of the  **Summary** property corresponds to the setting of the **Descr
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 [Range Object](Excel.Range(objec).md)
 [ListObject Object](Excel.ListObject.md)

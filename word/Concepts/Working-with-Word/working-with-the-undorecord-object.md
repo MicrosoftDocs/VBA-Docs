@@ -17,7 +17,7 @@ For example, a developer might write code that performs the task of inserting do
 
 
 
-```
+```vb
 Sub AddDocMetadata() 
 Dim rngFooter As Range 
  
@@ -48,7 +48,7 @@ The Word object model offers a way to avoid this problem by providing developers
 The [UndoRecord](http://msdn.microsoft.com/library/77bf9801-e940-e661-6bbe-20a8714d5dbd%28Office.15%29.aspx) object is a property of the [Application](http://msdn.microsoft.com/library/d1cf6f8f-4e88-bf01-93b4-90a83f79cb44%28Office.15%29.aspx) object in Word. You create a custom undo record using the [StartCustomRecord](http://msdn.microsoft.com/library/cd8d4337-4bbc-1943-6e0a-bc764861e886%28Office.15%29.aspx) and [EndCustomRecord](http://msdn.microsoft.com/library/af11d231-f799-d592-2bc5-de08030b41e4%28Office.15%29.aspx) methods of the [UndoRecord](http://msdn.microsoft.com/library/77bf9801-e940-e661-6bbe-20a8714d5dbd%28Office.15%29.aspx) object. Consider the following code example which modifies the previous example to include a custom undo record.
 
 
-```
+```vb
 Dim objUndo As UndoRecord 
  
 Sub AddDocMetadata() 
@@ -104,7 +104,7 @@ The following table lists other important members of the [UndoRecord](http://msd
     
 - Call the [Document](http://msdn.microsoft.com/library/8d83487a-2345-a036-a916-971c9db5b7fb%28Office.15%29.aspx) object's [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method in the right order when calling from within a custom undo record. Calling the [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method in the wrong order within a custom undo record can have undesired effects on your code execution. The following code example shows the [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method being called from inside a custom undo record.
     
-```
+```vb
 Sub UndoInUndoRecord() 
    
   Set objUndo = Application.UndoRecord 
@@ -125,7 +125,7 @@ When this code is run, each action in the custom undo record prior to the  **Und
 
 - Avoid switching documents inside a custom undo record. The following code example switches from one document to another inside a custom undo record.
 
-```
+```vb
 Dim objUndo As UndoRecord 
 
 Sub SwitchDocsInsideUndo() 

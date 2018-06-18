@@ -20,7 +20,7 @@ Use  **Resources** ( _Index_ ), where _Index_ is the resource index number or re
 
 
 
-```
+```vb
 Dim R As Long, Names As String 
 
  
@@ -45,7 +45,7 @@ Use the  **[Resources](http://msdn.microsoft.com/library/40744aba-2b61-2b45-133a
 
 
 
-```
+```vb
 Dim R As Resources, Temp As Long, Names As String 
 
  
@@ -72,7 +72,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/4fb69f50-4ba6-89a4-f586-3df26
 
 
 
-```
+```vb
 ActiveProject.Resources.Add "Matilda"
 ```
 

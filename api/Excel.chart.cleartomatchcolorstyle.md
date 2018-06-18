@@ -34,8 +34,5 @@ Use this method to reset all the chart color formatting to the color style appli
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

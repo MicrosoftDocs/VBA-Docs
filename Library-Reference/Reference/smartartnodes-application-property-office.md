@@ -23,9 +23,6 @@ Gets an  **Application** object that represents the container application for th
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNodes Object](smartartnodes-object-office.md)
 #### Other resources
 

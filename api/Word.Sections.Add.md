@@ -66,8 +66,5 @@ ActiveDocument.Sections.Add
 ## See also
 
 
-#### Concepts
-
-
 [Sections Collection Object](Word.sections.md)
 

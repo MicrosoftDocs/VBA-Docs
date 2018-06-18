@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [AllReports Collection](Access.AllReports.md)
 

@@ -31,8 +31,5 @@ The value of this property can be an integer from -90 through 90 degrees or one 
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](Word.TickLabels.md)
 

@@ -34,8 +34,5 @@ Converts a file to a different file type.
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

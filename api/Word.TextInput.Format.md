@@ -40,8 +40,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [TextInput Object](Word.TextInput.md)
 

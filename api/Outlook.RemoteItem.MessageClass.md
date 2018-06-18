@@ -31,9 +31,6 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 #### Other resources
 

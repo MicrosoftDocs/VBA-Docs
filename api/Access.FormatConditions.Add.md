@@ -47,8 +47,5 @@ You can use the  **Delete** method of the **FormatConditions** collection to del
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Collection](Access.FormatConditions.md)
 

@@ -43,8 +43,5 @@ To make a command button invisible, set its  **Transparent** property to Yes.
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

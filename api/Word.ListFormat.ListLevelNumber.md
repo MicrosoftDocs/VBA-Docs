@@ -28,15 +28,12 @@ Returns or sets the list level for the first paragraph in the specified  **ListF
 This example returns the list level for the third paragraph in the active document.
 
 
-```
+```vb
 lev = ActiveDocument.Paragraphs(3).Range.ListFormat.ListLevelNumber
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ListFormat Object](Word.ListFormat.md)

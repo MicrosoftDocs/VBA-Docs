@@ -55,8 +55,5 @@ pvtTable.ShowPages "Country"
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

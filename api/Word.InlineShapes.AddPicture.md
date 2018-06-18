@@ -37,8 +37,5 @@ Adds a picture to a document. Returns an  **[InlineShape](Word.InlineShape.md)**
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection Object](Word.inlineshapes.md)
 

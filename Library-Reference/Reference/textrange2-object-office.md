@@ -23,7 +23,7 @@ This object contains the text in the text frame as well as the properties and me
 The following example adds a rectangle to myDocument, adds text to the rectangle, and then sets the margins for the text frame. 
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddShape(msoShapeRectangle, _ 
  0, 0, 250, 140).TextFrame2 
@@ -38,9 +38,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

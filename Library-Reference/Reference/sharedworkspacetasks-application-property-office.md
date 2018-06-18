@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTasks Object](sharedworkspacetasks-object-office.md)
 #### Other resources
 

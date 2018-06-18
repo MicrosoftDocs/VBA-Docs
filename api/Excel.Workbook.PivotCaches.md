@@ -41,8 +41,5 @@ ActiveWorkbook.PivotCaches(1).RefreshOnFileOpen = True
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

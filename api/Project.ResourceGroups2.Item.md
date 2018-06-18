@@ -31,8 +31,5 @@ Gets a single item from a collection. Read-only  **Object**.
 ## See also
 
 
-#### Concepts
-
-
 [ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 

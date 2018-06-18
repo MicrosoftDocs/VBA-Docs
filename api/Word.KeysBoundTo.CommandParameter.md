@@ -48,8 +48,5 @@ MsgBox kbNew.Command &; Chr$(32) &; kbNew.CommandParameter _
 ## See also
 
 
-#### Concepts
-
-
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 

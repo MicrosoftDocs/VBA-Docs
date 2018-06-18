@@ -26,8 +26,5 @@ Returns a  **Picture** object that represents a picture field included in the sp
 ## See also
 
 
-#### Concepts
-
-
 [HeaderFooter Object](Excel.HeaderFooter.md)
 

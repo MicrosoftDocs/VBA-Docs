@@ -26,8 +26,5 @@ Returns or sets the number of the selected item in a drop-down form field. Read/
 ## See also
 
 
-#### Concepts
-
-
 [DropDown Object](Word.DropDown.md)
 

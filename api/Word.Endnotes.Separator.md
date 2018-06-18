@@ -26,8 +26,5 @@ Returns a  **Range** object that represents the endnote separator.
 ## See also
 
 
-#### Concepts
-
-
 [Endnotes Collection Object](Word.endnotes.md)
 

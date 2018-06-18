@@ -43,8 +43,5 @@ The  **GrpKeepTogether** property setting has no effect if the **KeepTogether** 
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

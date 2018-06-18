@@ -42,8 +42,5 @@ Charts("Chart1").SeriesCollection(1).Trendlines(1) _
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Excel.Trendline(objec).md)
 

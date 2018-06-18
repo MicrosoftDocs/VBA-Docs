@@ -34,8 +34,5 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlockType Object](Word.BuildingBlockType.md)
 

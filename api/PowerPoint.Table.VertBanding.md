@@ -31,8 +31,5 @@ Boolean
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](PowerPoint.Table.md)
 

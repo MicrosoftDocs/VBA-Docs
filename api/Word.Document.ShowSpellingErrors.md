@@ -52,15 +52,12 @@ This example returns the current status of the Hide spelling errors in this docu
 
 
 
-```
+```vb
 temp = ActiveDocument.ShowSpellingErrors
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

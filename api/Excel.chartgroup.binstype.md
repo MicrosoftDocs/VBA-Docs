@@ -24,8 +24,5 @@ Specifies how the horizontal axis of the histogram chart is formatted, by bins t
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

@@ -55,8 +55,5 @@ The languages that support DBCS include Japanese, Chinese (Simplified), Chinese 
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

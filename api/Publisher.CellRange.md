@@ -35,7 +35,7 @@ Use the  **[Cells](Publisher.Column.Cells.md)** property to return the **CellRan
 
  
 
-```
+```vb
 Sub MergeCellsInFirstColumn() 
  With ActiveDocument.Pages(1).Shapes(1).Table 
  .Cells(StartRow:=1, StartColumn:=1, _ 
@@ -52,7 +52,7 @@ Use the  **[Count](Publisher.CellRange.Count.md)** property to return the number
 
 
 
-```
+```vb
 Sub NumberOfTableCells() 
  MsgBox ActiveDocument.Pages(1).Shapes(1).Table _ 
  .Cells.Count 

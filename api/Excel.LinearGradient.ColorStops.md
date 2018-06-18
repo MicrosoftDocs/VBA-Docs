@@ -31,8 +31,5 @@ ColorStops
 ## See also
 
 
-#### Concepts
-
-
 [LinearGradient Object](Excel.LinearGradient.md)
 

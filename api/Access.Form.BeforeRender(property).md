@@ -41,8 +41,5 @@ Forms(0).BeforeRender = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

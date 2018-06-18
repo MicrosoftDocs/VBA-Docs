@@ -23,9 +23,6 @@ Retrieves the count of the number of  **EffectParameter** objects contained with
 ## See also
 
 
-#### Concepts
-
-
 [EffectParameters Object](effectparameters-object-office.md)
 #### Other resources
 

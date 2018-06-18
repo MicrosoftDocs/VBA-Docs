@@ -59,8 +59,5 @@ Given a value for probability, GAMMAINV seeks that value x such that GAMMADIST(x
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

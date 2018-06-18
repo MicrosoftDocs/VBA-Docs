@@ -33,8 +33,5 @@ Don't confuse this property with the  **[FormulaHidden](Excel.Range.FormulaHidde
 ## See also
 
 
-#### Concepts
-
-
 [Scenario Object](Excel.Scenario.md)
 

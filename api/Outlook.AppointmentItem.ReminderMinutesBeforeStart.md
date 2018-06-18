@@ -26,8 +26,5 @@ Returns or sets a  **Long** indicating the number of minutes the reminder should
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

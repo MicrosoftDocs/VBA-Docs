@@ -33,8 +33,5 @@ Some  **WdLanguageID** constants may not be available to you, depending on the l
 ## See also
 
 
-#### Concepts
-
-
 [Dictionary Object](Word.Dictionary.md)
 

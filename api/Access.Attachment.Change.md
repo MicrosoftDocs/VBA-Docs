@@ -51,8 +51,5 @@ The Change event doesn't occur when a value changes in a calculated control.
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

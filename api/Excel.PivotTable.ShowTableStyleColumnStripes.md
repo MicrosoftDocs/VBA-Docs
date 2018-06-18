@@ -26,8 +26,5 @@ The  **ShowTableStyleColumnStripes** property displays banded columns in which e
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

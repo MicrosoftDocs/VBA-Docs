@@ -39,8 +39,5 @@ Nothing
 ## See also
 
 
-#### Concepts
-
-
 [Sparkline Object](Excel.Sparkline.md)
 

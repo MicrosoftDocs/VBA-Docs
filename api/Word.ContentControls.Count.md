@@ -26,8 +26,5 @@ Returns the number of items in the  **ContentControls** collection. Read-only **
 ## See also
 
 
-#### Concepts
-
-
 [ContentControls Collection](Word.ContentControls.md)
 

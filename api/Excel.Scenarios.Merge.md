@@ -44,8 +44,5 @@ The value of a merged range is specified in the cell of the range's upper-left c
 ## See also
 
 
-#### Concepts
-
-
 [Scenarios Object](Excel.Scenarios.md)
 

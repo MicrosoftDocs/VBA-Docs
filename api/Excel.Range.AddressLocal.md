@@ -60,8 +60,5 @@ MsgBox mc.AddressLocal(ReferenceStyle:=xlR1C1, _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

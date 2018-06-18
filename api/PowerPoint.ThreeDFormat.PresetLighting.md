@@ -31,8 +31,5 @@ MsoLightRigType
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 

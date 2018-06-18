@@ -84,8 +84,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [NoteItem Object](Outlook.NoteItem.md)
 

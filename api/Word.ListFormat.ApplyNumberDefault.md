@@ -41,7 +41,7 @@ If the paragraphs are already formatted as a numbered list, this method removes 
 This example numbers the paragraphs in the selection. If the selection is already a numbered list, the example removes the numbers and formatting.
 
 
-```
+```vb
 Selection.Range.ListFormat.ApplyNumberDefault
 ```
 
@@ -62,9 +62,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ListFormat Object](Word.ListFormat.md)

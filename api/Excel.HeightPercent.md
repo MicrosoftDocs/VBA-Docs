@@ -21,7 +21,7 @@ Returns or sets the height of a 3-D chart as a percentage of the chart width (be
 This example sets the height of the chart to 80 percent of its width. The example should be run on a 3-D chart.
 
 
-```
+```vb
 myChart.HeightPercent = 80
 ```
 

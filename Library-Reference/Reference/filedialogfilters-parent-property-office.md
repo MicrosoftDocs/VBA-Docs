@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [FileDialogFilters Object](filedialogfilters-object-office.md)
 #### Other resources
 

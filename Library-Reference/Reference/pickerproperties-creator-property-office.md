@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **PickerPrope
 ## See also
 
 
-#### Concepts
-
-
 [PickerProperties Object](pickerproperties-object-office.md)
 #### Other resources
 

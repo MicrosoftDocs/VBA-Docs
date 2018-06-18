@@ -33,16 +33,13 @@ Loads the color scheme of a Microsoft Office theme from a file.
 The following example loads a theme color scheme from a file.
 
 
-```
+```vb
 ThemeColorScheme.Load ("C:\myThemeColorScheme.xml") 
 
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ThemeColorScheme Object](themecolorscheme-object-office.md)

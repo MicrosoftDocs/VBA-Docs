@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ChartCharacters Object](Word.ChartCharacters.md)
 

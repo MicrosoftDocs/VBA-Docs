@@ -48,8 +48,5 @@ Forms("International Shipping").Controls("Country").ScrollBarAlign = 2
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

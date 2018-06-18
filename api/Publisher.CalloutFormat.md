@@ -46,7 +46,7 @@ Use the  **[Callout](Publisher.Shape.Callout.md)** property to return a **Callou
 
 
 
-```
+```vb
 Sub AddFormatCallout() 
  With ActiveDocument.Pages(1).Shapes.AddCallout(Type:=msoCalloutOne, _ 
  Left:=150, Top:=150, Width:=200, Height:=100) 

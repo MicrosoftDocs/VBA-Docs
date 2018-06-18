@@ -68,7 +68,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Months Collection Object](Project.months.md)

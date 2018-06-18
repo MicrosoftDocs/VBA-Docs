@@ -45,8 +45,5 @@ If  _Custom_ parameter is **True** , only custom user properties will be searche
 ## See also
 
 
-#### Concepts
-
-
 [UserProperties Object](Outlook.UserProperties.md)
 

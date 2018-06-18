@@ -43,8 +43,5 @@ If you press an access key for a control such as a label that doesn't have a  **
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

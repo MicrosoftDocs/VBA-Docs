@@ -33,7 +33,7 @@ Use a  **Static** statement within a procedure to declare the data type of a var
 
 
 
-```
+```vb
 Static EmployeeNumber(200) As Integer 
 
 ```
@@ -42,7 +42,7 @@ The following statement declares a variable for a new instance of a worksheet:
 
 
 
-```
+```vb
 Static X As New Worksheet 
 
 ```

@@ -31,7 +31,7 @@ Moves the keyboard focus to the specified  **CommandBarPopup** control. If the p
 The following example sets a reference to an existing command bar popup and then resets it to its default state.
 
 
-```
+```vb
 Dim cbPopup As CommandBarPopup 
 Set cbPopup = Application.CommandBars.FindControl _ 
 (Type:=msoControlPopup, Tag:="Graphics") 
@@ -41,9 +41,6 @@ cbPopup.Reset
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarPopup Object](commandbarpopup-object-office.md)

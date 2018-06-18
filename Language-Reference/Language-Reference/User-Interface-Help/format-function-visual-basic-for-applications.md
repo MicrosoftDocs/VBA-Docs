@@ -139,7 +139,7 @@ The following example has two sections: the first defines the format for positiv
 
 
 
-```
+```vb
 "$#,##0;($#,##0)"
 ```
 
@@ -147,7 +147,7 @@ If you include semicolons with nothing between them, the missing section is prin
 
 
 
-```
+```vb
 "$#,##0;;\Z\e\r\o"
 ```
 

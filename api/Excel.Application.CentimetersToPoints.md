@@ -50,8 +50,5 @@ Worksheets("Sheet1").PageSetup.LeftMargin = _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

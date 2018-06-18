@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

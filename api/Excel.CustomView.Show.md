@@ -26,8 +26,5 @@ Displays the object.
 ## See also
 
 
-#### Concepts
-
-
 [CustomView Object](Excel.CustomView.md)
 

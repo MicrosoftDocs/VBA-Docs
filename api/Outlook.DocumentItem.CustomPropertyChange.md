@@ -64,8 +64,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

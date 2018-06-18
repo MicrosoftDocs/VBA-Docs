@@ -29,8 +29,5 @@ Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow
 ## See also
 
 
-#### Concepts
-
-
  [Font Object](Publisher.Font.md)
 

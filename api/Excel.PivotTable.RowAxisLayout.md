@@ -39,8 +39,5 @@ This method is atomic so it makes sure that if layout options cannot be set on a
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

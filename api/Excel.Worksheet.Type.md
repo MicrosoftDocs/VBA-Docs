@@ -26,8 +26,5 @@ Returns an  **[XlSheetType](Excel.XlSheetType.md)** value that represents the wo
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

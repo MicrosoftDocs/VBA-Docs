@@ -44,8 +44,5 @@ The following example sets the line spacing to 0.25 inches for the text box "Pur
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

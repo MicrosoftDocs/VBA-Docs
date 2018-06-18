@@ -27,7 +27,7 @@ Use the  **[Add](Word.Dictionaries.Add.md)** method to add a new custom dictiona
 
 
 
-```
+```vb
 CustomDictionaries.Add FileName:="MyCustom.dic"
 ```
 

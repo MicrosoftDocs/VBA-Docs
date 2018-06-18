@@ -37,7 +37,4 @@ Makes a copy of a group definition for the  **Views** collection and returns a r
 ## See also
 
 
-#### Concepts
-
-
 [Views Collection Object](Project.views(object).md)

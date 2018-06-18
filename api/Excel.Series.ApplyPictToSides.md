@@ -36,8 +36,5 @@ Charts(1).SeriesCollection(1).ApplyPictToSides = True
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

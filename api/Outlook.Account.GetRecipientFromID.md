@@ -44,8 +44,5 @@ This method is similar to the  **[GetRecipientFromID](Outlook.NameSpace.GetRecip
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

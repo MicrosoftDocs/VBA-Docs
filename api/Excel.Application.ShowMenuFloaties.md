@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to display **Mini toolbar
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

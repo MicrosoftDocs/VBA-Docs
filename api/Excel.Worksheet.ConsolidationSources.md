@@ -46,8 +46,5 @@ newSheet.Columns("A:B").AutoFit
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

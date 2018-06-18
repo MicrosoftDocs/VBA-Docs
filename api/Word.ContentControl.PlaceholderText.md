@@ -31,8 +31,5 @@ Use the  **[SetPlaceholderText](Word.ContentControl.SetPlaceholderText.md)** met
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

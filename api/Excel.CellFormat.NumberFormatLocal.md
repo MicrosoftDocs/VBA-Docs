@@ -31,8 +31,5 @@ The  **Format** function uses different format code strings than do the **[Numbe
 ## See also
 
 
-#### Concepts
-
-
 [CellFormat Object](Excel.CellFormat.md)
 

@@ -44,8 +44,5 @@ myRange.End = myRange.End - 1
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -26,8 +26,5 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

@@ -32,7 +32,7 @@ This property returns a string that contains the version number of the Exchange 
 
 
 
-```
+```vb
 <major version>.<minor version>.<build number>.<revision>
 ```
 
@@ -42,9 +42,6 @@ If an Exchange mailbox is not associated with this account, this property return
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Account Object](Outlook.Account.md)

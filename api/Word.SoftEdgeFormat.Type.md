@@ -26,8 +26,5 @@ Returns or sets an  **MsoBevelType** constant that represents the bevel type for
 ## See also
 
 
-#### Concepts
-
-
 [SoftEdgeFormat Object](Word.SoftEdgeFormat.md)
 

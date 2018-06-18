@@ -31,8 +31,5 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

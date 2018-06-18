@@ -23,8 +23,5 @@ Gets or sets the size of the font in points for a field used as a criterion in a
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

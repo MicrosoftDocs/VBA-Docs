@@ -26,8 +26,5 @@ Returns a  **[Walls](Word.Walls.md)** object that allows the user to individuall
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

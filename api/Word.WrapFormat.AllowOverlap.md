@@ -41,8 +41,5 @@ ActiveDocument.Shapes(1).WrapFormat.AllowOverlap = True
 ## See also
 
 
-#### Concepts
-
-
 [WrapFormat Object](Word.WrapFormat.md)
 

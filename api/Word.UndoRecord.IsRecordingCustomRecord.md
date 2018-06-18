@@ -45,8 +45,5 @@ objUndo.EndCustomRecord
 ## See also
 
 
-#### Concepts
-
-
 [UndoRecord Object](Word.UndoRecord.md)
 

@@ -38,7 +38,7 @@ When a linked unbound object is created, the control's  **SourceItem** property 
 
 
 
-```
+```vb
 "C:\Work\Qtr1\Revenue.xls!R1C1:R30C15"
 ```
 
@@ -66,9 +66,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ObjectFrame Object](Access.ObjectFrame.md)

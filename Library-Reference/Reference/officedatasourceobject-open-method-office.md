@@ -38,9 +38,6 @@ Opens a table in a  **OfficeDataSourceObject** object.
 ## See also
 
 
-#### Concepts
-
-
 [OfficeDataSourceObject Object](officedatasourceobject-object-office.md)
 #### Other resources
 

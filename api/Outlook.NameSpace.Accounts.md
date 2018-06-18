@@ -31,8 +31,5 @@ If Outlook is running in sessionless mode,  **Accounts** returns an **Accounts**
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

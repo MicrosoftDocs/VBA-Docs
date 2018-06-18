@@ -31,8 +31,5 @@ To set this property, specify an expression that returns a  **[Font](Word.Font.m
 ## See also
 
 
-#### Concepts
-
-
 [Replacement Object](Word.Replacement.md)
 

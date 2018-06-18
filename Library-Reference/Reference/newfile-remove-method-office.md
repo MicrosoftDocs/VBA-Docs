@@ -41,9 +41,6 @@ The arguments supplied to the  **Remove** method must match the arguments that w
 ## See also
 
 
-#### Concepts
-
-
 [NewFile Object](newfile-object-office.md)
 #### Other resources
 

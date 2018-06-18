@@ -41,7 +41,7 @@ If the specified parameter is set for a built-in control, the application can mo
 This example assigns a new parameter to a control and sets the focus to the new button.
 
 
-```
+```vb
 Set myControl = CommandBars("Custom").Controls(4) 
 With myControl 
     .Copy , 1 
@@ -52,9 +52,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarPopup Object](commandbarpopup-object-office.md)

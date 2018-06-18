@@ -21,7 +21,7 @@ Returns a  **[ChartGroup](Excel.ChartGroup(Graph object).md)** object that repre
 This example sets the space between bar clusters in the 3-D bar chart group to be 50 percent of the bar width.
 
 
-```
+```vb
 myChart.BarGroup3DGroup.GapWidth = 50
 ```
 

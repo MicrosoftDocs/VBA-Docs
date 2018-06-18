@@ -33,7 +33,7 @@ Set the  **SaveInterval** property to 0 (zero) to turn off saving AutoRecover in
 This example sets Word to save AutoRecover information for all open documents every five minutes.
 
 
-```
+```vb
 Options.SaveInterval = 5
 ```
 
@@ -42,7 +42,7 @@ This example prevents Word from saving AutoRecover information.
 
 
 
-```
+```vb
 Options.SaveInterval = 0
 ```
 
@@ -51,15 +51,12 @@ This example returns the current status of the  **Save AutoRecover info every** 
 
 
 
-```
+```vb
 temp = Options.SaveInterval
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

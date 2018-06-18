@@ -26,8 +26,5 @@ Returns or sets a  **[MsoLineStyle](http://msdn.microsoft.com/library/888c4d9c-a
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Excel.LineFormat.md)
 

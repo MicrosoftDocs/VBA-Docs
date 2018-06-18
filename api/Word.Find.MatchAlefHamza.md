@@ -36,8 +36,5 @@ Selection.Find.MatchAlefHamza = True
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

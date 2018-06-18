@@ -31,8 +31,5 @@ This property is most useful in programatically determining whether a document n
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

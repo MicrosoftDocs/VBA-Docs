@@ -31,8 +31,5 @@ The  **Text** property returns the plain, unformatted text of the selection or r
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 

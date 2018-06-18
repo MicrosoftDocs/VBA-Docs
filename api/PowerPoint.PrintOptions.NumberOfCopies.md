@@ -54,8 +54,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 

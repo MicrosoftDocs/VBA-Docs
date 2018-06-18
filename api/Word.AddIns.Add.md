@@ -56,8 +56,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Collection Object](Word.addins.md)
 

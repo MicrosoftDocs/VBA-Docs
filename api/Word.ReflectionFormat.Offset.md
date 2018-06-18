@@ -31,8 +31,5 @@ Single
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 

@@ -26,8 +26,5 @@ Returns a  **[Sort](Excel.Sort.md)** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

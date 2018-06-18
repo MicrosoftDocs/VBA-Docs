@@ -29,8 +29,5 @@ Returns the line fill-format type. Read-only.
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

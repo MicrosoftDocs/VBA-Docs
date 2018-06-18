@@ -37,8 +37,5 @@ myDocument.Shapes("WordArt 4").TextEffect.FontSize = 16
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 

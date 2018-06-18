@@ -43,8 +43,5 @@ Me.ctl.BorderShade=25
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

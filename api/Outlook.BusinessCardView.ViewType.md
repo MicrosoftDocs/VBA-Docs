@@ -26,8 +26,5 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that represents the
 ## See also
 
 
-#### Concepts
-
-
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 

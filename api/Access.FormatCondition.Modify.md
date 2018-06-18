@@ -45,8 +45,5 @@ Nothing
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Access.FormatCondition.md)
 

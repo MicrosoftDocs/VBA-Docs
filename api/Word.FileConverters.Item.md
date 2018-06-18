@@ -39,8 +39,5 @@ FileConverter
 ## See also
 
 
-#### Concepts
-
-
 [FileConverters Collection Object](Word.fileconverters.md)
 

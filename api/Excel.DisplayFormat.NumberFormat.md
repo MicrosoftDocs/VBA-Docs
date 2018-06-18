@@ -36,8 +36,5 @@ This property returns  **Null** if all cells in the specified range do not have 
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

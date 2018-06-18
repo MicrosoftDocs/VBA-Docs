@@ -54,9 +54,6 @@ myShape.Fill.ForeColor.RGB = RGB(80, 160, 130)
 ## See also
 
 
-#### Concepts
-
-
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
 

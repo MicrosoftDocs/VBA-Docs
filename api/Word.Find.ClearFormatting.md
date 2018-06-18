@@ -46,8 +46,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

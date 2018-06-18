@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of fields in the collection. Read
 ## See also
 
 
-#### Concepts
-
-
 [FormFields Collection Object](Word.formfields.md)
 

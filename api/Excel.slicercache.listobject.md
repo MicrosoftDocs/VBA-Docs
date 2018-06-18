@@ -29,8 +29,5 @@ Returns a  **ListObject** object for the[QueryTable Object (Excel)](querytable-o
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

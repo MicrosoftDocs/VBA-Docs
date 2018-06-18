@@ -33,8 +33,5 @@ This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection
 ## See also
 
 
-#### Concepts
-
-
 [RuleConditions Object](Outlook.RuleConditions.md)
 

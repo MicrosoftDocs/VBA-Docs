@@ -37,8 +37,5 @@ myDocument.Shapes(1).Adjustments(1) = 0.25
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

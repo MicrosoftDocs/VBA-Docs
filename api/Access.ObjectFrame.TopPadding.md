@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the object frame and its to
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

@@ -95,8 +95,5 @@ EuroConvert(1.47,"FRF","DEM",TRUE,3)
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

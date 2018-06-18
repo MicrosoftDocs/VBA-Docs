@@ -41,16 +41,13 @@ A concordance file is a Word document that contains a two-column table, with ter
 This example adds index entries to Thesis.doc based on the entries in C:\Documents\List.doc.
 
 
-```
+```vb
 Documents("Thesis.doc").Indexes.AutoMarkEntries _ 
  ConcordanceFileName:="C:\Documents\List.doc"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Indexes Collection Object](Word.indexes.md)

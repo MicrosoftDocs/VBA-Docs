@@ -31,8 +31,5 @@ The parent of the  **[Store](Outlook.Store.md)** object is the **[NameSpace](Out
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

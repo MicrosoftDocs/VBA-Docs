@@ -31,8 +31,5 @@ For more information about how to display a customized ribbon when loading a rep
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

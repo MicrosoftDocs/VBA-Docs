@@ -46,8 +46,5 @@ ActiveWorkbook.SendMail recipients:="Jean Selva"
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

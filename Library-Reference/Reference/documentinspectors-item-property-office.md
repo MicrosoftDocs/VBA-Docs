@@ -39,9 +39,6 @@ DocumentInspector
 ## See also
 
 
-#### Concepts
-
-
 [DocumentInspectors Object](documentinspectors-object-office.md)
 #### Other resources
 

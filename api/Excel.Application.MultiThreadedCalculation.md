@@ -26,8 +26,5 @@ Returns a  **MultiThreadedCalculation** object that controls the multi-threaded 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

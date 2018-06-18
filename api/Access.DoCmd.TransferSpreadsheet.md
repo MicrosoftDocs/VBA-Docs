@@ -55,7 +55,5 @@ DoCmd.TransferSpreadsheet acImport, 3, _
 
 ## See also
 
-#### Concepts
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that indicates whether the Reading Pane is 
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Excel.Trendline(objec).md)
 

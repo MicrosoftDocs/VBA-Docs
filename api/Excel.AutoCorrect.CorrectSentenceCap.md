@@ -36,8 +36,5 @@ Application.AutoCorrect.CorrectSentenceCap = True
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Excel.AutoCorrect(objec).md)
 

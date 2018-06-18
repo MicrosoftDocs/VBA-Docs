@@ -59,8 +59,5 @@ Next pvtField
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

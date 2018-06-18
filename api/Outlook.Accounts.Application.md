@@ -26,8 +26,5 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 ## See also
 
 
-#### Concepts
-
-
 [Accounts Object](Outlook.Accounts.md)
 

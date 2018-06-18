@@ -47,8 +47,5 @@ Set objSession = Application.Session
 ## See also
 
 
-#### Concepts
-
-
 [SimpleItems Object](Outlook.SimpleItems.md)
 

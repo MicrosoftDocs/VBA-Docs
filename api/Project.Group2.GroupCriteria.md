@@ -57,8 +57,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Group2 Object](Project.Group2.md)
 

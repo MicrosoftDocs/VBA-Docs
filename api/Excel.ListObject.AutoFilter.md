@@ -26,8 +26,5 @@ Filters a  **table** using the AutoFilter feature. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

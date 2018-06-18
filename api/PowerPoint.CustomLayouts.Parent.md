@@ -31,8 +31,5 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [CustomLayouts Object](PowerPoint.CustomLayouts.md)
 

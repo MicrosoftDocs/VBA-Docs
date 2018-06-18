@@ -33,7 +33,7 @@ For information about returning a single member of a collection, see [Returning 
 This example sets the numbering style for table captions.
 
 
-```
+```vb
 CaptionLabels(wdCaptionTable).NumberStyle = _ 
  wdCaptionNumberStyleLowercaseRoman
 ```
@@ -53,9 +53,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

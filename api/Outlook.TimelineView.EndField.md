@@ -31,8 +31,5 @@ The values of the  **[StartField](Outlook.TimelineView.StartField.md)** and **En
 ## See also
 
 
-#### Concepts
-
-
 [TimelineView Object](Outlook.TimelineView.md)
 

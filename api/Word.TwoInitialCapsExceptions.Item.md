@@ -39,8 +39,5 @@ TwoInitialCapsException
 ## See also
 
 
-#### Concepts
-
-
 [TwoInitialCapsExceptions Collection Object](Word.twoinitialcapsexceptions.md)
 

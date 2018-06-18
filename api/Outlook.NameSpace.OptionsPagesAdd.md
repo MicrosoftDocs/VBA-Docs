@@ -44,8 +44,5 @@ Your program handles this event to add a custom property page. The property page
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

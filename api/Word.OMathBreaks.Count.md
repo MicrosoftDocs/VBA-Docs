@@ -26,8 +26,5 @@ Returns the number of items in the  **OMathBreaks** collection. Read-only **Long
 ## See also
 
 
-#### Concepts
-
-
 [OMathBreaks Collection](Word.OMathBreaks.md)
 

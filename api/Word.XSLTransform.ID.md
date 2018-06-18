@@ -26,8 +26,5 @@ Returns a  **String** containing the GUID assigned to the current[XSLTransform](
 ## See also
 
 
-#### Concepts
-
-
 [XSLTransform Object](Word.XSLTransform.md)
 

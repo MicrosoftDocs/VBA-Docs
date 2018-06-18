@@ -26,8 +26,5 @@ Clears the formatting of the object.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Word.Point.md)
 

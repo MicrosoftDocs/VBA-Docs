@@ -72,8 +72,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Rectangle Object](Access.Rectangle.md)
 

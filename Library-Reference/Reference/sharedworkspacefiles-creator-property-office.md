@@ -38,9 +38,6 @@ The  **Creator** property always returns the numeric identifier for the active a
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFiles Object](sharedworkspacefiles-object-office.md)
 #### Other resources
 

@@ -35,8 +35,5 @@ If the  **TaskRequestUpdateItem** object is created in a version of Microsoft Ou
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

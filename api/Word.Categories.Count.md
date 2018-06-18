@@ -26,8 +26,5 @@ Returns the number of items in the  **Categories** collection. Read-only **Long*
 ## See also
 
 
-#### Concepts
-
-
 [Categories Object](Word.Categories.md)
 

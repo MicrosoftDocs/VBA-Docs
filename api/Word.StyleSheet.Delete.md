@@ -26,8 +26,5 @@ Deletes the specified cascading style sheet.
 ## See also
 
 
-#### Concepts
-
-
 [StyleSheet Object](Word.StyleSheet.md)
 

@@ -42,8 +42,5 @@ Application.ActivePresentation.Slides(1).Shapes(2).TextFrame _
 ## See also
 
 
-#### Concepts
-
-
 [TabStops Object](PowerPoint.TabStops.md)
 

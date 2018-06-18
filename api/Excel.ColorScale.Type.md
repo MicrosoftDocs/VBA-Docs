@@ -31,8 +31,5 @@ This property will always return a  **Long** value of "3", which is equivalent t
 ## See also
 
 
-#### Concepts
-
-
 [ColorScale Object](Excel.ColorScale.md)
 

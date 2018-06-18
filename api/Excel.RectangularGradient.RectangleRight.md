@@ -44,8 +44,5 @@ Works with RectangleLeft, RectangleTop, and RectangleBottom. Valid values are li
 ## See also
 
 
-#### Concepts
-
-
 [RectangularGradient Object](Excel.RectangularGradient.md)
 

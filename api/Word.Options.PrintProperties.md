@@ -43,15 +43,12 @@ This example returns the current status of the  **Document properties** option o
 
 
 
-```
+```vb
 temp = Options.PrintProperties
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

@@ -33,8 +33,5 @@ If a store supports conversations, calling the  **GetConversation** method of an
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

@@ -31,8 +31,5 @@ This property can be set to a value between 2 and 20. If this property is set to
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

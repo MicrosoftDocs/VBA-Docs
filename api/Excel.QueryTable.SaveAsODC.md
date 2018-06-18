@@ -36,8 +36,5 @@ Saves the QueryTable cache source as an Microsoft Office Data Connection file.
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

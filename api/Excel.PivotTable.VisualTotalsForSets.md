@@ -38,8 +38,5 @@ In a PivotTable based on an OLAP data source, you can configure whether totals f
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -26,7 +26,7 @@ Each chart sheet is represented by a  **Chart** object. This does not include ch
 Use the  **[Charts](Excel.Workbook.Charts.md)** property to return the **Charts** collection. The following example prints all chart sheets in the active workbook.
 
 
-```
+```vb
 Charts.PrintOut
 ```
 
@@ -35,7 +35,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/370a8ab0-4c65-4a2f-c671-9b565
 
 
 
-```
+```vb
 Charts.Add After:=Worksheets("Sheet1")
 ```
 
@@ -44,7 +44,7 @@ You can combine the  **Add** method with the **[ChartWizard](Excel.Chart.ChartWi
 
 
 
-```
+```vb
 With Charts.Add 
  .ChartWizard source:=Worksheets("Sheet1").Range("A1:A20"), _ 
  Gallery:=xlLine, Title:="February Data" 
@@ -56,7 +56,7 @@ Use  **Charts** ( _index_ ), where _index_ is the chart-sheet index number or na
 
 
 
-```
+```vb
 Charts(1).SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbRed
 ```
 

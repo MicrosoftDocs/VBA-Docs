@@ -67,8 +67,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

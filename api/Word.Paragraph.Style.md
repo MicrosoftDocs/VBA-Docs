@@ -57,8 +57,5 @@ Next i
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

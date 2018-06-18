@@ -16,7 +16,7 @@ A collection of  **[RecentFile](Word.RecentFile.md)** objects that represents th
 Use the  **RecentFiles** property to return the **RecentFiles** collection. The following example sets five as the maximum number of files that the **RecentFiles** collection can contain.
 
 
-```
+```vb
 RecentFiles.Maximum = 5
 ```
 

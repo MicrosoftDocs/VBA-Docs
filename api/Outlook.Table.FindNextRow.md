@@ -38,8 +38,5 @@ If  **FindNextRow** finds a row, it will position the current row to that row. I
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Outlook.Table.md)
 

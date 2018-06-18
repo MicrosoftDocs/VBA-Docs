@@ -43,8 +43,5 @@ Adds a new web video to the document.
 ## See also
 
 
-#### Concepts
-
-
 [InlineShapes Collection](Word.inlineshapes.md)
 

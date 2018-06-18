@@ -33,8 +33,5 @@ When the  **Enabled** property is **True**, the conditional format can be displa
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

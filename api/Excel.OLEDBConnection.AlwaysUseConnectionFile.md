@@ -31,8 +31,5 @@ When this property is  **True** the connection file will always be used to estab
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

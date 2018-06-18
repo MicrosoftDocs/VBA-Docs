@@ -85,7 +85,7 @@ For the project in Figure 1, if the  **Predecessors**,  **Driving Predecessors**
 
 
 
-```
+```vb
 Selected task ID 1, name: T1
     T2: PathSuccessor
     T2: PathDrivenSuccessor
@@ -118,9 +118,6 @@ Selected task ID 4, name: T4
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Task Object](Project.Task.md)

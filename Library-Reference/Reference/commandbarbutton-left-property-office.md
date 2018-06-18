@@ -26,9 +26,6 @@ Set or gets the horizontal position of the specified  **CommandBarButton** contr
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarButton Object](commandbarbutton-object-office.md)
 #### Other resources
 

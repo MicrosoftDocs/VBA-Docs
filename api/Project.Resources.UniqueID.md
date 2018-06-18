@@ -31,7 +31,4 @@ Gets a  **[Resource](Project.Resource.md)** object from its containing collectio
 ## See also
 
 
-#### Concepts
-
-
 [Resources Collection Object](Project.resources(object).md)

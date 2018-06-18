@@ -66,8 +66,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Screen Object](Access.Screen.md)
 

@@ -33,7 +33,7 @@ The  **[CanSave](PowerPoint.FileConverter.CanSave.md)** property returns **True*
 This example determines whether the first file converter is able to open files.
 
 
-```
+```vb
 If FileConverters(1).CanOpen = True Then
 
     MsgBox FileConverters(1).FormatName &; " can open files"
@@ -51,7 +51,7 @@ This example determines whether the WordPerfect6x file converter can be used to 
 
 
 
-```
+```vb
 If FileConverters("WordPerfect6x").CanOpen = True Then
     Documents.Open FileName:="C:\Test.wp", _
         Format:=FileConverters("WordPerfect6x").OpenFormat
@@ -60,9 +60,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FileConverter Object](PowerPoint.FileConverter.md)

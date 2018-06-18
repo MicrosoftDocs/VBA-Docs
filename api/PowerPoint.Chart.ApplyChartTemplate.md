@@ -39,8 +39,5 @@ This method does not support taking constants for native or combination charts.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

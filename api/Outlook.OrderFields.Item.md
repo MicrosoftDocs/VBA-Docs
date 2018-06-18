@@ -39,8 +39,5 @@ An  **OrderField** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [OrderFields Object](Outlook.OrderFields.md)
 

@@ -25,7 +25,7 @@ The following example applies a critical task filter to the active project.
 
 
 
-```
+```vb
 ActiveProject.TaskFilters("Critical").Apply
 ```
 

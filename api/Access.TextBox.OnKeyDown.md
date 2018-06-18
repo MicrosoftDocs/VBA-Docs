@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyDown
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

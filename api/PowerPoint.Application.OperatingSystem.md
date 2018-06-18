@@ -33,7 +33,7 @@ String
 This example tests the  **OperatingSystem** property to see whether Microsoft PowerPoint is running with a 32-bit version of Microsoft Windows.
 
 
-```
+```vb
 os = Application.OperatingSystem
 
 If InStr(os, "Windows (32-bit)") <> 0 Then
@@ -45,9 +45,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](PowerPoint.Application.md)

@@ -26,7 +26,7 @@ The required  _path_ [argument](vbe-glossary.md) is a [string expression](vbe-gl
 The  **ChDir** statement changes the default directory or folder but does not change the default drive. A different statement, **[ChDrive](chdrive-statement.md)**, changes the default drive. 
 
 
-```
+```vb
 ChDir "D:\TMP" ' Make "D:\TMP" the current folder. 
 
 ChDrive "D"    ' Make "D" the current drive. 
@@ -37,7 +37,7 @@ ChDrive "D"    ' Make "D" the current drive.
 On the Power Macintosh, the default drive always changes to the drive specified in  _path_. Full path specifications begin with the volume name, and relative paths begin with a colon ( **:** ). **ChDir** resolves any aliases specified in the path:
 
 
-```
+```vb
 ChDir "MacDrive:Tmp" ' On the Macintosh. 
 
 ```
@@ -46,7 +46,7 @@ ChDir "MacDrive:Tmp" ' On the Macintosh.
 Note that when making relative directory changes, different symbols are used in Microsoft Windows and on the Macintosh:
 
 
-```
+```vb
 ChDir ".." ' Moves up one directory in Microsoft Windows. 
 ChDir "::" ' Moves up one directory on the Macintosh.
 ```
@@ -59,7 +59,7 @@ On the Macintosh, the default drive name is "HD" and portions of the pathname ar
 
 This example uses the  **ChDir** statement to change the current directory or folder. If the default drive is C, then default drive remains C, even though the default folder changes to a folder on drive D:
 
-```
+```vb
 ' Assume "C:" is the current drive. The following statement changes 
 ' the default directory on drive "D:". "C:" remains the current drive. 
 ChDir "D:\WINDOWS\SYSTEM" 

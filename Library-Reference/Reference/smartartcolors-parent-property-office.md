@@ -23,9 +23,6 @@ Returns the calling object. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtColors Object](smartartcolors-object-office.md)
 #### Other resources
 

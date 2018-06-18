@@ -37,8 +37,5 @@ Returns 0.5 less than the standard normal cumulative distribution.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

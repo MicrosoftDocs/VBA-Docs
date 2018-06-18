@@ -62,8 +62,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 

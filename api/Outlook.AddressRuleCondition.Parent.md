@@ -31,8 +31,5 @@ The parent object is the  **[RuleCondition](Outlook.RuleCondition.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 

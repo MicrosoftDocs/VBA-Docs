@@ -29,8 +29,5 @@ Returns or sets a  **Single** that represents the blur level for a shadow format
 ## See also
 
 
-#### Concepts
-
-
  [ShadowFormat Object](Publisher.ShadowFormat.md)
 

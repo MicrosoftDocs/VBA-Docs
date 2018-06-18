@@ -31,8 +31,5 @@ The  **ExchangeStoreType** property distinguishes among different Exchange store
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

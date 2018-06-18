@@ -46,8 +46,5 @@ In Datasheet View or Print Preview, changes made using the  **Move** method are 
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

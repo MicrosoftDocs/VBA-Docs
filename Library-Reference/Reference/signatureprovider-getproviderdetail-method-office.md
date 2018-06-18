@@ -55,7 +55,7 @@ The  **SignatureProvider** object is used exclusively in custom signature provid
 The following example, written in C#, shows the implementation of the  **GetProviderDetail** method in a custom signature provider project.
 
 
-```
+```vb
  public object GetProviderDetail(SignatureProviderDetail sigProvDetail) 
  { 
  switch (sigProvDetail) 
@@ -81,9 +81,6 @@ The following example, written in C#, shows the implementation of the  **GetProv
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureProvider Object](signatureprovider-object-office.md)

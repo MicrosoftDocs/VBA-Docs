@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Word.ShadowFormat.md)
 

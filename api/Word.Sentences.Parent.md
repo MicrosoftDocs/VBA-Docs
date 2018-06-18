@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Sent
 ## See also
 
 
-#### Concepts
-
-
 [Sentences Collection Object](Word.sentences.md)
 

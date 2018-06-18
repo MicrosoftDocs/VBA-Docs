@@ -52,8 +52,5 @@ DoCmd.DeleteObject acTable, "Former Employees Table"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

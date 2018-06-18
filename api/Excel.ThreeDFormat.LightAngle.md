@@ -23,8 +23,5 @@ Returns or sets the angle of the extrusion lights set on a  **ThreeDFormat** obj
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

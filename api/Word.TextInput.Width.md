@@ -26,8 +26,5 @@ Returns or sets the width, in points, of the specified text input field. Read/wr
 ## See also
 
 
-#### Concepts
-
-
 [TextInput Object](Word.TextInput.md)
 

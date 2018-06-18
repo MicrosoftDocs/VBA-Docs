@@ -36,8 +36,5 @@ ThisWorkbook.Connections(1).Reconnect
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

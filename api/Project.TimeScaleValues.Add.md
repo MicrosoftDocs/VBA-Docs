@@ -37,7 +37,4 @@ Adds a  **TimeScaleValue** object to a **TimeScaleValues** collection.
 ## See also
 
 
-#### Concepts
-
-
 [TimeScaleValues Collection Object](Project.timescalevalues.md)

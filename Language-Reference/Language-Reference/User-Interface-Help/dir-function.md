@@ -46,7 +46,7 @@ Since the Macintosh doesn't support the wildcards, use the file type to identify
 
 
 
-```
+```vb
 Dir("SomePath", MacID("TEXT"))
 
 
@@ -56,7 +56,7 @@ To iterate over all files in a folder, specify an empty string:
 
 
 
-```
+```vb
 Dir("")
 
 ```

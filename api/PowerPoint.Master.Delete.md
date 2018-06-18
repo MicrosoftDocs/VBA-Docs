@@ -26,8 +26,5 @@ Deletes the specified  **Master** object.
 ## See also
 
 
-#### Concepts
-
-
 [Master Object](PowerPoint.Master.md)
 

@@ -46,8 +46,5 @@ ActiveDocument.Shapes(1).LayoutInCell = False
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

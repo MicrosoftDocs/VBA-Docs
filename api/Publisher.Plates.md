@@ -24,7 +24,7 @@ The  **Plates** collection is made up of **Plate** objects for the various publi
 
  
 
-```
+```vb
 Sub AddNewPlates() 
  Dim plts As Plates 
  Set plts = ActiveDocument.CreatePlateCollection(Mode:=pbColorModeSpot) 
@@ -43,7 +43,7 @@ Use the  **[EnterColorMode](http://msdn.microsoft.com/library/3c04275d-d274-f681
 
 
 
-```
+```vb
 Sub CreateSpotColorMode() 
  Dim plArray As Plates 
  

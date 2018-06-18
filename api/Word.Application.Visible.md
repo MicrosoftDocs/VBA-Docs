@@ -36,8 +36,5 @@ Application.Visible = False
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

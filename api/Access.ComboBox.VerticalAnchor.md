@@ -31,8 +31,5 @@ The default value is  **acVerticalAnchorTop**.
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

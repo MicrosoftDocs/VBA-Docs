@@ -30,7 +30,7 @@ Use  **[Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3
 The following Visual Basic for Applications (VBA) example returns a new contact.
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olContactItem)
 ```
 

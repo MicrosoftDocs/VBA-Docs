@@ -21,7 +21,7 @@ Returns a  **[TickLabels](Excel.TickLabels(Graph object).md)** collection that r
 This example sets the color of the tick-mark label font for the value axis.
 
 
-```
+```vb
 myChart.Axes(xlValue).TickLabels.Font.ColorIndex = 3
 ```
 

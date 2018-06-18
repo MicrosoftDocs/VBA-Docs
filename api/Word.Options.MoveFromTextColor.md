@@ -26,8 +26,5 @@ Returns or sets a  **[WdColorIndex](Word.WdColorIndex.md)** constant that repres
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

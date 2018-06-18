@@ -49,8 +49,5 @@ ActiveChart.ShowReportFilterFieldButtons = True
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -64,8 +64,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 

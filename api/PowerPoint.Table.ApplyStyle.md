@@ -35,8 +35,5 @@ Applies a table style to the specified table.
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](PowerPoint.Table.md)
 

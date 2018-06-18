@@ -19,7 +19,7 @@ When you create a form region in a custom form for mail or post items, by defaul
 The following example disables the inspector from displaying a form region when in read mode:
 
 
-```
+```vb
 <showInspectorRead>false</showInspectorRead>
 ```
 

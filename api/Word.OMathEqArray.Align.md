@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** that
 ## See also
 
 
-#### Concepts
-
-
 [OMathEqArray Object](Word.OMathEqArray.md)
 

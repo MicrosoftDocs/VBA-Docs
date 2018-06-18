@@ -30,7 +30,7 @@ For Microsoft Outlook 2000 and later, the  **Shortcuts** pane is the only pane t
 The following Visual Basic for Applications (VBA) example retrieves the  **Panes** object from an **Explorer** object.
 
 
-```
+```vb
 Set myPanes = myExplorer.Panes
 ```
 
@@ -39,7 +39,7 @@ The following example retrieves the  **[OutlookBarPane](Outlook.OutlookBarPane.m
 
 
 
-```
+```vb
 Set myOLBarPane = myExplorer.Panes.Item("OutlookBar") 
 
 ```

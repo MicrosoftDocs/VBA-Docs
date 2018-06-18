@@ -41,8 +41,5 @@ ActiveDocument.Paragraphs(1).OpenOrCloseUp
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

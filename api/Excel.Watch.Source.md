@@ -31,8 +31,5 @@ If the  **SourceType** property is set to **xlSourceRange** , this property retu
 ## See also
 
 
-#### Concepts
-
-
 [Watch Object](Excel.Watch.md)
 

@@ -51,8 +51,5 @@ Worksheets("Sheet1").Rows(2).VerticalAlignment = xlVAlignCenter
 ## See also
 
 
-#### Concepts
-
-
 [CellFormat Object](Excel.CellFormat.md)
 

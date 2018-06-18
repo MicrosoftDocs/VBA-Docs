@@ -48,8 +48,5 @@ ActiveWindow.Selection.ShapeRange.Regroup
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

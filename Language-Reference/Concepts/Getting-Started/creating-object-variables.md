@@ -84,7 +84,7 @@ Setting an object variable equal to  **Nothing** discontinues the association of
 
 
 
-```
+```vb
 If Not MyObject Is Nothing Then 
  ' Variable refers to valid object. 
  . . . 
@@ -111,7 +111,7 @@ You can call the procedure and pass the current instance of the object as an arg
 
 
 
-```
+```vb
 ChangeObjectColor Me 
 
 ```

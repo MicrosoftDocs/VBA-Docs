@@ -36,8 +36,5 @@ The  **ControlSource** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

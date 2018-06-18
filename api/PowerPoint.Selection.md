@@ -21,7 +21,7 @@ Represents the selection in the specified document window. The  **Selection** ob
 Use the [Selection](http://msdn.microsoft.com/library/3773ff08-043d-2b57-25ea-ba44cc30c77a%28Office.15%29.aspx)property to return the  **Selection** object. The following example places a copy of the selection in the active window on the Clipboard.
 
 
-```
+```vb
 ActiveWindow.Selection.Copy
 ```
 
@@ -32,7 +32,7 @@ The following example sets the fill foreground color for the selected shapes in 
 
 
 
-```
+```vb
 With Windows(2).Selection.ShapeRange.Fill
 
     .Visible = True
@@ -47,7 +47,7 @@ The following example sets the text in the first selected shape in window two if
 
 
 
-```
+```vb
 With Windows(2).Selection.ShapeRange(1)
 
     If .HasTextFrame Then
@@ -64,7 +64,7 @@ The following example cuts the selected text in the active window and places it 
 
 
 
-```
+```vb
 ActiveWindow.Selection.TextRange.Cut
 ```
 
@@ -73,7 +73,7 @@ The following example duplicates all the slides in the selection (if you're in s
 
 
 
-```
+```vb
 ActiveWindow.Selection.SlideRange.Duplicate
 ```
 
@@ -82,7 +82,7 @@ If you don't have an object of the appropriate type selected when you use one of
 
 
 
-```
+```vb
 With Windows(2).Selection
 
     If .Type = ppSelectionSlides Then

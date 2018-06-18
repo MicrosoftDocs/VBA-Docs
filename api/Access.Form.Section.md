@@ -86,8 +86,5 @@ Forms!Customers.Section(3).Visible
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

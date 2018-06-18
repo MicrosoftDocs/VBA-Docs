@@ -31,8 +31,5 @@ You can specify the type and value of the evaluation by using the  **[Type](Exce
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

@@ -66,7 +66,7 @@ Once an object is activated, you reference it in code using the object variable 
 
 
 
-```
+```vb
 MyObject.Line 9, 90
 MyObject.InsertText 9, 100, "Hello, world."
 MyObject.SaveAs "C:\DRAWINGS\SAMPLE.DRW"

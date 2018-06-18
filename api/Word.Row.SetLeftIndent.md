@@ -58,8 +58,5 @@ tableNew.Rows(1).SetLeftIndent LeftIndent:=InchesToPoints(0.5), _
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

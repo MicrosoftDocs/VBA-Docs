@@ -34,16 +34,13 @@ Gets a  **CommandBar** object that represents the menu displayed by the specifie
 This example sets the variable fourthLevel to the fourth control on the command bar named "Drawing."
 
 
-```
+```vb
 Set fourthLevel = CommandBars("Drawing") _ 
     .Controls(1).CommandBar.Controls(4)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarPopup Object](commandbarpopup-object-office.md)

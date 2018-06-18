@@ -26,8 +26,5 @@ Prints the Outlook item using all default settings. The  **PrintOut** method is 
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

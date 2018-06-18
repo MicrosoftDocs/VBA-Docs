@@ -46,8 +46,5 @@ Selection.Range.TCSCConverter _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

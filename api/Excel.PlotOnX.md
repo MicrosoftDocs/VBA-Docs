@@ -21,7 +21,7 @@ Returns or sets the index of the data sheet row whose contents are to be used as
 This example sets row 0 as the row whose contents will be plotted as values on the X-axis in  `myChart`.
 
 
-```
+```vb
 myChart.PlotOnX = 0 
 
 ```

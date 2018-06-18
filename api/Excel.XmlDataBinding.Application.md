@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 

@@ -66,8 +66,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 

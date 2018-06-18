@@ -26,8 +26,5 @@ Returns a  **Boolean** that indicates **true** if the recipient cannot forward t
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

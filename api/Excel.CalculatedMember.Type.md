@@ -26,8 +26,5 @@ Returns a  **[XlCalculatedMemberType](Excel.XlCalculatedMemberType.md)** value t
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

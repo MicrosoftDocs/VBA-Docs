@@ -36,8 +36,5 @@ Version Added: Outlook 2013
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

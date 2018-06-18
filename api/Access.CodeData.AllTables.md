@@ -26,8 +26,5 @@ You can use the  **AllTables** property to reference the **[AllTables](Access.Al
 ## See also
 
 
-#### Concepts
-
-
 [CodeData Object](Access.CodeData.md)
 

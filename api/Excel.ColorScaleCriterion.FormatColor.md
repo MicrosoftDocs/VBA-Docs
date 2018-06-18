@@ -31,8 +31,5 @@ You can set the color of the minimum, midpoint, or maximum thresholds to any cus
 ## See also
 
 
-#### Concepts
-
-
 [ColorScaleCriterion Object](Excel.ColorScaleCriterion.md)
 

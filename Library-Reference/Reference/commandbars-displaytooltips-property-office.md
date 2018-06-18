@@ -39,7 +39,7 @@ Setting the  **DisplayTooltips** property in a container application immediately
 This example displays large controls and ToolTips on all command bars.
 
 
-```
+```vb
 Set allBars = CommandBars 
  
 allBars.LargeButtons = True  
@@ -49,9 +49,6 @@ allBars.DisplayTooltips = True
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

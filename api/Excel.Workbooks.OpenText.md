@@ -95,8 +95,5 @@ Workbooks.OpenText filename:="DATA.TXT", _
 ## See also
 
 
-#### Concepts
-
-
 [Workbooks Object](Excel.Workbooks.md)
 

@@ -71,8 +71,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMembers Collection](Excel.CalculatedMembers.md)
 

@@ -61,8 +61,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Slicers Object](Excel.Slicers.md)
 

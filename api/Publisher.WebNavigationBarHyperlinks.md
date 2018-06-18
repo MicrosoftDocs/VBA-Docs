@@ -24,7 +24,7 @@ Use the  **Links** property of the **WebNavigationBarSets** collection to return
 
  
 
-```
+```vb
 Dim objWebNavLinks As WebNavigationBarHyperlinks 
 Set objWebNavLinks = ActiveDocument.WebNavigationBarSets(1).Links 
 objWebNavLinks.Add Address:="www.microsoft.com", _ 
@@ -38,7 +38,7 @@ Use  **WebNavigationBarHyperlinks** **.Count** to return a Long representing the
 
 
 
-```
+```vb
 MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Count
 ```
 
@@ -49,7 +49,7 @@ Use  **WebNavigationBarHyperlinks**.Item(index), where index is the index number
 
 
 
-```
+```vb
 MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Item(1).TextToDisplay
 ```
 

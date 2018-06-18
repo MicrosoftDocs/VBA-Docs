@@ -35,7 +35,7 @@ The following examples describe how to:
 Use  **Shapes.Range** (index), where index is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on `myDocument`.
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 myDocument.Shapes.Range(Array(1, 3)).Fill _
@@ -48,7 +48,7 @@ The following example sets the fill pattern for the shapes named "Oval 4" and "R
 
 
 
-```
+```vb
 Set myDocument = ActivePresentation.Slides(1)
 
 Set myRange = myDocument.Shapes _
@@ -65,7 +65,7 @@ Use the [ShapeRange](http://msdn.microsoft.com/library/3fd7aed0-ab63-adaa-1a46-c
 
 
 
-```
+```vb
 Windows(1).Selection.ShapeRange.Fill.ForeColor _
 
     .RGB = RGB(255, 0, 255)
@@ -76,7 +76,7 @@ Use  **Selection.ShapeRange** (index), where index is the shape name or the inde
 
 
 
-```
+```vb
 Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 
     .RGB = RGB(255, 0, 255)

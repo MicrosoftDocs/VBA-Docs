@@ -77,8 +77,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

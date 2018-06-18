@@ -23,9 +23,6 @@ Gets or sets the amount of blur, measured in points, of the shape's reflection i
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](reflectionformat-object-office.md)
 #### Other resources
 

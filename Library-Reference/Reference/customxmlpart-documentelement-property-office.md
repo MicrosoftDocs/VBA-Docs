@@ -31,9 +31,6 @@ CustomXMLNode
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLPart Object](customxmlpart-object-office.md)
 #### Other resources
 

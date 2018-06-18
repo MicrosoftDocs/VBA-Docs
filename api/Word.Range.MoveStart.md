@@ -61,8 +61,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

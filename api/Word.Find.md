@@ -51,7 +51,7 @@ If you've gotten to the  **Find** object from the **Selection** object, the sele
 
 
 
-```
+```vb
 Selection.Find.Execute FindText:="blue", Forward:=True
 ```
 

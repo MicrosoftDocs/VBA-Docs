@@ -65,8 +65,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [SyncObjects Object](Outlook.SyncObjects.md)
 

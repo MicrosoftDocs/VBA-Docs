@@ -26,8 +26,5 @@ Returns a  **[HeadingStyles](Word.headingstyles.md)** object that represents add
 ## See also
 
 
-#### Concepts
-
-
 [TableOfFigures Object](Word.TableOfFigures.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Cust
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperty Object](Word.CustomProperty.md)
 

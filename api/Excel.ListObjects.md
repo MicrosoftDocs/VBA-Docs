@@ -26,7 +26,7 @@ Use the  **[ListObjects](Excel.Worksheet.ListObjects.md)** property of the[Works
  The following example creates a new **ListObjects** collection which represents all the tables in a worksheet.
 
 
-```
+```vb
 Set myWorksheetLists = Worksheets(1).ListObjects
 ```
 

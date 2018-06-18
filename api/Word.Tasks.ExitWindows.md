@@ -33,7 +33,7 @@ This method does not save changes to open Microsoft Word documents; however, it 
 This example saves all open Word documents, closes Word, and then quits Microsoft Windows.
 
 
-```
+```vb
 Documents.Save NoPrompt:=True, _ 
  OriginalFormat:=wdOriginalDocumentFormat 
 Tasks.ExitWindows
@@ -41,9 +41,6 @@ Tasks.ExitWindows
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Tasks Collection Object](Word.tasks.md)

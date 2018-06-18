@@ -33,8 +33,5 @@ When the  **[LimitToList](Access.ComboBox.LimitToList.md)** property is set to *
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

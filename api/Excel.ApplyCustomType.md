@@ -190,7 +190,7 @@ Applies a standard or custom chart type to a chart.
 This example applies the line with the markers chart type.
 
 
-```
+```vb
 myChart.ApplyCustomType xlLineMarkers
 ```
 

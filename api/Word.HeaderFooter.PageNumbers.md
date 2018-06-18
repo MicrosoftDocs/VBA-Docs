@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [HeaderFooter Object](Word.HeaderFooter.md)
 

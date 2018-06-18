@@ -36,8 +36,5 @@ Worksheets(1).ResetAllPageBreaks
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

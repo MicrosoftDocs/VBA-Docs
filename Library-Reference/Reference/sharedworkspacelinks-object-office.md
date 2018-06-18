@@ -24,7 +24,7 @@ A collection of the  **[SharedWorkspaceLink](sharedworkspacelink-object-office.m
 Use the  **[Links](sharedworkspace-links-property-office.md)** property of the **[SharedWorkspace](sharedworkspace-object-office.md)** object to return a **SharedWorkspaceLinks** collection.
 
 
-```
+```vb
     Dim swsLinks As Office.SharedWorkspaceLinks 
     Set swsLinks = ActiveWorkbook.SharedWorkspace.Links 
     MsgBox "There are " &amp; swsLinks.Count &amp; _ 

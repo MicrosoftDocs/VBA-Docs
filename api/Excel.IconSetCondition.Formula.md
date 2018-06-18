@@ -31,8 +31,5 @@ This property is useful to limit the range of values that will display the condi
 ## See also
 
 
-#### Concepts
-
-
 [IconSetCondition Object](Excel.IconSetCondition.md)
 

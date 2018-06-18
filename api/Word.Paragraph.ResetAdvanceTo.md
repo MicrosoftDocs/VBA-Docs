@@ -31,8 +31,5 @@ Microsoft Word adjusts the numbering value to be used for numbering each list le
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

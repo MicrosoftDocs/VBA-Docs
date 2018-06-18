@@ -26,8 +26,5 @@ Returns or sets an  **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specify
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

@@ -26,8 +26,5 @@ You can use the  **Name** property to specify or determine the string expression
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

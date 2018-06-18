@@ -78,8 +78,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

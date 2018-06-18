@@ -31,8 +31,5 @@ The  **LayoutID** property returns 0 (zero) if the specified control is not part
 ## See also
 
 
-#### Concepts
-
-
 [EmptyCell Object](Access.EmptyCell.md)
 

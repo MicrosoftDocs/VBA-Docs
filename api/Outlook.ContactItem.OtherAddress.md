@@ -31,8 +31,5 @@ This property contains the full, unparsed other address for the contact.
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

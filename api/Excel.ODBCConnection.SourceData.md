@@ -39,8 +39,5 @@ This property is not available for OLE DB data sources.
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

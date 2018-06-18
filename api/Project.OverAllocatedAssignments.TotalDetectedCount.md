@@ -28,8 +28,5 @@ For an example that uses the  **TotalDetectedCount** property, see the **[Item](
 ## See also
 
 
-#### Concepts
-
-
 [OverAllocatedAssignments Collection Object](Project.overallocatedassignments.md)
 

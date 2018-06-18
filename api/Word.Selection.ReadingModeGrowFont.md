@@ -39,8 +39,5 @@ Use the  **[ReadingModeShrinkFont](Word.Selection.ReadingModeShrinkFont.md)** me
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

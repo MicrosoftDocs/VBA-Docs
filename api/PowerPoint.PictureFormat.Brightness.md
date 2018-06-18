@@ -48,8 +48,5 @@ myDocument.Shapes(1).PictureFormat.Brightness = 0.3
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 

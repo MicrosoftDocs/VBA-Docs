@@ -25,7 +25,7 @@ Tick-mark label text for the value axis is calculated based on the  **MajorUnit*
 Use the  **TickLabels** property to return the **TickLabels** object. The following example sets the number format for the tick-mark labels on the value axis in the chart.
 
 
-```
+```vb
 myChart.Axes(xlValue).TickLabels.NumberFormat = "0.00"
 ```
 

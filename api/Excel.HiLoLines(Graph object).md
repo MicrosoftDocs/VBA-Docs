@@ -21,7 +21,7 @@ Represents the high-low lines in the specified chart group. High-low lines conne
 Use the  **HiLoLines** property to return the **HiLoLines** object. The following example makes the high-low lines in chart group one in the chart blue.
 
 
-```
+```vb
 myChart.ChartGroups(1).HiLoLines.Border.Color = RGB(0, 0, 255)
 ```
 

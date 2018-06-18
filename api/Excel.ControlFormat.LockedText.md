@@ -36,8 +36,5 @@ Worksheets(1).ChartObjects(1).LockedText = True
 ## See also
 
 
-#### Concepts
-
-
 [ControlFormat Object](Excel.ControlFormat.md)
 

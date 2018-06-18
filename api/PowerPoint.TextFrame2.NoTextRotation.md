@@ -31,8 +31,5 @@ If  **MsoTriState** is set to msoTrue, the text remains horizontal.
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 

@@ -26,8 +26,5 @@ Returns a  **[MacroError](Access.MacroError.md)** object that contains informati
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

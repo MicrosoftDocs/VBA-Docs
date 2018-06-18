@@ -36,8 +36,5 @@ Workbooks(1).WebPagePreview
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

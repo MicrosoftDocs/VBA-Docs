@@ -56,8 +56,5 @@ References.AddFromGuid "{420B2830-E718-11CF-893D-00A0C9054228}", 1, 0
 ## See also
 
 
-#### Concepts
-
-
 [References Collection](Access.References.md)
 

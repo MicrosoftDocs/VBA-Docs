@@ -38,7 +38,7 @@ Use the  **[Disconnect](sharedworkspace-disconnect-method-office.md)** method to
 The following example determines whether the active document is connected to a shared workspace, then offers the user the option of removing the document from the workspace site.
 
 
-```
+```vb
     Dim r As Long 
     If ActiveWorkbook.SharedWorkspace.Connected Then 
         r = MsgBox("Are you sure you want to remove this document?", _ 
@@ -60,9 +60,6 @@ The following example determines whether the active document is connected to a s
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspace Object](sharedworkspace-object-office.md)

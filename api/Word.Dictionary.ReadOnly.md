@@ -31,8 +31,5 @@ The active grammar, hyphenation, spelling, and thesaurus dictionaries are read-o
 ## See also
 
 
-#### Concepts
-
-
 [Dictionary Object](Word.Dictionary.md)
 

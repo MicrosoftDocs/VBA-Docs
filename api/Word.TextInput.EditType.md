@@ -53,8 +53,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TextInput Object](Word.TextInput.md)
 

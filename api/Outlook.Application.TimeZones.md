@@ -31,8 +31,5 @@ The set of time zones supported by Outlook is based on the data stored in the Wi
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

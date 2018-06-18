@@ -36,8 +36,5 @@ This property only applies to OLAP data sources.
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

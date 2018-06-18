@@ -31,8 +31,5 @@ ms.date: 06/08/2017
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

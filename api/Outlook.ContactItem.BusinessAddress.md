@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the whole, unparsed business address 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

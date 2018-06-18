@@ -26,8 +26,5 @@ Returns or sets the display unit label text. Read/write  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 

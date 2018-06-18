@@ -41,8 +41,5 @@ ActiveDocument.Paragraphs(1).KeepTogether = True
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

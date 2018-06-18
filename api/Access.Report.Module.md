@@ -55,8 +55,5 @@ strFormOpenCode = "Sub Form_Open(Cancel As Integer)" _
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

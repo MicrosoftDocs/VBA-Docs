@@ -26,8 +26,5 @@ Returns or sets the width of the Word art text effects, in points. Read/write  *
 ## See also
 
 
-#### Concepts
-
-
 [TextColumns Collection Object](Word(textcolumns).md)
 

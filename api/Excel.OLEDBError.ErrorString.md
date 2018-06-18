@@ -26,8 +26,5 @@ Returns a  **String** value that represents the ODBC error string.
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBError Object](Excel.OLEDBError.md)
 

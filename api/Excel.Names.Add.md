@@ -69,8 +69,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Names Object](Excel.Names.md)
 

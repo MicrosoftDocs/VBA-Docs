@@ -45,8 +45,5 @@ For more information about AXL, see [[MS-AXL]: Access Application Transfer Proto
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

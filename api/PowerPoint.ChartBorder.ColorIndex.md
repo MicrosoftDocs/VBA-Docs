@@ -71,8 +71,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartBorder Object](PowerPoint.ChartBorder.md)
 

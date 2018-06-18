@@ -26,8 +26,5 @@ Occurs when the user clicks the drop button to expand the drop-down list in the 
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

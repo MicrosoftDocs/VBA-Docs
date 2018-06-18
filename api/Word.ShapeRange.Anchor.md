@@ -35,8 +35,5 @@ The shape will always remain on the same page as its anchor. If the  **LockAncho
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

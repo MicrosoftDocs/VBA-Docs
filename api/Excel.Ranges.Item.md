@@ -34,8 +34,5 @@ Returns a  **Range** object that represents a range of items in a workbook. Read
 ## See also
 
 
-#### Concepts
-
-
 [Ranges Object](Excel.Ranges.md)
 

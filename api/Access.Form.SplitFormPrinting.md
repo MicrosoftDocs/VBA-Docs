@@ -26,8 +26,5 @@ Gets or sets whether the contents of the form or the datasheet are printed when 
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

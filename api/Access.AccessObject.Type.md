@@ -26,8 +26,5 @@ Returns the value of an  **[AccessObject](Access.AccessObject.md)** object type.
 ## See also
 
 
-#### Concepts
-
-
 [AccessObject Object](Access.AccessObject.md)
 

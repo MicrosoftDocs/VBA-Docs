@@ -31,8 +31,5 @@ For an icon set conditional formatting rule, this property can be set to only on
 ## See also
 
 
-#### Concepts
-
-
 [IconCriterion Object](Excel.IconCriterion.md)
 

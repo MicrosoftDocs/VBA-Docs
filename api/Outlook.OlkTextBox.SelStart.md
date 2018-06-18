@@ -35,8 +35,5 @@ The  **SelStart** property is always valid, even when the control does not have 
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

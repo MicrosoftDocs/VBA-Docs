@@ -39,8 +39,5 @@ This event occurs when the selection state changes for a folder in the  **Calend
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 

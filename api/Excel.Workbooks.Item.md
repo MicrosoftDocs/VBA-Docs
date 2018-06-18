@@ -44,8 +44,5 @@ Set wb = Workbooks.Item("myaddin.xla")
 ## See also
 
 
-#### Concepts
-
-
 [Workbooks Object](Excel.Workbooks.md)
 

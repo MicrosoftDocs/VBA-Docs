@@ -26,8 +26,5 @@ Returns the index number of the object within the collection of similar objects.
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 

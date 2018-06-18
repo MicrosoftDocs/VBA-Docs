@@ -36,8 +36,5 @@ Worksheets("Sheet1").ShowAllData
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

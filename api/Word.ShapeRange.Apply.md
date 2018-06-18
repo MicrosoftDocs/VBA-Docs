@@ -31,8 +31,5 @@ If formatting for the  **ShapeRange** object has not previously been copied usin
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

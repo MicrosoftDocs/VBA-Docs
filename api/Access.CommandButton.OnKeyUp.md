@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyUp
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

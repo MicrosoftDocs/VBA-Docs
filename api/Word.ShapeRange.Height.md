@@ -26,8 +26,5 @@ Returns or sets the height of the specified shape range. Read/write  **Single** 
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

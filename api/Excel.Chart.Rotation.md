@@ -41,8 +41,5 @@ Charts("Chart1").Rotation = 30
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** value that represents the index number of the object within 
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](Excel.LegendEntry(objec).md)
 

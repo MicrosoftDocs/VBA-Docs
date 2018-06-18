@@ -37,8 +37,5 @@ You can create custom bitmaps by using Microsoft Paintbrush or another applicati
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

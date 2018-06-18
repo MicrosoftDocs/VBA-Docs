@@ -16,7 +16,7 @@ A collection of  **List** objects that represent all the lists in the specified 
 Use the  **Lists** property to return the **Lists** collection. The following example displays the number of items in each list in the active document.
 
 
-```
+```vb
 For Each li In ActiveDocument.Lists 
  MsgBox li.CountNumberedItems 
 Next li
@@ -27,7 +27,7 @@ Use  **Lists** (Index), where Index is the index number, to return a single **[L
 
 
 
-```
+```vb
 Set temp1 = ListGalleries(wdNumberGallery).ListTemplates(1) 
 ActiveDocument.Lists(2).ApplyListTemplate ListTemplate:=temp1
 ```
@@ -37,7 +37,7 @@ When you use a  **For Each** loop to enumerate the **Lists** collection, the lis
 
 
 
-```
+```vb
 For Each li In ActiveDocument.Lists 
  MsgBox li.CountNumberedItems 
 Next li

@@ -42,15 +42,12 @@ This example changes the page orientation for all the sections in the selection.
 
 
 
-```
+```vb
 Selection.PageSetup.TogglePortrait
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PageSetup Object](Word.PageSetup.md)

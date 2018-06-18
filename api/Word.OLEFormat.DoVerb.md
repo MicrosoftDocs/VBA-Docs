@@ -49,8 +49,5 @@ ActiveDocument.Shapes(1).OLEFormat.DoVerb
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Word.OLEFormat.md)
 

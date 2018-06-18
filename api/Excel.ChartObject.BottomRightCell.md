@@ -37,8 +37,5 @@ MsgBox "The bottom right corner is over cell " &; _
 ## See also
 
 
-#### Concepts
-
-
 [ChartObject Object](Excel.ChartObject.md)
 

@@ -40,8 +40,5 @@ Changing the value of this property for a given  **SolutionsModule** object chan
 ## See also
 
 
-#### Concepts
-
-
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 

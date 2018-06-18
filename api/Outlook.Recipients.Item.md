@@ -39,8 +39,5 @@ A  **Recipient** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Recipients Object](Outlook.Recipients.md)
 

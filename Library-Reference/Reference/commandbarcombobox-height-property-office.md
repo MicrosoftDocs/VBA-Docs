@@ -36,7 +36,7 @@ Integer
 This example adds a custom control to the command bar named Custom. The example sets the height of the custom control to twice the height of the command bar and sets the control's width to 50 pixels. Notice how the command bar automatically resizes itself to accommodate the control.
 
 
-```
+```vb
 Set myBar = CommandBars("Custom") 
 barHeight = myBar.Height 
 Set myControl = myBar.Controls _ 
@@ -52,9 +52,6 @@ myBar.Visible = True
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)

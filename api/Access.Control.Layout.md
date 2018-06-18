@@ -26,8 +26,5 @@ Returns the type of layout for the specified control. Read-only  **[AcLayoutType
 ## See also
 
 
-#### Concepts
-
-
 [Control Object](Access.Control.md)
 

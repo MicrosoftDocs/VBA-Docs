@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](PowerPoint.PageSetup.md)
 

@@ -26,8 +26,5 @@ Returns the  **[SheetViews](Excel.SheetViews.md)** object for the specified wind
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

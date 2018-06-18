@@ -40,8 +40,5 @@ If the presentation contains more than one section, you cannot delete the first 
 ## See also
 
 
-#### Concepts
-
-
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 

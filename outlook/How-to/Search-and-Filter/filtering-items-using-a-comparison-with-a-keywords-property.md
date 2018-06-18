@@ -17,7 +17,7 @@ The  **Categories** property of an item is of type **keywords** which can contai
  In a Jet query, you can only perform phrase-matching on a keywords property. You cannot perform starts-with or substring matching with a Jet query. Consider the following criteria for **[Table.Restrict](table-restrict-method-outlook.md)**: 
 
 
-```
+```vb
 string filter  = "[Categories] = 'Partner'"
 ```
 
@@ -29,7 +29,7 @@ This Jet query will return rows for items where the  **Categories** property for
 To overcome the limitations of keywords restrictions using the Jet query syntax, use DASL syntax which allows starts-with or substring restrictions. The following criteria string will find all items that contain  **Partner** as a category, as one of the words in a category, and as the beginning part of a word in the category, such as the category **Partnership**: 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr(34) _ 
 &; "urn:schemas-microsoft-com:office:office#Keywords" _ 
 &; Chr(34) &; " ci_startswith 'Partner'"
@@ -51,7 +51,7 @@ The DASL equivalence query:
 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr(34) _ 
 &; "urn:schemas-microsoft-com:office:office#Keywords" &; Chr(34) _ 
 &; " = 'Book'"

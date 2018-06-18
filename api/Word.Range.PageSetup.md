@@ -26,8 +26,5 @@ Returns a  **PageSetup** object that's associated with the specified range.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

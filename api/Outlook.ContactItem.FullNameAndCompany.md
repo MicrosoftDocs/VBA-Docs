@@ -26,8 +26,5 @@ Returns a  **String** representing the full name and company of the contact by c
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

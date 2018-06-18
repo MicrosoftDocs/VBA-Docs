@@ -28,15 +28,12 @@ Prevents Word from automatically adding captions to any type of item.
 This example prevents Word from automatically adding captions to any type of item.
 
 
-```
+```vb
 AutoCaptions.CancelAutoInsert
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [AutoCaptions Collection Object](Word.autocaptions.md)

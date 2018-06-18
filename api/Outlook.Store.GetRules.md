@@ -38,8 +38,5 @@ The order of the  **Rule** objects in the collection returned from **GetRules** 
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

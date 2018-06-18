@@ -31,8 +31,5 @@ Calling this method sets the  **[IsMarkedAsTask](Outlook.MailItem.IsMarkedAsTask
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

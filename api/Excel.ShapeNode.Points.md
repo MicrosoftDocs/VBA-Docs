@@ -52,9 +52,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroup Object](Excel.SparklineGroup.md)
 [ShapeNode Object](Excel.ShapeNode.md)
 

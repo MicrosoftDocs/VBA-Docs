@@ -31,8 +31,5 @@ You can set the  **Index** property to any numeric value to change the ordinal p
 ## See also
 
 
-#### Concepts
-
-
 [ContentControlListEntry Object](Word.ContentControlListEntry.md)
 

@@ -46,15 +46,12 @@ If the  **FirstLetterAutoAdd** property is **True** , abbreviations are automati
 This example adds the abbreviation addr. to the list of first-letter exceptions.
 
 
-```
+```vb
 AutoCorrect.FirstLetterExceptions.Add Name:="addr."
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FirstLetterExceptions Collection Object](Word.firstletterexceptions.md)

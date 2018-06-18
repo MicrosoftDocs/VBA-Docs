@@ -56,15 +56,12 @@ This example returns the current setting that Word uses for saving a document.
 
 
 
-```
+```vb
 Msgbox Application.DefaultSaveFormat
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

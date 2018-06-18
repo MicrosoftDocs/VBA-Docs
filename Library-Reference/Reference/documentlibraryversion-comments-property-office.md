@@ -33,7 +33,7 @@ A user can attach version comments through the document library user interface w
 The following example lists comments and other properties for each version of a shared document.
 
 
-```
+```vb
  Dim dlvVersions As Office.DocumentLibraryVersions 
  Dim dlvVersion As Office.DocumentLibraryVersion 
  Dim strVersionInfo As String 
@@ -58,9 +58,6 @@ The following example lists comments and other properties for each version of a 
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)

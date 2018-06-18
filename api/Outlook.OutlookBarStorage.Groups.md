@@ -36,8 +36,5 @@ Sub CountOlBarGroups()     Dim myOlBar As Outlook.OutlookBarPane     Dim myCount
 ## See also
 
 
-#### Concepts
-
-
 [OutlookBarStorage Object](Outlook.OutlookBarStorage.md)
 

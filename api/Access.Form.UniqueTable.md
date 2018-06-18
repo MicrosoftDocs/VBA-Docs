@@ -31,8 +31,5 @@ The  **UniqueTable** property identifies the "most many" table of a join.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

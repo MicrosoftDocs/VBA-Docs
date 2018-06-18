@@ -33,8 +33,5 @@ Occurs after the sheet table has been updated.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -50,8 +50,5 @@ Forms("Suppliers").ShortcutMenuBar = "Suppliers_Toolbar"
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

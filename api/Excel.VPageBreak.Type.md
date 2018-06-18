@@ -26,8 +26,5 @@ Returns or sets a  **[XlPageBreak](Excel.XlPageBreak.md)** value that represents
 ## See also
 
 
-#### Concepts
-
-
 [VPageBreak Object](Excel.VPageBreak.md)
 

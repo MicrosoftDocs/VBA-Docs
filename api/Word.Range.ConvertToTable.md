@@ -67,8 +67,5 @@ myRange.ConvertToTable Separator:=wdSeparateByParagraphs
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

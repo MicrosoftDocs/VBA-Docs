@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Auto
 ## See also
 
 
-#### Concepts
-
-
 [AutoCaption Object](Word.AutoCaption.md)
 

@@ -39,8 +39,5 @@ Reviewer
 ## See also
 
 
-#### Concepts
-
-
 [Reviewers Collection](Word.Reviewers.md)
 

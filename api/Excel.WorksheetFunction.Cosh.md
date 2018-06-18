@@ -47,8 +47,5 @@ The formula for the hyperbolic cosine is:
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

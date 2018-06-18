@@ -33,8 +33,5 @@ A picture or texture fill can be specified in the formatting for various element
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

@@ -26,8 +26,5 @@ Deletes the specified recognized function from the list of the recognized functi
 ## See also
 
 
-#### Concepts
-
-
 [OMathRecognizedFunction Object](Word.OMathRecognizedFunction.md)
 

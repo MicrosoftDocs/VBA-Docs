@@ -26,8 +26,5 @@ Deletes the specified exception.
 ## See also
 
 
-#### Concepts
-
-
 [OtherCorrectionsException Object](Word.OtherCorrectionsException.md)
 

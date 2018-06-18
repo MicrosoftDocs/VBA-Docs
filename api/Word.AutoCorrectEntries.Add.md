@@ -42,15 +42,12 @@ Use the  **AddRichText** method to create a formatted AutoCorrect entry.
 This example adds a plain-text AutoCorrect entry for a common misspelling of the word their.
 
 
-```
+```vb
 AutoCorrect.Entries.Add Name:="thier", Value:="their"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [AutoCorrectEntries Collection Object](Word.autocorrectentries.md)

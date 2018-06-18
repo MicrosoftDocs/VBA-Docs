@@ -26,8 +26,5 @@ You can use the  **AllMacros** property to reference the **[AllMacros](Access.al
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

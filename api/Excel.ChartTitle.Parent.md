@@ -26,8 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](Excel.ChartTitle(objec).md)
 

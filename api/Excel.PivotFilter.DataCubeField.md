@@ -26,8 +26,5 @@ This property is applicable only to OLAP PivotTables and provides the  **Value**
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

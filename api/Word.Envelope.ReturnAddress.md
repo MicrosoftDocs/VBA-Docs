@@ -46,8 +46,5 @@ If Err = 5852 Then MsgBox _
 ## See also
 
 
-#### Concepts
-
-
 [Envelope Object](Word.Envelope.md)
 

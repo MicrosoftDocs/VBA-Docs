@@ -56,8 +56,5 @@ intCurVal = Me!CategoryName.HideDuplicates
 ## See also
 
 
-#### Concepts
-
-
 [OptionGroup Object](Access.OptionGroup.md)
 

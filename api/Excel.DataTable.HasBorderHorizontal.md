@@ -43,8 +43,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [DataTable Object](Excel.DataTable(objec).md)
 

@@ -14,7 +14,7 @@ The following code sample in Visual C# shows how to reference  **PidTagInternetM
 
 
 
-```
+```vb
 http://schemas.microsoft.com/mapi/proptag/0x59020003
 ```
 
@@ -22,7 +22,7 @@ where  `0x59020003` is the proptag of **PidTagInternetMailOverrideFormat**.
 
 
 
-```C#
+```vbC#
 private void SendMail_Click() 
 { 
     Outlook.NameSpace objSession; 

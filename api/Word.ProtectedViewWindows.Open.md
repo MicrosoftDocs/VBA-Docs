@@ -50,16 +50,13 @@ Avoid using hard-coded passwords in your applications. If a password is required
 The following code example opens a document in a new protected view window.
 
 
-```
+```vb
 ProtectedViewWindows.Open FileName:="C:\MyFiles\MyDoc.doc" 
 
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ProtectedViewWindows Object](Word.ProtectedViewWindows.md)

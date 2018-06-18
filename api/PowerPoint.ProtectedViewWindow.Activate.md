@@ -26,8 +26,5 @@ Activates the specified window.
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 

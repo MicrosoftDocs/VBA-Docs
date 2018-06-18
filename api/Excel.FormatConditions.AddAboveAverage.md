@@ -36,8 +36,5 @@ The  **AboveAverage** object is used to find values above or below an average or
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Object](Excel.FormatConditions.md)
 

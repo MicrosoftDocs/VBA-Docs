@@ -58,8 +58,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

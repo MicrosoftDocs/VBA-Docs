@@ -39,8 +39,5 @@ Returns an error when the rule cannot be found in the collection.
 ## See also
 
 
-#### Concepts
-
-
 [Rules Object](Outlook.Rules.md)
 

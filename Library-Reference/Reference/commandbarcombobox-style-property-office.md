@@ -32,9 +32,6 @@ Gets or sets the way a  **CommandBarComboBox** control is displayed. Can be eith
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

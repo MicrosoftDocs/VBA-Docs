@@ -36,9 +36,6 @@ For example, the policy item might contain code to transform the document into a
 ## See also
 
 
-#### Concepts
-
-
 [PolicyItem Object](policyitem-object-office.md)
 #### Other resources
 

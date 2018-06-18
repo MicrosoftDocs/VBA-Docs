@@ -52,8 +52,5 @@ By using the related  **ScaleHeight**, **ScaleWidth**, **ScaleLeft**, and **Scal
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

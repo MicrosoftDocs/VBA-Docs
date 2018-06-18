@@ -34,8 +34,5 @@ If you do not want any of the objects in the  **ServerViewableItems** collection
 ## See also
 
 
-#### Concepts
-
-
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 

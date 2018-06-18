@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Object](Excel.GroupShapes.md)
 

@@ -31,8 +31,5 @@ This property is used only when the  **[FirstName](Outlook.ContactItem.FirstName
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

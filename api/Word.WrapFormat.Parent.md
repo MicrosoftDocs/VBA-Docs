@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Wrap
 ## See also
 
 
-#### Concepts
-
-
 [WrapFormat Object](Word.WrapFormat.md)
 

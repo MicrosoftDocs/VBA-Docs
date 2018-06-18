@@ -31,7 +31,7 @@ Returns or sets the way pictures are displayed on a column or bar picture chart 
 This example sets series one to stretch pictures. The example should be run on a 2-D column chart with picture data markers.
 
 
-```
+```vb
 myChart.SeriesCollection(1).PictureType = xlStretch
 ```
 

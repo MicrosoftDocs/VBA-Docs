@@ -54,8 +54,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ActualStartDrivers Collection Object](Project.actualstartdrivers.md)
 

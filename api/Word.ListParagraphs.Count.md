@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of list paragraphs in the collect
 ## See also
 
 
-#### Concepts
-
-
 [ListParagraphs Collection Object](Word.listparagraphs.md)
 

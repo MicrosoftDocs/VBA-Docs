@@ -30,7 +30,7 @@ Use the  **[AdvancedSearchComplete](http://msdn.microsoft.com/library/4f33ad44-2
 The following Microsoft Visual Basic for Applications (VBA) example returns a search object named "SubjectSearch" and displays the object's  **[Tag](http://msdn.microsoft.com/library/f0341885-ea75-2277-e55b-827f62165ab2%28Office.15%29.aspx)** and **[Filter](http://msdn.microsoft.com/library/f6040465-da73-56f6-edb7-06d93bb8b531%28Office.15%29.aspx)** property values. The **Tag** property is used to identify a specific search once it has completed.
 
 
-```
+```vb
 Sub SearchInboxFolder() 
  
 'Searches the Inbox 
@@ -63,7 +63,7 @@ The following VBA example displays information about the search and the results 
 
 
 
-```
+```vb
 Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search) 
  
  

@@ -61,8 +61,5 @@ Me.ctl.BorderThemeColorIndex=2
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

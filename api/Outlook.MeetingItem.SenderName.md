@@ -33,8 +33,5 @@ If you wish to retrieve the fully qualified e-mail address of the sender, use th
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

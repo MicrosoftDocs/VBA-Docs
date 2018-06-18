@@ -26,8 +26,5 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

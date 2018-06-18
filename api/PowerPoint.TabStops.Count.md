@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TabStops Object](PowerPoint.TabStops.md)
 

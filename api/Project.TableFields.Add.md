@@ -45,7 +45,4 @@ Adds a  **TableField** object to a **TableFields** collection.
 ## See also
 
 
-#### Concepts
-
-
 [TableFields Collection Object](Project.tablefields.md)

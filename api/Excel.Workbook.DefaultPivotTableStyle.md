@@ -26,8 +26,5 @@ Specifies the table style from the  **TableStyles** collection that is used as t
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

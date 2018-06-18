@@ -31,8 +31,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 

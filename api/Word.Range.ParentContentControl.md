@@ -31,8 +31,5 @@ This property returns  **Nothing** if there is no parent content control for the
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

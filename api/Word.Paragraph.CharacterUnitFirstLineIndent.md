@@ -47,8 +47,5 @@ ActiveDocument.Paragraphs(2) _
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

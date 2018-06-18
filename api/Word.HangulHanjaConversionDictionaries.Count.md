@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of dictionaries in the collection
 ## See also
 
 
-#### Concepts
-
-
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 

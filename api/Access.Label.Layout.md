@@ -26,8 +26,5 @@ Returns the type of layout for the specified label. Read-only  **[AcLayoutType](
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

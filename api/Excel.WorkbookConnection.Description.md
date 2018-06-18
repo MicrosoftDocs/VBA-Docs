@@ -33,8 +33,5 @@ The maximum size of a description is 255 characters. If the user specifies a des
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

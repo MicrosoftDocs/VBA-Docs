@@ -47,8 +47,5 @@ The following table gives the values of the  **Tracking** property that correspo
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 

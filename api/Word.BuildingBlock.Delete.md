@@ -26,8 +26,5 @@ Deletes the specified building block.
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlock Object](Word.BuildingBlock.md)
 

@@ -55,8 +55,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](PowerPoint.LinkFormat.md)
 

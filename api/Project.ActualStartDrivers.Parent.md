@@ -28,8 +28,5 @@ Use the  **Parent** property to access the properties or methods of an object's 
 ## See also
 
 
-#### Concepts
-
-
 [ActualStartDrivers Collection Object](Project.actualstartdrivers.md)
 

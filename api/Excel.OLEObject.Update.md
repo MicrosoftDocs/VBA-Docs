@@ -41,8 +41,5 @@ Worksheets("Sheet1").OLEObjects(1).Update
 ## See also
 
 
-#### Concepts
-
-
 [OLEObject Object](Excel.OLEObject.md)
 

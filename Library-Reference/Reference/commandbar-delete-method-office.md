@@ -39,7 +39,7 @@ For the  **Scripts** collection, using the **Delete** method removes all scripts
 This example deletes all custom command bars that are not visible.
 
 
-```
+```vb
 foundFlag = False  
 delBars = 0 
 For Each bar In CommandBars 
@@ -59,9 +59,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBar Object](commandbar-object-office.md)

@@ -40,8 +40,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Word.Series.md)
 

@@ -41,8 +41,5 @@ Set objSession = Application.Session
 ## See also
 
 
-#### Concepts
-
-
 [Reminder Object](Outlook.Reminder.md)
 

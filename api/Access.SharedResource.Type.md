@@ -26,8 +26,5 @@ Gets the type of the  **[SharedResource](Access.SharedResource.md)** object. Rea
 ## See also
 
 
-#### Concepts
-
-
 [SharedResource Object](Access.SharedResource.md)
 

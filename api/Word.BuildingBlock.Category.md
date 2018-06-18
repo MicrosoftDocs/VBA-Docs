@@ -26,8 +26,5 @@ Returns a  **[Category](Word.Category.md)** object that represents the category 
 ## See also
 
 
-#### Concepts
-
-
 [BuildingBlock Object](Word.BuildingBlock.md)
 

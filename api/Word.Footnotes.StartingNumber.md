@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Footnotes Collection Object](Word.footnotes.md)
 

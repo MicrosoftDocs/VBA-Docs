@@ -34,8 +34,5 @@ Moves the specified  **[CustomLayout](PowerPoint.CustomLayout.md)** object to a 
 ## See also
 
 
-#### Concepts
-
-
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 

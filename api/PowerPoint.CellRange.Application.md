@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [CellRange Object](PowerPoint.CellRange.md)
 

@@ -36,15 +36,12 @@ Switches to the specified custom, or named, slide show during another slide show
 This example redefines the slide show running in slide show window one to include only the slides in the custom slide show named "Quick Show."
 
 
-```
+```vb
 SlideShowWindows(1).View.GotoNamedShow "Quick Show"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)

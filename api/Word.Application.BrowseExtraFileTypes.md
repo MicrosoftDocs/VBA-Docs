@@ -36,8 +36,5 @@ Application.BrowseExtraFileTypes = "text/html"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -38,8 +38,5 @@ Changing the value of this property for a given  **NotesModule** object changes 
 ## See also
 
 
-#### Concepts
-
-
 [NotesModule Object](Outlook.NotesModule.md)
 

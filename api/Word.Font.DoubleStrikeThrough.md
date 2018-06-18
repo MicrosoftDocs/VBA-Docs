@@ -57,8 +57,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

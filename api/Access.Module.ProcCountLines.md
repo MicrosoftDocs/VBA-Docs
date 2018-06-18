@@ -83,8 +83,5 @@ MsgBox "There are " &; Forms(strForm).Module.ProcCountLines(strProc, vbext_pk_Pr
 ## See also
 
 
-#### Concepts
-
-
 [Module Object](Access.Module.md)
 

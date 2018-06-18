@@ -26,8 +26,5 @@ Returns an  **[OMathEqArray](Word.OMathEqArray.md)** object that represents an e
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

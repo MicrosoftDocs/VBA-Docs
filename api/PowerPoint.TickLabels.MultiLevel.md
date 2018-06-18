@@ -31,8 +31,5 @@ The default value for this property is  **True**.
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](PowerPoint.TickLabels.md)
 

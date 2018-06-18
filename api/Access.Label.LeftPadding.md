@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the label and its left grid
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **WdListLevelAlignment** constant that represents the alignme
 ## See also
 
 
-#### Concepts
-
-
 [ListLevel Object](Word.ListLevel.md)
 

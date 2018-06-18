@@ -46,7 +46,7 @@ The  **TimelineTextOnBar** method is equivalent to the **Display as Bar** and **
 The following statement changes selected tasks on the Timeline bar to display as callouts.
 
 
-```
+```vb
 TimelineTextOnBar TextOnBar:=False
 ```
 

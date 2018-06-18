@@ -41,8 +41,5 @@ Application.ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange.AddPeriod
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

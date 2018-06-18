@@ -46,8 +46,5 @@ To check only cells and notes, use this method with the object returned by the  
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

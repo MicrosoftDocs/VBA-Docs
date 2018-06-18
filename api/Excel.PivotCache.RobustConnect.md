@@ -63,8 +63,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

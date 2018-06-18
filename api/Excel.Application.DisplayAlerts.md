@@ -66,8 +66,5 @@ Application.DisplayAlerts = True
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](application-object-excel.md)
 

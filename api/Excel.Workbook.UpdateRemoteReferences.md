@@ -41,7 +41,4 @@ ActiveWorkbook.UpdateRemoteReferences = True
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)

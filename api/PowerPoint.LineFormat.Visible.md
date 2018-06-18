@@ -42,8 +42,5 @@ The value of the  **Visible** property can be one of these **MsoTriState** const
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](PowerPoint.LineFormat.md)
 

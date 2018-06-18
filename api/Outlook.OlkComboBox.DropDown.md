@@ -31,8 +31,5 @@ Simulates the user clicking the drop button on the control. This method causes t
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

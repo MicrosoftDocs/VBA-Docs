@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [Scenario Object](Excel.Scenario.md)
 

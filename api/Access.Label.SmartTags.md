@@ -34,8 +34,5 @@ Returns a  **[SmartTags](Access.SmartTags.md)** collection that represents the c
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

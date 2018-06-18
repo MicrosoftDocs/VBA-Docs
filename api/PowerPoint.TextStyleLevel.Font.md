@@ -80,8 +80,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TextStyleLevel Object](PowerPoint.TextStyleLevel.md)
 

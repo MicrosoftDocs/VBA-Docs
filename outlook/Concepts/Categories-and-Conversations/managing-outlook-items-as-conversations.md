@@ -40,8 +40,5 @@ In addition, you can apply actions to all existing and future items of a convers
 ## See also
 
 
-#### Concepts
-
-
  [How to: Obtain and Enumerate Selected Conversations](obtain-and-enumerate-selected-conversations.md)
 

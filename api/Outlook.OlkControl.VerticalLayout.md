@@ -26,8 +26,5 @@ Returns or sets an  **[OlVerticalLayout](Outlook.OlVerticalLayout.md)** constant
 ## See also
 
 
-#### Concepts
-
-
 [OlkControl Class](Outlook.olkcontrol.md)
 

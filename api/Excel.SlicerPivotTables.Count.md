@@ -31,8 +31,5 @@ Returns the number of objects in the collection.
 ## See also
 
 
-#### Concepts
-
-
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 

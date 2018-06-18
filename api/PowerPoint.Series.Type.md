@@ -57,8 +57,5 @@ You can use the following  **[XlConstants](PowerPoint.XlConstants.md)** constant
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

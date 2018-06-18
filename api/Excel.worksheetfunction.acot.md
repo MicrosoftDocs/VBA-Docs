@@ -37,8 +37,5 @@ Returns the arccotangent of a number, in radians in the range 0 to Pi.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

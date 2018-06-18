@@ -37,8 +37,5 @@ MsgBox ActiveProtectedViewWindow.Caption
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

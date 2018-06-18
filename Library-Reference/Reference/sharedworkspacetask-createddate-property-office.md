@@ -34,9 +34,6 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)
 #### Other resources
 

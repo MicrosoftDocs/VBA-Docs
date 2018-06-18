@@ -31,8 +31,5 @@ The  **[TickLabelSpacing](PowerPoint.Axis.TickLabelSpacing.md)** property return
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](PowerPoint.Axis.md)
 

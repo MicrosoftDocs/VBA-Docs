@@ -25,7 +25,7 @@ Returns or sets the distance (in points) between the left edge of the text frame
 The following code adds a rectangle to a slide, adds text to the rectangle, and then sets the margins for the text frame.
 
 
-```
+```vb
 Set pptSlide = ActivePresentation.Slides(1) 
 With pptSlide.Shapes.AddShape(msoShapeRectangle, 0, 0, 250, 140).TextFrame2 
  .TextRange.Text = "Here is some sample text" 
@@ -38,9 +38,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextFrame2 Object](textframe2-object-office.md)

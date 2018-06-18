@@ -31,8 +31,5 @@ This property allows the definition of a recurrence pattern that is only valid f
 ## See also
 
 
-#### Concepts
-
-
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

@@ -36,15 +36,12 @@ Removes an add-in from the collection of add-ins.
 This example removes the add-in named "MyTools" from the list of available add-ins.
 
 
-```
+```vb
 AddIns.Remove "mytools"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [AddIns Object](PowerPoint.AddIns.md)

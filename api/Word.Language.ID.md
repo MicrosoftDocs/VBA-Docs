@@ -28,15 +28,12 @@ Returns a number that identifies the specified language. Read-only  **WdLanguage
 This example formats the selection with the Icelandic proofing tools language.
 
 
-```
+```vb
 Selection.LanguageID = Languages("Icelandic").ID
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Language Object](Word.Language.md)

@@ -28,7 +28,7 @@ Returns or sets the color used to highlight text formatted with the  **Highlight
 This example sets the default highlight color to bright green. The new color doesn't apply to any previously highlighted text.
 
 
-```
+```vb
 Options.DefaultHighlightColorIndex = wdBrightGreen
 ```
 
@@ -45,9 +45,6 @@ lngTemp = Options.DefaultHighlightColorIndex
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

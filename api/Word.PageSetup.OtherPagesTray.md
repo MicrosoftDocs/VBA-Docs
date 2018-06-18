@@ -37,15 +37,12 @@ This example sets the tray to be used for printing all but the first page of eac
 
 
 
-```
+```vb
 Selection.PageSetup.OtherPagesTray = wdPrinterLowerBin
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PageSetup Object](Word.PageSetup.md)

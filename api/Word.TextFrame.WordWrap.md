@@ -34,8 +34,5 @@ This property returns  **wdUndefined** if it's set to **True** for some of the s
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

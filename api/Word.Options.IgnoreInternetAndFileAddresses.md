@@ -48,8 +48,5 @@ blnTemp = Options.IgnoreInternetAndFileAddresses
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

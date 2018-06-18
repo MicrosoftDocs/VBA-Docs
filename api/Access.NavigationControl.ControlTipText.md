@@ -39,8 +39,5 @@ There are other ways to provide information about a form or a control on a form.
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

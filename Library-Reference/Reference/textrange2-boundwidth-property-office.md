@@ -35,7 +35,7 @@ The text bounding box is not the same as the  **TextFrame** object. The **TextFr
 This example adds a rounded rectangle to slide one with the same dimensions as the text bounding box.
 
 
-```
+```vb
 With ActivePresentation.Slides(1).Shapes(1) 
  Set txb = .TextFrame.Text 
  Set roundRect = .AddShape(ppShapeRoundRect, _ 
@@ -47,9 +47,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextRange2 Object](textrange2-object-office.md)

@@ -52,8 +52,5 @@ Application.ActivePresentation.PageSetup.SlideOrientation = msoOrientationVertic
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](PowerPoint.PageSetup.md)
 

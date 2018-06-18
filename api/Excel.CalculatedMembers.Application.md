@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMembers Collection](Excel.CalculatedMembers.md)
 

@@ -36,8 +36,5 @@ The setting of the  **Visible** property corresponds to the settings of the **Hi
 ## See also
 
 
-#### Concepts
-
-
 [SparkColor Object](Excel.SparkColor.md)
 

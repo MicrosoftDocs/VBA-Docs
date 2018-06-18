@@ -55,8 +55,5 @@ Forms("Order Entry").OnDeactivate = "Current_Macro"
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

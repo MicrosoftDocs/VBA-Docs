@@ -33,8 +33,5 @@ Returns an error if you attempt to enable a rule condition that is supported onl
 ## See also
 
 
-#### Concepts
-
-
 [TextRuleCondition Object](Outlook.TextRuleCondition.md)
 

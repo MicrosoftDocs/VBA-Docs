@@ -33,8 +33,5 @@ If the  **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **IconS
 ## See also
 
 
-#### Concepts
-
-
 [IconSetCondition Object](Excel.IconSetCondition.md)
 

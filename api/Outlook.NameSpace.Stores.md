@@ -26,8 +26,5 @@ Returns a  **[Stores](Outlook.Stores.md)** collection object that represents all
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

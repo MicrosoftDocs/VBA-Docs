@@ -41,8 +41,5 @@ ActiveDocument.Tables(1).Rows(2).Delete
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

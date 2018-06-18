@@ -24,7 +24,7 @@ Use the  **[Wizard](Publisher.Document.Wizard.md)** property of a **Document**, 
 
  
 
-```
+```vb
 Dim wizTemp As Wizard 
 Dim wizproTemp As WizardProperty 
 Dim wizproAll As WizardProperties 
@@ -50,7 +50,7 @@ End With
  
 
 
-```
+```vb
 Sub ExampleWithErrorHandlers() 
  Dim wizTemp As Wizard 
  Dim wizproTemp As WizardProperty 

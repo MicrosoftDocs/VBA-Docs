@@ -32,21 +32,21 @@ When searching  **Text** fields, you can use either an apostrophe (') or double 
 
 
 
-```
+```vb
 sFilter = "[CompanyName] = 'Microsoft'"
 ```
 
 
 
 
-```
+```vb
 sFilter = "[CompanyName] = ""Microsoft"""
 ```
 
 
 
 
-```
+```vb
 sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
 ```
 
@@ -115,9 +115,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Search Object](Outlook.Search.md)

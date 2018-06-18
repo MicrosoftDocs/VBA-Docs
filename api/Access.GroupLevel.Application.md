@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [GroupLevel Object](Access.GroupLevel.md)
 

@@ -31,8 +31,5 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 ## See also
 
 
-#### Concepts
-
-
 [ChartCharacters Object](Word.ChartCharacters.md)
 

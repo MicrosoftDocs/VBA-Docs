@@ -36,8 +36,5 @@ An  **AddressEntries** collection object that contains the users directly report
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

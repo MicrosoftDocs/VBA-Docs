@@ -39,7 +39,7 @@ Use the  **PasteFace** method to paste the contents of the Clipboard onto a butt
 This example finds the built-in  **Open** button, copies the button face to the Clipboard, and then pastes the face onto the **Spelling** and **Grammar** button.
 
 
-```
+```vb
 Set myControl = CommandBars.FindControl(Type:=msoControlButton, Id:=23) 
 myControl.CopyFace 
 Set myControl = CommandBars.FindControl(Type:=msoControlButton, ID:=2) 
@@ -48,9 +48,6 @@ myControl.PasteFace
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarButton Object](commandbarbutton-object-office.md)

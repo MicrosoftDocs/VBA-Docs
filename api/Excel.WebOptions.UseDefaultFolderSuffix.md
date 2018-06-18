@@ -43,8 +43,5 @@ Workbooks(1).WebOptions.UseDefaultFolderSuffix
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

@@ -31,8 +31,5 @@ You can enumerate the  **[RuleConditions](Outlook.RuleConditions.md)** collectio
 ## See also
 
 
-#### Concepts
-
-
 [RuleConditions Object](Outlook.RuleConditions.md)
 

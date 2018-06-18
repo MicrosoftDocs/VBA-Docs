@@ -62,8 +62,5 @@ For example, you need to find 10 people with excellent reflexes, and you know th
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

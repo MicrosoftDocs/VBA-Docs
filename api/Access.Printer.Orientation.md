@@ -26,8 +26,5 @@ Gets or sets an  **[AcPrintOrientation](Access.AcPrintOrientation.md)** constant
 ## See also
 
 
-#### Concepts
-
-
 [Printer Object](Access.Printer.md)
 

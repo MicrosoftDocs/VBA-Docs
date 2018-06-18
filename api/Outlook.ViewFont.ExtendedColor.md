@@ -31,8 +31,5 @@ You can use the  **[Color](Outlook.ViewFont.Color.md)** property or the **[Exten
 ## See also
 
 
-#### Concepts
-
-
 [ViewFont Object](Outlook.ViewFont.md)
 

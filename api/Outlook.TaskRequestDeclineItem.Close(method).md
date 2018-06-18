@@ -34,8 +34,5 @@ Closes and optionally saves changes to the displayed Outlook item.
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

@@ -33,15 +33,12 @@ After using this method, use the  **Selection** object to work with the selected
 This example selects row one in table one of Report.doc.
 
 
-```
+```vb
 Documents("Report.doc").Tables(1).Rows(1).Select
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Row Object](Word.Row.md)

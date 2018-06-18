@@ -26,8 +26,5 @@ Updates the link.
 ## See also
 
 
-#### Concepts
-
-
 [LinkFormat Object](Excel.LinkFormat.md)
 

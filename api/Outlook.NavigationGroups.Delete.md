@@ -46,8 +46,5 @@ The  **Delete** method raises an error if:
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 

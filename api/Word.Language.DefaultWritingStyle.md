@@ -47,16 +47,13 @@ This example sets the writing style for U.S. English to Casual, and then it chec
 
 
 
-```
+```vb
 Languages(wdEnglishUS).DefaultWritingStyle = "Casual" 
 ActiveDocument.CheckGrammar
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Language Object](Word.Language.md)

@@ -26,8 +26,5 @@ Returns a  **[Sources](Word.Sources.md)** collection that represents all the sou
 ## See also
 
 
-#### Concepts
-
-
 [Bibliography Object](Word.Bibliography.md)
 

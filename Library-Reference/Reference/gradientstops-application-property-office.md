@@ -33,9 +33,6 @@ You can use this property with an OLE Automation object to return the applicatio
 ## See also
 
 
-#### Concepts
-
-
 [GradientStops Object](gradientstops-object-office.md)
 #### Other resources
 

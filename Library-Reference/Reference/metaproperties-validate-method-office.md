@@ -38,7 +38,7 @@ If any of the properties is invalid, the test fails and an error message is retu
 In the following example, a  **MetaProperties** object is passed to a validation function. The function then validates all of the properties of the object and returns the result.
 
 
-```
+```vb
 Function ValidateMetaProperties(ByVal metaProps As MetaProperties) As String 
 Dim result As String 
  
@@ -49,9 +49,6 @@ End Function
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MetaProperties Object](metaproperties-object-office.md)

@@ -47,8 +47,5 @@ Forms.Item("Purchase Orders").Controls.Item("Preview"). _
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

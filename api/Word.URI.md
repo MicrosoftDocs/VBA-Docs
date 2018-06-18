@@ -36,8 +36,5 @@ MsgBox Application.XMLNamespaces(1).URI
 ## See also
 
 
-#### Concepts
-
-
 [XMLNamespace Object](Word.XMLNamespace.md)
 

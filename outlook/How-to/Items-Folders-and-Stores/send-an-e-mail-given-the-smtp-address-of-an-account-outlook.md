@@ -26,7 +26,7 @@ The following is the C# code sample.
 
 
 
-```C#
+```vbC#
 using System; 
 using System.Text; 
 using Outlook = Microsoft.Office.Interop.Outlook; 
@@ -76,7 +76,7 @@ The following is the Visual Basic code sample.
 
 
 
-```VB.net
+```vbVB.net
 Imports Outlook = Microsoft.Office.Interop.Outlook 
  
 Namespace OutlookAddIn2 

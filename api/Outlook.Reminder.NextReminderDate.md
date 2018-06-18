@@ -85,8 +85,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Reminder Object](Outlook.Reminder.md)
 

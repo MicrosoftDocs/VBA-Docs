@@ -87,8 +87,5 @@ Worksheets("Sheet1").PageSetup.PaperSize = xlPaperLegal
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

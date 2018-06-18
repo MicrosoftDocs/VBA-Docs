@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Panes Object](PowerPoint.Panes.md)
 

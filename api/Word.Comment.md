@@ -21,7 +21,7 @@ Represents a single comment. The  **Comment** object is a member of the **[Comme
 Use  **Comments** (Index), where Index is the index number, to return a single **Comment** object. The index number represents the position of the comment in the specified selection, range, or document. The following example displays the author of the first comment in the active document.
 
 
-```
+```vb
 MsgBox ActiveDocument.Comments(1).Author
 ```
 
@@ -30,7 +30,7 @@ Use the  **[Add](Word.Comments.Add.md)** method to add a comment at the specifie
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseEnd 
 ActiveDocument.Comments.Add Range:=Selection.Range, _ 
  Text:="review this"
@@ -41,7 +41,7 @@ Use the  **[Reference](Word.Comment.Reference.md)** property to return the refer
 
 
 
-```
+```vb
 MsgBox ActiveDocument.Comments(1).Range.Text
 ```
 

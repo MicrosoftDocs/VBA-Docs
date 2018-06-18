@@ -23,8 +23,5 @@ Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.Ch
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 

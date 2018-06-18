@@ -42,15 +42,12 @@ This example formats the selected text to appear in red.
 
 
 
-```
+```vb
 Selection.Font.ColorIndex = wdRed
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Font Object](Word.Font.md)

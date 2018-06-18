@@ -34,8 +34,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [Charts Collection](Excel.Charts.md)
 

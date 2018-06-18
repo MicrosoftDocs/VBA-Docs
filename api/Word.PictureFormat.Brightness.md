@@ -36,15 +36,12 @@ Set docActive = ActiveDocument
 ```
 
 
-```
+```vb
 docActive.Shapes(1).PictureFormat.Brightness = 0.3
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PictureFormat Object](Word.PictureFormat.md)

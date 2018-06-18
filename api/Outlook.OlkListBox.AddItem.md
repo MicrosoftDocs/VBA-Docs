@@ -40,8 +40,5 @@ If the value of  _Index_ is equal to or larger than the number of elements in th
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

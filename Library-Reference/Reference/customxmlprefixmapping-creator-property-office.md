@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [CustomXMLPrefixMapping Object](customxmlprefixmapping-object-office.md)
 #### Other resources
 

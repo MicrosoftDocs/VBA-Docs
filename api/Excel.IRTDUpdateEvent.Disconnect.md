@@ -26,8 +26,5 @@ Instructs the real-time data server (RTD) to disconnect from the specified  **IR
 ## See also
 
 
-#### Concepts
-
-
 [IRTDUpdateEvent Object](Excel.IRTDUpdateEvent.md)
 

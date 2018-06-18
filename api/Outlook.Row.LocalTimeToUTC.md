@@ -46,8 +46,5 @@ For information on property value representation in a  **Table** , see[Factors A
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Outlook.Row.md)
 

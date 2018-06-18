@@ -26,7 +26,7 @@ Most bordered objects (all except for the  **[Range](Excel.Range(objec).md)** an
  The following example changes the type and line style of a trend line on the active chart.
 
 
-```
+```vb
 With ActiveChart.SeriesCollection(1).Trendlines(1) 
  .Type = xlLinear 
  .Border.LineStyle = xlDash 
@@ -38,7 +38,7 @@ End With
 
 
 
-```
+```vb
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 ```
 
@@ -47,7 +47,7 @@ Use  **Borders** ( _index_ ), where _index_ identifies the border, to return a s
 
 
 
-```
+```vb
 Worksheets("Sheet1").Range("A1:G1"). _ 
  Borders(xlEdgeBottom).Color = RGB(255, 0, 0)
 ```

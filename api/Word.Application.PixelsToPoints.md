@@ -53,8 +53,5 @@ MsgBox "320x240 pixels is equivalent to " _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

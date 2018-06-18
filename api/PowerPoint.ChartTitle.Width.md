@@ -31,8 +31,5 @@ Double
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 

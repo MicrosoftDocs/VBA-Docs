@@ -40,8 +40,5 @@ SmartTagProperty
 ## See also
 
 
-#### Concepts
-
-
 [SmartTagProperties Collection](Access.SmartTagProperties.md)
 

@@ -42,8 +42,5 @@ Dialogs(wdDialogInsertBookmark).Show
 ## See also
 
 
-#### Concepts
-
-
 [Bookmarks Collection Object](Word.bookmarks.md)
 

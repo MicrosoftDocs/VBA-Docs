@@ -31,8 +31,5 @@ Word normally loads building blocks when they are first needed, for example when
 ## See also
 
 
-#### Concepts
-
-
 [Templates Collection Object](Word.templates.md)
 

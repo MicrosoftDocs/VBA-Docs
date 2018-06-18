@@ -26,8 +26,5 @@ Returns an  **[OMathBorderBox](Word.OMathBorderBox.md)** object that represents 
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

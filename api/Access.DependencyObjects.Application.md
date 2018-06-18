@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [DependencyObjects Collection](Access.DependencyObjects.md)
 

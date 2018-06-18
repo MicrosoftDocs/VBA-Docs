@@ -37,8 +37,5 @@ Application.Top = 100
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

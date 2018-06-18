@@ -31,8 +31,5 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

@@ -53,8 +53,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

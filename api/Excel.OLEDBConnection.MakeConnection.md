@@ -45,8 +45,5 @@ This method will result in a run-time error if the  **[MaintainConnection](Excel
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

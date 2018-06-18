@@ -31,8 +31,5 @@ By default, when Track Changes is turned on, moved text is marked as deleted and
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

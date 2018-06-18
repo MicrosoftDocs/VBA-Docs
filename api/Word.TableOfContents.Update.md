@@ -31,8 +31,5 @@ Use the  **UpdatePageNumbers** method to update the page numbers of items in a t
 ## See also
 
 
-#### Concepts
-
-
 [TableOfContents Object](Word.TableOfContents.md)
 

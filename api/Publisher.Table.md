@@ -21,7 +21,7 @@ Represents a single table.
 Use the  **[Table](http://msdn.microsoft.com/library/a9b29d1f-2459-556c-56f8-f8f809b879c9%28Office.15%29.aspx)** property to return a **Table** object. The following example selects the specified table in the active publication.
 
 
-```
+```vb
 Sub SelectTable() 
  With ActiveDocument.Pages(1).Shapes(1) 
  If .Type = pbTable Then _ 
@@ -35,7 +35,7 @@ Use the  **[AddTable](http://msdn.microsoft.com/library/1aa00f40-de41-12ed-8d4f-
 
 
 
-```
+```vb
 Sub NewTable() 
  With ActiveDocument.Pages(1).Shapes.AddTable(NumRows:=5, NumColumns:=5, _ 
  Left:=72, Top:=300, Width:=400, Height:=100) 

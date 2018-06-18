@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of reviewers in the collection. R
 ## See also
 
 
-#### Concepts
-
-
 [Reviewers Collection](Word.Reviewers.md)
 

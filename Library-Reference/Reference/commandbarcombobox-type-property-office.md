@@ -29,9 +29,6 @@ Gets the type of  **CommandBarComboBox** control. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the specified object's link 
 ## See also
 
 
-#### Concepts
-
-
 [OLEObjects Object](Excel.OLEObjects.md)
 

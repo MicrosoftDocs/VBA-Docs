@@ -42,8 +42,5 @@ ActivePresentation.ExtraColors.Add RGB(69, 32, 155)
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

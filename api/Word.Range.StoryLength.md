@@ -48,8 +48,5 @@ If ActiveDocument.Content.StoryLength = 1 Then _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [SeriesLines Object](Excel.SeriesLines(objec).md)
 

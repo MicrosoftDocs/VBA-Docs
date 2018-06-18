@@ -66,7 +66,7 @@ To manually edit a timescale in Project, right-click the timescale, and then cho
 The following example sets the timescale to three tiers, where the top tier units are months, the top labels are the month name and year, the middle tier units are weeks, and the middle tier labels are the month and day numbers. For example, top tier labels are  **May 2012** and **June 2012**, and middle tier labels are  **5/27** and **6/3**.
 
 
-```
+```vb
 TimescaleEdit TierCount:=3, _ 
     TopUnits:=PjTimescaleUnit.pjTimescaleMonths, _ 
     TopLabel:=PjMonthLabel.pjMonthLabelMonth_mmmm_yyyy, _ 

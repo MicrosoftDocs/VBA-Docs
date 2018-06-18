@@ -24,7 +24,7 @@ Use the  **[Add](Publisher.RulerGuides.Add.md)** method of the **RulerGuides** c
 
  
 
-```
+```vb
 Sub AddChangeDeleteGuide() 
  Dim rgLine As RulerGuide 
  With ActiveDocument.Pages(1).RulerGuides 

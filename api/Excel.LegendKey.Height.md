@@ -26,8 +26,5 @@ Returns a  **Double** value that represents the height, in points, of the object
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Excel.LegendKey(objec).md)
 

@@ -34,8 +34,5 @@ Returns a [Shape Object (Excel)](shape-object-excel.md) object that represents t
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](pivottable-object-excel.md)
 

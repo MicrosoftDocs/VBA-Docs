@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Windows Object](Excel.Windows.md)
 

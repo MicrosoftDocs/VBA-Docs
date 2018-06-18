@@ -16,7 +16,7 @@ A collection of  **[Revision](Word.Revision.md)** objects that represent the cha
 Use the  **Revisions** property to return the **Revisions** collection. The following code example displays the number of revisions in the main text story.
 
 
-```
+```vb
 MsgBox ActiveDocument.Revisions.Count
 ```
 
@@ -25,7 +25,7 @@ The following code example accepts all the revisions in the selection.
 
 
 
-```
+```vb
 For Each myRev In Selection.Range.Revisions 
  myRev.Accept 
 Next myRev
@@ -36,7 +36,7 @@ The following code example accepts all the revisions in the first paragraph in t
 
 
 
-```
+```vb
 Set myRange = Selection.Paragraphs(1).Range 
 myRange.Revisions.AcceptAll
 ```
@@ -46,7 +46,7 @@ The  **Add** method is not available for the **Revisions** collection. **Revisio
 
 
 
-```
+```vb
 ActiveDocument.TrackRevisions = True 
 Selection.InsertBefore "The "
 ```
@@ -56,7 +56,7 @@ Use  **Revisions** (Index), where Index is the index number, to return a single 
 
 
 
-```
+```vb
 MsgBox ActiveDocument.Sections(1).Range.Revisions(1).Author
 ```
 

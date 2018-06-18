@@ -29,8 +29,5 @@ Returns a  [ThreeDFormat](Publisher.ThreeDFormat.md) object that contains 3-D ef
 ## See also
 
 
-#### Concepts
-
-
  [Font Object](Publisher.Font.md)
 

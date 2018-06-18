@@ -26,8 +26,5 @@ Returns or sets the spacing (in points) before the specified HTML DIV element. R
 ## See also
 
 
-#### Concepts
-
-
 [HTMLDivision Object](Word.HTMLDivision.md)
 

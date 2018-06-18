@@ -26,8 +26,5 @@ Gets the total count of the process threads that are a part of the specified  **
 ## See also
 
 
-#### Concepts
-
-
 [MultiThreadedCalculation Object](Excel.MultiThreadedCalculation.md)
 

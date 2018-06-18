@@ -35,7 +35,7 @@ Creating a new label document from a  **CustomLabel** object automatically sets 
 This example returns the name of the current default mailing label.
 
 
-```
+```vb
 Msgbox Application.MailingLabel.DefaultLabelName
 ```
 
@@ -50,9 +50,6 @@ Application.MailingLabel.DefaultLabelName = "5160"
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MailingLabel Object](Word.MailingLabel.md)

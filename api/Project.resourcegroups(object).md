@@ -20,7 +20,7 @@ Use the  **[ResourceGroups](Project.Project.ResourceGroups.md)** property to ret
 
 
 
-```
+```vb
 Dim rg As Group 
 Dim rGroups As String 
  
@@ -36,7 +36,7 @@ Use the  **[Add](Project.ResourceGroups.Add.md)** method to add a **Group** obje
 
 
 
-```
+```vb
 ActiveProject.ResourceGroups.Add "Resources by Rate", "Standard Rate" 
 ActiveProject.ResourceGroups("Resources by Rate").GroupCriteria(1).Ascending = False
 ```

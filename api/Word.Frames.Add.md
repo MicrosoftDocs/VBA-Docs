@@ -59,8 +59,5 @@ Set myFrame = Selection.Frames _
 ## See also
 
 
-#### Concepts
-
-
 [Frames Object](Word.Frames.md)
 

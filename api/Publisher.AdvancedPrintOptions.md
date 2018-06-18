@@ -31,7 +31,7 @@ Use the  **AdvancedPrintOptions** property of the **Document** object to return 
 
  
 
-```
+```vb
 Sub PrintOnlyInksUsed 
  With ActiveDocument.AdvancedPrintOptions 
  If .PrintMode = pbPrintModeSeparations Then 

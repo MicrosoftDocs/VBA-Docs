@@ -39,8 +39,5 @@ MsgBox fcTemp.Description
 ## See also
 
 
-#### Concepts
-
-
 [FileExportConverter Object](Excel.FileExportConverter.md)
 

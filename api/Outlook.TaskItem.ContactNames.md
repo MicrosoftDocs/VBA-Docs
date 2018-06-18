@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the contact names associated with the
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

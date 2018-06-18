@@ -45,8 +45,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

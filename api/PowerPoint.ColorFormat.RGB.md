@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 

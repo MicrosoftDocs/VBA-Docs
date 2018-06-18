@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [QueryTables Object](Excel.QueryTables.md)
 

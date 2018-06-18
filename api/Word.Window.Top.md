@@ -26,8 +26,5 @@ Returns or sets the vertical position of the specified document window, in point
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

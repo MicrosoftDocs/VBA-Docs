@@ -31,8 +31,5 @@ Returns or sets how the maximum value of the vertical axis of the sparkline is s
 ## See also
 
 
-#### Concepts
-
-
 [SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 

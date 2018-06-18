@@ -43,8 +43,5 @@ objEq.Type = wdOMathInline
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

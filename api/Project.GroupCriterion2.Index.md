@@ -28,8 +28,5 @@ If you always put a Gantt chart in the same index of a project's  **Windows** co
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

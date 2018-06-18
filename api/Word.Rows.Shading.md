@@ -62,8 +62,5 @@ ActiveDocument.Words(1).Shading.Texture = wdTexture10Percent
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

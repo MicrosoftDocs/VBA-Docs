@@ -71,8 +71,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Explorers Object](explorers-object-outlook.md)
 

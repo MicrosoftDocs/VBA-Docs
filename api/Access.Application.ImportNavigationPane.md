@@ -35,8 +35,5 @@ Loads a saved Navigation Pane configuration from disk.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

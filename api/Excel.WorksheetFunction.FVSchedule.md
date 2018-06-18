@@ -45,8 +45,5 @@ The values in schedule can be numbers or blank cells; any other value produces t
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

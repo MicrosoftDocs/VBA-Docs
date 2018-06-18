@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 - You tried to specify a named argument as an [array](vbe-glossary.md) index, for example:
     
-  ```
+  ```vb
   MyVar = MyArray(MyNamedArg := 1) 
 
   ```
@@ -27,7 +27,7 @@ ms.date: 06/08/2017
     
 - You tried to specify a named argument with an object, for example:
     
-  ```
+  ```vb
   MyVar = MyObject(MyNamedArg := 1) 
 
   ```
@@ -37,7 +37,7 @@ ms.date: 06/08/2017
     
 - You tried to specify a named argument with an external name:
     
-  ```
+  ```vb
   MyVar = [MyName](MyNamedArg := 1) 
 
   ```
@@ -47,7 +47,7 @@ ms.date: 06/08/2017
     
 - You tried to specify a named argument with a data member of an object, for example:
     
-  ```
+  ```vb
   MyVar = [MyObject].MyProperty(MyNamedArg := 1) 
 
   ```

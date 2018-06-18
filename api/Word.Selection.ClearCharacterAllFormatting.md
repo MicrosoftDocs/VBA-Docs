@@ -34,8 +34,5 @@ This method removes all character formatting. If you need to removed formatting 
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

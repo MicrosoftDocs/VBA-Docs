@@ -26,8 +26,5 @@ Returns an  **[Interior](Excel.Interior(objec).md)** object that represents the 
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

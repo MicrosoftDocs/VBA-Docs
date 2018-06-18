@@ -43,8 +43,5 @@ Workbooks(1).WebOptions.RelyOnVML = False
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

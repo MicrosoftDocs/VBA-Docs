@@ -78,8 +78,5 @@ The following table describes the values used in  _Arg7_ .
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

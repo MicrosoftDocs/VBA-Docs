@@ -50,8 +50,5 @@ ActiveSheet.VPageBreaks(1).DragOff xlToRight, 1
 ## See also
 
 
-#### Concepts
-
-
 [VPageBreak Object](Excel.VPageBreak.md)
 

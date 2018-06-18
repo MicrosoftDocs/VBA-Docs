@@ -37,7 +37,7 @@ If the user's Microsoft Windows and Passport identities use the same e-mail addr
 The following example displays information about the permissions settings of the active document, including the document author.
 
 
-```
+```vb
  Dim irmPermission As Office.Permission 
  Dim strIRMInfo As String 
  Set irmPermission = ActiveWorkbook.Permission 
@@ -66,9 +66,6 @@ The following example displays information about the permissions settings of the
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Permission Object](permission-object-office.md)

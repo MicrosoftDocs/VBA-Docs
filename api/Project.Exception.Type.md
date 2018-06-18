@@ -28,7 +28,4 @@ The  **Type** property can be one of the **[PjExceptionType](Project.PjException
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

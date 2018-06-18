@@ -42,8 +42,5 @@ The value of the  **Type** property can be one of these **MsoHyperlinkType** con
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 

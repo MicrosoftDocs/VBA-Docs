@@ -31,8 +31,5 @@ The  **PrintOut** method is the only Outlook method that can be used for printin
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -41,8 +41,5 @@ ActiveWindow.EnvelopeVisible = True
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

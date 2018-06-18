@@ -39,8 +39,5 @@ ActiveDocument.RunLetterWizard _
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

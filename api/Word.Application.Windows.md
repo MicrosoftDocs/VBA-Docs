@@ -33,15 +33,12 @@ The collection corresponds to the window names that appear at the bottom of the 
 This example arranges all open windows so that they don't overlap.
 
 
-```
+```vb
 Windows.Arrange ArrangeStyle:=wdTiled
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

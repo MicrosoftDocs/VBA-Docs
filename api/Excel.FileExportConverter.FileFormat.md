@@ -51,8 +51,5 @@ ActiveWorkbook.SaveAs _
 ## See also
 
 
-#### Concepts
-
-
 [FileExportConverter Object](Excel.FileExportConverter.md)
 

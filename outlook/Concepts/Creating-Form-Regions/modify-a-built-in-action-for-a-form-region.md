@@ -41,7 +41,7 @@ Whether you choose to modify a built-in action or create a custom action, you de
 The following example identifies the two built-in actions,  `reply` and `replyAll`, before modifying them:
 
 
-```
+```vb
 <customActions>
     <action name="reply">
         <!-- further modify this action -->
@@ -91,7 +91,7 @@ The following example identifies the built-in action,  `replyToFolder`, and disa
 
 
 
-```
+```vb
 <customActions>
     <action name="replyToFolder" disabled="true">
     </action>

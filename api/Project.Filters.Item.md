@@ -31,7 +31,4 @@ Gets a single  **Filter** object from the **Filters** collection. Read-only **Fi
 ## See also
 
 
-#### Concepts
-
-
 [Filters Collection Object](Project.filters.md)

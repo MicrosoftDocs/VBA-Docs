@@ -21,7 +21,7 @@ Represents the container of a custom property page.
 Use the  **Parent** property of the ActiveX control that implements the **[PropertyPage](Outlook.PropertyPage.md)** object associated with the **PropertyPageSite** object to return the **PropertyPageSite** object. The Declarations section of the module implementing the **PropertyPage** object must contain a declaration similar to the following.
 
 
-```
+```vb
 Private myPropertyPageSite As Outlook.PropertyPageSite
 ```
 
@@ -30,7 +30,7 @@ The object is then returned from the  **Parent** property.
 
 
 
-```
+```vb
 Set myPropertyPageSite = Parent
 ```
 

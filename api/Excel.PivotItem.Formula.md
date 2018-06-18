@@ -39,8 +39,5 @@ Setting the formula for a multiple-cell range fills all cells in the range with 
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

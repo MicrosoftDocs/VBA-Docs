@@ -38,7 +38,4 @@ Adds a  **TaskDependency** object to a **TaskDependencies** collection.
 ## See also
 
 
-#### Concepts
-
-
 [TaskDependencies Collection Object](Project.taskdependencies.md)

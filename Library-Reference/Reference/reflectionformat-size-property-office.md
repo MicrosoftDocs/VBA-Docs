@@ -23,9 +23,6 @@ Gets or sets the size, measured in percentages, of the shape's reflection image.
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](reflectionformat-object-office.md)
 #### Other resources
 

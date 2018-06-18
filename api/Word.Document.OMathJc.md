@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** constant that represents t
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

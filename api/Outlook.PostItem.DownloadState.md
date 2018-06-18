@@ -78,8 +78,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

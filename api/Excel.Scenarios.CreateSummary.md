@@ -51,8 +51,5 @@ Worksheets("Sheet1").Scenarios.CreateSummary _
 ## See also
 
 
-#### Concepts
-
-
 [Scenarios Object](Excel.Scenarios.md)
 

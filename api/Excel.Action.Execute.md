@@ -26,8 +26,5 @@ Performs the specified action.
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Excel.Action.md)
 

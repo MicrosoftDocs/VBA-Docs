@@ -26,8 +26,5 @@ Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the argume
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

@@ -36,8 +36,5 @@ The  **Markers** property corresponds to the setting of the **Markers** check bo
 ## See also
 
 
-#### Concepts
-
-
 [SparkPoints Object](Excel.SparkPoints.md)
 

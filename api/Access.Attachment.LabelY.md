@@ -36,8 +36,5 @@ For General and Right alignment when orientation is right to left,  **LabelX** a
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

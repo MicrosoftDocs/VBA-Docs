@@ -31,8 +31,5 @@ By duplicating a  **Range** object, you can change the starting or ending charac
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

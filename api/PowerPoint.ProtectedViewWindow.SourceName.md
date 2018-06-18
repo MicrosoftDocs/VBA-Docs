@@ -26,8 +26,5 @@ Returns the source name of the current  **ProtectedViewWindow** object. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 

@@ -68,8 +68,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Presentations Object](PowerPoint.Presentations.md)
 

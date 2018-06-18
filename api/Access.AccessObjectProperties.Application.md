@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [AccessObjectProperties Collection](Access.AccessObjectProperties.md)
 

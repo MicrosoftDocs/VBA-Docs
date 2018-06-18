@@ -21,7 +21,7 @@ Contains the view attributes (such as show all, field shading, and table gridlin
 Use the  **View** property to return the **View** object. The following example sets view options for the active window.
 
 
-```
+```vb
 With ActiveDocument.ActiveWindow.View 
  .ShowAll = True 
  .TableGridlines = True 
@@ -34,7 +34,7 @@ Use the  **Type** property to change the view. The following example switches th
 
 
 
-```
+```vb
 ActiveDocument.ActiveWindow.View.Type = wdNormalView
 ```
 
@@ -43,7 +43,7 @@ Use the  **Percentage** property to change the size of the text on-screen. The f
 
 
 
-```
+```vb
 ActiveDocument.ActiveWindow.View.Zoom.Percentage = 120
 ```
 
@@ -52,7 +52,7 @@ Use the  **SeekView** property to view comments, endnotes, footnotes, or the doc
 
 
 
-```
+```vb
 With ActiveDocument.ActiveWindow.View 
  .Type = wdPrintView 
  .SeekView = wdSeekCurrentPageFooter 

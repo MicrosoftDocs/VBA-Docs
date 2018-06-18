@@ -61,8 +61,5 @@ ActiveDocument.FollowHyperlink Address:="file:C:\Pages\Default.htm"
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

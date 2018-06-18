@@ -47,8 +47,5 @@ mydoc.Shapes(1).TextFrame.Orientation = msoTextOrientationUpward
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

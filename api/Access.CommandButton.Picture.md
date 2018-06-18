@@ -41,8 +41,5 @@ To create a command button or toggle button with a caption and a picture, you co
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

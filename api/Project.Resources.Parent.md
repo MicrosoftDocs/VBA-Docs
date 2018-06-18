@@ -28,7 +28,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 ## See also
 
 
-#### Concepts
-
-
 [Resources Collection Object](Project.resources(object).md)

@@ -67,8 +67,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Trendlines Object](PowerPoint.Trendlines.md)
 

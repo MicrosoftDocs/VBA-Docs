@@ -34,8 +34,5 @@ This method does not remove paragraph formatting that has been applied by using 
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](reflectionformat-object-office.md)
 #### Other resources
 

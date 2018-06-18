@@ -45,8 +45,5 @@ Next prtLoop
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

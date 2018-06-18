@@ -40,8 +40,5 @@ This method applies only to PivotTable reports with OLAP data sources. Trying to
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

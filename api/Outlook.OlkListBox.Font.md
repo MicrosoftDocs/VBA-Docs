@@ -31,8 +31,5 @@ The font is expressed as the Microsoft Windows type  **StdFont** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

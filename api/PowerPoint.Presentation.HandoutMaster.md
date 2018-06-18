@@ -42,8 +42,5 @@ Application.ActivePresentation.HandoutMaster.Background.Fill _
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

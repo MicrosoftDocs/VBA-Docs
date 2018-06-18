@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [PivotFormulas Object](Excel.PivotFormulas.md)
 

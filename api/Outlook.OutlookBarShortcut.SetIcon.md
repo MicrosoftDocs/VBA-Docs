@@ -80,8 +80,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OutlookBarShortcut Object](Outlook.OutlookBarShortcut.md)
 

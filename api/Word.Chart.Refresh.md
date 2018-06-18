@@ -26,8 +26,5 @@ Causes the specified chart to be redrawn immediately.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

@@ -30,7 +30,7 @@ Changing this property may affect other  **Font** properties (such as **Bold** a
 This example sets the font style for the chart title to bold and italic.
 
 
-```
+```vb
 myChart.ChartTitle.Font.FontStyle = "Bold Italic"
 ```
 

@@ -26,8 +26,5 @@ Returns or sets an  **[OlBusyStatus](Outlook.OlBusyStatus.md)** constant indicat
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

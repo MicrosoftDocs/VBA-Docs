@@ -48,7 +48,7 @@ The value of the  **TransparentBackground** property can be one of these **MsoTr
 This example sets the color that has the RGB value returned by the function RGB(0, 24, 240) as the transparent color for shape one on  `myDocument`. For the example to work, shape one must be a bitmap.
 
 
-```
+```vb
 blueScreen = RGB(0, 0, 255)
 
 Set myDocument = ActivePresentation.Slides(1)
@@ -70,9 +70,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)

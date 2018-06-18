@@ -26,8 +26,5 @@ Returns or sets the text for the specified object. Read/write  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(objec).md)
 

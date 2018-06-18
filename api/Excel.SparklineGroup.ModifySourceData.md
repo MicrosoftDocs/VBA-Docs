@@ -50,8 +50,5 @@ ActiveCell.SparklineGroups.Item(1).ModifySourceData "B1:D4"
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroup Object](Excel.SparklineGroup.md)
 

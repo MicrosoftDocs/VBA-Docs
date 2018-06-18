@@ -26,7 +26,7 @@ Use the  **[Selection](http://msdn.microsoft.com/library/11002043-9dab-a5ad-b36e
 The following example returns a  **Selection** object from an **Explorer** object.
 
 
-```
+```vb
 Set mySelectedItems = myExplorer.Selection
 ```
 

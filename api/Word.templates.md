@@ -41,7 +41,7 @@ Use  **Templates** (Index), where Index is the template name or the index number
 
 
 
-```
+```vb
 Templates("C:\MSOffice\WinWord\Templates\Dot1.dot").Save
 ```
 

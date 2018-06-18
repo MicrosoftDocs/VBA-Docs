@@ -36,8 +36,5 @@ The [Comments.ShowBy](Word.Comments.ShowBy.md) property fails when called on the
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

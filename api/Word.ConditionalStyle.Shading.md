@@ -26,8 +26,5 @@ Returns a  **Shading** object that represents the shading formatting for the sty
 ## See also
 
 
-#### Concepts
-
-
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 

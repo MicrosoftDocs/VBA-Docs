@@ -48,7 +48,7 @@ A [run-time error](vbe-glossary.md) occurs if you try to set the attributes of a
 This example uses the  **SetAttr** statement to set attributes for a file. On the Macintosh, only the constants vbNormal, vbReadOnly, vbHidden and vbAlias are available.
 
 
-```
+```vb
 SetAttr "TESTFILE", vbHidden ' Set hidden attribute. 
 SetAttr "TESTFILE", vbHidden + vbReadOnly ' Set hidden and read-only 
  ' attributes. 

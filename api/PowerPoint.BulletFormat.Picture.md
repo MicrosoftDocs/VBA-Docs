@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 

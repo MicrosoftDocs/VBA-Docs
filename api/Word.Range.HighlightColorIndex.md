@@ -28,7 +28,7 @@ Returns or sets the highlight color for the specified range. Read/write  **WdCol
 This example removes highlight formatting from the selection.
 
 
-```
+```vb
 Selection.Range.HighlightColorIndex = wdNoHighlight
 ```
 
@@ -45,9 +45,6 @@ Next abookmark
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

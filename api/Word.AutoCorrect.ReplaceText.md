@@ -45,8 +45,5 @@ AutoCorrect.ReplaceText = Not AutoCorrect.ReplaceText
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Word.AutoCorrect.md)
 

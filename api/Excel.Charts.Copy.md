@@ -50,8 +50,5 @@ Worksheets("Sheet1").Copy After:=Worksheets("Sheet3")
 ## See also
 
 
-#### Concepts
-
-
 [Charts Collection](Excel.Charts.md)
 

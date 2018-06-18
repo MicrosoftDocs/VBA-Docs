@@ -37,8 +37,5 @@ Adds a  **[Group2](Project.Group2.md)** object to a **ResourceGroups2** collecti
 ## See also
 
 
-#### Concepts
-
-
 [ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 

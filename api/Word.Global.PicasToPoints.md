@@ -53,15 +53,12 @@ This example sets the first-line indent for the selected paragraphs to 3 picas.
 
 
 
-```
+```vb
 Selection.ParagraphFormat.FirstLineIndent = PicasToPoints(3)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

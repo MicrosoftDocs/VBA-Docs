@@ -26,8 +26,5 @@ Gets the collection of parameters defined for the specified operation. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [Operation Object](Access.Operation.md)
 

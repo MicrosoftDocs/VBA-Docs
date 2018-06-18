@@ -46,8 +46,5 @@ Sorts the headings in the specified range.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

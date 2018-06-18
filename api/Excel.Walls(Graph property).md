@@ -26,7 +26,7 @@ This property doesn't apply to 3-D pie charts.
 This example sets the color of the wall border of the chart to red. The example should be run on a 3-D chart.
 
 
-```
+```vb
 myChart.Walls.Border.ColorIndex = 3
 ```
 

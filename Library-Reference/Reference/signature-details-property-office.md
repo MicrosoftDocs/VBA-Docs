@@ -36,9 +36,6 @@ Among the information that can be read is whether the certificate associated wit
 ## See also
 
 
-#### Concepts
-
-
 [Signature Object](signature-object-office.md)
 #### Other resources
 

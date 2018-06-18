@@ -12,7 +12,7 @@ You can sign in to Outlook by using a profile that specifies one or more account
 
 The **NameSpace.Accounts** property returns an [Accounts](accounts-object-outlook.md) collection for the current profile, tracking information for all accounts including Exchange, IMAP, and POP3 accounts, each of which can be associated with a different delivery store. To identify the primary Exchange account in the **Accounts** collection for a session, look for the account that has the [ExchangeStoreType](store-exchangestoretype-property-outlook.md) property of the store (that is specified by **[Account.DeliveryStore](account-deliverystore-property-outlook.md)**) equal to  **OlExchangeStoreType.olPrimaryExchangeMailbox**.
 
-```
+```vb
 Account.DeliveryStore.ExchangeStoreType = OlExchangeStoreType.olPrimaryExchangeMailbox
 ```
 

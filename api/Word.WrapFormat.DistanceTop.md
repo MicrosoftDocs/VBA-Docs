@@ -48,7 +48,7 @@ This example adds an oval to the active document and specifies that the document
 
 
 
-```
+```vb
 Dim
 ```
 
@@ -72,9 +72,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [WrapFormat Object](Word.WrapFormat.md)

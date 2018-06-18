@@ -46,8 +46,5 @@ New entries or changes to existing entries are not persisted in the collection u
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntries Object](Outlook.AddressEntries.md)
 

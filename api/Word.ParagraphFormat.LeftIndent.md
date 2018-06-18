@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the left indent value (in points) 
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

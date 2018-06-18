@@ -26,8 +26,5 @@ Returns the type of built-in Microsoft Word dialog box. Read-only  **[WdWordDial
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Word.Dialog.md)
 

@@ -63,15 +63,12 @@ This example prints the active document, using the settings from the  **Print** 
 
 
 
-```
+```vb
 Dialogs(wdDialogFilePrint).Execute
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

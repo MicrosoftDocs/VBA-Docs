@@ -68,8 +68,5 @@ Application.ActivePresentation.Slides(2) _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

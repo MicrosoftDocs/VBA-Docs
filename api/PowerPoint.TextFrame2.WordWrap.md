@@ -42,8 +42,5 @@ The value of the  **WordWrap** property can be one of these **MsoTriState** cons
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 

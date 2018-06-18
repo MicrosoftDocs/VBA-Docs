@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](PowerPoint.FillFormat.md)
 

@@ -103,10 +103,6 @@ Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on 
 
 
 ## See also
-<a name="AboutContributor"> </a>
-
-
-#### Concepts
 
 
 [Range Object](Excel.Range(objec).md)

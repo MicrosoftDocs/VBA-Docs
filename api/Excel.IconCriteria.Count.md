@@ -31,8 +31,5 @@ The number of criteria is equivalent to the number of threshold values assigned 
 ## See also
 
 
-#### Concepts
-
-
 [IconCriteria Collection](Excel.IconCriteria.md)
 

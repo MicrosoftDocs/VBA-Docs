@@ -29,8 +29,5 @@ Clears the manual filter for the slicer cache.
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

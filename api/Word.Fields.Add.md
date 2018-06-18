@@ -60,7 +60,7 @@ This example inserts a LISTNUM field at the end of the selection. The starting s
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseEnd 
 ActiveDocument.Fields.Add Range:=Selection.Range, _ 
  Type:=wdFieldListNum, Text:="\s 3"
@@ -80,9 +80,6 @@ MsgBox myField.Result
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Fields Collection Object](fields-object-word.md)

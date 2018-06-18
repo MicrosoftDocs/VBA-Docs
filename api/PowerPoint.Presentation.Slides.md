@@ -41,8 +41,5 @@ Application.ActivePresentation.Slides.Add 1, ppLayoutTitle
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

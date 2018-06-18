@@ -31,8 +31,5 @@ This property corresponds to the  **Open e-mail attachments in Reading mode** ch
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

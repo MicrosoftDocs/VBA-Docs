@@ -44,8 +44,5 @@ ActiveWorkbook.MergeWorkbook "Book1.xls"
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

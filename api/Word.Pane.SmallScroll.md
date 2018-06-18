@@ -46,8 +46,5 @@ Any of these arguments can be a negative number. If no arguments are specified, 
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Word.Pane.md)
 

@@ -62,8 +62,5 @@ The  _fScale_ parameter value can be one of the following **MsoTriState** consta
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

@@ -28,7 +28,7 @@ Expands a range to include the entire story.
 The following instructions, where  _myRange_ is a valid **Range** object, are functionally equivalent:
 
 
-```
+```vb
 myRange.WholeStory 
 myRange.Expand Unit:=wdStory
 ```
@@ -61,9 +61,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

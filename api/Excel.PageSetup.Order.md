@@ -36,8 +36,5 @@ Worksheets("Sheet1").PageSetup.Order = xlOverThenDown
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

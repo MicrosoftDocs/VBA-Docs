@@ -44,8 +44,5 @@ MsgBox ActiveDocument.Paragraphs(1).Range.Conflicts.Count
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](range-object-word.md)
 

@@ -61,8 +61,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 

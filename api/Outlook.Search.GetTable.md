@@ -42,8 +42,5 @@ Unlike  **Folder.GetTable** , you cannot use **[Table.Restrict](Outlook.Table.Re
 ## See also
 
 
-#### Concepts
-
-
 [Search Object](Outlook.Search.md)
 

@@ -41,8 +41,5 @@ Next myTask
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

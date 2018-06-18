@@ -64,8 +64,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Interior Object](PowerPoint.Interior.md)
 

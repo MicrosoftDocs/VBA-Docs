@@ -50,8 +50,5 @@ Forms("Purchase Orders").Controls("Section Separator").LineSlant = True
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Access.Line.md)
 

@@ -26,8 +26,5 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 ## See also
 
 
-#### Concepts
-
-
 [Trendlines Object](PowerPoint.Trendlines.md)
 

@@ -21,8 +21,5 @@ Specifies whether the specified shape range contains a narration. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

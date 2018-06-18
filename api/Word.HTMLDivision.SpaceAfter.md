@@ -26,8 +26,5 @@ Returns or sets the amount of spacing (in points) after the specified HTML DIV e
 ## See also
 
 
-#### Concepts
-
-
 [HTMLDivision Object](Word.HTMLDivision.md)
 

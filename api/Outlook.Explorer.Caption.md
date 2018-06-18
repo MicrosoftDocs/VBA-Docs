@@ -26,8 +26,5 @@ Returns a  **String** representing the title. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

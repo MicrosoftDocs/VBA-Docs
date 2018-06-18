@@ -39,8 +39,5 @@ A  **Conflict** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Conflicts Object](Outlook.Conflicts.md)
 

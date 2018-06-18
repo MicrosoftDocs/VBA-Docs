@@ -35,7 +35,7 @@ Use the  **[LinkFormat](Publisher.Shape.LinkFormat.md)** property for a shape or
 
  
 
-```
+```vb
 Sub FindOLEObjects() 
  Dim shpShape As Shape 
  

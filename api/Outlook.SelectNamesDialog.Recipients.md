@@ -35,8 +35,5 @@ If the user does not select any names from the  **Select Names** dialog box and 
 ## See also
 
 
-#### Concepts
-
-
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 

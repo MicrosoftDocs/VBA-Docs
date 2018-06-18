@@ -31,8 +31,5 @@ The default value is  **acVerticalAnchorTop**.
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

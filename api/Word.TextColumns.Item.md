@@ -39,8 +39,5 @@ TextColumn
 ## See also
 
 
-#### Concepts
-
-
 [TextColumns Collection Object](Word(textcolumns).md)
 

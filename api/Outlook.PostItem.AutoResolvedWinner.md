@@ -33,8 +33,5 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Post
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

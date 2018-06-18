@@ -26,8 +26,5 @@ Applies the  **[CalendarView](Outlook.CalendarView.md)** object to the current v
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

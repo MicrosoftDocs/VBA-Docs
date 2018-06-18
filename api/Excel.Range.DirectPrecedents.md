@@ -42,8 +42,5 @@ Range("A1").DirectPrecedents.Select
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

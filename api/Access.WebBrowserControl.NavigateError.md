@@ -48,8 +48,5 @@ This event fires before the  **WebBrowser** control displays an error page due t
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

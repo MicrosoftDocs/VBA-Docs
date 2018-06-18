@@ -26,8 +26,5 @@ Returns a  **Date** indicating the date and time at which the **[SharingItem](Ou
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

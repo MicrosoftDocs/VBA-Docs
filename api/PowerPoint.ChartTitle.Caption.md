@@ -26,8 +26,5 @@ Returns or sets the chart title text. Read/write  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 

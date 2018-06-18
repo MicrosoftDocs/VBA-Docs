@@ -36,8 +36,5 @@ To change an equation to professional format, use the  **[BuildUp](Word.OMath.Bu
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

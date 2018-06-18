@@ -36,9 +36,6 @@ SmartArtColor
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtColors Object](smartartcolors-object-office.md)
 #### Other resources
 

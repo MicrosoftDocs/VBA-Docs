@@ -39,8 +39,5 @@ This method generates an image, as a Portable Network Graphics (.png) file, of t
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

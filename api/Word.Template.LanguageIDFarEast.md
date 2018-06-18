@@ -33,15 +33,12 @@ This is the recommended way to return or set the language of East Asian text in 
 This example sets the language of the selection to Korean.
 
 
-```
+```vb
 NormalTemplate.LanguageIDFarEast = wdKorean
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Template Object](Word.Template.md)

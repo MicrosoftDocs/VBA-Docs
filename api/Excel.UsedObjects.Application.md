@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [UsedObjects Object](Excel.UsedObjects.md)
 

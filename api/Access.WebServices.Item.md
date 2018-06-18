@@ -55,8 +55,5 @@ Debug.Print Modules.Item(0)
 ## See also
 
 
-#### Concepts
-
-
 [WebServices Collection](Access.WebServices.md)
 

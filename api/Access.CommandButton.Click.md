@@ -65,8 +65,5 @@ To distinguish between the left, right, and middle mouse buttons, use the  **Mou
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

@@ -67,8 +67,5 @@ MsgBox "The file name extensions for " &; fcTemp.FormatName &; _
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

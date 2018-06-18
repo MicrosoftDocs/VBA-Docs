@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

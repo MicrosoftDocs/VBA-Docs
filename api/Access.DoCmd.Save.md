@@ -70,8 +70,5 @@ DoCmd.Save acForm, "New Employees Form"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

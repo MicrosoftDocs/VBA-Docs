@@ -34,8 +34,5 @@ Use the  **Connection** property to refer to the **Connection** object of the cu
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

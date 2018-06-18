@@ -26,8 +26,5 @@ Sets or returns the full path (including file name) of a specific object. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

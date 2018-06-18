@@ -63,8 +63,5 @@ Range("e5").Validation _
 ## See also
 
 
-#### Concepts
-
-
 [Validation Object](Excel.Validation.md)
 

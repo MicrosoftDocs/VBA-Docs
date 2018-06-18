@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

@@ -24,7 +24,7 @@ Each filter is a line in a query string. Use the  **[Column](Publisher.MailMerge
 
  
 
-```
+```vb
 Sub SetQueryCriterion() 
  Dim intItem As Integer 
  With ActiveDocument.MailMerge.DataSource.Filters 
@@ -48,7 +48,7 @@ Use the  **[Add](Publisher.MailMergeFilters.Add.md)** method of the **MailMergeF
 
 
 
-```
+```vb
 Sub FilterDataSource() 
  With ActiveDocument.MailMerge.DataSource 
  .Filters.Add Column:="Region", _ 

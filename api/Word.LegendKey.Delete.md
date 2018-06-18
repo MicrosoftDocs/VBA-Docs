@@ -31,8 +31,5 @@ Deleting a  **LegendKey** object deletes the entire series.
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Word.LegendKey.md)
 

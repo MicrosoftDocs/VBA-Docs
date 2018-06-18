@@ -26,7 +26,7 @@ Each  **ChartObject** object represents an embedded chart. The **ChartObject** o
 Use the  **[ChartObjects](Excel.Worksheet.ChartObjects.md)** method to return the **ChartObjects** collection. The following example deletes all the embedded charts on the worksheet named "Sheet1."
 
 
-```
+```vb
 Worksheets("sheet1").ChartObjects.Delete
 ```
 
@@ -48,7 +48,7 @@ Use the  **[Add](Excel.ChartObjects.Add.md)** method to create a new, empty embe
 
 
 
-```
+```vb
 Dim ch As ChartObject 
 Set ch = Worksheets("sheet1").ChartObjects.Add(100, 30, 400, 250) 
 ch.Chart.ChartWizard source:=Worksheets("sheet1").Range("a1:a20"), _ 
@@ -60,7 +60,7 @@ Use  **ChartObjects** ( _index_ ), where _index_ is the embedded chart index num
 
 
 
-```
+```vb
 Worksheets("Sheet1").ChartObjects(1).Chart. _ 
  CChartObjecthartArea.Format.Fill.Pattern = msoPatternLightDownwardDiagonal 
 ```

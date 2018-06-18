@@ -36,8 +36,5 @@ The  **SlicerPivotTables** collection returned by the **PivotTables** property w
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

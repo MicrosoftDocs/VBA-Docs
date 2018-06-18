@@ -51,8 +51,5 @@ ActiveWorkbook.CustomViews.Add "Summary", True, True
 ## See also
 
 
-#### Concepts
-
-
 [CustomViews Object](Excel.CustomViews.md)
 

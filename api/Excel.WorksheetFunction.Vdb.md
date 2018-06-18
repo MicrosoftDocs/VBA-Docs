@@ -55,8 +55,5 @@ All arguments except no_switch must be positive numbers.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

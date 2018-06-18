@@ -39,8 +39,5 @@ SmartTag
 ## See also
 
 
-#### Concepts
-
-
 [SmartTags Collection](Access.SmartTags.md)
 

@@ -67,8 +67,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Access.Line.md)
 

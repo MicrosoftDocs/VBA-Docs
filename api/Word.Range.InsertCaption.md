@@ -50,8 +50,5 @@ ActiveDocument.Tables(1).Range.InsertCaption _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

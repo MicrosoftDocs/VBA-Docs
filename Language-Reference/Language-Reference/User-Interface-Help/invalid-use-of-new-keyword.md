@@ -27,7 +27,7 @@ Dim MyMod As New Module1
     
 - You tried to instantiate an Automation object, but it was not a creatable object. For example, you tried to create a new instance of a list box by specifying  **ListBox** in a statement like the following:
     
-  ```
+  ```vb
   ' Valid syntax to create the variable. 
 Dim MyListBox As ListBox     
 Dim MyFormInst As Form 
@@ -42,7 +42,7 @@ Set MyListBox = New ListBox
     
 
 
-  ```
+  ```vb
   ' Valid syntax to create new instance of a form or list box. 
 Set MyFormInst = New Form1 
 Set MyListBox = New List1 

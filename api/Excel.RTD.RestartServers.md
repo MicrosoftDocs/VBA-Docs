@@ -26,8 +26,5 @@ Reconnects to a real-time data server (RTD).
 ## See also
 
 
-#### Concepts
-
-
 [RTD Object](Excel.RTD.md)
 

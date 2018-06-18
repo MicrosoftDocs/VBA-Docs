@@ -62,8 +62,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

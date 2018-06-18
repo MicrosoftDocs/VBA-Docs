@@ -72,8 +72,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 

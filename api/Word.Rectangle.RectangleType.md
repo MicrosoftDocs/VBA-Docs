@@ -48,8 +48,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Rectangle Object](Word.Rectangle.md)
 

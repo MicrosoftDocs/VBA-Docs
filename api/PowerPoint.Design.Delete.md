@@ -26,8 +26,5 @@ Deletes the specified  **Design** object.
 ## See also
 
 
-#### Concepts
-
-
 [Design Object](PowerPoint.Design.md)
 

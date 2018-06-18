@@ -70,8 +70,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Access.Hyperlink.md)
 

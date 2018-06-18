@@ -46,8 +46,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Excel.ChartFormat.md)
 

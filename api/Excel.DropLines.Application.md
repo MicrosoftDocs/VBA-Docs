@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [DropLines Object](Excel.DropLines(objec).md)
 

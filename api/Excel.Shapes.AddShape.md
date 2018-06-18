@@ -59,8 +59,5 @@ myDocument.Shapes.AddShape msoShapeRectangle, 50, 50, 100, 200
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

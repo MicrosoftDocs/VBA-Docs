@@ -26,8 +26,5 @@ Deletes the specified custom property.
 ## See also
 
 
-#### Concepts
-
-
 [CustomProperty Object](Word.CustomProperty.md)
 

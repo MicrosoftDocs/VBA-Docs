@@ -41,8 +41,5 @@ ActiveDocument.Tables(1).Rows.WrapAroundText = True
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

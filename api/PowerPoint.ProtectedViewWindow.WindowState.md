@@ -26,8 +26,5 @@ Returns or sets the state of the specified window. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 

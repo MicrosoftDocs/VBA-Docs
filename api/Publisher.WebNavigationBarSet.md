@@ -24,7 +24,7 @@ Use  **WebNavigationBarSet**. **AddToEveryPage** (Left, Top, [Width]), where Lef
 
  
 
-```
+```vb
 Dim objWebNavBarSet as WebNavigationBarSet 
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets(1) 
 objWebNavBarSet.AddToEveryPage Left:=50, Top:=10, Width:=500
@@ -37,7 +37,7 @@ Use  **WebNavigationBarSet**. **DeleteSetAndInstances** to remove the Web naviga
 
 
 
-```
+```vb
 Dim objWebNavBarSet As WebNavigationBarSet 
 For Each objWebNavBarSet In ActiveDocument.WebNavigationBarSets 
  objWebNavBarSet.DeleteSetAndInstances 
@@ -51,7 +51,7 @@ There are three properties that concern horizontally oriented Web navigation bar
 
 
 
-```
+```vb
 Dim objWebNav As WebNavigationBarSet 
 Set objWebNav = ActiveDocument.WebNavigationBarSets(1) 
 With objWebNav 

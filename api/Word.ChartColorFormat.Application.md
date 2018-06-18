@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ChartColorFormat Object](Word.ChartColorFormat.md)
 

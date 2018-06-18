@@ -39,8 +39,5 @@ Next i
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

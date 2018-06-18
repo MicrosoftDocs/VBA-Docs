@@ -33,7 +33,7 @@ String
 The following example displays the extensions and descriptions for Microsoft Excel files by iterating through the filter in the  **SaveAs** dialog box.
 
 
-```
+```vb
 Sub Main() 
  
  'Declare a variable as a FileDialogFilters collection. 
@@ -61,9 +61,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FileDialogFilter Object](filedialogfilter-object-office.md)

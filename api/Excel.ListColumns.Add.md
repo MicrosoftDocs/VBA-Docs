@@ -54,8 +54,5 @@ Set myNewColumn = ActiveWorkbook.Worksheets(1).ListObjects(1).ListColumns.Add
 ## See also
 
 
-#### Concepts
-
-
 [ListColumns Object](Excel.ListColumns.md)
 

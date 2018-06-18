@@ -73,8 +73,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Inspector Object](Outlook.Inspector.md)
 

@@ -41,8 +41,5 @@ ActiveWorkbook.UpdateFromFile
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

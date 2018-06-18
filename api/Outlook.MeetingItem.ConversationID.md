@@ -35,8 +35,5 @@ If the  **MeetingItem** object is created in a version of Microsoft Outlook earl
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

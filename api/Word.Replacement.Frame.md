@@ -26,8 +26,5 @@ Returns a  **[Frame](Word.Frame.md)** object that represents the frame formattin
 ## See also
 
 
-#### Concepts
-
-
 [Replacement Object](Word.Replacement.md)
 

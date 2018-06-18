@@ -39,8 +39,5 @@ An  **AddressList** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [AddressLists Object](Outlook.AddressLists.md)
 

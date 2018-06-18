@@ -36,8 +36,5 @@ Worksheets(1).Shapes(1).TextFrame.AutoSize = True
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Excel.TextFrame.md)
 

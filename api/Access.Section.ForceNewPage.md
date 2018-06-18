@@ -64,8 +64,5 @@ intGetVal = Reports![Sales By Year].Section(acDetail).ForceNewPage
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

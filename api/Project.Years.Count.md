@@ -25,7 +25,7 @@ Gets the number of items in the  **Years** collection. Read-only **Integer**.
 The following statement prints 166 in the  **Immediate** pane of the VBE. The value is the number of years from 1984 to and including 2149.
 
 
-```
+```vb
 Print ActiveProject.Calendar.Years.Count
 ```
 
@@ -33,9 +33,6 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Years Collection Object](Project.years.md)

@@ -31,8 +31,5 @@ This property only contains the display names for the required attendees. The at
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

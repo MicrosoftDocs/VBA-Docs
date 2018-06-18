@@ -51,8 +51,5 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 ## See also
 
 
-#### Concepts
-
-
 [Tab Object](Excel.Tab.md)
 

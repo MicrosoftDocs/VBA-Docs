@@ -66,8 +66,5 @@ Set dbsContacts = DBEngine.Workspaces(0).OpenDatabase("Contacts.mdb")
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

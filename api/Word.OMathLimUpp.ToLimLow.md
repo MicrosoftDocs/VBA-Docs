@@ -31,8 +31,5 @@ OMathFunction
 ## See also
 
 
-#### Concepts
-
-
 [OMathLimUpp Object](Word.OMathLimUpp.md)
 

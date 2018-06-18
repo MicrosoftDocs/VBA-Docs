@@ -44,15 +44,12 @@ This example returns the option selected in the Color box under Track Changes op
 
 
 
-```
+```vb
 temp = Options.RevisedPropertiesColor
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

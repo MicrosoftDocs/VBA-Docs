@@ -51,8 +51,5 @@ ActiveSheet.ListColumns(1).TotalsCalculation=xlTotalsCalculationSum
 ## See also
 
 
-#### Concepts
-
-
 [ListColumn Object](Excel.ListColumn.md)
 

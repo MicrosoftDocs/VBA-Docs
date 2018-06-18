@@ -46,7 +46,7 @@ The  **FilterShowSummaryRows** method corresponds to the following command on th
 If the current filter shows only completed tasks, for example, the following command shows the summary tasks.
 
 
-```
+```vb
 FilterShowSummaryRows (true)
 ```
 

@@ -44,8 +44,5 @@ ActiveSheet.PivotTables("PivotTable3") _
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

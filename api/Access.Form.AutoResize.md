@@ -45,8 +45,5 @@ If the  **AutoCenter** property is set to No, a Form window opens with its upper
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

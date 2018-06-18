@@ -29,8 +29,5 @@ Returns a [CoAuthor](Word.CoAuthor.md) object that represents the author of the 
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

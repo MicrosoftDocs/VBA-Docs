@@ -31,8 +31,5 @@ Applies to  **InlineShape** objects that represent pictures or OLE objects.
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

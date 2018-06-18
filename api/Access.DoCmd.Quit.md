@@ -39,8 +39,5 @@ The  **Quit** method of the **DoCmd** object was added to provide backward compa
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

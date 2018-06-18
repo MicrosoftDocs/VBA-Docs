@@ -19,7 +19,7 @@ When you register a form region for a message class, by default, the inspector d
 The following example disables a form region from being modified in the Forms Designer:
 
 
-```
+```vb
 <exactMessageClass>true</exactMessageClass>
 ```
 

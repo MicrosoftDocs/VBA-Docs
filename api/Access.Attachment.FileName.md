@@ -34,8 +34,5 @@ Returns the full file name of the specified attachment. Read-only  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

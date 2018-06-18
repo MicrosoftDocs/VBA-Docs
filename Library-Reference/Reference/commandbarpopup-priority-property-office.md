@@ -41,7 +41,7 @@ Integer
 The following example sets the descriptive text and priority of a command bar popup.
 
 
-```
+```vb
 Dim popControl As CommandBarPopup 
 Set popControl = Application.CommandBars.FindControl _ 
 (Type:=msoControlPopup, Tag:="Graphics") 
@@ -55,9 +55,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarPopup Object](commandbarpopup-object-office.md)

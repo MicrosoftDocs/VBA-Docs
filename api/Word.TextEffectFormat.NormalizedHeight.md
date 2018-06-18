@@ -41,8 +41,5 @@ myDocument.Shapes("texteff1").TextEffect.NormalizedHeight = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 

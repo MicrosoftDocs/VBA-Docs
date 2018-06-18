@@ -43,7 +43,7 @@ If one of the merging applications is not an Office application, normal OLE menu
 This example adds a new button to the command bar named "Tools", and sets its  **OLEUsage** property.
 
 
-```
+```vb
 Set myControl = CommandBars("Tools").Controls _ 
     .Add(Type:=msoControlButton,Temporary:=True) 
 myControl.OLEUsage = msoControlOLEUsageNeither
@@ -51,9 +51,6 @@ myControl.OLEUsage = msoControlOLEUsageNeither
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarControl Object](commandbarcontrol-object-office.md)

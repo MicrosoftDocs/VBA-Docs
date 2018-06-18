@@ -41,8 +41,5 @@ ActiveProtectedViewWindow.WindowState = xlProtectedViewWindowMaximized
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 

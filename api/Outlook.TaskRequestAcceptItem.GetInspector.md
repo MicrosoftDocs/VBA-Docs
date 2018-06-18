@@ -31,8 +31,5 @@ This property is useful for returning an  **Inspector** object in which to displ
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 

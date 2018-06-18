@@ -31,8 +31,5 @@ An  **ExchangeUser** object that represents the manager of the Exchange user.
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

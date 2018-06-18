@@ -57,8 +57,5 @@ ActivePresentation.Slides(1).Shapes(1).Select
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 

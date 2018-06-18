@@ -71,8 +71,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

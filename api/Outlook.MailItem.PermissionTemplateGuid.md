@@ -37,8 +37,5 @@ If you attempt to set the  **PermissionTemplateGuid** property for a received me
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

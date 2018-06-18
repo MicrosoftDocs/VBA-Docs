@@ -21,7 +21,7 @@ Represents a hierarchy or measure field from an OLAP cube. In a PivotTable repor
 Use the  **[CubeField](Excel.PivotField.CubeField.md)** property to return the **CubeField** object. This example creates a list of the cube field names for all the hierarchy fields in the first OLAP-based PivotTable report on Sheet1.
 
 
-```
+```vb
 Set objNewSheet = Worksheets.Add 
 objNewSheet.Activate 
 intRow = 1 
@@ -39,7 +39,7 @@ Use  **CubeFields** ( _index_ ), where _index_ is the cube field's index number,
 
 
 
-```
+```vb
 strAlphaName = _ 
  ActiveSheet.PivotTables(1).CubeFields(2).Name
 ```

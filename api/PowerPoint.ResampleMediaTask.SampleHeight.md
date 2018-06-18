@@ -26,8 +26,5 @@ Returns the resolution height of the sample. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ResampleMediaTask Object](PowerPoint.ResampleMediaTask.md)
 

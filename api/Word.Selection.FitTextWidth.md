@@ -28,15 +28,12 @@ Returns or sets the width (in the current measurement units) in which Microsoft 
 This example fits the current selection into a space five centimeters wide.
 
 
-```
+```vb
 Selection.FitTextWidth = CentimetersToPoints(5)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

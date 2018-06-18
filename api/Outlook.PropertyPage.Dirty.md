@@ -51,8 +51,5 @@ End Property
 ## See also
 
 
-#### Concepts
-
-
 [PropertyPage Object](Outlook.PropertyPage.md)
 

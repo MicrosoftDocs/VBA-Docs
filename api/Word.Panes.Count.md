@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of panes in the collection. Read-
 ## See also
 
 
-#### Concepts
-
-
 [Panes Collection Object](Word.panes.md)
 

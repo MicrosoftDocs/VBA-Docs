@@ -37,9 +37,6 @@ The value of the  **Style** property is available as a value in the **[MsoButton
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarButton Object](commandbarbutton-object-office.md)
 #### Other resources
 

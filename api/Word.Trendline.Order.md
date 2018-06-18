@@ -26,8 +26,5 @@ Returns or sets the trendline order (an integer greater than 1) when the trendli
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Word.Trendline.md)
 

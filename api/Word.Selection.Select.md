@@ -31,8 +31,5 @@ After using this method, use the  **Selection** object to work with the selected
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

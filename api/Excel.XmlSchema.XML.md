@@ -26,8 +26,5 @@ Returns a  **String** value that represents the content of the specified schema.
 ## See also
 
 
-#### Concepts
-
-
 [XmlSchema Object](Excel.XmlSchema.md)
 

@@ -36,8 +36,5 @@ The  **SetProperty** method carries out the SetProperty action in Visual Basic.
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

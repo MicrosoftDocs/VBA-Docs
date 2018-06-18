@@ -33,8 +33,5 @@ This property corresponds to the MAPI property  **PidTagSubject** . The **Subjec
 ## See also
 
 
-#### Concepts
-
-
 [NoteItem Object](Outlook.NoteItem.md)
 

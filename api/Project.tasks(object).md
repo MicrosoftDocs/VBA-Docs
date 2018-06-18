@@ -20,7 +20,7 @@ Use  **Tasks** ( _Index_ ), where _Index_ is the task index number or task name,
 
 
 
-```
+```vb
 Dim Temp As Long, A As Assignment 
 
 Dim TaskName As String, Assigned As String, Results As String 
@@ -57,7 +57,7 @@ Use the  **[Tasks](http://msdn.microsoft.com/library/8f58ea8e-a3a1-f5aa-ad5d-644
 
 
 
-```
+```vb
 Dim T As Task, Names As String 
 
  
@@ -78,7 +78,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/a6e2186b-610c-0888-a22a-8b7de
 
 
 
-```
+```vb
 ActiveProject.Tasks.Add "Hang clocks"
 ```
 

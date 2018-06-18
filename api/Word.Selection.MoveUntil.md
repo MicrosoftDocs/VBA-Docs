@@ -42,16 +42,13 @@ This method returns the number of characters by which the specified selection wa
 This example moves the selection forward to the end of the active paragraph and then displays the number of characters by which the selection was moved.
 
 
-```
+```vb
 x = Selection.MoveUntil(Cset:=Chr$(13), Count:=wdForward) 
 MsgBox x-1 &; " character positions were moved"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

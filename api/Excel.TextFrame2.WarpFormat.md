@@ -23,8 +23,5 @@ Returns or sets the warp type for the specified text frame. Read/write  **[MsoWa
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

@@ -86,8 +86,5 @@ When you switch between two open forms, the  **Deactivate** event occurs for the
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

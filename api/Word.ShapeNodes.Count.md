@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of shape nodes in the collection.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Collection Object](Word.shapenodes.md)
 

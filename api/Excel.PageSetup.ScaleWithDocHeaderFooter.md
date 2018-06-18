@@ -26,8 +26,5 @@ Returns or sets if the header and footer should be scaled with the document when
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

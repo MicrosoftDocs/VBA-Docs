@@ -33,7 +33,7 @@ Use the  **Paste** method to paste the contents of the Clipboard.
 This example copies the selection in window one to the Clipboard and then pastes it into the view in window two. If the Clipboard contents cannot be pasted into the view in window two — for example, if you try to paste a shape into slide sorter view — this example fails.
 
 
-```
+```vb
 Windows(1).Selection.Copy
 
 Windows(2).View.Paste
@@ -41,9 +41,6 @@ Windows(2).View.Paste
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](PowerPoint.Selection.md)

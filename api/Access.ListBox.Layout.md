@@ -26,8 +26,5 @@ Returns the type of layout for the specified list box. Read-only  **[AcLayoutTyp
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

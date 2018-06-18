@@ -23,8 +23,5 @@ If the point has a picture fill, copies the picture to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](PowerPoint.Point.md)
 

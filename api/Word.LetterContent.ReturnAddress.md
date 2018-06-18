@@ -43,8 +43,5 @@ Documents.Add.RunLetterWizard LetterContent:=oLC
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

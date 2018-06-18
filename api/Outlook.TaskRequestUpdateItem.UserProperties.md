@@ -26,8 +26,5 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

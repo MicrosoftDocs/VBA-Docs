@@ -50,8 +50,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 

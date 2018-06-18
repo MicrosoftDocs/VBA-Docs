@@ -38,8 +38,5 @@ The  **[Range](Excel.Range(objec).md)** object must be a single cell in the Pivo
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

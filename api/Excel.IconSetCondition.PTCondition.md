@@ -26,8 +26,5 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 ## See also
 
 
-#### Concepts
-
-
 [IconSetCondition Object](Excel.IconSetCondition.md)
 

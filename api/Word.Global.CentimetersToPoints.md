@@ -36,7 +36,7 @@ Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns
 This example adds a centered tab stop to all the paragraphs in the selection. The tab stop is positioned at 1.5 centimeters from the left margin.
 
 
-```
+```vb
 Selection.Paragraphs.TabStops.Add _ 
  Position:=CentimetersToPoints(1.5), _ 
  Alignment:=wdAlignTabCenter
@@ -54,9 +54,6 @@ ActiveDocument.Paragraphs(1).FirstLineIndent = _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

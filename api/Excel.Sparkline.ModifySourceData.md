@@ -44,8 +44,5 @@ The data source range for a single sparkline must be continuous.
 ## See also
 
 
-#### Concepts
-
-
 [Sparkline Object](Excel.Sparkline.md)
 

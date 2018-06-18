@@ -21,7 +21,7 @@ Returns the red-green-blue value of the specified color. Read-only  **Long**.
 This example sets the color of the legend font to the foreground fill color of the plot area.
 
 
-```
+```vb
 myChart.Legend.Font.Color = _ 
  myChart.PlotArea.Fill.ForeColor.RGB
 ```

@@ -50,8 +50,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

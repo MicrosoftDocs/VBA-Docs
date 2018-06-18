@@ -38,8 +38,5 @@ Returns a value number shifted right by shift_amount bits.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

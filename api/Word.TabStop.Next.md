@@ -26,8 +26,5 @@ Returns the next tabstop in the collection. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [TabStop Object](Word.TabStop.md)
 

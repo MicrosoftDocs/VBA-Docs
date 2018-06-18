@@ -31,8 +31,5 @@ Returns  **True** if drill indicators are displayed in the PivotTable and return
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

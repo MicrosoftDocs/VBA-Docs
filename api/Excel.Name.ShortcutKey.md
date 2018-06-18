@@ -36,8 +36,5 @@ ActiveWorkbook.Names(1).ShortcutKey = "K"
 ## See also
 
 
-#### Concepts
-
-
 [Name Object](Excel.Name.md)
 

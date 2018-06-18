@@ -49,8 +49,5 @@ Forms("Purchase Orders").SubdatasheetHeight = 400
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

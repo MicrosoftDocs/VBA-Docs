@@ -49,8 +49,5 @@ Worksheets(1).QueryTables(1).SavePassword = False
 ## See also
 
 
-#### Concepts
-
-
 [QueryTable Object](Excel.QueryTable.md)
 

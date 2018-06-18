@@ -39,8 +39,5 @@ MsgBox myFormField.CheckBox.Valid
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Word.CheckBox.md)
 

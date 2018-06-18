@@ -28,7 +28,7 @@ Gets a  **String** that represents the name of the table within the data source 
 This example sets the name of the table if the table name is currently blank.
 
 
-```
+```vb
 Sub OfficeTest() 
  
  Dim appOffice As OfficeDataSourceObject 
@@ -47,9 +47,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [OfficeDataSourceObject Object](officedatasourceobject-object-office.md)

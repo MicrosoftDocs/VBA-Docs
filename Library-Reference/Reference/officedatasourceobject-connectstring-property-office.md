@@ -28,7 +28,7 @@ Gets or sets a  **String** that represents the connection to the specified mail 
 This example checks if the connection string contains the characters ODSOOutlook and displays a message accordingly.
 
 
-```
+```vb
 Sub VerifyCorrectDataSource() 
  Dim appOffice As OfficeDataSourceObject 
  
@@ -47,9 +47,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [OfficeDataSourceObject Object](officedatasourceobject-object-office.md)

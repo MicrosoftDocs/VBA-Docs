@@ -31,8 +31,5 @@ For the  **Font** object, this property has no effect in Microsoft Windows, but 
 ## See also
 
 
-#### Concepts
-
-
 [ChartObject Object](Excel.ChartObject.md)
 

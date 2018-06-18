@@ -43,8 +43,5 @@ The value of the  **Type** property can be one of these **PpSoundEffectType** co
 ## See also
 
 
-#### Concepts
-
-
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 

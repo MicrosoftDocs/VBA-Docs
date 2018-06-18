@@ -31,8 +31,5 @@ If the list is linked to a SharePoint site, deleting it does not affect data on 
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

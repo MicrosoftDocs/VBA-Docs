@@ -28,7 +28,4 @@ For an example that uses actual start drivers, see  **[TotalDetectedCount](Proje
 ## See also
 
 
-#### Concepts
-
-
 [CalendarDrivers Collection Object](Project.calendardrivers.md)

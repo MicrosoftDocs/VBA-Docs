@@ -31,8 +31,5 @@ You must set the  **ReminderOverrideDefault** property to validate the **[Remind
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

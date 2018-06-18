@@ -39,8 +39,5 @@ This property directly reflects the state of the  **Select All** check box in th
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

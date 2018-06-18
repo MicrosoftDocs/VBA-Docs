@@ -50,7 +50,7 @@ The  **TextFileThousandsSeparator** property applies only to **QueryTable** obje
 This example saves the original thousands separator and sets it to a period for the first query table on Sheet1, in preparation for importing a French text file (for example) into the U.S. English version of Microsoft Excel.
 
 
-```
+```vb
 strDecSep = Worksheets("Sheet1").QueryTables(1) _ 
  .TextFileThousandsSeparator 
 Worksheets("Sheet1").QueryTables(1) _ 
@@ -59,9 +59,6 @@ Worksheets("Sheet1").QueryTables(1) _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [QueryTable Object](Excel.QueryTable.md)

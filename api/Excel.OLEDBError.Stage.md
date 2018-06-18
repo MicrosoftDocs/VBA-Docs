@@ -40,8 +40,5 @@ MsgBox "The following error occurred:" &; _
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBError Object](Excel.OLEDBError.md)
 

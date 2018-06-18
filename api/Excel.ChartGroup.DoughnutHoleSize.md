@@ -36,8 +36,5 @@ Charts("Chart1").DoughnutGroups(1).DoughnutHoleSize = 10
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

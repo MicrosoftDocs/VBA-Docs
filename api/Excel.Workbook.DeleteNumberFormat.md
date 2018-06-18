@@ -44,8 +44,5 @@ ActiveWorkbook.DeleteNumberFormat("000-00-0000")
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

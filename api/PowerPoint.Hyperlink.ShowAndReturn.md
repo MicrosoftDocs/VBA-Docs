@@ -42,8 +42,5 @@ The value of the  **ShowAndReturn** property can be one of these **MsoTriState**
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 

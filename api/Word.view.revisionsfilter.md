@@ -29,9 +29,6 @@ Returns an instance of a  **RevisionsFilter** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 #### Other resources
 

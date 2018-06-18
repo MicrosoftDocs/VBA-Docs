@@ -21,7 +21,7 @@ While using [type-declaration characters](vbe-glossary.md) is valid in Visual Ba
     
 - You tried to use a [type-declaration character](vbe-glossary.md) in reference to a variable that was implicitly declared without a type-declaration character:
     
-  ```
+  ```vb
   MyVar = 20    ' Implicit declaration. 
 MyVar% = 25    ' Generates an error. 
 

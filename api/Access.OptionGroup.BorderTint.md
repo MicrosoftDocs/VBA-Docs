@@ -43,8 +43,5 @@ Me.ctl.BorderTint=25
 ## See also
 
 
-#### Concepts
-
-
 [OptionGroup Object](Access.OptionGroup.md)
 

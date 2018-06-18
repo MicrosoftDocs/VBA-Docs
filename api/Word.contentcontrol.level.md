@@ -29,8 +29,5 @@ Returns the level of the content control—whether the content control surrounds
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

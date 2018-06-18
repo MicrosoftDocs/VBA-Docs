@@ -25,7 +25,7 @@ Use  **Bookmarks** (index), where index is the bookmark name or index number, to
 
 
 
-```
+```vb
 ActiveDocument.Bookmarks("temp").Select
 ```
 
@@ -34,7 +34,7 @@ The index number represents the position of the bookmark in the  **[Selection](W
 
 
 
-```
+```vb
 MsgBox ActiveDocument.Bookmarks(2).Name
 ```
 
@@ -43,7 +43,7 @@ Use the  **[Add](Word.Bookmarks.Add.md)** method to add a bookmark to a document
 
 
 
-```
+```vb
 ActiveDocument.Bookmarks.Add Name:="temp", Range:=Selection.Range
 ```
 
@@ -54,7 +54,7 @@ Use the  **BookmarkID** property with a range or selection object to return the 
 
 
 
-```
+```vb
 MsgBox ActiveDocument.Bookmarks("temp").Range.BookmarkID
 ```
 
@@ -63,7 +63,7 @@ You can use [predefined bookmarks](http://msdn.microsoft.com/library/aa1c6d85-fe
 
 
 
-```
+```vb
 ActiveDocument.Bookmarks("\Para").Copy "currpara"
 ```
 
@@ -72,7 +72,7 @@ Use the  **[Exists](Word.Bookmarks.Exists.md)** method to determine whether a bo
 
 
 
-```
+```vb
 If ActiveDocument.Bookmarks.Exists("temp") = True Then 
  ActiveDocument.Bookmarks("temp").Select 
 End If

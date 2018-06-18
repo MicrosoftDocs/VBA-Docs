@@ -41,8 +41,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TabStop Object](Word.TabStop.md)
 

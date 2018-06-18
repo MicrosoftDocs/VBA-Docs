@@ -33,8 +33,5 @@ When this property is  **True** , the forms designer performs automatic layout r
 ## See also
 
 
-#### Concepts
-
-
 [FormRegion Object](Outlook.FormRegion.md)
 

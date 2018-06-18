@@ -29,9 +29,6 @@ Deletes the current  **SharedWorkspaceFile** object.
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFile Object](sharedworkspacefile-object-office.md)
 #### Other resources
 

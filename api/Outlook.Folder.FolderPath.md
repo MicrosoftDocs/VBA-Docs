@@ -70,8 +70,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

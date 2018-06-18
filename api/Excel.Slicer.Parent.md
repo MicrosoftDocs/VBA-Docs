@@ -26,8 +26,5 @@ Returns the  **[Worksheet](Excel.Worksheet.md)** object that represents the shee
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

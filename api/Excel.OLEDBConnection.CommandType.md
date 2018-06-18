@@ -31,8 +31,5 @@ The constant that is returned or set describes the value of the  **[CommandText]
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

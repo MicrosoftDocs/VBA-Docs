@@ -24,7 +24,7 @@ The syntax of your statement indicates a [variable](vbe-glossary.md) or function
     
 
 
-  ```
+  ```vb
   MySub = 237    ' Causes Expected Function or variable error
   ```
 

@@ -23,9 +23,6 @@ Returns  **true** if this node is a hidden node in the data model. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

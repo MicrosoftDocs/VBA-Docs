@@ -34,8 +34,5 @@ The value of this property can be expressed as a value between 0.0 (opaque) and 
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

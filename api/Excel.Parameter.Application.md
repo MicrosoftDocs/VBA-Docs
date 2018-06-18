@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Parameter Object](Excel.Parameter.md)
 

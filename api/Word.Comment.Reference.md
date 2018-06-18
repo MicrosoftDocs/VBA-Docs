@@ -26,8 +26,5 @@ Returns a  **Range** object that represents a reference mark for a comment.
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

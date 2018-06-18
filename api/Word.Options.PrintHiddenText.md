@@ -43,15 +43,12 @@ This example returns the current status of the  **Hidden text** option on the **
 
 
 
-```
+```vb
 temp = Options.PrintHiddenText
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

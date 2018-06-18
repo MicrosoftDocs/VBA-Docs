@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Wind
 ## See also
 
 
-#### Concepts
-
-
 [Windows Collection Object](Word.windows.md)
 

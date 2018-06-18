@@ -51,8 +51,5 @@ ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geograp
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

@@ -36,8 +36,5 @@ Worksheets(1).Shapes(1).Hyperlink.Follow NewWindow:=True
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

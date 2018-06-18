@@ -26,8 +26,5 @@ Returns or sets an  **[OlDefaultExpandCollapseSetting](Outlook.OlDefaultExpandCo
 ## See also
 
 
-#### Concepts
-
-
 [TimelineView Object](Outlook.TimelineView.md)
 

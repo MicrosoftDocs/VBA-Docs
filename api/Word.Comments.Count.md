@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of items in the **Comments** coll
 ## See also
 
 
-#### Concepts
-
-
 [Comments Collection Object](Word.comments.md)
 

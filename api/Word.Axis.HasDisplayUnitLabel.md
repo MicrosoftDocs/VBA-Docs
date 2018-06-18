@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Word.Axis.md)
 

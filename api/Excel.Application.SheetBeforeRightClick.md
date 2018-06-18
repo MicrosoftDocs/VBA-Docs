@@ -41,8 +41,5 @@ This event doesn't occur on chart sheets.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

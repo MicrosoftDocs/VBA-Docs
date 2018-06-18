@@ -31,8 +31,5 @@ Returns a constant,  **olRuleActionAssignToCategory** , from the **[OlRuleAction
 ## See also
 
 
-#### Concepts
-
-
 [AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 

@@ -46,8 +46,5 @@ You can use the  **SetMenuItem** method to set the state of menu items (enabled 
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

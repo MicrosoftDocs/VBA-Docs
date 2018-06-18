@@ -26,8 +26,5 @@ Specifies whether a colon (:) follows the text in labels for new controls. Read/
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

@@ -47,8 +47,5 @@ To calculate the percent of progress to show in a progress indicator, multiply t
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

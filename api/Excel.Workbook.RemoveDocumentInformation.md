@@ -34,8 +34,5 @@ Removes all information of the specified type from the workbook.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -49,7 +49,7 @@ For  **Page** objects _SID_SRCStream()_ should be a one-dimensional array of 4 _
 
 
 
-```
+```vb
 {sheetID, sectionIdx, rowIdx, cellIdx }n
 ```
 

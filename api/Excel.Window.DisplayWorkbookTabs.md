@@ -36,8 +36,5 @@ ActiveWindow.DisplayWorkbookTabs = True
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

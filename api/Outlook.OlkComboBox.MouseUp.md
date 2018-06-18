@@ -37,8 +37,5 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

@@ -60,8 +60,5 @@ The value of the  **Type** property can be one of these **MsoShadowType** consta
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 

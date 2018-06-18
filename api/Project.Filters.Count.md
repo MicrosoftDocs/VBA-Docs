@@ -89,7 +89,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Filters Collection Object](Project.filters.md)

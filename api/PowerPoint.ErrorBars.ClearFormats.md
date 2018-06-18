@@ -23,9 +23,6 @@ Clears the formatting of the object.
 ## See also
 
 
-#### Concepts
-
-
 
 [ErrorBars Object](PowerPoint.ErrorBars.md)
 

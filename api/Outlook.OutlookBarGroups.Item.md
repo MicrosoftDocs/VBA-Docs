@@ -39,8 +39,5 @@ An  **OutlookBarGroup** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 

@@ -26,8 +26,5 @@ Moves the focus to the next file in the specified  **Attachment** control.
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

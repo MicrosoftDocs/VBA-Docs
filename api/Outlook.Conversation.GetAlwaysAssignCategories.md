@@ -50,8 +50,5 @@ To stop the action of always assigning categories, use the  **[ClearAlwaysAssign
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

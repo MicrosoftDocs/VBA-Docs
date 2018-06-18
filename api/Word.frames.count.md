@@ -29,8 +29,5 @@ Returns a  **Long** that represents the number of frames in the collection. Read
 ## See also
 
 
-#### Concepts
-
-
 [Frames Collection](Word.Frames.md)
 

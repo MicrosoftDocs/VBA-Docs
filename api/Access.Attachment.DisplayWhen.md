@@ -46,8 +46,5 @@ For reports, use the  **Format** and **Retreat** events to specify an event proc
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

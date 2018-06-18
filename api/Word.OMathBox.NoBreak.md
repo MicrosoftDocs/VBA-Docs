@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether breaks are allowed inside
 ## See also
 
 
-#### Concepts
-
-
 [OMathBox Object](Word.OMathBox.md)
 

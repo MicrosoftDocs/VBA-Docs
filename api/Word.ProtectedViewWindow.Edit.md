@@ -58,8 +58,5 @@ Set pvDoc = ActiveProtectedViewWindow.Edit
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

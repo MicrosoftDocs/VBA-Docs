@@ -32,7 +32,7 @@ You can also use the  **[LineSpacingRule](Word.ParagraphFormat.LineSpacingRule.m
 
 
 
-```
+```vb
 Selection.ParagraphFormat.Space1 
 Selection.ParagraphFormat.LineSpacingRule = wdLineSpaceSingle
 ```
@@ -43,15 +43,12 @@ Selection.ParagraphFormat.LineSpacingRule = wdLineSpaceSingle
 This example changes the first paragraph in the active document to single spacing.
 
 
-```
+```vb
 Selection.ParagraphFormat.Space1
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)

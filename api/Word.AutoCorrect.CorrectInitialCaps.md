@@ -36,8 +36,5 @@ AutoCorrect.CorrectInitialCaps = True
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Word.AutoCorrect.md)
 

@@ -26,8 +26,5 @@ Copies the object to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](Word.ChartArea.md)
 

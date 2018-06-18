@@ -19,8 +19,5 @@ ms.date: 06/08/2017
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

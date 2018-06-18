@@ -67,8 +67,5 @@ Me!Expected.ControlSource = "=Date() + 7"
 ## See also
 
 
-#### Concepts
-
-
 [OptionGroup Object](Access.OptionGroup.md)
 

@@ -26,8 +26,5 @@ Returns a  **Double** value that represents the width, in points, of the object.
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](Excel.LegendEntry(objec).md)
 

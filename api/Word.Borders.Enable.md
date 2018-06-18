@@ -67,7 +67,7 @@ This example applies a dashed border around the first paragraph in the selection
 
 
 
-```
+```vb
 Options.DefaultBorderLineWidth = wdLineWidth025pt 
 Selection.Paragraphs(1).Borders.Enable = _ 
  wdLineStyleDashSmallGap
@@ -84,9 +84,6 @@ Selection.Characters(1).Borders.Enable = True
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Borders Collection Object](Word.borders.md)

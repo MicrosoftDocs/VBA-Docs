@@ -26,8 +26,5 @@ Returns or sets an  **[OlActionReplyStyle](Outlook.OlActionReplyStyle.md)** cons
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Outlook.Action.md)
 

@@ -32,7 +32,7 @@ The first record or byte in a file is at position 1, the second record or byte i
 
 
 
-```
+```vb
 Get #4,,FileBuffer 
 
 ```
@@ -75,7 +75,7 @@ For files opened in  **Binary** mode, all of the **Random** rules apply, except:
     
 -  **Get** reads variable-length strings that aren't elements of user-defined types without expecting the 2-byte length descriptor. The number of bytes read equals the number of characters already in the string. For example, the following statements read 10 bytes from[file number](vbe-glossary.md) 1:
     
-  ```
+  ```vb
   VarString = String(10," ") 
 Get #1,,VarString 
 

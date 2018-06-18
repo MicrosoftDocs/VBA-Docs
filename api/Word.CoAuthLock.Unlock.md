@@ -50,8 +50,5 @@ Next myLock
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthLock Object](Word.CoAuthLock.md)
 

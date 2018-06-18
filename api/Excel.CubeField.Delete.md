@@ -31,8 +31,5 @@ You can delete cube fields only if you have created the cube fields yourself by 
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

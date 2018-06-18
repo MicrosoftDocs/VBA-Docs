@@ -52,7 +52,7 @@ You can use the logical operators  **And**,  **Not**,  **Or** in filter strings 
     
 
 
-```
+```vb
   criteria = _ "[FirstName] = 'Jane' And Not([CompanyName] = 'Microsoft')"
 ```
 
@@ -62,7 +62,7 @@ You can use the logical operators  **And**,  **Not**,  **Or** in filter strings 
     
 
 
-```
+```vb
   criteria = _ "[FirstName] = 'Mary' And [CompanyName] = 'Microsoft'"
 ```
 
@@ -72,7 +72,7 @@ You can use the logical operators  **And**,  **Not**,  **Or** in filter strings 
     
 
 
-```
+```vb
   criteria = "[FirstName] = 'Peter' Or [FirstName] = 'Paul'"
 ```
 

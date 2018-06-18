@@ -21,7 +21,7 @@ Represents a dictionary.  **Dictionary** objects that represent custom dictionar
 Use  **[CustomDictionaries](Word.Application.CustomDictionaries.md)** (Index), where Index is an index number or the string name for the dictionary, to return a single **Dictionary** object that represents a custom dictionary. The following example returns the first dictionary in the collection.
 
 
-```
+```vb
 CustomDictionaries(1)
 ```
 
@@ -30,7 +30,7 @@ The following example returns the dictionary named "MyDictionary."
 
 
 
-```
+```vb
 CustomDictionaries("MyDictionary")
 ```
 
@@ -41,7 +41,7 @@ Use the  **[Add](Word.Dictionaries.Add.md)** method to add a new dictionary to t
 
 
 
-```
+```vb
 CustomDictionaries.Add FileName:="MyCustom.dic"
 ```
 

@@ -41,15 +41,12 @@ The division is at the beginning of the specified range. An error occurs if the 
 This example splits the selection from an existing subdocument into a separate subdocument.
 
 
-```
+```vb
 Selection.Range.Subdocuments(1).Split Range:=Selection.Range
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Subdocument Object](Word.Subdocument.md)

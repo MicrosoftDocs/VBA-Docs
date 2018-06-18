@@ -26,8 +26,5 @@ Returns or sets a tint and shade pattern for an  **Interior** object. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [Interior Object](Excel.Interior(objec).md)
 

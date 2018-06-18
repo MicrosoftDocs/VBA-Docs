@@ -26,8 +26,5 @@ Deletes the specified  **ColorScheme** object.
 ## See also
 
 
-#### Concepts
-
-
 [ColorScheme Object](PowerPoint.ColorScheme.md)
 

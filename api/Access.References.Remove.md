@@ -39,8 +39,5 @@ To determine the name of the  **Reference** object you wish to remove, check the
 ## See also
 
 
-#### Concepts
-
-
 [References Collection](Access.References.md)
 

@@ -45,8 +45,5 @@ ActiveDocument.TablesOfAuthorities.NextCitation _
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 

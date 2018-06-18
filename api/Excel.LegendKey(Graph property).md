@@ -21,7 +21,7 @@ Returns a  **[LegendKey](Excel.LegendKey(Graph object).md)** object that represe
 This example sets the legend key for legend entry one to be a triangle. The example should be run on a 2-D line chart.
 
 
-```
+```vb
 myChart.Legend.LegendEntries(1).LegendKey _ 
  .MarkerStyle = xlMarkerStyleTriangle
 ```

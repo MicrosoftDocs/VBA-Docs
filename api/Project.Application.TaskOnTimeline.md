@@ -51,7 +51,7 @@ If the project includes custom timeline views, using the  _TimelineViewName_ arg
 The following statement removes selected tasks from the timeline. You can select the tasks in the Gantt Chart or on the timeline.
 
 
-```
+```vb
 application.TaskOnTimeline Remove:=True
 ```
 
@@ -60,7 +60,7 @@ If the built-in Timeline pane is active and a custom timeline named "My Timeline
 
 
 
-```
+```vb
 application.TaskOnTimeline TaskID:=3, TimelineViewName:="My Timeline"
 ```
 

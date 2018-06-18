@@ -39,8 +39,5 @@ The  **ChangePivotCache** method can only be used with a **PivotTable** that use
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

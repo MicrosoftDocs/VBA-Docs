@@ -39,8 +39,5 @@ An  **Object** value that represents the item that has been moved to the designa
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

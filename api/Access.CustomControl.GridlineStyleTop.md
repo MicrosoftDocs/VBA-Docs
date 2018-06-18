@@ -43,8 +43,5 @@ The  **TopGridlineStyle** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

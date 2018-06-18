@@ -60,8 +60,5 @@ ActiveWorkbook.FollowHyperlink Address:="http://example.microsoft.com"
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

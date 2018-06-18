@@ -37,8 +37,5 @@ ActiveDocument.Hyperlinks(1).ScreenTip = _
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

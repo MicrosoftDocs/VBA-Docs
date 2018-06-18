@@ -59,8 +59,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedMember Object](Excel.CalculatedMember.md)
 

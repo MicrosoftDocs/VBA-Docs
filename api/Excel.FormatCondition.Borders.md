@@ -44,8 +44,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Excel.FormatCondition.md)
 

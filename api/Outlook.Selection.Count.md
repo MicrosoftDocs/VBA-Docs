@@ -26,8 +26,5 @@ Returns a  **Long** that indicates the number of items or conversation headers i
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Outlook.Selection.md)
 

@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs.WidowControl = False
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

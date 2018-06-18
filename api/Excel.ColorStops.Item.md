@@ -39,8 +39,5 @@ A  **ColorStops** object contained by the collection.
 ## See also
 
 
-#### Concepts
-
-
 [ColorStops Object](Excel.ColorStops.md)
 

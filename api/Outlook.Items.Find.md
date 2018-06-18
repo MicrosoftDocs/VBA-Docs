@@ -79,7 +79,7 @@ When filtering text fields, you can use either a pair of single quotes (') or a 
 
 
 
-```
+```vb
 sFilter = "[CompanyName] = 'Microsoft'"  
 sFilter = "[CompanyName] = ""Microsoft"""  
 sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
@@ -92,7 +92,7 @@ For example, in the DASL filter string that filters for the  **Subject** propert
 
 
 
-```
+```vb
 filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'can''t'"
 ```
 
@@ -101,7 +101,7 @@ Alternatively, you can use the  `chr(34)` function to represent the double quote
 
 
 
-```
+```vb
 filter = "@SQL= " &; Chr(34) &; "http://schemas.microsoft.com/mapi/proptag/0x0037001f" _&; Chr(34) &; " = " &; "'can''t'"
 ```
 
@@ -110,7 +110,7 @@ Escaping single and double quote characters is also required for DASL queries wi
 
 
 
-```
+```vb
 filter = "@SQL=" &; Chr(34) &; "http://schemas.microsoft.com/mapi/proptag/0x0037001E" _&; Chr(34) &; " ci_phrasematch " &; "'can''t'"
 ```
 
@@ -119,7 +119,7 @@ Another example is a DASL filter string that filters for the  **Subject** proper
 
 
 
-```
+```vb
 filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'the right ""stuff""'"
 ```
 
@@ -132,7 +132,7 @@ Although dates and times are typically stored with a  **Date** format, the **Fin
 
 
 
-```
+```vb
 sFilter = "[LastModificationTime] > '" &; Format("1/15/99 3:30pm", "ddddd h:nn AMPM") &; "'"
 ```
 
@@ -143,7 +143,7 @@ sFilter = "[LastModificationTime] > '" &; Format("1/15/99 3:30pm", "ddddd h:nn A
 
 
 
-```
+```vb
 sFilter = "[Journal] = True" 
 ```
 
@@ -164,7 +164,7 @@ You can search for  **Integer** fields with or without quotation marks as delimi
 
 
 
-```
+```vb
 sFilter = "[OutlookInternalVersion] = 92711"  
 sFilter = "[OutlookInternalVersion] = '92711'"
 ```
@@ -176,7 +176,7 @@ As the  **Restrict** method example illustrates, you can use values from variabl
 
 
 
-```
+```vb
 sFullName = "Dan Wilson" 
 ```
 
@@ -185,7 +185,7 @@ sFullName = "Dan Wilson"
 
 
 
-```
+```vb
 sFilter = "[FullName] = " &; Chr(34) &; sFullName &; Chr(34)
 ```
 
@@ -194,7 +194,7 @@ sFilter = "[FullName] = " &; Chr(34) &; sFullName &; Chr(34)
 
 
 
-```
+```vb
 sFilter = "[FullName] = """ &; sFullName &; """"
 ```
 
@@ -242,9 +242,6 @@ sFilter = "[LastName] > 'LZZZ' And [LastName] < 'N'"
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Items Object](Outlook.Items.md)

@@ -47,7 +47,7 @@ Alternatively, a program can use the following statement to set the cell's resul
 
 
 
-```
+```vb
 vsoCell.Result(visTextUnits) = 12
 ```
 

@@ -26,8 +26,5 @@ Gets or sets whether the width of the form is reduced to fit the width of the sc
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

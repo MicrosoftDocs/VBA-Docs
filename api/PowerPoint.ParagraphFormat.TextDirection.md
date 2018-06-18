@@ -55,8 +55,5 @@ MsgBox ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange _
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 

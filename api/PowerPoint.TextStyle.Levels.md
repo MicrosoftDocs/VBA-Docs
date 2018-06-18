@@ -26,8 +26,5 @@ Returns a  **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** object that repr
 ## See also
 
 
-#### Concepts
-
-
 [TextStyle Object](PowerPoint.TextStyle.md)
 

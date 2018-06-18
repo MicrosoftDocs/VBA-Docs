@@ -31,8 +31,5 @@ Returns an error if the path is invalid.
 ## See also
 
 
-#### Concepts
-
-
 [PlaySoundRuleAction Object](Outlook.PlaySoundRuleAction.md)
 

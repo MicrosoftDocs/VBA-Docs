@@ -77,7 +77,7 @@ Use  `Selection.ShapeRange`( _index_ ), where _index_ is the shape name or the i
 The following example horizontally flips shape one and the shape named Rectangle 1 on  _myDocument_.
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 myDocument.Shapes(1).Flip msoFlipHorizontal 
 myDocument.Shapes("Rectangle 1").Flip msoFlipHorizontal
@@ -88,7 +88,7 @@ Each shape is assigned a default name when you add it to the  **Shapes** collect
 
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 With myDocument.Shapes.AddShape(msoShapeRectangle, _ 
  144, 144, 72, 72) 
@@ -103,7 +103,7 @@ The following example sets the fill for the first shape in the selection in the 
 
 
 
-```
+```vb
 ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _ 
  RGB(255, 0, 0)
 ```

@@ -34,8 +34,5 @@ Displays the  **Check Phone Number** dialog box for a specified telephone number
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

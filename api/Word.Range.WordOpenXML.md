@@ -31,8 +31,5 @@ This property returns only the XML in the document that is needed to represent t
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

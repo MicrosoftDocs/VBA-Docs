@@ -78,8 +78,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CubeFields Object](Excel.CubeFields.md)
 

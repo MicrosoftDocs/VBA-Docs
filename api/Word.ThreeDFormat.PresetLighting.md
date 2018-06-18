@@ -26,8 +26,5 @@ Returns or sets an  **MsoBevelType** constant that represents the lighting prese
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

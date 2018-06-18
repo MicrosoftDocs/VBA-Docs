@@ -50,8 +50,5 @@ ActiveDocument.XMLNodes(1).RemoveChild _
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

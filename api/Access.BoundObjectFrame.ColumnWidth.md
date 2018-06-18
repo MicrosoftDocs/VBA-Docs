@@ -57,8 +57,5 @@ Forms![Customers]![Address].ColumnWidth = -2
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

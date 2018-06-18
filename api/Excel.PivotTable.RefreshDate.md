@@ -43,8 +43,5 @@ MsgBox "The data was last refreshed on " &; dateString
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

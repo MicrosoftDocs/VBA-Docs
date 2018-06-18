@@ -61,8 +61,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

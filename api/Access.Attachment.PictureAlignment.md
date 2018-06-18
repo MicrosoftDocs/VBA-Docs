@@ -46,8 +46,5 @@ When you set the  **PictureTiling** property to Yes, tiling of the picture will 
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

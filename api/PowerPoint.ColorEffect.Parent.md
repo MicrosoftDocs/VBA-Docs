@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ColorEffect Object](PowerPoint.ColorEffect.md)
 

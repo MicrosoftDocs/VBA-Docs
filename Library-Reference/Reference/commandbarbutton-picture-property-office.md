@@ -42,7 +42,7 @@ When you change the image on a button, you will also want to use the  **Mask** p
 The following example sets the image and mask of the first  **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and substitute the paths in the sample with the paths to your images.
 
 
-```
+```vb
 Sub ChangeButtonImage() 
     Dim picPicture As IPictureDisp 
     Dim picMask As IPictureDisp 
@@ -70,7 +70,7 @@ The following example gets the image and mask of the first  **CommandBarButton**
 
 
 
-```
+```vb
 Sub GetButtonImageAndMask() 
     Dim picPicture As IPictureDisp 
     Dim picMask As IPictureDisp 
@@ -90,9 +90,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarButton Object](commandbarbutton-object-office.md)

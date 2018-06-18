@@ -28,15 +28,12 @@ Returns or sets the character width of the specified range. Read/write  **WdChar
 This example converts the current selection to half-width characters.
 
 
-```
+```vb
 Selection.Range.CharacterWidth = wdWidthHalfWidth
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

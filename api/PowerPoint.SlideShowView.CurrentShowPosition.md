@@ -38,15 +38,12 @@ If the specified view contains a custom show, the  **CurrentShowPosition** prope
 This example sets a variable to the position of the current slide in the slide show running in slide show window one.
 
 
-```
+```vb
 lastSlideSeen = SlideShowWindows(1).View.CurrentShowPosition
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)

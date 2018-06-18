@@ -26,8 +26,5 @@ Returns a  **[Recipient](Outlook.Recipient.md)** object that represents the curr
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

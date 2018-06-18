@@ -26,8 +26,5 @@ Returns or sets a  **Long** indicating the duration (in minutes) of the **[Journ
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

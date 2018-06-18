@@ -33,8 +33,5 @@ The  **NavigationWhereClaue** property is a string expression consisting of a WH
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

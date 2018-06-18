@@ -31,8 +31,5 @@ A Variant value that represents the selected object.
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Excel.Axis(objec).md)
 

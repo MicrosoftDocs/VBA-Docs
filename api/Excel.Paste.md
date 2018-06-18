@@ -26,7 +26,7 @@ Pastes the contents of the Clipboard into the specified range on the datasheet.
 This example pastes the contents of the Clipboard into cell A1 on the datasheet.
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A1").Paste
 ```
 

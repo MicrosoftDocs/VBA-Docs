@@ -22,7 +22,7 @@ The  **Call** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**Call**|Optional; [keyword](vbe-glossary.md). If specified, you must enclose  _argumentlist_ in parentheses. For example:<p>```Call MyProc(0)```</p>|
+|**Call**|Optional; [keyword](vbe-glossary.md). If specified, you must enclose  _argumentlist_ in parentheses. For example:<p>```vbCall MyProc(0)```</p>|
 | _name_|Required. Name of the procedure to call.|
 | _argumentlist_|Optional. Comma-delimited list of [variables](vbe-glossary.md), [arrays](vbe-glossary.md), or [expressions](vbe-glossary.md) to pass to the procedure. Components of _argumentlist_ may include the keywords **ByVal** or **ByRef** to describe how the[arguments](vbe-glossary.md) are treated by the called procedure. However, **ByVal** and **ByRef** can be used with **Call** only when calling a DLL procedure. On the Macintosh, **ByVal** and **ByRef** can be used with **Call** when making a call to a Macintosh code resource.|
 

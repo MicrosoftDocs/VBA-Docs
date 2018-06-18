@@ -31,7 +31,7 @@ Returns or sets the text orientation. Can be an integer value from -90 degrees t
 This example sets the orientation for the chart title.
 
 
-```
+```vb
 myChart.ChartTitle.Orientation = xlHorizontal
 ```
 

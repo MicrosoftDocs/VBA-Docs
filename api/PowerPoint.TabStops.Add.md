@@ -54,8 +54,5 @@ The  _Type_ parameter value can be one of these **PpTabStopType** constants.
 ## See also
 
 
-#### Concepts
-
-
 [TabStops Object](PowerPoint.TabStops.md)
 

@@ -48,8 +48,5 @@ The  **Add** method enables you to add **ValueChange** objects that represent ch
 ## See also
 
 
-#### Concepts
-
-
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 

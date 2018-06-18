@@ -26,8 +26,5 @@ The  **WarnOnFunctionNameConflict** property, when set to **True** , raises an a
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

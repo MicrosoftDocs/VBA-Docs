@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).AddSpaceBetweenFarEastAndAlpha = True
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

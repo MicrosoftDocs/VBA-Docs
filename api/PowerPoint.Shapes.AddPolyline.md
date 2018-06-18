@@ -74,8 +74,5 @@ myDocument.Shapes.AddPolyline SafeArrayOfPoints:=triArray
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

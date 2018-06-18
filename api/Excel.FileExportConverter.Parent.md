@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **[Fil
 ## See also
 
 
-#### Concepts
-
-
 [FileExportConverter Object](Excel.FileExportConverter.md)
 

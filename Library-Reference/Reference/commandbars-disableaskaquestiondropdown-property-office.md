@@ -34,7 +34,7 @@ Is  **True** if the **Answer Wizard** dropdown menu is enabled. Read/write.
 The following example switches the  **DisableAskAQuestionDropdown** property on or off.
 
 
-```
+```vb
 Sub ToggleQuestionDropdown() 
     With Application.CommandBars 
         If .DisableAskAQuestionDropdown =  True Then 
@@ -48,9 +48,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

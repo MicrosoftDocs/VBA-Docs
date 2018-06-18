@@ -78,8 +78,5 @@ DoCmd.TransferDatabase acLink, "ODBC Database", _
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

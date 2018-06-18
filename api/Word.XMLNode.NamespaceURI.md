@@ -34,8 +34,5 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) of t
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

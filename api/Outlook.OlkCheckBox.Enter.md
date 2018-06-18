@@ -31,8 +31,5 @@ This is similar to the  **GotFocus** event exposed by managed-code controls or i
 ## See also
 
 
-#### Concepts
-
-
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

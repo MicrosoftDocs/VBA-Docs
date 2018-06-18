@@ -33,8 +33,5 @@ In general, deleting a folder does not require first deleting the items in the f
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

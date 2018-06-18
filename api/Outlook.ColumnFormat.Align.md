@@ -31,8 +31,5 @@ The value of this property is ignored for properties in which the column label i
 ## See also
 
 
-#### Concepts
-
-
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 

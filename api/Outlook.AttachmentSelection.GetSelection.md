@@ -44,8 +44,5 @@ The only reason that this method is exposed on the  **AttachmentSelection** obje
 ## See also
 
 
-#### Concepts
-
-
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 

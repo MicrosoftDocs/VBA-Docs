@@ -26,8 +26,5 @@ Specifies the graphic image that should be displayed in the right header. Read-o
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

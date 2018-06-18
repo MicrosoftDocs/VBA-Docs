@@ -67,8 +67,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

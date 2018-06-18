@@ -29,8 +29,5 @@ Returns whether the slicer or timeline filter state is cleared.  **Boolean** . R
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

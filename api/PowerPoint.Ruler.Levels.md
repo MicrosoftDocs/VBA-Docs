@@ -26,8 +26,5 @@ Returns a  **[RulerLevels](PowerPoint.RulerLevels.md)** object that represents o
 ## See also
 
 
-#### Concepts
-
-
 [Ruler Object](PowerPoint.Ruler.md)
 

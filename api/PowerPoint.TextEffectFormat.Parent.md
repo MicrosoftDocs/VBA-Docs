@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 

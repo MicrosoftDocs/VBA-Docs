@@ -23,8 +23,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 ## See also
 
 
-#### Concepts
-
-
 [OverAllocatedAssignments Collection Object](Project.overallocatedassignments.md)
 

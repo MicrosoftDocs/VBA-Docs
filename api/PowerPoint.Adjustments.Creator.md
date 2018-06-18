@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Adjustments Object](PowerPoint.Adjustments.md)
 

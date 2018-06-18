@@ -29,8 +29,5 @@ Specifies the style of line endings, as well as the format of dashed lines. Read
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

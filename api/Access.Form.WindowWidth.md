@@ -31,8 +31,5 @@ The  **WindowWidth** property is measured from the upper-left corner of the repo
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

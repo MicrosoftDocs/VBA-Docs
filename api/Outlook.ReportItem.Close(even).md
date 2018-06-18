@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.ReportItem.Close(method).md)** method to fire 
 ## See also
 
 
-#### Concepts
-
-
 [ReportItem Object](Outlook.ReportItem.md)
 

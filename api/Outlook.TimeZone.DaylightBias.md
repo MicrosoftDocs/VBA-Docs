@@ -33,8 +33,5 @@ In relation to the UTC time and the local time of the time zone, UTC time is the
 ## See also
 
 
-#### Concepts
-
-
 [TimeZone Object](Outlook.TimeZone.md)
 

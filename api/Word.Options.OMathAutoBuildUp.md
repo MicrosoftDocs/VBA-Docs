@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word automatica
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

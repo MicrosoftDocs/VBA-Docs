@@ -55,8 +55,5 @@ When using the  **[Item](Excel.PivotItems.Item.md)** property to reference a spe
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

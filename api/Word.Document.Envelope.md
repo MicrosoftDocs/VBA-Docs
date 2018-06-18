@@ -50,7 +50,7 @@ This example creates a new document and adds an envelope with a predefined deliv
 
 
 
-```
+```vb
 addr = "Don Funk" &; vbCr &; "123 Skye St." _ 
  &; vbCr &; "Our Town, WA 98040" 
 retaddr = "Karin Gallagher" &; vbCr &; "123 Main" _ 
@@ -61,9 +61,6 @@ ActiveDocument.ActiveWindow.View.Type = wdPrintView
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

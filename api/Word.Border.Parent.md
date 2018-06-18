@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Bord
 ## See also
 
 
-#### Concepts
-
-
 [Border Object](Word.Border.md)
 

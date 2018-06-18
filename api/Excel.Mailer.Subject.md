@@ -26,8 +26,5 @@ Returns or sets the subject for the mailer. Read/write  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [Mailer Object](Excel.Mailer.md)
 

@@ -21,7 +21,7 @@ Represents the data label for the specified point or trendline in a chart. For a
 Use  **DataLabels**( _index_), where  _index_ is the data label's index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in the chart.
 
 
-```
+```vb
 myChart.SeriesCollection(1).DataLabels(5).NumberFormat = "0.000"
 ```
 

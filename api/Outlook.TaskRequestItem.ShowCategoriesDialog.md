@@ -26,8 +26,5 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 

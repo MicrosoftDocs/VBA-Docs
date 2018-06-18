@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the second business telephone number 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

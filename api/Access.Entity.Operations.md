@@ -26,8 +26,5 @@ Gets the collection of operations defined for the specified  **[Entity](Access.E
 ## See also
 
 
-#### Concepts
-
-
 [Entity Object](Access.Entity.md)
 

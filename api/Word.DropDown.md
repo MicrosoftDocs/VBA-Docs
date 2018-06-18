@@ -21,7 +21,7 @@ Represents a drop-down form field that contains a list of items in a form.
 Use  **FormFields** (index), where index is the index number or the bookmark name associated with the drop-down form field, to return a single **FormField** object. Use the **DropDown** property with the **FormField** object to return a **DropDown** object. The following example selects the first item in the drop-down form field named "DropDown" in the active document.
 
 
-```
+```vb
 ActiveDocument.FormFields("DropDown1").DropDown.Value = 1
 ```
 
@@ -30,7 +30,7 @@ The index number represents the position of the form field in the  **[FormFields
 
 
 
-```
+```vb
 If ActiveDocument.FormFields(1).Type = wdFieldFormDropDown Then 
  ActiveDocument.FormFields(1).DropDown.Value = 2 
 End If
@@ -41,7 +41,7 @@ The following example determines whether form field represented by  _ffield_ is 
 
 
 
-```
+```vb
 Set ffield = ActiveDocument.FormFields(1).DropDown 
 If ffield.Valid = True Then 
  ffield.ListEntries.Add Name:="Hello" 
@@ -55,7 +55,7 @@ Use the  **Add** method with the **FormFields** collection to add a drop-down fo
 
 
 
-```
+```vb
 Set ffield = ActiveDocument.FormFields.Add( _ 
  Range:=ActiveDocument.Range(Start:=0, End:=0), _ 
  Type:=wdFieldFormDropDown) 

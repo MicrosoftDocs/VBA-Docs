@@ -49,8 +49,5 @@ The formula for the hyperbolic sine is:
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

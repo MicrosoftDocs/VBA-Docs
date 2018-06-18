@@ -33,12 +33,12 @@ You can customize the Ribbon UI by using callback procedures in COM add-ins. For
 In the following example, starting the host application triggers the  **onLoad** event procedure that then calls a procedure which creates an object representing the Ribbon UI. Next, a callback procedure is defined that invalidates all of the controls on the UI and then refreshes the UI.
 
 
-```XML
+```vbXML
 <customUI … OnLoad="MyAddinInitialize" …>
 ```
 
 
-```
+```vb
 Dim MyRibbon As IRibbonUI 
  
 Sub MyAddInInitialize(Ribbon As IRibbonUI) 
@@ -52,9 +52,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [IRibbonUI Object](iribbonui-object-office.md)

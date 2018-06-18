@@ -37,8 +37,5 @@ The value of this property can be set to an integer value from -90 to 90 degrees
 ## See also
 
 
-#### Concepts
-
-
 [CellFormat Object](Excel.CellFormat.md)
 

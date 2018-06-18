@@ -26,8 +26,5 @@ Gets or sets whether the specified report can be used in Layout View. Read/write
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

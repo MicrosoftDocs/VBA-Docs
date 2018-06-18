@@ -38,8 +38,5 @@ Returns a bitwise 'Exclusive Or' of two numbers.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

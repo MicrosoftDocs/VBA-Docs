@@ -58,8 +58,5 @@ Application.Dialogs(xlDialogOpen).Show
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Excel.Dialog.md)
 

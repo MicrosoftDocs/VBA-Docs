@@ -31,8 +31,5 @@ The parent of the  **[Account](Outlook.Account.md)** object is the **[Accounts](
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

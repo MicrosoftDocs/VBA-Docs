@@ -26,8 +26,5 @@ Returns the number of items in the  **OMathMatCols** collection. Read-only **Lon
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatCols Collection](Word.OMathMatCols.md)
 

@@ -47,8 +47,5 @@ Use Clean on text imported from other applications that contains characters that
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **Variant** that represents the content of the control. Read/
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

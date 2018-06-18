@@ -46,8 +46,5 @@ MsgBox Prompt:=strMsg, Title:="Current Documents Open", Buttons:=vbOKOnly
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

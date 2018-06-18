@@ -26,8 +26,5 @@ You can use the  **CurrentRecord** property to identify the current record in th
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

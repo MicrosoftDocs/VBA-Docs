@@ -46,7 +46,7 @@ If no prefix is assigned to the requested namespace, the method returns an empty
 The following example retrieves the namespace prefix associated with the namespace URI. 
 
 
-```
+```vb
 Dim objCustomPrefixMappings As  CustomPrefixMappings 
 Dim strNamespacePrefix As String 
  
@@ -57,9 +57,6 @@ strNamespacePrefix = objCustomPrefixMappings.LookupPrefix("urn:invoice:namespace
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLPrefixMappings Object](customxmlprefixmappings-object-office.md)

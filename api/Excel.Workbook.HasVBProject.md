@@ -31,8 +31,5 @@ This property is most useful in programmatically determining whether a workbook 
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

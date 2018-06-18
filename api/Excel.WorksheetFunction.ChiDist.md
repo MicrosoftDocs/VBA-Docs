@@ -62,8 +62,5 @@ The ? 2 distribution is associated with a ?2 test. Use the ?2 test to compare ob
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

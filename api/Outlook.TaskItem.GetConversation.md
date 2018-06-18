@@ -47,8 +47,5 @@ A  **Conversation** object that represents the conversation to which this item b
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

@@ -28,7 +28,7 @@ Gets a  **FileDialogSelectedItems** collection. This collection contains a list 
 The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
 
 
-```
+```vb
 Sub Main() 
  
  'Declare a variable as a FileDialog object. 
@@ -74,9 +74,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FileDialog Object](filedialog-object-office.md)

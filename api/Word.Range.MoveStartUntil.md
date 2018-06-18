@@ -55,8 +55,5 @@ myRange.MoveStartUntil Cset:="$", Count:=leng
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

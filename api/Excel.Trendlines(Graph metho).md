@@ -26,7 +26,7 @@ Returns an object that represents a single trendline or a collection of all the 
 This example adds a linear trendline to series one.
 
 
-```
+```vb
 myChart.SeriesCollection(1).Trendlines.Add Type:=xlLinear
 ```
 

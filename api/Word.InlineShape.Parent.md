@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Inli
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

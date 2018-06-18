@@ -37,8 +37,5 @@ Applies a design template to the specified slide.
 ## See also
 
 
-#### Concepts
-
-
 [Slide Object](PowerPoint.Slide.md)
 

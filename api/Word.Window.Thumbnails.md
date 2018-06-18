@@ -36,8 +36,5 @@ ActiveDocument.ActiveWindow.Thumbnails = True
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

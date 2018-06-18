@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of file converters in the collect
 ## See also
 
 
-#### Concepts
-
-
 [FileConverters Collection Object](Word.fileconverters.md)
 

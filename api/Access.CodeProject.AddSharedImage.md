@@ -40,8 +40,5 @@ Use the  **AddSharedImage** method when you have an image that you want to use r
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

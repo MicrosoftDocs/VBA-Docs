@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that is **True** if the action is enabled in the 
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Outlook.Action.md)
 

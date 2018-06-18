@@ -31,8 +31,5 @@ Returns a constant,  **olRuleActionPlaySound** , from the **[OlRuleActionType](O
 ## See also
 
 
-#### Concepts
-
-
 [PlaySoundRuleAction Object](Outlook.PlaySoundRuleAction.md)
 

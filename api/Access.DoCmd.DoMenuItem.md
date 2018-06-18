@@ -51,8 +51,5 @@ If you leave the Subcommand argument blank but specify the Version argument, you
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

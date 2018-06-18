@@ -34,9 +34,6 @@ Adds a search folder to a file search.
 ## See also
 
 
-#### Concepts
-
-
 [SearchFolders Object](searchfolders-object-office.md)
 #### Other resources
 

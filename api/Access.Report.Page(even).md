@@ -102,10 +102,6 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [Report Object](Access.Report.md)

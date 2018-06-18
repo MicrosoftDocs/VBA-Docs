@@ -61,8 +61,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 

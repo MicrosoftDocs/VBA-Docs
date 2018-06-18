@@ -63,8 +63,5 @@ Worksheets("Sheet1").Range("A1").AutoFilter _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

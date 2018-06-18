@@ -45,8 +45,5 @@ If any argument is nonnumeric, GESTEP returns the #VALUE! error value.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

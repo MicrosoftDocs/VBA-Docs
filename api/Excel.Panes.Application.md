@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Panes Object](Excel.Panes.md)
 

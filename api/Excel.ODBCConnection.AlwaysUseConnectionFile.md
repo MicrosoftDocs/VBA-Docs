@@ -31,8 +31,5 @@ When this property is  **True** , the connection file will be used to establish 
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](Excel.ODBCConnection.md)
 

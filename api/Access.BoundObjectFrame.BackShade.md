@@ -43,8 +43,5 @@ Me.ctl.BackShade=25
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

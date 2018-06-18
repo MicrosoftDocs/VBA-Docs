@@ -31,8 +31,5 @@ The  **Operator** property's intrinsic constants are used in conjunction with th
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Access.FormatCondition.md)
 

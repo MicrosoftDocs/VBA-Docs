@@ -26,8 +26,5 @@ Returns an  **[OMathLimLow](Word.OMathLimLow.md)** object that represents the lo
 ## See also
 
 
-#### Concepts
-
-
 [OMathFunction Object](Word.OMathFunction.md)
 

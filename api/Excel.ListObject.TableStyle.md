@@ -26,8 +26,5 @@ Gets or sets the table style for the specified  **ListObject** object. Read/writ
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

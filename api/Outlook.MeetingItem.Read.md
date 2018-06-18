@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.MeetingItem.Open.md)** eve
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

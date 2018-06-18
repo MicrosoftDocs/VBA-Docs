@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **XMLN
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

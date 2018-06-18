@@ -31,8 +31,5 @@ For controls, you can use the  **Section** property to determine which section o
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

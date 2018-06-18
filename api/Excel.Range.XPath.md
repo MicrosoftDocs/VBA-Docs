@@ -47,8 +47,5 @@ If the range selection is valid, but none of the cells are mapped, Excel returns
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

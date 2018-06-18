@@ -26,8 +26,5 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

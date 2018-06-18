@@ -45,8 +45,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Excel.ShadowFormat.md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ChartBorder Object](Word.ChartBorder.md)
 

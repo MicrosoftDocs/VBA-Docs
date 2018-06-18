@@ -23,8 +23,5 @@ Gets or sets the type of grouping for a field used as a criterion in a group def
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 

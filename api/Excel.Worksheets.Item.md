@@ -50,8 +50,5 @@ ActiveWorkbook.Worksheets(1)
 ## See also
 
 
-#### Concepts
-
-
 [Worksheets Object](Excel.Worksheets.md)
 

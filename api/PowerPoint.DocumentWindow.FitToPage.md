@@ -48,9 +48,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 

@@ -42,8 +42,5 @@ MsgBox pvtTable.InnerDetail
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

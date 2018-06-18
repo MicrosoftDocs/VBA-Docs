@@ -33,7 +33,7 @@ Note that "=" is not interpreted as "equals" in  **String** comparisons, but as 
 
 
 
-```
+```vb
 OvCtl1.Restriction "[Subject] <= 'outlook'
 ```
 
@@ -42,7 +42,7 @@ and
 
 
 
-```
+```vb
 [Subject] >= 'outlook'
 ```
 

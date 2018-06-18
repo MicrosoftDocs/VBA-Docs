@@ -26,8 +26,5 @@ Returns the SmartArt layout of the current  **Application** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

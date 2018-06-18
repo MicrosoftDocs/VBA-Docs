@@ -23,9 +23,6 @@ Gets an  **Application** object that represents the container application for th
 ## See also
 
 
-#### Concepts
-
-
 [EffectParameter Object](effectparameter-object-office.md)
 #### Other resources
 

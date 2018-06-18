@@ -43,8 +43,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

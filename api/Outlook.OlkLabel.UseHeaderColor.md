@@ -31,8 +31,5 @@ This property is intended for label controls in a message form displayed in the 
 ## See also
 
 
-#### Concepts
-
-
 [OlkLabel Object](Outlook.OlkLabel.md)
 

@@ -34,8 +34,5 @@ Must be false for legacy connections.
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](workbookconnection-object-excel.md)
 

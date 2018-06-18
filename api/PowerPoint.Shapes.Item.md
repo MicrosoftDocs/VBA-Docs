@@ -50,8 +50,5 @@ ActivePresentation.Slides.Item(1).Shapes.Item("rectangle 1").Fill _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

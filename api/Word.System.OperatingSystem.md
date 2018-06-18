@@ -36,8 +36,5 @@ MsgBox "This computer is running " &; System.OperatingSystem
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

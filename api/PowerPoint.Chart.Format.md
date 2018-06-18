@@ -31,8 +31,5 @@ The [ChartFormat](PowerPoint.ChartFormat.md) object contains the line, fill, and
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](chart-object-powerpoint.md)
 

@@ -31,8 +31,5 @@ Some of the  **WdParagraphAlignment** constants may not be available to you, dep
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

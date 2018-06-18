@@ -31,8 +31,5 @@ The maximum length of the description string is 255 characters.
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

@@ -50,8 +50,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

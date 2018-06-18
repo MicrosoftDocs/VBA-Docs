@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

@@ -45,8 +45,5 @@ ActiveWindow.DisplayHeadings = False
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

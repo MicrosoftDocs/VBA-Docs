@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the name of the PivotTable r
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

@@ -31,7 +31,7 @@ In Visual Basic, the methods for modifying files are methods of the  **[Document
 The  **Documents** collection includes all of the open documents. To create a new document, use the **[Add](documents-add-method-word.md)** method to add a **Document** object to the **Documents** collection. The following instruction creates a document.
 
 
-```
+```vb
 Documents.Add
 ```
 

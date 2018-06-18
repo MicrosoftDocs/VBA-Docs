@@ -46,8 +46,5 @@ The  **ColumnWidth** property for a field isn't available when the field's **Col
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

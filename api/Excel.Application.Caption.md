@@ -41,8 +41,5 @@ Application.Caption = "Blue Sky Airlines Reservation System"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

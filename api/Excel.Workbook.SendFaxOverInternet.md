@@ -57,8 +57,5 @@ ActiveWorkbook.SendFaxOverInternet _
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

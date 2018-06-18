@@ -48,8 +48,5 @@ Canceling the  **Dirty** event will cause the changes to the current record to b
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

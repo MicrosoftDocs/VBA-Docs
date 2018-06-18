@@ -66,8 +66,5 @@ Next addinLoop
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](Word.AddIn.md)
 

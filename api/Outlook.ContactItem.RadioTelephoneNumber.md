@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the radio telephone number for the cont
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

@@ -55,8 +55,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Research Object](Word.Research.md)
 

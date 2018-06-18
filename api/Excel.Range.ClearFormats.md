@@ -50,8 +50,5 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.ClearFormats
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

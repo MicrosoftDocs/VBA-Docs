@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that indicates whether days that contain Ou
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

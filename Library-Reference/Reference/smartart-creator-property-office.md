@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArt** 
 ## See also
 
 
-#### Concepts
-
-
 [SmartArt Object](smartart-object-office.md)
 #### Other resources
 

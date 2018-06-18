@@ -31,8 +31,5 @@ By default, the highest value is used to determine the length of the longest dat
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Access.FormatCondition.md)
 

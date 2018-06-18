@@ -31,8 +31,5 @@ The  **SourceCaption** property is applicable only for OLAP PivotTables, and ret
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

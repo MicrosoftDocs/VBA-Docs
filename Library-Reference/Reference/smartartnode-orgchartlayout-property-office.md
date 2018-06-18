@@ -43,16 +43,13 @@ Possible members are:
 The following code sets the OrgChartLayout property to the default layout.
 
 
-```
+```vb
 Dim saNode As SmartArtNode 
 saNode.OrgChartLayout = msoOrgChartLayoutDefault
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArtNode Object](smartartnode-object-office.md)

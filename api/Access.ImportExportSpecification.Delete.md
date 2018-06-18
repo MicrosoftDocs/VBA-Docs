@@ -26,8 +26,5 @@ Deletes the specified  **[ImportExportSpecification](Access.ImportExportSpecific
 ## See also
 
 
-#### Concepts
-
-
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 

@@ -31,8 +31,5 @@ Only the  **MsoTriState** constants **msoFalse** and **msoTrue** can be used to 
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

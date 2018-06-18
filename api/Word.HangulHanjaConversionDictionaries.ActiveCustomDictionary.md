@@ -53,8 +53,5 @@ Application.CustomDictionaries.ActiveCustomDictionary = dicCustom
 ## See also
 
 
-#### Concepts
-
-
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 

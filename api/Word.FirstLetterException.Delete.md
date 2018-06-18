@@ -26,8 +26,5 @@ Deletes the  **FirstLetterException** object.
 ## See also
 
 
-#### Concepts
-
-
 [FirstLetterException Object](Word.FirstLetterException.md)
 

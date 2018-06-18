@@ -46,8 +46,5 @@ Sorts the headings in the specified selection.
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

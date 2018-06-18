@@ -31,8 +31,5 @@ When you change the type of a shape, the shape retains its size, color, and othe
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

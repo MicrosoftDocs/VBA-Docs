@@ -39,8 +39,5 @@ PublishObject
 ## See also
 
 
-#### Concepts
-
-
 [PublishObjects Object](PowerPoint.PublishObjects.md)
 

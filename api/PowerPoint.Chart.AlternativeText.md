@@ -41,8 +41,5 @@ ActiveWindow.Selection.ShapeRange.AlternativeText = "This is a mallard duck."
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

@@ -52,8 +52,5 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyNumberedLists
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

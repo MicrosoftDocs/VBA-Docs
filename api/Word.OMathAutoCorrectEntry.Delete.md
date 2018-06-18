@@ -26,8 +26,5 @@ Deletes the specified equation auto correct entry.
 ## See also
 
 
-#### Concepts
-
-
 [OMathAutoCorrectEntry Object](Word.OMathAutoCorrectEntry.md)
 

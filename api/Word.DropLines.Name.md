@@ -26,8 +26,5 @@ Returns the name of the object. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [DropLines Object](Word.DropLines.md)
 

@@ -42,8 +42,6 @@ End Sub
 
 ## See also
 
-#### Concepts
-
 [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
 
 [co authoring](about-coauthoring-in-excel.md)

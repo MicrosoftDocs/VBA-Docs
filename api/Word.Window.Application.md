@@ -31,8 +31,5 @@ The Microsoft Visual Basic  **CreateObject** and **GetObject** functions give yo
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

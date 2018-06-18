@@ -37,8 +37,5 @@ The  **AfterUpdate** event is triggered when a control or record is updated. Wit
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

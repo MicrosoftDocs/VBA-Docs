@@ -53,8 +53,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

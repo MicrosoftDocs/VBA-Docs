@@ -42,16 +42,13 @@ InlineShape
 This example adds a picture bullet to each paragraph in the selected text using a file called "RedBullet.gif."
 
 
-```
+```vb
 Selection.InlineShapes.AddPictureBullet _ 
  "C:\Art files\RedBullet.gif"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [InlineShapes Collection Object](Word.inlineshapes.md)

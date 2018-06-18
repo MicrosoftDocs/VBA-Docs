@@ -31,8 +31,5 @@ The  **EnhMetaFileBits** property returns an array of bytes, which can be used w
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

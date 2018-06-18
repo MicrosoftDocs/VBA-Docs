@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](Word.Axis.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Sect
 ## See also
 
 
-#### Concepts
-
-
 [Sections Collection Object](Word.sections.md)
 

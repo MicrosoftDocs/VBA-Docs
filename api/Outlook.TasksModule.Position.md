@@ -38,8 +38,5 @@ Changing the value of this property for a given  **TasksModule** object changes 
 ## See also
 
 
-#### Concepts
-
-
 [TasksModule Object](Outlook.TasksModule.md)
 

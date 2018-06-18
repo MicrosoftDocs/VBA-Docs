@@ -75,8 +75,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Sequence Object](PowerPoint.Sequence.md)
 

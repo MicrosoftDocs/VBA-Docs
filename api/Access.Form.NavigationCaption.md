@@ -31,8 +31,5 @@ Although  **Record:** appears to the left of the navigation buttons by default, 
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

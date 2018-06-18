@@ -42,8 +42,5 @@ ActiveDocument.Tables(1).LeftPadding = _
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Word.TableStyle.md)
 

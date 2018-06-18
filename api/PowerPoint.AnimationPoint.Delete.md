@@ -26,8 +26,5 @@ Deletes the specified  **AnimationPoint** object.
 ## See also
 
 
-#### Concepts
-
-
 [AnimationPoint Object](PowerPoint.AnimationPoint.md)
 

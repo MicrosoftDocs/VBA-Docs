@@ -41,8 +41,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Excel.Comment.md)
 

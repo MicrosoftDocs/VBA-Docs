@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.TaskRequestItem.Close(method).md)** method to 
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

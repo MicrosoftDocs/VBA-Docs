@@ -31,8 +31,5 @@ The default value is  **acHorizontalAnchorLeft**.
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Access.Line.md)
 

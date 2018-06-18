@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Head
 ## See also
 
 
-#### Concepts
-
-
 [HeadersFooters Collection Object](Word.headersfooters.md)
 

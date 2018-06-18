@@ -39,8 +39,5 @@ Revision
 ## See also
 
 
-#### Concepts
-
-
 [Revisions Collection Object](Word.revisions.md)
 

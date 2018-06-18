@@ -49,7 +49,7 @@ This example crops the percentage specified by the user off the bottom of the se
 
 
 
-```
+```vb
 percentToCrop = InputBox("What percentage do you " &; _
     "want to crop off the bottom of this picture?")
 
@@ -68,9 +68,6 @@ shapeToCrop.PictureFormat.CropBottom = cropPoints
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)

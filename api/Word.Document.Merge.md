@@ -49,8 +49,5 @@ If InStr(1, ActiveDocument.Name, "sales2.doc", 1) Then _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

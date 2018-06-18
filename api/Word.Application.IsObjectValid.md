@@ -48,8 +48,5 @@ If IsObjectValid(aTable) = True Then _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

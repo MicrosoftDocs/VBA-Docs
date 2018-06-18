@@ -31,8 +31,5 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 

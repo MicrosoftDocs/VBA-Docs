@@ -38,8 +38,5 @@ objWO.Encoding = msoEncodingWestern
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

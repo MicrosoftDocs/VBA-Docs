@@ -33,15 +33,12 @@ The  **wdByAuthor** constant is not valid for **Font** objects.
 This example sets the color of the  **Font** object to teal.
 
 
-```
+```vb
 Selection.Font.ColorIndexBi = wdTeal
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Font Object](Word.Font.md)

@@ -26,8 +26,5 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

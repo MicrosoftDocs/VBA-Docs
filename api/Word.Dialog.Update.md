@@ -39,8 +39,5 @@ myDialog.Show
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Word.Dialog.md)
 

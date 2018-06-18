@@ -68,8 +68,5 @@ Next aHyperlink
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

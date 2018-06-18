@@ -28,9 +28,6 @@ MsoTriState
 ## See also
 
 
-#### Concepts
-
-
 [Font2 Object](font2-object-office.md)
 #### Other resources
 

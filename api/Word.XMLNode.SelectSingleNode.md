@@ -41,8 +41,5 @@ XMLNode
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

@@ -34,8 +34,5 @@ Saves the group of quick styles currently in use.
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

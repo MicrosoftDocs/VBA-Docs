@@ -26,8 +26,5 @@ Returns the last item in the  **Sections** collection as a **Section** object.
 ## See also
 
 
-#### Concepts
-
-
 [Sections Collection Object](Word.sections.md)
 

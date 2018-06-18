@@ -38,8 +38,5 @@ This property can be set to one of the following  **MsoTriState** constants:
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

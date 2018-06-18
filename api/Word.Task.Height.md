@@ -26,8 +26,5 @@ Returns or sets the height of the specified task window. Read/write  **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

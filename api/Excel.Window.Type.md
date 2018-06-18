@@ -26,8 +26,5 @@ Returns or sets a  **[XlWindowType](Excel.XlWindowType.md)** value that represen
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

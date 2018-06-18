@@ -26,8 +26,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [PivotFormula Object](Excel.PivotFormula.md)
 

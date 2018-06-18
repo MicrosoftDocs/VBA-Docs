@@ -34,8 +34,5 @@ Executes the specfied import or export specification.
 ## See also
 
 
-#### Concepts
-
-
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 

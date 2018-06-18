@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [PlotArea Object](Excel.PlotArea(objec).md)
 

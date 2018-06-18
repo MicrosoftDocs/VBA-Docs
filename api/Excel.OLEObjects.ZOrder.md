@@ -42,8 +42,5 @@ MsgBox "The chart's z-order position is " &; _
 ## See also
 
 
-#### Concepts
-
-
 [OLEObjects Object](Excel.OLEObjects.md)
 

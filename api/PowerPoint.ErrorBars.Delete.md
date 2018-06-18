@@ -23,9 +23,6 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [ErrorBars Object](PowerPoint.ErrorBars.md)
 
 

@@ -43,15 +43,12 @@ This example returns the current status of the  **Draft output** option on the *
 
 
 
-```
+```vb
 temp = Options.PrintDraft
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

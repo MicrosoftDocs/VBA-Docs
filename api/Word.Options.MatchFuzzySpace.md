@@ -36,8 +36,5 @@ Options.MatchFuzzySpace = True
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

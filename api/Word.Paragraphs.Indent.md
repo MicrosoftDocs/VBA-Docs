@@ -45,8 +45,5 @@ ActiveDocument.Paragraphs(1).Outdent
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

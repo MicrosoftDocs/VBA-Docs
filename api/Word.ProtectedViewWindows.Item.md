@@ -39,8 +39,5 @@ ProtectedViewWindow
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindows Object](Word.ProtectedViewWindows.md)
 

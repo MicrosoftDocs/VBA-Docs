@@ -38,9 +38,6 @@ Called from the  **Choose Account** dialog when the provider's name is chosen in
 ## See also
 
 
-#### Concepts
-
-
 [IBlogExtensibility Object](iblogextensibility-object-office.md)
 #### Other resources
 

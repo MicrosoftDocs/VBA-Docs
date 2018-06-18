@@ -36,8 +36,5 @@ Use the  **CalculatedMembers** property of the **OLEDBConnection** collection to
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

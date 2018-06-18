@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Font
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

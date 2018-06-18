@@ -42,9 +42,6 @@ Examples of  **MsoTabStopType** types include **msoTabStopCenter**, **msoTabStop
 ## See also
 
 
-#### Concepts
-
-
 [TabStops2 Object](tabstops2-object-office.md)
 #### Other resources
 

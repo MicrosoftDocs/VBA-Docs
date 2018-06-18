@@ -85,8 +85,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

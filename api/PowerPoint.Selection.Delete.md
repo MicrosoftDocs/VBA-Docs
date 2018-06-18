@@ -26,8 +26,5 @@ Deletes the specified  **Selection** object.
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

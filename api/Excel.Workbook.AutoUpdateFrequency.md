@@ -44,8 +44,5 @@ ActiveWorkbook.AutoUpdateFrequency = 5
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -87,7 +87,7 @@ The following examples show how to use various types of criteria with the  **DSu
 
 
 
-```js
+```vbjs
     ' ***************************
     ' Typical Use
     ' Numerical values. Replace "number" with the number to use.
@@ -139,10 +139,6 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [Application Object](Access.Application.md)

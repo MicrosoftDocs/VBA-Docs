@@ -36,8 +36,5 @@ The  **AllocationMethod** property corresponds to the **Allocation Method** sett
 ## See also
 
 
-#### Concepts
-
-
 [ValueChange Object](Excel.ValueChange.md)
 

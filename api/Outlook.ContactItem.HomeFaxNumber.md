@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the home fax number for the contact. 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

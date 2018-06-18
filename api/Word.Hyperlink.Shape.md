@@ -42,8 +42,5 @@ ActiveDocument.Hyperlinks(1).Shape.Fill.ForeColor.RGB = _
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

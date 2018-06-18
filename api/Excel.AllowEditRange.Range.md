@@ -26,8 +26,5 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents a subset of
 ## See also
 
 
-#### Concepts
-
-
 [AllowEditRange Object](Excel.AllowEditRange.md)
 

@@ -31,8 +31,5 @@ The outermost table has a nesting level of 1. The nesting level of each successi
 ## See also
 
 
-#### Concepts
-
-
 [Columns Collection Object](Word.columns.md)
 

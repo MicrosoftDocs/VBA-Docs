@@ -36,8 +36,5 @@ MsgBox Selection.Columns(1).IsFirst
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Word.Column.md)
 

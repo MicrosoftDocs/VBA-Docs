@@ -34,8 +34,5 @@ Removes numbers or bullets from the specified list.
 ## See also
 
 
-#### Concepts
-
-
 [List Object](Word.List.md)
 

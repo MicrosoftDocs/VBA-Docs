@@ -50,8 +50,5 @@ ActiveWorkbook.UpdateLink Name:=ActiveWorkbook.LinkSources
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

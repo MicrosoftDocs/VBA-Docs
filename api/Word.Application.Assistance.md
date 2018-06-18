@@ -31,8 +31,5 @@ The  **Assistance** object allows developers to show custom help and help that i
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

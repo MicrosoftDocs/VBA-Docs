@@ -48,8 +48,5 @@ MsgBox "The number of updates is " &; countOfUpdates
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

@@ -33,7 +33,7 @@ Setting this property also sets the  **[WidthType](Word.HorizontalLineFormat.Wid
 This example adds a horizontal line and sets its length to 50% of the window width.
 
 
-```
+```vb
 Selection.InlineShapes.AddHorizontalLineStandard 
 ActiveDocument.InlineShapes(1) _ 
  .HorizontalLineFormat.PercentWidth = 50
@@ -41,9 +41,6 @@ ActiveDocument.InlineShapes(1) _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [HorizontalLineFormat Object](Word.HorizontalLineFormat.md)

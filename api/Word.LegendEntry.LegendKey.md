@@ -41,8 +41,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](Word.LegendEntry.md)
 

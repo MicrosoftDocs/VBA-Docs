@@ -59,8 +59,5 @@ For a more complete description of the arguments in FV and for more information 
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

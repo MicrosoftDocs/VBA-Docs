@@ -30,15 +30,12 @@ To find the range, use the Count property.
 The following code returns the shape range.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Item(1).Shapes.Count.
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArtNode Object](smartartnode-object-office.md)

@@ -28,8 +28,5 @@ The  **IAssistance** object exposes methods that developers can use to display H
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

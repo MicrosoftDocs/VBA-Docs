@@ -52,8 +52,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Outline Object](Excel.Outline.md)
 

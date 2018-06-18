@@ -39,8 +39,5 @@ Font
 ## See also
 
 
-#### Concepts
-
-
 [Fonts Object](PowerPoint.Fonts.md)
 

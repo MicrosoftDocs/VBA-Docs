@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of list galleries in the collecti
 ## See also
 
 
-#### Concepts
-
-
 [ListGalleries Collection Object](Word.listgalleries.md)
 

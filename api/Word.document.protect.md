@@ -47,8 +47,5 @@ Protects the specified document from unauthorized changes.
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

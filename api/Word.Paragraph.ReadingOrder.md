@@ -42,8 +42,5 @@ ActiveDocument.Paragraphs(1).ReadingOrder = _
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

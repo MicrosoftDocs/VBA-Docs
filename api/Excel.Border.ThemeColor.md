@@ -31,8 +31,5 @@ Attempting to access a theme color for an object whose color is not currently th
 ## See also
 
 
-#### Concepts
-
-
 [Border Object](Excel.Border(objec).md)
 

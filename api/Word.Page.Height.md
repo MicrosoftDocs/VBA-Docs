@@ -31,8 +31,5 @@ The  **[Top](Word.Page.Top.md)** and **[Left](Word.Page.Left.md)** properties of
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Word.Page.md)
 

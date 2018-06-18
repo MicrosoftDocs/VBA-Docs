@@ -26,8 +26,5 @@ Returns the type of inline shape. Read-only  **MsoShapeType** .
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

@@ -49,8 +49,5 @@ If sorting is applied based on a custom subtotal, and that subtotal is removed f
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

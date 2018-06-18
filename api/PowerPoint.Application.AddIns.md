@@ -49,8 +49,5 @@ MsgBox myAddIn.Name &; " has been added to the list"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

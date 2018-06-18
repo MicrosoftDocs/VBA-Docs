@@ -66,8 +66,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

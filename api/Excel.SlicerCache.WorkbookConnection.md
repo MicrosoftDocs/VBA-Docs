@@ -38,8 +38,5 @@ The workbook connection value must be unique. Setting the workbook connection to
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

@@ -64,8 +64,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](application-object-outlook.md)
 

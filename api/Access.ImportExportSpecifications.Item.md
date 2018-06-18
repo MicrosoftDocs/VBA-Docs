@@ -34,8 +34,5 @@ The  **Item** property returns a specific member of a collection either by posit
 ## See also
 
 
-#### Concepts
-
-
 [ImportExportSpecifications Collection](Access.ImportExportSpecifications.md)
 

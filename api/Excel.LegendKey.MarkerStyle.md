@@ -46,8 +46,5 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Excel.LegendKey(objec).md)
 

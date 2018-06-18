@@ -31,8 +31,5 @@ Don't confuse this property with the  **[Hidden](Excel.Range.Hidden.md)** proper
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

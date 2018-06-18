@@ -31,8 +31,5 @@ The first paragraph or table row is considered a header record and isn't include
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

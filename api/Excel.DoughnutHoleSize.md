@@ -21,7 +21,7 @@ Returns or sets the size of the hole in a doughnut chart group. The hole size is
 This example sets the hole size for doughnut group one. The example should be run on a 2-D doughnut chart.
 
 
-```
+```vb
 myChart.DoughnutGroups(1).DoughnutHoleSize = 10
 ```
 

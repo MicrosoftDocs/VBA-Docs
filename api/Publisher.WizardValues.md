@@ -24,7 +24,7 @@ Use the  **[Values](Publisher.WizardProperty.Values.md)** property of the **Wiza
 
  
 
-```
+```vb
 Dim valAll As WizardValues 
 Dim valLoop As WizardValue 
  

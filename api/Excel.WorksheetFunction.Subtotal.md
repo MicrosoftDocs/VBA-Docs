@@ -41,8 +41,5 @@ A Double value that represents the subtotal.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](worksheetfunction-object-excel.md)
 

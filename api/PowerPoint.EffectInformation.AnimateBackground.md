@@ -65,9 +65,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [EffectInformation Object](PowerPoint.EffectInformation.md)
 
 

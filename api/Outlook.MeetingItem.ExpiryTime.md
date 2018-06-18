@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the date and time at which the item becom
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

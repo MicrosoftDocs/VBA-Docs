@@ -31,8 +31,5 @@ This property is parsed from the  **[BusinessAddress](Outlook.ContactItem.Busine
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

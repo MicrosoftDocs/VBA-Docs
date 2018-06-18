@@ -45,8 +45,5 @@ Application.ActivePresentation.Slides(1).Shapes.Title.TextFrame _
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

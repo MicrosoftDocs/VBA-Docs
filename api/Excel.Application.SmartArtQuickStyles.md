@@ -31,8 +31,5 @@ Returns the set of SmartArt quick styles which are currently loaded in the appli
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

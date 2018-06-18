@@ -31,8 +31,5 @@ For OLAP data sources, setting this property for one field in a hierarchy sets t
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

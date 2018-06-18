@@ -73,8 +73,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](Outlook.CardView.md)
 

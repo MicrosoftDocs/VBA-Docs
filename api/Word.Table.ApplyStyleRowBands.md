@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether to apply style bands to t
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

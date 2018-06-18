@@ -23,7 +23,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 ## See also
 
 
-#### Concepts
-
-
 [Calendars Collection Object](Project.calendars.md)

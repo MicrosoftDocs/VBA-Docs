@@ -37,8 +37,5 @@ Sets the range over which the sort occurs.
 ## See also
 
 
-#### Concepts
-
-
 [Sort Object](Excel.Sort.md)
 

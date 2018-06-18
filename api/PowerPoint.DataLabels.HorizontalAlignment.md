@@ -43,8 +43,5 @@ Some of these constants may not be available to you, depending on the language s
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](PowerPoint.DataLabels.md)
 

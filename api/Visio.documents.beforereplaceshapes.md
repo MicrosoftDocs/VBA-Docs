@@ -30,8 +30,5 @@ Occurs just before a shape-replacement operation.
 ## See also
 
 
-#### Concepts
-
-
 [Documents Object](Visio.Documents.md)
 

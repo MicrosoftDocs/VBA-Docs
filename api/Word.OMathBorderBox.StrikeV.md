@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents a vertical strikethrough. Read/wr
 ## See also
 
 
-#### Concepts
-
-
 [OMathBorderBox Object](Word.OMathBorderBox.md)
 

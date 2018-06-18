@@ -31,8 +31,5 @@ The parent  **ExchangeDistributionList** object.
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

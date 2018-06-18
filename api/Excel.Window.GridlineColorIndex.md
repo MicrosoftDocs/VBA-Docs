@@ -45,8 +45,5 @@ ActiveWindow.GridlineColorIndex = 5
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

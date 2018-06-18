@@ -31,8 +31,5 @@ Occurs before the item is automatically saved by Outlook.
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

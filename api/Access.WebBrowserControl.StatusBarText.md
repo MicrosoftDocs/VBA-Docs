@@ -41,8 +41,5 @@ If you create a control by dragging a field from the field list, the value in a 
 ## See also
 
 
-#### Concepts
-
-
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 

@@ -31,8 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-#### Concepts
-
-
 [SheetViews Object](Excel.SheetViews.md)
 

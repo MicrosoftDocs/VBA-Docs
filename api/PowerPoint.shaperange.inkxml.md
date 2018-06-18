@@ -22,8 +22,5 @@ If the specified shape range does not contain a ink object more than one ink obj
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

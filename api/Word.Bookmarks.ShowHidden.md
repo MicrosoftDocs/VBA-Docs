@@ -54,8 +54,5 @@ Next aBookmark
 ## See also
 
 
-#### Concepts
-
-
 [Bookmarks Collection Object](Word.bookmarks.md)
 

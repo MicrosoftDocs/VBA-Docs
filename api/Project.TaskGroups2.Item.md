@@ -31,8 +31,5 @@ Gets a single item from a collection. Read-only  **Object**.
 ## See also
 
 
-#### Concepts
-
-
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 

@@ -43,8 +43,5 @@ MsgBox ActiveDocument.Fields(1).OLEFormat.Label
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Word.OLEFormat.md)
 

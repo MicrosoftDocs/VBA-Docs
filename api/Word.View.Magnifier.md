@@ -42,8 +42,5 @@ ActiveDocument.ActiveWindow.View.Magnifier = False
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

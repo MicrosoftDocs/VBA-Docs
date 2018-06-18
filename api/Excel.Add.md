@@ -46,7 +46,7 @@ Creates a new trend line. Returns a Trendline object.
 This example creates a new linear trendline on the chart.
 
 
-```
+```vb
 myChart.SeriesCollection(1).Trendlines.Add
 ```
 

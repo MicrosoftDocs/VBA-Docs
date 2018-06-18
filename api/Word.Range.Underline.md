@@ -36,8 +36,5 @@ ActiveDocument.Words(4).Underline = wdUnderlineDouble
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

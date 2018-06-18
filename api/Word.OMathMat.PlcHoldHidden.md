@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether placeholders in a matrix 
 ## See also
 
 
-#### Concepts
-
-
 [OMathMat Object](Word.OMathMat.md)
 

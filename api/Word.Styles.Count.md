@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of styles in the collection. Read
 ## See also
 
 
-#### Concepts
-
-
 [Styles Collection Object](Word.styles.md)
 

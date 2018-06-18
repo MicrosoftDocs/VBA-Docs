@@ -31,8 +31,5 @@ For OLAP data sources, the value is  **False** for measure fields.
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

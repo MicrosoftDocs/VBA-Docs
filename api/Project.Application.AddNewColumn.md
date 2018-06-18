@@ -46,7 +46,7 @@ If the  _Column_ parameter is omitted, **AddNewColumn** inserts a column to the 
 The following example selects the third column in the current view, and then adds a column to the right of the selected column. In the default  **Gantt Chart** view, the third column is **Task Name**.
 
 
-```
+```vb
 SelectColumn (2) 
 AddNewColumn (3)
 ```

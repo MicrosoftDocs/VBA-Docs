@@ -26,8 +26,5 @@ Gets the  **[SharedResources](Access.SharedResources.md)** collection for the sp
 ## See also
 
 
-#### Concepts
-
-
 [CurrentProject Object](Access.CurrentProject.md)
 

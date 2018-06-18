@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Sour
 ## See also
 
 
-#### Concepts
-
-
 [Source Object](Word.Source.md)
 

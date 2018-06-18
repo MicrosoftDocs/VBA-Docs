@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of hyperlinks in the collection. 
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlinks Collection Object](Word.hyperlinks.md)
 

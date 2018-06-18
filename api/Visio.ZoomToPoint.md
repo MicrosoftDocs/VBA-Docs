@@ -47,7 +47,7 @@ The origin of the coordinate system of the Visio Viewer window is its upper left
 The following code displays the drawing at half its previous size, and places the upper left corner of the drawing at a point 200 pixels to the right and 200 pixels below the upper left corner of the Visio Viewer window.
 
 
-```
+```vb
 vsoViewer.ZoomToPoint 200, 200, 0.5
 ```
 

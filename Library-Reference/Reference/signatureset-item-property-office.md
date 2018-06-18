@@ -34,9 +34,6 @@ Gets a  **Signature** object that corresponds to one of the digital signatures w
 ## See also
 
 
-#### Concepts
-
-
 [SignatureSet Object](signatureset-object-office.md)
 #### Other resources
 

@@ -26,7 +26,7 @@ Represents the collection of hyperlinks for a worksheet or range.
 Use the  **[Hyperlinks](Excel.Worksheet.Hyperlinks.md)** property to return the **Hyperlinks** collection. The following example checks the hyperlinks on worksheet one for a link that contains the word Microsoft.
 
 
-```
+```vb
 For Each h in Worksheets(1).Hyperlinks 
  If Instr(h.Name, "Microsoft") <> 0 Then h.Follow 
 Next
@@ -37,7 +37,7 @@ Use the  **[Add](Excel.Hyperlinks.Add.md)** method to create a hyperlink and add
 
 
 
-```
+```vb
 With Worksheets(1) 
  .Hyperlinks.Add .Range("E5"), "http://example.microsoft.com" 
 End With

@@ -55,8 +55,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

@@ -26,8 +26,5 @@ Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D-ef
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Excel.ChartFormat.md)
 

@@ -19,7 +19,7 @@ A collection of  **Range** objects that represent stories in a document.
 Use the  **StoryRanges** property to return the **StoryRanges** collection. The following example removes manual character formatting from the text in all stories other than the main text story in the active document.
 
 
-```
+```vb
 For Each aStory In ActiveDocument.StoryRanges 
  If aStory.StoryType <> wdMainTextStory Then aStory.Font.Reset 
 Next aStory
@@ -32,7 +32,7 @@ Use  **StoryRanges** (Index), where Index is a **WdStoryType** constant, to retu
 
 
 
-```
+```vb
 ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary).Range _ 
  .Text = "Header text" 
 MsgBox ActiveDocument.StoryRanges(wdPrimaryHeaderStory).Text
@@ -43,7 +43,7 @@ The following example copies the text of the footnotes from the active document 
 
 
 
-```
+```vb
 If ActiveDocument.Footnotes.Count >= 1 Then 
  ActiveDocument.StoryRanges(wdFootnotesStory).Copy 
  Documents.Add.Content.Paste 
@@ -55,7 +55,7 @@ If you attempt to return a story that is not available in the specified document
 
 
 
-```
+```vb
 On Error GoTo errhandler 
 Set MyRange = ActiveDocument.StoryRanges(wdFootnotesStory) 
 errhandler: 
@@ -67,7 +67,7 @@ Use the  **NextStoryRange** property to loop through all stories in a document. 
 
 
 
-```
+```vb
 For Each myStoryRange In ActiveDocument.StoryRanges 
  myStoryRange.Find.Execute _ 
  FindText:="Microsoft Word", Forward:=True 

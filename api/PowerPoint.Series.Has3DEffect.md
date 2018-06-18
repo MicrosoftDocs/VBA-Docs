@@ -28,8 +28,5 @@ This property applies only to bubble charts.
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

@@ -82,8 +82,5 @@ You must combine the  **Section** property with other properties that apply to f
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

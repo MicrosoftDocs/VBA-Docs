@@ -31,8 +31,5 @@ For more information, see the  **[Parameter](Excel.Parameter.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [Parameter Object](Excel.Parameter.md)
 

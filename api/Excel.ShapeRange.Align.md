@@ -47,8 +47,5 @@ Selection.ShapeRange.Align msoAlignLefts, False
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

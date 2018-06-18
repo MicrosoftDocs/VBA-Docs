@@ -38,8 +38,5 @@ It also returns an error if no connection is available or the user is set to wor
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

@@ -31,8 +31,5 @@ The default value is  **acHorizontalAnchorLeft**.
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

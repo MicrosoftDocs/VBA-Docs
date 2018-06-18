@@ -26,7 +26,7 @@ The  **IRibbonExtensibility** interface has a single method, **GetCustomUI**.
 In the following example, written in C#, the  **IRibbonExtensibility** interface is specified in the class definition. The procedure then implements the interfaces's only method, **GetCustomUI**. This method creates an instance of a **SteamReader** object that reads in the customized markup stored in an external XML file.
 
 
-```
+```vb
 public class Connect : Object, Extensibility.IDTExtensibility2, IRibbonExtensibility 
 ... 
 public string GetCustomUI(string RibbonID) 
@@ -40,9 +40,6 @@ public string GetCustomUI(string RibbonID)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

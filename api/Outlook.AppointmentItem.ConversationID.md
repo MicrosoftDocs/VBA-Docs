@@ -35,8 +35,5 @@ If the  **AppointmentItem** object is created in a version of Microsoft Outlook 
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

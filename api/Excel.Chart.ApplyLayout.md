@@ -40,8 +40,5 @@ When you use a layout on the current chart type, a number from 1 to 10 is applie
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

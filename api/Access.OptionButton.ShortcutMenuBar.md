@@ -50,8 +50,5 @@ Forms("Suppliers").ShortcutMenuBar = "Suppliers_Toolbar"
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

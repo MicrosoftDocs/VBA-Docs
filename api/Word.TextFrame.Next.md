@@ -26,8 +26,5 @@ Returns a  **TextFrame** object that represents the next text frame in a collect
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

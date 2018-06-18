@@ -24,7 +24,7 @@ Use  **Columns** (index), where index is the column number, to return a single *
 
  
 
-```
+```vb
 Sub SelectColumn() 
  ActiveDocument.Pages(2).Shapes(1).Table.Columns(3).Cells.Select 
 End Sub
@@ -37,7 +37,7 @@ Use the  **[Item](Publisher.Columns.Item.md)** method of a **[Columns](Publisher
 
 
 
-```
+```vb
 Sub ColumnHeading() 
  With ActiveDocument.Pages(2).Shapes(1).Table.Columns(3) _ 
  .Cells(1).Text 
@@ -55,7 +55,7 @@ Use the  **[Delete](Publisher.Column.Delete.md)** method to delete a column from
 
 
 
-```
+```vb
 Sub DeleteColumn() 
  ActiveDocument.Pages(2).Shapes(1).Table.Columns(3).Delete 
 End Sub

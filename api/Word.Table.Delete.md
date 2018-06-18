@@ -26,8 +26,5 @@ Deletes the specified table.
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

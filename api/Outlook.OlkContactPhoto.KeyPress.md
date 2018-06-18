@@ -52,8 +52,5 @@ A  **KeyPress** event does not occur under the following conditions:
 ## See also
 
 
-#### Concepts
-
-
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 

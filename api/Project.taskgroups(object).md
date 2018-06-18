@@ -32,7 +32,7 @@ Use the  **[TaskGroups](Project.Project.TaskGroups.md)** property to return a **
 
 
 
-```
+```vb
 Dim tg As Group 
 Dim tGroups As String 
  
@@ -50,7 +50,7 @@ Use the  **[Add](Project.TaskGroups.Add.md)** method to add a **Group** object t
 
 
 
-```
+```vb
 ActiveProject.TaskGroups.Add "Overallocated Tasks", "Overallocated" 
 ActiveProject.TaskGroups("Overallocated Tasks").GroupCriteria(1).Ascending = False
 ```

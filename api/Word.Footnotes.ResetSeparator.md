@@ -41,8 +41,5 @@ ActiveDocument.Footnotes.ResetSeparator
 ## See also
 
 
-#### Concepts
-
-
 [Footnotes Collection Object](Word.footnotes.md)
 

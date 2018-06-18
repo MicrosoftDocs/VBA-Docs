@@ -28,7 +28,7 @@ To create a report, use the  **[Reports.Add](Project.reports.add.md)** method. F
 
  
 
-```
+```vb
 ActiveProject.Reports.Add "My New Report"
 ```
 
@@ -51,7 +51,7 @@ To programmatically delete the active report, run the following macro.
 
 
 
-```
+```vb
 Sub DeleteTheReport()
     Dim i As Integer
     Dim reportName As String

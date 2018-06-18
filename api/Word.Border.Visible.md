@@ -45,8 +45,5 @@ Next aBorder
 ## See also
 
 
-#### Concepts
-
-
 [Border Object](Word.Border.md)
 

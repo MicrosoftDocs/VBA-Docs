@@ -50,7 +50,7 @@ Returns or sets the position of the legend on the chart. Read/write XlLegendPosi
 This example sets the position of the legend to the top of the chart.
 
 
-```
+```vb
 myChart.Legend.Position = xlLegendPositionTop
 ```
 

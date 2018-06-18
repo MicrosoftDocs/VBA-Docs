@@ -48,8 +48,5 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame _
 ## See also
 
 
-#### Concepts
-
-
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 

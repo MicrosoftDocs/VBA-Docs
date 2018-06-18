@@ -35,8 +35,5 @@ Creates a Web presentation (in HTML format) from any loaded presentation. You ca
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

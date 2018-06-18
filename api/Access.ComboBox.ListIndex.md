@@ -49,10 +49,6 @@ Luke Chung is the founder and president of FMS, Inc., a leading provider of cust
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
 
 
 [ComboBox Object](Access.ComboBox.md)

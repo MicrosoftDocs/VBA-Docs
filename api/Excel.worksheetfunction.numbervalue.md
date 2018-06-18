@@ -39,8 +39,5 @@ Converts text to number in a locale-independent manner.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

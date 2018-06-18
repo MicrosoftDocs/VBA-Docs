@@ -26,8 +26,5 @@ Returns  **True** if the table formula is inconsistent. Read/write **Boolean** .
 ## See also
 
 
-#### Concepts
-
-
 [ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 

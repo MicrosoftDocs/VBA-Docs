@@ -31,8 +31,5 @@ If this property is  **True** , the control displays fill lines of text; otherwi
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

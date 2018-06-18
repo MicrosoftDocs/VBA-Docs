@@ -58,9 +58,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Project Object](Project.Project.md)
 [PjProjectType Enumeration](Project.PjProjectType.md)
 #### Other resources

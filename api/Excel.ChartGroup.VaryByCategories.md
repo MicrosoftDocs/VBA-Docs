@@ -36,8 +36,5 @@ Charts("Chart1").ChartGroups(1).VaryByCategories = True
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

@@ -36,7 +36,7 @@ Displays the selected or default digital certificate.
 The following example displays a digital certificate in the window specified by the  _Hwnd_ argument.
 
 
-```
+```vb
 Sub DisplayCertificate(ByVal intHwnd As Long) 
 Dim objSignatureInfo As SignatureInfo 
 Dim objDialog As Object 
@@ -48,9 +48,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureInfo Object](signatureinfo-object-office.md)

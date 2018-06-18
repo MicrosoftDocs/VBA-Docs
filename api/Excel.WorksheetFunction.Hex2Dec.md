@@ -44,8 +44,5 @@ If number is not a valid hexadecimal number, HEX2DEC returns the #NUM! error val
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

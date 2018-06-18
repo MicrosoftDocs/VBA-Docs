@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents the default location of limits fo
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

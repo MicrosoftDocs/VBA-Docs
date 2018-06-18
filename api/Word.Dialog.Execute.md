@@ -39,8 +39,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Word.Dialog.md)
 

@@ -50,8 +50,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReference Object](Word.XMLSchemaReference.md)
 

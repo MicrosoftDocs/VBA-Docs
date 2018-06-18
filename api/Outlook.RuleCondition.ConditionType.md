@@ -31,8 +31,5 @@ For more information on the rule conditions supported for programmatic rule crea
 ## See also
 
 
-#### Concepts
-
-
 [RuleCondition Object](Outlook.RuleCondition.md)
 

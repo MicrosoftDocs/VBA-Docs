@@ -31,8 +31,5 @@ This value is stored as part of the  **TZI** value for the time zone in the Wind
 ## See also
 
 
-#### Concepts
-
-
 [TimeZone Object](Outlook.TimeZone.md)
 

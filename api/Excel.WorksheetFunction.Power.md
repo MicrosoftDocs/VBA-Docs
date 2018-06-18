@@ -45,8 +45,5 @@ The "^" operator can be used instead of POWER to indicate to what power the base
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

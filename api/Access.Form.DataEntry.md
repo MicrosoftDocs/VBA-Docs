@@ -35,8 +35,5 @@ Setting the  **DataEntry** property to Yes by using Visual Basic has the same ef
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

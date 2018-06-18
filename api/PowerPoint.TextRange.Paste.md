@@ -43,8 +43,5 @@ Use the  **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set t
 ## See also
 
 
-#### Concepts
-
-
 [TextRange Object](PowerPoint.TextRange.md)
 

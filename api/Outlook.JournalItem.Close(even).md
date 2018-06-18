@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.JournalItem.Close(method).md)** method to fire
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

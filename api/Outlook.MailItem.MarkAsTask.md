@@ -39,8 +39,5 @@ Calling this method sets the value of several other properties, depending on the
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

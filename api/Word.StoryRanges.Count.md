@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of story ranges in the collection
 ## See also
 
 
-#### Concepts
-
-
 [StoryRanges Collection Object](Word.storyranges.md)
 

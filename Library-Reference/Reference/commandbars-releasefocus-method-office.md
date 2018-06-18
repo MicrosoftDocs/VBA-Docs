@@ -34,7 +34,7 @@ Releases the user interface focus from all command bars.
 This example adds three blank buttons to the command bar named Custom and sets the focus to the center button. The example then waits five seconds before releasing the user interface focus from all command bars.
 
 
-```
+```vb
 Set myBar = CommandBars _ 
     .Add(Name:="Custom", Position:=msoBarTop, _ 
     Temporary:=True) 
@@ -59,9 +59,6 @@ CommandBars.ReleaseFocus
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

@@ -26,8 +26,5 @@ Gets or sets the sort column or columns, and sort order for the  **ListObject** 
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

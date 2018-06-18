@@ -31,8 +31,5 @@ This property is usually set to one of the delimited values returned by the  **[
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

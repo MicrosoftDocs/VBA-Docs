@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](PowerPoint.ChartArea.md)
 

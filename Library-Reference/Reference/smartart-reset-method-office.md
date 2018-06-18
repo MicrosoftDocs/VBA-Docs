@@ -33,9 +33,6 @@ This action mirrors the functionality presented by the Reset Graphic button unde
 ## See also
 
 
-#### Concepts
-
-
 [SmartArt Object](smartart-object-office.md)
 #### Other resources
 

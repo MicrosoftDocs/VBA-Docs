@@ -58,8 +58,5 @@ MsgBox "This is a " &; strFormat &; " project."
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

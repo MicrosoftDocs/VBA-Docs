@@ -39,7 +39,7 @@ Boolean
 This example deletes all custom command bars that aren't visible.
 
 
-```
+```vb
 foundFlag = False  
 deletedBars = 0 
 For Each bar In CommandBars 
@@ -58,9 +58,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBar Object](commandbar-object-office.md)

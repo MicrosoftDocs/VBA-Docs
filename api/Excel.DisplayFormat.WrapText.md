@@ -36,8 +36,5 @@ Returns  **True** if text is wrapped in all cells within the range.
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

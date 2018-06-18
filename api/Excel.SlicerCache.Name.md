@@ -36,8 +36,5 @@ Name of the slicer cache must be unique within the workbook namespace. By defaul
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

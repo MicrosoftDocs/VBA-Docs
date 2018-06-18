@@ -29,8 +29,5 @@ Returns or sets whether the specified table style is shown as available in the t
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Excel.TableStyle.md)
 

@@ -43,7 +43,7 @@ Whether you choose to modify a built-in action or create a custom action, you de
 The following example assigns  `replyToBlog` as the internal name of one custom action, and `postToBlog` as the internal name of another custom action:
 
 
-```
+```vb
 <customActions>
     <action name="replyToBlog">
         <!-- further characterize this action -->
@@ -76,7 +76,7 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 
 
 
-```
+```vb
 <customActions>
     <action name="replyToBlog">
         <title>Reply to Blog</title>
@@ -102,7 +102,7 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 
 
 
-```
+```vb
 <customActions>
     <action name="replyToBlog">
         <showOnRibbon>false</showOnRibbon>
@@ -131,7 +131,7 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 
 
 
-```
+```vb
 <customActions>
     <action name="replyToBlog">
         <addressLike>replyAll</addressLike>

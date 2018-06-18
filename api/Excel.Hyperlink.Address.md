@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the address of the target do
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

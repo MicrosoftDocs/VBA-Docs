@@ -41,8 +41,5 @@ ActivePresentation.Slides(1).Copy
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

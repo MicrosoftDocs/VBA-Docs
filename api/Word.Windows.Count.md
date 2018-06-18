@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of windows in the collection. Rea
 ## See also
 
 
-#### Concepts
-
-
 [Windows Collection Object](Word.windows.md)
 

@@ -44,8 +44,5 @@ ActiveWorkbook.Styles.Item("Normal").Font.Bold = True
 ## See also
 
 
-#### Concepts
-
-
 [Styles Object](Excel.Styles.md)
 

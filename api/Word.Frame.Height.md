@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the height (in points) of the spec
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

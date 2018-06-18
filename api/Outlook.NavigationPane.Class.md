@@ -31,8 +31,5 @@ This property returns  **olNavigationPane** for the **[NavigationPane](Outlook.N
 ## See also
 
 
-#### Concepts
-
-
 [NavigationPane Object](Outlook.NavigationPane.md)
 

@@ -26,8 +26,5 @@ Returns a  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents t
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

@@ -35,7 +35,7 @@ In some cases, the  **Object** property returns the object represented by the sp
 The following example returns the object represented by the COM add-in  **msodraa9.ShapeSelect**.
 
 
-```
+```vb
 Dim objBaseObject As Object 
 Set objBaseObject = _ 
  Application.COMAddIns.Item("msodraa9.ShapeSelect").Object
@@ -43,9 +43,6 @@ Set objBaseObject = _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [COMAddIn Object](comaddin-object-office.md)

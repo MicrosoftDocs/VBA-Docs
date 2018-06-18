@@ -48,8 +48,5 @@ blnAutoFormat = Options.AutoFormatApplyHeadings
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

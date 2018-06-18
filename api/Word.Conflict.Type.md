@@ -40,8 +40,5 @@ Next con
 ## See also
 
 
-#### Concepts
-
-
 [Conflict Object](Word.Conflict.md)
 

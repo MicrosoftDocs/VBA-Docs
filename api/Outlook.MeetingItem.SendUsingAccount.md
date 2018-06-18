@@ -33,8 +33,5 @@ This property is read-only if the  **MeetingItem** is a received item, or if the
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

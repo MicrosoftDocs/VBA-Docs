@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.PostItem.Open.md)** event 
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

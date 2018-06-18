@@ -41,8 +41,5 @@ ActiveDocument.ActiveWindow.View.ShowXMLMarkup = wdToggle
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

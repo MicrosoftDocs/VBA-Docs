@@ -53,8 +53,5 @@ Next objPF
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

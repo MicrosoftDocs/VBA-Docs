@@ -26,8 +26,5 @@ Returns the parent object of the  **[Row](Outlook.Row.md)** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Outlook.Row.md)
 

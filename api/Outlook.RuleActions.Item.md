@@ -44,8 +44,5 @@ The  **RuleActions** collection object is a fixed collection. It contains **Rule
 ## See also
 
 
-#### Concepts
-
-
 [RuleActions Object](Outlook.RuleActions.md)
 

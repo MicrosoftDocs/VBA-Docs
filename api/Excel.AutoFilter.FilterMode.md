@@ -26,8 +26,5 @@ Returns  **True** if the worksheet is in the AutoFilter filter mode. Read-only *
 ## See also
 
 
-#### Concepts
-
-
 [AutoFilter Object](Excel.AutoFilter.md)
 

@@ -36,9 +36,6 @@ The  **Priority** property is not used by command bar controls that are menu ite
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

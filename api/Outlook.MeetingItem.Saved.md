@@ -26,8 +26,5 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

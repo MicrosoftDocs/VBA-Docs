@@ -62,8 +62,5 @@ Worksheets("Sheet1").Columns("J").PageBreak = xlNone
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

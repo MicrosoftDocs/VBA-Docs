@@ -47,8 +47,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindows Object](Excel.ProtectedViewWindows.md)
 

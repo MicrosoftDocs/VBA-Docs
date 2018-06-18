@@ -36,8 +36,5 @@ Calling the  **ClearHyperlinks** method on the specified range is equivalent to 
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

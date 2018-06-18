@@ -26,9 +26,6 @@ Represent field definitions of SubItems in a PickerFields collection. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [PickerResult Object](pickerresult-object-office.md)
 #### Other resources
 

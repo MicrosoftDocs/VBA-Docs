@@ -31,8 +31,5 @@ Nothing
 ## See also
 
 
-#### Concepts
-
-
 [Revisions Collection Object](Word.revisions.md)
 

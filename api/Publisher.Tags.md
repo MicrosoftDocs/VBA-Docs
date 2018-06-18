@@ -24,7 +24,7 @@ Use the  **[Tags](Publisher.Shape.Tags.md)** property to access the **Tags** col
 
  
 
-```
+```vb
 Sub AddNewTag() 
  Dim shp As Shape 
  With ActiveDocument.Pages(1) 
@@ -44,7 +44,7 @@ Use the  **[Count](Publisher.Tags.Count.md)** property to determine if a shape, 
 
 
 
-```
+```vb
 Sub FormatTaggedShapes() 
  Dim shp As Shape 
  With ActiveDocument.Pages(1) 

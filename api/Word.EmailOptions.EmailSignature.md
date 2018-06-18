@@ -45,8 +45,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

@@ -50,7 +50,7 @@ The  _pvPathIndex_,  _pvCurveIndex_, and  _pvt_ arguments optionally return valu
 
 
 
-```
+```vb
 ThisShape.Paths(*pvPathIndex).Item(*pvCurveIndex).Point(*pvt,&;xOnThis ,&;yOnthis)
 ```
 

@@ -40,8 +40,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Shading Object](Word.Shading.md)
 

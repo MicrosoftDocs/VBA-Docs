@@ -26,8 +26,5 @@ Returns an  **[OlItemType](Outlook.OlItemType.md)** constant indicating the defa
 ## See also
 
 
-#### Concepts
-
-
 [Results Object](Outlook.Results.md)
 

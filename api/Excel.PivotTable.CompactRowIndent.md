@@ -31,8 +31,5 @@ The default value is 1. The valid values for this setting are 0 to the maximum i
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

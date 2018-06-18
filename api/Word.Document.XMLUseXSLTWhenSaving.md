@@ -42,8 +42,5 @@ ActiveDocument.XMLSaveThroughXSLT = "c:\schemas\book.xslt"
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

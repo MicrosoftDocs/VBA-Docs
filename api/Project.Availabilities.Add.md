@@ -38,7 +38,4 @@ Adds an  **Availability** object to an **Availabilities** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Availabilities Collection Object](Project.availabilities.md)

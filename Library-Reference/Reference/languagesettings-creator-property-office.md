@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [LanguageSettings Object](languagesettings-object-office.md)
 #### Other resources
 

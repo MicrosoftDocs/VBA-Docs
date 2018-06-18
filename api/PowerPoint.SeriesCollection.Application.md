@@ -26,8 +26,5 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 ## See also
 
 
-#### Concepts
-
-
 [SeriesCollection Object](PowerPoint.SeriesCollection.md)
 

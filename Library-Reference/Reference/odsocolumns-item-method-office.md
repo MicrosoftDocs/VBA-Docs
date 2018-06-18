@@ -41,15 +41,12 @@ Object
 The following example retrieves an  **ODSOColumn** object from the **ODSOColumns** collection.
 
 
-```
+```vb
 oOdsoColumn = oOdsoColumns.Item(2)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ODSOColumns Object](odsocolumns-object-office.md)

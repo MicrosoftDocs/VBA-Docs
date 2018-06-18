@@ -31,8 +31,5 @@ You can enumerate the  **[RuleActions](Outlook.RuleActions.md)** collection from
 ## See also
 
 
-#### Concepts
-
-
 [RuleActions Object](Outlook.RuleActions.md)
 

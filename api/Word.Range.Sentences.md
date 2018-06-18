@@ -42,8 +42,5 @@ MsgBox ActiveDocument.Paragraphs(1).Range _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

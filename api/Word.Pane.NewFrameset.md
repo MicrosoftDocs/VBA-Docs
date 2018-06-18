@@ -33,16 +33,13 @@ For more information on creating frames pages, see [Creating frames pages](http:
 This example opens a document named "Temp.doc" and then creates a new frames page whose only frame contains "Temp.doc".
 
 
-```
+```vb
 Documents.Open "C:\Documents\Temp.doc" 
 ActiveDocument.ActiveWindow.ActivePane.NewFrameset
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Pane Object](Word.Pane.md)

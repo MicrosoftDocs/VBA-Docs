@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Row*
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

@@ -23,8 +23,5 @@ Returns the name of the object. Read-only  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [UpBars Object](PowerPoint.UpBars.md)
 

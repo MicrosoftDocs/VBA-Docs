@@ -39,8 +39,5 @@ If you do not want a particular object to be viewable in Excel Services, use thi
 ## See also
 
 
-#### Concepts
-
-
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 

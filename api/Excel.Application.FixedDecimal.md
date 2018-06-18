@@ -37,8 +37,5 @@ Application.FixedDecimalPlaces = 4
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

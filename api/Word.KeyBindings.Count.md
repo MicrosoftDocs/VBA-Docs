@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of key bindings in the collection
 ## See also
 
 
-#### Concepts
-
-
 [KeyBindings Collection Object](Word.keybindings.md)
 

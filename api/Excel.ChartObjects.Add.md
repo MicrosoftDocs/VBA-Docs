@@ -53,8 +53,5 @@ co.Chart.ChartWizard Source:=Worksheets("Sheet1").Range("A1:B2"), _
 ## See also
 
 
-#### Concepts
-
-
 [ChartObjects Object](Excel.ChartObjects.md)
 

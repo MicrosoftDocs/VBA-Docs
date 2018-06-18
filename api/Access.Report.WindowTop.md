@@ -31,8 +31,5 @@ Use the  **Move** method to change the position of a report.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

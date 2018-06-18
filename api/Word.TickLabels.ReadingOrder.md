@@ -26,8 +26,5 @@ Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that r
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](Word.TickLabels.md)
 

@@ -23,8 +23,5 @@ Clears the formatting of the object.
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](PowerPoint.LegendKey.md)
 

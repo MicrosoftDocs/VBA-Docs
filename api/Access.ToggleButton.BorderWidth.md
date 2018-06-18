@@ -43,8 +43,5 @@ The exact border width depends on your computer and printer. On some systems, th
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

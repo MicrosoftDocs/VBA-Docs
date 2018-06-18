@@ -31,9 +31,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [PolicyItem Object](policyitem-object-office.md)
 #### Other resources
 

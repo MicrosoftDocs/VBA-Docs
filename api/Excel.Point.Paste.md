@@ -46,8 +46,5 @@ Charts("Chart1").SeriesCollection(1).Paste
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Excel.Point(objec).md)
 

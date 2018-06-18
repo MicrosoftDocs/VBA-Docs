@@ -26,8 +26,5 @@ Returns a  **[Font](Excel.Font(objec).md)** object that represents the font of t
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](Excel.LegendEntry(objec).md)
 

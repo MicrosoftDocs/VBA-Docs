@@ -45,8 +45,5 @@ If you omit the object specified by expression, the  **Requery** method requerie
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

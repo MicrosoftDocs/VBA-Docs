@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.ContactItem.Open.md)** eve
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

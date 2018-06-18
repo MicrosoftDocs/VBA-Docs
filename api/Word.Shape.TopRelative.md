@@ -31,8 +31,5 @@ Use this property with the  **[RelativeHorizontalPosition](Word.Shape.RelativeHo
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

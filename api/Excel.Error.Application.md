@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Error Object](Excel.Error.md)
 

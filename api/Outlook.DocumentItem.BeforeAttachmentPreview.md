@@ -37,8 +37,5 @@ This event occurs before an attachment is previewed, either from the attachment 
 ## See also
 
 
-#### Concepts
-
-
 [DocumentItem Object](Outlook.DocumentItem.md)
 

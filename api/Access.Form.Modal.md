@@ -59,8 +59,5 @@ The form isn't modal in Design view or Datasheet view and also isn't modal if yo
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

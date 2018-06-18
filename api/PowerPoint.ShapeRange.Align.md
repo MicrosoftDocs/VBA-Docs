@@ -46,8 +46,5 @@ myDocument.Shapes.Range.Align msoAlignLefts, msoFalse
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

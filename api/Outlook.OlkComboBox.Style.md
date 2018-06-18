@@ -31,8 +31,5 @@ The default value is  **olComboBoxStyleCombo** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

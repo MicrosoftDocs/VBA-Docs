@@ -26,8 +26,5 @@ Returns the text formatting for the specified chart element. Read-only  **[TextF
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](PowerPoint.ChartFormat.md)
 

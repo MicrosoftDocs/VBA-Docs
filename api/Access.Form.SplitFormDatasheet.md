@@ -26,8 +26,5 @@ Gets or sets whether the user can edit records in the datasheet when a form is d
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

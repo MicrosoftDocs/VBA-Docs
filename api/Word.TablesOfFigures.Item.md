@@ -39,8 +39,5 @@ TableOfFigures
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 

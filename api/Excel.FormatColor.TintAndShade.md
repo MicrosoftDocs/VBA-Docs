@@ -31,8 +31,5 @@ You can enter a number from -1 (darkest) to 1 (lightest) for the  **TintAndShade
 ## See also
 
 
-#### Concepts
-
-
 [FormatColor Object](Excel.FormatColor.md)
 

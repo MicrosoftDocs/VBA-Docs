@@ -52,8 +52,5 @@ blnAutoFormat = Options.AutoFormatAsYouTypeReplaceHyperlinks
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

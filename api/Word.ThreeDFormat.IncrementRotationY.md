@@ -53,8 +53,5 @@ ActiveDocument.Shapes(1).ThreeD.IncrementRotationY -10
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

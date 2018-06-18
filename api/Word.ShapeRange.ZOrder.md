@@ -44,8 +44,5 @@ Use the  **[ZOrderPosition](Word.ShapeRange.ZOrderPosition.md)** property to det
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

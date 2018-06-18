@@ -33,8 +33,5 @@ If this property is set to  **True** , attempting to set the **[SendUsingAccount
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

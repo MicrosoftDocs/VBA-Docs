@@ -55,8 +55,5 @@ Forms("Suppliers").Controls("City").TabStop = False
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

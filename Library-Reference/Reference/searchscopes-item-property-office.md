@@ -34,9 +34,6 @@ Gets a  **SearchScope** object that corresponds to an area in which to perform a
 ## See also
 
 
-#### Concepts
-
-
 [SearchScopes Object](searchscopes-object-office.md)
 #### Other resources
 

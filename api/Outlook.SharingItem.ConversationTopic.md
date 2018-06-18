@@ -26,8 +26,5 @@ Returns a  **String** representing the topic of the conversation thread of the *
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -24,9 +24,6 @@ Gets the parent of the  **Reports** object. Read-only **Project**.
 ## See also
 
 
-#### Concepts
-
-
 [Project Object](Project.Project.md)
 #### Other resources
 

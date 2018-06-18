@@ -35,8 +35,5 @@ For data access pages and for forms based on views or non-parameterized SQL quer
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

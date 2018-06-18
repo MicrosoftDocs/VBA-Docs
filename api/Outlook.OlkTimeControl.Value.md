@@ -31,8 +31,5 @@ The value is the same as the value of  **[Text](Outlook.OlkTimeControl.Text.md)*
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

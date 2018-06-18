@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether the box acts as the mathe
 ## See also
 
 
-#### Concepts
-
-
 [OMathBox Object](Word.OMathBox.md)
 

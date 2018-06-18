@@ -31,8 +31,5 @@ Corresponds to the  **Pasting within the same document** option in the **Advance
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

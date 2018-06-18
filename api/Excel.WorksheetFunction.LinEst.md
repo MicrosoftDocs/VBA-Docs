@@ -123,8 +123,5 @@ The following illustration shows the order in which the additional regression st
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

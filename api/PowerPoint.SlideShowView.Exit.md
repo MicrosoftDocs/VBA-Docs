@@ -28,15 +28,12 @@ Ends the specified slide show.
 This example ends the slide show that's running in slide show window one.
 
 
-```
+```vb
 SlideShowWindows(1).View.Exit
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)

@@ -23,8 +23,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](PowerPoint.ChartArea.md)
 

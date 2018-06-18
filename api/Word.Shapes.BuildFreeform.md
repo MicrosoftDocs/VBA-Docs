@@ -71,8 +71,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Collection Object](Word.shapes.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the nesting level for an **OMath** object. R
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

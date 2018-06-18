@@ -36,8 +36,5 @@ The value of the  **AlternativeText** property corresponds to the setting of the
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

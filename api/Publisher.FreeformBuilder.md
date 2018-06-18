@@ -24,7 +24,7 @@ Use the  **[BuildFreeform](Publisher.Shapes.BuildFreeform.md)** method of the **
 
  
 
-```
+```vb
 Sub CreateNewFreeFormShape() 
  With ActiveDocument.Pages(1).Shapes.BuildFreeform( _ 
  EditingType:=msoEditingCorner, X1:=360, Y1:=200) 

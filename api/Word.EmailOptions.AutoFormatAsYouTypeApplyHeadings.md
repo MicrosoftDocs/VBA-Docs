@@ -47,8 +47,5 @@ blnAutoFormat = Options.AutoFormatAsYouTypeApplyHeadings
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

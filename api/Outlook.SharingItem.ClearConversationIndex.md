@@ -26,8 +26,5 @@ Clears the index of the conversation thread for the  **[SharingItem](Outlook.Sha
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

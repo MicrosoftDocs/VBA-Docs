@@ -41,8 +41,5 @@ ActivePresentation.VBProject.Name = "TestProject"
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

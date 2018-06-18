@@ -31,8 +31,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [PlaceholderFormat Object](PowerPoint.PlaceholderFormat.md)
 

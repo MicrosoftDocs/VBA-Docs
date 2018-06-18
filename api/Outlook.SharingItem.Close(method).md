@@ -34,8 +34,5 @@ Closes and optionally saves changes to the  **[SharingItem](Outlook.SharingItem.
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **CoAu
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthors Object](Word.CoAuthors.md)
 

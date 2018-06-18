@@ -60,8 +60,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PublishObjects Object](Excel.PublishObjects.md)
 

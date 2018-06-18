@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Object](PowerPoint.AddIns.md)
 

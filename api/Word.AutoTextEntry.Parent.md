@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **[Aut
 ## See also
 
 
-#### Concepts
-
-
 [AutoTextEntry Object](Word.AutoTextEntry.md)
 

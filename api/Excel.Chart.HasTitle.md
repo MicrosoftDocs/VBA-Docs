@@ -31,8 +31,5 @@ A chart title is represented by a  **[ChartTitle](Excel.ChartTitle(objec).md)** 
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

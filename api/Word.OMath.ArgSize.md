@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the script size of an argument, for 
 ## See also
 
 
-#### Concepts
-
-
 [OMath Object](Word.OMath.md)
 

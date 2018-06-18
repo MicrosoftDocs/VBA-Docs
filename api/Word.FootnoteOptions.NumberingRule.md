@@ -39,8 +39,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [FootnoteOptions Object](Word.FootnoteOptions.md)
 

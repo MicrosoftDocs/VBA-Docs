@@ -50,8 +50,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](PowerPoint.Selection.md)
 

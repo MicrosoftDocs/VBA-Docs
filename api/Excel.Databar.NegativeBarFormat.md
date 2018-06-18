@@ -31,8 +31,5 @@ Returns the  **[NegativeBarFormat](Excel.NegativeBarFormat.md)** object associat
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

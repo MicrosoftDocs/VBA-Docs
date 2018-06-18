@@ -33,8 +33,5 @@ This property applies only to a recipient of a meeting request. If the recipient
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

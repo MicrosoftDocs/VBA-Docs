@@ -33,16 +33,13 @@ The  **Value** property only returns the first 255 characters of the object's va
 This example creates an AutoCorrect entry and then displays the value of the new entry.
 
 
-```
+```vb
 AutoCorrect.Entries.Add Name:="i.e.", Value:="that is" 
 MsgBox AutoCorrect.Entries("i.e.").Value
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)

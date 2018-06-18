@@ -29,8 +29,5 @@ Returns or sets an  **Integer** that represents the color scheme for the chart. 
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -34,8 +34,5 @@ Sets the camera presets for a shape.
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

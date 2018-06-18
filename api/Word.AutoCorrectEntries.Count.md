@@ -26,8 +26,5 @@ Returns the number of items in the  **AutoCorrectEntries** collection. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrectEntries Collection Object](Word.autocorrectentries.md)
 

@@ -65,8 +65,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ItemProperty Object](Outlook.ItemProperty.md)
 

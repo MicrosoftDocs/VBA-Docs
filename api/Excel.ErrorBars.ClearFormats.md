@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [ErrorBars Object](Excel.ErrorBars(objec).md)
 

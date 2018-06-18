@@ -26,8 +26,5 @@ Specifies a picture or text to be right aligned in the page footer.
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Excel.Page.md)
 

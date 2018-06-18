@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 

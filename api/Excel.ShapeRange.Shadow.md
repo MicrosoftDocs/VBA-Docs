@@ -26,8 +26,5 @@ Returns a read-only  **[ShadowFormat](Excel.ShadowFormat.md)** object that conta
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

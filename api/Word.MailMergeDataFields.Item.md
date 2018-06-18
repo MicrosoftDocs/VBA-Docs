@@ -39,8 +39,5 @@ MailMergeDataField
 ## See also
 
 
-#### Concepts
-
-
 [MailMergeDataFields Collection Object](Word.mailmergedatafields.md)
 

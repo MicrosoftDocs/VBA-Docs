@@ -19,7 +19,7 @@ Represents the entire Microsoft Excel application.
 
 Use the **Application** property to return the **Application** object. The following example applies the **Windows** property to the **Application** object.
 
-```
+```vb
 Application.Windows("book1.xls").Activate
 ```
 
@@ -27,7 +27,7 @@ Application.Windows("book1.xls").Activate
 
 The following example creates an Excel workbook object in another application and then opens a workbook in Excel.
 
-```
+```vb
 Set xl = CreateObject("Excel.Sheet") 
 xl.Application.Workbooks.Open "newbook.xls"
 ```
@@ -36,13 +36,13 @@ xl.Application.Workbooks.Open "newbook.xls"
 
 Many of the properties and methods that return the most common user-interface objects, such as the active cell (**ActiveCell** property), can be used without the **Application** object qualifier. For example, instead of writing:
 
-```
+```vb
 Application.ActiveCell.Font.Bold = True
 ```
 
 You can write: 
 
-```
+```vb
 ActiveCell.Font.Bold = True
 ```
 

@@ -31,8 +31,5 @@ A  **[SharingItem](Outlook.SharingItem.md)** object that represents a sharing re
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

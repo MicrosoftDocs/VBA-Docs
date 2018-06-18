@@ -39,8 +39,5 @@ OMath
 ## See also
 
 
-#### Concepts
-
-
 [OMathArgs Collection](Word.OMathArgs.md)
 

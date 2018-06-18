@@ -31,7 +31,7 @@ Use the  **[ThreeD](Publisher.Shape.ThreeD.md)** property to return a **ThreeDFo
 
  
 
-```
+```vb
 Sub SetThreeDSettings() 
  Dim tdfTemp As ThreeDFormat 
  

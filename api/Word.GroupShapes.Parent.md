@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Grou
 ## See also
 
 
-#### Concepts
-
-
 [GroupShapes Collection Object](Word.groupshapes.md)
 

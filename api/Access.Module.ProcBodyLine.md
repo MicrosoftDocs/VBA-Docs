@@ -83,8 +83,5 @@ MsgBox "The definition of the " &; strProc &; " procedure begins on line " &; _
 ## See also
 
 
-#### Concepts
-
-
 [Module Object](Access.Module.md)
 

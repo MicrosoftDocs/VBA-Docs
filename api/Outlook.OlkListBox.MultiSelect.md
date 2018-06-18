@@ -26,8 +26,5 @@ Returns or sets an  **[OlMultiSelect](Outlook.OlMultiSelect.md)** constant that 
 ## See also
 
 
-#### Concepts
-
-
 [OlkListBox Object](Outlook.OlkListBox.md)
 

@@ -53,8 +53,5 @@ ActivePresentation.Slides(1).ApplyTheme "C:\Program Files\Microsoft Office\Templ
 ## See also
 
 
-#### Concepts
-
-
 [Slide Object](PowerPoint.Slide.md)
 

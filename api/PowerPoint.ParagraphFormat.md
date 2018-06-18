@@ -21,7 +21,7 @@ Represents the paragraph formatting of a text range.
 Use the [ParagraphFormat](http://msdn.microsoft.com/library/41d3f0f3-70e3-ad1a-efcb-de849d4a03d4%28Office.15%29.aspx)property to return the  **ParagraphFormat** object. The following example left aligns the paragraphs in shape two on slide one in the active presentation.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange _
 
     .ParagraphFormat.Alignment = ppAlignLeft

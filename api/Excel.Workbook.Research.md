@@ -26,8 +26,5 @@ Returns a  **Research** object that represents the research service for a workbo
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -33,7 +33,7 @@ For information about returning a single member of a collection, see [Returning 
 This example formats the selection as a numbered list. The example then displays a message box that reports the number of lists in the active document.
 
 
-```
+```vb
 Selection.Range.ListFormat.ApplyListTemplate _ 
  ListTemplate:=ListGalleries(wdNumberGallery).ListTemplates(2) 
 MsgBox "This document has " &; ActiveDocument.Lists.Count _ 
@@ -68,9 +68,6 @@ Next li
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

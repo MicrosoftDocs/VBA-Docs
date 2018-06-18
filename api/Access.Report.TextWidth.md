@@ -48,8 +48,5 @@ If the  _strexpr_ argument contains embedded carriage returns, the **TextWidth**
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

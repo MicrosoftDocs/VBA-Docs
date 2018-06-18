@@ -47,7 +47,7 @@ This example deactivates all custom dictionaries but does not delete the custom 
 
 
 
-```
+```vb
 HangulHanjaDictionaries.ClearAll
 ```
 
@@ -64,9 +64,6 @@ Next di
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

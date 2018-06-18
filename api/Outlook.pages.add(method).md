@@ -43,8 +43,5 @@ You can change the  **Name** property of the object at run time only if you adde
 ## See also
 
 
-#### Concepts
-
-
  [Pages Object](Outlook.pages(object).md)
 

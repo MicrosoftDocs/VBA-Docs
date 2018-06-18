@@ -43,8 +43,5 @@ If myDoc.WriteReserved = False Then myDoc.WritePassword = "secret"
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

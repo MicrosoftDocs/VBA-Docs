@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [NewFile Object](newfile-object-office.md)
 #### Other resources
 

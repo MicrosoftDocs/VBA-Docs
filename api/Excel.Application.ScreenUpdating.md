@@ -61,8 +61,5 @@ MsgBox "Elapsed time, screen updating on: " &; elapsedTime(1) &; _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

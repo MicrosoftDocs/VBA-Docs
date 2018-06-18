@@ -43,7 +43,7 @@ This method is internally called by the Microsoft Office application when the us
 The following example, written in C#, shows the implementation of the  **ShowSigningCeremony** method in a custom signature provider project.
 
 
-```
+```vb
  public void ShowSigningCeremony(object parentWindow, SignatureSetup sigsetup, SignatureInfo siginfo) 
  { 
  using (Win32WindowFromOleWindow window = new Win32WindowFromOleWindow(parentWindow)) 
@@ -70,9 +70,6 @@ The following example, written in C#, shows the implementation of the  **ShowSig
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureProvider Object](signatureprovider-object-office.md)

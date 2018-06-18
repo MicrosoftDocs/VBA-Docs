@@ -45,7 +45,7 @@ Use  **ShapeRange** (Index), where Index is the name or the index number, to ret
 
 
 
-```
+```vb
 Selection.ShapeRange(1).Fill.ForeColor.RGB = RGB(255, 0, 0)
 ```
 
@@ -54,7 +54,7 @@ The following example sets the fill for all the shapes in the selection, assumin
 
 
 
-```
+```vb
 Selection.ShapeRange.Fill.ForeColor.RGB = RGB(255, 0, 0)
 ```
 

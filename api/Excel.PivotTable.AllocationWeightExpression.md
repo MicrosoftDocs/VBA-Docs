@@ -31,8 +31,5 @@ The  **AllocationWeightExpression** property corresponds to the **Weight Express
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

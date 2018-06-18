@@ -56,8 +56,5 @@ Forms("Mailing List").Controls("OrganizationName1").SpecialEffect = 1
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

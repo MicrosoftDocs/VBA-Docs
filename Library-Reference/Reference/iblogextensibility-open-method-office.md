@@ -42,9 +42,6 @@ Opens the blog specified by the blog ID. It is called by the  **Open Existing Po
 ## See also
 
 
-#### Concepts
-
-
 [IBlogExtensibility Object](iblogextensibility-object-office.md)
 #### Other resources
 

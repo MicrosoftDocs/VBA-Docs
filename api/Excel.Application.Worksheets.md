@@ -64,8 +64,5 @@ newSheet.Name = "current Budget"
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](application-object-excel.md)
 

@@ -39,8 +39,5 @@ Zoom
 ## See also
 
 
-#### Concepts
-
-
 [Zooms Collection Object](Word.zooms.md)
 

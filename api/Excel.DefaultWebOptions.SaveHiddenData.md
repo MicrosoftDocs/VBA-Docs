@@ -41,8 +41,5 @@ Application.DefaultWebOptions.SaveHiddenData = False
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 

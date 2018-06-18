@@ -37,8 +37,5 @@ The  **RightGridlineWidth** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [EmptyCell Object](Access.EmptyCell.md)
 

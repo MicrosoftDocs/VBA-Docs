@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the birthday for the contact. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

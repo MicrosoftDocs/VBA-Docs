@@ -26,8 +26,5 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

@@ -36,9 +36,6 @@ SmartArtNode
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNodes Object](smartartnodes-object-office.md)
 #### Other resources
 

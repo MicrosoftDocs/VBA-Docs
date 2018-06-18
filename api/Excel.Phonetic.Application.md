@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Phonetic Object](Excel.Phonetic.md)
 

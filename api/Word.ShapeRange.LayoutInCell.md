@@ -34,8 +34,5 @@ The  **LayoutInCell** property corresponds to the **Layout in table cell** optio
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

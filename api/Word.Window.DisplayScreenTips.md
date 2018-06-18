@@ -42,15 +42,12 @@ This example returns the current status of the  **Show document tooltips on hove
 
 
 
-```
+```vb
 temp = Application.DisplayScreenTips
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Window Object](Word.Window.md)

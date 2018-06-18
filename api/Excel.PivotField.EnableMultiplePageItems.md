@@ -34,8 +34,5 @@ The existing property value is retained for OLAP.
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

@@ -46,8 +46,5 @@ Charts("Chart1").SeriesCollection(1).Trendlines(1).Intercept = 5
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Excel.Trendline(objec).md)
 

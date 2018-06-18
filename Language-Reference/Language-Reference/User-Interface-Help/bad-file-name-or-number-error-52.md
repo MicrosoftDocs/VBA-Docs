@@ -28,7 +28,7 @@ An error occurred trying to access the specified file. This error has the follow
     
 - There is an invalid name or number.
     
-  ```
+  ```vb
   LETTER.DOC 
 My Memo.Txt 
 BUDGET.92 

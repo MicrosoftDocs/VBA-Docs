@@ -20,7 +20,7 @@ Use  **TaskDependencies** ( _Index_ ), where _Index_ is the dependency index, to
 
 
 
-```
+```vb
 ActiveProject.Tasks("Draft Initial Business Case").TaskDependencies(1).Lag = "1.5d"
 ```
 
@@ -31,7 +31,7 @@ Use the  **[TaskDependencies](http://msdn.microsoft.com/library/9c02fe5f-cb9e-a1
 
 
 
-```
+```vb
 Dim TaskDep As TaskDependency 
 
  
@@ -54,7 +54,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/37e67ab2-ca7b-26c2-50e7-8a933
 
 
 
-```
+```vb
 ActiveProject.Tasks("Draft Initial Business Case").TaskDependencies.Add ActiveProject.Tasks("Preliminary Research &amp; Approval"), pjFinishToStart
 ```
 

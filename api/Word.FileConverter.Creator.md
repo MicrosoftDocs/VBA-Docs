@@ -31,8 +31,5 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](Word.FileConverter.md)
 

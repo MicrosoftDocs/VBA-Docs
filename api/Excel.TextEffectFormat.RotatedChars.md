@@ -57,8 +57,5 @@ newWordArt.TextEffect.RotatedChars = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 

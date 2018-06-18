@@ -26,8 +26,5 @@ Gets or sets a  **String** that represents the title of the chart. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

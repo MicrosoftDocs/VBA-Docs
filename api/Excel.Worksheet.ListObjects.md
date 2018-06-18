@@ -26,8 +26,5 @@ Returns a collection of  **[ListObject](Excel.ListObject.md)** objects in the wo
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

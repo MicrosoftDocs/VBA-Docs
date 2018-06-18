@@ -139,7 +139,7 @@ This example provides two lines of code that are equivalent:
 
 
 
-```
+```vb
 myChart.SeriesCollection.Item(1) 
 myChart.SeriesCollection(1)
 ```

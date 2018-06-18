@@ -73,8 +73,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Presentations Object](PowerPoint.Presentations.md)
 

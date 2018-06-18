@@ -42,7 +42,7 @@ If you want to be able to see through the transparent parts of the picture all t
 This example sets the color that has the RGB value returned by the function RGB(0, 0, 255) as the transparent color for shape one on  `myDocument`. For the example to work, shape one must be a bitmap.
 
 
-```
+```vb
 blueScreen = RGB(0, 0, 255)
 
 Set myDocument = ActivePresentation.Slides(1)
@@ -64,9 +64,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)

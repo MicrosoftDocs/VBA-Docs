@@ -65,8 +65,5 @@ strOutput = "1 line = " _
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

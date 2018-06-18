@@ -36,8 +36,5 @@ ActiveDocument.DefaultTabStop = InchesToPoints(1)
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

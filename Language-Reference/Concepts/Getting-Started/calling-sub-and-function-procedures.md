@@ -98,7 +98,7 @@ The following example calls the  **MsgBox** function using named arguments. The 
 
 
 
-```
+```vb
 answer3 = MsgBox(Title:="Question 3", _ 
 Prompt:="Are you happy with your salary?", Buttons:=4) 
 

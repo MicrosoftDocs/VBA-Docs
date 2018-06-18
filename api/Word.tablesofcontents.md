@@ -19,7 +19,7 @@ A collection of  **[TableOfContents](Word.TableOfContents.md)** objects that rep
 Use the  **TablesOfContents** property to return the **TablesOfContents** collection. The following example inserts a table of contents entry that references the selected text in the active document.
 
 
-```
+```vb
 ActiveDocument.TablesOfContents.MarkEntry Range:=Selection.Range, _ 
  Level:=2, Entry:="Introduction"
 ```
@@ -29,7 +29,7 @@ Use the  **Add** method to add a table of contents to a document. The following 
 
 
 
-```
+```vb
 Set myRange = ActiveDocument.Range(Start:=0, End:=0) 
 ActiveDocument.TablesOfContents.Add Range:=myRange, _ 
  UseFields:=False, UseHeadingStyles:=True, _ 
@@ -42,7 +42,7 @@ Use  **TablesOfContents** (Index), where Index is the index number, to return a 
 
 
 
-```
+```vb
 ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 ```
 

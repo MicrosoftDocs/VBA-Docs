@@ -72,8 +72,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

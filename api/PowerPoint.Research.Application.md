@@ -31,8 +31,5 @@ Application
 ## See also
 
 
-#### Concepts
-
-
 [Research Object](PowerPoint.Research.md)
 

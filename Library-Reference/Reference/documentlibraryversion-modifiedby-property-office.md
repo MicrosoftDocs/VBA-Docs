@@ -31,9 +31,6 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)
 #### Other resources
 

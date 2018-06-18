@@ -31,8 +31,5 @@ The returned object excludes the Header and Totals cell.
 ## See also
 
 
-#### Concepts
-
-
 [ListColumn Object](Excel.ListColumn.md)
 

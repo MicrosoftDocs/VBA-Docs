@@ -71,7 +71,7 @@ The example inserts a formula field that is subtracted from a value represented 
 
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 Selection.InsertFormula Formula:= "=GrossSales-45,000.00", _ 
  NumberFormat:="$#,##0.00"
@@ -79,9 +79,6 @@ Selection.InsertFormula Formula:= "=GrossSales-45,000.00", _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

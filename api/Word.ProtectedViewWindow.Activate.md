@@ -44,8 +44,5 @@ ProtectedViewWindows(1).Activate
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

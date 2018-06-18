@@ -17,7 +17,7 @@ To create a group of records, use the  **[GROUP BY](group-by-clause-microsoft-ac
 
 
 
-```sql
+```vbsql
 SELECT CustomerID, Count(*) AS [Number of Invoices], 
     Avg(Amount) AS [Average Invoice Amount] 
     FROM tblInvoices 
@@ -30,7 +30,7 @@ You can specify a condition at the group level by using the HAVING clause, which
 
 
 
-```sql
+```vbsql
 SELECT CustomerID, Count(*) AS [Number of Invoices], 
     Avg(Amount) AS [Average Invoice Amount] 
     FROM tblInvoices 

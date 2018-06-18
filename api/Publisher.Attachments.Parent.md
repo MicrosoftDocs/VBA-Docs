@@ -31,8 +31,5 @@ Object
 ## See also
 
 
-#### Concepts
-
-
  [Attachments Collection](Publisher.Attachments.md)
 

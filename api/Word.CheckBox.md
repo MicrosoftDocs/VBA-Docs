@@ -21,7 +21,7 @@ Represents a single check box form field.
 Use  **FormFields** (Index), where Index is index number or the bookmark name associated with the check box, to return a single **[FormField](Word.FormField.md)** object. Use the **[CheckBox](Word.FormField.CheckBox.md)** property with the **FormField** object to return a **CheckBox** object. The following example selects the check box form field named "Check1" in the active document.
 
 
-```
+```vb
 ActiveDocument.FormFields("Check1").CheckBox.Value = True
 ```
 
@@ -30,7 +30,7 @@ The index number represents the position of the form field in the  **[FormFields
 
 
 
-```
+```vb
 If ActiveDocument.FormFields(1).Type = wdFieldFormCheckBox Then 
  ActiveDocument.FormFields(1).CheckBox.Value = True 
 End If
@@ -41,7 +41,7 @@ The following example determines whether the  _ffield_ object is valid before ch
 
 
 
-```
+```vb
 Set ffield = ActiveDocument.FormFields(1).CheckBox 
 If ffield.Valid = True Then 
  ffield.AutoSize = False 
@@ -56,7 +56,7 @@ Use the  **Add** method with the **FormFields** object to add a check box form f
 
 
 
-```
+```vb
 With ActiveDocument.FormFields.Add(Range:=ActiveDocument.Range _ 
  (Start:=0,End:=0), Type:=wdFieldFormCheckBox) 
  .Name = "Color" 

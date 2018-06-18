@@ -26,8 +26,5 @@ Returns or sets the alignment of text on the even page of a workbook or section.
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

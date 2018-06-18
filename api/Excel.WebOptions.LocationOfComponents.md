@@ -31,8 +31,5 @@ Office Web components are automatically downloaded with the specified Web page i
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

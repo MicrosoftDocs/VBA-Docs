@@ -59,8 +59,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

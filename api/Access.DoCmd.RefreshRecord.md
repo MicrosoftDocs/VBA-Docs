@@ -31,8 +31,5 @@ In a client database, the  **RefreshRecord** method is equivalent to the **[Refr
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -31,8 +31,5 @@ The parent  **ExchangeUser** object.
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

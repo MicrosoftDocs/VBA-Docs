@@ -47,8 +47,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

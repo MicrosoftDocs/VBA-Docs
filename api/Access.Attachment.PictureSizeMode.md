@@ -40,8 +40,5 @@ When a small picture is used for the  **DefaultPicture** property of an attachme
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

@@ -88,8 +88,5 @@ objCustomControl.XMLMapping.SetMapping _
 ## See also
 
 
-#### Concepts
-
-
 [XMLMapping Object](Word.XMLMapping.md)
 

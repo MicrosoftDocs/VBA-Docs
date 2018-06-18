@@ -45,8 +45,5 @@ MsgBox "The data was last refreshed on " &; dateString
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

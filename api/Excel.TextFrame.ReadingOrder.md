@@ -26,8 +26,5 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Excel.TextFrame.md)
 

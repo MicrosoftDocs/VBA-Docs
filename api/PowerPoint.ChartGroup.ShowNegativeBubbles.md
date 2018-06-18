@@ -56,8 +56,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 

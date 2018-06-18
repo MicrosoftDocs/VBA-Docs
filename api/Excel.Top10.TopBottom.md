@@ -26,8 +26,5 @@ Returns or sets one of the constants of the  **[XlTopBottom](Excel.XlTopBottom.m
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

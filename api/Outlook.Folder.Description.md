@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagComment** .
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

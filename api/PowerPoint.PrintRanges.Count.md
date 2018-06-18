@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PrintRanges Object](PowerPoint.PrintRanges.md)
 

@@ -38,7 +38,7 @@ This method will always return  **False** when **CustomXMLNode** isn't of node t
 The following example demonstrates using various methods to add custom XML parts, select parts and nodes with different criteria, append child subtrees, tests whether the subtree was successfully added, and delete parts and nodes.
 
 
-```
+```vb
 Sub ShowCustomXmlParts() 
     On Error GoTo Err 
  
@@ -103,9 +103,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLNode Object](customxmlnode-object-office.md)

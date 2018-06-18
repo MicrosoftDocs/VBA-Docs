@@ -51,8 +51,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CaptionLabels Collection Object](Word.captionlabels.md)
 

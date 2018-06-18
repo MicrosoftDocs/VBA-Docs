@@ -33,7 +33,7 @@ A new version is created on the server each time a user opens the document and i
 The following example displays the Modified date and time along with other properties of each version of a shared document.
 
 
-```
+```vb
  Dim dlvVersions As Office.DocumentLibraryVersions 
  Dim dlvVersion As Office.DocumentLibraryVersion 
  Dim strVersionInfo As String 
@@ -58,9 +58,6 @@ The following example displays the Modified date and time along with other prope
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentLibraryVersion Object](documentlibraryversion-object-office.md)

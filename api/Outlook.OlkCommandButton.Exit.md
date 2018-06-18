@@ -34,8 +34,5 @@ Occurs just after the focus passes from this control to another control on the s
 ## See also
 
 
-#### Concepts
-
-
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

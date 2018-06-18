@@ -21,7 +21,7 @@ Represents a collection of all  **[BuildingBlock](Word.BuildingBlock.md)** objec
 Use the  **[Add](Word.BuildingBlockEntries.Add.md)** method to create a new building block and add it to a template. The following example adds the selected text to the watermarks building block gallery of the first template in the **[Templates](Word.templates.md)** collection.
 
 
-```
+```vb
 Dim objTemplate As Template 
 Dim objBB As BuildingBlock 
  

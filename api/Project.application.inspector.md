@@ -29,8 +29,5 @@ Indicates the  **Task Inspector** for use with engagement data. Introduced in Of
 ## See also
 
 
-#### Concepts
-
-
 [Application Object (Project)](application-object-project.md)
 

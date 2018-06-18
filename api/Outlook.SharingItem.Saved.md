@@ -26,8 +26,5 @@ Returns a  **Boolean** value that is **true** if the **[SharingItem](Outlook.Sha
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

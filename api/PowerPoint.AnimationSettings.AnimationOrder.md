@@ -50,8 +50,5 @@ ActivePresentation.Slides(2).Shapes(2) _
 ## See also
 
 
-#### Concepts
-
-
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 

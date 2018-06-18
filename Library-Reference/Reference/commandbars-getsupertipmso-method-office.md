@@ -47,15 +47,12 @@ String
 The following sample returns the String "Cut the selection from the document and put it on the Clipboard."
 
 
-```
+```vb
 Application.CommandBars.GetSupertipMso("Cut")
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

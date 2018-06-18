@@ -30,7 +30,4 @@ For a code example that uses the  **Task** object, see **[Name](Project.Task.Nam
 ## See also
 
 
-#### Concepts
-
-
 [Exception Object](Project.Exception.md)

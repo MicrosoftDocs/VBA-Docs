@@ -35,8 +35,5 @@ If the PivotCell is in the data area, the  **PivotColumnLine** property returns 
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

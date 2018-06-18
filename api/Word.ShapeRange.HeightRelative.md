@@ -31,8 +31,5 @@ Use this property with the  **[RelativeVerticalSize](Word.ShapeRange.RelativeVer
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

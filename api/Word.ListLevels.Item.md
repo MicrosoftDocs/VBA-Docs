@@ -39,8 +39,5 @@ ListLevel
 ## See also
 
 
-#### Concepts
-
-
 [ListLevels Collection Object](Word.listlevels.md)
 

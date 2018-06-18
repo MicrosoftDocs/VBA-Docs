@@ -39,8 +39,5 @@ An  **Object** value that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Items Object](Outlook.Items.md)
 

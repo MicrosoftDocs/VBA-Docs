@@ -34,9 +34,6 @@ Adds a new file type to a file search.
 ## See also
 
 
-#### Concepts
-
-
 [FileTypes Object](filetypes-object-office.md)
 #### Other resources
 

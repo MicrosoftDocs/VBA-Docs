@@ -42,8 +42,5 @@ Forms(0).AfterLayout = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

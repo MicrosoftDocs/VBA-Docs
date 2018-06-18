@@ -34,8 +34,5 @@ Setting this property to a language that is not installed may either have no eff
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

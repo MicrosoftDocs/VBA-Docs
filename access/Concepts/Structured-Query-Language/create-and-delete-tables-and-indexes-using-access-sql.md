@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 Tables are the primary building blocks of a relational database. A table contains rows (or records) of data, and each row is organized into a finite number of columns (or fields). To build a new table in Access by using Access SQL, you must name the table, name the fields, and define the type of data that the fields will contain. Use the  **[CREATE TABLE](http://msdn.microsoft.com/library/FC45D36E-6E43-C030-5016-CCA8BB1379FE%28Office.15%29.aspx)** statement to define the table in SQL. Suppose that you are building an invoicing database. The first step is to build the initial customers table.
 
 
-```sql
+```vbsql
 CREATE TABLE tblCustomers  
     (CustomerID INTEGER, 
     [Last Name] TEXT(50), 
@@ -35,7 +35,7 @@ You can declare a field to be  **NOT NULL**, which means that null values cannot
 
 
 
-```sql
+```vbsql
 CREATE TABLE tblCustomers  
     (CustomerID INTEGER NOT NULL, 
     [Last Name] TEXT(50) NOT NULL, 
@@ -50,7 +50,7 @@ To remove a table from the database, use the  **[DROP TABLE](http://msdn.microso
 
 
 
-```sql
+```vbsql
 DROP TABLE tblCustomers 
 
 ```
@@ -65,7 +65,7 @@ To build an index on a table, you must name the index, name the table to build t
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID) 
 
@@ -76,7 +76,7 @@ Indexed fields can be sorted in one of two ways: ascending ( **ASC** ) or descen
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID DESC) 
 
@@ -87,7 +87,7 @@ There are four main options that you can use with an index:  **PRIMARY**, **DISA
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID) 
     WITH PRIMARY 
@@ -99,7 +99,7 @@ To create a primary key index on more than one field, include all of the field n
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerName  
     ON tblCustomers ([Last Name], [First Name]) 
     WITH PRIMARY 
@@ -111,7 +111,7 @@ The  **DISALLOW NULL** option prevents insertion of null data in the field. (Thi
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerEmail  
     ON tblCustomers (Email) 
     WITH DISALLOW NULL 
@@ -123,7 +123,7 @@ The  **IGNORE NULL** option causes null data in the table to be ignored for the 
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerLastName  
     ON tblCustomers ([Last Name]) 
     WITH IGNORE NULL 
@@ -135,7 +135,7 @@ In addition to the  **PRIMARY**, **DISALLOW NULL**, and **IGNORE NULL** options,
 
 
 
-```sql
+```vbsql
 CREATE UNIQUE INDEX idxCustomerPhone  
     ON tblCustomers (Phone) 
 
@@ -146,7 +146,7 @@ To remove an index from a table, use the  **DROP INDEX** statement.
 
 
 
-```sql
+```vbsql
 DROP INDEX idxName 
     ON tblCustomers 
 
@@ -158,7 +158,7 @@ DROP INDEX idxName
 Tables are the primary building blocks of a relational database. A table contains rows (or records) of data, and each row is organized into a finite number of columns (or fields). To build a new table in Access by using Access SQL, you must name the table, name the fields, and define the type of data that the fields will contain. Use the  **[CREATE TABLE](http://msdn.microsoft.com/library/FC45D36E-6E43-C030-5016-CCA8BB1379FE%28Office.15%29.aspx)** statement to define the table in SQL. Suppose that you are building an invoicing database. The first step is to build the initial customers table.
 
 
-```sql
+```vbsql
 CREATE TABLE tblCustomers  
     (CustomerID INTEGER, 
     [Last Name] TEXT(50), 
@@ -180,7 +180,7 @@ You can declare a field to be  **NOT NULL**, which means that null values cannot
 
 
 
-```sql
+```vbsql
 CREATE TABLE tblCustomers  
     (CustomerID INTEGER NOT NULL, 
     [Last Name] TEXT(50) NOT NULL, 
@@ -195,7 +195,7 @@ To remove a table from the database, use the  **[DROP TABLE](http://msdn.microso
 
 
 
-```sql
+```vbsql
 DROP TABLE tblCustomers 
 
 ```
@@ -210,7 +210,7 @@ To build an index on a table, you must name the index, name the table to build t
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID) 
 
@@ -221,7 +221,7 @@ Indexed fields can be sorted in one of two ways: ascending ( **ASC** ) or descen
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID DESC) 
 
@@ -232,7 +232,7 @@ There are four main options that you can use with an index:  **PRIMARY**, **DISA
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID) 
     WITH PRIMARY 
@@ -244,7 +244,7 @@ To create a primary key index on more than one field, include all of the field n
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerName  
     ON tblCustomers ([Last Name], [First Name]) 
     WITH PRIMARY 
@@ -256,7 +256,7 @@ The  **DISALLOW NULL** option prevents insertion of null data in the field. (Thi
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerEmail  
     ON tblCustomers (Email) 
     WITH DISALLOW NULL 
@@ -268,7 +268,7 @@ The  **IGNORE NULL** option causes null data in the table to be ignored for the 
 
 
 
-```sql
+```vbsql
 CREATE INDEX idxCustomerLastName  
     ON tblCustomers ([Last Name]) 
     WITH IGNORE NULL 
@@ -280,7 +280,7 @@ In addition to the  **PRIMARY**, **DISALLOW NULL**, and **IGNORE NULL** options,
 
 
 
-```sql
+```vbsql
 CREATE UNIQUE INDEX idxCustomerPhone  
     ON tblCustomers (Phone) 
 
@@ -291,7 +291,7 @@ To remove an index from a table, use the  **DROP INDEX** statement.
 
 
 
-```sql
+```vbsql
 DROP INDEX idxName 
     ON tblCustomers 
 

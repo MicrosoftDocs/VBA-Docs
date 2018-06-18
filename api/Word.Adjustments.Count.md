@@ -26,8 +26,5 @@ Returns the number of items in the  **Adjustments** collection. Read-only **Long
 ## See also
 
 
-#### Concepts
-
-
 [Adjustments Object](Word.Adjustments.md)
 

@@ -42,15 +42,12 @@ This example returns the status of the  **Allow A4/Letter paper resizing** optio
 
 
 
-```
+```vb
 temp = Options.MapPaperSize
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

@@ -26,8 +26,5 @@ Returns a constant from the  **[OlItemType](Outlook.OlItemType.md)** enumeration
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

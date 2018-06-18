@@ -26,9 +26,6 @@ Returns the calling object. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [IMsoContactCard Object](imsocontactcard-object-office.md)
 #### Other resources
 

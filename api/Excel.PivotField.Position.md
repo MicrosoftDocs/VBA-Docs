@@ -26,8 +26,5 @@ Returns or sets a Variant value that represents the position of the field (first
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

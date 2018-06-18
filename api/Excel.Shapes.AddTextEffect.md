@@ -66,8 +66,5 @@ Set newWordArt = myDocument.Shapes.AddTextEffect( _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

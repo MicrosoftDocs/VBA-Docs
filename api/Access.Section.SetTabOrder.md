@@ -26,8 +26,5 @@ Resets the tab order of the controls in the specified  **Section** to their defa
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

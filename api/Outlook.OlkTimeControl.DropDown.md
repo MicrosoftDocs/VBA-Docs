@@ -26,8 +26,5 @@ Expands the time drop-down list of the time control.
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

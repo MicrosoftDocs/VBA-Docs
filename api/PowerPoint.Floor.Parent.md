@@ -23,8 +23,5 @@ Returns the parent for the specified object. Read-only  **Object**.
 ## See also
 
 
-#### Concepts
-
-
 [Floor Object](PowerPoint.Floor.md)
 

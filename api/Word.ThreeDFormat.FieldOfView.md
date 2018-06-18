@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the amount of perspective for a sh
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

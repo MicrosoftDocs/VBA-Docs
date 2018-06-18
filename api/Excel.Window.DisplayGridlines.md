@@ -45,8 +45,5 @@ ActiveWindow.DisplayGridlines = Not(ActiveWindow.DisplayGridlines)
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

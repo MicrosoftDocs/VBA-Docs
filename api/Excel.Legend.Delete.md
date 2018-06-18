@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [Legend Object](Excel.Legend(objec).md)
 

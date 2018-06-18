@@ -34,9 +34,6 @@ Boolean
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFiles Object](sharedworkspacefiles-object-office.md)
 #### Other resources
 

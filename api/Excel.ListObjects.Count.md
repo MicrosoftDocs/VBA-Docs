@@ -26,8 +26,5 @@ Returns an  **Integer** value that represents the number of objects in the colle
 ## See also
 
 
-#### Concepts
-
-
 [ListObjects Object](Excel.ListObjects.md)
 

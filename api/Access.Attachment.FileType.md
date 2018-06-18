@@ -34,8 +34,5 @@ Returns the file extension of the specifed attachment. Read-only  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

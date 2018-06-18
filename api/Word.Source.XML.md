@@ -31,8 +31,5 @@ The Data parameter of the  **[Add](Word.Sources.Add.md)** method for the **[Sour
 ## See also
 
 
-#### Concepts
-
-
 [Source Object](Word.Source.md)
 

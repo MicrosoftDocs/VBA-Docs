@@ -26,8 +26,5 @@ Returns or sets a  **Long** that represents the horizontal position of the activ
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -25,15 +25,12 @@ Retrieves or sets the Smart Art layout associated with the Smart Art graphic. Re
 The following code sets the Smart Art layout.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArt.Layout = Application.SmartArtLayouts(1)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArt Object](smartart-object-office.md)

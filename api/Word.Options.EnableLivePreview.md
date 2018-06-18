@@ -31,8 +31,5 @@ This property corresponds to the  **Enable Live Preview** check box in the **Wor
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

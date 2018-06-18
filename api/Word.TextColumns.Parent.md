@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Text
 ## See also
 
 
-#### Concepts
-
-
 [TextColumns Collection Object](Word(textcolumns).md)
 

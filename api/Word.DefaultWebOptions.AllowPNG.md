@@ -52,8 +52,5 @@ Application.DefaultWebOptions.AllowPNG = True
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 

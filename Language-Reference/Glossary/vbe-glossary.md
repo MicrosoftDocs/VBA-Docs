@@ -502,7 +502,7 @@ By assigning values to named arguments, you can use the following statement:
 
 
 
-```
+```vb
 DoSomeThing namedarg3 := 4, namedarg2 := 5, namedarg1 := 20 
 
 ```

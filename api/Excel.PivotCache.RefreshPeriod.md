@@ -44,8 +44,5 @@ objPC.RefreshPeriod = 15
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

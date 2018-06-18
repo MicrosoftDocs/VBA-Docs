@@ -48,7 +48,4 @@ Adds a  **GroupCriterion** object to a **GroupCriteria** collection.
 ## See also
 
 
-#### Concepts
-
-
 [GroupCriteria Collection Object](Project.groupcriteria.md)

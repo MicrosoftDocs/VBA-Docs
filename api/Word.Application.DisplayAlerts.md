@@ -47,8 +47,5 @@ lngTemp = Application.DisplayAlerts
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

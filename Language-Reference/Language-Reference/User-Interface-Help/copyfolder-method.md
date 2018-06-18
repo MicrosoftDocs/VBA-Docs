@@ -34,7 +34,7 @@ Wildcard characters can only be used in the last path component of the  _source_
 
 
 
-```
+```vb
 FileSystemObject.CopyFolder "c:\mydocuments\letters\*", "c:\tempfolder\"
 
 ```
@@ -43,7 +43,7 @@ But you can't use:
 
 
 
-```
+```vb
 FileSystemObject.CopyFolder "c:\mydocuments\*\*", "c:\tempfolder\"
 
 

@@ -24,8 +24,5 @@ Returns an  **Object** that represents the parent object of the specified **Vari
 ## See also
 
 
-#### Concepts
-
-
 [Variables Collection Object](Word.variables.md)
 

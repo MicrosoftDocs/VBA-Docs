@@ -39,7 +39,4 @@ Debug.Print "Open in Backstage: " &; Application.FileOpenUsingBackstage()
 ## See also
 
 
-#### Concepts
-
-
 [FileOpenEx Method](Project.Application.FileOpenEx.md)

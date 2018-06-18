@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).Range.Style = wdStyleHeading1
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

@@ -23,9 +23,6 @@ Returns the calling object. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtQuickStyle Object](smartartquickstyle-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns or sets the default start-up mode for the Japanese Input Method Editor (
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

@@ -28,15 +28,12 @@ Returns the application-specific DDE return code that was contained in the last 
 This example sets the variable  `appErrorCode` to the DDE return code.
 
 
-```
+```vb
 appErrorCode = Application.DDEAppReturnCode
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Excel.Application(objec).md)

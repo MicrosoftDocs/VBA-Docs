@@ -56,8 +56,5 @@ DoCmd.GoToRecord acDataForm, "Employees", acGoTo, 7
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -24,8 +24,5 @@ Specifies whether a bin for values above the [BinsOverflowValue](http://msdn.mic
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Word.ChartGroup.md)
 

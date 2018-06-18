@@ -30,7 +30,7 @@ Returns or sets what the bubble size represents on a bubble chart. Read/write Xl
 This example sets what the bubble size represents for the chart. (The example assumes that the chart is a bubble chart.)
 
 
-```
+```vb
 myChart.ChartGroups(1).SizeRepresents = xlSizeIsWidth
 ```
 

@@ -34,8 +34,5 @@ Selects the specified range of shapes.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

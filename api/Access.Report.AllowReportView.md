@@ -26,8 +26,5 @@ Gets or sets whether the user is allowed to enter Report view while using the sp
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

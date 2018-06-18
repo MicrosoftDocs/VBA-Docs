@@ -31,8 +31,5 @@ Do not confuse this property with the  **ToX** or **ToY** properties of the **[S
 ## See also
 
 
-#### Concepts
-
-
 [SetEffect Object](PowerPoint.SetEffect.md)
 

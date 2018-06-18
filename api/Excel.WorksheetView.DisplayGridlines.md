@@ -33,8 +33,5 @@ This property affects only displayed gridlines. Use the  **[PrintGridlines](Exce
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetView Object](Excel.WorksheetView.md)
 

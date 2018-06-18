@@ -26,8 +26,5 @@ Returns the number of levels of category tick labels. Read-only  **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](Word.TickLabels.md)
 

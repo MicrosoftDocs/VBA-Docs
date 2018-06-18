@@ -26,8 +26,5 @@ Returns an  **[XmlNamespaces](Excel.XmlNamespaces.md)** collection that represen
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

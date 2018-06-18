@@ -57,8 +57,5 @@ Next aKey
 ## See also
 
 
-#### Concepts
-
-
 [KeyBinding Object](Word.KeyBinding.md)
 

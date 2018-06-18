@@ -34,8 +34,5 @@ The property returns  **True** , if the style is shown in the gallery for PivotT
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Excel.TableStyle.md)
 

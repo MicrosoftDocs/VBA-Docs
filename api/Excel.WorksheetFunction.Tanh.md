@@ -49,8 +49,5 @@ The formula for the hyperbolic tangent is:
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

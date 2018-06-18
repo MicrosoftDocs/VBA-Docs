@@ -31,8 +31,5 @@ Returns or sets a  **Boolean** that specifies if a tab is inserted automatically
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

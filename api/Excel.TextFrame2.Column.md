@@ -23,8 +23,5 @@ Returns the  **TextColumn2** object that represents the columns within the text 
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

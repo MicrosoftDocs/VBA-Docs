@@ -105,7 +105,7 @@ When you run the  **GetTableText** macro, the Immediate window in the VBE shows 
 
 
 
-```
+```vb
 TextBox 1; ID = 2
 Table 2; ID = 3
 Table 3; ID = 4

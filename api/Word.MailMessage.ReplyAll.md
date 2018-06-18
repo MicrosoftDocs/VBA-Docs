@@ -36,8 +36,5 @@ Application.MailMessage.ReplyAll
 ## See also
 
 
-#### Concepts
-
-
 [MailMessage Object](Word.MailMessage.md)
 

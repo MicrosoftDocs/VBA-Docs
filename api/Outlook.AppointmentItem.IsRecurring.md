@@ -31,8 +31,5 @@ When the  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

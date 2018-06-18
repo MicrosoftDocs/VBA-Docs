@@ -28,9 +28,6 @@ The ID associated with this property is case sensitive.
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtLayout Object](smartartlayout-object-office.md)
 #### Other resources
 

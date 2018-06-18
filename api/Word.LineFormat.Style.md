@@ -26,8 +26,5 @@ Returns or sets the line format style. Read/write  **MsoLineStyle** .
 ## See also
 
 
-#### Concepts
-
-
 [LineFormat Object](Word.LineFormat.md)
 

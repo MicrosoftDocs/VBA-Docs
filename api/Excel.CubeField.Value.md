@@ -26,8 +26,5 @@ Returns a  **String** value that represents the name of the specified field.
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

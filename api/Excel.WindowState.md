@@ -31,7 +31,7 @@ Returns or sets the state of the window. Read/write XlWindowState .
 This example maximizes the Microsoft Graph application window.
 
 
-```
+```vb
 myChart.Application.WindowState = xlMaximized
 ```
 

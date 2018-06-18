@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of list templates in the collecti
 ## See also
 
 
-#### Concepts
-
-
 [ListTemplates Collection Object](Word.listtemplates.md)
 

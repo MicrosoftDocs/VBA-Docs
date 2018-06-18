@@ -39,8 +39,5 @@ An  **OutlookBarShortcut** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 

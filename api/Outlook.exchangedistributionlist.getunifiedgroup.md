@@ -29,8 +29,5 @@ Returns the  **Outlook.Folder** object associated with the group using the **Get
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object (Outlook)](exchangedistributionlist-object-outlook.md)
 

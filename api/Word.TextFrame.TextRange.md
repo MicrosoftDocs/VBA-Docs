@@ -58,8 +58,5 @@ MsgBox ActiveDocument.Shapes("TextBox 1").TextFrame.TextRange.Text
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

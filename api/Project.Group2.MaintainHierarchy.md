@@ -43,8 +43,5 @@ Debug.Print ActiveProject.TaskGroups2(2).MaintainHierarchy
 ## See also
 
 
-#### Concepts
-
-
 [Group2 Object](Project.Group2.md)
 

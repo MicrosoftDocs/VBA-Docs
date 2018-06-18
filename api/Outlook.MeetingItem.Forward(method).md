@@ -31,8 +31,5 @@ A  **MeetingItem** object that represents the new meeting item.
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

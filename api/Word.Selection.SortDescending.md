@@ -31,8 +31,5 @@ This method offers a simplified form of sorting intended for mail-merge data sou
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

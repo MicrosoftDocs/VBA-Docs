@@ -26,8 +26,5 @@ Returns  **True** if the CubeField is a date. Read-only **Boolean** .
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

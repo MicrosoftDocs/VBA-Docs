@@ -71,8 +71,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

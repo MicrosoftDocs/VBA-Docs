@@ -31,8 +31,5 @@ Setting this property to  **True** will result in a run-time error if the active
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -40,8 +40,5 @@ A  **View** object that represents the new view.
 ## See also
 
 
-#### Concepts
-
-
 [TimelineView Object](Outlook.TimelineView.md)
 

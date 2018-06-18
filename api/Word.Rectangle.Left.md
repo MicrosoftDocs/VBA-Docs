@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of pixels from the left edge of t
 ## See also
 
 
-#### Concepts
-
-
 [Rectangle Object](Word.Rectangle.md)
 

@@ -48,8 +48,5 @@ mySmartArt.Color = Application.SmartArtColors(2)
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

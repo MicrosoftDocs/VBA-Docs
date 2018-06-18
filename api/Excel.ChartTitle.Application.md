@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ChartTitle Object](Excel.ChartTitle(objec).md)
 

@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyPress
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Access.CheckBox.md)
 

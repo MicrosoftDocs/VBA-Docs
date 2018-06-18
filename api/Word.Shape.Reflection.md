@@ -26,8 +26,5 @@ Returns a  **[ReflectionFormat](Word.ReflectionFormat.md)** object that represen
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

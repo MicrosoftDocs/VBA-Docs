@@ -16,7 +16,7 @@ A collection of  **[MailMergeField](Word.MailMergeField.md)** objects that repre
 Use the  **Fields** property to return the **MailMergeFields** collection. The following example adds an ASK field after the last mail merge field in the active document.
 
 
-```
+```vb
 Set myMMFields = ActiveDocument.MailMerge.Fields 
 myMMFields(myMMFields.Count).Select 
 Selection.MoveRight Unit:=wdWord, Count:=1, Extend:=wdMove 
@@ -29,7 +29,7 @@ Use the  **Add** method to add a merge field to the **MailMergeFields** collecti
 
 
 
-```
+```vb
 ActiveDocument.MailMerge.Fields.Add Range:=Selection.Range, _ 
  Name:="MiddleInitial"
 ```
@@ -39,7 +39,7 @@ Use  **Fields** (Index), where Index is the index number, to return a single **M
 
 
 
-```
+```vb
 MsgBox ActiveDocument.MailMerge.Fields(1).Code
 ```
 

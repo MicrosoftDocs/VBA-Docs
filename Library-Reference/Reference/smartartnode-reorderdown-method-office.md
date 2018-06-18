@@ -35,15 +35,12 @@ This method simulates clicking the Reorder Down buttons on the Microsoft Office 
 The following code swaps the first node with the next node and reorders all of its descendants. 
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes(1).ReorderDown
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArtNode Object](smartartnode-object-office.md)

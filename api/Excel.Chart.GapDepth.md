@@ -36,8 +36,5 @@ Charts("Chart1").GapDepth = 200
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

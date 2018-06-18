@@ -91,8 +91,5 @@ ActiveChart.PivotLayout.PivotTable.DrillUp ActiveChart.PivotLayout.PivotTable. _
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

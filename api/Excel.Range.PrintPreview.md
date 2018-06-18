@@ -49,8 +49,5 @@ Worksheets("Sheet1").PrintPreview
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

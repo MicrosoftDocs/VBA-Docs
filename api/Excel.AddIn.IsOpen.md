@@ -26,8 +26,5 @@ Returns  **True** if the add-in is currently open. **Boolean** Read-only
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](Excel.AddIn.md)
 

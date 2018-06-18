@@ -44,8 +44,5 @@ ActiveSheet.Protect contents:=True, userInterfaceOnly:=True
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

@@ -44,8 +44,5 @@ The value of the BeforeColumn parameter must be between 1 and the number of colu
 ## See also
 
 
-#### Concepts
-
-
 [Columns Object](PowerPoint.Columns.md)
 

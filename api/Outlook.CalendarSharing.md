@@ -31,7 +31,7 @@ You can use the  **[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)** method 
 The following Visual Basic for Applications (VBA) example creates a  **CalendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
 
 
-```
+```vb
 Public Sub ExportEntireCalendar() 
  
  

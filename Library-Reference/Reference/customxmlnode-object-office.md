@@ -26,7 +26,7 @@ The  **CustomXMLNode** object is designed to have functional parity with the **I
 The following example selects a single node from a  **CustomXMLPart** object by using an XPath expression and assigns it to a **CustomXMLNode** object.
 
 
-```
+```vb
 Sub CustomXmlNodes()  
     Dim cxp1 As CustomXMLPart 
     Dim cxn As CustomXMLNode 
@@ -46,9 +46,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

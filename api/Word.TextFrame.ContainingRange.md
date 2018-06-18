@@ -41,8 +41,5 @@ rngStory.CheckSpelling
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame Object](Word.TextFrame.md)
 

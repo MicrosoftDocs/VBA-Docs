@@ -26,7 +26,7 @@ Represents an ActiveX control or a linked or embedded OLE object on a worksheet.
 Use  **[OLEObjects](Excel.Worksheet.OLEObjects.md)** ( _index_ ), where _index_ is the name or number of the object, to return an **OLEObject** object. The following example deletes OLE object one on Sheet1.
 
 
-```
+```vb
 Worksheets("sheet1").OLEObjects(1).Delete
 ```
 
@@ -35,7 +35,7 @@ The following example deletes the OLE object named "ListBox1."
 
 
 
-```
+```vb
 Worksheets("sheet1").OLEObjects("ListBox1").Delete
 ```
 
@@ -44,7 +44,7 @@ The properties and methods of the  **OLEObject** object are duplicated on each A
 
 
 
-```
+```vb
 With MyCheckBox 
  .Value = True 
  .Top = ActiveCell.Top 

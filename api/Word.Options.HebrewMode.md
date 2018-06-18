@@ -28,15 +28,12 @@ Returns or sets the mode for the Hebrew spelling checker. Read/write  **WdHebSpe
 This example sets the spelling checker to check spelling based on the conventional script required by the Hebrew Language Academy for writing text with diacritics.
 
 
-```
+```vb
 Options.HebrewMode = wdFullScript
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

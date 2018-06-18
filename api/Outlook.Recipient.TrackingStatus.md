@@ -26,8 +26,5 @@ Returns or sets an  **[OlTrackingStatus](Outlook.OlTrackingStatus.md)** constant
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

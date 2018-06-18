@@ -60,8 +60,5 @@ Debug.Print References.Item(1).Name
 ## See also
 
 
-#### Concepts
-
-
 [References Collection](Access.References.md)
 

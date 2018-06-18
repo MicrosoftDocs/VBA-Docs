@@ -45,8 +45,5 @@ Windows(1).View.ShowAll = Not Windows(1).View.ShowAll
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

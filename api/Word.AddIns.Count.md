@@ -26,8 +26,5 @@ Returns the number of  **[AddIn](Word.AddIn.md)** objects in the **AddIns** coll
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Collection Object](Word.addins.md)
 

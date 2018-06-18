@@ -45,8 +45,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [UserAccessList Object](Excel.UserAccessList.md)
 

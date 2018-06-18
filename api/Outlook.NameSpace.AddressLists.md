@@ -31,8 +31,5 @@ The  **AddressLists** collection represents the root of the address book hierarc
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

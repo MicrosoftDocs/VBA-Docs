@@ -31,8 +31,5 @@ For the check box control, this property is  **True** or **False** , or if the *
 ## See also
 
 
-#### Concepts
-
-
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

@@ -70,7 +70,7 @@ Once you have either of these objects, you can use the  **Application** property
 
 
 
-```
+```vb
 vsoWindow.Application
 vsoDocument.Application
 ```

@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the car telephone number for the cont
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

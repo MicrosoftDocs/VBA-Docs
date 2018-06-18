@@ -43,8 +43,5 @@ Range("B2").Activate
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

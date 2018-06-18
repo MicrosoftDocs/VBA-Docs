@@ -37,8 +37,5 @@ AutoCorrect.CorrectSentenceCaps = Not _
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Word.AutoCorrect.md)
 

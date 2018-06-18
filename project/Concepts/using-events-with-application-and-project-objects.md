@@ -17,7 +17,7 @@ Event procedures in the [Project](project-object-project.md) object are availabl
     
 2. Paste the following code in the  **TestClass** module.
     
-  ```
+  ```vb
   Option Explicit 
 Public WithEvents oApp As Application 
  
@@ -32,7 +32,7 @@ End Sub
 
 3. Open the  **ThisProject** module and paste in the following code.
     
-  ```
+  ```vb
   Option Explicit 
 Private tClass As New TestClass 
  

@@ -49,8 +49,5 @@ DoCmd.OpenDiagram " Data Model"
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

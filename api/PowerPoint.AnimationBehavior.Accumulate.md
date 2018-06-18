@@ -63,8 +63,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 

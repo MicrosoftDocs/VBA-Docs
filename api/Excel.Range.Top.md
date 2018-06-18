@@ -31,8 +31,5 @@ If the range is discontinuous, the first area is used. If the range is more than
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

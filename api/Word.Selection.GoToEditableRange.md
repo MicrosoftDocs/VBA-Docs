@@ -46,15 +46,12 @@ You can also use the  **[NextRange](Word.Editor.NextRange.md)** property of the 
 The following example goes to the next range for which the current user has permission to modify.
 
 
-```
+```vb
 Selection.GoToEditableRange wdEditorCurrent
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

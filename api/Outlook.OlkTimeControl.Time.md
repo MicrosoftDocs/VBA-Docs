@@ -33,8 +33,5 @@ When using the time control to indicate a duration (that is, the  **[Style](Outl
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 

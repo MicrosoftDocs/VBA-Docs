@@ -41,9 +41,6 @@ The value of the PathFormat property can be one of these MsoPathType constants. 
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](textframe2-object-office.md)
 #### Other resources
 

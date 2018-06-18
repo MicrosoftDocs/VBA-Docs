@@ -33,8 +33,5 @@ A  **ShapeRange** object is anchored to a range of text, but you can position it
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

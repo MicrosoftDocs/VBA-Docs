@@ -103,8 +103,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

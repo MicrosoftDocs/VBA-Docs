@@ -41,8 +41,5 @@ Application.MailMessage.CheckName
 ## See also
 
 
-#### Concepts
-
-
 [MailMessage Object](Word.MailMessage.md)
 

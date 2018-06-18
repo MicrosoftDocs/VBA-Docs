@@ -37,8 +37,5 @@ Occurs when the user presses a mouse button on the control.
 ## See also
 
 
-#### Concepts
-
-
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 

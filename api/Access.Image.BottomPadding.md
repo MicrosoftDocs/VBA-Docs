@@ -26,8 +26,5 @@ Gets or sets the amount of space (in inches) between the image control and its b
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

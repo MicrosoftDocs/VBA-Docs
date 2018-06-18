@@ -26,8 +26,5 @@ Sets or returns a  **Boolean** that represents whether to prompt a warning dialo
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

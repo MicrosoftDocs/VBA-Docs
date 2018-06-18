@@ -35,7 +35,7 @@ Set this property to  **xlColorIndexAutomatic** to specify the automatic pattern
 This example sets the color of the interior pattern for the chart area.
 
 
-```
+```vb
 myChart.ChartArea.Interior.PatternColorIndex = 5
 ```
 

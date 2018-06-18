@@ -26,8 +26,5 @@ Set to  **True** to perform a case-sensitive sort or set to **False** to perform
 ## See also
 
 
-#### Concepts
-
-
 [Sort Object](Excel.Sort.md)
 

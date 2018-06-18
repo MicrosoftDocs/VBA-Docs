@@ -29,8 +29,5 @@ Returns and sets the page color in Reading mode. Read-write [WdPageColor](Word.w
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

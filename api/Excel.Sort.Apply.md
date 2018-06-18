@@ -26,8 +26,5 @@ Sorts the range based on the currently applied sort states.
 ## See also
 
 
-#### Concepts
-
-
 [Sort Object](Excel.Sort.md)
 

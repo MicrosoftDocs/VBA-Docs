@@ -31,8 +31,5 @@ Corresponds to the MAPI property  **PidTagConversationTopic** .
 ## See also
 
 
-#### Concepts
-
-
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 

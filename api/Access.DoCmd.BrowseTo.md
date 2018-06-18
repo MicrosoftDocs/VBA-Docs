@@ -65,8 +65,5 @@ DataMode:=acFormEdit
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

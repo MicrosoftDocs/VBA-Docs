@@ -38,7 +38,7 @@ PickerResults
 The following code sets various properties of the Picker Dialog and adds the already existing PickerResults to the results.
 
 
-```
+```vb
 Dim objPickerDialog As PickerDialog 
 Dim objPickerExistingResults As PickerResults 
  
@@ -54,9 +54,6 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PickerDialog Object](pickerdialog-object-office.md)

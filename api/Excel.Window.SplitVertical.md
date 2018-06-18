@@ -37,8 +37,5 @@ ActiveWindow.SplitVertical = 216
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

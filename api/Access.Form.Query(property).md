@@ -44,8 +44,5 @@ Forms(0).Query = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

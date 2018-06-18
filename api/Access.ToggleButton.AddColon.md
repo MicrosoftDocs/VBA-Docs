@@ -26,8 +26,5 @@ Specifies whether a colon follows the text in labels for new controls. Read/writ
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

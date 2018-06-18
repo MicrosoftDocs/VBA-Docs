@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ObjectVerbs Object](PowerPoint.ObjectVerbs.md)
 

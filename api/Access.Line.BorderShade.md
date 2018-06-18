@@ -43,8 +43,5 @@ Me.ctl.BorderShade=25
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Access.Line.md)
 

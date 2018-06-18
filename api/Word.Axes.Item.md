@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Axes Object](Word.Axes.md)
 

@@ -19,7 +19,7 @@ ms.date: 06/08/2017
 The following example disables a replacement form region from being used to create a new item or from being modified in the Forms Designer:
 
 
-```
+```vb
 <hidden>false</hidden>
 ```
 

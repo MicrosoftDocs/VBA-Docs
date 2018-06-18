@@ -37,8 +37,5 @@ Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

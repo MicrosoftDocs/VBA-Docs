@@ -61,8 +61,5 @@ Me.ctl.BorderThemeColorIndex=2
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

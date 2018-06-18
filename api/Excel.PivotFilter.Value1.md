@@ -26,8 +26,5 @@ This property is a user-supplied parameter to define a filter for a PivotField. 
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

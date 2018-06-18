@@ -39,8 +39,5 @@ MsgBox ActiveCell.Phonetics(2).Start
 ## See also
 
 
-#### Concepts
-
-
 [Phonetics Object](Excel.Phonetics.md)
 

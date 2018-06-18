@@ -26,8 +26,5 @@ Returns an object that allows the user to individually format the back wall of a
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

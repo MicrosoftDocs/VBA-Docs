@@ -34,8 +34,5 @@ Specifies the effects camera type and rotation to use for the specified  **Three
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 

@@ -26,8 +26,5 @@ Retuns the ODBC Connection details for the specified  **WorkbookConnection** obj
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

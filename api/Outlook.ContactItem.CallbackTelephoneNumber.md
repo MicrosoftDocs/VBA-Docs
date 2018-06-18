@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the callback telephone number for the
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

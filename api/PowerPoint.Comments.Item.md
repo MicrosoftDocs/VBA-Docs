@@ -39,8 +39,5 @@ Comment
 ## See also
 
 
-#### Concepts
-
-
 [Comments Object](PowerPoint.Comments.md)
 

@@ -31,8 +31,5 @@ Boolean
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

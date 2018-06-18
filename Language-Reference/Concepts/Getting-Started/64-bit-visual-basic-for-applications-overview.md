@@ -83,7 +83,7 @@ To write code that can port between both 32-bit and 64-bit versions of Office yo
 To write code that can work in both new and older versions of Office you can use a combination of the new  **VBA7** and **Win64** conditional[Compiler Constants](compiler-constants.md). The  **Vba7** conditional compiler constant is used to determine if code is running in version 7 of the VB editor (the VBA version that ships in Office 2010). The **Win64** conditional compilation constant is used to determine which version (32-bit or 64-bit) of Office is running.
 
 
-```
+```vb
 #if Vba7 then 
 '  Code is running in the new VBA7 editor 
      #if Win64 then 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

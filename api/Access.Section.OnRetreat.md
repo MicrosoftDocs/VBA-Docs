@@ -54,8 +54,5 @@ Debug.Print Reports("Purchase Order").Section("GroupHeader0").OnRetreat
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

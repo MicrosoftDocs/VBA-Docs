@@ -31,8 +31,5 @@ For more information on smart documents, please see the Smart Document Software 
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

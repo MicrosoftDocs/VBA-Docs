@@ -38,8 +38,5 @@ myTable.Rows(1).SpaceBetweenColumns = InchesToPoints(0.5)
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

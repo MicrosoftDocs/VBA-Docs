@@ -21,7 +21,7 @@ Returns or sets the size of the font. Read/write  **Variant**.
 This example sets the font size for the chart title.
 
 
-```
+```vb
 myChart.ChartTitle.Font.Size = 12
 ```
 

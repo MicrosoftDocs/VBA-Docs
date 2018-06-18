@@ -44,8 +44,5 @@ Displays the engagement information dialog box user interface for the  **Resourc
 ## See also
 
 
-#### Concepts
-
-
 [Application Object (Project)](application-object-project.md)
 

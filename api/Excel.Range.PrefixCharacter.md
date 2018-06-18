@@ -42,8 +42,5 @@ MsgBox "The prefix character is " &; _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

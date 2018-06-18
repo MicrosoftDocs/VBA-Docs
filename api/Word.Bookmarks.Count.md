@@ -26,8 +26,5 @@ Returns the number of items in the  **Bookmarks** collection. Read-only **Long**
 ## See also
 
 
-#### Concepts
-
-
 [Bookmarks Collection Object](Word.bookmarks.md)
 

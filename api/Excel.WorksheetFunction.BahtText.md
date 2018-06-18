@@ -46,8 +46,5 @@ In Excel for the Macintosh, you can change the Baht number format to a different
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

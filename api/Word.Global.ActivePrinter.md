@@ -59,8 +59,5 @@ Application.ActivePrinter = "HP LaserJet 4 local on LPT1:"
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

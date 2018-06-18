@@ -38,8 +38,5 @@ The data source range for a single sparkline in the sparkline group must be cont
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroup Object](Excel.SparklineGroup.md)
 

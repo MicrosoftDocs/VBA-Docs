@@ -31,8 +31,5 @@ This property can return a  **Document** , **Template** , or **Application** obj
 ## See also
 
 
-#### Concepts
-
-
 [KeyBindings Collection Object](Word.keybindings.md)
 

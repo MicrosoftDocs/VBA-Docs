@@ -42,8 +42,5 @@ The XPath parameter is limited to 1024 characters.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

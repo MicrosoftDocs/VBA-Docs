@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](PowerPoint.TickLabels.md)
 

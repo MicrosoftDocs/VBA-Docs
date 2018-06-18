@@ -30,7 +30,7 @@ The  **Find** object includes properties that relate to the options in the **Fin
 
 
 
-```
+```vb
 Selection.Find.Execute FindText:="Hello", _ 
  Forward:=True, Wrap:=wdFindStop
 ```

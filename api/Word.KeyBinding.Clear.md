@@ -28,15 +28,12 @@ Removes the specified key binding from the  **KeyBindings** collection and reset
 This example removes the ALT+F1 key assignment from the Normal template.
 
 
-```
+```vb
 CustomizationContext = NormalTemplateFindKey(BuildKeyCode(Arg1:=wdKeyAlt, Arg2:=wdKeyF1)).Clear
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [KeyBinding Object](Word.KeyBinding.md)

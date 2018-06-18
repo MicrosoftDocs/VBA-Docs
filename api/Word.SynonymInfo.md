@@ -21,7 +21,7 @@ Represents the information about synonyms, antonyms, related words, or related e
 Use the  **SynonymInfo** property to return a **SynonymInfo** object. The **SynonymInfo** object can be returned either from a range or from Microsoft Office Word. If it is returned from Word, you specify the lookup word or phrase and a proofing language ID. If it is returned from a range, Word uses the specified range as the lookup word. The following example returns a **SynonymInfo** object from Word.
 
 
-```
+```vb
 temp = SynonymInfo(Word:="meant", LanguageID:=wdEnglishUS).Found
 ```
 
@@ -30,7 +30,7 @@ The following example returns a  **SynonymInfo** object from a range.
 
 
 
-```
+```vb
 temp = Selection.Range.SynonymInfo.Found
 ```
 

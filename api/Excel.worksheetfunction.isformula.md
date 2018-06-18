@@ -37,8 +37,5 @@ Checks whether a reference is to a cell containing a formula, and returns  **TRU
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

@@ -85,8 +85,5 @@ myDocument.Shapes.AddOLEObject Left:=100, Top:=100, _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

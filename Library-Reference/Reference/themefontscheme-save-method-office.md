@@ -33,15 +33,12 @@ Saves the font scheme of a Microsoft Office theme to a file.
 The following example saves the Office theme font scheme to a file. 
 
 
-```
+```vb
 ThemeFontScheme.Save("C:\myThemeFontScheme.xml")
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ThemeFontScheme Object](themefontscheme-object-office.md)

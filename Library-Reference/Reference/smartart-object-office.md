@@ -18,15 +18,12 @@ The top level class for interacting with a SmartArt graphic.
 The following code adds a top-level node to the bulleted text pane.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes.Add
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

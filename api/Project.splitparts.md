@@ -25,7 +25,7 @@ Use  **SplitParts** (*Index* ), where*Index* is the index number of the task ind
 
 
 
-```
+```vb
 Dim Part As Long, Portions As String 
 
  
@@ -60,7 +60,7 @@ Use the  **[SplitParts](Project.Task.SplitParts.md)** property to return a **Spl
 
 
 
-```
+```vb
 Dim T As Task 
 
  
@@ -85,7 +85,7 @@ Use the  **[Split](Project.Task.Split.md)** method ( **Task** object) to add a *
 
 
 
-```
+```vb
 ActiveCell.Task.Split "10/2/02", "10/7/02"
 ```
 

@@ -31,8 +31,5 @@ This method doesn't select  **InlineShape** objects.
 ## See also
 
 
-#### Concepts
-
-
 [Editor Object](Word.Editor.md)
 

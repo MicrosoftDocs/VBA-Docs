@@ -65,8 +65,5 @@ Forms("Employees").RecordLocks = 2
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

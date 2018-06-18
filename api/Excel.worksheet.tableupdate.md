@@ -32,8 +32,5 @@ Occurs after a Query table connected to the Data Model is updated on a worksheet
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

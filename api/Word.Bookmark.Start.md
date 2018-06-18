@@ -47,8 +47,5 @@ If Book2.End > Book1.Start Then Book1.Select
 ## See also
 
 
-#### Concepts
-
-
 [Bookmark Object](Word.Bookmark.md)
 

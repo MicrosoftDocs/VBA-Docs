@@ -42,15 +42,12 @@ Integer
 The following example moves the first row in the set of records to the third row.
 
 
-```
+```vb
 oOdso.Move(msoMoveRowFirst, 3)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [OfficeDataSourceObject Object](officedatasourceobject-object-office.md)

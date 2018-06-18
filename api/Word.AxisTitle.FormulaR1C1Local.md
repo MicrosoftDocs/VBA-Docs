@@ -26,8 +26,5 @@ Returns or sets the formula for the object, using R1C1-style notation in the lan
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](Word.AxisTitle.md)
 

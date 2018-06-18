@@ -43,8 +43,5 @@ If the  **PictureAlignment** property is set to Form Center and the **PictureTil
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

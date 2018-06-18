@@ -36,8 +36,5 @@ Files that do not pass validation will be opened in a [Protected View window](Wo
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

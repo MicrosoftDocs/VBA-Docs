@@ -55,8 +55,5 @@ When you close a form, the following events occur in this order:
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

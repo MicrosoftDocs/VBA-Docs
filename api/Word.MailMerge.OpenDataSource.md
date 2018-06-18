@@ -147,8 +147,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [MailMerge Object](Word.MailMerge.md)
 

@@ -26,8 +26,5 @@ Returns a  **[SoftEdgeFormat](Publisher.softedgeformat.md)** object that represe
 ## See also
 
 
-#### Concepts
-
-
  [ShapeRange Object](Publisher.ShapeRange.md)
 

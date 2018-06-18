@@ -38,7 +38,7 @@ This example displays the number of rows and columns in the print area on the ac
  **Note**  Ensure that you establish a print area on the active sheet of the current workbook.
 
 
-```
+```vb
 p = Sheets(ActiveSheet.Name).Names("Print_Area").RefersToRange.Value 
 MsgBox "Print_Area: " &; UBound(p, 1) &; " rows, " &; _ 
  UBound(p, 2) &; " columns"
@@ -46,9 +46,6 @@ MsgBox "Print_Area: " &; UBound(p, 1) &; " rows, " &; _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Name Object](Excel.Name.md)

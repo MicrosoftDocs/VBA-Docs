@@ -37,8 +37,5 @@ If ActiveDocument.Tables.Count >= 1 Then _
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

@@ -45,8 +45,5 @@ ActiveSheet.PivotTables("PivotTable2") _
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

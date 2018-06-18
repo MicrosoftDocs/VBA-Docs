@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Endnote Object](Word.Endnote.md)
 

@@ -31,8 +31,5 @@ If the  **TableDirection** property is set to **wdTableDirectionLtr** , the sele
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](Word.TableStyle.md)
 

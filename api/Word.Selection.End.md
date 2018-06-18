@@ -45,8 +45,5 @@ ActiveDocument.Fields.Add Range:=myRange, Type:=wdFieldAuthor
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

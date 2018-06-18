@@ -34,7 +34,7 @@ Gets a  **CommandBars** collection. Read-only.
 The following example return the  **CommandBars** collection from the **MsoEnvelope** object in Microsoft Word.
 
 
-```
+```vb
 Dim cbars As CommandBars 
 Set cbars = Application.ActiveDocument.MailEnvelope.Commandbars 
 
@@ -42,9 +42,6 @@ Set cbars = Application.ActiveDocument.MailEnvelope.Commandbars
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MsoEnvelope Object](msoenvelope-object-office.md)

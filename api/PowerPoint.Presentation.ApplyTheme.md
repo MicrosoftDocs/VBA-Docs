@@ -53,8 +53,5 @@ ActivePresentation.ApplyTheme "C:\Program Files\Microsoft Office\Templates\MyThe
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

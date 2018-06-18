@@ -41,8 +41,5 @@ Set objSession = Application.Session
 ## See also
 
 
-#### Concepts
-
-
 [SenderInAddressListRuleCondition Object](Outlook.SenderInAddressListRuleCondition.md)
 

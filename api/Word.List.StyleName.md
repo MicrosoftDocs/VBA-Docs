@@ -38,8 +38,5 @@ MsgBox myentry.StyleName
 ## See also
 
 
-#### Concepts
-
-
 [List Object](Word.List.md)
 

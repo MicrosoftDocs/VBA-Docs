@@ -40,7 +40,7 @@ If the slide that's currently displayed in slide show window one is from an embe
 This example continues the slide numbering for the presentation in window one into the slide numbering for the presentation in window two.
 
 
-```
+```vb
 firstPresSlides = Windows(1).Presentation.Slides.Count
 Windows(2).Presentation.PageSetup _
     .FirstSlideNumber = firstPresSlides + 1
@@ -48,9 +48,6 @@ Windows(2).Presentation.PageSetup _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)

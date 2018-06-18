@@ -28,7 +28,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range t
 The following example stores in a variable the address for the AutoFilter applied to the Crew worksheet.
 
 
-```
+```vb
 rAddress = Worksheets("Crew").AutoFilter.Range.Address
 ```
 
@@ -46,9 +46,6 @@ ActiveWindow.ScrollColumn = hr.Column
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PivotCell Object](Excel.PivotCell.md)

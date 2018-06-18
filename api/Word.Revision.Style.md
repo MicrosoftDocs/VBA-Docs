@@ -26,8 +26,5 @@ Returns a  **Style** object that represents the style associated with a revision
 ## See also
 
 
-#### Concepts
-
-
 [Revision Object](Word.Revision.md)
 

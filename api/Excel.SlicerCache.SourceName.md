@@ -38,8 +38,5 @@ For OLAP slicers ( **SlicerCache** . **OLAP** = **True** ), returns the MDX uniq
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

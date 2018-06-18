@@ -50,8 +50,5 @@ MsgBox Options.AutoFormatAsYouTypeApplyBorders
 ## See also
 
 
-#### Concepts
-
-
 [EmailOptions Object](Word.EmailOptions.md)
 

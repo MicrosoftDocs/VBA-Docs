@@ -26,8 +26,5 @@ Returns the shape fill format type. Read-only  **MsoFillType** .
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Word.FillFormat.md)
 

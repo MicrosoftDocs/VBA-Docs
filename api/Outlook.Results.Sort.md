@@ -40,8 +40,5 @@ Sorts the collection of items by the specified property. The index for the colle
 ## See also
 
 
-#### Concepts
-
-
 [Results Object](Outlook.Results.md)
 

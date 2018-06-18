@@ -34,8 +34,5 @@ Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)** .
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

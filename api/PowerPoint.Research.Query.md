@@ -40,8 +40,5 @@ Specifies a research query.
 ## See also
 
 
-#### Concepts
-
-
 [Research Object](PowerPoint.Research.md)
 

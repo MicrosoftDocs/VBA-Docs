@@ -26,8 +26,5 @@ Returns a [FillFormat](Word.FillFormat.md) object that contains fill formatting 
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

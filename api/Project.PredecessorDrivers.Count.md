@@ -28,7 +28,4 @@ If  **TotalDetectedCount** is greater than 5 then count is 0.
 ## See also
 
 
-#### Concepts
-
-
 [PredecessorDrivers Collection Object](Project.predecessordrivers.md)

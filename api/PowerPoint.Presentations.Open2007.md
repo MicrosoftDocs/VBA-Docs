@@ -88,15 +88,12 @@ This example opens a presentation with read-only status and repairs it.
 
 
 
-```
+```vb
 Presentations.Open2007 FileName:="C:\My Documents\pres1.ppt", ReadOnly:=msoTrue, OpenAndRepair:=msoTrue
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Presentations Object](PowerPoint.Presentations.md)

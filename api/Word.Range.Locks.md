@@ -44,8 +44,5 @@ MsgBox ActiveDocument.Paragraphs(1).Range.Locks.Count
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

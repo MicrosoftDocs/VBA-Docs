@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **View
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

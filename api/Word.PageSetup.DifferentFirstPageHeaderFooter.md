@@ -44,8 +44,5 @@ Next secLoop
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

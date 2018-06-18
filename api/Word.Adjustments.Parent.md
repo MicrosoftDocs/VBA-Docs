@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified object
 ## See also
 
 
-#### Concepts
-
-
 [Adjustments Object](Word.Adjustments.md)
 

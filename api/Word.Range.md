@@ -25,7 +25,7 @@ Use the  **Range** method to return a **Range** object defined by the given star
 
 
 
-```
+```vb
 Set myRange = ActiveDocument.Range(Start:=0, End:=10)
 ```
 
@@ -34,7 +34,7 @@ Use the  **Range** property to return a **Range** object defined by the beginnin
 
 
 
-```
+```vb
 Set aRange = ActiveDocument.Paragraphs(1).Range
 ```
 
@@ -43,7 +43,7 @@ The following example returns a  **Range** object that refers to the second thro
 
 
 
-```
+```vb
 Set aRange = ActiveDocument.Range( _ 
  Start:=ActiveDocument.Paragraphs(2).Range.Start, _ 
  End:=ActiveDocument.Paragraphs(4).Range.End)

@@ -41,15 +41,12 @@ This method is useful in cases where there is no object model for a particular c
 The following sample executes the  **Copy** button.
 
 
-```
+```vb
 Application.CommandBars.ExecuteMso("Copy")
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

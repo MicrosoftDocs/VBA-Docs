@@ -38,8 +38,5 @@ The order of the fields in Datasheet view doesn't affect the order of the fields
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

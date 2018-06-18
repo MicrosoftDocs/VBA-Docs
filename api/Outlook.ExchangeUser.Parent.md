@@ -26,8 +26,5 @@ Returns the parent  **Object** of the **[ExchangeUser](Outlook.ExchangeUser.md)*
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [XmlNamespace Object](Excel.XmlNamespace.md)
 

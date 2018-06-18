@@ -26,8 +26,5 @@ Returns a  **[DocumentLibraryVersions](http://msdn.microsoft.com/library/075c031
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

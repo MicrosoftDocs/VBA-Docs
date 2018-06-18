@@ -35,8 +35,5 @@ The  **ListItemsEditForm** property is not available for combo boxes on a report
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

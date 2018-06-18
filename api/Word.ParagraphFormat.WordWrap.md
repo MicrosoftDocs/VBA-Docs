@@ -41,8 +41,5 @@ ActiveDocument.Paragraphs(1).WordWrap = True
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

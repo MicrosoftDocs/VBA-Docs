@@ -46,7 +46,7 @@ This method determines whether the range or selection returned by expression is 
 This example determines whether the selection is contained in the first paragraph in the active document.
 
 
-```
+```vb
 status = Selection.InRange(ActiveDocument.Paragraphs(1).Range)
 ```
 
@@ -64,9 +64,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

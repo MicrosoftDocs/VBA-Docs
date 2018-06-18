@@ -46,7 +46,7 @@ You can use the  **Column** property to assign the contents of a combo box or li
 
 
 
-```
+```vb
 =Forms!Customers!CompanyName.Column(1)
 ```
 
@@ -103,9 +103,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Control Object](Access.Control.md)

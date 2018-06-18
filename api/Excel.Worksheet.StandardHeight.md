@@ -37,8 +37,5 @@ Worksheets("Sheet1").Rows(1).RowHeight = _
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

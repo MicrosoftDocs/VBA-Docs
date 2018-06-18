@@ -33,8 +33,5 @@ If you use the  **[Close](Outlook.Explorer.Close(method).md)** method to fire th
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

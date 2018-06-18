@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Vers
 ## See also
 
 
-#### Concepts
-
-
 [Version Object](Word.Version.md)
 

@@ -37,8 +37,5 @@ MsgBox "There are " &; ProtectedViewWindows.Count &; _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

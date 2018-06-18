@@ -29,8 +29,5 @@ Returns a [ModelTables Object (Excel)](modeltables-object-excel.md) object assoc
 ## See also
 
 
-#### Concepts
-
-
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 

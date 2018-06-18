@@ -24,7 +24,7 @@ A collection of  **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-
 Use the  **[Shapes](http://msdn.microsoft.com/library/4e48d4cf-d7b6-9099-ddee-46a79e7eb7bf%28Office.15%29.aspx)** property to return the **Shapes** collection. The following example selects all the shapes on the first page of the active publication.
 
 
-```
+```vb
 Sub SelectAllShapes() 
     ActiveDocument.Pages(1).Shapes.SelectAll 
 End Sub
@@ -40,7 +40,7 @@ Use one of the following methods of the  **Shapes** collection: **[AddCallout](h
 
 
 
-```
+```vb
 Sub AddNewShape() 
     ActiveDocument.Pages(1).Shapes.AddShape Type:=msoShapeFoldedCorner, _ 
         Left:=50, Top:=50, Width:=100, Height:=200 
@@ -52,7 +52,7 @@ Use  **Shapes** (index), where index is the index number, to return a single **S
 
 
 
-```
+```vb
 Sub FlipShape() 
     ActiveDocument.Pages(1).Shapes(1).Flip FlipCmd:=msoFlipHorizontal 
 End Sub

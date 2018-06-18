@@ -36,8 +36,5 @@ ActiveCell.Phonetics(1).CharacterType = xlHiragana
 ## See also
 
 
-#### Concepts
-
-
 [Phonetic Object](Excel.Phonetic.md)
 

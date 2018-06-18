@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathHorizAlignType](Word.WdOMathHorizAlignType.md)** co
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatCol Object](Word.OMathMatCol.md)
 

@@ -37,8 +37,5 @@ ActiveSheet.ListObjects.Item(1).DataBodyRange.Select
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

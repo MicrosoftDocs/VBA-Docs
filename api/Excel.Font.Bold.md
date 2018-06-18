@@ -36,8 +36,5 @@ Worksheets("Sheet1").Range("A1:A5").Font.Bold = True
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Excel.Font(objec).md)
 

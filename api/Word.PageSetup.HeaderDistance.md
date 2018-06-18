@@ -39,8 +39,5 @@ Msgbox PointsToInches(sngDistance) &; " inches"
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Word.PageSetup.md)
 

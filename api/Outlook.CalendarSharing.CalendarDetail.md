@@ -43,8 +43,5 @@ The value of this property determines the allowable values for the following pro
 ## See also
 
 
-#### Concepts
-
-
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 

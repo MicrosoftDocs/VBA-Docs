@@ -38,15 +38,12 @@ This example returns the current status of the  **Print data only for forms** ch
 
 
 
-```
+```vb
 temp = ActiveDocument.PrintFormsData
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

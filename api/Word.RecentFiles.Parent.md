@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Rece
 ## See also
 
 
-#### Concepts
-
-
 [RecentFiles Collection Object](Word.recentfiles.md)
 

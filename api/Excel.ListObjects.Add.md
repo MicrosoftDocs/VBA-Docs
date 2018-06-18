@@ -71,8 +71,5 @@ TableStyleName:=xlGuess, Destination:=Range("A10"))
 ## See also
 
 
-#### Concepts
-
-
 [ListObjects Object](Excel.ListObjects.md)
 

@@ -31,8 +31,5 @@ The company name for the contact is included after the middle name. This propert
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

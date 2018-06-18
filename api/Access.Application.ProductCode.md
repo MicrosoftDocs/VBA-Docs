@@ -36,8 +36,5 @@ MsgBox "The GUID for Microsoft Access on this computer is " &; Application.Produ
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

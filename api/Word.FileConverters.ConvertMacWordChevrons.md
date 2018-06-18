@@ -35,16 +35,13 @@ Word for the Macintosh version 4.0 and 5.x documents use chevron characters to d
 This example sets the  **ConvertMacWordChevrons** property to convert the text enclosed in chevrons to mail merge fields, and then it opens the document named "Mac Word Document."
 
 
-```
+```vb
 FileConverters.ConvertMacWordChevrons = wdAlwaysConvert 
 Documents.Open FileName:="C:\Documents\Mac Word Document"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FileConverters Collection Object](Word.fileconverters.md)

@@ -26,8 +26,5 @@ Returns the height, in points, of the object. Read-only  **Double** .
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Word.LegendKey.md)
 

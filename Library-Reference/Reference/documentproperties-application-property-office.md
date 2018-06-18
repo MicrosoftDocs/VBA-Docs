@@ -39,9 +39,6 @@ Gets an  **Application** object that represents the container application for th
 ## See also
 
 
-#### Concepts
-
-
 [DocumentProperties Object](documentproperties-object-office.md)
 #### Other resources
 

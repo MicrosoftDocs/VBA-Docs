@@ -34,8 +34,5 @@ Removes an object from the collection.
 ## See also
 
 
-#### Concepts
-
-
 [Recipients Object](Outlook.Recipients.md)
 

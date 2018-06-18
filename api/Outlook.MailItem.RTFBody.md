@@ -54,7 +54,7 @@ End Sub
 ```
 
 
-```
+```vb
 private void GetRTFBodyForMail() 
  
 { 
@@ -84,9 +84,6 @@ private void GetRTFBodyForMail()
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MailItem Object](Outlook.MailItem.md)

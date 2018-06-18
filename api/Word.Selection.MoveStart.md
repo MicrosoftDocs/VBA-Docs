@@ -47,7 +47,7 @@ This method returns an integer that indicates the number of units by which the s
 This example moves the start position of the selection one character forward (the selection size is reduced by one character). Note that a space is considered a character.
 
 
-```
+```vb
 Selection.MoveStart Unit:=wdCharacter, Count:=1
 ```
 
@@ -56,15 +56,12 @@ This example moves the start position of the selection to the beginning of the l
 
 
 
-```
+```vb
 Selection.MoveStart Unit:=wdLine, Count:=-1
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

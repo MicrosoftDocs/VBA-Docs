@@ -31,8 +31,5 @@ The contents of the range are moved to the Clipboard but a collapsed range remai
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

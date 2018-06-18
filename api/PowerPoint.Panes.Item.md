@@ -39,8 +39,5 @@ Pane
 ## See also
 
 
-#### Concepts
-
-
 [Panes Object](PowerPoint.Panes.md)
 

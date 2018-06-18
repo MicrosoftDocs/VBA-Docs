@@ -26,8 +26,5 @@ Returns a  **[ListObject](Excel.ListObject.md)** object for the **[Range](Excel.
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

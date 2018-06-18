@@ -35,8 +35,5 @@ You can assign an array with one string or an array of multiple strings to the  
 ## See also
 
 
-#### Concepts
-
-
 [FormNameRuleCondition Object](Outlook.FormNameRuleCondition.md)
 

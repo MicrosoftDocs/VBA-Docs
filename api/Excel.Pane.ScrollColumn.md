@@ -31,8 +31,5 @@ If the window is split, the  **ScrollColumn** property of the **[Window](Excel.W
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Excel.Pane.md)
 

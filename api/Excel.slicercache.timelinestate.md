@@ -34,8 +34,5 @@ The timeline-specific state of the  **SlicerCache** object. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

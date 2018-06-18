@@ -55,8 +55,5 @@ Debug.Print Modules.Item(0)
 ## See also
 
 
-#### Concepts
-
-
 [AllMacros Collection](Access.allmacros.md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [DropLines Object](Word.DropLines.md)
 

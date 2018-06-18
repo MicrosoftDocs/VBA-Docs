@@ -26,8 +26,5 @@ Returns a  **[FillFormat](Word.FillFormat.md)** object for the parent chart elem
 ## See also
 
 
-#### Concepts
-
-
 [UpBars Object](Word.UpBars.md)
 

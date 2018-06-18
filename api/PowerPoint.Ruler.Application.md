@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [Ruler Object](PowerPoint.Ruler.md)
 

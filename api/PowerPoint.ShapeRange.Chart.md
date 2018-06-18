@@ -31,8 +31,5 @@ Returns the  **Chart** object of the current **ShapeRange** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

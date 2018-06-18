@@ -33,16 +33,13 @@ If the  **TableDirection** property is set to **wdTableDirectionLtr** , the sele
 This example sets Microsoft Word to order cells in the selected row from right to left.
 
 
-```
+```vb
 Selection.Rows.TableDirection = _ 
  wdTableDirectionRtl
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Rows Collection Object](Word.rows.md)

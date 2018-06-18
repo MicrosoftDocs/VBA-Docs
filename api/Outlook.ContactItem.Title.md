@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the title for the contact. Read/write.
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

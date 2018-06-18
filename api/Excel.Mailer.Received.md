@@ -31,8 +31,5 @@ Boolean
 ## See also
 
 
-#### Concepts
-
-
 [Mailer Object](Excel.Mailer.md)
 

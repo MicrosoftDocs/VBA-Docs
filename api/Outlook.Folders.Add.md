@@ -84,8 +84,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Folders Object](Outlook.Folders.md)
 

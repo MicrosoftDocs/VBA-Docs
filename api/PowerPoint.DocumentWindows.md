@@ -29,7 +29,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
 Use the [Windows](PowerPoint.Application.Windows.md) property to return the **DocumentWindows** collection. The following example tiles the open document windows.
 
 
-```
+```vb
 Windows.Arrange ppArrangeTiled
 ```
 
@@ -47,15 +47,12 @@ Use  **Windows** (index), where index is the window index number, to return a si
 
 
 
-```
+```vb
 Windows(2).Close
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)

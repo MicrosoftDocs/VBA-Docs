@@ -39,7 +39,7 @@ Returns a unique number for the specified key combination.
 This example assigns the ALT + F1 key combination to the Organizer command.
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 KeyBindings.Add KeyCode:=BuildKeyCode(Arg1:=wdKeyAlt, _ 
  Arg2:=wdKeyF1), KeyCategory:=wdKeyCategoryCommand, _ 
@@ -51,7 +51,7 @@ This example removes the ALT+F1 key assignment from the Normal template.
 
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 FindKey(BuildKeyCode(Arg1:=wdKeyAlt, Arg2:=wdKeyF1)).Clear
 ```
@@ -61,16 +61,13 @@ This example displays the command assigned to the F1 key.
 
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 MsgBox FindKey(BuildKeyCode(Arg1:=wdKeyF1)).Command
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

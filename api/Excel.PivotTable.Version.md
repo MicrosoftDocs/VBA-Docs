@@ -26,8 +26,5 @@ Returns a  **[XlPivotTableVersionList](Excel.XlPivotTableVersionList.md)** value
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

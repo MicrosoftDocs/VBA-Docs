@@ -46,8 +46,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](PowerPoint.DataLabels.md)
 

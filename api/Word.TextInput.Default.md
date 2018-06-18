@@ -26,8 +26,5 @@ Returns or sets the text that represents the default text box contents. Read/wri
 ## See also
 
 
-#### Concepts
-
-
 [TextInput Object](Word.TextInput.md)
 

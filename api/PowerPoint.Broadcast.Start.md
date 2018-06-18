@@ -34,8 +34,5 @@ Returns a list of supported functionality and the maximum allowed file size.
 ## See also
 
 
-#### Concepts
-
-
 [Broadcast Object](PowerPoint.Broadcast.md)
 

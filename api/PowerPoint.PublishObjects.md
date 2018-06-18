@@ -59,8 +59,5 @@ ActivePresentation.PublishObjects.Item(1).SourceType = ppPublishAll
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

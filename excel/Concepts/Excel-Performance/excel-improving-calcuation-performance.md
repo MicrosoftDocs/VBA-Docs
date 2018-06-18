@@ -240,7 +240,7 @@ To make workbooks calculate faster, you must be able to accurately measure calcu
 
 For more information about how the Visual Basic Editor can significantly affect VBA user-defined function performance, see the "Faster VBA user-defined functions" section in [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md).
 
-```
+```vb
 #If VBA7 Then
     Private Declare PtrSafe Function getFrequency Lib "kernel32" Alias _
         "QueryPerformanceFrequency" (cyFrequency As Currency) As Long
@@ -276,7 +276,7 @@ To measure calculation time, you must call the appropriate calculation method. T
 Copy all these subroutines and functions into a standard VBA module. To open the VBA editor, press Alt+F11. On the **Insert** menu, select **Module**, and then copy the code into the module.
 
 
-```
+```vb
 Sub RangeTimer()
     DoCalcTimer 1
 End Sub
@@ -536,7 +536,7 @@ For example, you need to calculate the period-to-date sums of a column that cont
 
 You could write the formula using **SUM**, which is an efficient function.
 
-```
+```vb
   B1=SUM($A$1:$A1)
   B2=SUM($A$1:$A2)
 ```
@@ -551,7 +551,7 @@ How many cell references are added up by **SUM** in total? B1 refers to one cell
 
 You can eliminate this duplication if you write the formulas as follows.
 
-```
+```vb
   C1=A1
   C2=C1+A1
 ```
@@ -592,19 +592,19 @@ If you have a list of 11,000 rows of data in column A, which frequently changes,
 
 - **Array formulas** (use Ctrl+Shift+Enter); **RangeTimer** indicates that this takes 13.8 seconds.
 
-    ```
+    ```vb
     {=SUM(IF(LEN(A2:A11000)>0,1/COUNTIF(A2:A11000,A2:A11000)))}
     ```
   
 - **SUMPRODUCT** usually calculates faster than an equivalent array formula. This formula takes 10.0 seconds, and gives an improvement factor of 13.8/10.0=1.38, which is better, but not good enough.
 
-    ```
+    ```vb
     =SUMPRODUCT((A2:A11000<>"")/COUNTIF(A2:A11000,A2:A11000&amp;""))
     ```
 
 - **User-defined functions**. The following code example shows a VBA user-defined function that uses the fact that the index to a collection must be unique. For an explanation of some techniques that are used, see the section about user-defined functions in the "Using functions efficiently" section in [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md). This formula, `=COUNTU(A2:A11000)`, takes only 0.061 seconds. This gives an improvement factor of 13.8/0.061=226.
 
-    ```
+    ```vb
     Public Function COUNTU(theRange As Range) As Variant
         Dim colUniques As New Collection
         Dim vArr As Variant
@@ -632,13 +632,13 @@ If you have a list of 11,000 rows of data in column A, which frequently changes,
 
     Add this formula to cell B2.
 
-    ```
+    ```vb
       =IF(AND(A2<>"",A2<>A1),1,0)
     ```
 
     Copy the formula, and then add a formula to add up column B.
 
-    ```
+    ```vb
       =SUM(B2:B11000)
     ```
 

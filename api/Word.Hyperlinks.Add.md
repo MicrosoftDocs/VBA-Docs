@@ -75,8 +75,5 @@ ActiveDocument.Hyperlinks.Add Anchor:=Selection.ShapeRange(1), _
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlinks Collection Object](Word.hyperlinks.md)
 

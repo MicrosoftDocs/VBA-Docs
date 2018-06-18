@@ -21,7 +21,7 @@ A collection of  **Signature** objects that correspond to the digital signature 
 Use the  **Signatures** property of the **Document** object to return a **SignatureSet** collection; for example:
 
 
-```
+```vb
 Set sigs = ActiveDocument.Signatures
 ```
 
@@ -33,7 +33,7 @@ You can add a  **Signature** object to a **SignatureSet** collection using the *
 The following example prompts the user to select a digital signature with which to sign the active document in Microsoft Word. To use this example, open a document in Word and pass this function the name of a certificate issuer and the name of a certificate signer that match the  **Issued By** and **Issued To** fields of a digital certificate in the **Digital Certificates** dialog box. This example will test to make sure that the digital signature that the user selects meets certain criteria, such as not having expired, before the new signature is committed to the disk.
 
 
-```
+```vb
 Function AddSignature(ByVal strIssuer As String, _ 
  strSigner As String) As Boolean 
  
@@ -68,9 +68,6 @@ End Function
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

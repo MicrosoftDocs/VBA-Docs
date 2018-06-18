@@ -31,8 +31,5 @@ The number format is specified using the same format codes displayed on the  **N
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

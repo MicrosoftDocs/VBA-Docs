@@ -28,7 +28,4 @@ Use the  **Parent** property to access the properties or methods of the parent o
 ## See also
 
 
-#### Concepts
-
-
 [Subprojects Collection Object](Project.subprojects(object).md)

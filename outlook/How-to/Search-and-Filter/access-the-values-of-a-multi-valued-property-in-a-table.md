@@ -14,7 +14,7 @@ The following code sample adds the multi-valued  **Categories** property to a **
 
 
 
-```
+```vb
 oRow("urn:schemas-microsoft-com:office:office#Keywords")
 ```
 
@@ -22,7 +22,7 @@ to a variant, and enumerate the elements of the variant array. Note that for an 
 
 
 
-```
+```vb
 oRow("urn:schemas-microsoft-com:office:office#Keywords")
 ```
 

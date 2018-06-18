@@ -37,8 +37,5 @@ If the code attached to the command button causes changes to another control on 
 ## See also
 
 
-#### Concepts
-
-
 [CommandButton Object](Access.CommandButton.md)
 

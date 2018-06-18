@@ -26,8 +26,5 @@ Returns the name of the specified object. Read-only  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [StyleSheet Object](Word.StyleSheet.md)
 

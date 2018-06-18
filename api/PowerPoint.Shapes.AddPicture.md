@@ -58,8 +58,5 @@ myDocument.Shapes.AddPicture FileName:="c:\microsoft office\" &; _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

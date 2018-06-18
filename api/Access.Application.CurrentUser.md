@@ -52,8 +52,5 @@ MsgBox "The current user is: " &; CurrentUser
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

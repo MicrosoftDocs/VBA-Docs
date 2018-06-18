@@ -26,8 +26,5 @@ Removes all objects from the list in the combo box.
 ## See also
 
 
-#### Concepts
-
-
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 

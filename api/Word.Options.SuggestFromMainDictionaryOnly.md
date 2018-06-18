@@ -43,15 +43,12 @@ This example returns the current status of the Suggest from main dictionary only
 
 
 
-```
+```vb
 temp = Options.SuggestFromMainDictionaryOnly
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

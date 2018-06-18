@@ -44,8 +44,5 @@ The  **CurrentWebUser** method returns **Null** if the database has not been pub
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

@@ -42,8 +42,5 @@ MsgBox "The product code for Microsoft Publisher is " _
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

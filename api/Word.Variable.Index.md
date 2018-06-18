@@ -38,8 +38,5 @@ num = myVar.Index
 ## See also
 
 
-#### Concepts
-
-
 [Variable Object](Word.Variable.md)
 

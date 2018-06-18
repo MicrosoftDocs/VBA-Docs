@@ -73,8 +73,5 @@ Set myTable = Selection.ConvertToTable( _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

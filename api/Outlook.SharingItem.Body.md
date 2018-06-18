@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the clear-text body of the **[Sharing
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

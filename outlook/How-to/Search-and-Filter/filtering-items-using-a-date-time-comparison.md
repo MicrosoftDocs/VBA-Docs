@@ -24,7 +24,7 @@ To make sure that the date-time comparison string is formatted as Microsoft Outl
 
 
 
-```
+```vb
 criteria = "[LastModificationTime] < '" _ 
          &; Format$("6/12/2005 3:30PM","General Date") &; "'"
 ```
@@ -39,7 +39,7 @@ When a property is referenced in a DASL query by namespace, the comparison evalu
 
 
 
-```
+```vb
 criteria = "@SQL=" &; Chr(34) &; "DAV:getlastmodified" &; Chr(34) _ 
          &; " < '" &; Format$("6/12/2005 3:30PM","General Date") &; "'"
 ```
@@ -55,7 +55,7 @@ Since DASL queries always perform date-time comparisons in UTC, if you use a dat
  One way to facilitate local time to UTC conversion is to use the helper function, **LocalTimeToUTC**, of the  **[Row](row-object-outlook.md)** object. The following line of code uses this helper function to convert the value of the **LastModificationTime** property (which is a default column in all **Table** objects):
 
 
-```
+```vb
 Row.LocalTimeToUTC("LastModificationTime")
 ```
 

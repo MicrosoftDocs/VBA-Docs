@@ -28,16 +28,13 @@ ms.date: 06/08/2017
 The following code example activates the first protected view window in the [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection if the window is not currently active.
 
 
-```
+```vb
 ProtectedViewWindows.Open FileName:="C:\MyFiles\MyDoc.doc" 
 
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)

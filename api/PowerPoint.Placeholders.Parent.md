@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Placeholders Object](PowerPoint.Placeholders.md)
 

@@ -63,7 +63,7 @@ Prints an envelope without adding the envelope to the active document.
 This example prints an envelope using the user address as the return address and a predefined recipient address.
 
 
-```
+```vb
 recep = "Don Funk" &; vbCr &; "123 Skye St." &; vbCr &; _ 
     "OurTown, WA 98107" 
 ActiveDocument.Envelope.PrintOut Address:=recep, _ 
@@ -73,9 +73,6 @@ ActiveDocument.Envelope.PrintOut Address:=recep, _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Envelope Object](Word.Envelope.md)

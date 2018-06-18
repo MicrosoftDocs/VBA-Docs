@@ -26,8 +26,5 @@ Removes the specified XML element from the document and places it on the Clipboa
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

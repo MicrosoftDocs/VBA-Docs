@@ -26,8 +26,5 @@ Returns a  **Long** value that represents the number of objects in the collectio
 ## See also
 
 
-#### Concepts
-
-
 [OLEObjects Object](Excel.OLEObjects.md)
 

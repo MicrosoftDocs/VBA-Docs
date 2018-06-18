@@ -76,8 +76,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [SynonymInfo Object](Word.SynonymInfo.md)
 

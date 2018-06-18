@@ -36,8 +36,5 @@ If the currently displayed slide is from an embedded presentation, you can use t
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 

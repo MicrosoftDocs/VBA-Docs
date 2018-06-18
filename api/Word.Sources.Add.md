@@ -34,8 +34,5 @@ Add a new source to the sources listed in the  **Source Manager** dialog box.
 ## See also
 
 
-#### Concepts
-
-
 [Sources Collection](Word.Sources.md)
 

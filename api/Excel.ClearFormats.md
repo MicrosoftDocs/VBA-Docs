@@ -25,7 +25,7 @@ Clears the formatting of the object.
 This example clears all formatting from cells A1:G37 on the datasheet.
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A1:G37").ClearFormats
 ```
 
@@ -34,7 +34,7 @@ This example clears the formatting from the chart.
 
 
 
-```
+```vb
 myChart.ChartArea.ClearFormats
 ```
 

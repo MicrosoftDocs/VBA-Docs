@@ -36,8 +36,5 @@ Data bars help you see the value of a cell relative to other cells. The length o
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Object](Excel.FormatConditions.md)
 

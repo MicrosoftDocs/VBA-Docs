@@ -33,7 +33,7 @@ For information about returning a single member of a collection, see [Returning 
 This example inserts an automatically numbered footnote at the insertion point.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 Selection.Footnotes.Add Range:=Selection.Range, _ 
  Text:="(Lone Creek Press, 1995)"
@@ -41,9 +41,6 @@ Selection.Footnotes.Add Range:=Selection.Range, _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

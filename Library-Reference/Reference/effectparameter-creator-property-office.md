@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **EffectParam
 ## See also
 
 
-#### Concepts
-
-
 [EffectParameter Object](effectparameter-object-office.md)
 #### Other resources
 

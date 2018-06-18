@@ -56,9 +56,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AnimationPoints Object](PowerPoint.AnimationPoints.md)
 [LegendKey Object](PowerPoint.LegendKey.md)
 [Series Object](PowerPoint.Series.md)

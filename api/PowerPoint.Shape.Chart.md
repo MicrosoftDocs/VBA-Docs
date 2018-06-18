@@ -31,8 +31,5 @@ Returns a  **Chart** object of the current **Shape** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

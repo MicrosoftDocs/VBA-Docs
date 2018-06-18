@@ -51,8 +51,5 @@ lb.ControlFormat.MultiSelect = xlSimple
 ## See also
 
 
-#### Concepts
-
-
 [ControlFormat Object](Excel.ControlFormat.md)
 

@@ -26,8 +26,5 @@ Gets or sets the orientation of the navigation buttons. Read/write  **[AcNavigat
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

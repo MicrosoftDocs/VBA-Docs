@@ -34,8 +34,5 @@ Returns a  **String** that represents the text, with or without XML markup, that
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

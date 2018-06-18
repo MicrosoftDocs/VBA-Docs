@@ -42,8 +42,5 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

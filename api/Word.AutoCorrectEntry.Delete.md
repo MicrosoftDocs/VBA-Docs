@@ -26,8 +26,5 @@ Deletes the specified AutoCorrect entry.
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 

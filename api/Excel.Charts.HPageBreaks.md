@@ -26,8 +26,5 @@ Returns an  **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents t
 ## See also
 
 
-#### Concepts
-
-
 [Charts Collection](Excel.Charts.md)
 

@@ -75,8 +75,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](PowerPoint.Axis.md)
 

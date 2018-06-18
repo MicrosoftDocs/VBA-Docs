@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Charts Collection](Excel.Charts.md)
 

@@ -62,8 +62,5 @@ Windows.ResetPositionsSideBySide
 ## See also
 
 
-#### Concepts
-
-
 [Windows Collection Object](Word.windows.md)
 

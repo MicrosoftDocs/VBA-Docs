@@ -25,15 +25,12 @@ Returns the text associated with the  **SmartArtNode** object. Read-only
 The following example sets the text inside the first node.
 
 
-```
+```vb
 smartart.AllNodes(1).TextFrame2.TextRange.Text="Node 1"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArtNode Object](smartartnode-object-office.md)

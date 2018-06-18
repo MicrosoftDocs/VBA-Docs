@@ -23,9 +23,6 @@ Retrieves the string name of the  **EffectParameter** parameter. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [EffectParameter Object](effectparameter-object-office.md)
 #### Other resources
 

@@ -60,8 +60,5 @@ Forms!Employees!EmployeeID.SetFocus
 ## See also
 
 
-#### Concepts
-
-
 [Control Object](Access.Control.md)
 

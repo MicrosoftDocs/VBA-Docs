@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **File
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](Word.FileConverter.md)
 

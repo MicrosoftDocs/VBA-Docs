@@ -33,15 +33,12 @@ Before you can use a given COM add-in in a Microsoft Office application, that ad
 The following example updates the contents of the COMAddIns collection from the list of add-ins stored in the Windows registry.
 
 
-```
+```vb
 Application.COMAddIns.Update
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [COMAddIns Object](comaddins-object-office.md)

@@ -53,8 +53,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

@@ -39,7 +39,7 @@ Use the  **[InlineShapes](Publisher.TextRange.InlineShapes.md)** property on the
 
  
 
-```
+```vb
 Dim theShape As Shape 
  
 Set theShape = ActiveDocument.Pages(1).Shapes(1) 
@@ -58,7 +58,7 @@ Use the  **InlineShapes** (index) property to return a single inline shape. The 
 
 
 
-```
+```vb
 Dim theShape As Shape 
  
 Set theShape = ActiveDocument.Pages(1).Shapes(1) 
@@ -77,7 +77,7 @@ Use the  **[Range](Publisher.Shapes.Range.md)** method to return a **[ShapeRange
 
 
 
-```
+```vb
 Dim theRange As ShapeRange 
  
 Set theRange = ActiveDocument.Pages(1).Shapes(1) _ 

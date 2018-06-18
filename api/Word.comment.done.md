@@ -29,8 +29,5 @@ Returns or sets a  **Boolean** whose value is **true** if the specified comment 
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](Word.Comment.md)
 

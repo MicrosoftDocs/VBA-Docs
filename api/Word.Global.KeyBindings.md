@@ -28,7 +28,7 @@ Returns a  **KeyBindings** collection that represents customized key assignments
 This example assigns the CTRL+ALT+W key combination to the FileClose command. This keyboard customization is saved in the Normal template.
 
 
-```
+```vb
 CustomizationContext = NormalTemplate 
 KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyControl, wdKeyAlt, _ 
  wdKeyW), KeyCategory:=wdKeyCategoryCommand, _ 
@@ -53,9 +53,6 @@ Next kbLoop
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

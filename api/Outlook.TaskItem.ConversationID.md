@@ -35,8 +35,5 @@ If the  **TaskItem** object is created in a version of Microsoft Outlook earlier
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

@@ -36,8 +36,5 @@ Charts("Chart1").PageSetup.CenterHeader = "December Sales"
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -45,8 +45,5 @@ Dim blnAnimation as Boolean blnAnimation = Options.AnimateScreenMovements
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

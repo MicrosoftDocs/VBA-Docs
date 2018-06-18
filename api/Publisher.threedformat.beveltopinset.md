@@ -29,8 +29,5 @@ Returns or sets a  **Single** that represents the depth of the top bevel. Read/w
 ## See also
 
 
-#### Concepts
-
-
  [ThreeDFormat Object](Publisher.ThreeDFormat.md)
 

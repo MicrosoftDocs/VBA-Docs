@@ -53,8 +53,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroups Object](Word.ChartGroups.md)
 

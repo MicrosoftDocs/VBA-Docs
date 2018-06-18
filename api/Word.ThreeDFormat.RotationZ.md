@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents z-axis rotation of the camera. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

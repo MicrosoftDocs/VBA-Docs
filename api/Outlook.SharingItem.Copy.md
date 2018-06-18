@@ -26,8 +26,5 @@ Creates another instance of a  **[SharingItem](Outlook.SharingItem.md)** .
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

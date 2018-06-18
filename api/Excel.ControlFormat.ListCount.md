@@ -37,8 +37,5 @@ cf.DropDownLines = cf.ListCount
 ## See also
 
 
-#### Concepts
-
-
 [ControlFormat Object](Excel.ControlFormat.md)
 

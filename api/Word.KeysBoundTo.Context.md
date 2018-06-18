@@ -47,8 +47,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 

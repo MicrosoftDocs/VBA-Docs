@@ -35,8 +35,5 @@ For relational data sources and OLAP attributes, this property is always  **Fals
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

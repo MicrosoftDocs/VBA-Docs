@@ -33,15 +33,12 @@ Resets the endnote separator to the default separator.
 This example resets the endnote separator for the notes in the document where the selection is located.
 
 
-```
+```vb
 Selection.Endnotes.ResetSeparator
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Endnotes Collection Object](Word.endnotes.md)

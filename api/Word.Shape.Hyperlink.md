@@ -46,8 +46,5 @@ MsgBox ActiveDocument.Shapes(1).Hyperlink.Address
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

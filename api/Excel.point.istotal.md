@@ -24,8 +24,5 @@ ms.prod: excel
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Excel.Point(objec).md)
 

@@ -31,8 +31,5 @@ Returns a constant,  **olRuleActionRedirect** , from the **[OlRuleActionType](Ou
 ## See also
 
 
-#### Concepts
-
-
 [SendRuleAction Object](Outlook.SendRuleAction.md)
 

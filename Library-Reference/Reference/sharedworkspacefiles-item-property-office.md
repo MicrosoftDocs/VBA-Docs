@@ -37,9 +37,6 @@ Gets a  **SharedWorkspaceFile** object from the **Files** collection of the shar
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFiles Object](sharedworkspacefiles-object-office.md)
 #### Other resources
 

@@ -26,8 +26,5 @@ Returns a  **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection that represents
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

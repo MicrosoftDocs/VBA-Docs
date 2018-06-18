@@ -23,9 +23,6 @@ Gets a 32-bit integer that indicates the application in which the  **IMsoContact
 ## See also
 
 
-#### Concepts
-
-
 [IMsoContactCard Object](imsocontactcard-object-office.md)
 #### Other resources
 

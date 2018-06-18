@@ -26,8 +26,5 @@ Removes the specified frame from the document and places it on the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [Frame Object](Word.Frame.md)
 

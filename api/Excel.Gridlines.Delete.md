@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [Gridlines Object](Excel.Gridlines(objec).md)
 

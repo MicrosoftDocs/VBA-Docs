@@ -38,8 +38,5 @@ Changing the value of this property for a  **NavigationModule** object changes t
 ## See also
 
 
-#### Concepts
-
-
 [NavigationModule Object](Outlook.NavigationModule.md)
 

@@ -34,8 +34,5 @@ Returns a  **String** that represents the XML text in the specified object. .
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

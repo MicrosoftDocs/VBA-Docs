@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [DownBars Object](Excel.DownBars(objec).md)
 

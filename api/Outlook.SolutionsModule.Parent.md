@@ -31,8 +31,5 @@ The parent of a  **SolutionsModule** object returns a **[NavigationPane](Outlook
 ## See also
 
 
-#### Concepts
-
-
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 

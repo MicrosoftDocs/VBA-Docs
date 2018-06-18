@@ -26,8 +26,5 @@ Returns a [Comments](Visio.comments.md) object that represents the collection of
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Visio.Shape.md)
 

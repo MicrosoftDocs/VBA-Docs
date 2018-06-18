@@ -25,7 +25,7 @@ On the Macintosh,  **ChDrive** changes the current folder to the root folder of 
 This example uses the  **ChDrive** statement to change the current drive. On the Macintosh, "HD:" is the default drive name and **ChDrive** would change the current folder to the root folder of the specified drive. The following example assumes the machine actually has a drive named D.
 
 
-```
+```vb
 ChDrive "D" ' Make "D" the current drive. 
 
 ```

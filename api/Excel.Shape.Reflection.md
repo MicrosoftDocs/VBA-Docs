@@ -26,8 +26,5 @@ Returns a  **[ReflectionFormat](http://msdn.microsoft.com/library/9684dbb3-5b99-
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

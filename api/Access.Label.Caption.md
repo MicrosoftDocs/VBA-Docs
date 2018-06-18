@@ -42,8 +42,5 @@ Include two ampersands (&;&;) in the setting for a caption if you want to displa
 ## See also
 
 
-#### Concepts
-
-
 [Label Object](Access.Label.md)
 

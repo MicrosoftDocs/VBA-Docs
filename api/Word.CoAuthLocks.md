@@ -31,9 +31,6 @@ MsgBox ActiveDocument.CoAuthoring.Locks.Count
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthoring.Locks Property](coauthoring-locks-property-word.md)
 #### Other resources
 

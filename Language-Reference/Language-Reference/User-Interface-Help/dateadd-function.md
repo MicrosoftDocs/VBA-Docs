@@ -52,7 +52,7 @@ The  **DateAdd** function won't return an invalid date. The following example ad
 
 
 
-```
+```vb
 DateAdd("m", 1, "31-Jan-95")
 
 ```

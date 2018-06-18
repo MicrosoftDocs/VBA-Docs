@@ -37,8 +37,5 @@ MsgBox "The active document contains " &; _
 ## See also
 
 
-#### Concepts
-
-
 [Paragraphs Collection Object](Word.paragraphs.md)
 

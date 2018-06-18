@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [Legend Object](Word.Legend.md)
 

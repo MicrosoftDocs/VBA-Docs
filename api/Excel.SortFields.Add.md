@@ -43,8 +43,5 @@ SortField
 ## See also
 
 
-#### Concepts
-
-
 [SortFields Object](Excel.SortFields.md)
 

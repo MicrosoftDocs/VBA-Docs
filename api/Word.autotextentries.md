@@ -27,7 +27,7 @@ Use the  **[Add](Word.AutoTextEntries.Add.md)** method to add an AutoText entry 
 
 
 
-```
+```vb
 NormalTemplate.AutoTextEntries.Add Name:="Blue", _ 
  Range:=Selection.Range
 ```
@@ -37,7 +37,7 @@ Use  **AutoTextEntries** (index), where index is the AutoText entry name or inde
 
 
 
-```
+```vb
 NormalTemplate.AutoTextEntries("cName").Value = _ 
  "The Johnson Company"
 ```

@@ -30,7 +30,7 @@ Use [Columns](officedatasourceobject-columns-property-office.md)( _index_ ), whe
 This example retrieves the name and value of the first field of the first record in the data source attached to the active publication.
 
 
-```
+```vb
 Sub GetDataFromSource() 
  
  Dim appOffice As OfficeDataSourceObject 

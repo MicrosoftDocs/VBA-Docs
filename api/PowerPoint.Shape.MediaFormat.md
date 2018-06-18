@@ -31,8 +31,5 @@ All shapes of type msoMedia will have a MediaFormat.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](PowerPoint.Shape.md)
 

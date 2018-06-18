@@ -31,8 +31,5 @@ If the  **SharingItem** was just created, this property returns a **[Folder](Out
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

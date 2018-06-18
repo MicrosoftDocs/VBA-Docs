@@ -26,8 +26,5 @@ Applies the  **[TableView](Outlook.TableView.md)** object to the current view.
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

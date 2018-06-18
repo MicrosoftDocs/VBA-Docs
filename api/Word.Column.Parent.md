@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Colu
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Word.Column.md)
 

@@ -46,9 +46,6 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 [Range Object](Excel.Range(objec).md)
 

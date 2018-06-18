@@ -37,8 +37,5 @@ MsgBox "The active document contains " &; _
 ## See also
 
 
-#### Concepts
-
-
 [CoAuthLocks Object](Word.CoAuthLocks.md)
 

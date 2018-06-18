@@ -26,9 +26,6 @@ Specifies whether the Picker field is hidden. Read-only
 ## See also
 
 
-#### Concepts
-
-
 [PickerField Object](pickerfield-object-office.md)
 #### Other resources
 

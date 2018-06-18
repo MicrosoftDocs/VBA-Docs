@@ -38,7 +38,7 @@ In addition to determining whether the schemas are valid, this method also trave
 The following example validates the schema collection and returns the  **Boolean** results to the calling procedure.
 
 
-```
+```vb
 Function ValidateSchemas(objSourceCustomXMLSchemaCollection As CustomXMLSchemaCollection) 
 Dim boolValid As Boolean 
  
@@ -52,9 +52,6 @@ End Function
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLSchemaCollection Object](customxmlschemacollection-object-office.md)

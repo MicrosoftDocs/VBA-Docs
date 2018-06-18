@@ -47,8 +47,5 @@ blnAutoFormat = Options.AutoFormatAsYouTypeReplaceSymbols
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

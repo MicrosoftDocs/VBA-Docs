@@ -37,8 +37,5 @@ Returns the color, style, and embellishment, if any, of the variant of the theme
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Visio.Page.md)
 

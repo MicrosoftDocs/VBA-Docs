@@ -38,8 +38,5 @@ Protects a chart so that it cannot be modified.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -55,7 +55,7 @@ If no controls that fits the criteria are found, the  **FindControls** method re
 This example uses the FindControls method to return all members of the CommandBars collection that have an ID of 18 and displays (in a message box) the number of controls that meet the search criteria.
 
 
-```
+```vb
 Dim myControls As CommandBarControls 
 Set myControls = CommandBars.FindControls(Type:=msoControlButton, ID:=18) 
 MsgBox "There are " &amp; myControls.Count &amp; _ 
@@ -64,9 +64,6 @@ MsgBox "There are " &amp; myControls.Count &amp; _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

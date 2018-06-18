@@ -28,7 +28,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 ## See also
 
 
-#### Concepts
-
-
 [Views Collection Object](Project.views(object).md)

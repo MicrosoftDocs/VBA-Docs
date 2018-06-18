@@ -28,16 +28,13 @@ Removes any spacing before paragraphs in the specified paragraph format.
 The following two statements are equivalent: 
 
 
-```
+```vb
 ParagraphFormat.CloseUp 
 ParagraphFormat.SpaceBefore = 0
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)

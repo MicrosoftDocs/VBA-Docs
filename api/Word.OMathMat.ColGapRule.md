@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant
 ## See also
 
 
-#### Concepts
-
-
 [OMathMat Object](Word.OMathMat.md)
 

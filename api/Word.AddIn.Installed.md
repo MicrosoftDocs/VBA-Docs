@@ -70,8 +70,5 @@ If AddIns("Dot1.dot").Installed = True Then _
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](Word.AddIn.md)
 

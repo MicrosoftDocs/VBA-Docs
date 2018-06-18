@@ -38,8 +38,5 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

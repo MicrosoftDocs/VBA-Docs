@@ -38,8 +38,5 @@ Possible values for  **ManualFeedDirection** are **pbOrientationLandscape** (2) 
 ## See also
 
 
-#### Concepts
-
-
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 

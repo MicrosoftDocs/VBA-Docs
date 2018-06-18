@@ -46,8 +46,5 @@ MsgBox SlideShowWindows(1).View.Slide.SlideIndex
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

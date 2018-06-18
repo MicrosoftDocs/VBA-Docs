@@ -26,8 +26,5 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents all the cel
 ## See also
 
 
-#### Concepts
-
-
 [PivotItem Object](Excel.PivotItem.md)
 

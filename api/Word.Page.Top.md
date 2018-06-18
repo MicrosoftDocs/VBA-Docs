@@ -31,8 +31,5 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Word.Page.md)
 

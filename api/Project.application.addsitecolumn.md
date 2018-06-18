@@ -149,9 +149,6 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 [PjField Enumeration](Project.PjField.md)
 #### Other resources

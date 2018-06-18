@@ -32,7 +32,7 @@ In the following example, the first line uses  **CallByName** to set the **Mouse
 
 
 
-```
+```vb
 CallByName Text1, "MousePointer", vbLet, vbCrosshair
 Result = CallByName (Text1, "MousePointer", vbGet)
 CallByName Text1, "Move", vbMethod, 100, 100

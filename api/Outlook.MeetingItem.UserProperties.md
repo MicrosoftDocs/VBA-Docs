@@ -26,8 +26,5 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

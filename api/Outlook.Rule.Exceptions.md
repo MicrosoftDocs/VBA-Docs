@@ -35,8 +35,5 @@ Through the  **Conditions** property, each rule is associated with a **RuleCondi
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

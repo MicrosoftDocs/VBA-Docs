@@ -76,7 +76,7 @@ When the
 
 
 
-```
+```vb
 Register_Event_Handler
 ```
 

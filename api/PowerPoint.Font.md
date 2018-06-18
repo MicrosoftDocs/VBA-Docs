@@ -30,7 +30,7 @@ Use the [Font](http://msdn.microsoft.com/library/234c8843-3c0d-a425-0173-02c3910
 
 
 
-```
+```vb
 With ActivePresentation.Slides(1).Shapes.Title _
 
         .TextFrame.TextRange
@@ -55,7 +55,7 @@ Use  **Fonts** (index), where index is the font's name or index number, to retur
 
 
 
-```
+```vb
 If ActivePresentation.Fonts(1).Embedded = _
 
     True Then MsgBox "Font 1 is embedded"

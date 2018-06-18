@@ -43,8 +43,5 @@ Worksheets(1).ShowDataForm
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

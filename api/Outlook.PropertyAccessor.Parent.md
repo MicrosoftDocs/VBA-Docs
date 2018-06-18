@@ -26,8 +26,5 @@ Returns the parent object of the  **[PropertyAccessor](Outlook.PropertyAccessor.
 ## See also
 
 
-#### Concepts
-
-
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 

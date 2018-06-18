@@ -31,7 +31,7 @@ Once an  **Error** object is returned, you can use the **[Value](Excel.Error.Val
 The following example creates a formula in cell A1 referencing empty cells, and then it uses  **Item** ( _index_ ), where _index_ identifies the error type, to display a message stating the situation.
 
 
-```
+```vb
 Sub CheckEmptyCells() 
  
  Dim rngFormula As Range 

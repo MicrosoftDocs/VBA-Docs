@@ -38,8 +38,5 @@ Changing the value of this property for a given  **JournalModule** object change
 ## See also
 
 
-#### Concepts
-
-
 [JournalModule Object](Outlook.JournalModule.md)
 

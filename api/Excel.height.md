@@ -23,7 +23,7 @@ The height of the main application window or the object. If the window is minimi
 This example sets the height of the chart legend to 1 inch (72 points).
 
 
-```
+```vb
 myChart.Legend.Height = 72
 ```
 

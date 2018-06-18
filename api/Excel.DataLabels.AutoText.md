@@ -39,8 +39,5 @@ Charts("Chart1").SeriesCollection(1).DataLabels.AutoText = True
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](Excel.DataLabels(object).md)
 

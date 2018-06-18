@@ -46,8 +46,5 @@ If  _Index_ is a string and no item can be found by that name, an error will be 
 ## See also
 
 
-#### Concepts
-
-
 [Stores Object](Outlook.Stores.md)
 

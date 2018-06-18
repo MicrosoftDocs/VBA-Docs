@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [HiLoLines Object](Word.HiLoLines.md)
 

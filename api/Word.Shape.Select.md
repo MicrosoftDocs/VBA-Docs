@@ -34,8 +34,5 @@ Selects the specified shape.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Word.Shape.md)
 

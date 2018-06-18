@@ -35,8 +35,5 @@ For reports, the  **Left** property setting is the amount the current section is
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

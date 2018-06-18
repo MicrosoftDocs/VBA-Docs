@@ -24,8 +24,5 @@ Use  **ResampleMediaTasks** ( _Index_ ) to return a **ResampleMediaTask** object
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

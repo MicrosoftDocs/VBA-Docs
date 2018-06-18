@@ -33,9 +33,6 @@ You can close a contact card either in the user interface or programmatically by
 ## See also
 
 
-#### Concepts
-
-
 [ContactCard Object](contactcard-object-office.md)
 #### Other resources
 

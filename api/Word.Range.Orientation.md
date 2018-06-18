@@ -33,8 +33,5 @@ You can set the orientation for a text frame or for a range that happens to occu
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

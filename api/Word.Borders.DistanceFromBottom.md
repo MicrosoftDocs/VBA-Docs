@@ -64,8 +64,5 @@ Next tableLoop
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection Object](Word.borders.md)
 

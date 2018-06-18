@@ -31,8 +31,5 @@ The default value is  **olAlignmentLeft** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

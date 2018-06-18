@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of sections in the collection. Re
 ## See also
 
 
-#### Concepts
-
-
 [Sections Collection Object](Word.sections.md)
 

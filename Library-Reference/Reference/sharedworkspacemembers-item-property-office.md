@@ -37,9 +37,6 @@ Gets a  **SharedWorkspaceMember** object from the Members collection of the shar
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceMembers Object](sharedworkspacemembers-object-office.md)
 #### Other resources
 

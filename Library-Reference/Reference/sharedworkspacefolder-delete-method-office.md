@@ -37,9 +37,6 @@ Deletes the current shared workspace folder and all data within it.
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFolder Object](sharedworkspacefolder-object-office.md)
 #### Other resources
 

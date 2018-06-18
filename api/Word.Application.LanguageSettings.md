@@ -26,8 +26,5 @@ Returns a  **LanguageSettings** object, which contains information about the lan
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

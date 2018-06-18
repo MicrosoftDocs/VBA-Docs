@@ -52,8 +52,5 @@ Application.ActivePresentation.LayoutDirection = ppDirectionRightToLeft
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

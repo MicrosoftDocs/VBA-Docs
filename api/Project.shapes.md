@@ -14,7 +14,7 @@ Represents a collection of  **[Shape](http://msdn.microsoft.com/library/d2b32bcd
 Use the  **[Report.Shapes](http://msdn.microsoft.com/library/2f62c406-3845-79f8-3d17-e5891c1e23f9%28Office.15%29.aspx)** property to get the **Shapes** collection object. In the following example, the report must be the active view to get the **Shapes** collection; otherwise, you get a run-time error 424 (Object required) in the `For Each oShape In oReport.Shapes` statement.
 
 
-```
+```vb
 Sub ListShapesInReport()
     Dim oReports As Reports
     Dim oReport As Report

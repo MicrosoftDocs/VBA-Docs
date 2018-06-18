@@ -39,8 +39,5 @@ Returns or sets the mode for checking the spelling of European Portuguese. Read/
 ## See also
 
 
-#### Concepts
-
-
 [SpellingOptions Object](Excel.SpellingOptions.md)
 

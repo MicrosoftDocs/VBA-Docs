@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that specifies whether the **AutoCorrect Op
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Access.AutoCorrect.md)
 

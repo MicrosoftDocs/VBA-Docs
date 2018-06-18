@@ -24,7 +24,7 @@ Using the  **[PropertyAccessor](http://msdn.microsoft.com/library/guid_2fc91e13-
 
 
 
-```
+```vb
 "http://schemas.microsoft.com/mapi/id/00062002-0000-0000-C000-000000000046}/8257000B"
 ```
 
@@ -32,7 +32,7 @@ where  `{00062002-0000-0000-C000-000000000046}` is the **PSETID_Appointment** na
 
 
 
-```C#
+```vbC#
 private bool IsCounterProposal(Outlook.MeetingItem meeting) 
 { 
     const string counterPropose = 

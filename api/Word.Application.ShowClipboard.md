@@ -36,8 +36,5 @@ Application.ShowClipboard
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

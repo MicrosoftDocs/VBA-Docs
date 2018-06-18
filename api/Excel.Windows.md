@@ -26,7 +26,7 @@ The  **Windows** collection for the **[Application](Excel.Application(objec).md)
 Use the  **Windows** property to return the **Windows** collection. The following example cascades all the windows that are currently displayed in Microsoft Excel.
 
 
-```
+```vb
 Windows.Arrange arrangeStyle:=xlCascade
 ```
 
@@ -35,7 +35,7 @@ Use the  **[NewWindow](Excel.Window.NewWindow.md)** method to create a new windo
 
 
 
-```
+```vb
 ActiveWorkbook.NewWindow
 ```
 
@@ -46,7 +46,7 @@ Note that the active window is always  `Windows(1)`.
 
 
 
-```
+```vb
 Windows(1).WindowState = xlMaximized
 ```
 

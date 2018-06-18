@@ -31,8 +31,5 @@ Some of the  **WdNoteNumberStyle** constants may not be available to you, depend
 ## See also
 
 
-#### Concepts
-
-
 [Footnotes Collection Object](Word.footnotes.md)
 

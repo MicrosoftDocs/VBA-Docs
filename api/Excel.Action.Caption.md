@@ -26,8 +26,5 @@ Returns the caption assigned to the  **Action** object. Read-only **String** .
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Excel.Action.md)
 

@@ -49,8 +49,5 @@ You can use the  **Filter** event to:
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

@@ -42,8 +42,5 @@ Range("A1").DirectDependents.Select
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

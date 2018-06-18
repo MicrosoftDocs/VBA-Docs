@@ -73,8 +73,5 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlValueIsGreaterThanOrEqual
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilters Object](Excel.PivotFilters.md)
 

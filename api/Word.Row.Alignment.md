@@ -39,8 +39,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Word.Row.md)
 

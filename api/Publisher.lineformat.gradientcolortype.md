@@ -29,8 +29,5 @@ Returns the gradient color type for the specified line. Read-only.
 ## See also
 
 
-#### Concepts
-
-
  [LineFormat Object](Publisher.LineFormat.md)
 

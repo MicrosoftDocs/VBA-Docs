@@ -31,8 +31,5 @@ For controls that do not support a drop-down list, the value of this property is
 ## See also
 
 
-#### Concepts
-
-
 [OlkControl Class](Outlook.olkcontrol.md)
 

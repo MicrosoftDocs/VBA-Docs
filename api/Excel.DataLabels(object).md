@@ -26,7 +26,7 @@ A collection of all the  **[DataLabel](Excel.DataLabel(objec).md)** objects for 
 Use the  **[DataLabels](Excel.Series.DataLabels.md)** method to return the **DataLabels** collection. The following example sets the number format for data labels on series one on chart sheet one.
 
 
-```
+```vb
 With Charts(1).SeriesCollection(1) 
  .HasDataLabels = True 
  .DataLabels.NumberFormat = "##.##" 
@@ -38,7 +38,7 @@ Use  **DataLabels** ( _index_ ), where _index_ is the data-label index number, t
 
 
 
-```
+```vb
 Worksheets(1).ChartObjects(1).Chart _ 
  .SeriesCollection(1).DataLabels(5).NumberFormat = "0.000"
 ```

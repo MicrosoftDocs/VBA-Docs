@@ -26,7 +26,7 @@ On a 2-D chart, returns an object that represents either a single column chart g
 This example sets the space between column clusters in the 2-D column chart group to be 50 percent of the column width.
 
 
-```
+```vb
 myChart.ColumnGroups(1).GapWidth = 50
 ```
 

@@ -18,7 +18,7 @@ Represents a namespace prefix.
 The following example creates a  **CustomXMLPrefixMapping** object by adding a namespace and prefix to the **CustomXMLPrefixMapping** collection.
 
 
-```
+```vb
 Dim objNamespace As CustomXMLPrefixMapping 
  
 objNamespace = CustomXMLPrefixMappings.AddNamespace("xs", "urn:invoice:namespace") 

@@ -53,8 +53,5 @@ dicNew.LanguageID = wdGerman
 ## See also
 
 
-#### Concepts
-
-
 [Dictionary Object](Word.Dictionary.md)
 

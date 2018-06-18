@@ -55,8 +55,5 @@ When you use the  **CanGrow** property, remember that:
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

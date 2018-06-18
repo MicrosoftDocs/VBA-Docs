@@ -64,8 +64,5 @@ myDocument.Shapes.AddPolyline triArray
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

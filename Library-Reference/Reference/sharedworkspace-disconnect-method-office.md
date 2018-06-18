@@ -36,7 +36,7 @@ Use the  **Disconnect** method to detach the local copy of the active document f
 The following example determines whether the active document is connected to a shared workspace site, then offers the user the option of disconnecting it.
 
 
-```
+```vb
    Dim r As Long 
     If ActiveWorkbook.SharedWorkspace.Connected Then 
         r = MsgBox("Are you sure you want to disconnect this document?", _ 
@@ -58,9 +58,6 @@ The following example determines whether the active document is connected to a s
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspace Object](sharedworkspace-object-office.md)

@@ -43,8 +43,5 @@ Next aFont
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

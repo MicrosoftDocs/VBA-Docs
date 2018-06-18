@@ -26,8 +26,5 @@ Gets or sets whether the filter specified by the  **[Filter](Access.Report.Filte
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

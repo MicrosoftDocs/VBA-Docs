@@ -26,8 +26,5 @@ Removes the text in the text box.
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

@@ -31,8 +31,5 @@ The value of this property is applicable only when the  **[CalendarViewMode](Out
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

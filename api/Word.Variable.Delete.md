@@ -26,8 +26,5 @@ Deletes the specified variable.
 ## See also
 
 
-#### Concepts
-
-
 [Variable Object](Word.Variable.md)
 

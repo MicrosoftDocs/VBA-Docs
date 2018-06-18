@@ -46,7 +46,7 @@ This example removes all custom dictionaries so that no custom dictionaries are 
 
 
 
-```
+```vb
 CustomDictionaries.ClearAll
 ```
 
@@ -65,9 +65,6 @@ Next dicLoop
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Global Object](Word.Global.md)

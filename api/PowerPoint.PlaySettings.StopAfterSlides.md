@@ -58,8 +58,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 

@@ -28,7 +28,7 @@ Gets the domain and user name of the specified [SharedWorkspaceMember](sharedwor
 The following example extracts the domain name from the  **DomainName** property of each shared workspace member and lists members who belong to the "MyCompany" domain.
 
 
-```
+```vb
  Dim swsMember As Office.SharedWorkspaceMember 
  Dim strDomain As String 
  Dim strMemberList As String 
@@ -50,9 +50,6 @@ The following example extracts the domain name from the  **DomainName** property
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceMember Object](sharedworkspacemember-object-office.md)

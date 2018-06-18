@@ -60,8 +60,5 @@ You can use the following  **[XlConstants](Word.XlConstants.md)** constants for 
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Word.Series.md)
 

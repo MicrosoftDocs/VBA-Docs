@@ -31,8 +31,5 @@ Specifies how to sort text in the range specified in  **SortField** object. Read
 ## See also
 
 
-#### Concepts
-
-
 [SortField Object](Excel.SortField.md)
 

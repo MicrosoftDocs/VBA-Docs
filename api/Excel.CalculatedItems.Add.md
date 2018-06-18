@@ -41,8 +41,5 @@ A  **PivotItem** object that represents the new calculated item.
 ## See also
 
 
-#### Concepts
-
-
 [CalculatedItems Collection](Excel.CalculatedItems.md)
 

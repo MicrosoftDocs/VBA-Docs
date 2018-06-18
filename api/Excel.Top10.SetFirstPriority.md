@@ -34,8 +34,5 @@ When you have multiple conditional formatting rules in a worksheet, if the rule 
 ## See also
 
 
-#### Concepts
-
-
 [Top10 Object](Excel.Top10.md)
 

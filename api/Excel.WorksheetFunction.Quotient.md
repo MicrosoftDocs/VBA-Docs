@@ -45,8 +45,5 @@ If either argument is nonnumeric, QUOTIENT returns the #VALUE! error value.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

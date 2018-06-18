@@ -28,7 +28,7 @@ The Microsoft Excel Visual Basic object library includes built-in constants for 
 Use the [Dialogs](Excel.Application.Dialogs.md) property to return the **Dialogs** collection. The following code example displays the number of available built-in Microsoft Excel dialog boxes.
 
 
-```
+```vb
 MsgBox Application.Dialogs.Count
 ```
 
@@ -37,7 +37,7 @@ Use  **Dialogs** ( _index_ ), where _index_ is a built-in constant identifying t
 
 
 
-```
+```vb
 dlgAnswer = Application.Dialogs(xlDialogOpen).Show
 ```
 
@@ -50,7 +50,7 @@ The following code example opens an e-mail message in Microsoft Outlook with the
 
 
 
-```
+```vb
 Sub SendIt() 
     Application.Dialogs(xlDialogSendMail).Show arg1:="ask@mrexcel.com", arg2:="This goes in the subject line" 
 End Sub 

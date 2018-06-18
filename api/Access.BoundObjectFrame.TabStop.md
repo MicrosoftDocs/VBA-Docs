@@ -55,8 +55,5 @@ Forms("Suppliers").Controls("City").TabStop = False
 ## See also
 
 
-#### Concepts
-
-
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 

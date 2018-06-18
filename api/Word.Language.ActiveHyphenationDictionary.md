@@ -50,8 +50,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Language Object](Word.Language.md)
 

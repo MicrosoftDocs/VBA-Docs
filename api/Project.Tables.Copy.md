@@ -40,7 +40,4 @@ Makes a copy of a group definition for the  **Tables** collection and returns a 
 ## See also
 
 
-#### Concepts
-
-
 [Tables Collection Object](Project.tables.md)

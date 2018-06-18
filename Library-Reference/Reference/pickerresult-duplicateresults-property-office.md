@@ -26,9 +26,6 @@ Gets PickerResult collection if the result of resolving results has multiple can
 ## See also
 
 
-#### Concepts
-
-
 [PickerResult Object](pickerresult-object-office.md)
 #### Other resources
 

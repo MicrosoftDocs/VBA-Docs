@@ -36,8 +36,5 @@ Worksheets(1).PivotTables("Pivot1").Tag = "Product Sales by Region"
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

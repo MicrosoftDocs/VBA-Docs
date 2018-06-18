@@ -21,9 +21,6 @@ Removes a portion or all of the text from a range of text.
 ## See also
 
 
-#### Concepts
-
-
 [TextRange2 Object (PowerPoint)](textrange2-object-powerpoint.md)
 
 

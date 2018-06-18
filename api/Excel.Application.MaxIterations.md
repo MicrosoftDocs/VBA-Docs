@@ -41,8 +41,5 @@ Application.MaxIterations = 1000
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

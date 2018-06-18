@@ -23,8 +23,5 @@ The size of the specified object that changes automatically to fit text within i
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

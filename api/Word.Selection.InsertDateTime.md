@@ -45,16 +45,13 @@ Using this method replaces the current selection. To avoid this, use the  **[Col
 This example inserts a TIME field for the current date. A possible result might be "November 18, 1999."
 
 
-```
+```vb
 Selection.InsertDateTime DateTimeFormat:="MMMM dd, yyyy", _ 
  InsertAsField:=True
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

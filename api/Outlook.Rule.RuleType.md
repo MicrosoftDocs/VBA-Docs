@@ -26,8 +26,5 @@ Returns a constant from the  **[OlRuleType](Outlook.OlRuleType.md)** enumeration
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

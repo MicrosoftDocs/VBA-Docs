@@ -31,7 +31,7 @@ Use the  **[PrintableRect](Publisher.Printer.PrintableRect.md)** property of the
 
  
 
-```
+```vb
 Sub ListPrintableRectBoundaries() 
  
 With ActiveDocument.AdvancedPrintOptions.PrintableRect 

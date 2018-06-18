@@ -62,8 +62,5 @@ The following table lists descriptions of how different actions by the user affe
 ## See also
 
 
-#### Concepts
-
-
 [PivotCell Object](Excel.PivotCell.md)
 

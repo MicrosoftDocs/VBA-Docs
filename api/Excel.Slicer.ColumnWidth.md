@@ -36,8 +36,5 @@ The  **[Width](Excel.Slicer.Width.md)** property of the **[Slicer](Excel.Slicer.
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

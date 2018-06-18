@@ -33,8 +33,5 @@ For more information on accessing properties in Outlook, see [Properties Overvie
 ## See also
 
 
-#### Concepts
-
-
 [UserProperty Object](Outlook.UserProperty.md)
 

@@ -26,8 +26,5 @@ Returns the type of proofreading error. Read-only  **[WdProofreadingErrorType](W
 ## See also
 
 
-#### Concepts
-
-
 [ProofreadingErrors Collection Object](Word.proofreadingerrors.md)
 

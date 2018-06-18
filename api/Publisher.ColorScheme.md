@@ -24,7 +24,7 @@ Use the  **[ColorScheme](Publisher.Document.ColorScheme.md)** property of a **[D
 
  
 
-```
+```vb
 Sub ReturnColorsAndApplyToShapes() 
  Dim lngAccent1 As Long 
  Dim lngAccent2 As Long 
@@ -53,7 +53,7 @@ Use the  **[Name](Publisher.ColorScheme.Name.md)** property to return a color sc
 
 
 
-```
+```vb
 Sub ListColorShemes() 
  
  Dim clrScheme As ColorScheme 

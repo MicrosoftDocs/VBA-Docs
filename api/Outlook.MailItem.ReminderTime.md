@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the date and time at which the reminder s
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

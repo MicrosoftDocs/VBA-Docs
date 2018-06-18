@@ -26,8 +26,5 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the shape attached
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

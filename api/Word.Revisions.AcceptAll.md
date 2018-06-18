@@ -43,15 +43,12 @@ The following code example accepts all the tracked changes in the selection.
 
 
 
-```
+```vb
 Selection.Range.Revisions.AcceptAll
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Revisions Collection Object](Word.revisions.md)

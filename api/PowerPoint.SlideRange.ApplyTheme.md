@@ -53,8 +53,5 @@ ActivePresentation.Slides.Range(Array(1, 3)).ApplyTheme "C:\Program Files\Micros
 ## See also
 
 
-#### Concepts
-
-
 [SlideRange Object](PowerPoint.SlideRange.md)
 

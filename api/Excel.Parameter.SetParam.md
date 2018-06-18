@@ -48,7 +48,7 @@ Defines a parameter for the specified query table.
 This example changes the SQL statement for query table one. The clause ?(city=?)? indicates that the query is a parameter query, and the example sets the value of city to the constant ?Oakland.?
 
 
-```sql
+```vbsql
 Set qt = Sheets("sheet1").QueryTables(1) 
 qt.Sql = "SELECT * FROM authors WHERE (city=?)" 
 Set param1 = qt.Parameters.Add("City Parameter", _ 
@@ -59,9 +59,6 @@ qt.Refresh
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Parameter Object](Excel.Parameter.md)

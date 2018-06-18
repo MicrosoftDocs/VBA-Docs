@@ -65,8 +65,5 @@ Set newWordArt = myDocument.Shapes _
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

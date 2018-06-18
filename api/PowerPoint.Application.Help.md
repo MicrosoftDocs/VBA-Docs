@@ -45,8 +45,5 @@ Application.Help "MyHelpFile.chm", 65527
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

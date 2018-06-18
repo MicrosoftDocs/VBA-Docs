@@ -54,8 +54,5 @@ MsgBox Windows.Count &; " windows open"
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

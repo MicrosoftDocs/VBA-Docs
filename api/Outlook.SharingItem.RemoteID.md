@@ -33,8 +33,5 @@ This property is set to an empty string if the  **[Type](Outlook.SharingItem.Typ
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

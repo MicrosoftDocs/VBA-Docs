@@ -45,8 +45,5 @@ The  **NewCurrentDatabase** method enables you to create a new Microsoft Access 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

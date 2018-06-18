@@ -26,8 +26,5 @@ Returns or sets an  **[OlActionResponseStyle](Outlook.OlActionResponseStyle.md)*
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Outlook.Action.md)
 

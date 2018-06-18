@@ -31,8 +31,5 @@ The contents of the clipboard are pasted in unformatted text.
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

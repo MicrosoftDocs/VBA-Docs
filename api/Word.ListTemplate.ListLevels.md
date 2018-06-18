@@ -45,8 +45,5 @@ Next mylevel
 ## See also
 
 
-#### Concepts
-
-
 [ListTemplate Object](Word.ListTemplate.md)
 

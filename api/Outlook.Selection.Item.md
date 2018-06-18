@@ -91,8 +91,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Outlook.Selection.md)
 

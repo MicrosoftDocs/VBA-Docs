@@ -62,8 +62,5 @@ ActiveSheet.PrintOut
 ## See also
 
 
-#### Concepts
-
-
 [Worksheets Object](Excel.Worksheets.md)
 

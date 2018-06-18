@@ -88,8 +88,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

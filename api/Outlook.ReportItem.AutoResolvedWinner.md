@@ -33,8 +33,5 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Repo
 ## See also
 
 
-#### Concepts
-
-
 [ReportItem Object](Outlook.ReportItem.md)
 

@@ -50,8 +50,5 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntries Object](Excel.LegendEntries(object).md)
 

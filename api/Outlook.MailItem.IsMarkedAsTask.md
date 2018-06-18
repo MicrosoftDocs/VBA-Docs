@@ -26,8 +26,5 @@ Returns a  **Boolean** value that indicates whether the **[MailItem](Outlook.Mai
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

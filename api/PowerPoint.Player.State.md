@@ -39,8 +39,5 @@ Returns the current state of the player. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Player Object](PowerPoint.Player.md)
 

@@ -23,8 +23,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](PowerPoint.DataLabels.md)
 

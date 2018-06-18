@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the z-axis for the shape. Read/wri
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

@@ -31,8 +31,5 @@ You can use a label as a hyperlink reference from other Web pages or from within
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

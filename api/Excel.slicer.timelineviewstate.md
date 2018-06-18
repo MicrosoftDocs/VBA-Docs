@@ -29,8 +29,5 @@ The timeline-specific state of the Slicer.  **TimelineViewState** Read-only
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

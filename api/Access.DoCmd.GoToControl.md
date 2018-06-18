@@ -47,8 +47,5 @@ You can use the  **GoToControl** method to move to a subform, which is a type of
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

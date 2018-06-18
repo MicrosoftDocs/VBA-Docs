@@ -31,8 +31,5 @@ COM add-ins are listed in the  **COM Add-Ins** dialog box.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

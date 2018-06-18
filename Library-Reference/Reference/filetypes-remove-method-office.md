@@ -34,9 +34,6 @@ Removes a  **FileType** object from the collection.
 ## See also
 
 
-#### Concepts
-
-
 [FileTypes Object](filetypes-object-office.md)
 #### Other resources
 

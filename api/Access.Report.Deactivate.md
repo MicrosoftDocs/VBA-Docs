@@ -26,8 +26,5 @@ The  **Deactivate** event occurs when a report loses the focus to a Table, Query
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

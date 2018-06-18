@@ -47,7 +47,7 @@ This method returns an integer that indicates the number of units the range or s
 This example moves the end of the selection one character backward (the selection size is reduced by one character). A space is considered a character.
 
 
-```
+```vb
 Selection.MoveEnd Unit:=wdCharacter, Count:=-1
 ```
 
@@ -56,15 +56,12 @@ This example moves the end of the selection to the end of the line (the selectio
 
 
 
-```
+```vb
 Selection.MoveEnd Unit:=wdLine, Count:=1
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

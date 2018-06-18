@@ -42,8 +42,5 @@ MsgBox "The number format for cell A1 is " &; _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

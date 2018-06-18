@@ -38,8 +38,5 @@ Changing the value of this property for a given  **ContactsModule** object chang
 ## See also
 
 
-#### Concepts
-
-
 [ContactsModule Object](Outlook.ContactsModule.md)
 

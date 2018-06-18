@@ -58,8 +58,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Styles Object](Excel.Styles.md)
 

@@ -31,7 +31,4 @@ Gets a single  **Window** object from the **Windows2** collection. Read-only **W
 ## See also
 
 
-#### Concepts
-
-
 [Windows2 Collection Object](Project.windows2(object).md)

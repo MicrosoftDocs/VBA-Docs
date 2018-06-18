@@ -41,8 +41,5 @@ MsgBox Application.ProductCode
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

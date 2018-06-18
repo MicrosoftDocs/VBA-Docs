@@ -44,8 +44,5 @@ If the name of a category is specified in  _Index_, this method returns the firs
 ## See also
 
 
-#### Concepts
-
-
 [Categories Object](Outlook.Categories.md)
 

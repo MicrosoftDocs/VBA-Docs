@@ -28,7 +28,7 @@ Retrieves the count of the number of  **PickerResult** objects contained within 
 The following code displays the Picker Dialog user interface, gets results, and then enumerates those results.
 
 
-```
+```vb
 Dim objPickerDialog As PickerDialog 
 Dim objPickerProperties As PickerProperties 
 Dim objPickerProperty As PickerProperty 
@@ -59,9 +59,6 @@ Next
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PickerResults Object](pickerresults-object-office.md)

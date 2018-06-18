@@ -45,8 +45,5 @@ This property applies only to pie chart types.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](PowerPoint.Point.md)
 

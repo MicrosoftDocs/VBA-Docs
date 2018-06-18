@@ -31,8 +31,5 @@ If the application window is minimized, this property controls the position of t
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

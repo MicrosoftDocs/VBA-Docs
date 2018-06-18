@@ -48,8 +48,5 @@ If Doc.ProtectionType <> wdNoProtection Then Doc.Unprotect
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

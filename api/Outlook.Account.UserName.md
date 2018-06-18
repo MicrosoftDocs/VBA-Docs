@@ -33,8 +33,5 @@ If the account does not have a user name defined,  **UserName** returns an empty
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

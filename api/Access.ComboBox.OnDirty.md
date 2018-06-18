@@ -44,8 +44,5 @@ If the  **On Dirty** box is blank, the property value is an empty string.
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

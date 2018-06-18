@@ -36,8 +36,5 @@ Returns or sets if the fill style should rotate with the object. Read/write  **[
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

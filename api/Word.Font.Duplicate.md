@@ -47,8 +47,5 @@ Selection.Font = myDupFont
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

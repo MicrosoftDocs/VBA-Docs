@@ -47,8 +47,5 @@ blnAutoSelect = Options.AutoWordSelection
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

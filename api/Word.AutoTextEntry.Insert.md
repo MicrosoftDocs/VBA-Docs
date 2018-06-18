@@ -60,8 +60,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AutoTextEntry Object](Word.AutoTextEntry.md)
 

@@ -31,8 +31,5 @@ To support backward compatibility, the default value for this property is  **Tru
 ## See also
 
 
-#### Concepts
-
-
 [UniqueValues Object](Excel.UniqueValues.md)
 

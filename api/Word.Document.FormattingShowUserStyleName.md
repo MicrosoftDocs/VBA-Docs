@@ -31,8 +31,5 @@ This property corresponds to the  **Hide built-in name when alternate names exis
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

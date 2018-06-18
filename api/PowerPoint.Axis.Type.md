@@ -31,8 +31,5 @@ When you use this property for the horizontal axis of scatter charts,  **xlCateg
 ## See also
 
 
-#### Concepts
-
-
 [Axis Object](PowerPoint.Axis.md)
 

@@ -39,8 +39,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [ChartObjects Object](Excel.ChartObjects.md)
 

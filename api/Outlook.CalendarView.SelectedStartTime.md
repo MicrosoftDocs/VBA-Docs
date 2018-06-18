@@ -81,7 +81,7 @@ The following managed code is written in C#. To run a .NET Framework managed cod
 
 
 
-```C#
+```vbC#
 private void CreateAppointmentUsingSelectedTime() 
 { 
  DateTime dateNull = 
@@ -110,9 +110,6 @@ private void CreateAppointmentUsingSelectedTime()
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CalendarView Object](Outlook.CalendarView.md)

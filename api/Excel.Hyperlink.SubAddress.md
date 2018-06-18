@@ -36,8 +36,5 @@ Worksheets(1).Shapes(1).Hyperlink.SubAddress = "A1:B10"
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of indexes in the collection. Rea
 ## See also
 
 
-#### Concepts
-
-
 [Indexes Collection Object](Word.indexes.md)
 

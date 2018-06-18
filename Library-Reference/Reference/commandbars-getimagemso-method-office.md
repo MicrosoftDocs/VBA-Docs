@@ -54,15 +54,12 @@ The  **Width** and **Height** parameters must be between 16 and 128.
 The following sample returns a 32x32 version of the  **Paste** icon as an **IPictureDisp** object.
 
 
-```
+```vb
 Application.CommandBars.GetImageMso("Paste", 32, 32)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

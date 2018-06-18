@@ -54,9 +54,6 @@ myDocument.Shapes("WordArt 4").TextEffect.FontItalic = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 [Font Object](PowerPoint.Font.md)
 

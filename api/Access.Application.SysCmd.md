@@ -63,7 +63,7 @@ You can't set the status bar text to a zero-length string (" "). If you want to 
 
 
 
-```
+```vb
 varReturn = SysCmd(acSysCmdInitMeter, " ", 100) 
 varReturn = SysCmd(acSysCmdSetStatus, " ")
 ```
@@ -108,9 +108,6 @@ SysCmd 14, "<ActiveX Control GUID>"
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Access.Application.md)

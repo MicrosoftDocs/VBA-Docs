@@ -39,8 +39,5 @@ Range
 ## See also
 
 
-#### Concepts
-
-
 [StoryRanges Collection Object](Word.storyranges.md)
 

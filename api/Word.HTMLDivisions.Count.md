@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of HTML DIV elements in the colle
 ## See also
 
 
-#### Concepts
-
-
 [HTMLDivisions Collection](Word.HTMLDivisions.md)
 

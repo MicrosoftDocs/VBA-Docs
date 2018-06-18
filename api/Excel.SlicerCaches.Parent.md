@@ -31,8 +31,5 @@ Returns the parent  **[Workbook](Excel.Workbook.md)** object for the collection.
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCaches Object](Excel.SlicerCaches.md)
 

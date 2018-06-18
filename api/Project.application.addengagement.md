@@ -29,8 +29,5 @@ Adds a  **Resource Plan** view, enabling users to display and edit engagement da
 ## See also
 
 
-#### Concepts
-
-
 [Application Object (Project)](application-object-project.md)
 

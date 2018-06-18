@@ -19,8 +19,5 @@ A Broadcast Documents library that is used to store documents being presented.
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

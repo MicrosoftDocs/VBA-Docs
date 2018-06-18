@@ -41,8 +41,5 @@ Application.MaxChange = 0.1
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

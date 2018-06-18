@@ -26,8 +26,5 @@ Gets whether or not macros and Visual Basic for Applications (VBA) code have bee
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

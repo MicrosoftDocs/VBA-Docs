@@ -26,8 +26,5 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the spec
 ## See also
 
 
-#### Concepts
-
-
 [OLEObjects Object](Excel.OLEObjects.md)
 

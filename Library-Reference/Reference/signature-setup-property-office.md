@@ -31,9 +31,6 @@ SignatureSetup
 ## See also
 
 
-#### Concepts
-
-
 [Signature Object](signature-object-office.md)
 #### Other resources
 

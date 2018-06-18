@@ -28,7 +28,7 @@ Returns a  **String** value that represents the full version number of the Excha
 This property returns a string that contains the version number of the Exchange server for the active mailbox. The version number has the following four parts.
 
 
-```
+```vb
 <major version>.<minor version>.<build number>.<revision>
 ```
 
@@ -38,9 +38,6 @@ If an Exchange mailbox is not present in the namespace, this property returns an
 
 
 ## See also
-
-
-#### Concepts
 
 
 [NameSpace Object](Outlook.NameSpace.md)

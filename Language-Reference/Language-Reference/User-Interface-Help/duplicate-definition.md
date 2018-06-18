@@ -17,7 +17,7 @@ You can only define a [conditional compiler constant](vbe-glossary.md) to have o
 
 - You specified two different values for the same conditional compiler constant, for example:
     
-  ```
+  ```vb
   #Const Mac = 0 
 #Const Mac = 1 
 

@@ -51,7 +51,7 @@ An easy way to reuse an existing data connection is to pass the  **DataConnectio
 
 
 
-```
+```vb
 NewDataRecordset  = DataRecordsets.Add(ExistingDataRecordset .DataConnection.ID, CommandString, AddOptions, Name)
 ```
 

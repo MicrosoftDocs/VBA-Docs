@@ -39,8 +39,5 @@ Increasing the evaluation order for a field will decrease the evaluation order o
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

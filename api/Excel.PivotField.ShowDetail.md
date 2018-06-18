@@ -26,8 +26,5 @@ Gets or sets whether the specified  **[PivotField](Excel.PivotField.md)** is sho
 ## See also
 
 
-#### Concepts
-
-
 [PivotField Object](Excel.PivotField.md)
 

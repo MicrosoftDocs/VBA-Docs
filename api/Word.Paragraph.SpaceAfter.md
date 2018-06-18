@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(1).SpaceAfter = 12
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

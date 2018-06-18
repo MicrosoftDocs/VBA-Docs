@@ -35,8 +35,5 @@ Adds a tag to the  **[Tags](PowerPoint.Tags.md)** collection of an object.
 ## See also
 
 
-#### Concepts
-
-
 [Tags Object](PowerPoint.Tags.md)
 

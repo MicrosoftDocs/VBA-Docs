@@ -26,8 +26,5 @@ Goes to the previous bookmark.
 ## See also
 
 
-#### Concepts
-
-
 [Player Object](PowerPoint.Player.md)
 

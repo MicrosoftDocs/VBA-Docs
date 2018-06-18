@@ -23,8 +23,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [SeriesLines Object](PowerPoint.SeriesLines.md)
 

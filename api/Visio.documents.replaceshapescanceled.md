@@ -30,8 +30,5 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 ## See also
 
 
-#### Concepts
-
-
 [Documents Object](Visio.Documents.md)
 

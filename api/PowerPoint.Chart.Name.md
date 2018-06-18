@@ -26,8 +26,5 @@ Read/write
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

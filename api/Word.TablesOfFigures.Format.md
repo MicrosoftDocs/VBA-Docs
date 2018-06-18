@@ -26,8 +26,5 @@ Returns or sets the formatting for the tables of figures in the specified docume
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 

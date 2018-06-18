@@ -46,8 +46,5 @@ ActiveDocument.ActiveWindow.View.Type = wdNormalView
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

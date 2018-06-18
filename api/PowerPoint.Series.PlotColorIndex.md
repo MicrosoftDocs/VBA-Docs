@@ -36,8 +36,5 @@ This property is used internally by Microsoft PowerPoint and is not intended to 
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

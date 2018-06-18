@@ -49,8 +49,5 @@ Application.RecentFiles.Add Name:="Oscar.xls"
 ## See also
 
 
-#### Concepts
-
-
 [RecentFiles Object](Excel.RecentFiles.md)
 

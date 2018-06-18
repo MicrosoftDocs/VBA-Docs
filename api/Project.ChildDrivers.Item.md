@@ -31,7 +31,4 @@ Gets a single  **Task** object from the **ChildDrivers** collection. Read-only *
 ## See also
 
 
-#### Concepts
-
-
 [ChildDrivers Collection Object](Project.childdrivers.md)

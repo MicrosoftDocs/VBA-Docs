@@ -42,7 +42,7 @@ Adds a member to the list of members in a shared workspace site. Returns a  **[S
 The following example adds a new member to the members collection of the shared workspace site in the role of a site contributor.
 
 
-```
+```vb
     Dim swsMember As Office.SharedWorkspaceMember 
     Set swsMember = ActiveWorkbook.SharedWorkspace.Members.Add( _ 
         "user@domain.com", _ 
@@ -58,9 +58,6 @@ The following example adds a new member to the members collection of the shared 
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceMembers Object](sharedworkspacemembers-object-office.md)

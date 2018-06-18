@@ -26,7 +26,7 @@ The  **DocumentInspectors** collection is part of the **Document** object in Mic
 The following example calls the  **Fix** method of a Document Inspector module and displays the status of the action and the specific items that are removed.
 
 
-```
+```vb
 Public Sub FixDocument() 
 Dim docStatus As MsoDocInspectorStatus 
 Dim results As String 
@@ -41,9 +41,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)

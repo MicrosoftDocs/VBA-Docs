@@ -40,7 +40,7 @@ If the  **PresetDrop** method was previously used to set the drop for the specif
 
 
 
-```
+```vb
 PresetDrop msoCalloutDropCustom
 ```
 
@@ -68,9 +68,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CalloutFormat Object](Word.CalloutFormat.md)

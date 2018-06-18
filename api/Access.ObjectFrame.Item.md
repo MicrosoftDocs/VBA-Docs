@@ -26,8 +26,5 @@ The  **Item** property returns or sets a specific member of a collection. Read/w
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

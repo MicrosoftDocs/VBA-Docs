@@ -31,8 +31,5 @@ Interior
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

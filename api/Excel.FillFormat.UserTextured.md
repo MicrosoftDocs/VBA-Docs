@@ -44,8 +44,5 @@ Charts(2).ChartArea.Fill.UserTextured "brick.gif"
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

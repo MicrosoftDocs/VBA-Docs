@@ -80,9 +80,6 @@ For more information, including examples, about customizing explorer and inspect
 ## See also
 
 
-#### Concepts
-
-
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
  [Overview of the IRibbonUI Object](overview-of-the-iribbonui-object.md)<br>
  [Detecting Errors](detecting-errors.md)<br>

@@ -32,7 +32,7 @@ The first record or byte in a file is at position 1, the second record or byte i
 
 
 
-```
+```vb
 Put #4,,FileBuffer 
 
 ```
@@ -77,7 +77,7 @@ For files opened in  **Binary** mode, all of the **Random** rules apply, except:
     
 -  **Put** writes variable-length strings that are not elements of user-defined types without the 2-byte length descriptor. The number of bytes written equals the number of characters in the string. For example, the following statements write 10 bytes to file number 1:
     
-  ```
+  ```vb
   VarString$ = String$(10," ") 
 Put #1,,VarString$ 
 

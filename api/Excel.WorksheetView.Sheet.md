@@ -26,8 +26,5 @@ Returns the sheet name for the specified  **[WorksheetView](Excel.WorksheetView.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetView Object](Excel.WorksheetView.md)
 

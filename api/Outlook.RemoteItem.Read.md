@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.RemoteItem.Open.md)** even
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

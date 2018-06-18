@@ -17,7 +17,7 @@ The first method below,  `CreateMailItemFromAccount`, creates a  **MailItem** fo
 
 
 
-```C#
+```vbC#
 private void CreateMailItemFromAccount() 
 { 
     Outlook.AddressEntry addrEntry = null; 
@@ -66,7 +66,7 @@ The next method,  `CreateMeetingRequestFromAccount`, is similar to  `CreateMailI
 
 
 
-```C#
+```vbC#
 private void CreateMeetingRequestFromAccount() 
 { 
     Outlook.Account acct = null; 

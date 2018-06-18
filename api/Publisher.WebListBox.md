@@ -34,7 +34,7 @@ Use the  **[AddWebControl](Publisher.Shapes.AddWebControl.md)** method to create
 
 
 
-```
+```vb
 Sub CreateWebListBox() 
  Dim intCount As Integer 
  With ActiveDocument.Pages(1).Shapes 

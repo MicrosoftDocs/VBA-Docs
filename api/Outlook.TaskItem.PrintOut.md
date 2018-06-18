@@ -26,8 +26,5 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

@@ -38,15 +38,12 @@ This example returns the current status of the  **Drawing objects** option on th
 
 
 
-```
+```vb
 temp = Options.PrintDrawingObjects
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

@@ -57,8 +57,5 @@ The setting of the  **TextureAlignment** property corresponds to the setting of 
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Word.FillFormat.md)
 

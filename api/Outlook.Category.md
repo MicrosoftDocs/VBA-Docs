@@ -47,7 +47,7 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **[Categories](Outlook.NameSpace.Categories.md)** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
-```
+```vb
 Private Sub ListCategoryIDs() 
  
  Dim objNameSpace As NameSpace 

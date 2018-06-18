@@ -21,7 +21,7 @@ Represents the entire Microsoft Graph application. The  **Application** object r
 Use the  **Application** property to return the **Application** object. The following example applies the **DataSheet** property to the **Application** object.
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A1").Value = 32
 ```
 

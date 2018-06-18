@@ -59,8 +59,5 @@ Given a value for probability, NORMINV seeks that value x such that NORMDIST(x, 
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

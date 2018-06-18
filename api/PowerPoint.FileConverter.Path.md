@@ -26,8 +26,5 @@ Returns the disk or Web path to the specified object. Read-only  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](PowerPoint.FileConverter.md)
 

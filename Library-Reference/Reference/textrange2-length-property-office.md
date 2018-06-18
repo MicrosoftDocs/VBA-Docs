@@ -30,7 +30,7 @@ Long
 This example adds a shape with text and rotates the shape without rotating the text in the active PowerPoint presentation.
 
 
-```
+```vb
 Sub SetTextRange() 
  Dim shpStar As Shape 
  Dim sldOne As Slide 
@@ -60,9 +60,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextRange2 Object](textrange2-object-office.md)

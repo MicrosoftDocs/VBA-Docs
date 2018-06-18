@@ -37,8 +37,5 @@ The width of forms and reports is measured from the inside of their borders. The
 ## See also
 
 
-#### Concepts
-
-
 [Line Object](Access.Line.md)
 

@@ -95,8 +95,5 @@ The following table describes the meaning of Arg1 and Arg2 after the method retu
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](PowerPoint.Chart.md)
 

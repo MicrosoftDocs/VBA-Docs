@@ -26,7 +26,7 @@ Represents the page setup description.
 Use the  **[PageSetup](Excel.Worksheet.PageSetup.md)** property to return a **PageSetup** object. The following example sets the orientation to landscape mode and then prints the worksheet.
 
 
-```
+```vb
 With Worksheets("Sheet1") 
  .PageSetup.Orientation = xlLandscape 
  .PrintOut 
@@ -38,7 +38,7 @@ The  **With** statement makes it easier and faster to set several properties at 
 
 
 
-```
+```vb
 With Worksheets(1).PageSetup 
  .LeftMargin = Application.InchesToPoints(0.5) 
  .RightMargin = Application.InchesToPoints(0.75) 

@@ -26,8 +26,5 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](E
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](Excel.Point(objec).md)
 

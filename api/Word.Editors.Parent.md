@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Edit
 ## See also
 
 
-#### Concepts
-
-
 [Editors Collection](Word.Editors.md)
 

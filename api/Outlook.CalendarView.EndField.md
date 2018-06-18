@@ -31,8 +31,5 @@ The values of the  **[StartField](Outlook.CalendarView.StartField.md)** and **En
 ## See also
 
 
-#### Concepts
-
-
 [CalendarView Object](Outlook.CalendarView.md)
 

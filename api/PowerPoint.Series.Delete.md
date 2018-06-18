@@ -23,8 +23,5 @@ Deletes the object.
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](PowerPoint.Series.md)
 

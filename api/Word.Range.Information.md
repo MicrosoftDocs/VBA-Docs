@@ -45,8 +45,5 @@ If ActiveDocument.Words(10).Information(wdWithInTable) Then _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

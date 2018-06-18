@@ -61,8 +61,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CustomLabels Collection Object](Word.customlabels.md)
 

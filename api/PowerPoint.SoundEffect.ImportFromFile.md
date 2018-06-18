@@ -50,8 +50,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 

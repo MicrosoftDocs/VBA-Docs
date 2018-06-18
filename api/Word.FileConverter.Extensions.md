@@ -40,8 +40,5 @@ MsgBox "The file name extensions for " &; fcTemp.FormatName _
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](Word.FileConverter.md)
 

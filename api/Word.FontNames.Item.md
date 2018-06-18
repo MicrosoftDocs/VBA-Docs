@@ -39,8 +39,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [FontNames Object](Word.FontNames.md)
 

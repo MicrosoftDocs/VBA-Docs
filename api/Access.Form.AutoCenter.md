@@ -43,8 +43,5 @@ If you make any changes in Design view to a form whose  **AutoResize** property 
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

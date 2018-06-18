@@ -47,7 +47,7 @@ The  **SignatureProvider** object is used exclusively in custom signature provid
 The following example gets the hash value of a data stream.
 
 
-```
+```vb
  public Array HashStream(object queryContinue, object stream) 
  { 
  using (COMStream comstream = new COMStream(stream)) 
@@ -66,9 +66,6 @@ The following example gets the hash value of a data stream.
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureProvider Object](signatureprovider-object-office.md)

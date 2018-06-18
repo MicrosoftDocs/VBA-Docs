@@ -43,7 +43,7 @@ For example, a client program that changes the values of Visio cells may only wa
 
 
 
-```
+```vb
  
 vsoObject.QueueMarkerEvent "ScopeStart" 
  <My program changes cells here> 

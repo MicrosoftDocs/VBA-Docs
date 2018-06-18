@@ -39,7 +39,7 @@ String
 This example creates a new command bar named "Custom" and adds to it a combo box that contains four list items. The example then uses the Text property to set Item 3 as the default list item.
 
 
-```
+```vb
 Set myBar = CommandBars _ 
     .Add(Name:="Custom", Position:=msoBarTop, _ 
     Temporary:=True) 
@@ -59,9 +59,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)

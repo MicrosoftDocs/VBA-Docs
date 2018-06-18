@@ -57,7 +57,7 @@ The following syntax will return the  **Text** property of the specified control
 
 
 
-```
+```vb
 userform1.thebox.text
 
 ```
@@ -66,7 +66,7 @@ If you add a control at run time, you must use the exclamation syntax to referen
 
 
 
-```
+```vb
 userform1!thebox.text
 
 

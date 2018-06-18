@@ -45,8 +45,5 @@ The major difference between formatting a cell that contains a number with the  
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

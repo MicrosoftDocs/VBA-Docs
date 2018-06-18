@@ -21,7 +21,7 @@ Used as a container for Microsoft Excel worksheet functions that can be called f
 Use the  **[WorksheetFunction](Excel.Application.WorksheetFunction.md)** property to return the **WorksheetFunction** object. The following example displays the result of applying the **Min** worksheet function to the range A1:C10.
 
 
-```
+```vb
 Set myRange = Worksheets("Sheet1").Range("A1:C10") 
 answer = Application.WorksheetFunction.Min(myRange) 
 MsgBox answer
@@ -34,7 +34,7 @@ This example uses the  **CountA** worksheet function to determine how many cells
 
 
 
-```
+```vb
 Sub StartSpelling()
    'Set up your variables
    Dim iRow As Integer

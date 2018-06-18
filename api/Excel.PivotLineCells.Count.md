@@ -26,8 +26,5 @@ Returns the number of items in the  **PivotLineCells** collection. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [PivotLineCells Object](Excel.PivotLineCells.md)
 

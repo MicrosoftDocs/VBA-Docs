@@ -42,8 +42,5 @@ ActiveWorkbook.PublishObjects(1).FileName = _
 ## See also
 
 
-#### Concepts
-
-
 [Graphic Object](Excel.Graphic.md)
 

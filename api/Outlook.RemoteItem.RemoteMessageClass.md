@@ -26,8 +26,5 @@ Returns a  **String** indicating the message class for the remote item. Read-onl
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

@@ -36,8 +36,5 @@ Copies the selected object to the Clipboard as a picture.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

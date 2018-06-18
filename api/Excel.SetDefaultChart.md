@@ -27,7 +27,7 @@ Specifies the name of the chart template that Microsoft Graph will use when crea
 This example sets the default chart template to the custom autoformat named "Monthly Sales."
 
 
-```
+```vb
 myChart.Application.SetDefaultChart FormatName:="Monthly Sales"
 ```
 

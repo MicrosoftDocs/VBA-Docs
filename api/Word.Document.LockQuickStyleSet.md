@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether users can change which se
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

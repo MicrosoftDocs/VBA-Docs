@@ -69,8 +69,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Conversation Object](Outlook.Conversation.md)
 

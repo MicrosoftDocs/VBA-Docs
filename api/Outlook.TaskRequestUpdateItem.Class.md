@@ -26,8 +26,5 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 

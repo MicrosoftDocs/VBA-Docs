@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** that rep
 ## See also
 
 
-#### Concepts
-
-
 [OMathEqArray Object](Word.OMathEqArray.md)
 

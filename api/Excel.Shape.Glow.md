@@ -31,8 +31,5 @@ The glow effect adds a vibrant colored edge to graphics.
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

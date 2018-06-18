@@ -26,8 +26,5 @@ Returns an  **[XlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that
 ## See also
 
 
-#### Concepts
-
-
 [Filter Object](Excel.Filter.md)
 

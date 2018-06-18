@@ -26,8 +26,5 @@ Removes the specified data binding.
 ## See also
 
 
-#### Concepts
-
-
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 

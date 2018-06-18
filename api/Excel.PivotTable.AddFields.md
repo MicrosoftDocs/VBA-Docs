@@ -62,8 +62,5 @@ Worksheets("Sheet1").PivotTables(1).AddFields _
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

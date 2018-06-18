@@ -36,8 +36,5 @@ MsgBox "And the answer is... " &; Selection.Calculate
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

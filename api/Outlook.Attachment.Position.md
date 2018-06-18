@@ -35,8 +35,5 @@ The only item that allows programmatic setting of the  **BodyFormat** property i
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Outlook.Attachment.md)
 

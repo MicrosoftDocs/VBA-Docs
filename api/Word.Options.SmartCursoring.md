@@ -43,8 +43,5 @@ Options.SmartCursoring = False
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

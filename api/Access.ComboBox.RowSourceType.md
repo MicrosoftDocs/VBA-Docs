@@ -58,8 +58,5 @@ Forms!Employees!cmboNames.RowSource = "EmployeeList"
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

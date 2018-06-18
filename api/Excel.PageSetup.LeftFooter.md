@@ -26,8 +26,5 @@ Returns or sets the alignment of text on the left footer of a workbook or sectio
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

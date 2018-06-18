@@ -41,7 +41,7 @@ Nothing
 The following code make a built-in tab as specified by the control ID the active tab.
 
 
-```
+```vb
 Public myRibbon As IRibbonUI 
  
 Sub tabActivate(ByVal control As IRibbonControl) 
@@ -51,9 +51,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [IRibbonUI Object](iribbonui-object-office.md)

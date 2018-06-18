@@ -39,8 +39,5 @@ This property can be set only in Design view.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

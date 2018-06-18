@@ -33,8 +33,5 @@ Microsoft Excel will change the row height of the range, if necessary, to accomm
 ## See also
 
 
-#### Concepts
-
-
 [CellFormat Object](Excel.CellFormat.md)
 

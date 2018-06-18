@@ -35,8 +35,5 @@ Converts rows in a table to text and returns a  **Range** object that represents
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

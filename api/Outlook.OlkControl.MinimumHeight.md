@@ -31,8 +31,5 @@ Returns or sets a  **Long** that specifies the minimum height the control can be
 ## See also
 
 
-#### Concepts
-
-
 [OlkControl Class](Outlook.olkcontrol.md)
 

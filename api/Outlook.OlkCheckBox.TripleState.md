@@ -31,8 +31,5 @@ If this property is  **True** , the check box clicks through the three states. I
 ## See also
 
 
-#### Concepts
-
-
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 

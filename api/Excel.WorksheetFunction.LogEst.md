@@ -86,8 +86,5 @@ For more information about additional regression statistics, see LINEST.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

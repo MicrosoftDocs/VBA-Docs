@@ -38,7 +38,7 @@ If the property is invalid, the test fails and an error message is returned. The
 In the following example, a  **MetaProperties** object is passed to a validation function. The function then validates the value of a single property represented by its index and returns the result.
 
 
-```
+```vb
 Function ValidateMetaProperty(ByVal metaProps As MetaProperties) As String 
 Dim result As String 
  
@@ -49,9 +49,6 @@ End Function
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MetaProperty Object](metaproperty-object-office.md)

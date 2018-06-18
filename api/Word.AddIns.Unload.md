@@ -49,8 +49,5 @@ If AddIns.Count > 0 Then AddIns.UnLoad RemoveFromList:=False
 ## See also
 
 
-#### Concepts
-
-
 [AddIns Collection Object](Word.addins.md)
 

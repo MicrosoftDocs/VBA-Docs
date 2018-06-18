@@ -60,8 +60,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 

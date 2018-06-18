@@ -28,9 +28,6 @@ Object
 ## See also
 
 
-#### Concepts
-
-
 [Crop Object](crop-object-office.md)
 #### Other resources
 

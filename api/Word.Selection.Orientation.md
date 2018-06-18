@@ -33,8 +33,5 @@ You can set the orientation for a text frame or for a selection that happens to 
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

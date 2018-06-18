@@ -22,7 +22,7 @@ The required  _constant_ argument consists of 4 characters used to specify a res
 
 
 
-```
+```vb
 Dir("SomePath", MacID("TEXT"))
 
 

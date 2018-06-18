@@ -39,8 +39,5 @@ When you open a modal window, other windows in Microsoft Access are disabled unt
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

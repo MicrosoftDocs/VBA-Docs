@@ -24,7 +24,7 @@ Use the various border properties of the  **Cell** object to return the differen
 
  
 
-```
+```vb
 Dim cbTemp As CellBorder 
  
 Set cbTemp = ActiveDocument.Pages(1) _ 
@@ -38,7 +38,7 @@ Use the  **[Color](Publisher.CellBorder.Color.md)** and **[Weight](Publisher.Cel
 
 
 
-```
+```vb
 Dim cbTemp As CellBorder 
  
 Set cbTemp = ActiveDocument.Pages(1) _ 

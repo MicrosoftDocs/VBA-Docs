@@ -62,8 +62,5 @@ Microsoft Excel stores dates as sequential serial numbers so they can be used in
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

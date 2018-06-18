@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that indicates if Microsoft Excel wraps the
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

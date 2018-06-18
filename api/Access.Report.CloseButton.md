@@ -43,8 +43,5 @@ You can also close the form by pressing ALT+F4.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

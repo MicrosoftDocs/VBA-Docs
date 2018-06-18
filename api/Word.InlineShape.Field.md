@@ -49,8 +49,5 @@ MsgBox iShapeNew.Field.Code.Text
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

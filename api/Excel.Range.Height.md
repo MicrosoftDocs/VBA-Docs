@@ -26,8 +26,5 @@ Returns or sets a  **Variant** value that represents the height, in points, of t
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

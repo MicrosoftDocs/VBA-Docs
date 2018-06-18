@@ -31,8 +31,5 @@ This property must be coordinated with other properties when setting up a recurr
 ## See also
 
 
-#### Concepts
-
-
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

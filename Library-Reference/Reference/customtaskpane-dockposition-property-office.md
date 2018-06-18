@@ -38,9 +38,6 @@ The value of this property can be set to one of the following  **MsoCTPDockPosit
 ## See also
 
 
-#### Concepts
-
-
 [CustomTaskPane Object](customtaskpane-object-office.md)
 #### Other resources
 

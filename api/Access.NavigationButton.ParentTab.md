@@ -31,8 +31,5 @@ The  **ParentTab** propety will return a run-time error if the specified navigat
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

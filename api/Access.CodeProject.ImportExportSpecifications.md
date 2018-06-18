@@ -26,8 +26,5 @@ Returns a  **[ImportExportSpecifications](Access.ImportExportSpecifications.md)*
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

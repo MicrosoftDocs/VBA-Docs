@@ -34,7 +34,7 @@ For an example that demonstrates how to add a  **ScopeFolder** to the **SearchFo
 Use the  **ScopeFolder** property of the **SearchScope** object to return the root **ScopeFolder** object of a search scope; for example:
 
 
-```
+```vb
 Set sf = SearchScopes.Item(1).ScopeFolder
 ```
 
@@ -43,7 +43,7 @@ Use the  **Item** method of the **ScopeFolders** collection to return a subfolde
 
 
 
-```
+```vb
 Set sf = SearchScopes.Item(1).ScopeFolder.ScopeFolders.Item(1)
 ```
 
@@ -52,7 +52,7 @@ The following example displays the root path of each directory in My Computer. T
 
 
 
-```
+```vb
 Sub DisplayRootScopeFolders() 
  
  'Declare variables that reference a 

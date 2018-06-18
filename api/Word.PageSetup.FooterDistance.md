@@ -37,15 +37,12 @@ This example sets the distance between the footer and the bottom of the page for
 
 
 
-```
+```vb
 Selection.Range.PageSetup.FooterDistance = 72
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PageSetup Object](Word.PageSetup.md)

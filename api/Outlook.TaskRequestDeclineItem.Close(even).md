@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.TaskRequestDeclineItem.Close(method).md)** met
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

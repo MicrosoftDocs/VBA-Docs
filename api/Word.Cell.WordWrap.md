@@ -36,8 +36,5 @@ ActiveDocument.Tables(1).Range.Cells(3).WordWrap = True
 ## See also
 
 
-#### Concepts
-
-
 [Cell Object](Word.Cell.md)
 

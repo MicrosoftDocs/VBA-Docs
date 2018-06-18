@@ -31,7 +31,7 @@ The following properties for returning a  **Range** object are described in this
 Use  **Range**( _arg_), where  _arg_ is the name of the range, to return a **Range** object that represents a single cell or a range of cells. The following example places the value of cell A1 in cell A5.
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A5").Value = _ 
     myChart.Application.DataSheet.Range("A1").Value
 ```
@@ -41,7 +41,7 @@ The following example fills the range A1:H8 with the value 20.
 
 
 
-```
+```vb
 myChart.Application.DataSheet.Range("A1:H8").Value = 20
 ```
 
@@ -51,7 +51,7 @@ myChart.Application.DataSheet.Range("A1:H8").Value = 20
 Use  **Cells**( _row_,  _column_), where  _row_ is the row's index number and _column_ is the column's index number, to return a single cell. The following example sets the value of cell A1 to 24 (column A is the second column on the datasheet, and row 1 is the second row on the datasheet).
 
 
-```
+```vb
 myChart.Application.DataSheet.Cells(2, 2).Value = 24
 ```
 
@@ -80,7 +80,7 @@ Use  _expression_. **Cells**( _row_,  _column_), where  _expression_ is an expre
 
 
 
-```
+```vb
 myChart.Application.Range("C5:C10").Cells(1, 1).Value = 35
 ```
 

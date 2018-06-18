@@ -36,7 +36,7 @@ Displays a dialog box that allows users to select which signature certificate to
 The following example displays a dialog box that allows the user to select a digital certificate.
 
 
-```
+```vb
 Sub SelectDigCertificate(ByVal intHwnd As Long) 
 Dim objSignatureInfo As SignatureInfo 
 Dim objDialog As Object 
@@ -48,9 +48,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SignatureInfo Object](signatureinfo-object-office.md)

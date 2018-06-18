@@ -51,8 +51,5 @@ Next fcLoop
 ## See also
 
 
-#### Concepts
-
-
 [FileConverter Object](Word.FileConverter.md)
 

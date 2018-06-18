@@ -44,8 +44,5 @@ Application.Quit
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

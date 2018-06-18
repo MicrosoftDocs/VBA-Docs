@@ -59,8 +59,5 @@ The following table contains examples of  **HyperlinkAddress** and **HyperlinkSu
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

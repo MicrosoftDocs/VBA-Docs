@@ -31,8 +31,5 @@ A message is always created and submitted in a folder, usually the  **Outbox**.
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

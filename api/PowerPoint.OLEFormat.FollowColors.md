@@ -56,8 +56,5 @@ ActivePresentation.Slides(1).Shapes(2).OLEFormat.FollowColors = ppFollowColorsTe
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](PowerPoint.OLEFormat.md)
 

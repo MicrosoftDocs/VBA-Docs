@@ -37,8 +37,5 @@ myRange.Copy
 ## See also
 
 
-#### Concepts
-
-
 [Endnote Object](Word.Endnote.md)
 

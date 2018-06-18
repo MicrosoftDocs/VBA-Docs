@@ -49,8 +49,5 @@ ActiveChart.ShowLegendFieldButtons = True
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

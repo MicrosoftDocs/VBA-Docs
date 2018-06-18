@@ -39,8 +39,5 @@ The  **GetCalendarExporter** method automatically sets the defaults for the **Ca
 ## See also
 
 
-#### Concepts
-
-
 [Folder Object](Outlook.Folder.md)
 

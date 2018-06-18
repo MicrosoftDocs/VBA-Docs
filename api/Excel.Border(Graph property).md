@@ -25,7 +25,7 @@ Returns a Border object that represents the border of the specified object. Read
 This example sets the color of the chart area border to red.
 
 
-```
+```vb
 myChart.ChartArea.Border.ColorIndex = 3
 ```
 

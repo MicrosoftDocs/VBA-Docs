@@ -31,8 +31,5 @@ The name of a  **[Font](Excel.Font(objec).md)** object is a **String** .
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Excel.Font(objec).md)
 

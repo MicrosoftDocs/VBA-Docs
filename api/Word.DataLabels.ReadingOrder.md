@@ -26,8 +26,5 @@ Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that r
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](Word.DataLabels.md)
 

@@ -39,8 +39,5 @@ myRange.ListFormat.ConvertNumbersToText wdNumberParagraph
 ## See also
 
 
-#### Concepts
-
-
 [ListFormat Object](Word.ListFormat.md)
 

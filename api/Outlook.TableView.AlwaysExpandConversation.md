@@ -33,8 +33,5 @@ The  **AlwaysExpandConversation** property is analogous to selecting **Always Ex
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

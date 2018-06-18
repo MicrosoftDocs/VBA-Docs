@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [System Object](Word.System.md)
 

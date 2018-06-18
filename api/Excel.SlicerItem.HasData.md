@@ -38,8 +38,5 @@ This property is only supported when cross filtering is turned on, and will gene
 ## See also
 
 
-#### Concepts
-
-
 [SlicerItem Object](Excel.SlicerItem.md)
 

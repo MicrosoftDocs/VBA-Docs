@@ -53,8 +53,5 @@ ActivePresentation.Slides.InsertFromFile _
 ## See also
 
 
-#### Concepts
-
-
 [Slides Object](PowerPoint.Slides.md)
 

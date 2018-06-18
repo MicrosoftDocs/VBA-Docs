@@ -40,8 +40,5 @@ The state of the modifier keys ( **SHIFT**,  **CTRL**, or  **ALT**) that are pre
 ## See also
 
 
-#### Concepts
-
-
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 

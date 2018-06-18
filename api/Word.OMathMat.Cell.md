@@ -35,8 +35,5 @@ Returns an  **[OMath](Word.OMath.md)** object that represents a cell in a matrix
 ## See also
 
 
-#### Concepts
-
-
 [OMathMat Object](Word.OMathMat.md)
 

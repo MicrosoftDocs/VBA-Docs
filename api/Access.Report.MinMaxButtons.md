@@ -41,8 +41,5 @@ You can set the  **MinMaxButtons** property only in form Design view.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

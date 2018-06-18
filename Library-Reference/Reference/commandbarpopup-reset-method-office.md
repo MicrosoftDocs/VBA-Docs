@@ -36,7 +36,7 @@ Resetting a built-in control restores the actions originally intended for the co
 The following example searches all command bars for a CommandBarPopup object whose tag is "Graphics" and then resets it to its default state.
 
 
-```
+```vb
 Set myControl = Application.CommandBars.FindControl _ 
 (Type:=msoControlPopup, Tag:="Graphics")  
 myControl.Reset 
@@ -45,9 +45,6 @@ myControl.Reset
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBarPopup Object](commandbarpopup-object-office.md)

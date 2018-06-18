@@ -56,8 +56,5 @@ Forms("Mailing List").Controls("TabCtl1").Style = 1
 ## See also
 
 
-#### Concepts
-
-
 [TabControl Object](Access.TabControl.md)
 

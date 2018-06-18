@@ -36,8 +36,5 @@ ActiveDocument.Range.ParagraphFormat.SpaceBefore = 12
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

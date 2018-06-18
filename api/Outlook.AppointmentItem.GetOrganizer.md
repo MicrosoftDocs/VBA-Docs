@@ -31,8 +31,5 @@ An  **AddressEntry** object that represents the organizer of the **AppointmentIt
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

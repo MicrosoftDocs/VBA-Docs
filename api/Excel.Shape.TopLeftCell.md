@@ -26,8 +26,5 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the cell th
 ## See also
 
 
-#### Concepts
-
-
 [Shape Object](Excel.Shape.md)
 

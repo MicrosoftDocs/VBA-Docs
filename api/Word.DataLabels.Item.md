@@ -55,8 +55,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [DataLabels Object](Word.DataLabels.md)
 

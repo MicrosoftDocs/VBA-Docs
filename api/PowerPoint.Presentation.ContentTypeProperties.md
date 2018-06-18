@@ -36,8 +36,5 @@ For more information about Content Types, see [Introduction to Content Types](ht
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

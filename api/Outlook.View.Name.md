@@ -26,8 +26,5 @@ Returns or sets a  **String** value that represents the display name for the obj
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Outlook.View.md)
 

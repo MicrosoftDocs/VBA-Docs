@@ -56,8 +56,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Word.Column.md)
 

@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [RGBColor Object](PowerPoint.RGBColor.md)
 

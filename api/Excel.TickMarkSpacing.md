@@ -26,7 +26,7 @@ Use the  **[MajorUnit](Excel.MajorUnit.md)** and  **[MinorUnit](Excel.MinorUnit.
 This example sets the number of categories between tick marks on the category axis.
 
 
-```
+```vb
 myChart.Axes(xlCategory).TickMarkSpacing = 10
 ```
 

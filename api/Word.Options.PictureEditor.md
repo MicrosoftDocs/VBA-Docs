@@ -35,7 +35,7 @@ If the name of your graphics application doesn't appear in the list, contact the
 This example sets the application used to edit pictures.
 
 
-```
+```vb
 Options.PictureEditor = "Microsoft Word"
 ```
 
@@ -50,9 +50,6 @@ MsgBox Options.PictureEditor
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

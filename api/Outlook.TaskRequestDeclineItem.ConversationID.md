@@ -35,8 +35,5 @@ If the  **TaskRequestDeclineItem** object is created in a version of Microsoft O
 ## See also
 
 
-#### Concepts
-
-
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

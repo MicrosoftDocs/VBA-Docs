@@ -40,8 +40,5 @@ Inserts a chart directly onto the grid.
 ## See also
 
 
-#### Concepts
-
-
 [Charts Collection](Excel.Charts.md)
 

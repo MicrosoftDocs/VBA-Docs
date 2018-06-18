@@ -39,8 +39,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 

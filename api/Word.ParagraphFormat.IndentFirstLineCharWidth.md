@@ -36,15 +36,12 @@ Indents the first line of one or more paragraphs by a specified number of charac
 This example indents the first line of the first paragraph in the active document by 10 characters.
 
 
-```
+```vb
 Selection.ParagraphFormat.IndentFirstLineCharWidth 10
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)

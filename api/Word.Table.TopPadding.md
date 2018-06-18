@@ -42,8 +42,5 @@ ActiveDocument.Tables(1).TopPadding = _
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](Word.Table.md)
 

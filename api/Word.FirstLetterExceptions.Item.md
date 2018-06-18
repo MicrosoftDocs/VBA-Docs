@@ -39,8 +39,5 @@ FirstLetterException
 ## See also
 
 
-#### Concepts
-
-
 [FirstLetterExceptions Collection Object](Word.firstletterexceptions.md)
 

@@ -28,7 +28,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 ## See also
 
 
-#### Concepts
-
-
 [Windows2 Collection Object](Project.windows2(object).md)

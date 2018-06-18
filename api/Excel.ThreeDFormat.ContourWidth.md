@@ -23,8 +23,5 @@ Returns or sets the contour width for a  **ThreeDFormat** object. Read/write **S
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

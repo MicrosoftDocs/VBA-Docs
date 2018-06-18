@@ -26,8 +26,5 @@ Returns or sets if the Column Stripes table style is used for the specified  **L
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

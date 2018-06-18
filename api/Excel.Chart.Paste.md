@@ -45,8 +45,5 @@ Charts("Chart1").Paste
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

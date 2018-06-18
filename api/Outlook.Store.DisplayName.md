@@ -33,8 +33,5 @@ Returns a  **String** representing the display name of the **[Store](Outlook.Sto
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

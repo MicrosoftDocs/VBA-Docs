@@ -26,8 +26,5 @@ Returns the  **[FormDescription](Outlook.FormDescription.md)** object that repre
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

@@ -23,8 +23,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 

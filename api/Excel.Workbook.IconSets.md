@@ -36,8 +36,5 @@ Selection.AutoFilter Field:=1, Criteria1:=ActiveWorkbook.IconSets(xl3Arrows).Ite
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

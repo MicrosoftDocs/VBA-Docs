@@ -28,7 +28,7 @@ Returns the path to the Library folder, but without the final separator. Read-on
 This example opens the file Oscar.xla in the Library folder.
 
 
-```
+```vb
 pathSep = Application.PathSeparator 
 f = Application.LibraryPath &; pathSep &; "Oscar.Xla" 
 Workbooks.Open filename:=f
@@ -36,9 +36,6 @@ Workbooks.Open filename:=f
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Excel.Application(objec).md)

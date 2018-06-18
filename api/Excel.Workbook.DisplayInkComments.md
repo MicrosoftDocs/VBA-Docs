@@ -26,8 +26,5 @@ A  **Boolean** value that determines whether ink comments are displayed in the w
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

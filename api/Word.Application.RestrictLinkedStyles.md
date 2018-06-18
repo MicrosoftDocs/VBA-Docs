@@ -31,8 +31,5 @@ Linked styles are styles that can be applied either as character styles or as pa
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

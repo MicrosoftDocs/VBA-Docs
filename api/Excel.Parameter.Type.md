@@ -26,8 +26,5 @@ Returns a  **[XlParameterType](Excel.XlParameterType.md)** value that represents
 ## See also
 
 
-#### Concepts
-
-
 [Parameter Object](Excel.Parameter.md)
 

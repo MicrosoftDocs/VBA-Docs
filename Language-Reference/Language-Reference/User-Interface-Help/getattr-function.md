@@ -38,7 +38,7 @@ To determine which attributes are set, use the  **And** operator to perform a[bi
 
 
 
-```
+```vb
 Result = GetAttr(FName) And vbArchive
 ```
 

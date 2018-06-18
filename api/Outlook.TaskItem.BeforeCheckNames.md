@@ -49,8 +49,5 @@ The event does not fire under the following circumstances:
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

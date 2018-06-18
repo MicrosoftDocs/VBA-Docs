@@ -54,8 +54,5 @@ OLEobj.AnimationSettings.PlaySettings.RewindMovie = msoTrue
 ## See also
 
 
-#### Concepts
-
-
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 

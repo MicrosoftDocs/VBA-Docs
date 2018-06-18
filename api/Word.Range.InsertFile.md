@@ -49,8 +49,5 @@ ActiveDocument.Range.InsertFile FileName:="C:\TEST.DOC", Link:=True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

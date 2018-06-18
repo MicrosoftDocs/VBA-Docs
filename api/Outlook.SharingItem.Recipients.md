@@ -31,8 +31,5 @@ A recipient can be specified by a string representing the recipient's display na
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

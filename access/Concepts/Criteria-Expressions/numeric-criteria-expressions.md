@@ -17,7 +17,7 @@ Suppose that you are performing the [Application.DLookup Method (Access)](applic
 
 
 
-```
+```vb
 =DLookup("[LastName]", "Employees", "[EmployeeID] = 7")
 ```
 

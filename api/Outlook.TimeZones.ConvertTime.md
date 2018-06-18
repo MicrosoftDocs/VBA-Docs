@@ -41,8 +41,5 @@ A  **Date** value that represents the date and time expressed in the _Destinatio
 ## See also
 
 
-#### Concepts
-
-
 [TimeZones Object](Outlook.TimeZones.md)
 

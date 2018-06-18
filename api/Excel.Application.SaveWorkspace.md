@@ -34,8 +34,5 @@ This object, member, or enumeration is deprecated and is not intended to be used
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

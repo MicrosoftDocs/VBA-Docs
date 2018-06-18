@@ -34,8 +34,5 @@ In some cases, Word loses the formatting at the Insertion Point after running ot
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

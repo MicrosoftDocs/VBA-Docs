@@ -77,8 +77,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Printer Object](Access.Printer.md)
 

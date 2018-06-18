@@ -36,8 +36,5 @@ Worksheets("Sheet1").Rows(1).UseStandardHeight = True
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

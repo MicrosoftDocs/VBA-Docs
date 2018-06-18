@@ -57,8 +57,5 @@ The  **GetTemporaryFilePath** method is only valid for those attachments whose *
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Outlook.Attachment.md)
 

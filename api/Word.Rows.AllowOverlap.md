@@ -53,8 +53,5 @@ ActiveDocument.Shapes(1).WrapFormat.AllowOverlap = True
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

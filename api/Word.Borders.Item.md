@@ -52,8 +52,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection Object](Word.borders.md)
 

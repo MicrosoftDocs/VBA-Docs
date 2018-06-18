@@ -26,8 +26,5 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 ## See also
 
 
-#### Concepts
-
-
 [NoteItem Object](Outlook.NoteItem.md)
 

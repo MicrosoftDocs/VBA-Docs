@@ -37,8 +37,5 @@ Forms.Item("Suppliers").Controls.Item("Label20").Hyperlink. _
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Access.Hyperlink.md)
 

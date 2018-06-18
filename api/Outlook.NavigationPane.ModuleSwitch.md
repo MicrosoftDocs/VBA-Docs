@@ -34,8 +34,5 @@ Occurs after the selection changes for a navigation module in the  **[Navigation
 ## See also
 
 
-#### Concepts
-
-
 [NavigationPane Object](Outlook.NavigationPane.md)
 

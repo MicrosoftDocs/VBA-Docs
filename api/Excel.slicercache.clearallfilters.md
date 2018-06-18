@@ -29,8 +29,5 @@ Clears the filter for either slicer or timeline, depending on the slicer cache t
 ## See also
 
 
-#### Concepts
-
-
 [SlicerCache Object](Excel.SlicerCache.md)
 

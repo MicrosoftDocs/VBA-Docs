@@ -44,8 +44,5 @@ ActiveDocument.Shapes("co1").Callout.Angle = msoCalloutAngle90
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Word.CalloutFormat.md)
 

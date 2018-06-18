@@ -39,7 +39,7 @@ Use  **Trendlines**( _index_), where  _index_ is the trendline's index number, t
 
 
 
-```
+```vb
 myChart.SeriesCollection(1).Trendlines(1).Type = xlMovingAvg
 ```
 

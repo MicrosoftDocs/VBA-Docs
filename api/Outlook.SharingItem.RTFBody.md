@@ -31,8 +31,5 @@ You can use the  **StrConv** function in Microsoft Visual Basic for Applications
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -81,8 +81,5 @@ When you specify an item in a recurring appointment or task as an argument to th
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

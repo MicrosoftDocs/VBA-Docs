@@ -41,8 +41,5 @@ An  **OrderField** object that represents the new order field.
 ## See also
 
 
-#### Concepts
-
-
 [OrderFields Object](Outlook.OrderFields.md)
 

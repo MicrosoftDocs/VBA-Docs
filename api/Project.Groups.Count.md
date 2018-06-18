@@ -89,7 +89,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Groups Collection Object](Project.groups.md)

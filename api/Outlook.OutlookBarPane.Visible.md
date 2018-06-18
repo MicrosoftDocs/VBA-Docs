@@ -53,8 +53,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [OutlookBarPane Object](Outlook.OutlookBarPane.md)
 

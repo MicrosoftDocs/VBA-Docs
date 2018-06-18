@@ -26,8 +26,5 @@ Indicates the  **DPI Scale Factor**, used for optimizing scale settings. Introdu
 ## See also
 
 
-#### Concepts
-
-
 [Application Object (Project)](application-object-project.md)
 

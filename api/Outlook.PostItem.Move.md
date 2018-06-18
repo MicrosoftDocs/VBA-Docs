@@ -39,8 +39,5 @@ An  **Object** value that represents the item which has been moved to the design
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

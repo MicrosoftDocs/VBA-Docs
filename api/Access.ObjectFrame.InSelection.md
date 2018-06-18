@@ -67,8 +67,5 @@ End Function
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

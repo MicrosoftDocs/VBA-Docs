@@ -26,8 +26,5 @@ Returns a [LineFormat](Word.LineFormat.md) object that specifies the formatting 
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

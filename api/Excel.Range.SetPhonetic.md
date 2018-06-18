@@ -41,8 +41,5 @@ ActiveSheet.Range("A1:A10").SetPhonetic
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

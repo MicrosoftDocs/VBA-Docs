@@ -62,8 +62,5 @@ Application.MailingLabel.CreateNewDocument _
 ## See also
 
 
-#### Concepts
-
-
 [MailingLabel Object](Word.MailingLabel.md)
 

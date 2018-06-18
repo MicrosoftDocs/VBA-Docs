@@ -26,8 +26,5 @@ Deletes the specified column.
 ## See also
 
 
-#### Concepts
-
-
 [Column Object](Word.Column.md)
 

@@ -26,8 +26,5 @@ Deletes the specified table of figures.
 ## See also
 
 
-#### Concepts
-
-
 [TableOfFigures Object](Word.TableOfFigures.md)
 

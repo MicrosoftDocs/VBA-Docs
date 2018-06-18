@@ -25,7 +25,7 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 The following code shows how to set a left-aligned tab stop at 2 inches (144 points) for the text in shape one on slide one in the active presentation.
 
 
-```
+```vb
 Dim pptSlide As Slide 
 Set pptSlide = ActivePresentation.Slides(1) 
 pptSlide.Shapes(1).TextFrame2.Ruler.TabStops.Add ppTabStopLeft, 144 
@@ -34,9 +34,6 @@ pptSlide.Shapes(1).TextFrame2.Ruler.TabStops.Add ppTabStopLeft, 144
 
 
 ## See also
-
-
-#### Concepts
 
 
 [TextFrame2 Object](textframe2-object-office.md)

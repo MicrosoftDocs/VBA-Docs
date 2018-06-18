@@ -62,8 +62,5 @@ Worksheets("Sheet1").Scenarios.Add Name:="Best Case", _
 ## See also
 
 
-#### Concepts
-
-
 [Scenarios Object](Excel.Scenarios.md)
 

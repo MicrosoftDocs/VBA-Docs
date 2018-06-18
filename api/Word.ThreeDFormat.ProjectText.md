@@ -26,8 +26,5 @@ Returns or sets an  **MsoTriState** constant that represents whether text on a s
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

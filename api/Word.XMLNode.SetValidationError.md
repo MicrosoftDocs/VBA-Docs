@@ -55,8 +55,5 @@ objNode.SetValidationError wdXMLValidationStatusCustom, _
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

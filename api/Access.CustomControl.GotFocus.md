@@ -99,8 +99,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

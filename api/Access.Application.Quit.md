@@ -34,8 +34,5 @@ The [Quit](Access.Application.Quit.md) method quits Microsoft Access. You can se
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

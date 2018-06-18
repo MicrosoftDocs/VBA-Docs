@@ -81,8 +81,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Row Object](Outlook.Row.md)
 

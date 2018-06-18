@@ -59,8 +59,5 @@ The following sample code uses the  **SeriesNameLevel** property to set the char
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

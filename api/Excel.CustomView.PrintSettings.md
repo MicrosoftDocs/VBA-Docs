@@ -47,8 +47,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [CustomView Object](Excel.CustomView.md)
 

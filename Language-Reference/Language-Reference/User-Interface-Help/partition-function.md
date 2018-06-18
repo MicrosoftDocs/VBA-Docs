@@ -45,7 +45,7 @@ If any of the parts is [Null](vbe-glossary.md),  **Partition** returns a **Null*
 This example assumes you have an Orders table that contains a Freight field. It creates a select procedure that counts the number of orders for which freight cost falls into each of several ranges. The  **Partition** function is used first to establish these ranges, then the SQL Count function counts the number of orders in each range. In this example, the arguments to the **Partition** function are _start_ = 0, _stop_ = 500, _interval_ = 50. The first range would therefore be 0:49, and so on up to 500.
 
 
-```sql
+```vbsql
 SELECT DISTINCTROW Partition([freight],0, 500, 50) AS Range,
 Count(Orders.Freight) AS Count
 FROM Orders

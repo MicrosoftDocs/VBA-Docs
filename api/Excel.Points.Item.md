@@ -50,8 +50,5 @@ Worksheets(1).ChartObjects(1).Chart. _
 ## See also
 
 
-#### Concepts
-
-
 [Points Object](Excel.Points(object).md)
 

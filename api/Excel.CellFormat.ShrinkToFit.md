@@ -31,8 +31,5 @@ This property returns  **True** if text automatically shrinks to fit in the avai
 ## See also
 
 
-#### Concepts
-
-
 [CellFormat Object](Excel.CellFormat.md)
 

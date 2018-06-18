@@ -41,8 +41,5 @@ Set myFrame = ActiveDocument.Frames.Add(Range:=Selection.Range)
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

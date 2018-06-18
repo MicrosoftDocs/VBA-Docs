@@ -72,8 +72,5 @@ ActiveDocument.Words(4).Borders(wdBorderTop) _
 ## See also
 
 
-#### Concepts
-
-
 [Border Object](Word.Border.md)
 

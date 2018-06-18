@@ -31,8 +31,5 @@ The  **Tag** property is different from the **Title** property in that a tag is 
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

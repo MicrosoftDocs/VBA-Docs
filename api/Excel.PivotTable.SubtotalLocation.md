@@ -39,8 +39,5 @@ The  **SubtotalLocation** method sets the **LayoutSubtotalLocation** property fo
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

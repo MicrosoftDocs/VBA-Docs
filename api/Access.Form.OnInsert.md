@@ -56,8 +56,5 @@ Debug.Print Forms("Order Entry").OnInsert
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

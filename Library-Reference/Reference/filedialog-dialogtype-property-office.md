@@ -28,7 +28,7 @@ Gets an  **MsoFileDialogType** constant representing the type of file dialog box
 The following example takes a  **FileDialog** object of an unknown type and runs the **Execute** method if it is a **SaveAs** dialog box or an **Open** dialog box.
 
 
-```
+```vb
 Sub DisplayAndExecuteFileDialog(ByRef fd As FileDialog) 
  
  'Use a With...End With block to reference the FileDialog object. 
@@ -53,9 +53,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FileDialog Object](filedialog-object-office.md)

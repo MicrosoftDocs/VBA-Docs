@@ -31,8 +31,5 @@ This property can be set to one of the following constants:  **xlStack** or **xl
 ## See also
 
 
-#### Concepts
-
-
 [Walls Object](Excel.Walls(objec).md)
 

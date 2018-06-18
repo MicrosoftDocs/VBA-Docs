@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [CommandEffect Object](PowerPoint.CommandEffect.md)
 

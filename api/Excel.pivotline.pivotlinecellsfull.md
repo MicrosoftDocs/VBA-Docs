@@ -29,8 +29,5 @@ Retrieves all of the  **PivotLine** cells including those that are hidden in com
 ## See also
 
 
-#### Concepts
-
-
 [PivotLine Object](Excel.PivotLine.md)
 

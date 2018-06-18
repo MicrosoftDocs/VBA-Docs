@@ -23,8 +23,5 @@ Returns or sets the path type for the specified text frame. Read/write  **[MsoPa
 ## See also
 
 
-#### Concepts
-
-
 [TextFrame2 Object](Excel.TextFrame2.md)
 

@@ -26,8 +26,5 @@ Returns a  **[Range](Word.Range.md)** object that represents the first word in a
 ## See also
 
 
-#### Concepts
-
-
 [Words Collection Object](Word.words.md)
 

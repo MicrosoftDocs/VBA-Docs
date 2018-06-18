@@ -26,8 +26,5 @@ Returns or sets an  **MsoTextEffectAlignment** constant that represents the alig
 ## See also
 
 
-#### Concepts
-
-
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 

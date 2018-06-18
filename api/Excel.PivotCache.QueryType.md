@@ -40,8 +40,5 @@ You specify the data source in the prefix for the  **[Connection](Excel.PivotCac
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

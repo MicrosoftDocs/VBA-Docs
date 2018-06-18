@@ -49,8 +49,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [PublishObject Object](Excel.PublishObject.md)
 

@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Dial
 ## See also
 
 
-#### Concepts
-
-
 [Dialog Object](Word.Dialog.md)
 

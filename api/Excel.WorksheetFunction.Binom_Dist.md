@@ -63,8 +63,5 @@ Use the  **Binom_Dist** method in problems with a fixed number of tests or trial
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

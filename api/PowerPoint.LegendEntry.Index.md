@@ -23,8 +23,5 @@ Returns the index number of the object within the collection of similar objects.
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 

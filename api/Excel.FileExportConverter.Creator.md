@@ -31,8 +31,5 @@ If the object was created in Microsoft Excel, this property returns the hexadeci
 ## See also
 
 
-#### Concepts
-
-
 [FileExportConverter Object](Excel.FileExportConverter.md)
 

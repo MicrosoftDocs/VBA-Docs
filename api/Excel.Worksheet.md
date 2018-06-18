@@ -28,7 +28,7 @@ The  **Worksheet** object is also a member of the [Sheets](http://msdn.microsoft
 Use  **[Worksheets](http://msdn.microsoft.com/library/8b7d660d-ca49-0bd0-dc57-64defa47bd5e%28Office.15%29.aspx)** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
 
 
-```
+```vb
 Worksheets(1).Visible = False
 ```
 
@@ -41,7 +41,7 @@ The worksheet name is shown on the tab for the worksheet. Use the [Name](http://
 
 
 
-```
+```vb
  
 Dim strPassword As String 
 strPassword = InputBox ("Enter the password for the worksheet") 
@@ -53,7 +53,7 @@ When a worksheet is the active sheet, you can use the  [ActiveSheet](http://msdn
 
 
 
-```
+```vb
 Worksheets("Sheet1").Activate 
 ActiveSheet.PageSetup.Orientation = xlLandscape 
 ActiveSheet.PrintOut
@@ -77,7 +77,7 @@ When you double-click cell A1, the files specified in cell A1 are opened in Note
 
 
 
-```
+```vb
 Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
    'Define your variables.
    Dim sFile As String, sPath As String, sTxt As String, sExe As String, sSfx As String

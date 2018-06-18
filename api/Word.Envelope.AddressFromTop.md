@@ -59,8 +59,5 @@ ActiveDocument.ActiveWindow.View.Type = wdPrintView
 ## See also
 
 
-#### Concepts
-
-
 [Envelope Object](Word.Envelope.md)
 

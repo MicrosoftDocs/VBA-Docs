@@ -83,8 +83,5 @@ myFBInfo = myRecipient.FreeBusy(#8/1/03#, 60, True)
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

@@ -39,8 +39,5 @@ An Electronic Business Card can only have one logo picture, so any existing logo
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

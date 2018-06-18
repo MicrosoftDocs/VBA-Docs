@@ -26,8 +26,5 @@ Returns a  **Long** indicating the size (in bytes) of the **[SharingItem](Outloo
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

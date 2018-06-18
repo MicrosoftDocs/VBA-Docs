@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether the contents of a phantom
 ## See also
 
 
-#### Concepts
-
-
 [OMathPhantom Object](Word.OMathPhantom.md)
 

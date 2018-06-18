@@ -33,15 +33,12 @@ This property can be any valid  **WdColor** constant or a value returned by Visu
 This example sets the default color for new borders to teal.
 
 
-```
+```vb
 Options.DefaultBorderColor = wdColorTeal
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

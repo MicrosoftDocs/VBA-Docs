@@ -33,7 +33,7 @@ The  **RefreshPane** method raises an error if the active document does not have
 The following example determines whether the active Excel workbook has an XML expansion pack attached. If so, it refreshes the smart document's  **Document Actions** task pane.
 
 
-```
+```vb
  Dim objSmartDoc As Office.SmartDocument 
  Set objSmartDoc = ActiveWorkbook.SmartDocument 
  If objSmartDoc.SolutionID > "None" Then 
@@ -46,9 +46,6 @@ The following example determines whether the active Excel workbook has an XML ex
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartDocument Object](smartdocument-object-office.md)

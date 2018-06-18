@@ -38,8 +38,5 @@ Changing the value of this property for a given  **MailModule** object changes t
 ## See also
 
 
-#### Concepts
-
-
 [MailModule Object](Outlook.MailModule.md)
 

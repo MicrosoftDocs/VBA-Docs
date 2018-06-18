@@ -39,8 +39,5 @@ Sequence
 ## See also
 
 
-#### Concepts
-
-
 [Sequences Object](PowerPoint.Sequences.md)
 

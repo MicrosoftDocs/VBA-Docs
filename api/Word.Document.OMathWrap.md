@@ -31,8 +31,5 @@ A value of -1 specifies that the continuation of the equation is right-aligned. 
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

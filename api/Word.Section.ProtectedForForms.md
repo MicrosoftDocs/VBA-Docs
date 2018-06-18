@@ -61,8 +61,5 @@ Selection.Sections(1).ProtectedForForms = Not _
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Word.Section.md)
 

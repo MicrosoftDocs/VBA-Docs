@@ -28,9 +28,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [ODSOFilter Object](odsofilter-object-office.md)
 #### Other resources
 

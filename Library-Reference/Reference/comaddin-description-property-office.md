@@ -28,7 +28,7 @@ Gets or sets a descriptive  **String** value for the specified **COMAddin** obje
 The following example displays the description text of the Microsoft Accessibility COM add-in for drawing.
 
 
-```
+```vb
 MsgBox "The description of this " &amp; _ 
  "COMAddIn is """ &amp; Application.COMAddIns. _ 
  Item("msodraa9.ShapeSelect"). _ 
@@ -37,9 +37,6 @@ MsgBox "The description of this " &amp; _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [COMAddIn Object](comaddin-object-office.md)

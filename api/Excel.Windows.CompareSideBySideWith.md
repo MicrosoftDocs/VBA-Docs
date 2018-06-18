@@ -44,8 +44,5 @@ You cannot use the  **CompareSideBySideWith** method with the **[Application](Ex
 ## See also
 
 
-#### Concepts
-
-
 [Windows Object](Excel.Windows.md)
 

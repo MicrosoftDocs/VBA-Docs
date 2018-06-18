@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of tables of authorities in the c
 ## See also
 
 
-#### Concepts
-
-
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 

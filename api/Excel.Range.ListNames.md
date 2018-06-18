@@ -46,8 +46,5 @@ Worksheets("Sheet1").Range("A1").ListNames
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

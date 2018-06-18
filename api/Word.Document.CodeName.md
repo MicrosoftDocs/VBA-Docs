@@ -33,15 +33,12 @@ The code name is the name for the module that houses event macros for a document
 This example returns the name of the code window for the active document.
 
 
-```
+```vb
 Msgbox ActiveDocument.CodeName
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

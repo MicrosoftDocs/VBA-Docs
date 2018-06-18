@@ -44,8 +44,5 @@ Worksheets("Sheet1").PrintPreview
 ## See also
 
 
-#### Concepts
-
-
 [Sheets Object](Excel.Sheets.md)
 

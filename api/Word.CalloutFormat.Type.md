@@ -26,8 +26,5 @@ Returns or sets the callout type. Read/write  **MsoCalloutType** .
 ## See also
 
 
-#### Concepts
-
-
 [CalloutFormat Object](Word.CalloutFormat.md)
 

@@ -26,8 +26,5 @@ Gets or sets the value displayed in the specified control. Read/write  **Variant
 ## See also
 
 
-#### Concepts
-
-
 [CustomControl Object](Access.CustomControl.md)
 

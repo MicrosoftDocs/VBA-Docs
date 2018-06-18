@@ -26,8 +26,5 @@ Occurs when the  **[Value](Outlook.OlkDateControl.Value.md)** property changes.
 ## See also
 
 
-#### Concepts
-
-
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 

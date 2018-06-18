@@ -63,8 +63,5 @@ range2.CheckSpelling IgnoreUpperCase:=False, _
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Word.Range.md)
 

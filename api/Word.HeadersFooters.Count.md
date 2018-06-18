@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of headers and/or footers in the 
 ## See also
 
 
-#### Concepts
-
-
 [HeadersFooters Collection Object](Word.headersfooters.md)
 

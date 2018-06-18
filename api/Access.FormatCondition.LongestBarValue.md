@@ -33,8 +33,5 @@ If the value of the  **[LongestBarLimit](Access.FormatCondition.LongestBarLimit.
 ## See also
 
 
-#### Concepts
-
-
 [FormatCondition Object](Access.FormatCondition.md)
 

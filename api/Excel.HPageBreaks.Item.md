@@ -44,8 +44,5 @@ Worksheets(1).HPageBreaks.Item(1).Location = .Range("e5")
 ## See also
 
 
-#### Concepts
-
-
 [HPageBreaks Object](Excel.HPageBreaks.md)
 

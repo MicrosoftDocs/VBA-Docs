@@ -31,8 +31,5 @@ After you enable a rule condition, you must also save the rule by using  **[Rule
 ## See also
 
 
-#### Concepts
-
-
 [ImportanceRuleCondition Object](Outlook.ImportanceRuleCondition.md)
 

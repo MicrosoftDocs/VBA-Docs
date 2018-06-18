@@ -41,8 +41,5 @@ Me.Application.MenuBar
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

@@ -31,8 +31,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [Table Object](PowerPoint.Table.md)
 

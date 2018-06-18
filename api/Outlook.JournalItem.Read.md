@@ -28,8 +28,5 @@ The  **Read** event differs from the **[Open](Outlook.JournalItem.Open.md)** eve
 ## See also
 
 
-#### Concepts
-
-
 [JournalItem Object](Outlook.JournalItem.md)
 

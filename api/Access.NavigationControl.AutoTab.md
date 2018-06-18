@@ -43,8 +43,5 @@ You could use the  **AutoTab** property if you have a text box on a form for whi
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

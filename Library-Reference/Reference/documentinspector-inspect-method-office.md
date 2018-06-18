@@ -42,7 +42,7 @@ MsoDocInspectorStatus members
 The following example inspects a document using  **Inspect** method of the **DocumentInspector** object and then displays the status and results of the inspection.
 
 
-```
+```vb
 Public Sub DI_InspectDocument() 
 Dim docStatus As MsoDocInspectorStatus 
 Dim result As String 
@@ -55,9 +55,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentInspector Object](documentinspector-object-office.md)

@@ -47,8 +47,5 @@ For more information about Entry IDs, see the  **[EntryID](Outlook.Folder.EntryI
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](namespace-object-outlook.md)
 

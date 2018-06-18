@@ -26,8 +26,5 @@ Returns a  **[Column](Word.Column.md)** object that represents the first item in
 ## See also
 
 
-#### Concepts
-
-
 [Columns Collection Object](Word.columns.md)
 

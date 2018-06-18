@@ -43,7 +43,7 @@ PickerProperty
 The following code sets various properties of the  **PickerDialog** object.
 
 
-```
+```vb
 Dim objPickerDialog As PickerDialog 
 Dim objPickerProperties As PickerProperties 
  
@@ -58,9 +58,6 @@ Set objPickerProperty = objPickerProperties.Add("SiteUrl", "http://my", msoPicke
 
 
 ## See also
-
-
-#### Concepts
 
 
 [PickerProperties Object](pickerproperties-object-office.md)

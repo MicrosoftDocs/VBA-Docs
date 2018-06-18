@@ -34,9 +34,6 @@ The value of the  **Type** property is available as a value in the **[MsoControl
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarControl Object](commandbarcontrol-object-office.md)
 #### Other resources
 

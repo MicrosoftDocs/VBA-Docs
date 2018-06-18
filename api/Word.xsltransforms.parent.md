@@ -24,8 +24,5 @@ Returns an  **Object** that represents the parent object of the specified **XSLT
 ## See also
 
 
-#### Concepts
-
-
 
 

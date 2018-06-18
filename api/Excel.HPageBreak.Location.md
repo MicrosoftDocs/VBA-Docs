@@ -36,8 +36,5 @@ Set Worksheets(1).HPageBreaks(1).Location = Worksheets(1).Range("e5")
 ## See also
 
 
-#### Concepts
-
-
 [HPageBreak Object](Excel.HPageBreak.md)
 

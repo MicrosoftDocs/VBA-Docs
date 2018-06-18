@@ -53,8 +53,5 @@ This method is used to open iCalendar appointment (.ics) files, vCard (.vcf) fil
 ## See also
 
 
-#### Concepts
-
-
 [NameSpace Object](Outlook.NameSpace.md)
 

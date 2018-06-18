@@ -48,9 +48,6 @@ If  _Length_ is greater than the number of words from the specified starting wor
 ## See also
 
 
-#### Concepts
-
-
 [TextRange2 Object (PowerPoint)](textrange2-object-powerpoint.md)
 
 

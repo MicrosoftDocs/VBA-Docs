@@ -47,8 +47,5 @@ Application.ActivePresentation.Container.Parent.Sections(2) _
 ## See also
 
 
-#### Concepts
-
-
 [Presentation Object](PowerPoint.Presentation.md)
 

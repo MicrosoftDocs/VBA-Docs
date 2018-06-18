@@ -64,8 +64,5 @@ ActiveDocument.PageSetup.TextColumns.Add _
 ## See also
 
 
-#### Concepts
-
-
 [TextColumns Collection Object](Word(textcolumns).md)
 

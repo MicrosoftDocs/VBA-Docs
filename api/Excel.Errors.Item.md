@@ -48,8 +48,5 @@ Returns a single member of the  **[Error](Excel.Error.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [Errors Object](Excel.Errors.md)
 

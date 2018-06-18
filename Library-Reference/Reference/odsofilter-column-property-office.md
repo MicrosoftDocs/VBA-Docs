@@ -28,7 +28,7 @@ Gets or sets a  **String** that represents the name of the field in the mail mer
 The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA".
 
 
-```
+```vb
 Sub SetQueryCriterion() 
  Dim appOffice As Office.OfficeDataSourceObject 
  Dim intItem As Integer 
@@ -53,9 +53,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ODSOFilter Object](odsofilter-object-office.md)

@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 ## See also
 
 
-#### Concepts
-
-
 [OLEObject Object](Excel.OLEObject.md)
 

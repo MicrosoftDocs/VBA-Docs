@@ -21,7 +21,7 @@ Represents a series in the specified chart. The  **Series** object is a member o
 Use  **SeriesCollection**( _index_), where  _index_ is the series' index number or name, to return a single **Series** object. The following example sets the color of the interior for series one in the chart.
 
 
-```
+```vb
 myChart.SeriesCollection(1).Interior.Color = RGB(255, 0, 0)
 ```
 

@@ -31,9 +31,6 @@ Long
 ## See also
 
 
-#### Concepts
-
-
 [WorkflowTemplates Object](workflowtemplates-object-office.md)
 #### Other resources
 

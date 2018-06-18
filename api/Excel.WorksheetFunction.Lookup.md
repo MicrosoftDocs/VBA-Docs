@@ -89,8 +89,5 @@ The array form of LOOKUP is very similar to the HLOOKUP and VLOOKUP functions. T
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

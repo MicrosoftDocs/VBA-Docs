@@ -36,7 +36,4 @@ Links to a SharePoint tasks list.
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)

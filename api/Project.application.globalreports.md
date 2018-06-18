@@ -38,7 +38,7 @@ Following is the output for the RTM release of Project:
 
 
 
-```
+```vb
 Number of global reports: 21
 1: Project Overview
 2: Burndown
@@ -71,9 +71,6 @@ Number of global reports: 21
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Project.Application.md)

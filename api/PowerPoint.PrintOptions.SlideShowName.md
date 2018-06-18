@@ -54,8 +54,5 @@ ActivePresentation.PrintOut
 ## See also
 
 
-#### Concepts
-
-
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 

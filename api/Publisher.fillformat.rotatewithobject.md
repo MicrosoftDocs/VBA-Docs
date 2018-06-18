@@ -45,8 +45,5 @@ The setting of the  **RotateWithObject** property corresponds to the setting of 
 ## See also
 
 
-#### Concepts
-
-
  [FillFormat Object](Publisher.FillFormat.md)
 

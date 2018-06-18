@@ -36,8 +36,5 @@ MsgBox ProtectedViewWindows.Count
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindows Object](Word.ProtectedViewWindows.md)
 

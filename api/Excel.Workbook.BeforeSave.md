@@ -77,10 +77,6 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 ## See also
-<a name="AboutContributor"> </a>
-
-
-#### Concepts
 
 
 [Workbook Object](Excel.Workbook.md)

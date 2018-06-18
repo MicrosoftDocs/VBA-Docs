@@ -33,7 +33,7 @@ Some of these constants may not be available to you depending on the language su
 This example centers the chart title vertically.
 
 
-```
+```vb
 myChart.ChartTitle.VerticalAlignment = xlCenter
 ```
 

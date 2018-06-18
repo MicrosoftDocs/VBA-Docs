@@ -47,8 +47,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

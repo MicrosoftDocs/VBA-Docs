@@ -47,8 +47,5 @@ Exports to a file of the specified format.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

@@ -26,8 +26,5 @@ Returns or sets a  **[WdRevisionsMode](Word.WdRevisionsMode.md)** constant that 
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

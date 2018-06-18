@@ -55,8 +55,5 @@ If you need to manipulate another application's objects from Microsoft Access, y
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

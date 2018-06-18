@@ -33,7 +33,7 @@ The entry macro runs when the form field gets the focus.
 This example assigns the macro named "Blue" to the first form field in "Form.doc."
 
 
-```
+```vb
 Documents("Form.doc").FormFields(1).EntryMacro = "Blue"
 ```
 
@@ -48,9 +48,6 @@ ActiveDocument.FormFields("Text1").EntryMacro = "Breadth"
 
 
 ## See also
-
-
-#### Concepts
 
 
 [FormField Object](Word.FormField.md)

@@ -51,7 +51,7 @@ The  **GeometryCount** property returns the number of Geometry sections included
 
 
 
-```
+```vb
 Shape.AddSection(visSectionFirstComponent + i) 
 
 ```

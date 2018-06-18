@@ -63,8 +63,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [SeriesCollection Object](Word.SeriesCollection.md)
 

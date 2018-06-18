@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](Excel.ChartArea(objec).md)
 

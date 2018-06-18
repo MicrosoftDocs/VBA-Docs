@@ -39,8 +39,5 @@ An  **Action** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [Actions Object](Outlook.Actions.md)
 

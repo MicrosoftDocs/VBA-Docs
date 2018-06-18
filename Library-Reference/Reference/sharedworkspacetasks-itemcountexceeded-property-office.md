@@ -44,9 +44,6 @@ Furthermore, once the  **ItemCountExceeded** property returns **True** for one o
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTasks Object](sharedworkspacetasks-object-office.md)
 #### Other resources
 

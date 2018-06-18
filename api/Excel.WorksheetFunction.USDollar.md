@@ -49,15 +49,12 @@ The major difference between formatting a cell that contains a number with the  
 The following example displays the first number in a currency format, two digits to the right of the decimal point ($1,234.57).
 
 
-```
+```vb
 =DOLLAR(A2, 2)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)

@@ -26,8 +26,5 @@ Returns a  **Long** value indicating the count of **[AutoFormatRule](Outlook.Aut
 ## See also
 
 
-#### Concepts
-
-
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

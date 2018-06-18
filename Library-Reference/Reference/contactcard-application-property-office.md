@@ -28,9 +28,6 @@ Application
 ## See also
 
 
-#### Concepts
-
-
 [ContactCard Object](contactcard-object-office.md)
 #### Other resources
 

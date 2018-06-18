@@ -29,9 +29,6 @@ Gets the horizontal position of the  **CommandBarComboBox** control (in pixels) 
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

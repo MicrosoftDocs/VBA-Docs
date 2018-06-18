@@ -33,7 +33,7 @@ For information about returning a single member of a collection, see [Returning 
 This example adds a table of figures at the insertion point in the active document.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart 
 ActiveDocument.TablesOfFigures.Add Range:=Selection.Range, _ 
  Caption:=wdCaptionFigure
@@ -44,15 +44,12 @@ This example updates the contents of the first table of figures in Report.doc.
 
 
 
-```
+```vb
 Documents("Report.doc").TablesOfFigures(1).Update
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

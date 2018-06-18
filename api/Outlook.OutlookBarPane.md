@@ -26,7 +26,7 @@ Use the  **[Item](Outlook.Panes.Item.md)** method to retrieve the **OutlookBarPa
 The following example retrieves an  **OutlookBarPane** object by name.
 
 
-```
+```vb
 Set myOlBarPane = myPanes.Item("OutlookBar")
 ```
 

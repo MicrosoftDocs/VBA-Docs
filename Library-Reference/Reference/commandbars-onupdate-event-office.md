@@ -37,9 +37,6 @@ The  **OnUpdate** event is recognized by the **CommandBar** object and all comma
 ## See also
 
 
-#### Concepts
-
-
 [CommandBars Object](commandbars-object-office.md)
 #### Other resources
 

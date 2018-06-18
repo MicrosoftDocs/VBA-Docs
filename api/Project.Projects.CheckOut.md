@@ -58,7 +58,4 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Projects Collection Object](Project.projects.md)

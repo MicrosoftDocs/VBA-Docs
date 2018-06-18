@@ -92,8 +92,5 @@ The following table lists the code pages Microsoft recommends that you use for t
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

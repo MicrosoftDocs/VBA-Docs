@@ -31,8 +31,5 @@ For out-of-process callers that have instantiated the  **[Application](Outlook.A
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Outlook.Application.md)
 

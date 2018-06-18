@@ -26,8 +26,5 @@ Returns the percentage of completion of the sample. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [ResampleMediaTasks Object](PowerPoint.ResampleMediaTasks.md)
 

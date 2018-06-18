@@ -24,7 +24,7 @@ Use the  **Shadow** property to return a **ShadowFormat** object. The following 
 
  
 
-```
+```vb
 Sub FormatShadow() 
  With ActiveDocument.Pages(1).Shapes.AddShape( _ 
  Type:=msoShapeRectangle, Left:=72, Top:=72, _ 

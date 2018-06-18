@@ -38,9 +38,6 @@ Adds a new filter to the  **ODSOFilters** collection.
 ## See also
 
 
-#### Concepts
-
-
 [ODSOFilters Object](odsofilters-object-office.md)
 #### Other resources
 

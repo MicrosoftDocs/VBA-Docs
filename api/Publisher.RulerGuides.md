@@ -24,7 +24,7 @@ Use the  **[Add](Publisher.RulerGuides.Add.md)** method of the **RulerGuides** c
 
  
 
-```
+```vb
 Sub SetRulerGuides() 
  Dim intCount As Integer 
  Dim intPos As Integer 
@@ -49,7 +49,7 @@ Use the  **[Count](Publisher.RulerGuides.Count.md)** property to return the tota
 
 
 
-```
+```vb
 Sub RemoveAllGuides() 
  Dim intCount As Integer 
  With ActiveDocument.Pages(1).RulerGuides 

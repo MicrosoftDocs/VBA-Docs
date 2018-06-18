@@ -21,7 +21,7 @@ Returns or sets the rotation of the 3-D chart view (the rotation of the plot are
 This example sets the rotation of  `myChart` to 30 degrees. The example should be run on a 3-D chart.
 
 
-```
+```vb
 myChart.Rotation = 30
 ```
 

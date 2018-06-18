@@ -36,7 +36,7 @@ To produce random integers in a given range, use this formula:
 
 
 
-```
+```vb
 Int((upperbound - lowerbound + 1) * Rnd + lowerbound)
 
 ```

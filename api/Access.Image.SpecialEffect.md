@@ -53,8 +53,5 @@ Forms("Mailing List").Controls("OrganizationName1").SpecialEffect = 1
 ## See also
 
 
-#### Concepts
-
-
 [Image Object](Access.Image.md)
 

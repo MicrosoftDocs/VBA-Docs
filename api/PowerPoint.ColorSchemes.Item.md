@@ -39,8 +39,5 @@ ColorScheme
 ## See also
 
 
-#### Concepts
-
-
 [ColorSchemes Object](PowerPoint.ColorSchemes.md)
 

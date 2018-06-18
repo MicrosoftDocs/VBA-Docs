@@ -26,8 +26,5 @@ Upgrades media within the specified  **ShapeRange** object.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

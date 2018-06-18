@@ -72,8 +72,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [IconCriterion Object](Excel.IconCriterion.md)
 

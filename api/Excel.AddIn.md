@@ -26,7 +26,7 @@ The  **AddIn** object is a member of the **[AddIns](Excel.AddIns.md)** collectio
 Use  **AddIns** ( _index_ ), where _index_ is the add-in title or index number, to return a single **AddIn** object. The following example installs the Analysis Toolpak add-in.
 
 
-```
+```vb
 AddIns("analysis toolpak").Installed = True
 ```
 
@@ -37,7 +37,7 @@ The index number represents the position of the add-in in the  **Add-ins availab
 
 
 
-```
+```vb
 With Worksheets("sheet1") 
  .Rows(1).Font.Bold = True 
  .Range("a1:d1").Value = _ 
@@ -57,7 +57,7 @@ The  **[Add](Excel.AddIns.Add.md)** method adds an add-in to the list of availab
 
 
 
-```
+```vb
 AddIns.Add("generic.xll").Installed = True
 ```
 
@@ -66,7 +66,7 @@ Use  **Workbooks** ( _index_ ) where _index_ is the add-in filename (not title) 
 
 
 
-```
+```vb
 Set wb = Workbooks("myaddin.xla")
 ```
 
@@ -75,7 +75,7 @@ The following example sets the  _wb_ variable to the workbook for the Analysis T
 
 
 
-```
+```vb
 Set wb = Workbooks(AddIns("analysis toolpak").Name)
 ```
 
@@ -84,7 +84,7 @@ If the  **Installed** property returns **True**, but calls to functions in the a
 
 
 
-```
+```vb
 On Error Resume Next ' turn off error checking 
 Set wbMyAddin = Workbooks(AddIns("My Addin").Name) 
 lastError = Err 

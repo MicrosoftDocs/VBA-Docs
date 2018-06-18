@@ -32,7 +32,7 @@ Use  `Shapes.Range`( _index_ ), where _index_ is the name or index number of the
 
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 myDocument.Shapes.Range(Array(1, 3)).Fill.Patterned _ 
  msoPatternHorizontalBrick
@@ -45,7 +45,7 @@ Although you can use the  **Range** property to return any number of shapes or s
 
 
 
-```
+```vb
 Set myDocument = Worksheets(1) 
 Set myRange = myDocument.Shapes.Range(Array("Oval 4", _ 
  "Rectangle 5")) 
@@ -59,7 +59,7 @@ Use the  **ShapeRange** property of the **Selection** object to return all the s
 
 
 
-```
+```vb
 Windows(1).Selection.ShapeRange.Fill.ForeColor.RGB = _ 
  RGB(255, 0, 255)
 ```
@@ -71,7 +71,7 @@ Use  `Selection.ShapeRange`( _index_ ), where _index_ is the shape name or the i
 
 
 
-```
+```vb
 Windows(1).Selection.ShapeRange(2).Fill.ForeColor.RGB = _ 
  RGB(255, 0, 255)
 ```

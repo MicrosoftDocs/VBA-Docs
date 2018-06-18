@@ -29,9 +29,6 @@ Deletes the current  **SharedWorkspaceTask** object.
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceTask Object](sharedworkspacetask-object-office.md)
 #### Other resources
 

@@ -13,7 +13,7 @@ This example takes the range A1:A10 on Sheet 1 and exports it to the first table
 
 
 
-```
+```vb
 Sub Export_Table_Data_Word()
 
     'Name of the existing Word document

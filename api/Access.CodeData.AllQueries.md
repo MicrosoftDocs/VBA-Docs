@@ -26,8 +26,5 @@ You can use the  **AllQueries** property to reference the **[AllQueries](Access.
 ## See also
 
 
-#### Concepts
-
-
 [CodeData Object](Access.CodeData.md)
 

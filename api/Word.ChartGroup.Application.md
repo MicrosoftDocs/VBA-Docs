@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Word.ChartGroup.md)
 

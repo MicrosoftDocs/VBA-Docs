@@ -26,8 +26,5 @@ Returns the parent  **Object** of the **[ExchangeDistributionList](Outlook.Excha
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 

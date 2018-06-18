@@ -31,7 +31,4 @@ Gets a single  **Availability** object from the **Availabilities** collection. R
 ## See also
 
 
-#### Concepts
-
-
 [Availabilities Collection Object](Project.availabilities.md)

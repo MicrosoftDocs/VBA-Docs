@@ -74,9 +74,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 [Project.Type Property](Project.Project.Type.md)
 #### Other resources

@@ -43,8 +43,5 @@ The  **BottomGridlineStyle** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [CheckBox Object](Access.CheckBox.md)
 

@@ -58,8 +58,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
  [Adjustments Object](Publisher.Adjustments.md)
 

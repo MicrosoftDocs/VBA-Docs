@@ -39,8 +39,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Excel.AutoCorrect(objec).md)
 

@@ -26,8 +26,5 @@ Returns a  **[Shading](Word.Shading.md)** object that refers to the shading form
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

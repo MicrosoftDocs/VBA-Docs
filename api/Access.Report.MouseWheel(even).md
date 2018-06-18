@@ -35,8 +35,5 @@ Occurs when the user rolls the mouse wheel in Report view or Layout view.
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

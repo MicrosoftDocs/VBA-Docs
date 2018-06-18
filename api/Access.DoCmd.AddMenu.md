@@ -54,8 +54,5 @@ The  _statusbartext_ argument is optional, this argument is ignored for custom s
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

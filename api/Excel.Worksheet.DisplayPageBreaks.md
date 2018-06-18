@@ -41,8 +41,5 @@ Worksheets("Sheet1").DisplayPageBreaks = True
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

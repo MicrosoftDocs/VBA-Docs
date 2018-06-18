@@ -41,8 +41,5 @@ A  **Category** object that represents the new category.
 ## See also
 
 
-#### Concepts
-
-
 [Categories Object](Outlook.Categories.md)
 

@@ -33,8 +33,5 @@ This property applies to all  **MeetingItem** objects including meeting requests
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

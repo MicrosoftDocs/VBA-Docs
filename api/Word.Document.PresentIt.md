@@ -28,15 +28,12 @@ Opens PowerPoint with the specified Word document loaded.
 This example sends a copy of the document named "MyPresentation.doc" to PowerPoint.
 
 
-```
+```vb
 Documents("MyPresentation.doc").PresentIt
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

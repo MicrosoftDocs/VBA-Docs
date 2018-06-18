@@ -42,9 +42,6 @@ This method is typically called by your COM add-in during a save operation.
 ## See also
 
 
-#### Concepts
-
-
 [EncryptionProvider Object](encryptionprovider-object-office.md)
 #### Other resources
 

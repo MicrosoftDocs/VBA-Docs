@@ -23,8 +23,5 @@ Returns or sets name of the object. Read/write  **String**.
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](PowerPoint.Trendline.md)
 

@@ -47,8 +47,5 @@ Adds a new web video to the document.
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Collection](Word.shapes.md)
 

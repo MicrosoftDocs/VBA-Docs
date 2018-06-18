@@ -53,8 +53,5 @@ ActiveWindow.Panes(1).Activate
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

@@ -31,8 +31,5 @@ Valid values for this property are "macroname", where  _macroname_ is the name o
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

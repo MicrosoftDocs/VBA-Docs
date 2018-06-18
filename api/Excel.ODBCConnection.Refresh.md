@@ -41,8 +41,5 @@ To see whether the number of fetched rows exceeded the number of available rows 
 ## See also
 
 
-#### Concepts
-
-
 [ODBCConnection Object](odbcconnection-object-excel.md)
 

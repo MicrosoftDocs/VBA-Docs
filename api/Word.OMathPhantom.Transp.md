@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents whether a phantom object is trans
 ## See also
 
 
-#### Concepts
-
-
 [OMathPhantom Object](Word.OMathPhantom.md)
 

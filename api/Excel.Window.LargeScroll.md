@@ -62,8 +62,5 @@ ActiveWindow.LargeScroll down:=3
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

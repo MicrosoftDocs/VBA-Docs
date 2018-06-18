@@ -31,8 +31,5 @@ Can be 1 through 9, A through Z, or A1 through Z9. Priority 1 is the highest.
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

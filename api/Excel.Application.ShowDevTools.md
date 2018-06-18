@@ -31,8 +31,5 @@ This property corresponds to the  **Show Developer tab in the Ribbon** check box
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

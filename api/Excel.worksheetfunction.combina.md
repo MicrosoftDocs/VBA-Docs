@@ -38,8 +38,5 @@ Returns the number of combinations with repetitions for a given number of items.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

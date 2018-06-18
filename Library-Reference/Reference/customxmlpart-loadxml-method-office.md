@@ -41,7 +41,7 @@ Boolean
 The following example loads XML into a custom XML part from a string.
 
 
-```
+```vb
 Sub ShowCustomXmlParts() 
     On Error GoTo Err 
  
@@ -62,9 +62,6 @@ End Sub
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLPart Object](customxmlpart-object-office.md)

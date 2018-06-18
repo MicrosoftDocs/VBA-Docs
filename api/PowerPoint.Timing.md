@@ -51,8 +51,5 @@ ActiveWindow.Selection.SlideRange(1).TimeLine.MainSequence(1).Timing.Duration = 
 ## See also
 
 
-#### Concepts
-
-
 [PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
 

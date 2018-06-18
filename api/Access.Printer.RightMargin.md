@@ -26,8 +26,5 @@ Along with the  **TopMargin**, **LeftMargin**, and **BottomMargin** properties, 
 ## See also
 
 
-#### Concepts
-
-
 [Printer Object](Access.Printer.md)
 

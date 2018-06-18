@@ -39,8 +39,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 

@@ -31,8 +31,5 @@ Using this property with the  **Application** object or without an object qualif
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

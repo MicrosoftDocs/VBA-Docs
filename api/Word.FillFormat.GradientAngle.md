@@ -36,8 +36,5 @@ A gradient fill can be specified in the formatting for various elements (shapes)
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Word.FillFormat.md)
 

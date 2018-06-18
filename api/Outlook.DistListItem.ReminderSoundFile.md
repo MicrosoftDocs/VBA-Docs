@@ -31,8 +31,5 @@ This property is only valid if the  **[ReminderOverrideDefault](Outlook.DistList
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

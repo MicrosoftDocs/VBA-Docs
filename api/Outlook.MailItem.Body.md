@@ -31,9 +31,6 @@ The  **[MailItem.BodyFormat](Outlook.MailItem.BodyFormat.md)** property allows y
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 #### Other resources
 

@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs(2).LineUnitBefore = 1
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

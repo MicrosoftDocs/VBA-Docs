@@ -36,8 +36,5 @@ These are listed in the  **COM Add-Ins** dialog box. You can add the **Add-Ins**
 ## See also
 
 
-#### Concepts
-
-
  [Application Object](Publisher.Application.md)
 

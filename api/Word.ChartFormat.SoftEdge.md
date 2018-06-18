@@ -26,8 +26,5 @@ Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Word
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Word.ChartFormat.md)
 

@@ -23,8 +23,5 @@ Deletes the  **WorkWeek** object from a **WorkWeeks** collection.
 ## See also
 
 
-#### Concepts
-
-
 [WorkWeek Object](Project.WorkWeek.md)
 

@@ -26,8 +26,5 @@ Returns a  **Double** value that represents the distance, in points, from the to
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](Excel.LegendKey(objec).md)
 

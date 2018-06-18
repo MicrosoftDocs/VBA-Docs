@@ -26,8 +26,5 @@ Returns the theme applied to the current workbook. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

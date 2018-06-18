@@ -35,7 +35,7 @@ You can use the  **Insert** method with an **AutoTextEntry** object to insert a 
 This example inserts an AutoText entry that matches the text around a selection.
 
 
-```
+```vb
 Documents.Add 
 Selection.TypeText "Best w" 
 Selection.Range.InsertAutoText
@@ -55,9 +55,6 @@ myRange.InsertAutoText
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

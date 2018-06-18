@@ -43,8 +43,5 @@ ActiveDocument.InlineShapes(1) _
 ## See also
 
 
-#### Concepts
-
-
 [HorizontalLineFormat Object](Word.HorizontalLineFormat.md)
 

@@ -44,8 +44,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [SpellingOptions Object](Excel.SpellingOptions.md)
 

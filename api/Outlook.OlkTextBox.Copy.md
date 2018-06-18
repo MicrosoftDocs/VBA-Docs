@@ -31,8 +31,5 @@ The data is copied in unformatted text format, replacing the existing contents o
 ## See also
 
 
-#### Concepts
-
-
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 

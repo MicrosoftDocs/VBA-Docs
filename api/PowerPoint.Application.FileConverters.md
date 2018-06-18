@@ -49,7 +49,7 @@ If you do not specify the index arguments, this property returns an array that c
 The following example displays a message if the Multiplan file converter is installed.
 
 
-```
+```vb
 installedCvts = Application.FileConverters
 
 foundMultiplan = False
@@ -83,9 +83,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](PowerPoint.Application.md)

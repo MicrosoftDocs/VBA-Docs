@@ -31,8 +31,5 @@ Use this method to reset the chart elements formatting to automatic. If you use 
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

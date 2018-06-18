@@ -31,8 +31,5 @@ The  **ReminderPlaySound** property must be set in order to validate the **[Remi
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

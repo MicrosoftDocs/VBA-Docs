@@ -43,8 +43,5 @@ ActiveSheet.OLEObjects(1).AutoLoad = False
 ## See also
 
 
-#### Concepts
-
-
 [OLEObjects Object](Excel.OLEObjects.md)
 

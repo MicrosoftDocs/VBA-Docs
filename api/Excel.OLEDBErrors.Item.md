@@ -51,8 +51,5 @@ MsgBox "The following error occurred:" &; _
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBErrors Object](Excel.OLEDBErrors.md)
 

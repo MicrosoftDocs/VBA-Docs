@@ -41,8 +41,5 @@ Worksheets("Sheet1").PageSetup.Draft = True
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

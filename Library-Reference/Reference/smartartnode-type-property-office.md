@@ -28,9 +28,6 @@ Possible values are msoSmartArtNodeTypeAssistant or msoSmartArtNodeTypeDefault.
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

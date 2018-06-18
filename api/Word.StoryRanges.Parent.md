@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Stor
 ## See also
 
 
-#### Concepts
-
-
 [StoryRanges Collection Object](Word.storyranges.md)
 

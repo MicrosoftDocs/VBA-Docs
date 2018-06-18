@@ -38,8 +38,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [LetterContent Object](Word.LetterContent.md)
 

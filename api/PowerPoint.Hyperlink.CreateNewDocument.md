@@ -54,8 +54,5 @@ ActivePresentation.Slides(1).Hyperlinks(1).CreateNewDocument _
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 

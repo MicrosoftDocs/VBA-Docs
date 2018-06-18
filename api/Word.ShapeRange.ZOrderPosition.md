@@ -35,8 +35,5 @@ Whenever you add a new shape to a collection, it is added to the front of the z-
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

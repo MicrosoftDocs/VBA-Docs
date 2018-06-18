@@ -38,8 +38,5 @@ Returns all the visible categories in the chart group, or the specified visible 
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Word.ChartGroup.md)
 

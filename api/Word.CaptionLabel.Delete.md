@@ -26,8 +26,5 @@ Deletes the specified caption label.
 ## See also
 
 
-#### Concepts
-
-
 [CaptionLabel Object](Word.CaptionLabel.md)
 

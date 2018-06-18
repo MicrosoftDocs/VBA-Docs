@@ -34,8 +34,5 @@ Vertically rotates a shape on the y-axis using the specified incrementation valu
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

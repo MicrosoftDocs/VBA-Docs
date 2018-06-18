@@ -51,8 +51,5 @@ This method returns  **Nothing** if the XPath location path is not mapped into t
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

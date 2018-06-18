@@ -23,8 +23,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [Point Object](PowerPoint.Point.md)
 

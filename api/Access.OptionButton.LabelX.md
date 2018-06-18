@@ -35,8 +35,5 @@ For General and Right alignment when orientation is RTL,  **LabelX** and **Label
 ## See also
 
 
-#### Concepts
-
-
 [OptionButton Object](Access.OptionButton.md)
 

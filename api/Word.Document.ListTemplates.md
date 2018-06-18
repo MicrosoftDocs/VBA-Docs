@@ -33,15 +33,12 @@ For information about returning a single member of a collection, see [Returning 
 This example displays the number of list templates used in the active document.
 
 
-```
+```vb
 Msgbox ActiveDocument.ListTemplates.Count
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

@@ -38,7 +38,7 @@ RulerLevel2
 This example sets the first-line indent and the hanging indent for outline level one in body text on the slide master for the active presentation.
 
 
-```
+```vb
 With ActivePresentation.SlideMaster.TextStyles.Item(ppBodyStyle) 
  With .Ruler2.Levels.Item(1) ' sets indents for level 1 
  .FirstMargin = 9 
@@ -50,9 +50,6 @@ End With
 
 
 ## See also
-
-
-#### Concepts
 
 
 [RulerLevels2 Object](rulerlevels2-object-office.md)

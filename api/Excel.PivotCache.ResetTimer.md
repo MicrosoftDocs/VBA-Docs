@@ -26,8 +26,5 @@ Resets the refresh timer for the specified query table or PivotTable report to t
 ## See also
 
 
-#### Concepts
-
-
 [PivotCache Object](Excel.PivotCache.md)
 

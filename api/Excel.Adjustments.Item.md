@@ -41,8 +41,5 @@ For linear adjustments, an adjustment value of 0.0 generally corresponds to the 
 ## See also
 
 
-#### Concepts
-
-
 [Adjustments Object](Excel.Adjustments.md)
 

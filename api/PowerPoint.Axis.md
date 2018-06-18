@@ -35,7 +35,7 @@ The following example sets the category axis title text for the first chart in t
 
 
 
-```
+```vb
 With ActiveDocument.InlineShapes(1)
 
     If .HasChart Then

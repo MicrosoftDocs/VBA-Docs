@@ -35,8 +35,5 @@ Use the  **CustomDocumentProperties** property to return the collection of custo
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

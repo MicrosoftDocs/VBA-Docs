@@ -23,8 +23,5 @@ Returns the number of objects in the collection. Read-only  **Long**.
 ## See also
 
 
-#### Concepts
-
-
 [SeriesCollection Object](PowerPoint.SeriesCollection.md)
 

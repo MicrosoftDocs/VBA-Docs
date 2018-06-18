@@ -42,8 +42,5 @@ nftpTemp.Add FileName:="C:\Sales_Quarterly.mdb", _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

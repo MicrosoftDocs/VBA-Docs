@@ -32,7 +32,7 @@ The following Visual Basic for Applications (VBA) example returns a new task.
 
 
 
-```
+```vb
 Set myItem = Application.CreateItem(olTaskItem)
 ```
 

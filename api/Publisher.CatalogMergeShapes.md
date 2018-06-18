@@ -39,7 +39,7 @@ Use the  **[CatalogMergeItems](Publisher.Shape.CatalogMergeItems.md)** property 
 
  
 
-```
+```vb
 Sub ListCatalogMergeAreaContents() 
  
  Dim pgPage As Page 
@@ -76,7 +76,7 @@ Use the  **[AddToCatalogMergeArea](Publisher.Shape.AddToCatalogMergeArea.md)** m
 
 
 
-```
+```vb
 ThisDocument.Pages(1).Shapes.AddShape(1, 80, 75, 450, 125).AddToCatalogMergeArea
 ```
 
@@ -87,7 +87,7 @@ Use  **CatalogMergeItems** (index), where index is index number, to return a sin
 
 
 
-```
+```vb
 ThisDocument.Pages(1).Shapes(1).CatalogMergeItems(1).RemoveFromCatalogMergeArea
 ```
 
@@ -98,7 +98,7 @@ Use the  **[RemoveFromCatalogMergeArea](Publisher.Shape.RemoveFromCatalogMergeAr
 
 
 
-```
+```vb
 Sub DeleteCatalogMergeAreaAndAllShapesWithin() 
  Dim pgPage As Page 
  Dim mmLoop As Shape 

@@ -24,8 +24,5 @@ Specifies whether a bin for values below the [BinsUnderflowValue](Excel.chartgro
 ## See also
 
 
-#### Concepts
-
-
 [ChartGroup Object](Excel.ChartGroup(objec).md)
 

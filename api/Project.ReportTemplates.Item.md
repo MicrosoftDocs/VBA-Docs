@@ -31,7 +31,4 @@ Gets a single  **ReportTemplate** object from a **[ReportTemplates](Project.repo
 ## See also
 
 
-#### Concepts
-
-
 [ReportTemplates Collection Object](Project.reporttemplates.md)

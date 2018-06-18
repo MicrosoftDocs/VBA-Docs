@@ -25,7 +25,7 @@ Use  **FirstLetterExceptions** (Index), where Index is the abbreviation or the i
 
 
 
-```
+```vb
 AutoCorrect.FirstLetterExceptions("appt.").Delete
 ```
 
@@ -43,7 +43,7 @@ Use the  **Add** method to add an abbreviation to the list of first-letter excep
 
 
 
-```
+```vb
 AutoCorrect.FirstLetterExceptions.Add Name:="addr."
 ```
 

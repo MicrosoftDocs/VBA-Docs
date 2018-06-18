@@ -36,8 +36,5 @@ Charts("Chart1").PlotArea.Interior.ColorIndex = 8
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

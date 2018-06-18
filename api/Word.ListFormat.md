@@ -21,7 +21,7 @@ Represents the list formatting attributes that can be applied to the paragraphs 
 Use the  **ListFormat** property to return the **ListFormat** object for a range. The following example applies the default bulleted list format to the selection.
 
 
-```
+```vb
 Selection.Range.ListFormat.ApplyBulletDefault
 ```
 
@@ -36,7 +36,7 @@ Use the  **ListFormat** property with a **Range** object to access the list form
 
 
 
-```
+```vb
 ActiveDocument.Paragraphs(2).Range.ListFormat.ApplyBulletDefault
 ```
 
@@ -45,7 +45,7 @@ However, if there is already a list defined in your document, you can access a  
 
 
 
-```
+```vb
 ActiveDocument.Lists(1).ApplyListTemplate _ 
  ListTemplate:=ListGalleries(2).ListTemplates(1)
 ```

@@ -26,8 +26,5 @@ Returns an  **[OlTaskOwnership](Outlook.OlTaskOwnership.md)** specifying the own
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

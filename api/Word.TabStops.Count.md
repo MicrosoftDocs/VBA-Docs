@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of tab stops in the collection. R
 ## See also
 
 
-#### Concepts
-
-
 [TabStops Collection Object](Word.tabstops.md)
 

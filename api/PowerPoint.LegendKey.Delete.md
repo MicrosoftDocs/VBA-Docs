@@ -28,8 +28,5 @@ Deleting a  **LegendKey** object deletes the entire series.
 ## See also
 
 
-#### Concepts
-
-
 [LegendKey Object](PowerPoint.LegendKey.md)
 

@@ -36,8 +36,5 @@ AutoCorrect.CorrectHangulAndAlphabet = True
 ## See also
 
 
-#### Concepts
-
-
 [AutoCorrect Object](Word.AutoCorrect.md)
 

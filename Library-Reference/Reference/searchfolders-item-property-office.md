@@ -34,9 +34,6 @@ Gets a  **ScopeFolder** object that represents a subfolder of the parent object.
 ## See also
 
 
-#### Concepts
-
-
 [SearchFolders Object](searchfolders-object-office.md)
 #### Other resources
 

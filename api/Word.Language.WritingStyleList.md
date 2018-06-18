@@ -45,8 +45,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Language Object](Word.Language.md)
 

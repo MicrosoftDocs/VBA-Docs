@@ -24,7 +24,7 @@ Use the  **[Rows](Publisher.Table.Rows.md)** property of the **[Table](Publisher
 
  
 
-```
+```vb
 Sub CountRows() 
  MsgBox ActiveDocument.Pages(2).Shapes(1).Table.Rows.Count 
 End Sub
@@ -37,7 +37,7 @@ This example sets the fill for all even-numbered rows and clears the fill for al
 
 
 
-```
+```vb
 Sub FillCellsByRow() 
  Dim shpTable As Shape 
  Dim rowTable As Row 
@@ -66,7 +66,7 @@ Use  **Rows** (index), where index is the index number, to return a single **Row
 
 
 
-```
+```vb
 Sub SelectRows() 
  ActiveDocument.Pages(2).Shapes(1).Table.Rows(3).Cells.Select 
 End Sub

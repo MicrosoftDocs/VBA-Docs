@@ -46,7 +46,7 @@ A colon (:) and a number appear in the window caption when more than one window 
 This example opens a new window for the document that's displayed in the active window.
 
 
-```
+```vb
 Windows.Add
 ```
 
@@ -55,15 +55,12 @@ This example opens a new window for MyDoc.doc.
 
 
 
-```
+```vb
 Windows.Add Window:=Documents("MyDoc.doc").Windows(1)
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Windows Collection Object](Word.windows.md)

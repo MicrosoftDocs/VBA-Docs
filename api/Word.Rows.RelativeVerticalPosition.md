@@ -26,8 +26,5 @@ Specifies the relative vertical position of a group of rows. Read/write  **[WdRe
 ## See also
 
 
-#### Concepts
-
-
 [Rows Collection Object](Word.rows.md)
 

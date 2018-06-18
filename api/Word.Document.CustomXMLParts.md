@@ -26,8 +26,5 @@ Returns a  **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-63
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

@@ -38,8 +38,5 @@ If you delete the  **SourceObject** property setting in the property sheet for a
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

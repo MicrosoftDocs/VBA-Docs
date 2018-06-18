@@ -24,7 +24,7 @@ Use the  **[TextWrap](Publisher.Shape.TextWrap.md)** property to return a **Wrap
 
  
 
-```
+```vb
 Sub SetTextWrapFormatProperties() 
  Dim shpOval As Shape 
  

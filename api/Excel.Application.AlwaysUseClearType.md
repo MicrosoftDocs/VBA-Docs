@@ -31,8 +31,5 @@ Even if the Microsoft Windows setting for ClearType is turned off, setting this 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -33,15 +33,12 @@ You cannot delete a built-in document property.
 This example deletes a custom document property. For this example to run properly, you must have a custom DocumentProperty object named "CustomNumber".
 
 
-```
+```vb
 ActiveDocument.CustomDocumentProperties("CustomNumber").Delete
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [DocumentProperty Object](documentproperty-object-office.md)

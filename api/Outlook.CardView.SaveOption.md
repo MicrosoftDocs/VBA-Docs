@@ -117,8 +117,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [CardView Object](cardOutlook.View.md)
 

@@ -31,8 +31,5 @@ The  **[ChartFormat](Excel.ChartFormat.md)** object contains the line, fill, and
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](chartarea-object-excel.md)
 

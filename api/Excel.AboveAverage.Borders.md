@@ -31,8 +31,5 @@ For a conditional formatting object, you can only set the properties for the top
 ## See also
 
 
-#### Concepts
-
-
 [AboveAverage Object](Excel.AboveAverage.md)
 

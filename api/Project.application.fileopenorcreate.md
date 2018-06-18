@@ -35,7 +35,4 @@ Opens or creates a project file from a project site on SharePoint, by using the 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)

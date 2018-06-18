@@ -65,8 +65,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Comment Object](PowerPoint.Comment.md)
 

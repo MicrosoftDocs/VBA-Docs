@@ -43,8 +43,5 @@ MsgBox "The name of the active sheet is " &; ActiveSheet.Name
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

@@ -51,8 +51,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [AboveAverage Object](Excel.AboveAverage.md)
 

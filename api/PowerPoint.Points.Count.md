@@ -23,8 +23,5 @@ Returns the number of objects in the collection. Read-only  **Long**.
 ## See also
 
 
-#### Concepts
-
-
 [Points Object](PowerPoint.Points.md)
 

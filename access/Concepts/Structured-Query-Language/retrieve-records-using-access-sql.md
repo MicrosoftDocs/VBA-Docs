@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 The most basic and most often used SQL statement is the  **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. **SELECT** statements are the workhorses of all SQL statements, and they are commonly referred to as select queries. You use the **SELECT** statement to retrieve data from the database tables, and the results are usually returned in a set of records (or rows) made up of any number of fields (or columns). You must use the **[FROM](from-clause-microsoft-access-sql.md)** clause to designate which table or tables to select from. The basic structure of a **SELECT** statement is:
 
 
-```sql
+```vbsql
 SELECT field list  
     FROM table list
 ```
@@ -22,7 +22,7 @@ To select all fields from a table, use an asterisk (*). For example, the followi
 
 
 
-```sql
+```vbsql
 SELECT * 
     FROM tblCustomers 
 
@@ -32,7 +32,7 @@ To limit the fields retrieved by the query, simply use the field names instead. 
 
 
 
-```sql
+```vbsql
 SELECT [Last Name], Phone 
     FROM tblCustomers 
 
@@ -42,7 +42,7 @@ To designate a different name for a field in the result set, use the  **[AS](as-
 
 
 
-```sql
+```vbsql
 SELECT CustomerID AS [Customer Number] 
     FROM tblCustomers 
 
@@ -54,7 +54,7 @@ SELECT CustomerID AS [Customer Number]
 More often than not, you will not want to retrieve all records from a table. You will want only a subset of those records based on some qualifying criteria. To qualify a  **SELECT** statement, you must use a **[WHERE](where-clause-microsoft-access-sql.md)** clause, which will allow you to specify exactly which records you want to retrieve.
 
 
-```sql
+```vbsql
 SELECT * 
     FROM tblInvoices 
     WHERE CustomerID = 1 
@@ -66,7 +66,7 @@ Be aware of the  `CustomerID = 1` portion of the **WHERE** clause. A **WHERE** c
 
 
 
-```sql
+```vbsql
 SELECT * 
     FROM tblInvoices 
     WHERE CustomerID = 1 AND InvoiceDate > #01/01/98# 
@@ -78,7 +78,7 @@ Be aware that the date string is enclosed in number signs (#). If you are using 
 
 
 
-```sql
+```vbsql
 SELECT * 
     FROM tblCustomers 
     WHERE [Last Name] = 'White' 
@@ -90,7 +90,7 @@ If you do not know the whole string value, you can use wildcard characters with 
 
 
 
-```sql
+```vbsql
 SELECT * 
     FROM tblCustomers 
     WHERE [Last Name] LIKE 'W*' 
@@ -118,7 +118,7 @@ Fields referenced in the  **ORDER BY** clause do not have to be part of the **SE
 
 
 
-```sql
+```vbsql
 SELECT * 
     FROM tblCustomers 
     ORDER BY [Last Name], [First Name] DESC 
@@ -130,7 +130,7 @@ You can also use the field numbers (or positions) instead of field names in the 
 
 
 
-```sql
+```vbsql
 SELECT * 
     FROM tblCustomers 
     ORDER BY 2, 3 DESC 

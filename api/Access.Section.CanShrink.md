@@ -57,8 +57,5 @@ When you use the  **CanShrink** property, remember that:
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

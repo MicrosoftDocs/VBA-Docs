@@ -26,8 +26,5 @@ The  **Enabled** property allows **MultiThreadedCalculation** objects to be enab
 ## See also
 
 
-#### Concepts
-
-
 [MultiThreadedCalculation Object](Excel.MultiThreadedCalculation.md)
 

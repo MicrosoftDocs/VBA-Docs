@@ -43,8 +43,5 @@ Me.ctl.BackTint=25
 ## See also
 
 
-#### Concepts
-
-
 [TextBox Object](Access.TextBox.md)
 

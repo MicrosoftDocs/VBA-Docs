@@ -155,7 +155,7 @@ To enter units implicitly, use the following syntax.
 
 
 
-```
+```vb
 number [unit, flag]  
 ```
 

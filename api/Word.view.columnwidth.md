@@ -29,8 +29,5 @@ Returns or gets a constant that determines the column width in reading mode. Rea
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

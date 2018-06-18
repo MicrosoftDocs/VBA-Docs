@@ -52,9 +52,6 @@ When the node is deleted, the first child gets promoted. In the following data m
 ## See also
 
 
-#### Concepts
-
-
 [SmartArtNode Object](smartartnode-object-office.md)
 #### Other resources
 

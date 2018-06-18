@@ -31,8 +31,5 @@ The **AllowAutoCorrect** property will correct spelling errors in filters for Co
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

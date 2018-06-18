@@ -46,15 +46,12 @@ This example changes the current folder to the path of the template attached to 
 
 
 
-```
+```vb
 ChDir ActiveDocument.AttachedTemplate.Path
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

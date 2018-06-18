@@ -44,8 +44,5 @@ Application.Dialogs.Item(xlDialogOpen).Show arg3:=True
 ## See also
 
 
-#### Concepts
-
-
 [Dialogs Object](Excel.Dialogs.md)
 

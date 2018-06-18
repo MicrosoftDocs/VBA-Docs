@@ -38,8 +38,5 @@ If you use the  **[Close](Outlook.SharingItem.Close(method).md)** method to fire
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

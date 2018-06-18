@@ -38,8 +38,5 @@ Set objNode = ActiveDocument.XMLNodes(2).LastChild
 ## See also
 
 
-#### Concepts
-
-
 [XMLNode Object](Word.XMLNode.md)
 

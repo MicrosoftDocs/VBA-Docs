@@ -31,8 +31,5 @@ If you set the  **Visible** property for a name to **False** , the name won't ap
 ## See also
 
 
-#### Concepts
-
-
 [Name Object](Excel.Name.md)
 

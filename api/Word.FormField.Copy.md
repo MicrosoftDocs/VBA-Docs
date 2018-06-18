@@ -26,8 +26,5 @@ Copies the specified form field to the Clipboard.
 ## See also
 
 
-#### Concepts
-
-
 [FormField Object](Word.FormField.md)
 

@@ -26,8 +26,5 @@ Deletes an object from the collection.
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

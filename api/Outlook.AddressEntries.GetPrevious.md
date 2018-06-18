@@ -36,8 +36,5 @@ It returns  **Nothing** if no previous object exists, for example, if already po
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntries Object](Outlook.AddressEntries.md)
 

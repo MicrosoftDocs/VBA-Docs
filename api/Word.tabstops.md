@@ -54,7 +54,7 @@ You can also add a tab stop by specifying a location with the  **TabStops** prop
 
 
 
-```
+```vb
 Selection.Paragraphs.TabStops(InchesToPoints(2)) _ 
  .Alignment = wdAlignTabRight
 ```
@@ -73,7 +73,7 @@ The following example adds a right-aligned tab stop positioned at 2 inches to th
 
 
 
-```
+```vb
 Selection.Paragraphs.TabStops(InchesToPoints(2)) _ 
  .Alignment = wdAlignTabRight
 ```

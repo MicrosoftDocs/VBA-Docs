@@ -42,8 +42,5 @@ Prints a label or a page of labels with the same address.
 ## See also
 
 
-#### Concepts
-
-
 [MailingLabel Object](Word.MailingLabel.md)
 

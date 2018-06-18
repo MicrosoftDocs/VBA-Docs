@@ -51,8 +51,5 @@ Any of the arguments can be a negative number.
 ## See also
 
 
-#### Concepts
-
-
 [Pane Object](Excel.Pane.md)
 

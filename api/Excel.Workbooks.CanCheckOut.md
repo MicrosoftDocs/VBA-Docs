@@ -58,8 +58,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Workbooks Object](Excel.Workbooks.md)
 

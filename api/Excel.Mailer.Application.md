@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Mailer Object](Excel.Mailer.md)
 

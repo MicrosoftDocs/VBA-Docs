@@ -31,8 +31,5 @@ Returns a constant,  **olRuleActionMoveToFolder** , from the **[OlRuleActionType
 ## See also
 
 
-#### Concepts
-
-
 [MoveOrCopyRuleAction Object](Outlook.MoveOrCopyRuleAction.md)
 

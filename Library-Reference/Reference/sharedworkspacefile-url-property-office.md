@@ -41,16 +41,13 @@ The  **URL** property returns the address of the shared workspace file in this f
 The following example displays the URL of the shared workspace file.
 
 
-```
+```vb
 MsgBox "URL: " &amp; ActiveWorkbook.SharedWorkspaceFile.URL, _ 
         vbInformation + vbOKOnly, "Shared Workspace File URL"
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceFile Object](sharedworkspacefile-object-office.md)

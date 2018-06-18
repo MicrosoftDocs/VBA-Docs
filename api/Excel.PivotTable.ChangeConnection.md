@@ -39,8 +39,5 @@ The  **ChangeConnection** method can only be used with a **PivotTable** that is 
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

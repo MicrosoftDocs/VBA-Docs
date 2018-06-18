@@ -28,7 +28,7 @@ The chart legend isn't visible unless the  **[HasLegend](Excel.Chart.HasLegend.m
 Use the  **[Legend](Excel.Chart.Legend.md)** property to return the **Legend** object. The following example sets the font style for the legend in embedded chart one on worksheet one to bold.
 
 
-```
+```vb
 Worksheets(1).ChartObjects(1).Chart.Legend.Font.Bold = True
 ```
 

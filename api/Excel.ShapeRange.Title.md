@@ -36,8 +36,5 @@ To set the descriptive text string of the alternative text for a shape range, us
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

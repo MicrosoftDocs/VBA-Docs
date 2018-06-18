@@ -31,8 +31,5 @@ This property returns **True** when the PivotField of the filter is in the Pivot
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilter Object](Excel.PivotFilter.md)
 

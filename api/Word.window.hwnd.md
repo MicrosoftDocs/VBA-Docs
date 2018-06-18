@@ -29,8 +29,5 @@ Returns a  **Long** that indicates the window handle of the specified window. Re
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Word.Window.md)
 

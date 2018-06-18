@@ -54,8 +54,5 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 4, 10, 10, 288, 216)
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](PowerPoint.Shapes.md)
 

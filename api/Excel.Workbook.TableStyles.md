@@ -31,8 +31,5 @@ You can manipulate the table styles returned by the property.
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

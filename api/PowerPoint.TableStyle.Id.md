@@ -31,8 +31,5 @@ String
 ## See also
 
 
-#### Concepts
-
-
 [TableStyle Object](PowerPoint.TableStyle.md)
 

@@ -38,7 +38,4 @@ Adds a  **Project** object to a **Projects** collection.
 ## See also
 
 
-#### Concepts
-
-
 [Projects Collection Object](Project.projects.md)

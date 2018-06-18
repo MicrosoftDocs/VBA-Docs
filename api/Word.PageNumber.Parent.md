@@ -23,8 +23,5 @@ Returns an  **Object** that represents the parent object of the specified **Page
 ## See also
 
 
-#### Concepts
-
-
 [PageNumber Object](Word.PageNumber.md)
 

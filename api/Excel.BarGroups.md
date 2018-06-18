@@ -26,7 +26,7 @@ On a 2-D chart, this method returns an object that represents either a single ba
 This example sets the space between bar clusters in the 2-D bar chart group to be 50 percent of the bar width.
 
 
-```
+```vb
 myChart.BarGroups(1).GapWidth = 50
 ```
 

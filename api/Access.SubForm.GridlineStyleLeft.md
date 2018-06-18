@@ -37,8 +37,5 @@ The  **BottomGridlineWidth** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [SubForm Object](Access.SubForm.md)
 

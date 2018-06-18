@@ -26,8 +26,5 @@ Returns a [GlowFormat](Word.GlowFormat.md) object that represents the glow forma
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Word.Font.md)
 

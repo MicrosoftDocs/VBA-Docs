@@ -42,8 +42,5 @@ The value returned by the  **RotateWithShape** property can be one of these **Ms
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 

@@ -26,7 +26,7 @@ Represents a filter for a single column.
 Use  **[Filters](Excel.AutoFilter.Filters.md)** ( _index_ ), where _index_ is the filter title or index number, to return a single **Filter** object. The following example sets a variable to the value of the **[On](Excel.Filter.On.md)** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 
-```
+```vb
 Set w = Worksheets("Crew") 
 If w.AutoFilterMode Then 
  filterIsOn = w.AutoFilter.Filters(1).On 
@@ -38,7 +38,7 @@ Note that all the properties of the  **Filter** object are read-only. To set the
 
 
 
-```
+```vb
 Set w = Worksheets("Crew") 
 w.Cells.AutoFilter field:=2, Criteria1:="Crucial", _ 
  Operator:=xlOr, Criteria2:="Important"

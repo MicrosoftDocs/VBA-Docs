@@ -75,8 +75,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [AutoTextEntries Collection Object](Word.autotextentries.md)
 

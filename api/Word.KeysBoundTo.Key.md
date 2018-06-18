@@ -47,8 +47,5 @@ You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argum
 ## See also
 
 
-#### Concepts
-
-
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 

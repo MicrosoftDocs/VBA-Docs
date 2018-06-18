@@ -36,8 +36,5 @@ This property provides compatibility with earlier versions of Microsoft Excel. Y
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

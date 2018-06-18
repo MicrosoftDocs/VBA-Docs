@@ -38,7 +38,7 @@ String
 The following example displays a message box with the name of the folder that will be searched.
 
 
-```
+```vb
 Dim sf As ScopeFolder 
  Dim strScopeFolder As String 
  
@@ -51,9 +51,6 @@ Dim sf As ScopeFolder
 
 
 ## See also
-
-
-#### Concepts
 
 
 [ScopeFolder Object](scopefolder-object-office.md)

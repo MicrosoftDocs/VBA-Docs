@@ -26,8 +26,5 @@ Returns the value or expression associated with the second part of a conditional
 ## See also
 
 
-#### Concepts
-
-
 [Validation Object](Excel.Validation.md)
 

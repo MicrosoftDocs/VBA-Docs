@@ -34,8 +34,5 @@ Returns or sets a  **String** that represents the physical location of the names
 ## See also
 
 
-#### Concepts
-
-
 [XMLNamespace Object](Word.XMLNamespace.md)
 

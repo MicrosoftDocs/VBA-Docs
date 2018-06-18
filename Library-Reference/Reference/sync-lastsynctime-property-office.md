@@ -38,7 +38,7 @@ If the active document is not configured for synchronization between the local c
 The following example alerts the user and displays the sync status if more than 24 hours have elapsed since the LastSyncTime.
 
 
-```
+```vb
     Dim objSync As Office.Sync 
     Dim dtmLastSync As Date 
     Dim strStatus As String 
@@ -56,9 +56,6 @@ The following example alerts the user and displays the sync status if more than 
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Sync Object](sync-object-office.md)

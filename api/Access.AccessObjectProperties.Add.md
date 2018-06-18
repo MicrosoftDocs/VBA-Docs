@@ -40,8 +40,5 @@ You can use the  **Remove** method of the **AccessObjectProperties** collection 
 ## See also
 
 
-#### Concepts
-
-
 [AccessObjectProperties Collection](Access.AccessObjectProperties.md)
 

@@ -26,7 +26,7 @@ Represents the memory cache for a PivotTable report.
 Use the  **[PivotCache](Excel.PivotTable.PivotCache.md)** method to return a **PivotCache** object for a PivotTable report (each report has only one cache). The following example causes the first PivotTable report on the first worksheet to refresh itself whenever its file is opened.
 
 
-```
+```vb
 Worksheets(1).PivotTables(1).PivotCache.RefreshOnFileOpen = True
 ```
 
@@ -35,7 +35,7 @@ Use  **[PivotCaches](Excel.Workbook.PivotCaches.md)** ( _index_ ), where _index_
 
 
 
-```
+```vb
 ActiveWorkbook.PivotCaches(1).Refresh
 ```
 

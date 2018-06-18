@@ -60,8 +60,5 @@ The  **ApplyFilter** event does not occur when the user does one of the followin
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

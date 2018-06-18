@@ -31,8 +31,5 @@ If the  **[PreferredWidthType](Word.Columns.PreferredWidthType.md)** property is
 ## See also
 
 
-#### Concepts
-
-
 [Columns Collection Object](Word.columns.md)
 

@@ -43,8 +43,5 @@ The value of the  **Type** property can be one of these **MsoConnectorType** con
 ## See also
 
 
-#### Concepts
-
-
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 

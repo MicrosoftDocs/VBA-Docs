@@ -36,8 +36,5 @@ For more information, see [Working with Bibliographies](http://msdn.microsoft.co
 ## See also
 
 
-#### Concepts
-
-
 [Bibliography Object](Word.Bibliography.md)
 

@@ -64,8 +64,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 

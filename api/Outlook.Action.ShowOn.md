@@ -26,8 +26,5 @@ Returns or sets an  **[OlActionShowOn](Outlook.OlActionShowOn.md)** constant rep
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Outlook.Action.md)
 

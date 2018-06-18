@@ -26,8 +26,5 @@ Returns or sets the size of the reflection as a percentage of the reflected shap
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 

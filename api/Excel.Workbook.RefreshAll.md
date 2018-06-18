@@ -41,8 +41,5 @@ Workbooks(3).RefreshAll
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -45,8 +45,5 @@ ActiveDocument.Hyperlinks(1).Target = "left"
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Word.Hyperlink.md)
 

@@ -46,7 +46,7 @@ You can trap project-level events from outside VBA.
 
 1. Create a class module named  **EventClassModule**, and then insert the following code:
     
-  ```
+  ```vb
   Option Explicit 
 Option Base 1 
  
@@ -92,7 +92,7 @@ End Sub
     
 2. In a separate module, insert the following code:
     
-  ```
+  ```vb
   Option Explicit 
  
 Dim X As New EventClassModule 

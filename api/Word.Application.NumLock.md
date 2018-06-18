@@ -28,15 +28,12 @@ Returns the state of the NUM LOCK key.  **True** if the keys on the numeric keyp
 This example returns the current state of the NUM LOCK key.
 
 
-```
+```vb
 theState = Application.NumLock
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Application Object](Word.Application.md)

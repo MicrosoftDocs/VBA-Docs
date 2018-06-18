@@ -62,8 +62,5 @@ myDocument.Shapes(1).BlackWhiteMode = msoBlackWhiteBlack
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

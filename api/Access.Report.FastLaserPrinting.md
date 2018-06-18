@@ -47,8 +47,5 @@ DoCmd.Close acReport, "Invoice", acSaveYes
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

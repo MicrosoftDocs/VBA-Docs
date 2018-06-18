@@ -53,8 +53,5 @@ ActiveSheet.Paste Destination:=Worksheets("Sheet1").Range("D1:D5")
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

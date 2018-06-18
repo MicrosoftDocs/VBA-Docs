@@ -38,8 +38,5 @@ An error occurs if you attempt to set this property after the sharing message ha
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

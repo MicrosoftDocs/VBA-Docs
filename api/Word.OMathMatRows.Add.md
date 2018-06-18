@@ -39,8 +39,5 @@ OMathMatRow
 ## See also
 
 
-#### Concepts
-
-
 [OMathMatRows Collection](Word.OMathMatRows.md)
 

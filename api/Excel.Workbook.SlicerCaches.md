@@ -31,8 +31,5 @@ SlicerCaches
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

@@ -73,8 +73,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [UserProperty Object](Outlook.UserProperty.md)
 

@@ -36,8 +36,5 @@ The setting of the  **TextureVerticalScale** property corresponds to the setting
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](PowerPoint.FillFormat.md)
 

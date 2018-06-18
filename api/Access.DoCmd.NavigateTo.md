@@ -58,8 +58,5 @@ The following table contains examples of valid  _Group_ arguments for each _Cate
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

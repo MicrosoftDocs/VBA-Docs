@@ -26,8 +26,5 @@ Returns the value or expression associated with the conditional format or data v
 ## See also
 
 
-#### Concepts
-
-
 [Validation Object](Excel.Validation.md)
 

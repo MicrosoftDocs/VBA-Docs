@@ -26,8 +26,5 @@ Returns or sets name of the object. Read/write  **String** .
 ## See also
 
 
-#### Concepts
-
-
 [Trendline Object](Word.Trendline.md)
 

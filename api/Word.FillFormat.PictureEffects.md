@@ -31,8 +31,5 @@ You use the [Insert](http://msdn.microsoft.com/library/589c38d7-1d0a-ad87-a84c-7
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Word.FillFormat.md)
 

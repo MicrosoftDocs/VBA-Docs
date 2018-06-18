@@ -39,8 +39,5 @@ An  **Account** object that matches the account specified by _Index_ .
 ## See also
 
 
-#### Concepts
-
-
 [Accounts Object](Outlook.Accounts.md)
 

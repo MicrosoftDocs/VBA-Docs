@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Head
 ## See also
 
 
-#### Concepts
-
-
 [HeadingStyles Collection Object](Word.headingstyles.md)
 

@@ -58,8 +58,5 @@ The  **FontBold** property, which is available only in Visual Basic and macros, 
 ## See also
 
 
-#### Concepts
-
-
 [ToggleButton Object](Access.ToggleButton.md)
 

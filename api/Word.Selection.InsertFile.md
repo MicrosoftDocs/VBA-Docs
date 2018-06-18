@@ -40,7 +40,7 @@ Inserts all or part of the specified file.
 This example uses an INCLUDETEXT field to insert the TEST.DOC file at the insertion point.
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseEnd 
 Selection.InsertFile FileName:="C:\TEST.DOC", Link:=True
 ```
@@ -67,9 +67,6 @@ Wend
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

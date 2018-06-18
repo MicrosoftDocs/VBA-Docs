@@ -39,8 +39,5 @@ Range
 ## See also
 
 
-#### Concepts
-
-
 [Words Collection Object](Word.words.md)
 

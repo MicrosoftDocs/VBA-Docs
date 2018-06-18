@@ -31,8 +31,5 @@ The  **CountLarge** property is functionally the same as the **[Count](Excel.Ran
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

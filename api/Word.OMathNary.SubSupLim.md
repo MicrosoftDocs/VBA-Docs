@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** that represents the positioning of n-ary limits i
 ## See also
 
 
-#### Concepts
-
-
 [OMathNary Object](Word.OMathNary.md)
 

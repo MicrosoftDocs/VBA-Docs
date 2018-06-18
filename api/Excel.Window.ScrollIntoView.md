@@ -55,8 +55,5 @@ ActiveWindow.ScrollIntoView _
 ## See also
 
 
-#### Concepts
-
-
 [Window Object](Excel.Window.md)
 

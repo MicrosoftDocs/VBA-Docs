@@ -31,8 +31,5 @@ A chart title is represented by a  **[ChartTitle](Word.ChartTitle.md)** object.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

@@ -26,8 +26,5 @@ Returns  **True** if Microsoft Excel can use the **[XPath](Excel.XPath.md)** obj
 ## See also
 
 
-#### Concepts
-
-
 [XmlMap Object](Excel.XmlMap.md)
 

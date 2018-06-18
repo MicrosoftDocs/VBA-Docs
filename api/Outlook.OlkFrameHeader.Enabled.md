@@ -33,8 +33,5 @@ When the control is disabled, the contents of the control appear dimmed.
 ## See also
 
 
-#### Concepts
-
-
 [OlkFrameHeader Object](Outlook.OlkFrameHeader.md)
 

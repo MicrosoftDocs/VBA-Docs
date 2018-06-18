@@ -41,8 +41,5 @@ Charts("Chart1").Floor.Interior.ColorIndex = 5
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Excel.Chart(object).md)
 

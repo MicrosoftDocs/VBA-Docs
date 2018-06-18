@@ -48,8 +48,5 @@ Documents("Report.doc").UpdateStylesOnOpen = False
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

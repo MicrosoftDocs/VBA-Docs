@@ -37,7 +37,7 @@ Moves or extends the start position of the specified range or selection to the b
 If the beginning of the specified range or selection is already at the beginning of the specified unit, this method doesn't move or extend the range or selection. For example, if the selection is at the beginning of a line, the following example returns 0 (zero) and doesn't change the selection.
 
 
-```
+```vb
 char = Selection.StartOf(Unit:=wdLine, Extend:=wdMove)
 ```
 
@@ -47,7 +47,7 @@ char = Selection.StartOf(Unit:=wdLine, Extend:=wdMove)
 This example selects the text from the insertion point to the beginning of the line. The number of characters selected is stored in  _charmoved_ .
 
 
-```
+```vb
 Selection.Collapse Direction:=wdCollapseStart charmoved = Selection.StartOf(Unit:=wdLine, Extend:=wdExtend)
 ```
 
@@ -56,7 +56,7 @@ This example moves the selection to the beginning of the paragraph.
 
 
 
-```
+```vb
 Selection.StartOf Unit:=wdParagraph, Extend:=wdMove
 ```
 
@@ -73,9 +73,6 @@ myRange.Select
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

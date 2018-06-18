@@ -33,8 +33,5 @@ If  **True** , the specified item is in conflict.
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

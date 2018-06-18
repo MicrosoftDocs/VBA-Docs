@@ -25,7 +25,7 @@ Returns or sets the color of the interior pattern as an RGB value. Read/write  *
 This example sets the color of the interior pattern for the chart area.
 
 
-```
+```vb
 myChart.ChartArea.Interior.PatternColor = RGB(255,0,0)
 ```
 

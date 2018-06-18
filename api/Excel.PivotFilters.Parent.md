@@ -26,8 +26,5 @@ Returns the parent object for the specified  **PivotFilters** object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [PivotFilters Object](Excel.PivotFilters.md)
 

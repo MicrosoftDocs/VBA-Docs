@@ -63,8 +63,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Actions Object](Outlook.Actions.md)
 

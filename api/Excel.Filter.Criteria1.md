@@ -42,8 +42,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Filter Object](Excel.Filter.md)
 

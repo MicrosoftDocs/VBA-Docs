@@ -31,8 +31,5 @@ Use this property in conjunction with the  **[PathName](Outlook.Attachment.PathN
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Outlook.Attachment.md)
 

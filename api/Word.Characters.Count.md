@@ -26,8 +26,5 @@ Returns the number of characters in the  **Characters** collection. Read-only **
 ## See also
 
 
-#### Concepts
-
-
 [Characters Collection Object](Word.characters.md)
 

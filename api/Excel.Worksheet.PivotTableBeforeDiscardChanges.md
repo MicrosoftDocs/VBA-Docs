@@ -46,8 +46,5 @@ Occurs immediately before Excel executes a  **ROLLBACK TRANSACTION** statement a
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

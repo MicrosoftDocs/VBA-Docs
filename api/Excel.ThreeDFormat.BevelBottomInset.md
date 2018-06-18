@@ -23,8 +23,5 @@ Returns or sets a value indicating whether the bottom insert bevel should be rai
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

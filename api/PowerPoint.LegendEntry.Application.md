@@ -26,8 +26,5 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 

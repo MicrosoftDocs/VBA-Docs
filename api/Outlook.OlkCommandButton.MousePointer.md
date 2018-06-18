@@ -31,8 +31,5 @@ The default value is  **olMousePointerDefault** .
 ## See also
 
 
-#### Concepts
-
-
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 

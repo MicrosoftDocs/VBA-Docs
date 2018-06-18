@@ -26,8 +26,5 @@ Returns a  **Long** that represents the number of recent files in the collection
 ## See also
 
 
-#### Concepts
-
-
 [RecentFiles Collection Object](Word.recentfiles.md)
 

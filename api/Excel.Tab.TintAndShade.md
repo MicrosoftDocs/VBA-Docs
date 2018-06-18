@@ -33,8 +33,5 @@ Attempting to set this property to a value less than -1 or more than 1, is not r
 ## See also
 
 
-#### Concepts
-
-
 [Tab Object](Excel.Tab.md)
 

@@ -57,8 +57,5 @@ In this mode, inputted characters are settled without conversion.
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

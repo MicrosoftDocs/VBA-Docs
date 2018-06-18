@@ -26,8 +26,5 @@ Returns or sets a  **Long** value that represents the red-green-blue value of th
 ## See also
 
 
-#### Concepts
-
-
 [ColorFormat Object](Excel.ColorFormat.md)
 

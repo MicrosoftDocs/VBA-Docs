@@ -26,8 +26,5 @@ Returns a  **String** representing the e-mail address of the **[Recipient](Outlo
 ## See also
 
 
-#### Concepts
-
-
 [Recipient Object](Outlook.Recipient.md)
 

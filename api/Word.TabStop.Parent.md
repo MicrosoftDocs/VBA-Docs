@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **TabS
 ## See also
 
 
-#### Concepts
-
-
 [TabStop Object](Word.TabStop.md)
 

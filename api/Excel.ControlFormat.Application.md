@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [ControlFormat Object](Excel.ControlFormat.md)
 

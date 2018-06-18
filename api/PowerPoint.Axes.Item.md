@@ -63,8 +63,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Axes Object](PowerPoint.Axes.md)
 

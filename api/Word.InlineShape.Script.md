@@ -31,8 +31,5 @@ If the page contains no script, nothing is returned.
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

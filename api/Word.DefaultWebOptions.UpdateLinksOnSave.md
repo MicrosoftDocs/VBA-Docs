@@ -43,8 +43,5 @@ Application.DefaultWebOptions.UpdateLinksOnSave = False
 ## See also
 
 
-#### Concepts
-
-
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 

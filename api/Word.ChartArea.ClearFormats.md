@@ -40,8 +40,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](Word.ChartArea.md)
 

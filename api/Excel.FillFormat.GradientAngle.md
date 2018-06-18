@@ -44,8 +44,5 @@ ActiveChart.SeriesCollection(1).Format.Fill.GradientAngle = 45
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

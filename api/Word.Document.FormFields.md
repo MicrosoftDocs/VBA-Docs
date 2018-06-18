@@ -41,8 +41,5 @@ ActiveDocument.FormFields("Text1").Result = "Name"
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

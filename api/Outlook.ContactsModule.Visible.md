@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the **[ContactsModu
 ## See also
 
 
-#### Concepts
-
-
 [ContactsModule Object](Outlook.ContactsModule.md)
 

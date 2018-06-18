@@ -49,8 +49,5 @@ If intCount = 0 Then _
 ## See also
 
 
-#### Concepts
-
-
 [KeyBinding Object](Word.KeyBinding.md)
 

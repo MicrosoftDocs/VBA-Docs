@@ -25,15 +25,12 @@ Retrieves the children nodes associated with this Smart Art Node. Read-only
 The following code returns the number of nodes in the Smart Art diagram.
 
 
-```
+```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Nodes.Count
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SmartArtNode Object](smartartnode-object-office.md)

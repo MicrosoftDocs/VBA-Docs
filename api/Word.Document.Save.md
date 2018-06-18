@@ -52,16 +52,13 @@ This example saves each document in the  **Documents** collection without first 
 
 
 
-```
+```vb
 Documents.Save NoPrompt:=True, _ 
  OriginalFormat:=wdOriginalDocumentFormat
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Document Object](Word.Document.md)

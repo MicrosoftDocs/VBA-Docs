@@ -33,8 +33,5 @@ This property of the  **[RuleActions](Outlook.RuleActions.md)** collection alway
 ## See also
 
 
-#### Concepts
-
-
 [RuleActions Object](Outlook.RuleActions.md)
 

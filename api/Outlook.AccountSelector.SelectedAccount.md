@@ -33,8 +33,5 @@ This property returns  **Null** ( **Nothing** in Visual Basic) if no accounts ar
 ## See also
 
 
-#### Concepts
-
-
 [AccountSelector Object](Outlook.AccountSelector.md)
 

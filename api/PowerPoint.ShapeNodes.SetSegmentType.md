@@ -75,8 +75,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 

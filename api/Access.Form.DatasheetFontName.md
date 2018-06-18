@@ -48,8 +48,5 @@ The following table contains the properties that don't exist in the DAO  **Prope
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

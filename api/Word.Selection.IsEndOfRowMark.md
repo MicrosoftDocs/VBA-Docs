@@ -28,7 +28,7 @@ ms.date: 06/08/2017
 This property is the equivalent of the following expression:
 
 
-```
+```vb
 Selection.Information(wdAtEndOfRowMarker)
 ```
 
@@ -47,9 +47,6 @@ End If
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Selection Object](Word.Selection.md)

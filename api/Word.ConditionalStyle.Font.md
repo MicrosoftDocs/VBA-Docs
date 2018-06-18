@@ -31,8 +31,5 @@ To set the  **Font** property, specify an expression that returns a **[Font](Wor
 ## See also
 
 
-#### Concepts
-
-
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 

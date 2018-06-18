@@ -59,8 +59,5 @@ ActiveDocument.AdvancedPrintOptions.Resolution = "300 x 300"
 ## See also
 
 
-#### Concepts
-
-
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 

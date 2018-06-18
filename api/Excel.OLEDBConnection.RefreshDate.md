@@ -31,8 +31,5 @@ For OLAP data sources, this property is updated after each query.
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

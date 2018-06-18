@@ -43,8 +43,5 @@ ActiveDocument.WebOptions.UseDefaultFolderSuffix
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Word.WebOptions.md)
 

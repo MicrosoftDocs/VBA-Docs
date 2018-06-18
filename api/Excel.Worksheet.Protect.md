@@ -57,8 +57,5 @@ If changes wanted to be made to a protected worksheet, it is possible to use the
 ## See also
 
 
-#### Concepts
-
-
 [Worksheet Object](Excel.Worksheet.md)
 

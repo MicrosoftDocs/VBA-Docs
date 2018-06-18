@@ -65,8 +65,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [StyleSheet Object](Word.StyleSheet.md)
 

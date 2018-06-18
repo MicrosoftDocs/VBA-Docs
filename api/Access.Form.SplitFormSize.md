@@ -33,8 +33,5 @@ Setting the  **SplitFormSize** property to `0` resets the form's default size.
 ## See also
 
 
-#### Concepts
-
-
 [Form Object](Access.Form.md)
 

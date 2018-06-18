@@ -22,7 +22,7 @@ Use a property such as the  **[ReportList](http://msdn.microsoft.com/library/0c6
 
 
 
-```
+```vb
 Dim Items As Integer, ReportNames As String 
  
 For Items = 1 To ActiveProject.ReportList.Count 

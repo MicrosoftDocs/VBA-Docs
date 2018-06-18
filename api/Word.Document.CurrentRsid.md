@@ -31,8 +31,5 @@ If the  **[StoreRSIDOnSave](Word.Options.StoreRSIDOnSave.md)** property is **Tru
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

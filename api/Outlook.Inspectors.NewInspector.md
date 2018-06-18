@@ -41,8 +41,5 @@ The event occurs after the new  **Inspector** object is created but before the i
 ## See also
 
 
-#### Concepts
-
-
 [Inspectors Object](Outlook.Inspectors.md)
 

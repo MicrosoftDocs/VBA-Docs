@@ -26,8 +26,5 @@ Returns a  **[VPageBreaks](Excel.Charts.VPageBreaks.md)** collection that repres
 ## See also
 
 
-#### Concepts
-
-
 [Charts Collection](Excel.Charts.md)
 

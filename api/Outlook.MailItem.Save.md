@@ -31,8 +31,5 @@ If a mail item is an inline reply, calling  **Save** on that mail item may fail 
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

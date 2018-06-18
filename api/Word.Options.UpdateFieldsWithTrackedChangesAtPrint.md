@@ -31,8 +31,5 @@ Setting this property has the same effect as selecting or unselecting the check 
 ## See also
 
 
-#### Concepts
-
-
 [Options Object](Word.Options.md)
 

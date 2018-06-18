@@ -26,8 +26,5 @@ Returns or sets an  **[MsoShapeStyleIndex](http://msdn.microsoft.com/library/61f
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

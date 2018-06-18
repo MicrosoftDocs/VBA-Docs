@@ -47,15 +47,12 @@ Boolean
 The following sample returns True if the  **Bold** button is visible.
 
 
-```
+```vb
 Application.CommandBars.GetVisibleMso("Bold")
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CommandBars Object](commandbars-object-office.md)

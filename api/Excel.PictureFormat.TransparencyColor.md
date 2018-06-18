@@ -49,8 +49,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [PictureFormat Object](Excel.PictureFormat.md)
 

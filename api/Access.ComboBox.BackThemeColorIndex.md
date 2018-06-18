@@ -61,8 +61,5 @@ Me.FormHeader.BackThemeColorIndex=2
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

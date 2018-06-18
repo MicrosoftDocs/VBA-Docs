@@ -26,8 +26,5 @@ Returns the number of items in the  **Cells** collection. Read-only **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [Cells Collection Object](Word.cells.md)
 

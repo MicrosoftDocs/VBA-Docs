@@ -58,8 +58,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Word.Section.md)
 

@@ -32,7 +32,7 @@ Describes the position of tick-mark labels on the specified axis. Read/write XlT
 This example sets tick-mark labels on the category axis to the high position (above the chart).
 
 
-```
+```vb
 myChart.Axes(xlCategory) _ 
  .TickLabelPosition = xlTickLabelPositionHigh
 ```

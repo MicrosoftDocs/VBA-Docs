@@ -26,8 +26,5 @@ Returns or sets a  **String** indicating the profession for the contact. Read/wr
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

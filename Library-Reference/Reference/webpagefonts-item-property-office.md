@@ -36,7 +36,7 @@ Gets a  **WebPageFont** object from the **WebPageFonts** collection for a partic
 The following example uses the  **Item** property to set "myFont" to the **WebPageFont** object for the **English/Western European/Other Latin Script** character set in the active application.
 
 
-```
+```vb
 Dim myFont As WebPageFont 
 Set myFont = _ 
  Application.DefaultWebOptions.Fonts. _ 
@@ -45,9 +45,6 @@ Set myFont = _
 
 
 ## See also
-
-
-#### Concepts
 
 
 [WebPageFonts Object](webpagefonts-object-office.md)

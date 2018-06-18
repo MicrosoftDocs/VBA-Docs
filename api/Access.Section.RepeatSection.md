@@ -51,8 +51,5 @@ Reports("Purchase Order").Section("GroupHeader0").RepeatSection = True
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

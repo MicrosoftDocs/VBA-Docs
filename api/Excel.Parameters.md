@@ -37,7 +37,7 @@ Use the  **Add** method to create a new parameter for a query table. The followi
 
 
 
-```sql
+```vbsql
 Set qt = Sheets("sheet1").QueryTables(1) 
 qt.Sql = "SELECT * FROM authors WHERE (city=?)" 
 Set param1 = qt.Parameters.Add("City Parameter", _ 

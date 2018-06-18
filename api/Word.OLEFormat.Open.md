@@ -26,8 +26,5 @@ Opens the specified  **OLEFormat** object.
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Word.OLEFormat.md)
 

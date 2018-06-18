@@ -26,8 +26,5 @@ Occurs when the control is double-clicked through user action.
 ## See also
 
 
-#### Concepts
-
-
 [OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 

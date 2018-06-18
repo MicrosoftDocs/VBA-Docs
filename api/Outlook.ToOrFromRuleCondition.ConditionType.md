@@ -31,8 +31,5 @@ Returns a constant from the  **[OlRuleConditionType](Outlook.OlRuleConditionType
 ## See also
 
 
-#### Concepts
-
-
 [ToOrFromRuleCondition Object](Outlook.ToOrFromRuleCondition.md)
 

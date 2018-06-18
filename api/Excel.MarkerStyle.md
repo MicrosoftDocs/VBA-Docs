@@ -40,7 +40,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 This example sets the marker style for series one. The example should be run on a 2-D line chart.
 
 
-```
+```vb
 myChart.SeriesCollection(1).MarkerStyle = xlMarkerStyleCircle
 ```
 

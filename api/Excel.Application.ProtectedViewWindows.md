@@ -26,8 +26,5 @@ Returns a  **[ProtectedViewWindows](Excel.ProtectedViewWindows.md)** collection 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

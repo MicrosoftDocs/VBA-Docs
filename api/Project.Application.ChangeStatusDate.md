@@ -46,7 +46,7 @@ The project status date enables Project to show progress lines in tasks on the G
 The following example changes the project status date to April 7, 2012.
 
 
-```
+```vb
 ChangeStatusDate("4/7/12")
 ```
 

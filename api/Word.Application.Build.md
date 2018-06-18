@@ -37,8 +37,5 @@ MsgBox Prompt:=Application.Build, _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

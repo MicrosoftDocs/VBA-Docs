@@ -29,8 +29,5 @@ Returns or sets the appearance of the content control. Read/write [WdContentCont
 ## See also
 
 
-#### Concepts
-
-
 [ContentControl Object](Word.ContentControl.md)
 

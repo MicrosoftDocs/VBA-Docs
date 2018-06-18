@@ -53,7 +53,7 @@ The following code example assumes that the selected item in the explorer window
 
 
 
-```C#
+```vbC#
 void DemoConversation() 
 { 
  object selectedItem = 
@@ -154,9 +154,6 @@ void EnumerateConversation(object item,
 
 
 ## See also
-
-
-#### Concepts
 
 
 [MailItem Object](Outlook.MailItem.md)

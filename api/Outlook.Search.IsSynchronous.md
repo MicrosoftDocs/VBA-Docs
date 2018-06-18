@@ -31,8 +31,5 @@ A search can be synchronous or asynchronous. If the search is synchronous, code 
 ## See also
 
 
-#### Concepts
-
-
 [Search Object](Outlook.Search.md)
 

@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Excel.WebOptions.md)
 

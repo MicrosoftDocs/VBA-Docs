@@ -36,8 +36,5 @@ ActiveDocument.Endnotes.Location = wdEndOfSection
 ## See also
 
 
-#### Concepts
-
-
 [Endnotes Collection Object](Word.endnotes.md)
 

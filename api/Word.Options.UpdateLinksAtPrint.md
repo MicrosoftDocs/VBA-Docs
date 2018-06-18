@@ -38,15 +38,12 @@ This example returns the current status of the  **Update links** option on the *
 
 
 
-```
+```vb
 temp = Options.UpdateLinksAtPrint
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

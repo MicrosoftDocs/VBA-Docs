@@ -31,8 +31,5 @@ Multiple recipients are evaluated using the logical OR operation.
 ## See also
 
 
-#### Concepts
-
-
 [ToOrFromRuleCondition Object](Outlook.ToOrFromRuleCondition.md)
 

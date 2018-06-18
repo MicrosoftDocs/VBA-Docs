@@ -33,9 +33,6 @@ If the account does not have an SMTP address,  **SmtpAddress** returns an empty 
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 #### Other resources
 

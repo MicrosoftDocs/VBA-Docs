@@ -40,8 +40,5 @@ Select the field by which you want to sort the records and either click the appr
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

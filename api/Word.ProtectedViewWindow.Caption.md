@@ -53,8 +53,5 @@ ActiveProtectedViewWindow.Caption = Application.UserName &; "'s copy of Word"
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 

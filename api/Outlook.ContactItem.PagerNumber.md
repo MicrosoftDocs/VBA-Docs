@@ -26,8 +26,5 @@ Returns or sets a  **String** representing the pager number for the contact. Rea
 ## See also
 
 
-#### Concepts
-
-
 [ContactItem Object](Outlook.ContactItem.md)
 

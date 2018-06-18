@@ -43,8 +43,5 @@ The  **RightGridlineStyle** property uses the following settings.
 ## See also
 
 
-#### Concepts
-
-
 [NavigationControl Object](Access.NavigationControl.md)
 

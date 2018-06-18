@@ -53,8 +53,5 @@ tofTemp.IncludeLabel = True
 ## See also
 
 
-#### Concepts
-
-
 [TableOfFigures Object](Word.TableOfFigures.md)
 

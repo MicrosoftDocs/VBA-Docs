@@ -36,8 +36,5 @@ Returns  **True** if text is automatically indented when the text alignment in t
 ## See also
 
 
-#### Concepts
-
-
 [DisplayFormat Object](Excel.DisplayFormat.md)
 

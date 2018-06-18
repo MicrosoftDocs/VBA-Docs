@@ -39,8 +39,5 @@ The caller must have the permission to delete properties. The  **DeleteProperty*
 ## See also
 
 
-#### Concepts
-
-
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 

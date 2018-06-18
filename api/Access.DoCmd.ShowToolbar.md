@@ -42,8 +42,5 @@ If you want to show a particular toolbar on just one form or report, you can set
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

@@ -34,8 +34,5 @@ Sets the background graphic for a chart.
 ## See also
 
 
-#### Concepts
-
-
 [Chart Object](Word.Chart.md)
 

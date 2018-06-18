@@ -33,8 +33,5 @@ To set text alignment to equal distribution, you can set the  **[VerticalAlignme
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Excel.Style.md)
 

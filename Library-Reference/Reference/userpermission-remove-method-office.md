@@ -33,7 +33,7 @@ The  **UserPermission** object associates a set of permissions on the active doc
 The following example removes the second user's permissions on the active document from the document's Permission collection.
 
 
-```
+```vb
  Dim irmPermission As Office.Permission 
  Dim irmUserPerm As Office.UserPermission 
  Set irmPermission = ActiveWorkbook.Permission 
@@ -48,9 +48,6 @@ The following example removes the second user's permissions on the active docume
 
 
 ## See also
-
-
-#### Concepts
 
 
 [UserPermission Object](userpermission-object-office.md)

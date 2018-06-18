@@ -36,9 +36,6 @@ For built-in controls, if you set the  **Enabled** property to **True**, the app
 ## See also
 
 
-#### Concepts
-
-
 [CommandBarComboBox Object](commandbarcombobox-object-office.md)
 #### Other resources
 

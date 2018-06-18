@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Tabl
 ## See also
 
 
-#### Concepts
-
-
 [TableOfAuthoritiesCategory Object](Word.TableOfAuthoritiesCategory.md)
 

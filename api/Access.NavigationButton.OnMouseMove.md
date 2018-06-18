@@ -54,8 +54,5 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseMove
 ## See also
 
 
-#### Concepts
-
-
 [NavigationButton Object](Access.NavigationButton.md)
 

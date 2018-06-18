@@ -31,8 +31,5 @@ If both the  **[FormDescription.Name](Outlook.FormDescription.Name.md)** and **F
 ## See also
 
 
-#### Concepts
-
-
 [FormDescription Object](Outlook.FormDescription.md)
 

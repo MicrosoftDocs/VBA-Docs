@@ -31,7 +31,4 @@ Gets a single  **Month** object from the **Months** collection. Read-only **Mont
 ## See also
 
 
-#### Concepts
-
-
 [Months Collection Object](Project.months.md)

@@ -44,8 +44,5 @@ If Selection.Style <> "Normal" Then _
 ## See also
 
 
-#### Concepts
-
-
 [Selection Object](Word.Selection.md)
 

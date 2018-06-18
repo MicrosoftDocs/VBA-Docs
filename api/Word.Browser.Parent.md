@@ -26,8 +26,5 @@ Returns an  **Object** that represents the parent object of the specified **Brow
 ## See also
 
 
-#### Concepts
-
-
 [Browser Object](Word.Browser.md)
 

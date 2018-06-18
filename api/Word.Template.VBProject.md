@@ -44,8 +44,5 @@ MsgBox normProj.Name
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

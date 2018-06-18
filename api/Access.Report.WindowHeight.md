@@ -31,8 +31,5 @@ The  **WindowHeight** property is measured from the upper-left corner of the rep
 ## See also
 
 
-#### Concepts
-
-
 [Report Object](Access.Report.md)
 

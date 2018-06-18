@@ -26,8 +26,5 @@ Returns or sets a  **Boolean** value that determines whether the **[MailModule](
 ## See also
 
 
-#### Concepts
-
-
 [MailModule Object](Outlook.MailModule.md)
 

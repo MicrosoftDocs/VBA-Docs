@@ -31,8 +31,5 @@ The default value is  **xlSelectionScope** , which sets the scope using the **Ap
 ## See also
 
 
-#### Concepts
-
-
 [Databar Object](Excel.Databar.md)
 

@@ -36,8 +36,5 @@ This event returns an item object representing the inline response item.
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

@@ -26,8 +26,5 @@ Deletes the specified Extensible Stylesheet Language Transformation (XSLT) from 
 ## See also
 
 
-#### Concepts
-
-
 [XSLTransform Object](Word.XSLTransform.md)
 

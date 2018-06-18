@@ -36,7 +36,7 @@ String
 The following example displays properties of the shared workspace member.
 
 
-```
+```vb
     Dim swsWorkspaceMember As Office.SharedWorkspaceMember 
     Dim strSWSInfo As String 
     Set swsWorkspaceMember = ActiveWorkbook.SharedWorkspace.Members 
@@ -50,9 +50,6 @@ The following example displays properties of the shared workspace member.
 
 
 ## See also
-
-
-#### Concepts
 
 
 [SharedWorkspaceMember Object](sharedworkspacemember-object-office.md)

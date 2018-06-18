@@ -41,8 +41,5 @@ Worksheets("Sheet1").PageSetup.PrintNotes = False
 ## See also
 
 
-#### Concepts
-
-
 [PageSetup Object](Excel.PageSetup.md)
 

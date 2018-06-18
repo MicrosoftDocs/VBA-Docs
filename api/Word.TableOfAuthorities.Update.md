@@ -26,8 +26,5 @@ Updates the entries shown in a table of authorities.
 ## See also
 
 
-#### Concepts
-
-
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 

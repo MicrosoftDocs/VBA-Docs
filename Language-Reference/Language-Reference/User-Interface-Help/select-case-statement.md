@@ -39,7 +39,7 @@ You can use multiple expressions or ranges in each  **Case** clause. For example
 
 
 
-```
+```vb
 Case 1 To 4, 7 To 9, 11, 13, Is > MaxNumber 
 
 ```
@@ -51,7 +51,7 @@ You also can specify ranges and multiple expressions for character strings. In t
 
 
 
-```
+```vb
 Case "everything", "nuts" To "soup", TestItem 
 
 ```

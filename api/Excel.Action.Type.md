@@ -26,8 +26,5 @@ Returns the action type. Read-only  **[XlActionType](Excel.XlActionType.md)** .
 ## See also
 
 
-#### Concepts
-
-
 [Action Object](Excel.Action.md)
 

@@ -26,8 +26,5 @@ You can use the  **IsConnected** property to determine if the **[CodeProject](Ac
 ## See also
 
 
-#### Concepts
-
-
 [CodeProject Object](Access.CodeProject.md)
 

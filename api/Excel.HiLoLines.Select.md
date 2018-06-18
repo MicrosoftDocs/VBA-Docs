@@ -31,8 +31,5 @@ Variant
 ## See also
 
 
-#### Concepts
-
-
 [HiLoLines Object](Excel.HiLoLines(objec).md)
 

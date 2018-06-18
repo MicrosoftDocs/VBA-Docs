@@ -44,8 +44,5 @@ If number is not a valid octal number, OCT2DEC returns the #NUM! error value.
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

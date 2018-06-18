@@ -32,8 +32,5 @@ Automatically groups the cube fields in an OLAP cube, optionally in the specifie
 ## See also
 
 
-#### Concepts
-
-
 [CubeField Object](Excel.CubeField.md)
 

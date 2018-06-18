@@ -41,8 +41,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [LegendEntries Object](Excel.LegendEntries(object).md)
 

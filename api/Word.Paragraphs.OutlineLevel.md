@@ -33,15 +33,12 @@ If a paragraph has a heading style applied to it (Heading 1 through Heading 9), 
 This example returns the outline level of all paragraphs in the active document.
 
 
-```
+```vb
 temp = ActiveDocument.Paragraphs.OutlineLevel
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Paragraphs Collection Object](Word.paragraphs.md)

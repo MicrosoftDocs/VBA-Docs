@@ -60,8 +60,5 @@ Screen.MousePointer = 11
 ## See also
 
 
-#### Concepts
-
-
 [Screen Object](Access.Screen.md)
 

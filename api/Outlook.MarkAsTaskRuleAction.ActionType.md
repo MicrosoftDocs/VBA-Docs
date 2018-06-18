@@ -31,8 +31,5 @@ Returns a constant,  **olRuleActionMarkAsTask** , from the **[OlRuleActionType](
 ## See also
 
 
-#### Concepts
-
-
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 

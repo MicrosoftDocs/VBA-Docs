@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [ExtraColors Object](PowerPoint.ExtraColors.md)
 

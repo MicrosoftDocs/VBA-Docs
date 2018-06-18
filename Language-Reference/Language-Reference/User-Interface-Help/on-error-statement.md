@@ -61,7 +61,7 @@ If you create an object that accesses other objects, you should try to handle er
 
 
 
-```
+```vb
 Err.Number = vbObjectError + 1052 
 
 ```

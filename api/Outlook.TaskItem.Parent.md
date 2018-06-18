@@ -26,8 +26,5 @@ Returns the parent  **Object** of the specified object. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [TaskItem Object](Outlook.TaskItem.md)
 

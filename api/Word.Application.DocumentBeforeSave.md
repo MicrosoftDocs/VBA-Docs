@@ -65,9 +65,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 
 [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)

@@ -26,8 +26,5 @@ Selects the object.
 ## See also
 
 
-#### Concepts
-
-
 [ChartArea Object](Word.ChartArea.md)
 

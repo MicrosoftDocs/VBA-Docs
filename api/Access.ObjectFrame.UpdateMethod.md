@@ -26,8 +26,5 @@ This property has been deprecated. Use the  **[UpdateOptions](Access.ObjectFrame
 ## See also
 
 
-#### Concepts
-
-
 [ObjectFrame Object](Access.ObjectFrame.md)
 

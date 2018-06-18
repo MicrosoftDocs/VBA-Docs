@@ -33,8 +33,5 @@ When an  **Application** object is created by using Automation, the **Visible** 
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

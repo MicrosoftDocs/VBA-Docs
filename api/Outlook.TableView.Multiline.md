@@ -31,8 +31,5 @@ If the value of the  **[AutomaticColumnSizing](Outlook.TableView.AutomaticColumn
 ## See also
 
 
-#### Concepts
-
-
 [TableView Object](Outlook.TableView.md)
 

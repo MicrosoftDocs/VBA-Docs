@@ -51,8 +51,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Fields Collection Object](Word.fields.md)
 

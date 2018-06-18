@@ -36,8 +36,5 @@ ActiveDocument.AutoFormatOverride = True
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

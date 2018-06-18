@@ -26,8 +26,5 @@ Expands the calendar portion of the date control.
 ## See also
 
 
-#### Concepts
-
-
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 

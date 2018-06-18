@@ -53,8 +53,5 @@ DoCmd.SelectObject acForm, "Customers", True
 ## See also
 
 
-#### Concepts
-
-
 [DoCmd Object](Access.DoCmd.md)
 

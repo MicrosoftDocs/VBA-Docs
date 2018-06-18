@@ -46,8 +46,5 @@ ActiveDocument.ActiveWindow.View.Draft = _
 ## See also
 
 
-#### Concepts
-
-
 [View Object](Word.View.md)
 

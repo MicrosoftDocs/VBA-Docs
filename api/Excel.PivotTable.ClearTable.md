@@ -41,8 +41,5 @@ ActiveSheet.PivotTables(1).ClearTable()
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

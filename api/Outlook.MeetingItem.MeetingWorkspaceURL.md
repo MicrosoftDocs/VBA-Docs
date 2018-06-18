@@ -31,8 +31,5 @@ A Meeting Workspace is a shared Web site for planning the meeting and tracking t
 ## See also
 
 
-#### Concepts
-
-
 [MeetingItem Object](Outlook.MeetingItem.md)
 

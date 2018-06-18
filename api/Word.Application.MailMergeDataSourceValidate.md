@@ -45,8 +45,5 @@ For information about using events with the  **Application** object, see[Using E
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

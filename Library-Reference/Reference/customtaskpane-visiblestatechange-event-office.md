@@ -36,7 +36,7 @@ Occurs when the user changes the visibility of the custom task pane.
 The following example, written in C#, creates a custom task pane and adds an ActiveX button control created in another project. A  **VisibleStateChange** event of type **_CustomTaskPaneEvents_VisibleStateChangeEventHandler** is defined in the procedure. When the event is triggered, the event handler displays a message box depending on whether the task pane is currently visible or hidden.
 
 
-```
+```vb
 object missing = Type.Missing; 
 public CustomTaskPane CTP = null; 
  
@@ -69,9 +69,6 @@ private void CTP_VisibleStateChange(object sender, string visiblestateArgs)
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomTaskPane Object](customtaskpane-object-office.md)

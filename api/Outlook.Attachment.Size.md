@@ -31,8 +31,5 @@ This information may not always be available for attachments. For example, on an
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Outlook.Attachment.md)
 

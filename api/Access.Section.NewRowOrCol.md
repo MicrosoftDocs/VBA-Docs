@@ -88,8 +88,5 @@ Head4<br />
 ## See also
 
 
-#### Concepts
-
-
 [Section Object](Access.Section.md)
 

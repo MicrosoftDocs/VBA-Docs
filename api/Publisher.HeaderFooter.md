@@ -24,7 +24,7 @@ Use  **MasterPages.Header** or **MasterPages.Footer** to return a **HeaderFooter
 
  
 
-```
+```vb
 Dim objHeader As HeaderFooter 
 Set objHeader = ActiveDocument.MasterPages(1).Header 
 objHeader.TextRange.Text = "Master Page 1 Header" 
@@ -38,7 +38,7 @@ Use  **HeaderFooter.Delete** to delete any existing content from a header or foo
 
 
 
-```
+```vb
 Dim objMasterPage As page 
 For Each objMasterPage In ActiveDocument.masterPages 
  objMasterPage.Header.Delete 
@@ -53,7 +53,7 @@ Use  **HeaderFooter.TextRange** to return a **TextRange** object representing th
 
 
 
-```
+```vb
 Dim objHeader As HeaderFooter 
 Set objHeader = ActiveDocument.MasterPages(1).Header 
 With objHeader 

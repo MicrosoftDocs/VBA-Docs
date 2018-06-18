@@ -26,8 +26,5 @@ Returns or sets a  **Single** value that represents the height, in points, of th
 ## See also
 
 
-#### Concepts
-
-
 [Graphic Object](Excel.Graphic.md)
 

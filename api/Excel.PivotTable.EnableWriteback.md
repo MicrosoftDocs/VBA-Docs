@@ -44,8 +44,5 @@ For non-OLAP data sources, setting this property generates a run-time error.
 ## See also
 
 
-#### Concepts
-
-
 [PivotTable Object](Excel.PivotTable.md)
 

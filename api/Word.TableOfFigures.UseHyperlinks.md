@@ -36,8 +36,5 @@ ActiveDocument.TableOfFigures(1).UseHyperlinks = True
 ## See also
 
 
-#### Concepts
-
-
 [TableOfFigures Object](Word.TableOfFigures.md)
 

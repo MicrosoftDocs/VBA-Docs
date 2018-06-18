@@ -36,8 +36,5 @@ The  **BackSideInsertFaceUp** property setting corresponds to whether the **Face
 ## See also
 
 
-#### Concepts
-
-
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 

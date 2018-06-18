@@ -204,8 +204,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 

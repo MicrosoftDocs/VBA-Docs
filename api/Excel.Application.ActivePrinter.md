@@ -37,8 +37,5 @@ MsgBox "The name of the active printer is " &; _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

@@ -26,8 +26,5 @@ Gets or sets the separator displayed between values when the combo box is bound 
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

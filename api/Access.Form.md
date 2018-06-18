@@ -33,7 +33,7 @@ Each  **Form** object has a **Controls** collection, which contains all controls
 
 
 
-```
+```vb
  ' Implicit reference. 
 Forms!OrderForm!NewData
 ```
@@ -41,7 +41,7 @@ Forms!OrderForm!NewData
 
 
 
-```
+```vb
 ' Explicit reference. 
 Forms!OrderForm.Controls!NewData
 ```
@@ -51,14 +51,14 @@ The next two examples show how you might refer to a control named  **NewData** o
 
 
 
-```
+```vb
 Forms!OrderForm.ctlSubForm.Form!Controls.NewData
 ```
 
 
 
 
-```
+```vb
 Forms!OrderForm.ctlSubForm!NewData
 ```
 
@@ -97,7 +97,7 @@ UtterAccess members can download a database that contains this example from [her
 
 
 
-```
+```vb
 Private Sub cmdSearch_Click()
 
    Dim db As DAO.Database
@@ -150,7 +150,7 @@ The following example shows how to use the  **BeforeUpdate** event of a form to 
 
 
 
-```
+```vb
 Private Sub Form_BeforeUpdate(Cancel As Integer)
 If (IsNull(Me.FieldOne)) Or (Me.FieldOne.Value =  "") Then
     ' No action required
@@ -173,7 +173,7 @@ The following example shows how to use the  **OpenArgs** property to prevent a f
 
 
 
-```
+```vb
 Private Sub Form_Open(Cancel As Integer)
 
 If Me.OpenArgs() <> "Valid User" Then
@@ -189,7 +189,7 @@ The following example shows how to use the  _WhereCondition_ argument of the **O
 
 
 
-```
+```vb
 Private Sub cmdShowOrders_Click()
 If Not Me.NewRecord Then
     DoCmd.OpenForm "frmOrder", _

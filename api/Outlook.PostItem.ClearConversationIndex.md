@@ -26,8 +26,5 @@ Clears the index of the conversation thread for the post.
 ## See also
 
 
-#### Concepts
-
-
 [PostItem Object](Outlook.PostItem.md)
 

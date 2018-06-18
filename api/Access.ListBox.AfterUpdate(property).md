@@ -42,8 +42,5 @@ Forms(0).AfterUpdate = "[Event Procedure]"
 ## See also
 
 
-#### Concepts
-
-
 [ListBox Object](Access.ListBox.md)
 

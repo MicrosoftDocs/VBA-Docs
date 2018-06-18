@@ -50,8 +50,5 @@ If n is the number of data points in a range, then LARGE(array,1) returns the la
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

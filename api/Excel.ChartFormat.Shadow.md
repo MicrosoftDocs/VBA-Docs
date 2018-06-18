@@ -26,8 +26,5 @@ Returns a  **[ShadowFormat](Excel.ShadowFormat.md)** object that contains shadow
 ## See also
 
 
-#### Concepts
-
-
 [ChartFormat Object](Excel.ChartFormat.md)
 

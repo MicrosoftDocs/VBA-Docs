@@ -43,7 +43,7 @@ Use the  **DeviceName**, **DriverName**, and **Port** properties to return syste
 The following example displays system information about the first printer in the  **Printers** collection.
 
 
-```
+```vb
 Dim prtFirst As Printer 
  
 Set prtFirst = Application.Printers(0) 

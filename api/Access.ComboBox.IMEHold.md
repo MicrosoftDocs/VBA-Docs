@@ -42,8 +42,5 @@ By setting the  **IMEMode/KanjiConversionMode** property, you can designate whet
 ## See also
 
 
-#### Concepts
-
-
 [ComboBox Object](Access.ComboBox.md)
 

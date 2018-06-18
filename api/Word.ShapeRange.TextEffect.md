@@ -31,8 +31,5 @@ Applies to  **ShapeRange** objects that represent WordArt.
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Collection Object](Word.shaperange.md)
 

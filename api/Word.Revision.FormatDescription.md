@@ -44,8 +44,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Revision Object](Word.Revision.md)
 

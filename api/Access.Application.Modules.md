@@ -49,8 +49,5 @@ strFormOpenCode = "Sub Form_Open(Cancel As Integer)" _
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Access.Application.md)
 

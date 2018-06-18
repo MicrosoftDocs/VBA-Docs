@@ -46,8 +46,5 @@ MsgBox docNew.Bookmarks(1).Column
 ## See also
 
 
-#### Concepts
-
-
 [Bookmark Object](Word.Bookmark.md)
 

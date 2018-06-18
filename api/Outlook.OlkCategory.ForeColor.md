@@ -31,8 +31,5 @@ This property is of the type  **OLE_COLOR** which is a **Long** value. The defau
 ## See also
 
 
-#### Concepts
-
-
 [OlkCategory Object](Outlook.OlkCategory.md)
 

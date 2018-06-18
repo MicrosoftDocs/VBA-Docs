@@ -26,8 +26,5 @@ Returns an  **[OlAttachmentType](Outlook.OlAttachmentType.md)** constant indicat
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Outlook.Attachment.md)
 

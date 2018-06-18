@@ -23,8 +23,5 @@ Returns the Z order of the specified  **ThreeDFormat** object. Read/write **Sing
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 

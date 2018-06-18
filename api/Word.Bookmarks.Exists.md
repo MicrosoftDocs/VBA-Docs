@@ -46,8 +46,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Bookmarks Collection Object](Word.bookmarks.md)
 

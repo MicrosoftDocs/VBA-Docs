@@ -31,8 +31,5 @@ If the template has not been saved before, the  **Save As** dialog box prompts t
 ## See also
 
 
-#### Concepts
-
-
 [Template Object](Word.Template.md)
 

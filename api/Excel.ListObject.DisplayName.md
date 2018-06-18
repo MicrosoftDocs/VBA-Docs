@@ -26,8 +26,5 @@ Returns or sets the display name for the specified  **ListObject** object. Read/
 ## See also
 
 
-#### Concepts
-
-
 [ListObject Object](Excel.ListObject.md)
 

@@ -26,7 +26,7 @@ Represents a hyperlink.
 Use the  **[Hyperlink](Excel.Shape.Hyperlink.md)** property to return the hyperlink for a shape (a shape can have only one hyperlink). The following example activates the hyperlink for shape one.
 
 
-```
+```vb
 Worksheets(1).Shapes(1).Hyperlink.Follow NewWindow:=True
 ```
 
@@ -35,7 +35,7 @@ A range or worksheet can have more than one hyperlink. Use  **[Hyperlinks](Excel
 
 
 
-```
+```vb
 Worksheets(1).Range("A1:B2").Hyperlinks(2).Follow
 ```
 

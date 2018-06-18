@@ -33,8 +33,5 @@ After you set the  **BrowserLevel** property on the **DefaultWebOptions** object
 ## See also
 
 
-#### Concepts
-
-
 [WebOptions Object](Word.WebOptions.md)
 

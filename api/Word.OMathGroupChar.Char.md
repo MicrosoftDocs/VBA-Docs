@@ -26,8 +26,5 @@ Returns or sets an  **Integer** that represents the character placed above or be
 ## See also
 
 
-#### Concepts
-
-
 [OMathGroupChar Object](Word.OMathGroupChar.md)
 

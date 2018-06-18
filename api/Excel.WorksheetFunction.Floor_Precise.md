@@ -58,8 +58,5 @@ Depending on the sign of the number and significance arguments, the  **Floor_Pre
 ## See also
 
 
-#### Concepts
-
-
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

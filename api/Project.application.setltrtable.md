@@ -36,9 +36,6 @@ If a report is not active, the  **SetLTRTable** method displays a dialog box wit
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Project.Application.md)
 #### Other resources
 

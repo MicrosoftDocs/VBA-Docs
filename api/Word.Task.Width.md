@@ -26,8 +26,5 @@ Returns or sets the width of the specified  **Task** object, in points. Read/wri
 ## See also
 
 
-#### Concepts
-
-
 [Task Object](Word.Task.md)
 

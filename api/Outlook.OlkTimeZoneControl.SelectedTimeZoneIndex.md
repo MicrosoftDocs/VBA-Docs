@@ -31,8 +31,5 @@ Returns or sets an index into the  **[Application.TimeZones](Outlook.Application
 ## See also
 
 
-#### Concepts
-
-
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 

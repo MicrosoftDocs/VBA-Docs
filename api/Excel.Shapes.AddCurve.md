@@ -65,8 +65,5 @@ myDocument.Shapes.AddCurve SafeArrayOfPoints:=pts
 ## See also
 
 
-#### Concepts
-
-
 [Shapes Object](Excel.Shapes.md)
 

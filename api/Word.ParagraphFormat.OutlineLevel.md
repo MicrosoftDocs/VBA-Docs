@@ -31,8 +31,5 @@ If a paragraph has a heading style applied to it (Heading 1 through Heading 9), 
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

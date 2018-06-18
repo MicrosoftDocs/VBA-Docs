@@ -50,8 +50,5 @@ Documents("Sales.doc").PrintOut
 ## See also
 
 
-#### Concepts
-
-
 [Global Object](Word.Global.md)
 

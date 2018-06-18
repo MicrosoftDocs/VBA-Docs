@@ -48,8 +48,5 @@ This property returns  **Null** ( **Nothing** in Visual Basic) if no inline resp
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

@@ -31,8 +31,5 @@ The  **Address** property must be set before calling the **[AddressEntry.Details
 ## See also
 
 
-#### Concepts
-
-
 [AddressEntry Object](Outlook.AddressEntry.md)
 

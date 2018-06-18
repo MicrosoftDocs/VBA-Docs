@@ -26,8 +26,5 @@ Returns a  **[ProtectedViewWindows](PowerPoint.ProtectedViewWindows.md)** collec
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](PowerPoint.Application.md)
 

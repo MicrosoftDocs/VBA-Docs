@@ -39,8 +39,5 @@ An  **AutoFormatRule** object that represents the specified object.
 ## See also
 
 
-#### Concepts
-
-
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 

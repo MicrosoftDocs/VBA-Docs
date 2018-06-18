@@ -39,8 +39,5 @@ You can also set the default for this property by using a control's default cont
 ## See also
 
 
-#### Concepts
-
-
 [Attachment Object](Access.Attachment.md)
 

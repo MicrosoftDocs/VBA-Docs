@@ -33,8 +33,5 @@ This property corresponds to the MAPI property,  **PidTagBusinessTelephoneNumber
 ## See also
 
 
-#### Concepts
-
-
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 

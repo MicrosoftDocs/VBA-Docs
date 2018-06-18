@@ -34,8 +34,5 @@ This property contains only the display names, delimited by semicolon (;) charac
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

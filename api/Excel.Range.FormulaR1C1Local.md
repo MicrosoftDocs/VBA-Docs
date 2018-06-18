@@ -47,8 +47,5 @@ MsgBox Worksheets(1).Range("A11").FormulaR1C1Local
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

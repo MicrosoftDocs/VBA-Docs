@@ -65,8 +65,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [ShapeNodes Collection Object](Word.shapenodes.md)
 

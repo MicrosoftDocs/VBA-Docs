@@ -38,8 +38,5 @@ The value of this property can be set to one of the following constants:
 ## See also
 
 
-#### Concepts
-
-
 [AxisTitle Object](Excel.AxisTitle(objec).md)
 

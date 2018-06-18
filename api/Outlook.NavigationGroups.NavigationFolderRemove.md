@@ -26,8 +26,5 @@ Occurs after a navigation folder has been removed from the  **[NavigationGroups]
 ## See also
 
 
-#### Concepts
-
-
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 

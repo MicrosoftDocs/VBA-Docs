@@ -26,8 +26,5 @@ Returns or sets an  **MsoLightRigType** constant that represents the type and di
 ## See also
 
 
-#### Concepts
-
-
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 

@@ -31,7 +31,7 @@ Use  **[DataFields](Publisher.MailMergeDataSource.DataFields.md)** (index), wher
 
  
 
-```
+```vb
 Sub GetDataFromSource() 
  With ActiveDocument.MailMerge.DataSource 
  MsgBox "Field Name: " &amp; .DataFields.Item(1).Name &amp; _ 

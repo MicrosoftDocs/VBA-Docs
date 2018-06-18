@@ -43,8 +43,5 @@ Before you can specify the  **ClusterConnector** property, you must use the **[U
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Excel.Application(objec).md)
 

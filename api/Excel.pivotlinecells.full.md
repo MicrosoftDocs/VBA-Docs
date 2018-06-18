@@ -29,8 +29,5 @@ When  **True**, all of the  **PivotLineCells** in the **PivotLine** (including t
 ## See also
 
 
-#### Concepts
-
-
 [PivotLineCells Object](Excel.PivotLineCells.md)
 

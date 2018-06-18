@@ -21,7 +21,7 @@ Represents a single section in a selection, range, or document. The  **Section**
 Use  **Sections** (Index), where Index is the index number, to return a single **Section** object. The following example changes the left and right page margins for the first section in the active document.
 
 
-```
+```vb
 With ActiveDocument.Sections(1).PageSetup 
  .LeftMargin = InchesToPoints(0.5) 
  .RightMargin = InchesToPoints(0.5) 
@@ -33,7 +33,7 @@ Use the  **Add** method or the **InsertBreak** method to add a new section to a 
 
 
 
-```
+```vb
 Set myRange = ActiveDocument.Range(Start:=0, End:=0) 
 ActiveDocument.Sections.Add Range:=myRange 
 myRange.InsertParagraphAfter
@@ -44,7 +44,7 @@ The following example adds a section break above the first paragraph in the sele
 
 
 
-```
+```vb
 Selection.Paragraphs(1).Range.InsertBreak _ 
  Type:=wdSectionBreakContinuous
 ```

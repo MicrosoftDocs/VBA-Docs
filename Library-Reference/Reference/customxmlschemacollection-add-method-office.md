@@ -44,7 +44,7 @@ CustomXMLSchema
 The following example adds a schema to the schema collection, selects a single node from it, and then returns the node to the calling procedure.
 
 
-```
+```vb
 Function AddSchema() 
     On Error GoTo Err 
  
@@ -73,9 +73,6 @@ End Function
 
 
 ## See also
-
-
-#### Concepts
 
 
 [CustomXMLSchemaCollection Object](customxmlschemacollection-object-office.md)

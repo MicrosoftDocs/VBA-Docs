@@ -26,8 +26,5 @@ Returns or sets the alignment for the specified phonetic text or tick label. Rea
 ## See also
 
 
-#### Concepts
-
-
 [TickLabels Object](Word.TickLabels.md)
 

@@ -64,8 +64,5 @@ Next
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](PowerPoint.OLEFormat.md)
 

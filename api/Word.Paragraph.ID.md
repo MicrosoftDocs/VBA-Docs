@@ -26,8 +26,5 @@ Returns or sets the identifying label for the specified object when the current 
 ## See also
 
 
-#### Concepts
-
-
 [Paragraph Object](Word.Paragraph.md)
 

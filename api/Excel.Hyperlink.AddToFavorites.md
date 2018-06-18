@@ -36,8 +36,5 @@ ActiveWorkbook.AddToFavorites
 ## See also
 
 
-#### Concepts
-
-
 [Hyperlink Object](Excel.Hyperlink.md)
 

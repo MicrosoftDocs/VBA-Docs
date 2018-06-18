@@ -26,8 +26,5 @@ Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](ht
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](Excel.ShapeRange.md)
 

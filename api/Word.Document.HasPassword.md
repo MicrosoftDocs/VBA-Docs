@@ -38,8 +38,5 @@ If ActiveDocument.HasPassword = True Then _
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

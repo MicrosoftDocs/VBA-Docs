@@ -43,7 +43,7 @@ A fast way to do this is to use the  **[GetRows](http://msdn.microsoft.com/libra
 
 
 
-```
+```vb
 varRecords(intField, intRecord) 
 
 ```

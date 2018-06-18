@@ -37,8 +37,5 @@ ActiveWindow.Selection.Shapes(1) _
 ## See also
 
 
-#### Concepts
-
-
 [InlineShape Object](Word.InlineShape.md)
 

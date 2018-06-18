@@ -31,7 +31,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
 Use the [Presentations](http://msdn.microsoft.com/library/d6f5f565-d593-e230-c3b9-2302bdd83644%28Office.15%29.aspx) property to return the **Presentations** collection. Use the[Add](http://msdn.microsoft.com/library/9a09ad9b-c52d-9fd6-20ef-68b694596ed2%28Office.15%29.aspx) method to create a new presentation and add it to the collection. The following example creates a new presentation, adds a slide to the presentation, and then saves the presentation.
 
 
-```
+```vb
 Set newPres = Presentations.Add(True) 
 newPres.Slides.Add 1, 1 
 newPres.SaveAs "Sample"
@@ -42,7 +42,7 @@ Use  **Presentations** (index), where index is the presentation's name or index 
 
 
 
-```
+```vb
 Presentations(1).PrintOut
 ```
 
@@ -51,7 +51,7 @@ Use the [Open](http://msdn.microsoft.com/library/c19456ba-e5a8-83da-00ae-dd387e3
 
 
 
-```
+```vb
 Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 ```
 

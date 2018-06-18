@@ -44,8 +44,5 @@ The  **Pages** collection is initially empty, and there is a limit of 5 customiz
 ## See also
 
 
-#### Concepts
-
-
 [Pages Object (Outlook)](Outlook.Pages.md)
 

@@ -31,8 +31,5 @@ If the store does not support the display of quota information, this method does
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

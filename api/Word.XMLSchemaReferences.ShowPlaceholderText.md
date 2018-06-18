@@ -42,8 +42,5 @@ ActiveDocument.XMLSchemaReferences.ShowPlaceholderText = _
 ## See also
 
 
-#### Concepts
-
-
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 

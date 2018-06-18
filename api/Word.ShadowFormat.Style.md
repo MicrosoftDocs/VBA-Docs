@@ -26,8 +26,5 @@ Returns or sets a  **MsoShadowType** that represents the type of shadow formatti
 ## See also
 
 
-#### Concepts
-
-
 [ShadowFormat Object](Word.ShadowFormat.md)
 

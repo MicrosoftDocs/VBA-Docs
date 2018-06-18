@@ -36,8 +36,5 @@ ThisWorkbook.VBProject.Name = "TestProject"
 ## See also
 
 
-#### Concepts
-
-
 [Workbook Object](Excel.Workbook.md)
 

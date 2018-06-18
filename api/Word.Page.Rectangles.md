@@ -44,8 +44,5 @@ Set objRectangles = ActiveDocument.ActiveWindow _
 ## See also
 
 
-#### Concepts
-
-
 [Page Object](Word.Page.md)
 

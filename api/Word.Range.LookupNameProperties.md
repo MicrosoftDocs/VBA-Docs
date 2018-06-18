@@ -33,15 +33,12 @@ If this method finds more than one match, it displays the  **Check Names** dialo
 This example looks up the selected name in the address book and displays the  **Properties** dialog box for that person.
 
 
-```
+```vb
 Selection.Range.LookupNameProperties
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Range Object](Word.Range.md)

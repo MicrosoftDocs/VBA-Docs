@@ -31,8 +31,5 @@ Returns or sets a value that determines whether the specified  **Protected View*
 ## See also
 
 
-#### Concepts
-
-
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 

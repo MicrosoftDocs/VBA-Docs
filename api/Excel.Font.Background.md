@@ -59,8 +59,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Font Object](Excel.Font(objec).md)
 

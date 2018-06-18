@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagDeferredDeliveryTime** .
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

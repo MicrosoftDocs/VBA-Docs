@@ -50,8 +50,5 @@ ActiveSheet.Paste
 ## See also
 
 
-#### Concepts
-
-
 [Slicer Object](Excel.Slicer.md)
 

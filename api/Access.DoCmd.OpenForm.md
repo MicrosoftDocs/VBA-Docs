@@ -87,7 +87,5 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 ## See also
 
-#### Concepts
-
 [DoCmd Object](Access.DoCmd.md)
 

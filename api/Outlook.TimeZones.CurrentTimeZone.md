@@ -26,8 +26,5 @@ Returns a  **[TimeZone](Outlook.TimeZone.md)** value that represents the current
 ## See also
 
 
-#### Concepts
-
-
 [TimeZones Object](Outlook.TimeZones.md)
 

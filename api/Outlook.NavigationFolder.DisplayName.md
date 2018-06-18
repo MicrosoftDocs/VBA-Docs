@@ -31,8 +31,5 @@ Use  **NavigationFolder.DisplayName** , instead of **[Folder.Name](Outlook.Folde
 ## See also
 
 
-#### Concepts
-
-
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 

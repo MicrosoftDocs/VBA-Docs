@@ -26,8 +26,5 @@ Returns the type of text form field. Read-only  **[WdTextFormFieldType](Word.WdT
 ## See also
 
 
-#### Concepts
-
-
 [TextInput Object](Word.TextInput.md)
 

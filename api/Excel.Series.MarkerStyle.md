@@ -58,8 +58,5 @@ Charts("Chart1").SeriesCollection(1) _
 ## See also
 
 
-#### Concepts
-
-
 [Series Object](Excel.Series(objec).md)
 

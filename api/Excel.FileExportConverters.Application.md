@@ -26,8 +26,5 @@ Returns an  **[Application](Excel.Application(objec).md)** object that represent
 ## See also
 
 
-#### Concepts
-
-
 [FileExportConverters Collection](Excel.FileExportConverters.md)
 

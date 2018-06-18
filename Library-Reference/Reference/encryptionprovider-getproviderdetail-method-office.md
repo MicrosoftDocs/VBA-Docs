@@ -44,9 +44,6 @@ This method allows you to query the  **EncryptionProvider** object for informati
 ## See also
 
 
-#### Concepts
-
-
 [EncryptionProvider Object](encryptionprovider-object-office.md)
 #### Other resources
 

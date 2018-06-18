@@ -34,8 +34,5 @@ Removes the specified  **[TempVar](Access.TempVar.md)** object from the **[TempV
 ## See also
 
 
-#### Concepts
-
-
 [TempVars Collection](Access.TempVars.md)
 

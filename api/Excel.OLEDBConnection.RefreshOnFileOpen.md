@@ -31,8 +31,5 @@ The connections are not automatically refreshed when you open the workbook by us
 ## See also
 
 
-#### Concepts
-
-
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 

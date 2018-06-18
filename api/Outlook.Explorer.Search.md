@@ -42,8 +42,5 @@ The  **Search** method does not provide a callback to enable the developer to de
 ## See also
 
 
-#### Concepts
-
-
 [Explorer Object](Outlook.Explorer.md)
 

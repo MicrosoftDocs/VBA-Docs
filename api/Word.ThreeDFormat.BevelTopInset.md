@@ -26,8 +26,5 @@ Returns or sets a  **Single** that represents the inset size for the top bevel. 
 ## See also
 
 
-#### Concepts
-
-
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 

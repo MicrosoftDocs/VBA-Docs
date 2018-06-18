@@ -37,8 +37,5 @@ Range("A1").Precedents.Select
 ## See also
 
 
-#### Concepts
-
-
 [Range Object](Excel.Range(objec).md)
 

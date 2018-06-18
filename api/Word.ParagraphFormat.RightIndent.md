@@ -36,8 +36,5 @@ ActiveDocument.Paragraphs.RightIndent = InchesToPoints(1)
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

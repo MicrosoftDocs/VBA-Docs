@@ -67,8 +67,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [NavigationPane Object](Outlook.NavigationPane.md)
 

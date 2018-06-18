@@ -60,8 +60,5 @@ strSequence = _
 ## See also
 
 
-#### Concepts
-
-
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 

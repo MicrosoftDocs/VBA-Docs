@@ -36,8 +36,5 @@ You can use the  **UniqueValues** object to quickly visualize cells that contain
 ## See also
 
 
-#### Concepts
-
-
 [FormatConditions Object](Excel.FormatConditions.md)
 

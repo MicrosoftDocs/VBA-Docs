@@ -49,8 +49,5 @@ Next i
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

@@ -31,8 +31,5 @@ This property corresponds to the MAPI property  **PidTagReadReceiptRequested** .
 ## See also
 
 
-#### Concepts
-
-
 [MailItem Object](Outlook.MailItem.md)
 

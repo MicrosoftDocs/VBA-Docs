@@ -39,8 +39,5 @@ MsgBox "The file name extensions for the file converter are: " &; fcTemp.Extensi
 ## See also
 
 
-#### Concepts
-
-
 [FileExportConverter Object](Excel.FileExportConverter.md)
 

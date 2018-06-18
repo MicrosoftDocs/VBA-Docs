@@ -39,8 +39,5 @@ Player
 ## See also
 
 
-#### Concepts
-
-
 [View Object](PowerPoint.View.md)
 

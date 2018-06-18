@@ -48,8 +48,5 @@ Saves a document as PDF or XPS format.
 ## See also
 
 
-#### Concepts
-
-
 [Document Object](Word.Document.md)
 

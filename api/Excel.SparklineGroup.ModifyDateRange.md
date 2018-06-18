@@ -50,8 +50,5 @@ ActiveCell.SparklineGroups.Item(1).ModifyDateRange "Sheet1!B1:E1"
 ## See also
 
 
-#### Concepts
-
-
 [SparklineGroup Object](Excel.SparklineGroup.md)
 

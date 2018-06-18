@@ -66,8 +66,5 @@ ActivePresentation.Slides(1).Shapes.Range(Array(2, 4)).Select
 ## See also
 
 
-#### Concepts
-
-
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 

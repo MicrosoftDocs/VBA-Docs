@@ -26,8 +26,5 @@ Returns or sets a  **Date** indicating the date and time at which the reminder s
 ## See also
 
 
-#### Concepts
-
-
 [SharingItem Object](Outlook.SharingItem.md)
 

@@ -30,7 +30,7 @@ Use the  **[Remove](Outlook.Views.Remove.md)** method to remove a view from the 
 The following example returns a  **View** object of type **olTableView** called Table View. Before running this example, make sure a view by the name 'Table View' exists.
 
 
-```
+```vb
 Sub GetView() 
  
  'Returns a view called Table View 
@@ -62,7 +62,7 @@ The following example adds a new view of type  **olIconView** in the user's Note
 
 
 
-```
+```vb
 Sub CreateView() 
  
  'Creates a new view 
@@ -93,7 +93,7 @@ End Sub
 
 
 
-```
+```vb
 Sub DeleteView() 
  
  'Deletes a view from the collection 

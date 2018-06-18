@@ -57,8 +57,5 @@ objNew.OLEFormat.DisplayAsIcon = True
 ## See also
 
 
-#### Concepts
-
-
 [OLEFormat Object](Word.OLEFormat.md)
 

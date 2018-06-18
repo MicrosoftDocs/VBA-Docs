@@ -26,8 +26,5 @@ Returns the number of items in the  **Borders** collection. Read-only **Long** .
 ## See also
 
 
-#### Concepts
-
-
 [Borders Collection Object](Word.borders.md)
 

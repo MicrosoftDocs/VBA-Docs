@@ -26,8 +26,5 @@ Creates another instance of an object.
 ## See also
 
 
-#### Concepts
-
-
 [RemoteItem Object](Outlook.RemoteItem.md)
 

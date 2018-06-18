@@ -37,7 +37,7 @@ If there is no document loaded in Visio Viewer, the  **SRC** property returns a 
 The following code sets a typical path to a source file in Visio Viewer.
 
 
-```
+```vb
 vsoViewer.SRC = "C:\users\Visio User\My Visio Drawing.vsd"
 ```
 

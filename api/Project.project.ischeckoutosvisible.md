@@ -53,9 +53,6 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Project Object](Project.Project.md)
 #### Other resources
 

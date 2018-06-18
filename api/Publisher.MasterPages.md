@@ -24,7 +24,7 @@ Use the  **[MasterPages](Publisher.Document.MasterPages.md)** property to return
 
  
 
-```
+```vb
 Sub ChangeMasterPage() 
  Dim intWidth As Integer 
  Dim intHeight As Integer 
@@ -51,7 +51,7 @@ Use the  **[Shapes](Publisher.Page.Shapes.md)** property to work with AutoShapes
 
 
 
-```
+```vb
 Sub AddShapeToMasterPage() 
  ActiveDocument.MasterPages(1).Shapes.AddShape(Type:=msoShapeHeart, _ 
  Left:=36, Top:=36, Width:=36, Height:=36).Fill _ 

@@ -28,15 +28,12 @@ Returns or sets how the insertion point progresses within bidirectional text. Re
 This example sets the insertion point to progress to the next visually adjacent character as it moves through bidirectional text.
 
 
-```
+```vb
 Options.CursorMovement = wdCursorMovementVisual
 ```
 
 
 ## See also
-
-
-#### Concepts
 
 
 [Options Object](Word.Options.md)

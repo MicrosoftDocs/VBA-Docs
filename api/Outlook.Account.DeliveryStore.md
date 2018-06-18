@@ -31,8 +31,5 @@ Returns  **Null** ( **Nothing** in Visual Basic) if the account does not have a 
 ## See also
 
 
-#### Concepts
-
-
 [Account Object](Outlook.Account.md)
 

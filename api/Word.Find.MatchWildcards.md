@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Find Object](Word.Find.md)
 

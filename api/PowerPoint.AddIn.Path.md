@@ -36,8 +36,5 @@ The path doesn't include the final backslash (\) or the name of the specified ob
 ## See also
 
 
-#### Concepts
-
-
 [AddIn Object](PowerPoint.AddIn.md)
 

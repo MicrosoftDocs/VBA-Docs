@@ -47,8 +47,5 @@ End If
 ## See also
 
 
-#### Concepts
-
-
 [Cells Collection Object](Word.cells.md)
 

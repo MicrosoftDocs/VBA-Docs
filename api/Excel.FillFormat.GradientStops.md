@@ -23,8 +23,5 @@ Returns the end point for the gradient fill. Read-only.
 ## See also
 
 
-#### Concepts
-
-
 [FillFormat Object](Excel.FillFormat.md)
 

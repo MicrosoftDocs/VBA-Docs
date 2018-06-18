@@ -43,7 +43,7 @@ If you add a custom document property to the **DocumentProperties** collection t
 
 This example, which is designed to run in Word, adds three custom document properties to the **DocumentProperties** collection.
 
-```
+```vb
 With ActiveDocument.CustomDocumentProperties 
     .Add Name:="LastModifiedBy", _ 
         LinkToContent:=True, _ 
@@ -67,8 +67,6 @@ End With
 <br/>
 
 ## See also
-
-#### Concepts
 
 - [DocumentProperties Object](documentproperties-object-office.md)
 

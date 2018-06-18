@@ -36,8 +36,5 @@ Application.EmailOptions.MarkComments = True
 ## See also
 
 
-#### Concepts
-
-
 [Application Object](Word.Application.md)
 

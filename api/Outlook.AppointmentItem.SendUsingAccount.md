@@ -31,8 +31,5 @@ The  **SendUsingAccount** property can be used to specify the account that shoul
 ## See also
 
 
-#### Concepts
-
-
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 

@@ -44,8 +44,5 @@ Not all special folders exist in all stores. If the requested special folder doe
 ## See also
 
 
-#### Concepts
-
-
 [Store Object](Outlook.Store.md)
 

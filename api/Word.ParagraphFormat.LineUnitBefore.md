@@ -26,8 +26,5 @@ Returns or sets the amount of spacing (in gridlines) before the specified paragr
 ## See also
 
 
-#### Concepts
-
-
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 

@@ -31,8 +31,5 @@ Calling this method sets the  **[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAs
 ## See also
 
 
-#### Concepts
-
-
 [DistListItem Object](Outlook.DistListItem.md)
 

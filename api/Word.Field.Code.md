@@ -73,8 +73,5 @@ Next fieldLoop
 ## See also
 
 
-#### Concepts
-
-
 [Field Object](Word.Field.md)
 

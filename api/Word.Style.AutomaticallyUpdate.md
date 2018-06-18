@@ -51,8 +51,5 @@ End With
 ## See also
 
 
-#### Concepts
-
-
 [Style Object](Word.Style.md)
 

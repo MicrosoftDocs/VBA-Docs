@@ -31,8 +31,5 @@ The parent of the  **[Rule](Outlook.Rule.md)** object is the **[Rules](Outlook.R
 ## See also
 
 
-#### Concepts
-
-
 [Rule Object](Outlook.Rule.md)
 

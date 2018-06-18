@@ -37,9 +37,6 @@ Gets a  **SharedWorkspaceFolder** object from the **Folders** collection of the 
 ## See also
 
 
-#### Concepts
-
-
 [SharedWorkspaceFolders Object](sharedworkspacefolders-object-office.md)
 #### Other resources
 

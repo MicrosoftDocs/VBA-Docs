@@ -74,8 +74,5 @@ End Sub
 ## See also
 
 
-#### Concepts
-
-
 [Views Object](Outlook.Views.md)
 

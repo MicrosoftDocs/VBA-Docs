@@ -36,9 +36,6 @@ This property is set once at creation.
 ## See also
 
 
-#### Concepts
-
-
 [CustomTaskPane Object](customtaskpane-object-office.md)
 #### Other resources
 
