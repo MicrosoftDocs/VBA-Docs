@@ -13,7 +13,7 @@ Adds a new Workbook Connection to the model with the same properties as the one 
 
 ## Syntax
 
- _expression_ . **AddConnection**_(ConnectionToDataSource)_
+ _expression_. 'AddConnection'_(ConnectionToDataSource)_
 
  _expression_ A variable that represents a object.
 

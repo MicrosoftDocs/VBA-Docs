@@ -21,7 +21,7 @@ Gets or sets the default vertical callout position for members of the  **Graphic
 
 ## Syntax
 
- _expression_ . **DataGraphicVerticalPosition**
+ _expression_. 'DataGraphicVerticalPosition'
 
  _expression_ An expression that returns a **Master** object.
 

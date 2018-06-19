@@ -18,7 +18,7 @@ When set to  **True** (default), Microsoft Excel identifies cells containing an 
 
 ## Syntax
 
- _expression_ . **InconsistentFormula**
+ _expression_. 'InconsistentFormula'
 
  _expression_ A variable that represents an **ErrorCheckingOptions** object.
 

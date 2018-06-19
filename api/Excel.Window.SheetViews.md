@@ -18,7 +18,7 @@ Returns the  **[SheetViews](Excel.SheetViews.md)** object for the specified wind
 
 ## Syntax
 
- _expression_ . **SheetViews**
+ _expression_. 'SheetViews'
 
  _expression_ A variable that represents a **Window** object.
 

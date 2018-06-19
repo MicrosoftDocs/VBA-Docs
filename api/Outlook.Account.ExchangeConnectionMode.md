@@ -18,7 +18,7 @@ Returns an  **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** 
 
 ## Syntax
 
- _expression_ . **ExchangeConnectionMode**
+ _expression_. 'ExchangeConnectionMode'
 
  _expression_ A variable that represents an **[Account](Outlook.Account.md)** object.
 

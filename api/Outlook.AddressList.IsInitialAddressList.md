@@ -18,7 +18,7 @@ Returns a  **Boolean** that indicates if the **[AddressList](Outlook.AddressList
 
 ## Syntax
 
- _expression_ . **IsInitialAddressList**
+ _expression_. 'IsInitialAddressList'
 
  _expression_ A variable that represents an **AddressList** object.
 

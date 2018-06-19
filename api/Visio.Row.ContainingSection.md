@@ -18,7 +18,7 @@ Returns the section that contains a row. Read-only.
 
 ## Syntax
 
- _expression_ . **ContainingSection**
+ _expression_. 'ContainingSection'
 
  _expression_ A variable that represents a **Row** object.
 

@@ -18,7 +18,7 @@ Specifies the left margin, which is used when printing. Read/write.
 
 ## Syntax
 
- _expression_ . **LeftMargin**( **_UnitsNameOrCode_** )
+ _expression_. 'LeftMargin'( '_UnitsNameOrCode_' )
 
  _expression_ A variable that represents a **Document** object.
 

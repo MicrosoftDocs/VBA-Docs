@@ -18,7 +18,7 @@ Returns or sets whether to show the data labels when the value is greater than t
 
 ## Syntax
 
- _expression_ . **ShowDataLabelsOverMaximum**
+ _expression_. 'ShowDataLabelsOverMaximum'
 
  _expression_ A variable that represents a **Chart** object.
 

@@ -18,7 +18,7 @@ Returns a  **String** value that represents the friendly name used to identify a
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **XmlSchema** object.
 

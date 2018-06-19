@@ -18,7 +18,7 @@ Occurs before the explorer changes to a new view, either as a result of user act
 
 ## Syntax
 
- _expression_ . **BeforeViewSwitch**( **_NewView_** , **_Cancel_** )
+ _expression_. 'BeforeViewSwitch'( '_NewView_' , '_Cancel_' )
 
  _expression_ A variable that represents an **Explorer** object.
 

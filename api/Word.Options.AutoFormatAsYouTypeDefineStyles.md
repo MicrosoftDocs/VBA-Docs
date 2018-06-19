@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **AutoFormatAsYouTypeDefineStyles**
+ _expression_. 'AutoFormatAsYouTypeDefineStyles'
 
  _expression_ A variable that represents an **[Options](Word.Options.md)** collection.
 

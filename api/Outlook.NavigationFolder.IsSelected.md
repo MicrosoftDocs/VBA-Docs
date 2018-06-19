@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** variable that indicates whether the **[Navigation
 
 ## Syntax
 
- _expression_ . **IsSelected**
+ _expression_. 'IsSelected'
 
  _expression_ A variable that represents a **NavigationFolder** object.
 

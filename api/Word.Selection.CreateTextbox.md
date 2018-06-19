@@ -18,7 +18,7 @@ Adds a default-size text box around the selection.
 
 ## Syntax
 
- _expression_ . **CreateTextbox**
+ _expression_. 'CreateTextbox'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

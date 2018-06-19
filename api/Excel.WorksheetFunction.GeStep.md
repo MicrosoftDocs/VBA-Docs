@@ -18,7 +18,7 @@ Returns 1 if number ? step; returns 0 (zero) otherwise. Use this function to fil
 
 ## Syntax
 
- _expression_ . **GeStep**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'GeStep'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

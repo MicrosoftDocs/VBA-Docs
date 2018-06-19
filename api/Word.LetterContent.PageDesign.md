@@ -18,7 +18,7 @@ Returns or sets the name of the template attached to the document created by the
 
 ## Syntax
 
- _expression_ . **PageDesign**
+ _expression_. 'PageDesign'
 
  _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
 

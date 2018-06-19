@@ -18,7 +18,7 @@ Creates a PivotTable report based on a  **[PivotCache](Excel.PivotCache.md)** ob
 
 ## Syntax
 
- _expression_ . **CreatePivotTable**( **_TableDestination_** , **_TableName_** , **_ReadData_** , **_DefaultVersion_** )
+ _expression_. 'CreatePivotTable'( '_TableDestination_' , '_TableName_' , '_ReadData_' , '_DefaultVersion_' )
 
  _expression_ A variable that represents a **PivotCache** object.
 

@@ -18,7 +18,7 @@ Completes the creation of a custom undo record.
 
 ## Syntax
 
- _expression_ . **EndCustomRecord**
+ _expression_. 'EndCustomRecord'
 
  _expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** object.
 

@@ -16,7 +16,7 @@ Saves the data feed connection as a Microsoft Office Data Connection file.
 
 ## Syntax
 
- _expression_ . **SaveAsODC**_(ODCFileName,_ _Description,_ _Keywords)_
+ _expression_. 'SaveAsODC'_(ODCFileName,_ _Description,_ _Keywords)_
 
  _expression_ A variable that represents a[DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents all the row
 
 ## Syntax
 
- _expression_ . **Rows**
+ _expression_. 'Rows'
 
  _expression_ A variable that represents an **Application** object.
 

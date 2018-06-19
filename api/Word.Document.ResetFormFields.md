@@ -18,7 +18,7 @@ Clears all form fields in a document, preparing the form to be filled in again.
 
 ## Syntax
 
- _expression_ . **ResetFormFields**
+ _expression_. 'ResetFormFields'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

@@ -18,7 +18,7 @@ Returns a  **SmartDocument** object that represents the settings for a smart doc
 
 ## Syntax
 
- _expression_ . **SmartDocument**
+ _expression_. 'SmartDocument'
 
  _expression_ A variable that represents a **Workbook** object.
 

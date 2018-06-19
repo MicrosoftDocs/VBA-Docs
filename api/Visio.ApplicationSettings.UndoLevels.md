@@ -18,7 +18,7 @@ Determines the number of consecutive actions the user can undo in Microsoft Visi
 
 ## Syntax
 
- _expression_ . **UndoLevels**
+ _expression_. 'UndoLevels'
 
  _expression_ A variable that represents an **ApplicationSettings** object.
 

@@ -18,7 +18,7 @@ Removes from the  **Rules** collection a **Rule** object specified by _Index_ , 
 
 ## Syntax
 
- _expression_ . **Remove**( **_Index_** )
+ _expression_. 'Remove'( '_Index_' )
 
  _expression_ A variable that represents a **Rules** object.
 

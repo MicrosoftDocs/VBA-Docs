@@ -16,7 +16,7 @@ Returns a [ModelMeasureNames Object (Excel)](modelmeasurenames-object-excel.md) 
 
 ## Syntax
 
- _expression_ . **MeasuresAdded**
+ _expression_. 'MeasuresAdded'
 
  _expression_ A variable that represents a **ModelChanges** object.
 

@@ -18,7 +18,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
 ## Syntax
 
- _expression_ . **PrintOut**
+ _expression_. 'PrintOut'
 
  _expression_ A variable that represents a **TaskItem** object.
 

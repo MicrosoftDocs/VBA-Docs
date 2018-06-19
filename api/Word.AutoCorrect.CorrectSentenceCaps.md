@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **CorrectSentenceCaps**
+ _expression_. 'CorrectSentenceCaps'
 
  _expression_ A variable that represents an **[AutoCorrect](Word.AutoCorrect.md)** object.
 

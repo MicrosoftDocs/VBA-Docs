@@ -18,7 +18,7 @@ Applies the specified  **Autofilter** object.
 
 ## Syntax
 
- _expression_ . **ApplyFilter**
+ _expression_. 'ApplyFilter'
 
  _expression_ A variable that represents an **AutoFilter** object.
 

@@ -18,7 +18,7 @@ Returns or sets the point where the trendline crosses the value axis. Read/write
 
 ## Syntax
 
- _expression_ . **Intercept**
+ _expression_. 'Intercept'
 
  _expression_ An expression that returns a **Trendline** object.
 

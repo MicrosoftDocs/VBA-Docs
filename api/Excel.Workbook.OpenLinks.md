@@ -18,7 +18,7 @@ Opens the supporting documents for a link or links.
 
 ## Syntax
 
- _expression_ . **OpenLinks**( **_Name_** , **_ReadOnly_** , **_Type_** )
+ _expression_. 'OpenLinks'( '_Name_' , '_ReadOnly_' , '_Type_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

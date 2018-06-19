@@ -18,7 +18,7 @@ Creates a new  **[OrderField](Outlook.OrderField.md)** object and inserts it at 
 
 ## Syntax
 
- _expression_ . **Insert**( **_PropertyName_** , **_Index_** , **_IsDescending_** )
+ _expression_. 'Insert'( '_PropertyName_' , '_Index_' , '_IsDescending_' )
 
  _expression_ A variable that represents an **OrderFields** object.
 

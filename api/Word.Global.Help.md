@@ -18,7 +18,7 @@ Displays on-line Help information.
 
 ## Syntax
 
- _expression_ . **Help**( **_HelpType_** )
+ _expression_. 'Help'( '_HelpType_' )
 
  _expression_ A variable that represents a **[Global](Word.Global.md)** object.
 

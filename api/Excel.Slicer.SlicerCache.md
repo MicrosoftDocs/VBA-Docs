@@ -18,7 +18,7 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object associated with the 
 
 ## Syntax
 
- _expression_ . **SlicerCache**
+ _expression_. 'SlicerCache'
 
  _expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
 

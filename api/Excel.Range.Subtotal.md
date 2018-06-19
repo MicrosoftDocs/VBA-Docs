@@ -18,7 +18,7 @@ Creates subtotals for the range (or the current region, if the range is a single
 
 ## Syntax
 
- _expression_ . **Subtotal**( **_GroupBy_** , **_Function_** , **_TotalList_** , **_Replace_** , **_PageBreaks_** , **_SummaryBelowData_** )
+ _expression_. 'Subtotal'( '_GroupBy_' , '_Function_' , '_TotalList_' , '_Replace_' , '_PageBreaks_' , '_SummaryBelowData_' )
 
  _expression_ A variable that represents a **Range** object.
 

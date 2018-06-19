@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the physical location of the names
 
 ## Syntax
 
- _expression_ . **Location**( **_AllUsers_** )
+ _expression_. 'Location'( '_AllUsers_' )
 
  _expression_ An expression that returns an **XMLNamespace** object.
 

@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of indexes in the collection. Rea
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents an **[Indexes](Word.indexes.md)** collection.
 

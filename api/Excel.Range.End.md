@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the cell at
 
 ## Syntax
 
- _expression_ . **End**( **_Direction_** )
+ _expression_. 'End'( '_Direction_' )
 
  _expression_ A variable that represents a **Range** object.
 

@@ -18,7 +18,7 @@ Converts an equation with a base superscript or subscript to an equation with a 
 
 ## Syntax
 
- _expression_ . **ToScrPre**
+ _expression_. 'ToScrPre'
 
  _expression_ An expression that returns a **OMathScrSubSup** object.
 

@@ -16,7 +16,7 @@ Returns or sets one of the [XlCmdType Enumeration (Excel)](xlcmdtype-enumeration
 
 ## Syntax
 
- _expression_ . **CommandType**
+ _expression_. 'CommandType'
 
  _expression_ A variable that represents a[ModelConnection Object (Excel)](Excel.modelconnection.md) object.
 

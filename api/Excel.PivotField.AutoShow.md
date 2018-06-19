@@ -18,7 +18,7 @@ Displays the number of top or bottom items for a row, page, or column field in t
 
 ## Syntax
 
- _expression_ . **AutoShow**( **_Type_** , **_Range_** , **_Count_** , **_Field_** )
+ _expression_. 'AutoShow'( '_Type_' , '_Range_' , '_Count_' , '_Field_' )
 
  _expression_ A variable that represents a **PivotField** object.
 

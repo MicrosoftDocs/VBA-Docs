@@ -18,7 +18,7 @@ Returns the custom list number for an array of strings. You can use this method 
 
 ## Syntax
 
- _expression_ . **GetCustomListNum**( **_ListArray_** )
+ _expression_. 'GetCustomListNum'( '_ListArray_' )
 
  _expression_ A variable that represents an **Application** object.
 

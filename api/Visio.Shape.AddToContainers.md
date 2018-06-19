@@ -18,7 +18,7 @@ Adds the shape to all underlying containers that allow it as a member.
 
 ## Syntax
 
- _expression_ . **AddToContainers**
+ _expression_. 'AddToContainers'
 
  _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

@@ -18,7 +18,7 @@ Performs the specified action.
 
 ## Syntax
 
- _expression_ . **Execute**
+ _expression_. 'Execute'
 
  _expression_ A variable that represents an **Action** object.
 

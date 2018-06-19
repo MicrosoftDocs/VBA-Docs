@@ -18,7 +18,7 @@ Removes all character formatting (formatting applied either through character st
 
 ## Syntax
 
- _expression_ . **ClearCharacterAllFormatting**
+ _expression_. 'ClearCharacterAllFormatting'
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

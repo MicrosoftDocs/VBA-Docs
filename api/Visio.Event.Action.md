@@ -18,7 +18,7 @@ Gets or sets the action code of an  **Event** object. Read/write.
 
 ## Syntax
 
- _expression_ . **Action**
+ _expression_. 'Action'
 
  _expression_ A variable that represents a **Event** object.
 

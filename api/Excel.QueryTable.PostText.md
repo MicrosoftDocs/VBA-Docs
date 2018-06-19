@@ -18,7 +18,7 @@ Returns or sets the string used with the post method of inputting data into a We
 
 ## Syntax
 
- _expression_ . **PostText**
+ _expression_. 'PostText'
 
  _expression_ A variable that represents a **QueryTable** object.
 

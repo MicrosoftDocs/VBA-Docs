@@ -18,7 +18,7 @@ Returns or sets the default path that Microsoft Excel uses when it opens files. 
 
 ## Syntax
 
- _expression_ . **DefaultFilePath**
+ _expression_. 'DefaultFilePath'
 
  _expression_ A variable that represents an **Application** object.
 

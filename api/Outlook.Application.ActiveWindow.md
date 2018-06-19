@@ -18,7 +18,7 @@ Returns an object representing the current Microsoft Outlook window on the deskt
 
 ## Syntax
 
- _expression_ . **ActiveWindow**
+ _expression_. 'ActiveWindow'
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Returns a  **[DropDown](Word.DropDown.md)** object that represents a drop-down f
 
 ## Syntax
 
- _expression_ . **DropDown**
+ _expression_. 'DropDown'
 
  _expression_ A variable that represents a **[FormField](Word.FormField.md)** object.
 

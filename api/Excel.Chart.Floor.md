@@ -18,7 +18,7 @@ Returns a  **[Floor](Excel.Floor(objec).md)** object that represents the floor o
 
 ## Syntax
 
- _expression_ . **Floor**
+ _expression_. 'Floor'
 
  _expression_ An expression that returns a **Chart** object.
 

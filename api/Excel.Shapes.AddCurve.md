@@ -18,7 +18,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents a B?zier curve in 
 
 ## Syntax
 
- _expression_ . **AddCurve**( **_SafeArrayOfPoints_** )
+ _expression_. 'AddCurve'( '_SafeArrayOfPoints_' )
 
  _expression_ A variable that represents a **Shapes** object.
 

@@ -18,7 +18,7 @@ Automatically formats a document.
 
 ## Syntax
 
- _expression_ . **AutoFormat**
+ _expression_. 'AutoFormat'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

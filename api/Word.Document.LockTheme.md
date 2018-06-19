@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether a user can change a docum
 
 ## Syntax
 
- _expression_ . **LockTheme**
+ _expression_. 'LockTheme'
 
  _expression_ An expression that returns a **Document** object.
 

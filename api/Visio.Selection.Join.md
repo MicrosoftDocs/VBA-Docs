@@ -18,7 +18,7 @@ Creates a new shape by joining selected shapes.
 
 ## Syntax
 
- _expression_ . **Join**
+ _expression_. 'Join'
 
  _expression_ A variable that represents a **Selection** object.
 

@@ -18,7 +18,7 @@ Moves the chart to another location in the workbook.
 
 ## Syntax
 
- _expression_ . **Move**( **_Before_** , **_After_** )
+ _expression_. 'Move'( '_Before_' , '_After_' )
 
  _expression_ A variable that represents a **Charts** object.
 

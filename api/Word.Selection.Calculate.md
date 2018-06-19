@@ -18,7 +18,7 @@ Calculates a mathematical expression within a selection. Returns the result as a
 
 ## Syntax
 
- _expression_ . **Calculate**
+ _expression_. 'Calculate'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

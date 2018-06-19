@@ -18,7 +18,7 @@ Prints the contents of an object to the default printer.
 
 ## Syntax
 
- _expression_ . **Print**
+ _expression_. 'Print'
 
  _expression_ A variable that represents a **Page** object.
 

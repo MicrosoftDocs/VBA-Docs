@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that determines whether the header for an O
 
 ## Syntax
 
- _expression_ . **HideReadingPaneHeaderInfo**
+ _expression_. 'HideReadingPaneHeaderInfo'
 
  _expression_ A variable that represents a **TableView** object.
 

@@ -18,7 +18,7 @@ Splits the specified connector with the specified shape. Returns the new duplica
 
 ## Syntax
 
- _expression_ . **SplitConnector**( **_ConnectorToSplit_** , **_Shape_** )
+ _expression_. 'SplitConnector'( '_ConnectorToSplit_' , '_Shape_' )
 
  _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 

@@ -18,7 +18,7 @@ Toggles the spacing before a paragraph.
 
 ## Syntax
 
- _expression_ . **OpenOrCloseUp**
+ _expression_. 'OpenOrCloseUp'
 
  _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
 

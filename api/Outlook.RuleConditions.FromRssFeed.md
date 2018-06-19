@@ -18,7 +18,7 @@ Returns a  **[FromRssFeedRuleCondition](Outlook.FromRssFeedRuleCondition.md)** o
 
 ## Syntax
 
- _expression_ . **FromRssFeed**
+ _expression_. 'FromRssFeed'
 
  _expression_ A variable that represents a **RuleConditions** object.
 

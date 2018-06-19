@@ -18,7 +18,7 @@ Returns an  **[AutoCorrect](Excel.AutoCorrect(objec).md)** object that represent
 
 ## Syntax
 
- _expression_ . **AutoCorrect**
+ _expression_. 'AutoCorrect'
 
  _expression_ A variable that represents an **Application** object.
 

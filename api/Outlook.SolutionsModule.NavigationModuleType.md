@@ -18,7 +18,7 @@ Returns an  **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** cons
 
 ## Syntax
 
- _expression_ . **NavigationModuleType**
+ _expression_. 'NavigationModuleType'
 
  _expression_ A variable that represents a **SolutionsModule** object.
 

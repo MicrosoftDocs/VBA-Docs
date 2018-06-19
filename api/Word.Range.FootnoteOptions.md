@@ -18,7 +18,7 @@ Returns  **FootnoteOptions** object that represents the footnotes in a selection
 
 ## Syntax
 
- _expression_ . **FootnoteOptions**
+ _expression_. 'FootnoteOptions'
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

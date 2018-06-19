@@ -18,7 +18,7 @@ Occurs when a view is added to the collection. Microsoft Outlook creates the new
 
 ## Syntax
 
- _expression_ . **ViewAdd**( **_View_** )
+ _expression_. 'ViewAdd'( '_View_' )
 
  _expression_ A variable that represents a **Views** object.
 

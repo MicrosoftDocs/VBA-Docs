@@ -16,7 +16,7 @@ Returns or sets a  **Boolean** that specifies whether margin alignment guides ar
 
 ## Syntax
 
- _expression_ . **MarginAlignmentGuides**
+ _expression_. 'MarginAlignmentGuides'
 
  _expression_ A variable that represents an **Options** object.
 

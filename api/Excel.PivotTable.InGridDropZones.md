@@ -18,7 +18,7 @@ This property is used to toggle in-grid drop zones for a  **PivotTable** object.
 
 ## Syntax
 
- _expression_ . **InGridDropZones**
+ _expression_. 'InGridDropZones'
 
  _expression_ A variable that represents a **PivotTable** object.
 

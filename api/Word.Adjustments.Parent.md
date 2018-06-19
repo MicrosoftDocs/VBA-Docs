@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified object
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. 'Parent'
 
  _expression_ A variable that represents a **[Adjustments](Word.Adjustments.md)** object.
 

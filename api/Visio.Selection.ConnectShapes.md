@@ -18,7 +18,7 @@ Connects two or more selected shapes with a dynamic connector. Returns **Nothing
 
 ## Syntax
 
- _expression_ . **ConnectShapes**
+ _expression_. 'ConnectShapes'
 
  _expression_ A variable that represents a **Selection** object.
 

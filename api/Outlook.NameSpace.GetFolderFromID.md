@@ -18,7 +18,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object identified by the specified en
 
 ## Syntax
 
- _expression_ . **GetFolderFromID**( **_EntryIDFolder_** , **_EntryIDStore_** )
+ _expression_. 'GetFolderFromID'( '_EntryIDFolder_' , '_EntryIDStore_' )
 
  _expression_ A variable that represents a **NameSpace** object.
 

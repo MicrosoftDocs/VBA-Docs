@@ -18,7 +18,7 @@ Occurs when any workbook is activated.
 
 ## Syntax
 
- _expression_ . **WorkbookActivate**( **_Wb_** )
+ _expression_. 'WorkbookActivate'( '_Wb_' )
 
  _expression_ A variable that represents an **Application** object.
 

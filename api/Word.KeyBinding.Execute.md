@@ -18,7 +18,7 @@ Runs the command associated with the specified key combination.
 
 ## Syntax
 
- _expression_ . **Execute**
+ _expression_. 'Execute'
 
  _expression_ Required. A variable that represents a **[KeyBinding](Word.KeyBinding.md)** object.
 

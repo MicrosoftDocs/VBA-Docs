@@ -18,7 +18,7 @@ Displays the electronic business card (EBC) editor dialog box for the  **[Contac
 
 ## Syntax
 
- _expression_ . **ShowBusinessCardEditor**
+ _expression_. 'ShowBusinessCardEditor'
 
  _expression_ An expression that returns a **ContactItem** object.
 

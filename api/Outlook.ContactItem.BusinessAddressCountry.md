@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the country/region code portion of th
 
 ## Syntax
 
- _expression_ . **BusinessAddressCountry**
+ _expression_. 'BusinessAddressCountry'
 
  _expression_ A variable that represents a **ContactItem** object.
 

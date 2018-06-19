@@ -18,7 +18,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the equation. Read
 
 ## Syntax
 
- _expression_ . **OMath**
+ _expression_. 'OMath'
 
  _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
 

@@ -18,7 +18,7 @@ Drops and then reconnects the specified connection.
 
 ## Syntax
 
- _expression_ . **Reconnect**
+ _expression_. 'Reconnect'
 
  _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

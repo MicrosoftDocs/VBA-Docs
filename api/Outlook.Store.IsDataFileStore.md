@@ -18,7 +18,7 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a 
 
 ## Syntax
 
- _expression_ . **IsDataFileStore**
+ _expression_. 'IsDataFileStore'
 
  _expression_ A variable that represents a **Store** object.
 

@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the add-in was 
 
 ## Syntax
 
- _expression_ . **Creator**
+ _expression_. 'Creator'
 
  _expression_ An expression that returns an **[OMathEqArray](Word.OMathEqArray.md)** object.
 

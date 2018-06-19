@@ -18,7 +18,7 @@ Returns the number of combinations for a given number of items. Use Combin to de
 
 ## Syntax
 
- _expression_ . **Combin**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Combin'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

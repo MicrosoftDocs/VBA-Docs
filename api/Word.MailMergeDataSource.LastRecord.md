@@ -18,7 +18,7 @@ Returns or sets the number of the last record to be merged in a mail merge opera
 
 ## Syntax
 
- _expression_ . **LastRecord**
+ _expression_. 'LastRecord'
 
  _expression_ An expression that returns a **[MailMergeDataSource](Word.MailMergeDataSource.md)** object.
 

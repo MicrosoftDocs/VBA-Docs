@@ -18,7 +18,7 @@ Specifies the distance in pixels along the  _x_ -axis that shape extension lines
 
 ## Syntax
 
- _expression_ . **SnapStrengthExtensionsX**
+ _expression_. 'SnapStrengthExtensionsX'
 
  _expression_ A variable that represents a **ApplicationSettings** object.
 

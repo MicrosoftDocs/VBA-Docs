@@ -18,7 +18,7 @@ Returns a  **[Range](Word.Range.md)** object that represents a footnote referenc
 
 ## Syntax
 
- _expression_ . **Reference**
+ _expression_. 'Reference'
 
  _expression_ Required. A variable that represents a **[Footnote](Word.Footnote.md)** object.
 

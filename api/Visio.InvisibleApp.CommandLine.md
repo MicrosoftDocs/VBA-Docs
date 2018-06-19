@@ -18,7 +18,7 @@ Determines how Microsoft Visio was started. Read-only.
 
 ## Syntax
 
- _expression_ . **CommandLine**
+ _expression_. 'CommandLine'
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

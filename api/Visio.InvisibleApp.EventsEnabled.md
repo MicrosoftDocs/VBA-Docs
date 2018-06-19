@@ -18,7 +18,7 @@ Determines whether a Microsoft Visio instance fires events. Read/write.
 
 ## Syntax
 
- _expression_ . **EventsEnabled**
+ _expression_. 'EventsEnabled'
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

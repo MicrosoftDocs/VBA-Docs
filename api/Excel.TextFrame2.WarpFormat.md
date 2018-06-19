@@ -15,7 +15,7 @@ Returns or sets the warp type for the specified text frame. Read/write  **[MsoWa
 
 ## Syntax
 
- _expression_ . **WarpFormat**
+ _expression_. 'WarpFormat'
 
  _expression_ A variable that represents a **TextFrame2** object.
 

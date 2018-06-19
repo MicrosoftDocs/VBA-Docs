@@ -18,7 +18,7 @@ Returns a  **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-63
 
 ## Syntax
 
- _expression_ . **CustomXMLParts**
+ _expression_. 'CustomXMLParts'
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

@@ -18,7 +18,7 @@ Returns the display name of the active theme for the specified document. Read-on
 
 ## Syntax
 
- _expression_ . **ActiveThemeDisplayName**
+ _expression_. 'ActiveThemeDisplayName'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

@@ -16,7 +16,7 @@ When  **True**, all of the  **PivotLineCells** in the **PivotLine** (including t
 
 ## Syntax
 
- _expression_ . **Full**
+ _expression_. 'Full'
 
  _expression_ A variable that represents a **PivotLineCells** object.
 

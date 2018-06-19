@@ -18,7 +18,7 @@ Converts a dollar price expressed as a decimal number into a dollar price expres
 
 ## Syntax
 
- _expression_ . **DollarFr**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'DollarFr'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

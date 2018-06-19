@@ -18,7 +18,7 @@ Returns a  **PictureFormat** object that contains picture formatting properties 
 
 ## Syntax
 
- _expression_ . **PictureFormat**
+ _expression_. 'PictureFormat'
 
  _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

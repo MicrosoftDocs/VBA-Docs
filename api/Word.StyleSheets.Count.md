@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of style sheets in the collection
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents a **[StyleSheets](Word.StyleSheets.md)** collection.
 

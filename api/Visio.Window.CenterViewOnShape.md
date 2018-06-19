@@ -18,7 +18,7 @@ Pans the Microsoft Visio drawing window to place the specified shape in the cent
 
 ## Syntax
 
- _expression_ . **CenterViewOnShape**( **_SheetObject_** , **_Flags_** )
+ _expression_. 'CenterViewOnShape'( '_SheetObject_' , '_Flags_' )
 
  _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 

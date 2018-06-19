@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the full, unparsed text of the home a
 
 ## Syntax
 
- _expression_ . **HomeAddress**
+ _expression_. 'HomeAddress'
 
  _expression_ A variable that represents a **ContactItem** object.
 

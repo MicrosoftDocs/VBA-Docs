@@ -18,7 +18,7 @@ Sets the camera presets for a shape.
 
 ## Syntax
 
- _expression_ . **SetPresetCamera**( **_PresetCamera_** )
+ _expression_. 'SetPresetCamera'( '_PresetCamera_' )
 
  _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
 

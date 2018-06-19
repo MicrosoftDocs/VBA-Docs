@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value, specifying if the rank is determined by a 
 
 ## Syntax
 
- _expression_ . **Percent**
+ _expression_. 'Percent'
 
  _expression_ A variable that represents a **Top10** object.
 

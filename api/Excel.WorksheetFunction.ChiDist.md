@@ -22,7 +22,7 @@ For more information about the new functions, see the [ChiSq_Dist_RT](Excel.Work
 
 ## Syntax
 
- _expression_ . **ChiDist**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'ChiDist'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

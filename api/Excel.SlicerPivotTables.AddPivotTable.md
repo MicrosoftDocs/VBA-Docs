@@ -18,7 +18,7 @@ Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivot
 
 ## Syntax
 
- _expression_ . **AddPivotTable**( **_PivotTable_** )
+ _expression_. 'AddPivotTable'( '_PivotTable_' )
 
  _expression_ A variable that represents a **SlicerPivotTables** object.
 

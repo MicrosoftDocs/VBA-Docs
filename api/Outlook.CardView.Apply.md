@@ -18,7 +18,7 @@ Applies the  **[CardView](Outlook.CardView.md)** object to the current view.
 
 ## Syntax
 
- _expression_ . **Apply**
+ _expression_. 'Apply'
 
  _expression_ A variable that represents a **CardView** object.
 

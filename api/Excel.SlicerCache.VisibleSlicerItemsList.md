@@ -18,7 +18,7 @@ Returns or sets the list of MDX unique names for members at all levels of the hi
 
 ## Syntax
 
- _expression_ . **VisibleSlicerItemsList**
+ _expression_. 'VisibleSlicerItemsList'
 
  _expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets the phonetic text in the specified  **[Characters](Excel.Charact
 
 ## Syntax
 
- _expression_ . **PhoneticCharacters**
+ _expression_. 'PhoneticCharacters'
 
  _expression_ A variable that represents a **Characters** object.
 

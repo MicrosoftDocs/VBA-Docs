@@ -18,7 +18,7 @@ After the  **[Find](Outlook.Items.Find.md)** method runs, this method finds and 
 
 ## Syntax
 
- _expression_ . **FindNext**
+ _expression_. 'FindNext'
 
  _expression_ A variable that represents an **Items** object.
 

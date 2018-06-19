@@ -18,7 +18,7 @@ Returns  **True** when Microsoft Excel can get PivotTable report data. Read/writ
 
 ## Syntax
 
- _expression_ . **GenerateGetPivotData**
+ _expression_. 'GenerateGetPivotData'
 
  _expression_ A variable that represents an **Application** object.
 

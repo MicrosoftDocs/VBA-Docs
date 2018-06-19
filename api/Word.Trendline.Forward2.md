@@ -18,7 +18,7 @@ Returns or sets the number of periods (or units on a scatter chart) that the tre
 
 ## Syntax
 
- _expression_ . **Forward2**
+ _expression_. 'Forward2'
 
  _expression_ A variable that represents a **[Trendline](Word.Trendline.md)** object.
 

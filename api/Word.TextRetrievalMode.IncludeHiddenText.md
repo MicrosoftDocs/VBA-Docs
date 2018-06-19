@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **IncludeHiddenText**
+ _expression_. 'IncludeHiddenText'
 
  _expression_ An expression that returns a **[TextRetrievalMode](Word.TextRetrievalMode.md)** object.
 

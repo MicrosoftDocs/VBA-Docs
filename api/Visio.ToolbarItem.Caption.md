@@ -18,7 +18,7 @@ Gets or sets the caption for an object. Read/write.
 
 ## Syntax
 
- _expression_ . **Caption**
+ _expression_. 'Caption'
 
  _expression_ A variable that represents a **ToolbarItem** object.
 

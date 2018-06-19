@@ -18,7 +18,7 @@ Returns the inverse of the Fisher transformation. Use this transformation when a
 
 ## Syntax
 
- _expression_ . **FisherInv**( **_Arg1_** )
+ _expression_. 'FisherInv'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

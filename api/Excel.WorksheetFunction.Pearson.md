@@ -18,7 +18,7 @@ Returns the Pearson product moment correlation coefficient, r, a dimensionless i
 
 ## Syntax
 
- _expression_ . **Pearson**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Pearson'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

@@ -18,7 +18,7 @@ Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of 
 
 ## Syntax
 
- _expression_ . **FontNames**
+ _expression_. 'FontNames'
 
  _expression_ A variable that represents an **[Application](Word.Application.md)** object.
 

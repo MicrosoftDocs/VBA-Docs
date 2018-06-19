@@ -18,7 +18,7 @@ Returns a  **[ListEntries](Word.listentries.md)** collection that represents all
 
 ## Syntax
 
- _expression_ . **ListEntries**
+ _expression_. 'ListEntries'
 
  _expression_ An expression that returns a **[DropDown](Word.DropDown.md)** object.
 

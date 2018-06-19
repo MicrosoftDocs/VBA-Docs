@@ -18,7 +18,7 @@ Returns the  **SortFields** object that represents the collection of sort fields
 
 ## Syntax
 
- _expression_ . **SortFields**
+ _expression_. 'SortFields'
 
  _expression_ A variable that represents a **Sort** object.
 

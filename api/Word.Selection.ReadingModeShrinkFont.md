@@ -18,7 +18,7 @@ Decreases the size of the displayed text one point size when the document is dis
 
 ## Syntax
 
- _expression_ . **ReadingModeShrinkFont**
+ _expression_. 'ReadingModeShrinkFont'
 
  _expression_ An expression that returns a **Selection** object.
 

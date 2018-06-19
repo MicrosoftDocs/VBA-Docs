@@ -18,7 +18,7 @@ Returns or sets a  **Date** indicating the date and time at which the item was r
 
 ## Syntax
 
- _expression_ . **ReceivedTime**
+ _expression_. 'ReceivedTime'
 
  _expression_ A variable that represents a **MeetingItem** object.
 

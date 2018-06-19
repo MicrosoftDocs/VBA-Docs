@@ -18,7 +18,7 @@ Returns or sets the starting heading level for a table of contents. Read/write  
 
 ## Syntax
 
- _expression_ . **UpperHeadingLevel**
+ _expression_. 'UpperHeadingLevel'
 
  _expression_ Required. A variable that represents a **[TableOfContents](Word.TableOfContents.md)** collection.
 

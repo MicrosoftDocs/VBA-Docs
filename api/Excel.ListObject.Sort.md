@@ -18,7 +18,7 @@ Gets or sets the sort column or columns, and sort order for the  **ListObject** 
 
 ## Syntax
 
- _expression_ . **Sort**
+ _expression_. 'Sort'
 
  _expression_ A variable that represents a **ListObject** object.
 

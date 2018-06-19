@@ -18,7 +18,7 @@ Returns a  **[SparklineGroup](Excel.SparklineGroup.md)** object from a collectio
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **[SparklineGroups](Excel.SparklineGroups.md)** object.
 

@@ -18,7 +18,7 @@ Returns the document type (template or document). Read-only  **[WdDocumentType](
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

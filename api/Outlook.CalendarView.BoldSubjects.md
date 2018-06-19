@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that indicates whether the subject informat
 
 ## Syntax
 
- _expression_ . **BoldSubjects**
+ _expression_. 'BoldSubjects'
 
  _expression_ An expression that returns a **CalendarView** object.
 

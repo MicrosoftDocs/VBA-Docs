@@ -18,7 +18,7 @@ Returns a  **[List](Word.List.md)** object that represents the first formatted l
 
 ## Syntax
 
- _expression_ . **List**
+ _expression_. 'List'
 
  _expression_ An expression that returns a **[ListFormat](Word.ListFormat.md)** object.
 

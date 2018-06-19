@@ -18,7 +18,7 @@ Occurs before changes are applied to a PivotTable.
 
 ## Syntax
 
- _expression_ . **PivotTableBeforeAllocateChanges**( **_TargetPivotTable_** , **_ValueChangeStart_** , **_ValueChangeEnd_** , **_Cancel_** )
+ _expression_. 'PivotTableBeforeAllocateChanges'( '_TargetPivotTable_' , '_ValueChangeStart_' , '_ValueChangeEnd_' , '_Cancel_' )
 
  _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

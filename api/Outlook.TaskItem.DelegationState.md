@@ -18,7 +18,7 @@ Returns an  **[OlTaskDelegationState](Outlook.OlTaskDelegationState.md)** consta
 
 ## Syntax
 
- _expression_ . **DelegationState**
+ _expression_. 'DelegationState'
 
  _expression_ A variable that represents a **TaskItem** object.
 

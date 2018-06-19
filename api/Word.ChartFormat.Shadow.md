@@ -18,7 +18,7 @@ Returns shadow formatting properties for the chart element. Read-only  **[Shadow
 
 ## Syntax
 
- _expression_ . **Shadow**
+ _expression_. 'Shadow'
 
  _expression_ A variable that represents a **[ChartFormat](Word.ChartFormat.md)** object.
 

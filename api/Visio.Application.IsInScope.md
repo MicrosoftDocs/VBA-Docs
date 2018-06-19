@@ -18,7 +18,7 @@ Determines whether a call to an event handler is between an  **EnterScope** even
 
 ## Syntax
 
- _expression_ . **IsInScope**( **_nCmdID_** )
+ _expression_. 'IsInScope'( '_nCmdID_' )
 
  _expression_ A variable that represents an **Application** object.
 

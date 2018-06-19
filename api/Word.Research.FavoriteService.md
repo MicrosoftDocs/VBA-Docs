@@ -18,7 +18,7 @@ Returns or sets a  **String** that specifies the favorite research service.
 
 ## Syntax
 
- _expression_ . **FavoriteService**
+ _expression_. 'FavoriteService'
 
  _expression_ An expression that returns a **[Research](Word.Research.md)** object.
 

@@ -18,7 +18,7 @@ Determines whether the screen is updated (redrawn) during a series of actions. R
 
 ## Syntax
 
- _expression_ . **ShowChanges**
+ _expression_. 'ShowChanges'
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

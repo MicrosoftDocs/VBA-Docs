@@ -18,7 +18,7 @@ Returns a  **[MsoColorType](http://msdn.microsoft.com/library/d7dfbd4b-d3ac-6e08
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents a **ColorFormat** object.
 

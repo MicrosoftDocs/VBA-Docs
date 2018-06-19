@@ -18,7 +18,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the range of text m
 
 ## Syntax
 
- _expression_ . **Scope**
+ _expression_. 'Scope'
 
  _expression_ An expression that returns a **[Comment](Word.Comment.md)** object.
 

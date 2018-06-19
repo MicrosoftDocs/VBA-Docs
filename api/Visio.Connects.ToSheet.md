@@ -18,7 +18,7 @@ Returns the shape to which one or more connections are made. Read-only.
 
 ## Syntax
 
- _expression_ . **ToSheet**
+ _expression_. 'ToSheet'
 
  _expression_ A variable that represents a **Connects** object.
 

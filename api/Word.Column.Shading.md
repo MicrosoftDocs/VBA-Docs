@@ -18,7 +18,7 @@ Returns a  **Shading** object that refers to the shading formatting for the spec
 
 ## Syntax
 
- _expression_ . **Shading**
+ _expression_. 'Shading'
 
  _expression_ Required. A variable that represents a **[Column](Word.Column.md)** object.
 

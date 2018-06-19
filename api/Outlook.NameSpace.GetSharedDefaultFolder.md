@@ -18,7 +18,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the specified 
 
 ## Syntax
 
- _expression_ . **GetSharedDefaultFolder**( **_Recipient_** , **_FolderType_** )
+ _expression_. 'GetSharedDefaultFolder'( '_Recipient_' , '_FolderType_' )
 
  _expression_ A variable that represents a **NameSpace** object.
 

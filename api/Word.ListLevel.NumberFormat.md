@@ -18,7 +18,7 @@ Returns or sets the number format for the specified list level. Read/write  **St
 
 ## Syntax
 
- _expression_ . **NumberFormat**
+ _expression_. 'NumberFormat'
 
  _expression_ An expression that returns a **[ListLevel](Word.ListLevel.md)** object.
 

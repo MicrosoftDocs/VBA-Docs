@@ -18,7 +18,7 @@ Returns a  **String** that represents the XML text in the specified object. .
 
 ## Syntax
 
- _expression_ . **XML**( **_DataOnly_** )
+ _expression_. 'XML'( '_DataOnly_' )
 
  _expression_ An expression that returns a **Selection** object.
 

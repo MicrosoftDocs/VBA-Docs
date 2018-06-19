@@ -18,7 +18,7 @@ Creates another instance of an object.
 
 ## Syntax
 
- _expression_ . **Copy**
+ _expression_. 'Copy'
 
  _expression_ An expression that returns a **NoteItem** object.
 

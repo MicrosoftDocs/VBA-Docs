@@ -18,7 +18,7 @@ Moves the chart to a new location.
 
 ## Syntax
 
- _expression_ . **Location**( **_Where_** , **_Name_** )
+ _expression_. 'Location'( '_Where_' , '_Name_' )
 
  _expression_ An expression that returns a **Chart** object.
 

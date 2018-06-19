@@ -18,7 +18,7 @@ Deletes the specified Frames collection.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ An expression that returns a **[Frames](Word.Frames.md)** object.
 

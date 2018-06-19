@@ -18,7 +18,7 @@ Returns or sets the color of the inside borders. Read/write  **WdColorIndex** .
 
 ## Syntax
 
- _expression_ . **InsideColorIndex**
+ _expression_. 'InsideColorIndex'
 
  _expression_ Required. A variable that represents a **[Borders](Word.borders.md)** collection.
 

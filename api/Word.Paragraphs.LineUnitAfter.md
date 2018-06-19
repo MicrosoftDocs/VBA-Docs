@@ -18,7 +18,7 @@ Returns or sets the amount of spacing (in gridlines) after the specified paragra
 
 ## Syntax
 
- _expression_ . **LineUnitAfter**
+ _expression_. 'LineUnitAfter'
 
  _expression_ Required. A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
 

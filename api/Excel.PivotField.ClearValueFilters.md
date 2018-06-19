@@ -18,7 +18,7 @@ Calling this method deletes all value filters in the  **PivotFilters** collectio
 
 ## Syntax
 
- _expression_ . **ClearValueFilters**
+ _expression_. 'ClearValueFilters'
 
  _expression_ A variable that represents a **PivotField** object.
 

@@ -21,7 +21,7 @@ Returns a  **[Workbook](Excel.Workbook.md)** object that represents the workbook
 
 ## Syntax
 
- _expression_ . **ActiveWorkbook**
+ _expression_. 'ActiveWorkbook'
 
  _expression_ A variable that represents an **Application** object.
 

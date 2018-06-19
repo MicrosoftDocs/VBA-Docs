@@ -18,7 +18,7 @@ Applies the specified page-border formatting to all sections in a document.
 
 ## Syntax
 
- _expression_ . **ApplyPageBordersToAllSections**
+ _expression_. 'ApplyPageBordersToAllSections'
 
  _expression_ Required. A variable that represents a **[Borders](Word.borders.md)** collection.
 

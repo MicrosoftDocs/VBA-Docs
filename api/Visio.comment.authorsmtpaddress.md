@@ -13,7 +13,7 @@ Returns the SMTP (Simple Mail Transfer Protocol) address of the author of the co
 
 ## Syntax
 
- _expression_ . **AuthorSMTPAddress**
+ _expression_. 'AuthorSMTPAddress'
 
  _expression_ A variable that represents a **Comment** object.
 

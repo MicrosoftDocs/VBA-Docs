@@ -18,7 +18,7 @@ Displays the previous mail message if you are using Word as your e-mail editor.
 
 ## Syntax
 
- _expression_ . **GoToPrevious**
+ _expression_. 'GoToPrevious'
 
  _expression_ Required. A variable that represents a **[MailMessage](Word.MailMessage.md)** object.
 

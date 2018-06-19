@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the text of the card data for the tas
 
 ## Syntax
 
- _expression_ . **CardData**
+ _expression_. 'CardData'
 
  _expression_ A variable that represents a **TaskItem** object.
 

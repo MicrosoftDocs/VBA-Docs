@@ -18,7 +18,7 @@ Returns or sets the distance from the bottom of the page to the footer, in point
 
 ## Syntax
 
- _expression_ . **FooterMargin**
+ _expression_. 'FooterMargin'
 
  _expression_ A variable that represents a **PageSetup** object.
 

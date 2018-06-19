@@ -16,7 +16,7 @@ Deletes this query and its underlying connection and removes it from the  **Quer
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **WorkbookQuery** object.
 

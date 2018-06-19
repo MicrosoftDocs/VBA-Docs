@@ -18,7 +18,7 @@ If the point has a picture fill, then this method copies the picture to the Clip
 
 ## Syntax
 
- _expression_ . **Copy**
+ _expression_. 'Copy'
 
  _expression_ A variable that represents a **Point** object.
 

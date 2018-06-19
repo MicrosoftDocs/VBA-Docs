@@ -18,7 +18,7 @@ Returns the number of  **[ValidationRule](Visio.ValidationRule.md)** objects in 
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **[ValidationRules](Visio.ValidationRules.md)** object.
 

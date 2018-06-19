@@ -21,7 +21,7 @@ Returns the date and time the data recordset was last refreshed. Read-only.
 
 ## Syntax
 
- _expression_ . **TimeRefreshed**
+ _expression_. 'TimeRefreshed'
 
  _expression_ An expression that returns a **DataRecordset** object.
 

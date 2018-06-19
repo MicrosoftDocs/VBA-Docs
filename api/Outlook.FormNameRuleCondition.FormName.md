@@ -18,7 +18,7 @@ Returns or sets an  **Object** that represents an array of form identifiers to b
 
 ## Syntax
 
- _expression_ . **FormName**
+ _expression_. 'FormName'
 
  _expression_ A variable that represents a **FormNameRuleCondition** object.
 

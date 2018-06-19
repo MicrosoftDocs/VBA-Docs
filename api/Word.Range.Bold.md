@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **Bold**
+ _expression_. 'Bold'
 
  _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 

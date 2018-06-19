@@ -18,7 +18,7 @@ Inserts the AutoText entry in place of the specified range. Returns a  **Range**
 
 ## Syntax
 
- _expression_ . **Insert**( **_Where_** , **_RichText_** )
+ _expression_. 'Insert'( '_Where_' , '_RichText_' )
 
  _expression_ Required. A variable that represents an **[AutoTextEntry](Word.AutoTextEntry.md)** object.
 

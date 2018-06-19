@@ -18,7 +18,7 @@ Returns a point and its derivatives at a position along a curve's path.
 
 ## Syntax
 
- _expression_ . **PointAndDerivatives**( **_t_** , **_n_** , **_x_** , **_y_** , **_dxdt_** , **_dydt_** , **_ddxdt_** , **_ddydt_** )
+ _expression_. 'PointAndDerivatives'( '_t_' , '_n_' , '_x_' , '_y_' , '_dxdt_' , '_dydt_' , '_ddxdt_' , '_ddydt_' )
 
  _expression_ A variable that represents a **Curve** object.
 

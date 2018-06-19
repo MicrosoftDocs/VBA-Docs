@@ -18,7 +18,7 @@ Determines the background color of the active Microsoft Visio drawing window and
 
 ## Syntax
 
- _expression_ . **BackgroundColor**
+ _expression_. 'BackgroundColor'
 
  _expression_ A variable that represents a **Window** object.
 

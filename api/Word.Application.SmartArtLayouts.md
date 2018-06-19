@@ -18,7 +18,7 @@ Returns a [SmartArtLayouts](http://msdn.microsoft.com/library/25e33439-fb5e-01d7
 
 ## Syntax
 
- _expression_ . **SmartArtLayouts**
+ _expression_. 'SmartArtLayouts'
 
  _expression_ An expression that returns a **[Application](Word.Application.md)** object.
 

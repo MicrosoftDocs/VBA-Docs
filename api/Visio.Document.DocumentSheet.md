@@ -18,7 +18,7 @@ Returns a  **Shape** object whose cells represent properties of the document. Re
 
 ## Syntax
 
- _expression_ . **DocumentSheet**
+ _expression_. 'DocumentSheet'
 
  _expression_ A variable that represents a **Document** object.
 

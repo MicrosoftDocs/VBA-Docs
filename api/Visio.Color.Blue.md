@@ -18,7 +18,7 @@ Gets or sets the intensity of the blue component of a  **Color** object. Read/wr
 
 ## Syntax
 
- _expression_ . **Blue**
+ _expression_. 'Blue'
 
  _expression_ A variable that represents a **Color** object.
 

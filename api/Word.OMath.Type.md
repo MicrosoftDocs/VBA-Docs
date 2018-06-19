@@ -18,7 +18,7 @@ Returns or sets a  **WdOMathType** constant that represents whether an equation 
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ An expression that returns an **OMath** object.
 

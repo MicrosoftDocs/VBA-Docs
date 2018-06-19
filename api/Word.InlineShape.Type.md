@@ -18,7 +18,7 @@ Returns the type of inline shape. Read-only  **[WdInlineShapeType](Word.WdInline
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ Required. A variable that represents an **[InlineShape](Word.InlineShape.md)** object.
 

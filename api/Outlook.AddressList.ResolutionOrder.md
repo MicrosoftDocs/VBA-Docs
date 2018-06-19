@@ -18,7 +18,7 @@ Returns an  **Integer** that represents the order of this **[AddressList](Outloo
 
 ## Syntax
 
- _expression_ . **ResolutionOrder**
+ _expression_. 'ResolutionOrder'
 
  _expression_ A variable that represents an **AddressList** object.
 

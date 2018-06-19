@@ -18,7 +18,7 @@ Creates a new list object.
 
 ## Syntax
 
- _expression_ . **Add**( **_SourceType_** , **_Source_** , **_LinkSource_** , **_XlListObjectHasHeaders_** , **_Destination_** , **_TableStyleName_** )
+ _expression_. 'Add'( '_SourceType_' , '_Source_' , '_LinkSource_' , '_XlListObjectHasHeaders_' , '_Destination_' , '_TableStyleName_' )
 
  _expression_ A variable that represents a **ListObjects** object.
 

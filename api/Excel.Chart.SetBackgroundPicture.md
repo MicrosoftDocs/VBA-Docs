@@ -18,7 +18,7 @@ Sets the background graphic for a chart.
 
 ## Syntax
 
- _expression_ . **SetBackgroundPicture**( **_Filename_** )
+ _expression_. 'SetBackgroundPicture'( '_Filename_' )
 
  _expression_ A variable that represents a **Chart** object.
 

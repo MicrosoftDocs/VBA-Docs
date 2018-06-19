@@ -18,7 +18,7 @@ Returns a copy of the  **UIObject** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Clone**
+ _expression_. 'Clone'
 
  _expression_ A variable that represents a **UIObject** object.
 

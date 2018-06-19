@@ -18,7 +18,7 @@ Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that re
 
 ## Syntax
 
- _expression_ . **ParagraphFormat**
+ _expression_. 'ParagraphFormat'
 
  _expression_ A variable that represents a **[Find](Word.Find.md)** object.
 

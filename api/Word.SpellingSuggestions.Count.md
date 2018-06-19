@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of spelling suggestions in the co
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents a **[SpellingSuggestions](Word.spellingsuggestions.md)** collection.
 

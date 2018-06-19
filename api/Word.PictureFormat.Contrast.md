@@ -18,7 +18,7 @@ Returns or sets the contrast for the specified picture or OLE object. The value 
 
 ## Syntax
 
- _expression_ . **Contrast**
+ _expression_. 'Contrast'
 
  _expression_ A variable that represents a **[PictureFormat](Word.PictureFormat.md)** object.
 

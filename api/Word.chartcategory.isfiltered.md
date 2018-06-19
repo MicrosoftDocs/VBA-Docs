@@ -16,7 +16,7 @@ Returns or sets a  **Boolean** that determines whether the specified chart categ
 
 ## Syntax
 
- _expression_ . **IsFiltered**
+ _expression_. 'IsFiltered'
 
  _expression_ A variable that represents a **ChartCategory** object.
 

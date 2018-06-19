@@ -18,7 +18,7 @@ Returns the  **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object that con
 
 ## Syntax
 
- _expression_ . **DefaultWebOptions**
+ _expression_. 'DefaultWebOptions'
 
  _expression_ A variable that represents an **Application** object.
 

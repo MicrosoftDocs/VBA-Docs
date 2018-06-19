@@ -18,7 +18,7 @@ Protects a chart so that it cannot be modified.
 
 ## Syntax
 
- _expression_ . **Protect**( **_Password_** , **_DrawingObjects_** , **_Contents_** , **_Scenarios_** , **_UserInterfaceOnly_** )
+ _expression_. 'Protect'( '_Password_' , '_DrawingObjects_' , '_Contents_' , '_Scenarios_' , '_UserInterfaceOnly_' )
 
  _expression_ A variable that represents a **Chart** object.
 

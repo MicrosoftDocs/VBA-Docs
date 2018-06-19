@@ -18,7 +18,7 @@ Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the ite
 
 ## Syntax
 
- _expression_ . **Conflicts**
+ _expression_. 'Conflicts'
 
  _expression_ A variable that represents a **RemoteItem** object.
 

@@ -18,7 +18,7 @@ Occurs when the explorer goes to a new folder, either as a result of user action
 
 ## Syntax
 
- _expression_ . **FolderSwitch**
+ _expression_. 'FolderSwitch'
 
  _expression_ A variable that represents an **Explorer** object.
 

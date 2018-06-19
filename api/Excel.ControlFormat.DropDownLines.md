@@ -18,7 +18,7 @@ Returns or sets the number of list lines displayed in the drop-down portion of a
 
 ## Syntax
 
- _expression_ . **DropDownLines**
+ _expression_. 'DropDownLines'
 
  _expression_ A variable that represents a **ControlFormat** object.
 

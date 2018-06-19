@@ -18,7 +18,7 @@ Returns or sets the direction in which the active cell is moved when the user pr
 
 ## Syntax
 
- _expression_ . **MoveAfterReturnDirection**
+ _expression_. 'MoveAfterReturnDirection'
 
  _expression_ A variable that represents an **Application** object.
 

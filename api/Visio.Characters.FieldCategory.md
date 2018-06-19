@@ -18,7 +18,7 @@ Returns the field category for a field represented by an object. Read-only.
 
 ## Syntax
 
- _expression_ . **FieldCategory**
+ _expression_. 'FieldCategory'
 
  _expression_ A variable that represents a **Characters** object.
 

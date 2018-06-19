@@ -18,7 +18,7 @@ Returns a  **[Columns](Outlook.Columns.md)** collection object that contains the
 
 ## Syntax
 
- _expression_ . **Columns**
+ _expression_. 'Columns'
 
  _expression_ A variable that represents a **Table** object.
 

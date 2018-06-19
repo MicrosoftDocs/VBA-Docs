@@ -18,7 +18,7 @@ Applies a filter to the  **[Items](Outlook.Items.md)** collection, returning a n
 
 ## Syntax
 
- _expression_ . **Restrict**( **_Filter_** )
+ _expression_. 'Restrict'( '_Filter_' )
 
  _expression_ An expression that returns a **Items** object.
 

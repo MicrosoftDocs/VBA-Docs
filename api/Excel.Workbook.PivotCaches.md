@@ -18,7 +18,7 @@ Returns a  **[PivotCaches](Excel.PivotCaches.md)** collection that represents al
 
 ## Syntax
 
- _expression_ . **PivotCaches**
+ _expression_. 'PivotCaches'
 
  _expression_ A variable that represents a **Workbook** object.
 

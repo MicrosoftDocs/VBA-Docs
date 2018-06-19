@@ -18,7 +18,7 @@ Returns a  **Long** value that specifies the number of criteria for a color scal
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **ColorScaleCriteria** object.
 

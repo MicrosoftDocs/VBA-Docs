@@ -18,7 +18,7 @@ Returns or sets a string saved with the PivotTable report. Read/write  **String*
 
 ## Syntax
 
- _expression_ . **Tag**
+ _expression_. 'Tag'
 
  _expression_ A variable that represents a **PivotTable** object.
 

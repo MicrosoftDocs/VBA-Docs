@@ -18,7 +18,7 @@ Determines whether the SHIFT key is a modifier for an  **AccelItem** object. Rea
 
 ## Syntax
 
- _expression_ . **Shift**
+ _expression_. 'Shift'
 
  _expression_ A variable that represents an **AccelItem** object.
 

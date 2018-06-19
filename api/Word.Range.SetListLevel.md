@@ -18,7 +18,7 @@ Sets the list level for one or more items in a numbered list.
 
 ## Syntax
 
- _expression_ . **SetListLevel**( **_Level_** )
+ _expression_. 'SetListLevel'( '_Level_' )
 
  _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 

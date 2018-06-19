@@ -15,7 +15,7 @@ Occurs when the user selects the  **Send** action for an item, or when the **Sen
 
 ## Syntax
 
- _expression_ . **Send**( **_Cancel_** )
+ _expression_. 'Send'( '_Cancel_' )
 
  _expression_ A variable that represents a **TaskItem** object.
 

@@ -16,7 +16,7 @@ Clears the manual filter for the slicer cache.
 
 ## Syntax
 
- _expression_ . **ClearManualFilter**
+ _expression_. 'ClearManualFilter'
 
  _expression_ A variable that represents a **SlicerCache** object.
 

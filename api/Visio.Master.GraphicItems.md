@@ -21,7 +21,7 @@ Returns the  **GraphicItems** collection that the master contains. Read-only.
 
 ## Syntax
 
- _expression_ . **GraphicItems**
+ _expression_. 'GraphicItems'
 
  _expression_ An expression that returns a **Master** object.
 

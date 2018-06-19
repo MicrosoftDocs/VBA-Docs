@@ -18,7 +18,7 @@ Returns an  **[OMathMat](Word.OMathMat.md)** object that represents a mathematic
 
 ## Syntax
 
- _expression_ . **Mat**
+ _expression_. 'Mat'
 
  _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
 

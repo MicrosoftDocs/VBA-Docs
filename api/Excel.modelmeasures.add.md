@@ -16,7 +16,7 @@ Adds a model measure to the model.
 
 ## Syntax
 
- _expression_ . **Add**( _MeasureName_,  _MeasureName_,  _AssociatedTable_,  _Formula_,  _FormatInformation_,  _Description_)
+ _expression_. 'Add'( _MeasureName_,  _MeasureName_,  _AssociatedTable_,  _Formula_,  _FormatInformation_,  _Description_)
 
  _expression_ A variable that represents a **ModelMeasures** object.
 

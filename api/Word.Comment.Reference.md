@@ -18,7 +18,7 @@ Returns a  **Range** object that represents a reference mark for a comment.
 
 ## Syntax
 
- _expression_ . **Reference**
+ _expression_. 'Reference'
 
  _expression_ Required. A variable that represents a **[Comment](Word.Comment.md)** object.
 

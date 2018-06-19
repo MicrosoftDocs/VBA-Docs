@@ -18,7 +18,7 @@ Forces a full calculation of the data in all open workbooks.
 
 ## Syntax
 
- _expression_ . **CalculateFull**
+ _expression_. 'CalculateFull'
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Returns the version of a running Microsoft Visio instance. Read-only.
 
 ## Syntax
 
- _expression_ . **Version**
+ _expression_. 'Version'
 
  _expression_ A variable that represents an **Application** object.
 

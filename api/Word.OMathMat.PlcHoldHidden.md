@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether placeholders in a matrix 
 
 ## Syntax
 
- _expression_ . **PlcHoldHidden**
+ _expression_. 'PlcHoldHidden'
 
  _expression_ An expression that returns an **[OMathMat](Word.OMathMat.md)** object.
 

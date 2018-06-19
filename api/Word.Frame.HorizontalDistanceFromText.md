@@ -18,7 +18,7 @@ Returns or sets the horizontal distance between a frame and the surrounding text
 
 ## Syntax
 
- _expression_ . **HorizontalDistanceFromText**
+ _expression_. 'HorizontalDistanceFromText'
 
  _expression_ A variable that represents a **[Frame](Word.Frame.md)** object.
 

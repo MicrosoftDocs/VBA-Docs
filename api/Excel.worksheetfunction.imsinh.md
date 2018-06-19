@@ -16,7 +16,7 @@ Returns the hyperbolic sine of a complex number.
 
 ## Syntax
 
- _expression_ . **ImSinh**_(Arg1)_
+ _expression_. 'ImSinh'_(Arg1)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

@@ -18,7 +18,7 @@ Adds a new add-in to the list of add-ins.
 
 ## Syntax
 
- _expression_ . **Add**( **_Filename_** , **_CopyFile_** )
+ _expression_. 'Add'( '_Filename_' , '_CopyFile_' )
 
  _expression_ A variable that returns an **[AddIns2](Excel.AddIns2.md)** object.
 

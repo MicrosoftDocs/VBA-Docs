@@ -18,7 +18,7 @@ Returns an array of ShapeSheet cells upon which the formula of another cell depe
 
 ## Syntax
 
- _expression_ . **Precedents**
+ _expression_. 'Precedents'
 
  _expression_ A variable that represents a **Cell** object.
 

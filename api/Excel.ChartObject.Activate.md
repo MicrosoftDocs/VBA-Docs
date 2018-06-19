@@ -18,7 +18,7 @@ Makes the current chart the active chart.
 
 ## Syntax
 
- _expression_ . **Activate**
+ _expression_. 'Activate'
 
  _expression_ A variable that represents a **ChartObject** object.
 

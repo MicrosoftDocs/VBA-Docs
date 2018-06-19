@@ -18,7 +18,7 @@ Determines the zoom behavior for all new Microsoft Visio documents and drawing w
 
 ## Syntax
 
- _expression_ . **DefaultZoomBehavior**
+ _expression_. 'DefaultZoomBehavior'
 
  _expression_ A variable that represents an **Application** object.
 

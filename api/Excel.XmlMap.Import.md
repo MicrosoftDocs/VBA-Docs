@@ -18,7 +18,7 @@ Imports data from the specified XML data file into cells that have been mapped t
 
 ## Syntax
 
- _expression_ . **Import**( **_Url_** , **_Overwrite_** )
+ _expression_. 'Import'( '_Url_' , '_Overwrite_' )
 
  _expression_ A variable that represents a **XmlMap** object.
 

@@ -18,7 +18,7 @@ Removes all hyperlinks from the specified range.
 
 ## Syntax
 
- _expression_ . **ClearHyperlinks**
+ _expression_. 'ClearHyperlinks'
 
  _expression_ A variable that returns a **Range** object.
 

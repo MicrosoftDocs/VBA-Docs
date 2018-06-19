@@ -18,7 +18,7 @@ Returns the cumulative interest paid on a loan between start_period and end_peri
 
 ## Syntax
 
- _expression_ . **CumIPmt**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** , **_Arg5_** , **_Arg6_** )
+ _expression_. 'CumIPmt'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' , '_Arg5_' , '_Arg6_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

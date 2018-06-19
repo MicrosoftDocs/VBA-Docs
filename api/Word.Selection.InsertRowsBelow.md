@@ -18,7 +18,7 @@ Inserts rows below the current selection.
 
 ## Syntax
 
- _expression_ . **InsertRowsBelow**
+ _expression_. 'InsertRowsBelow'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

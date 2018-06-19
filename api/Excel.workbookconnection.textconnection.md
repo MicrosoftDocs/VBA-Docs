@@ -16,7 +16,7 @@ Returns a [TextConnection Object (Excel)](textconnection-object-excel.md) object
 
 ## Syntax
 
- _expression_ . **TextConnection**
+ _expression_. 'TextConnection'
 
  _expression_ A variable that represents a[WorkbookConnection](Excel.WorkbookConnection.md) object.
 

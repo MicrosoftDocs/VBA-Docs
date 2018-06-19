@@ -16,7 +16,7 @@ Clears the filter for either slicer or timeline, depending on the slicer cache t
 
 ## Syntax
 
- _expression_ . **ClearAllFilters**
+ _expression_. 'ClearAllFilters'
 
  _expression_ A variable that represents a[SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
 

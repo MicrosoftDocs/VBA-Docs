@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the names of the companies associated
 
 ## Syntax
 
- _expression_ . **Companies**
+ _expression_. 'Companies'
 
  _expression_ A variable that represents a **PostItem** object.
 

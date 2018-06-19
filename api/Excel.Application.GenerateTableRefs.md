@@ -18,7 +18,7 @@ The  **GenerateTableRefs** property determines whether the traditional notation 
 
 ## Syntax
 
- _expression_ . **GenerateTableRefs**
+ _expression_. 'GenerateTableRefs'
 
  _expression_ A variable that represents an **Application** object.
 

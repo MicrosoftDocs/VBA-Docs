@@ -18,7 +18,7 @@ Returns or sets the base unit for the specified category axis. Read/write  **[Xl
 
 ## Syntax
 
- _expression_ . **BaseUnit**
+ _expression_. 'BaseUnit'
 
  _expression_ A variable that represents an **Axis** object.
 

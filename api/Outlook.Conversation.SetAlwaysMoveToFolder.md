@@ -18,7 +18,7 @@ Sets a  **[Folder](Outlook.Folder.md)** object that indicates the folder to whic
 
 ## Syntax
 
- _expression_ . **SetAlwaysMoveToFolder**( **_MoveToFolder_** , **_Store_** )
+ _expression_. 'SetAlwaysMoveToFolder'( '_MoveToFolder_' , '_Store_' )
 
  _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 

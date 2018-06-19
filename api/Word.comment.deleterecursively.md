@@ -16,7 +16,7 @@ Deletes the specified comment and all replies associated with it.
 
 ## Syntax
 
- _expression_ . **DeleteRecursively**
+ _expression_. 'DeleteRecursively'
 
  _expression_ A variable that represents a **Comment** object.
 

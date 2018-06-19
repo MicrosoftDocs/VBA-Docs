@@ -18,7 +18,7 @@ Applies the specified Quick Style set to the document.
 
 ## Syntax
 
- _expression_ . **ApplyQuickStyleSet2**( **_Style_** )
+ _expression_. 'ApplyQuickStyleSet2'( '_Style_' )
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

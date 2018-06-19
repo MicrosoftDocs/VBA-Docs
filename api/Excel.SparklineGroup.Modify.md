@@ -18,7 +18,7 @@ Sets the location and the source data for the sparkline group.
 
 ## Syntax
 
- _expression_ . **Modify**( **_Location_** , **_SourceData_** )
+ _expression_. 'Modify'( '_Location_' , '_SourceData_' )
 
  _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 

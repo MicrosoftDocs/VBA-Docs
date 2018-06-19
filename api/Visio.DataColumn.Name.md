@@ -21,7 +21,7 @@ Gets the unique name of the data column in its parent data recordset. Read-only.
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **DataColumn** object.
 

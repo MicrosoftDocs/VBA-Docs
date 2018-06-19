@@ -18,7 +18,7 @@ Returns  **True** if the specified **Name** object is a valid workbook parameter
 
 ## Syntax
 
- _expression_ . **ValidWorkbookParameter**
+ _expression_. 'ValidWorkbookParameter'
 
  _expression_ A variable that represents a **Name** object.
 

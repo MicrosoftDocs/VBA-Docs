@@ -18,7 +18,7 @@ Adds a new  **Layer** object to a **Layers** collection.
 
 ## Syntax
 
- _expression_ . **Add**( **_LayerName_** )
+ _expression_. 'Add'( '_LayerName_' )
 
  _expression_ A variable that represents a **Layers** object.
 

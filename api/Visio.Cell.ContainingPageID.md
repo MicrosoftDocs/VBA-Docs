@@ -18,7 +18,7 @@ Returns the ID of the page that contains an object. Read-only.
 
 ## Syntax
 
- _expression_ . **ContainingPageID**
+ _expression_. 'ContainingPageID'
 
  _expression_ A variable that represents a **Cell** object.
 

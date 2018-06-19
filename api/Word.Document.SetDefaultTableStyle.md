@@ -18,7 +18,7 @@ Specifies the table style to use for newly created tables in a document.
 
 ## Syntax
 
- _expression_ . **SetDefaultTableStyle**( **_Style_** , **_SetInTemplate_** )
+ _expression_. 'SetDefaultTableStyle'( '_Style_' , '_SetInTemplate_' )
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

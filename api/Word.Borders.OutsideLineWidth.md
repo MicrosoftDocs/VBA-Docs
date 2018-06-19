@@ -18,7 +18,7 @@ Returns or sets the line width of the outside border of an object. Read/write.
 
 ## Syntax
 
- _expression_ . **OutsideLineWidth**
+ _expression_. 'OutsideLineWidth'
 
  _expression_ Required. A variable that represents a **[Borders](Word.borders.md)** collection.
 

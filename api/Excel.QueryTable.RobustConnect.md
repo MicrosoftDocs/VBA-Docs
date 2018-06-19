@@ -18,7 +18,7 @@ Returns or sets how the query table connects to its data source. Read/write  **[
 
 ## Syntax
 
- _expression_ . **RobustConnect**
+ _expression_. 'RobustConnect'
 
  _expression_ A variable that represents a **QueryTable** object.
 

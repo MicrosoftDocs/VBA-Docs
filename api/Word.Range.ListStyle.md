@@ -18,7 +18,7 @@ Returns a  **Variant** that represents the style used to format a bulleted list 
 
 ## Syntax
 
- _expression_ . **ListStyle**
+ _expression_. 'ListStyle'
 
  _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 

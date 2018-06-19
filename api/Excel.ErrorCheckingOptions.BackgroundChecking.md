@@ -18,7 +18,7 @@ Alerts the user for all cells that violate enabled error-checking rules. When th
 
 ## Syntax
 
- _expression_ . **BackgroundChecking**
+ _expression_. 'BackgroundChecking'
 
  _expression_ A variable that represents an **ErrorCheckingOptions** object.
 

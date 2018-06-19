@@ -18,7 +18,7 @@ Returns or sets a  **Long** indicating the percentage of the task completed at t
 
 ## Syntax
 
- _expression_ . **PercentComplete**
+ _expression_. 'PercentComplete'
 
  _expression_ A variable that represents a **TaskItem** object.
 

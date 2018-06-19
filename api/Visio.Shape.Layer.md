@@ -18,7 +18,7 @@ Returns the layer to which a shape is assigned. Read-only.
 
 ## Syntax
 
- _expression_ . **Layer**( **_Index_** )
+ _expression_. 'Layer'( '_Index_' )
 
  _expression_ A variable that represents a **Shape** object.
 

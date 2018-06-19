@@ -15,7 +15,7 @@ Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Re
 
 ## Syntax
 
- _expression_ . **PresetLighting**
+ _expression_. 'PresetLighting'
 
  _expression_ A variable that represents a **ThreeDFormat** object.
 

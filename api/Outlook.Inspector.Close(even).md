@@ -18,7 +18,7 @@ Occurs when the inspector associated with a Microsoft Outlook item is being clos
 
 ## Syntax
 
- _expression_ . **Close**( **_Cancel_** )
+ _expression_. 'Close'( '_Cancel_' )
 
  _expression_ A variable that represents an **Inspector** object.
 

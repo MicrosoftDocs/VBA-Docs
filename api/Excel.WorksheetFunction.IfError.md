@@ -18,7 +18,7 @@ Returns a value you specify if a formula evaluates to an error; otherwise, retur
 
 ## Syntax
 
- _expression_ . **IfError**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'IfError'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

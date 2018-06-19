@@ -16,7 +16,7 @@ Returns a [Shape Object (Excel)](shape-object-excel.md) object that represents t
 
 ## Syntax
 
- _expression_ . **PivotChart**
+ _expression_. 'PivotChart'
 
  _expression_ A variable that represents a[PivotTable Object (Excel)](pivottable-object-excel.md) object.
 

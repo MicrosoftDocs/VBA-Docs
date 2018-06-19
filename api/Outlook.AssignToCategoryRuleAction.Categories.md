@@ -18,7 +18,7 @@ Returns or sets an array of strings representing the categories assigned to the 
 
 ## Syntax
 
- _expression_ . **Categories**
+ _expression_. 'Categories'
 
  _expression_ A variable that represents an **AssignToCategoryRuleAction** object.
 

@@ -18,7 +18,7 @@ Returns or sets the primary color of the object, as shown in the table in the re
 
 ## Syntax
 
- _expression_ . **Color**
+ _expression_. 'Color'
 
  _expression_ An expression that returns a **Font** object.
 

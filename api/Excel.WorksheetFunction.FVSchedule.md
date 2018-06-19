@@ -18,7 +18,7 @@ Returns the future value of an initial principal after applying a series of comp
 
 ## Syntax
 
- _expression_ . **FVSchedule**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'FVSchedule'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

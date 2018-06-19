@@ -18,7 +18,7 @@ Returns or sets a  **String** indicating the display name for the intended sende
 
 ## Syntax
 
- _expression_ . **SentOnBehalfOfName**
+ _expression_. 'SentOnBehalfOfName'
 
  _expression_ An expression that returns a **SharingItem** object.
 

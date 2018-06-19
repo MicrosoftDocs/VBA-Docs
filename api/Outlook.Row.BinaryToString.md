@@ -18,7 +18,7 @@ Obtains a  **String** representing a value that has been converted from a binary
 
 ## Syntax
 
- _expression_ . **BinaryToString**( **_Index_** )
+ _expression_. 'BinaryToString'( '_Index_' )
 
  _expression_ A variable that represents a **Row** object.
 

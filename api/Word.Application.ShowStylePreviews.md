@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word shows a pr
 
 ## Syntax
 
- _expression_ . **ShowStylePreviews**
+ _expression_. 'ShowStylePreviews'
 
  _expression_ An expression that returns an **Application** object.
 

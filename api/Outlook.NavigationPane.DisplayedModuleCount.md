@@ -18,7 +18,7 @@ Returns or sets a  **Long** value that indicates the number of **[NavigationModu
 
 ## Syntax
 
- _expression_ . **DisplayedModuleCount**
+ _expression_. 'DisplayedModuleCount'
 
  _expression_ A variable that represents a **NavigationPane** object.
 

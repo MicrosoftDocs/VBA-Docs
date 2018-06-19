@@ -18,7 +18,7 @@ Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn]
 
 ## Syntax
 
- _expression_ . **SortOn**
+ _expression_. 'SortOn'
 
  _expression_ A variable that represents a **SortField** object.
 

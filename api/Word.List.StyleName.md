@@ -18,7 +18,7 @@ Returns the name of the style applied to the specified AutoText entry. Read-only
 
 ## Syntax
 
- _expression_ . **StyleName**
+ _expression_. 'StyleName'
 
  _expression_ Required. A variable that represents a **[List](Word.List.md)** object.
 

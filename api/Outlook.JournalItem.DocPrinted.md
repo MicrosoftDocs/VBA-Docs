@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates wheter the journalized item was prin
 
 ## Syntax
 
- _expression_ . **DocPrinted**
+ _expression_. 'DocPrinted'
 
  _expression_ A variable that represents a **JournalItem** object.
 

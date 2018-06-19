@@ -18,7 +18,7 @@ Modifies data validation for a range.
 
 ## Syntax
 
- _expression_ . **Modify**( **_Type_** , **_AlertStyle_** , **_Operator_** , **_Formula1_** , **_Formula2_** )
+ _expression_. 'Modify'( '_Type_' , '_AlertStyle_' , '_Operator_' , '_Formula1_' , '_Formula2_' )
 
  _expression_ A variable that represents a **Validation** object.
 

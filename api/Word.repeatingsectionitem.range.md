@@ -16,7 +16,7 @@ Returns the range of the specified repeating section item, excluding the start a
 
 ## Syntax
 
- _expression_ . **Range**
+ _expression_. 'Range'
 
  _expression_ A variable that represents a **RepeatingSectionItem** object.
 

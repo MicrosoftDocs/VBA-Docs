@@ -18,7 +18,7 @@ Returns a constant,  **olConditionCategory** , from the **[OlRuleConditionType](
 
 ## Syntax
 
- _expression_ . **ConditionType**
+ _expression_. 'ConditionType'
 
  _expression_ A variable that represents a **CategoryRuleCondition** object.
 

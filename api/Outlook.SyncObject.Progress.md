@@ -18,7 +18,7 @@ Occurs periodically while Microsoft Outlook is synchronizing a user?s folders us
 
 ## Syntax
 
- _expression_ . **Progress**( **_State_** , **_Description_** , **_Value_** , **_Max_** )
+ _expression_. 'Progress'( '_State_' , '_Description_' , '_Value_' , '_Max_' )
 
  _expression_ A variable that represents a **SyncObject** object.
 

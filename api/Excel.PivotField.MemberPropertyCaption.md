@@ -18,7 +18,7 @@ Setting the  **MemberPropertyCaption** property controls which member property i
 
 ## Syntax
 
- _expression_ . **MemberPropertyCaption**
+ _expression_. 'MemberPropertyCaption'
 
  _expression_ A variable that represents a **PivotField** object.
 

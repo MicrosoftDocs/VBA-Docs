@@ -18,7 +18,7 @@ Returns a  **[Frameset](Word.Frameset.md)** object that represents an entire fra
 
 ## Syntax
 
- _expression_ . **Frameset**
+ _expression_. 'Frameset'
 
  _expression_ A variable that represents a **[Pane](Word.Pane.md)** object.
 

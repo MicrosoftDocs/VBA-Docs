@@ -18,7 +18,7 @@ Displays the standard  **Save As** dialog box and gets a file name from the user
 
 ## Syntax
 
- _expression_ . **GetSaveAsFilename**( **_InitialFilename_** , **_FileFilter_** , **_FilterIndex_** , **_Title_** , **_ButtonText_** )
+ _expression_. 'GetSaveAsFilename'( '_InitialFilename_' , '_FileFilter_' , '_FilterIndex_' , '_Title_' , '_ButtonText_' )
 
  _expression_ A variable that represents an **Application** object.
 

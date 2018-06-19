@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates if the item property is a custom pro
 
 ## Syntax
 
- _expression_ . **IsUserProperty**
+ _expression_. 'IsUserProperty'
 
  _expression_ A variable that represents an **ItemProperty** object.
 

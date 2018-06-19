@@ -18,7 +18,7 @@ Deletes a ShapeSheet section.
 
 ## Syntax
 
- _expression_ . **DeleteSection**( **_Section_** )
+ _expression_. 'DeleteSection'( '_Section_' )
 
  _expression_ A variable that represents a **Shape** object.
 

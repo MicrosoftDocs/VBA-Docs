@@ -18,7 +18,7 @@ Returns the maximum width of the space that a window can occupy in the applicati
 
 ## Syntax
 
- _expression_ . **UsableWidth**
+ _expression_. 'UsableWidth'
 
  _expression_ A variable that represents an **Application** object.
 

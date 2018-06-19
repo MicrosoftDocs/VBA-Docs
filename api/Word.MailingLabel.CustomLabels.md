@@ -18,7 +18,7 @@ Returns a  **[CustomLabels](Word.customlabels.md)** collection that represents t
 
 ## Syntax
 
- _expression_ . **CustomLabels**
+ _expression_. 'CustomLabels'
 
  _expression_ A variable that represents a **[MailingLabel](Word.MailingLabel.md)** object.
 

@@ -21,7 +21,7 @@ Returns  **visObjTypeGraphicItems** , the type of a **GraphicItems** object. Rea
 
 ## Syntax
 
- _expression_ . **ObjectType**
+ _expression_. 'ObjectType'
 
  _expression_ An expression that returns a **GraphicItems** object.
 

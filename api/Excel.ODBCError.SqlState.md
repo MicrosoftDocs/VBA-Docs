@@ -18,7 +18,7 @@ Returns the SQL state error. Read-only  **String** .
 
 ## Syntax
 
- _expression_ . **SqlState**
+ _expression_. 'SqlState'
 
  _expression_ A variable that represents an **ODBCError** object.
 

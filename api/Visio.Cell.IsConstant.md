@@ -18,7 +18,7 @@ Determines whether a formula of the cell is a constant expression. Read-only.
 
 ## Syntax
 
- _expression_ . **IsConstant**
+ _expression_. 'IsConstant'
 
  _expression_ A variable that represents a **Cell** object.
 

@@ -18,7 +18,7 @@ Returns the range of object for the specified  **WorkbookConnection** object. Re
 
 ## Syntax
 
- _expression_ . **Ranges**
+ _expression_. 'Ranges'
 
  _expression_ A variable that represents a **WorkbookConnection** object.
 

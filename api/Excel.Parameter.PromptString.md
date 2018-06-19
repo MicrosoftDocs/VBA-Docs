@@ -18,7 +18,7 @@ Returns the phrase that prompts the user for a parameter value in a parameter qu
 
 ## Syntax
 
- _expression_ . **PromptString**
+ _expression_. 'PromptString'
 
  _expression_ A variable that represents a **Parameter** object.
 

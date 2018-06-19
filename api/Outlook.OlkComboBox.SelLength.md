@@ -18,7 +18,7 @@ Returns or sets a  **Long** that specifies the number of characters in the curre
 
 ## Syntax
 
- _expression_ . **SelLength**
+ _expression_. 'SelLength'
 
  _expression_ A variable that represents an **OlkComboBox** object.
 

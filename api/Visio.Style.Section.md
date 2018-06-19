@@ -18,7 +18,7 @@ Returns the requested  **Section** object belonging to a style. Read-only.
 
 ## Syntax
 
- _expression_ . **Section**( **_Index_** )
+ _expression_. 'Section'( '_Index_' )
 
  _expression_ A variable that represents a **Style** object.
 

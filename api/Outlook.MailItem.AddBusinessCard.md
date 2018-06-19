@@ -18,7 +18,7 @@ Appends contact information based on the Electronic Business Card (EBC) associat
 
 ## Syntax
 
- _expression_ . **AddBusinessCard**( **_contact_** )
+ _expression_. 'AddBusinessCard'( '_contact_' )
 
  _expression_ An expression that returns a **MailItem** object.
 

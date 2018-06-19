@@ -18,7 +18,7 @@ Returns or sets the signature that Microsoft Word appends to e-mail message repl
 
 ## Syntax
 
- _expression_ . **ReplyMessageSignature**
+ _expression_. 'ReplyMessageSignature'
 
  _expression_ An expression that returns an **[EmailSignature](Word.EmailSignature.md)** object.
 

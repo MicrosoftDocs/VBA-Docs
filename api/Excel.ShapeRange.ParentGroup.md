@@ -18,7 +18,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the common parent 
 
 ## Syntax
 
- _expression_ . **ParentGroup**
+ _expression_. 'ParentGroup'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

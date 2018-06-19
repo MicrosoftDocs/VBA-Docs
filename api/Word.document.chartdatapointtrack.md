@@ -16,7 +16,7 @@ Returns or sets a  **Boolean** that specifies whether charts in the active docum
 
 ## Syntax
 
- _expression_ . **ChartDataPointTrack**
+ _expression_. 'ChartDataPointTrack'
 
  _expression_ A variable that represents a **Document** object.
 

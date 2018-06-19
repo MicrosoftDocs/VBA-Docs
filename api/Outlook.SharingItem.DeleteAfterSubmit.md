@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that is **True** if a copy of the item is n
 
 ## Syntax
 
- _expression_ . **DeleteAfterSubmit**
+ _expression_. 'DeleteAfterSubmit'
 
  _expression_ A variable that represents a **SharingItem** object.
 

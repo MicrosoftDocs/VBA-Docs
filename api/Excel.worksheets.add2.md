@@ -16,7 +16,7 @@ This method is only implemented for the  **Charts** collection object and will p
 
 ## Syntax
 
- _expression_ . **Add2**_(Before,_ _After,_ _Count,_ _NewLayout)_
+ _expression_. 'Add2'_(Before,_ _After,_ _Count,_ _NewLayout)_
 
  _expression_ A variable that represents a **Worksheets** object.
 

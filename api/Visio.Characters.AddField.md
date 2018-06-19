@@ -18,7 +18,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
 
 ## Syntax
 
- _expression_ . **AddField**( **_Category_** , **_Code_** , **_Format_** )
+ _expression_. 'AddField'( '_Category_' , '_Code_' , '_Format_' )
 
  _expression_ A variable that represents a **Characters** object.
 

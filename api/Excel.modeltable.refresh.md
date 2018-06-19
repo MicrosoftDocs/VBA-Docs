@@ -16,7 +16,7 @@ Refreshes the model table source connections.
 
 ## Syntax
 
- _expression_ . **Refresh**
+ _expression_. 'Refresh'
 
  _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 

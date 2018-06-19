@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates if two entry ID values refer to the 
 
 ## Syntax
 
- _expression_ . **CompareEntryIDs**( **_FirstEntryID_** , **_SecondEntryID_** )
+ _expression_. 'CompareEntryIDs'( '_FirstEntryID_' , '_SecondEntryID_' )
 
  _expression_ An expression that returns a **NameSpace** object.
 

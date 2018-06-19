@@ -18,7 +18,7 @@ Occurs when a new shortcut is added to a  **Shortcuts** pane group.
 
 ## Syntax
 
- _expression_ . **ShortcutAdd**( **_NewShortcut_** )
+ _expression_. 'ShortcutAdd'( '_NewShortcut_' )
 
  _expression_ A variable that represents an **OutlookBarShortcuts** object.
 

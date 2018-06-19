@@ -18,7 +18,7 @@ Returns or sets a  **[WdOMathFracType](Word.WdOMathFracType.md)** constant that 
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ An expression that returns an **[OMathFrac](Word.OMathFrac.md)** object.
 

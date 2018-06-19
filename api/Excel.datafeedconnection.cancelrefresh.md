@@ -16,7 +16,7 @@ Cancels a refresh operation on a data feed connection.
 
 ## Syntax
 
- _expression_ . **CancelRefresh**
+ _expression_. 'CancelRefresh'
 
  _expression_ A variable that represents a[DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **WdLanguageID** that represents the language format for the date dis
 
 ## Syntax
 
- _expression_ . **DateDisplayLocale**
+ _expression_. 'DateDisplayLocale'
 
  _expression_ An expression that returns a **ContentControl** object.
 

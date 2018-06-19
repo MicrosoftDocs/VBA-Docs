@@ -18,7 +18,7 @@ Creates a new building block entry in a template and returns a  **[BuildingBlock
 
 ## Syntax
 
- _expression_ . **Add**( **_Name_** , **_Type_** , **_Category_** , **_Range_** , **_Description_** , **_InsertOptions_** )
+ _expression_. 'Add'( '_Name_' , '_Type_' , '_Category_' , '_Range_' , '_Description_' , '_InsertOptions_' )
 
  _expression_ An expression that returns a **[BuildingBlockEntries](Word.BuildingBlockEntries.md)** object.
 

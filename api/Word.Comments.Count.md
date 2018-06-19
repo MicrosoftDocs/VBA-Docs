@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of items in the **Comments** coll
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents a **[Comments](Word.comments.md)** collection.
 

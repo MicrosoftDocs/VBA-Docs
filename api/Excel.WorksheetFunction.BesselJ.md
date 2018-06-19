@@ -18,7 +18,7 @@ Returns the Bessel function.
 
 ## Syntax
 
- _expression_ . **BesselJ**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'BesselJ'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

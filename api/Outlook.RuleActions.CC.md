@@ -18,7 +18,7 @@ Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRu
 
 ## Syntax
 
- _expression_ . **CC**
+ _expression_. 'CC'
 
  _expression_ A variable that represents a **RuleActions** object.
 

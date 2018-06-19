@@ -18,7 +18,7 @@ Returns or sets whether the text in the specified callout is surrounded by a bor
 
 ## Syntax
 
- _expression_ . **Border**
+ _expression_. 'Border'
 
  _expression_ Required. A variable that represents a **[CalloutFormat](Word.CalloutFormat.md)** object.
 

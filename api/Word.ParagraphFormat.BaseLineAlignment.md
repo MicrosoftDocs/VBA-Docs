@@ -18,7 +18,7 @@ Returns or sets a  **WdBaselineAlignment** constant that represents the vertical
 
 ## Syntax
 
- _expression_ . **BaseLineAlignment**
+ _expression_. 'BaseLineAlignment'
 
  _expression_ Required. A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
 

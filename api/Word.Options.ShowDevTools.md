@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether the **Developer** tab is 
 
 ## Syntax
 
- _expression_ . **ShowDevTools**
+ _expression_. 'ShowDevTools'
 
  _expression_ An expression that returns an **Options** object.
 

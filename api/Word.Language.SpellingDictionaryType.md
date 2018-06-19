@@ -18,7 +18,7 @@ Returns or sets the proofing tool type. Read/write  **WdDictionaryType** .
 
 ## Syntax
 
- _expression_ . **SpellingDictionaryType**
+ _expression_. 'SpellingDictionaryType'
 
  _expression_ Required. A variable that represents a **[Language](Word.Language.md)** object.
 

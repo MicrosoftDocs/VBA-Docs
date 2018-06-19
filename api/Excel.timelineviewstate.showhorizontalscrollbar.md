@@ -16,7 +16,7 @@ Get or set whether the control's horizontal scrollbar is displayed.  **Boolean**
 
 ## Syntax
 
- _expression_ . **ShowHorizontalScrollbar**
+ _expression_. 'ShowHorizontalScrollbar'
 
  _expression_ A variable that represents a[TimelineViewState](Excel.timelineviewstate.md)object.
 

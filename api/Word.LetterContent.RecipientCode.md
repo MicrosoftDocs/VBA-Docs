@@ -18,7 +18,7 @@ Returns or sets the recipient code. Read/write  **String** .
 
 ## Syntax
 
- _expression_ . **RecipientCode**
+ _expression_. 'RecipientCode'
 
  _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
 

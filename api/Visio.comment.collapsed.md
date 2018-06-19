@@ -13,7 +13,7 @@ Returns or sets whether the specified comment is collapsed. Read-write  **Boolea
 
 ## Syntax
 
- _expression_ . **Collapsed**
+ _expression_. 'Collapsed'
 
  _expression_ A variable that represents a **Comment** object.
 

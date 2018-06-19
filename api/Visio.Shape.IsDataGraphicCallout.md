@@ -18,7 +18,7 @@ Specifes whether a shape is a data graphic callout. Read-only.
 
 ## Syntax
 
- _expression_ . **IsDataGraphicCallout**
+ _expression_. 'IsDataGraphicCallout'
 
  _expression_ An expression that returns a **Shape** object.
 

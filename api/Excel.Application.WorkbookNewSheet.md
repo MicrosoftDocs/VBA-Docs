@@ -18,7 +18,7 @@ Occurs when a new sheet is created in any open workbook.
 
 ## Syntax
 
- _expression_ . **WorkbookNewSheet**( **_Wb_** , **_Sh_** )
+ _expression_. 'WorkbookNewSheet'( '_Wb_' , '_Sh_' )
 
  _expression_ A variable that represents an **[Application](Excel.Application(objec).md)** object.
 

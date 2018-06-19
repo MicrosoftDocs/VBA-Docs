@@ -18,7 +18,7 @@ Returns a  **Paragraph** object that represents the last item in the collection 
 
 ## Syntax
 
- _expression_ . **Last**
+ _expression_. 'Last'
 
  _expression_ Required. A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
 

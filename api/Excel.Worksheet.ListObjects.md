@@ -18,7 +18,7 @@ Returns a collection of  **[ListObject](Excel.ListObject.md)** objects in the wo
 
 ## Syntax
 
- _expression_ . **ListObjects**
+ _expression_. 'ListObjects'
 
  _expression_ A variable that represents a **Worksheet** object.
 

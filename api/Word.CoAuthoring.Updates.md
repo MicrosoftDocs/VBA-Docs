@@ -18,7 +18,7 @@ Returns a  **[CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213
 
 ## Syntax
 
- _expression_ . **Updates**
+ _expression_. 'Updates'
 
  _expression_ An expression that returns a **[CoAuthoring](Word.CoAuthoring.md)** object.
 

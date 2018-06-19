@@ -18,7 +18,7 @@ Occurs whenever the user clicks the  **Add-in Options** button on the **Add-ins*
 
 ## Syntax
 
- _expression_ . **OptionsPagesAdd**( **_Pages_** , **_Folder_** )
+ _expression_. 'OptionsPagesAdd'( '_Pages_' , '_Folder_' )
 
  _expression_ A variable that represents an **Application** object.
 

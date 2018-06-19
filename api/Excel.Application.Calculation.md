@@ -18,7 +18,7 @@ Returns or sets a  **[XlCalculation](Excel.XlCalculation.md)** value that repres
 
 ## Syntax
 
- _expression_ . **Calculation**
+ _expression_. 'Calculation'
 
  _expression_ A variable that represents an **Application** object.
 

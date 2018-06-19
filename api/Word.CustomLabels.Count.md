@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of items in the collection. Read-
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents a **[CustomLabels](Word.customlabels.md)** collection.
 

@@ -18,7 +18,7 @@ Determines how a document is protected from user customization. Read/write.
 
 ## Syntax
 
- _expression_ . **Protection**( **_bstrPassword_** )
+ _expression_. 'Protection'( '_bstrPassword_' )
 
  _expression_ A variable that represents a **Document** object.
 

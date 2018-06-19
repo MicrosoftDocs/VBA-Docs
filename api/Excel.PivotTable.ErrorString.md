@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the string displayed in cell
 
 ## Syntax
 
- _expression_ . **ErrorString**
+ _expression_. 'ErrorString'
 
  _expression_ A variable that represents a **PivotTable** object.
 

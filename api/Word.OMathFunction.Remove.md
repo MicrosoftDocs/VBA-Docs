@@ -18,7 +18,7 @@ Removes a function from the collection of functions contained within an equation
 
 ## Syntax
 
- _expression_ . **Remove**
+ _expression_. 'Remove'
 
  _expression_ An expression that returns a **OMathFunction** object.
 

@@ -15,7 +15,7 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
 
 ## Syntax
 
- _expression_ . **ReplyAll**( **_Response_** , **_Cancel_** )
+ _expression_. 'ReplyAll'( '_Response_' , '_Cancel_' )
 
  _expression_ An expression that returns a **SharingItem** object.
 

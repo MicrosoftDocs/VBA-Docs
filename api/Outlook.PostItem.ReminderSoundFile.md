@@ -18,7 +18,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 ## Syntax
 
- _expression_ . **ReminderSoundFile**
+ _expression_. 'ReminderSoundFile'
 
  _expression_ A variable that represents a **PostItem** object.
 

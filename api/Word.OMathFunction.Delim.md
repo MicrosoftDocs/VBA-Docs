@@ -18,7 +18,7 @@ Returns an  **[OMathDelim](Word.OMathDelim.md)** object that represents the deli
 
 ## Syntax
 
- _expression_ . **Delim**
+ _expression_. 'Delim'
 
  _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
 

@@ -18,7 +18,7 @@ This property is used to specify whether or not a specific member property Pivot
 
 ## Syntax
 
- _expression_ . **DisplayAsTooltip**
+ _expression_. 'DisplayAsTooltip'
 
  _expression_ A variable that represents a **PivotField** object.
 

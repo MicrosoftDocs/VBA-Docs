@@ -18,7 +18,7 @@ Returns a  **String** value that represents the XML namespaces that have been ad
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents a **XmlNamespaces** object.
 

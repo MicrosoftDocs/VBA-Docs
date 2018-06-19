@@ -18,7 +18,7 @@ Deletes an entry from the array of AutoCorrect replacements.
 
 ## Syntax
 
- _expression_ . **DeleteReplacement**( **_What_** )
+ _expression_. 'DeleteReplacement'( '_What_' )
 
  _expression_ A variable that represents an **AutoCorrect** object.
 

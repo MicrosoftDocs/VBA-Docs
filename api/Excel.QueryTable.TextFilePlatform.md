@@ -18,7 +18,7 @@ Returns or sets the origin of the text file you're importing into the query tabl
 
 ## Syntax
 
- _expression_ . **TextFilePlatform**
+ _expression_. 'TextFilePlatform'
 
  _expression_ A variable that represents a **QueryTable** object.
 

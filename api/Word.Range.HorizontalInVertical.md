@@ -18,7 +18,7 @@ Returns or sets the formatting for horizontal text set within vertical text. Rea
 
 ## Syntax
 
- _expression_ . **HorizontalInVertical**
+ _expression_. 'HorizontalInVertical'
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

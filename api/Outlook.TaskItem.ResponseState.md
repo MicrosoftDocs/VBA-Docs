@@ -18,7 +18,7 @@ Returns an  **[OlTaskResponse](Outlook.OlTaskResponse.md)** constant indicating 
 
 ## Syntax
 
- _expression_ . **ResponseState**
+ _expression_. 'ResponseState'
 
  _expression_ A variable that represents a **TaskItem** object.
 

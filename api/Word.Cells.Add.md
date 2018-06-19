@@ -18,7 +18,7 @@ Returns a  **Cell** object that represents a cell added to a table.
 
 ## Syntax
 
- _expression_ . **Add**( **_BeforeCell_** )
+ _expression_. 'Add'( '_BeforeCell_' )
 
  _expression_ Required. A variable that represents a **[Cells](Word.cells.md)** collection.
 

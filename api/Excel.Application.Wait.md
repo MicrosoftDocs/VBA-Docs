@@ -18,7 +18,7 @@ Pauses a running macro until a specified time. Returns  **True** if the specifie
 
 ## Syntax
 
- _expression_ . **Wait**( **_Time_** )
+ _expression_. 'Wait'( '_Time_' )
 
  _expression_ A variable that represents an **Application** object.
 

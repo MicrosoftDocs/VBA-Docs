@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the display name for a form.
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **FormDescription** object.
 

@@ -18,7 +18,7 @@ Returns the MDX tuple of the value was changed in the OLAP data source. Read-onl
 
 ## Syntax
 
- _expression_ . **Tuple**
+ _expression_. 'Tuple'
 
  _expression_ A variable that represents a **[ValueChange](Excel.ValueChange.md)** object.
 

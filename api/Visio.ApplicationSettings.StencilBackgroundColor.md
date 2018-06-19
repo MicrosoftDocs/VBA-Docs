@@ -18,7 +18,7 @@ Determines the background color of the Microsoft Visio stencil window for the cu
 
 ## Syntax
 
- _expression_ . **StencilBackgroundColor**
+ _expression_. 'StencilBackgroundColor'
 
  _expression_ A variable that represents an **ApplicationSettings** object.
 

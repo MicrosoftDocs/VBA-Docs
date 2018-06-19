@@ -18,7 +18,7 @@ Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](Ex
 
 ## Syntax
 
- _expression_ . **SortMethod**
+ _expression_. 'SortMethod'
 
  _expression_ A variable that represents a **Sort** object.
 

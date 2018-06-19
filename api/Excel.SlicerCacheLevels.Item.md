@@ -18,7 +18,7 @@ Returns the specified  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object 
 
 ## Syntax
 
- _expression_ . **Item**( **_Level_** )
+ _expression_. 'Item'( '_Level_' )
 
  _expression_ A variable that returns a **[SlicerCacheLevels](Excel.SlicerCacheLevels.md)** object.
 

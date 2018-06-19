@@ -18,7 +18,7 @@ Returns a  **String** value that represents the complete path to the workbook/fi
 
 ## Syntax
 
- _expression_ . **Path**
+ _expression_. 'Path'
 
  _expression_ A variable that represents a **RecentFile** object.
 

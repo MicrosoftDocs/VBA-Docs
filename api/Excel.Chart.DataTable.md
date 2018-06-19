@@ -18,7 +18,7 @@ Returns a  **[DataTable](Excel.DataTable(objec).md)** object that represents the
 
 ## Syntax
 
- _expression_ . **DataTable**
+ _expression_. 'DataTable'
 
  _expression_ A variable that represents a **Chart** object.
 

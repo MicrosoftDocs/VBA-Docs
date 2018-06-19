@@ -18,7 +18,7 @@ Updates an external data range ( **[QueryTable](Excel.QueryTable.md)** ).
 
 ## Syntax
 
- _expression_ . **Refresh**( **_BackgroundQuery_** )
+ _expression_. 'Refresh'( '_BackgroundQuery_' )
 
  _expression_ A variable that represents a **QueryTable** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Variant** that represents the content of the control. Read/
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents an **OlkTextBox** object.
 

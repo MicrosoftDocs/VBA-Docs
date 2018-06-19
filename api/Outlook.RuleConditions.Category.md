@@ -18,7 +18,7 @@ Returns a  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object 
 
 ## Syntax
 
- _expression_ . **Category**
+ _expression_. 'Category'
 
  _expression_ A variable that represents a **RuleConditions** object.
 

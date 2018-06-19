@@ -18,7 +18,7 @@ Returns a  **[VPageBreaks](Excel.Charts.VPageBreaks.md)** collection that repres
 
 ## Syntax
 
- _expression_ . **VPageBreaks**
+ _expression_. 'VPageBreaks'
 
  _expression_ A variable that represents a **Charts** object.
 

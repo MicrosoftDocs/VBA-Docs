@@ -18,7 +18,7 @@ Unloads all of the custom or conversion dictionaries.
 
 ## Syntax
 
- _expression_ . **ClearAll**
+ _expression_. 'ClearAll'
 
  _expression_ Required. A variable that represents a **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection.
 

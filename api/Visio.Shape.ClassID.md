@@ -18,7 +18,7 @@ Returns the class ID string of a shape that represents an ActiveX control or an 
 
 ## Syntax
 
- _expression_ . **ClassID**
+ _expression_. 'ClassID'
 
  _expression_ A variable that represents a **Shape** object.
 

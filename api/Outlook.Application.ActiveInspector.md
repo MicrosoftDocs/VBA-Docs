@@ -18,7 +18,7 @@ Returns the topmost  **[Inspector](Outlook.Inspector.md)** object on the desktop
 
 ## Syntax
 
- _expression_ . **ActiveInspector**
+ _expression_. 'ActiveInspector'
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Searches the contents of the specified mail merge data source for text in a part
 
 ## Syntax
 
- _expression_ . **FindRecord**( **_FindText_** , **_Field_** )
+ _expression_. 'FindRecord'( '_FindText_' , '_Field_' )
 
  _expression_ Required. A variable that represents a **[MailMergeDataSource](Word.MailMergeDataSource.md)** object.
 

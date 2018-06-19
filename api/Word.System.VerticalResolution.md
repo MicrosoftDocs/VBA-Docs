@@ -18,7 +18,7 @@ Returns the vertical screen resolution in pixels. Read-only  **Long** .
 
 ## Syntax
 
- _expression_ . **VerticalResolution**
+ _expression_. 'VerticalResolution'
 
  _expression_ An expression that returns a **[System](Word.System.md)** object.
 

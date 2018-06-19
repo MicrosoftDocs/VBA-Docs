@@ -18,7 +18,7 @@ Returns a  **Long** value that represents the number of levels of category tick 
 
 ## Syntax
 
- _expression_ . **Depth**
+ _expression_. 'Depth'
 
  _expression_ A variable that represents a **TickLabels** object.
 

@@ -18,7 +18,7 @@ Removes numbers or bullets from the specified document.
 
 ## Syntax
 
- _expression_ . **RemoveNumbers**( **_NumberType_** )
+ _expression_. 'RemoveNumbers'( '_NumberType_' )
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

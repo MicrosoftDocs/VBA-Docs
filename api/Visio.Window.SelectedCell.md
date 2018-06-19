@@ -18,7 +18,7 @@ Returns the selected cell in the ShapeSheet window. Read-only.
 
 ## Syntax
 
- _expression_ . **SelectedCell**
+ _expression_. 'SelectedCell'
 
  _expression_ A variable that represents a **Window** object.
 

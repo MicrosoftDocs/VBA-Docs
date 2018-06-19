@@ -18,7 +18,7 @@ Returns the  **Styles** collection for a document. Read-only.
 
 ## Syntax
 
- _expression_ . **Styles**
+ _expression_. 'Styles'
 
  _expression_ A variable that represents a **Document** object.
 

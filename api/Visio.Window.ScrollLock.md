@@ -18,7 +18,7 @@ Determines whether scrolling is disabled in a Microsoft Visio window. Read/write
 
 ## Syntax
 
- _expression_ . **ScrollLock**
+ _expression_. 'ScrollLock'
 
  _expression_ A variable that represents a **Window** object.
 

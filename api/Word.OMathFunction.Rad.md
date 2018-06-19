@@ -18,7 +18,7 @@ Returns an  **[OMathRad](Word.OMathRad.md)** object that represents the mathemat
 
 ## Syntax
 
- _expression_ . **Rad**
+ _expression_. 'Rad'
 
  _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
 

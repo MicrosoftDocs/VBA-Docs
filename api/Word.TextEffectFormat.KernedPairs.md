@@ -18,7 +18,7 @@ Indicates that character pairs in a WordArt object have been kerned. Read/write 
 
 ## Syntax
 
- _expression_ . **KernedPairs**
+ _expression_. 'KernedPairs'
 
  _expression_ Required. A variable that represents a **[TextEffectFormat](Word.TextEffectFormat.md)** object.
 

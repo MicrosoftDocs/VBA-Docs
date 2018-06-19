@@ -18,7 +18,7 @@ Returns a  **Templates** collection that represents all the available templatesâ
 
 ## Syntax
 
- _expression_ . **Templates**
+ _expression_. 'Templates'
 
  _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
 

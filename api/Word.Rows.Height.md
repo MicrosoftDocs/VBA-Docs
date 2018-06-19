@@ -18,7 +18,7 @@ Returns or sets the height of the specified rows in a table. Read/write Single.
 
 ## Syntax
 
- _expression_ . **Height**
+ _expression_. 'Height'
 
  _expression_ A variable that represents a **[Rows](Word.rows.md)** collection.
 

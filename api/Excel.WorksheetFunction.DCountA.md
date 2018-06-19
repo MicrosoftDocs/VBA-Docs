@@ -18,7 +18,7 @@ Counts the nonblank cells in a column of a list or database that match condition
 
 ## Syntax
 
- _expression_ . **DCountA**( **_Arg1_** , **_Arg2_** , **_Arg3_** )
+ _expression_. 'DCountA'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

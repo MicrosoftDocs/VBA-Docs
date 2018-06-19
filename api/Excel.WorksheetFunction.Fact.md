@@ -18,7 +18,7 @@ Returns the factorial of a number. The factorial of a number is equal to 1*2*3*.
 
 ## Syntax
 
- _expression_ . **Fact**( **_Arg1_** )
+ _expression_. 'Fact'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

@@ -16,7 +16,7 @@ Returns a [ModelFormatBoolean](Excel.modelformatboolean.md) object that represen
 
 ## Syntax
 
- _expression_ . **ModelFormatBoolean**
+ _expression_. 'ModelFormatBoolean'
 
  _expression_ A variable that represents a **Model** object.
 

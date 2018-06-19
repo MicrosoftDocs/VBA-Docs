@@ -18,7 +18,7 @@ Gets the value of a cell expressed as an integer. Read-only.
 
 ## Syntax
 
- _expression_ . **ResultInt**( **_UnitsNameOrCode_** , **_fRound_** )
+ _expression_. 'ResultInt'( '_UnitsNameOrCode_' , '_fRound_' )
 
  _expression_ A variable that represents a **Cell** object.
 

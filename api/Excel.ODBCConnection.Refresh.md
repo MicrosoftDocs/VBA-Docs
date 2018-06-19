@@ -18,7 +18,7 @@ Refreshes an ODBC connection.
 
 ## Syntax
 
- _expression_ . **Refresh**
+ _expression_. 'Refresh'
 
  _expression_ A variable that represents an **ODBCConnection** object.
 

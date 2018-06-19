@@ -18,7 +18,7 @@ Occurs when the active form page changes, either programmatically or by user act
 
 ## Syntax
 
- _expression_ . **PageChange**( **_ActivePageName_** )
+ _expression_. 'PageChange'( '_ActivePageName_' )
 
  _expression_ A variable that represents an **Inspector** object.
 

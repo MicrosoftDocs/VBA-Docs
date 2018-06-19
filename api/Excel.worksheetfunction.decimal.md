@@ -16,7 +16,7 @@ Converts a text representation of a number in a given base into a decimal number
 
 ## Syntax
 
- _expression_ . **Decimal**_(Arg1,_ _Arg2)_
+ _expression_. 'Decimal'_(Arg1,_ _Arg2)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

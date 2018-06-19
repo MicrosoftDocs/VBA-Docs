@@ -18,7 +18,7 @@ Applies the previous heading level style (Heading 1 through Heading 8) to the sp
 
 ## Syntax
 
- _expression_ . **OutlinePromote**
+ _expression_. 'OutlinePromote'
 
  _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
 

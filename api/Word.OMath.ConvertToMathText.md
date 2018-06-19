@@ -18,7 +18,7 @@ Converts an equation to math text.
 
 ## Syntax
 
- _expression_ . **ConvertToMathText**
+ _expression_. 'ConvertToMathText'
 
  _expression_ An expression that returns an **[OMath](Word.OMath.md)** object.
 

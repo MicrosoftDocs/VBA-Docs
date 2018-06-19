@@ -18,7 +18,7 @@ Returns a [ThreeDFormat](Word.ThreeDFormat.md) object that contains 3-D effect f
 
 ## Syntax
 
- _expression_ . **ThreeD**
+ _expression_. 'ThreeD'
 
  _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 

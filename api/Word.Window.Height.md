@@ -18,7 +18,7 @@ Returns or sets the height of the window (in points). Read/write Long.
 
 ## Syntax
 
- _expression_ . **Height**
+ _expression_. 'Height'
 
  _expression_ A variable that represents a **[Window](Word.Window.md)** object.
 

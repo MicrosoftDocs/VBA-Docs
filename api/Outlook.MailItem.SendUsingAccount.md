@@ -18,7 +18,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
 ## Syntax
 
- _expression_ . **SendUsingAccount**
+ _expression_. 'SendUsingAccount'
 
  _expression_ An expression that returns a **MailItem** object.
 

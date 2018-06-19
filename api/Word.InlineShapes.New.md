@@ -18,7 +18,7 @@ Inserts an empty, 1-inch-square Word picture object surrounded by a border. This
 
 ## Syntax
 
- _expression_ . **New**( **_Range_** )
+ _expression_. 'New'( '_Range_' )
 
  _expression_ Required. A variable that represents an **[InlineShapes](Word.inlineshapes.md)** collection.
 

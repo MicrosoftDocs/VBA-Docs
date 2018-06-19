@@ -18,7 +18,7 @@ Returns an  **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object represent
 
 ## Syntax
 
- _expression_ . **Groups**
+ _expression_. 'Groups'
 
  _expression_ A variable that represents an **OutlookBarStorage** object.
 

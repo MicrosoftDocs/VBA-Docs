@@ -18,7 +18,7 @@ Specifies a picture or text to be left aligned in the page footer.
 
 ## Syntax
 
- _expression_ . **LeftFooter**
+ _expression_. 'LeftFooter'
 
  _expression_ A variable that represents a **Page** object.
 

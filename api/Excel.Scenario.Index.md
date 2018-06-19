@@ -18,7 +18,7 @@ Returns a  **Long** value that represents the index number of the object within 
 
 ## Syntax
 
- _expression_ . **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents a **Scenario** object.
 

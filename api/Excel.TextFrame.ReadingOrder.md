@@ -18,7 +18,7 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 
 ## Syntax
 
- _expression_ . **ReadingOrder**
+ _expression_. 'ReadingOrder'
 
  _expression_ A variable that represents a **TextFrame** object.
 

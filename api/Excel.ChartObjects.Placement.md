@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlac
 
 ## Syntax
 
- _expression_ . **Placement**
+ _expression_. 'Placement'
 
  _expression_ A variable that represents a **ChartObjects** object.
 

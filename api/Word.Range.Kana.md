@@ -18,7 +18,7 @@ Returns or sets whether the specified range of Japanese language text is hiragan
 
 ## Syntax
 
- _expression_ . **Kana**
+ _expression_. 'Kana'
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

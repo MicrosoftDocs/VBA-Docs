@@ -18,7 +18,7 @@ Specifies a picture or text to be center aligned in the page header.
 
 ## Syntax
 
- _expression_ . **CenterHeader**
+ _expression_. 'CenterHeader'
 
  _expression_ A variable that represents a **Page** object.
 

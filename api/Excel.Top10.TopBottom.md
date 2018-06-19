@@ -18,7 +18,7 @@ Returns or sets one of the constants of the  **[XlTopBottom](Excel.XlTopBottom.m
 
 ## Syntax
 
- _expression_ . **TopBottom**
+ _expression_. 'TopBottom'
 
  _expression_ A variable that represents a **Top10** object.
 

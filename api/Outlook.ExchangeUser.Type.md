@@ -18,7 +18,7 @@ Returns a  **String** representing the type of entry for the **[ExchangeUser](Ou
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents an **ExchangeUser** object.
 

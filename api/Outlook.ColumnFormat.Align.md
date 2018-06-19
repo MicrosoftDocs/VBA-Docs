@@ -18,7 +18,7 @@ Returns or sets an  **[OlAlign](Outlook.OlAlign.md)** constant that indicates th
 
 ## Syntax
 
- _expression_ . **Align**
+ _expression_. 'Align'
 
  _expression_ A variable that represents a **ColumnFormat** object.
 

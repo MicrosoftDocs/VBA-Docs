@@ -18,7 +18,7 @@ Clears the  **[DistListItem](Outlook.DistListItem.md)** object as a task.
 
 ## Syntax
 
- _expression_ . **ClearTaskFlag**
+ _expression_. 'ClearTaskFlag'
 
  _expression_ An expression that returns a **DistListItem** object.
 

@@ -18,7 +18,7 @@ Rotates a shape on the z-axis using the specified incrementation.
 
 ## Syntax
 
- _expression_ . **IncrementRotationZ**( **_Increment_** )
+ _expression_. 'IncrementRotationZ'( '_Increment_' )
 
  _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
 

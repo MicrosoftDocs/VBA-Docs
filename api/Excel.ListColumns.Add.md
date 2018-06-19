@@ -18,7 +18,7 @@ Adds a new column to the list object.
 
 ## Syntax
 
- _expression_ . **Add**( **_Position_** )
+ _expression_. 'Add'( '_Position_' )
 
  _expression_ A variable that represents a **ListColumns** object.
 

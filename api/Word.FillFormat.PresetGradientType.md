@@ -18,7 +18,7 @@ Returns the preset gradient type for the specified fill. Read-only  **MsoPresetG
 
 ## Syntax
 
- _expression_ . **PresetGradientType**
+ _expression_. 'PresetGradientType'
 
  _expression_ An expression that represents a **[FillFormat](Word.FillFormat.md)** object.
 

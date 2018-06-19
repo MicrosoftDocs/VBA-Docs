@@ -16,7 +16,7 @@ Hides specific members of the Analysis Lens user interface.
 
 ## Syntax
 
- _expression_ . **Hide**_(XlQuickAnalysisMode)_
+ _expression_. 'Hide'_(XlQuickAnalysisMode)_
 
  _expression_ A variable that represents a[QuickAnalysis](Excel.quickanalysis.md) object.
 

@@ -18,7 +18,7 @@ Returns the  **[OLEDBErrors](Excel.OLEDBErrors.md)** collection, which represent
 
 ## Syntax
 
- _expression_ . **OLEDBErrors**
+ _expression_. 'OLEDBErrors'
 
  _expression_ A variable that represents an **Application** object.
 

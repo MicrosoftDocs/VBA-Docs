@@ -18,7 +18,7 @@ When set to  **True** , this enables Microsoft Excel to process Korean compound 
 
 ## Syntax
 
- _expression_ . **KoreanProcessCompound**
+ _expression_. 'KoreanProcessCompound'
 
  _expression_ A variable that represents a **SpellingOptions** object.
 

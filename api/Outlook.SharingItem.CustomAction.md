@@ -15,7 +15,7 @@ Occurs when a custom action of an item (which is an instance of the parent objec
 
 ## Syntax
 
- _expression_ . **CustomAction**( **_Action_** , **_Response_** , **_Cancel_** )
+ _expression_. 'CustomAction'( '_Action_' , '_Response_' , '_Cancel_' )
 
  _expression_ An expression that returns a **SharingItem** object.
 

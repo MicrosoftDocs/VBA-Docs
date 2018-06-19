@@ -18,7 +18,7 @@ Returns the parent object of a hierarchical toolbar. Read-only.
 
 ## Syntax
 
- _expression_ . **ParentItem**
+ _expression_. 'ParentItem'
 
  _expression_ A variable that represents a **ToolbarItems** object.
 

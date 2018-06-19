@@ -21,7 +21,7 @@ Gets or sets the default horizontal callout position for members of the  **Graph
 
 ## Syntax
 
- _expression_ . **DataGraphicHorizontalPosition**
+ _expression_. 'DataGraphicHorizontalPosition'
 
  _expression_ An expression that returns a **Master** object.
 

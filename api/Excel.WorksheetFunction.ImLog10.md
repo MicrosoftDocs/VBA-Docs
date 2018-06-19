@@ -18,7 +18,7 @@ Returns the common logarithm (base 10) of a complex number in x + yi or x + yj t
 
 ## Syntax
 
- _expression_ . **ImLog10**( **_Arg1_** )
+ _expression_. 'ImLog10'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

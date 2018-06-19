@@ -18,7 +18,7 @@ Sets the specified fill to a pattern.
 
 ## Syntax
 
- _expression_ . **Patterned**( **_Pattern_** )
+ _expression_. 'Patterned'( '_Pattern_' )
 
  _expression_ Required. A variable that represents a **[FillFormat](Word.FillFormat.md)** object.
 

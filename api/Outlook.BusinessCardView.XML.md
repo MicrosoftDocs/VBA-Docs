@@ -18,7 +18,7 @@ Returns or sets a  **String** value that specifies the XML definition of the cur
 
 ## Syntax
 
- _expression_ . **XML**
+ _expression_. 'XML'
 
  _expression_ An expression that returns a **BusinessCardView** object.
 

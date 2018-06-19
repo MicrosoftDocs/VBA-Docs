@@ -18,7 +18,7 @@ Allows the user to specify the height of the formula bar in lines. Read/write  *
 
 ## Syntax
 
- _expression_ . **FormulaBarHeight**
+ _expression_. 'FormulaBarHeight'
 
  _expression_ A variable that represents an **Application** object.
 

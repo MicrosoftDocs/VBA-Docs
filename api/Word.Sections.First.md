@@ -18,7 +18,7 @@ Returns a  **[Section](Word.Section.md)** object that represents the first item 
 
 ## Syntax
 
- _expression_ . **First**
+ _expression_. 'First'
 
  _expression_ Required. A variable that represents a **[Sections](Word.sections.md)** collection.
 

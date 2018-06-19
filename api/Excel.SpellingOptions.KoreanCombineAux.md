@@ -18,7 +18,7 @@ When set to  **True** , Microsoft Excel combines Korean auxiliary verbs and adje
 
 ## Syntax
 
- _expression_ . **KoreanCombineAux**
+ _expression_. 'KoreanCombineAux'
 
  _expression_ A variable that represents a **SpellingOptions** object.
 

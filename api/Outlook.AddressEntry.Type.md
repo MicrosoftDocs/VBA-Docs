@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the type of entry for this address su
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents an **AddressEntry** object.
 

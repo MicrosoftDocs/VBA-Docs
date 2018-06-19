@@ -18,7 +18,7 @@ Returns a  **Boolean** value that is **true** if the **[SharingItem](Outlook.Sha
 
 ## Syntax
 
- _expression_ . **Saved**
+ _expression_. 'Saved'
 
  _expression_ A variable that represents a **SharingItem** object.
 

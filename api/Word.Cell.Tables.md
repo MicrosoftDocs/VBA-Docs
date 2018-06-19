@@ -18,7 +18,7 @@ Returns a  **[Tables](Word.tables.md)** collection that represents all the neste
 
 ## Syntax
 
- _expression_ . **Tables**
+ _expression_. 'Tables'
 
  _expression_ A variable that represents a **[Cell](Word.Cell.md)** object.
 

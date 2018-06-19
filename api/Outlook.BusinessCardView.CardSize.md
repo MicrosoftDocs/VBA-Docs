@@ -18,7 +18,7 @@ Returns or sets a  **Long** value that represents the size, as a percentage, of 
 
 ## Syntax
 
- _expression_ . **CardSize**
+ _expression_. 'CardSize'
 
  _expression_ An expression that returns a **BusinessCardView** object.
 

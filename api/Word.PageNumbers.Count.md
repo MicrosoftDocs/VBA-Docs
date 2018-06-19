@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of page numbers in the collection
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents a **[PageNumbers](Word.pagenumbers.md)** collection.
 

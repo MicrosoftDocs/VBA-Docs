@@ -18,7 +18,7 @@ Returns or sets whether the points on the horizontal axis are plotted in right-t
 
 ## Syntax
 
- _expression_ . **RightToLeftPlotOrder**
+ _expression_. 'RightToLeftPlotOrder'
 
  _expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets the text that represents the default text box contents. Read/wri
 
 ## Syntax
 
- _expression_ . **Default**
+ _expression_. 'Default'
 
  _expression_ Required. A variable that represents a **[TextInput](Word.TextInput.md)** object.
 

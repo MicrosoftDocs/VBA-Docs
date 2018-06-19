@@ -18,7 +18,7 @@ Returns or sets the shortest bar or longest bar threshold value for a data bar c
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents a **ConditionValue** object.
 

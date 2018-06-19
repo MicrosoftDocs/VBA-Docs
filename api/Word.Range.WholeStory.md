@@ -18,7 +18,7 @@ Expands a range to include the entire story.
 
 ## Syntax
 
- _expression_ . **WholeStory**
+ _expression_. 'WholeStory'
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

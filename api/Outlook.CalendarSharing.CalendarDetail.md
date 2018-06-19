@@ -18,7 +18,7 @@ Returns or sets an  **[OlCalendarDetail](Outlook.OlCalendarDetail.md)** value in
 
 ## Syntax
 
- _expression_ . **CalendarDetail**
+ _expression_. 'CalendarDetail'
 
  _expression_ An expression that returns a **CalendarSharing** object.
 

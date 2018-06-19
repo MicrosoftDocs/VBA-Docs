@@ -18,7 +18,7 @@ Returns the name of the data field used to determine the top or bottom items tha
 
 ## Syntax
 
- _expression_ . **AutoShowField**
+ _expression_. 'AutoShowField'
 
  _expression_ A variable that represents a **PivotField** object.
 

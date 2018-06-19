@@ -18,7 +18,7 @@ Creates a table of contents based on the specified document and puts it in a new
 
 ## Syntax
 
- _expression_ . **TOCInFrameset**
+ _expression_. 'TOCInFrameset'
 
  _expression_ Required. A variable that represents a **[Pane](Word.Pane.md)** object.
 

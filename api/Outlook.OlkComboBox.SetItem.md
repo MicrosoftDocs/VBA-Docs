@@ -18,7 +18,7 @@ Sets the item at the specified location in the list of the combo box to the spec
 
 ## Syntax
 
- _expression_ . **SetItem**( **_Index_** , **_Item_** )
+ _expression_. 'SetItem'( '_Index_' , '_Item_' )
 
  _expression_ A variable that represents an **OlkComboBox** object.
 

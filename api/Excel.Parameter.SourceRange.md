@@ -18,7 +18,7 @@ Returns a  **Range** object that represents the cell that contains the value of 
 
 ## Syntax
 
- _expression_ . **SourceRange**
+ _expression_. 'SourceRange'
 
  _expression_ A variable that represents a **Parameter** object.
 

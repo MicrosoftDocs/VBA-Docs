@@ -18,7 +18,7 @@ Returns a  **Range** object that represents a range of items in a workbook. Read
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **Ranges** object.
 

@@ -18,7 +18,7 @@ Performs a writeback operation for all edited cells in a PivotTable report based
 
 ## Syntax
 
- _expression_ . **AllocateChanges**
+ _expression_. 'AllocateChanges'
 
  _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

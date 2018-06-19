@@ -18,7 +18,7 @@ Specifies the left-to-right tab position of a merged anchored window. Read/write
 
 ## Syntax
 
- _expression_ . **MergePosition**
+ _expression_. 'MergePosition'
 
  _expression_ A variable that represents a **Window** object.
 

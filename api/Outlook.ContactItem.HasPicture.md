@@ -18,7 +18,7 @@ Returns a  **Boolean** value that is **True** if a **Contacts** item has a pictu
 
 ## Syntax
 
- _expression_ . **HasPicture**
+ _expression_. 'HasPicture'
 
  _expression_ A variable that represents a **ContactItem** object.
 

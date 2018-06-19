@@ -18,7 +18,7 @@ Determines whether the specified bookmark exists. Returns  **True** if the bookm
 
 ## Syntax
 
- _expression_ . **Exists**( **_Name_** )
+ _expression_. 'Exists'( '_Name_' )
 
  _expression_ A variable that represents a **[Bookmarks](Word.bookmarks.md)** object.
 

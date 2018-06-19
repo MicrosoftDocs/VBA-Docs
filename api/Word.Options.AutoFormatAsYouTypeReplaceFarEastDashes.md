@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **AutoFormatAsYouTypeReplaceFarEastDashes**
+ _expression_. 'AutoFormatAsYouTypeReplaceFarEastDashes'
 
  _expression_ Required. A variable that represents an **[Options](Word.Options.md)** collection.
 

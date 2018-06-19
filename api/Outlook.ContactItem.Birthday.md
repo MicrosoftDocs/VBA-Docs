@@ -18,7 +18,7 @@ Returns or sets a  **Date** indicating the birthday for the contact. Read/write.
 
 ## Syntax
 
- _expression_ . **Birthday**
+ _expression_. 'Birthday'
 
  _expression_ A variable that represents a **ContactItem** object.
 

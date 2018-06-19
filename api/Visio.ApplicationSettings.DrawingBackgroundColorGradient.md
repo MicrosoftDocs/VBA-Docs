@@ -18,7 +18,7 @@ Determines the background gradient color of the Microsoft Visio drawing window f
 
 ## Syntax
 
- _expression_ . **DrawingBackgroundColorGradient**
+ _expression_. 'DrawingBackgroundColorGradient'
 
  _expression_ A variable that represents an **ApplicationSettings** object.
 

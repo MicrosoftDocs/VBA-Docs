@@ -16,7 +16,7 @@ Determines if the connection should be refreshed when refresh all is executed.  
 
 ## Syntax
 
- _expression_ . **RefreshWithRefreshAll**
+ _expression_. 'RefreshWithRefreshAll'
 
  _expression_ A variable that represents a **WorkbookConnection** object.
 

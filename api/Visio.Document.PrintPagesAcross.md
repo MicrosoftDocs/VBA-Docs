@@ -18,7 +18,7 @@ Indicates the number of sheets of paper on which a drawing is printed horizontal
 
 ## Syntax
 
- _expression_ . **PrintPagesAcross**
+ _expression_. 'PrintPagesAcross'
 
  _expression_ A variable that represents a **Document** object.
 

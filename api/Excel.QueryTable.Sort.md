@@ -18,7 +18,7 @@ Returns the sort criteria for the query table range. Read-only.
 
 ## Syntax
 
- _expression_ . **Sort**
+ _expression_. 'Sort'
 
  _expression_ A variable that represents a **QueryTable** object.
 

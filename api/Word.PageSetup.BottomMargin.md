@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the bottom edge of the page and
 
 ## Syntax
 
- _expression_ . **BottomMargin**
+ _expression_. 'BottomMargin'
 
  _expression_ A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 

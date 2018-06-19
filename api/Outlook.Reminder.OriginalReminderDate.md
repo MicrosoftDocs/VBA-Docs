@@ -18,7 +18,7 @@ Returns a  **Date** that specifies the original date and time that the specified
 
 ## Syntax
 
- _expression_ . **OriginalReminderDate**
+ _expression_. 'OriginalReminderDate'
 
  _expression_ A variable that represents a **Reminder** object.
 

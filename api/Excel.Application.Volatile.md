@@ -18,7 +18,7 @@ Marks a user-defined function as volatile. A volatile function must be recalcula
 
 ## Syntax
 
- _expression_ . **Volatile**( **_Volatile_** )
+ _expression_. 'Volatile'( '_Volatile_' )
 
  _expression_ A variable that represents an **Application** object.
 

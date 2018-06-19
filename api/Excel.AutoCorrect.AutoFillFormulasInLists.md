@@ -18,7 +18,7 @@ Affects the creation of calculated columns created by automatic fill-down lists.
 
 ## Syntax
 
- _expression_ . **AutoFillFormulasInLists**
+ _expression_. 'AutoFillFormulasInLists'
 
  _expression_ A variable that represents an **AutoCorrect** object.
 

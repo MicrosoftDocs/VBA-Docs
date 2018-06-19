@@ -18,7 +18,7 @@ Saves the  **[StorageItem](Outlook.StorageItem.md)** .
 
 ## Syntax
 
- _expression_ . **Save**
+ _expression_. 'Save'
 
  _expression_ A variable that represents a **StorageItem** object.
 

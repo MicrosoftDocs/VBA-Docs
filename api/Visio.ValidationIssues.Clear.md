@@ -18,7 +18,7 @@ Removes all  **[ValidationIssue](Visio.ValidationIssue.md)** objects from the **
 
 ## Syntax
 
- _expression_ . **Clear**
+ _expression_. 'Clear'
 
  _expression_ A variable that represents a **ValidationIssues** object.
 

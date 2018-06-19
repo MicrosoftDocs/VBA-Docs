@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **OutlineNumbered**
+ _expression_. 'OutlineNumbered'
 
  _expression_ An expression that returns a **[ListTemplate](Word.ListTemplate.md)** object.
 

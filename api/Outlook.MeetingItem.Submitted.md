@@ -18,7 +18,7 @@ Returns a  **Boolean** value that is **True** if the item has been submitted. Re
 
 ## Syntax
 
- _expression_ . **Submitted**
+ _expression_. 'Submitted'
 
  _expression_ A variable that represents a **MeetingItem** object.
 

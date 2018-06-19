@@ -18,7 +18,7 @@ Selects all possible shapes in a window or selection.
 
 ## Syntax
 
- _expression_ . **SelectAll**
+ _expression_. 'SelectAll'
 
  _expression_ A variable that represents a **Selection** object.
 

@@ -16,7 +16,7 @@ Adds a chart to the document. Returns an [InlineShape](Word.InlineShape.md) obje
 
 ## Syntax
 
- _expression_ . **AddChart2**_(Style,_ _Type,_ _Range,_ _NewLayout)_
+ _expression_. 'AddChart2'_(Style,_ _Type,_ _Range,_ _NewLayout)_
 
  _expression_ A variable that represents a **InlineShapes** object.
 

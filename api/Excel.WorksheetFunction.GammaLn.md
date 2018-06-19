@@ -22,7 +22,7 @@ For more information about the new function, see the [GammaLn_Precise](Excel.Wor
 
 ## Syntax
 
- _expression_ . **GammaLn**( **_Arg1_** )
+ _expression_. 'GammaLn'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

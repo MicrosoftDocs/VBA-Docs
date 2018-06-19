@@ -18,7 +18,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 ## Syntax
 
- _expression_ . **Session**
+ _expression_. 'Session'
 
  _expression_ An expression that returns a **NavigationModule** object.
 

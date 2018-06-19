@@ -18,7 +18,7 @@ Extends the selection forward until text with a different paragraph alignment is
 
 ## Syntax
 
- _expression_ . **SelectCurrentAlignment**
+ _expression_. 'SelectCurrentAlignment'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

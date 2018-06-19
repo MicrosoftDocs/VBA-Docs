@@ -18,7 +18,7 @@ Creates an OLE object. Returns the  **InlineShape** object that represents the n
 
 ## Syntax
 
- _expression_ . **AddOLEObject**( **_ClassType_** , **_FileName_** , **_LinkToFile_** , **_DisplayAsIcon_** , **_IconFileName_** , **_IconIndex_** , **_IconLabel_** , **_Range_** )
+ _expression_. 'AddOLEObject'( '_ClassType_' , '_FileName_' , '_LinkToFile_' , '_DisplayAsIcon_' , '_IconFileName_' , '_IconIndex_' , '_IconLabel_' , '_Range_' )
 
  _expression_ Required. A variable that represents a **[Shapes](Word.shapes.md)** collection.
 

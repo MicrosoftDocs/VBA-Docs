@@ -18,7 +18,7 @@ Converts a dollar price expressed as a fraction into a dollar price expressed as
 
 ## Syntax
 
- _expression_ . **DollarDe**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'DollarDe'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

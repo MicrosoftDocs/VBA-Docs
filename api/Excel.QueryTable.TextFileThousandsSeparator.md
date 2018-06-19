@@ -18,7 +18,7 @@ Returns or sets the thousands separator character thatMicrosoft Excel uses when 
 
 ## Syntax
 
- _expression_ . **TextFileThousandsSeparator**
+ _expression_. 'TextFileThousandsSeparator'
 
  _expression_ A variable that represents a **QueryTable** object.
 

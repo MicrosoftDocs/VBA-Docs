@@ -18,7 +18,7 @@ Horizontally or vertically distributes the shapes in the specified range of shap
 
 ## Syntax
 
- _expression_ . **Distribute**( **_DistributeCmd_** , **_RelativeTo_** )
+ _expression_. 'Distribute'( '_DistributeCmd_' , '_RelativeTo_' )
 
  _expression_ A variable that represents a **ShapeRange** object.
 

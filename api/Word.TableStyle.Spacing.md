@@ -18,7 +18,7 @@ Returns or sets the spacing (in points) between the cells in a table style. Read
 
 ## Syntax
 
- _expression_ . **Spacing**
+ _expression_. 'Spacing'
 
  _expression_ Required. A variable that represents a **[TableStyle](Word.TableStyle.md)** object.
 

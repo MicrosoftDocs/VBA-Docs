@@ -18,7 +18,7 @@ Returns a  **COMAddIns** collection that represents all the Component Object Mod
 
 ## Syntax
 
- _expression_ . **COMAddIns**
+ _expression_. 'COMAddIns'
 
  _expression_ A variable that represents an **Application** object.
 

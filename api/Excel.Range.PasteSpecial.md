@@ -18,7 +18,7 @@ Pastes a  **[Range](Excel.Range(objec).md)** that has been copied into the speci
 
 ## Syntax
 
- _expression_ . **PasteSpecial**( **_Paste_** , **_Operation_** , **_SkipBlanks_** , **_Transpose_** )
+ _expression_. 'PasteSpecial'( '_Paste_' , '_Operation_' , '_SkipBlanks_' , '_Transpose_' )
 
  _expression_ A variable that represents a **Range** object.
 

@@ -18,7 +18,7 @@ Deletes an object from a collection.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ An expression that returns a **BusinessCardView** object.
 

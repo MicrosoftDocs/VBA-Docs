@@ -18,7 +18,7 @@ Returns a value that indicates the way the header source is being supplied for t
 
 ## Syntax
 
- _expression_ . **HeaderSourceType**
+ _expression_. 'HeaderSourceType'
 
  _expression_ Required. A variable that represents a **[MailMergeDataSource](Word.MailMergeDataSource.md)** object.
 

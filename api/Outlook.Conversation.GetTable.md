@@ -18,7 +18,7 @@ Returns a  **[Table](Outlook.Table.md)** object that contains rows that represen
 
 ## Syntax
 
- _expression_ . **GetTable**
+ _expression_. 'GetTable'
 
  _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 

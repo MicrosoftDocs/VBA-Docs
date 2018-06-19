@@ -18,7 +18,7 @@ Converts an octal number to binary.
 
 ## Syntax
 
- _expression_ . **Oct2Bin**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Oct2Bin'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

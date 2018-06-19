@@ -18,7 +18,7 @@ Returns or sets the author of the comment. Read-only  **String** .
 
 ## Syntax
 
- _expression_ . **Author**
+ _expression_. 'Author'
 
  _expression_ A variable that represents a **Comment** object.
 

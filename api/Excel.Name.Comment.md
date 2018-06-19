@@ -18,7 +18,7 @@ Returns or sets the comment associated with the name. Read/write  **String** .
 
 ## Syntax
 
- _expression_ . **Comment**
+ _expression_. 'Comment'
 
  _expression_ A variable that represents a **Name** object.
 

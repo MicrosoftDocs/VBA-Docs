@@ -16,7 +16,7 @@ Returns or sets the column format for the data in the text file that you're impo
 
 ## Syntax
 
- _expression_ . **TextFileParseType**
+ _expression_. 'TextFileParseType'
 
  _expression_ A variable that represents a[TextConnection](Excel.textconnection.md) object.
 

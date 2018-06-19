@@ -18,7 +18,7 @@ Sorts table rows in descending alphanumeric order.
 
 ## Syntax
 
- _expression_ . **SortDescending**
+ _expression_. 'SortDescending'
 
  _expression_ Required. A variable that represents a **[Table](Word.Table.md)** object.
 

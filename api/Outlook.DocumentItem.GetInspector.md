@@ -18,7 +18,7 @@ This object, member, or enumeration will be deprecated and is not intended to be
 
 ## Syntax
 
- _expression_ . **GetInspector**
+ _expression_. 'GetInspector'
 
  _expression_ A variable that represents a **DocumentItem** object.
 

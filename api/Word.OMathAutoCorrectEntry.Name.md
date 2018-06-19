@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the name of an equation auto corre
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ An expression that returns an **OMathAutoCorrectEntry** object.
 

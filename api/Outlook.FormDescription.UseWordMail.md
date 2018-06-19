@@ -18,7 +18,7 @@ Returns a  **Boolean** that indicates **True** to use Microsoft Office Word as t
 
 ## Syntax
 
- _expression_ . **UseWordMail**
+ _expression_. 'UseWordMail'
 
  _expression_ A variable that represents a **FormDescription** object.
 

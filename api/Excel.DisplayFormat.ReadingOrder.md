@@ -18,7 +18,7 @@ Returns the reading order of the associated  **[Range](Excel.Range(objec).md)** 
 
 ## Syntax
 
- _expression_ . **ReadingOrder**
+ _expression_. 'ReadingOrder'
 
  _expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
 

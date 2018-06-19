@@ -18,7 +18,7 @@ Returns a  **Section** object that represents a new section added to a document.
 
 ## Syntax
 
- _expression_ . **Add**( **_Range_** , **_Start_** )
+ _expression_. 'Add'( '_Range_' , '_Start_' )
 
  _expression_ Required. A variable that represents a **[Sections](Word.sections.md)** collection.
 

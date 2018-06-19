@@ -18,7 +18,7 @@ Allows Microsoft Word to break the specified table across pages. Read/write  **B
 
 ## Syntax
 
- _expression_ . **AllowPageBreaks**
+ _expression_. 'AllowPageBreaks'
 
  _expression_ Required. A variable that represents a **[TableStyle](Word.TableStyle.md)** object.
 

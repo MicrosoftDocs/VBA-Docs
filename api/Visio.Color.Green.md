@@ -18,7 +18,7 @@ Gets or sets the intensity of the green component of a  **Color** object. Read/w
 
 ## Syntax
 
- _expression_ . **Green**
+ _expression_. 'Green'
 
  _expression_ A variable that represents a **Color** object.
 

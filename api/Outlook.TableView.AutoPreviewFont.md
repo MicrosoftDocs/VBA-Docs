@@ -18,7 +18,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
 ## Syntax
 
- _expression_ . **AutoPreviewFont**
+ _expression_. 'AutoPreviewFont'
 
  _expression_ A variable that represents a **TableView** object.
 

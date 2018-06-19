@@ -18,7 +18,7 @@ Specifies if hidden cells are plotted in the sparkline group. Read/write.
 
 ## Syntax
 
- _expression_ . **DisplayHidden**
+ _expression_. 'DisplayHidden'
 
  _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 

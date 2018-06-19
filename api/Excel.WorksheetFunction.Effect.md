@@ -18,7 +18,7 @@ Returns the effective annual interest rate, given the nominal annual interest ra
 
 ## Syntax
 
- _expression_ . **Effect**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Effect'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

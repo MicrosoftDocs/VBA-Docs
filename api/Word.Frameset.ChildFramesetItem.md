@@ -18,7 +18,7 @@ Returns the  **Frameset** object that represents the child **Frameset** object s
 
 ## Syntax
 
- _expression_ . **ChildFramesetItem**( **_Index_** )
+ _expression_. 'ChildFramesetItem'( '_Index_' )
 
  _expression_ An expression that returns a **[Frameset](Word.Frameset.md)** object.
 

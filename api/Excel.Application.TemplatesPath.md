@@ -18,7 +18,7 @@ Returns the local path where templates are stored. Read-only  **String** .
 
 ## Syntax
 
- _expression_ . **TemplatesPath**
+ _expression_. 'TemplatesPath'
 
  _expression_ A variable that represents an **Application** object.
 

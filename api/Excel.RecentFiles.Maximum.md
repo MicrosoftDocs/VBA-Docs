@@ -18,7 +18,7 @@ Returns or sets the maximum number of files in the list of recently used files. 
 
 ## Syntax
 
- _expression_ . **Maximum**
+ _expression_. 'Maximum'
 
  _expression_ A variable that represents a **RecentFiles** object.
 

@@ -18,7 +18,7 @@ Moves the current row to the next row in the  **[Table](Outlook.Table.md)** and 
 
 ## Syntax
 
- _expression_ . **GetNextRow**
+ _expression_. 'GetNextRow'
 
  _expression_ A variable that represents a **Table** object.
 

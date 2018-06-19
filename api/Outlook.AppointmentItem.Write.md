@@ -15,7 +15,7 @@ Occurs when an instance of the parent object is saved, either explicitly (for ex
 
 ## Syntax
 
- _expression_ . **Write**( **_Cancel_** )
+ _expression_. 'Write'( '_Cancel_' )
 
  _expression_ A variable that represents an **AppointmentItem** object.
 

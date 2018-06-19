@@ -18,7 +18,7 @@ Returns a  **[SoftEdgeFormat](http://msdn.microsoft.com/library/9d9b34e1-03b5-9e
 
 ## Syntax
 
- _expression_ . **SoftEdge**
+ _expression_. 'SoftEdge'
 
  _expression_ A variable that represents a **ChartFormat** object.
 

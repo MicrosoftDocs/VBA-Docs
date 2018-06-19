@@ -18,7 +18,7 @@ Returns whether the horizontal axis of the sparkline is based on date values. Re
 
 ## Syntax
 
- _expression_ . **IsDateAxis**
+ _expression_. 'IsDateAxis'
 
  _expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object.
 

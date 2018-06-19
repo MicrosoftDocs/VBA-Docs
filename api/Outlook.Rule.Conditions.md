@@ -18,7 +18,7 @@ Returns a  **[RuleConditions](Outlook.RuleConditions.md)** collection object tha
 
 ## Syntax
 
- _expression_ . **Conditions**
+ _expression_. 'Conditions'
 
  _expression_ A variable that represents a **Rule** object.
 

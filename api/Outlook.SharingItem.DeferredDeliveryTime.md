@@ -18,7 +18,7 @@ Returns or sets a  **Date** indicating the date and time the **[SharingItem](Out
 
 ## Syntax
 
- _expression_ . **DeferredDeliveryTime**
+ _expression_. 'DeferredDeliveryTime'
 
  _expression_ A variable that represents a **SharingItem** object.
 

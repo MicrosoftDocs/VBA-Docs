@@ -18,7 +18,7 @@ Returns a  **DateTime** value specifying the date and time that the Outlook item
 
 ## Syntax
 
- _expression_ . **LastModificationTime**
+ _expression_. 'LastModificationTime'
 
  _expression_ A variable that represents a **StorageItem** object.
 

@@ -18,7 +18,7 @@ Moves a style sheet's order of precedence.
 
 ## Syntax
 
- _expression_ . **Move**( **_Precedence_** )
+ _expression_. 'Move'( '_Precedence_' )
 
  _expression_ Required. A variable that represents a **[StyleSheet](Word.StyleSheet.md)** object.
 

@@ -18,7 +18,7 @@ Returns a  **[Dialogs](Excel.Dialogs.md)** collection that represents all built-
 
 ## Syntax
 
- _expression_ . **Dialogs**
+ _expression_. 'Dialogs'
 
  _expression_ A variable that represents an **Application** object.
 

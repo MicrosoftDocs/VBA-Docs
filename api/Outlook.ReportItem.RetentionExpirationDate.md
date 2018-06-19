@@ -18,7 +18,7 @@ Returns a  **Date** that specifies the date when the **[ReportItem](Outlook.Repo
 
 ## Syntax
 
- _expression_ . **RetentionExpirationDate**
+ _expression_. 'RetentionExpirationDate'
 
  _expression_ A variable that represents a **ReportItem** object.
 

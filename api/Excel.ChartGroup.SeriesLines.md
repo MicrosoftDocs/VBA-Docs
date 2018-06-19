@@ -18,7 +18,7 @@ Returns a  **[SeriesLines](Excel.SeriesLines(objec).md)** object that represents
 
 ## Syntax
 
- _expression_ . **SeriesLines**
+ _expression_. 'SeriesLines'
 
  _expression_ A variable that represents a **ChartGroup** object.
 

@@ -18,7 +18,7 @@ Returns a  **[ContactItem](Outlook.ContactItem.md)** object that represents the 
 
 ## Syntax
 
- _expression_ . **GetContact**
+ _expression_. 'GetContact'
 
  _expression_ A variable that represents an **AddressEntry** object.
 

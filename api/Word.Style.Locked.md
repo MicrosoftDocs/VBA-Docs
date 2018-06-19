@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **Locked**
+ _expression_. 'Locked'
 
  _expression_ An expression that represents a **[Style](Word.Style.md)** object.
 

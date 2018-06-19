@@ -18,7 +18,7 @@ Returns or sets the amount that the scroll bar or spinner is incremented or decr
 
 ## Syntax
 
- _expression_ . **SmallChange**
+ _expression_. 'SmallChange'
 
  _expression_ A variable that represents a **ControlFormat** object.
 

@@ -18,7 +18,7 @@ Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , 
 
 ## Syntax
 
- _expression_ . **Shape**
+ _expression_. 'Shape'
 
  _expression_ A variable that represents a **Cell** object.
 

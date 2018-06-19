@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether to hide the opening delim
 
 ## Syntax
 
- _expression_ . **NoLeftChar**
+ _expression_. 'NoLeftChar'
 
  _expression_ An expression that returns an **[OMathDelim](Word.OMathDelim.md)** object.
 

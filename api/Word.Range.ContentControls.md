@@ -18,7 +18,7 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 
 ## Syntax
 
- _expression_ . **ContentControls**
+ _expression_. 'ContentControls'
 
  _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 

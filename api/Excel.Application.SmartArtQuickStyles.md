@@ -18,7 +18,7 @@ Returns the set of SmartArt quick styles which are currently loaded in the appli
 
 ## Syntax
 
- _expression_ . **SmartArtQuickStyles**
+ _expression_. 'SmartArtQuickStyles'
 
  _expression_ A variable that represents an **[Application](Excel.Application(objec).md)** object.
 

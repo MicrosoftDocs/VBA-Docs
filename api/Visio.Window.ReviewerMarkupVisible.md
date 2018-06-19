@@ -18,7 +18,7 @@ Determines whether reviewer markup, for a particular reviewer or all reviewers, 
 
 ## Syntax
 
- _expression_ . **ReviewerMarkupVisible**( **_ReviewerID_** )
+ _expression_. 'ReviewerMarkupVisible'( '_ReviewerID_' )
 
  _expression_ A variable that represents a **Window** object.
 

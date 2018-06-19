@@ -18,7 +18,7 @@ Cancels a mode such as extend or column select (equivalent to pressing the ESC k
 
 ## Syntax
 
- _expression_ . **EscapeKey**
+ _expression_. 'EscapeKey'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

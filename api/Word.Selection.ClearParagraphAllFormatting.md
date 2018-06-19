@@ -18,7 +18,7 @@ Removes all paragraph formatting (formatting applied either through paragraph st
 
 ## Syntax
 
- _expression_ . **ClearParagraphAllFormatting**
+ _expression_. 'ClearParagraphAllFormatting'
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

@@ -18,7 +18,7 @@ Saves a copy of the item or items in the spreadsheet that have been added to the
 
 ## Syntax
 
- _expression_ . **Publish**
+ _expression_. 'Publish'
 
  _expression_ A variable that represents a **PublishObjects** object.
 

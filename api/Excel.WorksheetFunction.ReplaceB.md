@@ -18,7 +18,7 @@ REPLACEB replaces part of a text string, based on the number of bytes you specif
 
 ## Syntax
 
- _expression_ . **ReplaceB**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
+ _expression_. 'ReplaceB'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

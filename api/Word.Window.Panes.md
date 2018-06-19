@@ -18,7 +18,7 @@ Returns a  **[Panes](Word.panes.md)** collection that represents all the window 
 
 ## Syntax
 
- _expression_ . **Panes**
+ _expression_. 'Panes'
 
  _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 

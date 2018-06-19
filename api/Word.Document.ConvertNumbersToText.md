@@ -18,7 +18,7 @@ Changes the list numbers and LISTNUM fields in the specified Document to text. .
 
 ## Syntax
 
- _expression_ . **ConvertNumbersToText**
+ _expression_. 'ConvertNumbersToText'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

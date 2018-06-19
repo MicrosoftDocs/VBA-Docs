@@ -18,7 +18,7 @@ Returns or sets a  **String** that indicates the Address Book name for the **[Fo
 
 ## Syntax
 
- _expression_ . **AddressBookName**
+ _expression_. 'AddressBookName'
 
  _expression_ A variable that represents a **Folder** object.
 

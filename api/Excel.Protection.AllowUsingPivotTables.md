@@ -18,7 +18,7 @@ Returns  **True** if the user is allowed to manipulate pivot tables on a protect
 
 ## Syntax
 
- _expression_ . **AllowUsingPivotTables**
+ _expression_. 'AllowUsingPivotTables'
 
  _expression_ A variable that represents a **Protection** object.
 

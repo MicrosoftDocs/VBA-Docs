@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that indicates whether a sharing invitation
 
 ## Syntax
 
- _expression_ . **AllowWriteAccess**
+ _expression_. 'AllowWriteAccess'
 
  _expression_ An expression that returns a **SharingItem** object.
 

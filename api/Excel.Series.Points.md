@@ -18,7 +18,7 @@ Returns an object that represents a single point (a  **[Point](Excel.Point(objec
 
 ## Syntax
 
- _expression_ . **Points**( **_Index_** )
+ _expression_. 'Points'( '_Index_' )
 
  _expression_ An expression that returns a **Series** object.
 

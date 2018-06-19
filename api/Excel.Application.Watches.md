@@ -18,7 +18,7 @@ Returns a  **[Watches](Excel.Watches.md)** object representing a range which is 
 
 ## Syntax
 
- _expression_ . **Watches**
+ _expression_. 'Watches'
 
  _expression_ A variable that represents an **Application** object.
 

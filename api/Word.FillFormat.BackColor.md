@@ -18,7 +18,7 @@ Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents
 
 ## Syntax
 
- _expression_ . **BackColor**
+ _expression_. 'BackColor'
 
  _expression_ A variable that represents a **[FillFormat](Word.FillFormat.md)** object.
 

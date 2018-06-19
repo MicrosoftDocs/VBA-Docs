@@ -18,7 +18,7 @@ Returns the name of the SolutionXML element. Read-only.
 
 ## Syntax
 
- _expression_ . **SolutionXMLElementName**( **_Index_** )
+ _expression_. 'SolutionXMLElementName'( '_Index_' )
 
  _expression_ A variable that represents a **Document** object.
 

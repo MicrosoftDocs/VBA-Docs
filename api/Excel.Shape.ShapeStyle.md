@@ -18,7 +18,7 @@ Returns or sets an  **[MsoShapeStyleIndex](http://msdn.microsoft.com/library/61f
 
 ## Syntax
 
- _expression_ . **ShapeStyle**
+ _expression_. 'ShapeStyle'
 
  _expression_ A variable that represents a **Shape** object.
 

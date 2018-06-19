@@ -18,7 +18,7 @@ Sets the specified fill to a one-color gradient.
 
 ## Syntax
 
- _expression_ . **OneColorGradient**( **_Style_** , **_Variant_** , **_Degree_** )
+ _expression_. 'OneColorGradient'( '_Style_' , '_Variant_' , '_Degree_' )
 
  _expression_ A variable that represents a **FillFormat** object.
 

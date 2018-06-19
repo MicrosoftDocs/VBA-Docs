@@ -18,7 +18,7 @@ Resets all page breaks on the specified worksheet.
 
 ## Syntax
 
- _expression_ . **ResetAllPageBreaks**
+ _expression_. 'ResetAllPageBreaks'
 
  _expression_ A variable that represents a **Worksheet** object.
 

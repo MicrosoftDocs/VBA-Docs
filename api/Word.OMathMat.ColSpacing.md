@@ -18,7 +18,7 @@ Returns or sets a  **Long** that represents the spacing for columns in a matrix.
 
 ## Syntax
 
- _expression_ . **ColSpacing**
+ _expression_. 'ColSpacing'
 
  _expression_ An expression that returns an **[OMathMat](Word.OMathMat.md)** object.
 

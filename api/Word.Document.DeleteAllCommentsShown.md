@@ -18,7 +18,7 @@ Deletes all revisions in a specified document that are displayed on the screen.
 
 ## Syntax
 
- _expression_ . **DeleteAllCommentsShown**
+ _expression_. 'DeleteAllCommentsShown'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

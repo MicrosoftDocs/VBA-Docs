@@ -16,7 +16,7 @@ Occurs after a callout gallery?s icons (dynamic &; static) have finished renderi
 
 ## Syntax
 
- _expression_ . **SheetLensGalleryRenderComplete**_(Sh)_
+ _expression_. 'SheetLensGalleryRenderComplete'_(Sh)_
 
  _expression_ A variable that represents a **Application** object.
 

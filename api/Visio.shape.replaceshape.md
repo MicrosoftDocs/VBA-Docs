@@ -13,7 +13,7 @@ Replaces the specified shape with an instance of the master passed as the first 
 
 ## Syntax
 
- _expression_ . **ReplaceShape**_(MasterOrMasterShortcutToDrop,_ _ReplaceFlags)_
+ _expression_. 'ReplaceShape'_(MasterOrMasterShortcutToDrop,_ _ReplaceFlags)_
 
  _expression_ A variable that represents a **Shape** object.
 

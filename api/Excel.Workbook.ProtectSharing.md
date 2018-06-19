@@ -18,7 +18,7 @@ Saves the workbook and protects it for sharing.
 
 ## Syntax
 
- _expression_ . **ProtectSharing**( **_Filename_** , **_Password_** , **_WriteResPassword_** , **_ReadOnlyRecommended_** , **_CreateBackup_** , **_SharingPassword_** , **_FileFormat_** )
+ _expression_. 'ProtectSharing'( '_Filename_' , '_Password_' , '_WriteResPassword_' , '_ReadOnlyRecommended_' , '_CreateBackup_' , '_SharingPassword_' , '_FileFormat_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

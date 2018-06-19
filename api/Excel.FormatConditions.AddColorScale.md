@@ -18,7 +18,7 @@ Returns a new  **[ColorScale](Excel.ColorScale.md)** object representing a condi
 
 ## Syntax
 
- _expression_ . **AddColorScale**( **_ColorScaleType_** )
+ _expression_. 'AddColorScale'( '_ColorScaleType_' )
 
  _expression_ A variable that represents a **FormatConditions** object.
 

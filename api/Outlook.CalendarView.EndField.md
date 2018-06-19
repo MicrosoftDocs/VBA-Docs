@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the name of the property tha
 
 ## Syntax
 
- _expression_ . **EndField**
+ _expression_. 'EndField'
 
  _expression_ A variable that represents a **CalendarView** object.
 

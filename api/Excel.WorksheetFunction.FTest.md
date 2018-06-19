@@ -22,7 +22,7 @@ For more information about the new function, see the [F_Test](Excel.WorksheetFun
 
 ## Syntax
 
- _expression_ . **FTest**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'FTest'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

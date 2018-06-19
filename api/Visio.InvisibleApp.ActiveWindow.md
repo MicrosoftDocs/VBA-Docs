@@ -18,7 +18,7 @@ Returns the active  **Window** object. Read-only.
 
 ## Syntax
 
- _expression_ . **ActiveWindow**)
+ _expression_. 'ActiveWindow')
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

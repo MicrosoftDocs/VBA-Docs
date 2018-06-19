@@ -18,7 +18,7 @@ Moves the selection to the previous subdocument.
 
 ## Syntax
 
- _expression_ . **PreviousSubdocument**
+ _expression_. 'PreviousSubdocument'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

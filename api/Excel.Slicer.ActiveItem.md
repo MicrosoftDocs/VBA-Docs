@@ -18,7 +18,7 @@ Returns a  **[SlicerItem](Excel.SlicerItem.md)** object that represents the slic
 
 ## Syntax
 
- _expression_ . **ActiveItem**
+ _expression_. 'ActiveItem'
 
  _expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
 

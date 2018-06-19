@@ -18,7 +18,7 @@ Selects all the shapes in a document that were inserted or edited by a single us
 
 ## Syntax
 
- _expression_ . **SelectAll**
+ _expression_. 'SelectAll'
 
  _expression_ Required. A variable that represents an **[Editor](Word.Editor.md)** object.
 

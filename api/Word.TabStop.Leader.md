@@ -18,7 +18,7 @@ Returns or sets the leader for the specified  **TabStop** object. Read/write **W
 
 ## Syntax
 
- _expression_ . **Leader**
+ _expression_. 'Leader'
 
  _expression_ Required. A variable that represents a **[TabStop](Word.TabStop.md)** object.
 

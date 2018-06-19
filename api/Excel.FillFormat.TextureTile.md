@@ -15,7 +15,7 @@ Returns the texture tile style for the specified fill. Read/write  **[MsoTriStat
 
 ## Syntax
 
- _expression_ . **TextureTile**
+ _expression_. 'TextureTile'
 
  _expression_ A variable that represents a **FillFormat** object.
 

@@ -16,7 +16,7 @@ Returns a collection of OLAP Action name objects which will represent OLAP-defin
 
 ## Syntax
 
- _expression_ . **ServerActions**
+ _expression_. 'ServerActions'
 
  _expression_ A variable that represents a[PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
 

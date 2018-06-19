@@ -21,7 +21,7 @@ Gets the unique identifier of the  **DataRecordset** object assigned by Visio. R
 
 ## Syntax
 
- _expression_ . **ID**
+ _expression_. 'ID'
 
  _expression_ A variable that represents a **DataRecordset** object.
 

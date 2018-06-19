@@ -18,7 +18,7 @@ Returns or sets the name of the standard font. Read/write  **String** .
 
 ## Syntax
 
- _expression_ . **StandardFont**
+ _expression_. 'StandardFont'
 
  _expression_ A variable that represents an **Application** object.
 

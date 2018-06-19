@@ -18,7 +18,7 @@ Indicates whether the shape is a callout shape. Read-only.
 
 ## Syntax
 
- _expression_ . **IsCallout**
+ _expression_. 'IsCallout'
 
  _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

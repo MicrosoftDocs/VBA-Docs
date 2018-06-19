@@ -18,7 +18,7 @@ Returns a  **String** indicating the type of the specified object. Read-only.
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents a **NameSpace** object.
 

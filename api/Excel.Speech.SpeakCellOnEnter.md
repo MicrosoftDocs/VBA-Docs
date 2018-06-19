@@ -18,7 +18,7 @@ Microsoft Excel supports a mode where the active cell will be spoken when the EN
 
 ## Syntax
 
- _expression_ . **SpeakCellOnEnter**
+ _expression_. 'SpeakCellOnEnter'
 
  _expression_ A variable that represents a **Speech** object.
 

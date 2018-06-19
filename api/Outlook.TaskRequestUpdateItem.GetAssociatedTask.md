@@ -18,7 +18,7 @@ Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the reques
 
 ## Syntax
 
- _expression_ . **GetAssociatedTask**( **_AddToTaskList_** )
+ _expression_. 'GetAssociatedTask'( '_AddToTaskList_' )
 
  _expression_ A variable that represents a **TaskRequestUpdateItem** object.
 

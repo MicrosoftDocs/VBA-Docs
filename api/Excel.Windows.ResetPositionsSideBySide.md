@@ -18,7 +18,7 @@ Resets the position of two worksheet windows that are being compared side by sid
 
 ## Syntax
 
- _expression_ . **ResetPositionsSideBySide**
+ _expression_. 'ResetPositionsSideBySide'
 
  _expression_ A variable that represents a **Windows** object.
 

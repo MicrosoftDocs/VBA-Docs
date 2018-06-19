@@ -18,7 +18,7 @@ Returns the modified Bessel function, which is equivalent to the Bessel function
 
 ## Syntax
 
- _expression_ . **BesselK**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'BesselK'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

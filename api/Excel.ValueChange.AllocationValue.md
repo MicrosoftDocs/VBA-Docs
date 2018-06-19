@@ -18,7 +18,7 @@ Returns what value to allocate when performing what-if analysis. Read-only
 
 ## Syntax
 
- _expression_ . **AllocationValue**
+ _expression_. 'AllocationValue'
 
  _expression_ A variable that represents a **[ValueChange](Excel.ValueChange.md)** object.
 

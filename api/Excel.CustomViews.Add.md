@@ -18,7 +18,7 @@ Creates a new custom view.
 
 ## Syntax
 
- _expression_ . **Add**( **_ViewName_** , **_PrintSettings_** , **_RowColSettings_** )
+ _expression_. 'Add'( '_ViewName_' , '_PrintSettings_' , '_RowColSettings_' )
 
  _expression_ A variable that represents a **CustomViews** object.
 

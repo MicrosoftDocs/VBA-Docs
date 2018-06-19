@@ -18,7 +18,7 @@ Returns the number 3.14159265358979, the mathematical constant pi, accurate to 1
 
 ## Syntax
 
- _expression_ . **Pi**
+ _expression_. 'Pi'
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

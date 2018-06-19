@@ -16,7 +16,7 @@ Returns the arccotangent of a number, in radians in the range 0 to Pi.
 
 ## Syntax
 
- _expression_ . **Acot**_(Arg1)_
+ _expression_. 'Acot'_(Arg1)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

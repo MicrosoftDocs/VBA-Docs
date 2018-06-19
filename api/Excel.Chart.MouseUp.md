@@ -18,7 +18,7 @@ Occurs when a mouse button is released while the pointer is over a chart.
 
 ## Syntax
 
- _expression_ . **MouseUp**( **_Button_** , **_Shift_** , **_x_** , **_y_** )
+ _expression_. 'MouseUp'( '_Button_' , '_Shift_' , '_x_' , '_y_' )
 
  _expression_ A variable that represents a **Chart** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether the box acts as the mathe
 
 ## Syntax
 
- _expression_ . **Diff**
+ _expression_. 'Diff'
 
  _expression_ An expression that returns an **[OMathBox](Word.OMathBox.md)** object.
 

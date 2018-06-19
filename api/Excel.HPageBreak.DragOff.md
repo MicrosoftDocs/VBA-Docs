@@ -18,7 +18,7 @@ Drags a page break out of the print area.
 
 ## Syntax
 
- _expression_ . **DragOff**( **_Direction_** , **_RegionIndex_** )
+ _expression_. 'DragOff'( '_Direction_' , '_RegionIndex_' )
 
  _expression_ A variable that represents a **HPageBreak** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **[XlVAlign](Excel.XlVAlign.md)** value that represents the v
 
 ## Syntax
 
- _expression_ . **VerticalAlignment**
+ _expression_. 'VerticalAlignment'
 
  _expression_ A variable that represents a **TextFrame** object.
 

@@ -18,7 +18,7 @@ Occurs when Microsoft Outlook begins synchronizing a user's folders using the sp
 
 ## Syntax
 
- _expression_ . **SyncStart**
+ _expression_. 'SyncStart'
 
  _expression_ A variable that represents a **SyncObject** object.
 

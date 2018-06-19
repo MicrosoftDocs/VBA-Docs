@@ -18,7 +18,7 @@ Returns information about the specified selection. Read-only  **Variant** .
 
 ## Syntax
 
- _expression_ . **Information**( **_Type_** )
+ _expression_. 'Information'( '_Type_' )
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

@@ -18,7 +18,7 @@ Returns an array of object types and a  **True** or **False** value indicating h
 
 ## Syntax
 
- _expression_ . **GetFilterObjects**
+ _expression_. 'GetFilterObjects'
 
  _expression_ A variable that represents an **Event** object.
 

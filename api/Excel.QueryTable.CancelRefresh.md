@@ -18,7 +18,7 @@ Cancels all background queries for the specified query table. Use the  **[Refres
 
 ## Syntax
 
- _expression_ . **CancelRefresh**
+ _expression_. 'CancelRefresh'
 
  _expression_ A variable that represents a **QueryTable** object.
 

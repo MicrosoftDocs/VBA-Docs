@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **StrictFinalYaa**
+ _expression_. 'StrictFinalYaa'
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

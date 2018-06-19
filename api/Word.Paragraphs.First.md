@@ -18,7 +18,7 @@ Returns a  **[Paragraph](Word.Paragraph.md)** object that represents the first i
 
 ## Syntax
 
- _expression_ . **First**
+ _expression_. 'First'
 
  _expression_ Required. A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
 

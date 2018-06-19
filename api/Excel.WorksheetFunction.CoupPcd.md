@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **CoupPcd**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
+ _expression_. 'CoupPcd'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

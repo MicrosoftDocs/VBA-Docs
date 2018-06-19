@@ -18,7 +18,7 @@ Returns a  **Document** object that represents a new blog document that Microsof
 
 ## Syntax
 
- _expression_ . **AddBlogDocument**( **_ProviderID_** , **_PostURL_** , **_BlogName_** , **_PostID_** )
+ _expression_. 'AddBlogDocument'( '_ProviderID_' , '_PostURL_' , '_BlogName_' , '_PostID_' )
 
  _expression_ An expression that returns a **[Documents](Word.documents.md)** object.
 

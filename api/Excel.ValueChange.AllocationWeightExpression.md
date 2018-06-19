@@ -18,7 +18,7 @@ Returns the MDX weight expression to use for this value when performing what-if 
 
 ## Syntax
 
- _expression_ . **AllocationWeightExpression**
+ _expression_. 'AllocationWeightExpression'
 
  _expression_ A variable that represents a **[ValueChange](Excel.ValueChange.md)** object.
 

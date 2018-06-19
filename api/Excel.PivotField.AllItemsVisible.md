@@ -18,7 +18,7 @@ Used to retrieve a Boolean value that indicates whether or not any manual filter
 
 ## Syntax
 
- _expression_ . **AllItemsVisible**
+ _expression_. 'AllItemsVisible'
 
  _expression_ A variable that represents a **PivotField** object.
 

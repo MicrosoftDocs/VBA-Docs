@@ -18,7 +18,7 @@ Returns a  **[FormatConditions](Excel.FormatConditions.md)** collection that rep
 
 ## Syntax
 
- _expression_ . **FormatConditions**
+ _expression_. 'FormatConditions'
 
  _expression_ A variable that represents a **Range** object.
 

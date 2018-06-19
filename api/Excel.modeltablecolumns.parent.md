@@ -16,7 +16,7 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. 'Parent'
 
  _expression_ A variable that represents a[ModelTableColumns Object (Excel)](modeltablecolumns-object-excel.md) object.
 

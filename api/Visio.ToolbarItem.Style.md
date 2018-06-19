@@ -18,7 +18,7 @@ Determines whether a toolbar button shows an icon, a caption, or some combinatio
 
 ## Syntax
 
- _expression_ . **Style**
+ _expression_. 'Style'
 
  _expression_ A variable that represents a **ToolbarItem** object.
 

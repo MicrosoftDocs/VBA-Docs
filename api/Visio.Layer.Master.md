@@ -18,7 +18,7 @@ Returns the master that contains the  **Layer** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Master**
+ _expression_. 'Master'
 
  _expression_ A variable that represents a **Layer** object.
 

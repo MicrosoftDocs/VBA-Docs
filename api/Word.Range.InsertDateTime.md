@@ -18,7 +18,7 @@ Inserts the current date or time, or both, either as text or as a TIME field.
 
 ## Syntax
 
- _expression_ . **InsertDateTime**( **_DateTimeFormat_** , **_InsertAsField_** , **_InsertAsFullWidth_** , **_DateLanguage_** , **_CalendarType_** )
+ _expression_. 'InsertDateTime'( '_DateTimeFormat_' , '_InsertAsField_' , '_InsertAsFullWidth_' , '_DateLanguage_' , '_CalendarType_' )
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

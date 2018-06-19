@@ -18,7 +18,7 @@ Returns an  **[ODBCErrors](Excel.Application.ODBCErrors.md)** collection that co
 
 ## Syntax
 
- _expression_ . **ODBCErrors**
+ _expression_. 'ODBCErrors'
 
  _expression_ A variable that represents an **Application** object.
 

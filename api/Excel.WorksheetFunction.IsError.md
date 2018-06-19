@@ -18,7 +18,7 @@ Checks the type of value and returns TRUE or FALSE depending if the value refers
 
 ## Syntax
 
- _expression_ . **IsError**( **_Arg1_** )
+ _expression_. 'IsError'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

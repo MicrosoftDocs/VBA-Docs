@@ -18,7 +18,7 @@ Returns or sets an  **[OlPictureAlignment](Outlook.OlPictureAlignment.md)** cons
 
 ## Syntax
 
- _expression_ . **PictureAlignment**
+ _expression_. 'PictureAlignment'
 
  _expression_ A variable that represents an **OlkCommandButton** object.
 

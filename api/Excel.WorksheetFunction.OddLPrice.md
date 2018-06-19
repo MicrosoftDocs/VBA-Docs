@@ -18,7 +18,7 @@ Returns the price per $100 face value of a security having an odd (short or long
 
 ## Syntax
 
- _expression_ . **OddLPrice**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** , **_Arg5_** , **_Arg6_** , **_Arg7_** , **_Arg8_** )
+ _expression_. 'OddLPrice'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' , '_Arg5_' , '_Arg6_' , '_Arg7_' , '_Arg8_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

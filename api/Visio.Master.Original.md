@@ -18,7 +18,7 @@ Returns the original master that produced this open master. Read-only.
 
 ## Syntax
 
- _expression_ . **Original**
+ _expression_. 'Original'
 
  _expression_ A variable that represents a **Master** object.
 

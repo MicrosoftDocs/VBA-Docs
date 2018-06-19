@@ -15,7 +15,7 @@ Returns or sets the bottom depth when using the bevel effect on a  **ThreeDForma
 
 ## Syntax
 
- _expression_ . **BevelBottomDepth**
+ _expression_. 'BevelBottomDepth'
 
  _expression_ A variable that represents a **ThreeDFormat** object.
 

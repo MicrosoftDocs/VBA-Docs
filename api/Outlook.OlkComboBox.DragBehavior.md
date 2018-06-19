@@ -18,7 +18,7 @@ Returns or sets an  **[OlDragBehavior Enumeration](Outlook.OlDragBehavior.md)** 
 
 ## Syntax
 
- _expression_ . **DragBehavior**
+ _expression_. 'DragBehavior'
 
  _expression_ A variable that represents an **OlkComboBox** object.
 

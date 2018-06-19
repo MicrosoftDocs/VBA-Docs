@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word uses math 
 
 ## Syntax
 
- _expression_ . **UseOutsideOMath**
+ _expression_. 'UseOutsideOMath'
 
  _expression_ An expression that returns an **[OMathAutoCorrect](Word.OMathAutoCorrect.md)** object.
 

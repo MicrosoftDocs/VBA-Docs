@@ -21,7 +21,7 @@ Returns the  **[DataColumns](Visio.DataColumns.md)** collection associated with 
 
 ## Syntax
 
- _expression_ . **DataColumns**
+ _expression_. 'DataColumns'
 
  _expression_ An expression that returns a **DataRecordset** object.
 

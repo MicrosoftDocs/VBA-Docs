@@ -18,7 +18,7 @@ Determines whether a drawing window contains an ActiveX control that has focus o
 
 ## Syntax
 
- _expression_ . **IsEditingOLE**
+ _expression_. 'IsEditingOLE'
 
  _expression_ A variable that represents a **Window** object.
 

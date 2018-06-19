@@ -18,7 +18,7 @@ Returns a [SmartArtQuickStyles](http://msdn.microsoft.com/library/d488ac12-160b-
 
 ## Syntax
 
- _expression_ . **SmartArtQuickStyles**
+ _expression_. 'SmartArtQuickStyles'
 
  _expression_ An expression that returns a **[Application](Word.Application.md)** object.
 

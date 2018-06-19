@@ -16,7 +16,7 @@ Returns the number of combinations with repetitions for a given number of items.
 
 ## Syntax
 
- _expression_ . **Combina**_(Arg1,_ _Arg2)_
+ _expression_. 'Combina'_(Arg1,_ _Arg2)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

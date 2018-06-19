@@ -18,7 +18,7 @@ Adds a NEXT field to a mail merge main document. Returns a  **MailMergeField** o
 
 ## Syntax
 
- _expression_ . **AddNext**( **_Range_** )
+ _expression_. 'AddNext'( '_Range_' )
 
  _expression_ Required. A variable that represents a **[MailMergeFields](Word.mailmergefields.md)** collection.
 

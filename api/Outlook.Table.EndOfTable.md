@@ -18,7 +18,7 @@ Returns a  **Boolean** that indicates whether the current row is positioned afte
 
 ## Syntax
 
- _expression_ . **EndOfTable**
+ _expression_. 'EndOfTable'
 
  _expression_ A variable that represents a **Table** object.
 

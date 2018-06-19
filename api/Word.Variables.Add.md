@@ -18,7 +18,7 @@ Returns a  **Variable** object that represents a variable added to a document.
 
 ## Syntax
 
- _expression_ . **Add**( **_Name_** , **_Value_** )
+ _expression_. 'Add'( '_Name_' , '_Value_' )
 
  _expression_ Required. A variable that represents a **[Variables](Word.variables.md)** collection.
 

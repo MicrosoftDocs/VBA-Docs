@@ -18,7 +18,7 @@ Sets the gap between adjacent member shapes in the list.
 
 ## Syntax
 
- _expression_ . **SetListSpacing**( **_SpacingUnits_** , **_SpacingSize_** )
+ _expression_. 'SetListSpacing'( '_SpacingUnits_' , '_SpacingSize_' )
 
  _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 

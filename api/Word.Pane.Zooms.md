@@ -18,7 +18,7 @@ Returns a  **[Zooms](Word.zooms.md)** collection that represents the magnificati
 
 ## Syntax
 
- _expression_ . **Zooms**
+ _expression_. 'Zooms'
 
  _expression_ An expression that returns a **[Pane](Word.Pane.md)** object.
 

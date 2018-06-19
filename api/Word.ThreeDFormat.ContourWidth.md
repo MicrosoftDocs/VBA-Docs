@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the width of the contour of a shap
 
 ## Syntax
 
- _expression_ . **ContourWidth**
+ _expression_. 'ContourWidth'
 
  _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
 

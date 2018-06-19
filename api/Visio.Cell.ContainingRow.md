@@ -18,7 +18,7 @@ Returns the row that contains a cell. Read-only.
 
 ## Syntax
 
- _expression_ . **ContainingRow**
+ _expression_. 'ContainingRow'
 
  _expression_ A variable that represents a **Cell** object.
 

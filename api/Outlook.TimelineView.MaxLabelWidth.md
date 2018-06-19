@@ -18,7 +18,7 @@ Returns or sets a  **Long** value that represents the maximum length (in charact
 
 ## Syntax
 
- _expression_ . **MaxLabelWidth**
+ _expression_. 'MaxLabelWidth'
 
  _expression_ A variable that represents a **TimelineView** object.
 

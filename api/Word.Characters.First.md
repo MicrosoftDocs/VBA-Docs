@@ -18,7 +18,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the first character
 
 ## Syntax
 
- _expression_ . **First**
+ _expression_. 'First'
 
  _expression_ Required. A variable that represents a **[Characters](Word.characters.md)** collection.
 

@@ -18,7 +18,7 @@ Returns or sets a  **[MsoLineStyle](http://msdn.microsoft.com/library/888c4d9c-a
 
 ## Syntax
 
- _expression_ . **Style**
+ _expression_. 'Style'
 
  _expression_ A variable that represents a **LineFormat** object.
 

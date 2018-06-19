@@ -18,7 +18,7 @@ Gets or sets the page that is displayed in a window. Read/write.
 
 ## Syntax
 
- _expression_ . **Page**
+ _expression_. 'Page'
 
  _expression_ A variable that represents a **Window** object.
 

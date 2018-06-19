@@ -11,7 +11,7 @@ Occurs when Outlook has completed reading the properties of the item.
 
 ## Syntax
 
- _expression_ . **ReadComplete**_(Cancel)_
+ _expression_. 'ReadComplete'_(Cancel)_
 
  _expression_ A variable that represents an **AppointmentItem** object.
 

@@ -18,7 +18,7 @@ Returns or sets the shading texture for the specified object. Read/write  **WdTe
 
 ## Syntax
 
- _expression_ . **Texture**
+ _expression_. 'Texture'
 
  _expression_ Required. A variable that represents a **[Shading](Word.Shading.md)** object.
 

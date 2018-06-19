@@ -18,7 +18,7 @@ Returns or sets the fill style for a shape. Read/write.
 
 ## Syntax
 
- _expression_ . **FillStyle**
+ _expression_. 'FillStyle'
 
  _expression_ A variable that represents a **Shape** object.
 

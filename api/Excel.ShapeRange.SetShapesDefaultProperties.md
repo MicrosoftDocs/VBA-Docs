@@ -18,7 +18,7 @@ Makes the formatting of the specified shape the default formatting for the shape
 
 ## Syntax
 
- _expression_ . **SetShapesDefaultProperties**
+ _expression_. 'SetShapesDefaultProperties'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

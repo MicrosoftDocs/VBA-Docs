@@ -18,7 +18,7 @@ Returns a  **UIObject** object that represents a copy of the built-in Microsoft 
 
 ## Syntax
 
- _expression_ . **BuiltInMenus**
+ _expression_. 'BuiltInMenus'
 
  _expression_ A variable that represents an **Application** object.
 

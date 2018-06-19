@@ -18,7 +18,7 @@ Returns or sets a  **[WdContentControlDateStorageFormat](Word.WdContentControlDa
 
 ## Syntax
 
- _expression_ . **DateStorageFormat**
+ _expression_. 'DateStorageFormat'
 
  _expression_ An expression that returns a **ContentControl** object.
 

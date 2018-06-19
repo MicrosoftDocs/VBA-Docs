@@ -16,7 +16,7 @@ Returns  **TRUE** when the user filters out a series. **Boolean** Read-only
 
 ## Syntax
 
- _expression_ . **IsFiltered**
+ _expression_. 'IsFiltered'
 
  _expression_ A variable that represents a **ChartCategory** object.
 

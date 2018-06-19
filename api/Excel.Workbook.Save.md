@@ -18,7 +18,7 @@ Saves changes to the specified workbook.
 
 ## Syntax
 
- _expression_ . **Save**
+ _expression_. 'Save'
 
  _expression_ A variable that represents a **Workbook** object.
 

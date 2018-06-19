@@ -18,7 +18,7 @@ Occurs before changes are committed against the OLAP data source for a PivotTabl
 
 ## Syntax
 
- _expression_ . **PivotTableBeforeCommitChanges**( **_TargetPivotTable_** , **_ValueChangeStart_** , **_ValueChangeEnd_** , **_Cancel_** )
+ _expression_. 'PivotTableBeforeCommitChanges'( '_TargetPivotTable_' , '_ValueChangeStart_' , '_ValueChangeEnd_' , '_Cancel_' )
 
  _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

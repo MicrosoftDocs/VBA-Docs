@@ -18,7 +18,7 @@ Returns or sets a value that specifies the width, in points, of the specified  *
 
 ## Syntax
 
- _expression_ . **Width**
+ _expression_. 'Width'
 
  _expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 

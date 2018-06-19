@@ -18,7 +18,7 @@ Returns the  **[COMAddIns](http://msdn.microsoft.com/library/f6efa1cc-8d30-27d5-
 
 ## Syntax
 
- _expression_ . **COMAddIns**
+ _expression_. 'COMAddIns'
 
  _expression_ A variable that represents an **Application** object.
 

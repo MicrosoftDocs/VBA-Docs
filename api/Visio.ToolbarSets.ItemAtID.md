@@ -18,7 +18,7 @@ Returns the  **ToolbarSet** object for an ID within a collection. Read-only.
 
 ## Syntax
 
- _expression_ . **ItemAtID**( **_lID_** )
+ _expression_. 'ItemAtID'( '_lID_' )
 
  _expression_ A variable that represents a **ToolbarSets** object.
 

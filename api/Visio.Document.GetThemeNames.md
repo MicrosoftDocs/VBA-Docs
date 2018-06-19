@@ -18,7 +18,7 @@ Returns a locale-specific array of names of themes contained in the document.
 
 ## Syntax
 
- _expression_ . **GetThemeNames**( **_eType_** , **_NameArray()_** )
+ _expression_. 'GetThemeNames'( '_eType_' , '_NameArray()_' )
 
  _expression_ An expression that returns a **Document** object.
 

@@ -18,7 +18,7 @@ Returns or sets if the user should be prompted to convert the workbook if the wo
 
 ## Syntax
 
- _expression_ . **DoNotPromptForConvert**
+ _expression_. 'DoNotPromptForConvert'
 
  _expression_ A variable that represents a **Workbook** object.
 

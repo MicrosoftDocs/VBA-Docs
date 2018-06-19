@@ -18,7 +18,7 @@ Obtains an  **[IPictureDisp](http://msdn.microsoft.com/en-us/library/ms680762%28
 
 ## Syntax
 
- _expression_ . **GetPicture**
+ _expression_. 'GetPicture'
 
  _expression_ A variable that represents an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 

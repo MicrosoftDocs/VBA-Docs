@@ -18,7 +18,7 @@ Sets the options for encrypting workbooks using passwords.
 
 ## Syntax
 
- _expression_ . **SetPasswordEncryptionOptions**( **_PasswordEncryptionProvider_** , **_PasswordEncryptionAlgorithm_** , **_PasswordEncryptionKeyLength_** , **_PasswordEncryptionFileProperties_** )
+ _expression_. 'SetPasswordEncryptionOptions'( '_PasswordEncryptionProvider_' , '_PasswordEncryptionAlgorithm_' , '_PasswordEncryptionKeyLength_' , '_PasswordEncryptionFileProperties_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

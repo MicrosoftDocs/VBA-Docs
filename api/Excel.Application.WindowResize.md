@@ -18,7 +18,7 @@ Occurs when any workbook window is resized.
 
 ## Syntax
 
- _expression_ . **WindowResize**( **_Wb_** , **_Wn_** )
+ _expression_. 'WindowResize'( '_Wb_' , '_Wn_' )
 
  _expression_ A variable that represents an **Application** object.
 

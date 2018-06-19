@@ -18,7 +18,7 @@ Returns or sets a  **Date** indicating the start date for the recurrence pattern
 
 ## Syntax
 
- _expression_ . **PatternStartDate**
+ _expression_. 'PatternStartDate'
 
  _expression_ A variable that represents a **RecurrencePattern** object.
 

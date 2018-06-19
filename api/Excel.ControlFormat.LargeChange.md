@@ -18,7 +18,7 @@ Returns or sets the amount that the scroll box increments or decrements for a pa
 
 ## Syntax
 
- _expression_ . **LargeChange**
+ _expression_. 'LargeChange'
 
  _expression_ A variable that represents a **ControlFormat** object.
 

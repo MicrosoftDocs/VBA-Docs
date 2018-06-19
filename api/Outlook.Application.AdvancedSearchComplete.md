@@ -18,7 +18,7 @@ Occurs when the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** met
 
 ## Syntax
 
- _expression_ . **AdvancedSearchComplete**( **_SearchObject_** )
+ _expression_. 'AdvancedSearchComplete'( '_SearchObject_' )
 
  _expression_ A variable that represents an **Application** object.
 

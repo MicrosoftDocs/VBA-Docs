@@ -18,7 +18,7 @@ Returns an  **[RTD](Excel.RTD.md)** object.
 
 ## Syntax
 
- _expression_ . **RTD**
+ _expression_. 'RTD'
 
  _expression_ An expression that returns a **Application** object.
 

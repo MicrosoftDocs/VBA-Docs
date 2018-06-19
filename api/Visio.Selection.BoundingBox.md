@@ -18,7 +18,7 @@ Returns a rectangle that tightly encloses the shapes of a selection.
 
 ## Syntax
 
- _expression_ . **BoundingBox**( **_Flags_** , **_lpr8Left_** , **_lpr8Bottom_** , **_lpr8Right_** , **_lpr8Top_** )
+ _expression_. 'BoundingBox'( '_Flags_' , '_lpr8Left_' , '_lpr8Bottom_' , '_lpr8Right_' , '_lpr8Top_' )
 
  _expression_ A variable that represents a **Selection** object.
 

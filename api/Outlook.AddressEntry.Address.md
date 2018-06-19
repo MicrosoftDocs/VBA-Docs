@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the e-mail address of the **[AddressE
 
 ## Syntax
 
- _expression_ . **Address**
+ _expression_. 'Address'
 
  _expression_ A variable that represents an **AddressEntry** object.
 

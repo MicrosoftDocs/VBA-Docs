@@ -18,7 +18,7 @@ Sets or returns a  **Single** representing the global setting in Microsoft Word 
 
 ## Syntax
 
- _expression_ . **RevisionsBalloonWidth**
+ _expression_. 'RevisionsBalloonWidth'
 
  _expression_ An expression that returns one a **[View](Word.View.md)** object.
 

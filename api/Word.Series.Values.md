@@ -18,7 +18,7 @@ Returns or sets a collection of all the values in the series. Read/write  **Vari
 
 ## Syntax
 
- _expression_ . **Values**
+ _expression_. 'Values'
 
  _expression_ A variable that represents a **[Series](Word.Series.md)** object.
 

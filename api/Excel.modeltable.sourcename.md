@@ -16,7 +16,7 @@ Name of the data source for the table. If the table has no data source, the call
 
 ## Syntax
 
- _expression_ . **SourceName**
+ _expression_. 'SourceName'
 
  _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 

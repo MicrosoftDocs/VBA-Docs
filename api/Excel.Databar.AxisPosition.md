@@ -18,7 +18,7 @@ Returns or sets the position of the axis of the data bars specified by a conditi
 
 ## Syntax
 
- _expression_ . **AxisPosition**
+ _expression_. 'AxisPosition'
 
  _expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
 

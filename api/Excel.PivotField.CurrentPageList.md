@@ -18,7 +18,7 @@ Returns or sets an array of strings corresponding to the list of items included 
 
 ## Syntax
 
- _expression_ . **CurrentPageList**
+ _expression_. 'CurrentPageList'
 
  _expression_ A variable that represents a **PivotField** object.
 

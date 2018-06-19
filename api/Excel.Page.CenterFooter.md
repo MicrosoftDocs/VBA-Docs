@@ -18,7 +18,7 @@ Specifies a picture or text to be center aligned in the page footer.
 
 ## Syntax
 
- _expression_ . **CenterFooter**
+ _expression_. 'CenterFooter'
 
  _expression_ A variable that represents a **Page** object.
 

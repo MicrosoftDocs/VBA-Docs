@@ -18,7 +18,7 @@ Returns or sets how the PivotTable cache connects to its data source. Read/write
 
 ## Syntax
 
- _expression_ . **RobustConnect**
+ _expression_. 'RobustConnect'
 
  _expression_ A variable that represents a **PivotCache** object.
 

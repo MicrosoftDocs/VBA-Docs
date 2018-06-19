@@ -18,7 +18,7 @@ Creates a list of calculated PivotTable items and fields on a separate worksheet
 
 ## Syntax
 
- _expression_ . **ListFormulas**
+ _expression_. 'ListFormulas'
 
  _expression_ A variable that represents a **PivotTable** object.
 

@@ -18,7 +18,7 @@ Determines the objects that shapes snap to when snap is active in the document. 
 
 ## Syntax
 
- _expression_ . **SnapSettings**
+ _expression_. 'SnapSettings'
 
  _expression_ A variable that represents a **Document** object.
 

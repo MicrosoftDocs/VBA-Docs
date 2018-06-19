@@ -18,7 +18,7 @@ Obtains a  **[Folder](Outlook.Folder.md)** object that represents the Contacts f
 
 ## Syntax
 
- _expression_ . **GetContactsFolder**
+ _expression_. 'GetContactsFolder'
 
  _expression_ A variable that represents an **AddressList** object.
 

@@ -18,7 +18,7 @@ Returns a  **[ShapeNodes](Word.shapenodes.md)** collection that represents the g
 
 ## Syntax
 
- _expression_ . **Nodes**
+ _expression_. 'Nodes'
 
  _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 

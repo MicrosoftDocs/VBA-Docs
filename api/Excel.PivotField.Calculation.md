@@ -18,7 +18,7 @@ Returns or sets a  **[XlPivotFieldCalculation](Excel.XlPivotFieldCalculation.md)
 
 ## Syntax
 
- _expression_ . **Calculation**
+ _expression_. 'Calculation'
 
  _expression_ A variable that represents a **PivotField** object.
 

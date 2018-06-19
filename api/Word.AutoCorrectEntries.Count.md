@@ -18,7 +18,7 @@ Returns the number of items in the  **AutoCorrectEntries** collection. Read-only
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents an **[AutoCorrectEntries](Word.autocorrectentries.md)** object.
 

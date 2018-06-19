@@ -16,7 +16,7 @@ Returns the length of the repetitive pattern Excel detects for the specified tim
 
 ## Syntax
 
- _expression_ . **Forecast_ETS_Seasonality**( _Arg1_,  _Arg1_,  _Arg2_,  _Arg3_,  _Arg4_)
+ _expression_. 'Forecast_ETS_Seasonality'( _Arg1_,  _Arg1_,  _Arg2_,  _Arg3_,  _Arg4_)
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

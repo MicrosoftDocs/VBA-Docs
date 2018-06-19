@@ -18,7 +18,7 @@ Returns a  **String** value that represents the ODBC error string.
 
 ## Syntax
 
- _expression_ . **ErrorString**
+ _expression_. 'ErrorString'
 
  _expression_ A variable that represents an **OLEDBError** object.
 

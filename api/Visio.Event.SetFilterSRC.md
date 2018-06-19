@@ -18,7 +18,7 @@ Specifies an array of cell ranges and a  **True** or **False** value indicating 
 
 ## Syntax
 
- _expression_ . **SetFilterSRC**( **_SRCStream()_** )
+ _expression_. 'SetFilterSRC'( '_SRCStream()_' )
 
  _expression_ A variable that represents an **Event** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Variant** specifying an array of strings that are hidden it
 
 ## Syntax
 
- _expression_ . **HiddenItemsList**
+ _expression_. 'HiddenItemsList'
 
  _expression_ A variable that represents a **PivotField** object.
 

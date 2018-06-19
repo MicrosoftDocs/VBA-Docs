@@ -18,7 +18,7 @@ Returns the sum of the sum of squares of corresponding values in two arrays. The
 
 ## Syntax
 
- _expression_ . **SumX2PY2**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'SumX2PY2'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

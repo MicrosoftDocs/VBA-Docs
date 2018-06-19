@@ -18,7 +18,7 @@ Gets the current setting for display of South Asian languages. Read-only.
 
 ## Syntax
 
- _expression_ . **SATextUI**
+ _expression_. 'SATextUI'
 
  _expression_ An expression that returns a **ApplicationSettings** object.
 

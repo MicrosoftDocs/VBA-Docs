@@ -21,7 +21,7 @@ Returns the sum of a power series based on the formula:
 
 ## Syntax
 
- _expression_ . **SeriesSum**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
+ _expression_. 'SeriesSum'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

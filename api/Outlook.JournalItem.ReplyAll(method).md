@@ -18,7 +18,7 @@ Creates a reply to all original recipients from the original message.
 
 ## Syntax
 
- _expression_ . **ReplyAll**
+ _expression_. 'ReplyAll'
 
  _expression_ A variable that represents a **JournalItem** object.
 

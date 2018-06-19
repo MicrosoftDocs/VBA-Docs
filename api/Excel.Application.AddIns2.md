@@ -18,7 +18,7 @@ Returns an  **[AddIns2](Excel.AddIns2.md)** collection that represents all the a
 
 ## Syntax
 
- _expression_ . **AddIns2**
+ _expression_. 'AddIns2'
 
  _expression_ A variable that returns an **Application** object.
 

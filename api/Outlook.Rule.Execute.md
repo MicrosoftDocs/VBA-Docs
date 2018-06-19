@@ -18,7 +18,7 @@ Applies a rule as an one-off operation.
 
 ## Syntax
 
- _expression_ . **Execute**( **_ShowProgress_** , **_Folder_** , **_IncludeSubfolders_** , **_RuleExecuteOption_** )
+ _expression_. 'Execute'( '_ShowProgress_' , '_Folder_' , '_IncludeSubfolders_' , '_RuleExecuteOption_' )
 
  _expression_ A variable that represents a **Rule** object.
 

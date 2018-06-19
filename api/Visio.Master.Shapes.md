@@ -18,7 +18,7 @@ Returns the  **Shapes** collection for a page, master, or group. Read-only.
 
 ## Syntax
 
- _expression_ . **Shapes**
+ _expression_. 'Shapes'
 
  _expression_ A variable that represents a **Master** object.
 

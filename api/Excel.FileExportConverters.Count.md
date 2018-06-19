@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of file converters in the collect
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **[FileExportConverters](Excel.FileExportConverters.md)** collection.
 

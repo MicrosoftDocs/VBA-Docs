@@ -18,7 +18,7 @@ Restores the built-in Microsoft Visio user interface.
 
 ## Syntax
 
- _expression_ . **ClearCustomToolbars**
+ _expression_. 'ClearCustomToolbars'
 
  _expression_ A variable that represents a **Document** object.
 

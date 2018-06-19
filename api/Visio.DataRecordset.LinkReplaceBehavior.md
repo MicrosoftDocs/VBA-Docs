@@ -21,7 +21,7 @@ Gets or sets how existing links between shapes and data rows are handled when me
 
 ## Syntax
 
- _expression_ . **LinkReplaceBehavior**
+ _expression_. 'LinkReplaceBehavior'
 
  _expression_ An expression that returns a **DataRecordset** object.
 

@@ -18,7 +18,7 @@ Returns an  **XMLNodes** collection that represents the attributes for the speci
 
 ## Syntax
 
- _expression_ . **Attributes**
+ _expression_. 'Attributes'
 
  _expression_ Required. A variable that represents a **[XMLNode](Word.XMLNode.md)** object.
 

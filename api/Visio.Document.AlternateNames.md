@@ -18,7 +18,7 @@ Gets or sets the alternate names for a document. Read/write.
 
 ## Syntax
 
- _expression_ . **AlternateNames**
+ _expression_. 'AlternateNames'
 
  _expression_ A variable that represents a **Document** object.
 

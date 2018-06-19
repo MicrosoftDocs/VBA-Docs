@@ -18,7 +18,7 @@ Determines whether a document is in run mode or design mode. Read/write.
 
 ## Syntax
 
- _expression_ . **Mode**
+ _expression_. 'Mode'
 
  _expression_ A variable that represents a **Document** object.
 

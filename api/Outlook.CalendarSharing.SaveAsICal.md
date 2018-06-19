@@ -18,7 +18,7 @@ Exports calendar information from the parent  **[Folder](Outlook.Folder.md)** of
 
 ## Syntax
 
- _expression_ . **SaveAsICal**( **_Path_** )
+ _expression_. 'SaveAsICal'( '_Path_' )
 
  _expression_ An expression that returns a **CalendarSharing** object.
 

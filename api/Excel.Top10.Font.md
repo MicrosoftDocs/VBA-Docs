@@ -18,7 +18,7 @@ Returns a  **[Font](Excel.Font(objec).md)** object that specifies the font forma
 
 ## Syntax
 
- _expression_ . **Font**
+ _expression_. 'Font'
 
  _expression_ A variable that represents a **Top10** object.
 

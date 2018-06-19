@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the contents of an equation auto c
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. 'Value'
 
  _expression_ An expression that returns an **OMathAutoCorrectEntry** object.
 

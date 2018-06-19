@@ -18,7 +18,7 @@ Returns a  **Field** object that represents the field associated with the specif
 
 ## Syntax
 
- _expression_ . **Field**
+ _expression_. 'Field'
 
  _expression_ A variable that represents an **[InlineShape](Word.InlineShape.md)** object.
 

@@ -18,7 +18,7 @@ Returns an  **OMathMatRow** object that represents the specified item in the col
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ An expression that returns an **[OMathMatRows](Word.OMathMatRows.md)** object.
 

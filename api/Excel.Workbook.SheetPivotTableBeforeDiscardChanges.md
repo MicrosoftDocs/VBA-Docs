@@ -18,7 +18,7 @@ Occurs before changes to a PivotTable are discarded.
 
 ## Syntax
 
- _expression_ . **SheetPivotTableBeforeDiscardChanges**( **_Sh_** , **_TargetPivotTable_** , **_ValueChangeStart_** , **_ValueChangeEnd_** )
+ _expression_. 'SheetPivotTableBeforeDiscardChanges'( '_Sh_' , '_TargetPivotTable_' , '_ValueChangeStart_' , '_ValueChangeEnd_' )
 
  _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
 

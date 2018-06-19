@@ -21,7 +21,7 @@ Returns the type of the graphic item. Read-only.
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents a **GraphicItem** object.
 

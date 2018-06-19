@@ -18,7 +18,7 @@ Returns the number of whole workdays between two dates using parameters to indic
 
 ## Syntax
 
- _expression_ . **NetworkDays_Intl**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
+ _expression_. 'NetworkDays_Intl'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
  _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

@@ -18,7 +18,7 @@ Gets or sets the size of a master icon. Read/write.
 
 ## Syntax
 
- _expression_ . **IconSize**
+ _expression_. 'IconSize'
 
  _expression_ A variable that represents a **MasterShortcut** object.
 

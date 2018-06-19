@@ -18,7 +18,7 @@ Returns a Boolean that indicates whether the specified calculated member has bee
 
 ## Syntax
 
- _expression_ . **IsValid**
+ _expression_. 'IsValid'
 
  _expression_ A variable that represents a **CalculatedMember** object.
 

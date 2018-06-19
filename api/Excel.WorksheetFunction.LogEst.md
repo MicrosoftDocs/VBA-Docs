@@ -18,7 +18,7 @@ In regression analysis, calculates an exponential curve that fits your data and 
 
 ## Syntax
 
- _expression_ . **LogEst**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
+ _expression_. 'LogEst'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

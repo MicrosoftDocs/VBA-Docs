@@ -18,7 +18,7 @@ Returns an  **Assistance** object that represents the Microsoft Office Help View
 
 ## Syntax
 
- _expression_ . **Assistance**
+ _expression_. 'Assistance'
 
  _expression_ An expression that returns an **Application** object.
 

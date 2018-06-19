@@ -18,7 +18,7 @@ Returns or sets a  **String** for the text that appears on the **Cc** command bu
 
 ## Syntax
 
- _expression_ . **CcLabel**
+ _expression_. 'CcLabel'
 
  _expression_ A variable that represents a **SelectNamesDialog** object.
 

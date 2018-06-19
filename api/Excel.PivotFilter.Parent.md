@@ -18,7 +18,7 @@ Returns the parent object for the specified  **PivotFilter** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. 'Parent'
 
  _expression_ A variable that represents a **PivotFilter** object.
 

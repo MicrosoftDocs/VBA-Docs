@@ -18,7 +18,7 @@ Returns the column index of a cell. Read-only.
 
 ## Syntax
 
- _expression_ . **Column**
+ _expression_. 'Column'
 
  _expression_ A variable that represents a **Cell** object.
 

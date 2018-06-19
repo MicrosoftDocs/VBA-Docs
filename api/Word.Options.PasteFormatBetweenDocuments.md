@@ -18,7 +18,7 @@ Returns or sets a  **[WdPasteOptions](Word.WdPasteOptions.md)** constant that re
 
 ## Syntax
 
- _expression_ . **PasteFormatBetweenDocuments**
+ _expression_. 'PasteFormatBetweenDocuments'
 
  _expression_ An expression that returns an **Options** object.
 

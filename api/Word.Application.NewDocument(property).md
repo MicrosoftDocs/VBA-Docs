@@ -18,7 +18,7 @@ Returns a  **NewFile** object that represents a document listed on the **New** t
 
 ## Syntax
 
- _expression_ . **NewDocument**
+ _expression_. 'NewDocument'
 
  _expression_ A variable that represents an **[Application](Word.Application.md)** object.
 

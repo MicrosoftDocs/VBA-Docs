@@ -18,7 +18,7 @@ Returns the code name for the specified document. Read-only  **String** .
 
 ## Syntax
 
- _expression_ . **CodeName**
+ _expression_. 'CodeName'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

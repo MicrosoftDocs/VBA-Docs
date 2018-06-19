@@ -18,7 +18,7 @@ Gets the style that contains a  **Row** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Style**
+ _expression_. 'Style'
 
  _expression_ A variable that represents a **Row** object.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **HasChildShapeRange**
+ _expression_. 'HasChildShapeRange'
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

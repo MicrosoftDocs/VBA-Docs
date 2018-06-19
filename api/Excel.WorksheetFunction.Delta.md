@@ -18,7 +18,7 @@ Tests whether two values are equal. Returns 1 if number1 = number2; returns 0 ot
 
 ## Syntax
 
- _expression_ . **Delta**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Delta'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

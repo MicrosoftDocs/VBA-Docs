@@ -18,7 +18,7 @@ Returns a  **String** value that represents the DASL statement used to restrict 
 
 ## Syntax
 
- _expression_ . **Filter**
+ _expression_. 'Filter'
 
  _expression_ A variable that represents a **Search** object.
 

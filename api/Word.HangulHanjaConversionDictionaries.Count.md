@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of dictionaries in the collection
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents a **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection.
 

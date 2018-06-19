@@ -18,7 +18,7 @@ Occurs before Microsoft Excel saves or exports XML data from the specified workb
 
 ## Syntax
 
- _expression_ . **WorkbookBeforeXmlExport**( **_Wb_** , **_Map_** , **_Url_** , **_Cancel_** )
+ _expression_. 'WorkbookBeforeXmlExport'( '_Wb_' , '_Map_' , '_Url_' , '_Cancel_' )
 
  _expression_ A variable that represents an **Application** object.
 

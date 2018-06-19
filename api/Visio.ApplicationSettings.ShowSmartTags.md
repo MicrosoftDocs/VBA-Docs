@@ -18,7 +18,7 @@ Determines whether display of smart tags in Microsoft Visio is enabled. Read/wri
 
 ## Syntax
 
- _expression_ . **ShowSmartTags**
+ _expression_. 'ShowSmartTags'
 
  _expression_ A variable that represents an **ApplicationSettings** object.
 

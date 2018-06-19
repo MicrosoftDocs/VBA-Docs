@@ -18,7 +18,7 @@ Returns the collection of validation rules in the validation rule set. Read-only
 
 ## Syntax
 
- _expression_ . **Rules**
+ _expression_. 'Rules'
 
  _expression_ A variable that represents a **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object.
 

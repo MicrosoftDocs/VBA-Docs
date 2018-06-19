@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **CapitalizeNamesOfDays**
+ _expression_. 'CapitalizeNamesOfDays'
 
  _expression_ A variable that represents an **AutoCorrect** object.
 

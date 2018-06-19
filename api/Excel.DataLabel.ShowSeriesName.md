@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** to indicate the series name display behavior for 
 
 ## Syntax
 
- _expression_ . **ShowSeriesName**
+ _expression_. 'ShowSeriesName'
 
  _expression_ A variable that represents a **DataLabel** object.
 

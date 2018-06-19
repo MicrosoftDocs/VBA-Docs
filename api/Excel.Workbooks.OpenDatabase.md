@@ -18,7 +18,7 @@ Returns a  **Workbook** object representing a database.
 
 ## Syntax
 
- _expression_ . **OpenDatabase**( **_Filename_** , **_CommandText_** , **_CommandType_** , **_BackgroundQuery_** , **_ImportDataAs_** )
+ _expression_. 'OpenDatabase'( '_Filename_' , '_CommandText_' , '_CommandType_' , '_BackgroundQuery_' , '_ImportDataAs_' )
 
  _expression_ A variable that represents a **Workbooks** object.
 

@@ -13,7 +13,7 @@ Returns a [ModelMeasures Object (Excel)](modelmeasures-object-excel.md) object t
 
 ## Syntax
 
- _expression_ . **ModelMeasures**
+ _expression_. 'ModelMeasures'
 
  _expression_ A variable that represents a **Model** object.
 

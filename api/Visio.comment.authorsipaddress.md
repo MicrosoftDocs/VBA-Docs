@@ -13,7 +13,7 @@ Returns the SIP (Session Initiation Protocol) address of the author of the comme
 
 ## Syntax
 
- _expression_ . **AuthorSipAddress**
+ _expression_. 'AuthorSipAddress'
 
  _expression_ A variable that represents a **Comment** object.
 

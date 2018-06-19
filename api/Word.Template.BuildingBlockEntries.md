@@ -18,7 +18,7 @@ Returns a  **[BuildingBlockEntries](Word.BuildingBlockEntries.md)** collection t
 
 ## Syntax
 
- _expression_ . **BuildingBlockEntries**
+ _expression_. 'BuildingBlockEntries'
 
  _expression_ An expression that returns a **[Template](Word.Template.md)** object.
 

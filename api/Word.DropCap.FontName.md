@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the name of the font for the dropp
 
 ## Syntax
 
- _expression_ . **FontName**
+ _expression_. 'FontName'
 
  _expression_ A variable that represents a **[DropCap](Word.DropCap.md)** object.
 

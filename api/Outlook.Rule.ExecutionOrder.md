@@ -18,7 +18,7 @@ Returns or sets a  **Long** that indicates the order of execution of the rule am
 
 ## Syntax
 
- _expression_ . **ExecutionOrder**
+ _expression_. 'ExecutionOrder'
 
  _expression_ A variable that represents a **Rule** object.
 

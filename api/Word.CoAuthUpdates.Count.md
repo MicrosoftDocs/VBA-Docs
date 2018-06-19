@@ -18,7 +18,7 @@ Returns the number of items in the [CoAuthUpdates](http://msdn.microsoft.com/lib
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ An expression that returns a **CoAuthUpdates** object.
 

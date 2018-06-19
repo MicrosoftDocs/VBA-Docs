@@ -18,7 +18,7 @@ Adds a connection from the specified file.
 
 ## Syntax
 
- _expression_ . **AddFromFile**( **_Filename_** , **_Filename_** , **_Filename_** )
+ _expression_. 'AddFromFile'( '_Filename_' , '_Filename_' , '_Filename_' )
 
  _expression_ A variable that represents a **Connections** object.
 

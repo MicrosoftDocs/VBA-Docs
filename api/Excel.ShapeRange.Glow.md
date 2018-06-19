@@ -18,7 +18,7 @@ Returns a  **[GlowFormat](http://msdn.microsoft.com/library/b89e2245-e3a4-4a8c-c
 
 ## Syntax
 
- _expression_ . **Glow**
+ _expression_. 'Glow'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

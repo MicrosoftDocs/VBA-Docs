@@ -18,7 +18,7 @@ Returns or sets on which side the gutter appears in a document. Read/write  **Wd
 
 ## Syntax
 
- _expression_ . **GutterPos**
+ _expression_. 'GutterPos'
 
  _expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 

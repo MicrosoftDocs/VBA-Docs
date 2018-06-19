@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value that represents the display size of the win
 
 ## Syntax
 
- _expression_ . **Zoom**
+ _expression_. 'Zoom'
 
  _expression_ A variable that represents a **Window** object.
 

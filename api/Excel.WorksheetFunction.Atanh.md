@@ -18,7 +18,7 @@ Returns the inverse hyperbolic tangent of a number. Number must be between -1 an
 
 ## Syntax
 
- _expression_ . **Atanh**( **_Arg1_** )
+ _expression_. 'Atanh'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

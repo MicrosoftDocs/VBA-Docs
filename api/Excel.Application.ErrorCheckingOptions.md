@@ -18,7 +18,7 @@ Returns an  **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object, wh
 
 ## Syntax
 
- _expression_ . **ErrorCheckingOptions**
+ _expression_. 'ErrorCheckingOptions'
 
  _expression_ A variable that represents an **Application** object.
 

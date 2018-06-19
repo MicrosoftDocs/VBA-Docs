@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder should pla
 
 ## Syntax
 
- _expression_ . **ReminderPlaySound**
+ _expression_. 'ReminderPlaySound'
 
  _expression_ A variable that represents a **DistListItem** object.
 

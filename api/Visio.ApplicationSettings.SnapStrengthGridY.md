@@ -18,7 +18,7 @@ Specifies the distance in pixels along the  _y_-axis that gridlines pull when sn
 
 ## Syntax
 
- _expression_ . **SnapStrengthGridY**
+ _expression_. 'SnapStrengthGridY'
 
  _expression_ A variable that represents a **ApplicationSettings** object.
 

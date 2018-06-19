@@ -16,7 +16,7 @@ The timeline-specific state of the  **SlicerCache** object. Read-only
 
 ## Syntax
 
- _expression_ . **TimelineState**
+ _expression_. 'TimelineState'
 
  _expression_ A variable that represents a[SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
 

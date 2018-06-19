@@ -18,7 +18,7 @@ Returns a  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppo
 
 ## Syntax
 
- _expression_ . **PropertyAccessor**
+ _expression_. 'PropertyAccessor'
 
  _expression_ An expression that returns a **SharingItem** object.
 

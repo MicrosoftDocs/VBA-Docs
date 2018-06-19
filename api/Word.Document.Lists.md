@@ -18,7 +18,7 @@ Returns a  **[Lists](Word.lists.md)** collection that contains all the formatted
 
 ## Syntax
 
- _expression_ . **Lists**
+ _expression_. 'Lists'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

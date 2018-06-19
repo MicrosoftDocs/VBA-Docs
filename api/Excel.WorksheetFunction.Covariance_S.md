@@ -18,7 +18,7 @@ Returns the sample covariance, the average of the products of deviations for eac
 
 ## Syntax
 
- _expression_ . **Covariance_S**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Covariance_S'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

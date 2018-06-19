@@ -18,7 +18,7 @@ Returns a  **String** representing the display name of the third e-mail entry fo
 
 ## Syntax
 
- _expression_ . **Email3DisplayName**
+ _expression_. 'Email3DisplayName'
 
  _expression_ A variable that represents a **ContactItem** object.
 

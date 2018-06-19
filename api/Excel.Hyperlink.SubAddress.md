@@ -18,7 +18,7 @@ Returns or sets the location within the document associated with the hyperlink. 
 
 ## Syntax
 
- _expression_ . **SubAddress**
+ _expression_. 'SubAddress'
 
  _expression_ A variable that represents a **Hyperlink** object.
 

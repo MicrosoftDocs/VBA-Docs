@@ -18,7 +18,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the denominator fo
 
 ## Syntax
 
- _expression_ . **Den**
+ _expression_. 'Den'
 
  _expression_ An expression that returns an **[OMathFrac](Word.OMathFrac.md)** object.
 

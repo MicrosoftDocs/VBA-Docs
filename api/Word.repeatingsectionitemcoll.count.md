@@ -16,7 +16,7 @@ Returns a  **Long** that represents the number of repeating section items in the
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **[RepeatingSectionItemColl](Word.repeatingsectionitemcoll.md)** object.
 

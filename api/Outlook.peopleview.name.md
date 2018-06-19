@@ -19,7 +19,7 @@ Version Added: Outlook 2013
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **PeopleView** object.
 

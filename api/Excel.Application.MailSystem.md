@@ -18,7 +18,7 @@ Returns the mail system that's installed on the host machine. Read-only  **[XlMa
 
 ## Syntax
 
- _expression_ . **MailSystem**
+ _expression_. 'MailSystem'
 
  _expression_ A variable that represents an **Application** object.
 

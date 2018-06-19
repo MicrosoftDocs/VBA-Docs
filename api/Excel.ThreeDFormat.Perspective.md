@@ -18,7 +18,7 @@ Returns or sets an  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-b
 
 ## Syntax
 
- _expression_ . **Perspective**
+ _expression_. 'Perspective'
 
  _expression_ A variable that represents a **ThreeDFormat** object.
 

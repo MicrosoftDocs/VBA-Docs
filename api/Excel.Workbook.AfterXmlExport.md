@@ -18,7 +18,7 @@ Occurs after Microsoft Excel saves or exports XML data from the specified workbo
 
 ## Syntax
 
- _expression_ . **AfterXmlExport**( **_Map_** , **_Url_** , **_Result_** )
+ _expression_. 'AfterXmlExport'( '_Map_' , '_Url_' , '_Result_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

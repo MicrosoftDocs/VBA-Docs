@@ -15,7 +15,7 @@ Returns or sets the horizontal anchor type for the specified text. Read/write  *
 
 ## Syntax
 
- _expression_ . **HorizontalAnchor**
+ _expression_. 'HorizontalAnchor'
 
  _expression_ A variable that represents a **TextFrame2** object.
 

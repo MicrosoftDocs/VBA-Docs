@@ -18,7 +18,7 @@ Gets the ordinal position of an  **Addon** object in the **Addons** collection. 
 
 ## Syntax
 
- _expression_ . **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents a **Addon** object.
 

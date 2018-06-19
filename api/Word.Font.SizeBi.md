@@ -18,7 +18,7 @@ Returns or sets the font size in points. Read/write  **Single** .
 
 ## Syntax
 
- _expression_ . **SizeBi**
+ _expression_. 'SizeBi'
 
  _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 

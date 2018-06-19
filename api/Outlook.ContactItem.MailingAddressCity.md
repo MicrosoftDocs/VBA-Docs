@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the city name portion of the selected
 
 ## Syntax
 
- _expression_ . **MailingAddressCity**
+ _expression_. 'MailingAddressCity'
 
  _expression_ A variable that represents a **ContactItem** object.
 

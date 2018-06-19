@@ -18,7 +18,7 @@ Arranges the windows on the screen.
 
 ## Syntax
 
- _expression_ . **Arrange**( **_ArrangeStyle_** , **_ActiveWorkbook_** , **_SyncHorizontal_** , **_SyncVertical_** )
+ _expression_. 'Arrange'( '_ArrangeStyle_' , '_ActiveWorkbook_' , '_SyncHorizontal_' , '_SyncVertical_' )
 
  _expression_ A variable that represents a **Windows** object.
 

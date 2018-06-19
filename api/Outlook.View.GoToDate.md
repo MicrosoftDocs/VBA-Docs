@@ -18,7 +18,7 @@ Changes the date used by the current view to display information.
 
 ## Syntax
 
- _expression_ . **GoToDate**( **_Date_** )
+ _expression_. 'GoToDate'( '_Date_' )
 
  _expression_ A variable that represents a **View** object.
 

@@ -18,7 +18,7 @@ Returns or sets the column number where the window is split into panes (the numb
 
 ## Syntax
 
- _expression_ . **SplitColumn**
+ _expression_. 'SplitColumn'
 
  _expression_ A variable that represents a **Window** object.
 

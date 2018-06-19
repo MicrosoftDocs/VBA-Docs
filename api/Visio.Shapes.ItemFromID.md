@@ -18,7 +18,7 @@ Returns an item of a collection using the ID of the item. Read-only.
 
 ## Syntax
 
- _expression_ . **ItemFromID**( **_nID_** )
+ _expression_. 'ItemFromID'( '_nID_' )
 
  _expression_ A variable that represents a **Shapes** collection.
 

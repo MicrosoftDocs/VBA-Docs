@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **ShowRevisionsAndComments**
+ _expression_. 'ShowRevisionsAndComments'
 
  _expression_ An expression that returns a **[View](Word.View.md)** object.
 

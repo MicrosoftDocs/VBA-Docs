@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the street portion of the home addres
 
 ## Syntax
 
- _expression_ . **HomeAddressStreet**
+ _expression_. 'HomeAddressStreet'
 
  _expression_ A variable that represents a **ContactItem** object.
 

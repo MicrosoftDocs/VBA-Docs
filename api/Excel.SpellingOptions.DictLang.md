@@ -18,7 +18,7 @@ Selects the dictionary language used when Microsoft Excel performs spelling chec
 
 ## Syntax
 
- _expression_ . **DictLang**
+ _expression_. 'DictLang'
 
  _expression_ A variable that represents a **SpellingOptions** object.
 

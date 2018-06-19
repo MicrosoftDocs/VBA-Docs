@@ -18,7 +18,7 @@ Returns or sets an  **[OlVerticalLayout](Outlook.OlVerticalLayout.md)** constant
 
 ## Syntax
 
- _expression_ . **VerticalLayout**
+ _expression_. 'VerticalLayout'
 
  _expression_ A variable that represents an **OlkControl** object.
 

@@ -18,7 +18,7 @@ Returns an  **[InlineShapes](Word.inlineshapes.md)** collection that represents 
 
 ## Syntax
 
- _expression_ . **InlineShapes**
+ _expression_. 'InlineShapes'
 
  _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

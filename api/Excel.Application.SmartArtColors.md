@@ -18,7 +18,7 @@ Returns the set of color styles that are currently loaded in the application. Re
 
 ## Syntax
 
- _expression_ . **SmartArtColors**
+ _expression_. 'SmartArtColors'
 
  _expression_ A variable that represents an **[Application](Excel.Application(objec).md)** object.
 

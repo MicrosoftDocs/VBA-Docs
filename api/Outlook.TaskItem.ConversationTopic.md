@@ -18,7 +18,7 @@ Returns a  **String** representing the topic of the conversation thread of the O
 
 ## Syntax
 
- _expression_ . **ConversationTopic**
+ _expression_. 'ConversationTopic'
 
  _expression_ A variable that represents a **TaskItem** object.
 

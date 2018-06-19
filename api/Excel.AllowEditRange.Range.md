@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents a subset of
 
 ## Syntax
 
- _expression_ . **Range**
+ _expression_. 'Range'
 
  _expression_ A variable that represents an **AllowEditRange** object.
 

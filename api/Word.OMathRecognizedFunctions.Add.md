@@ -18,7 +18,7 @@ Creates a new recognized function and returns an  **OMathRecognizedFunction** ob
 
 ## Syntax
 
- _expression_ . **Add**( **_Name_** )
+ _expression_. 'Add'( '_Name_' )
 
  _expression_ An expression that returns a **OMathRecognizedFunctions** object.
 

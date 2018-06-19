@@ -18,7 +18,7 @@ Returns a  **String** representing the name of the assistant for the **[Exchange
 
 ## Syntax
 
- _expression_ . **AssistantName**
+ _expression_. 'AssistantName'
 
  _expression_ A variable that represents an **ExchangeUser** object.
 

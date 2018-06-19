@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **IncludeCategoryHeader**
+ _expression_. 'IncludeCategoryHeader'
 
  _expression_ An expression that returns a **[TableOfAuthorities](Word.TableOfAuthorities.md)** object.
 

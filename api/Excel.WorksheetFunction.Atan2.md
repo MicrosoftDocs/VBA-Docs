@@ -18,7 +18,7 @@ Returns the arctangent, or inverse tangent, of the specified x- and y-coordinate
 
 ## Syntax
 
- _expression_ . **Atan2**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Atan2'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

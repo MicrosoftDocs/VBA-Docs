@@ -18,7 +18,7 @@ Creates a reply to all original recipients from the original  **[SharingItem](Ou
 
 ## Syntax
 
- _expression_ . **ReplyAll**
+ _expression_. 'ReplyAll'
 
  _expression_ A variable that represents a **SharingItem** object.
 

@@ -18,7 +18,7 @@ Returns or sets the amount of spacing (in gridlines) before the specified paragr
 
 ## Syntax
 
- _expression_ . **LineUnitBefore**
+ _expression_. 'LineUnitBefore'
 
  _expression_ Required. A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
 

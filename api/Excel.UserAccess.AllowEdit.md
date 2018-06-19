@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that indicates if the user is allowed acces
 
 ## Syntax
 
- _expression_ . **AllowEdit**
+ _expression_. 'AllowEdit'
 
  _expression_ A variable that represents an **UserAccess** object.
 

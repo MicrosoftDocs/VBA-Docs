@@ -18,7 +18,7 @@ Removes numbers or bullets from the specified list.
 
 ## Syntax
 
- _expression_ . **RemoveNumbers**( **_NumberType_** )
+ _expression_. 'RemoveNumbers'( '_NumberType_' )
 
  _expression_ A variable that represents a **[List](Word.List.md)** object.
 

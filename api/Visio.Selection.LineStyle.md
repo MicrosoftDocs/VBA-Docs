@@ -18,7 +18,7 @@ Specifies the line style for an object. Read/write.
 
 ## Syntax
 
- _expression_ . **LineStyle**
+ _expression_. 'LineStyle'
 
  _expression_ A variable that represents a **Selection** object.
 

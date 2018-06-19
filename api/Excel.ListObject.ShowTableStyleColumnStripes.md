@@ -18,7 +18,7 @@ Returns or sets if the Column Stripes table style is used for the specified  **L
 
 ## Syntax
 
- _expression_ . **ShowTableStyleColumnStripes**
+ _expression_. 'ShowTableStyleColumnStripes'
 
  _expression_ A variable that represents a **ListObject** object.
 

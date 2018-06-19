@@ -16,7 +16,7 @@ Returns a list of the table slicers associated with a  **ListObject** . Read-onl
 
 ## Syntax
 
- _expression_ . **Slicers**
+ _expression_. 'Slicers'
 
  _expression_ A variable that represents a **ListObject** object.
 

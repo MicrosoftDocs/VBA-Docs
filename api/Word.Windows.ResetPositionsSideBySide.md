@@ -18,7 +18,7 @@ Resets two document windows that are in the  **Compare side by side with** view 
 
 ## Syntax
 
- _expression_ . **ResetPositionsSideBySide**
+ _expression_. 'ResetPositionsSideBySide'
 
  _expression_ Required. A variable that represents a **[Windows](Word.windows.md)** collection.
 

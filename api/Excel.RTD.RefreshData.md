@@ -18,7 +18,7 @@ Requests an update of real-time data from the real-time data server.
 
 ## Syntax
 
- _expression_ . **RefreshData**
+ _expression_. 'RefreshData'
 
  _expression_ A variable that represents a **RTD** object.
 

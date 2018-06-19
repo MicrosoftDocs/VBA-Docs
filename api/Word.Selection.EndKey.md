@@ -18,7 +18,7 @@ Moves or extends the selection to the end of the specified unit.
 
 ## Syntax
 
- _expression_ . **EndKey**( **_Unit_** , **_Extend_** )
+ _expression_. 'EndKey'( '_Unit_' , '_Extend_' )
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

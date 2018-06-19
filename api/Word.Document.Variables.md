@@ -18,7 +18,7 @@ Returns a  **[Variables](Word.variables.md)** collection that represents the var
 
 ## Syntax
 
- _expression_ . **Variables**
+ _expression_. 'Variables'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

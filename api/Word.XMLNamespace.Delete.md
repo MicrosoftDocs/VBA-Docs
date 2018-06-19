@@ -18,7 +18,7 @@ Deletes the specified XML schema from the list of available XML schemas.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ Required. A variable that represents a **[XMLNamespace](Word.XMLNamespace.md)** object.
 

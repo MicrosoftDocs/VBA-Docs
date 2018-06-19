@@ -18,7 +18,7 @@ Occurs when an ActiveX control loses input focus.
 
 ## Syntax
 
- _expression_ . **LostFocus**
+ _expression_. 'LostFocus'
 
  _expression_ A variable that represents an **OLEObject** object.
 

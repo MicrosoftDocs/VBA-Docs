@@ -18,7 +18,7 @@ Returns or sets an  **[OlDefaultExpandCollapseSetting](Outlook.OlDefaultExpandCo
 
 ## Syntax
 
- _expression_ . **DefaultExpandCollapseSetting**
+ _expression_. 'DefaultExpandCollapseSetting'
 
  _expression_ A variable that represents a **TimelineView** object.
 

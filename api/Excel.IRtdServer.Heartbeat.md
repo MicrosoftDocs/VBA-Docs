@@ -18,7 +18,7 @@ Determines if the real-time data server is still active. Returns a  **Long** val
 
 ## Syntax
 
- _expression_ . **Heartbeat**
+ _expression_. 'Heartbeat'
 
  _expression_ A variable that represents an **IRtdServer** object.
 

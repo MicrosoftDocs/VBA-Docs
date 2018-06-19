@@ -18,7 +18,7 @@ Returns or sets a  **WdPageNumberAlignment** constant that represents the alignm
 
 ## Syntax
 
- _expression_ . **Alignment**
+ _expression_. 'Alignment'
 
  _expression_ Required. A variable that represents a **[PageNumber](Word.PageNumber.md)** object.
 

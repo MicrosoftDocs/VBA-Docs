@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether a find operation should i
 
 ## Syntax
 
- _expression_ . **IgnorePunct**
+ _expression_. 'IgnorePunct'
 
  _expression_ An expression that returns a **Find** object.
 

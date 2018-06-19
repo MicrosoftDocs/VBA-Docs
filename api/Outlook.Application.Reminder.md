@@ -18,7 +18,7 @@ Occurs immediately before a reminder is displayed.
 
 ## Syntax
 
- _expression_ . **Reminder**( **_Item_** )
+ _expression_. 'Reminder'( '_Item_' )
 
  _expression_ A variable that represents an **Application** object.
 

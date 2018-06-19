@@ -15,7 +15,7 @@ Occurs just before an attachment is saved.
 
 ## Syntax
 
- _expression_ . **BeforeAttachmentSave**( **_Attachment_** , **_Cancel_** )
+ _expression_. 'BeforeAttachmentSave'( '_Attachment_' , '_Cancel_' )
 
  _expression_ A variable that represents a **ReportItem** object.
 

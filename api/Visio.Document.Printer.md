@@ -18,7 +18,7 @@ Specifies the name of the printer to use when printing the document. Read/write.
 
 ## Syntax
 
- _expression_ . **Printer**
+ _expression_. 'Printer'
 
  _expression_ A variable that represents a **Document** object.
 

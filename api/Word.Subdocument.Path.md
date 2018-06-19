@@ -18,7 +18,7 @@ Returns the disk or Web path to the specified subdocument. Read-only  **String**
 
 ## Syntax
 
- _expression_ . **Path**
+ _expression_. 'Path'
 
  _expression_ Required. A variable that represents a **[Subdocument](Word.Subdocument.md)** object.
 

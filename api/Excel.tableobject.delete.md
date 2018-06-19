@@ -16,7 +16,7 @@ Deletes the  **TableObject** object.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 

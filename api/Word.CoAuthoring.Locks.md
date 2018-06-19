@@ -18,7 +18,7 @@ Returns a  **[CoAuthLocks](Word.CoAuthLocks.md)** collection that represents the
 
 ## Syntax
 
- _expression_ . **Locks**
+ _expression_. 'Locks'
 
  _expression_ An expression that returns a **[CoAuthoring](Word.CoAuthoring.md)** object.
 

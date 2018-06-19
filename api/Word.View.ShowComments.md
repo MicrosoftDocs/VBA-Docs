@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **ShowComments**
+ _expression_. 'ShowComments'
 
  _expression_ An expression that returns a **[View](Word.View.md)** object.
 

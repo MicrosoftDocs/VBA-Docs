@@ -18,7 +18,7 @@ Returns or sets the maximum value on the value axis. Read/write  **Double** .
 
 ## Syntax
 
- _expression_ . **MaximumScale**
+ _expression_. 'MaximumScale'
 
  _expression_ A variable that represents an **Axis** object.
 

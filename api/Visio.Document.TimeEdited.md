@@ -18,7 +18,7 @@ Returns the date and time the document was last edited. Read-only.
 
 ## Syntax
 
- _expression_ . **TimeEdited**
+ _expression_. 'TimeEdited'
 
  _expression_ A variable that represents a **Document** object.
 

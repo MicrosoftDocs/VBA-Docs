@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the property on the control that t
 
 ## Syntax
 
- _expression_ . **ControlProperty**
+ _expression_. 'ControlProperty'
 
  _expression_ A variable that represents an **OlkControl** object.
 

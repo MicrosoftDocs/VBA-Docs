@@ -18,7 +18,7 @@ Returns or sets the 24-bit color of the inside borders. Read/write.
 
 ## Syntax
 
- _expression_ . **InsideColor**
+ _expression_. 'InsideColor'
 
  _expression_ Required. A variable that represents a **[Borders](Word.borders.md)** collection.
 

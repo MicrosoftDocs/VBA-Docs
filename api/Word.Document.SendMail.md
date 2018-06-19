@@ -18,7 +18,7 @@ Opens a message window for sending the specified document through Microsoft Exch
 
 ## Syntax
 
- _expression_ . **SendMail**
+ _expression_. 'SendMail'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

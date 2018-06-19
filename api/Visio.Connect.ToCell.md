@@ -18,7 +18,7 @@ Gets the cell to which a connection is made. Read-only.
 
 ## Syntax
 
- _expression_ . **ToCell**
+ _expression_. 'ToCell'
 
  _expression_ A variable that represents a **Connect** object.
 

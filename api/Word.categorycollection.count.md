@@ -16,7 +16,7 @@ Returns a  **Long** that represents the number of categories in the collection. 
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **[CategoryCollection](Word.categorycollection.md)** object.
 

@@ -18,7 +18,7 @@ Returns the  **[QueryTable](Excel.QueryTable.md)** object that provides a link f
 
 ## Syntax
 
- _expression_ . **QueryTable**
+ _expression_. 'QueryTable'
 
  _expression_ A variable that represents a **ListObject** object.
 

@@ -18,7 +18,7 @@ Returns a  **[TimeZones](Outlook.TimeZones.md)** collection that represents the 
 
 ## Syntax
 
- _expression_ . **TimeZones**
+ _expression_. 'TimeZones'
 
  _expression_ A variable that represents an **Application** object.
 

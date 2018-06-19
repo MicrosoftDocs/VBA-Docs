@@ -18,7 +18,7 @@ Returns or sets the magnification for a window as a percentage. Read/write  **Lo
 
 ## Syntax
 
- _expression_ . **Percentage**
+ _expression_. 'Percentage'
 
  _expression_ An expression that returns a **[Zoom](Word.Zoom.md)** object.
 

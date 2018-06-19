@@ -18,7 +18,7 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant representing the vi
 
 ## Syntax
 
- _expression_ . **ViewType**
+ _expression_. 'ViewType'
 
  _expression_ An expression that returns a **View** object.
 

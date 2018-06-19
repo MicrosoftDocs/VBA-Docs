@@ -18,7 +18,7 @@ Requests that an OLE object perform one of its available verbs ? the actions an 
 
 ## Syntax
 
- _expression_ . **DoVerb**( **_VerbIndex_** )
+ _expression_. 'DoVerb'( '_VerbIndex_' )
 
  _expression_ Required. A variable that represents an **[OLEFormat](Word.OLEFormat.md)** object.
 

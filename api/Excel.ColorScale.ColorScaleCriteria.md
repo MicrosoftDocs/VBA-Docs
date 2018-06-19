@@ -18,7 +18,7 @@ Returns a  **[ColorScaleCriteria](Excel.ColorScaleCriteria.md)** object, which i
 
 ## Syntax
 
- _expression_ . **ColorScaleCriteria**
+ _expression_. 'ColorScaleCriteria'
 
  _expression_ A variable that represents a **ColorScale** object.
 

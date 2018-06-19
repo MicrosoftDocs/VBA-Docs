@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that determines if empty fields are display
 
 ## Syntax
 
- _expression_ . **ShowEmptyFields**
+ _expression_. 'ShowEmptyFields'
 
  _expression_ A variable that represents a **CardView** object.
 

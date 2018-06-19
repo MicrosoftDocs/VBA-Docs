@@ -18,7 +18,7 @@ Returns a base ID for a master. Read-only.
 
 ## Syntax
 
- _expression_ . **BaseID**
+ _expression_. 'BaseID'
 
  _expression_ A variable that represents a **Master** object.
 

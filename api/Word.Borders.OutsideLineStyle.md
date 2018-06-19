@@ -18,7 +18,7 @@ Returns or sets the outside border for the specified object. .
 
 ## Syntax
 
- _expression_ . **OutsideLineStyle**
+ _expression_. 'OutsideLineStyle'
 
  _expression_ Required. A variable that represents a **[Borders](Word.borders.md)** collection.
 

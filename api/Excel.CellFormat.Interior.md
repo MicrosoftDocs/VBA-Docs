@@ -18,7 +18,7 @@ Returns an  **[Interior](Excel.Interior(objec).md)** object allowing the user to
 
 ## Syntax
 
- _expression_ . **Interior**
+ _expression_. 'Interior'
 
  _expression_ A variable that represents a **CellFormat** object.
 

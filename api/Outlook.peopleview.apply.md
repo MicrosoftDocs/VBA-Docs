@@ -19,7 +19,7 @@ Version Added: Outlook 2013
 
 ## Syntax
 
- _expression_ . **Apply**
+ _expression_. 'Apply'
 
  _expression_ A variable that represents a **PeopleView** object.
 

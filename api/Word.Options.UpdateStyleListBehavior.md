@@ -18,7 +18,7 @@ Returns or sets a [WdUpdateStyleListBehavior](Word.WdUpdateStyleListBehavior.md)
 
 ## Syntax
 
- _expression_ . **UpdateStyleListBehavior**
+ _expression_. 'UpdateStyleListBehavior'
 
  _expression_ An expression that returns a **[Options](Word.Options.md)** object.
 

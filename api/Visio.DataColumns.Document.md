@@ -21,7 +21,7 @@ Gets the  **Document** object that contains the **DataColumns** collection. Read
 
 ## Syntax
 
- _expression_ . **Document**
+ _expression_. 'Document'
 
  _expression_ An expression that returns a **DataColumns** object.
 

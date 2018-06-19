@@ -18,7 +18,7 @@ Returns or sets the code page, or character set, that Microsoft Word uses for a 
 
 ## Syntax
 
- _expression_ . **TextEncoding**
+ _expression_. 'TextEncoding'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

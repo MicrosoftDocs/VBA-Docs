@@ -16,7 +16,7 @@ Returns a  **Long** value that represents the number of[Series Object (Excel)](s
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a[FullSeriesCollection Object (Excel)](fullseriescollection-object-excel.md)object.
 

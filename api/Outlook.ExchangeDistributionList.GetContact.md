@@ -18,7 +18,7 @@ Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistribu
 
 ## Syntax
 
- _expression_ . **GetContact**
+ _expression_. 'GetContact'
 
  _expression_ A variable that represents an **ExchangeDistributionList** object.
 

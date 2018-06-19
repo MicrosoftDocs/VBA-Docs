@@ -16,7 +16,7 @@ Converts text to number in a locale-independent manner.
 
 ## Syntax
 
- _expression_ . **NumberValue**_(Arg1,_ _Arg2,_ _Arg3)_
+ _expression_. 'NumberValue'_(Arg1,_ _Arg2,_ _Arg3)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

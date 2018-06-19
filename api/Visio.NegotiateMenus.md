@@ -18,7 +18,7 @@ Determines whether Microsoft Visio menus are merged with those of the host appli
 
 ## Syntax
 
- _expression_ . **NegotiateMenus**
+ _expression_. 'NegotiateMenus'
 
  _expression_ A variable that represents a **DrawingControl** object.
 

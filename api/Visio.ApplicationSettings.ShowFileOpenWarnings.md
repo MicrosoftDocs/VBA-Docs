@@ -18,7 +18,7 @@ Determines if warning messages appear when the user attempts to open files in XM
 
 ## Syntax
 
- _expression_ . **ShowFileOpenWarnings**
+ _expression_. 'ShowFileOpenWarnings'
 
  _expression_ A variable that represents an **ApplicationSettings** object.
 

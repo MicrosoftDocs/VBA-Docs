@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the position, measured in points, 
 
 ## Syntax
 
- _expression_ . **SenderNamefromLeft**
+ _expression_. 'SenderNamefromLeft'
 
  _expression_ An expression that returns an **[Envelope](Word.Envelope.md)** object.
 

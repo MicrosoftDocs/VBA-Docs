@@ -18,7 +18,7 @@ Returns or sets an  **[olMatchEntry](Outlook.OlMatchEntry.md)** constant that in
 
 ## Syntax
 
- _expression_ . **MatchEntry**
+ _expression_. 'MatchEntry'
 
  _expression_ A variable that represents an **OlkListBox** object.
 

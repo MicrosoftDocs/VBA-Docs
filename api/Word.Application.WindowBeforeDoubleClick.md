@@ -18,7 +18,7 @@ Occurs when the editing area of a document window is double-clicked, before the 
 
 ## Syntax
 
- _expression_ . **Private Sub object_WindowBeforeDoubleClick**( **_ByVal Sel As Selection_** , **_Cancel As Boolean_** )
+ _expression_. 'Private Sub object_WindowBeforeDoubleClick'( '_ByVal Sel As Selection_' , '_Cancel As Boolean_' )
 
  _expression_ A variable that represents an **[Application](Word.Application.md)** object that has been declared with events in a class module. For more information about using events with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
 

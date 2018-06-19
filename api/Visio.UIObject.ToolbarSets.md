@@ -18,7 +18,7 @@ Returns the  **ToolbarSets** collection of a **UIObject** object. Read-only.
 
 ## Syntax
 
- _expression_ . **ToolbarSets**
+ _expression_. 'ToolbarSets'
 
  _expression_ A variable that represents a **UIObject** object.
 

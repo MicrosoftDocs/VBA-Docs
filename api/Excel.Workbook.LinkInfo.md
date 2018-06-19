@@ -18,7 +18,7 @@ Returns the link date and update status.
 
 ## Syntax
 
- _expression_ . **LinkInfo**( **_Name_** , **_LinkInfo_** , **_Type_** , **_EditionRef_** )
+ _expression_. 'LinkInfo'( '_Name_' , '_LinkInfo_' , '_Type_' , '_EditionRef_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

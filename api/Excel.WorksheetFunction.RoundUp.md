@@ -18,7 +18,7 @@ Rounds a number up, away from 0 (zero).
 
 ## Syntax
 
- _expression_ . **RoundUp**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'RoundUp'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

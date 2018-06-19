@@ -18,7 +18,7 @@ Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that determ
 
 ## Syntax
 
- _expression_ . **InitialAddressList**
+ _expression_. 'InitialAddressList'
 
  _expression_ A variable that represents a **SelectNamesDialog** object.
 

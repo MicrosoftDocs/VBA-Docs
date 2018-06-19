@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the subcategory assigned to the form 
 
 ## Syntax
 
- _expression_ . **CategorySub**
+ _expression_. 'CategorySub'
 
  _expression_ A variable that represents a **FormDescription** object.
 

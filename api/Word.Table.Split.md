@@ -18,7 +18,7 @@ Inserts an empty paragraph immediately above the specified row in the table, and
 
 ## Syntax
 
- _expression_ . **Split**( **_BeforeRow_** )
+ _expression_. 'Split'( '_BeforeRow_' )
 
  _expression_ Required. A variable that represents a **[Table](Word.Table.md)** object.
 

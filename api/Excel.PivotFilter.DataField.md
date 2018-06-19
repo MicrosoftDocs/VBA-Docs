@@ -18,7 +18,7 @@ This property is applicable only to non-OLAP PivotTables and provides the  **Val
 
 ## Syntax
 
- _expression_ . **DataField**
+ _expression_. 'DataField'
 
  _expression_ A variable that represents a **PivotFilter** object.
 

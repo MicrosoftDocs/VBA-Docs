@@ -18,7 +18,7 @@ Returns a  **Long** indicating the size (in bytes) of the **[SharingItem](Outloo
 
 ## Syntax
 
- _expression_ . **Size**
+ _expression_. 'Size'
 
  _expression_ A variable that represents a **SharingItem** object.
 

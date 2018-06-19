@@ -18,7 +18,7 @@ Returns or sets a  **String** indicating the source data file for an OLE DB conn
 
 ## Syntax
 
- _expression_ . **SourceDataFile**
+ _expression_. 'SourceDataFile'
 
  _expression_ A variable that represents an **OLEDBConnection** object.
 

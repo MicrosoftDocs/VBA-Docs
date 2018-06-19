@@ -18,7 +18,7 @@ Returns the window number. For example, a window named "Book1.xls:2" has 2 as it
 
 ## Syntax
 
- _expression_ . **WindowNumber**
+ _expression_. 'WindowNumber'
 
  _expression_ A variable that represents a **Window** object.
 

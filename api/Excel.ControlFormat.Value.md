@@ -18,7 +18,7 @@ Returns or sets a  **Long** value that represents the name of specified control 
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents a **ControlFormat** object.
 

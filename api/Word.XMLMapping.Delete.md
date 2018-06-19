@@ -18,7 +18,7 @@ Deletes the XML mapping from the parent content control.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ An expression that returns an **[XMLMapping](Word.XMLMapping.md)** object.
 

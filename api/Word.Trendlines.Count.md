@@ -18,7 +18,7 @@ Returns the number of objects in the collection. Read-only  **Long** .
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **[Trendlines](Word.Trendlines.md)** object.
 

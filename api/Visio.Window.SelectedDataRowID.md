@@ -21,7 +21,7 @@ Gets or sets the ID of the data row that is selected (or that is the primary row
 
 ## Syntax
 
- _expression_ . **SelectedDataRowID**
+ _expression_. 'SelectedDataRowID'
 
  _expression_ An expression that returns a **Window** object.
 

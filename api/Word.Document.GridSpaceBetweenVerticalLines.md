@@ -18,7 +18,7 @@ Returns or sets the interval at which Microsoft Word displays vertical character
 
 ## Syntax
 
- _expression_ . **GridSpaceBetweenVerticalLines**
+ _expression_. 'GridSpaceBetweenVerticalLines'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

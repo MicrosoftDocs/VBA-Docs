@@ -18,7 +18,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 
 ## Syntax
 
- _expression_ . **Export**( **_Url_** , **_Overwrite_** )
+ _expression_. 'Export'( '_Url_' , '_Overwrite_' )
 
  _expression_ An expression that returns an **XmlMap** object.
 

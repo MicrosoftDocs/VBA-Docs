@@ -18,7 +18,7 @@ Returns a  **[ListRows](Excel.ListRows.md)** object that represents all the rows
 
 ## Syntax
 
- _expression_ . **ListRows**
+ _expression_. 'ListRows'
 
  _expression_ A variable that represents a **ListObject** object.
 

@@ -16,7 +16,7 @@ Returns a value number shifted right by shift_amount bits.
 
 ## Syntax
 
- _expression_ . **Bitrshift**_(Arg1,_ _Arg2)_
+ _expression_. 'Bitrshift'_(Arg1,_ _Arg2)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

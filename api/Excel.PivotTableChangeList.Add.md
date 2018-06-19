@@ -18,7 +18,7 @@ Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[Pivot
 
 ## Syntax
 
- _expression_ . **Add**( **_Tuple_** , **_Value_** , **_AllocationValue_** , **_AllocationMethod_** , **_AllocationWeightExpression_** )
+ _expression_. 'Add'( '_Tuple_' , '_Value_' , '_AllocationValue_' , '_AllocationMethod_' , '_AllocationWeightExpression_' )
 
  _expression_ A variable that represents a **[PivotTableChangeList](Excel.PivotTableChangeList.md)** object.
 

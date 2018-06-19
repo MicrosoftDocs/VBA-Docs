@@ -16,7 +16,7 @@ Returns all the visible categories in the chart group, or the specified visible 
 
 ## Syntax
 
- _expression_ . **CategoryCollection**_(Index)_
+ _expression_. 'CategoryCollection'_(Index)_
 
  _expression_ A variable that represents a **ChartGroup** object.
 

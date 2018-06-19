@@ -18,7 +18,7 @@ Returns or sets a value that represents the distance, in points, from the left e
 
 ## Syntax
 
- _expression_ . **Left**
+ _expression_. 'Left'
 
  _expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 

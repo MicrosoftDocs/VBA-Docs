@@ -18,7 +18,7 @@ Removes an object from the collection.
 
 ## Syntax
 
- _expression_ . **Remove** **_Index_**
+ _expression_. 'Remove' '_Index_'
 
  _expression_ A variable that represents a **Views** object.
 

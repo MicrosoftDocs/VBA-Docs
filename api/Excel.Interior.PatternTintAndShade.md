@@ -18,7 +18,7 @@ Returns or sets a tint and shade pattern for an  **Interior** object. Read/write
 
 ## Syntax
 
- _expression_ . **PatternTintAndShade**
+ _expression_. 'PatternTintAndShade'
 
  _expression_ A variable that represents an **Interior** object.
 

@@ -18,7 +18,7 @@ Returns the custom subtotal function field setting of a  **PivotCell** object. R
 
 ## Syntax
 
- _expression_ . **CustomSubtotalFunction**
+ _expression_. 'CustomSubtotalFunction'
 
  _expression_ A variable that represents a **PivotCell** object.
 

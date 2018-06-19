@@ -18,7 +18,7 @@ Returns the row index of a hyperlink. Read-only.
 
 ## Syntax
 
- _expression_ . **Row**
+ _expression_. 'Row'
 
  _expression_ A variable that represents a **Hyperlink** object.
 

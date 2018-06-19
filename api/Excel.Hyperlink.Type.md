@@ -18,7 +18,7 @@ Returns a  **Long** value, containing a **[MsoHyperlinkType](http://msdn.microso
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents a **Hyperlink** object.
 

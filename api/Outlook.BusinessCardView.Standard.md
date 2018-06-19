@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates whether the **[BusinessCardView](Out
 
 ## Syntax
 
- _expression_ . **Standard**
+ _expression_. 'Standard'
 
  _expression_ An expression that returns a **BusinessCardView** object.
 

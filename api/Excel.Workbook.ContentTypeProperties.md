@@ -18,7 +18,7 @@ Returns a  **[MetaProperties](http://msdn.microsoft.com/library/957a6e06-3348-b1
 
 ## Syntax
 
- _expression_ . **ContentTypeProperties**
+ _expression_. 'ContentTypeProperties'
 
  _expression_ A variable that represents a **Workbook** object.
 

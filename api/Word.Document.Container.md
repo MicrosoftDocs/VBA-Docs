@@ -18,7 +18,7 @@ Returns the object that represents the container application for the specified d
 
 ## Syntax
 
- _expression_ . **Container**
+ _expression_. 'Container'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

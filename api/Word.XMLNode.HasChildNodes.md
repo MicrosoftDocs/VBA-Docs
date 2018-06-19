@@ -18,7 +18,7 @@ Returns a  **Boolean** that represents whether an XML node has child nodes. Read
 
 ## Syntax
 
- _expression_ . **HasChildNodes**
+ _expression_. 'HasChildNodes'
 
  _expression_ An expression that returns an **XMLNode** object.
 

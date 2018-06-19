@@ -18,7 +18,7 @@ Returns or sets the font used for Latin text (characters with character codes fr
 
 ## Syntax
 
- _expression_ . **NameAscii**
+ _expression_. 'NameAscii'
 
  _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 

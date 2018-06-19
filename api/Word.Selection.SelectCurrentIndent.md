@@ -18,7 +18,7 @@ Extends the selection forward until text with different left or right paragraph 
 
 ## Syntax
 
- _expression_ . **SelectCurrentIndent**
+ _expression_. 'SelectCurrentIndent'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

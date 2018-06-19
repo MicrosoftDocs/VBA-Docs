@@ -18,7 +18,7 @@ Returns or sets an  **[XlUpdateLink](Excel.XlUpdateLinks.md)** constant indicati
 
 ## Syntax
 
- _expression_ . **UpdateLinks**
+ _expression_. 'UpdateLinks'
 
  _expression_ A variable that represents a **Workbook** object.
 

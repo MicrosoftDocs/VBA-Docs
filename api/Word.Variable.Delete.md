@@ -18,7 +18,7 @@ Deletes the specified variable.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ Required. A variable that represents a **[Variable](Word.Variable.md)** object.
 

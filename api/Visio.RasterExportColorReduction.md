@@ -18,7 +18,7 @@ Determines the color reduction that is applied to the exported image when you ca
 
 ## Syntax
 
- _expression_ . **RasterExportColorReduction**
+ _expression_. 'RasterExportColorReduction'
 
  _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
 

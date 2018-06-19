@@ -18,7 +18,7 @@ Returns a  **Boolean** that specifies whether or not the view is a built-in Outl
 
 ## Syntax
 
- _expression_ . **Standard**
+ _expression_. 'Standard'
 
  _expression_ A variable that represents a **View** object.
 

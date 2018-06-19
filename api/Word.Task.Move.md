@@ -18,7 +18,7 @@ Positions a task window.
 
 ## Syntax
 
- _expression_ . **Move**( **_Left_** , **_Top_** )
+ _expression_. 'Move'( '_Left_' , '_Top_' )
 
  _expression_ Required. A variable that represents a **[Task](Word.Task.md)** object.
 

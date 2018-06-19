@@ -18,7 +18,7 @@ Returns or sets a  **Date** that represents the inclusive start date of the rang
 
 ## Syntax
 
- _expression_ . **StartDate**
+ _expression_. 'StartDate'
 
  _expression_ An expression that returns a **CalendarSharing** object.
 

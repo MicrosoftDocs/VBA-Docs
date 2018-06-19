@@ -18,7 +18,7 @@ Returns a  **[SlicerItem](Excel.SlicerItem.md)** object from a collection. Read-
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **[SlicerItems](Excel.SlicerItems.md)** object.
 

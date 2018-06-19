@@ -18,7 +18,7 @@ Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeUser](Ou
 
 ## Syntax
 
- _expression_ . **GetExchangeDistributionList**
+ _expression_. 'GetExchangeDistributionList'
 
  _expression_ A variable that represents an **ExchangeUser** object.
 

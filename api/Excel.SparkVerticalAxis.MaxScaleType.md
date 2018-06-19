@@ -18,7 +18,7 @@ Returns or sets how the maximum value of the vertical axis of the sparkline is s
 
 ## Syntax
 
- _expression_ . **MaxScaleType**
+ _expression_. 'MaxScaleType'
 
  _expression_ A variable that represents a **[SparkVerticalAxis](Excel.SparkVerticalAxis.md)** object.
 

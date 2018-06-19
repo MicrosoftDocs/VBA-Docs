@@ -18,7 +18,7 @@ Returns or sets a  **[MsoShapeType](http://msdn.microsoft.com/library/21ab1915-9
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents a **Shape** object.
 

@@ -18,7 +18,7 @@ Returns or sets the vertical position of the active document. Read/write  **Long
 
 ## Syntax
 
- _expression_ . **Top**
+ _expression_. 'Top'
 
  _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object.
 

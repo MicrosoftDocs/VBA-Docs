@@ -18,7 +18,7 @@ Creates a reply, pre-addressed to the original sender, from the original message
 
 ## Syntax
 
- _expression_ . **Reply**
+ _expression_. 'Reply'
 
  _expression_ A variable that represents a **MailItem** object.
 

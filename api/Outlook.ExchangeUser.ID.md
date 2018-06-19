@@ -18,7 +18,7 @@ Returns a  **String** representing the unique identifier for the **[ExchangeUser
 
 ## Syntax
 
- _expression_ . **ID**
+ _expression_. 'ID'
 
  _expression_ A variable that represents an **ExchangeUser** object.
 

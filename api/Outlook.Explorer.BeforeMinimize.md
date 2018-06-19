@@ -18,7 +18,7 @@ Occurs when the active explorer is minimized by the user.
 
 ## Syntax
 
- _expression_ . **BeforeMinimize**( **_Cancel_** )
+ _expression_. 'BeforeMinimize'( '_Cancel_' )
 
  _expression_ A variable that represents an **Explorer** object.
 

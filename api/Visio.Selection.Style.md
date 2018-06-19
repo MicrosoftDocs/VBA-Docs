@@ -18,7 +18,7 @@ Gets or sets the style for a  **Selection** object. Read/write.
 
 ## Syntax
 
- _expression_ . **Style**
+ _expression_. 'Style'
 
  _expression_ A variable that represents a **Selection** object.
 

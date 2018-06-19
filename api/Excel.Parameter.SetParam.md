@@ -18,7 +18,7 @@ Defines a parameter for the specified query table.
 
 ## Syntax
 
- _expression_ . **SetParam**( **_Type_** , **_Value_** )
+ _expression_. 'SetParam'( '_Type_' , '_Value_' )
 
  _expression_ A variable that represents a **Parameter** object.
 

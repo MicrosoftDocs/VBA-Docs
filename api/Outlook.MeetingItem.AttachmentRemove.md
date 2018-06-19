@@ -15,7 +15,7 @@ Occurs when an attachment has been removed from an instance of the parent object
 
 ## Syntax
 
- _expression_ . **AttachmentRemove**( **_Attachment_** )
+ _expression_. 'AttachmentRemove'( '_Attachment_' )
 
  _expression_ A variable that represents a **MeetingItem** object.
 

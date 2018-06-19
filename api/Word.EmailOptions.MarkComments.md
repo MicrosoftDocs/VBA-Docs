@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **MarkComments**
+ _expression_. 'MarkComments'
 
  _expression_ An expression that returns an **[EmailOptions](Word.EmailOptions.md)** object.
 

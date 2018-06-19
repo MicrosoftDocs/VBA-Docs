@@ -18,7 +18,7 @@ Returns a  **[MsoFillType](http://msdn.microsoft.com/library/43dd4aa6-40bc-e798-
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents a **FillFormat** object.
 

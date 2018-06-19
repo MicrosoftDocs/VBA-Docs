@@ -18,7 +18,7 @@ Returns an  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object from the coll
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents an **AutoFormatRules** object.
 

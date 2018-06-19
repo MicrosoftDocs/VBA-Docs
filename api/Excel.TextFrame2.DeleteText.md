@@ -15,7 +15,7 @@ Deletes the text from a text frame and all the associated text properties.
 
 ## Syntax
 
- _expression_ . **DeleteText**
+ _expression_. 'DeleteText'
 
  _expression_ A variable that represents a **TextFrame2** object.
 

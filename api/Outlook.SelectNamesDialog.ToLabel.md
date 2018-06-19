@@ -18,7 +18,7 @@ Returns or sets a  **String** for the text that appears on the **To** command bu
 
 ## Syntax
 
- _expression_ . **ToLabel**
+ _expression_. 'ToLabel'
 
  _expression_ A variable that represents a **SelectNamesDialog** object.
 

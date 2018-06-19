@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **VerticalFlip**
+ _expression_. 'VerticalFlip'
 
  _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 

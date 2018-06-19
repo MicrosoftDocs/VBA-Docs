@@ -18,7 +18,7 @@ Returms or sets if conditional formats will will occur automatically as needed. 
 
 ## Syntax
 
- _expression_ . **EnableFormatConditionsCalculation**
+ _expression_. 'EnableFormatConditionsCalculation'
 
  _expression_ A variable that represents a **Worksheet** object.
 

@@ -18,7 +18,7 @@ Returns or sets the number style for the footnotes. Read/write  **WdNoteNumberSt
 
 ## Syntax
 
- _expression_ . **NumberStyle**
+ _expression_. 'NumberStyle'
 
  _expression_ Required. A variable that represents a **[Footnotes](Word.footnotes.md)** collection.
 

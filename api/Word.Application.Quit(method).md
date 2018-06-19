@@ -18,7 +18,7 @@ Quits Microsoft Word and optionally saves or routes the open documents.
 
 ## Syntax
 
- _expression_ . **Quit**( **_SaveChanges_** , **_Format_** , **_RouteDocument_** )
+ _expression_. 'Quit'( '_SaveChanges_' , '_Format_' , '_RouteDocument_' )
 
  _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object.
 

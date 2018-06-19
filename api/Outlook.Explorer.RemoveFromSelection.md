@@ -18,7 +18,7 @@ Cancels the selection of the specified Microsoft Outlook item in the active expl
 
 ## Syntax
 
- _expression_ . **RemoveFromSelection**( **_Item_** )
+ _expression_. 'RemoveFromSelection'( '_Item_' )
 
  _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 

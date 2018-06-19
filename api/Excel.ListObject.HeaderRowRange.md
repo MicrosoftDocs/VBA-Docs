@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range o
 
 ## Syntax
 
- _expression_ . **HeaderRowRange**
+ _expression_. 'HeaderRowRange'
 
  _expression_ A variable that represents a **ListObject** object.
 

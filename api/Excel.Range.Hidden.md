@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value that indicates if the rows or columns are h
 
 ## Syntax
 
- _expression_ . **Hidden**
+ _expression_. 'Hidden'
 
  _expression_ A variable that represents a **Range** object.
 

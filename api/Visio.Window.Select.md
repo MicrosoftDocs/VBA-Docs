@@ -18,7 +18,7 @@ Selects or clears an object.
 
 ## Syntax
 
- _expression_ . **Select**( **_SheetObject_** , **_SelectAction_** )
+ _expression_. 'Select'( '_SheetObject_' , '_SelectAction_' )
 
  _expression_ A variable that represents a **Window** object.
 

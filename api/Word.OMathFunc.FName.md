@@ -18,7 +18,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the name of a math
 
 ## Syntax
 
- _expression_ . **FName**
+ _expression_. 'FName'
 
  _expression_ An expression that returns an **[OMathFunc](Word.OMathFunc.md)** object.
 

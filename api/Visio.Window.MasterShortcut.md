@@ -18,7 +18,7 @@ Gets the master shortcut that is displayed in a window. Read-only.
 
 ## Syntax
 
- _expression_ . **MasterShortcut**
+ _expression_. 'MasterShortcut'
 
  _expression_ A variable that represents a **Window** object.
 

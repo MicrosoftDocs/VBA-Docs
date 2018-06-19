@@ -18,7 +18,7 @@ Set to  **True** to display the **Document Actions** task pane; set to **False**
 
 ## Syntax
 
- _expression_ . **DisplayDocumentActionTaskPane**
+ _expression_. 'DisplayDocumentActionTaskPane'
 
  _expression_ A variable that represents an **Application** object.
 

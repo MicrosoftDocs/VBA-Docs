@@ -18,7 +18,7 @@ Deletes the specified cascading style sheet.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ Required. A variable that represents a **[StyleSheet](Word.StyleSheet.md)** object.
 

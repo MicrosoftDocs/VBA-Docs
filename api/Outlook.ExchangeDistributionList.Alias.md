@@ -18,7 +18,7 @@ Returns a  **String** representing the alias for the **[ExchangeDistributionList
 
 ## Syntax
 
- _expression_ . **Alias**
+ _expression_. 'Alias'
 
  _expression_ A variable that represents an **ExchangeDistributionList** object.
 

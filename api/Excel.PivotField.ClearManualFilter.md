@@ -18,7 +18,7 @@ Provides an easy way to set the  **Visible** property to **True** for all items 
 
 ## Syntax
 
- _expression_ . **ClearManualFilter**
+ _expression_. 'ClearManualFilter'
 
  _expression_ A variable that represents a **PivotField** object.
 

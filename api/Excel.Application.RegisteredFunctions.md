@@ -18,7 +18,7 @@ Returns information about functions in either dynamic-link libraries (DLLs) or c
 
 ## Syntax
 
- _expression_ . **RegisteredFunctions**( **_Index1_** , **_Index2_** )
+ _expression_. 'RegisteredFunctions'( '_Index1_' , '_Index2_' )
 
  _expression_ A variable that represents an **Application** object.
 

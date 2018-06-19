@@ -18,7 +18,7 @@ Returns the name of a document, including the drive and path. Read-only.
 
 ## Syntax
 
- _expression_ . **FullName**
+ _expression_. 'FullName'
 
  _expression_ A variable that represents a **Document** object.
 

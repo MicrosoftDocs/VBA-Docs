@@ -18,7 +18,7 @@ Creates an ActiveX control (formerly known as an OLE control). Returns the  **[I
 
 ## Syntax
 
- _expression_ . **AddOLEControl**( **_ClassType_** , **_Range_** )
+ _expression_. 'AddOLEControl'( '_ClassType_' , '_Range_' )
 
  _expression_ Required. A variable that represents an **[InlineShapes](Word.inlineshapes.md)** collection.
 

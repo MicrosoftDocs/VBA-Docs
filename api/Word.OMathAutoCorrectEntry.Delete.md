@@ -18,7 +18,7 @@ Deletes the specified equation auto correct entry.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ An expression that returns an **OMathAutoCorrectEntry** object.
 

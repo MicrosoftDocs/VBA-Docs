@@ -18,7 +18,7 @@ Gets or sets the control type of a menu, menu item, or toolbar item. Read/write.
 
 ## Syntax
 
- _expression_ . **CntrlType**
+ _expression_. 'CntrlType'
 
  _expression_ A variable that represents a **ToolbarItem** object.
 

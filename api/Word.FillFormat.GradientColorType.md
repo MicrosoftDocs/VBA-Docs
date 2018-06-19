@@ -18,7 +18,7 @@ Returns the gradient color type for the specified fill. Read-only  **MsoGradient
 
 ## Syntax
 
- _expression_ . **GradientColorType**
+ _expression_. 'GradientColorType'
 
  _expression_ An expression that represents a **[FillFormat](Word.FillFormat.md)** object.
 

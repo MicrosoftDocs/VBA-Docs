@@ -18,7 +18,7 @@ Returns the distance from the chart edge to the inside top edge of the plot area
 
 ## Syntax
 
- _expression_ . **InsideTop**
+ _expression_. 'InsideTop'
 
  _expression_ A variable that represents a **PlotArea** object.
 

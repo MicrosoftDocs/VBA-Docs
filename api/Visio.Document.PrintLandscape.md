@@ -18,7 +18,7 @@ Indicates whether a document's drawings are printed in landscape or portrait ori
 
 ## Syntax
 
- _expression_ . **PrintLandscape**
+ _expression_. 'PrintLandscape'
 
  _expression_ A variable that represents a **Document** object.
 

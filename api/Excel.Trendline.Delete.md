@@ -18,7 +18,7 @@ Deletes the object.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **Trendline** object.
 

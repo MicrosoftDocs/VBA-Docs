@@ -18,7 +18,7 @@ Returns the name of the current operating system (for example, "Windows" or "Win
 
 ## Syntax
 
- _expression_ . **OperatingSystem**
+ _expression_. 'OperatingSystem'
 
  _expression_ An expression that returns a **[System](Word.System.md)** object.
 

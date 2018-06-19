@@ -18,7 +18,7 @@ Retuns a new connection for the specified  **XMLMap** object. Read-only.
 
 ## Syntax
 
- _expression_ . **WorkbookConnection**
+ _expression_. 'WorkbookConnection'
 
  _expression_ A variable that represents a **XmlMap** object.
 

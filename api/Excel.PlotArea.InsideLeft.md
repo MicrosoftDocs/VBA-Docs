@@ -18,7 +18,7 @@ Returns the distance from the chart edge to the inside left edge of the plot are
 
 ## Syntax
 
- _expression_ . **InsideLeft**
+ _expression_. 'InsideLeft'
 
  _expression_ A variable that represents a **PlotArea** object.
 

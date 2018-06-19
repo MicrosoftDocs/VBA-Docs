@@ -13,7 +13,7 @@ Sets the quick style of the specified selection.
 
 ## Syntax
 
- _expression_ . **SetQuickStyle**_(lineMatrix,_ _fillMatrix,_ _effectsMatrix,_ _fontMatrix,_ _lineColor,_ _fillColor,_ _shadowColor,_ _fontColor)_
+ _expression_. 'SetQuickStyle'_(lineMatrix,_ _fillMatrix,_ _effectsMatrix,_ _fontMatrix,_ _lineColor,_ _fillColor,_ _shadowColor,_ _fontColor)_
 
  _expression_ A variable that represents a **Selection** object.
 

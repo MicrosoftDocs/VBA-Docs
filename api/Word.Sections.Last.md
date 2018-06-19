@@ -18,7 +18,7 @@ Returns the last item in the  **Sections** collection as a **Section** object.
 
 ## Syntax
 
- _expression_ . **Last**
+ _expression_. 'Last'
 
  _expression_ Required. A variable that represents a **[Sections](Word.sections.md)** collection.
 

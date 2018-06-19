@@ -18,7 +18,7 @@ Returns the previous column in a collection of table columns. Read-only.
 
 ## Syntax
 
- _expression_ . **Previous**
+ _expression_. 'Previous'
 
  _expression_ A variable that represents a **[Column](Word.Column.md)** object.
 

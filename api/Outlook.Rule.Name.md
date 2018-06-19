@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the name of the rule. Read/write.
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **Rule** object.
 

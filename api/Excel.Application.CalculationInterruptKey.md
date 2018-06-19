@@ -18,7 +18,7 @@ Sets or returns an  **[XlCalculationInterruptKey](Excel.XlCalculationInterruptKe
 
 ## Syntax
 
- _expression_ . **CalculationInterruptKey**
+ _expression_. 'CalculationInterruptKey'
 
  _expression_ A variable that represents an **Application** object.
 

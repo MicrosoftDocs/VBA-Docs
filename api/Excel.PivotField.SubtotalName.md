@@ -18,7 +18,7 @@ Returns or sets the text string label displayed in the subtotal column or row he
 
 ## Syntax
 
- _expression_ . **SubtotalName**
+ _expression_. 'SubtotalName'
 
  _expression_ A variable that represents a **PivotField** object.
 

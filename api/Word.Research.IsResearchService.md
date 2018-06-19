@@ -18,7 +18,7 @@ Indicates whether the GUID specified in the ServiceID parameter corresponds to a
 
 ## Syntax
 
- _expression_ . **IsResearchService**( **_ServiceID_** )
+ _expression_. 'IsResearchService'( '_ServiceID_' )
 
  _expression_ An expression that returns a **Research** object.
 

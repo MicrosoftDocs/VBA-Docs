@@ -18,7 +18,7 @@ Returns or sets the horizontal scroll position as a percentage of the document w
 
 ## Syntax
 
- _expression_ . **HorizontalPercentScrolled**
+ _expression_. 'HorizontalPercentScrolled'
 
  _expression_ A variable that represents a **[Pane](Word.Pane.md)** object.
 

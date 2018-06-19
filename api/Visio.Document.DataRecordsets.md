@@ -21,7 +21,7 @@ Returns the  **DataRecordsets** collection contained in the document. Read-only.
 
 ## Syntax
 
- _expression_ . **DataRecordsets**
+ _expression_. 'DataRecordsets'
 
  _expression_ An expression that returns a **Document** object.
 

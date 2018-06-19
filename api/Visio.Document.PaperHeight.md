@@ -18,7 +18,7 @@ Returns the height of a document's printed page. Read-only.
 
 ## Syntax
 
- _expression_ . **PaperHeight**( **_UnitsNameOrCode_** )
+ _expression_. 'PaperHeight'( '_UnitsNameOrCode_' )
 
  _expression_ A variable that represents a **Document** object.
 

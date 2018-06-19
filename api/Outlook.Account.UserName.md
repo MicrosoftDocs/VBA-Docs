@@ -18,7 +18,7 @@ Returns a  **String** representing the user name for the **[Account](Outlook.Acc
 
 ## Syntax
 
- _expression_ . **UserName**
+ _expression_. 'UserName'
 
  _expression_ A variable that represents an **Account** object.
 

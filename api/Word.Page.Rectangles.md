@@ -18,7 +18,7 @@ Returns a  **Rectangles** collection that represents a portion of text or graphi
 
 ## Syntax
 
- _expression_ . **Rectangles**
+ _expression_. 'Rectangles'
 
  _expression_ Required. A variable that represents a **[Page](Word.Page.md)** object.
 

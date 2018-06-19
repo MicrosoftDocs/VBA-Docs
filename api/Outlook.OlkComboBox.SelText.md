@@ -18,7 +18,7 @@ Returns a  **String** that represents the selected portion of the value of the c
 
 ## Syntax
 
- _expression_ . **SelText**
+ _expression_. 'SelText'
 
  _expression_ A variable that represents an **OlkComboBox** object.
 

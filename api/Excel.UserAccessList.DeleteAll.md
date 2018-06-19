@@ -18,7 +18,7 @@ Removes all users who have access to a protected range on a worksheet.
 
 ## Syntax
 
- _expression_ . **DeleteAll**
+ _expression_. 'DeleteAll'
 
  _expression_ A variable that represents a **UserAccessList** object.
 

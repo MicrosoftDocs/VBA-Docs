@@ -18,7 +18,7 @@ Returns the contents of the mail merge data field or mapped data field for the c
 
 ## Syntax
 
- _expression_ . **Value**
+ _expression_. 'Value'
 
  _expression_ Required. A variable that represents a **[MailMergeDataField](Word.MailMergeDataField.md)** object.
 

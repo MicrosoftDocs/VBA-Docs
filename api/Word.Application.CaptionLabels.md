@@ -18,7 +18,7 @@ Returns a  **[CaptionLabels](Word.captionlabels.md)** collection that represents
 
 ## Syntax
 
- _expression_ . **CaptionLabels**
+ _expression_. 'CaptionLabels'
 
  _expression_ A variable that represents an **[Application](Word.Application.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets the number of sheets that Microsoft Excel automatically inserts 
 
 ## Syntax
 
- _expression_ . **SheetsInNewWorkbook**
+ _expression_. 'SheetsInNewWorkbook'
 
  _expression_ A variable that represents an **Application** object.
 

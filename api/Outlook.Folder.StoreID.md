@@ -18,7 +18,7 @@ Returns a  **String** indicating the store ID for the folder. Read-only.
 
 ## Syntax
 
- _expression_ . **StoreID**
+ _expression_. 'StoreID'
 
  _expression_ A variable that represents a **Folder** object.
 

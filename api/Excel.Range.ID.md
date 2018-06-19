@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the identifying label for th
 
 ## Syntax
 
- _expression_ . **ID**
+ _expression_. 'ID'
 
  _expression_ A variable that represents a **Range** object.
 

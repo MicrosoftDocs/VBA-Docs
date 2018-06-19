@@ -18,7 +18,7 @@ Gets or sets the universal syntax formula for a  **Cell** object. Read/write.
 
 ## Syntax
 
- _expression_ . **FormulaU**_expression_ . **FormulaU** = stringexpression
+ _expression_. 'FormulaU' = stringexpression
 
  _expression_ A variable that represents a **Cell** object. _expression_ The new formula for the cell.
 

@@ -18,7 +18,7 @@ Returns or sets the size of the secondary section of either a pie of pie chart o
 
 ## Syntax
 
- _expression_ . **SecondPlotSize**
+ _expression_. 'SecondPlotSize'
 
  _expression_ A variable that represents a **ChartGroup** object.
 

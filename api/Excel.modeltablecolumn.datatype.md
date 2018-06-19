@@ -16,7 +16,7 @@ Returns the [XlParameterDataType Enumeration (Excel)](xlparameterdatatype-enumer
 
 ## Syntax
 
- _expression_ . **DataType**
+ _expression_. 'DataType'
 
  _expression_ A variable that represents a[ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object.
 

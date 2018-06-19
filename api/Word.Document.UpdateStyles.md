@@ -18,7 +18,7 @@ Copies all styles from the attached template into the document, overwriting any 
 
 ## Syntax
 
- _expression_ . **UpdateStyles**
+ _expression_. 'UpdateStyles'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

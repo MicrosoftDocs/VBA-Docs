@@ -18,7 +18,7 @@ Returns or sets the thread mode for the specified  **MultiThreadedCalculation** 
 
 ## Syntax
 
- _expression_ . **ThreadMode**
+ _expression_. 'ThreadMode'
 
  _expression_ A variable that represents a **MultiThreadedCalculation** object.
 

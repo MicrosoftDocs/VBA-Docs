@@ -18,7 +18,7 @@ Returns a  **String** that represents the name of the sharing context for a **[S
 
 ## Syntax
 
- _expression_ . **RemoteName**
+ _expression_. 'RemoteName'
 
  _expression_ An expression that returns a **SharingItem** object.
 

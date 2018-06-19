@@ -18,7 +18,7 @@ Removes paragraph formatting that has been applied through paragraph styles from
 
 ## Syntax
 
- _expression_ . **ClearParagraphStyle**
+ _expression_. 'ClearParagraphStyle'
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

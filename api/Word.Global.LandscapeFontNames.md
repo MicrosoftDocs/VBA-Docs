@@ -18,7 +18,7 @@ Returns a  **FontNames** object that includes the names of all the available lan
 
 ## Syntax
 
- _expression_ . **LandscapeFontNames**
+ _expression_. 'LandscapeFontNames'
 
  _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
 

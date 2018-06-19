@@ -18,7 +18,7 @@ Returns a  **DiagramNode** object that represents the first child node of a pare
 
 ## Syntax
 
- _expression_ . **FirstChild**
+ _expression_. 'FirstChild'
 
  _expression_ Required. A variable that represents a **[XMLNode](Word.XMLNode.md)** object.
 

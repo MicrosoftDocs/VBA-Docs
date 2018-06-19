@@ -18,7 +18,7 @@ Creates an equation row and adds it to a matrix and returns an  **OMathMatRow** 
 
 ## Syntax
 
- _expression_ . **Add**( **_BeforeRow_** )
+ _expression_. 'Add'( '_BeforeRow_' )
 
  _expression_ An expression that returns a **OMathMatRows** object.
 

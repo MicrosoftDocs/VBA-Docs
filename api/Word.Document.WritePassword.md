@@ -18,7 +18,7 @@ Sets a password for saving changes to the specified document. Write-only  **Stri
 
 ## Syntax
 
- _expression_ . **WritePassword**
+ _expression_. 'WritePassword'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

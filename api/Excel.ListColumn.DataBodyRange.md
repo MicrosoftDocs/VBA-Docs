@@ -18,7 +18,7 @@ Returns a  **Range** object that is the size of the data portion of a column. Re
 
 ## Syntax
 
- _expression_ . **DataBodyRange**
+ _expression_. 'DataBodyRange'
 
  _expression_ A variable that represents a **ListColumn** object.
 

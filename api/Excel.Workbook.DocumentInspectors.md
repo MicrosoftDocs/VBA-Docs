@@ -18,7 +18,7 @@ Returns a  **[DocumentInspectors](http://msdn.microsoft.com/library/8366d7cd-e01
 
 ## Syntax
 
- _expression_ . **DocumentInspectors**
+ _expression_. 'DocumentInspectors'
 
  _expression_ A variable that represents a **Workbook** object.
 

@@ -18,7 +18,7 @@ Returns or sets the location of a page break. Can be one of the following  **[Xl
 
 ## Syntax
 
- _expression_ . **PageBreak**
+ _expression_. 'PageBreak'
 
  _expression_ A variable that represents a **Range** object.
 

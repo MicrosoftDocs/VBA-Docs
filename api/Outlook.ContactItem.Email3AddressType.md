@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the address type (such as EX or SMTP)
 
 ## Syntax
 
- _expression_ . **Email3AddressType**
+ _expression_. 'Email3AddressType'
 
  _expression_ A variable that represents a **ContactItem** object.
 

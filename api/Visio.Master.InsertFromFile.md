@@ -18,7 +18,7 @@ Adds a linked or embedded object to a page, master, or group.
 
 ## Syntax
 
- _expression_ . **InsertFromFile**( **_FileName_** , **_Flags_** )
+ _expression_. 'InsertFromFile'( '_FileName_' , '_Flags_' )
 
  _expression_ A variable that represents a **Master** object.
 

@@ -18,7 +18,7 @@ Changes the validation error text displayed to a user for a specified node and f
 
 ## Syntax
 
- _expression_ . **SetValidationError**( **_Status_** , **_ErrorText_** , **_ClearedAutomatically_** )
+ _expression_. 'SetValidationError'( '_Status_' , '_ErrorText_' , '_ClearedAutomatically_' )
 
  _expression_ Required. A variable that represents a **[XMLNode](Word.XMLNode.md)** object.
 

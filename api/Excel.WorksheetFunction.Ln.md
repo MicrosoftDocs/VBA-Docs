@@ -18,7 +18,7 @@ Returns the natural logarithm of a number. Natural logarithms are based on the c
 
 ## Syntax
 
- _expression_ . **Ln**( **_Arg1_** )
+ _expression_. 'Ln'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

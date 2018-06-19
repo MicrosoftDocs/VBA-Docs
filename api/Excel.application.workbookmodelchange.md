@@ -16,7 +16,7 @@ Occurs when the data model is updated.
 
 ## Syntax
 
- _expression_ . **WorkbookModelChange**_(Wb,_ _Changes)_
+ _expression_. 'WorkbookModelChange'_(Wb,_ _Changes)_
 
  _expression_ A variable that represents a **Application** object.
 

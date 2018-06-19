@@ -18,7 +18,7 @@ Creates a new instance of the explorer window.
 
 ## Syntax
 
- _expression_ . **Add**( **_Folder_** , **_DisplayMode_** )
+ _expression_. 'Add'( '_Folder_' , '_DisplayMode_' )
 
  _expression_ A variable that represents an **Explorers** object.
 

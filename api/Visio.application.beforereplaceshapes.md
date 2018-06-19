@@ -13,7 +13,7 @@ Occurs just before a shape-replacement operation.
 
 ## Syntax
 
- _expression_ . **BeforeReplaceShapes**_(replaceShapes)_
+ _expression_. 'BeforeReplaceShapes'_(replaceShapes)_
 
  _expression_ A variable that represents a **Application** object.
 

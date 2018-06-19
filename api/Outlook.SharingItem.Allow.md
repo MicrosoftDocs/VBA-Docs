@@ -18,7 +18,7 @@ Allows a sharing request and sends a sharing response to the sender of the  **[S
 
 ## Syntax
 
- _expression_ . **Allow**
+ _expression_. 'Allow'
 
  _expression_ An expression that returns a **SharingItem** object.
 

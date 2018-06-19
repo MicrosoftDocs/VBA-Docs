@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that determines if the rule is to be applie
 
 ## Syntax
 
- _expression_ . **Enabled**
+ _expression_. 'Enabled'
 
  _expression_ A variable that represents a **Rule** object.
 

@@ -18,7 +18,7 @@ Ends side by side mode if two windows are in side by side mode. Returns a  **Boo
 
 ## Syntax
 
- _expression_ . **BreakSideBySide**
+ _expression_. 'BreakSideBySide'
 
  _expression_ Required. A variable that represents a **[Windows](Word.windows.md)** collection.
 

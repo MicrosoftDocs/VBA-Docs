@@ -18,7 +18,7 @@ Returns the  **[LanguageSettings](http://msdn.microsoft.com/library/936f7d61-87e
 
 ## Syntax
 
- _expression_ . **LanguageSettings**
+ _expression_. 'LanguageSettings'
 
  _expression_ A variable that represents an **Application** object.
 

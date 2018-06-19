@@ -18,7 +18,7 @@ Returns or sets the view type. Read/write  **[WdViewType](Word.WdViewType.md)** 
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ Required. A variable that represents a **[View](Word.View.md)** object.
 

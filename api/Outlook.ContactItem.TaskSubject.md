@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the subject of the task for 
 
 ## Syntax
 
- _expression_ . **TaskSubject**
+ _expression_. 'TaskSubject'
 
  _expression_ An expression that returns a **ContactItem** object.
 

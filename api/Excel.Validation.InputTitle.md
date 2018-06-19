@@ -18,7 +18,7 @@ Returns or sets the title of the data-validation input dialog box. Read/write  *
 
 ## Syntax
 
- _expression_ . **InputTitle**
+ _expression_. 'InputTitle'
 
  _expression_ A variable that represents a **Validation** object.
 

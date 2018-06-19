@@ -18,7 +18,7 @@ Returns a the  **Long** that represents the number of Editor objects in the coll
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents an **[Editors](Word.Editors.md)** collection.
 

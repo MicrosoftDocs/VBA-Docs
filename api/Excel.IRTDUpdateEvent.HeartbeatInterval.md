@@ -18,7 +18,7 @@ Returns or sets a  **Long** for the interval between updates for real-time data.
 
 ## Syntax
 
- _expression_ . **HeartbeatInterval**
+ _expression_. 'HeartbeatInterval'
 
  _expression_ A variable that represents an **IRTDUpdateEvent** object.
 

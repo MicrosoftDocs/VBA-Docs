@@ -18,7 +18,7 @@ Returns a  **Frameset** object that represents the parent of the specified **Fra
 
 ## Syntax
 
- _expression_ . **ParentFrameset**
+ _expression_. 'ParentFrameset'
 
  _expression_ An expression that returns a **[Frameset](Word.Frameset.md)** object.
 

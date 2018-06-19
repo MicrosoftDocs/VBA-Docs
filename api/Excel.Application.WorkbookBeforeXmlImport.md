@@ -18,7 +18,7 @@ Occurs before an existing XML data connection is refreshed, or new XML data is i
 
 ## Syntax
 
- _expression_ . **WorkbookBeforeXmlImport**( **_Wb_** , **_Map_** , **_Url_** , **_IsRefresh_** , **_Cancel_** )
+ _expression_. 'WorkbookBeforeXmlImport'( '_Wb_' , '_Map_' , '_Url_' , '_IsRefresh_' , '_Cancel_' )
 
  _expression_ A variable that represents an **Application** object.
 

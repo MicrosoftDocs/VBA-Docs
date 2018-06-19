@@ -18,7 +18,7 @@ Returns an  **HTMLDivisions** object that represents an HTML division in a Web d
 
 ## Syntax
 
- _expression_ . **HTMLDivisions**
+ _expression_. 'HTMLDivisions'
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

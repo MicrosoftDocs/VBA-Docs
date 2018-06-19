@@ -15,7 +15,7 @@ Returns the offset Y value for the specified fill. Read/write  **Single** .
 
 ## Syntax
 
- _expression_ . **TextureOffsetY**
+ _expression_. 'TextureOffsetY'
 
  _expression_ A variable that represents a **FillFormat** object.
 

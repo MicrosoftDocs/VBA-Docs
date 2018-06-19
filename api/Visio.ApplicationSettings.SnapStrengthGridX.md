@@ -18,7 +18,7 @@ Specifies the distance in pixels along the x-axis that gridlines pull when snapp
 
 ## Syntax
 
- _expression_ . **SnapStrengthGridX**
+ _expression_. 'SnapStrengthGridX'
 
  _expression_ A variable that represents a **ApplicationSettings** object.
 

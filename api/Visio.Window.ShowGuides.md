@@ -18,7 +18,7 @@ Determines whether guides are shown in a window. Read/write.
 
 ## Syntax
 
- _expression_ . **ShowGuides**
+ _expression_. 'ShowGuides'
 
  _expression_ A variable that represents a **Window** object.
 

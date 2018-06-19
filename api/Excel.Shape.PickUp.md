@@ -18,7 +18,7 @@ Copies the formatting of the specified shape. Use the  **[Apply](Excel.Shape.App
 
 ## Syntax
 
- _expression_ . **PickUp**
+ _expression_. 'PickUp'
 
  _expression_ A variable that represents a **Shape** object.
 

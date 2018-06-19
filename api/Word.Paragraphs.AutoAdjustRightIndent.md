@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **AutoAdjustRightIndent**
+ _expression_. 'AutoAdjustRightIndent'
 
  _expression_ A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
 

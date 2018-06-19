@@ -18,7 +18,7 @@ Returns a  **String** value that represents the name of the Exchange server that
 
 ## Syntax
 
- _expression_ . **ExchangeMailboxServerName**
+ _expression_. 'ExchangeMailboxServerName'
 
  _expression_ An expression that returns a **[NameSpace](Outlook.NameSpace.md)** object.
 

@@ -18,7 +18,7 @@ Returns the price per $100 face value for a Treasury bill.
 
 ## Syntax
 
- _expression_ . **TBillPrice**( **_Arg1_** , **_Arg2_** , **_Arg3_** )
+ _expression_. 'TBillPrice'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

@@ -16,7 +16,7 @@ Returns a bitwise OR of 2 numbers.
 
 ## Syntax
 
- _expression_ . **Bitor**_(Arg1,_ _Arg2)_
+ _expression_. 'Bitor'_(Arg1,_ _Arg2)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

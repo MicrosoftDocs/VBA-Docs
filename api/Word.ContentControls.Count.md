@@ -18,7 +18,7 @@ Returns the number of items in the  **ContentControls** collection. Read-only **
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **[ContentControls](Word.ContentControls.md)** object.
 

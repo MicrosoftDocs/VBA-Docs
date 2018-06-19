@@ -18,7 +18,7 @@ Occurs before a new group is added to the  **Shortcuts** pane, either as a resul
 
 ## Syntax
 
- _expression_ . **BeforeGroupAdd**( **_Cancel_** )
+ _expression_. 'BeforeGroupAdd'( '_Cancel_' )
 
  _expression_ A variable that represents an **OutlookBarGroups** object.
 

@@ -18,7 +18,7 @@ Returns a  **String** representing the city for the **[ExchangeUser](Outlook.Exc
 
 ## Syntax
 
- _expression_ . **City**
+ _expression_. 'City'
 
  _expression_ A variable that represents an **ExchangeUser** object.
 

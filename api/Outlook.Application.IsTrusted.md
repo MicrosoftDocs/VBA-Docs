@@ -18,7 +18,7 @@ Returns a  **Boolean** to indicate if an add-in or external caller is considered
 
 ## Syntax
 
- _expression_ . **IsTrusted**
+ _expression_. 'IsTrusted'
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Returns the  **[CubeFields](Excel.CubeFields.md)** collection. Each **[CubeField
 
 ## Syntax
 
- _expression_ . **CubeFields**
+ _expression_. 'CubeFields'
 
  _expression_ A variable that represents a **PivotTable** object.
 

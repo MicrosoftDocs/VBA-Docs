@@ -18,7 +18,7 @@ Creates a new view in the  **[Views](Outlook.Views.md)** collection.
 
 ## Syntax
 
- _expression_ . **Add**( **_Name_** , **_ViewType_** , **_SaveOption_** )
+ _expression_. 'Add'( '_Name_' , '_ViewType_' , '_SaveOption_' )
 
  _expression_ A variable that represents a **Views** object.
 

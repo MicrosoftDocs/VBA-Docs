@@ -18,7 +18,7 @@ Specifies to the relative horizontal position of a shape. Read/write  **[WdRelat
 
 ## Syntax
 
- _expression_ . **RelativeHorizontalPosition**
+ _expression_. 'RelativeHorizontalPosition'
 
  _expression_ An expression that represents a **[Shape](Word.Shape.md)** object.
 

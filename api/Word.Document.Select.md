@@ -18,7 +18,7 @@ Selects the contents of the specified document.
 
 ## Syntax
 
- _expression_ . **Select**
+ _expression_. 'Select'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

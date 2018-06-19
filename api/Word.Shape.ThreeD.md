@@ -18,7 +18,7 @@ Returns a  **ThreeDFormat** object that contains 3-D formatting properties for t
 
 ## Syntax
 
- _expression_ . **ThreeD**
+ _expression_. 'ThreeD'
 
  _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the relative width of a range of s
 
 ## Syntax
 
- _expression_ . **WidthRelative**
+ _expression_. 'WidthRelative'
 
  _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
 

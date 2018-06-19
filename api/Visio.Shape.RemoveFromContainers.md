@@ -18,7 +18,7 @@ Removes the shape from all lists and containers of which it is a member.
 
 ## Syntax
 
- _expression_ . **RemoveFromContainers**
+ _expression_. 'RemoveFromContainers'
 
  _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

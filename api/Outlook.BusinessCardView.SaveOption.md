@@ -18,7 +18,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
 ## Syntax
 
- _expression_ . **SaveOption**
+ _expression_. 'SaveOption'
 
  _expression_ An expression that returns a **BusinessCardView** object.
 

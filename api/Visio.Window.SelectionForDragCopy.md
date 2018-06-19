@@ -18,7 +18,7 @@ Returns the  **[Selection](Visio.Selection.md)** object that represents the coll
 
 ## Syntax
 
- _expression_ . **SelectionForDragCopy**
+ _expression_. 'SelectionForDragCopy'
 
  _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 

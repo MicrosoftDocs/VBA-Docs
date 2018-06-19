@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **AutoLength**
+ _expression_. 'AutoLength'
 
  _expression_ Required. A variable that represents a **[CalloutFormat](Word.CalloutFormat.md)** object.
 

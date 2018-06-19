@@ -18,7 +18,7 @@ Returns or sets a  **String** indicating the Japanese phonetic rendering (yomiga
 
 ## Syntax
 
- _expression_ . **YomiLastName**
+ _expression_. 'YomiLastName'
 
  _expression_ A variable that represents a **ContactItem** object.
 

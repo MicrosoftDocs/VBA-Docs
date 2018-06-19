@@ -18,7 +18,7 @@ Returns or sets the MDX weight expression to use when performing what-if analysi
 
 ## Syntax
 
- _expression_ . **AllocationWeightExpression**
+ _expression_. 'AllocationWeightExpression'
 
  _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

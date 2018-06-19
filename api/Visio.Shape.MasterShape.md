@@ -18,7 +18,7 @@ If this shape is part of a master instance, returns the shape in the master that
 
 ## Syntax
 
- _expression_ . **MasterShape**
+ _expression_. 'MasterShape'
 
  _expression_ A variable that represents a **Shape** object.
 

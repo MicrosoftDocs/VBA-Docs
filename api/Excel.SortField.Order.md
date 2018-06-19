@@ -18,7 +18,7 @@ Determines the sort order for the values specified in the key. Read/write.
 
 ## Syntax
 
- _expression_ . **Order**
+ _expression_. 'Order'
 
  _expression_ A variable that represents a **SortField** object.
 

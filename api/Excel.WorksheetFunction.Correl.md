@@ -18,7 +18,7 @@ Returns the correlation coefficient of the  _Arg1_ and _Arg2_ cell ranges.
 
 ## Syntax
 
- _expression_ . **Correl**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Correl'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value indicating if the order of icons is reverse
 
 ## Syntax
 
- _expression_ . **ReverseOrder**
+ _expression_. 'ReverseOrder'
 
  _expression_ A variable that represents an **[IconSetCondition](Excel.IconSetCondition.md)** object.
 

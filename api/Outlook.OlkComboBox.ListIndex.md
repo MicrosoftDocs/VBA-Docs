@@ -18,7 +18,7 @@ Reurns or sets a  **Long** that indicates the location of the currently selected
 
 ## Syntax
 
- _expression_ . **ListIndex**
+ _expression_. 'ListIndex'
 
  _expression_ A variable that represents an **OlkComboBox** object.
 

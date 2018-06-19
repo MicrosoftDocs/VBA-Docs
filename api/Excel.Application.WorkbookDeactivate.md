@@ -18,7 +18,7 @@ Occurs when any open workbook is deactivated.
 
 ## Syntax
 
- _expression_ . **WorkbookDeactivate**( **_Wb_** )
+ _expression_. 'WorkbookDeactivate'( '_Wb_' )
 
  _expression_ A variable that represents an **Application** object.
 

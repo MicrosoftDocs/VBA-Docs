@@ -18,7 +18,7 @@ Returns a  **[GroupShapes](Excel.GroupShapes.md)** object that represents the in
 
 ## Syntax
 
- _expression_ . **GroupItems**
+ _expression_. 'GroupItems'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

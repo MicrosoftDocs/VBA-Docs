@@ -18,7 +18,7 @@ Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTab
 
 ## Syntax
 
- _expression_ . **LocationInTable**
+ _expression_. 'LocationInTable'
 
  _expression_ A variable that represents a **Range** object.
 

@@ -18,7 +18,7 @@ Returns the type of automatic formatting that's been applied to the specified ta
 
 ## Syntax
 
- _expression_ . **AutoFormatType**
+ _expression_. 'AutoFormatType'
 
  _expression_ A variable that represents a **[Table](Word.Table.md)** object.
 

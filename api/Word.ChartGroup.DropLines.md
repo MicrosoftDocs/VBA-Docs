@@ -18,7 +18,7 @@ Returns the drop lines for a series on a line chart or area chart. Read-only  **
 
 ## Syntax
 
- _expression_ . **DropLines**
+ _expression_. 'DropLines'
 
  _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 

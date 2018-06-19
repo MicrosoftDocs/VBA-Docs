@@ -18,7 +18,7 @@ Returns a  **String** that represents the flat XML format for the Word Open XML 
 
 ## Syntax
 
- _expression_ . **WordOpenXML**
+ _expression_. 'WordOpenXML'
 
  _expression_ An expression that returns a **Document** object.
 

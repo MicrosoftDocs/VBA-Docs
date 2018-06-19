@@ -18,7 +18,7 @@ Gets or sets the height of a toolbar. Read/write.
 
 ## Syntax
 
- _expression_ . **Height**
+ _expression_. 'Height'
 
  _expression_ A variable that represents a **Toolbar** object.
 

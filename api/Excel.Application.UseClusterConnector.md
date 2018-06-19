@@ -18,7 +18,7 @@ Returns or sets whether Excel allows user-defined functions in XLL add-ins to be
 
 ## Syntax
 
- _expression_ . **UseClusterConnector**
+ _expression_. 'UseClusterConnector'
 
  _expression_ A variable that represents an **[Application](Excel.Application(objec).md)** object.
 

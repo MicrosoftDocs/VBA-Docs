@@ -16,7 +16,7 @@ Returns a  **[XlSeriesNameLevel Enumeration (Excel)](xlseriesnamelevel-enumerati
 
 ## Syntax
 
- _expression_ . **SeriesNameLevel**
+ _expression_. 'SeriesNameLevel'
 
  _expression_ A variable that represents a **Chart** object.
 

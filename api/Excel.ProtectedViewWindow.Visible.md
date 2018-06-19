@@ -18,7 +18,7 @@ Returns or sets a value that determines whether the specified  **Protected View*
 
 ## Syntax
 
- _expression_ . **Visible**
+ _expression_. 'Visible'
 
  _expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
 

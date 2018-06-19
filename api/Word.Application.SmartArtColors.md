@@ -18,7 +18,7 @@ Returns a [SmartArtColors](http://msdn.microsoft.com/library/a1929517-b1fb-c6fe-
 
 ## Syntax
 
- _expression_ . **SmartArtColors**
+ _expression_. 'SmartArtColors'
 
  _expression_ An expression that returns a **[Application](Word.Application.md)** object.
 

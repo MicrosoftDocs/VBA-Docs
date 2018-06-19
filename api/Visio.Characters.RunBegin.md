@@ -18,7 +18,7 @@ Returns the beginning index of a type of run?a sequence of characters that share
 
 ## Syntax
 
- _expression_ . **RunBegin**( **_RunType_** )
+ _expression_. 'RunBegin'( '_RunType_' )
 
  _expression_ A variable that represents a **Characters** object.
 

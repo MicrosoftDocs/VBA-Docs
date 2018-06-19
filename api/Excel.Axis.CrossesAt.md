@@ -18,7 +18,7 @@ Returns or sets the point on the value axis where the category axis crosses it. 
 
 ## Syntax
 
- _expression_ . **CrossesAt**
+ _expression_. 'CrossesAt'
 
  _expression_ A variable that represents an **Axis** object.
 

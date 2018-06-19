@@ -18,7 +18,7 @@ Returns or sets the scale factor for bubbles in the specified chart group. Can b
 
 ## Syntax
 
- _expression_ . **BubbleScale**
+ _expression_. 'BubbleScale'
 
  _expression_ A variable that represents a **ChartGroup** object.
 

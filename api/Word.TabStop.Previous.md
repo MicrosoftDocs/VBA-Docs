@@ -18,7 +18,7 @@ Returns the previous tab stop in the collection. Read-only.
 
 ## Syntax
 
- _expression_ . **Previous**
+ _expression_. 'Previous'
 
  _expression_ A variable that represents a **[TabStop](Word.TabStop.md)** object.
 

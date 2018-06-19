@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **DefaultFaceUp**
+ _expression_. 'DefaultFaceUp'
 
  _expression_ A variable that represents a **[Envelope](Word.Envelope.md)** object.
 

@@ -18,7 +18,7 @@ Closes the specified dynamic data exchange (DDE) channel to another application.
 
 ## Syntax
 
- _expression_ . **DDETerminate**( **_Channel_** )
+ _expression_. 'DDETerminate'( '_Channel_' )
 
  _expression_ A variable that represents a **[Global](Word.Global.md)** object. Optional.
 

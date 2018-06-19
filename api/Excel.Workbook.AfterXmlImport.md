@@ -18,7 +18,7 @@ Occurs after an existing XML data connection is refreshed or after new XML data 
 
 ## Syntax
 
- _expression_ . **AfterXmlImport**( **_Map_** , **_IsRefresh_** , **_Result_** )
+ _expression_. 'AfterXmlImport'( '_Map_' , '_IsRefresh_' , '_Result_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

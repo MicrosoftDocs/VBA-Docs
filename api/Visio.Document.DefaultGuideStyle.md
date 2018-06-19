@@ -18,7 +18,7 @@ Gets or sets the default guide style of a document. Read/write.
 
 ## Syntax
 
- _expression_ . **DefaultGuideStyle**
+ _expression_. 'DefaultGuideStyle'
 
  _expression_ A variable that represents a **Document** object.
 

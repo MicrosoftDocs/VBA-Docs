@@ -18,7 +18,7 @@ Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that r
 
 ## Syntax
 
- _expression_ . **ReadingOrder**
+ _expression_. 'ReadingOrder'
 
  _expression_ A variable that represents a **[DataLabel](Word.DataLabel.md)** object.
 

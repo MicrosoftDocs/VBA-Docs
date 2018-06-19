@@ -18,7 +18,7 @@ Returns or sets the mail merge main document type. Read/write  **WdMailMergeMain
 
 ## Syntax
 
- _expression_ . **MainDocumentType**
+ _expression_. 'MainDocumentType'
 
  _expression_ Required. A variable that represents a **[MailMerge](Word.MailMerge.md)** object.
 

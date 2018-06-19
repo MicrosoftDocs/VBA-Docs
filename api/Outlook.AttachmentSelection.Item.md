@@ -18,7 +18,7 @@ Returns an  **[Attachment](Outlook.Attachment.md)** object from the collection.
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ An expression that returns an **AttachmentSelection** object.
 

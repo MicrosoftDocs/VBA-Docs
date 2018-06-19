@@ -18,7 +18,7 @@ Modify the key value by which values are sorted in the field.
 
 ## Syntax
 
- _expression_ . **ModifyKey**( **_Key_** )
+ _expression_. 'ModifyKey'( '_Key_' )
 
  _expression_ A variable that represents a **SortField** object.
 

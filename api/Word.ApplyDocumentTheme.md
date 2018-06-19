@@ -18,7 +18,7 @@ Applies a document theme to a document.
 
 ## Syntax
 
- _expression_ . **ApplyDocumentTheme**( **_FileName_** )
+ _expression_. 'ApplyDocumentTheme'( '_FileName_' )
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

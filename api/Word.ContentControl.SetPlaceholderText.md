@@ -18,7 +18,7 @@ Sets the placeholder text that displays in the content control until a user ente
 
 ## Syntax
 
- _expression_ . **SetPlaceholderText**( **_BuildingBlock_** , **_Range_** , **_Text_** )
+ _expression_. 'SetPlaceholderText'( '_BuildingBlock_' , '_Range_' , '_Text_' )
 
  _expression_ An expression that returns a **ContentControl** object.
 

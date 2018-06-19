@@ -18,7 +18,7 @@ Returns the  **WebPageFonts** collection representing the set of fonts that Micr
 
 ## Syntax
 
- _expression_ . **Fonts**
+ _expression_. 'Fonts'
 
  _expression_ An expression that returns a **[DefaultWebOptions](Word.DefaultWebOptions.md)** object.
 

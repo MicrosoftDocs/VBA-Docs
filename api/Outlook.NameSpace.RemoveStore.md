@@ -18,7 +18,7 @@ Removes a Personal Folders file (.pst) from the current MAPI profile or session.
 
 ## Syntax
 
- _expression_ . **RemoveStore**( **_Folder_** )
+ _expression_. 'RemoveStore'( '_Folder_' )
 
  _expression_ A variable that represents a **NameSpace** object.
 

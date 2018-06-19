@@ -18,7 +18,7 @@ Occurs when any workbook window is activated.
 
 ## Syntax
 
- _expression_ . **WindowActivate**( **_Wb_** , **_Wn_** )
+ _expression_. 'WindowActivate'( '_Wb_' , '_Wn_' )
 
  _expression_ A variable that represents an **Application** object.
 

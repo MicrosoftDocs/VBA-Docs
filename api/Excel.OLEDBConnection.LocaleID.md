@@ -18,7 +18,7 @@ Returns or sets the locale identifier for the specified connection. Read/write
 
 ## Syntax
 
- _expression_ . **LocaleID**
+ _expression_. 'LocaleID'
 
  _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
 

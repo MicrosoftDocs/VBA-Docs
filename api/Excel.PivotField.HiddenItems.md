@@ -18,7 +18,7 @@ Returns an object that represents either a single hidden PivotTable item (a  **[
 
 ## Syntax
 
- _expression_ . **HiddenItems**( **_Index_** )
+ _expression_. 'HiddenItems'( '_Index_' )
 
  _expression_ A variable that represents a **PivotField** object.
 

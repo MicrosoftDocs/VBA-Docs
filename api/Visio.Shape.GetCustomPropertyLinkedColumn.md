@@ -21,7 +21,7 @@ Gets the name of the data column linked to the shape data (custom property) row 
 
 ## Syntax
 
- _expression_ . **GetCustomPropertyLinkedColumn**( **_DataRecordsetID_** , **_CustomPropertyIndex_** )
+ _expression_. 'GetCustomPropertyLinkedColumn'( '_DataRecordsetID_' , '_CustomPropertyIndex_' )
 
  _expression_ An expression that returns a **Shape** object.
 

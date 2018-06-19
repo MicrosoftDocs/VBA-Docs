@@ -18,7 +18,7 @@ Specifies the extensions to the  **MouseMove** event that Visio reports.
 
 ## Syntax
 
- _expression_ . **SetFilterActions**( **_filterActionStream()_** )
+ _expression_. 'SetFilterActions'( '_filterActionStream()_' )
 
  _expression_ An expression that returns a **Event** object.
 

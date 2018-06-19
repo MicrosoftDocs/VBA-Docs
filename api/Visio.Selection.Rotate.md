@@ -18,7 +18,7 @@ Rotates selected shapes either as a group or individually about their pins.
 
 ## Syntax
 
- _expression_ . **Rotate**( **_Angle_** , **_AngleUnitsNameOrCode_** , **_BlastGuards_** , **_RotationType_** , **_PinX_** , **_PinY_** , **_PinUnitsNameOrCode_** )
+ _expression_. 'Rotate'( '_Angle_' , '_AngleUnitsNameOrCode_' , '_BlastGuards_' , '_RotationType_' , '_PinX_' , '_PinY_' , '_PinUnitsNameOrCode_' )
 
  _expression_ A variable that represents a **Selection** object.
 

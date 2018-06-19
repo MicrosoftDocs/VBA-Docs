@@ -18,7 +18,7 @@ Returns or sets an  **[OlRecurrenceType](Outlook.OlRecurrenceType.md)** constant
 
 ## Syntax
 
- _expression_ . **RecurrenceType**
+ _expression_. 'RecurrenceType'
 
  _expression_ A variable that represents a **RecurrencePattern** object.
 

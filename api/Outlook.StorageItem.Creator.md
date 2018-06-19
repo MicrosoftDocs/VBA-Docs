@@ -18,7 +18,7 @@ Returns and sets the solution that created the  **[StorageItem](Outlook.StorageI
 
 ## Syntax
 
- _expression_ . **Creator**
+ _expression_. 'Creator'
 
  _expression_ A variable that represents a **StorageItem** object.
 

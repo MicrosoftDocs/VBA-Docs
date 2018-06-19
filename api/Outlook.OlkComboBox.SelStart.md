@@ -18,7 +18,7 @@ Returns or sets a  **Long** that specifies either the starting point of the sele
 
 ## Syntax
 
- _expression_ . **SelStart**
+ _expression_. 'SelStart'
 
  _expression_ A variable that represents an **OlkComboBox** object.
 

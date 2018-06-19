@@ -18,7 +18,7 @@ Deletes the properties specified in the array  _SchemaNames_ .
 
 ## Syntax
 
- _expression_ . **DeleteProperties**( **_SchemaNames_** )
+ _expression_. 'DeleteProperties'( '_SchemaNames_' )
 
  _expression_ A variable that represents a **PropertyAccessor** object.
 

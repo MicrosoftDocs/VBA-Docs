@@ -18,7 +18,7 @@ Returns a  **LinkFormat** object that represents the link options of the specifi
 
 ## Syntax
 
- _expression_ . **LinkFormat**
+ _expression_. 'LinkFormat'
 
  _expression_ A variable that represents an **[InlineShape](Word.InlineShape.md)** object.
 

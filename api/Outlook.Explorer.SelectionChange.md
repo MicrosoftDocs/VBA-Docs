@@ -18,7 +18,7 @@ Occurs when the user selects a different or additional Microsoft Outlook item pr
 
 ## Syntax
 
- _expression_ . **SelectionChange**
+ _expression_. 'SelectionChange'
 
  _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 

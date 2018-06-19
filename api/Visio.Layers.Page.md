@@ -18,7 +18,7 @@ Gets the page that contains the layers. Read-only.
 
 ## Syntax
 
- _expression_ . **Page**
+ _expression_. 'Page'
 
  _expression_ A variable that represents a **Layers** object.
 

@@ -16,7 +16,7 @@ Returns a [ModelFormatScientificNumber](Excel.modelformatscientificnumber.md) ob
 
 ## Syntax
 
- _expression_ . **ModelFormatScientificNumber**
+ _expression_. 'ModelFormatScientificNumber'
 
  _expression_ A variable that represents a **Model** object.
 

@@ -18,7 +18,7 @@ Clears the index of the conversation thread for the mail message.
 
 ## Syntax
 
- _expression_ . **ClearConversationIndex**
+ _expression_. 'ClearConversationIndex'
 
  _expression_ A variable that represents a **MailItem** object.
 

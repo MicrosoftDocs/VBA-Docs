@@ -18,7 +18,7 @@ Closes the object.
 
 ## Syntax
 
- _expression_ . **Close**( **_SaveChanges_** , **_Filename_** , **_RouteWorkbook_** )
+ _expression_. 'Close'( '_SaveChanges_' , '_Filename_' , '_RouteWorkbook_' )
 
  _expression_ A variable that represents a **Window** object.
 

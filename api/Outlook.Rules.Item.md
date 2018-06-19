@@ -18,7 +18,7 @@ Obtains a  **[Rule](Outlook.Rule.md)** object specified by _Index_ , which is ei
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **Rules** object.
 

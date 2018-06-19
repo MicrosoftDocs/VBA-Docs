@@ -18,7 +18,7 @@ Sets or returns the character used for the decimal separator as a  **String** . 
 
 ## Syntax
 
- _expression_ . **DecimalSeparator**
+ _expression_. 'DecimalSeparator'
 
  _expression_ A variable that represents an **Application** object.
 

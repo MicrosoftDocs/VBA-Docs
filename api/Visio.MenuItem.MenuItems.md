@@ -18,7 +18,7 @@ Returns the  **MenuItems** collection of a **MenuItem** object. Read-only.
 
 ## Syntax
 
- _expression_ . **MenuItems**
+ _expression_. 'MenuItems'
 
  _expression_ A variable that represents a **MenuItem** object.
 

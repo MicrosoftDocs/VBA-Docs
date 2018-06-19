@@ -18,7 +18,7 @@ Determines whether large toolbar buttons are shown. Read/write.
 
 ## Syntax
 
- _expression_ . **LargeButtons**
+ _expression_. 'LargeButtons'
 
  _expression_ A variable that represents a **UIObject** object.
 

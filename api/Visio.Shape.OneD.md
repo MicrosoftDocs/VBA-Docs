@@ -18,7 +18,7 @@ Determines whether an object behaves as a one-dimensional (1-D) object. Read-onl
 
 ## Syntax
 
- _expression_ . **OneD**
+ _expression_. 'OneD'
 
  _expression_ A variable that represents a **Shape** object.
 

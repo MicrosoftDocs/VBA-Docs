@@ -18,7 +18,7 @@ Returns or sets the default check box value.  **True** if the default value is c
 
 ## Syntax
 
- _expression_ . **Default**
+ _expression_. 'Default'
 
  _expression_ Required. A variable that represents a **[CheckBox](Word.CheckBox.md)** object.
 

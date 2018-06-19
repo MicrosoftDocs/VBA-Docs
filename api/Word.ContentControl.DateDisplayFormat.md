@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the format in which dates are disp
 
 ## Syntax
 
- _expression_ . **DateDisplayFormat**
+ _expression_. 'DateDisplayFormat'
 
  _expression_ An expression that returns a **ContentControl** object.
 

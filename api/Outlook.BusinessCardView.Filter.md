@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the filter for a view. Read/
 
 ## Syntax
 
- _expression_ . **Filter**
+ _expression_. 'Filter'
 
  _expression_ An expression that returns a **BusinessCardView** object.
 

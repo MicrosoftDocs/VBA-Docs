@@ -18,7 +18,7 @@ Occurs when any sheet is deactivated.
 
 ## Syntax
 
- _expression_ . **SheetDeactivate**( **_Sh_** , )
+ _expression_. 'SheetDeactivate'( '_Sh_' , )
 
  _expression_ An expression that returns a **Application** object.
 

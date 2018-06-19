@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the last name for the contact. Read/w
 
 ## Syntax
 
- _expression_ . **LastName**
+ _expression_. 'LastName'
 
  _expression_ A variable that represents a **ContactItem** object.
 

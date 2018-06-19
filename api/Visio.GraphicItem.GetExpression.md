@@ -21,7 +21,7 @@ Gets the label of the shape data item (custom property) that the  **GraphicItem*
 
 ## Syntax
 
- _expression_ . **GetExpression**( **_Field_** , **_Expression_** )
+ _expression_. 'GetExpression'( '_Field_' , '_Expression_' )
 
  _expression_ An expression that returns a **GraphicItem** object.
 

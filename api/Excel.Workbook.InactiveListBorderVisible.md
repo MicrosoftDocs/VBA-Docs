@@ -18,7 +18,7 @@ A  **Boolean** value that specifies whether list borders are visible when a list
 
 ## Syntax
 
- _expression_ . **InactiveListBorderVisible**
+ _expression_. 'InactiveListBorderVisible'
 
  _expression_ A variable that represents a **Workbook** object.
 

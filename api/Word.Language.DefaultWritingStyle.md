@@ -18,7 +18,7 @@ Returns or sets the default writing style used by the grammar checker for the sp
 
 ## Syntax
 
- _expression_ . **DefaultWritingStyle**
+ _expression_. 'DefaultWritingStyle'
 
  _expression_ A variable that represents a **[Language](Word.Language.md)** object.
 

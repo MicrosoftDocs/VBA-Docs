@@ -18,7 +18,7 @@ Returns or sets the text in the specified range or selection. Read/write  **Stri
 
 ## Syntax
 
- _expression_ . **Text**
+ _expression_. 'Text'
 
  _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 

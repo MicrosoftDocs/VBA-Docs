@@ -18,7 +18,7 @@ Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that rep
 
 ## Syntax
 
- _expression_ . **GetRecurrencePattern**
+ _expression_. 'GetRecurrencePattern'
 
  _expression_ A variable that represents an **AppointmentItem** object.
 

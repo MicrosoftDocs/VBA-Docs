@@ -18,7 +18,7 @@ Returns an  **[OutlookBarShortcuts](Outlook.OutlookBarShortcuts.md)** collection
 
 ## Syntax
 
- _expression_ . **Shortcuts**
+ _expression_. 'Shortcuts'
 
  _expression_ A variable that represents an **OutlookBarGroup** object.
 

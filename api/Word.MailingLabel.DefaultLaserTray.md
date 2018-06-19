@@ -18,7 +18,7 @@ Returns or sets the default paper tray that contains sheets of mailing labels. R
 
 ## Syntax
 
- _expression_ . **DefaultLaserTray**
+ _expression_. 'DefaultLaserTray'
 
  _expression_ Required. A variable that represents a **[MailingLabel](Word.MailingLabel.md)** object.
 

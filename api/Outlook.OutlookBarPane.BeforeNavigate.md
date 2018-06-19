@@ -18,7 +18,7 @@ Occurs when the user clicks a shortcut in the  **Shortcuts** pane to navigate to
 
 ## Syntax
 
- _expression_ . **BeforeNavigate**( **_Shortcut_** , **_Cancel_** )
+ _expression_. 'BeforeNavigate'( '_Shortcut_' , '_Cancel_' )
 
  _expression_ A variable that represents an **[OutlookBarPane](Outlook.OutlookBarPane.md)** object.
 

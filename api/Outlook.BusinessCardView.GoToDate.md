@@ -18,7 +18,7 @@ Changes the date used by the current view to display information.
 
 ## Syntax
 
- _expression_ . **GoToDate**( **_Date_** )
+ _expression_. 'GoToDate'( '_Date_' )
 
  _expression_ An expression that returns a **BusinessCardView** object.
 

@@ -16,7 +16,7 @@ Returns the [PivotCell Object (Excel)](pivotcell-object-excel.md) that specifies
 
 ## Syntax
 
- _expression_ . **PivotCell**
+ _expression_. 'PivotCell'
 
  _expression_ A variable that represents a[PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
 

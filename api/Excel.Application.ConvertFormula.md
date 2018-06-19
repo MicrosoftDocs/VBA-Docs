@@ -18,7 +18,7 @@ Converts cell references in a formula between the A1 and R1C1 reference styles, 
 
 ## Syntax
 
- _expression_ . **ConvertFormula**( **_Formula_** , **_FromReferenceStyle_** , **_ToReferenceStyle_** , **_ToAbsolute_** , **_RelativeTo_** )
+ _expression_. 'ConvertFormula'( '_Formula_' , '_FromReferenceStyle_' , '_ToReferenceStyle_' , '_ToAbsolute_' , '_RelativeTo_' )
 
  _expression_ A variable that represents an **Application** object.
 

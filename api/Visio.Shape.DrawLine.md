@@ -18,7 +18,7 @@ Adds a line to the  **Shapes** collection of a group shape.
 
 ## Syntax
 
- _expression_ . **DrawLine**( **_xBegin_** , **_yBegin_** , **_xEnd_** , **_yEnd_** )
+ _expression_. 'DrawLine'( '_xBegin_' , '_yBegin_' , '_xEnd_' , '_yEnd_' )
 
  _expression_ A variable that represents a **Shape** object.
 

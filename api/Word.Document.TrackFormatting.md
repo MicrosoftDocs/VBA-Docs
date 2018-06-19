@@ -18,7 +18,7 @@ Returns or sets a ** Boolean** that represents whether to track formatting chang
 
 ## Syntax
 
- _expression_ . **TrackFormatting**
+ _expression_. 'TrackFormatting'
 
  _expression_ An expression that returns a **Document** object.
 

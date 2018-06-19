@@ -18,7 +18,7 @@ Returns a  **[Tables](Word.tables.md)** collection that represents the tables at
 
 ## Syntax
 
- _expression_ . **TopLevelTables**
+ _expression_. 'TopLevelTables'
 
  _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

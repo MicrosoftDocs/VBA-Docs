@@ -16,7 +16,7 @@ The timeline-specific state of the Slicer.  **TimelineViewState** Read-only
 
 ## Syntax
 
- _expression_ . **TimelineViewState**
+ _expression_. 'TimelineViewState'
 
  _expression_ A variable that represents a **Slicer** object.
 

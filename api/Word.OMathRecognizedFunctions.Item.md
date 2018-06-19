@@ -18,7 +18,7 @@ Returns an  **OMathRecognizedFunction** object that represents the specified ite
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ An expression that returns an **[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)** object.
 

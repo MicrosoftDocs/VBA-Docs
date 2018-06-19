@@ -16,7 +16,7 @@ Returns a [ModelColumnNames Object (Excel)](modelcolumnnames-object-excel.md) co
 
 ## Syntax
 
- _expression_ . **ColumnsDeleted**
+ _expression_. 'ColumnsDeleted'
 
  _expression_ A variable that represents a **ModelChanges** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether automatic formatting opti
 
 ## Syntax
 
- _expression_ . **AutoFormatOverride**
+ _expression_. 'AutoFormatOverride'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

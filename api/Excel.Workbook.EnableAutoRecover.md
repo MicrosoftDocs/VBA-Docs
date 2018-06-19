@@ -18,7 +18,7 @@ Saves changed files, of all formats, on a timed interval. Read/write  **Boolean*
 
 ## Syntax
 
- _expression_ . **EnableAutoRecover**
+ _expression_. 'EnableAutoRecover'
 
  _expression_ A variable that represents a **Workbook** object.
 

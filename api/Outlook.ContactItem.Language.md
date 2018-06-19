@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the language in which the contact 
 
 ## Syntax
 
- _expression_ . **Language**
+ _expression_. 'Language'
 
  _expression_ A variable that represents a **ContactItem** object.
 

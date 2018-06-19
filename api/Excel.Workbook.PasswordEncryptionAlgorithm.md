@@ -18,7 +18,7 @@ Returns a  **String** indicating the algorithm Microsoft Excel uses to encrypt p
 
 ## Syntax
 
- _expression_ . **PasswordEncryptionAlgorithm**
+ _expression_. 'PasswordEncryptionAlgorithm'
 
  _expression_ A variable that represents a **Workbook** object.
 

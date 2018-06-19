@@ -18,7 +18,7 @@ Returns the template type. Read-only  **[WdTemplateType](Word.WdTemplateType.md)
 
 ## Syntax
 
- _expression_ . **Type**
+ _expression_. 'Type'
 
  _expression_ Required. A variable that represents a **[Template](Word.Template.md)** object.
 

@@ -18,7 +18,7 @@ Shows all headings up to the specified heading level and hides subordinate headi
 
 ## Syntax
 
- _expression_ . **ShowHeading**( **_Level_** )
+ _expression_. 'ShowHeading'( '_Level_' )
 
  _expression_ Required. A variable that represents a **[View](Word.View.md)** object.
 

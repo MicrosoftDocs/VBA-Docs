@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **Vertical**
+ _expression_. 'Vertical'
 
  _expression_ Required. A variable that represents an **[Envelope](Word.Envelope.md)** object.
 

@@ -18,7 +18,7 @@ Returns a  **Long** value that specifies the number of criteria for an icon set 
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents an **IconCriteria** object.
 

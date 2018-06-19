@@ -18,7 +18,7 @@ Returns a  **String** that represents the e-mail address of the sender of the **
 
 ## Syntax
 
- _expression_ . **SenderEmailAddress**
+ _expression_. 'SenderEmailAddress'
 
  _expression_ A variable that represents a **SharingItem** object.
 

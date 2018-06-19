@@ -15,7 +15,7 @@ Occurs when an attachment in an instance of the parent object has been opened fo
 
 ## Syntax
 
- _expression_ . **AttachmentRead**( **_Attachment_** )
+ _expression_. 'AttachmentRead'( '_Attachment_' )
 
  _expression_ A variable that represents a **TaskItem** object.
 

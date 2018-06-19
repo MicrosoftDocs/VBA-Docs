@@ -18,7 +18,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Format**
+ _expression_. 'Format'
 
  _expression_ A variable that represents a **DisplayUnitLabel** object.
 

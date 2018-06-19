@@ -18,7 +18,7 @@ Returns or sets the initials of the person creating a letter with the Letter Wiz
 
 ## Syntax
 
- _expression_ . **SenderInitials**
+ _expression_. 'SenderInitials'
 
  _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
 

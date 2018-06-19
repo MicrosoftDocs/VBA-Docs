@@ -18,7 +18,7 @@ Returns an object that represents either a single field in a PivotTable report (
 
 ## Syntax
 
- _expression_ . **RowFields**( **_Index_** )
+ _expression_. 'RowFields'( '_Index_' )
 
  _expression_ A variable that represents a **PivotTable** object.
 

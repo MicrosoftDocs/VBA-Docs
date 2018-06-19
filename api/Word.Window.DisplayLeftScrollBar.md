@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **DisplayLeftScrollBar**
+ _expression_. 'DisplayLeftScrollBar'
 
  _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 

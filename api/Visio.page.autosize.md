@@ -16,7 +16,7 @@ Determines whether Microsoft Visio automatically resizes the drawing page by add
 
 ## Syntax
 
- _expression_ . **AutoSize**
+ _expression_. 'AutoSize'
 
  _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 

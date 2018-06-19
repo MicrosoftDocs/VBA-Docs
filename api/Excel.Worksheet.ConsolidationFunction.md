@@ -18,7 +18,7 @@ Returns the function code used for the current consolidation. Can be one of the 
 
 ## Syntax
 
- _expression_ . **ConsolidationFunction**
+ _expression_. 'ConsolidationFunction'
 
  _expression_ A variable that represents a **Worksheet** object.
 

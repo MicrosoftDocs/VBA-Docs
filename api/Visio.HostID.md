@@ -18,7 +18,7 @@ String representation of the GUID of the host application of the Microsoft Visio
 
 ## Syntax
 
- _expression_ . **HostID**
+ _expression_. 'HostID'
 
  _expression_ A variable that represents a **DrawingControl** object.
 

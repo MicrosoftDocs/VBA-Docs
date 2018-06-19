@@ -18,7 +18,7 @@ The  **IncludeNewItemsInFilter** property is used to track included/excluded ite
 
 ## Syntax
 
- _expression_ . **IncludeNewItemsInFilter**
+ _expression_. 'IncludeNewItemsInFilter'
 
  _expression_ A variable that represents a **CubeField** object.
 

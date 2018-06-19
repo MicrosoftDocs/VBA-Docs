@@ -18,7 +18,7 @@ Returns the membership state of the specified shape with respect to the containe
 
 ## Syntax
 
- _expression_ . **GetMemberState**( **_Shape_** )
+ _expression_. 'GetMemberState'( '_Shape_' )
 
  _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
 

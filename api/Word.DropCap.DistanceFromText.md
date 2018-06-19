@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the distance (in points) between t
 
 ## Syntax
 
- _expression_ . **DistanceFromText**
+ _expression_. 'DistanceFromText'
 
  _expression_ A variable that represents a **[DropCap](Word.DropCap.md)** object.
 

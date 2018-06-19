@@ -19,7 +19,7 @@ This property has been deprecated in Office 2016, but it remains part of the obj
 
 ## Syntax
 
- _expression_ . **DisplayDocumentInformationPanel**
+ _expression_. 'DisplayDocumentInformationPanel'
 
  _expression_ A variable that represents an **Application** object.
 

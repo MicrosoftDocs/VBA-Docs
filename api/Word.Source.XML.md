@@ -18,7 +18,7 @@ Returns a  **String** that represents the XML markup for a **Source** object. Re
 
 ## Syntax
 
- _expression_ . **XML**
+ _expression_. 'XML'
 
  _expression_ An expression that returns a **Source** object.
 

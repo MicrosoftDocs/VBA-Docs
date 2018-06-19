@@ -18,7 +18,7 @@ Double-spaces the specified paragraphs.
 
 ## Syntax
 
- _expression_ . **Space2**
+ _expression_. 'Space2'
 
  _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
 

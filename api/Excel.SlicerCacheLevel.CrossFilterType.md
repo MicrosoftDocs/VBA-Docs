@@ -18,7 +18,7 @@ Returns or sets whether a slicer is participating in cross filtering with other 
 
 ## Syntax
 
- _expression_ . **CrossFilterType**
+ _expression_. 'CrossFilterType'
 
  _expression_ A variable that represents a **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object.
 

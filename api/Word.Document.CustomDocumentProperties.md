@@ -18,7 +18,7 @@ Returns a  **DocumentProperties** collection that represents all the custom docu
 
 ## Syntax
 
- _expression_ . **CustomDocumentProperties**
+ _expression_. 'CustomDocumentProperties'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

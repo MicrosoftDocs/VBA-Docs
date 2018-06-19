@@ -18,7 +18,7 @@ Returns or sets the mode for the Arabic spelling checker. Read/write  **[XlArabi
 
 ## Syntax
 
- _expression_ . **ArabicModes**
+ _expression_. 'ArabicModes'
 
  _expression_ A variable that represents a **SpellingOptions** object.
 

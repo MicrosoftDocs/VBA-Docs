@@ -18,7 +18,7 @@ Removes a group content control from a document so that its child content contro
 
 ## Syntax
 
- _expression_ . **Ungroup**
+ _expression_. 'Ungroup'
 
  _expression_ An expression that returns a **ContentControl** object.
 

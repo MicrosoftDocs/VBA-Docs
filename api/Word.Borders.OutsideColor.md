@@ -18,7 +18,7 @@ Returns or sets the 24-bit color of the outside borders. .
 
 ## Syntax
 
- _expression_ . **OutsideColor**
+ _expression_. 'OutsideColor'
 
  _expression_ Required. A variable that represents a **[Borders](Word.borders.md)** collection.
 

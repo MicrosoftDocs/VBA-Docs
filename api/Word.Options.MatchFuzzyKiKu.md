@@ -21,7 +21,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **MatchFuzzyKiKu**
+ _expression_. 'MatchFuzzyKiKu'
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

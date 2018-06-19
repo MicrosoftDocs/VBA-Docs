@@ -18,7 +18,7 @@ Returns an array of shape identifiers (IDs) of the container shapes on the page.
 
 ## Syntax
 
- _expression_ . **GetContainers**( **_NestedOptions_** )
+ _expression_. 'GetContainers'( '_NestedOptions_' )
 
  _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 

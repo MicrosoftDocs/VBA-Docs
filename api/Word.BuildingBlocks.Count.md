@@ -15,7 +15,7 @@ Returns the number of items in the  **BuildingBlocks** collection. Read-only **L
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **[BuildingBlocks](Word.BuildingBlocks.md)** object.
 

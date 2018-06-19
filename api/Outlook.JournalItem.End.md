@@ -18,7 +18,7 @@ Returns or sets a  **Date** indicating the end date and time of a Journal entry.
 
 ## Syntax
 
- _expression_ . **End**
+ _expression_. 'End'
 
  _expression_ A variable that represents a **JournalItem** object.
 

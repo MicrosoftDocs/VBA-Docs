@@ -18,7 +18,7 @@ Returns a  **String** indicating the Multidimensional Expression (MDX) that woul
 
 ## Syntax
 
- _expression_ . **MDX**
+ _expression_. 'MDX'
 
  _expression_ A variable that represents a **PivotTable** object.
 

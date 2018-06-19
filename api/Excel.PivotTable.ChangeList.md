@@ -18,7 +18,7 @@ Returns the  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collectio
 
 ## Syntax
 
- _expression_ . **ChangeList**
+ _expression_. 'ChangeList'
 
  _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

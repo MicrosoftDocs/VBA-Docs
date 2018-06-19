@@ -18,7 +18,7 @@ Reconnects to a real-time data server (RTD).
 
 ## Syntax
 
- _expression_ . **RestartServers**
+ _expression_. 'RestartServers'
 
  _expression_ A variable that represents a **[RTD](Excel.RTD.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets the color that's applied to the foreground of the  **Shading** o
 
 ## Syntax
 
- _expression_ . **ForegroundPatternColorIndex**
+ _expression_. 'ForegroundPatternColorIndex'
 
  _expression_ Required. A variable that represents a **[Shading](Word.Shading.md)** object.
 

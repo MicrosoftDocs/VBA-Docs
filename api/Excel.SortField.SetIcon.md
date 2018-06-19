@@ -18,7 +18,7 @@ Sets an icon for a  **SortField** object.
 
 ## Syntax
 
- _expression_ . **SetIcon**( **_Icon_** )
+ _expression_. 'SetIcon'( '_Icon_' )
 
  _expression_ A variable that represents a **SortField** object.
 

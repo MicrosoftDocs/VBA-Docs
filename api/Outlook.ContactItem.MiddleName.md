@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the middle name for the contact. Read
 
 ## Syntax
 
- _expression_ . **MiddleName**
+ _expression_. 'MiddleName'
 
  _expression_ A variable that represents a **ContactItem** object.
 

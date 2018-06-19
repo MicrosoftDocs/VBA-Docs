@@ -18,7 +18,7 @@ Indicates whether a document has any unsaved changes. Read/write.
 
 ## Syntax
 
- _expression_ . **Saved**
+ _expression_. 'Saved'
 
  _expression_ A variable that represents a **Document** object.
 

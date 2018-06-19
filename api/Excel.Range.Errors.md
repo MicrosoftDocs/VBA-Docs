@@ -18,7 +18,7 @@ Allows the user to to access error checking options.
 
 ## Syntax
 
- _expression_ . **Errors**
+ _expression_. 'Errors'
 
  _expression_ A variable that represents a **Range** object.
 

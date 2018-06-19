@@ -18,7 +18,7 @@ Imports a document fragment into the document at the specified range.
 
 ## Syntax
 
- _expression_ . **ImportFragment**( **_FileName_** , **_MatchDestination_** )
+ _expression_. 'ImportFragment'( '_FileName_' , '_MatchDestination_' )
 
  _expression_ An expression that returns a **Range** object.
 

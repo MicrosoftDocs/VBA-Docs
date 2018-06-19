@@ -18,7 +18,7 @@ Returns or sets an  **MsoPresetCamera** constant that represents the bevel type 
 
 ## Syntax
 
- _expression_ . **BevelBottomType**
+ _expression_. 'BevelBottomType'
 
  _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
 

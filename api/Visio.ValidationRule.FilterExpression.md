@@ -18,7 +18,7 @@ Gets or sets the logical expression that determines whether the validation rule 
 
 ## Syntax
 
- _expression_ . **FilterExpression**
+ _expression_. 'FilterExpression'
 
  _expression_ A variable that represents a **[ValidationRule](Visio.ValidationRule.md)** object.
 

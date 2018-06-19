@@ -18,7 +18,7 @@ Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the activ
 
 ## Syntax
 
- _expression_ . **ActiveHyphenationDictionary**
+ _expression_. 'ActiveHyphenationDictionary'
 
  _expression_ A variable that represents a **[Language](Word.Language.md)** object.
 

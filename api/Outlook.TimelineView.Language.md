@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the language setting for the
 
 ## Syntax
 
- _expression_ . **Language**
+ _expression_. 'Language'
 
  _expression_ A variable that represents a **TimelineView** object.
 

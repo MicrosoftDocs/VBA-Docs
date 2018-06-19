@@ -18,7 +18,7 @@ Returns a  **[CheckBox](Word.CheckBox.md)** object that represents a check box f
 
 ## Syntax
 
- _expression_ . **CheckBox**
+ _expression_. 'CheckBox'
 
  _expression_ A variable that represents a **[FormField](Word.FormField.md)** object.
 

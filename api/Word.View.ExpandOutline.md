@@ -18,7 +18,7 @@ Expands the text under the selection by one heading level.
 
 ## Syntax
 
- _expression_ . **ExpandOutline**( **_Range_** )
+ _expression_. 'ExpandOutline'( '_Range_' )
 
  _expression_ Required. A variable that represents a **[View](Word.View.md)** object.
 

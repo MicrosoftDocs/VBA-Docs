@@ -18,7 +18,7 @@ Removes a  **[SharingItem](Outlook.SharingItem.md)** item from the folder that c
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **SharingItem** object.
 

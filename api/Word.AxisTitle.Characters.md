@@ -18,7 +18,7 @@ Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents
 
 ## Syntax
 
- _expression_ . **Characters**( **_Start_** , **_Length_** )
+ _expression_. 'Characters'( '_Start_' , '_Length_' )
 
  _expression_ A variable that represents an **[AxisTitle](Word.AxisTitle.md)** object.
 

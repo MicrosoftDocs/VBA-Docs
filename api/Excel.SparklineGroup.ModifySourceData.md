@@ -18,7 +18,7 @@ Sets the range that represents the source data for the sparkline group.
 
 ## Syntax
 
- _expression_ . **ModifySourceData**( **_SourceData_** )
+ _expression_. 'ModifySourceData'( '_SourceData_' )
 
  _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
 

@@ -18,7 +18,7 @@ Adds a picture to a contact item.
 
 ## Syntax
 
- _expression_ . **AddPicture**( **_Path_** )
+ _expression_. 'AddPicture'( '_Path_' )
 
  _expression_ A variable that represents a **ContactItem** object.
 

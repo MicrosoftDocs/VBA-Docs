@@ -18,7 +18,7 @@ Returns or sets a  **Long** value that represents the text orientation.
 
 ## Syntax
 
- _expression_ . **Orientation**
+ _expression_. 'Orientation'
 
  _expression_ A variable that represents a **TickLabels** object.
 

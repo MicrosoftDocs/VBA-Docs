@@ -18,7 +18,7 @@ Returns a  **Long** specifying the value of the calculated member's solve order 
 
 ## Syntax
 
- _expression_ . **SolveOrder**
+ _expression_. 'SolveOrder'
 
  _expression_ A variable that represents a **CalculatedMember** object.
 

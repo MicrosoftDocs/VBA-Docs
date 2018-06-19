@@ -18,7 +18,7 @@ Calculates predicted exponential growth by using existing data. GROWTH returns t
 
 ## Syntax
 
- _expression_ . **Growth**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** )
+ _expression_. 'Growth'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

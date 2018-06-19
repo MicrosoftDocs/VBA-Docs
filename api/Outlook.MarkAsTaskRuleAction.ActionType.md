@@ -18,7 +18,7 @@ Returns a constant,  **olRuleActionMarkAsTask** , from the **[OlRuleActionType](
 
 ## Syntax
 
- _expression_ . **ActionType**
+ _expression_. 'ActionType'
 
  _expression_ A variable that represents a **MarkAsTaskRuleAction** object.
 

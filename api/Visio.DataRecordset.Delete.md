@@ -21,7 +21,7 @@ Deletes the  **[DataRecordset](Visio.DataRecordset.md)** object from the **[Data
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **DataRecordset** object.
 

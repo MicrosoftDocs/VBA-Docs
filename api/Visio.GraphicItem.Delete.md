@@ -21,7 +21,7 @@ Deletes a  **GraphicItem** object from the **GraphicItems** collection of a **Ma
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **GraphicItem** object.
 

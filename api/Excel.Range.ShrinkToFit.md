@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value that indicates if text automatically shrink
 
 ## Syntax
 
- _expression_ . **ShrinkToFit**
+ _expression_. 'ShrinkToFit'
 
  _expression_ A variable that represents a **Range** object.
 

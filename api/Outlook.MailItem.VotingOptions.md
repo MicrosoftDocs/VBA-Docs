@@ -18,7 +18,7 @@ Returns or sets a  **String** specifying a delimited string containing the votin
 
 ## Syntax
 
- _expression_ . **VotingOptions**
+ _expression_. 'VotingOptions'
 
  _expression_ A variable that represents a **MailItem** object.
 

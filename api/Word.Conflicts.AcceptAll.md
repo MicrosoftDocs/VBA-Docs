@@ -18,7 +18,7 @@ Accepts all of the user's changes, removes the conflicts, and merges the changes
 
 ## Syntax
 
- _expression_ . **AcceptAll**
+ _expression_. 'AcceptAll'
 
  _expression_ An expression that returns a **Conflicts** object.
 

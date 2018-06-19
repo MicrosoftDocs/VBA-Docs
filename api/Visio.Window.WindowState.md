@@ -18,7 +18,7 @@ Gets or sets the state of a window. Read/write.
 
 ## Syntax
 
- _expression_ . **WindowState**
+ _expression_. 'WindowState'
 
  _expression_ A variable that represents a **Window** object.
 

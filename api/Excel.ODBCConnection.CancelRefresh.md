@@ -18,7 +18,7 @@ Cancels all refresh operations in progress for the specified ODBC connection.
 
 ## Syntax
 
- _expression_ . **CancelRefresh**
+ _expression_. 'CancelRefresh'
 
  _expression_ A variable that represents an **ODBCConnection** object.
 

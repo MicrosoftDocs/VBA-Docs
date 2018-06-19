@@ -18,7 +18,7 @@ Inserts a break into an equation and returns an  **OMathBreak** object that repr
 
 ## Syntax
 
- _expression_ . **Add**( **_Range_** )
+ _expression_. 'Add'( '_Range_' )
 
  _expression_ An expression that returns a **OMathBreaks** object.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **Engrave**
+ _expression_. 'Engrave'
 
  _expression_ A variable that represents a **[Font](Word.Font.md)** object.
 

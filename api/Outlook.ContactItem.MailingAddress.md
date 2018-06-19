@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the full, unparsed selected mailing a
 
 ## Syntax
 
- _expression_ . **MailingAddress**
+ _expression_. 'MailingAddress'
 
  _expression_ A variable that represents a **ContactItem** object.
 

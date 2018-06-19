@@ -18,7 +18,7 @@ Returns or sets the scaling percentage applied to the font. Read/write  **Long**
 
 ## Syntax
 
- _expression_ . **Scaling**
+ _expression_. 'Scaling'
 
  _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 

@@ -18,7 +18,7 @@ Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection that r
 
 ## Syntax
 
- _expression_ . **ProtectedViewWindows**
+ _expression_. 'ProtectedViewWindows'
 
  _expression_ An expression that returns an **Application** object.
 

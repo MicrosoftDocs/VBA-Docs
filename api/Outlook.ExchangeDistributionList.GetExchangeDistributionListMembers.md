@@ -18,7 +18,7 @@ Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection that repr
 
 ## Syntax
 
- _expression_ . **GetExchangeDistributionListMembers**
+ _expression_. 'GetExchangeDistributionListMembers'
 
  _expression_ A variable that represents an **ExchangeDistributionList** object.
 

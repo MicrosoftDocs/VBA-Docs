@@ -18,7 +18,7 @@ Resets an unsent response to a task request back to a simple task.
 
 ## Syntax
 
- _expression_ . **CancelResponseState**
+ _expression_. 'CancelResponseState'
 
  _expression_ A variable that represents a **TaskItem** object.
 

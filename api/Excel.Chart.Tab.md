@@ -18,7 +18,7 @@ Returns a  **[Tab](Excel.Tab.md)** object for a chart.
 
 ## Syntax
 
- _expression_ . **Tab**
+ _expression_. 'Tab'
 
  _expression_ A variable that represents a **Chart** object.
 

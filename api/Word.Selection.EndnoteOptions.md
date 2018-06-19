@@ -18,7 +18,7 @@ Returns an  **[EndnoteOptions](Word.EndnoteOptions.md)** object that represents 
 
 ## Syntax
 
- _expression_ . **EndnoteOptions**
+ _expression_. 'EndnoteOptions'
 
  _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

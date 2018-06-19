@@ -18,7 +18,7 @@ Returns a  **[Border](Excel.Border(objec).md)** object that represents the borde
 
 ## Syntax
 
- _expression_ . **Border**
+ _expression_. 'Border'
 
  _expression_ A variable that represents a **DataTable** object.
 

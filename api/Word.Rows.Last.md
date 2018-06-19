@@ -18,7 +18,7 @@ Returns the last item in the  **Rows** collection as a **Row** object.
 
 ## Syntax
 
- _expression_ . **Last**
+ _expression_. 'Last'
 
  _expression_ Required. A variable that represents a **[Rows](Word.rows.md)** collection.
 

@@ -18,7 +18,7 @@ Returns or sets a  **String** specifying the TTY/TDD telephone number for the co
 
 ## Syntax
 
- _expression_ . **TTYTDDTelephoneNumber**
+ _expression_. 'TTYTDDTelephoneNumber'
 
  _expression_ A variable that represents a **ContactItem** object.
 

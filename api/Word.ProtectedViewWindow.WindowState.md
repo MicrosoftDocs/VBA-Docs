@@ -18,7 +18,7 @@ Returns or sets the state of the specified protected view window. Read/write [Wd
 
 ## Syntax
 
- _expression_ . **WindowState**
+ _expression_. 'WindowState'
 
  _expression_ An expression that returns a **[ProtectedViewWindow](Word.ProtectedViewWindow.md)** object.
 

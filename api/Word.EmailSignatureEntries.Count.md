@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of e-mail signature entries in th
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ Required. A variable that represents an **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** collection.
 

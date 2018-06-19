@@ -18,7 +18,7 @@ Saves a copy of the workbook to a file but doesn't modify the open workbook in m
 
 ## Syntax
 
- _expression_ . **SaveCopyAs**( **_Filename_** )
+ _expression_. 'SaveCopyAs'( '_Filename_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

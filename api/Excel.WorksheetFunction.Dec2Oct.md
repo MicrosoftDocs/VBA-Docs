@@ -18,7 +18,7 @@ Converts a decimal number to octal.
 
 ## Syntax
 
- _expression_ . **Dec2Oct**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Dec2Oct'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

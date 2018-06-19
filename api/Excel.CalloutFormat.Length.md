@@ -18,7 +18,7 @@ Returns a  **Single** value that represents the length (in points) of the first 
 
 ## Syntax
 
- _expression_ . **Length**
+ _expression_. 'Length'
 
  _expression_ A variable that represents a **CalloutFormat** object.
 

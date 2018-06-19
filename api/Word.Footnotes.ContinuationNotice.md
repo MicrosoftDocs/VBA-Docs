@@ -18,7 +18,7 @@ Returns a  **Range** object that represents the footnote continuation notice. Re
 
 ## Syntax
 
- _expression_ . **ContinuationNotice**
+ _expression_. 'ContinuationNotice'
 
  _expression_ A variable that represents a **[Footnotes](Word.footnotes.md)** collection.
 

@@ -16,7 +16,7 @@ Returns the previous name of the table.  **String** Read-only
 
 ## Syntax
 
- _expression_ . **TableNameOld**
+ _expression_. 'TableNameOld'
 
  _expression_ A variable that represents a[ModelTableNameChange](Excel.modeltablenamechange.md) object.
 

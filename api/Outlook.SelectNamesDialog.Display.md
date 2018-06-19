@@ -18,7 +18,7 @@ Displays the  **Select Names** dialog box.
 
 ## Syntax
 
- _expression_ . **Display**
+ _expression_. 'Display'
 
  _expression_ A variable that represents a **SelectNamesDialog** object.
 

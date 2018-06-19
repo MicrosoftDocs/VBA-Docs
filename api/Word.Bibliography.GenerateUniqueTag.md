@@ -18,7 +18,7 @@ Generates a unique identification tag for a bibliography source and returns a  *
 
 ## Syntax
 
- _expression_ . **GenerateUniqueTag**
+ _expression_. 'GenerateUniqueTag'
 
  _expression_ An expression that returns a **Bibliography** object.
 

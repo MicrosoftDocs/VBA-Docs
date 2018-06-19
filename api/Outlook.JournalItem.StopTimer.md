@@ -18,7 +18,7 @@ Stops the timer on the journal entry. This method allows programmatic control of
 
 ## Syntax
 
- _expression_ . **StopTimer**
+ _expression_. 'StopTimer'
 
  _expression_ A variable that represents a **JournalItem** object.
 

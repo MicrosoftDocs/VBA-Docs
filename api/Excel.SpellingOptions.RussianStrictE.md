@@ -18,7 +18,7 @@ Returns or sets whether the spelling checker uses rules regarding Russian words 
 
 ## Syntax
 
- _expression_ . **RussianStrictE**
+ _expression_. 'RussianStrictE'
 
  _expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
 

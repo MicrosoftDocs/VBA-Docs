@@ -18,7 +18,7 @@ Returns or sets a value that determines how much formatting from a Web page, if 
 
 ## Syntax
 
- _expression_ . **WebFormatting**
+ _expression_. 'WebFormatting'
 
  _expression_ A variable that represents a **QueryTable** object.
 

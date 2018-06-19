@@ -18,7 +18,7 @@ Protects a workbook so that it cannot be modified.
 
 ## Syntax
 
- _expression_ . **Protect**( **_Password_** , **_Structure_** , **_Windows_** )
+ _expression_. 'Protect'( '_Password_' , '_Structure_' , '_Windows_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

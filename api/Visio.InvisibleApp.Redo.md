@@ -18,7 +18,7 @@ Reverses the most recent undo unit.
 
 ## Syntax
 
- _expression_ . **Redo**
+ _expression_. 'Redo'
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

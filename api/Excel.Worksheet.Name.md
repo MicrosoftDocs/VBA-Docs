@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the object name.
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **Worksheet** object.
 

@@ -18,7 +18,7 @@ Returns the net present value for a schedule of cash flows that is not necessari
 
 ## Syntax
 
- _expression_ . **Xnpv**( **_Arg1_** , **_Arg2_** )
+ _expression_. 'Xnpv'( '_Arg1_' , '_Arg2_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

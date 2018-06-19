@@ -18,7 +18,7 @@ Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlP
 
 ## Syntax
 
- _expression_ . **ScopeType**
+ _expression_. 'ScopeType'
 
  _expression_ A variable that represents a **FormatCondition** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the name of the **[ListObjec
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ An expression that returns a **ListObject** object.
 

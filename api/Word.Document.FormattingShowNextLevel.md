@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word shows the 
 
 ## Syntax
 
- _expression_ . **FormattingShowNextLevel**
+ _expression_. 'FormattingShowNextLevel'
 
  _expression_ An expression that returns a **Document** object.
 

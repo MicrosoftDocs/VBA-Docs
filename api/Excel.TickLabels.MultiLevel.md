@@ -18,7 +18,7 @@ Sets whether an axis is multilevel or not. Read/write  **Boolean** .
 
 ## Syntax
 
- _expression_ . **MultiLevel**
+ _expression_. 'MultiLevel'
 
  _expression_ A variable that represents a **TickLabels** object.
 

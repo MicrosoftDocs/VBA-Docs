@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **ScreenUpdating**
+ _expression_. 'ScreenUpdating'
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object.
 

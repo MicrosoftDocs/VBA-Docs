@@ -18,7 +18,7 @@ Returns whether the slicer associated with the specified slicer cache is based o
 
 ## Syntax
 
- _expression_ . **OLAP**
+ _expression_. 'OLAP'
 
  _expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
 

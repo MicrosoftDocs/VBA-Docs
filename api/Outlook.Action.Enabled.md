@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that is **True** if the action is enabled in the 
 
 ## Syntax
 
- _expression_ . **Enabled**
+ _expression_. 'Enabled'
 
  _expression_ A variable that represents an **Action** object.
 

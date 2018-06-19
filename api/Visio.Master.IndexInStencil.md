@@ -18,7 +18,7 @@ Gets or sets the index of a master or master shortcut object within its stencil.
 
 ## Syntax
 
- _expression_ . **IndexInStencil**
+ _expression_. 'IndexInStencil'
 
  _expression_ A variable that represents a **Master** object.
 

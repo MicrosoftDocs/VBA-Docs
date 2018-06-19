@@ -21,7 +21,7 @@ Calculates, or predicts, a future value by using existing values. The predicted 
 
 ## Syntax
 
- _expression_ . **Forecast**( **_Arg1_** , **_Arg2_** , **_Arg3_** )
+ _expression_. 'Forecast'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

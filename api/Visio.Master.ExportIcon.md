@@ -18,7 +18,7 @@ Exports the icon for a  **Master** object to a named file or the Clipboard.
 
 ## Syntax
 
- _expression_ . **ExportIcon**( **_FileName_** , **_Flags_** , [ **_TransparentRGB_** ])
+ _expression_. 'ExportIcon'( '_FileName_' , '_Flags_' , [ '_TransparentRGB_' ])
 
  _expression_ A variable that represents a **Master** object.
 

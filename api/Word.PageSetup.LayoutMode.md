@@ -18,7 +18,7 @@ Returns or sets the layout mode for the current document. Read/write  **WdLayout
 
 ## Syntax
 
- _expression_ . **LayoutMode**
+ _expression_. 'LayoutMode'
 
  _expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 

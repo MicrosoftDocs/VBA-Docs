@@ -18,7 +18,7 @@ Returns an array of cell ranges and a  **True** or **False** value indicating wh
 
 ## Syntax
 
- _expression_ . **GetFilterSRC**
+ _expression_. 'GetFilterSRC'
 
  _expression_ A variable that represents an **Event** object.
 

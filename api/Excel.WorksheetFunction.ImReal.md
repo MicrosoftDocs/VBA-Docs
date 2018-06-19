@@ -18,7 +18,7 @@ Returns the real coefficient of a complex number in x + yi or x + yj text format
 
 ## Syntax
 
- _expression_ . **ImReal**( **_Arg1_** )
+ _expression_. 'ImReal'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

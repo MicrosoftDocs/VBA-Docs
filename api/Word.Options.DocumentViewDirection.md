@@ -18,7 +18,7 @@ Returns or sets the alignment and reading order for the entire document. Read/wr
 
 ## Syntax
 
- _expression_ . **DocumentViewDirection**
+ _expression_. 'DocumentViewDirection'
 
  _expression_ Required. A variable that represents an **[Options](Word.Options.md)** collection.
 

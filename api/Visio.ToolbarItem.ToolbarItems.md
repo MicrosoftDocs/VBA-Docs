@@ -18,7 +18,7 @@ Returns the  **ToolbarItems** collection of a **ToolbarItem** object. Read-only.
 
 ## Syntax
 
- _expression_ . **ToolbarItems**
+ _expression_. 'ToolbarItems'
 
  _expression_ A variable that represents a **ToolbarItem** object.
 

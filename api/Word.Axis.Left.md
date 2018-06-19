@@ -18,7 +18,7 @@ Returns the distance, in points, from the left edge of the object to the left ed
 
 ## Syntax
 
- _expression_ . **Left**
+ _expression_. 'Left'
 
  _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 

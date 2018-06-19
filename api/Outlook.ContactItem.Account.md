@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the account for the contact. Read/wri
 
 ## Syntax
 
- _expression_ . **Account**
+ _expression_. 'Account'
 
  _expression_ A variable that represents a **ContactItem** object.
 

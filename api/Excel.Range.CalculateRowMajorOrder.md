@@ -18,7 +18,7 @@ Calculates a specfied range of cells.
 
 ## Syntax
 
- _expression_ . **CalculateRowMajorOrder**
+ _expression_. 'CalculateRowMajorOrder'
 
  _expression_ An expression that returns a **Range** object.
 

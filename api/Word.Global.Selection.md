@@ -18,7 +18,7 @@ Returns a  **Selection** object that represents a selected range or the insertio
 
 ## Syntax
 
- _expression_ . **Selection**
+ _expression_. 'Selection'
 
  _expression_ A variable that represents a **[Global](Word.Global.md)** object.
 

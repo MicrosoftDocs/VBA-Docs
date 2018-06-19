@@ -18,7 +18,7 @@ Returns or sets a  **Long** that represents the character position of the alignm
 
 ## Syntax
 
- _expression_ . **AlignPoint**
+ _expression_. 'AlignPoint'
 
  _expression_ An expression that returns an **[OMath](Word.OMath.md)** object.
 

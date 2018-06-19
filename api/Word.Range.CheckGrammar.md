@@ -18,7 +18,7 @@ Begins a spelling and grammar check for the specified range.
 
 ## Syntax
 
- _expression_ . **CheckGrammar**
+ _expression_. 'CheckGrammar'
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

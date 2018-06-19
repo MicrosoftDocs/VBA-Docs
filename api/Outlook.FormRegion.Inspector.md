@@ -18,7 +18,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object representing the Inspec
 
 ## Syntax
 
- _expression_ . **Inspector**
+ _expression_. 'Inspector'
 
  _expression_ A variable that represents a **FormRegion** object.
 

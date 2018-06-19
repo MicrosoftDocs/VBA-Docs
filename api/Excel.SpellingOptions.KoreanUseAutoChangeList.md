@@ -18,7 +18,7 @@ When set to  **True** , this enables Microsoft Excel to use the auto-change list
 
 ## Syntax
 
- _expression_ . **KoreanUseAutoChangeList**
+ _expression_. 'KoreanUseAutoChangeList'
 
  _expression_ A variable that represents a **SpellingOptions** object.
 

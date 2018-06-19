@@ -18,7 +18,7 @@ Returns a  **Boolean** that indicates whether the placeholder text for the conte
 
 ## Syntax
 
- _expression_ . **ShowingPlaceholderText**
+ _expression_. 'ShowingPlaceholderText'
 
  _expression_ An expression that returns a **ContentControl** object.
 

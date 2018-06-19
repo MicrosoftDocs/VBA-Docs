@@ -18,7 +18,7 @@ Applies formatting copied with the  **CopyFormat** method to the selection.
 
 ## Syntax
 
- _expression_ . **PasteFormat**
+ _expression_. 'PasteFormat'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

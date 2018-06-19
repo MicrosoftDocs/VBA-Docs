@@ -18,7 +18,7 @@ Returns the lognormal distribution of x, where ln(x) is normally distributed wit
 
 ## Syntax
 
- _expression_ . **LogNorm_Dist**( **_Arg1_** , **_Arg2_** , **_Arg3_** )
+ _expression_. 'LogNorm_Dist'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
 
  _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

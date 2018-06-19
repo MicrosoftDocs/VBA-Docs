@@ -18,7 +18,7 @@ Indicates whether drawings are centered between the left and right edges of the 
 
 ## Syntax
 
- _expression_ . **PrintCenteredH**
+ _expression_. 'PrintCenteredH'
 
  _expression_ A variable that represents a **Document** object.
 

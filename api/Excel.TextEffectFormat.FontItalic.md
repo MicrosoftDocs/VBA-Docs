@@ -18,7 +18,7 @@ Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write 
 
 ## Syntax
 
- _expression_ . **FontItalic**
+ _expression_. 'FontItalic'
 
  _expression_ A variable that represents a **TextEffectFormat** object.
 

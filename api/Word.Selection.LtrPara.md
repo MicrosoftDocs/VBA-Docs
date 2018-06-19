@@ -18,7 +18,7 @@ Sets the reading order and alignment of the specified paragraphs to left-to-righ
 
 ## Syntax
 
- _expression_ . **LtrPara**
+ _expression_. 'LtrPara'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

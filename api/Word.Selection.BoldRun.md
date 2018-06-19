@@ -18,7 +18,7 @@ Adds the bold character format to or removes it from the current run.
 
 ## Syntax
 
- _expression_ . **BoldRun**
+ _expression_. 'BoldRun'
 
  _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

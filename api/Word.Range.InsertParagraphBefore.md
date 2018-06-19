@@ -18,7 +18,7 @@ Inserts a new paragraph before the specified range.
 
 ## Syntax
 
- _expression_ . **InsertParagraphBefore**
+ _expression_. 'InsertParagraphBefore'
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

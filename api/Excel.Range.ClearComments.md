@@ -18,7 +18,7 @@ Clears all cell comments from the specified range.
 
 ## Syntax
 
- _expression_ . **ClearComments**
+ _expression_. 'ClearComments'
 
  _expression_ A variable that represents a **Range** object.
 

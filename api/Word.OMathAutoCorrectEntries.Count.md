@@ -18,7 +18,7 @@ Returns the number of items in the  **OMathAutoCorrectEntries** collection. Read
 
 ## Syntax
 
- _expression_ . **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** object.
 

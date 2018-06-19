@@ -18,7 +18,7 @@ Returns or sets the alternative text associated with a shape in a Web page. Read
 
 ## Syntax
 
- _expression_ . **AlternativeText**
+ _expression_. 'AlternativeText'
 
  _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 

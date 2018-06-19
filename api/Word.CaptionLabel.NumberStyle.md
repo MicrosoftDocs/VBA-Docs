@@ -18,7 +18,7 @@ Returns or sets the number style for the  **CaptionLabel** object. Read/write **
 
 ## Syntax
 
- _expression_ . **NumberStyle**
+ _expression_. 'NumberStyle'
 
  _expression_ Required. A variable that represents a **[CaptionLabel](Word.CaptionLabel.md)** object.
 

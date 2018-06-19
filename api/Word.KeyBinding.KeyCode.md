@@ -18,7 +18,7 @@ Returns a unique number for the first key in the specified key binding. Read-onl
 
 ## Syntax
 
- _expression_ . **KeyCode**
+ _expression_. 'KeyCode'
 
  _expression_ An expression that returns a **[KeyBinding](Word.KeyBinding.md)** object.
 

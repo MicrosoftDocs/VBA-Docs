@@ -18,7 +18,7 @@ Protects a worksheet so that it cannot be modified.
 
 ## Syntax
 
- _expression_ . **Protect**( **_Password_** , **_DrawingObjects_** , **_Contents_** , **_Scenarios_** , **_UserInterfaceOnly_** , **_AllowFormattingCells_** , **_AllowFormattingColumns_** , **_AllowFormattingRows_** , **_AllowInsertingColumns_** , **_AllowInsertingRows_** , **_AllowInsertingHyperlinks_** , **_AllowDeletingColumns_** , **_AllowDeletingRows_** , **_AllowSorting_** , **_AllowFiltering_** , **_AllowUsingPivotTables_** )
+ _expression_. 'Protect'( '_Password_' , '_DrawingObjects_' , '_Contents_' , '_Scenarios_' , '_UserInterfaceOnly_' , '_AllowFormattingCells_' , '_AllowFormattingColumns_' , '_AllowFormattingRows_' , '_AllowInsertingColumns_' , '_AllowInsertingRows_' , '_AllowInsertingHyperlinks_' , '_AllowDeletingColumns_' , '_AllowDeletingRows_' , '_AllowSorting_' , '_AllowFiltering_' , '_AllowUsingPivotTables_' )
 
  _expression_ A variable that represents a **Worksheet** object.
 

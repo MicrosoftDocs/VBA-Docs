@@ -18,7 +18,7 @@ Returns or sets the command string for the specified data source. Read/write  **
 
 ## Syntax
 
- _expression_ . **CommandText**
+ _expression_. 'CommandText'
 
  _expression_ A variable that represents an **OLEDBConnection** object.
 

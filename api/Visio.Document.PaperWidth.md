@@ -18,7 +18,7 @@ Returns the width of a document's printed page. Read-only.
 
 ## Syntax
 
- _expression_ . **PaperWidth**( **_UnitsNameOrCode_** )
+ _expression_. 'PaperWidth'( '_UnitsNameOrCode_' )
 
  _expression_ A variable that represents a **Document** object.
 

@@ -18,7 +18,7 @@ Links the specified style to a list template so that the style's formatting can 
 
 ## Syntax
 
- _expression_ . **LinkToListTemplate**( **_ListTemplate_** , **_ListLevelNumber_** )
+ _expression_. 'LinkToListTemplate'( '_ListTemplate_' , '_ListLevelNumber_' )
 
  _expression_ Required. A variable that represents a **[Style](Word.Style.md)** object.
 

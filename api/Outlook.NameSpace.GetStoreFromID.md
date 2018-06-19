@@ -18,7 +18,7 @@ Returns a  **[Store](Outlook.Store.md)** object that represents the store specif
 
 ## Syntax
 
- _expression_ . **GetStoreFromID**( **_ID_** )
+ _expression_. 'GetStoreFromID'( '_ID_' )
 
  _expression_ A variable that represents a **NameSpace** object.
 

@@ -18,7 +18,7 @@ Returns or sets the action taken when the Microsoft Excel menu key is pressed. C
 
 ## Syntax
 
- _expression_ . **TransitionMenuKeyAction**
+ _expression_. 'TransitionMenuKeyAction'
 
  _expression_ A variable that represents an **Application** object.
 

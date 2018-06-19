@@ -18,7 +18,7 @@ Returns a  **[Windows](Word.windows.md)** collection that represents all windows
 
 ## Syntax
 
- _expression_ . **Windows**
+ _expression_. 'Windows'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

@@ -18,7 +18,7 @@ Returns a fully qualified and optionally canonicalized representation of the hyp
 
 ## Syntax
 
- _expression_ . **CreateURL**( **_CanonicalForm_** )
+ _expression_. 'CreateURL'( '_CanonicalForm_' )
 
  _expression_ A variable that represents a **Hyperlink** object.
 

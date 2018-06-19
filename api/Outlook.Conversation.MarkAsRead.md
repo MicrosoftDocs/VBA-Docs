@@ -18,7 +18,7 @@ Marks all items in the conversation as read.
 
 ## Syntax
 
- _expression_ . **MarkAsRead**
+ _expression_. 'MarkAsRead'
 
  _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
 

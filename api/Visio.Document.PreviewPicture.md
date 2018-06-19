@@ -18,7 +18,7 @@ Gets or sets the preview picture shown in the  **Open** dialog box and when you 
 
 ## Syntax
 
- _expression_ . **PreviewPicture**
+ _expression_. 'PreviewPicture'
 
  _expression_ A variable that represents a **Document** object.
 

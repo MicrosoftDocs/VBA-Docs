@@ -18,7 +18,7 @@ Indicates whether a named SolutionXML element exists in the document. Read-only.
 
 ## Syntax
 
- _expression_ . **SolutionXMLElementExists**( **_ElementName_** )
+ _expression_. 'SolutionXMLElementExists'( '_ElementName_' )
 
  _expression_ A variable that represents a **Document** object.
 

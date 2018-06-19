@@ -18,7 +18,7 @@ Locks the workbook on the server to prevent modification.
 
 ## Syntax
 
- _expression_ . **LockServerFile**
+ _expression_. 'LockServerFile'
 
  _expression_ A variable that represents a **Workbook** object.
 

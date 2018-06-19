@@ -18,7 +18,7 @@ Determines which, if any, diagram services are enabled for the document. Read/wr
 
 ## Syntax
 
- _expression_ . **DiagramServicesEnabled**
+ _expression_. 'DiagramServicesEnabled'
 
  _expression_ An expression that returns a **[Document](Visio.Document.md)** object.
 

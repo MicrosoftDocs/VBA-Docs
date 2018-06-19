@@ -18,7 +18,7 @@ Returns a  **String** that represents the type of entry for the e-mail address o
 
 ## Syntax
 
- _expression_ . **SenderEmailType**
+ _expression_. 'SenderEmailType'
 
  _expression_ A variable that represents a **SharingItem** object.
 

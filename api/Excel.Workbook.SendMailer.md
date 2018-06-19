@@ -18,7 +18,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
- _expression_ . **SendMailer**( **_FileFormat_** , **_Priority_** )
+ _expression_. 'SendMailer'( '_FileFormat_' , '_Priority_' )
 
  _expression_ A variable that represents a **Workbook** object.
 

@@ -18,7 +18,7 @@ Determines whether a particular ShapeSheet cell exists in the scope of the searc
 
 ## Syntax
 
- _expression_ . **CellExists**( **_localeSpecificCellName_** , **_fExistsLocally_** )
+ _expression_. 'CellExists'( '_localeSpecificCellName_' , '_fExistsLocally_' )
 
  _expression_ A variable that represents a **Style** object.
 

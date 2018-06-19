@@ -18,7 +18,7 @@ Inserts a TC (Table of Contents Entry) field after the specified range. The meth
 
 ## Syntax
 
- _expression_ . **MarkEntry**( **_Range_** , **_Entry_** , **_EntryAutoText_** , **_TableID_** , **_Level_** )
+ _expression_. 'MarkEntry'( '_Range_' , '_Entry_' , '_EntryAutoText_' , '_TableID_' , '_Level_' )
 
  _expression_ Required. A variable that represents a **[TablesOfContents](Word.tablesofcontents.md)** collection.
 

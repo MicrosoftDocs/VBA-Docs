@@ -18,7 +18,7 @@ Gets the instance handle of the  **[Application](Visio.Application.md)** object 
 
 ## Syntax
 
- _expression_ . **InstanceHandle64**
+ _expression_. 'InstanceHandle64'
 
  _expression_ An expression that returns an **Application** object.
 

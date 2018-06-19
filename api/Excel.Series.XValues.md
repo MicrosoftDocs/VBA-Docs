@@ -18,7 +18,7 @@ Returns or sets an array of x values for a chart series. The  **XValues** proper
 
 ## Syntax
 
- _expression_ . **XValues**
+ _expression_. 'XValues'
 
  _expression_ A variable that represents a **Series** object.
 

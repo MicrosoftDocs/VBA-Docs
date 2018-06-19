@@ -18,7 +18,7 @@ Returns a single  **[Axis](Excel.Axis(objec).md)** object from an **Axes** colle
 
 ## Syntax
 
- _expression_ . **Item**( **_Type_** , **_AxisGroup_** )
+ _expression_. 'Item'( '_Type_' , '_AxisGroup_' )
 
  _expression_ A variable that represents an **Axes** object.
 

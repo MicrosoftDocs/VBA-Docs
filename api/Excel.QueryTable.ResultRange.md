@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the area of
 
 ## Syntax
 
- _expression_ . **ResultRange**
+ _expression_. 'ResultRange'
 
  _expression_ A variable that represents a **QueryTable** object.
 

@@ -18,7 +18,7 @@ Returns the path to the specified document template. Read-only  **String** .
 
 ## Syntax
 
- _expression_ . **Path**
+ _expression_. 'Path'
 
  _expression_ Required. A variable that represents a **[Template](Word.Template.md)** object.
 

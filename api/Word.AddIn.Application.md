@@ -18,7 +18,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 ## Syntax
 
- _expression_ . **Application**
+ _expression_. 'Application'
 
  _expression_ An expression that returns an **[AddIn](Word.AddIn.md)** object.
 

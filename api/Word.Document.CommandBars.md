@@ -18,7 +18,7 @@ Returns a  **CommandBars** collection that represents the menu bar and all the t
 
 ## Syntax
 
- _expression_ . **CommandBars**
+ _expression_. 'CommandBars'
 
  _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

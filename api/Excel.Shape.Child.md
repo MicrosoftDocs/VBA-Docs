@@ -18,7 +18,7 @@ Returns  **msoTrue** if the specified shape is a child shape or if all shapes in
 
 ## Syntax
 
- _expression_ . **Child**
+ _expression_. 'Child'
 
  _expression_ A variable that represents a **Shape** object.
 

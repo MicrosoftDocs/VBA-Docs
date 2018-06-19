@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates whether the **[SharingItem](Outlook.
 
 ## Syntax
 
- _expression_ . **IsMarkedAsTask**
+ _expression_. 'IsMarkedAsTask'
 
  _expression_ An expression that returns a **SharingItem** object.
 

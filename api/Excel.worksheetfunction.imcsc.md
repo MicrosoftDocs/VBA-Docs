@@ -16,7 +16,7 @@ Returns the cosecant of a complex number.
 
 ## Syntax
 
- _expression_ . **ImCsc**_(Arg1)_
+ _expression_. 'ImCsc'_(Arg1)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

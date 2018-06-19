@@ -18,7 +18,7 @@ Occurs immediately before any open workbook closes.
 
 ## Syntax
 
- _expression_ . **WorkbookBeforeClose**( **_Wb_** , **_Cancel_** )
+ _expression_. 'WorkbookBeforeClose'( '_Wb_' , '_Cancel_' )
 
  _expression_ A variable that represents an **Application** object.
 

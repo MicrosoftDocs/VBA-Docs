@@ -18,7 +18,7 @@ Adds an ASK field to a mail merge main document. Returns a  **MailMergeField** o
 
 ## Syntax
 
- _expression_ . **AddAsk**( **_Range_** , **_Name_** , **_Prompt_** , **_DefaultAskText_** , **_AskOnce_** )
+ _expression_. 'AddAsk'( '_Range_' , '_Name_' , '_Prompt_' , '_DefaultAskText_' , '_AskOnce_' )
 
  _expression_ Required. A variable that represents a **[MailMergeFields](Word.mailmergefields.md)** collection.
 

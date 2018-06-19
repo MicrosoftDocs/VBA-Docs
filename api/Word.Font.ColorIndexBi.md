@@ -18,7 +18,7 @@ Returns or sets the color for the specified  **Font** object in a right-to-left 
 
 ## Syntax
 
- _expression_ . **ColorIndexBi**
+ _expression_. 'ColorIndexBi'
 
  _expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **Installed**
+ _expression_. 'Installed'
 
  _expression_ An expression that returns an **[AddIn](Word.AddIn.md)** object.
 

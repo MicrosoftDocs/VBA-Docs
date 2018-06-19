@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether to show crop marks in the
 
 ## Syntax
 
- _expression_ . **ShowCropMarks**
+ _expression_. 'ShowCropMarks'
 
  _expression_ An expression that returns a **View** object.
 

@@ -18,7 +18,7 @@ Converts the specified shape in the drawing layer of a document to an inline sha
 
 ## Syntax
 
- _expression_ . **ConvertToInlineShape**
+ _expression_. 'ConvertToInlineShape'
 
  _expression_ Required. A variable that represents a **[Shape](Word.Shape.md)** object.
 

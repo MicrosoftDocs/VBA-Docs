@@ -18,7 +18,7 @@ Returns a  **[LegendKey](Excel.LegendKey(objec).md)** object that represents the
 
 ## Syntax
 
- _expression_ . **LegendKey**
+ _expression_. 'LegendKey'
 
  _expression_ A variable that represents a **LegendEntry** object.
 

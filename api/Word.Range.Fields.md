@@ -18,7 +18,7 @@ Returns a  **[Fields](Word.fields.md)** collection that represents all the field
 
 ## Syntax
 
- _expression_ . **Fields**
+ _expression_. 'Fields'
 
  _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the e-mail address of the second e-ma
 
 ## Syntax
 
- _expression_ . **Email2Address**
+ _expression_. 'Email2Address'
 
  _expression_ A variable that represents a **ContactItem** object.
 

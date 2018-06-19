@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates **True** if a read receipt has been 
 
 ## Syntax
 
- _expression_ . **ReadReceiptRequested**
+ _expression_. 'ReadReceiptRequested'
 
  _expression_ A variable that represents a **MailItem** object.
 

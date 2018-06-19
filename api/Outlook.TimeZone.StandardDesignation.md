@@ -18,7 +18,7 @@ Returns a  **String** that identifies the time zone in standard time. Read-only.
 
 ## Syntax
 
- _expression_ . **StandardDesignation**
+ _expression_. 'StandardDesignation'
 
  _expression_ A variable that represents a **TimeZone** object.
 

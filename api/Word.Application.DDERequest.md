@@ -18,7 +18,7 @@ Uses an open dynamic data exchange (DDE) channel to request information from the
 
 ## Syntax
 
- _expression_ . **DDERequest**( **_Channel_** , **_Item_** )
+ _expression_. 'DDERequest'( '_Channel_' , '_Item_' )
 
  _expression_ A variable that represents an **[Application](Word.Application.md)** object. Optional.
 

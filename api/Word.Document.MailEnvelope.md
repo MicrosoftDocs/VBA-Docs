@@ -18,7 +18,7 @@ Returns an  **MsoEnvelope** object that represents an e-mail header for a docume
 
 ## Syntax
 
- _expression_ . **MailEnvelope**
+ _expression_. 'MailEnvelope'
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

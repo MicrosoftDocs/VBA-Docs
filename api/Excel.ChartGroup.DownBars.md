@@ -18,7 +18,7 @@ Returns a  **[DownBars](Excel.DownBars(objec).md)** object that represents the d
 
 ## Syntax
 
- _expression_ . **DownBars**
+ _expression_. 'DownBars'
 
  _expression_ A variable that represents a **ChartGroup** object.
 

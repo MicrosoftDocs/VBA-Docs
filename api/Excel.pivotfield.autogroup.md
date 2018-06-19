@@ -16,7 +16,7 @@ Automatically groups the pivot fields in a pivot table.
 
 ## Syntax
 
- _expression_ . **AutoGroup**
+ _expression_. 'AutoGroup'
 
  _expression_ A variable that represents a **PivotField** object.
 

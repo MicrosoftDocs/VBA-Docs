@@ -18,7 +18,7 @@ A  **Boolean** value that determines whether ink comments are displayed in the w
 
 ## Syntax
 
- _expression_ . **DisplayInkComments**
+ _expression_. 'DisplayInkComments'
 
  _expression_ A variable that represents a **Workbook** object.
 

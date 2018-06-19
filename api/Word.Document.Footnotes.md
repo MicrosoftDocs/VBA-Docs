@@ -18,7 +18,7 @@ Returns a  **[Footnotes](Word.footnotes.md)** collection that represents all the
 
 ## Syntax
 
- _expression_ . **Footnotes**
+ _expression_. 'Footnotes'
 
  _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

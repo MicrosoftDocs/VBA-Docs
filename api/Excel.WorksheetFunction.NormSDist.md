@@ -22,7 +22,7 @@ For more information about the new function, see the [Norm_S_Dist](Excel.Workshe
 
 ## Syntax
 
- _expression_ . **NormSDist**( **_Arg1_** )
+ _expression_. 'NormSDist'( '_Arg1_' )
 
  _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

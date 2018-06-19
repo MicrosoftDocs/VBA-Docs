@@ -18,7 +18,7 @@ Returns a collection of all the points in the series.
 
 ## Syntax
 
- _expression_ . **Points**( **_Index_** )
+ _expression_. 'Points'( '_Index_' )
 
  _expression_ A variable that represents a **[Series](Word.Series.md)** object.
 

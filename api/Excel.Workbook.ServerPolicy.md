@@ -18,7 +18,7 @@ Returns a  **ServerPolicy** object that represents a policy specified for a work
 
 ## Syntax
 
- _expression_ . **ServerPolicy**
+ _expression_. 'ServerPolicy'
 
  _expression_ A variable that represents a **Workbook** object.
 

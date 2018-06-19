@@ -18,7 +18,7 @@ Performs a commit operation on the data source of a PivotTable report based on a
 
 ## Syntax
 
- _expression_ . **CommitChanges**
+ _expression_. 'CommitChanges'
 
  _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
 

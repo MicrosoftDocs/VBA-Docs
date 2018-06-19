@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether to show user-defined styl
 
 ## Syntax
 
- _expression_ . **FormattingShowUserStyleName**
+ _expression_. 'FormattingShowUserStyleName'
 
  _expression_ An expression that returns a **Document** object.
 

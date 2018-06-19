@@ -18,7 +18,7 @@ Returns a [GlowFormat](Word.GlowFormat.md) object that represents the glow forma
 
 ## Syntax
 
- _expression_ . **Glow**
+ _expression_. 'Glow'
 
  _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 

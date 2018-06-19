@@ -18,7 +18,7 @@ Returns a  **Breaks** collection that represents the breaks on a page. .
 
 ## Syntax
 
- _expression_ . **Breaks**
+ _expression_. 'Breaks'
 
  _expression_ Required. A variable that represents a **[Page](Word.Page.md)** object.
 

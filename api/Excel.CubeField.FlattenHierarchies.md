@@ -18,7 +18,7 @@ Returns or sets whether items from all levels of hierarchies in a named set cube
 
 ## Syntax
 
- _expression_ . **FlattenHierarchies**
+ _expression_. 'FlattenHierarchies'
 
  _expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 

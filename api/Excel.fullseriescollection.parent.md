@@ -16,7 +16,7 @@ Returns an  **Object** that represents the parent object of the specified[FullSe
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. 'Parent'
 
  _expression_ A variable that represents a[FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object.
 

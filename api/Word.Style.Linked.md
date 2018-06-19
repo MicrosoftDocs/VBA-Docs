@@ -18,7 +18,7 @@ Returns a **Boolean** that represents whether a style is a linked style that can
 
 ## Syntax
 
- _expression_ . **Linked**
+ _expression_. 'Linked'
 
  _expression_ An expression that returns a **Style** object.
 

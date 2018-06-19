@@ -18,7 +18,7 @@ Returns or sets the width of the arrowhead at the beginning of the specified lin
 
 ## Syntax
 
- _expression_ . **BeginArrowheadWidth**
+ _expression_. 'BeginArrowheadWidth'
 
  _expression_ Required. A variable that represents a **[LineFormat](Word.LineFormat.md)** object.
 

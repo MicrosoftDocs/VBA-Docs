@@ -16,7 +16,7 @@ Returns an individual full series item from the collection.
 
 ## Syntax
 
- _expression_ . **Item**_(Index)_
+ _expression_. 'Item'_(Index)_
 
  _expression_ A variable that represents a **FullSeriesCollection** object.
 

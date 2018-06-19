@@ -18,7 +18,7 @@ When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorre
 
 ## Syntax
 
- _expression_ . **NumberAsText**
+ _expression_. 'NumberAsText'
 
  _expression_ A variable that represents an **ErrorCheckingOptions** object.
 

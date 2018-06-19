@@ -18,7 +18,7 @@ Returns the number of periods for an investment based on periodic, constant paym
 
 ## Syntax
 
- _expression_ . **NPer**( **_Arg1_** , **_Arg2_** , **_Arg3_** , **_Arg4_** , **_Arg5_** )
+ _expression_. 'NPer'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' , '_Arg5_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

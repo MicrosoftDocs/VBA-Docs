@@ -21,7 +21,7 @@ Returns the  **[DataConnection](Visio.DataConnection.md)** object associated wit
 
 ## Syntax
 
- _expression_ . **DataConnection**
+ _expression_. 'DataConnection'
 
  _expression_ An expression that returns a **DataRecordset** object.
 

@@ -18,7 +18,7 @@ Specifies the relative vertical position of a frame. Read/write  **[WdRelativeVe
 
 ## Syntax
 
- _expression_ . **RelativeVerticalPosition**
+ _expression_. 'RelativeVerticalPosition'
 
  _expression_ A variable that represents a **[Frame](Word.Frame.md)** object.
 

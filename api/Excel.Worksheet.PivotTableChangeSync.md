@@ -18,7 +18,7 @@ Occurs after changes to a PivotTable.
 
 ## Syntax
 
- _expression_ . **PivotTableChangeSync**( **_Target_** )
+ _expression_. 'PivotTableChangeSync'( '_Target_' )
 
  _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 

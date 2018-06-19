@@ -18,7 +18,7 @@ Returns a value that indicates if the associated  **[Range](Excel.Range(objec).m
 
 ## Syntax
 
- _expression_ . **Locked**
+ _expression_. 'Locked'
 
  _expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
 

@@ -18,7 +18,7 @@ Gets or sets the control type of a menu item. Read/write.
 
 ## Syntax
 
- _expression_ . **CntrlType**
+ _expression_. 'CntrlType'
 
  _expression_ A variable that represents a **MenuItem** object.
 

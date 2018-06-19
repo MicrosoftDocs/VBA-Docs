@@ -18,7 +18,7 @@ Saves an item or a collection of items in a document to a Web page.
 
 ## Syntax
 
- _expression_ . **Publish**( **_Create_** )
+ _expression_. 'Publish'( '_Create_' )
 
  _expression_ A variable that represents a **PublishObject** object.
 

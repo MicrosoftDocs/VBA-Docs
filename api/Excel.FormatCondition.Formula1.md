@@ -18,7 +18,7 @@ Returns the value or expression associated with the conditional format or data v
 
 ## Syntax
 
- _expression_ . **Formula1**
+ _expression_. 'Formula1'
 
  _expression_ A variable that represents a **FormatCondition** object.
 

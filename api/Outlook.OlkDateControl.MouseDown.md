@@ -18,7 +18,7 @@ Occurs when the user presses a mouse button on the control.
 
 ## Syntax
 
- _expression_ . **MouseDown**( **_Button_** , **_Shift_** , **_X_** , **_Y_** )
+ _expression_. 'MouseDown'( '_Button_' , '_Shift_' , '_X_' , '_Y_' )
 
  _expression_ A variable that represents an **OlkDateControl** object.
 

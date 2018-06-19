@@ -18,7 +18,7 @@ Causes Outlook to recalculate the height of an adjoining form region to display 
 
 ## Syntax
 
- _expression_ . **Reflow**
+ _expression_. 'Reflow'
 
  _expression_ A variable that represents a **FormRegion** object.
 

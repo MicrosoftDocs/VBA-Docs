@@ -18,7 +18,7 @@ Returns a  **[SyncObjects](Outlook.SyncObjects.md)** collection containing all S
 
 ## Syntax
 
- _expression_ . **SyncObjects**
+ _expression_. 'SyncObjects'
 
  _expression_ A variable that represents a **NameSpace** object.
 

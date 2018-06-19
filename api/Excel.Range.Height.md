@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value that represents the height, in points, of t
 
 ## Syntax
 
- _expression_ . **Height**
+ _expression_. 'Height'
 
  _expression_ A variable that represents a **Range** object.
 

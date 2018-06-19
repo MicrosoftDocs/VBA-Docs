@@ -15,7 +15,7 @@ Occurs when the user selects the  **Send** action for an item (which is an insta
 
 ## Syntax
 
- _expression_ . **Send**( **_Cancel_** )
+ _expression_. 'Send'( '_Cancel_' )
 
  _expression_ A variable that represents a **TaskRequestUpdateItem** object.
 

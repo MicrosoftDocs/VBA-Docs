@@ -18,7 +18,7 @@ Returns a  **String** that represents the identifier of the time zone. Read-only
 
 ## Syntax
 
- _expression_ . **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **TimeZone** object.
 

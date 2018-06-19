@@ -20,7 +20,7 @@ Version Added: Visio 2.0
 
 ### Syntax
 
- _expression_ . **Paste**
+ _expression_. 'Paste'
 
  _expression_ A variable that represents a **Window** object.
 

@@ -18,7 +18,7 @@ Scrolls the contents of a window vertically, horizontally, or both.
 
 ## Syntax
 
- _expression_ . **Scroll**( **_nxFlags_** , **_nyFlags_** )
+ _expression_. 'Scroll'( '_nxFlags_' , '_nyFlags_' )
 
  _expression_ A variable that represents a **Window** object.
 

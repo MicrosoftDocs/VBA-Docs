@@ -18,7 +18,7 @@ Locks the file on the server preventing anyone else from editing it.
 
 ## Syntax
 
- _expression_ . **LockServerFile**
+ _expression_. 'LockServerFile'
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

@@ -16,7 +16,7 @@ Occurs after the Excel data model is changed.
 
 ## Syntax
 
- _expression_ . **ModelChange**_(Changes)_
+ _expression_. 'ModelChange'_(Changes)_
 
  _expression_ A variable that represents a **Workbook** object.
 

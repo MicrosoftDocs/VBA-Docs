@@ -18,7 +18,7 @@ Occurs before the reminder is executed.
 
 ## Syntax
 
- _expression_ . **ReminderFire**( **_ReminderObject_** )
+ _expression_. 'ReminderFire'( '_ReminderObject_' )
 
  _expression_ A variable that represents a **Reminders** object.
 

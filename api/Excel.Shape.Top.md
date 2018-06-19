@@ -18,7 +18,7 @@ Returns or sets a  **Single** value that represents the distance, in points, fro
 
 ## Syntax
 
- _expression_ . **Top**
+ _expression_. 'Top'
 
  _expression_ A variable that represents a **Shape** object.
 

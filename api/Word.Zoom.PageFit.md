@@ -18,7 +18,7 @@ Returns or sets the view magnification of a window so that either the entire pag
 
 ## Syntax
 
- _expression_ . **PageFit**
+ _expression_. 'PageFit'
 
  _expression_ Required. A variable that represents a **[Zoom](Word.Zoom.md)** object.
 

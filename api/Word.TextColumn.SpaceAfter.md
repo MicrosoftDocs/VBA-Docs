@@ -15,7 +15,7 @@ Returns or sets the amount of spacing (in points) after the specified paragraph 
 
 ## Syntax
 
- _expression_ . **SpaceAfter**
+ _expression_. 'SpaceAfter'
 
  _expression_ Required. A variable that represents a **[TextColumn](Word.TextColumn.md)** object.
 

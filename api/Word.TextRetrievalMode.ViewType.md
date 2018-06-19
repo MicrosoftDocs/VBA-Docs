@@ -18,7 +18,7 @@ Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdV
 
 ## Syntax
 
- _expression_ . **ViewType**
+ _expression_. 'ViewType'
 
  _expression_ Required. A variable that represents a **[TextRetrievalMode](Word.TextRetrievalMode.md)** object.
 

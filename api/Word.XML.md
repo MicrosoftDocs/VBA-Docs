@@ -18,7 +18,7 @@ Returns a  **String** that represents the text, with or without XML markup, that
 
 ## Syntax
 
- _expression_ . **XML**( **_DataOnly_** )
+ _expression_. 'XML'( '_DataOnly_' )
 
  _expression_ An expression that returns an **XMLNode** object.
 

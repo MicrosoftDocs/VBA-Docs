@@ -18,7 +18,7 @@ Defines a new name for a range of cells.
 
 ## Syntax
 
- _expression_ . **Add**( **_Name_** , **_RefersTo_** , **_Visible_** , **_MacroType_** , **_ShortcutKey_** , **_Category_** , **_NameLocal_** , **_RefersToLocal_** , **_CategoryLocal_** , **_RefersToR1C1_** , **_RefersToR1C1Local_** )
+ _expression_. 'Add'( '_Name_' , '_RefersTo_' , '_Visible_' , '_MacroType_' , '_ShortcutKey_' , '_Category_' , '_NameLocal_' , '_RefersToLocal_' , '_CategoryLocal_' , '_RefersToR1C1_' , '_RefersToR1C1Local_' )
 
  _expression_ A variable that represents a **Names** object.
 

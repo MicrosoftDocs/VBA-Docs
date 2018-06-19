@@ -18,7 +18,7 @@ Updates a read-only workbook from the saved disk version of the workbook if the 
 
 ## Syntax
 
- _expression_ . **UpdateFromFile**
+ _expression_. 'UpdateFromFile'
 
  _expression_ A variable that represents a **Workbook** object.
 

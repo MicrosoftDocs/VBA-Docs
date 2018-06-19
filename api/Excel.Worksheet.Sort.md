@@ -18,7 +18,7 @@ Returns a  **[Sort](Excel.Sort.md)** object. Read-only.
 
 ## Syntax
 
- _expression_ . **Sort**
+ _expression_. 'Sort'
 
  _expression_ A variable that represents a **Worksheet** object.
 

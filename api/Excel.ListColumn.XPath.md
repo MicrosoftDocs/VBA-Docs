@@ -18,7 +18,7 @@ Returns an  **[XPath](Excel.XPath.md)** object that represents the Xpath of the 
 
 ## Syntax
 
- _expression_ . **XPath**
+ _expression_. 'XPath'
 
  _expression_ A variable that represents a **ListColumn** object.
 

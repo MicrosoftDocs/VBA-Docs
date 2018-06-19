@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **OMat
 
 ## Syntax
 
- _expression_ . **Parent**
+ _expression_. 'Parent'
 
  _expression_ A variable that represents a **[OMathScrSup](Word.OMathScrSup.md)** object.
 

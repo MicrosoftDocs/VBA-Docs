@@ -18,7 +18,7 @@ Switches between showing all text (headings and body text) and showing only head
 
 ## Syntax
 
- _expression_ . **ShowAllHeadings**
+ _expression_. 'ShowAllHeadings'
 
  _expression_ Required. A variable that represents a **[View](Word.View.md)** object.
 

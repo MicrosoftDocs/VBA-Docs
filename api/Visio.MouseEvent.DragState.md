@@ -18,7 +18,7 @@ Returns information about the state of mouse movement as it relates to dragging 
 
 ## Syntax
 
- _expression_ . **DragState**
+ _expression_. 'DragState'
 
  _expression_ An expression that returns a **MouseEvent** object.
 

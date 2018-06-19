@@ -18,7 +18,7 @@ Returns a  **[Graphic](Excel.Graphic.md)** object that represents the picture fo
 
 ## Syntax
 
- _expression_ . **LeftHeaderPicture**
+ _expression_. 'LeftHeaderPicture'
 
  _expression_ A variable that represents a **PageSetup** object.
 

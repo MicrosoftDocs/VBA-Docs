@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents a range tha
 
 ## Syntax
 
- _expression_ . **Offset**( **_RowOffset_** , **_ColumnOffset_** )
+ _expression_. 'Offset'( '_RowOffset_' , '_ColumnOffset_' )
 
  _expression_ A variable that represents a **Range** object.
 

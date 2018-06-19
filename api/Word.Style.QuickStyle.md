@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether the style corresponds to 
 
 ## Syntax
 
- _expression_ . **QuickStyle**
+ _expression_. 'QuickStyle'
 
  _expression_ An expression that returns a **Style** object.
 

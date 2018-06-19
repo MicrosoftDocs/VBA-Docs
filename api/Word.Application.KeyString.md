@@ -18,7 +18,7 @@ Returns the key combination string for the specified keys (for example, CTRL+SHI
 
 ## Syntax
 
- _expression_ . **KeyString**( **_KeyCode_** , **_KeyCode2_** )
+ _expression_. 'KeyString'( '_KeyCode_' , '_KeyCode2_' )
 
  _expression_ A variable that represents an **[Application](Word.Application.md)** object.
 

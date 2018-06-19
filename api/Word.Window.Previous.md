@@ -18,7 +18,7 @@ Returns the previous document window in the collection open document windows. Re
 
 ## Syntax
 
- _expression_ . **Previous**
+ _expression_. 'Previous'
 
  _expression_ A variable that represents a **[Window](Word.Window.md)** object.
 

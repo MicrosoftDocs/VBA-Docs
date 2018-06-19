@@ -18,7 +18,7 @@ Returns an  **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** object th
 
 ## Syntax
 
- _expression_ . **EmailSignatureEntries**
+ _expression_. 'EmailSignatureEntries'
 
  _expression_ An expression that returns an **[EmailSignature](Word.EmailSignature.md)** object.
 

@@ -18,7 +18,7 @@ Returns the distance from a shape to a point. Read-only.
 
 ## Syntax
 
- _expression_ . **DistanceFromPoint**( **_x_** , **_y_** , **_Flags_** , **_[pvPathIndex]_** , **_[pvCurveIndex]_** , **_[pvt]_** )
+ _expression_. 'DistanceFromPoint'( '_x_' , '_y_' , '_Flags_' , '_[pvPathIndex]_' , '_[pvCurveIndex]_' , '_[pvt]_' )
 
  _expression_ A variable that represents a **Shape** object.
 

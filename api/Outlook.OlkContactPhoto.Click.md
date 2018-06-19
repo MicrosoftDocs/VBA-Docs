@@ -18,7 +18,7 @@ Occurs when the control is clicked, either through user action or programmatical
 
 ## Syntax
 
- _expression_ . **Click**
+ _expression_. 'Click'
 
  _expression_ A variable that represents an **OlkContactPhoto** object.
 

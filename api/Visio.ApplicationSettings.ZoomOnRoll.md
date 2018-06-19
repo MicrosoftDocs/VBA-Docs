@@ -18,7 +18,7 @@ Determines whether zooming in to and out from a Microsoft Visio drawing by rolli
 
 ## Syntax
 
- _expression_ . **ZoomOnRoll**
+ _expression_. 'ZoomOnRoll'
 
  _expression_ A variable that represents an **ApplicationSettings** object.
 

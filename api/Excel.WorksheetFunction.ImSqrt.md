@@ -18,7 +18,7 @@ Returns the square root of a complex number in x + yi or x + yj text format.
 
 ## Syntax
 
- _expression_ . **ImSqrt**( **_Arg1_** )
+ _expression_. 'ImSqrt'( '_Arg1_' )
 
  _expression_ A variable that represents a **WorksheetFunction** object.
 

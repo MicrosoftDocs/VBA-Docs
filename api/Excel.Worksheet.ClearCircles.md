@@ -18,7 +18,7 @@ Clears circles from invalid entries on the worksheet.
 
 ## Syntax
 
- _expression_ . **ClearCircles**
+ _expression_. 'ClearCircles'
 
  _expression_ A variable that represents a **Worksheet** object.
 

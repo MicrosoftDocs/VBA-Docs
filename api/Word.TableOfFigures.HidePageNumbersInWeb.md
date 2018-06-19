@@ -18,7 +18,7 @@ Returns or sets whether page numbers in a table of contents or a table of figure
 
 ## Syntax
 
- _expression_ . **HidePageNumbersInWeb**
+ _expression_. 'HidePageNumbersInWeb'
 
  _expression_ A variable that represents a **[TableOfFigures](Word.TableOfFigures.md)** collection.
 

@@ -18,7 +18,7 @@ Returns or sets the style of the specified WordArt. The values for this property
 
 ## Syntax
 
- _expression_ . **PresetTextEffect**
+ _expression_. 'PresetTextEffect'
 
  _expression_ Required. A variable that represents a **[TextEffectFormat](Word.TextEffectFormat.md)** object.
 

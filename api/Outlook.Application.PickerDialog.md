@@ -18,7 +18,7 @@ Returns a  **[PickerDialog](http://msdn.microsoft.com/library/279b1a6a-f09d-a0e7
 
 ## Syntax
 
- _expression_ . **PickerDialog**
+ _expression_. 'PickerDialog'
 
  _expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 

@@ -13,7 +13,7 @@ Sets the color, style, and optionally the embellishment of the variant of the th
 
 ## Syntax
 
- _expression_ . **SetThemeVariant**_(variantColor,_ _variantStyle,_ _embellishment)_
+ _expression_. 'SetThemeVariant'_(variantColor,_ _variantStyle,_ _embellishment)_
 
  _expression_ A variable that represents a **Page** object.
 

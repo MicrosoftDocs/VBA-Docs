@@ -18,7 +18,7 @@ Returns a  **[NewFile](http://msdn.microsoft.com/library/6f53ced5-4488-b67f-ca1f
 
 ## Syntax
 
- _expression_ . **NewWorkbook**
+ _expression_. 'NewWorkbook'
 
  _expression_ An expression that returns a **Application** object.
 

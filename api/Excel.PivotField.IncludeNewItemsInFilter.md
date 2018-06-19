@@ -18,7 +18,7 @@ Allows developers to specify whether excluded or included items should be tracke
 
 ## Syntax
 
- _expression_ . **IncludeNewItemsInFilter**
+ _expression_. 'IncludeNewItemsInFilter'
 
  _expression_ A variable that represents a **PivotField** object.
 

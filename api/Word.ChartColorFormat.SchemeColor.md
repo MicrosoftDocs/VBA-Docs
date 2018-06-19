@@ -18,7 +18,7 @@ Returns or sets the index of a color in the current color scheme. Read/write  **
 
 ## Syntax
 
- _expression_ . **SchemeColor**
+ _expression_. 'SchemeColor'
 
  _expression_ A variable that represents a **[ChartColorFormat](Word.ChartColorFormat.md)** object.
 

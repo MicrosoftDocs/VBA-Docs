@@ -18,7 +18,7 @@ Returns the complementary error function integrated between the specified value 
 
 ## Syntax
 
- _expression_ . **ErfC_Precise**( **_Arg1_** )
+ _expression_. 'ErfC_Precise'( '_Arg1_' )
 
  _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 

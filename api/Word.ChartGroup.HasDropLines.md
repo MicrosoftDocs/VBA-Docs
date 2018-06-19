@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_ . **HasDropLines**
+ _expression_. 'HasDropLines'
 
  _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
 

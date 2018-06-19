@@ -18,7 +18,7 @@ Returns or sets a  **Single** that lightens or darkens the fill color of a cell 
 
 ## Syntax
 
- _expression_ . **TintAndShade**
+ _expression_. 'TintAndShade'
 
  _expression_ A variable that represents a **FormatColor** object.
 

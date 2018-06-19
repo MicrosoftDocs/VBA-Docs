@@ -18,7 +18,7 @@ Returns the registered organization name. Read-only  **String** .
 
 ## Syntax
 
- _expression_ . **OrganizationName**
+ _expression_. 'OrganizationName'
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Creates a new validation issue that is based on the validation rule, and adds it
 
 ## Syntax
 
- _expression_ . **AddIssue**( **_[TargetPage]_** , **_[TargetShape]_** )
+ _expression_. 'AddIssue'( '_[TargetPage]_' , '_[TargetShape]_' )
 
  _expression_ A variable that represents a **[ValidationRule](Visio.ValidationRule.md)** object.
 

@@ -18,7 +18,7 @@ Returns a  **Research** object that represents the research service for a workbo
 
 ## Syntax
 
- _expression_ . **Research**
+ _expression_. 'Research'
 
  _expression_ A variable that represents a **Workbook** object.
 

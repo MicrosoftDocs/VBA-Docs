@@ -18,7 +18,7 @@ Returns an individual  **Break** object in a collection.
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ Required. A variable that represents a **[Breaks](Word.Breaks.md)** collection.
 

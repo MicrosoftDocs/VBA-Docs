@@ -18,7 +18,7 @@ Returns a  **[Walls](Excel.Walls(objec).md)** object that allows the user to ind
 
 ## Syntax
 
- _expression_ . **BackWall**
+ _expression_. 'BackWall'
 
  _expression_ A variable that represents a **Chart** object.
 

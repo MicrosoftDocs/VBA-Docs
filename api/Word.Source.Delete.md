@@ -18,7 +18,7 @@ Deletes the specified source.
 
 ## Syntax
 
- _expression_ . **Delete**
+ _expression_. 'Delete'
 
  _expression_ An expression that returns a **Source** object.
 

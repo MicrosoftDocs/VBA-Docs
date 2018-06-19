@@ -18,7 +18,7 @@ Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collecti
 
 ## Syntax
 
- _expression_ . **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ An expression that returns a **[CoAuthLocks](Word.CoAuthLocks.md)** object.
 
