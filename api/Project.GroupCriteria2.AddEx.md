@@ -18,7 +18,7 @@ Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection, where *
 
 ## Syntax
 
- _expression_. 'AddEx'( ' _FieldName_', ' _Ascending_', ' _FontName_', ' _FontSize_', ' _FontBold_', ' _FontItalic_', ** _FontUnderLine_**, ** _FontColor_**, ** _CellColor_**, ** _Pattern_**, ** _GroupOn_**, ** _StartAt_**, ** _GroupInterval_** )
+ _expression_. 'AddEx'( ' _FieldName_', ' _Ascending_', ' _FontName_', ' _FontSize_', ' _FontBold_', ' _FontItalic_', ' _FontUnderLine_', ' _FontColor_', ' _CellColor_', ' _Pattern_', ' _GroupOn_', ' _StartAt_', ' _GroupInterval_' )
 
  _expression_ An expression that returns a **GroupCriteria2** object.
 

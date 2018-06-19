@@ -15,7 +15,7 @@ Adds an  **Exception** object to an **Exceptions** collection.
 
 ## Syntax
 
- _expression_. 'Add'( ' _Type_', ' _Start_', ' _Finish_', ' _Occurrences_', ' _Name_', ' _Period_', ** _DaysOfWeek_**, ** _MonthPosition_**, ** _MonthItem_**, ** _Month_**, ** _MonthDay_** )
+ _expression_. 'Add'( ' _Type_', ' _Start_', ' _Finish_', ' _Occurrences_', ' _Name_', ' _Period_', ' _DaysOfWeek_', ' _MonthPosition_', ' _MonthItem_', ' _Month_', ' _MonthDay_' )
 
  _expression_ A variable that represents an **Exceptions** object.
 

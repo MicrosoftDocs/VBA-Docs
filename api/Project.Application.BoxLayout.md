@@ -18,7 +18,7 @@ Specifies the layout of boxes in the active Network Diagram view (PERT chart).
 
 ## Syntax
 
- _expression_. 'BoxLayout'( ' _LayoutMode_', ' _LayoutScheme_', ' _SummaryPrecedence_', ' _RowAlignment_', ' _ColumnAlignment_', ' _RowSpacing_', ** _ColumnSpacing_**, ** _RowHeight_**, ** _ColumnWidth_**, ** _AdjustForPageBreaks_**, ** _ShowSummaryTasks_**, ** _ViewBackgroundColor_**, ** _ViewBackgroundPattern_**, ** _ShowProgressMarks_**, ** _ShowPageBreaks_**, ** _ShowIDOnly_** )
+ _expression_. 'BoxLayout'( ' _LayoutMode_', ' _LayoutScheme_', ' _SummaryPrecedence_', ' _RowAlignment_', ' _ColumnAlignment_', ' _RowSpacing_', ' _ColumnSpacing_', ' _RowHeight_', ' _ColumnWidth_', ' _AdjustForPageBreaks_', ' _ShowSummaryTasks_', ' _ViewBackgroundColor_', ' _ViewBackgroundPattern_', ' _ShowProgressMarks_', ' _ShowPageBreaks_', ' _ShowIDOnly_' )
 
  _expression_ A variable that represents an **Application** object.
 

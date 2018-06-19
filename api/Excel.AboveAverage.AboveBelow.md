@@ -18,7 +18,7 @@ Returns or sets one of the constants of the  **[XlAboveBelow](Excel.XlAboveBelow
 
 ## Syntax
 
- _expression_ . **AboveBelow**
+ _expression_. 'AboveBelow'
 
  _expression_ A variable that represents an **AboveAverage** object.
 

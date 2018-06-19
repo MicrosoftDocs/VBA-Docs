@@ -18,7 +18,7 @@ Changes one or more days in a base calendar.
 
 ## Syntax
 
- _expression_. 'BaseCalendarEditDays'( ' _Name_', ' _StartDate_', ' _EndDate_', ' _WeekDay_', ' _Working_', ' _From1_', ** _To1_**, ** _From2_**, ** _To2_**, ** _From3_**, ** _To3_**, ** _Default_**, ** _From4_**, ** _To4_**, ** _From5_**, ** _To5_** )
+ _expression_. 'BaseCalendarEditDays'( ' _Name_', ' _StartDate_', ' _EndDate_', ' _WeekDay_', ' _Working_', ' _From1_', ' _To1_', ' _From2_', ' _To2_', ' _From3_', ' _To3_', ' _Default_', ' _From4_', ' _To4_', ' _From5_', ' _To5_' )
 
  _expression_ A variable that represents an **Application** object.
 

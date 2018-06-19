@@ -18,7 +18,7 @@ The **OpenForm** method carries out the **OpenForm** action in Visual Basic.
 
 ## Syntax
 
- _expression_. 'OpenForm' ('_FormName_', '_View_', '_FilterName_', '_WhereCondition_', '_DataMode_', '_WindowMode_', **_OpenArgs_**)
+ _expression_. 'OpenForm' ('_FormName_', '_View_', '_FilterName_', '_WhereCondition_', '_DataMode_', '_WindowMode_', '_OpenArgs_')
 
  _expression_ A variable that represents a **DoCmd** object.
 

@@ -18,7 +18,7 @@ Sets calculation options.
 
 ## Syntax
 
- _expression_. 'OptionsCalculation'( ' _Automatic_', ' _AutoTrack_', ' _SpreadPercentToStatusDate_', ' _SpreadCostsToStatusDate_', ' _AutoCalcCosts_', ' _FixedCostAccrual_', ** _CalcMultipleCriticalPaths_**, ** _CriticalSlack_**, ** _SetDefaults_**, ** _CalcInsProjLikeSummTask_**, ** _MoveCompleted_**, ** _AndMoveRemaining_**, ** _MoveRemaining_**, ** _AndMoveCompleted_**, ** _EVMethod_**, ** _EVBaseline_** )
+ _expression_. 'OptionsCalculation'( ' _Automatic_', ' _AutoTrack_', ' _SpreadPercentToStatusDate_', ' _SpreadCostsToStatusDate_', ' _AutoCalcCosts_', ' _FixedCostAccrual_', ' _CalcMultipleCriticalPaths_', ' _CriticalSlack_', ' _SetDefaults_', ' _CalcInsProjLikeSummTask_', ' _MoveCompleted_', ' _AndMoveRemaining_', ' _MoveRemaining_', ' _AndMoveCompleted_', ' _EVMethod_', ' _EVBaseline_' )
 
  _expression_ A variable that represents an **Application** object.
 

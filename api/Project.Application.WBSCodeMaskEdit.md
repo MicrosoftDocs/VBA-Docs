@@ -18,7 +18,7 @@ Edits the work breakdown structure (WBS) code mask.
 
 ## Syntax
 
- _expression_. 'WBSCodeMaskEdit'( ' _CodePrefix_', ' _Level_', ' _Sequence_', ' _Length_', ' _Separator_', ' _CodeGenerate_', ** _VerifyUniqueness_** )
+ _expression_. 'WBSCodeMaskEdit'( ' _CodePrefix_', ' _Level_', ' _Sequence_', ' _Length_', ' _Separator_', ' _CodeGenerate_', ' _VerifyUniqueness_' )
 
  _expression_ A variable that represents an **Application** object.
 

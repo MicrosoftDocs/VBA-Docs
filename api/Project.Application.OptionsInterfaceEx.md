@@ -18,7 +18,7 @@ Sets some display options and Project Guide options.
 
 ## Syntax
 
- _expression_. 'OptionsInterfaceEx'( ' _ShowResourceAssignmentIndicators_', ' _ShowEditToStartFinishDates_', ' _ShowEditsToWorkUnitsDurationIndicators_', ' _ShowDeletionInNameColumn_', ' _DisplayProjectGuide_', ' _ProjectGuideUseDefaultFunctionalLayoutPage_', ** _ProjectGuideFunctionalLayoutPage_**, ** _ProjectGuideUseDefaultContent_**, ** _ProjectGuideContent_**, ** _SetAsDefaults_**, ** _UseOMIDs_** )
+ _expression_. 'OptionsInterfaceEx'( ' _ShowResourceAssignmentIndicators_', ' _ShowEditToStartFinishDates_', ' _ShowEditsToWorkUnitsDurationIndicators_', ' _ShowDeletionInNameColumn_', ' _DisplayProjectGuide_', ' _ProjectGuideUseDefaultFunctionalLayoutPage_', ' _ProjectGuideFunctionalLayoutPage_', ' _ProjectGuideUseDefaultContent_', ' _ProjectGuideContent_', ' _SetAsDefaults_', ' _UseOMIDs_' )
 
  _expression_ A variable that represents an **Application** object.
 
