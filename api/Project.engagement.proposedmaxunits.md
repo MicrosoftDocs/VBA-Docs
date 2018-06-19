@@ -13,7 +13,7 @@ The ProposedMaxUnits property for the Engagement object. Introduced in Office 20
 
 ## Syntax
 
- _expression_. **ProposedMaxUnits**
+ _expression_. 'ProposedMaxUnits'
 
  _expression_ A variable that represents a **Engagement** object.
 

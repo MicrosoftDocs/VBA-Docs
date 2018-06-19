@@ -18,7 +18,7 @@ Shows whether the specified command is enabled.
 
 ## Syntax
 
- _expression_. **IsCommandEnabled**( ** _CommandName_** )
+ _expression_. 'IsCommandEnabled'( ' _CommandName_' )
 
  _expression_ An expression that returns an **Application** object.
 

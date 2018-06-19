@@ -18,7 +18,7 @@ Scrolls to a resource, task, or date.
 
 ## Syntax
 
- _expression_. **EditGoTo**( ** _ID_**, ** _Date_** )
+ _expression_. 'EditGoTo'( ' _ID_', ' _Date_' )
 
  _expression_ A variable that represents an **Application** object.
 

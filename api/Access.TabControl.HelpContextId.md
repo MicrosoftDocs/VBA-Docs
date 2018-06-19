@@ -18,7 +18,7 @@ The  **HelpContextID** property specifies the context ID of a topic in the custo
 
 ## Syntax
 
- _expression_. **HelpContextId**
+ _expression_. 'HelpContextId'
 
  _expression_ A variable that represents a **TabControl** object.
 

@@ -18,7 +18,7 @@ Changes the data type of a local custom field column in a table.
 
 ## Syntax
 
- _expression_. **ChangeColumnDataType**( ** _Type_**, ** _Column_** )
+ _expression_. 'ChangeColumnDataType'( ' _Type_', ' _Column_' )
 
  _expression_ An expression that returns an **Application** object.
 

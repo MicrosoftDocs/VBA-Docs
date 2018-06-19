@@ -13,7 +13,7 @@ ms.prod: project-server
 
 ## Syntax
 
- _expression_. **Compliant**
+ _expression_. 'Compliant'
 
  _expression_ A variable that represents a **Task** object.
 

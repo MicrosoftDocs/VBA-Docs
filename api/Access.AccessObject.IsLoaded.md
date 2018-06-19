@@ -18,7 +18,7 @@ You can use the **IsLoaded** property to determine if an **[AccessObject](Access
 
 ## Syntax
 
- _expression_. **IsLoaded**
+ _expression_. 'IsLoaded'
 
  _expression_ A variable that represents an **AccessObject** object.
 

@@ -18,7 +18,7 @@ Exports the specified object to an Application XML (AXL) file.
 
 ## Syntax
 
- _expression_. **SaveAsAXL**( ** _ObjectType_**, ** _ObjectName_**, ** _FileName_** )
+ _expression_. 'SaveAsAXL'( ' _ObjectType_', ' _ObjectName_', ' _FileName_' )
 
  _expression_ A variable that represents an **Application** object.
 

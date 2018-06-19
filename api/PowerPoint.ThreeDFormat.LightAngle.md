@@ -18,7 +18,7 @@ Sets or returns the angle at which light impacts the shape whose three-dimension
 
 ## Syntax
 
- _expression_. **LightAngle**
+ _expression_. 'LightAngle'
 
  _expression_ An expression that returns a **ThreeDFormat** object.
 

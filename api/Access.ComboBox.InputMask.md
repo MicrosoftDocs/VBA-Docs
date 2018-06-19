@@ -18,7 +18,7 @@ You can use the  **InputMask** property to make data entry easier and to control
 
 ## Syntax
 
- _expression_. **InputMask**
+ _expression_. 'InputMask'
 
  _expression_ A variable that represents a **ComboBox** object.
 

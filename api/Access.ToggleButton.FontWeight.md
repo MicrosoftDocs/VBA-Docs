@@ -18,7 +18,7 @@ Use the  **FontWeight** property to specify the line width that Windows uses to 
 
 ## Syntax
 
- _expression_. **FontWeight**
+ _expression_. 'FontWeight'
 
  _expression_ A variable that represents a **ToggleButton** object.
 

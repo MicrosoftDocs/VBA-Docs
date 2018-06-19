@@ -18,7 +18,7 @@ Occurs when the specified PivotTable view connects to a data source.
 
 ## Syntax
 
- _expression_. **OnConnect**
+ _expression_. 'OnConnect'
 
  _expression_ A variable that represents a **Form** object.
 

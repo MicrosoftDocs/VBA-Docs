@@ -15,7 +15,7 @@ Gets or sets the baseline finish date of a task  **Assignment**. Read/write **Va
 
 ## Syntax
 
- _expression_. **BaselineFinish**
+ _expression_. 'BaselineFinish'
 
  _expression_ A variable that represents an **Assignment** object.
 

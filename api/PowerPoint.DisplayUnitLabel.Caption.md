@@ -18,7 +18,7 @@ Returns or sets the display unit label text. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **Caption**
+ _expression_. 'Caption'
 
  _expression_ A variable that represents a **[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)** object.
 

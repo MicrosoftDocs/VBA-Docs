@@ -18,7 +18,7 @@ The  **Resize** event occurs when a report is opened and whenever the size of a 
 
 ## Syntax
 
- _expression_. **Resize**
+ _expression_. 'Resize'
 
  _expression_ A variable that represents a **Report** object.
 

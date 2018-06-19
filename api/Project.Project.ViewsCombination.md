@@ -18,7 +18,7 @@ Gets a  **[ViewsCombination](Project.ViewCombination.md)** collection representi
 
 ## Syntax
 
- _expression_. **ViewsCombination**
+ _expression_. 'ViewsCombination'
 
  _expression_ A variable that represents a **Project** object.
 

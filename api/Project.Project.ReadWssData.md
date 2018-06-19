@@ -18,7 +18,7 @@ Returns the Project Workspace URLs for the active enterprise project as an XML s
 
 ## Syntax
 
- _expression_. **ReadWssData**( ** _ProjectGuid_** )
+ _expression_. 'ReadWssData'( ' _ProjectGuid_' )
 
  _expression_ A variable that represents a **Project** object.
 

@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Activate** box in the **Properties** wind
 
 ## Syntax
 
- _expression_. **OnActivate**
+ _expression_. 'OnActivate'
 
  _expression_ A variable that represents a **Form** object.
 

@@ -11,7 +11,7 @@ Gets a value that indicates whether the task is a predecessor that drives the se
 
 ## Syntax
 
- _expression_. **PathDrivingPredecessor**
+ _expression_. 'PathDrivingPredecessor'
 
  _expression_ A variable that represents a **Task** object.
 

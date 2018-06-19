@@ -18,7 +18,7 @@ Gets the index of a  **Table** object in the **Tables** containing object. Read-
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents a **Table** object.
 

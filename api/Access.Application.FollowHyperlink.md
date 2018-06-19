@@ -18,7 +18,7 @@ The  **FollowHyperlink** method opens the document or Web page specified by a hy
 
 ## Syntax
 
- _expression_. **FollowHyperlink**( ** _Address_**, ** _SubAddress_**, ** _NewWindow_**, ** _AddHistory_**, ** _ExtraInfo_**, ** _Method_**, ** _HeaderInfo_** )
+ _expression_. 'FollowHyperlink'( ' _Address_', ' _SubAddress_', ' _NewWindow_', ' _AddHistory_', ' _ExtraInfo_', ' _Method_', ** _HeaderInfo_** )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Checks out the specified file if it is stored in a SharePoint document library.
 
 ## Syntax
 
- _expression_. **CheckOut**( ** _Filename_** )
+ _expression_. 'CheckOut'( ' _Filename_' )
 
  _expression_ A variable that represents a **Projects** object.
 

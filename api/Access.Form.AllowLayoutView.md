@@ -18,7 +18,7 @@ Gets or sets whether the specified form can be used in Layout View. Read/write  
 
 ## Syntax
 
- _expression_. **AllowLayoutView**
+ _expression_. 'AllowLayoutView'
 
  _expression_ A variable that represents a **Form** object.
 

@@ -11,7 +11,7 @@ Selects all shapes in the  **Shapes** collection.
 
 ## Syntax
 
- _expression_. **SelectAll**
+ _expression_. 'SelectAll'
 
  _expression_ A variable that represents a **Shapes** object.
 

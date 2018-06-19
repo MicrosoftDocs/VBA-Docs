@@ -18,7 +18,7 @@ Returns the name of the active printer. Read-only.
 
 ## Syntax
 
- _expression_. **ActivePrinter**
+ _expression_. 'ActivePrinter'
 
  _expression_ A variable that represents a **PrintOptions** object.
 

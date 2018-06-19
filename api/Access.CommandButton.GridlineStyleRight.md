@@ -18,7 +18,7 @@ Gets or sets the right gridline style of the specified button. Read/write  **Byt
 
 ## Syntax
 
- _expression_. **GridlineStyleRight**
+ _expression_. 'GridlineStyleRight'
 
  _expression_ A variable that represents a **CommandButton** object.
 

@@ -15,7 +15,7 @@ Gets the date that the timescale in the current view starts. Read-only  **Varian
 
 ## Syntax
 
- _expression_. **TimescaleStart**
+ _expression_. 'TimescaleStart'
 
  _expression_ An expression that returns an **Application** object.
 

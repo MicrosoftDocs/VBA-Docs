@@ -15,7 +15,7 @@ Occurs when the user shows or hides the Project Guide.
 
 ## Syntax
 
- _expression_. **WindowSidepaneDisplayChange**( ** _Window_**, ** _Close_** )
+ _expression_. 'WindowSidepaneDisplayChange'( ' _Window_', ' _Close_' )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Returns or sets the base line alignment for the specified paragraph. Read/write.
 
 ## Syntax
 
- _expression_. **BaseLineAlignment**
+ _expression_. 'BaseLineAlignment'
 
  _expression_ A variable that represents a **ParagraphFormat** object.
 

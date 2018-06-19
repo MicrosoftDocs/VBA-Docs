@@ -18,7 +18,7 @@ Specifies a custom toolbar to display for a report. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **Toolbar**
+ _expression_. 'Toolbar'
 
  _expression_ A variable that represents a **Report** object.
 

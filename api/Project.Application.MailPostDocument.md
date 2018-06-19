@@ -18,7 +18,7 @@ Displays the  **Send To Exchange Folder** dialog box to post a document to Micro
 
 ## Syntax
 
- _expression_. **MailPostDocument**
+ _expression_. 'MailPostDocument'
 
  _expression_ A variable that represents an **Application** object.
 

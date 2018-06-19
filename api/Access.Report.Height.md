@@ -18,7 +18,7 @@ Gets or sets the height of the specified object in twips. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. **Height**
+ _expression_. 'Height'
 
  _expression_ A variable that represents a **Report** object.
 

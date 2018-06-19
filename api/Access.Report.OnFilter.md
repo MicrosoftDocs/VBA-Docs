@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Filter** box in the **Properties** window
 
 ## Syntax
 
- _expression_. **OnFilter**
+ _expression_. 'OnFilter'
 
  _expression_ A variable that represents a **Report** object.
 

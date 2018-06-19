@@ -18,7 +18,7 @@ Quits Project.
 
 ## Syntax
 
- _expression_. **FileExit**( ** _Save_** )
+ _expression_. 'FileExit'( ' _Save_' )
 
  _expression_ A variable that represents an **Application** object.
 

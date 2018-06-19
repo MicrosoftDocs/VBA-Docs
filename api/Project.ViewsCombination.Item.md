@@ -15,7 +15,7 @@ Gets a single  **View** object from the **ViewsCombination** collection. Read-on
 
 ## Syntax
 
- _expression_. **Item**( ** _Index_** )
+ _expression_. 'Item'( ' _Index_' )
 
  _expression_ A variable that represents a **ViewsCombination** object.
 

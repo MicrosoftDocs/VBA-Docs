@@ -18,7 +18,7 @@ Gets or sets the color of the cell background. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. **CellColorEx**
+ _expression_. 'CellColorEx'
 
  _expression_ An expression that returns a **Cell** object.
 

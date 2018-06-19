@@ -11,7 +11,7 @@ Gets an  **Office.IMsoChartArea** object that represents the complete chart area
 
 ## Syntax
 
- _expression_. **ChartArea**
+ _expression_. 'ChartArea'
 
  _expression_ A variable that represents a **Chart** object.
 

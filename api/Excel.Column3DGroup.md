@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a ChartGroup object that represents the specified column chart group on a 3-D chart. Read-only ChartGroup object.
 
- _expression_. **Column3DGroup**
+ _expression_. 'Column3DGroup'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

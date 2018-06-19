@@ -15,7 +15,7 @@ Gets the GUID of the calendar for the task. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **CalendarGuid**
+ _expression_. 'CalendarGuid'
 
  _expression_ An expression that returns a **Task** object.
 

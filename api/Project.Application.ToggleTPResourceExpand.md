@@ -18,7 +18,7 @@ Expands or collapses the specified resource row in the Team Planner view, when t
 
 ## Syntax
 
- _expression_. **ToggleTPResourceExpand**( ** _ResourceUniqueID_** )
+ _expression_. 'ToggleTPResourceExpand'( ' _ResourceUniqueID_' )
 
  _expression_ An expression that returns an **Application** object.
 

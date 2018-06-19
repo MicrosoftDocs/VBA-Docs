@@ -18,7 +18,7 @@ You can use this property to determine the distance in twips from the top edge o
 
 ## Syntax
 
- _expression_. **CurrentSectionTop**
+ _expression_. 'CurrentSectionTop'
 
  _expression_ A variable that represents a **Form** object.
 

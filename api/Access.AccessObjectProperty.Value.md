@@ -18,7 +18,7 @@ Determines or specifies the value of a built-in property of an  **[AccessObject]
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents an **AccessObjectProperty** object.
 

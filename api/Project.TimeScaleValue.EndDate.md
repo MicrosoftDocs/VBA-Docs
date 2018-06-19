@@ -18,7 +18,7 @@ The end date for a period of time that defines the timescale value. Read-only  *
 
 ## Syntax
 
- _expression_. **EndDate**
+ _expression_. 'EndDate'
 
  _expression_ A variable that represents a **TimeScaleValue** object.
 

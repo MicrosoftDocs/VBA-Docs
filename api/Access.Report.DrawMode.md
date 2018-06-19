@@ -18,7 +18,7 @@ You can use the  **DrawMode** property to specify how the pen (the color used in
 
 ## Syntax
 
- _expression_. **DrawMode**
+ _expression_. 'DrawMode'
 
  _expression_ A variable that represents a **Report** object.
 

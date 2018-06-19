@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that specifies whether the **AutoCorrect Op
 
 ## Syntax
 
- _expression_. **DisplayAutoCorrectOptions**
+ _expression_. 'DisplayAutoCorrectOptions'
 
  _expression_ A variable that represents an **AutoCorrect** object.
 

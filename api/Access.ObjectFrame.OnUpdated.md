@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Updated** box in the **Properties** windo
 
 ## Syntax
 
- _expression_. **OnUpdated**
+ _expression_. 'OnUpdated'
 
  _expression_ A variable that represents an **ObjectFrame** object.
 

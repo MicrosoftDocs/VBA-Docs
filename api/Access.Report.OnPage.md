@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Page** box in the **Properties** window o
 
 ## Syntax
 
- _expression_. **OnPage**
+ _expression_. 'OnPage'
 
  _expression_ A variable that represents a **Report** object.
 

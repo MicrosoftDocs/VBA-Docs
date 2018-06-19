@@ -18,7 +18,7 @@ Adds a variable to the  **[TempVars](Access.TempVars.md)** collection.
 
 ## Syntax
 
- _expression_. **Add**( ** _Name_**, ** _Value_** )
+ _expression_. 'Add'( ' _Name_', ' _Value_' )
 
  _expression_ A variable that represents a **TempVars** object.
 

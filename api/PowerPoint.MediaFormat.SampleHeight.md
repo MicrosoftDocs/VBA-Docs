@@ -18,7 +18,7 @@ Returns the resolution height of the sample media. Read-only.
 
 ## Syntax
 
- _expression_. **SampleHeight**
+ _expression_. 'SampleHeight'
 
  _expression_ An expression that returns a **MediaFormat** object.
 

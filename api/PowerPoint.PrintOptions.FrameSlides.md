@@ -18,7 +18,7 @@ Determines whether a thin frame is placed around the border of the printed slide
 
 ## Syntax
 
- _expression_. **FrameSlides**
+ _expression_. 'FrameSlides'
 
  _expression_ A variable that represents a **PrintOptions** object.
 

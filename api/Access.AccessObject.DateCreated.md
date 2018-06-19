@@ -18,7 +18,7 @@ Returns a  **Date** indicating the date and time when the design of the specifie
 
 ## Syntax
 
- _expression_. **DateCreated**
+ _expression_. 'DateCreated'
 
  _expression_ A variable that represents an **AccessObject** object.
 

@@ -11,7 +11,7 @@ Gets a single  **Report** object from the **Reports** collection. Read-only **Re
 
 ## Syntax
 
- _expression_. **Item**
+ _expression_. 'Item'
 
  _expression_ A variable that represents a **Reports** object.
 

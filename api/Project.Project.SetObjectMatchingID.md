@@ -15,7 +15,7 @@ Sets the matching identification value of an object in the  **Organizer** dialog
 
 ## Syntax
 
- _expression_. **SetObjectMatchingID**( ** _ObjectType_**, ** _ObjectName_**, ** _MatchingID_** )
+ _expression_. 'SetObjectMatchingID'( ' _ObjectType_', ' _ObjectName_', ' _MatchingID_' )
 
  _expression_ A variable that represents a **Project** object.
 

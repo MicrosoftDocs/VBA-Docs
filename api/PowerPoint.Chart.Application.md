@@ -18,7 +18,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 ## Syntax
 
- _expression_. **Application**
+ _expression_. 'Application'
 
  _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets the amount of space between base lines in the specified text, in
 
 ## Syntax
 
- _expression_. **SpaceWithin**
+ _expression_. 'SpaceWithin'
 
  _expression_ A variable that represents a **ParagraphFormat** object.
 

@@ -18,7 +18,7 @@ Indicates whether the selected section is expanded in the  **DocumentWindow**.
 
 ## Syntax
 
- _expression_. **IsSectionExpanded**( **_sectionIndex_** )
+ _expression_. 'IsSectionExpanded'( '_sectionIndex_' )
 
  _expression_ A variable that represents a **DocumentWindow** object.
 

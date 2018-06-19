@@ -18,7 +18,7 @@ Determines whether Microsoft PowerPoint should remove all user information from 
 
 ## Syntax
 
- _expression_. **RemovePersonalInformation**
+ _expression_. 'RemovePersonalInformation'
 
  _expression_ A variable that represents a **Presentation** object.
 

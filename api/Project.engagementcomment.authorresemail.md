@@ -13,7 +13,7 @@ The AuthorResEmail property for the EngagementComment object. Introduced in Offi
 
 ## Syntax
 
- _expression_. **AuthorResEmail**
+ _expression_. 'AuthorResEmail'
 
  _expression_ A variable that represents a **EngagementComment** object.
 

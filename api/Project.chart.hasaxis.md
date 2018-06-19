@@ -11,7 +11,7 @@ Gets or sets which axes exist on a chart. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **HasAxis**
+ _expression_. 'HasAxis'
 
  _expression_ A variable that represents a **Chart** object.
 

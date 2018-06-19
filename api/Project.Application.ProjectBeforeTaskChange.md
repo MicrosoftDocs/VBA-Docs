@@ -15,7 +15,7 @@ Occurs before the user changes the value of a task field.
 
 ## Syntax
 
- _expression_. **ProjectBeforeTaskChange**( ** _tsk_**, ** _Field_**, ** _NewVal_**, ** _Cancel_** )
+ _expression_. 'ProjectBeforeTaskChange'( ' _tsk_', ' _Field_', ' _NewVal_', ' _Cancel_' )
 
  _expression_ A variable that represents an **Application** object.
 

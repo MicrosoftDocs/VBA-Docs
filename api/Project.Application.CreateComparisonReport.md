@@ -18,7 +18,7 @@ Creates a comparison report between two versions of a project.
 
 ## Syntax
 
- _expression_. **CreateComparisonReport**( ** _Filename_**, ** _TaskTable_**, ** _ResourceTable_**, ** _Items_**, ** _Columns_**, ** _ShowLegend_** )
+ _expression_. 'CreateComparisonReport'( ' _Filename_', ' _TaskTable_', ' _ResourceTable_', ' _Items_', ' _Columns_', ' _ShowLegend_' )
 
  _expression_ An expression that returns an **Application** object.
 

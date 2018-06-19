@@ -15,7 +15,7 @@ Gets or sets the name of the field being grouped by. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **FieldName**
+ _expression_. 'FieldName'
 
  _expression_ An expression that returns a **GroupCriterion2** object.
 

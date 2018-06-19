@@ -18,7 +18,7 @@ Gets or sets the text that appears in the control. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **Caption**
+ _expression_. 'Caption'
 
  _expression_ A variable that represents a **NavigationButton** object.
 

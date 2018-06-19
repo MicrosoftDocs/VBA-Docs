@@ -18,7 +18,7 @@ Returns a single  **Shape** object from the specified **ShapeRange** collection.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **ShapeRange** object.
 

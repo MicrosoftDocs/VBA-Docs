@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** indicating whether a Report window opens automati
 
 ## Syntax
 
- _expression_. **AutoResize**
+ _expression_. 'AutoResize'
 
  _expression_ A variable that represents a **Report** object.
 

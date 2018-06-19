@@ -18,7 +18,7 @@ You can use the  **EmailSubject** property to specify or determine return the em
 
 ## Syntax
 
- _expression_. **EmailSubject**
+ _expression_. 'EmailSubject'
 
  _expression_ A variable that represents a **Hyperlink** object.
 

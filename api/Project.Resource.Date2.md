@@ -15,7 +15,7 @@ Gets or sets the value of the  **Date2** custom field for the resource. Read/wri
 
 ## Syntax
 
- _expression_. **Date2**
+ _expression_. 'Date2'
 
  _expression_ A variable that represents a **Resource** object.
 

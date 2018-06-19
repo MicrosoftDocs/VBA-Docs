@@ -18,7 +18,7 @@ Returns the position of the first character in the specified text range relative
 
 ## Syntax
 
- _expression_. **Start**
+ _expression_. 'Start'
 
  _expression_ A variable that represents a **TextRange** object.
 

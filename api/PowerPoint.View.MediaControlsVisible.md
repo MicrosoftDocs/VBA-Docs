@@ -18,7 +18,7 @@ Indicates whether the media controls are currently visible. Read-only.
 
 ## Syntax
 
- _expression_. **MediaControlsVisible**
+ _expression_. 'MediaControlsVisible'
 
  _expression_ A variable that represents a **View** object.
 

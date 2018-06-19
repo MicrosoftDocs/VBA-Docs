@@ -18,7 +18,7 @@ Along with the  **TopMargin**, **RightMargin**, and **LeftMargin** properties, s
 
 ## Syntax
 
- _expression_. **BottomMargin**
+ _expression_. 'BottomMargin'
 
  _expression_ A variable that represents a **Printer** object.
 

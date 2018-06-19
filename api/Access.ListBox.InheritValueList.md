@@ -18,7 +18,7 @@ Gets or sets whether a list box's value list is inherited from its field. Read/w
 
 ## Syntax
 
- _expression_. **InheritValueList**
+ _expression_. 'InheritValueList'
 
  _expression_ A variable that represents a **ListBox** object.
 

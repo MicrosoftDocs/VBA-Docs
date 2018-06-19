@@ -18,7 +18,7 @@ Starts a Help file.
 
 ## Syntax
 
- _expression_. **HelpLaunch**( ** _Filename_**, ** _ContextNumber_**, ** _Search_**, ** _SearchKey_** )
+ _expression_. 'HelpLaunch'( ' _Filename_', ' _ContextNumber_', ' _Search_', ' _SearchKey_' )
 
  _expression_ A variable that represents an **Application** object.
 

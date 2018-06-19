@@ -16,7 +16,7 @@ Submits all the engagements in the project to the resource manager for review. I
 
 ## Syntax
 
- _expression_. **SubmitAllEngagementsForProject**
+ _expression_. 'SubmitAllEngagementsForProject'
 
  _expression_ A variable that represents a **Application** object.
 

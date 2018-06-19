@@ -18,7 +18,7 @@ Moves the start date of one or more selected tasks the specified number of days.
 
 ## Syntax
 
- _expression_. **TaskMove**( ** _MoveForward_**, ** _IsWorkingDuration_**, ** _MoveDays_** )
+ _expression_. 'TaskMove'( ' _MoveForward_', ' _IsWorkingDuration_', ' _MoveDays_' )
 
  _expression_ An expression that returns an **Application** object.
 

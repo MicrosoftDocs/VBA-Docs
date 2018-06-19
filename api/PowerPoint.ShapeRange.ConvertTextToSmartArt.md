@@ -18,7 +18,7 @@ Returns the number of objects in the specified collection. Read-only.
 
 ## Syntax
 
- _expression_. **ConvertTextToSmartArt**( **_Layout_** )
+ _expression_. 'ConvertTextToSmartArt'( '_Layout_' )
 
  _expression_ A variable that represents a **ShapeRange** object.
 

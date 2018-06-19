@@ -18,7 +18,7 @@ The  **BuildCriteria** method returns a parsed criteria string as it would appea
 
 ## Syntax
 
- _expression_. **BuildCriteria**( ** _Field_**, ** _FieldType_**, ** _Expression_** )
+ _expression_. 'BuildCriteria'( ' _Field_', ' _FieldType_', ' _Expression_' )
 
  _expression_ A variable that represents an **Application** object.
 

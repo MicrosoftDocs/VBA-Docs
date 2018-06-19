@@ -18,7 +18,7 @@ Returns or sets the first slide to be displayed in the specified slide show. Rea
 
 ## Syntax
 
- _expression_. **StartingSlide**
+ _expression_. 'StartingSlide'
 
  _expression_ A variable that represents a **SlideShowSettings** object.
 

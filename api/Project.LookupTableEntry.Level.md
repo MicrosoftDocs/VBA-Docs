@@ -18,7 +18,7 @@ Gets or sets the specific level of the lookup table entry. Can be an integer val
 
 ## Syntax
 
- _expression_. **Level**
+ _expression_. 'Level'
 
  _expression_ A variable that represents a **LookupTableEntry** object.
 

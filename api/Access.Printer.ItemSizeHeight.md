@@ -18,7 +18,7 @@ Returns or sets a  **Long** indicating the height of the detail section of a for
 
 ## Syntax
 
- _expression_. **ItemSizeHeight**
+ _expression_. 'ItemSizeHeight'
 
  _expression_ A variable that represents a **Printer** object.
 

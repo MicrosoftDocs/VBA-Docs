@@ -18,7 +18,7 @@ Determinew whether to display special formatting for the first row of the specif
 
 ## Syntax
 
- _expression_. **FirstRow**
+ _expression_. 'FirstRow'
 
  _expression_ A variable that represents a **Table** object.
 

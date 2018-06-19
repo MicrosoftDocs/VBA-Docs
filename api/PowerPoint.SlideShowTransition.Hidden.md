@@ -18,7 +18,7 @@ Determines whether the specified slide is hidden during a slide show. Read/write
 
 ## Syntax
 
- _expression_. **Hidden**
+ _expression_. 'Hidden'
 
  _expression_ A variable that represents a **SlideShowTransition** object.
 

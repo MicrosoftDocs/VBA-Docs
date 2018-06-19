@@ -18,7 +18,7 @@ You can use the  **PreviousControl** property with the **[Screen](Access.Screen.
 
 ## Syntax
 
- _expression_. **PreviousControl**
+ _expression_. 'PreviousControl'
 
  _expression_ A variable that represents a **Screen** object.
 

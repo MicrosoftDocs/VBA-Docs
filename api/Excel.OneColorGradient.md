@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Sets the specified fill to a one-color gradient.
 
- _expression_. **OneColorGradient**( **_Style_**,  **_Variant_**,  **_Degree_**)
+ _expression_. 'OneColorGradient'( '_Style_',  '_Variant_',  '_Degree_')
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

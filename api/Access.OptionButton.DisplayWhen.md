@@ -18,7 +18,7 @@ You can use the  **DisplayWhen** property to specify which of a form's controls 
 
 ## Syntax
 
- _expression_. **DisplayWhen**
+ _expression_. 'DisplayWhen'
 
  _expression_ A variable that represents an **OptionButton** object.
 

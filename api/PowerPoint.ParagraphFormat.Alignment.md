@@ -18,7 +18,7 @@ Returns or sets the alignment for each paragraph in the specified paragraph form
 
 ## Syntax
 
- _expression_. **Alignment**
+ _expression_. 'Alignment'
 
  _expression_ A variable that represents a **ParagraphFormat** object.
 

@@ -18,7 +18,7 @@ Deletes a shape node.
 
 ## Syntax
 
- _expression_. **Delete**( **_Index_** )
+ _expression_. 'Delete'( '_Index_' )
 
  _expression_ A variable that represents a **ShapeNodes** object.
 

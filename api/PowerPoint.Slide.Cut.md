@@ -18,7 +18,7 @@ Deletes the specified object and places it on the Clipboard.
 
 ## Syntax
 
- _expression_. **Cut**
+ _expression_. 'Cut'
 
  _expression_ A variable that represents a **Slide** object.
 

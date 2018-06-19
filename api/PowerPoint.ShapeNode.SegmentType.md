@@ -18,7 +18,7 @@ Returns a value that indicates whether the segment associated with the specified
 
 ## Syntax
 
- _expression_. **SegmentType**
+ _expression_. 'SegmentType'
 
  _expression_ A variable that represents a **ShapeNode** object.
 

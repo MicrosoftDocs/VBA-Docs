@@ -18,7 +18,7 @@ Gets the GUID of the task for the assignment. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **TaskGuid**
+ _expression_. 'TaskGuid'
 
  _expression_ An expression that returns an **Assignment** object.
 

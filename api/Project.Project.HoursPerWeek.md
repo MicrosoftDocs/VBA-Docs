@@ -15,7 +15,7 @@ Gets or sets the number of hours per week for tasks in a project. Read/write  **
 
 ## Syntax
 
- _expression_. **HoursPerWeek**
+ _expression_. 'HoursPerWeek'
 
  _expression_ A variable that represents a **Project** object.
 

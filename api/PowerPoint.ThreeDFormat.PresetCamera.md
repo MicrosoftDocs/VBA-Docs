@@ -18,7 +18,7 @@ Returns the effects camera type used by the specified  **ThreeDFormat** object. 
 
 ## Syntax
 
- _expression_. **PresetCamera**
+ _expression_. 'PresetCamera'
 
  _expression_ A variable that represents a **ThreeDFormat** object.
 

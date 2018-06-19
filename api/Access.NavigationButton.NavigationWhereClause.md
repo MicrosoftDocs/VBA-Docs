@@ -18,7 +18,7 @@ Gets or sets the filter criteria applied when opening the form or report associa
 
 ## Syntax
 
- _expression_. **NavigationWhereClause**
+ _expression_. 'NavigationWhereClause'
 
  _expression_ A variable that represents a **NavigationButton** object.
 

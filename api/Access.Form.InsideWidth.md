@@ -18,7 +18,7 @@ You can use the  **InsideWidth** property (along with the **InsideHeight** prope
 
 ## Syntax
 
- _expression_. **InsideWidth**
+ _expression_. 'InsideWidth'
 
  _expression_ A variable that represents a **Form** object.
 

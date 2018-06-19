@@ -18,7 +18,7 @@ Upgrades media within the specified  **ShapeRange** object.
 
 ## Syntax
 
- _expression_. **UpgradeMedia**
+ _expression_. 'UpgradeMedia'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

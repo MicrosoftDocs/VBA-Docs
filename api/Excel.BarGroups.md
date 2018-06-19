@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 On a 2-D chart, this method returns an object that represents either a single bar chart group or a collection of all the bar chart groups.
 
- _expression_. **BarGroups**( **_Index_**)
+ _expression_. 'BarGroups'( '_Index_')
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

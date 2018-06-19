@@ -18,7 +18,7 @@ Gets information about the current user of a Web database on Microsoft SharePoin
 
 ## Syntax
 
- _expression_. **CurrentWebUser**( ** _DisplayOption_** )
+ _expression_. 'CurrentWebUser'( ' _DisplayOption_' )
 
  _expression_ A variable that represents an **Application** object.
 

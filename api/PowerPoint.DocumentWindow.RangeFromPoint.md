@@ -18,7 +18,7 @@ Returns the  **Shape** object that is located at the point specified by the scre
 
 ## Syntax
 
- _expression_. **RangeFromPoint**( **_x_**, **_y_** )
+ _expression_. 'RangeFromPoint'( '_x_', '_y_' )
 
  _expression_ A variable that represents a **DocumentWindow** object.
 

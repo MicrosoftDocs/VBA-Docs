@@ -18,7 +18,7 @@ Gets or sets the characters that denote currency values. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **CurrencySymbol**
+ _expression_. 'CurrencySymbol'
 
  _expression_ A variable that represents a **Project** object.
 

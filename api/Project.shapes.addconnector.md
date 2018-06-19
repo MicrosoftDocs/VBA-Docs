@@ -11,7 +11,7 @@ Creates a connector and returns a  **Shape** object the represents the new conne
 
 ## Syntax
 
- _expression_. **AddConnector** _(Type,_ _BeginX,_ _BeginY,_ _EndX,_ _EndY)_
+ _expression_. 'AddConnector' _(Type,_ _BeginX,_ _BeginY,_ _EndX,_ _EndY)_
 
  _expression_ A variable that represents a **Shapes** object.
 

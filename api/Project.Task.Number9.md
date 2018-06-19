@@ -15,7 +15,7 @@ Gets or sets a Number local custom field for a task. Read/write  **Double**.
 
 ## Syntax
 
- _expression_. **Number9**
+ _expression_. 'Number9'
 
  _expression_ A variable that represents a **Task** object.
 

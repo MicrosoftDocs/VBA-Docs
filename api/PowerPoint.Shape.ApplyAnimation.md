@@ -18,7 +18,7 @@ Applies the last picked up animation to the  **Shape** object.
 
 ## Syntax
 
- _expression_. **ApplyAnimation**
+ _expression_. 'ApplyAnimation'
 
  _expression_ A variable that represents a **Shape** object.
 

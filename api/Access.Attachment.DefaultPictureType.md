@@ -18,7 +18,7 @@ Gets or sets the method used to store the image specified by the  **[DefaultPict
 
 ## Syntax
 
- _expression_. **DefaultPictureType**
+ _expression_. 'DefaultPictureType'
 
  _expression_ A variable that represents an **Attachment** object.
 

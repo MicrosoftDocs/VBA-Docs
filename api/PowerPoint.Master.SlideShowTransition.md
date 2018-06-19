@@ -18,7 +18,7 @@ Returns a  **[SlideShowTransition](PowerPoint.SlideShowTransition.md)** object t
 
 ## Syntax
 
- _expression_. **SlideShowTransition**
+ _expression_. 'SlideShowTransition'
 
  _expression_ A variable that represents a **Master** object.
 

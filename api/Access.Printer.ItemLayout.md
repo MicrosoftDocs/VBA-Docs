@@ -18,7 +18,7 @@ Returns or sets an  **[AcPrintItemLayout](Access.AcPrintItemLayout.md)** constan
 
 ## Syntax
 
- _expression_. **ItemLayout**
+ _expression_. 'ItemLayout'
 
  _expression_ A variable that represents a **Printer** object.
 

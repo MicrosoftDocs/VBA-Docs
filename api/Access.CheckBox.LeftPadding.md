@@ -18,7 +18,7 @@ Gets or sets the amount of space (in inches) between the check box and its left 
 
 ## Syntax
 
- _expression_. **LeftPadding**
+ _expression_. 'LeftPadding'
 
  _expression_ A variable that represents a **CheckBox** object.
 

@@ -18,7 +18,7 @@ Calculates the variance of a population in a specified set of records (a domain)
 
 ## Syntax
 
- _expression_. **DVarP**( ** _Expr_**, ** _Domain_**, ** _Criteria_** )
+ _expression_. 'DVarP'( ' _Expr_', ' _Domain_', ' _Criteria_' )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ You can use the  **DatasheetBackColor** property in[Visual Basic](set-properties
 
 ## Syntax
 
- _expression_. **DatasheetBackColor**
+ _expression_. 'DatasheetBackColor'
 
  _expression_ A variable that represents a **Form** object.
 

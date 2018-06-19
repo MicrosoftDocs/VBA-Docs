@@ -15,7 +15,7 @@ Gets the parent of the  **Groups2** object. Read-only **Project**.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. 'Parent'
 
  _expression_ An expression that returns a **Groups2** object.
 

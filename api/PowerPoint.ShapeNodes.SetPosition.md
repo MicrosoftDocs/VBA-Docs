@@ -18,7 +18,7 @@ Sets the location of the node specified by  **Index**. Note that, depending on t
 
 ## Syntax
 
- _expression_. **SetPosition**( **_Index_**, **_X1_**, **_Y1_** )
+ _expression_. 'SetPosition'( '_Index_', '_X1_', '_Y1_' )
 
  _expression_ A variable that represents a **ShapeNodes** object.
 

@@ -18,7 +18,7 @@ Returns a  **Coauthoring** object in the current **Presentation** object. Read-o
 
 ## Syntax
 
- _expression_. **Coauthoring**
+ _expression_. 'Coauthoring'
 
  _expression_ A variable that represents a **Presentation** object.
 

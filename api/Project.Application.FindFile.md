@@ -18,7 +18,7 @@ Displays the  **File Open** dialog box, which allows the user to search for a fi
 
 ## Syntax
 
- _expression_. **FindFile**
+ _expression_. 'FindFile'
 
  _expression_ A variable that represents an **Application** object.
 

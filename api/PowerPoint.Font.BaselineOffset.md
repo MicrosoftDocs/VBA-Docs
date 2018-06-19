@@ -18,7 +18,7 @@ Returns or sets the baseline offset for the specified superscript or subscript c
 
 ## Syntax
 
- _expression_. **BaselineOffset**
+ _expression_. 'BaselineOffset'
 
  _expression_ A variable that represents a **Font** object.
 

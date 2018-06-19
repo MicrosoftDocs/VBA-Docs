@@ -18,7 +18,7 @@ Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that 
 
 ## Syntax
 
- _expression_. **InsufficientPermissions**
+ _expression_. 'InsufficientPermissions'
 
  _expression_ A variable that represents a **DependencyInfo** object.
 

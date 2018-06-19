@@ -15,7 +15,7 @@ Occurs before a project is saved.
 
 ## Syntax
 
- _expression_. **ProjectBeforeSave**( ** _pj_**, ** _SaveAsUi_**, ** _Cancel_** )
+ _expression_. 'ProjectBeforeSave'( ' _pj_', ' _SaveAsUi_', ' _Cancel_' )
 
  _expression_ A variable that represents an **Application** object.
 

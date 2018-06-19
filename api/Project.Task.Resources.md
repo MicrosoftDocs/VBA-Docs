@@ -15,7 +15,7 @@ Gets a  **[Resources](Project.Resource.md)** collection that contains the resour
 
 ## Syntax
 
- _expression_. **Resources**
+ _expression_. 'Resources'
 
  _expression_ A variable that represents a **Task** object.
 

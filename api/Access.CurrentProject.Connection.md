@@ -18,7 +18,7 @@ You can use the  **Connection** property to return a reference to the current Ac
 
 ## Syntax
 
- _expression_. **Connection**
+ _expression_. 'Connection'
 
  _expression_ A variable that represents a **CurrentProject** object.
 

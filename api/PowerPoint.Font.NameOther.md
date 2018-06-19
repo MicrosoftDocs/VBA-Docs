@@ -18,7 +18,7 @@ Returns or sets the font used for characters whose character set numbers are gre
 
 ## Syntax
 
- _expression_. **NameOther**
+ _expression_. 'NameOther'
 
  _expression_ A variable that represents a **Font** object.
 

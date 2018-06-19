@@ -18,7 +18,7 @@ Gets or sets the name of the XML schema being used by the Project Guide. Read/wr
 
 ## Syntax
 
- _expression_. **ProjectGuideContent**
+ _expression_. 'ProjectGuideContent'
 
  _expression_ A variable that represents a **Project** object.
 

@@ -18,7 +18,7 @@ Deletes the specified  **Column** object.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **Column** object.
 

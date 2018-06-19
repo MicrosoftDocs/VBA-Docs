@@ -18,7 +18,7 @@ Gets or sets the task baseline deliverables start date. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **BaselineDeliverableStart**
+ _expression_. 'BaselineDeliverableStart'
 
  _expression_ A variable that represents a **Task** object.
 

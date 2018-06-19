@@ -18,7 +18,7 @@ Returns  **True** if the current **ShapeRange** object has a SmartArt diagram. R
 
 ## Syntax
 
- _expression_. **HasSmartArt**
+ _expression_. 'HasSmartArt'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

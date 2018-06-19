@@ -18,7 +18,7 @@ Sets the internal XML value for a custom ribbon user interface of the project.
 
 ## Syntax
 
- _expression_. **SetCustomUI**( ** _CustomUIXML_** )
+ _expression_. 'SetCustomUI'( ' _CustomUIXML_' )
 
  _expression_ An expression that returns a **Project** object.
 

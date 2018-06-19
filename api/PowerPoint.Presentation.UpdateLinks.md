@@ -18,7 +18,7 @@ Updates linked OLE objects in the specified presentation.
 
 ## Syntax
 
- _expression_. **UpdateLinks**
+ _expression_. 'UpdateLinks'
 
  _expression_ A variable that represents an **Presentation** object.
 

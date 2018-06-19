@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. **FontBold**
+ _expression_. 'FontBold'
 
  _expression_ An expression that returns a **GroupCriterion2** object.
 

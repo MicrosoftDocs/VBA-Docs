@@ -15,7 +15,7 @@ Returns or sets the chart type. Read/write  **[XlChartType](http://msdn.microsof
 
 ## Syntax
 
- _expression_. **ChartType**
+ _expression_. 'ChartType'
 
  _expression_ A variable that represents a **[Series](PowerPoint.Series.md)** object.
 

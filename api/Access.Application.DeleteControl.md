@@ -18,7 +18,7 @@ The  **DeleteControl** method deletes a specified control from a form.
 
 ## Syntax
 
- _expression_. **DeleteControl**( ** _FormName_**, ** _ControlName_** )
+ _expression_. 'DeleteControl'( ' _FormName_', ' _ControlName_' )
 
  _expression_ A variable that represents an **Application** object.
 

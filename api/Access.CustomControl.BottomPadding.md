@@ -18,7 +18,7 @@ Gets or sets the amount of space (in inches) between the list box and its bottom
 
 ## Syntax
 
- _expression_. **BottomPadding**
+ _expression_. 'BottomPadding'
 
  _expression_ A variable that represents a **CustomControl** object.
 

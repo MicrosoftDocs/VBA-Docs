@@ -18,7 +18,7 @@ Returns a  **[Sequence](PowerPoint.Sequence.md)** object that represents the col
 
 ## Syntax
 
- _expression_. **MainSequence**
+ _expression_. 'MainSequence'
 
  _expression_ A variable that represents a **TimeLine** object.
 

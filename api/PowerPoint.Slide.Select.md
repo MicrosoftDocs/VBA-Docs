@@ -18,7 +18,7 @@ Selects the specified object.
 
 ## Syntax
 
- _expression_. **Select**
+ _expression_. 'Select'
 
  _expression_ A variable that represents a **Slide** object.
 

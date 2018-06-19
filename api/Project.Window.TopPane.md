@@ -18,7 +18,7 @@ Gets a  **[Pane](Project.Pane.md)** object representing the top pane of the wind
 
 ## Syntax
 
- _expression_. **TopPane**
+ _expression_. 'TopPane'
 
  _expression_ A variable that represents a **Window** object.
 

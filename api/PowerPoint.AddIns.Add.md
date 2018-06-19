@@ -18,7 +18,7 @@ Returns an  **AddIn** object that represents an add-in file added to the list of
 
 ## Syntax
 
- _expression_. **Add**( **_Filename_** )
+ _expression_. 'Add'( '_Filename_' )
 
  _expression_ A variable that represents an **AddIns** object.
 

@@ -18,7 +18,7 @@ Gets or sets the type of mouse cursor displayed when the user rests the pointer 
 
 ## Syntax
 
- _expression_. **CursorOnHover**
+ _expression_. 'CursorOnHover'
 
  _expression_ A variable that represents a **CommandButton** object.
 

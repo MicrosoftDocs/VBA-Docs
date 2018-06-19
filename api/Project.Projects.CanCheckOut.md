@@ -18,7 +18,7 @@ Indicates whether Project can check out the specified project from a SharePoint 
 
 ## Syntax
 
- _expression_. **CanCheckOut**( ** _Filename_** )
+ _expression_. 'CanCheckOut'( ' _Filename_' )
 
  _expression_ A variable that represents a **Projects** object.
 

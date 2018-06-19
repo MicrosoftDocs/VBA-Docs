@@ -18,7 +18,7 @@ The  **BuiltIn** property returns a **Boolean** value indicating whether a **[Re
 
 ## Syntax
 
- _expression_. **BuiltIn**
+ _expression_. 'BuiltIn'
 
  _expression_ A variable that represents a **Reference** object.
 

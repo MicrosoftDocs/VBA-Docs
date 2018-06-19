@@ -18,7 +18,7 @@ You can use the  **RepeatSection** property to specify whether a group header is
 
 ## Syntax
 
- _expression_. **RepeatSection**
+ _expression_. 'RepeatSection'
 
  _expression_ A variable that represents a **Section** object.
 

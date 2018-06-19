@@ -18,7 +18,7 @@ Returns an  **[AcFileFormat](Access.AcFileFormat.md)** constant indicating the M
 
 ## Syntax
 
- _expression_. **FileFormat**
+ _expression_. 'FileFormat'
 
  _expression_ A variable that represents a **CodeProject** object.
 

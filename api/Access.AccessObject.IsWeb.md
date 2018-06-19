@@ -18,7 +18,7 @@ Gets whether the specified object is a Web object. Read-only  **Boolean**.
 
 ## Syntax
 
- _expression_. **IsWeb**
+ _expression_. 'IsWeb'
 
  _expression_ A variable that represents an **AccessObject** object.
 

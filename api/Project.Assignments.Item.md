@@ -15,7 +15,7 @@ Gets a single  **Assignment** object from the **Assignments** collection. Read-o
 
 ## Syntax
 
- _expression_. **Item**( ** _Index_** )
+ _expression_. 'Item'( ' _Index_' )
 
  _expression_ A variable that represents an **Assignments** object.
 

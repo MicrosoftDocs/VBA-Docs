@@ -14,7 +14,7 @@ Deletes a chart on an active report.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **Chart** object.
 

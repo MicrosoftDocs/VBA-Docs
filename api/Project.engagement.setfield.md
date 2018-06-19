@@ -13,7 +13,7 @@ Sets the specified field of an Engagement object for the resource plan view. Int
 
 ## Syntax
 
- _expression_. **SetField**( _FieldID_,  _FieldID_,  _Value_)
+ _expression_. 'SetField'( _FieldID_,  _FieldID_,  _Value_)
 
  _expression_ A variable that represents a **Engagement** object.
 

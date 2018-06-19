@@ -18,7 +18,7 @@ Occurs on the next click of the slide.
 
 ## Syntax
 
- _expression_. **SlideShowNextClick**( **_Wn_**, **_nEffect_** )
+ _expression_. 'SlideShowNextClick'( '_Wn_', '_nEffect_' )
 
  _expression_ A variable that represents an **Application** object.
 

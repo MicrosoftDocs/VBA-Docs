@@ -14,7 +14,7 @@ Sets or clears task predecessor highlighting for the task path feature.
 
 ## Syntax
 
- _expression_. **HighlightPredecessors** _(Set)_
+ _expression_. 'HighlightPredecessors' _(Set)_
 
  _expression_ A variable that represents an **Application** object.
 

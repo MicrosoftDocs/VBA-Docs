@@ -18,7 +18,7 @@ Pastes the slides on the Clipboard into a custom layout and adds the custom layo
 
 ## Syntax
 
- _expression_. **Paste**( **_Index_** )
+ _expression_. 'Paste'( '_Index_' )
 
  _expression_ A variable that represents a **CustomLayouts** object.
 

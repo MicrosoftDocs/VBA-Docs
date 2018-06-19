@@ -18,7 +18,7 @@ Gets the table type for the specified table. Read-only  **PjItemType**.
 
 ## Syntax
 
- _expression_. **TableType**
+ _expression_. 'TableType'
 
  _expression_ A variable that represents a **Table** object.
 

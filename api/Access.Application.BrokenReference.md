@@ -18,7 +18,7 @@ Returns a  **Boolean** indicating whether the current database has any broken re
 
 ## Syntax
 
- _expression_. **BrokenReference**
+ _expression_. 'BrokenReference'
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ The  **RefreshTitleBar** method refreshes the Microsoft Access title bar after t
 
 ## Syntax
 
- _expression_. **RefreshTitleBar**
+ _expression_. 'RefreshTitleBar'
 
  _expression_ A variable that represents an **Application** object.
 

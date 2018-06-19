@@ -18,7 +18,7 @@ Returns or sets the bottom bevel height for the specified  **ThreeDFormat** obje
 
 ## Syntax
 
- _expression_. **BevelBottomDepth**
+ _expression_. 'BevelBottomDepth'
 
  _expression_ A variable that represents a **ThreeDFormat** object.
 

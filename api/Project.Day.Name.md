@@ -15,7 +15,7 @@ Gets the name of a  **Day** object. Read-only **String**.
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **Day** object.
 

@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Open** box in the **Properties** window o
 
 ## Syntax
 
- _expression_. **OnOpen**
+ _expression_. 'OnOpen'
 
  _expression_ A variable that represents a **Report** object.
 

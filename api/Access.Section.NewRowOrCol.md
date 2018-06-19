@@ -18,7 +18,7 @@ You can use the  **NewRowOrCol** property to specify whether a section and its a
 
 ## Syntax
 
- _expression_. **NewRowOrCol**
+ _expression_. 'NewRowOrCol'
 
  _expression_ A variable that represents a **Section** object.
 

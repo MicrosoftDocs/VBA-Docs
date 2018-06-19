@@ -16,7 +16,7 @@ Specifies whether the slide navigation screen is displayed during a slide show. 
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_. 'Visible'
 
  _expression_ A variable that represents a **SlideNavigation** object.
 

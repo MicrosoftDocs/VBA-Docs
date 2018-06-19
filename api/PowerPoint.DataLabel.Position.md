@@ -15,7 +15,7 @@ Returns or sets the position of the data label. Read/write  **[XlDataLabelPositi
 
 ## Syntax
 
- _expression_. **Position**
+ _expression_. 'Position'
 
  _expression_ A variable that represents a **[DataLabel](PowerPoint.DataLabel.md)** object.
 

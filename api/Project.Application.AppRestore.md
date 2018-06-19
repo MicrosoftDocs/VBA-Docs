@@ -18,7 +18,7 @@ Restores the main window to its previous nonminimized or nonmaximized state.
 
 ## Syntax
 
- _expression_. **AppRestore**
+ _expression_. 'AppRestore'
 
  _expression_ A variable that represents an **Application** object.
 

@@ -15,7 +15,7 @@ Gets or sets the baseline7 budget work for the rollup calculated budgeted work h
 
 ## Syntax
 
- _expression_. **Baseline7BudgetWork**
+ _expression_. 'Baseline7BudgetWork'
 
  _expression_ A variable that represents a **Task** object.
 

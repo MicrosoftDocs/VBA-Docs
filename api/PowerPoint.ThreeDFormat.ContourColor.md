@@ -18,7 +18,7 @@ Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents t
 
 ## Syntax
 
- _expression_. **ContourColor**
+ _expression_. 'ContourColor'
 
  _expression_ A variable that represents a **ThreeDFormat** object.
 

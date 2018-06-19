@@ -18,7 +18,7 @@ Occurs immediately before any open presentation closes, as it is removed from th
 
 ## Syntax
 
- _expression_. **PresentationClose**( **_Pres_** )
+ _expression_. 'PresentationClose'( '_Pres_' )
 
  _expression_ An expression that returns a **Application** object.
 

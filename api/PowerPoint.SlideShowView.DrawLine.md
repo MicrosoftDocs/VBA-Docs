@@ -18,7 +18,7 @@ Draws a line in the specified slide show view.
 
 ## Syntax
 
- _expression_. **DrawLine**( **_BeginX_**, **_BeginY_**, **_EndX_**, **_EndY_** )
+ _expression_. 'DrawLine'( '_BeginX_', '_BeginY_', '_EndX_', '_EndY_' )
 
  _expression_ A variable that represents a **SlideShowView** object.
 

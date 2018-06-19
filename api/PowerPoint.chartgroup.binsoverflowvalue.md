@@ -16,7 +16,7 @@ If an [ChartGroup.BinsOverflowEnabled Property (PowerPoint)](chartgroup-binsover
 
 ## Syntax
 
- _expression_. **BinsOverflowValue**
+ _expression_. 'BinsOverflowValue'
 
  _expression_ A variable that represents a **ChartGroup** object.
 

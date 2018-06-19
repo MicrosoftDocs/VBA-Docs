@@ -18,7 +18,7 @@ Returns the index of the selected section in the  **Slide** range. Read-only.
 
 ## Syntax
 
- _expression_. **sectionIndex**
+ _expression_. 'sectionIndex'
 
  _expression_ A variable that represents a **Slide** object.
 

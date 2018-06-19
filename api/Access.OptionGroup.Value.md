@@ -18,7 +18,7 @@ Gets or sets whether or not the specified option button is selected. Read/write 
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents an **OptionGroup** object.
 

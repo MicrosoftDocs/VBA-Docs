@@ -18,7 +18,7 @@ The  **SelText** property returns a string containing the selected text. Read/wr
 
 ## Syntax
 
- _expression_. **SelText**
+ _expression_. 'SelText'
 
  _expression_ A variable that represents a **TextBox** object.
 

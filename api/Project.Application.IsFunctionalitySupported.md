@@ -15,7 +15,7 @@ Occurs after the  **LoadWebBrowserControl** method is called with the third para
 
 ## Syntax
 
- _expression_. **IsFunctionalitySupported**( ** _bstrFunctionality_**, ** _Info_** )
+ _expression_. 'IsFunctionalitySupported'( ' _bstrFunctionality_', ' _Info_' )
 
  _expression_ A variable that represents an **Application** object.
 

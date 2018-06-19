@@ -18,7 +18,7 @@ Checks the task to ensure that required custom fields are filled and that the ca
 
 ## Syntax
 
- _expression_. **CheckTaskErrors**( ** _TaskID_** )
+ _expression_. 'CheckTaskErrors'( ' _TaskID_' )
 
  _expression_ A variable that represents an **Application** object.
 

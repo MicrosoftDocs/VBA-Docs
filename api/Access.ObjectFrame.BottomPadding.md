@@ -18,7 +18,7 @@ Gets or sets the amount of space (in inches) between the object frame and its bo
 
 ## Syntax
 
- _expression_. **BottomPadding**
+ _expression_. 'BottomPadding'
 
  _expression_ A variable that represents an **ObjectFrame** object.
 

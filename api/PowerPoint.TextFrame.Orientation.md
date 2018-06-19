@@ -18,7 +18,7 @@ Returns or sets text orientation. Read/write.
 
 ## Syntax
 
- _expression_. **Orientation**
+ _expression_. 'Orientation'
 
  _expression_ A variable that represents a **TextFrame** object.
 

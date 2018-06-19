@@ -15,7 +15,7 @@ Gets a  **[Project](Project.Project.md)** object representing the master project
 
 ## Syntax
 
- _expression_. **SourceProject**
+ _expression_. 'SourceProject'
 
  _expression_ A variable that represents a **Subproject** object.
 

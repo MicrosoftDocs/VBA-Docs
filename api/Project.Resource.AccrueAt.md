@@ -18,7 +18,7 @@ Gets or sets the way a task accrues the cost of a resource assigned to it. Read/
 
 ## Syntax
 
- _expression_. **AccrueAt**
+ _expression_. 'AccrueAt'
 
  _expression_ A variable that represents a **Resource** object.
 

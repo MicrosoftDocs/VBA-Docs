@@ -18,7 +18,7 @@ You can use the  **UpdateOptions** property to specify how a linkedOLE object is
 
 ## Syntax
 
- _expression_. **UpdateOptions**
+ _expression_. 'UpdateOptions'
 
  _expression_ A variable that represents a **BoundObjectFrame** object.
 

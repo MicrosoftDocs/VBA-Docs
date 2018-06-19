@@ -18,7 +18,7 @@ Copies the database connected to the current project to a Microsoft SQL Server d
 
 ## Syntax
 
- _expression_. **CopyDatabaseFile**( ** _DatabaseFileName_**, ** _OverwriteExistingFile_**, ** _DisconnectAllUsers_** )
+ _expression_. 'CopyDatabaseFile'( ' _DatabaseFileName_', ' _OverwriteExistingFile_', ' _DisconnectAllUsers_' )
 
  _expression_ A variable that represents a **DoCmd** object.
 

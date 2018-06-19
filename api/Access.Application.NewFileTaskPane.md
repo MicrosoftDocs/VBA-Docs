@@ -18,7 +18,7 @@ Returns a  **NewFile** object that represents a document listed on the **New Fil
 
 ## Syntax
 
- _expression_. **NewFileTaskPane**
+ _expression_. 'NewFileTaskPane'
 
  _expression_ A variable that represents an **Application** object.
 

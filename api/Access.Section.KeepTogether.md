@@ -18,7 +18,7 @@ You can use the  **KeepTogether** property for a section to print a form or repo
 
 ## Syntax
 
- _expression_. **KeepTogether**
+ _expression_. 'KeepTogether'
 
  _expression_ A variable that represents a **Section** object.
 

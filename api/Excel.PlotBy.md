@@ -21,7 +21,7 @@ Returns or sets the way columns or rows are used as data series on the chart. Re
 | **xlColumns**|
 | **xlRows**|
 
- _expression_. **PlotBy**
+ _expression_. 'PlotBy'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

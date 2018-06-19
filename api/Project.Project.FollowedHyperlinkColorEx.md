@@ -18,7 +18,7 @@ Gets or sets the color used to denote followed hyperlinks. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. **FollowedHyperlinkColorEx**
+ _expression_. 'FollowedHyperlinkColorEx'
 
  _expression_ An expression that returns a **Project** object.
 

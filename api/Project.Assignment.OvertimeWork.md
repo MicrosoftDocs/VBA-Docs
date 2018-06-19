@@ -15,7 +15,7 @@ Gets or sets the overtime work for an assignment. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **OvertimeWork**
+ _expression_. 'OvertimeWork'
 
  _expression_ A variable that represents an **Assignment** object.
 

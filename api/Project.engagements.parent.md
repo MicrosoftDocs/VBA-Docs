@@ -13,7 +13,7 @@ The Parent property for the Engagements object. Introduced in Office 2016.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. 'Parent'
 
  _expression_ A variable that represents a **Engagements** object.
 

@@ -18,7 +18,7 @@ Displays the  **Change Icon** dialog box to enable changing the icon of an activ
 
 ## Syntax
 
- _expression_. **ObjectChangeIcon**
+ _expression_. 'ObjectChangeIcon'
 
  _expression_ A variable that represents an **Application** object.
 

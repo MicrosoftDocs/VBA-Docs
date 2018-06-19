@@ -18,7 +18,7 @@ Gets or sets the notes for the project. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **ProjectNotes**
+ _expression_. 'ProjectNotes'
 
  _expression_ A variable that represents a **Project** object.
 

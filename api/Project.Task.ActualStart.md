@@ -15,7 +15,7 @@ Gets or sets the actual start date of the task. Read-only for summary tasks. Rea
 
 ## Syntax
 
- _expression_. **ActualStart**
+ _expression_. 'ActualStart'
 
  _expression_ A variable that represents a **Task** object.
 

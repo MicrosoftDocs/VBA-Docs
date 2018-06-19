@@ -15,7 +15,7 @@ Gets or sets the path to the source project. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **Path**
+ _expression_. 'Path'
 
  _expression_ A variable that represents a **Subproject** object.
 

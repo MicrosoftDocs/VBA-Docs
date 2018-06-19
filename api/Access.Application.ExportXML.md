@@ -18,7 +18,7 @@ The  **ExportXML** method allows developers to export XML data, schemas, and pre
 
 ## Syntax
 
- _expression_. **ExportXML**( ** _ObjectType_**, ** _DataSource_**, ** _DataTarget_**, ** _SchemaTarget_**, ** _PresentationTarget_**, ** _ImageTarget_**, ** _Encoding_**, ** _OtherFlags_**, ** _WhereCondition_**, ** _AdditionalData_** )
+ _expression_. 'ExportXML'( ' _ObjectType_', ' _DataSource_', ' _DataTarget_', ' _SchemaTarget_', ' _PresentationTarget_', ' _ImageTarget_', ' _Encoding_', ' _OtherFlags_', ' _WhereCondition_', ' _AdditionalData_' )
 
  _expression_ A variable that represents an **Application** object.
 

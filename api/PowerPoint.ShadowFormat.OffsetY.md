@@ -18,7 +18,7 @@ Returns or sets the vertical offset of the shadow from the specified shape, in p
 
 ## Syntax
 
- _expression_. **OffsetY**
+ _expression_. 'OffsetY'
 
  _expression_ A variable that represents an **ShadowFormat** object.
 

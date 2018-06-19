@@ -18,7 +18,7 @@ Returns the  **[Column](PowerPoint.Column.md)** object that represents the colum
 
 ## Syntax
 
- _expression_. **Column**
+ _expression_. 'Column'
 
  _expression_ An expression that returns a **TextFrame2** object.
 

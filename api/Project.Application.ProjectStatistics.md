@@ -18,7 +18,7 @@ Displays the  **Project Statistics** dialog box.
 
 ## Syntax
 
- _expression_. **ProjectStatistics**( ** _Project_** )
+ _expression_. 'ProjectStatistics'( ' _Project_' )
 
  _expression_ A variable that represents an **Application** object.
 

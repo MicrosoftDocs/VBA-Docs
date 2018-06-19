@@ -15,7 +15,7 @@ Gets the date a  **Task** was created. Read-only **Variant**.
 
 ## Syntax
 
- _expression_. **Created**
+ _expression_. 'Created'
 
  _expression_ A variable that represents a **Task** object.
 

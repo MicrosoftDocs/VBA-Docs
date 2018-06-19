@@ -15,7 +15,7 @@ Creates a dependency on a deliverable and links the dependency to a task in the 
 
 ## Syntax
 
- _expression_. **DeliverableDependencyCreate**( ** _DeliverableGuid_**, ** _TaskGuid_** )
+ _expression_. 'DeliverableDependencyCreate'( ' _DeliverableGuid_', ' _TaskGuid_' )
 
  _expression_ A variable that represents a **Project** object.
 

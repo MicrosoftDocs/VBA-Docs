@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Close** box in the **Properties** window 
 
 ## Syntax
 
- _expression_. **OnClose**
+ _expression_. 'OnClose'
 
  _expression_ A variable that represents a **Form** object.
 

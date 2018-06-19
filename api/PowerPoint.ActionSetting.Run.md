@@ -18,7 +18,7 @@ Returns or sets the name of the presentation or macro to be run when the specifi
 
 ## Syntax
 
- _expression_. **Run**
+ _expression_. 'Run'
 
  _expression_ A variable that represents an **ActionSetting** object.
 

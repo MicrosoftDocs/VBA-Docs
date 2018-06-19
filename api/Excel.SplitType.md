@@ -23,7 +23,7 @@ Returns or sets the way the two sections of either a pie of pie chart or a bar o
 | **xlSplitByCustomSplit**|
 | **xlSplitByPosition**|
 
- _expression_. **SplitType**
+ _expression_. 'SplitType'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

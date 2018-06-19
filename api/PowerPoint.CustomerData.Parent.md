@@ -18,7 +18,7 @@ Returns the parent object of the specified  **[CustomerData](PowerPoint.Customer
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. 'Parent'
 
  _expression_ An expression that returns a **CustomerData** object.
 

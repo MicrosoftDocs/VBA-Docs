@@ -18,7 +18,7 @@ Returns a single  **Pane** object from the specified **Panes** collection.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **Panes** object.
 

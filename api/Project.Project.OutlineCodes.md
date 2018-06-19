@@ -15,7 +15,7 @@ Gets an **[OutlineCodes](Project.outlinecodes(object).md)** collection of all ou
 
 ## Syntax
 
- _expression_. **OutlineCodes**
+ _expression_. 'OutlineCodes'
 
  _expression_ A variable that represents a **Project** object.
 

@@ -18,7 +18,7 @@ Shows or hides link labels in the active Network Diagram.
 
 ## Syntax
 
- _expression_. **BoxLinkLabelsShow**( ** _Show_** )
+ _expression_. 'BoxLinkLabelsShow'( ' _Show_' )
 
  _expression_ A variable that represents an **Application** object.
 

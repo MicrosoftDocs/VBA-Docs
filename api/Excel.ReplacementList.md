@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns the array of AutoCorrect replacements.
 
- _expression_. **ReplacementList**( **_Index_**)
+ _expression_. 'ReplacementList'( '_Index_')
 
  _expression_ Required. An expression that returns an **[AutoCorrect](Excel.AutoCorrect(Graph object).md)** object.
 

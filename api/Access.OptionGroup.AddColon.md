@@ -18,7 +18,7 @@ Specifies whether a colon follows the text in labels for new controls. Read/writ
 
 ## Syntax
 
- _expression_. **AddColon**
+ _expression_. 'AddColon'
 
  _expression_ A variable that represents an **OptionGroup** object.
 

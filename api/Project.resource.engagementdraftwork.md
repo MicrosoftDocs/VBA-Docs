@@ -16,7 +16,7 @@ Returns the draft work for the engagement. Read-only  **Double**. Introduced in 
 
 ## Syntax
 
- _expression_. **EngagementDraftWork**
+ _expression_. 'EngagementDraftWork'
 
  _expression_ A variable that represents a **Resource** object.
 

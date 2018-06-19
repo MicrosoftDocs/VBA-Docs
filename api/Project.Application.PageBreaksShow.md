@@ -18,7 +18,7 @@ Shows or hides page breaks on the Network Diagram.
 
 ## Syntax
 
- _expression_. **PageBreaksShow**( ** _Show_** )
+ _expression_. 'PageBreaksShow'( ' _Show_' )
 
  _expression_ A variable that represents an **Application** object.
 

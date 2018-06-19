@@ -11,7 +11,7 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents a **Shapes** object.
 

@@ -18,7 +18,7 @@ Returns the  **Chart** object of the current **ShapeRange** object. Read-only.
 
 ## Syntax
 
- _expression_. **Chart**
+ _expression_. 'Chart'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

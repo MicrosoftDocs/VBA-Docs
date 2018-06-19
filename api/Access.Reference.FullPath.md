@@ -18,7 +18,7 @@ The  **FullPath** property returns a string containing the path and file name of
 
 ## Syntax
 
- _expression_. **FullPath**
+ _expression_. 'FullPath'
 
  _expression_ A variable that represents a **Reference** object.
 

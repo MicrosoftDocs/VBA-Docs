@@ -18,7 +18,7 @@ Gets or sets the width of the top gridline for the specified text box. Read/writ
 
 ## Syntax
 
- _expression_. **GridlineWidthTop**
+ _expression_. 'GridlineWidthTop'
 
  _expression_ A variable that represents a **WebBrowserControl** object.
 

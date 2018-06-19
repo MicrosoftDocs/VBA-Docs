@@ -15,7 +15,7 @@ Gets or sets the baseline4 budget cost for the rollup calculated value of all th
 
 ## Syntax
 
- _expression_. **Baseline4BudgetCost**
+ _expression_. 'Baseline4BudgetCost'
 
  _expression_ A variable that represents a **Task** object.
 

@@ -18,7 +18,7 @@ The  **CountOfLines** property returns a **Long** value indicating the number of
 
 ## Syntax
 
- _expression_. **CountOfLines**
+ _expression_. 'CountOfLines'
 
  _expression_ A variable that represents a **Module** object.
 

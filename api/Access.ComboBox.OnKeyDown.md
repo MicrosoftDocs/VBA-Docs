@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Key Down** box in the **Properties** wind
 
 ## Syntax
 
- _expression_. **OnKeyDown**
+ _expression_. 'OnKeyDown'
 
  _expression_ A variable that represents a **ComboBox** object.
 

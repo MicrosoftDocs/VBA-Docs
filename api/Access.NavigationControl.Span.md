@@ -18,7 +18,7 @@ Gets or sets the orientation of the navigation buttons. Read/write  **[AcNavigat
 
 ## Syntax
 
- _expression_. **Span**
+ _expression_. 'Span'
 
  _expression_ A variable that represents a **NavigationControl** object.
 

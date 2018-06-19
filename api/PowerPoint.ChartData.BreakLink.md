@@ -18,7 +18,7 @@ Removes the link between the data for a chart and a Microsoft Excel workbook.
 
 ## Syntax
 
- _expression_. **BreakLink**
+ _expression_. 'BreakLink'
 
  _expression_ A variable that represents a **[ChartData](PowerPoint.ChartData.md)** object.
 

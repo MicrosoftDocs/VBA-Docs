@@ -18,7 +18,7 @@ You can use the  **LinkMasterFields** property (along with the **LinkChildFields
 
 ## Syntax
 
- _expression_. **LinkMasterFields**
+ _expression_. 'LinkMasterFields'
 
  _expression_ A variable that represents an **ObjectFrame** object.
 

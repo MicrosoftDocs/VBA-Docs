@@ -18,7 +18,7 @@ Returns or sets the number of categories or series between tick marks. Read/writ
 
 ## Syntax
 
- _expression_. **TickMarkSpacing**
+ _expression_. 'TickMarkSpacing'
 
  _expression_ A variable that represents an **[Axis](PowerPoint.Axis.md)** object.
 

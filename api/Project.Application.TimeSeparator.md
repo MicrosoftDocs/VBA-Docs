@@ -15,7 +15,7 @@ Gets the time separator character. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **TimeSeparator**
+ _expression_. 'TimeSeparator'
 
  _expression_ A variable that represents an **Application** object.
 

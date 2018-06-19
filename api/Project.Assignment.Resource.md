@@ -15,7 +15,7 @@ Gets the  **[Resource](Project.Resource.md)** object associated with the **[Assi
 
 ## Syntax
 
- _expression_. **Resource**
+ _expression_. 'Resource'
 
  _expression_ An expression that returns an **Assignment** object.
 

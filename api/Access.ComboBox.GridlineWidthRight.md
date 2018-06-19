@@ -18,7 +18,7 @@ Gets or sets the width of the right gridline for the specified combo box. Read/w
 
 ## Syntax
 
- _expression_. **GridlineWidthRight**
+ _expression_. 'GridlineWidthRight'
 
  _expression_ A variable that represents a **ComboBox** object.
 

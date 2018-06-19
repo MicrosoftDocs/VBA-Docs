@@ -18,7 +18,7 @@ Positions the vertical split bar in a sheet view to display the specified number
 
 ## Syntax
 
- _expression_. **SetSplitBar**( ** _ShowColumns_** )
+ _expression_. 'SetSplitBar'( ' _ShowColumns_' )
 
  _expression_ A variable that represents an **Application** object.
 

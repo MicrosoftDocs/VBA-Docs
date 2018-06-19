@@ -18,7 +18,7 @@ Gets or sets a value that determines whether the data entry bar is visible.  **T
 
 ## Syntax
 
- _expression_. **DisplayEntryBar**
+ _expression_. 'DisplayEntryBar'
 
  _expression_ A variable that represents an **Application** object.
 

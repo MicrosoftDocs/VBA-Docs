@@ -18,7 +18,7 @@ Returns or sets the language for the specified text range. Read/write.
 
 ## Syntax
 
- _expression_. **LanguageID**
+ _expression_. 'LanguageID'
 
  _expression_ A variable that represents a **TextRange** object.
 

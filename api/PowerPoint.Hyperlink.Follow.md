@@ -18,7 +18,7 @@ Displays the HTML document associated with the specified hyperlink in a new Web 
 
 ## Syntax
 
- _expression_. **Follow**
+ _expression_. 'Follow'
 
  _expression_ A variable that represents a **Hyperlink** object.
 

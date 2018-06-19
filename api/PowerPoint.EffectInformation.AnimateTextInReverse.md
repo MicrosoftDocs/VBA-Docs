@@ -18,7 +18,7 @@ Determines whether the specified shape is built in reverse order. Applies only t
 
 ## Syntax
 
- _expression_. **AnimateTextInReverse**
+ _expression_. 'AnimateTextInReverse'
 
  _expression_ A variable that represents an **EffectInformation** object.
 

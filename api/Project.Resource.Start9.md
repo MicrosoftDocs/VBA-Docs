@@ -15,7 +15,7 @@ Gets or sets a Start local custom field for the resource. Read/write  **Variant*
 
 ## Syntax
 
- _expression_. **Start9**
+ _expression_. 'Start9'
 
  _expression_ A variable that represents a **Resource** object.
 

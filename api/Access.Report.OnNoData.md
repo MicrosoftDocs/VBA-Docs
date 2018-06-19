@@ -18,7 +18,7 @@ Sets or returns the value of the  **On No Data** box in the **Properties** windo
 
 ## Syntax
 
- _expression_. **OnNoData**
+ _expression_. 'OnNoData'
 
  _expression_ A variable that represents a **Report** object.
 

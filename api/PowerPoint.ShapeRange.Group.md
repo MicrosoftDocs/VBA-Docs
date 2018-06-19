@@ -18,7 +18,7 @@ Groups the shapes in the specified range. Returns the grouped shapes as a single
 
 ## Syntax
 
- _expression_. **Group**
+ _expression_. 'Group'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

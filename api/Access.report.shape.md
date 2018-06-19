@@ -16,7 +16,7 @@ Returns a  **String** representing the shape command corresponding to the sortin
 
 ## Syntax
 
- _expression_. **Shape**
+ _expression_. 'Shape'
 
  _expression_ A variable that represents a **Report** object.
 

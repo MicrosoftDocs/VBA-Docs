@@ -15,7 +15,7 @@ Gets the finish date of a task before leveling occurred. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. **PreleveledFinish**
+ _expression_. 'PreleveledFinish'
 
  _expression_ A variable that represents a **Task** object.
 

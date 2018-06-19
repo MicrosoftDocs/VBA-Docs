@@ -18,7 +18,7 @@ The  **IsBroken** property returns a **Boolean** value indicating whether a **[R
 
 ## Syntax
 
- _expression_. **IsBroken**
+ _expression_. 'IsBroken'
 
  _expression_ A variable that represents a **Reference** object.
 

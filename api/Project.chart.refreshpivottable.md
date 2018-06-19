@@ -11,7 +11,7 @@ Gets updated values from a pivot table data source.
 
 ## Syntax
 
- _expression_. **RefreshPivotTable**
+ _expression_. 'RefreshPivotTable'
 
  _expression_ A variable that represents a **Chart** object.
 

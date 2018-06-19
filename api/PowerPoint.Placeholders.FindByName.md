@@ -18,7 +18,7 @@ Finds the placeholder in the  **[Placeholders](PowerPoint.Placeholders.md)** col
 
 ## Syntax
 
- _expression_. **FindByName**( **_Index_** )
+ _expression_. 'FindByName'( '_Index_' )
 
  _expression_ An expression that returns a **Placeholders** object.
 

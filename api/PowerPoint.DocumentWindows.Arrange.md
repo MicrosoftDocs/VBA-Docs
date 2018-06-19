@@ -18,7 +18,7 @@ Arranges all open document windows in the workspace.
 
 ## Syntax
 
- _expression_. **Arrange**( **_arrangeStyle_** )
+ _expression_. 'Arrange'( '_arrangeStyle_' )
 
  _expression_ A variable that represents a **DocumentWindows** object.
 

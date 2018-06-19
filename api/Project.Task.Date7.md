@@ -15,7 +15,7 @@ Gets or sets the value of the  **Date7** custom field for the task. Read/write *
 
 ## Syntax
 
- _expression_. **Date7**
+ _expression_. 'Date7'
 
  _expression_ A variable that represents a **Task** object.
 

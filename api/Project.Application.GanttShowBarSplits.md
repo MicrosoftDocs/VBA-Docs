@@ -18,7 +18,7 @@ Shows or hides task splits on the Gantt Chart.
 
 ## Syntax
 
- _expression_. **GanttShowBarSplits**( ** _Display_** )
+ _expression_. 'GanttShowBarSplits'( ' _Display_' )
 
  _expression_ A variable that represents an **Application** object.
 

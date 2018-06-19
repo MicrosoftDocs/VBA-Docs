@@ -18,7 +18,7 @@ Returns or sets the number of points that are cropped off the left side of the s
 
 ## Syntax
 
- _expression_. **CropLeft**
+ _expression_. 'CropLeft'
 
  _expression_ A variable that represents a **PictureFormat** object.
 

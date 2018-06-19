@@ -18,7 +18,7 @@ Returns or sets the chart title text. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **Caption**
+ _expression_. 'Caption'
 
  _expression_ A variable that represents a **[ChartTitle](PowerPoint.ChartTitle.md)** object.
 

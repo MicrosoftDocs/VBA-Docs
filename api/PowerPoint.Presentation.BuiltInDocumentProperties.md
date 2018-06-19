@@ -18,7 +18,7 @@ Returns a  **DocumentProperties** collection that represents all the built-in do
 
 ## Syntax
 
- _expression_. **BuiltInDocumentProperties**
+ _expression_. 'BuiltInDocumentProperties'
 
  _expression_ A variable that represents a **Presentation** object.
 

@@ -18,7 +18,7 @@ Unlinks the selected tasks.
 
 ## Syntax
 
- _expression_. **UnlinkTasks**
+ _expression_. 'UnlinkTasks'
 
  _expression_ A variable that represents an **Application** object.
 

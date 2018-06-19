@@ -18,7 +18,7 @@ Promotes a task in the outline.
 
 ## Syntax
 
- _expression_. **OutlineOutdent**( ** _Levels_** )
+ _expression_. 'OutlineOutdent'( ' _Levels_' )
 
  _expression_ A variable that represents an **Application** object.
 

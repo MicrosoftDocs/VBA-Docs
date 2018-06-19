@@ -15,7 +15,7 @@ Gets the amount of regular work for the task. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. **RegularWork**
+ _expression_. 'RegularWork'
 
  _expression_ A variable that represents a **Task** object.
 

@@ -18,7 +18,7 @@ Applies a theme or design template to the specified slide master, title master, 
 
 ## Syntax
 
- _expression_. **ApplyTheme**( **_themeName_** )
+ _expression_. 'ApplyTheme'( '_themeName_' )
 
  _expression_ A variable that represents a **Master** object.
 

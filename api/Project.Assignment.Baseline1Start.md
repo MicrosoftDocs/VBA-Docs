@@ -15,7 +15,7 @@ Gets or sets the baseline start date of a task  **Assignment**. Read/write **Var
 
 ## Syntax
 
- _expression_. **Baseline1Start**
+ _expression_. 'Baseline1Start'
 
  _expression_ A variable that represents an **Assignment** object.
 

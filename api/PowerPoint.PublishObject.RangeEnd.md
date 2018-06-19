@@ -18,7 +18,7 @@ Returns or sets the number of the last slide in a range of slides you are publis
 
 ## Syntax
 
- _expression_. **RangeEnd**
+ _expression_. 'RangeEnd'
 
  _expression_ A variable that represents a **PublishObject** object.
 

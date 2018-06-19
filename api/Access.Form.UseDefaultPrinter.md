@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** indicating whether the specified form uses the de
 
 ## Syntax
 
- _expression_. **UseDefaultPrinter**
+ _expression_. 'UseDefaultPrinter'
 
  _expression_ A variable that represents a **Form** object.
 

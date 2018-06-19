@@ -15,7 +15,7 @@ Gets the cost variance percent of the task. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. **CVPercent**
+ _expression_. 'CVPercent'
 
  _expression_ A variable that represents a **Task** object.
 

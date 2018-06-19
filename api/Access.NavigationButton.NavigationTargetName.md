@@ -18,7 +18,7 @@ Gets or sets the name of the form or report to be displayed when the user click 
 
 ## Syntax
 
- _expression_. **NavigationTargetName**
+ _expression_. 'NavigationTargetName'
 
  _expression_ A variable that represents a **NavigationButton** object.
 

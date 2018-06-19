@@ -18,7 +18,7 @@ Returns a  **TextRange** object that represents the specified subset of text run
 
 ## Syntax
 
- _expression_. **Runs**( **_Start_**, **_Length_** )
+ _expression_. 'Runs'( '_Start_', '_Length_' )
 
  _expression_ A variable that represents a **TextRange** object.
 

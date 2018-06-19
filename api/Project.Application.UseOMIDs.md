@@ -18,7 +18,7 @@ Gets or sets the corresponding  **Use internal IDs** option on the **Advanced** 
 
 ## Syntax
 
- _expression_. **UseOMIDs**
+ _expression_. 'UseOMIDs'
 
  _expression_ A variable that represents an **Application** object.
 

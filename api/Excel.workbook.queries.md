@@ -13,7 +13,7 @@ ms.prod: excel
 
 ## Syntax
 
- _expression_. **Queries**
+ _expression_. 'Queries'
 
  _expression_ A variable that represents a **Workbook** object.
 

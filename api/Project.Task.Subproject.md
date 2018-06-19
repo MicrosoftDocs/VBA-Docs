@@ -15,7 +15,7 @@ Gets or sets the subproject name for the task. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **Subproject**
+ _expression_. 'Subproject'
 
  _expression_ A variable that represents a **Task** object.
 

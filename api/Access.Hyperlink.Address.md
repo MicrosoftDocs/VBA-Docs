@@ -18,7 +18,7 @@ You can use the  **Address** property to specify or determine the path to an obj
 
 ## Syntax
 
- _expression_. **Address**
+ _expression_. 'Address'
 
  _expression_ A variable that represents a **Hyperlink** object.
 

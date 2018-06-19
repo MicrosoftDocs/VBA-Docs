@@ -18,7 +18,7 @@ Shows or hides the critical tasks style on the active Gantt chart.
 
 ## Syntax
 
- _expression_. **GanttBarStyleCritical**( ** _Show_** )
+ _expression_. 'GanttBarStyleCritical'( ' _Show_' )
 
  _expression_ An expression that returns an **Application** object.
 

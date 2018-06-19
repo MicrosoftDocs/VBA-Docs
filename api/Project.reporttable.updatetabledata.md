@@ -14,7 +14,7 @@ Updates rows and columns in the report table to show the specified task or resou
 
 ## Syntax
 
- _expression_. **UpdateTableData** _(Task,_ _GroupName,_ _FilterName,_ _OutlineLevel,_ _SafeArrayOfPjField)_
+ _expression_. 'UpdateTableData' _(Task,_ _GroupName,_ _FilterName,_ _OutlineLevel,_ _SafeArrayOfPjField)_
 
  _expression_ A variable that represents a **ReportTable** object.
 

@@ -15,7 +15,7 @@ Gets the value 1 for the number of days in the  **WeekDay** object. Read-only **
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **WeekDay** object.
 

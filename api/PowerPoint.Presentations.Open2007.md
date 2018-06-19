@@ -18,7 +18,7 @@ Opens the specified presentation and provides the option to repair the presentat
 
 ## Syntax
 
- _expression_. **Open2007**( **_FileName_**, **_ReadOnly_**, **_Untitled_**, **_WithWindow_**, **_OpenAndRepair_** )
+ _expression_. 'Open2007'( '_FileName_', '_ReadOnly_', '_Untitled_', '_WithWindow_', '_OpenAndRepair_' )
 
  _expression_ A variable that represents a **Presentations** object.
 

@@ -18,7 +18,7 @@ Determines whether the shadow of the specified shape appears filled in and is ob
 
 ## Syntax
 
- _expression_. **Obscured**
+ _expression_. 'Obscured'
 
  _expression_ A variable that represents an **ShadowFormat** object.
 

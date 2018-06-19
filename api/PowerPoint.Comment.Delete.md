@@ -18,7 +18,7 @@ Deletes the specified  **Comment** object.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **Comment** object.
 

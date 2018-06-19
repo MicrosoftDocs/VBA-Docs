@@ -18,7 +18,7 @@ Returns or sets the type of action that will occur when the specified shape is c
 
 ## Syntax
 
- _expression_. **Action**
+ _expression_. 'Action'
 
  _expression_ A variable that represents an **ActionSetting** object.
 

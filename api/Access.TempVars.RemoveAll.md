@@ -18,7 +18,7 @@ Removes all of the  **[TempVar](Access.TempVar.md)** objects from the **[TempVar
 
 ## Syntax
 
- _expression_. **RemoveAll**
+ _expression_. 'RemoveAll'
 
  _expression_ A variable that represents a **TempVars** object.
 

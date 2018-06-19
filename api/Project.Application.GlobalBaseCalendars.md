@@ -18,7 +18,7 @@ Gets or sets a  **[Calendars](Project.Calendar.md)** collection representing the
 
 ## Syntax
 
- _expression_. **GlobalBaseCalendars**
+ _expression_. 'GlobalBaseCalendars'
 
  _expression_ A variable that represents an **Application** object.
 

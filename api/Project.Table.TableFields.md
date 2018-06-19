@@ -18,7 +18,7 @@ Gets a  **[TableFields](Project.TableField.md)** collection representing the fie
 
 ## Syntax
 
- _expression_. **TableFields**
+ _expression_. 'TableFields'
 
  _expression_ A variable that represents a **Table** object.
 

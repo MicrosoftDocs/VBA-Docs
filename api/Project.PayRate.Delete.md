@@ -15,7 +15,7 @@ Deletes the  **PayRate** object from a **PayRates** collection.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents a **PayRate** object.
 

@@ -18,7 +18,7 @@ Gets or sets the top gridline style of the specified attachment. Read/write  **B
 
 ## Syntax
 
- _expression_. **GridlineStyleTop**
+ _expression_. 'GridlineStyleTop'
 
  _expression_ A variable that represents an **Attachment** object.
 

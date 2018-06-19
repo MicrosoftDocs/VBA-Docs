@@ -18,7 +18,7 @@ Inserts a new automatically scheduled task above the selected task row or cell i
 
 ## Syntax
 
- _expression_. **InsertScheduledTask**
+ _expression_. 'InsertScheduledTask'
 
  _expression_ An expression that returns an **Application** object.
 

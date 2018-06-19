@@ -15,7 +15,7 @@ Gets errors reported by the  **Import Resources Wizard** and by local resource e
 
 ## Syntax
 
- _expression_. **ErrorMessage**
+ _expression_. 'ErrorMessage'
 
  _expression_ A variable that represents a **Resource** object.
 

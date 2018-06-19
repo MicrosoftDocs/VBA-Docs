@@ -18,7 +18,7 @@ You can use this property for linked unbound object frames to determine the comp
 
 ## Syntax
 
- _expression_. **SourceObject**
+ _expression_. 'SourceObject'
 
  _expression_ A variable that represents an **ObjectFrame** object.
 

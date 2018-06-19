@@ -18,7 +18,7 @@ Returns a  **[Slides](PowerPoint.Slides.md)** collection that represents all sli
 
 ## Syntax
 
- _expression_. **Slides**
+ _expression_. 'Slides'
 
  _expression_ A variable that represents a **PlaySettings** object.
 

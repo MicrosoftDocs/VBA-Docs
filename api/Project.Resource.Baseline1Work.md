@@ -15,7 +15,7 @@ Gets or sets the baseline work (in minutes) for a  **Resource** Read/write **Var
 
 ## Syntax
 
- _expression_. **Baseline1Work**
+ _expression_. 'Baseline1Work'
 
  _expression_ A variable that represents a **Resource** object.
 

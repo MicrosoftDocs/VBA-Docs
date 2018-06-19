@@ -18,7 +18,7 @@ Performs actions or runs commands in another application through dynamic data ex
 
 ## Syntax
 
- _expression_. **DDEExecute**( ** _Command_**, ** _TimeOut_** )
+ _expression_. 'DDEExecute'( ' _Command_', ' _TimeOut_' )
 
  _expression_ A variable that represents an **Application** object.
 

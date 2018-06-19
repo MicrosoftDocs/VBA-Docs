@@ -18,7 +18,7 @@ Represents the type of animation. Read/write.
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents an **AnimationBehavior** object.
 

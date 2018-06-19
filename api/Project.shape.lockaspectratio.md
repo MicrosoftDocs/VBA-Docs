@@ -11,7 +11,7 @@ Gets or sets a value that indicates whether the shape retains its original propo
 
 ## Syntax
 
- _expression_. **LockAspectRatio**
+ _expression_. 'LockAspectRatio'
 
  _expression_ A variable that represents a **Shape** object.
 

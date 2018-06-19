@@ -18,7 +18,7 @@ Shows or hides the slack style for tasks on the active Gantt chart.
 
 ## Syntax
 
- _expression_. **GanttBarStyleSlack**( ** _Show_** )
+ _expression_. 'GanttBarStyleSlack'( ' _Show_' )
 
  _expression_ An expression that returns an **Application** object.
 

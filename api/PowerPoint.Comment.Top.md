@@ -18,7 +18,7 @@ Returns a  **Single** that represents the distance in points from the left edge 
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_. 'Top'
 
  _expression_ A variable that represents a **Comment** object.
 

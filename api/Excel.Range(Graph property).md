@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a Range object that represents the specified cell or range of cells. Read-only Range object.
 
- _expression_. **Range( _Range1_**,  **_Range2_)**
+ _expression_. 'Range( _Range1_',  '_Range2_)'
 
  _expression_ Required. An expression that returns a **DataSheet** object.
 

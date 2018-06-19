@@ -18,7 +18,7 @@ Adds a new column in a specified position, in views where columns can be added.
 
 ## Syntax
 
- _expression_. **AddNewColumn**( ** _Column_** )
+ _expression_. 'AddNewColumn'( ' _Column_' )
 
  _expression_ An expression that returns an **Application** object.
 

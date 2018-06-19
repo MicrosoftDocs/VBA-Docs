@@ -18,7 +18,7 @@ Returns the text that appears in the title bar of the specified window. Read-onl
 
 ## Syntax
 
- _expression_. **Caption**
+ _expression_. 'Caption'
 
  _expression_ A variable that represents a **ProtectedViewWindow** object.
 

@@ -15,7 +15,7 @@ Gets the value 1 for the number of days in the  **WorkWeekDay** object. Read-onl
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. 'Count'
 
  _expression_ An expression that returns a **WorkWeekDay** object.
 

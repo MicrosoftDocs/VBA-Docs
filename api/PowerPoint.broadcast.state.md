@@ -16,7 +16,7 @@ Returns an [MSOBroadcastState](http://msdn.microsoft.com/library/383160db-9f27-b
 
 ## Syntax
 
- _expression_. **State**
+ _expression_. 'State'
 
  _expression_ A variable that represents a **Broadcast** object.
 

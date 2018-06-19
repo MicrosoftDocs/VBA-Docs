@@ -15,7 +15,7 @@ Gets or sets the priority for the task. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **Priority**
+ _expression_. 'Priority'
 
  _expression_ A variable that represents a **Task** object.
 

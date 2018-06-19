@@ -18,7 +18,7 @@ Determines whether the specified bullets are set to the font of the first text c
 
 ## Syntax
 
- _expression_. **UseTextFont**
+ _expression_. 'UseTextFont'
 
  _expression_ A variable that represents an **BulletFormat** object.
 

@@ -18,7 +18,7 @@ Displays the  **Progress Lines** dialog box.
 
 ## Syntax
 
- _expression_. **ProgressLines**
+ _expression_. 'ProgressLines'
 
  _expression_ A variable that represents an **Application** object.
 

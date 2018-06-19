@@ -18,7 +18,7 @@ Determines whether an effect should play forward and then in reverse, thereby do
 
 ## Syntax
 
- _expression_. **AutoReverse**
+ _expression_. 'AutoReverse'
 
  _expression_ A variable that represents an **Timing** object.
 

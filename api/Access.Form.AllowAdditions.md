@@ -18,7 +18,7 @@ You can use the  **AllowAdditions** property to specify whether a user can add a
 
 ## Syntax
 
- _expression_. **AllowAdditions**
+ _expression_. 'AllowAdditions'
 
  _expression_ A variable that represents a **Form** object.
 

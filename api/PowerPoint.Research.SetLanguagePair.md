@@ -18,7 +18,7 @@ Sets the languages for the translation service.
 
 ## Syntax
 
- _expression_. **SetLanguagePair**( **_Language1_**, **_Language2_** )
+ _expression_. 'SetLanguagePair'( '_Language1_', '_Language2_' )
 
  _expression_ An expression that returns a **Research** object.
 

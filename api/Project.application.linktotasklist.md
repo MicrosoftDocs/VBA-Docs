@@ -14,7 +14,7 @@ Links to a SharePoint tasks list.
 
 ## Syntax
 
- _expression_. **LinkToTaskList** _(SiteURL,_ _TaskListName)_
+ _expression_. 'LinkToTaskList' _(SiteURL,_ _TaskListName)_
 
  _expression_ A variable that represents an **Application** object.
 

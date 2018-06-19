@@ -15,7 +15,7 @@ Gets or sets a  **[ViewsSingle](Project.ViewSingle.md)** collection representing
 
 ## Syntax
 
- _expression_. **GlobalViewsSingle**
+ _expression_. 'GlobalViewsSingle'
 
  _expression_ A variable that represents an **Application** object.
 

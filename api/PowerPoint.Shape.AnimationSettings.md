@@ -18,7 +18,7 @@ Returns an  **[AnimationSettings](PowerPoint.AnimationSettings.md)** object that
 
 ## Syntax
 
- _expression_. **AnimationSettings**
+ _expression_. 'AnimationSettings'
 
  _expression_ A variable that represents a **Shape** object.
 

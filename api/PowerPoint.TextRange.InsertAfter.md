@@ -18,7 +18,7 @@ Appends a string to the end of the specified text range. Returns a  **TextRange*
 
 ## Syntax
 
- _expression_. **InsertAfter**( **_NewText_** )
+ _expression_. 'InsertAfter'( '_NewText_' )
 
  _expression_ A variable that represents an **TextRange** object.
 

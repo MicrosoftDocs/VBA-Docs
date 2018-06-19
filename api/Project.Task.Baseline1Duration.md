@@ -15,7 +15,7 @@ Gets or sets the baseline duration (in minutes) of a task. Read/write  **Variant
 
 ## Syntax
 
- _expression_. **Baseline1Duration**
+ _expression_. 'Baseline1Duration'
 
  _expression_ A variable that represents a **Task** object.
 

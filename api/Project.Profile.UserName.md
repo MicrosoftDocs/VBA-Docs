@@ -15,7 +15,7 @@ Gets or sets the logon name of the current account profile. Read/write  **String
 
 ## Syntax
 
- _expression_. **UserName**
+ _expression_. 'UserName'
 
  _expression_ A variable that represents a **Profile** object.
 

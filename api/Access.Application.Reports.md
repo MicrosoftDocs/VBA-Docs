@@ -18,7 +18,7 @@ You can use the  **Reports** property to access the read-only **[Reports](Access
 
 ## Syntax
 
- _expression_. **Reports**
+ _expression_. 'Reports'
 
  _expression_ A variable that represents an **Application** object.
 

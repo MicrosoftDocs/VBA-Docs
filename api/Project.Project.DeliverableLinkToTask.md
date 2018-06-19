@@ -15,7 +15,7 @@ Links a deliverable to a task.
 
 ## Syntax
 
- _expression_. **DeliverableLinkToTask**( ** _DeliverableGuid_**, ** _TaskGuid_** )
+ _expression_. 'DeliverableLinkToTask'( ' _DeliverableGuid_', ' _TaskGuid_' )
 
  _expression_ A variable that represents a **Project** object.
 

@@ -18,7 +18,7 @@ Displays the data from one or more projects in a single window.
 
 ## Syntax
 
- _expression_. **ConsolidateProjects**( ** _Filenames_**, ** _NewWindow_**, ** _AttachToSources_**, ** _PoolResources_**, ** _HideSubtasks_**, ** _openPool_**, ** _UserID_**, ** _Password_** )
+ _expression_. 'ConsolidateProjects'( ' _Filenames_', ' _NewWindow_', ' _AttachToSources_', ' _PoolResources_', ' _HideSubtasks_', ' _openPool_', ** _UserID_**, ** _Password_** )
 
  _expression_ A variable that represents an **Application** object.
 

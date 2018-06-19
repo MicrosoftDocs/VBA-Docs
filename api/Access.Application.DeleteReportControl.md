@@ -18,7 +18,7 @@ The  **DeleteReportControl** method deletes a specified control from a report.
 
 ## Syntax
 
- _expression_. **DeleteReportControl**( ** _ReportName_**, ** _ControlName_** )
+ _expression_. 'DeleteReportControl'( ' _ReportName_', ' _ControlName_' )
 
  _expression_ A variable that represents an **Application** object.
 

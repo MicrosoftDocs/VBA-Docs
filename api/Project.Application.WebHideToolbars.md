@@ -18,7 +18,7 @@ Shows or hides all toolbars except the  **Menu** and **Web** toolbars. Obsolete 
 
 ## Syntax
 
- _expression_. **WebHideToolbars**( ** _Hide_** )
+ _expression_. 'WebHideToolbars'( ' _Hide_' )
 
  _expression_ A variable that represents an **Application** object.
 

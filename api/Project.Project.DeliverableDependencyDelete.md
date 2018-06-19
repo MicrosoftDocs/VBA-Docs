@@ -15,7 +15,7 @@ Deletes the dependency on the deliverable.
 
 ## Syntax
 
- _expression_. **DeliverableDependencyDelete**( ** _DeliverableGuid_** )
+ _expression_. 'DeliverableDependencyDelete'( ' _DeliverableGuid_' )
 
  _expression_ A variable that represents a **Project** object.
 

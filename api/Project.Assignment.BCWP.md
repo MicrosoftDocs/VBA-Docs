@@ -15,7 +15,7 @@ Gets the budgeted cost of work performed for the assignment. Read-only  **Varian
 
 ## Syntax
 
- _expression_. **BCWP**
+ _expression_. 'BCWP'
 
  _expression_ A variable that represents an **Assignment** object.
 

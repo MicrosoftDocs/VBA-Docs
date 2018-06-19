@@ -14,7 +14,7 @@ Returns information about the chart element at specified X and Y coordinates. Th
 
 ## Syntax
 
- _expression_. **GetChartElement** _(x,_? _y,_? _ElementID,_? _Arg1,_? _Arg2)_
+ _expression_. 'GetChartElement' _(x,_? _y,_? _ElementID,_? _Arg1,_? _Arg2)_
 
  _expression_ A variable that represents a **Chart** object.
 

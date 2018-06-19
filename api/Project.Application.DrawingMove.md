@@ -18,7 +18,7 @@ Moves the active drawing object forward or backward in the drawing layers.
 
 ## Syntax
 
- _expression_. **DrawingMove**( ** _Forward_**, ** _Full_** )
+ _expression_. 'DrawingMove'( ' _Forward_', ' _Full_' )
 
  _expression_ A variable that represents an **Application** object.
 

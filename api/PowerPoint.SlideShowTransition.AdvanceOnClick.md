@@ -18,7 +18,7 @@ Determines whether the specified slide advances when it is clicked during a slid
 
 ## Syntax
 
- _expression_. **AdvanceOnClick**
+ _expression_. 'AdvanceOnClick'
 
  _expression_ A variable that represents an **SlideShowTransition** object.
 

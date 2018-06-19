@@ -18,7 +18,7 @@ The  **Page** property specifies the current page number when a report is being 
 
 ## Syntax
 
- _expression_. **Page**
+ _expression_. 'Page'
 
  _expression_ A variable that represents a **Report** object.
 

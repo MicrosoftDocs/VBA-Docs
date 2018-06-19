@@ -18,7 +18,7 @@ Returns a  **String** that specifies the name of the algorithm encryption provid
 
 ## Syntax
 
- _expression_. **EncryptionProvider**
+ _expression_. 'EncryptionProvider'
 
  _expression_ An expression that returns a **Presentation** object.
 

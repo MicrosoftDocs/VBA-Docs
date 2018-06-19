@@ -18,7 +18,7 @@ The  **KeyDown** event occurs when the user presses a key while a form or contro
 
 ## Syntax
 
- _expression_. **KeyDown**( ** _KeyCode_**, ** _Shift_** )
+ _expression_. 'KeyDown'( ' _KeyCode_', ' _Shift_' )
 
  _expression_ A variable that represents an **Attachment** object.
 

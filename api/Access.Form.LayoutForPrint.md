@@ -18,7 +18,7 @@ You can use the  **LayoutForPrint** property to specify whether the form uses pr
 
 ## Syntax
 
- _expression_. **LayoutForPrint**
+ _expression_. 'LayoutForPrint'
 
  _expression_ A variable that represents a **Form** object.
 

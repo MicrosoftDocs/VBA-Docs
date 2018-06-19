@@ -18,7 +18,7 @@ Returns the OLE media type. Read-only.
 
 ## Syntax
 
- _expression_. **MediaType**
+ _expression_. 'MediaType'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

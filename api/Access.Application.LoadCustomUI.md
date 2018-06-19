@@ -18,7 +18,7 @@ Loads XML markup that represents a customized ribbon.
 
 ## Syntax
 
- _expression_. **LoadCustomUI**( ** _CustomUIName_**, ** _CustomUIXML_** )
+ _expression_. 'LoadCustomUI'( ' _CustomUIName_', ' _CustomUIXML_' )
 
  _expression_ An expression that returns a **Application** object.
 

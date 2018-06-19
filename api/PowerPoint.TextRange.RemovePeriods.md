@@ -18,7 +18,7 @@ Removes the period at the end of each paragraph in the specified text.
 
 ## Syntax
 
- _expression_. **RemovePeriods**
+ _expression_. 'RemovePeriods'
 
  _expression_ A variable that represents a **TextRange** object.
 

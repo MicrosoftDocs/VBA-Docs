@@ -23,7 +23,7 @@ Returns or sets the weight of the border. Read/write
 | **xlHairline**|
 | **xlThin** **xlMedium** **xlThick**|
 
- _expression_. **Weight**
+ _expression_. 'Weight'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

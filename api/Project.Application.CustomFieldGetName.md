@@ -15,7 +15,7 @@ Returns the friendly name for a custom field.
 
 ## Syntax
 
- _expression_. **CustomFieldGetName**( ** _FieldID_** )
+ _expression_. 'CustomFieldGetName'( ' _FieldID_' )
 
  _expression_ A variable that represents an **Application** object.
 

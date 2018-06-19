@@ -18,7 +18,7 @@ Returns or sets the format for the automatically updated date and time. Read/wri
 
 ## Syntax
 
- _expression_. **Format**
+ _expression_. 'Format'
 
  _expression_ A variable that represents a **ThreeDFormat** object.
 

@@ -18,7 +18,7 @@ Sets or returns the value of a property for an animation point. Read/write.
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents an **AnimationPoint** object.
 

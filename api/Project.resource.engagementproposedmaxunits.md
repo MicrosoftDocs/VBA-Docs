@@ -16,7 +16,7 @@ Returns the proposed maximum units for the engagement. Read-only  **Integer**. I
 
 ## Syntax
 
- _expression_. **EngagementProposedMaxUnits**
+ _expression_. 'EngagementProposedMaxUnits'
 
  _expression_ A variable that represents a **Resource** object.
 

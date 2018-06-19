@@ -18,7 +18,7 @@ Sets the width and height of the active window.
 
 ## Syntax
 
- _expression_. **DocSize**( ** _Width_**, ** _Height_**, ** _Points_** )
+ _expression_. 'DocSize'( ' _Width_', ' _Height_', ' _Points_' )
 
  _expression_ A variable that represents an **Application** object.
 

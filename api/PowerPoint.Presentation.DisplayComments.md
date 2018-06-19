@@ -18,7 +18,7 @@ Determines whether comments are displayed in the specified presentation. Read/wr
 
 ## Syntax
 
- _expression_. **DisplayComments**
+ _expression_. 'DisplayComments'
 
  _expression_ A variable that represents a **Presentation** object.
 

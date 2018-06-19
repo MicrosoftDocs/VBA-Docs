@@ -18,7 +18,7 @@ You can use the  **Cycle** property to specify what happens when you press the T
 
 ## Syntax
 
- _expression_. **Cycle**
+ _expression_. 'Cycle'
 
  _expression_ A variable that represents a **Report** object.
 

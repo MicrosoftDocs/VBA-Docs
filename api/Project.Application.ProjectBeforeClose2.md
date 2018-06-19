@@ -15,7 +15,7 @@ Occurs before a project is closed. Uses the  **EventInfo** object parameter.
 
 ## Syntax
 
- _expression_. **ProjectBeforeClose2**( ** _pj_**, ** _Info_** )
+ _expression_. 'ProjectBeforeClose2'( ' _pj_', ' _Info_' )
 
  _expression_ A variable that represents an **Application** object.
 

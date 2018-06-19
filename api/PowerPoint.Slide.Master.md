@@ -18,7 +18,7 @@ Returns a  **[Master](PowerPoint.Master.md)** object that represents the slide m
 
 ## Syntax
 
- _expression_. **Master**
+ _expression_. 'Master'
 
  _expression_ A variable that represents a **Slide** object.
 

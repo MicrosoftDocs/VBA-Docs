@@ -11,7 +11,7 @@ Selects each shape in a shape range.
 
 ## Syntax
 
- _expression_. **Select** _(Replace)_
+ _expression_. 'Select' _(Replace)_
 
  _expression_ A variable that represents a **ShapeRange** object.
 

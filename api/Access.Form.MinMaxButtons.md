@@ -18,7 +18,7 @@ You can use the  **MinMaxButtons** property to specify whether the **Maximize** 
 
 ## Syntax
 
- _expression_. **MinMaxButtons**
+ _expression_. 'MinMaxButtons'
 
  _expression_ A variable that represents a **Form** object.
 

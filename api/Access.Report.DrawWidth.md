@@ -18,7 +18,7 @@ You can use the  **DrawWidth** property to specify the line width for the **[Lin
 
 ## Syntax
 
- _expression_. **DrawWidth**
+ _expression_. 'DrawWidth'
 
  _expression_ A variable that represents a **Report** object.
 

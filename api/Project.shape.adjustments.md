@@ -11,7 +11,7 @@ Gets an  **[Adjustments](http://msdn.microsoft.com/en-us/library/office/ff838852
 
 ## Syntax
 
- _expression_. **Adjustments**
+ _expression_. 'Adjustments'
 
  _expression_ A variable that represents a **Shape** object.
 

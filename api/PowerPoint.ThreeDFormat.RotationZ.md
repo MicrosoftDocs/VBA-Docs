@@ -18,7 +18,7 @@ Returns or sets the rotation of the effects camera for the specified  **ThreeDFo
 
 ## Syntax
 
- _expression_. **RotationZ**
+ _expression_. 'RotationZ'
 
  _expression_ A variable that represents a **ThreeDFormat** object.
 

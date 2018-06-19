@@ -18,7 +18,7 @@ You can use the  **CodeContextObject** property to determine the object in which
 
 ## Syntax
 
- _expression_. **CodeContextObject**
+ _expression_. 'CodeContextObject'
 
  _expression_ A variable that represents an **Application** object.
 

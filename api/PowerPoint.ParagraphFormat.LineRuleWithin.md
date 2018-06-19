@@ -18,7 +18,7 @@ Determines whether line spacing between base lines is set to a specific number o
 
 ## Syntax
 
- _expression_. **LineRuleWithin**
+ _expression_. 'LineRuleWithin'
 
  _expression_ A variable that represents a **ParagraphFormat** object.
 

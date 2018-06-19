@@ -18,7 +18,7 @@ Returns the glow format for the specified range of shapes. Read-only.
 
 ## Syntax
 
- _expression_. **Glow**
+ _expression_. 'Glow'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

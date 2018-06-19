@@ -18,7 +18,7 @@ Gets or sets the width of the bottom gridline for the specified option button. R
 
 ## Syntax
 
- _expression_. **GridlineWidthBottom**
+ _expression_. 'GridlineWidthBottom'
 
  _expression_ A variable that represents an **OptionButton** object.
 

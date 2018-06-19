@@ -18,7 +18,7 @@ Gets or sets the bottom gridline style of the specified label. Read/write  **Byt
 
 ## Syntax
 
- _expression_. **GridlineStyleBottom**
+ _expression_. 'GridlineStyleBottom'
 
  _expression_ A variable that represents a **Label** object.
 

@@ -18,7 +18,7 @@ Gets the edition of the Project application, either Project Standard or Project 
 
 ## Syntax
 
- _expression_. **Edition**
+ _expression_. 'Edition'
 
  _expression_ A variable that represents an **Application** object.
 

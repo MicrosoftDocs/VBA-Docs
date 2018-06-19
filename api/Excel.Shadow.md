@@ -17,7 +17,7 @@ Shadow property as it applies to the  **AxisTitle**,  **ChartArea**,  **ChartTit
 
 True if the font is a shadow font or if the specified object has a shadow. Read/write Boolean.
 
- _expression_. **Shadow**
+ _expression_. 'Shadow'
 
  _expression_ Required. An expression that returns one of the above objects.
 Shadow property as it applies to the  **Font** object.

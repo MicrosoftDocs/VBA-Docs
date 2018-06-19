@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Mouse Up** box in the **Properties** wind
 
 ## Syntax
 
- _expression_. **OnMouseUp**
+ _expression_. 'OnMouseUp'
 
  _expression_ A variable that represents a **Label** object.
 

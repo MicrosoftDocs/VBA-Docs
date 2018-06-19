@@ -18,7 +18,7 @@ Returns the name of the table style. Read-only.
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **TableStyle** object.
 

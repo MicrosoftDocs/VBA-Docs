@@ -18,7 +18,7 @@ Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that 
 
 ## Syntax
 
- _expression_. **Dependencies**
+ _expression_. 'Dependencies'
 
  _expression_ A variable that represents a **DependencyInfo** object.
 

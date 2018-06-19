@@ -18,7 +18,7 @@ You can use the  **CurrentView** property to determine how a form is currently d
 
 ## Syntax
 
- _expression_. **CurrentView**
+ _expression_. 'CurrentView'
 
  _expression_ A variable that represents a **Form** object.
 

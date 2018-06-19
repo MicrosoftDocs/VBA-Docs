@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** indicating whether the specified form can be move
 
 ## Syntax
 
- _expression_. **Moveable**
+ _expression_. 'Moveable'
 
  _expression_ A variable that represents a **Form** object.
 

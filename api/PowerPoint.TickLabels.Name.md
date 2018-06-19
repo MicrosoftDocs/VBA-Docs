@@ -18,7 +18,7 @@ Returns the name of the object. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
 

@@ -18,7 +18,7 @@ Sets the specified fill to a preset gradient.
 
 ## Syntax
 
- _expression_. **PresetGradient**( **_Style_**, **_Variant_**, **_PresetGradientType_** )
+ _expression_. 'PresetGradient'( '_Style_', '_Variant_', '_PresetGradientType_' )
 
  _expression_ A variable that represents a **FillFormat** object.
 

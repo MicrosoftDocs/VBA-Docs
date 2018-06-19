@@ -18,7 +18,7 @@ You can use the  **ServerFilterByForm** property to specify or determine whether
 
 ## Syntax
 
- _expression_. **ServerFilterByForm**
+ _expression_. 'ServerFilterByForm'
 
  _expression_ A variable that represents a **Form** object.
 

@@ -18,7 +18,7 @@ Determines whether the specified shape is animated during a slide show. Read/wri
 
 ## Syntax
 
- _expression_. **Animate**
+ _expression_. 'Animate'
 
  _expression_ A variable that represents an **AnimationSettings** object.
 

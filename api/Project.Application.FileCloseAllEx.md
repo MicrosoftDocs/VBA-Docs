@@ -18,7 +18,7 @@ Closes all projects.
 
 ## Syntax
 
- _expression_. **FileCloseAllEx**( ** _Save_**, ** _CheckIn_** )
+ _expression_. 'FileCloseAllEx'( ' _Save_', ' _CheckIn_' )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Gets or sets whether the filter specified by the  **[Filter](Access.Report.Filte
 
 ## Syntax
 
- _expression_. **FilterOnLoad**
+ _expression_. 'FilterOnLoad'
 
  _expression_ A variable that represents a **Report** object.
 

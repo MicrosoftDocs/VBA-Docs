@@ -15,7 +15,7 @@ Occurs when a new project is created, including the default project that is crea
 
 ## Syntax
 
- _expression_. **NewProject**( ** _pj_**, )
+ _expression_. 'NewProject'( ' _pj_', )
 
  _expression_ A variable that represents an **Application** object.
 

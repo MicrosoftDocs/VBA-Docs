@@ -11,7 +11,7 @@ Gets the number of rows in the table. Read-only  **Long**.
 
 ## Syntax
 
- _expression_. **RowsCount**
+ _expression_. 'RowsCount'
 
  _expression_ A variable that represents a **ReportTable** object.
 

@@ -18,7 +18,7 @@ Gets the cost performance index of a specified task. Read-only  **Double**.
 
 ## Syntax
 
- _expression_. **CPI**
+ _expression_. 'CPI'
 
  _expression_ A variable that represents a **Task** object.
 

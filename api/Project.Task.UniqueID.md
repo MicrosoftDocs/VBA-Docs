@@ -15,7 +15,7 @@ Gets the unique identification number of the task. Read-only  **Long**.
 
 ## Syntax
 
- _expression_. **UniqueID**
+ _expression_. 'UniqueID'
 
  _expression_ A variable that represents a **Task** object.
 

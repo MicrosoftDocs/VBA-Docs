@@ -15,7 +15,7 @@ Closes a pane or window.
 
 ## Syntax
 
- _expression_. **Close**
+ _expression_. 'Close'
 
  _expression_ A variable that represents a **Window** object.
 

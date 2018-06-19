@@ -18,7 +18,7 @@ Closes the specified window.
 
 ## Syntax
 
- _expression_. **Close**
+ _expression_. 'Close'
 
  _expression_ A variable that represents a **ProtectedViewWindow** object.
 

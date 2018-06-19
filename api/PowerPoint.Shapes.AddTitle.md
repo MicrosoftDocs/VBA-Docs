@@ -18,7 +18,7 @@ Restores a previously deleted title placeholder to a slide. Returns a  **[Shape]
 
 ## Syntax
 
- _expression_. **AddTitle**
+ _expression_. 'AddTitle'
 
  _expression_ A variable that represents a **Shapes** object.
 

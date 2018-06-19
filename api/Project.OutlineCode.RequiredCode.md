@@ -15,7 +15,7 @@ True if a value for the local outline code must be set before the project can be
 
 ## Syntax
 
- _expression_. **RequiredCode**
+ _expression_. 'RequiredCode'
 
  _expression_ A variable that represents an **OutlineCode** object.
 

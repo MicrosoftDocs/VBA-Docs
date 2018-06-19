@@ -18,7 +18,7 @@ Returns the width of the specified custom layout, in points. Read-only.
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_. 'Width'
 
  _expression_ A variable that represents a **CustomLayout** object.
 

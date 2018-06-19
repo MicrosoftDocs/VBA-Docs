@@ -15,7 +15,7 @@ Gets a  **[Days](Project.Day.md)** collection representing the days in the month
 
 ## Syntax
 
- _expression_. **Days**
+ _expression_. 'Days'
 
  _expression_ A variable that represents a **Month** object.
 

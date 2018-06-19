@@ -15,7 +15,7 @@ Gets or sets the way the task accrues fixed costs. Read/write  **PjAccrueAt**.
 
 ## Syntax
 
- _expression_. **FixedCostAccrual**
+ _expression_. 'FixedCostAccrual'
 
  _expression_ A variable that represents a **Task** object.
 

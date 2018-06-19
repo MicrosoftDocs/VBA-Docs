@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Allows the user to show the percentage value for the data labels on a chart. Read/write Boolean.
 
- _expression_. **ShowPercentage**
+ _expression_. 'ShowPercentage'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

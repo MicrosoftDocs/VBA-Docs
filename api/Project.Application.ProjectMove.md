@@ -18,7 +18,7 @@ Moves the project start date to a new date.
 
 ## Syntax
 
- _expression_. **ProjectMove**( ** _Date_**, ** _MoveDeadline_** )
+ _expression_. 'ProjectMove'( ' _Date_', ' _MoveDeadline_' )
 
  _expression_ An expression that returns an **Application** object.
 

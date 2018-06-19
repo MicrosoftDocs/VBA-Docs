@@ -18,7 +18,7 @@ Removes a test condition from a custom field graphical indicator criteria list.
 
 ## Syntax
 
- _expression_. **CustomFieldIndicatorDelete**( ** _FieldID_**, ** _Index_**, ** _CriteriaList_** )
+ _expression_. 'CustomFieldIndicatorDelete'( ' _FieldID_', ' _Index_', ' _CriteriaList_' )
 
  _expression_ A variable that represents an **Application** object.
 

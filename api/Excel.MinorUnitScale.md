@@ -22,7 +22,7 @@ Returns or sets the minor unit scale value for the category axis when the Catego
 | **xlMonths**|
 | **xlYears**|
 
- _expression_. **MinorUnitScale**
+ _expression_. 'MinorUnitScale'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

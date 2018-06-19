@@ -18,7 +18,7 @@ Sets the alignment of text in the active columns.
 
 ## Syntax
 
- _expression_. **ColumnAlignment**( ** _Align_** )
+ _expression_. 'ColumnAlignment'( ' _Align_' )
 
  _expression_ A variable that represents an **Application** object.
 

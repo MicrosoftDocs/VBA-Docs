@@ -18,7 +18,7 @@ Gets or sets the right gridline style of the specified list box. Read/write  **B
 
 ## Syntax
 
- _expression_. **GridlineStyleRight**
+ _expression_. 'GridlineStyleRight'
 
  _expression_ A variable that represents a **ListBox** object.
 

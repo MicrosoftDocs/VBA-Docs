@@ -15,7 +15,7 @@ Gets the booking type for an assignment. Can be one of the following  **PjBookin
 
 ## Syntax
 
- _expression_. **BookingType**
+ _expression_. 'BookingType'
 
  _expression_ A variable that represents an **Assignment** object.
 

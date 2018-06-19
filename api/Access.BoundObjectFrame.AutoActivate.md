@@ -18,7 +18,7 @@ You can use the  **AutoActivate** property to specify how the user can activate 
 
 ## Syntax
 
- _expression_. **AutoActivate**
+ _expression_. 'AutoActivate'
 
  _expression_ A variable that represents a **BoundObjectFrame** object.
 

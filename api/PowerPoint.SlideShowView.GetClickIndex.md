@@ -18,7 +18,7 @@ Returns the index number of the current mouse click for an animation that is act
 
 ## Syntax
 
- _expression_. **GetClickIndex**
+ _expression_. 'GetClickIndex'
 
  _expression_ A variable that represents a **SlideShowView** object.
 

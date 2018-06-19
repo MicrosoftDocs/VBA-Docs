@@ -18,7 +18,7 @@ Returns a  **[ShadowFormat](PowerPoint.ShadowFormat.md)** object that contains s
 
 ## Syntax
 
- _expression_. **Shadow**
+ _expression_. 'Shadow'
 
  _expression_ A variable that represents a **Shape** object.
 

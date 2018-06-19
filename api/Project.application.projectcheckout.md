@@ -14,7 +14,7 @@ Checks out an open project if it is the active project.
 
 ## Syntax
 
- _expression_. **ProjectCheckOut** _(Name)_
+ _expression_. 'ProjectCheckOut' _(Name)_
 
  _expression_ A variable that represents an **Application** object.
 

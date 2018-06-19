@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Cancels the selection for the chart.
 
- _expression_. **Deselect**
+ _expression_. 'Deselect'
 
  _expression_ Required. An expression that returns a **Chart** object.
 

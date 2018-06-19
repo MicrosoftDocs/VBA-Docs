@@ -18,7 +18,7 @@ Gets or sets a string representation of the task finish date. Read/write  **Stri
 
 ## Syntax
 
- _expression_. **FinishText**
+ _expression_. 'FinishText'
 
  _expression_ An expression that returns a **Task** object.
 

@@ -15,7 +15,7 @@ Gets the status of a specified task. Read-only  **PjStatusType**.
 
 ## Syntax
 
- _expression_. **Status**
+ _expression_. 'Status'
 
  _expression_ A variable that represents a **Task** object.
 

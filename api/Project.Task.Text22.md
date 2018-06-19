@@ -15,7 +15,7 @@ Gets or sets the value of a local Text custom field for the task. Read/write  **
 
 ## Syntax
 
- _expression_. **Text22**
+ _expression_. 'Text22'
 
  _expression_ A variable that represents a **Task** object.
 

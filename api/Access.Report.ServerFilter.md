@@ -18,7 +18,7 @@ You can use the  **ServerFilter** property to specify a subset of records to be 
 
 ## Syntax
 
- _expression_. **ServerFilter**
+ _expression_. 'ServerFilter'
 
  _expression_ A variable that represents a **Report** object.
 

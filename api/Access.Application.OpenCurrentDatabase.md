@@ -18,7 +18,7 @@ You can use the  **OpenCurrentDatabase** method to open an existing Microsoft Ac
 
 ## Syntax
 
- _expression_. **OpenCurrentDatabase**( ** _filepath_**, ** _Exclusive_**, ** _bstrPassword_** )
+ _expression_. 'OpenCurrentDatabase'( ' _filepath_', ' _Exclusive_', ' _bstrPassword_' )
 
  _expression_ A variable that represents an **Application** object.
 

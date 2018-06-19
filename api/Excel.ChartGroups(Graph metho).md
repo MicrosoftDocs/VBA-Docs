@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns an object that represents either a single chart group or a collection of all the chart groups in the chart. The returned collection includes every type of group.
 
- _expression_. **ChartGroups**( **_Index_**)
+ _expression_. 'ChartGroups'( '_Index_')
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

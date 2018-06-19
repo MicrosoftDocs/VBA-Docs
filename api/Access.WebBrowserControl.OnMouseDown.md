@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Mouse Down** box in the **Properties** wi
 
 ## Syntax
 
- _expression_. **OnMouseDown**
+ _expression_. 'OnMouseDown'
 
  _expression_ A variable that represents a **WebBrowserControl** object.
 

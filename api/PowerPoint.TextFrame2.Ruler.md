@@ -18,7 +18,7 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 
 ## Syntax
 
- _expression_. **Ruler**
+ _expression_. 'Ruler'
 
  _expression_ An expression that returns a **TextFrame2** object.
 

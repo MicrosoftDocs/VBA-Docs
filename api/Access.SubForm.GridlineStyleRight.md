@@ -18,7 +18,7 @@ Gets or sets the right gridline style of the specified subform. Read/write  **By
 
 ## Syntax
 
- _expression_. **GridlineStyleRight**
+ _expression_. 'GridlineStyleRight'
 
  _expression_ A variable that represents a **SubForm** object.
 

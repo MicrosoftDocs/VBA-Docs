@@ -11,7 +11,7 @@ Moves the shape range in front of or behind other shapes (that is, changes the p
 
 ## Syntax
 
- _expression_. **ZOrder** _(ZOrderCmd)_
+ _expression_. 'ZOrder' _(ZOrderCmd)_
 
  _expression_ A variable that represents a **ShapeRange** object.
 

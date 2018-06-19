@@ -18,7 +18,7 @@ Gets or sets the shade applied to the theme color in the  **BackColor** property
 
 ## Syntax
 
- _expression_. **BackShade**
+ _expression_. 'BackShade'
 
  _expression_ A variable that represents a **ListBox** object.
 

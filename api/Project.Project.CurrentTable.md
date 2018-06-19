@@ -15,7 +15,7 @@ Gets the name of the active table for a project. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **CurrentTable**
+ _expression_. 'CurrentTable'
 
  _expression_ A variable that represents a **Project** object.
 

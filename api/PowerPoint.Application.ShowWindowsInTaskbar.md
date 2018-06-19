@@ -18,7 +18,7 @@ Determines whether there is a separate Windows taskbar button for each open pres
 
 ## Syntax
 
- _expression_. **ShowWindowsInTaskbar**
+ _expression_. 'ShowWindowsInTaskbar'
 
  _expression_ A variable that represents a **Application** object.
 

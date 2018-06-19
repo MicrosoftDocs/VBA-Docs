@@ -18,7 +18,7 @@ You can use the  **Expression1** property to return the values of a conditional 
 
 ## Syntax
 
- _expression_. **Expression1**
+ _expression_. 'Expression1'
 
  _expression_ A variable that represents a **FormatCondition** object.
 

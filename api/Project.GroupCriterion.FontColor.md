@@ -15,7 +15,7 @@ Gets or sets the color of the font for a field used as a criterion in a group de
 
 ## Syntax
 
- _expression_. **FontColor**
+ _expression_. 'FontColor'
 
  _expression_ A variable that represents a **GroupCriterion** object.
 

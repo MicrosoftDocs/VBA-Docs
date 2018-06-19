@@ -15,7 +15,7 @@ Gets a  **[Shift](Project.Shift.md)** object representing the fifth work shift i
 
 ## Syntax
 
- _expression_. **Shift5**
+ _expression_. 'Shift5'
 
  _expression_ A variable that represents a **WeekDay** object.
 

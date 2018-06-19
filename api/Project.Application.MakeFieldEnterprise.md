@@ -18,7 +18,7 @@ Adds a local custom field to Project Server as an enterprise custom field.
 
 ## Syntax
 
- _expression_. **MakeFieldEnterprise**( ** _FieldID_**, ** _FieldName_**, ** _LookupTableName_** )
+ _expression_. 'MakeFieldEnterprise'( ' _FieldID_', ' _FieldName_', ' _LookupTableName_' )
 
  _expression_ A variable that represents an **Application** object.
 

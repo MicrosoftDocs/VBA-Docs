@@ -15,7 +15,7 @@ Gets or sets the type of deliverable for the task. Read/write  **Integer**.
 
 ## Syntax
 
- _expression_. **DeliverableType**
+ _expression_. 'DeliverableType'
 
  _expression_ A variable that represents a **Task** object.
 

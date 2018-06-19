@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Change** box in the **Properties** window
 
 ## Syntax
 
- _expression_. **OnChange**
+ _expression_. 'OnChange'
 
  _expression_ A variable that represents an **Attachment** object.
 

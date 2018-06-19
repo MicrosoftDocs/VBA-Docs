@@ -15,7 +15,7 @@ Gets the number of tasks in a project, not including blank entries. Read-only  *
 
 ## Syntax
 
- _expression_. **NumberOfTasks**
+ _expression_. 'NumberOfTasks'
 
  _expression_ A variable that represents a **Project** object.
 

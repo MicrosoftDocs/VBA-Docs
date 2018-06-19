@@ -15,7 +15,7 @@ Gets or sets the baseline8 budget work (in hours) for a  **Resource**. Read/writ
 
 ## Syntax
 
- _expression_. **Baseline8BudgetWork**
+ _expression_. 'Baseline8BudgetWork'
 
  _expression_ A variable that represents a **Resource** object.
 

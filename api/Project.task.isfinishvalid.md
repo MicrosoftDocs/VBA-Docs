@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. **IsFinishValid**
+ _expression_. 'IsFinishValid'
 
  _expression_ An expression that returns a **Task** object.
 

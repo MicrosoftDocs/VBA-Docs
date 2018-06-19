@@ -18,7 +18,7 @@ Returns a  **ThemeColorScheme** object that represents the color scheme of the t
 
 ## Syntax
 
- _expression_. **ThemeColorScheme**
+ _expression_. 'ThemeColorScheme'
 
  _expression_ A variable that represents a **CustomLayout** object.
 

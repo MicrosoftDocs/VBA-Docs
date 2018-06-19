@@ -18,7 +18,7 @@ Shows the  **Filter Definition** dialog box, where the user can create a filter 
 
 ## Syntax
 
- _expression_. **FilterNew**( ** _FilterType_** )
+ _expression_. 'FilterNew'( ' _FilterType_' )
 
  _expression_ An expression that returns an **Application** object.
 

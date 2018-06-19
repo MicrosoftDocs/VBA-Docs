@@ -15,7 +15,7 @@ Gets or sets the value of the  **Cost1** custom field for the resource. Read/wri
 
 ## Syntax
 
- _expression_. **Cost1**
+ _expression_. 'Cost1'
 
  _expression_ A variable that represents a **Resource** object.
 

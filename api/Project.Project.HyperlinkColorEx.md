@@ -15,7 +15,7 @@ Gets or sets a hexadecimal representation of the color used to denote unfollowed
 
 ## Syntax
 
- _expression_. **HyperlinkColorEx**
+ _expression_. 'HyperlinkColorEx'
 
  _expression_ An expression that returns a **Project** object.
 

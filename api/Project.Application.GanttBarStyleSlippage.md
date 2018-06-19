@@ -18,7 +18,7 @@ Shows or hides slippage for the specified baseline on Gantt bars of the active v
 
 ## Syntax
 
- _expression_. **GanttBarStyleSlippage**( ** _Baseline_**, ** _Show_** )
+ _expression_. 'GanttBarStyleSlippage'( ' _Baseline_', ' _Show_' )
 
  _expression_ An expression that returns an **Application** object.
 

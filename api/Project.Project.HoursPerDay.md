@@ -15,7 +15,7 @@ Gets or sets the number of hours per day for tasks in a project. Read/write  **D
 
 ## Syntax
 
- _expression_. **HoursPerDay**
+ _expression_. 'HoursPerDay'
 
  _expression_ A variable that represents a **Project** object.
 

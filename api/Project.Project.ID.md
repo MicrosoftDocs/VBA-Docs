@@ -15,7 +15,7 @@ Gets the identification number of a project. Read-only  **Long**.
 
 ## Syntax
 
- _expression_. **ID**
+ _expression_. 'ID'
 
  _expression_ A variable that represents a **Project** object.
 

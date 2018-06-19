@@ -11,7 +11,7 @@ Gets the number of columns in the table. Read-only  **Long**.
 
 ## Syntax
 
- _expression_. **ColumnsCount**
+ _expression_. 'ColumnsCount'
 
  _expression_ A variable that represents a **ReportTable** object.
 

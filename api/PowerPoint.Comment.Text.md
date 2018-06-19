@@ -18,7 +18,7 @@ Returns a  **String** that represents the text in a comment. Read-only.
 
 ## Syntax
 
- _expression_. **Text**
+ _expression_. 'Text'
 
  _expression_ A variable that represents a **Comment** object.
 

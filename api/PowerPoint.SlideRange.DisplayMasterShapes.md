@@ -18,7 +18,7 @@ Determines whether the specified range of slides displays the background objects
 
 ## Syntax
 
- _expression_. **DisplayMasterShapes**
+ _expression_. 'DisplayMasterShapes'
 
  _expression_ A variable that represents a **SlideRange** object.
 

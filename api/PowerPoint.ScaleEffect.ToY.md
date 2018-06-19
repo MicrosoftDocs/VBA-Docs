@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the ending height of a **[ScaleEff
 
 ## Syntax
 
- _expression_. **ToY**
+ _expression_. 'ToY'
 
  _expression_ A variable that represents a **ScaleEffect** object.
 

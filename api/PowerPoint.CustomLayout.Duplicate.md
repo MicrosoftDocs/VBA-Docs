@@ -18,7 +18,7 @@ Creates a duplicate of the specified custom layout, adds the new custom layout t
 
 ## Syntax
 
- _expression_. **Duplicate**
+ _expression_. 'Duplicate'
 
  _expression_ A variable that represents a **CustomLayout** object.
 

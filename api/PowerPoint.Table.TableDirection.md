@@ -18,7 +18,7 @@ Returns or sets the direction in which the table cells are ordered. Read/write.
 
 ## Syntax
 
- _expression_. **TableDirection**
+ _expression_. 'TableDirection'
 
  _expression_ A variable that represents a **Table** object.
 

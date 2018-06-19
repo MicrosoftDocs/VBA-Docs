@@ -15,7 +15,7 @@ Returns the number of bookmarks. Read-only.
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **MediaBookmarks** object.
 

@@ -15,7 +15,7 @@ Gets the number of days in the  **Month** object. Read-only **Integer**.
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **Month** object.
 

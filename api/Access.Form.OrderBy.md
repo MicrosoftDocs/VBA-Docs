@@ -18,7 +18,7 @@ You can use the  **OrderBy** property to specify how you want to sort records in
 
 ## Syntax
 
- _expression_. **OrderBy**
+ _expression_. 'OrderBy'
 
  _expression_ A variable that represents a **Form** object.
 

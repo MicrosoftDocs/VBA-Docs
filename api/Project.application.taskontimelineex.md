@@ -16,7 +16,7 @@ Manages tasks on the Timeline pane or for a specified custom timeline, including
 
 ## Syntax
 
- _expression_. **TaskOnTimelineEx**( _TaskID_,  _TaskID_,  _Remove_,  _TimelineViewName_,  _ShowDialog_,  _BarIndex_)
+ _expression_. 'TaskOnTimelineEx'( _TaskID_,  _TaskID_,  _Remove_,  _TimelineViewName_,  _ShowDialog_,  _BarIndex_)
 
  _expression_ A variable that represents a **Application** object.
 

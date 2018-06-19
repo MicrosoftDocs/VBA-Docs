@@ -31,7 +31,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 | **xlMarkerStyleSquare**. Square markers|
 | **xlMarkerStyleTriangle**. Triangular markers|
 
- _expression_. **MarkerStyle**
+ _expression_. 'MarkerStyle'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

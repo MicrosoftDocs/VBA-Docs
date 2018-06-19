@@ -18,7 +18,7 @@ Gets the number of  **[ReturnVar](Access.ReturnVar.md)** objects in the **[Retur
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **ReturnVars** object.
 

@@ -15,7 +15,7 @@ Returns the type of e-mail system installed on the host machine.
 
 ## Syntax
 
- _expression_. **MailSystem**
+ _expression_. 'MailSystem'
 
  _expression_ A variable that represents an **Application** object.
 

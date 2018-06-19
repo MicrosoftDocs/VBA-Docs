@@ -15,7 +15,7 @@ Gets or sets the name of the view that appears when you start Project. Read/writ
 
 ## Syntax
 
- _expression_. **DefaultView**
+ _expression_. 'DefaultView'
 
  _expression_ A variable that represents an **Application** object.
 

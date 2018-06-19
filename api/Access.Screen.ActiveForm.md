@@ -18,7 +18,7 @@ You can use the  **ActiveForm** property together with the **[Screen](Access.Scr
 
 ## Syntax
 
- _expression_. **ActiveForm**
+ _expression_. 'ActiveForm'
 
  _expression_ A variable that represents a **Screen** object.
 

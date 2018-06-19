@@ -18,7 +18,7 @@ You can use the  **DateGrouping** property to specify how you want to group date
 
 ## Syntax
 
- _expression_. **DateGrouping**
+ _expression_. 'DateGrouping'
 
  _expression_ A variable that represents a **Report** object.
 

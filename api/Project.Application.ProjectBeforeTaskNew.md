@@ -15,7 +15,7 @@ Occurs before one or more tasks are created.
 
 ## Syntax
 
- _expression_. **ProjectBeforeTaskNew**( ** _pj_**, ** _Cancel_** )
+ _expression_. 'ProjectBeforeTaskNew'( ' _pj_', ' _Cancel_' )
 
  _expression_ A variable that represents an **Application** object.
 

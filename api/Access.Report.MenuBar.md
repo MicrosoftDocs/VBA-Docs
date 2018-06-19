@@ -18,7 +18,7 @@ Specifies a custom menu to display for a report. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **MenuBar**
+ _expression_. 'MenuBar'
 
  _expression_ A variable that represents a **Report** object.
 

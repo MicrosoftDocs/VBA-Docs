@@ -11,7 +11,7 @@ Gets an  **Office.IMsoDataTable** object that represents the chart data table. R
 
 ## Syntax
 
- _expression_. **DataTable**
+ _expression_. 'DataTable'
 
  _expression_ A variable that represents a **Chart** object.
 

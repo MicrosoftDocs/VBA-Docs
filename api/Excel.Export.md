@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Exports the chart in a graphic format. Returns a value of type  **Boolean**.
 
- _expression_. **Export( _FileName_**,  **_FilterName_**,  **_Interactive_)**
+ _expression_. 'Export( _FileName_',  '_FilterName_',  '_Interactive_)'
 
  _expression_ Required. An expression that returns a **Chart** object.
 

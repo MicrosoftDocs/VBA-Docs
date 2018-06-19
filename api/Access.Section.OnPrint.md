@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Print** box in the **Properties** window 
 
 ## Syntax
 
- _expression_. **OnPrint**
+ _expression_. 'OnPrint'
 
  _expression_ A variable that represents a **Section** object.
 

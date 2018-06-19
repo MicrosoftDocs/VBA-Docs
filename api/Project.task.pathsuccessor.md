@@ -11,7 +11,7 @@ Gets a value that indicates whether the task is a successor of the selected task
 
 ## Syntax
 
- _expression_. **PathSuccessor**
+ _expression_. 'PathSuccessor'
 
  _expression_ A variable that represents a **Task** object.
 

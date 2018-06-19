@@ -15,7 +15,7 @@ Gets the GUID of the resource. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **Guid**
+ _expression_. 'Guid'
 
  _expression_ An expression that returns a **Resource** object.
 

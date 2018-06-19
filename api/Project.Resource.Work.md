@@ -15,7 +15,7 @@ Gets the work (in minutes) for the resource. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. **Work**
+ _expression_. 'Work'
 
  _expression_ A variable that represents a **Resource** object.
 

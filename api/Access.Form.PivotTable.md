@@ -18,7 +18,7 @@ Returns a  **PivotTable** object representing a PivotTable View on a form. Read-
 
 ## Syntax
 
- _expression_. **PivotTable**
+ _expression_. 'PivotTable'
 
  _expression_ A variable that represents a **Form** object.
 

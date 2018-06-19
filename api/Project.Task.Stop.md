@@ -15,7 +15,7 @@ Gets or sets the date on which a task stops. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **Stop**
+ _expression_. 'Stop'
 
  _expression_ A variable that represents a **Task** object.
 

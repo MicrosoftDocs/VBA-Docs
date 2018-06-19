@@ -18,7 +18,7 @@ Moves the active window within the application window.
 
 ## Syntax
 
- _expression_. **DocMove**( ** _XPosition_**, ** _YPosition_**, ** _Points_** )
+ _expression_. 'DocMove'( ' _XPosition_', ' _YPosition_', ' _Points_' )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Gets the index of an  **OutlineCode** object in the containing **OutlineCodes** 
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents an **OutlineCode** object.
 

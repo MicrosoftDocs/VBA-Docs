@@ -18,7 +18,7 @@ The  **Updated** event occurs when an OLE object's data has been modified.
 
 ## Syntax
 
- _expression_. **Updated**( ** _Code_**, )
+ _expression_. 'Updated'( ' _Code_', )
 
  _expression_ A variable that represents a **WebBrowserControl** object.
 

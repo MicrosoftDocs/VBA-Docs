@@ -18,7 +18,7 @@ Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that ind
 
 ## Syntax
 
- _expression_. **VerticalAnchor**
+ _expression_. 'VerticalAnchor'
 
  _expression_ A variable that represents a **WebBrowserControl** object.
 

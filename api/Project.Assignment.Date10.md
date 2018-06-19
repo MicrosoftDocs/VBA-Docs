@@ -15,7 +15,7 @@ Gets or sets the value of the  **Date10** custom field for the assignment. Read/
 
 ## Syntax
 
- _expression_. **Date10**
+ _expression_. 'Date10'
 
  _expression_ A variable that represents an **Assignment** object.
 

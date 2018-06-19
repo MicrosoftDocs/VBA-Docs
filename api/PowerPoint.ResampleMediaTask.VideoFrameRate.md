@@ -18,7 +18,7 @@ Returns the video frame rate per second of the sample. Read-only.
 
 ## Syntax
 
- _expression_. **VideoFrameRate**
+ _expression_. 'VideoFrameRate'
 
  _expression_ A variable that represents a **ResampleMediaTask** object.
 

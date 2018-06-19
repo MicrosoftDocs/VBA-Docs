@@ -11,7 +11,7 @@ Gets or sets the chart type. Read/write  **Office.XlChartType**.
 
 ## Syntax
 
- _expression_. **ChartType**
+ _expression_. 'ChartType'
 
  _expression_ A variable that represents a **Chart** object.
 

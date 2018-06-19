@@ -15,7 +15,7 @@ Gets the actual overtime cost for a resource. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. **ActualOvertimeCost**
+ _expression_. 'ActualOvertimeCost'
 
  _expression_ A variable that represents a **Resource** object.
 

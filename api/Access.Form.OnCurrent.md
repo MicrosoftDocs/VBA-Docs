@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Current** box in the **Properties** windo
 
 ## Syntax
 
- _expression_. **OnCurrent**
+ _expression_. 'OnCurrent'
 
  _expression_ A variable that represents a **Form** object.
 

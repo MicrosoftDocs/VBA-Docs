@@ -15,7 +15,7 @@ Gets the object that contains the embedded project. Read-only  **Object**.
 
 ## Syntax
 
- _expression_. **Container**
+ _expression_. 'Container'
 
  _expression_ A variable that represents a **Project** object.
 

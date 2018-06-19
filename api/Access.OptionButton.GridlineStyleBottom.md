@@ -18,7 +18,7 @@ Gets or sets the bottom gridline style of the specified option button. Read/writ
 
 ## Syntax
 
- _expression_. **GridlineStyleBottom**
+ _expression_. 'GridlineStyleBottom'
 
  _expression_ A variable that represents an **OptionButton** object.
 

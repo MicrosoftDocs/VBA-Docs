@@ -15,7 +15,7 @@ Gets or sets the default date format. Read/write  **PjDateFormat**.
 
 ## Syntax
 
- _expression_. **DefaultDateFormat**
+ _expression_. 'DefaultDateFormat'
 
  _expression_ A variable that represents an **Application** object.
 

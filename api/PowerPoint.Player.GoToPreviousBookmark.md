@@ -18,7 +18,7 @@ Goes to the previous bookmark.
 
 ## Syntax
 
- _expression_. **GoToPreviousBookmark**
+ _expression_. 'GoToPreviousBookmark'
 
  _expression_ A variable that represents a **Player** object.
 

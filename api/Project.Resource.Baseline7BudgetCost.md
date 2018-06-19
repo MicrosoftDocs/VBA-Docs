@@ -15,7 +15,7 @@ Gets or sets the baseline7 budget cost for a  **Resource**. Read/write **Variant
 
 ## Syntax
 
- _expression_. **Baseline7BudgetCost**
+ _expression_. 'Baseline7BudgetCost'
 
  _expression_ A variable that represents a **Resource** object.
 

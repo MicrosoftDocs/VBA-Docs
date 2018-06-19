@@ -18,7 +18,7 @@ Changes the build level information for a specified animation effect. Returns an
 
 ## Syntax
 
- _expression_. **ConvertToBuildLevel**( **_Effect_**, **_Level_** )
+ _expression_. 'ConvertToBuildLevel'( '_Effect_', '_Level_' )
 
  _expression_ A variable that represents a **Sequence** object.
 

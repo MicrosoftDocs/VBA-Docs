@@ -15,7 +15,7 @@ Gets the index of a  **SplitPart** object in the **SplitParts** containing objec
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents a **SplitPart** object.
 

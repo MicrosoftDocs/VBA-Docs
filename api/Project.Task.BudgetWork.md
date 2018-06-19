@@ -15,7 +15,7 @@ Gets or sets the rollup calculated value of all the budget work hours across all
 
 ## Syntax
 
- _expression_. **BudgetWork**
+ _expression_. 'BudgetWork'
 
  _expression_ A variable that represents a **Task** object.
 

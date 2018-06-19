@@ -18,7 +18,7 @@ Inserts a new summary task above the selected task row or cell in a Gantt chart.
 
 ## Syntax
 
- _expression_. **InsertSummaryTask**
+ _expression_. 'InsertSummaryTask'
 
  _expression_ An expression that returns an **Application** object.
 

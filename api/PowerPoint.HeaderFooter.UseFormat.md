@@ -18,7 +18,7 @@ Determines whether the date and time object contains automatically updated infor
 
 ## Syntax
 
- _expression_. **UseFormat**
+ _expression_. 'UseFormat'
 
  _expression_ A variable that represents an **HeaderFooter** object.
 

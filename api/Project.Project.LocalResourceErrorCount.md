@@ -18,7 +18,7 @@ Returns the number of local resource errors.
 
 ## Syntax
 
- _expression_. **LocalResourceErrorCount**
+ _expression_. 'LocalResourceErrorCount'
 
  _expression_ An expression that returns a **Project** object.
 

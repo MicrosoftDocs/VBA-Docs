@@ -18,7 +18,7 @@ Gets a  **[Pane](Project.Pane.md)** object that represents the active pane of a 
 
 ## Syntax
 
- _expression_. **ActivePane**
+ _expression_. 'ActivePane'
 
  _expression_ A variable that represents a **Window** object.
 

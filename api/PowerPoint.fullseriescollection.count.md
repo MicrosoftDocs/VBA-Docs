@@ -16,7 +16,7 @@ Returns a  **Long** that represents the number of full series in the collection.
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. 'Count'
 
  _expression_ A variable that represents a **FullSeriesCollection** object.
 

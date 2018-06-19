@@ -18,7 +18,7 @@ Gets a  **DocumentLibraryVersions** collection for the specified project. Read-o
 
 ## Syntax
 
- _expression_. **DocumentLibraryVersions**
+ _expression_. 'DocumentLibraryVersions'
 
  _expression_ A variable that represents a **Project** object.
 

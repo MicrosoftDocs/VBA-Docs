@@ -18,7 +18,7 @@ You can use the  **ColumnWidth** property to specify the width of a column in Da
 
 ## Syntax
 
- _expression_. **ColumnWidth**
+ _expression_. 'ColumnWidth'
 
  _expression_ A variable that represents a **ListBox** object.
 

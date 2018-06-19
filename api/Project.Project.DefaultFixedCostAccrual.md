@@ -15,7 +15,7 @@ Gets or sets the default method used to accrue fixed task costs in the project. 
 
 ## Syntax
 
- _expression_. **DefaultFixedCostAccrual**
+ _expression_. 'DefaultFixedCostAccrual'
 
  _expression_ A variable that represents a **Project** object.
 

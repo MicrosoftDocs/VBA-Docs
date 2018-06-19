@@ -18,7 +18,7 @@ The  **CreateReport** method creates a report and returns a **[Report](Access.Re
 
 ## Syntax
 
- _expression_. **CreateReport**( ** _Database_**, ** _ReportTemplate_** )
+ _expression_. 'CreateReport'( ' _Database_', ' _ReportTemplate_' )
 
  _expression_ A variable that represents an **Application** object.
 

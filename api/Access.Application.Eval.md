@@ -18,7 +18,7 @@ You can use the  **Eval** function to evaluate an expression that results in a t
 
 ## Syntax
 
- _expression_. **Eval**( ** _StringExpr_** )
+ _expression_. 'Eval'( ' _StringExpr_' )
 
  _expression_ A variable that represents an **Application** object.
 

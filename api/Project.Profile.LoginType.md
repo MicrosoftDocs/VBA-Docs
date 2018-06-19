@@ -15,7 +15,7 @@ Gets or sets the login type for an account profile in Project Professional. Read
 
 ## Syntax
 
- _expression_. **LoginType**
+ _expression_. 'LoginType'
 
  _expression_ A variable that represents a **Profile** object.
 

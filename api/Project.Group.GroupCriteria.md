@@ -15,7 +15,7 @@ Gets or sets a  **[GroupCriteria](Project.GroupCriterion.md)** collection repres
 
 ## Syntax
 
- _expression_. **GroupCriteria**
+ _expression_. 'GroupCriteria'
 
  _expression_ A variable that represents a **Group** object.
 

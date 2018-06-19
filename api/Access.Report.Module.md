@@ -18,7 +18,7 @@ You can use the  **Module** property to specify a report module. Read-only **Mod
 
 ## Syntax
 
- _expression_. **Module**
+ _expression_. 'Module'
 
  _expression_ A variable that represents a **Report** object.
 

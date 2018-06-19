@@ -18,7 +18,7 @@ Gets or sets the number of undo levels. The default is 20. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. **UndoLevels**
+ _expression_. 'UndoLevels'
 
  _expression_ A variable that represents an **Application** object.
 

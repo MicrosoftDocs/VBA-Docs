@@ -18,7 +18,7 @@ Determines whether the specified movie or sound loops continuously until either 
 
 ## Syntax
 
- _expression_. **LoopUntilStopped**
+ _expression_. 'LoopUntilStopped'
 
  _expression_ A variable that represents a **PlaySettings** object.
 

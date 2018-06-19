@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the right edge of the text fram
 
 ## Syntax
 
- _expression_. **MarginRight**
+ _expression_. 'MarginRight'
 
  _expression_ A variable that represents a **TextFrame** object.
 

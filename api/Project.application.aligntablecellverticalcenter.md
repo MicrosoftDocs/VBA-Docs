@@ -14,7 +14,7 @@ Aligns text at the vertical center of the cell, for selected cells in a report t
 
 ## Syntax
 
- _expression_. **AlignTableCellVerticalCenter**
+ _expression_. 'AlignTableCellVerticalCenter'
 
  _expression_ A variable that represents an **Application** object.
 

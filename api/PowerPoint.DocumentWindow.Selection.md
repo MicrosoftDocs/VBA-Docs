@@ -18,7 +18,7 @@ Returns a  **[Selection](PowerPoint.Selection.md)** object that represents the s
 
 ## Syntax
 
- _expression_. **Selection**
+ _expression_. 'Selection'
 
  _expression_ A variable that represents a **DocumentWindow** object.
 

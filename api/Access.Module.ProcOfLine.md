@@ -18,7 +18,7 @@ The  **ProcOfLine** property returns the name of the procedure that contains a s
 
 ## Syntax
 
- _expression_. **ProcOfLine**( ** _Line_**, ** _pprockind_** )
+ _expression_. 'ProcOfLine'( ' _Line_', ' _pprockind_' )
 
  _expression_ A variable that represents a **Module** object.
 

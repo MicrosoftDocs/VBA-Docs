@@ -15,7 +15,7 @@ Gets the latest date on which a task can start. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. **LateStart**
+ _expression_. 'LateStart'
 
  _expression_ A variable that represents a **Task** object.
 

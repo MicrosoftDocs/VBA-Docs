@@ -18,7 +18,7 @@ Gets or sets how the year label displays in rates. Read/write  **Integer**.
 
 ## Syntax
 
- _expression_. **YearLabelDisplay**
+ _expression_. 'YearLabelDisplay'
 
  _expression_ A variable that represents a **Project** object.
 

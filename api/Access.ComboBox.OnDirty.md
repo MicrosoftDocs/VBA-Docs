@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Dirty** box in the **Properties** window 
 
 ## Syntax
 
- _expression_. **OnDirty**
+ _expression_. 'OnDirty'
 
  _expression_ A variable that represents a **ComboBox** object.
 

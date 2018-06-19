@@ -18,7 +18,7 @@ Exits Microsoft Project.
 
 ## Syntax
 
- _expression_. **Quit**( ** _SaveChanges_** )
+ _expression_. 'Quit'( ' _SaveChanges_' )
 
  _expression_ A variable that represents an **Application** object.
 

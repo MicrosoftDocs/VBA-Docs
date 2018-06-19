@@ -18,7 +18,7 @@ Gets the project unique ID for a project stored in a database. Read/write  **Var
 
 ## Syntax
 
- _expression_. **DatabaseProjectUniqueID**
+ _expression_. 'DatabaseProjectUniqueID'
 
  _expression_ A variable that represents a **Project** object.
 

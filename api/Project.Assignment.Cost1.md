@@ -15,7 +15,7 @@ Gets or sets the value of the  **Cost1** roll-down custom field for the assignme
 
 ## Syntax
 
- _expression_. **Cost1**
+ _expression_. 'Cost1'
 
  _expression_ A variable that represents an **Assignment** object.
 

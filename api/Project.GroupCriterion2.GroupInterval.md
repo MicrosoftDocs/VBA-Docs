@@ -15,7 +15,7 @@ Gets or sets the interval for a field used as a criterion in a group definition.
 
 ## Syntax
 
- _expression_. **GroupInterval**
+ _expression_. 'GroupInterval'
 
  _expression_ An expression that returns a **GroupCriterion2** object.
 

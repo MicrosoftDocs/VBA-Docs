@@ -15,7 +15,7 @@ Gets the results of task assignments in a Project mail message.  **True** if the
 
 ## Syntax
 
- _expression_. **Confirmed**
+ _expression_. 'Confirmed'
 
  _expression_ A variable that represents a **Resource** object.
 

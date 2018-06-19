@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 True if a picture is applied to the end of the point or all points in the series. Read/write Boolean.
 
- _expression_. **ApplyPictToEnd**
+ _expression_. 'ApplyPictToEnd'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

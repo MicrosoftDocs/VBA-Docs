@@ -18,7 +18,7 @@ Gets or sets whether the combo box can display values that aren't specified by t
 
 ## Syntax
 
- _expression_. **ShowOnlyRowSourceValues**
+ _expression_. 'ShowOnlyRowSourceValues'
 
  _expression_ A variable that represents a **ComboBox** object.
 

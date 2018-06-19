@@ -18,7 +18,7 @@ Gets or sets the abbreviation for "month" that is displayed for values such as d
 
 ## Syntax
 
- _expression_. **MonthLabelDisplay**
+ _expression_. 'MonthLabelDisplay'
 
  _expression_ A variable that represents a **Project** object.
 

@@ -18,7 +18,7 @@ Gets or sets the value of the  **On Navigate Error** box in the property sheet o
 
 ## Syntax
 
- _expression_. **OnNavigateError**
+ _expression_. 'OnNavigateError'
 
  _expression_ A variable that represents a **WebBrowserControl** object.
 

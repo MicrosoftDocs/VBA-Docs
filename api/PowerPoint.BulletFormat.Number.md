@@ -18,7 +18,7 @@ Returns the bullet number of a paragraph when the  **[Type](PowerPoint.BulletFor
 
 ## Syntax
 
- _expression_. **Number**
+ _expression_. 'Number'
 
  _expression_ A variable that represents a **BulletFormat** object.
 

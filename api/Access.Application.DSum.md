@@ -18,7 +18,7 @@ You can use the  **DSum** function to calculate the sum of a set of values in a 
 
 ## Syntax
 
- _expression_. **DSum**( ** _Expr_**, ** _Domain_**, ** _Criteria_** )
+ _expression_. 'DSum'( ' _Expr_', ' _Domain_', ' _Criteria_' )
 
  _expression_ A variable that represents an **Application** object.
 

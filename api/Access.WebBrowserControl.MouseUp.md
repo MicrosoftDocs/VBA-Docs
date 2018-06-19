@@ -18,7 +18,7 @@ The  **MouseUp** event occurs when the user releases a mouse button.
 
 ## Syntax
 
- _expression_. **MouseUp**( ** _Button_**, ** _Shift_**, ** _X_**, ** _Y_** )
+ _expression_. 'MouseUp'( ' _Button_', ' _Shift_', ' _X_', ' _Y_' )
 
  _expression_ A variable that represents a **WebBrowserControl** object.
 

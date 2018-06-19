@@ -18,7 +18,7 @@ Selects a cell.
 
 ## Syntax
 
- _expression_. **SelectCell**( ** _Row_**, ** _Column_**, ** _RowRelative_** )
+ _expression_. 'SelectCell'( ' _Row_', ' _Column_', ' _RowRelative_' )
 
  _expression_ A variable that represents an **Application** object.
 

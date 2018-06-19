@@ -18,7 +18,7 @@ Represents the command to be executed for the command effect. Read/write.
 
 ## Syntax
 
- _expression_. **Command**
+ _expression_. 'Command'
 
  _expression_ A variable that represents a **CommandEffect** object.
 

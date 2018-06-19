@@ -18,7 +18,7 @@ Displays a dialog box that indicates the version for the active project when the
 
 ## Syntax
 
- _expression_. **DocumentLibraryVersionsDialog**
+ _expression_. 'DocumentLibraryVersionsDialog'
 
  _expression_ A variable that represents an **Application** object.
 

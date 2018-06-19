@@ -18,7 +18,7 @@ Converts a local calendar to an enterprise calendar.
 
 ## Syntax
 
- _expression_. **MakeLocalCalendarEnterprise**( ** _OldName_**, ** _NewName_** )
+ _expression_. 'MakeLocalCalendarEnterprise'( ' _OldName_', ' _NewName_' )
 
  _expression_ A variable that represents an **Application** object.
 

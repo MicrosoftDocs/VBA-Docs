@@ -15,7 +15,7 @@ Gets or sets the baseline cost for a  **Task**. Read/write **Variant**.
 
 ## Syntax
 
- _expression_. **Baseline6Cost**
+ _expression_. 'Baseline6Cost'
 
  _expression_ A variable that represents a **Task** object.
 

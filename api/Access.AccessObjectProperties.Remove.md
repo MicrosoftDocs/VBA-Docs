@@ -18,7 +18,7 @@ You can use the  **Remove** method to remove an **AccessObjectProperty** object 
 
 ## Syntax
 
- _expression_. **Remove**( ** _Item_** )
+ _expression_. 'Remove'( ' _Item_' )
 
  _expression_ A variable that represents an **AccessObjectProperties** object.
 

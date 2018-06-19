@@ -18,7 +18,7 @@ Returns or sets the number of slides to be displayed before the media clip stops
 
 ## Syntax
 
- _expression_. **StopAfterSlides**
+ _expression_. 'StopAfterSlides'
 
  _expression_ A variable that represents a **PlaySettings** object.
 

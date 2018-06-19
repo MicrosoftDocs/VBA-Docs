@@ -16,7 +16,7 @@ Update the Engagements for a Project. Introduced in Office 2016.
 
 ## Syntax
 
- _expression_. **UpdateEngagementsForProject**
+ _expression_. 'UpdateEngagementsForProject'
 
  _expression_ A variable that represents a **Application** object.
 

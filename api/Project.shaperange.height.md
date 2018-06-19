@@ -11,7 +11,7 @@ Gets or sets the height of the shape range, in points. Read-write  **Single**.
 
 ## Syntax
 
- _expression_. **Height**
+ _expression_. 'Height'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

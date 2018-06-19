@@ -18,7 +18,7 @@ Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object for the specified b
 
 ## Syntax
 
- _expression_. **Item**( **_BorderType_** )
+ _expression_. 'Item'( '_BorderType_' )
 
  _expression_ A variable that represents a **Borders** object.
 

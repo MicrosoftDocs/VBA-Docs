@@ -18,7 +18,7 @@ Gets the full name for the specified level and parent levels of the  **LookupTab
 
 ## Syntax
 
- _expression_. **FullName**
+ _expression_. 'FullName'
 
  _expression_ A variable that represents a **LookupTableEntry** object.
 

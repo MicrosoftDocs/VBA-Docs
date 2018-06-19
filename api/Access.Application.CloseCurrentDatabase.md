@@ -18,7 +18,7 @@ You can use the  **CloseCurrentDatabase** method to close the current database (
 
 ## Syntax
 
- _expression_. **CloseCurrentDatabase**
+ _expression_. 'CloseCurrentDatabase'
 
  _expression_ A variable that represents an **Application** object.
 

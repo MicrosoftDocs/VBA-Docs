@@ -18,7 +18,7 @@ Returns the current view for the specified Access object. Read-only  **[AcCurren
 
 ## Syntax
 
- _expression_. **CurrentView**
+ _expression_. 'CurrentView'
 
  _expression_ A variable that represents an **AccessObject** object.
 

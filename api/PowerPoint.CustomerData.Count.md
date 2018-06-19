@@ -15,7 +15,7 @@ Returns the number of  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. 'Count'
 
  _expression_ An expression that returns a **CustomerData** object.
 

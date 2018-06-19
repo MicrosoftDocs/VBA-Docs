@@ -18,7 +18,7 @@ Creates a new slide, adds it to the  **[Slides](PowerPoint.Slides.md)** collecti
 
 ## Syntax
 
- _expression_. **AddSlide**( **_Index_**, **_pCustomLayout_** )
+ _expression_. 'AddSlide'( '_Index_', '_pCustomLayout_' )
 
  _expression_ An expression that returns a **Slides** object.
 

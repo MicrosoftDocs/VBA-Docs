@@ -18,7 +18,7 @@ The  **Resize** event occurs when a form is opened and whenever the size of a fo
 
 ## Syntax
 
- _expression_. **Resize**
+ _expression_. 'Resize'
 
  _expression_ A variable that represents a **Form** object.
 

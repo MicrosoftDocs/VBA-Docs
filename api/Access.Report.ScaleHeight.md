@@ -18,7 +18,7 @@ You can use the  **ScaleHeight** property to specify the number of units for the
 
 ## Syntax
 
- _expression_. **ScaleHeight**
+ _expression_. 'ScaleHeight'
 
  _expression_ A variable that represents a **Report** object.
 

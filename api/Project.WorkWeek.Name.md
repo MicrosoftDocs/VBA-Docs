@@ -15,7 +15,7 @@ Gets the name of a  **WorkWeek** object representing a work week. Read/write **S
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. 'Name'
 
  _expression_ An expression that returns a **WorkWeek** object.
 

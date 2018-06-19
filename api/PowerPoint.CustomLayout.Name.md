@@ -18,7 +18,7 @@ Represents the display name of the specified custom layout. Read/write.
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **CustomLayout** object.
 

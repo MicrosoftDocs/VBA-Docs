@@ -18,7 +18,7 @@ Gets or sets whether a section's height is adjusted automatically when controls 
 
 ## Syntax
 
- _expression_. **AutoHeight**
+ _expression_. 'AutoHeight'
 
  _expression_ A variable that represents a **Section** object.
 

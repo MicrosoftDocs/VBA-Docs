@@ -18,7 +18,7 @@ Sets the direction of text in a text range to read from left to right.
 
 ## Syntax
 
- _expression_. **LtrRun**
+ _expression_. 'LtrRun'
 
  _expression_ A variable that represents a **TextRange** object.
 

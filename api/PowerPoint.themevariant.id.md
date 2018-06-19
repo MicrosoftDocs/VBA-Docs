@@ -13,7 +13,7 @@ Returns a string that represents the ID of the theme variation. Read-only.
 
 ## Syntax
 
- _expression_. **Id**
+ _expression_. 'Id'
 
  _expression_ A variable that represents a **ThemeVariant** object.
 

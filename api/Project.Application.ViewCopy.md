@@ -18,7 +18,7 @@ Copies the current view.
 
 ## Syntax
 
- _expression_. **ViewCopy**( ** _Name_**, ** _ApplyTo_** )
+ _expression_. 'ViewCopy'( ' _Name_', ' _ApplyTo_' )
 
  _expression_ An expression that returns an **Application** object.
 

@@ -18,7 +18,7 @@ Returns or sets the location within a document — such as a bookmark in a word 
 
 ## Syntax
 
- _expression_. **SubAddress**
+ _expression_. 'SubAddress'
 
  _expression_ A variable that represents a **Hyperlink** object.
 

@@ -18,7 +18,7 @@ You can use the  **FastLaserPrinting** property to specify whether lines and rec
 
 ## Syntax
 
- _expression_. **FastLaserPrinting**
+ _expression_. 'FastLaserPrinting'
 
  _expression_ A variable that represents a **Form** object.
 

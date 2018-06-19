@@ -18,7 +18,7 @@ Indicates whether the document window is in merge mode. Read-only
 
 ## Syntax
 
- _expression_. **InMergeMode**
+ _expression_. 'InMergeMode'
 
  _expression_ A variable that represents a **Presentation** object.
 

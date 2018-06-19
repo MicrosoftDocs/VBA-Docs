@@ -18,7 +18,7 @@ Gets the collection of Microsoft SharePoint Foundation 2010 groups of which the 
 
 ## Syntax
 
- _expression_. **CurrentWebUserGroups**( ** _DisplayOption_** )
+ _expression_. 'CurrentWebUserGroups'( ' _DisplayOption_' )
 
  _expression_ A variable that represents an **Application** object.
 

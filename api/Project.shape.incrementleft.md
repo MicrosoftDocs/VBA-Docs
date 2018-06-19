@@ -11,7 +11,7 @@ Moves the shape horizontally by the specified number of points.
 
 ## Syntax
 
- _expression_. **IncrementLeft** _(Increment)_
+ _expression_. 'IncrementLeft' _(Increment)_
 
  _expression_ A variable that represents a **Shape** object.
 

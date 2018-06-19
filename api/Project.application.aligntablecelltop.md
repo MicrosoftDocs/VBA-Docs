@@ -14,7 +14,7 @@ Aligns text at the top of the cell, for selected cells in a report table.
 
 ## Syntax
 
- _expression_. **AlignTableCellTop**
+ _expression_. 'AlignTableCellTop'
 
  _expression_ A variable that represents an **Application** object.
 

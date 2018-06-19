@@ -18,7 +18,7 @@ Occurs when the specified Microsoft Office Web Component determines whether the 
 
 ## Syntax
 
- _expression_. **CommandEnabled**( ** _Command_**, ** _Enabled_** )
+ _expression_. 'CommandEnabled'( ' _Command_', ' _Enabled_' )
 
  _expression_ A variable that represents a **Form** object.
 

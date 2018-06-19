@@ -18,7 +18,7 @@ You can use the  **Text** property to set or return the text contained in the te
 
 ## Syntax
 
- _expression_. **Text**
+ _expression_. 'Text'
 
  _expression_ A variable that represents a **ComboBox** object.
 

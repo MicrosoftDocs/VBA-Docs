@@ -18,7 +18,7 @@ The  **MoveLayout** property specifies whether Microsoft Access should move to t
 
 ## Syntax
 
- _expression_. **MoveLayout**
+ _expression_. 'MoveLayout'
 
  _expression_ A variable that represents a **Report** object.
 

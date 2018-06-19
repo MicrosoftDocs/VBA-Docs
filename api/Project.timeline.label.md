@@ -13,7 +13,7 @@ Returns the timeline for the  **Timeline** object. Introduced in Office 2016.
 
 ## Syntax
 
- _expression_. **Label**
+ _expression_. 'Label'
 
  _expression_ A variable that represents a **Timeline** object.
 

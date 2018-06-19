@@ -18,7 +18,7 @@ Returns or sets a  **PpAfterEffect** constant that indicates whether the specifi
 
 ## Syntax
 
- _expression_. **AfterEffect**
+ _expression_. 'AfterEffect'
 
  _expression_ A variable that represents an **AnimationSettings** object.
 

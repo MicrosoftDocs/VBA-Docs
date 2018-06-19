@@ -15,7 +15,7 @@ Gets the GUID of the assignment. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **Guid**
+ _expression_. 'Guid'
 
  _expression_ An expression that returns an **Assignment** object.
 

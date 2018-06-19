@@ -18,7 +18,7 @@ You can use the  **MaxRecButton** property to specify or determine if the maximu
 
 ## Syntax
 
- _expression_. **MaxRecButton**
+ _expression_. 'MaxRecButton'
 
  _expression_ A variable that represents a **Form** object.
 

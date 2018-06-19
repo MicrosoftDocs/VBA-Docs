@@ -18,7 +18,7 @@ Returns a  **[View](PowerPoint.View.md)** object that represents the view in the
 
 ## Syntax
 
- _expression_. **View**
+ _expression_. 'View'
 
  _expression_ A variable that represents a **DocumentWindow** object.
 

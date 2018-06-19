@@ -15,7 +15,7 @@ Gets or sets the actual cost for the assignment. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **ActualCost**
+ _expression_. 'ActualCost'
 
  _expression_ A variable that represents an **Assignment** object.
 

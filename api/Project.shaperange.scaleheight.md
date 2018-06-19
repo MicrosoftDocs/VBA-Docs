@@ -11,7 +11,7 @@ Scales the height of the range of shapes by a specified factor.
 
 ## Syntax
 
- _expression_. **ScaleHeight** _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
+ _expression_. 'ScaleHeight' _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
 
  _expression_ A variable that represents a **ShapeRange** object.
 

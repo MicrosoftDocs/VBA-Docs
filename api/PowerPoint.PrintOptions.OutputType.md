@@ -18,7 +18,7 @@ Returns or sets a value that indicates which component (slides, handouts, notes 
 
 ## Syntax
 
- _expression_. **OutputType**
+ _expression_. 'OutputType'
 
  _expression_ A variable that represents an **PrintOptions** object.
 

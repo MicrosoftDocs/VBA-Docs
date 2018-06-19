@@ -18,7 +18,7 @@ The  **OpenReport** method carries out the OpenReport action in Visual Basic.
 
 ## Syntax
 
- _expression_. **OpenReport**( ** _ReportName_**, ** _View_**, ** _FilterName_**, ** _WhereCondition_**, ** _WindowMode_**, ** _OpenArgs_** )
+ _expression_. 'OpenReport'( ' _ReportName_', ' _View_', ' _FilterName_', ' _WhereCondition_', ' _WindowMode_', ' _OpenArgs_' )
 
  _expression_ A variable that represents a **DoCmd** object.
 

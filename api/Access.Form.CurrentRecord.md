@@ -18,7 +18,7 @@ You can use the  **CurrentRecord** property to identify the current record in th
 
 ## Syntax
 
- _expression_. **CurrentRecord**
+ _expression_. 'CurrentRecord'
 
  _expression_ A variable that represents a **Form** object.
 

@@ -18,7 +18,7 @@ The  **ProcBodyLine** property returns the number of the line at which the body 
 
 ## Syntax
 
- _expression_. **ProcBodyLine**( ** _ProcName_**, ** _ProcKind_** )
+ _expression_. 'ProcBodyLine'( ' _ProcName_', ' _ProcKind_' )
 
  _expression_ A variable that represents a **Module** object.
 

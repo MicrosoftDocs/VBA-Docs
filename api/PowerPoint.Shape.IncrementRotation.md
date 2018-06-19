@@ -18,7 +18,7 @@ Changes the rotation of the specified shape around the z-axis by the specified n
 
 ## Syntax
 
- _expression_. **IncrementRotation**( **_Increment_** )
+ _expression_. 'IncrementRotation'( '_Increment_' )
 
  _expression_ A variable that represents a **Shape** object.
 

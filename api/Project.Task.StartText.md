@@ -15,7 +15,7 @@ Gets or sets a string representation of the task start date. Read/write  **Strin
 
 ## Syntax
 
- _expression_. **StartText**
+ _expression_. 'StartText'
 
  _expression_ An expression that returns a **Task** object.
 

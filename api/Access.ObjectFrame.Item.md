@@ -18,7 +18,7 @@ The  **Item** property returns or sets a specific member of a collection. Read/w
 
 ## Syntax
 
- _expression_. **Item**
+ _expression_. 'Item'
 
  _expression_ A variable that represents an **ObjectFrame** object.
 

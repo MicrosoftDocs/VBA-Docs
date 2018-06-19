@@ -18,7 +18,7 @@ Gets a  **[Months](Project.months.md)** collection representing the months in a 
 
 ## Syntax
 
- _expression_. **Months**
+ _expression_. 'Months'
 
  _expression_ An expression that returns a **Year** object.
 

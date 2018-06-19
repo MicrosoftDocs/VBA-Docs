@@ -18,7 +18,7 @@ The  **InsertLines** method inserts a line or group of lines of code in a standa
 
 ## Syntax
 
- _expression_. **InsertLines**( ** _Line_**, ** _String_** )
+ _expression_. 'InsertLines'( ' _Line_', ' _String_' )
 
  _expression_ A variable that represents a **Module** object.
 

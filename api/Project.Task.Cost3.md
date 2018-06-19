@@ -15,7 +15,7 @@ Gets or sets the value of the  **Cost3** custom field for the task. Read/write *
 
 ## Syntax
 
- _expression_. **Cost3**
+ _expression_. 'Cost3'
 
  _expression_ A variable that represents a **Task** object.
 

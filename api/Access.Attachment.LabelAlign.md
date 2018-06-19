@@ -18,7 +18,7 @@ The  **LabelAlign** property specifies the text alignment within attached labels
 
 ## Syntax
 
- _expression_. **LabelAlign**
+ _expression_. 'LabelAlign'
 
  _expression_ A variable that represents an **Attachment** object.
 

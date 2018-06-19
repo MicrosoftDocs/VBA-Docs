@@ -18,7 +18,7 @@ Gets or sets the name of the profile for Project Server. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **Server**
+ _expression_. 'Server'
 
  _expression_ A variable that represents a **Profile** object.
 

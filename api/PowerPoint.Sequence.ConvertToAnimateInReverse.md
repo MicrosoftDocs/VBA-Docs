@@ -18,7 +18,7 @@ Determines whether text will be animated in reverse order. Returns an  **[Effect
 
 ## Syntax
 
- _expression_. **ConvertToAnimateInReverse**( **_Effect_**, **_animateInReverse_** )
+ _expression_. 'ConvertToAnimateInReverse'( '_Effect_', '_animateInReverse_' )
 
  _expression_ A variable that represents a **Sequence** object.
 

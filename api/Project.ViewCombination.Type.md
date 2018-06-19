@@ -15,7 +15,7 @@ Gets the type of item in the combination view, such as tasks or resources. Read-
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_. 'Type'
 
  _expression_ A variable that represents a **ViewCombination** object.
 

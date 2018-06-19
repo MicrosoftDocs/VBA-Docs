@@ -18,7 +18,7 @@ Adds a media object from an embedded tag to a  **Shapes** object.
 
 ## Syntax
 
- _expression_. **AddMediaObjectFromEmbedTag**( **_EmbedTag_**, **_Left_**, **_Top_**, **_Width_**, **_Height_** )
+ _expression_. 'AddMediaObjectFromEmbedTag'( '_EmbedTag_', '_Left_', '_Top_', '_Width_', '_Height_' )
 
  _expression_ A variable that represents a **Shapes** object.
 

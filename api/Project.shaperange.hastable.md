@@ -11,7 +11,7 @@ Gets a value that indicates whether the shape range contains a table. Read-only 
 
 ## Syntax
 
- _expression_. **HasTable**
+ _expression_. 'HasTable'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

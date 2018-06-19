@@ -18,7 +18,7 @@ Gets or sets whether page margins are displayed when the specified report is in 
 
 ## Syntax
 
- _expression_. **ShowPageMargins**
+ _expression_. 'ShowPageMargins'
 
  _expression_ A variable that represents a **Report** object.
 

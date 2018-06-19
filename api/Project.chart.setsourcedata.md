@@ -14,7 +14,7 @@ Sets a source data range from Excel for a chart.
 
 ## Syntax
 
- _expression_. **SetSourceData** _(Source,_? _PlotBy)_
+ _expression_. 'SetSourceData' _(Source,_? _PlotBy)_
 
  _expression_ A variable that represents a **Chart** object.
 

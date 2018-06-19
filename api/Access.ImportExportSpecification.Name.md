@@ -18,7 +18,7 @@ Gets or sets the name of the specified  **[ImportExportSpecification](Access.Imp
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents an **ImportExportSpecification** object.
 

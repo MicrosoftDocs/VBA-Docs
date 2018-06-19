@@ -18,7 +18,7 @@ Deletes the specified  **[ImportExportSpecification](Access.ImportExportSpecific
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. 'Delete'
 
  _expression_ A variable that represents an **ImportExportSpecification** object.
 

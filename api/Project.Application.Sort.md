@@ -18,7 +18,7 @@ Sorts the tasks or resources in the active pane.
 
 ## Syntax
 
- _expression_. **Sort**( ** _Key1_**, ** _Ascending1_**, ** _Key2_**, ** _Ascending2_**, ** _Key3_**, ** _Ascending3_**, ** _Renumber_**, ** _Outline_** )
+ _expression_. 'Sort'( ' _Key1_', ' _Ascending1_', ' _Key2_', ' _Ascending2_', ' _Key3_', ' _Ascending3_', ** _Renumber_**, ** _Outline_** )
 
  _expression_ A variable that represents an **Application** object.
 

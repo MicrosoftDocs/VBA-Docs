@@ -18,7 +18,7 @@ Returns a reference to the Component Object Model (COM) add-ins currently loaded
 
 ## Syntax
 
- _expression_. **COMAddIns**
+ _expression_. 'COMAddIns'
 
  _expression_ A variable that represents an **Application** object.
 

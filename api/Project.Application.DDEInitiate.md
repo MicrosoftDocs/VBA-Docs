@@ -18,7 +18,7 @@ Opens a dynamic data exchange (DDE) channel to an application.
 
 ## Syntax
 
- _expression_. **DDEInitiate**( ** _App_**, ** _Topic_** )
+ _expression_. 'DDEInitiate'( ' _App_', ' _Topic_' )
 
  _expression_ A variable that represents an **Application** object.
 

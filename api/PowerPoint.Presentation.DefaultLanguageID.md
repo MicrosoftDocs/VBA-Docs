@@ -18,7 +18,7 @@ Returns or sets the default language of a presentation. Read/write.
 
 ## Syntax
 
- _expression_. **DefaultLanguageID**
+ _expression_. 'DefaultLanguageID'
 
  _expression_ A variable that represents a **Presentation** object.
 

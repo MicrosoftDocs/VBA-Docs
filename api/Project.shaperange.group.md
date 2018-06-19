@@ -11,7 +11,7 @@ The  **Group** method is not implemented in Project.
 
 ## Syntax
 
- _expression_. **Group**
+ _expression_. 'Group'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

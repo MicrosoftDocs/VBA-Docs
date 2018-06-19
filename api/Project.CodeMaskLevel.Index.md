@@ -18,7 +18,7 @@ Gets the index of a  **CodeMaskLevel** object in the containing **CodeMask** col
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents a **CodeMaskLevel** object.
 

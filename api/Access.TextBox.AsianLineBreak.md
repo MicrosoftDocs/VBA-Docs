@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** indicating whether line breaks in text boxes foll
 
 ## Syntax
 
- _expression_. **AsianLineBreak**
+ _expression_. 'AsianLineBreak'
 
  _expression_ A variable that represents a **TextBox** object.
 

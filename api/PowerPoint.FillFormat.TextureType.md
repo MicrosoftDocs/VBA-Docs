@@ -18,7 +18,7 @@ Returns the texture type for the specified fill. Read-only.
 
 ## Syntax
 
- _expression_. **TextureType**
+ _expression_. 'TextureType'
 
  _expression_ A variable that represents a **FillFormat** object.
 

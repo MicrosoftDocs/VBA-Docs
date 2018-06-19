@@ -27,7 +27,7 @@ Returns the gradient style for the specified fill. Read-only MsoGradientStyle .
 | **msoGradientMixed**|
 | **msoGradientVertical**This property is read-only. Use the  **OneColorGradient** or **TwoColorGradient** method to set the gradient style for the fill.|
 
- _expression_. **GradientStyle**
+ _expression_. 'GradientStyle'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

@@ -18,7 +18,7 @@ Sets or returns the lightening or darkening of the the color of a specified shap
 
 ## Syntax
 
- _expression_. **TintAndShade**
+ _expression_. 'TintAndShade'
 
  _expression_ A variable that represents a **ColorFormat** object.
 

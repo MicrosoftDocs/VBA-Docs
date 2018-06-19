@@ -18,7 +18,7 @@ Specifies the maximum number of records by a query or view. Read/write  **Long**
 
 ## Syntax
 
- _expression_. **MaxRecords**
+ _expression_. 'MaxRecords'
 
  _expression_ A variable that represents a **Form** object.
 

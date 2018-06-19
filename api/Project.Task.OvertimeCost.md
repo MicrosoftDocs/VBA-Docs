@@ -15,7 +15,7 @@ Gets the overtime cost for a task. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. **OvertimeCost**
+ _expression_. 'OvertimeCost'
 
  _expression_ A variable that represents a **Task** object.
 

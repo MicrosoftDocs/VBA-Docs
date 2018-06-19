@@ -18,7 +18,7 @@ Specifies whether a report has a  **Control** menu in Report view. Read/write **
 
 ## Syntax
 
- _expression_. **ControlBox**
+ _expression_. 'ControlBox'
 
  _expression_ A variable that represents a **Report** object.
 

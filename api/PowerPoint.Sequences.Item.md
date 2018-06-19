@@ -18,7 +18,7 @@ Returns a single  **Sequence** object from the specified **Sequences** collectio
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **Sequences** object.
 

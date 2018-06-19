@@ -18,7 +18,7 @@ You can use this property to set or return the unedited value of the  **BorderSt
 
 ## Syntax
 
- _expression_. **OldBorderStyle**
+ _expression_. 'OldBorderStyle'
 
  _expression_ A variable that represents an **Attachment** object.
 

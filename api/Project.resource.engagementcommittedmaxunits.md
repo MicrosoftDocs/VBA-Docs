@@ -16,7 +16,7 @@ Returns the committed max units for the engagement. Read-only  **Integer**. Intr
 
 ## Syntax
 
- _expression_. **EngagementCommittedMaxUnits**
+ _expression_. 'EngagementCommittedMaxUnits'
 
  _expression_ A variable that represents a **Resource** object.
 

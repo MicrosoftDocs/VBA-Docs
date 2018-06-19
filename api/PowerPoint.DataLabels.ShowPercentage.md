@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. **ShowPercentage**
+ _expression_. 'ShowPercentage'
 
  _expression_ A variable that represents a **[DataLabels](PowerPoint.DataLabels.md)** object.
 

@@ -15,7 +15,7 @@ Occurs before a resource is deleted. Uses the  **EventInfo** object parameter.
 
 ## Syntax
 
- _expression_. **ProjectBeforeResourceDelete2**( ** _res_**, ** _Info_** )
+ _expression_. 'ProjectBeforeResourceDelete2'( ' _res_', ' _Info_' )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -15,7 +15,7 @@ Gets the date and time that precedes another date by a specified duration, using
 
 ## Syntax
 
- _expression_. **EffectiveDateSubtract**( ** _Date_**, ** _Duration_** )
+ _expression_. 'EffectiveDateSubtract'( ' _Date_', ' _Duration_' )
 
  _expression_ An expression that returns a **StartDriver** object.
 

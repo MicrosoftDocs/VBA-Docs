@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Cuts the specified range to the Clipboard or pastes it into a specified destination.
 
- _expression_. **Cut( _Destination_)**
+ _expression_. 'Cut( _Destination_)'
 
  _expression_ Required. An expression that returns a **Range** object.
 

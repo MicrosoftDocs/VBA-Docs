@@ -18,7 +18,7 @@ You can use the  **ImageHeight** property to determine the height in twips of th
 
 ## Syntax
 
- _expression_. **ImageHeight**
+ _expression_. 'ImageHeight'
 
  _expression_ A variable that represents an **Image** object.
 

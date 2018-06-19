@@ -13,7 +13,7 @@ Indicates the  **DPI Scale Factor**, used for optimizing scale settings. Introdu
 
 ## Syntax
 
- _expression_. **GetDpiScaleFactor**
+ _expression_. 'GetDpiScaleFactor'
 
  _expression_ A variable that represents a **Application** object.
 

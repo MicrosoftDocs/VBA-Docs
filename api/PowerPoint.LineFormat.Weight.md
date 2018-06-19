@@ -18,7 +18,7 @@ Returns or sets the thickness of the specified line, in points. Read/write.
 
 ## Syntax
 
- _expression_. **Weight**
+ _expression_. 'Weight'
 
  _expression_ A variable that represents a **LineFormat** object.
 

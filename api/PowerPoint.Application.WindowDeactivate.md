@@ -18,7 +18,7 @@ Occurs when the application window or any document window is deactivated.
 
 ## Syntax
 
- _expression_. **WindowDeactivate**( **_Pres_**, **_Wn_** )
+ _expression_. 'WindowDeactivate'( '_Pres_', '_Wn_' )
 
  _expression_ A variable that represents an **Application** object.
 

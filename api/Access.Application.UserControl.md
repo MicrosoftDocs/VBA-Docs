@@ -18,7 +18,7 @@ You can use the  **UserControl** property to determine whether the current Micro
 
 ## Syntax
 
- _expression_. **UserControl**
+ _expression_. 'UserControl'
 
  _expression_ A variable that represents an **Application** object.
 

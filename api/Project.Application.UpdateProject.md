@@ -18,7 +18,7 @@ Updates progress information and reschedules work for tasks in a project.
 
 ## Syntax
 
- _expression_. **UpdateProject**( ** _All_**, ** _UpdateDate_**, ** _Action_** )
+ _expression_. 'UpdateProject'( ' _All_', ' _UpdateDate_', ' _Action_' )
 
  _expression_ A variable that represents an **Application** object.
 

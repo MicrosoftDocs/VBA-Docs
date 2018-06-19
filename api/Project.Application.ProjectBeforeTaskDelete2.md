@@ -15,7 +15,7 @@ Occurs before a task is deleted. Uses the  **EventInfo** object parameter.
 
 ## Syntax
 
- _expression_. **ProjectBeforeTaskDelete2**( ** _tsk_**, ** _Info_** )
+ _expression_. 'ProjectBeforeTaskDelete2'( ' _tsk_', ' _Info_' )
 
  _expression_ A variable that represents an **Application** object.
 

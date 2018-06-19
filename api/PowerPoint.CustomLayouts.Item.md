@@ -18,7 +18,7 @@ Returns a single object from the specified collection.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **CustomLayouts** object.
 

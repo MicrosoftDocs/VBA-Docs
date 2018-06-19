@@ -16,7 +16,7 @@ Adds a  **timeline** bar to the view. Introduced in Office 2016.
 
 ## Syntax
 
- _expression_. **AddTimelineBar**
+ _expression_. 'AddTimelineBar'
 
  _expression_ A variable that represents a **Application** object.
 

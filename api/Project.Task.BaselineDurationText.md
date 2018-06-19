@@ -15,7 +15,7 @@ Gets or sets a string representation of the baseline duration of a task. Read/wr
 
 ## Syntax
 
- _expression_. **BaselineDurationText**
+ _expression_. 'BaselineDurationText'
 
  _expression_ An expression that returns a **Task** object.
 

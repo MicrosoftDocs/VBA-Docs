@@ -15,7 +15,7 @@ Gets or sets the type of resource request for the assignment. Read/write  **PjRe
 
 ## Syntax
 
- _expression_. **ResourceRequestType**
+ _expression_. 'ResourceRequestType'
 
  _expression_ A variable that represents an **Assignment** object.
 

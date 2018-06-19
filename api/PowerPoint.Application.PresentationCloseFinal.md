@@ -18,7 +18,7 @@ Represents closing the final  **Presentation** object.
 
 ## Syntax
 
- _expression_. **PresentationCloseFinal**( **_Pres_**, )
+ _expression_. 'PresentationCloseFinal'( '_Pres_', )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -15,7 +15,7 @@ Gets the number of times a project has been saved. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **RevisionNumber**
+ _expression_. 'RevisionNumber'
 
  _expression_ A variable that represents a **Project** object.
 

@@ -18,7 +18,7 @@ Gets or sets the width of the left gridline for the specified attachment. Read/w
 
 ## Syntax
 
- _expression_. **GridlineWidthLeft**
+ _expression_. 'GridlineWidthLeft'
 
  _expression_ A variable that represents an **Attachment** object.
 

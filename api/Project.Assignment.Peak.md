@@ -15,7 +15,7 @@ Gets the largest number of resource units for the assignment. Read-only  **Varia
 
 ## Syntax
 
- _expression_. **Peak**
+ _expression_. 'Peak'
 
  _expression_ A variable that represents an **Assignment** object.
 

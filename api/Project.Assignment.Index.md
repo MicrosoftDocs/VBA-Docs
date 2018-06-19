@@ -15,7 +15,7 @@ Gets the index of an  **Assignment** object in the containing **Assignments** co
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents an **Assignment** object.
 

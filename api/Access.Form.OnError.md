@@ -18,7 +18,7 @@ Sets or returns the value of the  **OnError** box in the **Properties** window o
 
 ## Syntax
 
- _expression_. **OnError**
+ _expression_. 'OnError'
 
  _expression_ A variable that represents a **Form** object.
 

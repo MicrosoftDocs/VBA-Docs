@@ -15,7 +15,7 @@ Gets a value that indicates the position of the task in the outline hierarchy. R
 
 ## Syntax
 
- _expression_. **OutlineNumber**
+ _expression_. 'OutlineNumber'
 
  _expression_ A variable that represents a **Task** object.
 

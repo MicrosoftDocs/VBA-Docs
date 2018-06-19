@@ -15,7 +15,7 @@ Gets the index of a  **PayRate** object in the containing **PayRates** collectio
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents a **PayRate** object.
 

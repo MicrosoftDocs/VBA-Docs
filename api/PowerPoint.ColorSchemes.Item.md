@@ -18,7 +18,7 @@ Returns a single  **ColorScheme** object from the specified **ColorSchemes** col
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **ColorSchemes** object.
 

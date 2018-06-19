@@ -18,7 +18,7 @@ Determines or specifies the selected  **[Page](Access.Page.md)** object. Read/wr
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents a **TabControl** object.
 

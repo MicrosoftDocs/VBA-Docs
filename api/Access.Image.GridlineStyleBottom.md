@@ -18,7 +18,7 @@ Gets or sets the bottom gridline style of the specified image control. Read/writ
 
 ## Syntax
 
- _expression_. **GridlineStyleBottom**
+ _expression_. 'GridlineStyleBottom'
 
  _expression_ A variable that represents an **Image** object.
 

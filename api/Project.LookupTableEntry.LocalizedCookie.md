@@ -18,7 +18,7 @@ Represents a token for the localized lookup table structure. Read-only  **String
 
 ## Syntax
 
- _expression_. **LocalizedCookie**
+ _expression_. 'LocalizedCookie'
 
  _expression_ A variable that represents a **LookupTableEntry** object.
 

@@ -16,7 +16,7 @@ Returns the orientation of the drawing guide (horizontal or vertical) as a const
 
 ## Syntax
 
- _expression_. **Orientation**
+ _expression_. 'Orientation'
 
  _expression_ A variable that represents a **Guide** object.
 

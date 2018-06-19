@@ -18,7 +18,7 @@ Gets or sets the width of the bottom gridline for the specified subform. Read/wr
 
 ## Syntax
 
- _expression_. **GridlineWidthBottom**
+ _expression_. 'GridlineWidthBottom'
 
  _expression_ A variable that represents a **SubForm** object.
 

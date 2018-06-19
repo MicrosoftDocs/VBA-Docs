@@ -18,7 +18,7 @@ Gets or sets the amount of space (in inches) between the option button and its r
 
 ## Syntax
 
- _expression_. **RightPadding**
+ _expression_. 'RightPadding'
 
  _expression_ A variable that represents an **OptionButton** object.
 

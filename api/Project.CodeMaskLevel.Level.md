@@ -18,7 +18,7 @@ Gets the level number of the code mask, as it appears in the left column of the 
 
 ## Syntax
 
- _expression_. **Level**
+ _expression_. 'Level'
 
  _expression_ A variable that represents a **CodeMaskLevel** object.
 

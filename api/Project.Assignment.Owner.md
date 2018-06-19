@@ -15,7 +15,7 @@ Gets or sets the name of the assignment owner. Read/write  **String**.
 
 ## Syntax
 
- _expression_. **Owner**
+ _expression_. 'Owner'
 
  _expression_ A variable that represents an **Assignment** object.
 

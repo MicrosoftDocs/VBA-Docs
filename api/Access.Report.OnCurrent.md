@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Current** property on the Report. Read/wr
 
 ## Syntax
 
- _expression_. **OnCurrent**
+ _expression_. 'OnCurrent'
 
  _expression_ A variable that represents a **Report** object.
 

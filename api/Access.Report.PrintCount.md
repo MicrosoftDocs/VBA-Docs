@@ -18,7 +18,7 @@ You can use the  **PrintCount** property to identify the number of times the **O
 
 ## Syntax
 
- _expression_. **PrintCount**
+ _expression_. 'PrintCount'
 
  _expression_ A variable that represents a **Report** object.
 

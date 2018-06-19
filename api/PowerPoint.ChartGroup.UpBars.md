@@ -15,7 +15,7 @@ Returns the up bars on a line chart. Read-only  **[UpBars](PowerPoint.UpBars.md)
 
 ## Syntax
 
- _expression_. **UpBars**
+ _expression_. 'UpBars'
 
  _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
 

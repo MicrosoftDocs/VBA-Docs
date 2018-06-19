@@ -18,7 +18,7 @@ Returns the parent object of the specified test frame. Read-only.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. 'Parent'
 
  _expression_ An expression that returns a **TextFrame2** object.
 

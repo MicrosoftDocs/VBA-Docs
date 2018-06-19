@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Allows the user to show the category name for the data labels on a chart. Read/write Boolean.
 
- _expression_. **ShowCategoryName**
+ _expression_. 'ShowCategoryName'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

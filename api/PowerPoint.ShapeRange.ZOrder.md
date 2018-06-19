@@ -18,7 +18,7 @@ Moves the specified shape range in front of or behind other shapes in the collec
 
 ## Syntax
 
- _expression_. **ZOrder**( **_ZOrderCmd_** )
+ _expression_. 'ZOrder'( '_ZOrderCmd_' )
 
  _expression_ A variable that represents a **ShapeRange** object.
 

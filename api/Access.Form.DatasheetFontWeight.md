@@ -18,7 +18,7 @@ You can use the  **DatasheetFontWeight** property to specify the line width of t
 
 ## Syntax
 
- _expression_. **DatasheetFontWeight**
+ _expression_. 'DatasheetFontWeight'
 
  _expression_ A variable that represents a **Form** object.
 

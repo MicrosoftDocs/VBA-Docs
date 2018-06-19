@@ -18,7 +18,7 @@ Occurs after a presentation is created.
 
 ## Syntax
 
- _expression_. **AfterNewPresentation**( **_Pres_** )
+ _expression_. 'AfterNewPresentation'( '_Pres_' )
 
  _expression_ An expression that returns a **Application** object.
 

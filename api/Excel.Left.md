@@ -17,7 +17,7 @@ Left property as it applies to the  **Application**, and  **DataSheet** object.
 
 Returns or sets the distance from the left edge of the screen to the left edge of the main Microsoft Graph window. Read/write Double.
 
- _expression_. **Left**
+ _expression_. 'Left'
 
  _expression_ Required. An expression that returns one of the above objects.
 

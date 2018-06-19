@@ -18,7 +18,7 @@ Determines whether Microsoft PowerPoint should display the  **AutoCorrect Option
 
 ## Syntax
 
- _expression_. **DisplayAutoCorrectOptions**
+ _expression_. 'DisplayAutoCorrectOptions'
 
  _expression_ A variable that represents an **AutoCorrect** object.
 

@@ -18,7 +18,7 @@ Selects all assignments for a selected task in the Team Planner view.
 
 ## Syntax
 
- _expression_. **SelectTaskAssns**
+ _expression_. 'SelectTaskAssns'
 
  _expression_ An expression that returns an **Application** object.
 

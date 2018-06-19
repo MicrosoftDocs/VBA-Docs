@@ -15,7 +15,7 @@ Gets a  **[Shift](Project.Shift.md)** object representing the third work shift i
 
 ## Syntax
 
- _expression_. **Shift3**
+ _expression_. 'Shift3'
 
  _expression_ A variable that represents a **Month** object.
 

@@ -18,7 +18,7 @@ Starts a new undo entry in the  **Application** object.
 
 ## Syntax
 
- _expression_. **StartNewUndoEntry**
+ _expression_. 'StartNewUndoEntry'
 
  _expression_ A variable that represents an **Application** object.
 

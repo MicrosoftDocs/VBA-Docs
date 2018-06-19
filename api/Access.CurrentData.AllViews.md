@@ -18,7 +18,7 @@ You can use the  **AllViews** property to reference the **[AllViews](Access.AllV
 
 ## Syntax
 
- _expression_. **AllViews**
+ _expression_. 'AllViews'
 
  _expression_ A variable that represents a **CurrentData** object.
 

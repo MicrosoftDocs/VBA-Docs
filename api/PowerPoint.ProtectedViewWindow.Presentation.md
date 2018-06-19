@@ -18,7 +18,7 @@ Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents
 
 ## Syntax
 
- _expression_. **Presentation**
+ _expression_. 'Presentation'
 
  _expression_ A variable that represents a **ProtectedViewWindow** object.
 

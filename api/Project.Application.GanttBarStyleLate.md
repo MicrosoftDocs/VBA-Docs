@@ -18,7 +18,7 @@ Shows or hides the late tasks style on the active Gantt chart.
 
 ## Syntax
 
- _expression_. **GanttBarStyleLate**( ** _Show_** )
+ _expression_. 'GanttBarStyleLate'( ' _Show_' )
 
  _expression_ An expression that returns an **Application** object.
 

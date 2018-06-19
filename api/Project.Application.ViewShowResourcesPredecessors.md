@@ -18,7 +18,7 @@ Displays information about resource assignments and predecessor tasks in the act
 
 ## Syntax
 
- _expression_. **ViewShowResourcesPredecessors**
+ _expression_. 'ViewShowResourcesPredecessors'
 
  _expression_ A variable that represents an **Application** object.
 

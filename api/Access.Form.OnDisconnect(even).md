@@ -18,7 +18,7 @@ Occurs when the specified PivotTable view disconnects from a data source.
 
 ## Syntax
 
- _expression_. **OnDisconnect**
+ _expression_. 'OnDisconnect'
 
  _expression_ A variable that represents a **Form** object.
 

@@ -18,7 +18,7 @@ Returns the name of the specified add-in or saved presentation, including the pa
 
 ## Syntax
 
- _expression_. **FullName**
+ _expression_. 'FullName'
 
  _expression_ A variable that represents a **Presentation** object.
 

@@ -11,7 +11,7 @@ Gets an  **Office.IMsoFloor** object that represents the floor of a 3-D chart. R
 
 ## Syntax
 
- _expression_. **Floor**
+ _expression_. 'Floor'
 
  _expression_ A variable that represents a **Chart** object.
 

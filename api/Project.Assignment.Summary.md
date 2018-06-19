@@ -15,7 +15,7 @@ Indicates whether the assignment is on a summary task. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **Summary**
+ _expression_. 'Summary'
 
  _expression_ A variable that represents an **Assignment** object.
 

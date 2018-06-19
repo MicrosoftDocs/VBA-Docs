@@ -18,7 +18,7 @@ Returns the reflection format for the specified range of shapes. Read-only.
 
 ## Syntax
 
- _expression_. **Reflection**
+ _expression_. 'Reflection'
 
  _expression_ A variable that represents a **ShapeRange** object.
 

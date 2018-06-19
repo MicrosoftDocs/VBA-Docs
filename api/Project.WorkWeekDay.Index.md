@@ -15,7 +15,7 @@ Gets the index of a  **WorkWeekDay** object in the **WorkWeekDays** containing o
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_. 'Index'
 
  _expression_ An expression that returns a **WorkWeekDay** object.
 

@@ -18,7 +18,7 @@ Returns or sets the major units for the value axis. Read/write  **Double**.
 
 ## Syntax
 
- _expression_. **MajorUnit**
+ _expression_. 'MajorUnit'
 
  _expression_ A variable that represents an **[Axis](PowerPoint.Axis.md)** object.
 

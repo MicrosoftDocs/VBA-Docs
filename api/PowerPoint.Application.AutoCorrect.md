@@ -18,7 +18,7 @@ Returns an  **[AutoCorrect](PowerPoint.AutoCorrect.md)** object that represents 
 
 ## Syntax
 
- _expression_. **AutoCorrect**
+ _expression_. 'AutoCorrect'
 
  _expression_ A variable that represents an **Application** object.
 

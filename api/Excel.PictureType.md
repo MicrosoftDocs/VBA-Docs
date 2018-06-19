@@ -22,7 +22,7 @@ Returns or sets the way pictures are displayed on a column or bar picture chart 
 | **xlStretch**. Stretches the picture to reach the necessary value.|
 | **xlStackScale**. Stacks the pictures; use the  **[PictureUnit](Excel.PictureUnit.md)** property to determine what unit each picture represents.|
 
- _expression_. **PictureType**
+ _expression_. 'PictureType'
 
  _expression_ Required. An expression that returns one of the above objects.
 

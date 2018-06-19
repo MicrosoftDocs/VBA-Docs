@@ -18,7 +18,7 @@ Gets or sets an [AcHorizontalAnchor](Access.AcHorizontalAnchor.md) constant that
 
 ## Syntax
 
- _expression_. **HorizontalAnchor**
+ _expression_. 'HorizontalAnchor'
 
  _expression_ A variable that represents a **WebBrowserControl** object.
 

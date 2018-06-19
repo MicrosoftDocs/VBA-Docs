@@ -18,7 +18,7 @@ Sets or returns a  **Single** that represents scaling or moving an object vertic
 
 ## Syntax
 
- _expression_. **ByY**
+ _expression_. 'ByY'
 
  _expression_ A variable that represents a **ScaleEffect** object.
 

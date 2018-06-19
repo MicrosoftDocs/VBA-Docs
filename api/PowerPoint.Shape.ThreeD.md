@@ -18,7 +18,7 @@ Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3
 
 ## Syntax
 
- _expression_. **ThreeD**
+ _expression_. 'ThreeD'
 
  _expression_ A variable that represents a **Shape** object.
 

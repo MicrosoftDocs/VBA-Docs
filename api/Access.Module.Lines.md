@@ -18,7 +18,7 @@ The  **Lines** property returns a string containing the contents of a specified 
 
 ## Syntax
 
- _expression_. **Lines**( ** _Line_**, ** _NumLines_** )
+ _expression_. 'Lines'( ' _Line_', ' _NumLines_' )
 
  _expression_ A variable that represents a **Module** object.
 

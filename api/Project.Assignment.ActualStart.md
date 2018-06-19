@@ -15,7 +15,7 @@ Gets or sets the actual start date of the assignment. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **ActualStart**
+ _expression_. 'ActualStart'
 
  _expression_ A variable that represents an **Assignment** object.
 

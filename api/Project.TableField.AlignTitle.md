@@ -18,7 +18,7 @@ Gets or sets the alignment of the title in a table field. Read/write  **PjAlignm
 
 ## Syntax
 
- _expression_. **AlignTitle**
+ _expression_. 'AlignTitle'
 
  _expression_ A variable that represents a **TableField** object.
 

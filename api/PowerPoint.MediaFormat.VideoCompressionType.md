@@ -18,7 +18,7 @@ Returns a  **String** that represents the video compression format of the media.
 
 ## Syntax
 
- _expression_. **VideoCompressionType**
+ _expression_. 'VideoCompressionType'
 
  _expression_ An expression that returns a **MediaFormat** object.
 

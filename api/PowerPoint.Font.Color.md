@@ -18,7 +18,7 @@ Returns or sets the color of the current  **Font** object. Read-write.
 
 ## Syntax
 
- _expression_. **Color**
+ _expression_. 'Color'
 
  _expression_ A variable that represents a **Font** object.
 

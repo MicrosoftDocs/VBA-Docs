@@ -18,7 +18,7 @@ Returns the  **Broadcast** object of the current **Presentation** object. Read-o
 
 ## Syntax
 
- _expression_. **Broadcast**
+ _expression_. 'Broadcast'
 
  _expression_ A variable that represents a **Presentation** object.
 

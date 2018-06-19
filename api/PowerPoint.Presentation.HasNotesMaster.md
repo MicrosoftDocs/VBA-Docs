@@ -18,7 +18,7 @@ Indicates whether the presentation has media that resides on a notes master. Rea
 
 ## Syntax
 
- _expression_. **HasNotesMaster**
+ _expression_. 'HasNotesMaster'
 
  _expression_ A variable that represents a **Presentation** object.
 

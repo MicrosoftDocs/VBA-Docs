@@ -18,7 +18,7 @@ Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that represents
 
 ## Syntax
 
- _expression_. **ThreeD**
+ _expression_. 'ThreeD'
 
  _expression_ An expression that returns a **TextFrame2** object.
 

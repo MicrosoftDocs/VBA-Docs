@@ -18,7 +18,7 @@ Returns or sets the left indent for the specified outline level, in points. Read
 
 ## Syntax
 
- _expression_. **LeftMargin**
+ _expression_. 'LeftMargin'
 
  _expression_ A variable that represents a **RulerLevel** object.
 

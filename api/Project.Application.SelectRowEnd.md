@@ -18,7 +18,7 @@ Selects the last cell in the row containing the active cell.
 
 ## Syntax
 
- _expression_. **SelectRowEnd**( ** _Extend_** )
+ _expression_. 'SelectRowEnd'( ' _Extend_' )
 
  _expression_ A variable that represents an **Application** object.
 

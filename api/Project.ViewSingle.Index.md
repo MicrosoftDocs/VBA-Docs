@@ -15,7 +15,7 @@ Gets the index of a  **ViewSingle** object in the **ViewsSingle** containing obj
 
 ## Syntax
 
- _expression_. **Index**
+ _expression_. 'Index'
 
  _expression_ A variable that represents a **ViewSingle** object.
 

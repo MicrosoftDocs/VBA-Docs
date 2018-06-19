@@ -18,7 +18,7 @@ Gets or sets the amount of space (in inches) between the button and its top grid
 
 ## Syntax
 
- _expression_. **TopPadding**
+ _expression_. 'TopPadding'
 
  _expression_ A variable that represents a **CommandButton** object.
 

@@ -18,7 +18,7 @@ Returns or sets the object's formula in A1-style notation. Read-only.
 
 ## Syntax
 
- _expression_. **Formula**
+ _expression_. 'Formula'
 
  _expression_ A variable that represents an **AxisTitle** object.
 

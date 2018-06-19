@@ -18,7 +18,7 @@ Determines whether characters in the specified WordArt are rotated 90 degrees re
 
 ## Syntax
 
- _expression_. **RotatedChars**
+ _expression_. 'RotatedChars'
 
  _expression_ A variable that represents a **TextEffectFormat** object.
 

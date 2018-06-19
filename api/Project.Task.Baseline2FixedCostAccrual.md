@@ -15,7 +15,7 @@ Gets or sets when the  **Task** baseline2 accrues fixed costs. Read/write **Long
 
 ## Syntax
 
- _expression_. **Baseline2FixedCostAccrual**
+ _expression_. 'Baseline2FixedCostAccrual'
 
  _expression_ A variable that represents a **Task** object.
 

@@ -18,7 +18,7 @@ Returns the  **[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)** object for t
 
 ## Syntax
 
- _expression_. **DisplayUnitLabel**
+ _expression_. 'DisplayUnitLabel'
 
  _expression_ A variable that represents an **[Axis](PowerPoint.Axis.md)** object.
 

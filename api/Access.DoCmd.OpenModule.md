@@ -18,7 +18,7 @@ The  **OpenModule** method carries out the OpenModule action in Visual Basic.
 
 ## Syntax
 
- _expression_. **OpenModule**( ** _ModuleName_**, ** _ProcedureName_** )
+ _expression_. 'OpenModule'( ' _ModuleName_', ' _ProcedureName_' )
 
  _expression_ A variable that represents a **DoCmd** object.
 

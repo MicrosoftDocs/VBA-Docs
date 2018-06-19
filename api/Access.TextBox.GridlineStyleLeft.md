@@ -18,7 +18,7 @@ Gets or sets the width of the bottom gridline for the specified text box. Read/w
 
 ## Syntax
 
- _expression_. **GridlineStyleLeft**
+ _expression_. 'GridlineStyleLeft'
 
  _expression_ A variable that represents a **TextBox** object.
 

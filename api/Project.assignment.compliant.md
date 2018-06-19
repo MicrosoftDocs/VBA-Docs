@@ -13,7 +13,7 @@ Gets the compliant for a task assignment in Project. Read-only Introduced in Off
 
 ## Syntax
 
- _expression_. **Compliant**
+ _expression_. 'Compliant'
 
  _expression_ A variable that represents a **Assignment** object.
 

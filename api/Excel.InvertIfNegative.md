@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 True if Microsoft Graph inverts the pattern in the item when it corresponds to a negative number. Read/write Boolean for all objects, except for the Interior object, which is read/write Variant.
 
- _expression_. **InvertIfNegative**
+ _expression_. 'InvertIfNegative'
 
  _expression_ Required. An expression that returns one of the above objects.
 

@@ -18,7 +18,7 @@ Returns the gradient style for the specified fill. Read-only.
 
 ## Syntax
 
- _expression_. **GradientStyle**
+ _expression_. 'GradientStyle'
 
  _expression_ A variable that represents a **FillFormat** object.
 

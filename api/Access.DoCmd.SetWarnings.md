@@ -18,7 +18,7 @@ The  **SetWarnings** method carries out the SetWarnings action in Visual Basic.
 
 ## Syntax
 
- _expression_. **SetWarnings**( ** _WarningsOn_** )
+ _expression_. 'SetWarnings'( ' _WarningsOn_' )
 
  _expression_ A variable that represents a **DoCmd** object.
 

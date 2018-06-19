@@ -18,7 +18,7 @@ Returns or sets the horizontal scaling factor for the texture fill. Read/write.
 
 ## Syntax
 
- _expression_. **TextureHorizontalScale**
+ _expression_. 'TextureHorizontalScale'
 
  _expression_ An expression that returns a **FillFormat** object.
 

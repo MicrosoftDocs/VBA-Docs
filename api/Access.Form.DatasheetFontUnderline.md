@@ -18,7 +18,7 @@ You can use the  **DatasheetFontUnderline** property to specify an underlined ap
 
 ## Syntax
 
- _expression_. **DatasheetFontUnderline**
+ _expression_. 'DatasheetFontUnderline'
 
  _expression_ A variable that represents a **Form** object.
 

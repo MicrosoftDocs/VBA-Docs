@@ -18,7 +18,7 @@ Sets legacy security options that are available in the  **Trust Center** dialog 
 
 ## Syntax
 
- _expression_. **OptionsSecurityEx**( ** _RemoveFileProperties_**, ** _TrustWSS_** )
+ _expression_. 'OptionsSecurityEx'( ' _RemoveFileProperties_', ' _TrustWSS_' )
 
  _expression_ A variable that represents an **Application** object.
 

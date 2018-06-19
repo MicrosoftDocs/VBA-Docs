@@ -15,7 +15,7 @@ Gets or sets the budget work (in hours) for an  **Assignment**. Read/write **Var
 
 ## Syntax
 
- _expression_. **BudgetWork**
+ _expression_. 'BudgetWork'
 
  _expression_ A variable that represents an **Assignment** object.
 

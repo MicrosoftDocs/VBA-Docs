@@ -18,7 +18,7 @@ Returns or sets a value that indicates whether an axis is multilevel. Read/write
 
 ## Syntax
 
- _expression_. **MultiLevel**
+ _expression_. 'MultiLevel'
 
  _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
 

@@ -18,7 +18,7 @@ Read/write
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. 'Name'
 
  _expression_ An expression that returns a **Chart** object.
 

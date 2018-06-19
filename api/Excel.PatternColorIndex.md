@@ -21,7 +21,7 @@ Returns or sets the color of the interior pattern as an index into the current c
 | **xlColorIndexAutomatic**|
 | **xlColorIndexNone**|
 
- _expression_. **PatternColorIndex**
+ _expression_. 'PatternColorIndex'
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

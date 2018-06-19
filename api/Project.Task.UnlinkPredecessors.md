@@ -15,7 +15,7 @@ Removes one or more predecessors from the task.
 
 ## Syntax
 
- _expression_. **UnlinkPredecessors**( ** _Tasks_** )
+ _expression_. 'UnlinkPredecessors'( ' _Tasks_' )
 
  _expression_ A variable that represents a **Task** object.
 

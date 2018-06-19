@@ -15,7 +15,7 @@ Links a deliverable or a dependency to a project.
 
 ## Syntax
 
- _expression_. **DeliverableLinkToProject**( ** _DeliverableGuid_** )
+ _expression_. 'DeliverableLinkToProject'( ' _DeliverableGuid_' )
 
  _expression_ A variable that represents a **Project** object.
 

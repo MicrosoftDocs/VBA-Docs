@@ -15,7 +15,7 @@ Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, o
 
 ## Syntax
 
- _expression_. **LoadWebPane**( ** _Window_**, ** _TargetPage_** )
+ _expression_. 'LoadWebPane'( ' _Window_', ' _TargetPage_' )
 
  _expression_ A variable that represents an **Application** object.
 

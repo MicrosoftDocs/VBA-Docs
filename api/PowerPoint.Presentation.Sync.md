@@ -18,7 +18,7 @@ Returns a  **Sync** object that enables you to manage the synchronization of the
 
 ## Syntax
 
- _expression_. **Sync**
+ _expression_. 'Sync'
 
  _expression_ A variable that represents a **Presentation** object.
 

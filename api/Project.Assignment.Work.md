@@ -15,7 +15,7 @@ Gets or sets the work (in minutes) for the assignment. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **Work**
+ _expression_. 'Work'
 
  _expression_ A variable that represents an **Assignment** object.
 

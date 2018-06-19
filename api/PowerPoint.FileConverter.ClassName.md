@@ -18,7 +18,7 @@ Returns a unique name that identifies the file converter. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **ClassName**
+ _expression_. 'ClassName'
 
  _expression_ A variable that represents a **[FileConverter](PowerPoint.FileConverter.md)** object.
 

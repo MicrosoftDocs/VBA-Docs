@@ -16,7 +16,7 @@ Occurs after a shape has been dropped onto a slide in an open presentation.
 
 ## Syntax
 
- _expression_. **AfterDragDropOnSlide**_(Sld,_ _X,_ _Y)_
+ _expression_. 'AfterDragDropOnSlide'_(Sld,_ _X,_ _Y)_
 
  _expression_ A variable that represents a **Application** object.
 

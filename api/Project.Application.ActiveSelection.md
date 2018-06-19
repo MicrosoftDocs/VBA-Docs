@@ -18,7 +18,7 @@ Gets a  **[Selection](Project.Selection.md)** object that represents the active 
 
 ## Syntax
 
- _expression_. **ActiveSelection**
+ _expression_. 'ActiveSelection'
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,7 +18,7 @@ Gets the TCPI (to complete performance index) value for the task. Read-only  **D
 
 ## Syntax
 
- _expression_. **TCPI**
+ _expression_. 'TCPI'
 
  _expression_ A variable that represents a **Task** object.
 

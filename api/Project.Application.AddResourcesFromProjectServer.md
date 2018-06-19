@@ -18,7 +18,7 @@ Opens the ** Build Team** dialog box if you are connected to Project Server and 
 
 ## Syntax
 
- _expression_. **AddResourcesFromProjectServer**
+ _expression_. 'AddResourcesFromProjectServer'
 
  _expression_ A variable that represents an **Application** object.
 

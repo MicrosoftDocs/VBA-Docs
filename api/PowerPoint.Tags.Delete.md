@@ -18,7 +18,7 @@ Deletes a tag.
 
 ## Syntax
 
- _expression_. **Delete**( **_Name_** )
+ _expression_. 'Delete'( '_Name_' )
 
  _expression_ A variable that represents a **Tags** object.
 

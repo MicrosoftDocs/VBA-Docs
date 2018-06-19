@@ -18,7 +18,7 @@ Determines whether the presentation is marked as final (read-only). Read/write.
 
 ## Syntax
 
- _expression_. **Final**
+ _expression_. 'Final'
 
  _expression_ An expression that returns a **Presentation** object.
 

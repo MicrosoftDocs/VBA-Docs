@@ -18,7 +18,7 @@ Returns the title of the specified axis. Read-only  **[AxisTitle](PowerPoint.Axi
 
 ## Syntax
 
- _expression_. **AxisTitle**
+ _expression_. 'AxisTitle'
 
  _expression_ A variable that represents an **[Axis](PowerPoint.Axis.md)** object.
 

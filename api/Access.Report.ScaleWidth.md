@@ -18,7 +18,7 @@ You can use the  **ScaleWidth** property to specify the number of units for the 
 
 ## Syntax
 
- _expression_. **ScaleWidth**
+ _expression_. 'ScaleWidth'
 
  _expression_ A variable that represents a **Report** object.
 

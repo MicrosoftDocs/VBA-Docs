@@ -18,7 +18,7 @@ Determines whether the slides will be scaled to fill the page they're printed on
 
 ## Syntax
 
- _expression_. **FitToPage**
+ _expression_. 'FitToPage'
 
  _expression_ A variable that represents a **PrintOptions** object.
 

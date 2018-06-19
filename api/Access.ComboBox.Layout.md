@@ -18,7 +18,7 @@ Returns the type of layout for the specified combo box. Read-only  **[AcLayoutTy
 
 ## Syntax
 
- _expression_. **Layout**
+ _expression_. 'Layout'
 
  _expression_ A variable that represents a **ComboBox** object.
 

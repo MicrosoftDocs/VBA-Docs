@@ -18,7 +18,7 @@ Gets or sets whether all records are displayed when the subform's master field i
 
 ## Syntax
 
- _expression_. **FilterOnEmptyMaster**
+ _expression_. 'FilterOnEmptyMaster'
 
  _expression_ A variable that represents a **SubForm** object.
 

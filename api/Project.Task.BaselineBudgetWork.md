@@ -15,7 +15,7 @@ Gets or sets the baseline budget work hours for all non-cost resources assigned 
 
 ## Syntax
 
- _expression_. **BaselineBudgetWork**
+ _expression_. 'BaselineBudgetWork'
 
  _expression_ A variable that represents a **Task** object.
 

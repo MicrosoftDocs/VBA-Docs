@@ -15,7 +15,7 @@ Gets the parent of the  **CostRateTables** object. Read-only **Resource**.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. 'Parent'
 
  _expression_ A variable that represents a **CostRateTables** object.
 

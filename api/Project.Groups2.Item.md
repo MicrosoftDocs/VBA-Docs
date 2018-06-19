@@ -15,7 +15,7 @@ Gets a single  **Group2** object from a **Groups2** collection. Read-only **[Gro
 
 ## Syntax
 
- _expression_. **Item**( ** _Index_** )
+ _expression_. 'Item'( ' _Index_' )
 
  _expression_ An expression that returns a **Groups2** object.
 

@@ -18,7 +18,7 @@ You can use  **DMax** function to determine maximum value in a specified set of 
 
 ## Syntax
 
- _expression_. **DMax**( ** _Expr_**, ** _Domain_**, ** _Criteria_** )
+ _expression_. 'DMax'( ' _Expr_', ' _Domain_', ' _Criteria_' )
 
  _expression_ A variable that represents an **Application** object.
 

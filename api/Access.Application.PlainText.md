@@ -18,7 +18,7 @@ Strips the rich text formatting from a string and returns an unformatted text st
 
 ## Syntax
 
- _expression_. **PlainText**( ** _RichText_**, ** _Length_** )
+ _expression_. 'PlainText'( ' _RichText_', ' _Length_' )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -16,7 +16,7 @@ Returns or sets an [XlSeriesNameLevel](http://msdn.microsoft.com/library/e1ddc9a
 
 ## Syntax
 
- _expression_. **SeriesNameLevel**
+ _expression_. 'SeriesNameLevel'
 
  _expression_ A variable that represents a **Chart** object.
 

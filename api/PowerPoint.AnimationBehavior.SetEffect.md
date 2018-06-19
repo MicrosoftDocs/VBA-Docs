@@ -18,7 +18,7 @@ Returns a  **SetEffect** object for the animation behavior. Read-only.
 
 ## Syntax
 
- _expression_. **SetEffect**
+ _expression_. 'SetEffect'
 
  _expression_ A variable that represents a **AnimationBehavior** object.
 

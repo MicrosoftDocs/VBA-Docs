@@ -18,7 +18,7 @@ Gets the number of resources in a project, not including blank entries. Read-onl
 
 ## Syntax
 
- _expression_. **NumberOfResources**
+ _expression_. 'NumberOfResources'
 
  _expression_ A variable that represents a **Project** object.
 

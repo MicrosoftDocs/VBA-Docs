@@ -15,7 +15,7 @@ Adds a  **Group** object to a **ResourceGroups** collection.
 
 ## Syntax
 
- _expression_. **Add**( ** _Name_**, ** _FieldName_** )
+ _expression_. 'Add'( ' _Name_', ' _FieldName_' )
 
  _expression_ A variable that represents a **ResourceGroups** object.
 

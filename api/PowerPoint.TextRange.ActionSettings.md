@@ -18,7 +18,7 @@ Returns an  **[ActionSettings](PowerPoint.ActionSettings.md)** object that conta
 
 ## Syntax
 
- _expression_. **ActionSettings**
+ _expression_. 'ActionSettings'
 
  _expression_ A variable that represents a **TextRange** object.
 

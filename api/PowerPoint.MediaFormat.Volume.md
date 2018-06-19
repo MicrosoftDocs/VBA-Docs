@@ -18,7 +18,7 @@ Gets or sets the volume of the media. Read/write.
 
 ## Syntax
 
- _expression_. **Volume**
+ _expression_. 'Volume'
 
  _expression_ An expression that returns a **MediaFormat** object.
 

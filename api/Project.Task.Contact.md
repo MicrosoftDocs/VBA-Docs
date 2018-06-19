@@ -18,7 +18,7 @@ Gets or sets contact information of the person who is responsible for a task. Re
 
 ## Syntax
 
- _expression_. **Contact**
+ _expression_. 'Contact'
 
  _expression_ A variable that represents a **Task** object.
 

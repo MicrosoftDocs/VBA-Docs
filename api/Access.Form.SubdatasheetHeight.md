@@ -18,7 +18,7 @@ You can use the  **SubdatasheetHeight** property to specify or determine the def
 
 ## Syntax
 
- _expression_. **SubdatasheetHeight**
+ _expression_. 'SubdatasheetHeight'
 
  _expression_ A variable that represents a **Form** object.
 

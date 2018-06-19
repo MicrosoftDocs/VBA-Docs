@@ -11,7 +11,7 @@ Gets an  **Office.IMsoChartFormat** object that enables access to format informa
 
 ## Syntax
 
- _expression_. **Format**
+ _expression_. 'Format'
 
  _expression_ A variable that represents a **Chart** object.
 

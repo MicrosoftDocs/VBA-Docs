@@ -16,7 +16,7 @@ Modifies the start and finish dates for a  **Timeline** bar. Introduced in Offic
 
 ## Syntax
 
- _expression_. **TimelineBarDateRange**(  _CustomDates_,  _StartDate_,  _FinishDate_,  _BarIndex_)
+ _expression_. 'TimelineBarDateRange'(  _CustomDates_,  _StartDate_,  _FinishDate_,  _BarIndex_)
 
  _expression_ A variable that represents a **Application** object.
 

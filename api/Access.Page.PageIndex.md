@@ -18,7 +18,7 @@ You can use the  **PageIndex** property to specify or determine the position of 
 
 ## Syntax
 
- _expression_. **PageIndex**
+ _expression_. 'PageIndex'
 
  _expression_ A variable that represents a **Page** object.
 

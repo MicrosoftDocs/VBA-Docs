@@ -18,7 +18,7 @@ Returns a  **Research** object that provides access to the research service feat
 
 ## Syntax
 
- _expression_. **Research**
+ _expression_. 'Research'
 
  _expression_ An expression that returns a **Presentation** object.
 

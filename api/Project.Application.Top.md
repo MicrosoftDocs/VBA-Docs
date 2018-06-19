@@ -15,7 +15,7 @@ Gets or sets the distance of the Project application window from the top edge of
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_. 'Top'
 
  _expression_ A variable that represents an **Application** object.
 

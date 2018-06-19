@@ -18,7 +18,7 @@ The  **BeforeDelConfirm** event occurs after the user deletes to the buffer one 
 
 ## Syntax
 
- _expression_. **BeforeDelConfirm**( ** _Cancel_**, ** _Response_** )
+ _expression_. 'BeforeDelConfirm'( ' _Cancel_', ' _Response_' )
 
  _expression_ A variable that represents a **Form** object.
 

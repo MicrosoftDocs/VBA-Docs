@@ -18,7 +18,7 @@ Determines whether the font in the specified WordArt is bold. Read/write.
 
 ## Syntax
 
- _expression_. **FontBold**
+ _expression_. 'FontBold'
 
  _expression_ A variable that represents a **TextEffectFormat** object.
 

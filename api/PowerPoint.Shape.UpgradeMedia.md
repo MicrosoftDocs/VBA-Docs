@@ -18,7 +18,7 @@ Converts a legacy media object to an updated media object.
 
 ## Syntax
 
- _expression_. **UpgradeMedia**
+ _expression_. 'UpgradeMedia'
 
  _expression_ A variable that represents a **Shape** object.
 

@@ -18,7 +18,7 @@ Sets or returns a  **Single** that represents the distance between gridlines. Re
 
 ## Syntax
 
- _expression_. **GridDistance**
+ _expression_. 'GridDistance'
 
  _expression_ A variable that represents a **Presentation** object.
 

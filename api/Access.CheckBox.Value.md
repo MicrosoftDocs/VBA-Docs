@@ -18,7 +18,7 @@ Determines or specifies whether or not the specifed check box is checked. Read /
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_. 'Value'
 
  _expression_ A variable that represents a **CheckBox** object.
 

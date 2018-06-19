@@ -15,7 +15,7 @@ Gets the GUID of the calendar for resource. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **CalendarGuid**
+ _expression_. 'CalendarGuid'
 
  _expression_ An expression that returns a **Resource** object.
 

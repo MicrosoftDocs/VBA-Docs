@@ -18,7 +18,7 @@ Returns  **True** if merge-mode updates are pending. Read-only.
 
 ## Syntax
 
- _expression_. **PendingUpdates**
+ _expression_. 'PendingUpdates'
 
  _expression_ A variable that represents a **Coauthoring** object.
 

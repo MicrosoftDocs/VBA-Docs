@@ -18,7 +18,7 @@ Returns the full file name of the specified attachment. Read-only  **String**.
 
 ## Syntax
 
- _expression_. **FileName**( ** _var_** )
+ _expression_. 'FileName'( ' _var_' )
 
  _expression_ A variable that represents an **Attachment** object.
 

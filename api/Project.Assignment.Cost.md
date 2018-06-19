@@ -15,7 +15,7 @@ Gets the total cost of the assignment. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **Cost**
+ _expression_. 'Cost'
 
  _expression_ A variable that represents an **Assignment** object.
 

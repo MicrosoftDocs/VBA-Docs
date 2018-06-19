@@ -16,7 +16,7 @@ ms.prod: powerpoint
 
 ## Syntax
 
- _expression_. **Superscript**
+ _expression_. 'Superscript'
 
  _expression_ A variable that represents a **ChartFont** object.
 

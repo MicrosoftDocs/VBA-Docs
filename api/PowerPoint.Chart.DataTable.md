@@ -18,7 +18,7 @@ Returns the chart data table. Read-only  **[DataTable](PowerPoint.DataTable.md)*
 
 ## Syntax
 
- _expression_. **DataTable**
+ _expression_. 'DataTable'
 
  _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 

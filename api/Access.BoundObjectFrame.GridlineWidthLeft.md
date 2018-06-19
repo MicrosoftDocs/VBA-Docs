@@ -18,7 +18,7 @@ Gets or sets the width of the left gridline for the specified frame. Read/write 
 
 ## Syntax
 
- _expression_. **GridlineWidthLeft**
+ _expression_. 'GridlineWidthLeft'
 
  _expression_ A variable that represents a **BoundObjectFrame** object.
 

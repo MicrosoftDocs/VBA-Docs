@@ -18,7 +18,7 @@ Sets the style of boxes in the Network Diagram view, where colors can be hexadec
 
 ## Syntax
 
- _expression_. **BoxStylesEditEx**( ** _Style_**, ** _DataTemplate_**, ** _HorizontalGridlines_**, ** _VerticalGridlines_**, ** _BorderShape_**, ** _BorderColor_**, ** _BorderWidth_**, ** _BackgroundColor_**, ** _BackgroundPattern_** )
+ _expression_. 'BoxStylesEditEx'( ' _Style_', ' _DataTemplate_', ' _HorizontalGridlines_', ' _VerticalGridlines_', ' _BorderShape_', ' _BorderColor_', ** _BorderWidth_**, ** _BackgroundColor_**, ** _BackgroundPattern_** )
 
  _expression_ An expression that returns an **Application** object.
 

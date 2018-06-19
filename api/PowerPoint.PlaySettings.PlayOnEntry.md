@@ -18,7 +18,7 @@ Determines whether the specified movie or sound is played automatically when it 
 
 ## Syntax
 
- _expression_. **PlayOnEntry**
+ _expression_. 'PlayOnEntry'
 
  _expression_ A variable that represents a **PlaySettings** object.
 

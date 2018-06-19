@@ -18,7 +18,7 @@ You use the  **LineSlant** property to specify whether a[line control](line-cont
 
 ## Syntax
 
- _expression_. **LineSlant**
+ _expression_. 'LineSlant'
 
  _expression_ A variable that represents a **Line** object.
 

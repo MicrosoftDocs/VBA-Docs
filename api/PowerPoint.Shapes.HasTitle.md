@@ -18,7 +18,7 @@ Returns whether the collection of objects on the specified slide contains a titl
 
 ## Syntax
 
- _expression_. **HasTitle**
+ _expression_. 'HasTitle'
 
  _expression_ A variable that represents a **Shapes** object.
 

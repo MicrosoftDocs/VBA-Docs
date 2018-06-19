@@ -16,7 +16,7 @@ The SubmittedByName property for the Engagement object. Introduced in Office 201
 
 ## Syntax
 
- _expression_. **SubmittedByName**
+ _expression_. 'SubmittedByName'
 
  _expression_ A variable that represents a **Engagement** object.
 

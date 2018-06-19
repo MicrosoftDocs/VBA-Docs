@@ -18,7 +18,7 @@ Returns a single text style level from the specified  **TextStyleLevels** collec
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. 'Item'( '_Index_' )
 
  _expression_ A variable that represents a **TextStyleLevels** object.
 

@@ -13,7 +13,7 @@ Inserts text to the left of the existing text in the  **TextRange2** object.
 
 ## Syntax
 
- _expression_. **InsertBefore**( **_NewText_** )
+ _expression_. 'InsertBefore'( '_NewText_' )
 
  _expression_ An expression that returns a **TextRange2** object.
 

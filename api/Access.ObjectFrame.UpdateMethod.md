@@ -18,7 +18,7 @@ This property has been deprecated. Use the  **[UpdateOptions](Access.ObjectFrame
 
 ## Syntax
 
- _expression_. **UpdateMethod**
+ _expression_. 'UpdateMethod'
 
  _expression_ A variable that represents an **ObjectFrame** object.
 

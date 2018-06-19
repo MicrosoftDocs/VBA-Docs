@@ -18,7 +18,7 @@ Resets a base calendar.
 
 ## Syntax
 
- _expression_. **BaseCalendarReset**( ** _Name_** )
+ _expression_. 'BaseCalendarReset'( ' _Name_' )
 
  _expression_ A variable that represents an **Application** object.
 

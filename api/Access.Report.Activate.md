@@ -18,7 +18,7 @@ The Activate event occurs when a report receives the focus and becomes the activ
 
 ## Syntax
 
- _expression_. **Activate**
+ _expression_. 'Activate'
 
  _expression_ A variable that represents a **Report** object.
 

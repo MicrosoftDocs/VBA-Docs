@@ -18,7 +18,7 @@ Gets or sets the shade that is applied to the theme color in the  **ForeColor** 
 
 ## Syntax
 
- _expression_. **ForeShade**
+ _expression_. 'ForeShade'
 
  _expression_ A variable that represents a **TabControl** object.
 

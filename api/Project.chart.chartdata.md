@@ -11,7 +11,7 @@ Gets an  **Office.IMsoChartData** object that enables the user to show, hide, or
 
 ## Syntax
 
- _expression_. **ChartData**
+ _expression_. 'ChartData'
 
  _expression_ A variable that represents a **Chart** object.
 

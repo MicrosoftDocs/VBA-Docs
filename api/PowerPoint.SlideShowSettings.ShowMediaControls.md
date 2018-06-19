@@ -18,7 +18,7 @@ Allows access to the media controls in the  **SlideShowSettings** object. Read/w
 
 ## Syntax
 
- _expression_. **ShowMediaControls**
+ _expression_. 'ShowMediaControls'
 
  _expression_ A variable that represents a **SlideShowSettings** object.
 

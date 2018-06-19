@@ -18,7 +18,7 @@ Returns the status of creating a video in the current  **Presentation**. Read-on
 
 ## Syntax
 
- _expression_. **CreateVideoStatus**
+ _expression_. 'CreateVideoStatus'
 
  _expression_ A variable that represents a **Presentation** object.
 

@@ -18,7 +18,7 @@ Marks a form or report as dirty.
 
 ## Syntax
 
- _expression_. **DirtyObject**( ** _ObjectType_**, ** _ObjectName_** )
+ _expression_. 'DirtyObject'( ' _ObjectType_', ' _ObjectName_' )
 
  _expression_ A variable that represents an **Application** object.
 

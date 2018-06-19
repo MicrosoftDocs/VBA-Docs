@@ -18,7 +18,7 @@ The  **KeyUp** event occurs when the user releases a key while a form or control
 
 ## Syntax
 
- _expression_. **KeyUp**( ** _KeyCode_**, ** _Shift_** )
+ _expression_. 'KeyUp'( ' _KeyCode_', ' _Shift_' )
 
  _expression_ A variable that represents a **ComboBox** object.
 

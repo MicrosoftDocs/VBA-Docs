@@ -18,7 +18,7 @@ Changes the background color and pattern of date boxes in the Calendar view.
 
 ## Syntax
 
- _expression_. **CalendarDateShadingEdit**( ** _Item_**, ** _Pattern_**, ** _Color_** )
+ _expression_. 'CalendarDateShadingEdit'( ' _Item_', ' _Pattern_', ' _Color_' )
 
  _expression_ A variable that represents an **Application** object.
 

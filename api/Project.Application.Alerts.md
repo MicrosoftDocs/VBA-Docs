@@ -18,7 +18,7 @@ Determines whether alerts appear when a macro runs.
 
 ## Syntax
 
- _expression_. **Alerts**( ** _Show_** )
+ _expression_. 'Alerts'( ' _Show_' )
 
  _expression_ A variable that represents an **Application** object.
 

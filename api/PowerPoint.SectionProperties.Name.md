@@ -18,7 +18,7 @@ Returns the name of the specified section as a  **String**.
 
 ## Syntax
 
- _expression_. **Name**( **_sectionIndex_** )
+ _expression_. 'Name'( '_sectionIndex_' )
 
  _expression_ A variable that represents a **SectionProperties** object.
 

@@ -18,7 +18,7 @@ You can use the  **Vertical** property to set a form control for vertical displa
 
 ## Syntax
 
- _expression_. **Vertical**
+ _expression_. 'Vertical'
 
  _expression_ A variable that represents a **Label** object.
 

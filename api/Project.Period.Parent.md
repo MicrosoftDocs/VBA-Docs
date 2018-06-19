@@ -15,7 +15,7 @@ Gets the parent of the  **Period** object. Read-only **Calendar**.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. 'Parent'
 
  _expression_ A variable that represents a **Period** object.
 

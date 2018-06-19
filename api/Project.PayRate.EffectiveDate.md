@@ -18,7 +18,7 @@ Gets the date a pay rate for a resource goes into effect. Read-only  **Variant**
 
 ## Syntax
 
- _expression_. **EffectiveDate**
+ _expression_. 'EffectiveDate'
 
  _expression_ A variable that represents a **PayRate** object.
 

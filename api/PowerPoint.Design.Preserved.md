@@ -18,7 +18,7 @@ Represents whether a design master is preserved from changes. Read/write.
 
 ## Syntax
 
- _expression_. **Preserved**
+ _expression_. 'Preserved'
 
  _expression_ A variable that represents a **Design** object.
 

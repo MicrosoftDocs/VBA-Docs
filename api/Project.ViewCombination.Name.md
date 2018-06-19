@@ -15,7 +15,7 @@ Gets the name of a  **ViewCombination** object. Read/write **String**.
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. 'Name'
 
  _expression_ A variable that represents a **ViewCombination** object.
 

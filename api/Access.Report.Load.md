@@ -18,7 +18,7 @@ Occurs when a report is opened and its records are displayed.
 
 ## Syntax
 
- _expression_. **Load**
+ _expression_. 'Load'
 
  _expression_ A variable that represents a **Report** object.
 

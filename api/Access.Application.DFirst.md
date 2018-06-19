@@ -18,7 +18,7 @@ You can use the  **DFirst** function to return a random record from a particular
 
 ## Syntax
 
- _expression_. **DFirst**( ** _Expr_**, ** _Domain_**, ** _Criteria_** )
+ _expression_. 'DFirst'( ' _Expr_', ' _Domain_', ' _Criteria_' )
 
  _expression_ A variable that represents an **Application** object.
 

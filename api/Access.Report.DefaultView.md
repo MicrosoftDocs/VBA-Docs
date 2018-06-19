@@ -18,7 +18,7 @@ You can use the  **DefaultView** property to specify the opening view of a repor
 
 ## Syntax
 
- _expression_. **DefaultView**
+ _expression_. 'DefaultView'
 
  _expression_ A variable that represents a **Report** object.
 

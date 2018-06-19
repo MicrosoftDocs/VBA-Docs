@@ -18,7 +18,7 @@ Returns a  **LanguageSettings** object that contains information about the langu
 
 ## Syntax
 
- _expression_. **LanguageSettings**
+ _expression_. 'LanguageSettings'
 
  _expression_ A variable that represents a **Application** object.
 

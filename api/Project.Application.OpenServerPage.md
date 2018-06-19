@@ -18,7 +18,7 @@ Opens the specified page from Project Web App.
 
 ## Syntax
 
- _expression_. **OpenServerPage**( ** _Page_** )
+ _expression_. 'OpenServerPage'( ' _Page_' )
 
  _expression_ An expression that returns an **Application** object.
 

@@ -14,7 +14,7 @@ Hides the project checkout message bar.
 
 ## Syntax
 
- _expression_. **HideCheckoutMsgBar**
+ _expression_. 'HideCheckoutMsgBar'
 
  _expression_ A variable that represents a **Project** object.
 

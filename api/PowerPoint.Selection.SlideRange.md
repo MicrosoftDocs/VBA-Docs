@@ -18,7 +18,7 @@ Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents a r
 
 ## Syntax
 
- _expression_. **SlideRange**
+ _expression_. 'SlideRange'
 
  _expression_ A variable that represents a **Selection** object.
 

@@ -11,7 +11,7 @@ Modifies the properties and formatting of a chart.
 
 ## Syntax
 
- _expression_. **ChartWizard** _(varSource,_ _varGallery,_ _varFormat,_ _varPlotBy,_ _varCategoryLabels,_ _varSeriesLabels,_ _varHasLegend,_ _varTitle,_ _varCategoryTitle,_ _varValueTitle,_ _varExtraTitle)_
+ _expression_. 'ChartWizard' _(varSource,_ _varGallery,_ _varFormat,_ _varPlotBy,_ _varCategoryLabels,_ _varSeriesLabels,_ _varHasLegend,_ _varTitle,_ _varCategoryTitle,_ _varValueTitle,_ _varExtraTitle)_
 
  _expression_ A variable that represents a **Chart** object.
 

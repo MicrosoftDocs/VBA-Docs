@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a Range object that represents the columns in the specified range or all the columns on the datasheet. Read-only Range object.
 
- _expression_. **Range**
+ _expression_. 'Range'
 
  _expression_ Required. An expression that returns an object in the Applies To List.
 

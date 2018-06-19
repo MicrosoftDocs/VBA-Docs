@@ -18,7 +18,7 @@ Returns or sets the password that must be supplied to open the specified present
 
 ## Syntax
 
- _expression_. **Password**
+ _expression_. 'Password'
 
  _expression_ A variable that represents a **Presentation** object.
 

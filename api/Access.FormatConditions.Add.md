@@ -18,7 +18,7 @@ You can use the  **Add** method to add a conditional format as a **[FormatCondit
 
 ## Syntax
 
- _expression_. **Add**( ** _Type_**, ** _Operator_**, ** _Expression1_**, ** _Expression2_** )
+ _expression_. 'Add'( ' _Type_', ' _Operator_', ' _Expression1_', ' _Expression2_' )
 
  _expression_ A variable that represents a **FormatConditions** object.
 

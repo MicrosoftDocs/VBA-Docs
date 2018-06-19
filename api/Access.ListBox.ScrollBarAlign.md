@@ -18,7 +18,7 @@ You can use the  **ScrollBarAlign** to specify or determine the alignment of a v
 
 ## Syntax
 
- _expression_. **ScrollBarAlign**
+ _expression_. 'ScrollBarAlign'
 
  _expression_ A variable that represents a **ListBox** object.
 

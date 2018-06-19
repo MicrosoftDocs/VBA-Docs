@@ -18,7 +18,7 @@ Represents the speed of the transition to the specified slide. Read/write.
 
 ## Syntax
 
- _expression_. **Speed**
+ _expression_. 'Speed'
 
  _expression_ A variable that represents a **SlideShowTransition** object.
 

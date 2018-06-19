@@ -15,7 +15,7 @@ Gets the variance (in minutes) between the baseline finish date and the finish d
 
 ## Syntax
 
- _expression_. **FinishVariance**
+ _expression_. 'FinishVariance'
 
  _expression_ A variable that represents a **Task** object.
 

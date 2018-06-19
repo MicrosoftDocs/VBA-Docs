@@ -18,7 +18,7 @@ You can use the  **SelHeight** property to specify or determine the number of se
 
 ## Syntax
 
- _expression_. **SelHeight**
+ _expression_. 'SelHeight'
 
  _expression_ A variable that represents a **Form** object.
 

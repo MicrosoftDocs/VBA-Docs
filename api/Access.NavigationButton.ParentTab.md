@@ -18,7 +18,7 @@ Gets the top-level navigation button associated with the specified navigation bu
 
 ## Syntax
 
- _expression_. **ParentTab**
+ _expression_. 'ParentTab'
 
  _expression_ A variable that represents a **NavigationButton** object.
 

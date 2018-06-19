@@ -18,7 +18,7 @@ Specifies a document as the Start Page in Microsoft Internet Explorer.
 
 ## Syntax
 
- _expression_. **WebSetStartPage**( ** _Address_** )
+ _expression_. 'WebSetStartPage'( ' _Address_' )
 
  _expression_ A variable that represents an **Application** object.
 

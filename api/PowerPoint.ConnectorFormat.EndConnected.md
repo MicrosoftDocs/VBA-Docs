@@ -18,7 +18,7 @@ Determines whether the end of the specified connector is connected to a shape. R
 
 ## Syntax
 
- _expression_. **EndConnected**
+ _expression_. 'EndConnected'
 
  _expression_ A variable that represents an **ConnectorFormat** object.
 

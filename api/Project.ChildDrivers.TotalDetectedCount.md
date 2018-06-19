@@ -15,7 +15,7 @@ Gets the total number of child task drivers that affect the dates of a task. Rea
 
 ## Syntax
 
- _expression_. **TotalDetectedCount**
+ _expression_. 'TotalDetectedCount'
 
  _expression_ A variable that represents a **ChildDrivers** object.
 

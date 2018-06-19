@@ -15,7 +15,7 @@ Gets or sets the finish date for a project. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. **ProjectFinish**
+ _expression_. 'ProjectFinish'
 
  _expression_ A variable that represents a **Project** object.
 

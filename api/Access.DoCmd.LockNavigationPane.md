@@ -18,7 +18,7 @@ You can use the  **LockNavigationPane** action to prevent users from deleting da
 
 ## Syntax
 
- _expression_. **LockNavigationPane**( ** _Lock_** )
+ _expression_. 'LockNavigationPane'( ' _Lock_' )
 
  _expression_ A variable that represents a **DoCmd** object.
 
