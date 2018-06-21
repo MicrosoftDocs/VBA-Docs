@@ -20,7 +20,7 @@ Gets or sets the height of the specified object in twips. Read/write  **Integer*
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

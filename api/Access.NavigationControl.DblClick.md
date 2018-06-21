@@ -20,7 +20,7 @@ The  **DblClick** event occurs when the user presses and releases the left mouse
 
  _expression_. 'DblClick'( ' _Cancel_', )
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Gets or sets the name of the form or report to be displayed when the user click 
 
  _expression_. 'NavigationTargetName'
 
- _expression_ A variable that represents a **NavigationButton** object.
+ _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 
 
 ## See also

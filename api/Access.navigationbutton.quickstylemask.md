@@ -18,7 +18,7 @@ Gets or sets modifications to the Quick Style that is applied to the specified o
 
  _expression_. 'QuickStyle'
 
- _expression_ A variable that represents a **NavigationButton** object.
+ _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 
 
 ## Remarks

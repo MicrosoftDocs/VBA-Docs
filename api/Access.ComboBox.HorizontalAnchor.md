@@ -20,7 +20,7 @@ Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant
 
  _expression_. 'HorizontalAnchor'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

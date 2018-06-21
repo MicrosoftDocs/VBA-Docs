@@ -20,7 +20,7 @@ The  **SetHiddenAttribute** method sets the hidden attribute of an Access object
 
  _expression_. 'SetHiddenAttribute'( ' _ObjectType_', ' _ObjectName_', ' _fHidden_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

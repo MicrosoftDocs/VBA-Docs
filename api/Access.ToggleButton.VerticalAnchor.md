@@ -20,7 +20,7 @@ Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that ind
 
  _expression_. 'VerticalAnchor'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

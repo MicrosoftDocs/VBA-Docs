@@ -20,7 +20,7 @@ Returns the type of layout for the specified control. Read-only  **[AcLayoutType
 
  _expression_. 'Layout'
 
- _expression_ A variable that represents a **Control** object.
+ _expression_ A variable that represents a [Control](./Access.Control.md) object.
 
 
 ## See also

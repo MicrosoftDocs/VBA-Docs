@@ -20,7 +20,7 @@ The BeforeInsert event occurs when the user types the first character in a new r
 
  _expression_. 'BeforeInsert'( ' _Cancel_' )
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
  _expression_. 'Click'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

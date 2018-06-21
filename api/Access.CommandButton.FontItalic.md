@@ -28,7 +28,7 @@ You can use the  **FontItalic** property to specify whether text is italic in th
 
  _expression_. 'FontItalic'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## Remarks

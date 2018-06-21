@@ -20,7 +20,7 @@ You can use the  **ControlType** property in Visual Basic to determine the type 
 
  _expression_. 'ControlType'
 
- _expression_ A variable that represents a **PageBreak** object.
+ _expression_ A variable that represents a [PageBreak](./Access.PageBreak.md) object.
 
 
 ## Remarks

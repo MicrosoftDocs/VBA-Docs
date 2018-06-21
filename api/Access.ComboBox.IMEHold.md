@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IMEHold'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

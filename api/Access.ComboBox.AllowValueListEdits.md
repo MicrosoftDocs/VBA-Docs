@@ -20,7 +20,7 @@ Gets or sets whether the  **Edit List Items** command is available when the user
 
  _expression_. 'AllowValueListEdits'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

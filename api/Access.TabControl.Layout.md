@@ -20,7 +20,7 @@ Returns the type of layout for the specified text box. Read-only  **[AcLayoutTyp
 
  _expression_. 'Layout'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## See also

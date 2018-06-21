@@ -20,7 +20,7 @@ Gets or sets the name of the  **[SubForm](Access.SubForm.md)** object used to di
 
  _expression_. 'SubForm'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## See also

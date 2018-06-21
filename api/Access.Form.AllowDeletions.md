@@ -20,7 +20,7 @@ You can use the  **AllowDeletions** property to specify whether a user can delet
 
  _expression_. 'AllowDeletions'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

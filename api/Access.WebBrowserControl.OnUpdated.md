@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Updated** box in the **Properties** windo
 
  _expression_. 'OnUpdated'
 
- _expression_ A variable that represents a **WebBrowserControl** object.
+ _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
 
 
 ## Remarks

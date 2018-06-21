@@ -20,7 +20,7 @@ Gets or sets the tint that is applied to the theme color in the  **ForeColor** p
 
  _expression_. 'ForeTint'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

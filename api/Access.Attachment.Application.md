@@ -20,7 +20,7 @@ You can use the  **Application** property to access the active Microsoft Access 
 
  _expression_.
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

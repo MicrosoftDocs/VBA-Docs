@@ -28,7 +28,7 @@ Read/write  **Integer**.
 
  _expression_. 'FontSize'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets whether the object is visible. Read/write  **Boolean**.
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the font index that represents a font in the applied theme associat
 
  _expression_. 'ThemeFontIndex'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

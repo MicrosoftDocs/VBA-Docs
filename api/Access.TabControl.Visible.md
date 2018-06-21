@@ -20,7 +20,7 @@ Returns or sets whether the object is visible. Read/write  **Boolean**.
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

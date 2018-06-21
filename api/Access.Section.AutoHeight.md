@@ -20,7 +20,7 @@ Gets or sets whether a section's height is adjusted automatically when controls 
 
  _expression_. 'AutoHeight'
 
- _expression_ A variable that represents a **Section** object.
+ _expression_ A variable that represents a [Section](./Access.Section.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ You can use the  **LinkChildFields** property (along with the **LinkMasterFields
 
  _expression_. 'LinkChildFields'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## Remarks

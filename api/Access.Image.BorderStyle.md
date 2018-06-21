@@ -20,7 +20,7 @@ Specifies how a control's border appears.Read/write  **Byte**.
 
  _expression_. 'BorderStyle'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

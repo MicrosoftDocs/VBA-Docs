@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'VarOleObject'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## Remarks

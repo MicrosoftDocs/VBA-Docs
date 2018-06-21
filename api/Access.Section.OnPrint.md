@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Print** box in the **Properties** window 
 
  _expression_. 'OnPrint'
 
- _expression_ A variable that represents a **Section** object.
+ _expression_ A variable that represents a [Section](./Access.Section.md) object.
 
 
 ## Remarks

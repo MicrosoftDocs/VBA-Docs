@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Mouse Down** box in the **Properties** wi
 
  _expression_. 'OnMouseDown'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

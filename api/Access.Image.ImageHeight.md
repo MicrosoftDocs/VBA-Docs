@@ -20,7 +20,7 @@ You can use the  **ImageHeight** property to determine the height in twips of th
 
  _expression_. 'ImageHeight'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

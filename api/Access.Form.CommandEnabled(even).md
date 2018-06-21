@@ -20,7 +20,7 @@ Occurs when the specified Microsoft Office Web Component determines whether the 
 
  _expression_. 'CommandEnabled'( ' _Command_', ' _Enabled_' )
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ### Parameters

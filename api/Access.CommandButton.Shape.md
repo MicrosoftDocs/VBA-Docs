@@ -20,7 +20,7 @@ Returns or sets the shape of the specified button. Read/write  **Long**.
 
  _expression_. 'Shape'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## Remarks

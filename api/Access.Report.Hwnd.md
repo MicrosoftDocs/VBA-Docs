@@ -20,7 +20,7 @@ You can use the  **hWnd** property to determine the handle (a unique **Long Inte
 
  _expression_. 'Hwnd'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

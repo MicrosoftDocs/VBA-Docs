@@ -20,7 +20,7 @@ You can use the  **MultiRow** property to specify or determine whether a tab con
 
  _expression_. 'MultiRow'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

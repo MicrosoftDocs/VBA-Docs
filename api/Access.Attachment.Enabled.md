@@ -20,7 +20,7 @@ You can use the  **Enabled** property to set or return the status of the conditi
 
  _expression_. 'Enabled'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

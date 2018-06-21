@@ -20,7 +20,7 @@ The  **GotFocus** event occurs when the specified object receives the focus.
 
  _expression_. 'GotFocus'
 
- _expression_ A variable that represents a **WebBrowserControl** object.
+ _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
 
 
 ### Return Value

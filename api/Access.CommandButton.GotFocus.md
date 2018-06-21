@@ -20,7 +20,7 @@ The  **GotFocus** event occurs when the specified object receives the focus.
 
  _expression_. 'GotFocus'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## Remarks

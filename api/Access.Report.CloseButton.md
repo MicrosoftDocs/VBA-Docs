@@ -20,7 +20,7 @@ Specifies whether the  **Close** button on a form is enabled. Read/write **Boole
 
  _expression_. 'CloseButton'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

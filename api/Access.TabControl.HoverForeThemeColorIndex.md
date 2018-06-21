@@ -20,7 +20,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
  _expression_. 'HoverForeThemeColorIndex'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ You can use the  **ControlSource** property to specify what data appears in a co
 
  _expression_. 'ControlSource'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## Remarks

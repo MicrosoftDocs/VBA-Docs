@@ -20,7 +20,7 @@ You can use the  **DDEExecute** statement to send a command from a client applic
 
  _expression_. 'DDEExecute'( ' _ChanNum_', ' _Command_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

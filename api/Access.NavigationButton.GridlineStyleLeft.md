@@ -20,7 +20,7 @@ Gets or sets the width of the bottom gridline for the specified text box. Read/w
 
  _expression_. 'GridlineStyleLeft'
 
- _expression_ A variable that represents a **NavigationButton** object.
+ _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 
 
 ## Remarks

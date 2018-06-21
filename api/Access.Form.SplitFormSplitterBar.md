@@ -20,7 +20,7 @@ Gets or sets whether the splitter bar is available when the form is displayed in
 
  _expression_. 'SplitFormSplitterBar'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## See also

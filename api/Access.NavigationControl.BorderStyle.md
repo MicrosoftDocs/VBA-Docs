@@ -20,7 +20,7 @@ Specifies how a control's border appears.Read/write  **Byte**.
 
  _expression_. 'BorderStyle'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## Remarks

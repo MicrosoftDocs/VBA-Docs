@@ -20,7 +20,7 @@ Gets or sets the type of mouse cursor displayed when the user rests the pointer 
 
  _expression_. 'CursorOnHover'
 
- _expression_ A variable that represents a **NavigationButton** object.
+ _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 
 
 ## Remarks

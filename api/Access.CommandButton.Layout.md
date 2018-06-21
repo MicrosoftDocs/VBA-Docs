@@ -20,7 +20,7 @@ Returns the type of layout for the specified button. Read-only  **[AcLayoutType]
 
  _expression_. 'Layout'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## See also

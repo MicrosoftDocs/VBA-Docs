@@ -20,7 +20,7 @@ Gets or sets the tint that is applied to the theme color in the  **BackColor** p
 
  _expression_. 'BackTint'
 
- _expression_ A variable that represents a **Rectangle** object.
+ _expression_ A variable that represents a [Rectangle](./Access.Rectangle.md) object.
 
 
 ## Remarks

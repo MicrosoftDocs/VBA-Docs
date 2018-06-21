@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates whether the specified object is depe
 
  _expression_. 'IsDependentUpon'( ' _ObjectType_', ' _ObjectName_' )
 
- _expression_ A variable that represents an **AccessObject** object.
+ _expression_ A variable that represents an [AccessObject](./Access.AccessObject.md) object.
 
 
 ### Parameters

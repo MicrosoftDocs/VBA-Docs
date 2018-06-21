@@ -20,7 +20,7 @@ Gets or sets a value that represents a color in the applied color theme associat
 
  _expression_. 'BorderThemeColorIndex'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## Remarks

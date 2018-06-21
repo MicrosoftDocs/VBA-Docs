@@ -20,7 +20,7 @@ The  **LostFocus** event occurs when the specified object loses the focus.
 
  _expression_. 'LostFocus'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ### Return Value

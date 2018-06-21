@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Open** box in the **Properties** window o
 
  _expression_. 'OnOpen'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

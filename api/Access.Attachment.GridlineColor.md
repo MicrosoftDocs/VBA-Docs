@@ -20,7 +20,7 @@ Gets or sets the color of the gridline for the specified attachment. Read/write 
 
  _expression_. 'GridlineColor'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

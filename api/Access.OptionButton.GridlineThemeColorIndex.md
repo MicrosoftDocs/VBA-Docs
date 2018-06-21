@@ -20,7 +20,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
  _expression_. 'GridlineThemeColorIndex'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ You can use the  **ControlTipText** property to specify the text that appears in
 
  _expression_. 'ControlTipText'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

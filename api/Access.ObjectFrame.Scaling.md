@@ -20,7 +20,7 @@ Controls how the contents of an object frame control are displayed. Read/write  
 
  _expression_. 'Scaling'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## Remarks

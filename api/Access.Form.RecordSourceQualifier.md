@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the SQL Server owner name of the record
 
  _expression_. 'RecordSourceQualifier'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## See also

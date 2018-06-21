@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the text box and its top gr
 
  _expression_. 'TopPadding'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## See also

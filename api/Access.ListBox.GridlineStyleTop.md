@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified list box. Read/write  **Byt
 
  _expression_. 'GridlineStyleTop'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

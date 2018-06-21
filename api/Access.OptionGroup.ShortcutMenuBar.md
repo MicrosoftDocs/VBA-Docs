@@ -20,7 +20,7 @@ You can use the  **ShortcutMenuBar** property to specify the shortcut menu that 
 
  _expression_. 'ShortcutMenuBar'
 
- _expression_ A variable that represents an **OptionGroup** object.
+ _expression_ A variable that represents an [OptionGroup](./Access.OptionGroup.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ The  **ItemData** property returns the data in the bound column for the specifie
 
  _expression_. 'ItemData'( ' _Index_' )
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ### Parameters

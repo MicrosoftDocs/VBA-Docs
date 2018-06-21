@@ -20,7 +20,7 @@ Gets or sets the height of the specified object in twips. Read/write  **Long**.
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

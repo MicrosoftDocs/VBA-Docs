@@ -20,7 +20,7 @@ Gets or sets the width of the right gridline for the specified text box. Read/wr
 
  _expression_. 'GridlineWidthRight'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ The  **CreateForm** method creates a form and returns a **[Form](Access.Form.md)
 
  _expression_. 'CreateForm'( ' _Database_', ' _FormTemplate_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ The  **LabelAlign** property specifies the text alignment within attached labels
 
  _expression_. 'LabelAlign'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Removes information about an error that is stored in the  **MacroError** object.
 
  _expression_. 'ClearMacroError'
 
- _expression_ A variable that represents a **DoCmd** object.
+ _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 
 
 ## Remarks

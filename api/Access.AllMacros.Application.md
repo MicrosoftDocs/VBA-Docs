@@ -20,7 +20,7 @@ You can use the  **Application** property to access the active Microsoft Access 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **AllMacros** object.
+ _expression_ A variable that represents an 'AllMacros' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **String** indicating the name of the driver used by the specified pr
 
  _expression_. 'DriverName'
 
- _expression_ A variable that represents a **Printer** object.
+ _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 
 
 ## Example

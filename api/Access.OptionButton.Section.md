@@ -20,7 +20,7 @@ You can identify these controls by the section of a form or report where the con
 
  _expression_. 'Section'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## Remarks

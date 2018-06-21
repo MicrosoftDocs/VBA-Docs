@@ -20,7 +20,7 @@ Converts a string to an HTML-encoded string.
 
  _expression_. 'HtmlEncode'( ' _PlainText_', ' _Length_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ The  **LabelY** property (along with the **LabelX** property) specifies the plac
 
  _expression_. 'LabelY'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## Remarks

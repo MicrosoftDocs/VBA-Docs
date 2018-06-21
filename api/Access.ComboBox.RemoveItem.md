@@ -20,7 +20,7 @@ Removes an item from the list of values displayed by the specified combo box con
 
  _expression_. 'RemoveItem'( ' _Index_' )
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ### Parameters

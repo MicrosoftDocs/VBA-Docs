@@ -20,7 +20,7 @@ You can use the  **Nz** function to return zero, a zero-length string (" "), or 
 
  _expression_. 'Nz'( ' _Value_', ' _ValueIfNull_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

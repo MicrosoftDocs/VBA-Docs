@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** indicating whether personal information about the
 
  _expression_. 'RemovePersonalInformation'
 
- _expression_ A variable that represents a **CurrentProject** object.
+ _expression_ A variable that represents a [CurrentProject](./Access.CurrentProject.md) object.
 
 
 ## See also

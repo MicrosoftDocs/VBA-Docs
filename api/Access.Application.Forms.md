@@ -20,7 +20,7 @@ You can use the  **Forms** property to return a read-only reference to the **[Fo
 
  _expression_. 'Forms'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the unique identifier for the layout that contains the specified list bo
 
  _expression_. 'LayoutID'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

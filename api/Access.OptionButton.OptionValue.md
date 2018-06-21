@@ -20,7 +20,7 @@ Each control in an option group has a numeric value that you can set with the  *
 
  _expression_. 'OptionValue'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## Remarks

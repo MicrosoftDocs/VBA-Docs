@@ -20,7 +20,7 @@ You can use the  **PicturePages** property to specify on which page or pages of 
 
  _expression_. 'PicturePages'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

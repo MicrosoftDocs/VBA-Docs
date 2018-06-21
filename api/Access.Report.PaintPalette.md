@@ -20,7 +20,7 @@ You can use the  **PaintPalette** property to specify a palette to be used by a 
 
  _expression_. 'PaintPalette'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

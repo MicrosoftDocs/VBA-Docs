@@ -21,7 +21,7 @@ The  **LabelX** property (along with the **LabelY** property) specifies the plac
 
  _expression_. 'LabelX'
 
- _expression_ A variable that represents a **CheckBox** object.
+ _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
 
 
 ## Remarks

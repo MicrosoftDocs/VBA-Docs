@@ -20,7 +20,7 @@ You can use the  **RowSourceType** property (along with the **RowSource** proper
 
  _expression_. 'RowSourceType'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

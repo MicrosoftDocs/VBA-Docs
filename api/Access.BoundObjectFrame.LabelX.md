@@ -21,7 +21,7 @@ The  **LabelX** property (along with the **LabelY** property) specifies the plac
 
  _expression_. 'LabelX'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

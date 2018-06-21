@@ -20,7 +20,7 @@ The  **OpenModule** method carries out the OpenModule action in Visual Basic.
 
  _expression_. 'OpenModule'( ' _ModuleName_', ' _ProcedureName_' )
 
- _expression_ A variable that represents a **DoCmd** object.
+ _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 
 
 ### Parameters

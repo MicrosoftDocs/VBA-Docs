@@ -20,7 +20,7 @@ Occurs when the specified section is redrawn.
 
  _expression_. 'Paint'
 
- _expression_ A variable that represents a **Section** object.
+ _expression_ A variable that represents a [Section](./Access.Section.md) object.
 
 
 ## Example

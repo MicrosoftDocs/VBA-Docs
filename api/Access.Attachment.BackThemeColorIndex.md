@@ -20,7 +20,7 @@ Gets or sets a value that represents a color in the applied color theme associat
 
  _expression_. 'BackThemeColorIndex'
 
- _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
+ _expression_ A variable that represents an '[Attachment](Access.Attachment.md)' object.
 
 
 ## Remarks

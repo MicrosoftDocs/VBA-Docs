@@ -20,7 +20,7 @@ You can use the  **CurrentX** property (along with the **CurrentY** property) to
 
  _expression_. 'CurrentX'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the image control and its t
 
  _expression_. 'TopPadding'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## See also

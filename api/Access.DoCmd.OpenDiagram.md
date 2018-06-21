@@ -20,7 +20,7 @@ The  **OpenDiagram** method carries out the OpenDiagram action in Visual Basic.
 
  _expression_. 'OpenDiagram'( ' _DiagramName_' )
 
- _expression_ A variable that represents a **DoCmd** object.
+ _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 
 
 ### Parameters

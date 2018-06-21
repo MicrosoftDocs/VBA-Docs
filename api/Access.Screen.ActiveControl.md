@@ -20,7 +20,7 @@ You can use the  **ActiveControl** property together with the **[Screen](Access.
 
  _expression_. 'ActiveControl'
 
- _expression_ A variable that represents a **Screen** object.
+ _expression_ A variable that represents a [Screen](./Access.Screen.md) object.
 
 
 ## Remarks

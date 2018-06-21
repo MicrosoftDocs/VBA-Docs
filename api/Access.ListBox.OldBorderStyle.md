@@ -20,7 +20,7 @@ You can use this property to set or returns the unedited value of the  **BorderS
 
  _expression_. 'OldBorderStyle'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

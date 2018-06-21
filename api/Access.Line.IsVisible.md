@@ -20,7 +20,7 @@ You can use the  **IsVisible** property in to determine whether a control on a r
 
  _expression_. 'IsVisible'
 
- _expression_ A variable that represents a **Line** object.
+ _expression_ A variable that represents a [Line](./Access.Line.md) object.
 
 
 ## Remarks

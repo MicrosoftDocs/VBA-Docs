@@ -20,7 +20,7 @@ Gets or sets the width of the top gridline for the specified text box. Read/writ
 
  _expression_. 'GridlineWidthTop'
 
- _expression_ A variable that represents a **CustomControl** object.
+ _expression_ A variable that represents a [CustomControl](./Access.CustomControl.md) object.
 
 
 ## Remarks

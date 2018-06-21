@@ -20,7 +20,7 @@ You can use the  **CreateGroupLevel** method to specify a field or expression on
 
  _expression_. 'CreateGroupLevel'( ' _ReportName_', ' _Expression_', ' _Header_', ' _Footer_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters
@@ -47,7 +47,7 @@ You can use the  **CreateGroupLevel** method when designing a wizard that create
 
 The  **CreateGroupLevel** method is available only in report Design view.
 
-Microsoft Access uses an array, the  **[GroupLevel](Access.Report.GroupLevel.md)** property array, to keep track of the group levels created for a report. The **CreateGroupLevel** method adds a new group level to the array, based on the _expression_ argument. The **CreateGroupLevel** method then returns an index value that represents the new group level's position in the array. The first field or expression you sort or group on is level 0, the second is level 1, and so on. You can have up to ten group levels in a report (0 to 9).
+Microsoft Access uses an array, the  **[GroupLevel](Access.Report.GroupLevel.md)** property array, to keep track of the group levels created for a report. The **CreateGroupLevel** method adds a new group level to the array, based on the _expression_ argument. The 'CreateGroupLevel' method then returns an index value that represents the new group level's position in the array. The first field or expression you sort or group on is level 0, the second is level 1, and so on. You can have up to ten group levels in a report (0 to 9).
 
 When you specify that either the  _header_ or _footer_ argument, or both, is **True**, the **[GroupHeader](Access.GroupLevel.GroupHeader.md)** and **[GroupFooter](Access.GroupLevel.GroupFooter.md)** properties in a report are set to Yes, and a header and/or footer is created for the group level.
 

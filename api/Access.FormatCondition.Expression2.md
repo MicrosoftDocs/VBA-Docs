@@ -20,7 +20,7 @@ You can use the  **Expression2** property to return the values of a conditional 
 
  _expression_. 'Expression2'
 
- _expression_ A variable that represents a **FormatCondition** object.
+ _expression_ A variable that represents a [FormatCondition](./Access.FormatCondition.md) object.
 
 
 ## Remarks

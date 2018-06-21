@@ -20,7 +20,7 @@ Gets the name of the specified  **[TempVar](Access.TempVar.md)**. Read-only **St
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **TempVar** object.
+ _expression_ A variable that represents a [TempVar](./Access.TempVar.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Creates a new Microsoft Access database.
 
  _expression_. 'NewCurrentDatabase'( ' _filepath_', ' _FileFormat_', ' _Template_', ' _SiteAddress_', ' _ListID_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **String** indicating the port name of the specified printer. Read-on
 
  _expression_. 'Port'
 
- _expression_ A variable that represents a **Printer** object.
+ _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 
 
 ## Example

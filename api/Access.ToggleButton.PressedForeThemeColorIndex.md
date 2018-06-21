@@ -20,7 +20,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
  _expression_. 'PressedForeThemeColorIndex'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

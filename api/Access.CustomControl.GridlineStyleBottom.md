@@ -20,7 +20,7 @@ Gets or sets the bottom gridline style of the specified list box. Read/write  **
 
  _expression_. 'GridlineStyleBottom'
 
- _expression_ A variable that represents a **CustomControl** object.
+ _expression_ A variable that represents a [CustomControl](./Access.CustomControl.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the height of a report in twips. Read-only  **Integer**.
 
  _expression_. 'WindowHeight'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

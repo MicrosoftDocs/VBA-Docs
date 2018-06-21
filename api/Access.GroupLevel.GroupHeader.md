@@ -20,7 +20,7 @@ You can use the  **GroupHeader** property to create a group header for a selecte
 
  _expression_. 'GroupHeader'
 
- _expression_ A variable that represents a **GroupLevel** object.
+ _expression_ A variable that represents a [GroupLevel](./Access.GroupLevel.md) object.
 
 
 ## Remarks

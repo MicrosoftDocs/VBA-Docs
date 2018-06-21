@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Mouse Up** box in the **Properties** wind
 
  _expression_. 'OnMouseUp'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

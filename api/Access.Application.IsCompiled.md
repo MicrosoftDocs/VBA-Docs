@@ -20,7 +20,7 @@ The  **IsCompiled** property returns a **Boolean** value indicating whether the 
 
  _expression_. 'IsCompiled'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ## Remarks

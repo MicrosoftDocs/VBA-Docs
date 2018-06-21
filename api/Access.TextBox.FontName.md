@@ -28,7 +28,7 @@ Read/write  **String**.
 
  _expression_. 'FontName'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

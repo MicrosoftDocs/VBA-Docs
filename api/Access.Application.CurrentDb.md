@@ -20,7 +20,7 @@ The  **CurrentDb** method returns an object variable of type **Database** that r
 
  _expression_. 'CurrentDb'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Return Value

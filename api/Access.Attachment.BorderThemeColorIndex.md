@@ -20,7 +20,7 @@ Gets or sets a value that represents a color in the applied color theme that is 
 
  _expression_. 'BorderThemeColorIndex'
 
- _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
+ _expression_ A variable that represents an '[Attachment](Access.Attachment.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the parent object for the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **CustomControl** object.
+ _expression_ A variable that represents a [CustomControl](./Access.CustomControl.md) object.
 
 
 ## See also

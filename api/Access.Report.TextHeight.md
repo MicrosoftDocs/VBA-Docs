@@ -20,7 +20,7 @@ The  **TextHeight** method returns the height of a text string as it would be pr
 
  _expression_. 'TextHeight'( ' _Expr_' )
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ### Parameters

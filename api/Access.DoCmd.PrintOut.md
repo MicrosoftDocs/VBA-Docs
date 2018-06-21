@@ -20,7 +20,7 @@ The  **PrintOut** method carries out the PrintOut action in Visual Basic.
 
  _expression_. 'PrintOut'( ' _PrintRange_', ' _PageFrom_', ' _PageTo_', ' _PrintQuality_', ' _Copies_', ' _CollateCopies_' )
 
- _expression_ A variable that represents a **DoCmd** object.
+ _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 
 
 ### Parameters

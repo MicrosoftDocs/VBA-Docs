@@ -20,7 +20,7 @@ You can use the  **GrpKeepTogether** property to specify whether groups in a mul
 
  _expression_. 'GrpKeepTogether'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

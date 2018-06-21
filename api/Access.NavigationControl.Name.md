@@ -20,7 +20,7 @@ You can use the  **Name** property to specify or determine the string expression
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## Remarks

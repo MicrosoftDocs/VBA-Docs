@@ -20,7 +20,7 @@ Gets or sets the bottom gridline style of the specified image control. Read/writ
 
  _expression_. 'GridlineStyleBottom'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

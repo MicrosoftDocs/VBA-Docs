@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified subform. Read/write  **Byte
 
  _expression_. 'GridlineStyleTop'
 
- _expression_ A variable that represents a **SubForm** object.
+ _expression_ A variable that represents a [SubForm](./Access.SubForm.md) object.
 
 
 ## Remarks

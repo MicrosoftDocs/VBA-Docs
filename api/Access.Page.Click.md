@@ -20,7 +20,7 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
  _expression_. 'Click'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Access.Page.md) object.
 
 
 ## Remarks

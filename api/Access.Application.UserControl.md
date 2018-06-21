@@ -20,7 +20,7 @@ You can use the  **UserControl** property to determine whether the current Micro
 
  _expression_. 'UserControl'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ## Remarks

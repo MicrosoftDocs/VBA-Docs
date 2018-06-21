@@ -20,7 +20,7 @@ The  **ProcCountLines** property returns the number of lines in a specified proc
 
  _expression_. 'ProcCountLines'( ' _ProcName_', ' _ProcKind_' )
 
- _expression_ A variable that represents a **Module** object.
+ _expression_ A variable that represents a [Module](./Access.Module.md) object.
 
 
 ### Parameters

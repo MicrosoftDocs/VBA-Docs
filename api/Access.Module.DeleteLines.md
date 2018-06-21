@@ -20,7 +20,7 @@ The  **DeleteLines** method deletes lines from a standard module or a class modu
 
  _expression_. 'DeleteLines'( ' _StartLine_', ' _Count_' )
 
- _expression_ A variable that represents a **Module** object.
+ _expression_ A variable that represents a [Module](./Access.Module.md) object.
 
 
 ### Parameters

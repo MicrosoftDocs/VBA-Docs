@@ -20,7 +20,7 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
  _expression_. 'Click'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ### Return Value

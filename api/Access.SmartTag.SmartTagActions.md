@@ -20,7 +20,7 @@ Returns a  **[SmartTagActions](Access.SmartTagActions.md)** collection that repr
 
  _expression_. 'SmartTagActions'
 
- _expression_ A variable that represents a **SmartTag** object.
+ _expression_ A variable that represents a [SmartTag](./Access.SmartTag.md) object.
 
 
 ## Remarks

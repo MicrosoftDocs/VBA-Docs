@@ -20,7 +20,7 @@ You use the  **LineSlant** property to specify whether a[line control](line-cont
 
  _expression_. 'LineSlant'
 
- _expression_ A variable that represents a **Line** object.
+ _expression_ A variable that represents a [Line](./Access.Line.md) object.
 
 
 ## Remarks

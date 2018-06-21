@@ -20,7 +20,7 @@ You can use the  **CommandBars** property to return a reference to the **Command
 
  _expression_. 'CommandBars'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ## Remarks

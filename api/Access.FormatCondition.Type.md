@@ -20,7 +20,7 @@ Returns the value of a  **[FormatCondition](Access.FormatCondition.md)** object 
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **FormatCondition** object.
+ _expression_ A variable that represents a [FormatCondition](./Access.FormatCondition.md) object.
 
 
 ## See also

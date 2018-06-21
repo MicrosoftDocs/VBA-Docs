@@ -20,7 +20,7 @@ The  **RefreshRecord** method performs the **RefreshRecord** macro operation fro
 
  _expression_. 'RefreshRecord'
 
- _expression_ A variable that represents a **DoCmd** object.
+ _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 
 
 ## Remarks

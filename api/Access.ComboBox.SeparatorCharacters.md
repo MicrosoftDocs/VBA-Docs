@@ -20,7 +20,7 @@ Gets or sets the separator displayed between values when the combo box is bound 
 
  _expression_. 'SeparatorCharacters'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## See also

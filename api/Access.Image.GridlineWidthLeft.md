@@ -20,7 +20,7 @@ Gets or sets the width of the left gridline for the specified image control. Rea
 
  _expression_. 'GridlineWidthLeft'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

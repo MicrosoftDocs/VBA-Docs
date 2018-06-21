@@ -20,7 +20,7 @@ You can use the  **BackStyle** property to specify whether a control will be tra
 
  _expression_. 'BackStyle'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## Remarks

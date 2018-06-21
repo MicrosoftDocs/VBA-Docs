@@ -20,7 +20,7 @@ The  **AfterUpdate** event occurs after changed data in a control or record is u
 
  _expression_. 'AfterUpdate'
 
- _expression_ A variable that represents a **WebBrowserControl** object.
+ _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
 
 
 ### Return Value

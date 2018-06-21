@@ -20,7 +20,7 @@ Gets or sets the width of the bottom gridline for the specified list box. Read/w
 
  _expression_. 'GridlineStyleLeft'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

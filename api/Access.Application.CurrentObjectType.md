@@ -20,7 +20,7 @@ You can use the  **CurrentObjectType** property together with the **[Application
 
  _expression_. 'CurrentObjectType'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ## Remarks

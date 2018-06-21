@@ -20,7 +20,7 @@ The  **Requery** method updates the data underlying a specified control that's o
 
  _expression_. 'Requery'
 
- _expression_ A variable that represents an **OptionGroup** object.
+ _expression_ A variable that represents an [OptionGroup](./Access.OptionGroup.md) object.
 
 
 ## Remarks

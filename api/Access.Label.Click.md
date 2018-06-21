@@ -20,7 +20,7 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
  _expression_. 'Click'
 
- _expression_ A variable that represents a **Label** object.
+ _expression_ A variable that represents a [Label](./Access.Label.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant
 
  _expression_. 'HorizontalAnchor'
 
- _expression_ A variable that represents an **EmptyCell** object.
+ _expression_ A variable that represents an [EmptyCell](./Access.EmptyCell.md) object.
 
 
 ## Remarks

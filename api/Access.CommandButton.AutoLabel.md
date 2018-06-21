@@ -20,7 +20,7 @@ Specifies whether labels are automatically created and attached to new controls.
 
  _expression_. 'AutoLabel'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## See also

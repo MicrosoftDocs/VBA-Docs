@@ -20,7 +20,7 @@ You can use the  **DDETerminate** statement to close a specified dynamic data ex
 
  _expression_. 'DDETerminate'( ' _ChanNum_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

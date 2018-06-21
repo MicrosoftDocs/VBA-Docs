@@ -20,7 +20,7 @@ Gets or sets the color of the gridline for the specified option button. Read/wri
 
  _expression_. 'GridlineColor'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ The name of a help file associated with a form. Read/write  **String**.
 
  _expression_. 'HelpFile'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Example

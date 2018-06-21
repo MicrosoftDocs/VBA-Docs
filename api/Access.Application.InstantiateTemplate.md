@@ -20,7 +20,7 @@ Opens a new database and applies the specified template.
 
  _expression_. 'InstantiateTemplate'( ' _Path_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ You can use the  **ItemsSelected** property to return a read-only reference to t
 
  _expression_. 'ItemsSelected'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

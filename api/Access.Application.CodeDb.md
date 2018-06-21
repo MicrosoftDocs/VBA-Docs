@@ -20,7 +20,7 @@ You can use the  **CodeDb** method in a code module to determine the name of the
 
  _expression_. 'CodeDb'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Return Value

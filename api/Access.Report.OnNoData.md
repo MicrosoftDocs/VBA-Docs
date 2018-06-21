@@ -20,7 +20,7 @@ Sets or returns the value of the  **On No Data** box in the **Properties** windo
 
  _expression_. 'OnNoData'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

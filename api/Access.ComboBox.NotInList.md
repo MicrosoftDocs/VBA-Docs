@@ -20,7 +20,7 @@ The  **NotInList** event occurs when the user enters a value in the text box por
 
  _expression_. 'NotInList'( '_NewData_', '_Response_' )
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ### Parameters

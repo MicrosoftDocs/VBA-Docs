@@ -20,7 +20,7 @@ Returns or sets the ADO  **Recordset** or DAO **[Recordset](http://msdn.microsof
 
  _expression_. 'Recordset'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

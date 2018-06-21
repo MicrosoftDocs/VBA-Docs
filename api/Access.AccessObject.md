@@ -34,6 +34,7 @@ An **AccessObject** object includes information about one instance of an object.
 |**Stored procedure**|**AllStoredProcedures**|Saved stored procedures|
 |**Table**|**AllTables**|Saved tables|
 |**View**|**AllViews**|Saved views|
+
 Because an **AccessObject** object corresponds to an existing object, you can't create new **AccessObject** objects or delete existing ones. To refer to an **AccessObject** object in a collection by its ordinal number or by its **Name** property setting, use any of the following syntax forms:
 
 

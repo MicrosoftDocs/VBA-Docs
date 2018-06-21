@@ -20,7 +20,7 @@ Determines or specifies whether or not the specified toggle button control is se
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

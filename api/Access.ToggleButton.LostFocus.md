@@ -20,7 +20,7 @@ The  **LostFocus** event occurs when the specified object loses the focus.
 
  _expression_. 'LostFocus'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

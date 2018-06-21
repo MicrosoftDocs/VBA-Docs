@@ -20,7 +20,7 @@ Gets or sets the bottom gridline style of the specified text box. Read/write  **
 
  _expression_. 'GridlineStyleBottom'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

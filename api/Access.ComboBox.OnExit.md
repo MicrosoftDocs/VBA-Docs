@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Exit** box in the **Properties** window o
 
  _expression_. 'OnExit'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

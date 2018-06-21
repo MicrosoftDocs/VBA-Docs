@@ -20,7 +20,7 @@ Returns or sets whether the object is visible. Read/write  **Boolean**.
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

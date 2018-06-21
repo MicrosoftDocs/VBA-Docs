@@ -20,7 +20,7 @@ Along with the  **TopMargin**, **LeftMargin**, and **BottomMargin** properties, 
 
  _expression_. 'RightMargin'
 
- _expression_ A variable that represents a **Printer** object.
+ _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 
 
 ## See also

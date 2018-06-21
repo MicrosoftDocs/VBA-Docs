@@ -20,7 +20,7 @@ The  **MouseMove** event occurs when the user moves the mouse.
 
  _expression_. 'MouseMove'( ' _Button_', ' _Shift_', ' _X_', ' _Y_' )
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ### Parameters

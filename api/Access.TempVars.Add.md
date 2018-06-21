@@ -20,7 +20,7 @@ Adds a variable to the  **[TempVars](Access.TempVars.md)** collection.
 
  _expression_. 'Add'( ' _Name_', ' _Value_' )
 
- _expression_ A variable that represents a **TempVars** object.
+ _expression_ A variable that represents a [TempVars](./Access.TempVars.md) object.
 
 
 ### Parameters

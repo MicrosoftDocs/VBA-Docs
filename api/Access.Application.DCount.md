@@ -20,7 +20,7 @@ You can use the  **DCount** function to determine the number of records that are
 
  _expression_. 'DCount'( ' _Expr_', ' _Domain_', ' _Criteria_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

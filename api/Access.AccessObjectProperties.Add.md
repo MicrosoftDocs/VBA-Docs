@@ -20,7 +20,7 @@ You can use the  **Add** method to add a new property as an **AccessObjectProper
 
  _expression_. 'Add'( ' _PropertyName_', ' _Value_' )
 
- _expression_ A variable that represents an **AccessObjectProperties** object.
+ _expression_ A variable that represents an [AccessObjectProperties](./Access.AccessObjectProperties.md) object.
 
 
 ### Parameters

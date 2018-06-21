@@ -20,7 +20,7 @@ You can use the  **DisplayWhen** property to specify which of a form's controls 
 
  _expression_. 'DisplayWhen'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

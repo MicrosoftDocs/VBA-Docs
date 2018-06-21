@@ -20,7 +20,7 @@ Gets or sets whether the specified control automatically adjusts vertically to p
 
  _expression_. 'CanGrow'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

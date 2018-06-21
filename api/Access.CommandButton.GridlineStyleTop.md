@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified button. Read/write  **Byte*
 
  _expression_. 'GridlineStyleTop'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## Remarks

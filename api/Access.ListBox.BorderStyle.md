@@ -20,7 +20,7 @@ Specifies how a control's border appears.Read/write  **Byte**.
 
  _expression_. 'BorderStyle'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks
