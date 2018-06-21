@@ -20,7 +20,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_. 'Session'
 
- _expression_ A variable that represents an **ImportanceRuleCondition** object.
+ _expression_ A variable that represents an [ImportanceRuleCondition](./Outlook.ImportanceRuleCondition.md) object.
 
 
 ## Remarks

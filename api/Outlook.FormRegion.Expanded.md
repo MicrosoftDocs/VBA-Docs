@@ -20,7 +20,7 @@ Occurs when the form region expands or collapses
 
  _expression_. 'Expanded'( '_Expand_' )
 
- _expression_ A variable that represents a **FormRegion** object.
+ _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ### Parameters

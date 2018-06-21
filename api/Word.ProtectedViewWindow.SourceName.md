@@ -20,7 +20,7 @@ Returns the name of the source file for the specified protected view window. Rea
 
  _expression_. 'SourceName'
 
- _expression_ An expression that returns a **[ProtectedViewWindow](Word.ProtectedViewWindow.md)** object.
+ _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 
 
 ## Remarks

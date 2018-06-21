@@ -20,7 +20,7 @@ Returns a  **SynonymInfo** object that contains information from the thesaurus o
 
  _expression_. 'SynonymInfo'( '_Word_' , '_LanguageID_' )
 
- _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ### Parameters

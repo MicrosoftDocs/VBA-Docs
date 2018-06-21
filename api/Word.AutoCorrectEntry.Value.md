@@ -20,7 +20,7 @@ Returns or sets the value of the AutoCorrect entry. Read/write  **String** .
 
  _expression_. 'Value'
 
- _expression_ Required. A variable that represents an **[AutoCorrectEntry](Word.AutoCorrectEntry.md)** object.
+ _expression_ Required. A variable that represents an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the number of periods (or units on a scatter chart) that the tre
 
  _expression_. 'Backward2'
 
- _expression_ A variable that represents a **Trendline** object.
+ _expression_ A variable that represents a [Trendline](./Excel.Trendline(Graph object).md) object.
 
 
 ## Example

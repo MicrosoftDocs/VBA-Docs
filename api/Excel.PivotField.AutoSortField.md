@@ -20,7 +20,7 @@ Returns the name of the data field used to sort the specified PivotTable field a
 
  _expression_. 'AutoSortField'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## Example

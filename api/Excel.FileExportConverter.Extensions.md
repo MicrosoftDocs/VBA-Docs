@@ -20,7 +20,7 @@ Returns the file name extensions associated with the specified  **[FileExportCon
 
  _expression_. 'Extensions'
 
- _expression_ A variable that represents a **FileExportConverter** object.
+ _expression_ A variable that represents a [FileExportConverter](./Excel.FileExportConverter.md) object.
 
 
 ## Example

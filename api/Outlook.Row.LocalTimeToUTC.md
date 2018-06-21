@@ -20,7 +20,7 @@ Obtains a  **Date** value in a **[Table](Outlook.Table.md)** specified by the **
 
  _expression_. 'LocalTimeToUTC'( '_Index_' )
 
- _expression_ A variable that represents a **Row** object.
+ _expression_ A variable that represents a [Row](./Outlook.Row.md) object.
 
 
 ### Parameters

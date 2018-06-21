@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that determines if the specified folder will be s
 
  _expression_. 'InAppFolderSyncObject'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Remarks

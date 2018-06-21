@@ -20,7 +20,7 @@ Occurs when the control receives focus, immediately after the previous control's
 
  _expression_. 'Enter'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

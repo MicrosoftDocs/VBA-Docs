@@ -18,7 +18,7 @@ Returns a  **Boolean** that indicates whether the specified document is in compa
 
  _expression_. 'CompatibilityMode'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ## Property value

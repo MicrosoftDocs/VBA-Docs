@@ -17,7 +17,7 @@ Gets the index of an  **Exception** object in the containing **Exceptions** coll
 
  _expression_. 'Index'
 
- _expression_ A variable that represents an **Exception** object.
+ _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## Remarks

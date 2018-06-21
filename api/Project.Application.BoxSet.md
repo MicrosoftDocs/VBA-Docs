@@ -20,7 +20,7 @@ Creates, selects, or moves a task in the Network Diagram view.
 
  _expression_. 'BoxSet'( ' _action_', ' _TaskID_', ' _XPosition_', ' _YPosition_', ' _ProjectName_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

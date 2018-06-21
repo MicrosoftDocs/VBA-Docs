@@ -20,7 +20,7 @@ Removes the item from the folder that contains the item.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **TaskRequestAcceptItem** object.
+ _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

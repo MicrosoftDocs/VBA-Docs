@@ -20,7 +20,7 @@ Returns a  **[Sources](Word.Sources.md)** collection that represents all the sou
 
  _expression_. 'Sources'
 
- _expression_ An expression that returns a **[Bibliography](Word.Bibliography.md)** object.
+ _expression_ An expression that returns a '[Bibliography](Word.Bibliography.md)' object.
 
 
 ## See also

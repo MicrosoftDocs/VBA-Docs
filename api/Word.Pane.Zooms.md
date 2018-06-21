@@ -20,7 +20,7 @@ Returns a  **[Zooms](Word.zooms.md)** collection that represents the magnificati
 
  _expression_. 'Zooms'
 
- _expression_ An expression that returns a **[Pane](Word.Pane.md)** object.
+ _expression_ An expression that returns a '[Pane](Word.Pane.md)' object.
 
 
 ## Remarks

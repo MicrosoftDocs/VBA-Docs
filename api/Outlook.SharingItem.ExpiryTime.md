@@ -20,7 +20,7 @@ Returns or sets a  **Date** indicating the date and time at which the **[Sharing
 
  _expression_. 'ExpiryTime'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

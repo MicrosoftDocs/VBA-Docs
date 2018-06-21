@@ -20,7 +20,7 @@ Returns or sets the formatting for the tables of figures in the specified docume
 
  _expression_. 'Format'
 
- _expression_ Required. A variable that represents a **[TablesOfFigures](Word.tablesoffigures.md)** collection.
+ _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
 ## See also

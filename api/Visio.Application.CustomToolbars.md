@@ -20,7 +20,7 @@ Gets a  **UIObject** object that represents the current custom toolbars and stat
 
  _expression_. 'CustomToolbars'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

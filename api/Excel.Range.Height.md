@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the height, in points, of t
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## See also

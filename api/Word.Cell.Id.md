@@ -20,7 +20,7 @@ Returns or sets the identifying label for the specified object when the current 
 
  _expression_. 'ID'
 
- _expression_ Required. A variable that represents a **[Cell](Word.Cell.md)** object.
+ _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ## Remarks

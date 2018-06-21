@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object specifying the cell range t
 
  _expression_. 'AppliesTo'
 
- _expression_ A variable that represents a **Databar** object.
+ _expression_ A variable that represents a [Databar](./Excel.Databar.md) object.
 
 
 ## See also

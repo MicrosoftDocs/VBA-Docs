@@ -20,7 +20,7 @@ Returns or sets whether text should wrap around the specified rows. Read/write  
 
  _expression_. 'WrapAroundText'
 
- _expression_ An expression that returns a **Rows** object.
+ _expression_ An expression that returns a 'Rows' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether n-ary operators grow to t
 
  _expression_. 'Grow'
 
- _expression_ An expression that returns an **[OMathNary](Word.OMathNary.md)** object.
+ _expression_ An expression that returns an '[OMathNary](Word.OMathNary.md)' object.
 
 
 ## See also

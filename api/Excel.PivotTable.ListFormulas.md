@@ -20,7 +20,7 @@ Creates a list of calculated PivotTable items and fields on a separate worksheet
 
  _expression_. 'ListFormulas'
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ExpandHeadingsOnOpen'
 
- _expression_ A variable that represents a **Options** object.
+ _expression_ A variable that represents a [Options](./Word.Options.md) object.
 
 
 ## Property value

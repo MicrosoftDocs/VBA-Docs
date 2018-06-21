@@ -20,7 +20,7 @@ Restores a previously deleted placeholder on a slide. Returns a  **[Shape](Power
 
  _expression_. 'AddPlaceholder'( '_Type_', '_Left_', '_Top_', '_Width_', '_Height_' )
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ### Parameters

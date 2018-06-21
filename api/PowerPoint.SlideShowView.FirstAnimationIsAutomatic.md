@@ -20,7 +20,7 @@ Returns  **True** if the current slide has an initial animation that runs automa
 
  _expression_. 'FirstAnimationIsAutomatic'
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ### Return Value

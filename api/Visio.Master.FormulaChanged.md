@@ -18,9 +18,9 @@ Occurs after a formula changes in a cell in the object that receives the event.
 
 ## Syntax
 
-Private Sub  _expression_ _**FormulaChanged**( **_ByVal Cell As [IVCELL]_** )
+Private Sub  _expression_ _'FormulaChanged'( **_ByVal Cell As [IVCELL]_** )
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether background colors and ima
 
  _expression_. 'DisplayBackgrounds'
 
- _expression_ An expression that returns a **[View](Word.View.md)** object.
+ _expression_ An expression that returns a '[View](Word.View.md)' object.
 
 
 ## Remarks

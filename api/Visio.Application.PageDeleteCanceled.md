@@ -15,9 +15,9 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _**PageDeleteCanceled**( **_ByVal Page As [IVPAGE]_** )
+Private Sub  _expression_ _'PageDeleteCanceled'( **_ByVal Page As [IVPAGE]_** )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Parameters

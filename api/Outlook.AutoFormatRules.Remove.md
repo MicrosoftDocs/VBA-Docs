@@ -20,7 +20,7 @@ Removes an object from the collection.
 
  _expression_. 'Remove'( '_Index_' )
 
- _expression_ A variable that represents an **AutoFormatRules** object.
+ _expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
 
 
 ### Parameters

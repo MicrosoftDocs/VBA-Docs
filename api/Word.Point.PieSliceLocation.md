@@ -20,7 +20,7 @@ Returns the vertical or horizontal position of a point on a chart item, in point
 
  _expression_. 'PieSliceLocation'( '_loc_' , '_Index_' )
 
- _expression_ A variable that represents a **[Point](Word.Point.md)** object.
+ _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 
 
 ### Parameters

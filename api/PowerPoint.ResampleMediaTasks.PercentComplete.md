@@ -20,7 +20,7 @@ Returns the percentage of completion of the sample. Read-only.
 
  _expression_. 'PercentComplete'
 
- _expression_ A variable that represents a **ResampleMediaTasks** object.
+ _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 
 
 ## See also

@@ -17,7 +17,7 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
  _expression_. 'BeforeRead'
 
- _expression_ A variable that represents a **PostItem** object.
+ _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## Remarks

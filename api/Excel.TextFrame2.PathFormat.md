@@ -17,7 +17,7 @@ Returns or sets the path type for the specified text frame. Read/write  **[MsoPa
 
  _expression_. 'PathFormat'
 
- _expression_ A variable that represents a **TextFrame2** object.
+ _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Edits days in a resource calendar.
 
  _expression_. 'ResourceCalendarEditDays'( ' _ProjectName_', ' _ResourceName_', ' _StartDate_', ' _EndDate_', ' _WeekDay_', ' _Working_', ' _Default_', ' _From1_', ' _To1_', ' _From2_', ' _To2_', ' _From3_', ' _To3_', ' _From4_', ' _To4_', ' _From5_', ' _To5_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

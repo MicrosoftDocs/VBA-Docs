@@ -20,7 +20,7 @@ Returns the status of creating a video in the current  **Presentation**. Read-on
 
  _expression_. 'CreateVideoStatus'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## See also

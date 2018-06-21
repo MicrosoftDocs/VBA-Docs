@@ -20,7 +20,7 @@ Returns the build number of the running instance. Read-only.
 
  _expression_. 'Build'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

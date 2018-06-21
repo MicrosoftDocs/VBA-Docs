@@ -17,6 +17,6 @@ Gets or sets the start of the intervals for a field used as a criterion in a gro
 
  _expression_. 'StartAt'
 
- _expression_ A variable that represents a **GroupCriterion** object.
+ _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 
 

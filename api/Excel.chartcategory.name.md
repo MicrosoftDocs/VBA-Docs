@@ -18,7 +18,7 @@ Returns a  **String** value that represents the name of the object.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **ChartCategory** object.
+ _expression_ A variable that represents a 'ChartCategory' object.
 
 
 ## Property value

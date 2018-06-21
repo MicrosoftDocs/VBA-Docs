@@ -20,7 +20,7 @@ Returns a  **[ProtectedViewWindows](PowerPoint.ProtectedViewWindows.md)** collec
 
  _expression_. 'ProtectedViewWindows'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## See also

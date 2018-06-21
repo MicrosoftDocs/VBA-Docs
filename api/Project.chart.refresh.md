@@ -13,7 +13,7 @@ Redraws a chart, to show updated information.
 
  _expression_. 'Refresh'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ### Return value

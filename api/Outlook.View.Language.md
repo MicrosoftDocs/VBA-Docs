@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the language setting for the
 
  _expression_. 'Language'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./Outlook.View.md) object.
 
 
 ## Remarks

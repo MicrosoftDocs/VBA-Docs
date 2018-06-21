@@ -17,7 +17,7 @@ Occurs when an attachment in an instance of the parent object has been opened fo
 
  _expression_. 'AttachmentRead'( '_Attachment_' )
 
- _expression_ A variable that represents a **TaskRequestDeclineItem** object.
+ _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
 
 
 ### Parameters

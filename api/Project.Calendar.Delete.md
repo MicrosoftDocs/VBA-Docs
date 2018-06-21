@@ -17,7 +17,7 @@ Deletes the  **Calendar** object from a **Calendars** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Calendar** object.
+ _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
 
 ## Remarks

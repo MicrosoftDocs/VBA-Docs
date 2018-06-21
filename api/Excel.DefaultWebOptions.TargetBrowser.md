@@ -20,7 +20,7 @@ Returns or sets an  **[MsoTargetBrowser](http://msdn.microsoft.com/library/6ce56
 
  _expression_. 'TargetBrowser'
 
- _expression_ A variable that represents a **DefaultWebOptions** object.
+ _expression_ A variable that represents a [DefaultWebOptions](./Excel.DefaultWebOptions.md) object.
 
 
 ## Remarks

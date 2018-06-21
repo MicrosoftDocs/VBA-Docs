@@ -17,7 +17,7 @@ Gets the remaining overtime work (in minutes) for the resource. Read-only  **Var
 
  _expression_. 'RemainingOvertimeWork'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the direction in which the active cell is moved when the user pr
 
  _expression_. 'MoveAfterReturnDirection'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

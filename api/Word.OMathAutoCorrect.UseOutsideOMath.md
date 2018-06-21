@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word uses math 
 
  _expression_. 'UseOutsideOMath'
 
- _expression_ An expression that returns an **[OMathAutoCorrect](Word.OMathAutoCorrect.md)** object.
+ _expression_ An expression that returns an '[OMathAutoCorrect](Word.OMathAutoCorrect.md)' object.
 
 
 ## See also

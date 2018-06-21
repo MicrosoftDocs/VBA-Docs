@@ -20,7 +20,7 @@ Returns or sets the priority value of the conditional formatting rule. The prior
 
  _expression_. 'Priority'
 
- _expression_ A variable that represents a **Databar** object.
+ _expression_ A variable that represents a [Databar](./Excel.Databar.md) object.
 
 
 ## Remarks

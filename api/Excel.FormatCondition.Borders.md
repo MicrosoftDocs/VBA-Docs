@@ -20,7 +20,7 @@ Returns a  **[Borders](Excel.Borders.md)** collection that represents the border
 
  _expression_. 'Borders'
 
- _expression_ A variable that represents a **FormatCondition** object.
+ _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Deletes the specified matrix row.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns an **OMathMatRow** object.
+ _expression_ An expression that returns an [OMathMatRow](./Word.OMathMatRow.md) object.
 
 
 ## See also

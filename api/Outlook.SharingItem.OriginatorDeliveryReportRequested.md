@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines whether the originator of t
 
  _expression_. 'OriginatorDeliveryReportRequested'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -17,6 +17,6 @@ Gets or sets the standard rate of the pay rate. Read/write  **Variant**.
 
  _expression_. 'StandardRate'
 
- _expression_ A variable that represents a **PayRate** object.
+ _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 
 

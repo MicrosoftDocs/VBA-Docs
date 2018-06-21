@@ -20,7 +20,7 @@ Returns a  **[CommandBars](http://msdn.microsoft.com/library/0e312e21-14ee-5055-
 
  _expression_. 'CommandBars'
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

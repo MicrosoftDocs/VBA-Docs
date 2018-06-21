@@ -20,7 +20,7 @@ Sets or returns a  **Variant** that represents the ending value of an object's p
 
  _expression_. 'To'
 
- _expression_ A variable that represents a **PropertyEffect** object.
+ _expression_ A variable that represents a [PropertyEffect](./PowerPoint.PropertyEffect.md) object.
 
 
 ### Return Value

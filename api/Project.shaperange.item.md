@@ -13,7 +13,7 @@ Gets an individual  **Shape** object in the shape range collection.
 
  _expression_. 'Item' _(Index)_
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the position of the specified shape in the z-order. Read-only  **Long** 
 
  _expression_. 'ZOrderPosition'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Remarks

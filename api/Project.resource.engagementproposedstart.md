@@ -18,6 +18,6 @@ Returns the proposed start date for the engagement. Read-only  **DateType**. Int
 
  _expression_. 'EngagementProposedStart'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

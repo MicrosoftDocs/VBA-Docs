@@ -20,7 +20,7 @@ Returns a  **String** that specifies the entry that appears on the undo stack wh
 
  _expression_. 'CustomRecordName'
 
- _expression_ A variable that represents a **[UndoRecord](Word.UndoRecord.md)** object.
+ _expression_ A variable that represents a '[UndoRecord](Word.UndoRecord.md)' object.
 
 
 ## Remarks

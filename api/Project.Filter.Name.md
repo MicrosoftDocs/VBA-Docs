@@ -20,7 +20,7 @@ Gets the name of a  **Filter** object. Read/write **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Filter** object.
+ _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 
 
 ## Remarks

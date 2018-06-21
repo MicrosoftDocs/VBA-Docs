@@ -20,7 +20,7 @@ Returns or sets the font used for ASCII characters (characters with character se
 
  _expression_. 'NameAscii'
 
- _expression_ A variable that represents a **Font** object.
+ _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Copies the specified XML element, excluding XML markup, to the Clipboard.
 
  _expression_. 'Copy'
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ### Return Value

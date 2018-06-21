@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word automatica
 
  _expression_. 'ReplaceText'
 
- _expression_ An expression that returns an **[OMathAutoCorrect](Word.OMathAutoCorrect.md)** object.
+ _expression_ An expression that returns an '[OMathAutoCorrect](Word.OMathAutoCorrect.md)' object.
 
 
 ## See also

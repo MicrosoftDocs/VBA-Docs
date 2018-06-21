@@ -20,7 +20,7 @@ Returns an  **[AddressList](Outlook.AddressList.md)** object from the collection
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents an **AddressLists** object.
+ _expression_ A variable that represents an [AddressLists](./Outlook.AddressLists.md) object.
 
 
 ### Parameters

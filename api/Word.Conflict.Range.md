@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Range'
 
- _expression_ An expression that returns a **Conflict** object.
+ _expression_ An expression that returns a [Conflict](./Word.Conflict.md) object.
 
 
 ## Example

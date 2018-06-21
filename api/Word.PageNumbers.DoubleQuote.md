@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'DoubleQuote'
 
- _expression_ An expression that returns a **[PageNumbers](Word.pagenumbers.md)** object.
+ _expression_ An expression that returns a '[PageNumbers](Word.pagenumbers.md)' object.
 
 
 ## Remarks

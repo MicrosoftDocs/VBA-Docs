@@ -20,7 +20,7 @@ Returns or sets a  **Date** value that represents the ordinal value of the task 
 
  _expression_. 'ToDoTaskOrdinal'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

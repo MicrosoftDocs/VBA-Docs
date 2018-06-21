@@ -15,7 +15,7 @@ Gets a  **Long** value indicating the starting point of the specified text range
 
  _expression_. 'Start'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ### Return Value

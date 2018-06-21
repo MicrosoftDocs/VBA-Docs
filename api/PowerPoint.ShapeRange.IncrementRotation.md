@@ -20,7 +20,7 @@ Changes the rotation of the specified shape range around the z-axis by the speci
 
  _expression_. 'IncrementRotation'( '_Increment_' )
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Parameters

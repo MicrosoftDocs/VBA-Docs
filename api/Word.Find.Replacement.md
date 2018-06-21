@@ -20,7 +20,7 @@ Returns a  **[Replacement](Word.Replacement.md)** object that contains the crite
 
  _expression_. 'Replacement'
 
- _expression_ An expression that returns a **[Find](Word.Find.md)** object.
+ _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
 
 ## Example

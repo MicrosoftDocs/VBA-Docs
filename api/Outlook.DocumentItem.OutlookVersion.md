@@ -20,7 +20,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
  _expression_. 'OutlookVersion'
 
- _expression_ A variable that represents a **DocumentItem** object.
+ _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
 
 
 ## See also

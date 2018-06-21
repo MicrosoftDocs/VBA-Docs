@@ -20,7 +20,7 @@ Specifies a formula to use when assigning a value to a custom field.
 
  _expression_. 'CustomFieldSetFormula'( ' _FieldID_', ' _Formula_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

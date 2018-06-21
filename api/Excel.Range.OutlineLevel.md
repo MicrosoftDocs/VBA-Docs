@@ -20,7 +20,7 @@ Returns or sets the current outline level of the specified row or column. Read/w
 
  _expression_. 'OutlineLevel'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Remarks

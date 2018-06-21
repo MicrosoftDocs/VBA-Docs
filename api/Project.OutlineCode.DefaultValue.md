@@ -17,6 +17,6 @@ Gets or sets the default value of the  **[OutlineCode](Project.OutlineCode.md)**
 
  _expression_. 'DefaultValue'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 

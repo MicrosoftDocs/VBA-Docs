@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of revisions in the collection. R
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Revisions](Word.revisions.md)** collection.
+ _expression_ Required. A variable that represents a '[Revisions](Word.revisions.md)' collection.
 
 
 ## See also

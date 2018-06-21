@@ -20,7 +20,7 @@ Makes a copy of a group definition for the  **Tables** collection and returns a 
 
  _expression_. 'Copy'( ' _Source_', ' _NewName_' )
 
- _expression_ A variable that represents a **Tables** object.
+ _expression_ A variable that represents a 'Tables' object.
 
 
 ### Parameters

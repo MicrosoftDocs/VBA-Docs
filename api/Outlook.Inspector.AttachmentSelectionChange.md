@@ -20,7 +20,7 @@ Occurs when the user selects a different or additional attachment of an item in 
 
  _expression_. 'AttachmentSelectionChange'
 
- _expression_ A variable that represents an **[Inspector](Outlook.Inspector.md)** object.
+ _expression_ A variable that represents an '[Inspector](Outlook.Inspector.md)' object.
 
 
 ## Remarks

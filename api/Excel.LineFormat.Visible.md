@@ -20,7 +20,7 @@ Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **LineFormat** object.
+ _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
 
 
 ## See also

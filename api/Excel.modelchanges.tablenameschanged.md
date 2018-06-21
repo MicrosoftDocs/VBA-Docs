@@ -18,7 +18,7 @@ Returns a [ModelTableNameChanges Object (Excel)](modeltablenamechanges-object-ex
 
  _expression_. 'TableNamesChanged'
 
- _expression_ A variable that represents a **ModelChanges** object.
+ _expression_ A variable that represents a 'ModelChanges' object.
 
 
 ## Property value

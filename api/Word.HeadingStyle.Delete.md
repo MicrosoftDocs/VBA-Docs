@@ -20,7 +20,7 @@ Deletes the specified heading style.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[HeadingStyle](Word.HeadingStyle.md)** object.
+ _expression_ Required. A variable that represents a '[HeadingStyle](Word.HeadingStyle.md)' object.
 
 
 ## See also

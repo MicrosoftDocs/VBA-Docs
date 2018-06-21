@@ -20,7 +20,7 @@ Returns the  **[Page](Visio.Page.md)** object that is associated with the **Rela
 
  _expression_. 'ContainingPage'
 
- _expression_ A variable that represents a **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)** object.
+ _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 
 
 ### Return Value

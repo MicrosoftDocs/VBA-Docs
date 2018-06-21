@@ -20,7 +20,7 @@ Removes manual character formatting (formatting not applied using a style). For 
 
  _expression_. 'Reset'
 
- _expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
+ _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 
 
 ## Example

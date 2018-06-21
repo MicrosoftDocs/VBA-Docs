@@ -20,7 +20,7 @@ Returns a  **Long** value indicating the count of **[Category](Outlook.Category.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Categories** object.
+ _expression_ A variable that represents a [Categories](./Outlook.Categories.md) object.
 
 
 ## See also

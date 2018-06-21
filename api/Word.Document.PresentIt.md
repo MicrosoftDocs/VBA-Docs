@@ -20,7 +20,7 @@ Opens PowerPoint with the specified Word document loaded.
 
  _expression_. 'PresentIt'
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Informs a Microsoft Visio instance that client code is causing the instance to e
 
  _expression_. 'OnComponentEnterState'( '_uStateID_' , '_bEnter_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Parameters

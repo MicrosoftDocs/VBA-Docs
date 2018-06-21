@@ -20,7 +20,7 @@ Restores the built-in Microsoft Visio user interface.
 
  _expression_. 'ClearCustomMenus'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

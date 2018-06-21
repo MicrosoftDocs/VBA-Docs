@@ -17,6 +17,6 @@ Gets or sets the baseline start date of a  **Task**. Read/write **Variant**.
 
  _expression_. 'Baseline8Start'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

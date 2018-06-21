@@ -20,7 +20,7 @@ Returns a  **[PrintOptions](PowerPoint.PrintOptions.md)** object that represents
 
  _expression_. 'PrintOptions'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
 ### Return Value

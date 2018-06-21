@@ -20,7 +20,7 @@ Inserts a caption immediately preceding or following the specified selection.
 
  _expression_. 'InsertCaption'( '_Label_' , '_Title_' , '_TitleAutoText_' , '_Position_' , '_ExcludeLabel_' )
 
- _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
+ _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ### Parameters

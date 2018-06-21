@@ -20,7 +20,7 @@ Returns a  **[KeyBindings](Word.keybindings.md)** collection that represents cus
 
  _expression_. 'KeyBindings'
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Example

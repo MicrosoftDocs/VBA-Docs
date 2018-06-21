@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the text of an automatic response for
 
  _expression_. 'AutoResponse'
 
- _expression_ A variable that represents a **Recipient** object.
+ _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
 
 
 ## See also

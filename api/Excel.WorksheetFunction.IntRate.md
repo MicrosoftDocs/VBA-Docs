@@ -20,7 +20,7 @@ Returns the interest rate for a fully invested security.
 
  _expression_. 'IntRate'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' , '_Arg5_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_. 'Session'
 
- _expression_ A variable that represents a **Folders** object.
+ _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
 ## Remarks

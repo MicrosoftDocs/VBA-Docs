@@ -17,7 +17,7 @@ Gets the name of the  **OutlineCode** object. Read/write **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 
 ## Remarks

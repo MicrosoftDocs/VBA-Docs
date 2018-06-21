@@ -20,7 +20,7 @@ Ends side-by-side mode if two windows are in side-by-side mode. Returns a  **Boo
 
  _expression_. 'BreakSideBySide'
 
- _expression_ A variable that represents a **Windows** object.
+ _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 
 ### Return Value

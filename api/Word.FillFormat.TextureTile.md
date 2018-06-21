@@ -20,7 +20,7 @@ Returns or sets whether the texture fill is tiled or centered. Read/write.
 
  _expression_. 'TextureTile'
 
- _expression_ An expression that returns a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks

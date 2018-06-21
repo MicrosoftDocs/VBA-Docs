@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of key bindings in the collection
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[KeyBindings](Word.keybindings.md)** collection.
+ _expression_ Required. A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
 
 ## See also

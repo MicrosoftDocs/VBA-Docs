@@ -23,7 +23,7 @@ Returns an array of shape IDs of shapes on the page, as specifed by their unique
 
  _expression_. 'UniqueIDsToShapeIDs'( '_GUIDs()_' , '_ShapeIDs()_' )
 
- _expression_ An expression that returns a **Page** object.
+ _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
 
 ### Parameters

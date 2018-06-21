@@ -20,7 +20,7 @@ Returns a  **Range** object that represents the portion of a document that is co
 
  _expression_. 'Range'
 
- _expression_ Required. A variable that represents a **[Hyperlink](Word.Hyperlink.md)** object.
+ _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## See also

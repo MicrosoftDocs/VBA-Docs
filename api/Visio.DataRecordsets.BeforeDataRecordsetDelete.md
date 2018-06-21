@@ -21,9 +21,9 @@ Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets**
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeDataRecordsetDelete**( **_ByVal DataRecordset As IVDATARECORDSET_** )
+Private Sub  _expression_ _'BeforeDataRecordsetDelete'( **_ByVal DataRecordset As IVDATARECORDSET_** )
 
- _expression_ An expression that returns a **DataRecordsets** object.
+ _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
 
 ### Parameters

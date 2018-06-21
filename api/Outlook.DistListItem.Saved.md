@@ -20,7 +20,7 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 
  _expression_. 'Saved'
 
- _expression_ A variable that represents a **DistListItem** object.
+ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## See also

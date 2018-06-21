@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HangulAndAlphabetAutoAdd'
 
- _expression_ An expression that returns an **[AutoCorrect](Word.AutoCorrect.md)** object.
+ _expression_ An expression that returns an '[AutoCorrect](Word.AutoCorrect.md)' object.
 
 
 ## Remarks

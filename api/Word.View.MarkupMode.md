@@ -20,7 +20,7 @@ Returns or sets a  **[WdRevisionsMode](Word.WdRevisionsMode.md)** constant that 
 
  _expression_. 'MarkupMode'
 
- _expression_ An expression that returns a **View** object.
+ _expression_ An expression that returns a [View](./Word.View.md) object.
 
 
 ## See also

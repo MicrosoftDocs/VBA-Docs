@@ -18,7 +18,7 @@ Opens a Excel data grid window that contains the full source data for the specif
 
  _expression_. 'ActivateChartDataWindow'
 
- _expression_ A variable that represents a **ChartData** object.
+ _expression_ A variable that represents a [ChartData](./Word.ChartData.md) object.
 
 
 ### Return value

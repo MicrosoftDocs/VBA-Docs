@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'SaveFormsData'
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Example

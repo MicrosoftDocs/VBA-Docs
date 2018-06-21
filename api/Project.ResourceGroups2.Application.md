@@ -17,7 +17,7 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
  _expression_. 'Application'
 
- _expression_ An expression that returns a **ResourceGroups2** object.
+ _expression_ An expression that returns a 'ResourceGroups2' object.
 
 
 ### Return Value

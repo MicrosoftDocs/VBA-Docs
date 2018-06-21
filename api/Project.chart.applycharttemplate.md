@@ -13,7 +13,7 @@ Applies a standard or custom chart type to a chart.
 
  _expression_. 'ApplyChartTemplate' _(bstrFileName)_
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the programmatic identifier of a shape that represents an ActiveX contro
 
  _expression_. 'ProgID'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

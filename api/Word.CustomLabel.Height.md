@@ -20,7 +20,7 @@ Returns or sets the height of a specified custom mailing label, in points. Read/
 
  _expression_. 'Height'
 
- _expression_ An expression that returns a **[CustomLabel](Word.CustomLabel.md)** object.
+ _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 
 
 ## See also

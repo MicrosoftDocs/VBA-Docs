@@ -20,7 +20,7 @@ Returns a  **String** that specifies a unique identifier for the specified autho
 
  _expression_. 'ID'
 
- _expression_ An expression that returns a **CoAuthor** object.
+ _expression_ An expression that returns a [CoAuthor](./Word.CoAuthor.md) object.
 
 
 ## Remarks

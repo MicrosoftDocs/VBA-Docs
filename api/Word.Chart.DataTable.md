@@ -17,7 +17,7 @@ Returns the chart data table. Read-only  **[DataTable](Word.DataTable.md)** .
 
  _expression_. 'DataTable'
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ## Example

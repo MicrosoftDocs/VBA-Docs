@@ -20,7 +20,7 @@ Returns an  **[OLEFormat](Excel.OLEFormat.md)** object that contains OLE object 
 
  _expression_. 'OLEFormat'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

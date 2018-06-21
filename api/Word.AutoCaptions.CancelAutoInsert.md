@@ -20,7 +20,7 @@ Prevents Word from automatically adding captions to any type of item.
 
  _expression_. 'CancelAutoInsert'
 
- _expression_ An expression that returns an **[AutoCaptions](Word.autocaptions.md)** object.
+ _expression_ An expression that returns an '[AutoCaptions](Word.autocaptions.md)' object.
 
 
 ## Example

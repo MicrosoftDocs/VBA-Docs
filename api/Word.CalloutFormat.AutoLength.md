@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'AutoLength'
 
- _expression_ Required. A variable that represents a **[CalloutFormat](Word.CalloutFormat.md)** object.
+ _expression_ Required. A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Remarks

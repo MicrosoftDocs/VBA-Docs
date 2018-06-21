@@ -20,7 +20,7 @@ Returns or sets the type of action that will occur when the specified shape is c
 
  _expression_. 'Action'
 
- _expression_ A variable that represents an **ActionSetting** object.
+ _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a  **Date** indicating the starting date and time for the Outloo
 
  _expression_. 'Start'
 
- _expression_ A variable that represents a **JournalItem** object.
+ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## See also

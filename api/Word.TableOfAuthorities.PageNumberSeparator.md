@@ -20,7 +20,7 @@ Returns of sets the characters (up to five) that separate individual page refere
 
  _expression_. 'PageNumberSeparator'
 
- _expression_ An expression that returns a **[TableOfAuthorities](Word.TableOfAuthorities.md)** object.
+ _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 
 
 ## Remarks

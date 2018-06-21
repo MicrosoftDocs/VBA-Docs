@@ -20,7 +20,7 @@ Sets the evaluation order for this conditional formatting rule so it is evaluate
 
  _expression_. 'SetLastPriority'
 
- _expression_ A variable that represents a **Top10** object.
+ _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 
 
 ## Remarks

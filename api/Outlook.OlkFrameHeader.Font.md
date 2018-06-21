@@ -20,7 +20,7 @@ Returns a  **StdFont** that represents the font used to render the text inside t
 
  _expression_. 'Font'
 
- _expression_ A variable that represents an **OlkFrameHeader** object.
+ _expression_ A variable that represents an [OlkFrameHeader](./Outlook.OlkFrameHeader.md) object.
 
 
 ## Remarks

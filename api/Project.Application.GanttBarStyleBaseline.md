@@ -20,7 +20,7 @@ Shows or hides the specified baseline on Gantt bars of the active view.
 
  _expression_. 'GanttBarStyleBaseline'( ' _Baseline_', ' _Show_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

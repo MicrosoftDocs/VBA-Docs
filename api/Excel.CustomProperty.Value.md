@@ -20,7 +20,7 @@ Synonym for  **[Borders.LineStyle](Excel.Borders.LineStyle.md)** .
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **CustomProperty** object.
+ _expression_ A variable that represents a [CustomProperty](./Excel.CustomProperty.md) object.
 
 
 ## See also

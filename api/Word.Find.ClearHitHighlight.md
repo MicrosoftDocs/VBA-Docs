@@ -20,7 +20,7 @@ Removes the highlighting for all text located in a hit highlighting find operati
 
  _expression_. 'ClearHitHighlight'
 
- _expression_ An expression that returns a **[Find](Word.Find.md)** object.
+ _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
 
 ### Return Value

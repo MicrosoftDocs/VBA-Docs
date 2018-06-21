@@ -20,7 +20,7 @@ Returns a  **[Categories](Outlook.Categories.md)** collection that represents al
 
  _expression_. 'Categories'
 
- _expression_ A variable that represents a **Store** object.
+ _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
 ## Remarks

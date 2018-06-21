@@ -20,7 +20,7 @@ Returns or sets a  **Single** that lightens or darkens the fill color of a cell 
 
  _expression_. 'TintAndShade'
 
- _expression_ A variable that represents a **FormatColor** object.
+ _expression_ A variable that represents a [FormatColor](./Excel.FormatColor.md) object.
 
 
 ## Remarks

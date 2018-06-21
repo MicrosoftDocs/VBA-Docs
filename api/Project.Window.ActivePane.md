@@ -20,6 +20,6 @@ Gets a  **[Pane](Project.Pane.md)** object that represents the active pane of a 
 
  _expression_. 'ActivePane'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 

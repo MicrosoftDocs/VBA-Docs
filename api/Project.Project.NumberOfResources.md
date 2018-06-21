@@ -20,6 +20,6 @@ Gets the number of resources in a project, not including blank entries. Read-onl
 
  _expression_. 'NumberOfResources'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

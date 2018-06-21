@@ -20,7 +20,7 @@ Returns a  **Design** object representing a design.
 
  _expression_. 'Design'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ### Return Value

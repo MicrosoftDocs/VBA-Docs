@@ -20,7 +20,7 @@ Determines whether an object behaves as a one-dimensional (1-D) object. Read-onl
 
  _expression_. 'OneD'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

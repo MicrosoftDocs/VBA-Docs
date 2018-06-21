@@ -20,7 +20,7 @@ Returns or sets a  **WdParagraphAlignment** constant that represents the alignme
 
  _expression_. 'Alignment'
 
- _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks

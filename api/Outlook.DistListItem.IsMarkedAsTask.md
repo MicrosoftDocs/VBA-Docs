@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates whether the **[DistListItem](Outlook
 
  _expression_. 'IsMarkedAsTask'
 
- _expression_ An expression that returns a **DistListItem** object.
+ _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## See also

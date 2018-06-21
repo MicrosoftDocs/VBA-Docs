@@ -17,7 +17,7 @@ Gets the index of a  **Resource** object in the containing **Resources** collect
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 
  _expression_. 'Application'
 
- _expression_ An expression that returns a **[CoAuthLock](Word.CoAuthLock.md)** object.
+ _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 
 
 ## See also

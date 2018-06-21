@@ -20,7 +20,7 @@ Deletes the specified shape node.
 
  _expression_. 'Delete'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[ShapeNodes](Word.shapenodes.md)** collection.
+ _expression_ Required. A variable that represents a '[ShapeNodes](Word.shapenodes.md)' collection.
 
 
 ### Parameters

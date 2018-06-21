@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the name of the template for the form. 
 
  _expression_. 'Template'
 
- _expression_ A variable that represents a **FormDescription** object.
+ _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Determines whether the specified shape retains its original proportions when you
 
  _expression_. 'LockAspectRatio'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

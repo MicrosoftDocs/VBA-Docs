@@ -20,7 +20,7 @@ Returns a  **ContentControlListEntry** object that represents the specified item
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns a **[ContentControlListEntries](Word.ContentControlListEntries.md)** object.
+ _expression_ An expression that returns a '[ContentControlListEntries](Word.ContentControlListEntries.md)' object.
 
 
 ### Parameters

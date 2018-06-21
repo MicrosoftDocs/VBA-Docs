@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'MailAsAttachment'
 
- _expression_ An expression that returns a **[MailMerge](Word.MailMerge.md)** object.
+ _expression_ An expression that returns a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Example

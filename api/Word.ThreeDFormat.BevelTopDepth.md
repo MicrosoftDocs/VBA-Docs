@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the depth of the top bevel. Read/w
 
  _expression_. 'BevelTopDepth'
 
- _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## See also

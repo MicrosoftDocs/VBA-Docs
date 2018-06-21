@@ -20,7 +20,7 @@ Returns or sets the height of the specified object, in points. Read/write.
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **ProtectedViewWindow** object.
+ _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## See also

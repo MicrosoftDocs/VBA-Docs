@@ -20,7 +20,7 @@ Returns or sets the number style for the endnotes. Read/write  **WdNoteNumberSty
 
  _expression_. 'NumberStyle'
 
- _expression_ Required. A variable that represents an **[EndnoteOptions](Word.EndnoteOptions.md)** collection.
+ _expression_ Required. A variable that represents an '[EndnoteOptions](Word.EndnoteOptions.md)' collection.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the shared or 
 
  _expression_. 'Folder'
 
- _expression_ A variable that represents a **NavigationFolder** object.
+ _expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
 
 
 ## See also

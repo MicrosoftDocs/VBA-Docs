@@ -20,7 +20,7 @@ Returns or sets the ScreenTip text for the specified hyperlink. Read/write  **St
 
  _expression_. 'ScreenTip'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Excel.Hyperlink.md) object.
 
 
 ## Remarks

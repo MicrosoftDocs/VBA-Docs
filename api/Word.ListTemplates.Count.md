@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of list templates in the collecti
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[ListTemplates](Word.listtemplates.md)** collection.
+ _expression_ Required. A variable that represents a '[ListTemplates](Word.listtemplates.md)' collection.
 
 
 ## See also

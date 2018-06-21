@@ -20,7 +20,7 @@ Multiplies the values in a column of a list or database that match conditions th
 
  _expression_. 'DProduct'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

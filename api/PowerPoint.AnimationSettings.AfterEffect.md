@@ -20,7 +20,7 @@ Returns or sets a  **PpAfterEffect** constant that indicates whether the specifi
 
  _expression_. 'AfterEffect'
 
- _expression_ A variable that represents an **AnimationSettings** object.
+ _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ## Remarks

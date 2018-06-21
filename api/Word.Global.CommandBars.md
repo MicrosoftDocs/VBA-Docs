@@ -20,7 +20,7 @@ Returns a  **CommandBars** collection that represents the menu bar and all the t
 
  _expression_. 'CommandBars'
 
- _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

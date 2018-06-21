@@ -20,7 +20,7 @@ Resets the endnote continuation notice to the default notice.
 
  _expression_. 'ResetContinuationNotice'
 
- _expression_ Required. A variable that represents an **[Endnotes](Word.endnotes.md)** collection.
+ _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
 
 ## Remarks

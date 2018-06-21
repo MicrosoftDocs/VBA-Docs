@@ -13,7 +13,7 @@ Gets a value that indicates whether the shape range is a connector. Read-only  *
 
  _expression_. 'Connector'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

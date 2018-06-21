@@ -15,7 +15,7 @@ Gets the width, in points, of the text bounding box for the specified text. Read
 
  _expression_. 'BoundWidth'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ### Return Value

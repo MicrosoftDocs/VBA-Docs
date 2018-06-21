@@ -20,7 +20,7 @@ Sets or returns a  **Variant** that represents a link between a paragraph and a 
 
  _expression_. 'LinkStyle'
 
- _expression_ An expression that returns a **[Style](Word.Style.md)** object.
+ _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 
 
 ## Remarks

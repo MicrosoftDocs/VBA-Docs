@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the spacing between the rows in an e
 
  _expression_. 'RowSpacing'
 
- _expression_ An expression that returns an **[OMathEqArray](Word.OMathEqArray.md)** object.
+ _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 
 
 ## See also

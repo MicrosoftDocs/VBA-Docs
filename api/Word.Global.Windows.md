@@ -20,7 +20,7 @@ Returns a  **Windows** collection that represents all open document windows. Rea
 
  _expression_. 'Windows'
 
- _expression_ A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

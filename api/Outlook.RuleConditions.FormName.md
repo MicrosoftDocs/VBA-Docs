@@ -20,7 +20,7 @@ Returns a  **[FormNameRuleCondition](Outlook.FormNameRuleCondition.md)** object 
 
  _expression_. 'FormName'
 
- _expression_ A variable that represents a **RuleConditions** object.
+ _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
 
 
 ## Remarks

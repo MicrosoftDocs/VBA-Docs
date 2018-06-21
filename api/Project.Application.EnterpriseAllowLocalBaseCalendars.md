@@ -20,7 +20,7 @@ True if enterprise projects can use local base calendars. Read-only  **Boolean**
 
  _expression_. 'EnterpriseAllowLocalBaseCalendars'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

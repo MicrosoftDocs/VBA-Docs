@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that determines if Outlook must resolve all recip
 
  _expression_. 'ForceResolution'
 
- _expression_ A variable that represents a **SelectNamesDialog** object.
+ _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

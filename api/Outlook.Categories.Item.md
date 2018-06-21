@@ -20,7 +20,7 @@ Returns a  **[Category](Outlook.Category.md)** object from the collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Categories** object.
+ _expression_ A variable that represents a [Categories](./Outlook.Categories.md) object.
 
 
 ### Parameters

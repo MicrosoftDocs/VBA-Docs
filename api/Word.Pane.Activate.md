@@ -20,7 +20,7 @@ Activates the specified pane.
 
  _expression_. 'Activate'
 
- _expression_ Required. A variable that represents a **[Pane](Word.Pane.md)** object.
+ _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Example

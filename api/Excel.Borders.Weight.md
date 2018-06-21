@@ -20,7 +20,7 @@ Returns or sets a  **[XlBorderWeight](Excel.XlBorderWeight.md)** value that repr
 
  _expression_. 'Weight'
 
- _expression_ A variable that represents a **Borders** object.
+ _expression_ A variable that represents a [Borders](./Excel.Borders.md) object.
 
 
 ## See also

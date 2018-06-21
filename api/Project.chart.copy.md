@@ -16,7 +16,7 @@ Copies a chart.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ### Return value

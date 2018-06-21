@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the URL of the Web page that is assigne
 
  _expression_. 'WebViewURL'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Example

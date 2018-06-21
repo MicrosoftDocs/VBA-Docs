@@ -20,7 +20,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **TextStyleLevel** object.
+ _expression_ A variable that represents a [TextStyleLevel](./PowerPoint.TextStyleLevel.md) object.
 
 
 ### Return Value

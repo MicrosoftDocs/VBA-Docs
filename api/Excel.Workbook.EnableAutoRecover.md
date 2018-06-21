@@ -20,7 +20,7 @@ Saves changed files, of all formats, on a timed interval. Read/write  **Boolean*
 
  _expression_. 'EnableAutoRecover'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Remarks

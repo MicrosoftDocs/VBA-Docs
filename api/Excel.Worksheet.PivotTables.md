@@ -20,7 +20,7 @@ Returns an object that represents either a single PivotTable report (a  **[Pivot
 
  _expression_. 'PivotTables'( '_Index_' )
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ### Parameters

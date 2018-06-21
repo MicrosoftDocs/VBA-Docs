@@ -17,7 +17,7 @@ Returns the  **TextColumn2** object that represents the columns within the text 
 
  _expression_. 'Column'
 
- _expression_ A variable that represents a **TextFrame2** object.
+ _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
 
 
 ## See also

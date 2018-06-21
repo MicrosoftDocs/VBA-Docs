@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents a contact's Microsoft Instant Mess
 
  _expression_. 'IMAddress'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

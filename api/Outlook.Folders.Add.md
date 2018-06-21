@@ -20,7 +20,7 @@ Creates a new folder in the  **[Folders](Outlook.Folders.md)** collection.
 
  _expression_. 'Add'( '_Name_' , '_Type_' )
 
- _expression_ A variable that represents a **Folders** object.
+ _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
 ### Parameters

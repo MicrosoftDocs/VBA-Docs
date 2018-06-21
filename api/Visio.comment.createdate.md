@@ -15,7 +15,7 @@ Returns the date the specified comment was created. Read-only  **Date**.
 
  _expression_. 'CreateDate'
 
- _expression_ A variable that represents a **Comment** object.
+ _expression_ A variable that represents a 'Comment' object.
 
 
 ## Property value

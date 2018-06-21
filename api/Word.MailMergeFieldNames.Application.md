@@ -20,7 +20,7 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 
  _expression_. 'Application'
 
- _expression_ An expression that returns a **MailMergeFieldNames** object.
+ _expression_ An expression that returns a [MailMergeFieldNames](./Word.MailMergeFieldNames.md) object.
 
 
 ## See also

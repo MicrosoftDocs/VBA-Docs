@@ -20,7 +20,7 @@ Returns or sets the web page Uniform Resource Locator (URL) for a web query. Rea
 
  _expression_. 'EditWebPage'
 
- _expression_ A variable that represents a **QueryTable** object.
+ _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ Gets or sets whether to display legend field buttons on a PivotChart. Read/write
 
  _expression_. 'ShowLegendFieldButtons'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Property value

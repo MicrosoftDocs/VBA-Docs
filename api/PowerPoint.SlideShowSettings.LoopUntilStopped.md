@@ -20,7 +20,7 @@ Determines whether specified slide show loops continuously until the user presse
 
  _expression_. 'LoopUntilStopped'
 
- _expression_ A variable that represents a **SlideShowSettings** object.
+ _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
 ## Remarks

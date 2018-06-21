@@ -17,6 +17,6 @@ Gets or sets the name of the field being grouped by. Read/write  **String**.
 
  _expression_. 'FieldName'
 
- _expression_ A variable that represents a **GroupCriterion** object.
+ _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 
 

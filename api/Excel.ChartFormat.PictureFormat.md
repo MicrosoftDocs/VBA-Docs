@@ -20,7 +20,7 @@ Returns a  **[PictureFormat](Excel.PictureFormat.md)** object for a specified ch
 
  _expression_. 'PictureFormat'
 
- _expression_ A variable that represents a **ChartFormat** object.
+ _expression_ A variable that represents a [ChartFormat](./Excel.ChartFormat.md) object.
 
 
 ## See also

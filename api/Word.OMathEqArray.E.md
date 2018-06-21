@@ -20,7 +20,7 @@ Returns an  **OMathArgs** object that represents the list of arguments for the s
 
  _expression_. 'E'
 
- _expression_ An expression that returns an **OMathEqArray** object.
+ _expression_ An expression that returns an [OMathEqArray](./Word.OMathEqArray.md) object.
 
 
 ## See also

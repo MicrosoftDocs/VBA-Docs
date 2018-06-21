@@ -20,7 +20,7 @@ Returns or sets the name of the person creating a letter with the Letter Wizard.
 
  _expression_. 'SenderName'
 
- _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

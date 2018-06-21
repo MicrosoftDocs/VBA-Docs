@@ -17,6 +17,6 @@ Gets or sets the unique identification number of the task in the assignment. Rea
 
  _expression_. 'TaskUniqueID'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

@@ -20,7 +20,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
  _expression_. 'SendUsingAccount'
 
- _expression_ An expression that returns a **MailItem** object.
+ _expression_ An expression that returns a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

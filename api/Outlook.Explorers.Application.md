@@ -20,7 +20,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **Explorers** object.
+ _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
 
 
 ## See also

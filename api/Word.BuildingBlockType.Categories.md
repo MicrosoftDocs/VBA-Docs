@@ -20,7 +20,7 @@ Returns a  **Categories** collection that represents the categories for a buildi
 
  _expression_. 'Categories'
 
- _expression_ An expression that returns a **[BuildingBlockType](Word.BuildingBlockType.md)** object.
+ _expression_ An expression that returns a '[BuildingBlockType](Word.BuildingBlockType.md)' object.
 
 
 ## See also

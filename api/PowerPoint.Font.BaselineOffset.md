@@ -20,7 +20,7 @@ Returns or sets the baseline offset for the specified superscript or subscript c
 
  _expression_. 'BaselineOffset'
 
- _expression_ A variable that represents a **Font** object.
+ _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
 
 ### Return Value

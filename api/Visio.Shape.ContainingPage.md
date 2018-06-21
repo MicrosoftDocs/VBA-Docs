@@ -20,7 +20,7 @@ Returns the page that contains an object.
 
  _expression_. 'ContainingPage'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that repr
 
  _expression_. 'ForeColor'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ### Return Value

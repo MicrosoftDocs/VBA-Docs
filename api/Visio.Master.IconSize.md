@@ -20,7 +20,7 @@ Gets or sets the size of a master icon. Read/write.
 
  _expression_. 'IconSize'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

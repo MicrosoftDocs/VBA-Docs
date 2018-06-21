@@ -20,7 +20,7 @@ Returns a  **Boolean** indicating whether the search is synchronous. Read-only.
 
  _expression_. 'IsSynchronous'
 
- _expression_ A variable that represents a **Search** object.
+ _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
 ## Remarks

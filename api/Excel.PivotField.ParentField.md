@@ -20,7 +20,7 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that represents the Pivo
 
  _expression_. 'ParentField'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## Example

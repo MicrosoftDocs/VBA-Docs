@@ -20,7 +20,7 @@ Occurs when a protected view window is deactivated.
 
  _expression_. 'ProtectedViewWindowDeactivate'( '_ProtViewWindow_', )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

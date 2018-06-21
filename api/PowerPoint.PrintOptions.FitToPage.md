@@ -20,7 +20,7 @@ Determines whether the slides will be scaled to fill the page they're printed on
 
  _expression_. 'FitToPage'
 
- _expression_ A variable that represents a **PrintOptions** object.
+ _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
 ### Return Value

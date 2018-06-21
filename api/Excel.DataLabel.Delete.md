@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **DataLabel** object.
+ _expression_ A variable that represents a [DataLabel](./Excel.DataLabel(Graph property).md) object.
 
 
 ### Return Value

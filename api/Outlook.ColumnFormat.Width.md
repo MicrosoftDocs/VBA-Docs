@@ -20,7 +20,7 @@ Returns or sets a  **Long** value indicating the approximate width (in character
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **ColumnFormat** object.
+ _expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
 
 
 ## Remarks

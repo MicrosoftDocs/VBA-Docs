@@ -20,7 +20,7 @@ Returns or sets the amount of spacing (in points) after the specified paragraph 
 
  _expression_. 'SpaceAfter'
 
- _expression_ Required. A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Example

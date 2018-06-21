@@ -20,7 +20,7 @@ Sets the "drilled" (expanded, or visible) status of the cube field members in th
 
  _expression_. 'Drilled'
 
- _expression_ A variable that represents a **TreeviewControl** object.
+ _expression_ A variable that represents a [TreeviewControl](./Excel.TreeviewControl.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the next  **TabStop** object to the left of Position.
 
  _expression_. 'Before'( '_Position_' )
 
- _expression_ Required. A variable that represents a **[TabStops](Word.tabstops.md)** collection.
+ _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 
 
 ### Parameters

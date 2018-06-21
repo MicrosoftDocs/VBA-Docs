@@ -20,7 +20,7 @@ Returns a  **[RulerLevels](PowerPoint.RulerLevels.md)** object that represents o
 
  _expression_. 'Levels'
 
- _expression_ A variable that represents a **Ruler** object.
+ _expression_ A variable that represents a [Ruler](./PowerPoint.Ruler.md) object.
 
 
 ## See also

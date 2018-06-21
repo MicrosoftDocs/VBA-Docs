@@ -20,7 +20,7 @@ Returns the  **[WebOptions](Word.WebOptions.md)** object, which contains documen
 
  _expression_. 'WebOptions'
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Occurs when any workbook window is deactivated.
 
  _expression_. 'WindowDeactivate'( '_Wn_' )
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

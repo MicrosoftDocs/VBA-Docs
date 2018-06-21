@@ -20,7 +20,7 @@ Returns the most recently recorded date and time. Read-only.
 
  _expression_. 'Time'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

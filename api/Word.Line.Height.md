@@ -20,7 +20,7 @@ Returns or sets the height of a line.
 
  _expression_. 'Height'
 
- _expression_ An expression that represents a **[Line](Word.Line.md)** object.
+ _expression_ An expression that represents a '[Line](Word.Line.md)' object.
 
 
 ## See also

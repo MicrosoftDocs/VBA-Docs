@@ -20,7 +20,7 @@ Occurs when switching from the current project to another project.
 
  _expression_. 'Deactivate'( ' _pj_', )
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ### Parameters

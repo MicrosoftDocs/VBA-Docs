@@ -20,7 +20,7 @@ Creates a new label document using either the default label options or ones that
 
  _expression_. 'CreateNewDocumentByID'( '_LabelID_' , '_Address_' , '_AutoText_' , '_ExtractAddress_' , '_LaserTray_' , '_PrintEPostageLabel_' , '_Vertical_' )
 
- _expression_ An expression that returns a **[MailingLabel](Word.MailingLabel.md)** object.
+ _expression_ An expression that returns a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ### Parameters

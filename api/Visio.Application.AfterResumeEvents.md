@@ -15,9 +15,9 @@ Occurs after firing of events is resumed.
 
 ## Syntax
 
- Private Sub _expression_ _**AfterResumeEvents**( **_ByVal app As [IVAPPLICATION]_** )
+ Private Sub _expression_ _'AfterResumeEvents'( **_ByVal app As [IVAPPLICATION]_** )
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **ContactsModule** object.
+ _expression_ A variable that represents a [ContactsModule](./Outlook.ContactsModule.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a  **Long** specifying the value of the calculated member's solve order 
 
  _expression_. 'SolveOrder'
 
- _expression_ A variable that represents a **CalculatedMember** object.
+ _expression_ A variable that represents a [CalculatedMember](./Excel.CalculatedMember.md) object.
 
 
 ## Example

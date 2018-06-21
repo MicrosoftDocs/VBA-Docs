@@ -20,7 +20,7 @@ Returns or sets the primary color of the object. Read/write  **Variant**.
 
  _expression_. 'Color'
 
- _expression_ A variable that represents a **[ChartFont](PowerPoint.ChartFont.md)** object.
+ _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 
 
 ## Example

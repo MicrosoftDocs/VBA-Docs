@@ -20,7 +20,7 @@ Returns a  **String** representing the job title of the **[ExchangeUser](Outlook
 
  _expression_. 'JobTitle'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

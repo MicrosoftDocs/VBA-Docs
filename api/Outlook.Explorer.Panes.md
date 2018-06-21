@@ -20,7 +20,7 @@ Returns a  **[Panes](Outlook.Panes.md)** collection object representing the pane
 
  _expression_. 'Panes'
 
- _expression_ A variable that represents an **Explorer** object.
+ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## Example

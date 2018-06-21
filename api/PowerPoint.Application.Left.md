@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the distance in points from the le
 
  _expression_. 'Left'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## See also

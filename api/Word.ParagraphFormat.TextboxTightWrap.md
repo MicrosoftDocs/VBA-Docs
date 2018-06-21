@@ -20,7 +20,7 @@ Returns or sets a  **[WdTextboxTightWrap](Word.WdTextboxTightWrap.md)** constant
 
  _expression_. 'TextboxTightWrap'
 
- _expression_ An expression that returns a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
+ _expression_ An expression that returns a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## See also

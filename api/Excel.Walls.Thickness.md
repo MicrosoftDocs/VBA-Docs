@@ -20,7 +20,7 @@ Returns or sets a  **Long** specifying the thickness of the wall. Read/write.
 
  _expression_. 'Thickness'
 
- _expression_ A variable that represents a **Walls** object.
+ _expression_ A variable that represents a [Walls](./Excel.Walls(Graph property).md) object.
 
 
 ## Remarks

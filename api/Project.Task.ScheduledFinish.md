@@ -17,6 +17,6 @@ Gets the scheduled (as opposed to actual) finish time of a task. Read-only  **Va
 
  _expression_. 'ScheduledFinish'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 

@@ -20,7 +20,7 @@ Clears the selected sparkline groups.
 
  _expression_. 'ClearGroups'
 
- _expression_ A variable that represents a **[SparklineGroups](Excel.SparklineGroups.md)** object.
+ _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns the names of all items in a collection.
 
  _expression_. 'GetNames'( '_NameArray()_' )
 
- _expression_ A variable that represents a **Documents** object.
+ _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
 ### Parameters

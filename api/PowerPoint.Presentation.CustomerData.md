@@ -20,7 +20,7 @@ Returns a  **CustomerData** object. Read-only.
 
  _expression_. 'CustomerData'
 
- _expression_ An expression that returns a **Presentation** object.
+ _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

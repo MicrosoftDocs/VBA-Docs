@@ -17,7 +17,7 @@ Gets or sets the first day of the week for the project. Read/write  **PjWeekday*
 
  _expression_. 'StartWeekOn'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

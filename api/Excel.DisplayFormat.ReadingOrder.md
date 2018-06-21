@@ -20,7 +20,7 @@ Returns the reading order of the associated  **[Range](Excel.Range(objec).md)** 
 
  _expression_. 'ReadingOrder'
 
- _expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
+ _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ### Return Value

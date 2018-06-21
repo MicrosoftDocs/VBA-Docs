@@ -20,7 +20,7 @@ Returns an  **[AutoFormatRules](Outlook.AutoFormatRules.md)** object that repres
 
  _expression_. 'AutoFormatRules'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## See also

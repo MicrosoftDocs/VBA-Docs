@@ -20,7 +20,7 @@ Creates a reply to all original recipients from the original  **[SharingItem](Ou
 
  _expression_. 'ReplyAll'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets the distance (in points) between the top edge of the page and th
 
  _expression_. 'TopMargin'
 
- _expression_ Required. A variable that represents a **[CustomLabel](Word.CustomLabel.md)** object.
+ _expression_ Required. A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
 
 
 ## Example

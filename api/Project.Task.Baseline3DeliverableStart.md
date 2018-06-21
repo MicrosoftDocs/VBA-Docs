@@ -20,6 +20,6 @@ Gets or sets the task baseline3 deliverables start date. Read/write  **Variant**
 
  _expression_. 'Baseline3DeliverableStart'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

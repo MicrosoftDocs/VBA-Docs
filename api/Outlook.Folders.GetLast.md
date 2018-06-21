@@ -20,7 +20,7 @@ Returns the last object in the  **[Folders](Outlook.Folders.md)** collection.
 
  _expression_. 'GetLast'
 
- _expression_ A variable that represents a **Folders** object.
+ _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
 ### Return Value

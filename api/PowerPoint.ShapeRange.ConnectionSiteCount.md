@@ -20,7 +20,7 @@ Returns the number of connection sites on the specified shape. Read-only.
 
  _expression_. 'ConnectionSiteCount'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

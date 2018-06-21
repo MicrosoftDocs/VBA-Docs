@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether a user can modify th
 
  _expression_. 'LockUserChanges'
 
- _expression_ A variable that represents a **CardView** object.
+ _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
 
 
 ## Remarks

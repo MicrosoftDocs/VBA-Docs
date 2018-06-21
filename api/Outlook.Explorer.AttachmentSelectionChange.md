@@ -20,7 +20,7 @@ Occurs when the user selects a different or additional attachment in the active 
 
  _expression_. 'AttachmentSelectionChange'
 
- _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
+ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks

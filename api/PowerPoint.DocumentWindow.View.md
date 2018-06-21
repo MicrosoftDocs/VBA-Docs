@@ -20,7 +20,7 @@ Returns a  **[View](PowerPoint.View.md)** object that represents the view in the
 
  _expression_. 'View'
 
- _expression_ A variable that represents a **DocumentWindow** object.
+ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represent
 
  _expression_. 'ForeColor'
 
- _expression_ A variable that represents a **ShadowFormat** object.
+ _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Sets the width of a column in a table.
 
  _expression_. 'SetWidth'( '_ColumnWidth_' , '_RulerStyle_' )
 
- _expression_ Required. A variable that represents a **[Column](Word.Column.md)** object.
+ _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ### Parameters

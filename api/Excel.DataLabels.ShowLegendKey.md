@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowLegendKey'
 
- _expression_ A variable that represents a **DataLabels** object.
+ _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
 
 
 ## Example

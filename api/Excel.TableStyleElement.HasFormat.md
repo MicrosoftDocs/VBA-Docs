@@ -20,7 +20,7 @@ Returns whether a table style element has formatting applied to the specified el
 
  _expression_. 'HasFormat'
 
- _expression_ A variable that represents a **TableStyleElement** object.
+ _expression_ A variable that represents a [TableStyleElement](./Excel.TableStyleElement.md) object.
 
 
 ## See also

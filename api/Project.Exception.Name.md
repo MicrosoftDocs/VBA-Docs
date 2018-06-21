@@ -17,7 +17,7 @@ Gets the name of an  **Exception** object. Read/write **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **Exception** object.
+ _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## Remarks

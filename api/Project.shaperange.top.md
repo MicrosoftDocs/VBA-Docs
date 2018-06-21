@@ -13,7 +13,7 @@ Gets or sets the vertical distance, in points, from the top of the report pane t
 
  _expression_. 'Top'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

@@ -20,7 +20,7 @@ Goes to the previous document in the history list.
 
  _expression_. 'WebGoBack'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

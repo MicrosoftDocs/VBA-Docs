@@ -20,7 +20,7 @@ Gets the free slack for a task in minutes. Read-only  **Variant**.
 
  _expression_. 'FreeSlack'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Example

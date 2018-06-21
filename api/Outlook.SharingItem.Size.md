@@ -20,7 +20,7 @@ Returns a  **Long** indicating the size (in bytes) of the **[SharingItem](Outloo
 
  _expression_. 'Size'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

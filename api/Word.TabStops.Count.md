@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of tab stops in the collection. R
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[TabStops](Word.tabstops.md)** collection.
+ _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 
 
 ## See also

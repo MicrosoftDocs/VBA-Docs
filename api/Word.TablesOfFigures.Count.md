@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of tables of figures in the colle
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[TablesOfFigures](Word.tablesoffigures.md)** collection.
+ _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
 ## See also

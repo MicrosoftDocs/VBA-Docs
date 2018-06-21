@@ -20,7 +20,7 @@ Returns a  **String** value that represents the XML namespaces that have been ad
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **XmlNamespaces** object.
+ _expression_ A variable that represents a [XmlNamespaces](./Excel.XmlNamespaces.md) object.
 
 
 ## Remarks

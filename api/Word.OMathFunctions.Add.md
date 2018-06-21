@@ -20,7 +20,7 @@ Inserts a new structure, such as a fraction, into an equation at the specified p
 
  _expression_. 'Add'( '_Range_' , '_Type_' , '_NumArgs_' , '_NumCols_' )
 
- _expression_ An expression that returns a **OMathFunctions** object.
+ _expression_ An expression that returns a [OMathFunctions](./Word.OMathFunctions.md) object.
 
 
 ### Parameters

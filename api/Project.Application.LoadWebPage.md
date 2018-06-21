@@ -17,7 +17,7 @@ Occurs after the  **LoadWebBrowserControl** method is called. The method loads t
 
  _expression_. 'LoadWebPage'( ' _Window_', ' _TargetPage_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

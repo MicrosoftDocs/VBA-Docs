@@ -20,6 +20,6 @@ Gets the unique identification number of the  **[LookupTableEntry](Project.Looku
 
  _expression_. 'UniqueID'
 
- _expression_ A variable that represents a **LookupTableEntry** object.
+ _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 

@@ -20,7 +20,7 @@ Returns or sets the reference line (for example, "In reply to:") for a letter cr
 
  _expression_. 'RecipientReference'
 
- _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

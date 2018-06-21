@@ -20,7 +20,7 @@ Returns or sets the number of pages to be displayed one above the other on-scree
 
  _expression_. 'PageRows'
 
- _expression_ An expression that returns a **[Zoom](Word.Zoom.md)** object.
+ _expression_ An expression that returns a '[Zoom](Word.Zoom.md)' object.
 
 
 ## Example

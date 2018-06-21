@@ -20,7 +20,7 @@ Returns a  **String** that represents the XML for the node in the Microsoft Word
 
  _expression_. 'WordOpenXML'
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ## Remarks

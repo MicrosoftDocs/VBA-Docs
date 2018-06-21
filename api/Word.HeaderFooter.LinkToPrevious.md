@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'LinkToPrevious'
 
- _expression_ An expression that returns a **[HeaderFooter](Word.HeaderFooter.md)** object.
+ _expression_ An expression that returns a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
 
 ## Remarks

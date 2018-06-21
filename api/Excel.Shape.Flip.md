@@ -20,7 +20,7 @@ Flips the specified shape around its horizontal or vertical axis.
 
  _expression_. 'Flip'( '_FlipCmd_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ### Parameters

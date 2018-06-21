@@ -13,7 +13,7 @@ Scales the width of the range of shapes by a specified factor.
 
  _expression_. 'ScaleWidth' _(Factor,_ _RelativeToOriginalSize,_ _fScale)_
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ### Parameters

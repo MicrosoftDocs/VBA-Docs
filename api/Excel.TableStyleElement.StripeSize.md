@@ -20,7 +20,7 @@ Returns or sets the size of banding. Read/write  **Long** .
 
  _expression_. 'StripeSize'
 
- _expression_ A variable that represents a **TableStyleElement** object.
+ _expression_ A variable that represents a [TableStyleElement](./Excel.TableStyleElement.md) object.
 
 
 ## Remarks

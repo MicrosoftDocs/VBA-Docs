@@ -20,7 +20,7 @@ Specifies whether communication with the printer is turned on.  **Boolean** Read
 
  _expression_. 'PrintCommunication'
 
- _expression_ A variable that returns an **Application** object.
+ _expression_ A variable that returns an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Return Value

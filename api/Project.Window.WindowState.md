@@ -17,7 +17,7 @@ Gets or sets the state the window, where the state is maximized or normal. Read/
 
  _expression_. 'WindowState'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
 ## Remarks

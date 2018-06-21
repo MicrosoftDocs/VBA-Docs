@@ -20,7 +20,7 @@ Returns a  **ShapeRange** object.
 
  _expression_. 'Range'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[CanvasShapes](Word.CanvasShapes.md)** collection.
+ _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ### Parameters

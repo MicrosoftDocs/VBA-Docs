@@ -20,7 +20,7 @@ Returns a  **[TabStops](PowerPoint.TabStops.md)** collection that represents the
 
  _expression_. 'TabStops'
 
- _expression_ A variable that represents a **Ruler** object.
+ _expression_ A variable that represents a [Ruler](./PowerPoint.Ruler.md) object.
 
 
 ### Return Value

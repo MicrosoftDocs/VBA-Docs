@@ -20,7 +20,7 @@ Returns or sets the number of the selected item in a drop-down form field. Read/
 
  _expression_. 'Value'
 
- _expression_ Required. A variable that represents a **[DropDown](Word.DropDown.md)** object.
+ _expression_ Required. A variable that represents a '[DropDown](Word.DropDown.md)' object.
 
 
 ## See also

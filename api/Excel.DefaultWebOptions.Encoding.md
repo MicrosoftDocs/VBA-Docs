@@ -20,7 +20,7 @@ Returns or sets the document encoding (code page or character set) to be used by
 
  _expression_. 'Encoding'
 
- _expression_ A variable that represents a **DefaultWebOptions** object.
+ _expression_ A variable that represents a [DefaultWebOptions](./Excel.DefaultWebOptions.md) object.
 
 
 ## Remarks

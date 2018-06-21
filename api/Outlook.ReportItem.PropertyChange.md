@@ -17,7 +17,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.App
 
  _expression_. 'PropertyChange'( '_Name_' )
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ### Parameters

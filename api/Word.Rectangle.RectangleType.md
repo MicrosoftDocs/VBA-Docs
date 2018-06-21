@@ -20,7 +20,7 @@ Returns a  **WdRectangleType** constant that represents the type for the specifi
 
  _expression_. 'RectangleType'
 
- _expression_ Required. A variable that represents a **[Rectangle](Word.Rectangle.md)** object.
+ _expression_ Required. A variable that represents a '[Rectangle](Word.Rectangle.md)' object.
 
 
 ## Remarks

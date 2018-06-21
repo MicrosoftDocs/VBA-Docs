@@ -13,7 +13,7 @@ Gets an individual  **Shape** object in the **ShapeRange** collection. Read-only
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Identifies an undo unit by a  **Long** . Read-only.
 
  _expression_. 'UnitTypeLong'
 
- _expression_ A variable that represents a **IVBUndoUnit** object.
+ _expression_ A variable that represents a 'IVBUndoUnit' object.
 
 
 ### Return Value

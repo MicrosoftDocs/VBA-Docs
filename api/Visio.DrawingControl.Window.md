@@ -20,7 +20,7 @@ Returns the window associated with an instance of the Microsoft Visio Drawing Co
 
  _expression_. 'Window'
 
- _expression_ A variable that represents a **DrawingControl** object.
+ _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ### Return Value

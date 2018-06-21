@@ -20,7 +20,7 @@ Deletes a base calendar.
 
  _expression_. 'BaseCalendarDelete'( ' _Name_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -21,7 +21,7 @@ Returns or sets the name of the object. Read/write String.
 Name property as it applies to the  **Font** object.
 Returns or sets the name of the object. Read/write Variant.
  _expression_. **Name**
- _expression_ Required. An expression that returns a **Font** object.
+ _expression_ Required. An expression that returns a [Font](./Excel.Font(Graph property).md) object.
 Name property as it applies to the all other objects.
 Returns or sets the name of the object. Read-only String.
  _expression_. **Name**

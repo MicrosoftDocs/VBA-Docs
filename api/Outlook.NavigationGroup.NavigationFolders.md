@@ -20,7 +20,7 @@ Returns a  **[NavigationFolders](Outlook.NavigationFolders.md)** object that con
 
  _expression_. 'NavigationFolders'
 
- _expression_ A variable that represents a **NavigationGroup** object.
+ _expression_ A variable that represents a [NavigationGroup](./Outlook.NavigationGroup.md) object.
 
 
 ## See also

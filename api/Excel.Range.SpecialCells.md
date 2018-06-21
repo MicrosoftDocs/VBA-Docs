@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents all the cel
 
  _expression_. 'SpecialCells'( '_Type_' , '_Value_' )
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

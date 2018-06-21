@@ -20,7 +20,7 @@ Returns the Microsoft Office  **WorkflowTemplates** collection.
 
  _expression_. 'GetWorkflowTemplates'
 
- _expression_ An expression that returns a **Presentation** object.
+ _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

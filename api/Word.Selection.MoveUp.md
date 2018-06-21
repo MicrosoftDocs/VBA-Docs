@@ -20,7 +20,7 @@ Moves the selection up and returns the number of units that it has been moved.
 
  _expression_. 'MoveUp'( '_Unit_' , '_Count_' , '_Extend_' )
 
- _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
+ _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ### Parameters

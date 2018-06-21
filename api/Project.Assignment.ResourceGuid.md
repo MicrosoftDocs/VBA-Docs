@@ -17,6 +17,6 @@ Gets the GUID of the resource for the assignment. Read-only  **String**.
 
  _expression_. 'ResourceGuid'
 
- _expression_ An expression that returns an **Assignment** object.
+ _expression_ An expression that returns an [Assignment](./Project.Assignment.md) object.
 
 

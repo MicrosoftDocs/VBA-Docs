@@ -20,7 +20,7 @@ Resets the specified Team Planner style to the default values.
 
  _expression_. 'ResetTPStyle'( ' _Style_' )
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./Project.Application.md) object.
 
 
 ### Parameters

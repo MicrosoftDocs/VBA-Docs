@@ -20,7 +20,7 @@ Returns a  **ShapeRange** object.
 
  _expression_. 'Range'( '_Index_' )
 
- _expression_ A variable that represents a **GroupShapes** object.
+ _expression_ A variable that represents a [GroupShapes](./PowerPoint.GroupShapes.md) object.
 
 
 ### Parameters

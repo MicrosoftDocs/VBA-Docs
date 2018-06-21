@@ -20,7 +20,7 @@ Adds a solution root folder and its subfolders to the  **Solutions** module.
 
  _expression_. 'AddSolution'( '_Solution_' , '_Scope_' )
 
- _expression_ A variable that represents a **[SolutionsModule](Outlook.SolutionsModule.md)** object.
+ _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsModule.md)' object.
 
 
 ### Parameters

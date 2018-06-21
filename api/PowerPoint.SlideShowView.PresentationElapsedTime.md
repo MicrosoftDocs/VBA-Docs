@@ -20,7 +20,7 @@ Returns the number of seconds that have elapsed since the beginning of the speci
 
  _expression_. 'PresentationElapsedTime'
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ### Return Value

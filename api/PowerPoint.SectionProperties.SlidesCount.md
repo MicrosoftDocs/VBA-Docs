@@ -20,7 +20,7 @@ Returns the number of slides in the specified section.
 
  _expression_. 'SlidesCount'( '_sectionIndex_' )
 
- _expression_ A variable that represents a **SectionProperties** object.
+ _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
 ### Parameters

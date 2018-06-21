@@ -20,7 +20,7 @@ When set to  **True** (default), calculated members for Online Analytical Proces
 
  _expression_. 'ViewCalculatedMembers'
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ## Example

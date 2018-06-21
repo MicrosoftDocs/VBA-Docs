@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object specifying the cell range t
 
  _expression_. 'AppliesTo'
 
- _expression_ A variable that represents an **AboveAverage** object.
+ _expression_ A variable that represents an [AboveAverage](./Excel.AboveAverage.md) object.
 
 
 ## See also

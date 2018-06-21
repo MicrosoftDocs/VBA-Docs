@@ -20,7 +20,7 @@ For shapes on stencils in Microsoft Visio, determines how many lines of text of 
 
  _expression_. 'StencilLinesPerMaster'
 
- _expression_ A variable that represents an **ApplicationSettings** object.
+ _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the ite
 
  _expression_. 'Conflicts'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

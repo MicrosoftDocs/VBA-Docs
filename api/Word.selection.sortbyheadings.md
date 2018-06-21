@@ -18,7 +18,7 @@ Sorts the headings in the specified selection.
 
  _expression_. 'SortByHeadings'_(SortFieldType,_ _SortOrder,_ _CaseSensitive,_ _BidiSort,_ _IgnoreThe,_ _IgnoreKashida,_ _IgnoreDiacritics,_ _IgnoreHe,_ _LanguageID)_
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Word.Selection.md) object.
 
 
 ### Parameters

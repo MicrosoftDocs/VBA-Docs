@@ -20,7 +20,7 @@ Returns or sets the command string for the specified data source. Read/write  **
 
  _expression_. 'CommandText'
 
- _expression_ An expression that returns a **QueryTable** object.
+ _expression_ An expression that returns a [QueryTable](./Excel.QueryTable.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the line spacing for the specified paragraph. Read/write  **[WdL
 
  _expression_. 'LineSpacingRule'
 
- _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks

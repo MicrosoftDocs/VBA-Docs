@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to allow users to open do
 
  _expression_. 'AllowOpenInDraftView'
 
- _expression_ An expression that returns an **Options** object.
+ _expression_ An expression that returns an [Options](./Word.Options.md) object.
 
 
 ## Remarks

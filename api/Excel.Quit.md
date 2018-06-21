@@ -17,7 +17,7 @@ Quits Microsoft Graph.
 
  _expression_. 'Quit'
 
- _expression_ Required. An expression that returns an **Application** object.
+ _expression_ Required. An expression that returns an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

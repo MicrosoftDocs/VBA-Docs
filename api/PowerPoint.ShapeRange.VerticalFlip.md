@@ -20,7 +20,7 @@ Determines whether the specified shape is flipped around the vertical axis. Read
 
  _expression_. 'VerticalFlip'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

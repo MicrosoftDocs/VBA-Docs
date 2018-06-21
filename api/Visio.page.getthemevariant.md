@@ -15,7 +15,7 @@ Returns the color, style, and embellishment, if any, of the variant of the theme
 
  _expression_. 'GetThemeVariant'_(pVariantColor,_ _pVariantStyle,_ _pEmbellishment)_
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Parameters

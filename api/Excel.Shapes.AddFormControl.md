@@ -20,7 +20,7 @@ Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object
 
  _expression_. 'AddFormControl'( '_Type_' , '_Left_' , '_Top_' , '_Width_' , '_Height_' )
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
 ### Parameters

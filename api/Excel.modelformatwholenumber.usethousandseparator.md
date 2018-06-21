@@ -18,7 +18,7 @@ Specifies whether to display commas between thousands. Read/write  **Boolean**.
 
  _expression_. 'UseThousandSeparator'
 
- _expression_ A variable that represents a **ModelFormatWholeNumber** object.
+ _expression_ A variable that represents a 'ModelFormatWholeNumber' object.
 
 
 ## See also

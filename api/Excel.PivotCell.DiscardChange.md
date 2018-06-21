@@ -20,7 +20,7 @@ Discards changes to the specified cell in a PivotTable report.
 
  _expression_. 'DiscardChange'
 
- _expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
+ _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
 
 
 ### Return Value

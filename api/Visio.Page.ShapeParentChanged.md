@@ -18,9 +18,9 @@ Occurs after shapes are grouped or a group is ungrouped.
 
 ## Syntax
 
-Private Sub  _expression_ _**ShapeParentChanged**( **_ByVal Shape As [IVSHAPE]_** )
+Private Sub  _expression_ _'ShapeParentChanged'( **_ByVal Shape As [IVSHAPE]_** )
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Parameters

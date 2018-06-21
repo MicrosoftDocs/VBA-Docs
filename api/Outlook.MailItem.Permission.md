@@ -20,7 +20,7 @@ Sets or returns an  **[OlPermission](Outlook.OlPermission.md)** constant that de
 
  _expression_. 'Permission'
 
- _expression_ A variable that represents a **[MailItem](Outlook.MailItem.md)** object.
+ _expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' object.
 
 
 ## Remarks

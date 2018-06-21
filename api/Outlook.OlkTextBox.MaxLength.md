@@ -20,7 +20,7 @@ Returns or sets a  **Long** that specifies the maximum number of characters for 
 
  _expression_. 'MaxLength'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

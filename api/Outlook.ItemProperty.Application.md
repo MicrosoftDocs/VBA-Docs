@@ -20,7 +20,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **ItemProperty** object.
+ _expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
 
 
 ## See also

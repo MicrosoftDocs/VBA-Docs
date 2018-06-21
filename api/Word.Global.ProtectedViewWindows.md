@@ -20,7 +20,7 @@ Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) object that repre
 
  _expression_. 'ProtectedViewWindows'
 
- _expression_ An expression that returns a **Global** object.
+ _expression_ An expression that returns a [Global](./Word.Global.md) object.
 
 
 ## See also

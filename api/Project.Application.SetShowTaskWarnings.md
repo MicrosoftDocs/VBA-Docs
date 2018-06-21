@@ -20,7 +20,7 @@ Sets the global  **Show Warnings** option for tasks.
 
  _expression_. 'SetShowTaskWarnings'( ' _Set_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

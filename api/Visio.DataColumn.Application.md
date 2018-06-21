@@ -23,7 +23,7 @@ Returns the instance of Microsoft Visio that is associated with a  **DataColumn*
 
  _expression_. 'Application'
 
- _expression_ An expression that returns a **DataColumn** object.
+ _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
 
 ### Return Value

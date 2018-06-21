@@ -20,7 +20,7 @@ Shows or hides the slack style for tasks on the active Gantt chart.
 
  _expression_. 'GanttBarStyleSlack'( ' _Show_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

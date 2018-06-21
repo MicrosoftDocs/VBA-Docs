@@ -20,7 +20,7 @@ Returns the row index of a hyperlink. Read-only.
 
  _expression_. 'Row'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
 
 ### Return Value

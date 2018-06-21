@@ -20,7 +20,7 @@ Modifies the location of a single sparkline.
 
  _expression_. 'ModifyLocation'( '_Range_' )
 
- _expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** object.
+ _expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
 
 
 ### Parameters

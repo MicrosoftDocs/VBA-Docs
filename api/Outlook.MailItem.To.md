@@ -20,7 +20,7 @@ Returns or sets a semicolon-delimited  **String** list of display names for the 
 
  _expression_. 'To'
 
- _expression_ A variable that represents a **MailItem** object.
+ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

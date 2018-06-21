@@ -20,7 +20,7 @@ Returns a  **Range** object that represents the portion of a document that's con
 
  _expression_. 'Range'
 
- _expression_ Required. A variable that represents a **[Revision](Word.Revision.md)** object.
+ _expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
 
 
 ## See also

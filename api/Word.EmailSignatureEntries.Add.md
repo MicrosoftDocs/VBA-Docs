@@ -20,7 +20,7 @@ Returns an  **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** object that r
 
  _expression_. 'Add'( '_Name_' , '_Range_' )
 
- _expression_ Required. A variable that represents an **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** collection.
+ _expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
 
 
 ### Parameters

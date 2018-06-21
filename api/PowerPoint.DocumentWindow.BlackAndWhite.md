@@ -20,7 +20,7 @@ Determines whether the document window display is black and white. Read/write.
 
  _expression_. 'BlackAndWhite'
 
- _expression_ A variable that represents a **DocumentWindow** object.
+ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ### Return Value

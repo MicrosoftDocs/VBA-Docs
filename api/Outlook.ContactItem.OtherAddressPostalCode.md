@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the postal code portion of the other 
 
  _expression_. 'OtherAddressPostalCode'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

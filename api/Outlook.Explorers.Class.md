@@ -20,7 +20,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_. 'Class'
 
- _expression_ A variable that represents an **Explorers** object.
+ _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
 
 
 ## See also

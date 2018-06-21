@@ -20,7 +20,7 @@ Creates one or more new  **Shape** objects by dropping an object onto a receivin
 
  _expression_. 'Drop'( '_ObjectToDrop_' , '_xPos_' , '_yPos_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

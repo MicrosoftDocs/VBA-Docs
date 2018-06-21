@@ -20,7 +20,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
  _expression_. 'Format'
 
- _expression_ A variable that represents a **HiLoLines** object.
+ _expression_ A variable that represents a [HiLoLines](./Excel.HiLoLines(Graph property).md) object.
 
 
 ## See also

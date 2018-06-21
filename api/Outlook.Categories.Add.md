@@ -20,7 +20,7 @@ Creates a new  **[Category](Outlook.Category.md)** object and appends it to the 
 
  _expression_. 'Add'( '_Name_' , '_Color_' , '_ShortcutKey_' )
 
- _expression_ A variable that represents a **Categories** object.
+ _expression_ A variable that represents a [Categories](./Outlook.Categories.md) object.
 
 
 ### Parameters

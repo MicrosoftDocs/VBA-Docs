@@ -15,7 +15,7 @@ ms.prod: project-server
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **EngagementComment** object.
+ _expression_ A variable that represents a 'EngagementComment' object.
 
 
 ## See also

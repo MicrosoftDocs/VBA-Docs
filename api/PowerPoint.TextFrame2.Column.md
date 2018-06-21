@@ -20,7 +20,7 @@ Returns the  **[Column](PowerPoint.Column.md)** object that represents the colum
 
  _expression_. 'Column'
 
- _expression_ An expression that returns a **TextFrame2** object.
+ _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
 ## Example

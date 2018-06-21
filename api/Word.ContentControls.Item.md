@@ -17,7 +17,7 @@ Returns a  **[ContentControl](Word.ContentControl.md)** object that represents t
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns a **[ContentControls](Word.ContentControls.md)** object.
+ _expression_ An expression that returns a '[ContentControls](Word.ContentControls.md)' object.
 
 
 ### Parameters

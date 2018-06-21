@@ -20,7 +20,7 @@ Sets legacy security options that are available in the  **Trust Center** dialog 
 
  _expression_. 'OptionsSecurityEx'( ' _RemoveFileProperties_', ' _TrustWSS_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

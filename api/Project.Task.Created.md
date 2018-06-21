@@ -17,7 +17,7 @@ Gets the date a  **Task** was created. Read-only **Variant**.
 
  _expression_. 'Created'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

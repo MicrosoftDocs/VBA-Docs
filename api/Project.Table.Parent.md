@@ -17,7 +17,7 @@ Gets the parent of the  **Table** object. Read-only **Project**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 
 ## Remarks

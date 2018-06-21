@@ -17,7 +17,7 @@ Gets the parent of the  **CostRateTable** object. Read-only **Resource**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **CostRateTable** object.
+ _expression_ A variable that represents a [CostRateTable](./Project.CostRateTable.md) object.
 
 
 ## Remarks

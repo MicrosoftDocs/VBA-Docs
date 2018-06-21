@@ -17,6 +17,6 @@ Gets or sets the value of the  **Cost7** custom field for the resource. Read/wri
 
  _expression_. 'Cost7'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

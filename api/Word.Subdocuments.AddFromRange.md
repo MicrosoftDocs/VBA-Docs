@@ -20,7 +20,7 @@ Creates one or more subdocuments from the text in the specified range and return
 
  _expression_. 'AddFromRange'( '_Range_' )
 
- _expression_ Required. A variable that represents a **[Subdocuments](Word.subdocuments.md)** collection.
+ _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 
 
 ### Parameters

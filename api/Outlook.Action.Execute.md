@@ -20,7 +20,7 @@ Executes the action for the specified item.
 
  _expression_. 'Execute'
 
- _expression_ An expression that returns a **Action** object.
+ _expression_ An expression that returns a [Action](./Outlook.Action.md) object.
 
 
 ### Return Value

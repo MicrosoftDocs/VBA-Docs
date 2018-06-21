@@ -20,7 +20,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the degree for a r
 
  _expression_. 'Deg'
 
- _expression_ An expression that returns an **[OMathRad](Word.OMathRad.md)** object.
+ _expression_ An expression that returns an '[OMathRad](Word.OMathRad.md)' object.
 
 
 ## See also

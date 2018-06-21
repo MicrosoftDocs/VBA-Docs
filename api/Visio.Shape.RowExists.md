@@ -20,7 +20,7 @@ Determines whether a ShapeSheet row exists. Read-only.
 
  _expression_. 'RowExists'( '_Section_' , '_Row_' , '_fExistsLocally_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
  _expression_. 'Actions'
 
- _expression_ A variable that represents a **TaskRequestUpdateItem** object.
+ _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

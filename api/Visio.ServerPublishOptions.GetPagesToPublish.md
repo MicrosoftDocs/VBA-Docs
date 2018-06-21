@@ -20,7 +20,7 @@ Returns an array of pages that are set to be published to a server.
 
  _expression_. 'GetPagesToPublish'( '_Flags_' , '_PublishPages_' , '_NamesArray()_' )
 
- _expression_ A variable that represents a **[ServerPublishOptions](Visio.ServerPublishOptions.md)** object.
+ _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
 ### Parameters

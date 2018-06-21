@@ -20,7 +20,7 @@ Returns or sets the amount (in points) of extra margin space added to each page 
 
  _expression_. 'Gutter'
 
- _expression_ A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
+ _expression_ A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Remarks

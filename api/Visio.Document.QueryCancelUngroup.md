@@ -18,9 +18,9 @@ Occurs before the application ungroups a selection of shapes in response to a us
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelUngroup**( **_ByVal Selection As [IVSELECTION]_** )
+Private Sub  _expression_ _'QueryCancelUngroup'( **_ByVal Selection As [IVSELECTION]_** )
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Selects the specified table columns.
 
  _expression_. 'Select'
 
- _expression_ Required. A variable that represents a **[Columns](Word.columns.md)** collection.
+ _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ## Remarks

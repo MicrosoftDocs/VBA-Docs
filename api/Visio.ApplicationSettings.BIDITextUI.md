@@ -20,7 +20,7 @@ Gets the current setting for display of right-to-left languages. Read-only.
 
  _expression_. 'BIDITextUI'
 
- _expression_ An expression that returns a **ApplicationSettings** object.
+ _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

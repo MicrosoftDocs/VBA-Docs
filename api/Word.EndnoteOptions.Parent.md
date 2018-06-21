@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Endn
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents an **[EndnoteOptions](Word.EndnoteOptions.md)** collection.
+ _expression_ Required. A variable that represents an '[EndnoteOptions](Word.EndnoteOptions.md)' collection.
 
 
 ## See also

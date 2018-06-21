@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether the **Developer** tab is 
 
  _expression_. 'ShowDevTools'
 
- _expression_ An expression that returns an **Options** object.
+ _expression_ An expression that returns an [Options](./Word.Options.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ The name of the presentation includes the file name extension (for file types th
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Retuns a new connection for the specified  **XMLMap** object. Read-only.
 
  _expression_. 'WorkbookConnection'
 
- _expression_ A variable that represents a **XmlMap** object.
+ _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
 ## See also

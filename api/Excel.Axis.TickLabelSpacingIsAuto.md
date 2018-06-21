@@ -20,7 +20,7 @@ Returns or sets whether or not the tick label spacing is automatic. Read/write  
 
  _expression_. 'TickLabelSpacingIsAuto'
 
- _expression_ A variable that represents an **Axis** object.
+ _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 
 
 ## Remarks

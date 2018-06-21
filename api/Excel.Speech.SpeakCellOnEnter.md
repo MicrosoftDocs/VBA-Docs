@@ -20,7 +20,7 @@ Microsoft Excel supports a mode where the active cell will be spoken when the EN
 
  _expression_. 'SpeakCellOnEnter'
 
- _expression_ A variable that represents a **Speech** object.
+ _expression_ A variable that represents a [Speech](./Excel.Speech.md) object.
 
 
 ## Example

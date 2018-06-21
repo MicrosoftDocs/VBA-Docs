@@ -20,7 +20,7 @@ Returns the serial number that represents the date that is the indicated number 
 
  _expression_. 'EDate'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

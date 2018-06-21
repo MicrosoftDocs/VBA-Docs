@@ -20,7 +20,7 @@ Occurs after the sheet of the PivotTable report has been updated.
 
  _expression_. 'SheetPivotTableUpdate'( '_Sh_' , '_Target_' )
 
- _expression_ An expression that returns a **Workbook** object.
+ _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

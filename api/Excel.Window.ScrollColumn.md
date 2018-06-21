@@ -20,7 +20,7 @@ Returns or sets the number of the leftmost column in the pane or window. Read/wr
 
  _expression_. 'ScrollColumn'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Remarks

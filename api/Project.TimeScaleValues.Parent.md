@@ -17,7 +17,7 @@ Gets the parent of the  **TimeScaleValues** object. Read-only **Object**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **TimeScaleValues** object.
+ _expression_ A variable that represents a 'TimeScaleValues' object.
 
 
 ## Remarks

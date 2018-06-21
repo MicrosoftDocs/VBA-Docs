@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'InvertIfNegative'
 
- _expression_ A variable that represents a **[Series](PowerPoint.Series.md)** object.
+ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ## See also

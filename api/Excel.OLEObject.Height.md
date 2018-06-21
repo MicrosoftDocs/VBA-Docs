@@ -20,7 +20,7 @@ Returns or sets a  **Double** value that represents the height, in points, of th
 
  _expression_. 'Height'
 
- _expression_ A variable that represents an **OLEObject** object.
+ _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
 
 
 ## See also

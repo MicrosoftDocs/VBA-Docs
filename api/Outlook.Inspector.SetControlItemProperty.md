@@ -20,7 +20,7 @@ Binds a built-in property or custom property to a control in an inspector.
 
  _expression_. 'SetControlItemProperty'( '_Control_' , '_PropertyName_' )
 
- _expression_ A variable that represents an **Inspector** object.
+ _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ### Parameters

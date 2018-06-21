@@ -20,6 +20,6 @@ Deletes the  **Table** object from a **Tables** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 

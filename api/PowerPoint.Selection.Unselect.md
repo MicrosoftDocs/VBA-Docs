@@ -20,7 +20,7 @@ Cancels the current selection.
 
  _expression_. 'Unselect'
 
- _expression_ A variable that represents an **Selection** object.
+ _expression_ A variable that represents an [Selection](./PowerPoint.Selection.md) object.
 
 
 ## Example

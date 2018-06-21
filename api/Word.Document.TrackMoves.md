@@ -20,7 +20,7 @@ Returns or sets a ** Boolean** that represents whether to mark moved text when T
 
  _expression_. 'TrackMoves'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
 
 ## Remarks

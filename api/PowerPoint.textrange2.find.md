@@ -15,7 +15,7 @@ Searches a  **TextRange2** object for a subset of text.
 
  _expression_. 'Find'( '_FindWhat_', '_After_', '_MatchCase_', '_WholeWords_' )
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ### Parameters

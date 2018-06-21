@@ -20,7 +20,7 @@ Sets the  **Repeat** item and the name of the procedure that will run if you cho
 
  _expression_. 'OnRepeat'( '_Text_' , '_Procedure_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

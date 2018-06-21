@@ -20,7 +20,7 @@ Copies the specified field to the Clipboard.
 
  _expression_. 'Copy'
 
- _expression_ Required. A variable that represents a **[Field](Word.Field.md)** object.
+ _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## See also

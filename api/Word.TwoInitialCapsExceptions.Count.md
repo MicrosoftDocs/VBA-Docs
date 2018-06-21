@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of exceptions in the collection. 
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)** collection.
+ _expression_ Required. A variable that represents a '[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)' collection.
 
 
 ## See also

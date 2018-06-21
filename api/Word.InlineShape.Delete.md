@@ -20,7 +20,7 @@ Deletes the specified inline shape.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents an **[InlineShape](Word.InlineShape.md)** object.
+ _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## See also

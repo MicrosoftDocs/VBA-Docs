@@ -20,7 +20,7 @@ Returns a value that indicates whether the specified Microsoft Outlook item can 
 
  _expression_. 'IsItemSelectableInView'( '_Item_' )
 
- _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
+ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ### Parameters

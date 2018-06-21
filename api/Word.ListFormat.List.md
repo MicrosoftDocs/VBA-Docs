@@ -20,7 +20,7 @@ Returns a  **[List](Word.List.md)** object that represents the first formatted l
 
  _expression_. 'List'
 
- _expression_ An expression that returns a **[ListFormat](Word.ListFormat.md)** object.
+ _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Remarks

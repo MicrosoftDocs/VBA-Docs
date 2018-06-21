@@ -20,7 +20,7 @@ This property returns the  **SyncObject** object for application folders. Read-o
 
  _expression_. 'AppFolders'
 
- _expression_ A variable that represents a **SyncObjects** object.
+ _expression_ A variable that represents a [SyncObjects](./Outlook.SyncObjects.md) object.
 
 
 ## Remarks

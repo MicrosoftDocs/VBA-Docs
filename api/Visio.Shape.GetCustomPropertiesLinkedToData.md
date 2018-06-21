@@ -23,7 +23,7 @@ Gets the IDs of the shape-data-item (custom property) rows in the Shape Data sec
 
  _expression_. 'GetCustomPropertiesLinkedToData'( '_DataRecordsetID_' , '_CustomPropertyIndices()_' )
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

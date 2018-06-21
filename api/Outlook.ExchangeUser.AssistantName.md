@@ -20,7 +20,7 @@ Returns a  **String** representing the name of the assistant for the **[Exchange
 
  _expression_. 'AssistantName'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

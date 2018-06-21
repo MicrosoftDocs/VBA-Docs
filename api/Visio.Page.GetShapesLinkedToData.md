@@ -23,7 +23,7 @@ Returns an array of all shapes on the active page linked to data in the specifie
 
  _expression_. 'GetShapesLinkedToData'( '_DataRecordsetID_' , '_ShapeIDs()_' )
 
- _expression_ An expression that returns a **Page** object.
+ _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
 
 ### Parameters

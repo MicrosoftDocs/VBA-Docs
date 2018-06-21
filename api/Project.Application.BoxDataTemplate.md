@@ -20,7 +20,7 @@ Creates, copies, renames, or deletes a data template for a Network Diagram view.
 
  _expression_. 'BoxDataTemplate'( ' _Name_', ' _Action_', ' _NewName_', ' _Overwrite_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Formats the specified paragraphs with 1.5-line spacing.
 
  _expression_. 'Space15'
 
- _expression_ Required. A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
+ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets an  **[OlComboBoxStyle](Outlook.OlComboBoxStyle.md)** constant t
 
  _expression_. 'Style'
 
- _expression_ A variable that represents an **OlkComboBox** object.
+ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a semicolon-delimited  **String** of resource names for the meeting. Rea
 
  _expression_. 'Resources'
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

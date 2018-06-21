@@ -20,6 +20,6 @@ Gets the variance (in minutes) between the planned duration and the duration of 
 
  _expression_. 'DurationVariance'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

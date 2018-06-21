@@ -20,7 +20,7 @@ Applies error bars to the series.
 
  _expression_. 'ErrorBar'( '_Direction_', '_Include_', '_Type_', '_Amount_', '_MinusValues_' )
 
- _expression_ A variable that represents a **[Series](PowerPoint.Series.md)** object.
+ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the shape that the
 
  _expression_. 'EndConnectedShape'
 
- _expression_ A variable that represents a **ConnectorFormat** object.
+ _expression_ A variable that represents a [ConnectorFormat](./Excel.ConnectorFormat.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a color that is mapped to the theme color scheme. Read/write  **
 
  _expression_. 'ObjectThemeColor'
 
- _expression_ A variable that represents a **ColorFormat** object.
+ _expression_ A variable that represents a [ColorFormat](./Excel.ColorFormat.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Removes the period at the end of each paragraph in the specified text.
 
  _expression_. 'RemovePeriods'
 
- _expression_ A variable that represents a **TextRange** object.
+ _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ## Example

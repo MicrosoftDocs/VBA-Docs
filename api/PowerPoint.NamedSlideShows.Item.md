@@ -20,7 +20,7 @@ Returns a single  **NamedSlideShow** object from the specified **NamedSlideShows
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **NamedSlideShows** object.
+ _expression_ A variable that represents a [NamedSlideShows](./PowerPoint.NamedSlideShows.md) object.
 
 
 ### Parameters

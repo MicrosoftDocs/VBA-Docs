@@ -20,7 +20,7 @@ Returns or sets the minimum value of a scroll bar or spinner range. The scroll b
 
  _expression_. 'Min'
 
- _expression_ An expression that returns a **ControlFormat** object.
+ _expression_ An expression that returns a [ControlFormat](./Excel.ControlFormat.md) object.
 
 
 ### Return Value

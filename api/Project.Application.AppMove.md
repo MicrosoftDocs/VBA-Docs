@@ -20,7 +20,7 @@ Moves the main Project window.
 
  _expression_. 'AppMove'( ' _XPosition_', ' _YPosition_', ' _Points_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

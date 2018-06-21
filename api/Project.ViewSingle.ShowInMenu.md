@@ -17,6 +17,6 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowInMenu'
 
- _expression_ A variable that represents a **ViewSingle** object.
+ _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
 

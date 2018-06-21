@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether the user can edit the con
 
  _expression_. 'LockContents'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

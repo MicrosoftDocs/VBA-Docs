@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'RelyOnCSS'
 
- _expression_ Required. A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** collection.
+ _expression_ Required. A variable that represents a '[DefaultWebOptions](Word.DefaultWebOptions.md)' collection.
 
 
 ## Remarks

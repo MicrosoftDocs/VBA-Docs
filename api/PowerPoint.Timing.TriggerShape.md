@@ -20,7 +20,7 @@ Sets or returns a  **Shape** object that represents the shape associated with an
 
  _expression_. 'TriggerShape'
 
- _expression_ A variable that represents a **Timing** object.
+ _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
 ### Return Value

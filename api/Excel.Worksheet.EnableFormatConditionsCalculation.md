@@ -20,7 +20,7 @@ Returms or sets if conditional formats will will occur automatically as needed. 
 
  _expression_. 'EnableFormatConditionsCalculation'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Remarks

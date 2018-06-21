@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of text columns in the collection
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[TextColumns](Word(textcolumns).md)** collection.
+ _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 
 
 ## See also

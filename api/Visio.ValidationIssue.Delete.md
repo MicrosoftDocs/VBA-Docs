@@ -20,7 +20,7 @@ Deletes the  **[ValidationIssue](Visio.ValidationIssue.md)** object from the doc
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **ValidationIssue** object.
+ _expression_ A variable that represents a [ValidationIssue](./Visio.ValidationIssue.md) object.
 
 
 ### Return Value

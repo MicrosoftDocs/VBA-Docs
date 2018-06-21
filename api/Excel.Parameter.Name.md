@@ -20,7 +20,7 @@ Returns or sets a  **String** value representing the name of the object.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Parameter** object.
+ _expression_ A variable that represents a [Parameter](./Excel.Parameter.md) object.
 
 
 ## See also

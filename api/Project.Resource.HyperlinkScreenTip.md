@@ -17,7 +17,7 @@ Gets or sets a ScreenTip for the hyperlink. Read/write  **String**.
 
  _expression_. 'HyperlinkScreenTip'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

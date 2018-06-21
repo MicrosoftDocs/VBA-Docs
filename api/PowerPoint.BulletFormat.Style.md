@@ -20,7 +20,7 @@ Returns or sets the bullet style. Read/write.
 
  _expression_. 'Style'
 
- _expression_ A variable that represents a **BulletFormat** object.
+ _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
 ### Return Value

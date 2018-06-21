@@ -20,7 +20,7 @@ Turns off protection for sharing and saves the workbook.
 
  _expression_. 'UnprotectSharing'( '_SharingPassword_' )
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

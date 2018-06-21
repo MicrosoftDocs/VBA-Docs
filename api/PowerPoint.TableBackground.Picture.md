@@ -20,7 +20,7 @@ Returns a  **[PictureFormat](PowerPoint.PictureFormat.md)** object that represen
 
  _expression_. 'Picture'
 
- _expression_ An expression that returns a **TableBackground** object.
+ _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Determines whether speaker notes are to be published with the presentation. Read
 
  _expression_. 'SpeakerNotes'
 
- _expression_ A variable that represents a **PublishObject** object.
+ _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 
 
 ### Return Value

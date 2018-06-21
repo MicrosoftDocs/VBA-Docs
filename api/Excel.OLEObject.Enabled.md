@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Enabled'
 
- _expression_ A variable that represents an **OLEObject** object.
+ _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
 
 
 ## See also

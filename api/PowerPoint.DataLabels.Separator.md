@@ -17,7 +17,7 @@ Sets or returns the separator for the data labels on a chart. Read/write  **Vari
 
  _expression_. 'Separator'
 
- _expression_ A variable that represents a **[DataLabels](PowerPoint.DataLabels.md)** object.
+ _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 
 
 ## Remarks

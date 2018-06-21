@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the priority for sorting styles in t
 
  _expression_. 'Priority'
 
- _expression_ An expression that returns a **[Style](Word.Style.md)** object.
+ _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 
 
 ## See also

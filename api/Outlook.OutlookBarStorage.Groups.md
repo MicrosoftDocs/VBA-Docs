@@ -20,7 +20,7 @@ Returns an  **[OutlookBarGroups](Outlook.OutlookBarGroups.md)** object represent
 
  _expression_. 'Groups'
 
- _expression_ A variable that represents an **OutlookBarStorage** object.
+ _expression_ A variable that represents an [OutlookBarStorage](./Outlook.OutlookBarStorage.md) object.
 
 
 ## Example

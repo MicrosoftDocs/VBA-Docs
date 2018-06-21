@@ -20,7 +20,7 @@ Permanently removes the  **[StorageItem](Outlook.StorageItem.md)** object from t
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **StorageItem** object.
+ _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
 
 
 ## Remarks

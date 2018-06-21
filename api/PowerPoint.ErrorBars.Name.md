@@ -17,7 +17,7 @@ Returns the name of the object. Read-only  **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **[ErrorBars](PowerPoint.ErrorBars.md)** object.
+ _expression_ A variable that represents an '[ErrorBars](PowerPoint.ErrorBars.md)' object.
 
 
 ## See also

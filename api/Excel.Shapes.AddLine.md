@@ -20,7 +20,7 @@ As it applies to the  **Shapes** object, returns a **[Shape](Excel.Shape.md)** o
 
  _expression_. 'AddLine'( '_BeginX_' , '_BeginY_' , '_EndX_' , '_EndY_' )
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
 ### Parameters

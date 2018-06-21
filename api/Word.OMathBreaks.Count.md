@@ -20,7 +20,7 @@ Returns the number of items in the  **OMathBreaks** collection. Read-only **Long
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **[OMathBreaks](Word.OMathBreaks.md)** object.
+ _expression_ A variable that represents a '[OMathBreaks](Word.OMathBreaks.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Opens a stencil window that shows the masters in the document.
 
  _expression_. 'OpenStencilWindow'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

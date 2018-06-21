@@ -20,7 +20,7 @@ Returns a  **Boolean** that represents whether a document has an attached Micros
 
  _expression_. 'HasVBProject'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Controls whether or not tooltips are displayed for PivotTable cells. Read/write 
 
  _expression_. 'DisplayContextTooltips'
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ## Remarks

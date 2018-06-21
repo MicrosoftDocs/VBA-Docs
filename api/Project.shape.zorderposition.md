@@ -13,7 +13,7 @@ Gets the position of the shape in the z-order. Read-only  **Long**.
 
  _expression_. 'ZOrderPosition'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Remarks

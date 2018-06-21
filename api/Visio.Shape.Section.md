@@ -20,7 +20,7 @@ Returns the requested  **Section** object belonging to a shape. Read-only.
 
  _expression_. 'Section'( '_Index_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

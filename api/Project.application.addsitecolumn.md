@@ -16,7 +16,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 
  _expression_. 'AddSiteColumn' _(ProjectField_,  _SharePointName)_
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

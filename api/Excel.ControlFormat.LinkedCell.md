@@ -20,7 +20,7 @@ Returns or sets the worksheet range linked to the control's value. If you place 
 
  _expression_. 'LinkedCell'
 
- _expression_ A variable that represents a **ControlFormat** object.
+ _expression_ A variable that represents a [ControlFormat](./Excel.ControlFormat.md) object.
 
 
 ## Remarks

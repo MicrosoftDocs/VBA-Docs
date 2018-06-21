@@ -20,7 +20,7 @@ Allows an add-in to update the user interface of a form region before it is disp
 
  _expression_. 'BeforeFormRegionShow'( '_FormRegion_' )
 
- _expression_ A variable that represents a **FormRegionStartup** object.
+ _expression_ A variable that represents a 'FormRegionStartup' object.
 
 
 ### Parameters

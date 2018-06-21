@@ -20,7 +20,7 @@ Gets the work breakdown structure (WBS) codes of the task predecessors, separate
 
  _expression_. 'WBSPredecessors'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Example

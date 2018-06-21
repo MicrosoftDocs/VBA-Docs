@@ -17,7 +17,7 @@ Gets a  **[ResourceGroups](Project.resourcegroups(object).md)** collection that 
 
  _expression_. 'ResourceGroups'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

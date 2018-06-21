@@ -20,7 +20,7 @@ Opens or closes the connection to Project Server.
 
  _expression_. 'WorkOffline'( ' _fOffline_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

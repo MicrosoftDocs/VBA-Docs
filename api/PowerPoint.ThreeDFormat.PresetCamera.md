@@ -20,7 +20,7 @@ Returns the effects camera type used by the specified  **ThreeDFormat** object. 
 
  _expression_. 'PresetCamera'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ### Return Value

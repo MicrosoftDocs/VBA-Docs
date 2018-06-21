@@ -20,7 +20,7 @@ Returns a single object from a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Sheets** object.
+ _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
 
 
 ### Parameters

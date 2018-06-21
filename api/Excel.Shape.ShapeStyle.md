@@ -20,7 +20,7 @@ Returns or sets an  **[MsoShapeStyleIndex](http://msdn.microsoft.com/library/61f
 
  _expression_. 'ShapeStyle'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## See also

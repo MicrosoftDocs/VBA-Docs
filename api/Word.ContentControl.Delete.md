@@ -20,7 +20,7 @@ Deletes the specified content control and the contents of the content control.
 
  _expression_. 'Delete'( '_DeleteContents_' )
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ### Parameters

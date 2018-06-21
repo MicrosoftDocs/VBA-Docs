@@ -20,7 +20,7 @@ Returns the quick styles of the SmartArt diagram in the current  **Application**
 
  _expression_. 'SmartArtQuickStyles'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a picture that represents an enhanced metafile (EMF) contained in a mast
 
  _expression_. 'Picture'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

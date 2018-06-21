@@ -15,7 +15,7 @@ Adds period (.) punctuation to the right side of the text contained in TextRange
 
  _expression_. 'AddPeriods'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ## See also

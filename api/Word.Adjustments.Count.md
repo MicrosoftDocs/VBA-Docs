@@ -20,7 +20,7 @@ Returns the number of items in the  **Adjustments** collection. Read-only **Long
 
  _expression_. 'Count'
 
- _expression_ A variable that represents an **[Adjustments](Word.Adjustments.md)** collection.
+ _expression_ A variable that represents an '[Adjustments](Word.Adjustments.md)' collection.
 
 
 ## See also

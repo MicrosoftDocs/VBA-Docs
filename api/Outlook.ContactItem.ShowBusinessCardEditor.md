@@ -20,7 +20,7 @@ Displays the electronic business card (EBC) editor dialog box for the  **[Contac
 
  _expression_. 'ShowBusinessCardEditor'
 
- _expression_ An expression that returns a **ContactItem** object.
+ _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

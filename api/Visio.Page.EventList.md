@@ -20,7 +20,7 @@ Returns the  **EventList** collection of an object or the **EventList** collecti
 
  _expression_. 'EventList'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Working'
 
- _expression_ A variable that represents a **WeekDay** object.
+ _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
 
 
 ## Remarks

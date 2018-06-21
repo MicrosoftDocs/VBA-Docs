@@ -20,7 +20,7 @@ Sets the specified fill to a preset gradient.
 
  _expression_. 'PresetGradient'( '_Style_', '_Variant_', '_PresetGradientType_' )
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ### Parameters

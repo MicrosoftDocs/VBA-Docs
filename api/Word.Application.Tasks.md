@@ -20,7 +20,7 @@ Returns a  **[Tasks](Word.tasks.md)** collection that represents all the applica
 
  _expression_. 'Tasks'
 
- _expression_ An expression that returns an **[Application](Word.Application.md)** object.
+ _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

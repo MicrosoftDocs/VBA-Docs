@@ -15,7 +15,7 @@ Returns or sets whether the specified comment is collapsed. Read-write  **Boolea
 
  _expression_. 'Collapsed'
 
- _expression_ A variable that represents a **Comment** object.
+ _expression_ A variable that represents a 'Comment' object.
 
 
 ## Property value

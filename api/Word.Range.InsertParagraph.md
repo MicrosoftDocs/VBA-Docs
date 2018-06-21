@@ -20,7 +20,7 @@ Replaces the specified range with a new paragraph.
 
  _expression_. 'InsertParagraph'
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

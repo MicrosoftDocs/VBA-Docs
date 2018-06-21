@@ -15,7 +15,7 @@ Returns the number of objects in a collection. Read-only  **Long**.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Comments** object.
+ _expression_ A variable that represents a 'Comments' object.
 
 
 ## Property value

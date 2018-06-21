@@ -20,7 +20,7 @@ Displays the  **Gridlines** dialog box. This method is unavailable when the acti
 
  _expression_. 'Gridlines'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

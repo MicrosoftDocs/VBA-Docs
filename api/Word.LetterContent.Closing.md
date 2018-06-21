@@ -20,7 +20,7 @@ Returns or sets the closing text for a letter created by the Letter Wizard (for 
 
  _expression_. 'Closing'
 
- _expression_ A variable that represents a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

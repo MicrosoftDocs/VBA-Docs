@@ -20,7 +20,7 @@ Returns a  **[Recipient](Outlook.Recipient.md)** object representing a member in
 
  _expression_. 'GetMember'( '_Index_' )
 
- _expression_ A variable that represents a **DistListItem** object.
+ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ### Parameters

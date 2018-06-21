@@ -20,7 +20,7 @@ Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that rep
 
  _expression_. 'GetRecurrencePattern'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ### Return Value

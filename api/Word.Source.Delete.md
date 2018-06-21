@@ -20,7 +20,7 @@ Deletes the specified source.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns a **Source** object.
+ _expression_ An expression that returns a [Source](./Word.Source.md) object.
 
 
 ## See also

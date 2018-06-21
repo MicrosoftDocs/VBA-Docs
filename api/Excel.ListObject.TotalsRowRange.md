@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'TotalsRowRange'
 
- _expression_ A variable that represents a **ListObject** object.
+ _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 
 
 ## Example

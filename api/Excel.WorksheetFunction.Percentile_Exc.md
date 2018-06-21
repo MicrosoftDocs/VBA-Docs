@@ -20,7 +20,7 @@ Returns the k-th percentile of values in a range, where k is in the range 0..1, 
 
  _expression_. 'Percentile_Exc'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

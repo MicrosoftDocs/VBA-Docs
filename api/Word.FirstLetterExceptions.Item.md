@@ -20,7 +20,7 @@ Returns an individual  **FirstLetterException** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection.
+ _expression_ Required. A variable that represents a '[FirstLetterExceptions](Word.firstletterexceptions.md)' collection.
 
 
 ### Parameters

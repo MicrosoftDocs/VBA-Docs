@@ -20,7 +20,7 @@ Returns or sets the default check box value.  **True** if the default value is c
 
  _expression_. 'Default'
 
- _expression_ Required. A variable that represents a **[CheckBox](Word.CheckBox.md)** object.
+ _expression_ Required. A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 
 
 ## Example

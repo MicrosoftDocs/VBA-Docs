@@ -20,6 +20,6 @@ Represents a token for the localized lookup table structure. Read-only  **String
 
  _expression_. 'LocalizedCookie'
 
- _expression_ A variable that represents a **LookupTableEntry** object.
+ _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 

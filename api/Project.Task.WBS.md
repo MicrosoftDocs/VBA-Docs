@@ -17,6 +17,6 @@ Gets or sets the work breakdown structure (WBS) code of the task. Read/write  **
 
  _expression_. 'WBS'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

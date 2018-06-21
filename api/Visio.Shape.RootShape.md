@@ -20,7 +20,7 @@ Returns the top-level shape of an instance if this shape is part of a master ins
 
  _expression_. 'RootShape'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the order in which to display sour
 
  _expression_. 'BibliographySort'
 
- _expression_ An expression that returns an **[Options](Word.Options.md)** object.
+ _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
 
 ## Remarks

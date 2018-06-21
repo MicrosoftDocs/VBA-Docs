@@ -17,6 +17,6 @@ Gets or sets the task baseline6 deliverables finish date. Read/write  **Variant*
 
  _expression_. 'Baseline6DeliverableFinish'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

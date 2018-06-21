@@ -20,7 +20,7 @@ Occurs after the selection state is changed for a navigation folder contained in
 
  _expression_. 'SelectedChange'( '_NavigationFolder_' )
 
- _expression_ A variable that represents a **NavigationGroups** object.
+ _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Text
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[TextColumns](Word(textcolumns).md)** collection.
+ _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 
 
 ## See also

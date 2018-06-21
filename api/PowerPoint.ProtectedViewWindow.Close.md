@@ -20,7 +20,7 @@ Closes the specified window.
 
  _expression_. 'Close'
 
- _expression_ A variable that represents a **ProtectedViewWindow** object.
+ _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## See also

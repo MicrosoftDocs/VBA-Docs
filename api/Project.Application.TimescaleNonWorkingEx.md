@@ -20,7 +20,7 @@ Sets the format of nonworking times, where color values can be hexadecimal RGB v
 
  _expression_. 'TimescaleNonWorkingEx'( ' _Draw_', ' _Calendar_', ' _Color_', ' _Pattern_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

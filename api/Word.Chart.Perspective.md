@@ -20,7 +20,7 @@ Returns or sets the perspective for the 3-D chart view. Read/write  **Long** .
 
  _expression_. 'Perspective'
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ## Remarks

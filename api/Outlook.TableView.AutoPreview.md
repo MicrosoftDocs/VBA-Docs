@@ -20,7 +20,7 @@ Returns or sets an  **[OlAutoPreview](Outlook.OlAutoPreview.md)** constant that 
 
  _expression_. 'AutoPreview'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Example

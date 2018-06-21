@@ -20,7 +20,7 @@ Returns the  **Range** or **Shape** object that is located at the point specifie
 
  _expression_. 'RangeFromPoint'( '_x_' , '_y_' )
 
- _expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
+ _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ### Parameters

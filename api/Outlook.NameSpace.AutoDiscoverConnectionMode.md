@@ -20,7 +20,7 @@ Returns an  **[OlAutoDiscoverConnectionMode](Outlook.OlAutoDiscoverConnectionMod
 
  _expression_. 'AutoDiscoverConnectionMode'
 
- _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
+ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Remarks

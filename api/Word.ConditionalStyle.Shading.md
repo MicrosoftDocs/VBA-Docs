@@ -20,7 +20,7 @@ Returns a  **Shading** object that represents the shading formatting for the sty
 
  _expression_. 'Shading'
 
- _expression_ Required. A variable that represents a **[ConditionalStyle](Word.ConditionalStyle.md)** object.
+ _expression_ Required. A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
 
 
 ## See also

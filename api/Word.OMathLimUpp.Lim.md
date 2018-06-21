@@ -20,7 +20,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the u
 
  _expression_. 'Lim'
 
- _expression_ An expression that returns an **[OMathLimUpp](Word.OMathLimUpp.md)** object.
+ _expression_ An expression that returns an '[OMathLimUpp](Word.OMathLimUpp.md)' object.
 
 
 ## See also

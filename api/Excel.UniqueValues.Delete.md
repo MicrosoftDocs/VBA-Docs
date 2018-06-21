@@ -20,7 +20,7 @@ Deletes the specified conditional formatting rule object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **UniqueValues** object.
+ _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
 
 
 ## See also

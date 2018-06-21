@@ -20,7 +20,7 @@ Returns the series lines for a 2-D stacked bar, 2-D stacked column, pie-of-pie, 
 
  _expression_. 'SeriesLines'
 
- _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
+ _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 
 
 ## Example

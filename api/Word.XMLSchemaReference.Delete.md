@@ -20,7 +20,7 @@ Deletes the specified XML Schema Reference.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[XMLSchemaReference](Word.XMLSchemaReference.md)** object.
+ _expression_ Required. A variable that represents a '[XMLSchemaReference](Word.XMLSchemaReference.md)' object.
 
 
 ## See also

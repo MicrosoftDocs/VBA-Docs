@@ -20,7 +20,7 @@ Returns the value last retrieved from the data source for edited cells in a Pivo
 
  _expression_. 'DataSourceValue'
 
- _expression_ A variable that represents a **[PivotCell](Excel.PivotCell.md)** object.
+ _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
 
 
 ### Return Value

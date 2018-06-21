@@ -20,6 +20,6 @@ Gets a  **[ViewsCombination](Project.ViewCombination.md)** collection representi
 
  _expression_. 'ViewsCombination'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

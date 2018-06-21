@@ -20,7 +20,7 @@ Returns a  **String** that represents the name of the default theme plus the the
 
  _expression_. 'GetDefaultTheme'( '_DocumentType_' )
 
- _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ### Parameters

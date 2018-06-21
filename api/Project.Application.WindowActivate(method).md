@@ -20,7 +20,7 @@ Activates a window.
 
  _expression_. 'WindowActivate'( ' _WindowName_', ' _DialogID_', ' _TopPane_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

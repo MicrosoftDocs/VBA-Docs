@@ -18,7 +18,7 @@ Moves the insertion point to the character position immediately preceding the sp
 
  _expression_. 'GoTo'( '_What_' , '_Which_' , '_Count_' , '_Name_' )
 
- _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
+ _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 ### Parameters
 

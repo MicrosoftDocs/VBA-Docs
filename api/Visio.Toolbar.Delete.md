@@ -20,7 +20,7 @@ Deletes an object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Toolbar** object.
+ _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets an array of x values for a chart series. Read/write  **Variant**
 
  _expression_. 'XValues'
 
- _expression_ A variable that represents a **[Series](Word.Series.md)** object.
+ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ## Remarks

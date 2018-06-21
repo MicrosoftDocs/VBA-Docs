@@ -20,7 +20,7 @@ Copies the current view.
 
  _expression_. 'ViewCopy'( ' _Name_', ' _ApplyTo_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

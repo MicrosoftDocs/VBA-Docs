@@ -20,7 +20,7 @@ Returns a  **Source** object that represents the specified item in the collectio
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns a **[Sources](Word.Sources.md)** object.
+ _expression_ An expression that returns a '[Sources](Word.Sources.md)' object.
 
 
 ### Parameters

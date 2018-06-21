@@ -20,7 +20,7 @@ Returns a  **Permission** object that represents the permission settings in the 
 
  _expression_. 'Permission'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

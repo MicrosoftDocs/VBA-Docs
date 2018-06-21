@@ -20,7 +20,7 @@ Gets or sets the GUID of the enterprise resource responsible for accepting or re
 
  _expression_. 'StatusManagerName'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

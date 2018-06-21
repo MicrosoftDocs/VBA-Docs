@@ -17,7 +17,7 @@ Occurs just before an attachment is saved.
 
  _expression_. 'BeforeAttachmentSave'( '_Attachment_' , '_Cancel_' )
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ### Parameters

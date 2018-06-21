@@ -20,7 +20,7 @@ Returns a  **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondicti
 
  _expression_. 'HangulHanjaDictionaries'
 
- _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

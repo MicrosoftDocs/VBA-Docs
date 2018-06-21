@@ -20,7 +20,7 @@ Activates the drawing feature.
 
  _expression_. 'DrawingCreate'( ' _Type_', ' _Behind_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

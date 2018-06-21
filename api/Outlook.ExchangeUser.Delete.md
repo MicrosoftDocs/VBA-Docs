@@ -20,7 +20,7 @@ Deletes the  **[ExchangeUser](Outlook.ExchangeUser.md)** object from the **[Addr
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

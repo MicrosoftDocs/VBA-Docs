@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. 'Select'
 
- _expression_ A variable that represents a **LeaderLines** object.
+ _expression_ A variable that represents a [LeaderLines](./Excel.LeaderLines(Graph property).md) object.
 
 
 ## See also

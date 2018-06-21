@@ -20,7 +20,7 @@ Returns an  **[Application](Excel.Application(objec).md)** object that represent
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **[FileExportConverters](Excel.FileExportConverters.md)** collection.
+ _expression_ A variable that represents a '[FileExportConverters](Excel.FileExportConverters.md)' collection.
 
 
 ## See also

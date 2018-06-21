@@ -20,7 +20,7 @@ Returns a  **String** value that represents the name of the Microsoft Exchange S
 
  _expression_. 'ExchangeMailboxServerName'
 
- _expression_ A variable that represents an **[Account](Outlook.Account.md)** object.
+ _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Returns or sets a value indicating whether the top insert bevel should be raised
 
  _expression_. 'BevelTopInset'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## See also

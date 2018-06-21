@@ -20,7 +20,7 @@ When a slide is inserted into a presentation, Microsoft PowerPoint automatically
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **SlideRange** object.
+ _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ### Return Value

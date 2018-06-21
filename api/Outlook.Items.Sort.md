@@ -20,7 +20,7 @@ Sorts the collection of items by the specified property. The index for the colle
 
  _expression_. 'Sort'( '_Property_' , '_Descending_' )
 
- _expression_ A variable that represents an **Items** object.
+ _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 
 ### Parameters

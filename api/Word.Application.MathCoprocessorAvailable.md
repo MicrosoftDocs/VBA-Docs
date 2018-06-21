@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'MathCoprocessorAvailable'
 
- _expression_ An expression that returns an **[Application](Word.Application.md)** object.
+ _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
 ## Example

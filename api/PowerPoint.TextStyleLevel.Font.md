@@ -20,7 +20,7 @@ Returns a  **[Font](PowerPoint.Font.md)** object that represents character forma
 
  _expression_. 'Font'
 
- _expression_ A variable that represents a **TextStyleLevel** object.
+ _expression_ A variable that represents a [TextStyleLevel](./PowerPoint.TextStyleLevel.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns the local name of a cell. Read-only.
 
  _expression_. 'LocalName'
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Return Value

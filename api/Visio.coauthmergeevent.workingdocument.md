@@ -15,7 +15,7 @@ Returns a [Document](Visio.Document.md) object that represents a merged document
 
  _expression_. 'WorkingDocument'
 
- _expression_ A variable that represents a **CoauthMergeEvent** object.
+ _expression_ A variable that represents a 'CoauthMergeEvent' object.
 
 
 ## Remarks

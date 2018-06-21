@@ -17,7 +17,7 @@ Gets the parent of the  **OutlineCode** object. Read-only **Project**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 
 ## Remarks

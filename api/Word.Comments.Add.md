@@ -20,7 +20,7 @@ Returns a  **Comment** object that represents a comment added to a range.
 
  _expression_. 'Add'( '_Range_' , '_Text_' )
 
- _expression_ Required. A variable that represents a **[Comments](Word.comments.md)** collection.
+ _expression_ Required. A variable that represents a '[Comments](Word.comments.md)' collection.
 
 
 ### Parameters

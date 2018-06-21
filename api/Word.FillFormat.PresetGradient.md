@@ -20,7 +20,7 @@ Sets the specified fill to a preset gradient.
 
  _expression_. 'PresetGradient'( '_Style_' , '_Variant_' , '_PresetGradientType_' )
 
- _expression_ Required. A variable that represents a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ### Parameters

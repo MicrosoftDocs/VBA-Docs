@@ -20,7 +20,7 @@ Returns number rounded up to the nearest odd integer.
 
  _expression_. 'Odd'( '_Arg1_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

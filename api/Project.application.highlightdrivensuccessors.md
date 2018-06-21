@@ -16,7 +16,7 @@ Sets or clears task driven successor highlighting for the task path feature.
 
  _expression_. 'HighlightDrivenSuccessors' _(Set)_
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

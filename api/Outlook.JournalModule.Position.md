@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that represents the ordinal position of the **
 
  _expression_. 'Position'
 
- _expression_ A variable that represents a **JournalModule** object.
+ _expression_ A variable that represents a [JournalModule](./Outlook.JournalModule.md) object.
 
 
 ## Remarks

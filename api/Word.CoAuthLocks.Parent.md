@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **[CoA
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **CoAuthLocks** object.
+ _expression_ An expression that returns a [CoAuthLocks](./Word.CoAuthLocks.md) object.
 
 
 ## See also

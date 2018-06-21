@@ -20,7 +20,7 @@ Adds a new column in a specified position, in views where columns can be added.
 
  _expression_. 'AddNewColumn'( ' _Column_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

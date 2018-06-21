@@ -20,7 +20,7 @@ Saves a custom chart template to the list of available chart templates.
 
  _expression_. 'SaveChartTemplate'( '_FileName_' )
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Determines the parent of an object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **ToolbarSet** object.
+ _expression_ A variable that represents a [ToolbarSet](./Visio.ToolbarSet.md) object.
 
 
 ### Return Value

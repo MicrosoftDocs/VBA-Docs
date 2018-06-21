@@ -20,7 +20,7 @@ Converts a vertical measurement from points to pixels. Used to return a vertical
 
  _expression_. 'PointsToScreenPixelsY'( '_Points_' )
 
- _expression_ A variable that represents a **DocumentWindow** object.
+ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ### Parameters

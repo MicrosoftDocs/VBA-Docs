@@ -20,7 +20,7 @@ Deletes the specified matrix column.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns an **OMathMatCol** object.
+ _expression_ An expression that returns an [OMathMatCol](./Word.OMathMatCol.md) object.
 
 
 ## See also

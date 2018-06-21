@@ -20,7 +20,7 @@ Sets information about a project.
 
  _expression_. 'ProjectSummaryInfo'( ' _Project_', ' _Title_', ' _Subject_', ' _Author_', ' _Company_', ' _Manager_', ' _Keywords_', ' _Comments_', ' _Start_', ' _Finish_', ' _ScheduleFrom_', ' _CurrentDate_', ' _Calendar_', ' _StatusDate_', ' _Priority_', ' _PartiallyDisabled_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

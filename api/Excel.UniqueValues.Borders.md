@@ -20,7 +20,7 @@ Returns a  **[Borders](Excel.Borders.md)** collection that specifies the formatt
 
  _expression_. 'Borders'
 
- _expression_ A variable that represents a **UniqueValues** object.
+ _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
 
 
 ## Remarks

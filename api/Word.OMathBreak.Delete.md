@@ -20,7 +20,7 @@ Deletes the specified equation break.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns an **OMathBreak** object.
+ _expression_ An expression that returns an [OMathBreak](./Word.OMathBreak.md) object.
 
 
 ## See also

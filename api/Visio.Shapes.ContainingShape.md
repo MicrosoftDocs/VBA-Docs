@@ -20,7 +20,7 @@ Returns the  **Shape** object that contains an object or collection. Read-only.
 
  _expression_. 'ContainingShape'
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./Visio.Shapes.md) object.
 
 
 ### Return Value

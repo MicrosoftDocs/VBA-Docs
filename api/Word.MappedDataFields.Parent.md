@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Mapp
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[MappedDataFields](Word.MappedDataFields.md)** collection.
+ _expression_ Required. A variable that represents a '[MappedDataFields](Word.MappedDataFields.md)' collection.
 
 
 ## See also

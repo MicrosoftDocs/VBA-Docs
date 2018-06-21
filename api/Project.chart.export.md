@@ -13,7 +13,7 @@ Exports a chart in a graphic file format.
 
  _expression_. 'Export' _(bstr,_? _varFilterName,_? _varInteractive)_
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ### Parameters

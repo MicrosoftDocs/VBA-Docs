@@ -20,7 +20,7 @@ Returns a  **Long** that indicates the count of objects in the **[SimpleItems](O
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **SimpleItems** object.
+ _expression_ A variable that represents a [SimpleItems](./Outlook.SimpleItems.md) object.
 
 
 ## See also

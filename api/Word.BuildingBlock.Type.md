@@ -20,7 +20,7 @@ Returns a  **BuildingBlockType** object that represents the type for a building 
 
  _expression_. 'Type'
 
- _expression_ An expression that returns a **[BuildingBlock](Word.BuildingBlock.md)** object.
+ _expression_ An expression that returns a '[BuildingBlock](Word.BuildingBlock.md)' object.
 
 
 ## See also

@@ -17,7 +17,7 @@ Returns the number of objects in the specified collection. Read-only.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **PublishObjects** object.
+ _expression_ A variable that represents a [PublishObjects](./PowerPoint.PublishObjects.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Indents the first line of one or more paragraphs by a specified number of charac
 
  _expression_. 'IndentFirstLineCharWidth'( '_Count_' )
 
- _expression_ Required. A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Restores a previously deleted title placeholder to a slide. Returns a  **[Shape]
 
  _expression_. 'AddTitle'
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ### Return Value

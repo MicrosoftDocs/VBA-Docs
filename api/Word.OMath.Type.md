@@ -20,7 +20,7 @@ Returns or sets a  **WdOMathType** constant that represents whether an equation 
 
  _expression_. 'Type'
 
- _expression_ An expression that returns an **OMath** object.
+ _expression_ An expression that returns an [OMath](./Word.OMath.md) object.
 
 
 ## Example

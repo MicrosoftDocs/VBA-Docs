@@ -20,7 +20,7 @@ Requests that an OLE object perform one of its verbs.
 
  _expression_. 'DoVerb'( '_Index_' )
 
- _expression_ A variable that represents an **OLEFormat** object.
+ _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 
 
 ### Parameters

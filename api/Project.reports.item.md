@@ -13,7 +13,7 @@ Gets a single  **Report** object from the **Reports** collection. Read-only **Re
 
  _expression_. 'Item'
 
- _expression_ A variable that represents a **Reports** object.
+ _expression_ A variable that represents a 'Reports' object.
 
 
 ## Parameters

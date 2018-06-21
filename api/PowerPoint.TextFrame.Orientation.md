@@ -20,7 +20,7 @@ Returns or sets text orientation. Read/write.
 
  _expression_. 'Orientation'
 
- _expression_ A variable that represents a **TextFrame** object.
+ _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 
 
 ### Return Value

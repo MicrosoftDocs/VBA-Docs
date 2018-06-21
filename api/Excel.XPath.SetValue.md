@@ -20,7 +20,7 @@ Maps the specified  **[XPath](Excel.XPath.md)** object to a **[ListColumn](Excel
 
  _expression_. 'SetValue'( '_Map_' , '_XPath_' , '_SelectionNamespace_' , '_Repeating_' )
 
- _expression_ A variable that represents a **XPath** object.
+ _expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
 
 
 ### Parameters

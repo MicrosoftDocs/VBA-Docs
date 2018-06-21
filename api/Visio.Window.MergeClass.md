@@ -20,7 +20,7 @@ Specifies a list of window classes that this anchored window can merge with. Rea
 
  _expression_. 'MergeClass'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

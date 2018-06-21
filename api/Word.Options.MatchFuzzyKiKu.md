@@ -23,7 +23,7 @@ ms.date: 06/08/2017
 
  _expression_. 'MatchFuzzyKiKu'
 
- _expression_ An expression that returns an **[Options](Word.Options.md)** object.
+ _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 
 
 ## Example

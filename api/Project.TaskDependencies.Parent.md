@@ -17,7 +17,7 @@ Gets the parent of the  **TaskDependencies** object. Read-only **Task**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **TaskDependencies** object.
+ _expression_ A variable that represents a 'TaskDependencies' object.
 
 
 ## Remarks

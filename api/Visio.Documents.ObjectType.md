@@ -20,7 +20,7 @@ Returns an object's type. Read-only.
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents a **Documents** object.
+ _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
 ### Return Value

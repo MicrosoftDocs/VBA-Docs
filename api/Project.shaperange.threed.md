@@ -13,7 +13,7 @@ Gets a  **ThreeDFormat** object that contains 3-D formatting properties for the 
 
  _expression_. 'ThreeD'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Remarks

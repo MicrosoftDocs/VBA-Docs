@@ -20,7 +20,7 @@ Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** that
 
  _expression_. 'Align'
 
- _expression_ An expression that returns an **[OMathEqArray](Word.OMathEqArray.md)** object.
+ _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 
 
 ## See also

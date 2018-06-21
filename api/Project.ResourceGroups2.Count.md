@@ -17,7 +17,7 @@ Gets the number of  **Group2** objects in the **ResourceGroups2** collection. Re
 
  _expression_. 'Count'
 
- _expression_ An expression that returns a **ResourceGroups2** object.
+ _expression_ An expression that returns a 'ResourceGroups2' object.
 
 
 ## Remarks

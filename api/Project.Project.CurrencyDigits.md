@@ -20,7 +20,7 @@ Sets or returns the number of digits following the decimal separator character i
 
  _expression_. 'CurrencyDigits'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

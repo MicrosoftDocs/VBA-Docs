@@ -20,7 +20,7 @@ Returns a  **[CalculatedItems](Excel.CalculatedItems.md)** collection that repre
 
  _expression_. 'CalculatedItems'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ### Return Value

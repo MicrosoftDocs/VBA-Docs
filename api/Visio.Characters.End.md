@@ -20,7 +20,7 @@ Returns or sets the ending index of the indicated  **Characters** object represe
 
  _expression_. 'End'
 
- _expression_ A variable that represents a **Characters** object.
+ _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
 ### Return Value

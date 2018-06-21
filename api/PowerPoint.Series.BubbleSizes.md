@@ -20,7 +20,7 @@ Returns or sets a string that refers to the worksheet cells that contain the x-v
 
  _expression_. 'BubbleSizes'
 
- _expression_ A variable that represents a **[Series](PowerPoint.Series.md)** object.
+ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the horizontal position of the specified slicer, in points, rela
 
  _expression_. 'Left'
 
- _expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
+ _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ### Return Value

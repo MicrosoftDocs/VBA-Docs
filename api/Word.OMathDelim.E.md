@@ -20,7 +20,7 @@ Returns an  **OMathArgs** object that represents the list of arguments for the s
 
  _expression_. 'E'
 
- _expression_ An expression that returns an **OMathDelim** object.
+ _expression_ An expression that returns an [OMathDelim](./Word.OMathDelim.md) object.
 
 
 ## See also

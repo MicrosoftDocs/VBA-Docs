@@ -23,7 +23,7 @@ Sets one or more data-column properties for one or more data columns.
 
  _expression_. 'SetColumnProperties'( '_ColumnNames()_' , '_Properties()_' , '_Values()_' )
 
- _expression_ An expression that returns a **DataColumns** object.
+ _expression_ An expression that returns a [DataColumns](./Visio.DataColumns.md) object.
 
 
 ### Parameters

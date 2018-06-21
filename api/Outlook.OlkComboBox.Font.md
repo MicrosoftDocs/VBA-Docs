@@ -20,7 +20,7 @@ Returns a  **StdFont** that represents the font used to render the text inside t
 
  _expression_. 'Font'
 
- _expression_ A variable that represents an **OlkComboBox** object.
+ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

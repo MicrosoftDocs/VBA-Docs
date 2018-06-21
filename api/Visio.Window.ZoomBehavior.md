@@ -20,7 +20,7 @@ Determines the zoom behavior for a Microsoft Visio document or window. Read/writ
 
  _expression_. 'ZoomBehavior'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

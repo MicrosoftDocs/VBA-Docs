@@ -17,6 +17,6 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowSummary'
 
- _expression_ A variable that represents a **Group** object.
+ _expression_ A variable that represents a [Group](./Project.Group.md) object.
 
 

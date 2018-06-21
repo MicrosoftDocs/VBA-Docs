@@ -20,7 +20,7 @@ Returns a reference to the  **CommandBars** collection that represents the comma
 
  _expression_. 'CommandBars'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

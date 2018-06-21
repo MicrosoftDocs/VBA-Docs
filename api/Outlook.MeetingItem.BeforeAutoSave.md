@@ -17,7 +17,7 @@ Occurs before the item is automatically saved by Outlook.
 
  _expression_. 'BeforeAutoSave'( '_Cancel_' )
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ### Parameters

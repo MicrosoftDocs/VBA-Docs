@@ -20,7 +20,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. 'Creator'
 
- _expression_ An expression that returns a **ReflectionFormat** object.
+ _expression_ An expression that returns a [ReflectionFormat](./Word.ReflectionFormat.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[Slide](PowerPoint.Slide.md)** object that represents the slide tha
 
  _expression_. 'Slide'
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ### Return Value

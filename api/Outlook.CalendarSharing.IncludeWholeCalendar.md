@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether all calendar items i
 
  _expression_. 'IncludeWholeCalendar'
 
- _expression_ An expression that returns a **CalendarSharing** object.
+ _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
 ### Return Value

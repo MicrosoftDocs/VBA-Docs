@@ -20,7 +20,7 @@ Returns the universal-syntax formula of the custom field represented by an objec
 
  _expression_. 'FieldFormulaU'
 
- _expression_ A variable that represents a **Characters** object.
+ _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
 ### Return Value

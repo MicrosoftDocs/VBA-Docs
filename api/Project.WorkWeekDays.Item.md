@@ -17,7 +17,7 @@ Gets a single  **WorkWeekDay** object from the **WorkWeekDays** collection. Read
 
  _expression_. 'Item'( ' _Index_' )
 
- _expression_ An expression that returns a **WorkWeekDays** object.
+ _expression_ An expression that returns a 'WorkWeekDays' object.
 
 
 ### Parameters

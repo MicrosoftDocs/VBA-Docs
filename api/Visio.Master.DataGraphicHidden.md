@@ -23,7 +23,7 @@ Hides or displays a data graphic in the  **Data Graphics** task pane in the Micr
 
  _expression_. 'DataGraphicHidden'
 
- _expression_ An expression that returns a **Master** object.
+ _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

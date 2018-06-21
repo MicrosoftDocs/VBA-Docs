@@ -17,7 +17,7 @@ Exports the chart in a graphic format. Returns a value of type  **Boolean**.
 
  _expression_. 'Export( _FileName_',  '_FilterName_',  '_Interactive_)'
 
- _expression_ Required. An expression that returns a **Chart** object.
+ _expression_ Required. An expression that returns a [Chart](./Excel.Chart(Graph object).md) object.
 
  **FileName** Required **String**. The name of the exported file.
  **FilterName** Optional **Variant**. The language-independent name of the graphic filter as it appears in the registry.

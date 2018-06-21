@@ -20,7 +20,7 @@ Adds a line to the  **Shapes** collection of a master.
 
  _expression_. 'DrawLine'( '_xBegin_' , '_yBegin_' , '_xEnd_' , '_yEnd_' )
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Parameters

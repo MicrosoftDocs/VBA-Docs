@@ -20,7 +20,7 @@ Sets the current group.
 
  _expression_. 'GroupApply'( ' _Name_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

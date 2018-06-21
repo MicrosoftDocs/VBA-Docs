@@ -20,7 +20,7 @@ Returns a  **[TickLabels](Excel.TickLabels(objec).md)** object that represents t
 
  _expression_. 'TickLabels'
 
- _expression_ A variable that represents an **Axis** object.
+ _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 
 
 ## Example

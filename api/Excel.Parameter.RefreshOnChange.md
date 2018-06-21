@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'RefreshOnChange'
 
- _expression_ A variable that represents a **Parameter** object.
+ _expression_ A variable that represents a [Parameter](./Excel.Parameter.md) object.
 
 
 ## Remarks

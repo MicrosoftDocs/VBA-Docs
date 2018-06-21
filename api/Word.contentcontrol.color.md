@@ -18,7 +18,7 @@ Returns or sets the color of the content control. Read/write [WdColor](Word.cont
 
  _expression_. 'Color'
 
- _expression_ A variable that represents a **ContentControl** object.
+ _expression_ A variable that represents a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Property value

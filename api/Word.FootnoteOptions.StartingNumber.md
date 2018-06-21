@@ -20,7 +20,7 @@ Returns or sets the starting footnote number. Read/write  **Long** .
 
  _expression_. 'StartingNumber'
 
- _expression_ Required. A variable that represents a **[FootnoteOptions](Word.FootnoteOptions.md)** collection.
+ _expression_ Required. A variable that represents a '[FootnoteOptions](Word.FootnoteOptions.md)' collection.
 
 
 ## See also

@@ -17,7 +17,7 @@ Gets the parent of the  **ViewsCombination** object. Read-only **Project**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **ViewsCombination** object.
+ _expression_ A variable that represents a 'ViewsCombination' object.
 
 
 ## Remarks

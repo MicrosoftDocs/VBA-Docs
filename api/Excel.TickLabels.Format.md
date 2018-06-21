@@ -20,7 +20,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
  _expression_. 'Format'
 
- _expression_ A variable that represents a **TickLabels** object.
+ _expression_ A variable that represents a [TickLabels](./Excel.TickLabels(Graph property).md) object.
 
 
 ## See also

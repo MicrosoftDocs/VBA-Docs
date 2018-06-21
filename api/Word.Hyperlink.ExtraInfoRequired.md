@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ExtraInfoRequired'
 
- _expression_ A variable that represents a **[Hyperlink](Word.Hyperlink.md)** object.
+ _expression_ A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Remarks

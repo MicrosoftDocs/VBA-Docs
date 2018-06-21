@@ -20,7 +20,7 @@ Returns an  **Integer** that represents the original list level for a paragraph.
 
  _expression_. 'ListNumberOriginal'( '_Level_' )
 
- _expression_ An expression that returns a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ An expression that returns a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ### Parameters

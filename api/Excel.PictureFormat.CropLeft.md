@@ -20,7 +20,7 @@ Returns or sets the number of points that are cropped off the left side of the s
 
  _expression_. 'CropLeft'
 
- _expression_ An expression that returns a **PictureFormat** object.
+ _expression_ An expression that returns a [PictureFormat](./Excel.PictureFormat.md) object.
 
 
 ## Remarks

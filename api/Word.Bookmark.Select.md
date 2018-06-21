@@ -20,7 +20,7 @@ Selects the specified bookmark.
 
  _expression_. 'Select'
 
- _expression_ Required. A variable that represents a **[Bookmark](Word.Bookmark.md)** object.
+ _expression_ Required. A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Occurs when an ActiveX control loses input focus.
 
  _expression_. 'LostFocus'
 
- _expression_ A variable that represents an **OLEObject** object.
+ _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
 
 
 ### Return Value

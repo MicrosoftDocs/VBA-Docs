@@ -20,7 +20,7 @@ Deletes the specified form field.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[FormField](Word.FormField.md)** object.
+ _expression_ Required. A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
 ## See also

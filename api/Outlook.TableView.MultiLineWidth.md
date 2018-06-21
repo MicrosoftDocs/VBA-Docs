@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that represents the text width (in characters)
 
  _expression_. 'MultiLineWidth'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Prints a label or a page of labels with the same address.
 
  _expression_. 'PrintOutByID'( '_LabelID_' , '_Address_' , '_ExtractAddress_' , '_LaserTray_' , '_SingleLabel_' , '_Row_' , '_Column_' , '_PrintEPostageLabel_' , '_Vertical_' )
 
- _expression_ An expression that returns a **[MailingLabel](Word.MailingLabel.md)** object.
+ _expression_ An expression that returns a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
 ### Parameters

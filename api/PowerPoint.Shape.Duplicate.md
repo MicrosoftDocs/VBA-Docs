@@ -20,7 +20,7 @@ Creates a duplicate of the specified  **Shape** object, adds the new shape to th
 
  _expression_. 'Duplicate'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Return Value

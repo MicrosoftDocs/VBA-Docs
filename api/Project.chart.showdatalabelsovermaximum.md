@@ -13,7 +13,7 @@ Gets or sets whether to show data labels on a 2-D chart when the value is greate
 
  _expression_. 'ShowDataLabelsOverMaximum'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

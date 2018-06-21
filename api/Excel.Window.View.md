@@ -20,7 +20,7 @@ Returns or sets the view showing in the window. Read/write  **[XlWindowView](Exc
 
  _expression_. 'View'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Remarks

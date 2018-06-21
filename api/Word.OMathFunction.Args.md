@@ -20,7 +20,7 @@ Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the argume
 
  _expression_. 'Args'
 
- _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
+ _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 
 
 ## See also

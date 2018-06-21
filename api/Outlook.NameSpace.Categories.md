@@ -20,7 +20,7 @@ Returns or sets a  **[Categories](Outlook.Categories.md)** object that represent
 
  _expression_. 'Categories'
 
- _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
+ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Remarks

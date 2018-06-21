@@ -20,7 +20,7 @@ Returns a  **[GroupShapes](Excel.GroupShapes.md)** object that represents the in
 
  _expression_. 'GroupItems'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Example

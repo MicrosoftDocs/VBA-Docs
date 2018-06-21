@@ -13,7 +13,7 @@ Gets the line formatting properties for the shape. Read-only  **[LineFormat](htt
 
  _expression_. 'Line'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Remarks

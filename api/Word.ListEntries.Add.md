@@ -20,7 +20,7 @@ Returns a  **ListEntry** object that represents an item added to a drop-down for
 
  _expression_. 'Add'( '_Name_' , '_Index_' )
 
- _expression_ Required. A variable that represents a **[ListEntries](Word.listentries.md)** collection.
+ _expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
 
 
 ### Parameters

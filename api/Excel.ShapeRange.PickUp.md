@@ -20,7 +20,7 @@ Copies the formatting of the specified shape. Use the  **[Apply](Excel.ShapeRang
 
  _expression_. 'PickUp'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Example

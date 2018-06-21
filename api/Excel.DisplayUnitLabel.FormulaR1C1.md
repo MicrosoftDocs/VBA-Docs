@@ -20,7 +20,7 @@ Gets or sets a  **String** value that represents the formula of the object using
 
  _expression_. 'FormulaR1C1'
 
- _expression_ A variable that represents a **DisplayUnitLabel** object.
+ _expression_ A variable that represents a [DisplayUnitLabel](./Excel.DisplayUnitLabel(Graph property).md) object.
 
 
 ### Return Value

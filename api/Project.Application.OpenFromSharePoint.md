@@ -20,7 +20,7 @@ Opens a project from a task list in SharePoint 2013.
 
  _expression_. 'OpenFromSharePoint'( ' _SiteURL_', ' _ListName_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets an  **[OlActionResponseStyle](Outlook.OlActionResponseStyle.md)*
 
  _expression_. 'ResponseStyle'
 
- _expression_ A variable that represents an **Action** object.
+ _expression_ A variable that represents an [Action](./Outlook.Action.md) object.
 
 
 ## See also

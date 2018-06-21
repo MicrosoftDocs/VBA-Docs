@@ -20,7 +20,7 @@ Returns status information for an object. Read-only.
 
  _expression_. 'Stat'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

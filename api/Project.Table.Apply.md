@@ -20,7 +20,7 @@ Applies the table to the current view.
 
  _expression_. 'Apply'
 
- _expression_ An expression that returns a **Table** object.
+ _expression_ An expression that returns a [Table](./Project.Table.md) object.
 
 
 ### Return Value

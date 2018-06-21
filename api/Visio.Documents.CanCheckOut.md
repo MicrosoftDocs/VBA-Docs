@@ -20,7 +20,7 @@ Specifies whether a document can be checked out from a Microsoft SharePoint Serv
 
  _expression_. 'CanCheckOut'( '_FileName_' )
 
- _expression_ A variable that represents a **Documents** object.
+ _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Sets or returns the shape style index for the specified object.
 
  _expression_. 'ShapeStyle'
 
- _expression_ An expression that returns a **ShapeRange** object.
+ _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ## Remarks

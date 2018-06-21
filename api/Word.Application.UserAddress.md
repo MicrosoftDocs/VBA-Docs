@@ -20,7 +20,7 @@ Returns or sets the user's mailing address. Read/write  **String** .
 
  _expression_. 'UserAddress'
 
- _expression_ An expression that returns an **[Application](Word.Application.md)** object.
+ _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

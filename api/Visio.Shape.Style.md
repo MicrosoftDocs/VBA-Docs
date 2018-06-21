@@ -20,7 +20,7 @@ Gets or sets the style for a  **Shape** object. Read/write.
 
  _expression_. 'Style'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

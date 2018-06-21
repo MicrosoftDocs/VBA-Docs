@@ -20,6 +20,6 @@ ms.date: 06/08/2017
 
  _expression_. 'Manual'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 

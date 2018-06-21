@@ -20,7 +20,7 @@ Allows the user to specify the height of the formula bar in lines. Read/write  *
 
  _expression_. 'FormulaBarHeight'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

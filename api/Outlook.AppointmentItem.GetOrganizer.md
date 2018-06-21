@@ -20,7 +20,7 @@ Obtains the  **[AddressEntry](Outlook.AddressEntry.md)** object that contains in
 
  _expression_. 'GetOrganizer'
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ### Return Value

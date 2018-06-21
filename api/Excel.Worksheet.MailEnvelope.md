@@ -20,7 +20,7 @@ Rrepresents an e-mail header for a document.
 
  _expression_. 'MailEnvelope'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

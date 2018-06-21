@@ -17,7 +17,7 @@ Gets or sets the type of calendar exception. Read/write  **PjExceptionType**.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents an **Exception** object.
+ _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## Remarks

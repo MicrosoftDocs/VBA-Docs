@@ -20,7 +20,7 @@ Adds a shortcut to the workbook or hyperlink to the Favorites folder.
 
  _expression_. 'AddToFavorites'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Excel.Hyperlink.md) object.
 
 
 ## Example

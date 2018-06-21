@@ -17,7 +17,7 @@ Gets the number of items in the  **CostRateTables** collection. Read-only **Long
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **CostRateTables** object.
+ _expression_ A variable that represents a 'CostRateTables' object.
 
 
 ## Remarks

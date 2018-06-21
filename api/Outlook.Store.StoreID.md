@@ -20,7 +20,7 @@ Returns a  **String** identifying the **[Store](Outlook.Store.md)** . Read-only.
 
  _expression_. 'StoreID'
 
- _expression_ A variable that represents a **Store** object.
+ _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
 ## Remarks

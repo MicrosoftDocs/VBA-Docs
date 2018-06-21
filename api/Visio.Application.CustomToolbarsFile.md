@@ -20,7 +20,7 @@ Returns or sets the name of the file that defines custom toolbars and status bar
 
  _expression_. 'CustomToolbarsFile'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

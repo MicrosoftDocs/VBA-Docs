@@ -20,7 +20,7 @@ Returns the file format of the specified file converter. Read-only  **Long** .
 
  _expression_. 'OpenFormat'
 
- _expression_ Required. A variable that represents a **[FileConverter](Word.FileConverter.md)** object.
+ _expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
 
 ## Remarks

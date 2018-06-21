@@ -20,7 +20,7 @@ Returns a constant in the  **[OlAccountType](Outlook.OlAccountType.md)** enumera
 
  _expression_. 'AccountType'
 
- _expression_ A variable that represents an **Account** object.
+ _expression_ A variable that represents an [Account](./Outlook.Account.md) object.
 
 
 ## See also

@@ -20,6 +20,6 @@ Gets the value of the schedule performance index (SPI) calculation for the task.
 
  _expression_. 'SPI'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

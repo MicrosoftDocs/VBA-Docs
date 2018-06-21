@@ -20,7 +20,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_. 'Session'
 
- _expression_ A variable that represents a **PropertyPageSite** object.
+ _expression_ A variable that represents a [PropertyPageSite](./Outlook.PropertyPageSite.md) object.
 
 
 ## Remarks

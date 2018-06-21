@@ -20,7 +20,7 @@ Creates a new PivotTable item.
 
  _expression_. 'Add'( '_Name_' )
 
- _expression_ A variable that represents a **PivotItems** object.
+ _expression_ A variable that represents a [PivotItems](./Excel.PivotItems.md) object.
 
 
 ### Parameters

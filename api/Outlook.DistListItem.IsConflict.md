@@ -20,7 +20,7 @@ Returns a  **Boolean** that determines if the item is in conflict. Read-only.
 
  _expression_. 'IsConflict'
 
- _expression_ A variable that represents a **DistListItem** object.
+ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ Gets an  **Office.IMsoChartFormat** object that enables access to format informa
 
  _expression_. 'Format'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Property value

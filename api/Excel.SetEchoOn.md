@@ -17,7 +17,7 @@ Returns a Chart object.
 
  _expression_. 'SetEchoOn'( '_EchoOn_')
 
- _expression_ Required. An expression that returns a **Chart** object.
+ _expression_ Required. An expression that returns a [Chart](./Excel.Chart(Graph object).md) object.
 
  **EchoOn**Optional  **Variant**.
 

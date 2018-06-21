@@ -20,7 +20,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
  _expression_. 'ItemProperties'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## Remarks

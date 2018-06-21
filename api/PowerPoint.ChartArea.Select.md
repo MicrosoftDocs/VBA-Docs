@@ -17,7 +17,7 @@ Selects the object.
 
  _expression_. 'Select'
 
- _expression_ A variable that represents a **[ChartArea](PowerPoint.ChartArea.md)** object.
+ _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 
 
 ## See also

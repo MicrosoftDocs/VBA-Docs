@@ -20,7 +20,7 @@ Returns a  **String** that represents the value of a field in a bibliography sou
 
  _expression_. 'Field'( '_Name_' )
 
- _expression_ An expression that returns a **Source** object.
+ _expression_ An expression that returns a [Source](./Word.Source.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Provides a print preview of the active project. Acts the same as the  **FilePrin
 
  _expression_. 'FilePrintPreview'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

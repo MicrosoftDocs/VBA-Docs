@@ -20,7 +20,7 @@ Determines whether an object is visible. Read/write.
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **Toolbar** object.
+ _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
 
 ### Return Value

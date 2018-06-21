@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the ordinal position of a content co
 
  _expression_. 'Index'
 
- _expression_ An expression that returns a **ContentControlListEntry** object.
+ _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Gets the parent of the  **Groups** object. Read-only **Project**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Groups** object.
+ _expression_ A variable that represents a 'Groups' object.
 
 
 ## Remarks

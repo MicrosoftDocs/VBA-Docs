@@ -20,7 +20,7 @@ Returns a  **Date** that specifies the date when the **[SharingItem](Outlook.Sha
 
  _expression_. 'RetentionExpirationDate'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

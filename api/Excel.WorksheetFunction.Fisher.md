@@ -20,7 +20,7 @@ Returns the Fisher transformation at x. This transformation produces a function 
 
  _expression_. 'Fisher'( '_Arg1_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

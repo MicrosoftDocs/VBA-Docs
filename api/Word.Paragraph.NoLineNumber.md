@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'NoLineNumber'
 
- _expression_ A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks

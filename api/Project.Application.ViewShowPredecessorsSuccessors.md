@@ -20,7 +20,7 @@ Displays information about predecessor and successor tasks in the active task de
 
  _expression_. 'ViewShowPredecessorsSuccessors'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

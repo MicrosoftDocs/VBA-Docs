@@ -20,7 +20,7 @@ Returns or sets the amount of spacing (in points) after the specified HTML DIV e
 
  _expression_. 'SpaceAfter'
 
- _expression_ Required. A variable that represents an **[HTMLDivision](Word.HTMLDivision.md)** object.
+ _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 
 
 ## See also

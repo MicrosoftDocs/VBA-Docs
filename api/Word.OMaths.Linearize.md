@@ -20,7 +20,7 @@ Converts all equations in the collection to linear format. .
 
  _expression_. 'Linearize'
 
- _expression_ An expression that returns an **OMaths** object.
+ _expression_ An expression that returns an [OMaths](./Word.OMaths.md) object.
 
 
 ### Return Value

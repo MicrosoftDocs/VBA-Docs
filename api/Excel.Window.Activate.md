@@ -20,7 +20,7 @@ Brings the window to the front of the z-order.
 
  _expression_. 'Activate'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ### Return Value

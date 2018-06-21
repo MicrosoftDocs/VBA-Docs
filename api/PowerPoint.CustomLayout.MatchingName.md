@@ -20,7 +20,7 @@ Represents the internal name of the specified custom layout. Read/write.
 
  _expression_. 'MatchingName'
 
- _expression_ A variable that represents a **CustomLayout** object.
+ _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
 ### Return Value

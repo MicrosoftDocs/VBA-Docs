@@ -20,7 +20,7 @@ Returns an  **OMathFunction** object that represents the specified item in the c
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns an **[OMathFunctions](Word.OMathFunctions.md)** object.
+ _expression_ An expression that returns an '[OMathFunctions](Word.OMathFunctions.md)' object.
 
 
 ### Parameters

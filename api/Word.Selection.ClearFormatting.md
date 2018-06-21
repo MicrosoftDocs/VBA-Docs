@@ -20,7 +20,7 @@ Removes text and paragraph formatting from a selection.
 
  _expression_. 'ClearFormatting'
 
- _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
+ _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Example

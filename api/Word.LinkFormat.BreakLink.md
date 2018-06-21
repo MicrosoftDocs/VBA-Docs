@@ -20,7 +20,7 @@ Breaks the link between the source file and the specified OLE object, picture, o
 
  _expression_. 'BreakLink'
 
- _expression_ Required. A variable that represents a **[LinkFormat](Word.LinkFormat.md)** object.
+ _expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 
 
 ## Remarks

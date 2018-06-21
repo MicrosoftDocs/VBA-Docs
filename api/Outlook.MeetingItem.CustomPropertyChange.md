@@ -17,7 +17,7 @@ Occurs when a custom property of an item (which is an instance of the parent obj
 
  _expression_. 'CustomPropertyChange'( '_Name_' )
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ### Parameters

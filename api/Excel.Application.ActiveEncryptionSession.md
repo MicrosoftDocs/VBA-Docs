@@ -20,7 +20,7 @@ Returns a  **Long** that represents the encryption session associated with the a
 
  _expression_. 'ActiveEncryptionSession'
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets the way the two sections of either a pie-of-pie chart or a bar-o
 
  _expression_. 'SplitType'
 
- _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
+ _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 
 
 ## Example

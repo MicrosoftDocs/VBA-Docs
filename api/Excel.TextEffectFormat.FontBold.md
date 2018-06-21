@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'FontBold'
 
- _expression_ A variable that represents a **TextEffectFormat** object.
+ _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
 
 
 ## Remarks

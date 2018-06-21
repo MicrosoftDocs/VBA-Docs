@@ -20,7 +20,7 @@ Returns or sets a  **String** that indicates the Address Book name for the **[Fo
 
  _expression_. 'AddressBookName'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the k-th largest value in a data set. You can use this function to selec
 
  _expression_. 'Large'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Indicates whether a named SolutionXML element exists in the document. Read-only.
 
  _expression_. 'SolutionXMLElementExists'( '_ElementName_' )
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Parameters

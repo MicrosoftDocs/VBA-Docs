@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **List
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **ListGalleries** object.
+ _expression_ An expression that returns a 'ListGalleries' object.
 
 
 ## See also

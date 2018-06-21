@@ -20,7 +20,7 @@ Returns or sets the vertical offset of the shadow from the specified shape, in p
 
  _expression_. 'OffsetY'
 
- _expression_ A variable that represents a **ShadowFormat** object.
+ _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 
 
 ## Remarks

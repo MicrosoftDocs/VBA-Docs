@@ -17,7 +17,7 @@ Gets the number of  **GroupCriterion2** objects in the **GroupCriteria2** collec
 
  _expression_. 'Count'
 
- _expression_ An expression that returns a **GroupCriteria2** object.
+ _expression_ An expression that returns a 'GroupCriteria2' object.
 
 
 ## Remarks

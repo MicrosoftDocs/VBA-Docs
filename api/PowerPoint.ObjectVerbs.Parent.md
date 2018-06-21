@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **ObjectVerbs** object.
+ _expression_ A variable that represents an [ObjectVerbs](./PowerPoint.ObjectVerbs.md) object.
 
 
 ### Return Value

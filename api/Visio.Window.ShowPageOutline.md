@@ -20,7 +20,7 @@ Determines whether the drawing page outline is displayed in the Microsoft Visio 
 
  _expression_. 'ShowPageOutline'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

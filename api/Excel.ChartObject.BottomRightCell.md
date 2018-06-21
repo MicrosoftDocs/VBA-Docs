@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the cell th
 
  _expression_. 'BottomRightCell'
 
- _expression_ A variable that represents a **ChartObject** object.
+ _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 
 
 ## Example

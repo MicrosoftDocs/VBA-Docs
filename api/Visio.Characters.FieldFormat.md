@@ -20,7 +20,7 @@ Returns the field format for a field represented by an object. Read-only.
 
  _expression_. 'FieldFormat'
 
- _expression_ A variable that represents a **Characters** object.
+ _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
 ### Return Value

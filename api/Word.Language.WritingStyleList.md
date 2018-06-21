@@ -20,7 +20,7 @@ Returns a string array that contains the names of all writing styles available f
 
  _expression_. 'WritingStyleList'
 
- _expression_ An expression that returns a **[Language](Word.Language.md)** object.
+ _expression_ An expression that returns a '[Language](Word.Language.md)' object.
 
 
 ## Example

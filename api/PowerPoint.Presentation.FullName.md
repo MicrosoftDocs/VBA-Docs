@@ -20,7 +20,7 @@ Returns the name of the specified add-in or saved presentation, including the pa
 
  _expression_. 'FullName'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

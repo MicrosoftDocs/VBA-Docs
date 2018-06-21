@@ -20,7 +20,7 @@ Returns a  **Long** value, containing a **[xlFormatConditionType](Excel.XlFormat
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **FormatCondition** object.
+ _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
 
 
 ## See also

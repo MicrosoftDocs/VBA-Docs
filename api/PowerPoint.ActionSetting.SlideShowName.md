@@ -20,7 +20,7 @@ Returns or sets the name of the custom slide show to run in response to a mouse 
 
  _expression_. 'SlideShowName'
 
- _expression_ A variable that represents an **ActionSetting** object.
+ _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
 ### Return Value

@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of categories in the collection. 
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **CategoryCollection** object.
+ _expression_ A variable that represents a 'CategoryCollection' object.
 
 
 ## Property value

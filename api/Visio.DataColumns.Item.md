@@ -23,7 +23,7 @@ Returns the  **DataColumn** object at the specified index position, or of the sp
 
  _expression_. 'Item'( '_IndexOrName_' )
 
- _expression_ A variable that represents a **DataColumns** object.
+ _expression_ A variable that represents a [DataColumns](./Visio.DataColumns.md) object.
 
 
 ### Parameters

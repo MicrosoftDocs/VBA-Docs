@@ -20,7 +20,7 @@ Returns the previous object in the collection. Read-only.
 
  _expression_. 'Previous'
 
- _expression_ A variable that represents a **[Field](Word.Field.md)** object.
+ _expression_ A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Example

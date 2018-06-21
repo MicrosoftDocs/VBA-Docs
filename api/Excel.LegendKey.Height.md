@@ -20,7 +20,7 @@ Returns a  **Double** value that represents the height, in points, of the object
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **LegendKey** object.
+ _expression_ A variable that represents a [LegendKey](./Excel.LegendKey(Graph property).md) object.
 
 
 ## See also

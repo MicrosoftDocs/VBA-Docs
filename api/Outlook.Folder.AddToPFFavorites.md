@@ -20,7 +20,7 @@ Adds a Microsoft Exchange public folder to the public folder's Favorites folder.
 
  _expression_. 'AddToPFFavorites'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Example

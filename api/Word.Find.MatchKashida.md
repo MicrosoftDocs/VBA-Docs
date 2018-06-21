@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'MatchKashida'
 
- _expression_ An expression that returns a **[Find](Word.Find.md)** object.
+ _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
 
 ## Example

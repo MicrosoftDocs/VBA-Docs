@@ -20,7 +20,7 @@ Returns an  **[AddIns](Word.addins.md)** collection that represents all availabl
 
  _expression_. 'AddIns'
 
- _expression_ A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

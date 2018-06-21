@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Line
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[Lines](Word.Lines.md)** collection.
+ _expression_ Required. A variable that represents a '[Lines](Word.Lines.md)' collection.
 
 
 ## See also

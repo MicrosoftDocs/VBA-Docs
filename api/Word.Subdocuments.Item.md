@@ -20,7 +20,7 @@ Returns an individual  **Subdocument** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[Subdocuments](Word.subdocuments.md)** collection.
+ _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 
 
 ### Parameters

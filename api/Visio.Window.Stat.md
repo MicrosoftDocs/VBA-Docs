@@ -20,7 +20,7 @@ Returns status information for an object. Read-only.
 
  _expression_. 'Stat'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

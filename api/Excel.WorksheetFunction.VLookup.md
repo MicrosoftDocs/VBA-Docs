@@ -20,7 +20,7 @@ Searches for a value in the first column of a table array and returns a value in
 
  _expression_. 'VLookup'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

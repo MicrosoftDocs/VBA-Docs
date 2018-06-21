@@ -20,7 +20,7 @@ Selects the next field.
 
  _expression_. 'NextField'
 
- _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
+ _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ### Return Value

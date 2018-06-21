@@ -20,7 +20,7 @@ Determines whether a call to an event handler is between an  **EnterScope** even
 
  _expression_. 'IsInScope'( '_nCmdID_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **OMat
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **[OMathScrSubSup](Word.OMathScrSubSup.md)** object.
+ _expression_ A variable that represents a '[OMathScrSubSup](Word.OMathScrSubSup.md)' object.
 
 
 ## See also

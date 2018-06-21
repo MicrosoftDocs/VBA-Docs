@@ -20,7 +20,7 @@ Returns or sets the query string (SQL statement) used to retrieve a subset of th
 
  _expression_. 'QueryString'
 
- _expression_ An expression that returns a **[MailMergeDataSource](Word.MailMergeDataSource.md)** object.
+ _expression_ An expression that returns a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Example

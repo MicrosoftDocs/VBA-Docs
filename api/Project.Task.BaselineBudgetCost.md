@@ -17,6 +17,6 @@ Gets or sets the baseline budget cost for the rollup calculated value of all the
 
  _expression_. 'BaselineBudgetCost'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

@@ -20,7 +20,7 @@ Selects the specified field.
 
  _expression_. 'Select'
 
- _expression_ Required. A variable that represents a **[Field](Word.Field.md)** object.
+ _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## Remarks

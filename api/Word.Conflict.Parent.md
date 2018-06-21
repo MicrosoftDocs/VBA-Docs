@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Conf
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **Conflict** object.
+ _expression_ An expression that returns a [Conflict](./Word.Conflict.md) object.
 
 
 ## See also

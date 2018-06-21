@@ -20,7 +20,7 @@ If the specified object is an AutoShape, specifies if the shape is animated sepa
 
  _expression_. 'AnimateBackground'
 
- _expression_ A variable that represents an **AnimationSettings** object.
+ _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ## Remarks

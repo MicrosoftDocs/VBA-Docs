@@ -20,7 +20,7 @@ Returns a  **[PropertyEffect](PowerPoint.PropertyEffect.md)** object for a given
 
  _expression_. 'PropertyEffect'
 
- _expression_ A variable that represents an **AnimationBehavior** object.
+ _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ### Return Value

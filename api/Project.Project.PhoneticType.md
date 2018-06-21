@@ -20,7 +20,7 @@ Gets or sets the type of characters used to display phonetic information. Read/w
 
  _expression_. 'PhoneticType'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

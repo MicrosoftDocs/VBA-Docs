@@ -17,6 +17,6 @@ Gets the variance between the baseline cost and the cost of a  **Task**. Read-on
 
  _expression_. 'CostVariance'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

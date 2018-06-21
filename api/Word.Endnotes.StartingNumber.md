@@ -20,7 +20,7 @@ Returns or sets the starting note number, line number, or page number. Read/writ
 
  _expression_. 'StartingNumber'
 
- _expression_ An expression that represents a **[Endnotes](Word.endnotes.md)** object.
+ _expression_ An expression that represents a '[Endnotes](Word.endnotes.md)' object.
 
 
 ## Remarks

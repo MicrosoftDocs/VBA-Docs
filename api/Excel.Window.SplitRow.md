@@ -20,7 +20,7 @@ Returns or sets the row number where the window is split into panes (the number 
 
  _expression_. 'SplitRow'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns the parent  **Object** of the **[Table](Outlook.Table.md)** object. Read
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
 ## See also

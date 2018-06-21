@@ -17,7 +17,7 @@ Returns the texture tile style for the specified fill. Read/write  **[MsoTriStat
 
  _expression_. 'TextureTile'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 
 
 ## Remarks

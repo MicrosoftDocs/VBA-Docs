@@ -20,7 +20,7 @@ Returns or sets the first-line indent for the specified outline level, in points
 
  _expression_. 'FirstMargin'
 
- _expression_ A variable that represents a **RulerLevel** object.
+ _expression_ A variable that represents a [RulerLevel](./PowerPoint.RulerLevel.md) object.
 
 
 ### Return Value

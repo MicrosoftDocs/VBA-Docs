@@ -17,7 +17,7 @@ Gets the actual overtime work (in minutes) for a resource. Read-only  **Variant*
 
  _expression_. 'ActualOvertimeWork'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

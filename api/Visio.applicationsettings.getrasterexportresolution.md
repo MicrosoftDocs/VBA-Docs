@@ -18,7 +18,7 @@ Returns the raster export resolution settings.
 
  _expression_. 'GetRasterExportResolution'( '_pResolution_' , '_pWidth_' , '_pHeight_' , '_pResolutionUnits_' )
 
- _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
+ _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
 ### Parameters

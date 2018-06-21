@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents the current state (checked/unchec
 
  _expression_. 'Checked'
 
- _expression_ An expression that returns a **[ContentControl](Word.ContentControl.md)** object.
+ _expression_ An expression that returns a '[ContentControl](Word.ContentControl.md)' object.
 
 
 ## Remarks

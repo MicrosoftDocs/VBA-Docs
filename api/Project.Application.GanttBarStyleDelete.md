@@ -20,7 +20,7 @@ Deletes a Gantt bar style from the active Gantt Chart.
 
  _expression_. 'GanttBarStyleDelete'( ' _Item_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the F probability distribution.
 
  _expression_. 'F_Dist'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

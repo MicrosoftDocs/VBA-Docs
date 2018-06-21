@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that specifies how the control responds to the **
 
  _expression_. 'TabKeyBehavior'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

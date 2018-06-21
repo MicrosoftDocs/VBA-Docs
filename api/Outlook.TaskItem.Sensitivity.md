@@ -20,7 +20,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
  _expression_. 'Sensitivity'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## Remarks

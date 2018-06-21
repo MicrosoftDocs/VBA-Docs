@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Perspective'
 
- _expression_ Required. A variable that represents a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Example

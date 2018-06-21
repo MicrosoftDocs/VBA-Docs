@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Visible'
 
- _expression_ An expression that represents a **FillFormat** object.
+ _expression_ An expression that represents a [FillFormat](./Word.FillFormat.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the yield of a security that has an odd (short or long) first period.
 
  _expression_. 'OddFYield'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' , '_Arg5_' , '_Arg6_' , '_Arg7_' , '_Arg8_' , '_Arg9_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

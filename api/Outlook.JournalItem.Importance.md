@@ -20,7 +20,7 @@ Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicat
 
  _expression_. 'Importance'
 
- _expression_ A variable that represents a **JournalItem** object.
+ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Remarks

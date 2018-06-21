@@ -20,7 +20,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an insp
 
  _expression_. 'GetInspector'
 
- _expression_ A variable that represents a **TaskRequestDeclineItem** object.
+ _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Remarks

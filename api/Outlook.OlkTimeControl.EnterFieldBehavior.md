@@ -20,7 +20,7 @@ Returns or sets an  **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** 
 
  _expression_. 'EnterFieldBehavior'
 
- _expression_ A variable that represents an **OlkTimeControl** object.
+ _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

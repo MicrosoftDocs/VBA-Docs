@@ -20,7 +20,7 @@ Unlinks the selected tasks.
 
  _expression_. 'UnlinkTasks'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

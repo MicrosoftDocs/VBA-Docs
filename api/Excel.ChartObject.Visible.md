@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **ChartObject** object.
+ _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 
 
 ## See also

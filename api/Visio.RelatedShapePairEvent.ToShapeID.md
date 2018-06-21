@@ -20,7 +20,7 @@ Returrns the identifier of the second (member) shape in the related shape pair. 
 
  _expression_. 'ToShapeID'
 
- _expression_ A variable that represents a **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)** object.
+ _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 
 
 ### Return Value

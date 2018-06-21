@@ -20,7 +20,7 @@ Executes the  **Forward** action for an item and returns the resulting copy as a
 
  _expression_. 'Forward'
 
- _expression_ A variable that represents a **MailItem** object.
+ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets the size, as a percentage of the primary pie, of the secondary s
 
  _expression_. 'SecondPlotSize'
 
- _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
+ _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 
 
 ## Remarks

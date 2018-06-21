@@ -20,7 +20,7 @@ Returns a  **String** that represents the flat XML format for the Word Open XML 
 
  _expression_. 'WordOpenXML'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
 
 ## See also

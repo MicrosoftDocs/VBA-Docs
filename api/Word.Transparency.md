@@ -20,7 +20,7 @@ Returns or sets the degree of transparency for the glow effect as a value betwee
 
  _expression_. 'Transparency'
 
- _expression_ An expression that returns a **[GlowFormat](Word.GlowFormat.md)** object.
+ _expression_ An expression that returns a '[GlowFormat](Word.GlowFormat.md)' object.
 
 
 ## See also

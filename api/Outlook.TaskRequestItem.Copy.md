@@ -20,7 +20,7 @@ Creates another instance of an object.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## See also

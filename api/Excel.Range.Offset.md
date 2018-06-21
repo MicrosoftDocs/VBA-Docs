@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents a range tha
 
  _expression_. 'Offset'( '_RowOffset_' , '_ColumnOffset_' )
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

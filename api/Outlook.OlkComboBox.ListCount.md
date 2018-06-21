@@ -20,7 +20,7 @@ Returns a  **Long** that specifies the number of elements in the drop-down list 
 
  _expression_. 'ListCount'
 
- _expression_ A variable that represents an **OlkComboBox** object.
+ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **Long** indicating which month of the year is valid for the 
 
  _expression_. 'MonthOfYear'
 
- _expression_ A variable that represents a **RecurrencePattern** object.
+ _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

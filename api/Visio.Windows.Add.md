@@ -20,7 +20,7 @@ Adds a new  **Window** object to the **Windows** collection.
 
  _expression_. 'Add'( '_bstrCaption_' , '_nFlags_' , '_nType_' , '_nLeft_' , '_nTop_' , '_nWidth_' , '_nHeight_' , '_bstrMergeID_' , '_bstrMergeClass_' , '_nMergePosition_' )
 
- _expression_ A variable that represents a **Windows** object.
+ _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 
 
 ### Parameters

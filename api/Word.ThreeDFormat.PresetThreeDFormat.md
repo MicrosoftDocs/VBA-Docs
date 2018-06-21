@@ -20,7 +20,7 @@ Returns the preset extrusion format. Read-only  **MsoPresetThreeDFormat** .
 
  _expression_. 'PresetThreeDFormat'
 
- _expression_ Required. A variable that represents a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Remarks

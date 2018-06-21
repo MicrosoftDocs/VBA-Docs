@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that indicates if Microsoft Excel wraps the
 
  _expression_. 'WrapText'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Remarks

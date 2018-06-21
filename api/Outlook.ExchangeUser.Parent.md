@@ -20,7 +20,7 @@ Returns the parent  **Object** of the **[ExchangeUser](Outlook.ExchangeUser.md)*
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## See also

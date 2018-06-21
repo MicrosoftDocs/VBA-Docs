@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the formula that the name is
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **Name** object.
+ _expression_ A variable that represents a [Name](./Excel.Name.md) object.
 
 
 ## See also

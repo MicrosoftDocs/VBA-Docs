@@ -20,7 +20,7 @@ Returns or sets the thickness of the specified line, in points. Read/write.
 
  _expression_. 'Weight'
 
- _expression_ A variable that represents a **LineFormat** object.
+ _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
 ### Return Value

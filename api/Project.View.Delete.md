@@ -17,6 +17,6 @@ Deletes the  **View** object from a **Views** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./Project.View.md) object.
 
 

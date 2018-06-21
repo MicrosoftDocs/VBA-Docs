@@ -20,7 +20,7 @@ Returns a single object from a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Workbooks** object.
+ _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
 ### Parameters

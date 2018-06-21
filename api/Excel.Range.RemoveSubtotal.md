@@ -20,7 +20,7 @@ Removes subtotals from a list.
 
  _expression_. 'RemoveSubtotal'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Return Value

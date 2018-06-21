@@ -20,7 +20,7 @@ Gets or sets the command ID associated with a menu item. Read/write.
 
  _expression_. 'CmdNum'
 
- _expression_ A variable that represents a **MenuItem** object.
+ _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
 
 ### Return Value

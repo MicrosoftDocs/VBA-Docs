@@ -18,7 +18,7 @@ Returns a single object from a collection.
 
  _expression_. 'Item'_(NameOrIndex)_
 
- _expression_ A variable that represents a **Queries** object.
+ _expression_ A variable that represents a 'Queries' object.
 
 
 ### Parameters

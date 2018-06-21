@@ -20,7 +20,7 @@ Returns a random integer number between the numbers you specify. A new random in
 
  _expression_. 'RandBetween'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

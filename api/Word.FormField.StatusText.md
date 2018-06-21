@@ -20,7 +20,7 @@ Returns or sets the text that is displayed in the status bar when a form field h
 
  _expression_. 'StatusText'
 
- _expression_ A variable that represents a **[FormField](Word.FormField.md)** object.
+ _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
 ## Remarks

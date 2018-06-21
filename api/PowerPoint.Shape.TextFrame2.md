@@ -20,7 +20,7 @@ Returns the  **[TextFrame2](PowerPoint.TextFrame2.md)** object associated with t
 
  _expression_. 'TextFrame2'
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Return Value

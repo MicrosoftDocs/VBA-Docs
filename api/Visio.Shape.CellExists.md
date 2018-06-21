@@ -20,7 +20,7 @@ Determines whether a particular ShapeSheet cell exists in the scope of the searc
 
  _expression_. 'CellExists'( '_localeSpecificCellName_' , '_fExistsLocally_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

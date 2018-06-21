@@ -20,7 +20,7 @@ Gets a  **[Months](Project.months.md)** collection representing the months in a 
 
  _expression_. 'Months'
 
- _expression_ An expression that returns a **Year** object.
+ _expression_ An expression that returns a [Year](./Project.Year.md) object.
 
 
 ## Example

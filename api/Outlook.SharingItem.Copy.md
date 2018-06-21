@@ -20,7 +20,7 @@ Creates another instance of a  **[SharingItem](Outlook.SharingItem.md)** .
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a  **[PivotLayout](Excel.PivotLayout.md)** object that represents the pl
 
  _expression_. 'PivotLayout'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ## Remarks

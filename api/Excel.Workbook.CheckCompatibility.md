@@ -20,7 +20,7 @@ Controls whether or not the compatibility checker is run automatically when the 
 
  _expression_. 'CheckCompatibility'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

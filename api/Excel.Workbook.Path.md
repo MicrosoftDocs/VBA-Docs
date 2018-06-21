@@ -20,7 +20,7 @@ Returns a  **String** that represents the complete path to the workbook/file tha
 
  _expression_. 'Path'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

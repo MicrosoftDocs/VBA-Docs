@@ -20,7 +20,7 @@ For Double-byte character set (DBCS) languages, changes full-width (double-byte)
 
  _expression_. 'Asc'( '_Arg1_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

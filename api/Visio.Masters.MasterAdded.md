@@ -18,9 +18,9 @@ Occurs after a new master is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**MasterAdded**( **_ByVal Master As [IVMASTER]_** )
+Private Sub  _expression_ _'MasterAdded'( **_ByVal Master As [IVMASTER]_** )
 
- _expression_ A variable that represents a **Masters** object.
+ _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
 ### Parameters

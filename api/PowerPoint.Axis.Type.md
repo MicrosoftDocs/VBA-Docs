@@ -20,7 +20,7 @@ Returns the axis type. Read-only  **[XlAxisType](PowerPoint.XlAxisType.md)**.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents an **[Axis](PowerPoint.Axis.md)** object.
+ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks

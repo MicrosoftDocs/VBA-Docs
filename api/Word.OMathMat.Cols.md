@@ -20,7 +20,7 @@ Returns an  **[OMathMatCols](Word.OMathMatCols.md)** collection that represents 
 
  _expression_. 'Cols'
 
- _expression_ An expression that returns an **[OMathMat](Word.OMathMat.md)** object.
+ _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 
 
 ## See also

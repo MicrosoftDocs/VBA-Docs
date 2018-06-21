@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents a diagonal strikethrough from upp
 
  _expression_. 'StrikeTLBR'
 
- _expression_ An expression that returns an **[OMathBorderBox](Word.OMathBorderBox.md)** object.
+ _expression_ An expression that returns an '[OMathBorderBox](Word.OMathBorderBox.md)' object.
 
 
 ## See also

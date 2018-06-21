@@ -20,7 +20,7 @@ Returns or sets the shape type for the specified  **[Shape](Excel.Shape.md)** or
 
  _expression_. 'AutoShapeType'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Remarks

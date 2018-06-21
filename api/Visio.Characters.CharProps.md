@@ -20,7 +20,7 @@ Sets a character property of a  **Characters** object to a new value. Write-only
 
  _expression_. 'CharProps'( '_CellIndex_' )
 
- _expression_ An expression that returns a **Characters** object.
+ _expression_ An expression that returns a [Characters](./Visio.Characters.md) object.
 
 
 ### Parameters

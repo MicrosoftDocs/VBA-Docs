@@ -20,7 +20,7 @@ Gets the style that contains a  **Cell** object. Read-only.
 
  _expression_. 'Style'
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Return Value

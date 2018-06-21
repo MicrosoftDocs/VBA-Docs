@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the position, measured in points, 
 
  _expression_. 'RecipientNamefromLeft'
 
- _expression_ An expression that returns an **[Envelope](Word.Envelope.md)** object.
+ _expression_ An expression that returns an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

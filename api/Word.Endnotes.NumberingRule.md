@@ -20,7 +20,7 @@ Returns or sets the way endnotes are numbered after page breaks or section break
 
  _expression_. 'NumberingRule'
 
- _expression_ Required. A variable that represents an **[Endnotes](Word.endnotes.md)** collection.
+ _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 
 
 ## Example

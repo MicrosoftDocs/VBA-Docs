@@ -20,7 +20,7 @@ Deletes the specified building block.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns a **BuildingBlock** object.
+ _expression_ An expression that returns a [BuildingBlock](./Word.BuildingBlock.md) object.
 
 
 ## See also

@@ -18,7 +18,7 @@ Returns a [ModelFormatDecimalNumber](Excel.modelformatdecimalnumber.md) object t
 
  _expression_. 'ModelFormatDecimalNumber'
 
- _expression_ A variable that represents a **Model** object.
+ _expression_ A variable that represents a 'Model' object.
 
 
 ## See also

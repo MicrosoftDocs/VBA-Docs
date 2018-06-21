@@ -20,7 +20,7 @@ Displays the  **Map Project Resources onto Enterprise Resources** dialog box, fo
 
  _expression_. 'ResourceMappingDialog'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns the parent item of the specified node in the conversation.
 
  _expression_. 'GetParent'( '_Item_' )
 
- _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
+ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebre
 
  _expression_. 'HebrewModes'
 
- _expression_ A variable that represents a **SpellingOptions** object.
+ _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
 
 
 ## Remarks

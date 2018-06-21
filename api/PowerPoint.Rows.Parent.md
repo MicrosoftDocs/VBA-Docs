@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Rows** object.
+ _expression_ A variable that represents a [Rows](./PowerPoint.Rows.md) object.
 
 
 ### Return Value

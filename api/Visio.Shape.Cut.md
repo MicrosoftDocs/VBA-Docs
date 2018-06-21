@@ -20,7 +20,7 @@ Deletes an object or selection and places it on the Clipboard.
 
  _expression_. 'Cut'( '_Flags_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

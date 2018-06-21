@@ -20,7 +20,7 @@ Indicates whether drawings in a document are printed on a specified number of sh
 
  _expression_. 'PrintFitOnPages'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

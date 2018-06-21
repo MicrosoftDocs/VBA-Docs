@@ -20,7 +20,7 @@ Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that chan
 
  _expression_. 'BackStyle'
 
- _expression_ A variable that represents an **OlkDateControl** object.
+ _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

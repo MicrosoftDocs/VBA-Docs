@@ -20,7 +20,7 @@ Creates a new instance of the explorer window.
 
  _expression_. 'Add'( '_Folder_' , '_DisplayMode_' )
 
- _expression_ A variable that represents an **Explorers** object.
+ _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
 
 
 ### Parameters

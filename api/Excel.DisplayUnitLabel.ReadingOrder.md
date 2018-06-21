@@ -20,7 +20,7 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 
  _expression_. 'ReadingOrder'
 
- _expression_ A variable that represents a **DisplayUnitLabel** object.
+ _expression_ A variable that represents a [DisplayUnitLabel](./Excel.DisplayUnitLabel(Graph property).md) object.
 
 
 ## See also

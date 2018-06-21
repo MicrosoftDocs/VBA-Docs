@@ -17,7 +17,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
  _expression_. 'Read'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Activates the specified window.
 
  _expression_. 'Activate'
 
- _expression_ A variable that represents a **ProtectedViewWindow** object.
+ _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## See also

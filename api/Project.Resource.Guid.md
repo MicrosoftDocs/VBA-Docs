@@ -17,6 +17,6 @@ Gets the GUID of the resource. Read-only  **String**.
 
  _expression_. 'Guid'
 
- _expression_ An expression that returns a **Resource** object.
+ _expression_ An expression that returns a [Resource](./Project.Resource.md) object.
 
 

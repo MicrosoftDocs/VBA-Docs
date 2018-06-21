@@ -20,7 +20,7 @@ Returns the  **[COMAddIns](http://msdn.microsoft.com/library/f6efa1cc-8d30-27d5-
 
  _expression_. 'COMAddIns'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

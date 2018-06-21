@@ -20,7 +20,7 @@ Returns a  **Long** that represents the height of a page, in pixels.
 
  _expression_. 'Top'
 
- _expression_ An expression that represents a **[Page](Word.Page.md)** object.
+ _expression_ An expression that represents a '[Page](Word.Page.md)' object.
 
 
 ## Remarks

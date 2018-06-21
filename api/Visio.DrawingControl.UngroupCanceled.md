@@ -15,9 +15,9 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _**UngroupCanceled**( **_ByVal selection As [IVSELECTION]_** )
+Private Sub  _expression_ _'UngroupCanceled'( **_ByVal selection As [IVSELECTION]_** )
 
- _expression_ A variable that represents a **DrawingControl** object.
+ _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
 ### Parameters

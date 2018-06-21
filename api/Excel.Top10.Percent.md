@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value, specifying if the rank is determined by a 
 
  _expression_. 'Percent'
 
- _expression_ A variable that represents a **Top10** object.
+ _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 
 
 ## See also

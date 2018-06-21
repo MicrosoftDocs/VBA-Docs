@@ -20,7 +20,7 @@ Returns the  **[Range](Excel.Range(objec).md)** object referred to by a **Name**
 
  _expression_. 'RefersToRange'
 
- _expression_ A variable that represents a **Name** object.
+ _expression_ A variable that represents a [Name](./Excel.Name.md) object.
 
 
 ## Remarks

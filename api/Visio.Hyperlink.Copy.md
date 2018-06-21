@@ -20,7 +20,7 @@ Copies a hyperlink to the Clipboard.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
 
 ### Return Value

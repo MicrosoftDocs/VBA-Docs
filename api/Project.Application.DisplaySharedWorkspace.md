@@ -20,7 +20,7 @@ Displays the  **Shared Workspace** pane. Available only in Project Professional.
 
  _expression_. 'DisplaySharedWorkspace'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a  **WdCellColor** that represents the color for split table cel
 
  _expression_. 'SplitCellColor'
 
- _expression_ An expression that returns a **[Options](Word.Options.md)** object.
+ _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 
 
 ## Remarks

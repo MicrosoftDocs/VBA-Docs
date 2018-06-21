@@ -20,7 +20,7 @@ Determines the visual appearance of the container. Read/write.
 
  _expression_. 'ContainerStyle'
 
- _expression_ An expression that returns a **[ContainerProperties](Visio.ContainerProperties.md)** object.
+ _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
 ### Return Value

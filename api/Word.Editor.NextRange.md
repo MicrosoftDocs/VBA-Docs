@@ -20,7 +20,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the next range for 
 
  _expression_. 'NextRange'
 
- _expression_ An expression that returns an **[Editor](Word.Editor.md)** object.
+ _expression_ An expression that returns an '[Editor](Word.Editor.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Removes the recurrence settings and restores the single-occurrence state for an 
 
  _expression_. 'ClearRecurrencePattern'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

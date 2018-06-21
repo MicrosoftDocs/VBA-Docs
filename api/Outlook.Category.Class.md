@@ -20,7 +20,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_. 'Class'
 
- _expression_ A variable that represents a **Category** object.
+ _expression_ A variable that represents a [Category](./Outlook.Category.md) object.
 
 
 ## See also

@@ -13,7 +13,7 @@ Gets the collection of  **Shape** objects in the report. Read-only **Shapes**.
 
  _expression_. 'Shapes'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a 'Report' object.
 
 
 ## Example

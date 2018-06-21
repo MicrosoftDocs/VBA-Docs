@@ -17,6 +17,6 @@ Gets or sets the value of the  **Cost10** roll-down custom field for the assignm
 
  _expression_. 'Cost10'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

@@ -20,7 +20,7 @@ Creates an enterprise calendar. Available in Project Professional only.
 
  _expression_. 'CreateEnterpriseCalendar'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

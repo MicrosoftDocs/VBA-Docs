@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the name of a chart category. Read
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **ChartCategory** object.
+ _expression_ A variable that represents a 'ChartCategory' object.
 
 
 ## Property value

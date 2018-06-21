@@ -20,7 +20,7 @@ Sends message to the Project Server Queueing Service to publish the local projec
 
  _expression_. 'Publish'( ' _Republish_', ' _WssUrl_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

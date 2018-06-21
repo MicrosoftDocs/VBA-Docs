@@ -20,7 +20,7 @@ Returns a  **[Store](Outlook.Store.md)** object that represents the default deli
 
  _expression_. 'DeliveryStore'
 
- _expression_ A variable that represents an **[Account](Outlook.Account.md)** object.
+ _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ## Remarks

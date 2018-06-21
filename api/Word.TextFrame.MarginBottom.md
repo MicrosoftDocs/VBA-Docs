@@ -20,7 +20,7 @@ Returns or sets the distance (in points) between the bottom of the text frame an
 
  _expression_. 'MarginBottom'
 
- _expression_ An expression that returns a **[TextFrame](Word.TextFrame.md)** object.
+ _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Example

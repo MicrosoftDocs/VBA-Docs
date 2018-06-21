@@ -20,7 +20,7 @@ Synchronizes a local project in Project Professional with a SharePoint 2013 task
 
  _expression_. 'SynchronizeWithSite'( _SiteURL_,  _ListName_)
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

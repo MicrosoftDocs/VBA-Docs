@@ -20,7 +20,7 @@ Determines whether an animation should accelerate when it starts. Read/write.
 
  _expression_. 'SmoothStart'
 
- _expression_ A variable that represents a **Timing** object.
+ _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
 ### Return Value

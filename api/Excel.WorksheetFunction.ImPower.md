@@ -20,7 +20,7 @@ Returns a complex number in x + yi or x + yj text format raised to a power.
 
  _expression_. 'ImPower'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

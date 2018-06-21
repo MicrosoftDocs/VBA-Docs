@@ -20,7 +20,7 @@ Returns a  **[Top10](Excel.Top10.md)** object representing a conditional formatt
 
  _expression_. 'AddTop10'
 
- _expression_ A variable that represents a **FormatConditions** object.
+ _expression_ A variable that represents a [FormatConditions](./Excel.FormatConditions.md) object.
 
 
 ### Return Value

@@ -17,7 +17,7 @@ Gets the parent of the  **ViewCombination** object. Read-only **Project**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **ViewCombination** object.
+ _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 
 
 ## Remarks

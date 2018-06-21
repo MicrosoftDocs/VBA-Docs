@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of fields in the collection. Read
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Fields](Word.fields.md)** collection.
+ _expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
 
 
 ## See also

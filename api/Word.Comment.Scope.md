@@ -20,7 +20,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the range of text m
 
  _expression_. 'Scope'
 
- _expression_ An expression that returns a **[Comment](Word.Comment.md)** object.
+ _expression_ An expression that returns a '[Comment](Word.Comment.md)' object.
 
 
 ## Example

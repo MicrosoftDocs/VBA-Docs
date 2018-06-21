@@ -20,7 +20,7 @@ Adds a new  **[SlicerCache](Excel.SlicerCache.md)** object to the collection.
 
  _expression_. 'Add'( '_Source_' , '_SourceField_' , '_Name_' , '_SlicerCacheType_' )
 
- _expression_ A variable that represents a **[SlicerCaches](Excel.SlicerCaches.md)** collection.
+ _expression_ A variable that represents a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
 ### Parameters

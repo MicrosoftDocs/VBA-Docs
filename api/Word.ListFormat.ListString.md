@@ -20,7 +20,7 @@ Returns a  **String** that represents the appearance of the list value of the fi
 
  _expression_. 'ListString'
 
- _expression_ An expression that returns a **[ListFormat](Word.ListFormat.md)** object.
+ _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Remarks

@@ -15,7 +15,7 @@ Returns the timeline for the  **Timeline** object. Introduced in Office 2016.
 
  _expression_. 'Label'
 
- _expression_ A variable that represents a **Timeline** object.
+ _expression_ A variable that represents a 'Timeline' object.
 
 
 ## See also

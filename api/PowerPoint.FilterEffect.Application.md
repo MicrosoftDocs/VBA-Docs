@@ -20,7 +20,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **FilterEffect** object.
+ _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
 
 ### Return Value

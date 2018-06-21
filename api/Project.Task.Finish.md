@@ -17,6 +17,6 @@ Gets or sets the finish date of a  **Task**. Read-only for summary tasks. Read/w
 
  _expression_. 'Finish'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

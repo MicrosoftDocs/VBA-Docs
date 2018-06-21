@@ -20,7 +20,7 @@ Deletes the specified add-in.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents an **[AddIn](Word.AddIn.md)** object.
+ _expression_ Required. A variable that represents an '[AddIn](Word.AddIn.md)' object.
 
 
 ## See also

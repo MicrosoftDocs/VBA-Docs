@@ -20,7 +20,7 @@ Returns an array of items that can be cross-referenced based on the specified cr
 
  _expression_. 'GetCrossReferenceItems'( '_ReferenceType_' )
 
- _expression_ An expression that represents a **[Document](Word.Document.md)** object.
+ _expression_ An expression that represents a '[Document](Word.Document.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the vertical alignment of t
 
  _expression_. 'VerticalAlignment'
 
- _expression_ A variable that represents an **AxisTitle** object.
+ _expression_ A variable that represents an [AxisTitle](./Excel.AxisTitle(Graph property).md) object.
 
 
 ## Remarks

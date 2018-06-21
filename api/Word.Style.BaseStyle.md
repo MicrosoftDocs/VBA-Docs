@@ -20,7 +20,7 @@ Returns or sets an existing style on which you can base the formatting of anothe
 
  _expression_. 'BaseStyle'
 
- _expression_ A variable that represents a **[Style](Word.Style.md)** object.
+ _expression_ A variable that represents a '[Style](Word.Style.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)
 
  _expression_. 'ReceivedOnBehalfOfEntryID'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

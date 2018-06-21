@@ -20,7 +20,7 @@ Determines whether an object is a default Microsoft Visio user interface object 
 
  _expression_. 'BuiltIn'
 
- _expression_ A variable that represents a **ToolbarItem** object.
+ _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
 ### Return Value

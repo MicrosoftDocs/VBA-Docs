@@ -20,7 +20,7 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 
  _expression_. 'Characters'( '_Start_' , '_Length_' )
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Date** value that represents the inclusive end date of the 
 
  _expression_. 'EndDate'
 
- _expression_ An expression that returns a **CalendarSharing** object.
+ _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
 ### Return Value

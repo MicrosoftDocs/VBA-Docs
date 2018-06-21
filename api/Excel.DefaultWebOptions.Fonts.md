@@ -20,7 +20,7 @@ Returns the  **[WebPageFonts](http://msdn.microsoft.com/library/c42bd65d-7c5c-14
 
  _expression_. 'Fonts'
 
- _expression_ A variable that represents a **DefaultWebOptions** object.
+ _expression_ A variable that represents a [DefaultWebOptions](./Excel.DefaultWebOptions.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets an  **Object** that represents an array of form identifiers to b
 
  _expression_. 'FormName'
 
- _expression_ A variable that represents a **FormNameRuleCondition** object.
+ _expression_ A variable that represents a [FormNameRuleCondition](./Outlook.FormNameRuleCondition.md) object.
 
 
 ## Remarks

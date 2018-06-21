@@ -20,7 +20,7 @@ Returns a  **String** value that represents the localized display name for the *
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **ContactsModule** object.
+ _expression_ A variable that represents a [ContactsModule](./Outlook.ContactsModule.md) object.
 
 
 ## See also

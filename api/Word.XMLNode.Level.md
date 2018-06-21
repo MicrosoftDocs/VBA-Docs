@@ -20,7 +20,7 @@ Returns a  **[WdXMLNodeLevel](http://msdn.microsoft.com/library/77480b20-9400-c7
 
  _expression_. 'Level'
 
- _expression_ An expression that returns an **[XMLNode](Word.XMLNode.md)** object.
+ _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## See also

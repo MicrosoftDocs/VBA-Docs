@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether the style corresponds to 
 
  _expression_. 'QuickStyle'
 
- _expression_ An expression that returns a **Style** object.
+ _expression_ An expression that returns a [Style](./Word.Style.md) object.
 
 
 ## See also

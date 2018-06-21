@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'AutoFormatAsYouTypeMatchParentheses'
 
- _expression_ Required. A variable that represents an **[EmailOptions](Word.EmailOptions.md)** collection.
+ _expression_ Required. A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 
 
 ## Example

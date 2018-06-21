@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the horizontal alignment fo
 
  _expression_. 'HorizontalAlignment'
 
- _expression_ A variable that represents a **DataLabel** object.
+ _expression_ A variable that represents a [DataLabel](./Excel.DataLabel(Graph property).md) object.
 
 
 ## Remarks

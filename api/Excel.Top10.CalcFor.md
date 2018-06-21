@@ -20,7 +20,7 @@ Returns or sets one of the constants of the  **[XlCalcFor](Excel.XlCalcFor.md)**
 
  _expression_. 'CalcFor'
 
- _expression_ A variable that represents a **Top10** object.
+ _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 
 
 ## Remarks

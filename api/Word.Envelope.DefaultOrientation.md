@@ -20,7 +20,7 @@ Returns or sets the default orientation for feeding envelopes. Read/write  **WdE
 
  _expression_. 'DefaultOrientation'
 
- _expression_ Required. A variable that represents an **[Envelope](Word.Envelope.md)** object.
+ _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Example

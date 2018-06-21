@@ -20,7 +20,7 @@ Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatCon
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **UniqueValues** object.
+ _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
 
 
 ## Remarks

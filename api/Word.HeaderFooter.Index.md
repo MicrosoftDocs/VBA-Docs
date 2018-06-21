@@ -17,7 +17,7 @@ Returns a  **WdHeaderFooterIndex** that represents the specified header or foote
 
  _expression_. 'Index'
 
- _expression_ Required. A variable that represents a **[HeaderFooter](Word.HeaderFooter.md)** object.
+ _expression_ Required. A variable that represents a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
 
 ## Example

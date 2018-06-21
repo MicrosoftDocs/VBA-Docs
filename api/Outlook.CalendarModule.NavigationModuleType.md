@@ -20,7 +20,7 @@ Returns an  **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** cons
 
  _expression_. 'NavigationModuleType'
 
- _expression_ An expression that returns a **CalendarModule** object.
+ _expression_ An expression that returns a [CalendarModule](./Outlook.CalendarModule.md) object.
 
 
 ## Remarks

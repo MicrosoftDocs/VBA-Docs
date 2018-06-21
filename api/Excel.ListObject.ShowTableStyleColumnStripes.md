@@ -20,7 +20,7 @@ Returns or sets if the Column Stripes table style is used for the specified  **L
 
  _expression_. 'ShowTableStyleColumnStripes'
 
- _expression_ A variable that represents a **ListObject** object.
+ _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 
 
 ## See also

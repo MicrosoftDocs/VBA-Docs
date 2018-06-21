@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Styl
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[Styles](Word.styles.md)** collection.
+ _expression_ Required. A variable that represents a '[Styles](Word.styles.md)' collection.
 
 
 ## See also

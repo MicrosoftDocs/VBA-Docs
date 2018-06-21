@@ -20,7 +20,7 @@ Returns a unique number for the specified key combination.
 
  _expression_. 'BuildKeyCode'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
 
- _expression_ A variable that represents a **[Global](Word.Global.md)** object. Optional.
+ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets the shape color type. Read-only  **MsoColorType** .
 
  _expression_. 'Type'
 
- _expression_ Required. A variable that represents a **[ColorFormat](Word.ColorFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ColorFormat](Word.ColorFormat.md)' object.
 
 
 ## See also

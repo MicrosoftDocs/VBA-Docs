@@ -20,7 +20,7 @@ Specifies the relative vertical position of a group of rows. Read/write  **[WdRe
 
  _expression_. 'RelativeVerticalPosition'
 
- _expression_ An expression that represents a **[Rows](Word.rows.md)** object.
+ _expression_ An expression that represents a '[Rows](Word.rows.md)' object.
 
 
 ## See also

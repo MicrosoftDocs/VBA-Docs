@@ -20,7 +20,7 @@ Returns a  **Long** indicating the size (in bytes) of the **[StorageItem](Outloo
 
  _expression_. 'Size'
 
- _expression_ A variable that represents a **StorageItem** object.
+ _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
 
 
 ## Remarks

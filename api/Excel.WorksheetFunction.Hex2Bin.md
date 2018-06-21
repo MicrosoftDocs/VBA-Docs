@@ -20,7 +20,7 @@ Converts a hexadecimal number to binary.
 
  _expression_. 'Hex2Bin'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

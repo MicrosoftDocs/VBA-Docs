@@ -20,7 +20,7 @@ Returns an  **OLEFormat** object that represents the OLE characteristics (other 
 
  _expression_. 'OLEFormat'
 
- _expression_ A variable that represents a **[Field](Word.Field.md)** object.
+ _expression_ A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## See also

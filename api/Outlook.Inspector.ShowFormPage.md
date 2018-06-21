@@ -20,7 +20,7 @@ Displays a button in the  **Show** group of the Microsoft Office Fluent ribbon f
 
  _expression_. 'ShowFormPage'( '_PageName_' )
 
- _expression_ A variable that represents an **Inspector** object.
+ _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ### Parameters

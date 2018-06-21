@@ -20,7 +20,7 @@ Creates a new  **[MailItem](Outlook.MailItem.md)** object containing contact inf
 
  _expression_. 'ForwardAsBusinessCard'
 
- _expression_ An expression that returns a **ContactItem** object.
+ _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ### Return Value

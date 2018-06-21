@@ -20,7 +20,7 @@ Returns the number of items in the  **BuildingBlockEntries** collection. Read-on
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **[BuildingBlockEntries](Word.BuildingBlockEntries.md)** object.
+ _expression_ A variable that represents a '[BuildingBlockEntries](Word.BuildingBlockEntries.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **Double** value that represents the width, in points, of the
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **ChartObject** object.
+ _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 
 
 ## Example

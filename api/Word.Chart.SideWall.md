@@ -20,7 +20,7 @@ Returns a  **[Walls](Word.Walls.md)** object that allows the user to individuall
 
  _expression_. 'SideWall'
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ## See also

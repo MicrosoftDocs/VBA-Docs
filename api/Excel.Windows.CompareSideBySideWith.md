@@ -20,7 +20,7 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 
  _expression_. 'CompareSideBySideWith'( '_WindowName_' )
 
- _expression_ A variable that represents a **Windows** object.
+ _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 
 ### Parameters

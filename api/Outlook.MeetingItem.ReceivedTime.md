@@ -20,7 +20,7 @@ Returns or sets a  **Date** indicating the date and time at which the item was r
 
  _expression_. 'ReceivedTime'
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## See also

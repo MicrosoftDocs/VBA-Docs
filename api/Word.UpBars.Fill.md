@@ -20,7 +20,7 @@ Returns a  **[FillFormat](Word.FillFormat.md)** object for the parent chart elem
 
  _expression_. 'Fill'
 
- _expression_ A variable that represents an **[UpBars](Word.UpBars.md)** object.
+ _expression_ A variable that represents an '[UpBars](Word.UpBars.md)' object.
 
 
 ## See also

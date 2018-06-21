@@ -17,7 +17,7 @@ Occurs before a project is printed.
 
  _expression_. 'ProjectBeforePrint'( ' _pj_', ' _Cancel_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

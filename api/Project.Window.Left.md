@@ -17,6 +17,6 @@ Gets or sets the distance of a project window from the left edge of the main win
 
  _expression_. 'Left'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 

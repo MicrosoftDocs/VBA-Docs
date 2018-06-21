@@ -17,6 +17,6 @@ Gets or sets the budget cost for a  **Resource**. Read/write **Variant**.
 
  _expression_. 'BudgetCost'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

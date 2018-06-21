@@ -20,7 +20,7 @@ Returns or sets a  **Variant** that represents the state of the control. Read/wr
 
  _expression_. 'Value'
 
- _expression_ A variable that represents an **OlkOptionButton** object.
+ _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
 
 
 ## Remarks

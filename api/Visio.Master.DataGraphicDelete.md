@@ -23,7 +23,7 @@ Deletes the  **Master** of type **visTypeDataGraphic** from the **Masters** coll
 
  _expression_. 'DataGraphicDelete'
 
- _expression_ An expression that returns a **Master** object.
+ _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

@@ -17,7 +17,7 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
  _expression_. 'BeforeRead'
 
- _expression_ A variable that represents a **RemoteItem** object.
+ _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## Remarks

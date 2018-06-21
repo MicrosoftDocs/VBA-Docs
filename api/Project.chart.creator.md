@@ -16,7 +16,7 @@ Gets a 32-bit integer that indicates the application in which the chart was crea
 
  _expression_. 'Creator'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

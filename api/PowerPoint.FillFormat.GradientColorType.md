@@ -20,7 +20,7 @@ Returns the gradient color type for the specified fill. Read-only.
 
  _expression_. 'GradientColorType'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ### Return Value

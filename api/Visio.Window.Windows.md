@@ -20,7 +20,7 @@ Returns the  **Windows** collection for a Microsoft Visio instance or window. Re
 
  _expression_. 'Windows'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

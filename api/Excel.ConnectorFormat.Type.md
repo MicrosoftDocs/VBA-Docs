@@ -20,7 +20,7 @@ Returns or sets a  **[MsoConnectorType](http://msdn.microsoft.com/library/2c6796
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **ConnectorFormat** object.
+ _expression_ A variable that represents a [ConnectorFormat](./Excel.ConnectorFormat.md) object.
 
 
 ## See also

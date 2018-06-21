@@ -20,7 +20,7 @@ Returns or sets the ideal minimum screen size (width by height, in pixels) that 
 
  _expression_. 'ScreenSize'
 
- _expression_ Required. A variable that represents a **[WebOptions](Word.WebOptions.md)** collection.
+ _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 
 
 ## Example

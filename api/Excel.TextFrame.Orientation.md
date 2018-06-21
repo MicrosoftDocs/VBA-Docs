@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that represents the text frame orientation.
 
  _expression_. 'Orientation'
 
- _expression_ A variable that represents a **TextFrame** object.
+ _expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
 
 
 ## Remarks

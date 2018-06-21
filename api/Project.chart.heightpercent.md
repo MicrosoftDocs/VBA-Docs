@@ -13,7 +13,7 @@ Gets or sets the height of a 3-D chart as a percentage of the chart width. Read/
 
  _expression_. 'HeightPercent'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

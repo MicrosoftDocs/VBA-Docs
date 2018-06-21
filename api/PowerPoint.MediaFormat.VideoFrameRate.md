@@ -20,7 +20,7 @@ Returns the video frame rate per second of the media. Read-only.
 
  _expression_. 'VideoFrameRate'
 
- _expression_ An expression that returns a **MediaFormat** object.
+ _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns an  **OMath** object that represents the base of the specified equation 
 
  _expression_. 'E'
 
- _expression_ An expression that returns an **OMathGroupChar** object.
+ _expression_ An expression that returns an [OMathGroupChar](./Word.OMathGroupChar.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'RevisionsBalloonShowConnectingLines'
 
- _expression_ A variable that represents a **[View](Word.View.md)** object.
+ _expression_ A variable that represents a '[View](Word.View.md)' object.
 
 
 ## Example

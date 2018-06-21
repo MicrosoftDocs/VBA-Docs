@@ -13,7 +13,7 @@ Gets or sets the rotation of the 3-D chart view (the rotation of the plot area a
 
  _expression_. 'Rotation'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

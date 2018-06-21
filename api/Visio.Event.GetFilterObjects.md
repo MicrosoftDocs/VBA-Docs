@@ -20,7 +20,7 @@ Returns an array of object types and a  **True** or **False** value indicating h
 
  _expression_. 'GetFilterObjects'
 
- _expression_ A variable that represents an **Event** object.
+ _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
 ### Return Value

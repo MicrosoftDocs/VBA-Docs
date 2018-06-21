@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'CanCheckOut'( '_Filename_' )
 
- _expression_ A variable that represents a **Workbooks** object.
+ _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
 ### Parameters

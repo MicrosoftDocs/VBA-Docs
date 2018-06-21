@@ -20,7 +20,7 @@ Returns an  **XMLNodes** collection that represents the child elements of a spec
 
  _expression_. 'ChildNodes'
 
- _expression_ Required. A variable that represents a **[XMLNode](Word.XMLNode.md)** object.
+ _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Example

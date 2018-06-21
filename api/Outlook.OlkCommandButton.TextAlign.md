@@ -20,7 +20,7 @@ Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that spec
 
  _expression_. 'TextAlign'
 
- _expression_ A variable that represents an **OlkCommandButton** object.
+ _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

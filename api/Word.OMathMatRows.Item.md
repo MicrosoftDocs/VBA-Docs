@@ -20,7 +20,7 @@ Returns an  **OMathMatRow** object that represents the specified item in the col
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns an **[OMathMatRows](Word.OMathMatRows.md)** object.
+ _expression_ An expression that returns an '[OMathMatRows](Word.OMathMatRows.md)' object.
 
 
 ### Parameters

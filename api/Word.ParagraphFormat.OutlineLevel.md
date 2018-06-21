@@ -20,7 +20,7 @@ Returns or sets the outline level for the specified paragraphs. Read/write  **[W
 
  _expression_. 'OutlineLevel'
 
- _expression_ Required. A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Remarks

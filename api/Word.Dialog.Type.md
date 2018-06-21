@@ -20,7 +20,7 @@ Returns the type of built-in Microsoft Word dialog box. Read-only  **[WdWordDial
 
  _expression_. 'Type'
 
- _expression_ Required. A variable that represents a **[Dialog](Word.Dialog.md)** object.
+ _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 
 
 ## See also

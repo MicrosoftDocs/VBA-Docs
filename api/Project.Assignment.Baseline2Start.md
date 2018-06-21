@@ -17,6 +17,6 @@ Gets or sets the baseline start date of a task  **Assignment**. Read/write **Var
 
  _expression_. 'Baseline2Start'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

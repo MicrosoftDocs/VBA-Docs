@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether the equations in an equat
 
  _expression_. 'ObjDist'
 
- _expression_ An expression that returns an **[OMathEqArray](Word.OMathEqArray.md)** object.
+ _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 
 
 ## See also

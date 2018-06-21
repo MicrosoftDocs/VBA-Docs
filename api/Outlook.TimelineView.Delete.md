@@ -20,7 +20,7 @@ Deletes an object from a collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **TimelineView** object.
+ _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 
 
 ## See also

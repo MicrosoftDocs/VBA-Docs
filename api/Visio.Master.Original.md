@@ -20,7 +20,7 @@ Returns the original master that produced this open master. Read-only.
 
  _expression_. 'Original'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

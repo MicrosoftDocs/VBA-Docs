@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ProtectDrawingObjects'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

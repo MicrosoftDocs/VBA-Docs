@@ -20,6 +20,6 @@ Deletes the  **LookupTableEntry** object from a **LookupTable** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **LookupTableEntry** object.
+ _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 

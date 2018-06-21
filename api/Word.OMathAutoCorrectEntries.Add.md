@@ -20,7 +20,7 @@ Creates an equation auto correct entry and returns an  **[OMathAutoCorrectEntry]
 
  _expression_. 'Add'( '_Name_' , '_Value_' )
 
- _expression_ An expression that returns an **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** object.
+ _expression_ An expression that returns an '[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)' object.
 
 
 ### Parameters

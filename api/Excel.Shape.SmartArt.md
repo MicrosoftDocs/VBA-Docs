@@ -20,7 +20,7 @@ Returns an object that represents the SmartArt associated with the shape. Read-o
 
  _expression_. 'SmartArt'
 
- _expression_ A variable that represents a **[Shape](Excel.Shape.md)** object.
+ _expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
 
 
 ### Return Value

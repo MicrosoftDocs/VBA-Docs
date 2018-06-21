@@ -20,7 +20,7 @@ Returns an object's type. Read-only.
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents an **ApplicationSettings** object.
+ _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

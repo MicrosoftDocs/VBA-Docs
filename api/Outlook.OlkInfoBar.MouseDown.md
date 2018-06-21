@@ -20,7 +20,7 @@ Occurs when the user presses a mouse button on the control.
 
  _expression_. 'MouseDown'( '_Button_' , '_Shift_' , '_X_' , '_Y_' )
 
- _expression_ A variable that represents an **OlkInfoBar** object.
+ _expression_ A variable that represents an [OlkInfoBar](./Outlook.OlkInfoBar.md) object.
 
 
 ### Parameters

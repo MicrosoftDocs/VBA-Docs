@@ -20,7 +20,7 @@ Occurs when the chart, worksheet, or workbook is deactivated.
 
  _expression_. 'Deactivate'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Return Value

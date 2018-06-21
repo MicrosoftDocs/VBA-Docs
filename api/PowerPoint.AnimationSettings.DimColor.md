@@ -20,7 +20,7 @@ Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that repr
 
  _expression_. 'DimColor'
 
- _expression_ A variable that represents a **AnimationSettings** object.
+ _expression_ A variable that represents a [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ### Return Value

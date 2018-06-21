@@ -20,7 +20,7 @@ Displays a message in a message box.
 
  _expression_. 'Message'( ' _Message_', ' _Type_', ' _YesText_', ' _NoText_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

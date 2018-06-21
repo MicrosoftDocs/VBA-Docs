@@ -20,7 +20,7 @@ Returns or sets an  **[OlHorizontalLayout](Outlook.OlHorizontalLayout.md)** cons
 
  _expression_. 'HorizontalLayout'
 
- _expression_ A variable that represents an **OlkControl** object.
+ _expression_ A variable that represents an 'OlkControl' object.
 
 
 ## See also

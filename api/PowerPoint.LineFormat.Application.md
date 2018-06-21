@@ -17,7 +17,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **LineFormat** object.
+ _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
 ### Return Value

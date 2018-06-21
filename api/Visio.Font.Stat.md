@@ -20,7 +20,7 @@ Returns status information for an object. Read-only.
 
  _expression_. 'Stat'
 
- _expression_ A variable that represents a **Font** object.
+ _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
 
 ### Return Value

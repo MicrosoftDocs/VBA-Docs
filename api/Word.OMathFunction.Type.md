@@ -20,7 +20,7 @@ Returns a  **[WdOMathFunctionType](Word.WdOMathFunctionType.md)** constant that 
 
  _expression_. 'Type'
 
- _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
+ _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 
 
 ## See also

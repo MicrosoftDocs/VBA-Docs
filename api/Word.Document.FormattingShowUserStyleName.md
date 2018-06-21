@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to show user-defined styl
 
  _expression_. 'FormattingShowUserStyleName'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
 
 ## Remarks

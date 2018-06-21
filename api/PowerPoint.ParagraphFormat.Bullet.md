@@ -20,7 +20,7 @@ Returns a  **[BulletFormat](PowerPoint.BulletFormat.md)** object that represents
 
  _expression_. 'Bullet'
 
- _expression_ A variable that represents a **ParagraphFormat** object.
+ _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
 
 ### Return Value

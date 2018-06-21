@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'TransparentBackground'
 
- _expression_ Required. A variable that represents a **[PictureFormat](Word.PictureFormat.md)** object.
+ _expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
 
 ## Remarks

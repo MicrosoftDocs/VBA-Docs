@@ -20,7 +20,7 @@ Sets the left indent for the specified paragraphs to a specified number of tab s
 
  _expression_. 'TabIndent'( '_Count_' )
 
- _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ### Parameters

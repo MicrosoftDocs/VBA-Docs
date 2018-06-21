@@ -17,7 +17,7 @@ Gets the index of a  **WorkWeekDay** object in the **WorkWeekDays** containing o
 
  _expression_. 'Index'
 
- _expression_ An expression that returns a **WorkWeekDay** object.
+ _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 
 
 ## Remarks

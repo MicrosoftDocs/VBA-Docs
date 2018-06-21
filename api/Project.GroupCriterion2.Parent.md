@@ -17,7 +17,7 @@ Gets the parent of the object. Read-only  **Group2**.
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **GroupCriterion2** object.
+ _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 
 
 ## Remarks

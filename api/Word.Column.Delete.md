@@ -20,7 +20,7 @@ Deletes the specified column.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[Column](Word.Column.md)** object.
+ _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Displays the specified form page or form region in the inspector.
 
  _expression_. 'SetCurrentFormPage'( '_PageName_' )
 
- _expression_ A variable that represents an **Inspector** object.
+ _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ### Parameters

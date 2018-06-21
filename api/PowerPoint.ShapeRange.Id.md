@@ -20,7 +20,7 @@ Returns a  **Long** that identifies the shape or range of shapes. Read-only.
 
  _expression_. 'Id'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

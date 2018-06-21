@@ -20,7 +20,7 @@ Resizes the specified range. Returns a  **[Range](Excel.Range(objec).md)** objec
 
  _expression_. 'Resize'( '_RowSize_' , '_ColumnSize_' )
 
- _expression_ An expression that returns a **Range** object.
+ _expression_ An expression that returns a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

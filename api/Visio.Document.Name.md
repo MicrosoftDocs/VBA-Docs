@@ -20,7 +20,7 @@ Specifies the name of an object. Read-only.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

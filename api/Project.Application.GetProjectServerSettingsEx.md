@@ -17,7 +17,7 @@ Returns global Project settings in a single XML string. You can obtain settings 
 
  _expression_. 'GetProjectServerSettingsEx'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

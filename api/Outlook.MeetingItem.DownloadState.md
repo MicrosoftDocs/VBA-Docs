@@ -20,7 +20,7 @@ Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadSt
 
  _expression_. 'DownloadState'
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## Example

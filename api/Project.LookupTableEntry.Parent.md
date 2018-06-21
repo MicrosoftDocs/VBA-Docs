@@ -17,7 +17,7 @@ Gets the parent of the  **LookupTableEntry** object. Read-only **OutlineCode**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **LookupTableEntry** object.
+ _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 
 ## Remarks

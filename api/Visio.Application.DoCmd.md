@@ -20,7 +20,7 @@ Performs the command that has the indicated command ID.
 
  _expression_. 'DoCmd'( '_CommandID_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Parameters

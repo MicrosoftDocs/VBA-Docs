@@ -13,7 +13,7 @@ Gets or sets the width, in points, of the shape. Read/write  **Long**.
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

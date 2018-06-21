@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines whether Outlook items are s
 
  _expression_. 'ShowItemsInGroups'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## See also

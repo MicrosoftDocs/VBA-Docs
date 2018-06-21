@@ -21,7 +21,7 @@ Version Added: Outlook 2013
 
  _expression_. 'SortFields'
 
- _expression_ A variable that represents a **PeopleView** object.
+ _expression_ A variable that represents a 'PeopleView' object.
 
 
 ## Property value

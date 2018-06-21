@@ -20,7 +20,7 @@ Returns or sets the identifying label for the specified table when the document 
 
  _expression_. 'ID'
 
- _expression_ Required. A variable that represents a **[Table](Word.Table.md)** object.
+ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## See also

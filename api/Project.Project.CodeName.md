@@ -17,7 +17,7 @@ Gets the code name for the project. Read-only  **String**.
 
  _expression_. 'CodeName'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

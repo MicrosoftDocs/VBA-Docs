@@ -20,7 +20,7 @@ Deletes the specified recognized function from the list of the recognized functi
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns an **OMathRecognizedFunction** object.
+ _expression_ An expression that returns an [OMathRecognizedFunction](./Word.OMathRecognizedFunction.md) object.
 
 
 ## See also

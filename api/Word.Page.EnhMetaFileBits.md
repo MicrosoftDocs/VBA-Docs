@@ -20,7 +20,7 @@ Returns a  **Variant** that represents a picture representation of how a page of
 
  _expression_. 'EnhMetaFileBits'
 
- _expression_ An expression that returns a **[Page](Word.Page.md)** object.
+ _expression_ An expression that returns a '[Page](Word.Page.md)' object.
 
 
 ## Remarks

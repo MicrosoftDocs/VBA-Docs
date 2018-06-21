@@ -20,7 +20,7 @@ Restores the built-in Microsoft Visio user interface.
 
  _expression_. 'ClearCustomToolbars'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

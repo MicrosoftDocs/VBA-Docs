@@ -20,7 +20,7 @@ Deletes the specified table of contents.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[TableOfContents](Word.TableOfContents.md)** collection.
+ _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 
 
 ## See also

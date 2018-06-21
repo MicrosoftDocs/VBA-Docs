@@ -18,6 +18,6 @@ Returns the root object for all Engagement properties. Introduced in Office 2016
 
  _expression_. 'Engagements'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

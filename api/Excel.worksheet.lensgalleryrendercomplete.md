@@ -18,7 +18,7 @@ Occurs when a callout gallery's icons (dynamic &; static) have completed renderi
 
  _expression_. 'LensGalleryRenderComplete'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ### Remarks

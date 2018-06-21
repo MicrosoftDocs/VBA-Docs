@@ -20,7 +20,7 @@ Double-spaces the specified paragraphs.
 
  _expression_. 'Space2'
 
- _expression_ Required. A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Remarks

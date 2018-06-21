@@ -20,7 +20,7 @@ Sets the icon for the specified shortcut on the  **Shortcuts** pane.
 
  _expression_. 'SetIcon'( '_Icon_' )
 
- _expression_ A variable that represents an **OutlookBarShortcut** object.
+ _expression_ A variable that represents an [OutlookBarShortcut](./Outlook.OutlookBarShortcut.md) object.
 
 
 ### Parameters

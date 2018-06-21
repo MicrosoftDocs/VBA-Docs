@@ -20,7 +20,7 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that specifies the color
 
  _expression_. 'Axis'
 
- _expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object.
+ _expression_ A variable that represents a '[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)' object.
 
 
 ## See also

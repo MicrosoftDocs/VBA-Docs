@@ -20,7 +20,7 @@ Returns a  **PictureFormat** object that contains picture formatting properties 
 
  _expression_. 'PictureFormat'
 
- _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
+ _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks

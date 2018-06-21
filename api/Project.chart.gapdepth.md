@@ -13,7 +13,7 @@ Gets or sets the distance between the data series in a 3-D chart, as a percentag
 
  _expression_. 'GapDepth'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

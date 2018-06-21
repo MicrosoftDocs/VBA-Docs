@@ -20,7 +20,7 @@ Returns a  **[Row](Word.Row.md)** object that represents the row containing the 
 
  _expression_. 'Row'
 
- _expression_ An expression that returns a **[Cell](Word.Cell.md)** object.
+ _expression_ An expression that returns a '[Cell](Word.Cell.md)' object.
 
 
 ## Example

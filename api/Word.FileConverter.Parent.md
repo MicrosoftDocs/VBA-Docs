@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **File
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[FileConverter](Word.FileConverter.md)** object.
+ _expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
 
 ## See also

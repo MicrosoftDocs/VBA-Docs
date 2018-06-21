@@ -20,7 +20,7 @@ Returns or sets the display name for the specified  **ListObject** object. Read/
 
  _expression_. 'DisplayName'
 
- _expression_ A variable that represents a **ListObject** object.
+ _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 
 
 ## See also

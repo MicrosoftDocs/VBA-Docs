@@ -20,7 +20,7 @@ Returns a  **wdLineType** constant that indicates whether a line is a text line 
 
  _expression_. 'LineType'
 
- _expression_ Required. A variable that represents a **[Line](Word.Line.md)** object.
+ _expression_ Required. A variable that represents a '[Line](Word.Line.md)' object.
 
 
 ## Example

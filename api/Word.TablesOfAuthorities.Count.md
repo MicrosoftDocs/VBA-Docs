@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of tables of authorities in the c
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[TablesOfAuthorities](Word.tablesofauthorities.md)** collection.
+ _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets an  **MsoLightRigType** constant that represents the type and di
 
  _expression_. 'Type'
 
- _expression_ An expression that returns a **[ReflectionFormat](Word.ReflectionFormat.md)** object.
+ _expression_ An expression that returns a '[ReflectionFormat](Word.ReflectionFormat.md)' object.
 
 
 ## See also

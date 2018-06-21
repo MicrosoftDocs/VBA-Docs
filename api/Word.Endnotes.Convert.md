@@ -20,7 +20,7 @@ Converts endnotes to footnotes.
 
  _expression_. 'Convert'
 
- _expression_ Required. A variable that represents an **[Endnotes](Word.endnotes.md)** object.
+ _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' object.
 
 
 ## Example

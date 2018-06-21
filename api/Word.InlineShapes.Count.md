@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of inline shapes in the collectio
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents an **[InlineShapes](Word.inlineshapes.md)** collection.
+ _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
 ## See also

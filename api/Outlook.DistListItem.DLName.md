@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the display name of a distribution li
 
  _expression_. 'DLName'
 
- _expression_ A variable that represents a **DistListItem** object.
+ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## Example

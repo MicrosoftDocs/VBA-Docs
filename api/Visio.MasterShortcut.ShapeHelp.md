@@ -20,7 +20,7 @@ Gets or sets the help string used when the user clicks  **Help** on the shortcut
 
  _expression_. 'ShapeHelp'
 
- _expression_ A variable that represents a **MasterShortcut** object.
+ _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
 ### Return Value

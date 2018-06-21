@@ -20,7 +20,7 @@ Returns an item from a collection. The  **Item** property is the default propert
 
  _expression_. 'Item'( '_NameUIDOrIndex_' )
 
- _expression_ A variable that represents a **Masters** object.
+ _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
 ### Parameters

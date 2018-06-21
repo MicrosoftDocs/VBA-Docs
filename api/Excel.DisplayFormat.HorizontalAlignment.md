@@ -20,7 +20,7 @@ Returns a value that represents the horizontal alignment of the associated  **[R
 
  _expression_. 'HorizontalAlignment'
 
- _expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
+ _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ### Return Value

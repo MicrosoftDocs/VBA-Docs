@@ -20,7 +20,7 @@ Returns the row index of a cell. Read-only.
 
  _expression_. 'Row'
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns the number of sparklines in the sparkline group. Read-only.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
+ _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ### Return Value

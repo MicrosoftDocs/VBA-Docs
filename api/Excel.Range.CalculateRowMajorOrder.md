@@ -20,7 +20,7 @@ Calculates a specfied range of cells.
 
  _expression_. 'CalculateRowMajorOrder'
 
- _expression_ An expression that returns a **Range** object.
+ _expression_ An expression that returns a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Return Value

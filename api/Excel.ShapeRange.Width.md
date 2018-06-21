@@ -20,7 +20,7 @@ Returns or sets a  **Single** value that represents the width, in points, of the
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## See also

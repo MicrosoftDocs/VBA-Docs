@@ -20,7 +20,7 @@ Opens a new e-mail message — with the sender's and all other recipients' addre
 
  _expression_. 'ReplyAll'
 
- _expression_ Required. A variable that represents a **[MailMessage](Word.MailMessage.md)** object.
+ _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 
 
 ## Example

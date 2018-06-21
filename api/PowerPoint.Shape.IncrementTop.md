@@ -20,7 +20,7 @@ Moves the specified shape vertically by the specified number of points.
 
  _expression_. 'IncrementTop'( '_Increment_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Parameters

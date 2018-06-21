@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of categories in the collection. 
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)** collection.
+ _expression_ Required. A variable that represents a '[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)' collection.
 
 
 ## See also

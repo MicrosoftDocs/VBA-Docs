@@ -20,7 +20,7 @@ Returns whether the specified pane or window is active. Read-only.
 
  _expression_. 'Active'
 
- _expression_ A variable that represents a **SlideShowWindow** object.
+ _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
 
 ### Return Value

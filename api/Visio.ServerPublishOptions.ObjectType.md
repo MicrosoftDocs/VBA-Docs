@@ -23,7 +23,7 @@ Returns  **visObjTypeServerPublishOptions** , the type of this object. Read-only
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents a **[ServerPublishOptions](Visio.ServerPublishOptions.md)** object.
+ _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
 ### Return Value

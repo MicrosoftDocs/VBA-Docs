@@ -20,7 +20,7 @@ Returns or sets an  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-b
 
  _expression_. 'Perspective'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

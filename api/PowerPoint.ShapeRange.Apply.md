@@ -20,7 +20,7 @@ Applies to the specified shape range formatting that's been copied by using the 
 
  _expression_. 'Apply'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ## See also

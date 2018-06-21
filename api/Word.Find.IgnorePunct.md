@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether a find operation should i
 
  _expression_. 'IgnorePunct'
 
- _expression_ An expression that returns a **Find** object.
+ _expression_ An expression that returns a [Find](./Word.Find.md) object.
 
 
 ## Remarks

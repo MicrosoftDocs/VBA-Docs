@@ -20,7 +20,7 @@ Returns the  **[ContainerProperties](Visio.ContainerProperties.md)** object asso
 
  _expression_. 'ContainerProperties'
 
- _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
+ _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
 ### Return Value

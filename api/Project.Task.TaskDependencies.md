@@ -17,7 +17,7 @@ Gets a  **[TaskDependencies](Project.TaskDependency.md)** collection of dependen
 
  _expression_. 'TaskDependencies'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

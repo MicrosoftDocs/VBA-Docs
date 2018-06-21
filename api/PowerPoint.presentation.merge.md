@@ -18,7 +18,7 @@ Merges the changes in one presentation with another.
 
  _expression_. 'Merge'_(Path)_
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Parameters

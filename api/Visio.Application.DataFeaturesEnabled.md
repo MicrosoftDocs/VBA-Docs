@@ -20,7 +20,7 @@ Gets whether the data features in Microsoft Visio are enabled for the current in
 
  _expression_. 'DataFeaturesEnabled'
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
 ### Return Value

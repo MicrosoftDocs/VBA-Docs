@@ -20,7 +20,7 @@ Returns the code name for the object. Read-only  **String** .
 
  _expression_. 'CodeName'
 
- _expression_ An expression that returns a **Worksheet** object.
+ _expression_ An expression that returns a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Remarks

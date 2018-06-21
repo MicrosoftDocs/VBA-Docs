@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that determines which views are displayed on the 
 
  _expression_. 'CustomViewsOnly'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Remarks

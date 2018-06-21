@@ -15,9 +15,9 @@ Occurs after one or more shapes are added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**ShapeAdded**( **_ByVal Shape As [IVSHAPE]_** )
+Private Sub  _expression_ _'ShapeAdded'( **_ByVal Shape As [IVSHAPE]_** )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

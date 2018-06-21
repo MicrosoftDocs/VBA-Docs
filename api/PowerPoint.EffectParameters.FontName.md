@@ -20,7 +20,7 @@ Returns or sets the name of the font in the specified WordArt. Read/write.
 
  _expression_. 'FontName'
 
- _expression_ A variable that represents an **EffectParameters** object.
+ _expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
 
 
 ### Return Value

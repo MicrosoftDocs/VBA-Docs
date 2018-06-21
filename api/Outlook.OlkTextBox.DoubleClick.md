@@ -20,7 +20,7 @@ Occurs when the user double-clicks inside the control.
 
  _expression_. 'DoubleClick'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## See also

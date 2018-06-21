@@ -20,7 +20,7 @@ Returns a single  **[PivotTable](Excel.PivotTable.md)** object from the collecti
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **[SlicerPivotTables](Excel.SlicerPivotTables.md)** object.
+ _expression_ A variable that represents a '[SlicerPivotTables](Excel.SlicerPivotTables.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **String** value that represents the display name for the object. Rea
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ## See also

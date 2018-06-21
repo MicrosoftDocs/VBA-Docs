@@ -16,7 +16,7 @@ Hides the project checkout message bar.
 
  _expression_. 'HideCheckoutMsgBar'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ### Return value

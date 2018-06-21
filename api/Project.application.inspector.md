@@ -18,7 +18,7 @@ Indicates the  **Task Inspector** for use with engagement data. Introduced in Of
 
  _expression_. 'Inspector'
 
- _expression_ A variable that represents a **Application** object.
+ _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/wri
 
  _expression_. 'Cursor'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

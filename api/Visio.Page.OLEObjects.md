@@ -20,7 +20,7 @@ Returns the  **OLEObjects** collection of a page. Read-only.
 
  _expression_. 'OLEObjects'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Expands or collapses the specified resource row in the Team Planner view, when t
 
  _expression_. 'ToggleTPResourceExpand'( ' _ResourceUniqueID_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

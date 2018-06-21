@@ -20,7 +20,7 @@ Gets the date separator character. Read-only  **String**.
 
  _expression_. 'DateSeparator'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

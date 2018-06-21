@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'InvertIfNegative'
 
- _expression_ A variable that represents a **[Point](PowerPoint.Point.md)** object.
+ _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## See also

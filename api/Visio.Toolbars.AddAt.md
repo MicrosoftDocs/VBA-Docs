@@ -20,7 +20,7 @@ Creates a new  **Toolbar** object at a specified index in the **Toolbars** colle
 
  _expression_. 'AddAt'( '_lIndex_' )
 
- _expression_ A variable that represents a **Toolbars** object.
+ _expression_ A variable that represents a [Toolbars](./Visio.Toolbars.md) object.
 
 
 ### Parameters

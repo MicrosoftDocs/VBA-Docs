@@ -20,7 +20,7 @@ Returns the location of an installed add-in. Read-only  **String** .
 
  _expression_. 'Path'
 
- _expression_ An expression that returns an **[AddIn](Word.AddIn.md)** object.
+ _expression_ An expression that returns an '[AddIn](Word.AddIn.md)' object.
 
 
 ## Remarks

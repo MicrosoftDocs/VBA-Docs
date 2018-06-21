@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the left indent value (in points) 
 
  _expression_. 'LeftIndent'
 
- _expression_ A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example

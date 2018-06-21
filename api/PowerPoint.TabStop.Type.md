@@ -20,7 +20,7 @@ Represents the formatting of a tab stop. Read/write.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **TabStop** object.
+ _expression_ A variable that represents a [TabStop](./PowerPoint.TabStop.md) object.
 
 
 ### Return Value

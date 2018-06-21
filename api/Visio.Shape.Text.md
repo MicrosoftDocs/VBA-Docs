@@ -20,7 +20,7 @@ Returns all of the shape's text. Read/write.
 
  _expression_. 'Text'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

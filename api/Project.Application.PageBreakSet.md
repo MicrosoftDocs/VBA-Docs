@@ -20,7 +20,7 @@ Sets a page break in the active row.
 
  _expression_. 'PageBreakSet'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

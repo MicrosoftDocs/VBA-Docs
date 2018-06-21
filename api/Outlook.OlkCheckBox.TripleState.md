@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that specifies whether a user can specify in the 
 
  _expression_. 'TripleState'
 
- _expression_ A variable that represents an **OlkCheckBox** object.
+ _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

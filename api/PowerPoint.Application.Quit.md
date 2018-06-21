@@ -20,7 +20,7 @@ Quits Microsoft PowerPoint. This is equivalent to clicking the  **Office** butto
 
  _expression_. 'Quit'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Remarks

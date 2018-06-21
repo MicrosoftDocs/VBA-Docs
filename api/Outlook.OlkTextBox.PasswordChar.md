@@ -20,7 +20,7 @@ Returns or sets a  **String** that specifies a placeholder character that is to 
 
  _expression_. 'PasswordChar'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

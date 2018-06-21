@@ -20,7 +20,7 @@ Deletes the specified item in a combo box or drop-down list content control.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns a **ContentControlListEntry** object.
+ _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
 
 ## Example

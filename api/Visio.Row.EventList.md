@@ -20,7 +20,7 @@ Returns the  **EventList** collection of an object or the **EventList** collecti
 
  _expression_. 'EventList'
 
- _expression_ A variable that represents a **Row** object.
+ _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
 
 ### Return Value

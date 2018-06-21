@@ -20,7 +20,7 @@ Indicates whether an object is capable of containing persistent events in its  *
 
  _expression_. 'PersistsEvents'
 
- _expression_ A variable that represents a **Windows** object.
+ _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 
 
 ### Return Value

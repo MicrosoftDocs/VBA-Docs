@@ -13,7 +13,7 @@ Gets or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long
 
  _expression_. 'Elevation'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

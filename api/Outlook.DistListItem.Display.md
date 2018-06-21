@@ -20,7 +20,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
  _expression_. 'Display'( '_Modal_' )
 
- _expression_ A variable that represents a **DistListItem** object.
+ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ### Parameters

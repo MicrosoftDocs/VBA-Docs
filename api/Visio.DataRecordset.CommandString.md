@@ -23,7 +23,7 @@ Gets or sets the command string used to query the data source to create a data r
 
  _expression_. 'CommandString'
 
- _expression_ An expression that returns a **DataRecordset** object.
+ _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
 ### Return Value

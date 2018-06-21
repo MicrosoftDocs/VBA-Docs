@@ -20,7 +20,7 @@ Inserts an = (Formula) field that contains the specified formula into a table ce
 
  _expression_. 'Formula'( '_Formula_' , '_NumFormat_' )
 
- _expression_ Required. A variable that represents a **[Cell](Word.Cell.md)** object.
+ _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns an  **[AutoCaptions](Word.autocaptions.md)** collection that represents 
 
  _expression_. 'AutoCaptions'
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

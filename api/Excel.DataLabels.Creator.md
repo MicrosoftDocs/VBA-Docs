@@ -20,7 +20,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
  _expression_. 'Creator'
 
- _expression_ A variable that represents a **DataLabels** object.
+ _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
 
 
 ## Remarks

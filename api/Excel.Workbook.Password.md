@@ -20,7 +20,7 @@ Returns or sets the password that must be supplied to open the specified workboo
 
  _expression_. 'Password'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Remarks

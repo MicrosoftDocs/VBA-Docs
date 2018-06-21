@@ -20,7 +20,7 @@ Allows access to the new audio or video object. Read-only.
 
  _expression_. 'MediaFormat'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## Remarks

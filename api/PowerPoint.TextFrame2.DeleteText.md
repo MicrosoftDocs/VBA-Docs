@@ -20,7 +20,7 @@ Deletes the text from a text frame and all the associated properties of the text
 
  _expression_. 'DeleteText'
 
- _expression_ An expression that returns a **TextFrame2** object.
+ _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
 ### Return Value

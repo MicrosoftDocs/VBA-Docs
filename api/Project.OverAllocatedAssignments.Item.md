@@ -17,7 +17,7 @@ Gets a single  **Assignment** object from the **OverAllocatedAssignments** colle
 
  _expression_. 'Item'( ' _Index_' )
 
- _expression_ An expression that returns an **OverAllocatedAssignments** object.
+ _expression_ An expression that returns an 'OverAllocatedAssignments' object.
 
 
 ### Parameters

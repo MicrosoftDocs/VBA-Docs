@@ -20,7 +20,7 @@ Applies a rule as an one-off operation.
 
  _expression_. 'Execute'( '_ShowProgress_' , '_Folder_' , '_IncludeSubfolders_' , '_RuleExecuteOption_' )
 
- _expression_ A variable that represents a **Rule** object.
+ _expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
 
 
 ### Parameters

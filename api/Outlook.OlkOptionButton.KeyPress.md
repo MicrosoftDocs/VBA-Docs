@@ -20,7 +20,7 @@ Occurs when the user presses an ANSI key.
 
  _expression_. 'KeyPress'( '_KeyAscii_' )
 
- _expression_ A variable that represents an **OlkOptionButton** object.
+ _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
 
 
 ### Parameters

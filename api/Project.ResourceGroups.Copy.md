@@ -17,7 +17,7 @@ Makes a copy of a group definition for the  **ResourceGroups** collection and re
 
  _expression_. 'Copy'( ' _Name_', ' _NewName_' )
 
- _expression_ A variable that represents a **ResourceGroups** object.
+ _expression_ A variable that represents a 'ResourceGroups' object.
 
 
 ### Parameters

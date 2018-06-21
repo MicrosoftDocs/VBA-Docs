@@ -20,7 +20,7 @@ Returns the number of top or bottom items that are automatically shown in the sp
 
  _expression_. 'AutoShowCount'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## Example

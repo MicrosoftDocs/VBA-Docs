@@ -20,7 +20,7 @@ Gets or sets the argument string that you send to the add-on associated with a p
 
  _expression_. 'AddOnArgs'
 
- _expression_ A variable that represents a **MenuItem** object.
+ _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
 
 ### Return Value

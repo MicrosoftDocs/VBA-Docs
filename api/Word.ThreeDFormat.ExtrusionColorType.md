@@ -20,7 +20,7 @@ Returns or sets a value that indicates whether the extrusion color is based on t
 
  _expression_. 'ExtrusionColorType'
 
- _expression_ Required. A variable that represents a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## Example

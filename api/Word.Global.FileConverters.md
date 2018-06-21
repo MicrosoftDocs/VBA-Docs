@@ -20,7 +20,7 @@ Returns a  **[FileConverters](Word.fileconverters.md)** collection that represen
 
  _expression_. 'FileConverters'
 
- _expression_ A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ObjectThemeColor'
 
- _expression_ An expression that returns a **[ColorFormat](Word.ColorFormat.md)** object.
+ _expression_ An expression that returns a '[ColorFormat](Word.ColorFormat.md)' object.
 
 
 ## See also

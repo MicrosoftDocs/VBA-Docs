@@ -20,7 +20,7 @@ Gets or sets the start point of the trim region. Read/write.
 
  _expression_. 'StartPoint'
 
- _expression_ An expression that returns a **MediaFormat** object.
+ _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
 ### Return Value

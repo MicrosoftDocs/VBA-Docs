@@ -20,7 +20,7 @@ Adds a new embedded object or ActiveX control to a page, master, or group.
 
  _expression_. 'InsertObject'( '_ClassOrProgID_' , '_Flags_' )
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Parameters

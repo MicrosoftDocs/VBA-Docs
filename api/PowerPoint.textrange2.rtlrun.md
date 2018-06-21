@@ -15,7 +15,7 @@ Returns a  **TextRange2** object that represents the specified subset of right-t
 
  _expression_. 'RtlRun'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ## See also

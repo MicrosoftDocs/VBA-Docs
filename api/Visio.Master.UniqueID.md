@@ -20,7 +20,7 @@ Returns the unique ID of a master. Read-only.
 
  _expression_. 'UniqueID'
 
- _expression_ An expression that returns a **Master** object.
+ _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

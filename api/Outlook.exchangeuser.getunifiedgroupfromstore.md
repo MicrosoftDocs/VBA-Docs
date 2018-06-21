@@ -18,7 +18,7 @@ Determines if the object is a unified group, by way of a call to [IsUnifiedGroup
 
  _expression_. 'GetUnifiedGroupFromStore'
 
- _expression_ A variable that represents a **ExchangeUser** object.
+ _expression_ A variable that represents a [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ### Return Value

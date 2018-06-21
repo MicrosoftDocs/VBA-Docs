@@ -17,7 +17,7 @@ Gets or sets the amount of time the assignment is delayed due to leveling. Read/
 
  _expression_. 'LevelingDelay'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

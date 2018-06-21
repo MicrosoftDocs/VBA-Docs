@@ -20,7 +20,7 @@ Returns a  **[TextEffectFormat](Excel.TextEffectFormat.md)** object that contain
 
  _expression_. 'TextEffect'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

@@ -17,7 +17,7 @@ Occurs when a queued job originating from Project Professional is completed.
 
  _expression_. 'JobCompleted'( ' _bstrName_', ' _bstrprojGuid_', ' _bstrjobGuid_', ' _jobType_', ' _lResult_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

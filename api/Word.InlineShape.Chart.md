@@ -20,7 +20,7 @@ Returns a  **Chart** object that represents a chart within the collection of inl
 
  _expression_. 'Chart'
 
- _expression_ An expression that returns a **[InlineShape](Word.InlineShape.md)** object.
+ _expression_ An expression that returns a '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## See also

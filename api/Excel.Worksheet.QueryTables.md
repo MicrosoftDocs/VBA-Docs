@@ -20,7 +20,7 @@ Returns the  **[QueryTables](Excel.QueryTables.md)** collection that represents 
 
  _expression_. 'QueryTables'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

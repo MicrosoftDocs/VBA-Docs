@@ -17,7 +17,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
  _expression_. 'Read'
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## Remarks

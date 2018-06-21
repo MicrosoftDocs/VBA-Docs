@@ -20,7 +20,7 @@ Returns the name of an animation effect. Read-only.
 
  _expression_. 'DisplayName'
 
- _expression_ A variable that represents a **Effect** object.
+ _expression_ A variable that represents a [Effect](./PowerPoint.Effect.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Clears the constraint on a specified task.
 
  _expression_. 'ClearConstraint'( ' _TaskID_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

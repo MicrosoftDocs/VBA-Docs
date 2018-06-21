@@ -20,7 +20,7 @@ Returns a Frame object that represents a new frame added to a range, selection, 
 
  _expression_. 'Add'( '_Range_' )
 
- _expression_ An expression that returns a **[Frames](Word.Frames.md)** object.
+ _expression_ An expression that returns a '[Frames](Word.Frames.md)' object.
 
 
 ### Parameters

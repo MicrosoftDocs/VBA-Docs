@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'BookFoldPrinting'
 
- _expression_ An expression that returns a **[PageSetup](Word.PageSetup.md)** object.
+ _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## Example

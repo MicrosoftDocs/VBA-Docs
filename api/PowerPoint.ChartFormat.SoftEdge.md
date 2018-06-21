@@ -20,7 +20,7 @@ Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](http
 
  _expression_. 'SoftEdge'
 
- _expression_ A variable that represents a **[ChartFormat](PowerPoint.ChartFormat.md)** object.
+ _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.md)' object.
 
 
 ## See also

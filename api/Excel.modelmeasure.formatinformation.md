@@ -18,7 +18,7 @@ The format of the model measure. Read/write  **Variant**.
 
  _expression_. 'FormatInformation'
 
- _expression_ A variable that represents a **ModelMeasure** object.
+ _expression_ A variable that represents a 'ModelMeasure' object.
 
 
 ## Remarks

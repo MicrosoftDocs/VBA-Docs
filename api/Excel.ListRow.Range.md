@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range t
 
  _expression_. 'Range'
 
- _expression_ A variable that represents a **ListRow** object.
+ _expression_ A variable that represents a [ListRow](./Excel.ListRow.md) object.
 
 
 ## See also

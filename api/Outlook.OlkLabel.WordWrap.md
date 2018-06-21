@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
  _expression_. 'WordWrap'
 
- _expression_ A variable that represents an **OlkLabel** object.
+ _expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
 
 
 ## Remarks

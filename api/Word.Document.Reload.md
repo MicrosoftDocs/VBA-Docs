@@ -20,7 +20,7 @@ Reloads a cached document by resolving the hyperlink to the document and downloa
 
  _expression_. 'Reload'
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

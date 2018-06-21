@@ -20,7 +20,7 @@ Returns or sets a string saved with the PivotTable report. Read/write  **String*
 
  _expression_. 'Tag'
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ## Example

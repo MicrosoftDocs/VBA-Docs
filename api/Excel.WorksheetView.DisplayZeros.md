@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'DisplayZeros'
 
- _expression_ A variable that represents a **WorksheetView** object.
+ _expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.md) object.
 
 
 ## Remarks

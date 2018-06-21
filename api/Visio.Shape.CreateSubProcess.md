@@ -20,7 +20,7 @@ Creates and returns a new sub-process page that is linked to the shape.
 
  _expression_. 'CreateSubProcess'
 
- _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
+ _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
 ### Return Value

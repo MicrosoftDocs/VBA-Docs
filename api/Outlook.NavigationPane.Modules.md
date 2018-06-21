@@ -20,7 +20,7 @@ Returns a  **[NavigationModules](Outlook.NavigationModules.md)** object that rep
 
  _expression_. 'Modules'
 
- _expression_ A variable that represents a **NavigationPane** object.
+ _expression_ A variable that represents a [NavigationPane](./Outlook.NavigationPane.md) object.
 
 
 ## See also

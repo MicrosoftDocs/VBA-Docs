@@ -20,7 +20,7 @@ Determines whether the slide show pauses until the specified media clip is finis
 
  _expression_. 'PauseAnimation'
 
- _expression_ A variable that represents a **PlaySettings** object.
+ _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a  **String** that represents the path followed by a **[MotionEffect](Po
 
  _expression_. 'Path'
 
- _expression_ A variable that represents a **MotionEffect** object.
+ _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
 
 ### Return Value

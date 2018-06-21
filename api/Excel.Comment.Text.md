@@ -20,7 +20,7 @@ Sets comment text.
 
  _expression_. 'Text'( '_Text_' , '_Start_' , '_Overwrite_' )
 
- _expression_ A variable that represents a **Comment** object.
+ _expression_ A variable that represents a [Comment](./Excel.Comment.md) object.
 
 
 ### Parameters

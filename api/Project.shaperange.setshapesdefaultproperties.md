@@ -13,7 +13,7 @@ Applies the formatting of a default shape to each shape in the range.
 
  _expression_. 'SetShapesDefaultProperties'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ### Return value

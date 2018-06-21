@@ -20,7 +20,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
  _expression_. 'Count'
 
- _expression_ A variable that returns a **AddIns2** object.
+ _expression_ A variable that returns a [AddIns2](./Excel.AddIns2.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Creates a shortcut for a master.
 
  _expression_. 'CreateShortcut'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

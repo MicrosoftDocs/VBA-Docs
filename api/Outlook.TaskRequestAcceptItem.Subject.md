@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
  _expression_. 'Subject'
 
- _expression_ A variable that represents a **TaskRequestAcceptItem** object.
+ _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

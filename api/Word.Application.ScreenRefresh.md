@@ -20,7 +20,7 @@ Updates the display on the monitor with the current information in the video mem
 
  _expression_. 'ScreenRefresh'
 
- _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

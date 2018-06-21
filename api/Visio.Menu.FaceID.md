@@ -20,7 +20,7 @@ Gets or sets the icon for an item. Read/write.
 
  _expression_. 'FaceID'
 
- _expression_ A variable that represents a **Menu** object.
+ _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
 
 ### Return Value

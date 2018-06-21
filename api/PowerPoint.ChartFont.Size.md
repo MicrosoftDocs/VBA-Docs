@@ -20,7 +20,7 @@ Returns or sets the size of the font. Read/write  **Variant**.
 
  _expression_. 'Size'
 
- _expression_ A variable that represents a **[ChartFont](PowerPoint.ChartFont.md)** object.
+ _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 
 
 ## Example

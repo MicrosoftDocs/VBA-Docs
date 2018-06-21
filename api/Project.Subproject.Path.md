@@ -17,7 +17,7 @@ Gets or sets the path to the source project. Read/write  **String**.
 
  _expression_. 'Path'
 
- _expression_ A variable that represents a **Subproject** object.
+ _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 
 
 ## Remarks

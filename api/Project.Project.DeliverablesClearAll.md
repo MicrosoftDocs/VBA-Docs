@@ -17,7 +17,7 @@ Clears all deliverables in the project.
 
  _expression_. 'DeliverablesClearAll'
 
- _expression_ An expression that returns a **Project** object.
+ _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 
 ### Return Value

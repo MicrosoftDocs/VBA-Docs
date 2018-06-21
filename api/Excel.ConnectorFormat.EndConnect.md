@@ -20,7 +20,7 @@ Attaches the end of the specified connector to a specified shape. If there?s alr
 
  _expression_. 'EndConnect'( '_ConnectedShape_' , '_ConnectionSite_' )
 
- _expression_ A variable that represents a **ConnectorFormat** object.
+ _expression_ A variable that represents a [ConnectorFormat](./Excel.ConnectorFormat.md) object.
 
 
 ### Parameters

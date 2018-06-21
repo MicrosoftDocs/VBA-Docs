@@ -20,7 +20,7 @@ Returns the leader lines for the series. Read-only  **[LeaderLines](PowerPoint.L
 
  _expression_. 'LeaderLines'
 
- _expression_ A variable that represents a **[Series](PowerPoint.Series.md)** object.
+ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ## Remarks

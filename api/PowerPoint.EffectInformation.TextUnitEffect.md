@@ -20,7 +20,7 @@ Indicates whether the text in the specified shape is animated paragraph by parag
 
  _expression_. 'TextUnitEffect'
 
- _expression_ A variable that represents an **EffectInformation** object.
+ _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 
 
 ### Return Value

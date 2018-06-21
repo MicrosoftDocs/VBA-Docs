@@ -20,7 +20,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **HeaderFooter** object.
+ _expression_ A variable that represents a [HeaderFooter](./PowerPoint.HeaderFooter.md) object.
 
 
 ### Return Value

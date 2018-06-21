@@ -20,7 +20,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the subscript for 
 
  _expression_. 'Sub'
 
- _expression_ An expression that returns an **[OMathScrSubSup](Word.OMathScrSubSup.md)** object.
+ _expression_ An expression that returns an '[OMathScrSubSup](Word.OMathScrSubSup.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Locks the workbook on the server to prevent modification.
 
  _expression_. 'LockServerFile'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

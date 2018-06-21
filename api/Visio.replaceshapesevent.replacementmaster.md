@@ -15,7 +15,7 @@ Returns the replacement shape to drop. Read-only.
 
  _expression_. 'ReplacementMaster'
 
- _expression_ A variable that represents a **ReplaceShapesEvent** object.
+ _expression_ A variable that represents a 'ReplaceShapesEvent' object.
 
 
 ## Remarks

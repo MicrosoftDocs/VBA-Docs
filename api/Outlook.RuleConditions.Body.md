@@ -20,7 +20,7 @@ Returns a  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a *
 
  _expression_. 'Body'
 
- _expression_ A variable that represents a **RuleConditions** object.
+ _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
 
 
 ## Remarks

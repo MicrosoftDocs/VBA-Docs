@@ -20,7 +20,7 @@ Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.
 
  _expression_. 'Orientation'
 
- _expression_ A variable that represents a **Sort** object.
+ _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
 
 
 ## Remarks

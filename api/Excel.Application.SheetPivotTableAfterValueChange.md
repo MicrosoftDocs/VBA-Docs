@@ -20,7 +20,7 @@ Occurs after a cell or range of cells inside a PivotTable are edited or recalcul
 
  _expression_. 'SheetPivotTableAfterValueChange'( '_Sh_' , '_TargetPivotTable_' , '_TargetRange_' )
 
- _expression_ A variable that represents a **[Application](Excel.Application(objec).md)** object.
+ _expression_ A variable that represents a '[Application](Excel.Application(objec).md)' object.
 
 
 ### Parameters

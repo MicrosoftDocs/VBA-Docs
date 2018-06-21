@@ -20,7 +20,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **FormDescription** object.
+ _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 
 
 ## See also

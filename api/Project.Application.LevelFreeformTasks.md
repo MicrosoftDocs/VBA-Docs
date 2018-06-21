@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'LevelFreeformTasks'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ## Remarks

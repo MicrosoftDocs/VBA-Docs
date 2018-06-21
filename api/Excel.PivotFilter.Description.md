@@ -20,7 +20,7 @@ Provides an optional description for the  **PivotFilter** object. Read-only **St
 
  _expression_. 'Description'
 
- _expression_ A variable that represents a **PivotFilter** object.
+ _expression_ A variable that represents a [PivotFilter](./Excel.PivotFilter.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant tha
 
  _expression_. 'MousePointer'
 
- _expression_ A variable that represents an **OlkTimeZoneControl** object.
+ _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Remarks

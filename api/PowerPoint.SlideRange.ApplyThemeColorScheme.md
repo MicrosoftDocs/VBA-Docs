@@ -20,7 +20,7 @@ Applies a color scheme to the specified range of slides.
 
  _expression_. 'ApplyThemeColorScheme'( '_themeColorSchemeName_' )
 
- _expression_ A variable that represents a **SlideRange** object.
+ _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ### Parameters

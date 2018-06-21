@@ -20,7 +20,7 @@ Returns or sets the type of slide show to run. Read/write.
 
  _expression_. 'RangeType'
 
- _expression_ A variable that represents a **SlideShowSettings** object.
+ _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
 ## Remarks

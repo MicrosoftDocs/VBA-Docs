@@ -20,7 +20,7 @@ Determines whether changes have been made to a presentation since it was last sa
 
  _expression_. 'Saved'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

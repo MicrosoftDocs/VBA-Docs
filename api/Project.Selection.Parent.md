@@ -17,7 +17,7 @@ Gets the parent of the  **Selection** object. Read-only **Object**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Project.Selection.md) object.
 
 
 ## Remarks

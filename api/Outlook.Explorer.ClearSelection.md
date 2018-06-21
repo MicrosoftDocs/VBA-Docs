@@ -20,7 +20,7 @@ Cancels any selection in the active explorer.
 
  _expression_. 'ClearSelection'
 
- _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
+ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks

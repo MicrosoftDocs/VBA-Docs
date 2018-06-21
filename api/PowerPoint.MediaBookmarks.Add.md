@@ -20,7 +20,7 @@ Adds a new  **MediaBookmark** at the specified time and using the specified name
 
  _expression_. 'Add'( '_Position_', '_Name_' )
 
- _expression_ A variable that represents a **MediaBookmarks** object.
+ _expression_ A variable that represents a [MediaBookmarks](./PowerPoint.MediaBookmarks.md) object.
 
 
 ### Parameters

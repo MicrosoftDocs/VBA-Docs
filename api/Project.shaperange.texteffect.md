@@ -13,7 +13,7 @@ Gets text formatting properties for the shape range. Read-only  **[TextEffectFor
 
  _expression_. 'TextEffect'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Example

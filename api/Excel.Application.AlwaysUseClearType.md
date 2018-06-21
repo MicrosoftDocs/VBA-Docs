@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to use ClearType to displ
 
  _expression_. 'AlwaysUseClearType'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

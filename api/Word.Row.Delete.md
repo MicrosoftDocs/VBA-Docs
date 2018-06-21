@@ -20,7 +20,7 @@ Deletes the specified table row.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[Row](Word.Row.md)** object.
+ _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## See also

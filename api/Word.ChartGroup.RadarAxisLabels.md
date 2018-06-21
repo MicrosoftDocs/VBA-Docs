@@ -20,7 +20,7 @@ Returns the radar axis labels for the specified chart group. Read-only  **[TickL
 
  _expression_. 'RadarAxisLabels'
 
- _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
+ _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 
 
 ## Example

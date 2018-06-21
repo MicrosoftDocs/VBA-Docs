@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to show crop marks in the
 
  _expression_. 'ShowCropMarks'
 
- _expression_ An expression that returns a **View** object.
+ _expression_ An expression that returns a [View](./Word.View.md) object.
 
 
 ## Remarks

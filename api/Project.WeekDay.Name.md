@@ -17,7 +17,7 @@ Gets the name of a  **Weekday** object. Read-only **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **WeekDay** object.
+ _expression_ A variable that represents a [WeekDay](./Project.WeekDay.md) object.
 
 
 ## Remarks

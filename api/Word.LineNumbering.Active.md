@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Active'
 
- _expression_ An expression that returns a **[LineNumbering](Word.LineNumbering.md)** object.
+ _expression_ An expression that returns a '[LineNumbering](Word.LineNumbering.md)' object.
 
 
 ## Example

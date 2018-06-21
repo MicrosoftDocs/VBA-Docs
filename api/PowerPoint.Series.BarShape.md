@@ -20,7 +20,7 @@ Returns or sets the shape used for a single series in a 3-D bar or column chart.
 
  _expression_. 'BarShape'
 
- _expression_ A variable that represents a **[Series](PowerPoint.Series.md)** object.
+ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ## Example

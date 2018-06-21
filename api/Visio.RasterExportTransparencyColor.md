@@ -20,7 +20,7 @@ Determines the transparency color that is applied to the exported image when you
 
  _expression_. 'RasterExportTransparencyColor'
 
- _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
+ _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
 ### Return Value

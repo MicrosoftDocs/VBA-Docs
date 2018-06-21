@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **AddressEntry** object.
+ _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
 ## Remarks

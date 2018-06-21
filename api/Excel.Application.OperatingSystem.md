@@ -26,7 +26,7 @@ Read-only  **String** .
 
  _expression_. 'OperatingSystem'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

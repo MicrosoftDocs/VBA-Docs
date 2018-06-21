@@ -20,7 +20,7 @@ Updates the values shown in a built-in Microsoft Word dialog box.
 
  _expression_. 'Update'
 
- _expression_ Required. A variable that represents a **[Dialog](Word.Dialog.md)** object.
+ _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 
 
 ## Example

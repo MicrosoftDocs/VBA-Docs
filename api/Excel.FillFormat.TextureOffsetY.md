@@ -17,7 +17,7 @@ Returns the offset Y value for the specified fill. Read/write  **Single** .
 
  _expression_. 'TextureOffsetY'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **TimelineView** object.
+ _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 
 
 ## See also

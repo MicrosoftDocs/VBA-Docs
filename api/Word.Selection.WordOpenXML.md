@@ -20,7 +20,7 @@ Returns a  **String** that represents the XML contained within the selection in 
 
  _expression_. 'WordOpenXML'
 
- _expression_ An expression that returns a **Selection** object.
+ _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
 
 ## Remarks

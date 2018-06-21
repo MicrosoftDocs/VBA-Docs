@@ -17,7 +17,7 @@ Gets the number of items in the  **WorkWeeks** collection. Read-only **Long**.
 
  _expression_. 'Count'
 
- _expression_ An expression that returns a **WorkWeeks** object.
+ _expression_ An expression that returns a 'WorkWeeks' object.
 
 
 ## Example

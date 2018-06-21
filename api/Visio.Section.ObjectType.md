@@ -20,7 +20,7 @@ Returns an object's type. Read-only.
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents a **Section** object.
+ _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
 
 ### Return Value

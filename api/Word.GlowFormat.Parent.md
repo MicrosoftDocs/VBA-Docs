@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Glow
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **GlowFormat** object.
+ _expression_ An expression that returns a [GlowFormat](./Word.GlowFormat.md) object.
 
 
 ## See also

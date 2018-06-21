@@ -20,7 +20,7 @@ Returns or sets an integer that represents the position of the specified shape w
 
  _expression_. 'AnimationOrder'
 
- _expression_ A variable that represents an **AnimationSettings** object.
+ _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ### Return Value

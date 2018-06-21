@@ -20,7 +20,7 @@ Sets the current filter.
 
  _expression_. 'FilterApply'( ' _Name_', ' _Highlight_', ' _Value1_', ' _Value2_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

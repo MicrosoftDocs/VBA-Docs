@@ -18,7 +18,7 @@ Returns an  **XSLTransform** object that represents an Extensible Stylesheet Lan
 
  _expression_. 'Add'( '_Location_' , '_Alias_' , '_InstallForAllUsers_' )
 
- _expression_ Required. A variable that represents a **** collection.
+ _expression_ Required. A variable that represents a '' collection.
 
 
 ### Parameters

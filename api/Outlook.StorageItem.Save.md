@@ -20,7 +20,7 @@ Saves the  **[StorageItem](Outlook.StorageItem.md)** .
 
  _expression_. 'Save'
 
- _expression_ A variable that represents a **StorageItem** object.
+ _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
 
 
 ## Remarks

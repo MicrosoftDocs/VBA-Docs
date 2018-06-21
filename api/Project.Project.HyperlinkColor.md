@@ -20,7 +20,7 @@ Gets or sets the color used to denote unfollowed hyperlinks. Read/write  **PjCol
 
  _expression_. 'HyperlinkColor'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

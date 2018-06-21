@@ -20,7 +20,7 @@ Returns an object's type. Read-only.
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents a **Font** object.
+ _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
 
 ### Return Value

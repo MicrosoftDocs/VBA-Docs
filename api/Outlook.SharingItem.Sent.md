@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates if the **[SharingItem](Outlook.Shari
 
  _expression_. 'Sent'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the phonetic text in the specified  **[Characters](Excel.Charact
 
  _expression_. 'PhoneticCharacters'
 
- _expression_ A variable that represents a **Characters** object.
+ _expression_ A variable that represents a [Characters](./Excel.Characters.md) object.
 
 
 ## Remarks

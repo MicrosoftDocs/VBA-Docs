@@ -20,7 +20,7 @@ Empties the Microsoft Visio queue of undo actions.
 
  _expression_. 'PurgeUndo'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

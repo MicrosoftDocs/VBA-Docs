@@ -20,7 +20,7 @@ Adds a horizontal page break.
 
  _expression_. 'Add'( '_Before_' )
 
- _expression_ A variable that represents a **HPageBreaks** object.
+ _expression_ A variable that represents a [HPageBreaks](./Excel.HPageBreaks.md) object.
 
 
 ### Parameters

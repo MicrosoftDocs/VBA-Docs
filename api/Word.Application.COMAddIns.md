@@ -20,7 +20,7 @@ Returns a reference to the  **COMAddIns** collection that represents all the Com
 
  _expression_. 'COMAddIns'
 
- _expression_ An expression that returns an **[Application](Word.Application.md)** object.
+ _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

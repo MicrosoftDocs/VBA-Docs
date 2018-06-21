@@ -20,7 +20,7 @@ Returns status information for an object. Read-only.
 
  _expression_. 'Stat'
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Return Value

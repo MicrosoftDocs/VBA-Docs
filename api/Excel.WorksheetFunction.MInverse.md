@@ -20,7 +20,7 @@ Returns the inverse matrix for the matrix stored in an array.
 
  _expression_. 'MInverse'( '_Arg1_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

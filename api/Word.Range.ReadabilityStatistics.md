@@ -20,7 +20,7 @@ Returns a  **ReadabilityStatistics** collection that represents the readability 
 
  _expression_. 'ReadabilityStatistics'
 
- _expression_ A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

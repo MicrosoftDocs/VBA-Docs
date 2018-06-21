@@ -20,7 +20,7 @@ Gets the maximum width available for a project window in points. Read-only Doubl
 
  _expression_. 'UsableWidth'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

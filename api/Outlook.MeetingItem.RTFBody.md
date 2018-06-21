@@ -20,7 +20,7 @@ Returns or sets a  **Byte** array that represents the body of the Microsoft Outl
 
  _expression_. 'RTFBody'
 
- _expression_ A variable that represents a **[MeetingItem](Outlook.MeetingItem.md)** object.
+ _expression_ A variable that represents a '[MeetingItem](Outlook.MeetingItem.md)' object.
 
 
 ## Remarks

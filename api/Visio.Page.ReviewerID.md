@@ -20,7 +20,7 @@ Gets the reviewer ID associated with the markup overlay. Read-only.
 
  _expression_. 'ReviewerID'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

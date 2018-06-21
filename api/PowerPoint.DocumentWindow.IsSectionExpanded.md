@@ -20,7 +20,7 @@ Indicates whether the selected section is expanded in the  **DocumentWindow**.
 
  _expression_. 'IsSectionExpanded'( '_sectionIndex_' )
 
- _expression_ A variable that represents a **DocumentWindow** object.
+ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ### Parameters

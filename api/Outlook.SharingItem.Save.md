@@ -20,7 +20,7 @@ Saves the  **[SharingItem](Outlook.SharingItem.md)** to the current folder or, i
 
  _expression_. 'Save'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

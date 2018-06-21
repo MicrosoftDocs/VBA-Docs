@@ -20,7 +20,7 @@ Inserts a break into an equation and returns an  **OMathBreak** object that repr
 
  _expression_. 'Add'( '_Range_' )
 
- _expression_ An expression that returns a **OMathBreaks** object.
+ _expression_ An expression that returns a [OMathBreaks](./Word.OMathBreaks.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Date** indicating the start date for the recurrence pattern
 
  _expression_. 'PatternStartDate'
 
- _expression_ A variable that represents a **RecurrencePattern** object.
+ _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## See also

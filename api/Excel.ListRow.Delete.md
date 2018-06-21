@@ -20,7 +20,7 @@ Deletes the cells of the list row and shifts upward any remaining cells below th
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **ListRow** object.
+ _expression_ A variable that represents a [ListRow](./Excel.ListRow.md) object.
 
 
 ## See also

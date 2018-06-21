@@ -17,6 +17,6 @@ Gets the GUID of the task. Read-only  **String**.
 
  _expression_. 'Guid'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 

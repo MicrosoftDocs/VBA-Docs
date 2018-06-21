@@ -20,7 +20,7 @@ Returns the index of the row in the Character section of a ShapeSheet window tha
 
  _expression_. 'CharPropsRow'( '_BiasLorR_' )
 
- _expression_ An expression that returns a **Characters** object.
+ _expression_ An expression that returns a [Characters](./Visio.Characters.md) object.
 
 
 ### Parameters

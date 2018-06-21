@@ -20,7 +20,7 @@ Returns a  **CustomXMLNode** object that represents the custom XML node in the d
 
  _expression_. 'CustomXMLNode'
 
- _expression_ An expression that returns an **[XMLMapping](Word.XMLMapping.md)** object.
+ _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 
 
 ## Example

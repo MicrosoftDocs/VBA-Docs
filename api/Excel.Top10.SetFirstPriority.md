@@ -20,7 +20,7 @@ Sets the priority value for this conditional formatting rule to "1" so that it w
 
  _expression_. 'SetFirstPriority'
 
- _expression_ A variable that represents a **Top10** object.
+ _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 
 
 ## Remarks

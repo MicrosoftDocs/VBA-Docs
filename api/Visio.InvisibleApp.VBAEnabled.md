@@ -20,7 +20,7 @@ Specifies whether Microsoft Visual Basic for Applications (VBA) is enabled in th
 
  _expression_. 'VBAEnabled'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ The  **Distribute** method is not implemented in Project.
 
  _expression_. 'Distribute' _(DistributeCmd,_ _RelativeTo)_
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ### Return value

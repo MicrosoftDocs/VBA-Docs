@@ -20,7 +20,7 @@ Returns a  **Boolean** that determines if the item is a winner of an automatic c
 
  _expression_. 'AutoResolvedWinner'
 
- _expression_ A variable that represents a **DocumentItem** object.
+ _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'MathCoprocessorInstalled'
 
- _expression_ An expression that returns a **[System](Word.System.md)** object.
+ _expression_ An expression that returns a '[System](Word.System.md)' object.
 
 
 ## Example

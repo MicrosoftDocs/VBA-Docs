@@ -20,7 +20,7 @@ Shows or hides the specified feature in the Timeline view.
 
  _expression_. 'TimelineShowHide'( ' _Item_', ' _Show_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

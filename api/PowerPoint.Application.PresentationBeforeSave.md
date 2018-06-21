@@ -20,7 +20,7 @@ Occurs before a presentation is saved.
 
  _expression_. 'PresentationBeforeSave'( '_Pres_', '_Cancel_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

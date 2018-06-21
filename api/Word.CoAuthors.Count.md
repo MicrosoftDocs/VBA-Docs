@@ -20,7 +20,7 @@ Returns the number of items in the [CoAuthors](Word.CoAuthors.md) collection. Re
 
  _expression_. 'Count'
 
- _expression_ An expression that returns a **CoAuthors** object.
+ _expression_ An expression that returns a [CoAuthors](./Word.CoAuthors.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **[HeadersFooters](PowerPoint.HeadersFooters.md)** collection that re
 
  _expression_. 'HeadersFooters'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a value that indicates which component (slides, handouts, notes 
 
  _expression_. 'OutputType'
 
- _expression_ A variable that represents an **PrintOptions** object.
+ _expression_ A variable that represents an [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
 ### Return Value

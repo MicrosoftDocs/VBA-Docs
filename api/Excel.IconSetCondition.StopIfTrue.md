@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines if additional formatting ru
 
  _expression_. 'StopIfTrue'
 
- _expression_ A variable that represents an **IconSetCondition** object.
+ _expression_ A variable that represents an [IconSetCondition](./Excel.IconSetCondition.md) object.
 
 
 ## Remarks

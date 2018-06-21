@@ -20,7 +20,7 @@ Moves the current row of the  **[Table](Outlook.Table.md)** to just before the f
 
  _expression_. 'MoveToStart'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
 ## Remarks

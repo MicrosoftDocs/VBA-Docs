@@ -13,7 +13,7 @@ Gets an object that represents the placement of fields in a PivotTable report an
 
  _expression_. 'PivotLayout'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

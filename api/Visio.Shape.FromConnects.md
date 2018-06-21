@@ -20,7 +20,7 @@ Returns a  **Connects** collection of the shapes connected to a shape. Read-only
 
  _expression_. 'FromConnects'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

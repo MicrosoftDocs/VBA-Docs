@@ -20,7 +20,7 @@ Gets or sets the alignment of the title in a table field. Read/write  **PjAlignm
 
  _expression_. 'AlignTitle'
 
- _expression_ A variable that represents a **TableField** object.
+ _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Sets or returns if a style is shown in the gallery for PivotTable styles or not.
 
  _expression_. 'ShowAsAvailablePivotTableStyle'
 
- _expression_ A variable that represents a **TableStyle** object.
+ _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
 
 
 ## Remarks

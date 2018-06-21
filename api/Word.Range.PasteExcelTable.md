@@ -20,7 +20,7 @@ Pastes and formats a Microsoft Excel table.
 
  _expression_. 'PasteExcelTable'( '_LinkedToExcel_' , '_WordFormatting_' , '_RTF_' )
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

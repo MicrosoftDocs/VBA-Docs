@@ -18,9 +18,9 @@ Occurs when a document is opened.
 
 ## Syntax
 
-Private Sub  _expression_ _**Private Sub Document_Open**
+Private Sub  _expression_ _'Private Sub Document_Open'
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

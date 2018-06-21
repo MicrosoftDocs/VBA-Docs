@@ -20,7 +20,7 @@ Returns the hyperlink type. Read-only  **MsoHyperlinkType** .
 
  _expression_. 'Type'
 
- _expression_ Required. A variable that represents a **[Hyperlink](Word.Hyperlink.md)** object.
+ _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## See also

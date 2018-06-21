@@ -20,7 +20,7 @@ Deletes an entry from the array of AutoCorrect replacements.
 
  _expression_. 'DeleteReplacement'( '_What_' )
 
- _expression_ A variable that represents an **AutoCorrect** object.
+ _expression_ A variable that represents an [AutoCorrect](./Excel.AutoCorrect(Graph property).md) object.
 
 
 ### Parameters

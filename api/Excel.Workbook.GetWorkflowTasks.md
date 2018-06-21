@@ -20,7 +20,7 @@ Returns the collection of  **[WorkflowTask](http://msdn.microsoft.com/library/9d
 
  _expression_. 'GetWorkflowTasks'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Return Value

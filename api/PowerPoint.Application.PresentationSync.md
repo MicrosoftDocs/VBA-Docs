@@ -20,7 +20,7 @@ Occurs when the local copy of a presentation that is part of a Document Workspac
 
  _expression_. 'PresentationSync'( '_Pres_', '_SyncEventType_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

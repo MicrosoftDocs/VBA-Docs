@@ -20,7 +20,7 @@ Occurs when a  **[Reminder](Outlook.Reminder.md)** object has been removed from 
 
  _expression_. 'ReminderRemove'
 
- _expression_ A variable that represents a **Reminders** object.
+ _expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
 
 
 ## Remarks

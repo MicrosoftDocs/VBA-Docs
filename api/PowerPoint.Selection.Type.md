@@ -20,7 +20,7 @@ Represents the type of objects in a selection. Read-only.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
 
 ### Return Value

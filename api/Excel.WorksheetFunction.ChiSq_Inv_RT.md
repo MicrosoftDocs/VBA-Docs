@@ -20,7 +20,7 @@ Returns the inverse of the right-tailed probability of the chi-squared distribut
 
  _expression_. 'ChiSq_Inv_RT'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

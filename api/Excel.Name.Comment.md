@@ -20,7 +20,7 @@ Returns or sets the comment associated with the name. Read/write  **String** .
 
  _expression_. 'Comment'
 
- _expression_ A variable that represents a **Name** object.
+ _expression_ A variable that represents a [Name](./Excel.Name.md) object.
 
 
 ## Remarks

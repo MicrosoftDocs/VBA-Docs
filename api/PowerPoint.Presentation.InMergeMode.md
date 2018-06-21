@@ -20,7 +20,7 @@ Indicates whether the document window is in merge mode. Read-only
 
  _expression_. 'InMergeMode'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## See also

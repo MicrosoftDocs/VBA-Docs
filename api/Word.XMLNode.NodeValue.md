@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'NodeValue'
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ## See also

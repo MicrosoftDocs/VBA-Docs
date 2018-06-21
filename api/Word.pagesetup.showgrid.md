@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowGrid'
 
- _expression_ A variable that represents a **PageSetup** object.
+ _expression_ A variable that represents a [PageSetup](./Word.PageSetup.md) object.
 
 
 ## Property value

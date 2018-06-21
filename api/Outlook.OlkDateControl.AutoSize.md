@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 
  _expression_. 'AutoSize'
 
- _expression_ A variable that represents an **OlkDateControl** object.
+ _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a [ProtectedViewWindow](Word.ProtectedViewWindow.md) object that represe
 
  _expression_. 'ActiveProtectedViewWindow'
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./Word.Application.md) object.
 
 
 ## Example

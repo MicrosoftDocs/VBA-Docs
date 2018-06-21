@@ -20,7 +20,7 @@ Returns a reference to the Microsoft Office (MSO)  **LanguageSettings** interfac
 
  _expression_. 'LanguageSettings'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

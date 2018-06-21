@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Stor
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[StoryRanges](Word.storyranges.md)** collection.
+ _expression_ Required. A variable that represents a '[StoryRanges](Word.storyranges.md)' collection.
 
 
 ## See also

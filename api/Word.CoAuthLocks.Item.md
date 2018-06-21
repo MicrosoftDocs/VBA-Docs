@@ -20,7 +20,7 @@ Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collecti
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns a **[CoAuthLocks](Word.CoAuthLocks.md)** object.
+ _expression_ An expression that returns a '[CoAuthLocks](Word.CoAuthLocks.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **[MsoColorType](http://msdn.microsoft.com/library/d7dfbd4b-d3ac-6e08
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **ColorFormat** object.
+ _expression_ A variable that represents a [ColorFormat](./Excel.ColorFormat.md) object.
 
 
 ## See also

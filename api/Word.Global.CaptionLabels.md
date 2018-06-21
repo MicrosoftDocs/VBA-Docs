@@ -20,7 +20,7 @@ Returns a  **[CaptionLabels](Word.captionlabels.md)** collection that represents
 
  _expression_. 'CaptionLabels'
 
- _expression_ A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

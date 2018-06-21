@@ -20,7 +20,7 @@ Determines if personal information about a file is saved when the user saves the
 
  _expression_. 'RemovePersonalInformation'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

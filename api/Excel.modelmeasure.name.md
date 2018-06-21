@@ -18,7 +18,7 @@ The name of the model measure. Read/write  **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **ModelMeasure** object.
+ _expression_ A variable that represents a 'ModelMeasure' object.
 
 
 ## See also

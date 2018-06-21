@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates wheter the journalized item was prin
 
  _expression_. 'DocPrinted'
 
- _expression_ A variable that represents a **JournalItem** object.
+ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Edits gridlines, where colors can be hexadecimal values.
 
  _expression_. 'GridlinesEditEx'( ' _Item_', ' _NormalType_', ' _NormalColor_', ' _Interval_', ' _IntervalType_', ' _IntervalColor_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

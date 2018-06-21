@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HasBorderOutline'
 
- _expression_ A variable that represents a **DataTable** object.
+ _expression_ A variable that represents a [DataTable](./Excel.DataTable(Graph property).md) object.
 
 
 ## Example

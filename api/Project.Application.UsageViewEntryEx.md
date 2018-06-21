@@ -20,7 +20,7 @@ Adds fields to the  **Details** pane and option menu for the Task Usage or Resou
 
  _expression_. 'UsageViewEntryEx'( ' _CurIndex_', ' _Order_', ' _FontWord_', ' _CellBackground_', ' _Pattern_', ' _Shortcut_', ' _DisplayField_', ' _FontColor_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Displays the  **Security** dialog box, which can be used to set the security lev
 
  _expression_. 'MacroSecurity'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

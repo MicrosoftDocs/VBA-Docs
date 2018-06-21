@@ -20,7 +20,7 @@ Returns a  **[ContactItem](Outlook.ContactItem.md)** object that represents the 
 
  _expression_. 'GetContact'
 
- _expression_ A variable that represents an **AddressEntry** object.
+ _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
 ### Return Value

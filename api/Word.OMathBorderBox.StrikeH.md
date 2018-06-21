@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents a horizontal strikethrough. Read/
 
  _expression_. 'StrikeH'
 
- _expression_ An expression that returns an **[OMathBorderBox](Word.OMathBorderBox.md)** object.
+ _expression_ An expression that returns an '[OMathBorderBox](Word.OMathBorderBox.md)' object.
 
 
 ## See also

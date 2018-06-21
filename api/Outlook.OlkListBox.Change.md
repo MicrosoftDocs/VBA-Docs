@@ -20,7 +20,7 @@ Occurs when the selection in the list displayed by the control changes
 
  _expression_. 'Change'
 
- _expression_ A variable that represents an **OlkListBox** object.
+ _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ## See also

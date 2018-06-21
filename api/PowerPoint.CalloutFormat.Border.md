@@ -20,7 +20,7 @@ Determines whether the text in the specified callout is surrounded by a border. 
 
  _expression_. 'Border'
 
- _expression_ A variable that represents a **CalloutFormat** object.
+ _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
 ### Return Value

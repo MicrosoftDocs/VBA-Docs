@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether charts in the active docum
 
  _expression_. 'ChartDataPointTrack'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Word.Document.md) object.
 
 
 ## Remarks

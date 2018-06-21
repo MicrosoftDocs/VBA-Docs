@@ -13,7 +13,7 @@ Gets the common parent shape of a child shape or a range of child shapes. Read-o
 
  _expression_. 'ParentGroup'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

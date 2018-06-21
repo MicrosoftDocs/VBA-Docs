@@ -20,7 +20,7 @@ Activates all nonspecific search options associated with Japanese text.
 
  _expression_. 'SetAllFuzzyOptions'
 
- _expression_ Required. A variable that represents a **[Find](Word.Find.md)** object.
+ _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ## Remarks

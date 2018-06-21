@@ -17,6 +17,6 @@ Gets or sets a value that indicates whether Web pages in Project Web App and Sha
 
  _expression_. 'TrustProjectServerAndWSSPages'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 

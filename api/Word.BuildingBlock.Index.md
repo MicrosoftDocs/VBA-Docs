@@ -20,7 +20,7 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
  _expression_. 'Index'
 
- _expression_ An expression that returns a **BuildingBlock** object.
+ _expression_ An expression that returns a [BuildingBlock](./Word.BuildingBlock.md) object.
 
 
 ## See also

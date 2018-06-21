@@ -20,7 +20,7 @@ Allows developers to specify whether excluded or included items should be tracke
 
  _expression_. 'IncludeNewItemsInFilter'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## Remarks

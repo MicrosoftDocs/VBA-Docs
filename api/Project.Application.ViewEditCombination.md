@@ -20,7 +20,7 @@ Creates, edits, or copies a combination view.
 
  _expression_. 'ViewEditCombination'( ' _Name_', ' _Create_', ' _NewName_', ' _TopView_', ' _BottomView_', ' _ShowInMenu_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

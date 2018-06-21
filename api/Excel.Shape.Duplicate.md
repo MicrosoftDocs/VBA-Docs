@@ -20,7 +20,7 @@ Duplicates the object and returns a reference to the new copy.
 
  _expression_. 'Duplicate'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ### Return Value

@@ -23,7 +23,7 @@ Gets or sets whether to use the current default callout position for graphic ite
 
  _expression_. 'UseDataGraphicPosition'
 
- _expression_ An expression that returns a **GraphicItem** object.
+ _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
 ### Return Value

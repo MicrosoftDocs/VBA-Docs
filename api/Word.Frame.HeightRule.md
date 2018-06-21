@@ -20,7 +20,7 @@ Returns or sets a  **WdFrameSizeRule** that represents the rule for determining 
 
  _expression_. 'HeightRule'
 
- _expression_ Required. A variable that represents a **[Frame](Word.Frame.md)** object.
+ _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Sets the segment type of the segment that follows the node specified by Index.
 
  _expression_. 'SetSegmentType'( '_Index_' , '_SegmentType_' )
 
- _expression_ Required. A variable that represents a **[ShapeNodes](Word.shapenodes.md)** collection.
+ _expression_ Required. A variable that represents a '[ShapeNodes](Word.shapenodes.md)' collection.
 
 
 ### Parameters

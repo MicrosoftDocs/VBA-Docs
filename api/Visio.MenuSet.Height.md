@@ -20,7 +20,7 @@ Gets or sets the height of a menu set. Read/write.
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **MenuSet** object.
+ _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 
 
 ### Return Value

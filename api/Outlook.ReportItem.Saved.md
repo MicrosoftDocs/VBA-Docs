@@ -20,7 +20,7 @@ Returns a  **Boolean** value that is **True** if the Outlook item has not been m
 
  _expression_. 'Saved'
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## See also

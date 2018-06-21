@@ -20,7 +20,7 @@ Returns or sets an array of  **String** elements that represent the RSS subscrip
 
  _expression_. 'FromRssFeed'
 
- _expression_ A variable that represents a **FromRssFeedRuleCondition** object.
+ _expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.FromRssFeedRuleCondition.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Cancels mobilization of the current media asset.
 
  _expression_. 'Cancel'
 
- _expression_ A variable that represents a **ResampleMediaTasks** object.
+ _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 
 
 ### Return Value

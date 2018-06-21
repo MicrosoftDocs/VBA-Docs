@@ -20,7 +20,7 @@ Returns the number of items in the  **Cells** collection. Read-only **Long** .
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **[Cells](Word.cells.md)** collection.
+ _expression_ A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## See also

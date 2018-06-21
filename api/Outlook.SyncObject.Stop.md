@@ -20,7 +20,7 @@ Immediately ends synchronizing a user's folders using the specified  **Send/Rece
 
  _expression_. 'Stop'
 
- _expression_ A variable that represents a **SyncObject** object.
+ _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
 
 
 ## Remarks

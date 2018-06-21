@@ -20,7 +20,7 @@ Sets the background graphic for a worksheet.
 
  _expression_. 'SetBackgroundPicture'( '_Filename_' )
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ### Parameters

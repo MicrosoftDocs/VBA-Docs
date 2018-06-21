@@ -20,7 +20,7 @@ Adds a local custom field to Project Server as an enterprise custom field.
 
  _expression_. 'MakeFieldEnterprise'( ' _FieldID_', ' _FieldName_', ' _LookupTableName_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

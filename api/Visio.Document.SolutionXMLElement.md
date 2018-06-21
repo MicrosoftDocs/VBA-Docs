@@ -20,7 +20,7 @@ Contains solution-specific, well-formed XML data stored with a document. Read/wr
 
  _expression_. 'SolutionXMLElement'( '_ElementName_' )
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Parameters

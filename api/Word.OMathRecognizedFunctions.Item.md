@@ -20,7 +20,7 @@ Returns an  **OMathRecognizedFunction** object that represents the specified ite
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns an **[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)** object.
+ _expression_ An expression that returns an '[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)' object.
 
 
 ### Parameters

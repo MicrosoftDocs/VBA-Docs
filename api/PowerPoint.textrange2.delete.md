@@ -15,7 +15,7 @@ Deletes a  **TextRange2** object.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns an  **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant whi
 
  _expression_. 'FieldType'
 
- _expression_ A variable that represents a **ColumnFormat** object.
+ _expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
 
 
 ## See also

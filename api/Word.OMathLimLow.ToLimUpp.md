@@ -20,7 +20,7 @@ Converts an equation from the lower limit to the upper limit. .
 
  _expression_. 'ToLimUpp'
 
- _expression_ An expression that returns a **OMathLimLow** object.
+ _expression_ An expression that returns a [OMathLimLow](./Word.OMathLimLow.md) object.
 
 
 ### Return Value

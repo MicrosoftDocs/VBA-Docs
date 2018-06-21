@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the ordinal position of a matrix row
 
  _expression_. 'RowIndex'
 
- _expression_ An expression that returns an **[OMathMatRow](Word.OMathMatRow.md)** object.
+ _expression_ An expression that returns an '[OMathMatRow](Word.OMathMatRow.md)' object.
 
 
 ## See also

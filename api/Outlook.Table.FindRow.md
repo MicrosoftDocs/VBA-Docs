@@ -20,7 +20,7 @@ Finds the first row in the  **[Table](Outlook.Table.md)** that meets the criteri
 
  _expression_. 'FindRow'( '_Filter_' )
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
 ### Parameters

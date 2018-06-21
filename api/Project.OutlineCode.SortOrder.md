@@ -17,6 +17,6 @@ Gets or sets the order by which the outline code items are sorted. Read/write  *
 
  _expression_. 'SortOrder'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 

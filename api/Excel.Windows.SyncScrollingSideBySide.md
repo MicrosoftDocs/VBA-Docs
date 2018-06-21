@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'SyncScrollingSideBySide'
 
- _expression_ A variable that represents a **Windows** object.
+ _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 
 ## See also

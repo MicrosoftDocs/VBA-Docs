@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowInput'
 
- _expression_ A variable that represents a **Validation** object.
+ _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
 
 
 ## Example

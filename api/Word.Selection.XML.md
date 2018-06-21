@@ -20,7 +20,7 @@ Returns a  **String** that represents the XML text in the specified object. .
 
  _expression_. 'XML'( '_DataOnly_' )
 
- _expression_ An expression that returns a **Selection** object.
+ _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
 
 ### Parameters

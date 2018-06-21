@@ -20,7 +20,7 @@ Returns an individual  **KeyBinding** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[KeyBindings](Word.keybindings.md)** collection.
+ _expression_ Required. A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
 
 ### Parameters

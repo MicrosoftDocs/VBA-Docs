@@ -20,7 +20,7 @@ Occurs when cells in any worksheet are changed by the user or by an external lin
 
  _expression_. 'SheetChange'( '_Sh_' , '_Target_' )
 
- _expression_ An expression that returns a **Workbook** object.
+ _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

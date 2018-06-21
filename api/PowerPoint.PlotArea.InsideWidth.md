@@ -20,7 +20,7 @@ Returns or sets the inside width, in points, of the plot area. Read/write  **Dou
 
  _expression_. 'InsideWidth'
 
- _expression_ A variable that represents a **[PlotArea](PowerPoint.PlotArea.md)** object.
+ _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 
 
 ## Remarks

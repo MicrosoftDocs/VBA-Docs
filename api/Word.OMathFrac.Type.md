@@ -20,7 +20,7 @@ Returns or sets a  **[WdOMathFracType](Word.WdOMathFracType.md)** constant that 
 
  _expression_. 'Type'
 
- _expression_ An expression that returns an **[OMathFrac](Word.OMathFrac.md)** object.
+ _expression_ An expression that returns an '[OMathFrac](Word.OMathFrac.md)' object.
 
 
 ## See also

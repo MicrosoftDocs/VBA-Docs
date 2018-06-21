@@ -20,7 +20,7 @@ Activates the specified protected view window.
 
  _expression_. 'Activate'
 
- _expression_ An expression that returns a **[ProtectedViewWindow Object](Word.ProtectedViewWindow.md)** object.
+ _expression_ An expression that returns a '[ProtectedViewWindow Object](Word.ProtectedViewWindow.md)' object.
 
 
 ### Return Value

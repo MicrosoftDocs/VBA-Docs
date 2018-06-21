@@ -20,7 +20,7 @@ Returns the number of connection sites on the specified shape. Read-only  **Long
 
  _expression_. 'ConnectionSiteCount'
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

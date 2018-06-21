@@ -13,7 +13,7 @@ Gets a value that indicates whether all shapes in the shape range are child shap
 
  _expression_. 'Child'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

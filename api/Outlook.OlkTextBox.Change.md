@@ -20,7 +20,7 @@ Occurs when the  **[Value](Outlook.OlkTextBox.Value.md)** property changes.
 
  _expression_. 'Change'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## See also

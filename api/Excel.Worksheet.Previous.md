@@ -20,7 +20,7 @@ Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the next s
 
  _expression_. 'Previous'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Remarks

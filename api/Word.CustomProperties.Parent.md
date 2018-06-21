@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Cust
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[CustomProperties](Word.CustomProperties.md)** collection.
+ _expression_ Required. A variable that represents a '[CustomProperties](Word.CustomProperties.md)' collection.
 
 
 ## See also

@@ -20,7 +20,7 @@ Occurs when Microsoft Outlook begins synchronizing a user's folders using the sp
 
  _expression_. 'SyncStart'
 
- _expression_ A variable that represents a **SyncObject** object.
+ _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
 
 
 ## Remarks

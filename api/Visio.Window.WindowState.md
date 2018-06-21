@@ -20,7 +20,7 @@ Gets or sets the state of a window. Read/write.
 
  _expression_. 'WindowState'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

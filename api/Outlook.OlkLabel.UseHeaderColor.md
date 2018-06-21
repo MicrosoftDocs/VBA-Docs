@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that indicates whether the label control should u
 
  _expression_. 'UseHeaderColor'
 
- _expression_ A variable that represents an **olkLabel** object.
+ _expression_ A variable that represents an 'olkLabel' object.
 
 
 ## Remarks

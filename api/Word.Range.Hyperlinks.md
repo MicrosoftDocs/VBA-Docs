@@ -20,7 +20,7 @@ Returns a  **Hyperlinks** collection that represents all the hyperlinks in the s
 
  _expression_. 'Hyperlinks'
 
- _expression_ A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

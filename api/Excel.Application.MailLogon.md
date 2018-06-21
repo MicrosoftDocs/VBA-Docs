@@ -20,7 +20,7 @@ Logs in to MAPI Mail or Microsoft Exchange and establishes a mail session. If Mi
 
  _expression_. 'MailLogon'( '_Name_' , '_Password_' , '_DownloadNewMail_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

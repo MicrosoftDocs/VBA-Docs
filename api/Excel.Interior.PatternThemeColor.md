@@ -20,7 +20,7 @@ Returns or sets a theme color pattern for an  **Interior** object. Read/write **
 
  _expression_. 'PatternThemeColor'
 
- _expression_ A variable that represents an **Interior** object.
+ _expression_ A variable that represents an [Interior](./Excel.Interior(Graph property).md) object.
 
 
 ## See also

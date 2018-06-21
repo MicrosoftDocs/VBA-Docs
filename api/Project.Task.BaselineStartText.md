@@ -17,7 +17,7 @@ Gets or sets a string representation of the baseline start date of a task. Read/
 
  _expression_. 'BaselineStartText'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 
 ## Remarks

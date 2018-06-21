@@ -20,7 +20,7 @@ Clears the criterias set in the  **[FindFormat](Excel.Application.FindFormat.md)
 
  _expression_. 'Clear'
 
- _expression_ A variable that represents a **CellFormat** object.
+ _expression_ A variable that represents a [CellFormat](./Excel.CellFormat.md) object.
 
 
 ## See also

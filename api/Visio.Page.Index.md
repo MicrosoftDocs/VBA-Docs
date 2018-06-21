@@ -20,7 +20,7 @@ Gets or sets the ordinal position of a page in a  **Pages** collection. Read/wri
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Subscript'
 
- _expression_ A variable that represents a **[ChartFont](PowerPoint.ChartFont.md)** object.
+ _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)' object.
 
 
 ## See also

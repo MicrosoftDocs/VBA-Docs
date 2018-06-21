@@ -20,6 +20,6 @@ Gets or sets the baseline duration (in minutes) of a task. Read/write  **Variant
 
  _expression_. 'BaselineDurationEstimated'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

@@ -20,7 +20,7 @@ Returns the parent object for the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **WorkbookConnection** object.
+ _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder overrides 
 
  _expression_. 'ReminderOverrideDefault'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

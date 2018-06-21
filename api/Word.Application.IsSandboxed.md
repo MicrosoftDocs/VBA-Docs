@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IsSandboxed'
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./Word.Application.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Toggles calculation  **Change Highlighting** on or off.
 
  _expression_. 'ToggleChangeHighlighting'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

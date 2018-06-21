@@ -20,7 +20,7 @@ Converts a measurement from points to lines (1 line = 12 points). Returns the co
 
  _expression_. 'PointsToLines'( '_Points_' )
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object. Optional.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
 
 ### Parameters

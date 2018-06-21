@@ -17,7 +17,7 @@ Gets or sets the percentage of work complete for an assignment. Read/write  **Va
 
  _expression_. 'PercentWorkComplete'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Example

@@ -17,6 +17,6 @@ Deletes the  **OutlineCode** object from an **OutlineCodes** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 

@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the display name for the intended sende
 
  _expression_. 'SentOnBehalfOfName'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

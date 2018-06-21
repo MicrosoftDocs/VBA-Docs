@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the cell th
 
  _expression_. 'TopLeftCell'
 
- _expression_ A variable that represents an **OLEObject** object.
+ _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
 
 
 ## See also

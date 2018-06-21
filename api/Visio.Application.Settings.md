@@ -20,7 +20,7 @@ Returns an  **ApplicationSettings** object, which you can use to set Microsoft V
 
  _expression_. 'Settings'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

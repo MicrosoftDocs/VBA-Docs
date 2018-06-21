@@ -13,7 +13,7 @@ Gets an individual  **Series** object in the series collection. Read-only **Seri
 
  _expression_. 'Item' _(Index)_
 
- _expression_ A variable that represents a **SeriesCollection** object.
+ _expression_ A variable that represents a 'SeriesCollection' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that determines if the rule condition is enabled.
 
  _expression_. 'Enabled'
 
- _expression_ A variable that represents a **SenderInAddressListRuleCondition** object.
+ _expression_ A variable that represents a [SenderInAddressListRuleCondition](./Outlook.SenderInAddressListRuleCondition.md) object.
 
 
 ## Remarks

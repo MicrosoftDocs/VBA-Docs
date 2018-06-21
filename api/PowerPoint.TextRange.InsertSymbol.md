@@ -20,7 +20,7 @@ Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents a sym
 
  _expression_. 'InsertSymbol'( '_FontName_', '_CharNumber_', '_UniCode_' )
 
- _expression_ A variable that represents an **TextRange** object.
+ _expression_ A variable that represents an [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ### Parameters

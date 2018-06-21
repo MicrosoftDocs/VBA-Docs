@@ -20,7 +20,7 @@ Displays the  **Insert Object** dialog box, which prompts the user to insert an 
 
  _expression_. 'ObjectInsert'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

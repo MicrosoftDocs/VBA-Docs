@@ -20,7 +20,7 @@ Returns a read-only  **ParagraphFormat** object that represents the paragraph fo
 
  _expression_. 'Duplicate'
 
- _expression_ Required. A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Remarks

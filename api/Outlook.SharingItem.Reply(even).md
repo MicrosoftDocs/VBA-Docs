@@ -17,7 +17,7 @@ Occurs when the user selects the  **Reply** action for an item, or when the **[R
 
  _expression_. 'Reply'( '_Response_' , '_Cancel_' )
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ### Parameters

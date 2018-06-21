@@ -20,7 +20,7 @@ Returns the rank of a value in a data set as a percentage (0..1, inclusive) of t
 
  _expression_. 'PercentRank_Inc'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

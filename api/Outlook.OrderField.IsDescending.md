@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether the contents of the 
 
  _expression_. 'IsDescending'
 
- _expression_ A variable that represents an **OrderField** object.
+ _expression_ A variable that represents an [OrderField](./Outlook.OrderField.md) object.
 
 
 ## Remarks

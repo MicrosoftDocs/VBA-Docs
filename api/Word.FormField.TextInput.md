@@ -20,7 +20,7 @@ Returns a  **[TextInput](Word.TextInput.md)** object that represents a text form
 
  _expression_. 'TextInput'
 
- _expression_ An expression that returns a **[FormField](Word.FormField.md)** object.
+ _expression_ An expression that returns a '[FormField](Word.FormField.md)' object.
 
 
 ## Remarks

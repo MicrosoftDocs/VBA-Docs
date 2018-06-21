@@ -20,7 +20,7 @@ Gets or sets the argument string that you send to the add-on associated with a p
 
  _expression_. 'AddOnArgs'
 
- _expression_ An expression that returns a **AccelItem** object.
+ _expression_ An expression that returns a [AccelItem](./Visio.AccelItem.md) object.
 
 
 ### Return Value

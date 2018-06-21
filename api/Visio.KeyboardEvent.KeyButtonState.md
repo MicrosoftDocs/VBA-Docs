@@ -20,7 +20,7 @@ Returns the state of mouse buttons and the SHIFT and CTRL keys associated with a
 
  _expression_. 'KeyButtonState'
 
- _expression_ A variable that represents a **KeyboardEvent** object.
+ _expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
 
 
 ### Return Value

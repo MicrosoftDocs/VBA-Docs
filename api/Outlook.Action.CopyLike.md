@@ -20,7 +20,7 @@ Returns or sets an  **[OlActionCopyLike](Outlook.OlActionCopyLike.md)** constant
 
  _expression_. 'CopyLike'
 
- _expression_ A variable that represents an **Action** object.
+ _expression_ A variable that represents an [Action](./Outlook.Action.md) object.
 
 
 ## Remarks

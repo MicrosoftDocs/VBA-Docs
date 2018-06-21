@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the name of the font used in a doc
 
  _expression_. 'OMathFontName'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
 
 ## See also

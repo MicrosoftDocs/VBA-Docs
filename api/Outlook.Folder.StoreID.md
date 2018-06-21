@@ -20,7 +20,7 @@ Returns a  **String** indicating the store ID for the folder. Read-only.
 
  _expression_. 'StoreID'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Example

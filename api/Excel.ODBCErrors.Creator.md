@@ -20,7 +20,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
  _expression_. 'Creator'
 
- _expression_ A variable that represents an **ODBCErrors** object.
+ _expression_ A variable that represents an [ODBCErrors](./Excel.ODBCErrors.md) object.
 
 
 ## Remarks

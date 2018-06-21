@@ -20,7 +20,7 @@ Converts a decimal number to octal.
 
  _expression_. 'Dec2Oct'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

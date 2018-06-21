@@ -20,6 +20,6 @@ Gets the level number of the code mask, as it appears in the left column of the 
 
  _expression_. 'Level'
 
- _expression_ A variable that represents a **CodeMaskLevel** object.
+ _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 
 

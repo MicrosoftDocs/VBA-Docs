@@ -13,7 +13,7 @@ Selects the shape.
 
  _expression_. 'Select' _(Replace)_
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ### Parameters

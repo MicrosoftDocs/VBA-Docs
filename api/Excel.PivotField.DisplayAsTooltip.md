@@ -20,7 +20,7 @@ This property is used to specify whether or not a specific member property Pivot
 
  _expression_. 'DisplayAsTooltip'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## Remarks

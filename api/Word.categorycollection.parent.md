@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Cate
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **CategoryCollection** object.
+ _expression_ A variable that represents a 'CategoryCollection' object.
 
 
 ## Property value

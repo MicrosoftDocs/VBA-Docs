@@ -20,7 +20,7 @@ Returns a single  **Row** object from the specified **Rows** collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Rows** object.
+ _expression_ A variable that represents a [Rows](./PowerPoint.Rows.md) object.
 
 
 ### Parameters

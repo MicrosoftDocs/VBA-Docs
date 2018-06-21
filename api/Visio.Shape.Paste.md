@@ -20,7 +20,7 @@ Pastes the contents of the Clipboard into an object.
 
  _expression_. 'Paste'( '_Flags_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

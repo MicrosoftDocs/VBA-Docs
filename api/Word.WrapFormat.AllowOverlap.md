@@ -20,7 +20,7 @@ Returns or sets a value that specifies whether a given shape can overlap other s
 
  _expression_. 'AllowOverlap'
 
- _expression_ A variable that represents a **[WrapFormat](Word.WrapFormat.md)** object.
+ _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns one of the constants of the  **[XlConditionValueTypes](Excel.XlCondition
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **ConditionValue** object.
+ _expression_ A variable that represents a [ConditionValue](./Excel.ConditionValue.md) object.
 
 
 ## See also

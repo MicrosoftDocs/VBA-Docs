@@ -20,7 +20,7 @@ Obtains a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains al
 
  _expression_. 'GetItems'
 
- _expression_ A variable that represents a **[ConversationHeader](Outlook.ConversationHeader.md)** object.
+ _expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
 
 
 ### Return Value

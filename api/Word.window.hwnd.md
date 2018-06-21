@@ -18,7 +18,7 @@ Returns a  **Long** that indicates the window handle of the specified window. Re
 
  _expression_. 'Hwnd'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Word.Window.md) object.
 
 
 ## Property value

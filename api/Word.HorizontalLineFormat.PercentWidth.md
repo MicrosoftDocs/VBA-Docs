@@ -20,7 +20,7 @@ Returns or sets the length of the specified horizontal line expressed as a perce
 
  _expression_. 'PercentWidth'
 
- _expression_ An expression that returns a **[HorizontalLineFormat](Word.HorizontalLineFormat.md)** object.
+ _expression_ An expression that returns a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
 
 
 ## Remarks

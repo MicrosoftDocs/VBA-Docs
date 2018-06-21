@@ -20,7 +20,7 @@ Exports a slide, using the specified graphics filter, and saves the exported fil
 
  _expression_. 'Export'( '_FileName_', '_FilterName_', '_ScaleWidth_', '_ScaleHeight_' )
 
- _expression_ A variable that represents a **Slide** object.
+ _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
 ### Parameters

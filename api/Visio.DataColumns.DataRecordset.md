@@ -23,7 +23,7 @@ Returns the  **[DataRecordset](Visio.DataRecordset.md)** object that contains th
 
  _expression_. 'DataRecordset'
 
- _expression_ An expression that returns a **DataColumns** object.
+ _expression_ An expression that returns a [DataColumns](./Visio.DataColumns.md) object.
 
 
 ### Return Value

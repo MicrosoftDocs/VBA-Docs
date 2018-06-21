@@ -20,7 +20,7 @@ Copies the active view as a picture or an OLE object, or exports the active view
 
  _expression_. 'EditCopyPicture'( ' _Object_', ' _ForPrinter_', ' _SelectedRows_', ' _FromDate_', ' _ToDate_', ' _Filename_', ' _ScaleOption_', ' _MaxImageHeight_', ' _MaxImageWidth_', ' _MeasurementUnits_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

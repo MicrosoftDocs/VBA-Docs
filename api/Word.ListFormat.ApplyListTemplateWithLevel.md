@@ -20,7 +20,7 @@ Applies a set of list-formatting characteristics, optionally for a specified lev
 
  _expression_. 'ApplyListTemplateWithLevel'( '_ListTemplate_' , '_ContinuePreviousList_' , '_ApplyTo_' , '_DefaultListBehavior_' , '_ApplyLevel_' )
 
- _expression_ A variable that represents a **[ListFormat](Word.ListFormat.md)** object.
+ _expression_ A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ### Parameters

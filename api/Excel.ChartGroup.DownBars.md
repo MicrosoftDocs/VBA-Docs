@@ -20,7 +20,7 @@ Returns a  **[DownBars](Excel.DownBars(objec).md)** object that represents the d
 
  _expression_. 'DownBars'
 
- _expression_ A variable that represents a **ChartGroup** object.
+ _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 
 
 ## Example

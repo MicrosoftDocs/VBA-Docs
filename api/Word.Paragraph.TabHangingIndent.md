@@ -20,7 +20,7 @@ Sets a hanging indent to a specified number of tab stops. .
 
  _expression_. 'TabHangingIndent'( '_Count_' )
 
- _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ### Parameters

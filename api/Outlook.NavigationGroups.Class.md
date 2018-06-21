@@ -20,7 +20,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_. 'Class'
 
- _expression_ A variable that represents a **NavigationGroups** object.
+ _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
 
 
 ## Remarks

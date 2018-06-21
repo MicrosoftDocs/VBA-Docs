@@ -18,7 +18,7 @@ Installs the specified XML expansion pack on the user's computer, making an XML 
 
  _expression_. 'InstallManifest'( '_Path_' , '_InstallForAllUsers_' )
 
- _expression_ An expression that represents an **XMLNamespaces** object.
+ _expression_ An expression that represents an 'XMLNamespaces' object.
 
 
 ### Parameters

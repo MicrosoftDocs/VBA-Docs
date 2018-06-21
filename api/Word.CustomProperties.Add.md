@@ -20,7 +20,7 @@ Returns a  **CustomProperty** object that represents s custom property added to 
 
  _expression_. 'Add'( '_Name_' , '_Value_' )
 
- _expression_ Required. A variable that represents a **[CustomProperties](Word.CustomProperties.md)** collection.
+ _expression_ Required. A variable that represents a '[CustomProperties](Word.CustomProperties.md)' collection.
 
 
 ### Parameters

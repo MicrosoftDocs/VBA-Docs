@@ -20,7 +20,7 @@ Clears the data from a chart but leaves the formatting.
 
  _expression_. 'ClearContents'
 
- _expression_ A variable that represents a **[ChartArea](Word.ChartArea.md)** object.
+ _expression_ A variable that represents a '[ChartArea](Word.ChartArea.md)' object.
 
 
 ## Example

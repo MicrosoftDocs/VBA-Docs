@@ -17,6 +17,6 @@ Gets the cost variance for a  **Task**. Read-only **Variant**.
 
  _expression_. 'CV'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

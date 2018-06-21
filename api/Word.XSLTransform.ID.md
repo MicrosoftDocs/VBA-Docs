@@ -20,7 +20,7 @@ Returns a  **String** containing the GUID assigned to the current[XSLTransform](
 
  _expression_. 'ID'
 
- _expression_ An expression that returns a **[XSLTransform](Word.XSLTransform.md)** object.
+ _expression_ An expression that returns a '[XSLTransform](Word.XSLTransform.md)' object.
 
 
 ## See also

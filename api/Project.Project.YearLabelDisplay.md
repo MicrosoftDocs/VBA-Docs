@@ -20,7 +20,7 @@ Gets or sets how the year label displays in rates. Read/write  **Integer**.
 
  _expression_. 'YearLabelDisplay'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **ApplicationSettings** object.
+ _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

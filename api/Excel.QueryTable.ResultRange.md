@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the area of
 
  _expression_. 'ResultRange'
 
- _expression_ A variable that represents a **QueryTable** object.
+ _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 
 
 ## Remarks

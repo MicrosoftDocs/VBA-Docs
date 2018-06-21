@@ -20,7 +20,7 @@ Creates a Web presentation (HTML format) from any loaded presentation. You can v
 
  _expression_. 'Publish'
 
- _expression_ A variable that represents a **PublishObject** object.
+ _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 
 
 ## Remarks

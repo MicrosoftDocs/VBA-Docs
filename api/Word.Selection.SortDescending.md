@@ -20,7 +20,7 @@ Sorts paragraphs or table rows within the selection in descending alphanumeric o
 
  _expression_. 'SortDescending'
 
- _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
+ _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks

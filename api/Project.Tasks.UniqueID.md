@@ -17,7 +17,7 @@ Gets a  **[Task](Project.Task.md)** object from its containing collection. Read-
 
  _expression_. 'UniqueID'( ' _Index_' )
 
- _expression_ A variable that represents a **Tasks** object.
+ _expression_ A variable that represents a 'Tasks' object.
 
 
 ### Parameters

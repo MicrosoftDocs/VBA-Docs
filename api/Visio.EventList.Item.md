@@ -20,7 +20,7 @@ Returns an item from a collection. The  **Item** property is the default propert
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents an **EventList** collection.
+ _expression_ A variable that represents an [EventList](./Visio.EventList.md) collection.
 
 
 ### Parameters

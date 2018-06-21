@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range t
 
  _expression_. 'Range'
 
- _expression_ A variable that represents a **ListColumn** object.
+ _expression_ A variable that represents a [ListColumn](./Excel.ListColumn.md) object.
 
 
 ## See also

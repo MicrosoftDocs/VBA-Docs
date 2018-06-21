@@ -20,7 +20,7 @@ Returns a  **DocumentLibraryVersions** collection that represents the collection
 
  _expression_. 'DocumentLibraryVersions'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## Example

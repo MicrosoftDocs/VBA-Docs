@@ -20,7 +20,7 @@ Returns or sets a  **[MsoCalloutType](http://msdn.microsoft.com/library/65548284
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **CalloutFormat** object.
+ _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
 
 
 ## See also

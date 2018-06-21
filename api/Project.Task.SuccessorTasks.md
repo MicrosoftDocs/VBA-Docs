@@ -20,6 +20,6 @@ Gets a  **[Tasks](Project.Task.md)** collection representing the successors of t
 
  _expression_. 'SuccessorTasks'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

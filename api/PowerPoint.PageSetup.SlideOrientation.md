@@ -20,7 +20,7 @@ Returns or sets the on-screen and printed orientation of slides in the specified
 
  _expression_. 'SlideOrientation'
 
- _expression_ A variable that represents a **PageSetup** object.
+ _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
 
 ### Return Value

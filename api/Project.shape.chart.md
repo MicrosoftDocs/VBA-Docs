@@ -13,7 +13,7 @@ Gets a  **Chart** object that represents the chart contained in the shape. Read-
 
  _expression_. 'Chart'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

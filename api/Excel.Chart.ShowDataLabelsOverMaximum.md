@@ -20,7 +20,7 @@ Returns or sets whether to show the data labels when the value is greater than t
 
  _expression_. 'ShowDataLabelsOverMaximum'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ## Remarks

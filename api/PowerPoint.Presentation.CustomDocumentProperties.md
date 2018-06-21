@@ -20,7 +20,7 @@ Returns a  **DocumentProperties** collection that represents all the custom docu
 
  _expression_. 'CustomDocumentProperties'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

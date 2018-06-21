@@ -20,7 +20,7 @@ Returns the  **Shape** object that is a **Selection** object's primary item. Rea
 
  _expression_. 'PrimaryItem'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Sets the specified fill to a pattern.
 
  _expression_. 'Patterned'( '_Pattern_' )
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 
 
 ### Parameters

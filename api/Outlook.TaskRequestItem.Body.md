@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
  _expression_. 'Body'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that determines if the rule condition is enabled.
 
  _expression_. 'Enabled'
 
- _expression_ A variable that represents a **FormNameRuleCondition** object.
+ _expression_ A variable that represents a [FormNameRuleCondition](./Outlook.FormNameRuleCondition.md) object.
 
 
 ## Remarks

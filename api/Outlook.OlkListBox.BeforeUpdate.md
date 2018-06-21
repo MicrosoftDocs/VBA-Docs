@@ -20,7 +20,7 @@ Occurs when the data in the control is changed through the user interface and is
 
  _expression_. 'BeforeUpdate'( '_Cancel_' )
 
- _expression_ A variable that represents an **OlkListBox** object.
+ _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Determines whether a thin frame is placed around the border of the printed slide
 
  _expression_. 'FrameSlides'
 
- _expression_ A variable that represents a **PrintOptions** object.
+ _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
 ### Return Value

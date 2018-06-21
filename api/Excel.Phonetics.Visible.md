@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **Phonetics** object.
+ _expression_ A variable that represents a [Phonetics](./Excel.Phonetics.md) object.
 
 
 ## See also

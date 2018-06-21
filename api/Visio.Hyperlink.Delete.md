@@ -20,7 +20,7 @@ Deletes an object or selection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a  **String** that represents the result of the specified form field. Re
 
  _expression_. 'Result'
 
- _expression_ Required. A variable that represents a **[FormField](Word.FormField.md)** object.
+ _expression_ Required. A variable that represents a '[FormField](Word.FormField.md)' object.
 
 
 ## Example

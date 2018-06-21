@@ -17,7 +17,7 @@ Occurs before an attachment associated with an instance of the parent object is 
 
  _expression_. 'BeforeAttachmentWriteToTempFile'( '_Attachment_' , '_Cancel_' )
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Gets or sets the position of an object. Read/write.
 
  _expression_. 'Position'
 
- _expression_ A variable that represents a **MenuSet** object.
+ _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 
 
 ### Return Value

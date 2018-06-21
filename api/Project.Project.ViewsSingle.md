@@ -20,6 +20,6 @@ Gets a  **[ViewsSingle](Project.ViewSingle.md)** collection representing the sin
 
  _expression_. 'ViewsSingle'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

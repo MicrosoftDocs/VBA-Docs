@@ -20,7 +20,7 @@ Determines whether a ShapeSheet section exists for a particular shape. Read-only
 
  _expression_. 'SectionExists'( '_Section_' , '_fExistsLocally_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

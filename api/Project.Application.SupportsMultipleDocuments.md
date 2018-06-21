@@ -20,7 +20,7 @@ Always  **True** for Project and any other application that supports multiple do
 
  _expression_. 'SupportsMultipleDocuments'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

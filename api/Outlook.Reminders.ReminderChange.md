@@ -20,7 +20,7 @@ Occurs after a reminder has been modified.
 
  _expression_. 'ReminderChange'( '_ReminderObject_' )
 
- _expression_ A variable that represents a **Reminders** object.
+ _expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
 
 
 ### Parameters

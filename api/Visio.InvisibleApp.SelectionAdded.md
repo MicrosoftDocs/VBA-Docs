@@ -15,9 +15,9 @@ Occurs after one or more shapes are added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**SelectionAdded**( **_ByVal Selection As [IVSELECTION]_** )
+Private Sub  _expression_ _'SelectionAdded'( **_ByVal Selection As [IVSELECTION]_** )
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Parameters

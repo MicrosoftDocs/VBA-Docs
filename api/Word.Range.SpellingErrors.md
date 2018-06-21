@@ -20,7 +20,7 @@ Returns a  **ProofreadingErrors** collection that represents the words identifie
 
  _expression_. 'SpellingErrors'
 
- _expression_ A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

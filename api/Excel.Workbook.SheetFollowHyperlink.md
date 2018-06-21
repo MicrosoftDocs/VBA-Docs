@@ -20,7 +20,7 @@ Occurs when you click any hyperlink in Microsoft Excel. For worksheet-level even
 
  _expression_. 'SheetFollowHyperlink'( '_Sh_' , '_Target_' )
 
- _expression_ An expression that returns a **Workbook** object.
+ _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

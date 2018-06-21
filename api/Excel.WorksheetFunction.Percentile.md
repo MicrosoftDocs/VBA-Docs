@@ -24,7 +24,7 @@ For more information about the new functions, see the [Percentile_Inc](Excel.Wor
 
  _expression_. 'Percentile'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Maximizes the main window.
 
  _expression_. 'AppMaximize'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

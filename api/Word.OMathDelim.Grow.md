@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether delimiter characters grow
 
  _expression_. 'Grow'
 
- _expression_ An expression that returns an **[OMathDelim](Word.OMathDelim.md)** object.
+ _expression_ An expression that returns an '[OMathDelim](Word.OMathDelim.md)' object.
 
 
 ## See also

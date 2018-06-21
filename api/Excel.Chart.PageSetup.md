@@ -20,7 +20,7 @@ Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page
 
  _expression_. 'PageSetup'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ## Example

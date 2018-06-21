@@ -17,7 +17,7 @@ Gets the index of a  **Group2** object in a **ResourceGroups2** collection or **
 
  _expression_. 'Index'
 
- _expression_ An expression that returns a **Group2** object.
+ _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 
 
 ## Example

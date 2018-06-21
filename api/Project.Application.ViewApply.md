@@ -20,7 +20,7 @@ Applies a view to the active window.
 
  _expression_. 'ViewApply'( ' _Name_', ' _SinglePane_', ' _Toggle_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

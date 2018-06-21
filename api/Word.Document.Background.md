@@ -20,7 +20,7 @@ Returns a  **Shape** object that represents the background image for the specifi
 
  _expression_. 'Background'
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

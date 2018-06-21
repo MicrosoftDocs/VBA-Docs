@@ -20,7 +20,7 @@ Scrolls through the specified document window by pages.
 
  _expression_. 'LargeScroll'( '_Down_', '_Up_', '_ToRight_', '_ToLeft_' )
 
- _expression_ A variable that represents a **DocumentWindow** object.
+ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ### Parameters

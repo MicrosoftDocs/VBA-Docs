@@ -20,7 +20,7 @@ Sets the location of the node specified by  **Index**. Note that, depending on t
 
  _expression_. 'SetPosition'( '_Index_', '_X1_', '_Y1_' )
 
- _expression_ A variable that represents a **ShapeNodes** object.
+ _expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
 
 ### Parameters

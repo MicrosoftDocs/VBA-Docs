@@ -20,7 +20,7 @@ Changes the color of the active drawing object.
 
  _expression_. 'DrawingCycleColor'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

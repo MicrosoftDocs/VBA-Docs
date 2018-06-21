@@ -20,7 +20,7 @@ Returns a  **Long** representing the build number of the Outlook application for
 
  _expression_. 'OutlookInternalVersion'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## See also

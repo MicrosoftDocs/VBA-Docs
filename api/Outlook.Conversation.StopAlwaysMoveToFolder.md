@@ -20,7 +20,7 @@ Stops the action of always moving conversation items in the specified store to a
 
  _expression_. 'StopAlwaysMoveToFolder'( '_Store_' )
 
- _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
+ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ### Parameters

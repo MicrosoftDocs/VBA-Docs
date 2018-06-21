@@ -20,7 +20,7 @@ Gets a  **VBProject** object that represents the Microsoft Visual Basic project.
 
  _expression_. 'VBProject'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

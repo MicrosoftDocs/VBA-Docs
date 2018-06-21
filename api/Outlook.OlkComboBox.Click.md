@@ -20,7 +20,7 @@ Occurs when the user clicks inside the control.
 
  _expression_. 'Click'
 
- _expression_ A variable that represents an **OlkComboBox** object.
+ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## See also

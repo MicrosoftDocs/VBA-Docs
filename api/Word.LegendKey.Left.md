@@ -20,7 +20,7 @@ Returns the distance, in points, from the left edge of the object to the left ed
 
  _expression_. 'Left'
 
- _expression_ A variable that represents a **[LegendKey](Word.LegendKey.md)** object.
+ _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
 
 
 ## See also

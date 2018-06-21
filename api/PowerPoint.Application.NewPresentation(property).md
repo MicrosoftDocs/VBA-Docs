@@ -20,7 +20,7 @@ Returns a  **NewFile** object that represents a presentation listed on the **New
 
  _expression_. 'NewPresentation'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ### Return Value

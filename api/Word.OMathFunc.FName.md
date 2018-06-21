@@ -20,7 +20,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the name of a math
 
  _expression_. 'FName'
 
- _expression_ An expression that returns an **[OMathFunc](Word.OMathFunc.md)** object.
+ _expression_ An expression that returns an '[OMathFunc](Word.OMathFunc.md)' object.
 
 
 ## See also

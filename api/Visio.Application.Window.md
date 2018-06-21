@@ -20,7 +20,7 @@ Returns the window associated with the current instance of Microsoft Visio. Read
 
  _expression_. 'Window'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

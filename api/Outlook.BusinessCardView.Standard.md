@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates whether the **[BusinessCardView](Out
 
  _expression_. 'Standard'
 
- _expression_ An expression that returns a **BusinessCardView** object.
+ _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

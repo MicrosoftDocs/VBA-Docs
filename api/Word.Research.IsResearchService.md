@@ -20,7 +20,7 @@ Indicates whether the GUID specified in the ServiceID parameter corresponds to a
 
  _expression_. 'IsResearchService'( '_ServiceID_' )
 
- _expression_ An expression that returns a **Research** object.
+ _expression_ An expression that returns a [Research](./Word.Research.md) object.
 
 
 ### Parameters

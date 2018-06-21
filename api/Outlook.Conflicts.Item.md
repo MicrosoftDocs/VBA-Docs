@@ -20,7 +20,7 @@ Returns an  **[Conflict](Outlook.Conflict.md)** object from the collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Conflicts** object.
+ _expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
 
 
 ### Parameters

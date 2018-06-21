@@ -20,7 +20,7 @@ Returns a  **String** that represents the document title for a revised document 
 
  _expression_. 'RevisedDocumentTitle'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

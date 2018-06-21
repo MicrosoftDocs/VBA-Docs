@@ -20,7 +20,7 @@ Creates a new query table.
 
  _expression_. 'Add'( '_Connection_' , '_Destination_' , '_Sql_' )
 
- _expression_ A variable that represents a **QueryTables** object.
+ _expression_ A variable that represents a [QueryTables](./Excel.QueryTables.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets an  **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant tha
 
  _expression_. 'MarkForDownload'
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

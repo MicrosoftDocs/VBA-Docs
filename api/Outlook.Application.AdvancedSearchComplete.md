@@ -20,7 +20,7 @@ Occurs when the  **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** met
 
  _expression_. 'AdvancedSearchComplete'( '_SearchObject_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ### Parameters

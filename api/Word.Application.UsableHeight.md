@@ -20,7 +20,7 @@ Returns the maximum height (in points) to which you can set the height of a Micr
 
  _expression_. 'UsableHeight'
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Example

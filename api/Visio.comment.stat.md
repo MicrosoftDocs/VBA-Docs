@@ -15,7 +15,7 @@ Returns status information for an object. Read-only  **Integer**.
 
  _expression_. 'Stat'
 
- _expression_ A variable that represents a **Comment** object.
+ _expression_ A variable that represents a 'Comment' object.
 
 
 ## Remarks

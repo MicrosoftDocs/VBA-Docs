@@ -13,7 +13,7 @@ Gets the GUID of the Project Web App instance for the active profile. Read-only 
 
  _expression_. 'SiteId'
 
- _expression_ A variable that represents a **Profile** object.
+ _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets a  **Long** that represents the current position of the player in t
 
  _expression_. 'CurrentPosition'
 
- _expression_ A variable that represents a **Player** object.
+ _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 
 
 ## See also

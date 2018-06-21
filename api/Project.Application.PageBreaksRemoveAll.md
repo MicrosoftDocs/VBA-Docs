@@ -20,7 +20,7 @@ Removes all manual page breaks in the active project.
 
  _expression_. 'PageBreaksRemoveAll'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

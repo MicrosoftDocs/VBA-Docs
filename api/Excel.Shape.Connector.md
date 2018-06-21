@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Connector'
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

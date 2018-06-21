@@ -16,7 +16,7 @@ Creates a  **ReportTable** object in the active report.
 
  _expression_. 'Table'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return value

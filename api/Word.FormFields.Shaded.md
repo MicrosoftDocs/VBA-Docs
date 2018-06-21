@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Shaded'
 
- _expression_ An expression that returns a **FormFields** collection object.
+ _expression_ An expression that returns a 'FormFields' collection object.
 
 
 ## Remarks

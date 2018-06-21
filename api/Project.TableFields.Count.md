@@ -17,7 +17,7 @@ Gets the number of items in the  **TableFields** collection. Read-only **Long**.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **TableFields** object.
+ _expression_ A variable that represents a 'TableFields' object.
 
 
 ## Remarks

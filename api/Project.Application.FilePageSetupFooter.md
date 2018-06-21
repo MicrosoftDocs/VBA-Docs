@@ -20,7 +20,7 @@ Sets up footers for printing.
 
  _expression_. 'FilePageSetupFooter'( ' _Name_', ' _Alignment_', ' _Text_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

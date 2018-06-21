@@ -20,7 +20,7 @@ Removes the item from the folder that contains the item.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **DocumentItem** object.
+ _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
 
 
 ## Remarks

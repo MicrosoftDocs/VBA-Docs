@@ -20,7 +20,7 @@ Returns a single  **Comment** object from the specified **Comments** collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Comments** object.
+ _expression_ A variable that represents a [Comments](./PowerPoint.Comments.md) object.
 
 
 ### Parameters

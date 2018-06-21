@@ -20,7 +20,7 @@ Returns or sets the distance between the levels of labels, and the distance betw
 
  _expression_. 'Offset'
 
- _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
+ _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
 
 
 ## Remarks

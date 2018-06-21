@@ -20,7 +20,7 @@ Applies a predefined look to a table.
 
  _expression_. 'AutoFormat'( '_Format_' , '_ApplyBorders_' , '_ApplyShading_' , '_ApplyFont_' , '_ApplyColor_' , '_ApplyHeadingRows_' , '_ApplyLastRow_' , '_ApplyFirstColumn_' , '_ApplyLastColumn_' , '_AutoFit_' )
 
- _expression_ Required. A variable that represents a **[Table](Word.Table.md)** object.
+ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ### Parameters

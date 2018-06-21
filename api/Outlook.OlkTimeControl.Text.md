@@ -20,7 +20,7 @@ Returns or sets a  **String** that is the text displayed in the control. Read/wr
 
  _expression_. 'Text'
 
- _expression_ A variable that represents an **OlkTimeControl** object.
+ _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

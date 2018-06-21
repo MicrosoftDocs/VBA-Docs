@@ -20,7 +20,7 @@ Returns a value that represents the text orientation of the associated  **[Range
 
  _expression_. 'Orientation'
 
- _expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
+ _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ### Return Value

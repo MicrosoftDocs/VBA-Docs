@@ -20,7 +20,7 @@ Returns or sets a  **Date** indicating the date and time at which the item becom
 
  _expression_. 'ExpiryTime'
 
- _expression_ A variable that represents a **PostItem** object.
+ _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## See also

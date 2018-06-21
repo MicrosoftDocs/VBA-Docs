@@ -20,7 +20,7 @@ Returns or sets an  **[OlCalendarDetail](Outlook.OlCalendarDetail.md)** value in
 
  _expression_. 'CalendarDetail'
 
- _expression_ An expression that returns a **CalendarSharing** object.
+ _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
 ### Return Value

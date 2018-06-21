@@ -23,7 +23,7 @@ Links multiple rows in the specified data recordset, as specified by their data 
 
  _expression_. 'LinkShapesToDataRows'( '_DataRecordsetID_' , '_DataRowIDs()_' , '_ShapeIDs()_' , '_ApplyDataGraphicAfterLink_' )
 
- _expression_ An expression that returns a **Page** object.
+ _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
 
 ### Parameters

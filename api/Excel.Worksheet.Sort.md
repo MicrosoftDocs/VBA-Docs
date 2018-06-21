@@ -20,7 +20,7 @@ Returns a  **[Sort](Excel.Sort.md)** object. Read-only.
 
  _expression_. 'Sort'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## See also

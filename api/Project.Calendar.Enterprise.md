@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Enterprise'
 
- _expression_ A variable that represents a **Calendar** object.
+ _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
 
 ## Remarks

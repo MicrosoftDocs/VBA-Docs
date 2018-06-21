@@ -18,7 +18,7 @@ ms.prod: excel
 
  _expression_. 'FastCombine'
 
- _expression_ A variable that represents a **Queries** object.
+ _expression_ A variable that represents a 'Queries' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Sets up margins for printing.
 
  _expression_. 'FilePageSetupMargins'( ' _Name_', ' _Top_', ' _Bottom_', ' _Left_', ' _Right_', ' _Borders_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

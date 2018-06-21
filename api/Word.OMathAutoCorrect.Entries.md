@@ -20,7 +20,7 @@ Returns an  **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** colle
 
  _expression_. 'Entries'
 
- _expression_ An expression that returns an **[OMathAutoCorrect](Word.OMathAutoCorrect.md)** object.
+ _expression_ An expression that returns an '[OMathAutoCorrect](Word.OMathAutoCorrect.md)' object.
 
 
 ## See also

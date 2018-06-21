@@ -20,7 +20,7 @@ The  **GenerateTableRefs** property determines whether the traditional notation 
 
  _expression_. 'GenerateTableRefs'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## See also

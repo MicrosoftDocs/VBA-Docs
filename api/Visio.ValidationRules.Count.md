@@ -20,7 +20,7 @@ Returns the number of  **[ValidationRule](Visio.ValidationRule.md)** objects in 
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **[ValidationRules](Visio.ValidationRules.md)** object.
+ _expression_ A variable that represents a '[ValidationRules](Visio.ValidationRules.md)' object.
 
 
 ### Return Value

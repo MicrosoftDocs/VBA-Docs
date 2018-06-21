@@ -17,7 +17,7 @@ Occurs just before Microsoft Outlook starts resolving names in the recipient col
 
  _expression_. 'BeforeCheckNames'( '_Cancel_' )
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ### Parameters

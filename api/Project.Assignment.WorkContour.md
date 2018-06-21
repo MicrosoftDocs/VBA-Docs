@@ -20,7 +20,7 @@ Gets or sets the type of work contour for the assignment. Read/write  **PjWorkCo
 
  _expression_. 'WorkContour'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

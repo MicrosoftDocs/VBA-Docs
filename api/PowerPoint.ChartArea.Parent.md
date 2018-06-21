@@ -17,7 +17,7 @@ Returns the parent for the specified object. Read-only  **Object**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **[ChartArea](PowerPoint.ChartArea.md)** object.
+ _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 
 
 ## See also

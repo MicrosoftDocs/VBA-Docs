@@ -20,7 +20,7 @@ Returns or sets the number of points that are cropped off the top of the specifi
 
  _expression_. 'CropTop'
 
- _expression_ A variable that represents a **[PictureFormat](Word.PictureFormat.md)** object.
+ _expression_ A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
 
 ## Remarks

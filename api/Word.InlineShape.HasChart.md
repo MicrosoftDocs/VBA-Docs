@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HasChart'
 
- _expression_ An expression that returns an **InlineShape** object.
+ _expression_ An expression that returns an [InlineShape](./Word.InlineShape.md) object.
 
 
 ## Remarks

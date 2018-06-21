@@ -17,7 +17,7 @@ Gets a  **[PayRates](Project.PayRate.md)** collection that represents the variou
 
  _expression_. 'PayRates'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

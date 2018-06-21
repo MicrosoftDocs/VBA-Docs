@@ -20,7 +20,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **OutlookBarPane** object.
+ _expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
 
 
 ## See also

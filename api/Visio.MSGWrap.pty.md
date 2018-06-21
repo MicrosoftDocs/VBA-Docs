@@ -20,7 +20,7 @@ Gets or sets the  **pt.y** member of the **MSG** structure being wrapped. Read/w
 
  _expression_. 'pty'
 
- _expression_ A variable that represents a **MSGWrap** object.
+ _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 
 
 ### Return Value

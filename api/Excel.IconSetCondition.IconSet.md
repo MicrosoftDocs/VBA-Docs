@@ -20,7 +20,7 @@ Returns or sets an  **[IconSets](Excel.IconSets.md)** collection, which specifie
 
  _expression_. 'IconSet'
 
- _expression_ A variable that represents an **IconSetCondition** object.
+ _expression_ A variable that represents an [IconSetCondition](./Excel.IconSetCondition.md) object.
 
 
 ## Remarks

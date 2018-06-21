@@ -20,7 +20,7 @@ Returns a  **[Font](Excel.Font(objec).md)** object that represents the font of t
 
  _expression_. 'Font'
 
- _expression_ A variable that represents a **DataTable** object.
+ _expression_ A variable that represents a [DataTable](./Excel.DataTable(Graph property).md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Specifies whether the color of the specified shape is momentarily inverted when 
 
  _expression_. 'AnimateAction'
 
- _expression_ A variable that represents an **ActionSetting** object.
+ _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
 ### Return Value

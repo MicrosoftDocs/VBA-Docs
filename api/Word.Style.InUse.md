@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'InUse'
 
- _expression_ An expression that returns a **[Style](Word.Style.md)** object.
+ _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 
 
 ## Remarks

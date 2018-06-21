@@ -20,7 +20,7 @@ Prints the specified presentation.
 
  _expression_. 'PrintOut'( '_From_', '_To_', '_PrintToFile_', '_Copies_', '_Collate_' )
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
 ### Parameters

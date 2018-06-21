@@ -20,7 +20,7 @@ Returns a  **String** that contains the display name of the specified co author.
 
  _expression_. 'Name'
 
- _expression_ An expression that returns a **CoAuthor** object.
+ _expression_ An expression that returns a [CoAuthor](./Word.CoAuthor.md) object.
 
 
 ## Example

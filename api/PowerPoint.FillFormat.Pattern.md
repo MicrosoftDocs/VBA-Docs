@@ -20,7 +20,7 @@ Sets or returns a value that represents the pattern applied to the specified fil
 
  _expression_. 'Pattern'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ### Return Value

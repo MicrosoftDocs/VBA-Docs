@@ -20,7 +20,7 @@ Occurs when the user clicks inside the control.
 
  _expression_. 'Click'
 
- _expression_ A variable that represents an **OlkLabel** object.
+ _expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
 
 
 ## See also

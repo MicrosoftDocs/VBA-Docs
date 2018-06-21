@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Brea
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **[Breaks](Word.Breaks.md)** collection.
+ _expression_ A variable that represents an '[Breaks](Word.Breaks.md)' collection.
 
 
 ## See also

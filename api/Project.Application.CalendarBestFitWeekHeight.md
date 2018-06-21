@@ -20,7 +20,7 @@ Changes the height of the active calendar box to display all task bars.
 
  _expression_. 'CalendarBestFitWeekHeight'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

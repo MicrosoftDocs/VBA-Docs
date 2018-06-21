@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value indicating if the thresholds for an icon se
 
  _expression_. 'PercentileValues'
 
- _expression_ A variable that represents an **IconSetCondition** object.
+ _expression_ A variable that represents an [IconSetCondition](./Excel.IconSetCondition.md) object.
 
 
 ## Remarks

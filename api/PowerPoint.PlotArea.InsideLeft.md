@@ -20,7 +20,7 @@ Returns or sets the distance, in points, from the chart edge to the inside left 
 
  _expression_. 'InsideLeft'
 
- _expression_ A variable that represents a **[PlotArea](PowerPoint.PlotArea.md)** object.
+ _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 
 
 ## Remarks

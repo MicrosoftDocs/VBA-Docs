@@ -20,7 +20,7 @@ Returns a  **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection
 
  _expression_. 'FirstLetterExceptions'
 
- _expression_ A variable that represents an **[AutoCorrect](Word.AutoCorrect.md)** object.
+ _expression_ A variable that represents an '[AutoCorrect](Word.AutoCorrect.md)' object.
 
 
 ## Remarks

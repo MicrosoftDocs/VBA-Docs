@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the name of the specified fo
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **PivotFormula** object.
+ _expression_ A variable that represents a [PivotFormula](./Excel.PivotFormula.md) object.
 
 
 ## See also

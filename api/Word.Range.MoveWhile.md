@@ -20,7 +20,7 @@ Moves the specified range while any of the specified characters are found in the
 
  _expression_. 'MoveWhile'( '_Cset_' , '_Count_' )
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

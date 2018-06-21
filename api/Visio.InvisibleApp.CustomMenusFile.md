@@ -20,7 +20,7 @@ Gets or sets the name of the file that defines custom menus and accelerators for
 
  _expression_. 'CustomMenusFile'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

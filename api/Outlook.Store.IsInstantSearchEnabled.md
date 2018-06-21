@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates whether Instant Search is enabled and oper
 
  _expression_. 'IsInstantSearchEnabled'
 
- _expression_ A variable that represents a **Store** object.
+ _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a pane from a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Panes** object.
+ _expression_ A variable that represents a [Panes](./Outlook.Panes.md) object.
 
 
 ### Parameters

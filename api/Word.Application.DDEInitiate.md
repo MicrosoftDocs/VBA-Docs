@@ -20,7 +20,7 @@ Opens a dynamic data exchange (DDE) channel to another application, and returns 
 
  _expression_. 'DDEInitiate'( '_App_' , '_Topic_' )
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ### Parameters

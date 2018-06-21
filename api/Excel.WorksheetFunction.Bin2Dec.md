@@ -20,7 +20,7 @@ Converts a binary number to decimal.
 
  _expression_. 'Bin2Dec'( '_Arg1_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

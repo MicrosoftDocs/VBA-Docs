@@ -20,7 +20,7 @@ Returns or sets the red-green-blue (RGB) value of the specified color. Read/writ
 
  _expression_. 'RGB'
 
- _expression_ A variable that represents a **ColorFormat** object.
+ _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 
 
 ### Return Value

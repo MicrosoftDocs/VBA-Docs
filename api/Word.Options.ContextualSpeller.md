@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to use the contextual spe
 
  _expression_. 'ContextualSpeller'
 
- _expression_ An expression that returns an **Options** object.
+ _expression_ An expression that returns an [Options](./Word.Options.md) object.
 
 
 ## Remarks

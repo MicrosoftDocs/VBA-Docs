@@ -20,7 +20,7 @@ Returns an object from a collection. The  **Item** property is the default prope
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ### Parameters

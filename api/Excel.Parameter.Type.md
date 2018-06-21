@@ -20,7 +20,7 @@ Returns a  **[XlParameterType](Excel.XlParameterType.md)** value that represents
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Parameter** object.
+ _expression_ A variable that represents a [Parameter](./Excel.Parameter.md) object.
 
 
 ## See also

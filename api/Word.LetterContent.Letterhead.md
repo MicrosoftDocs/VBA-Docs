@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Letterhead'
 
- _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

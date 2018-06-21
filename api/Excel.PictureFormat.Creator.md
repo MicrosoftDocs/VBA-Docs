@@ -17,7 +17,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
  _expression_. 'Creator'
 
- _expression_ A variable that represents a **PictureFormat** object.
+ _expression_ A variable that represents a [PictureFormat](./Excel.PictureFormat.md) object.
 
 
 ## Remarks

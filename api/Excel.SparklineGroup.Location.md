@@ -20,7 +20,7 @@ Gets or sets the  **[Range](Excel.Range(objec).md)** object that represents the 
 
  _expression_. 'Location'
 
- _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
+ _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ### Return Value

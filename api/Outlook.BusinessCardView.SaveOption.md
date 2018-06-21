@@ -20,7 +20,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
  _expression_. 'SaveOption'
 
- _expression_ An expression that returns a **BusinessCardView** object.
+ _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

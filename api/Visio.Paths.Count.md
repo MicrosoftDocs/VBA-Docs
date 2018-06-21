@@ -20,7 +20,7 @@ Returns the number of objects in a collection. Read-only.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Paths** object.
+ _expression_ A variable that represents a [Paths](./Visio.Paths.md) object.
 
 
 ### Return Value

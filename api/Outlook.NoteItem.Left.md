@@ -20,7 +20,7 @@ Returns or sets a  **Long** specifying the position (in pixels) of the left vert
 
  _expression_. 'Left'
 
- _expression_ A variable that represents a **NoteItem** object.
+ _expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
 
 
 ## See also

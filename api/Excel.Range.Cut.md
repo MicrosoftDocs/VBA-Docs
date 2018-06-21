@@ -20,7 +20,7 @@ Cuts the object to the Clipboard or pastes it into a specified destination.
 
  _expression_. 'Cut'( '_Destination_' )
 
- _expression_ An expression that returns a **Range** object.
+ _expression_ An expression that returns a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

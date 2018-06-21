@@ -20,7 +20,7 @@ Returns a  **Boolean** value that is **True** if the store supports Conversation
 
  _expression_. 'IsConversationEnabled'
 
- _expression_ A variable that represents a **[Store](Outlook.Store.md)** object.
+ _expression_ A variable that represents a '[Store](Outlook.Store.md)' object.
 
 
 ## Remarks

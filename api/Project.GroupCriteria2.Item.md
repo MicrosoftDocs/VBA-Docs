@@ -17,7 +17,7 @@ Gets a single item from a collection. Read-only  **GroupCriterion2**.
 
  _expression_. 'Item'( ' _Index_' )
 
- _expression_ An expression that returns a **GroupCriteria2** object.
+ _expression_ An expression that returns a 'GroupCriteria2' object.
 
 
 ### Parameters

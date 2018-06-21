@@ -20,7 +20,7 @@ Returns or sets a  **[XlHAlign](Excel.XlHAlign.md)** value that represents the h
 
  _expression_. 'HorizontalAlignment'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 
 ## Remarks

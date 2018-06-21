@@ -20,7 +20,7 @@ A  **Boolean** value that determines whether ink comments are displayed in the w
 
  _expression_. 'DisplayInkComments'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets the right indent value (in characters) for the specified paragra
 
  _expression_. 'CharacterUnitRightIndent'
 
- _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example

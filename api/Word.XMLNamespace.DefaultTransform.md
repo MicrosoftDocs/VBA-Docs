@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'DefaultTransform'
 
- _expression_ An expression that returns an **[XMLNamespace](Word.XMLNamespace.md)** object.
+ _expression_ An expression that returns an '[XMLNamespace](Word.XMLNamespace.md)' object.
 
 
 ## Example

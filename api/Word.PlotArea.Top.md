@@ -20,7 +20,7 @@ Returns or sets the distance, in points, from the top edge of the object to the 
 
  _expression_. 'Top'
 
- _expression_ A variable that represents a **[PlotArea](Word.PlotArea.md)** object.
+ _expression_ A variable that represents a '[PlotArea](Word.PlotArea.md)' object.
 
 
 ## See also

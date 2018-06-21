@@ -13,7 +13,7 @@ Gets a  **FillFormat** object for the shape range, if the shape range contains f
 
  _expression_. 'Fill'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

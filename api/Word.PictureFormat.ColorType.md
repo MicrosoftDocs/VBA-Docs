@@ -20,7 +20,7 @@ Returns or sets the type of color transformation applied to the specified pictur
 
  _expression_. 'ColorType'
 
- _expression_ Required. A variable that represents a **[PictureFormat](Word.PictureFormat.md)** object.
+ _expression_ Required. A variable that represents a '[PictureFormat](Word.PictureFormat.md)' object.
 
 
 ## Example

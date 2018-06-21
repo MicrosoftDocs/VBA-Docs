@@ -20,7 +20,7 @@ Returns an  **[OMathRad](Word.OMathRad.md)** object that represents the mathemat
 
  _expression_. 'Rad'
 
- _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
+ _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 
 
 ## See also

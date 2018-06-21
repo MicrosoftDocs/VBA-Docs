@@ -20,7 +20,7 @@ Determines whether the current event handler is being called as a result of an  
 
  _expression_. 'IsUndoingOrRedoing'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

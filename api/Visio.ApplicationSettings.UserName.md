@@ -20,7 +20,7 @@ Gets or sets the user name of an  **Application** object. Read/write.
 
  _expression_. 'UserName'
 
- _expression_ A variable that represents an **ApplicationSettings** object.
+ _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

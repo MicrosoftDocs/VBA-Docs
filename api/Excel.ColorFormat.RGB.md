@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that represents the red-green-blue value of th
 
  _expression_. 'RGB'
 
- _expression_ A variable that represents a **ColorFormat** object.
+ _expression_ A variable that represents a [ColorFormat](./Excel.ColorFormat.md) object.
 
 
 ## See also

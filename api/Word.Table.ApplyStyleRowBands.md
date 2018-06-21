@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to apply style bands to t
 
  _expression_. 'ApplyStyleRowBands'
 
- _expression_ An expression that returns a **Table** object.
+ _expression_ An expression that returns a [Table](./Word.Table.md) object.
 
 
 ## See also

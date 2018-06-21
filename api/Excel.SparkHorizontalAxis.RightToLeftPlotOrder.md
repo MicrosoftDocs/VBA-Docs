@@ -20,7 +20,7 @@ Returns or sets whether the points on the horizontal axis are plotted in right-t
 
  _expression_. 'RightToLeftPlotOrder'
 
- _expression_ A variable that represents a **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object.
+ _expression_ A variable that represents a '[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)' object.
 
 
 ### Return Value

@@ -20,6 +20,6 @@ Gets the cost performance index of a specified task. Read-only  **Double**.
 
  _expression_. 'CPI'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

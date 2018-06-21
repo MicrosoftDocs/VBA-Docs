@@ -20,7 +20,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **Inspector** object.
+ _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ## See also

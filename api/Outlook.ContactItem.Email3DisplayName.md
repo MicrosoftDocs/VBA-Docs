@@ -20,7 +20,7 @@ Returns a  **String** representing the display name of the third e-mail entry fo
 
  _expression_. 'Email3DisplayName'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

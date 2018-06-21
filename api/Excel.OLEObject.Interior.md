@@ -20,7 +20,7 @@ Returns an  **[Interior](Excel.Interior(objec).md)** object that represents the 
 
  _expression_. 'Interior'
 
- _expression_ A variable that represents an **OLEObject** object.
+ _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
 
 
 ## See also

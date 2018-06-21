@@ -20,7 +20,7 @@ Determines whether a menu shows an icon, a caption, or some combination. Read/wr
 
  _expression_. 'Style'
 
- _expression_ A variable that represents a **Menu** object.
+ _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
 
 ### Return Value

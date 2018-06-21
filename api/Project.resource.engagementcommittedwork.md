@@ -18,6 +18,6 @@ Returns the committed work for the engagement. Read-only  **Double**. Introduced
 
  _expression_. 'EngagementCommittedWork'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

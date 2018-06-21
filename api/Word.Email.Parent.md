@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Emai
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents an **[Email](Word.Email.md)** object.
+ _expression_ Required. A variable that represents an '[Email](Word.Email.md)' object.
 
 
 ## See also

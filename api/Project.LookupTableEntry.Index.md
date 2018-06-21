@@ -20,7 +20,7 @@ Gets the index of a  **LookupTableEntry** object in the containing **LookupTable
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **LookupTableEntry** object.
+ _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 
 ## Remarks

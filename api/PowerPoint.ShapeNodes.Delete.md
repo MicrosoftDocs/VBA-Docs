@@ -20,7 +20,7 @@ Deletes a shape node.
 
  _expression_. 'Delete'( '_Index_' )
 
- _expression_ A variable that represents a **ShapeNodes** object.
+ _expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Creates, edits, or copies a single-pane view.
 
  _expression_. 'ViewEditSingle'( ' _Name_', ' _Create_', ' _NewName_', ' _Screen_', ' _ShowInMenu_', ' _HighlightFilter_', ' _Table_', ' _Filter_', ' _Group_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

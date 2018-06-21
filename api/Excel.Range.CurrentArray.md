@@ -20,7 +20,7 @@ If the specified cell is part of an array, returns a  **[Range](Excel.Range(obje
 
  _expression_. 'CurrentArray'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Example

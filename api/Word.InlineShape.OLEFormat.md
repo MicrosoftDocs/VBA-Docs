@@ -20,7 +20,7 @@ Returns an  **OLEFormat** object that represents the OLE characteristics (other 
 
  _expression_. 'OLEFormat'
 
- _expression_ A variable that represents an **[InlineShape](Word.InlineShape.md)** object.
+ _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## See also

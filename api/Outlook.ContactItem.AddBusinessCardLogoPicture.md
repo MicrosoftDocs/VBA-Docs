@@ -20,7 +20,7 @@ Adds a logo picture to the current Electronic Business Card of the contact item.
 
  _expression_. 'AddBusinessCardLogoPicture'( '_Path_' )
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ### Parameters

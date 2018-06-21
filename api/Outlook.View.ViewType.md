@@ -20,7 +20,7 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant representing the vi
 
  _expression_. 'ViewType'
 
- _expression_ An expression that returns a **View** object.
+ _expression_ An expression that returns a [View](./Outlook.View.md) object.
 
 
 ## Remarks

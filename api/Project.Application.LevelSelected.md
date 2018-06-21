@@ -20,7 +20,7 @@ Levels the selected tasks to resolve resource conflicts or overallocations.
 
  _expression_. 'LevelSelected'( ' _ResolveMethod_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

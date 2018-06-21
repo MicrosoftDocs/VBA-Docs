@@ -20,7 +20,7 @@ Returns a  **String** representing the state or province for the **[ExchangeUser
 
  _expression_. 'StateOrProvince'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Returns a single object from a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **[Trendlines](PowerPoint.Trendlines.md)** object.
+ _expression_ A variable that represents a '[Trendlines](PowerPoint.Trendlines.md)' object.
 
 
 ### Parameters

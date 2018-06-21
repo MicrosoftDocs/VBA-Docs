@@ -20,7 +20,7 @@ Sorts the collection of items by the specified property. The index for the colle
 
  _expression_. 'Sort'( '_Property_' , '_Order_' )
 
- _expression_ A variable that represents an **AddressEntries** object.
+ _expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
 
 
 ### Parameters

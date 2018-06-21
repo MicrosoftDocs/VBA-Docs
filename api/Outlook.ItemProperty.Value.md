@@ -20,7 +20,7 @@ Returns or sets a  **Variant** indicating the value for the specified custom or 
 
  _expression_. 'Value'
 
- _expression_ A variable that represents an **ItemProperty** object.
+ _expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
 
 
 ## Remarks

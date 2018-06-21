@@ -20,7 +20,7 @@ Moves the sheet to another location in the workbook.
 
  _expression_. 'Move'( '_Before_' , '_After_' )
 
- _expression_ A variable that represents a **Sheets** object.
+ _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets the height, in points, of each row in the specified slicer. Read
 
  _expression_. 'RowHeight'
 
- _expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
+ _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ### Return Value

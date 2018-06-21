@@ -20,7 +20,7 @@ Adds data validation to the specified range.
 
  _expression_. 'Add'( '_Type_' , '_AlertStyle_' , '_Operator_' , '_Formula1_' , '_Formula2_' )
 
- _expression_ A variable that represents a **Validation** object.
+ _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
 
 
 ### Parameters

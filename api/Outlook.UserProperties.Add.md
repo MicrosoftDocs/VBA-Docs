@@ -20,7 +20,7 @@ Creates a new user property in the  **[UserProperties](Outlook.UserProperties.md
 
  _expression_. 'Add'( '_Name_' , '_Type_' , '_AddToFolderFields_' , '_DisplayFormat_' )
 
- _expression_ A variable that represents an **UserProperties** object.
+ _expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
 
 
 ### Parameters

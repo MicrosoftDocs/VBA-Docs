@@ -20,7 +20,7 @@ Returns an individual  **FileConverter** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[FileConverters](PowerPoint.FileConverters.md)** collection.
+ _expression_ Required. A variable that represents a '[FileConverters](PowerPoint.FileConverters.md)' collection.
 
 
 ### Parameters

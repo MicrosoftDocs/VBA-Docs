@@ -18,9 +18,9 @@ Occurs when a new document based on the template is created. A procedure for the
 
 ## Syntax
 
-Private Sub  _expression_ _**Private Sub Document_New**
+Private Sub  _expression_ _'Private Sub Document_New'
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

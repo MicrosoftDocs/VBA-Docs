@@ -20,7 +20,7 @@ Returns or sets whether the header that displays the slicer  **[Caption](Excel.S
 
  _expression_. 'DisplayHeader'
 
- _expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
+ _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ### Return Value

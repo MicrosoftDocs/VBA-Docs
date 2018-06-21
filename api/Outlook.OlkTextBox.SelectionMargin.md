@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that specifies whether the user can select a line
 
  _expression_. 'SelectionMargin'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

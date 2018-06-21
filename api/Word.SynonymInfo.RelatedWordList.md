@@ -20,7 +20,7 @@ Returns a list of words related to the specified word or phrase. The list is ret
 
  _expression_. 'RelatedWordList'
 
- _expression_ An expression that returns a **[SynonymInfo](Word.SynonymInfo.md)** object.
+ _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 
 
 ## Example

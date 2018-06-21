@@ -20,7 +20,7 @@ Determines whether Microsoft Visio prompts for document properties when it saves
 
  _expression_. 'PromptForSummary'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

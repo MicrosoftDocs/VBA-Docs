@@ -20,7 +20,7 @@ Determines whether hidden slides in the specified presentation will be printed. 
 
  _expression_. 'PrintHiddenSlides'
 
- _expression_ A variable that represents a **PrintOptions** object.
+ _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
 ### Return Value

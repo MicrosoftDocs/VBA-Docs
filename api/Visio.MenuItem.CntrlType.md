@@ -20,7 +20,7 @@ Gets or sets the control type of a menu item. Read/write.
 
  _expression_. 'CntrlType'
 
- _expression_ A variable that represents a **MenuItem** object.
+ _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
 
 ### Return Value

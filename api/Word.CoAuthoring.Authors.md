@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Authors'
 
- _expression_ An expression that returns a **[CoAuthoring](Word.CoAuthoring.md)** object.
+ _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 
 
 ## Remarks

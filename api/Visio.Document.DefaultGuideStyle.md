@@ -20,7 +20,7 @@ Gets or sets the default guide style of a document. Read/write.
 
  _expression_. 'DefaultGuideStyle'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

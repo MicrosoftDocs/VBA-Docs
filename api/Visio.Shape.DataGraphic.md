@@ -23,7 +23,7 @@ Gets or sets the data graphic master ( **Master** of type **visTypeDataGraphic**
 
  _expression_. 'DataGraphic'
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

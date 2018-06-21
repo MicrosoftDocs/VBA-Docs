@@ -20,7 +20,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
  _expression_. 'AutoPreviewFont'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Example

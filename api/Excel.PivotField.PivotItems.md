@@ -20,7 +20,7 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 
  _expression_. 'PivotItems'( '_Index_' )
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ### Parameters

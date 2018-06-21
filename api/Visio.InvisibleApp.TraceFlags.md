@@ -20,7 +20,7 @@ Gets or sets events logged during a Microsoft Visio instance. Read/write.
 
  _expression_. 'TraceFlags'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

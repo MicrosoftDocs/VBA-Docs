@@ -18,7 +18,7 @@ Occurs after the sheet table has been updated.
 
  _expression_. 'SheetTableUpdate'_(Sh,_ _Target)_
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

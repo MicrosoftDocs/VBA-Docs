@@ -20,7 +20,7 @@ When set to  **True** (default), Microsoft Excel identifies, with an AutoCorrect
 
  _expression_. 'OmittedCells'
 
- _expression_ A variable that represents an **ErrorCheckingOptions** object.
+ _expression_ A variable that represents an [ErrorCheckingOptions](./Excel.ErrorCheckingOptions.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **String** containing all the VBScript code in the form's Script Edit
 
  _expression_. 'ScriptText'
 
- _expression_ A variable that represents a **[FormDescription](Outlook.FormDescription.md)** object.
+ _expression_ A variable that represents a '[FormDescription](Outlook.FormDescription.md)' object.
 
 
 ## Example

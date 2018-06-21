@@ -20,7 +20,7 @@ Returns an  **Editor** object that represents a new permission for a specified u
 
  _expression_. 'Add'( '_EditorID_' )
 
- _expression_ Required. A variable that represents an **[Editors](Word.Editors.md)** collection.
+ _expression_ Required. A variable that represents an '[Editors](Word.Editors.md)' collection.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the  **[Exceptions](Outlook.Exceptions.md)** collection for a specified 
 
  _expression_. 'Exceptions'
 
- _expression_ A variable that represents a **RecurrencePattern** object.
+ _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

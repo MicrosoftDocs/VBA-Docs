@@ -20,7 +20,7 @@ Returns a  **Boolean** indicating whether Word displays schema validation errors
 
  _expression_. 'HideValidationErrors'
 
- _expression_ An expression that returns an **[XMLSchemaReferences](Word.XMLSchemaReferences.md)** collection.
+ _expression_ An expression that returns an '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
 
 
 ## Remarks

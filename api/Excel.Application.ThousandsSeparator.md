@@ -20,7 +20,7 @@ Sets or returns the character used for the thousands separator as a  **String** 
 
  _expression_. 'ThousandsSeparator'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

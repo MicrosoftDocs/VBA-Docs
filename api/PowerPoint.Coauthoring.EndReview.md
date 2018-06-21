@@ -20,7 +20,7 @@ Terminates merge mode and ends the review.
 
  _expression_. 'EndReview'
 
- _expression_ A variable that represents a **Coauthoring** object.
+ _expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
 
 
 ## Remarks

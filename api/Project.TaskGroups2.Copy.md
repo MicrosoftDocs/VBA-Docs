@@ -17,7 +17,7 @@ Makes a copy of a group definition for the  **TaskGroups2** collection and retur
 
  _expression_. 'Copy'( ' _Name_', ' _NewName_' )
 
- _expression_ An expression that returns a **TaskGroups2** object.
+ _expression_ An expression that returns a 'TaskGroups2' object.
 
 
 ### Parameters

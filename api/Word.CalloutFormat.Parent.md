@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Call
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **[CalloutFormat](Word.CalloutFormat.md)** object.
+ _expression_ A variable that represents an '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## See also

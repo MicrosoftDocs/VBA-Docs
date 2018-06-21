@@ -20,7 +20,7 @@ Deletes the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90
 
  _expression_. 'Delete'( '_Id_' )
 
- _expression_ An expression that returns a **CustomerData** object.
+ _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 
 
 ### Parameters

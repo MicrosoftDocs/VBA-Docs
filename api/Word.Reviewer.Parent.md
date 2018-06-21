@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Revi
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **Reviewer** object.
+ _expression_ An expression that returns a [Reviewer](./Word.Reviewer.md) object.
 
 
 ## See also

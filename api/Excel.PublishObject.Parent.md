@@ -20,7 +20,7 @@ Returns the parent object for the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **PublishObject** object.
+ _expression_ A variable that represents a [PublishObject](./Excel.PublishObject.md) object.
 
 
 ## See also

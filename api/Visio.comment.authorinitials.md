@@ -15,7 +15,7 @@ Returns the initials of the author of the specified comment. Read-only  **String
 
  _expression_. 'AuthorInitials'
 
- _expression_ A variable that represents a **Comment** object.
+ _expression_ A variable that represents a 'Comment' object.
 
 
 ## Property value

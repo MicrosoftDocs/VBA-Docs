@@ -20,7 +20,7 @@ Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , 
 
  _expression_. 'Shape'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
 
 ### Return Value

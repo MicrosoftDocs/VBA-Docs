@@ -20,7 +20,7 @@ Rejects all revisions in a document that are displayed on the screen.
 
  _expression_. 'RejectAllRevisionsShown'
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Example

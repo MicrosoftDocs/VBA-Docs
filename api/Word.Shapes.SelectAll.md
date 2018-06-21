@@ -20,7 +20,7 @@ Selects all the shapes in a collection of shapes.
 
  _expression_. 'SelectAll'
 
- _expression_ Required. A variable that represents a **[Shapes](Word.shapes.md)** collection.
+ _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
 ## Remarks

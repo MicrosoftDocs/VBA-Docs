@@ -20,7 +20,7 @@ Gets or sets the notes for the project. Read/write  **String**.
 
  _expression_. 'ProjectNotes'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

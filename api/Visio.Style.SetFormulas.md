@@ -20,7 +20,7 @@ Sets the formulas of one or more cells.
 
  _expression_. 'SetFormulas'( '_SRCStream()_' , '_formulaArray()_' , '_Flags_' )
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
 ### Parameters

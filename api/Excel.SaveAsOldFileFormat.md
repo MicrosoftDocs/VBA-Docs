@@ -17,7 +17,7 @@ In a host application such as Microsoft PowerPoint, saves a chart in the specifi
 
  _expression_. 'SaveAsOldFileFormat( _MajorVersion_',  '_MinorVersion)_'
 
- _expression_ Required. An expression that returns an **Application** object.
+ _expression_ Required. An expression that returns an [Application](./Excel.Application(Graph property).md) object.
 
  **MajorVersion** Optional **Variant**. Specifies the major version number of the file format you want to use.
  **MinorVersion** Optional **Variant**. Specifies the minor version number of the file format you want to use.

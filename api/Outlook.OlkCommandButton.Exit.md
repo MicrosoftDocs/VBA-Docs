@@ -20,7 +20,7 @@ Occurs just after the focus passes from this control to another control on the s
 
  _expression_. 'Exit'( '_Cancel_' )
 
- _expression_ A variable that represents an **OlkCommandButton** object.
+ _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ### Parameters

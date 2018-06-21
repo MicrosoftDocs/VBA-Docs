@@ -20,7 +20,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
  _expression_. 'Application'
 
- _expression_ Required. A variable that represents a **[Sentences](Word.sentences.md)** collection.
+ _expression_ Required. A variable that represents a '[Sentences](Word.sentences.md)' collection.
 
 
 ## Remarks

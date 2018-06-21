@@ -20,7 +20,7 @@ Pastes chart data from the Clipboard into the specified chart.
 
  _expression_. 'Paste'( '_Type_' )
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ### Parameters

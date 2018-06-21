@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Installed'
 
- _expression_ An expression that returns an **[AddIn](Word.AddIn.md)** object.
+ _expression_ An expression that returns an '[AddIn](Word.AddIn.md)' object.
 
 
 ## Remarks

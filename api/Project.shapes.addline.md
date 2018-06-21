@@ -13,7 +13,7 @@ Adds a line to a report, and returns a  **Shape** object that represents the lin
 
  _expression_. 'AddLine' _(BeginX,_ _BeginY,_ _EndX,_ _EndY)_
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a 'Shapes' object.
 
 
 ### Parameters

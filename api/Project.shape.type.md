@@ -13,7 +13,7 @@ Gets the shape type. Read-only  **[MsoShapeType](http://msdn.microsoft.com/en-us
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

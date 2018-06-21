@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'EvenlySpaced'
 
- _expression_ A variable that represents a **[TextColumns](Word(textcolumns).md)** object.
+ _expression_ A variable that represents a '[TextColumns](Word(textcolumns).md)' object.
 
 
 ## Remarks

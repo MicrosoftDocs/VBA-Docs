@@ -20,7 +20,7 @@ Returns or sets if the first column is formatted for the specified  **ListObject
 
  _expression_. 'ShowTableStyleFirstColumn'
 
- _expression_ A variable that represents a **ListObject** object.
+ _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a [Crop](http://msdn.microsoft.com/library/21ac150e-0a8f-c77b-71
 
  _expression_. 'Crop'
 
- _expression_ An expression that returns a **PictureFormat** object.
+ _expression_ An expression that returns a [PictureFormat](./Word.PictureFormat.md) object.
 
 
 ## Remarks

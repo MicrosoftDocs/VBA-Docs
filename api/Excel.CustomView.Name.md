@@ -20,7 +20,7 @@ Returns a  **String** value that represents the name of the object.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **CustomView** object.
+ _expression_ A variable that represents a [CustomView](./Excel.CustomView.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns an individual  **Document** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[Documents](Word.documents.md)** collection.
+ _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
 ### Parameters

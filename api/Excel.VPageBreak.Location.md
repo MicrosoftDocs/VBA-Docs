@@ -20,7 +20,7 @@ Returns the cell (a **Range** object) that defines the page-break location. Vert
 
  _expression_. 'Location'
 
- _expression_ A variable that represents a **VPageBreak** object.
+ _expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
 
 
 ## Example

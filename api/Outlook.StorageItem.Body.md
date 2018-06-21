@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
  _expression_. 'Body'
 
- _expression_ A variable that represents a **StorageItem** object.
+ _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
 
 
 ## Remarks

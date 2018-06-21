@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. 'Select'
 
- _expression_ A variable that represents a **Trendline** object.
+ _expression_ A variable that represents a [Trendline](./Excel.Trendline(Graph object).md) object.
 
 
 ### Return Value

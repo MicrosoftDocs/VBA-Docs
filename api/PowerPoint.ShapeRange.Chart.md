@@ -20,7 +20,7 @@ Returns the  **Chart** object of the current **ShapeRange** object. Read-only.
 
  _expression_. 'Chart'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

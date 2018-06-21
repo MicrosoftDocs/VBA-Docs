@@ -20,7 +20,7 @@ Returns the custom list number for an array of strings. You can use this method 
 
  _expression_. 'GetCustomListNum'( '_ListArray_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

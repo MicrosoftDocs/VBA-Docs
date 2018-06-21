@@ -20,7 +20,7 @@ Returns an individual  **Conflicts** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns a **Conflicts** object.
+ _expression_ An expression that returns a [Conflicts](./Word.Conflicts.md) object.
 
 
 ### Parameters

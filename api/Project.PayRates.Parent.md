@@ -17,7 +17,7 @@ Gets the parent of the  **PayRates** object. Read-only **Resource**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **PayRates** object.
+ _expression_ A variable that represents a 'PayRates' object.
 
 
 ## Remarks

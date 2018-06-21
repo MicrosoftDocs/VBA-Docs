@@ -17,6 +17,6 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

@@ -20,7 +20,7 @@ Imports a file into the current document.
 
  _expression_. 'Import'( '_FileName_' )
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Updates the specified link format.
 
  _expression_. 'Update'
 
- _expression_ Required. A variable that represents a **[LinkFormat](Word.LinkFormat.md)** object.
+ _expression_ Required. A variable that represents a '[LinkFormat](Word.LinkFormat.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Sets the styles of bars on the Resource Graph view, where colors can be hexadeci
 
  _expression_. 'ResourceGraphBarStylesEx'( ' _TopLeftShowAs_', ' _TopLeftColor_', ' _TopLeftPattern_', ' _BottomLeftShowAs_', ' _BottomLeftColor_', ' _BottomLeftPattern_', ' _TopRightShowAs_', ' _TopRightColor_', ' _TopRightPattern_', ' _BottomRightShowAs_', ' _BottomRightColor_', ' _BottomRightPattern_', ' _ShowValues_', ' _ShowAvailabilityLine_', ' _PercentBarOverlap_', ' _ProposedLeftShowAs_', ' _ProposedLeftColor_', ' _ProposedLeftPattern_', ' _ProposedRightShowAs_', ' _ProposedRightColor_', ' _ProposedRightPattern_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

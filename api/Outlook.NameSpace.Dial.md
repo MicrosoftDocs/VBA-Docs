@@ -20,7 +20,7 @@ Displays the  **New Call** dialog box that allows users to dial the primary phon
 
  _expression_. 'Dial'( '_ContactItem_' )
 
- _expression_ A variable that represents a **NameSpace** object.
+ _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ### Parameters

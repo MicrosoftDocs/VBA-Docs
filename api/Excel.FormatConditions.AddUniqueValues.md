@@ -20,7 +20,7 @@ Returns a new  **[UniqueValues](Excel.UniqueValues.md)** object representing a c
 
  _expression_. 'AddUniqueValues'
 
- _expression_ A variable that represents a **FormatConditions** object.
+ _expression_ A variable that represents a [FormatConditions](./Excel.FormatConditions.md) object.
 
 
 ### Return Value

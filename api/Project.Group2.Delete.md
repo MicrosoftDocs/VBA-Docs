@@ -17,7 +17,7 @@ Deletes the  **Group2** object from a **Groups2** collection.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns a **Group2** object.
+ _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 
  _expression_. 'Save'
 
- _expression_ A variable that represents a **TaskRequestUpdateItem** object.
+ _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

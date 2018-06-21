@@ -17,7 +17,7 @@ Gets the parent of the  **Exception** object. Read-only **Calendar**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **Exception** object.
+ _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## Remarks

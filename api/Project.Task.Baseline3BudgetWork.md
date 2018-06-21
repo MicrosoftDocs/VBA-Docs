@@ -17,6 +17,6 @@ Gets or sets the baseline3 budget work for the rollup calculated budgeted work h
 
  _expression_. 'Baseline3BudgetWork'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

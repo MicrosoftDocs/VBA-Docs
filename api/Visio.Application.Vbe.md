@@ -20,7 +20,7 @@ Gets the root object of the object model exposed by Microsoft Visual Basic for A
 
  _expression_. 'Vbe'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

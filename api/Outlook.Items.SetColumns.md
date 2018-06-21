@@ -20,7 +20,7 @@ Caches certain properties for extremely fast access to those particular properti
 
  _expression_. 'SetColumns'( '_Columns_' )
 
- _expression_ A variable that represents an **Items** object.
+ _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HorizontalAnchor'
 
- _expression_ An expression that returns a **TextFrame2** object.
+ _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
 ### Return Value

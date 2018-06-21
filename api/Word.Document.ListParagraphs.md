@@ -20,7 +20,7 @@ Returns a  **ListParagraphs** object that represents all the numbered paragraphs
 
  _expression_. 'ListParagraphs'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

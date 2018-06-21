@@ -20,7 +20,7 @@ Returns or sets a value for an entry in the Windows registry under the following
 
  _expression_. 'ProfileString'( '_Section_' , '_ Key_' )
 
- _expression_ An expression that returns a **[System](Word.System.md)** object.
+ _expression_ An expression that returns a '[System](Word.System.md)' object.
 
 
 ## Example

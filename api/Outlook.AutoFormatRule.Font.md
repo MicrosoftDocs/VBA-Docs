@@ -20,7 +20,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
  _expression_. 'Font'
 
- _expression_ A variable that represents an **AutoFormatRule** object.
+ _expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
 
 
 ## See also

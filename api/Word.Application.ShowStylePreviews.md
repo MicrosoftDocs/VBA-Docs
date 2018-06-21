@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word shows a pr
 
  _expression_. 'ShowStylePreviews'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Word.Application.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Returns a Range object that represents the specified cell or range of cells. Rea
 
  _expression_. 'Range( _Range1_',  '_Range2_)'
 
- _expression_ Required. An expression that returns a **DataSheet** object.
+ _expression_ Required. An expression that returns a [DataSheet](./Excel.DataSheet(Graph property).md) object.
 
  **Range 1** Required for a single cell. The name of the specified range. This must be an A1-style reference in the language the macro is written in. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). It can also include dollar signs, but they're ignored.
 OR

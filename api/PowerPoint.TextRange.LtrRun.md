@@ -20,7 +20,7 @@ Sets the direction of text in a text range to read from left to right.
 
  _expression_. 'LtrRun'
 
- _expression_ A variable that represents a **TextRange** object.
+ _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ## Remarks

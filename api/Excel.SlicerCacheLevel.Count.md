@@ -20,7 +20,7 @@ Returns the number of  **[SlicerItem](Excel.SlicerItem.md)** objects in the spec
 
  _expression_. 'Count'
 
- _expression_ A variable that returns a **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object.
+ _expression_ A variable that returns a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
 ### Return Value

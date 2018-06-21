@@ -20,7 +20,7 @@ Determines whether TrueType fonts are printed as graphics. Read/write.
 
  _expression_. 'PrintFontsAsGraphics'
 
- _expression_ A variable that represents a **PrintOptions** object.
+ _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
 ### Return Value

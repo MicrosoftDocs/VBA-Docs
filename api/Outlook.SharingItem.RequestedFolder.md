@@ -20,7 +20,7 @@ Returns an  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** constant that re
 
  _expression_. 'RequestedFolder'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

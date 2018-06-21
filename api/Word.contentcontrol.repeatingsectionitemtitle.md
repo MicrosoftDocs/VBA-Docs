@@ -18,7 +18,7 @@ Returns or sets the name of the repeating section items used in the context menu
 
  _expression_. 'RepeatingSectionItemTitle'
 
- _expression_ A variable that represents a **ContentControl** object.
+ _expression_ A variable that represents a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

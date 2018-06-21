@@ -20,7 +20,7 @@ Deletes an object from a collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **CardView** object.
+ _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
 
 
 ## See also

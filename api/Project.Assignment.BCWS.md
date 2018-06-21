@@ -17,6 +17,6 @@ Gets the budgeted cost of work scheduled for the assignment. Read-only  **Varian
 
  _expression_. 'BCWS'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

@@ -20,7 +20,7 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant that indicates the 
 
  _expression_. 'ViewType'
 
- _expression_ A variable that represents a **TimelineView** object.
+ _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 
 
 ## See also

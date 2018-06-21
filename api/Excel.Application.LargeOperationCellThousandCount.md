@@ -20,7 +20,7 @@ Returns or sets the maximum number of cells needed in an operation beyond which 
 
  _expression_. 'LargeOperationCellThousandCount'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## See also

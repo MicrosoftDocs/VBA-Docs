@@ -18,7 +18,7 @@ Returns a [TableObject Object (Excel)](tableobject-object-excel.md) object. Read
 
  _expression_. 'TableObject'
 
- _expression_ A variable that represents a **ListObject** object.
+ _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 
 
 ## Remarks

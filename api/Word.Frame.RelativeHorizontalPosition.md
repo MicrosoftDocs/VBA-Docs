@@ -20,7 +20,7 @@ Specifies the relative horizontal position of a frame. Read/write  **[WdRelative
 
  _expression_. 'RelativeHorizontalPosition'
 
- _expression_ An expression that represents a **[Frame](Word.Frame.md)** object.
+ _expression_ An expression that represents a '[Frame](Word.Frame.md)' object.
 
 
 ## Example

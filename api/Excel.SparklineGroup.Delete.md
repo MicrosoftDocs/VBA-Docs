@@ -20,7 +20,7 @@ Deletes the sparkline group.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
+ _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ### Return Value

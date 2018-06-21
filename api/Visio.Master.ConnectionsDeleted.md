@@ -18,9 +18,9 @@ Occurs after connections between shapes have been removed.
 
 ## Syntax
 
-Private Sub  _expression_ _**ConnectionsDeleted**( **_ByVal Connects As [IVCONNECTS]_** )
+Private Sub  _expression_ _'ConnectionsDeleted'( **_ByVal Connects As [IVCONNECTS]_** )
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Parameters

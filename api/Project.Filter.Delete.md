@@ -20,6 +20,6 @@ Deletes the  **Filter** object from a **Filters** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Filter** object.
+ _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 
 

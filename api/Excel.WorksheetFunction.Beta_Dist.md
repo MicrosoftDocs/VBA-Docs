@@ -20,7 +20,7 @@ Returns the beta cumulative distribution function.
 
  _expression_. 'Beta_Dist'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' , '_Arg5_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

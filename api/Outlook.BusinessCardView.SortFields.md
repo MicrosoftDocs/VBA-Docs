@@ -20,7 +20,7 @@ Returns an  **[OrderFields](Outlook.OrderFields.md)** collection object that rep
 
  _expression_. 'SortFields'
 
- _expression_ An expression that returns a **BusinessCardView** object.
+ _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 
 
 ## See also

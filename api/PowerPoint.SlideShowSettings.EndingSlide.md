@@ -20,7 +20,7 @@ Returns or sets the last slide to be displayed in the specified slide show. Read
 
  _expression_. 'EndingSlide'
 
- _expression_ A variable that represents an **SlideShowSettings** object.
+ _expression_ A variable that represents an [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
 ### Return Value

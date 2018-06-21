@@ -20,7 +20,7 @@ Specifies the left margin, which is used when printing. Read/write.
 
  _expression_. 'LeftMargin'( '_UnitsNameOrCode_' )
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Parameters

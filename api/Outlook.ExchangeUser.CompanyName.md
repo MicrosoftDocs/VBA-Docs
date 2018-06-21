@@ -20,7 +20,7 @@ Returns a  **String** representing the name of the company for the **[ExchangeUs
 
  _expression_. 'CompanyName'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

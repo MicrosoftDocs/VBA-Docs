@@ -20,7 +20,7 @@ Returns a  **[Walls](Excel.Walls(objec).md)** object that allows the user to ind
 
  _expression_. 'BackWall'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ## See also

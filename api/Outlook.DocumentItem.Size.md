@@ -20,7 +20,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
  _expression_. 'Size'
 
- _expression_ A variable that represents a **DocumentItem** object.
+ _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
 
 
 ## See also

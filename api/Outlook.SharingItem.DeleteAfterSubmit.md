@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that is **True** if a copy of the item is n
 
  _expression_. 'DeleteAfterSubmit'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

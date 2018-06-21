@@ -20,7 +20,7 @@ Moves a Microsoft Outlook item to a new folder.
 
  _expression_. 'Move'( '_DestFldr_' )
 
- _expression_ A variable that represents a **NoteItem** object.
+ _expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
 
 
 ### Parameters

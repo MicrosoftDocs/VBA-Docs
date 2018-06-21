@@ -20,7 +20,7 @@ Returns a  **String** representing the topic of the conversation thread of the O
 
  _expression_. 'ConversationTopic'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

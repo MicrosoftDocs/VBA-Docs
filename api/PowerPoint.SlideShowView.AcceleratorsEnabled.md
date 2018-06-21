@@ -20,7 +20,7 @@ Determines whether shortcut keys are enabled during a slide show. Read/write.
 
  _expression_. 'AcceleratorsEnabled'
 
- _expression_ A variable that represents an **SlideShowView** object.
+ _expression_ A variable that represents an [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ### Return Value

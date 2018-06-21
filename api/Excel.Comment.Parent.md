@@ -20,7 +20,7 @@ Returns the parent object for the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Comment** object.
+ _expression_ A variable that represents a [Comment](./Excel.Comment.md) object.
 
 
 ## See also

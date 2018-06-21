@@ -20,7 +20,7 @@ Returns a  **[Placeholders](PowerPoint.Placeholders.md)** collection that repres
 
  _expression_. 'Placeholders'
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns an  **[OMathScrSup](Word.OMathScrSup.md)** object that represents the ma
 
  _expression_. 'ScrSup'
 
- _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
+ _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 
 
 ## See also

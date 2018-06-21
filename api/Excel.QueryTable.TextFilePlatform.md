@@ -20,7 +20,7 @@ Returns or sets the origin of the text file you're importing into the query tabl
 
  _expression_. 'TextFilePlatform'
 
- _expression_ A variable that represents a **QueryTable** object.
+ _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 
 
 ## Remarks

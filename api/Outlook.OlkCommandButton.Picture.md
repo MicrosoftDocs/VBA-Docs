@@ -20,7 +20,7 @@ Returns or sets a  **StdPicture** value that represents the picture that is disp
 
  _expression_. 'Picture'
 
- _expression_ A variable that represents an **OlkCommandButton** object.
+ _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

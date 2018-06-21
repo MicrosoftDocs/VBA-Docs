@@ -20,7 +20,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
  _expression_. 'Range'
 
- _expression_ Required. A variable that represents a **[Break](Word.Break.md)** object.
+ _expression_ Required. A variable that represents a '[Break](Word.Break.md)' object.
 
 
 ## See also

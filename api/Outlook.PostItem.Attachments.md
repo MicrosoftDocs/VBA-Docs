@@ -20,7 +20,7 @@ Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all
 
  _expression_. 'Attachments'
 
- _expression_ A variable that represents a **PostItem** object.
+ _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## See also

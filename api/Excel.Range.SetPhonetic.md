@@ -20,7 +20,7 @@ Creates  **[Phonetic](Excel.Phonetic.md)** objects for all the cells in the spec
 
  _expression_. 'SetPhonetic'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Remarks

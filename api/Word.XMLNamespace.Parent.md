@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **XMLN
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[XMLNamespace](Word.XMLNamespace.md)** object.
+ _expression_ Required. A variable that represents a '[XMLNamespace](Word.XMLNamespace.md)' object.
 
 
 ## See also

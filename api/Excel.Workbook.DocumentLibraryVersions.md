@@ -20,7 +20,7 @@ Returns a  **[DocumentLibraryVersions](http://msdn.microsoft.com/library/075c031
 
  _expression_. 'DocumentLibraryVersions'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

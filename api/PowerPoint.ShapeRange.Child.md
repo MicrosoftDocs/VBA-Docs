@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Child'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Determines whether a progress indicator is shown while performing certain operat
 
  _expression_. 'ShowProgress'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

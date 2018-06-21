@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the URL of the Web page for the contact
 
  _expression_. 'WebPage'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

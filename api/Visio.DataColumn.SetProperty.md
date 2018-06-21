@@ -23,7 +23,7 @@ Sets the value of the specified data-column property.
 
  _expression_. 'SetProperty'( '_Property_' , '_Value_' )
 
- _expression_ An expression that returns a **DataColumn** object.
+ _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
 
 ### Parameters

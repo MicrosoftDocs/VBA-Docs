@@ -17,7 +17,7 @@ Gets or sets an  **[OutlineCodes](Project.outlinecodes(object).md)** collection 
 
  _expression_. 'GlobalOutlineCodes'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

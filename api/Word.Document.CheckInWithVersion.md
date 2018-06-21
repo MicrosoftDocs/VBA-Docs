@@ -20,7 +20,7 @@ Saves a document to a server from a local computer, and sets the local document 
 
  _expression_. 'CheckInWithVersion'( '_SaveChanges_' , '_Comments_' , '_MakePublic_' , '_VersionType_' )
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ### Parameters

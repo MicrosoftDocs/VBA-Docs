@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 ## Example
 

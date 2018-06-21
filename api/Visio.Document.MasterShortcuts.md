@@ -20,7 +20,7 @@ Returns the  **MasterShortcuts** collection for a document stencil. Read-only.
 
  _expression_. 'MasterShortcuts'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

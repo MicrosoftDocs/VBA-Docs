@@ -20,7 +20,7 @@ Returns or sets the location of a page break. Can be one of the following  **[Xl
 
  _expression_. 'PageBreak'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Remarks

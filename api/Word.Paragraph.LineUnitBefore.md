@@ -20,7 +20,7 @@ Returns or sets the amount of spacing (in gridlines) before the specified paragr
 
  _expression_. 'LineUnitBefore'
 
- _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Example

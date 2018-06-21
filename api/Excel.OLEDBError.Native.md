@@ -20,7 +20,7 @@ Returns a provider-specific numeric value that specifies an error. The error num
 
  _expression_. 'Native'
 
- _expression_ A variable that represents an **OLEDBError** object.
+ _expression_ A variable that represents an [OLEDBError](./Excel.OLEDBError.md) object.
 
 
 ## Example

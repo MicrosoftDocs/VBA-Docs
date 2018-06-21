@@ -20,7 +20,7 @@ Returns the number of items in the  **Conflicts** collection. Read-only.
 
  _expression_. 'Count'
 
- _expression_ An expression that returns a **Conflicts** object.
+ _expression_ An expression that returns a [Conflicts](./Word.Conflicts.md) object.
 
 
 ## Example

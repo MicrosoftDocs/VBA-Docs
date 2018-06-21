@@ -20,7 +20,7 @@ Returns or sets the rotation of the extruded shape around the x-axis in degrees.
 
  _expression_. 'RotationX'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

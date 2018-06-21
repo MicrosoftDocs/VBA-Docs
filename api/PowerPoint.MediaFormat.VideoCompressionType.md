@@ -20,7 +20,7 @@ Returns a  **String** that represents the video compression format of the media.
 
  _expression_. 'VideoCompressionType'
 
- _expression_ An expression that returns a **MediaFormat** object.
+ _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
 ### Return Value

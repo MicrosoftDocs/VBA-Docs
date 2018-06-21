@@ -20,7 +20,7 @@ Selects one or more rows.
 
  _expression_. 'SelectRow'( ' _Row_', ' _RowRelative_', ' _Height_', ' _Extend_', ' _Add_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

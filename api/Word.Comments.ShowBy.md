@@ -20,7 +20,7 @@ Returns or sets the name of the reviewer whose comments are shown in the comment
 
  _expression_. 'ShowBy'
 
- _expression_ An expression that returns a **[Comments](Word.comments.md)** collection object.
+ _expression_ An expression that returns a '[Comments](Word.comments.md)' collection object.
 
 
 ## Remarks

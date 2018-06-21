@@ -17,6 +17,6 @@ Gets the work (in minutes) for the resource. Read-only  **Variant**.
 
  _expression_. 'Work'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

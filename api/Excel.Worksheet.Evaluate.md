@@ -20,7 +20,7 @@ Converts a Microsoft Excel name to an object or a value.
 
  _expression_. 'Evaluate'( '_Name_' )
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ### Parameters

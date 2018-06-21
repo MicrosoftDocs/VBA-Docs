@@ -20,7 +20,7 @@ Calling this method deletes all value filters in the  **PivotFilters** collectio
 
  _expression_. 'ClearValueFilters'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## Remarks

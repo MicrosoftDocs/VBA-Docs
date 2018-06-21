@@ -17,6 +17,6 @@ Gets the earned value scheduled variance (SV) of the task. Read-only  **Variant*
 
  _expression_. 'SV'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

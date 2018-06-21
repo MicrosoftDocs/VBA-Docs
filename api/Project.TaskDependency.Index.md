@@ -17,7 +17,7 @@ Gets the index of a  **TaskDependency** object in the **TaskDependencies** conta
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **TaskDependency** object.
+ _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 
 
 ## Remarks

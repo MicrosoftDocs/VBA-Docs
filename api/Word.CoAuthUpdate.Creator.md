@@ -20,7 +20,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. 'Creator'
 
- _expression_ An expression that returns a **CoAuthUpdate** object.
+ _expression_ An expression that returns a [CoAuthUpdate](./Word.CoAuthUpdate.md) object.
 
 
 ## Remarks

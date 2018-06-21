@@ -17,6 +17,6 @@ Gets the amount of regular work for the assignment. Read/write  **Variant**.
 
  _expression_. 'RegularWork'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

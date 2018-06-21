@@ -20,7 +20,7 @@ Returns an integer that identifies the file format associated with the specified
 
  _expression_. 'FileFormat'
 
- _expression_ A variable that represents a **FileExportConverter** object.
+ _expression_ A variable that represents a [FileExportConverter](./Excel.FileExportConverter.md) object.
 
 
 ## Example

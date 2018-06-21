@@ -20,7 +20,7 @@ Returns the name of the specified file converter. Read-only  **String** .
 
  _expression_. 'FormatName'
 
- _expression_ A variable that represents a **[FileConverter](Word.FileConverter.md)** object.
+ _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
 
 ## Remarks

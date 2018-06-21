@@ -17,7 +17,7 @@ Gets or sets the way the task is calculated; that is, which one of units, durati
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

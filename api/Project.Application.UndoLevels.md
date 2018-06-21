@@ -20,7 +20,7 @@ Gets or sets the number of undo levels. The default is 20. Read/write  **Long**.
 
  _expression_. 'UndoLevels'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

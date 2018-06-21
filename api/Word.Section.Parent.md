@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Sect
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[Section](Word.Section.md)** object.
+ _expression_ Required. A variable that represents a '[Section](Word.Section.md)' object.
 
 
 ## See also

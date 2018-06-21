@@ -20,7 +20,7 @@ Returns an object's type. Read-only.
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
 ### Return Value

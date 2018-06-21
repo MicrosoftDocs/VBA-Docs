@@ -20,7 +20,7 @@ Returns a  **MetaProperties** collection that represents the metadata stored in 
 
  _expression_. 'ContentTypeProperties'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## See also

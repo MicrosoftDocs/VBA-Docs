@@ -15,7 +15,7 @@ Gets a  **TextRange2** object that represents the specified subset of text parag
 
  _expression_. 'Paragraphs'( '_Start_', '_Length_' )
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ### Parameters

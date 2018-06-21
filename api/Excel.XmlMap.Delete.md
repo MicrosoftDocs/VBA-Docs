@@ -20,7 +20,7 @@ Removes the specified XML map from the workbook.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **XmlMap** object.
+ _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
 ## Remarks

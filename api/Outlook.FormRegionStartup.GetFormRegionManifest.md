@@ -20,7 +20,7 @@ Obtains the XML manifest for a form region.
 
  _expression_. 'GetFormRegionManifest'( '_FormRegionName_' , '_LCID_' )
 
- _expression_ A variable that represents a **FormRegionStartup** object.
+ _expression_ A variable that represents a 'FormRegionStartup' object.
 
 
 ### Parameters

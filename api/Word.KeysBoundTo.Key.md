@@ -20,7 +20,7 @@ Returns a  **KeyBinding** object that represents the specified custom key combin
 
  _expression_. 'Key'( '_KeyCode_' , '_KeyCode2_' )
 
- _expression_ A variable that represents a **[KeysBoundTo](Word.keysboundto.md)** object.
+ _expression_ A variable that represents a '[KeysBoundTo](Word.keysboundto.md)' object.
 
 
 ### Parameters

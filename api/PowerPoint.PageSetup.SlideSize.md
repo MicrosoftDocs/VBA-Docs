@@ -20,7 +20,7 @@ Returns or sets the slide size for the specified presentation. Read/write.
 
  _expression_. 'SlideSize'
 
- _expression_ A variable that represents a **PageSetup** object.
+ _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Displays the  **Project Help** window, with the **Help** Toolbar, **Assistance**
 
  _expression_. 'HelpAnswerWizard'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

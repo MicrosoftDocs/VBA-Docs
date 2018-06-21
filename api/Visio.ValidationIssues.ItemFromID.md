@@ -20,7 +20,7 @@ Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that matches
 
  _expression_. 'ItemFromID'( '_IssueID_' )
 
- _expression_ A variable that represents a **[ValidationIssues](Visio.ValidationIssues.md)** object.
+ _expression_ A variable that represents a '[ValidationIssues](Visio.ValidationIssues.md)' object.
 
 
 ### Parameters

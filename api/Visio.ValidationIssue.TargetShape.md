@@ -20,7 +20,7 @@ Returns the  **[Shape](Visio.Shape.md)** object that is associated with the vali
 
  _expression_. 'TargetShape'
 
- _expression_ A variable that represents a **[ValidationIssue](Visio.ValidationIssue.md)** object.
+ _expression_ A variable that represents a '[ValidationIssue](Visio.ValidationIssue.md)' object.
 
 
 ### Return Value

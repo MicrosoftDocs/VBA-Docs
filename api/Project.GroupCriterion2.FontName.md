@@ -17,7 +17,7 @@ Gets or sets the name of the font for a field used as a criterion in a group def
 
  _expression_. 'FontName'
 
- _expression_ An expression that returns a **GroupCriterion2** object.
+ _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 
 
 ## See also

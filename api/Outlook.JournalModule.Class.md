@@ -20,7 +20,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_. 'Class'
 
- _expression_ A variable that represents a **JournalModule** object.
+ _expression_ A variable that represents a [JournalModule](./Outlook.JournalModule.md) object.
 
 
 ## Remarks

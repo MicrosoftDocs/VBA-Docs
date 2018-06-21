@@ -20,7 +20,7 @@ Returns or sets the default tray your printer uses to print documents. Read/writ
 
  _expression_. 'DefaultTray'
 
- _expression_ A variable that represents a **[Options](Word.Options.md)** object.
+ _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the first character
 
  _expression_. 'First'
 
- _expression_ Required. A variable that represents a **[Characters](Word.characters.md)** collection.
+ _expression_ Required. A variable that represents a '[Characters](Word.characters.md)' collection.
 
 
 ## See also

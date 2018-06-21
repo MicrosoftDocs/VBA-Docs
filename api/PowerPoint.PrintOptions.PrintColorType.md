@@ -20,7 +20,7 @@ Returns or sets the way the specified document will be printed: in black and whi
 
  _expression_. 'PrintColorType'
 
- _expression_ A variable that represents a **PrintOptions** object.
+ _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
 ### Return Value

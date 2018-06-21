@@ -13,7 +13,7 @@ Copies a selected object to the Clipboard as a picture.
 
  _expression_. 'CopyPicture' _(Appearance,_ _Format,_ _Size)_
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ### Parameters

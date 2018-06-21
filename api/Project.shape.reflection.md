@@ -13,7 +13,7 @@ Gets the reflection formatting for the shape. Read-only  **[ReflectionFormat](ht
 
  _expression_. 'Reflection'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

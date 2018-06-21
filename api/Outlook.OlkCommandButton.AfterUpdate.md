@@ -20,7 +20,7 @@ Occurs after the data in the control has been changed through the user interface
 
  _expression_. 'AfterUpdate'
 
- _expression_ A variable that represents an **OlkCommandButton** object.
+ _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ## Remarks

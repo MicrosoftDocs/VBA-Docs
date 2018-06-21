@@ -20,7 +20,7 @@ Returns the  **Styles** collection for a document. Read-only.
 
  _expression_. 'Styles'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

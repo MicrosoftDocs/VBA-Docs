@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Cell
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **[Cells](Word.cells.md)** object.
+ _expression_ A variable that represents a '[Cells](Word.cells.md)' object.
 
 
 ## See also

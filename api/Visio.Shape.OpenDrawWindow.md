@@ -20,7 +20,7 @@ Opens a new drawing window that displays a group.
 
  _expression_. 'OpenDrawWindow'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

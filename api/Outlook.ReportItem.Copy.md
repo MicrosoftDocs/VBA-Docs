@@ -20,7 +20,7 @@ Creates another instance of an object.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the city name portion of the business
 
  _expression_. 'BusinessAddressCity'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

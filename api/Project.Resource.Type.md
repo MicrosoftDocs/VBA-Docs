@@ -17,7 +17,7 @@ Gets or sets the type of the resource (work, material, or cost). Read/write  **P
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

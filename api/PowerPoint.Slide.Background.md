@@ -20,7 +20,7 @@ Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the
 
  _expression_. 'Background'
 
- _expression_ A variable that represents a **Slide** object.
+ _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
 ### Return Value

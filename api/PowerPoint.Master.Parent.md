@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ### Return Value

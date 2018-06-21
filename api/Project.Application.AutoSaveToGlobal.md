@@ -20,7 +20,7 @@ Specifies whether to automatically add new views, field templates, filters, and 
 
  _expression_. 'AutoSaveToGlobal'( ' _OnOff_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

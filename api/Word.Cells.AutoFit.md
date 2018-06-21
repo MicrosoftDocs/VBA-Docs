@@ -20,7 +20,7 @@ Changes the width of a table column to accommodate the width of the text without
 
  _expression_. 'AutoFit'
 
- _expression_ Required. A variable that represents a **[Cells](Word.cells.md)** collection.
+ _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Remarks

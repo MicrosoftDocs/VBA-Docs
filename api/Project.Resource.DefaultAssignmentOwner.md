@@ -17,7 +17,7 @@ Sets or gets the user name responsible for providing progress updates for assign
 
  _expression_. 'DefaultAssignmentOwner'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

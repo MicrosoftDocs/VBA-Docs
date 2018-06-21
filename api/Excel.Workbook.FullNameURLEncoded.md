@@ -20,7 +20,7 @@ Returns a  **String** indicating the name of the object, including its path on d
 
  _expression_. 'FullNameURLEncoded'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

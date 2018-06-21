@@ -20,7 +20,7 @@ Returns or sets what happens if the search begins at a point other than the begi
 
  _expression_. 'Wrap'
 
- _expression_ Required. A variable that represents a **[Find](Word.Find.md)** object.
+ _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ## Example

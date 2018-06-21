@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Add'( '_Path_' , '_NamespaceURI_' , '_Alias_' , '_InstallForAllUsers_' )
 
- _expression_ Required. A variable that represents a **** collection.
+ _expression_ Required. A variable that represents a '' collection.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Creates a Web presentation (in HTML format) containing slides from any loaded pr
 
  _expression_. 'PublishSlides'( '_SlideLibraryUrl_', '_Overwrite_' )
 
- _expression_ An expression that returns a **Presentation** object.
+ _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Parameters

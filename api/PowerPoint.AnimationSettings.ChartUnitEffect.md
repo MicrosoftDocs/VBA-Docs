@@ -20,7 +20,7 @@ Returns or sets a value that indicates whether the graph range is animated by se
 
  _expression_. 'ChartUnitEffect'
 
- _expression_ A variable that represents a **AnimationSettings** object.
+ _expression_ A variable that represents a [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
 ### Return Value

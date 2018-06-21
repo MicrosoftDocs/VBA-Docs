@@ -20,7 +20,7 @@ Returns a value that indicates the order in which this change was performed rela
 
  _expression_. 'Order'
 
- _expression_ A variable that represents a **[ValueChange](Excel.ValueChange.md)** object.
+ _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ### Return Value

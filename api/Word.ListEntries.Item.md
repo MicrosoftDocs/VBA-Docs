@@ -20,7 +20,7 @@ Returns an individual  **ListEntry** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[ListEntries](Word.listentries.md)** collection.
+ _expression_ Required. A variable that represents a '[ListEntries](Word.listentries.md)' collection.
 
 
 ### Parameters

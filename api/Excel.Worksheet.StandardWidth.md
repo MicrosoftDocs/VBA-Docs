@@ -20,7 +20,7 @@ Returns or sets the standard (default) width of all the columns in the worksheet
 
  _expression_. 'StandardWidth'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Remarks

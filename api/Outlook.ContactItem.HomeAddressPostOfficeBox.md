@@ -20,7 +20,7 @@ Returns or sets a  **String** the post office box number portion of the home add
 
  _expression_. 'HomeAddressPostOfficeBox'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

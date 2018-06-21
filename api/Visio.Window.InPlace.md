@@ -20,7 +20,7 @@ Specifies whether a window is open in place, or whether a document is being view
 
  _expression_. 'InPlace'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

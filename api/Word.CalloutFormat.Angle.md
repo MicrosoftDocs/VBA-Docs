@@ -20,7 +20,7 @@ Returns or sets the angle of the callout line. Read/write  **[MsoCalloutAngleTyp
 
  _expression_. 'Angle'
 
- _expression_ A variable that represents a **[CalloutFormat](Word.CalloutFormat.md)** object.
+ _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Remarks

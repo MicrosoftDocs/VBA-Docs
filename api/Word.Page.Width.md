@@ -20,7 +20,7 @@ Returns a  **Long** that represents the width, in points, of the paper defined i
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **[Page](Word.Page.md)** object.
+ _expression_ A variable that represents a '[Page](Word.Page.md)' object.
 
 
 ## Remarks

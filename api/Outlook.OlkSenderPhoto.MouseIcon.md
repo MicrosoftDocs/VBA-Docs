@@ -20,7 +20,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
  _expression_. 'MouseIcon'
 
- _expression_ A variable that represents an **OlkSenderPhoto** object.
+ _expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks

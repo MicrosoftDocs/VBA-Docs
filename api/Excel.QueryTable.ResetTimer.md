@@ -20,7 +20,7 @@ Resets the refresh timer for the specified query table or PivotTable report to t
 
  _expression_. 'ResetTimer'
 
- _expression_ A variable that represents a **QueryTable** object.
+ _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 
 
 ## Example

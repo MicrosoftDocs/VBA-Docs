@@ -15,7 +15,7 @@ The Item property for the EngagementComments object. Introduced in Office 2016.
 
  _expression_. 'Item'
 
- _expression_ A variable that represents a **EngagementComments** object.
+ _expression_ A variable that represents a 'EngagementComments' object.
 
 
 ## See also

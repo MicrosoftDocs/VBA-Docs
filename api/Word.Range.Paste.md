@@ -20,7 +20,7 @@ Inserts the contents of the Clipboard at the specified range.
 
  _expression_. 'Paste'
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

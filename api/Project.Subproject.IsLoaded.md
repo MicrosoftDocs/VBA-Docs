@@ -17,6 +17,6 @@ ms.date: 06/08/2017
 
  _expression_. 'IsLoaded'
 
- _expression_ An expression that returns a **Subproject** object.
+ _expression_ An expression that returns a [Subproject](./Project.Subproject.md) object.
 
 

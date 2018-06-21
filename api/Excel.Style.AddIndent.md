@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates if text is automatically ind
 
  _expression_. 'AddIndent'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 
 ## Remarks

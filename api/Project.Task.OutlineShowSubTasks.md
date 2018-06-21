@@ -20,6 +20,6 @@ Shows the subtasks of the selected task or tasks.
 
  _expression_. 'OutlineShowSubTasks'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

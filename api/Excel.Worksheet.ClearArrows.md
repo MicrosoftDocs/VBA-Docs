@@ -20,7 +20,7 @@ Clears the tracer arrows from the worksheet. Tracer arrows are added by using th
 
  _expression_. 'ClearArrows'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Gets or sets the value of a document's author—one of the document's properties
 
  _expression_. 'Creator'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

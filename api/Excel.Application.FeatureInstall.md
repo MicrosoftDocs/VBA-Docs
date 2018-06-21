@@ -20,7 +20,7 @@ Returns or sets a value (constant) that specifies how Microsoft Excel handles ca
 
  _expression_. 'FeatureInstall'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

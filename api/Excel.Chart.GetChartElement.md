@@ -20,7 +20,7 @@ Returns information about the chart element at specified X and Y coordinates. Th
 
  _expression_. 'GetChartElement'( '_x_' , '_y_' , '_ElementID_' , '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ### Parameters

@@ -18,7 +18,7 @@ Returns or sets the concurrent calculation mode.
 
 ## Syntax
 
- _expression_ . **MultiThreadedCalculation**
+ _expression_ . [MultiThreadedCalculation](./Excel.MultiThreadedCalculation.md)
 
 
 ## See also

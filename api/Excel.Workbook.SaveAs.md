@@ -20,7 +20,7 @@ Saves changes to the workbook in a different file.
 
  _expression_. 'SaveAs'( '_FileName_' , '_FileFormat_' , '_Password_' , '_WriteResPassword_' , '_ReadOnlyRecommended_' , '_CreateBackup_' , '_AccessMode_' , '_ConflictResolution_' , '_AddToMru_' , '_TextCodepage_' , '_TextVisualLayout_' , '_Local_' )
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

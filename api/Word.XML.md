@@ -20,7 +20,7 @@ Returns a  **String** that represents the text, with or without XML markup, that
 
  _expression_. 'XML'( '_DataOnly_' )
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Marks all items in the conversation as read.
 
  _expression_. 'MarkAsRead'
 
- _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
+ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## See also

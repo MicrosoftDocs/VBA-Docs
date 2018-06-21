@@ -20,7 +20,7 @@ Sets or returns whether Microsoft PowerPoint displays alerts while running a mac
 
  _expression_. 'DisplayAlerts'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ### Return Value

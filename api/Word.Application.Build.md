@@ -20,7 +20,7 @@ Returns the version and build number of the Word application. Read-only  **Strin
 
  _expression_. 'Build'
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Example

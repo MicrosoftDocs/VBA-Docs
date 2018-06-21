@@ -20,7 +20,7 @@ Returns a constant,  **olRuleActionNewItemAlert** , from the **[OlRuleActionType
 
  _expression_. 'ActionType'
 
- _expression_ A variable that represents a **NewItemAlertRuleAction** object.
+ _expression_ A variable that represents a [NewItemAlertRuleAction](./Outlook.NewItemAlertRuleAction.md) object.
 
 
 ## Remarks

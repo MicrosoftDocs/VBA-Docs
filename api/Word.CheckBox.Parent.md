@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Chec
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **[CheckBox](Word.CheckBox.md)** object.
+ _expression_ A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 
 
 ## See also

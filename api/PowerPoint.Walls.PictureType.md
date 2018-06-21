@@ -17,7 +17,7 @@ Returns or sets a value that specifies how pictures are displayed on the walls a
 
  _expression_. 'PictureType'
 
- _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
+ _expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
 
 
 ## Remarks

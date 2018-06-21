@@ -20,7 +20,7 @@ Returns a  **Bookmark** object that represents a bookmark added to a range.
 
  _expression_. 'Add'( '_Name_' , '_Range_' )
 
- _expression_ Required. A variable that represents a **[Bookmarks](Word.bookmarks.md)** collection.
+ _expression_ Required. A variable that represents a '[Bookmarks](Word.bookmarks.md)' collection.
 
 
 ### Parameters

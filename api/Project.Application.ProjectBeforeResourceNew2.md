@@ -17,7 +17,7 @@ Occurs before one or more resources are created. Uses the  **EventInfo** object 
 
  _expression_. 'ProjectBeforeResourceNew2'( ' _pj_', ' _Info_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the  **[PublishObjects](Excel.PublishObjects.md)** collection. Read-only
 
  _expression_. 'PublishObjects'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

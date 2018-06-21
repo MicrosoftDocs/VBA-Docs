@@ -20,7 +20,7 @@ Returns or sets an  **MsoBevelType** constant that represents the bevel type for
 
  _expression_. 'Type'
 
- _expression_ An expression that returns a **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object.
+ _expression_ An expression that returns a '[SoftEdgeFormat](Word.SoftEdgeFormat.md)' object.
 
 
 ## See also

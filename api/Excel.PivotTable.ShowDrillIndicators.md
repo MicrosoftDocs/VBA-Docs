@@ -20,7 +20,7 @@ The  **ShowDrillIndicators** property is used for toggling the display of drill 
 
  _expression_. 'ShowDrillIndicators'
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ## Remarks

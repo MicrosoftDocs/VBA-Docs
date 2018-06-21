@@ -20,7 +20,7 @@ Returns a [CoAuthLocks](Word.CoAuthLocks.md) collection that represents the lock
 
  _expression_. 'Locks'
 
- _expression_ An expression that returns a **CoAuthor** object.
+ _expression_ An expression that returns a [CoAuthor](./Word.CoAuthor.md) object.
 
 
 ## Example

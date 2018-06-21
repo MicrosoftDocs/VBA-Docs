@@ -20,7 +20,7 @@ Returns the name of the specified object. Read-only  **String** .
 
  _expression_. 'Name'
 
- _expression_ Required. A variable that represents a **[Language](Word.Language.md)** object.
+ _expression_ Required. A variable that represents a '[Language](Word.Language.md)' object.
 
 
 ## See also

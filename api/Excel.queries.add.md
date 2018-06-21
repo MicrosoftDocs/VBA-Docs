@@ -18,7 +18,7 @@ Adds a new [WorkbookQuery](Excel.workbookquery.md) object to the **Queries** col
 
  _expression_. 'Add'( _Name_,  _Formula_,  _Description_)
 
- _expression_ A variable that represents a **Queries** object.
+ _expression_ A variable that represents a 'Queries' object.
 
 
 ### Parameters

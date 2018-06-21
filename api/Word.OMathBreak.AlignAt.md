@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the operator in one line, to which M
 
  _expression_. 'AlignAt'
 
- _expression_ An expression that returns an **[OMathBreak](Word.OMathBreak.md)** object.
+ _expression_ An expression that returns an '[OMathBreak](Word.OMathBreak.md)' object.
 
 
 ## See also

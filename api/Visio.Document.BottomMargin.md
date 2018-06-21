@@ -20,7 +20,7 @@ Specifies the bottom margin when printing the pages in a document. Read/write.
 
  _expression_. 'BottomMargin'( '_UnitsNameOrCode_' )
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Parameters

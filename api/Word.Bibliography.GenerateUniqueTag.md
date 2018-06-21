@@ -20,7 +20,7 @@ Generates a unique identification tag for a bibliography source and returns a  *
 
  _expression_. 'GenerateUniqueTag'
 
- _expression_ An expression that returns a **Bibliography** object.
+ _expression_ An expression that returns a [Bibliography](./Word.Bibliography.md) object.
 
 
 ### Return Value

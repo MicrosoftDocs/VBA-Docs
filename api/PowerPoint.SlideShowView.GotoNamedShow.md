@@ -20,7 +20,7 @@ Switches to the specified custom, or named, slide show during another slide show
 
  _expression_. 'GotoNamedShow'( '_SlideShowName_' )
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ### Parameters

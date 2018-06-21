@@ -20,7 +20,7 @@ Determines whether the specified range of slides displays the background objects
 
  _expression_. 'DisplayMasterShapes'
 
- _expression_ A variable that represents a **SlideRange** object.
+ _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ### Return Value

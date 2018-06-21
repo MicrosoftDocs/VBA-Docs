@@ -20,7 +20,7 @@ Returns or sets the character spacing adjustment for the specified template. Rea
 
  _expression_. 'JustificationMode'
 
- _expression_ Required. A variable that represents a **[Template](Word.Template.md)** object.
+ _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Example

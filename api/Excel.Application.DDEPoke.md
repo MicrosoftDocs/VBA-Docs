@@ -20,7 +20,7 @@ Sends data to an application.
 
  _expression_. 'DDEPoke'( '_Channel_' , '_Item_' , '_Data_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

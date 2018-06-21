@@ -23,7 +23,7 @@ Returns the date and time the data recordset was last refreshed. Read-only.
 
  _expression_. 'TimeRefreshed'
 
- _expression_ An expression that returns a **DataRecordset** object.
+ _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
 ### Return Value

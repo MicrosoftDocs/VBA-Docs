@@ -20,7 +20,7 @@ Brings the  **Protected View** window to the front of the z-order.
 
  _expression_. 'Activate'
 
- _expression_ A variable that represents a **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object.
+ _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
 ### Return Value

@@ -23,7 +23,7 @@ Gets the name of the data column linked to the shape data (custom property) row 
 
  _expression_. 'GetCustomPropertyLinkedColumn'( '_DataRecordsetID_' , '_CustomPropertyIndex_' )
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

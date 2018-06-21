@@ -20,7 +20,7 @@ Indicates whether the presentation has media that resides on a notes master. Rea
 
  _expression_. 'HasNotesMaster'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

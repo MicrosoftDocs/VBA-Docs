@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Broa
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Broadcast** object.
+ _expression_ A variable that represents a 'Broadcast' object.
 
 
 ## Property value

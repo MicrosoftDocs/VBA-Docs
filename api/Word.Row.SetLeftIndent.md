@@ -20,7 +20,7 @@ Sets the indentation for a row in a table.
 
  _expression_. 'SetLeftIndent'( '_LeftIndent_' , '_RulerStyle_' )
 
- _expression_ Required. A variable that represents a **[Row](Word.Row.md)** object.
+ _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ### Parameters

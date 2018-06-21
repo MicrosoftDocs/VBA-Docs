@@ -20,7 +20,7 @@ Shows the  **Filter Definition** dialog box, where the user can create a filter 
 
  _expression_. 'FilterNew'( ' _FilterType_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

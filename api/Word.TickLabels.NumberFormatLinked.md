@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'NumberFormatLinked'
 
- _expression_ A variable that represents a **[TickLabels](Word.TickLabels.md)** object.
+ _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 
 
 ## Example

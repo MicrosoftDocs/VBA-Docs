@@ -20,7 +20,7 @@ Rounds a number up, away from 0 (zero).
 
  _expression_. 'RoundUp'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

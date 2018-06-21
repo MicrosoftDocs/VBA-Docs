@@ -20,7 +20,7 @@ Removes document information, such as personal information, comments, and docume
 
  _expression_. 'RemoveDocumentInformation'( '_Type_' )
 
- _expression_ An expression that returns a **Presentation** object.
+ _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Parameters

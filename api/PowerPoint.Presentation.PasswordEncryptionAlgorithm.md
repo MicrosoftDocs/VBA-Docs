@@ -20,7 +20,7 @@ Returns the algorithm Microsoft PowerPoint uses for encrypting documents with pa
 
  _expression_. 'PasswordEncryptionAlgorithm'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

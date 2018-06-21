@@ -20,7 +20,7 @@ Sets or returns the number of times to repeat an animation. Read/write.
 
  _expression_. 'RepeatCount'
 
- _expression_ A variable that represents a **Timing** object.
+ _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
 ### Return Value

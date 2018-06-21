@@ -20,7 +20,7 @@ Validates an individual XML element against the XML schemas that are attached to
 
  _expression_. 'Validate'
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ### Return Value

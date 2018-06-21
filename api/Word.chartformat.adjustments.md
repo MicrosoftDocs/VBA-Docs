@@ -18,7 +18,7 @@ Returns an [Adjustments](Word.Adjustments.md) object that contains a collection 
 
  _expression_. 'Adjustments'
 
- _expression_ A variable that represents a **ChartFormat** object.
+ _expression_ A variable that represents a [ChartFormat](./Word.ChartFormat.md) object.
 
 
 ## Property value

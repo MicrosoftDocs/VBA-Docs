@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of full series in the collection.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **[FullSeriesCollection](Word.fullseriescollection.md)** object.
+ _expression_ A variable that represents a '[FullSeriesCollection](Word.fullseriescollection.md)' object.
 
 
 ## Property value

@@ -20,7 +20,7 @@ Returns an  **[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)** col
 
  _expression_. 'Functions'
 
- _expression_ An expression that returns an **[OMathAutoCorrect](Word.OMathAutoCorrect.md)** object.
+ _expression_ An expression that returns an '[OMathAutoCorrect](Word.OMathAutoCorrect.md)' object.
 
 
 ## See also

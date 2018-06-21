@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents all the cel
 
  _expression_. 'LabelRange'
 
- _expression_ A variable that represents a **PivotItem** object.
+ _expression_ A variable that represents a [PivotItem](./Excel.PivotItem.md) object.
 
 
 ## See also

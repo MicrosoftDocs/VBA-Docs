@@ -20,7 +20,7 @@ Adds the selected shapes to the selected group.
 
  _expression_. 'AddToGroup'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ### Return Value

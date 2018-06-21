@@ -20,7 +20,7 @@ Returns or sets the tint and shade of the represented object. Read/write
 
  _expression_. 'TintAndShade'
 
- _expression_ A variable that represents a **ColorStop** object.
+ _expression_ A variable that represents a [ColorStop](./Excel.ColorStop.md) object.
 
 
 ### Return Value

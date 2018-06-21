@@ -20,7 +20,7 @@ Returns a  **Variant** value that represents the distance, in points, from the t
 
  _expression_. 'Top'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Remarks

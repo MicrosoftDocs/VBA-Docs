@@ -20,7 +20,7 @@ Returns the total number of resources in the project, including both local and e
 
  _expression_. 'ResourceCount'
 
- _expression_ An expression that returns a **Project** object.
+ _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 
 ### Return Value

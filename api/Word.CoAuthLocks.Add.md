@@ -20,7 +20,7 @@ Returns a  **[CoAuthLock](Word.CoAuthLock.md)** object that represents a lock ad
 
  _expression_. 'Add'( '_Range_' , '_Type_' )
 
- _expression_ An expression that returns a **[CoAuthLocks](Word.CoAuthLocks.md)** object.
+ _expression_ An expression that returns a '[CoAuthLocks](Word.CoAuthLocks.md)' object.
 
 
 ### Parameters

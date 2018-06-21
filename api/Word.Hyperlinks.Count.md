@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of hyperlinks in the collection. 
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Hyperlinks](Word.hyperlinks.md)** collection.
+ _expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
 
 
 ## See also

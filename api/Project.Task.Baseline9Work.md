@@ -17,6 +17,6 @@ Gets or sets the baseline work (in minutes) for a  **Task**. Read/write **Varian
 
  _expression_. 'Baseline9Work'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

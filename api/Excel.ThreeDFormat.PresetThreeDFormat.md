@@ -20,7 +20,7 @@ Returns the preset extrusion format. Each preset extrusion format contains a set
 
  _expression_. 'PresetThreeDFormat'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

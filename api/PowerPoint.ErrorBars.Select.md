@@ -17,7 +17,7 @@ Selects the object.
 
  _expression_. 'Select'
 
- _expression_ A variable that represents an **[ErrorBars](PowerPoint.ErrorBars.md)** object.
+ _expression_ A variable that represents an '[ErrorBars](PowerPoint.ErrorBars.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HasChart'
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./Word.Shape.md) object.
 
 
 ## Remarks

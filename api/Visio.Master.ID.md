@@ -20,7 +20,7 @@ Gets the ID of an object. Read-only.
 
  _expression_. 'ID'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

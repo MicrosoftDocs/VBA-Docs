@@ -20,7 +20,7 @@ Returns a list of the parts of speech corresponding to the meanings found for th
 
  _expression_. 'PartOfSpeechList'
 
- _expression_ An expression that returns a **[SynonymInfo](Word.SynonymInfo.md)** object.
+ _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 
 
 ## Remarks

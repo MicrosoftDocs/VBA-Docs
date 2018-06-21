@@ -20,7 +20,7 @@ Removes a group content control from a document so that its child content contro
 
  _expression_. 'Ungroup'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

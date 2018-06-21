@@ -17,6 +17,6 @@ Gets or sets the duration (in minutes) of a task. Read-only for summary tasks. R
 
  _expression_. 'Duration'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

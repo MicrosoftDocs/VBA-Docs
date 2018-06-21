@@ -20,7 +20,7 @@ Returns the  **MenuSet** object with the specified ID within the **MenuSets** co
 
  _expression_. 'ItemAtID'( '_lID_' )
 
- _expression_ A variable that represents a **MenuSets** object.
+ _expression_ A variable that represents a [MenuSets](./Visio.MenuSets.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **Long** value that specifies the number of icons in the icon set. Re
 
  _expression_. 'Count'
 
- _expression_ A variable that represents an **IconSet** object.
+ _expression_ A variable that represents an [IconSet](./Excel.IconSet.md) object.
 
 
 ## See also

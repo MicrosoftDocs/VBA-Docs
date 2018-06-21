@@ -17,7 +17,7 @@ Gets a  **[Shift](Project.Shift.md)** object representing the second work shift 
 
  _expression_. 'Shift2'
 
- _expression_ A variable that represents a **Day** object.
+ _expression_ A variable that represents a [Day](./Project.Day.md) object.
 
 
 ## Example

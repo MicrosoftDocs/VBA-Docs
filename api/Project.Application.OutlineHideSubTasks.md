@@ -20,7 +20,7 @@ Hides the subtasks of the selected task or tasks.
 
  _expression_. 'OutlineHideSubTasks'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

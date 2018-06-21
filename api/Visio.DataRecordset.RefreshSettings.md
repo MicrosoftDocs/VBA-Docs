@@ -23,7 +23,7 @@ Gets and sets options that determine how the data recordset is refreshed. Read/w
 
  _expression_. 'RefreshSettings'
 
- _expression_ An expression that returns a **DataRecordset** object.
+ _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
 ### Return Value

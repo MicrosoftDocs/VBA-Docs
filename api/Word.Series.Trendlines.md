@@ -20,7 +20,7 @@ Returns a collection of all the trendlines for the series.
 
  _expression_. 'Trendlines'( '_Index_' )
 
- _expression_ A variable that represents a **[Series](Word.Series.md)** object.
+ _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
 ### Return Value

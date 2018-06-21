@@ -20,7 +20,7 @@ Deletes the specified footnote.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[Footnote](Word.Footnote.md)** object.
+ _expression_ Required. A variable that represents a '[Footnote](Word.Footnote.md)' object.
 
 
 ## See also

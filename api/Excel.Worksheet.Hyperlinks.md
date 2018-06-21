@@ -20,7 +20,7 @@ Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the 
 
  _expression_. 'Hyperlinks'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

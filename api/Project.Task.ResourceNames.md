@@ -20,7 +20,7 @@ Gets or sets the names of the resources assigned to a task. Read/write  **String
 
  _expression_. 'ResourceNames'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

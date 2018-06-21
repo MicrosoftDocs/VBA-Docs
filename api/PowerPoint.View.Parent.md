@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
 ### Return Value

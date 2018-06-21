@@ -20,7 +20,7 @@ Applies a style to an object while preserving local formatting. Read/write.
 
  _expression_. 'StyleKeepFmt'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

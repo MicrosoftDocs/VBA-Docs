@@ -20,7 +20,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_. 'Class'
 
- _expression_ A variable that represents a **FormRegion** object.
+ _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ## See also

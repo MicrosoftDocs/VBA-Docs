@@ -20,7 +20,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
  _expression_. 'Received'
 
- _expression_ An expression that returns a **Mailer** object.
+ _expression_ An expression that returns a [Mailer](./Excel.Mailer.md) object.
 
 
 ### Return Value

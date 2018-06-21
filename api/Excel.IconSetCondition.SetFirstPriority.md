@@ -20,7 +20,7 @@ Sets the priority value for this conditional formatting rule to "1" so that it w
 
  _expression_. 'SetFirstPriority'
 
- _expression_ A variable that represents an **IconSetCondition** object.
+ _expression_ A variable that represents an [IconSetCondition](./Excel.IconSetCondition.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Worksheets** object.
+ _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
 
 
 ## See also

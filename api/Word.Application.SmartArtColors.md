@@ -20,7 +20,7 @@ Returns a [SmartArtColors](http://msdn.microsoft.com/library/a1929517-b1fb-c6fe-
 
  _expression_. 'SmartArtColors'
 
- _expression_ An expression that returns a **[Application](Word.Application.md)** object.
+ _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
 
 ## Remarks

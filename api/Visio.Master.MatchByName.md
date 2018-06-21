@@ -20,7 +20,7 @@ Determines how the application decides if a document master is already present w
 
  _expression_. 'MatchByName'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

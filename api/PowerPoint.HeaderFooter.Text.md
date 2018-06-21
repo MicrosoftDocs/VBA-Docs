@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the text contained in the specifie
 
  _expression_. 'Text'
 
- _expression_ A variable that represents a **HeaderFooter** object.
+ _expression_ A variable that represents a [HeaderFooter](./PowerPoint.HeaderFooter.md) object.
 
 
 ### Return Value

@@ -18,7 +18,7 @@ ms.prod: powerpoint
 
  _expression_. 'IsTotal'
 
- _expression_ A variable that represents a **Point** object.
+ _expression_ A variable that represents a [Point](./PowerPoint.Point.md) object.
 
 
 ## See also

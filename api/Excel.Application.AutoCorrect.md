@@ -20,7 +20,7 @@ Returns an  **[AutoCorrect](Excel.AutoCorrect(objec).md)** object that represent
 
  _expression_. 'AutoCorrect'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

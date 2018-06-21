@@ -20,7 +20,7 @@ Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](ht
 
  _expression_. 'BackgroundStyle'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## See also

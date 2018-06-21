@@ -20,7 +20,7 @@ Represents the encryption session associated with the active presentation. Read-
 
  _expression_. 'ActiveEncryptionSession'
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines whether the **[NavigationMo
 
  _expression_. 'Visible'
 
- _expression_ An expression that returns a **NavigationModule** object.
+ _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
 
 
 ## See also

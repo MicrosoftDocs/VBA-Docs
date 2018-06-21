@@ -23,7 +23,7 @@ Deletes the  **[DataRecordset](Visio.DataRecordset.md)** object from the **[Data
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **DataRecordset** object.
+ _expression_ A variable that represents a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
 ### Return Value

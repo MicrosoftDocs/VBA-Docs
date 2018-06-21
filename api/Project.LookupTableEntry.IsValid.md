@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IsValid'
 
- _expression_ A variable that represents a **LookupTableEntry** object.
+ _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
 
 ## Remarks

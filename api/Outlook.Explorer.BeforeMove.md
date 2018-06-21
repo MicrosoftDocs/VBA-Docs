@@ -20,7 +20,7 @@ Occurs when the  **[Explorer](Outlook.Explorer.md)** is moved by the user.
 
  _expression_. 'BeforeMove'( '_Cancel_' )
 
- _expression_ A variable that represents an **Explorer** object.
+ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ### Parameters

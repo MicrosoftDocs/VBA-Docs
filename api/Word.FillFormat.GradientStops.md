@@ -20,7 +20,7 @@ Returns the [GradientStops](http://msdn.microsoft.com/library/365949f0-29b3-76e1
 
  _expression_. 'GradientStops'
 
- _expression_ An expression that returns a **FillFormat** object.
+ _expression_ An expression that returns a [FillFormat](./Word.FillFormat.md) object.
 
 
 ## Remarks

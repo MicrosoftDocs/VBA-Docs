@@ -20,7 +20,7 @@ Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that repres
 
  _expression_. 'LanguageID'
 
- _expression_ An expression that represents a **[Template](Word.Template.md)** object.
+ _expression_ An expression that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks

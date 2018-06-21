@@ -17,6 +17,6 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 

@@ -20,7 +20,7 @@ Returns a [Range](Word.Range.md) object that represents the portion of a documen
 
  _expression_. 'Range'
 
- _expression_ An expression that returns a **CoAuthUpdate** object.
+ _expression_ An expression that returns a [CoAuthUpdate](./Word.CoAuthUpdate.md) object.
 
 
 ## Example

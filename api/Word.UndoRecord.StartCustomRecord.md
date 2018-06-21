@@ -20,7 +20,7 @@ Initiates the creation of a custom undo record.
 
  _expression_. 'StartCustomRecord'( '_Name_' )
 
- _expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** object.
+ _expression_ A variable that represents an '[UndoRecord](Word.UndoRecord.md)' object.
 
 
 ### Parameters

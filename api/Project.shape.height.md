@@ -13,7 +13,7 @@ Gets or sets the height of the shape, in points. Read-write  **Single**.
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

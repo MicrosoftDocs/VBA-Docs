@@ -20,7 +20,7 @@ Returns a  **SoundEffect** object that represents the sound to be played during 
 
  _expression_. 'SoundEffect'
 
- _expression_ A variable that represents an **ActionSetting** object.
+ _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents t
 
  _expression_. 'ExtrusionColor'
 
- _expression_ A variable that represents an **ThreeDFormat** object.
+ _expression_ A variable that represents an [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ### Return Value

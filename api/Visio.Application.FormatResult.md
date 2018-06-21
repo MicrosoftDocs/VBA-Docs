@@ -20,7 +20,7 @@ Formats a string or number into a string according to a format picture. Uses spe
 
  _expression_. 'FormatResult'( '_StringOrNumber_' , '_UnitsIn_' , '_UnitsOut_' , '_Format_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Parameters
