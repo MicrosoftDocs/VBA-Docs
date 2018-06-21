@@ -20,7 +20,7 @@ Returns a  **Long** value that specifies the number of criteria for a color scal
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **ColorScaleCriteria** object.
+ _expression_ A variable that represents a [ColorScaleCriteria](./Excel.ColorScaleCriteria.md) object.
 
 
 ## Remarks

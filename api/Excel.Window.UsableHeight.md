@@ -20,7 +20,7 @@ Returns the maximum height of the space that a window can occupy in the applicat
 
  _expression_. 'UsableHeight'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Example

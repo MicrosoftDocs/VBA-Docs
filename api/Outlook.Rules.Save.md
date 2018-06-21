@@ -20,7 +20,7 @@ Saves all rules in the  **[Rules](Outlook.Rules.md)** collection.
 
  _expression_. 'Save'( '_ShowProgress_' )
 
- _expression_ A variable that represents a **Rules** object.
+ _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Long** indicating the number of minutes the reminder should
 
  _expression_. 'ReminderMinutesBeforeStart'
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## See also

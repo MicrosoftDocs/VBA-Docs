@@ -20,7 +20,7 @@ Revises the layout of a set of connected shapes on the page, by rotating or flip
 
  _expression_. 'LayoutChangeDirection'( '_Direction_' )
 
- _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
+ _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 
 
 ### Parameters

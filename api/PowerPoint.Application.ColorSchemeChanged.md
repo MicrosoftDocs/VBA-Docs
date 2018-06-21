@@ -20,7 +20,7 @@ Occurs after a color scheme is changed.
 
  _expression_. 'ColorSchemeChanged'( '_SldRange_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

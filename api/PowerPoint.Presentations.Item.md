@@ -20,7 +20,7 @@ Returns a single  **Presentation** object from the specified **Presentations** c
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Presentations** object.
+ _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
 
 ### Parameters

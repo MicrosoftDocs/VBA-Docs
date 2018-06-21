@@ -23,7 +23,7 @@ Returns the  **GraphicItems** collection that the master contains. Read-only.
 
  _expression_. 'GraphicItems'
 
- _expression_ An expression that returns a **Master** object.
+ _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

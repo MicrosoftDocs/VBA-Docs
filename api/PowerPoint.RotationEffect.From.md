@@ -20,7 +20,7 @@ Sets or returns a  **Single** that represents the starting angle in degrees, spe
 
  _expression_. 'From'
 
- _expression_ A variable that represents a **RotationEffect** object.
+ _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 
 
 ## Remarks

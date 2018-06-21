@@ -20,7 +20,7 @@ Returns a  **[ParagraphFormat](PowerPoint.ParagraphFormat.md)** object that repr
 
  _expression_. 'ParagraphFormat'
 
- _expression_ A variable that represents a **TextRange** object.
+ _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ### Return Value

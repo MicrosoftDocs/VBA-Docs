@@ -20,7 +20,7 @@ Adds a new entry to the  **[AddressEntries](Outlook.AddressEntries.md)** collect
 
  _expression_. 'Add'( '_Type_' , '_Name_' , '_Address_' )
 
- _expression_ An **AddressEntries** object that represents the new entry.
+ _expression_ An [AddressEntries](./Outlook.AddressEntries.md) object that represents the new entry.
 
 
 ### Parameters

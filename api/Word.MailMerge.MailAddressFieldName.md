@@ -20,7 +20,7 @@ Returns or sets the name of the field that contains e-mail addresses that are us
 
  _expression_. 'MailAddressFieldName'
 
- _expression_ An expression that returns a **[MailMerge](Word.MailMerge.md)** object.
+ _expression_ An expression that returns a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Gets the date a project was created. Read-only  **Variant**.
 
  _expression_. 'CreationDate'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Gets the ID of an object. Read-only.
 
  _expression_. 'ID'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

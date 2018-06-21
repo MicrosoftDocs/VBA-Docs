@@ -20,7 +20,7 @@ Returns or sets the title of the data-validation error dialog box. Read/write  *
 
  _expression_. 'ErrorTitle'
 
- _expression_ A variable that represents a **Validation** object.
+ _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
 
 
 ## Example

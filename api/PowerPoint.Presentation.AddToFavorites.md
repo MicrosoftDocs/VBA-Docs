@@ -20,7 +20,7 @@ Adds a shortcut that represents the current selection in the specified presentat
 
  _expression_. 'AddToFavorites'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Occurs after Microsoft Outlook has saved the item.
 
  _expression_. 'AfterWrite'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

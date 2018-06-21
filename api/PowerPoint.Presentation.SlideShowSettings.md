@@ -20,7 +20,7 @@ Returns a  **[SlideShowSettings](PowerPoint.SlideShowSettings.md)** object that 
 
  _expression_. 'SlideShowSettings'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

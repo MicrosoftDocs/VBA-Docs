@@ -17,7 +17,7 @@ Gets a  **[Windows2](Project.windows2(object).md)** collection representing the 
 
  _expression_. 'Windows2'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ProtectedForForms'
 
- _expression_ An expression that returns a **[Section](Word.Section.md)** object.
+ _expression_ An expression that returns a '[Section](Word.Section.md)' object.
 
 
 ## Remarks

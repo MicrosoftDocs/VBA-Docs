@@ -17,7 +17,7 @@ Returns the height, in points, of the object. Read-only  **Double**.
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **[LegendKey](PowerPoint.LegendKey.md)** object.
+ _expression_ A variable that represents a '[LegendKey](PowerPoint.LegendKey.md)' object.
 
 
 ## See also

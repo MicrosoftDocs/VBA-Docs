@@ -20,7 +20,7 @@ Returns or sets the job title of the person creating a letter with the Letter Wi
 
  _expression_. 'SenderJobTitle'
 
- _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

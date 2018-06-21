@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the spacing for columns in a matrix.
 
  _expression_. 'ColSpacing'
 
- _expression_ An expression that returns an **[OMathMat](Word.OMathMat.md)** object.
+ _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 
 
 ## See also

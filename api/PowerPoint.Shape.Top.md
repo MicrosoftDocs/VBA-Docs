@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the distance from the top edge of 
 
  _expression_. 'Top'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Return Value

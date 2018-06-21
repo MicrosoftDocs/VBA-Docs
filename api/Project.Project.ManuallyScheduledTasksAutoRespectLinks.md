@@ -17,6 +17,6 @@ ms.date: 06/08/2017
 
  _expression_. 'ManuallyScheduledTasksAutoRespectLinks'
 
- _expression_ An expression that returns a **Project** object.
+ _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 

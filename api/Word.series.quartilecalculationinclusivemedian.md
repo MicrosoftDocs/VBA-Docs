@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. 'QuartileCalculationInclusiveMedian'
 
- _expression_ A variable that represents a **Series** object.
+ _expression_ A variable that represents a [Series](./Word.Series.md) object.
 
 
 ## See also

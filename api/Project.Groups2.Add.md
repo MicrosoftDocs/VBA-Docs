@@ -17,7 +17,7 @@ Adds a  **[Group2](Project.Group2.md)** object to a **Groups2** collection.
 
  _expression_. 'Add'( ' _Name_', ' _FieldName_' )
 
- _expression_ An expression that returns a **Groups2** object.
+ _expression_ An expression that returns a 'Groups2' object.
 
 
 ### Parameters

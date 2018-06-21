@@ -20,7 +20,7 @@ Controls whether Microsoft Visio recalculates shape properties during drag opera
 
  _expression_. 'LiveDynamics'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

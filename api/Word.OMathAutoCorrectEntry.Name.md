@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the name of an equation auto corre
 
  _expression_. 'Name'
 
- _expression_ An expression that returns an **OMathAutoCorrectEntry** object.
+ _expression_ An expression that returns an [OMathAutoCorrectEntry](./Word.OMathAutoCorrectEntry.md) object.
 
 
 ## See also

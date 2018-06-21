@@ -20,7 +20,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
  _expression_. 'Creator'
 
- _expression_ A variable that represents a **WebOptions** object.
+ _expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) object.
 
 
 ## Remarks

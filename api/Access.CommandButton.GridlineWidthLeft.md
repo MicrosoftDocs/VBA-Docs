@@ -20,7 +20,7 @@ Gets or sets the width of the left gridline for the specified button. Read/write
 
  _expression_. 'GridlineWidthLeft'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ This object, member, or enumeration will be deprecated and is not intended to be
 
  _expression_. 'GetInspector'
 
- _expression_ A variable that represents a **DocumentItem** object.
+ _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
 
 
 ## Remarks

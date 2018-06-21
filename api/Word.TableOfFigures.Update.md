@@ -20,7 +20,7 @@ Updates the entries shown in a table of figures.
 
  _expression_. 'Update'
 
- _expression_ Required. A variable that represents a **[TableOfFigures](Word.TableOfFigures.md)** collection.
+ _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the point where the trendline crosses the value axis. Read/write
 
  _expression_. 'Intercept'
 
- _expression_ An expression that returns a **Trendline** object.
+ _expression_ An expression that returns a [Trendline](./Excel.Trendline(Graph object).md) object.
 
 
 ### Return Value

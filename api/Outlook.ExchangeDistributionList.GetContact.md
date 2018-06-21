@@ -20,7 +20,7 @@ Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistribu
 
  _expression_. 'GetContact'
 
- _expression_ A variable that represents an **ExchangeDistributionList** object.
+ _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ### Return Value

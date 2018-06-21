@@ -20,7 +20,7 @@ Displays the next mail message if you are using Word as your e-mail editor.
 
  _expression_. 'GoToNext'
 
- _expression_ Required. A variable that represents a **[MailMessage](Word.MailMessage.md)** object.
+ _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 
 
 ## See also

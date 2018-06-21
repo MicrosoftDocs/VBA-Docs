@@ -20,7 +20,7 @@ Defines special actions to be performed on shapes created by using a master shor
 
  _expression_. 'DropActions'
 
- _expression_ A variable that represents a **MasterShortcut** object.
+ _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
 ### Return Value

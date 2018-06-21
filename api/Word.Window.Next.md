@@ -20,7 +20,7 @@ Returns the next document window in the collection of open document windows. Rea
 
  _expression_. 'Next'
 
- _expression_ A variable that represents a **[Window](Word.Window.md)** object.
+ _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Example

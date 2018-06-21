@@ -20,7 +20,7 @@ Returns a  **Long** that represents the argument index of this component relativ
 
  _expression_. 'ArgIndex'
 
- _expression_ An expression that returns an **[OMath](Word.OMath.md)** object.
+ _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 
 
 ## See also

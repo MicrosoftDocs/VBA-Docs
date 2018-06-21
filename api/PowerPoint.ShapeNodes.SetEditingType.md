@@ -20,7 +20,7 @@ Sets the editing type of the specified node.
 
  _expression_. 'SetEditingType'( '_Index_', '_EditingType_' )
 
- _expression_ A variable that represents a **ShapeNodes** object.
+ _expression_ A variable that represents a [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ You can use the  **Name** property to specify or determine the string expression
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **Operation** object.
+ _expression_ A variable that represents an [Operation](./Access.Operation.md) object.
 
 
 ## Remarks

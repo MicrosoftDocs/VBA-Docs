@@ -20,7 +20,7 @@ Removes numbers or bullets from the specified list.
 
  _expression_. 'RemoveNumbers'( '_NumberType_' )
 
- _expression_ A variable that represents a **[List](Word.List.md)** object.
+ _expression_ A variable that represents a '[List](Word.List.md)' object.
 
 
 ### Parameters

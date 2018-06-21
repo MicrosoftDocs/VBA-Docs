@@ -28,7 +28,7 @@ For more information about the new functions, see the [Quartile_Inc](Excel.Works
 
  _expression_. 'Quartile'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

@@ -20,6 +20,6 @@ ms.date: 06/08/2017
 
  _expression_. 'AutoWrap'
 
- _expression_ A variable that represents a **TableField** object.
+ _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 
 

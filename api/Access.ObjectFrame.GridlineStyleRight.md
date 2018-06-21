@@ -20,7 +20,7 @@ Gets or sets the right gridline style of the specified frame. Read/write  **Byte
 
  _expression_. 'GridlineStyleRight'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## Remarks

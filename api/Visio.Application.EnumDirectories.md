@@ -20,7 +20,7 @@ Returns an array naming the folders Microsoft Visio would search, given a list o
 
  _expression_. 'EnumDirectories'( '_PathsString_' , '_NameArray()_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Parameters

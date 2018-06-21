@@ -20,7 +20,7 @@ Sets the selected state of an item at the specified location in the list to the 
 
  _expression_. 'SetSelected'( '_Index_' , '_Selected_' )
 
- _expression_ A variable that represents an **OlkListBox** object.
+ _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ### Parameters

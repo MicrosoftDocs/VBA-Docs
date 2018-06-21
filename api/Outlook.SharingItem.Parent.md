@@ -20,7 +20,7 @@ Returns the parent  **Object** of the specified **[SharingItem](Outlook.SharingI
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

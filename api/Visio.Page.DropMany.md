@@ -20,7 +20,7 @@ Creates one or more new  **Shape** objects on a page. It returns an array of the
 
  _expression_. 'DropMany'( '_ObjectsToInstance()_' , '_xyArray()_' , '_IDArray()_' )
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Parameters

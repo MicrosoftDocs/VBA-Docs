@@ -20,7 +20,7 @@ Returns a  **String** representing the name of the default profile name. Read-on
 
  _expression_. 'DefaultProfileName'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ## Remarks

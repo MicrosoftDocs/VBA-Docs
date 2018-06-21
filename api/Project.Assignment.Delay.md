@@ -17,6 +17,6 @@ Gets or sets the amount of time an assignment is delayed in minutes. Read/write 
 
  _expression_. 'Delay'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

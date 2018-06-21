@@ -20,7 +20,7 @@ You can use the  **OpenCurrentDatabase** method to open an existing Microsoft Ac
 
  _expression_. 'OpenCurrentDatabase'( ' _filepath_', ' _Exclusive_', ' _bstrPassword_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

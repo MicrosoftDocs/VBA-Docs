@@ -20,7 +20,7 @@ Gets information about the current user of a Web database on Microsoft SharePoin
 
  _expression_. 'CurrentWebUser'( ' _DisplayOption_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

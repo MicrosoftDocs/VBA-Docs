@@ -20,7 +20,7 @@ Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the fo
 
  _expression_. 'Folder'
 
- _expression_ A variable that represents a **MoveOrCopyRuleAction** object.
+ _expression_ A variable that represents a [MoveOrCopyRuleAction](./Outlook.MoveOrCopyRuleAction.md) object.
 
 
 ## Remarks

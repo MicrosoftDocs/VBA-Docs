@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'INSKeyForOvertype'
 
- _expression_ An expression that returns a **Options** object.
+ _expression_ An expression that returns a [Options](./Word.Options.md) object.
 
 
 ## See also

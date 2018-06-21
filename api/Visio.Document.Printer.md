@@ -20,7 +20,7 @@ Specifies the name of the printer to use when printing the document. Read/write.
 
  _expression_. 'Printer'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

@@ -17,7 +17,7 @@ Gets the parent of the  **Years** object. Read-only **Calendar**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Years** object.
+ _expression_ A variable that represents a 'Years' object.
 
 
 ## Remarks

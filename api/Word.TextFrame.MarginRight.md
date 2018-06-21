@@ -20,7 +20,7 @@ Returns or sets the distance (in points) between the right edge of the text fram
 
  _expression_. 'MarginRight'
 
- _expression_ An expression that returns a **[TextFrame](Word.TextFrame.md)** object.
+ _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Example

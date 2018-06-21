@@ -13,7 +13,7 @@ Duplicates a shape range and returns a reference to the copy.
 
  _expression_. 'Duplicate'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ### Return value

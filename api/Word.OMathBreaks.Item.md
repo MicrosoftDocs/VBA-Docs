@@ -20,7 +20,7 @@ Returns an  **OMathBreak** object that represents the specified item in the coll
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns an **[OMathBreaks](Word.OMathBreaks.md)** object.
+ _expression_ An expression that returns an '[OMathBreaks](Word.OMathBreaks.md)' object.
 
 
 ### Parameters

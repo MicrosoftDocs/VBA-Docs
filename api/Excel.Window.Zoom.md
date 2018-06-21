@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the display size of the win
 
  _expression_. 'Zoom'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Remarks

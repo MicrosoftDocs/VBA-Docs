@@ -20,7 +20,7 @@ Represents the type of shape or shapes in a range of shapes. Read-only.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Return Value

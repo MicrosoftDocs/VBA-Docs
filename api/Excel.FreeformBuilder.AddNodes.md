@@ -20,7 +20,7 @@ Adds a point in the current shape and then draws a line from the current node to
 
  _expression_. 'AddNodes'( '_SegmentType_' , '_EditingType_' , '_X1_' , '_Y1_' , '_X2_' , '_Y2_' , '_X3_' , '_Y3_' )
 
- _expression_ A variable that represents a **FreeformBuilder** object.
+ _expression_ A variable that represents a [FreeformBuilder](./Excel.FreeformBuilder.md) object.
 
 
 ### Parameters

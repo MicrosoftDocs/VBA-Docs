@@ -20,7 +20,7 @@ For all open workbooks, forces a full calculation of the data and rebuilds the d
 
  _expression_. 'CalculateFullRebuild'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

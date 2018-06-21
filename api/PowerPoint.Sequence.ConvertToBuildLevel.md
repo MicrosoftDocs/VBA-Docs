@@ -20,7 +20,7 @@ Changes the build level information for a specified animation effect. Returns an
 
  _expression_. 'ConvertToBuildLevel'( '_Effect_', '_Level_' )
 
- _expression_ A variable that represents a **Sequence** object.
+ _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
 ### Parameters

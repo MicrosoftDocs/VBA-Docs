@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range o
 
  _expression_. 'VisibleRange'
 
- _expression_ A variable that represents a **Pane** object.
+ _expression_ A variable that represents a [Pane](./Excel.Pane.md) object.
 
 
 ## Example

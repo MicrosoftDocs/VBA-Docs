@@ -20,7 +20,7 @@ Specifies the priority for the sort field. Read/write.
 
  _expression_. 'Priority'
 
- _expression_ A variable that represents a **SortField** object.
+ _expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
 
 
 ## See also

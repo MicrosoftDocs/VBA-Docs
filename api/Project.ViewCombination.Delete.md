@@ -17,6 +17,6 @@ Deletes the  **ViewCombination** object from a **ViewsCombination** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **ViewCombination** object.
+ _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 
 

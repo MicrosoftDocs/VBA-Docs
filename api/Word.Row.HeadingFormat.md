@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HeadingFormat'
 
- _expression_ A variable that represents a **[Row](Word.Row.md)** object.
+ _expression_ A variable that represents a '[Row](Word.Row.md)' object.
 
 
 ## Example

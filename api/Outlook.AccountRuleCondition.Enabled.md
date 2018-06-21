@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that determines if the rule condition is enabled.
 
  _expression_. 'Enabled'
 
- _expression_ A variable that represents an **AccountRuleCondition** object.
+ _expression_ A variable that represents an [AccountRuleCondition](./Outlook.AccountRuleCondition.md) object.
 
 
 ## Remarks

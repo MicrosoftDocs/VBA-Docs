@@ -20,7 +20,7 @@ Returns a  **String** representing the company name for the contact followed by 
 
  _expression_. 'CompanyLastFirstNoSpace'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

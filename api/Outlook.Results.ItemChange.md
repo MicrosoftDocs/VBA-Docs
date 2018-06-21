@@ -20,7 +20,7 @@ Occurs when an item in the specified collection is changed.
 
  _expression_. 'ItemChange'( '_Item_' )
 
- _expression_ A variable that represents a **Results** object.
+ _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
 
 
 ### Parameters

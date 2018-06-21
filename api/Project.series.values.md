@@ -16,7 +16,7 @@ Gets the vertical (Y) axis values for the data series on a chart. Read-only  **V
 
  _expression_. 'Values'
 
- _expression_ A variable that represents a **Series** object.
+ _expression_ A variable that represents a 'Series' object.
 
 
 ## Remarks

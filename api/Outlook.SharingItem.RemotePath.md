@@ -20,7 +20,7 @@ Returns a  **String** that represents the path of the sharing context for a **[S
 
  _expression_. 'RemotePath'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

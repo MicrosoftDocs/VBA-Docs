@@ -20,7 +20,7 @@ Returns or sets the vertical alignment of the specified object. Read/write  **Va
 
  _expression_. 'VerticalAlignment'
 
- _expression_ A variable that represents an **[AxisTitle](PowerPoint.AxisTitle.md)** object.
+ _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)' object.
 
 
 ## Remarks

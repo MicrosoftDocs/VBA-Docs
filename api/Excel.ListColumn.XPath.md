@@ -20,7 +20,7 @@ Returns an  **[XPath](Excel.XPath.md)** object that represents the Xpath of the 
 
  _expression_. 'XPath'
 
- _expression_ A variable that represents a **ListColumn** object.
+ _expression_ A variable that represents a [ListColumn](./Excel.ListColumn.md) object.
 
 
 ## Remarks

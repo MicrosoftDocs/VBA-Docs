@@ -17,6 +17,6 @@ Gets the number of tasks in a project, not including blank entries. Read-only  *
 
  _expression_. 'NumberOfTasks'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

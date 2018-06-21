@@ -20,7 +20,7 @@ Returns a  **[NameSpace](Outlook.NameSpace.md)** object of the specified type.
 
  _expression_. 'GetNamespace'( '_Type_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ### Parameters

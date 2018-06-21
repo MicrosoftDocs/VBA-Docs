@@ -20,7 +20,7 @@ Returns a  **String** representing the display list of blind carbon copy (BCC) n
 
  _expression_. 'BCC'
 
- _expression_ A variable that represents a **MailItem** object.
+ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

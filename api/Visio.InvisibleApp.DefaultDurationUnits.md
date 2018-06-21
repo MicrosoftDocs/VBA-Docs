@@ -20,7 +20,7 @@ Determines the default unit of measure for quantities that represent durations. 
 
  _expression_. 'DefaultDurationUnits'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ If the value of the  **[DisplayUnit](Excel.Axis.DisplayUnit.md)** property is **
 
  _expression_. 'DisplayUnitCustom'
 
- _expression_ A variable that represents an **Axis** object.
+ _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 
 
 ## Remarks

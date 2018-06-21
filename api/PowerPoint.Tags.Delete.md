@@ -20,7 +20,7 @@ Deletes a tag.
 
  _expression_. 'Delete'( '_Name_' )
 
- _expression_ A variable that represents a **Tags** object.
+ _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 
 
 ### Parameters

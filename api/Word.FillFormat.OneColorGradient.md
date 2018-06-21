@@ -20,7 +20,7 @@ Sets the specified fill to a one-color gradient.
 
  _expression_. 'OneColorGradient'( '_Style_' , '_Variant_' , '_Degree_' )
 
- _expression_ Required. A variable that represents a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ### Parameters

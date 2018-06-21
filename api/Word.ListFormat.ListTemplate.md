@@ -20,7 +20,7 @@ Returns a  **ListTemplate** object that represents the list formatting for the s
 
  _expression_. 'ListTemplate'
 
- _expression_ Required. A variable that represents a **[ListFormat](Word.ListFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Remarks

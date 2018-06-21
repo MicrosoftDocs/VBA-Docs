@@ -20,7 +20,7 @@ Returns a  **String** indicating the algorithm Microsoft Excel uses to encrypt p
 
  _expression_. 'PasswordEncryptionAlgorithm'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Remarks

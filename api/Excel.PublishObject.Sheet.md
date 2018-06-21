@@ -20,7 +20,7 @@ Returns the sheet name for the specified  **[PublishObject](Excel.PublishObject.
 
  _expression_. 'Sheet'
 
- _expression_ A variable that represents a **PublishObject** object.
+ _expression_ A variable that represents a [PublishObject](./Excel.PublishObject.md) object.
 
 
 ## Remarks

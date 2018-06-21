@@ -20,7 +20,7 @@ Quits Microsoft Excel.
 
  _expression_. 'Quit'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

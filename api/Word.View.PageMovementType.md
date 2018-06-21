@@ -15,9 +15,9 @@ Returns or sets the page movement type. Read/write **[WdPageMovementType](Word.W
 
 ## Syntax
 
- _expression_ .**PageMovementType**
+ _expression_ .'PageMovementType'
 
- _expression_ Required. A variable that represents a **[View](Word.View.md)** object.
+ _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 ## Example
 

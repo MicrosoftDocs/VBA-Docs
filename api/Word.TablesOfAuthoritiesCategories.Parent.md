@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Tabl
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)** collection.
+ _expression_ Required. A variable that represents a '[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)' collection.
 
 
 ## See also

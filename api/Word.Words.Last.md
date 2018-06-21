@@ -20,7 +20,7 @@ Returns a  **Range** object that represents the last word in a collection of wor
 
  _expression_. 'Last'
 
- _expression_ Required. A variable that represents a **[Words](Word.words.md)** collection.
+ _expression_ Required. A variable that represents a '[Words](Word.words.md)' collection.
 
 
 ## Example

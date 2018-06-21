@@ -17,6 +17,6 @@ Gets a  **[List](Project.List.md)** object representing the task groups in the a
 
  _expression_. 'TaskGroupList'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

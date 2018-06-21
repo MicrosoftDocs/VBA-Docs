@@ -17,7 +17,7 @@ Gets the number of items in the  **TaskDependencies** collection. Read-only **Lo
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **TaskDependencies** object.
+ _expression_ A variable that represents a 'TaskDependencies' object.
 
 
 ## Remarks

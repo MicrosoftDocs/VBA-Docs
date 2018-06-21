@@ -18,7 +18,7 @@ Specifies the number of bins in the histogram chart. Read/write  **Long**.
 
  _expression_. 'BinsCountValue'
 
- _expression_ A variable that represents a **ChartGroup** object.
+ _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 
 
 ## See also

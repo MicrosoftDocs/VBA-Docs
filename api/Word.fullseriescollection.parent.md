@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Full
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **FullSeriesCollection** object.
+ _expression_ A variable that represents a 'FullSeriesCollection' object.
 
 
 ## Property value

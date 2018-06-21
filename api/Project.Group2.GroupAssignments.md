@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'GroupAssignments'
 
- _expression_ An expression that returns a **Group2** object.
+ _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 
 
 ## See also

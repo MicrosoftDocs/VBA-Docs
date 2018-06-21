@@ -20,7 +20,7 @@ Returns an  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** 
 
  _expression_. 'GetExchangeDistributionList'
 
- _expression_ A variable that represents an **AddressEntry** object.
+ _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
 ### Return Value

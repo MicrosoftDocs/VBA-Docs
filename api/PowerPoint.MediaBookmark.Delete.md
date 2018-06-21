@@ -20,7 +20,7 @@ Deletes the bookmark from the collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **MediaBookmark** object.
+ _expression_ A variable that represents a [MediaBookmark](./PowerPoint.MediaBookmark.md) object.
 
 
 ### Return Value

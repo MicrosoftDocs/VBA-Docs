@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'DownloadComponents'
 
- _expression_ A variable that represents a **WebOptions** object.
+ _expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Determines if the  **New** tab appears when the user opens Microsoft Visio. Read
 
  _expression_. 'ShowChooseDrawingTypePane'
 
- _expression_ A variable that represents an **ApplicationSettings** object.
+ _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

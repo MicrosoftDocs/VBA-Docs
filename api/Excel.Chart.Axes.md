@@ -20,7 +20,7 @@ Returns an object that represents either a single axis or a collection of the ax
 
  _expression_. 'Axes'( '_Type_' , '_AxisGroup_' )
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ### Parameters

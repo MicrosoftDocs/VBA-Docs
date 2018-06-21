@@ -17,6 +17,6 @@ Gets or sets the budget work (in hours) for an  **Assignment**. Read/write **Var
 
  _expression_. 'BudgetWork'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

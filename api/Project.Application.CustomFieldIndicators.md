@@ -20,7 +20,7 @@ Sets options for graphical indicators for a custom field.
 
  _expression_. 'CustomFieldIndicators'( ' _FieldID_', ' _SummaryInheritsNonsummary_', ' _ProjectInheritsSummary_', ' _ShowToolTips_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

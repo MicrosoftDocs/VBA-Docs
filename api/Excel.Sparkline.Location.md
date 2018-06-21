@@ -20,7 +20,7 @@ Returns or sets the location of a single sparkline. Read/write
 
  _expression_. 'Location'
 
- _expression_ A variable that represents a **[Sparkline](Excel.Sparkline.md)** object.
+ _expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
 
 
 ### Return Value

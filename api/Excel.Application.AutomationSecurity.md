@@ -20,7 +20,7 @@ Returns or sets an  **[MsoAutomationSecurity](http://msdn.microsoft.com/library/
 
  _expression_. 'AutomationSecurity'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Adds a shape or set of shapes to the list in the container.
 
  _expression_. 'InsertListMember'( '_ObjectToInsert_' , '_Position_' )
 
- _expression_ A variable that represents a **[ContainerProperties](Visio.ContainerProperties.md)** object.
+ _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
 ### Parameters

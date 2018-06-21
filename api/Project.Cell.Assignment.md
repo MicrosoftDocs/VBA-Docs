@@ -17,6 +17,6 @@ Gets the  **[Assignment](Project.Assignment.md)** associated with the **[Cell](P
 
  _expression_. 'Assignment'
 
- _expression_ An expression that returns a **Cell** object.
+ _expression_ An expression that returns a [Cell](./Project.Cell.md) object.
 
 

@@ -20,7 +20,7 @@ Displays a cached document associated with the specified  **Hyperlink** object, 
 
  _expression_. 'Follow'( '_NewWindow_' , '_AddHistory_' , '_ExtraInfo_' , '_Method_' , '_HeaderInfo_' )
 
- _expression_ Required. A variable that represents a **[Hyperlink](Word.Hyperlink.md)** object.
+ _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ### Parameters

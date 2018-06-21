@@ -20,7 +20,7 @@ Specifies the name of a cascading style sheet, including the drive or Web path. 
 
  _expression_. 'FullName'
 
- _expression_ Required. A variable that represents a **[StyleSheet](Word.StyleSheet.md)** object.
+ _expression_ Required. A variable that represents a '[StyleSheet](Word.StyleSheet.md)' object.
 
 
 ## Remarks

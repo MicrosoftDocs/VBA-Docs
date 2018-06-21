@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that specifies the length of the longest data 
 
  _expression_. 'PercentMax'
 
- _expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
+ _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Remarks

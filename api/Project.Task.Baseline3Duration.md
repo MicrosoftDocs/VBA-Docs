@@ -17,6 +17,6 @@ Gets or sets the baseline3 duration (in minutes) of a task. Read/write  **Varian
 
  _expression_. 'Baseline3Duration'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

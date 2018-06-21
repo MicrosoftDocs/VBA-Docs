@@ -20,7 +20,7 @@ Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **[SparkPoints](Excel.SparkPoints.md)** object.
+ _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
 
 
 ## See also

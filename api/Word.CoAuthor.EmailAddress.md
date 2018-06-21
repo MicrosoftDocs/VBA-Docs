@@ -20,7 +20,7 @@ Returns a string that specifies the e-mail address of the specified co author. R
 
  _expression_. 'EmailAddress'
 
- _expression_ An expression that returns a **[CoAuthor](Word.CoAuthor.md)** object.
+ _expression_ An expression that returns a '[CoAuthor](Word.CoAuthor.md)' object.
 
 
 ## Example

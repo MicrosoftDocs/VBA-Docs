@@ -20,7 +20,7 @@ Returns an  **Integer** value that represents the number of objects in the colle
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **ListColumns** object.
+ _expression_ A variable that represents a [ListColumns](./Excel.ListColumns.md) object.
 
 
 ## See also

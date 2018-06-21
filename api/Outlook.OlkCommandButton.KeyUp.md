@@ -20,7 +20,7 @@ Occurs when the user releases a key.
 
  _expression_. 'KeyUp'( '_KeyCode_' , '_Shift_' )
 
- _expression_ A variable that represents an **OlkCommandButton** object.
+ _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ A  **Boolean** value that is **True** if data validation is enabled in a list. R
 
  _expression_. 'ListDataValidation'
 
- _expression_ A variable that represents an **ErrorCheckingOptions** object.
+ _expression_ A variable that represents an [ErrorCheckingOptions](./Excel.ErrorCheckingOptions.md) object.
 
 
 ## See also

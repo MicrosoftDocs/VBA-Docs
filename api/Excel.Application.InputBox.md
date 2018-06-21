@@ -20,7 +20,7 @@ Displays a dialog box for user input. Returns the information entered in the dia
 
  _expression_. 'InputBox' ('_Prompt_', '_Title_', '_Default_', '_Left_', '_Top_', '_HelpFile_', '_HelpContextID_', '_Type_')
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

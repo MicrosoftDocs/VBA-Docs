@@ -20,7 +20,7 @@ Returns or sets the recipient code. Read/write  **String** .
 
  _expression_. 'RecipientCode'
 
- _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Remarks

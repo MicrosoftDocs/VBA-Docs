@@ -20,7 +20,7 @@ Returns a  **Variant** that represents the position of the specified node as a c
 
  _expression_. 'Points'
 
- _expression_ A variable that represents a **ShapeNode** object.
+ _expression_ A variable that represents a [ShapeNode](./PowerPoint.ShapeNode.md) object.
 
 
 ### Return Value

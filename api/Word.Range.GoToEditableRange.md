@@ -20,7 +20,7 @@ Returns a  **Range** object that represents an area of a document that can be mo
 
  _expression_. 'GoToEditableRange'( '_EditorID_' )
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets how the longest data bar is evaluated for the specified  **[FormatC
 
  _expression_. 'LongestBarLimit'
 
- _expression_ A variable that represents a **FormatCondition** object.
+ _expression_ A variable that represents a [FormatCondition](./Access.FormatCondition.md) object.
 
 
 ## Remarks

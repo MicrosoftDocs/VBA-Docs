@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IncludeChapterNumber'
 
- _expression_ A variable that represents a **[PageNumbers](Word.pagenumbers.md)** object.
+ _expression_ A variable that represents a '[PageNumbers](Word.pagenumbers.md)' object.
 
 
 ## Example

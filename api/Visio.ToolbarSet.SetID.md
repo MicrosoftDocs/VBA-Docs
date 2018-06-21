@@ -20,7 +20,7 @@ Returns the set ID of an  **ToolbarSet** object in its collection. Read-only.
 
  _expression_. 'SetID'
 
- _expression_ A variable that represents a **ToolbarSet** object.
+ _expression_ A variable that represents a [ToolbarSet](./Visio.ToolbarSet.md) object.
 
 
 ### Return Value

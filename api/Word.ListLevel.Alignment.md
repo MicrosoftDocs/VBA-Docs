@@ -20,7 +20,7 @@ Returns or sets a  **WdListLevelAlignment** constant that represents the alignme
 
  _expression_. 'Alignment'
 
- _expression_ Required. A variable that represents a **[ListLevel](Word.ListLevel.md)** object.
+ _expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## See also

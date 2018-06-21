@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range t
 
  _expression_. 'Range'
 
- _expression_ A variable that represents an **AutoFilter** object.
+ _expression_ A variable that represents an [AutoFilter](./Excel.AutoFilter.md) object.
 
 
 ## Example

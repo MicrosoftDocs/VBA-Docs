@@ -20,7 +20,7 @@ Deletes an object or selection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Characters** object.
+ _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
 ### Return Value

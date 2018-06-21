@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the country/region code portion of th
 
  _expression_. 'BusinessAddressCountry'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

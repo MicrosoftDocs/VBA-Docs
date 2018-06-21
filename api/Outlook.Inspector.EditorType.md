@@ -20,7 +20,7 @@ Returns an  **[OlEditorType](Outlook.OlEditorType.md)** constant indicating the 
 
  _expression_. 'EditorType'
 
- _expression_ A variable that represents an **Inspector** object.
+ _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ## Remarks

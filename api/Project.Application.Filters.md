@@ -20,7 +20,7 @@ Displays the  **More Filters** dialog box, which prompts the user to use a filte
 
  _expression_. 'Filters'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

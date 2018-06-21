@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of records in the data source. Re
 
  _expression_. 'RecordCount'
 
- _expression_ An expression that returns a **[MailMergeDataSource](Word.MailMergeDataSource.md)** object.
+ _expression_ An expression that returns a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Remarks

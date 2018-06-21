@@ -20,7 +20,7 @@ The  **HelpContextID** property specifies the context ID of a topic in the custo
 
  _expression_. 'HelpContextId'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## Remarks

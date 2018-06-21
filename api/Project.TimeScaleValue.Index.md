@@ -17,7 +17,7 @@ Gets the index of a  **TimeScaleValue** object in the **TimeScaleValues** contai
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **TimeScaleValue** object.
+ _expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
 
 
 ## Remarks

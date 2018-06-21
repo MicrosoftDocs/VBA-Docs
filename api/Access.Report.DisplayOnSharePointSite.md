@@ -20,7 +20,7 @@ Gets or sets whether the specified report can be made available as a view on a M
 
  _expression_. 'DisplayOnSharePointSite'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

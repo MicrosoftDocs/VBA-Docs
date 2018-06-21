@@ -15,7 +15,7 @@ Gets the  **Parent** object for the **TextRange2** object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ### Return Value

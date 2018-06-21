@@ -20,7 +20,7 @@ Returns or sets the number format applied to a cell if the conditional formattin
 
  _expression_. 'NumberFormat'
 
- _expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
+ _expression_ A variable that represents a '[UniqueValues](Excel.UniqueValues.md)' object.
 
 
 ## Remarks

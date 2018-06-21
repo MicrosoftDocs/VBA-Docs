@@ -20,7 +20,7 @@ Returns the maximum number of custom or conversion dictionaries allowed. Read-on
 
  _expression_. 'Maximum'
 
- _expression_ Required. A variable that represents a **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection.
+ _expression_ Required. A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
 
 
 ## See also

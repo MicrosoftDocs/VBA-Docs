@@ -20,7 +20,7 @@ Reurns or sets a  **Long** that indicates the location of the currently selected
 
  _expression_. 'ListIndex'
 
- _expression_ A variable that represents an **OlkComboBox** object.
+ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

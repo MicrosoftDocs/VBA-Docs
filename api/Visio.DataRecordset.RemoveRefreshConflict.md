@@ -23,7 +23,7 @@ Clears information about a conflict for a data-linked shape from the current doc
 
  _expression_. 'RemoveRefreshConflict'( '_ShapeInConflict_' )
 
- _expression_ An expression that returns a **DataRecordset** object.
+ _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
 ### Parameters

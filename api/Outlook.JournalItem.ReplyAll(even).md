@@ -17,7 +17,7 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
 
  _expression_. 'ReplyAll'( '_Response_' , '_Cancel_' )
 
- _expression_ A variable that represents a **JournalItem** object.
+ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ### Parameters

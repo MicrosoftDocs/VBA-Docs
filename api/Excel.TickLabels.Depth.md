@@ -20,7 +20,7 @@ Returns a  **Long** value that represents the number of levels of category tick 
 
  _expression_. 'Depth'
 
- _expression_ A variable that represents a **TickLabels** object.
+ _expression_ A variable that represents a [TickLabels](./Excel.TickLabels(Graph property).md) object.
 
 
 ## See also

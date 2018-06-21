@@ -20,7 +20,7 @@ Returns a  **Boolean** that determines if the item is a winner of an automatic c
 
  _expression_. 'AutoResolvedWinner'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

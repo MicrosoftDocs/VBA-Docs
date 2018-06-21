@@ -20,7 +20,7 @@ You can use the  **DDEInitiate** function to begin a dynamic data exchange (DDE)
 
  _expression_. 'DDEInitiate'( ' _Application_', ' _Topic_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

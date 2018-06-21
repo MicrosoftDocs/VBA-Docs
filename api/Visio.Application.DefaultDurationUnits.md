@@ -20,7 +20,7 @@ Determines the default unit of measure for quantities that represent durations. 
 
  _expression_. 'DefaultDurationUnits'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

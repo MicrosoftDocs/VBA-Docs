@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates whether the **[SharingItem](Outlook.
 
  _expression_. 'IsMarkedAsTask'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

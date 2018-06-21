@@ -18,7 +18,7 @@ If an [BinsOverflowEnabled](http://msdn.microsoft.com/library/3af8d552-94e1-6f15
 
  _expression_. 'BinsOverflowValue'
 
- _expression_ A variable that represents a **ChartGroup** object.
+ _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 
 
 ## See also

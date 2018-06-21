@@ -20,7 +20,7 @@ Specifies whether certain worksheet functions use the latest accuracy algorithms
 
  _expression_. 'AccuracyVersion'
 
- _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** object.
+ _expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
 
 
 ### Return Value

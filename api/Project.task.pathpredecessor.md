@@ -16,7 +16,7 @@ Gets a value that indicates whether the task is a predecessor of the selected ta
 
  _expression_. 'PathPredecessor'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

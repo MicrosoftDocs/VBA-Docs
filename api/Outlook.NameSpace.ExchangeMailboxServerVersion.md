@@ -20,7 +20,7 @@ Returns a  **String** value that represents the full version number of the Excha
 
  _expression_. 'ExchangeMailboxServerVersion'
 
- _expression_ An expression that returns a **[NameSpace](Outlook.NameSpace.md)** object.
+ _expression_ An expression that returns a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Remarks

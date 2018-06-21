@@ -17,6 +17,6 @@ Gets or sets the start date of the task. Read-only for summary tasks. Read/write
 
  _expression_. 'Start'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

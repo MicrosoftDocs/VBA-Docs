@@ -20,7 +20,7 @@ Delays the reminder by a specified time.
 
  _expression_. 'Snooze'( '_SnoozeTime_' )
 
- _expression_ An expression that returns a **Reminder** object.
+ _expression_ An expression that returns a [Reminder](./Outlook.Reminder.md) object.
 
 
 ### Parameters

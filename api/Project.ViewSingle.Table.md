@@ -20,6 +20,6 @@ Gets or sets a  **[Table](Project.Table.md)** object representing the table of t
 
  _expression_. 'Table'
 
- _expression_ A variable that represents a **ViewSingle** object.
+ _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
 

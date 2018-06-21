@@ -20,7 +20,7 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 
  _expression_. 'Characters'( '_Start_' , '_Length_' )
 
- _expression_ A variable that represents a **ChartTitle** object.
+ _expression_ A variable that represents a [ChartTitle](./Excel.ChartTitle(Graph property).md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **Long** that indicates the LCID for the current language. Read-only.
 
  _expression_. 'Language'
 
- _expression_ A variable that represents a **FormRegion** object.
+ _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ## See also

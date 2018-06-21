@@ -18,7 +18,7 @@ TRUE indicates that the Excel Flash Fill feature has been enabled and active.
 
  _expression_. 'FlashFill'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Return value

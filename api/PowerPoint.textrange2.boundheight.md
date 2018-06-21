@@ -15,7 +15,7 @@ Gets the height, in points, of the text bounding box for the specified text. Rea
 
  _expression_. 'BoundHeight'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ### Return Value

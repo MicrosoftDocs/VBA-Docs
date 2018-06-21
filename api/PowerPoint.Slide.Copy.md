@@ -20,7 +20,7 @@ Copies the specified object to the Clipboard.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **Slide** object.
+ _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
 ## Remarks

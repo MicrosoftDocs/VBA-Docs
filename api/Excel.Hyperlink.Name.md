@@ -20,7 +20,7 @@ Returns a  **String** value that represents the name of the object.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Excel.Hyperlink.md) object.
 
 
 ## See also

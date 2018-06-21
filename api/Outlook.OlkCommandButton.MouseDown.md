@@ -20,7 +20,7 @@ Occurs when the user presses a mouse button on the control.
 
  _expression_. 'MouseDown'( '_Button_' , '_Shift_' , '_X_' , '_Y_' )
 
- _expression_ A variable that represents an **OlkCommandButton** object.
+ _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ### Parameters

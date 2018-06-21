@@ -20,7 +20,7 @@ Returns a  **Long** that represents the ordinal position of a column within the 
 
  _expression_. 'ColIndex'
 
- _expression_ An expression that returns an **[OMathMatCol](Word.OMathMatCol.md)** object.
+ _expression_ An expression that returns an '[OMathMatCol](Word.OMathMatCol.md)' object.
 
 
 ## See also

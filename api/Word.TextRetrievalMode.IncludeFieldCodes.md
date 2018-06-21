@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IncludeFieldCodes'
 
- _expression_ An expression that returns a **[TextRetrievalMode](Word.TextRetrievalMode.md)** object.
+ _expression_ An expression that returns a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 
 
 ## Remarks

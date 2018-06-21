@@ -23,7 +23,7 @@ Gets the  **Document** object that contains the **Master** object of type **visT
 
  _expression_. 'Document'
 
- _expression_ An expression that returns a **GraphicItems** object.
+ _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 
 
 ### Return Value

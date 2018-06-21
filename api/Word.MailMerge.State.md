@@ -20,7 +20,7 @@ Returns the current state of a mail merge operation. Read-only  **WdMailMergeSta
 
  _expression_. 'State'
 
- _expression_ Required. A variable that represents a **[MailMerge](Word.MailMerge.md)** object.
+ _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
 ## Example

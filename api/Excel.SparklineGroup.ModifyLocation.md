@@ -20,7 +20,7 @@ Sets the associated  **[Range](http://msdn.microsoft.com/library/8bc4841b-72f7-3
 
  _expression_. 'ModifyLocation'( '_Location_' )
 
- _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
+ _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ### Parameters

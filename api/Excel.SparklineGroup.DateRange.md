@@ -20,7 +20,7 @@ Gets or sets the date range for the sparkline group. Read/write.
 
  _expression_. 'DateRange'
 
- _expression_ A variable that represents a **[SparklineGroup](Excel.SparklineGroup.md)** object.
+ _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ### Return Value

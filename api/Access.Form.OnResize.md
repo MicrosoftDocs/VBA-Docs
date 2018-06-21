@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Resize** box in the **Properties** window
 
  _expression_. 'OnResize'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

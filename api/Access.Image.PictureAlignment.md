@@ -20,7 +20,7 @@ You can use the  **PictureAlignment** property to specify where a background pic
 
  _expression_. 'PictureAlignment'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

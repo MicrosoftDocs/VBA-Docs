@@ -20,7 +20,7 @@ You can use the  **SubAddress** property to specify or determine a location with
 
  _expression_. 'SubAddress'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Access.Hyperlink.md) object.
 
 
 ## Remarks

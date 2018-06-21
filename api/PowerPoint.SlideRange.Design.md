@@ -20,7 +20,7 @@ Returns a  **Design** object representing a design.
 
  _expression_. 'Design'
 
- _expression_ A variable that represents a **SlideRange** object.
+ _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ### Return Value

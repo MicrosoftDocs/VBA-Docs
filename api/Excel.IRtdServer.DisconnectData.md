@@ -20,7 +20,7 @@ Notifies a real-time data (RTD) server application that a topic is no longer in 
 
  _expression_. 'DisconnectData'( '_TopicID_' )
 
- _expression_ A variable that represents an **IRtdServer** object.
+ _expression_ A variable that represents an [IRtdServer](./Excel.IRtdServer.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Determines whether a custom (named) slide show is displayed in the specified sli
 
  _expression_. 'IsNamedShow'
 
- _expression_ A variable that represents an **SlideShowView** object.
+ _expression_ A variable that represents an [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ### Return Value

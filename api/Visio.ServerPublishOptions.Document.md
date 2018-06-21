@@ -23,7 +23,7 @@ Gets the  **[Document](Visio.Document.md)** object that is associated with an ob
 
  _expression_. 'Document'
 
- _expression_ A variable that represents a **[ServerPublishOptions](Visio.ServerPublishOptions.md)** object.
+ _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
 ### Return Value

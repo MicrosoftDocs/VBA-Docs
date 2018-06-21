@@ -18,7 +18,7 @@ Returns the [Application](Outlook.Application.md) object that represents the par
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **PreviewPane** object.
+ _expression_ A variable that represents a 'PreviewPane' object.
 
 
 ## See also

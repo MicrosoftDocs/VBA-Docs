@@ -20,7 +20,7 @@ Deletes the specified exception.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[HangulAndAlphabetException](Word.HangulAndAlphabetException.md)** object.
+ _expression_ Required. A variable that represents a '[HangulAndAlphabetException](Word.HangulAndAlphabetException.md)' object.
 
 
 ## See also

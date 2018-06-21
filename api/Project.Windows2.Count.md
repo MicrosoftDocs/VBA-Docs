@@ -17,7 +17,7 @@ Gets the number of items in the  **Windows2** collection. Read-only **Long**.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Windows2** object.
+ _expression_ A variable that represents a 'Windows2' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns an item of a collection using the ID of the item. Read-only.
 
  _expression_. 'ItemFromID'( '_nID_' )
 
- _expression_ A variable that represents a **MasterShortcuts** collection.
+ _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) collection.
 
 
 ### Parameters

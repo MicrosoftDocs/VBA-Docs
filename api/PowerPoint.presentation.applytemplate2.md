@@ -18,7 +18,7 @@ Applies a design template and theme variant to the presentation.
 
  _expression_. 'ApplyTemplate2'_(FileName,_ _Variant)_
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Determines whether the application recalculates cell formulas during a series of
 
  _expression_. 'DeferRecalc'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

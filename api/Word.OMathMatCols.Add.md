@@ -20,7 +20,7 @@ Creates an equation column and adds it to a matrix and returns an  **OMathMatCol
 
  _expression_. 'Add'( '_BeforeCol_' )
 
- _expression_ An expression that returns a **OMathMatCols** object.
+ _expression_ An expression that returns a [OMathMatCols](./Word.OMathMatCols.md) object.
 
 
 ### Parameters

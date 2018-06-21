@@ -17,7 +17,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
  _expression_. 'Unload'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

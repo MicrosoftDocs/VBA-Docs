@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Strikethrough'
 
- _expression_ A variable that represents a **Font** object.
+ _expression_ A variable that represents a [Font](./Excel.Font(Graph property).md) object.
 
 
 ## Example

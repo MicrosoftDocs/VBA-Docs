@@ -20,7 +20,7 @@ Sets or returns a  **Boolean** that represents whether to display an alert messa
 
  _expression_. 'EnableLargeOperationAlert'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

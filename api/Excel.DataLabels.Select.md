@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. 'Select'
 
- _expression_ A variable that represents a **DataLabels** object.
+ _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
 
 
 ### Return Value

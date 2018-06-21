@@ -20,7 +20,7 @@ Shows a preview of the object as it would look when printed.
 
  _expression_. 'PrintPreview'( '_EnableChanges_' )
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

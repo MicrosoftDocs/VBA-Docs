@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that specifies if a selection is displayed or hid
 
  _expression_. 'HideSelection'
 
- _expression_ A variable that represents an **OlkTimeControl** object.
+ _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

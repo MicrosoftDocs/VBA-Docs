@@ -20,7 +20,7 @@ Returns or sets an  **[OlPictureAlignment](Outlook.OlPictureAlignment.md)** cons
 
  _expression_. 'PictureAlignment'
 
- _expression_ A variable that represents an **OlkCommandButton** object.
+ _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ## See also

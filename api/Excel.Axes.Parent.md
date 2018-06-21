@@ -20,7 +20,7 @@ Returns the parent object for the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **Axes** object.
+ _expression_ A variable that represents an [Axes](./Excel.Axes(object).md) object.
 
 
 ## Example

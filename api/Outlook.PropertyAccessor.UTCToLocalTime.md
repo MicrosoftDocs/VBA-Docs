@@ -20,7 +20,7 @@ Converts the date-time value that is specified by  _Value_ and expressed in Coor
 
  _expression_. 'UTCToLocalTime'( '_Value_' )
 
- _expression_ A variable that represents a **PropertyAccessor** object.
+ _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
 ### Parameters

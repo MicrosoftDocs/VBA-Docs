@@ -20,7 +20,7 @@ Sets or returns a  **Single** that represents the starting width or horizontal p
 
  _expression_. 'FromX'
 
- _expression_ A variable that represents a **MotionEffect** object.
+ _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 
 
 ### Return Value

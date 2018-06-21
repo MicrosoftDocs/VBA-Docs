@@ -13,7 +13,7 @@ The  **Shapes.Background** property is not implemented for Office Art in the Off
 
  _expression_. 'Background'
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a 'Shapes' object.
 
 
 ## Remarks

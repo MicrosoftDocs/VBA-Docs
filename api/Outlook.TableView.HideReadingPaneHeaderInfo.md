@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines whether the header for an O
 
  _expression_. 'HideReadingPaneHeaderInfo'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## See also

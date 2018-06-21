@@ -20,7 +20,7 @@ Returns or sets the text string label displayed in the subtotal column or row he
 
  _expression_. 'SubtotalName'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## Example

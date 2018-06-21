@@ -20,7 +20,7 @@ Returns or sets the color of text that is inserted while change tracking is enab
 
  _expression_. 'InsertedTextColor'
 
- _expression_ Required. A variable that represents an **[Options](Word.Options.md)** collection.
+ _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks

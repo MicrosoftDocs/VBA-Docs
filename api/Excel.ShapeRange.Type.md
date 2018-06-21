@@ -20,7 +20,7 @@ Returns a  **[MsoShapeType](http://msdn.microsoft.com/library/21ab1915-9885-5837
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## See also

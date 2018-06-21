@@ -20,7 +20,7 @@ The  **RunCommand** method runs a built-in command.
 
  _expression_. 'RunCommand'( ' _Command_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

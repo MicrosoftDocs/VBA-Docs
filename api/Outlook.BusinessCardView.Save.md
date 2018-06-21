@@ -20,7 +20,7 @@ Saves the view, or saves the changes to a view.
 
  _expression_. 'Save'
 
- _expression_ An expression that returns a **BusinessCardView** object.
+ _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 
 
 ## Example

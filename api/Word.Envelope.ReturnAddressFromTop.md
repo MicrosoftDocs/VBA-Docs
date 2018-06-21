@@ -20,7 +20,7 @@ Returns or sets the distance (in points) between the top edge of the envelope an
 
  _expression_. 'ReturnAddressFromTop'
 
- _expression_ An expression that returns an **[Envelope](Word.Envelope.md)** object.
+ _expression_ An expression that returns an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

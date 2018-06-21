@@ -20,7 +20,7 @@ Gets or sets whether the sorting specified by the  **[OrderBy](Access.Form.Order
 
  _expression_. 'OrderByOnLoad'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Applies a filter to the  **[Items](Outlook.Items.md)** collection, returning a n
 
  _expression_. 'Restrict'( '_Filter_' )
 
- _expression_ An expression that returns a **Items** object.
+ _expression_ An expression that returns a [Items](./Outlook.Items.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **CoAu
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **CoAuthors** object.
+ _expression_ An expression that returns a [CoAuthors](./Word.CoAuthors.md) object.
 
 
 ## See also

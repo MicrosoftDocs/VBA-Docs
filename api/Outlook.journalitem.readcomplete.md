@@ -18,7 +18,7 @@ Version Added: Outlook 2013
 
  _expression_. 'ReadComplete'_(Cancel)_
 
- _expression_ A variable that represents a **JournalItem** object.
+ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ### Parameters

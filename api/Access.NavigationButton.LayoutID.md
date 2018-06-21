@@ -20,7 +20,7 @@ Returns the unique identifier for the layout that contains the specified text bo
 
  _expression_. 'LayoutID'
 
- _expression_ A variable that represents a **NavigationButton** object.
+ _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 
 
 ## Remarks

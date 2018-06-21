@@ -17,7 +17,7 @@ Adds a  **Task** object to a **Tasks** collection.
 
  _expression_. 'Add'( ' _Name_', ' _Before_' )
 
- _expression_ A variable that represents a **Tasks** object.
+ _expression_ A variable that represents a 'Tasks' object.
 
 
 ### Parameters

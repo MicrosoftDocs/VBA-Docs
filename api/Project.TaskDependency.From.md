@@ -20,7 +20,7 @@ Gets a  **[Task](Project.Task.md)** object that is the predecessor in a task dep
 
  _expression_. 'From'
 
- _expression_ A variable that represents a **TaskDependency** object.
+ _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 
 
 ## Example

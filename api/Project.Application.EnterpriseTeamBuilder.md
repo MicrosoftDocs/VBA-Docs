@@ -20,7 +20,7 @@ Displays the  **Build Team** dialog box. Available in Project Professional only.
 
  _expression_. 'EnterpriseTeamBuilder'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

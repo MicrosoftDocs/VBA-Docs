@@ -20,7 +20,7 @@ Returns true if this author represents the current user. Read-only.
 
  _expression_. 'IsMe'
 
- _expression_ An expression that returns a **CoAuthor** object.
+ _expression_ An expression that returns a [CoAuthor](./Word.CoAuthor.md) object.
 
 
 ## Example

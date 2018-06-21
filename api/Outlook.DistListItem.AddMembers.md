@@ -20,7 +20,7 @@ Adds new members to a distribution list.
 
  _expression_. 'AddMembers'( '_Recipients_' )
 
- _expression_ A variable that represents a **DistListItem** object.
+ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ### Parameters

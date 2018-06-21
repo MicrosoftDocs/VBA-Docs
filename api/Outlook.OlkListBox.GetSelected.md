@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates if the indexed item is currently selected.
 
  _expression_. 'GetSelected'( '_Index_' )
 
- _expression_ A variable that represents an **OlkListBox** object.
+ _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ### Parameters

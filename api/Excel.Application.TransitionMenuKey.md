@@ -20,7 +20,7 @@ Returns or sets the Microsoft Excel menu or help key, which is usually "/". Read
 
  _expression_. 'TransitionMenuKey'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

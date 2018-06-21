@@ -20,7 +20,7 @@ Returns or sets the height (in points) of the specified shape. Read/write  **Sin
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
+ _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## Example

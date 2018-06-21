@@ -17,7 +17,7 @@ Returns or sets the value for horizontally scaling the text for the  **FillForma
 
  _expression_. 'TextureHorizontalScale'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 
 
 ## See also

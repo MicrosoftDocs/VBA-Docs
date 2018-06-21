@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the placement of the second line o
 
  _expression_. 'OMathWrap'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

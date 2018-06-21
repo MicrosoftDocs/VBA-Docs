@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'DocumentMap'
 
- _expression_ A variable that represents a **[Window](Word.Window.md)** object.
+ _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Example

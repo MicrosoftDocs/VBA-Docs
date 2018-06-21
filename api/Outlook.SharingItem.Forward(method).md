@@ -20,7 +20,7 @@ Executes the  **Forward** action for an item and returns the resulting copy as a
 
  _expression_. 'Forward'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ### Return Value

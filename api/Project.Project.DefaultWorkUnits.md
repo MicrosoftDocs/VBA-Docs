@@ -17,7 +17,7 @@ Gets or sets the default work units for the project. Read/write  **PjUnit**.
 
  _expression_. 'DefaultWorkUnits'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the way pictures are displayed on a legend key. Read/write  **[X
 
  _expression_. 'PictureType'
 
- _expression_ A variable that represents a **[LegendKey](Word.LegendKey.md)** object.
+ _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
 
 
 ## See also

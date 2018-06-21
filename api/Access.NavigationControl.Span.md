@@ -20,7 +20,7 @@ Gets or sets the orientation of the navigation buttons. Read/write  **[AcNavigat
 
  _expression_. 'Span'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## See also

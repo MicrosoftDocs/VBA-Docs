@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the **Addins** colle
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns an **[AddIns](Word.addins.md)** collection.
+ _expression_ An expression that returns an '[AddIns](Word.addins.md)' collection.
 
 
 ## See also

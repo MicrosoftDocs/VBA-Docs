@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates if the font is italicized in
 
  _expression_. 'Italic'
 
- _expression_ A variable that represents a **ViewFont** object.
+ _expression_ A variable that represents a [ViewFont](./Outlook.ViewFont.md) object.
 
 
 ## See also

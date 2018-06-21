@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the object frame and its ri
 
  _expression_. 'RightPadding'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## See also

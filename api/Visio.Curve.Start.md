@@ -20,7 +20,7 @@ Returns the start of a  **Curve** object's parameter domain. Read-only.
 
  _expression_. 'Start'
 
- _expression_ A variable that represents a **Curve** object.
+ _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
 
 ### Return Value

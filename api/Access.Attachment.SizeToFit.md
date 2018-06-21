@@ -20,7 +20,7 @@ You can use the  **SizeToFit** method to size a control so it fits the text or i
 
  _expression_. 'SizeToFit'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

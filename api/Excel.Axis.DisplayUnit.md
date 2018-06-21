@@ -20,7 +20,7 @@ Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit]
 
  _expression_. 'DisplayUnit'
 
- _expression_ A variable that represents an **Axis** object.
+ _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 
 
 ## Remarks

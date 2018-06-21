@@ -16,7 +16,7 @@ Opens or creates a project file from a project site on SharePoint, by using the 
 
  _expression_. 'FileOpenOrCreate' _(Name)_
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

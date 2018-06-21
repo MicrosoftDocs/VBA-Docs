@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the description for a building blo
 
  _expression_. 'Description'
 
- _expression_ An expression that returns a **BuildingBlock** object.
+ _expression_ An expression that returns a [BuildingBlock](./Word.BuildingBlock.md) object.
 
 
 ## See also

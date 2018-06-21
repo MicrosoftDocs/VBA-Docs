@@ -20,7 +20,7 @@ Automatically formats a document. Use the  **Kind** property to specify a docume
 
  _expression_. 'AutoFormat'
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Example

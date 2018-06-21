@@ -20,7 +20,7 @@ Promotes a task in the outline.
 
  _expression_. 'OutlineOutdent'( ' _Levels_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

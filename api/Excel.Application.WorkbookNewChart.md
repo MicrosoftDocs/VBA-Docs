@@ -20,7 +20,7 @@ Occurs when a new chart is created in any open workbook.
 
  _expression_. 'WorkbookNewChart'( '_Wb_' , '_Ch_' )
 
- _expression_ A variable that represents an **[Application](Excel.Application(objec).md)** object.
+ _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets the height of the specified object, in points. Read/write.
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **DocumentWindow** object.
+ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ### Return Value

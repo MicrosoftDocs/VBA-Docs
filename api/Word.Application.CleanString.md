@@ -20,7 +20,7 @@ Removes nonprinting characters (character codes 1 ? 29) and special Word charact
 
  _expression_. 'CleanString'( '_String_' )
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object. Optional.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets the description of the Japanese input rules. Can be one of the  
 
  _expression_. 'IMEMode'
 
- _expression_ A variable that represents a **Validation** object.
+ _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
 
 
 ## Remarks

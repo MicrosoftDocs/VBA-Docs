@@ -20,7 +20,7 @@ Sends the e-mail message.
 
  _expression_. 'Send'
 
- _expression_ A variable that represents a **MailItem** object.
+ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

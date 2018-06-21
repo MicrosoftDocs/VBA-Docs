@@ -20,7 +20,7 @@ Occurs when the user presses an ANSI key.
 
  _expression_. 'KeyPress'( '_KeyAscii_' )
 
- _expression_ A variable that represents an **OlkTimeControl** object.
+ _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ### Parameters

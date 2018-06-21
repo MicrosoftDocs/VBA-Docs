@@ -20,7 +20,7 @@ Returns the number of objects in a collection. Read-only.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents an **OLEObjects** object.
+ _expression_ A variable that represents an [OLEObjects](./Visio.OLEObjects.md) object.
 
 
 ### Return Value

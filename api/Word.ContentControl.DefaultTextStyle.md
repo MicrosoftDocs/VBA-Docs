@@ -20,7 +20,7 @@ Returns or sets a  **Variant** that represents the name of the character style t
 
  _expression_. 'DefaultTextStyle'
 
- _expression_ An expression that returns a **[ContentControl](Word.ContentControl.md)** object.
+ _expression_ An expression that returns a '[ContentControl](Word.ContentControl.md)' object.
 
 
 ## See also

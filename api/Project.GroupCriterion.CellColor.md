@@ -17,7 +17,7 @@ Gets or sets the color of the cell background for a field used as a criterion in
 
  _expression_. 'CellColor'
 
- _expression_ A variable that represents a **GroupCriterion** object.
+ _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 
 
 ## Remarks

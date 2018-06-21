@@ -20,7 +20,7 @@ Returns a constant from the  **[OlItemType](Outlook.OlItemType.md)** enumeration
 
  _expression_. 'DefaultItemType'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## See also

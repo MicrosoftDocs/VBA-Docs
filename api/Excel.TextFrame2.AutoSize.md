@@ -17,7 +17,7 @@ The size of the specified object that changes automatically to fit text within i
 
  _expression_. 'AutoSize'
 
- _expression_ A variable that represents a **TextFrame2** object.
+ _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
 
 
 ## See also

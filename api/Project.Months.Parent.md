@@ -17,7 +17,7 @@ Gets the parent of the  **Months** object. Read-only **Year**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Months** object.
+ _expression_ A variable that represents a 'Months' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns  **msoTrue** if the specified shape is a child shape or if all shapes in
 
  _expression_. 'Child'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Remarks

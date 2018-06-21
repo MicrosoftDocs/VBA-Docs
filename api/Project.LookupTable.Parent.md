@@ -17,7 +17,7 @@ Gets the parent of the  **LookupTable** object. Read-only **OutlineCode**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **LookupTable** object.
+ _expression_ A variable that represents a 'LookupTable' object.
 
 
 ## Remarks

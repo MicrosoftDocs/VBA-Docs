@@ -20,7 +20,7 @@ Returns a  **String** indicating the display name for the intended sender of the
 
  _expression_. 'SentOnBehalfOfName'
 
- _expression_ A variable that represents a **MailItem** object.
+ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

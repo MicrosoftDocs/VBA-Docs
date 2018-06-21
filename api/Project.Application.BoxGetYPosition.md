@@ -20,7 +20,7 @@ Returns the vertical position of the upper-left corner of a box in the active Ne
 
  _expression_. 'BoxGetYPosition'( ' _TaskID_', ' _ProjectName_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

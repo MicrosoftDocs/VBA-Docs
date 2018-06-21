@@ -20,7 +20,7 @@ Returns or sets the left indent value (in characters) for the specified paragrap
 
  _expression_. 'CharacterUnitLeftIndent'
 
- _expression_ Required. A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
+ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example

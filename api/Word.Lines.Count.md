@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of lines in the collection. Read-
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Lines](Word.Lines.md)** collection.
+ _expression_ Required. A variable that represents a '[Lines](Word.Lines.md)' collection.
 
 
 ## See also

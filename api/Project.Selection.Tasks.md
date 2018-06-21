@@ -17,7 +17,7 @@ Gets a  **[Tasks](Project.Task.md)** collection representing the tasks in the se
 
  _expression_. 'Tasks'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Project.Selection.md) object.
 
 
 ## Example

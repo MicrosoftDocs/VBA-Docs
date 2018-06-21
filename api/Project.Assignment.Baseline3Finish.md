@@ -17,6 +17,6 @@ Gets or sets the baseline finish date of a task  **Assignment**. Read/write **Va
 
  _expression_. 'Baseline3Finish'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

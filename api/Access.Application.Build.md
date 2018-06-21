@@ -20,7 +20,7 @@ Returns as a  **Long** representing the build number of the currently installed 
 
  _expression_. 'Build'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ## Example

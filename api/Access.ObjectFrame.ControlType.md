@@ -20,7 +20,7 @@ You can use the  **ControlType** property in Visual Basic to determine the type 
 
  _expression_. 'ControlType'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## Remarks

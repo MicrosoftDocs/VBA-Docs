@@ -18,7 +18,7 @@ Returns a [ModelFormatCurrency](Excel.modelformatcurrency.md) object that repres
 
  _expression_. 'ModelFormatCurrency'
 
- _expression_ A variable that represents a **Model** object.
+ _expression_ A variable that represents a 'Model' object.
 
 
 ## See also

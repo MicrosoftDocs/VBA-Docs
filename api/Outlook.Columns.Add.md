@@ -20,7 +20,7 @@ Adds the  **[Column](Outlook.Column.md)** specified by _Name_ to the **[Columns]
 
  _expression_. 'Add'( '_Name_' )
 
- _expression_ A variable that represents a **Columns** object.
+ _expression_ A variable that represents a [Columns](./Outlook.Columns.md) object.
 
 
 ### Parameters

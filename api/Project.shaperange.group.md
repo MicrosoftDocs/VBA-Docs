@@ -13,7 +13,7 @@ The  **Group** method is not implemented in Project.
 
  _expression_. 'Group'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ### Return value

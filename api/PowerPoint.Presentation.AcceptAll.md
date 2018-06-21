@@ -20,7 +20,7 @@ Accepts all changes.
 
  _expression_. 'AcceptAll'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

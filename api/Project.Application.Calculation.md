@@ -17,7 +17,7 @@ Gets or sets the calculation mode. Read/write  **PjCalculation**.
 
  _expression_. 'Calculation'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

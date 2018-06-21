@@ -20,7 +20,7 @@ Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that represents automa
 
  _expression_. 'AutoCorrectEmail'
 
- _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

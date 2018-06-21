@@ -20,7 +20,7 @@ Displays HTML pages within Project when the  **Project Guide** is shown or hidde
 
  _expression_. 'LoadWebBrowserControlEx'( ' _TargetPage_', ' _WrapperPage_', ' _FunctionalityName_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

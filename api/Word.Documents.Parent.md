@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Docu
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[Documents](Word.documents.md)** collection.
+ _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
 ## See also

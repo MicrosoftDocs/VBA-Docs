@@ -20,7 +20,7 @@ Returns a  **[Browser](Word.Browser.md)** object that represents the **Select Br
 
  _expression_. 'Browser'
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Example

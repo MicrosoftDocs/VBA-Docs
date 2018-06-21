@@ -17,7 +17,7 @@ Gets the parent of the object. Read-only  **Project**.
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **Group2** object.
+ _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 
 
 ## Remarks

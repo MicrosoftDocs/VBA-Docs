@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of tables of contents in the coll
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[TablesOfContents](Word.tablesofcontents.md)** collection.
+ _expression_ Required. A variable that represents a '[TablesOfContents](Word.tablesofcontents.md)' collection.
 
 
 ## See also

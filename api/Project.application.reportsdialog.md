@@ -16,7 +16,7 @@ Displays the  **Reports** dialog box, which enables you to select the Office Art
 
  _expression_. 'ReportsDialog'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return value

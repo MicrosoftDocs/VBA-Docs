@@ -20,7 +20,7 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 
  _expression_. 'Ruler'
 
- _expression_ An expression that returns a **TextFrame2** object.
+ _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a  **String** that specifies the name of the retention policy. Read-only
 
  _expression_. 'RetentionPolicyName'
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## Remarks

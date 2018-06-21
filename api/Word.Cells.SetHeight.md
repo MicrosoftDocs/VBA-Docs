@@ -20,7 +20,7 @@ Sets the height of table cells.
 
  _expression_. 'SetHeight'( '_RowHeight_' , '_HeightRule_' )
 
- _expression_ Required. A variable that represents a **[Cells](Word.cells.md)** collection.
+ _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ### Parameters

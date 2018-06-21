@@ -20,7 +20,7 @@ Occurs before a specified command is executed. Use this event when you want to i
 
  _expression_. 'CommandBeforeExecute'( ' _Command_', ' _Cancel_' )
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Gets the arguments specified for the macro action that was executing when an err
 
  _expression_. 'Arguments'
 
- _expression_ A variable that represents a **MacroError** object.
+ _expression_ A variable that represents a [MacroError](./Access.MacroError.md) object.
 
 
 ## Remarks

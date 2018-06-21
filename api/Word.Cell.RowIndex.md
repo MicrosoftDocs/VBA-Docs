@@ -20,7 +20,7 @@ Returns the number of the row that contains the specified cell. Read-only  **Lon
 
  _expression_. 'RowIndex'
 
- _expression_ An expression that returns a **[Cell](Word.Cell.md)** object.
+ _expression_ An expression that returns a '[Cell](Word.Cell.md)' object.
 
 
 ## Example

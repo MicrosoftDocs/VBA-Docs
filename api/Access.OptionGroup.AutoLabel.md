@@ -20,7 +20,7 @@ Specifies whether labels are automatically created and attached to new controls.
 
  _expression_. 'AutoLabel'
 
- _expression_ A variable that represents an **OptionGroup** object.
+ _expression_ A variable that represents an [OptionGroup](./Access.OptionGroup.md) object.
 
 
 ## See also

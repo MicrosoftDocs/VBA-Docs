@@ -20,7 +20,7 @@ Gets or sets the width of the right gridline for the specified frame. Read/write
 
  _expression_. 'GridlineWidthRight'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

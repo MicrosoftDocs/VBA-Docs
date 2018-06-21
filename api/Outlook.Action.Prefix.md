@@ -20,7 +20,7 @@ Returns or sets a  **String** specifying the prefix (for example, "Re") to use w
 
  _expression_. 'Prefix'
 
- _expression_ A variable that represents an **Action** object.
+ _expression_ A variable that represents an [Action](./Outlook.Action.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that indicates if the control is allowed to funct
 
  _expression_. 'Enabled'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

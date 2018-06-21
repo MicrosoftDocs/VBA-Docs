@@ -17,7 +17,7 @@ Gets the name of a  **WorkWeek** object representing a work week. Read/write **S
 
  _expression_. 'Name'
 
- _expression_ An expression that returns a **WorkWeek** object.
+ _expression_ An expression that returns a [WorkWeek](./Project.WorkWeek.md) object.
 
 
 ## Remarks

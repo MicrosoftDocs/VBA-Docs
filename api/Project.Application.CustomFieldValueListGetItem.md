@@ -20,7 +20,7 @@ Returns the value, description, or phonetic spelling of an item in the value lis
 
  _expression_. 'CustomFieldValueListGetItem'( ' _FieldID_', ' _Item_', ' _Index_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

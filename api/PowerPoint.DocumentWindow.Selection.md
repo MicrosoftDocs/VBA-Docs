@@ -20,7 +20,7 @@ Returns a  **[Selection](PowerPoint.Selection.md)** object that represents the s
 
  _expression_. 'Selection'
 
- _expression_ A variable that represents a **DocumentWindow** object.
+ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ### Return Value

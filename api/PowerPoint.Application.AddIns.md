@@ -20,7 +20,7 @@ Returns the program-specific  **AddIns** collection that represents all the add-
 
  _expression_. 'AddIns'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Remarks

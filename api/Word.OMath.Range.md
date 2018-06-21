@@ -20,7 +20,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
  _expression_. 'Range'
 
- _expression_ An expression that returns an **OMath** object.
+ _expression_ An expression that returns an [OMath](./Word.OMath.md) object.
 
 
 ## See also

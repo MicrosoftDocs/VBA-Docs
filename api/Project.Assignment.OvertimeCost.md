@@ -17,6 +17,6 @@ Gets the overtime cost for an assignment. Read-only  **Variant**.
 
  _expression_. 'OvertimeCost'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

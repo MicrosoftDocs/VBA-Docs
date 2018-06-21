@@ -20,7 +20,7 @@ Returns the text that appears in the title bar of the specified window. Read-onl
 
  _expression_. 'Caption'
 
- _expression_ A variable that represents a **ProtectedViewWindow** object.
+ _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## See also

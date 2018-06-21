@@ -13,7 +13,7 @@ Copies the shape to the Clipboard.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ### Return value

@@ -20,7 +20,7 @@ Returns a  **[TableStyle](tableWord.Style.md)** object representing properties t
 
  _expression_. 'Table'
 
- _expression_ An expression that returns a **[Style](Word.Style.md)** object.
+ _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 
 
 ## Example

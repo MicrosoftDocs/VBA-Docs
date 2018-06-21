@@ -20,7 +20,7 @@ You can use the  **ReadingOrder** property to specify or determine the reading o
 
  _expression_. 'ReadingOrder'
 
- _expression_ A variable that represents a **Label** object.
+ _expression_ A variable that represents a [Label](./Access.Label.md) object.
 
 
 ## Remarks

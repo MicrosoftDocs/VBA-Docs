@@ -20,7 +20,7 @@ Use the  **FontWeight** property to specify the line width that Windows uses to 
 
  _expression_. 'FontWeight'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

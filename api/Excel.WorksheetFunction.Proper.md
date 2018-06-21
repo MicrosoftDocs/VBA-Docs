@@ -20,7 +20,7 @@ Capitalizes the first letter in a text string and any other letters in text that
 
  _expression_. 'Proper'( '_Arg1_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **Comment** object.
+ _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 
 
 ### Return Value

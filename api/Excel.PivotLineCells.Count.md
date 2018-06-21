@@ -20,7 +20,7 @@ Returns the number of items in the  **PivotLineCells** collection. Read-only.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **PivotLineCells** object.
+ _expression_ A variable that represents a [PivotLineCells](./Excel.PivotLineCells.md) object.
 
 
 ## See also

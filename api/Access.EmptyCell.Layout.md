@@ -20,7 +20,7 @@ Returns the type of layout for the specified text box. Read-only  **[AcLayoutTyp
 
  _expression_. 'Layout'
 
- _expression_ A variable that represents an **EmptyCell** object.
+ _expression_ A variable that represents an [EmptyCell](./Access.EmptyCell.md) object.
 
 
 ## See also

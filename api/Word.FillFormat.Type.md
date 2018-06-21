@@ -20,7 +20,7 @@ Returns the shape fill format type. Read-only  **MsoFillType** .
 
  _expression_. 'Type'
 
- _expression_ Required. A variable that represents a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## See also

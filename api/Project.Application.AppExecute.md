@@ -20,7 +20,7 @@ Starts an application.
 
  _expression_. 'AppExecute'( ' _Window_', ' _Command_', ' _Minimize_', ' _Activate_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

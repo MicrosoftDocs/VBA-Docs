@@ -20,7 +20,7 @@ Sets a custom icon file for a menu or toolbar item.
 
  _expression_. 'IconFileName'( '_IconFileName_' )
 
- _expression_ A variable that represents a **MenuItem** object.
+ _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a [SmartArt](http://msdn.microsoft.com/library/24332c9b-87c9-7678-9d9f-9
 
  _expression_. 'SmartArt'
 
- _expression_ A variable that represents an **[InlineShape](Word.InlineShape.md)** object.
+ _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Remarks

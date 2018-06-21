@@ -17,7 +17,7 @@ Occurs before the item is automatically saved by Outlook.
 
  _expression_. 'BeforeAutoSave'( '_Cancel_' )
 
- _expression_ A variable that represents a **PostItem** object.
+ _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ### Parameters

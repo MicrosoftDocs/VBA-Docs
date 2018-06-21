@@ -20,7 +20,7 @@ Returns or sets a  **Long** that specifies the maximum number of characters for 
 
  _expression_. 'MaxLength'
 
- _expression_ A variable that represents an **OlkComboBox** object.
+ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

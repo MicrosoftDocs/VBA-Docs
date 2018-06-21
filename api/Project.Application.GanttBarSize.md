@@ -20,7 +20,7 @@ Sets the height, in points, of the Gantt bars in the active Gantt Chart.
 
  _expression_. 'GanttBarSize'( ' _Size_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Sets the value of a task field specified by the name of the field.
 
  _expression_. 'SetTaskField'( ' _Field_', ' _Value_', ' _AllSelectedTasks_', ' _Create_', ' _TaskID_', ' _ProjectName_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

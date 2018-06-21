@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. 'Select'
 
- _expression_ A variable that represents a **[PlotArea](Word.PlotArea.md)** object.
+ _expression_ A variable that represents a '[PlotArea](Word.PlotArea.md)' object.
 
 
 ## See also

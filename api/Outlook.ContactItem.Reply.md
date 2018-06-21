@@ -17,7 +17,7 @@ Occurs when the user selects the  **Reply** action for an item (which is an inst
 
  _expression_. 'Reply'( '_Response_' , '_Cancel_' )
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ### Parameters

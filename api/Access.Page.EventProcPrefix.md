@@ -20,7 +20,7 @@ Gets or sets the prefix portion of an event procedure name. Read/write  **String
 
  _expression_. 'EventProcPrefix'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Access.Page.md) object.
 
 
 ## Remarks

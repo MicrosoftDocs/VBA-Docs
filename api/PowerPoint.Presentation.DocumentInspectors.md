@@ -20,7 +20,7 @@ Returns the Microsoft Office  **[DocumentInspectors](http://msdn.microsoft.com/l
 
  _expression_. 'DocumentInspectors'
 
- _expression_ An expression that returns a **Presentation** object.
+ _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

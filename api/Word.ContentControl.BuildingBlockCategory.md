@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the category for a building block 
 
  _expression_. 'BuildingBlockCategory'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

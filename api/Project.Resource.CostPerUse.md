@@ -17,7 +17,7 @@ Gets or sets the cost per use of a resource. Read/write  **Variant**.
 
  _expression_. 'CostPerUse'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Example

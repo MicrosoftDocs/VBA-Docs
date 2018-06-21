@@ -17,7 +17,7 @@ Gets or sets the initials of a resource. Read/write  **String**.
 
  _expression_. 'Initials'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets the formula for the object, using A1-style references in the lan
 
  _expression_. 'FormulaLocal'
 
- _expression_ A variable that represents a **Series** object.
+ _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
 
 
 ## Remarks

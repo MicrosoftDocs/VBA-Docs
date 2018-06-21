@@ -20,7 +20,7 @@ Determines whether glue is enabled in the document. Read/write.
 
  _expression_. 'GlueEnabled'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

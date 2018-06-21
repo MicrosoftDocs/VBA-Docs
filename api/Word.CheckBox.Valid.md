@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Valid'
 
- _expression_ A variable that represents a **[CheckBox](Word.CheckBox.md)** object.
+ _expression_ A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 
 
 ## Example

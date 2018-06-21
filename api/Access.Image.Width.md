@@ -20,7 +20,7 @@ Gets or sets the width of the specified object in twips. Read/write  **Integer**
 
  _expression_. 'Width'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

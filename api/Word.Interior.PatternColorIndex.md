@@ -20,7 +20,7 @@ Returns or sets the color of the interior pattern as an index into the current c
 
  _expression_. 'PatternColorIndex'
 
- _expression_ A variable that represents an **[Interior](Word.Interior.md)** object.
+ _expression_ A variable that represents an '[Interior](Word.Interior.md)' object.
 
 
 ## Remarks

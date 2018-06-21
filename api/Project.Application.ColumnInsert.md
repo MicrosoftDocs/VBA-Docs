@@ -20,7 +20,7 @@ Inserts a column to the left of the active column, and then displays the  **Fiel
 
  _expression_. 'ColumnInsert'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

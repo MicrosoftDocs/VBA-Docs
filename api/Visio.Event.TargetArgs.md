@@ -20,7 +20,7 @@ Gets or sets the arguments to be sent to the target of an event. Read/write.
 
  _expression_. 'TargetArgs'
 
- _expression_ A variable that represents a **Event** object.
+ _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 
 
 ### Return Value

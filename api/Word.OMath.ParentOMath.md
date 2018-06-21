@@ -20,7 +20,7 @@ Returns an  **OMath** object that represents the parent element. Read-only.
 
  _expression_. 'ParentOMath'
 
- _expression_ An expression that returns an **[OMath](Word.OMath.md)** object.
+ _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 
 
 ## See also

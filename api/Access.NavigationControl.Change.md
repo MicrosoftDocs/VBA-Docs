@@ -20,7 +20,7 @@ The  **Change** event occurs when the contents of the specified control changes.
 
  _expression_. 'Change'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ### Return Value

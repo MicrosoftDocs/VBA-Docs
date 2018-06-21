@@ -20,7 +20,7 @@ Returns or sets the number of custom mailing labels down the length of a page. R
 
  _expression_. 'NumberDown'
 
- _expression_ An expression that returns a **[CustomLabel](Word.CustomLabel.md)** object.
+ _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 
 
 ## Remarks

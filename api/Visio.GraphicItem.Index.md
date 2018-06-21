@@ -23,7 +23,7 @@ Gets or sets the ordinal position of a  **GraphicItem** object in the **GraphicI
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **GraphicItem** object.
+ _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
 ### Return Value

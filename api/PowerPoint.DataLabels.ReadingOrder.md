@@ -17,7 +17,7 @@ Returns or sets an  **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant 
 
  _expression_. 'ReadingOrder'
 
- _expression_ A variable that represents a **[DataLabels](PowerPoint.DataLabels.md)** object.
+ _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ You can use the  **Count** property to determine the number of items in a specif
 
  _expression_. 'Count'
 
- _expression_ A variable that represents an **Entities** object.
+ _expression_ A variable that represents an [Entities](./Access.Entities.md) object.
 
 
 ## See also

@@ -18,7 +18,7 @@ Returns or sets an [XlCategoryLabel](http://msdn.microsoft.com/library/928d0096-
 
  _expression_. 'CategoryLabelLevel'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 
 ## Property value

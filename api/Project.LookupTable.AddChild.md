@@ -20,7 +20,7 @@ Adds a lookup table entry to a  **[LookupTable](Project.lookuptable.md)** collec
 
  _expression_. 'AddChild'( ' _Name_', ' _ParentUniqueID_' )
 
- _expression_ A variable that represents a **LookupTable** object.
+ _expression_ A variable that represents a 'LookupTable' object.
 
 
 ### Parameters

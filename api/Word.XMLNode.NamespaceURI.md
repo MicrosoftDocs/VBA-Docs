@@ -20,7 +20,7 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) of t
 
  _expression_. 'NamespaceURI'
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ## Remarks

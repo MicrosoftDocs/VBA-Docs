@@ -17,7 +17,7 @@ Checks for updates on the server and refreshes the cache for deliverable and dep
 
  _expression_. 'DeliverableRefreshServerCache'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ### Return Value

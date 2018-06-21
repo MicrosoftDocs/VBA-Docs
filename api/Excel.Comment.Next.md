@@ -20,7 +20,7 @@ Returns a  **[Comment](Excel.Comment.md)** object that represents the next comme
 
  _expression_. 'Next'
 
- _expression_ An expression that returns a **Comment** object.
+ _expression_ An expression that returns a [Comment](./Excel.Comment.md) object.
 
 
 ### Return Value

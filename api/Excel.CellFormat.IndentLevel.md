@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the indent level for the ce
 
  _expression_. 'IndentLevel'
 
- _expression_ A variable that represents a **CellFormat** object.
+ _expression_ A variable that represents a [CellFormat](./Excel.CellFormat.md) object.
 
 
 ## Remarks

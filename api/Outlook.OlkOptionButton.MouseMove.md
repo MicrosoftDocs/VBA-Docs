@@ -20,7 +20,7 @@ Occurs after a mouse movement has been registered over the control.
 
  _expression_. 'MouseMove'( '_Button_' , '_Shift_' , '_X_' , '_Y_' )
 
- _expression_ A variable that represents an **OlkOptionButton** object.
+ _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
 
 
 ### Parameters

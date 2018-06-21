@@ -20,7 +20,7 @@ Gets or sets the right gridline style of the specified toggle button. Read/write
 
  _expression_. 'GridlineStyleRight'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

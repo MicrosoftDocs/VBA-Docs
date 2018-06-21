@@ -20,7 +20,7 @@ Returns a  **[ColumnFormat](Outlook.ColumnFormat.md)** object that represents th
 
  _expression_. 'ColumnFormat'
 
- _expression_ A variable that represents a **ViewField** object.
+ _expression_ A variable that represents a [ViewField](./Outlook.ViewField.md) object.
 
 
 ## Example

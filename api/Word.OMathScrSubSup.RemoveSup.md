@@ -20,7 +20,7 @@ Removes the superscript for an equation and returns an  **OMathFunction** object
 
  _expression_. 'RemoveSup'
 
- _expression_ An expression that returns a **OMathScrSubSup** object.
+ _expression_ An expression that returns a [OMathScrSubSup](./Word.OMathScrSubSup.md) object.
 
 
 ### Return Value

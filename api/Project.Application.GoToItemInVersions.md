@@ -20,7 +20,7 @@ For the selected item in a project version comparison report, highlights that it
 
  _expression_. 'GoToItemInVersions'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Return Value

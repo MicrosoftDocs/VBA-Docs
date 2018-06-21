@@ -20,7 +20,7 @@ You can use the  **CloseCurrentDatabase** method to close the current database (
 
  _expression_. 'CloseCurrentDatabase'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Return Value

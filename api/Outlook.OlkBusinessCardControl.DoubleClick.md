@@ -20,7 +20,7 @@ Occurs when the control is double-clicked through user action or programmaticall
 
  _expression_. 'DoubleClick'
 
- _expression_ A variable that represents an **OlkBusinessCardControl** object.
+ _expression_ A variable that represents an [OlkBusinessCardControl](./Outlook.OlkBusinessCardControl.md) object.
 
 
 ## See also

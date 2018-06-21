@@ -16,7 +16,7 @@ Sets column order from right to left, for a selected table in a report.
 
  _expression_. 'SetRTLTable'
 
- _expression_ A variable that represents a **Application** object.
+ _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
 ### Return value

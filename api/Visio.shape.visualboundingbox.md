@@ -15,7 +15,7 @@ Returns the bounding rectangle of the given shape. Introduced in Office 2016.
 
  _expression_. 'VisualBoundingBox'( _Flags_,  _Flags_,  _lpr8Left_,  _lpr8Bottom_,  _lpr8Right_,  _lpr8Top_)
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

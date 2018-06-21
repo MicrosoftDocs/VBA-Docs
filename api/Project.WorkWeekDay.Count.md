@@ -17,7 +17,7 @@ Gets the value 1 for the number of days in the  **WorkWeekDay** object. Read-onl
 
  _expression_. 'Count'
 
- _expression_ An expression that returns a **WorkWeekDay** object.
+ _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 
 
 ## Example

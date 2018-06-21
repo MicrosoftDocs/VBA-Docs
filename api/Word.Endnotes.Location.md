@@ -20,7 +20,7 @@ Returns or sets the position of all endnotes. Read/write  **[WdEndnoteLocation](
 
  _expression_. 'Location'
 
- _expression_ An expression that represents a **[Endnotes](Word.endnotes.md)** object.
+ _expression_ An expression that represents a '[Endnotes](Word.endnotes.md)' object.
 
 
 ## Example

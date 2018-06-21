@@ -17,7 +17,7 @@ Gets or sets the number of units completed for the assignment. Read-write  **Var
 
  _expression_. 'Units'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **[TimeZone](Outlook.TimeZone.md)** value that corresponds to
 
  _expression_. 'EndTimeZone'
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

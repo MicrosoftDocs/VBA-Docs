@@ -17,6 +17,6 @@ ms.date: 06/08/2017
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 

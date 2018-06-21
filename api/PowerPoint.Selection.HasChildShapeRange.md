@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HasChildShapeRange'
 
- _expression_ A variable that represents a **ParagraphFormat** object.
+ _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
 
 ### Return Value

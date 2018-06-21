@@ -20,7 +20,7 @@ Moves the shape or selected shapes to the back of the z-order.
 
  _expression_. 'SendToBack'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ### Return Value

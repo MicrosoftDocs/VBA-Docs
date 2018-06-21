@@ -20,7 +20,7 @@ Gets or sets the line style on which a  **Style** object is based. Read/write.
 
  _expression_. 'LineBasedOn'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
 ### Return Value

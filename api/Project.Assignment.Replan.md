@@ -20,7 +20,7 @@ Replans the assignment by decreasing work or increasing duration.
 
  _expression_. 'Replan'( ' _action_' )
 
- _expression_ An expression that returns a **Assignment** object.
+ _expression_ An expression that returns a [Assignment](./Project.Assignment.md) object.
 
 
 ### Parameters

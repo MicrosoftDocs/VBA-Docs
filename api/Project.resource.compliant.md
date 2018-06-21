@@ -15,6 +15,6 @@ ms.prod: project-server
 
  _expression_. 'Compliant'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

@@ -20,7 +20,7 @@ Returns the  **VBProject** object for the specified template or document.
 
  _expression_. 'VBProject'
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **[DropLines](PowerPoint.DropLines.md)** object.
+ _expression_ A variable that represents a '[DropLines](PowerPoint.DropLines.md)' object.
 
 
 ## See also

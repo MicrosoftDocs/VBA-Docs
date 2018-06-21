@@ -20,7 +20,7 @@ Obtains the values of the properties specified by the one-dimensional array  _Sc
 
  _expression_. 'GetProperties'( '_SchemaNames_' )
 
- _expression_ A variable that represents a **PropertyAccessor** object.
+ _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
 ### Parameters

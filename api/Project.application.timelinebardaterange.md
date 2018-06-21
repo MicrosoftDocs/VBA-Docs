@@ -18,7 +18,7 @@ Modifies the start and finish dates for a  **Timeline** bar. Introduced in Offic
 
  _expression_. 'TimelineBarDateRange'(  _CustomDates_,  _StartDate_,  _FinishDate_,  _BarIndex_)
 
- _expression_ A variable that represents a **Application** object.
+ _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
 ### Parameters

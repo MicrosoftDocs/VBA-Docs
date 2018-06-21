@@ -17,7 +17,7 @@ Applies the combination view.
 
  _expression_. 'Apply'
 
- _expression_ A variable that represents a **ViewCombination** object.
+ _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns an object's type. Read-only.
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents an **EventList** object.
+ _expression_ A variable that represents an [EventList](./Visio.EventList.md) object.
 
 
 ### Return Value

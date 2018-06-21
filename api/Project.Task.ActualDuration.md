@@ -20,7 +20,7 @@ Gets or sets the actual duration (in minutes) of a task. Read-only for summary t
 
  _expression_. 'ActualDuration'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Example

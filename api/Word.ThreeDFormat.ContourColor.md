@@ -20,7 +20,7 @@ Returns or sets a  **ColorFormat** object that represents color of the contour o
 
  _expression_. 'ContourColor'
 
- _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## See also

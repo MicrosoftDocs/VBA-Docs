@@ -17,7 +17,7 @@ Gets or sets the name of a  **Task** object. Read/write **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets the position of caption label text. Read/write  **WdCaptionPosit
 
  _expression_. 'Position'
 
- _expression_ Required. A variable that represents a **[CaptionLabel](Word.CaptionLabel.md)** object.
+ _expression_ Required. A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 
 
 ## See also

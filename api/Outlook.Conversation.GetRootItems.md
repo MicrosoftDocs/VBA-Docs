@@ -20,7 +20,7 @@ Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains al
 
  _expression_. 'GetRootItems'
 
- _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
+ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ### Return Value

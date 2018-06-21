@@ -20,7 +20,7 @@ Gets or sets special rule-set properties. Read/write.
 
  _expression_. 'RuleSetFlags'
 
- _expression_ A variable that represents a **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object.
+ _expression_ A variable that represents a '[ValidationRuleSet](Visio.ValidationRuleSet.md)' object.
 
 
 ### Return Value

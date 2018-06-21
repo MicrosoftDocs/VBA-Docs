@@ -20,7 +20,7 @@ Returns or sets the shape of the specified toggle button. Read/write  **Long**.
 
  _expression_. 'Shape'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

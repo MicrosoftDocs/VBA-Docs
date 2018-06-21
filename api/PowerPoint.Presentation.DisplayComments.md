@@ -20,7 +20,7 @@ Determines whether comments are displayed in the specified presentation. Read/wr
 
  _expression_. 'DisplayComments'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

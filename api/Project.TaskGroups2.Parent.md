@@ -17,7 +17,7 @@ Gets the parent of the object. Read-only  **Project**.
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **TaskGroups2** object.
+ _expression_ An expression that returns a 'TaskGroups2' object.
 
 
 ### Return Value

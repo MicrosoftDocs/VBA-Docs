@@ -20,7 +20,7 @@ Returns the  **[OLEDBErrors](Excel.OLEDBErrors.md)** collection, which represent
 
  _expression_. 'OLEDBErrors'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ The  **Enter** event occurs before a control actually receives the focus from a 
 
  _expression_. 'Enter'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the footnote separa
 
  _expression_. 'Separator'
 
- _expression_ Required. A variable that represents a **[Footnotes](Word.footnotes.md)** collection.
+ _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Example

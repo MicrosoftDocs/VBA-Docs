@@ -20,7 +20,7 @@ Splits a range of table cells.
 
  _expression_. 'Split'( '_NumRows_' , '_NumColumns_' , '_MergeBeforeSplit_' )
 
- _expression_ Required. A variable that represents a **[Cells](Word.cells.md)** collection.
+ _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ### Parameters

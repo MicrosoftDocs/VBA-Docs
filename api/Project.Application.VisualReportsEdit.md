@@ -20,7 +20,7 @@ Opens the default or a specified Visual Reports template for editing.
 
  _expression_. 'VisualReportsEdit'( ' _strVisualReportTemplateFile_', ' _PjVisualReportsDataLevel_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

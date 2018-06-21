@@ -20,7 +20,7 @@ Removes a timescale data field from a usage view.
 
  _expression_. 'DetailStylesRemove'( ' _Item_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **[ListEntries](Word.listentries.md)** collection that represents all
 
  _expression_. 'ListEntries'
 
- _expression_ An expression that returns a **[DropDown](Word.DropDown.md)** object.
+ _expression_ An expression that returns a '[DropDown](Word.DropDown.md)' object.
 
 
 ## Remarks

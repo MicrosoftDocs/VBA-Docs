@@ -20,7 +20,7 @@ Deletes the specified  **Master** object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ## See also

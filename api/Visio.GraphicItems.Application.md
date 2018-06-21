@@ -23,7 +23,7 @@ Returns the instance of Microsoft Visio associated with the  **GraphicItems** co
 
  _expression_. 'Application'
 
- _expression_ An expression that returns a **GraphicItems** object.
+ _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 
 
 ### Return Value

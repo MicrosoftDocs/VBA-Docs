@@ -20,7 +20,7 @@ Determines the color format that is applied to the exported image when you call 
 
  _expression_. 'RasterExportColorFormat'
 
- _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
+ _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Notifies Microsoft Outlook that a custom property page has changed.
 
  _expression_. 'OnStatusChange'
 
- _expression_ A variable that represents a **PropertyPageSite** object.
+ _expression_ A variable that represents a [PropertyPageSite](./Outlook.PropertyPageSite.md) object.
 
 
 ## Example

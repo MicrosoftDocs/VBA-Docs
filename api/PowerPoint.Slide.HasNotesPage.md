@@ -20,7 +20,7 @@ Indicates whether the selected  **Slide** has media that resides on a notes page
 
  _expression_. 'HasNotesPage'
 
- _expression_ A variable that represents a **Slide** object.
+ _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
 ### Return Value

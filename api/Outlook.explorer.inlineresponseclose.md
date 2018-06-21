@@ -16,7 +16,7 @@ Occurs when the user performs an action that causes the active inline response t
 
  _expression_. 'InlineResponseClose'_(Item)_
 
- _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
+ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks

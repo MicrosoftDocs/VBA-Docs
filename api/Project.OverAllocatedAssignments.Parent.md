@@ -17,7 +17,7 @@ Gets the parent of the  **OverAllocatedAssignments** object. Read-only **Task**.
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns an **OverAllocatedAssignments** object.
+ _expression_ An expression that returns an 'OverAllocatedAssignments' object.
 
 
 ## Remarks

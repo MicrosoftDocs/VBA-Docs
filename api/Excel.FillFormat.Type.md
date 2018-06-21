@@ -20,7 +20,7 @@ Returns a  **[MsoFillType](http://msdn.microsoft.com/library/43dd4aa6-40bc-e798-
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 
 
 ## Remarks

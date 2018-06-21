@@ -20,7 +20,7 @@ Accepts the specified tracked change, removes the revision mark, and incorporate
 
  _expression_. 'Accept'
 
- _expression_ Required. A variable that represents a **[Revision](Word.Revision.md)** object.
+ _expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
 
 
 ## Example

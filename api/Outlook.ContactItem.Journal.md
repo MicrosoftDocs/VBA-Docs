@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates **True** if the transaction of the contact
 
  _expression_. 'Journal'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

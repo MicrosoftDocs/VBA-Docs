@@ -20,7 +20,7 @@ Returns a  **UIObject** object that represents a copy of the built-in Microsoft 
 
  _expression_. 'BuiltInMenus'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

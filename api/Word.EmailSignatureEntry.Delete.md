@@ -20,7 +20,7 @@ Deletes the specified email signature.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents an **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** object.
+ _expression_ Required. A variable that represents an '[EmailSignatureEntry](Word.EmailSignatureEntry.md)' object.
 
 
 ## See also

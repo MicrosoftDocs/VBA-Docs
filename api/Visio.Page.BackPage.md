@@ -20,7 +20,7 @@ Gets or sets the background page of a page. Read/write.
 
  _expression_. 'BackPage'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

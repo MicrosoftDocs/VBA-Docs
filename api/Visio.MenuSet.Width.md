@@ -20,7 +20,7 @@ Gets the width of an object in pixels. Read/write.
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **MenuSet** object.
+ _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 
 
 ### Return Value

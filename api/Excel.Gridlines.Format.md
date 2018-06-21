@@ -20,7 +20,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
  _expression_. 'Format'
 
- _expression_ A variable that represents a **Gridlines** object.
+ _expression_ A variable that represents a [Gridlines](./Excel.Gridlines(Graph object).md) object.
 
 
 ## See also

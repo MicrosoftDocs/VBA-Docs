@@ -20,7 +20,7 @@ Returns name of the specified object. Read-only  **String** .
 
  _expression_. 'Name'
 
- _expression_ Required. A variable that represents a **[FileConverter](Word.FileConverter.md)** object.
+ _expression_ Required. A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 
 
 ## See also

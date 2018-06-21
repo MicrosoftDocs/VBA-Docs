@@ -17,7 +17,7 @@ Gets the total number of overallocated assignments, including those that exceed 
 
  _expression_. 'TotalDetectedCount'
 
- _expression_ An expression that returns a **OverAllocatedAssignments** object.
+ _expression_ An expression that returns a 'OverAllocatedAssignments' object.
 
 
 ## Remarks

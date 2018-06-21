@@ -20,6 +20,6 @@ Gets a  **[List](Project.List.md)** object representing the field names (or colu
 
  _expression_. 'FieldNameList'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Project.Selection.md) object.
 
 

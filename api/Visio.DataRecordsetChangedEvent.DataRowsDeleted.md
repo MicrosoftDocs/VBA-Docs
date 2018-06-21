@@ -23,7 +23,7 @@ Returns an array of IDs of data rows deleted from the data recordset as a result
 
  _expression_. 'DataRowsDeleted'
 
- _expression_ An expression that returns a **DataRecordsetChangedEvent** object.
+ _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns an  **[OMathFrac](Word.OMathFrac.md)** object that represents a fraction
 
  _expression_. 'Frac'
 
- _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
+ _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 
 
 ## See also

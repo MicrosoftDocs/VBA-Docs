@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to locate phonetic Hangul
 
  _expression_. 'HanjaPhoneticHangul'
 
- _expression_ An expression that returns a **[Find](Word.Find.md)** object.
+ _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Converts an equation to math text.
 
  _expression_. 'ConvertToMathText'
 
- _expression_ An expression that returns an **[OMath](Word.OMath.md)** object.
+ _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 
 
 ## See also

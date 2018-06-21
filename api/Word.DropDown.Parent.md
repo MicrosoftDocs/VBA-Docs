@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Drop
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[DropDown](Word.DropDown.md)** object.
+ _expression_ Required. A variable that represents a '[DropDown](Word.DropDown.md)' object.
 
 
 ## See also

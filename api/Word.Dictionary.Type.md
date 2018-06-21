@@ -20,7 +20,7 @@ Returns the dictionary type. Read-only  **WdDictionaryType** .
 
  _expression_. 'Type'
 
- _expression_ Required. A variable that represents a **[Dictionary](Word.Dictionary.md)** object.
+ _expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 
 
 ## See also

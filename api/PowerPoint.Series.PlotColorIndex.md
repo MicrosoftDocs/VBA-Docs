@@ -20,7 +20,7 @@ Returns an index value that is used internally to associate series formatting wi
 
  _expression_. 'PlotColorIndex'
 
- _expression_ A variable that represents a **Series** object.
+ _expression_ A variable that represents a [Series](./PowerPoint.Series.md) object.
 
 
 ### Return Value

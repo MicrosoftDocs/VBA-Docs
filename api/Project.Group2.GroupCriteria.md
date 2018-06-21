@@ -17,7 +17,7 @@ Gets or sets the  **[GroupCriteria2](Project.groupcriteria2.md)** collection rep
 
  _expression_. 'GroupCriteria'
 
- _expression_ An expression that returns a **Group2** object.
+ _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 
 
 ## Example

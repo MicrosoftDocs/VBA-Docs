@@ -20,7 +20,7 @@ Returns a  **[PivotCell](Excel.PivotCell.md)** object that represents the cell (
 
  _expression_. 'PivotCell'
 
- _expression_ A variable that represents a **[ValueChange](Excel.ValueChange.md)** object.
+ _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ### Return Value

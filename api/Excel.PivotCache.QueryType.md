@@ -20,7 +20,7 @@ Indicates the type of query used by Microsoft Excel to populate the PivotTable c
 
  _expression_. 'QueryType'
 
- _expression_ A variable that represents a **PivotCache** object.
+ _expression_ A variable that represents a [PivotCache](./Excel.PivotCache.md) object.
 
 
 ## Remarks

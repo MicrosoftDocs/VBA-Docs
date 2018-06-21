@@ -20,7 +20,7 @@ Returns an  **[OMathBar](Word.OMathBar.md)** object that represents the mathemat
 
  _expression_. 'Bar'
 
- _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
+ _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 
 
 ## See also

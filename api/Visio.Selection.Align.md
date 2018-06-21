@@ -20,7 +20,7 @@ Aligns two or more selected shapes.
 
  _expression_. 'Align'( '_AlignHorizontal_' , '_AlignVertical_' , '_GlueToGuide_' )
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ### Parameters

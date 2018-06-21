@@ -20,7 +20,7 @@ You can use the  **AllowEdits** property to specify whether a user can edit save
 
  _expression_. 'AllowEdits'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

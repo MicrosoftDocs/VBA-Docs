@@ -20,7 +20,7 @@ Returns the texture type for the specified fill. Read-only  **[MsoTextureType](h
 
  _expression_. 'TextureType'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 
 
 ## Remarks

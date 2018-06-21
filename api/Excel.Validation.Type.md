@@ -20,7 +20,7 @@ Returns a  **Long** value, containing a **[XlDVType](Excel.XlDVType.md)** consta
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Validation** object.
+ _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
 
 
 ## See also

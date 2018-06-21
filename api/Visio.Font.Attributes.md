@@ -20,7 +20,7 @@ Returns the attributes of the a  **Font** object. Read-only.
 
  _expression_. 'Attributes'
 
- _expression_ A variable that represents a **Font** object.
+ _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
 
 ### Return Value

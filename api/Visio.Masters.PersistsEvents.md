@@ -20,7 +20,7 @@ Indicates whether an object is capable of containing persistent events in its  *
 
  _expression_. 'PersistsEvents'
 
- _expression_ A variable that represents a **Masters** object.
+ _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
 ### Return Value

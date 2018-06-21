@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents all the cel
 
  _expression_. 'Cells'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

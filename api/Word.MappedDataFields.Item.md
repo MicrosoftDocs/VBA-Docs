@@ -20,7 +20,7 @@ Returns an individual  **MappedDataField** object.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[MappedDataFields](Word.MappedDataFields.md)** collection.
+ _expression_ Required. A variable that represents a '[MappedDataFields](Word.MappedDataFields.md)' collection.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the inside width of the plot area, in points. Read-write  **Double** .
 
  _expression_. 'InsideWidth'
 
- _expression_ A variable that represents a **PlotArea** object.
+ _expression_ A variable that represents a [PlotArea](./Excel.PlotArea(Graph property).md) object.
 
 
 ## Remarks

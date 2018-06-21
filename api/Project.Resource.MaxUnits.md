@@ -17,7 +17,7 @@ Gets or sets the maximum percent availability of the resource. Read/write  **Var
 
  _expression_. 'MaxUnits'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

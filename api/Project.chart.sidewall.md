@@ -16,7 +16,7 @@ Gets an  **Office.IMsoWalls** object that allows the user to individually format
 
  _expression_. 'SideWall'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Example

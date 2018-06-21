@@ -20,7 +20,7 @@ Returns the formats that are currently on the Clipboard, as an array of numeric 
 
  _expression_. 'ClipboardFormats'( '_Index_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

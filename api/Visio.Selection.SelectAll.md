@@ -20,7 +20,7 @@ Selects all possible shapes in a window or selection.
 
  _expression_. 'SelectAll'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ### Return Value

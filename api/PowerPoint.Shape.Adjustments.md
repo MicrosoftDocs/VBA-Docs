@@ -20,7 +20,7 @@ Returns an  **[Adjustments](PowerPoint.Adjustments.md)** object that contains ad
 
  _expression_. 'Adjustments'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Return Value

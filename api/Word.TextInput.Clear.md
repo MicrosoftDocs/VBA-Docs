@@ -20,7 +20,7 @@ Deletes the text from the specified text form field.
 
  _expression_. 'Clear'
 
- _expression_ Required. A variable that represents a **[TextInput](Word.TextInput.md)** object.
+ _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
 
 
 ## Example

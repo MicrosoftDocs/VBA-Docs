@@ -20,7 +20,7 @@ Returns a  **[WdXMLNodeType](http://msdn.microsoft.com/library/2f8824c0-d08e-56d
 
  _expression_. 'NodeType'
 
- _expression_ An expression that returns an **[XMLNode](Word.XMLNode.md)** object.
+ _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Remarks

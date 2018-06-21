@@ -20,7 +20,7 @@ Gets or sets the tint applied to the theme color in the  **GridlineColor** prope
 
  _expression_. 'GridlineTint'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

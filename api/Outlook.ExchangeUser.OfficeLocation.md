@@ -20,7 +20,7 @@ Returns a  **String** representing the office location for the **[ExchangeUser](
 
  _expression_. 'OfficeLocation'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

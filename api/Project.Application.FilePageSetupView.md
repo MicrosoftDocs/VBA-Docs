@@ -20,7 +20,7 @@ Sets up view-specific options for printing.
 
  _expression_. 'FilePageSetupView'( ' _Name_', ' _AllSheetColumns_', ' _RepeatColumns_', ' _PrintNotes_', ' _PrintBlankPages_', ' _BestPageFitTimescale_', ' _PrintColumnTotals_', ' _PrintRowTotals_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

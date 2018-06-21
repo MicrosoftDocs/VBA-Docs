@@ -20,7 +20,7 @@ Pastes the contents of the clipboard in the control.
 
  _expression_. 'Paste'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

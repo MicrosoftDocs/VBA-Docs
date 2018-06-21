@@ -18,7 +18,7 @@ You can use the  **RecordsetType** property to specify what kind of recordset is
 
  _expression_. 'RecordsetType'
 
- _expression_ A variable that represents an **Form** object.
+ _expression_ A variable that represents an [Form](./Access.Form.md) object.
 
 
 ## Remarks

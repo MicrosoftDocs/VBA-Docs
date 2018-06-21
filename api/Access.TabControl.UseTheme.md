@@ -20,7 +20,7 @@ Gets or sets whether the specified object will utilize formatting styles defined
 
  _expression_. 'UseTheme'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

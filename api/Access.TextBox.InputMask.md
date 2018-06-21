@@ -20,7 +20,7 @@ You can use the  **InputMask** property to make data entry easier and to control
 
  _expression_. 'InputMask'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

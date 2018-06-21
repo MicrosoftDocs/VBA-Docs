@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the programmatic value of an item 
 
  _expression_. 'Value'
 
- _expression_ An expression that returns a **ContentControlListEntry** object.
+ _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
 
 ## Remarks

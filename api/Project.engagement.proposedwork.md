@@ -15,7 +15,7 @@ ms.prod: project-server
 
  _expression_. 'ProposedWork'
 
- _expression_ A variable that represents a **Engagement** object.
+ _expression_ A variable that represents a 'Engagement' object.
 
 
 ## See also

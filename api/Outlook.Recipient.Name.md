@@ -20,7 +20,7 @@ Returns a  **String** value that represents the display name for the object. Rea
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Recipient** object.
+ _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
 
 
 ## See also

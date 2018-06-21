@@ -20,7 +20,7 @@ Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the glow 
 
  _expression_. 'Glow'
 
- _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
+ _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
 
 
 ## See also

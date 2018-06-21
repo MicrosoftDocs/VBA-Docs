@@ -20,7 +20,7 @@ Returns a  **ThreeDFormat** object that contains 3-D formatting properties for t
 
  _expression_. 'ThreeD'
 
- _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
+ _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 
 
 ## See also

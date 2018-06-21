@@ -20,7 +20,7 @@ Returns a  **[ReflectionFormat](http://msdn.microsoft.com/library/9684dbb3-5b99-
 
  _expression_. 'Reflection'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## See also

@@ -17,6 +17,6 @@ Deletes the  **Resource** object from a **Resources** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

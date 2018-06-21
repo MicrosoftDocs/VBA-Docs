@@ -20,7 +20,7 @@ Returns or sets the shape used for every series in a 3-D bar or column chart. Re
 
  _expression_. 'BarShape'
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Appends a string to the beginning of the specified text range. Returns a  **Text
 
  _expression_. 'InsertBefore'( '_NewText_' )
 
- _expression_ A variable that represents a **TextRange** object.
+ _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ### Parameters

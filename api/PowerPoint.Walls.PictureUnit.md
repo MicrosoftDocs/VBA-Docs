@@ -20,7 +20,7 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](P
 
  _expression_. 'PictureUnit'
 
- _expression_ A variable that represents a **[Walls](PowerPoint.Walls.md)** object.
+ _expression_ A variable that represents a '[Walls](PowerPoint.Walls.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **WebOptions** object.
+ _expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) object.
 
 
 ## Example

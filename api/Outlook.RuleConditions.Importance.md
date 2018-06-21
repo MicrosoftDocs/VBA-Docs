@@ -20,7 +20,7 @@ Returns an  **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)** ob
 
  _expression_. 'Importance'
 
- _expression_ A variable that represents a **RuleConditions** object.
+ _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
 
 
 ## Remarks

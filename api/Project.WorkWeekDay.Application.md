@@ -17,7 +17,7 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Object**
 
  _expression_. 'Application'
 
- _expression_ An expression that returns a **WorkWeekDay** object.
+ _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 
 
 ## See also

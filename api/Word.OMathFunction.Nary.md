@@ -20,7 +20,7 @@ Returns an  **[OMathNary](Word.OMathNary.md)** object that represents the n-ary 
 
  _expression_. 'Nary'
 
- _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
+ _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 
 
 ## See also

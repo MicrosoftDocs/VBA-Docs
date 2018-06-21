@@ -20,7 +20,7 @@ Returns or sets the amount of space (in points) to add above the contents of a s
 
  _expression_. 'TopPadding'
 
- _expression_ Required. A variable that represents a **[ConditionalStyle](Word.ConditionalStyle.md)** object.
+ _expression_ Required. A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
 
 
 ## Remarks

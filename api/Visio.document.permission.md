@@ -16,6 +16,6 @@ Returns the  **Permission** object of the document.
 
  _expression_. 'Permission'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 

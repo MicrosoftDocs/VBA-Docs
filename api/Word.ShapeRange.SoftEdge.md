@@ -20,7 +20,7 @@ Returns a  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents t
 
  _expression_. 'SoftEdge'
 
- _expression_ An expression that returns a **[ShapeRange](Word.shaperange.md)** object.
+ _expression_ An expression that returns a '[ShapeRange](Word.shaperange.md)' object.
 
 
 ## See also

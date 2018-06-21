@@ -20,7 +20,7 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
  _expression_. 'Index'
 
- _expression_ An expression that returns a **[Conflict](Word.Conflict.md)** object.
+ _expression_ An expression that returns a '[Conflict](Word.Conflict.md)' object.
 
 
 ## See also

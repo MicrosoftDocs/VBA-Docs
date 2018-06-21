@@ -20,7 +20,7 @@ Returns the  **[Folder](Outlook.Folder.md)** containing the calendar items to be
 
  _expression_. 'Folder'
 
- _expression_ An expression that returns a **CalendarSharing** object.
+ _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
 ### Return Value

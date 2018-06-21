@@ -20,7 +20,7 @@ Returns a  **Long** value that represents the operator for the data validation.
 
  _expression_. 'Operator'
 
- _expression_ A variable that represents a **Validation** object.
+ _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
 
 
 ## See also

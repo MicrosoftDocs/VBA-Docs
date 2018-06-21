@@ -20,7 +20,7 @@ Returns or sets an  **[olMatchEntry](Outlook.OlMatchEntry.md)** constant that in
 
  _expression_. 'MatchEntry'
 
- _expression_ A variable that represents an **OlkListBox** object.
+ _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ## Remarks

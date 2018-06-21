@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Autoload'
 
- _expression_ A variable that represents a **[AddIn](Word.AddIn.md)** object.
+ _expression_ A variable that represents a '[AddIn](Word.AddIn.md)' object.
 
 
 ## Example

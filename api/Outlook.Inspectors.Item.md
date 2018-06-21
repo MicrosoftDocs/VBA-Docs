@@ -20,7 +20,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object from the collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents an **Inspectors** object.
+ _expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
 
 
 ### Parameters

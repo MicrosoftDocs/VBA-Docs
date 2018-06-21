@@ -17,7 +17,7 @@ Occurs before a project is saved. Uses the  **EventInfo** object parameter.
 
  _expression_. 'ProjectBeforeSave2'( ' _pj_', ' _SaveAsUi_', ' _Info_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

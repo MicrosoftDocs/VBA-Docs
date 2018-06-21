@@ -17,7 +17,7 @@ Adds a  **Hyperlink** object to a Microsoft Visio shape.
 
  _expression_. 'AddHyperlink'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

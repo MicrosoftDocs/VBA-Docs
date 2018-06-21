@@ -20,7 +20,7 @@ Gets or sets the value of the  **Keywords** box in a document's **Properties** d
 
  _expression_. 'Keywords'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

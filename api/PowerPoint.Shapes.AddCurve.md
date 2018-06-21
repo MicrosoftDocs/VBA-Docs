@@ -20,7 +20,7 @@ Creates a B?zier curve. Returns a  **[Shape](PowerPoint.Shape.md)** object that 
 
  _expression_. 'AddCurve'( '_SafeArrayOfPoints_' )
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ### Parameters

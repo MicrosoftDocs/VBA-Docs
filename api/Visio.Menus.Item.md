@@ -20,7 +20,7 @@ Returns a  **Menu** object from the **Menus** collection. Read-only.
 
  _expression_. 'Item'( '_lIndex_' )
 
- _expression_ A variable that represents a **Menus** collection.
+ _expression_ A variable that represents a [Menus](./Visio.Menus.md) collection.
 
 
 ### Parameters

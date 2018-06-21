@@ -16,7 +16,7 @@ Gets or sets the way columns or rows are used as data series on the chart. Can b
 
  _expression_. 'PlotBy'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

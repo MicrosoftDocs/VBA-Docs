@@ -20,7 +20,7 @@ Returns a  **Long** value, containing a **[MsoHyperlinkType](http://msdn.microso
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Excel.Hyperlink.md) object.
 
 
 ## See also

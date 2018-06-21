@@ -20,7 +20,7 @@ Replaces the current built-in or custom menus of an application or document.
 
  _expression_. 'SetCustomMenus'( '_MenusObject_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets the direction the databar is displayed. Read/write
 
  _expression_. 'Direction'
 
- _expression_ A variable that represents a **[Databar](Excel.Databar.md)** object.
+ _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Remarks

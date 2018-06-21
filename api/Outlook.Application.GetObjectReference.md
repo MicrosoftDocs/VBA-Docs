@@ -20,7 +20,7 @@ Creates a strong or weak object reference for a specified Outlook object.
 
  _expression_. 'GetObjectReference'( '_Item_' , '_ReferenceType_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Outlook.Application.md) object.
 
 
 ### Parameters

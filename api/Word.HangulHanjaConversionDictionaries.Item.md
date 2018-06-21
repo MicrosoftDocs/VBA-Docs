@@ -20,7 +20,7 @@ Returns an individual  **Dictionary** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection.
+ _expression_ Required. A variable that represents a '[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)' collection.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Gets a  **[TableFields](Project.TableField.md)** collection representing the fie
 
  _expression_. 'TableFields'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Hype
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[Hyperlinks](Word.hyperlinks.md)** collection.
+ _expression_ Required. A variable that represents a '[Hyperlinks](Word.hyperlinks.md)' collection.
 
 
 ## See also

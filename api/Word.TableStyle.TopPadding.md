@@ -20,7 +20,7 @@ Returns or sets the amount of space (in points) to add above the contents of all
 
  _expression_. 'TopPadding'
 
- _expression_ Required. A variable that represents a **[TableStyle](Word.TableStyle.md)** object.
+ _expression_ Required. A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 
 
 ## Remarks

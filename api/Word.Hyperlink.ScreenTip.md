@@ -20,7 +20,7 @@ Returns or sets the text that appears as a ScreenTip when the mouse pointer is p
 
  _expression_. 'ScreenTip'
 
- _expression_ An expression that returns a **[Hyperlink](Word.Hyperlink.md)** object.
+ _expression_ An expression that returns a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Example

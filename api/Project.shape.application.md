@@ -13,7 +13,7 @@ Gets the  **[Application Object (Project)](application-object-project.md)** obje
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

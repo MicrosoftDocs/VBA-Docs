@@ -20,7 +20,7 @@ Returns a  **[Font](Excel.Font(objec).md)** object, allowing the user to set or 
 
  _expression_. 'Font'
 
- _expression_ A variable that represents a **CellFormat** object.
+ _expression_ A variable that represents a [CellFormat](./Excel.CellFormat.md) object.
 
 
 ## Example

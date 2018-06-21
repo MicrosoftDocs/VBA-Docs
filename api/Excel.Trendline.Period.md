@@ -20,7 +20,7 @@ Returns or sets the period for the moving-average trendline. Can be a value from
 
  _expression_. 'Period'
 
- _expression_ A variable that represents a **Trendline** object.
+ _expression_ A variable that represents a [Trendline](./Excel.Trendline(Graph object).md) object.
 
 
 ## Example

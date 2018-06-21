@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates if the scenario is hidden.
 
  _expression_. 'Hidden'
 
- _expression_ A variable that represents a **Scenario** object.
+ _expression_ A variable that represents a [Scenario](./Excel.Scenario.md) object.
 
 
 ## Remarks

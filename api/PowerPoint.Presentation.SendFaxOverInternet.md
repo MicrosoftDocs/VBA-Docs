@@ -20,7 +20,7 @@ Sends a presentation as a fax to the specified recipients.
 
  _expression_. 'SendFaxOverInternet'( '_Recipients_', '_Subject_', '_ShowMessage_' )
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Parameters

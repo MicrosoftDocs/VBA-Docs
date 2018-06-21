@@ -20,7 +20,7 @@ Returns or sets the height of the specified table cell. .
 
  _expression_. 'Height'
 
- _expression_ An expression that returns a **Cell** object.
+ _expression_ An expression that returns a [Cell](./Word.Cell.md) object.
 
 
 ## Remarks

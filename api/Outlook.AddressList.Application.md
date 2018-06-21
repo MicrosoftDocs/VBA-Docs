@@ -20,7 +20,7 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **AddressList** object.
+ _expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
 
 
 ## See also

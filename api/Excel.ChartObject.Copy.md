@@ -20,7 +20,7 @@ Copies the object to the Clipboard.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **ChartObject** object.
+ _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 
 
 ### Return Value

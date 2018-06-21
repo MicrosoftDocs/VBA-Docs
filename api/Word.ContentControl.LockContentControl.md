@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether the user can delete a con
 
  _expression_. 'LockContentControl'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

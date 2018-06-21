@@ -20,7 +20,7 @@ Returns a  **Variant** value that represents the width, in units, of the range.
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## See also

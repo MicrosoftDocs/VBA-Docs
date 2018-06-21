@@ -20,7 +20,7 @@ Returns the  **[Validation](Visio.Validation.md)** object that is associated wit
 
  _expression_. 'Validation'
 
- _expression_ A variable that represents a **[Document](Visio.Document.md)** object.
+ _expression_ A variable that represents a '[Document](Visio.Document.md)' object.
 
 
 ### Return Value

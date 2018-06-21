@@ -20,7 +20,7 @@ Returns an  **[Adjustments](Excel.Adjustments.md)** object that contains adjustm
 
  _expression_. 'Adjustments'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Determines whether the footer, date and time, and slide number appear on the tit
 
  _expression_. 'DisplayOnTitleSlide'
 
- _expression_ A variable that represents a **HeadersFooters** object.
+ _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 
 
 ### Return Value

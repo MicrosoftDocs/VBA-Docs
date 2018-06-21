@@ -18,7 +18,7 @@ Returns a [ModelFormatWholeNumber](Excel.modelformatwholenumber.md) object that 
 
  _expression_. 'ModelFormatWholeNumber'
 
- _expression_ A variable that represents a **Model** object.
+ _expression_ A variable that represents a 'Model' object.
 
 
 ## See also

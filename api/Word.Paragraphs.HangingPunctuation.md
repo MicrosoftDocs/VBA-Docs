@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HangingPunctuation'
 
- _expression_ A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
+ _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Example

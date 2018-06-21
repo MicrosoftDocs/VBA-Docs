@@ -20,7 +20,7 @@ Returns a Microsoft Office  **[ServerPolicy](http://msdn.microsoft.com/library/c
 
  _expression_. 'ServerPolicy'
 
- _expression_ An expression that returns a **Presentation** object.
+ _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

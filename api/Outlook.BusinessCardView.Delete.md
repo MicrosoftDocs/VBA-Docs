@@ -20,7 +20,7 @@ Deletes an object from a collection.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns a **BusinessCardView** object.
+ _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 
 
 ## See also

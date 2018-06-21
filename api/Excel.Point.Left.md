@@ -20,7 +20,7 @@ Returns a value that represents the distance, in points, from the left edge of t
 
  _expression_. 'Left'
 
- _expression_ A variable that represents a **Point** object.
+ _expression_ A variable that represents a [Point](./Excel.Point(Graph object).md) object.
 
 
 ### Return Value

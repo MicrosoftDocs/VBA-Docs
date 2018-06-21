@@ -20,7 +20,7 @@ Returns a  **String** that represents the e-mail address of the sender of the Ou
 
  _expression_. 'SenderEmailAddress'
 
- _expression_ A variable that represents a **MailItem** object.
+ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

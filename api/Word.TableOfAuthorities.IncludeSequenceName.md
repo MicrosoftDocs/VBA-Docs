@@ -20,7 +20,7 @@ Returns or sets the Sequence (SEQ) field identifier for a table of authorities. 
 
  _expression_. 'IncludeSequenceName'
 
- _expression_ An expression that returns a **[TableOfAuthorities](Word.TableOfAuthorities.md)** object.
+ _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 
 
 ## Remarks

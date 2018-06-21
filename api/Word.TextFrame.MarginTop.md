@@ -20,7 +20,7 @@ Returns or sets the distance (in points) between the top of the text frame and t
 
  _expression_. 'MarginTop'
 
- _expression_ An expression that returns a **[TextFrame](Word.TextFrame.md)** object.
+ _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Example

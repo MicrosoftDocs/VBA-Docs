@@ -20,7 +20,7 @@ Executes the specified operation.
 
  _expression_. 'Execute'( ' _bstrParameters_' )
 
- _expression_ A variable that represents an **Operation** object.
+ _expression_ A variable that represents an [Operation](./Access.Operation.md) object.
 
 
 ### Parameters

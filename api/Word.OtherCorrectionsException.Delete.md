@@ -20,7 +20,7 @@ Deletes the specified exception.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents an **[OtherCorrectionsException](Word.OtherCorrectionsException.md)** object.
+ _expression_ Required. A variable that represents an '[OtherCorrectionsException](Word.OtherCorrectionsException.md)' object.
 
 
 ## See also

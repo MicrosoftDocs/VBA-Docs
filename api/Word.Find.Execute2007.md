@@ -20,7 +20,7 @@ Runs the specified find operation. Returns  **True** if the find operation is su
 
  _expression_. 'Execute2007'( '_FindText_' , '_MatchCase_' , '_MatchWholeWord_' , '_MatchWildcards_' , '_MatchSoundsLike_' , '_MatchAllWordForms_' , '_Forward_' , '_Wrap_' , '_Format_' , '_ReplaceWith_' , '_Replace_' , '_MatchKashida_' , '_MatchDiacritics_' , '_MatchAlefHamza_' , '_MatchControl_' , '_MatchPrefix_' , '_MatchSuffix_' , '_MatchPhrase_' , '_IgnoreSpace_' , '_IgnorePunct_' )
 
- _expression_ A variable that represents a **[Find](Word.Find.md)** object.
+ _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Adds a new list item to a drop-down list or combo box content control and return
 
  _expression_. 'Add'( '_Text_' , '_Value_' , '_Index_' )
 
- _expression_ An expression that returns a **ContentControlListEntries** object.
+ _expression_ An expression that returns a [ContentControlListEntries](./Word.ContentControlListEntries.md) object.
 
 
 ### Parameters

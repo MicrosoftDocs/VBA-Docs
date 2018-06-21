@@ -20,7 +20,7 @@ Exports the chart in a graphic format.
 
  _expression_. 'Export'( '_FileName_' , '_FilterName_' , '_Interactive_' )
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Gets the ID of an object. Read-only.
 
  _expression_. 'ID'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

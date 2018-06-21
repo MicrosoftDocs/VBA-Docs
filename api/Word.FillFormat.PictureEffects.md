@@ -20,7 +20,7 @@ Returns a [PictureEffects](http://msdn.microsoft.com/library/bc0e1cfd-7328-360d-
 
  _expression_. 'PictureEffects'
 
- _expression_ An expression that returns a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks

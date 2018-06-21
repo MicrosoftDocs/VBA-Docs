@@ -20,7 +20,7 @@ Returns or sets a  **[WdPageNumberStyle](Word.WdPageNumberStyle.md)** constant t
 
  _expression_. 'NumberStyle'
 
- _expression_ Required. An expression that returns a **[PageNumbers](Word.pagenumbers.md)** object.
+ _expression_ Required. An expression that returns a '[PageNumbers](Word.pagenumbers.md)' object.
 
 
 ## Example

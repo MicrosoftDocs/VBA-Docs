@@ -20,7 +20,7 @@ Deletes the specified field.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[Field](Word.Field.md)** object.
+ _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 
 
 ## See also

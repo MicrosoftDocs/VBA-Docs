@@ -20,7 +20,7 @@ Returns an  **OLE_COLOR** value that represents the top gradient color of the co
 
  _expression_. 'CategoryGradientTopColor'
 
- _expression_ A variable that represents a **Category** object.
+ _expression_ A variable that represents a [Category](./Outlook.Category.md) object.
 
 
 ## Remarks

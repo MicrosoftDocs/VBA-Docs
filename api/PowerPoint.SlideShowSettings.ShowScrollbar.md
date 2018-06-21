@@ -20,7 +20,7 @@ Determines whether to display the scroll bar during a slide show in browse mode.
 
  _expression_. 'ShowScrollbar'
 
- _expression_ A variable that represents a **SlideShowSettings** object.
+ _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
 ### Return Value

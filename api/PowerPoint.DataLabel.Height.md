@@ -20,7 +20,7 @@ Returns the height, in points, of the object. Read-only.
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **DataLabel** object.
+ _expression_ A variable that represents a [DataLabel](./PowerPoint.DataLabel.md) object.
 
 
 ### Return Value

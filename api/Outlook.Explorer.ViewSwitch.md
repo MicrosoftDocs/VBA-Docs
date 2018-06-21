@@ -20,7 +20,7 @@ Occurs when the view in the explorer changes, either as a result of user action 
 
  _expression_. 'ViewSwitch'
 
- _expression_ A variable that represents an **Explorer** object.
+ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## Remarks

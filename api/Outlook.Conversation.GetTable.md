@@ -20,7 +20,7 @@ Returns a  **[Table](Outlook.Table.md)** object that contains rows that represen
 
  _expression_. 'GetTable'
 
- _expression_ A variable that represents a **[Conversation](Outlook.Conversation.md)** object.
+ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ### Return Value

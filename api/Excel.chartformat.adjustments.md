@@ -18,7 +18,7 @@ Returns an [Adjustments Object (Excel)](adjustments-object-excel.md) object. Rea
 
  _expression_. 'Adjustments'
 
- _expression_ A variable that represents a **ChartFormat** object.
+ _expression_ A variable that represents a [ChartFormat](./Excel.ChartFormat.md) object.
 
 
 ## Property value

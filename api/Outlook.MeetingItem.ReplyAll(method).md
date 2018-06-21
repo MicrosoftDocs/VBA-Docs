@@ -20,7 +20,7 @@ Creates a reply to all original recipients from the original message.
 
  _expression_. 'ReplyAll'
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ### Return Value

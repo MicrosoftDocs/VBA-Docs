@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'DisplayScrollBars'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Example

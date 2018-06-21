@@ -20,7 +20,7 @@ Returns or sets the number format for the specified list level. Read/write  **St
 
  _expression_. 'NumberFormat'
 
- _expression_ An expression that returns a **[ListLevel](Word.ListLevel.md)** object.
+ _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Remarks

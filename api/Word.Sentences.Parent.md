@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Sent
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[Sentences](Word.sentences.md)** collection.
+ _expression_ Required. A variable that represents a '[Sentences](Word.sentences.md)' collection.
 
 
 ## See also

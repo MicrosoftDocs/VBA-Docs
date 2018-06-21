@@ -20,6 +20,6 @@ Gets or sets the row height in a table, where the row height is the number of li
 
  _expression_. 'RowHeight'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 

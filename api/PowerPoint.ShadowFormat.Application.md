@@ -17,7 +17,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **ShadowFormat** object.
+ _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
 
 ### Return Value

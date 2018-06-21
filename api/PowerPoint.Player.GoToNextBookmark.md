@@ -20,7 +20,7 @@ Goes to the next bookmark.
 
  _expression_. 'GoToNextBookmark'
 
- _expression_ A variable that represents a **Player** object.
+ _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 
 
 ## See also

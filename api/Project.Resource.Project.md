@@ -17,6 +17,6 @@ Gets the name of the project containing the  **Resource**. Read-only **String**.
 
  _expression_. 'Project'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

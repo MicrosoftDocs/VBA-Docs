@@ -18,7 +18,7 @@ Returns the inverse hyperbolic cotangent of a number.
 
  _expression_. 'Acoth'_(Arg1)_
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

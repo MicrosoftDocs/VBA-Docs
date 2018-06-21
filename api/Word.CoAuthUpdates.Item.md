@@ -20,7 +20,7 @@ Returns an individual  **CoAuthUpdates** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ An expression that returns a **CoAuthUpdates** object.
+ _expression_ An expression that returns a 'CoAuthUpdates' object.
 
 
 ### Parameters

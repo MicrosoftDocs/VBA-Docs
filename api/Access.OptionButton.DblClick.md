@@ -20,7 +20,7 @@ The  **DblClick** event occurs when the user presses and releases the left mouse
 
  _expression_. 'DblClick'( ' _Cancel_' )
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ### Parameters

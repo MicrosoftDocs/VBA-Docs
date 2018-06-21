@@ -20,7 +20,7 @@ Determines if certain user interface functions for the development environment i
 
  _expression_. 'DeveloperMode'
 
- _expression_ A variable that represents an **ApplicationSettings** object.
+ _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

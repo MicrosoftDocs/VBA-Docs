@@ -20,7 +20,7 @@ Occurs when any workbook window is activated.
 
  _expression_. 'WindowActivate'( '_Wb_' , '_Wn_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

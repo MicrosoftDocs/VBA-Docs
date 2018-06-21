@@ -20,7 +20,7 @@ Aligns the shapes in the specified range of shapes.
 
  _expression_. 'Align'( '_AlignCmd_', '_RelativeTo_' )
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Parameters

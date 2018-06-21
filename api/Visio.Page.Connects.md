@@ -20,7 +20,7 @@ Returns a  **Connects** collection for a shape, page, or master. Read-only.
 
  _expression_. 'Connects'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

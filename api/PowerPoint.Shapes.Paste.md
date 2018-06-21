@@ -20,7 +20,7 @@ Pastes the shapes, slides, or text on the Clipboard into the specified  **Shapes
 
  _expression_. 'Paste'
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ### Return Value

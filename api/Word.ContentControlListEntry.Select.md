@@ -20,7 +20,7 @@ Selects the list entry in a drop-down list or combo box content control and sets
 
  _expression_. 'Select'
 
- _expression_ An expression that returns a **ContentControlListEntry** object.
+ _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **Coauthoring** object in the current **Presentation** object. Read-o
 
  _expression_. 'Coauthoring'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ## See also

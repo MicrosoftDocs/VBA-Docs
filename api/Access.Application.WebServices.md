@@ -20,7 +20,7 @@ Gets the collection of installed Data Service data connections. Read-only  **[We
 
  _expression_. 'WebServices'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ## See also

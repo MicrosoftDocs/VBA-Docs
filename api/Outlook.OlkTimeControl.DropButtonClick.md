@@ -20,7 +20,7 @@ Occurs when the user clicks the drop button to expand the time drop-down list in
 
  _expression_. 'DropButtonClick'
 
- _expression_ A variable that represents an **OlkTimeControl** object.
+ _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ## See also

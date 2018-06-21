@@ -20,7 +20,7 @@ You can use the  **SelLeft** property to specify or determine which column (fiel
 
  _expression_. 'SelLeft'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

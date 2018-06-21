@@ -20,7 +20,7 @@ Adds a vertical page break.
 
  _expression_. 'Add'( '_Before_' )
 
- _expression_ A variable that represents a **VPageBreaks** object.
+ _expression_ A variable that represents a [VPageBreaks](./Excel.VPageBreaks.md) object.
 
 
 ### Parameters

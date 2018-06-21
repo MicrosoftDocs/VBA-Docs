@@ -20,7 +20,7 @@ Returns or sets an  **[OlMultiSelect](Outlook.OlMultiSelect.md)** constant that 
 
  _expression_. 'MultiSelect'
 
- _expression_ A variable that represents an **OlkListBox** object.
+ _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ## See also

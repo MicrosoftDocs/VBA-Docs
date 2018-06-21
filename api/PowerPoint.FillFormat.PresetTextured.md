@@ -20,7 +20,7 @@ Sets the specified fill to a preset texture.
 
  _expression_. 'PresetTextured'( '_PresetTexture_' )
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ### Parameters

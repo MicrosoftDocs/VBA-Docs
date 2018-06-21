@@ -20,7 +20,7 @@ You can use the  **AllReports** property to reference the **[AllReports](Access.
 
  _expression_. 'AllReports'
 
- _expression_ A variable that represents a **CurrentProject** object.
+ _expression_ A variable that represents a [CurrentProject](./Access.CurrentProject.md) object.
 
 
 ## See also

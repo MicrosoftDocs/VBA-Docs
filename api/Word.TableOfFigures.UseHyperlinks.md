@@ -20,7 +20,7 @@ Returns or sets whether entries in a a table of figures should be formatted as h
 
  _expression_. 'UseHyperlinks'
 
- _expression_ Required. A variable that represents a **[TableOfFigures](Word.TableOfFigures.md)** collection.
+ _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## Example

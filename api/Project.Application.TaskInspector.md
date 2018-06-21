@@ -20,7 +20,7 @@ Displays the  **Task Inspector** pane.
 
  _expression_. 'TaskInspector'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Return Value

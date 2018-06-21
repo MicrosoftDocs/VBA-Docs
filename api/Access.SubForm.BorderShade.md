@@ -20,7 +20,7 @@ Gets or sets the shade that is applied to the theme color in the  **BorderColor*
 
  _expression_. 'BorderShade'
 
- _expression_ A variable that represents a **SubForm** object.
+ _expression_ A variable that represents a [SubForm](./Access.SubForm.md) object.
 
 
 ## Remarks

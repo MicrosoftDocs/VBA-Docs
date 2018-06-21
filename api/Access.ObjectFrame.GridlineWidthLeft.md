@@ -20,7 +20,7 @@ Gets or sets the width of the left gridline for the specified frame. Read/write 
 
  _expression_. 'GridlineWidthLeft'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Modified'( '_Index_' )
 
- _expression_ An expression that returns a **[ListGallery](Word.ListGallery.md)** object.
+ _expression_ An expression that returns a '[ListGallery](Word.ListGallery.md)' object.
 
 
 ## Remarks

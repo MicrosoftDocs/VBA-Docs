@@ -20,7 +20,7 @@ Gets or sets the text that appears in the control. Read/write  **String**.
 
  _expression_. 'Caption'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Determines whether the extrusion appears in perspective. Read/write.
 
  _expression_. 'Perspective'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ### Return Value

@@ -17,7 +17,7 @@ Gets the name of a  **ViewSingle** object. Read/write **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **ViewSingle** object.
+ _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
 
 ## Remarks

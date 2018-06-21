@@ -17,7 +17,7 @@ Gets the parent of the  **ChildDrivers** object. Read-only **Task**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **ChildDrivers** object.
+ _expression_ A variable that represents a 'ChildDrivers' object.
 
 
 ## Remarks

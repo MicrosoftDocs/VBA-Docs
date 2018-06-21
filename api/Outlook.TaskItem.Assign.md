@@ -20,7 +20,7 @@ Assigns a task and returns a  **[TaskItem](Outlook.TaskItem.md)** object that re
 
  _expression_. 'Assign'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ### Return Value

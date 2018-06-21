@@ -20,7 +20,7 @@ If this shape is part of a master instance, returns the shape in the master that
 
  _expression_. 'MasterShape'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns the  **[Validation](Excel.Validation.md)** object that represents data v
 
  _expression_. 'Validation'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Example

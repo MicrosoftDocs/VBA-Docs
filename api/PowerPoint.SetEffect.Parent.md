@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **SetEffect** object.
+ _expression_ A variable that represents a [SetEffect](./PowerPoint.SetEffect.md) object.
 
 
 ### Return Value

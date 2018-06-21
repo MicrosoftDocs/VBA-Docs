@@ -20,7 +20,7 @@ Removes the specified  **[SortField](Excel.SortField.md)** object from the **[So
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **SortField** object.
+ _expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
 
 
 ## See also

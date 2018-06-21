@@ -20,7 +20,7 @@ Sets the specified fill to a pattern.
 
  _expression_. 'Patterned'( '_Pattern_' )
 
- _expression_ Required. A variable that represents a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ### Parameters

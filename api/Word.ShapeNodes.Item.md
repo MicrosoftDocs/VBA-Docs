@@ -20,7 +20,7 @@ Returns an individual  **ShapeNode** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[ShapeNodes](Word.shapenodes.md)** collection.
+ _expression_ Required. A variable that represents a '[ShapeNodes](Word.shapenodes.md)' collection.
 
 
 ### Parameters

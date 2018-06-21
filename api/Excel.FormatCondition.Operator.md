@@ -20,7 +20,7 @@ Returns a  **Long** value that represents the operator for the conditional forma
 
  _expression_. 'Operator'
 
- _expression_ A variable that represents a **FormatCondition** object.
+ _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
 
 
 ## Example

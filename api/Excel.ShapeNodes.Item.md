@@ -20,7 +20,7 @@ Returns a single object from a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **ShapeNodes** object.
+ _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
 
 
 ### Parameters

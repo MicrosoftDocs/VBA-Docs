@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the starting height of a **[ScaleE
 
  _expression_. 'FromY'
 
- _expression_ A variable that represents a **ScaleEffect** object.
+ _expression_ A variable that represents a [ScaleEffect](./PowerPoint.ScaleEffect.md) object.
 
 
 ### Return Value

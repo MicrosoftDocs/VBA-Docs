@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the X400 e-mail address of the **[Exc
 
  _expression_. 'Address'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

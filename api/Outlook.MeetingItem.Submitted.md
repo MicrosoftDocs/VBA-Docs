@@ -20,7 +20,7 @@ Returns a  **Boolean** value that is **True** if the item has been submitted. Re
 
  _expression_. 'Submitted'
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## Remarks

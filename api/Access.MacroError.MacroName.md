@@ -20,7 +20,7 @@ Gets the name of the macro that was running when an error occurred. Read-only  *
 
  _expression_. 'MacroName'
 
- _expression_ A variable that represents a **MacroError** object.
+ _expression_ A variable that represents a [MacroError](./Access.MacroError.md) object.
 
 
 ## Remarks

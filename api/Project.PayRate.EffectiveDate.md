@@ -20,6 +20,6 @@ Gets the date a pay rate for a resource goes into effect. Read-only  **Variant**
 
  _expression_. 'EffectiveDate'
 
- _expression_ A variable that represents a **PayRate** object.
+ _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 
 

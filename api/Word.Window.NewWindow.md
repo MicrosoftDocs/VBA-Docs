@@ -20,7 +20,7 @@ Opens a new window with the same document as the specified window. Returns a  **
 
  _expression_. 'NewWindow'
 
- _expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
+ _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ### Return Value

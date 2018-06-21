@@ -20,7 +20,7 @@ The  **CountOfDeclarationLines** property returns a **Long** value indicating th
 
  _expression_. 'CountOfDeclarationLines'
 
- _expression_ A variable that represents a **Module** object.
+ _expression_ A variable that represents a [Module](./Access.Module.md) object.
 
 
 ## Remarks

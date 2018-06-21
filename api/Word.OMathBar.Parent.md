@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **OMat
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **[OMathBar](Word.OMathBar.md)** object.
+ _expression_ A variable that represents a '[OMathBar](Word.OMathBar.md)' object.
 
 
 ## See also

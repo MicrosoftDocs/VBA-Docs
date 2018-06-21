@@ -20,7 +20,7 @@ Returns or sets the number style for the  **ListLevel** object. Read/write **WdL
 
  _expression_. 'NumberStyle'
 
- _expression_ Required. A variable that represents a **[ListLevel](Word.ListLevel.md)** object.
+ _expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Remarks

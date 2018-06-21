@@ -20,7 +20,7 @@ Returns an object's type. Read-only.
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents a **MouseEvent** object.
+ _expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
 
 
 ### Return Value

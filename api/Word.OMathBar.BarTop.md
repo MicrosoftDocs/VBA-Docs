@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents the position of a bar in a bar ob
 
  _expression_. 'BarTop'
 
- _expression_ An expression that returns an **[OMathBar](Word.OMathBar.md)** object.
+ _expression_ An expression that returns an '[OMathBar](Word.OMathBar.md)' object.
 
 
 ## See also

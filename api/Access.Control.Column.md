@@ -20,7 +20,7 @@ You can use the  **Column** property to refer to a specific column, or column an
 
  _expression_. 'Column'( ' _Index_', ' _Row_' )
 
- _expression_ A variable that represents a **Control** object.
+ _expression_ A variable that represents a [Control](./Access.Control.md) object.
 
 
 ### Parameters

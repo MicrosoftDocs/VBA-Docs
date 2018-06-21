@@ -23,7 +23,7 @@ Returns the  **Master** object of type **visTypeDataGraphic** that contains the 
 
  _expression_. 'DataGraphic'
 
- _expression_ An expression that returns a **GraphicItems** object.
+ _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 
 
 ### Return Value

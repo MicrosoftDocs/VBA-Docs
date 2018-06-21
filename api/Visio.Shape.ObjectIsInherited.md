@@ -20,7 +20,7 @@ Indicates if a shape represents an ActiveX or OLE object that is inherited from 
 
  _expression_. 'ObjectIsInherited'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

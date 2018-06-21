@@ -18,7 +18,7 @@ Returns an instance of a  **RevisionsFilter** object. Read-only.
 
  _expression_. 'RevisionsFilter'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./Word.View.md) object.
 
 
 ## Property value

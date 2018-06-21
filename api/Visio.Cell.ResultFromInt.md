@@ -20,7 +20,7 @@ Sets the value of a cell to an integer value. Read/write.
 
  _expression_. 'ResultFromInt'( '_UnitsNameOrCode_' )
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Parameters

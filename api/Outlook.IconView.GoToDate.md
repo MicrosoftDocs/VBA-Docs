@@ -20,7 +20,7 @@ Changes the date used by the current view to display information.
 
  _expression_. 'GoToDate'( '_Date_' )
 
- _expression_ A variable that represents an **IconView** object.
+ _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
 
 
 ### Parameters

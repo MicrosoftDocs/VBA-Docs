@@ -20,7 +20,7 @@ Opens the specified workbook in a new  **Protected View** window.
 
  _expression_. 'Open'( '_Filename_' , '_Password_' , '_AddToMru_' , '_RepairMode_' )
 
- _expression_ A variable that represents a **[ProtectedViewWindows](Excel.ProtectedViewWindows.md)** object.
+ _expression_ A variable that represents a '[ProtectedViewWindows](Excel.ProtectedViewWindows.md)' object.
 
 
 ### Parameters

@@ -17,7 +17,7 @@ Returns the Z order of the specified  **ThreeDFormat** object. Read/write **Sing
 
  _expression_. 'Z'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## See also

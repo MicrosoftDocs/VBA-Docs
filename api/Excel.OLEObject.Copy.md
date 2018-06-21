@@ -20,7 +20,7 @@ Copies the object to the Clipboard.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents an **OLEObject** object.
+ _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
 
 
 ### Return Value

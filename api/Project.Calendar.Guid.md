@@ -17,6 +17,6 @@ Gets the GUID of the calendar. Read-only  **String**.
 
  _expression_. 'Guid'
 
- _expression_ An expression that returns a **Calendar** object.
+ _expression_ An expression that returns a [Calendar](./Project.Calendar.md) object.
 
 

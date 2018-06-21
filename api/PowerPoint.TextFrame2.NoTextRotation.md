@@ -20,7 +20,7 @@ Indicates whether to rotate text with the  **TextFrame2** rotation. One of the *
 
  _expression_. 'NoTextRotation'
 
- _expression_ A variable that represents a **TextFrame2** object.
+ _expression_ A variable that represents a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
 ## Remarks

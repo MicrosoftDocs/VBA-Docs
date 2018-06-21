@@ -20,7 +20,7 @@ Specifies a value that is automatically entered in a field when a new record is 
 
  _expression_. 'DefaultValue'
 
- _expression_ A variable that represents an **OptionGroup** object.
+ _expression_ A variable that represents an [OptionGroup](./Access.OptionGroup.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the data-marker size, in points. Read/write  **Long** .
 
  _expression_. 'MarkerSize'
 
- _expression_ A variable that represents a **[LegendKey](Word.LegendKey.md)** object.
+ _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
 
 
 ## Remarks

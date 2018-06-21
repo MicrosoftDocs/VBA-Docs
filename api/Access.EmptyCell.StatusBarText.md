@@ -20,7 +20,7 @@ You can use the  **StatusBarText** property to specify the text that is displaye
 
  _expression_. 'StatusBarText'
 
- _expression_ A variable that represents an **EmptyCell** object.
+ _expression_ A variable that represents an [EmptyCell](./Access.EmptyCell.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Occurs after a presentation is created, as it is added to the  **[Presentations]
 
  _expression_. 'NewPresentation'( '_Pres_' )
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

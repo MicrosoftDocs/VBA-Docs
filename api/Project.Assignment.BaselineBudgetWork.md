@@ -17,6 +17,6 @@ Gets or sets the baseline budget work (in hours) for an  **Assignment**. Read/wr
 
  _expression_. 'BaselineBudgetWork'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

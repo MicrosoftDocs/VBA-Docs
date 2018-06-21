@@ -20,7 +20,7 @@ Returns a  **[LinkFormat](Excel.LinkFormat.md)** object that contains linked OLE
 
  _expression_. 'LinkFormat'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Creates and returns a new  **[NavigationGroup](Outlook.NavigationGroup.md)** obj
 
  _expression_. 'Create'( '_GroupDisplayName_' )
 
- _expression_ A variable that represents a **NavigationGroups** object.
+ _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
 
 
 ### Parameters

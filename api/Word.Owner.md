@@ -20,7 +20,7 @@ Returns the  **[CoAuthor](Word.CoAuthor.md)** that owns the specified lock. Read
 
  _expression_. 'Owner'
 
- _expression_ An expression that returns a **[CoAuthLock](Word.CoAuthLock.md)** object.
+ _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 
 
 ## Example

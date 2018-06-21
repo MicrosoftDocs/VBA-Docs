@@ -20,7 +20,7 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
  _expression_. 'Actions'
 
- _expression_ A variable that represents a **PostItem** object.
+ _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## See also

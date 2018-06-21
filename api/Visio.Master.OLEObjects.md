@@ -20,7 +20,7 @@ Returns the  **OLEObjects** collection of a master. Read-only.
 
  _expression_. 'OLEObjects'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets the company name of the person creating a letter with the Letter
 
  _expression_. 'SenderCompany'
 
- _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

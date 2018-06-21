@@ -17,7 +17,7 @@ Returns all the series in the chart.
 
  _expression_. 'SeriesCollection'( '_Index_' )
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ### Return Value

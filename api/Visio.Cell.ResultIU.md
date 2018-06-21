@@ -20,7 +20,7 @@ Gets or sets a cell's value in internal units. Read/write.
 
  _expression_. 'ResultIU'
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Return Value

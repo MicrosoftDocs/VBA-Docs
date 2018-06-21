@@ -20,7 +20,7 @@ Returns the  **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object for 
 
  _expression_. 'Horizontal'
 
- _expression_ A variable that represents a **SparkAxes** object.
+ _expression_ A variable that represents a [SparkAxes](./Excel.SparkAxes.md) object.
 
 
 ### Return Value

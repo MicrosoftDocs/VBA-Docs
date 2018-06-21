@@ -20,7 +20,7 @@ Returns or sets a named location in the destination of the specified hyperlink. 
 
  _expression_. 'SubAddress'
 
- _expression_ An expression that returns a **[Hyperlink](Word.Hyperlink.md)** object.
+ _expression_ An expression that returns a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Remarks

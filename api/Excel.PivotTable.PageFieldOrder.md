@@ -20,7 +20,7 @@ Returns or sets the order in which page fields are added to the PivotTable repor
 
  _expression_. 'PageFieldOrder'
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ## Example

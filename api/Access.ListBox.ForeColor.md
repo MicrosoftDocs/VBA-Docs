@@ -20,7 +20,7 @@ You can use the  **ForeColor** property to specify the color for text in a contr
 
  _expression_. 'ForeColor'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

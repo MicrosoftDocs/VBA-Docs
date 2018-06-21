@@ -20,7 +20,7 @@ Returns a  **Long** value that represents the difference in minutes of between t
 
  _expression_. 'Bias'
 
- _expression_ A variable that represents a **TimeZone** object.
+ _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Obtains a  **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object for the 
 
  _expression_. 'GetSelectNamesDialog'
 
- _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
+ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ### Return Value

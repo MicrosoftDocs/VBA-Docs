@@ -17,6 +17,6 @@ Gets the scheduled (as opposed to actual) start time of a task. Read-only  **Var
 
  _expression_. 'ScheduledStart'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 

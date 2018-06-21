@@ -20,7 +20,7 @@ Occurs whenever the specified PivotTable view query becomes necessary. The query
 
  _expression_. 'Query'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Example

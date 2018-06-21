@@ -20,7 +20,7 @@ Returns or sets the specified hyperlink's visible text in a document. Read/write
 
  _expression_. 'TextToDisplay'
 
- _expression_ An expression that returns a **[Hyperlink](Word.Hyperlink.md)** object.
+ _expression_ An expression that returns a '[Hyperlink](Word.Hyperlink.md)' object.
 
 
 ## Example

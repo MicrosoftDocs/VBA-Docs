@@ -20,7 +20,7 @@ Gets the ordinal position of an object in a collection. Read-only.
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **Section** object.
+ _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets the way cells display comments and indicators. Can be one of the
 
  _expression_. 'DisplayCommentIndicator'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **Style** object that represents the style associated with a revision
 
  _expression_. 'Style'
 
- _expression_ Required. A variable that represents a **[Revision](Word.Revision.md)** object.
+ _expression_ Required. A variable that represents a '[Revision](Word.Revision.md)' object.
 
 
 ## See also

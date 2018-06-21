@@ -20,7 +20,7 @@ Returns the object that represents the specified OLE object's top-level interfac
 
  _expression_. 'Object'
 
- _expression_ A variable that represents an **OLEFormat** object.
+ _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 
 
 ### Return Value

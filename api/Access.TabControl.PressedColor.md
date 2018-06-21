@@ -20,7 +20,7 @@ Gets or sets the color displayed on the control when the user clicks it. Read/wr
 
  _expression_. 'PressedColor'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

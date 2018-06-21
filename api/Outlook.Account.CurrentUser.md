@@ -20,7 +20,7 @@ Returns a  **[Recipient](Outlook.Recipient.md)** object that represents the curr
 
  _expression_. 'CurrentUser'
 
- _expression_ A variable that represents an **[Account](Outlook.Account.md)** object.
+ _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ## See also

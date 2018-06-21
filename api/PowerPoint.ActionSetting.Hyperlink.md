@@ -20,7 +20,7 @@ Returns a  **[Hyperlink](PowerPoint.Hyperlink.md)** object that represents the h
 
  _expression_. 'Hyperlink'
 
- _expression_ A variable that represents a **ActionSetting** object.
+ _expression_ A variable that represents a [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
 ### Return Value

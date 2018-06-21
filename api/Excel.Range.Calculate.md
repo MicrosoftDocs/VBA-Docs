@@ -20,7 +20,7 @@ Calculates all open workbooks, a specific worksheet in a workbook, or a specifie
 
  _expression_. 'Calculate'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Return Value

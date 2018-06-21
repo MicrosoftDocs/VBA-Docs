@@ -15,7 +15,7 @@ Occurs just before a shape-replacement operation.
 
  _expression_. 'BeforeReplaceShapes'_(replaceShapes)_
 
- _expression_ A variable that represents a **InvisibleApp** object.
+ _expression_ A variable that represents a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Parameters

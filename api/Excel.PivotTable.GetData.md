@@ -20,7 +20,7 @@ Returns the value for the a data filed in a PivotTable.
 
  _expression_. 'GetData'( '_Name_' )
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ### Parameters

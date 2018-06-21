@@ -20,7 +20,7 @@ Specifies whether a colon follows the text in labels for new controls. Read/writ
 
  _expression_. 'AddColon'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## See also

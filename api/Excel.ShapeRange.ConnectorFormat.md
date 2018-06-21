@@ -20,7 +20,7 @@ Returns a  **[ConnectorFormat](Excel.ConnectorFormat.md)** object that contains 
 
  _expression_. 'ConnectorFormat'
 
- _expression_ An expression that returns a **ShapeRange** object.
+ _expression_ An expression that returns a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Example

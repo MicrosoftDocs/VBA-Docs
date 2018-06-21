@@ -23,7 +23,7 @@ Gets or sets whether the data column creates a hyperlink in a shape when the sha
 
  _expression_. 'Hyperlink'
 
- _expression_ An expression that returns a **DataColumn** object.
+ _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
 
 ### Return Value

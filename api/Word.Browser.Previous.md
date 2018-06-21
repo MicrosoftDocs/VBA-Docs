@@ -20,7 +20,7 @@ Moves the selection to the previous item indicated by the browser target. Use th
 
  _expression_. 'Previous'
 
- _expression_ Required. A variable that represents a **[Browser](Word.Browser.md)** object.
+ _expression_ Required. A variable that represents a '[Browser](Word.Browser.md)' object.
 
 
 ## Example

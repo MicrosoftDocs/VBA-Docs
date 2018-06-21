@@ -20,7 +20,7 @@ Gets or sets the shade that is applied to the theme color in the  **BorderColor*
 
  _expression_. 'BorderShade'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

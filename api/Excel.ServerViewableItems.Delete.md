@@ -20,7 +20,7 @@ Deletes a reference to an object in the  **[ServerViewableItems](Excel.ServerVie
 
  _expression_. 'Delete'( '_Index_' )
 
- _expression_ A variable that represents a **ServerViewableItems** object.
+ _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
 
 
 ### Parameters

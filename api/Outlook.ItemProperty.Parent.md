@@ -20,7 +20,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **ItemProperty** object.
+ _expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
 
 
 ## See also

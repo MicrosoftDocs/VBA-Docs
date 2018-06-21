@@ -20,7 +20,7 @@ Returns a  **Variant** value that represents the unique name that identifies ite
 
  _expression_. 'Source'
 
- _expression_ A variable that represents a **PublishObject** object.
+ _expression_ A variable that represents a [PublishObject](./Excel.PublishObject.md) object.
 
 
 ## Remarks

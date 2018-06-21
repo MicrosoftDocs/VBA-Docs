@@ -18,9 +18,9 @@ Occurs after the name of a style is changed or a change to the style propagates 
 
 ## Syntax
 
-Private Sub  _expression_ _**StyleChanged**( **_ByVal Style As [IVSTYLE]_** )
+Private Sub  _expression_ _'StyleChanged'( **_ByVal Style As [IVSTYLE]_** )
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
 ### Parameters

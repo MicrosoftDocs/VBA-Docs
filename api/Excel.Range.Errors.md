@@ -20,7 +20,7 @@ Allows the user to to access error checking options.
 
  _expression_. 'Errors'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Remarks

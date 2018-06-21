@@ -20,7 +20,7 @@ Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents th
 
  _expression_. 'GetConversation'
 
- _expression_ A variable that represents a **[SharingItem](Outlook.SharingItem.md)** object.
+ _expression_ A variable that represents a '[SharingItem](Outlook.SharingItem.md)' object.
 
 
 ### Return Value

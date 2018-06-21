@@ -17,7 +17,7 @@ Gets or sets the first day of the week for new projects. Read/write  **PjWeekday
 
  _expression_. 'StartWeekOn'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

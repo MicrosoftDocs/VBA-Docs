@@ -17,7 +17,7 @@ Gets or sets the percentage of work complete for a resource. Read-only  **Varian
 
  _expression_. 'PercentWorkComplete'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Example

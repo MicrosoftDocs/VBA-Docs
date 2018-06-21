@@ -20,7 +20,7 @@ Gets the instance handle of the  **Application** object for a 32-bit version of 
 
  _expression_. 'InstanceHandle32'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

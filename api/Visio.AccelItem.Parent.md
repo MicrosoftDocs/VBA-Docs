@@ -20,7 +20,7 @@ Determines the parent of an object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **AccelItem** object.
+ _expression_ A variable that represents a [AccelItem](./Visio.AccelItem.md) object.
 
 
 ### Return Value

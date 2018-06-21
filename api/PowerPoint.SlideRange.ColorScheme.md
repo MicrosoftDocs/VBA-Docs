@@ -20,7 +20,7 @@ Returns or sets the  **[ColorScheme](PowerPoint.ColorScheme.md)** object that re
 
  _expression_. 'ColorScheme'
 
- _expression_ A variable that represents a **SlideRange** object.
+ _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
 ### Return Value

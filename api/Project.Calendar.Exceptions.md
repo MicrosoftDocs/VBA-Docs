@@ -20,6 +20,6 @@ Gets the  **[Exceptions](Project.exceptions.md)** collection object. Read-only *
 
  _expression_. 'Exceptions'
 
- _expression_ A variable that represents a **Calendar** object.
+ _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
 

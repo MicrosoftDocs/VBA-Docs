@@ -20,7 +20,7 @@ Moves the chart to a new location.
 
  _expression_. 'Location'( '_Where_' , '_Name_' )
 
- _expression_ An expression that returns a **Chart** object.
+ _expression_ An expression that returns a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ### Parameters

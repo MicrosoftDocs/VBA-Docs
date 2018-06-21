@@ -20,7 +20,7 @@ Indicates whether Project can check out the specified project from a SharePoint 
 
  _expression_. 'CanCheckOut'( ' _Filename_' )
 
- _expression_ A variable that represents a **Projects** object.
+ _expression_ A variable that represents a 'Projects' object.
 
 
 ### Parameters

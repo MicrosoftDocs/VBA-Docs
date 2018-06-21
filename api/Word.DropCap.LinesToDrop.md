@@ -20,7 +20,7 @@ Returns or sets the height (in lines) of the specified dropped capital letter. R
 
  _expression_. 'LinesToDrop'
 
- _expression_ An expression that returns a **[DropCap](Word.DropCap.md)** object.
+ _expression_ An expression that returns a '[DropCap](Word.DropCap.md)' object.
 
 
 ## Example

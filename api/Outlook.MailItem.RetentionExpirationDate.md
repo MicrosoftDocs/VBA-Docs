@@ -20,7 +20,7 @@ Returns a  **Date** that specifies the date when the **[MailItem](Outlook.MailIt
 
  _expression_. 'RetentionExpirationDate'
 
- _expression_ A variable that represents a **MailItem** object.
+ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

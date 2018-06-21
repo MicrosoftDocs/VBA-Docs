@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Subtype'
 
- _expression_ A variable that represents a **FilterEffect** object.
+ _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
 
 ### Return Value

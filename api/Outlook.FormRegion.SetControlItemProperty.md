@@ -20,7 +20,7 @@ Binds an explicit built-in property or a custom property to a control in the for
 
  _expression_. 'SetControlItemProperty'( '_Control_' , '_PropertyName_' )
 
- _expression_ A variable that represents a **FormRegion** object.
+ _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ### Parameters

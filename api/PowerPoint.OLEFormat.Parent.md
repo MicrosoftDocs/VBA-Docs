@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **OLEFormat** object.
+ _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 
 
 ### Return Value

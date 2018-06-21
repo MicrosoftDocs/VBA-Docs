@@ -20,7 +20,7 @@ Determines if an object is closed (that is, if its begin point coincides with it
 
  _expression_. 'Closed'
 
- _expression_ A variable that represents a **Path** object.
+ _expression_ A variable that represents a [Path](./Visio.Path.md) object.
 
 
 ### Return Value

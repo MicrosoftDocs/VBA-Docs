@@ -20,7 +20,7 @@ Gets or sets a  **[Tables](Project.Table.md)** collection representing the resou
 
  _expression_. 'GlobalResourceTables'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

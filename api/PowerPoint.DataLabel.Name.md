@@ -17,7 +17,7 @@ Returns the name of the object. Read-only  **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **[DataLabel](PowerPoint.DataLabel.md)** object.
+ _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
 
 
 ## See also

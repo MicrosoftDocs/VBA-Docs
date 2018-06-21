@@ -20,7 +20,7 @@ Sets the results or formulas of one or more cells.
 
  _expression_. 'SetResults'( '_SID_SRCStream()_' , '_UnitsNamesOrCodes()_' , '_resultArray()_' , '_Flags_' )
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Parameters

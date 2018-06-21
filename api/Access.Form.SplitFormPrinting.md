@@ -20,7 +20,7 @@ Gets or sets whether the contents of the form or the datasheet are printed when 
 
  _expression_. 'SplitFormPrinting'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## See also

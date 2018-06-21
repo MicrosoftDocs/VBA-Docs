@@ -20,7 +20,7 @@ Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** that represents the justif
 
  _expression_. 'Justification'
 
- _expression_ An expression that returns an **[OMath](Word.OMath.md)** object.
+ _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 
 
 ## See also

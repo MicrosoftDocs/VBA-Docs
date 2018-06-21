@@ -20,7 +20,7 @@ Returns a value that indicates if the associated  **[Range](Excel.Range(objec).m
 
  _expression_. 'MergeCells'
 
- _expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
+ _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ### Return Value

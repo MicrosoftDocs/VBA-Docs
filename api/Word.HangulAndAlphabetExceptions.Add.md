@@ -20,7 +20,7 @@ Returns a  **HangulAndAlphabetException** object that represents a new exception
 
  _expression_. 'Add'( '_Name_' )
 
- _expression_ Required. A variable that represents a **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection.
+ _expression_ Required. A variable that represents a '[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)' collection.
 
 
 ### Parameters

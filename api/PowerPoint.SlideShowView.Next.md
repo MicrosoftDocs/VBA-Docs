@@ -20,7 +20,7 @@ Displays the slide immediately following the slide that's currently displayed.
 
  _expression_. 'Next'
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ## Remarks

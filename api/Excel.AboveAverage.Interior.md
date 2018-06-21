@@ -20,7 +20,7 @@ Returns an  **[Interior](Excel.Interior(objec).md)** object that specifies a cel
 
  _expression_. 'Interior'
 
- _expression_ A variable that represents an **AboveAverage** object.
+ _expression_ A variable that represents an [AboveAverage](./Excel.AboveAverage.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of mail merge data fields in the 
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[MailMergeDataFields](Word.mailmergedatafields.md)** collection.
+ _expression_ Required. A variable that represents a '[MailMergeDataFields](Word.mailmergedatafields.md)' collection.
 
 
 ## See also

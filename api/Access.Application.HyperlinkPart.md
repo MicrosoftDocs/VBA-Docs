@@ -20,7 +20,7 @@ The  **HyperlinkPart** method returns information about data stored as a Hyperli
 
  _expression_. 'HyperlinkPart'( ' _Hyperlink_', ' _Part_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

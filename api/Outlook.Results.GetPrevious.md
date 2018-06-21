@@ -20,7 +20,7 @@ Returns the previous object in the collection.
 
  _expression_. 'GetPrevious'
 
- _expression_ A variable that represents a **Results** object.
+ _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
 
 
 ### Return Value

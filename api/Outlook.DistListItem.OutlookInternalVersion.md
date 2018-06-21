@@ -20,7 +20,7 @@ Returns a  **Long** representing the build number of the Outlook application for
 
  _expression_. 'OutlookInternalVersion'
 
- _expression_ A variable that represents a **DistListItem** object.
+ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## See also

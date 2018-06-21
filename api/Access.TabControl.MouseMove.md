@@ -20,7 +20,7 @@ The  **MouseMove** event occurs when the user moves the mouse.
 
  _expression_. 'MouseMove'( ' _Button_', ' _Shift_', ' _X_', ' _Y_' )
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ### Parameters

@@ -18,7 +18,7 @@ Returns a [Broadcast](Word.broadcast.md) object that represents a broadcast sess
 
  _expression_. 'Broadcast'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Word.Document.md) object.
 
 
 ## Property value

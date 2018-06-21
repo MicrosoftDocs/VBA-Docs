@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Accent'
 
- _expression_ A variable that represents a **[CalloutFormat](Word.CalloutFormat.md)** object.
+ _expression_ A variable that represents a '[CalloutFormat](Word.CalloutFormat.md)' object.
 
 
 ## Example

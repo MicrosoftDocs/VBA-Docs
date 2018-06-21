@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the format code for the obje
 
  _expression_. 'NumberFormatLocal'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 
 ## Remarks

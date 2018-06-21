@@ -20,7 +20,7 @@ Returns an  **OfficeTheme** object that represents the Microsoft Office theme ap
 
  _expression_. 'OfficeTheme'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

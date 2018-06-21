@@ -20,7 +20,7 @@ Includes the specified page for publication when the document is published as a 
 
  _expression_. 'IncludePage'( '_PageName_' , '_Flags_' )
 
- _expression_ A variable that represents a **[ServerPublishOptions](Visio.ServerPublishOptions.md)** object.
+ _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Determines whether and how a preview picture is saved in a file. Read/write.
 
  _expression_. 'SavePreviewMode'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

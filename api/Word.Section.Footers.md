@@ -20,7 +20,7 @@ Returns a  **[HeadersFooters](Word.headersfooters.md)** collection that represen
 
  _expression_. 'Footers'
 
- _expression_ A variable that represents a **[Section](Word.Section.md)** object.
+ _expression_ A variable that represents a '[Section](Word.Section.md)' object.
 
 
 ## Remarks

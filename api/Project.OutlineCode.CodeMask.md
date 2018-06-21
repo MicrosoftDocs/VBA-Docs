@@ -20,7 +20,7 @@ Gets a  **[CodeMask](Project.codemask.md)** collection representing the code mas
 
  _expression_. 'CodeMask'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Gets or sets the width in points of the window. Read/write  **Long**.
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[Borders](Word.borders.md)** collection that represents all the bor
 
  _expression_. 'Borders'
 
- _expression_ A variable that represents a **[Cells](Word.cells.md)** object.
+ _expression_ A variable that represents a '[Cells](Word.cells.md)' object.
 
 
 ## Remarks

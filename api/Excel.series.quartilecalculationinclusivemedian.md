@@ -18,7 +18,7 @@ ms.prod: excel
 
  _expression_. 'QuartileCalculationInclusiveMedian'
 
- _expression_ A variable that represents a **Series** object.
+ _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
 
 
 ## See also

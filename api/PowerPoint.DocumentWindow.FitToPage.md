@@ -20,7 +20,7 @@ Adjusts the size of the specified document window to accommodate the information
 
  _expression_. 'FitToPage'
 
- _expression_ A variable that represents a **DocumentWindow** object.
+ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Example

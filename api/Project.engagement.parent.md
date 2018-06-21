@@ -15,7 +15,7 @@ The Parent property for the Engagement object. Introduced in Office 2016.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Engagement** object.
+ _expression_ A variable that represents a 'Engagement' object.
 
 
 ## See also

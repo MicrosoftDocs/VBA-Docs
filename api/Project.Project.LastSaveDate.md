@@ -20,6 +20,6 @@ Gets the date a project was last saved. Read-only  **Variant**.
 
  _expression_. 'LastSaveDate'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

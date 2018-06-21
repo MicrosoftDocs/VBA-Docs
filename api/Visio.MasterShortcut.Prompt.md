@@ -20,7 +20,7 @@ Gets or sets the prompt string for a master or master shortcut. Read/write.
 
  _expression_. 'Prompt'
 
- _expression_ A variable that represents a **MasterShortcut** object.
+ _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
 ### Return Value

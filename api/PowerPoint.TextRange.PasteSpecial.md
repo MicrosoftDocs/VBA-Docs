@@ -20,7 +20,7 @@ Replaces the text range with the contents of the Clipboard in the format specifi
 
  _expression_. 'PasteSpecial'( '_DataType_', '_DisplayAsIcon_', '_IconFileName_', '_IconIndex_', '_IconLabel_', '_Link_' )
 
- _expression_ A variable that represents a **TextRange** object.
+ _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ### Parameters

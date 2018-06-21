@@ -20,6 +20,6 @@ Gets a  **Tasks** collection that contains a set of circular task dependencies, 
 
  _expression_. 'DetectCycle'
 
- _expression_ An expression that returns a **Project** object.
+ _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 

@@ -20,7 +20,7 @@ When set to  **True** , this enables Microsoft Excel to use the auto-change list
 
  _expression_. 'KoreanUseAutoChangeList'
 
- _expression_ A variable that represents a **SpellingOptions** object.
+ _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
 
 
 ## Example

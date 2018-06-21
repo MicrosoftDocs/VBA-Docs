@@ -20,7 +20,7 @@ Starts a Help file.
 
  _expression_. 'HelpLaunch'( ' _Filename_', ' _ContextNumber_', ' _Search_', ' _SearchKey_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

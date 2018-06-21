@@ -20,7 +20,7 @@ You can use the  **Count** property to determine the number of items in a specif
 
  _expression_. 'Count'
 
- _expression_ A variable that represents an **AllTables** object.
+ _expression_ A variable that represents an [AllTables](./Access.AllTables.md) object.
 
 
 ## See also

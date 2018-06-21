@@ -20,7 +20,7 @@ Returns an  **AddIn** object that represents an add-in file added to the list of
 
  _expression_. 'Add'( '_Filename_' )
 
- _expression_ A variable that represents an **AddIns** object.
+ _expression_ A variable that represents an [AddIns](./PowerPoint.AddIns.md) object.
 
 
 ### Parameters

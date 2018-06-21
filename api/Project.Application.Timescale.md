@@ -20,7 +20,7 @@ Displays the  **Timescale** dialog box, which prompts the user to set timescale 
 
  _expression_. 'Timescale'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

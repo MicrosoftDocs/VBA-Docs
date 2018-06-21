@@ -20,7 +20,7 @@ Returns or sets a  **[XlVAlign](Excel.XlVAlign.md)** value that represents the v
 
  _expression_. 'VerticalAlignment'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 
 ## Remarks

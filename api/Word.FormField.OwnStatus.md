@@ -20,7 +20,7 @@ Specifies the source of the text that's displayed in the status bar when a form 
 
  _expression_. 'OwnStatus'
 
- _expression_ An expression that returns a **[FormField](Word.FormField.md)** object.
+ _expression_ An expression that returns a '[FormField](Word.FormField.md)' object.
 
 
 ## Remarks

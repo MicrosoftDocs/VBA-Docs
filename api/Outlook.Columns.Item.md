@@ -20,7 +20,7 @@ Obtains a  **[Column](Outlook.Column.md)** object specified by _Index_ .
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **[Columns](Outlook.Columns.md)** object.
+ _expression_ A variable that represents a '[Columns](Outlook.Columns.md)' object.
 
 
 ### Parameters

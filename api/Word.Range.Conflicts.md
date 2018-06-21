@@ -20,7 +20,7 @@ Returns a [Conflicts](Word.Conflicts.md) collection object that contains all the
 
  _expression_. 'Conflicts'
 
- _expression_ An expression that returns a **Range** object.
+ _expression_ An expression that returns a [Range](./Word.Range.md) object.
 
 
 ## Remarks

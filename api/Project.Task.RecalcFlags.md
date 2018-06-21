@@ -17,7 +17,7 @@ Gets a bit mask, flagging one or more conditions that are driving the task. Read
 
  _expression_. 'RecalcFlags'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

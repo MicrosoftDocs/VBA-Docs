@@ -20,7 +20,7 @@ Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object.
 
  _expression_. 'CustomerData'
 
- _expression_ An expression that returns a **CustomLayout** object.
+ _expression_ An expression that returns a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
 ### Return Value

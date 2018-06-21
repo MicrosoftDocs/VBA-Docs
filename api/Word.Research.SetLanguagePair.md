@@ -20,7 +20,7 @@ Sets the languages for the translation service.
 
  _expression_. 'SetLanguagePair'( '_LanguageFrom_' , '_LanguageTo_' )
 
- _expression_ An expression that returns a **Research** object.
+ _expression_ An expression that returns a [Research](./Word.Research.md) object.
 
 
 ### Parameters

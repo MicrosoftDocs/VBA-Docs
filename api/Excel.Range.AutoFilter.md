@@ -20,7 +20,7 @@ Filters a list using the AutoFilter.
 
  _expression_. 'AutoFilter'( '_Field_' , '_Criteria1_' , '_Operator_' , '_Criteria2_' , '_VisibleDropDown_' )
 
- _expression_ An expression that returns a **Range** object.
+ _expression_ An expression that returns a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

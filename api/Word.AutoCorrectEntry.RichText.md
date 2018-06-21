@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'RichText'
 
- _expression_ An expression that returns an **[AutoCorrectEntry](Word.AutoCorrectEntry.md)** object.
+ _expression_ An expression that returns an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 
 
 ## Example

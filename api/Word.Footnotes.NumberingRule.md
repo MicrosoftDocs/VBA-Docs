@@ -20,7 +20,7 @@ Returns or sets the way footnotes or endnotes are numbered after page breaks or 
 
  _expression_. 'NumberingRule'
 
- _expression_ Required. A variable that represents a **[Footnotes](Word.footnotes.md)** collection.
+ _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Example

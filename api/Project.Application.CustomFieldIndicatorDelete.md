@@ -20,7 +20,7 @@ Removes a test condition from a custom field graphical indicator criteria list.
 
  _expression_. 'CustomFieldIndicatorDelete'( ' _FieldID_', ' _Index_', ' _CriteriaList_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

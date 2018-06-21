@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'LineBetween'
 
- _expression_ An expression that returns a **[TextColumns](Word(textcolumns).md)** collection object.
+ _expression_ An expression that returns a '[TextColumns](Word(textcolumns).md)' collection object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Use the  **ValidationText** property to specify a message to be displayed to the
 
  _expression_. 'ValidationText'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

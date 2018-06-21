@@ -13,7 +13,7 @@ Gets callout formatting properties for the shape range, when the  **ShapeRange**
 
  _expression_. 'Callout'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

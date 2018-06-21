@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates whether the contents of a custom pro
 
  _expression_. 'Dirty'( '_Dirty_' )
 
- _expression_ A variable that represents a **PropertyPage** object.
+ _expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
 
 
 ### Parameters

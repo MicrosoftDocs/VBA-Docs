@@ -20,7 +20,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first 
 
  _expression_. 'FindFirstAnimationFor'( '_Shape_' )
 
- _expression_ A variable that represents a **Sequence** object.
+ _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
 ### Parameters

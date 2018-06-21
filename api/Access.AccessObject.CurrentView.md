@@ -20,7 +20,7 @@ Returns the current view for the specified Access object. Read-only  **[AcCurren
 
  _expression_. 'CurrentView'
 
- _expression_ A variable that represents an **AccessObject** object.
+ _expression_ A variable that represents an [AccessObject](./Access.AccessObject.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Creates an instance of a  **[ContactCard](http://msdn.microsoft.com/library/148c
 
  _expression_. 'CreateContactCard'( '_Address_' )
 
- _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
+ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ### Parameters

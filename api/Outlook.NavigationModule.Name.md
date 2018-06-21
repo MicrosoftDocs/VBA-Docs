@@ -20,7 +20,7 @@ Returns a  **String** value that represents the localized display name for the *
 
  _expression_. 'Name'
 
- _expression_ An expression that returns a **NavigationModule** object.
+ _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
 
 
 ## See also

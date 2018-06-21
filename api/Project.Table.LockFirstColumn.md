@@ -20,6 +20,6 @@ ms.date: 06/08/2017
 
  _expression_. 'LockFirstColumn'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
 

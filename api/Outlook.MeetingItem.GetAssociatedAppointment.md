@@ -20,7 +20,7 @@ Returns an  **[AppointmentItem](Outlook.AppointmentItem.md)** object that repres
 
  _expression_. 'GetAssociatedAppointment'( '_AddToCalendar_' )
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ### Parameters

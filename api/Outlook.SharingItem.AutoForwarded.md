@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that is **True** if the item was automatica
 
  _expression_. 'AutoForwarded'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

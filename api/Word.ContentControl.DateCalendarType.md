@@ -20,7 +20,7 @@ Returns or sets a  **[WdCalendarType](Word.WdCalendarType.md)** constant that re
 
  _expression_. 'DateCalendarType'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## See also

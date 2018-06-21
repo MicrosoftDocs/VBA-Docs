@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the amount of space (in points) to
 
  _expression_. 'BottomPadding'
 
- _expression_ Required. A variable that represents a **[ConditionalStyle](Word.ConditionalStyle.md)** object.
+ _expression_ Required. A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
 
 
 ## Remarks

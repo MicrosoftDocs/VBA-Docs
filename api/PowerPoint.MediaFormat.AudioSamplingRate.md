@@ -20,7 +20,7 @@ Returns the audio sampling rate per second for the media. Read-only.
 
  _expression_. 'AudioSamplingRate'
 
- _expression_ An expression that returns a **MediaFormat** object.
+ _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
 ### Return Value

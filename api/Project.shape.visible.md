@@ -13,7 +13,7 @@ Gets or sets a value that determines whether the shape is visible. Read/write  *
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Remarks

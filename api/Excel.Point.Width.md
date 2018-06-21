@@ -20,7 +20,7 @@ Returns the width, in points, of the object. Read-only.
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **Point** object.
+ _expression_ A variable that represents a [Point](./Excel.Point(Graph object).md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Deletes a workbook connection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **WorkbookConnection** object.
+ _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
 
 
 ## Remarks

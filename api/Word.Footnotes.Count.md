@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of footnotes in the collection. R
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Footnotes](Word.footnotes.md)** collection.
+ _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## See also

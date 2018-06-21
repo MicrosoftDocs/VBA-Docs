@@ -21,7 +21,7 @@ For Office 2016, returns dropdown entries for accessing individual list items wi
 
  _expression_. 'DropdownListEntries'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets the mailing instruction text for a letter created by the Letter 
 
  _expression_. 'MailingInstructions'
 
- _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

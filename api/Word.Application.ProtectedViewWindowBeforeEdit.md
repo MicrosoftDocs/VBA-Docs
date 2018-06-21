@@ -20,7 +20,7 @@ Occurs immediately before editing is enabled on the document in the specified pr
 
  _expression_. 'ProtectedViewWindowBeforeEdit'( '_PvWindow_' , '_Cancel_' )
 
- _expression_ An expression that returns an **[Application](Word.Application.md)** object.
+ _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
 ### Parameters

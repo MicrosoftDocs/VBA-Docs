@@ -17,7 +17,7 @@ Gets the number of items in the  **Years** collection. Read-only **Integer**.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Years** object.
+ _expression_ A variable that represents a 'Years' object.
 
 
 ## Remarks

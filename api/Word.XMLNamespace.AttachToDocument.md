@@ -20,7 +20,7 @@ Attaches an XML schema to a document.
 
  _expression_. 'AttachToDocument'( '_Document_' )
 
- _expression_ An expression that represents a **[XMLNamespace](Word.XMLNamespace.md)** object.
+ _expression_ An expression that represents a '[XMLNamespace](Word.XMLNamespace.md)' object.
 
 
 ### Parameters

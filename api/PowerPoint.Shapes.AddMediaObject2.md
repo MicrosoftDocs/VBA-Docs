@@ -20,7 +20,7 @@ Replaces deprecated [Shapes.AddMediaObject Method (PowerPoint)](shapes-addmediao
 
  _expression_. 'AddMediaObject2'( '_FileName_', '_LinkToFile_', '_SaveWithDocument_', '_Left_', '_Top_', '_Width_', '_Height_' )
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **DateTime** value specifying the date and time that the Outlook item
 
  _expression_. 'LastModificationTime'
 
- _expression_ A variable that represents a **StorageItem** object.
+ _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
 
 
 ## Remarks

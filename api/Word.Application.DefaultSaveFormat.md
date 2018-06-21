@@ -20,7 +20,7 @@ Returns or sets the default format that will appear in the  **Save as type** box
 
  _expression_. 'DefaultSaveFormat'
 
- _expression_ An expression that represents a **[Application](Word.Application.md)** object.
+ _expression_ An expression that represents a '[Application](Word.Application.md)' object.
 
 
 ## Remarks

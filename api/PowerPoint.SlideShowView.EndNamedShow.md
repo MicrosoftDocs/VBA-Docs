@@ -20,7 +20,7 @@ Switches from running a custom, or named, slide show to running the entire prese
 
  _expression_. 'EndNamedShow'
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets the ADO  **Recordset** or DAO **[Recordset](http://msdn.microsof
 
  _expression_. 'Recordset'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

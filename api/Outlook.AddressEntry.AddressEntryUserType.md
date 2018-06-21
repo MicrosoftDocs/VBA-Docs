@@ -20,7 +20,7 @@ Returns a constant from the  **[OlAddressEntryUserType](Outlook.OlAddressEntryUs
 
  _expression_. 'AddressEntryUserType'
 
- _expression_ A variable that represents an **AddressEntry** object.
+ _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
 ## Remarks

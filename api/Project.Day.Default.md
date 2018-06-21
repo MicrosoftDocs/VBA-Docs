@@ -17,7 +17,7 @@ Resets the  **Day** item of a resource calendar to the value in the correspondin
 
  _expression_. 'Default'
 
- _expression_ A variable that represents a **Day** object.
+ _expression_ A variable that represents a [Day](./Project.Day.md) object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Determines if the connection should be refreshed when refresh all is executed.  
 
  _expression_. 'RefreshWithRefreshAll'
 
- _expression_ A variable that represents a **WorkbookConnection** object.
+ _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
 
 
 ## Remarks

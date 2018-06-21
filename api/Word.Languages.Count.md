@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of languages in the collection. R
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Languages](Word.languages.md)** collection.
+ _expression_ Required. A variable that represents a '[Languages](Word.languages.md)' collection.
 
 
 ## See also

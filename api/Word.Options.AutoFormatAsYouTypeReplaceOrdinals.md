@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'AutoFormatAsYouTypeReplaceOrdinals'
 
- _expression_ A variable that represents an **[Options](Word.Options.md)** collection.
+ _expression_ A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example

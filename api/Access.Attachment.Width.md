@@ -20,7 +20,7 @@ Gets or sets the width of the specified object in twips. Read/write  **Integer**
 
  _expression_. 'Width'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

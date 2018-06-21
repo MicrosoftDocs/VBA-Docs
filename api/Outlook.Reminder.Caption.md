@@ -20,7 +20,7 @@ Returns a  **String** representing the title. Read-only.
 
  _expression_. 'Caption'
 
- _expression_ A variable that represents a **Reminder** object.
+ _expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
 
 
 ## See also

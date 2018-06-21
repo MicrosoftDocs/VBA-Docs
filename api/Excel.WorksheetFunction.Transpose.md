@@ -20,7 +20,7 @@ Returns a vertical range of cells as a horizontal range, or vice versa. TRANSPOS
 
  _expression_. 'Transpose'( '_Arg1_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

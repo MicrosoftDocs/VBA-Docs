@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **ColorScheme** object.
+ _expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
 
 
 ### Return Value

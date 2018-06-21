@@ -20,7 +20,7 @@ Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** that rep
 
  _expression_. 'RowSpacingRule'
 
- _expression_ An expression that returns an **[OMathEqArray](Word.OMathEqArray.md)** object.
+ _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 
 
 ## See also

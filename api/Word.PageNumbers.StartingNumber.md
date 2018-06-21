@@ -20,7 +20,7 @@ Returns or sets the starting note number, line number, or page number. Read/writ
 
  _expression_. 'StartingNumber'
 
- _expression_ Required. An expression that returns a **[PageNumbers](Word.pagenumbers.md)** object.
+ _expression_ Required. An expression that returns a '[PageNumbers](Word.pagenumbers.md)' object.
 
 
 ## Remarks

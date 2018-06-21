@@ -20,7 +20,7 @@ Deletes the specified variable.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[Variable](Word.Variable.md)** object.
+ _expression_ Required. A variable that represents a '[Variable](Word.Variable.md)' object.
 
 
 ## See also

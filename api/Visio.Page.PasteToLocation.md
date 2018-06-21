@@ -20,7 +20,7 @@ Pastes the shape to the specified location on the page.
 
  _expression_. 'PasteToLocation'( '_xPos_' , '_yPos_' , '_Flags_' )
 
- _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
+ _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 
 
 ### Parameters

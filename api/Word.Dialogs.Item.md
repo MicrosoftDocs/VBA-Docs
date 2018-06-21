@@ -20,7 +20,7 @@ Returns a dialog in Microsoft Word.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[Dialogs](Word.dialogs.md)** collection.
+ _expression_ Required. A variable that represents a '[Dialogs](Word.dialogs.md)' collection.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_. 'Session'
 
- _expression_ An expression that returns a **NavigationModule** object.
+ _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
 
 
 ## Remarks

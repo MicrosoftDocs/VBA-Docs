@@ -20,7 +20,7 @@ Saves the attachment to the specified path.
 
  _expression_. 'SaveAsFile'( '_Path_' )
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
 
 
 ### Parameters

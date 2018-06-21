@@ -20,7 +20,7 @@ Returns a  **ServerPolicy** object that represents a policy specified for a work
 
  _expression_. 'ServerPolicy'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

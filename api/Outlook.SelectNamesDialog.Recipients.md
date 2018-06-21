@@ -20,7 +20,7 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection object that repres
 
  _expression_. 'Recipients'
 
- _expression_ A variable that represents a **SelectNamesDialog** object.
+ _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

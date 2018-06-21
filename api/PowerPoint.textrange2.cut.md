@@ -15,7 +15,7 @@ Removes a portion or all of the text from a range of text.
 
  _expression_. 'Cut'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ## See also

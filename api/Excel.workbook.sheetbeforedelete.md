@@ -18,7 +18,7 @@ Occurs when any sheet is deleted.
 
  _expression_. 'SheetBeforeDelete'( '_Sh_' , )
 
- _expression_ An expression that returns a **Workbook** object.
+ _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

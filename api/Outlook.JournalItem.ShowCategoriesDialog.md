@@ -20,7 +20,7 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
  _expression_. 'ShowCategoriesDialog'
 
- _expression_ A variable that represents a **JournalItem** object.
+ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Updates the envelope in the document with the current envelope settings.
 
  _expression_. 'UpdateDocument'
 
- _expression_ Required. A variable that represents an **[Envelope](Word.Envelope.md)** object.
+ _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

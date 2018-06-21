@@ -20,7 +20,7 @@ Sets or returns a  **Single** that represents the distance between gridlines. Re
 
  _expression_. 'GridDistance'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

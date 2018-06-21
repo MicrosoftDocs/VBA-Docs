@@ -20,7 +20,7 @@ Returns a  **String** that indicates the relative position of the item within th
 
  _expression_. 'ConversationIndex'
 
- _expression_ A variable that represents a **TaskRequestUpdateItem** object.
+ _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

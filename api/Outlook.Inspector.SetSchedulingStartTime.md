@@ -20,7 +20,7 @@ Sets the start time for a meeting item in the free/busy grid on the  **Schedulin
 
  _expression_. 'SetSchedulingStartTime'( '_Start_' )
 
- _expression_ A variable that represents an **[Inspector](Outlook.Inspector.md)** object.
+ _expression_ A variable that represents an '[Inspector](Outlook.Inspector.md)' object.
 
 
 ### Parameters

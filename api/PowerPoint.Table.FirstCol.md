@@ -20,7 +20,7 @@ Determines whether to display special formatting for the first column of the spe
 
  _expression_. 'FirstCol'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
 ### Return Value

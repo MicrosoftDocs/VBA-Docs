@@ -20,7 +20,7 @@ Returns the part of a shape from which a connection originates. Read-only.
 
  _expression_. 'FromPart'
 
- _expression_ A variable that represents a **Connect** object.
+ _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
 
 ### Return Value

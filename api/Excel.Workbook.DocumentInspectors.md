@@ -20,7 +20,7 @@ Returns a  **[DocumentInspectors](http://msdn.microsoft.com/library/8366d7cd-e01
 
  _expression_. 'DocumentInspectors'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

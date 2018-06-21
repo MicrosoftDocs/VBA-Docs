@@ -20,7 +20,7 @@ Returns or sets the style to be applied automatically to a new paragraph that is
 
  _expression_. 'NextParagraphStyle'
 
- _expression_ An expression that returns a **[Style](Word.Style.md)** object.
+ _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 
 
 ## Remarks

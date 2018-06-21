@@ -20,7 +20,7 @@ Returns a  **String** representing the entry ID of the first e-mail address for 
 
  _expression_. 'Email1EntryID'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

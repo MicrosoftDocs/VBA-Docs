@@ -20,7 +20,7 @@ Returns or sets the position of all footnotes. Read/write  **WdFootnoteLocation*
 
  _expression_. 'Location'
 
- _expression_ Required. A variable that represents a **[Footnote](Word.Footnote.md)** object.
+ _expression_ Required. A variable that represents a '[Footnote](Word.Footnote.md)' object.
 
 
 ## Example

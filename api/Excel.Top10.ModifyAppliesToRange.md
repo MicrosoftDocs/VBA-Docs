@@ -20,7 +20,7 @@ Sets the cell range to which this formatting rule applies.
 
  _expression_. 'ModifyAppliesToRange'( '_Range_' )
 
- _expression_ A variable that represents a **Top10** object.
+ _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 
 
 ### Parameters

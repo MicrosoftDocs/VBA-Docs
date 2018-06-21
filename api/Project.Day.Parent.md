@@ -17,7 +17,7 @@ Gets the parent of the  **Day** object. Read-only **Month**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Day** object.
+ _expression_ A variable that represents a [Day](./Project.Day.md) object.
 
 
 ## Remarks

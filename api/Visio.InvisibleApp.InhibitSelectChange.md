@@ -20,7 +20,7 @@ Determines whether shapes added to the drawing page by Automation are selected. 
 
  _expression_. 'InhibitSelectChange'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

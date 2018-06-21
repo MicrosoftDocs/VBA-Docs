@@ -20,7 +20,7 @@ Returns a  **String** value that represents the unique identifier for the **[Cat
 
  _expression_. 'CategoryID'
 
- _expression_ A variable that represents a **Category** object.
+ _expression_ A variable that represents a [Category](./Outlook.Category.md) object.
 
 
 ## Remarks

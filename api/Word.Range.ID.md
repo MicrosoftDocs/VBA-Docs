@@ -20,7 +20,7 @@ Returns or sets the identification name for the specified range. Read/write  **S
 
  _expression_. 'ID'
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ You can use the  **CurrentView** property to determine how a report is currently
 
  _expression_. 'CurrentView'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

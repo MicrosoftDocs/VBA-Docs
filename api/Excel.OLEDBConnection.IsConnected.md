@@ -20,7 +20,7 @@ Returns  **True** if the **[MaintainConnection](Excel.OLEDBConnection.MaintainCo
 
  _expression_. 'IsConnected'
 
- _expression_ A variable that represents an **OLEDBConnection** object.
+ _expression_ A variable that represents an [OLEDBConnection](./Excel.OLEDBConnection.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns  **True** if the current instance of Microsoft Visio is 32-bit. Returns 
 
  _expression_. 'IsVisio32'
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Determines or specifies which value or option in the combo box is selected. Read
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

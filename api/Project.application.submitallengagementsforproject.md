@@ -18,7 +18,7 @@ Submits all the engagements in the project to the resource manager for review. I
 
  _expression_. 'SubmitAllEngagementsForProject'
 
- _expression_ A variable that represents a **Application** object.
+ _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
 ### Return Value

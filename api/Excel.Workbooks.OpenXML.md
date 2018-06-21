@@ -20,7 +20,7 @@ Opens an XML data file. Returns a  **[Workbook](Excel.Workbook.md)** object.
 
  _expression_. 'OpenXML'( '_Filename_' , '_Stylesheets_' , '_LoadOption_' )
 
- _expression_ A variable that represents a **Workbooks** object.
+ _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
 ### Parameters

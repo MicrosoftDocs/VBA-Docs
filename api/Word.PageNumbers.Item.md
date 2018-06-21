@@ -20,7 +20,7 @@ Returns an individual  **PageNumber** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[PageNumbers](Word.pagenumbers.md)** collection.
+ _expression_ Required. A variable that represents a '[PageNumbers](Word.pagenumbers.md)' collection.
 
 
 ### Parameters

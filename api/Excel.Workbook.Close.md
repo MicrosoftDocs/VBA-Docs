@@ -20,7 +20,7 @@ Closes the object.
 
  _expression_. 'Close'( '_SaveChanges_' , '_Filename_' , '_RouteWorkbook_' )
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

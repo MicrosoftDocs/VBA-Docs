@@ -20,7 +20,7 @@ Returns or sets a  **Date** that specifies the number of minutes displayed as an
 
  _expression_. 'IntervalTime'
 
- _expression_ A variable that represents an **OlkTimeControl** object.
+ _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

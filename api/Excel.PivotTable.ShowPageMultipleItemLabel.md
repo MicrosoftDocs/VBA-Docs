@@ -20,7 +20,7 @@ When set to  **True** (default), "(Multiple Items)" will appear in the PivotTabl
 
  _expression_. 'ShowPageMultipleItemLabel'
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ## Example

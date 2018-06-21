@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the inset size for the bottom beve
 
  _expression_. 'BevelBottomInset'
 
- _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## See also

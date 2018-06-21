@@ -20,6 +20,6 @@ Gets the active warning for a task. Read-only  **Variant**.
 
  _expression_. 'Warning'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 

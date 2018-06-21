@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the label and its top gridl
 
  _expression_. 'TopPadding'
 
- _expression_ A variable that represents a **Label** object.
+ _expression_ A variable that represents a [Label](./Access.Label.md) object.
 
 
 ## See also

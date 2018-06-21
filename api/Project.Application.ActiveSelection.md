@@ -20,7 +20,7 @@ Gets a  **[Selection](Project.Selection.md)** object that represents the active 
 
  _expression_. 'ActiveSelection'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Example

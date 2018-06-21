@@ -20,7 +20,7 @@ Returns or sets a Variant value that represents the hidden status of the cube fi
 
  _expression_. 'Hidden'
 
- _expression_ A variable that represents a **TreeviewControl** object.
+ _expression_ A variable that represents a [TreeviewControl](./Excel.TreeviewControl.md) object.
 
 
 ## Remarks

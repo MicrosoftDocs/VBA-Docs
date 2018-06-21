@@ -20,7 +20,7 @@ Copies a specified presentation from a server to a local computer for editing. R
 
  _expression_. 'CheckOut'( '_FileName_' )
 
- _expression_ A variable that represents a **Presentations** object.
+ _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
 
 ### Parameters

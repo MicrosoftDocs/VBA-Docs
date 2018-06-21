@@ -20,7 +20,7 @@ Gets whether complex text is displayed in the Microsoft Visio user interface. Re
 
  _expression_. 'ComplexTextUI'
 
- _expression_ A variable that represents an **ApplicationSettings** object.
+ _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

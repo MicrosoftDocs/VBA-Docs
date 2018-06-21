@@ -20,7 +20,7 @@ Returns whether the specified PivotFilter is active. Read-only  **Boolean** .
 
  _expression_. 'Active'
 
- _expression_ A variable that represents a **PivotFilter** object.
+ _expression_ A variable that represents a [PivotFilter](./Excel.PivotFilter.md) object.
 
 
 ## Remarks

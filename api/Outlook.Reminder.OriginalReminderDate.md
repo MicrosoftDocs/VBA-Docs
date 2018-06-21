@@ -20,7 +20,7 @@ Returns a  **Date** that specifies the original date and time that the specified
 
  _expression_. 'OriginalReminderDate'
 
- _expression_ A variable that represents a **Reminder** object.
+ _expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
 
 
 ## Remarks

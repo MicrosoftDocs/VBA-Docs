@@ -20,7 +20,7 @@ Returns an object that represents either a single series (a  **[Series](Excel.Se
 
  _expression_. 'SeriesCollection'( '_Index_' )
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ### Parameters

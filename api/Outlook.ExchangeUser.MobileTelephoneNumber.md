@@ -20,7 +20,7 @@ Returns a  **String** representing the mobile telephone number for the **[Exchan
 
  _expression_. 'MobileTelephoneNumber'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

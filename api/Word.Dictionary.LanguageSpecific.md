@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'LanguageSpecific'
 
- _expression_ A variable that represents a **[Dictionary](Word.Dictionary.md)** object.
+ _expression_ A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 
 
 ## Example

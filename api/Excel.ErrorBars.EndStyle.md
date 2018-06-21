@@ -20,7 +20,7 @@ Returns or sets the end style for the error bars. Can be one of the following  *
 
  _expression_. 'EndStyle'
 
- _expression_ A variable that represents an **ErrorBars** object.
+ _expression_ A variable that represents an [ErrorBars](./Excel.ErrorBars(Graph property).md) object.
 
 
 ## Example

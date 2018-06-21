@@ -20,7 +20,7 @@ Opens a dynamic data exchange (DDE) channel to an application.
 
  _expression_. 'DDEInitiate'( ' _App_', ' _Topic_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

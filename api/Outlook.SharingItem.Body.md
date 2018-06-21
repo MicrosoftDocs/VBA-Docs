@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the clear-text body of the **[Sharing
 
  _expression_. 'Body'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

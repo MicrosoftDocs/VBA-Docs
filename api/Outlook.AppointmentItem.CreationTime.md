@@ -20,7 +20,7 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
  _expression_. 'CreationTime'
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

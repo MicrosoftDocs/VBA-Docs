@@ -20,7 +20,7 @@ Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be
 
  _expression_. 'Border'
 
- _expression_ A variable that represents a **CalloutFormat** object.
+ _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
 
 
 ## Remarks

@@ -15,7 +15,7 @@ Clears all colors on the specified chart that do not follow the color style appl
 
  _expression_. 'ClearToMatchColorStyle'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 
 ### Return value

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'AutoUpdate'
 
- _expression_ A variable that represents a **LinkFormat** object.
+ _expression_ A variable that represents a [LinkFormat](./Excel.LinkFormat.md) object.
 
 
 ## See also

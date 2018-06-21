@@ -20,7 +20,7 @@ Deletes the specified Extensible Stylesheet Language Transformation (XSLT) from 
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[XSLTransform](Word.XSLTransform.md)** object.
+ _expression_ Required. A variable that represents a '[XSLTransform](Word.XSLTransform.md)' object.
 
 
 ## See also

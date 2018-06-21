@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowValue'
 
- _expression_ A variable that represents a **[DataLabel](Word.DataLabel.md)** object.
+ _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
 
 ## Example

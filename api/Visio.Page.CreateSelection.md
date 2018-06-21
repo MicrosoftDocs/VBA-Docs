@@ -20,7 +20,7 @@ Creates various types of  **Selection** objects.
 
  _expression_. 'CreateSelection'( '_SelType_' , '_IterationMode_' , '_[Data]_' )
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Parameters

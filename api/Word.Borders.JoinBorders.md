@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'JoinBorders'
 
- _expression_ An expression that returns a **[Borders](Word.borders.md)** object.
+ _expression_ An expression that returns a '[Borders](Word.borders.md)' object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Occurs after a shape is linked to a data row.
 
 ## Syntax
 
-Private Sub  _expression_ _**ShapeLinkAdded**( **_ByVal Shape As [IVSHAPE]_** , **_ByVal DataRecordsetID As Long_** , **_ByVal DataRowID As Long_** )
+Private Sub  _expression_ _'ShapeLinkAdded'( **_ByVal Shape As [IVSHAPE]_** , **_ByVal DataRecordsetID As Long_** , **_ByVal DataRowID As Long_** )
 
- _expression_ An expression that returns a **InvisibleApp** object.
+ _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Parameters

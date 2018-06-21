@@ -20,7 +20,7 @@ Determines whether the mail message associated with an inspector is displayed in
 
  _expression_. 'IsWordMail'
 
- _expression_ A variable that represents an **Inspector** object.
+ _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ### Return Value

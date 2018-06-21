@@ -20,7 +20,7 @@ Returns the  **[LanguageSettings](http://msdn.microsoft.com/library/936f7d61-87e
 
  _expression_. 'LanguageSettings'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
  _expression_. 'PTCondition'
 
- _expression_ A variable that represents an **AboveAverage** object.
+ _expression_ A variable that represents an [AboveAverage](./Excel.AboveAverage.md) object.
 
 
 ## See also

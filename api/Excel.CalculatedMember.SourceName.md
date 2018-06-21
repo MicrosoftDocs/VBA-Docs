@@ -20,7 +20,7 @@ Returns a  **String** value that represents the specified object's name as it ap
 
  _expression_. 'SourceName'
 
- _expression_ A variable that represents a **CalculatedMember** object.
+ _expression_ A variable that represents a [CalculatedMember](./Excel.CalculatedMember.md) object.
 
 
 ## Remarks

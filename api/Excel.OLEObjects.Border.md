@@ -20,7 +20,7 @@ Returns a  **[Border](Excel.Border(objec).md)** object that represents the borde
 
  _expression_. 'Border'
 
- _expression_ A variable that represents an **OLEObjects** object.
+ _expression_ A variable that represents an [OLEObjects](./Excel.OLEObjects.md) object.
 
 
 ## See also

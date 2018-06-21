@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ExportFragment'( '_FileName_' , '_Format_' )
 
- _expression_ An expression that returns a **[Range](Word.Range.md)** object.
+ _expression_ An expression that returns a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

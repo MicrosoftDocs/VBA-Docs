@@ -20,7 +20,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
  _expression_. 'UserProperties'
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## See also

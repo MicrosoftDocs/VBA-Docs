@@ -20,7 +20,7 @@ Returns the gradient variant for the specified fill as an integer value from 1 t
 
  _expression_. 'GradientVariant'
 
- _expression_ A variable that represents a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object specifying the cell range t
 
  _expression_. 'AppliesTo'
 
- _expression_ A variable that represents a **Top10** object.
+ _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 
 
 ## See also

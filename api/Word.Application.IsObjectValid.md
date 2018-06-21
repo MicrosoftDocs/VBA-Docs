@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IsObjectValid'( '_Object_' )
 
- _expression_ Optional. A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ Optional. A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Remarks

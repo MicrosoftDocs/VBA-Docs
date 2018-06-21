@@ -20,7 +20,7 @@ Returns the  **[DisplayUnitLabel](Excel.DisplayUnitLabel(objec).md)** object for
 
  _expression_. 'DisplayUnitLabel'
 
- _expression_ A variable that represents an **Axis** object.
+ _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **[Lines](Word.Lines.md)** collection that represents the lines in a 
 
  _expression_. 'Lines'
 
- _expression_ An expression that returns a **[Rectangle](Word.Rectangle.md)** object.
+ _expression_ An expression that returns a '[Rectangle](Word.Rectangle.md)' object.
 
 
 ## Remarks

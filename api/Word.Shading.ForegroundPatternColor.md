@@ -20,7 +20,7 @@ Returns or sets the 24-bit color that's applied to the foreground of the  **Shad
 
  _expression_. 'ForegroundPatternColor'
 
- _expression_ Required. A variable that represents a **[Shading](Word.Shading.md)** object.
+ _expression_ Required. A variable that represents a '[Shading](Word.Shading.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the disk or Web path to the specified style sheet. Read-only  **String**
 
  _expression_. 'Path'
 
- _expression_ Required. A variable that represents a **[StyleSheet](Word.StyleSheet.md)** object.
+ _expression_ Required. A variable that represents a '[StyleSheet](Word.StyleSheet.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents whether left and right indents are t
 
  _expression_. 'MirrorIndents'
 
- _expression_ An expression that returns a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ An expression that returns a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## See also

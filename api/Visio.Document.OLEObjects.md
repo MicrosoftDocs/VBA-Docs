@@ -20,7 +20,7 @@ Returns the  **OLEObjects** collection of a document. Read-only.
 
  _expression_. 'OLEObjects'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

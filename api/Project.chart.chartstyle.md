@@ -13,7 +13,7 @@ Gets or sets the chart style for a chart. Read/write  **Variant**.
 
  _expression_. 'ChartStyle'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

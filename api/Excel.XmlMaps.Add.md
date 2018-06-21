@@ -20,7 +20,7 @@ Adds an XML map to the specified workbook.
 
  _expression_. 'Add'( '_Schema_' , '_RootElementName_' )
 
- _expression_ An expression that returns a **XmlMaps** object.
+ _expression_ An expression that returns a [XmlMaps](./Excel.XmlMaps.md) object.
 
 
 ### Parameters

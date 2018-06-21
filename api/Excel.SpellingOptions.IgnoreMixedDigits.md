@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IgnoreMixedDigits'
 
- _expression_ A variable that represents a **SpellingOptions** object.
+ _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
 
 
 ## Example

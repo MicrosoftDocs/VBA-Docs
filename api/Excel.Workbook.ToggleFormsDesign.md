@@ -20,7 +20,7 @@ The  **ToggleFormsDesign** method is used to toggle Excel into Design Mode when 
 
  _expression_. 'ToggleFormsDesign'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

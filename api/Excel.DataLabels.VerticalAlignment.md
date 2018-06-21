@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the vertical alignment of t
 
  _expression_. 'VerticalAlignment'
 
- _expression_ A variable that represents a **DataLabels** object.
+ _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
 
 
 ## Remarks

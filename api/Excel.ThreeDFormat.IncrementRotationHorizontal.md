@@ -17,7 +17,7 @@ Changes the rotation of the specified shape horizontally by the specified number
 
  _expression_. 'IncrementRotationHorizontal'( '_Increment_' )
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ### Parameters

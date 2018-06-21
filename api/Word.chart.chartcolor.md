@@ -18,7 +18,7 @@ Returns or sets an integer that represents the color scheme for the chart. Read-
 
  _expression_. 'ChartColor'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Word.Chart.md) object.
 
 
 ## Remarks

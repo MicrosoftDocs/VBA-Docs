@@ -20,7 +20,7 @@ The  **WorkbookRowsetComplete** event occurs when the user either drills through
 
  _expression_. 'WorkbookRowsetComplete'( '_Wb_' , '_Description_' , '_Sheet_' , '_Success_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

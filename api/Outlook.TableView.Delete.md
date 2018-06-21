@@ -20,7 +20,7 @@ Deletes an object from a collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## See also

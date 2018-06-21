@@ -20,7 +20,7 @@ Returns a  **String** that represents an internal identifying label for a source
 
  _expression_. 'Tag'
 
- _expression_ An expression that returns a **[Source](Word.Source.md)** object.
+ _expression_ An expression that returns a '[Source](Word.Source.md)' object.
 
 
 ## See also

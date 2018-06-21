@@ -17,7 +17,7 @@ Gets the identification number of a task. Read-only  **Long**.
 
  _expression_. 'ID'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 
 ## Remarks

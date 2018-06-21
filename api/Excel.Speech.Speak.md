@@ -20,7 +20,7 @@ Microsoft Excel plays back the text string that is passed as an argument.
 
  _expression_. 'Speak'( '_Text_' , '_SpeakAsync_' , '_SpeakXML_' , '_Purge_' )
 
- _expression_ A variable that represents a **Speech** object.
+ _expression_ A variable that represents a [Speech](./Excel.Speech.md) object.
 
 
 ### Parameters

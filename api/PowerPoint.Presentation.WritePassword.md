@@ -20,7 +20,7 @@ Sets or returns the password for saving changes to the specified document. Read/
 
  _expression_. 'WritePassword'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the display name for the **[
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## See also

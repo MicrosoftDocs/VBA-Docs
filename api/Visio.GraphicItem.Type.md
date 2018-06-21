@@ -23,7 +23,7 @@ Returns the type of the graphic item. Read-only.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **GraphicItem** object.
+ _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
 ### Return Value

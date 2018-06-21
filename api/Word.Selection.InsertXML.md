@@ -20,7 +20,7 @@ Inserts the specified XML into the document at the cursor, replacing any selecte
 
  _expression_. 'InsertXML'( '_XML_' , '_Transform_' )
 
- _expression_ An expression that returns a **Selection** object.
+ _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
 
 ### Parameters

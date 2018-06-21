@@ -20,7 +20,7 @@ Specifies how to sort text in the range specified in  **SortField** object. Read
 
  _expression_. 'DataOption'
 
- _expression_ A variable that represents a **SortField** object.
+ _expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
 
 
 ## Remarks

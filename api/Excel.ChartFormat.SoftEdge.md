@@ -20,7 +20,7 @@ Returns a  **[SoftEdgeFormat](http://msdn.microsoft.com/library/9d9b34e1-03b5-9e
 
  _expression_. 'SoftEdge'
 
- _expression_ A variable that represents a **ChartFormat** object.
+ _expression_ A variable that represents a [ChartFormat](./Excel.ChartFormat.md) object.
 
 
 ## See also

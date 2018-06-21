@@ -17,7 +17,7 @@ Gets or sets a string representation of the task start date. Read/write  **Strin
 
  _expression_. 'StartText'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Adds a link to the current document or selection to the Favorites folder for the
 
  _expression_. 'WebAddToFavorites'( ' _CurrentLink_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

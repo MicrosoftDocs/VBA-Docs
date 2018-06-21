@@ -20,7 +20,7 @@ Returns the 32-bit handle of a Microsoft Visio window. Read-only.
 
  _expression_. 'WindowHandle32'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

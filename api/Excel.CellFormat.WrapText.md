@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that indicates if Microsoft Excel wraps the
 
  _expression_. 'WrapText'
 
- _expression_ A variable that represents a **CellFormat** object.
+ _expression_ A variable that represents a [CellFormat](./Excel.CellFormat.md) object.
 
 
 ## Remarks

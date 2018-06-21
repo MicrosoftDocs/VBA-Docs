@@ -20,7 +20,7 @@ Specifies the sound that will be played whenever the specified shape is clicked 
 
  _expression_. 'ImportFromFile'( '_FullName_' )
 
- _expression_ A variable that represents an **SoundEffect** object.
+ _expression_ A variable that represents an [SoundEffect](./PowerPoint.SoundEffect.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to mark words that are re
 
  _expression_. 'RepeatWord'
 
- _expression_ An expression that returns an **Options** object.
+ _expression_ An expression that returns an [Options](./Word.Options.md) object.
 
 
 ## Remarks

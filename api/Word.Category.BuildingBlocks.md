@@ -20,7 +20,7 @@ Returns a  **[BuildingBlocks](Word.BuildingBlocks.md)** collection that represen
 
  _expression_. 'BuildingBlocks'
 
- _expression_ An expression that returns a **[Category](Word.Category.md)** object.
+ _expression_ An expression that returns a '[Category](Word.Category.md)' object.
 
 
 ## See also

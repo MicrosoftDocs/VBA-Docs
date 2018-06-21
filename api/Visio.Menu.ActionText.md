@@ -20,7 +20,7 @@ Gets or sets the action text for a menu. Read/write.
 
  _expression_. 'ActionText'
 
- _expression_ A variable that represents a **Menu** object.
+ _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
 
 ### Return Value

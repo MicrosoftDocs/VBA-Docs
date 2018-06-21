@@ -20,7 +20,7 @@ Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , 
 
  _expression_. 'Shape'
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Return Value

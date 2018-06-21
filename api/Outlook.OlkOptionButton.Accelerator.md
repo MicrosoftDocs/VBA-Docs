@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the accelerator or hot key f
 
  _expression_. 'Accelerator'
 
- _expression_ A variable that represents an **OlkOptionButton** object.
+ _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
 
 
 ## Remarks

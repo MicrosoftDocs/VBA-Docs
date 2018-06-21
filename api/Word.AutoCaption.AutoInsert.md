@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'AutoInsert'
 
- _expression_ A variable that represents an **[AutoCaption](Word.AutoCaption.md)** object.
+ _expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **Styles** object.
+ _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 
 
 ### Return Value

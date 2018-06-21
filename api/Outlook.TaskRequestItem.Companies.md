@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the names of the companies associated
 
  _expression_. 'Companies'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

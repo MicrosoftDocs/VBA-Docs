@@ -20,7 +20,7 @@ Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value t
 
  _expression_. 'PictureType'
 
- _expression_ A variable that represents a **LegendKey** object.
+ _expression_ A variable that represents a [LegendKey](./Excel.LegendKey(Graph property).md) object.
 
 
 ## See also

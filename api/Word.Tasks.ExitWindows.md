@@ -20,7 +20,7 @@ Closes all open applications, quits Microsoft Windows, and logs the current user
 
  _expression_. 'ExitWindows'
 
- _expression_ Required. A variable that represents a **[Tasks](Word.tasks.md)** collection.
+ _expression_ Required. A variable that represents a '[Tasks](Word.tasks.md)' collection.
 
 
 ## Remarks

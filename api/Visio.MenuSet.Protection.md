@@ -20,7 +20,7 @@ Determines how a  **MenuSet** object is protected from user customization. Read/
 
  _expression_. 'Protection'
 
- _expression_ A variable that represents a **MenuSet** object.
+ _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 
 
 ### Return Value

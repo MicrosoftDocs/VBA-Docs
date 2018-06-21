@@ -20,7 +20,7 @@ Groups the selected sparklines.
 
  _expression_. 'Group'( '_Location_' )
 
- _expression_ A variable that represents a **[SparklineGroups](Excel.SparklineGroups.md)** object.
+ _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ The  **Change** event occurs when the contents of the specified control change.
 
  _expression_. 'Change'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ### Return Value

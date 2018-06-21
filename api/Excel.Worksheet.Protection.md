@@ -20,7 +20,7 @@ Returns a  **[Protection](Excel.Protection.md)** object that represents the prot
 
  _expression_. 'Protection'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

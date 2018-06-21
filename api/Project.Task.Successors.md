@@ -20,7 +20,7 @@ Gets or sets a list of the identification numbers of a task's successors. Read/w
 
  _expression_. 'Successors'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Remarks

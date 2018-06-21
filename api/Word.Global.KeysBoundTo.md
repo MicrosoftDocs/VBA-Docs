@@ -20,7 +20,7 @@ Returns a  **KeysBoundTo** object that represents all the key combinations assig
 
  _expression_. 'KeysBoundTo'( '_KeyCategory_' , '_Command_' , '_CommandParameter_' )
 
- _expression_ A variable that represents a **[Global](Word.Global.md)** object. Optional.
+ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ### Parameters

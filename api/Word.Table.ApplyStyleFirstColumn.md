@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ApplyStyleFirstColumn'
 
- _expression_ An expression that returns a **[Table](Word.Table.md)** object.
+ _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 
 
 ## Remarks

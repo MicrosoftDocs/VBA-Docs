@@ -20,7 +20,7 @@ Returns a  **[Document](Word.Document.md)** object associated with the specified
 
  _expression_. 'Document'
 
- _expression_ A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## See also

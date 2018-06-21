@@ -20,7 +20,7 @@ Updates the table with the characteristics of a predefined table format.
 
  _expression_. 'UpdateAutoFormat'
 
- _expression_ Required. A variable that represents a **[Table](Word.Table.md)** object.
+ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks

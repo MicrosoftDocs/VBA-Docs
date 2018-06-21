@@ -20,7 +20,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **Layer** object.
+ _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
 
 ### Return Value

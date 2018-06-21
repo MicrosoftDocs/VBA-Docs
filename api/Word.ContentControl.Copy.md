@@ -20,7 +20,7 @@ Copies the content control from the active document to the Clipboard.
 
  _expression_. 'Copy'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

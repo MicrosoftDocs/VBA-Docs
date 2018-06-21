@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the subject of the task for 
 
  _expression_. 'TaskSubject'
 
- _expression_ An expression that returns a **MailItem** object.
+ _expression_ An expression that returns a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

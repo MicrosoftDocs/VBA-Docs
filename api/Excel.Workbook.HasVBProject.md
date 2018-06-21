@@ -20,7 +20,7 @@ Returns a  **Boolean** that represents whether a workbook has an attached Micros
 
  _expression_. 'HasVBProject'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Remarks

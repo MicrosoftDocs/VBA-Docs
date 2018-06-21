@@ -20,7 +20,7 @@ Returns a  **[DocumentWindows](PowerPoint.DocumentWindows.md)** collection that 
 
  _expression_. 'Windows'
 
- _expression_ A variable that represents a **Presentation** object.
+ _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

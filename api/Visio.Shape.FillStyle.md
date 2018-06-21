@@ -20,7 +20,7 @@ Returns or sets the fill style for a shape. Read/write.
 
  _expression_. 'FillStyle'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns the  **[FormDescription](Outlook.FormDescription.md)** object that repre
 
  _expression_. 'FormDescription'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## See also

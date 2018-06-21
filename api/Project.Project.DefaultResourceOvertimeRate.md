@@ -20,6 +20,6 @@ Gets or sets the default overtime rate of pay for resources. Read/write  **Varia
 
  _expression_. 'DefaultResourceOvertimeRate'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

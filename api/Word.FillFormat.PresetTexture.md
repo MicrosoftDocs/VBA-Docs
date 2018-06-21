@@ -20,7 +20,7 @@ Returns the preset texture for the specified fill. Read-only  **MsoPresetTexture
 
  _expression_. 'PresetTexture'
 
- _expression_ Required. An expression that returns a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ Required. An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks

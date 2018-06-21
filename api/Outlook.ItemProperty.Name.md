@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **ItemProperty** object.
+ _expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
 
 
 ## See also

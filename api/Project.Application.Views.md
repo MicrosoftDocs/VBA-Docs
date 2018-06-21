@@ -20,7 +20,7 @@ Displays the  **More Views** dialog box with the current view selected, which pr
 
  _expression_. 'Views'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

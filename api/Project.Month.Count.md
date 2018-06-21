@@ -17,7 +17,7 @@ Gets the number of days in the  **Month** object. Read-only **Integer**.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Month** object.
+ _expression_ A variable that represents a [Month](./Project.Month.md) object.
 
 
 ## Example

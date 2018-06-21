@@ -23,7 +23,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 
  _expression_. 'AddFromXML'( '_XMLString_' , '_AddOptions_' , '_Name_' )
 
- _expression_ An expression that returns a **DataRecordsets** object.
+ _expression_ An expression that returns a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
 
 ### Parameters

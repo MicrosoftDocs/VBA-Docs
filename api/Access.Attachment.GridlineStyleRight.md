@@ -20,7 +20,7 @@ Gets or sets the right gridline style of the specified attachment. Read/write  *
 
  _expression_. 'GridlineStyleRight'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

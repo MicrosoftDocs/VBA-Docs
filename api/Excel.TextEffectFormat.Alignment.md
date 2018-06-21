@@ -20,7 +20,7 @@ Returns or sets an  **[MsoTextEffectAlignment](http://msdn.microsoft.com/library
 
  _expression_. 'Alignment'
 
- _expression_ A variable that represents a **TextEffectFormat** object.
+ _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
 
 
 ## Example

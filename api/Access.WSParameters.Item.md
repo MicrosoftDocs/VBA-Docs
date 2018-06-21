@@ -20,7 +20,7 @@ The  **Item** property returns a specific member of a collection either by posit
 
  _expression_. 'Item'( ' _Index_' )
 
- _expression_ A variable that represents a **WSParameters** object.
+ _expression_ A variable that represents a [WSParameters](./Access.WSParameters.md) object.
 
 
 ### Parameters

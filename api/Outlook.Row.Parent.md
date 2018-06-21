@@ -20,7 +20,7 @@ Returns the parent object of the  **[Row](Outlook.Row.md)** object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Row** object.
+ _expression_ A variable that represents a [Row](./Outlook.Row.md) object.
 
 
 ## See also

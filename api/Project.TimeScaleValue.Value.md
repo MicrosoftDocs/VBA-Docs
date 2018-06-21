@@ -17,7 +17,7 @@ Gets or sets the value of a timephased data item. Work values are in minutes. Re
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **TimeScaleValue** object.
+ _expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
 
 
 ## Remarks

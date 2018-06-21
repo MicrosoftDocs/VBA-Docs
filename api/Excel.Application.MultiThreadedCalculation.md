@@ -20,7 +20,7 @@ Returns a  **MultiThreadedCalculation** object that controls the multi-threaded 
 
  _expression_. 'MultiThreadedCalculation'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## See also

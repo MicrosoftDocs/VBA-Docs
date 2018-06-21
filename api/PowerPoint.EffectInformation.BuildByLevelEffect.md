@@ -20,7 +20,7 @@ Determines the level of the animation build effect. Read-only.
 
  _expression_. 'BuildByLevelEffect'
 
- _expression_ A variable that represents a **EffectInformation** object.
+ _expression_ A variable that represents a [EffectInformation](./PowerPoint.EffectInformation.md) object.
 
 
 ### Return Value

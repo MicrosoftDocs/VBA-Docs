@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the source data file for an ODBC connec
 
  _expression_. 'SourceDataFile'
 
- _expression_ A variable that represents an **ODBCConnection** object.
+ _expression_ A variable that represents an [ODBCConnection](./Excel.ODBCConnection.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether Word optimizes character 
 
  _expression_. 'PrecisePositioning'
 
- _expression_ An expression that returns a **[Options](Word.Options.md)** object.
+ _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 
 
 ## See also

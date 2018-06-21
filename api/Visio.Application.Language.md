@@ -20,7 +20,7 @@ Represents the language ID of the version of the Microsoft Visio instance repres
 
  _expression_. 'Language'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

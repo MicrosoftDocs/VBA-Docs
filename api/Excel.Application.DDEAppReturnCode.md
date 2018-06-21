@@ -20,7 +20,7 @@ Returns the application-specific DDE return code that was contained in the last 
 
  _expression_. 'DDEAppReturnCode'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Example

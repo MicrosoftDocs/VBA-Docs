@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'SingleList'
 
- _expression_ An expression that returns a **[ListFormat](Word.ListFormat.md)** object.
+ _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 
 
 ## Example

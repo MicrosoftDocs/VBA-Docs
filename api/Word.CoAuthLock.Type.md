@@ -20,7 +20,7 @@ Returns a [WdLockType](Word.WdLockType.md) constant that specifies the lock type
 
  _expression_. 'Type'
 
- _expression_ An expression that returns a **[CoAuthLock](Word.CoAuthLock.md)** object.
+ _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 
 
 ## Example

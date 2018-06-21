@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Refl
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **ReflectionFormat** object.
+ _expression_ An expression that returns a [ReflectionFormat](./Word.ReflectionFormat.md) object.
 
 
 ## See also

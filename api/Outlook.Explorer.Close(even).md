@@ -20,7 +20,7 @@ Occurs when an explorer is being closed.
 
  _expression_. 'Close'( '_Cancel_' )
 
- _expression_ A variable that represents an **Explorer** object.
+ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## Remarks

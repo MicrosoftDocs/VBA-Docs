@@ -20,7 +20,7 @@ Returns or sets a  **WdCellColor** constant that represents the color for a dele
 
  _expression_. 'DeletedCellColor'
 
- _expression_ An expression that returns a **[Options](Word.Options.md)** object.
+ _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Selects a collection of rows in a table.
 
  _expression_. 'Select'
 
- _expression_ Required. A variable that represents a **[Rows](Word.rows.md)** collection.
+ _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## Remarks

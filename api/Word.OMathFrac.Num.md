@@ -20,7 +20,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the numerator for 
 
  _expression_. 'Num'
 
- _expression_ An expression that returns an **[OMathFrac](Word.OMathFrac.md)** object.
+ _expression_ An expression that returns an '[OMathFrac](Word.OMathFrac.md)' object.
 
 
 ## See also

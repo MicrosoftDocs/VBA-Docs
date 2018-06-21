@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. 'Select'( '_Replace_' )
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ### Parameters

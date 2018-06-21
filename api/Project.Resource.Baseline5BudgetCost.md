@@ -17,6 +17,6 @@ Gets or sets the baseline5 budget cost for a  **Resource**. Read/write **Variant
 
  _expression_. 'Baseline5BudgetCost'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

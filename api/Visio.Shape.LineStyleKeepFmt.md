@@ -20,7 +20,7 @@ Applies a line style to an object while preserving local formatting. Read/write.
 
  _expression_. 'LineStyleKeepFmt'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

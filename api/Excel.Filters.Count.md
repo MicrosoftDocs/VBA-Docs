@@ -20,7 +20,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Filters** object.
+ _expression_ A variable that represents a [Filters](./Excel.Filters.md) object.
 
 
 ## See also

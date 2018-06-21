@@ -20,7 +20,7 @@ Sorts the range based on the currently applied sort states.
 
  _expression_. 'Apply'
 
- _expression_ A variable that represents a **Sort** object.
+ _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
 
 
 ## See also

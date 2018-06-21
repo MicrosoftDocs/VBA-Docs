@@ -20,7 +20,7 @@ Returns the parent object of the specified  **[CustomerData](PowerPoint.Customer
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **CustomerData** object.
+ _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 
 
 ### Return Value

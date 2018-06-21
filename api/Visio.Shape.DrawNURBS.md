@@ -20,7 +20,7 @@ Creates a new shape whose path consists of a single NURBS (nonuniform rational B
 
  _expression_. 'DrawNURBS'( '_degree_' , '_Flags_' , '_xyArray()_' , '_knots()_' , '_weights_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

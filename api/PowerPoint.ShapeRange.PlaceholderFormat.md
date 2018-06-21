@@ -20,7 +20,7 @@ Returns a  **[PlaceholderFormat](PowerPoint.PlaceholderFormat.md)** object that 
 
  _expression_. 'PlaceholderFormat'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

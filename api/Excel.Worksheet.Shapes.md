@@ -20,7 +20,7 @@ Returns a  **[Shapes](Excel.Shapes.md)** collection that represents all the shap
 
  _expression_. 'Shapes'
 
- _expression_ An expression that returns a **Worksheet** object.
+ _expression_ An expression that returns a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

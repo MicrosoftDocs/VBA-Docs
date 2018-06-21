@@ -20,7 +20,7 @@ Returns or sets the degree of transparency of the specified fill, shadow, or lin
 
  _expression_. 'Transparency'
 
- _expression_ A variable that represents a **LineFormat** object.
+ _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
 ### Return Value

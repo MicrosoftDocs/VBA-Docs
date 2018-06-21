@@ -20,7 +20,7 @@ Returns or sets the caption text for the window that is displayed in the title b
 
  _expression_. 'Caption'
 
- _expression_ A variable that represents a **[Window](Word.Window.md)** object.
+ _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 
 
 ## Remarks

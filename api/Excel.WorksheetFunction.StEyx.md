@@ -20,7 +20,7 @@ Returns the standard error of the predicted y-value for each x in the regression
 
  _expression_. 'StEyx'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

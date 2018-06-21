@@ -20,7 +20,7 @@ Displays the  **Select Names** dialog box.
 
  _expression_. 'Display'
 
- _expression_ A variable that represents a **SelectNamesDialog** object.
+ _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
 
 
 ### Return Value

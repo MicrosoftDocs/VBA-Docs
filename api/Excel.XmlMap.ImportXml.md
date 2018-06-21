@@ -20,7 +20,7 @@ Imports XML data from a  **String** variable into cells that have been mapped to
 
  _expression_. 'ImportXml'( '_XmlData_' , '_Overwrite_' )
 
- _expression_ A variable that represents a **XmlMap** object.
+ _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
 ### Parameters

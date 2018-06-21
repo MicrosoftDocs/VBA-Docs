@@ -17,6 +17,6 @@ Gets or sets the GUID of the task deliverable. Read/write  **String**.
 
  _expression_. 'DeliverableGuid'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

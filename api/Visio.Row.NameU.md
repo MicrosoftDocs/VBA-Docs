@@ -20,7 +20,7 @@ Specifies the universal name of a  **Row** object. Read/write.
 
  _expression_. 'NameU'
 
- _expression_ A variable that represents a **Row** object.
+ _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
 
 ### Return Value

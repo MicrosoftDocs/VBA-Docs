@@ -20,7 +20,7 @@ Returns or sets a  **Single** value that represents the distance, in points, fro
 
  _expression_. 'Left'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## See also

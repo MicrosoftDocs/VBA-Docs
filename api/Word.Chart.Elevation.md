@@ -20,7 +20,7 @@ Returns or sets the elevation, in degrees, of the 3-D chart view. Read/write  **
 
  _expression_. 'Elevation'
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ## Remarks

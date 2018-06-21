@@ -20,7 +20,7 @@ Returns an  **XMLNode** object that represents the parent element of the specifi
 
  _expression_. 'ParentNode'
 
- _expression_ An expression that returns an **[XMLNode](Word.XMLNode.md)** object.
+ _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Example

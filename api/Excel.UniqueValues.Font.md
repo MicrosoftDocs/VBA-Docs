@@ -20,7 +20,7 @@ Returns a  **[Font](Excel.Font(objec).md)** object that specifies the font forma
 
  _expression_. 'Font'
 
- _expression_ A variable that represents a **UniqueValues** object.
+ _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
 
 
 ## Remarks

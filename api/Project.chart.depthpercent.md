@@ -13,7 +13,7 @@ Gets or sets the depth of a 3-D chart as a percentage of the chart width (betwee
 
  _expression_. 'DepthPercent'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Creates a new object with a specified ID in a collection.
 
  _expression_. 'AddAtID'( '_lID_' )
 
- _expression_ A variable that represents a **ToolbarSets** object.
+ _expression_ A variable that represents a [ToolbarSets](./Visio.ToolbarSets.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Key Press** box in the **Properties** win
 
  _expression_. 'OnKeyPress'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

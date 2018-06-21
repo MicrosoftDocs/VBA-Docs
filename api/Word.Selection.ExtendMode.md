@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ExtendMode'
 
- _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
+ _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
 
 
 ## Remarks

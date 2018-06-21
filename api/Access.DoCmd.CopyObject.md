@@ -20,7 +20,7 @@ The  **CopyObject** method carries out the CopyObject action in Visual Basic.
 
  _expression_. 'CopyObject'( ' _DestinationDatabase_', ' _NewName_', ' _SourceObjectType_', ' _SourceObjectName_' )
 
- _expression_ A variable that represents a **DoCmd** object.
+ _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 
 
 ### Parameters

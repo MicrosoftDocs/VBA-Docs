@@ -20,7 +20,7 @@ You can use the  **DSum** function to calculate the sum of a set of values in a 
 
  _expression_. 'DSum'( ' _Expr_', ' _Domain_', ' _Criteria_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

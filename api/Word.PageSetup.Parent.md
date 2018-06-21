@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Page
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
+ _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 
 
 ## See also

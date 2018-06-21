@@ -20,7 +20,7 @@ Creates one or more new  **Shape** objects on a page, in a master, or in a group
 
  _expression_. 'DropManyU'( '_ObjectsToInstance()_' , '_xyArray()_' , '_IDArray()_' )
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the home fax number for the contact. 
 
  _expression_. 'HomeFaxNumber'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

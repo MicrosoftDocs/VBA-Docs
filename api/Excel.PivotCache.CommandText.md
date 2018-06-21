@@ -20,7 +20,7 @@ Returns or sets the command string for the specified data source. Read/write  **
 
  _expression_. 'CommandText'
 
- _expression_ An expression that returns a **PivotCache** object.
+ _expression_ An expression that returns a [PivotCache](./Excel.PivotCache.md) object.
 
 
 ## Remarks

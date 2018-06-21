@@ -20,7 +20,7 @@ Removes the content control from the active document and moves the content contr
 
  _expression_. 'Cut'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

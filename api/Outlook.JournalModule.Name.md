@@ -20,7 +20,7 @@ Returns a  **String** value that represents the localized display name for the *
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **JournalModule** object.
+ _expression_ A variable that represents a [JournalModule](./Outlook.JournalModule.md) object.
 
 
 ## See also

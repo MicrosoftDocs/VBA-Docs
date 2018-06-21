@@ -17,7 +17,7 @@ Gets a  **[TaskGroups](Project.taskgroups(object).md)** collection representing 
 
  _expression_. 'TaskGroups'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

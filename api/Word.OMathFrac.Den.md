@@ -20,7 +20,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the denominator fo
 
  _expression_. 'Den'
 
- _expression_ An expression that returns an **[OMathFrac](Word.OMathFrac.md)** object.
+ _expression_ An expression that returns an '[OMathFrac](Word.OMathFrac.md)' object.
 
 
 ## See also

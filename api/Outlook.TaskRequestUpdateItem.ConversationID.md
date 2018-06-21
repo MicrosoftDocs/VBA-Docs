@@ -20,7 +20,7 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
  _expression_. 'ConversationID'
 
- _expression_ A variable that represents a **TaskRequestUpdateItem** object.
+ _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## Remarks

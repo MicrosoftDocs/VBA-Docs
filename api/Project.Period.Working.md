@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Working'
 
- _expression_ A variable that represents a **Period** object.
+ _expression_ A variable that represents a [Period](./Project.Period.md) object.
 
 
 ## Remarks

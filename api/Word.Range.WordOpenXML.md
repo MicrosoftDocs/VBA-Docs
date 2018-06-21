@@ -20,7 +20,7 @@ Returns a  **String** that represents the XML contained within the range in the 
 
  _expression_. 'WordOpenXML'
 
- _expression_ An expression that returns a **Range** object.
+ _expression_ An expression that returns a [Range](./Word.Range.md) object.
 
 
 ## Remarks

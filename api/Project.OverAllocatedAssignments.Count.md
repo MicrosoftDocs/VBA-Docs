@@ -17,7 +17,7 @@ Gets the number of  **Assignment** objects in the **OverAllocatedAssignments** c
 
  _expression_. 'Count'
 
- _expression_ An expression that returns a **OverAllocatedAssignments** object.
+ _expression_ An expression that returns a 'OverAllocatedAssignments' object.
 
 
 ## Remarks

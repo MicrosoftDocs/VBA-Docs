@@ -20,7 +20,7 @@ Gets or sets a numeric expression that specifies the value of the shortest bar o
 
  _expression_. 'ShortestBarValue'
 
- _expression_ A variable that represents a **FormatCondition** object.
+ _expression_ A variable that represents a [FormatCondition](./Access.FormatCondition.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Gets the parent of the  **Application** object. Read-only **Application**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

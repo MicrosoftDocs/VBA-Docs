@@ -20,7 +20,7 @@ You can use the  **AllViews** property to reference the **[AllViews](Access.AllV
 
  _expression_. 'AllViews'
 
- _expression_ A variable that represents a **CurrentData** object.
+ _expression_ A variable that represents a [CurrentData](./Access.CurrentData.md) object.
 
 
 ## See also

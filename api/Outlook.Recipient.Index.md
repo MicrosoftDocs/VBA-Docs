@@ -20,7 +20,7 @@ Returns a  **Long** indicating the position of the object within the collection.
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **Recipient** object.
+ _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
 
 
 ## Remarks

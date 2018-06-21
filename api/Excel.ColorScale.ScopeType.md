@@ -20,7 +20,7 @@ Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlP
 
  _expression_. 'ScopeType'
 
- _expression_ A variable that represents a **ColorScale** object.
+ _expression_ A variable that represents a [ColorScale](./Excel.ColorScale.md) object.
 
 
 ## Remarks

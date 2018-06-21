@@ -20,7 +20,7 @@ Returns or sets the right indent (in points) for the specified paragraphs. Read/
 
  _expression_. 'RightIndent'
 
- _expression_ Required. A variable that represents an **[HTMLDivision](Word.HTMLDivision.md)** object.
+ _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 
 
 ## Example

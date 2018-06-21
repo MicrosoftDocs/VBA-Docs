@@ -20,7 +20,7 @@ Returns a constant,  **olConditionImportance** , from the **[OlRuleConditionType
 
  _expression_. 'ConditionType'
 
- _expression_ A variable that represents an **ImportanceRuleCondition** object.
+ _expression_ A variable that represents an [ImportanceRuleCondition](./Outlook.ImportanceRuleCondition.md) object.
 
 
 ## Remarks

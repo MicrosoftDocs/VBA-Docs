@@ -20,7 +20,7 @@ The  **ProcOfLine** property returns the name of the procedure that contains a s
 
  _expression_. 'ProcOfLine'( ' _Line_', ' _pprockind_' )
 
- _expression_ A variable that represents a **Module** object.
+ _expression_ A variable that represents a [Module](./Access.Module.md) object.
 
 
 ### Parameters

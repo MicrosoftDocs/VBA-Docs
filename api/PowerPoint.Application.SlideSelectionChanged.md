@@ -20,7 +20,7 @@ Occurs at different times depending on the current view.
 
  _expression_. 'SlideSelectionChanged'( '_SldRange_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

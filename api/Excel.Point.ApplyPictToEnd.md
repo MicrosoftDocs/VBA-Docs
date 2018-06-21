@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ApplyPictToEnd'
 
- _expression_ A variable that represents a **Point** object.
+ _expression_ A variable that represents a [Point](./Excel.Point(Graph object).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns the distance, in points, from the left edge of the media control boundin
 
  _expression_. 'MediaControlsLeft'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
 ### Return Value

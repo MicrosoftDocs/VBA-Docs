@@ -28,7 +28,7 @@ You can use the  **FontBold** property to specify whether a font appears in a bo
 
  _expression_. 'FontBold'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

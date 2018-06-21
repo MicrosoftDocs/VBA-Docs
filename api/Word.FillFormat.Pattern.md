@@ -20,7 +20,7 @@ Returns or sets a  **MsoPatternType** constant that represents the pattern appli
 
  _expression_. 'Pattern'
 
- _expression_ An expression that returns a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Example

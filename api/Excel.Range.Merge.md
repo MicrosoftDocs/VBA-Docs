@@ -20,7 +20,7 @@ Creates a merged cell from the specified  **[Range](Excel.Range(objec).md)** obj
 
  _expression_. 'Merge'( '_Across_' )
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

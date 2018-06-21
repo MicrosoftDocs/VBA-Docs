@@ -20,7 +20,7 @@ Returns or sets the width of the arrowhead at the beginning of the specified lin
 
  _expression_. 'BeginArrowheadWidth'
 
- _expression_ A variable that represents a **LineFormat** object.
+ _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a  **[PageSetup](Word.PageSetup.md)** object that's associated with the 
 
  _expression_. 'PageSetup'
 
- _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
+ _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ## Example

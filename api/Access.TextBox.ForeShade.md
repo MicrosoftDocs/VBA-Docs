@@ -20,7 +20,7 @@ Gets or sets the shade that is applied to the theme color in the  **ForeColor** 
 
  _expression_. 'ForeShade'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

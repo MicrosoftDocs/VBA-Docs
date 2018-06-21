@@ -20,7 +20,7 @@ Returns the data source for the PivotTable report, as shown in the following tab
 
  _expression_. 'SourceData'
 
- _expression_ A variable that represents a **PivotCache** object.
+ _expression_ A variable that represents a [PivotCache](./Excel.PivotCache.md) object.
 
 
 ## Remarks

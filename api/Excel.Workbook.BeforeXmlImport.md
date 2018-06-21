@@ -20,7 +20,7 @@ Occurs before an existing XML data connection is refreshed or before new XML dat
 
  _expression_. 'BeforeXmlImport'( '_Map_' , '_Url_' , '_IsRefresh_' , '_Cancel_' )
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates whether the **[PostItem](Outlook.Pos
 
  _expression_. 'IsMarkedAsTask'
 
- _expression_ An expression that returns a **PostItem** object.
+ _expression_ An expression that returns a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## See also

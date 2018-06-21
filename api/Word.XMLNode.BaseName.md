@@ -20,7 +20,7 @@ Returns a  **String** that represents the name of the element without any prefix
 
  _expression_. 'BaseName'
 
- _expression_ Required. A variable that represents a **[XMLNode](Word.XMLNode.md)** object.
+ _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 
 
 ## Example

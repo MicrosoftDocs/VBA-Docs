@@ -20,7 +20,7 @@ Removes an object from the collection.
 
  _expression_. 'Remove' '_Index_'
 
- _expression_ A variable that represents a **Pages** object.
+ _expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the relative top position of a sha
 
  _expression_. 'TopRelative'
 
- _expression_ An expression that returns a **[Shape](Word.Shape.md)** object.
+ _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks

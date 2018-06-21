@@ -20,7 +20,7 @@ Returns or sets an  **[AcPrintObjQuality](Access.AcPrintObjQuality.md)** constan
 
  _expression_. 'PrintQuality'
 
- _expression_ A variable that represents a **Printer** object.
+ _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 
 
 ## Example

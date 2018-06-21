@@ -13,7 +13,7 @@ Gets a  **TextFrame** object that contains the alignment and anchoring propertie
 
  _expression_. 'TextFrame'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

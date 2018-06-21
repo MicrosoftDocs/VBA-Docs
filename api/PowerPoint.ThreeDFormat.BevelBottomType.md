@@ -20,7 +20,7 @@ Returns or set the bottom bevel type. Read/write.
 
  _expression_. 'BevelBottomType'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ### Return Value

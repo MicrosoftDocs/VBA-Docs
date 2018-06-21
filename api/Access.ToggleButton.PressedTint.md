@@ -20,7 +20,7 @@ Gets or sets the tint applied to the theme color in the  **PressedColor** proper
 
  _expression_. 'PressedTint'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

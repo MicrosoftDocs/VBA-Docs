@@ -17,7 +17,7 @@ Gets a  **[LookupTable](Project.lookuptable.md)** collection of lookup table ent
 
  _expression_. 'LookupTable'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 
 ## Remarks

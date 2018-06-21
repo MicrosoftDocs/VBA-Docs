@@ -20,7 +20,7 @@ Returns a  **Date** specifying the date and time that the Outlook item was last 
 
  _expression_. 'LastModificationTime'
 
- _expression_ A variable that represents a **PostItem** object.
+ _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## Remarks

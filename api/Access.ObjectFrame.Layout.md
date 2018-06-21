@@ -20,7 +20,7 @@ Returns the type of layout for the specified object frame. Read-only  **[AcLayou
 
  _expression_. 'Layout'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## See also

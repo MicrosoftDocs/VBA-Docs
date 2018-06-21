@@ -20,7 +20,7 @@ Returns the cell from which this cell inherited its formula. Read-only.
 
  _expression_. 'InheritedFormulaSource'
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Return Value

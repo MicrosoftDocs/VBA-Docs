@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'CanLevel'
 
- _expression_ An expression that returns a **Resource** object.
+ _expression_ An expression that returns a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

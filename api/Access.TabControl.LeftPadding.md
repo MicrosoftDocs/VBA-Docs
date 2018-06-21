@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the text box and its left g
 
  _expression_. 'LeftPadding'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## See also

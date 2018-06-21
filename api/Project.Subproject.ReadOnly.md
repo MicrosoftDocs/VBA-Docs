@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ReadOnly'
 
- _expression_ A variable that represents a **Subproject** object.
+ _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 
 
 ## Example

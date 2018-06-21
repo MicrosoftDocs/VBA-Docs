@@ -17,6 +17,6 @@ Activates the pane. If the pane isn't in the active window, the window to which 
 
  _expression_. 'Activate'
 
- _expression_ A variable that represents a **Pane** object.
+ _expression_ A variable that represents a [Pane](./Project.Pane.md) object.
 
 

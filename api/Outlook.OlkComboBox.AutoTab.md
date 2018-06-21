@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that specifies if a tab is inserted automatically
 
  _expression_. 'AutoTab'
 
- _expression_ A variable that represents an **OlkComboBox** object.
+ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

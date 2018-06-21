@@ -20,7 +20,7 @@ Occurs when the contact picture has changed.
 
  _expression_. 'Change'
 
- _expression_ A variable that represents an **OlkContactPhoto** object.
+ _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Gets or sets the right gridline style of the specified list box. Read/write  **B
 
  _expression_. 'GridlineStyleRight'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

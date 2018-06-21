@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates whether the current row is positioned afte
 
  _expression_. 'EndOfTable'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
 ## Remarks

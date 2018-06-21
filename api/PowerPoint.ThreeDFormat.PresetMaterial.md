@@ -20,7 +20,7 @@ Returns or sets the extrusion surface material. Read/write.
 
  _expression_. 'PresetMaterial'
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ### Return Value

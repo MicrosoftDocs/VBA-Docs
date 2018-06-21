@@ -20,7 +20,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
  _expression_. 'Application'
 
- _expression_ An expression that returns an **[AddIns](Word.addins.md)** collection.
+ _expression_ An expression that returns an '[AddIns](Word.addins.md)' collection.
 
 
 ## See also

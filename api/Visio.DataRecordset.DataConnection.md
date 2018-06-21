@@ -23,7 +23,7 @@ Returns the  **[DataConnection](Visio.DataConnection.md)** object associated wit
 
  _expression_. 'DataConnection'
 
- _expression_ An expression that returns a **DataRecordset** object.
+ _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
 ### Return Value

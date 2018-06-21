@@ -17,7 +17,7 @@ Occurs before an attachment is added to an instance of the parent object.
 
  _expression_. 'BeforeAttachmentAdd'( '_Attachment_' , '_Cancel_' )
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ### Parameters

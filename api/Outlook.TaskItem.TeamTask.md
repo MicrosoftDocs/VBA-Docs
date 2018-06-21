@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates **True** if the task is a team task. Read/
 
  _expression_. 'TeamTask'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

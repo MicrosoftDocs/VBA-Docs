@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of dialog boxes in the collection
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Dialogs](Word.dialogs.md)** collection.
+ _expression_ Required. A variable that represents a '[Dialogs](Word.dialogs.md)' collection.
 
 
 ## See also

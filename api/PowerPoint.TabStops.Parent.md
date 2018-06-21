@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **TabStops** object.
+ _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 
 
 ### Return Value

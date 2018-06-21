@@ -20,7 +20,7 @@ You can use the  **TimerInterval** property to specify the interval, in millisec
 
  _expression_. 'TimerInterval'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

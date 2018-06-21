@@ -20,7 +20,7 @@ Returns the specified  **Zoom** object.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[Zooms](Word.zooms.md)** collection.
+ _expression_ Required. A variable that represents a '[Zooms](Word.zooms.md)' collection.
 
 
 ### Parameters

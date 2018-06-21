@@ -20,7 +20,7 @@ Estimates the standard deviation across a population sample in a specified set o
 
  _expression_. 'DStDev'( ' _Expr_', ' _Domain_', ' _Criteria_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

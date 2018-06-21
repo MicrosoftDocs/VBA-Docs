@@ -20,7 +20,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
  _expression_. 'GridlineThemeColorIndex'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## Remarks

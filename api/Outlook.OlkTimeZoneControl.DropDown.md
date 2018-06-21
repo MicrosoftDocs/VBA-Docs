@@ -20,7 +20,7 @@ Expands the drop-down portion of the time zone control.
 
  _expression_. 'DropDown'
 
- _expression_ A variable that represents an **OlkTimeZoneControl** object.
+ _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Remarks

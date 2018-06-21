@@ -17,7 +17,7 @@ Gets the name of a  **Year** object. Read-only **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Year** object.
+ _expression_ A variable that represents a [Year](./Project.Year.md) object.
 
 
 ## Remarks

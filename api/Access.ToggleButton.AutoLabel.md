@@ -20,7 +20,7 @@ Specifies whether labels are automatically created and attached to new controls.
 
  _expression_. 'AutoLabel'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## See also

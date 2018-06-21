@@ -20,7 +20,7 @@ Returns or sets an  **[OlCategoryColor](Outlook.OlCategoryColor.md)** constant a
 
  _expression_. 'ExtendedColor'
 
- _expression_ A variable that represents a **[ViewFont](Outlook.ViewFont.md)** object.
+ _expression_ A variable that represents a '[ViewFont](Outlook.ViewFont.md)' object.
 
 
 ## Remarks

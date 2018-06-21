@@ -20,7 +20,7 @@ Returns a value that indicates how dark or light a one-color gradient fill is. R
 
  _expression_. 'GradientDegree'
 
- _expression_ A variable that represents a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks

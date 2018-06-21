@@ -20,7 +20,7 @@ Moves the specified shape range horizontally by the specified number of points.
 
  _expression_. 'IncrementLeft'( '_Increment_' )
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Parameters

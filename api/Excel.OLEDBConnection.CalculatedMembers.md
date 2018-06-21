@@ -20,7 +20,7 @@ Returns the  **[CalculatedMembers](Excel.CalculatedMembers.md)** collection for 
 
  _expression_. 'CalculatedMembers'
 
- _expression_ A variable that represents an **[OLEDBConnection](Excel.OLEDBConnection.md)** object.
+ _expression_ A variable that represents an '[OLEDBConnection](Excel.OLEDBConnection.md)' object.
 
 
 ### Return Value

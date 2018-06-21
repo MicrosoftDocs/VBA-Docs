@@ -20,7 +20,7 @@ This property is used to specify whether the specified member property PivotFiel
 
  _expression_. 'DisplayInReport'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## See also

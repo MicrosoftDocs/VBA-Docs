@@ -20,7 +20,7 @@ Sets the specified fill to a two-color gradient.
 
  _expression_. 'TwoColorGradient'( '_Style_', '_Variant_' )
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ### Parameters

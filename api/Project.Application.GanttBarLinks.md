@@ -20,7 +20,7 @@ Shows or hides task links on the Gantt Chart.
 
  _expression_. 'GanttBarLinks'( ' _Display_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

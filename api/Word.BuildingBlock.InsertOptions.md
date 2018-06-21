@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents how to insert the contents of a buil
 
  _expression_. 'InsertOptions'
 
- _expression_ An expression that returns a **[BuildingBlock](Word.BuildingBlock.md)** object.
+ _expression_ An expression that returns a '[BuildingBlock](Word.BuildingBlock.md)' object.
 
 
 ## Remarks

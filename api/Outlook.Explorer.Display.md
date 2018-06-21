@@ -20,7 +20,7 @@ Displays a new  **[Explorer](Outlook.Explorer.md)** object for the folder.
 
  _expression_. 'Display'()
 
- _expression_ A variable that represents an **Explorer** object.
+ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## Remarks

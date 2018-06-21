@@ -20,7 +20,7 @@ Returns or sets the graphical page-border design for a document. Read/write  **W
 
  _expression_. 'ArtStyle'
 
- _expression_ Required. A variable that represents a **[Border](Word.Border.md)** object.
+ _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Example

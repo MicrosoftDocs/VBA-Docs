@@ -20,7 +20,7 @@ Returns or sets the name of the custom slide show to be published as a Web prese
 
  _expression_. 'SlideShowName'
 
- _expression_ A variable that represents a **PublishObject** object.
+ _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 
 
 ### Return Value

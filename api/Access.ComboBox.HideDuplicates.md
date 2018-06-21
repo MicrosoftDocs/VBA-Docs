@@ -20,7 +20,7 @@ You can use the  **HideDuplicates** property to hide a control on a report when 
 
  _expression_. 'HideDuplicates'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

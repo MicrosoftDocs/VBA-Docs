@@ -17,6 +17,6 @@ ms.date: 06/08/2017
 
  _expression_. 'Duration1'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Series** object.
+ _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
 
 
 ### Return Value

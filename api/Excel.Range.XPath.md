@@ -20,7 +20,7 @@ Returns an  **[XPath](Excel.XPath.md)** object that represents the Xpath of the 
 
  _expression_. 'XPath'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Remarks

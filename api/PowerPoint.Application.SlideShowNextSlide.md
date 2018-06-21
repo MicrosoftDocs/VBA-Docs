@@ -20,7 +20,7 @@ Occurs immediately before the transition to the next slide. For the first slide,
 
  _expression_. 'SlideShowNextSlide'( '_Wn_' )
 
- _expression_ An expression that returns a **Application** object.
+ _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

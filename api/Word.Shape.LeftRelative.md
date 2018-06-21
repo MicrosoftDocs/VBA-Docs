@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the relative left position of a sh
 
  _expression_. 'LeftRelative'
 
- _expression_ An expression that returns a **[Shape](Word.Shape.md)** object.
+ _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
 
 
 ## Remarks

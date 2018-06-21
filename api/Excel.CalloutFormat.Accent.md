@@ -20,7 +20,7 @@ Allows the user to place a vertical accent bar to separate the callout text from
 
  _expression_. 'Accent'
 
- _expression_ A variable that represents a **CalloutFormat** object.
+ _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
 
 
 ## Remarks

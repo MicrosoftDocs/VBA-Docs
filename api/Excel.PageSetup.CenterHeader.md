@@ -20,7 +20,7 @@ Center aligns the header information in the  **PageSetup** object. Read/write **
 
  _expression_. 'CenterHeader'
 
- _expression_ A variable that represents a **PageSetup** object.
+ _expression_ A variable that represents a [PageSetup](./Excel.PageSetup.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns an array of  **Long** values that represent the collection of identifier
 
  _expression_. 'CalloutsAssociated'
 
- _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
+ _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
 ### Return Value

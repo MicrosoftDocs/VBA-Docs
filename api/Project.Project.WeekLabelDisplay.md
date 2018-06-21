@@ -20,7 +20,7 @@ Gets or sets the abbreviation for "week" that is displayed for values such as du
 
  _expression_. 'WeekLabelDisplay'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

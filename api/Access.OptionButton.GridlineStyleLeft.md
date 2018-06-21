@@ -20,7 +20,7 @@ Gets or sets the width of the bottom gridline for the specified option button. R
 
  _expression_. 'GridlineStyleLeft'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## Remarks

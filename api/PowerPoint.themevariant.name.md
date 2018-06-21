@@ -15,7 +15,7 @@ Returns the name of the theme variation. Read-only.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **ThemeVariant** object.
+ _expression_ A variable that represents a 'ThemeVariant' object.
 
 
 ## Example

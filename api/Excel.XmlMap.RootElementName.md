@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'RootElementName'
 
- _expression_ A variable that represents a **XmlMap** object.
+ _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
 ## See also

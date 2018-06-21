@@ -20,7 +20,7 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 
  _expression_. 'Class'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
 ## See also

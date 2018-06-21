@@ -20,7 +20,7 @@ Shows or hides item hierarchy in task views or resource views where a group is a
 
  _expression_. 'GroupMaintainHierarchy'( ' _On_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

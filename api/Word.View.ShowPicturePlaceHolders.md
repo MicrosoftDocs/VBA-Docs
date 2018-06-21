@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowPicturePlaceHolders'
 
- _expression_ An expression that returns a **[View](Word.View.md)** object.
+ _expression_ An expression that returns a '[View](Word.View.md)' object.
 
 
 ## Example

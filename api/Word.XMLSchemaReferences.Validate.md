@@ -20,7 +20,7 @@ Validates all the XML schemas that are attached to a document.
 
  _expression_. 'Validate'
 
- _expression_ An expression that returns an **[XMLSchemaReferences](Word.XMLSchemaReferences.md)** object.
+ _expression_ An expression that returns an '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' object.
 
 
 ### Return Value

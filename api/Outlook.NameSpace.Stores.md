@@ -20,7 +20,7 @@ Returns a  **[Stores](Outlook.Stores.md)** collection object that represents all
 
  _expression_. 'Stores'
 
- _expression_ A variable that represents a **NameSpace** object.
+ _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ## See also

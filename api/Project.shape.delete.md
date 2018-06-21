@@ -13,7 +13,7 @@ Deletes the shape.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ### Return value

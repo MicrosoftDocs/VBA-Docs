@@ -20,7 +20,7 @@ You can use the  **GridY** property (along with the **GridX** property) to speci
 
  _expression_. 'GridY'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

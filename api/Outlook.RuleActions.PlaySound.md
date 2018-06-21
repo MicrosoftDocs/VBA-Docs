@@ -20,7 +20,7 @@ Returns a  **[PlaySoundRuleAction](Outlook.PlaySoundRuleAction.md)** object with
 
  _expression_. 'PlaySound'
 
- _expression_ A variable that represents a **RuleActions** object.
+ _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 
 
 ## Remarks

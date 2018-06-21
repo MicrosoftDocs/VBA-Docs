@@ -20,7 +20,7 @@ Returns a  **Frameset** object that represents the parent of the specified **Fra
 
  _expression_. 'ParentFrameset'
 
- _expression_ An expression that returns a **[Frameset](Word.Frameset.md)** object.
+ _expression_ An expression that returns a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Remarks

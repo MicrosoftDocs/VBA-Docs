@@ -20,7 +20,7 @@ Moves a shape or selected shapes back one position in the z-order.
 
  _expression_. 'SendBackward'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

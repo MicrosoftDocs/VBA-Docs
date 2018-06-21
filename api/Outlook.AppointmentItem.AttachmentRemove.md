@@ -17,7 +17,7 @@ Occurs when an attachment has been removed from an instance of the parent object
 
  _expression_. 'AttachmentRemove'( '_Attachment_' )
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ### Parameters

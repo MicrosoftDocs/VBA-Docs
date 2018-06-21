@@ -20,7 +20,7 @@ Sets or returns a  **Long** that represents the height of pages in a document wh
 
  _expression_. 'ReadingLayoutSizeY'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

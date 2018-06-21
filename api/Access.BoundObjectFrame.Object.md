@@ -20,7 +20,7 @@ You can use the  **Object** property in Visual Basic to return a reference to th
 
  _expression_. 'Object'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

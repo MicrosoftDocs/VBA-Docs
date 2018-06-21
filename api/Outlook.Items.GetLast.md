@@ -20,7 +20,7 @@ Returns the last object in the collection.
 
  _expression_. 'GetLast'
 
- _expression_ A variable that represents an **Items** object.
+ _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Gets or sets the width, in points, of the object. Read/write  **Double**.
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **[DataLabel](Word.DataLabel.md)** object.
+ _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
 
 ## See also

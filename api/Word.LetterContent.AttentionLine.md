@@ -20,7 +20,7 @@ Returns or sets the attention line text for a letter created by the Letter Wizar
 
  _expression_. 'AttentionLine'
 
- _expression_ A variable that represents a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

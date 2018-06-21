@@ -17,7 +17,7 @@ Occurs when an attachment has been added to an instance of the parent object.
 
  _expression_. 'AttachmentAdd'( '_Attachment_' )
 
- _expression_ A variable that represents a **TaskRequestUpdateItem** object.
+ _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 
 
 ### Parameters

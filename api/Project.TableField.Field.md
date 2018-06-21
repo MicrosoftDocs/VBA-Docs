@@ -20,7 +20,7 @@ Gets or sets the type of a table field. Read/write  **PjField**.
 
  _expression_. 'Field'
 
- _expression_ A variable that represents a **TableField** object.
+ _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 
 
 ## Remarks

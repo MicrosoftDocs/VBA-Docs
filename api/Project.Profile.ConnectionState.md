@@ -20,7 +20,7 @@ Gets the connection state of Project Professional, which allows you to determine
 
  _expression_. 'ConnectionState'
 
- _expression_ A variable that represents a **Profile** object.
+ _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 
 
 ## Remarks

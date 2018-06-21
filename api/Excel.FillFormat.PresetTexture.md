@@ -20,7 +20,7 @@ Returns the preset texture for the specified fill. Read-only  **[MsoPresetTextur
 
  _expression_. 'PresetTexture'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 
 
 ## Remarks

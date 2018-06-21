@@ -20,7 +20,7 @@ Returns or sets an  **[OlCalendarViewMode](Outlook.OlCalendarViewMode.md)** that
 
  _expression_. 'CalendarViewMode'
 
- _expression_ A variable that represents a **CalendarView** object.
+ _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Applies a set of list-formatting characteristics to the specified  **ListFormat*
 
  _expression_. 'ApplyListTemplate'( '_ListTemplate_' , '_ContinuePreviousList_' , '_ApplyTo_' , '_DefaultListBehavior_' )
 
- _expression_ Required. A variable that represents a **[List](Word.List.md)** object.
+ _expression_ Required. A variable that represents a '[List](Word.List.md)' object.
 
 
 ### Parameters

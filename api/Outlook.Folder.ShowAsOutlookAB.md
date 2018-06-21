@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** variable that specifies whether the contact items
 
  _expression_. 'ShowAsOutlookAB'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Remarks

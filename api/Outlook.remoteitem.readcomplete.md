@@ -18,7 +18,7 @@ Version Added: Outlook 2013
 
  _expression_. 'ReadComplete'_(Cancel)_
 
- _expression_ A variable that represents a **RemoteItem** object.
+ _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ### Parameters

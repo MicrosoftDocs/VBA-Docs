@@ -15,7 +15,7 @@ Returns  **visObjTypeReplaceShapesEvent**, the type of the specified  **ReplaceS
 
  _expression_. 'ObjectType'
 
- _expression_ A variable that represents a **ReplaceShapesEvent** object.
+ _expression_ A variable that represents a 'ReplaceShapesEvent' object.
 
 
 ## Remarks

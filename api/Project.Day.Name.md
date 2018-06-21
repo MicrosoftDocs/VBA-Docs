@@ -17,7 +17,7 @@ Gets the name of a  **Day** object. Read-only **String**.
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **Day** object.
+ _expression_ A variable that represents a [Day](./Project.Day.md) object.
 
 
 ## Remarks

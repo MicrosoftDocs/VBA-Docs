@@ -17,6 +17,6 @@ ms.date: 06/08/2017
 
  _expression_. 'FontUnderLine'
 
- _expression_ A variable that represents a **GroupCriterion** object.
+ _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 
 

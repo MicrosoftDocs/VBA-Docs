@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. 'Select'( '_Replace_' )
 
- _expression_ A variable that represents an **OLEObject** object.
+ _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
 
 
 ### Parameters

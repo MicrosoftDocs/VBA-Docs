@@ -20,7 +20,7 @@ Ungroups any grouped shapes in the specified shape or range of shapes. Disassemb
 
  _expression_. 'Ungroup'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

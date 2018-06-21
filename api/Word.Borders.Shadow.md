@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Shadow'
 
- _expression_ Required. A variable that represents a **[Borders](Word.borders.md)** collection.
+ _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## Example

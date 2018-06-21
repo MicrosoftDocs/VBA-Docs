@@ -17,6 +17,6 @@ Gets a  **[ResourceGroups2](Project.resourcegroups2(object).md)** collection tha
 
  _expression_. 'ResourceGroups2'
 
- _expression_ An expression that returns a **Project** object.
+ _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 

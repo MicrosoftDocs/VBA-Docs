@@ -28,7 +28,7 @@ Read/write  **String**.
 
  _expression_. 'FontName'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

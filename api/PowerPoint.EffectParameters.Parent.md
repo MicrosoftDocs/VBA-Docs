@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **EffectParameters** object.
+ _expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
 
 
 ### Return Value

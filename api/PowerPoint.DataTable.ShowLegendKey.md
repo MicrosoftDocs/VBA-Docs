@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowLegendKey'
 
- _expression_ A variable that represents a **[DataTable](PowerPoint.DataTable.md)** object.
+ _expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)' object.
 
 
 ## See also

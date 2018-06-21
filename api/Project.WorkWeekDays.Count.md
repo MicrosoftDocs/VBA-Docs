@@ -17,7 +17,7 @@ Gets the number of items in the  **WorkWeekDays** collection. Read-only **Intege
 
  _expression_. 'Count'
 
- _expression_ An expression that returns a **WorkWeekDays** object.
+ _expression_ An expression that returns a 'WorkWeekDays' object.
 
 
 ## Example

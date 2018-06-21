@@ -20,7 +20,7 @@ The  **Repaint** method completes any pending screen updates for a specified for
 
  _expression_. 'Repaint'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ### Return Value

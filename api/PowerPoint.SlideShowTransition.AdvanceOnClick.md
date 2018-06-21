@@ -20,7 +20,7 @@ Determines whether the specified slide advances when it is clicked during a slid
 
  _expression_. 'AdvanceOnClick'
 
- _expression_ A variable that represents an **SlideShowTransition** object.
+ _expression_ A variable that represents an [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
 
 ### Return Value

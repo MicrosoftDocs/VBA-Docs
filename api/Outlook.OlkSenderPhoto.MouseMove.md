@@ -20,7 +20,7 @@ Occurs after a mouse movement has been registered over the control.
 
  _expression_. 'MouseMove'( '_Button_' , '_Shift_' , '_X_' , '_Y_' )
 
- _expression_ A variable that represents an **OlkSenderPhoto** object.
+ _expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
 
 
 ### Parameters

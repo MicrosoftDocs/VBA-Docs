@@ -17,6 +17,6 @@ Gets the actual cost of work performed for the assignment. Read-only  **Variant*
 
  _expression_. 'ACWP'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

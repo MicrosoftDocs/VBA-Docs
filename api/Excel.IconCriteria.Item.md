@@ -20,7 +20,7 @@ Returns a single  **[IconCriterion](Excel.IconCriterion.md)** object from the **
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents an **IconCriteria** object.
+ _expression_ A variable that represents an [IconCriteria](./Excel.IconCriteria.md) object.
 
 
 ### Parameters

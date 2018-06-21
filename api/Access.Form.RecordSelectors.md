@@ -20,7 +20,7 @@ You can use the  **RecordSelectors** property to specify whether a form displays
 
  _expression_. 'RecordSelectors'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

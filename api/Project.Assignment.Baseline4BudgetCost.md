@@ -17,6 +17,6 @@ Gets or sets the baseline4 budget cost for an  **Assignment**. Read/write **Vari
 
  _expression_. 'Baseline4BudgetCost'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

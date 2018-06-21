@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IgnoreSpace'
 
- _expression_ An expression that returns a **Find** object.
+ _expression_ An expression that returns a [Find](./Word.Find.md) object.
 
 
 ## Remarks

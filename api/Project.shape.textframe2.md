@@ -13,7 +13,7 @@ Gets a  **TextFrame2** object that contains the text in a text frame and the mem
 
  _expression_. 'TextFrame2'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Remarks

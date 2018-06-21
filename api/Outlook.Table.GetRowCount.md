@@ -20,7 +20,7 @@ Obtains the number of rows in the  **[Table](Outlook.Table.md)** .
 
  _expression_. 'GetRowCount'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
 ### Return Value

@@ -20,6 +20,6 @@ Gets or sets the name of the profile for Project Server. Read/write  **String**.
 
  _expression_. 'Server'
 
- _expression_ A variable that represents a **Profile** object.
+ _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 
 

@@ -20,7 +20,7 @@ Determines whether page breaks are shown in a window. Read/write.
 
  _expression_. 'ShowPageBreaks'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

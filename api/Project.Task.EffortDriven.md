@@ -20,6 +20,6 @@ ms.date: 06/08/2017
 
  _expression_. 'EffortDriven'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

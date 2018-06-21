@@ -20,7 +20,7 @@ Returns or sets a  **Date** that represents the inclusive start date of the rang
 
  _expression_. 'StartDate'
 
- _expression_ An expression that returns a **CalendarSharing** object.
+ _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
 ### Return Value

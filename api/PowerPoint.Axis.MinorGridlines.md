@@ -20,7 +20,7 @@ Returns the minor gridlines for the specified axis. Read-only  **[Gridlines](Pow
 
  _expression_. 'MinorGridlines'
 
- _expression_ A variable that represents an **[Axis](PowerPoint.Axis.md)** object.
+ _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks

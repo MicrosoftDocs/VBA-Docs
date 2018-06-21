@@ -17,7 +17,7 @@ Gets the parent of the  **WorkWeek** object. Read-only **Calendar**.
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **WorkWeek** object.
+ _expression_ An expression that returns a [WorkWeek](./Project.WorkWeek.md) object.
 
 
 ## Remarks

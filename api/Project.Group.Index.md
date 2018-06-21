@@ -17,7 +17,7 @@ Gets the index of a  **Group** object in the containing collection object. Read-
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **Group** object.
+ _expression_ A variable that represents a [Group](./Project.Group.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Bord
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **[Border](Word.Border.md)** object.
+ _expression_ A variable that represents an '[Border](Word.Border.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Changes how task bars are arranged on the Calendar.
 
  _expression_. 'CalendarLayout'( ' _SortOrder_', ' _AutoLayout_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **String** representing the display list of blind carbon copy (BCC) n
 
  _expression_. 'BCC'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

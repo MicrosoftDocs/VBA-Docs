@@ -20,7 +20,7 @@ Returns or sets one of the constants of the  **[XlColorIndex](Excel.XlColorIndex
 
  _expression_. 'ColorIndex'
 
- _expression_ A variable that represents a **FormatColor** object.
+ _expression_ A variable that represents a [FormatColor](./Excel.FormatColor.md) object.
 
 
 ## Remarks

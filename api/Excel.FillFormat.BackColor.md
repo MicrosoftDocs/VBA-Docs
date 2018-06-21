@@ -20,7 +20,7 @@ Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represent
 
  _expression_. 'BackColor'
 
- _expression_ A variable that represents a **FillFormat** object.
+ _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 
 
 ## See also

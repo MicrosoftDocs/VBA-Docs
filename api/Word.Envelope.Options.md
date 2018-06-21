@@ -20,7 +20,7 @@ Displays the  **Envelope Options** dialog box.
 
  _expression_. 'Options'
 
- _expression_ Required. A variable that represents an **[Envelope](Word.Envelope.md)** object.
+ _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Remarks

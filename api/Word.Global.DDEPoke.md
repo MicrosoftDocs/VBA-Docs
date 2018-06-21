@@ -20,7 +20,7 @@ Uses an open dynamic data exchange (DDE) channel to send data to an application.
 
  _expression_. 'DDEPoke'( '_Channel_' , '_Item_' , '_Data_' )
 
- _expression_ A variable that represents a **[Global](Word.Global.md)** object. Optional.
+ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates whether the placeholder text for the conte
 
  _expression_. 'ShowingPlaceholderText'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Example

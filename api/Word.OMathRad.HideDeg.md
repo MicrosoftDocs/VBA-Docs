@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to hide the degree for a 
 
  _expression_. 'HideDeg'
 
- _expression_ An expression that returns an **[OMathRad](Word.OMathRad.md)** object.
+ _expression_ An expression that returns an '[OMathRad](Word.OMathRad.md)' object.
 
 
 ## See also

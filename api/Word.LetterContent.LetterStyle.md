@@ -20,7 +20,7 @@ Returns or sets the layout of a letter created by the Letter Wizard. Read/write 
 
  _expression_. 'LetterStyle'
 
- _expression_ Required. A variable that represents a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

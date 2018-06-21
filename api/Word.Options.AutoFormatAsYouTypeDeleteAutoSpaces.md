@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'AutoFormatAsYouTypeDeleteAutoSpaces'
 
- _expression_ Required. A variable that represents an **[Options](Word.Options.md)** collection.
+ _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Example

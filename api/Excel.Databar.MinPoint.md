@@ -20,7 +20,7 @@ Returns a  **[ConditionValue](Excel.ConditionValue.md)** object that specifies h
 
  _expression_. 'MinPoint'
 
- _expression_ A variable that represents a **Databar** object.
+ _expression_ A variable that represents a [Databar](./Excel.Databar.md) object.
 
 
 ## Remarks

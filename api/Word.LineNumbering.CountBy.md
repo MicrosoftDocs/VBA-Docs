@@ -20,7 +20,7 @@ Returns or sets the numeric increment for line numbers. Read/write  **Long** .
 
  _expression_. 'CountBy'
 
- _expression_ A variable that represents a **[LineNumbering](Word.LineNumbering.md)** object.
+ _expression_ A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
 
 
 ## Remarks

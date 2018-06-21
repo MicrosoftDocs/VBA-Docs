@@ -20,7 +20,7 @@ Returns a  **[Reminder](Outlook.Reminder.md)** object from the collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **Reminders** object.
+ _expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
 
 
 ### Parameters

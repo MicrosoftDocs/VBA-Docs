@@ -20,7 +20,7 @@ Returns a  **String** representing the display name of the **[Store](Outlook.Sto
 
  _expression_. 'DisplayName'
 
- _expression_ A variable that represents a **Store** object.
+ _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
 ## Remarks

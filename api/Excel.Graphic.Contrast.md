@@ -20,7 +20,7 @@ Returns or sets the contrast for the specified picture or OLE object. The value 
 
  _expression_. 'Contrast'
 
- _expression_ An expression that returns a **Graphic** object.
+ _expression_ An expression that returns a [Graphic](./Excel.Graphic.md) object.
 
 
 ## Example

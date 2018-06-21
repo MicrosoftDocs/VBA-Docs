@@ -20,7 +20,7 @@ Determines if and under what circumstances Microsoft PowerPoint returns to the i
 
  _expression_. 'ShowAndReturn'
 
- _expression_ A variable that represents an **ActionSetting** object.
+ _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
 ### Return Value

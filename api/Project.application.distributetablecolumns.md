@@ -16,7 +16,7 @@ Distributes the columns of a selected table in a report, so that all columns are
 
  _expression_. 'DistributeTableColumns'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return value

@@ -20,7 +20,7 @@ When the Timeline view is selected, displays the  **Task Information** dialog bo
 
  _expression_. 'TimelineInsertTask'( ' _Type_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

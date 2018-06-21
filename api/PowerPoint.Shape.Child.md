@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Child'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Return Value

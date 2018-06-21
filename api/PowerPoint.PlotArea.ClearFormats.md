@@ -17,7 +17,7 @@ Clears the formatting of the object.
 
  _expression_. 'ClearFormats'
 
- _expression_ A variable that represents a **[PlotArea](PowerPoint.PlotArea.md)** object.
+ _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 
 
 ## See also

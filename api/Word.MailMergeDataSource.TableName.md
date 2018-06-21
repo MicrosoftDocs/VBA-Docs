@@ -20,7 +20,7 @@ Returns a  **String** with the SQL query used to retrieve the records from the d
 
  _expression_. 'TableName'
 
- _expression_ A variable that represents a **[MailMergeDataSource](Word.MailMergeDataSource.md)** object.
+ _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Remarks

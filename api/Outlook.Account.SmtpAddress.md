@@ -20,7 +20,7 @@ Returns a  **String** representing the Simple Mail Transfer Protocol (SMTP) addr
 
  _expression_. 'SmtpAddress'
 
- _expression_ A variable that represents an **Account** object.
+ _expression_ A variable that represents an [Account](./Outlook.Account.md) object.
 
 
 ## Remarks

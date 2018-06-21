@@ -24,7 +24,7 @@ For more information about the new function, see the [Floor_Precise](Excel.Works
 
  _expression_. 'Floor'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

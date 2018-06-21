@@ -20,7 +20,7 @@ Returns an  **[AttachmentSelection](Outlook.AttachmentSelection.md)** object con
 
  _expression_. 'AttachmentSelection'
 
- _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
+ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## See also

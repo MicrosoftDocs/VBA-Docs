@@ -20,7 +20,7 @@ Returns or sets the group for the specified chart. Read/write
 
  _expression_. 'AxisGroup'
 
- _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(objec).md)** object.
+ _expression_ A variable that represents a '[ChartGroup](Excel.ChartGroup(objec).md)' object.
 
 
 ### Return Value

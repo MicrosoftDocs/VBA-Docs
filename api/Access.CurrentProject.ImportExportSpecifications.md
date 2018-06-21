@@ -20,7 +20,7 @@ Returns a  **[ImportExportSpecifications](Access.ImportExportSpecifications.md)*
 
  _expression_. 'ImportExportSpecifications'
 
- _expression_ A variable that represents a **CurrentProject** object.
+ _expression_ A variable that represents a [CurrentProject](./Access.CurrentProject.md) object.
 
 
 ## See also

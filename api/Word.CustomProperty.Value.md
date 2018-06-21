@@ -20,7 +20,7 @@ Returns or sets the value of a custom property. Read/write  **String** .
 
  _expression_. 'Value'
 
- _expression_ Required. A variable that represents a **[CustomProperty](Word.CustomProperty.md)** object.
+ _expression_ Required. A variable that represents a '[CustomProperty](Word.CustomProperty.md)' object.
 
 
 ## See also

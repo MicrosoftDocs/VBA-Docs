@@ -20,7 +20,7 @@ Returns or sets the length of the arrowhead at the end of the specified line. Re
 
  _expression_. 'EndArrowheadLength'
 
- _expression_ A variable that represents a **LineFormat** object.
+ _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
 
 
 ## Remarks

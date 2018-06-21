@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 
  _expression_. 'AutoSize'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

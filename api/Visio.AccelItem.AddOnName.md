@@ -20,7 +20,7 @@ Gets or sets the name of an add-on or procedure that is run when its associated 
 
  _expression_. 'AddOnName'
 
- _expression_ A variable that represents an **AccelItem** object.
+ _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 
 
 ### Return Value

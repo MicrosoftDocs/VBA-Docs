@@ -20,7 +20,7 @@ Returns an  **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** object th
 
  _expression_. 'EmailSignatureEntries'
 
- _expression_ An expression that returns an **[EmailSignature](Word.EmailSignature.md)** object.
+ _expression_ An expression that returns an '[EmailSignature](Word.EmailSignature.md)' object.
 
 
 ## Remarks

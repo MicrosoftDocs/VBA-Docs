@@ -20,7 +20,7 @@ Removes the specified  **[TempVar](Access.TempVar.md)** object from the **[TempV
 
  _expression_. 'Remove'( ' _var_' )
 
- _expression_ A variable that represents a **TempVars** object.
+ _expression_ A variable that represents a [TempVars](./Access.TempVars.md) object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Removes the specified  **[TempVar](Access.TempVar.md)** object from the **[TempV
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _var_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the  _expression_ argument. If a numeric expression, the argument must be a number from 0 to the value of the collection's **Count** property minus 1. If a string expression, the argument must be the name of a member of the collection.|
+| _var_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the  _expression_ argument. If a numeric expression, the argument must be a number from 0 to the value of the collection's 'Count' property minus 1. If a string expression, the argument must be the name of a member of the collection.|
 
 ## See also
 

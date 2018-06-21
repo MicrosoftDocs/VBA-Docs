@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the spacing between columns in a mat
 
  _expression_. 'ColGap'
 
- _expression_ An expression that returns an **[OMathMat](Word.OMathMat.md)** object.
+ _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 
 
 ## See also

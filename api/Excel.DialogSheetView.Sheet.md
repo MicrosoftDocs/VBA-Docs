@@ -20,7 +20,7 @@ Returns the sheet name for the specified  **[DialogSheetView](Excel.DialogSheetV
 
  _expression_. 'Sheet'
 
- _expression_ A variable that represents a **DialogSheetView** object.
+ _expression_ A variable that represents a [DialogSheetView](./Excel.DialogSheetView.md) object.
 
 
 ## See also

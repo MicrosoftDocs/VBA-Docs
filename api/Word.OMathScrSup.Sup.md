@@ -20,7 +20,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the superscript fo
 
  _expression_. 'Sup'
 
- _expression_ An expression that returns an **[OMathScrSup](Word.OMathScrSup.md)** object.
+ _expression_ An expression that returns an '[OMathScrSup](Word.OMathScrSup.md)' object.
 
 
 ## See also

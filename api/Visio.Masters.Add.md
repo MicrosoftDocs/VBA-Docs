@@ -20,7 +20,7 @@ Adds a new object to a collection.
 
  _expression_. 'Add'
 
- _expression_ A variable that represents a **Masters** object.
+ _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
 ### Return Value

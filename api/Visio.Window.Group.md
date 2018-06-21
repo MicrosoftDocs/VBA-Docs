@@ -22,7 +22,7 @@ Version Added: Visio 2.0
 
  _expression_. 'Group'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ## Remarks

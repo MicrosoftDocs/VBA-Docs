@@ -20,7 +20,7 @@ Sets the camera presets for a shape.
 
  _expression_. 'SetPresetCamera'( '_PresetCamera_' )
 
- _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ### Parameters

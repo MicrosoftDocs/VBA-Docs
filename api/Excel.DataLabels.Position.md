@@ -20,7 +20,7 @@ Returns or sets a  **[XlDataLabelPosition](Excel.XlDataLabelPosition.md)** value
 
  _expression_. 'Position'
 
- _expression_ A variable that represents a **DataLabels** object.
+ _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
 
 
 ## See also

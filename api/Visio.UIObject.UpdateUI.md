@@ -20,7 +20,7 @@ Causes Microsoft Visio to display changes to the user interface represented by a
 
  _expression_. 'UpdateUI'
 
- _expression_ A variable that represents a **UIObject** object.
+ _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
 
 ### Return Value

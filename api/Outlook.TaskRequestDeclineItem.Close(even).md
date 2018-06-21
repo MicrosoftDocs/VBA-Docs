@@ -17,7 +17,7 @@ Occurs when the inspector associated with an item (which is an instance of the p
 
  _expression_. 'Close'( '_Cancel_' )
 
- _expression_ A variable that represents a **TaskRequestDeclineItem** object.
+ _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
 
 
 ### Parameters

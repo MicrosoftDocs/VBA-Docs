@@ -20,7 +20,7 @@ Returns or sets an  **[OlRecurrenceType](Outlook.OlRecurrenceType.md)** constant
 
  _expression_. 'RecurrenceType'
 
- _expression_ A variable that represents a **RecurrencePattern** object.
+ _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

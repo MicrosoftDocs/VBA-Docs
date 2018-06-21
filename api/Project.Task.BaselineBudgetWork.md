@@ -17,6 +17,6 @@ Gets or sets the baseline budget work hours for all non-cost resources assigned 
 
  _expression_. 'BaselineBudgetWork'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

@@ -20,7 +20,7 @@ Sets or returns a  **Variant** that represents the starting value of an object's
 
  _expression_. 'From'
 
- _expression_ A variable that represents a **PropertyEffect** object.
+ _expression_ A variable that represents a [PropertyEffect](./PowerPoint.PropertyEffect.md) object.
 
 
 ## Remarks

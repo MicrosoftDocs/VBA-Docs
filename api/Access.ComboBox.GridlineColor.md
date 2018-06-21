@@ -20,7 +20,7 @@ Gets or sets the color of the gridline for the specified combo box. Read/write  
 
  _expression_. 'GridlineColor'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

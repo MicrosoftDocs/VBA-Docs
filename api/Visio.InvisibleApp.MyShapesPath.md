@@ -20,7 +20,7 @@ Gets or sets where Microsoft Visio looks for the  **My Shapes** folder on the us
 
  _expression_. 'MyShapesPath'
 
- _expression_ An expression that returns an **InvisibleApp** object.
+ _expression_ An expression that returns an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

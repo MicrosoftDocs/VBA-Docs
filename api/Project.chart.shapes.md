@@ -13,7 +13,7 @@ Gets a  **[Shapes](http://msdn.microsoft.com/library/ff8b735a-d0a3-debf-97f1-649
 
  _expression_. 'Shapes'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Property value

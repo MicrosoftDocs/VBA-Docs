@@ -20,7 +20,7 @@ You can use the  **PrtDevMode** property to set or return printing device mode i
 
  _expression_. 'PrtDevMode'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

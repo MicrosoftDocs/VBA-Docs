@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether the columns in the *
 
  _expression_. 'AutomaticColumnSizing'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Remarks

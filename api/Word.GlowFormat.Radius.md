@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the length of the radius for a glo
 
  _expression_. 'Radius'
 
- _expression_ An expression that returns a **[GlowFormat](Word.GlowFormat.md)** object.
+ _expression_ An expression that returns a '[GlowFormat](Word.GlowFormat.md)' object.
 
 
 ## See also

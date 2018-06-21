@@ -20,7 +20,7 @@ Closes and optionally saves changes to the Outlook item.
 
  _expression_. 'Close'( '_SaveMode_' )
 
- _expression_ A variable that represents a **TaskRequestUpdateItem** object.
+ _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 
 
 ### Parameters

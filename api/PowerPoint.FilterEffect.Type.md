@@ -20,7 +20,7 @@ Represents the type of animation. Read/write.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **FilterEffect** object.
+ _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
 
 ### Return Value

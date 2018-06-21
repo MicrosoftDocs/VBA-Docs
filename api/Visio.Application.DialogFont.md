@@ -20,7 +20,7 @@ Returns information about the fonts that Microsoft Visio uses in its dialog boxe
 
  _expression_. 'DialogFont'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Return Value

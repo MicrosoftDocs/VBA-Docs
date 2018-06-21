@@ -20,7 +20,7 @@ Creates a new sparkline group and returns a  **[SparklineGroup](Excel.SparklineG
 
  _expression_. 'Add'( '_Type_' , '_SourceData_' )
 
- _expression_ A variable that represents a **SparklineGroups** object.
+ _expression_ A variable that represents a [SparklineGroups](./Excel.SparklineGroups.md) object.
 
 
 ### Parameters

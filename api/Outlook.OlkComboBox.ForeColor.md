@@ -20,7 +20,7 @@ Returns or sets a  **Long** that indicates the foreground color of the control. 
 
  _expression_. 'ForeColor'
 
- _expression_ A variable that represents an **OlkComboBox** object.
+ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

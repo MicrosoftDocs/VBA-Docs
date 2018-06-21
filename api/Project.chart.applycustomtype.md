@@ -13,7 +13,7 @@ Applies a custom chart type to a chart.
 
  _expression_. 'ApplyCustomType' _(ChartType,_ _TypeName)_
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ### Parameters

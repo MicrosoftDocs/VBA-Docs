@@ -20,7 +20,7 @@ Occurs when the project opens, but before the  **Activate** event.
 
  _expression_. 'Open'( ' _pj_', )
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ### Parameters

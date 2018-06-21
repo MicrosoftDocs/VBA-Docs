@@ -17,7 +17,7 @@ Gets a  **[Resources](Project.Resource.md)** collection that contains the resour
 
  _expression_. 'Resources'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Example

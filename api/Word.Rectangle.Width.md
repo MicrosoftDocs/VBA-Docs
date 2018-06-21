@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the width, in points, of a rectangle
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **[Rectangle](Word.Rectangle.md)** object.
+ _expression_ A variable that represents a '[Rectangle](Word.Rectangle.md)' object.
 
 
 ## See also

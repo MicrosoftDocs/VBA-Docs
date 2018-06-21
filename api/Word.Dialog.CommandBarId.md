@@ -20,7 +20,7 @@ Returns a  **Long** that represents the toolbar control id for a built-in Micros
 
  _expression_. 'CommandBarId'
 
- _expression_ An expression that returns a **[Dialog](Word.Dialog.md)** object.
+ _expression_ An expression that returns a '[Dialog](Word.Dialog.md)' object.
 
 
 ## See also

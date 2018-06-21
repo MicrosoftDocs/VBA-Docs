@@ -21,7 +21,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IMEMode'
 
- _expression_ A variable that represents a **TextBox** object.
+ _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 
 
 ## Remarks

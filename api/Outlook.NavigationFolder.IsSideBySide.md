@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether the **[NavigationFol
 
  _expression_. 'IsSideBySide'
 
- _expression_ A variable that represents a **NavigationFolder** object.
+ _expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the mode for checking the spelling of European Portuguese. Read/
 
  _expression_. 'PortugalReform'
 
- _expression_ A variable that represents a **[SpellingOptions](Excel.SpellingOptions.md)** object.
+ _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 
 
 ### Return Value

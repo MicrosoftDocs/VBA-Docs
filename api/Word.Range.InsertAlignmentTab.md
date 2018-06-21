@@ -20,7 +20,7 @@ Inserts an absolute tab that is always positioned in the same spot, relative to 
 
  _expression_. 'InsertAlignmentTab'( '_Alignment_' , '_RelativeTo_' )
 
- _expression_ An expression that returns a **[Range](Word.Range.md)** object.
+ _expression_ An expression that returns a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

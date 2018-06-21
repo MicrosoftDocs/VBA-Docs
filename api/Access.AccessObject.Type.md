@@ -20,7 +20,7 @@ Returns the value of an  **[AccessObject](Access.AccessObject.md)** object type.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents an **AccessObject** object.
+ _expression_ A variable that represents an [AccessObject](./Access.AccessObject.md) object.
 
 
 ## See also

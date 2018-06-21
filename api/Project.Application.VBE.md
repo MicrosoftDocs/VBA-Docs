@@ -20,7 +20,7 @@ Gets the  **VBE** object that represents the Visual Basic Editor. Read-only **VB
 
  _expression_. 'VBE'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

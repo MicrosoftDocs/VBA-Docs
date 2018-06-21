@@ -20,7 +20,7 @@ Returns or sets a  **WdFarEastLineBreakLevel** that represents the line break co
 
  _expression_. 'FarEastLineBreakLevel'
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

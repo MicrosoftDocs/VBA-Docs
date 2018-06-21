@@ -20,7 +20,7 @@ Returns a  **String** that represents the XML text in the specified object. .
 
  _expression_. 'XML'( '_DataOnly_' )
 
- _expression_ An expression that represents a **[Range](Word.Range.md)** object.
+ _expression_ An expression that represents a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

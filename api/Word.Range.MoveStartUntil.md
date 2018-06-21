@@ -20,7 +20,7 @@ Moves the start position of the specified range until one of the specified chara
 
  _expression_. 'MoveStartUntil'( '_Cset_' , '_Count_' )
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

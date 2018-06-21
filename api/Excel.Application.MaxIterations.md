@@ -20,7 +20,7 @@ Returns or sets the maximum number of iterations that Microsoft Excel can use to
 
  _expression_. 'MaxIterations'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Use the  **SetFilter** method to apply a filter to the records in the active dat
 
  _expression_. 'SetFilter'( ' _FilterName_', ' _WhereCondition_', ' _ControlName_' )
 
- _expression_ A variable that represents a **DoCmd** object.
+ _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ You can use the  **CurrentRecord** property to identify the current record in th
 
  _expression_. 'CurrentRecord'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

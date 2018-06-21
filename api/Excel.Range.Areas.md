@@ -20,7 +20,7 @@ Returns an  **[Areas](Excel.Areas.md)** collection that represents all the range
 
  _expression_. 'Areas'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Remarks

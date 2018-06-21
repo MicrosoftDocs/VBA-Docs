@@ -20,7 +20,7 @@ Adds a new  **Layer** object to a **Layers** collection.
 
  _expression_. 'Add'( '_LayerName_' )
 
- _expression_ A variable that represents a **Layers** object.
+ _expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
 
 
 ### Parameters

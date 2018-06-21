@@ -20,7 +20,7 @@ Determines whether the specified movie or sound loops continuously until either 
 
  _expression_. 'LoopUntilStopped'
 
- _expression_ A variable that represents a **PlaySettings** object.
+ _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
 
 ## Remarks

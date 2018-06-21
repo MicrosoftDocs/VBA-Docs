@@ -20,7 +20,7 @@ Occurs when the  **[Value](Outlook.OlkTimeZoneControl.Value.md)** property chang
 
  _expression_. 'Change'
 
- _expression_ A variable that represents an **OlkTimeZoneControl** object.
+ _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
 
 
 ## See also

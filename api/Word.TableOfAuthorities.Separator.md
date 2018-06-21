@@ -20,7 +20,7 @@ Returns or sets up to five characters that appear between the sequence number an
 
  _expression_. 'Separator'
 
- _expression_ Required. A variable that represents a **[TableOfAuthorities](Word.TableOfAuthorities.md)** collection.
+ _expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
 
 
 ## Remarks

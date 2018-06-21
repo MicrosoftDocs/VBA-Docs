@@ -20,7 +20,7 @@ Returns a  **String** that represents the name of an equation recognized functio
 
  _expression_. 'Name'
 
- _expression_ An expression that returns an **OMathRecognizedFunction** object.
+ _expression_ An expression that returns an [OMathRecognizedFunction](./Word.OMathRecognizedFunction.md) object.
 
 
 ## See also

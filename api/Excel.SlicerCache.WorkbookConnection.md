@@ -20,7 +20,7 @@ Gets or sets the  **[WorkbookConnection](Excel.WorkbookConnection.md)** object t
 
  _expression_. 'WorkbookConnection'
 
- _expression_ A variable that represents a **[SlicerCache](Excel.SlicerCache.md)** object.
+ _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ### Return Value

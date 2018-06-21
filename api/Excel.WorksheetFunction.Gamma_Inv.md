@@ -20,7 +20,7 @@ Returns the inverse of the gamma cumulative distribution. If p = GAMMA_DIST(x,..
 
  _expression_. 'Gamma_Inv'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

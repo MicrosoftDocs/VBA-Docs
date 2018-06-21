@@ -17,7 +17,7 @@ Gets or sets the position of the exception in the month, for a monthly or yearly
 
  _expression_. 'MonthPosition'
 
- _expression_ A variable that represents an **Exception** object.
+ _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## Remarks

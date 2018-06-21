@@ -20,7 +20,7 @@ Changes the vertical offset of the shadow by the specified number of points. Use
 
  _expression_. 'IncrementOffsetY'( '_Increment_' )
 
- _expression_ A variable that represents a **ShadowFormat** object.
+ _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Gets or set the name of the customized ribbon to be displayed when the specified
 
  _expression_. 'RibbonName'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

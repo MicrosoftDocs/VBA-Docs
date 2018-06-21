@@ -20,7 +20,7 @@ Returns a  **[Borders](Word.borders.md)** collection that represents all the bor
 
  _expression_. 'Borders'
 
- _expression_ Required. A variable that represents an **[InlineShape](Word.InlineShape.md)** object.
+ _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## Remarks

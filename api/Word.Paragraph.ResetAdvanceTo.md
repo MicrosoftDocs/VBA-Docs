@@ -20,7 +20,7 @@ Resets a paragraph that uses custom list levels to the original level settings.
 
  _expression_. 'ResetAdvanceTo'
 
- _expression_ An expression that returns a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ An expression that returns a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks

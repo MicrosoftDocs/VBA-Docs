@@ -20,7 +20,7 @@ Zooms in on the active view. Not available on the Resource Sheet, Task Sheet, or
 
  _expression_. 'ZoomIn'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

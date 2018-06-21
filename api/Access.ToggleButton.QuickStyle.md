@@ -20,7 +20,7 @@ Gets or sets the Quick Style that is applied to the specified object. Read/write
 
  _expression_. 'QuickStyle'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

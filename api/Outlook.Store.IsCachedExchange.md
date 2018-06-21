@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is a 
 
  _expression_. 'IsCachedExchange'
 
- _expression_ A variable that represents a **Store** object.
+ _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
 ## Remarks

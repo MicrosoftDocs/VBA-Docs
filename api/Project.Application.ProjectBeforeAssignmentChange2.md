@@ -17,7 +17,7 @@ Occurs before the user changes the value of an assignment field. Uses the  **Eve
 
  _expression_. 'ProjectBeforeAssignmentChange2'( ' _asg_', ' _Field_', ' _NewVal_', ' _Info_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Deletes the specified mail message.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[MailMessage](Word.MailMessage.md)** object.
+ _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 
 
 ## See also

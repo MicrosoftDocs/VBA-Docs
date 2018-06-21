@@ -20,7 +20,7 @@ Returns the  **Toolbars** collection of a **ToolbarSet** object. Read-only.
 
  _expression_. 'Toolbars'
 
- _expression_ A variable that represents a **ToolbarSet** object.
+ _expression_ A variable that represents a [ToolbarSet](./Visio.ToolbarSet.md) object.
 
 
 ### Return Value

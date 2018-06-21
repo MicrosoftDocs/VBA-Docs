@@ -20,7 +20,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
  _expression_. 'Session'
 
- _expression_ A variable that represents an **OutlookBarGroup** object.
+ _expression_ A variable that represents an [OutlookBarGroup](./Outlook.OutlookBarGroup.md) object.
 
 
 ## Remarks

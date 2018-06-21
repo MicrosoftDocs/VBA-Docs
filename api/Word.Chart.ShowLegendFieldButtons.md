@@ -20,7 +20,7 @@ Returns or sets whether to display legend field buttons on a PivotChart. Read/wr
 
  _expression_. 'ShowLegendFieldButtons'
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ## Remarks

@@ -23,7 +23,7 @@ After data in a data recordset are refreshed, returns an array of names of data 
 
  _expression_. 'DataColumnsAdded'
 
- _expression_ An expression that returns a **DataRecordsetChangedEvent** object.
+ _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 
 
 ### Return Value

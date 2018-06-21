@@ -20,7 +20,7 @@ Returns or sets the threshold value separating the two sections of either a pie-
 
  _expression_. 'SplitValue'
 
- _expression_ A variable that represents a **[ChartGroup](PowerPoint.ChartGroup.md)** object.
+ _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 
 
 ## Example

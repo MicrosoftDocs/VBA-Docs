@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'FontUnderLine'
 
- _expression_ An expression that returns a **GroupCriterion2** object.
+ _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 
 
 ## See also

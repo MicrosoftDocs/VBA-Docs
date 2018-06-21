@@ -20,7 +20,7 @@ Returns a  **Date** indicating the original date and time of an **[AppointmentIt
 
  _expression_. 'OriginalDate'
 
- _expression_ A variable that represents an **Exception** object.
+ _expression_ A variable that represents an [Exception](./Outlook.Exception.md) object.
 
 
 ## Example

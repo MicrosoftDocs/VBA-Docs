@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **ChartTitle** object.
+ _expression_ A variable that represents a [ChartTitle](./Excel.ChartTitle(Graph property).md) object.
 
 
 ### Return Value

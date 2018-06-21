@@ -20,7 +20,7 @@ You can use the  **FormatConditions** property to return a read-only reference t
 
  _expression_. 'FormatConditions'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that is **True** if a reminder has been set
 
  _expression_. 'ReminderSet'
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## See also

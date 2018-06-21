@@ -20,7 +20,7 @@ Prints the Outlook item using all default settings.The  **PrintOut** method is t
 
  _expression_. 'PrintOut'
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## See also

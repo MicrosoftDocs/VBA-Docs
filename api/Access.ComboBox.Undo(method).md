@@ -20,7 +20,7 @@ You can use the  **Undo** method to reset a control or form when its value has b
 
  _expression_. 'Undo'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

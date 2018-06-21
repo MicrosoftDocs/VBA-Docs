@@ -20,7 +20,7 @@ Deletes the specified table of figures.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents a **[TableOfFigures](Word.TableOfFigures.md)** collection.
+ _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## See also

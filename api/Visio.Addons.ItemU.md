@@ -20,7 +20,7 @@ Returns an object from a collection. Read-only.
 
  _expression_. 'ItemU'( '_NameOrIndex_' )
 
- _expression_ A variable that represents an **Addons** object.
+ _expression_ A variable that represents an [Addons](./Visio.Addons.md) object.
 
 
 ### Parameters

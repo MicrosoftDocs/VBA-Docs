@@ -20,7 +20,7 @@ Returns a  **Range** object that represents the contents of a comment.
 
  _expression_. 'Range'
 
- _expression_ Required. A variable that represents a **[Comment](Word.Comment.md)** object.
+ _expression_ Required. A variable that represents a '[Comment](Word.Comment.md)' object.
 
 
 ## Example

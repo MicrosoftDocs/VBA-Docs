@@ -20,7 +20,7 @@ Deletes the  **[ValidationRule](Visio.ValidationRule.md)** object from the docum
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **ValidationRule** object.
+ _expression_ A variable that represents a [ValidationRule](./Visio.ValidationRule.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether breaks are allowed inside
 
  _expression_. 'NoBreak'
 
- _expression_ An expression that returns an **[OMathBox](Word.OMathBox.md)** object.
+ _expression_ An expression that returns an '[OMathBox](Word.OMathBox.md)' object.
 
 
 ## See also

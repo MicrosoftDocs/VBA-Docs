@@ -20,7 +20,7 @@ Returns or sets the path type for the specified text frame. Read/write  **MsoPat
 
  _expression_. 'PathFormat'
 
- _expression_ A variable that represents a **[TextFrame](Word.TextFrame.md)** object.
+ _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## Remarks

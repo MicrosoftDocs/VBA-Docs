@@ -20,7 +20,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents an **Accounts** object.
+ _expression_ A variable that represents an [Accounts](./Outlook.Accounts.md) object.
 
 
 ## See also

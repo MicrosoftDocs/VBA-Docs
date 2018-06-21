@@ -17,7 +17,7 @@ Gets the date a  **Resource** was created. Read-only **Variant**.
 
  _expression_. 'Created'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

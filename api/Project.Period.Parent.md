@@ -17,7 +17,7 @@ Gets the parent of the  **Period** object. Read-only **Calendar**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Period** object.
+ _expression_ A variable that represents a [Period](./Project.Period.md) object.
 
 
 ## Remarks

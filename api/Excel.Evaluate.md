@@ -17,7 +17,7 @@ Converts a Microsoft Graph name to an object or a value.
 
  _expression_. 'Evaluate( _Name_)'
 
- _expression_ Required. An expression that returns a Microsoft Graph **Application** object.
+ _expression_ Required. An expression that returns a Microsoft Graph [Application](./Excel.Application(Graph property).md) object.
 
  **Name** Required **String**. The name of the specified object, using the Microsoft Graph naming convention.
 

@@ -20,7 +20,7 @@ Returns a  **Range** object that represents the last sentence in a document, sel
 
  _expression_. 'Last'
 
- _expression_ Required. A variable that represents a **[Sentences](Word.sentences.md)** collection.
+ _expression_ Required. A variable that represents a '[Sentences](Word.sentences.md)' collection.
 
 
 ## See also

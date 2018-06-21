@@ -20,7 +20,7 @@ Removes an equation from the collection of equations in a document, range, or se
 
  _expression_. 'Remove'
 
- _expression_ An expression that returns a **OMath** object.
+ _expression_ An expression that returns a [OMath](./Word.OMath.md) object.
 
 
 ## See also

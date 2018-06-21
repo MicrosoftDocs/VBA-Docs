@@ -20,7 +20,7 @@ Returns or sets the type of pointer used in the slide show. Read/write.
 
  _expression_. 'PointerType'
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ### Return Value

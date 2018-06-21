@@ -20,7 +20,7 @@ Gets or sets the  **Soft Edges** effect applied to the specified object. Read/wr
 
  _expression_. 'SoftEdges'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## Remarks

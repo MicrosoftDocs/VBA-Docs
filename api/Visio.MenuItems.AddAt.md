@@ -20,7 +20,7 @@ Creates a new  **MenuItem** object at a specified index in the **MenuItems** col
 
  _expression_. 'AddAt'( '_lIndex_' )
 
- _expression_ A variable that represents a **MenuItems** object.
+ _expression_ A variable that represents a [MenuItems](./Visio.MenuItems.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Prot
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **ProtectedViewWindow** object.
+ _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 
 
 ## See also

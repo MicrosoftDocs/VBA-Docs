@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that, when **True**, specifies that users b
 
  _expression_. 'EnableProofingToolsAdvertisement'
 
- _expression_ A variable that represents a **Options** object.
+ _expression_ A variable that represents a [Options](./Word.Options.md) object.
 
 
 ## Remarks

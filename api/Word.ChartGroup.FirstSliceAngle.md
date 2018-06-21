@@ -20,7 +20,7 @@ Returns or sets the angle, in degrees (clockwise from vertical), of the first pi
 
  _expression_. 'FirstSliceAngle'
 
- _expression_ A variable that represents a **[ChartGroup](Word.ChartGroup.md)** object.
+ _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 
 
 ## Remarks

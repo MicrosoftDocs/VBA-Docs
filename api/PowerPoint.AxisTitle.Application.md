@@ -20,7 +20,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
  _expression_. 'Application'
 
- _expression_ A variable that represents an **[AxisTitle](PowerPoint.Axis.AxisTitle.md)** object.
+ _expression_ A variable that represents an '[AxisTitle](PowerPoint.Axis.AxisTitle.md)' object.
 
 
 ## See also

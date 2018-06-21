@@ -13,7 +13,7 @@ Gets or sets a value that represents the perspective for the 3-D chart view. Rea
 
  _expression_. 'Perspective'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

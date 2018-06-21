@@ -20,7 +20,7 @@ When you make a selection from a list box, the  **BoundColumn** property tells M
 
  _expression_. 'BoundColumn'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

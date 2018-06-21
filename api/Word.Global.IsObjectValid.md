@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IsObjectValid'( '_Object_' )
 
- _expression_ A variable that represents a **[Global](Word.Global.md)** object. Optional.
+ _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that you can use to se
 
  _expression_. 'Color'
 
- _expression_ A variable that represents a **[SparkColor](Excel.SparkColor.md)** object.
+ _expression_ A variable that represents a '[SparkColor](Excel.SparkColor.md)' object.
 
 
 ### Return Value

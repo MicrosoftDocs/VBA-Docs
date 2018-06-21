@@ -20,7 +20,7 @@ Sorts the paragraphs in the specified range.
 
  _expression_. 'Sort'( '_ExcludeHeader_' , '_FieldNumber_' , '_SortFieldType_' , '_SortOrder_' , '_FieldNumber2_' , '_SortFieldType2_' , '_SortOrder2_' , '_FieldNumber3_' , '_SortFieldType3_' , '_SortOrder3_' , '_SortColumn_' , '_Separator_' , '_CaseSensitive_' , '_BidiSort_' , '_IgnoreThe_' , '_IgnoreKashida_' , '_IgnoreDiacritics_' , '_IgnoreHe_' , '_LanguageID_' )
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

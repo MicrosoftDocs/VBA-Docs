@@ -17,7 +17,7 @@ Gets the parent of the  **Project** object. Read-only **Object**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Remarks

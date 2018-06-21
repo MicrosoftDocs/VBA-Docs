@@ -20,7 +20,7 @@ Sorts paragraphs or table rows in ascending alphanumeric order.
 
  _expression_. 'SortAscending'
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ## Remarks

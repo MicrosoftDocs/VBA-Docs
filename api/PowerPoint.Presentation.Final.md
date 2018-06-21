@@ -20,7 +20,7 @@ Determines whether the presentation is marked as final (read-only). Read/write.
 
  _expression_. 'Final'
 
- _expression_ An expression that returns a **Presentation** object.
+ _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
 ### Return Value

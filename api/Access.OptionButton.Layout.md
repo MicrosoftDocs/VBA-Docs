@@ -20,7 +20,7 @@ Returns the type of layout for the specified option button. Read-only  **[AcLayo
 
  _expression_. 'Layout'
 
- _expression_ A variable that represents an **OptionButton** object.
+ _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 
 
 ## See also

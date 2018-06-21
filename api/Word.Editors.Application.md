@@ -20,7 +20,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
  _expression_. 'Application'
 
- _expression_ Required. A variable that represents an **[Editors](Word.Editors.md)** collection.
+ _expression_ Required. A variable that represents an '[Editors](Word.Editors.md)' collection.
 
 
 ## Remarks

@@ -17,6 +17,6 @@ Gets the earned value scheduled variance (SV) of the resource. Read-only  **Vari
 
  _expression_. 'SV'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

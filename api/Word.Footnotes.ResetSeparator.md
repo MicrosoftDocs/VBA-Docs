@@ -20,7 +20,7 @@ Resets the footnote separator to the default separator.
 
  _expression_. 'ResetSeparator'
 
- _expression_ Required. A variable that represents a **[Footnotes](Word.footnotes.md)** collection.
+ _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
 ## Remarks

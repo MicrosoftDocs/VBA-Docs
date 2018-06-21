@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the categories assigned to the **[Sha
 
  _expression_. 'Categories'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ You can use this property to set or returns the unedited value of the  **BorderS
 
  _expression_. 'OldBorderStyle'
 
- _expression_ A variable that represents a **Line** object.
+ _expression_ A variable that represents a [Line](./Access.Line.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Selects or clears an object.
 
  _expression_. 'Select'( '_SheetObject_' , '_SelectAction_' )
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Parameters

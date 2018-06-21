@@ -20,7 +20,7 @@ Indents one or more paragraphs by one level.
 
  _expression_. 'Indent'
 
- _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks

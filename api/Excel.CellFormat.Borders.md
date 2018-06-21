@@ -20,7 +20,7 @@ Returns or sets a  **[Borders](Excel.Borders.md)** collection that represents th
 
  _expression_. 'Borders'
 
- _expression_ A variable that represents a **CellFormat** object.
+ _expression_ A variable that represents a [CellFormat](./Excel.CellFormat.md) object.
 
 
 ## Example

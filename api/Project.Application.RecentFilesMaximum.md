@@ -20,7 +20,7 @@ Gets or sets the maximum number of recently used files to display in the  **Rece
 
  _expression_. 'RecentFilesMaximum'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ## Remarks

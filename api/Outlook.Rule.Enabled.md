@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines if the rule is to be applie
 
  _expression_. 'Enabled'
 
- _expression_ A variable that represents a **Rule** object.
+ _expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
 
 
 ## Remarks

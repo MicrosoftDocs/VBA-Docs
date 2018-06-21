@@ -20,7 +20,7 @@ Returns the second filtered value for the specified column in a filtered range. 
 
  _expression_. 'Criteria2'
 
- _expression_ A variable that represents a **Filter** object.
+ _expression_ A variable that represents a [Filter](./Excel.Filter.md) object.
 
 
 ## Remarks

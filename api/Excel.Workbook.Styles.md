@@ -20,7 +20,7 @@ Returns a  **[Styles](Excel.Styles.md)** collection that represents all the styl
 
  _expression_. 'Styles'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

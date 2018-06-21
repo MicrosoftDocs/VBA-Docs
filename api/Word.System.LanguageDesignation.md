@@ -20,7 +20,7 @@ Returns the designated language of the system software. Read-only  **String** .
 
  _expression_. 'LanguageDesignation'
 
- _expression_ An expression that returns a **[System](Word.System.md)** object.
+ _expression_ An expression that returns a '[System](Word.System.md)' object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Hyperlinks** object.
+ _expression_ A variable that represents a [Hyperlinks](./Excel.Hyperlinks.md) object.
 
 
 ## See also

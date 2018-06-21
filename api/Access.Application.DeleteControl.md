@@ -20,7 +20,7 @@ The  **DeleteControl** method deletes a specified control from a form.
 
  _expression_. 'DeleteControl'( ' _FormName_', ' _ControlName_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

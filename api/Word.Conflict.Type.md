@@ -20,7 +20,7 @@ Returns the [WdRevisionType](Word.WdRevisionType.md)for the [Conflict](Word.Conf
 
  _expression_. 'Type'
 
- _expression_ An expression that returns a **[Conflict](Word.Conflict.md)** object.
+ _expression_ An expression that returns a '[Conflict](Word.Conflict.md)' object.
 
 
 ## Example

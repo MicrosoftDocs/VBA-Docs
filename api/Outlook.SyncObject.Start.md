@@ -20,7 +20,7 @@ Begins synchronizing a user's folders using the specified  **Send\Receive** grou
 
  _expression_. 'Start'
 
- _expression_ An expression that returns a **[SyncObject](Outlook.SyncObject.md)** object.
+ _expression_ An expression that returns a '[SyncObject](Outlook.SyncObject.md)' object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **Long** representing the build number of the Outlook application for
 
  _expression_. 'OutlookInternalVersion'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ You can use the  **AllStoredProcedures** property to reference the **[AllStoredP
 
  _expression_. 'AllStoredProcedures'
 
- _expression_ A variable that represents a **CurrentData** object.
+ _expression_ A variable that represents a [CurrentData](./Access.CurrentData.md) object.
 
 
 ## See also

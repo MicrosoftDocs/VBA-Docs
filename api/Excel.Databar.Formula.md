@@ -20,7 +20,7 @@ Returns or sets a  **String** representing a formula, which determines the value
 
  _expression_. 'Formula'
 
- _expression_ A variable that represents a **Databar** object.
+ _expression_ A variable that represents a [Databar](./Excel.Databar.md) object.
 
 
 ## Remarks

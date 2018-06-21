@@ -20,7 +20,7 @@ Returns a  **[ChartCharacters](PowerPoint.ChartCharacters.md)** object that repr
 
  _expression_. 'Characters'( '_Start_', '_Length_' )
 
- _expression_ A variable that represents a **[DataLabel](PowerPoint.DataLabel.md)** object.
+ _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
 
 
 ### Parameters

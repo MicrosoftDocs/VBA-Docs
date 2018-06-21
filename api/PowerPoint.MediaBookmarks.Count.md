@@ -17,7 +17,7 @@ Returns the number of bookmarks. Read-only.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **MediaBookmarks** object.
+ _expression_ A variable that represents a [MediaBookmarks](./PowerPoint.MediaBookmarks.md) object.
 
 
 ## Remarks

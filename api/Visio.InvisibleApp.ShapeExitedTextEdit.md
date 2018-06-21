@@ -15,9 +15,9 @@ Occurs after a shape is no longer open for interactive text editing.
 
 ## Syntax
 
-Private Sub  _expression_ _**ShapeExitedTextEdit**( **_ByVal Shape As [IVSHAPE]_** )
+Private Sub  _expression_ _'ShapeExitedTextEdit'( **_ByVal Shape As [IVSHAPE]_** )
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Parameters

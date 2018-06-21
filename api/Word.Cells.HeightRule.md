@@ -20,7 +20,7 @@ Returns or sets a  **WdRowHeightRule** constant that represents the rule for det
 
  _expression_. 'HeightRule'
 
- _expression_ Required. A variable that represents a **[Cells](Word.cells.md)** collection.
+ _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Remarks

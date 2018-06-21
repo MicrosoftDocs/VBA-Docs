@@ -20,7 +20,7 @@ Returns a  **[Borders](Excel.Borders.md)** object that represents the borders of
 
  _expression_. 'Borders'
 
- _expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
+ _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ### Return Value

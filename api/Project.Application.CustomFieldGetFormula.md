@@ -20,7 +20,7 @@ Returns the formula associated with a custom field.
 
  _expression_. 'CustomFieldGetFormula'( ' _FieldID_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

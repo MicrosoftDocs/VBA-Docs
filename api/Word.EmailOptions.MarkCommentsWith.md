@@ -20,7 +20,7 @@ Returns or sets the string with which Microsoft Word marks comments in e-mail me
 
  _expression_. 'MarkCommentsWith'
 
- _expression_ An expression that returns an **[EmailOptions](Word.EmailOptions.md)** object.
+ _expression_ An expression that returns an '[EmailOptions](Word.EmailOptions.md)' object.
 
 
 ## Remarks

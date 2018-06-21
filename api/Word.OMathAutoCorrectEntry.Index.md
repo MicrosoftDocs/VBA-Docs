@@ -20,7 +20,7 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
  _expression_. 'Index'
 
- _expression_ An expression that returns an **OMathAutoCorrectEntry** object.
+ _expression_ An expression that returns an [OMathAutoCorrectEntry](./Word.OMathAutoCorrectEntry.md) object.
 
 
 ## See also

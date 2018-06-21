@@ -17,6 +17,6 @@ Gets the remaining cost for the assignment. Read-only  **Variant**.
 
  _expression_. 'RemainingCost'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 

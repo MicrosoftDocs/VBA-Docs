@@ -20,7 +20,7 @@ Returns or sets the visibility of the specified object or the formatting applied
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **HeaderFooter** object.
+ _expression_ A variable that represents a [HeaderFooter](./PowerPoint.HeaderFooter.md) object.
 
 
 ### Return Value

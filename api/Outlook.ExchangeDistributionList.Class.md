@@ -20,7 +20,7 @@ Returns a constant in the  **[OlObjectClass](Outlook.OlObjectClass.md)** enumera
 
  _expression_. 'Class'
 
- _expression_ A variable that represents an **ExchangeDistributionList** object.
+ _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ## See also

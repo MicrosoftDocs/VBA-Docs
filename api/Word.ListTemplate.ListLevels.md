@@ -20,7 +20,7 @@ Returns a  **[ListLevels](Word.listlevels.md)** collection that represents all t
 
  _expression_. 'ListLevels'
 
- _expression_ An expression that returns a **[ListTemplate](Word.ListTemplate.md)** object.
+ _expression_ An expression that returns a '[ListTemplate](Word.ListTemplate.md)' object.
 
 
 ## Remarks

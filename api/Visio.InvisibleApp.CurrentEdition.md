@@ -20,7 +20,7 @@ Returns an enumerated value that represents the edition of the current instance 
 
  _expression_. 'CurrentEdition'
 
- _expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
+ _expression_ An expression that returns an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 
 
 ### Return Value

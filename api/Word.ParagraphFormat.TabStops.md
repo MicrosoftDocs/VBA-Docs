@@ -20,7 +20,7 @@ Returns or sets a  **TabStops** collection that represents all the custom tab st
 
  _expression_. 'TabStops'
 
- _expression_ A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
+ _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Remarks

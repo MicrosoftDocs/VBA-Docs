@@ -17,7 +17,7 @@ Gets the index of a  **ViewSingle** object in the **ViewsSingle** containing obj
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **ViewSingle** object.
+ _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
 
 ## Remarks

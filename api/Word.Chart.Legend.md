@@ -20,7 +20,7 @@ Returns the legend for the chart. Read-only  **[Legend](Word.Legend.md)** .
 
  _expression_. 'Legend'
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ## Example

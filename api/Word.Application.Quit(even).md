@@ -20,7 +20,7 @@ Occurs when the user exits Microsoft Word.
 
 Private Sub Application_**Quit**()
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object that has been declared with events in a class module.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module.
 
 
 ## Remarks

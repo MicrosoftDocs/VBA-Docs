@@ -20,7 +20,7 @@ Moves an item in a drop-down list or combo box content control down one item, so
 
  _expression_. 'MoveDown'
 
- _expression_ An expression that returns a **ContentControlListEntry** object.
+ _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 
 
 ## Example

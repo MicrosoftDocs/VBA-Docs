@@ -20,7 +20,7 @@ Automatically resizes the drawing page by adding as many printer-paper-sized til
 
  _expression_. 'AutoSizeDrawing'
 
- _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
+ _expression_ An expression that returns a '[Page](Visio.Page.md)' object.
 
 
 ### Return Value

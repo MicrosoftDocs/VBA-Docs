@@ -23,7 +23,7 @@ Gets or sets how existing links between shapes and data rows are handled when me
 
  _expression_. 'LinkReplaceBehavior'
 
- _expression_ An expression that returns a **DataRecordset** object.
+ _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
 ### Return Value

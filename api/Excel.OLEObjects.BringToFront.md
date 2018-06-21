@@ -20,7 +20,7 @@ Brings the object to the front of the z-order.
 
  _expression_. 'BringToFront'
 
- _expression_ A variable that represents an **OLEObjects** object.
+ _expression_ A variable that represents an [OLEObjects](./Excel.OLEObjects.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'AutoScaling'
 
- _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 
 ## Example

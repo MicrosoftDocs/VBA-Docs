@@ -20,7 +20,7 @@ Copies a range to the same area on all other worksheets in a collection.
 
  _expression_. 'FillAcrossSheets'( '_Range_' , '_Type_' )
 
- _expression_ A variable that represents a **Sheets** object.
+ _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **[WdContinue](Word.WdContinue.md)** constant ( **wdContinueDisabled*
 
  _expression_. 'CanContinuePreviousList'( '_ListTemplate_' )
 
- _expression_ Required. A variable that represents a **[List](Word.List.md)** object.
+ _expression_ Required. A variable that represents a '[List](Word.List.md)' object.
 
 
 ### Parameters

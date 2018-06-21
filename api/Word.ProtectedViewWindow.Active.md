@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Active'
 
- _expression_ An expression that returns a **ProtectedViewWindow** object.
+ _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 
 
 ## Example

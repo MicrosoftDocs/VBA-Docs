@@ -20,7 +20,7 @@ Inserts a page, column, or section break.
 
  _expression_. 'InsertBreak'( '_Type_' )
 
- _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
+ _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
 ### Parameters

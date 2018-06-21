@@ -18,7 +18,7 @@ Specifies the number of points in each range. Read/write  **Double**.
 
  _expression_. 'BinWidthValue'
 
- _expression_ A variable that represents a **ChartGroup** object.
+ _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 
 
 ## See also

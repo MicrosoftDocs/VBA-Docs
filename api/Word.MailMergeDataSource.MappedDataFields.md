@@ -20,7 +20,7 @@ Returns a  **[MappedDataFields](Word.MappedDataFields.md)** collection that repr
 
  _expression_. 'MappedDataFields'
 
- _expression_ An expression that returns a **[MailMergeDataSource](Word.MailMergeDataSource.md)** object.
+ _expression_ An expression that returns a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
 ## Example

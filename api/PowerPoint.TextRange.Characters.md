@@ -20,7 +20,7 @@ Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the s
 
  _expression_. 'Characters'( '_Start_', '_Length_' )
 
- _expression_ A variable that represents a **TextRange** object.
+ _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ### Parameters

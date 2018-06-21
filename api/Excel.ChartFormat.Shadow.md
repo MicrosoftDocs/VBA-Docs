@@ -20,7 +20,7 @@ Returns a  **[ShadowFormat](Excel.ShadowFormat.md)** object that contains shadow
 
  _expression_. 'Shadow'
 
- _expression_ A variable that represents a **ChartFormat** object.
+ _expression_ A variable that represents a [ChartFormat](./Excel.ChartFormat.md) object.
 
 
 ## See also

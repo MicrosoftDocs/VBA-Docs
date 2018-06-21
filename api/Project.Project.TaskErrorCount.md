@@ -20,6 +20,6 @@ Gets or sets the number of task errors associated with a project. Read/write  **
 
  _expression_. 'TaskErrorCount'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

@@ -20,7 +20,7 @@ Returns the Microsoft Windows character set for a  **Font** object. Read-only.
 
  _expression_. 'CharSet'
 
- _expression_ A variable that represents a **Font** object.
+ _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
 
 ### Return Value

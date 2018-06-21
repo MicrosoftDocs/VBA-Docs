@@ -13,7 +13,7 @@ Gets a value that indicates whether the shape is a connector. Read-only  **[MsoT
 
  _expression_. 'Connector'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a 'Shape' object.
 
 
 ## Property value

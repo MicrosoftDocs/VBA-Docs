@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value, containing a **[Style](Excel.Style.md)** o
 
  _expression_. 'Style'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **String** representing the alias for the **[ExchangeUser](Outlook.Ex
 
  _expression_. 'Alias'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

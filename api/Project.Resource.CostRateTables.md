@@ -17,7 +17,7 @@ Gets a  **[CostRateTables](Project.CostRateTable.md)** collection representing t
 
  _expression_. 'CostRateTables'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Example

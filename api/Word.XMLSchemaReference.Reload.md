@@ -20,7 +20,7 @@ Reloads the XML schemas that are referenced in a document.
 
  _expression_. 'Reload'
 
- _expression_ An expression that returns an **[XMLSchemaReference](Word.XMLSchemaReference.md)** object.
+ _expression_ An expression that returns an '[XMLSchemaReference](Word.XMLSchemaReference.md)' object.
 
 
 ### Return Value

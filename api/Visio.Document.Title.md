@@ -20,7 +20,7 @@ Gets or sets the value of the  **Title** field in a document's properties. Read/
 
  _expression_. 'Title'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

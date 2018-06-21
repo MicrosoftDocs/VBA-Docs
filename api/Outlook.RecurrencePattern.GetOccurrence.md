@@ -20,7 +20,7 @@ Returns a specific instance of the  **[AppointmentItem](Outlook.AppointmentItem.
 
  _expression_. 'GetOccurrence'( '_StartDate_' )
 
- _expression_ A variable that represents a **RecurrencePattern** object.
+ _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ### Parameters

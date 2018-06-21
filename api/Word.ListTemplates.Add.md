@@ -20,7 +20,7 @@ Returns a  **ListTemplate** object that represents a new list template.
 
  _expression_. 'Add'( '_OutlineNumbered_' , '_Name_' )
 
- _expression_ Required. A variable that represents a **[ListTemplates](Word.listtemplates.md)** collection.
+ _expression_ Required. A variable that represents a '[ListTemplates](Word.listtemplates.md)' collection.
 
 
 ### Parameters

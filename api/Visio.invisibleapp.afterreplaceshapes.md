@@ -15,7 +15,7 @@ Occurs after a shape-replacement operation.
 
  _expression_. 'AfterReplaceShapes'_(sel)_
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Parameters

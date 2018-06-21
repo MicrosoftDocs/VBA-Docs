@@ -15,9 +15,9 @@ Occurs before a window is closed.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeWindowClosed**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  _expression_ _'BeforeWindowClosed'( **_ByVal Window As [IVWINDOW]_** )
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Parameters

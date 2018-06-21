@@ -20,7 +20,7 @@ Returns or sets whether to display axis field buttons on a PivotChart. Read/writ
 
  _expression_. 'ShowAxisFieldButtons'
 
- _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
+ _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
 ## Remarks

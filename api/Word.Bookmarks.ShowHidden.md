@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowHidden'
 
- _expression_ An expression that returns a **[Bookmarks](Word.bookmarks.md)** collection object.
+ _expression_ An expression that returns a '[Bookmarks](Word.bookmarks.md)' collection object.
 
 
 ## Remarks

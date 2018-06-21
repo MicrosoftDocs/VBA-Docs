@@ -20,7 +20,7 @@ Returns or sets the height of the protected view window. Read/write  **Long** .
 
  _expression_. 'Height'
 
- _expression_ An expression that returns a **[ProtectedViewWindow](Word.ProtectedViewWindow.md)** object.
+ _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 
 
 ## Remarks

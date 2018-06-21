@@ -20,7 +20,7 @@ Returns an  **Integer** that represents the order of this **[AddressList](Outloo
 
  _expression_. 'ResolutionOrder'
 
- _expression_ A variable that represents an **AddressList** object.
+ _expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
 
 
 ## Remarks

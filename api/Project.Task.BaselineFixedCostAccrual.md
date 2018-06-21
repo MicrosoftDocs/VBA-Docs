@@ -20,6 +20,6 @@ Gets or sets when the  **Task** baseline accrues fixed costs. Read/write **Long*
 
  _expression_. 'BaselineFixedCostAccrual'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

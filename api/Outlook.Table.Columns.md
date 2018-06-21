@@ -20,7 +20,7 @@ Returns a  **[Columns](Outlook.Columns.md)** collection object that contains the
 
  _expression_. 'Columns'
 
- _expression_ A variable that represents a **Table** object.
+ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
 ## Remarks

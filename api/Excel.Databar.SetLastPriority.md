@@ -20,7 +20,7 @@ Sets the evaluation order for this conditional formatting rule so it is evaluate
 
  _expression_. 'SetLastPriority'
 
- _expression_ A variable that represents a **Databar** object.
+ _expression_ A variable that represents a [Databar](./Excel.Databar.md) object.
 
 
 ## Remarks

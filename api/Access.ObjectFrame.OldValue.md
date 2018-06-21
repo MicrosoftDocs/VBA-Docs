@@ -20,7 +20,7 @@ You can use the  **OldValue** property to determine the unedited value of a boun
 
  _expression_. 'OldValue'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## Remarks

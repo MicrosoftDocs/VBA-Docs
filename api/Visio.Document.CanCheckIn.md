@@ -20,7 +20,7 @@ Specifies whether a document can be checked into a Microsoft SharePoint Server c
 
  _expression_. 'CanCheckIn'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

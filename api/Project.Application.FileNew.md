@@ -20,7 +20,7 @@ Creates a new project.
 
  _expression_. 'FileNew'( ' _SummaryInfo_', ' _Template_', ' _FileNewDialog_', ' _FileNewWorkpane_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

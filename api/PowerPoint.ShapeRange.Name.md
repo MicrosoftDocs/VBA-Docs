@@ -20,7 +20,7 @@ When a shape is created, Microsoft PowerPoint automatically assigns it a name in
 
  _expression_. 'Name'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

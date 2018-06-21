@@ -20,7 +20,7 @@ Gets or sets a string representation of the baseline finish date of a task. Read
 
  _expression_. 'Baseline5FinishText'
 
- _expression_ An expression that returns a **Task** object.
+ _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
 
 ## Remarks

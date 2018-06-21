@@ -18,7 +18,7 @@ Occurs after an object (shape, picture, text box, chart, SmartArt as examples) h
 
  _expression_. 'AfterShapeSizeChange'_(shp)_
 
- _expression_ A variable that represents a **Application** object.
+ _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

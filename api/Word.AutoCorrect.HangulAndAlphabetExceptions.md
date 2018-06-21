@@ -20,7 +20,7 @@ Returns a  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)*
 
  _expression_. 'HangulAndAlphabetExceptions'
 
- _expression_ An expression that returns an **[AutoCorrect](Word.AutoCorrect.md)** object.
+ _expression_ An expression that returns an '[AutoCorrect](Word.AutoCorrect.md)' object.
 
 
 ## Remarks

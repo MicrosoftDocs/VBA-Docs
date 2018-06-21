@@ -20,7 +20,7 @@ Returns a  **[Tables](Word.tables.md)** collection that represents all the table
 
  _expression_. 'Tables'
 
- _expression_ A variable that represents a **[Table](Word.Table.md)** object.
+ _expression_ A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks

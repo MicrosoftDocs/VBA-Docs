@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the language in which the contact 
 
  _expression_. 'Language'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

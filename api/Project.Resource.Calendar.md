@@ -17,7 +17,7 @@ Gets a  **[Calendar](Project.Calendar.md)** object representing a calendar for t
 
  _expression_. 'Calendar'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

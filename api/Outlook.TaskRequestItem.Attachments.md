@@ -20,7 +20,7 @@ Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all
 
  _expression_. 'Attachments'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## See also

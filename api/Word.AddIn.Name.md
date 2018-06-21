@@ -20,7 +20,7 @@ Returns the name of an add-in. Read-only  **String** .
 
  _expression_. 'Name'
 
- _expression_ An expression that returns an **[AddIn](Word.AddIn.md)** object.
+ _expression_ An expression that returns an '[AddIn](Word.AddIn.md)' object.
 
 
 ## See also

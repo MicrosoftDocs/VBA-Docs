@@ -20,7 +20,7 @@ Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object th
 
  _expression_. 'GetMemberOfList'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ### Return Value

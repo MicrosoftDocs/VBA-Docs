@@ -17,7 +17,7 @@ Adds a  **WorkWeek** object to a **WorkWeeks** collection.
 
  _expression_. 'Add'( ' _Start_', ' _Finish_', ' _Name_' )
 
- _expression_ An expression that returns a **WorkWeeks** object.
+ _expression_ An expression that returns a 'WorkWeeks' object.
 
 
 ### Parameters

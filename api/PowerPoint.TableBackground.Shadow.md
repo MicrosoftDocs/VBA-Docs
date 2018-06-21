@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Shadow'
 
- _expression_ An expression that returns a **TableBackground** object.
+ _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 
 
 ### Return Value

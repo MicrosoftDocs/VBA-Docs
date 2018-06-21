@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the color of the border.
 
  _expression_. 'ColorIndex'
 
- _expression_ A variable that represents a **Border** object.
+ _expression_ A variable that represents a [Border](./Excel.Border(Graph property).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the format code for the obj
 
  _expression_. 'NumberFormatLocal'
 
- _expression_ A variable that represents a **DataLabel** object.
+ _expression_ A variable that represents a [DataLabel](./Excel.DataLabel(Graph property).md) object.
 
 
 ## Remarks

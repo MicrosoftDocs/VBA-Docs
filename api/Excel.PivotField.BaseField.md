@@ -20,7 +20,7 @@ Returns or sets the base field for a custom calculation. This property is valid 
 
  _expression_. 'BaseField'
 
- _expression_ A variable that represents a **PivotField** object.
+ _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Indicates the number of sheets of paper on which a drawing is printed horizontal
 
  _expression_. 'PrintPagesAcross'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

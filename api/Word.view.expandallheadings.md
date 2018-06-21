@@ -18,7 +18,7 @@ Expands all the headings in the document.
 
  _expression_. 'ExpandAllHeadings'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./Word.View.md) object.
 
 
 ### Return value

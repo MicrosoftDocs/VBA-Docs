@@ -20,7 +20,7 @@ Returns or sets the ScreenTip text of a hyperlink. Read/write.
 
  _expression_. 'ScreenTip'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
 
 ### Return Value

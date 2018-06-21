@@ -20,7 +20,7 @@ Removes the specified key combination if it is currently assigned to a command. 
 
  _expression_. 'Disable'
 
- _expression_ Required. A variable that represents a **[KeyBinding](Word.KeyBinding.md)** object.
+ _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 
 
 ## Remarks

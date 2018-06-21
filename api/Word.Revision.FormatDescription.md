@@ -20,7 +20,7 @@ Returns a  **String** representing a description of tracked formatting changes i
 
  _expression_. 'FormatDescription'
 
- _expression_ An expression that returns a **[Revision](Word.Revision.md)** object.
+ _expression_ An expression that returns a '[Revision](Word.Revision.md)' object.
 
 
 ## Example

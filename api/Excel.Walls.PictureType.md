@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that represents the way pictures are displa
 
  _expression_. 'PictureType'
 
- _expression_ A variable that represents a **Walls** object.
+ _expression_ A variable that represents a [Walls](./Excel.Walls(Graph property).md) object.
 
 
 ## Remarks

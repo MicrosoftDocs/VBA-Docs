@@ -20,7 +20,7 @@ The  **SetProperty** method carries out the SetProperty action in Visual Basic.
 
  _expression_. 'SetProperty'( ' _ControlName_', ' _Property_', ' _Value_' )
 
- _expression_ A variable that represents a **DoCmd** object.
+ _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 
 
 ### Parameters

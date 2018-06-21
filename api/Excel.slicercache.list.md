@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. 'List'
 
- _expression_ A variable that represents a **SlicerCache** object.
+ _expression_ A variable that represents a [SlicerCache](./Excel.SlicerCache.md) object.
 
 
 ## Property value

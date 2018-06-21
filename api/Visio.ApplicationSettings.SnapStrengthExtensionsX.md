@@ -20,7 +20,7 @@ Specifies the distance in pixels along the  _x_ -axis that shape extension lines
 
  _expression_. 'SnapStrengthExtensionsX'
 
- _expression_ A variable that represents a **ApplicationSettings** object.
+ _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
 ### Return Value

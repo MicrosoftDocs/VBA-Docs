@@ -17,7 +17,7 @@ Gets the index of an object in its containing collection. Read-only  **Long**.
 
  _expression_. 'Index'
 
- _expression_ An expression that returns a **GroupCriterion2** object.
+ _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 
 
 ## Example

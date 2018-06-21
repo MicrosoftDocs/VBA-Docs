@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that determines whether the object is visib
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **Worksheets** object.
+ _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
 
 
 ## See also

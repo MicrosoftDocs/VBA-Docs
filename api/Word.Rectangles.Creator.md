@@ -17,7 +17,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. 'Creator'
 
- _expression_ Required. A variable that represents a **[Rectangles](Word.Rectangles.md)** collection.
+ _expression_ Required. A variable that represents a '[Rectangles](Word.Rectangles.md)' collection.
 
 
 ## Remarks

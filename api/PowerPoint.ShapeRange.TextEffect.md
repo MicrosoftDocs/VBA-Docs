@@ -20,7 +20,7 @@ Returns a  **[TextEffectFormat](PowerPoint.TextEffectFormat.md)** object that co
 
  _expression_. 'TextEffect'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Return Value

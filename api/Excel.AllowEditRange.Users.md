@@ -20,7 +20,7 @@ Returns a  **[UserAccessList](Excel.UserAccessList.md)** object for the protecte
 
  _expression_. 'Users'
 
- _expression_ A variable that represents an **AllowEditRange** object.
+ _expression_ A variable that represents an [AllowEditRange](./Excel.AllowEditRange.md) object.
 
 
 ## Example

@@ -17,7 +17,7 @@ Occurs just before Microsoft Outlook starts resolving names in the recipient col
 
  _expression_. 'BeforeCheckNames'( '_Cancel_' )
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Gets or sets how long the Microsoft Visio instance waits before advising a conta
 
  _expression_. 'OnDataChangeDelay'
 
- _expression_ An expression that returns a **InvisibleApp** object.
+ _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

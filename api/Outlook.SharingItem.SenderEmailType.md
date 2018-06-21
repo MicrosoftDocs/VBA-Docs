@@ -20,7 +20,7 @@ Returns a  **String** that represents the type of entry for the e-mail address o
 
  _expression_. 'SenderEmailType'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

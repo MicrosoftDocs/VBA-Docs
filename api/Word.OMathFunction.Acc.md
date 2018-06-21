@@ -20,7 +20,7 @@ Returns an  **[OMathAcc](Word.OMathAcc.md)** object that represents a base chara
 
  _expression_. 'Acc'
 
- _expression_ An expression that returns an **[OMathFunction](Word.OMathFunction.md)** object.
+ _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 
 
 ## See also

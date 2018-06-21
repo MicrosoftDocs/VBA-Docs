@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to remove a content contr
 
  _expression_. 'Temporary'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

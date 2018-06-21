@@ -20,7 +20,7 @@ Returns the number of items in the  **Borders** collection. Read-only **Long** .
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **[Borders](Word.borders.md)** collection.
+ _expression_ A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
 ## See also

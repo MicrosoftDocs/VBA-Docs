@@ -20,7 +20,7 @@ You can use the  **PictureTiling** property to specify whether a background pict
 
  _expression_. 'PictureTiling'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

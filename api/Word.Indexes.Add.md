@@ -20,7 +20,7 @@ Returns an  **Index** object that represents a new index added to a document.
 
  _expression_. 'Add'( '_Range_' , '_HeadingSeparator_' , '_RightAlignPageNumbers_' , '_Type_' , '_NumberOfColumns_' , '_AccentedLetters_' , '_SortBy_' , '_IndexLanguage_' )
 
- _expression_ Required. A variable that represents an **[Indexes](Word.indexes.md)** collection.
+ _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
 
 ### Parameters

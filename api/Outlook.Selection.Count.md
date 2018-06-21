@@ -20,7 +20,7 @@ Returns a  **Long** that indicates the number of items or conversation headers i
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **[Selection](Outlook.Selection.md)** object.
+ _expression_ A variable that represents a '[Selection](Outlook.Selection.md)' object.
 
 
 ## See also

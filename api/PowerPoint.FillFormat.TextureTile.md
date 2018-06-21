@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'TextureTile'
 
- _expression_ An expression that returns a **FillFormat** object.
+ _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ### Return Value

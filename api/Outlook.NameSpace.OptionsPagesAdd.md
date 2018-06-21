@@ -20,7 +20,7 @@ Occurs whenever the  **Properties** dialog box for a folder is opened.
 
  _expression_. 'OptionsPagesAdd'( '_Pages_' , '_Folder_' )
 
- _expression_ A variable that represents a **NameSpace** object.
+ _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ### Parameters

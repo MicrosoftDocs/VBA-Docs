@@ -20,7 +20,7 @@ Returns or sets an  **[OlSharingMsgType](Outlook.OlSharingMsgType.md)** constant
 
  _expression_. 'Type'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

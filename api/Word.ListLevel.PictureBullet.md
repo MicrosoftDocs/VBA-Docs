@@ -20,7 +20,7 @@ Returns an  **[InlineShape](Word.InlineShape.md)** object that represents a pict
 
  _expression_. 'PictureBullet'
 
- _expression_ An expression that returns a **[ListLevel](Word.ListLevel.md)** object.
+ _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Example

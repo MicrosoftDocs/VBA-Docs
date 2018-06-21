@@ -20,7 +20,7 @@ Returns the Microsoft Excel control type. Read-only  **[XlFormControl](Excel.XlF
 
  _expression_. 'FormControlType'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Remarks

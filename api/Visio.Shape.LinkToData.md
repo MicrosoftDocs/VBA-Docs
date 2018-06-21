@@ -23,7 +23,7 @@ Links a shape to a data row in a data recordset.
 
  _expression_. 'LinkToData'( '_DataRecordsetID_' , '_RowID_' , '_AutoApplyDataGraphics_' )
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

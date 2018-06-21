@@ -20,7 +20,7 @@ Returns or sets the starting number for the specified  **ListLevel** object. Rea
 
  _expression_. 'StartAt'
 
- _expression_ An expression that returns a **[ListLevel](Word.ListLevel.md)** object.
+ _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 
 
 ## Example

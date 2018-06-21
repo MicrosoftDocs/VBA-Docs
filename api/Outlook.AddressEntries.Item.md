@@ -20,7 +20,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object from the collecti
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents an **AddressEntries** object.
+ _expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
 
 
 ### Parameters

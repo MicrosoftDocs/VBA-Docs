@@ -20,7 +20,7 @@ Returns a  **String** that represents the XPath for the XML mapping, which evalu
 
  _expression_. 'XPath'
 
- _expression_ An expression that returns an **[XMLMapping](Word.XMLMapping.md)** object.
+ _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
  _expression_. 'EntryID'
 
- _expression_ A variable that represents a **TaskRequestItem** object.
+ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

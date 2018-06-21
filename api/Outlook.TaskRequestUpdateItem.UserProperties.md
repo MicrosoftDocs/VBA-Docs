@@ -20,7 +20,7 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
  _expression_. 'UserProperties'
 
- _expression_ A variable that represents a **TaskRequestUpdateItem** object.
+ _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 
 
 ## See also

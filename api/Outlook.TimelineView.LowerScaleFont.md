@@ -20,7 +20,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
  _expression_. 'LowerScaleFont'
 
- _expression_ A variable that represents a **TimelineView** object.
+ _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 
 
 ## See also

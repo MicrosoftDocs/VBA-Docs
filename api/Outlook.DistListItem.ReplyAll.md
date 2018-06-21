@@ -17,7 +17,7 @@ Occurs when the user selects the  **ReplyAll** action for an item (which is an i
 
  _expression_. 'ReplyAll'( '_Response_' , '_Cancel_' )
 
- _expression_ A variable that represents a **DistListItem** object.
+ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ### Parameters

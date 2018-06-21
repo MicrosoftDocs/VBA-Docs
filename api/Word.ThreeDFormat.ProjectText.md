@@ -20,7 +20,7 @@ Returns or sets an  **MsoTriState** constant that represents whether text on a s
 
  _expression_. 'ProjectText'
 
- _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## See also

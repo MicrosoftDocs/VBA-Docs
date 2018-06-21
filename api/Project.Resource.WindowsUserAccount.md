@@ -20,7 +20,7 @@ Gets or sets the user account for Microsoft Windows authentication of the resour
 
  _expression_. 'WindowsUserAccount'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
 ## Remarks

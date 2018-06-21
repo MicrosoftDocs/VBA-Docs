@@ -20,7 +20,7 @@ Returns the width of the specified object, in points. Read-only.
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **Master** object.
+ _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
 ### Return Value

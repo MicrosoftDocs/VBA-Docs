@@ -20,7 +20,7 @@ Returns a  **Date** indicating the creation time for the **[SharingItem](Outlook
 
  _expression_. 'CreationTime'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

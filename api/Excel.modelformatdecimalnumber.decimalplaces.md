@@ -18,7 +18,7 @@ Specifies the number of decimal places after the dot. Read/write  **Long**.
 
  _expression_. 'DecimalPlaces'
 
- _expression_ A variable that represents a **ModelFormatDecimalNumber** object.
+ _expression_ A variable that represents a 'ModelFormatDecimalNumber' object.
 
 
 ## See also

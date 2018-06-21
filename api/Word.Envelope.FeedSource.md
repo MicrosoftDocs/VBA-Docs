@@ -20,7 +20,7 @@ Returns or sets the paper tray for the envelope. Read/write  **WdPaperTray** .
 
  _expression_. 'FeedSource'
 
- _expression_ Required. A variable that represents an **[Envelope](Word.Envelope.md)** object.
+ _expression_ Required. A variable that represents an '[Envelope](Word.Envelope.md)' object.
 
 
 ## Example

@@ -17,7 +17,7 @@ Occurs before the  **[SharingItem](Outlook.SharingItem.md)** is automatically sa
 
  _expression_. 'BeforeAutoSave'( '_Cancel_' )
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ### Parameters

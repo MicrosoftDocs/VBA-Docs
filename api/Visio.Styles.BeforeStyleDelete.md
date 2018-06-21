@@ -18,9 +18,9 @@ Occurs before a style is deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeStyleDelete**( **_ByVal Style As [IVSTYLE]_** )
+Private Sub  _expression_ _'BeforeStyleDelete'( **_ByVal Style As [IVSTYLE]_** )
 
- _expression_ A variable that represents a **Styles** object.
+ _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 
 
 ### Parameters

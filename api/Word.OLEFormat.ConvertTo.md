@@ -20,7 +20,7 @@ Converts the specified OLE object from one class to another, making it possible 
 
  _expression_. 'ConvertTo'( '_ClassType_' , '_DisplayAsIcon_' , '_IconFileName_' , '_IconIndex_' , '_IconLabel_' )
 
- _expression_ Required. A variable that represents an **[OLEFormat](Word.OLEFormat.md)** object.
+ _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ### Parameters

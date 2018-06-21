@@ -20,7 +20,7 @@ Displays the  **Move** dialog box, in which the user can specify a new location 
 
  _expression_. 'DisplayMoveDialog'
 
- _expression_ Required. A variable that represents a **[MailMessage](Word.MailMessage.md)** object.
+ _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the category for the specified name in the language of the macro
 
  _expression_. 'Category'
 
- _expression_ A variable that represents a **Name** object.
+ _expression_ A variable that represents a [Name](./Excel.Name.md) object.
 
 
 ## Example

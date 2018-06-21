@@ -20,7 +20,7 @@ Returns the glow formatting properties for the chart element. Read-only  **[Glow
 
  _expression_. 'Glow'
 
- _expression_ A variable that represents a **[ChartFormat](PowerPoint.ChartFormat.md)** object.
+ _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.md)' object.
 
 
 ## Remarks

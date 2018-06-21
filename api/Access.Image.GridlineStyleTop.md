@@ -20,7 +20,7 @@ Gets or sets the top gridline style of the specified image control. Read/write  
 
  _expression_. 'GridlineStyleTop'
 
- _expression_ A variable that represents an **Image** object.
+ _expression_ A variable that represents an [Image](./Access.Image.md) object.
 
 
 ## Remarks

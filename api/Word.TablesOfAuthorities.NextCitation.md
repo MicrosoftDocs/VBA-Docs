@@ -20,7 +20,7 @@ Finds and selects the next instance of the text specified by the ShortCitation p
 
  _expression_. 'NextCitation'( '_ShortCitation_' )
 
- _expression_ Required. A variable that represents a **[TablesOfAuthorities](Word.tablesofauthorities.md)** collection.
+ _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 
 
 ### Parameters

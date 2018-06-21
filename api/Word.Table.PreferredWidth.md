@@ -20,7 +20,7 @@ Returns or sets the preferred width (in points or as a percentage of the window 
 
  _expression_. 'PreferredWidth'
 
- _expression_ An expression that represents a **[Table](Word.Table.md)** object.
+ _expression_ An expression that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks

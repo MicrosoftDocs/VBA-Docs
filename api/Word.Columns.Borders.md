@@ -20,7 +20,7 @@ Returns a  **[Borders](Word.borders.md)** collection that represents all the bor
 
  _expression_. 'Borders'
 
- _expression_ Required. A variable that represents a **[Columns](Word.columns.md)** collection.
+ _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ## Remarks

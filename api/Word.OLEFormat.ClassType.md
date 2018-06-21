@@ -20,7 +20,7 @@ Returns or sets the class type for the specified OLE object, picture, or field. 
 
  _expression_. 'ClassType'
 
- _expression_ A variable that represents a **[OLEFormat](Word.OLEFormat.md)** object.
+ _expression_ A variable that represents a '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ## Remarks

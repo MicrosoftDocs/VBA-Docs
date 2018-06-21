@@ -20,7 +20,7 @@ Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that 
 
  _expression_. 'InsufficientPermissions'
 
- _expression_ A variable that represents a **DependencyInfo** object.
+ _expression_ A variable that represents a [DependencyInfo](./Access.DependencyInfo.md) object.
 
 
 ## Remarks

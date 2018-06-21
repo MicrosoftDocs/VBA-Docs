@@ -20,7 +20,7 @@ Returns or sets the name of the specified object. Read-only  **String** .
 
  _expression_. 'Name'
 
- _expression_ An expression that represents a **[Editor](Word.Editor.md)** object.
+ _expression_ An expression that represents a '[Editor](Word.Editor.md)' object.
 
 
 ## See also

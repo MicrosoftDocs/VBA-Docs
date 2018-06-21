@@ -20,7 +20,7 @@ Returns a  **[Panes](Excel.Panes.md)** collection that represents all the panes 
 
  _expression_. 'Panes'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Remarks

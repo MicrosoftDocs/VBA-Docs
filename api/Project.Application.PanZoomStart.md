@@ -17,6 +17,6 @@ Gets or sets the start date of the Gantt chart view after a pan or zoom operatio
 
  _expression_. 'PanZoomStart'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 

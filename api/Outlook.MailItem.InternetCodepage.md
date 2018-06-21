@@ -20,7 +20,7 @@ Returns or sets a  **Long** that determines the Internet code page used by the i
 
  _expression_. 'InternetCodepage'
 
- _expression_ A variable that represents a **MailItem** object.
+ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

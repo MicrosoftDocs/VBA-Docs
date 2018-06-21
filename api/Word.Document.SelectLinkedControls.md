@@ -20,7 +20,7 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 
  _expression_. 'SelectLinkedControls'( '_Node_' )
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ### Parameters

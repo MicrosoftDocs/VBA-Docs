@@ -20,7 +20,7 @@ Returns or sets the way conflicts are to be resolved whenever a shared workbook 
 
  _expression_. 'ConflictResolution'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Remarks

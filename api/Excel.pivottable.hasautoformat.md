@@ -15,6 +15,6 @@ ms.prod: excel
 
  _expression_. 'HasAutoFormat'
 
- _expression_ A variable that represents a **[PivotTable](Excel.PivotTable.md)** object.
+ _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 

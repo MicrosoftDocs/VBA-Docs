@@ -23,7 +23,7 @@ Deletes a  **GraphicItem** object from the **GraphicItems** collection of a **Ma
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **GraphicItem** object.
+ _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
 ### Return Value

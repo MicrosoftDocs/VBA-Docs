@@ -20,7 +20,7 @@ Makes the formatting of the specified shape the default formatting for the shape
 
  _expression_. 'SetShapesDefaultProperties'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

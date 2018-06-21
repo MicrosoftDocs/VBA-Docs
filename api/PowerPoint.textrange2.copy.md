@@ -15,7 +15,7 @@ Copies a  **TextRange2** object.
 
  _expression_. 'Copy'
 
- _expression_ An expression that returns a **TextRange2** object.
+ _expression_ An expression that returns a 'TextRange2' object.
 
 
 ## See also

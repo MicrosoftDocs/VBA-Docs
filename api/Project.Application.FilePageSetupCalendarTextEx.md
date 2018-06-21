@@ -20,7 +20,7 @@ Formats the text of calendar views for printing, where the text color can be a h
 
  _expression_. 'FilePageSetupCalendarTextEx'( ' _Name_', ' _Item_', ' _Font_', ' _Size_', ' _Bold_', ' _Italic_', ' _Underline_', ' _Color_' )
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Parameters

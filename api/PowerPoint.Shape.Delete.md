@@ -20,7 +20,7 @@ Deletes the specified  **Shape** object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## Example

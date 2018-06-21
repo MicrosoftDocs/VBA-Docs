@@ -20,7 +20,7 @@ Returns or sets the language for the specified text range. Read/write.
 
  _expression_. 'LanguageID'
 
- _expression_ A variable that represents a **TextRange** object.
+ _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ### Return Value

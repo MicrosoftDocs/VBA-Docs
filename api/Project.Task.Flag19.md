@@ -17,7 +17,7 @@ Gets or sets the value of a task flag custom field. Read/write  **Variant**.
 
  _expression_. 'Flag19'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 
 ## Example

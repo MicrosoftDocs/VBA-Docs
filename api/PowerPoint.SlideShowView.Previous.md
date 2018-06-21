@@ -20,7 +20,7 @@ Shows the slide immediately preceding the slide that's currently displayed.
 
  _expression_. 'Previous'
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ## Remarks

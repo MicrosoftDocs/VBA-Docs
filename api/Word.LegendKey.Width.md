@@ -20,7 +20,7 @@ Returns the width, in points, of the object. Read-only  **Double** .
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **[LegendKey](Word.LegendKey.md)** object.
+ _expression_ A variable that represents a '[LegendKey](Word.LegendKey.md)' object.
 
 
 ## See also

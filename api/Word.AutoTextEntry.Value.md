@@ -20,7 +20,7 @@ Returns or sets the value of the AutoText entry. Read/write  **String** .
 
  _expression_. 'Value'
 
- _expression_ Required. A variable that represents an **[AutoTextEntry](Word.AutoTextEntry.md)** object.
+ _expression_ Required. A variable that represents an '[AutoTextEntry](Word.AutoTextEntry.md)' object.
 
 
 ## Remarks

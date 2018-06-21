@@ -20,7 +20,7 @@ Returns or sets the salutation text for a letter created by the Letter Wizard. R
 
  _expression_. 'Salutation'
 
- _expression_ An expression that returns a **[LetterContent](Word.LetterContent.md)** object.
+ _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 
 
 ## Example

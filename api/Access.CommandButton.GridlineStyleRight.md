@@ -20,7 +20,7 @@ Gets or sets the right gridline style of the specified button. Read/write  **Byt
 
  _expression_. 'GridlineStyleRight'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## Remarks

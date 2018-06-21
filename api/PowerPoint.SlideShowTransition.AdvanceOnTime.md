@@ -20,7 +20,7 @@ Determines whether the specified slide advances automatically after a specified 
 
  _expression_. 'AdvanceOnTime'
 
- _expression_ A variable that represents an **SlideShowTransition** object.
+ _expression_ A variable that represents an [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
 
 ### Return Value

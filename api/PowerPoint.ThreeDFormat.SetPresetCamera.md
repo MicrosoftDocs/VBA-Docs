@@ -20,7 +20,7 @@ Specifies the effects camera type and rotation to use for the specified  **Three
 
  _expression_. 'SetPresetCamera'( '_PresetCamera_' )
 
- _expression_ A variable that represents a **ThreeDFormat** object.
+ _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Long** that indicates the foreground color of the control. 
 
  _expression_. 'ForeColor'
 
- _expression_ A variable that represents an **OlkTimeControl** object.
+ _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ## Remarks

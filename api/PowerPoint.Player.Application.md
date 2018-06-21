@@ -20,7 +20,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **Player** object.
+ _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 
 
 ## See also

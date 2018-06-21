@@ -20,7 +20,7 @@ You can use the  **OLEType** property to determine if a control contains an OLE 
 
  _expression_. 'OLEType'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

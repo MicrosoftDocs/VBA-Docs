@@ -20,7 +20,7 @@ You can use the  **ForeColor** property to specify the color for text in a contr
 
  _expression_. 'ForeColor'
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Posts a change to the  **[ExchangeDistributionList](Outlook.ExchangeDistribution
 
  _expression_. 'Update'( '_MakePermanent_' , '_Refresh_' )
 
- _expression_ A variable that represents an **ExchangeDistributionList** object.
+ _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **String** representing the postal code for the **[ExchangeUser](Outl
 
  _expression_. 'PostalCode'
 
- _expression_ A variable that represents an **ExchangeUser** object.
+ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

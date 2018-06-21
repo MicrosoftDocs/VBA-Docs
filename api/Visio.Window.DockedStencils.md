@@ -20,7 +20,7 @@ Returns the names of all stencils docked in a Microsoft Visio drawing window.
 
  _expression_. 'DockedStencils'( '_NameArray()_' )
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Parameters

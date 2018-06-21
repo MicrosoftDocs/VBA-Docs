@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
 
  _expression_. 'Stat'
 
- _expression_ A variable that represents a **DataColumns** object.
+ _expression_ A variable that represents a [DataColumns](./Visio.DataColumns.md) object.
 
 
 ### Return Value

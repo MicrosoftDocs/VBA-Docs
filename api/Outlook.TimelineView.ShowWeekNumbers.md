@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether week number labels a
 
  _expression_. 'ShowWeekNumbers'
 
- _expression_ A variable that represents a **TimelineView** object.
+ _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 
 
 ## Remarks

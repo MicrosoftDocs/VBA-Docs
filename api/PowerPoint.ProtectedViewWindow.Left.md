@@ -20,7 +20,7 @@ Returns or sets the distance in points from the left edge of the specified windo
 
  _expression_. 'Left'
 
- _expression_ A variable that represents a **ProtectedViewWindow** object.
+ _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## Remarks

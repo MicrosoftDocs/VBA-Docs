@@ -20,7 +20,7 @@ Obtains an  **[IPictureDisp](http://msdn.microsoft.com/en-us/library/ms680762%28
 
  _expression_. 'GetPicture'
 
- _expression_ A variable that represents an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
+ _expression_ A variable that represents an '[ExchangeUser](Outlook.ExchangeUser.md)' object.
 
 
 ### Return Value

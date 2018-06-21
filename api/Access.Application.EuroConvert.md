@@ -20,7 +20,7 @@ You can use the  **EuroConvert** function to convert a number to euro or from eu
 
  _expression_. 'EuroConvert'( ' _Number_', ' _SourceCurrency_', ' _TargetCurrency_', ' _FullPrecision_', ' _TriangulationPrecision_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

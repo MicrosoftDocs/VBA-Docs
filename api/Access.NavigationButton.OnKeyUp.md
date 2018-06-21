@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Key Up** box in the **Properties** window
 
  _expression_. 'OnKeyUp'
 
- _expression_ A variable that represents a **NavigationButton** object.
+ _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 
 
 ## Remarks

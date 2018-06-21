@@ -20,7 +20,7 @@ Deletes the object.
 
  _expression_. 'Delete'( '_Shift_' )
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

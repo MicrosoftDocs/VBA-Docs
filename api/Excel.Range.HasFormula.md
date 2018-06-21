@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'HasFormula'
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns a  **String** representing the unique Entry ID of the **[SharingItem](Ou
 
  _expression_. 'EntryID'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ You can use the  **DatasheetFontWeight** property to specify the line width of t
 
  _expression_. 'FontWeight'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the border line style for the specified object. Read/write  **Wd
 
  _expression_. 'LineStyle'
 
- _expression_ Required. A variable that represents a **[Border](Word.Border.md)** object.
+ _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 
 
 ## Remarks

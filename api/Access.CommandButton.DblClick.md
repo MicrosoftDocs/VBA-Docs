@@ -20,7 +20,7 @@ The  **DblClick** event occurs when the user presses and releases the left mouse
 
  _expression_. 'DblClick'( ' _Cancel_' )
 
- _expression_ A variable that represents a **CommandButton** object.
+ _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 
 
 ### Parameters

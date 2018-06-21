@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of font names in the collection. 
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[FontNames](Word.FontNames.md)** collection.
+ _expression_ Required. A variable that represents a '[FontNames](Word.FontNames.md)' collection.
 
 
 ## See also

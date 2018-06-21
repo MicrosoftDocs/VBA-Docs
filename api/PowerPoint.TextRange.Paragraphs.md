@@ -20,7 +20,7 @@ Returns a  **TextRange** object that represents the specified subset of text par
 
  _expression_. 'Paragraphs'( '_Start_', '_Length_' )
 
- _expression_ An expression that returns a **TextRange** object.
+ _expression_ An expression that returns a [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ### Parameters

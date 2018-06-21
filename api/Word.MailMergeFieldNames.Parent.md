@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Mail
 
  _expression_. 'Parent'
 
- _expression_ An expression that returns a **MailMergeFieldNames** object.
+ _expression_ An expression that returns a [MailMergeFieldNames](./Word.MailMergeFieldNames.md) object.
 
 
 ## See also

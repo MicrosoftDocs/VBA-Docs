@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the title of a Web style sheet. Read/
 
  _expression_. 'Title'
 
- _expression_ Required. A variable that represents a **[StyleSheet](Word.StyleSheet.md)** object.
+ _expression_ Required. A variable that represents a '[StyleSheet](Word.StyleSheet.md)' object.
 
 
 ## Example

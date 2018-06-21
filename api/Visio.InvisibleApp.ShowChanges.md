@@ -20,7 +20,7 @@ Determines whether the screen is updated (redrawn) during a series of actions. R
 
  _expression_. 'ShowChanges'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

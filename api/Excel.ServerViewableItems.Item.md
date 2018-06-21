@@ -20,7 +20,7 @@ Returns a single object from the  **[ServerViewableItems](Excel.ServerViewableIt
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **ServerViewableItems** object.
+ _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
 
 
 ### Parameters

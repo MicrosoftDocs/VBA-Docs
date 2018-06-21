@@ -20,7 +20,7 @@ Returns or sets a  **String** representing a free-form field, usually containing
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **JournalItem** object.
+ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## See also

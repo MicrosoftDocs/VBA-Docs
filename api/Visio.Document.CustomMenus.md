@@ -20,7 +20,7 @@ Gets a  **UIObject** object that represents the current custom menus and acceler
 
  _expression_. 'CustomMenus'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

@@ -17,6 +17,6 @@ Gets the remaining cost for the resource. Read-only  **Variant**.
 
  _expression_. 'RemainingCost'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

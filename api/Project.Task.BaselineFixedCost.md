@@ -17,6 +17,6 @@ Gets or sets the baseline fixed cost of any nonresource expense for a  **Task**.
 
  _expression_. 'BaselineFixedCost'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

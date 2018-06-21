@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object specifying the cell range t
 
  _expression_. 'AppliesTo'
 
- _expression_ A variable that represents a **UniqueValues** object.
+ _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
 
 
 ## See also

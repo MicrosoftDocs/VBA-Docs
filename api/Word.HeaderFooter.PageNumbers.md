@@ -20,7 +20,7 @@ Returns a  **[PageNumbers](Word.pagenumbers.md)** collection that represents all
 
  _expression_. 'PageNumbers'
 
- _expression_ An expression that returns a **[HeaderFooter](Word.HeaderFooter.md)** object.
+ _expression_ An expression that returns a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
 
 ## Remarks

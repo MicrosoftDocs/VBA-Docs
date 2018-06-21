@@ -20,7 +20,7 @@ Represents the type of placeholder. Read-only.
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **PlaceholderFormat** object.
+ _expression_ A variable that represents a [PlaceholderFormat](./PowerPoint.PlaceholderFormat.md) object.
 
 
 ### Return Value

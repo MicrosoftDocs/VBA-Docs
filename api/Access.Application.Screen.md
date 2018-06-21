@@ -20,7 +20,7 @@ You can use the  **Screen** property to return a reference the **[Screen](Access
 
  _expression_. 'Screen'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ## Remarks

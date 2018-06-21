@@ -20,7 +20,7 @@ Clears the  **[PostItem](Outlook.PostItem.md)** object as a task.
 
  _expression_. 'ClearTaskMark'
 
- _expression_ An expression that returns a **PostItem** object.
+ _expression_ An expression that returns a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## Remarks

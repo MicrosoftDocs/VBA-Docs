@@ -20,7 +20,7 @@ Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the
 
  _expression_. 'SortFields'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## See also

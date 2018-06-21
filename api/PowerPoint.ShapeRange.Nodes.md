@@ -20,7 +20,7 @@ Returns a  **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection that represents
 
  _expression_. 'Nodes'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
  _expression_. 'Class'
 
- _expression_ A variable that represents a **Reminders** object.
+ _expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
 
 
 ## See also

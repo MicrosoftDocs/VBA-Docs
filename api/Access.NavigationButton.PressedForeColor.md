@@ -20,7 +20,7 @@ Gets or sets the color of the text displayed on the control when the user clicks
 
  _expression_. 'PressedForeColor'
 
- _expression_ A variable that represents a **NavigationButton** object.
+ _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 
 
 ## Remarks

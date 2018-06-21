@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the contents of an equation auto c
 
  _expression_. 'Value'
 
- _expression_ An expression that returns an **OMathAutoCorrectEntry** object.
+ _expression_ An expression that returns an [OMathAutoCorrectEntry](./Word.OMathAutoCorrectEntry.md) object.
 
 
 ## See also

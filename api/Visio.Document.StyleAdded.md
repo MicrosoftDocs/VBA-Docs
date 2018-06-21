@@ -18,9 +18,9 @@ Occurs after a new style is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**StyleAdded**( **_ByVal Style As [IVSTYLE]_** )
+Private Sub  _expression_ _'StyleAdded'( **_ByVal Style As [IVSTYLE]_** )
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **ListGalleries** collection that represents the three list template 
 
  _expression_. 'ListGalleries'
 
- _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

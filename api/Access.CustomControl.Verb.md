@@ -20,7 +20,7 @@ You can use the  **Verb** property to specify the operation to perform when an O
 
  _expression_. 'Verb'
 
- _expression_ A variable that represents a **CustomControl** object.
+ _expression_ A variable that represents a [CustomControl](./Access.CustomControl.md) object.
 
 
 ## Remarks

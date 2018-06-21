@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the street portion of the other addre
 
  _expression_. 'OtherAddressStreet'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

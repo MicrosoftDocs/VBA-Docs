@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that represents the distance between the level
 
  _expression_. 'Offset'
 
- _expression_ A variable that represents a **TickLabels** object.
+ _expression_ A variable that represents a [TickLabels](./Excel.TickLabels(Graph property).md) object.
 
 
 ## Remarks

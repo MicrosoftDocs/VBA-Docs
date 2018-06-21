@@ -20,7 +20,7 @@ Gets or sets the position of an object. Read/write.
 
  _expression_. 'Position'
 
- _expression_ A variable that represents a **Toolbar** object.
+ _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
 
 ### Return Value

@@ -18,7 +18,7 @@ Returns an integer that represents the number of objects in the collection.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Queries** object.
+ _expression_ A variable that represents a 'Queries' object.
 
 
 ## See also

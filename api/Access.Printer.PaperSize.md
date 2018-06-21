@@ -20,7 +20,7 @@ Returns or sets an  **[AcPrintPaperSize](Access.AcPrintPaperSize.md)** constant 
 
  _expression_. 'PaperSize'
 
- _expression_ A variable that represents a **Printer** object.
+ _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 
 
 ## Example

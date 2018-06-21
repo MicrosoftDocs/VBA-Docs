@@ -20,7 +20,7 @@ Adds another timescale data field to a usage view.
 
  _expression_. 'DetailStylesAdd'( ' _Item_', ' _Position_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

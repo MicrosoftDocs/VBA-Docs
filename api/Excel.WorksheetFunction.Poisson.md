@@ -28,7 +28,7 @@ For more information about the new function, see the [Poisson_Dist](Excel.Worksh
 
  _expression_. 'Poisson'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
 
- _expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
+ _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ### Parameters

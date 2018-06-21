@@ -17,6 +17,6 @@ Gets or sets the default start time for the project. Read/write  **Variant**.
 
  _expression_. 'DefaultStartTime'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

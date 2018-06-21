@@ -20,7 +20,7 @@ Determines whether undo information is maintained in memory. Read/write.
 
  _expression_. 'UndoEnabled'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

@@ -18,7 +18,7 @@ Returns a  **[XlCategoryLabelLevel Enumeration (Excel)](xlcategorylabellevel-enu
 
  _expression_. 'CategoryLabelLevel'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ## Remarks

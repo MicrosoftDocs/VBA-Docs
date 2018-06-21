@@ -20,7 +20,7 @@ Returns the modified Bessel function, which is equivalent to the Bessel function
 
  _expression_. 'BesselI'( '_Arg1_' , '_Arg2_' )
 
- _expression_ A variable that represents a **WorksheetFunction** object.
+ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters

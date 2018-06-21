@@ -20,7 +20,7 @@ Returns or sets a  **Date** value that represents the start date of the task for
 
  _expression_. 'TaskStartDate'
 
- _expression_ An expression that returns a **MailItem** object.
+ _expression_ An expression that returns a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

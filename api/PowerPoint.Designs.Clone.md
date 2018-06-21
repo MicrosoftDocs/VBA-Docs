@@ -20,7 +20,7 @@ Creates a copy of a  **[Design](PowerPoint.Design.md)** object.
 
  _expression_. 'Clone'( '_pOriginal_', '_Index_' )
 
- _expression_ A variable that represents a **Designs** object.
+ _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 
 
 ### Parameters

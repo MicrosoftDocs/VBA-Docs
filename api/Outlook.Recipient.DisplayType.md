@@ -20,7 +20,7 @@ Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)
 
  _expression_. 'DisplayType'
 
- _expression_ A variable that represents a **Recipient** object.
+ _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
 
 
 ## Remarks

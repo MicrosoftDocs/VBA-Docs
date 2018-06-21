@@ -20,7 +20,7 @@ Returns or sets whether the fill rotates with the specified shape. Read/write.
 
  _expression_. 'RotateWithObject'
 
- _expression_ An expression that returns a **FillFormat** object.
+ _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ## Remarks

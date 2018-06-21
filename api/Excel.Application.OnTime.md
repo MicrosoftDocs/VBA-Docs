@@ -20,7 +20,7 @@ Schedules a procedure to be run at a specified time in the future (either at a s
 
  _expression_. 'OnTime'( '_EarliestTime_' , '_Procedure_' , '_LatestTime_' , '_Schedule_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

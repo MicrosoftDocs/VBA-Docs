@@ -20,7 +20,7 @@ Creates a new SmartArt graphic with the specified layout.
 
  _expression_. 'AddSmartArt'( '_Layout_' , '_Left_' , '_Top_' , '_Width_' , '_Height_' )
 
- _expression_ A variable that represents a **[Shapes](Excel.Shapes.md)** collection.
+ _expression_ A variable that represents a '[Shapes](Excel.Shapes.md)' collection.
 
 
 ### Parameters

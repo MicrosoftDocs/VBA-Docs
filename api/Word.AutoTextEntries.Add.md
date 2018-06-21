@@ -20,7 +20,7 @@ Returns an  **AutoTextEntry** object that represents an AutoText entry added to 
 
  _expression_. 'Add'( '_Name_' , '_Range_' )
 
- _expression_ Required. A variable that represents an **[AutoTextEntries](Word.autotextentries.md)** collection.
+ _expression_ Required. A variable that represents an '[AutoTextEntries](Word.autotextentries.md)' collection.
 
 
 ### Parameters

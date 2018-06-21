@@ -20,7 +20,7 @@ Gets or sets the Help string for a shape. Read/write.
 
  _expression_. 'Help'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

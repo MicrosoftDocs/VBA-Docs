@@ -20,7 +20,7 @@ Gets or sets the alignment of data in a table field. Read/write  **PjAlignment**
 
  _expression_. 'AlignData'
 
- _expression_ A variable that represents a **TableField** object.
+ _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 
 
 ## Remarks

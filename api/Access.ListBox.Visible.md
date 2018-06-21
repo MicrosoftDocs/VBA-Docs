@@ -20,7 +20,7 @@ Returns or sets whether the object is visible. Read/write  **Boolean**.
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **ListBox** object.
+ _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 
 
 ## Remarks

@@ -16,7 +16,7 @@ Gets an  **Office.IMsoLegend** object that represents the legend for a chart. Re
 
  _expression_. 'Legend'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Example

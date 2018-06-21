@@ -20,7 +20,7 @@ Returns the parent  **Object** of the **[SimpleItems](Outlook.SimpleItems.md)** 
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **SimpleItems** object.
+ _expression_ A variable that represents a [SimpleItems](./Outlook.SimpleItems.md) object.
 
 
 ## Remarks

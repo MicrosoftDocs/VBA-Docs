@@ -18,9 +18,9 @@ Occurs when a keyboard key is released.
 
 ## Syntax
 
-Private Sub  _expression_ _**KeyUp**( **_ByVal KeyCode As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal CancelDefault As Boolean_** )
+Private Sub  _expression_ _'KeyUp'( **_ByVal KeyCode As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal CancelDefault As Boolean_** )
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Parameters

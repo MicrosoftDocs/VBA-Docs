@@ -20,7 +20,7 @@ Creates a new frames page based on the specified pane.
 
  _expression_. 'NewFrameset'
 
- _expression_ Required. A variable that represents a **[Pane](Word.Pane.md)** object.
+ _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
 ## Remarks

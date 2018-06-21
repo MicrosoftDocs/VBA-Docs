@@ -20,7 +20,7 @@ Returns or sets the document encoding (code page or character set) to be used by
 
  _expression_. 'Encoding'
 
- _expression_ Required. A variable that represents a **[WebOptions](Word.WebOptions.md)** collection.
+ _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 
 
 ## Example

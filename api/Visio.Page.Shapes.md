@@ -20,7 +20,7 @@ Returns the  **Shapes** collection for a page, master, or group. Read-only.
 
  _expression_. 'Shapes'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

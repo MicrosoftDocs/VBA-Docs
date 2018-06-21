@@ -20,7 +20,7 @@ Returns an individual  **Column** object in a collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[Columns](Word.columns.md)** collection.
+ _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ### Parameters

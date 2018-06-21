@@ -20,7 +20,7 @@ Sends a workbook in an e-mail message for review to the specified recipients.
 
  _expression_. 'SendForReview'( '_Recipients_' , '_Subject_' , '_ShowMessage_' , '_IncludeAttachment_' )
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Parameters

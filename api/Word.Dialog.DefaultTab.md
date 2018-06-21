@@ -20,7 +20,7 @@ Returns or sets the active tab when the specified dialog box is displayed. Read/
 
  _expression_. 'DefaultTab'
 
- _expression_ Required. A variable that represents a **[Dialog](Word.Dialog.md)** object.
+ _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 
 
 ## Example

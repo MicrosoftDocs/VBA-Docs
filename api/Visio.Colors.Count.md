@@ -20,7 +20,7 @@ Returns the number of objects in a collection. Read-only.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **Colors** object.
+ _expression_ A variable that represents a [Colors](./Visio.Colors.md) object.
 
 
 ### Return Value

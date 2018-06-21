@@ -20,7 +20,7 @@ Creates a  **[CalendarSharing](Outlook.CalendarSharing.md)** object for the spec
 
  _expression_. 'GetCalendarExporter'
 
- _expression_ An expression that returns a **Folder** object.
+ _expression_ An expression that returns a [Folder](./Outlook.Folder.md) object.
 
 
 ### Return Value

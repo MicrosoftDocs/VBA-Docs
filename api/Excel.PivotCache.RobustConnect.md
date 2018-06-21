@@ -20,7 +20,7 @@ Returns or sets how the PivotTable cache connects to its data source. Read/write
 
  _expression_. 'RobustConnect'
 
- _expression_ A variable that represents a **PivotCache** object.
+ _expression_ A variable that represents a [PivotCache](./Excel.PivotCache.md) object.
 
 
 ## Remarks

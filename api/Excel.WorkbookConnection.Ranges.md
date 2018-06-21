@@ -20,7 +20,7 @@ Returns the range of object for the specified  **WorkbookConnection** object. Re
 
  _expression_. 'Ranges'
 
- _expression_ A variable that represents a **WorkbookConnection** object.
+ _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of XML elements in the collection
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[XMLNodes](Word.XMLNodes.md)** collection.
+ _expression_ Required. A variable that represents a '[XMLNodes](Word.XMLNodes.md)' collection.
 
 
 ## See also

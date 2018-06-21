@@ -20,7 +20,7 @@ Returns a **Boolean** that represents whether a style is a linked style that can
 
  _expression_. 'Linked'
 
- _expression_ An expression that returns a **Style** object.
+ _expression_ An expression that returns a [Style](./Word.Style.md) object.
 
 
 ## Remarks

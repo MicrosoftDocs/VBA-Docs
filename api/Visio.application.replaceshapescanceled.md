@@ -15,7 +15,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
  _expression_. 'ReplaceShapesCanceled'_(replaceShapes)_
 
- _expression_ A variable that represents a **Application** object.
+ _expression_ A variable that represents a [Application](./Visio.Application.md) object.
 
 
 ### Parameters

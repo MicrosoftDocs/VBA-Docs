@@ -20,7 +20,7 @@ Returns a single  **Shape** object from the specified **ShapeRange** collection.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
 ### Parameters

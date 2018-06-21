@@ -13,7 +13,7 @@ Gets the [Application Object (Project)](application-object-project.md) object. R
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **ShapeRange** object.
+ _expression_ A variable that represents a 'ShapeRange' object.
 
 
 ## Property value

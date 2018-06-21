@@ -20,7 +20,7 @@ Moves the ending character position of a range. .
 
  _expression_. 'MoveEnd'( '_Unit_' , '_Count_' )
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

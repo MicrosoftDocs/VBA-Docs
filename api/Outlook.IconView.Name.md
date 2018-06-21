@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
  _expression_. 'Name'
 
- _expression_ A variable that represents an **IconView** object.
+ _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
 
 
 ## See also

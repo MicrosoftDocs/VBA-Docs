@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the text of a comment assigned to the
 
  _expression_. 'Comment'
 
- _expression_ A variable that represents a **FormDescription** object.
+ _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 
 
 ## See also

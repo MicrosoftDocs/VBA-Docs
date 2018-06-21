@@ -20,7 +20,7 @@ You can use the  **ScaleLeft** property to specify the units for the horizontal 
 
  _expression_. 'ScaleLeft'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

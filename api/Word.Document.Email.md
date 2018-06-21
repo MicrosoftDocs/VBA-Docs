@@ -20,7 +20,7 @@ Returns an  **[Email](Word.Email.md)** object that contains all the e-mail-relat
 
  _expression_. 'Email'
 
- _expression_ A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ## Example

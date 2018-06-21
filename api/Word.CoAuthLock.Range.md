@@ -20,7 +20,7 @@ Returns a [Range](Word.Range.md) object that represents the portion of a documen
 
  _expression_. 'Range'
 
- _expression_ An expression that returns a **[CoAuthLock](Word.CoAuthLock.md)** object.
+ _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 
 
 ## Example

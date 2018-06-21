@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents angle of the lighting. Read/write.
 
  _expression_. 'LightAngle'
 
- _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## See also

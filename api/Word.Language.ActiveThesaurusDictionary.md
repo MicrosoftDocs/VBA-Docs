@@ -20,7 +20,7 @@ Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the activ
 
  _expression_. 'ActiveThesaurusDictionary'
 
- _expression_ An expression that returns a **[Language](Word.Language.md)** object.
+ _expression_ An expression that returns a '[Language](Word.Language.md)' object.
 
 
 ## Remarks

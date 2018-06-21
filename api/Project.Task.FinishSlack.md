@@ -20,6 +20,6 @@ Gets or sets the finish slack of a task in minutes. Read-only  **Variant**.
 
  _expression_. 'FinishSlack'
 
- _expression_ A variable that represents a **Task** object.
+ _expression_ A variable that represents a [Task](./Project.Task.md) object.
 
 

@@ -20,7 +20,7 @@ You can use the  **SelTop** property to specify or determine which row (record) 
 
  _expression_. 'SelTop'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

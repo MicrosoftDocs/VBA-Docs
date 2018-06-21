@@ -20,7 +20,7 @@ Returns a  **Long** that represents a random number that Word assigns to changes
 
  _expression_. 'CurrentRsid'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

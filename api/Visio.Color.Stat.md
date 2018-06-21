@@ -20,7 +20,7 @@ Returns status information for an object. Read-only.
 
  _expression_. 'Stat'
 
- _expression_ A variable that represents a **Color** object.
+ _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets the worksheet range used to fill the specified list box. Setting
 
  _expression_. 'ListFillRange'
 
- _expression_ A variable that represents a **ControlFormat** object.
+ _expression_ A variable that represents a [ControlFormat](./Excel.ControlFormat.md) object.
 
 
 ## Remarks

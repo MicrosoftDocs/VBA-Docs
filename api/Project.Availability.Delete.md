@@ -17,6 +17,6 @@ Deletes the  **Availability** object from an **Availabilities** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents an **Availability** object.
+ _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 
 

@@ -20,7 +20,7 @@ Occurs when the control is clicked, either through user action or programmatical
 
  _expression_. 'Click'
 
- _expression_ A variable that represents an **OlkSenderPhoto** object.
+ _expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
 
 
 ## See also

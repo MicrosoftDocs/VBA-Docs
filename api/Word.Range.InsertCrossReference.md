@@ -20,7 +20,7 @@ Inserts a cross-reference to a heading, bookmark, footnote, or endnote, or to an
 
  _expression_. 'InsertCrossReference'( '_ReferenceType_' , '_ReferenceKind_' , '_ReferenceItem_' , '_InsertAsHyperlink_' , '_IncludePosition_' , '_SeparateNumbers_' , '_SeparatorString_' )
 
- _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
+ _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
 ### Parameters

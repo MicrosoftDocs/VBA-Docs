@@ -20,7 +20,7 @@ Returns a  **KeyBindings** collection that represents customized key assignments
 
  _expression_. 'KeyBindings'
 
- _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Example

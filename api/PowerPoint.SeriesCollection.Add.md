@@ -20,7 +20,7 @@ Adds one or more new series to the collection.
 
  _expression_. 'Add'( '_Source_', '_Rowcol_', '_SeriesLabels_', '_CategoryLabels_', '_Replace_' )
 
- _expression_ A variable that represents a **[SeriesCollection](PowerPoint.SeriesCollection.md)** object.
+ _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets the direction in which Microsoft Word orders cells in the specif
 
  _expression_. 'TableDirection'
 
- _expression_ Required. A variable that represents a **[Table](Word.Table.md)** object.
+ _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Fills the specified shape with one large image.
 
  _expression_. 'UserPicture'( '_PictureFile_' )
 
- _expression_ A variable that represents an **FillFormat** object.
+ _expression_ A variable that represents an [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
 ### Parameters

@@ -18,7 +18,7 @@ Returns a [ModelFormatGeneral](Excel.modelformatgeneral.md) object that represen
 
  _expression_. 'ModelFormatGeneral'
 
- _expression_ A variable that represents a **Model** object.
+ _expression_ A variable that represents a 'Model' object.
 
 
 ## See also

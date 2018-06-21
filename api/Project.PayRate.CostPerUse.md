@@ -17,7 +17,7 @@ Gets or sets the cost per use for the pay rate. Read/write  **Variant**.
 
  _expression_. 'CostPerUse'
 
- _expression_ A variable that represents a **PayRate** object.
+ _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 
 
 ## Remarks

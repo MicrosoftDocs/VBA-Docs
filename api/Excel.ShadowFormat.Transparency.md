@@ -20,7 +20,7 @@ Returns or sets the degree of transparency of the specified fill as a value from
 
  _expression_. 'Transparency'
 
- _expression_ A variable that represents a **ShadowFormat** object.
+ _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 
 
 ## Remarks

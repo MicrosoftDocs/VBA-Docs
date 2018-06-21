@@ -20,7 +20,7 @@ Returns the **[Recipient](Outlook.Recipient.md)** object that is identified by t
 
  _expression_. 'GetRecipientFromID'( '_EntryID_' )
 
- _expression_ A variable that represents an **[Account](Outlook.Account.md)** object.
+ _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ### Parameters

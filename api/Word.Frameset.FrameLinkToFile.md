@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'FrameLinkToFile'
 
- _expression_ A variable that represents a **[Frameset](Word.Frameset.md)** object.
+ _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets a value that represents a color in the applied color theme associat
 
  _expression_. 'BorderThemeColorIndex'
 
- _expression_ A variable that represents a **SubForm** object.
+ _expression_ A variable that represents a [SubForm](./Access.SubForm.md) object.
 
 
 ## Remarks

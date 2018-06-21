@@ -20,7 +20,7 @@ Returns a constant,  **olRuleActionPlaySound** , from the **[OlRuleActionType](O
 
  _expression_. 'ActionType'
 
- _expression_ A variable that represents a **PlaySoundRuleAction** object.
+ _expression_ A variable that represents a [PlaySoundRuleAction](./Outlook.PlaySoundRuleAction.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether automatic placeholder tex
 
  _expression_. 'ShowPlaceholderText'
 
- _expression_ An expression that returns an **[XMLSchemaReferences](Word.XMLSchemaReferences.md)** collection.
+ _expression_ An expression that returns an '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
 
 
 ## Remarks

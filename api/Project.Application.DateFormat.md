@@ -20,7 +20,7 @@ Returns a date in the specified format.
 
  _expression_. 'DateFormat'( ' _Date_', ' _Format_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

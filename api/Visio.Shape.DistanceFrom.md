@@ -20,7 +20,7 @@ Returns the distance from one shape to another, measured between the closest poi
 
  _expression_. 'DistanceFrom'( '_OtherShape_' , '_Flags_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

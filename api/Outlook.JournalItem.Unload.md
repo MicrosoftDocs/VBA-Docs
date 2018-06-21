@@ -17,7 +17,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
  _expression_. 'Unload'
 
- _expression_ A variable that represents a **JournalItem** object.
+ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **NewFile** object that represents a document listed on the **New** t
 
  _expression_. 'NewDocument'
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object.
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
 ## Example

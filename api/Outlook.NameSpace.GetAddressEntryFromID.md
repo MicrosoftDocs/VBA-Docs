@@ -20,7 +20,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents t
 
  _expression_. 'GetAddressEntryFromID'( '_ID_' )
 
- _expression_ A variable that represents a **[NameSpace](Outlook.NameSpace.md)** object.
+ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ### Parameters

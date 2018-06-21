@@ -20,7 +20,7 @@ Returns a reference to a control's **[Properties](Access.Properties.md)** collec
 
  _expression_. 'Properties'
 
- _expression_ A variable that represents an **EmptyCell** object.
+ _expression_ A variable that represents an [EmptyCell](./Access.EmptyCell.md) object.
 
 
 ## Remarks

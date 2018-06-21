@@ -20,7 +20,7 @@ Shows any ignored warnings for tasks; turns on the warning symbol in the  **Indi
 
  _expression_. 'ShowIgnoredTaskWarnings'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Return Value

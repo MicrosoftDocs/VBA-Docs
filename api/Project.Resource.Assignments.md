@@ -17,6 +17,6 @@ Gets an  **[Assignments](Project.Assignment.md)** collection representing the as
 
  _expression_. 'Assignments'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

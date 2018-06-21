@@ -20,7 +20,7 @@ Returns a  **String** representing the full name and company of the contact by c
 
  _expression_. 'FullNameAndCompany'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

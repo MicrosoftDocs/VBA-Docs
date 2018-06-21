@@ -20,7 +20,7 @@ Determines if the current section will continue on the following page. Read/writ
 
  _expression_. 'WillContinue'
 
- _expression_ A variable that represents a **Section** object.
+ _expression_ A variable that represents a [Section](./Access.Section.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Converts an equation with a base superscript or subscript to an equation with a 
 
  _expression_. 'ToScrPre'
 
- _expression_ An expression that returns a **OMathScrSubSup** object.
+ _expression_ An expression that returns a [OMathScrSubSup](./Word.OMathScrSubSup.md) object.
 
 
 ### Return Value

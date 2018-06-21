@@ -20,7 +20,7 @@ Returns a  **[Ruler](PowerPoint.Ruler.md)** object that represents the ruler for
 
  _expression_. 'Ruler'
 
- _expression_ A variable that represents a **TextFrame** object.
+ _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 
 
 ### Return Value

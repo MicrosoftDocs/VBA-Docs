@@ -20,7 +20,7 @@ Returns the first object in the  **[AddressEntries](Outlook.AddressEntries.md)**
 
  _expression_. 'GetFirst'
 
- _expression_ A variable that represents an **AddressEntries** object.
+ _expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
 
 
 ### Return Value

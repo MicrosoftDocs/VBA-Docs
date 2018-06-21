@@ -20,7 +20,7 @@ Returns a collection of all the points in the series.
 
  _expression_. 'Points'( '_Index_' )
 
- _expression_ A variable that represents a **[Series](PowerPoint.Series.md)** object.
+ _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
 ### Parameters

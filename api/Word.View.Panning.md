@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word is in Pann
 
  _expression_. 'Panning'
 
- _expression_ An expression that returns a **View** object.
+ _expression_ An expression that returns a [View](./Word.View.md) object.
 
 
 ## Remarks

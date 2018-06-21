@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'EnableDataValueEditing'
 
- _expression_ A variable that represents a **PivotTable** object.
+ _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 
 
 ## Remarks

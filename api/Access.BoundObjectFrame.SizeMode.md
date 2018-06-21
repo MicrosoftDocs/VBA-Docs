@@ -20,7 +20,7 @@ You can use the  **SizeMode** property to specify how to size a picture or other
 
  _expression_. 'SizeMode'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

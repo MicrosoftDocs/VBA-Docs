@@ -20,7 +20,7 @@ Determines the zoom behavior for all new Microsoft Visio documents and drawing w
 
  _expression_. 'DefaultZoomBehavior'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

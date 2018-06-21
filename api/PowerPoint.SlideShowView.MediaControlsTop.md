@@ -20,7 +20,7 @@ Returns the distance, in points, from the top edge of the media control bounding
 
  _expression_. 'MediaControlsTop'
 
- _expression_ A variable that represents a **SlideShowView** object.
+ _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
 ### Return Value

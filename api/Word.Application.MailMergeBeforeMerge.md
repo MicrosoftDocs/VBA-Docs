@@ -20,7 +20,7 @@ Occurs when a merge is executed before any records merge.
 
  _expression_. 'Private Sub object_MailMergeBeforeMerge'( '_ByVal Doc As Document_' , '_ByVal StartRecord As Long_' , '_ByVal EndRecord As Long_' , '_Cancel As Boolean_' )
 
- _expression_ A variable that represents an **[Application](Word.Application.md)** object that has been declared with events in a class module. For information about using events with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
+ _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
 
 
 ### Parameters

@@ -17,7 +17,7 @@ Gets the index of a  **CostRateTable** object in the containing **CostRateTables
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **CostRateTable** object.
+ _expression_ A variable that represents a [CostRateTable](./Project.CostRateTable.md) object.
 
 
 ## Remarks

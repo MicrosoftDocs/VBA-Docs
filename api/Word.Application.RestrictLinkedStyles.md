@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word allows lin
 
  _expression_. 'RestrictLinkedStyles'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Word.Application.md) object.
 
 
 ## Remarks

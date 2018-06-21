@@ -20,7 +20,7 @@ Returns or sets a  **Long** that indicates the background color of the control. 
 
  _expression_. 'BackColor'
 
- _expression_ A variable that represents an **OlkTextBox** object.
+ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether a user can modify th
 
  _expression_. 'LockUserChanges'
 
- _expression_ An expression that returns a **BusinessCardView** object.
+ _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 
 
 ## Remarks

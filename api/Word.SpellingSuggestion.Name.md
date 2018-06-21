@@ -20,7 +20,7 @@ Returns the name of the specified object. Read-only  **String** .
 
  _expression_. 'Name'
 
- _expression_ Required. A variable that represents a **[SpellingSuggestion](Word.SpellingSuggestion.md)** object.
+ _expression_ Required. A variable that represents a '[SpellingSuggestion](Word.SpellingSuggestion.md)' object.
 
 
 ## See also

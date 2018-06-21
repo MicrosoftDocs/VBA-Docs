@@ -20,7 +20,7 @@ Returns a [CoAuthoring](Word.CoAuthoring.md) object that provides the entry poin
 
  _expression_. 'CoAuthoring'
 
- _expression_ An expression that returns a **[Document](Word.Document.md)** object.
+ _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
 ## Remarks

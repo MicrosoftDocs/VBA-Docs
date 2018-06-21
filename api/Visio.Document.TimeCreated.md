@@ -20,7 +20,7 @@ Returns the date and time the document was created. Read-only.
 
  _expression_. 'TimeCreated'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

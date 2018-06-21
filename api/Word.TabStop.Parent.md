@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **TabS
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[TabStop](Word.TabStop.md)** object.
+ _expression_ Required. A variable that represents a '[TabStop](Word.TabStop.md)' object.
 
 
 ## See also

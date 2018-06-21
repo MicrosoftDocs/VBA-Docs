@@ -20,7 +20,7 @@ Sets the internal XML value for a custom ribbon user interface of the project.
 
  _expression_. 'SetCustomUI'( ' _CustomUIXML_' )
 
- _expression_ An expression that returns a **Project** object.
+ _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **[ViewFields](Outlook.ViewFields.md)** object that represents the se
 
  _expression_. 'ViewFields'
 
- _expression_ A variable that represents a **CardView** object.
+ _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
 
 
 ## See also

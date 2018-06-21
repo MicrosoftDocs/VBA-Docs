@@ -20,7 +20,7 @@ Returns the parent object of the  **[PropertyAccessor](Outlook.PropertyAccessor.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **PropertyAccessor** object.
+ _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
 ## See also

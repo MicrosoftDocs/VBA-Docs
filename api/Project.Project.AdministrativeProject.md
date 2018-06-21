@@ -20,6 +20,6 @@ In Microsoft Project 2003, indicates whether the project is an administrative pr
 
  _expression_. 'AdministrativeProject'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

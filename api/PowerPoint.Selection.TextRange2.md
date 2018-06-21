@@ -20,7 +20,7 @@ Returns the  **TextRange2** object of the current **Selection** object. Read-onl
 
  _expression_. 'TextRange2'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Gets the collection of Microsoft SharePoint Foundation 2010 groups of which the 
 
  _expression_. 'CurrentWebUserGroups'( ' _DisplayOption_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

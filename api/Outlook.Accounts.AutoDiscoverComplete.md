@@ -20,7 +20,7 @@ Occurs after Microsoft Outlook has finished accessing the auto-discovery service
 
  _expression_. 'AutoDiscoverComplete'( '_Account_' )
 
- _expression_ A variable that represents an **[Accounts](Outlook.Accounts.md)** object.
+ _expression_ A variable that represents an '[Accounts](Outlook.Accounts.md)' object.
 
 
 ### Parameters

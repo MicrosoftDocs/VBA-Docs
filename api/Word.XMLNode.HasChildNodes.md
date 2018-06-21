@@ -20,7 +20,7 @@ Returns a  **Boolean** that represents whether an XML node has child nodes. Read
 
  _expression_. 'HasChildNodes'
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ## See also

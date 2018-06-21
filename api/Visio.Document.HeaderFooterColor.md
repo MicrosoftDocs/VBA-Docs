@@ -20,7 +20,7 @@ Specifies the color of the header and footer text. Read/write.
 
  _expression_. 'HeaderFooterColor'
 
- _expression_ A variable that represents a **Document** object.
+ _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

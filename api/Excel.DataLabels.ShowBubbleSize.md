@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowBubbleSize'
 
- _expression_ An expression that returns a **DataLabels** object.
+ _expression_ An expression that returns a [DataLabels](./Excel.DataLabels(object).md) object.
 
 
 ## Remarks

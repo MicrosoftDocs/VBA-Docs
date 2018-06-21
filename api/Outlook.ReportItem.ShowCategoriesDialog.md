@@ -20,7 +20,7 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
  _expression_. 'ShowCategoriesDialog'
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether the grouping character is
 
  _expression_. 'AlignTop'
 
- _expression_ An expression that returns an **[OMathGroupChar](Word.OMathGroupChar.md)** object.
+ _expression_ An expression that returns an '[OMathGroupChar](Word.OMathGroupChar.md)' object.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ Gets an  **Office.IMsoDataTable** object that represents the chart data table. R
 
  _expression_. 'DataTable'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a 'Chart' object.
 
 
 ## Remarks

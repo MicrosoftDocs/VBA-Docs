@@ -20,7 +20,7 @@ Returns or sets the name of the procedure that's run whenever you activate a win
 
  _expression_. 'OnWindow'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Remarks

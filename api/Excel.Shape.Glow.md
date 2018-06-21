@@ -20,7 +20,7 @@ Returns a  **[GlowFormat](http://msdn.microsoft.com/library/b89e2245-e3a4-4a8c-c
 
  _expression_. 'Glow'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Remarks

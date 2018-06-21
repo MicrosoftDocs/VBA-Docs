@@ -20,7 +20,7 @@ Returns the number of objects in the specified collection. Read-only.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents an **Adjustments** object.
+ _expression_ A variable that represents an [Adjustments](./PowerPoint.Adjustments.md) object.
 
 
 ### Return Value

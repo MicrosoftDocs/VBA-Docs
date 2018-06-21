@@ -20,7 +20,7 @@ Pastes a picture from the Clipboard on the floor of the specified chart.
 
  _expression_. 'Paste'
 
- _expression_ A variable that represents a **Floor** object.
+ _expression_ A variable that represents a [Floor](./Excel.Floor(Graph property).md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **String** that indicates the relative position of the item within th
 
  _expression_. 'ConversationIndex'
 
- _expression_ A variable that represents a **MeetingItem** object.
+ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## Remarks

@@ -23,7 +23,7 @@ Gets the value of the specified data-column property.
 
  _expression_. 'GetProperty'( '_Property_' )
 
- _expression_ An expression that returns a **DataColumn** object.
+ _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
 
 ### Parameters

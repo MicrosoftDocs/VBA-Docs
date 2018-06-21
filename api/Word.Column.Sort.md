@@ -20,7 +20,7 @@ Sorts the specified table column.
 
  _expression_. 'Sort'( '_ExcludeHeader_' , '_SortFieldType_' , '_SortOrder_' , '_CaseSensitive_' , '_BidiSort_' , '_IgnoreThe_' , '_IgnoreKashida_' , '_IgnoreDiacritics_' , '_IgnoreHe_' , '_LanguageID_' )
 
- _expression_ Required. A variable that represents a **[Column](Word.Column.md)** object.
+ _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 
 
 ### Parameters

@@ -17,7 +17,7 @@ Gets or sets the color of the cell background. Read/write  **PjColor**.
 
  _expression_. 'CellColor'
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the property with a constant in the  **[OlWindowState](Outlook.O
 
  _expression_. 'WindowState'
 
- _expression_ A variable that represents an **Explorer** object.
+ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## Example

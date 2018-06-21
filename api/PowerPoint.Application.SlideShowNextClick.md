@@ -20,7 +20,7 @@ Occurs on the next click of the slide.
 
  _expression_. 'SlideShowNextClick'( '_Wn_', '_nEffect_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether the descent of the phanto
 
  _expression_. 'ZeroDesc'
 
- _expression_ An expression that returns an **[OMathPhantom](Word.OMathPhantom.md)** object.
+ _expression_ An expression that returns an '[OMathPhantom](Word.OMathPhantom.md)' object.
 
 
 ## See also

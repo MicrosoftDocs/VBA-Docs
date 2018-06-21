@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the message class for the Outlook ite
 
  _expression_. 'MessageClass'
 
- _expression_ A variable that represents a **ReportItem** object.
+ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Deletes the specified equation auto correct entry.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns an **OMathAutoCorrectEntry** object.
+ _expression_ An expression that returns an [OMathAutoCorrectEntry](./Word.OMathAutoCorrectEntry.md) object.
 
 
 ## See also

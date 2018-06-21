@@ -20,7 +20,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
  _expression_. 'Account'
 
- _expression_ A variable that represents an **AccountRuleCondition** object.
+ _expression_ A variable that represents an [AccountRuleCondition](./Outlook.AccountRuleCondition.md) object.
 
 
 ## Remarks

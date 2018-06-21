@@ -20,7 +20,7 @@ You can use the  **ColumnHidden** property to show or hide a specified column in
 
  _expression_. 'ColumnHidden'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

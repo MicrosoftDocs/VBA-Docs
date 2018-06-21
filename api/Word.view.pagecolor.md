@@ -18,7 +18,7 @@ Returns and sets the page color in Reading mode. Read-write [WdPageColor](Word.w
 
  _expression_. 'PageColor'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./Word.View.md) object.
 
 
 ## Property value

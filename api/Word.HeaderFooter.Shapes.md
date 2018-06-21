@@ -20,7 +20,7 @@ Returns a  **Shapes** collection that represents all the **Shape** objects in a 
 
  _expression_. 'Shapes'
 
- _expression_ A variable that represents a **[HeaderFooter](Word.HeaderFooter.md)** object.
+ _expression_ A variable that represents a '[HeaderFooter](Word.HeaderFooter.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the width of the left gridline for the specified check box. Read/wr
 
  _expression_. 'GridlineWidthLeft'
 
- _expression_ A variable that represents a **CheckBox** object.
+ _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
 
 
 ## Remarks

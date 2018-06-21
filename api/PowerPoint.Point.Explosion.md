@@ -17,7 +17,7 @@ Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Rea
 
  _expression_. 'Explosion'
 
- _expression_ A variable that represents a **[Point](PowerPoint.Point.md)** object.
+ _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Returns a 32-bit integer that indicates the application in which the add-in was 
 
  _expression_. 'Creator'
 
- _expression_ An expression that returns an **[Research](Word.Research.md)** object.
+ _expression_ An expression that returns an '[Research](Word.Research.md)' object.
 
 
 ## Remarks

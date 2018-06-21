@@ -20,7 +20,7 @@ Returns an  **[Interior](Excel.Interior(objec).md)** object that specifies a cel
 
  _expression_. 'Interior'
 
- _expression_ A variable that represents a **UniqueValues** object.
+ _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
 
 
 ## See also

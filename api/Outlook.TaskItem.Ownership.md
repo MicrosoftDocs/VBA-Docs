@@ -20,7 +20,7 @@ Returns an  **[OlTaskOwnership](Outlook.OlTaskOwnership.md)** specifying the own
 
  _expression_. 'Ownership'
 
- _expression_ A variable that represents a **TaskItem** object.
+ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

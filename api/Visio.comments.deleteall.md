@@ -15,7 +15,7 @@ Deletes all the comments from the active document.
 
  _expression_. 'DeleteAll'
 
- _expression_ A variable that represents a **Comments** object.
+ _expression_ A variable that represents a 'Comments' object.
 
 
 ### Parameters

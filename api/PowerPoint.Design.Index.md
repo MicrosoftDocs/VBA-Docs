@@ -20,7 +20,7 @@ Returns a  **Long** that represents the index number for an animation effect or 
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **Design** object.
+ _expression_ A variable that represents a [Design](./PowerPoint.Design.md) object.
 
 
 ### Return Value

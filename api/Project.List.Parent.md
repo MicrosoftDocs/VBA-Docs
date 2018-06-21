@@ -17,7 +17,7 @@ Gets the parent of the  **List** object. Read-only **Object**.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **List** object.
+ _expression_ A variable that represents a [List](./Project.List.md) object.
 
 
 ## Remarks

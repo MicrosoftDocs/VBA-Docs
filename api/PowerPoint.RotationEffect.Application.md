@@ -20,7 +20,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
  _expression_. 'Application'
 
- _expression_ A variable that represents a **RotationEffect** object.
+ _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 
 
 ### Return Value

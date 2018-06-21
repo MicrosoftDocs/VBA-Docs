@@ -20,7 +20,7 @@ Returns or sets the horizontal offset (in points) of the shadow from the specifi
 
  _expression_. 'OffsetX'
 
- _expression_ An expression that returns a **[ShadowFormat](Word.ShadowFormat.md)** object.
+ _expression_ An expression that returns a '[ShadowFormat](Word.ShadowFormat.md)' object.
 
 
 ## Remarks

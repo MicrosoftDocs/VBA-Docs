@@ -20,7 +20,7 @@ You can use the  **Action** property in Visual Basic to specify the operation to
 
  _expression_. 'Action'
 
- _expression_ A variable that represents an **ObjectFrame** object.
+ _expression_ A variable that represents an [ObjectFrame](./Access.ObjectFrame.md) object.
 
 
 ## Remarks

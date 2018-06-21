@@ -18,7 +18,7 @@ Returns all the categories in the chart group, or the specified category, whethe
 
  _expression_. 'FullCategoryCollection'_(Index)_
 
- _expression_ A variable that represents a **ChartGroup** object.
+ _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 
 
 ### Parameters

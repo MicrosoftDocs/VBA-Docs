@@ -20,7 +20,7 @@ Deletes the specified object.
 
  _expression_. 'Delete'
 
- _expression_ Required. A variable that represents an **[AutoTextEntry](Word.AutoTextEntry.md)** object.
+ _expression_ Required. A variable that represents an '[AutoTextEntry](Word.AutoTextEntry.md)' object.
 
 
 ## See also

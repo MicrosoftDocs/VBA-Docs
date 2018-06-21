@@ -20,7 +20,7 @@ Returns a  **[ListTemplates](Word.listtemplates.md)** collection that represents
 
  _expression_. 'ListTemplates'
 
- _expression_ A variable that represents a **[Template](Word.Template.md)** object.
+ _expression_ A variable that represents a '[Template](Word.Template.md)' object.
 
 
 ## Remarks

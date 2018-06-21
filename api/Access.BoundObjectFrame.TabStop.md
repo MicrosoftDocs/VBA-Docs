@@ -20,7 +20,7 @@ You can use the  **TabStop** property to specify whether you can use the TAB key
 
  _expression_. 'TabStop'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

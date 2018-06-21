@@ -17,6 +17,6 @@ Gets or sets a Start local custom field for the resource. Read/write  **Variant*
 
  _expression_. 'Start5'
 
- _expression_ A variable that represents a **Resource** object.
+ _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 

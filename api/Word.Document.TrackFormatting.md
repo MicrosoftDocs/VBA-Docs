@@ -20,7 +20,7 @@ Returns or sets a ** Boolean** that represents whether to track formatting chang
 
  _expression_. 'TrackFormatting'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
 
 ## See also

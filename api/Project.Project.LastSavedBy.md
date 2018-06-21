@@ -17,7 +17,7 @@ Gets the name of the user who last saved a project. Read-only  **String**.
 
  _expression_. 'LastSavedBy'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ## Example

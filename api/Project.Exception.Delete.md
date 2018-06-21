@@ -17,7 +17,7 @@ Deletes the  **Exception** object from an **Exceptions** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents an **Exception** object.
+ _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
 
 ## See also

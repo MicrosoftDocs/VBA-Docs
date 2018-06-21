@@ -20,7 +20,7 @@ Sets the date format for text around bars on the Gantt Chart.
 
  _expression_. 'GanttBarTextDateFormat'( ' _DateFormat_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'OnlyLookUpTableCodes'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 
 ## Remarks

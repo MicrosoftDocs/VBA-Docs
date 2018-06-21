@@ -20,7 +20,7 @@ You can use the  **Left** property to specify an object's location on a form or 
 
  _expression_. 'Left'
 
- _expression_ A variable that represents a **BoundObjectFrame** object.
+ _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 
 
 ## Remarks

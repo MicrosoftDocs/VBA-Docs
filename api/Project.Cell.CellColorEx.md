@@ -20,7 +20,7 @@ Gets or sets the color of the cell background. Read/write  **Long**.
 
  _expression_. 'CellColorEx'
 
- _expression_ An expression that returns a **Cell** object.
+ _expression_ An expression that returns a [Cell](./Project.Cell.md) object.
 
 
 ## Remarks

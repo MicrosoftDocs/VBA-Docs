@@ -20,7 +20,7 @@ Displays the  **About Microsoft Project** dialog box, which lists version, copyr
 
  _expression_. 'About'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

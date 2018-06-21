@@ -20,7 +20,7 @@ Returns a [ThreeDFormat](Word.ThreeDFormat.md) object that contains 3-D effect f
 
  _expression_. 'ThreeD'
 
- _expression_ A variable that represents a **[TextFrame](Word.TextFrame.md)** object.
+ _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 
 
 ## See also

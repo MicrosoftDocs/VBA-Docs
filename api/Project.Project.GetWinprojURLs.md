@@ -20,7 +20,7 @@ Returns the various URLs associated with the active enterprise project as an XML
 
  _expression_. 'GetWinprojURLs'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
 ### Return Value

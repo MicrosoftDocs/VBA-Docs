@@ -20,7 +20,7 @@ Specifies the universal name of a  **Shape** object. Read/write.
 
  _expression_. 'NameU'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Return Value

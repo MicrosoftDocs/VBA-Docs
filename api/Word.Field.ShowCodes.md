@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'ShowCodes'
 
- _expression_ An expression that returns a **[Field](Word.Field.md)** object.
+ _expression_ An expression that returns a '[Field](Word.Field.md)' object.
 
 
 ## Example

@@ -16,6 +16,6 @@ Project Plan uses the project plan to calculate resource availability, Resource 
 
  _expression_. 'UtilizationDate'
 
- _expression_ A variable that represents a **Project** object.
+ _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 

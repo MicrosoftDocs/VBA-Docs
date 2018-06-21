@@ -20,7 +20,7 @@ Removes a child element from the specified element.
 
  _expression_. 'RemoveChild'( '_ChildElement_' )
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **String** representing the topic of the conversation thread of the O
 
  _expression_. 'ConversationTopic'
 
- _expression_ A variable that represents an **AppointmentItem** object.
+ _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## See also

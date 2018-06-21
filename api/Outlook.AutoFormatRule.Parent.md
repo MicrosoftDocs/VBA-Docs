@@ -20,7 +20,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents an **AutoFormatRule** object.
+ _expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormatRule.md) object.
 
 
 ## See also

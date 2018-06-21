@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of pixels from the top of the pag
 
  _expression_. 'Top'
 
- _expression_ An expression that represents a **[Rectangle](Word.Rectangle.md)** object.
+ _expression_ An expression that represents a '[Rectangle](Word.Rectangle.md)' object.
 
 
 ## See also

@@ -15,9 +15,9 @@ Occurs when a container relationship is deleted from the document.
 
 ## Syntax
 
-Private Sub  _expression_ _**ContainerRelationshipDeleted**( **_By Val ShapePair As RelatedShapePairEvent_** )
+Private Sub  _expression_ _'ContainerRelationshipDeleted'( **_By Val ShapePair As RelatedShapePairEvent_** )
 
- _expression_ A variable that represents an **[Application](Visio.Application.md)** object.
+ _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 
 
 ### Parameters

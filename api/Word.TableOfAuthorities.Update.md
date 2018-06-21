@@ -20,7 +20,7 @@ Updates the entries shown in a table of authorities.
 
  _expression_. 'Update'
 
- _expression_ Required. A variable that represents a **[TableOfAuthorities](Word.TableOfAuthorities.md)** collection.
+ _expression_ Required. A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' collection.
 
 
 ## See also

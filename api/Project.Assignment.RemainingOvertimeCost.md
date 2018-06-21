@@ -17,7 +17,7 @@ Gets the remaining overtime cost for the assignment. Read-only  **Variant**.
 
  _expression_. 'RemainingOvertimeCost'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

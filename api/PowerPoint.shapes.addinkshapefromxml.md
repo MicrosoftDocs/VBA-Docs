@@ -15,7 +15,7 @@ Creates an ink shape. Returns a [Shape](PowerPoint.Shape.md) object that represe
 
  _expression_. 'AddInkShapeFromXML'( _InkXML_,  _InkXML_,  _Left_,  _Top_,  _Width_,  _Height_)
 
- _expression_ A variable that represents a **Shapes** object.
+ _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **[HiLoLines](Excel.HiLoLines(objec).md)** object that represents the
 
  _expression_. 'HiLoLines'
 
- _expression_ A variable that represents a **ChartGroup** object.
+ _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 
 
 ## Example

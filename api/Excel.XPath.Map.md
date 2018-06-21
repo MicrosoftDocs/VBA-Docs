@@ -20,7 +20,7 @@ Returns an  **[XmlMap](Excel.XmlMap.md)** object that represents the schema map 
 
  _expression_. 'Map'
 
- _expression_ A variable that represents a **XPath** object.
+ _expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets an  **Long** value that represents the ordinal position of the *
 
  _expression_. 'Position'
 
- _expression_ A variable that represents a **NavigationFolder** object.
+ _expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
 
 
 ## Remarks

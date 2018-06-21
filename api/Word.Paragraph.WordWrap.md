@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'WordWrap'
 
- _expression_ Required. A variable that represents a **[Paragraph](Word.Paragraph.md)** object.
+ _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
 ## Remarks

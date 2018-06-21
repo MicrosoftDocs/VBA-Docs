@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that determines the maximum number of lines di
 
  _expression_. 'MaxLinesInMultiLineView'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Remarks

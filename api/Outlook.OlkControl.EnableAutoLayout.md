@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that enables automatic adjustments of the layout 
 
  _expression_. 'EnableAutoLayout'
 
- _expression_ A variable that represents an **OlkControl** object.
+ _expression_ A variable that represents an 'OlkControl' object.
 
 
 ## Remarks

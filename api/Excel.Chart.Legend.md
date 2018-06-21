@@ -20,7 +20,7 @@ Returns a  **[Legend](Excel.Legend(objec).md)** object that represents the legen
 
  _expression_. 'Legend'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ## Example

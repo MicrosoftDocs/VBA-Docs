@@ -20,7 +20,7 @@ Returns a  **[Style](Word.Style.md)** object that represents the style used when
 
  _expression_. 'ReplyStyle'
 
- _expression_ An expression that returns an **[EmailOptions](Word.EmailOptions.md)** object.
+ _expression_ An expression that returns an '[EmailOptions](Word.EmailOptions.md)' object.
 
 
 ## Example

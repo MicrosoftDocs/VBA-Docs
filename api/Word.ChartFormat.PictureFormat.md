@@ -20,7 +20,7 @@ Returns a  **[PictureFormat](Word.PictureFormat.md)** object for a specified cha
 
  _expression_. 'PictureFormat'
 
- _expression_ A variable that represents a **[ChartFormat](Word.ChartFormat.md)** object.
+ _expression_ A variable that represents a '[ChartFormat](Word.ChartFormat.md)' object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns or sets an  **Integer** that represents the accent character for the acc
 
  _expression_. 'Char'
 
- _expression_ An expression that returns an **[OMathAcc](Word.OMathAcc.md)** object.
+ _expression_ An expression that returns an '[OMathAcc](Word.OMathAcc.md)' object.
 
 
 ## See also

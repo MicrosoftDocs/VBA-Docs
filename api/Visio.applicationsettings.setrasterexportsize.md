@@ -18,7 +18,7 @@ Sets the raster export size.
 
  _expression_. 'SetRasterExportSize'( '_size_' , '_[Width]_' , '_[Height]_' , '_[sizeUnits]_' )
 
- _expression_ An expression that returns an **[ApplicationSettings](Visio.ApplicationSettings.md)** object.
+ _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Sets the placeholder text that displays in the content control until a user ente
 
  _expression_. 'SetPlaceholderText'( '_BuildingBlock_' , '_Range_' , '_Text_' )
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ### Parameters

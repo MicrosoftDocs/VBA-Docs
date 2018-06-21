@@ -20,7 +20,7 @@ Occurs immediately after Microsoft Outlook finishes synchronizing a user's folde
 
  _expression_. 'SyncEnd'
 
- _expression_ A variable that represents a **SyncObject** object.
+ _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) object.
 
 
 ## Remarks

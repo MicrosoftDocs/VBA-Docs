@@ -20,7 +20,7 @@ You can use the  **PrintCount** property to identify the number of times the **O
 
  _expression_. 'PrintCount'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

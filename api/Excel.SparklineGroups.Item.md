@@ -20,7 +20,7 @@ Returns a  **[SparklineGroup](Excel.SparklineGroup.md)** object from a collectio
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ A variable that represents a **[SparklineGroups](Excel.SparklineGroups.md)** object.
+ _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
 ### Parameters

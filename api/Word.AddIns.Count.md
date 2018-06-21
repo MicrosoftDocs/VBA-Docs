@@ -20,7 +20,7 @@ Returns the number of  **[AddIn](Word.AddIn.md)** objects in the **AddIns** coll
 
  _expression_. 'Count'
 
- _expression_ An expression that returns an **[AddIns](Word.addins.md)** collection.
+ _expression_ An expression that returns an '[AddIns](Word.addins.md)' collection.
 
 
 ## See also

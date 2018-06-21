@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of recent files in the collection
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[RecentFiles](Word.recentfiles.md)** collection.
+ _expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
 
 
 ## See also

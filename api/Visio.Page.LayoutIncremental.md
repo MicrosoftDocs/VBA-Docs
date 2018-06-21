@@ -20,7 +20,7 @@ Makes small adjustments to the position of shapes on the drawing page to better 
 
  _expression_. 'LayoutIncremental'( '_AlignOrSpace_' , '_AlignHorizontal_' , '_AlignVertical_' , '_SpaceHorizontal_' , '_SpaceVertical_' , '_UnitsNameOrCode_' )
 
- _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
+ _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 
 
 ### Parameters

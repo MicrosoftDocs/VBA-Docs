@@ -20,7 +20,7 @@ Returns the collection of  **[WorkflowTemplate](http://msdn.microsoft.com/librar
 
  _expression_. 'GetWorkflowTemplates'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ### Return Value

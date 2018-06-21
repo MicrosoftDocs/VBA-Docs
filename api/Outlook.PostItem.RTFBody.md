@@ -20,7 +20,7 @@ Returns or sets a  **Byte** array that represents the body of the Microsoft Outl
 
  _expression_. 'RTFBody'
 
- _expression_ A variable that represents a **[PostItem](Outlook.PostItem.md)** object.
+ _expression_ A variable that represents a '[PostItem](Outlook.PostItem.md)' object.
 
 
 ## Remarks

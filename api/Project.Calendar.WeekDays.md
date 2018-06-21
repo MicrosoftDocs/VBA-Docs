@@ -20,7 +20,7 @@ Gets a  **[Weekdays](Project.WeekDay.md)** collection representing the weekdays 
 
  _expression_. 'WeekDays'
 
- _expression_ A variable that represents a **Calendar** object.
+ _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 
 
 ## Example

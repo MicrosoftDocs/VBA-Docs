@@ -20,7 +20,7 @@ Returns the position of the specified node as a coordinate pair. Read-only  **Va
 
  _expression_. 'Points'
 
- _expression_ A variable that represents a **[ShapeNode](Word.ShapeNode.md)** object.
+ _expression_ A variable that represents a '[ShapeNode](Word.ShapeNode.md)' object.
 
 
 ## Remarks

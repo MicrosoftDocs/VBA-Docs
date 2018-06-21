@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Valid'
 
- _expression_ Required. An expression that returns a **[DropDown](Word.DropDown.md)** object.
+ _expression_ Required. An expression that returns a '[DropDown](Word.DropDown.md)' object.
 
 
 ## Remarks

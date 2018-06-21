@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of tables in the collection. Read
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Tables](Word.tables.md)** collection.
+ _expression_ Required. A variable that represents a '[Tables](Word.tables.md)' collection.
 
 
 ## See also

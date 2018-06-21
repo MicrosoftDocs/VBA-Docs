@@ -20,6 +20,6 @@ Deletes the  **CodeMaskLevel** object from a **CodeMask** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **CodeMaskLevel** object.
+ _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 
 

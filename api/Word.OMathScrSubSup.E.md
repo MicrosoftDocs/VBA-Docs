@@ -20,7 +20,7 @@ Returns an  **OMath** object that represents the base of the specified equation 
 
  _expression_. 'E'
 
- _expression_ An expression that returns an **OMathScrSubSup** object.
+ _expression_ An expression that returns an [OMathScrSubSup](./Word.OMathScrSubSup.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Sets some display options and Project Guide options.
 
  _expression_. 'OptionsInterfaceEx'( ' _ShowResourceAssignmentIndicators_', ' _ShowEditToStartFinishDates_', ' _ShowEditsToWorkUnitsDurationIndicators_', ' _ShowDeletionInNameColumn_', ' _DisplayProjectGuide_', ' _ProjectGuideUseDefaultFunctionalLayoutPage_', ' _ProjectGuideFunctionalLayoutPage_', ' _ProjectGuideUseDefaultContent_', ' _ProjectGuideContent_', ' _SetAsDefaults_', ' _UseOMIDs_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

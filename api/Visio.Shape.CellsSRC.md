@@ -20,7 +20,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell identified by secti
 
  _expression_. 'CellsSRC'( '_Section_' , '_Row_' , '_Column_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

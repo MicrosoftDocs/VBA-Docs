@@ -20,7 +20,7 @@ Specifies the relative horizontal position of a group of rows. Read/write  **[Wd
 
  _expression_. 'RelativeHorizontalPosition'
 
- _expression_ An expression that represents a **[Rows](Word.rows.md)** object.
+ _expression_ An expression that represents a '[Rows](Word.rows.md)' object.
 
 
 ## See also

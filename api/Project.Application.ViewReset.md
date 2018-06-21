@@ -20,7 +20,7 @@ Resets the current view back to the global view definition.
 
  _expression_. 'ViewReset'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Return Value

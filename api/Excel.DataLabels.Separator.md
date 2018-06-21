@@ -20,7 +20,7 @@ Sets or returns a  **Variant** representing the separator used for the data labe
 
  _expression_. 'Separator'
 
- _expression_ A variable that represents a **DataLabels** object.
+ _expression_ A variable that represents a [DataLabels](./Excel.DataLabels(object).md) object.
 
 
 ## Remarks

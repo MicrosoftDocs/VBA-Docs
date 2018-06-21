@@ -20,7 +20,7 @@ Removes any spacing before the specified paragraphs.
 
  _expression_. 'CloseUp'
 
- _expression_ Required. A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
+ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ## Remarks

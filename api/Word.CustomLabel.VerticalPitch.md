@@ -20,7 +20,7 @@ Returns or sets the vertical distance between the top of one mailing label and t
 
  _expression_. 'VerticalPitch'
 
- _expression_ An expression that returns a **[CustomLabel](Word.CustomLabel.md)** object.
+ _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets the master that is displayed in a window. Read-only.
 
  _expression_. 'Master'
 
- _expression_ A variable that represents a **Window** object.
+ _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
 ### Return Value

@@ -15,9 +15,9 @@ Occurs before the application deletes a style in response to a user action in th
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelStyleDelete**( **_ByVal Style As [IVSTYLE]_** )
+Private Sub  _expression_ _'QueryCancelStyleDelete'( **_ByVal Style As [IVSTYLE]_** )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
 ### Parameters

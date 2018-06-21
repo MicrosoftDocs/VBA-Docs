@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that determines if the rule action is enabled. Re
 
  _expression_. 'Enabled'
 
- _expression_ A variable that represents a **MarkAsTaskRuleAction** object.
+ _expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
 
 
 ## Remarks

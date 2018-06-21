@@ -20,7 +20,7 @@ Adds a single resource from the enterprise resource pool to the active project. 
 
  _expression_. 'EnterpriseResourceGet'( ' _EUID_', ' _RUID_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

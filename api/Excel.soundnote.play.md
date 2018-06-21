@@ -18,7 +18,7 @@ Plays the sound note.
 
  _expression_. 'Play'
 
- _expression_ A variable that represents a **SoundNote** object.
+ _expression_ A variable that represents a 'SoundNote' object.
 
 
 ## See also

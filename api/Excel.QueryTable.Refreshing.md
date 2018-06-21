@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Refreshing'
 
- _expression_ A variable that represents a **QueryTable** object.
+ _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 
 
 ## Remarks

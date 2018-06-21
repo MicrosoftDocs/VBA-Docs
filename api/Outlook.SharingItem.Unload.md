@@ -17,7 +17,7 @@ Occurs before an Outlook item is unloaded from memory, either programmatically o
 
  _expression_. 'Unload'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Closes a Microsoft Visio document checked out from a Microsoft SharePoint Server
 
  _expression_. 'UndoCheckOut'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
 ### Return Value

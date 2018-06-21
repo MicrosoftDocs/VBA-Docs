@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of columns in the collection. Rea
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Columns](Word.columns.md)** collection.
+ _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
 ## See also

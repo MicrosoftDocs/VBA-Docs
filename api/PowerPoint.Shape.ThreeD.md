@@ -20,7 +20,7 @@ Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3
 
  _expression_. 'ThreeD'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Return Value

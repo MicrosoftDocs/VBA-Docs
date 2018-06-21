@@ -20,7 +20,7 @@ Returns or sets the width, in points, of the specified text input field. Read/wr
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **[TextInput](Word.TextInput.md)** object.
+ _expression_ A variable that represents a '[TextInput](Word.TextInput.md)' object.
 
 
 ## See also

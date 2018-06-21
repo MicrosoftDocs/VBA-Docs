@@ -20,7 +20,7 @@ Returns a  **String** that represents the e-mail address of the sender of the **
 
  _expression_. 'SenderEmailAddress'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Deletes a text range and places it on the Clipboard.
 
  _expression_. 'Cut'
 
- _expression_ A variable that represents a **Characters** object.
+ _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
 ### Return Value

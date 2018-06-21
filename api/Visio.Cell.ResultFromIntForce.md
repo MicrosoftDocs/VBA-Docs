@@ -20,7 +20,7 @@ Sets the value of a cell to an integer value, even if the cell's formula is prot
 
  _expression_. 'ResultFromIntForce'( '_UnitsNameOrCode_' )
 
- _expression_ A variable that represents a **Cell** object.
+ _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether to display conversat
 
  _expression_. 'ShowFullConversations'
 
- _expression_ A variable that represents a **[TableView](Outlook.TableView.md)** object.
+ _expression_ A variable that represents a '[TableView](Outlook.TableView.md)' object.
 
 
 ## Remarks

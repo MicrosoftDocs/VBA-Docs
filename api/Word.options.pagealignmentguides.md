@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether page alignment guides are 
 
  _expression_. 'PageAlignmentGuides'
 
- _expression_ A variable that represents an **Options** object.
+ _expression_ A variable that represents an [Options](./Word.Options.md) object.
 
 
 ## Remarks

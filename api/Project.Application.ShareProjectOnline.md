@@ -20,7 +20,7 @@ Opens the URL for information about sharing projects in the  **Share with Projec
 
  _expression_. 'ShareProjectOnline'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a value that indicates if Microsoft Excel wraps the text of the associat
 
  _expression_. 'WrapText'
 
- _expression_ A variable that represents a **[DisplayFormat](Excel.DisplayFormat.md)** object.
+ _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ### Return Value

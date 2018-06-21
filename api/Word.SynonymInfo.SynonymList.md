@@ -20,7 +20,7 @@ Returns a list of synonyms for a specified meaning of a word or phrase. The list
 
  _expression_. 'SynonymList'( '_Meaning_' )
 
- _expression_ An expression that returns a **[SynonymInfo](Word.SynonymInfo.md)** object.
+ _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 
 
 ## Example

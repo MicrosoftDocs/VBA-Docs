@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that indicates whether updates to the[Appoi
 
  _expression_. 'ForceUpdateToAllAttendees'
 
- _expression_ An expression that returns an **AppointmentItem** object.
+ _expression_ An expression that returns an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

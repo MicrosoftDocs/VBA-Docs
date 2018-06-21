@@ -20,7 +20,7 @@ Returns a  **Languages** collection that represents the proofing languages liste
 
  _expression_. 'Languages'
 
- _expression_ Required. A variable that represents a **[Global](Word.Global.md)** object.
+ _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
 ## Remarks

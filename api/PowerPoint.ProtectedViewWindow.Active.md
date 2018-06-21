@@ -20,7 +20,7 @@ Returns whether the specified window is active. Read-only.
 
  _expression_. 'Active'
 
- _expression_ A variable that represents a **ProtectedViewWindow** object.
+ _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## See also

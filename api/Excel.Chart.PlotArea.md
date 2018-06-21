@@ -20,7 +20,7 @@ Returns a  **[PlotArea](Excel.PlotArea(objec).md)** object that represents the p
 
  _expression_. 'PlotArea'
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 
 
 ## Example

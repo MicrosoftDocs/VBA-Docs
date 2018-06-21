@@ -20,7 +20,7 @@ Occurs when the user clicks inside the control.
 
  _expression_. 'Click'
 
- _expression_ A variable that represents an **OlkTimeControl** object.
+ _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ## See also

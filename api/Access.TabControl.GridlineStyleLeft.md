@@ -20,7 +20,7 @@ Gets or sets the width of the bottom gridline for the specified text box. Read/w
 
  _expression_. 'GridlineStyleLeft'
 
- _expression_ A variable that represents a **TabControl** object.
+ _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 
 
 ## Remarks

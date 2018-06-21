@@ -20,7 +20,7 @@ Displays the  **Group Definition** dialog box.
 
  _expression_. 'GroupNew'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Opens a new page in design mode in the inspector for a new form region.
 
  _expression_. 'NewFormRegion'
 
- _expression_ A variable that represents an **Inspector** object.
+ _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ### Return Value

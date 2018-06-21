@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of lists in the collection. Read-
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[Lists](Word.lists.md)** collection.
+ _expression_ Required. A variable that represents a '[Lists](Word.lists.md)' collection.
 
 
 ## See also

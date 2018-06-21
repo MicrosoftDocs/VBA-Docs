@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of XML namespaces in the collecti
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **** collection.
+ _expression_ Required. A variable that represents a '' collection.
 
 
 ## See also

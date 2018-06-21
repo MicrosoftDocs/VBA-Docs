@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'IncludePatterns'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 
 ## Example

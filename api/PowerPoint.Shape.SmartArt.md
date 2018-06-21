@@ -20,7 +20,7 @@ Returns a Microsoft Office [SmartArt](http://msdn.microsoft.com/library/24332c9b
 
  _expression_. 'SmartArt'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ## Remarks

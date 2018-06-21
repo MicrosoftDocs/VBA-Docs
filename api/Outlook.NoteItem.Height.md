@@ -20,7 +20,7 @@ Returns or sets a  **Long** specifying the height (in pixels) of the note window
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **NoteItem** object.
+ _expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a  **Long** value specifying the index number of the **Icon** object wit
 
  _expression_. 'Index'
 
- _expression_ A variable that represents an **Icon** object.
+ _expression_ A variable that represents an [Icon](./Excel.Icon.md) object.
 
 
 ## See also

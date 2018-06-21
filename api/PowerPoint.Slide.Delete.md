@@ -20,7 +20,7 @@ Deletes the specified  **Slide** object.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **Slide** object.
+ _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
 ## See also

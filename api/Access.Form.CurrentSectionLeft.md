@@ -20,7 +20,7 @@ You can use this property to determine the distance in twips from the left side 
 
  _expression_. 'CurrentSectionLeft'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

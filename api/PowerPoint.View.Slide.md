@@ -20,7 +20,7 @@ Returns or sets a  **[Slide](PowerPoint.Slide.md)** object that represents the s
 
  _expression_. 'Slide'
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
 ## Remarks

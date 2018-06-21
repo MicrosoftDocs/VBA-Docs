@@ -20,7 +20,7 @@ Responds to a meeting request.
 
  _expression_. 'Respond'( '_Response_' , '_fNoUI_' , '_fAdditionalTextDialog_' )
 
- _expression_ A variable that represents an **[AppointmentItem](Outlook.AppointmentItem.md)** object.
+ _expression_ A variable that represents an '[AppointmentItem](Outlook.AppointmentItem.md)' object.
 
 
 ### Parameters

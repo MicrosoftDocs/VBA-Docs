@@ -20,7 +20,7 @@ You can use the  **ColumnHidden** property to show or hide a specified column in
 
  _expression_. 'ColumnHidden'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

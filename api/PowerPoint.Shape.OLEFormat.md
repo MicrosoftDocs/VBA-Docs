@@ -20,7 +20,7 @@ Returns an  **[OLEFormat](PowerPoint.OLEFormat.md)** object that contains OLE fo
 
  _expression_. 'OLEFormat'
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
 ### Return Value

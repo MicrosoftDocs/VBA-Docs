@@ -20,7 +20,7 @@ Returns or sets a  **[DocumentProperties](http://msdn.microsoft.com/library/90d4
 
  _expression_. 'CustomDocumentProperties'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Remarks

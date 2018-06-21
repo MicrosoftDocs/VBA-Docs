@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'SavePictureWithDocument'
 
- _expression_ An expression that returns a **[LinkFormat](Word.LinkFormat.md)** object.
+ _expression_ An expression that returns a '[LinkFormat](Word.LinkFormat.md)' object.
 
 
 ## Remarks

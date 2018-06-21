@@ -20,7 +20,7 @@ Returns the window number of the document displayed in the specified window. For
 
  _expression_. 'WindowNumber'
 
- _expression_ An expression that returns a **[Window](Word.Window.md)** object.
+ _expression_ An expression that returns a '[Window](Word.Window.md)' object.
 
 
 ## Remarks

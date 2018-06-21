@@ -20,7 +20,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
  _expression_. 'TaskDueDate'
 
- _expression_ An expression that returns a **SharingItem** object.
+ _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

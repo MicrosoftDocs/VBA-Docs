@@ -20,7 +20,7 @@ Returns or sets a  **Variant** indicating the value for the specified custom pro
 
  _expression_. 'Value'
 
- _expression_ A variable that represents a **UserProperty** object.
+ _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
 
 
 ## Remarks

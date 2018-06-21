@@ -20,7 +20,7 @@ Returns the  **[Views](Outlook.Views.md)** collection object of the **[Folder](O
 
  _expression_. 'Views'
 
- _expression_ A variable that represents a **Folder** object.
+ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Example

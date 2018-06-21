@@ -20,7 +20,7 @@ Returns or sets a value that specifies whether the specified rows can overlap ot
 
  _expression_. 'AllowOverlap'
 
- _expression_ A variable that represents a **[Rows](Word.rows.md)** collection.
+ _expression_ A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
 ## Remarks

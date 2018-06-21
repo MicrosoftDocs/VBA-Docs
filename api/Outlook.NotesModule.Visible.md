@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines whether the **[NotesModule]
 
  _expression_. 'Visible'
 
- _expression_ A variable that represents a **NotesModule** object.
+ _expression_ A variable that represents a [NotesModule](./Outlook.NotesModule.md) object.
 
 
 ## See also

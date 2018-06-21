@@ -20,7 +20,7 @@ Returns or sets a  **[XlOrientation](Excel.XlOrientation.md)** value that repres
 
  _expression_. 'Orientation'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 
 ## See also

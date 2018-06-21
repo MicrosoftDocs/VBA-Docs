@@ -20,7 +20,7 @@ Returns the name of the user who currently has write permission for the workbook
 
  _expression_. 'WriteReservedBy'
 
- _expression_ A variable that represents a **Workbook** object.
+ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

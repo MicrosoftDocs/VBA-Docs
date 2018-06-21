@@ -20,7 +20,7 @@ Gets the  **Document** object that is associated with an object. Read-only.
 
  _expression_. 'Document'
 
- _expression_ A variable that represents a **Selection** object.
+ _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
 ### Return Value

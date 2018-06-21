@@ -20,7 +20,7 @@ Returns an  **Object** that represents the specified OLE object's top-level inte
 
  _expression_. 'Object'
 
- _expression_ An expression that returns an **[OLEFormat](Word.OLEFormat.md)** object.
+ _expression_ An expression that returns an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
 ## Remarks

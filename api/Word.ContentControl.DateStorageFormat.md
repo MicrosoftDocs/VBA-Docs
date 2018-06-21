@@ -20,7 +20,7 @@ Returns or sets a  **[WdContentControlDateStorageFormat](Word.WdContentControlDa
 
  _expression_. 'DateStorageFormat'
 
- _expression_ An expression that returns a **ContentControl** object.
+ _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **[System](Word.System.md)** object, which can be used to return syst
 
  _expression_. 'System'
 
- _expression_ An expression that returns an **[Application](Word.Application.md)** object.
+ _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
 ## Example

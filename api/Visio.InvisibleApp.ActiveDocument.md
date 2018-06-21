@@ -20,7 +20,7 @@ Returns the active  **Document** object, which is the document shown in the acti
 
  _expression_. 'ActiveDocument'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

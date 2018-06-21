@@ -20,7 +20,7 @@ Sets or returns a  **Variant** representing the separator used for the data labe
 
  _expression_. 'Separator'
 
- _expression_ A variable that represents a **DataLabel** object.
+ _expression_ A variable that represents a [DataLabel](./Excel.DataLabel(Graph property).md) object.
 
 
 ## Remarks

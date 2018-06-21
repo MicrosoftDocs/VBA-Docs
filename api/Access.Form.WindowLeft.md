@@ -20,7 +20,7 @@ Returns an  **Integer** indicating the screen position in twips of the left edge
 
  _expression_. 'WindowLeft'
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ## Remarks

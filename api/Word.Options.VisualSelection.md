@@ -20,7 +20,7 @@ Returns or sets the selection behavior based on visual cursor movement in a righ
 
  _expression_. 'VisualSelection'
 
- _expression_ Required. A variable that represents an **[Options](Word.Options.md)** collection.
+ _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 
 
 ## Remarks

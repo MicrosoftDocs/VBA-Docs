@@ -20,7 +20,7 @@ The  **BuildCriteria** method returns a parsed criteria string as it would appea
 
  _expression_. 'BuildCriteria'( ' _Field_', ' _FieldType_', ' _Expression_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Access.Application.md) object.
 
 
 ### Parameters

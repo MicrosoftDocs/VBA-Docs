@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word shows the 
 
  _expression_. 'FormattingShowNextLevel'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
 
 ## Remarks

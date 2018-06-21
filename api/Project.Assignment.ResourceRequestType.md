@@ -17,7 +17,7 @@ Gets or sets the type of resource request for the assignment. Read/write  **PjRe
 
  _expression_. 'ResourceRequestType'
 
- _expression_ A variable that represents an **Assignment** object.
+ _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
 
 ## Remarks

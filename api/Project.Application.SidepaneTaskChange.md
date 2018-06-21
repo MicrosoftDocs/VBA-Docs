@@ -20,7 +20,7 @@ Changes the side pane that is displayed in  **Project Guide**.
 
  _expression_. 'SidepaneTaskChange'( ' _ID_', ' _IsGoalArea_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

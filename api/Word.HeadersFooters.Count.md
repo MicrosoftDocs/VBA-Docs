@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of headers and/or footers in the 
 
  _expression_. 'Count'
 
- _expression_ Required. A variable that represents a **[HeadersFooters](Word.headersfooters.md)** collection.
+ _expression_ Required. A variable that represents a '[HeadersFooters](Word.headersfooters.md)' collection.
 
 
 ## See also

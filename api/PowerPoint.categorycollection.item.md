@@ -18,7 +18,7 @@ Returns an individual chart category.
 
  _expression_. 'Item'_(Index)_
 
- _expression_ A variable that represents a **CategoryCollection** object.
+ _expression_ A variable that represents a 'CategoryCollection' object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns a  **[CellRange](PowerPoint.CellRange.md)** collection that represents t
 
  _expression_. 'Cells'
 
- _expression_ A variable that represents a **Row** object.
+ _expression_ A variable that represents a [Row](./PowerPoint.Row.md) object.
 
 
 ### Return Value

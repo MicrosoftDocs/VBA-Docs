@@ -20,7 +20,7 @@ Opens two windows in side by side mode. Returns a **Boolean** .
 
  _expression_. 'CompareSideBySideWith'( '_Document_' )
 
- _expression_ Required. A variable that represents a **[Windows](Word.windows.md)** collection.
+ _expression_ Required. A variable that represents a '[Windows](Word.windows.md)' collection.
 
 
 ### Parameters

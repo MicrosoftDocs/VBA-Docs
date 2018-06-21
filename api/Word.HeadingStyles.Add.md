@@ -20,7 +20,7 @@ Returns a  **HeadingStyle** object that represents a new heading style added to 
 
  _expression_. 'Add'( '_Style_' , '_Level_' )
 
- _expression_ Required. A variable that represents a **[HeadingStyles](Word.headingstyles.md)** collection.
+ _expression_ Required. A variable that represents a '[HeadingStyles](Word.headingstyles.md)' collection.
 
 
 ### Parameters

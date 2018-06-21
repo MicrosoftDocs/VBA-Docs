@@ -20,7 +20,7 @@ You can use the  **EmailSubject** property to specify or determine return the em
 
  _expression_. 'EmailSubject'
 
- _expression_ A variable that represents a **Hyperlink** object.
+ _expression_ A variable that represents a [Hyperlink](./Access.Hyperlink.md) object.
 
 
 ## Remarks

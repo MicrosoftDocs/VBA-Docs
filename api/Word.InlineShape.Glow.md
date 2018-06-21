@@ -20,7 +20,7 @@ Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the forma
 
  _expression_. 'Glow'
 
- _expression_ An expression that returns an **[InlineShape](Word.InlineShape.md)** object.
+ _expression_ An expression that returns an '[InlineShape](Word.InlineShape.md)' object.
 
 
 ## See also

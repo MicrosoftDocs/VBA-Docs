@@ -17,7 +17,7 @@ Gets the number of items in the  **List** collection. Read-only **Long**.
 
  _expression_. 'Count'
 
- _expression_ A variable that represents a **List** object.
+ _expression_ A variable that represents a [List](./Project.List.md) object.
 
 
 ## Example

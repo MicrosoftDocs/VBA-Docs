@@ -20,7 +20,7 @@ Returns or sets an  **Integer** that represents the ending delimiter character i
 
  _expression_. 'EndChar'
 
- _expression_ An expression that returns an **[OMathDelim](Word.OMathDelim.md)** object.
+ _expression_ An expression that returns an '[OMathDelim](Word.OMathDelim.md)' object.
 
 
 ## See also

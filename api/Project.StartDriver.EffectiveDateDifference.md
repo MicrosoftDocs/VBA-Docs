@@ -17,7 +17,7 @@ Gets the duration between two dates in minutes, using the effective calendar for
 
  _expression_. 'EffectiveDateDifference'( ' _StartDate_', ' _FinishDate_' )
 
- _expression_ An expression that returns a **StartDriver** object.
+ _expression_ An expression that returns a [StartDriver](./Project.StartDriver.md) object.
 
 
 ### Parameters

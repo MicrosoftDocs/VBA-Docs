@@ -20,7 +20,7 @@ Appends a string to the end of the specified text range. Returns a  **TextRange*
 
  _expression_. 'InsertAfter'( '_NewText_' )
 
- _expression_ A variable that represents an **TextRange** object.
+ _expression_ A variable that represents an [TextRange](./PowerPoint.TextRange.md) object.
 
 
 ### Parameters

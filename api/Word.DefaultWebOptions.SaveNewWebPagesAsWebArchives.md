@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'SaveNewWebPagesAsWebArchives'
 
- _expression_ An expression that returns a **[DefaultWebOptions](Word.DefaultWebOptions.md)** object.
+ _expression_ An expression that returns a '[DefaultWebOptions](Word.DefaultWebOptions.md)' object.
 
 
 ## Remarks

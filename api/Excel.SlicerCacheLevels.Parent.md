@@ -20,7 +20,7 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object that is the parent o
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **SlicerCacheLevels** object.
+ _expression_ A variable that represents a [SlicerCacheLevels](./Excel.SlicerCacheLevels.md) object.
 
 
 ## See also

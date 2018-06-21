@@ -20,7 +20,7 @@ Returns a  **Boolean** indicating whether the scope of the specified search incl
 
  _expression_. 'SearchSubFolders'
 
- _expression_ A variable that represents a **Search** object.
+ _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
 ## Remarks

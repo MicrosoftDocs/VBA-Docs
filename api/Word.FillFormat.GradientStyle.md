@@ -20,7 +20,7 @@ Returns the gradient style for the specified fill. Read-only  **MsoGradientStyle
 
  _expression_. 'GradientStyle'
 
- _expression_ An expression that represents a **[FillFormat](Word.FillFormat.md)** object.
+ _expression_ An expression that represents a '[FillFormat](Word.FillFormat.md)' object.
 
 
 ## Remarks

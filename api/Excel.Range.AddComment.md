@@ -20,7 +20,7 @@ Adds a comment to the range.
 
  _expression_. 'AddComment'( '_Text_' )
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

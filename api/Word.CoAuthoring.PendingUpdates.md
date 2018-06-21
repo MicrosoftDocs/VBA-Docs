@@ -20,7 +20,7 @@ Returns  **true** if the document has pending updates that have not been accepte
 
  _expression_. 'PendingUpdates'
 
- _expression_ An expression that returns a **[CoAuthoring](Word.CoAuthoring.md)** object.
+ _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 
 
 ## Example

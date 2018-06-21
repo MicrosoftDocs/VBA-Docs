@@ -20,7 +20,7 @@ Returns an  **[XMLNodes](Word.XMLNodes.md)** collection that represents all the 
 
  _expression_. 'SelectNodes'( '_XPath_' , '_PrefixMapping_' , '_FastSearchSkippingTextNodes_' )
 
- _expression_ An expression that returns an **[XMLNode](Word.XMLNode.md)** object.
+ _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 
 
 ### Parameters

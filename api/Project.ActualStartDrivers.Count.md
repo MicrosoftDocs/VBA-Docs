@@ -17,7 +17,7 @@ Gets the number of  **Assignment** objects in the **ActualStartDrivers** collect
 
  _expression_. 'Count'
 
- _expression_ A variable that represents an **ActualStartDrivers** object.
+ _expression_ A variable that represents an 'ActualStartDrivers' object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets, deletes, or makes the GUID that uniquely identifies the shape within the s
 
  _expression_. 'UniqueID'( '_fUniqueID_' )
 
- _expression_ An expression that returns a **Shape** object.
+ _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

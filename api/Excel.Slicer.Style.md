@@ -20,7 +20,7 @@ Returns or sets the style currently applied to the specified slicer. Read/write.
 
  _expression_. 'Style'
 
- _expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
+ _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ### Return Value

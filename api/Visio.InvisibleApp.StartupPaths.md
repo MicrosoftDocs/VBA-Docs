@@ -20,7 +20,7 @@ Gets or sets the paths where Microsoft Visio looks for third-party and user add-
 
  _expression_. 'StartupPaths'
 
- _expression_ A variable that represents an **InvisibleApp** object.
+ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
 ### Return Value

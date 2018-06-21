@@ -20,7 +20,7 @@ Specifies the pages to publish to a server.
 
  _expression_. 'SetPagesToPublish'( '_PublishPages_' , '_NamesArray()_' , '_ Flags_' )
 
- _expression_ A variable that represents a **[ServerPublishOptions](Visio.ServerPublishOptions.md)** object.
+ _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
 ### Parameters

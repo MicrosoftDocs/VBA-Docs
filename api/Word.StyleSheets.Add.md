@@ -20,7 +20,7 @@ Returns a  **StyleSheet** object that represents a new style sheet added to a We
 
  _expression_. 'Add'( '_FileName_' , '_LinkType_' , '_Title_' , '_Precedence_' )
 
- _expression_ Required. A variable that represents a **[StyleSheets](Word.StyleSheets.md)** collection.
+ _expression_ Required. A variable that represents a '[StyleSheets](Word.StyleSheets.md)' collection.
 
 
 ### Parameters

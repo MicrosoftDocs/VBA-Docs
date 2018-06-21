@@ -20,7 +20,7 @@ Returns the width (in points) of the active working area in the specified docume
 
  _expression_. 'UsableWidth'
 
- _expression_ An expression that returns a **Window** object.
+ _expression_ An expression that returns a [Window](./Word.Window.md) object.
 
 
 ## Remarks

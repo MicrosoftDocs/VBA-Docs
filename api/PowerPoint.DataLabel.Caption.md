@@ -17,7 +17,7 @@ Returns or sets the data label text. Read/write  **String**.
 
  _expression_. 'Caption'
 
- _expression_ A variable that represents a **[DataLabel](PowerPoint.DataLabel.md)** object.
+ _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
 
 
 ## See also

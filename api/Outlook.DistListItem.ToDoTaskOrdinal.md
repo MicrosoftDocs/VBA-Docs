@@ -20,7 +20,7 @@ Returns or sets a  **Date** value that represents the ordinal value of the task 
 
  _expression_. 'ToDoTaskOrdinal'
 
- _expression_ An expression that returns a **DistListItem** object.
+ _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](E
 
  _expression_. 'PictureUnit'
 
- _expression_ A variable that represents a **Walls** object.
+ _expression_ A variable that represents a [Walls](./Excel.Walls(Graph property).md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
  _expression_. 'SubscribeTo'( '_Edition_' , '_Format_' )
 
- _expression_ A variable that represents a **Range** object.
+ _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 
 
 ### Parameters

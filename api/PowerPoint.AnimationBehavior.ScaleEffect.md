@@ -20,7 +20,7 @@ Returns a  **[ScaleEffect](PowerPoint.ScaleEffect.md)** object for a given anima
 
  _expression_. 'ScaleEffect'
 
- _expression_ A variable that represents an **AnimationBehavior** object.
+ _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
 ### Return Value

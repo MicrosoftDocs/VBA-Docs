@@ -20,7 +20,7 @@ Returns a  **Paragraph** object that represents a new, blank paragraph added to 
 
  _expression_. 'Add'( '_Range_' )
 
- _expression_ Required. A variable that represents a **[Paragraphs](Word.paragraphs.md)** collection.
+ _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
 ### Parameters

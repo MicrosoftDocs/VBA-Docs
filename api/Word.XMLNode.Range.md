@@ -20,7 +20,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
  _expression_. 'Range'
 
- _expression_ An expression that returns an **XMLNode** object.
+ _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 
 
 ## See also

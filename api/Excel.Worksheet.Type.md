@@ -20,7 +20,7 @@ Returns an  **[XlSheetType](Excel.XlSheetType.md)** value that represents the wo
 
  _expression_. 'Type'
 
- _expression_ A variable that represents a **Worksheet** object.
+ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## See also

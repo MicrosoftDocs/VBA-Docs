@@ -20,7 +20,7 @@ Gets the  **Document** object that is associated with an object. Read-only.
 
  _expression_. 'Document'
 
- _expression_ A variable that represents a **Connects** object.
+ _expression_ A variable that represents a [Connects](./Visio.Connects.md) object.
 
 
 ### Return Value

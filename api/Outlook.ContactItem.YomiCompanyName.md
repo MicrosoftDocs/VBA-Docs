@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the Japanese phonetic rendering (yomiga
 
  _expression_. 'YomiCompanyName'
 
- _expression_ A variable that represents a **ContactItem** object.
+ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

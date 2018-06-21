@@ -20,7 +20,7 @@ Returns or sets the preferred width (in points or as a percentage of the window 
 
  _expression_. 'PreferredWidth'
 
- _expression_ Required. An expression that returns a **[Columns](Word.columns.md)** collection.
+ _expression_ Required. An expression that returns a '[Columns](Word.columns.md)' collection.
 
 
 ## Remarks

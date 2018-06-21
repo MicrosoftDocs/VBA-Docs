@@ -20,7 +20,7 @@ Adds a custom property to a smart tag.
 
  _expression_. 'Add'( ' _Name_', ' _Value_' )
 
- _expression_ A variable that represents a **SmartTagProperties** object.
+ _expression_ A variable that represents a [SmartTagProperties](./Access.SmartTagProperties.md) object.
 
 
 ### Parameters

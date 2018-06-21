@@ -20,7 +20,7 @@ Returns or sets the width, in points, of the specified shape. Read/write  **Long
 
  _expression_. 'Width'
 
- _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
+ _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
 ## See also

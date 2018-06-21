@@ -20,7 +20,7 @@ Returns a  **[SlideShowView](PowerPoint.SlideShowView.md)** object. Read-only.
 
  _expression_. 'View'
 
- _expression_ A variable that represents a **SlideShowWindow** object.
+ _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 
 
 ### Return Value

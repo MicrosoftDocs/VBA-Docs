@@ -17,7 +17,7 @@ Deletes the  **WorkWeek** object from a **WorkWeeks** collection.
 
  _expression_. 'Delete'
 
- _expression_ An expression that returns a **WorkWeek** object.
+ _expression_ An expression that returns a [WorkWeek](./Project.WorkWeek.md) object.
 
 
 ## See also

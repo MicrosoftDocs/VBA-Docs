@@ -20,7 +20,7 @@ Returns a single story of a range or selection as a  **Range** object.
 
  _expression_. 'Item'( '_Index_' )
 
- _expression_ Required. A variable that represents a **[StoryRanges](Word.storyranges.md)** collection.
+ _expression_ Required. A variable that represents a '[StoryRanges](Word.storyranges.md)' collection.
 
 
 ### Parameters

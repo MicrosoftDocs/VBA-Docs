@@ -20,7 +20,7 @@ Returns or sets the path and name of the source file for the specified linked OL
 
  _expression_. 'SourceFullName'
 
- _expression_ An expression that returns a **[LinkFormat](Word.LinkFormat.md)** object.
+ _expression_ An expression that returns a '[LinkFormat](Word.LinkFormat.md)' object.
 
 
 ## Remarks

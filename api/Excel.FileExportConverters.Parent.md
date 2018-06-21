@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **[Fil
 
  _expression_. 'Parent'
 
- _expression_ A variable that represents a **FileExportConverters** object.
+ _expression_ A variable that represents a [FileExportConverters](./Excel.FileExportConverters.md) object.
 
 
 ## See also

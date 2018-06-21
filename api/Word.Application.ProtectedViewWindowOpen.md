@@ -20,7 +20,7 @@ Occurs when a protected view window is opened.
 
  _expression_. 'ProtectedViewWindowOpen'( '_PvWindow_' , )
 
- _expression_ An expression that returns a **[Application](Word.Application.md)** object.
+ _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 
 
 ### Parameters

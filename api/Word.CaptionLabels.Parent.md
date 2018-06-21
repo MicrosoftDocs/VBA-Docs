@@ -20,7 +20,7 @@ Returns an  **Object** that represents the parent object of the specified **Capt
 
  _expression_. 'Parent'
 
- _expression_ Required. A variable that represents a **[CaptionLabels](Word.captionlabels.md)** collection.
+ _expression_ Required. A variable that represents a '[CaptionLabels](Word.captionlabels.md)' collection.
 
 
 ## See also

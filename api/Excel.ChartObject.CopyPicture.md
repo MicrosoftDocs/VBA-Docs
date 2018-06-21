@@ -20,7 +20,7 @@ Copies the selected object to the Clipboard as a picture.
 
  _expression_. 'CopyPicture'( '_Appearance_' , '_Format_' )
 
- _expression_ A variable that represents a **ChartObject** object.
+ _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 
 
 ### Parameters

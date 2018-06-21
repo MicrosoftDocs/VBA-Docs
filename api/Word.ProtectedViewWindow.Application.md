@@ -20,7 +20,7 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 
  _expression_. 'Application'
 
- _expression_ An expression that returns a **ProtectedViewWindow** object.
+ _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 
 
 ## See also

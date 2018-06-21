@@ -20,7 +20,7 @@ Immediately ends the search that is being performed currently.
 
  _expression_. 'Stop'
 
- _expression_ A variable that represents a **Search** object.
+ _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
 ## See also

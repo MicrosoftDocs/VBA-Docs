@@ -20,7 +20,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 
  _expression_. 'Cells'( '_localeSpecificCellName_' )
 
- _expression_ A variable that represents a **Shape** object.
+ _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
 ### Parameters

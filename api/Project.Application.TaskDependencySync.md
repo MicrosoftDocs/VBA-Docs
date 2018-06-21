@@ -20,7 +20,7 @@ Synchronizes task dependencies in the active project with changes in deliverable
 
  _expression_. 'TaskDependencySync'
 
- _expression_ An expression that returns an **Application** object.
+ _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
 ### Return Value

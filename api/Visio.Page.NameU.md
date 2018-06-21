@@ -20,7 +20,7 @@ Specifies the universal name of a  **Page** object. Read/write.
 
  _expression_. 'NameU'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ### Return Value

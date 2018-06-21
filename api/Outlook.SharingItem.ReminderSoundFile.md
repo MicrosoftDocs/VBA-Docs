@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
  _expression_. 'ReminderSoundFile'
 
- _expression_ A variable that represents a **SharingItem** object.
+ _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

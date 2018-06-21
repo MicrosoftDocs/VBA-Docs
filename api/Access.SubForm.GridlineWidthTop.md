@@ -20,7 +20,7 @@ Gets or sets the width of the top gridline for the specified subform. Read/write
 
  _expression_. 'GridlineWidthTop'
 
- _expression_ A variable that represents a **SubForm** object.
+ _expression_ A variable that represents a [SubForm](./Access.SubForm.md) object.
 
 
 ## Remarks

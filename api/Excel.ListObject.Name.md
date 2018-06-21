@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the name of the **[ListObjec
 
  _expression_. 'Name'
 
- _expression_ An expression that returns a **ListObject** object.
+ _expression_ An expression that returns a [ListObject](./Excel.ListObject.md) object.
 
 
 ### Return Value

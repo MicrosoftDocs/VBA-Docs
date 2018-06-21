@@ -20,7 +20,7 @@ You can use the  **AllForms** property to reference the **[AllForms](Access.AllF
 
  _expression_. 'AllForms'
 
- _expression_ A variable that represents a **CurrentProject** object.
+ _expression_ A variable that represents a [CurrentProject](./Access.CurrentProject.md) object.
 
 
 ## See also

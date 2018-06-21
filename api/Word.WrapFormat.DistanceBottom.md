@@ -20,7 +20,7 @@ Returns or sets the distance (in points) between the document text and the botto
 
  _expression_. 'DistanceBottom'
 
- _expression_ A variable that represents a **[WrapFormat](Word.WrapFormat.md)** object.
+ _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 
 
 ## Remarks

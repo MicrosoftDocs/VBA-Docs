@@ -18,7 +18,7 @@ ms.prod: excel
 
  _expression_. 'IsTotal'
 
- _expression_ A variable that represents a **Point** object.
+ _expression_ A variable that represents a [Point](./Excel.Point(Graph object).md) object.
 
 
 ## See also

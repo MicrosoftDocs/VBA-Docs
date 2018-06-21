@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to hide the left border o
 
  _expression_. 'HideLeft'
 
- _expression_ An expression that returns an **[OMathBorderBox](Word.OMathBorderBox.md)** object.
+ _expression_ An expression that returns an '[OMathBorderBox](Word.OMathBorderBox.md)' object.
 
 
 ## See also

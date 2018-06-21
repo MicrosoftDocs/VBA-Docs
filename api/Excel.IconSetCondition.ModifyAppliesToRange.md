@@ -20,7 +20,7 @@ Sets the cell range to which this formatting rule applies.
 
  _expression_. 'ModifyAppliesToRange'( '_Range_' )
 
- _expression_ A variable that represents an **IconSetCondition** object.
+ _expression_ A variable that represents an [IconSetCondition](./Excel.IconSetCondition.md) object.
 
 
 ### Parameters

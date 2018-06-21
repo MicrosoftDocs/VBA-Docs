@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'CanOpen'
 
- _expression_ A variable that represents a **[FileConverter](PowerPoint.FileConverter.md)** object.
+ _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 
 
 ## Remarks

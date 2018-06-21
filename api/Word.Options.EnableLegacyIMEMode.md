@@ -20,7 +20,7 @@ Returns or sets a **Boolean** that represents whether to enable legacy IME mode.
 
  _expression_. 'EnableLegacyIMEMode'
 
- _expression_ An expression that returns a **[Options](Word.Options.md)** object.
+ _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 
 
 ## See also

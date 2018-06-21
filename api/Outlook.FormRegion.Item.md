@@ -20,7 +20,7 @@ Returns an  **Object** corresponding to the Outlook item bound to the form regio
 
  _expression_. 'Item'
 
- _expression_ A variable that represents a **FormRegion** object.
+ _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ## See also

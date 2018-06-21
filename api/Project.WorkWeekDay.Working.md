@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Working'
 
- _expression_ An expression that returns a **WorkWeekDay** object.
+ _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 
 
 ## Remarks

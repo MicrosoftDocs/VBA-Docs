@@ -20,7 +20,7 @@ Gets or sets the amount of space (in inches) between the toggle button and its t
 
  _expression_. 'TopPadding'
 
- _expression_ A variable that represents a **ToggleButton** object.
+ _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 
 
 ## See also

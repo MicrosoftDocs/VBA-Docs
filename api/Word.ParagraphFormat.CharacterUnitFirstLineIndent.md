@@ -20,7 +20,7 @@ Returns or sets the value (in characters) for a first-line or hanging indent. Us
 
  _expression_. 'CharacterUnitFirstLineIndent'
 
- _expression_ Required. A variable that represents a **[ParagraphFormat](Word.ParagraphFormat.md)** object.
+ _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 
 
 ## Example

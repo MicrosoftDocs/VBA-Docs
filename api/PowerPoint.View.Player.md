@@ -20,7 +20,7 @@ Allows access to playback controls for the associated view in the current window
 
  _expression_. 'Player'( '_ShapeId_' )
 
- _expression_ A variable that represents a **View** object.
+ _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
 ### Parameters

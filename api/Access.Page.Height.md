@@ -20,7 +20,7 @@ Gets or sets the height of the specified object in twips. Read/write  **Integer*
 
  _expression_. 'Height'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Access.Page.md) object.
 
 
 ## Remarks

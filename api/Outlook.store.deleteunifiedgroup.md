@@ -18,7 +18,7 @@ Enables a unified group to be deleted.
 
  _expression_. 'DeleteUnifiedGroup'
 
- _expression_ A variable that represents a **Store** object.
+ _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
 ### Parameters

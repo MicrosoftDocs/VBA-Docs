@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'SyncScrollingSideBySide'
 
- _expression_ An expression that returns a **Windows** collection.
+ _expression_ An expression that returns a 'Windows' collection.
 
 
 ## Remarks

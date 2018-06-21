@@ -20,7 +20,7 @@ Copies the specified slicer to the clipboard.
 
  _expression_. 'Copy'
 
- _expression_ A variable that represents a **[Slicer](Excel.Slicer.md)** object.
+ _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Example

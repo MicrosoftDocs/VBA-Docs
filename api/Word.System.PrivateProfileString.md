@@ -20,7 +20,7 @@ Returns or sets a string in a settings file or the Microsoft Windows registry. R
 
  _expression_. 'PrivateProfileString'( '_FileName_' , '_Section_' , '_Key_' )
 
- _expression_ An expression that returns a **[System](Word.System.md)** object.
+ _expression_ An expression that returns a '[System](Word.System.md)' object.
 
 
 ### Parameters

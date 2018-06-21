@@ -17,7 +17,7 @@ Returns the friendly name for a custom field.
 
  _expression_. 'CustomFieldGetName'( ' _FieldID_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Parameters

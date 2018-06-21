@@ -20,7 +20,7 @@ The  **SelStart** property specifies or determines the starting point of the sel
 
  _expression_. 'SelStart'
 
- _expression_ A variable that represents a **ComboBox** object.
+ _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 
 
 ## Remarks

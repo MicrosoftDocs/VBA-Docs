@@ -20,7 +20,7 @@ Starts a new undo entry in the  **Application** object.
 
  _expression_. 'StartNewUndoEntry'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ You can use the  **HasData** property to determine if a report is bound to an em
 
  _expression_. 'HasData'
 
- _expression_ A variable that represents a **Report** object.
+ _expression_ A variable that represents a [Report](./Access.Report.md) object.
 
 
 ## Remarks

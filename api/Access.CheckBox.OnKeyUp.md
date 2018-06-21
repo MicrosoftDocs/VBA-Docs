@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Key Up** box in the **Properties** window
 
  _expression_. 'OnKeyUp'
 
- _expression_ A variable that represents a **CheckBox** object.
+ _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
 
 
 ## Remarks

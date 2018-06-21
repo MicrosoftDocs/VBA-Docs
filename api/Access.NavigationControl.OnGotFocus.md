@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Got Focus** box in the **Properties** win
 
  _expression_. 'OnGotFocus'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## Remarks

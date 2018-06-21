@@ -20,7 +20,7 @@ Returns the file name extensions associated with the specified  **FileConverter*
 
  _expression_. 'Extensions'
 
- _expression_ A variable that represents a **[FileConverter](PowerPoint.FileConverter.md)** object.
+ _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 
 
 ## Example

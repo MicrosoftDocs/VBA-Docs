@@ -20,7 +20,7 @@ Adjusts the height of the specified cells so that they are equal.
 
  _expression_. 'DistributeHeight'
 
- _expression_ Required. A variable that represents a **[Cells](Word.cells.md)** collection.
+ _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 
 
 ## Example

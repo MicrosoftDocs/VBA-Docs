@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the right margin for equations. Re
 
  _expression_. 'OMathRightMargin'
 
- _expression_ An expression that returns a **Document** object.
+ _expression_ An expression that returns a [Document](./Word.Document.md) object.
 
 
 ## See also

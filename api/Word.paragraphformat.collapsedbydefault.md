@@ -18,7 +18,7 @@ Returns or sets whether the specified paragraph format is collapsed by default. 
 
  _expression_. 'CollapsedByDefault'
 
- _expression_ A variable that represents a **ParagraphFormat** object.
+ _expression_ A variable that represents a [ParagraphFormat](./Word.ParagraphFormat.md) object.
 
 
 ## Remarks

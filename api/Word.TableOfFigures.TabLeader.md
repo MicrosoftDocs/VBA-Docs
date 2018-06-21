@@ -20,7 +20,7 @@ Returns or sets the character between entries and their page numbers in an table
 
  _expression_. 'TabLeader'
 
- _expression_ Required. A variable that represents a **[TableOfFigures](Word.TableOfFigures.md)** collection.
+ _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 
 
 ## Example

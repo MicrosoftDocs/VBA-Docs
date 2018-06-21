@@ -17,6 +17,6 @@ Deletes the  **ViewSingle** object from a **ViewsSingle** collection.
 
  _expression_. 'Delete'
 
- _expression_ A variable that represents a **ViewSingle** object.
+ _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 
 

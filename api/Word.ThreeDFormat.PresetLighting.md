@@ -20,7 +20,7 @@ Returns or sets an  **MsoBevelType** constant that represents the lighting prese
 
  _expression_. 'PresetLighting'
 
- _expression_ An expression that returns a **[ThreeDFormat](Word.ThreeDFormat.md)** object.
+ _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
 ## See also

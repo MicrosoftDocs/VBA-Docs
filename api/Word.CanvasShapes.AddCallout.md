@@ -20,7 +20,7 @@ Adds a borderless line callout to a drawing canvas. Returns a  **[Shape](Word.Sh
 
  _expression_. 'AddCallout'( '_Type_' , '_Left_' , '_Top_' , '_Width_' , '_Height_' )
 
- _expression_ Required. A variable that represents a **[CanvasShapes](Word.CanvasShapes.md)** collection.
+ _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 
 
 ### Parameters

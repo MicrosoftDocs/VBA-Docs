@@ -20,7 +20,7 @@ Returns the source name of the current  **ProtectedViewWindow** object. Read-onl
 
  _expression_. 'SourceName'
 
- _expression_ A variable that represents a **ProtectedViewWindow** object.
+ _expression_ A variable that represents a [ProtectedViewWindow](./PowerPoint.ProtectedViewWindow.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Gets or sets the Extensible Markup Language (XML) string that defines an  **[Imp
 
  _expression_. 'XML'
 
- _expression_ A variable that represents an **ImportExportSpecification** object.
+ _expression_ A variable that represents an [ImportExportSpecification](./Access.ImportExportSpecification.md) object.
 
 
 ## See also

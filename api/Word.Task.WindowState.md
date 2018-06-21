@@ -20,7 +20,7 @@ Returns or sets the state of the specified document window or task window. Read/
 
  _expression_. 'WindowState'
 
- _expression_ Required. A variable that represents a **[Task](Word.Task.md)** object.
+ _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 
 
 ## Example

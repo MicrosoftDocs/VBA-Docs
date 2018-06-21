@@ -18,7 +18,7 @@ Returns the [Guides](http://msdn.microsoft.com/library/923ef616-0670-6ad1-2d9b-f
 
  _expression_. 'Guides'
 
- _expression_ A variable that represents a **CustomLayout** object.
+ _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
 ## Property value

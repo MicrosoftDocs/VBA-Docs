@@ -20,7 +20,7 @@ Returns or sets a  **[WdReadingLayoutMargin](Word.WdReadingLayoutMargin.md)** co
 
  _expression_. 'ReadingLayoutTruncateMargins'
 
- _expression_ An expression that returns a **[View](Word.View.md)** object.
+ _expression_ An expression that returns a '[View](Word.View.md)' object.
 
 
 ## See also

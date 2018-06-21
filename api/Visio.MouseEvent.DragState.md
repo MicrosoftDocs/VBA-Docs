@@ -20,7 +20,7 @@ Returns information about the state of mouse movement as it relates to dragging 
 
  _expression_. 'DragState'
 
- _expression_ An expression that returns a **MouseEvent** object.
+ _expression_ An expression that returns a [MouseEvent](./Visio.MouseEvent.md) object.
 
 
 ### Return Value

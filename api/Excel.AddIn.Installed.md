@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. 'Installed'
 
- _expression_ A variable that represents an **AddIn** object.
+ _expression_ A variable that represents an [AddIn](./Excel.AddIn.md) object.
 
 
 ## Remarks

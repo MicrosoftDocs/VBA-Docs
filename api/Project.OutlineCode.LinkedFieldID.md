@@ -17,7 +17,7 @@ Gets or sets the outline code field ID for a linked lookup table. Obsolete in Pr
 
  _expression_. 'LinkedFieldID'
 
- _expression_ A variable that represents an **OutlineCode** object.
+ _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 
 
 ## Remarks

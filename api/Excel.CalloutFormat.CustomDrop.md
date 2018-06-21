@@ -20,7 +20,7 @@ Sets the vertical distance (in points) from the edge of the text bounding box to
 
  _expression_. 'CustomDrop'( '_Drop_' )
 
- _expression_ A variable that represents a **CalloutFormat** object.
+ _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
 
 
 ### Parameters

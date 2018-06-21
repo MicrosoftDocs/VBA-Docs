@@ -20,7 +20,7 @@ Returns a  **[Table](Outlook.Table.md)** object that represents all of the Micro
 
  _expression_. 'GetTable'
 
- _expression_ A variable that represents a **TableView** object.
+ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Sends the specified document as a fax, without any user interaction.
 
  _expression_. 'SendFax'( '_Address_' , '_Subject_' )
 
- _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
+ _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
 ### Parameters

@@ -15,7 +15,7 @@ Returns a [Comments](Visio.comments.md) object that represents the collection of
 
  _expression_. 'Comments'
 
- _expression_ A variable that represents a **Page** object.
+ _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
 ## Property value

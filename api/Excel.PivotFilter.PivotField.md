@@ -20,7 +20,7 @@ Specifies the PivotField to which the filter is applied. Read-only.
 
  _expression_. 'PivotField'
 
- _expression_ A variable that represents a **PivotFilter** object.
+ _expression_ A variable that represents a [PivotFilter](./Excel.PivotFilter.md) object.
 
 
 ## See also

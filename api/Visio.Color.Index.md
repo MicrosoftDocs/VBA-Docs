@@ -20,7 +20,7 @@ Gets the ordinal position of a  **Color** object in the **Colors** collection. R
 
  _expression_. 'Index'
 
- _expression_ A variable that represents a **Color** object.
+ _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 
 
 ### Return Value

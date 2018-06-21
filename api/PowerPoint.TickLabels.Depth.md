@@ -20,6 +20,6 @@ Returns the number of levels of category tick labels. Read-only  **Long**.
 
  _expression_. 'Depth'
 
- _expression_ A variable that represents a **[TickLabels](PowerPoint.TickLabels.md)** object.
+ _expression_ A variable that represents a '[TickLabels](PowerPoint.TickLabels.md)' object.
 
 

@@ -20,7 +20,7 @@ Gets the collection of navigation buttons for the specified navigation control. 
 
  _expression_. 'Tabs'
 
- _expression_ A variable that represents a **NavigationControl** object.
+ _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 
 
 ## See also

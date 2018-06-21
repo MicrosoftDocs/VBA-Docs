@@ -20,7 +20,7 @@ Sets or returns the value of the  **On Got Focus** box in the **Properties** win
 
  _expression_. 'OnGotFocus'
 
- _expression_ A variable that represents an **Attachment** object.
+ _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 
 
 ## Remarks

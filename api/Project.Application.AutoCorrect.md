@@ -20,7 +20,7 @@ Displays the  **AutoCorrect** dialog box.
 
  _expression_. 'AutoCorrect'
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
 ### Return Value

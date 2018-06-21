@@ -20,7 +20,7 @@ Returns a  **String** representing the display name of the **[NavigationFolder](
 
  _expression_. 'DisplayName'
 
- _expression_ A variable that represents a **NavigationFolder** object.
+ _expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
 
 
 ## Remarks

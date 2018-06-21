@@ -18,7 +18,7 @@ Given an attribute hierarchy, returns an implicit measure for the given function
 
  _expression_. 'GetMeasure'_(AttributeHierarchy,_ _Function,_ _Caption)_
 
- _expression_ A variable that represents a **CubeFields** object.
+ _expression_ A variable that represents a [CubeFields](./Excel.CubeFields.md) object.
 
 
 ### Parameters

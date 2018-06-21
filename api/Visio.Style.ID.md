@@ -20,7 +20,7 @@ Gets the ID of an object. Read-only.
 
  _expression_. 'ID'
 
- _expression_ A variable that represents a **Style** object.
+ _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
 ### Return Value

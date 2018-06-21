@@ -20,7 +20,7 @@ Returns a  **[FileDialog](http://msdn.microsoft.com/library/71a030f2-3b02-21e1-c
 
  _expression_. 'FileDialog'( '_fileDialogType_' )
 
- _expression_ A variable that represents an **Application** object.
+ _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 
 
 ### Parameters

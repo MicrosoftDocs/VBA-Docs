@@ -20,7 +20,7 @@ The  **AfterDelConfirm** event occurs after the user confirms the deletions and 
 
  _expression_. 'AfterDelConfirm'( ' _Status_' )
 
- _expression_ A variable that represents a **Form** object.
+ _expression_ A variable that represents a [Form](./Access.Form.md) object.
 
 
 ### Parameters

@@ -20,7 +20,7 @@ Returns an  **[olNavigationModuleType](Outlook.OlNavigationModuleType.md)** cons
 
  _expression_. 'NavigationModuleType'
 
- _expression_ An expression that returns a **ContactsModule** object.
+ _expression_ An expression that returns a [ContactsModule](./Outlook.ContactsModule.md) object.
 
 
 ## Remarks
