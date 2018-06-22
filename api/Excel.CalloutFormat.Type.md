@@ -18,7 +18,7 @@ Returns or sets a  **[MsoCalloutType](http://msdn.microsoft.com/library/65548284
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
 

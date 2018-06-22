@@ -18,7 +18,7 @@ Returns a  **[DataLabel](Excel.DataLabel(objec).md)** object that represents the
 
 ## Syntax
 
- _expression_. 'DataLabel'
+ _expression_. `DataLabel`
 
  _expression_ A variable that represents a [Point](./Excel.Point(Graph object).md) object.
 

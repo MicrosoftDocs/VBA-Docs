@@ -18,7 +18,7 @@ Returns or sets the characters (up to five) that separate a range of pages in a 
 
 ## Syntax
 
- _expression_. 'PageRangeSeparator'
+ _expression_. `PageRangeSeparator`
 
  _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 

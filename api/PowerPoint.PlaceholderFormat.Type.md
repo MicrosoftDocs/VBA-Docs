@@ -18,7 +18,7 @@ Represents the type of placeholder. Read-only.
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a [PlaceholderFormat](./PowerPoint.PlaceholderFormat.md) object.
 

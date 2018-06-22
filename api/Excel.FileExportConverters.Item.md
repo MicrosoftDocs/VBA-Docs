@@ -18,7 +18,7 @@ Returns an individual  **[FileExportConverter](Excel.FileExportConverter.md)** o
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents a '[FileExportConverters](Excel.FileExportConverters.md)' object.
 

@@ -18,7 +18,7 @@ Returns or sets the color of the outside borders. Read/write  **WdColorIndex** .
 
 ## Syntax
 
- _expression_. 'OutsideColorIndex'
+ _expression_. `OutsideColorIndex`
 
  _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 

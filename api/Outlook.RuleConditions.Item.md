@@ -18,7 +18,7 @@ Obtains a  **[RuleCondition](Outlook.RuleCondition.md)** object specified by _In
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
 

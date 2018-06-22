@@ -16,7 +16,7 @@ Returns the active document to the last saved reading position, and returns an i
 
 ## Syntax
 
- _expression_. 'ReturnToLastReadPosition'
+ _expression_. `ReturnToLastReadPosition`
 
  _expression_ A variable that represents a [Document](./Word.Document.md) object.
 

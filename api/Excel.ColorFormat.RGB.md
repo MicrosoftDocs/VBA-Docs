@@ -18,7 +18,7 @@ Returns or sets a  **Long** value that represents the red-green-blue value of th
 
 ## Syntax
 
- _expression_. 'RGB'
+ _expression_. `RGB`
 
  _expression_ A variable that represents a [ColorFormat](./Excel.ColorFormat.md) object.
 

@@ -18,7 +18,7 @@ You can use the  **PageFooter** property to specify whether a report's page foot
 
 ## Syntax
 
- _expression_. 'PageFooter'
+ _expression_. `PageFooter`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

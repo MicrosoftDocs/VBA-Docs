@@ -18,7 +18,7 @@ Returns the code name for the object. Read-only  **String** .
 
 ## Syntax
 
- _expression_. 'CodeName'
+ _expression_. `CodeName`
 
  _expression_ An expression that returns a [Worksheet](./Excel.Worksheet.md) object.
 

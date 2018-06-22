@@ -18,7 +18,7 @@ Returns a  **String** indicating name of the specified printer device. Read-only
 
 ## Syntax
 
- _expression_. 'DeviceName'
+ _expression_. `DeviceName`
 
  _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 

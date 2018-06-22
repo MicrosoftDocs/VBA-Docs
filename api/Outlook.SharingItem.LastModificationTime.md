@@ -18,7 +18,7 @@ Returns a  **Date** specifying the date and time that the **[SharingItem](Outloo
 
 ## Syntax
 
- _expression_. 'LastModificationTime'
+ _expression_. `LastModificationTime`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

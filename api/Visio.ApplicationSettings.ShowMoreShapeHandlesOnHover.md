@@ -18,7 +18,7 @@ Gets or sets whether to show additional shape handles when the mouse is paused o
 
 ## Syntax
 
- _expression_. 'ShowMoreShapeHandlesOnHover'
+ _expression_. `ShowMoreShapeHandlesOnHover`
 
  _expression_ An expression that returns an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

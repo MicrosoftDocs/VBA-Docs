@@ -18,7 +18,7 @@ Gets or sets a  **[Filter](Project.Filter.md)** object representing the filter u
 
 ## Syntax
 
- _expression_. 'Filter'
+ _expression_. `Filter`
 
  _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 

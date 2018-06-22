@@ -18,7 +18,7 @@ Unlocks the specified lock.
 
 ## Syntax
 
- _expression_. 'Unlock'
+ _expression_. `Unlock`
 
  _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 

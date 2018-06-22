@@ -18,7 +18,7 @@ Merges the specified subdocuments of a master document into a single subdocument
 
 ## Syntax
 
- _expression_. 'Merge'( '_FirstSubdocument_' , '_LastSubdocument_' )
+ _expression_. `Merge`( `_FirstSubdocument_` , `_LastSubdocument_` )
 
  _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 

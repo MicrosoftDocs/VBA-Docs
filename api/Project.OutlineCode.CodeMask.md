@@ -18,7 +18,7 @@ Gets a  **[CodeMask](Project.codemask.md)** collection representing the code mas
 
 ## Syntax
 
- _expression_. 'CodeMask'
+ _expression_. `CodeMask`
 
  _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

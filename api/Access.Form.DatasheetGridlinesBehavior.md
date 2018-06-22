@@ -18,7 +18,7 @@ You can use the  **DatasheetGridlinesBehavior** property to specify which gridli
 
 ## Syntax
 
- _expression_. 'DatasheetGridlinesBehavior'
+ _expression_. `DatasheetGridlinesBehavior`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

@@ -18,7 +18,7 @@ Inserts columns to the left of the column that contains the selection.
 
 ## Syntax
 
- _expression_. 'InsertColumns'
+ _expression_. `InsertColumns`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

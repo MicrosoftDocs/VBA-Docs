@@ -18,7 +18,7 @@ Publishes the  **[ListObject](Excel.ListObject.md)** object to a server that is 
 
 ## Syntax
 
- _expression_. 'Publish'( '_Target_' , '_LinkSource_' )
+ _expression_. `Publish`( `_Target_` , `_LinkSource_` )
 
  _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 

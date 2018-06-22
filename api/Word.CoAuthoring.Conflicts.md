@@ -18,7 +18,7 @@ Returns a  **[Conflicts](Word.Conflicts.md)** collection that represents all the
 
 ## Syntax
 
- _expression_. 'Conflicts'
+ _expression_. `Conflicts`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 

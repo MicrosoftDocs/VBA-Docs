@@ -18,7 +18,7 @@ The  **StringFromGUID** function converts a GUID, which is an array of type **By
 
 ## Syntax
 
- _expression_. 'StringFromGUID'( ' _Guid_' )
+ _expression_. `StringFromGUID`( ` _Guid_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

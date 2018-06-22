@@ -18,7 +18,7 @@ Returns or sets the line style for the border. Read/write  **[XlLineStyle](Power
 
 ## Syntax
 
- _expression_. 'LineStyle'
+ _expression_. `LineStyle`
 
  _expression_ A variable that represents a '[ChartBorder](PowerPoint.ChartBorder.md)' object.
 

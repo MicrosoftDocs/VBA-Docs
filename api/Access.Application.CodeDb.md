@@ -18,7 +18,7 @@ You can use the  **CodeDb** method in a code module to determine the name of the
 
 ## Syntax
 
- _expression_. 'CodeDb'
+ _expression_. `CodeDb`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

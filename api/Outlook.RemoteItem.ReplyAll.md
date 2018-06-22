@@ -15,7 +15,7 @@ Occurs when the user selects the  **ReplyAll** action for an item (which is an i
 
 ## Syntax
 
- _expression_. 'ReplyAll'( '_Response_' , '_Cancel_' )
+ _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
  _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 

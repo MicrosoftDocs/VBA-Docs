@@ -18,7 +18,7 @@ Extracts the phonetic (furigana) characters from a text string.
 
 ## Syntax
 
- _expression_. 'Phonetic'( '_Arg1_' )
+ _expression_. `Phonetic`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

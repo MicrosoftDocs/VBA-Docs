@@ -18,7 +18,7 @@ Returns an  **[Account](Outlook.Account.md)** object that represents the selecte
 
 ## Syntax
 
- _expression_. 'SelectedAccount'
+ _expression_. `SelectedAccount`
 
  _expression_ A variable that represents an '[AccountSelector](Outlook.AccountSelector.md)' object.
 

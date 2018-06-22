@@ -18,7 +18,7 @@ Saves a copy of the specified presentation to a file without modifying the origi
 
 ## Syntax
 
- _expression_. 'SaveCopyAs'( '_FileName_', '_FileFormat_', '_EmbedTrueTypeFonts_' )
+ _expression_. `SaveCopyAs`( `_FileName_`, `_FileFormat_`, `_EmbedTrueTypeFonts_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

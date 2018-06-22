@@ -18,7 +18,7 @@ Determines whether the range of slides follows the slide master background. Read
 
 ## Syntax
 
- _expression_. 'FollowMasterBackground'
+ _expression_. `FollowMasterBackground`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

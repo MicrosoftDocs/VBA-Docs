@@ -18,7 +18,7 @@ Updates the page numbers for items in the specified table of contents.
 
 ## Syntax
 
- _expression_. 'UpdatePageNumbers'
+ _expression_. `UpdatePageNumbers`
 
  _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 

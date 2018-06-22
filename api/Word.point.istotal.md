@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'IsTotal'
+ _expression_. `IsTotal`
 
  _expression_ A variable that represents a [Point](./Word.Point.md) object.
 

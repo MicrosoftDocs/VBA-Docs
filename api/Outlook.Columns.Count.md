@@ -18,7 +18,7 @@ Returns a  **Long** representing the number of **[Column](Outlook.Column.md)** o
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a [Columns](./Outlook.Columns.md) object.
 

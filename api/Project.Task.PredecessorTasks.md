@@ -18,7 +18,7 @@ Gets a  **[Tasks](Project.Task.md)** collection representing the predecessors of
 
 ## Syntax
 
- _expression_. 'PredecessorTasks'
+ _expression_. `PredecessorTasks`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

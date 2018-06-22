@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the postal code (zip code) portion of
 
 ## Syntax
 
- _expression_. 'MailingAddressPostalCode'
+ _expression_. `MailingAddressPostalCode`
 
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 

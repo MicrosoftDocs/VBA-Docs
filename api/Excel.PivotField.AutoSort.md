@@ -18,7 +18,7 @@ Establishes automatic field-sorting rules for PivotTable reports.
 
 ## Syntax
 
- _expression_. 'AutoSort'( '_Order_' , '_Field_' , '_PivotLine_' , '_CustomSubtotal_' )
+ _expression_. `AutoSort`( `_Order_` , `_Field_` , `_PivotLine_` , `_CustomSubtotal_` )
 
  _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 

@@ -18,7 +18,7 @@ Returns the standard (default) height of all the rows in the worksheet, in point
 
 ## Syntax
 
- _expression_. 'StandardHeight'
+ _expression_. `StandardHeight`
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

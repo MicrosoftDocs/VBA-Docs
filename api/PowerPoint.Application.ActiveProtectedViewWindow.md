@@ -18,7 +18,7 @@ Returns a  **[ProtectedViewWindow](PowerPoint.ProtectedViewWindow.md)** object t
 
 ## Syntax
 
- _expression_. 'ActiveProtectedViewWindow'
+ _expression_. `ActiveProtectedViewWindow`
 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

@@ -18,7 +18,7 @@ Returns the complete path of the startup folder, excluding the final separator. 
 
 ## Syntax
 
- _expression_. 'StartupPath'
+ _expression_. `StartupPath`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

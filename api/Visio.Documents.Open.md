@@ -18,7 +18,7 @@ Opens an existing file so that it can be edited.
 
 ## Syntax
 
- _expression_. 'Open'( '_FileName_' )
+ _expression_. `Open`( `_FileName_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

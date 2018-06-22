@@ -18,7 +18,7 @@ Returns the slide number. Read-only.
 
 ## Syntax
 
- _expression_. 'SlideNumber'
+ _expression_. `SlideNumber`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **String** value that represents the localized display name for the *
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsModule.md)' object.
 

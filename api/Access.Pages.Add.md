@@ -18,7 +18,7 @@ The  **Add** method adds a new **[Page](Access.Page.md)** object to the **[Pages
 
 ## Syntax
 
- _expression_. 'Add'( ' _Before_' )
+ _expression_. `Add`( ` _Before_` )
 
  _expression_ A variable that represents a [Pages](./Access.Pages.md) object.
 

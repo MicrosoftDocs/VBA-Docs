@@ -18,7 +18,7 @@ Deletes the specified  **AnimationPoint** object.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents an [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
 

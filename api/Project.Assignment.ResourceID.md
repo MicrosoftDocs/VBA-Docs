@@ -15,7 +15,7 @@ Gets or sets the identification number of the resource for the assignment. Read/
 
 ## Syntax
 
- _expression_. 'ResourceID'
+ _expression_. `ResourceID`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

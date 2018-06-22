@@ -18,7 +18,7 @@ Adds a FILLIN field to a mail merge main document. Returns a  **MailMergeField**
 
 ## Syntax
 
- _expression_. 'AddFillIn'( '_Range_' , '_Prompt_' , '_DefaultFillInText_' , '_AskOnce_' )
+ _expression_. `AddFillIn`( `_Range_` , `_Prompt_` , `_DefaultFillInText_` , `_AskOnce_` )
 
  _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 

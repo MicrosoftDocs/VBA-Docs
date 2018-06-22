@@ -18,7 +18,7 @@ Gets or sets the width of the right gridline for the specified list box. Read/wr
 
 ## Syntax
 
- _expression_. 'GridlineWidthRight'
+ _expression_. `GridlineWidthRight`
 
  _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 

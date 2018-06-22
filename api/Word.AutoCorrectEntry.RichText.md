@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'RichText'
+ _expression_. `RichText`
 
  _expression_ An expression that returns an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 

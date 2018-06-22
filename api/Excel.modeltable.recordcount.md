@@ -16,7 +16,7 @@ Returns the total row count for the model table.  **Integer** Read-only
 
 ## Syntax
 
- _expression_. 'RecordCount'
+ _expression_. `RecordCount`
 
  _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 

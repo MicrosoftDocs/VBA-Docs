@@ -18,7 +18,7 @@ Displays cost information in the active view.
 
 ## Syntax
 
- _expression_. 'ViewShowCost'
+ _expression_. `ViewShowCost`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

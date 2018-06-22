@@ -18,7 +18,7 @@ Returns a  **[Style](Word.Style.md)** object that represents the style used when
 
 ## Syntax
 
- _expression_. 'ReplyStyle'
+ _expression_. `ReplyStyle`
 
  _expression_ An expression that returns an '[EmailOptions](Word.EmailOptions.md)' object.
 

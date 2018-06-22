@@ -18,7 +18,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that represen
 
 ## Syntax
 
- _expression_. 'Class'
+ _expression_. `Class`
 
  _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
 

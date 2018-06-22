@@ -18,7 +18,7 @@ Returns or sets the position of the specified tab stop, in points. Read/write.
 
 ## Syntax
 
- _expression_. 'Position'
+ _expression_. `Position`
 
  _expression_ A variable that represents a [TabStop](./PowerPoint.TabStop.md) object.
 

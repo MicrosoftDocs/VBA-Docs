@@ -16,7 +16,7 @@ Returns the Gamma function value.
 
 ## Syntax
 
- _expression_. 'Gamma'_(Arg1)_
+ _expression_. `Gamma`_(Arg1)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

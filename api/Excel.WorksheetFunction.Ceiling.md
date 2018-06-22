@@ -22,7 +22,7 @@ For more information about the new function, see the [Ceiling_Precise](Excel.Wor
 
 ## Syntax
 
- _expression_. 'Ceiling'( '_Arg1_' , '_Arg2_' )
+ _expression_. `Ceiling`( `_Arg1_` , `_Arg2_` )
 
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 

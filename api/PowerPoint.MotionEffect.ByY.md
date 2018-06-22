@@ -18,7 +18,7 @@ Sets or returns a  **Single** that represents scaling or moving an object VERTIC
 
 ## Syntax
 
- _expression_. 'ByY'
+ _expression_. `ByY`
 
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 

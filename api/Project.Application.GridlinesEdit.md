@@ -18,7 +18,7 @@ Edits gridlines.
 
 ## Syntax
 
- _expression_. 'GridlinesEdit'( ' _Item_', ' _NormalType_', ' _NormalColor_', ' _Interval_', ' _IntervalType_', ' _IntervalColor_' )
+ _expression_. `GridlinesEdit`( ` _Item_`, ` _NormalType_`, ` _NormalColor_`, ` _Interval_`, ` _IntervalType_`, ` _IntervalColor_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

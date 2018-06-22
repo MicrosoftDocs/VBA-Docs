@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'VarOleObject'
+ _expression_. `VarOleObject`
 
  _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 

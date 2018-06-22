@@ -18,7 +18,7 @@ Stores extra information about a control needed by a Microsoft Access applicatio
 
 ## Syntax
 
- _expression_. 'Tag'
+ _expression_. `Tag`
 
  _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 

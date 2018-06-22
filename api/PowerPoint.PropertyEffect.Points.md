@@ -18,7 +18,7 @@ Returns an  **AnimationPoints** object that represents a point in an animation.
 
 ## Syntax
 
- _expression_. 'Points'
+ _expression_. `Points`
 
  _expression_ A variable that represents a [PropertyEffect](./PowerPoint.PropertyEffect.md) object.
 

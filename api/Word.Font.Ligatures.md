@@ -18,7 +18,7 @@ Returns or sets the ligatures setting for the specified  **Font** object. Read/w
 
 ## Syntax
 
- _expression_. 'Ligatures'
+ _expression_. `Ligatures`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

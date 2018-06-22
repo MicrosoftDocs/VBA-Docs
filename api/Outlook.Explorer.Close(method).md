@@ -18,7 +18,7 @@ Closes the  **[Explorer](Outlook.Explorer.md)** object.
 
 ## Syntax
 
- _expression_. 'Close'()
+ _expression_. `Close`()
 
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 

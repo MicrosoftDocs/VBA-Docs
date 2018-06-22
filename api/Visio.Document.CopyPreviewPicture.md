@@ -18,7 +18,7 @@ Copies the preview picture from another document into the current document.
 
 ## Syntax
 
- _expression_. 'CopyPreviewPicture'( '_pSourceDoc_' )
+ _expression_. `CopyPreviewPicture`( `_pSourceDoc_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

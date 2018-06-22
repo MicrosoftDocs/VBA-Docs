@@ -18,7 +18,7 @@ Adds a tag to the  **[Tags](PowerPoint.Tags.md)** collection of an object.
 
 ## Syntax
 
- _expression_. 'Add'( '_Name_', '_Value_' )
+ _expression_. `Add`( `_Name_`, `_Value_` )
 
  _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 

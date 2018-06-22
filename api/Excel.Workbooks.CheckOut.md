@@ -18,7 +18,7 @@ Returns a  **String** representing a specified workbook from a server to a local
 
 ## Syntax
 
- _expression_. 'CheckOut'( '_Filename_' )
+ _expression_. `CheckOut`( `_Filename_` )
 
  _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 

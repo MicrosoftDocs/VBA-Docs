@@ -18,7 +18,7 @@ Returns the  **Layers** collection of an object. Read-only.
 
 ## Syntax
 
- _expression_. 'Layers'
+ _expression_. `Layers`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

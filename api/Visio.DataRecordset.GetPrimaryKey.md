@@ -21,7 +21,7 @@ Gets the primary key setting and the name of the primary key column or columns f
 
 ## Syntax
 
- _expression_. 'GetPrimaryKey'( '_PrimaryKeySettings_' , '_PrimaryKey()_' )
+ _expression_. `GetPrimaryKey`( `_PrimaryKeySettings_` , `_PrimaryKey()_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

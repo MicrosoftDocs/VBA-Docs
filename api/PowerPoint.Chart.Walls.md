@@ -18,7 +18,7 @@ Returns the walls of the 3-D chart. Read-only  **[Walls](PowerPoint.Walls.md)**.
 
 ## Syntax
 
- _expression_. 'Walls'
+ _expression_. `Walls`
 
  _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

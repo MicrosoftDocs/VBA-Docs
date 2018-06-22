@@ -18,7 +18,7 @@ Returns a  **Long** value that represents the LCID for the **[ListColumn](Excel.
 
 ## Syntax
 
- _expression_. 'lcid'
+ _expression_. `lcid`
 
  _expression_ A variable that represents a [ListDataFormat](./Excel.ListDataFormat.md) object.
 

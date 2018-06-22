@@ -18,7 +18,7 @@ The  **Maximize** method carries out the Maximize action in Visual Basic.
 
 ## Syntax
 
- _expression_. 'Maximize'
+ _expression_. `Maximize`
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

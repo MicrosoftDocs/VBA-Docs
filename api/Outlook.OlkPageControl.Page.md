@@ -18,7 +18,7 @@ Returns or sets an  **[OlPageType](Outlook.OlPageType.md)** constant that specif
 
 ## Syntax
 
- _expression_. 'Page'
+ _expression_. `Page`
 
  _expression_ A variable that represents an [OlkPageControl](./Outlook.OlkPageControl.md) object.
 

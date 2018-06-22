@@ -18,7 +18,7 @@ Carries out the Echo action in Visual Basic.
 
 ## Syntax
 
- _expression_. 'Echo'( ' _EchoOn_', ' _StatusBarText_' )
+ _expression_. `Echo`( ` _EchoOn_`, ` _StatusBarText_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

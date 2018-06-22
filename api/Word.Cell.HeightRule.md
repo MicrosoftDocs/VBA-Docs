@@ -18,7 +18,7 @@ Returns or sets a  **WdRowHeightRule** constant that represents the rule for det
 
 ## Syntax
 
- _expression_. 'HeightRule'
+ _expression_. `HeightRule`
 
  _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 

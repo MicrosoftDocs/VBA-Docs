@@ -18,7 +18,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
 ## Syntax
 
- _expression_. 'HeadingsFont'
+ _expression_. `HeadingsFont`
 
  _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 

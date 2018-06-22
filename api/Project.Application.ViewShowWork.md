@@ -18,7 +18,7 @@ Displays work information in the active details pane.
 
 ## Syntax
 
- _expression_. 'ViewShowWork'
+ _expression_. `ViewShowWork`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -14,7 +14,7 @@ Sets or clears task successor highlighting for the task path feature.
 
 ## Syntax
 
- _expression_. 'HighlightSuccessors' _(Set)_
+ _expression_. `HighlightSuccessors` _(Set)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

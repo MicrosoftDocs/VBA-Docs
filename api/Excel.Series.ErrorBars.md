@@ -18,7 +18,7 @@ Returns an  **[ErrorBars](Excel.ErrorBars(objec).md)** object that represents th
 
 ## Syntax
 
- _expression_. 'ErrorBars'
+ _expression_. `ErrorBars`
 
  _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
 

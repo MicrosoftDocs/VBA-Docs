@@ -18,7 +18,7 @@ Returns or sets the width of the specified document window, in points. Read/writ
 
 ## Syntax
 
- _expression_. 'Width'
+ _expression_. `Width`
 
  _expression_ A variable that represents a '[Window](Word.Window.md)' object.
 

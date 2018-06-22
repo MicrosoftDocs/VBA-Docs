@@ -18,7 +18,7 @@ Returns the arcsine, or inverse sine, of a number. The arcsine is the angle whos
 
 ## Syntax
 
- _expression_. 'Asin'( '_Arg1_' )
+ _expression_. `Asin`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

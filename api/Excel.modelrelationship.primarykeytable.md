@@ -16,7 +16,7 @@ Contains the [ModelTable Object (Excel)](modeltable-object-excel.md) object (Exc
 
 ## Syntax
 
- _expression_. 'PrimaryKeyTable'
+ _expression_. `PrimaryKeyTable`
 
  _expression_ A variable that represents a[ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
 

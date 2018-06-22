@@ -18,7 +18,7 @@ Gets whether or not macros and Visual Basic for Applications (VBA) code have bee
 
 ## Syntax
 
- _expression_. 'IsTrusted'
+ _expression_. `IsTrusted`
 
  _expression_ A variable that represents a [CurrentProject](./Access.CurrentProject.md) object.
 

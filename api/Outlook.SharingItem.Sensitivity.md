@@ -18,7 +18,7 @@ Returns or sets an  **[OlSensitivity](Outlook.OlSensitivity.md)** constant indic
 
 ## Syntax
 
- _expression_. 'Sensitivity'
+ _expression_. `Sensitivity`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

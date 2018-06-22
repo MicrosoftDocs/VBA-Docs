@@ -18,7 +18,7 @@ Gets or sets the amount of space (in inches) between the subform and its bottom 
 
 ## Syntax
 
- _expression_. 'BottomPadding'
+ _expression_. `BottomPadding`
 
  _expression_ A variable that represents a [SubForm](./Access.SubForm.md) object.
 

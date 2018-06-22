@@ -18,7 +18,7 @@ Returns or sets the array formula of a range. Returns (or can be set to) a singl
 
 ## Syntax
 
- _expression_. 'FormulaArray'
+ _expression_. `FormulaArray`
 
  _expression_ . A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

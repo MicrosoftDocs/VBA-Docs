@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the alternative text associated wi
 
 ## Syntax
 
- _expression_. 'AlternativeText'
+ _expression_. `AlternativeText`
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

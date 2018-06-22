@@ -15,7 +15,7 @@ Returns an  **[Crop](http://msdn.microsoft.com/library/21ac150e-0a8f-c77b-717f-b
 
 ## Syntax
 
- _expression_. 'Crop'
+ _expression_. `Crop`
 
  _expression_ A variable that represents a [PictureFormat](./Excel.PictureFormat.md) object.
 

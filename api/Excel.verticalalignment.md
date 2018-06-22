@@ -19,7 +19,7 @@ Returns or sets the vertical alignment of the specified object. Required  **XlVA
 | **xlVAlignBottom**|
 | **xlVAlignCenter** **xlVAlignDistributed** **xlVAlignJustify** **xlVAlignTop**|
 
- _expression_. 'VerticalAlignment'
+ _expression_. `VerticalAlignment`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

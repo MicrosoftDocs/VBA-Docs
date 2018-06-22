@@ -18,7 +18,7 @@ This property is applicable only to OLAP PivotTables and provides the  **Value**
 
 ## Syntax
 
- _expression_. 'DataCubeField'
+ _expression_. `DataCubeField`
 
  _expression_ A variable that represents a [PivotFilter](./Excel.PivotFilter.md) object.
 

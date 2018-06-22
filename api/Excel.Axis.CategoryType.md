@@ -18,7 +18,7 @@ Returns or sets the category axis type. Read/write  **[XlCategoryType](Excel.XlC
 
 ## Syntax
 
- _expression_. 'CategoryType'
+ _expression_. `CategoryType`
 
  _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 

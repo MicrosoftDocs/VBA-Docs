@@ -18,7 +18,7 @@ You can use the  **Name** property to specify or determine the string expression
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents an [Image](./Access.Image.md) object.
 

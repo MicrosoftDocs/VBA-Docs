@@ -18,7 +18,7 @@ Returns a  **[FillFormat](Word.FillFormat.md)** object that contains fill format
 
 ## Syntax
 
- _expression_. 'Fill'
+ _expression_. `Fill`
 
  _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 

@@ -18,7 +18,7 @@ Deletes the specified table row.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 

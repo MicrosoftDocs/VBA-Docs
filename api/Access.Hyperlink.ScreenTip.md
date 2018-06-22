@@ -18,7 +18,7 @@ You can use the  **ScreenTip** property to specify or determine the text that is
 
 ## Syntax
 
- _expression_. 'ScreenTip'
+ _expression_. `ScreenTip`
 
  _expression_ A variable that represents a [Hyperlink](./Access.Hyperlink.md) object.
 

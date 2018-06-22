@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Clears the formatting of the object.
 
- _expression_. 'ClearFormats'
+ _expression_. `ClearFormats`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

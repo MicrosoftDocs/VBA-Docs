@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'SuppressEndnotes'
+ _expression_. `SuppressEndnotes`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 

@@ -18,7 +18,7 @@ Checks the type of value and returns TRUE or FALSE depending if the value is odd
 
 ## Syntax
 
- _expression_. 'IsOdd'( '_Arg1_' )
+ _expression_. `IsOdd`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

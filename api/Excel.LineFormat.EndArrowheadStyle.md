@@ -18,7 +18,7 @@ Returns or sets the style of the arrowhead at the end of the specified line. Rea
 
 ## Syntax
 
- _expression_. 'EndArrowheadStyle'
+ _expression_. `EndArrowheadStyle`
 
  _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
 

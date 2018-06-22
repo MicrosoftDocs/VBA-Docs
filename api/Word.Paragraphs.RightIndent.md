@@ -18,7 +18,7 @@ Returns or sets the right indent (in points) for the specified paragraphs. Read/
 
 ## Syntax
 
- _expression_. 'RightIndent'
+ _expression_. `RightIndent`
 
  _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

@@ -18,7 +18,7 @@ Always  **True** for Project and any other application that supports multiple do
 
 ## Syntax
 
- _expression_. 'SupportsMultipleDocuments'
+ _expression_. `SupportsMultipleDocuments`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

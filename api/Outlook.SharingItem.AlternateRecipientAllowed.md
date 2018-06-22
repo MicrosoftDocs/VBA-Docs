@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that is **True** if the item can be forward
 
 ## Syntax
 
- _expression_. 'AlternateRecipientAllowed'
+ _expression_. `AlternateRecipientAllowed`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

@@ -18,7 +18,7 @@ Pastes and formats a Microsoft Excel table.
 
 ## Syntax
 
- _expression_. 'PasteExcelTable'( '_LinkedToExcel_' , '_WordFormatting_' , '_RTF_' )
+ _expression_. `PasteExcelTable`( `_LinkedToExcel_` , `_WordFormatting_` , `_RTF_` )
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

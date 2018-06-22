@@ -18,7 +18,7 @@ Returns a  **Cell** object that represents a cell in a table.
 
 ## Syntax
 
- _expression_. 'Cell'( '_Row_' , '_Column_' )
+ _expression_. `Cell`( `_Row_` , `_Column_` )
 
  _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 

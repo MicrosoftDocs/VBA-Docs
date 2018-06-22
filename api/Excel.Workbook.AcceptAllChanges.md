@@ -18,7 +18,7 @@ Accepts all changes in the specified shared workbook.
 
 ## Syntax
 
- _expression_. 'AcceptAllChanges'( '_When_' , '_Who_' , '_Where_' )
+ _expression_. `AcceptAllChanges`( `_When_` , `_Who_` , `_Where_` )
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

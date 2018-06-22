@@ -18,7 +18,7 @@ Applies one or more categories to all existing items and future items of the con
 
 ## Syntax
 
- _expression_. 'SetAlwaysAssignCategories'( '_Categories_' , '_Store_' )
+ _expression_. `SetAlwaysAssignCategories`( `_Categories_` , `_Store_` )
 
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 

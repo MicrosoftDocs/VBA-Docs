@@ -18,7 +18,7 @@ Obtains appropriate storage for a form region based on the specified information
 
 ## Syntax
 
- _expression_. 'GetFormRegionStorage'( '_FormRegionName_' , '_Item_' , '_LCID_' , '_FormRegionMode_' , '_FormRegionSize_' )
+ _expression_. `GetFormRegionStorage`( `_FormRegionName_` , `_Item_` , `_LCID_` , `_FormRegionMode_` , `_FormRegionSize_` )
 
  _expression_ A variable that represents an object that implements the 'FormRegionStartup' interface.
 

@@ -18,7 +18,7 @@ You can use the  **IsVisible** property to determine whether a control on a repo
 
 ## Syntax
 
- _expression_. 'IsVisible'
+ _expression_. `IsVisible`
 
  _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 

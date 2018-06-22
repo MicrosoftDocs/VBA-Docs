@@ -18,7 +18,7 @@ Creates an OLE object. Returns the  **[InlineShape](Word.InlineShape.md)** objec
 
 ## Syntax
 
- _expression_. 'AddOLEObject'( '_ClassType_' , '_FileName_' , '_LinkToFile_' , '_DisplayAsIcon_' , '_IconFileName_' , '_IconIndex_' , '_IconLabel_' , '_Range_' )
+ _expression_. `AddOLEObject`( `_ClassType_` , `_FileName_` , `_LinkToFile_` , `_DisplayAsIcon_` , `_IconFileName_` , `_IconIndex_` , `_IconLabel_` , `_Range_` )
 
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 

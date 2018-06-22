@@ -18,7 +18,7 @@ Returns a  **[BuildingBlocks](Word.BuildingBlocks.md)** collection that represen
 
 ## Syntax
 
- _expression_. 'BuildingBlocks'
+ _expression_. `BuildingBlocks`
 
  _expression_ An expression that returns a '[Category](Word.Category.md)' object.
 

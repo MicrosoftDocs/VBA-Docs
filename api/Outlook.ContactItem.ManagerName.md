@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the manager name for the contact. Rea
 
 ## Syntax
 
- _expression_. 'ManagerName'
+ _expression_. `ManagerName`
 
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 

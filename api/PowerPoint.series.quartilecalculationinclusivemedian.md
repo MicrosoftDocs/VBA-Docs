@@ -16,7 +16,7 @@ ms.prod: powerpoint
 
 ## Syntax
 
- _expression_. 'QuartileCalculationInclusiveMedian'
+ _expression_. `QuartileCalculationInclusiveMedian`
 
  _expression_ A variable that represents a [Series](./PowerPoint.Series.md) object.
 

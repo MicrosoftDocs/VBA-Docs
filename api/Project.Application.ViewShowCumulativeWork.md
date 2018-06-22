@@ -18,7 +18,7 @@ Displays cumulative work information in the active Resource Graph view.
 
 ## Syntax
 
- _expression_. 'ViewShowCumulativeWork'
+ _expression_. `ViewShowCumulativeWork`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

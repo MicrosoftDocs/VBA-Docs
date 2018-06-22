@@ -18,7 +18,7 @@ Returns or sets the style of the specified WordArt. Read/write.
 
 ## Syntax
 
- _expression_. 'PresetTextEffect'
+ _expression_. `PresetTextEffect`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 

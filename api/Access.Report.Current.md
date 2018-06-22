@@ -18,7 +18,7 @@ Occurs when the focus moves to a record, making it the current record, or when t
 
 ## Syntax
 
- _expression_. 'Current'
+ _expression_. `Current`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

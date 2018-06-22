@@ -16,7 +16,7 @@ Specifies if the column widths are automatically adjusted for the best fit each 
 
 ## Syntax
 
- _expression_. 'AdjustColumnWidth'
+ _expression_. `AdjustColumnWidth`
 
  _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 

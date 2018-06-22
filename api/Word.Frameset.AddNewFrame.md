@@ -18,7 +18,7 @@ Adds a new frame to a frames page.
 
 ## Syntax
 
- _expression_. 'AddNewFrame'( '_Where_' )
+ _expression_. `AddNewFrame`( `_Where_` )
 
  _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 

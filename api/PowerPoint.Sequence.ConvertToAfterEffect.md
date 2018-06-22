@@ -18,7 +18,7 @@ Specifies what an effect should do after it is finished. Returns an  **[Effect](
 
 ## Syntax
 
- _expression_. 'ConvertToAfterEffect'( '_Effect_', '_After_', '_DimColor_', '_DimSchemeColor_' )
+ _expression_. `ConvertToAfterEffect`( `_Effect_`, `_After_`, `_DimColor_`, `_DimSchemeColor_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 

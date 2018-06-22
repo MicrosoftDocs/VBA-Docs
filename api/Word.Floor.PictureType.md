@@ -18,7 +18,7 @@ Returns or sets a value that specifies how pictures are displayed on the walls a
 
 ## Syntax
 
- _expression_. 'PictureType'
+ _expression_. `PictureType`
 
  _expression_ A variable that represents a '[Floor](Word.Floor.md)' object.
 

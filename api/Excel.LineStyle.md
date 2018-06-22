@@ -24,7 +24,7 @@ Returns or sets the line style for the border. Read/write
 | **xlDash**|
 | **xlDashDot** **xlDashDotDot** **xlDot** **xlDouble** **xlSlantDashDot** **xlLineStyleNone**|
 
- _expression_. 'LineStyle'
+ _expression_. `LineStyle`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

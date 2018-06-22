@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object specifying the cell range t
 
 ## Syntax
 
- _expression_. 'AppliesTo'
+ _expression_. `AppliesTo`
 
  _expression_ A variable that represents a [ColorScale](./Excel.ColorScale.md) object.
 

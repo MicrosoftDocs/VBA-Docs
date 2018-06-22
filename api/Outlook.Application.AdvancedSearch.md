@@ -18,7 +18,7 @@ Performs a search based on a specified DAV Searching and Locating (DASL) search 
 
 ## Syntax
 
- _expression_. 'AdvancedSearch'( '_Scope_' , '_Filter_' , '_SearchSubFolders_' , '_Tag_' )
+ _expression_. `AdvancedSearch`( `_Scope_` , `_Filter_` , `_SearchSubFolders_` , `_Tag_` )
 
  _expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
 

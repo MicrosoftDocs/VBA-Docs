@@ -15,7 +15,7 @@ Gets or sets the start date of the work shift. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. 'Start'
+ _expression_. `Start`
 
  _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 

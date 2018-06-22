@@ -18,7 +18,7 @@ Gets or sets the distance, in pixels, between the left edge of the  **WebBrowser
 
 ## Syntax
 
- _expression_. 'ScrollLeft'
+ _expression_. `ScrollLeft`
 
  _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
 

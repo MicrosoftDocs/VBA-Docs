@@ -15,7 +15,7 @@ Gets an  **[Assignment](Project.Assignment.md)** object from its containing coll
 
 ## Syntax
 
- _expression_. 'UniqueID'( ' _Index_' )
+ _expression_. `UniqueID`( ` _Index_` )
 
  _expression_ A variable that represents an 'Assignments' object.
 

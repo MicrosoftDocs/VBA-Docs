@@ -18,7 +18,7 @@ Specifies a custom menu to display for a Microsoft Access database. Read/write  
 
 ## Syntax
 
- _expression_. 'MenuBar'
+ _expression_. `MenuBar`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

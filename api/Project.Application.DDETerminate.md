@@ -18,7 +18,7 @@ Ends a dynamic data exchange (DDE) session.
 
 ## Syntax
 
- _expression_. 'DDETerminate'
+ _expression_. `DDETerminate`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

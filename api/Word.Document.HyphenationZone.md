@@ -18,7 +18,7 @@ Returns or sets the width of the hyphenation zone, in points. Read/write  **Long
 
 ## Syntax
 
- _expression_. 'HyphenationZone'
+ _expression_. `HyphenationZone`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

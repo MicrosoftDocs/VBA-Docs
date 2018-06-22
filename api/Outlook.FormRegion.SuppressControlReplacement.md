@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that disables Outlook from automatically replacin
 
 ## Syntax
 
- _expression_. 'SuppressControlReplacement'
+ _expression_. `SuppressControlReplacement`
 
  _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 

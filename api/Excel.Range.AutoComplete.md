@@ -18,7 +18,7 @@ Returns an AutoComplete match from the list. If there?s no AutoComplete match or
 
 ## Syntax
 
- _expression_. 'AutoComplete'( '_String_' )
+ _expression_. `AutoComplete`( `_String_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

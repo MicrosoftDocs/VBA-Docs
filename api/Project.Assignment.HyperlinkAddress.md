@@ -15,7 +15,7 @@ Gets or sets the URL or UNC path of a document. Read/write  **String**.
 
 ## Syntax
 
- _expression_. 'HyperlinkAddress'
+ _expression_. `HyperlinkAddress`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

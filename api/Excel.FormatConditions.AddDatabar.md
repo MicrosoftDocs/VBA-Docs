@@ -18,7 +18,7 @@ Returns a  **[Databar](Excel.Databar.md)** object representing a data bar condit
 
 ## Syntax
 
- _expression_. 'AddDatabar'
+ _expression_. `AddDatabar`
 
  _expression_ A variable that represents a [FormatConditions](./Excel.FormatConditions.md) object.
 

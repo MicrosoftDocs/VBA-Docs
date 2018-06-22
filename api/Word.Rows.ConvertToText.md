@@ -18,7 +18,7 @@ Converts rows in a table to text and returns a  **Range** object that represents
 
 ## Syntax
 
- _expression_. 'ConvertToText'( '_Separator_' , '_NestedTables_' )
+ _expression_. `ConvertToText`( `_Separator_` , `_NestedTables_` )
 
  _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 

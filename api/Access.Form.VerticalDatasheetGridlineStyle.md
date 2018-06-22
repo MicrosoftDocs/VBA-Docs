@@ -18,7 +18,7 @@ Returns or sets a  **Byte** indicating the line style to use for vertical gridli
 
 ## Syntax
 
- _expression_. 'VerticalDatasheetGridlineStyle'
+ _expression_. `VerticalDatasheetGridlineStyle`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

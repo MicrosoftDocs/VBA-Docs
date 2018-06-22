@@ -15,7 +15,7 @@ Gets or sets the budget work (in hours) for a  **Resource**. Read/write **Varian
 
 ## Syntax
 
- _expression_. 'BudgetWork'
+ _expression_. `BudgetWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

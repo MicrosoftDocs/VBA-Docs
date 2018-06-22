@@ -18,7 +18,7 @@ Occurs when a filter is applied to a report.
 
 ## Syntax
 
- _expression_. 'ApplyFilter'( ' _Cancel_', ' _ApplyType_' )
+ _expression_. `ApplyFilter`( ` _Cancel_`, ` _ApplyType_` )
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

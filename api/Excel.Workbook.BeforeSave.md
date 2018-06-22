@@ -18,7 +18,7 @@ Occurs before the workbook is saved.
 
 ## Syntax
 
- _expression_. 'BeforeSave'( '_SaveAsUI_' , '_Cancel_' )
+ _expression_. `BeforeSave`( `_SaveAsUI_` , `_Cancel_` )
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

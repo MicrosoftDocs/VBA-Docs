@@ -18,7 +18,7 @@ Gets or sets the abbreviation for "minute" that is displayed for values such as 
 
 ## Syntax
 
- _expression_. 'MinuteLabelDisplay'
+ _expression_. `MinuteLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

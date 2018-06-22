@@ -18,7 +18,7 @@ Occurs when a workbook is installed as an add-in.
 
 ## Syntax
 
- _expression_. 'WorkbookAddinInstall'( '_Wb_' )
+ _expression_. `WorkbookAddinInstall`( `_Wb_` )
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

@@ -18,7 +18,7 @@ Determines whether a menu item appears at the beginning of a group of items on t
 
 ## Syntax
 
- _expression_. 'BeginGroup'
+ _expression_. `BeginGroup`
 
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 

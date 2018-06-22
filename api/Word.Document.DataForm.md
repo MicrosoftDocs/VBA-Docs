@@ -18,7 +18,7 @@ Displays the  **Data Form** dialog box, in which you can add, delete, or modify 
 
 ## Syntax
 
- _expression_. 'DataForm'
+ _expression_. `DataForm`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

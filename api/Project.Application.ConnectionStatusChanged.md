@@ -15,7 +15,7 @@ Occurs when the status of the connection with Project Server changes. Available 
 
 ## Syntax
 
- _expression_. 'ConnectionStatusChanged'( ' _online_', )
+ _expression_. `ConnectionStatusChanged`( ` _online_`, )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

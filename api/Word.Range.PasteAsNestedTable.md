@@ -18,7 +18,7 @@ Pastes a cell or group of cells as a nested table into the selected range.
 
 ## Syntax
 
- _expression_. 'PasteAsNestedTable'
+ _expression_. `PasteAsNestedTable`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

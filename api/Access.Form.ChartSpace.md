@@ -18,7 +18,7 @@ Returns a  **ChartSpace** object. Read-only.
 
 ## Syntax
 
- _expression_. 'ChartSpace'
+ _expression_. `ChartSpace`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

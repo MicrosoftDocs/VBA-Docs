@@ -18,7 +18,7 @@ Copies the sheet to another location in the current workbook or a new workbook.
 
 ## Syntax
 
- _expression_. 'Copy'( '_Before_' , '_After_' )
+ _expression_. `Copy`( `_Before_` , `_After_` )
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

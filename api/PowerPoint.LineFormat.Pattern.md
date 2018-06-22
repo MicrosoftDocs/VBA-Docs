@@ -18,7 +18,7 @@ Sets or returns a value that represents the pattern applied to the specified lin
 
 ## Syntax
 
- _expression_. 'Pattern'
+ _expression_. `Pattern`
 
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 

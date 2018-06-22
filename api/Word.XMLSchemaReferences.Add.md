@@ -18,7 +18,7 @@ Returns an  **XMLSchemaReference** that represents a schema applied to a documen
 
 ## Syntax
 
- _expression_. 'Add'( '_NamespaceURI_' , '_Alias_' , '_FileName_' , '_InstallForAllUsers_' )
+ _expression_. `Add`( `_NamespaceURI_` , `_Alias_` , `_FileName_` , `_InstallForAllUsers_` )
 
  _expression_ Required. A variable that represents a '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
 

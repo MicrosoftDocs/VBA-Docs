@@ -18,7 +18,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 ## Syntax
 
- _expression_. 'Class'
+ _expression_. `Class`
 
  _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
 

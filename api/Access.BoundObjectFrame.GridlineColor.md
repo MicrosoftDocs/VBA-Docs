@@ -18,7 +18,7 @@ Gets or sets the color of the gridline for the specified object frame. Read/writ
 
 ## Syntax
 
- _expression_. 'GridlineColor'
+ _expression_. `GridlineColor`
 
  _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 

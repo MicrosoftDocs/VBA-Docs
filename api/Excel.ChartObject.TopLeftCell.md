@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the cell th
 
 ## Syntax
 
- _expression_. 'TopLeftCell'
+ _expression_. `TopLeftCell`
 
  _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 

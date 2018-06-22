@@ -18,7 +18,7 @@ You can use the  **ListRows** property to set the maximum number of rows to disp
 
 ## Syntax
 
- _expression_. 'ListRows'
+ _expression_. `ListRows`
 
  _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 

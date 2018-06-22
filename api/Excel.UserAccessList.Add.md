@@ -18,7 +18,7 @@ Adds a user access list.
 
 ## Syntax
 
- _expression_. 'Add'( '_Name_' , '_AllowEdit_' )
+ _expression_. `Add`( `_Name_` , `_AllowEdit_` )
 
  _expression_ A variable that represents an [UserAccessList](./Excel.UserAccessList.md) object.
 

@@ -17,7 +17,7 @@ Specifies the date format, for example, " _dd/mm/yy_ ". Read/write **String**.
 
 ## Syntax
 
- _expression_. 'FormatString'
+ _expression_. `FormatString`
 
  _expression_ A variable that represents a 'ModelFormatDate' object.
 

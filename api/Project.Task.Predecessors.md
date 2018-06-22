@@ -15,7 +15,7 @@ Gets or sets a list of the identification numbers of a task's predecessors. Read
 
 ## Syntax
 
- _expression_. 'Predecessors'
+ _expression_. `Predecessors`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **[Row](Word.Row.md)** object that represents the row containing the 
 
 ## Syntax
 
- _expression_. 'Row'
+ _expression_. `Row`
 
  _expression_ An expression that returns a '[Cell](Word.Cell.md)' object.
 

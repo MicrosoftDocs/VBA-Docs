@@ -18,7 +18,7 @@ Returns the type of text form field. Read-only  **[WdTextFormFieldType](Word.WdT
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
 

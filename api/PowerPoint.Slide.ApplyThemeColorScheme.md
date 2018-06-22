@@ -18,7 +18,7 @@ Applies a color scheme to the specified slide.
 
 ## Syntax
 
- _expression_. 'ApplyThemeColorScheme'( '_themeColorSchemeName_' )
+ _expression_. `ApplyThemeColorScheme`( `_themeColorSchemeName_` )
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

@@ -18,7 +18,7 @@ Inserts a blank row above the selected task row or cell in a Gantt chart.
 
 ## Syntax
 
- _expression_. 'InsertBlankRow'
+ _expression_. `InsertBlankRow`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

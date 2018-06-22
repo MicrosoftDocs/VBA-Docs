@@ -18,7 +18,7 @@ Returns or sets a  **[WdPasteOptions](Word.WdPasteOptions.md)** constant that re
 
 ## Syntax
 
- _expression_. 'PasteFormatWithinDocument'
+ _expression_. `PasteFormatWithinDocument`
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 

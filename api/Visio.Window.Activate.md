@@ -18,7 +18,7 @@ Activates a window.
 
 ## Syntax
 
- _expression_. 'Activate'
+ _expression_. `Activate`
 
  _expression_ An expression that returns a [Window](./Visio.Window.md) object.
 

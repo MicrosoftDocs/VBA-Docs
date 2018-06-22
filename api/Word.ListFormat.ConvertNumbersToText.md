@@ -18,7 +18,7 @@ Changes the list numbers and LISTNUM fields in the specified  **ListFormat** obj
 
 ## Syntax
 
- _expression_. 'ConvertNumbersToText'
+ _expression_. `ConvertNumbersToText`
 
  _expression_ A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 

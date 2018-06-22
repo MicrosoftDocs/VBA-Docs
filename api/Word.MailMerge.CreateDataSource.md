@@ -18,7 +18,7 @@ Creates a Microsoft Word document that uses a table to store data for a mail mer
 
 ## Syntax
 
- _expression_. 'CreateDataSource'( '_Name_' , '_PasswordDocument_' , '_WritePasswordDocument_' , '_HeaderRecord_' , '_MSQuery_' , '_SQLStatement_' , '_SQLStatement1_' , '_Connection_' , '_LinkToSource_' )
+ _expression_. `CreateDataSource`( `_Name_` , `_PasswordDocument_` , `_WritePasswordDocument_` , `_HeaderRecord_` , `_MSQuery_` , `_SQLStatement_` , `_SQLStatement1_` , `_Connection_` , `_LinkToSource_` )
 
  _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 

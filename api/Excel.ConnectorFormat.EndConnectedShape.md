@@ -18,7 +18,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the shape that the
 
 ## Syntax
 
- _expression_. 'EndConnectedShape'
+ _expression_. `EndConnectedShape`
 
  _expression_ A variable that represents a [ConnectorFormat](./Excel.ConnectorFormat.md) object.
 

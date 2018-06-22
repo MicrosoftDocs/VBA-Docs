@@ -18,7 +18,7 @@ Returns a master that is open for editing and originally copied from this master
 
 ## Syntax
 
- _expression_. 'EditCopy'
+ _expression_. `EditCopy`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

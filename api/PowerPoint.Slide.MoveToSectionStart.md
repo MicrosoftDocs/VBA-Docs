@@ -18,7 +18,7 @@ Moves the current slide to the start of the specified section.
 
 ## Syntax
 
- _expression_. 'MoveToSectionStart'( '_toSection_' )
+ _expression_. `MoveToSectionStart`( `_toSection_` )
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

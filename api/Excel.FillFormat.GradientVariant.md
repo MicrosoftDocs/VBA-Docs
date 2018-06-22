@@ -18,7 +18,7 @@ Returns the shade variant for the specified fill as an integer value from 1 thro
 
 ## Syntax
 
- _expression_. 'GradientVariant'
+ _expression_. `GradientVariant`
 
  _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 

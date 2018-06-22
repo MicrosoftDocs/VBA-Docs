@@ -18,7 +18,7 @@ Returns a  **DocumentProperties** collection that represents all the custom docu
 
 ## Syntax
 
- _expression_. 'CustomDocumentProperties'
+ _expression_. `CustomDocumentProperties`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

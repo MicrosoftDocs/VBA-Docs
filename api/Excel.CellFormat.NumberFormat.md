@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value that represents the format code for the obj
 
 ## Syntax
 
- _expression_. 'NumberFormat'
+ _expression_. `NumberFormat`
 
  _expression_ A variable that represents a [CellFormat](./Excel.CellFormat.md) object.
 

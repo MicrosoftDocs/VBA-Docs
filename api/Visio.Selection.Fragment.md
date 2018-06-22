@@ -18,7 +18,7 @@ Breaks selected shapes into smaller shapes.
 
 ## Syntax
 
- _expression_. 'Fragment'
+ _expression_. `Fragment`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the emphasis mark for a character or designated character string
 
 ## Syntax
 
- _expression_. 'EmphasisMark'
+ _expression_. `EmphasisMark`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

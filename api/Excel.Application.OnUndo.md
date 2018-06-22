@@ -18,7 +18,7 @@ Sets the text of the  **Undo** command and the name of the procedure that?s run 
 
 ## Syntax
 
- _expression_. 'OnUndo'( '_Text_' , '_Procedure_' )
+ _expression_. `OnUndo`( `_Text_` , `_Procedure_` )
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

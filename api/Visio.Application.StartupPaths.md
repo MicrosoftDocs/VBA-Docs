@@ -18,7 +18,7 @@ Gets or sets the paths where Microsoft Visio looks for third-party and user add-
 
 ## Syntax
 
- _expression_. 'StartupPaths'
+ _expression_. `StartupPaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

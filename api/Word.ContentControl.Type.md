@@ -18,7 +18,7 @@ Returns or sets a  **[WdContentControlType](Word.WdContentControlType.md)** that
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

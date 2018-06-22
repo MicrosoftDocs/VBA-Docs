@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether Microsoft Word has detecte
 
 ## Syntax
 
- _expression_. 'LanguageDetected'
+ _expression_. `LanguageDetected`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

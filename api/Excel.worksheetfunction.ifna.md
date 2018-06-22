@@ -16,7 +16,7 @@ Returns the value you specify if the expression resolves to #N/A, otherwise retu
 
 ## Syntax
 
- _expression_. 'IfNa'_(Arg1,_ _Arg2)_
+ _expression_. `IfNa`_(Arg1,_ _Arg2)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

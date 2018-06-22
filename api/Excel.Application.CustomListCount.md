@@ -18,7 +18,7 @@ Returns the number of defined custom lists (including built-in lists). Read-only
 
 ## Syntax
 
- _expression_. 'CustomListCount'
+ _expression_. `CustomListCount`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

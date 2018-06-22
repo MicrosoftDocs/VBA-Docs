@@ -18,7 +18,7 @@ Returns or sets whether a Microsoft Access application is minimized. Read/write 
 
 ## Syntax
 
- _expression_. 'Visible'
+ _expression_. `Visible`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

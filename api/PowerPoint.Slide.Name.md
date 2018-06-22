@@ -18,7 +18,7 @@ When a slide is inserted into a presentation, Microsoft PowerPoint automatically
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

@@ -18,7 +18,7 @@ Gets the  **[ReportTemplates](Project.reporttemplates.md)** collection that repr
 
 ## Syntax
 
- _expression_. 'VisualReportTemplateList'
+ _expression_. `VisualReportTemplateList`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -15,7 +15,7 @@ Verifies whether the Project Web App URL belongs to a trusted site in the user's
 
 ## Syntax
 
- _expression_. 'IsURLTrusted'( ' _URL_' )
+ _expression_. `IsURLTrusted`( ` _URL_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

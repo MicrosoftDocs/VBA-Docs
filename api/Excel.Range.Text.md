@@ -18,7 +18,7 @@ Returns or sets the text for the specified object. Read-only  **String** .
 
 ## Syntax
 
- _expression_. 'Text'
+ _expression_. `Text`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

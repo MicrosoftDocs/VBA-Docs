@@ -18,7 +18,7 @@ Sends a verb to the server of the specified OLE object.
 
 ## Syntax
 
- _expression_. 'Verb'( '_Verb_' )
+ _expression_. `Verb`( `_Verb_` )
 
  _expression_ A variable that represents an [OLEFormat](./Excel.OLEFormat.md) object.
 

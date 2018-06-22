@@ -18,7 +18,7 @@ Returns or sets the shadow style. Read/write.
 
 ## Syntax
 
- _expression_. 'Style'
+ _expression_. `Style`
 
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 

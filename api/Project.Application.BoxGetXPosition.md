@@ -18,7 +18,7 @@ Returns the horizontal position of the upper-left corner of a box in the active 
 
 ## Syntax
 
- _expression_. 'BoxGetXPosition'( ' _TaskID_', ' _ProjectName_' )
+ _expression_. `BoxGetXPosition`( ` _TaskID_`, ` _ProjectName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

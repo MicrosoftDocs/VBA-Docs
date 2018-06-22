@@ -18,7 +18,7 @@ Gets or sets the amount of space (in inches) between the image control and its l
 
 ## Syntax
 
- _expression_. 'LeftPadding'
+ _expression_. `LeftPadding`
 
  _expression_ A variable that represents an [Image](./Access.Image.md) object.
 

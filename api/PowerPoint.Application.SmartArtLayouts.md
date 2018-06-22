@@ -18,7 +18,7 @@ Returns the SmartArt layout of the current  **Application** object. Read-only.
 
 ## Syntax
 
- _expression_. 'SmartArtLayouts'
+ _expression_. `SmartArtLayouts`
 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

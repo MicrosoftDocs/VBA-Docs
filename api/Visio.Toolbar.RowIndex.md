@@ -18,7 +18,7 @@ Gets or sets the docking order of a  **Toolbar** object in relation to other ite
 
 ## Syntax
 
- _expression_. 'RowIndex'
+ _expression_. `RowIndex`
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 

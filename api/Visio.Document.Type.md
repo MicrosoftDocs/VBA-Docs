@@ -18,7 +18,7 @@ Returns the type of the  **Document** object. Read-only.
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

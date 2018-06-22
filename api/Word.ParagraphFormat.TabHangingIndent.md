@@ -18,7 +18,7 @@ Sets a hanging indent to a specified number of tab stops. .
 
 ## Syntax
 
- _expression_. 'TabHangingIndent'( '_Count_' )
+ _expression_. `TabHangingIndent`( `_Count_` )
 
  _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

@@ -18,7 +18,7 @@ Returns an  **MsoPresetCamera** constant that represents the camera presets. Rea
 
 ## Syntax
 
- _expression_. 'PresetCamera'
+ _expression_. `PresetCamera`
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

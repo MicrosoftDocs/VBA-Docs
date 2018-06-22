@@ -18,7 +18,7 @@ Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebre
 
 ## Syntax
 
- _expression_. 'HebrewModes'
+ _expression_. `HebrewModes`
 
  _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **Single** that represents the lightening or darkening of a specified
 
 ## Syntax
 
- _expression_. 'TintAndShade'
+ _expression_. `TintAndShade`
 
  _expression_ An expression that returns a '[ColorFormat](Word.ColorFormat.md)' object.
 

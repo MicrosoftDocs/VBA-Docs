@@ -16,7 +16,7 @@ Returns a  **Long** that indicates the window handle of the specified window. Re
 
 ## Syntax
 
- _expression_. 'Hwnd'
+ _expression_. `Hwnd`
 
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 

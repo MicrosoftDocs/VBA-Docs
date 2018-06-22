@@ -18,7 +18,7 @@ Returns a  **Paragraphs** collection that represents all the paragraphs in the s
 
 ## Syntax
 
- _expression_. 'Paragraphs'
+ _expression_. `Paragraphs`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

@@ -18,7 +18,7 @@ Gets the identifier of the  **[ValidationIssue](Visio.ValidationIssue.md)** obje
 
 ## Syntax
 
- _expression_. 'ID'
+ _expression_. `ID`
 
  _expression_ A variable that represents a [ValidationIssue](./Visio.ValidationIssue.md) object.
 

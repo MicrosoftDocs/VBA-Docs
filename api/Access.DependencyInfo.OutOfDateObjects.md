@@ -18,7 +18,7 @@ Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that 
 
 ## Syntax
 
- _expression_. 'OutOfDateObjects'
+ _expression_. `OutOfDateObjects`
 
  _expression_ A variable that represents a [DependencyInfo](./Access.DependencyInfo.md) object.
 

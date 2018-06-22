@@ -18,7 +18,7 @@ Returns a  **Boolean** that represents whether to save a document through an Ext
 
 ## Syntax
 
- _expression_. 'XMLUseXSLTWhenSaving'
+ _expression_. `XMLUseXSLTWhenSaving`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

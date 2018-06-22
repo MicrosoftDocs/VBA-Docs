@@ -18,7 +18,7 @@ Occurs when a user inserts electronic postage into a document.
 
 ## Syntax
 
- _expression_. 'EPostageInsertEx'( '_Doc_' , '_cpDeliveryAddrStart_' , '_cpDeliveryAddrEnd_' , '_cpReturnAddrStart_' , '_cpReturnAddrEnd_' , '_xaWidth_' , '_yaHeight_' , '_bstrPrinterName_' , '_bstrPaperFeed_' , '_fPrint_' , '_fCancel_' )
+ _expression_. `EPostageInsertEx`( `_Doc_` , `_cpDeliveryAddrStart_` , `_cpDeliveryAddrEnd_` , `_cpReturnAddrStart_` , `_cpReturnAddrEnd_` , `_xaWidth_` , `_yaHeight_` , `_bstrPrinterName_` , `_bstrPaperFeed_` , `_fPrint_` , `_fCancel_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module. For information about using events with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
 

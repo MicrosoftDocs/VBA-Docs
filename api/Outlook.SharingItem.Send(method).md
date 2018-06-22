@@ -18,7 +18,7 @@ Sends the  **[SharingItem](Outlook.SharingItem.md)** .
 
 ## Syntax
 
- _expression_. 'Send'
+ _expression_. `Send`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

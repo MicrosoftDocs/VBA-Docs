@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether the grouping character is
 
 ## Syntax
 
- _expression_. 'AlignTop'
+ _expression_. `AlignTop`
 
  _expression_ An expression that returns an '[OMathGroupChar](Word.OMathGroupChar.md)' object.
 

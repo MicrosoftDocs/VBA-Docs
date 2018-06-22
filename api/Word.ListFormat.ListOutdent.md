@@ -18,7 +18,7 @@ Decreases the list level of the paragraphs in the range for the specified  **Lis
 
 ## Syntax
 
- _expression_. 'ListOutdent'
+ _expression_. `ListOutdent`
 
  _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 

@@ -18,7 +18,7 @@ Returns a  **Boolean** that represents whether Microsoft Word accepts custom XML
 
 ## Syntax
 
- _expression_. 'ArbitraryXMLSupportAvailable'
+ _expression_. `ArbitraryXMLSupportAvailable`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

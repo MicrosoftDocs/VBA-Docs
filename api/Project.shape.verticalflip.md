@@ -11,7 +11,7 @@ Gets a value that indicates whether the shape is flipped around the vertical axi
 
 ## Syntax
 
- _expression_. 'VerticalFlip'
+ _expression_. `VerticalFlip`
 
  _expression_ A variable that represents a 'Shape' object.
 

@@ -18,7 +18,7 @@ Returns a  **LanguageSettings** object, which contains information about the lan
 
 ## Syntax
 
- _expression_. 'LanguageSettings'
+ _expression_. `LanguageSettings`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

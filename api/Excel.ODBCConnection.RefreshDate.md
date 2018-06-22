@@ -18,7 +18,7 @@ Returns the date on which the ODBC connection was last refreshed. Read-only  **D
 
 ## Syntax
 
- _expression_. 'RefreshDate'
+ _expression_. `RefreshDate`
 
  _expression_ A variable that represents an [ODBCConnection](./Excel.ODBCConnection.md) object.
 

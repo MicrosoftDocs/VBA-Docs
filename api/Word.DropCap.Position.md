@@ -18,7 +18,7 @@ Returns or sets the position of a dropped capital letter. Read/write  **WdDropPo
 
 ## Syntax
 
- _expression_. 'Position'
+ _expression_. `Position`
 
  _expression_ Required. A variable that represents a '[DropCap](Word.DropCap.md)' object.
 

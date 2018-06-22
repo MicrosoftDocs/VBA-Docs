@@ -18,7 +18,7 @@ You can use the  **InSelection** property to determine or specify whether a cont
 
 ## Syntax
 
- _expression_. 'InSelection'
+ _expression_. `InSelection`
 
  _expression_ A variable that represents an [EmptyCell](./Access.EmptyCell.md) object.
 

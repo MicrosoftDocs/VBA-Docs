@@ -18,7 +18,7 @@ Returns or sets the specified  **Name** object as a workbook parameter. Read/wri
 
 ## Syntax
 
- _expression_. 'WorkbookParameter'
+ _expression_. `WorkbookParameter`
 
  _expression_ An expression that returns a [Name](./Excel.Name.md) object.
 

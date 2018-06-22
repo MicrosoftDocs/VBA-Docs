@@ -18,7 +18,7 @@ Sets display options for the  **General**,  **Display**, and  **Advanced** tabs 
 
 ## Syntax
 
- _expression_. 'OptionsViewEx'( ' _DefaultView_', ' _DateFormat_', ' _ProjectSummary_', ' _DisplayStatusBar_', ' _DisplayEntryBar_', ' _DisplayScrollBars_', ' _CurrencySymbol_', ' _SymbolPlacement_', ' _CurrencyDigits_', ' _ProjectCurrency_', ' _DisplayOutlineNumber_', ' _DisplayOutlineSymbols_', ' _DisplayNameIndent_', ' _DisplaySummaryTasks_', ' _DisplayOLEIndicator_', ' _DisplayExternalSuccessors_', ' _DisplayExternalPredecessors_', ' _CrossProjectLinksInfo_', ' _AcceptNewExternalData_', ' _DisplayWindowsInTaskbar_', ' _DisplayScreentips_', ' _CalendarType_', ' _Use3DLook_' )
+ _expression_. `OptionsViewEx`( ` _DefaultView_`, ` _DateFormat_`, ` _ProjectSummary_`, ` _DisplayStatusBar_`, ` _DisplayEntryBar_`, ` _DisplayScrollBars_`, ` _CurrencySymbol_`, ` _SymbolPlacement_`, ` _CurrencyDigits_`, ` _ProjectCurrency_`, ` _DisplayOutlineNumber_`, ` _DisplayOutlineSymbols_`, ` _DisplayNameIndent_`, ` _DisplaySummaryTasks_`, ` _DisplayOLEIndicator_`, ` _DisplayExternalSuccessors_`, ` _DisplayExternalPredecessors_`, ` _CrossProjectLinksInfo_`, ` _AcceptNewExternalData_`, ` _DisplayWindowsInTaskbar_`, ` _DisplayScreentips_`, ` _CalendarType_`, ` _Use3DLook_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -18,7 +18,7 @@ Specifies the table to be updateable when A form is bound to a multiple table vi
 
 ## Syntax
 
- _expression_. 'UniqueTable'
+ _expression_. `UniqueTable`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

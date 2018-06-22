@@ -18,7 +18,7 @@ Occurs when the specified PivotTable view queries its data source.
 
 ## Syntax
 
- _expression_. 'BeforeQuery'
+ _expression_. `BeforeQuery`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

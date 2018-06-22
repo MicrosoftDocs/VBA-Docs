@@ -18,7 +18,7 @@ You can use the  **DecimalPlaces** property to specify the number of decimal pla
 
 ## Syntax
 
- _expression_. 'DecimalPlaces'
+ _expression_. `DecimalPlaces`
 
  _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 

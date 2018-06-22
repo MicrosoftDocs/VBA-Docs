@@ -19,7 +19,7 @@ Version Added: Outlook 2013
 
 ## Syntax
 
- _expression_. 'Copy'_(Name,_ _SaveOption)_
+ _expression_. `Copy`_(Name,_ _SaveOption)_
 
  _expression_ A variable that represents a 'PeopleView' object.
 

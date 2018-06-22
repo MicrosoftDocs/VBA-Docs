@@ -18,7 +18,7 @@ Returns or sets the name of the bookmark from which to collect table of authorit
 
 ## Syntax
 
- _expression_. 'Bookmark'
+ _expression_. `Bookmark`
 
  _expression_ A variable that represents a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 

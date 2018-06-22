@@ -18,7 +18,7 @@ Returns or sets a  **Long** that determines the Internet code page used by the *
 
 ## Syntax
 
- _expression_. 'InternetCodepage'
+ _expression_. `InternetCodepage`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the shee
 
 ## Syntax
 
- _expression_. 'Sheets'
+ _expression_. `Sheets`
 
  _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
 

@@ -18,7 +18,7 @@ Returns an  **OMathAutoCorrect** object that represents the auto correct entries
 
 ## Syntax
 
- _expression_. 'OMathAutoCorrect'
+ _expression_. `OMathAutoCorrect`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

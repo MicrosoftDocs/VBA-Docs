@@ -18,7 +18,7 @@ Returns a number rounded to the desired multiple.
 
 ## Syntax
 
- _expression_. 'MRound'( '_Arg1_' , '_Arg2_' )
+ _expression_. `MRound`( `_Arg1_` , `_Arg2_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

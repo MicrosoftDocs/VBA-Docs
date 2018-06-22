@@ -18,7 +18,7 @@ Filters a  **table** using the AutoFilter feature. Read-only.
 
 ## Syntax
 
- _expression_. 'AutoFilter'
+ _expression_. `AutoFilter`
 
  _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 

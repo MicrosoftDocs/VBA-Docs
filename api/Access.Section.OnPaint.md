@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Paint** box in the **Properties** window 
 
 ## Syntax
 
- _expression_. 'OnPaint'
+ _expression_. `OnPaint`
 
  _expression_ A variable that represents a [Section](./Access.Section.md) object.
 

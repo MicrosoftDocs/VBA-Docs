@@ -18,7 +18,7 @@ Inserts an argument into an equation with variable number of arguments ( **OMath
 
 ## Syntax
 
- _expression_. 'Add'( '_BeforeArg_' )
+ _expression_. `Add`( `_BeforeArg_` )
 
  _expression_ An expression that returns a [OMathArgs](./Word.OMathArgs.md) object.
 

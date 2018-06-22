@@ -18,7 +18,7 @@ If the value of the  **[DisplayUnit](PowerPoint.Axis.DisplayUnit.md)** property 
 
 ## Syntax
 
- _expression_. 'DisplayUnitCustom'
+ _expression_. `DisplayUnitCustom`
 
  _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

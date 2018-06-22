@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'WebDisableRedirections'
+ _expression_. `WebDisableRedirections`
 
  _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 

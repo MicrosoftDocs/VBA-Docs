@@ -18,7 +18,7 @@ Occurs when any worksheet is right-clicked, before the default right-click actio
 
 ## Syntax
 
- _expression_. 'SheetBeforeRightClick'( '_Sh_' , '_Target_' , '_Cancel_' )
+ _expression_. `SheetBeforeRightClick`( `_Sh_` , `_Target_` , `_Cancel_` )
 
  _expression_ An expression that returns a [Application](./Excel.Application(Graph property).md) object.
 

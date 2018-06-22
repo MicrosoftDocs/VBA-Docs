@@ -18,7 +18,7 @@ Returns a  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)*
 
 ## Syntax
 
- _expression_. 'HangulAndAlphabetExceptions'
+ _expression_. `HangulAndAlphabetExceptions`
 
  _expression_ An expression that returns an '[AutoCorrect](Word.AutoCorrect.md)' object.
 

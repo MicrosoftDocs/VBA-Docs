@@ -18,7 +18,7 @@ Returns or sets the type of print range for the presentation. Read/write.
 
 ## Syntax
 
- _expression_. 'RangeType'
+ _expression_. `RangeType`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

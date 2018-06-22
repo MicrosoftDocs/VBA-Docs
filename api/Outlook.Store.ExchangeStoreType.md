@@ -18,7 +18,7 @@ Returns a constant in the  **[OlExchangeStoreType](Outlook.OlExchangeStoreType.m
 
 ## Syntax
 
- _expression_. 'ExchangeStoreType'
+ _expression_. `ExchangeStoreType`
 
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 

@@ -18,7 +18,7 @@ Opens a shared folder offered by a sharing invitation.
 
 ## Syntax
 
- _expression_. 'OpenSharedFolder'
+ _expression_. `OpenSharedFolder`
 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 

@@ -16,7 +16,7 @@ Ends the specified broadcast session.
 
 ## Syntax
 
- _expression_. 'End'
+ _expression_. `End`
 
  _expression_ A variable that represents a 'Broadcast' object.
 

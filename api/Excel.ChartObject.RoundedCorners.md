@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'RoundedCorners'
+ _expression_. `RoundedCorners`
 
  _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 

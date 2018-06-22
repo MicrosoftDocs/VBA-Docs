@@ -18,7 +18,7 @@ Returns or sets the ending character position of a selection, range, or bookmark
 
 ## Syntax
 
- _expression_. 'End'
+ _expression_. `End`
 
  _expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 

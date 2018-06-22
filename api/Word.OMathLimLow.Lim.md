@@ -18,7 +18,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the l
 
 ## Syntax
 
- _expression_. 'Lim'
+ _expression_. `Lim`
 
  _expression_ An expression that returns an '[OMathLimLow](Word.OMathLimLow.md)' object.
 

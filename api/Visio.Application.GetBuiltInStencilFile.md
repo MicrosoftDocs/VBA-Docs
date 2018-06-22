@@ -18,7 +18,7 @@ Returns the file path to the specified built-in, hidden stencil used to populate
 
 ## Syntax
 
- _expression_. 'GetBuiltInStencilFile'( '_StencilType_' , '_MeasurementSystem_' )
+ _expression_. `GetBuiltInStencilFile`( `_StencilType_` , `_MeasurementSystem_` )
 
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 

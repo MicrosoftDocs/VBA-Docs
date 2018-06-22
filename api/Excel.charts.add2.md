@@ -16,7 +16,7 @@ Inserts a chart directly onto the grid.
 
 ## Syntax
 
- _expression_. 'Add2'_(Before,_ _After,_ _Count,_ _NewLayout)_
+ _expression_. `Add2`_(Before,_ _After,_ _Count,_ _NewLayout)_
 
  _expression_ A variable that represents a [Charts](./Excel.Charts.md) object.
 

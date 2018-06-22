@@ -15,7 +15,7 @@ Gets or sets the finish date of a work week represented by the **WorkWeek** obje
 
 ## Syntax
 
- _expression_. 'Finish'
+ _expression_. `Finish`
 
  _expression_ An expression that returns a [WorkWeek](./Project.WorkWeek.md) object.
 

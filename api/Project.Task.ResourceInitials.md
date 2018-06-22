@@ -18,7 +18,7 @@ Gets the initials of the resources assigned to a task, separated by the list sep
 
 ## Syntax
 
- _expression_. 'ResourceInitials'
+ _expression_. `ResourceInitials`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

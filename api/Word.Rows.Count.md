@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of rows in the collection. Read-o
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 

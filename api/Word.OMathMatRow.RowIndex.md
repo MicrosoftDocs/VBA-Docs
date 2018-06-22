@@ -18,7 +18,7 @@ Returns or sets a  **Long** that represents the ordinal position of a matrix row
 
 ## Syntax
 
- _expression_. 'RowIndex'
+ _expression_. `RowIndex`
 
  _expression_ An expression that returns an '[OMathMatRow](Word.OMathMatRow.md)' object.
 

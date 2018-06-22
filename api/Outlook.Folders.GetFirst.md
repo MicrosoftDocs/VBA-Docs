@@ -18,7 +18,7 @@ Returns the first object in the  **[Folders](Outlook.Folders.md)** collection.
 
 ## Syntax
 
- _expression_. 'GetFirst'
+ _expression_. `GetFirst`
 
  _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 

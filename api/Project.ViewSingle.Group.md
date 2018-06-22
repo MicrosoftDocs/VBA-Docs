@@ -18,7 +18,7 @@ Gets or sets a  **[Group](Project.Group.md)** object for a single view. Read/wri
 
 ## Syntax
 
- _expression_. 'Group'
+ _expression_. `Group`
 
  _expression_ A variable that represents a [ViewSingle](./Project.ViewSingle.md) object.
 

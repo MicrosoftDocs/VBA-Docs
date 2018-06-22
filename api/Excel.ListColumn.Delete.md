@@ -18,7 +18,7 @@ Deletes the column of data in the list.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a [ListColumn](./Excel.ListColumn.md) object.
 

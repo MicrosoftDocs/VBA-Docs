@@ -18,7 +18,7 @@ Returns or sets the color of the border. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. 'ColorIndex'
+ _expression_. `ColorIndex`
 
  _expression_ A variable that represents a '[ChartBorder](PowerPoint.ChartBorder.md)' object.
 

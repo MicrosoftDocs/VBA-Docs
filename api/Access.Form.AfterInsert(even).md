@@ -18,7 +18,7 @@ The  **AfterInsert** event occurs after a new record is added.
 
 ## Syntax
 
- _expression_. 'AfterInsert'
+ _expression_. `AfterInsert`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

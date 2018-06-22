@@ -18,7 +18,7 @@ Selects all items that are contained in the current view of the active explorer.
 
 ## Syntax
 
- _expression_. 'SelectAllItems'
+ _expression_. `SelectAllItems`
 
  _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 

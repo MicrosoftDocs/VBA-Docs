@@ -18,7 +18,7 @@ You can use the  **PaletteSource** property to specify the palette for a form. R
 
 ## Syntax
 
- _expression_. 'PaletteSource'
+ _expression_. `PaletteSource`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

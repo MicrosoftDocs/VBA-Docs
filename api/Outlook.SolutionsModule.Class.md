@@ -18,7 +18,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that indicate
 
 ## Syntax
 
- _expression_. 'Class'
+ _expression_. `Class`
 
  _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsModule.md)' object.
 

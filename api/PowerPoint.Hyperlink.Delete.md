@@ -18,7 +18,7 @@ Deletes the specified  **Hyperlink** object.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 

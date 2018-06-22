@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether to horizontally align sub
 
 ## Syntax
 
- _expression_. 'AlignScripts'
+ _expression_. `AlignScripts`
 
  _expression_ An expression that returns an '[OMathScrSubSup](Word.OMathScrSubSup.md)' object.
 

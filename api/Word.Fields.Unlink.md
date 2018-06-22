@@ -18,7 +18,7 @@ Replaces all the fields in the  **Fields** collection with their most recent res
 
 ## Syntax
 
- _expression_. 'Unlink'
+ _expression_. `Unlink`
 
  _expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
 

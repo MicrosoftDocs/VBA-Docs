@@ -18,7 +18,7 @@ Returns a  **[Row](Word.Row.md)** object that represents the first item in the *
 
 ## Syntax
 
- _expression_. 'First'
+ _expression_. `First`
 
  _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 

@@ -16,7 +16,7 @@ Returns a [ModelTableNames Object (Excel)](modeltablenames-object-excel.md) coll
 
 ## Syntax
 
- _expression_. 'TablesModified'
+ _expression_. `TablesModified`
 
  _expression_ A variable that represents a 'ModelChanges' object.
 

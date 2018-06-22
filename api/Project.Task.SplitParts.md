@@ -15,7 +15,7 @@ Gets a  **[SplitParts](Project.SplitPart.md)** collection that represents the po
 
 ## Syntax
 
- _expression_. 'SplitParts'
+ _expression_. `SplitParts`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

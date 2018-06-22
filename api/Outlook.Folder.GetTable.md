@@ -18,7 +18,7 @@ Obtains a  **[Table](Outlook.Table.md)** object that contains items filtered by 
 
 ## Syntax
 
- _expression_. 'GetTable'( '_Filter_' , '_TableContents_' )
+ _expression_. `GetTable`( `_Filter_` , `_TableContents_` )
 
  _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 

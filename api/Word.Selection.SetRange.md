@@ -18,7 +18,7 @@ Sets the starting and ending character positions for the selection.
 
 ## Syntax
 
- _expression_. 'SetRange'( '_Start_' , '_End_' )
+ _expression_. `SetRange`( `_Start_` , `_End_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

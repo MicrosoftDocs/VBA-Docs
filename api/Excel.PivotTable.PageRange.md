@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range t
 
 ## Syntax
 
- _expression_. 'PageRange'
+ _expression_. `PageRange`
 
  _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 

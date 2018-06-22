@@ -18,7 +18,7 @@ Gets or sets the size in twips of the form when it's displayed in Split Form vie
 
 ## Syntax
 
- _expression_. 'SplitFormSize'
+ _expression_. `SplitFormSize`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

@@ -18,7 +18,7 @@ You can identify these controls by the section of a form or report where the con
 
 ## Syntax
 
- _expression_. 'Section'
+ _expression_. `Section`
 
  _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 

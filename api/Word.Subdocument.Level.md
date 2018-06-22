@@ -18,7 +18,7 @@ Returns the heading level used to create the subdocument. Read-only  **Long** .
 
 ## Syntax
 
- _expression_. 'Level'
+ _expression_. `Level`
 
  _expression_ Required. A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 

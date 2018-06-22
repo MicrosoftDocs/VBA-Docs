@@ -18,7 +18,7 @@ Converts a measurement from points to lines (1 line = 12 points). Returns the co
 
 ## Syntax
 
- _expression_. 'PointsToLines'( '_Points_' )
+ _expression_. `PointsToLines`( `_Points_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 

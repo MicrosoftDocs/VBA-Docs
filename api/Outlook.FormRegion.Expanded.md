@@ -18,7 +18,7 @@ Occurs when the form region expands or collapses
 
 ## Syntax
 
- _expression_. 'Expanded'( '_Expand_' )
+ _expression_. `Expanded`( `_Expand_` )
 
  _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 

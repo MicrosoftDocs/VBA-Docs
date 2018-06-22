@@ -18,7 +18,7 @@ Not used in the U.S. English version of Microsoft Word. Read/write  **String** .
 
 ## Syntax
 
- _expression_. 'SenderReference'
+ _expression_. `SenderReference`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 

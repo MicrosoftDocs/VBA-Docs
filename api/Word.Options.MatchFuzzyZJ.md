@@ -24,7 +24,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'MatchFuzzyZJ'
+ _expression_. `MatchFuzzyZJ`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

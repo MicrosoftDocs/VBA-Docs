@@ -18,7 +18,7 @@ Returns a  **[Sequence](PowerPoint.Sequence.md)** object that represents a new s
 
 ## Syntax
 
- _expression_. 'Add'( '_Index_' )
+ _expression_. `Add`( `_Index_` )
 
  _expression_ A variable that represents a [Sequences](./PowerPoint.Sequences.md) object.
 

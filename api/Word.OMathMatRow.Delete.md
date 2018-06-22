@@ -18,7 +18,7 @@ Deletes the specified matrix row.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ An expression that returns an [OMathMatRow](./Word.OMathMatRow.md) object.
 

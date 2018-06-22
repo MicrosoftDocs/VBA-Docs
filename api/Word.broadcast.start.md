@@ -16,7 +16,7 @@ Initiates the specified broadcast session.
 
 ## Syntax
 
- _expression_. 'Start'_(serverUrl)_
+ _expression_. `Start`_(serverUrl)_
 
  _expression_ A variable that represents a 'Broadcast' object.
 

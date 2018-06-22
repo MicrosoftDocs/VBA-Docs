@@ -18,7 +18,7 @@ Returns the color of the axis for cells with conditional formatting as data bars
 
 ## Syntax
 
- _expression_. 'AxisColor'
+ _expression_. `AxisColor`
 
  _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 

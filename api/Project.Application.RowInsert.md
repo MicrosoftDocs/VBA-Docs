@@ -18,7 +18,7 @@ Inserts a row above the active row.
 
 ## Syntax
 
- _expression_. 'RowInsert'
+ _expression_. `RowInsert`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

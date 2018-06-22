@@ -18,7 +18,7 @@ Inserts the specified text at the end of a range.
 
 ## Syntax
 
- _expression_. 'InsertAfter'( '_Text_' )
+ _expression_. `InsertAfter`( `_Text_` )
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

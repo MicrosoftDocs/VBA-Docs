@@ -18,7 +18,7 @@ Returns the story type for the specified selection. Read-only  **WdStoryType** .
 
 ## Syntax
 
- _expression_. 'StoryType'
+ _expression_. `StoryType`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

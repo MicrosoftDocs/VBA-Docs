@@ -18,7 +18,7 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 
 ## Syntax
 
- _expression_. 'SelectUnlinkedControls'( '_Stream_' )
+ _expression_. `SelectUnlinkedControls`( `_Stream_` )
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

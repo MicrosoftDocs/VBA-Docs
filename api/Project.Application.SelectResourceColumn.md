@@ -18,7 +18,7 @@ Selects a column containing resource information.
 
 ## Syntax
 
- _expression_. 'SelectResourceColumn'( ' _Column_', ' _Additional_', ' _Extend_', ' _Add_' )
+ _expression_. `SelectResourceColumn`( ` _Column_`, ` _Additional_`, ` _Extend_`, ` _Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

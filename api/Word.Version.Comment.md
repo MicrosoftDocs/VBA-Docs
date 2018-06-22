@@ -18,7 +18,7 @@ Returns the comment associated with the specified version of a document. Read-on
 
 ## Syntax
 
- _expression_. 'Comment'
+ _expression_. `Comment`
 
  _expression_ A variable that represents a '[Version](Word.Version.md)' object.
 

@@ -18,7 +18,7 @@ Returns the parent  **[Workbook](Excel.Workbook.md)** object for the collection.
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ A variable that represents a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 

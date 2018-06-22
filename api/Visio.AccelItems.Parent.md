@@ -18,7 +18,7 @@ Determines the parent of an object. Read-only.
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ A variable that represents a [AccelItems](./Visio.AccelItems.md) object.
 

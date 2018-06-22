@@ -18,7 +18,7 @@ Returns or sets the short form address. Read/write  **String** .
 
 ## Syntax
 
- _expression_. 'ReturnAddressShortForm'
+ _expression_. `ReturnAddressShortForm`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 

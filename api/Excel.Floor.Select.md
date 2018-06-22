@@ -18,7 +18,7 @@ Selects the object.
 
 ## Syntax
 
- _expression_. 'Select'
+ _expression_. `Select`
 
  _expression_ A variable that represents a [Floor](./Excel.Floor(Graph property).md) object.
 

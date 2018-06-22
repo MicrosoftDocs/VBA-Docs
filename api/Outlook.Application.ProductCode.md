@@ -18,7 +18,7 @@ Returns a  **String** specifying the Microsoft Outlook globally unique identifie
 
 ## Syntax
 
- _expression_. 'ProductCode'
+ _expression_. `ProductCode`
 
  _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 

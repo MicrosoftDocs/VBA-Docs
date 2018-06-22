@@ -18,7 +18,7 @@ The  **GetHiddenAttribute** method returns the value of hidden attribute of a Mi
 
 ## Syntax
 
- _expression_. 'GetHiddenAttribute'( ' _ObjectType_', ' _ObjectName_' )
+ _expression_. `GetHiddenAttribute`( ` _ObjectType_`, ` _ObjectName_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

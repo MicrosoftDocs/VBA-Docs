@@ -18,7 +18,7 @@ Returns the day of the week corresponding to a date. The day is given as an inte
 
 ## Syntax
 
- _expression_. 'Weekday'( '_Arg1_' , '_Arg2_' )
+ _expression_. `Weekday`( `_Arg1_` , `_Arg2_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

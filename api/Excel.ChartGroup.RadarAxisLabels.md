@@ -18,7 +18,7 @@ Returns a  **[TickLabels](Excel.TickLabels(objec).md)** object that represents t
 
 ## Syntax
 
- _expression_. 'RadarAxisLabels'
+ _expression_. `RadarAxisLabels`
 
  _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 

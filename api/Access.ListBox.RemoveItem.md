@@ -18,7 +18,7 @@ Removes an item from the list of values displayed by the specified list box cont
 
 ## Syntax
 
- _expression_. 'RemoveItem'( ' _Index_' )
+ _expression_. `RemoveItem`( ` _Index_` )
 
  _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 

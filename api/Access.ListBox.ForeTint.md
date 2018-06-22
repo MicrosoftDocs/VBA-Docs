@@ -18,7 +18,7 @@ Gets or sets the tint that is applied to the theme color in the  **ForeColor** p
 
 ## Syntax
 
- _expression_. 'ForeTint'
+ _expression_. `ForeTint`
 
  _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 

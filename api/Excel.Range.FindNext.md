@@ -18,7 +18,7 @@ Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** meth
 
 ## Syntax
 
- _expression_. 'FindNext'( '_After_' )
+ _expression_. `FindNext`( `_After_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

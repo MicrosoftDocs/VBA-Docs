@@ -18,7 +18,7 @@ Sets or returns the time interval for the  **AutoRecover** object. Permissible v
 
 ## Syntax
 
- _expression_. 'Time'
+ _expression_. `Time`
 
  _expression_ A variable that represents an [AutoRecover](./Excel.AutoRecover.md) object.
 

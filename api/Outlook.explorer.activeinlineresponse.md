@@ -14,7 +14,7 @@ Returns an item object representing the active inline response item in the explo
 
 ## Syntax
 
- _expression_. 'ActiveInlineResponse'
+ _expression_. `ActiveInlineResponse`
 
  _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 

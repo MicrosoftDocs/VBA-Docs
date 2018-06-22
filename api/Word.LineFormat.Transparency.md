@@ -18,7 +18,7 @@ Returns or sets the degree of transparency of line. Read/write  **Single** .
 
 ## Syntax
 
- _expression_. 'Transparency'
+ _expression_. `Transparency`
 
  _expression_ Required. A variable that represents a '[LineFormat](Word.LineFormat.md)' object.
 

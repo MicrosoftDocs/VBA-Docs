@@ -18,7 +18,7 @@ Returns the universal names of all items in an  **Addons** collection.
 
 ## Syntax
 
- _expression_. 'GetNamesU'( '_NameArray()_' )
+ _expression_. `GetNamesU`( `_NameArray()_` )
 
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) collection.
 

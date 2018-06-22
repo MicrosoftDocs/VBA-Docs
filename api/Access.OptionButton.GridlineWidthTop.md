@@ -18,7 +18,7 @@ Gets or sets the width of the top gridline for the specified option button. Read
 
 ## Syntax
 
- _expression_. 'GridlineWidthTop'
+ _expression_. `GridlineWidthTop`
 
  _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 

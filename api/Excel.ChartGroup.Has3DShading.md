@@ -18,7 +18,7 @@ Returns or sets the 3D Shading property of a  **ChartGroup** object. Read/write 
 
 ## Syntax
 
- _expression_. 'Has3DShading'
+ _expression_. `Has3DShading`
 
  _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 

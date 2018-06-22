@@ -18,7 +18,7 @@ Returns or sets the starting endnote number. Read/write  **Long** .
 
 ## Syntax
 
- _expression_. 'StartingNumber'
+ _expression_. `StartingNumber`
 
  _expression_ Required. A variable that represents an '[EndnoteOptions](Word.EndnoteOptions.md)' collection.
 

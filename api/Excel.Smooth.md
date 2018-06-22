@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 True if curve smoothing is turned on for the line chart or scatter chart. Applies only to line and scatter charts. Read/write Boolean.
 
- _expression_. 'Smooth'
+ _expression_. `Smooth`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

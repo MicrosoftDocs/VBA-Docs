@@ -18,7 +18,7 @@ Deletes permissions in all ranges for which the specified user or group of users
 
 ## Syntax
 
- _expression_. 'DeleteAllEditableRanges'( '_EditorID_' )
+ _expression_. `DeleteAllEditableRanges`( `_EditorID_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

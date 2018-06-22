@@ -18,7 +18,7 @@ Loads an XLL code resource and automatically registers the functions and command
 
 ## Syntax
 
- _expression_. 'RegisterXLL'( '_Filename_' )
+ _expression_. `RegisterXLL`( `_Filename_` )
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

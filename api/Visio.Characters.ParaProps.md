@@ -18,7 +18,7 @@ Sets the paragraph property of a  **Characters** object to a new value. Read/wri
 
 ## Syntax
 
- _expression_. 'ParaProps'( '_CellIndex_' )
+ _expression_. `ParaProps`( `_CellIndex_` )
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

@@ -15,7 +15,7 @@ Occurs before one or more resources is created.
 
 ## Syntax
 
- _expression_. 'ProjectResourceNew'( ' _pj_', ' _ID_' )
+ _expression_. `ProjectResourceNew`( ` _pj_`, ` _ID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

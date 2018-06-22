@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Apply Filter** box in the **Properties** 
 
 ## Syntax
 
- _expression_. 'OnApplyFilter'
+ _expression_. `OnApplyFilter`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

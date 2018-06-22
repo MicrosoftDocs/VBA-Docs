@@ -18,7 +18,7 @@ Returns an  **[AccountSelector](Outlook.AccountSelector.md)** object that repres
 
 ## Syntax
 
- _expression_. 'AccountSelector'
+ _expression_. `AccountSelector`
 
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 

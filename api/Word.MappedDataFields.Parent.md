@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Mapp
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ Required. A variable that represents a '[MappedDataFields](Word.MappedDataFields.md)' collection.
 

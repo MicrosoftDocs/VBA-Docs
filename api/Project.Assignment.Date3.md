@@ -15,7 +15,7 @@ Gets or sets the value of the  **Date3** custom field for the assignment. Read/w
 
 ## Syntax
 
- _expression_. 'Date3'
+ _expression_. `Date3`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

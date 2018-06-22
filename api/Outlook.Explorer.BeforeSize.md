@@ -18,7 +18,7 @@ Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)** .
 
 ## Syntax
 
- _expression_. 'BeforeSize'( '_Cancel_' )
+ _expression_. `BeforeSize`( `_Cancel_` )
 
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 

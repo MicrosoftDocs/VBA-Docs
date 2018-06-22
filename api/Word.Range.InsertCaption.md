@@ -18,7 +18,7 @@ Inserts a caption immediately preceding or following the specified range.
 
 ## Syntax
 
- _expression_. 'InsertCaption'( '_Label_' , '_Title_' , '_TitleAutoText_' , '_Position_' , '_ExcludeLabel_' )
+ _expression_. `InsertCaption`( `_Label_` , `_Title_` , `_TitleAutoText_` , `_Position_` , `_ExcludeLabel_` )
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

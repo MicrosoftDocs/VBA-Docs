@@ -15,7 +15,7 @@ Gets a single  **TaskDependency** object from a **PredecessorDrivers** collectio
 
 ## Syntax
 
- _expression_. 'Item'( ' _Index_' )
+ _expression_. `Item`( ` _Index_` )
 
  _expression_ A variable that represents a 'PredecessorDrivers' object.
 

@@ -18,7 +18,7 @@ Returns a collection that represents all the shapes on the chart sheet. Read-onl
 
 ## Syntax
 
- _expression_. 'Shapes'
+ _expression_. `Shapes`
 
  _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

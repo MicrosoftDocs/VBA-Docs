@@ -18,7 +18,7 @@ Indicates the currently active filter in the specified PivotTable. Read-only.
 
 ## Syntax
 
- _expression_. 'ActiveFilters'
+ _expression_. `ActiveFilters`
 
  _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 

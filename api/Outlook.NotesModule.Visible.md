@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that determines whether the **[NotesModule]
 
 ## Syntax
 
- _expression_. 'Visible'
+ _expression_. `Visible`
 
  _expression_ A variable that represents a [NotesModule](./Outlook.NotesModule.md) object.
 

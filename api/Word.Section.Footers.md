@@ -18,7 +18,7 @@ Returns a  **[HeadersFooters](Word.headersfooters.md)** collection that represen
 
 ## Syntax
 
- _expression_. 'Footers'
+ _expression_. `Footers`
 
  _expression_ A variable that represents a '[Section](Word.Section.md)' object.
 

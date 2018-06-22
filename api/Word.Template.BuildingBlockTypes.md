@@ -18,7 +18,7 @@ Returns a  **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection that 
 
 ## Syntax
 
- _expression_. 'BuildingBlockTypes'
+ _expression_. `BuildingBlockTypes`
 
  _expression_ An expression that returns a '[Template](Word.Template.md)' object.
 

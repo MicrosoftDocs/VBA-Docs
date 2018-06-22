@@ -22,7 +22,7 @@ For more information about the new functions, see the [F_Dist_RT](Excel.Workshee
 
 ## Syntax
 
- _expression_. 'FDist'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
+ _expression_. `FDist`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 

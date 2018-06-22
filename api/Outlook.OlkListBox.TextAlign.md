@@ -18,7 +18,7 @@ Returns or sets an  **[OlTextAlign](Outlook.OlTextAlign.md)** constant that spec
 
 ## Syntax
 
- _expression_. 'TextAlign'
+ _expression_. `TextAlign`
 
  _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 

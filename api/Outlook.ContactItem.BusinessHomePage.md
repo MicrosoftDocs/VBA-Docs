@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the URL of the business Web page for 
 
 ## Syntax
 
- _expression_. 'BusinessHomePage'
+ _expression_. `BusinessHomePage`
 
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 

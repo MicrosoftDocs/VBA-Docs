@@ -18,7 +18,7 @@ Returns a  **TextFrame** object that contains the text for the specified range o
 
 ## Syntax
 
- _expression_. 'TextFrame'
+ _expression_. `TextFrame`
 
  _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 

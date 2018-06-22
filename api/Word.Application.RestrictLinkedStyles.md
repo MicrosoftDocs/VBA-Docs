@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word allows lin
 
 ## Syntax
 
- _expression_. 'RestrictLinkedStyles'
+ _expression_. `RestrictLinkedStyles`
 
  _expression_ An expression that returns an [Application](./Word.Application.md) object.
 

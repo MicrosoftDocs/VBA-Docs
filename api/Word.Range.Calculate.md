@@ -18,7 +18,7 @@ Calculates a mathematical expression within a range or selection. Returns the re
 
 ## Syntax
 
- _expression_. 'Calculate'
+ _expression_. `Calculate`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

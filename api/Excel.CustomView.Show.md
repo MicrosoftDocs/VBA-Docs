@@ -18,7 +18,7 @@ Displays the object.
 
 ## Syntax
 
- _expression_. 'Show'
+ _expression_. `Show`
 
  _expression_ A variable that represents a [CustomView](./Excel.CustomView.md) object.
 

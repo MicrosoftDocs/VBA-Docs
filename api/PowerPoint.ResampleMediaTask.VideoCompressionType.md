@@ -18,7 +18,7 @@ Returns the video compression format of the sample. Read-only.
 
 ## Syntax
 
- _expression_. 'VideoCompressionType'
+ _expression_. `VideoCompressionType`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **[ColumnFormat](Outlook.ColumnFormat.md)** object that represents th
 
 ## Syntax
 
- _expression_. 'ColumnFormat'
+ _expression_. `ColumnFormat`
 
  _expression_ A variable that represents a [ViewField](./Outlook.ViewField.md) object.
 

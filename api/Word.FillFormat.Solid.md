@@ -18,7 +18,7 @@ Sets the specified fill to a uniform color. .
 
 ## Syntax
 
- _expression_. 'Solid'
+ _expression_. `Solid`
 
  _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 

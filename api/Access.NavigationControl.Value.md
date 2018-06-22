@@ -18,7 +18,7 @@ Determines or specifies the text in the text box. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. 'Value'
+ _expression_. `Value`
 
  _expression_ A variable that represents a [NavigationControl](./Access.NavigationControl.md) object.
 

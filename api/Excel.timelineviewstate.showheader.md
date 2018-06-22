@@ -16,7 +16,7 @@ Get or set whether the control's header is displayed.  **Boolean** Read/Write
 
 ## Syntax
 
- _expression_. 'ShowHeader'
+ _expression_. `ShowHeader`
 
  _expression_ A variable that represents a[TimelineViewState](Excel.timelineviewstate.md) object.
 

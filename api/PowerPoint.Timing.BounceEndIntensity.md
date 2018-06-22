@@ -18,7 +18,7 @@ Read/write
 
 ## Syntax
 
- _expression_. 'BounceEndIntensity'
+ _expression_. `BounceEndIntensity`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

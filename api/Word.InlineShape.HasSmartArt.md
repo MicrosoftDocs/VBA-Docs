@@ -18,7 +18,7 @@ Returns  **True** if there is a SmartArt diagram present on the shape. Read-only
 
 ## Syntax
 
- _expression_. 'HasSmartArt'
+ _expression_. `HasSmartArt`
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

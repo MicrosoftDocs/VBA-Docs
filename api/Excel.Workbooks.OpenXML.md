@@ -18,7 +18,7 @@ Opens an XML data file. Returns a  **[Workbook](Excel.Workbook.md)** object.
 
 ## Syntax
 
- _expression_. 'OpenXML'( '_Filename_' , '_Stylesheets_' , '_LoadOption_' )
+ _expression_. `OpenXML`( `_Filename_` , `_Stylesheets_` , `_LoadOption_` )
 
  _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 

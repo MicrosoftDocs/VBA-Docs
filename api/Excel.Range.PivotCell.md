@@ -18,7 +18,7 @@ Returns a  **[PivotCell](Excel.PivotCell.md)** object that represents a cell in 
 
 ## Syntax
 
- _expression_. 'PivotCell'
+ _expression_. `PivotCell`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

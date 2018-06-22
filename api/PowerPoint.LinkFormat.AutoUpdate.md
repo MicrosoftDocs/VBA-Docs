@@ -18,7 +18,7 @@ Returns or sets the way the link will be updated. Read/write.
 
 ## Syntax
 
- _expression_. 'AutoUpdate'
+ _expression_. `AutoUpdate`
 
  _expression_ A variable that represents an [LinkFormat](./PowerPoint.LinkFormat.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **String** indicating the browser frame in which to display a
 
 ## Syntax
 
- _expression_. 'DefaultTargetFrame'
+ _expression_. `DefaultTargetFrame`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

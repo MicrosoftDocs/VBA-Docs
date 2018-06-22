@@ -18,7 +18,7 @@ Returns or sets a  **String** value representing the name of the object.
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents a [Trendline](./Excel.Trendline(Graph object).md) object.
 

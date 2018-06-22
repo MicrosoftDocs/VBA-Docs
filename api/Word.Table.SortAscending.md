@@ -18,7 +18,7 @@ Sorts paragraphs or table rows in ascending alphanumeric order.
 
 ## Syntax
 
- _expression_. 'SortAscending'
+ _expression_. `SortAscending`
 
  _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 

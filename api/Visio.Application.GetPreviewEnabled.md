@@ -18,7 +18,7 @@ Returns a value that indicates whether preview is enabled for the specified gall
 
 ## Syntax
 
- _expression_. 'GetPreviewEnabled'( '_GalleryName_' )
+ _expression_. `GetPreviewEnabled`( `_GalleryName_` )
 
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 

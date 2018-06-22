@@ -15,7 +15,7 @@ Gets a single  **Task** object from the **ChildDrivers** collection. Read-only *
 
 ## Syntax
 
- _expression_. 'Item'( ' _Index_' )
+ _expression_. `Item`( ` _Index_` )
 
  _expression_ A variable that represents a 'ChildDrivers' object.
 

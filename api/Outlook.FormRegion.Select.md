@@ -18,7 +18,7 @@ Makes the form region the active form region such that it becomes visible.
 
 ## Syntax
 
- _expression_. 'Select'
+ _expression_. `Select`
 
  _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 

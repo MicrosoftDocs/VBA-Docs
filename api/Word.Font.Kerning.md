@@ -18,7 +18,7 @@ Returns or sets the minimum font size for which Microsoft Word will adjust kerni
 
 ## Syntax
 
- _expression_. 'Kerning'
+ _expression_. `Kerning`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

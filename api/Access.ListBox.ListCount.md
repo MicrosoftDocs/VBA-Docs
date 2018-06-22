@@ -18,7 +18,7 @@ You can use the  **ListCount** property to determine the number of rows in a lis
 
 ## Syntax
 
- _expression_. 'ListCount'
+ _expression_. `ListCount`
 
  _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 

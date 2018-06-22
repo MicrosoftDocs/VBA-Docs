@@ -18,7 +18,7 @@ Returns a  **Document** object that represents the parent document of the specif
 
 ## Syntax
 
- _expression_. 'OwnerDocument'
+ _expression_. `OwnerDocument`
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

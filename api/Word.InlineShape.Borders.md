@@ -18,7 +18,7 @@ Returns a  **[Borders](Word.borders.md)** collection that represents all the bor
 
 ## Syntax
 
- _expression_. 'Borders'
+ _expression_. `Borders`
 
  _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

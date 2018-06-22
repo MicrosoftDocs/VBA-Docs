@@ -18,7 +18,7 @@ Gets the collection of parameters defined for the specified operation. Read-only
 
 ## Syntax
 
- _expression_. 'WSParameters'
+ _expression_. `WSParameters`
 
  _expression_ A variable that represents an [Operation](./Access.Operation.md) object.
 

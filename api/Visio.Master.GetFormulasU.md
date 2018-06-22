@@ -18,7 +18,7 @@ Returns the formulas of many cells.
 
 ## Syntax
 
- _expression_. 'GetFormulasU'( '_SID_SRCStream()_' , '_formulaArray()_' )
+ _expression_. `GetFormulasU`( `_SID_SRCStream()_` , `_formulaArray()_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

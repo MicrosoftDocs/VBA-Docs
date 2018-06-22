@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the left edge of the text frame
 
 ## Syntax
 
- _expression_. 'MarginLeft'
+ _expression_. `MarginLeft`
 
  _expression_ An expression that returns a '[TextFrame](Word.TextFrame.md)' object.
 

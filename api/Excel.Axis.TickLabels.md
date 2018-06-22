@@ -18,7 +18,7 @@ Returns a  **[TickLabels](Excel.TickLabels(objec).md)** object that represents t
 
 ## Syntax
 
- _expression_. 'TickLabels'
+ _expression_. `TickLabels`
 
  _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 

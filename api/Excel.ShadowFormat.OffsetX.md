@@ -18,7 +18,7 @@ Returns or sets the horizontal offset of the shadow from the specified shape, in
 
 ## Syntax
 
- _expression_. 'OffsetX'
+ _expression_. `OffsetX`
 
  _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 

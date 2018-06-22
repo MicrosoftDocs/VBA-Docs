@@ -18,7 +18,7 @@ Returns the number of items in the  **OMathArgs** collection. Read-only **Long**
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a '[OMathArgs](Word.OMathArgs.md)' object.
 

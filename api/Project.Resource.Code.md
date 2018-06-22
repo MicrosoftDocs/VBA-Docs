@@ -15,7 +15,7 @@ Gets or sets the code value of the resource. Read/write  **String**.
 
 ## Syntax
 
- _expression_. 'Code'
+ _expression_. `Code`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

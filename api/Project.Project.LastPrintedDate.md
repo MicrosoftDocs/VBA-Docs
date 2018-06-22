@@ -15,7 +15,7 @@ Gets the date a project was last printed. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. 'LastPrintedDate'
+ _expression_. `LastPrintedDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

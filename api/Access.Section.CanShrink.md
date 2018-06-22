@@ -18,7 +18,7 @@ Gets or sets whether the specified control automatically adjusts vertically to p
 
 ## Syntax
 
- _expression_. 'CanShrink'
+ _expression_. `CanShrink`
 
  _expression_ A variable that represents a [Section](./Access.Section.md) object.
 

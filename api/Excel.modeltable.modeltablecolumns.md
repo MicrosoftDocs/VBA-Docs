@@ -16,7 +16,7 @@ Collection of [ModelTableColumns Object (Excel)](modeltablecolumns-object-excel.
 
 ## Syntax
 
- _expression_. 'ModelTableColumns'
+ _expression_. `ModelTableColumns`
 
  _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 

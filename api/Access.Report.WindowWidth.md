@@ -18,7 +18,7 @@ Returns the width of a report in twips. Read-only  **Integer**.
 
 ## Syntax
 
- _expression_. 'WindowWidth'
+ _expression_. `WindowWidth`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

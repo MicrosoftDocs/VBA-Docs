@@ -18,7 +18,7 @@ Displays the  **Cache Settings** dialog box. Available in Project Professional o
 
 ## Syntax
 
- _expression_. 'CacheSettings'
+ _expression_. `CacheSettings`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

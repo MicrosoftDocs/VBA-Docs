@@ -18,7 +18,7 @@ You can use the  **MousePointer** property together with the **[Screen](Access.S
 
 ## Syntax
 
- _expression_. 'MousePointer'
+ _expression_. `MousePointer`
 
  _expression_ A variable that represents a [Screen](./Access.Screen.md) object.
 

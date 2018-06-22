@@ -18,7 +18,7 @@ Determines the type of calculation in the Totals row of the list column based on
 
 ## Syntax
 
- _expression_. 'TotalsCalculation'
+ _expression_. `TotalsCalculation`
 
  _expression_ A variable that represents a [ListColumn](./Excel.ListColumn.md) object.
 

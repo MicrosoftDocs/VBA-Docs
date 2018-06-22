@@ -15,7 +15,7 @@ Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.Ch
 
 ## Syntax
 
- _expression_. 'Font'
+ _expression_. `Font`
 
  _expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
 

@@ -18,7 +18,7 @@ Returns the red-green-blue value of the specified color. Read-only  **Long** .
 
 ## Syntax
 
- _expression_. 'RGB'
+ _expression_. `RGB`
 
  _expression_ A variable that represents a '[ChartColorFormat](Word.ChartColorFormat.md)' object.
 

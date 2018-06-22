@@ -18,7 +18,7 @@ Determines the background color that is applied to the exported image when you c
 
 ## Syntax
 
- _expression_. 'RasterExportBackgroundColor'
+ _expression_. `RasterExportBackgroundColor`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

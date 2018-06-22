@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'MaintainConnection'
+ _expression_. `MaintainConnection`
 
  _expression_ A variable that represents a [PivotCache](./Excel.PivotCache.md) object.
 

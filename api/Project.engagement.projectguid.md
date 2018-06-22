@@ -13,7 +13,7 @@ ms.prod: project-server
 
 ## Syntax
 
- _expression_. 'ProjectGuid'
+ _expression_. `ProjectGuid`
 
  _expression_ A variable that represents a 'Engagement' object.
 

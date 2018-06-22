@@ -18,7 +18,7 @@ Returns or sets one of the constants of the  **[XlContainsOperator](Excel.XlCont
 
 ## Syntax
 
- _expression_. 'TextOperator'
+ _expression_. `TextOperator`
 
  _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
 

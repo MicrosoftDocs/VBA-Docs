@@ -18,7 +18,7 @@ Sets the replacement criteria to use in replacing cell formats. The replacement 
 
 ## Syntax
 
- _expression_. 'ReplaceFormat'
+ _expression_. `ReplaceFormat`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

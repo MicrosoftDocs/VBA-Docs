@@ -18,7 +18,7 @@ Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the shape tha
 
 ## Syntax
 
- _expression_. 'EndConnectedShape'
+ _expression_. `EndConnectedShape`
 
  _expression_ A variable that represents an [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 

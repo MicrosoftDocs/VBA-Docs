@@ -11,7 +11,7 @@ Gets callout formatting properties for the shape range, when the  **ShapeRange**
 
 ## Syntax
 
- _expression_. 'Callout'
+ _expression_. `Callout`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

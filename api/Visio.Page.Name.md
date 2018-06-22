@@ -18,7 +18,7 @@ Specifies the name of an object. Read-only.
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

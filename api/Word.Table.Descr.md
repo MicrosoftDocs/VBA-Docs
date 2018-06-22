@@ -18,7 +18,7 @@ Returns or sets a  **String** that contains a description for the specified tabl
 
 ## Syntax
 
- _expression_. 'Descr'
+ _expression_. `Descr`
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 

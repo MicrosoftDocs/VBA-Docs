@@ -18,7 +18,7 @@ Rotates the  **ThreeDFormat** object along the vertical axis by the specified nu
 
 ## Syntax
 
- _expression_. 'IncrementRotationVertical'( '_Increment_' )
+ _expression_. `IncrementRotationVertical`( `_Increment_` )
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

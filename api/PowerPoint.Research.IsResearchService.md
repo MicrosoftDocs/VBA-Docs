@@ -18,7 +18,7 @@ Indicates whether the GUID specified in the  _ServiceID_ parameter corresponds t
 
 ## Syntax
 
- _expression_. 'IsResearchService'( '_ServiceID_' )
+ _expression_. `IsResearchService`( `_ServiceID_` )
 
  _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
 

@@ -16,7 +16,7 @@ Specifies whether a bin for values below the [ChartGroup.BinsUnderflowValue Prop
 
 ## Syntax
 
- _expression_. 'BinsUnderflowEnabled'
+ _expression_. `BinsUnderflowEnabled`
 
  _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 

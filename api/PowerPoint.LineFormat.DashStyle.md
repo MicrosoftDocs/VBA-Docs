@@ -18,7 +18,7 @@ Returns or sets the dash style for the specified line. Read/write.
 
 ## Syntax
 
- _expression_. 'DashStyle'
+ _expression_. `DashStyle`
 
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 

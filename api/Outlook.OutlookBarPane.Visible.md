@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** indicating the visible state of the specified obj
 
 ## Syntax
 
- _expression_. 'Visible'
+ _expression_. `Visible`
 
  _expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
 

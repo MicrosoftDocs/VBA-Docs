@@ -18,7 +18,7 @@ Returns an integer that specifies the connection site that the end of a connecto
 
 ## Syntax
 
- _expression_. 'EndConnectionSite'
+ _expression_. `EndConnectionSite`
 
  _expression_ A variable that represents an [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 

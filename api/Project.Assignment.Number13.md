@@ -15,7 +15,7 @@ Gets or sets a Number local custom field for an assignment. Read/write  **Double
 
 ## Syntax
 
- _expression_. 'Number13'
+ _expression_. `Number13`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

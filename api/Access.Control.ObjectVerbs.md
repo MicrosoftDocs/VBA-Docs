@@ -18,7 +18,7 @@ You can use the  **ObjectVerbs** property in Visual Basic to determine the list 
 
 ## Syntax
 
- _expression_. 'ObjectVerbs'( ' _Index_' )
+ _expression_. `ObjectVerbs`( ` _Index_` )
 
  _expression_ A variable that represents a [Control](./Access.Control.md) object.
 

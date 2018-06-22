@@ -18,7 +18,7 @@ You can use the  **LineSpacing** property to specify or determine the location o
 
 ## Syntax
 
- _expression_. 'LineSpacing'
+ _expression_. `LineSpacing`
 
  _expression_ A variable that represents a [Label](./Access.Label.md) object.
 

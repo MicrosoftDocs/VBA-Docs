@@ -16,7 +16,7 @@ Specifies whether a bin for values above the [BinsOverflowValue](Excel.chartgrou
 
 ## Syntax
 
- _expression_. 'BinsOverflowEnabled'
+ _expression_. `BinsOverflowEnabled`
 
  _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 

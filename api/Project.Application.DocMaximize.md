@@ -18,7 +18,7 @@ Maximizes the window of the active project.
 
 ## Syntax
 
- _expression_. 'DocMaximize'
+ _expression_. `DocMaximize`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

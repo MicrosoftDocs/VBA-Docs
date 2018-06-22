@@ -18,7 +18,7 @@ Returns or sets an existing style on which you can base the formatting of anothe
 
 ## Syntax
 
- _expression_. 'BaseStyle'
+ _expression_. `BaseStyle`
 
  _expression_ A variable that represents a '[Style](Word.Style.md)' object.
 

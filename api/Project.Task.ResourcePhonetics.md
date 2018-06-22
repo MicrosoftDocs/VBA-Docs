@@ -18,7 +18,7 @@ Gets the phonetic representation of a resource name. Read-only  **String**.
 
 ## Syntax
 
- _expression_. 'ResourcePhonetics'
+ _expression_. `ResourcePhonetics`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

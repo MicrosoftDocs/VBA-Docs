@@ -18,7 +18,7 @@ Returns a  **[Comments](Excel.Comments.md)** collection that represents all the 
 
 ## Syntax
 
- _expression_. 'Comments'
+ _expression_. `Comments`
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

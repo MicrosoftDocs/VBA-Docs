@@ -18,7 +18,7 @@ Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 
 ## Syntax
 
- _expression_. 'Add'( ' _Name_', ' _Screen_', ' _ShowInMenu_', ' _Table_', ' _Filter_', ' _Group_', ' _HighlightFilt_' )
+ _expression_. `Add`( ` _Name_`, ` _Screen_`, ` _ShowInMenu_`, ` _Table_`, ` _Filter_`, ` _Group_`, ` _HighlightFilt_` )
 
  _expression_ A variable that represents a 'ViewsSingle' object.
 

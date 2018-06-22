@@ -18,7 +18,7 @@ Returns the square root of (number * pi).
 
 ## Syntax
 
- _expression_. 'SqrtPi'( '_Arg1_' )
+ _expression_. `SqrtPi`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

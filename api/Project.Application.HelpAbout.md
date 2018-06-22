@@ -18,7 +18,7 @@ Displays the  **About Microsoft Project** dialog box, which lists version, copyr
 
 ## Syntax
 
- _expression_. 'HelpAbout'
+ _expression_. `HelpAbout`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

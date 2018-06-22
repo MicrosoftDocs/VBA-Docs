@@ -18,7 +18,7 @@ Returns or sets one of the constants of the  **[XlCalcFor](Excel.XlCalcFor.md)**
 
 ## Syntax
 
- _expression_. 'CalcFor'
+ _expression_. `CalcFor`
 
  _expression_ A variable that represents an [AboveAverage](./Excel.AboveAverage.md) object.
 

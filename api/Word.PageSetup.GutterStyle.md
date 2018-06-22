@@ -18,7 +18,7 @@ Returns or sets whether Microsoft Word uses gutters for the current document bas
 
 ## Syntax
 
- _expression_. 'GutterStyle'
+ _expression_. `GutterStyle`
 
  _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 

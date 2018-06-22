@@ -18,7 +18,7 @@ Returns the  **[Application](Outlook.Application.md)** object that represents th
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 

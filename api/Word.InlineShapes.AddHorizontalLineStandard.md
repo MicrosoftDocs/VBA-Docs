@@ -18,7 +18,7 @@ Adds a horizontal line to the current document.
 
 ## Syntax
 
- _expression_. 'AddHorizontalLineStandard'( '_Range_' )
+ _expression_. `AddHorizontalLineStandard`( `_Range_` )
 
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 

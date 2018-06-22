@@ -18,7 +18,7 @@ Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant
 
 ## Syntax
 
- _expression_. 'HorizontalAnchor'
+ _expression_. `HorizontalAnchor`
 
  _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 

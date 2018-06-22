@@ -18,7 +18,7 @@ Creates a new calculated field. Returns a  **[PivotField](Excel.PivotField.md)**
 
 ## Syntax
 
- _expression_. 'Add'( '_Name_' , '_Formula_' , '_UseStandardFormula_' )
+ _expression_. `Add`( `_Name_` , `_Formula_` , `_UseStandardFormula_` )
 
  _expression_ A variable that represents a [CalculatedFields](./Excel.CalculatedFields.md) object.
 

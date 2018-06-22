@@ -15,7 +15,7 @@ Gets the thousands separator symbol. Read-only  **String**.
 
 ## Syntax
 
- _expression_. 'ThousandSeparator'
+ _expression_. `ThousandSeparator`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

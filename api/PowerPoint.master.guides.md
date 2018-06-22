@@ -16,7 +16,7 @@ Returns a  **[Guides](PowerPoint.guides.md)** collection that represents all of 
 
 ## Syntax
 
- _expression_. 'Guides'
+ _expression_. `Guides`
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 

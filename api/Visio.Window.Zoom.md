@@ -18,7 +18,7 @@ Gets or sets the current display size (magnification factor) for a page in a win
 
 ## Syntax
 
- _expression_. 'Zoom'
+ _expression_. `Zoom`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

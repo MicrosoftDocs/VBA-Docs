@@ -18,7 +18,7 @@ Copies or links data from the Clipboard into the active selection.
 
 ## Syntax
 
- _expression_. 'EditPasteSpecial'( ' _Link_', ' _Type_', ' _DisplayAsIcon_' )
+ _expression_. `EditPasteSpecial`( ` _Link_`, ` _Type_`, ` _DisplayAsIcon_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

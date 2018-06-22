@@ -18,7 +18,7 @@ Gets the work breakdown structure (WBS) codes of the task successors, separated 
 
 ## Syntax
 
- _expression_. 'WBSSuccessors'
+ _expression_. `WBSSuccessors`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

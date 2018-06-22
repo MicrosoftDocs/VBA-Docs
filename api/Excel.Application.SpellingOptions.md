@@ -18,7 +18,7 @@ Returns a  **[SpellingOptions](Excel.SpellingOptions.md)** object that represent
 
 ## Syntax
 
- _expression_. 'SpellingOptions'
+ _expression_. `SpellingOptions`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

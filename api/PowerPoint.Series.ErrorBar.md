@@ -18,7 +18,7 @@ Applies error bars to the series.
 
 ## Syntax
 
- _expression_. 'ErrorBar'( '_Direction_', '_Include_', '_Type_', '_Amount_', '_MinusValues_' )
+ _expression_. `ErrorBar`( `_Direction_`, `_Include_`, `_Type_`, `_Amount_`, `_MinusValues_` )
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

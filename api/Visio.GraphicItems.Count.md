@@ -21,7 +21,7 @@ Returns the number of  **GraphicItem** objects in the **GraphicItems** collectio
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 

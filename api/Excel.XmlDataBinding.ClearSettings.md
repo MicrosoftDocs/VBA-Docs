@@ -18,7 +18,7 @@ Removes the specified data binding.
 
 ## Syntax
 
- _expression_. 'ClearSettings'
+ _expression_. `ClearSettings`
 
  _expression_ A variable that represents a [XmlDataBinding](./Excel.XmlDataBinding.md) object.
 

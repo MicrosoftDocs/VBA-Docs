@@ -18,7 +18,7 @@ Returns the number of print tiles for a drawing page. Read-only.
 
 ## Syntax
 
- _expression_. 'PrintTileCount'
+ _expression_. `PrintTileCount`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

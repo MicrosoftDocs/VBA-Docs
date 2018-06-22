@@ -18,7 +18,7 @@ Returns or sets the comment associated with the list object. Read/write  **Strin
 
 ## Syntax
 
- _expression_. 'Comment'
+ _expression_. `Comment`
 
  _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 

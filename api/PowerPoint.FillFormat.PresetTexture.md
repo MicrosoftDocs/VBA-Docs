@@ -18,7 +18,7 @@ Returns the preset texture for the specified fill. Read-only.
 
 ## Syntax
 
- _expression_. 'PresetTexture'
+ _expression_. `PresetTexture`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 

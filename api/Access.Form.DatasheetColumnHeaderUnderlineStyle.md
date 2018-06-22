@@ -18,7 +18,7 @@ Returns or sets a  **Byte** indicating the line style to use for the bottom edge
 
 ## Syntax
 
- _expression_. 'DatasheetColumnHeaderUnderlineStyle'
+ _expression_. `DatasheetColumnHeaderUnderlineStyle`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

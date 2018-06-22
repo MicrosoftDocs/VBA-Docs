@@ -18,7 +18,7 @@ Returns the  **[AppointmentItem](Outlook.AppointmentItem.md)** object that is th
 
 ## Syntax
 
- _expression_. 'AppointmentItem'
+ _expression_. `AppointmentItem`
 
  _expression_ A variable that represents an [Exception](./Outlook.Exception.md) object.
 

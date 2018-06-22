@@ -18,7 +18,7 @@ Gets or sets the value of the  **On Progress Change** box in the property sheet 
 
 ## Syntax
 
- _expression_. 'OnProgressChange'
+ _expression_. `OnProgressChange`
 
  _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
 

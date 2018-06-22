@@ -18,7 +18,7 @@ Returns the coordinates of the specified freeform drawing's vertices (and contro
 
 ## Syntax
 
- _expression_. 'Vertices'
+ _expression_. `Vertices`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

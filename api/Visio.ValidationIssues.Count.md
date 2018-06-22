@@ -18,7 +18,7 @@ Returns the number of  **[ValidationIssue](Visio.ValidationIssue.md)** objects i
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a '[ValidationIssues](Visio.ValidationIssues.md)' object.
 

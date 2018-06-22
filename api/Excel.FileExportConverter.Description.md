@@ -18,7 +18,7 @@ Returns the description for the file converter. Read-only  **String** .
 
 ## Syntax
 
- _expression_. 'Description'
+ _expression_. `Description`
 
  _expression_ A variable that represents a '[FileExportConverter](Excel.FileExportConverter.md)' object.
 

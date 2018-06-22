@@ -18,7 +18,7 @@ Finds specific information in a range.
 
 ## Syntax
 
- _expression_. 'Find'( '_What_' , '_After_' , '_LookIn_' , '_LookAt_' , '_SearchOrder_' , '_SearchDirection_' , '_MatchCase_' , '_MatchByte_' , '_SearchFormat_' )
+ _expression_. `Find`( `_What_` , `_After_` , `_LookIn_` , `_LookAt_` , `_SearchOrder_` , `_SearchDirection_` , `_MatchCase_` , `_MatchByte_` , `_SearchFormat_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

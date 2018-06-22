@@ -18,7 +18,7 @@ Occurs after a slide show ends, immediately after the last  **[SlideShowNextSlid
 
 ## Syntax
 
- _expression_. 'SlideShowEnd'( '_Pres_' )
+ _expression_. `SlideShowEnd`( `_Pres_` )
 
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 

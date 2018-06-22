@@ -18,7 +18,7 @@ Returns an  **[Items](Outlook.Items.md)** collection object as a collection of O
 
 ## Syntax
 
- _expression_. 'Items'
+ _expression_. `Items`
 
  _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 

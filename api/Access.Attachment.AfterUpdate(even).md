@@ -18,7 +18,7 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
 ## Syntax
 
- _expression_. 'AfterUpdate'
+ _expression_. `AfterUpdate`
 
  _expression_ An expression that returns an [Attachment](./Access.Attachment.md) object.
 

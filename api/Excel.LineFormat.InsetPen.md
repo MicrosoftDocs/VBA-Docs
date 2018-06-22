@@ -15,7 +15,7 @@ Returns or sets whether lines are drawn inside the specified shape's boundaries.
 
 ## Syntax
 
- _expression_. 'InsetPen'
+ _expression_. `InsetPen`
 
  _expression_ A variable that represents a '[LineFormat](Excel.LineFormat.md)' object.
 

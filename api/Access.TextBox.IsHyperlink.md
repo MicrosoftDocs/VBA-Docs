@@ -18,7 +18,7 @@ You can use the  **IsHyperlink** property to specify or determine if the data co
 
 ## Syntax
 
- _expression_. 'IsHyperlink'
+ _expression_. `IsHyperlink`
 
  _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 

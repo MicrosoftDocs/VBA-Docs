@@ -18,7 +18,7 @@ Sets or returns the background style of the specified shape. Read/write [MsoBack
 
 ## Syntax
 
- _expression_. 'BackgroundStyle'
+ _expression_. `BackgroundStyle`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 

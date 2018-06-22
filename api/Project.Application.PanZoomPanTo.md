@@ -15,7 +15,7 @@ Pans the Gantt chart in the active view to the specified start date.
 
 ## Syntax
 
- _expression_. 'PanZoomPanTo'( ' _Start_' )
+ _expression_. `PanZoomPanTo`( ` _Start_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

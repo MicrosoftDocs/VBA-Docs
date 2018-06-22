@@ -18,7 +18,7 @@ Determines whether the specified custom layout follows the slide master backgrou
 
 ## Syntax
 
- _expression_. 'FollowMasterBackground'
+ _expression_. `FollowMasterBackground`
 
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the default envelope width, in points. Read/write  **Single** .
 
 ## Syntax
 
- _expression_. 'DefaultWidth'
+ _expression_. `DefaultWidth`
 
  _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 

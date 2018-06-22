@@ -15,7 +15,7 @@ Gets the  **[Task](Project.Task.md)** object associated with the **[Assignment](
 
 ## Syntax
 
- _expression_. 'Task'
+ _expression_. `Task`
 
  _expression_ An expression that returns an [Assignment](./Project.Assignment.md) object.
 

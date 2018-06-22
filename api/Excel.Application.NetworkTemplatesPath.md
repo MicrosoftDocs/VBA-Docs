@@ -18,7 +18,7 @@ Returns the network path where templates are stored. If the network path doesn't
 
 ## Syntax
 
- _expression_. 'NetworkTemplatesPath'
+ _expression_. `NetworkTemplatesPath`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

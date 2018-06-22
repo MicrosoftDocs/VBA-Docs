@@ -18,7 +18,7 @@ Specifies whether a document is open in place, or whether a document is being vi
 
 ## Syntax
 
- _expression_. 'InPlace'
+ _expression_. `InPlace`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

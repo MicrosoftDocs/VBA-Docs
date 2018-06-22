@@ -18,7 +18,7 @@ Returns or sets the height of an inline shape. Read/write  **Single** .
 
 ## Syntax
 
- _expression_. 'Height'
+ _expression_. `Height`
 
  _expression_ An expression that represents a '[InlineShape](Word.InlineShape.md)' object.
 

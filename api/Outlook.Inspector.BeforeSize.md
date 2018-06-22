@@ -18,7 +18,7 @@ Occurs when the user sizes the current  **[Inspector](Outlook.Inspector.md)** .
 
 ## Syntax
 
- _expression_. 'BeforeSize'( '_Cancel_' )
+ _expression_. `BeforeSize`( `_Cancel_` )
 
  _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 

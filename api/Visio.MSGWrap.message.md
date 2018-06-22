@@ -18,7 +18,7 @@ Gets or sets the  **message** member of the **MSG** structure being wrapped. Rea
 
 ## Syntax
 
- _expression_. 'message'
+ _expression_. `message`
 
  _expression_ A variable that represents a [MSGWrap](./Visio.MSGWrap.md) object.
 

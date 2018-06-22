@@ -18,7 +18,7 @@ Returns an array of command ranges and a  **True** or **False** value indicating
 
 ## Syntax
 
- _expression_. 'GetFilterCommands'
+ _expression_. `GetFilterCommands`
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 

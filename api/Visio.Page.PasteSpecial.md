@@ -18,7 +18,7 @@ Inserts the contents of the Clipboard, allowing you to control the format of the
 
 ## Syntax
 
- _expression_. 'PasteSpecial'( '_Format_' , '_Link_' , '_DisplayAsIcon_' )
+ _expression_. `PasteSpecial`( `_Format_` , `_Link_` , `_DisplayAsIcon_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

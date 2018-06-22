@@ -18,7 +18,7 @@ Returns a  **[Window](Excel.Window.md)** object that represents the active windo
 
 ## Syntax
 
- _expression_. 'ActiveWindow'
+ _expression_. `ActiveWindow`
 
  _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
 

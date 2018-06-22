@@ -18,7 +18,7 @@ The  **Timer** event occurs for a report at regular intervals as specified by th
 
 ## Syntax
 
- _expression_. 'Timer'
+ _expression_. `Timer`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

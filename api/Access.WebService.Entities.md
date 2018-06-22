@@ -18,7 +18,7 @@ Gets the collection of entities defined for the specified Data Service data conn
 
 ## Syntax
 
- _expression_. 'Entities'
+ _expression_. `Entities`
 
  _expression_ A variable that represents a [WebService](./Access.WebService.md) object.
 

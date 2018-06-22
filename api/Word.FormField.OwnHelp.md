@@ -18,7 +18,7 @@ Specifies the source of the text that's displayed in a message box when a form f
 
 ## Syntax
 
- _expression_. 'OwnHelp'
+ _expression_. `OwnHelp`
 
  _expression_ An expression that returns a '[FormField](Word.FormField.md)' object.
 

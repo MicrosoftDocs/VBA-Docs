@@ -18,7 +18,7 @@ Opens a new database and applies the specified template.
 
 ## Syntax
 
- _expression_. 'InstantiateTemplate'( ' _Path_' )
+ _expression_. `InstantiateTemplate`( ` _Path_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

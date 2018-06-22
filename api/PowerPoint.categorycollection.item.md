@@ -16,7 +16,7 @@ Returns an individual chart category.
 
 ## Syntax
 
- _expression_. 'Item'_(Index)_
+ _expression_. `Item`_(Index)_
 
  _expression_ A variable that represents a 'CategoryCollection' object.
 

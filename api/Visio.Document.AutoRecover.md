@@ -18,7 +18,7 @@ Determines whether an open document that has unsaved changes is copied when auto
 
 ## Syntax
 
- _expression_. 'AutoRecover'
+ _expression_. `AutoRecover`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

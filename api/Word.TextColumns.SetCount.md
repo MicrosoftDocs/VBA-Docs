@@ -18,7 +18,7 @@ Arranges text into the specified number of text columns.
 
 ## Syntax
 
- _expression_. 'SetCount'( '_NumColumns_' )
+ _expression_. `SetCount`( `_NumColumns_` )
 
  _expression_ Required. A variable that represents a '[TextColumns](Word(textcolumns).md)' collection.
 

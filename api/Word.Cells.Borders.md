@@ -18,7 +18,7 @@ Returns a  **[Borders](Word.borders.md)** collection that represents all the bor
 
 ## Syntax
 
- _expression_. 'Borders'
+ _expression_. `Borders`
 
  _expression_ A variable that represents a '[Cells](Word.cells.md)' object.
 

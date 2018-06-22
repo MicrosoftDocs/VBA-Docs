@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'DoubleQuote'
+ _expression_. `DoubleQuote`
 
  _expression_ An expression that returns a '[PageNumbers](Word.pagenumbers.md)' object.
 

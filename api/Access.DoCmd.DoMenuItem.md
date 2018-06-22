@@ -18,7 +18,7 @@ Displays the appropriate menu or toolbar command for Microsoft Access.
 
 ## Syntax
 
- _expression_. 'DoMenuItem'( ' _MenuBar_', ' _MenuName_', ' _Command_', ' _Subcommand_', ' _Version_' )
+ _expression_. `DoMenuItem`( ` _MenuBar_`, ` _MenuName_`, ` _Command_`, ` _Subcommand_`, ` _Version_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

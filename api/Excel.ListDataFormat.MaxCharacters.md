@@ -18,7 +18,7 @@ Returns a  **Long** containing the maximum number of characters allowed in the *
 
 ## Syntax
 
- _expression_. 'MaxCharacters'
+ _expression_. `MaxCharacters`
 
  _expression_ A variable that represents a [ListDataFormat](./Excel.ListDataFormat.md) object.
 

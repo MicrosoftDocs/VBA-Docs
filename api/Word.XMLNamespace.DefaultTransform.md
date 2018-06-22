@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'DefaultTransform'
+ _expression_. `DefaultTransform`
 
  _expression_ An expression that returns an '[XMLNamespace](Word.XMLNamespace.md)' object.
 

@@ -18,7 +18,7 @@ Returns the rank of a number in a list of numbers; that is its size relative to 
 
 ## Syntax
 
- _expression_. 'Rank_Avg'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
+ _expression_. `Rank_Avg`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 

@@ -18,7 +18,7 @@ Gets or sets the value of the  **On Document Complete** box in the property shee
 
 ## Syntax
 
- _expression_. 'OnDocumentComplete'
+ _expression_. `OnDocumentComplete`
 
  _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
 

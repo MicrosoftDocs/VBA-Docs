@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the percentage of the relative hei
 
 ## Syntax
 
- _expression_. 'HeightRelative'
+ _expression_. `HeightRelative`
 
  _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
 

@@ -18,7 +18,7 @@ Returns a  **Variant** that represents the style used to format one or more char
 
 ## Syntax
 
- _expression_. 'CharacterStyle'
+ _expression_. `CharacterStyle`
 
  _expression_ An expression that returns a '[Range](Word.Range.md)' object.
 

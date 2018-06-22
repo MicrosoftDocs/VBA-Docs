@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the current
 
 ## Syntax
 
- _expression_. 'CurrentRegion'
+ _expression_. `CurrentRegion`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

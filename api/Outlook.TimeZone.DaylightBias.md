@@ -18,7 +18,7 @@ Returns a  **Long** value that represents the time offset in minutes from the **
 
 ## Syntax
 
- _expression_. 'DaylightBias'
+ _expression_. `DaylightBias`
 
  _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
 

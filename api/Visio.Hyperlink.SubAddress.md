@@ -18,7 +18,7 @@ Gets or sets the subaddress in a shape's  **Hyperlink** object. Read/write.
 
 ## Syntax
 
- _expression_. 'SubAddress'
+ _expression_. `SubAddress`
 
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 

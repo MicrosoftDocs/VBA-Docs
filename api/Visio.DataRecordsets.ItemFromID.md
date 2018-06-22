@@ -21,7 +21,7 @@ Returns a  **DataRecordset** object from the **DataRecordsets** collection by us
 
 ## Syntax
 
- _expression_. 'ItemFromID'( '_ID_' )
+ _expression_. `ItemFromID`( `_ID_` )
 
  _expression_ A variable that represents a [DataRecordsets](./Visio.DataRecordsets.md) object.
 

@@ -18,7 +18,7 @@ Deletes the  **Filter** object from a **Filters** collection.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 

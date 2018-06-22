@@ -18,7 +18,7 @@ Determines whether to snap shapes to the gridlines in the specified presentation
 
 ## Syntax
 
- _expression_. 'SnapToGrid'
+ _expression_. `SnapToGrid`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

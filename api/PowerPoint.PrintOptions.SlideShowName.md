@@ -18,7 +18,7 @@ Returns or sets the name of the custom slide show to print. Read/write .
 
 ## Syntax
 
- _expression_. 'SlideShowName'
+ _expression_. `SlideShowName`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

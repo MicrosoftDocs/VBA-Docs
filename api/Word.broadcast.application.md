@@ -16,7 +16,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ A variable that represents a '[Broadcast](Word.broadcast.md)' object.
 

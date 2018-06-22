@@ -18,7 +18,7 @@ Returns a  **[Parameters](Excel.Parameters.md)** collection that represents the 
 
 ## Syntax
 
- _expression_. 'Parameters'
+ _expression_. `Parameters`
 
  _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 

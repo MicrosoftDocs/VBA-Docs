@@ -15,7 +15,7 @@ Gets or sets the path of the project that contains an external task. Read/write 
 
 ## Syntax
 
- _expression_. 'Path'
+ _expression_. `Path`
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 

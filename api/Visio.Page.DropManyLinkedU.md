@@ -21,7 +21,7 @@ Creates multiple new shapes on the drawing page that are linked to multiple data
 
 ## Syntax
 
- _expression_. 'DropManyLinkedU'( '_ObjectsToInstance()_' , '_XYs()_' , '_DataRecordsetID_' , '_DataRowIDs()_' , '_ApplyDataGraphicAfterLink_' , '_ShapeIDs()_' )
+ _expression_. `DropManyLinkedU`( `_ObjectsToInstance()_` , `_XYs()_` , `_DataRecordsetID_` , `_DataRowIDs()_` , `_ApplyDataGraphicAfterLink_` , `_ShapeIDs()_` )
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 

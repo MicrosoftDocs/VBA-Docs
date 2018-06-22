@@ -18,7 +18,7 @@ Adds a new  **[AutoTextEntry](Word.AutoTextEntry.md)** object to the **[AutoText
 
 ## Syntax
 
- _expression_. 'CreateAutoTextEntry'( '_Name_' , '_StyleName_' )
+ _expression_. `CreateAutoTextEntry`( `_Name_` , `_StyleName_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

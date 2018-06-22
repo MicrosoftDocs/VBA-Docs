@@ -18,7 +18,7 @@ Returns or sets the slide width, in points. Read/write.
 
 ## Syntax
 
- _expression_. 'SlideWidth'
+ _expression_. `SlideWidth`
 
  _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 

@@ -18,7 +18,7 @@ Returns the specified  **Zoom** object.
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a '[Zooms](Word.zooms.md)' collection.
 

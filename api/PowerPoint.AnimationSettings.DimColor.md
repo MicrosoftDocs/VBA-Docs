@@ -18,7 +18,7 @@ Returns or sets a  **[ColorFormat](PowerPoint.ColorFormat.md)** object that repr
 
 ## Syntax
 
- _expression_. 'DimColor'
+ _expression_. `DimColor`
 
  _expression_ A variable that represents a [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

@@ -18,7 +18,7 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 ## Syntax
 
- _expression_. 'ItemProperties'
+ _expression_. `ItemProperties`
 
  _expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
 

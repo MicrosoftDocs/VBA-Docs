@@ -18,7 +18,7 @@ Returns a  **[Shape](Visio.Shape.md)** object that represents the shape that is 
 
 ## Syntax
 
- _expression_. 'ReplacementShape'
+ _expression_. `ReplacementShape`
 
  _expression_ A variable that represents a '[MovedSelectionEvent](Visio.MovedSelectionEvent.md)' object.
 

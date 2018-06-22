@@ -18,7 +18,7 @@ You can use the  **Top** property to specify an object's location on a form or r
 
 ## Syntax
 
- _expression_. 'Top'
+ _expression_. `Top`
 
  _expression_ A variable that represents an [EmptyCell](./Access.EmptyCell.md) object.
 

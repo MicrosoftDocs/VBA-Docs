@@ -18,7 +18,7 @@ Returns or sets the ending heading level for a table of contents or table of fig
 
 ## Syntax
 
- _expression_. 'LowerHeadingLevel'
+ _expression_. `LowerHeadingLevel`
 
  _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 

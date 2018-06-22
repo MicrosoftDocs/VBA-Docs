@@ -18,7 +18,7 @@ Returns or sets the vertical position of the specified slicer, in points, relati
 
 ## Syntax
 
- _expression_. 'Top'
+ _expression_. `Top`
 
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 

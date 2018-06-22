@@ -18,7 +18,7 @@ Returns or sets a one-letter identifier that is used to build a table of figures
 
 ## Syntax
 
- _expression_. 'TableID'
+ _expression_. `TableID`
 
  _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 

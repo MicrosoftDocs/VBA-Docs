@@ -18,7 +18,7 @@ You can use the  **MultiSelect** property to specify whether a user can make mul
 
 ## Syntax
 
- _expression_. 'MultiSelect'
+ _expression_. `MultiSelect`
 
  _expression_ A variable that represents a [ListBox](./Access.ListBox.md) object.
 

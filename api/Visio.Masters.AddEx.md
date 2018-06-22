@@ -18,7 +18,7 @@ Adds a new  **Master** object of the specified type to the **Masters** collectio
 
 ## Syntax
 
- _expression_. 'AddEx'( '_Type_' )
+ _expression_. `AddEx`( `_Type_` )
 
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 

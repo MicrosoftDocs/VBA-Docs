@@ -16,7 +16,7 @@ Protects the specified document from unauthorized changes.
 
 ## Syntax
 
- _expression_. 'Protect'_(Type,_ _NoReset,_ _Password,_ _UseIRM,_ _EnforceStyleLock)_
+ _expression_. `Protect`_(Type,_ _NoReset,_ _Password,_ _UseIRM,_ _EnforceStyleLock)_
 
  _expression_ A variable that represents a [Document](./Word.Document.md) object.
 

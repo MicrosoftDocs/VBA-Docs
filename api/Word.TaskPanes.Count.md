@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of task panes in the collection. 
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ Required. A variable that represents a '[TaskPanes](Word.TaskPanes.md)' collection.
 

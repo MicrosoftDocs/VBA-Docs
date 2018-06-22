@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates whether the **[AppointmentItem](Outl
 
 ## Syntax
 
- _expression_. 'Deleted'
+ _expression_. `Deleted`
 
  _expression_ A variable that represents an [Exception](./Outlook.Exception.md) object.
 

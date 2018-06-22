@@ -16,7 +16,7 @@ Retrieves all of the  **PivotLine** cells including those that are hidden in com
 
 ## Syntax
 
- _expression_. 'PivotLineCellsFull'
+ _expression_. `PivotLineCellsFull`
 
  _expression_ A variable that represents a [PivotLine](./Excel.PivotLine.md) object.
 

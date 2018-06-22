@@ -15,7 +15,7 @@ Gets or sets the start date of the assignment. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. 'Start'
+ _expression_. `Start`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

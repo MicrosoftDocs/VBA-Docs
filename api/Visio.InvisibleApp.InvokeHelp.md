@@ -18,7 +18,7 @@ Performs operations that involve the Microsoft Visio Help system.
 
 ## Syntax
 
- _expression_. 'InvokeHelp'( '_bstrHelpFileName_' , '_Command_' , '_Data_' )
+ _expression_. `InvokeHelp`( `_bstrHelpFileName_` , `_Command_` , `_Data_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

@@ -15,7 +15,7 @@ Gets the name of the project containing the  **Assignment**. Read-only **String*
 
 ## Syntax
 
- _expression_. 'Project'
+ _expression_. `Project`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

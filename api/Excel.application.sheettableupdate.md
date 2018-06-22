@@ -16,7 +16,7 @@ Occurs when a table on a worksheet is updated.
 
 ## Syntax
 
- _expression_. 'SheetTableUpdate'_(Sh,_ _Target)_
+ _expression_. `SheetTableUpdate`_(Sh,_ _Target)_
 
  _expression_ A variable that represents a [Application](./Excel.Application(Graph property).md) object.
 

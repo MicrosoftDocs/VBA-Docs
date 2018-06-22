@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the department name for the contact. 
 
 ## Syntax
 
- _expression_. 'Department'
+ _expression_. `Department`
 
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 

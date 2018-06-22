@@ -18,7 +18,7 @@ Returns or sets the line width of an object's border. Read/write.
 
 ## Syntax
 
- _expression_. 'LineWidth'
+ _expression_. `LineWidth`
 
  _expression_ Required. A variable that represents a '[Border](Word.Border.md)' object.
 

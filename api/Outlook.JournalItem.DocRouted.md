@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates whether the journalized item was rou
 
 ## Syntax
 
- _expression_. 'DocRouted'
+ _expression_. `DocRouted`
 
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 

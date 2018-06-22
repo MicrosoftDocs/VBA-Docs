@@ -18,7 +18,7 @@ Returns or sets the kinsoku characters before which Microsoft Word will not brea
 
 ## Syntax
 
- _expression_. 'NoLineBreakBefore'
+ _expression_. `NoLineBreakBefore`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

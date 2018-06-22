@@ -18,7 +18,7 @@ Returns a  **PictureFormat** object that contains picture formatting properties 
 
 ## Syntax
 
- _expression_. 'PictureFormat'
+ _expression_. `PictureFormat`
 
  _expression_ A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

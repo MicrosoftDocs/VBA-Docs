@@ -19,7 +19,7 @@ The  **GetOption** method returns the current value of an option in the **Access
 
 ## Syntax
 
- _expression_. 'GetOption'( '_OptionName_' )
+ _expression_. `GetOption`( `_OptionName_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

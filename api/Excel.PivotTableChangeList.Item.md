@@ -18,7 +18,7 @@ Returns a single  **[ValueChange](Excel.ValueChange.md)** object from the specif
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that returns a [PivotTableChangeList](./Excel.PivotTableChangeList.md) object.
 

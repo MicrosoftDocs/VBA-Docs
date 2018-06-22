@@ -18,7 +18,7 @@ Returns an [Application](Word.Application.md) object that represents the Word ap
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ A variable that represents an '[UndoRecord](Word.UndoRecord.md)' object.
 

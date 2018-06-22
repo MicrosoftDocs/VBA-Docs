@@ -18,7 +18,7 @@ Returns a  **FileDialog** object which represents a single instance of a file di
 
 ## Syntax
 
- _expression_. 'FileDialog'( '_FileDialogType_' )
+ _expression_. `FileDialog`( `_FileDialogType_` )
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

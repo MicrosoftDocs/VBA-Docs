@@ -18,7 +18,7 @@ Returns or sets the dash style for the specified line. Can be one of the  **[Mso
 
 ## Syntax
 
- _expression_. 'DashStyle'
+ _expression_. `DashStyle`
 
  _expression_ A variable that represents a [LineFormat](./Excel.LineFormat.md) object.
 

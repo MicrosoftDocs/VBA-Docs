@@ -18,7 +18,7 @@ Returns the number of entries in a list box or combo box. Returns 0 (zero) if th
 
 ## Syntax
 
- _expression_. 'ListCount'
+ _expression_. `ListCount`
 
  _expression_ A variable that represents a [ControlFormat](./Excel.ControlFormat.md) object.
 

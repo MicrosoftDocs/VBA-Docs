@@ -18,7 +18,7 @@ Determines whether the ALT key is a modifier for an accelerator. Read/write.
 
 ## Syntax
 
- _expression_. 'Alt'
+ _expression_. `Alt`
 
  _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the last character 
 
 ## Syntax
 
- _expression_. 'Last'
+ _expression_. `Last`
 
  _expression_ Required. A variable that represents a '[Characters](Word.characters.md)' collection.
 

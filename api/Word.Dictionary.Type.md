@@ -18,7 +18,7 @@ Returns the dictionary type. Read-only  **WdDictionaryType** .
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ Required. A variable that represents a '[Dictionary](Word.Dictionary.md)' object.
 

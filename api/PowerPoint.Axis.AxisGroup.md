@@ -18,7 +18,7 @@ Returns the type of axis group. Read-only  **[XlAxisGroup](PowerPoint.XlAxisGrou
 
 ## Syntax
 
- _expression_. 'AxisGroup'
+ _expression_. `AxisGroup`
 
  _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

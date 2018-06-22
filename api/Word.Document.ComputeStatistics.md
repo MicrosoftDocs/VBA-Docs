@@ -18,7 +18,7 @@ Returns a statistic based on the contents of the specified document.  **Long** .
 
 ## Syntax
 
- _expression_. 'ComputeStatistics'( '_Statistic_' , '_IncludeFootnotesAndEndnotes_' )
+ _expression_. `ComputeStatistics`( `_Statistic_` , `_IncludeFootnotesAndEndnotes_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

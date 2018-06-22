@@ -21,7 +21,7 @@ Returns  **visObjTypeDataRecordsetChangedEvent** , the type of a **DataRecordset
 
 ## Syntax
 
- _expression_. 'ObjectType'
+ _expression_. `ObjectType`
 
  _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 

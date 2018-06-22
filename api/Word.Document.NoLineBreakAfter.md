@@ -18,7 +18,7 @@ Returns or sets the kinsoku characters after which Microsoft Word will not break
 
 ## Syntax
 
- _expression_. 'NoLineBreakAfter'
+ _expression_. `NoLineBreakAfter`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

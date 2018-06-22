@@ -18,7 +18,7 @@ Returns number rounded up to the nearest odd integer.
 
 ## Syntax
 
- _expression_. 'Odd'( '_Arg1_' )
+ _expression_. `Odd`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the value of a document variable. Read/write  **String** .
 
 ## Syntax
 
- _expression_. 'Value'
+ _expression_. `Value`
 
  _expression_ Required. A variable that represents a '[Variable](Word.Variable.md)' object.
 

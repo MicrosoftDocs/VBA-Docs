@@ -18,7 +18,7 @@ Determines a menu's state, pressed or not pressed. Read/write.
 
 ## Syntax
 
- _expression_. 'State'
+ _expression_. `State`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

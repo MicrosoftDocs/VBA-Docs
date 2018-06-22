@@ -18,7 +18,7 @@ Set this property to "text/html" to allow hyperlinked HTML files to be opened in
 
 ## Syntax
 
- _expression_. 'BrowseExtraFileTypes'
+ _expression_. `BrowseExtraFileTypes`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

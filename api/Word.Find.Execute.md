@@ -18,7 +18,7 @@ Runs the specified find operation. Returns  **True** if the find operation is su
 
 ## Syntax
 
- _expression_. 'Execute'( '_FindText_' , '_MatchCase_' , '_MatchWholeWord_' , '_MatchWildcards_' , '_MatchSoundsLike_' , '_MatchAllWordForms_' , '_Forward_' , '_Wrap_' , '_Format_' , '_ReplaceWith_' , '_Replace_' , '_MatchKashida_' , '_MatchDiacritics_' , '_MatchAlefHamza_' , '_MatchControl_' )
+ _expression_. `Execute`( `_FindText_` , `_MatchCase_` , `_MatchWholeWord_` , `_MatchWildcards_` , `_MatchSoundsLike_` , `_MatchAllWordForms_` , `_Forward_` , `_Wrap_` , `_Format_` , `_ReplaceWith_` , `_Replace_` , `_MatchKashida_` , `_MatchDiacritics_` , `_MatchAlefHamza_` , `_MatchControl_` )
 
  _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 

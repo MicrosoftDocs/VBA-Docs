@@ -18,7 +18,7 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
 ## Syntax
 
- _expression_. 'Click'
+ _expression_. `Click`
 
  _expression_ A variable that represents an [Image](./Access.Image.md) object.
 

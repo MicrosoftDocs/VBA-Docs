@@ -15,7 +15,7 @@ Gets the name of an account profile in Project Professional. Read/write  **Strin
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents a [Profile](./Project.Profile.md) object.
 

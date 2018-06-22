@@ -18,7 +18,7 @@ Returns a  **TextFrame** object that contains the text for the specified shape.
 
 ## Syntax
 
- _expression_. 'TextFrame'
+ _expression_. `TextFrame`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 

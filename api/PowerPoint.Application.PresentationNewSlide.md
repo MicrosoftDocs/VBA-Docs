@@ -18,7 +18,7 @@ Occurs when a new slide is created in any open presentation, as the slide is add
 
 ## Syntax
 
- _expression_. 'PresentationNewSlide'( '_Sld_' )
+ _expression_. `PresentationNewSlide`( `_Sld_` )
 
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 

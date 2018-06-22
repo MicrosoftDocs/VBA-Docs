@@ -18,7 +18,7 @@ Gets or sets a value that specifies whether hierarchy is maintained in the group
 
 ## Syntax
 
- _expression_. 'MaintainHierarchy'
+ _expression_. `MaintainHierarchy`
 
  _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 

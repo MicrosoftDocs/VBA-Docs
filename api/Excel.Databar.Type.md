@@ -18,7 +18,7 @@ Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatCon
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a [Databar](./Excel.Databar.md) object.
 

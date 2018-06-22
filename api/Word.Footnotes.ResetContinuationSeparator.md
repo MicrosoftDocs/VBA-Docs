@@ -18,7 +18,7 @@ Resets the footnote or endnote continuation separator to the default separator.
 
 ## Syntax
 
- _expression_. 'ResetContinuationSeparator'
+ _expression_. `ResetContinuationSeparator`
 
  _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 

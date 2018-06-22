@@ -18,7 +18,7 @@ Returns or sets the descriptive (alternative) text string for the specified Pivo
 
 ## Syntax
 
- _expression_. 'AlternativeText'
+ _expression_. `AlternativeText`
 
  _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 

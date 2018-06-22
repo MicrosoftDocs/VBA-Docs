@@ -18,7 +18,7 @@ Fills the specified shape with small tiles of an image.
 
 ## Syntax
 
- _expression_. 'UserTextured'( '_TextureFile_' )
+ _expression_. `UserTextured`( `_TextureFile_` )
 
  _expression_ A variable that represents an [FillFormat](./PowerPoint.FillFormat.md) object.
 

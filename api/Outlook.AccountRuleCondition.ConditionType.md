@@ -18,7 +18,7 @@ Returns a constant,  **olConditionAccount** , from the **[OlRuleConditionType](O
 
 ## Syntax
 
- _expression_. 'ConditionType'
+ _expression_. `ConditionType`
 
  _expression_ A variable that represents an [AccountRuleCondition](./Outlook.AccountRuleCondition.md) object.
 

@@ -18,7 +18,7 @@ Returns the number of items in the  **OMathMatRows** collection. Read-only **Lon
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a '[OMathMatRows](Word.OMathMatRows.md)' object.
 

@@ -18,7 +18,7 @@ Represents the language ID of the version of the Microsoft Visio instance repres
 
 ## Syntax
 
- _expression_. 'Language'( '_lpi4Ret_' )
+ _expression_. `Language`( `_lpi4Ret_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

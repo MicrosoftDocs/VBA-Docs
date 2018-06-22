@@ -16,7 +16,7 @@ Returns a single object from the [ModelMeasureNames Object (Excel)](modelmeasure
 
 ## Syntax
 
- _expression_. 'Item'_(Index)_
+ _expression_. `Item`_(Index)_
 
  _expression_ A variable that represents a[ModelMeasureNames Object (Excel)](modelmeasurenames-object-excel.md) object.
 

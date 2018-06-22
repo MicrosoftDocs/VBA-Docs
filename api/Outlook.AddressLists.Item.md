@@ -18,7 +18,7 @@ Returns an  **[AddressList](Outlook.AddressList.md)** object from the collection
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents an [AddressLists](./Outlook.AddressLists.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the axis title text.
 
 ## Syntax
 
- _expression_. 'Caption'
+ _expression_. `Caption`
 
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 

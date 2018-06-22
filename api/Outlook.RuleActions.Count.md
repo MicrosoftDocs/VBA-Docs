@@ -18,7 +18,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 

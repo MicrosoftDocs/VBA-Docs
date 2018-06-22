@@ -23,7 +23,7 @@ Returns or sets the type of major tick mark for the specified axis. Read/write X
 | **xlTickMarkNone**|
 | **xlTickMarkOutside**|
 
- _expression_. 'MajorTickMark'
+ _expression_. `MajorTickMark`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

@@ -18,7 +18,7 @@ Returns or sets whether the values row is displayed. Read/write
 
 ## Syntax
 
- _expression_. 'ShowValuesRow'
+ _expression_. `ShowValuesRow`
 
  _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 

@@ -18,7 +18,7 @@ Creates one or more new  **Shape** objects on a page, in a master, or in a group
 
 ## Syntax
 
- _expression_. 'DropManyU'( '_ObjectsToInstance()_' , '_xyArray()_' , '_IDArray()_' )
+ _expression_. `DropManyU`( `_ObjectsToInstance()_` , `_xyArray()_` , `_IDArray()_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

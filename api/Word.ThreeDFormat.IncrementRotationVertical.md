@@ -18,7 +18,7 @@ Vertically rotates a shape on the y-axis using the specified incrementation valu
 
 ## Syntax
 
- _expression_. 'IncrementRotationVertical'( '_Increment_' )
+ _expression_. `IncrementRotationVertical`( `_Increment_` )
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

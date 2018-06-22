@@ -18,7 +18,7 @@ Creates a new series. Returns a  **[Series](Excel.Series(objec).md)** object tha
 
 ## Syntax
 
- _expression_. 'NewSeries'
+ _expression_. `NewSeries`
 
  _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection(object).md) object.
 

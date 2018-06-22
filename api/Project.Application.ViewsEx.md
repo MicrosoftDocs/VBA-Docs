@@ -18,7 +18,7 @@ Displays the  **More Views** dialog box with the specified pane of the current v
 
 ## Syntax
 
- _expression_. 'ViewsEx'( ' _ApplyTo_' )
+ _expression_. `ViewsEx`( ` _ApplyTo_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

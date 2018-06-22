@@ -18,7 +18,7 @@ Determines the default unit of measure for quantities that represent angles. Rea
 
 ## Syntax
 
- _expression_. 'DefaultAngleUnits'
+ _expression_. `DefaultAngleUnits`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

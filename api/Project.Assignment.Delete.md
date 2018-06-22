@@ -15,7 +15,7 @@ Deletes the  **Assignment** object from an **Assignments** collection.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

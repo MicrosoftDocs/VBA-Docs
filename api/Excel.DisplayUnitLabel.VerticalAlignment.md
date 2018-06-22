@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value that represents the vertical alignment of t
 
 ## Syntax
 
- _expression_. 'VerticalAlignment'
+ _expression_. `VerticalAlignment`
 
  _expression_ A variable that represents a [DisplayUnitLabel](./Excel.DisplayUnitLabel(Graph property).md) object.
 

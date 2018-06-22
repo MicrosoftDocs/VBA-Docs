@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'NoShade'
+ _expression_. `NoShade`
 
  _expression_ An expression that returns a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
 

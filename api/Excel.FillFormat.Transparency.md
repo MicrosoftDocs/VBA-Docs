@@ -18,7 +18,7 @@ Returns or sets the degree of transparency of the specified fill as a value from
 
 ## Syntax
 
- _expression_. 'Transparency'
+ _expression_. `Transparency`
 
  _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 

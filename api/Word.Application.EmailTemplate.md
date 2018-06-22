@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the document template to use when 
 
 ## Syntax
 
- _expression_. 'EmailTemplate'
+ _expression_. `EmailTemplate`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

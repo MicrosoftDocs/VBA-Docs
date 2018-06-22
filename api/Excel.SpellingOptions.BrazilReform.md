@@ -18,7 +18,7 @@ Returns or sets the mode for checking the spelling of Brazilian Portuguese. Read
 
 ## Syntax
 
- _expression_. 'BrazilReform'
+ _expression_. `BrazilReform`
 
  _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 

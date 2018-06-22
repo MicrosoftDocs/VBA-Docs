@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies if a selection is displayed or hid
 
 ## Syntax
 
- _expression_. 'HideSelection'
+ _expression_. `HideSelection`
 
  _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Date** value that represents the completion date of the tas
 
 ## Syntax
 
- _expression_. 'TaskCompletedDate'
+ _expression_. `TaskCompletedDate`
 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 

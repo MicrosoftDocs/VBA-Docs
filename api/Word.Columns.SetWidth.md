@@ -18,7 +18,7 @@ Sets the width of columns in a table.
 
 ## Syntax
 
- _expression_. 'SetWidth'( '_ColumnWidth_' , '_RulerStyle_' )
+ _expression_. `SetWidth`( `_ColumnWidth_` , `_RulerStyle_` )
 
  _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 

@@ -18,7 +18,7 @@ Gets or sets the shade that is applied to the theme color in the  **PressedColor
 
 ## Syntax
 
- _expression_. 'PressedShade'
+ _expression_. `PressedShade`
 
  _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 

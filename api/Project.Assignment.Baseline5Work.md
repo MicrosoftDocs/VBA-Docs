@@ -15,7 +15,7 @@ Gets or sets the baseline work (in minutes) for an  **Assignment**. Read/write *
 
 ## Syntax
 
- _expression_. 'Baseline5Work'
+ _expression_. `Baseline5Work`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

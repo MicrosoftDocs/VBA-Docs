@@ -16,7 +16,7 @@ For comments that are replies to existing comments, returns the parent  **Commen
 
 ## Syntax
 
- _expression_. 'Ancestor'
+ _expression_. `Ancestor`
 
  _expression_ A variable that represents a [Comment](./Word.Comment.md) object.
 

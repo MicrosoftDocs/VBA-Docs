@@ -18,7 +18,7 @@ Activates the lower pane if the upper pane is active; activates the upper pane i
 
 ## Syntax
 
- _expression_. 'PaneNext'
+ _expression_. `PaneNext`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

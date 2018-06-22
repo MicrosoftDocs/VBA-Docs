@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** indicating whether a Form window opens automatica
 
 ## Syntax
 
- _expression_. 'AutoResize'
+ _expression_. `AutoResize`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

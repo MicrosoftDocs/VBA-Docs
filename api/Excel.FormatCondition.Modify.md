@@ -18,7 +18,7 @@ Modifies an existing conditional format.
 
 ## Syntax
 
- _expression_. 'Modify'( '_Type_' , '_Operator_' , '_Formula1_' , '_Formula2_' )
+ _expression_. `Modify`( `_Type_` , `_Operator_` , `_Formula1_` , `_Formula2_` )
 
  _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
 

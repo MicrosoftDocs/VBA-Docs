@@ -18,7 +18,7 @@ Returns or sets a  **String** that contains a title for the specified table. Rea
 
 ## Syntax
 
- _expression_. 'Title'
+ _expression_. `Title`
 
  _expression_ A variable that represents a '[Table](Word.Table.md)' object.
 

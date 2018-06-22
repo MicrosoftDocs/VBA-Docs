@@ -18,7 +18,7 @@ Adds a  **TableField** object to a **TableFields** collection.
 
 ## Syntax
 
- _expression_. 'Add'( ' _Field_', ' _AlignData_', ' _Width_', ' _Title_', ' _AlignTitle_', ' _Before_', ' _AutoWrap_' )
+ _expression_. `Add`( ` _Field_`, ` _AlignData_`, ` _Width_`, ` _Title_`, ` _AlignTitle_`, ` _Before_`, ` _AutoWrap_` )
 
  _expression_ A variable that represents a 'TableFields' object.
 

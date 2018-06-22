@@ -18,7 +18,7 @@ The  **InsertText** method inserts a specified string of text into a standard mo
 
 ## Syntax
 
- _expression_. 'InsertText'( ' _Text_' )
+ _expression_. `InsertText`( ` _Text_` )
 
  _expression_ A variable that represents a [Module](./Access.Module.md) object.
 

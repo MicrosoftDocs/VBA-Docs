@@ -18,7 +18,7 @@ The  **Minor** property of a **[Reference](Access.Reference.md)** object returns
 
 ## Syntax
 
- _expression_. 'Minor'
+ _expression_. `Minor`
 
  _expression_ A variable that represents a [Reference](./Access.Reference.md) object.
 

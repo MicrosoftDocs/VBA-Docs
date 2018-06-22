@@ -18,7 +18,7 @@ You can use the  **PictureData** property to copy the picture to another object 
 
 ## Syntax
 
- _expression_. 'PictureData'
+ _expression_. `PictureData`
 
  _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 

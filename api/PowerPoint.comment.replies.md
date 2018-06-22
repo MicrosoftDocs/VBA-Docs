@@ -16,7 +16,7 @@ Returns a [Comments](PowerPoint.Comments.md) collection of **Comment** objects t
 
 ## Syntax
 
- _expression_. 'Replies'
+ _expression_. `Replies`
 
  _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 

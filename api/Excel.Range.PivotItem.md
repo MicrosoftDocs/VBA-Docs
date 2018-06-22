@@ -18,7 +18,7 @@ Returns a  **[PivotItem](Excel.PivotItem.md)** object that represents the PivotT
 
 ## Syntax
 
- _expression_. 'PivotItem'
+ _expression_. `PivotItem`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

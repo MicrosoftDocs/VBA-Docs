@@ -18,7 +18,7 @@ Called by the Undo Manager to tell an undo unit to perform its action.
 
 ## Syntax
 
- _expression_. 'Do'( '_pMgr_' )
+ _expression_. `Do`( `_pMgr_` )
 
  _expression_ A variable that represents an 'IVBUndoUnit' object.
 

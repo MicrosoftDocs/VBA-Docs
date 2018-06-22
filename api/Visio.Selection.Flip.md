@@ -18,7 +18,7 @@ Flips selected shapes either as a group or individually about their pins. Return
 
 ## Syntax
 
- _expression_. 'Flip'( '_FlipDirection_' , '_FlipType_' , '_BlastGuards_' , '_PinX_' , '_PinY_' , '_PinUnitsNameOrCode_' )
+ _expression_. `Flip`( `_FlipDirection_` , `_FlipType_` , `_BlastGuards_` , `_PinX_` , `_PinY_` , `_PinUnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

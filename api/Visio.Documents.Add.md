@@ -18,7 +18,7 @@ Adds a new  **Document** object to the **Documents** collection.
 
 ## Syntax
 
- _expression_. 'Add'( '_FileName_' )
+ _expression_. `Add`( `_FileName_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

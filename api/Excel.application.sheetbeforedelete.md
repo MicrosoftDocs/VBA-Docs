@@ -16,7 +16,7 @@ Occurs before any sheet is deleted.
 
 ## Syntax
 
- _expression_. 'SheetBeforeDelete'( '_Sh_' , )
+ _expression_. `SheetBeforeDelete`( `_Sh_` , )
 
  _expression_ An expression that returns an [Application](./Excel.Application(Graph property).md) object.
 

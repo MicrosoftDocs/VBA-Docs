@@ -18,7 +18,7 @@ Returns or sets an  **[AcPrintDuplex](Access.AcPrintDuplex.md)** constant indica
 
 ## Syntax
 
- _expression_. 'Duplex'
+ _expression_. `Duplex`
 
  _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 

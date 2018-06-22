@@ -18,7 +18,7 @@ Returns the Uniform Resource Locator (URL) of the specified attachment. Read-onl
 
 ## Syntax
 
- _expression_. 'FileURL'( ' _var_' )
+ _expression_. `FileURL`( ` _var_` )
 
  _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 

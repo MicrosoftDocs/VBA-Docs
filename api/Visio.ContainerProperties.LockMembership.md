@@ -18,7 +18,7 @@ Gets or sets a value that determines whether container members can be added, rem
 
 ## Syntax
 
- _expression_. 'LockMembership'
+ _expression_. `LockMembership`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

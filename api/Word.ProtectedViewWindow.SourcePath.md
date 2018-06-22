@@ -18,7 +18,7 @@ Returns the path of the source file for the specified protected view window. Rea
 
 ## Syntax
 
- _expression_. 'SourcePath'
+ _expression_. `SourcePath`
 
  _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Long** that represents the priority for sorting styles in t
 
 ## Syntax
 
- _expression_. 'Priority'
+ _expression_. `Priority`
 
  _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 

@@ -18,7 +18,7 @@ Sets attributes associated with a custom field.
 
 ## Syntax
 
- _expression_. 'CustomFieldPropertiesEx'( ' _FieldID_', ' _Attribute_', ' _SummaryCalc_', ' _GraphicalIndicators_', ' _Required_', ' _AutomaticallyRolldownToAssn_' )
+ _expression_. `CustomFieldPropertiesEx`( ` _FieldID_`, ` _Attribute_`, ` _SummaryCalc_`, ` _GraphicalIndicators_`, ` _Required_`, ` _AutomaticallyRolldownToAssn_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

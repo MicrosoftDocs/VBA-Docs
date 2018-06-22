@@ -18,7 +18,7 @@ Returns or sets the alignment of text on the left footer of a workbook or sectio
 
 ## Syntax
 
- _expression_. 'LeftFooter'
+ _expression_. `LeftFooter`
 
  _expression_ A variable that represents a [PageSetup](./Excel.PageSetup.md) object.
 

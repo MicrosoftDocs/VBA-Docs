@@ -18,7 +18,7 @@ You can use the  **SubdatasheetExpanded** property to specify or determine the s
 
 ## Syntax
 
- _expression_. 'SubdatasheetExpanded'
+ _expression_. `SubdatasheetExpanded`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

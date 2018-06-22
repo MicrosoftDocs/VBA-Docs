@@ -18,7 +18,7 @@ Returns or sets a value that represents the distance, in points, from the top ed
 
 ## Syntax
 
- _expression_. 'Top'
+ _expression_. `Top`
 
  _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 

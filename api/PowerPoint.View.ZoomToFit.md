@@ -18,7 +18,7 @@ Determines whether the view is zoomed to fit the dimensions of the document wind
 
 ## Syntax
 
- _expression_. 'ZoomToFit'
+ _expression_. `ZoomToFit`
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

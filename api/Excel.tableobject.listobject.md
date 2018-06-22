@@ -16,7 +16,7 @@ Returns a [ListObject Object (Excel)](listobject-object-excel.md) object for the
 
 ## Syntax
 
- _expression_. 'ListObject'
+ _expression_. `ListObject`
 
  _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 

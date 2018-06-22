@@ -18,7 +18,7 @@ Gets a  **[List](Project.List.md)** object representing the resource groups in t
 
 ## Syntax
 
- _expression_. 'ResourceGroupList'
+ _expression_. `ResourceGroupList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

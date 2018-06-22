@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents an [OutlookBarGroup](./Outlook.OutlookBarGroup.md) object.
 

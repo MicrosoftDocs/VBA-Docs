@@ -18,7 +18,7 @@ Returns or sets the keyboard language and layout settings.
 
 ## Syntax
 
- _expression_. 'Keyboard'( '_LangId_' )
+ _expression_. `Keyboard`( `_LangId_` )
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

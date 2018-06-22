@@ -18,7 +18,7 @@ Returns the  **ToolbarItems** collection of a **Toolbar** object. Read-only.
 
 ## Syntax
 
- _expression_. 'ToolbarItems'
+ _expression_. `ToolbarItems`
 
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 

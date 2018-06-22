@@ -18,7 +18,7 @@ Selects the object.
 
 ## Syntax
 
- _expression_. 'Select'
+ _expression_. `Select`
 
  _expression_ A variable that represents a [ChartArea](./Excel.ChartArea(Graph property).md) object.
 

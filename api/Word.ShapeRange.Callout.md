@@ -18,7 +18,7 @@ Returns a  **[CalloutFormat](Word.CalloutFormat.md)** object that contains callo
 
 ## Syntax
 
- _expression_. 'Callout'
+ _expression_. `Callout`
 
  _expression_ A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 

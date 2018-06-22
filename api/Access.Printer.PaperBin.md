@@ -18,7 +18,7 @@ Returns or sets an  **[AcPrintPaperBin](Access.AcPrintPaperBin.md)** constant in
 
 ## Syntax
 
- _expression_. 'PaperBin'
+ _expression_. `PaperBin`
 
  _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 

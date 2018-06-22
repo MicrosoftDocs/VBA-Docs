@@ -18,7 +18,7 @@ Returns a  **[TableOfAuthorities](Word.TableOfAuthorities.md)** collection that 
 
 ## Syntax
 
- _expression_. 'TablesOfAuthorities'
+ _expression_. `TablesOfAuthorities`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

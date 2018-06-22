@@ -18,7 +18,7 @@ Returns the name of the specified file converter. Read-only  **String** .
 
 ## Syntax
 
- _expression_. 'FormatName'
+ _expression_. `FormatName`
 
  _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 

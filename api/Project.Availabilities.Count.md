@@ -15,7 +15,7 @@ Gets the number of items in the  **Availabilities** collection. Read-only **Long
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents an 'Availabilities' object.
 

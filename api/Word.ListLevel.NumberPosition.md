@@ -18,7 +18,7 @@ Returns or sets the position (in points) of the number or bullet for the specifi
 
 ## Syntax
 
- _expression_. 'NumberPosition'
+ _expression_. `NumberPosition`
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 

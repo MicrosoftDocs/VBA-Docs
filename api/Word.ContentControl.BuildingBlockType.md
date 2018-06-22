@@ -18,7 +18,7 @@ Returns or sets a  **WdBuildingBlockTypes** constant that represents they type o
 
 ## Syntax
 
- _expression_. 'BuildingBlockType'
+ _expression_. `BuildingBlockType`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

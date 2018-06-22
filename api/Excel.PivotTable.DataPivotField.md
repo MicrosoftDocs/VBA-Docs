@@ -18,7 +18,7 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that represents all the 
 
 ## Syntax
 
- _expression_. 'DataPivotField'
+ _expression_. `DataPivotField`
 
  _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 

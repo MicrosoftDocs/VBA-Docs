@@ -18,7 +18,7 @@ Returns or sets the starting character position of a bookmark. Read/write  **Lon
 
 ## Syntax
 
- _expression_. 'Start'
+ _expression_. `Start`
 
  _expression_ A variable that represents a '[Bookmark](Word.Bookmark.md)' object.
 

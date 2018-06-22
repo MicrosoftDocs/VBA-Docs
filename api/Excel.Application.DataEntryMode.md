@@ -18,7 +18,7 @@ Returns or sets Data Entry mode, as shown in the following table. When in Data E
 
 ## Syntax
 
- _expression_. 'DataEntryMode'
+ _expression_. `DataEntryMode`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

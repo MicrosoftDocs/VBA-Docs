@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents a horizontal strikethrough. Read/
 
 ## Syntax
 
- _expression_. 'StrikeH'
+ _expression_. `StrikeH`
 
  _expression_ An expression that returns an '[OMathBorderBox](Word.OMathBorderBox.md)' object.
 

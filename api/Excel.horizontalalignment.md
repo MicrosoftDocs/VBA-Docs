@@ -21,7 +21,7 @@ Returns or sets the horizontal alignment for the specified object. Read/write
 | **xlHAlignCenter**|
 | **xlHAlignCenterAcrossSelection** **xlHAlignDistributed** **xlHAlignFill** **xlHAlignGeneral** **xlHAlignJustify** **xlHAlignLeft** **xlHAlignRight**|
 
- _expression_. 'HorizontalAlignment'
+ _expression_. `HorizontalAlignment`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

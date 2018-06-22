@@ -18,7 +18,7 @@ Creates a new trendline.
 
 ## Syntax
 
- _expression_. 'Add'( '_Type_' , '_Order_' , '_Period_' , '_Forward_' , '_Backward_' , '_Intercept_' , '_DisplayEquation_' , '_DisplayRSquared_' , '_Name_' )
+ _expression_. `Add`( `_Type_` , `_Order_` , `_Period_` , `_Forward_` , `_Backward_` , `_Intercept_` , `_DisplayEquation_` , `_DisplayRSquared_` , `_Name_` )
 
  _expression_ A variable that represents a '[Trendlines](Word.Trendlines.md)' object.
 

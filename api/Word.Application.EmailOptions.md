@@ -18,7 +18,7 @@ Returns an  **[EmailOptions](Word.EmailOptions.md)** object that represents the 
 
 ## Syntax
 
- _expression_. 'EmailOptions'
+ _expression_. `EmailOptions`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

@@ -18,7 +18,7 @@ Returns or sets a string that refers to the worksheet cells containing the x-val
 
 ## Syntax
 
- _expression_. 'BubbleSizes'
+ _expression_. `BubbleSizes`
 
  _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
 

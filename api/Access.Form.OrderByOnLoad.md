@@ -18,7 +18,7 @@ Gets or sets whether the sorting specified by the  **[OrderBy](Access.Form.Order
 
 ## Syntax
 
- _expression_. 'OrderByOnLoad'
+ _expression_. `OrderByOnLoad`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

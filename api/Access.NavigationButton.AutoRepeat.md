@@ -18,7 +18,7 @@ You can use the  **AutoRepeat** property to specify whether an event procedure o
 
 ## Syntax
 
- _expression_. 'AutoRepeat'
+ _expression_. `AutoRepeat`
 
  _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 

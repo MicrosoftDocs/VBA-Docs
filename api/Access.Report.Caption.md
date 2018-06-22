@@ -18,7 +18,7 @@ Gets or sets the title of the report in Print Preview. Read/write  **String**.
 
 ## Syntax
 
- _expression_. 'Caption'
+ _expression_. `Caption`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

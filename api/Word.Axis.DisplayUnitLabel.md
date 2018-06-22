@@ -18,7 +18,7 @@ Returns the  **[DisplayUnitLabel](Word.DisplayUnitLabel.md)** object for the spe
 
 ## Syntax
 
- _expression_. 'DisplayUnitLabel'
+ _expression_. `DisplayUnitLabel`
 
  _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
 

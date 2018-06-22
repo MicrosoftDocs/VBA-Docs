@@ -16,7 +16,7 @@ Returns the date on which the OLE DB connection was last refreshed.  **Date** . 
 
 ## Syntax
 
- _expression_. 'RefreshDate'
+ _expression_. `RefreshDate`
 
  _expression_ A variable that represents a[DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
 

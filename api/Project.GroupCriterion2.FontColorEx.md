@@ -15,7 +15,7 @@ Gets or sets the color of the font for a field used as a criterion in a group de
 
 ## Syntax
 
- _expression_. 'FontColorEx'
+ _expression_. `FontColorEx`
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 

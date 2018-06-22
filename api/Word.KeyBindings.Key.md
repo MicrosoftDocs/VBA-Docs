@@ -18,7 +18,7 @@ Returns a  **KeyBinding** object that represents the specified custom key combin
 
 ## Syntax
 
- _expression_. 'Key'( '_KeyCode_' , '_KeyCode2_' )
+ _expression_. `Key`( `_KeyCode_` , `_KeyCode2_` )
 
  _expression_ A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 

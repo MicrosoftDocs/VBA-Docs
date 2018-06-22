@@ -18,7 +18,7 @@ Estimates the variance across a sample in a specified set of records (a domain).
 
 ## Syntax
 
- _expression_. 'DVar'( ' _Expr_', ' _Domain_', ' _Criteria_' )
+ _expression_. `DVar`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

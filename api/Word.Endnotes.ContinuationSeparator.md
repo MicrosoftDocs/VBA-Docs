@@ -18,7 +18,7 @@ Returns a  **Range** object that represents the endnote continuation separator. 
 
 ## Syntax
 
- _expression_. 'ContinuationSeparator'
+ _expression_. `ContinuationSeparator`
 
  _expression_ A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 

@@ -18,7 +18,7 @@ Removes an item from the value list for a custom field.
 
 ## Syntax
 
- _expression_. 'CustomFieldValueListDelete'( ' _FieldID_', ' _Index_' )
+ _expression_. `CustomFieldValueListDelete`( ` _FieldID_`, ` _Index_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

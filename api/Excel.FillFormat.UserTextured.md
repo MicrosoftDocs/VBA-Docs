@@ -18,7 +18,7 @@ Fills the specified shape with small tiles of an image. If you want to fill the 
 
 ## Syntax
 
- _expression_. 'UserTextured'( '_TextureFile_' )
+ _expression_. `UserTextured`( `_TextureFile_` )
 
  _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 

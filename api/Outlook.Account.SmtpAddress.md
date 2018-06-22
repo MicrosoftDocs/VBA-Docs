@@ -18,7 +18,7 @@ Returns a  **String** representing the Simple Mail Transfer Protocol (SMTP) addr
 
 ## Syntax
 
- _expression_. 'SmtpAddress'
+ _expression_. `SmtpAddress`
 
  _expression_ A variable that represents an [Account](./Outlook.Account.md) object.
 

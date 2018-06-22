@@ -18,7 +18,7 @@ Returns the color format type. Read-only  **Long** .
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a '[ChartColorFormat](Word.ChartColorFormat.md)' object.
 

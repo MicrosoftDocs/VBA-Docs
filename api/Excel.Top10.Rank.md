@@ -18,7 +18,7 @@ Returns or sets a  **Long** value, specifying either the number or percentage of
 
 ## Syntax
 
- _expression_. 'Rank'
+ _expression_. `Rank`
 
  _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 

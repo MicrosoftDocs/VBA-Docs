@@ -18,7 +18,7 @@ You can use the  **DrawStyle** property to specify the line style when using the
 
 ## Syntax
 
- _expression_. 'DrawStyle'
+ _expression_. `DrawStyle`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

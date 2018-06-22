@@ -13,7 +13,7 @@ Returns a  **Variant** that represents the specified theme component of the spec
 
 ## Syntax
 
- _expression_. 'GetTheme'_(eThemeType)_
+ _expression_. `GetTheme`_(eThemeType)_
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

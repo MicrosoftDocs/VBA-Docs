@@ -18,7 +18,7 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the item o
 
 ## Syntax
 
- _expression_. 'Selection'
+ _expression_. `Selection`
 
  _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 

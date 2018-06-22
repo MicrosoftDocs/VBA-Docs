@@ -18,7 +18,7 @@ Returns or sets the shape type for the specified  **ShapeRange** object, which m
 
 ## Syntax
 
- _expression_. 'AutoShapeType'
+ _expression_. `AutoShapeType`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

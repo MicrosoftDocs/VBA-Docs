@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the bottom of the text frame an
 
 ## Syntax
 
- _expression_. 'MarginBottom'
+ _expression_. `MarginBottom`
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 

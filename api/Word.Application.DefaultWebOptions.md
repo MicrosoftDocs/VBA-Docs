@@ -18,7 +18,7 @@ Returns the  **[DefaultWebOptions](Word.DefaultWebOptions.md)** object that cont
 
 ## Syntax
 
- _expression_. 'DefaultWebOptions'
+ _expression_. `DefaultWebOptions`
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

@@ -18,7 +18,7 @@ Adds a SmartArt diagram to the  **Shapes** object.
 
 ## Syntax
 
- _expression_. 'AddSmartArt'( '_Layout_', '_Left_', '_Top_', '_Width_', '_Height_' )
+ _expression_. `AddSmartArt`( `_Layout_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

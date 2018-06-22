@@ -18,7 +18,7 @@ Changes the horizontal offset of the shadow by the specified number of points. U
 
 ## Syntax
 
- _expression_. 'IncrementOffsetX'( '_Increment_' )
+ _expression_. `IncrementOffsetX`( `_Increment_` )
 
  _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 

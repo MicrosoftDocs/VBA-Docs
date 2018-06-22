@@ -15,7 +15,7 @@ Gets the number of items in the  **[ChildDrivers](Project.childdrivers.md)** col
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a 'ChildDrivers' object.
 

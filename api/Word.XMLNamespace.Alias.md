@@ -18,7 +18,7 @@ Returns a  **String** that represents the display name for the specified object.
 
 ## Syntax
 
- _expression_. 'Alias'
+ _expression_. `Alias`
 
  _expression_ Required. A variable that represents a '[XMLNamespace](Word.XMLNamespace.md)' object.
 

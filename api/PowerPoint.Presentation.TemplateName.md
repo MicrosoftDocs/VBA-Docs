@@ -18,7 +18,7 @@ Returns the name of the design template associated with the specified presentati
 
 ## Syntax
 
- _expression_. 'TemplateName'
+ _expression_. `TemplateName`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

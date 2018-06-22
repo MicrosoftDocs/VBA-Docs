@@ -15,7 +15,7 @@ Gets or sets the finish date of the part of a split task represented by the  **S
 
 ## Syntax
 
- _expression_. 'Finish'
+ _expression_. `Finish`
 
  _expression_ A variable that represents a [SplitPart](./Project.SplitPart.md) object.
 

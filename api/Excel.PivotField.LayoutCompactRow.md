@@ -18,7 +18,7 @@ Specifies whether or not a PivotField is compacted (items of multiple PivotField
 
 ## Syntax
 
- _expression_. 'LayoutCompactRow'
+ _expression_. `LayoutCompactRow`
 
  _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 

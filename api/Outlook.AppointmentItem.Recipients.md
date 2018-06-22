@@ -18,7 +18,7 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 
 ## Syntax
 
- _expression_. 'Recipients'
+ _expression_. `Recipients`
 
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 

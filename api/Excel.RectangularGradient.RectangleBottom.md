@@ -18,7 +18,7 @@ Represents the point or vector that the gradient fill converges to. Read/write
 
 ## Syntax
 
- _expression_. 'RectangleBottom'
+ _expression_. `RectangleBottom`
 
  _expression_ A variable that represents a [RectangularGradient](./Excel.RectangularGradient.md) object.
 

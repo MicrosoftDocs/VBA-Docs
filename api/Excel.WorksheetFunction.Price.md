@@ -18,7 +18,7 @@ Returns the price per $100 face value of a security that pays periodic interest.
 
 ## Syntax
 
- _expression_. 'Price'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' , '_Arg5_' , '_Arg6_' , '_Arg7_' )
+ _expression_. `Price`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` , `_Arg5_` , `_Arg6_` , `_Arg7_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

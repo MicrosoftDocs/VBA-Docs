@@ -18,7 +18,7 @@ Represents the security mode that Microsoft PowerPoint uses when it opens files 
 
 ## Syntax
 
- _expression_. 'AutomationSecurity'
+ _expression_. `AutomationSecurity`
 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

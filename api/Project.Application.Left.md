@@ -15,7 +15,7 @@ Gets or sets the distance of the main window from the left edge of the screen in
 
 ## Syntax
 
- _expression_. 'Left'
+ _expression_. `Left`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

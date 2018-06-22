@@ -18,7 +18,7 @@ Occurs after the specified command is executed. Use this event when you want to 
 
 ## Syntax
 
- _expression_. 'CommandExecute'( ' _Command_', )
+ _expression_. `CommandExecute`( ` _Command_`, )
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

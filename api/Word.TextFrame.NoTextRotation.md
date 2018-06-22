@@ -18,7 +18,7 @@ True if text in the text frame should not rotate when the shape is rotated. Read
 
 ## Syntax
 
- _expression_. 'NoTextRotation'
+ _expression_. `NoTextRotation`
 
  _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 

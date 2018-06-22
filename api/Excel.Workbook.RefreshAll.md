@@ -18,7 +18,7 @@ Refreshes all external data ranges and PivotTable reports in the specified workb
 
 ## Syntax
 
- _expression_. 'RefreshAll'
+ _expression_. `RefreshAll`
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

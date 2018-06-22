@@ -18,7 +18,7 @@ Deletes the specified range and adds the contents of the range to the Spike (a b
 
 ## Syntax
 
- _expression_. 'AppendToSpike'( '_Range_' )
+ _expression_. `AppendToSpike`( `_Range_` )
 
  _expression_ Required. A variable that represents an '[AutoTextEntries](Word.autotextentries.md)' collection.
 

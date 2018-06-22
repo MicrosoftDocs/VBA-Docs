@@ -18,7 +18,7 @@ Returns a  **String** value that represents the formula for the **UserDefinedPro
 
 ## Syntax
 
- _expression_. 'Formula'
+ _expression_. `Formula`
 
  _expression_ A variable that represents a [UserDefinedProperty](./Outlook.UserDefinedProperty.md) object.
 

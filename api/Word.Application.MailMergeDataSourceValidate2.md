@@ -18,7 +18,7 @@ Occurs when a user validates mail merge recipients by clicking the  **Validate a
 
 ## Syntax
 
- _expression_. 'MailMergeDataSourceValidate2'( '_Doc_' , '_Handled_' )
+ _expression_. `MailMergeDataSourceValidate2`( `_Doc_` , `_Handled_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object declared with events in a class module.
 

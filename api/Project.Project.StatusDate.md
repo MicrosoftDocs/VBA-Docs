@@ -18,7 +18,7 @@ Gets or sets the current status date for the project. If there is no status date
 
 ## Syntax
 
- _expression_. 'StatusDate'
+ _expression_. `StatusDate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

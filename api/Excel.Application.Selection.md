@@ -18,7 +18,7 @@ Returns the currently selected object in the active worksheet for an **[Applicat
 
 ## Syntax
 
- _expression_. 'Selection'
+ _expression_. `Selection`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

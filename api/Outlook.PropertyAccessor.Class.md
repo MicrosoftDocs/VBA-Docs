@@ -18,7 +18,7 @@ Returns a constant in the [OlObjectClass](Outlook.OlObjectClass.md) enumeration 
 
 ## Syntax
 
- _expression_. 'Class'
+ _expression_. `Class`
 
  _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 

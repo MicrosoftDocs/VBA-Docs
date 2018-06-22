@@ -18,7 +18,7 @@ Applies outlining styles to the specified range.
 
 ## Syntax
 
- _expression_. 'ApplyOutlineStyles'
+ _expression_. `ApplyOutlineStyles`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

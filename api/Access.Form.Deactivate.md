@@ -18,7 +18,7 @@ The  **Deactivate** event occurs when a form loses the focus to a Table, Query, 
 
 ## Syntax
 
- _expression_. 'Deactivate'
+ _expression_. `Deactivate`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

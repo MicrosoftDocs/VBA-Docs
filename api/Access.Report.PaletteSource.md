@@ -18,7 +18,7 @@ You can use the  **PaletteSource** property to specify the palette for a report.
 
 ## Syntax
 
- _expression_. 'PaletteSource'
+ _expression_. `PaletteSource`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

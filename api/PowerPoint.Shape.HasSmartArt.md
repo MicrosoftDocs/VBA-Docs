@@ -18,7 +18,7 @@ Returns  **True** if the current **Shape** object contains a SmartArt diagram. R
 
 ## Syntax
 
- _expression_. 'HasSmartArt'
+ _expression_. `HasSmartArt`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

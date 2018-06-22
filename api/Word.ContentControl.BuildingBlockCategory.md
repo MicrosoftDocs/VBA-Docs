@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the category for a building block 
 
 ## Syntax
 
- _expression_. 'BuildingBlockCategory'
+ _expression_. `BuildingBlockCategory`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

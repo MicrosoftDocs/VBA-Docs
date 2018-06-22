@@ -18,7 +18,7 @@ Converts an arabic numeral to roman, as text.
 
 ## Syntax
 
- _expression_. 'Roman'( '_Arg1_' , '_Arg2_' )
+ _expression_. `Roman`( `_Arg1_` , `_Arg2_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

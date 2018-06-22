@@ -18,7 +18,7 @@ Returns or sets a value that specifies whether Microsoft Word has detected the l
 
 ## Syntax
 
- _expression_. 'LanguageDetected'
+ _expression_. `LanguageDetected`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

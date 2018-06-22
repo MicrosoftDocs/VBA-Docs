@@ -18,7 +18,7 @@ Returns the type of lists that are contained in the range for the specified  **L
 
 ## Syntax
 
- _expression_. 'ListType'
+ _expression_. `ListType`
 
  _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 

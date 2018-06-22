@@ -15,7 +15,7 @@ Sets options for displaying timephased data for the resource.
 
 ## Syntax
 
- _expression_. 'TimeScaleData'( ' _StartDate_', ' _EndDate_', ' _Type_', ' _TimeScaleUnit_', ' _Count_' )
+ _expression_. `TimeScaleData`( ` _StartDate_`, ` _EndDate_`, ` _Type_`, ` _TimeScaleUnit_`, ` _Count_` )
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

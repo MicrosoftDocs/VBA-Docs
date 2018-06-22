@@ -18,7 +18,7 @@ Inserts a new milestone task above the selected task row or cell in a Gantt char
 
 ## Syntax
 
- _expression_. 'InsertMilestoneTask'
+ _expression_. `InsertMilestoneTask`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

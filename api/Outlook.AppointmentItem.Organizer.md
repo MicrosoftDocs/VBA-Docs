@@ -18,7 +18,7 @@ Returns a  **String** representing the name of the organizer of the appointment.
 
 ## Syntax
 
- _expression_. 'Organizer'
+ _expression_. `Organizer`
 
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 

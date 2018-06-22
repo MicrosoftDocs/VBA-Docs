@@ -16,7 +16,7 @@ Returns or sets whether the specified paragraph is collapsed by default when the
 
 ## Syntax
 
- _expression_. 'CollapseHeadingByDefault'
+ _expression_. `CollapseHeadingByDefault`
 
  _expression_ A variable that represents a [Paragraph](./Word.Paragraph.md) object.
 

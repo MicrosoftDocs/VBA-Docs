@@ -18,7 +18,7 @@ Sets the current filter.
 
 ## Syntax
 
- _expression_. 'FilterApply'( ' _Name_', ' _Highlight_', ' _Value1_', ' _Value2_' )
+ _expression_. `FilterApply`( ` _Name_`, ` _Highlight_`, ` _Value1_`, ` _Value2_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

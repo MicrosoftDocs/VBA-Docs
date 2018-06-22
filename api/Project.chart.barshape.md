@@ -11,7 +11,7 @@ Gets or sets the shape used with the 3-D bar chart or 3-D column chart. Read/wri
 
 ## Syntax
 
- _expression_. 'BarShape'
+ _expression_. `BarShape`
 
  _expression_ A variable that represents a 'Chart' object.
 

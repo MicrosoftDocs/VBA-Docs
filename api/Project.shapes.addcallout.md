@@ -11,7 +11,7 @@ Creates a borderless line callout in a report. Returns a  **Shape** object that 
 
 ## Syntax
 
- _expression_. 'AddCallout' _(Type,_ _Left,_ _Top,_ _Width,_ _Height)_
+ _expression_. `AddCallout` _(Type,_ _Left,_ _Top,_ _Width,_ _Height)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

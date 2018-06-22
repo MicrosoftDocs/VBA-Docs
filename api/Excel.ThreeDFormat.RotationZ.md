@@ -15,7 +15,7 @@ Returns or sets the rotation of the extruded shape around the z-axis in degrees.
 
 ## Syntax
 
- _expression_. 'RotationZ'
+ _expression_. `RotationZ`
 
  _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 

@@ -16,7 +16,7 @@ Returns a [ModelTables Object (Excel)](modeltables-object-excel.md) object assoc
 
 ## Syntax
 
- _expression_. 'ModelTables'
+ _expression_. `ModelTables`
 
  _expression_ A variable that represents a[WorkbookConnection](Excel.WorkbookConnection.md) object.
 

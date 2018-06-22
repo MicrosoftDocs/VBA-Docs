@@ -21,7 +21,7 @@ Occurs when the user changes the value of a chart data point by clicking a bar i
 
 ## Syntax
 
- _expression_. 'SeriesChange'( '_SeriesIndex_' , '_PointIndex_' )
+ _expression_. `SeriesChange`( `_SeriesIndex_` , `_PointIndex_` )
 
  _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 

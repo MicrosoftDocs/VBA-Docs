@@ -18,7 +18,7 @@ Returns or sets a  **[Dictionary](Word.Dictionary.md)** object that represents t
 
 ## Syntax
 
- _expression_. 'ActiveCustomDictionary'
+ _expression_. `ActiveCustomDictionary`
 
  _expression_ A variable that represents a '[Dictionaries](Word.dictionaries.md)' collection.
 

@@ -18,7 +18,7 @@ Returns a  **Boolean** that indicates if the **[Store](Outlook.Store.md)** is op
 
 ## Syntax
 
- _expression_. 'IsOpen'
+ _expression_. `IsOpen`
 
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 

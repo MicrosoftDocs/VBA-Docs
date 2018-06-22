@@ -18,7 +18,7 @@ Returns the  **[Folders](http://msdn.microsoft.com/library/0c814c3c-74fc-414c-98
 
 ## Syntax
 
- _expression_. 'Folders'
+ _expression_. `Folders`
 
  _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 

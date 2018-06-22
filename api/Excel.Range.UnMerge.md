@@ -18,7 +18,7 @@ Separates a merged area into individual cells.
 
 ## Syntax
 
- _expression_. 'UnMerge'
+ _expression_. `UnMerge`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

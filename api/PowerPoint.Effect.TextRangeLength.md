@@ -18,7 +18,7 @@ Returns or sets a  **Long** that represents the length of a text range. Read-onl
 
 ## Syntax
 
- _expression_. 'TextRangeLength'
+ _expression_. `TextRangeLength`
 
  _expression_ A variable that represents a [Effect](./PowerPoint.Effect.md) object.
 

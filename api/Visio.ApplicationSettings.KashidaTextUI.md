@@ -18,7 +18,7 @@ Gets the current setting for display of Kashida text-justification in certain cu
 
 ## Syntax
 
- _expression_. 'KashidaTextUI'
+ _expression_. `KashidaTextUI`
 
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

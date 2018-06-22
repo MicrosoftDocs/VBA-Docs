@@ -18,7 +18,7 @@ Converts a number to Thai text and adds a suffix of "Baht."
 
 ## Syntax
 
- _expression_. 'BahtText'( '_Arg1_' )
+ _expression_. `BahtText`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

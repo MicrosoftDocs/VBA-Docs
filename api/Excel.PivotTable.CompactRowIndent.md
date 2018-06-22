@@ -18,7 +18,7 @@ Returns or sets the indent increment for PivotItems when compact row layout form
 
 ## Syntax
 
- _expression_. 'CompactRowIndent'
+ _expression_. `CompactRowIndent`
 
  _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 

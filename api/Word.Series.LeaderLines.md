@@ -18,7 +18,7 @@ Returns the leader lines for the series. Read-only  **[LeaderLines](Word.LeaderL
 
 ## Syntax
 
- _expression_. 'LeaderLines'
+ _expression_. `LeaderLines`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 

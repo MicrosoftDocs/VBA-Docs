@@ -18,7 +18,7 @@ Returns or sets the right indent value (in characters) for the specified paragra
 
 ## Syntax
 
- _expression_. 'CharacterUnitRightIndent'
+ _expression_. `CharacterUnitRightIndent`
 
  _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

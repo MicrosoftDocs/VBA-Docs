@@ -18,7 +18,7 @@ Gets the  **[List](Project.List.md)** object for the project. Read-only **List**
 
 ## Syntax
 
- _expression_. 'ViewList'
+ _expression_. `ViewList`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

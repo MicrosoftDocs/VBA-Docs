@@ -18,7 +18,7 @@ Horizontally rotates a shape on the x-axis using the specified incrementation va
 
 ## Syntax
 
- _expression_. 'IncrementRotationHorizontal'( '_Increment_' )
+ _expression_. `IncrementRotationHorizontal`( `_Increment_` )
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

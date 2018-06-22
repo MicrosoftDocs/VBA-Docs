@@ -21,7 +21,7 @@ Displays or hides the text of a shape or of the primary shape in a selection whe
 
 ## Syntax
 
- _expression_. 'DataGraphicHidesText'
+ _expression_. `DataGraphicHidesText`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 

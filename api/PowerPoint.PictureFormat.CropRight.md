@@ -18,7 +18,7 @@ Returns or sets the number of points that are cropped off the right side of the 
 
 ## Syntax
 
- _expression_. 'CropRight'
+ _expression_. `CropRight`
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 

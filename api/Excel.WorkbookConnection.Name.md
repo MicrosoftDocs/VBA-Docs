@@ -18,7 +18,7 @@ Returns or sets the name of the workbook connection object. Read/write  **String
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
 

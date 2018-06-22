@@ -18,7 +18,7 @@ Gets or sets the number of task errors associated with a project. Read/write  **
 
 ## Syntax
 
- _expression_. 'TaskErrorCount'
+ _expression_. `TaskErrorCount`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

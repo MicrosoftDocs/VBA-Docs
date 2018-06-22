@@ -15,7 +15,7 @@ Gets the index of a  **Window** object in the containing object. Read-only **Lon
 
 ## Syntax
 
- _expression_. 'Index'
+ _expression_. `Index`
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

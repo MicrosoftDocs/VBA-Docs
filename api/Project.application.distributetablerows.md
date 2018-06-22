@@ -14,7 +14,7 @@ Distributes the rows of a selected table in a report, so that all rows are the s
 
 ## Syntax
 
- _expression_. 'DistributeTableRows'
+ _expression_. `DistributeTableRows`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

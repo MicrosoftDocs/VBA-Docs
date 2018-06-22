@@ -18,7 +18,7 @@ Returns a constant from the  **[OlRuleType](Outlook.OlRuleType.md)** enumeration
 
 ## Syntax
 
- _expression_. 'RuleType'
+ _expression_. `RuleType`
 
  _expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
 

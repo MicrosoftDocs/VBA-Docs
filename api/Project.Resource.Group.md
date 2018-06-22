@@ -15,7 +15,7 @@ Gets or sets the group to which a resource belongs. Read/write  **String**.
 
 ## Syntax
 
- _expression_. 'Group'
+ _expression_. `Group`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

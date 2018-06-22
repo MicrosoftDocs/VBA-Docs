@@ -18,7 +18,7 @@ Occurs when the focus moves to or from a file contained in the specified  **Atta
 
 ## Syntax
 
- _expression_. 'AttachmentCurrent'
+ _expression_. `AttachmentCurrent`
 
  _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 

@@ -15,7 +15,7 @@ Gets the version and build number of Microsoft Project. Read-only  **String**.
 
 ## Syntax
 
- _expression_. 'Build'
+ _expression_. `Build`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

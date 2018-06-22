@@ -18,7 +18,7 @@ Gets or sets the type of a menu. Read/write.
 
 ## Syntax
 
- _expression_. 'TypeSpecific1'
+ _expression_. `TypeSpecific1`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

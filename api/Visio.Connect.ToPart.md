@@ -18,7 +18,7 @@ Returns the part of a shape to which a connection is made. Read-only.
 
 ## Syntax
 
- _expression_. 'ToPart'
+ _expression_. `ToPart`
 
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 

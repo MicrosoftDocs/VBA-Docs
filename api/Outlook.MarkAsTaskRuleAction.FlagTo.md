@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the label of the flag for the mess
 
 ## Syntax
 
- _expression_. 'FlagTo'
+ _expression_. `FlagTo`
 
  _expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
 

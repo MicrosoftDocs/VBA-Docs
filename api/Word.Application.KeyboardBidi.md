@@ -18,7 +18,7 @@ Sets the keyboard language to a right-to-left language and the text entry direct
 
 ## Syntax
 
- _expression_. 'KeyboardBidi'
+ _expression_. `KeyboardBidi`
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

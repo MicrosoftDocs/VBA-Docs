@@ -18,7 +18,7 @@ Returns the direction that the extrusion's sweep path takes away from the extrud
 
 ## Syntax
 
- _expression_. 'PresetExtrusionDirection'
+ _expression_. `PresetExtrusionDirection`
 
  _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 

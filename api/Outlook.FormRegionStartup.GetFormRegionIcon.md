@@ -18,7 +18,7 @@ Obtains an icon image that will be displayed for a particular type of icon for t
 
 ## Syntax
 
- _expression_. 'GetFormRegionIcon'( '_FormRegionName_' , '_LCID_' , '_Icon_' )
+ _expression_. `GetFormRegionIcon`( `_FormRegionName_` , `_LCID_` , `_Icon_` )
 
  _expression_ A variable that represents a 'FormRegionStartup' object.
 

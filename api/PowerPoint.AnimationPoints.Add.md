@@ -18,7 +18,7 @@ Returns an  **[AnimationPoint](PowerPoint.AnimationPoint.md)** object that repre
 
 ## Syntax
 
- _expression_. 'Add'( '_Index_' )
+ _expression_. `Add`( `_Index_` )
 
  _expression_ A variable that represents an [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
 

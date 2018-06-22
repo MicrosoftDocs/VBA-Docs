@@ -18,7 +18,7 @@ Returns or sets the horizontal distance between the edge of the rows and the ite
 
 ## Syntax
 
- _expression_. 'HorizontalPosition'
+ _expression_. `HorizontalPosition`
 
  _expression_ A variable that represents a '[Rows](Word.rows.md)' collection.
 

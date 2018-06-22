@@ -18,7 +18,7 @@ Returns an  **EndnoteOptions** object that represents the endnotes in a range.
 
 ## Syntax
 
- _expression_. 'EndnoteOptions'
+ _expression_. `EndnoteOptions`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

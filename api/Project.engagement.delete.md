@@ -13,7 +13,7 @@ Deletes an Engagement object to the resource plan view. Introduced in Office 201
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a 'Engagement' object.
 

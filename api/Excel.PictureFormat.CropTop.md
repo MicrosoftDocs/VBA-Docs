@@ -18,7 +18,7 @@ Returns or sets the number of points that are cropped off the top of the specifi
 
 ## Syntax
 
- _expression_. 'CropTop'
+ _expression_. `CropTop`
 
  _expression_ An expression that returns a [PictureFormat](./Excel.PictureFormat.md) object.
 

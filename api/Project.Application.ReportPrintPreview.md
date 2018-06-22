@@ -18,7 +18,7 @@ Deprecated in Project. Shows an on-screen preview of a printed report.
 
 ## Syntax
 
- _expression_. 'ReportPrintPreview'( ' _Name_' )
+ _expression_. `ReportPrintPreview`( ` _Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

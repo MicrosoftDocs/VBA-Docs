@@ -16,7 +16,7 @@ Returns or sets a  **Boolean** that is **True** if live drag is enabled. Read-wr
 
 ## Syntax
 
- _expression_. 'EnableLiveDrag'
+ _expression_. `EnableLiveDrag`
 
  _expression_ A variable that represents a [Options](./Word.Options.md) object.
 

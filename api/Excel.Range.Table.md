@@ -18,7 +18,7 @@ Creates a data table based on input values and formulas that you define on a wor
 
 ## Syntax
 
- _expression_. 'Table'( '_RowInput_' , '_ColumnInput_' )
+ _expression_. `Table`( `_RowInput_` , `_ColumnInput_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

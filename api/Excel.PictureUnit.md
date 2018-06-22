@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets the unit for each picture on the chart if the PictureType property is set to xlScale (otherwise, this property is ignored). Read/write Long for all objects, except for the Walls object, which is read/write Variant.
 
- _expression_. 'PictureUnit'
+ _expression_. `PictureUnit`
 
  _expression_ Required. An expression that returns one of the above objects.
 

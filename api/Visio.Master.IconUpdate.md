@@ -18,7 +18,7 @@ Determines whether a master icon is updated manually or automatically. Read/writ
 
 ## Syntax
 
- _expression_. 'IconUpdate'
+ _expression_. `IconUpdate`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

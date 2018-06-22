@@ -18,7 +18,7 @@ Gets the index number of the file that has the focus in the  **Attachment** cont
 
 ## Syntax
 
- _expression_. 'CurrentAttachment'
+ _expression_. `CurrentAttachment`
 
  _expression_ A variable that represents an [Attachment](./Access.Attachment.md) object.
 

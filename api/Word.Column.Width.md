@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'Width'
+ _expression_. `Width`
 
  _expression_ A variable that represents a '[Column](Word.Column.md)' object.
 

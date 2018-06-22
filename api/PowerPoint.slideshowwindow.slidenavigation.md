@@ -16,7 +16,7 @@ Returns a  **[SlideNavigation](PowerPoint.slidenavigation.md)** object that repr
 
 ## Syntax
 
- _expression_. 'SlideNavigation'
+ _expression_. `SlideNavigation`
 
  _expression_ A variable that represents a [SlideShowWindow](./PowerPoint.SlideShowWindow.md) object.
 

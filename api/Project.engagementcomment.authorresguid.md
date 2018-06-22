@@ -13,7 +13,7 @@ The AuthorResGuid property for the EngagementComment object. Introduced in Offic
 
 ## Syntax
 
- _expression_. 'AuthorResGuid'
+ _expression_. `AuthorResGuid`
 
  _expression_ A variable that represents a 'EngagementComment' object.
 

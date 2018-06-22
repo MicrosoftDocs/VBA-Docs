@@ -18,7 +18,7 @@ Returns a Microsoft Office  **[ServerPolicy](http://msdn.microsoft.com/library/c
 
 ## Syntax
 
- _expression_. 'ServerPolicy'
+ _expression_. `ServerPolicy`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

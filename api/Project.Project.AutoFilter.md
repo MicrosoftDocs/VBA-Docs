@@ -15,7 +15,7 @@ Gets or sets whether the AutoFilter feature is turned on for a project. Read/wri
 
 ## Syntax
 
- _expression_. 'AutoFilter'
+ _expression_. `AutoFilter`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

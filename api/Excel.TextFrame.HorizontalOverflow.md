@@ -18,7 +18,7 @@ Returns or sets the horizontal overflow setting for the specified object. Read/w
 
 ## Syntax
 
- _expression_. 'HorizontalOverflow'
+ _expression_. `HorizontalOverflow`
 
  _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
 

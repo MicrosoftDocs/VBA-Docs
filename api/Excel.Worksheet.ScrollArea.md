@@ -18,7 +18,7 @@ Returns or sets the range where scrolling is allowed, as an A1-style range refer
 
 ## Syntax
 
- _expression_. 'ScrollArea'
+ _expression_. `ScrollArea`
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

@@ -18,7 +18,7 @@ Returns the parent  **Object** of the **[ExchangeDistributionList](Outlook.Excha
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 

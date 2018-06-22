@@ -16,7 +16,7 @@ You can use the  **DAvg** function to calculate the average of a set of values i
 
 ## Syntax
 
- _expression_. 'DAvg'( ' _Expr_', ' _Domain_', ' _Criteria_' )
+ _expression_. `DAvg`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

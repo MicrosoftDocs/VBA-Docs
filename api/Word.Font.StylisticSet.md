@@ -18,7 +18,7 @@ Specifies the stylistic set for the specified font. Read/write [WdStylisticSet](
 
 ## Syntax
 
- _expression_. 'StylisticSet'
+ _expression_. `StylisticSet`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

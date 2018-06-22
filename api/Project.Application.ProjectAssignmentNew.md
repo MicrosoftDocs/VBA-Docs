@@ -15,7 +15,7 @@ Occurs when a new assignment is created.
 
 ## Syntax
 
- _expression_. 'ProjectAssignmentNew'( ' _pj_', ' _ID_' )
+ _expression_. `ProjectAssignmentNew`( ` _pj_`, ` _ID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

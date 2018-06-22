@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 True if Microsoft Graph scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The RightAngleAxes property must be True. Read/write Boolean.
 
- _expression_. 'AutoScaling'
+ _expression_. `AutoScaling`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

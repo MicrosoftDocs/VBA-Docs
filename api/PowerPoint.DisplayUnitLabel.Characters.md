@@ -18,7 +18,7 @@ Returns a  **[ChartCharacters](PowerPoint.ChartCharacters.md)** object that repr
 
 ## Syntax
 
- _expression_. 'Characters'( '_Start_', '_Length_' )
+ _expression_. `Characters`( `_Start_`, `_Length_` )
 
  _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
 

@@ -18,7 +18,7 @@ Returns the number of mouse clicks that are defined for a slide.
 
 ## Syntax
 
- _expression_. 'GetClickCount'
+ _expression_. `GetClickCount`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

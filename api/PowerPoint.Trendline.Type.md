@@ -15,7 +15,7 @@ Returns or sets the trendline type. Read/write  **[XlTrendlineType](PowerPoint.X
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

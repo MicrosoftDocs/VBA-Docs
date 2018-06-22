@@ -18,7 +18,7 @@ Inserts an empty paragraph above the first row in the selection. .
 
 ## Syntax
 
- _expression_. 'SplitTable'
+ _expression_. `SplitTable`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

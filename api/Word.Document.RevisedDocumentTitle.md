@@ -18,7 +18,7 @@ Returns a  **String** that represents the document title for a revised document 
 
 ## Syntax
 
- _expression_. 'RevisedDocumentTitle'
+ _expression_. `RevisedDocumentTitle`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

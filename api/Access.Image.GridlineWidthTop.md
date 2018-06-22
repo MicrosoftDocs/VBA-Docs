@@ -18,7 +18,7 @@ Gets or sets the width of the top gridline for the specified image control. Read
 
 ## Syntax
 
- _expression_. 'GridlineWidthTop'
+ _expression_. `GridlineWidthTop`
 
  _expression_ A variable that represents an [Image](./Access.Image.md) object.
 

@@ -18,7 +18,7 @@ Removes the effects of leveling.
 
 ## Syntax
 
- _expression_. 'LevelingClear'( ' _All_' )
+ _expression_. `LevelingClear`( ` _All_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

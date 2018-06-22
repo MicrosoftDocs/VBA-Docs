@@ -18,7 +18,7 @@ Sets or returns whether the current animation behavior is combined with other ru
 
 ## Syntax
 
- _expression_. 'Additive'
+ _expression_. `Additive`
 
  _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 

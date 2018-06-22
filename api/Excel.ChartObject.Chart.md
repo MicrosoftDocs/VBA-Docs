@@ -18,7 +18,7 @@ Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart 
 
 ## Syntax
 
- _expression_. 'Chart'
+ _expression_. `Chart`
 
  _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'Edit'( '_PasswordTemplate_' , '_WritePasswordDocument_' , '_WritePasswordTemplate_' )
+ _expression_. `Edit`( `_PasswordTemplate_` , `_WritePasswordDocument_` , `_WritePasswordTemplate_` )
 
  _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 

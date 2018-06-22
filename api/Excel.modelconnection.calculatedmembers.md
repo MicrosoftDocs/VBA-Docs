@@ -13,7 +13,7 @@ Returns a [CalculatedMembers](Excel.CalculatedMembers.md) object that represents
 
 ## Syntax
 
- _expression_. 'CalculatedMembers'
+ _expression_. `CalculatedMembers`
 
  _expression_ A variable that represents a 'ModelConnection' object.
 

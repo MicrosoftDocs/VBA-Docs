@@ -18,7 +18,7 @@ Shows the scenario by inserting its values on the worksheet. The affected cells 
 
 ## Syntax
 
- _expression_. 'Show'
+ _expression_. `Show`
 
  _expression_ A variable that represents a [Scenario](./Excel.Scenario.md) object.
 

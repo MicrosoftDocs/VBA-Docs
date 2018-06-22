@@ -18,7 +18,7 @@ Returns a  **MenuItem** object from the **MenuItems** collection. Read-only.
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents a [MenuItems](./Visio.MenuItems.md) collection.
 

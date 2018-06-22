@@ -18,7 +18,7 @@ The  **Item** property returns a specific member of a collection either by posit
 
 ## Syntax
 
- _expression_. 'Item'( 'Index')
+ _expression_. `Item`( `Index`)
 
  _expression_ A variable that represents an [ImportExportSpecifications](./Access.ImportExportSpecifications.md) object.
 

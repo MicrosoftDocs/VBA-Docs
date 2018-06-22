@@ -18,7 +18,7 @@ Returns or sets the amount of separation, in points, of the reflected image from
 
 ## Syntax
 
- _expression_. 'Offset'
+ _expression_. `Offset`
 
  _expression_ An expression that returns a '[ReflectionFormat](Word.ReflectionFormat.md)' object.
 

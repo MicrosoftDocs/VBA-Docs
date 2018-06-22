@@ -18,7 +18,7 @@ Toggles the  **Wrap Text** setting in a column.
 
 ## Syntax
 
- _expression_. 'WrapText'( ' _Column_' )
+ _expression_. `WrapText`( ` _Column_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

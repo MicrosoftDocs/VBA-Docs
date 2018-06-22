@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'Working'
+ _expression_. `Working`
 
  _expression_ A variable that represents a [Year](./Project.Year.md) object.
 

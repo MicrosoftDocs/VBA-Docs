@@ -18,7 +18,7 @@ Returns a  **[TimeZone](Outlook.TimeZone.md)** value that represents the current
 
 ## Syntax
 
- _expression_. 'CurrentTimeZone'
+ _expression_. `CurrentTimeZone`
 
  _expression_ A variable that represents a [TimeZones](./Outlook.TimeZones.md) object.
 

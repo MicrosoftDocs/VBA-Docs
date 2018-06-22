@@ -18,7 +18,7 @@ Returns or sets what the bubble size represents on a bubble chart. Can be either
 
 ## Syntax
 
- _expression_. 'SizeRepresents'
+ _expression_. `SizeRepresents`
 
  _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 

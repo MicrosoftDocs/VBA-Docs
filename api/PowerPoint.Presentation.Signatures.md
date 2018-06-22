@@ -18,7 +18,7 @@ Returns a  **SignatureSet** object that represents a collection of digital signa
 
 ## Syntax
 
- _expression_. 'Signatures'
+ _expression_. `Signatures`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

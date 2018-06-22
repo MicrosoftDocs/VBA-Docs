@@ -18,7 +18,7 @@ Returns the high-low lines for a series on a line chart. Read-only  **[HiLoLines
 
 ## Syntax
 
- _expression_. 'HiLoLines'
+ _expression_. `HiLoLines`
 
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 

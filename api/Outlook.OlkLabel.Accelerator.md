@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the accelerator or hot key f
 
 ## Syntax
 
- _expression_. 'Accelerator'
+ _expression_. `Accelerator`
 
  _expression_ A variable that represents an [OlkLabel](./Outlook.OlkLabel.md) object.
 

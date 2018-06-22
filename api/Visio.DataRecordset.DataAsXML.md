@@ -21,7 +21,7 @@ Returns an XML string that fully describes a data recordset and conforms to the 
 
 ## Syntax
 
- _expression_. 'DataAsXML'
+ _expression_. `DataAsXML`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

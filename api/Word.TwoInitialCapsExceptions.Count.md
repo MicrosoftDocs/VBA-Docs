@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of exceptions in the collection. 
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ Required. A variable that represents a '[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)' collection.
 

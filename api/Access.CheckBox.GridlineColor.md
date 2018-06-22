@@ -18,7 +18,7 @@ Gets or sets the color of the gridline for the specified check box. Read/write  
 
 ## Syntax
 
- _expression_. 'GridlineColor'
+ _expression_. `GridlineColor`
 
  _expression_ A variable that represents a [CheckBox](./Access.CheckBox.md) object.
 

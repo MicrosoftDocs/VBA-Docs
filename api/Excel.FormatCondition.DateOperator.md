@@ -18,7 +18,7 @@ Specifies the Date operator used in the format condition. Read/write.
 
 ## Syntax
 
- _expression_. 'DateOperator'
+ _expression_. `DateOperator`
 
  _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
 

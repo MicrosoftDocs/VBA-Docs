@@ -18,7 +18,7 @@ Moves to the previous header or footer, depending on whether a header or footer 
 
 ## Syntax
 
- _expression_. 'PreviousHeaderFooter'
+ _expression_. `PreviousHeaderFooter`
 
  _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 

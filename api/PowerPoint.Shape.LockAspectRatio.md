@@ -18,7 +18,7 @@ Determines whether the specified shape retains its original proportions when you
 
 ## Syntax
 
- _expression_. 'LockAspectRatio'
+ _expression_. `LockAspectRatio`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

@@ -18,7 +18,7 @@ Picks up all animation from the  **Shape** object.
 
 ## Syntax
 
- _expression_. 'PickupAnimation'
+ _expression_. `PickupAnimation`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

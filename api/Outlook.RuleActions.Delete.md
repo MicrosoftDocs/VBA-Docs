@@ -18,7 +18,7 @@ Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.Act
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 

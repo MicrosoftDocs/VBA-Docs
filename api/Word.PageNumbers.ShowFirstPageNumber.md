@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'ShowFirstPageNumber'
+ _expression_. `ShowFirstPageNumber`
 
  _expression_ An expression that returns a '[PageNumbers](Word.pagenumbers.md)' collection object.
 

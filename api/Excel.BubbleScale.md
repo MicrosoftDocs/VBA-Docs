@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets the scale factor for bubbles in the specified chart group. Can be an integer value from 0 (zero) to 300, corresponding to a percentage of the default size. Applies only to bubble charts. Read/write Long.
 
- _expression_. 'BubbleScale'
+ _expression_. `BubbleScale`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

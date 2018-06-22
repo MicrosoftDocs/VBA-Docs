@@ -18,7 +18,7 @@ Returns or sets a  **Single** that specifies the vertical scaling factor for the
 
 ## Syntax
 
- _expression_. 'TextureVerticalScale'
+ _expression_. `TextureVerticalScale`
 
  _expression_ An expression that returns a [FillFormat](./Word.FillFormat.md) object.
 

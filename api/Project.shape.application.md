@@ -11,7 +11,7 @@ Gets the  **[Application Object (Project)](application-object-project.md)** obje
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ A variable that represents a 'Shape' object.
 

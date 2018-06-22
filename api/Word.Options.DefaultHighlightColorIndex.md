@@ -18,7 +18,7 @@ Returns or sets the color used to highlight text formatted with the  **Highlight
 
 ## Syntax
 
- _expression_. 'DefaultHighlightColorIndex'
+ _expression_. `DefaultHighlightColorIndex`
 
  _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 

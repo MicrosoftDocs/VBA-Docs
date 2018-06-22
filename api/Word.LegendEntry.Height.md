@@ -18,7 +18,7 @@ Returns the height, in points, of the object. Read-only  **Double** .
 
 ## Syntax
 
- _expression_. 'Height'
+ _expression_. `Height`
 
  _expression_ A variable that represents a '[LegendEntry](Word.LegendEntry.md)' object.
 

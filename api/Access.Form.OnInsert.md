@@ -18,7 +18,7 @@ Sets or returns the value of the  **Before Insert** box in the **Properties** wi
 
 ## Syntax
 
- _expression_. 'OnInsert'
+ _expression_. `OnInsert`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

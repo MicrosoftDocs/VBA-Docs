@@ -18,7 +18,7 @@ Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** that
 
 ## Syntax
 
- _expression_. 'Align'
+ _expression_. `Align`
 
  _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 

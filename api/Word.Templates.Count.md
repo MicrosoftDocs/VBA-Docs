@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of templates in the specified col
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ Required. A variable that represents a '[Templates](Word.templates.md)' collection.
 

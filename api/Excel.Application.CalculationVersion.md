@@ -18,7 +18,7 @@ Returns a number whose rightmost four digits are the minor calculation engine ve
 
 ## Syntax
 
- _expression_. 'CalculationVersion'
+ _expression_. `CalculationVersion`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

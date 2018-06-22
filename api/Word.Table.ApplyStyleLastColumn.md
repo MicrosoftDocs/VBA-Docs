@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'ApplyStyleLastColumn'
+ _expression_. `ApplyStyleLastColumn`
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 

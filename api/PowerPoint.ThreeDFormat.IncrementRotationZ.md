@@ -18,7 +18,7 @@ Rotates the  **ThreeDFormat** object around the ground plane by the specified nu
 
 ## Syntax
 
- _expression_. 'IncrementRotationZ'( '_Increment_' )
+ _expression_. `IncrementRotationZ`( `_Increment_` )
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

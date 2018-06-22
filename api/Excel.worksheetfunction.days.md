@@ -16,7 +16,7 @@ Returns the number of days between the two dates.
 
 ## Syntax
 
- _expression_. 'Days'_(Arg1,_ _Arg2)_
+ _expression_. `Days`_(Arg1,_ _Arg2)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

@@ -18,7 +18,7 @@ Returns the index of a row to which a cell belongs. Read-only.
 
 ## Syntax
 
- _expression_. 'CellsRowIndexU'( '_localeIndependentCellName_' )
+ _expression_. `CellsRowIndexU`( `_localeIndependentCellName_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

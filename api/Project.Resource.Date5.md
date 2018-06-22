@@ -15,7 +15,7 @@ Gets or sets the value of the  **Date5** custom field for the resource. Read/wri
 
 ## Syntax
 
- _expression_. 'Date5'
+ _expression_. `Date5`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

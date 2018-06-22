@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the relative width of a shape. Rea
 
 ## Syntax
 
- _expression_. 'WidthRelative'
+ _expression_. `WidthRelative`
 
  _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
 

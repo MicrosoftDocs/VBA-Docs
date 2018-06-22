@@ -18,7 +18,7 @@ Returns a  **String** indicating the major and minor version number of the Outlo
 
 ## Syntax
 
- _expression_. 'OutlookVersion'
+ _expression_. `OutlookVersion`
 
  _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 

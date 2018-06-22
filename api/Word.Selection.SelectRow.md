@@ -18,7 +18,7 @@ Selects the row that contains the insertion point, or selects all rows that cont
 
 ## Syntax
 
- _expression_. 'SelectRow'
+ _expression_. `SelectRow`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

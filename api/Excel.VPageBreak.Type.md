@@ -18,7 +18,7 @@ Returns or sets a  **[XlPageBreak](Excel.XlPageBreak.md)** value that represents
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
 

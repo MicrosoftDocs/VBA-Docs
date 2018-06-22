@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the used ra
 
 ## Syntax
 
- _expression_. 'UsedRange'
+ _expression_. `UsedRange`
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

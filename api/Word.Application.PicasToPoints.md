@@ -18,7 +18,7 @@ Converts a measurement from picas to points (1 pica = 12 points). Returns the co
 
 ## Syntax
 
- _expression_. 'PicasToPoints'( '_Picas_' )
+ _expression_. `PicasToPoints`( `_Picas_` )
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 

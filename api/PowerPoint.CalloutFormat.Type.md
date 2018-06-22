@@ -18,7 +18,7 @@ Represents the type of callout. Read/write.
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Long** that specifies the minimum width the control can be 
 
 ## Syntax
 
- _expression_. 'MinimumWidth'
+ _expression_. `MinimumWidth`
 
  _expression_ A variable that represents an 'OlkControl' object.
 

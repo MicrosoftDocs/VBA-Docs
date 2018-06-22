@@ -18,7 +18,7 @@ Deletes all handwritten ink annotations in a document.
 
 ## Syntax
 
- _expression_. 'DeleteAllInkAnnotations'
+ _expression_. `DeleteAllInkAnnotations`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

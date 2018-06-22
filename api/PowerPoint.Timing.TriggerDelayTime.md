@@ -18,7 +18,7 @@ Sets or returns the delay, in seconds, from when an animation trigger is enabled
 
 ## Syntax
 
- _expression_. 'TriggerDelayTime'
+ _expression_. `TriggerDelayTime`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

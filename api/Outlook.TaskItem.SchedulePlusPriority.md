@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the Microsoft Schedule+ priority for 
 
 ## Syntax
 
- _expression_. 'SchedulePlusPriority'
+ _expression_. `SchedulePlusPriority`
 
  _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 

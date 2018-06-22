@@ -18,7 +18,7 @@ Returns or sets the way columns or rows are used as data series on the chart. Ca
 
 ## Syntax
 
- _expression_. 'PlotBy'
+ _expression_. `PlotBy`
 
  _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 

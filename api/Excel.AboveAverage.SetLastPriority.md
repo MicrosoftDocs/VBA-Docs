@@ -18,7 +18,7 @@ Sets the evaluation order for this conditional formatting rule so it is evaluate
 
 ## Syntax
 
- _expression_. 'SetLastPriority'
+ _expression_. `SetLastPriority`
 
  _expression_ A variable that represents an [AboveAverage](./Excel.AboveAverage.md) object.
 

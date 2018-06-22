@@ -18,7 +18,7 @@ Occurs when the selection in the list displayed by the control changes
 
 ## Syntax
 
- _expression_. 'Change'
+ _expression_. `Change`
 
  _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 

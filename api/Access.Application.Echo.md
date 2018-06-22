@@ -18,7 +18,7 @@ The  **Echo** method specifies whether Microsoft Access repaints the display scr
 
 ## Syntax
 
- _expression_. 'Echo'( ' _EchoOn_', ' _bstrStatusBarText_' )
+ _expression_. `Echo`( ` _EchoOn_`, ` _bstrStatusBarText_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

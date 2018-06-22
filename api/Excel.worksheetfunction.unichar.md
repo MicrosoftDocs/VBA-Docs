@@ -16,7 +16,7 @@ Returns the Unicode character referenced by the given numeric value.
 
 ## Syntax
 
- _expression_. 'Unichar'_(Arg1)_
+ _expression_. `Unichar`_(Arg1)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

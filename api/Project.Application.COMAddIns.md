@@ -15,7 +15,7 @@ Gets the  **COMAddIns** collection for Project, which represents the currently i
 
 ## Syntax
 
- _expression_. 'COMAddIns'
+ _expression_. `COMAddIns`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -18,7 +18,7 @@ Returns the data source for the ODBC connection, as shown in the table. Read/wri
 
 ## Syntax
 
- _expression_. 'SourceData'
+ _expression_. `SourceData`
 
  _expression_ A variable that represents an [ODBCConnection](./Excel.ODBCConnection.md) object.
 

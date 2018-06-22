@@ -18,7 +18,7 @@ Gets or sets the width of the left gridline for the specified subform. Read/writ
 
 ## Syntax
 
- _expression_. 'GridlineWidthLeft'
+ _expression_. `GridlineWidthLeft`
 
  _expression_ A variable that represents a [SubForm](./Access.SubForm.md) object.
 

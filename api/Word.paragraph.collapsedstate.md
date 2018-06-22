@@ -16,7 +16,7 @@ Returns or sets whether the specified paragraph is currently in a collapsed stat
 
 ## Syntax
 
- _expression_. 'CollapsedState'
+ _expression_. `CollapsedState`
 
  _expression_ A variable that represents a [Paragraph](./Word.Paragraph.md) object.
 

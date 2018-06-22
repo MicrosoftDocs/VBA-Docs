@@ -18,7 +18,7 @@ Returns or sets a table style shown as available in the table styles gallery. Re
 
 ## Syntax
 
- _expression_. 'ShowAsAvailableTableStyle'
+ _expression_. `ShowAsAvailableTableStyle`
 
  _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
 

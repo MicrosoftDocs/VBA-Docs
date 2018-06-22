@@ -18,7 +18,7 @@ Returns or sets an  **Integer** that represents the beginning delimiter characte
 
 ## Syntax
 
- _expression_. 'BegChar'
+ _expression_. `BegChar`
 
  _expression_ An expression that returns an '[OMathDelim](Word.OMathDelim.md)' object.
 

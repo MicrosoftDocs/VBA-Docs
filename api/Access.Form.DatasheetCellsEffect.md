@@ -18,7 +18,7 @@ You can use the  **DatasheetCellsEffect** property to specify whether special ef
 
 ## Syntax
 
- _expression_. 'DatasheetCellsEffect'
+ _expression_. `DatasheetCellsEffect`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

@@ -18,7 +18,7 @@ You use the  **FillColor** property to specify the color that fills in boxes and
 
 ## Syntax
 
- _expression_. 'FillColor'
+ _expression_. `FillColor`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

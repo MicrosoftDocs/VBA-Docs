@@ -18,7 +18,7 @@ Saves row and column information for a selected sheet view.
 
 ## Syntax
 
- _expression_. 'SaveSheetSelection'
+ _expression_. `SaveSheetSelection`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

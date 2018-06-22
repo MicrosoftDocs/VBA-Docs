@@ -18,7 +18,7 @@ Determines whether to display gridlines in Microsoft PowerPoint. Read/write.
 
 ## Syntax
 
- _expression_. 'DisplayGridLines'
+ _expression_. `DisplayGridLines`
 
  _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 

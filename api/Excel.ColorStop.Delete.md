@@ -18,7 +18,7 @@ Deletes the represented object.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a [ColorStop](./Excel.ColorStop.md) object.
 

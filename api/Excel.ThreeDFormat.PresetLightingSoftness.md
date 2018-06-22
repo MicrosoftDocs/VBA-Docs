@@ -18,7 +18,7 @@ Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPreset
 
 ## Syntax
 
- _expression_. 'PresetLightingSoftness'
+ _expression_. `PresetLightingSoftness`
 
  _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 

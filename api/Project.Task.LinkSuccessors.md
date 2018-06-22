@@ -15,7 +15,7 @@ Adds one or more successors to the task.
 
 ## Syntax
 
- _expression_. 'LinkSuccessors'( ' _Tasks_', ' _Link_', ' _Lag_' )
+ _expression_. `LinkSuccessors`( ` _Tasks_`, ` _Link_`, ` _Lag_` )
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

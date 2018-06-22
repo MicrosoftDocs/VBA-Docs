@@ -18,7 +18,7 @@ Determines the parent of a  **Shape** object. Read/write.
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

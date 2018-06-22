@@ -18,7 +18,7 @@ Returns or sets an  **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant 
 
 ## Syntax
 
- _expression_. 'ReadingOrder'
+ _expression_. `ReadingOrder`
 
  _expression_ A variable that represents an '[AxisTitle](PowerPoint.AxisTitle.md)' object.
 

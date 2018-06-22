@@ -18,7 +18,7 @@ Gets or sets the character that separates items in lists. Read/write  **String**
 
 ## Syntax
 
- _expression_. 'ListSeparator'
+ _expression_. `ListSeparator`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

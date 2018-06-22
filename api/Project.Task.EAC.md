@@ -18,7 +18,7 @@ Gets the estimate at completion (EAC) for the task. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. 'EAC'
+ _expression_. `EAC`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

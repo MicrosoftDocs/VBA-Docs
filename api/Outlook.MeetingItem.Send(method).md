@@ -18,7 +18,7 @@ Sends the meeting item.
 
 ## Syntax
 
- _expression_. 'Send'
+ _expression_. `Send`
 
  _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 

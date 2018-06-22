@@ -18,7 +18,7 @@ Returns the number of items in the  **[AutoTextEntries](Word.autotextentries.md)
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a '[AutoTextEntries](Word.autotextentries.md)' object.
 

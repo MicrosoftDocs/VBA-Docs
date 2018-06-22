@@ -18,7 +18,7 @@ Returns the  **OLEObjects** collection of a page. Read-only.
 
 ## Syntax
 
- _expression_. 'OLEObjects'
+ _expression_. `OLEObjects`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

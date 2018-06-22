@@ -18,7 +18,7 @@ Returns or sets the way the two sections of either a pie of pie chart or a bar o
 
 ## Syntax
 
- _expression_. 'SplitType'
+ _expression_. `SplitType`
 
  _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 

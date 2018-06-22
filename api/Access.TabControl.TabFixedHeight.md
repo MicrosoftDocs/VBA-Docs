@@ -18,7 +18,7 @@ You can use the  **TabFixedHeight** property to specify or determine the height 
 
 ## Syntax
 
- _expression_. 'TabFixedHeight'
+ _expression_. `TabFixedHeight`
 
  _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 

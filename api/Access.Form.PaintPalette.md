@@ -18,7 +18,7 @@ You can use the  **PaintPalette** property to specify a palette to be used by a 
 
 ## Syntax
 
- _expression_. 'PaintPalette'
+ _expression_. `PaintPalette`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

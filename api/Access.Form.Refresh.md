@@ -18,7 +18,7 @@ The  **Refresh** method immediately updates the records in the underlying record
 
 ## Syntax
 
- _expression_. 'Refresh'
+ _expression_. `Refresh`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

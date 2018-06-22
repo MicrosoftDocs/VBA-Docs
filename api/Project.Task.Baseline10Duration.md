@@ -15,7 +15,7 @@ Gets or sets the baseline duration (in minutes) of a task. Read/write  **Variant
 
 ## Syntax
 
- _expression_. 'Baseline10Duration'
+ _expression_. `Baseline10Duration`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

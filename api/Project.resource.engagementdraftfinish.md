@@ -16,7 +16,7 @@ Returns the draft finish date for the engagement. Read-only  **DateType**. Intro
 
 ## Syntax
 
- _expression_. 'EngagementDraftFinish'
+ _expression_. `EngagementDraftFinish`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

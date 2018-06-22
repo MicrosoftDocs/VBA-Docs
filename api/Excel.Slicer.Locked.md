@@ -18,7 +18,7 @@ Returns or sets whether the specified slicer can be modified when the sheet that
 
 ## Syntax
 
- _expression_. 'Locked'
+ _expression_. `Locked`
 
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 

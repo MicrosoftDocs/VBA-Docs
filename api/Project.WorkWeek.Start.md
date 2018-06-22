@@ -15,7 +15,7 @@ Gets or sets the start date of the work week. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. 'Start'
+ _expression_. `Start`
 
  _expression_ An expression that returns a [WorkWeek](./Project.WorkWeek.md) object.
 

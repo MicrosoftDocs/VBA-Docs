@@ -18,7 +18,7 @@ Returns an  **[Inspectors](Outlook.Inspectors.md)** collection object that conta
 
 ## Syntax
 
- _expression_. 'Inspectors'
+ _expression_. `Inspectors`
 
  _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 

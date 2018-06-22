@@ -18,7 +18,7 @@ Returns a  **[DropLines](Excel.DropLines(objec).md)** object that represents the
 
 ## Syntax
 
- _expression_. 'DropLines'
+ _expression_. `DropLines`
 
  _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 

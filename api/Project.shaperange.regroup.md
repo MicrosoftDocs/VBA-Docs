@@ -11,7 +11,7 @@ The  **Regroup** method is not implemented in Project.
 
 ## Syntax
 
- _expression_. 'Regroup'
+ _expression_. `Regroup`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

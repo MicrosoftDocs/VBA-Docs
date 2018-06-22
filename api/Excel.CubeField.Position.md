@@ -18,7 +18,7 @@ Returns or sets a  **Long** value that represents the position of the hierarchy 
 
 ## Syntax
 
- _expression_. 'Position'
+ _expression_. `Position`
 
  _expression_ A variable that represents a [CubeField](./Excel.CubeField.md) object.
 

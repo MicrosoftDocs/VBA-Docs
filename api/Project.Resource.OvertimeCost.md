@@ -15,7 +15,7 @@ Gets the overtime cost for a resource. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. 'OvertimeCost'
+ _expression_. `OvertimeCost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

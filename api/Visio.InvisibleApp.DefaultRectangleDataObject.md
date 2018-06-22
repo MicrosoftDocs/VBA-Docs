@@ -18,7 +18,7 @@ Returns an  **IDataObject** interface that represents the **Rectangle** tool use
 
 ## Syntax
 
- _expression_. 'DefaultRectangleDataObject'
+ _expression_. `DefaultRectangleDataObject`
 
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 

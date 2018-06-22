@@ -18,7 +18,7 @@ Returns or sets a value that indicates whether to display all field buttons on a
 
 ## Syntax
 
- _expression_. 'ShowAllFieldButtons'
+ _expression_. `ShowAllFieldButtons`
 
  _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

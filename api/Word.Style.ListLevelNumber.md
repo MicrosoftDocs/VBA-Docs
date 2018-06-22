@@ -18,7 +18,7 @@ Returns the list level for the specified style. Read-only  **Long** .
 
 ## Syntax
 
- _expression_. 'ListLevelNumber'
+ _expression_. `ListLevelNumber`
 
  _expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
 

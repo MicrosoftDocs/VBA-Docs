@@ -18,7 +18,7 @@ Gets whether the data features in Microsoft Visio are enabled for the current in
 
 ## Syntax
 
- _expression_. 'DataFeaturesEnabled'
+ _expression_. `DataFeaturesEnabled`
 
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 

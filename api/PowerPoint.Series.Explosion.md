@@ -15,7 +15,7 @@ Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Rea
 
 ## Syntax
 
- _expression_. 'Explosion'
+ _expression_. `Explosion`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

@@ -15,7 +15,7 @@ Gets the VAC (Variance At Completion) cost for the assignment. Read-only  **Vari
 
 ## Syntax
 
- _expression_. 'VAC'
+ _expression_. `VAC`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

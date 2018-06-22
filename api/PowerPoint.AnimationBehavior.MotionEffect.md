@@ -18,7 +18,7 @@ Returns a  **[MotionEffect](PowerPoint.MotionEffect.md)** object that represents
 
 ## Syntax
 
- _expression_. 'MotionEffect'
+ _expression_. `MotionEffect`
 
  _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 

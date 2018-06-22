@@ -18,7 +18,7 @@ Sets options for the specified text form field.
 
 ## Syntax
 
- _expression_. 'EditType'( '_Type_' , '_Default_' , '_Format_' , '_Enabled_' )
+ _expression_. `EditType`( `_Type_` , `_Default_` , `_Format_` , `_Enabled_` )
 
  _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
 

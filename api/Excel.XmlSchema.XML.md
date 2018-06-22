@@ -18,7 +18,7 @@ Returns a  **String** value that represents the content of the specified schema.
 
 ## Syntax
 
- _expression_. 'XML'
+ _expression_. `XML`
 
  _expression_ A variable that represents a [XmlSchema](./Excel.XmlSchema.md) object.
 

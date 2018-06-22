@@ -18,7 +18,7 @@ Occurs when any add-in workbook is uninstalled.
 
 ## Syntax
 
- _expression_. 'WorkbookAddinUninstall'( '_Wb_' )
+ _expression_. `WorkbookAddinUninstall`( `_Wb_` )
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

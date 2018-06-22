@@ -18,7 +18,7 @@ Returns a  **TabStop** object that represents a custom tab stop added to a docum
 
 ## Syntax
 
- _expression_. 'Add'( '_Position_' , '_Alignment_' , '_Leader_' )
+ _expression_. `Add`( `_Position_` , `_Alignment_` , `_Leader_` )
 
  _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 

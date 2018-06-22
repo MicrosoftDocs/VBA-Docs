@@ -18,7 +18,7 @@ Returns or sets the theme color of the specified  **ColorFormat** object. Read/W
 
 ## Syntax
 
- _expression_. 'ObjectThemeColor'
+ _expression_. `ObjectThemeColor`
 
  _expression_ An expression that returns a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 

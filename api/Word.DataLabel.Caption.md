@@ -18,7 +18,7 @@ Returns or sets the data label text. Read/write  **String** .
 
 ## Syntax
 
- _expression_. 'Caption'
+ _expression_. `Caption`
 
  _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 

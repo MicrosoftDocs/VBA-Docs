@@ -18,7 +18,7 @@ Creates one or more subdocuments from the text in the specified range and return
 
 ## Syntax
 
- _expression_. 'AddFromRange'( '_Range_' )
+ _expression_. `AddFromRange`( `_Range_` )
 
  _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 

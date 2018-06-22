@@ -18,7 +18,7 @@ Occurs when the user clicks  **Previous** to move within the current slide.
 
 ## Syntax
 
- _expression_. 'SlideShowOnPrevious'( '_Wn_' )
+ _expression_. `SlideShowOnPrevious`( `_Wn_` )
 
  _expression_ An expression that returns an [Application](./PowerPoint.Application.md) object.
 

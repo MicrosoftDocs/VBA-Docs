@@ -15,7 +15,7 @@ Highlights a specified task in the Project Guide. Deprecated in Project.
 
 ## Syntax
 
- _expression_. 'GoalAreaTaskHighlight'( ' _TaskID_' )
+ _expression_. `GoalAreaTaskHighlight`( ` _TaskID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -18,7 +18,7 @@ Sets or returns an  **[MsoAnimProperty](PowerPoint.MsoAnimProperty.md)** constan
 
 ## Syntax
 
- _expression_. 'Property'
+ _expression_. `Property`
 
  _expression_ A variable that represents a [SetEffect](./PowerPoint.SetEffect.md) object.
 

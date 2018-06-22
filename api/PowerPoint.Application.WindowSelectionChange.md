@@ -18,7 +18,7 @@ Occurs when the selection of text, a shape, or a slide in the active document wi
 
 ## Syntax
 
- _expression_. 'WindowSelectionChange'( '_Sel_' )
+ _expression_. `WindowSelectionChange`( `_Sel_` )
 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

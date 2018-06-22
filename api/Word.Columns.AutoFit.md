@@ -18,7 +18,7 @@ Changes the width of a table column to accommodate the width of the text without
 
 ## Syntax
 
- _expression_. 'AutoFit'
+ _expression_. `AutoFit`
 
  _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 

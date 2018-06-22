@@ -18,7 +18,7 @@ Renames a base calendar.
 
 ## Syntax
 
- _expression_. 'BaseCalendarRename'( ' _FromName_', ' _ToName_' )
+ _expression_. `BaseCalendarRename`( ` _FromName_`, ` _ToName_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

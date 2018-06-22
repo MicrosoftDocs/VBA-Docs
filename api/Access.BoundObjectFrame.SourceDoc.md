@@ -18,7 +18,7 @@ You can use the  **SourceDoc** property to specify the file to create a link to 
 
 ## Syntax
 
- _expression_. 'SourceDoc'
+ _expression_. `SourceDoc`
 
  _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 

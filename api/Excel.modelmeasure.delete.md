@@ -16,7 +16,7 @@ Deletes the model measure from the data model.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a 'ModelMeasure' object.
 

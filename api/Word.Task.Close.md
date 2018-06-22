@@ -18,7 +18,7 @@ Closes the specified task.
 
 ## Syntax
 
- _expression_. 'Close'
+ _expression_. `Close`
 
  _expression_ Required. A variable that represents a '[Task](Word.Task.md)' object.
 

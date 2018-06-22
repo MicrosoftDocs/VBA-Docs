@@ -18,7 +18,7 @@ Sends a worksheet as a fax to the specfied recipients.
 
 ## Syntax
 
- _expression_. 'SendFaxOverInternet'( '_Recipients_' , '_Subject_' , '_ShowMessage_' )
+ _expression_. `SendFaxOverInternet`( `_Recipients_` , `_Subject_` , `_ShowMessage_` )
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

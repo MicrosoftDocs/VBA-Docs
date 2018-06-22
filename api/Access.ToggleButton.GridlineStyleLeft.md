@@ -18,7 +18,7 @@ Gets or sets the width of the bottom gridline for the specified toggle button. R
 
 ## Syntax
 
- _expression_. 'GridlineStyleLeft'
+ _expression_. `GridlineStyleLeft`
 
  _expression_ A variable that represents a [ToggleButton](./Access.ToggleButton.md) object.
 

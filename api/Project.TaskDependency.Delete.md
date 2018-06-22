@@ -15,7 +15,7 @@ Deletes the  **TableField** object from a **TableFields** collection.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 

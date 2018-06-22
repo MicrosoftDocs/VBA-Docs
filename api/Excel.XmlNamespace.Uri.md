@@ -18,7 +18,7 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) for 
 
 ## Syntax
 
- _expression_. 'Uri'
+ _expression_. `Uri`
 
  _expression_ A variable that represents a [XmlNamespace](./Excel.XmlNamespace.md) object.
 

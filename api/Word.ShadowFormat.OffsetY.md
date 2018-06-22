@@ -18,7 +18,7 @@ Returns or sets the vertical offset (in points) of the shadow from the specified
 
 ## Syntax
 
- _expression_. 'OffsetY'
+ _expression_. `OffsetY`
 
  _expression_ An expression that returns a '[ShadowFormat](Word.ShadowFormat.md)' object.
 

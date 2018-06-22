@@ -18,7 +18,7 @@ Returns or sets the text entries in the specified list box or a combo box, as an
 
 ## Syntax
 
- _expression_. 'List'( '_Index_' )
+ _expression_. `List`( `_Index_` )
 
  _expression_ A variable that represents a [ControlFormat](./Excel.ControlFormat.md) object.
 

@@ -18,7 +18,7 @@ Determines whether a toolbar item appears at the beginning of a group of items o
 
 ## Syntax
 
- _expression_. 'BeginGroup'
+ _expression_. `BeginGroup`
 
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'HasMinorGridlines'
+ _expression_. `HasMinorGridlines`
 
  _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 

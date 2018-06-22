@@ -18,7 +18,7 @@ Returns or sets whether the spelling checker uses rules to flag Arabic words end
 
 ## Syntax
 
- _expression_. 'ArabicStrictTaaMarboota'
+ _expression_. `ArabicStrictTaaMarboota`
 
  _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 

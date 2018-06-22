@@ -18,7 +18,7 @@ Sets or returns a  **Boolean** that represents whether to show or hide gallery p
 
 ## Syntax
 
- _expression_. 'EnableLivePreview'
+ _expression_. `EnableLivePreview`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

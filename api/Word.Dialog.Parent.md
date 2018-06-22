@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Dial
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 

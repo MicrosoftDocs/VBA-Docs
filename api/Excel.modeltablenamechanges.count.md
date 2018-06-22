@@ -16,7 +16,7 @@ Returns a  **Long** value that represents the number of a[ModelTableNameChange O
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a[ModelTableNameChanges Object (Excel)](modeltablenamechanges-object-excel.md) object.
 

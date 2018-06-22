@@ -18,7 +18,7 @@ Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
 
 ## Syntax
 
- _expression_. 'BeginUndoScope'( '_bstrUndoScopeName_' )
+ _expression_. `BeginUndoScope`( `_bstrUndoScopeName_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

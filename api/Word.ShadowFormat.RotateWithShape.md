@@ -18,7 +18,7 @@ Returns or sets an  **MsoTriState** that represents whether to rotate the shadow
 
 ## Syntax
 
- _expression_. 'RotateWithShape'
+ _expression_. `RotateWithShape`
 
  _expression_ An expression that returns a '[ShadowFormat](Word.ShadowFormat.md)' object.
 

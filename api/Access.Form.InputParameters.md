@@ -18,7 +18,7 @@ You can use the  **InputParameters** property to specify or determine the input 
 
 ## Syntax
 
- _expression_. 'InputParameters'
+ _expression_. `InputParameters`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

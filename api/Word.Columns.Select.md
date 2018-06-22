@@ -18,7 +18,7 @@ Selects the specified table columns.
 
 ## Syntax
 
- _expression_. 'Select'
+ _expression_. `Select`
 
  _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 

@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 ## Syntax
 
- _expression_. 'Creator'
+ _expression_. `Creator`
 
  _expression_ An expression that returns a [AddIns](./Excel.AddIns.md) object.
 

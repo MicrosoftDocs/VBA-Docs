@@ -18,7 +18,7 @@ Returns a  **Date** indicating the date and time on which the **[SharingItem](Ou
 
 ## Syntax
 
- _expression_. 'SentOn'
+ _expression_. `SentOn`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

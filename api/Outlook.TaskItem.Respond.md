@@ -18,7 +18,7 @@ Responds to a task request.
 
 ## Syntax
 
- _expression_. 'Respond'( '_Response_' , '_fNoUI_' , '_fAdditionalTextDialog_' )
+ _expression_. `Respond`( `_Response_` , `_fNoUI_` , `_fAdditionalTextDialog_` )
 
  _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 

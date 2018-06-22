@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Returns or sets the title text for the object. Read/write String.
 
- _expression_. 'Caption'
+ _expression_. `Caption`
 
  _expression_ Required. An expression that returns one of the above objects.
 

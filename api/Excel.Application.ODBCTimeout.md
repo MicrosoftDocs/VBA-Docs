@@ -18,7 +18,7 @@ Returns or sets the ODBC query time limit, in seconds. The default value is 45 s
 
 ## Syntax
 
- _expression_. 'ODBCTimeout'
+ _expression_. `ODBCTimeout`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

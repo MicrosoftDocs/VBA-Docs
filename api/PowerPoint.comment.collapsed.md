@@ -16,7 +16,7 @@ Returns whether the replies to a comment are shown (expanded) or hidden (collaps
 
 ## Syntax
 
- _expression_. 'Collapsed'
+ _expression_. `Collapsed`
 
  _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 

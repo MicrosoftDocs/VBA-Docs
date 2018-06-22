@@ -18,7 +18,7 @@ Returns a  **Hyperlink** object that represents the hyperlink associated with a 
 
 ## Syntax
 
- _expression_. 'Hyperlink'
+ _expression_. `Hyperlink`
 
  _expression_ A variable that represents a '[Shape](Word.Shape.md)' object.
 

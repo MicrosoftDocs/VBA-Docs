@@ -18,7 +18,7 @@ Determines whether the specified custom layout displays background objects on th
 
 ## Syntax
 
- _expression_. 'DisplayMasterShapes'
+ _expression_. `DisplayMasterShapes`
 
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

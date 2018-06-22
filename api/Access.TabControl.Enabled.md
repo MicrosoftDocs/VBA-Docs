@@ -18,7 +18,7 @@ You can use the  **Enabled** property to set or return the status of the conditi
 
 ## Syntax
 
- _expression_. 'Enabled'
+ _expression_. `Enabled`
 
  _expression_ A variable that represents a [TabControl](./Access.TabControl.md) object.
 

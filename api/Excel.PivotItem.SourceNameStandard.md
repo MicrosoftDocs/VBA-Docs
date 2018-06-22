@@ -18,7 +18,7 @@ Returns a  **String** that represents the PivotTable items' source name in stand
 
 ## Syntax
 
- _expression_. 'SourceNameStandard'
+ _expression_. `SourceNameStandard`
 
  _expression_ A variable that represents a [PivotItem](./Excel.PivotItem.md) object.
 

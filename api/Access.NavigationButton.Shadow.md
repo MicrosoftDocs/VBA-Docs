@@ -18,7 +18,7 @@ Gets or sets the  **Shadow** effect applied to the specified object. Read/write 
 
 ## Syntax
 
- _expression_. 'Shadow'
+ _expression_. `Shadow`
 
  _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 

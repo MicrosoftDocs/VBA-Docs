@@ -18,7 +18,7 @@ The  **LabelX** property (along with the **LabelY** property) specifies the plac
 
 ## Syntax
 
- _expression_. 'LabelX'
+ _expression_. `LabelX`
 
  _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 

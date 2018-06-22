@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of sentences in the collection. R
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ Required. A variable that represents a '[Sentences](Word.sentences.md)' collection.
 

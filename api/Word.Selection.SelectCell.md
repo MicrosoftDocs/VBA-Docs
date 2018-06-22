@@ -18,7 +18,7 @@ Selects the entire cell containing the current selection.
 
 ## Syntax
 
- _expression_. 'SelectCell'
+ _expression_. `SelectCell`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

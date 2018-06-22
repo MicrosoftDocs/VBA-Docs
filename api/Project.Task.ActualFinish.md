@@ -15,7 +15,7 @@ Gets or sets the actual finish date of a task. Read-only for summary tasks. Read
 
 ## Syntax
 
- _expression_. 'ActualFinish'
+ _expression_. `ActualFinish`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

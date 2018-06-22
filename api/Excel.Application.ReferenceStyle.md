@@ -18,7 +18,7 @@ Returns or sets how Microsoft Excel displays cell references and row and column 
 
 ## Syntax
 
- _expression_. 'ReferenceStyle'
+ _expression_. `ReferenceStyle`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

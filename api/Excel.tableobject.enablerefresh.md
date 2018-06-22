@@ -16,7 +16,7 @@ Specifies if the query table can be refreshed by the user.  **Boolean** Read/Wri
 
 ## Syntax
 
- _expression_. 'EnableRefresh'
+ _expression_. `EnableRefresh`
 
  _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 

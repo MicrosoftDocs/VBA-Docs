@@ -18,7 +18,7 @@ Allows creating or changing the XML mapping on a content control. Returns  **Tru
 
 ## Syntax
 
- _expression_. 'SetMapping'( '_XPath_' , '_PrefixMapping_' , '_Source_' )
+ _expression_. `SetMapping`( `_XPath_` , `_PrefixMapping_` , `_Source_` )
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 

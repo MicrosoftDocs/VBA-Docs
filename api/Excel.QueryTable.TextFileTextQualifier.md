@@ -18,7 +18,7 @@ Returns or sets the text qualifier when you import a text file into a query tabl
 
 ## Syntax
 
- _expression_. 'TextFileTextQualifier'
+ _expression_. `TextFileTextQualifier`
 
  _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 

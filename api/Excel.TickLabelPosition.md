@@ -23,7 +23,7 @@ Describes the position of tick-mark labels on the specified axis. Read/write XlT
 | **xlTickLabelPositionNextToAxis**|
 | **xlTickLabelPositionNone**|
 
- _expression_. 'TickLabelPosition'
+ _expression_. `TickLabelPosition`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

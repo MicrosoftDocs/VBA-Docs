@@ -18,7 +18,7 @@ Returns the path to the specified custom stencil used to populate certain galler
 
 ## Syntax
 
- _expression_. 'GetCustomStencilFile'( '_StencilType_' )
+ _expression_. `GetCustomStencilFile`( `_StencilType_` )
 
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 

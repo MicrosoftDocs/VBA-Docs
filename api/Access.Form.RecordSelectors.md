@@ -18,7 +18,7 @@ You can use the  **RecordSelectors** property to specify whether a form displays
 
 ## Syntax
 
- _expression_. 'RecordSelectors'
+ _expression_. `RecordSelectors`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

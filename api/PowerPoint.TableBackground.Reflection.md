@@ -18,7 +18,7 @@ Returns an  **[ReflectionFormat](http://msdn.microsoft.com/library/9684dbb3-5b99
 
 ## Syntax
 
- _expression_. 'Reflection'
+ _expression_. `Reflection`
 
  _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 

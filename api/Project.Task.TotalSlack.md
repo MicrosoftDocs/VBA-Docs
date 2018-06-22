@@ -15,7 +15,7 @@ Gets the total slack time for a task in minutes. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. 'TotalSlack'
+ _expression_. `TotalSlack`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

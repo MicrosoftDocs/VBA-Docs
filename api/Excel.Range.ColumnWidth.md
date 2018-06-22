@@ -18,7 +18,7 @@ Returns or sets the width of all columns in the specified range. Read/write  **V
 
 ## Syntax
 
- _expression_. 'ColumnWidth'
+ _expression_. `ColumnWidth`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

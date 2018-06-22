@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object as shown in the following t
 
 ## Syntax
 
- _expression_. 'DataRange'
+ _expression_. `DataRange`
 
  _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 

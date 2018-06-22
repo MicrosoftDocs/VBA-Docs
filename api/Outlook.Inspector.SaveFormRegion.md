@@ -18,7 +18,7 @@ Saves the specified page in design mode in the inspector to the specified file.
 
 ## Syntax
 
- _expression_. 'SaveFormRegion'( '_Page_' , '_FileName_' )
+ _expression_. `SaveFormRegion`( `_Page_` , `_FileName_` )
 
  _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 

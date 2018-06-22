@@ -18,7 +18,7 @@ Returns the number of comment pages that will be printed for the current workshe
 
 ## Syntax
 
- _expression_. 'PrintedCommentPages'
+ _expression_. `PrintedCommentPages`
 
  _expression_ A variable that returns a [Worksheet](./Excel.Worksheet.md) object.
 

@@ -18,7 +18,7 @@ Returns an array naming the folders Microsoft Visio would search, given a list o
 
 ## Syntax
 
- _expression_. 'EnumDirectories'( '_PathsString_' , '_NameArray()_' )
+ _expression_. `EnumDirectories`( `_PathsString_` , `_NameArray()_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

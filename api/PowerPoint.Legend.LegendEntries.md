@@ -18,7 +18,7 @@ Returns a collection of legend entries for the legend.
 
 ## Syntax
 
- _expression_. 'LegendEntries'
+ _expression_. `LegendEntries`
 
  _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 

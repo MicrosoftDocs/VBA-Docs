@@ -18,7 +18,7 @@ Copies a range to the same area on all other worksheets in a collection.
 
 ## Syntax
 
- _expression_. 'FillAcrossSheets'( '_Range_' , '_Type_' )
+ _expression_. `FillAcrossSheets`( `_Range_` , `_Type_` )
 
  _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **[Slide](PowerPoint.Slide.md)** object that represents the s
 
 ## Syntax
 
- _expression_. 'Slide'
+ _expression_. `Slide`
 
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 

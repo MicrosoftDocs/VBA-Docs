@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether the user can select a line
 
 ## Syntax
 
- _expression_. 'SelectionMargin'
+ _expression_. `SelectionMargin`
 
  _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 

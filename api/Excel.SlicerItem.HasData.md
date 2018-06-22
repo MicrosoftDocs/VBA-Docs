@@ -18,7 +18,7 @@ Returns whether the slicer item contains data that matches the current manual fi
 
 ## Syntax
 
- _expression_. 'HasData'
+ _expression_. `HasData`
 
  _expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
 

@@ -18,7 +18,7 @@ Returns a  **[Windows](Excel.Windows.md)** collection that represents all the wi
 
 ## Syntax
 
- _expression_. 'Windows'
+ _expression_. `Windows`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

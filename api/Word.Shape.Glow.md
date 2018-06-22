@@ -18,7 +18,7 @@ Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the glow 
 
 ## Syntax
 
- _expression_. 'Glow'
+ _expression_. `Glow`
 
  _expression_ An expression that returns a '[Shape](Word.Shape.md)' object.
 

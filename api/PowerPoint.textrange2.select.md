@@ -13,7 +13,7 @@ Selects the  **TextRange2** object.
 
 ## Syntax
 
- _expression_. 'Select'
+ _expression_. `Select`
 
  _expression_ An expression that returns a 'TextRange2' object.
 

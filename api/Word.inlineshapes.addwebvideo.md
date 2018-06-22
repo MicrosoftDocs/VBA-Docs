@@ -16,7 +16,7 @@ Adds a new web video to the document.
 
 ## Syntax
 
- _expression_. 'AddWebVideo'_(EmbedCode,_ _VideoWidth,_ _VideoHeight,_ _PosterFrameImage,_ _Url,_ _Range)_
+ _expression_. `AddWebVideo`_(EmbedCode,_ _VideoWidth,_ _VideoHeight,_ _PosterFrameImage,_ _Url,_ _Range)_
 
  _expression_ A variable that represents a 'InlineShapes' object.
 

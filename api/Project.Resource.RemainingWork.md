@@ -15,7 +15,7 @@ Gets or sets the remaining work (in minutes) for the resource. Read-only  **Vari
 
 ## Syntax
 
- _expression_. 'RemainingWork'
+ _expression_. `RemainingWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

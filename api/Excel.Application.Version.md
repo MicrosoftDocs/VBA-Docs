@@ -18,7 +18,7 @@ Returns a  **String** value that represents the Microsoft Excel version number.
 
 ## Syntax
 
- _expression_. 'Version'
+ _expression_. `Version`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

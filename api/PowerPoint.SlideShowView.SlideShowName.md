@@ -18,7 +18,7 @@ Returns the name of the custom slide show that's currently running in the specif
 
 ## Syntax
 
- _expression_. 'SlideShowName'
+ _expression_. `SlideShowName`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **[Bibliography](Word.Bibliography.md)** object that represents the b
 
 ## Syntax
 
- _expression_. 'Bibliography'
+ _expression_. `Bibliography`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

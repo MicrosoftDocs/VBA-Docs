@@ -18,7 +18,7 @@ You can use the  **ProductCode** property to determine the Access globally uniqu
 
 ## Syntax
 
- _expression_. 'ProductCode'
+ _expression_. `ProductCode`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

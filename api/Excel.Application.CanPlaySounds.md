@@ -18,7 +18,7 @@ This property should not be used. Sound notes have been removed from Microsoft E
 
 ## Syntax
 
- _expression_. 'CanPlaySounds'
+ _expression_. `CanPlaySounds`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

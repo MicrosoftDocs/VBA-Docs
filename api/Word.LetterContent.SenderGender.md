@@ -18,7 +18,7 @@ Returns or sets the gender used with the salutation. Not used in the U.S. Englis
 
 ## Syntax
 
- _expression_. 'SenderGender'
+ _expression_. `SenderGender`
 
  _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 

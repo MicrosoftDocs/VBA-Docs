@@ -18,7 +18,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
 ## Syntax
 
- _expression_. 'Subject'
+ _expression_. `Subject`
 
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 

@@ -18,7 +18,7 @@ Gets the collection of installed Data Service data connections. Read-only  **[We
 
 ## Syntax
 
- _expression_. 'WebServices'
+ _expression_. `WebServices`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

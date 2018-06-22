@@ -18,7 +18,7 @@ Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed for
 
 ## Syntax
 
- _expression_. 'ExportAsFixedFormat'( '_Path_', '_FixedFormatType_', '_Intent_', '_FrameSlides_', '_HandoutOrder_', '_OutputType_', '_PrintHiddenSlides_', '_PrintRange_', '_RangeType_', '_SlideShowName_', '_IncludeDocProperties_', '_KeepIRMSettings_' )
+ _expression_. `ExportAsFixedFormat`( `_Path_`, `_FixedFormatType_`, `_Intent_`, `_FrameSlides_`, `_HandoutOrder_`, `_OutputType_`, `_PrintHiddenSlides_`, `_PrintRange_`, `_RangeType_`, `_SlideShowName_`, `_IncludeDocProperties_`, `_KeepIRMSettings_` )
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

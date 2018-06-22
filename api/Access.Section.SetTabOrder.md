@@ -18,7 +18,7 @@ Resets the tab order of the controls in the specified  **Section** to their defa
 
 ## Syntax
 
- _expression_. 'SetTabOrder'
+ _expression_. `SetTabOrder`
 
  _expression_ A variable that represents a [Section](./Access.Section.md) object.
 

@@ -15,7 +15,7 @@ Returns or sets if the fill style should rotate with the object. Read/write  **[
 
 ## Syntax
 
- _expression_. 'RotateWithObject'
+ _expression_. `RotateWithObject`
 
  _expression_ A variable that represents a [FillFormat](./Excel.FillFormat.md) object.
 

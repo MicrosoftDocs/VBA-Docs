@@ -18,7 +18,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
- _expression_. 'BCCRecipients'
+ _expression_. `BCCRecipients`
 
  _expression_ A variable that represents a [Mailer](./Excel.Mailer.md) object.
 

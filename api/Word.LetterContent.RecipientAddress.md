@@ -18,7 +18,7 @@ Returns or sets the mailing address of the person who'll be receiving the letter
 
 ## Syntax
 
- _expression_. 'RecipientAddress'
+ _expression_. `RecipientAddress`
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 

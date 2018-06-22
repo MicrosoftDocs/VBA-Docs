@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value that represents the color of the interior.
 
 ## Syntax
 
- _expression_. 'ColorIndex'
+ _expression_. `ColorIndex`
 
  _expression_ A variable that represents an [Interior](./Excel.Interior(Graph property).md) object.
 

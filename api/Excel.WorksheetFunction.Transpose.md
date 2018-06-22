@@ -18,7 +18,7 @@ Returns a vertical range of cells as a horizontal range, or vice versa. TRANSPOS
 
 ## Syntax
 
- _expression_. 'Transpose'( '_Arg1_' )
+ _expression_. `Transpose`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

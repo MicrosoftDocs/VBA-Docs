@@ -18,7 +18,7 @@ Returns a  **[Designs](PowerPoint.Designs.md)** object that represents a collect
 
 ## Syntax
 
- _expression_. 'Designs'
+ _expression_. `Designs`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

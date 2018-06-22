@@ -18,7 +18,7 @@ Returns the associated  **[SparkAxes](Excel.SparkAxes.md)** object. Read-only.
 
 ## Syntax
 
- _expression_. 'Axes'
+ _expression_. `Axes`
 
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 

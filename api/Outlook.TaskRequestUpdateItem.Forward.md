@@ -15,7 +15,7 @@ Occurs when the user selects the  **Forward** action for an item (which is an in
 
 ## Syntax
 
- _expression_. 'Forward'( '_Forward_' , '_Cancel_' )
+ _expression_. `Forward`( `_Forward_` , `_Cancel_` )
 
  _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 

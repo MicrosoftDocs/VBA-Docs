@@ -18,7 +18,7 @@ Returns or sets a  **WdFrameSizeRule** that represents the rule for determining 
 
 ## Syntax
 
- _expression_. 'HeightRule'
+ _expression_. `HeightRule`
 
  _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 

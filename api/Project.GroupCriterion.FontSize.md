@@ -15,7 +15,7 @@ Gets or sets the size of the font for a field used as a criterion in a group def
 
 ## Syntax
 
- _expression_. 'FontSize'
+ _expression_. `FontSize`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

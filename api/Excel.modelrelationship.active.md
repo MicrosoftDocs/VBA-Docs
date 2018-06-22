@@ -16,7 +16,7 @@ When  **True** , the relationship is active. When **False** , this relationship 
 
 ## Syntax
 
- _expression_. 'Active'
+ _expression_. `Active`
 
  _expression_ A variable that represents a[ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
 

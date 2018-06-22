@@ -18,7 +18,7 @@ Returns or sets the custom maximum value for the vertical axis of a sparkline. R
 
 ## Syntax
 
- _expression_. 'CustomMaxScaleValue'
+ _expression_. `CustomMaxScaleValue`
 
  _expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVerticalAxis.md)' object.
 

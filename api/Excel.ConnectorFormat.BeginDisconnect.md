@@ -18,7 +18,7 @@ Detaches the beginning of the specified connector from the shape it's attached t
 
 ## Syntax
 
- _expression_. 'BeginDisconnect'
+ _expression_. `BeginDisconnect`
 
  _expression_ A variable that represents a [ConnectorFormat](./Excel.ConnectorFormat.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **SpellingSuggestions** collection that represents the words suggeste
 
 ## Syntax
 
- _expression_. 'GetSpellingSuggestions'( '_CustomDictionary_' , '_IgnoreUppercase_' , '_MainDictionary_' , '_SuggestionMode_' , '_CustomDictionary2_' , '_CustomDictionary3_' , '_CustomDictionary4_' , '_CustomDictionary5_' , '_CustomDictionary6_' , '_CustomDictionary7_' , '_CustomDictionary8_' , '_CustomDictionary9_' , '_CustomDictionary10_' )
+ _expression_. `GetSpellingSuggestions`( `_CustomDictionary_` , `_IgnoreUppercase_` , `_MainDictionary_` , `_SuggestionMode_` , `_CustomDictionary2_` , `_CustomDictionary3_` , `_CustomDictionary4_` , `_CustomDictionary5_` , `_CustomDictionary6_` , `_CustomDictionary7_` , `_CustomDictionary8_` , `_CustomDictionary9_` , `_CustomDictionary10_` )
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

@@ -18,7 +18,7 @@ Returns a  **Long** that represents whether XML tags are visible in a document.
 
 ## Syntax
 
- _expression_. 'ShowXMLMarkup'
+ _expression_. `ShowXMLMarkup`
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 

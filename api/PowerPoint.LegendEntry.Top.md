@@ -15,7 +15,7 @@ Returns the distance, in points, from the top edge of the object to the top of t
 
 ## Syntax
 
- _expression_. 'Top'
+ _expression_. `Top`
 
  _expression_ A variable that represents a '[LegendEntry](PowerPoint.LegendEntry.md)' object.
 

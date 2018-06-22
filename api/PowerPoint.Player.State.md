@@ -18,7 +18,7 @@ Returns the current state of the player. Read-only.
 
 ## Syntax
 
- _expression_. 'State'
+ _expression_. `State`
 
  _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 

@@ -18,7 +18,7 @@ Resets the current view back to the global view definition.
 
 ## Syntax
 
- _expression_. 'ViewReset'
+ _expression_. `ViewReset`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

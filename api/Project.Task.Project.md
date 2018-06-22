@@ -15,7 +15,7 @@ Gets the name of the project containing the  **Task**. Read-only **String**.
 
 ## Syntax
 
- _expression_. 'Project'
+ _expression_. `Project`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

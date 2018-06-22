@@ -18,7 +18,7 @@ Returns or sets the width of the specified columns, in points. Read/write  **Lon
 
 ## Syntax
 
- _expression_. 'Width'
+ _expression_. `Width`
 
  _expression_ A variable that represents a '[Columns](Word.columns.md)' collection.
 

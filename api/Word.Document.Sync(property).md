@@ -18,7 +18,7 @@ This object or member has been deprecated, but it remains part of the object mod
 
 ## Syntax
 
- _expression_. 'Sync'
+ _expression_. `Sync`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

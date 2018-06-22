@@ -18,7 +18,7 @@ Applies a design template to the specified slide.
 
 ## Syntax
 
- _expression_. 'ApplyTemplate'( '_FileName_' )
+ _expression_. `ApplyTemplate`( `_FileName_` )
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

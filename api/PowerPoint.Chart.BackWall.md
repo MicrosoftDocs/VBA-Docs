@@ -18,7 +18,7 @@ Returns an object that allows the user to individually format the back wall of a
 
 ## Syntax
 
- _expression_. 'BackWall'
+ _expression_. `BackWall`
 
  _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

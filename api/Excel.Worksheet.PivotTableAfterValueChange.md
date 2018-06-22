@@ -18,7 +18,7 @@ Occurs after a cell or range of cells inside a PivotTable are edited or recalcul
 
 ## Syntax
 
- _expression_. 'PivotTableAfterValueChange'( '_TargetPivotTable_' , '_TargetRange_' )
+ _expression_. `PivotTableAfterValueChange`( `_TargetPivotTable_` , `_TargetRange_` )
 
  _expression_ A variable that represents a '[Worksheet](Excel.Worksheet.md)' object.
 

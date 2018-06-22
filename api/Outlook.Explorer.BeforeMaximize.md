@@ -18,7 +18,7 @@ Occurs when an explorer is maximized by the user.
 
 ## Syntax
 
- _expression_. 'BeforeMaximize'( '_Cancel_' )
+ _expression_. `BeforeMaximize`( `_Cancel_` )
 
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 

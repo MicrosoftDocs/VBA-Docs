@@ -15,7 +15,7 @@ Deletes the  **Task** object from a **Tasks** collection.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

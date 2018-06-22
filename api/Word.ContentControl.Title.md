@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the title for a content control. R
 
 ## Syntax
 
- _expression_. 'Title'
+ _expression_. `Title`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

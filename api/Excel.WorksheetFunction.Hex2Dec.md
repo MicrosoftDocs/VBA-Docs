@@ -18,7 +18,7 @@ Converts a hexadecimal number to decimal.
 
 ## Syntax
 
- _expression_. 'Hex2Dec'( '_Arg1_' )
+ _expression_. `Hex2Dec`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

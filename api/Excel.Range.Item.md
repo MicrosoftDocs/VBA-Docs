@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents a range at 
 
 ## Syntax
 
- _expression_. 'Item'( '_RowIndex_' , '_ColumnIndex_' )
+ _expression_. `Item`( `_RowIndex_` , `_ColumnIndex_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

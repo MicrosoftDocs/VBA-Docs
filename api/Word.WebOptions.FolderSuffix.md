@@ -18,7 +18,7 @@ Returns the folder suffix that Microsoft Word uses when you save a document as a
 
 ## Syntax
 
- _expression_. 'FolderSuffix'
+ _expression_. `FolderSuffix`
 
  _expression_ Required. A variable that represents a '[WebOptions](Word.WebOptions.md)' collection.
 

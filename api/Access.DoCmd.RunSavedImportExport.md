@@ -18,7 +18,7 @@ Run a saved import or export specification.
 
 ## Syntax
 
- _expression_. 'RunSavedImportExport'( ' _SavedImportExportName_' )
+ _expression_. `RunSavedImportExport`( ` _SavedImportExportName_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

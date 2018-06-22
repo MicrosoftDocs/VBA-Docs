@@ -18,7 +18,7 @@ Sets the symbol used to represent the checked state of a check box content contr
 
 ## Syntax
 
- _expression_. 'SetCheckedSymbol'( '_CharacterNumber_' , '_Font_' )
+ _expression_. `SetCheckedSymbol`( `_CharacterNumber_` , `_Font_` )
 
  _expression_ An expression that returns a '[ContentControl](Word.ContentControl.md)' object.
 

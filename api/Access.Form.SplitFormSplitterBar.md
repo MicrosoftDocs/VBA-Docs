@@ -18,7 +18,7 @@ Gets or sets whether the splitter bar is available when the form is displayed in
 
 ## Syntax
 
- _expression_. 'SplitFormSplitterBar'
+ _expression_. `SplitFormSplitterBar`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

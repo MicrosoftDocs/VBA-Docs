@@ -18,7 +18,7 @@ The  **Kind** property indicates the type of reference that a **[Reference](Acce
 
 ## Syntax
 
- _expression_. 'Kind'
+ _expression_. `Kind`
 
  _expression_ A variable that represents a [Reference](./Access.Reference.md) object.
 

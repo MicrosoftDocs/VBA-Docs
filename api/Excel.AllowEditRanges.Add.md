@@ -18,7 +18,7 @@ Adds a range that can be edited on a protected worksheet. Returns a  **[AllowEdi
 
 ## Syntax
 
- _expression_. 'Add'( '_Title_' , '_Range_' , '_Password_' )
+ _expression_. `Add`( `_Title_` , `_Range_` , `_Password_` )
 
  _expression_ A variable that represents an [AllowEditRanges](./Excel.AllowEditRanges.md) object.
 

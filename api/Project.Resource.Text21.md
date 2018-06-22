@@ -15,7 +15,7 @@ Gets or sets the value of a local Text custom field for the resource. Read/write
 
 ## Syntax
 
- _expression_. 'Text21'
+ _expression_. `Text21`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

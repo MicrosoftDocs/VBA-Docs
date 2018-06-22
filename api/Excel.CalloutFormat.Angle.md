@@ -18,7 +18,7 @@ Returns or sets the angle of the callout line. If the callout line contains more
 
 ## Syntax
 
- _expression_. 'Angle'
+ _expression_. `Angle`
 
  _expression_ A variable that represents a [CalloutFormat](./Excel.CalloutFormat.md) object.
 

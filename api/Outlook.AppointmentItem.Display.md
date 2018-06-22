@@ -18,7 +18,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
 
 ## Syntax
 
- _expression_. 'Display'( '_Modal_' )
+ _expression_. `Display`( `_Modal_` )
 
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 

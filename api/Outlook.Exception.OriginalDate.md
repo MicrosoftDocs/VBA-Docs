@@ -18,7 +18,7 @@ Returns a  **Date** indicating the original date and time of an **[AppointmentIt
 
 ## Syntax
 
- _expression_. 'OriginalDate'
+ _expression_. `OriginalDate`
 
  _expression_ A variable that represents an [Exception](./Outlook.Exception.md) object.
 

@@ -18,7 +18,7 @@ Creates a data series in the specified range.  **Variant** .
 
 ## Syntax
 
- _expression_. 'DataSeries'( '_Rowcol_' , '_Type_' , '_Date_' , '_Step_' , '_Stop_' , '_Trend_' )
+ _expression_. `DataSeries`( `_Rowcol_` , `_Type_` , `_Date_` , `_Step_` , `_Stop_` , `_Trend_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

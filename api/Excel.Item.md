@@ -17,7 +17,7 @@ Item method as it applies to the  **Axes** object.
 
 Returns a single Axis object from an Axes collection.
 
- _expression_. 'Item'( '_Type_',  '_AxisGroup_')
+ _expression_. `Item`( `_Type_`,  `_AxisGroup_`)
 
  _expression_ Required. An expression that returns an [Axes](./Excel.Axes(object).md) collection.
  **Type**Required 

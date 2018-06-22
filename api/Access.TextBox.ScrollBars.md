@@ -18,7 +18,7 @@ You can use the  **ScrollBars** property to specify whether scroll bars appear o
 
 ## Syntax
 
- _expression_. 'ScrollBars'
+ _expression_. `ScrollBars`
 
  _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 

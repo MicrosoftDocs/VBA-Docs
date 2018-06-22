@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Rese
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the show changes mode. Read/write.
 
 ## Syntax
 
- _expression_. 'ShowCoauthoringMergeChanges'
+ _expression_. `ShowCoauthoringMergeChanges`
 
  _expression_ A variable that represents an [Options](./PowerPoint.Options.md) object.
 

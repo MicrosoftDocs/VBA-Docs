@@ -18,7 +18,7 @@ Displays remaining availability information in the active Resource Graph view.
 
 ## Syntax
 
- _expression_. 'ViewShowRemainingAvailability'
+ _expression_. `ViewShowRemainingAvailability`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

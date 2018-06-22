@@ -15,7 +15,7 @@ Gets a single  **Group** object from the **TaskGroups** collection. Read-only **
 
 ## Syntax
 
- _expression_. 'Item'( ' _Index_' )
+ _expression_. `Item`( ` _Index_` )
 
  _expression_ A variable that represents a 'TaskGroups' object.
 

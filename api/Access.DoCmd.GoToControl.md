@@ -18,7 +18,7 @@ The  **GoToControl** method performs the GoToControl action action in Visual Bas
 
 ## Syntax
 
- _expression_. 'GoToControl'( ' _ControlName_' )
+ _expression_. `GoToControl`( ` _ControlName_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

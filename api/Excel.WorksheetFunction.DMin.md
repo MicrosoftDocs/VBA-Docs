@@ -18,7 +18,7 @@ Returns the smallest number in a column of a list or database that matches condi
 
 ## Syntax
 
- _expression_. 'DMin'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
+ _expression_. `DMin`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

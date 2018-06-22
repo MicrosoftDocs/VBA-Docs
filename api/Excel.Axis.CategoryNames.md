@@ -18,7 +18,7 @@ Returns or sets all the category names for the specified axis, as a text array. 
 
 ## Syntax
 
- _expression_. 'CategoryNames'
+ _expression_. `CategoryNames`
 
  _expression_ A variable that represents an [Axis](./Excel.Axis(Graph object).md) object.
 

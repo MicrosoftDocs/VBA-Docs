@@ -18,7 +18,7 @@ Identifies an undo unit by its class ID (CLSID). Read-only.
 
 ## Syntax
 
- _expression_. 'UnitTypeCLSID'
+ _expression_. `UnitTypeCLSID`
 
  _expression_ A variable that represents a 'IVBUndoUnit' object.
 

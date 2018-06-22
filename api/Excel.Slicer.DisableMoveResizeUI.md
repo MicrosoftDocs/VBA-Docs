@@ -18,7 +18,7 @@ Returns or sets whether the specified slicer can be moved or resized by using th
 
 ## Syntax
 
- _expression_. 'DisableMoveResizeUI'
+ _expression_. `DisableMoveResizeUI`
 
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 

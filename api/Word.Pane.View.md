@@ -18,7 +18,7 @@ Returns a  **View** object that represents the view for the specified pane.
 
 ## Syntax
 
- _expression_. 'View'
+ _expression_. `View`
 
  _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 

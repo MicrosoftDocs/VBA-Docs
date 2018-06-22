@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'ShowLegendKey'
+ _expression_. `ShowLegendKey`
 
  _expression_ A variable that represents a [DataLabel](./Excel.DataLabel(Graph property).md) object.
 

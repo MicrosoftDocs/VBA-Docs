@@ -11,7 +11,7 @@ Gets the geometric description of nodes or control points in the shape range. Re
 
 ## Syntax
 
- _expression_. 'Nodes'
+ _expression_. `Nodes`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

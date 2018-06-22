@@ -18,7 +18,7 @@ You can use the  **GrpKeepTogether** property to specify whether groups in a mul
 
 ## Syntax
 
- _expression_. 'GrpKeepTogether'
+ _expression_. `GrpKeepTogether`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

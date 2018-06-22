@@ -18,7 +18,7 @@ Deletes the specified building block.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ An expression that returns a [BuildingBlock](./Word.BuildingBlock.md) object.
 

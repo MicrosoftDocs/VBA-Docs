@@ -15,7 +15,7 @@ Gets or sets the budget cost for an  **Assignment**. Read/write **Variant**.
 
 ## Syntax
 
- _expression_. 'BudgetCost'
+ _expression_. `BudgetCost`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

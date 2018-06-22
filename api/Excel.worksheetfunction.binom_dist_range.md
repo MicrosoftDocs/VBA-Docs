@@ -16,7 +16,7 @@ Returns the probability of a trial result using a binomial distribution.
 
 ## Syntax
 
- _expression_. 'Binom_Dist_Range'_(Arg1,_ _Arg2,_ _Arg3,_ _Arg4)_
+ _expression_. `Binom_Dist_Range`_(Arg1,_ _Arg2,_ _Arg3,_ _Arg4)_
 
  _expression_ A variable that represents a[WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 

@@ -18,7 +18,7 @@ You can use the  **GroupOn** property in a report to specify how to group data i
 
 ## Syntax
 
- _expression_. 'GroupOn'
+ _expression_. `GroupOn`
 
  _expression_ A variable that represents a [GroupLevel](./Access.GroupLevel.md) object.
 

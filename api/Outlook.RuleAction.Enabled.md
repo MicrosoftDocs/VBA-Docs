@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that determines if the **[RuleAction](Outlook.Rul
 
 ## Syntax
 
- _expression_. 'Enabled'
+ _expression_. `Enabled`
 
  _expression_ A variable that represents a [RuleAction](./Outlook.RuleAction.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the text in the status bar. Read/write  **String** .
 
 ## Syntax
 
- _expression_. 'StatusBar'
+ _expression_. `StatusBar`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

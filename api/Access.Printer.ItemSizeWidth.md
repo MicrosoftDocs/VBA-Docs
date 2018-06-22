@@ -18,7 +18,7 @@ Returns or sets a  **Long** indicating the height of the detail section of a for
 
 ## Syntax
 
- _expression_. 'ItemSizeWidth'
+ _expression_. `ItemSizeWidth`
 
  _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 

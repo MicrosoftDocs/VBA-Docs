@@ -18,7 +18,7 @@ You can use the  **Modal** property to specify whether a report opens as a modal
 
 ## Syntax
 
- _expression_. 'Modal'
+ _expression_. `Modal`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

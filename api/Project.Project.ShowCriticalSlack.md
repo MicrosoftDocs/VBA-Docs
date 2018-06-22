@@ -15,7 +15,7 @@ Gets or sets how much slack causes a task to be displayed as a critical task. Re
 
 ## Syntax
 
- _expression_. 'ShowCriticalSlack'
+ _expression_. `ShowCriticalSlack`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

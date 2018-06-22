@@ -18,7 +18,7 @@ Returns a  **[HeaderFooter](Word.HeaderFooter.md)** object for the specified sel
 
 ## Syntax
 
- _expression_. 'HeaderFooter'
+ _expression_. `HeaderFooter`
 
  _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
 

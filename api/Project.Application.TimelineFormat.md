@@ -18,7 +18,7 @@ Formats the  **Timeline** view to specify the number of text lines in timeline t
 
 ## Syntax
 
- _expression_. 'TimelineFormat'( ' _NumLines_', ' _Minimized_' )
+ _expression_. `TimelineFormat`( ` _NumLines_`, ` _Minimized_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -18,7 +18,7 @@ Finds the first row in the  **[Table](Outlook.Table.md)** that meets the criteri
 
 ## Syntax
 
- _expression_. 'FindRow'( '_Filter_' )
+ _expression_. `FindRow`( `_Filter_` )
 
  _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 

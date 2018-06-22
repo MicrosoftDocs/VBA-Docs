@@ -18,7 +18,7 @@ You can use the  **AllReports** property to reference the **[AllReports](Access.
 
 ## Syntax
 
- _expression_. 'AllReports'
+ _expression_. `AllReports`
 
  _expression_ A variable that represents a [CurrentProject](./Access.CurrentProject.md) object.
 

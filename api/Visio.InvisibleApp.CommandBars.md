@@ -18,7 +18,7 @@ Returns a reference to the  **CommandBars** collection that represents the comma
 
 ## Syntax
 
- _expression_. 'CommandBars'
+ _expression_. `CommandBars`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

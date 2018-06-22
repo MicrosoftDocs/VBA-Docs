@@ -18,7 +18,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents a cell in a matrix
 
 ## Syntax
 
- _expression_. 'Cell'( '_Row_' , '_Col_' )
+ _expression_. `Cell`( `_Row_` , `_Col_` )
 
  _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 

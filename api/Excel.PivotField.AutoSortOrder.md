@@ -18,7 +18,7 @@ Returns the order used to sort the specified PivotTable field automatically. Can
 
 ## Syntax
 
- _expression_. 'AutoSortOrder'
+ _expression_. `AutoSortOrder`
 
  _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 

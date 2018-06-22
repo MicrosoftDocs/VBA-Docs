@@ -18,7 +18,7 @@ Returns an  **[Interior](Excel.Interior(objec).md)** object that represents the 
 
 ## Syntax
 
- _expression_. 'Interior'
+ _expression_. `Interior`
 
  _expression_ A variable that represents a [FormatCondition](./Excel.FormatCondition.md) object.
 

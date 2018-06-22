@@ -18,7 +18,7 @@ Finds specific information in a worksheet.
 
 ## Syntax
 
- _expression_. 'Find'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
+ _expression_. `Find`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

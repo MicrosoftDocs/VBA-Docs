@@ -18,7 +18,7 @@ You can use the  **Cancel** property to specify whether a command button is also
 
 ## Syntax
 
- _expression_. 'Cancel'
+ _expression_. `Cancel`
 
  _expression_ A variable that represents a [CustomControl](./Access.CustomControl.md) object.
 

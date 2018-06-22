@@ -16,7 +16,7 @@ Retrieve the [PivotValueCell Object (Excel)](pivotvaluecell-object-excel.md) obj
 
 ## Syntax
 
- _expression_. 'PivotValueCell'_(rowline,_ _columnline)_
+ _expression_. `PivotValueCell`_(rowline,_ _columnline)_
 
  _expression_ A variable that represents a[PivotTable Object (Excel)](Excel.PivotTable.md) object.
 

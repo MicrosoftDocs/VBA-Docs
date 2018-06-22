@@ -18,7 +18,7 @@ Deletes the  **[ExchangeUser](Outlook.ExchangeUser.md)** object from the **[Addr
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 

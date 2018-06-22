@@ -18,7 +18,7 @@ Returns the major gridlines for the specified axis. Read-only  **[Gridlines](Wor
 
 ## Syntax
 
- _expression_. 'MajorGridlines'
+ _expression_. `MajorGridlines`
 
  _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
 

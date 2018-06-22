@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'IgnoreFileNames'
+ _expression_. `IgnoreFileNames`
 
  _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
 

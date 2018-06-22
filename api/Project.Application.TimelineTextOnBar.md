@@ -18,7 +18,7 @@ Changes the format of text to display as a callout or within the Timeline bar, f
 
 ## Syntax
 
- _expression_. 'TimelineTextOnBar'( ' _TextOnBar_' )
+ _expression_. `TimelineTextOnBar`( ` _TextOnBar_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

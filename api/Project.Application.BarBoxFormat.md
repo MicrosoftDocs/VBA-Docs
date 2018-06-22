@@ -18,7 +18,7 @@ Displays the  **Format Bar** dialog box (if the Gantt Chart, Resource Graph, or 
 
 ## Syntax
 
- _expression_. 'BarBoxFormat'
+ _expression_. `BarBoxFormat`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -18,7 +18,7 @@ Used only with Kanji characters. Read/write.
 
 ## Syntax
 
- _expression_. 'WordWrap'
+ _expression_. `WordWrap`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 

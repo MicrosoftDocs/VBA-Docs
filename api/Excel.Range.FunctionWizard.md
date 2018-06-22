@@ -18,7 +18,7 @@ Starts the Function Wizard for the upper-left cell of the range.
 
 ## Syntax
 
- _expression_. 'FunctionWizard'
+ _expression_. `FunctionWizard`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

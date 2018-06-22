@@ -18,7 +18,7 @@ Returns a  **String** that represents the prefix mappings used to evaluate the X
 
 ## Syntax
 
- _expression_. 'PrefixMappings'
+ _expression_. `PrefixMappings`
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 

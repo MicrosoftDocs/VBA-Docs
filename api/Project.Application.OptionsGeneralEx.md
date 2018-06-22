@@ -18,7 +18,7 @@ Sets some options that are on the  **General**,  **Schedule**, and  **Advanced**
 
 ## Syntax
 
- _expression_. 'OptionsGeneralEx'( ' _PlanningWizard_', ' _WizardUsage_', ' _WizardErrors_', ' _WizardScheduling_', ' _ShowTipOfDay_', ' _AutoAddResources_', ' _StandardRate_', ' _OvertimeRate_', ' _LastFile_', ' _SummaryInfo_', ' _UserName_', ' _SetDefaults_', ' _ShowWelcome_', ' _AutoFilter_', ' _MacroVirusProtection_', ' _DisplayRecentFiles_', ' _RecentFilesMaximum_', ' _FontConversion_', ' _ShowStartupWorkpane_', ' _MaxUndoRecords_' )
+ _expression_. `OptionsGeneralEx`( ` _PlanningWizard_`, ` _WizardUsage_`, ` _WizardErrors_`, ` _WizardScheduling_`, ` _ShowTipOfDay_`, ` _AutoAddResources_`, ` _StandardRate_`, ` _OvertimeRate_`, ` _LastFile_`, ` _SummaryInfo_`, ` _UserName_`, ` _SetDefaults_`, ` _ShowWelcome_`, ` _AutoFilter_`, ` _MacroVirusProtection_`, ` _DisplayRecentFiles_`, ` _RecentFilesMaximum_`, ` _FontConversion_`, ` _ShowStartupWorkpane_`, ` _MaxUndoRecords_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

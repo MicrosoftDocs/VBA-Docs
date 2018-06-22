@@ -18,7 +18,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 
 ## Syntax
 
- _expression_. 'CellsU'( '_localeIndependentCellName_' )
+ _expression_. `CellsU`( `_localeIndependentCellName_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

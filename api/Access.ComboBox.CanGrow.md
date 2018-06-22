@@ -18,7 +18,7 @@ Gets or sets whether the specified control automatically adjusts vertically to p
 
 ## Syntax
 
- _expression_. 'CanGrow'
+ _expression_. `CanGrow`
 
  _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 

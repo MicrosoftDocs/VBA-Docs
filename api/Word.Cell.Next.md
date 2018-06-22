@@ -18,7 +18,7 @@ Returns a  **Cell** object that represents the next table cell in the **Cells** 
 
 ## Syntax
 
- _expression_. 'Next'
+ _expression_. `Next`
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 

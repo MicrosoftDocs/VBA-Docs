@@ -18,7 +18,7 @@ Creates a new query table.
 
 ## Syntax
 
- _expression_. 'Add'( '_Connection_' , '_Destination_' , '_Sql_' )
+ _expression_. `Add`( `_Connection_` , `_Destination_` , `_Sql_` )
 
  _expression_ A variable that represents a [QueryTables](./Excel.QueryTables.md) object.
 

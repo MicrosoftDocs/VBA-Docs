@@ -18,7 +18,7 @@ Adds a new item to the list of values displayed by the specified combo box contr
 
 ## Syntax
 
- _expression_. 'AddItem'( ' _Item_', ' _Index_' )
+ _expression_. `AddItem`( ` _Item_`, ` _Index_` )
 
  _expression_ A variable that represents a [ComboBox](./Access.ComboBox.md) object.
 

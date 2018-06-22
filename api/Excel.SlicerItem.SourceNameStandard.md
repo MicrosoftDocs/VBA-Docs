@@ -18,7 +18,7 @@ Returns the slicer item's source name in standard English (United States) format
 
 ## Syntax
 
- _expression_. 'SourceNameStandard'
+ _expression_. `SourceNameStandard`
 
  _expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
 

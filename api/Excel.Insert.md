@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Inserts a cell or a range of cells into the datasheet and shifts other cells away to make space.
 
- _expression_. 'Insert'( '_Shift_')
+ _expression_. `Insert`( `_Shift_`)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

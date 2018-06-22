@@ -18,7 +18,7 @@ The [Quit](Access.Application.Quit.md) method quits Microsoft Access. You can se
 
 ## Syntax
 
- _expression_. 'Quit'( ' _Option_' )
+ _expression_. `Quit`( ` _Option_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

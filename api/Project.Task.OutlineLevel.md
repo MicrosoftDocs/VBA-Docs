@@ -15,7 +15,7 @@ Gets the level of the task in the outline hierarchy. Read/write  **Integer**.
 
 ## Syntax
 
- _expression_. 'OutlineLevel'
+ _expression_. `OutlineLevel`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

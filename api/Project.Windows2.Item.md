@@ -15,7 +15,7 @@ Gets a single  **Window** object from the **Windows2** collection. Read-only **W
 
 ## Syntax
 
- _expression_. 'Item'( ' _Index_' )
+ _expression_. `Item`( ` _Index_` )
 
  _expression_ A variable that represents a 'Windows2' object.
 

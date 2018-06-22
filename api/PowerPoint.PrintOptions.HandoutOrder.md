@@ -18,7 +18,7 @@ Returns or sets the page layout order in which slides appear on printed handouts
 
 ## Syntax
 
- _expression_. 'HandoutOrder'
+ _expression_. `HandoutOrder`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

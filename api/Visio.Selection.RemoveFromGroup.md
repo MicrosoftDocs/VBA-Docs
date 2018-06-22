@@ -18,7 +18,7 @@ Removes selected shapes from a group.
 
 ## Syntax
 
- _expression_. 'RemoveFromGroup'
+ _expression_. `RemoveFromGroup`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

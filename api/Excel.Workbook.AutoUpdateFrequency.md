@@ -18,7 +18,7 @@ Returns or sets the number of minutes between automatic updates to the shared wo
 
 ## Syntax
 
- _expression_. 'AutoUpdateFrequency'
+ _expression_. `AutoUpdateFrequency`
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

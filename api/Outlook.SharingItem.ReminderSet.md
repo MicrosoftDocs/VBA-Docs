@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that is **true** if a reminder has been set
 
 ## Syntax
 
- _expression_. 'ReminderSet'
+ _expression_. `ReminderSet`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

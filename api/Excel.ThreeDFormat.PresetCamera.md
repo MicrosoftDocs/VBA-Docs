@@ -15,7 +15,7 @@ Returns or sets the extrusion preset camera for a  **ThreeDFormat** object. Read
 
 ## Syntax
 
- _expression_. 'PresetCamera'
+ _expression_. `PresetCamera`
 
  _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 

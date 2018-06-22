@@ -18,7 +18,7 @@ Retuns the OLEDB Connection details for the specified  **WorkbookConnection** ob
 
 ## Syntax
 
- _expression_. 'OLEDBConnection'
+ _expression_. `OLEDBConnection`
 
  _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
 

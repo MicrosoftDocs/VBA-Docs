@@ -15,7 +15,7 @@ Gets a  **[Resource](Project.Resource.md)** object representing the resource in 
 
 ## Syntax
 
- _expression_. 'Resource'
+ _expression_. `Resource`
 
  _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 

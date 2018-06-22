@@ -18,7 +18,7 @@ Returns a  **Variant** that represents a picture representation of how a selecti
 
 ## Syntax
 
- _expression_. 'EnhMetaFileBits'
+ _expression_. `EnhMetaFileBits`
 
  _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
 

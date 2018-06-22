@@ -18,7 +18,7 @@ Displays information about predecessor and successor tasks in the active task de
 
 ## Syntax
 
- _expression_. 'ViewShowPredecessorsSuccessors'
+ _expression_. `ViewShowPredecessorsSuccessors`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

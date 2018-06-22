@@ -18,7 +18,7 @@ Returns the  **[Phonetic](Excel.Phonetic.md)** object, which contains informatio
 
 ## Syntax
 
- _expression_. 'Phonetic'
+ _expression_. `Phonetic`
 
  _expression_ An expression that returns a [Range](./Excel.Range(Graph property).md) object.
 

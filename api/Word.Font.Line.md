@@ -18,7 +18,7 @@ Returns a [LineFormat](Word.LineFormat.md) object that specifies the formatting 
 
 ## Syntax
 
- _expression_. 'Line'
+ _expression_. `Line`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

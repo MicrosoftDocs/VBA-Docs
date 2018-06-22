@@ -18,7 +18,7 @@ Creates a new container  **[Shape](Visio.Shape.md)** object on the page, places 
 
 ## Syntax
 
- _expression_. 'DropContainer'( '_ObjectToDrop_' , '_TargetShapes_' )
+ _expression_. `DropContainer`( `_ObjectToDrop_` , `_TargetShapes_` )
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

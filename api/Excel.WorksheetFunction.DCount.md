@@ -18,7 +18,7 @@ Counts the cells that contain numbers in a column of a list or database that mat
 
 ## Syntax
 
- _expression_. 'DCount'( '_Arg1_' , '_Arg2_' , '_Arg3_' )
+ _expression_. `DCount`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

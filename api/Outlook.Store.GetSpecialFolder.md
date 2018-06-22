@@ -18,7 +18,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified
 
 ## Syntax
 
- _expression_. 'GetSpecialFolder'( '_FolderType_' )
+ _expression_. `GetSpecialFolder`( `_FolderType_` )
 
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 

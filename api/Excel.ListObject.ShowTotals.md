@@ -18,7 +18,7 @@ Gets or sets a  **Boolean** to indicate whether the Total row is visible. Read/w
 
 ## Syntax
 
- _expression_. 'ShowTotals'
+ _expression_. `ShowTotals`
 
  _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 

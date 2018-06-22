@@ -18,7 +18,7 @@ Returns or sets an  **Integer** value that represents the color of a **Color** o
 
 ## Syntax
 
- _expression_. 'SchemeColor'
+ _expression_. `SchemeColor`
 
  _expression_ A variable that represents a [ColorFormat](./Excel.ColorFormat.md) object.
 

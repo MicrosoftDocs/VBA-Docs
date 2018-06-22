@@ -18,7 +18,7 @@ Returns a  **[TextStyles](PowerPoint.TextStyles.md)** collection that represents
 
 ## Syntax
 
- _expression_. 'TextStyles'
+ _expression_. `TextStyles`
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 

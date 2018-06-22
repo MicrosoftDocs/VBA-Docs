@@ -18,7 +18,7 @@ Returns or sets a  **[XlTextVisualLayoutType](Excel.XlTextVisualLayoutType.md)**
 
 ## Syntax
 
- _expression_. 'TextFileVisualLayout'
+ _expression_. `TextFileVisualLayout`
 
  _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 

@@ -18,7 +18,7 @@ Occurs when a protected view window is opened.
 
 ## Syntax
 
- _expression_. 'ProtectedViewWindowOpen'( '_ProtViewWindow_', )
+ _expression_. `ProtectedViewWindowOpen`( `_ProtViewWindow_`, )
 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the cell note associated with the cell in the upper-left corner 
 
 ## Syntax
 
- _expression_. 'NoteText'( '_Text_' , '_Start_' , '_Length_' )
+ _expression_. `NoteText`( `_Text_` , `_Start_` , `_Length_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

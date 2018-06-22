@@ -18,7 +18,7 @@ Returns or sets a string that contains OLE DB settings that enable Microsoft Exc
 
 ## Syntax
 
- _expression_. 'Connection'
+ _expression_. `Connection`
 
  _expression_ A variable that represents an [OLEDBConnection](./Excel.OLEDBConnection.md) object.
 

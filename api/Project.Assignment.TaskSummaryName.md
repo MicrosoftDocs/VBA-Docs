@@ -15,7 +15,7 @@ Gets the name of the summary task for the task in the assignment. Read-only  **S
 
 ## Syntax
 
- _expression_. 'ResourceUniqueID'
+ _expression_. `ResourceUniqueID`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

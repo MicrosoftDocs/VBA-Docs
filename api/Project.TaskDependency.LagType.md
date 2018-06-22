@@ -15,7 +15,7 @@ Gets the unit of lag time between linked tasks. Read-only  **[PjFormatUnit](Proj
 
 ## Syntax
 
- _expression_. 'LagType'
+ _expression_. `LagType`
 
  _expression_ A variable that represents a [TaskDependency](./Project.TaskDependency.md) object.
 

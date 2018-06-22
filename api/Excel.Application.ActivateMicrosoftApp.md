@@ -18,7 +18,7 @@ Activates a Microsoft application. If the application is already running, this m
 
 ## Syntax
 
- _expression_. 'ActivateMicrosoftApp'( '_Index_' )
+ _expression_. `ActivateMicrosoftApp`( `_Index_` )
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

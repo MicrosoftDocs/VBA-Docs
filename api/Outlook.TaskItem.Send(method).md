@@ -18,7 +18,7 @@ Sends the task.
 
 ## Syntax
 
- _expression_. 'Send'
+ _expression_. `Send`
 
  _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 

@@ -18,7 +18,7 @@ The  **SetMenuItem** method carries out the SetMenuItem action in Visual Basic.
 
 ## Syntax
 
- _expression_. 'SetMenuItem'( ' _MenuIndex_', ' _CommandIndex_', ' _SubcommandIndex_', ' _Flag_' )
+ _expression_. `SetMenuItem`( ` _MenuIndex_`, ` _CommandIndex_`, ` _SubcommandIndex_`, ` _Flag_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

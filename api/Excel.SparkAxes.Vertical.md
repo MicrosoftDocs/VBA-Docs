@@ -18,7 +18,7 @@ Returns the  **[SparkVerticalAxis](Excel.SparkVerticalAxis.md)** object for the 
 
 ## Syntax
 
- _expression_. 'Vertical'
+ _expression_. `Vertical`
 
  _expression_ A variable that represents a [SparkAxes](./Excel.SparkAxes.md) object.
 

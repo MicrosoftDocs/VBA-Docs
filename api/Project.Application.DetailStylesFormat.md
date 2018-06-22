@@ -18,7 +18,7 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
 
 ## Syntax
 
- _expression_. 'DetailStylesFormat'( ' _Item_', ' _Font_', ' _Size_', ' _Bold_', ' _Italic_', ' _Underline_', ' _Color_', ' _CellColor_', ' _Pattern_', ' _ShowInMenu_' )
+ _expression_. `DetailStylesFormat`( ` _Item_`, ` _Font_`, ` _Size_`, ` _Bold_`, ` _Italic_`, ` _Underline_`, ` _Color_`, ` _CellColor_`, ` _Pattern_`, ` _ShowInMenu_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

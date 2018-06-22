@@ -18,7 +18,7 @@ Returns an  **[AutoCaptions](Word.autocaptions.md)** collection that represents 
 
 ## Syntax
 
- _expression_. 'AutoCaptions'
+ _expression_. `AutoCaptions`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

@@ -18,7 +18,7 @@ Copies the hyperlink of the selected item to the Clipboard.
 
 ## Syntax
 
- _expression_. 'WebCopyHyperlink'
+ _expression_. `WebCopyHyperlink`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

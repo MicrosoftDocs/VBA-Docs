@@ -16,7 +16,7 @@ Returns a [ColorFormat](PowerPoint.ColorFormat.md) object that represents the co
 
 ## Syntax
 
- _expression_. 'Color'
+ _expression_. `Color`
 
  _expression_ A variable that represents a 'Guide' object.
 

@@ -15,7 +15,7 @@ Gets the index of a  **Calendar** object in the containing **Calendars** collect
 
 ## Syntax
 
- _expression_. 'Index'
+ _expression_. `Index`
 
  _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 

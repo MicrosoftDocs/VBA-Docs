@@ -18,7 +18,7 @@ Increases the size of the displayed text one point size when the document is dis
 
 ## Syntax
 
- _expression_. 'ReadingModeGrowFont'
+ _expression_. `ReadingModeGrowFont`
 
  _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 

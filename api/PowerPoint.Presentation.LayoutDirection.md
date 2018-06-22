@@ -18,7 +18,7 @@ Returns or sets the layout direction for the user interface. Read/write.
 
 ## Syntax
 
- _expression_. 'LayoutDirection'
+ _expression_. `LayoutDirection`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **[CalloutFormat](PowerPoint.CalloutFormat.md)** object that contains
 
 ## Syntax
 
- _expression_. 'Callout'
+ _expression_. `Callout`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

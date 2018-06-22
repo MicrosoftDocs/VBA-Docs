@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'FrameResizable'
+ _expression_. `FrameResizable`
 
  _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 

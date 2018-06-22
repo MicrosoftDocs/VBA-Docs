@@ -15,7 +15,7 @@ Returns or sets the luminosity of the specified object. Read/write
 
 ## Syntax
 
- _expression_. 'Brightness'
+ _expression_. `Brightness`
 
  _expression_ A variable that represents a '[ColorFormat](Excel.ColorFormat.md)' object.
 

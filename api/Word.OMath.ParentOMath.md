@@ -18,7 +18,7 @@ Returns an  **OMath** object that represents the parent element. Read-only.
 
 ## Syntax
 
- _expression_. 'ParentOMath'
+ _expression_. `ParentOMath`
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

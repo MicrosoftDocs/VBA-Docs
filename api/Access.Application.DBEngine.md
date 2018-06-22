@@ -18,7 +18,7 @@ You can use the  **DBEngine** property in[Visual Basic](set-properties-by-using-
 
 ## Syntax
 
- _expression_. 'DBEngine'
+ _expression_. `DBEngine`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

@@ -17,7 +17,7 @@ Saves a presentation that's never been saved, or saves a previously saved presen
 
 ## Syntax
 
- _expression_. 'SaveAs'( '_Filename_', '_FileFormat_', '_EmbedFonts_' )
+ _expression_. `SaveAs`( `_Filename_`, `_FileFormat_`, `_EmbedFonts_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -18,7 +18,7 @@ Gets the cell object at the specified coordinates.
 
 ## Syntax
 
- _expression_. 'GetCellInfo'( ' _x_', ' _y_' )
+ _expression_. `GetCellInfo`( ` _x_`, ` _y_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

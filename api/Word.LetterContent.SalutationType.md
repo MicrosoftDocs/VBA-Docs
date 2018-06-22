@@ -18,7 +18,7 @@ Returns or sets the type of salutation for a letter created by the Letter Wizard
 
 ## Syntax
 
- _expression_. 'SalutationType'
+ _expression_. `SalutationType`
 
  _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 

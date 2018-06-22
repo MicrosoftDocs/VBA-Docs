@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'IgnoreSpace'
+ _expression_. `IgnoreSpace`
 
  _expression_ An expression that returns a [Find](./Word.Find.md) object.
 

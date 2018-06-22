@@ -18,7 +18,7 @@ Returns or sets the version of HTML for a published presentation. Read/write.
 
 ## Syntax
 
- _expression_. 'HTMLVersion'
+ _expression_. `HTMLVersion`
 
  _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 

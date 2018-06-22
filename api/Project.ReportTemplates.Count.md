@@ -18,7 +18,7 @@ Gets the number of items in the  **[ReportTemplates](Project.reporttemplates.md)
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a 'ReportTemplates' object.
 

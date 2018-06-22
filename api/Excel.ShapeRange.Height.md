@@ -18,7 +18,7 @@ Returns or sets a  **Single** value that represents the height, in points, of th
 
 ## Syntax
 
- _expression_. 'Height'
+ _expression_. `Height`
 
  _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 

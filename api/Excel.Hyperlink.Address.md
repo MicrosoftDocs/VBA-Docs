@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the address of the target do
 
 ## Syntax
 
- _expression_. 'Address'
+ _expression_. `Address`
 
  _expression_ A variable that represents a [Hyperlink](./Excel.Hyperlink.md) object.
 

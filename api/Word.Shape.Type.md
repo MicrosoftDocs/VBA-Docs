@@ -18,7 +18,7 @@ Returns the type of inline shape. Read-only  **MsoShapeType** .
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 

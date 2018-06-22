@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range t
 
 ## Syntax
 
- _expression_. 'Range'
+ _expression_. `Range`
 
  _expression_ A variable that represents a [Hyperlink](./Excel.Hyperlink.md) object.
 

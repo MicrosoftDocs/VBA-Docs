@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that indicates whether a workbook is final. Read/
 
 ## Syntax
 
- _expression_. 'Final'
+ _expression_. `Final`
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **Boolean** that represents whether a text content control allows mul
 
 ## Syntax
 
- _expression_. 'MultiLine'
+ _expression_. `MultiLine`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

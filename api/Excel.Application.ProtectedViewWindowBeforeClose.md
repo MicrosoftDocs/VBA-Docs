@@ -18,7 +18,7 @@ Occurs immediately before a  **Protected View** window or a workbook in a **Prot
 
 ## Syntax
 
- _expression_. 'ProtectedViewWindowBeforeClose'( '_Pvw_' , '_Reason_' , '_Cancel_' )
+ _expression_. `ProtectedViewWindowBeforeClose`( `_Pvw_` , `_Reason_` , `_Cancel_` )
 
  _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
 

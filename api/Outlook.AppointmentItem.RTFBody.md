@@ -18,7 +18,7 @@ Returns or sets a  **Byte** array that represents the body of the Microsoft Outl
 
 ## Syntax
 
- _expression_. 'RTFBody'
+ _expression_. `RTFBody`
 
  _expression_ A variable that represents an '[AppointmentItem](Outlook.AppointmentItem.md)' object.
 

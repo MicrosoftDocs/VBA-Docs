@@ -18,7 +18,7 @@ Displays the  **Customize Fields** dialog box.
 
 ## Syntax
 
- _expression_. 'CustomizeField'
+ _expression_. `CustomizeField`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

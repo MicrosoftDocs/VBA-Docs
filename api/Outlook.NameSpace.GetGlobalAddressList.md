@@ -18,7 +18,7 @@ Returns an  **[AddressList](Outlook.AddressList.md)** object that represents the
 
 ## Syntax
 
- _expression_. 'GetGlobalAddressList'
+ _expression_. `GetGlobalAddressList`
 
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 

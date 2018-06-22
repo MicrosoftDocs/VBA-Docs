@@ -18,7 +18,7 @@ Returns or sets the minimum, midpoint, or maximum threshold value for a color sc
 
 ## Syntax
 
- _expression_. 'Value'
+ _expression_. `Value`
 
  _expression_ A variable that represents a [ColorScaleCriterion](./Excel.ColorScaleCriterion.md) object.
 

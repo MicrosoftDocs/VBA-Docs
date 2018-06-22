@@ -18,7 +18,7 @@ Returns a  **[QueryTable](Excel.QueryTable.md)** object that represents the quer
 
 ## Syntax
 
- _expression_. 'QueryTable'
+ _expression_. `QueryTable`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

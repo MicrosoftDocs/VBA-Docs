@@ -11,7 +11,7 @@ Returns an individual  **Shape** object in the **Shapes** collection.
 
 ## Syntax
 
- _expression_. 'Item' _(Index)_
+ _expression_. `Item` _(Index)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

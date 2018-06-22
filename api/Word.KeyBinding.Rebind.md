@@ -18,7 +18,7 @@ Changes the command assigned to the specified key binding.
 
 ## Syntax
 
- _expression_. 'Rebind'( '_KeyCategory_' , '_Command_' , '_CommandParameter_' )
+ _expression_. `Rebind`( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
 
  _expression_ Required. A variable that represents a '[KeyBinding](Word.KeyBinding.md)' object.
 

@@ -15,7 +15,7 @@ Returns an  **[Application](Excel.Application(objec).md)** object. Read-only.
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
 

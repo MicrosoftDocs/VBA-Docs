@@ -18,7 +18,7 @@ Returns a  **String** representing the street address for the **[ExchangeUser](O
 
 ## Syntax
 
- _expression_. 'StreetAddress'
+ _expression_. `StreetAddress`
 
  _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 

@@ -16,7 +16,7 @@ Returns or sets a  **Boolean** that specifies whether alignment guides are enabl
 
 ## Syntax
 
- _expression_. 'DisplayAlignmentGuides'
+ _expression_. `DisplayAlignmentGuides`
 
  _expression_ A variable that represents an [Options](./Word.Options.md) object.
 

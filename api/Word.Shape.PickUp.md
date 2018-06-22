@@ -18,7 +18,7 @@ Copies the formatting of the specified shape.
 
 ## Syntax
 
- _expression_. 'PickUp'
+ _expression_. `PickUp`
 
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 

@@ -18,7 +18,7 @@ Returns the position of the specified node as a coordinate pair. Each coordinate
 
 ## Syntax
 
- _expression_. 'Points'
+ _expression_. `Points`
 
  _expression_ An expression that returns a [ShapeNode](./Excel.ShapeNode.md) object.
 

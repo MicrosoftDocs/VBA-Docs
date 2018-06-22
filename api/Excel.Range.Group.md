@@ -18,7 +18,7 @@ When the  **[Range](Excel.Range(objec).md)** object represents a single cell in 
 
 ## Syntax
 
- _expression_. 'Group'( '_Start_' , '_End_' , '_By_' , '_Periods_' )
+ _expression_. `Group`( `_Start_` , `_End_` , `_By_` , `_Periods_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

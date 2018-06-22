@@ -18,7 +18,7 @@ Returns an array of links in the workbook. The names in the array are the names 
 
 ## Syntax
 
- _expression_. 'LinkSources'( '_Type_' )
+ _expression_. `LinkSources`( `_Type_` )
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

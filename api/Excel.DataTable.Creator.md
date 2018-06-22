@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 ## Syntax
 
- _expression_. 'Creator'
+ _expression_. `Creator`
 
  _expression_ A variable that represents a [DataTable](./Excel.DataTable(Graph property).md) object.
 

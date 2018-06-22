@@ -18,7 +18,7 @@ Returns the hyperbolic tangent of a number.
 
 ## Syntax
 
- _expression_. 'Tanh'( '_Arg1_' )
+ _expression_. `Tanh`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the return address for a letter created with the Letter Wizard. 
 
 ## Syntax
 
- _expression_. 'ReturnAddress'
+ _expression_. `ReturnAddress`
 
  _expression_ Required. A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 

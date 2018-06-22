@@ -13,7 +13,7 @@ Indicates the finish date for a  **Timeline** bar based on the input argument. I
 
 ## Syntax
 
- _expression_. 'FinishDate'
+ _expression_. `FinishDate`
 
  _expression_ A variable that represents a 'Timeline' object.
 

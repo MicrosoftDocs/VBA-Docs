@@ -14,7 +14,7 @@ Creates a site for the active project in a Project Web App instance on SharePoin
 
 ## Syntax
 
- _expression_. 'CreateProjectSite' _(ParentSiteUrl,_ _NewSiteName,_ _LaunchBrowser)_
+ _expression_. `CreateProjectSite` _(ParentSiteUrl,_ _NewSiteName,_ _LaunchBrowser)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

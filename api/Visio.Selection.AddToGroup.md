@@ -18,7 +18,7 @@ Adds the selected shapes to the selected group.
 
 ## Syntax
 
- _expression_. 'AddToGroup'
+ _expression_. `AddToGroup`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

@@ -18,7 +18,7 @@ Sets or returns the time at a given animation point. Read/write.
 
 ## Syntax
 
- _expression_. 'Time'
+ _expression_. `Time`
 
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 

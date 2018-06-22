@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between text in adjacent columns of the
 
 ## Syntax
 
- _expression_. 'SpaceBetweenColumns'
+ _expression_. `SpaceBetweenColumns`
 
  _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 

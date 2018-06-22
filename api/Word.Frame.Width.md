@@ -18,7 +18,7 @@ Returns or sets the width (in points) of the frame, in points. Read/write  **Lon
 
 ## Syntax
 
- _expression_. 'Width'
+ _expression_. `Width`
 
  _expression_ A variable that represents a '[Frame](Word.Frame.md)' object.
 

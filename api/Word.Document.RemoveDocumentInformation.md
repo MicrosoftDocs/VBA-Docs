@@ -18,7 +18,7 @@ Removes sensitive information, properties, comments, and other metadata from a d
 
 ## Syntax
 
- _expression_. 'RemoveDocumentInformation'( '_RemoveDocInfoType_' )
+ _expression_. `RemoveDocumentInformation`( `_RemoveDocInfoType_` )
 
  _expression_ An expression that returns a[Document](Word.Document.md) object.
 

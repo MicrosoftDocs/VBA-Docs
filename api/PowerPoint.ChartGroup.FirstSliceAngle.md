@@ -18,7 +18,7 @@ Returns or sets the angle, in degrees (clockwise from vertical), of the first pi
 
 ## Syntax
 
- _expression_. 'FirstSliceAngle'
+ _expression_. `FirstSliceAngle`
 
  _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

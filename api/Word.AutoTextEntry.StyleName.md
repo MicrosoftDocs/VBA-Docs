@@ -18,7 +18,7 @@ Returns the name of the style applied to the specified AutoText entry. Read-only
 
 ## Syntax
 
- _expression_. 'StyleName'
+ _expression_. `StyleName`
 
  _expression_ A variable that represents a '[AutoTextEntry](Word.AutoTextEntry.md)' object.
 

@@ -18,7 +18,7 @@ Displays a Help topic.
 
 ## Syntax
 
- _expression_. 'Help'( '_HelpFile_' , '_HelpContextID_' )
+ _expression_. `Help`( `_HelpFile_` , `_HelpContextID_` )
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the starting character position of a range. Read/write  **Long**
 
 ## Syntax
 
- _expression_. 'Start'
+ _expression_. `Start`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

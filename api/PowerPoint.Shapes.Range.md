@@ -18,7 +18,7 @@ Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents a s
 
 ## Syntax
 
- _expression_. 'Range'( '_Index_' )
+ _expression_. `Range`( `_Index_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

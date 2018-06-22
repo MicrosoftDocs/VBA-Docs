@@ -16,7 +16,7 @@ If a broadcast is in progress, returns a  **String** that specifies the ID of th
 
 ## Syntax
 
- _expression_. 'SessionID'
+ _expression_. `SessionID`
 
  _expression_ A variable that represents a 'Broadcast' object.
 

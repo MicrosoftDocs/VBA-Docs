@@ -18,7 +18,7 @@ Returns an  **[OlAttachmentType](Outlook.OlAttachmentType.md)** constant indicat
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
 

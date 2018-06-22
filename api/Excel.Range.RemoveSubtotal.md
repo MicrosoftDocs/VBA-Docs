@@ -18,7 +18,7 @@ Removes subtotals from a list.
 
 ## Syntax
 
- _expression_. 'RemoveSubtotal'
+ _expression_. `RemoveSubtotal`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

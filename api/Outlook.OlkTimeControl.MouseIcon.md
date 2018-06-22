@@ -18,7 +18,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 ## Syntax
 
- _expression_. 'MouseIcon'
+ _expression_. `MouseIcon`
 
  _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 

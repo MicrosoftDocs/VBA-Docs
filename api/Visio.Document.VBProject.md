@@ -18,7 +18,7 @@ Returns an automation object that you can use to control the Microsoft Visual Ba
 
 ## Syntax
 
- _expression_. 'VBProject'
+ _expression_. `VBProject`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

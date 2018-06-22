@@ -15,7 +15,7 @@ Occurs when the user selects the  **Forward** action for an item, or when the **
 
 ## Syntax
 
- _expression_. 'Forward'( '_Forward_' , '_Cancel_' )
+ _expression_. `Forward`( `_Forward_` , `_Cancel_` )
 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 

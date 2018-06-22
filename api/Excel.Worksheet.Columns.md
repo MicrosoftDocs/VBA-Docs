@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents all the col
 
 ## Syntax
 
- _expression_. 'Columns'
+ _expression_. `Columns`
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

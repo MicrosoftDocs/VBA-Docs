@@ -18,7 +18,7 @@ In a project comparison report, shows the Resource Sheet view in all three proje
 
 ## Syntax
 
- _expression_. 'ResourceComparison'
+ _expression_. `ResourceComparison`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

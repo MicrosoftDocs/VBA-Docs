@@ -18,7 +18,7 @@ Returns a  **SynonymInfo** object that contains information from the thesaurus o
 
 ## Syntax
 
- _expression_. 'SynonymInfo'
+ _expression_. `SynonymInfo`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

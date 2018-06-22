@@ -18,7 +18,7 @@ Gets or sets the width of the left gridline for the specified control. Read/writ
 
 ## Syntax
 
- _expression_. 'GridlineWidthLeft'
+ _expression_. `GridlineWidthLeft`
 
  _expression_ A variable that represents a [Control](./Access.Control.md) object.
 

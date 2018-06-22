@@ -21,7 +21,7 @@ Returns an array of IDs of data rows newly added to the data recordset as a resu
 
 ## Syntax
 
- _expression_. 'DataRowsAdded'
+ _expression_. `DataRowsAdded`
 
  _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 

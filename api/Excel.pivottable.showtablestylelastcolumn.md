@@ -13,7 +13,7 @@ Returns or sets if the last column is displayed for the specified  **PivotTable*
 
 ## Syntax
 
- _expression_. 'ShowTableStyleLastColumn'
+ _expression_. `ShowTableStyleLastColumn`
 
  _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 

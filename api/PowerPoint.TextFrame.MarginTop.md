@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the top of the text frame and t
 
 ## Syntax
 
- _expression_. 'MarginTop'
+ _expression_. `MarginTop`
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 

@@ -18,7 +18,7 @@ Occurs immediately before a protected view window or a document in a protected v
 
 ## Syntax
 
- _expression_. 'ProtectedViewWindowBeforeClose'( '_ProtViewWindow_', '_ProtectedViewCloseReason_', '_Cancel_' )
+ _expression_. `ProtectedViewWindowBeforeClose`( `_ProtViewWindow_`, `_ProtectedViewCloseReason_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

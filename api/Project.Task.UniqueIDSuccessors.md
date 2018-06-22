@@ -18,7 +18,7 @@ Gets or sets the unique identification ( **UniqueID** ) numbers of the successor
 
 ## Syntax
 
- _expression_. 'UniqueIDSuccessors'
+ _expression_. `UniqueIDSuccessors`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

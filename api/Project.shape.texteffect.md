@@ -11,7 +11,7 @@ Gets text formatting properties for the shape. Read-only  **[TextEffectFormat](h
 
 ## Syntax
 
- _expression_. 'TextEffect'
+ _expression_. `TextEffect`
 
  _expression_ A variable that represents a 'Shape' object.
 

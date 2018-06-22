@@ -18,7 +18,7 @@ Gets the parent lookup table entry in a hierarchical lookup table. Read-only  **
 
 ## Syntax
 
- _expression_. 'ParentEntry'
+ _expression_. `ParentEntry`
 
  _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 

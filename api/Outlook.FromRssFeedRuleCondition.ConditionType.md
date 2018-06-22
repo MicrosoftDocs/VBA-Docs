@@ -18,7 +18,7 @@ Returns a constant,  **olConditionFromRssFeed** , from the **[OlRuleConditionTyp
 
 ## Syntax
 
- _expression_. 'ConditionType'
+ _expression_. `ConditionType`
 
  _expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.FromRssFeedRuleCondition.md) object.
 

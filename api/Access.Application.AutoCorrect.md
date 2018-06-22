@@ -18,7 +18,7 @@ Returns an  **[AutoCorrect](Access.AutoCorrect.md)** object that represents the 
 
 ## Syntax
 
- _expression_. 'AutoCorrect'
+ _expression_. `AutoCorrect`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

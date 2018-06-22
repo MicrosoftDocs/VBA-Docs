@@ -18,7 +18,7 @@ Returns an integer that represents the spatial relationship of one shape to anot
 
 ## Syntax
 
- _expression_. 'SpatialRelation'( '_OtherShape_' , '_Tolerance_' , '_Flags_' )
+ _expression_. `SpatialRelation`( `_OtherShape_` , `_Tolerance_` , `_Flags_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

@@ -13,7 +13,7 @@ The ResourceName property for the Engagement object. Introduced in Office 2016.
 
 ## Syntax
 
- _expression_. 'ResourceName'
+ _expression_. `ResourceName`
 
  _expression_ A variable that represents a 'Engagement' object.
 

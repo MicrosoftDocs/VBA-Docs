@@ -18,7 +18,7 @@ Gets or sets the amount of space (in inches) between the text box and its right 
 
 ## Syntax
 
- _expression_. 'RightPadding'
+ _expression_. `RightPadding`
 
  _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 

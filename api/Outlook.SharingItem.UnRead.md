@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that is **True** if the **[SharingItem](Out
 
 ## Syntax
 
- _expression_. 'UnRead'
+ _expression_. `UnRead`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

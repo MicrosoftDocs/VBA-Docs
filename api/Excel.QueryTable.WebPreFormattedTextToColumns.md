@@ -18,7 +18,7 @@ Returns or sets whether data contained within HTML <PRE> tags in the Web page is
 
 ## Syntax
 
- _expression_. 'WebPreFormattedTextToColumns'
+ _expression_. `WebPreFormattedTextToColumns`
 
  _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 

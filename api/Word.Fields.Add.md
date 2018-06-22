@@ -18,7 +18,7 @@ Adds a  **[Field](Word.Field.md)** object to the **Fields** collection. Returns 
 
 ## Syntax
 
- _expression_. 'Add'( '_Range_' , '_Type_' , '_Text_' , '_PreserveFormatting_' )
+ _expression_. `Add`( `_Range_` , `_Type_` , `_Text_` , `_PreserveFormatting_` )
 
  _expression_ Required. A variable that represents a '[Fields](fields-object-word.md)' collection.
 

@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Inli
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 

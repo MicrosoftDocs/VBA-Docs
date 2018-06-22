@@ -15,7 +15,7 @@ Returns the number of items in the  **Sources** collection. Read-only **Long** .
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a '[Sources](Word.Sources.md)' object.
 

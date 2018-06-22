@@ -18,7 +18,7 @@ Italicizes WordArt text. Read/write  **MsoTriState** .
 
 ## Syntax
 
- _expression_. 'FontItalic'
+ _expression_. `FontItalic`
 
  _expression_ Required. A variable that represents a '[TextEffectFormat](Word.TextEffectFormat.md)' object.
 

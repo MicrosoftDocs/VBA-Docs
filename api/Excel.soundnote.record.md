@@ -16,7 +16,7 @@ Records the sound note.
 
 ## Syntax
 
- _expression_. 'Record'
+ _expression_. `Record`
 
  _expression_ A variable that represents a 'SoundNote' object.
 

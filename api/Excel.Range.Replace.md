@@ -18,7 +18,7 @@ Returns a  **Boolean** indicating characters in cells within the specified range
 
 ## Syntax
 
- _expression_. 'Replace'( '_What_' , '_Replacement_' , '_LookAt_' , '_SearchOrder_' , '_MatchCase_' , '_MatchByte_' , '_SearchFormat_' , '_ReplaceFormat_' )
+ _expression_. `Replace`( `_What_` , `_Replacement_` , `_LookAt_` , `_SearchOrder_` , `_MatchCase_` , `_MatchByte_` , `_SearchFormat_` , `_ReplaceFormat_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

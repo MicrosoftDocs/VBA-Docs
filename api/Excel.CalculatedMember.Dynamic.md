@@ -18,7 +18,7 @@ Returns whether the specified named set is recalculated with every update. Read-
 
 ## Syntax
 
- _expression_. 'Dynamic'
+ _expression_. `Dynamic`
 
  _expression_ A variable that returns a '[CalculatedMember](Excel.CalculatedMember.md)' object.
 

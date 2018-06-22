@@ -18,7 +18,7 @@ You can use the  **PrtDevMode** property to set or return printing device mode i
 
 ## Syntax
 
- _expression_. 'PrtDevMode'
+ _expression_. `PrtDevMode`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

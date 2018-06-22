@@ -18,7 +18,7 @@ For bar and column charts, returns or sets the space, as a percentage of the bar
 
 ## Syntax
 
- _expression_. 'GapWidth'
+ _expression_. `GapWidth`
 
  _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

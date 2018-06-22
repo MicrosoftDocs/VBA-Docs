@@ -18,7 +18,7 @@ Returns or sets a string that contains ODBC settings that enable Microsoft Excel
 
 ## Syntax
 
- _expression_. 'Connection'
+ _expression_. `Connection`
 
  _expression_ A variable that represents an [ODBCConnection](./Excel.ODBCConnection.md) object.
 

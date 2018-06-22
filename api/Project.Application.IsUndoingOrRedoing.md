@@ -15,7 +15,7 @@ Indicates whether Project is currently executing an undo or redo action.
 
 ## Syntax
 
- _expression_. 'IsUndoingOrRedoing'
+ _expression_. `IsUndoingOrRedoing`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

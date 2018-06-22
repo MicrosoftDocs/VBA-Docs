@@ -18,7 +18,7 @@ Determines whether zooming is disabled in a Microsoft Visio drawing window. Read
 
 ## Syntax
 
- _expression_. 'ZoomLock'
+ _expression_. `ZoomLock`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

@@ -18,7 +18,7 @@ Returns the SmartArt diagram of the  **ShapeRange** object. Read-only.
 
 ## Syntax
 
- _expression_. 'SmartArt'
+ _expression_. `SmartArt`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

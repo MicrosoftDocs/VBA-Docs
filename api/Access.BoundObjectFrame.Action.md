@@ -18,7 +18,7 @@ You can use the  **Action** property in Visual Basic to specify the operation to
 
 ## Syntax
 
- _expression_. 'Action'
+ _expression_. `Action`
 
  _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **[Walls](Excel.Walls(objec).md)** object that allows the user to ind
 
 ## Syntax
 
- _expression_. 'SideWall'
+ _expression_. `SideWall`
 
  _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 

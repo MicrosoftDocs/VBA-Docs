@@ -18,7 +18,7 @@ Moves the selection to the left and returns the number of units it has been move
 
 ## Syntax
 
- _expression_. 'MoveLeft'( '_Unit_' , '_Count_' , '_Extend_' )
+ _expression_. `MoveLeft`( `_Unit_` , `_Count_` , `_Extend_` )
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

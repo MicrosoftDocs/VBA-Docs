@@ -18,7 +18,7 @@ Returns or sets the ratio of the horizontal space allotted to each character in 
 
 ## Syntax
 
- _expression_. 'Tracking'
+ _expression_. `Tracking`
 
  _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectFormat.md) object.
 

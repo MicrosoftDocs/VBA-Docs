@@ -18,7 +18,7 @@ Gets or sets the Ribbon XML string that is passed to the document to customize t
 
 ## Syntax
 
- _expression_. 'UserCustomUI'
+ _expression_. `UserCustomUI`
 
  _expression_ A variable that represents a '[Document](Visio.Document.md)' object.
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 On a 2-D chart, returns an object that represents either a single line chart group or a collection of the line chart groups.
 
- _expression_. 'LineGroups'( '_Index_')
+ _expression_. `LineGroups`( `_Index_`)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

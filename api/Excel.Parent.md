@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns the parent object.
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

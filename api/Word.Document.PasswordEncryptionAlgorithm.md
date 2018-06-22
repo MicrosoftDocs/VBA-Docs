@@ -18,7 +18,7 @@ Returns a  **String** indicating the algorithm Microsoft Word uses for encryptin
 
 ## Syntax
 
- _expression_. 'PasswordEncryptionAlgorithm'
+ _expression_. `PasswordEncryptionAlgorithm`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

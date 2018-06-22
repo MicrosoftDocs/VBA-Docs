@@ -11,7 +11,7 @@ Gets or sets whether to display axis field buttons on a PivotChart. Read/write  
 
 ## Syntax
 
- _expression_. 'ShowAxisFieldButtons'
+ _expression_. `ShowAxisFieldButtons`
 
  _expression_ A variable that represents a 'Chart' object.
 

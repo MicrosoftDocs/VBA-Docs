@@ -18,7 +18,7 @@ Returns or sets the width, in points, of the specified protectd view window. Rea
 
 ## Syntax
 
- _expression_. 'Width'
+ _expression_. `Width`
 
  _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 

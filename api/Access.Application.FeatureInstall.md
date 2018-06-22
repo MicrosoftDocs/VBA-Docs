@@ -18,7 +18,7 @@ You can use the  **FeatureInstall** property to specify or determine how Microso
 
 ## Syntax
 
- _expression_. 'FeatureInstall'
+ _expression_. `FeatureInstall`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

@@ -18,7 +18,7 @@ Gets or sets the way assignment units display. Read/write  **PjAssignmentUnits**
 
 ## Syntax
 
- _expression_. 'ShowAssignmentUnitsAs'
+ _expression_. `ShowAssignmentUnitsAs`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Date** indicating the anniversary date for the contact. Rea
 
 ## Syntax
 
- _expression_. 'Anniversary'
+ _expression_. `Anniversary`
 
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 

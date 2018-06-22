@@ -18,7 +18,7 @@ Returns or sets a  **WdCellColor** constant that represents the color for merged
 
 ## Syntax
 
- _expression_. 'MergedCellColor'
+ _expression_. `MergedCellColor`
 
  _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 

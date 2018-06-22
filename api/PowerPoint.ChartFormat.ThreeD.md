@@ -18,7 +18,7 @@ Returns the 3-D-effect formatting properties for the specified chart. Read-only 
 
 ## Syntax
 
- _expression_. 'ThreeD'
+ _expression_. `ThreeD`
 
  _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.md)' object.
 

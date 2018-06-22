@@ -18,7 +18,7 @@ Returns or sets the depth of the shape's extrusion. Read/write  **Single** .
 
 ## Syntax
 
- _expression_. 'Depth'
+ _expression_. `Depth`
 
  _expression_ A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

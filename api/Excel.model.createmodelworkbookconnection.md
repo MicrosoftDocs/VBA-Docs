@@ -13,7 +13,7 @@ Returns a [WorkbookConnection Object (Excel)](workbookconnection-object-excel.md
 
 ## Syntax
 
- _expression_. 'CreateModelWorkbookConnection'_(ModelTable)_
+ _expression_. `CreateModelWorkbookConnection`_(ModelTable)_
 
  _expression_ A variable that represents a object.
 

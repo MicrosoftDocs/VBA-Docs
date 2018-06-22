@@ -16,7 +16,7 @@ Specifies the table that contains the model measure, as displayed in the  **Fiel
 
 ## Syntax
 
- _expression_. 'AssociatedTable'
+ _expression_. `AssociatedTable`
 
  _expression_ A variable that represents a 'ModelMeasure' object.
 

@@ -18,7 +18,7 @@ Returns the  **Selection** object that represents a selection or the insertion p
 
 ## Syntax
 
- _expression_. 'Selection'
+ _expression_. `Selection`
 
  _expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
 

@@ -18,7 +18,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 ## Syntax
 
- _expression_. 'Session'
+ _expression_. `Session`
 
  _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
 

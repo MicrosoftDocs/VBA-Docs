@@ -18,7 +18,7 @@ Returns the number of objects in the collection. Read-only.
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' object.
 

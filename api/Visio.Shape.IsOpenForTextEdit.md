@@ -18,7 +18,7 @@ Indicates whether a shape is currently open for interactive text editing. Read-o
 
 ## Syntax
 
- _expression_. 'IsOpenForTextEdit'
+ _expression_. `IsOpenForTextEdit`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

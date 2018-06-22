@@ -18,7 +18,7 @@ Returns or sets the PivotTable selection in standard PivotTable report selection
 
 ## Syntax
 
- _expression_. 'PivotSelection'
+ _expression_. `PivotSelection`
 
  _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 

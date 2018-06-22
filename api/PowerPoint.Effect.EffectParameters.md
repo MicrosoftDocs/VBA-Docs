@@ -18,7 +18,7 @@ Returns an  **[EffectParameters](PowerPoint.EffectParameters.md)** object that r
 
 ## Syntax
 
- _expression_. 'EffectParameters'
+ _expression_. `EffectParameters`
 
  _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

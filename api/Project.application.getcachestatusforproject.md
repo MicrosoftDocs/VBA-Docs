@@ -11,7 +11,7 @@ Gets the state of a specified job that the active cache in Project Professional 
 
 ## Syntax
 
- _expression_. 'GetCacheStatusForProject'
+ _expression_. `GetCacheStatusForProject`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

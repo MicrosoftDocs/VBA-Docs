@@ -18,7 +18,7 @@ Returns or sets the language used to determine which line break level is used wh
 
 ## Syntax
 
- _expression_. 'FarEastLineBreakLanguage'
+ _expression_. `FarEastLineBreakLanguage`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

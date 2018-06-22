@@ -18,7 +18,7 @@ Adds an  **ItemProperty** object to the **ItemProperties** collection.
 
 ## Syntax
 
- _expression_. 'Add'( '_Name_' , '_Type_' , '_AddToFolderFields_' , '_DisplayFormat_' )
+ _expression_. `Add`( `_Name_` , `_Type_` , `_AddToFolderFields_` , `_DisplayFormat_` )
 
  _expression_ A variable that represents an [ItemProperties](./Outlook.ItemProperties.md) object.
 

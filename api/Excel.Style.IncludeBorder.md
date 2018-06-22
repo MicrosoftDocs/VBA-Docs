@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'IncludeBorder'
+ _expression_. `IncludeBorder`
 
  _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 

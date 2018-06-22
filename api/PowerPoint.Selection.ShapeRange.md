@@ -18,7 +18,7 @@ Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents all
 
 ## Syntax
 
- _expression_. 'ShapeRange'
+ _expression_. `ShapeRange`
 
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 

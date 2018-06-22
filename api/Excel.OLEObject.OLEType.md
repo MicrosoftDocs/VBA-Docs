@@ -18,7 +18,7 @@ Returns the OLE object type. Can be one of the following  **XlOLEType** constant
 
 ## Syntax
 
- _expression_. 'OLEType'
+ _expression_. `OLEType`
 
  _expression_ A variable that represents an [OLEObject](./Excel.OLEObject.md) object.
 

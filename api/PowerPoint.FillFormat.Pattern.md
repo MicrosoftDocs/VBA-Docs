@@ -18,7 +18,7 @@ Sets or returns a value that represents the pattern applied to the specified fil
 
 ## Syntax
 
- _expression_. 'Pattern'
+ _expression_. `Pattern`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 

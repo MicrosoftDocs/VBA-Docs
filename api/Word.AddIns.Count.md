@@ -18,7 +18,7 @@ Returns the number of  **[AddIn](Word.AddIn.md)** objects in the **AddIns** coll
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ An expression that returns an '[AddIns](Word.addins.md)' collection.
 

@@ -18,7 +18,7 @@ Returns or sets an  **[OlAppointmentTimeField](Outlook.OlAppointmentTimeField.md
 
 ## Syntax
 
- _expression_. 'AppointmentTimeField'
+ _expression_. `AppointmentTimeField`
 
  _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
 

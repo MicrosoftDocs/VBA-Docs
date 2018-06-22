@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates if all the validation criteria are m
 
 ## Syntax
 
- _expression_. 'Value'
+ _expression_. `Value`
 
  _expression_ A variable that represents an [Error](./Excel.Error.md) object.
 

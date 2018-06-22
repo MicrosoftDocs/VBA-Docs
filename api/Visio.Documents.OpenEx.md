@@ -18,7 +18,7 @@ Opens an existing Microsoft Visio file, using extra information passed in as an 
 
 ## Syntax
 
- _expression_. 'OpenEx'( '_FileName_' , '_Flags_' )
+ _expression_. `OpenEx`( `_FileName_` , `_Flags_` )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

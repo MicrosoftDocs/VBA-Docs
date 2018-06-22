@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'SurroundFooter'
+ _expression_. `SurroundFooter`
 
  _expression_ An expression that returns a '[Borders](Word.borders.md)' collection object.
 

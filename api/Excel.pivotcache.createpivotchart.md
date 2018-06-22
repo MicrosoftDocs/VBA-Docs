@@ -16,7 +16,7 @@ Creates a standalone PivotChart from a [PivotCache Object (Excel)](pivotcache-ob
 
 ## Syntax
 
- _expression_. 'CreatePivotChart'_(ChartDestination,_ _XlChartType,_ _Left,_ _Top,_ _Width,_ _Height)_
+ _expression_. `CreatePivotChart`_(ChartDestination,_ _XlChartType,_ _Left,_ _Top,_ _Width,_ _Height)_
 
  _expression_ A variable that represents a[PivotCache Object (Excel)](pivotcache-object-excel.md) object.
 

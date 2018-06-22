@@ -18,7 +18,7 @@ Adds a new embedded object or ActiveX control to a page, master, or group.
 
 ## Syntax
 
- _expression_. 'InsertObject'( '_ClassOrProgID_' , '_Flags_' )
+ _expression_. `InsertObject`( `_ClassOrProgID_` , `_Flags_` )
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

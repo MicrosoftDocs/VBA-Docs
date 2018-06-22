@@ -18,7 +18,7 @@ Returns a  **String** that represents the XML for the node in the Microsoft Word
 
 ## Syntax
 
- _expression_. 'WordOpenXML'
+ _expression_. `WordOpenXML`
 
  _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 

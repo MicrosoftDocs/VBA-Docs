@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets the font style. Read/write Variant.
 
- _expression_. 'FontStyle'
+ _expression_. `FontStyle`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

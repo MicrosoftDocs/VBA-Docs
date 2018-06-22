@@ -18,7 +18,7 @@ Gets whether or not the current user of a Web databse is a member of the specifi
 
 ## Syntax
 
- _expression_. 'IsCurrentWebUserInGroup'( ' _GroupNameOrID_' )
+ _expression_. `IsCurrentWebUserInGroup`( ` _GroupNameOrID_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

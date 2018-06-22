@@ -18,7 +18,7 @@ Flips the specified shape range around its horizontal or vertical axis.
 
 ## Syntax
 
- _expression_. 'Flip'( '_FlipCmd_' )
+ _expression_. `Flip`( `_FlipCmd_` )
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

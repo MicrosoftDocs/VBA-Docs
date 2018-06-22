@@ -18,7 +18,7 @@ Determines whether Microsoft PowerPoint displays the  **Paste Options** button, 
 
 ## Syntax
 
- _expression_. 'DisplayPasteOptions'
+ _expression_. `DisplayPasteOptions`
 
  _expression_ A variable that represents a [Options](./PowerPoint.Options.md) object.
 

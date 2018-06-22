@@ -16,7 +16,7 @@ Returns or sets the auto shape type of the specified object. Read-write [MSOAuto
 
 ## Syntax
 
- _expression_. 'AutoShapeType'
+ _expression_. `AutoShapeType`
 
  _expression_ A variable that represents a [ChartFormat](./Word.ChartFormat.md) object.
 

@@ -18,7 +18,7 @@ Forces the container to resize so as to tightly include all member shapes, inclu
 
 ## Syntax
 
- _expression_. 'FitToContents'
+ _expression_. `FitToContents`
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

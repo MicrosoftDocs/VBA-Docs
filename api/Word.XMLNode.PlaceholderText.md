@@ -18,7 +18,7 @@ Sets or returns a  **String** that represents the text displayed for an element 
 
 ## Syntax
 
- _expression_. 'PlaceholderText'
+ _expression_. `PlaceholderText`
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

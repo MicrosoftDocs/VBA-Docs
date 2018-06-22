@@ -18,7 +18,7 @@ Performs a writeback operation for all edited cells in a range based on an OLAP 
 
 ## Syntax
 
- _expression_. 'AllocateChanges'
+ _expression_. `AllocateChanges`
 
  _expression_ A variable that represents a '[Range](Excel.Range(objec).md)' object.
 

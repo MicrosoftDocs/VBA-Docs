@@ -15,7 +15,7 @@ Gets the parent of the  **TableField** object. Read-only **Table**.
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 

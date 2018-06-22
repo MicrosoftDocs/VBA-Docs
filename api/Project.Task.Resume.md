@@ -18,7 +18,7 @@ Gets or sets the date that the remaining portion of the task is scheduled to res
 
 ## Syntax
 
- _expression_. 'Resume'
+ _expression_. `Resume`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

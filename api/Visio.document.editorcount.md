@@ -13,7 +13,7 @@ Returns a  **Long** that represents the number of editors of a co authored docum
 
 ## Syntax
 
- _expression_. 'EditorCount'
+ _expression_. `EditorCount`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

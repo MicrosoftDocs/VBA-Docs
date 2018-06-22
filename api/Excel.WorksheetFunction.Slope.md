@@ -18,7 +18,7 @@ Returns the slope of the linear regression line through data points in known_y's
 
 ## Syntax
 
- _expression_. 'Slope'( '_Arg1_' , '_Arg2_' )
+ _expression_. `Slope`( `_Arg1_` , `_Arg2_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

@@ -18,7 +18,7 @@ Returns a  **String** indicating the name of the object, including its path on d
 
 ## Syntax
 
- _expression_. 'FullNameURLEncoded'
+ _expression_. `FullNameURLEncoded`
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

@@ -18,7 +18,7 @@ Determines the page color of the Microsoft Visio drawing window for the current 
 
 ## Syntax
 
- _expression_. 'DrawingPageColor'
+ _expression_. `DrawingPageColor`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

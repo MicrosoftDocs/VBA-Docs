@@ -18,7 +18,7 @@ Returns a  **[TimeLine](PowerPoint.TimeLine.md)** object that represents the ani
 
 ## Syntax
 
- _expression_. 'TimeLine'
+ _expression_. `TimeLine`
 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 

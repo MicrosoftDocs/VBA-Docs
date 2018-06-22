@@ -18,7 +18,7 @@ Determines the visual appearance of the container. Read/write.
 
 ## Syntax
 
- _expression_. 'ContainerStyle'
+ _expression_. `ContainerStyle`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

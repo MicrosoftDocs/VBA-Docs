@@ -15,7 +15,7 @@ Returns the  **[TextRange2](http://msdn.microsoft.com/library/a6a59c9b-9b64-c1e2
 
 ## Syntax
 
- _expression_. 'TextRange'
+ _expression_. `TextRange`
 
  _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
 

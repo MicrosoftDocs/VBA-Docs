@@ -18,7 +18,7 @@ Sets the name of a procedure that runs whenever a DDE link is updated.
 
 ## Syntax
 
- _expression_. 'SetLinkOnData'( '_Name_' , '_Procedure_' )
+ _expression_. `SetLinkOnData`( `_Name_` , `_Procedure_` )
 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

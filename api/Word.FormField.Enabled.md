@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'Enabled'
+ _expression_. `Enabled`
 
  _expression_ An expression that represents a '[FormField](Word.FormField.md)' object.
 

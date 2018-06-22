@@ -18,7 +18,7 @@ The  **WarnOnFunctionNameConflict** property, when set to **True** , raises an a
 
 ## Syntax
 
- _expression_. 'WarnOnFunctionNameConflict'
+ _expression_. `WarnOnFunctionNameConflict`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

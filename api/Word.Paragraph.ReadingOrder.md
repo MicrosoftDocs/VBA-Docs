@@ -18,7 +18,7 @@ Returns or sets the reading order of the specified paragraph without changing th
 
 ## Syntax
 
- _expression_. 'ReadingOrder'
+ _expression_. `ReadingOrder`
 
  _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

@@ -16,7 +16,7 @@ Applies a design template and theme variant to the slide.
 
 ## Syntax
 
- _expression_. 'ApplyTemplate2'_(FileName,_ _Variant)_
+ _expression_. `ApplyTemplate2`_(FileName,_ _Variant)_
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

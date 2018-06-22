@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'DistanceRight'
+ _expression_. `DistanceRight`
 
  _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 

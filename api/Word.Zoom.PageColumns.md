@@ -18,7 +18,7 @@ Returns or sets the number of pages to be displayed side by side on-screen at th
 
 ## Syntax
 
- _expression_. 'PageColumns'
+ _expression_. `PageColumns`
 
  _expression_ An expression that returns a '[Zoom](Word.Zoom.md)' object.
 

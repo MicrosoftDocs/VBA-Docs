@@ -18,7 +18,7 @@ Returns the version number of SharePoint Foundation instances running at site fo
 
 ## Syntax
 
- _expression_. 'SharePointVersion'( '_bstrUrl_' )
+ _expression_. `SharePointVersion`( `_bstrUrl_` )
 
  _expression_ A variable that returns an [Application](./Excel.Application(Graph property).md) object.
 

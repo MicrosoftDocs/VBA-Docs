@@ -18,7 +18,7 @@ Expands all summary tasks in the project.
 
 ## Syntax
 
- _expression_. 'OutlineShowAllTasks'
+ _expression_. `OutlineShowAllTasks`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

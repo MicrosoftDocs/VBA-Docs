@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the cells i
 
 ## Syntax
 
- _expression_. 'Cells'
+ _expression_. `Cells`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

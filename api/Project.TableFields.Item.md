@@ -15,7 +15,7 @@ Gets a single  **TableField** object from the **TableFields** collection. Read-o
 
 ## Syntax
 
- _expression_. 'Item'( ' _Index_' )
+ _expression_. `Item`( ` _Index_` )
 
  _expression_ A variable that represents a 'TableFields' object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **[WdOMathHorizAlignType](Word.WdOMathHorizAlignType.md)** co
 
 ## Syntax
 
- _expression_. 'Align'
+ _expression_. `Align`
 
  _expression_ An expression that returns an '[OMathMatCol](Word.OMathMatCol.md)' object.
 

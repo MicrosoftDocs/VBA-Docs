@@ -18,7 +18,7 @@ Returns the format type of the container of the sample. Read-only.
 
 ## Syntax
 
- _expression_. 'ContainerType'
+ _expression_. `ContainerType`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

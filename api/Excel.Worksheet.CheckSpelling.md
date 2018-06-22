@@ -18,7 +18,7 @@ Checks the spelling of an object.
 
 ## Syntax
 
- _expression_. 'CheckSpelling'( '_CustomDictionary_' , '_IgnoreUppercase_' , '_AlwaysSuggest_' , '_SpellLang_' )
+ _expression_. `CheckSpelling`( `_CustomDictionary_` , `_IgnoreUppercase_` , `_AlwaysSuggest_` , `_SpellLang_` )
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the alignment (the origin of the coordinate grid) for the tiling
 
 ## Syntax
 
- _expression_. 'TextureAlignment'
+ _expression_. `TextureAlignment`
 
  _expression_ An expression that returns a [FillFormat](./Word.FillFormat.md) object.
 

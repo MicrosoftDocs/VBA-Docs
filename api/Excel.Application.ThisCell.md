@@ -18,7 +18,7 @@ Returns the cell in which the user-defined function is being called from as a  *
 
 ## Syntax
 
- _expression_. 'ThisCell'
+ _expression_. `ThisCell`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

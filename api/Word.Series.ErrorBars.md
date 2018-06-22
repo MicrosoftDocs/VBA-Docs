@@ -18,7 +18,7 @@ Returns the error bars for the series. Read-only  **[ErrorBars](Word.ErrorBars.m
 
 ## Syntax
 
- _expression_. 'ErrorBars'
+ _expression_. `ErrorBars`
 
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 

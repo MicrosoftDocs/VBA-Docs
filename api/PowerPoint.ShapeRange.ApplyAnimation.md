@@ -18,7 +18,7 @@ Applies animation to a  **ShapeRange** object.
 
 ## Syntax
 
- _expression_. 'ApplyAnimation'
+ _expression_. `ApplyAnimation`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

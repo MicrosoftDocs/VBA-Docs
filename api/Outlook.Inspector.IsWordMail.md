@@ -18,7 +18,7 @@ Determines whether the mail message associated with an inspector is displayed in
 
 ## Syntax
 
- _expression_. 'IsWordMail'
+ _expression_. `IsWordMail`
 
  _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 

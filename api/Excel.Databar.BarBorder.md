@@ -18,7 +18,7 @@ Returns an object that specifies the border of a data bar. Read-only
 
 ## Syntax
 
- _expression_. 'BarBorder'
+ _expression_. `BarBorder`
 
  _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 

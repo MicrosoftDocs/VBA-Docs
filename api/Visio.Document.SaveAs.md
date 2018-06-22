@@ -18,7 +18,7 @@ Saves a document and gives it a file name.
 
 ## Syntax
 
- _expression_. 'SaveAs'( '_FileName_' )
+ _expression_. `SaveAs`( `_FileName_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

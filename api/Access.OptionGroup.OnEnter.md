@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Enter** box in the **Properties** window 
 
 ## Syntax
 
- _expression_. 'OnEnter'
+ _expression_. `OnEnter`
 
  _expression_ A variable that represents an [OptionGroup](./Access.OptionGroup.md) object.
 

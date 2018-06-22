@@ -18,7 +18,7 @@ The  **SetOption** method sets the current value of an option in the **Access Op
 
 ## Syntax
 
- _expression_. 'SetOption'( ' _OptionName_', ' _Setting_' )
+ _expression_. `SetOption`( ` _OptionName_`, ` _Setting_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

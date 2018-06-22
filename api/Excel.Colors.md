@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets colors in the palette for a Chart object. The palette has 56 entries, each represented by an RGB value. Read/write Variant.
 
- _expression_. 'Colors'( '_Index_')
+ _expression_. `Colors`( `_Index_`)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

@@ -18,7 +18,7 @@ Returns the parent for the specified object. Read-only  **Object** .
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ A variable that represents an '[Axes](Word.Axes.md)' object.
 

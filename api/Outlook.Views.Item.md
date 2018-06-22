@@ -18,7 +18,7 @@ Returns an  **[View](Outlook.View.md)** object from the collection.
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents a [Views](./Outlook.Views.md) object.
 

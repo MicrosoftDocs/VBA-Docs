@@ -18,7 +18,7 @@ Removes character formatting (formatting that has been applied manually using th
 
 ## Syntax
 
- _expression_. 'ClearCharacterDirectFormatting'
+ _expression_. `ClearCharacterDirectFormatting`
 
  _expression_ An expression that returns a '[Selection](Word.Selection.md)' object.
 

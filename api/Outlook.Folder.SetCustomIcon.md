@@ -18,7 +18,7 @@ Sets a custom icon that is specified by  _Picture_ for the folder.
 
 ## Syntax
 
- _expression_. 'SetCustomIcon'( '_Picture_' )
+ _expression_. `SetCustomIcon`( `_Picture_` )
 
  _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 

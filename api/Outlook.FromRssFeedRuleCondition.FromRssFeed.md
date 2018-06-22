@@ -18,7 +18,7 @@ Returns or sets an array of  **String** elements that represent the RSS subscrip
 
 ## Syntax
 
- _expression_. 'FromRssFeed'
+ _expression_. `FromRssFeed`
 
  _expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.FromRssFeedRuleCondition.md) object.
 

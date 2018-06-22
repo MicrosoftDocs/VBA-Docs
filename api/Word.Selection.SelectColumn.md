@@ -18,7 +18,7 @@ Selects the column that contains the insertion point, or selects all columns tha
 
 ## Syntax
 
- _expression_. 'SelectColumn'
+ _expression_. `SelectColumn`
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 

@@ -18,7 +18,7 @@ Returns the [GradientStops](http://msdn.microsoft.com/library/365949f0-29b3-76e1
 
 ## Syntax
 
- _expression_. 'GradientStops'
+ _expression_. `GradientStops`
 
  _expression_ An expression that returns a [FillFormat](./Word.FillFormat.md) object.
 

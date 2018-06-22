@@ -18,7 +18,7 @@ Determines whether or not an object is currently enabled. Read/write.
 
 ## Syntax
 
- _expression_. 'Enabled'
+ _expression_. `Enabled`
 
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 

@@ -18,7 +18,7 @@ You can use the  **CurrentObjectType** property together with the **[Application
 
 ## Syntax
 
- _expression_. 'CurrentObjectType'
+ _expression_. `CurrentObjectType`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

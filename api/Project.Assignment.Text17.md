@@ -15,7 +15,7 @@ Gets or sets the value of a local Text custom field for the assignment. Read/wri
 
 ## Syntax
 
- _expression_. 'Text17'
+ _expression_. `Text17`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

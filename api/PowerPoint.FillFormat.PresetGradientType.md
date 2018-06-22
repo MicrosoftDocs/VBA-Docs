@@ -18,7 +18,7 @@ Returns the preset gradient type for the specified fill. Read-only.
 
 ## Syntax
 
- _expression_. 'PresetGradientType'
+ _expression_. `PresetGradientType`
 
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 

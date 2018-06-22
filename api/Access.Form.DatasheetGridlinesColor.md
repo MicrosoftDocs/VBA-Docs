@@ -18,7 +18,7 @@ You can use the  **DatasheetGridlinesColor** property to specify the color of gr
 
 ## Syntax
 
- _expression_. 'DatasheetGridlinesColor'
+ _expression_. `DatasheetGridlinesColor`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

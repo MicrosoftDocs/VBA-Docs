@@ -15,7 +15,7 @@ Gets or sets the actual work (in minutes) for the task. Read-only for summary ta
 
 ## Syntax
 
- _expression_. 'ActualWork'
+ _expression_. `ActualWork`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

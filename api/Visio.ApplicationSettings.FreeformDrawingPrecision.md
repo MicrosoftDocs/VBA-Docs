@@ -18,7 +18,7 @@ Determines the margin of error allowed when the  **Freeform** tool is drawing a 
 
 ## Syntax
 
- _expression_. 'FreeformDrawingPrecision'
+ _expression_. `FreeformDrawingPrecision`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

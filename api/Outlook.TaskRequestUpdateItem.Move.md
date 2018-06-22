@@ -18,7 +18,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 ## Syntax
 
- _expression_. 'Move'( '_DestFldr_' )
+ _expression_. `Move`( `_DestFldr_` )
 
  _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 

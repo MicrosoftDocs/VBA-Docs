@@ -18,7 +18,7 @@ Fills the specified shape with small tiles of an image.
 
 ## Syntax
 
- _expression_. 'UserTextured'( '_TextureFile_' )
+ _expression_. `UserTextured`( `_TextureFile_` )
 
  _expression_ Required. A variable that represents a '[FillFormat](Word.FillFormat.md)' object.
 

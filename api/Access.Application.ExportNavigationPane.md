@@ -18,7 +18,7 @@ Saves the current configuration of the Navigation Pane to an XML file.
 
 ## Syntax
 
- _expression_. 'ExportNavigationPane'( ' _Path_' )
+ _expression_. `ExportNavigationPane`( ` _Path_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

@@ -18,7 +18,7 @@ Converts an equation to normal text.
 
 ## Syntax
 
- _expression_. 'ConvertToNormalText'
+ _expression_. `ConvertToNormalText`
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

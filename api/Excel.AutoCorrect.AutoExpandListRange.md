@@ -18,7 +18,7 @@ A  **Boolean** value indicating whether automatic expansion is enabled for lists
 
 ## Syntax
 
- _expression_. 'AutoExpandListRange'
+ _expression_. `AutoExpandListRange`
 
  _expression_ A variable that represents an [AutoCorrect](./Excel.AutoCorrect(Graph property).md) object.
 

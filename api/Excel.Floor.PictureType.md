@@ -18,7 +18,7 @@ Returns or sets a  **Variant** value that represents the way pictures are displa
 
 ## Syntax
 
- _expression_. 'PictureType'
+ _expression_. `PictureType`
 
  _expression_ A variable that represents a [Floor](./Excel.Floor(Graph property).md) object.
 

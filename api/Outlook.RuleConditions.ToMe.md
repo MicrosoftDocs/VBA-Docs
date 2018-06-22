@@ -18,7 +18,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 ## Syntax
 
- _expression_. 'ToMe'
+ _expression_. `ToMe`
 
  _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
 

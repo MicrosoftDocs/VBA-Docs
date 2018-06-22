@@ -15,7 +15,7 @@ Gets or sets the day of the month for a monthly type of exception. Read/write  *
 
 ## Syntax
 
- _expression_. 'MonthDay'
+ _expression_. `MonthDay`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

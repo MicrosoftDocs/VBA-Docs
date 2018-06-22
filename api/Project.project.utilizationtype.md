@@ -13,7 +13,7 @@ If the [Project.UtilizationType Property (Project)](project-utilizationtype-prop
 
 ## Syntax
 
- _expression_. 'UtilizationType'
+ _expression_. `UtilizationType`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

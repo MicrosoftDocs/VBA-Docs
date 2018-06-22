@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets the primary color of the Border object, Font object, or the Interior object. Use the RGB function to create a color value. Read/write Variant.
 
- _expression_. 'Color'
+ _expression_. `Color`
 
  _expression_ Required. An expression that returns an object in the Applies To List.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ A variable that represents a [ProtectedViewWindows](./Excel.ProtectedViewWindows.md) object.
 

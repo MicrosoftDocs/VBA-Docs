@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Mail
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ An expression that returns a [MailMergeFieldNames](./Word.MailMergeFieldNames.md) object.
 

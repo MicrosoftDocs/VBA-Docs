@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns an object that represents either a single series or a collection of all the series in the chart or chart group.
 
- _expression_. 'SeriesCollection'( '_Index_')
+ _expression_. `SeriesCollection`( `_Index_`)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

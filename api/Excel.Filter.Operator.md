@@ -18,7 +18,7 @@ Returns an  **[XlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that
 
 ## Syntax
 
- _expression_. 'Operator'
+ _expression_. `Operator`
 
  _expression_ A variable that represents a [Filter](./Excel.Filter.md) object.
 

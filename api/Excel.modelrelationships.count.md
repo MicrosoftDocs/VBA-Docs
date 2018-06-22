@@ -16,7 +16,7 @@ Returns a  **Long** value that represents the number of a[ModelRelationship Obje
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a[ModelRelationships Object (Excel)](modelrelationships-object-excel.md) object.
 

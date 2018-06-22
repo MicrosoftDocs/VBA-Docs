@@ -18,7 +18,7 @@ Returns or sets the number of points that are cropped off the bottom of the spec
 
 ## Syntax
 
- _expression_. 'CropBottom'
+ _expression_. `CropBottom`
 
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 

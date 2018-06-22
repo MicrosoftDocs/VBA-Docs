@@ -18,7 +18,7 @@ Occurs when any worksheet is double-clicked, before the default double-click act
 
 ## Syntax
 
- _expression_. 'SheetBeforeDoubleClick'( '_Sh_' , '_Target_' , '_Cancel_' )
+ _expression_. `SheetBeforeDoubleClick`( `_Sh_` , `_Target_` , `_Cancel_` )
 
  _expression_ An expression that returns a [Application](./Excel.Application(Graph property).md) object.
 

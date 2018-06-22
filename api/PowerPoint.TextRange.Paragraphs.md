@@ -18,7 +18,7 @@ Returns a  **TextRange** object that represents the specified subset of text par
 
 ## Syntax
 
- _expression_. 'Paragraphs'( '_Start_', '_Length_' )
+ _expression_. `Paragraphs`( `_Start_`, `_Length_` )
 
  _expression_ An expression that returns a [TextRange](./PowerPoint.TextRange.md) object.
 

@@ -15,7 +15,7 @@ Deprecated in Project.
 
 ## Syntax
 
- _expression_. 'ReportList'
+ _expression_. `ReportList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

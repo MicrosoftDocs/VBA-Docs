@@ -18,7 +18,7 @@ Returns the specified window, for a  **[Windows](Excel.Windows.md)** object.
 
 ## Syntax
 
- _expression_. 'Selection'
+ _expression_. `Selection`
 
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 

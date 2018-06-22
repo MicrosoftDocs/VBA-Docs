@@ -18,7 +18,7 @@ Returns or sets the user's initials, which Microsoft Word uses to construct comm
 
 ## Syntax
 
- _expression_. 'UserInitials'
+ _expression_. `UserInitials`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

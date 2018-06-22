@@ -18,7 +18,7 @@ Gets or sets whether the user is allowed to enter Report view while using the sp
 
 ## Syntax
 
- _expression_. 'AllowReportView'
+ _expression_. `AllowReportView`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

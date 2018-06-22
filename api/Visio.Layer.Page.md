@@ -18,7 +18,7 @@ Gets the page that contains the layer. Read-only.
 
 ## Syntax
 
- _expression_. 'Page'
+ _expression_. `Page`
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 

@@ -18,7 +18,7 @@ Returns the type of link for a  **Field** object. Read-only **[WdFieldKind](Word
 
 ## Syntax
 
- _expression_. 'Kind'
+ _expression_. `Kind`
 
  _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 

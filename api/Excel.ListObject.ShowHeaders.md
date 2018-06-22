@@ -18,7 +18,7 @@ Returns or sets if the header information should be displayed for the specified 
 
 ## Syntax
 
- _expression_. 'ShowHeaders'
+ _expression_. `ShowHeaders`
 
  _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 

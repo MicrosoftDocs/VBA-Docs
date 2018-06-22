@@ -18,7 +18,7 @@ Returns or sets the degree of blurriness of the specified shadow. Read/write  **
 
 ## Syntax
 
- _expression_. 'Blur'
+ _expression_. `Blur`
 
  _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 

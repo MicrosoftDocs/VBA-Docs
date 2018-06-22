@@ -18,7 +18,7 @@ Sets the date range for the sparkline group.
 
 ## Syntax
 
- _expression_. 'ModifyDateRange'( '_DateRange_' )
+ _expression_. `ModifyDateRange`( `_DateRange_` )
 
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 

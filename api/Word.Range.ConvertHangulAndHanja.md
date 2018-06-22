@@ -18,7 +18,7 @@ Converts the specified range from hangul to hanja or vice versa.
 
 ## Syntax
 
- _expression_. 'ConvertHangulAndHanja'( '_ConversionsMode_' , '_FastConversion_' , '_CheckHangulEnding_' , '_EnableRecentOrdering_' , '_CustomDictionary_' )
+ _expression_. `ConvertHangulAndHanja`( `_ConversionsMode_` , `_FastConversion_` , `_CheckHangulEnding_` , `_EnableRecentOrdering_` , `_CustomDictionary_` )
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

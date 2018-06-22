@@ -18,7 +18,7 @@ Applies a design template to the specified slide range.
 
 ## Syntax
 
- _expression_. 'ApplyTemplate'( '_FileName_' )
+ _expression_. `ApplyTemplate`( `_FileName_` )
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

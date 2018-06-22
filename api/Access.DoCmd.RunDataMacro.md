@@ -18,7 +18,7 @@ Use the  **RunDataMacro** method to run a named data macro from Visual Basic.
 
 ## Syntax
 
- _expression_. 'RunDataMacro'( ' _MacroName_' )
+ _expression_. `RunDataMacro`( ` _MacroName_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

@@ -18,7 +18,7 @@ Cuts the selected items.
 
 ## Syntax
 
- _expression_. 'EditCut'
+ _expression_. `EditCut`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

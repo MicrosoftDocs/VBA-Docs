@@ -18,7 +18,7 @@ Gets or sets the bevel effect applied to the specified object. Read/write  **Lon
 
 ## Syntax
 
- _expression_. 'Bevel'
+ _expression_. `Bevel`
 
  _expression_ A variable that represents a [NavigationButton](./Access.NavigationButton.md) object.
 

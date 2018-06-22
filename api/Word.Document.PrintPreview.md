@@ -18,7 +18,7 @@ Switches the view to print preview.
 
 ## Syntax
 
- _expression_. 'PrintPreview'
+ _expression_. `PrintPreview`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

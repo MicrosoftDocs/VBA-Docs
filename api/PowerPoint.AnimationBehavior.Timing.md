@@ -18,7 +18,7 @@ Returns a  **[Timing](PowerPoint.Timing.md)** object that represents the timing 
 
 ## Syntax
 
- _expression_. 'Timing'
+ _expression_. `Timing`
 
  _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 

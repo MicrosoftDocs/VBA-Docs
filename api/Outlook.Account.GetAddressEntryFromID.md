@@ -18,7 +18,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents t
 
 ## Syntax
 
- _expression_. 'GetAddressEntryFromID'( '_ID_' )
+ _expression_. `GetAddressEntryFromID`( `_ID_` )
 
  _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 

@@ -18,7 +18,7 @@ Returns a single  **Cell** object from the specified **CellRange** collection.
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents a [CellRange](./PowerPoint.CellRange.md) object.
 

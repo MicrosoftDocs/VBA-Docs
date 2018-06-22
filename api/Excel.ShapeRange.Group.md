@@ -18,7 +18,7 @@ Groups the shapes in the specified range.
 
 ## Syntax
 
- _expression_. 'Group'
+ _expression_. `Group`
 
  _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 

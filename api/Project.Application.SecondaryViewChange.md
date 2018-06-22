@@ -15,7 +15,7 @@ Event occurs when a secondary view pane changes within a project window.
 
 ## Syntax
 
- _expression_. 'SecondaryViewChange'( ' _Window_', ' _prevView_', ' _newView_', ' _success_' )
+ _expression_. `SecondaryViewChange`( ` _Window_`, ` _prevView_`, ` _newView_`, ` _success_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

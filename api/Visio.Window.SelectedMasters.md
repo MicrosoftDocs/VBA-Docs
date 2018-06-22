@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'SelectedMasters'
+ _expression_. `SelectedMasters`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

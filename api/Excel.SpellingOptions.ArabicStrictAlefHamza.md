@@ -18,7 +18,7 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words b
 
 ## Syntax
 
- _expression_. 'ArabicStrictAlefHamza'
+ _expression_. `ArabicStrictAlefHamza`
 
  _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 

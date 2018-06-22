@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the range c
 
 ## Syntax
 
- _expression_. 'CircularReference'
+ _expression_. `CircularReference`
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

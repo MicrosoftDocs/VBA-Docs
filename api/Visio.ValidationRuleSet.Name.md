@@ -18,7 +18,7 @@ Specifies the name of the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** o
 
 ## Syntax
 
- _expression_. 'Name'
+ _expression_. `Name`
 
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 

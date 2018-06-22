@@ -18,7 +18,7 @@ Creates a new  **ToolbarItem** object at a specified index in the **ToolbarItems
 
 ## Syntax
 
- _expression_. 'AddAt'( '_lIndex_' )
+ _expression_. `AddAt`( `_lIndex_` )
 
  _expression_ A variable that represents a [ToolbarItems](./Visio.ToolbarItems.md) object.
 

@@ -18,7 +18,7 @@ Sets font-mapping options.
 
 ## Syntax
 
- _expression_. 'SubstituteFont'( '_UnavailableFont_' , '_SubstituteFont_' )
+ _expression_. `SubstituteFont`( `_UnavailableFont_` , `_SubstituteFont_` )
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

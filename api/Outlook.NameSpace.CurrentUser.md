@@ -18,7 +18,7 @@ Returns the display name of the currently logged-on user as a  **[Recipient](Out
 
 ## Syntax
 
- _expression_. 'CurrentUser'
+ _expression_. `CurrentUser`
 
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 

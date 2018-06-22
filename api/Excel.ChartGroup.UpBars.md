@@ -18,7 +18,7 @@ Returns an  **[UpBars](Excel.UpBars(objec).md)** object that represents the up b
 
 ## Syntax
 
- _expression_. 'UpBars'
+ _expression_. `UpBars`
 
  _expression_ A variable that represents a [ChartGroup](./Excel.ChartGroup(Graph object).md) object.
 

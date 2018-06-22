@@ -18,7 +18,7 @@ Returns a  **WdMailMergeMailFormat** constant that represents the format to use 
 
 ## Syntax
 
- _expression_. 'MailFormat'
+ _expression_. `MailFormat`
 
  _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 

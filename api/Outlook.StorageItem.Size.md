@@ -18,7 +18,7 @@ Returns a  **Long** indicating the size (in bytes) of the **[StorageItem](Outloo
 
 ## Syntax
 
- _expression_. 'Size'
+ _expression_. `Size`
 
  _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
 

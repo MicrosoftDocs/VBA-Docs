@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents that the equations in an equation
 
 ## Syntax
 
- _expression_. 'MaxDist'
+ _expression_. `MaxDist`
 
  _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 

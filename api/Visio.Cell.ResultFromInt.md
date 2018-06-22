@@ -18,7 +18,7 @@ Sets the value of a cell to an integer value. Read/write.
 
 ## Syntax
 
- _expression_. 'ResultFromInt'( '_UnitsNameOrCode_' )
+ _expression_. `ResultFromInt`( `_UnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

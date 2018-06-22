@@ -18,7 +18,7 @@ The  **TextWidth** method returns the width of a text string as it would be prin
 
 ## Syntax
 
- _expression_. 'TextWidth'( ' _Expr_' )
+ _expression_. `TextWidth`( ` _Expr_` )
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

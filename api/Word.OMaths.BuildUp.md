@@ -18,7 +18,7 @@ Converts all equations in the collection to professional format.
 
 ## Syntax
 
- _expression_. 'BuildUp'
+ _expression_. `BuildUp`
 
  _expression_ An expression that returns an [OMaths](./Word.OMaths.md) object.
 

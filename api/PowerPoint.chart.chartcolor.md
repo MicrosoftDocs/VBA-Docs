@@ -16,7 +16,7 @@ Returns or sets an integer that represents the color scheme for the chart. Read-
 
 ## Syntax
 
- _expression_. 'ChartColor'
+ _expression_. `ChartColor`
 
  _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

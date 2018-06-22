@@ -18,7 +18,7 @@ Returns the number of items in the  **OMathFunctions** collection. Read-only **L
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a '[OMathFunctions](Word.OMathFunctions.md)' object.
 

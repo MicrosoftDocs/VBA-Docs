@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the mileage for a **[SharingItem](Out
 
 ## Syntax
 
- _expression_. 'Mileage'
+ _expression_. `Mileage`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

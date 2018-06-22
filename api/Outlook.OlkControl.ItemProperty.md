@@ -18,7 +18,7 @@ Returns or sets a  **String** that specifies the name of the property in the Out
 
 ## Syntax
 
- _expression_. 'ItemProperty'
+ _expression_. `ItemProperty`
 
  _expression_ A variable that represents an 'OlkControl' object.
 

@@ -18,7 +18,7 @@ Determines whether snap is active in the document. Read/write.
 
 ## Syntax
 
- _expression_. 'SnapEnabled'
+ _expression_. `SnapEnabled`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

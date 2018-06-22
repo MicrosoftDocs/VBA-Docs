@@ -18,7 +18,7 @@ Returns or sets the formula that the name refers to. The formula is in the langu
 
 ## Syntax
 
- _expression_. 'RefersToR1C1'
+ _expression_. `RefersToR1C1`
 
  _expression_ A variable that represents a [Name](./Excel.Name.md) object.
 

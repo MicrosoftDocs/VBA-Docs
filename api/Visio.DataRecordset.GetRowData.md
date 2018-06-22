@@ -21,7 +21,7 @@ Gets the data in all columns in the specified row.
 
 ## Syntax
 
- _expression_. 'GetRowData'( '_DataRowID_' )
+ _expression_. `GetRowData`( `_DataRowID_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

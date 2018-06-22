@@ -18,7 +18,7 @@ Applies the filter to the current view.
 
 ## Syntax
 
- _expression_. 'Apply'( ' _Highlight_' )
+ _expression_. `Apply`( ` _Highlight_` )
 
  _expression_ An expression that returns a [Filter](./Project.Filter.md) object.
 

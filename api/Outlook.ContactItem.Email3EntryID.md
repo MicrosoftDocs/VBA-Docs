@@ -18,7 +18,7 @@ Returns a  **String** representing the entry ID of the third e-mail entry for th
 
 ## Syntax
 
- _expression_. 'Email3EntryID'
+ _expression_. `Email3EntryID`
 
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 

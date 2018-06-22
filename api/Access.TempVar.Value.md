@@ -18,7 +18,7 @@ Gets or sets the value of the specified  **[TempVar](Access.TempVar.md)**. Read/
 
 ## Syntax
 
- _expression_. 'Value'
+ _expression_. `Value`
 
  _expression_ A variable that represents a [TempVar](./Access.TempVar.md) object.
 

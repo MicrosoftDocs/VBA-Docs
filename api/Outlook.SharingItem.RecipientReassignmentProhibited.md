@@ -18,7 +18,7 @@ Returns a  **Boolean** that indicates **true** if the recipient cannot forward t
 
 ## Syntax
 
- _expression_. 'RecipientReassignmentProhibited'
+ _expression_. `RecipientReassignmentProhibited`
 
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 

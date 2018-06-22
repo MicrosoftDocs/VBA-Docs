@@ -18,7 +18,7 @@ Loads a saved Navigation Pane configuration from disk.
 
 ## Syntax
 
- _expression_. 'ImportNavigationPane'( ' _Path_', ' _fAppendOnly_' )
+ _expression_. `ImportNavigationPane`( ` _Path_`, ` _fAppendOnly_` )
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

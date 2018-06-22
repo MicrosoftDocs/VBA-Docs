@@ -18,7 +18,7 @@ Returns an  **[AddIns](Excel.AddIns.md)** collection that represents all the add
 
 ## Syntax
 
- _expression_. 'AddIns'
+ _expression_. `AddIns`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

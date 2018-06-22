@@ -18,7 +18,7 @@ Sets the direction of text in a text range to read from right to left.
 
 ## Syntax
 
- _expression_. 'RtlRun'
+ _expression_. `RtlRun`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

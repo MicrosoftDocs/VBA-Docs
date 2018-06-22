@@ -11,7 +11,7 @@ Gets a  **GlowFormat** object for the shape, if the shape contains glow formatti
 
 ## Syntax
 
- _expression_. 'Glow'
+ _expression_. `Glow`
 
  _expression_ A variable that represents a 'Shape' object.
 

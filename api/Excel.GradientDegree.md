@@ -17,7 +17,7 @@ Returns the gradient degree of the specified one-color shaded fill as a floating
 
 This property is read-only. Use the OneColorGradient method to set the gradient degree for the fill.
 
- _expression_. 'GradientDegree'
+ _expression_. `GradientDegree`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

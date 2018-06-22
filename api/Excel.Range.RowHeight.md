@@ -18,7 +18,7 @@ Returns or sets the height of the first row in the range specified, measured in 
 
 ## Syntax
 
- _expression_. 'RowHeight'
+ _expression_. `RowHeight`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

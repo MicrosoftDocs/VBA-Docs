@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** indicating whether a report will be centered auto
 
 ## Syntax
 
- _expression_. 'AutoCenter'
+ _expression_. `AutoCenter`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

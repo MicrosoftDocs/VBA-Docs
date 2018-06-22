@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents all the pre
 
 ## Syntax
 
- _expression_. 'Precedents'
+ _expression_. `Precedents`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

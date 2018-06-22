@@ -15,7 +15,7 @@ Occurs when any protected view window is activated.
 
 ## Syntax
 
- _expression_. 'ProtectedViewWindowActivate'( '_PvWindow_' , )
+ _expression_. `ProtectedViewWindowActivate`( `_PvWindow_` , )
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 

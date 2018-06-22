@@ -18,7 +18,7 @@ Returns or sets a  **Long** indicating the number of columns to print across a p
 
 ## Syntax
 
- _expression_. 'ItemsAcross'
+ _expression_. `ItemsAcross`
 
  _expression_ A variable that represents a [Printer](./Access.Printer.md) object.
 

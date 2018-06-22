@@ -18,7 +18,7 @@ You can use the  **RunningSum** property to calculate record-by-record or group-
 
 ## Syntax
 
- _expression_. 'RunningSum'
+ _expression_. `RunningSum`
 
  _expression_ A variable that represents a [TextBox](./Access.TextBox.md) object.
 

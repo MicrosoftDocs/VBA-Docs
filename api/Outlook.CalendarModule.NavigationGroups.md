@@ -18,7 +18,7 @@ Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that conta
 
 ## Syntax
 
- _expression_. 'NavigationGroups'
+ _expression_. `NavigationGroups`
 
  _expression_ A variable that represents a [CalendarModule](./Outlook.CalendarModule.md) object.
 

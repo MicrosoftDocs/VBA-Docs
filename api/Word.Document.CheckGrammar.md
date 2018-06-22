@@ -18,7 +18,7 @@ Begins a spelling and grammar check for the specified document or range.
 
 ## Syntax
 
- _expression_. 'CheckGrammar'
+ _expression_. `CheckGrammar`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

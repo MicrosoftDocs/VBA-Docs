@@ -18,7 +18,7 @@ Returns or sets a  **Date** value that represents the start date and time of the
 
 ## Syntax
 
- _expression_. 'StartUTC'
+ _expression_. `StartUTC`
 
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 

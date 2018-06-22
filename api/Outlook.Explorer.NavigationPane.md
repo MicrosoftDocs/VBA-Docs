@@ -18,7 +18,7 @@ Returns a  **[NavigationPane](Outlook.NavigationPane.md)** object that represent
 
 ## Syntax
 
- _expression_. 'NavigationPane'
+ _expression_. `NavigationPane`
 
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 

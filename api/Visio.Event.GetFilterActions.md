@@ -18,7 +18,7 @@ Returns an array of the filter actions set for the  **Event** object.
 
 ## Syntax
 
- _expression_. 'GetFilterActions'
+ _expression_. `GetFilterActions`
 
  _expression_ An expression that returns a [Event](./Visio.Event.md) object.
 

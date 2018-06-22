@@ -18,7 +18,7 @@ Returns or sets a  **Long** that represents the number of columns in the banding
 
 ## Syntax
 
- _expression_. 'ColumnStripe'
+ _expression_. `ColumnStripe`
 
  _expression_ A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 

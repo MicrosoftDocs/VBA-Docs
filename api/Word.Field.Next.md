@@ -18,7 +18,7 @@ Returns the next object in the collection. Read-only.
 
 ## Syntax
 
- _expression_. 'Next'
+ _expression_. `Next`
 
  _expression_ A variable that represents a '[Field](Word.Field.md)' object.
 

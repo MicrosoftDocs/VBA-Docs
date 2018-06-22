@@ -18,7 +18,7 @@ Gets or sets the width of the bottom gridline for the specified frame. Read/writ
 
 ## Syntax
 
- _expression_. 'GridlineStyleLeft'
+ _expression_. `GridlineStyleLeft`
 
  _expression_ A variable that represents a [BoundObjectFrame](./Access.BoundObjectFrame.md) object.
 

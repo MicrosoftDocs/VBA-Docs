@@ -18,7 +18,7 @@ The  **GUID** property of a **[Reference](Access.Reference.md)** object returns 
 
 ## Syntax
 
- _expression_. 'Guid'
+ _expression_. `Guid`
 
  _expression_ A variable that represents a [Reference](./Access.Reference.md) object.
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 True if the value axis crosses the category axis between categories. Read/write Boolean.
 
- _expression_. 'AxisBetweenCategories'
+ _expression_. `AxisBetweenCategories`
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

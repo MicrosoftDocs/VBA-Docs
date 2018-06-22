@@ -18,7 +18,7 @@ Converts endnotes to footnotes, or vice versa.
 
 ## Syntax
 
- _expression_. 'Convert'
+ _expression_. `Convert`
 
  _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' object.
 

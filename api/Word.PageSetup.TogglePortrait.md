@@ -18,7 +18,7 @@ Switches between portrait and landscape page orientations for a document or sect
 
 ## Syntax
 
- _expression_. 'TogglePortrait'
+ _expression_. `TogglePortrait`
 
  _expression_ Required. A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 

@@ -18,7 +18,7 @@ Returns the  **[Folders](Outlook.Folders.md)** collection that represents all th
 
 ## Syntax
 
- _expression_. 'Folders'
+ _expression_. `Folders`
 
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 

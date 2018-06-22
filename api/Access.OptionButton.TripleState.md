@@ -18,7 +18,7 @@ You can use the  **TripleState** property to specify how the specified control w
 
 ## Syntax
 
- _expression_. 'TripleState'
+ _expression_. `TripleState`
 
  _expression_ A variable that represents an [OptionButton](./Access.OptionButton.md) object.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'IsPictureBullet'
+ _expression_. `IsPictureBullet`
 
  _expression_ An expression that returns a '[InlineShape](Word.InlineShape.md)' object.
 

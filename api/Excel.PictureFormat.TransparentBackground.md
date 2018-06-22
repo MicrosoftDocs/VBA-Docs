@@ -18,7 +18,7 @@ Use the  **[TransparencyColor](Excel.PictureFormat.TransparencyColor.md)** prope
 
 ## Syntax
 
- _expression_. 'TransparentBackground'
+ _expression_. `TransparentBackground`
 
  _expression_ A variable that represents a [PictureFormat](./Excel.PictureFormat.md) object.
 

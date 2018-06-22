@@ -18,7 +18,7 @@ Adds one or more new series to the  **SeriesCollection** collection.
 
 ## Syntax
 
- _expression_. 'Add'( '_Source_' , '_Rowcol_' , '_SeriesLabels_' , '_CategoryLabels_' , '_Replace_' )
+ _expression_. `Add`( `_Source_` , `_Rowcol_` , `_SeriesLabels_` , `_CategoryLabels_` , `_Replace_` )
 
  _expression_ A variable that represents a [SeriesCollection](./Excel.SeriesCollection(object).md) object.
 

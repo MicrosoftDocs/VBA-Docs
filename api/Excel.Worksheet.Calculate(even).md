@@ -18,7 +18,7 @@ Occurs after the worksheet is recalculated, for the  **Worksheet** object.
 
 ## Syntax
 
- _expression_. 'Calculate'
+ _expression_. `Calculate`
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

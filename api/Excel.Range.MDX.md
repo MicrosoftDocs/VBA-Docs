@@ -18,7 +18,7 @@ Returns the MDX name for the specified  **Range** object. Read-only **String** .
 
 ## Syntax
 
- _expression_. 'MDX'
+ _expression_. `MDX`
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

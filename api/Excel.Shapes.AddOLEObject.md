@@ -18,7 +18,7 @@ Creates an OLE object. Returns a  **[Shape](Excel.Shape.md)** object that repres
 
 ## Syntax
 
- _expression_. 'AddOLEObject'( '_ClassType_' , '_Filename_' , '_Link_' , '_DisplayAsIcon_' , '_IconFileName_' , '_IconIndex_' , '_IconLabel_' , '_Left_' , '_Top_' , '_Width_' , '_Height_' )
+ _expression_. `AddOLEObject`( `_ClassType_` , `_Filename_` , `_Link_` , `_DisplayAsIcon_` , `_IconFileName_` , `_IconIndex_` , `_IconLabel_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 

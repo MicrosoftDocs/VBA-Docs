@@ -15,7 +15,7 @@ Gets the overtime work for a task. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. 'OvertimeWork'
+ _expression_. `OvertimeWork`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

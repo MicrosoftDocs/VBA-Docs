@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of tasks in the collection. Read-
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ Required. A variable that represents a '[Tasks](Word.tasks.md)' collection.
 

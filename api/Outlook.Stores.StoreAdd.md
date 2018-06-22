@@ -18,7 +18,7 @@ Occurs when a  **[Store](Outlook.Store.md)** has been added to the current sessi
 
 ## Syntax
 
- _expression_. 'StoreAdd'( '_Store_' )
+ _expression_. `StoreAdd`( `_Store_` )
 
  _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
 

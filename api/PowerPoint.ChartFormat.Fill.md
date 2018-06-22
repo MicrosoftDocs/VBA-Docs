@@ -18,7 +18,7 @@ Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object for the parent char
 
 ## Syntax
 
- _expression_. 'Fill'
+ _expression_. `Fill`
 
  _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.md)' object.
 

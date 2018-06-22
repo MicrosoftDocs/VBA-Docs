@@ -18,7 +18,7 @@ You can use the  **GridX** property (along with the **GridY** property) to speci
 
 ## Syntax
 
- _expression_. 'GridX'
+ _expression_. `GridX`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

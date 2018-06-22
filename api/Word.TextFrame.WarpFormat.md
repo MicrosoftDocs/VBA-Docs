@@ -18,7 +18,7 @@ Returns or sets the warp format (how the text is warped) for the specified text 
 
 ## Syntax
 
- _expression_. 'WarpFormat'
+ _expression_. `WarpFormat`
 
  _expression_ A variable that represents a '[TextFrame](Word.TextFrame.md)' object.
 

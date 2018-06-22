@@ -18,7 +18,7 @@ Returns an  **XmlMap** object that represents the schema map used for the specif
 
 ## Syntax
 
- _expression_. 'XmlMap'
+ _expression_. `XmlMap`
 
  _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 

@@ -18,7 +18,7 @@ Decreases the spacing before and after paragraphs in six-point increments.
 
 ## Syntax
 
- _expression_. 'DecreaseSpacing'
+ _expression_. `DecreaseSpacing`
 
  _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

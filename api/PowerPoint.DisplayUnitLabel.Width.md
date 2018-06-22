@@ -18,7 +18,7 @@ Returns the width, in points, of the object. Read-only.
 
 ## Syntax
 
- _expression_. 'Width'
+ _expression_. `Width`
 
  _expression_ A variable that represents a [DisplayUnitLabel](./PowerPoint.DisplayUnitLabel.md) object.
 

@@ -16,7 +16,7 @@ Returns an  **Object** that represents the parent object of the specified[ModelM
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ A variable that represents a[ModelMeasureNames Object (Excel)](modelmeasurenames-object-excel.md) object.
 

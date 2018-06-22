@@ -18,7 +18,7 @@ Returns values along a linear trend. Fits a straight line (using the method of l
 
 ## Syntax
 
- _expression_. 'Trend'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
+ _expression_. `Trend`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

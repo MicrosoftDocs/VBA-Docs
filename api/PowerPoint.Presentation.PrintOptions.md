@@ -18,7 +18,7 @@ Returns a  **[PrintOptions](PowerPoint.PrintOptions.md)** object that represents
 
 ## Syntax
 
- _expression_. 'PrintOptions'
+ _expression_. `PrintOptions`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

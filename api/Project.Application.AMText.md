@@ -18,7 +18,7 @@ Gets the text that Project displays next to morning hours in the 12-hour time fo
 
 ## Syntax
 
- _expression_. 'AMText'
+ _expression_. `AMText`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

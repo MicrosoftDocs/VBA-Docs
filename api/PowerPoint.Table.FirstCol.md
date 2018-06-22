@@ -18,7 +18,7 @@ Determines whether to display special formatting for the first column of the spe
 
 ## Syntax
 
- _expression_. 'FirstCol'
+ _expression_. `FirstCol`
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

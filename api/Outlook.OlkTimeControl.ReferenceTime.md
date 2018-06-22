@@ -18,7 +18,7 @@ Returns or sets a  **Date** that specifies a reference time used for the **olTim
 
 ## Syntax
 
- _expression_. 'ReferenceTime'
+ _expression_. `ReferenceTime`
 
  _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 

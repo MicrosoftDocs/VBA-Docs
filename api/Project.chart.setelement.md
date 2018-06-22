@@ -11,7 +11,7 @@ Adds the specified element to a chart or to a selected object on a chart.
 
 ## Syntax
 
- _expression_. 'SetElement' _(RHS)_
+ _expression_. `SetElement` _(RHS)_
 
  _expression_ A variable that represents a 'Chart' object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the amount of perspective for a sh
 
 ## Syntax
 
- _expression_. 'FieldOfView'
+ _expression_. `FieldOfView`
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

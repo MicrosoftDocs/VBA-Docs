@@ -18,7 +18,7 @@ Returns or sets the mode for the Spanish speller. Read/write [WdSpanishSpeller](
 
 ## Syntax
 
- _expression_. 'SpanishMode'
+ _expression_. `SpanishMode`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

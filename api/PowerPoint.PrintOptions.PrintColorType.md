@@ -18,7 +18,7 @@ Returns or sets the way the specified document will be printed: in black and whi
 
 ## Syntax
 
- _expression_. 'PrintColorType'
+ _expression_. `PrintColorType`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

@@ -18,7 +18,7 @@ Converts text within a range to a table. Returns the table as a  **Table** objec
 
 ## Syntax
 
- _expression_. 'ConvertToTable'( '_Separator_' , '_NumRows_' , '_NumColumns_' , '_InitialColumnWidth_' , '_Format_' , '_ApplyBorders_' , '_ApplyShading_' , '_ApplyFont_' , '_ApplyColor_' , '_ApplyHeadingRows_' , '_ApplyLastRow_' , '_ApplyFirstColumn_' , '_ApplyLastColumn_' , '_AutoFit_' , '_AutoFitBehavior_' , '_DefaultTableBehavior_' )
+ _expression_. `ConvertToTable`( `_Separator_` , `_NumRows_` , `_NumColumns_` , `_InitialColumnWidth_` , `_Format_` , `_ApplyBorders_` , `_ApplyShading_` , `_ApplyFont_` , `_ApplyColor_` , `_ApplyHeadingRows_` , `_ApplyLastRow_` , `_ApplyFirstColumn_` , `_ApplyLastColumn_` , `_AutoFit_` , `_AutoFitBehavior_` , `_DefaultTableBehavior_` )
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

@@ -18,7 +18,7 @@ Occurs after a PivotTable report connection has been closed.
 
 ## Syntax
 
- _expression_. 'WorkbookPivotTableCloseConnection'( '_Wb_' , '_Target_' )
+ _expression_. `WorkbookPivotTableCloseConnection`( `_Wb_` , `_Target_` )
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

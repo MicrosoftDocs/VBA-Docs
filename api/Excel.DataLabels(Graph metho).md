@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns an object that represents either a single data label or a collection of all the data labels for the series.
 
- _expression_. 'DataLabels'( '_Index_')
+ _expression_. `DataLabels`( `_Index_`)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

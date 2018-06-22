@@ -18,7 +18,7 @@ Identifies an undo unit by a  **Long** . Read-only.
 
 ## Syntax
 
- _expression_. 'UnitTypeLong'
+ _expression_. `UnitTypeLong`
 
  _expression_ A variable that represents a 'IVBUndoUnit' object.
 

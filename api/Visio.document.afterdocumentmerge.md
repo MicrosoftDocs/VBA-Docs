@@ -13,7 +13,7 @@ Occurs when Visio incorporates changes from other users? versions of a document 
 
 ## Syntax
 
- _expression_. 'AfterDocumentMerge'_(coauthMergeObjects)_
+ _expression_. `AfterDocumentMerge`_(coauthMergeObjects)_
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

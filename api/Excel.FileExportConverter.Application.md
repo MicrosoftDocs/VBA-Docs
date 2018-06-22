@@ -18,7 +18,7 @@ Returns an  **[Application](Excel.Application(objec).md)** object that represent
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ A variable that represents a '[FileExportConverter](Excel.FileExportConverter.md)' object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether smart cursoring is enable
 
 ## Syntax
 
- _expression_. 'SmartCursoring'
+ _expression_. `SmartCursoring`
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 

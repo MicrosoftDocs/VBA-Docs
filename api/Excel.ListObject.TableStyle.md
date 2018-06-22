@@ -18,7 +18,7 @@ Gets or sets the table style for the specified  **ListObject** object. Read/writ
 
 ## Syntax
 
- _expression_. 'TableStyle'
+ _expression_. `TableStyle`
 
  _expression_ A variable that represents a [ListObject](./Excel.ListObject.md) object.
 

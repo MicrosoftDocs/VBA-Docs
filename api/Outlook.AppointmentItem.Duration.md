@@ -18,7 +18,7 @@ Returns or sets a  **Long** indicating the duration (in minutes) of the **[Appoi
 
 ## Syntax
 
- _expression_. 'Duration'
+ _expression_. `Duration`
 
  _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 

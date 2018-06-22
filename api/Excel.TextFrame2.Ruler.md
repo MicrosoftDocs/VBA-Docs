@@ -15,7 +15,7 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 
 ## Syntax
 
- _expression_. 'Ruler'
+ _expression_. `Ruler`
 
  _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
 

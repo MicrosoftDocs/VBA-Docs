@@ -18,7 +18,7 @@ You can use the  **CurrentY** property (along with the **CurrentX** property) to
 
 ## Syntax
 
- _expression_. 'CurrentY'
+ _expression_. `CurrentY`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

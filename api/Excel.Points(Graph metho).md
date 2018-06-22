@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns an object that represents a single point or a collection of all the points in the series. Read-only.
 
- _expression_. 'Points'( '_Index_')
+ _expression_. `Points`( `_Index_`)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

@@ -18,7 +18,7 @@ Applies a table style to the specified table.
 
 ## Syntax
 
- _expression_. 'ApplyStyle'( '_StyleID_', '_SaveFormatting_' )
+ _expression_. `ApplyStyle`( `_StyleID_`, `_SaveFormatting_` )
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'Protected'
+ _expression_. `Protected`
 
  _expression_ An expression that returns a '[KeyBinding](Word.KeyBinding.md)' object.
 

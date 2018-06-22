@@ -15,7 +15,7 @@ Gets a single  **Resource** object from the **Resources** collection. Read-only 
 
 ## Syntax
 
- _expression_. 'Item'( ' _Index_' )
+ _expression_. `Item`( ` _Index_` )
 
  _expression_ A variable that represents a 'Resources' object.
 

@@ -18,7 +18,7 @@ Removes hidden information, such as personal information and external data, from
 
 ## Syntax
 
- _expression_. 'RemoveHiddenInformation'( '_VisRemoveHiddenInfoItems_' )
+ _expression_. `RemoveHiddenInformation`( `_VisRemoveHiddenInfoItems_` )
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 

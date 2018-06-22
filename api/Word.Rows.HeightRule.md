@@ -18,7 +18,7 @@ Returns or sets the rule for determining the height of the specified cells or ro
 
 ## Syntax
 
- _expression_. 'HeightRule'
+ _expression_. `HeightRule`
 
  _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 

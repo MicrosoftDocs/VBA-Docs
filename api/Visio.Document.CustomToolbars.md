@@ -18,7 +18,7 @@ Gets a  **UIObject** object that represents the current custom toolbars and stat
 
 ## Syntax
 
- _expression_. 'CustomToolbars'
+ _expression_. `CustomToolbars`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

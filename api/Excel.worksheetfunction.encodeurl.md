@@ -16,7 +16,7 @@ URL encodes the argument.
 
 ## Syntax
 
- _expression_. 'EncodeUrl'_(Arg1)_
+ _expression_. `EncodeUrl`_(Arg1)_
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

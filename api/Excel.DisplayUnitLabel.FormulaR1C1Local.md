@@ -18,7 +18,7 @@ Gets or sets a  **String** value that represents the formula of the object using
 
 ## Syntax
 
- _expression_. 'FormulaR1C1Local'
+ _expression_. `FormulaR1C1Local`
 
  _expression_ A variable that represents a [DisplayUnitLabel](./Excel.DisplayUnitLabel(Graph property).md) object.
 

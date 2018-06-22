@@ -13,7 +13,7 @@ Returns the root object for all Timeline properties. Read/write  **object**. Int
 
 ## Syntax
 
- _expression_. 'Timeline'
+ _expression_. `Timeline`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

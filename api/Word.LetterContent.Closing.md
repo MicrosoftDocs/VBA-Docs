@@ -18,7 +18,7 @@ Returns or sets the closing text for a letter created by the Letter Wizard (for 
 
 ## Syntax
 
- _expression_. 'Closing'
+ _expression_. `Closing`
 
  _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 

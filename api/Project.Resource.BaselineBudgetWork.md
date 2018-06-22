@@ -15,7 +15,7 @@ Gets or sets the baseline budget work (in hours) for a  **Resource**. Read/write
 
 ## Syntax
 
- _expression_. 'BaselineBudgetWork'
+ _expression_. `BaselineBudgetWork`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

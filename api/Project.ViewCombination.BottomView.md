@@ -15,7 +15,7 @@ Gets or sets a  **[ViewSingle](Project.ViewSingle.md)** object representing the 
 
 ## Syntax
 
- _expression_. 'BottomView'
+ _expression_. `BottomView`
 
  _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 

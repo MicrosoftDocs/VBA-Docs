@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'HasBorderVertical'
+ _expression_. `HasBorderVertical`
 
  _expression_ A variable that represents a [DataTable](./Excel.DataTable(Graph property).md) object.
 

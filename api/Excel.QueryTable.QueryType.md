@@ -18,7 +18,7 @@ Indicates the type of query used by Microsoft Excel to populate the query table.
 
 ## Syntax
 
- _expression_. 'QueryType'
+ _expression_. `QueryType`
 
  _expression_ A variable that represents a [QueryTable](./Excel.QueryTable.md) object.
 

@@ -18,7 +18,7 @@ Adds the specified number of rows to a ShapeSheet section at a specified positio
 
 ## Syntax
 
- _expression_. 'AddRows'( '_Section_' , '_Row_' , '_RowTag_' , '_RowCount_' )
+ _expression_. `AddRows`( `_Section_` , `_Row_` , `_RowTag_` , `_RowCount_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

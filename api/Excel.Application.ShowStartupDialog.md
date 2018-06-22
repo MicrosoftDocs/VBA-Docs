@@ -18,7 +18,7 @@ Returns  **True** (default is **False** ) when the New Workbook task pane appear
 
 ## Syntax
 
- _expression_. 'ShowStartupDialog'
+ _expression_. `ShowStartupDialog`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

@@ -18,7 +18,7 @@ Occurs before a new shortcut is added to a group in the  **Shortcuts** pane, eit
 
 ## Syntax
 
- _expression_. 'BeforeShortcutAdd'( '_Cancel_' )
+ _expression_. `BeforeShortcutAdd`( `_Cancel_` )
 
  _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
 

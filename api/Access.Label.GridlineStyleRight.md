@@ -18,7 +18,7 @@ Gets or sets the right gridline style of the specified label. Read/write  **Byte
 
 ## Syntax
 
- _expression_. 'GridlineStyleRight'
+ _expression_. `GridlineStyleRight`
 
  _expression_ A variable that represents a [Label](./Access.Label.md) object.
 

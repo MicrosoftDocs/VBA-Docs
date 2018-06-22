@@ -18,7 +18,7 @@ Returns or sets a  **Float** that represents the height (in points) of the speci
 
 ## Syntax
 
- _expression_. 'Height'
+ _expression_. `Height`
 
  _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 

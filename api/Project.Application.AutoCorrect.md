@@ -18,7 +18,7 @@ Displays the  **AutoCorrect** dialog box.
 
 ## Syntax
 
- _expression_. 'AutoCorrect'
+ _expression_. `AutoCorrect`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

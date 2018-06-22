@@ -18,7 +18,7 @@ Returns or sets the name of the style that's linked to the specified  **ListLeve
 
 ## Syntax
 
- _expression_. 'LinkedStyle'
+ _expression_. `LinkedStyle`
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 

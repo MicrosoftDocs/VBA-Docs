@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of pixels from the top of the pag
 
 ## Syntax
 
- _expression_. 'Top'
+ _expression_. `Top`
 
  _expression_ An expression that represents a '[Line](Word.Line.md)' object.
 

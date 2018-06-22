@@ -18,7 +18,7 @@ Returns a  **BuildingBlock** object that represents the placeholder text for a c
 
 ## Syntax
 
- _expression_. 'PlaceholderText'
+ _expression_. `PlaceholderText`
 
  _expression_ An expression that returns a '[ContentControl](Word.ContentControl.md)' object.
 

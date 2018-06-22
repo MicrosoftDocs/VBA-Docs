@@ -18,7 +18,7 @@ Returns a  **Variant** that represents a picture representation of how a range o
 
 ## Syntax
 
- _expression_. 'EnhMetaFileBits'
+ _expression_. `EnhMetaFileBits`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

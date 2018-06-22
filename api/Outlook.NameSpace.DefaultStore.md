@@ -18,7 +18,7 @@ Returns a  **[Store](Outlook.Store.md)** object representing the default Store f
 
 ## Syntax
 
- _expression_. 'DefaultStore'
+ _expression_. `DefaultStore`
 
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 

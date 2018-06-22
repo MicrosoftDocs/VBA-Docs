@@ -18,7 +18,7 @@ Creates a shape whose path is defined by the supplied sequence of Bezier control
 
 ## Syntax
 
- _expression_. 'DrawBezier'( '_xyArray()_' , '_degree_' , '_Flags_' )
+ _expression_. `DrawBezier`( `_xyArray()_` , `_degree_` , `_Flags_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

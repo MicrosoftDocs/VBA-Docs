@@ -18,7 +18,7 @@ Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.Act
 
 ## Syntax
 
- _expression_. 'NotifyDelivery'
+ _expression_. `NotifyDelivery`
 
  _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 

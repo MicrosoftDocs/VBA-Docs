@@ -18,7 +18,7 @@ Returns a  **SheetView** object that represents views in a workbook. Read-only.
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents a [SheetViews](./Excel.SheetViews.md) object.
 

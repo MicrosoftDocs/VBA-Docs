@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Returns a Range object that represents a range that's offset from the specified range. Read/write Variant.
 
- _expression_. 'Item'( '_RowIndex_',  '_ColumnIndex_')
+ _expression_. `Item`( `_RowIndex_`,  `_ColumnIndex_`)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

@@ -18,7 +18,7 @@ Runs all pending queries to OLEDB and OLAP data sources.
 
 ## Syntax
 
- _expression_. 'CalculateUntilAsyncQueriesDone'
+ _expression_. `CalculateUntilAsyncQueriesDone`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

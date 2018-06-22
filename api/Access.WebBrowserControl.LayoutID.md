@@ -18,7 +18,7 @@ Returns the unique identifier for the layout that contains the specified text bo
 
 ## Syntax
 
- _expression_. 'LayoutID'
+ _expression_. `LayoutID`
 
  _expression_ A variable that represents a [WebBrowserControl](./Access.WebBrowserControl.md) object.
 

@@ -18,7 +18,7 @@ For the  **AnimationSettings** object, this property returns or sets the special
 
 ## Syntax
 
- _expression_. 'EntryEffect'
+ _expression_. `EntryEffect`
 
  _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

@@ -11,7 +11,7 @@ Gets or sets the descriptive (alternative) text string for a  **Shape** object w
 
 ## Syntax
 
- _expression_. 'AlternativeText'
+ _expression_. `AlternativeText`
 
  _expression_ A variable that represents a 'Shape' object.
 

@@ -18,7 +18,7 @@ The  **Timer** event occurs for a form at regular intervals as specified by the 
 
 ## Syntax
 
- _expression_. 'Timer'
+ _expression_. `Timer`
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

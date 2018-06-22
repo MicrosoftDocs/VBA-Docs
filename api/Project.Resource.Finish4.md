@@ -15,7 +15,7 @@ Gets or sets the local Finish custom field of the resource. Read/write  **Varian
 
 ## Syntax
 
- _expression_. 'Finish4'
+ _expression_. `Finish4`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

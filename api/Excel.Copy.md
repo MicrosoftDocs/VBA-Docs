@@ -17,7 +17,7 @@ Copy method as it applies to the  **ChartArea** object.
 
 Copies a picture of the point or series to the Clipboard.
 
- _expression_. 'Copy'
+ _expression_. `Copy`
 
  _expression_ Required. An expression that returns one of the above objects.
 Copy method as it applies to the  **Range** object.

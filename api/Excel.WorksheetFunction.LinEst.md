@@ -18,7 +18,7 @@ Calculates the statistics for a line by using the "least squares" method to calc
 
 ## Syntax
 
- _expression_. 'LinEst'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
+ _expression_. `LinEst`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

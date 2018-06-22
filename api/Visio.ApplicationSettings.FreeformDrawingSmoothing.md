@@ -18,7 +18,7 @@ Determines how precisely mouse movements are smoothed when drawing a spline. Rea
 
 ## Syntax
 
- _expression_. 'FreeformDrawingSmoothing'
+ _expression_. `FreeformDrawingSmoothing`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

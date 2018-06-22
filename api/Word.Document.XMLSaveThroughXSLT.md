@@ -18,7 +18,7 @@ Sets or returns a  **String** that specifies the path and file name for the Exte
 
 ## Syntax
 
- _expression_. 'XMLSaveThroughXSLT'
+ _expression_. `XMLSaveThroughXSLT`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

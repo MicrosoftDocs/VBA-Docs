@@ -18,7 +18,7 @@ You can use the  **AllStoredProcedures** property to reference the **[AllStoredP
 
 ## Syntax
 
- _expression_. 'AllStoredProcedures'
+ _expression_. `AllStoredProcedures`
 
  _expression_ A variable that represents a [CurrentData](./Access.CurrentData.md) object.
 

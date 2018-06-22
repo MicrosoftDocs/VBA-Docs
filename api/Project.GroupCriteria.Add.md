@@ -15,7 +15,7 @@ Adds a  **GroupCriterion** object to a **GroupCriteria** collection.
 
 ## Syntax
 
- _expression_. 'Add'( ' _FieldName_', ' _Ascending_', ' _FontName_', ' _FontSize_', ' _FontBold_', ' _FontItalic_', ' _FontUnderLine_', ' _FontColor_', ' _CellColor_', ' _Pattern_', ' _GroupOn_', ' _StartAt_', ' _GroupInterval_' )
+ _expression_. `Add`( ` _FieldName_`, ` _Ascending_`, ` _FontName_`, ` _FontSize_`, ` _FontBold_`, ` _FontItalic_`, ` _FontUnderLine_`, ` _FontColor_`, ` _CellColor_`, ` _Pattern_`, ` _GroupOn_`, ` _StartAt_`, ` _GroupInterval_` )
 
  _expression_ A variable that represents a 'GroupCriteria' object.
 

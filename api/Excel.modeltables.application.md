@@ -16,7 +16,7 @@ Returns an  **[Application](Excel.Application(objec).md)** object that represent
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ A variable that represents a[ModelTables Object (Excel)](Excel.modeltables.md) object.
 

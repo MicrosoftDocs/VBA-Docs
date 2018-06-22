@@ -18,7 +18,7 @@ Returns or sets a  **String** that represents the name of the active style to us
 
 ## Syntax
 
- _expression_. 'BibliographyStyle'
+ _expression_. `BibliographyStyle`
 
  _expression_ An expression that returns a '[Bibliography](Word.Bibliography.md)' object.
 

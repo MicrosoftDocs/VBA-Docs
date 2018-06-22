@@ -18,7 +18,7 @@ The  **Save** method carries out the Save action in Visual Basic.
 
 ## Syntax
 
- _expression_. 'Save'( ' _ObjectType_', ' _ObjectName_' )
+ _expression_. `Save`( ` _ObjectType_`, ` _ObjectName_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

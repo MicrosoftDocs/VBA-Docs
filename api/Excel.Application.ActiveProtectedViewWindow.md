@@ -18,7 +18,7 @@ Returns a  **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object that r
 
 ## Syntax
 
- _expression_. 'ActiveProtectedViewWindow'
+ _expression_. `ActiveProtectedViewWindow`
 
  _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
 

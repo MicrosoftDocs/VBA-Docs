@@ -21,7 +21,7 @@ Returns the instance of Microsoft Visio associated with a  **DataRecordset** obj
 
 ## Syntax
 
- _expression_. 'Application'
+ _expression_. `Application`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

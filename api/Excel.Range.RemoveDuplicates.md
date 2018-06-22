@@ -18,7 +18,7 @@ Removes duplicate values from a range of values.
 
 ## Syntax
 
- _expression_. 'RemoveDuplicates'( '_Columns_' , '_Header_' )
+ _expression_. `RemoveDuplicates`( `_Columns_` , `_Header_` )
 
  _expression_ A variable that represents a [Range](./Excel.Range(Graph property).md) object.
 

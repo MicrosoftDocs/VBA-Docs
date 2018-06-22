@@ -18,7 +18,7 @@ Shows or hides the ribbon.
 
 ## Syntax
 
- _expression_. 'ToggleRibbon'
+ _expression_. `ToggleRibbon`
 
  _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 

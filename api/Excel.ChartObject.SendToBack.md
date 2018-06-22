@@ -18,7 +18,7 @@ Sends the object to the back of the z-order.
 
 ## Syntax
 
- _expression_. 'SendToBack'
+ _expression_. `SendToBack`
 
  _expression_ A variable that represents a [ChartObject](./Excel.ChartObject.md) object.
 

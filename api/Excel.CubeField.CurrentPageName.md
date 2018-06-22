@@ -18,7 +18,7 @@ Returns or sets the page name for a CubeField. Read/write  **String** .
 
 ## Syntax
 
- _expression_. 'CurrentPageName'
+ _expression_. `CurrentPageName`
 
  _expression_ A variable that represents a [CubeField](./Excel.CubeField.md) object.
 

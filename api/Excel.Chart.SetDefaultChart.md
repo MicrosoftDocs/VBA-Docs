@@ -18,7 +18,7 @@ Specifies the name of the chart template that Microsoft Excel uses when creating
 
 ## Syntax
 
- _expression_. 'SetDefaultChart'( '_Name_' )
+ _expression_. `SetDefaultChart`( `_Name_` )
 
  _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 

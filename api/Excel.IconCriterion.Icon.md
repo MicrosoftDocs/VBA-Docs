@@ -18,7 +18,7 @@ Returns or specifies the icon for a criterion in an icon set conditional formatt
 
 ## Syntax
 
- _expression_. 'Icon'
+ _expression_. `Icon`
 
  _expression_ A variable that represents an '[IconCriterion](Excel.IconCriterion.md)' object.
 

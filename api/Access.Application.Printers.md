@@ -18,7 +18,7 @@ Returns the  **[Printers](Access.Printers.md)** collection representing all the 
 
 ## Syntax
 
- _expression_. 'Printers'
+ _expression_. `Printers`
 
  _expression_ A variable that represents an [Application](./Access.Application.md) object.
 

@@ -18,7 +18,7 @@ You can use the  **TextToDisplay** property to specify or determine the display 
 
 ## Syntax
 
- _expression_. 'TextToDisplay'
+ _expression_. `TextToDisplay`
 
  _expression_ A variable that represents a [Hyperlink](./Access.Hyperlink.md) object.
 

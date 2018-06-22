@@ -18,7 +18,7 @@ Returns or sets a  **Long** , in points, that represents the horizontal position
 
 ## Syntax
 
- _expression_. 'Left'
+ _expression_. `Left`
 
  _expression_ An expression that returns a '[ProtectedViewWindow](Word.ProtectedViewWindow.md)' object.
 

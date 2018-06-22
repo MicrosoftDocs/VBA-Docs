@@ -18,7 +18,7 @@ Returns or sets the spacing (in points) before the specified HTML DIV element. R
 
 ## Syntax
 
- _expression_. 'SpaceBefore'
+ _expression_. `SpaceBefore`
 
  _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 

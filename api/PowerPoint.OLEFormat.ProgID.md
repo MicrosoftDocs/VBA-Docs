@@ -18,7 +18,7 @@ Returns the programmatic identifier (ProgID) for the specified OLE object. Read-
 
 ## Syntax
 
- _expression_. 'ProgID'
+ _expression_. `ProgID`
 
  _expression_ A variable that represents a [OLEFormat](./PowerPoint.OLEFormat.md) object.
 

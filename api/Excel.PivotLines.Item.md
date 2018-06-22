@@ -18,7 +18,7 @@ Returns a specific element of the  **PivotLines** collection object by its posit
 
 ## Syntax
 
- _expression_. 'Item'( '_Index_' )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents a [PivotLines](./Excel.PivotLines.md) object.
 

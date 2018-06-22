@@ -18,7 +18,7 @@ Adds an item to a list box or a combo box.
 
 ## Syntax
 
- _expression_. 'AddItem'( '_Text_' , '_Index_' )
+ _expression_. `AddItem`( `_Text_` , `_Index_` )
 
  _expression_ A variable that represents a [ControlFormat](./Excel.ControlFormat.md) object.
 

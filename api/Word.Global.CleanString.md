@@ -18,7 +18,7 @@ Removes nonprinting characters (character codes 1 ? 29) and special Word charact
 
 ## Syntax
 
- _expression_. 'CleanString'( '_String_' )
+ _expression_. `CleanString`( `_String_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 

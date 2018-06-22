@@ -18,7 +18,7 @@ Initiates manual hyphenation of a document, one line at a time.
 
 ## Syntax
 
- _expression_. 'ManualHyphenation'
+ _expression_. `ManualHyphenation`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

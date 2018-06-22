@@ -18,7 +18,7 @@ Marks the task as completed.
 
 ## Syntax
 
- _expression_. 'MarkComplete'
+ _expression_. `MarkComplete`
 
  _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 

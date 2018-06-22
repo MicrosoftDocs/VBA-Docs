@@ -18,7 +18,7 @@ In Web view, fixes the layout of the document as it currently appears so that li
 
 ## Syntax
 
- _expression_. 'FreezeLayout'
+ _expression_. `FreezeLayout`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

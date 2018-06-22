@@ -18,7 +18,7 @@ Returns a  **Date** value that represents the date and time in this time zone wh
 
 ## Syntax
 
- _expression_. 'DaylightDate'
+ _expression_. `DaylightDate`
 
  _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
 

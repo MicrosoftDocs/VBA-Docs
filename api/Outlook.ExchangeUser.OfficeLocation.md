@@ -18,7 +18,7 @@ Returns a  **String** representing the office location for the **[ExchangeUser](
 
 ## Syntax
 
- _expression_. 'OfficeLocation'
+ _expression_. `OfficeLocation`
 
  _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 

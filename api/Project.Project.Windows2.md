@@ -15,7 +15,7 @@ Gets a  **[Windows2](Project.windows2(object).md)** collection representing the 
 
 ## Syntax
 
- _expression_. 'Windows2'
+ _expression_. `Windows2`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

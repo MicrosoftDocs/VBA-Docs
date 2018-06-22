@@ -18,7 +18,7 @@ Removes all nonprintable characters from text.
 
 ## Syntax
 
- _expression_. 'Clean'( '_Arg1_' )
+ _expression_. `Clean`( `_Arg1_` )
 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 

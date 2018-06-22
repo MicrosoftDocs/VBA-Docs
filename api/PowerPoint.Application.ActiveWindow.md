@@ -18,7 +18,7 @@ Returns a  **[DocumentWindow](PowerPoint.DocumentWindow.md)** object that repres
 
 ## Syntax
 
- _expression_. 'ActiveWindow'
+ _expression_. `ActiveWindow`
 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

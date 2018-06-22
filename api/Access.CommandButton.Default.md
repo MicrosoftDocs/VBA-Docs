@@ -18,7 +18,7 @@ You can use the  **Default** property to specify whether a command button is the
 
 ## Syntax
 
- _expression_. 'Default'
+ _expression_. `Default`
 
  _expression_ A variable that represents a [CommandButton](./Access.CommandButton.md) object.
 

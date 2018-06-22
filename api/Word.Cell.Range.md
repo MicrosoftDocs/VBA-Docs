@@ -18,7 +18,7 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
 ## Syntax
 
- _expression_. 'Range'
+ _expression_. `Range`
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 

@@ -18,7 +18,7 @@ Sets or returns the value of the  **On Timer** box in the **Properties** window 
 
 ## Syntax
 
- _expression_. 'OnTimer'
+ _expression_. `OnTimer`
 
  _expression_ A variable that represents a [Report](./Access.Report.md) object.
 

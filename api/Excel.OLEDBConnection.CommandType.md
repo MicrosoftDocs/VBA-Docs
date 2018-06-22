@@ -18,7 +18,7 @@ Returns or sets one of the  **XlCmdType** constants. Read/write **[XlCmdType](Ex
 
 ## Syntax
 
- _expression_. 'CommandType'
+ _expression_. `CommandType`
 
  _expression_ A variable that represents an [OLEDBConnection](./Excel.OLEDBConnection.md) object.
 

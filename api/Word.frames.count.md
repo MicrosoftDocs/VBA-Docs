@@ -16,7 +16,7 @@ Returns a  **Long** that represents the number of frames in the collection. Read
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ A variable that represents a [Frames](./Word.Frames.md) object.
 

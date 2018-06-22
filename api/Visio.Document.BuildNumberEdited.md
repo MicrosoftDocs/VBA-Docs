@@ -18,7 +18,7 @@ Returns the build number of the instance last used to edit the document. Read-on
 
 ## Syntax
 
- _expression_. 'BuildNumberEdited'
+ _expression_. `BuildNumberEdited`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

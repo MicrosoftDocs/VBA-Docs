@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'DisplayViewBar'
+ _expression_. `DisplayViewBar`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

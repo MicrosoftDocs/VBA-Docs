@@ -18,7 +18,7 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 
 ## Syntax
 
- _expression_. 'HiddenFields'( '_Index_' )
+ _expression_. `HiddenFields`( `_Index_` )
 
  _expression_ A variable that represents a [PivotTable](./Excel.PivotTable.md) object.
 

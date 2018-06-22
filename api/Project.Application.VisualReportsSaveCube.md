@@ -18,7 +18,7 @@ Saves a Visual Reports cube to the default directory or to a specified directory
 
 ## Syntax
 
- _expression_. 'VisualReportsSaveCube'( ' _strNamePath_', ' _PjVisualReportsCubeType_', ' _ReportAlLFields_', ' _PjVisualReportsDataLevel_' )
+ _expression_. `VisualReportsSaveCube`( ` _strNamePath_`, ` _PjVisualReportsCubeType_`, ` _ReportAlLFields_`, ` _PjVisualReportsDataLevel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

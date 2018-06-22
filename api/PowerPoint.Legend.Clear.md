@@ -15,7 +15,7 @@ Clears the entire object.
 
 ## Syntax
 
- _expression_. 'Clear'
+ _expression_. `Clear`
 
  _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 

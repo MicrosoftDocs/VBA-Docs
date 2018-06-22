@@ -18,7 +18,7 @@ Returns or sets a  **String** containing the free-form text string associating t
 
 ## Syntax
 
- _expression_. 'Role'
+ _expression_. `Role`
 
  _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 

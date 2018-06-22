@@ -18,7 +18,7 @@ Returns or sets an  **[MsoAutomationSecurity](http://msdn.microsoft.com/library/
 
 ## Syntax
 
- _expression_. 'AutomationSecurity'
+ _expression_. `AutomationSecurity`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

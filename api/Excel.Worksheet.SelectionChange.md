@@ -18,7 +18,7 @@ Occurs when the selection changes on a worksheet.
 
 ## Syntax
 
- _expression_. 'SelectionChange'( '_Target_' )
+ _expression_. `SelectionChange`( `_Target_` )
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

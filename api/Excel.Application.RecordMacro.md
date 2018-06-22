@@ -18,7 +18,7 @@ Records code if the macro recorder is on.
 
 ## Syntax
 
- _expression_. 'RecordMacro'( '_BasicCode_' , '_XlmCode_' )
+ _expression_. `RecordMacro`( `_BasicCode_` , `_XlmCode_` )
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

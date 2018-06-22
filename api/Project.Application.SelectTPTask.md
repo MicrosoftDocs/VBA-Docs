@@ -18,7 +18,7 @@ Selects the specified task in the Team Planner view.
 
 ## Syntax
 
- _expression_. 'SelectTPTask'( ' _TaskUniqueID_' )
+ _expression_. `SelectTPTask`( ` _TaskUniqueID_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

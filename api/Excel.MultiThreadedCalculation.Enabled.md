@@ -18,7 +18,7 @@ The  **Enabled** property allows **MultiThreadedCalculation** objects to be enab
 
 ## Syntax
 
- _expression_. 'Enabled'
+ _expression_. `Enabled`
 
  _expression_ A variable that represents a [MultiThreadedCalculation](./Excel.MultiThreadedCalculation.md) object.
 

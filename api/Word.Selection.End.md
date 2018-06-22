@@ -18,7 +18,7 @@ Returns or sets the ending character position of a selection. Read/write  **Long
 
 ## Syntax
 
- _expression_. 'End'
+ _expression_. `End`
 
  _expression_ A variable that represents a '[Selection](Word.Selection.md)' object.
 

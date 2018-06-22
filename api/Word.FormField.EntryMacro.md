@@ -18,7 +18,7 @@ Returns or sets an entry macro name for the specified form field (CheckBox, Drop
 
 ## Syntax
 
- _expression_. 'EntryMacro'
+ _expression_. `EntryMacro`
 
  _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 

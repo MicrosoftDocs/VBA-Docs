@@ -18,7 +18,7 @@ Occurs whenever the specified PivotChart view or PivotTable view is redrawn.
 
 ## Syntax
 
- _expression_. 'ViewChange'( ' _Reason_' )
+ _expression_. `ViewChange`( ` _Reason_` )
 
  _expression_ A variable that represents a [Form](./Access.Form.md) object.
 

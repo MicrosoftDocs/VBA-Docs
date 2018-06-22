@@ -18,7 +18,7 @@ Returns the number of layers to which a shape is assigned. Read-only.
 
 ## Syntax
 
- _expression_. 'LayerCount'
+ _expression_. `LayerCount`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

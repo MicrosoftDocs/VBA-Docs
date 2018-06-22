@@ -18,7 +18,7 @@ Returns a  **[Range](Excel.Range(objec).md)** object that represents the active 
 
 ## Syntax
 
- _expression_. 'ActiveCell'
+ _expression_. `ActiveCell`
 
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 

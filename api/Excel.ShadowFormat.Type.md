@@ -18,7 +18,7 @@ Returns or sets a  **[MsoShadowType](http://msdn.microsoft.com/library/736e847a-
 
 ## Syntax
 
- _expression_. 'Type'
+ _expression_. `Type`
 
  _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 

@@ -18,7 +18,7 @@ Retrieves the current values from the data source for all edited cells in a Pivo
 
 ## Syntax
 
- _expression_. 'RefreshDataSourceValues'
+ _expression_. `RefreshDataSourceValues`
 
  _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 

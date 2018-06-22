@@ -18,7 +18,7 @@ Begins synchronizing a user's folders using the specified  **Send\Receive** grou
 
 ## Syntax
 
- _expression_. 'Start'
+ _expression_. `Start`
 
  _expression_ An expression that returns a '[SyncObject](Outlook.SyncObject.md)' object.
 

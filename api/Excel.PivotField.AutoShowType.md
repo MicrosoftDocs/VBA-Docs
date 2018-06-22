@@ -18,7 +18,7 @@ Returns  **xlAutomatic** if **AutoShow** is enabled for the specified PivotTable
 
 ## Syntax
 
- _expression_. 'AutoShowType'
+ _expression_. `AutoShowType`
 
  _expression_ A variable that represents a [PivotField](./Excel.PivotField.md) object.
 

@@ -18,7 +18,7 @@ Determines which auto-fit mode a window is in, if any. Read/write.
 
 ## Syntax
 
- _expression_. 'ViewFit'
+ _expression_. `ViewFit`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

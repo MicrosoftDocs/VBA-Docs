@@ -15,7 +15,7 @@ Gets the parent of the  **View** object. Read-only **Project**.
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ A variable that represents a [View](./Project.View.md) object.
 

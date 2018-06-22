@@ -18,7 +18,7 @@ Gets the earned value scheduled variance (SV) percent of the task. Read-only  **
 
 ## Syntax
 
- _expression_. 'SVPercent'
+ _expression_. `SVPercent`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

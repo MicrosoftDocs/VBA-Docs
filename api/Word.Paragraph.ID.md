@@ -18,7 +18,7 @@ Returns or sets the identifying label for the specified object when the current 
 
 ## Syntax
 
- _expression_. 'ID'
+ _expression_. `ID`
 
  _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

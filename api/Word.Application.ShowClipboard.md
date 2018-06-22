@@ -18,7 +18,7 @@ Displays the  **Clipboard** task pane.
 
 ## Syntax
 
- _expression_. 'ShowClipboard'
+ _expression_. `ShowClipboard`
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

@@ -18,7 +18,7 @@ The  **ItemRemoved** event occurs when a reference is removed from the project.
 
 ## Syntax
 
- _expression_. 'ItemRemoved'( ' _Reference_', )
+ _expression_. `ItemRemoved`( ` _Reference_`, )
 
  _expression_ A variable that represents a [References](./Access.References.md) object.
 

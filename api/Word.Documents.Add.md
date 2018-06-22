@@ -18,7 +18,7 @@ Returns a  **Document** object that represents a new, empty document added to th
 
 ## Syntax
 
- _expression_. 'Add'( '_Template_' , '_NewTemplate_' , '_DocumentType_' , '_Visible_' )
+ _expression_. `Add`( `_Template_` , `_NewTemplate_` , `_DocumentType_` , `_Visible_` )
 
  _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 

@@ -18,7 +18,7 @@ Returns the  **[Page](Visio.Page.md)** object that is associated with the valida
 
 ## Syntax
 
- _expression_. 'TargetPage'
+ _expression_. `TargetPage`
 
  _expression_ A variable that represents a '[ValidationIssue](Visio.ValidationIssue.md)' object.
 

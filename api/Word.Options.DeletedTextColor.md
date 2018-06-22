@@ -18,7 +18,7 @@ Returns or sets the color of text that is deleted while change tracking is enabl
 
 ## Syntax
 
- _expression_. 'DeletedTextColor'
+ _expression_. `DeletedTextColor`
 
  _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 

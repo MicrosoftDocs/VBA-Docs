@@ -18,7 +18,7 @@ Creates an equation column and adds it to a matrix and returns an  **OMathMatCol
 
 ## Syntax
 
- _expression_. 'Add'( '_BeforeCol_' )
+ _expression_. `Add`( `_BeforeCol_` )
 
  _expression_ An expression that returns a [OMathMatCols](./Word.OMathMatCols.md) object.
 

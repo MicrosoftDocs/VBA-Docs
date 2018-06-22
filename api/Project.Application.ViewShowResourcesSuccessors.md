@@ -18,7 +18,7 @@ Displays information about resource assignments and successor tasks in the activ
 
 ## Syntax
 
- _expression_. 'ViewShowResourcesSuccessors'
+ _expression_. `ViewShowResourcesSuccessors`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

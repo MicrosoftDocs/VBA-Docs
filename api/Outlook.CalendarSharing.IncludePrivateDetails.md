@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that indicates whether private details for 
 
 ## Syntax
 
- _expression_. 'IncludePrivateDetails'
+ _expression_. `IncludePrivateDetails`
 
  _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 

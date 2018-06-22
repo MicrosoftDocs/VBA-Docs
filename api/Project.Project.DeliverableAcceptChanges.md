@@ -15,7 +15,7 @@ Accepts the changes on the server for a deliverable.
 
 ## Syntax
 
- _expression_. 'DeliverableAcceptChanges'( ' _DeliverableGuid_' )
+ _expression_. `DeliverableAcceptChanges`( ` _DeliverableGuid_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

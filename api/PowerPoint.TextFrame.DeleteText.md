@@ -18,7 +18,7 @@ Deletes the text associated with the specified shape.
 
 ## Syntax
 
- _expression_. 'DeleteText'
+ _expression_. `DeleteText`
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 

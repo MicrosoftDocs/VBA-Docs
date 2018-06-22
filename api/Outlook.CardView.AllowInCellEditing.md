@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** value that determines whether in-cell editing is 
 
 ## Syntax
 
- _expression_. 'AllowInCellEditing'
+ _expression_. `AllowInCellEditing`
 
  _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
 

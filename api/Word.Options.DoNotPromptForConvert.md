@@ -18,7 +18,7 @@ Sets or returns a  **Boolean** that represents whether to prompt a warning dialo
 
 ## Syntax
 
- _expression_. 'DoNotPromptForConvert'
+ _expression_. `DoNotPromptForConvert`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

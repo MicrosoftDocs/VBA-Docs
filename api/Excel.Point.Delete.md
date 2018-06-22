@@ -18,7 +18,7 @@ Deletes the series the point belongs to.
 
 ## Syntax
 
- _expression_. 'Delete'
+ _expression_. `Delete`
 
  _expression_ A variable that represents a [Point](./Excel.Point(Graph object).md) object.
 

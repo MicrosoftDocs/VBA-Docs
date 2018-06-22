@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. 'CanCheckOut'( '_FileName_' )
+ _expression_. `CanCheckOut`( `_FileName_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that represents whether n-ary operators grow to t
 
 ## Syntax
 
- _expression_. 'Grow'
+ _expression_. `Grow`
 
  _expression_ An expression that returns an '[OMathNary](Word.OMathNary.md)' object.
 

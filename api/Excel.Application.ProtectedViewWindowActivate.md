@@ -18,7 +18,7 @@ Occurs when a  **Protected View** window is activated.
 
 ## Syntax
 
- _expression_. 'ProtectedViewWindowActivate'( '_Pvw_' , )
+ _expression_. `ProtectedViewWindowActivate`( `_Pvw_` , )
 
  _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
 

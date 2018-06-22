@@ -18,7 +18,7 @@ Returns or sets the width (in points) of the specified  **Frameset** object. Rea
 
 ## Syntax
 
- _expression_. 'Width'
+ _expression_. `Width`
 
  _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 

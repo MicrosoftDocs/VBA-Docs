@@ -18,7 +18,7 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
 
 ## Syntax
 
- _expression_. 'Lastpoint'
+ _expression_. `Lastpoint`
 
  _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
 

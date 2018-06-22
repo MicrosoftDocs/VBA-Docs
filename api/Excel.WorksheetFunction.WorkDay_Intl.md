@@ -18,7 +18,7 @@ Returns the serial number of the date before or after a specified number of work
 
 ## Syntax
 
- _expression_. 'WorkDay_Intl'( '_Arg1_' , '_Arg2_' , '_Arg3_' , '_Arg4_' )
+ _expression_. `WorkDay_Intl`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 

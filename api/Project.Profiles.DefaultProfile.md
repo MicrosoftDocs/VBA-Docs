@@ -15,7 +15,7 @@ Gets or sets a  **[Profile](Project.Profile.md)** object that represents the def
 
 ## Syntax
 
- _expression_. 'DefaultProfile'
+ _expression_. `DefaultProfile`
 
  _expression_ A variable that represents a 'Profiles' object.
 

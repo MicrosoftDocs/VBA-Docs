@@ -18,7 +18,7 @@ Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[L
 
 ## Syntax
 
- _expression_. 'BorderAround'( '_LineStyle_' , '_Weight_' , '_ColorIndex_' , '_Color_' , '_ThemeColor_' )
+ _expression_. `BorderAround`( `_LineStyle_` , `_Weight_` , `_ColorIndex_` , `_Color_` , `_ThemeColor_` )
 
  _expression_ A variable that represents a '[Range](Excel.Range(objec).md)' object.
 

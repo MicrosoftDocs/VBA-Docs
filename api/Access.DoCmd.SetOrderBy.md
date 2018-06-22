@@ -18,7 +18,7 @@ Use the  **SetOrderBy** method to apply a sort to the active datasheet, form, re
 
 ## Syntax
 
- _expression_. 'SetOrderBy'( ' _OrderBy_', ' _ControlName_' )
+ _expression_. `SetOrderBy`( ` _OrderBy_`, ` _ControlName_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

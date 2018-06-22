@@ -18,7 +18,7 @@ Returns or sets the data validation error message. Read/write  **String** .
 
 ## Syntax
 
- _expression_. 'ErrorMessage'
+ _expression_. `ErrorMessage`
 
  _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
 

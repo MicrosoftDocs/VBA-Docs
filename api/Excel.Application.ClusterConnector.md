@@ -18,7 +18,7 @@ Returns or sets the name of the High Performance Computing (HPC) Cluster Connect
 
 ## Syntax
 
- _expression_. 'ClusterConnector'
+ _expression_. `ClusterConnector`
 
  _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
 

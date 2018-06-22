@@ -18,7 +18,7 @@ Determines if personal information about a file is saved when the user saves the
 
 ## Syntax
 
- _expression_. 'RemovePersonalInformation'
+ _expression_. `RemovePersonalInformation`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

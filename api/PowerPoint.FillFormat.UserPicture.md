@@ -18,7 +18,7 @@ Fills the specified shape with one large image.
 
 ## Syntax
 
- _expression_. 'UserPicture'( '_PictureFile_' )
+ _expression_. `UserPicture`( `_PictureFile_` )
 
  _expression_ A variable that represents an [FillFormat](./PowerPoint.FillFormat.md) object.
 

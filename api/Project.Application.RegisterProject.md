@@ -18,7 +18,7 @@ Registers the active project on Project Server.
 
 ## Syntax
 
- _expression_. 'RegisterProject'( ' _WaitForCompletion_' )
+ _expression_. `RegisterProject`( ` _WaitForCompletion_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

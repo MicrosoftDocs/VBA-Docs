@@ -18,7 +18,7 @@ Returns a [Range](Word.Range.md) object that represents the portion of a documen
 
 ## Syntax
 
- _expression_. 'Range'
+ _expression_. `Range`
 
  _expression_ An expression that returns a '[CoAuthLock](Word.CoAuthLock.md)' object.
 

@@ -18,7 +18,7 @@ Moves to the next header or footer, depending on whether a header or footer is d
 
 ## Syntax
 
- _expression_. 'NextHeaderFooter'
+ _expression_. `NextHeaderFooter`
 
  _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 

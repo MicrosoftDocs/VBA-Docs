@@ -18,7 +18,7 @@ Performs the specified action on a local resource pool.
 
 ## Syntax
 
- _expression_. 'ResourceSharingPoolAction'( ' _Action_', ' _Filename_', ' _ReadOnly_' )
+ _expression_. `ResourceSharingPoolAction`( ` _Action_`, ` _Filename_`, ` _ReadOnly_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

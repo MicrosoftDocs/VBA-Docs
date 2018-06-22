@@ -13,7 +13,7 @@ Gets a 32-bit integer that indicates the application in which the **TextRange2**
 
 ## Syntax
 
- _expression_. 'Creator'
+ _expression_. `Creator`
 
  _expression_ An expression that returns a 'TextRange2' object.
 

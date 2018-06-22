@@ -18,7 +18,7 @@ Returns a  **[Walls](Excel.Walls(objec).md)** object that represents the walls o
 
 ## Syntax
 
- _expression_. 'Walls'
+ _expression_. `Walls`
 
  _expression_ A variable that represents a [Chart](./Excel.Chart(Graph object).md) object.
 

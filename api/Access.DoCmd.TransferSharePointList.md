@@ -18,7 +18,7 @@ You can use the  **TransferSharePointList** method to import or link data from a
 
 ## Syntax
 
- _expression_. 'TransferSharePointList'( ' _TransferType_', ' _SiteAddress_', ' _ListID_', ' _ViewID_', ' _TableName_', ' _GetLookupDisplayValues_' )
+ _expression_. `TransferSharePointList`( ` _TransferType_`, ` _SiteAddress_`, ` _ListID_`, ` _ViewID_`, ` _TableName_`, ` _GetLookupDisplayValues_` )
 
  _expression_ A variable that represents a [DoCmd](./Access.DoCmd.md) object.
 

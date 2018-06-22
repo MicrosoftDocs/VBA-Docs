@@ -15,7 +15,7 @@ Changes the rotation of the specified shape vertically by the specified number o
 
 ## Syntax
 
- _expression_. 'IncrementRotationVertical'( '_Increment_' )
+ _expression_. `IncrementRotationVertical`( `_Increment_` )
 
  _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 

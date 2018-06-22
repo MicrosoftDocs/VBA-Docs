@@ -18,7 +18,7 @@ Specifies how the start date of a new task is set.
 
 ## Syntax
 
- _expression_. 'NewTasksStartOn'( ' _StartOnDate_' )
+ _expression_. `NewTasksStartOn`( ` _StartOnDate_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

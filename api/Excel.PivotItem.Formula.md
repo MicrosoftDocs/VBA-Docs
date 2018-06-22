@@ -18,7 +18,7 @@ Returns or sets a  **String** value that represents the object's formula in A1-s
 
 ## Syntax
 
- _expression_. 'Formula'
+ _expression_. `Formula`
 
  _expression_ A variable that represents a [PivotItem](./Excel.PivotItem.md) object.
 

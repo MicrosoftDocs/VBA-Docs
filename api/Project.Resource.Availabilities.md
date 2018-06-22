@@ -18,7 +18,7 @@ Returns an  **[Availabilities](Project.availabilities.md)** collection represent
 
 ## Syntax
 
- _expression_. 'Availabilities'
+ _expression_. `Availabilities`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

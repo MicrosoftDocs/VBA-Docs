@@ -18,7 +18,7 @@ Returns a  **Boolean** that determines if the folder is a Microsoft SharePoint F
 
 ## Syntax
 
- _expression_. 'IsSharePointFolder'
+ _expression_. `IsSharePointFolder`
 
  _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 

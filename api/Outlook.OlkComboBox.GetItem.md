@@ -18,7 +18,7 @@ Obtains a  **String** that represents an item at the specified location in the l
 
 ## Syntax
 
- _expression_. 'GetItem'( '_Index_' )
+ _expression_. `GetItem`( `_Index_` )
 
  _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 

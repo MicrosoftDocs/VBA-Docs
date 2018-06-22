@@ -18,7 +18,7 @@ Strips HTML tags used for opening HTML files in Word but not required for displa
 
 ## Syntax
 
- _expression_. 'HTMLFidelity'
+ _expression_. `HTMLFidelity`
 
  _expression_ Required. A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 

@@ -18,7 +18,7 @@ Returns or sets a  **String** representing the customer ID for the contact. Read
 
 ## Syntax
 
- _expression_. 'CustomerID'
+ _expression_. `CustomerID`
 
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 

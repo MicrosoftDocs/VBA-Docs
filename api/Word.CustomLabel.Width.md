@@ -18,7 +18,7 @@ Returns or sets the width of a custom mailing label, in points. Read/write  **Lo
 
 ## Syntax
 
- _expression_. 'Width'
+ _expression_. `Width`
 
  _expression_ A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
 

@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of tables of contents in the coll
 
 ## Syntax
 
- _expression_. 'Count'
+ _expression_. `Count`
 
  _expression_ Required. A variable that represents a '[TablesOfContents](Word.tablesofcontents.md)' collection.
 

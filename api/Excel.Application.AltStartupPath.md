@@ -18,7 +18,7 @@ Returns or sets the name of the alternate startup folder. Read/write  **String**
 
 ## Syntax
 
- _expression_. 'AltStartupPath'
+ _expression_. `AltStartupPath`
 
  _expression_ A variable that represents an [Application](./Excel.Application(Graph property).md) object.
 

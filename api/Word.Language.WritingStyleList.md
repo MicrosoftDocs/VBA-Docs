@@ -18,7 +18,7 @@ Returns a string array that contains the names of all writing styles available f
 
 ## Syntax
 
- _expression_. 'WritingStyleList'
+ _expression_. `WritingStyleList`
 
  _expression_ An expression that returns a '[Language](Word.Language.md)' object.
 

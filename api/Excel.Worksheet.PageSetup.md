@@ -18,7 +18,7 @@ Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page
 
 ## Syntax
 
- _expression_. 'PageSetup'
+ _expression_. `PageSetup`
 
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 

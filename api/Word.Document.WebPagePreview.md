@@ -18,7 +18,7 @@ Displays a preview of the current document as it would look if saved as a Web pa
 
 ## Syntax
 
- _expression_. 'WebPagePreview'
+ _expression_. `WebPagePreview`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

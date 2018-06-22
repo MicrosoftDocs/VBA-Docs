@@ -18,7 +18,7 @@ Moves a folder to the specified destination folder.
 
 ## Syntax
 
- _expression_. 'MoveTo'( '_DestinationFolder_' )
+ _expression_. `MoveTo`( `_DestinationFolder_` )
 
  _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 

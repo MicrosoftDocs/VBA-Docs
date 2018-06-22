@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified **Conf
 
 ## Syntax
 
- _expression_. 'Parent'
+ _expression_. `Parent`
 
  _expression_ An expression that returns a [Conflicts](./Word.Conflicts.md) object.
 

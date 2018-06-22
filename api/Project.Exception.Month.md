@@ -15,7 +15,7 @@ Gets or sets the month for a yearly type of exception. Read/write  **PjMonth**.
 
 ## Syntax
 
- _expression_. 'Month'
+ _expression_. `Month`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 
