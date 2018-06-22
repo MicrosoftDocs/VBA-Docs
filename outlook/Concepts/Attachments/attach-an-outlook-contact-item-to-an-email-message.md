@@ -32,7 +32,7 @@ The following code shows how to programmatically attach a copy of a contact item
 
 
 
-```vbC#
+```C#
 using System;
 using System.Collections.Generic;
 using Outlook = Microsoft.Office.Interop.Outlook;
@@ -131,7 +131,7 @@ namespace EmbedOutlookItemAddIn
 
 
 
-```vbVB.net
+```VB.net
 Public Class ThisAddIn
  
     Private Sub ThisAddIn_Startup() Handles Me.Startup

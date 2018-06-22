@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 When you save a [project](vbe-glossary.md) for which a reference has been selected from the **References** dialog box, an entry is made in the project's .vbp file (called the .mak file in earlier versions of Visual Basic). For example, the entry for a data access object is:
 
 
-```vbtext
+```text
 Reference=*\G{00025E01-0000-0000-C000-000000000046}#0.0#0#C:\WINDOWS\SYSTEM\DAO2516.DLL#Microsoft 
 DAO 2.5 Object Library 
 

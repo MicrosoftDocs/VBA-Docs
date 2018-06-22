@@ -30,7 +30,7 @@ The following example shows how to use the  **IsTrusted** property in a macro to
  **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
-```vbtext
+```text
 If [currentproject].[istrusted] Then
     RunCode
         Function Name =Init()

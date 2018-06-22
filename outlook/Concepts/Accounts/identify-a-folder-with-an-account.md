@@ -17,7 +17,7 @@ The following managed code is written in C#. To run a .NET Framework managed cod
 
 
 
-```vbC#
+```C#
 private void DisplayAccountForCurrentFolder() 
 { 
     Outlook.Folder myFolder = Application.ActiveExplorer().CurrentFolder  

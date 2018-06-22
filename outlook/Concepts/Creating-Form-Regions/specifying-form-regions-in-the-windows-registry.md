@@ -90,7 +90,7 @@ The following lists the content of map.xml:
 
 
 
-```vbxml
+```xml
 <?xml version="1.0"?> 
 <FormRegion xmlns="http://schemas.microsoft.com/office/outlook/12/formregion.xsd">   
     <!-- Internal name --> 

@@ -32,7 +32,7 @@ where  `{00062002-0000-0000-C000-000000000046}` is the **PSETID_Appointment** na
 
 
 
-```vbC#
+```C#
 private bool IsCounterProposal(Outlook.MeetingItem meeting) 
 { 
     const string counterPropose = 

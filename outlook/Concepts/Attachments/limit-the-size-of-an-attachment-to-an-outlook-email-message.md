@@ -25,7 +25,7 @@ The following code shows how to cancel sending an email if the total attachment 
 
 
 
-```vbC#
+```C#
 using Outlook = Microsoft.Office.Interop.Outlook;
  
 namespace LimitAttachmentSizeAddIn
@@ -94,7 +94,7 @@ namespace LimitAttachmentSizeAddIn
 
 
 
-```vbVB.net
+```VB.net
 Public Class ThisAddIn
  
     Private Sub ThisAddIn_Startup() Handles Me.Startup

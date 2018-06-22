@@ -37,7 +37,7 @@ Selecting a startup component on the Debugging tab does not affect the Startup O
 
 
 
-```vbtext
+```text
 Startup Object=Sub Main 
 ```
 
@@ -46,7 +46,7 @@ and
 
 
 
-```vbtext
+```text
 Start Component=DHTMLPage1 
 ```
 

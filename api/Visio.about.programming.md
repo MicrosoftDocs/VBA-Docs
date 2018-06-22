@@ -94,7 +94,7 @@ Copy the code into a file in a text editor, and save the resulting document as a
 
 
 
-```vbHTML
+```HTML
 <html>
 <OBJECT id="DrawingControl1"
     height=400 

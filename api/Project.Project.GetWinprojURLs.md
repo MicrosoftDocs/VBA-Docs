@@ -33,7 +33,7 @@ Returns the various URLs associated with the active enterprise project as an XML
 The following is an example of the XML schema definition.
 
 
-```vbXML
+```XML
 <?xml version="1.0" encoding="utf-8" ?>
 <xs:schema id="WinprojURLsDataSet" 
            targetNamespace="http://schemas.microsoft.com/office/project/server/webservices/WinprojURLsDataSet/"

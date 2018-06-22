@@ -88,7 +88,7 @@ The following code does exactly what it says; that is, it saves the active docum
 
 
 
-```vbVB.net
+```VB.net
 Application.ActiveDocument.Save
 ```
 
@@ -99,7 +99,7 @@ If a method requires more information, those details are called parameters. The 
 
 
 
-```vbVB.net
+```VB.net
 Application.ActiveDocument.SaveAs ("New Document Name.docx")
 ```
 
@@ -111,7 +111,7 @@ Values listed in parenthesis after a method name are the parameters. Here, the n
 You use the same syntax to set a property that you use to read a property. The following code executes a method to select cell A1 in Excel and then to set a property to put something in that cell.
 
 
-```vbVB.net
+```VB.net
     Application.ActiveSheet.Range("A1").Select
     Application.Selection.Value = "Hello World"
 ```
@@ -204,7 +204,7 @@ Another button on the  **Developer** tab in Word and Excel is the **Record Macro
 The macro that you created should look similar to the following code.
 
 
-```vbVB.net
+```VB.net
 Sub Macro1()
 '
 ' Macro1 Macro
@@ -233,7 +233,7 @@ When the macro recorder generates the code, it uses a complex algorithm to deter
 Select  **ForumulaR1C1** in the recorded macro and press F1. The Help system runs a quick search, determines that the appropriate subjects are in the Excel Developer section of the Excel Help, and lists the **FormulaR1C1** property. You can click the link to read more about the property, but before you do, be aware that the **Excel Object Model Reference** link near the bottom of the window. Click the link to view a long list of objects that Excel uses in its object model to describe the Worksheets and their components. Click any one of those to see the properties and methods that apply to that particular object, along with cross references to different related options. Many Help entries also have brief code examples that can help you. For example, you can follow the links in the **Borders** object to see how to set a border in VBA.
 
 
-```vbVB.net
+```VB.net
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 ```
 
@@ -247,7 +247,7 @@ Sometimes the best way to learn programming is to make minor changes to some wor
 
 
 
-```vbVB.net
+```VB.net
 Sub Macro1()
     Worksheets(1).Range("A1").Value = "Wow!"
     Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
@@ -361,7 +361,7 @@ To use a variable in VBA, must tell VBA which type of object the variable repres
 
 
 
-```vbVB.net
+```VB.net
     Dim MyStringVariable As String
     MyStringVariable = "Wow!"
     Worksheets(1).Range("A1").Value = MyStringVariable
@@ -373,7 +373,7 @@ To use a variable in VBA, must tell VBA which type of object the variable repres
 The simple programs in this article execute one line at a time, from the top down. The real power in programming comes from the options that you have to determine which lines of code to execute, based on one or more conditions that you specify. You can extend those capabilities even further when you can repeat an operation many times. For example, the following code extends Macro1. 
 
 
-```vbVB.net
+```VB.net
 Sub Macro1()
     If Worksheets(1).Range("A1").Value = "Yes!" Then
         Dim i As Integer
@@ -398,7 +398,7 @@ Here are a few scripts to try; each solves a real-world Office problem.
 ### Create an E-mail in Outlook
 
 
-```vbVB.net
+```VB.net
 Sub MakeMessage()
     Dim OutlookMessage As Outlook.MailItem
     Set OutlookMessage = Application.CreateItem(olMailItem)
@@ -414,7 +414,7 @@ Be aware that there are situations in which you might want to automate e-mail in
 ### Delete Empty Rows in an Excel Worksheet
 
 
-```vbVB.net
+```VB.net
 Sub DeleteEmptyRows()
     SelectedRange = Selection.Rows.Count
     ActiveCell.Offset(0, 0).Select
@@ -434,7 +434,7 @@ Be aware that you can select a column of cells and run this macro to delete all 
 ### Delete Empty TextBoxes in PowerPoint
 
 
-```vbVB.net
+```VB.net
 Sub RemoveEmptyTextBoxes()
     Dim SlideObj As Slide
     Dim ShapeObj As Shape
@@ -458,7 +458,7 @@ Be aware that this code loops through all of the slides and deletes all text box
 ### Copying a Contact from Outlook to Word
 
 
-```vbVB.net
+```VB.net
 Sub CopyCurrentContact()
    Dim OutlookObj As Object
    Dim InspectorObj As Object

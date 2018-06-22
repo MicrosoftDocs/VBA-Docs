@@ -21,7 +21,7 @@ When Visual Basic is launched from the command line, any portion of the command 
 
 
 
-```vbtext
+```text
 VB /cmd cmdlineargs
 ```
 
@@ -29,7 +29,7 @@ For applications developed with Visual Basic and compiled to an .exe file,  **Co
 
 
 
-```vbtext
+```text
 MyApp cmdlineargs
 ```
 

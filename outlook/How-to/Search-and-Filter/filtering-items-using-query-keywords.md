@@ -44,7 +44,7 @@ You can use the following query keywords only in DAV Searching and Locating (DAS
     
 
 
-```vbsql
+```sql
   [PropertyName] IS NULL
 ```
 
@@ -57,7 +57,7 @@ You can use the following query keywords only in DAV Searching and Locating (DAS
     
 
 
-```vbsql
+```sql
   criteria = "@SQL=" &; "(NOT(" _ 
 &; Chr(34) &; "http://schemas.microsoft.com/mapi/string/" _ 
 &; "{00020329-0000-0000-C000-000000000046}/Order%20Date" &; Chr(34) _ 

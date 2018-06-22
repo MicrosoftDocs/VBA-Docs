@@ -51,7 +51,7 @@ The following table shows the states of an item that you can consider to identif
 The following example specifies custom icons for several states of an item belonging to the message class supported by a form region: 
 
 
-```vbXML
+```XML
 <icons> 
  <default>c:\icons\MyIcon.ico</default> 
  <unread>c:\icons\MyUnReadIcon.ico</unread> 
