@@ -60,6 +60,7 @@ To give permissions on the active document to a specified user, use the  **Permi
 | **msoPermissionPrint**|Print access|
 | **msoPermissionObjModel**|A user can access the document programmatically. All users need this permission to work with a protected document or to check their permissions on the document.|
 | **msoPermissionFullControl**|Full control over the document. All permissions are enabled.|
+
 To check permissions for a user, use the  [UserPermission.Permission](http://msdn.microsoft.com/en-us/library/office/ff862094%28v=office.15%29.aspx) property.
 
 To apply permissions by using an administrative policy, use the  [Permission.ApplyPolicy](http://msdn.microsoft.com/en-us/library/office/ff864678%28v=office.15%29.aspx) method. Use the **PermissionFromPolicy**,  **PolicyName**, and  **PolicyDescription** properties to return policy information.

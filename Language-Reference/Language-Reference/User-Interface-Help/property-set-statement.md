@@ -35,6 +35,7 @@ The  **Property Set** statement syntax has these parts:
 | _arglist_|Required. List of variables representing arguments that are passed to the  **Property** **Set** procedure when it is called. Multiple arguments are separated by commas.|
 | _reference_|Required. Variable containing the object reference used on the right side of the object reference assignment.|
 | _statements_|Optional. Any group of statements to be executed within the body of the  **Property** procedure.|
+
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ] [ **=**_defaultvalue_ ]
 

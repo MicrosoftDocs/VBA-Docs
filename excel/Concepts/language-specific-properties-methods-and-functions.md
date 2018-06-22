@@ -29,6 +29,7 @@ The following table lists methods that have language-specific arguments. Methods
 | **[SetPhonetic](range-setphonetic-method-excel.md)**| **Range**||
 | **[Sort](range-sort-method-excel.md)**| **Range**|Removed  **_IgnoreControlCharacters_**,  **_IgnoreDiacritics_**, and  **_IgnoreKashida_**|
 | **[SortSpecial](range-sortspecial-method-excel.md)**| **Range**||
+
 Properties that return or set language-specific attributes are listed in the following table.
 
 
@@ -54,6 +55,7 @@ Properties that return or set language-specific attributes are listed in the fol
 | **[ReadingOrder](axistitle-readingorder-property-excel.md)**| **AxisTitle**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabel**,  **Range**,  **Style**,  **TextFrame**,  **TickLabels**|
 | **[Start](phonetics-start-property-excel.md)**| **Phonetics**|
 | **[VerticalAlignment](axistitle-verticalalignment-property-excel.md)**| **AxisTitle**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabels**,  **Range**,  **Style**,  **TextFrame**|
+
 The following are language-specific worksheet functions:
 
 -  **[FindB](list-of-worksheet-functions-available-to-visual-basic.md)**

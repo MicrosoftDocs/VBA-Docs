@@ -49,6 +49,7 @@ The  **Type** property settings for the **VBComponent** object are described in 
 |**vbext_ct_MSForm**|3|Microsoft Form|
 |**vbext_ct_ActiveXDesigner**|11|ActiveX Designer|
 |**vbext_ct_Document**|100|Document Module|
+
 The  **Type** property settings for the **Reference** object are described in the following table:
 
 
@@ -56,6 +57,7 @@ The  **Type** property settings for the **Reference** object are described in th
 |:-----|:-----|:-----|
 |**vbext_rk_TypeLib**|0|[Type library](vbe-glossary.md)|
 |**vbext_rk_Project**|1|[Project](vbe-glossary.md)|
+
 The  **Type** property settings for the **VBProject** object are described in the following table:
 
 

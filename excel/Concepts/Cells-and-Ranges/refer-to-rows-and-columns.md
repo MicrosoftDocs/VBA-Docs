@@ -32,6 +32,7 @@ The following table illustrates some row and column references using the  **Rows
 | `Columns(1)`|Column one|
 | `Columns("A")`|Column one|
 | `Columns`|All the columns on the worksheet|
+
 To work with several rows or columns at the same time, create an object variable and use the  **Union** method, combining multiple calls to the **Rows** or **Columns** property. The following example changes the format of rows one, three, and five on worksheet one in the active workbook to bold.
 
 

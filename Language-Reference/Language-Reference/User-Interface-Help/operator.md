@@ -35,6 +35,7 @@ The [data type](vbe-glossary.md) of _result_ is usually the same as that of the 
 |The data type of  _result_ is a **Long**, **Single**, or **Date** variant that overflows its legal range,|converted to a  **Variant** containing a **Double**.|
 |The data type of  _result_ is a **Byte** variant that overflows its legal range,|converted to an  **Integer** variant.|
 |the data type of  _result_ is an **Integer** variant that overflows its legal range,|converted to a  **Long** variant.|
+
 If one or both expressions are [Null](vbe-glossary.md) expressions, _result_ is **Null**. If an expression is[Empty](vbe-glossary.md), it is treated as 0.
 
  **Note**  The order of precision used by multiplication is not the same as the order of precision used by addition and subtraction.

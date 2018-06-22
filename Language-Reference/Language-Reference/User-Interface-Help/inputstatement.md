@@ -37,6 +37,7 @@ When read, standard string or numeric data is assigned to variables without modi
 |#TRUE# or #FALSE#|**True** or **False**|
 |# _yyyy-mm-dd hh:mm:ss_ #|The date and/or time represented by the [expression](vbe-glossary.md)|
 |#ERROR  _errornumber_ #| _errornumber_ (variable is a[Variant](vbe-glossary.md) tagged as an error)|
+
 Double quotation marks () within input data are ignored.
 
  **Note**  You should not write strings that contain embedded quotation marks, for example,  `"1,2""X"` for use with the **Input #** statement: **Input #** parses this string as two complete and separate strings.

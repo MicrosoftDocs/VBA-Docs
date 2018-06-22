@@ -25,6 +25,7 @@ The  **Print** method syntax has the following object qualifier and part:
 |:-----|:-----|
 | _object_|Optional. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _outputlist_|Optional. [Expression](vbe-glossary.md) or list of expressions to print. If omitted, a blank line is printed.|
+
 The  _outputlist_[argument](vbe-glossary.md) has the following syntax and parts:
 { **Spc(**_n_**)** |**Tab(**_n_**)** } _expression charpos_
 

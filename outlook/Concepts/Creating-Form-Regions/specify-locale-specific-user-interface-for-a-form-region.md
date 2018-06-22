@@ -23,6 +23,7 @@ The following table shows the pieces of user interface in a form region that you
 |Description of the form region| **description**|
 |Display name of a control in the form region| **control**|
 |Display name and subject prefix of an action defined for the form region| **action**|
+
 If you choose to provide a localization file, you will specify it as the value of the  **file** attribute of the **stringOverride** element.
 Localization files follow an XML schema consisting of elements similar to the child elements of the  **stringOverride** element in the form region XML schema. For more information on the localization XML schema, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](http://msdn.microsoft.com/library).
 

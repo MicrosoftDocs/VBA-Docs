@@ -40,6 +40,7 @@ The  _step_[argument](vbe-glossary.md) can be either positive or negative. The v
 |:-----|:-----|
 |Positive or 0| _counter_ <= _end_|
 |Negative| _counter_ >= _end_|
+
 After all statements in the loop have executed,  _step_ is added to _counter_. At this point, either the statements in the loop execute again (based on the same test that caused the loop to execute initially), or the loop is exited and execution continues with the statement following the **Next** statement.
 
  **Tip**  Changing the value of  _counter_ while inside a loop can make it more difficult to read and debug your code.

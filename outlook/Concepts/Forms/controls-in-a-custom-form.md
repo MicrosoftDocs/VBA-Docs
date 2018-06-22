@@ -104,6 +104,7 @@ On custom form pages, Forms 2.0 controls are always displayed with a classic loo
 |Microsoft Forms 2.0 TabStrip control| _(No parity)_|
 |Microsoft Forms 2.0 TextBox control|Microsoft Outlook Text Box Control|
 |Microsoft Forms 2.0 ToggleButton control| _(No parity)_|
+
 Because Outlook controls are installed on computers running Office Outlook 2007 or later, a form that contains these controls will not be displayed properly in any earlier version of Outlook.
 
 

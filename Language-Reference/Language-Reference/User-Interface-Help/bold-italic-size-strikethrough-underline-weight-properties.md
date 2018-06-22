@@ -30,6 +30,7 @@ The  **Bold**, **Italic**, **Size**, **StrikeThrough**, **Underline**, and **Wei
 | _Boolean_|Optional. Specifies the font style.|
 | _Currency_|Optional. A number indicating the font size.|
 | _Integer_|Optional. Specifies the font style.|
+
 The settings for  _Boolean_ are:
 
 
@@ -37,6 +38,7 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|The text has the specified attribute (that is bold, italic, size, strikethrough or underline marks, or weight).|
 |**False**|The text does not have the specified attribute (default).|
+
 The  **Weight** property accepts values from 0 to 1000. A value of zero allows the system to pick the most appropriate weight. A value from 1 to 1000 indicates a specific weight, where 1 represents the lightest type and 1000 represents the darkest type.
  **Remarks**
 These properties define the visual characteristics of text. The  **Bold** property determines whether text is normal or bold. The **Italic** property determines whether text is normal or italic. The **Size** property determines the height, in[points](vbe-glossary.md), of displayed text. The  **Underline** property determines whether text is underlined. The **StrikeThrough** property determines whether the text appears with strikethrough marks. The **Weight** property determines the darkness of the type.

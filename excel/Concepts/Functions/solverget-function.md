@@ -34,6 +34,7 @@ Returns information about current settings for Solver. The settings are specifie
 |8|An array of the right sides of the constraints, in text form.|
 |13| **True** if the **Simple LP Solving** method is selected; **False** if another Solving method is selected.|
 |20| **True** if the ** Make Unconstrained Variables Non-Negative** check box is selected; **False** if it is cleared.|
+
 The following settings are specified in the  **Solver Options** dialog box.
 
 

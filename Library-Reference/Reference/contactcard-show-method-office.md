@@ -52,6 +52,7 @@ Nothing
 |**msoContactCardTypeUnknownContact**|2|Represents a contact card for an unknown contact address.|
 |**msoContactCardTypeEnterpriseGroup**|3|Represents a contact card for an enterprise distribution list contact address.|
 |**msoContactCardTypePersonalDistributionList**|4|Represents a contact card for a personal distribution list contact address.|
+
  _fDelay_ applies only if _Style_ is **msoContactCardStyleHover**. For all other card styles, _fDelay_ is ignored.
 
 

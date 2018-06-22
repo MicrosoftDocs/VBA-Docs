@@ -20,8 +20,11 @@ Follow these steps to create the  **DetectIdleTime** form.
 
 
   |**Property**|**Value**|
+
   |:-----|:-----|
+
   |OnTimer|[Event Procedure]|
+
   |TimerInterval|1000|
 
 3. Enter the following code for the  **OnTimer** property event procedure:

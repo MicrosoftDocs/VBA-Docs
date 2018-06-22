@@ -35,6 +35,7 @@ If one, and only one, of the expressions evaluates to  **True**, _result_ is **T
 |**True**|**False**|**True**|
 |**False**|**True**|**True**|
 |**False**|**False**|**False**|
+
 The  **Xor** operator performs as both a logical and bitwise operator. A [bit-wise comparison](vbe-glossary.md) of two [expressions](vbe-glossary.md) using exclusive-or logic to form the result, as shown in the following table:
 
 

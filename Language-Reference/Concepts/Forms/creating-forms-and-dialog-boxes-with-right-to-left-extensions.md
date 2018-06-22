@@ -21,6 +21,7 @@ Three Microsoft Forms 2.0 properties are generally used to add bidirectional cha
 |[Alignment](alignment-property.md)|Controls|Controls|
 |[TextAlign](textalign-property.md)|Controls|Controls|
 |[RightToLeft](righttoleft-property-microsoft-forms.md)|Forms|Forms and controls|
+
 These properties affect the controls listed in the following table, which are available in the Control Toolbox. You can set these properties in the Properties window in the editor or by using Visual Basic for Applications statements.
 
 

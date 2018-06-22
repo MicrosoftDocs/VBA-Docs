@@ -42,6 +42,7 @@ Use these key combinations when the settings box for a property has the focus in
 |TAB|Move the focus among the Object box, the active  **Properties** tab, a property, and the property value.|
 |ESC|Cancel the property change.|
 |CTRL +SHIFT+ALPHA|Move to the next property that begins with the alpha character, in the list.|
+
 Use these key combinations when a property has enumerated values and its settings box has the focus in the  **Properties** window:
 
 
@@ -49,6 +50,7 @@ Use these key combinations when a property has enumerated values and its setting
 |:-----|:-----|
 |ALT+DOWN ARROW|Open the settings box list.|
 |ALT+UP ARROW|Close the settings box list.|
+
 Use these key combinations when you set the  **BackColor**, **ForeColor**, **FillColor**, or **BorderColor** properties, and the settings box has the focus in the **Properties** window:
 
 
@@ -56,6 +58,7 @@ Use these key combinations when you set the  **BackColor**, **ForeColor**, **Fil
 |:-----|:-----|
 |ALT+DOWN ARROW|Display the  **Color** palette.|
 |ALT+UP ARROW|Close the  **Color** palette.|
+
 Use these key combinations when you set the  **Icon** or **Picture** properties, and the settings box has the focus in the **Properties** window:
 
 

@@ -42,6 +42,7 @@ Keep in mind that when you create the property, you must correctly specify its  
 |A string|**adLongVarWChar** or **adVarWChar**|
 |**True** / **False**|**adBoolean**|
 |An integer|**adInteger**|
+
 The following table lists some Access-defined properties that apply to ADO objects.
 
 

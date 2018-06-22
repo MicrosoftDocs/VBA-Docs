@@ -45,6 +45,7 @@ Sources are added to the source lists programmatically by using XML strings. Dep
 |City|Chicago|
 |Publisher|Adventure Works Press|
 |Tag name|And01|
+
 5. You can view and add information to additional fields by checking  **Show All Bibliography Fields**.
     
 6. Click  **OK**.

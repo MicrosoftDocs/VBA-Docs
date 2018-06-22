@@ -113,6 +113,7 @@ End Sub
 4. Save the document, naming it CustomerLetterGenerator.docm.
     
 	|**Note**|
+
 	|:-----|  
 	|Because it contains VBA code, you must save the document as a macro-enabled document file (.docm).|
 
@@ -152,6 +153,7 @@ End Sub
 
 
    	|**Note**|
+
 	|:-----|  
 	|There are at least three default custom XML parts that are always created with a document. These are 'Cover pages', 'Doc properties' and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the  **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It is on that part that the **Load** method is called, in the next line of code. To determine the index number of the part into which to load the XML file, it is necessary to pass the count of custom XML parts to the **Load** method. `ActiveDocument.CustomXMLParts(ActiveDocument.CustomXMLParts.Count).Load ("C:\CustomerData.xml")`| 
     

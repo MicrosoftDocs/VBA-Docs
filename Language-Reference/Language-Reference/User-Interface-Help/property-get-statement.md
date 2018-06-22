@@ -37,6 +37,7 @@ The  **Property Get** statement syntax has these parts:
 | _type_|Optional. Data type of the value returned by the  **Property** **Get** procedure; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md) (except fixed length),[Object](vbe-glossary.md), [Variant](vbe-glossary.md), [user-defined type](vbe-glossary.md), and [Arrays](vbe-glossary.md). The return  _type_ of a **Property** **Get** procedure must be the same data type as the last (or sometimes the only) argument in a corresponding **Property** **Let** procedure (if one exists) that defines the value assigned to the property on the right side of an[expression](vbe-glossary.md).|
 | _statements_|Optional. Any group of statements to be executed within the body of the  **Property** **Get** procedure.|
 | _expression_|Optional. Value of the property returned by the procedure defined by the  **Property Get** statement.|
+
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ] [ **=**_defaultvalue_ ]
 

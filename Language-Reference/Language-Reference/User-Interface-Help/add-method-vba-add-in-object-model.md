@@ -23,6 +23,7 @@ The  **Add** syntax has these parts:
 |:-----|:-----|
 | _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
 | _component_|Required. For the  **LinkedWindows** collection, an object. For the **VBComponents** collection, an enumerated[constant](vbe-glossary.md) representing a[class module](vbe-glossary.md), a form, or a [standard module](vbe-glossary.md). For the  **VBProjects** collection, an enumerated constant representing a project type.|
+
 You can use one of the following constants for the  _component_ argument:
 
 

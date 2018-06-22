@@ -25,5 +25,6 @@ The  **RemoveItem** method syntax has these parts:
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. Specifies the row to delete. The number of the first row is 0; the number of the second row is 1, and so on.|
+
 This method will not remove a row from the list if the  **ListBox** is data[bound](glossary-vba.md) (that is, when the **RowSource** property specifies a[data source](glossary-vba.md) for the **ListBox** ).
 

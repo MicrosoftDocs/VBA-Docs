@@ -28,6 +28,7 @@ The Navigation Pane contains the set of navigation modules that are available in
 | **Shortcuts**| **NavigationModule**|
 | **Solutions**| **[SolutionsModule](solutionsmodule-object-outlook.md)**|
 | **Tasks**| **[TasksModule](tasksmodule-object-outlook.md)**|
+
 Note that the  **Solutions** module is not displayed in the Navigation Pane by default, and can only be created programmatically. The default name of the module is **Solutions**, but you can customize that name.
 
 

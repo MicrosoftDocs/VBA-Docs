@@ -30,6 +30,7 @@ The  _firstdayofweek_[argument](vbe-glossary.md) has the following values:
 |**vbThursday**|5|Thursday|
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
+
 The  _firstdayofyear_ argument has the following values:
 
 

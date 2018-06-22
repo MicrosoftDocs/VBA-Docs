@@ -33,6 +33,7 @@ The  **Sub** statement syntax has these parts:
 | _name_|Required. Name of the  **Sub**; follows standard [variable](vbe-glossary.md) naming conventions.|
 | _arglist_|Optional. List of variables representing arguments that are passed to the  **Sub** procedure when it is called. Multiple variables are separated by commas.|
 | _statements_|Optional. Any group of [statements](vbe-glossary.md) to be executed within the **Sub** procedure.|
+
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ] [ **=**_defaultvalue_ ]
 
@@ -46,6 +47,7 @@ The  _arglist_ argument has the following syntax and parts:
 | _varname_|Required. Name of the variable representing the argument; follows standard variable naming conventions.|
 | _type_|Optional. [Data type](vbe-glossary.md) of the argument passed to the procedure; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported), [Date](vbe-glossary.md), [String](vbe-glossary.md) (variable-length only), [Object](vbe-glossary.md), [Variant](vbe-glossary.md), or a specific [object type](vbe-glossary.md). If the parameter is not  **Optional**, a [user-defined type](vbe-glossary.md) may also be specified.|
 | _defaultvalue_|Optional. Any [constant](vbe-glossary.md) or constant [expression](vbe-glossary.md). Valid for  **Optional** parameters only. If the type is an **Object**, an explicit default value can only be **Nothing**.|
+
 **Remarks**
 
 If not explicitly specified using  **Public**, **Private**, or **Friend**, **Sub** procedures are public by default.

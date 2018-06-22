@@ -81,6 +81,7 @@ The A key through the Z key are the same as the ASCII equivalents A - Z:
 |**vbKeyX**|88|X key|
 |**vbKeyY**|89|Y key|
 |**vbKeyZ**|90|Z key|
+
 The 0 key through 9 key are the same as their ASCII equivalents 0 - 9:
 
 
@@ -96,6 +97,7 @@ The 0 key through 9 key are the same as their ASCII equivalents 0 - 9:
 |**vbKey7**|55|7 key|
 |**vbKey8**|56|8 key|
 |**vbKey9**|57|9 key|
+
 The following constants represent keys on the numeric keypad:
 
 
@@ -117,6 +119,7 @@ The following constants represent keys on the numeric keypad:
 |**vbKeySubtract**|0x6D|MINUS SIGN ( **-** ) key|
 |**vbKeyDecimal**|0x6E|DECIMAL POINT ( **.** ) key|
 |**vbKeyDivide**|0x6F|DIVISION SIGN ( **/** ) key|
+
 The following constants represent function keys:
 
 

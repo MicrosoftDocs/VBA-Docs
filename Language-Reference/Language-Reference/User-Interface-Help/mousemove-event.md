@@ -45,6 +45,7 @@ The settings for  _Button_ are:
 |5|The middle and left buttons are pressed.|
 |6|The middle and right buttons are pressed.|
 |7|All three buttons are pressed.|
+
 The settings for  _Shift_ are:
 
 
@@ -57,6 +58,7 @@ The settings for  _Shift_ are:
 |5|ALT and SHIFT were pressed.|
 |6|ALT and CTRL were pressed.|
 |7|ALT, SHIFT, and CTRL were pressed.|
+
 You can identify individual keyboard modifiers by using the following constants:
 
 

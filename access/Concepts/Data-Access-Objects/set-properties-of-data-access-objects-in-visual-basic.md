@@ -50,6 +50,7 @@ Keep in mind that when you create the property, you must correctly specify its  
 |A string|**dbText**|
 |**True** / **False**|**dbBoolean**|
 |An integer|**dbInteger**|
+
 The following table lists some Microsoft Access-defined properties that apply to DAO objects.
 
 

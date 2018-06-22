@@ -30,6 +30,7 @@ When you create a  **Property** procedure, it becomes a property of the[module](
 |**Property Let**|A procedure that sets the value of a property.|
 |**Property Get**|A procedure that returns the value a property.|
 |**Property Set**|A procedure that sets a reference to an object.|
+
 The syntax for declaring a  **Property** procedure is:
 [ **Public** |**Private** ] [ **Static** ] **Property** { **Get** |**Let** |**Set** } _propertyname__ [( _arguments_ )] [ **As**_type_ ]
  _statements_
@@ -43,6 +44,7 @@ The required arguments in  **Property** procedure declarations are shown in the 
 |**Property Get**|**Property Get**_propname_ (1, …, _n_ ) **As**_type_|
 |**Property Let**|**Property Let**_propname_ (1, …,,,, _n_, _n_ +1)|
 |**Property Set**|**Property Set**_propname_ (1, …, _n_, _n_ +1)|
+
 The first argument through the next to last argument (1, …,  _n_ ) must share the same names and data types in all **Property** procedures with the same name.
 A  **Property Get** procedure declaration takes one less argument than the related **Property Let** and **Property Set** declarations. The data type of the **Property Get** procedure must be the same as the data type as the data type of the last argument ( _n_ +1) in the related **Property Let** and **Property Set** declarations. For example, if you declare the following **Property Let** procedure, the **Property Get** declaration must use arguments with the same name and data type as the arguments in the **Property Let** procedure.
 

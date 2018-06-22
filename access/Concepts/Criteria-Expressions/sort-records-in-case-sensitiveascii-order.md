@@ -23,6 +23,7 @@ The following table demonstrates how the ascending order in Access differs from 
 |C|c|b|
 |A|D|c|
 |b|d|d|
+
 Although the results in the Ascending Order column might at first appear somewhat unpredictable, they are not. In the Ascending Order column, "a" appears before "A," and " B" appears before "b." This occurs because, when evaluated as text values, "A" = "a" and "B" = "b," whether lowercase or uppercase. Access takes into account the original order of the values. In the Pre-Sort Order column, "a" precedes "A" and "B" precedes "b."
 When the case-sensitive sort operation is performed, the text values are replaced with their ASCII values. For example, A = 65, a = 97, B = 66, b = 98, and so on.
 The following user-defined function can be used to sort data in case-sensitive order. 

@@ -34,6 +34,7 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|Display column headings.|
 |**False**|Do not display column headings (default).|
+
 Headings in combo boxes appear only when the list drops down.
  **Remarks**
 When the system uses the first row of data items as column headings, they can't be selected.

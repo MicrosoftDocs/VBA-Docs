@@ -38,6 +38,7 @@ The  _iomode_ argument can have either of the following settings:
 |:-----|:-----|:-----|
 |**ForReading**|1|Open a file for reading only. You can't write to this file.|
 |**ForAppending**|8|Open a file and write to the end of the file.|
+
 The  _format_ argument can have any of the following settings:
 
 

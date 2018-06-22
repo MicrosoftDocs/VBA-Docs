@@ -69,6 +69,7 @@ To specify characters that aren't displayed when you press a key, such as ENTER 
 |F14| `{F14}`|
 |F15| `{F15}`|
 |F16| `{F16}`|
+
 To specify keys combined with any combination of the SHIFT, CTRL, and ALT keys, precede the key code with one or more of the following codes:
 
 
@@ -77,6 +78,7 @@ To specify keys combined with any combination of the SHIFT, CTRL, and ALT keys, 
 |SHIFT| `+`|
 |CTRL| `^`|
 |ALT| `%`|
+
 To specify that any combination of SHIFT, CTRL, and ALT should be held down while several other keys are pressed, enclose the code for those keys in parentheses. For example, to specify to hold down SHIFT while E and C are pressed, use " `+(EC)`".
 To specify repeating keys, use the form  `{key number}`. You must put a space between  `key` and `number`. For example,  `{LEFT 42}` means press the LEFT ARROW key 42 times; `{h 10}` means press H 10 times.
 

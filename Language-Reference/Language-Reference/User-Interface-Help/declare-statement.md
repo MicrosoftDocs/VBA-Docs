@@ -53,6 +53,7 @@ VBA7 Declare Statement Syntax
 | _aliasname_|Optional. Name of the procedure in the DLL or code resource. If the first character is not a number sign ( **#** ), _aliasname_ is the name of the procedure's entry point in the DLL. If ( **#** ) is the first character, all characters that follow must indicate the ordinal number of the procedure's entry point.|
 | _arglist_|Optional. List of variables representing [arguments](vbe-glossary.md) that are passed to the procedure when it is called.|
 | _type_|Optional. [Data type](vbe-glossary.md) of the value returned by a **Function** procedure; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [LongLong](longlong-data-type.md), [LongPtr](longptr-data-type.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md) (variable length only), or[Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an [object type](vbe-glossary.md). ( **LongLong** is a valid declared type only on 64-bit platforms.)|
+
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ]
 

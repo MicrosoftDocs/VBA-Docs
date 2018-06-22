@@ -96,6 +96,7 @@ To create the Microsoft Outlook object that are listed in the following table, u
 |**To create this object**|**Use this identifier**|
 |:-----|:-----|
 |Application|Outlook.Application|
+
 To create the ActiveX controls that are specific to the Outlook forms listed in the following table, use the corresponding OLE programmatic identifier.
 
 

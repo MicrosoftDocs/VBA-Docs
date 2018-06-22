@@ -40,6 +40,7 @@ The  **_conversion_**[argument](vbe-glossary.md) settings are:
 |**vbHiragana****|32**|Converts Katakana characters in string to Hiragana characters.|
 |**vbUnicode**|64|Converts the string to [Unicode](vbe-glossary.md) using the default code page of the system. (Not available on the Macintosh.)|
 |**vbFromUnicode**|128|Converts the string from Unicode to the default code page of the system. (Not available on the Macintosh.)|
+
 *Applies to East Asia locales.
 **Applies to Japan only.
 

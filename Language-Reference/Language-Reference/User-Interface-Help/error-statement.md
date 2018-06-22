@@ -31,6 +31,7 @@ If  _errornumber_ is defined, the **Error** statement calls the error handler af
 |**HelpFile**|The fully qualified drive, path, and file name of the appropriate Visual Basic Help file.|
 |**HelpContext**|The appropriate Visual Basic Help file context ID for the error corresponding to the  **Number** property.|
 |**LastDLLError**|Zero.|
+
 If no error handler exists or if none is enabled, an error message is created and displayed from the  **Err** object properties.
 
  **Note**  Not all Visual Basic [host applications](vbe-glossary.md) can create objects. See your host application's documentation to determine whether it can create[classes](vbe-glossary.md) and objects.

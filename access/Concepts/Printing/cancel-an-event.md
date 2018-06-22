@@ -29,5 +29,6 @@ You can cancel the following events:
 |**Open**|
 |**Undo**|
 |**Unload**|
+
 You cancel an event by setting an event procedure's  _Cancel_ argument to **True**.
 

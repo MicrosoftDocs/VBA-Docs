@@ -41,6 +41,7 @@ The  _firstdayofweek_[argument](vbe-glossary.md) has these settings:
 |**vbThursday**|5|Thursday|
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
+
 The  _firstweekofyear_ argument has these settings:
 
 
@@ -60,6 +61,7 @@ The  _firstweekofyear_ argument has these settings:
 |Dates and times|Use predefined named date/time formats or create user-defined date/time formats.|
 |Date and time serial numbers|Use date and time formats or numeric formats.|
 |Strings|Create your own user-defined string formats.|
+
 If you try to format a number without specifying  _format_, **Format** provides functionality similar to the **Str** function, although it is internationally aware. However, positive numbers formatted as strings using **Format** don't include a leading space reserved for the sign of the value; those converted using **Str** retain the leading space.
 If you are formatting a non-localized numeric string, you should use a user-defined numeric format to ensure that you get the look you want.
 
@@ -135,6 +137,7 @@ A user-defined format [expression](vbe-glossary.md) for numbers can have from on
 |Two sections|The first section applies to positive values and zeros, the second to negative values.|
 |Three sections|The first section applies to positive values, the second to negative values, and the third to zeros.|
 |Four sections|The first section applies to positive values, the second to negative values, the third to zeros, and the fourth to [Null](vbe-glossary.md) values.|
+
 The following example has two sections: the first defines the format for positive values and zeros; the second section defines the format for negative values.
 
 

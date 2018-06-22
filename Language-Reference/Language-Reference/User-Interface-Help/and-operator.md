@@ -40,6 +40,7 @@ If both expressions evaluate to  **True**, _result_ is **True**. If either expre
 |**Null**|**True**|**Null**|
 |**Null**|**False**|**False**|
 |**Null**|**Null**|**Null**|
+
 The  **And** operator also performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
 
 

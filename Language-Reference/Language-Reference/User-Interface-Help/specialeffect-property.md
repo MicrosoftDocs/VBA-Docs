@@ -39,6 +39,7 @@ The settings for  _fmSpecialEffect_ are:
 | _fmSpecialEffectSunken_|2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for  **CheckBox** and **OptionButton**, valid for all controls (default).|
 | _fmSpecialEffectEtched_|3|Border appears to be carved around the edge of the control. Not valid for check boxes or option buttons.|
 | _fmSpecialEffectBump_|6|Object has a ridge on the bottom and right and appears flat on the top and left. Not valid for check boxes or option buttons.|
+
 For a  **Frame**, the default value is _Sunken_.
 Note that only  _Flat_ and _Sunken_ (0 and 2) are acceptable values for **CheckBox**, **OptionButton**, and **ToggleButton**. All values listed are acceptable for other controls.
  **Remarks**

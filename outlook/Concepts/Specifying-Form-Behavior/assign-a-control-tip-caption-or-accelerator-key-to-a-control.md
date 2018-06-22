@@ -18,6 +18,7 @@ ms.date: 06/08/2017
 | **ControlTipText**| Use this string as the control tip.|
 | **Caption**|Use this string as the caption.|
 | **Accelerator**|Use a single character as the value for the  **ALT + Key** entry. If you use a character from the caption of the control, the character is underlined.|
+
 For more information about the property to set for a specific control, see the following:
 
 - The  **[ControlTipText](page-controltiptext-property-outlook-forms-script.md)** property for the **[Page](page-object-outlook-forms-script.md)** control.

@@ -52,6 +52,7 @@ The statement name determines the data type:
 |**DefStr**|[String](vbe-glossary.md)|
 |**DefObj**|[Object](vbe-glossary.md)|
 |**DefVar**|[Variant](vbe-glossary.md)|
+
 For example, in the following program fragment, is a string variable:
 A  **Def**_type_ statement affects only the[module](vbe-glossary.md) where it is used. For example, a **DefInt** statement in one module affects only the default data type of variables, arguments passed to procedures, and the return type for **Function** and **Property** **Get** procedures declared in that module; the default data type of variables, arguments, and return types in other modules is unaffected. If not explicitly declared with a **Def**_type_ statement, the default data type for all variables, all arguments, all **Function** procedures, and all **Property** **Get** procedures is **Variant**.
 When you specify a letter range, it usually defines the data type for variables that begin with letters in the first 128 characters of the character set. However, when you specify the letter range A-Z, you set the default to the specified data type for all variables, including variables that begin with international characters from the extended part of the character set (128-255).

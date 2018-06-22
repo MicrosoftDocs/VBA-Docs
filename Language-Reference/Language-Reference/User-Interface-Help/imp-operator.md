@@ -40,6 +40,7 @@ The following table illustrates how  _result_ is determined:
 |**Null**|**True**|**True**|
 |**Null**|**False**|**Null**|
 |**Null**|**Null**|**Null**|
+
 The  **Imp** operator performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
 
 

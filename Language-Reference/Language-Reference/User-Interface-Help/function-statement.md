@@ -37,6 +37,7 @@ The  **Function** statement syntax has these parts:
 | _type_|Optional. [Data type](vbe-glossary.md) of the value returned by the **Function** procedure; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md), or (except fixed length), [Object](vbe-glossary.md), [Variant](vbe-glossary.md), or any [user-defined type](vbe-glossary.md).|
 | _statements_|Optional. Any group of statements to be executed within the  **Function** procedure.|
 | _expression_|Optional. Return value of the  **Function**.|
+
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ] [ **=**_defaultvalue_ ]
 

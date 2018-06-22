@@ -113,6 +113,7 @@ The following table describes the custom properties exposed by the Visio Drawing
 | **PageSizingBehavior**|Read/write. Enumerated type  **VisPageSizingBehavior**. Specifies how pages are sized and how shapes are sized and positioned when existing Visio drawings are loaded into instances of the control.|
 | **Src**|Read/write.  **String**. Specifies the path to and file name of the existing Visio drawing that is loaded into an instance of the control at run time. The default is an empty string.|
 | **Window**|Read-only. Returns the Visio  **Window** object associated with the instance of the Visio Drawing Control. The **Window** property is accessible only when the control is in-place active.|
+
 For more information about any of these custom properties, and to view code examples that show how to use them, see the specific topics associated with these properties in this Automation Reference.
 
 

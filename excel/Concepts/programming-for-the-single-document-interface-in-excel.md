@@ -34,6 +34,7 @@ Excel 2010 uses the MDI, which means that there is a single application-level wi
 |**Note**|
 |:-----|  
 |There is no MDI compatibility option in Excel.|
+
  
 
 In dual-monitor systems, the SDI in Excel enables side-by-side comparisons of two workbooks by dragging each workbook to a different monitor. Each workbook works independently of the other.
@@ -180,6 +181,7 @@ Special cases are listed in the following table.
 | `Workbook.WindowResize`|Occurs when any workbook window is resized.|No change in behavior. Is triggered when a workbook window (the top-level) is resized.|
 | `Window.Caption`|Returns or sets a  **Variant** value that represents the name that appears in the title bar of the document window.|No change in behavior.|
 | `Workbook.Protect(Password, Structure, Windows)`|Protects a workbook so that it cannot be modified.|Regardless of the value for the  _Windows_ parameter ( **True** or **False**), the window structure protection will NOT be enabled. No runtime error is displayed if  **True** is specified, but that portion of the procedure call will return a **NO-OP**.|
+
  
 |**Note**|
 |:-----|  

@@ -41,6 +41,7 @@ The following table lists some standard colors and the red, green, and blue valu
 |Magenta|255|0|255|
 |Yellow|255|255|0|
 |White|255|255|255|
+
 The RGB color values returned by this function are incompatible with those used by the Macintosh operating system. They may be used within the context of Microsoft applications for the Macintosh, but should not be used when communicating color changes directly to the Macintosh operating system.
 
 ## Example

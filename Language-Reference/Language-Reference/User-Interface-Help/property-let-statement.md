@@ -34,6 +34,7 @@ The  **Property Let** statement syntax has these parts:
 | _arglist_|Required. List of variables representing arguments that are passed to the  **Property Let** procedure when it is called. Multiple arguments are separated by commas. The name and[data type](vbe-glossary.md) of each argument in a **Property Let** procedure must be the same as the corresponding argument in a **Property Get** procedure.|
 | _value_|Required. Variable to contain the value to be assigned to the property. When the procedure is called, this argument appears on the right side of the calling [expression](vbe-glossary.md). The data type of  _value_ must be the same as the return type of the corresponding **Property Get** procedure.|
 | _statements_|Optional. Any group of [statements](vbe-glossary.md) to be executed within the **Property Let** procedure.|
+
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ] [ **=**_defaultvalue_ ]
 

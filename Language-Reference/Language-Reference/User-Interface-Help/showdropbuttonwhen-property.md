@@ -35,5 +35,6 @@ The settings for  _fmShowDropButtonWhen_ are:
 | _fmShowDropButtonWhenNever_|0|Do not show the drop-down button under any circumstances.|
 | _fmShowDropButtonWhenFocus_|1|Show the drop-down button when the control has the focus.|
 | _fmShowDropButtonWhenAlways_|2|Always show the drop-down button.|
+
 For a  **ComboBox**, the default value is _fmShowDropButtonWhenAlways_; for a **TextBox**, the default value is _fmShowDropButtonWhenNever_.
 

@@ -24,6 +24,7 @@ The  **Event** statement has these parts:
 |:-----|:-----|
 |**Public**|Optional. Specifies that the  **Event** visible throughout the[project](vbe-glossary.md).  **Events** types are **Public** by default. Note that events can only be raised in the[module](vbe-glossary.md) in which they are declared.|
 | _procedurename_|Required. Name of the event; follows standard variable naming conventions.|
+
 The  _arglist_ argument has the following syntax and parts:
 [ **ByVal** |**ByRef** ] _varname_ [ **( )** ] [ **As**_type_ ]
 

@@ -28,6 +28,7 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 | **[MeetingItem](meetingitem-object-outlook.md)**| **[TaskRequestDeclineItem](taskrequestdeclineitem-object-outlook.md)**|
 | **[MobileItem](http://msdn.microsoft.com/library/da8149d5-66d3-ea02-941f-e7f2f9eb6bc3%28Office.15%29.aspx)**| **[TaskRequestItem](taskrequestitem-object-outlook.md)**|
 | **[NoteItem](noteitem-object-outlook.md)**| **[TaskRequestUpdateItem](taskrequestupdateitem-object-outlook.md)**|
+
 Outlook items are displayed based on the category name stored in the  **Categories** property of that Outlook item. Because category names are stored as part of the Outlook item, it is possible to have a category name in an Outlook item that is not present in the Master Category List. For example, a category may have been removed.
 
 If a  **Category** object with a corresponding **Name** property value does not exist in the **Categories** collection of the **NameSpace** object that contains the Outlook item, the category name associated with that Outlook item is still displayed, but without an associated color.

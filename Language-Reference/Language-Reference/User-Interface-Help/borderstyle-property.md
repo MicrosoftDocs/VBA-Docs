@@ -34,6 +34,7 @@ The settings for  _fmBorderStyle_ are:
 |:-----|:-----|:-----|
 | _fmBorderStyleNone_|0|The control has no visible border line.|
 | _fmBorderStyleSingle_|1|The control has a single-line border (default).|
+
 The default value for a  **ComboBox**, **Frame**, **Label**, **ListBox** or **TextBox** is 0 ( _None_ ). The default value for an **Image** is 1 ( _Single_ ).
  **Remarks**
 For a  **Frame**, the **BorderStyle** property is ignored if the **SpecialEffect** property is _None_.

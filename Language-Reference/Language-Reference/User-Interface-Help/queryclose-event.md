@@ -36,6 +36,7 @@ The  _closemode_ argument returns the following values:
 |**vbFormCode**|1|The  **Unload** statement is invoked from code.|
 |**vbAppWindows**|2|The current Windows operating environment session is ending.|
 |**vbAppTaskManager**|3|The Windows  **Task Manager** is closing the application.|
+
 These constants are listed in the Visual Basic for Applications [object library](vbe-glossary.md) in the[Object Browser](vbe-glossary.md). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
  **Remarks**
 This event is typically used to make sure there are no unfinished tasks in the user forms included in an application before that application closes. For example, if a user hasn't saved new data in any  **UserForm**, the application can prompt the user to save the data.

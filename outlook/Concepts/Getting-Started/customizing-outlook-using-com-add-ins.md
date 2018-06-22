@@ -61,6 +61,7 @@ When the COM add-in is first registered,  **LoadBehavior** can be set to any of 
 |2|Load at startup. The COM add-in is to be loaded and connected when Outlook starts.|
 |8|Load on demand. The COM add-in is to be loaded and connected only when the user requests it, such as by using the  **COM Add-ins** dialog box.|
 |16|Connect first time. The COM add-in is loaded and connected the first time the user runs Outlook after the COM add-in has been registered. The next time Outlook is run, the COM add-in is loaded when the user requests it. Use this value if your COM add-in modifies the user interface to allow the user to request the COM add-in be connected on demand (by clicking a button, for example).|
+
 After the COM add-in is registered and loaded, the  **LoadBehavior** value can be combined with either of the following two flags to indicate current connection state of the COM add-in.
 
 
@@ -69,6 +70,7 @@ After the COM add-in is registered and loaded, the  **LoadBehavior** value can b
 |:-----|:-----|
 |0|Disconnected|
 |1|Connected|
+
 To connect the COM add-in, set the Connected flag in  **LoadBehavior**; clear the flag to disconnect the COM add-in.
 
 The  **FriendlyName** value specifies the name of the COM add-in as it's displayed in the **COM Add-in** dialog box. The **Description** value provides additional information about the COM add-in.

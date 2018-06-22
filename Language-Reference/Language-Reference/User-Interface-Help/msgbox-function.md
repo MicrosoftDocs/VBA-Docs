@@ -53,6 +53,7 @@ The  **_buttons_**[argument](vbe-glossary.md) settings are:
 |**VbMsgBoxSetForeground**|65536|Specifies the message box window as the foreground window.|
 |**vbMsgBoxRight**|524288|Text is right aligned.|
 |**vbMsgBoxRtlReading**|1048576|Specifies text should appear as right-to-left reading on Hebrew and Arabic systems.|
+
 The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When adding numbers to create a final value for the  **_buttons_** argument, use only one number from each group.
 
  **Note**  These [constants](vbe-glossary.md) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.

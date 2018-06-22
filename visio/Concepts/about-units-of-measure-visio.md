@@ -164,6 +164,7 @@ number [unit, flag]
 | _number_|The original value, such as 3.7, 1.7E-4, or 5 1/2.|
 | _unit_|The units in which  _number_ originally is expressed.|
 | _flag_|The measurement system to use when the implicit-value unit is displayed. See below for values.|
+
 The element  _flag_ is one of the following letters (either uppercase or lowercase) indicating the measurement system that should be used when the implicit-value unit is displayed.
 
 
@@ -175,6 +176,7 @@ The element  _flag_ is one of the following letters (either uppercase or lowerca
 | e, E| Duration| =5[eh,E]|
 | p, P| Page| =5[in,P]|
 | t, T| Type| =5[pt,T]|
+
 Additionally, you can use the implicit units DL, DP, DT, DA, DE for implicit drawing-, page-, text-, angular-, and time-units, respectively. These units assume the associated value is internal units. For example, if the current measurement system is centimeters,  _=2 DL_ would be interpreted as 2 internal units (inches) and displayed as 5.08 cm.
 
 Using the implicit syntax described above, this expression (=2 DL) is equivalent to 2[in,d]. The implicit syntax gives you the choice of how to interpret the value, so you could also specify 2[ft,d], which would be interpreted as 2 feet, and displayed as 60.96 cm. The implicit units DL, DP, DT, DA, and DE are universal, and do not have localized counterparts.

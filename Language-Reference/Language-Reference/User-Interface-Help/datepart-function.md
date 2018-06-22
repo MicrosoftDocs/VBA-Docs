@@ -42,6 +42,7 @@ The  **_interval_**[argument](vbe-glossary.md) has these settings:
 |h|Hour|
 |n|Minute|
 |s|Second|
+
 The  **_firstdayofweek_** argument has these settings:
 
 
@@ -55,6 +56,7 @@ The  **_firstdayofweek_** argument has these settings:
 |**vbThursday**|5|Thursday|
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
+
 The  **_firstweekofyear_** argument has these settings:
 
 

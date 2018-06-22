@@ -27,6 +27,7 @@ The constants for the Japanese [locale](vbe-glossary.md) are as follows:
 |**vbIMEModeKatakanaHalf**|6|Half-width Katakana mode|
 |**vbIMEModeAlphaFull**|7|Full-width Alphanumeric mode|
 |**vbIMEModeAlpha**|8|Half-width Alphanumeric mode|
+
 The constant values for the Korean locale are as follows:
 
 
@@ -37,6 +38,7 @@ The constant values for the Korean locale are as follows:
 |**vbIMEModeAlpha**|8|Half-width Alphanumeric mode|
 |**vbIMEModeHangulFull**|9|Full-width Hangul mode|
 |**vbIMEModeHangul**|10|Half-width Hangul mode|
+
 The constant values for the Chinese locale are as follows:
 
 

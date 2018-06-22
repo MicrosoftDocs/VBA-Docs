@@ -37,6 +37,7 @@ The string returned by **TypeName** can be any one of the following:</br>
 |[Object](vbe-glossary.md)|An object|
 |Unknown|An object whose type is unknown|
 |**Nothing**|Object variable that doesn't refer to an object|
+
 <br>
 If  _varname_ is an [array](vbe-glossary.md), the returned string can be any one of the possible returned strings (or  **Variant** ) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
 

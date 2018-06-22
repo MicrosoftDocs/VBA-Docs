@@ -40,6 +40,7 @@ If either or both expressions evaluate to  **True**, _result_ is **True**. The f
 |**Null**|**True**|**True**|
 |**Null**|**False**|**Null**|
 |**Null**|**Null**|**Null**|
+
 The  **Or** operator also performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
 
 

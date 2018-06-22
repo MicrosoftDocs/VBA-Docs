@@ -43,6 +43,7 @@ The settings for  _fmIMEMode_ are:
 | _fmIMEModeAlpha_|8|IME on with Half-width Alphanumeric mode.|
 | _fmIMEModeHangulFull_|9|IME on with Full-width Hangul mode.|
 | _fmIMEModeHangul_|10|IME on with Half-width Hangul mode.|
+
 The  **fmIMEModeNoControl** setting indicates that the mode of the IME does not change when the control receives[focus](vbe-glossary.md) at run time. For any other value, the mode of the IME is set to the value specified by the **IMEMode** property when the control receives focus at run time.
  **Remarks**
 There are two ways to set the mode of the IME. One is through the toolbar of the IME. The other is with the  **IMEMode** property of a control, which sets or returns the current mode of the IME. This property allows dynamic control of the IME through code.
