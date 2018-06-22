@@ -29,7 +29,4 @@ In general for applications that implement Office Art, the  **Group** method gro
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)

@@ -63,8 +63,5 @@ The following statement is the same as the previous:
 ## See also
 
 
-#### Other resources
-
-
 [Shapes Object](Project.shapes.md)
 [Value Property](Project.shapes.value.md)

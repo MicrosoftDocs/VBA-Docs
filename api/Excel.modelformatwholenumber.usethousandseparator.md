@@ -24,9 +24,6 @@ Specifies whether to display commas between thousands. Read/write  **Boolean**.
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatWholeNumber Object](Excel.modelformatwholenumber.md)
 
 

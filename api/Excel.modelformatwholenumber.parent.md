@@ -24,9 +24,6 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatWholeNumber Object](Excel.modelformatwholenumber.md)
 
 

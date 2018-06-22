@@ -29,9 +29,6 @@ Returns or sets the origin of the text file you're importing into the query tabl
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

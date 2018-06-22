@@ -41,9 +41,6 @@ The  **State** property can return one of the following three states:
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

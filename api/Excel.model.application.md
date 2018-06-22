@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [Model Object Members](http://msdn.microsoft.com/library/b2bd944a-3484-222b-b3d6-acd70a6ac28a%28Office.15%29.aspx)
 
 

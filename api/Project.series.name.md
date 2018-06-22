@@ -27,7 +27,4 @@ For a code example that uses the  **Name** property, see the **[Series](Project.
 ## See also
 
 
-#### Other resources
-
-
 [Series Object](Project.series.md)

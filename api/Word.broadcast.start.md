@@ -45,9 +45,6 @@ If the value passed for  _serverUrl_ has invalid formatting, **Start** returns a
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

@@ -21,8 +21,5 @@ The Item property for the Engagements object. Introduced in Office 2016.
 ## See also
 
 
-#### Other resources
-
-
 [Engagements Object (Project)](engagements-object-project.md)
 

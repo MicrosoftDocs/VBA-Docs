@@ -29,9 +29,6 @@ Returns or sets a  **Boolean** that determines whether the specified chart categ
 ## See also
 
 
-#### Other resources
-
-
 [ChartCategory Object](Word.chartcategory.md)
 
 

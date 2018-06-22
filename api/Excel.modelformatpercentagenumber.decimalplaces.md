@@ -24,9 +24,6 @@ Specifies the number of decimal places after the dot. Read/write  **Long**.
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatPercentageNumber Object](Excel.modelformatpercentagenumber.md)
 
 

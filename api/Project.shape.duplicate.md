@@ -59,8 +59,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [ShapeRange.Duplicate Method](Project.shaperange.duplicate.md)

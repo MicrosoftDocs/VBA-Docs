@@ -64,9 +64,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [Apply Method](Project.shaperange.apply.md)
 [Shape.PickUp Method](shape-pickup-method-project.md)

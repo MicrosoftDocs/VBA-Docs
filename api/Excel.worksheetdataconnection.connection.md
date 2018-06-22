@@ -29,9 +29,6 @@ Returns the internal connection string to the object in Excel.  **Variant** Read
 ## See also
 
 
-#### Other resources
-
-
 
 [WorksheetDataConnection Object](Excel.worksheetdataconnection.md)
 

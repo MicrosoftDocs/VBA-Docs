@@ -44,9 +44,6 @@ If you fail to pass a string for either of the two parameters, the  **AddMeeting
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

@@ -37,9 +37,6 @@ A [ModelColumnName Object (Excel)](modelcolumnname-object-excel.md) object conta
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelColumnNames Object](modelcolumnnames-object-excel.md)
 

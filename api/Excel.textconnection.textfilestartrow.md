@@ -29,9 +29,6 @@ Returns or sets the row number at which text parsing will begin when you import 
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

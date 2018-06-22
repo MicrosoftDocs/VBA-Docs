@@ -29,7 +29,4 @@ To see the  **XlBarShape** enumeration in the Object Browser, show the hidden me
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

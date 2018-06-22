@@ -29,9 +29,6 @@ Returns or sets one of the [XlCmdType Enumeration (Excel)](xlcmdtype-enumeration
 ## See also
 
 
-#### Other resources
-
-
 
 [WorksheetDataConnection Object](Excel.worksheetdataconnection.md)
 

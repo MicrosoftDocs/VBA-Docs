@@ -23,8 +23,5 @@ Constants passed to and returned by the [ChartGroup.BinsType](http://msdn.micros
 ## See also
 
 
-#### Other resources
-
-
 [ChartGroup.BinsType Property (PowerPoint)](chartgroup-binstype-property-powerpoint.md)
 

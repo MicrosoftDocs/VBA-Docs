@@ -24,8 +24,5 @@ Gets callout formatting properties for the shape, when the  **Shape** object rep
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [CalloutFormat Object](http://msdn.microsoft.com/en-us/library/office/ff839772%28v=office.15%29)

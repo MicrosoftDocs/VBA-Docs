@@ -29,9 +29,6 @@ Returns a [ModelColumnNames Object (Excel)](modelcolumnnames-object-excel.md) co
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelChanges Object](Excel.modelchanges.md)
 

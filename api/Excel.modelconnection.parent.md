@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[ModelC
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelConnection Object](Excel.modelconnection.md)
 

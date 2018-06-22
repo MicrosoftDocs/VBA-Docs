@@ -24,8 +24,5 @@ Gets the geometric description of nodes or control points in the shape. Read-onl
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [ShapeNodes](http://msdn.microsoft.com/en-us/library/office/ff822109%28v=office.15%29)

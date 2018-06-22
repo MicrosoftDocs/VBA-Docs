@@ -26,8 +26,5 @@ Returns or sets whether the specified comment is collapsed. Read-write  **Boolea
 ## See also
 
 
-#### Other resources
-
-
 [Comment Object](Visio.comment.md)
 

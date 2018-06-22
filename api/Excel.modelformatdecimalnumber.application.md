@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatDecimalNumber Object](Excel.modelformatdecimalnumber.md)
 
 

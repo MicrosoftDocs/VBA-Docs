@@ -37,9 +37,6 @@ A [ModelColumnChange Object (Excel)](modelcolumnchange-object-excel.md) object c
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelColumnChanges Object](modelcolumnchanges-object-excel.md)
 

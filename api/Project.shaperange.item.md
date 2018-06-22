@@ -33,8 +33,5 @@ Gets an individual  **Shape** object in the shape range collection.
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [Shape Object](Project.shape.md)

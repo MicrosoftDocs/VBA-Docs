@@ -29,9 +29,6 @@ Returns a [ModelTableNames Object (Excel)](modeltablenames-object-excel.md) coll
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelChanges Object](Excel.modelchanges.md)
 

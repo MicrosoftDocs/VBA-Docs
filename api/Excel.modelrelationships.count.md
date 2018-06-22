@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of a[ModelRelationship Obje
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationships Object](modelrelationships-object-excel.md)
 

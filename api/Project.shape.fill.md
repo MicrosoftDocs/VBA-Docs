@@ -24,8 +24,5 @@ Gets a  **FillFormat** object for the shape, if the shape contains fill formatti
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [FillFormat](http://msdn.microsoft.com/en-us/library/office/ff838198%28v=office.15%29)

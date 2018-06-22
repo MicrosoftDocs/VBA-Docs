@@ -29,9 +29,6 @@ Returns or sets the degree of transparency for the reflection effect as a value 
 ## See also
 
 
-#### Other resources
-
-
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 

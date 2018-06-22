@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[ModelM
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelMeasureNames Object](modelmeasurenames-object-excel.md)
 

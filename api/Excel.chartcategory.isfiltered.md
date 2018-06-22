@@ -34,9 +34,6 @@ When a series is transferred out of its parent  **SeriesCollection** , that seri
 ## See also
 
 
-#### Other resources
-
-
 [ChartCategory Object](Excel.chartcategory.md)
 
 

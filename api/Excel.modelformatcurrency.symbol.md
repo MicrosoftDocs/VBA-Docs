@@ -24,9 +24,6 @@ Specifies the symbol to use to represent the currency. Read/write  **String**.
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatCurrency Object](Excel.modelformatcurrency.md)
 
 

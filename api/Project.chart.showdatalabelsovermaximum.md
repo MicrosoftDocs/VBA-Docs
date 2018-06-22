@@ -29,7 +29,4 @@ If you change the value axis to be smaller than the size of the data points, you
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

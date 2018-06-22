@@ -29,9 +29,6 @@ Returns or sets the degree of transparency for the glow effect as a value betwee
 ## See also
 
 
-#### Other resources
-
-
  [GlowFormat Object](Publisher.glowformat.md)
  
 

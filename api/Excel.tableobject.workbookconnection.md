@@ -29,9 +29,6 @@ Returns the [WorkbookConnection Object (Excel)](workbookconnection-object-excel.
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

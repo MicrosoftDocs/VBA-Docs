@@ -132,8 +132,5 @@ You can use the image control or an [Unbound object frame](http://msdn.microsoft
 ## See also
 
 
-#### Other resources
-
-
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br>
 [Image Object Members](http://msdn.microsoft.com/library/c2ad356b-bd6b-2b45-00b0-cd484ee06cc5%28Office.15%29.aspx)

@@ -29,7 +29,4 @@ For a code example that uses the  **Reports.Count** property, see the **[Report.
 ## See also
 
 
-#### Other resources
-
-
 [Reports Object](Project.reports.md)

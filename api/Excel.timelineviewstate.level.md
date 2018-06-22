@@ -29,9 +29,6 @@ Get or set the displayed level. [XlTimelineLevel Enumeration (Excel)](xltimeline
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 

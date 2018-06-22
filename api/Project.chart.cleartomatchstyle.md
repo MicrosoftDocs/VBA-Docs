@@ -29,8 +29,5 @@ Use the  **ClearToMatchSyle** method to reset the formatting of all chart elemen
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)
 [ClearToMatchColorStyle](Project.chart.cleartomatchcolorstyle.md)

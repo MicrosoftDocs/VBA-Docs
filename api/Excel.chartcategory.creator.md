@@ -34,9 +34,6 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-#### Other resources
-
-
 [ChartCategory Object](Excel.chartcategory.md)
 
 

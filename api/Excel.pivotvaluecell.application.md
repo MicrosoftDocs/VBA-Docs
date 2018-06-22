@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 

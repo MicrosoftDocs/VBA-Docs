@@ -24,8 +24,5 @@ Constants passed to and returned by the  **Series.ParentDataLabelOption** proper
 ## See also
 
 
-#### Other resources
-
-
 [Series.ParentDataLabelOption](Word.series.parentdatalabeloption.md)
 

@@ -42,8 +42,5 @@ You can use the  **[Visible](http://msdn.microsoft.com/library/e34a7247-59aa-0a7
 ## See also
 
 
-#### Other resources
-
-
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
 [CalendarModule Object Members](http://msdn.microsoft.com/library/82731a1f-3ebe-1cb0-9e8b-d370a0b8f954%28Office.15%29.aspx)

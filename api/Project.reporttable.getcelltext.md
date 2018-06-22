@@ -128,8 +128,5 @@ Table name: Table 3
 ## See also
 
 
-#### Other resources
-
-
 [ReportTable Object](Project.reporttable.md)
 [ID Property](Project.shape.id.md)

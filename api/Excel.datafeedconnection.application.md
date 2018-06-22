@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

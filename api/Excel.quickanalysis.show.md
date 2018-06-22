@@ -55,9 +55,6 @@ When [XlQuickAnalysisMode Enumeration (Excel)](xlquickanalysismode-enumeration-e
 ## See also
 
 
-#### Other resources
-
-
 
 [QuickAnalysis Object](Excel.quickanalysis.md)
 

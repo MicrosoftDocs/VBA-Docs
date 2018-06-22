@@ -38,9 +38,6 @@ A [Series Object (Excel)](series-object-excel.md) object contained in the collec
 ## See also
 
 
-#### Other resources
-
-
 
 [FullSeriesCollection Object](fullseriescollection-object-excel.md)
 

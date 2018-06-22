@@ -24,8 +24,5 @@ The parent of a  **SeriesCollection** object is a **Chart** object.
 ## See also
 
 
-#### Other resources
-
-
 [SeriesCollection Object](Project.seriescollection.md)
 [Chart Object](Project.chart.md)

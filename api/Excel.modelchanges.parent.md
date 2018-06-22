@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[ModelC
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelChanges Object](Excel.modelchanges.md)
 

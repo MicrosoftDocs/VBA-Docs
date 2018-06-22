@@ -29,9 +29,6 @@ Returns or sets the character used as the delimiter when you import a text file 
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

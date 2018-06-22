@@ -72,7 +72,4 @@ For example, running the  **GetSeriesValue** macro on a chart that includes a pl
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

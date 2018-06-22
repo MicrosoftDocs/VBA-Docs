@@ -29,9 +29,6 @@ Void
 ## See also
 
 
-#### Other resources
-
-
 [ModelMeasure Object](Excel.modelmeasure.md)
 
 

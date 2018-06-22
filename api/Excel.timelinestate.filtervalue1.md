@@ -29,9 +29,6 @@ Returns the 1st value associated with the date filter (semantics vary by filter 
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineState Object](Excel.timelinestate.md)
 

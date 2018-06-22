@@ -38,9 +38,6 @@ Returns an individual repeating section item.
 ## See also
 
 
-#### Other resources
-
-
 [RepeatingSectionItemColl Object](Word.repeatingsectionitemcoll.md)
 
 

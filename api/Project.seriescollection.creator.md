@@ -29,8 +29,5 @@ If the chart was created in Microsoft Project, the  **Creator** property returns
 ## See also
 
 
-#### Other resources
-
-
 [SeriesCollection Object](Project.seriescollection.md)
 [Chart.Creator Property](Project.chart.creator.md)

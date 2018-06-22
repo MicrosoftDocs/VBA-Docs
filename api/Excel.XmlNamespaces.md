@@ -26,9 +26,6 @@ Use the  **[Value](Excel.XmlNamespaces.Value.md)** property to return a **String
 ## See also
 
 
-#### Other resources
-
-
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
 
 

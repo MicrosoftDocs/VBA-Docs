@@ -29,7 +29,4 @@ If you try to use the  **Background** property, Project shows a run-time error 4
 ## See also
 
 
-#### Other resources
-
-
 [Shapes Object](Project.shapes.md)

@@ -29,9 +29,6 @@ Returns or sets the thousands separator character that Microsoft Excel uses when
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

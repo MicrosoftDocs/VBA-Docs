@@ -34,9 +34,6 @@ For a  **ModelConnection** object, this type will be set to either **xlCmdTable*
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelConnection Object](Excel.modelconnection.md)
 

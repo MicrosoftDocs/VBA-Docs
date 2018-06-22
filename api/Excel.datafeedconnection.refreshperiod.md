@@ -29,9 +29,6 @@ Returns or sets the number of minutes between refreshes.  **Long** Read/Write
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

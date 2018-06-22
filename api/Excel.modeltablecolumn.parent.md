@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableColumn Object](modeltablecolumn-object-excel.md)
 

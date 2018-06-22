@@ -29,9 +29,6 @@ Puts the individual rows of an OLAP data source which contribute to an aggregate
 ## See also
 
 
-#### Other resources
-
-
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 

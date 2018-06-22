@@ -276,8 +276,5 @@ Set myItem = Application.CreateItem(olContactItem)
 ## See also
 
 
-#### Other resources
-
-
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
 [ContactItem Object Members](http://msdn.microsoft.com/library/a8b13369-4c87-02aa-e62a-1f3067e559fa%28Office.15%29.aspx)

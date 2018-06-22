@@ -29,9 +29,6 @@ Returns or sets a string that contains Service Contract settings that enable Mic
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

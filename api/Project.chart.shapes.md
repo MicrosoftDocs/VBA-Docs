@@ -24,7 +24,4 @@ Gets a  **[Shapes](http://msdn.microsoft.com/library/ff8b735a-d0a3-debf-97f1-649
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

@@ -29,9 +29,6 @@ Name of the data source for the table. If the table has no data source, the call
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTable Object](Excel.modeltable.md)
 

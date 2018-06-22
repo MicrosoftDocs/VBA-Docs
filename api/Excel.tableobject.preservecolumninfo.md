@@ -29,9 +29,6 @@ Specifies if column sorting, filtering, and layout information is preserved when
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

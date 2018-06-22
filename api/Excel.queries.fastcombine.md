@@ -29,9 +29,6 @@ For silent refresh operations, use the  **FastCombine** property in conjunction 
 ## See also
 
 
-#### Other resources
-
-
 [Queries Object](Excel.queries.md)
 
 

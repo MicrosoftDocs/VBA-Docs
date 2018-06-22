@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelConnection Object](Excel.modelconnection.md)
 

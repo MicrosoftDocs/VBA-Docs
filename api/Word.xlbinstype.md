@@ -26,8 +26,5 @@ Constants passed to and returned by the [ChartGroup.BinsType](Word.chartgroup.bi
 ## See also
 
 
-#### Other resources
-
-
 [ChartGroup.BinsType Property](Word.chartgroup.binstype.md)
 

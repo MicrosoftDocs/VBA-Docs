@@ -45,9 +45,6 @@ End With
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [AddConnector Method](Project.shapes.addconnector.md)
 [ConnectorFormat](http://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)

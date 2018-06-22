@@ -54,9 +54,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [ShapeRange.TextEffect Property](Project.shaperange.texteffect.md)
 [TextEffectFormat](http://msdn.microsoft.com/en-us/library/office/ff834714%28v=office.15%29)

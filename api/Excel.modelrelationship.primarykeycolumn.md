@@ -29,9 +29,6 @@ Contains the [ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md)
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationship Object](Excel.modelrelationship.md)
 

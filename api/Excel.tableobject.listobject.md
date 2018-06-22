@@ -29,9 +29,6 @@ Returns a [ListObject Object (Excel)](listobject-object-excel.md) object for the
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

@@ -29,9 +29,6 @@ Returns or sets the way rows on the specified worksheet are added or deleted to 
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

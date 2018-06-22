@@ -25,9 +25,6 @@ Specifies the date format, for example, " _dd/mm/yy_ ". Read/write **String**.
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatDate Object](Excel.modelformatdate.md)
 
 

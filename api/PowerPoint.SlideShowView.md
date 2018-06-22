@@ -44,8 +44,5 @@ End With
 ## See also
 
 
-#### Other resources
-
-
 [PowerPoint Object Model Reference](http://msdn.microsoft.com/library/00acd64a-5896-0459-39af-98df2849849e%28Office.15%29.aspx)
 [SlideShowView Object Members](http://msdn.microsoft.com/library/fe2aacef-7324-4d07-55e9-0dffcdbb2a6c%28Office.15%29.aspx)

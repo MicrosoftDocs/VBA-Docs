@@ -24,7 +24,4 @@ Gets or sets whether to display axis field buttons on a PivotChart. Read/write  
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

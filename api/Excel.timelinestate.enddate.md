@@ -39,9 +39,6 @@ This property will return an error for either of the following conditions:
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineState Object](Excel.timelinestate.md)
 

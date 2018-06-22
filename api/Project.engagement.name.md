@@ -21,8 +21,5 @@ ms.prod: project-server
 ## See also
 
 
-#### Other resources
-
-
 [Engagement Object (Project)](engagement-object-project.md)
 

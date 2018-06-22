@@ -38,9 +38,6 @@ Adds a new relationship to the model.
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationships Object](modelrelationships-object-excel.md)
 

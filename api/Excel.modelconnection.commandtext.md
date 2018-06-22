@@ -34,9 +34,6 @@ The command text is either a table name (of a model table) or a DAX expression e
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelConnection Object](Excel.modelconnection.md)
 

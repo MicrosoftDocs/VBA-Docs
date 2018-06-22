@@ -135,8 +135,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Access Object Model Reference](object-model-access-vba-reference.md)
 

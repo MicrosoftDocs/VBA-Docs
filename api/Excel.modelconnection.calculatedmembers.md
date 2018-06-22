@@ -21,9 +21,6 @@ Returns a [CalculatedMembers](Excel.CalculatedMembers.md) object that represents
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelConnection Object](Excel.modelconnection.md)
 

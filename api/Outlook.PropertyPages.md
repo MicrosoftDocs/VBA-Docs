@@ -49,7 +49,4 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 ## See also
 
 
-#### Other resources
-
-
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

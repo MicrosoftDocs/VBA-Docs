@@ -29,9 +29,6 @@ Returns the range of the specified repeating section item, excluding the start a
 ## See also
 
 
-#### Other resources
-
-
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
 

@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of[ModelTable Object (Excel
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTables Object](modeltables-object-excel.md)
 

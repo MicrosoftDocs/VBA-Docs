@@ -37,9 +37,6 @@ Returns a single object from the  **ModelTables** collection.
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTables Object](Excel.modeltables.md)
 

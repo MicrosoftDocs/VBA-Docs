@@ -24,7 +24,4 @@ Gets updated values from a pivot table data source.
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

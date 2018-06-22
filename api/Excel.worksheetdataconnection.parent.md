@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[Worksh
 ## See also
 
 
-#### Other resources
-
-
 
 [WorksheetDataConnection Object](worksheetdataconnection-object-excel.md)
 

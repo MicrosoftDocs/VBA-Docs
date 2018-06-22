@@ -21,8 +21,5 @@ The Count property for the EngagementComments object. Introduced in Office 2016.
 ## See also
 
 
-#### Other resources
-
-
 [EngagementComments Object (Project)](engagementcomments-object-project.md)
 

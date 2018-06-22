@@ -29,9 +29,6 @@ When  **True** , the relationship is active. When **False** , this relationship 
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationship Object](Excel.modelrelationship.md)
 

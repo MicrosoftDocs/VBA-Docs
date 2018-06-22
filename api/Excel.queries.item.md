@@ -36,9 +36,6 @@ Returns a single object from a collection.
 ## See also
 
 
-#### Other resources
-
-
 [Queries Object](Excel.queries.md)
 
 

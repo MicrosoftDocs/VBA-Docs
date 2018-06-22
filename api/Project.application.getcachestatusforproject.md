@@ -140,8 +140,5 @@ Publish completed: WinProj test 1
 ## See also
 
 
-#### Other resources
-
-
 [PjCacheJobState Enumeration](Project.pjcachejobstate.md)
 [PjJobType Enumeration](Project.pjjobtype.md)

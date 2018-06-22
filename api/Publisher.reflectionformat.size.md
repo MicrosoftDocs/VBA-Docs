@@ -29,9 +29,6 @@ Returns or sets the size of the reflection as a percentage of the reflected shap
 ## See also
 
 
-#### Other resources
-
-
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 

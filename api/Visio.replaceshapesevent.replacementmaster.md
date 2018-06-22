@@ -31,9 +31,6 @@ The replacement shape is an object of type [Master](Visio.Master.md) or[MasterSh
 ## See also
 
 
-#### Other resources
-
-
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 

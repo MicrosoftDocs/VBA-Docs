@@ -37,9 +37,6 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 ## See also
 
 
-#### Other resources
-
-
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
 

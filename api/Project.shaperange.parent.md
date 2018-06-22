@@ -24,7 +24,4 @@ Gets the parent object of the shape. Read-only  **Object**.
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)

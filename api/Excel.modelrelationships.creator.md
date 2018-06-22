@@ -34,9 +34,6 @@ Because the object was created in Microsoft Excel, this property returns the hex
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationships Object](Excel.modelrelationships.md)
 

@@ -49,8 +49,5 @@ objRet = object(index )
 ## See also
 
 
-#### Other resources
-
-
 [Comments Collection](Visio.comments.md)
 

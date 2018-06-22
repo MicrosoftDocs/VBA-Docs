@@ -26,9 +26,6 @@ Returns a [Document](Visio.Document.md) object that represents the state of the 
 ## See also
 
 
-#### Other resources
-
-
 [CoauthMergeEvent Object](Visio.coauthmergeevent.md)
 
 

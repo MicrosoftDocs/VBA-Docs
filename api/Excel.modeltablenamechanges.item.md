@@ -37,9 +37,6 @@ Returns a single object from the  **ModelTableNameChanges** collection.
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableNameChanges Object](Excel.modeltablenamechanges.md)
 

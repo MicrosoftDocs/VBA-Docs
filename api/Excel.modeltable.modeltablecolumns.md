@@ -29,9 +29,6 @@ Collection of [ModelTableColumns Object (Excel)](modeltablecolumns-object-excel.
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTable Object](Excel.modeltable.md)
 

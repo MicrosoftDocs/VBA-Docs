@@ -46,6 +46,7 @@ The  _Index_ parameter value can be one of these **PpMouseActivation** constants
 |:-----|:-----|
 |**ppMouseClick**|The action setting for when the user clicks the shape.|
 |**ppMouseOver**|The action setting for when the mouse pointer is positioned over the specified shape.|
+
 The  **Item** method is the default member for a collection. For example, the following two lines of code are equivalent:
 
 

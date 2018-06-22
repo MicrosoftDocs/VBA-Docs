@@ -29,9 +29,6 @@ Returns or sets value that specifies whether or not the first row (from the star
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

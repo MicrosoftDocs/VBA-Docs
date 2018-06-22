@@ -26,8 +26,5 @@ Returns the SMTP (Simple Mail Transfer Protocol) address of the author of the co
 ## See also
 
 
-#### Other resources
-
-
 [Comment Object](Visio.comment.md)
 

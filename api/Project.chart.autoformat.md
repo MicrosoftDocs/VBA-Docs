@@ -58,8 +58,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)
 [ChartWizard Method](Project.chart.chartwizard.md)

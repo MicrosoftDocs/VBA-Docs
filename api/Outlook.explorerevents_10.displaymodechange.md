@@ -32,8 +32,5 @@ Occurs when the user performs an action that changes the display mode. Possible 
 ## See also
 
 
-#### Other resources
-
-
 [Explorer.DisplayModeChange Event (Outlook)](explorer-displaymodechange-event-outlook.md)
 

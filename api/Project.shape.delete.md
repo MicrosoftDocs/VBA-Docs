@@ -24,7 +24,4 @@ Deletes the shape.
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

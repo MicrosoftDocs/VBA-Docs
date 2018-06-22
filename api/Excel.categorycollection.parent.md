@@ -34,9 +34,6 @@ This property will return the  **Chart** object that owns this collection of cat
 ## See also
 
 
-#### Other resources
-
-
 
 [CategoryCollection Object](categorycollection-object-excel.md)
 

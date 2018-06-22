@@ -24,9 +24,6 @@ The Power Query M formula for the object. Read-only  **String**.
 ## See also
 
 
-#### Other resources
-
-
 [WorkbookQuery Object](Excel.workbookquery.md)
 
 

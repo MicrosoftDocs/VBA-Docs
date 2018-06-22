@@ -24,7 +24,4 @@ Selects all shapes in the  **Shapes** collection.
 ## See also
 
 
-#### Other resources
-
-
 [Shapes Object](Project.shapes.md)

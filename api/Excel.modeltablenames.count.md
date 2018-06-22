@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of objects in a[ModelTableN
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableNames Object](modeltablenames-object-excel.md)
 

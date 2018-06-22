@@ -29,9 +29,6 @@ Contains the [ModelTable Object (Excel)](modeltable-object-excel.md) object (Exc
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationship Object](Excel.modelrelationship.md)
 

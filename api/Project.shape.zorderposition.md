@@ -33,8 +33,5 @@ When you add a shape to a  **Shapes** collection, the shape is added to the fron
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [Shapes Object](Project.shapes.md)

@@ -26,9 +26,6 @@ Returns a [Selection](Visio.Selection.md) object that represents the source shap
 ## See also
 
 
-#### Other resources
-
-
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 

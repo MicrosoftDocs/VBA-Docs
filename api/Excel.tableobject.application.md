@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

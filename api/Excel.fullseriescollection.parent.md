@@ -34,9 +34,6 @@ Typically the chart to which this  **FullSeriesCollection** object belongs is re
 ## See also
 
 
-#### Other resources
-
-
 
 [FullSeriesCollection Object](Excel.fullseriescollection.md)
 

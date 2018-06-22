@@ -33,7 +33,4 @@ Moves the shape vertically by the specified number of points.
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

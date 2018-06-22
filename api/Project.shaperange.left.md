@@ -24,7 +24,4 @@ Gets or sets the horizontal distance, in points, from the left side of the repor
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)

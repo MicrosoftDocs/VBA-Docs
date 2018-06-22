@@ -56,8 +56,5 @@ Set mySelectedItems = myExplorer.Selection
 ## See also
 
 
-#### Other resources
-
-
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
 [Selection Object Members](http://msdn.microsoft.com/library/c79922d4-aa76-ff48-f163-8161fa1ae0a8%28Office.15%29.aspx)

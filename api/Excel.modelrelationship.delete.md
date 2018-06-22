@@ -29,9 +29,6 @@ Deletes the relationship.
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationship Object](Excel.modelrelationship.md)
 

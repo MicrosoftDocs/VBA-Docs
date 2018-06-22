@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableColumn Object](Excel.modeltablecolumn.md)
 

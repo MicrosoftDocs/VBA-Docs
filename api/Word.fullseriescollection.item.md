@@ -38,9 +38,6 @@ Returns an individual full series item from the collection.
 ## See also
 
 
-#### Other resources
-
-
 [FullSeriesCollection Object](Word.fullseriescollection.md)
 
 

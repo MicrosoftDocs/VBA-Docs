@@ -19,7 +19,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 ## See also
 
 
-#### Other resources
-
-
 [SeriesCollection Object](Project.seriescollection.md)

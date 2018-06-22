@@ -29,9 +29,6 @@ Returns or sets the decimal separator character that Microsoft Excel uses when y
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

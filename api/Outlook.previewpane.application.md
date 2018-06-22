@@ -24,9 +24,6 @@ Returns the [Application](Outlook.Application.md) object that represents the par
 ## See also
 
 
-#### Other resources
-
-
 
 [PreviewPane Object (Outlook)](Outlook.previewpane.md)
 

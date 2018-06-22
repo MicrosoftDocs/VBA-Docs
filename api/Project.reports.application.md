@@ -24,7 +24,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 ## See also
 
 
-#### Other resources
-
-
 [Reports Object](Project.reports.md)

@@ -22,9 +22,6 @@ Constants passed to various  **WorksheetFunction** and **Workbook** statistical 
 ## See also
 
 
-#### Other resources
-
-
 [Forecast_ETS Method](Excel.worksheetfunction.forecast_ets.md)
 [Forecast_ETS_ConfInt Method](Excel.worksheetfunction.forecast_ets_confint.md)
 [Forecast_ETS_Seasonality Method](Excel.worksheetfunction.forecast_ets_seasonality.md)

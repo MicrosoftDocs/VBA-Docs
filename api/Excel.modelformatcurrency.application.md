@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatCurrency Object](Excel.modelformatcurrency.md)
 
 

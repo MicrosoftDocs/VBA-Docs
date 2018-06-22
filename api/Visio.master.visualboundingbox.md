@@ -38,7 +38,4 @@ Returns the bounding rectangle of the virtual container that has all the shapes 
 ## See also
 
 
-#### Other resources
-
-
 [VisBoundingBoxArgs Enumeration (Visio)](http://msdn.microsoft.com/library/04523cbd-758f-757d-daac-30ca4676e6c2%28Office.15%29.aspx)

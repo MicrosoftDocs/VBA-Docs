@@ -24,8 +24,5 @@ Gets or sets a value that indicates how the shape appears when it is viewed in b
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [MsoBlackWhiteMode Enumeration](http://msdn.microsoft.com/en-us/library/office/ff860913%28v=office.15%29)

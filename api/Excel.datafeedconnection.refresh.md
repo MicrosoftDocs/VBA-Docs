@@ -29,9 +29,6 @@ Refreshes the data feed connection.
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

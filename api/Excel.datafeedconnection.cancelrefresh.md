@@ -29,9 +29,6 @@ Cancels a refresh operation on a data feed connection.
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

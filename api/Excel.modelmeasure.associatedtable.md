@@ -24,9 +24,6 @@ Specifies the table that contains the model measure, as displayed in the  **Fiel
 ## See also
 
 
-#### Other resources
-
-
 [ModelMeasure Object](Excel.modelmeasure.md)
 
 

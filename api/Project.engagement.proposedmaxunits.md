@@ -21,8 +21,5 @@ The ProposedMaxUnits property for the Engagement object. Introduced in Office 20
 ## See also
 
 
-#### Other resources
-
-
 [Engagement Object (Project)](engagement-object-project.md)
 

@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableNameChange Object](modeltablenamechange-object-excel.md)
 

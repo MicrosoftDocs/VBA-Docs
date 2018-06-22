@@ -29,9 +29,6 @@ Specifies if the number of rows returned by the last use of the Refresh method i
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

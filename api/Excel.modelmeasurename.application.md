@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelMeasureName Object](Excel.modelmeasurename.md)
 

@@ -35,9 +35,6 @@ A Component Object Model (COM) object, such as a Microsoft Visio  **Document** o
 ## See also
 
 
-#### Other resources
-
-
 [CoauthMergeEvent Object](Visio.coauthmergeevent.md)
 
 

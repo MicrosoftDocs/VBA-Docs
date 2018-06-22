@@ -37,9 +37,6 @@ Returns a single object from the  **CategoryCollection** object.
 ## See also
 
 
-#### Other resources
-
-
 
 [CategoryCollection Object](Excel.categorycollection.md)
 

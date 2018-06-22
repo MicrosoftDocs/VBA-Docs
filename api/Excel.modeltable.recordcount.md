@@ -29,9 +29,6 @@ Returns the total row count for the model table.  **Integer** Read-only
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTable Object](Excel.modeltable.md)
 

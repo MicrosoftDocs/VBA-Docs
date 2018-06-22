@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of a[ModelTableColumn Objec
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableColumns Object](modeltablecolumns-object-excel.md)
 

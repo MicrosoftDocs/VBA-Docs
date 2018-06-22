@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of objects in the **Categor
 ## See also
 
 
-#### Other resources
-
-
 
 [CategoryCollection Object](Excel.categorycollection.md)
 

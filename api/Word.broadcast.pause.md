@@ -34,9 +34,6 @@ If the specified broadcast is not in progress,  **Pause** returns runtime error 
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

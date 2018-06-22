@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [QuickAnalysis Object](Excel.quickanalysis.md)
 

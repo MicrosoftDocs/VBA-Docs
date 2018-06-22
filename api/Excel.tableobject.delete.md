@@ -29,9 +29,6 @@ Deletes the  **TableObject** object.
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

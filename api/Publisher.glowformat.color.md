@@ -29,9 +29,6 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object that represents th
 ## See also
 
 
-#### Other resources
-
-
  [GlowFormat Object](Publisher.glowformat.md)
  
 

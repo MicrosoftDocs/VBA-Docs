@@ -24,8 +24,5 @@ Constants passed to and returned by the [ApplicationSettings.SVGExportFormat](Vi
 ## See also
 
 
-#### Other resources
-
-
 [ApplicationSettings.SVGExportFormat](Visio.applicationsettings.svgexportformat.md)
 

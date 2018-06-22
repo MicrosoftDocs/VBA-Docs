@@ -24,9 +24,6 @@ Deletes this query and its underlying connection and removes it from the  **Quer
 ## See also
 
 
-#### Other resources
-
-
 [WorkbookQuery Object](Excel.workbookquery.md)
 
 

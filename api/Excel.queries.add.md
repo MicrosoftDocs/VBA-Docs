@@ -52,9 +52,6 @@ query1 = ActiveWorkbook.Queries.Add(?query1?, mFormula)
 ## See also
 
 
-#### Other resources
-
-
 [Queries Object](queries-object-excel.md)
 
 

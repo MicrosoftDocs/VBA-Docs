@@ -34,9 +34,6 @@ If a broadcast is not in progress,  **PresenterServiceUrl** returns an empty str
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

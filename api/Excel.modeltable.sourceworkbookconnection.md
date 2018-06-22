@@ -29,9 +29,6 @@ Returns the Workbook Connection from which the model table originated. Read-only
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTable Object](Excel.modeltable.md)
 

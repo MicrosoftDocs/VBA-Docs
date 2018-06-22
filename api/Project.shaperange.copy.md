@@ -24,7 +24,4 @@ Copies the shape range to the Clipboard.
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)

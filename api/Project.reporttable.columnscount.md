@@ -29,8 +29,5 @@ For an example that uses the  **ColumnsCount** property, see the **ReportTable**
 ## See also
 
 
-#### Other resources
-
-
 [ReportTable Object](Project.reporttable.md)
 [Shape Object](Project.shape.md)

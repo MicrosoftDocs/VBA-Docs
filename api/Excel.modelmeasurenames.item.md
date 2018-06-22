@@ -37,9 +37,6 @@ A [ModelMeasureName Object (Excel)](modelmeasurename-object-excel.md) object con
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelMeasureNames Object](modelmeasurenames-object-excel.md)
 

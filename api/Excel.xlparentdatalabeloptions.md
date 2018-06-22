@@ -23,8 +23,5 @@ Constants passed to and returned by the  **Series.ParentDataLabelOption** proper
 ## See also
 
 
-#### Other resources
-
-
 [Series.ParentDataLabelOption](Excel.series.parentdatalabeloption.md)
 

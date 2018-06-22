@@ -22,8 +22,5 @@ Constants passed to the [Workbook.CreateForecastSheet Method](Excel.workbook.cre
 ## See also
 
 
-#### Other resources
-
-
 [Workbook.CreateForecastSheet Method](Excel.workbook.createforecastsheet.md)
 

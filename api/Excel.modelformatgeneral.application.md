@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatGeneral Object](Excel.modelformatgeneral.md)
 
 

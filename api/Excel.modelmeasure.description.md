@@ -24,9 +24,6 @@ The description of the model measure. Read/write  **String**.
 ## See also
 
 
-#### Other resources
-
-
 [ModelMeasure Object](Excel.modelmeasure.md)
 
 

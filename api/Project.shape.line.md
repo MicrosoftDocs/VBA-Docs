@@ -29,8 +29,5 @@ For a line, the  **LineFormat** object represents the line itself; for a shape w
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [LineFormat](http://msdn.microsoft.com/en-us/library/office/ff194214%28v=office.15%29)

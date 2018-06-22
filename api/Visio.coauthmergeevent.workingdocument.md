@@ -31,9 +31,6 @@ Changes to the merged document returned by the  **WorkingDocument** property are
 ## See also
 
 
-#### Other resources
-
-
 [CoauthMergeEvent Object](Visio.coauthmergeevent.md)
 
 

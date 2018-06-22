@@ -43,9 +43,6 @@ The values returned correspond to either Office or Microsoft Office 2010 broadca
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

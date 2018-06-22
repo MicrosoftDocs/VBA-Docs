@@ -24,8 +24,5 @@ Gets a  **Chart** object that represents the chart contained in the shape range.
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [Chart Object](Project.chart.md)

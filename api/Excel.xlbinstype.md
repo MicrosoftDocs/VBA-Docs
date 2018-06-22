@@ -26,8 +26,5 @@ Constants passed to and returned by the [ChartGroup.BinsType](Excel.chartgroup.b
 ## See also
 
 
-#### Other resources
-
-
 [ChartGroup.BinsType Property](Excel.chartgroup.binstype.md)
 

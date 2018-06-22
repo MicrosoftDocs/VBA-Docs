@@ -26,8 +26,5 @@ Returns the date the specified comment was created. Read-only  **Date**.
 ## See also
 
 
-#### Other resources
-
-
 [Comment Object](Visio.comment.md)
 

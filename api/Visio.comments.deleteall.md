@@ -34,8 +34,5 @@ Deletes all the comments from the active document.
 ## See also
 
 
-#### Other resources
-
-
 [Comments Collection](Visio.comments.md)
 

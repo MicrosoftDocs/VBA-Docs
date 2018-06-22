@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatBoolean Object](Excel.modelformatboolean.md)
 
 

@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[Timeli
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineState Object](timelinestate-object-excel.md)
 

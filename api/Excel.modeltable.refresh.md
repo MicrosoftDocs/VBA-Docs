@@ -29,9 +29,6 @@ Refreshes the model table source connections.
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTable Object](Excel.modeltable.md)
 

@@ -29,9 +29,6 @@ Returns or sets the text qualifier when you import a text file into a query tabl
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

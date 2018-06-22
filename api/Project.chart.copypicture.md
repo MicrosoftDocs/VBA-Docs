@@ -37,8 +37,5 @@ Copies a selected object to the Clipboard as a picture.
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)
 [Copy Method](Project.chart.copy.md)

@@ -36,9 +36,6 @@ If the document is not being broadcast, the method returns runtime error 4702.
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

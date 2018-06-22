@@ -51,7 +51,4 @@ To get the index number of a report, you can use the [Report.Index](Project.repo
 ## See also
 
 
-#### Other resources
-
-
 [Reports Object](Project.reports.md)

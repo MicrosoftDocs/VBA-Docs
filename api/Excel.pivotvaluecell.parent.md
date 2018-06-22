@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[PivotV
 ## See also
 
 
-#### Other resources
-
-
 
 [PivotValueCell Object](pivotvaluecell-object-excel.md)
 

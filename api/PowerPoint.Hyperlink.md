@@ -83,7 +83,4 @@ ActivePresentation.Slides(1).Shapes(3) _
 ## See also
 
 
-#### Other resources
-
-
 [PowerPoint Object Model Reference](http://msdn.microsoft.com/library/00acd64a-5896-0459-39af-98df2849849e%28Office.15%29.aspx)

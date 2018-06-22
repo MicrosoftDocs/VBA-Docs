@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatPercentageNumber Object](Excel.modelformatpercentagenumber.md)
 
 

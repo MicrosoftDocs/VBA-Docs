@@ -29,9 +29,6 @@ Returns or sets the command string for the specified data source.  **Variant** R
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

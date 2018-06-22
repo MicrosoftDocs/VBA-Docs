@@ -43,7 +43,4 @@ A chart in a Project report can use a data range from Excel, if Project programm
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

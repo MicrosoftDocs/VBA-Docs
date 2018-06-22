@@ -47,9 +47,6 @@ End With
 ## See also
 
 
-#### Other resources
-
-
 [TextRange2 Object](http://msdn.microsoft.com/library/a6a59c9b-9b64-c1e2-2e98-a1f99025c877%28Office.15%29.aspx)
 [TextRange2 Object Members](http://msdn.microsoft.com/library/26daffff-b9ef-fd94-f5b7-ed3a09840cb6%28Office.15%29.aspx)
 

@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified **Cate
 ## See also
 
 
-#### Other resources
-
-
 [CategoryCollection Object](Word.categorycollection.md)
 
 

@@ -29,9 +29,6 @@ The ADO Connection Object is used to create an open connection to a data source.
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelConnection Object](Excel.modelconnection.md)
 

@@ -29,9 +29,6 @@ Returns or sets the column format for the data in the text file that you're impo
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

@@ -202,8 +202,5 @@ You can also use a toggle button in a custom dialog box to accept user input.
 ## See also
 
 
-#### Other resources
-
-
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [ToggleButton Object Members](http://msdn.microsoft.com/library/487101e7-c090-eb79-3671-5c9ce86cb6b0%28Office.15%29.aspx)

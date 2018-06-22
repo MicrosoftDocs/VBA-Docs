@@ -29,9 +29,6 @@ Returns or sets a  **Single** that specifies the degree of blur effect applied t
 ## See also
 
 
-#### Other resources
-
-
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 

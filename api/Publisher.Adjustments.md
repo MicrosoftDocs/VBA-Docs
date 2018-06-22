@@ -67,7 +67,4 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Adjustments Object Members](http://msdn.microsoft.com/library/76d7aeb4-1631-d81c-2fd0-bb71ca739fc4%28Office.15%29.aspx)

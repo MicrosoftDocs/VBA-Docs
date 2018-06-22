@@ -24,7 +24,4 @@ Gets or sets whether to display report filter field buttons on a PivotChart. Rea
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

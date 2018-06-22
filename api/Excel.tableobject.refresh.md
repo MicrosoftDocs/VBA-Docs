@@ -29,9 +29,6 @@ This method updates the  **TableObject** object.
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of[ModelColumnChange Object
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelColumnChanges Object](modelcolumnchanges-object-excel.md)
 

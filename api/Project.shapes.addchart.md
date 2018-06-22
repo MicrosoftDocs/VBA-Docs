@@ -72,9 +72,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Chart Object](Project.chart.md)

@@ -24,9 +24,6 @@ Returns the parent property for the [PreviewPane](Outlook.previewpane.md) Object
 ## See also
 
 
-#### Other resources
-
-
 
 [PreviewPane Object (Outlook)](Outlook.previewpane.md)
 

@@ -124,8 +124,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Search Object Members](http://msdn.microsoft.com/library/543773b8-9f38-8d3e-2279-8f2a581ccd18%28Office.15%29.aspx)
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

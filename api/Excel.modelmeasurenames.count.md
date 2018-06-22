@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of a[ModelMeasureName Objec
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelMeasureNames Object](modelmeasurenames-object-excel.md)
 

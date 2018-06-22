@@ -72,9 +72,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)
 [MsoScaleFrom](http://msdn.microsoft.com/en-us/library/office/ff863348%28v=office.15%29)

@@ -24,9 +24,6 @@ Use the  **OMathPhantom** object to display the spacing of part of an equation w
 ## See also
 
 
-#### Other resources
-
-
 
 [Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
 

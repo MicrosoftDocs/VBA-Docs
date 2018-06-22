@@ -33,8 +33,5 @@ Specifies the name of the default chart template that Project uses when creating
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)
 [SaveChartTemplate Method](Project.chart.savecharttemplate.md)

@@ -29,7 +29,4 @@ Represents a parameter defined for an [Operation](Access.Operation.md).
 ## See also
 
 
-#### Other resources
-
-
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

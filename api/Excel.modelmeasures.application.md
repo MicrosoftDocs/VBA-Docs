@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelMeasures Object ](Excel.modelmeasures.md)
 
 

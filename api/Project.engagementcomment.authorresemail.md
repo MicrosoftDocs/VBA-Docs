@@ -21,8 +21,5 @@ The AuthorResEmail property for the EngagementComment object. Introduced in Offi
 ## See also
 
 
-#### Other resources
-
-
 [EngagementComment Object (Project)](engagementcomment-object-project.md)
 

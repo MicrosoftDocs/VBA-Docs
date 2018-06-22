@@ -29,9 +29,6 @@ Get or set whether the control's header is displayed.  **Boolean** Read/Write
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 

@@ -29,8 +29,5 @@ Use the  **GroupShapes.Item** method to return a single shape from the group.
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [GroupShapes](http://msdn.microsoft.com/en-us/library/office/ff195331%28v=office.15%29)

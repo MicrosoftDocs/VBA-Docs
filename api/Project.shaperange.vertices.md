@@ -41,7 +41,4 @@ For an array of vertices named  `vertArray`, the following table shows how the  
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)

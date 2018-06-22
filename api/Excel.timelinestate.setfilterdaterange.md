@@ -38,9 +38,6 @@ Sets the Timeline?s filter.
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineState Object](Excel.timelinestate.md)
 

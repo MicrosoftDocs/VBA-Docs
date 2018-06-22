@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified **Full
 ## See also
 
 
-#### Other resources
-
-
 [FullSeriesCollection Object](Word.fullseriescollection.md)
 
 

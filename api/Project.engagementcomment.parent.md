@@ -21,8 +21,5 @@ ms.prod: project-server
 ## See also
 
 
-#### Other resources
-
-
 [EngagementComment Object (Project)](engagementcomment-object-project.md)
 

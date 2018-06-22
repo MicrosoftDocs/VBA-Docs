@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [CategoryCollection Object](Excel.categorycollection.md)
 

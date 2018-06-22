@@ -36,9 +36,6 @@ If the [ContentControl.AllowInsertDeleteSection](Word.contentcontrol.allowinsert
 ## See also
 
 
-#### Other resources
-
-
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
 

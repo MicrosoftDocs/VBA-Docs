@@ -21,8 +21,5 @@ The Application property for the EngagementComments object. Introduced in Office
 ## See also
 
 
-#### Other resources
-
-
 [EngagementComments Object (Project)](engagementcomments-object-project.md)
 

@@ -93,8 +93,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shapes Object](Project.shapes.md)
 [ShapeRange Object](Project.shaperange.md)

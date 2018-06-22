@@ -33,7 +33,4 @@ Moves each shape in the shape range vertically by the specified number of points
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)

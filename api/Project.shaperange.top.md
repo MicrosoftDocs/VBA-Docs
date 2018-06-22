@@ -24,7 +24,4 @@ Gets or sets the vertical distance, in points, from the top of the report pane t
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)

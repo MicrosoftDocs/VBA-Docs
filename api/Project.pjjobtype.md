@@ -30,8 +30,5 @@ In the  **[Application.GetCacheStatusForProject](Project.application.getcachesta
 ## See also
 
 
-#### Other resources
-
-
 [GetCacheStatusForProject Property](Project.application.getcachestatusforproject.md)
 [PjCacheJobState Enumeration](pjcachejobstate-enumeration-project.md)

@@ -24,9 +24,6 @@ Returns a constant in the [OlObjectClass](Outlook.OlObjectClass.md) enumeration 
 ## See also
 
 
-#### Other resources
-
-
 
 [PreviewPane Object (Outlook)](Outlook.previewpane.md)
 

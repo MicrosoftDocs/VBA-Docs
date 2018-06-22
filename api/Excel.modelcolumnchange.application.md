@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelColumnChange Object](Excel.modelcolumnchange.md)
 

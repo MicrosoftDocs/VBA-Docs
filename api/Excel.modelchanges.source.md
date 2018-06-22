@@ -34,9 +34,6 @@ The source can be either Excel or a PowerPivot Add-in.
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelChanges Object](Excel.modelchanges.md)
 

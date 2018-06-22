@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[DataFe
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](datafeedconnection-object-excel.md)
 

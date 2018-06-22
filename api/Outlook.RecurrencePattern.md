@@ -80,8 +80,5 @@ Note that even after you release your reference and attempt to obtain a new refe
 ## See also
 
 
-#### Other resources
-
-
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
 [RecurrencePattern Object Members](http://msdn.microsoft.com/library/d282fdb2-2b6d-983d-fe5f-698113d35f89%28Office.15%29.aspx)

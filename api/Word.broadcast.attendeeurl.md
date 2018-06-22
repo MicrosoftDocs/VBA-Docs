@@ -34,9 +34,6 @@ If a broadcast is not in progress,  **AttendeeUrl** returns an empty string.
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

@@ -36,9 +36,6 @@ Void
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationships Object](Excel.modelrelationships.md)
 

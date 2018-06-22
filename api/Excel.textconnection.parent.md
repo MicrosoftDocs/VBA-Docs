@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[TextCo
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](textconnection-object-excel.md)
 

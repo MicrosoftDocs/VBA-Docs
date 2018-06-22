@@ -24,8 +24,5 @@ Gets a  **GlowFormat** object for the shape, if the shape contains glow formatti
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [GlowFormat](http://msdn.microsoft.com/en-us/library/office/ff864010%28v=office.15%29)

@@ -21,8 +21,5 @@ The Guid property for the Engagement object. Introduced in Office 2016.
 ## See also
 
 
-#### Other resources
-
-
 [Engagement Object (Project)](engagement-object-project.md)
 

@@ -33,8 +33,5 @@ Use the  **[Item](http://msdn.microsoft.com/library/609846d6-7f73-f6f0-fe4e-067d
 ## See also
 
 
-#### Other resources
-
-
 [Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)
 [ActualStartDrivers Object Members](http://msdn.microsoft.com/library/74321d0d-bbde-3f2d-50ee-bfb0c674114c%28Office.15%29.aspx)

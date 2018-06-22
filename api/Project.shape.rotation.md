@@ -24,7 +24,4 @@ Gets or sets the rotation of the shape, in degrees. Read/write  **Single**.
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

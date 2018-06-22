@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[ModelR
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationships Object](modelrelationships-object-excel.md)
 

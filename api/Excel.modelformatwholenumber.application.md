@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatWholeNumber Object](Excel.modelformatwholenumber.md)
 
 

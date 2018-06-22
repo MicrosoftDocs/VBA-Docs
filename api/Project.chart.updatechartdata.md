@@ -58,7 +58,4 @@ Updates the specified Project data on a chart.
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](chart-object-project.md)

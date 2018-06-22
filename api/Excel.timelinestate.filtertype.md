@@ -29,9 +29,6 @@ Returns the type of the date filter. [XlPivotFilterType Enumeration (Excel)](xlp
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineState Object](Excel.timelinestate.md)
 

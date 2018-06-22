@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatScientificNumber Object](Excel.modelformatscientificnumber.md)
 
 

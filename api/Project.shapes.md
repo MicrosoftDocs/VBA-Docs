@@ -93,9 +93,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](http://msdn.microsoft.com/library/d2b32bcd-5595-a4a7-9772-feb25fd0103a%28Office.15%29.aspx)
 [Report Object](http://msdn.microsoft.com/library/38ef993e-e5cd-b451-06aa-41eb0e93450e%28Office.15%29.aspx)
 [ShapeRange Object](http://msdn.microsoft.com/library/315031aa-4b8c-424b-26e7-ce15897beb05%28Office.15%29.aspx)

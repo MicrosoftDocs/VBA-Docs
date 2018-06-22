@@ -26,9 +26,6 @@ Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow
 ## See also
 
 
-#### Other resources
-
-
  [Shape Object](http://msdn.microsoft.com/library/604029ce-9b2f-9748-5d4e-b458796fa2f0%28Office.15%29.aspx)
  
 

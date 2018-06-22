@@ -78,8 +78,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)
 [AutoFormat Method](Project.chart.autoformat.md)

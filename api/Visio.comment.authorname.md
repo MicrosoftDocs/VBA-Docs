@@ -26,8 +26,5 @@ Returns the name of the author of the comment. Read-only  **String**.
 ## See also
 
 
-#### Other resources
-
-
 [Comment Object](Visio.comment.md)
 

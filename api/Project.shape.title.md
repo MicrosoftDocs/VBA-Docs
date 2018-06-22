@@ -24,7 +24,4 @@ Gets or sets the title of the shape. Read/write  **String**.
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

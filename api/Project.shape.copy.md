@@ -24,7 +24,4 @@ Copies the shape to the Clipboard.
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

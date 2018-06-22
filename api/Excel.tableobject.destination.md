@@ -29,9 +29,6 @@ Returns the cell in the upper-left corner of the query table destination range (
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

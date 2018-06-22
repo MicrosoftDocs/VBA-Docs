@@ -29,9 +29,6 @@ The formatting of the model measure can be of type [ModelFormatBoolean](Excel.mo
 ## See also
 
 
-#### Other resources
-
-
 [ModelMeasure Object](Excel.modelmeasure.md)
 
 

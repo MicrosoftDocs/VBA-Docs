@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of[Series Object (Excel)](s
 ## See also
 
 
-#### Other resources
-
-
 
 [FullSeriesCollection Object](fullseriescollection-object-excel.md)
 

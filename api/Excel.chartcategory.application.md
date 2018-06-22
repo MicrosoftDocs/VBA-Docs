@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ChartCategory Object](Excel.chartcategory.md)
 
 

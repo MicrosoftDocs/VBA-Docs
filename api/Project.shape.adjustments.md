@@ -24,8 +24,5 @@ Gets an  **[Adjustments](http://msdn.microsoft.com/en-us/library/office/ff838852
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [Adjustments](http://msdn.microsoft.com/en-us/library/office/ff838852%28v=office.15%29)

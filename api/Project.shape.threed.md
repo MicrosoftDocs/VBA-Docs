@@ -30,8 +30,5 @@ Gets a  **ThreeDFormat** object that contains three-dimensional formatting prope
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [ThreeDFormat](http://msdn.microsoft.com/en-us/library/office/ff836783%28v=office.15%29)

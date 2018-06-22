@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineState Object](Excel.timelinestate.md)
 

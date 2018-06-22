@@ -29,9 +29,6 @@ Returns a [Range Object (Excel)](range-object-excel.md) object that represents t
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

@@ -21,9 +21,6 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 ## See also
 
 
-#### Other resources
-
-
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 

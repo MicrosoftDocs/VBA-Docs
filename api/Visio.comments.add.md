@@ -35,8 +35,5 @@ Adds a new [Comment](Visio.comment.md) object to the **Comments** collection, an
 ## See also
 
 
-#### Other resources
-
-
 [Comments Collection](Visio.comments.md)
 

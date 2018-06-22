@@ -135,7 +135,4 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Application Object Members](http://msdn.microsoft.com/library/aa4d515b-f779-b8b5-968a-8e5f7466fb56%28Office.15%29.aspx)

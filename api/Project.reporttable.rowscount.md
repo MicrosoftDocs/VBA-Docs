@@ -29,8 +29,5 @@ For an example that uses the  **RowsCount** property, see the **ReportTable** ob
 ## See also
 
 
-#### Other resources
-
-
 [ReportTable Object](Project.reporttable.md)
 [Shape Object](Project.shape.md)

@@ -29,8 +29,5 @@ The value of the  **Visible** property can be **msoTrue** or **msoFalse**.
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

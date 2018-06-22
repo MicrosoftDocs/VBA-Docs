@@ -21,8 +21,5 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 ## See also
 
 
-#### Other resources
-
-
 [Comments Collection](Visio.comments.md)
 

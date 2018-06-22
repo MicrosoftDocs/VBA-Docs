@@ -29,9 +29,6 @@ Returns or sets an  **MsoReflectionType** constant that represents the type and 
 ## See also
 
 
-#### Other resources
-
-
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 

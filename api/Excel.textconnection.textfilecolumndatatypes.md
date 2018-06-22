@@ -29,9 +29,6 @@ Returns or sets an ordered array of constants that specify the data types applie
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

@@ -228,8 +228,5 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 ## See also
 
 
-#### Other resources
-
-
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [TextBox Object Members](http://msdn.microsoft.com/library/bb55abbc-902e-fc2d-bdff-063c55426cd0%28Office.15%29.aspx)

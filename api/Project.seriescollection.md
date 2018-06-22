@@ -108,9 +108,6 @@ Series 3: Work
 ## See also
 
 
-#### Other resources
-
-
  
 [Chart Object](Project.chart.md)
  

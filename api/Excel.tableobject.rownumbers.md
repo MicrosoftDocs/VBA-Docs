@@ -29,9 +29,6 @@ Specifies if row numbers are added as the first column of the specified query ta
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

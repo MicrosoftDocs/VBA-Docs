@@ -194,7 +194,4 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](http://msdn.microsoft.com/library/d2b32bcd-5595-a4a7-9772-feb25fd0103a%28Office.15%29.aspx)

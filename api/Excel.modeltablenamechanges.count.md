@@ -29,9 +29,6 @@ Returns a  **Long** value that represents the number of a[ModelTableNameChange O
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableNameChanges Object](modeltablenamechanges-object-excel.md)
 

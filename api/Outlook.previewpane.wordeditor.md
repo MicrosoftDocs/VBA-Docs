@@ -44,9 +44,6 @@ The  **WordEditor** property is only valid if[IsWordMail](Outlook.Inspector.IsWo
 ## See also
 
 
-#### Other resources
-
-
 
 [PreviewPane Object (Outlook)](previewpane-object-outlook.md)
 

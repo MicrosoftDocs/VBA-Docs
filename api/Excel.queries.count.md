@@ -24,9 +24,6 @@ Returns an integer that represents the number of objects in the collection.
 ## See also
 
 
-#### Other resources
-
-
 [Queries Object](Excel.queries.md)
 
 

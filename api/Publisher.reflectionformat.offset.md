@@ -29,9 +29,6 @@ Returns or sets the amount of separation, in points, of the reflected image from
 ## See also
 
 
-#### Other resources
-
-
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 

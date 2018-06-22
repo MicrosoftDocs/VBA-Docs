@@ -21,8 +21,5 @@ Constants passed to and returned by the  **Series.ParentDataLabelOption** proper
 ## See also
 
 
-#### Other resources
-
-
 [Series.ParentDataLabelOption Property (PowerPoint)](series-parentdatalabeloption-property-powerpoint.md)
 

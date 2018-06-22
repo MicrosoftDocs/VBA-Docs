@@ -29,9 +29,6 @@ Deletes the specified repeating section item.
 ## See also
 
 
-#### Other resources
-
-
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
 

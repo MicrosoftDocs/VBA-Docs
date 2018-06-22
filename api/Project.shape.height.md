@@ -24,7 +24,4 @@ Gets or sets the height of the shape, in points. Read-write  **Single**.
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

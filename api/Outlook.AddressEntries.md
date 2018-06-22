@@ -77,8 +77,5 @@ Set myAddressEntry = myAddressList.AddressEntries(index)
 ## See also
 
 
-#### Other resources
-
-
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
 [AddressEntries Object Members](http://msdn.microsoft.com/library/1a38c073-06f9-06ad-4483-21ad59143f14%28Office.15%29.aspx)

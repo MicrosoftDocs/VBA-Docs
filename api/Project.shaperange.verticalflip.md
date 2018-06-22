@@ -24,9 +24,6 @@ Gets a value that indicates whether the shape range is flipped around the vertic
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [HorizontalFlip Property](Project.shaperange.horizontalflip.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

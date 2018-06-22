@@ -24,8 +24,5 @@ Gets a  **TextFrame** object that contains the alignment and anchoring propertie
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [TextFrame](http://msdn.microsoft.com/en-us/library/office/ff197860%28v=office.15%29)

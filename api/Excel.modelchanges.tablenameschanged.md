@@ -29,9 +29,6 @@ Returns a [ModelTableNameChanges Object (Excel)](modeltablenamechanges-object-ex
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelChanges Object](Excel.modelchanges.md)
 

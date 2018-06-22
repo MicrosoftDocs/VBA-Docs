@@ -53,9 +53,6 @@ When the argument is set to any one of the following options, the resulting user
 ## See also
 
 
-#### Other resources
-
-
 
 [QuickAnalysis Object](Excel.quickanalysis.md)
 

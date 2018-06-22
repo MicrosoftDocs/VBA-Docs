@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableNameChange Object](Excel.modeltablenamechange.md)
 

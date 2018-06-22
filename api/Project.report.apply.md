@@ -44,7 +44,4 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Report Object](Project.report.md)

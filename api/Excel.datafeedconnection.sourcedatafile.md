@@ -29,9 +29,6 @@ A path to the original file used to create the connection. In the case of an ODa
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

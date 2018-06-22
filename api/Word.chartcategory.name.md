@@ -29,9 +29,6 @@ Returns or sets a  **String** that represents the name of a chart category. Read
 ## See also
 
 
-#### Other resources
-
-
 [ChartCategory Object](Word.categorycollection.md)
 
 

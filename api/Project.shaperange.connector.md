@@ -24,8 +24,5 @@ Gets a value that indicates whether the shape range is a connector. Read-only  *
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

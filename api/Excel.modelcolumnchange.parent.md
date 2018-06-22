@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[ModelC
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelColumnChange Object](modelcolumnchange-object-excel.md)
 

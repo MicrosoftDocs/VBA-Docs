@@ -60,8 +60,5 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 ## See also
 
 
-#### Other resources
-
-
 [Shapes Object](Project.shapes.md)
 [Item Method](Project.shapes.item.md)

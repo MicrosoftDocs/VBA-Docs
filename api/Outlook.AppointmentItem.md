@@ -338,9 +338,6 @@ Set myItem = Application.CreateItem(olAppointmentItem)
 ## See also
 
 
-#### Other resources
-
-
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
 [How to: Import Appointment XML Data into Outlook Appointment Objects](http://msdn.microsoft.com/library/ecfd3849-877b-01ad-2b76-1a54e980f6e2%28Office.15%29.aspx)
 [AppointmentItem Object Members](http://msdn.microsoft.com/library/c72c459d-6d3c-7a05-aa4a-b1b767ddc0b2%28Office.15%29.aspx)

@@ -29,7 +29,4 @@ In general for applications that implement Office Art, the  **RerouteConnections
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

@@ -57,9 +57,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 

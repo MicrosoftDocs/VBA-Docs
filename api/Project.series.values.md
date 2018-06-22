@@ -27,8 +27,5 @@ For a code example that uses the  **Values** property, see the **[Series](Projec
 ## See also
 
 
-#### Other resources
-
-
 [Series Object](Project.series.md)
 [XValues Property](series-xvalues-property-project.md)

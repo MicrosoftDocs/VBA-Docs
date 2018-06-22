@@ -24,8 +24,5 @@ Gets a  **Chart** object that represents the chart contained in the shape. Read-
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [Chart Object](Project.chart.md)

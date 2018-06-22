@@ -37,7 +37,4 @@ Print ActiveProject.Reports("Simple scalar chart").Shapes(1).Chart.Creator
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

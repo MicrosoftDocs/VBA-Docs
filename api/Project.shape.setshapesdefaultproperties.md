@@ -29,7 +29,4 @@ For example, the default foreground fill color of shapes is a medium-dark blue: 
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

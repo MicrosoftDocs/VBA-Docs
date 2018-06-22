@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [WorksheetDataConnection Object](Excel.worksheetdataconnection.md)
 

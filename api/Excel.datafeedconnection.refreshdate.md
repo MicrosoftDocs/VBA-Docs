@@ -29,9 +29,6 @@ Returns the date on which the OLE DB connection was last refreshed.  **Date** . 
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

@@ -29,9 +29,6 @@ Specifies if the column widths are automatically adjusted for the best fit each 
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

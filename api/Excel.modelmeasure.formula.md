@@ -24,9 +24,6 @@ The Data Analysis Expressions (DAX) formula of the model measure. Read/write  **
 ## See also
 
 
-#### Other resources
-
-
 [ModelMeasure Object](Excel.modelmeasure.md)
 
 

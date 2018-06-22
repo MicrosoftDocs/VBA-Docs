@@ -41,9 +41,6 @@ Following are the types of credentials that may be used:
 ## See also
 
 
-#### Other resources
-
-
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 

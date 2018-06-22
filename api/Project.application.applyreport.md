@@ -63,7 +63,4 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Report.Apply Method](Project.report.apply.md)

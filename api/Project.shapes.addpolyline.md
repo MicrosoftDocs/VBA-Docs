@@ -86,9 +86,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Line Property](Project.shape.line.md)

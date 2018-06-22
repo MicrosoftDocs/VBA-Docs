@@ -90,8 +90,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Categories Object Members](http://msdn.microsoft.com/library/36fd8906-69fa-5aa8-b026-a2de208ccd56%28Office.15%29.aspx)
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

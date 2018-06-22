@@ -24,7 +24,4 @@ Gets the parent object of the chart. Read-only  **Object**.
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

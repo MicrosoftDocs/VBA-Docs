@@ -34,9 +34,6 @@ If a broadcast is not in progress,  **SessionID** returns an empty string.
 ## See also
 
 
-#### Other resources
-
-
 [Broadcast Object](Word.broadcast.md)
 
 

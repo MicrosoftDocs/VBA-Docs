@@ -191,9 +191,6 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 ## See also
 
 
-#### Other resources
-
-
  
 [Report Object](Project.report.md)
  

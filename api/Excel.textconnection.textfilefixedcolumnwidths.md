@@ -29,9 +29,6 @@ Returns or sets an array of integers that correspond to the widths of the column
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

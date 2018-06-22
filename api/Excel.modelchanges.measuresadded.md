@@ -29,9 +29,6 @@ Returns a [ModelMeasureNames Object (Excel)](modelmeasurenames-object-excel.md) 
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelChanges Object](Excel.modelchanges.md)
 

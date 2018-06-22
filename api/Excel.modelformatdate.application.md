@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [ModelFormatDate Object](Excel.modelformatdate.md)
 
 

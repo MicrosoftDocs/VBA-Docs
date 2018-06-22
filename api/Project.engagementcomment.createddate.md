@@ -21,8 +21,5 @@ The CreatedDate property for the EngagementComment object. Introduced in Office 
 ## See also
 
 
-#### Other resources
-
-
 [EngagementComment Object (Project)](engagementcomment-object-project.md)
 

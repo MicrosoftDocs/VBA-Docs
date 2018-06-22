@@ -38,9 +38,6 @@ Returns an individual chart category.
 ## See also
 
 
-#### Other resources
-
-
 [CategoryCollection Object](Word.categorycollection.md)
 
 

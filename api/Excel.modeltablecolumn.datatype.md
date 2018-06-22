@@ -29,9 +29,6 @@ Returns the [XlParameterDataType Enumeration (Excel)](xlparameterdatatype-enumer
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableColumn Object](Excel.modeltablecolumn.md)
 

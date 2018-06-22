@@ -29,9 +29,6 @@ Returns or sets a  **Single** that represents the length of the radius for a sof
 ## See also
 
 
-#### Other resources
-
-
  [SoftEdgeFormat Object](Publisher.softedgeformat.md)
  
 

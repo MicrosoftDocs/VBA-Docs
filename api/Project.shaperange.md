@@ -172,9 +172,6 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 ## See also
 
 
-#### Other resources
-
-
  
 [Shapes Object](Project.shapes.md)
  

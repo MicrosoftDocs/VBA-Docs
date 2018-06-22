@@ -24,8 +24,5 @@ For an example that uses the  **SeriesCollection.Count** property, see the[Serie
 ## See also
 
 
-#### Other resources
-
-
 [SeriesCollection Object](Project.seriescollection.md)
 [Series Object](series-object-project.md)

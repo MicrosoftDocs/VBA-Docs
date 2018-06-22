@@ -39,9 +39,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 [Queries Object](Excel.queries.md)
 
 

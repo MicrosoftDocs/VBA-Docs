@@ -25,8 +25,5 @@ Specifies the folder to be obtained for unified groups. Because groups have both
 ## See also
 
 
-#### Other resources
-
-
 [Store.CreateUnifiedGroup Method (Outlook)](store-createunifiedgroup-method-outlook.md)
 

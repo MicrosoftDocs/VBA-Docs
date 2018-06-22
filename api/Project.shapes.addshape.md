@@ -74,9 +74,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [AutoShapeType Property](Project.shape.autoshapetype.md)

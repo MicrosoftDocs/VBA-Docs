@@ -24,8 +24,5 @@ Gets the  **ReportTable** object in the shape range. Read-only[ReportTable](Proj
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [ReportTable Object](Project.reporttable.md)

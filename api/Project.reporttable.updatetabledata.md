@@ -44,7 +44,4 @@ Updates rows and columns in the report table to show the specified task or resou
 ## See also
 
 
-#### Other resources
-
-
 [ReportTable Object](Project.reporttable.md)

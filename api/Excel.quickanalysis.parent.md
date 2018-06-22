@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[QuickA
 ## See also
 
 
-#### Other resources
-
-
 
 [QuickAnalysis Object](quickanalysis-object-excel.md)
 

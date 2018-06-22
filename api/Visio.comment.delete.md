@@ -26,8 +26,5 @@ Deletes the specified comment.
 ## See also
 
 
-#### Other resources
-
-
 [Comment Object](Visio.comment.md)
 

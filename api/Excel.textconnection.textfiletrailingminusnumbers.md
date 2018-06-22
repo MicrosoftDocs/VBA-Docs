@@ -29,9 +29,6 @@ ms.date: 06/08/2017
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

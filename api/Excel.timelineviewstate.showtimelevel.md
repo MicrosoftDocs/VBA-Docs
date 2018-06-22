@@ -29,9 +29,6 @@ Get or set whether the control's time level drop-down is displayed.  **Boolean**
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 

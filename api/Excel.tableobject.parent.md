@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified[TableO
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](tableobject-object-excel.md)
 

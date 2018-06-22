@@ -24,8 +24,5 @@ The CommittedMaxUnits property for the Engagement object. Introduced in Office 2
 ## See also
 
 
-#### Other resources
-
-
 [Engagement Object (Project)](engagement-object-project.md)
 

@@ -29,9 +29,6 @@ Returns or sets a [XlTextVisualLayoutType Enumeration (Excel)](xltextvisuallayou
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

@@ -44,9 +44,6 @@ End If
 ## See also
 
 
-#### Other resources
-
-
 
 [FullSeriesCollection Object](Excel.fullseriescollection.md)
 

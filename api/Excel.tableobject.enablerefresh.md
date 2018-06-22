@@ -29,9 +29,6 @@ Specifies if the query table can be refreshed by the user.  **Boolean** Read/Wri
 ## See also
 
 
-#### Other resources
-
-
 
 [TableObject Object](Excel.modeltable.md)
 

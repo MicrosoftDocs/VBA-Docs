@@ -74,9 +74,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Reports Object](Project.reports.md)
 [Report Object](Project.report.md)
 [Shapes](Project.shapes.md)

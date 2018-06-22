@@ -24,7 +24,4 @@ Redraws a chart, to show updated information.
 ## See also
 
 
-#### Other resources
-
-
 [Chart Object](Project.chart.md)

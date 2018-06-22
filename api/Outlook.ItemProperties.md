@@ -88,8 +88,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [ItemProperties Object Members](http://msdn.microsoft.com/library/9c18dfa4-b0df-0a01-cac8-cb4ef7a4f2b5%28Office.15%29.aspx)
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

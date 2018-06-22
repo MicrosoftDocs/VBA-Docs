@@ -37,9 +37,6 @@ Returns a [ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) ob
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableColumns Object](Excel.modeltablecolumns.md)
 

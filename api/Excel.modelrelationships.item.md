@@ -37,9 +37,6 @@ A [ModelRelationship Object (Excel)](modelrelationship-object-excel.md) object c
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelRelationships Object](modelrelationships-object-excel.md)
 

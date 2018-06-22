@@ -24,7 +24,4 @@ Gets the  **[Application Object (Project)](application-object-project.md)** obje
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)

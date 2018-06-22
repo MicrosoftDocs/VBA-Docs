@@ -31,9 +31,6 @@ The value returned by  **ReplaceFlags** is equal to a combination of one or more
 ## See also
 
 
-#### Other resources
-
-
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
 

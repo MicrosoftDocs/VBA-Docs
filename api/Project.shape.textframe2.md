@@ -76,8 +76,5 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [TextFrame2](http://msdn.microsoft.com/en-us/library/office/ff822136%28v=office.15%29)

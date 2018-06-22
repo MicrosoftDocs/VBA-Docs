@@ -29,9 +29,6 @@ Get or set whether the control's horizontal scrollbar is displayed.  **Boolean**
 ## See also
 
 
-#### Other resources
-
-
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 

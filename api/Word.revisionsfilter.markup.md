@@ -40,9 +40,6 @@ End Sub
 ## See also
 
 
-#### Other resources
-
-
 [RevisionsFilter Object](Word.revisionsfilter.md)
 
 

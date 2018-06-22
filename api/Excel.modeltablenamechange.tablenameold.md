@@ -29,9 +29,6 @@ Returns the previous name of the table.  **String** Read-only
 ## See also
 
 
-#### Other resources
-
-
 
 [ModelTableNameChange Object](Excel.modeltablenamechange.md)
 

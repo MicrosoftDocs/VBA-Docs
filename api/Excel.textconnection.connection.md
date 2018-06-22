@@ -29,9 +29,6 @@ Returns or sets a string that contains text file names that enable Microsoft Exc
 ## See also
 
 
-#### Other resources
-
-
 
 [TextConnection Object](Excel.textconnection.md)
 

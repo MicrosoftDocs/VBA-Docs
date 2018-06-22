@@ -24,9 +24,6 @@ Gets a value that indicates whether the shape range contains a chart. Read-only 
 ## See also
 
 
-#### Other resources
-
-
 [ShapeRange Object](Project.shaperange.md)
 [Chart Object](Project.chart.md)
 [MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)

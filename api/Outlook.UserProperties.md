@@ -65,8 +65,5 @@ Set myProp = myItem.UserProperties.Add("MyPropName", olText)
 ## See also
 
 
-#### Other resources
-
-
 [UserProperties Object Members](http://msdn.microsoft.com/library/b71f8a0b-3951-cfb0-89f2-df8851f3993d%28Office.15%29.aspx)
 [Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)

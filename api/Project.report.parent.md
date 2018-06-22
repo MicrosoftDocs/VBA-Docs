@@ -29,7 +29,4 @@ Use the  **Parent** property to access the properties and methods of the parent 
 ## See also
 
 
-#### Other resources
-
-
 [Report Object](Project.report.md)

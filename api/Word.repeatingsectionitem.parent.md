@@ -29,9 +29,6 @@ Returns an  **Object** that represents the parent object of the specified **Repe
 ## See also
 
 
-#### Other resources
-
-
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
 

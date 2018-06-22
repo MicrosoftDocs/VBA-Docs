@@ -24,9 +24,6 @@ The description of the query. Read/write  **String**.
 ## See also
 
 
-#### Other resources
-
-
 [WorkbookQuery Object](Excel.workbookquery.md)
 
 

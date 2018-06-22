@@ -26,8 +26,5 @@ Returns or sets the text of the specified comment. Read/write  **String**.
 ## See also
 
 
-#### Other resources
-
-
 [Comment Object](Visio.comment.md)
 

@@ -24,8 +24,5 @@ Gets the  **ReportTable** object in the shape. Read-only[ReportTable](Project.re
 ## See also
 
 
-#### Other resources
-
-
 [Shape Object](Project.shape.md)
 [ReportTable Object](Project.reporttable.md)
