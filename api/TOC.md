@@ -2797,6 +2797,7 @@
 ###### [Item](Access.Printers.Item.md)
 ###### [Parent](Access.Printers.Parent.md)
 #### [Properties Object](Access.Properties.md)
+##### Properties
 ###### [Application](Access.Properties.Application.md)
 ###### [Count](Access.Properties.Count.md)
 ###### [Item](Access.Properties.Item.md)
