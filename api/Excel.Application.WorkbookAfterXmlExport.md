@@ -46,6 +46,7 @@ Nothing
 | **XlXmlExportResult** can be one of the following **XlXmlExportResult** constants|
 | **xlXmlExportSuccess** . The XML data file was successfully exported.|
 | **xlXmlExportValidationFailed** . The contents of the XML data file do not match the specified schema map.|
+
 Use the  **[AfterXmlExport](Excel.Workbook.AfterXmlExport.md)** event if you want to perform an operation after XML data has been exported from a particular workbook.
 
 

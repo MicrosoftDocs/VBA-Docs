@@ -54,6 +54,7 @@ The following table summarizes the interaction between these events.
 |BeforeUpdate|User updates the record.|
 |AfterUpdate|Record is updated.|
 |AfterInsert|Record updated is a new record.|
+
 If the first character in a new record is typed into a text box or combo box, the  **BeforeInsert** event occurs before the **Change** event.
 
 

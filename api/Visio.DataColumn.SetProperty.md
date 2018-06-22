@@ -63,6 +63,7 @@ Possible values for the Property parameter are declared in  **VisDataColumnPrope
 | **visDataColumnPropertyType**|1|Data type of the data-column property.|
 | **visDataColumnPropertyUnits**|4|Units of the data-column property.|
 | **visDataColumnPropertyVisible**|7|Whether the data-column property is visible in the UI.|
+
 Possible values for the Value parameter depend on the Property parameter value. The following table shows valid data-column property values for each data-column property, depending on the data-column data type.
 
 
@@ -81,6 +82,7 @@ Possible values for the Value parameter depend on the Property parameter value. 
 </p></li></ul>OR Descriptive string?a string used for units, such as  _cm_ or _sq cm_ . This string will be validated so that it is one of the supported Visio units. Passing invalid strings causes the method to fail.|||One of the following members of  **VisUnitsCodes** :
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>visDurationUnits</b></p></li><li><p><b>visElapsedDay</b></p></li><li><p><b>visElapsedHour</b></p></li><li><p><b>visElapsedMin</b></p></li><li><p><b>visElapsedSec</b></p></li><li><p><b>visElapsedWeek</b></p></li></ul>OR Descriptive string?a string used for units such as  _ew_ . This string will be validated so that it is one of the supported Visio units. Passing an invalid string will cause this method to fail.|||
 ||HyperLink||||| **Boolean**||
+
 The LangID and Calendar properties are bound by the validation rules shown in the following table. Languages not shown use the Western calendar only.
 
 

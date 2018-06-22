@@ -30,6 +30,7 @@ The settings for  **ScrollBars** are:
 |1|Displays a horizontal scroll bar.|
 |2|Displays a vertical scroll bar.|
 |3|Displays both a horizontal and a vertical scroll bar.|
+
 A scroll bar constrains its scroll box to the visible region of the scroll bar. It also modifies the scroll position as needed to keep the entire scroll bar visible. The range of a scroll bar changes when the value of the  **ScrollBars** property changes, the scroll size changes, or the visible size changes.
 
 For a single-line control, you can display a horizontal scroll bar by using the  **ScrollBars** and **[AutoSize](Outlook.textbox.autosize.md)** properties. Scroll bars are hidden or displayed according to the following rules:

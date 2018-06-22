@@ -41,6 +41,7 @@ The  **FontUnderline** property uses the following settings.
 |:-----|:-----|
 |**True**|The text is underlined.|
 |**False**|(Default) The text isn't underlined.|
+
 For reports, you can use this property only in an event procedure or in a macro specified by the  **OnPrint** event property setting.
 
 You can set the default for this property by using the default control style or the  **DefaultControl** property in Visual Basic.

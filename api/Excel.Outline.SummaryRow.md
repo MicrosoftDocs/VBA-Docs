@@ -30,6 +30,7 @@ Returns or sets the location of the summary rows in the outline. Read/write  **[
 | **XlSummaryRow** can be one of these **XlSummaryRow** constants.|
 | **xlSummaryBelow** The summary row will be positioned below the detail rows in the outline.|
 | **xlSummaryAbove** The summary row will be positioned above the detail rows in the outline.|
+
 Set  **XlSummaryRow** to **xlAbove** for Microsoft Word-style outlines, where category headers are above the detailed information. Set **XlSummaryRow** to **xlBelow** for accounting-style outlines, where summations are below the detailed information.
 
 

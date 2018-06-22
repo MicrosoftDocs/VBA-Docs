@@ -38,6 +38,7 @@ Returns a single Axis object from an Axes collection.
 |XlAxisGroup can be one of these XlAxisGroup constants.|
 | **xlSecondary**|
 | **xlPrimary**_default_|
+
 Item method as it applies to the  **ChartGroups** object.
 Returns a single ChartGroup object from a ChartGroups collection.
  _expression_. **Item**( **_Index_**)

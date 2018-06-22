@@ -63,6 +63,7 @@ Constants for CellIndex and for the  **CharProps** property value are declared i
 | **visCharacterLetterspace**|16|An integer that represents additional space between adjacent letters, in points.|N/A|
 | **visCharacterOverline**|9| **Boolean**|N/A|
 | **visCharacterStrikethru**|10| **Boolean**|N/A|
+
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 

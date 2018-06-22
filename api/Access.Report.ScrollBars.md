@@ -35,6 +35,7 @@ The  **ScrollBars** property uses the following settings.
 |Horizontal Only |1|Horizontal scroll bar appears on the report.|
 |Vertical Only |2|Vertical scroll bar appears on the report.|
 |Both|3|(Default) Vertical and horizontal scroll bars appear on the report. |
+
 If your report is larger than the available display window, you can use the  **ScrollBars** property to allow the user to view the entire report.
 
 

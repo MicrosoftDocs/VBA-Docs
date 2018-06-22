@@ -46,6 +46,7 @@ The PresetExtrusionDirection parameter can be one of the  **MsoPresetExtrusionDi
 | **msoExtrusionTop**|
 | **msoExtrusionTopLeft**|
 | **msoExtrusionTopRight**|
+
 This method sets the  [PresetExtrusionDirection](Publisher.ThreeDFormat.PresetExtrusionDirection.md)property to the direction specified by the PresetExtrusionDirection argument.
 
 

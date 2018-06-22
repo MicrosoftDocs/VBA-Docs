@@ -33,6 +33,7 @@ ms.date: 06/08/2017
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
 | **msoTrue** Characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape.|
+
 If the WordArt has horizontal text, setting the  **RotatedChars** property to **msoTrue** rotates the characters 90 degrees counterclockwise. If the WordArt has vertical text, setting the **RotatedChars** property to **msoFalse** rotates the characters 90 degrees clockwise. Use the **ToggleVerticalText** method to switch between horizontal and vertical text flow.
 
 The  **[Flip](Excel.Shape.Flip.md)** method and **[Rotation](Excel.Shape.Rotation.md)** property of the **[Shape](Excel.Shape.md)** object and the **RotatedChars** property and **[ToggleVerticalText](Excel.TextEffectFormat.ToggleVerticalText.md)** method of the **TextEffectFormat** object all affect the character orientation and direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.

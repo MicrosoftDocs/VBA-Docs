@@ -130,6 +130,7 @@ The following table lists the possible fields for the  _Order_ parameter, and sh
 |All Task Rows |71|N/A|
 |All Resource Rows|N/A|66|
 |All Assignment Rows |72|67|
+
  In Project 2003 and Office Project 2007, the original **UsageViewEntry** method was not exposed in the VBA object model.
 
 

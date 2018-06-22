@@ -44,6 +44,7 @@ The  **OnKeystrokeMessageForAddon** event fires for messages in the following ra
 |WM_SYSKEYUP |0x0105 |
 |WM_SYSCHAR |0x0106 |
 |WM_SYSDEADCHAR |0x0107 |
+
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
 

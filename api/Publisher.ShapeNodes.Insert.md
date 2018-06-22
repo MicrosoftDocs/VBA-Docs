@@ -49,6 +49,7 @@ SegmentType can be one of these  **MsoSegmentType** constants.
 
 | **msoSegmentCurve**|
 | **msoSegmentLine**|
+
 EditingType can be one of these  **MsoEditingType** constants.
 
 

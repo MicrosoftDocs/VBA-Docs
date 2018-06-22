@@ -58,6 +58,7 @@ You can use the following symbols in custom formats for any data type.
 |*|Fill available space with the next character.|
 |\\ |Display the next character as a literal character. You can also display literal characters by placing quotation marks around them.|
 |[ _color_ ]|Display the formatted data in the color specified between the brackets. Available colors: Black, Blue, Green, Cyan, Red, Magenta, Yellow, White.|
+
 You can't mix custom formatting symbols for the Number and Currency data types with Date/Time, Yes/No, or Text and Memo formatting symbols.
 
 When you have defined an input mask and set the  **Format** property for the same data, the **Format** property takes precedence when the data is displayed and the input mask is ignored. For example, if you create a Password input mask in table Design view and also set the **Format** property for the same field, either in the table or in a control on a form, the Password input mask is ignored and the data is displayed according to the **Format** property.

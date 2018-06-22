@@ -47,6 +47,7 @@ Imports an XML data file into the current workbook.
 | **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** . The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|
+
 This method allows you to import data into the workbook from a file path. Excel uses the first qualifying map found, or if the destination range is specified, Excel will automatically list the data.
 
 Don't specify a value for the  _Destination_ parameter if you want to import data into an existing mapping.

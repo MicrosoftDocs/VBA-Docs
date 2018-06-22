@@ -34,6 +34,7 @@ Indicates the type of query used by Microsoft Excel to populate the PivotTable c
 | **xlADORecordset** . Based on an ADO recordset query|
 | **xlDAORecordSet** . Based on a DAO recordset query, for query tables only|
 | **xlODBCQuery** . Based on an ODBC data source|
+
 You specify the data source in the prefix for the  **[Connection](Excel.PivotCache.Connection.md)** property's value.
 
 

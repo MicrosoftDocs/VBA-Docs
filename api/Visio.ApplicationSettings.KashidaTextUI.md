@@ -38,6 +38,7 @@ The following  **VisRegionalUIOptions** constants, which are declared in the Vis
 |:-----|:-----|:-----|
 | **visRegionalUIOptionsHide**|0|Always hides regional UI.|
 | **visRegionalUIOptionsShow**|1|Always shows regional UI|
+
 The setting of the  **KashidaTextUI** property corresponds to the regional options setting in the **Microsoft Office Language Settings 2007** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office 2007 Language Settings**. 
 
 The setting of the  **KashidaTextUI** property influences the setting of the **[ApplicationSettings.ComplexTextUI](Visio.ApplicationSettings.ComplexTextUI.md)** property. If **KashidaTextUI** is set to **visRegionalUIOptionsShow** , **ComplexTextUI** is set to that value as well.

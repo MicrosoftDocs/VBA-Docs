@@ -59,6 +59,7 @@ The DataType parameter can be one of these  **PpPasteDataType** constants
 |**ppPasteRTF**|
 |**ppPasteShape**|
 |**ppPasteText**|
+
 The DisplayAsIcon parameter can be one of these  **MsoTriState** constants.
 
 
@@ -66,6 +67,7 @@ The DisplayAsIcon parameter can be one of these  **MsoTriState** constants.
 |:-----|
 |**msoFalse** The default. Does not display the embedded object (or link) as an icon.|
 |**msoTrue** Displays the embedded object (or link) as an icon.|
+
 The Link paramter can be one of these  **MsoTriState** constants.
 
 

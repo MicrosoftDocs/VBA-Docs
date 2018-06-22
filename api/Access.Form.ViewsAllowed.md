@@ -34,6 +34,7 @@ The  **ViewsAllowed** property uses the following settings.
 |0|(Default) Users can switch between Form view and Datasheet view.|
 |1|Users can't switch to Datasheet view from Form view.|
 |2|Users can't switch to Form view from Datasheet view.|
+
 The views displayed in the  **View** button list and on the **View** menu depend on the setting of the **ViewsAllowed** property. For example, if the **ViewsAllowed** property is set to Datasheet, **Form View** is disabled in the **View** button list and on the **View** menu.
 
 The combination of these properties creates the following conditions.

@@ -33,6 +33,7 @@ The  **PopUp** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|The form opens as a pop-up window. It remains on top of all other Microsoft Access windows.|
 |No|**False**|(Default) The form isn't a pop-up window.|
+
 The  **PopUp** property can be set only in form Design view.
 
 To specify the type of border you want on a pop-up window, use the  **BorderStyle** property. You typically set the **BorderStyle** property to Thin for pop-up windows.

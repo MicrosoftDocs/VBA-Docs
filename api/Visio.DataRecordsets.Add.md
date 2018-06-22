@@ -68,6 +68,7 @@ The AddOptions parameter can be a combination of one or more of the following va
 | **visDataRecordsetNoAdvConfig**|4|Prevents the data recordset from being displayed in the  **Configure Refresh** dialog box.|
 | **visDataRecordsetDelayQuery**|8|Adds a data recordset but does not execute the CommandString query until the next time you call the  **Refresh** method.|
 | **visDataRecordsetDontCopyLinks**|16|Adds a data recordset, but shape-data links are not copied to the Clipboard when shapes are copied or cut.|
+
  Once you assign these values, you cannot change them for the life of the **DataRecordset** object.
 
 The Name parameter is an optional string that lets you assign the data recordset a display name. If you specify that the  **External Data** window be displayed in the Visio UI, the name you pass for this argument appears on the tab of the **External Data** window that corresponds to the data recordset added.

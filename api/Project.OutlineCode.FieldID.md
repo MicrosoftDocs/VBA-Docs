@@ -42,6 +42,7 @@ You can access project outline codes and custom fields through the project summa
 |**pjCustomTaskOutlineCode8**|
 |**pjCustomTaskOutlineCode9**|
 |**pjCustomTaskOutlineCode10**|
+
 For a resource outline code, the  **FieldID** can be one of the following **PjCustomField** constants:
 
 

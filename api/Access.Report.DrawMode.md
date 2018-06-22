@@ -47,6 +47,7 @@ The  **DrawMode** property uses the following settings.
 |14|The combination of the pen color and the inverse of the display color (MergePenNot).|
 |15|The combination of the pen color and the display color (MergePen).|
 |16|White pen color.|
+
 You can set the  **DrawMode** property in an event procedure specified by a section's **OnPrint** property setting.
 
 Use this property to produce visual effects when drawing on a report. Microsoft Access compares each pixel in the draw pattern to the corresponding pixel in the existing background to determine how the drawing appears on the report. For example, setting 7 uses the  **Xor** operator to combine a draw-pattern pixel with a background pixel.

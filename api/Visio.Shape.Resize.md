@@ -54,6 +54,7 @@ Resizes the shape by moving shape handles as specified.
 | **visResizeDirSW**|5|Left, bottom shape handle.|
 | **visResizeDirS**|6|Center, bottom shape handle.|
 | **visResizeDirSE**|7|Right, bottom shape handle.|
+
 When you resize a shape in a diagonal direction (that is, NE, NW, SE, or SW), the specified distance is applied along both the horizontal and vertical axes (as opposed to along the compass direction.)
 
 

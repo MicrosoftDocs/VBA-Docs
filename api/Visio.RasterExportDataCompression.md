@@ -43,6 +43,7 @@ The value of the  **RasterExportDataCompression** property must be one of the fo
 | **visRasterGroup4**|4|Group 4 compression.|TIFF|
 | **visRasterLZW**|5|LZW compression.|TIFF|
 | **visRasterModifiedHuffman**|6|Modified Huffman compression.|TIFF|
+
 For any given session of Microsoft Visio, when the  **RasterExportDataCompression** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 
 The setting of the  **RasterExportDataCompression** property corresponds to the **Data compression** setting in the **BMP Output Options** or **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)** or **Tag Image File Format (*.tif)**, and then click  **Save**.)

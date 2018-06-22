@@ -33,6 +33,7 @@ The  **AutoCenter** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|The report will be centered automatically on opening.|
 |No|**False**|(Default) The report upper-left corner will be in the same location as when the form was last saved.|
+
 You can set this property only in Design view.
 
 Depending on the size and placement of the application window, reports can appear off to one side of the application window, hiding part of the form or report. Centering the report automatically when it's opened makes it easier to view and use.

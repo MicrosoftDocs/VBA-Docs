@@ -33,6 +33,7 @@ The value of the  **RangeType** property can be one of these **PpSlideShowRangeT
 |**ppShowAll**|
 |**ppShowNamedSlideShow**|
 |**ppShowSlideRange**|
+
 To print the slides ranges you've defined in the  **[PrintRanges](PowerPoint.PrintRanges.md)** collection, you must first set the **RangeType** property to **ppPrintSlideRange**. Setting **RangeType** to anything other than **ppPrintSlideRange** means that the ranges you've defined in the **PrintRanges** collection won't be applied. However, this doesn't affect the contents of the **PrintRanges** collection in any way. That is, if you define some print ranges, set the **RangeType** property to a value other than **ppPrintSlideRange**, and then later set **RangeType** back to **ppPrintSlideRange**, the print ranges you defined before will remain unchanged.
 
 Specifying a value for the To and From arguments of the  **[PrintOut](PowerPoint.Presentation.PrintOut.md)** method sets the value of this property.

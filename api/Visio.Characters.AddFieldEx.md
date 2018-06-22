@@ -62,6 +62,7 @@ The  _CalendarID_ argument should be one of the following values, which are decl
 | **visCalSakaEra**|7|Saka Era|
 | **visCalTranslitEnglish**|8| English transliterated|
 | **visCalTranslitFrench**|9| French transliterated|
+
 Using the  **AddFieldEx** method is similar to clicking **Field** on the **Insert** tab and inserting any of the following categories of fields into the text:
 
 

@@ -62,6 +62,7 @@ The following table lists the command-line options for the Save as Web Page comm
 |navbar|TRUE|Boolean| [NavBar](Visio.NavBar.md)|
 |search|TRUE|Boolean| [Search](Visio.Search.md)|
 |panzoom|TRUE|Boolean| [PanAndZoom](Visio.PanAndZoom.md)|
+
 1For the text/number value type, the user may specify text such as  _vml_ for the output type, or a number (for example, 1) representing the index of this output type. Each output type will have its own unique index. For **screenres**, text and number values are defined by the  [VISWEB_DISP_RES](Visio.visweb_disp_res.enumeration.visio.save.md) enumeration.
 
 

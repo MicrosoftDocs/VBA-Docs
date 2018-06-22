@@ -114,6 +114,7 @@ If the active cell contains a task, can be one of the following  **[PjField](Pro
 |**pjTaskHyperlinkAddress**|**pjTaskWorkContour**|
 |**pjTaskHyperlinkHref**|**pjTaskWorkVariance**|
 |**pjTaskHyperlinkScreenTip**||
+
 If the active cell contains a resource, can be one of the following  **PjField** constants:
 
 

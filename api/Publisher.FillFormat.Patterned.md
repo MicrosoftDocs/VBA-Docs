@@ -85,6 +85,7 @@ The Pattern parameter can be one of the  **MsoPatternType** constants declared i
 | **msoPatternWideDownwardDiagonal**|
 | **msoPatternWideUpwardDiagonal**|
 | **msoPatternZigZag**|
+
 Use the  [BackColor](Publisher.FillFormat.BackColor.md)and  [ForeColor](Publisher.FillFormat.ForeColor.md)properties to set the colors used in the pattern.
 
 

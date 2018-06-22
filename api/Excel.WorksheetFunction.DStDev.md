@@ -50,6 +50,7 @@ Double
 |:-----|:-----|
 |="=Davolio"|=Davolio|
 |="=3000"|=3000|
+
 - When filtering text data, Excel does not distinguish between uppercase and lowercase characters. However, you can use a formula to perform a case-sensitive search.
     
 

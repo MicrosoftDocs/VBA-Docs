@@ -48,6 +48,7 @@ The  _PublishPages_ parameter must be one of the following **VisPublishPages** c
 |:-----|:-----|:-----|
 | **visPublishPageAll**|0|Publish all pages.|
 | **visPublishPageSelect**|1|Publish selected pages.|
+
 The  _Flags_ parameter must be one of the following **VisLangFlags** constants.
 
 

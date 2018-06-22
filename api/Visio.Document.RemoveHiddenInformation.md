@@ -50,6 +50,7 @@ For the  _VisRemoveHiddenInfoItems_ parameter, pass a combination of one or more
 | **visRHIMasters**|4|Removes unused masters.|
 | **visRHIStyles**|8|Removes unused styles, themes, and other display formats.|
 | **visRHIValidationRules**|32|Removes data rows not linked to shapes in the drawing.|
+
 Calling the  **RemoveHiddenInformation** method is the equivalent of the selecting the options available in the **Remove Hidden Information** dialog box (click the **File** tab, click **Info**, and then click  **Remove Personal Information**).
 
 

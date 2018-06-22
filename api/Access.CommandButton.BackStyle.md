@@ -33,6 +33,7 @@ The  **BackStyle** property uses the following settings.
 |:-----|:-----|:-----|
 |Normal|1|(Default) The control has its interior color set by the  **BackColor** property.|
 |Transparent|0| The control is transparent. The color of the form or report behind the control is visible.|
+
 You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
 
 If the  **Transparent** button on the **Back Color** button palette is selected, the **BackStyle** property is set to Transparent; otherwise the **BackStyle** property is set to Normal.

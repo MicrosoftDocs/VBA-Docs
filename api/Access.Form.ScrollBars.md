@@ -35,6 +35,7 @@ The  **ScrollBars** property uses the following settings.
 |Horizontal Only|1|Horizontal scroll bar appears on the form. |
 |Vertical Only|2|Vertical scroll bar appears on the form.|
 |Both|3|(Default) Vertical and horizontal scroll bars appear on the form. |
+
 If your form is larger than the available display window, you can use the  **ScrollBars** property to allow the user to view the entire form.
 
 You can use the  **NavigationButtons** property to control record navigation.

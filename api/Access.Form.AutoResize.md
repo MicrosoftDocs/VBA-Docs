@@ -33,6 +33,7 @@ The  **AutoResize** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|(Default) The Form window is automatically sized to display a complete record.|
 |No|**False**|When opened, the Form window has the last saved size. To save a window's size, open the form, size the window, save the form by clicking  **Save** on the **File** menu, and close the form or report. When you next open the form or report, it will be the saved window size.|
+
 This property can be set only in Design view.
 
 The Form window resizes only if opened in Form view. If you open the form first in Design view or Datasheet view and then change to Form view, the Form window won't resize.

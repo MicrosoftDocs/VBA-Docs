@@ -43,6 +43,7 @@ The RelativeToOriginalSize parameter can be one of the  **MsoTriState** constant
 |:-----|:-----|
 | **msoFalse**|Scales the shape relative to its current size.|
 | **msoTrue**|Scales the shape relative to its original size.|
+
 The fScale parameter can be one of the  **MsoScaleFrom** constants declared in the Microsoft Office type library and shown in the following table. The default is **msoScaleFromTopLeft**.
 
 
@@ -50,6 +51,7 @@ The fScale parameter can be one of the  **MsoScaleFrom** constants declared in t
 | **msoScaleFromBottomRight**|
 | **msoScaleFromMiddle**|
 | **msoScaleFromTopLeft**|
+
 Shapes other than pictures and OLE objects are always scaled relative to their current height; specifying a RelativeToOriginalSize value of  **msoTrue** for shapes other than pictures or OLE objects causes an error.
 
 Use the  **[ScaleWidth](Publisher.Shape.ScaleWidth.md)** method to scale the width of a shape.

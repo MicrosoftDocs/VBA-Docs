@@ -39,6 +39,7 @@ Use the  **ListAlignment** property to position shapes along the axis that is pe
 | **visListAlignLeftOrTop**|0|Left-align or top-align shapes.|
 | **visListDirCenterOrMiddle**|1|Center-align or middle-align shapes.|
 | **visListDirRightOrBottom**|2|Right-align or bottom-align shapes.|
+
 If the container is not a list, Microsoft Visio returns an  **Invalid Source** error.
 
 

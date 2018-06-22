@@ -22,6 +22,7 @@ Returns or sets the axis type. Read/write XlAxisType .
 | **xlSeriesAxis**|
 | **xlCategory**|
 | **xlValue**|
+
  _expression_. **Type**
  _expression_ Required. An expression that returns an [Axis](./Excel.Axis(Graph object).md) object.
 Type property as it applies to the  **ChartColorFormat** object.
@@ -40,6 +41,7 @@ Returns the fill type. Read-only MsoFillType .
 | **msoFillPicture**|
 | **msoFillSolid**|
 | **msoFillTextured**|
+
  _expression_. **Type**
  _expression_ Required. An expression that returns a [ChartFillFormat](./Excel.ChartFillFormat.md) object.
 Type property as it applies to the  **DataLabel** and **DataLabels** objects.
@@ -61,6 +63,7 @@ Returns or sets the trendline type. Read/write XlTrendlineType .
 | **xlMovingAvg**|
 | **xlPolynomial**|
 | **xlPower**|
+
  _expression_. **Type**
  _expression_ Required. An expression that returns a [Trendline](./Excel.Trendline(Graph object).md) object.
 

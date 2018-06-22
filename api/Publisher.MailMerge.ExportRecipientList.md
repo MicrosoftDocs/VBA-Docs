@@ -43,6 +43,7 @@ Possible values for the FileType parameter include the following constants from 
 |:-----|:-----|:-----|
 | **pbAsCsvFile**|1|Save as comma-delimited CSV file.|
 | **pbAsMdbFile**|0|Save as Microsoft Office Access MDB file.|
+
 The  **ExportRecipientList** method corresponds to the **Export recipient list to new file** command in the **E-mail Merge** and **Mail Merge** task panes in the Microsoft Publisher user interface.
 
 

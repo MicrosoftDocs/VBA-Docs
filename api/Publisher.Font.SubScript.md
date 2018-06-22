@@ -40,6 +40,7 @@ The  **SubScript** property value can be one of the **MsoTriState** constants de
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
 | **msoTrue**| All characters in the range are formatted as subscript.|
+
 Setting the  **SubScript** property to **msoTrue** removes superscript formatting from the text range.
 
 

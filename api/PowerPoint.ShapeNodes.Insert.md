@@ -48,6 +48,7 @@ The  _SegmentType_ parameter value can be one of these **MsoSegmentType** consta
 |:-----|
 |**msoSegmentCurve**|
 |**msoSegmentLine**|
+
 The  _EditingType_ parameter value can be one of these **MsoEditingType** constants.
 
 

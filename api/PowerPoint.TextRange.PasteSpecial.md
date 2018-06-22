@@ -54,6 +54,7 @@ The  _DataType_ parameter value can be one of these **PpPasteDataType** constant
 |**ppPasteHTML**|
 |**ppPasteRTF**|
 |**ppPasteText**|
+
 The  _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constants.
 
 
@@ -62,6 +63,7 @@ The  _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constan
 |:-----|:-----|
 |**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
 |**msoTrue**|Displays the embedded object (or link) as an icon.|
+
 An error occurs if there is no data on the Clipboard when the  **PasteSpecial** method is called.
 
 

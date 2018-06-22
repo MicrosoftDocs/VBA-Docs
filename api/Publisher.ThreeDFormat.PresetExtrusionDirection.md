@@ -44,6 +44,7 @@ The  **PresetExtrusionDirection** property value can be one of the **MsoPresetEx
 | **msoExtrusionTopLeft**|
 | **msoExtrusionTopRight**|
 | **msoPresetExtrusionDirectionMixed**|
+
 This property is read-only. To set the value of this property, use the  **[SetExtrusionDirection](Publisher.ThreeDFormat.SetExtrusionDirection.md)** method.
 
 

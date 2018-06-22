@@ -38,6 +38,7 @@ The property value can be one of the  **MsoTriState** constants declared in the 
 |:-----|:-----|
 | **msoFalse**|The control uses the Visual Basic  **Get** method to submit form data.|
 | **msoTrue**|The control uses the Visual Basic  **Post** method to submit form data. The default value.|
+
 This property is ignored for  **Reset** command buttons.
 
 

@@ -63,6 +63,7 @@ The  _nTargets_ argument can be any combination of the values of the constants d
 | **visDocCleanTargStyles**|&;H8|Examine styles. |
 | **visDocCleanTargDoc**|&;H10 |Examine document sheet.|
 | **visDocCleanTargPageSheet**|&;H100|Examine page sheet(s). |
+
 The nActions, nAlerts, and nFixes arguments can be any combination of the values of the constants defined in  **VisDocCleanActions** in the Visio type library, and described in the following table.
 
 

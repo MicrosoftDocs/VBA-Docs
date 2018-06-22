@@ -48,6 +48,7 @@ The ZOrderCmd parameter can be one of the  **MsoZOrderCmd** constants declared i
 | **msoSendBackward**|
 | **msoSendBehindText**|
 | **msoSendToBack**|
+
 Use the  [ZOrderPosition](Publisher.Shape.ZOrderPosition.md)property to determine a shape's current position in the z-order.
 
 

@@ -58,6 +58,7 @@ The  _FixedFormatType_ parameter value can be one of these **PpFixedFormatType**
 |:-----|:-----|
 |**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
 |**msoTrue**|Displays the embedded object (or link) as an icon.|
+
 The  _Intent_ parameter value can be one of these **PpFixedFormatIntent** constants.
 
 
@@ -66,6 +67,7 @@ The  _Intent_ parameter value can be one of these **PpFixedFormatIntent** consta
 |:-----|:-----|
 |**ppFixedFormatIntentPrint**|Intended to be published online and printed|
 |**ppFixedFormatIntentScreen**|The default. Intended to be published only online|
+
 The  _FrameSlides_ parameter value can be one of these **MsoTriState** constants.
 
 
@@ -74,6 +76,7 @@ The  _FrameSlides_ parameter value can be one of these **MsoTriState** constants
 |:-----|:-----|
 |**msoFalse**|The default. Does not frame exported slides.|
 |**msoTrue**|Frames exported slides.|
+
 The  _HandoutOrder_ parameter value can be one of these **PpPrintHandoutOrder** constants.
 
 
@@ -82,6 +85,7 @@ The  _HandoutOrder_ parameter value can be one of these **PpPrintHandoutOrder** 
 |:-----|:-----|
 |**ppPrintHandoutHorizontalFirst**|Prints handouts with consecutive slides displayed horizontally first (in horizontal rows).|
 |**ppPrintHandoutVerticalFirst**|The default. Prints handouts with consecutive slides displayed vertically first (in vertical columns).|
+
 The  _OutputType_ parameter value can be a combination of one or more of these **PpPrintOutputType** constants.
 
 
@@ -98,6 +102,7 @@ The  _OutputType_ parameter value can be a combination of one or more of these *
 |**ppPrintOutputSlides**|Prints all slides in the presentation. The default.|
 |**ppPrintOutputThreeSlideHandouts**|Prints three slides per handout page.|
 |**ppPrintOutputTwoSlideHandouts**|Prints two slides per handout page.|
+
 The  _PrintHiddenSlides_ parameter value can be one of these **MsoTriState** constants.
 
 
@@ -106,6 +111,7 @@ The  _PrintHiddenSlides_ parameter value can be one of these **MsoTriState** con
 |:-----|:-----|
 |**msoFalse**|The default. Does not print hidden slides.|
 |**msoTrue**|Prints hidden slides.|
+
 The  _RangeType_ parameter value can be one of these **PpPrintRangeType** constants.
 
 
@@ -117,6 +123,7 @@ The  _RangeType_ parameter value can be one of these **PpPrintRangeType** consta
 |**ppPrintNamedSlideShow**|Exports the named (custom) slide show specified in  _SlideShowName_.|
 |**ppPrintSelection**|Exports selected slides.|
 |**ppPrintSlideRange**|Exports the specified slide range.|
+
  Set _BitmapMissingFonts_ to **True** when font licensing does not permit you to embed a font in the PDF file. If you set this parameter to **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available.
 
 

@@ -99,6 +99,7 @@ Applies a standard or custom chart type to a series.
 | **xlSurfaceWireframe**|
 | **xlXYScatterLines**|
 | **xlXYScatterSmooth**|
+
 ApplyCustomType method as it applies to the  **Chart** object.
 Applies a standard or custom chart type to a chart.
  _expression_. **ApplyCustomType**( **_ChartType_**,  **_TypeName_**)

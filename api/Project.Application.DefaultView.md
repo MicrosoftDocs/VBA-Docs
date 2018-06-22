@@ -40,6 +40,7 @@ The  **DefaultView** property can be the name of a custom view or one of the fol
 |"Relationship Diagram"|"Team Planner"|
 |"Resource Allocation"|"Timeline"|
 |"Resource Form"|"Tracking Gantt"|
+
 The default value is "Gantt with Timeline".
 
 

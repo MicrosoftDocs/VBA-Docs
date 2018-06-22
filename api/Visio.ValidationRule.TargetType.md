@@ -39,6 +39,7 @@ Valid validation-rule targets include documents, pages, and shapes. The  **Targe
 | **visRuleTargetShape**|0|The rule applies to shapes in the document.|
 | **visRuleTargetPage**|1|The rule applies to pages in the document.|
 | **visRuleTargetDocument**|2|The rule applies to the document itself.|
+
 If you pass any other value to the  **TargetType** property, Visio returns an invalid-parameter error.
 
 

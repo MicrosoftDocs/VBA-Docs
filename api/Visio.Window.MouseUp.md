@@ -46,6 +46,7 @@ Possible values for  _Button_ are shown in the following table, and are declared
 | **visMouseLeft **|1|
 | **visMouseMiddle **|16|
 | **visMouseRight**|2|
+
 Possible values for  _KeyButtonState_ can be a combination of the values shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library. For example, if _KeyButtonState_ returns 9, it indicates that the user clicked the left mouse button while pressing CTRL.
 
 
@@ -57,6 +58,7 @@ Possible values for  _KeyButtonState_ can be a combination of the values shown i
 | **visMouseLeft**|1|
 | **visMouseMiddle**|16|
 | **visMouseRight**|2|
+
 If you set  _CancelDefault_ to **True** , Visio will not process the message received when the mouse button is clicked.
 
 Unlike some other Visio events,  **MouseUp** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **MouseUp** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True** . For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this reference.

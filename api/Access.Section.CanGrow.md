@@ -33,6 +33,7 @@ The  **CanGrow** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True** (?1)|The section or control grows vertically so that all data it contains can be printed or previewed.|
 |No|**False** (0)|(Default) The section or control doesn't grow. Data that doesn't fit within the fixed size of the section or control won't be printed or previewed.|
+
 This property setting is read-only in a macro or Visual Basic in any view but Design view.
 
 You can use this property to control the appearance of printed forms and reports. When you set the property to Yes, the object automatically adjusts so any amount of data can be printed. When a control grows, the controls below it move down the page.

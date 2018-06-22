@@ -51,6 +51,7 @@ The  **PresentationSync** event returns one of the following **MsoSyncEventType*
 |**msoSyncEventUploadFailed**|
 |**msoSyncEventDownloadNoChange**|
 |**msoSyncEventOffline**|
+
 The  **Sync** object model is available whether sharing and synchronization are enabled or disabled on the active document. The **Sync** property of the **Presentation** object does not return **Nothing** when the active document is not shared or synchronization is not enabled. Use the **Status** property to determine whether the document is shared and whether synchronization is enabled.
 
 Not all document synchronization problems raise run-time errors that can be trapped. After using the methods of the  **Sync** object, it is a good idea to check the **Status** property. If the **Status** property value is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.

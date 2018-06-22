@@ -40,6 +40,7 @@ The  **WidowControl** property value can be one of the **MsoTriState** constants
 |:-----|:-----|
 | **msoFalse**|The first or last line may appear by itself in a text box.|
 | **msoTrue**|The first or last line will not appear by itself in a text box.|
+
 The default setting for this property is  **msoFalse**.
 
 

@@ -77,6 +77,7 @@ The value of the Style argument can be the sum of any combination of the followi
 |64|Last Row|
 |128|First Column|
 |256|Last Column|
+
 How you specify the Connection argument depends on how data is retrieved. For example:
 
 

@@ -32,6 +32,7 @@ The settings for  **MatchEntry** are:
 |0|Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter cycles through all entries beginning with that letter.|
 |1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).|
 |2|No matching.|
+
 The  **MatchEntry** property searches entries from the **[TextColumn](Outlook.combobox.textcolumn.md)** property of a **ListBox** or **ComboBox**.
 
 The control searches the column identified by  **TextColumn** for an entry that matches the user's typed entry. Upon finding a match, the row containing the match is selected, the contents of the column are displayed, and the contents of its **[BoundColumn](Outlook.combobox.boundcolumn.md)** property become the value of the control. If the match is unambiguous, finding the match initiates the **[Click](Outlook.combobox.click.md)** event.

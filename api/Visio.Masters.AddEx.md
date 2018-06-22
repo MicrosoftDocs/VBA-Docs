@@ -51,6 +51,7 @@ For the  _Type_ parameter, pass one of the following members of **VisMasterTypes
 | **visTypeDataGraphic**|5|Creates a data graphic master.|
 | **visTypeThemeColors**|6|Creates a theme-colors master.|
 | **visTypeThemeEffects**|7|Creates a theme-effects master.|
+
 The  **AddEx** method returns the **Master** object added.
 
 If the master added is of type  **visTypeDataGraphic** , Visio names it "Data Graphic", and if it is not the first data graphic in the **Masters** collection of the document, Visio appends the index number of the master in the collection to the name. For example, if there were already 5 objects in the **Masters** collection, one of which was a data graphic, the next data graphic added would be named "Data Graphic.6".

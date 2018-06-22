@@ -39,6 +39,7 @@ The settings for  **PicturePosition** are:
 |10|The picture appears below the caption. The caption is centered above the picture.|
 |11|The picture appears below the caption. The caption is aligned with the right edge of the picture.|
 |12|The picture appears in the center of the control. The caption is centered horizontally and vertically on top of the picture.|
+
 The picture and the caption, as a unit, are centered on the control. If no caption exists, the picture's location is relative to the center of the control.
 
 This property is ignored if the  **[Picture](Outlook.label.picture.md)** property does not specify a picture.

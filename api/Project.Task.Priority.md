@@ -41,6 +41,7 @@ The  **Priority** property can be a value from 0 to 1000. A value of 1000 has th
 |"Lower"|300|
 |"Very low"|200|
 |"Lowest"|100|
+
 Project uses the  **Priority** property of the project summary task (task 0) to determine how to treat tasks when leveling resources across multiple projects. If two projects have equal priorities, the priority for individual tasks is used. You can set the project priority in the **Project Information** dialog box, or show the project summary task on the Gantt chart, select the task, and then use a statement such as `ActiveCell.Task.Priority = 700`.
 
 

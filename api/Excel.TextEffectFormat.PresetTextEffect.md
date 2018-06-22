@@ -61,6 +61,7 @@ The values for this property correspond to the formats in the  **WordArt Gallery
 | **msoTextEffect8**|
 | **msoTextEffect9**|
 | **msoTextEffectMixed**|
+
 Setting the  **PresetTextEffect** property automatically sets many other formatting properties of the specified shape.
 
 

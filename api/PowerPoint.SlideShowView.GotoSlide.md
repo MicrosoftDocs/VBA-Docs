@@ -41,6 +41,7 @@ The value of the ResetSlide parameter can be one of these  **MsoTriState** const
 |:-----|
 |**msoFalse**|
 |**msoTrue**|
+
 If you switch from one slide to another during a slide show with ResetSlide set to  **msoFalse**, when you return to the first slide, its animation picks up where it left off. If you switch from one slide to another with ResetSlide set to **msoTrue**, when you return to the first slide, its entire animation starts over.
 
 

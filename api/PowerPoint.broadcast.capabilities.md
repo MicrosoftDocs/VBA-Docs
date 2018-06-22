@@ -32,6 +32,7 @@ The  **Capabilities** property can return the following[MSOBroadcastCapabilities
 |**MSOBroadcastCapFileSizeLimited**|1|File size limited|
 |**MSOBroadcastCapSupportsMeetingNotes**|2|Supports meeting notes|
 |**MSOBroadcastCapSupportsUpdateDoc**|4|Supports document update|
+
 The values returned correspond to either Office or Microsoft Office 2010 broadcast presentation service capabilities.
 
 

@@ -77,6 +77,7 @@ The value of ElementID after the method returns determines whether Arg1 and Arg2
 |**xlTrendline**|8|SeriesIndex|TrendLineIndex|
 |**xlXErrorBars**|10|SeriesIndex|None|
 |**xlYErrorBars**|11|SeriesIndex|None|
+
 The following table describes the meaning of Arg1 and Arg2 after the method returns.
 
 

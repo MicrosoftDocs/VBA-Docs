@@ -54,6 +54,7 @@ Possible values for  _Flags_ are declared by the Visio type library in **VisCutC
 | **visCopyPasteNoAssociatedCallouts**|&;H16|Do not cut and copy unselected callouts associated with shapes.|
 | **visCopyPasteDontAddToContainers**|&;H32|Do not add pasted shapes to any underlying containers.|
 | **visCopyPasteNoCascade**|&;H64|Do not offset shapes on copy.|
+
 Setting  _Flags_ to **visCopyPasteNormal** is the equivalent of the behavior in the user interface. You should use **visCopyPasteNormal** and the other flags consistently. For example, if you use the value **visCopyPasteNoTranslate** to copy, you should also use that value to paste, because that is the only way to ensure that shapes are pasted to their original coordinate location.
 
 If you need to control the format of the pasted information and (optionally) establish a link to a source file (for example, a Microsoft Word document), use the  **PasteSpecial** method.

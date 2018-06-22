@@ -61,6 +61,7 @@ Possible values for items in the Properties() parameter array are declared in  *
 | **visDataColumnPropertyType**|1|Data type of the data-column property.|
 | **visDataColumnPropertyUnits**|4|Units of the data-column property.|
 | **visDataColumnPropertyVisible**|7|Whether the data-column property is visible in the UI.|
+
 Possible values for items in the Values() parameter array depend on the corresponding Property() array parameter values. The table in the  **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** topic shows valid data-column property values for each data-column property, depending on the data-column data type.
 
 

@@ -66,12 +66,16 @@ The following table illustrates the results of calling  **RemoveFromSelection** 
 
 | **Existing** **Selection.Count**| **Reading Pane Displayed**| **Specified Item Displayed in Reading Pane**| **Results**|
 |1|Yes|Yes|
+
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The selection is cleared.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane is empty.</p></li></ul>|
 |>1|Yes|No|
+
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane does not change.</p></li></ul>|
 |>1|Yes|Yes|
+
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane displays the next item or adjacent item in the selection.</p></li></ul>|
 |>=1|No|N/A|
+
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li></ul>|
 If the specified item exists in the current view but is not selected in that view, calling  **RemoveFromSelection** does not result in any change to the selection and does not fire the **SelectionChange** event.
 

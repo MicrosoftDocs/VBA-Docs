@@ -42,6 +42,7 @@ The DistributeCmd parameter can be one of the following  **MsoDistributeCmd** co
 
 | **msoDistributeHorizontally**|
 | **msoDistributeVertically**|
+
 The RelativeTo parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
@@ -50,6 +51,7 @@ The RelativeTo parameter can be one of the  **MsoTriState** constants declared i
 |:-----|:-----|
 | **msoFalse**| Distribute the shapes within the horizontal or vertical space that the range of shapes originally occupies.|
 | **msoTrue**|Distribute the shapes evenly over the entire horizontal or vertical space on the page.|
+
 When RelativeTo is  **msoTrue**, shapes are distributed so that the distance between the two outer shapes and the edges of the page is the same as the distance between one shape and the next. If the shapes must overlap, the two outer shapes are moved to the edges of the page.
 
 When RelativeTo is  **msoFalse**, the two outer shapes are not moved; only the positions of the inner shapes are adjusted.

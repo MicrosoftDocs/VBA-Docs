@@ -40,6 +40,7 @@ The  **TransparentBackground** property value can be one of the **MsoTriState** 
 | **msoTriStateMixed**|Return value only, indicating a combination of  **msoTrue** and **msoFalse** for the specified objects..|
 | **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
 | **msoTrue**| Parts of the picture whose color is the transparency color appear transparent.|
+
 Use the  **[TransparencyColor](Publisher.PictureFormat.TransparencyColor.md)** property to set the transparent color.
 
 This property applies only to bitmaps.

@@ -52,6 +52,7 @@ The following constants declared by the Visio type library in  **VisSelectArgs**
 | **visSubSelect**|3|Selects a shape whose parent is already selected.|
 | **visSelectAll**|4|Selects a shape and all its peers.|
 | **visDeselectAll**|256|Cancels the selection of a shape and all its peers.|
+
 If SelectAction is  **visSubSelect** , the parent shape of SheetObject must already be selected.
 
 You can combine  **visDeselectAll** with **visSelect** and **visSubSelect** to clear all shapes prior to selecting or subselecting other shapes.

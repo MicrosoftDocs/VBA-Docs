@@ -66,6 +66,7 @@ The following table lists the values that are supported by the  **InternetCodepa
 |Vietnamese (Windows)|windows-1258|1258|
 |Western European (ISO)|iso-8859-1|28591|
 |Western European (Windows)|windows-1252|1252|
+
 The following table lists the code pages Microsoft recommends that you use for the best compatiblity with older e-mail systems.
 
 

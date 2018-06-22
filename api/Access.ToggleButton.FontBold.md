@@ -41,6 +41,7 @@ The  **FontBold** property uses the following settings.
 |:-----|:-----|
 |**True**|The text is bold.|
 |**False**|(Default) The text isn't bold.|
+
 To use the  **FontBold** property on a report, first create a **Print** event procedure that prints the desired text.
 
 A font's appearance on screen and in print may differ, depending on your computer and printer.

@@ -44,6 +44,7 @@ The  **PrtMip** property has the following members.
 |ItemLayout|A  **Long** that specifies horizontal (1953) or vertical (1954) layout of columns. This member is equivalent to **Across, then Down** or **Down, then Across** respectively under **Column Layout** on the **Columns** tab of the **Page Setup** dialog box.|
 |FastPrint|Reserved.|
 |Datasheet|Reserved.|
+
 The  **PrtMip** property setting is read/write in Design view and read-only in other views.
 
 

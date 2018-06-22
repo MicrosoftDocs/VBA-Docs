@@ -47,6 +47,7 @@ The value of the  **DiagramServicesEnabled** property setting must be one or a b
 | **visServiceStructureFull**|4|Structured-diagram behaviors that match all those in the user interface (UI).|
 | **visServiceVersion140**|7|All diagram services that exist in Visio.|
 | **visServiceVersion150**|8|All diagram services that exist in Visio.|
+
  If you combine **visServiceStructureBasic** and **visServiceStructureFull** , the latter overrides the former. However, you can combine **visServiceAutoSizePage** with either **visServiceStructureBasic** (3) or **visServiceStructureFull** (5) and assign either of those values to the property.
 
 Diagram services apply only to solutions that manipulate Visio programmatically (by Automation). They do not have any effect on the behaviors that are exposed in the UI. UI settings that disable these behaviors have no effect on behaviors that are triggered programmatically.

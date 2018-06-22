@@ -60,6 +60,7 @@ The  _FileFormat_ parameter value can be one of these **PpSaveAsFileType** const
 |**ppSaveAsTemplate**|
 |**ppSaveAsTIF**|
 |**ppSaveAsWebArchive**|
+
 The  _EmbedTrueTypeFonts_ parameter value can be one of these **MsoTriState** constants.
 
 

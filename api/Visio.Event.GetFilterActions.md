@@ -53,6 +53,7 @@ The filter actions that are returned in the first and second array elements of e
 | **visFilterMouseMoveDragLeave**|4|Filter the  **DragLeave** extension of the **MouseMove** event.|
 | **visFilterMouseMoveDragOver**|3|Filter the  **DragOver** extension of the **MouseMove** event.|
 | **visFilterMouseMoveNoDrag**|0|Do not filter any extensions of the  **MouseMove** event.|
+
 For more information about using event extensions to define filter actions, see the  **[SetFilterActions](Visio.Event.SetFilterActions.md)** method.
 
 

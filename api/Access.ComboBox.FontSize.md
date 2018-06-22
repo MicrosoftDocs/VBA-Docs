@@ -42,6 +42,7 @@ The  **FontSize** property uses the following settings.
 |8|(Default for all reports and controls except command buttons) The text is 8-point type.|
 |10|(Default for command buttons) The text is 10-point type.|
 |Other sizes|The text is the indicated size.|
+
 You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
 
 For reports, you can set this property only in an event procedure or in a macro specified by the  **OnPrint** event property setting.

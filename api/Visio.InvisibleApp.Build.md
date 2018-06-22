@@ -37,6 +37,7 @@ The format of the build number is described in the following table.
 |**Bits **|**Description **|
 |:-----|:-----|
 |0 - 15|Internal build number|
+
 The build number of the running instance is written to the  **BuildNumberCreated** property when a new document is created, and to the **BuildNumberEdited** property when a document is edited.
 
 

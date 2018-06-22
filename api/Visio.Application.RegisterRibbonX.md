@@ -53,6 +53,7 @@ If  _TargetDocument_ is null, the custom UI is defined at the level of the appli
 | **visRxModeDrawing**|1|Display the custom UI in Drawing mode.|
 | **visRxModeStencil**|2|Display the custom UI in Stencil mode.|
 | **visRxModePrintPreview**|4|Display the custom UI in Print Preview mode.|
+
 If  _FriendlyName_ is null, the method fails.
 
 

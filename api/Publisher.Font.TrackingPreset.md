@@ -41,6 +41,7 @@ The  **TrackingPreset** property value can be one of these **PbTrackingPresetTyp
 | **pbTrackingTight**|
 | **pbTrackingVeryLoose**|
 | **pbTrackingVeryTight**|
+
 Loose and very loose tracking leaves ample space between characters, whereas tight and very tight tracking can produce character overlap.
 
 

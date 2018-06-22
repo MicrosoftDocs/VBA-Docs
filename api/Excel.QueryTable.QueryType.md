@@ -34,6 +34,7 @@ Indicates the type of query used by Microsoft Excel to populate the query table.
 | **xlADORecordset** . Based on an ADO recordset query|
 | **xlDAORecordSet** . Based on a DAO recordset query, for query tables only|
 | **xlODBCQuery** . Based on an ODBC data source|
+
 You specify the data source in the prefix for the  **[Connection](Excel.QueryTable.Connection.md)** property's value.
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.

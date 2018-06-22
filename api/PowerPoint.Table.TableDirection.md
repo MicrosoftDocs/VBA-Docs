@@ -40,6 +40,7 @@ The value of the  **TableDirection** property can be one of these **PpDirection*
 |**ppDirectionLeftToRight**|
 |**ppDirectionMixed**|
 |**ppDirectionRightToLeft**|
+
 When you are using the  **TextDirection** property, The **ppDirectionMixed** constant may be returned.
 
 

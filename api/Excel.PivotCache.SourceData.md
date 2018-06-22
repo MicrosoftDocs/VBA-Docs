@@ -33,6 +33,7 @@ Returns the data source for the PivotTable report, as shown in the following tab
 |External data source|An array. Each row consists of an SQL connection string with the remaining elements as the query string, broken down into 255-character segments.|
 |Multiple consolidation ranges|A two-dimensional array. Each row consists of a reference and its associated page field items.|
 |Another PivotTable report|One of the above three kinds of information.|
+
 This property is not available for OLE DB data sources.
 
 

@@ -67,6 +67,7 @@ For the optional AutoLinkBehavior parameter, you can pass a combination of one o
 | **visAutoLinkNullMatchesNoFormula**|32|Allow null database values to map to "No Formula" in the Visio ShapeSheet spreadsheet.|
 | **visAutoLinkReplaceExistingLinks**|8|Replace existing links.|
 | **visAutoLinkSelectedShapesOnly**|1|Link selected shapes only, not sub-shapes of selected shapes.|
+
 You cannot pass a value that includes both  **visAutoLinkDontReplaceExistingLinks** and **visAutoLinkReplaceExistingLinks** . The method returns an error if you attempt to do so.
 
 If you pass a value for AutoLinkBehavior, it modifies the default behavior, which is as follows:

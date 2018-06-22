@@ -42,5 +42,6 @@ Contains constants that specify a view in Project.
 |**pjViewTaskUsage**|24|**Task Usage** view.|
 |**pjViewTimeline**|25|**Timeline** view.|
 |**pjViewTrackingGantt**|26|**Tracking Gantt** view.|
+
 The  **PjViewType** enumeration is used in the[ViewApplyEx](Project.Application.ViewApplyEx.md) method.
 

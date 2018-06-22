@@ -61,6 +61,7 @@ The  **PrtDevMode** property uses the following members.
 |PH|A  **Long** value that specifies the height, in pixels, of the visible device surface (screen or printer).|
 |DFI|A  **Long** value that specifies the device's display mode.|
 |DFR|A  **Long** value that specifies the frequency, in hertz (cycles per second), of the display device in a particular mode.|
+
 This property setting is read/write in Design view and read-only in other views.
 
 Printer drivers can add device-specific data immediately following the 94 bytes of the DEVMODE structure. For this reason, it is important that the DEVMODE data outlined above not exceed 94 bytes.

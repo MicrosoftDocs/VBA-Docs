@@ -75,6 +75,7 @@ The following table shows the results of importing text into Excel for various i
 | **xlYDMFormat** . YDM Date|
 | **xlEMDFormat** . EMD Date|
 | **xlSkipColumn** . Skip Column|
+
 You can use  **xlEMDFormat** only if Taiwanese language support is installed and selected. The **xlEMDFormat** constant specifies that Taiwanese era dates are being used.
 
 The column specifiers can be in any order. If a given column specifier is not present for a particular column in the input data, the column is parsed with the  **xlGeneralFormat** setting. This example causes the third column to be skipped, the first column to be parsed as text, and the remaining columns in the source data to be parsed with the **xlGeneralFormat** setting.

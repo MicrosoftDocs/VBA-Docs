@@ -38,6 +38,7 @@ Possible values for the  **StylisticSets** property and how they correspond to i
 |2|2|
 |4|3|
 |8|4|
+
 The number of stylistic sets available varies, depending on the font.
 
 

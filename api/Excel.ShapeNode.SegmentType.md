@@ -30,6 +30,7 @@ Returns a value that indicates whether the segment associated with the specified
 | **MsoSegmentType** can be one of these **MsoSegmentType** constants.|
 | **msoSegmentCurve**|
 | **msoSegmentLine**|
+
 Use the  **[SetSegmentType](Excel.ShapeNodes.SetSegmentType.md)** method to set the value of this property.
 
 

@@ -48,6 +48,7 @@ The AlignCmd parameter can be one of the  **MsoAlignCmd** constants declared in 
 | **msoAlignMiddles**|Aligns shapes on a horizontal line through their centers. If  _RelativeTo_ is **msoFalse**, shapes are aligned on a line halfway between the top- and bottommost shapes.|
 | **msoAlignRights**| **msoAlignRights** Aligns shapes along their right edges. If _RelativeTo_ is **msoFalse**, the rightmost shape determines the line against which the other shapes are aligned.|
 | **msoAlignTops**| Aligns shapes along their top edges. If _RelativeTo_ is **msoFalse**, the topmost shape determines the line against which the other shapes are aligned.|
+
 The RelativeTo parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 

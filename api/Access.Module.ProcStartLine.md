@@ -44,6 +44,7 @@ The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constant
 |**vbext_pk_Let**|A  **Property Let** procedure.|
 |**vbext_pk_Proc**|A  **Sub** or **Function** procedure.|
 |**vbext_pk_Set**|A  **Property Se** t procedure.|
+
 A procedure begins with any comments and compilation constants that immediately precede the procedure definition, denoted by one of the following:
 
 

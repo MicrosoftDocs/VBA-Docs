@@ -38,6 +38,7 @@ The value returned by the  **TextureTile** property can be one of these **MsoTri
 |:-----|:-----|
 |**msoFalse**|The texture fill is centered.|
 |**msoTrue**| The texture fill is tiled.|
+
 The setting of the  **TextureTile** property corresponds to the setting of the **Tile picture as texture** box on the **Fill** pane of the **Format Picture** dialog box in the Microsoft PowerPoint user interface (under **Drawing Tools**, on the  **Format Tab**, in the  **Shape Styles** group, click **Format Shape**.)
 
 

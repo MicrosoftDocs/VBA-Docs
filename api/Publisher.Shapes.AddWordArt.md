@@ -55,6 +55,7 @@ The  **FontBold** parameter value can be one of the following **MsoTriState** co
 | **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as bold and some text not formatted as bold.|
 | **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the WordArt are formatted as bold.|
+
 The  **FontItalic** parameter value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 
 

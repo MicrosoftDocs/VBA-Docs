@@ -34,6 +34,7 @@ The  **OLEType** property uses the following settings.
 |Linked|**acOLELinked**|The control contains a linked object. All the object's data is managed by the application that created it.|
 |Embedded|**acOLEEmbedded**|The control contains an embedded object. All the object's data is managed by Microsoft Access.|
 |None|**acOLENone**|The control doesn't contain an OLE object.|
+
 When creating an OLE object, use the  **OLETypeAllowed** property to determine what type of object a control can contain.
 
 

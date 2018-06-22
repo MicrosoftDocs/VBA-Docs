@@ -68,6 +68,7 @@ The  _FileFormat_ parameter value can be one of these **PpSaveAsFileType** const
 |**ppSaveAsWMV**|
 |**ppSaveAsXMLPresentation**|
 |**ppSaveAsXPS**|
+
 The  _EmbedFonts_ parameter value can be one of these **MsoTriState** constants.
 
 

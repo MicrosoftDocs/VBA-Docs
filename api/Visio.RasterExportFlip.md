@@ -39,6 +39,7 @@ The value of the  **RasterExportFlip** property must be either **visRasterNoFlip
 | **visRasterNoFlip**|0|No flip, the default.|
 | **visRasterFlipHorizontal**|1|Flip horizontally.|
 | **visRasterFlipVertical**|2|Flip vertically.|
+
 For any given session of Microsoft Visio, when the  **RasterExportFlip** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 
 The setting of the  **RasterExportFlip** property corresponds to the flip selected in the **BMP Output Options**,  **GIF Output Options**,  **JPG Output Options**,  **PNG Output Options**, or  **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)**,  **Graphics Interchange Format (*.gif)**,  **JPEG File Interchange Format (*.jpg)**,  **Portable Network Graphics (*.png)**, or  **Tag Image File Format (*.tif)**, and then click  **Save**.)

@@ -59,6 +59,7 @@ To determine the ODBC connection and query strings, set query options manually a
 |PWD|The user-specified password|
 |DBQ|The database file name|
 |FIL|The file type|
+
 To instruct Word to use the same connection method as in earlier versions of Word (Dynamic Data Exchange (DDE) for Microsoft Office Access and Microsoft Office Excel data sources) use  `SubType:=wdMergeSubTypeWord2000`.
 
 How you specify the range depends on how data is retrieved. For example:

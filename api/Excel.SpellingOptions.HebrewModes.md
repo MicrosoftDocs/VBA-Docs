@@ -32,6 +32,7 @@ Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebre
 | **xlHebrewMixedAuthorizedScript** The Hebrew traditional script.|
 | **xlHebrewMixedScript** In this mode the speller accepts any word recognized as Hebrew, whether in Full Script, Partial Script, or any non-conventional spelling variation what is known to the speller.|
 | **xlHebrewPartialScript** In this mode the speller accepts words both in Full Script and Partial Script. Some words will be flagged since this spelling is not authorized in either Full script or Partial script.|
+
 A legitimate Hebrew word can be a basic dictionary entry or any inflection.
 
 

@@ -38,6 +38,7 @@ The read/write behavior of the  **Recordset** property is determined by the type
 |:-----|:-----|:-----|
 |**ADO**|Read/Write|Read/Write|
 |**DAO**|N/A|Read/Write|
+
 The following example opens a form, opens a recordset, and then binds the form to the recordset by setting the form's  **Recordset** property to the newly created **Recordset** object.
 
 

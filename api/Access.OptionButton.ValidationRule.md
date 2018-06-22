@@ -62,6 +62,7 @@ The following table contains expression examples for the  **ValidationRule** and
 |Like "A????"|Entry must be 5 characters and begin with the letter "A".|
 |>= #1/1/96# And <#1/1/97#|Entry must be a date in 1996.|
 |DLookup("CustomerID", "Customers", "CustomerID = Forms!Customers!CustomerID") Is Null|Entry must be a unique CustomerID (domain aggregate functions are allowed only for form-level validation).|
+
 If you create a validation rule for a field, Microsoft Access doesn't normally allow a  **Null** value to be stored in the field. If you want to allow a **Null** value, add "Is Null" to the validation rule, as in "<> 8 Or Is Null" and make sure the **Required** property is set to No.
 
 You can't set field or record validation rules for tables created outside Microsoft Access (for example, dBASE, Paradox, or SQL Server). For these kinds of tables, you can create validation rules for controls only.

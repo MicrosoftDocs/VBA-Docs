@@ -36,6 +36,7 @@ Use  **Axes**( _type_,  _group_), where  _type_ is the axis type and _group_ is 
 |XlAxisType can be one of these XlAxisType constants.|
 | **xlCategory**|
 | **xlSeries** **xlValue**|
+
  _Group_ can be either of the following **XlAxisGroup** constants: **xlPrimary** or **xlSecondary**. For more information, see the  **[Axes](Excel.Axes(Graph method).md)** method. 
 
 The following example sets the title text for the category axis.

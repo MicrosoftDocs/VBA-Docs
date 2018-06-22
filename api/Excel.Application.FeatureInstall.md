@@ -31,6 +31,7 @@ Returns or sets a value (constant) that specifies how Microsoft Excel handles ca
 | **msoFeatureInstallNone** . Generates a generic Automation error at run time when uninstalled features are called. This is the default constant.|
 | **msoFeatureInstallOnDemand** . Prompts the user to install new features.|
 | **msoFeatureInstallOnDemandWithUI** . Displays a progress meter during installation; doesn't prompt the user to install new features.|
+
 You can use the  **msoFeatureInstallOnDemandWithUI** constant to prevent users from thinking that the application isn't responding while a feature is being installed. Use the **msoFeatureInstallNone** constant if you want the developer to be the only one who can install features.
 
 If you have the  **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property set to **False** , users won't be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand** . If the **DisplayAlerts** property is set to **True** , an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand** .

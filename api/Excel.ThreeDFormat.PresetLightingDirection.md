@@ -38,6 +38,7 @@ Returns or sets the position of the light source relative to the extrusion. Read
 | **msoLightingTopLeft**|
 | **msoLightingTopRight**|
 | **msoPresetLightingDirectionMixed**|
+
 You won't see the lighting effects you set if the extrusion has a wire frame surface.
 
 

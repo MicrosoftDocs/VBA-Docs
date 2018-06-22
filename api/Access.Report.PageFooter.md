@@ -35,6 +35,7 @@ The  **PageFooter** property use the following settings.
 |Not With Rpt Hdr|1|The page footer isn't printed on the same page as the report header.|
 |Not With Rpt Ftr|2|The page footer isn't printed on the same page as the report footer. Microsoft Access prints the report footer on a new page.|
 |Not With Rpt Hdr/Ftr|3|The page footer isn't printed on a page that has either a report header or a report footer. Microsoft Access prints the report footer on a new page.|
+
 You can set the  **PageFooter** property only in report Design view.
 
 Microsoft Access normally prints report page footers on every page in a report, including the first and last.

@@ -77,6 +77,7 @@ The meaning of  _Arg1_ and _Arg2_ depends on the _ElementID_ value, as shown in 
 | **xlXErrorBars**|SeriesIndex|None|
 | **xlYErrorBars**|SeriesIndex|None|
 | **xlShape**|ShapeIndex|None|
+
 The following table describes the meaning of the arguments.
 
 

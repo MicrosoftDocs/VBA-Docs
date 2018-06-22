@@ -52,6 +52,7 @@ Returns an array that contains the identifiers of the shapes that are glued to a
 | **visGluedShapesAll2D**|3|Return all 2-D shapes that are glued to this shape and all 2-D shapes to which this shape is glued. |
 | **visGluedShapesIncoming2D**|4|If the source object is a 1-D shape, return the 2-D shape to which the begin point is glued. If the source object is a 2-D shape, return the 2-D shapes that are glued to this shape.|
 | **visGluedShapesOutgoing2D**|5|If the source object is a 1-D shape, return the 2-D shape to which the end point is glued. If the source object is a 2-D shape, return the 2-D shapes to which this shape is glued.|
+
 Categories are user-defined strings that you can use to categorize shapes and thereby to restrict membership in a container. You can define categories in the User.msvShapeCategories cell in the ShapeSheet for a shape. You can define multiple categories for a shape by separating those categories with semi-colons.
 
 Connection points with dual directionality (both inward and outward) are identified as incoming or outgoing based on the way that they are used in a particular connection.

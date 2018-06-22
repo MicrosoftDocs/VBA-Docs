@@ -46,6 +46,7 @@ This method returns one of the following  **XlXmlImportResult** constants:
 | **xlXmlImportElementsTruncated** The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** The data being imported failed schema validation, but was imported anyway.|
+
 If either of the following conditions is true, a runtime error will occur. If more than one condition is true, Excel returns a runtime error for the most severe (they are listed below with the most severe listed first):
 
 

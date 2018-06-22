@@ -43,6 +43,7 @@ Alignment can be one of these PbTabAlignmentType constants.
 | **pbTabAlignmentDecimal**|
 | **pbTabAlignmentLeading**|
 | **pbTabAlignmentTrailing**|
+
 Leader can be one of these  **PbTabLeaderType** constants.
 
 

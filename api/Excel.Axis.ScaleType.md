@@ -30,6 +30,7 @@ Returns or sets the value axis scale type. Read/write  **[XlScaleType](Excel.XlS
 | **XlScaleType** can be one of these **XlScaleType** constants.|
 | **xlScaleLinear**|
 | **xlScaleLogarithmic**|
+
 A logarithmic scale uses base 10 logarithms.
 
 

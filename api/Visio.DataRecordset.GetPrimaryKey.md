@@ -53,6 +53,7 @@ A data recordset for which a primary key has been specified can have single or c
 | **visKeyRowOrder**|1|Use row order as the primary key.|
 | **visKeySingle**|2|Use a single column as the primary key column.|
 | **visKeyComposite**|3|Use multiple columns as primary key columns.|
+
 For the PrimaryKey() out parameter, pass a dimensionless array of strings. If the primary key setting returned is  **visKeySingle** or **visKeyComposite** , the method also returns an array of primary key column name strings in the PrimaryKey() out parameter. If the primary key setting is **visKeyRowOrder** , the default, the method returns an empty array.
 
 You can use the  **[DataRecordset.SetPrimaryKey](Visio.DataRecordset.SetPrimaryKey.md)** method to specify the primary key setting for the data recordset as well as the name of the column or columns that you want to set as the primary key column or columns. When you set primary keys, make sure that the column or columns you pick to be primary key columns contain unique values (or value sets) for each row.

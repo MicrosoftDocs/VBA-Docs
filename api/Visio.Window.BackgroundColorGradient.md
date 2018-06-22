@@ -59,6 +59,7 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 | ** vbMagenta**|0xFF00FF |Magenta|
 | ** vbCyan**|0xFFFF00|Cyan|
 | ** vbWhite**|0xFFFFFF|White|
+
 For a drawing window, print preview window, or full-screen view window, setting the  **BackgroundColorGradient** property of the window to a value other than the default (-1) overrides the **ApplicationSettings.DrawingBackgroundColorGradient** setting for that set of windows. To be able to reset this property for the same set of windows, you must reset **BackgroundColorGradient** to its default value, -1. If multiple drawings are open, setting **BackgroundColorGradient** for one set of windows has no effect on the setting for other open window sets.
 
 However, for a ShapeSheet window, setting the  **BackgroundColorGradient** property of the window to a value other than the default has no effect, either on the background color of the ShapeSheet window, or on any of the other window settings.

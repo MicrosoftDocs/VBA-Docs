@@ -35,6 +35,7 @@ The  **CurrentView** property uses the following settings.
 |5|Print Preview|
 |6|Report view|
 |7|Layout view|
+
 Use this property to perform different tasks depending on the current view. For example, an event procedure could determine which view the form is displayed in and perform one task if the form is displayed in Form view or another task if it's displayed in Datasheet view.
 
 

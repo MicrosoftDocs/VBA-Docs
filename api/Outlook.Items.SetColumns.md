@@ -53,6 +53,7 @@ After applying the  **SetColumns** method on specific properties of the collecti
 | **EntryID**| **Sent**|
 | **HTMLBody**| **Submitted**|
 | **IsConflict**| **[VotingOptions](Outlook.MailItem.VotingOptions.md)**|
+
 The  **ConversationIndex** property cannot be cached using the **SetColumns** method. However, this property will not result in an error like the other properties listed above.
 
 

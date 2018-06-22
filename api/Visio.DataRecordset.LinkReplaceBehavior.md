@@ -42,6 +42,7 @@ The following constants for link replacement behaviors are declared by the Visio
 | **visLinkReplaceAlways**|1|Always replace links when linking to a shape that has existing links|
 | **visLinkReplaceNever**|0|Never replace links when linking to a shape that has existing links|
 | **visLinkReplacePrompt**|2|Prompt the user before replacing links when the user attempts to create links in the Visio user interface (UI). |
+
 These options correspond to those available in the  **Properties** dialog box for the tab corresponding to the data recordset in the **External Data** window. (In the **External Data** window, on the tab for the data recordset, right-click, point to **Data Source**, and then click  **Properties**.)
 
 Methods affected by this property setting include  **[Selection.LinkToData](Visio.Selection.LinkToData.md)** , **[Shape.LinkToData](Visio.Shape.LinkToData.md)** , and **[Selection.AutomaticLink](Visio.Selection.AutomaticLink.md)** .

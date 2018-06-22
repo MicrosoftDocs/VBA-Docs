@@ -42,6 +42,7 @@ The settings for fmIMEMode are:
 |8|IME on with Half-width Alphanumeric mode.|
 |9|IME on with Full-width Hangul mode.|
 |10|IME on with Half-width Hangul mode.|
+
 A setting of 0 indicates that the mode of the IME does not change when the control receives focus at run time. For any other value, the mode of the IME is set to the value specified by the  **IMEMode** property when the control receives focus at run time.
 
 

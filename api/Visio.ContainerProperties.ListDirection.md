@@ -40,6 +40,7 @@ The value of the  **ListDirection** property can be one of the following **VisLi
 | **visListDirRightToLeft**|1|Shapes are arranged horizontally, from right to left.|
 | **visListDirTopToBottom**|2|Shapes are arranged vertically, from top to bottom.|
 | **visListDirBottomToTop**|3|Shapes are arranged vertically, from bottom to top.|
+
 If the container is not a list, Microsoft Visio returns an  **Invalid Source** error.
 
 

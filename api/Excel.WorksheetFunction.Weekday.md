@@ -53,6 +53,7 @@ Double
 |15|Numbers 1 (Friday) through 7 (Thursday)|
 |16|Numbers 1 (Saturday) through 7 (Friday)|
 |17|Numbers 1 (Sunday) through 7 (Saturday)|
+
 Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default. 
 
 

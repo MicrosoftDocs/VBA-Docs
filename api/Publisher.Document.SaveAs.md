@@ -46,6 +46,7 @@ The Format parameter can be one of the  **PbFileFormat** constants declared in t
 | **pbFilePublisher98**|
 | **pbFileRTF**|
 | **pbFileWebArchive**|
+
 If there is insufficient memory or disk space to save the file, an error occurs.
 
 Calling the  **SaveAs** method always performs saves in the foreground regardless of whether background saves are enabled.

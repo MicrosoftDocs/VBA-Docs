@@ -34,6 +34,7 @@ The  **ReadingOrder** property uses the following settings.
 |Context|0|Reading order is determined by the language of the first character entered. If a right-to-left language character is entered first, reading order is right to left. If a left-to-right language character is entered first, reading order is left to right.|
 |Left-to-Right|1|Sets the reading order to left to right.|
 |Right-to-Left|2|Sets the reading order to right to left.|
+
 In a combo box or list box, the  **ReadingOrder** property determines reading order behavior for both the text box and list box components of the control.
 
 

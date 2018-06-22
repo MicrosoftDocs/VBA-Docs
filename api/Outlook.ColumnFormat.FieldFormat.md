@@ -41,6 +41,7 @@ The value of this property is a constant from an enumeration, where the enumerat
 | **olYesNo**| **[OlFormatYesNo](Outlook.OlFormatYesNo.md)**|
 | **olEnumeration**| **[OlFormatEnumeration](Outlook.OlFormatEnumeration.md)**|
 | **olSmartFrom**| **[OlFormatSmartFrom](Outlook.OlFormatSmartFrom.md)**|
+
 For field types not listed in the above table, the value of this property is ignored.
 
 

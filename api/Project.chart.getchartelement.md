@@ -89,6 +89,7 @@ The value of  _ElementID_ after the method returns determines whether _Arg1_ and
 |**xlTrendline**|8|SeriesIndex|TrendLineIndex|
 |**xlXErrorBars**|10|SeriesIndex|None|
 |**xlYErrorBars**|11|SeriesIndex|None|
+
 ?
 
 Table 2 describes the meaning of  _Arg1_ and _Arg2_ after the method returns. Values in the **Argument** column are from Table 1.

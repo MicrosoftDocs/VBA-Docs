@@ -56,6 +56,7 @@ The Flags argument should be a combination of zero or more of the following valu
 | **visOpenHidden**| &;H40|
 | **visOpenMacrosDisabled**| &;H80|
 | **visOpenNoWorkspace**|&;H100|
+
 If  **visOpenDocked** is specified, the file appears in a docked rather than an MDI window, provided that the file is a stencil file and there is an active drawing window in which to put the docked stencil window.
 
 If  **visOpenDontList** is specified, the name of the opened file does not appear in the list of recently opened documents in the **Recent Documents** list on the **Recent** tab (click the **File** tab, and then click **Recent**).

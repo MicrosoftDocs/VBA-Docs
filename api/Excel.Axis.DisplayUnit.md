@@ -40,6 +40,7 @@ Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit]
 |The unit label can also be one of the following constants|
 | **xlCustom**|
 | **xlNone**|
+
 Using unit labels when charting large values makes your tick mark labels easier to read. For example, if you label your value axis in units of hundreds, thousands, or millions, you can use smaller numeric values at the tick marks on the axis.
 
 

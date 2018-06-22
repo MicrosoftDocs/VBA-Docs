@@ -59,6 +59,7 @@ Possible values for the Format parameter are shown in the following table and de
 |:-----|:-----|:-----|
 | **pbFixedFormatTypePDF**|2|PDF format|
 | **pbFixedFormatTypeXPS**|1|XPS format|
+
 Possible values for the Intent parameter are shown in the following table and declared in  **PbFixedFormatIntent** in the Publisher type library.
 
 
@@ -69,6 +70,7 @@ Possible values for the Intent parameter are shown in the following table and de
 | **pbIntentStandard**|2 |Distribute the publication as an e-mail message or from a Web site. Note that the user does not know how the publication will be viewed: on-screen or printed from a desktop printer. Both the desktop printing scenario and the on-screen viewing scenario must be met by this intent.|
 | **pbIntentPrinting**|3|Print the publication on a desktop printer or at a copy store.|
 | **pbIntentCommercial **|4|Submit the publication to a commercial press.|
+
 Possible values for the PrintStyle parameter are declared in the  **[PbPrintStyle](Publisher.PbPrintStyle.md)** enumeration in the Publisher type library. The default value depends on the value of the Intent parameter.
 
 

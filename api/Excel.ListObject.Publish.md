@@ -48,6 +48,7 @@ The  _Target_ parameter contains an array of **String** elements, as described i
 |0|URL of SharePoint server|
 |1|ListName (Display Name)|
 |2|Description of the list. Optional.|
+
 If the  **ListObject** object is not currently linked to a list on a SharePoint site, setting _LinkSource_ to **True** will create a new list on the specified SharePoint site. If the **ListObject** object is currently linked to a SharePoint site, setting _LinkSource_ argument to **True** will replace the existing link (you can only link the list to one SharePoint site). If the **ListObject** object is not currently linked, setting _LinkSource_ to **False** will leave the **ListObject** object unlinked. If the **ListObject** object is currently linked to a SharePoint site, setting _LinkSource_ to **False** will keep the **ListObject** object linked to the current SharePoint site.
 
 

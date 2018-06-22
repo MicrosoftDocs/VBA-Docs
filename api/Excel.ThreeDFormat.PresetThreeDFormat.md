@@ -51,6 +51,7 @@ If the extrusion has a custom format rather than a preset format, this property 
 | **msoThreeD5**|
 | **msoThreeD7**|
 | **msoThreeD9**|
+
 This property is read-only. To set the preset extrusion format, use the  **[SetThreeDFormat](Excel.ThreeDFormat.SetThreeDFormat.md)** method.
 
 

@@ -41,6 +41,7 @@ The  **Selected** property is a zero-based array that contains the selected stat
 |:-----|:-----|
 |**True**|The list box item is selected.|
 |**False**|The list box item isn't selected.|
+
 This property is available only at run time.
 
 When a list box control's  **MultiSelect** property is set to None, only one item can have its **Selected** property set to **True**. When a list box control's **MultiSelect** property is set to Simple or Extended, any or all of the items can have their **Selected** property set to **True**. A multiple-selection list box bound to a field will always have a **Value** property equal to **Null**. You use the **Selected** property or the **ItemsSelected** collection to retrieve information about which items are selected.

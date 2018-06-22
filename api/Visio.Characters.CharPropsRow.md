@@ -51,6 +51,7 @@ If the  **Characters** object represents an insertion point rather than a sequen
 | **visBiasLetVisioChoose**|0 |
 | **visBiasLeft**|1 |
 | **visBiasRight**|2 |
+
 Specify  **visBiasLeft** for the row that covers character formatting for the character to the left of the insertion point, or **visBiasRight** for the row that covers character formatting for the character to the right of the insertion point.
 
 If you specify  **visBiasLetVisioChoose** , Visio uses the same logic it would apply to new text typed in the user interface starting at the insertion point. Usually, that means that Visio will apply the character formatting of the character to the left of the insertion point to the new text, so **CharPropsRow** will return the same value it would if passed **visBiasLeft** . (For an explanation of the meaning of "left" in this context, see the following note.) However, if the insertion point is at the beginning of a new paragraph, **CharPropsRow** returns the value it would return if passed **visBiasRight** .

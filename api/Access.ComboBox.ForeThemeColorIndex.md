@@ -43,6 +43,7 @@ The  **ForeThemeColorIndex** property contains one of the index values listed in
 |9|Accent 6|
 |10|Hyperlink|
 |11|Followed Hyperlink|
+
 If no theme is applied, the  **ForeThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.

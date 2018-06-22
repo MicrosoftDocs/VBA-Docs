@@ -28,6 +28,7 @@ A  **Form** object is a member of the **Forms** collection, which is a collectio
 |**AllForms** ![ _form name_]|AllForms![Order Form]|
 |**AllForms** (" _formname_")|AllForms("OrderForm")|
 |**AllForms** ( _formname_)|AllForms(0)|
+
 Each  **Form** object has a **Controls** collection, which contains all controls on the form. You can refer to a control on a form either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on the form called **OrderForm**:
 
 

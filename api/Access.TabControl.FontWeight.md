@@ -44,6 +44,7 @@ In Visual Basic, the  **DatasheetFontWeight** property setting uses the followin
 |700|Bold|
 |800|Extra Bold|
 |900|Heavy|
+
 The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 

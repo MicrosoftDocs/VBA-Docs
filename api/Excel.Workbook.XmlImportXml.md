@@ -47,6 +47,7 @@ Imports an XML data stream that has been previously loaded into memory. Excel us
 | **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** . The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|
+
 Don't specify a value for the  _Destination_ parameter if you want to import data into an existing mapping.
 
 The following conditions will cause the  **[XmlImport](Excel.Workbook.XmlImport.md)** method to generate run-time errors:

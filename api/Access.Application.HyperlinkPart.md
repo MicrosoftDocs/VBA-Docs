@@ -56,6 +56,7 @@ The following table shows the values returned by the  **HyperlinkPart** method f
 |Microsoft#http://www.microsoft.com#|**acDisplayedValue**: Microsoft **acDisplayText**: Microsoft **acAddress**: http://www.microsoft.com **acSubAddress**: **acScreenTip**: **acFullAddress**: http://www.microsoft.com|
 |Customers#http://www.microsoft.com#Form Customers|**acDisplayedValue**: Customers **acDisplayText**: Customers **acAddress**: http://www.microsoft.com **acSubAddress**: Form Customers **acScreenTip**: **acFullAddress**: http://www.microsoft.com#Form Customer|
 |##Form Customers#Enter Information|**acDisplayedValue**: Form Customers **acDisplayText**: **acAddress**: **acSubAddress**: Form Customers **acScreenTip**: Enter Information **acFullAddress**: #FormCustomer|
+
 When you add an  _address_ part to a Hyperlink field by using the **Insert Hyperlink** dialog box (available by clicking **Hyperlink** on the **Insert** menu) or by typing an address part directly into a Hyperlink field, Microsoft Access adds the two # symbols that delimit parts of the hyperlink data.
 
 You can add or edit the  _displaytext_ part of a hyperlink field by right-clicking a hyperlink in a table, form, or report, pointing to **Hyperlink** on the shortcut menu, and then typing the display text in the **Text to display** box.

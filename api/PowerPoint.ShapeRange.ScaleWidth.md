@@ -45,6 +45,7 @@ The  _RelativeToOriginalSize_ parameter value can be one of the following **MsoT
 |:-----|:-----|
 |**msoFalse**|Scales the shape relative to its current size. |
 |**msoTrue**| Scales the shape relative to its original size.|
+
 The  _fScale_ parameter value can be one of the following **MsoScaleFrom** constants. The default is **msoScaleFromTopLeft**.
 
 

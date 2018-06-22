@@ -43,6 +43,7 @@ The  **ImageFormat** property indicates the format of the picture after it has b
 |.bmp, .dib, .gif, .pict|pbImageFormatPNG|
 |.emf, .eps, .epfs|pbImageFormatWMF|
 |CMYK .jfif, .jpeg, .jpg|pbImageFormatJPEG|
+
 Windows GDI+ is the portion of the Microsoft Windows XP operating system and the Microsoft Windows Server 2003 operating system that provides two-dimensional vector graphics, imaging, and typography.
 
 

@@ -43,6 +43,7 @@ The  **AlternateBackThemeColorIndex** property uses one of the values listed in 
 |9|Accent 6|
 |10|Hyperlink|
 |11|Followed Hyperlink|
+
 If no theme is applied, the  **AlternateBackThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.

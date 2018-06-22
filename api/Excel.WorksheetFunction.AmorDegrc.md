@@ -70,6 +70,7 @@ The following table describes the values used in  _Arg7_ .
 |Between 3 and 4 years|1.5|
 |Between 5 and 6 years|2|
 |More than 6 years|2.5|
+
 - The depreciation rate will grow to 50 percent for the period preceding the last period and will grow to 100 percent for the last period.
     
 - If the life of assets is between 0 (zero) and 1, 1 and 2, 2 and 3, or 4 and 5, the #NUM! error value is returned.

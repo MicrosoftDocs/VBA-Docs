@@ -27,6 +27,7 @@ Use  **Panes** (index), where index is the index number for a pane, to return a 
 |Outline|1|
 |Slide|2|
 |Notes|3|
+
 When using a document window view other than normal view, use  **Panes** (1) to reference the single **Pane** object.
 
 Use the [Activate](PowerPoint.Pane.Activate.md)method to make the specified pane active.

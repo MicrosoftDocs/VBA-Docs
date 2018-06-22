@@ -33,6 +33,7 @@ The  **LineSlant** property uses the following settings.
 |:-----|:-----|:-----|
 |**\**|**False**|(Default) Upper left to lower right|
 |**/**|**True**|Upper right to lower left|
+
 Use the  **LineSlant** property to change a line's direction. To position and size the line on your form or report, use the mouse.
 
 

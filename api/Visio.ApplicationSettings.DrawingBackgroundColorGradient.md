@@ -59,6 +59,7 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 | ** vbMagenta**|0xFF00FF |Magenta|
 | ** vbCyan**|0xFFFF00|Cyan|
 | ** vbWhite**|0xFFFFFF|White|
+
 Setting the  **BackgroundColorGradient** property of the active window to a value other than the default (-1) overrides the **DrawingBackgroundColorGradient** setting for that window. To be able to reset the background gradient color of the same active window by setting the **DrawingBackgroundColorGradient** property, you must reset **BackgroundColorGradient** to its default value, -1. If multiple windows are open, setting **BackgroundColorGradient** for one window has no effect on the setting for other open windows.
 
 

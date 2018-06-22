@@ -33,6 +33,7 @@ The  **AutoCenter** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|The form will be centered automatically on opening.|
 |No|**False**|(Default) The form upper-left corner will be in the same location as when the form was last saved.|
+
 You can set this property only in Design view.
 
 Depending on the size and placement of the application window, forms can appear off to one side of the application window, hiding part of the form or report. Centering the form automatically when it's opened makes it easier to view and use.

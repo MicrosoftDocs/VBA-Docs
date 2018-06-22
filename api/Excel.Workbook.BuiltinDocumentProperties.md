@@ -32,6 +32,7 @@ You can refer to document properties either by index value or by name. The follo
 
 
 |Title Subject Author Keywords Comments Template Last Author Revision Number Application Name Last Print Date|Creation Date Last Save Time Total Editing Time Number of Pages Number of Words Number of Characters Security Category Format Manager|Company Number of Bytes Number of Lines Number of Paragraphs Number of Slides Number of Notes Number of Hidden Slides Number of Multimedia Clips Hyperlink Base Number of Characters (with spaces)|
+
 Container applications aren't required to define values for every built-in document property. If Microsoft Excel doesn't define a value for one of the built-in document properties, reading the  **Value** property for that document property causes an error.
 
 Because the  **Item** method is the default method for the **DocumentProperties** collection, the following statements are identical:

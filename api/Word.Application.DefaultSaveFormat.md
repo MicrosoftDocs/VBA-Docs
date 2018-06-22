@@ -39,6 +39,7 @@ The string used with this property is the file converter class name. The class n
 |MS-DOS Text with Line Breaks|"8CRText"|
 |Rich Text Format|"Rtf"|
 |Unicode Text|"Unicode"|
+
 Use the  **[ClassName](Word.FileConverter.ClassName.md)** property of the **[FileConverter](Word.FileConverter.md)** object to determine the class name of an external file converter.
 
 

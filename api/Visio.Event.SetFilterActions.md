@@ -61,6 +61,7 @@ The filter actions that you can place in the first and second array elements of 
 | **visFilterMouseMoveDragLeave**|4|Filter the  **DragLeave** extension of the **MouseMove** event.|
 | **visFilterMouseMoveDragOver**|3|Filter the  **DragOver** extension of the **MouseMove** event.|
 | **visFilterMouseMoveNoDrag**|0|Do not filter any extensions of the  **MouseMove** event.|
+
 For example, if you want to listen to all  **MouseEvent** extensions except the **DragOver** event extension, you can build an array like the following:
 
 

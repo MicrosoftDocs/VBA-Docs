@@ -33,6 +33,7 @@ The  **SortOrder** property uses the following settings.
 |:-----|:-----|:-----|
 |Ascending|**False**|(Default) Sorts values in ascending (A to Z, 0 to 9) order.|
 |Descending|**True**|Sorts values in descending (Z to A, 9 to 0) order.|
+
 In Visual Basic, you set the  **SortOrder** property in report Design view or in the **Open** event procedure of a report by using the **[GroupLevel](Access.Report.GroupLevel.md)** property.
 
 

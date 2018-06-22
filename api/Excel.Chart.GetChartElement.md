@@ -75,6 +75,7 @@ The value of  _ElementID_ after the method returns determines whether _Arg1_ and
 | **xlTrendline**|8|SeriesIndex|TrendLineIndex|
 | **xlXErrorBars**|10|SeriesIndex|None|
 | **xlYErrorBars**|11|SeriesIndex|None|
+
 The following table describes the meaning of  _Arg1_ and _Arg2_ after the method returns.
 
 

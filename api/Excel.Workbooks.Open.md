@@ -62,6 +62,7 @@ You can specify one of the following values in the UpdateLinks parameter to dete
 |:-----|:-----|
 |0|External references (links) will not be updated when the workbook is opened.|
 |3|External references (links) will be updated when the workbook is opened.|
+
 You can specify one of the following values in the Format parameter to determine the delimiter character for the file.
 
 

@@ -59,6 +59,7 @@ The  _fUniqueID_ parameter controls the behavior of the **UniqueID** property. I
 | **visDeleteGUID**|2|Deletes the unique ID of a shape and returns a zero-length string ("").|
 | **visGetOrMakeGUIDWithUndo**|3|Returns the unique ID string of the shape. If the shape does not already have a unique ID, assigns one to the shape and returns the new ID. Undoable.|
 | **visDeleteGUIDWithUndo**|4|Clears the unique ID of a shape and returns a zero-length string (""). Undoable.|
+
 To get a shape if you know its unique ID, use  **Shapes.Item** ( _UniqueIDString_).
 
 For example, you can use the following code:

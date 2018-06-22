@@ -72,6 +72,7 @@ The  _Flags_ parameter should be a bitmask of the following values.
 | **visSetBlastGuards**|&;H2|Override present cell values even if they're guarded.|
 | **visSetTestCircular**|&;H4|Test for establishment of circular cell references.|
 | **visSetUniversalSyntax**|&;H8|Formulas are in universal syntax|
+
 The value returned by the  **SetResults** method is the number of entries in _SID_SRCStream()_ that were successfully processed. If _i < n_ entries are processed correctly, but an error occurs on the _i_ + 1st entry, the **SetResults** method raises an exception and returns _i_ . Otherwise, _n_ is returned.
 
 

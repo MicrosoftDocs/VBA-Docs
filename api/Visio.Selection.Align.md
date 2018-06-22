@@ -50,6 +50,7 @@ The following possible values for  _AlignHorizontal_ are declared in **VisHorizo
 | **visHorzAlignLeft**|1|Aligns to the left of the primary selected shape.|
 | **visHorzAlignNone**|0|Does not align horizontally.|
 | **visHorzAlignRight**|3|Aligns to the right of the primary selected shape.|
+
 The following possible values for  _AlignVertical_ are declared in **VisVerticalSelectionTypes** in the Visio type library.
 
 
@@ -60,6 +61,7 @@ The following possible values for  _AlignVertical_ are declared in **VisVertical
 | **visVertAlignMiddle**|2|Aligns to middle of primary selected shape.|
 | **visVertAlignNone**|0|Does not align vertically. |
 | **visVertAlignTop**|1|Aligns to top of primary selected shape.|
+
 If you pass non-zero values for both  _AlignHorizontal_ and _AlignVertical_, the selected shapes appear superimposed. The most recently created shape appears at the front of the z-order.
 
 Calling the  **Align** method is equivalent to clicking **Position** on the **Home** tab and then setting options under **Align Shapes**. 

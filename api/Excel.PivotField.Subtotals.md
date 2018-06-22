@@ -51,6 +51,7 @@ If an index is  **True** , the field shows that subtotal. If index 1 (Automatic)
 |10|StdDevp|
 |11|Var|
 |12|Varp|
+
 For OLAP data sources,  _Index_ can only return or be set to 1 (Automatic). The returned array always contains **True** or **False** for the first array element, and it contains **False** for all other elements. An array of element values that are all **False** indicates that there are no subtotals.
 
 

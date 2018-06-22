@@ -32,6 +32,7 @@ Returns or sets one of the  **[XlCmdType](Excel.XlCmdType.md)** constants listed
 | **xlCmdDefault** . Contains command text that the OLE DB provider understands.|
 | **xlCmdSql** . Contains an SQL statement.|
 | **xlCmdTable** . Contains a table name for accessing OLE DB data sources.|
+
 You can set the  **CommandType** property only if the value of the **[QueryType](Excel.PivotCache.QueryType.md)** property for the query table or PivotTable cache is **xlOLEDBQuery** .
 
 If the value of the  **CommandType** property is **xlCmdCube** , you cannot change this value if there is a PivotTable report associated with the query table.

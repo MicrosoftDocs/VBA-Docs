@@ -35,6 +35,7 @@ The  **HideDuplicates** property uses the following settings.
 |:-----|:-----|
 |**True**|If the value of a control or the data it contains is the same as in the preceding record, the control is hidden.|
 |**False**|(Default) The control is visible regardless of the value in the preceding record.|
+
 The  **DefaultValue** property doesn't apply to check box, option button, or toggle buttoncontrols when they are in an option group. It does however apply to the option group itself.
 
 You can set the  **HideDuplicates** property only in report Design view.

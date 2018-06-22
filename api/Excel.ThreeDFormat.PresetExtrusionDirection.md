@@ -38,6 +38,7 @@ Returns the direction that the extrusion's sweep path takes away from the extrud
 | **msoExtrusionRight**|
 | **msoExtrusionTopLeft**|
 | **msoPresetExtrusionDirectionMixed**|
+
 This property is read-only. To set the value of this property, use the  **[SetExtrusionDirection](Excel.ThreeDFormat.SetExtrusionDirection.md)** method.
 
 

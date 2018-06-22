@@ -33,6 +33,7 @@ The  **CanShrink** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|The control shrinks vertically so that the data it contains can be printed or previewed without leaving blank lines.|
 |No|**False**|(Default) The control doesn't shrink.|
+
 This property setting is read-only in a macro or Visual Basic in any view but Design view.
 
 You can use this property to control the appearance of printed forms and reports. When you set the property to Yes, the object automatically adjusts so any amount of data can be printed. When a control shrinks, the controls below it move up the page.

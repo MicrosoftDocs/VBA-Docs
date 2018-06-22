@@ -49,6 +49,7 @@ Setting the  **PaperSize** property is the equivalent of choosing a printer pape
 | **visPaperSizeSizeC**| 24| C size sheet 17 x 22 in.|
 | **visPaperSizeSizeD**| 25| D size sheet 22 x 34 in.|
 | **visPaperSizeSizeE**| 26| E size sheet 34 x 44 in.|
+
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 

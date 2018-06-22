@@ -33,6 +33,7 @@ The  **KeyPreview** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|True|The report receives keyboard events first, and then the active control receives keyboard events. |
 |No|False| (Default) Only the active control receives keyboard events.|
+
 You can set the  **KeyPreview** property in any view.
 
 You can use the  **KeyPreview** property to create a keyboard-handling procedure for a report. For example, when an application uses function keys, setting the **KeyPreview** property to **True** allows you to process keystrokes at the report level rather than writing code for each control that might receive keystroke events.

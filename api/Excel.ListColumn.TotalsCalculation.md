@@ -37,6 +37,7 @@ Determines the type of calculation in the Totals row of the list column based on
 | **xlTotalsCalculationStdDev**|
 | **xlTotalsCalculationVar**|
 | **xlTotalsCalculationMax**|
+
 The Totals row doesn't need to be showing in order to set this property. There is no fixed "default" value for this property. Excel may change the state of this property, as other columns are added or deleted.
 
 

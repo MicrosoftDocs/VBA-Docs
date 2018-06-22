@@ -36,6 +36,7 @@ The value returned by the  **RotateWithObject** property can be one of the ** [M
 |:-----|:-----|
 | **msoFalse**|The fill does not rotate with the shape.|
 | **msoTrue**|The fill rotates with the shape.|
+
 The setting of the  **RotateWithObject** property corresponds to the setting of the **Rotate with shape** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface.
 
 

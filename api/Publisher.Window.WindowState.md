@@ -37,6 +37,7 @@ The  **WindowState** property value can be one of these **PbWindowState** consta
 | **pbWindowStateMaximize**|
 | **pbWindowStateMinimize**|
 | **pbWindowStateNormal**|
+
 When the state of the window is  **pbWindowStateNormal**, the window is neither maximized nor minimized.
 
 

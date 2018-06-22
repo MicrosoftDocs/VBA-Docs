@@ -52,6 +52,7 @@ The following possible values for the  _SweepFlag_ argument are declared in **Vi
 |:-----|:-----|:-----|
 | **visArcSweepFlagConcave**|0|Concave arc|
 | **visArcSweepFlagConvex**|1|Convex arc|
+
 If  _SweepFlag_ is **visArcSweepFlagConcave** , the line joining the center of the ellipse to the arc sweeps through decreasing angles; if it is **visArcSweepFlagConvex** , it sweeps through increasing angles.
 
 

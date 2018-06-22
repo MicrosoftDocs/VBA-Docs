@@ -34,6 +34,7 @@ The value of this property can be set to one of the following constants:
 | **xlJustify**|
 | **xlLeft**|
 | **xlRight**|
+
 Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 

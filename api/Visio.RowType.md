@@ -66,6 +66,7 @@ You can specify the type of row you want by setting  **RowType** equal to any of
 | **visTagCnnctNamed**|185|
 | **visTagCtlPt**|162|
 | **visTagCtlPtTip**|170|
+
 If an inappropriate row tag is passed or the row does not exist, no changes occur and an error is returned.
 
 Use the  **RowName** property to transition from unnamed to named Connection Points rows.

@@ -59,6 +59,7 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 | ** vbMagenta**|0xFF00FF |Magenta|
 | ** vbCyan**|0xFFFF00|Cyan|
 | ** vbWhite**|0xFFFFFF|White|
+
 Setting the  **BackgroundColor** property of the active window to a value other than the default (-1) overrides the **DrawingBackgroundColor** setting for that window. To be able to reset the background color of the same active window by setting the **DrawingBackgroundColor** property, you must reset **BackgroundColor** to its default value, -1. If multiple windows are open, setting **BackgroundColor** for one window has no effect on the setting for other open windows.
 
 

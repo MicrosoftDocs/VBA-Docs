@@ -33,6 +33,7 @@ The  **MoveLayout** property uses the following settings.
 |:-----|:-----|
 |**True**|(Default) The section's  **Left** and **Top** properties are advanced to the next print location.|
 |**False**|The section's  **Left** and **Top** properties are unchanged.|
+
 To set this property, specify an [event procedure](set-properties-by-using-visual-basic.md)for a section's  **[OnFormat](Access.Section.OnFormat.md)** property.
 
 Microsoft Access sets this property to  **True** before each section's **Format** event.

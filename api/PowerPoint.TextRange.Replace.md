@@ -50,6 +50,7 @@ The  _MatchCase_ parameter value can be one of these **MsoTriState** constants.
 |:-----|:-----|
 |**msoFalse**|The default. Does not distinguish between uppercase and lowercase characters.|
 |**msoTrue**|Distinguish between uppercase and lowercase characters.|
+
 The  _WholeWords_ parameter value can be one of these **MsoTriState** constants.
 
 

@@ -36,6 +36,7 @@ The  **InputMask** property can contain up to three sections separated by semico
 |First|Specifies the input mask itself; for example, !(999) 999-9999. For a list of characters you can use to define the input mask, see the following table.|
 |Second|Specifies whether Microsoft Access stores the literal display characters in the table when you enter data. If you use 0 for this section, all literal display characters (for example, the parentheses in a phone number input mask) are stored with the value; if you enter 1 or leave this section blank, only characters typed into the control are stored.|
 |Third|Specifies the character that Microsoft Access displays for the space where you should type a character in the input mask. For this section, you can use any character; to display an empty string, use a space enclosed in quotation marks (" ").|
+
 In Visual Basic you use a string expression to set this property. For example, the following specifies an input mask for a text box control used for entering a phone number:
 
 

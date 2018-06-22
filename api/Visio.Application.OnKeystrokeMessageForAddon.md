@@ -48,6 +48,7 @@ Visio fires the  **OnKeystrokeMessageForAddon** event when it receives messages 
 |WM_SYSKEYUP|0x0105|
 |WM_SYSCHAR|0x0106|
 |WM_SYSDEADCHAR|0x0107|
+
 The  **MSGWrap** object, passed to the event handler when the **OnKeystrokeMessageForAddon** event fires, wraps the Microsoft Windows **MSG** structure, which contains message data. See the **MSGWrap** object for more information, or refer to your Windows documentation.
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.

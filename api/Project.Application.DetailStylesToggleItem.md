@@ -56,6 +56,7 @@ If the active view is the  **Resource Usage** view, can be one of the following 
 |**pjBCWP**|**pjWork**|
 |**pjBCWS**|**pjWorkAvailability**|
 |**pjCost**||
+
 If the active view is the  **Task Usage** view, can be one of the following **PjTimescaledData** constants:
 
 

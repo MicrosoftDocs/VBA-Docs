@@ -43,6 +43,7 @@ The  **IMEMode** property uses the following settings.
 |Half pitch Alpha/Num|Sets half pitch letters/numbers.|8|
 |HangulFull|Sets full pitch hangul.|9|
 |Hangul|Sets half pitch hangul.|10|
+
 You can specify the Kanji Conversion Mode when the focus shifts to control by setting the  **IMEMode** property. If set to No Control (default) the setting before the focus shifted to that control is used. For any other setting, the Kanji Conversion Mode setting for that control is used. For example, if the **IMEMode** property is set to Off, the Kanji Conversion Mode is turned off, and if the **IMEMode** property is set to On, the Kanji Conversion Mode is turned on. The Kanji Conversion Mode automatically changes each time the focus shifts between controls.
 
 

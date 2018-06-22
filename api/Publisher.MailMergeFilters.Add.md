@@ -51,6 +51,7 @@ Comparison can be one of these  **MsoFilterComparison** constants.
 | **msoFilterComparisonLessThanEqual**|
 | **msoFilterComparisonNotContains**|
 | **msoFilterComparisonNotEqual**|
+
 Conjunction can be one of these  **MsoFilterConjunction** constants.
 
 

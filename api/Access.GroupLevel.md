@@ -33,6 +33,7 @@ The following sample settings show how you use the  **GroupLevel** property to r
 |**GroupLevel** (0)|The first field or expression you sort or group on.|
 |**GroupLevel** (1)|The second field or expression you sort or group on.|
 |**GroupLevel** (2)|The third field or expression you sort or group on.|
+
 You can use this property only by using Visual Basic to set the  **SortOrder**, **GroupOn**, **GroupInterval**, **KeepTogether**, and **ControlSource** properties. You set these properties in the **Open** event procedure of a report.
 
 In reports, you can group or sort on more than one field or expression. Each field or expression you group or sort on is a group level.

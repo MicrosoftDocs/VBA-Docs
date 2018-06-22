@@ -38,6 +38,7 @@ Returns or sets the description of the Japanese input rules. Can be one of the  
 | **xlIMEModeNoControl**|No control|
 | **xlIMEModeOff**|Off (English mode)|
 | **xlIMEModeOn**|On|
+
 Note that this property can be set only when Japanese language support has been installed and selected.
 
 

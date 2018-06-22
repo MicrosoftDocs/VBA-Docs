@@ -38,6 +38,7 @@ The value of the  **SourceType** property can be one of these **PpPublishSourceT
 |**ppPublishAll**|
 |**ppPublishNamedSlideShow**|
 |**ppPublishSlideRange**|
+
  Use the **ppPublishNamedSlideShow** value to publish a custom slide show, specifying the name of the custom slide show by using the **[SlideShowName](PowerPoint.PublishObject.SlideShowName.md)** property.
 
 

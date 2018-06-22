@@ -46,6 +46,7 @@ The Style parameter can be one of the  **MsoPresetGradientStyle** constants decl
 | **msoGradientFromTitle**|
 | **msoGradientHorizontal**|
 | **msoGradientVertical**|
+
 The PresetGradientType parameter can be one of the  **MsoPresetGradientType** constants declared in the Microsoft Office type library and shown in the following table.
 
 

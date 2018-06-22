@@ -50,6 +50,7 @@ The  _RelativeToOriginalSize_ parameter value can be one of the following **MsoT
 |:-----|:-----|
 |**msoFalse**|Scales the shapes relative to their current sizes. |
 |**msoTrue**|Scales the shapes relative to their original sizes. |
+
 The  _fScale_ parameter value can be one of the following **MsoTriState** constants. The default is **msoScaleFromTopLeft**.
 
 

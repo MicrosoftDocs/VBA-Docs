@@ -83,6 +83,7 @@ The additional regression statistics are as follows.
 |df|The degrees of freedom. Use the degrees of freedom to help you find F-critical values in a statistical table. Compare the values you find in the table to the F statistic returned by LINEST to determine a confidence level for the model.|
 |ssreg|The regression sum of squares.|
 |ssresid|The residual sum of squares. For information about how ssreg and ssresid are calculated, see "Remarks" later in this topic.|
+
 The following illustration shows the order in which the additional regression statistics are returned. 
 
 

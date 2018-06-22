@@ -35,6 +35,7 @@ The following table shows example values of the  **Caption** property and relate
 | **[Name](Excel.PivotField.Name.md)**|[Europe].[France].[Paris] &nbsp; (read-only)|Paris|
 | **[SourceName](Excel.PivotField.SourceName.md)**|[Europe].[France].[Paris] &nbsp;(read-only)|(Same as the SQL property value; read-only)|
 | **[Value](Excel.PivotField.Value.md)**|[Europe].[France].[Paris]  &nbsp;(read-only)|Paris|
+
 When specifying an index into the  **[PivotItems](Excel.PivotItems.md)** collection, you can use the syntax shown in the following table.
 
 
@@ -42,6 +43,7 @@ When specifying an index into the  **[PivotItems](Excel.PivotItems.md)** collect
 |**Syntax (OLAP data source)**|**Syntax (non-OLAP data source)**|
 |:-----|:-----|
 |expression.PivotItems("[Europe].[France].[Paris]")|expression.PivotItems("Paris")|
+
 When using the  **Item** property to reference a specific member of a collection, you can use the text index names shown in the following table.
 
 

@@ -48,6 +48,7 @@ The  _Style_ parameter value can be one of these **MsoGradientStyle** constants.
 |**msoGradientHorizontal**|
 |**msoGradientMixed**|
 |**msoGradientVertical**|
+
 The  _PresetGradientType_ parameter value can be one of these **MsoPresetGradientType** constants.
 
 

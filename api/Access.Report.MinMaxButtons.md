@@ -35,6 +35,7 @@ The  **MinMaxButtons** property uses the following settings.
 |Min Enabled|1|Only the  **Minimize** button is visible.|
 |Max Enabled|2|Only the  **Maximize** button is visible.|
 |Both Enabled|3|(Default) Both the  **Minimize** and **Maximize** buttons are visible.|
+
 You can set the  **MinMaxButtons** property only in form Design view.
 
 

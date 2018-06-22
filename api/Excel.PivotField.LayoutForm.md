@@ -30,6 +30,7 @@ Returns or sets the way the specified PivotTable items appear—in table format 
 | **XlLayoutFormType** can be one of these **XlLayoutFormType** constants.|
 | **xlTabular** . Default.|
 | **xlOutline** . The **[LayoutSubtotalLocation](Excel.PivotField.LayoutSubtotalLocation.md)** property specifies where the subtotal appears in the PivotTable report.|
+
 You can set this property for any PivotTable field; however, the formatting appears only if the specified field is a row field other than the innermost (lowest-level) row field. For non-OLAP data sources, the value of this property doesn't change when the field is rearranged or when it is added to or removed from the PivotTable report.
 
 

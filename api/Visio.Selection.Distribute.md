@@ -53,6 +53,7 @@ The following possible values for  _Distribute_ are declared in **VisDistributeT
 | **visDistVertMiddle**|6|Distributes shapes vertically so that their centers are uniformly spaced.|
 | **visDistVertSpace**|4|Distributes shapes vertically so that there is a uniform space between shapes.|
 | **visDistVertTop**|5|Distributes shapes vertically so that their top edges are uniformly spaced.|
+
 Calling the  **Distribute** method is equivalent to setting options in the **Distribute Shapes** dialog box (on the **Home** tab, click **Position**, point to  **Space Shapes**, and then click  **More Distribute Options**). 
 
 Passing  **True** for the optional _GlueToGuide_ argument is the equivalent of selecting the **Create guides and glue shapes to them** check box in the **Distribute Shapes** dialog box.

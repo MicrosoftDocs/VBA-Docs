@@ -47,6 +47,7 @@ Nothing
 | **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** . The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** . The contents of the XML data file do not match the specified schema map.|
+
 Use the  **[AfterXmlImport](Excel.Workbook.AfterXmlImport.md)** event if you want to perform an operation after XML data has been imported into a particular workbook.
 
 

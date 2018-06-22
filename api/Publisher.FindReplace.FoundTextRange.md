@@ -37,6 +37,7 @@ The actual  **TextRange** object returned by the **FoundTextRange** property is 
 |for  **ReplaceScope** = **pbReplaceScopeAll**| **FoundTextRange** = Empty|
 |for  **ReplaceScope** = **pbReplaceScopeNone**| **FoundTextRange** = Find text range|
 |for  **ReplaceScope** = **pbReplaceScopeOne**| **FoundTextRange** = Replace text range|
+
 When  **ReplaceScope** is set to **pbReplaceScopeAll**, the  **FoundTextRange** property is empty. Any attempt to access it returns "Access Denied." The way to manipulate the text range of the searched text is to set the **ReplaceScope** property to **pbReplaceScopeNone** or **pbReplaceScopeOne** and access the text range of the searched or replaced text for each occurrence found.
 
 

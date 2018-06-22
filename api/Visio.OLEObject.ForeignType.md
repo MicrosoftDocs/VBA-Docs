@@ -42,6 +42,7 @@ If the  **Type** property of a **Shape** object returns any value other than **v
 | **visTypeIsEmbedded**|&;H0200|
 | **visTypeIsControl**|&;H0400|
 | **visTypeIsOLE2**|&;H8000|
+
 If the shape represents an OLE 2.0 embedded object, for example, its  **ForeignType** property is &;H8200.
 
 

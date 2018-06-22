@@ -53,6 +53,7 @@ This example defines a new name for the range A1:D3 on Sheet1 in the active work
 |**Note**|
 |:-----|  
 |**Nothing** is returned if Sheet1 does not exist.|
+
   
 
 ```vb

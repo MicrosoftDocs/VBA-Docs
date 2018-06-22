@@ -53,6 +53,7 @@ Possible values returned by the  **DragState** property are shown in the followi
 | **visMouseMoveDragStatesLeave**|4|User is moving the mouse out of the drop-target window.|
 | **visMouseMoveDragStatesNone**|0|Either not a mouse movement or a mouse movement that is not a drag action.|
 | **visMouseMoveDragStatesOver**|3|User is moving the dragged object within the drop-target window with the mouse.|
+
 When the  **DragState** property returns **visMouseMoveDragStatesBegin** a drag and drop action is beginning. The **DragState** property returns **visMouseMoveDragStatesBegin** just once for each drag and drop action. At this point, you can cancel the drag and drop action entirely; if you do so, Visio fires no additional **MouseMove** events for any target windows.
 
 When the  **DragState** property returns **visMouseMoveDragStatesEnter** , an end-user is dragging an object into a drop-target window. This event is fired once per drop-target window. At this point, you can cancel the drag and drop action for that specific drop-target window.

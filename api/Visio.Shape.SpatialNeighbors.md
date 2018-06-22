@@ -56,6 +56,7 @@ The  _Flags_ argument can be any combination of the values of the constants defi
 | **visSpatialBackToFront**| &;H8| Orders items back to front.|
 | **visSpatialIncludeHidden**| &;H10| Considers hidden Geometry sections. By default, hidden Geometry sections do not influence the result.|
 | **visSpatialIgnoreVisible**| &;H20| Does not consider visible Geometry sections. By default, visible Geometry sections influence the result.|
+
 Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
 
 If  _Relation_ is not specified, the **SpatialNeighbors** property uses all the possible relationships as criteria.

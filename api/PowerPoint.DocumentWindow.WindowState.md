@@ -38,6 +38,7 @@ The value of the  **WindowState** property can be one of these **PpWindowState**
 |**ppWindowMaximized**|
 |**ppWindowMinimized**|
 |**ppWindowNormal**|
+
 When the state of the window is  **ppWindowNormal**, the window is neither maximized nor minimized.
 
 

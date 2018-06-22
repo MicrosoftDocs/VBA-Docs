@@ -35,6 +35,7 @@ Returns or sets the PivotTable report structured selection mode. Read/write  **[
 | **xlFirstRow**|
 | **xlLabelOnly**|
 | **xlOrigin**|
+
 If the PivotTable field isn't in outline form, specifying the sum of any of the constants and  **xlFirstRow** is equivalent to specifying the constant alone.
 
 

@@ -30,6 +30,7 @@ The settings for  **TabOrientation** are:
 |1|The tabs appear at the bottom of the control.|
 |2|The tabs appear at the left side of the control.|
 |3|The tabs appear at the right side of the control.|
+
 If you use TrueType fonts, the text rotates when the  **TabOrientation** property is set to 2 or 3. If you use bitmapped fonts, the text does not rotate.
 
 

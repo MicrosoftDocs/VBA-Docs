@@ -41,6 +41,7 @@ The default value is 1 (Automatic). When the  **AutoSortCustomSubtotal** propert
 |10|StdDevp|
 |11|Var|
 |12|Varp|
+
 Sorting is supported only by custom subtotals that are actually displayed in the PivotTable, so trying to set  **AutoSortCustomSubtotal** to a value representing a custom subtotal not in the PivotTable view will return a run-time error.
 
 If sorting is applied based on a custom subtotal, and that subtotal is removed from the PivotTable, the  **AutoSortCustomSubtotal** property will automatically be set to the default value (1).

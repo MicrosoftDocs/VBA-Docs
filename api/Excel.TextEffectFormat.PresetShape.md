@@ -69,6 +69,7 @@ Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextE
 | **msoTextEffectShapeStop**|
 | **msoTextEffectShapeTriangleUp**|
 | **msoTextEffectShapeWave2**|
+
 Setting the  **[PresetTextEffect](Excel.TextEffectFormat.PresetTextEffect.md)** property automatically sets the **PresetShape** property.
 
 

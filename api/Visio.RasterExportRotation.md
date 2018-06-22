@@ -39,6 +39,7 @@ The value of the  **RasterExportRotation** property must be one of the following
 | **visRasterNoRotation**|0|No rotation, the default.|
 | **visRasterRotateLeft**|1|Rotate left.|
 | **visRasterRotateRight**|2|Rotate right.|
+
 For any given session of Microsoft Visio, when the  **RasterExportRotation** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 
 The setting of the  **RasterExportRotation** property corresponds to the style of rotation selected in the **Rotation** list in the **Output Options** dialog box for the corresponding file type in the Microsoft Visio user interface. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select the file type, and then click **Save**.)

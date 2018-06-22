@@ -60,6 +60,7 @@ The following table contains the ISO codes that can be used with the  _SourceCur
 |Portuguese escudo|PTE|0|0|
 |Finnish Markka|FIM|2|2|
 |euro|EUR|2|2|
+
 In the preceding table, the calculation precision determines what currency unit to round the result to based on the conversion currency. For example, when converting to Deutsche marks, the calculation precision is 2, and the result is rounded to the nearest pfennig, 100 pfennigs to a mark. The display precision determines how many decimal places appear in the field containing the result.
 
 Later versions of the  **EuroConvert** function may support additional currencies. For information about new participating currencies and updates to the **EuroConvert** function, see the Microsoft Office Euro Currency Web site.
@@ -72,6 +73,7 @@ Later versions of the  **EuroConvert** function may support additional currencie
 |Drachma|GRD|
 |Swedish Krona|SEK|
 |Pound Sterling|GBP|
+
 Any trailing zeros are truncated and invalid parameters return #Error.
 
 If the source ISO code is the same as the target ISO code, the original value of the number is active.

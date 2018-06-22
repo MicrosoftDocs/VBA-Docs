@@ -119,6 +119,7 @@ Returns information about the current country/region and international settings.
 | **xlListSeparator**| **String**|List separator.|
 | **xlRowSeparator**| **String**|Character used to separate rows in array literals.|
 | **xlThousandsSeparator**| **String**|Zero or thousands separator.|
+
 Symbols, separators, and currency formats shown in the preceding table may differ from those used in your language or geographic location and may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.
 
 

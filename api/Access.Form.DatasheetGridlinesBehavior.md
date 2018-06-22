@@ -39,6 +39,7 @@ The  **DatasheetGridlinesBehavior** property uses the following settings.
 |**acGridlinesHoriz**|Only horizontal gridlines are displayed.|
 |**acGridlinesVert**|Only vertical gridlines are displayed.|
 |**acGridlinesBoth**|(Default) Horizontal and vertical gridlines are displayed.|
+
 The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 

@@ -60,6 +60,7 @@ Double
 |FVSCHEDULE|XIRR|
 |IPMT|XNPV|
 |PMT||
+
 - In annuity functions, cash you pay out, such as a deposit to savings, is represented by a negative number; cash you receive, such as a dividend check, is represented by a positive number. For example, a $1,000 deposit to the bank would be represented by the argument -1000 if you are the depositor and by the argument 1000 if you are the bank.
     
 - Microsoft Excel solves for one financial argument in terms of the others. If rate is not 0, then:

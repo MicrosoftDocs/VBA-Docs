@@ -52,6 +52,7 @@ If  _CompleteFormat_ is set to **False** , the default value, the string returne
 | **Character**| **Description**|
 |0|The time slot represents a free period.|
 |1|The time slot represents a tentative, out of office (OOF), or busy period.|
+
 If  _CompleteFormat_ is set to **True** , the string returned by this method contains one of the following characters for each time slot:
 
 

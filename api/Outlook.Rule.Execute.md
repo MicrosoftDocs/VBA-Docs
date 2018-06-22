@@ -47,6 +47,7 @@ The parameters to the  **Execute** method are optional. If you do not specify an
 | _Folder_|Inbox|
 | _IncludeSubfolders_| **False**|
 | _RuleExecuteOption_| **OlRuleExecuteOption.olRuleExecuteAllMessages**|
+
 If  _ShowProgress_ is **True** and the user cancels the progress dialog box, rule execution is canceled in the same manner as if the user had canceled rule execution through the **Rules and Alerts Wizard**.  **Execute** returns an error when the user cancels the progress dialog.
 
 If you plan to show a custom progress user interface instead of using the progress dialog box, you should be aware that there are no events that indicate when rule execution starts and stops. 

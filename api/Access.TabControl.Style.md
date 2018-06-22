@@ -34,6 +34,7 @@ The  **Style** property uses the following settings.
 |Tabs|**0**|(Default) Tabs appear as tabs.|
 |Buttons|**1**|Tabs appear as buttons.|
 |None|**2**|No tabs appear in the control.|
+
 You can also set the default for this property by setting a control's  **DefaultControl** property in Visual Basic.
 
 You can set the  **Style** property in any view.

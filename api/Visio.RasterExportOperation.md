@@ -38,6 +38,7 @@ The value of the  **RasterExportOperation** property must be one of the followin
 |:-----|:-----|:-----|
 | **visRasterBaseline**|0|Baseline operation, the default.|
 | **visRasterProgressive**|1|Progressive operation.|
+
 For any given session of Microsoft Visio, when the  **RasterExportOperation** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 
 The setting of the  **RasterExportOperation** property corresponds to the **Operation** setting in the **JPG Output Options** dialog box in the Microsoft Visio user interface. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **JPEG File Interchange Format (*.jpg)**, and then click  **Save**.)

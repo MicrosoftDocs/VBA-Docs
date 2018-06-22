@@ -46,12 +46,14 @@ SegmentType can be one of these  **MsoSegmentType** constants.
 
 | **msoSegmentCurve**|
 | **msoSegmentLine**|
+
 EditingType can be one of these  **MsoEditingType** constants.
 
 
 
 | **msoEditingAuto**|Adds a node type appropriate to the segments being connected.|
 | **msoEditingCorner**|Adds a corner node.|
+
 For the X1, Y1, X2, Y2, X3, and Y3 arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 To add nodes to a freeform after iit is created, use the  **[Insert](Publisher.ShapeNodes.Insert.md)** method of the  **[ShapeNodes](Publisher.ShapeNodes.md)** collection.

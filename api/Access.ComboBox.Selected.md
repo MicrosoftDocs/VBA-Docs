@@ -41,6 +41,7 @@ The  **Selected** property is a zero-based array that contains the selected stat
 |:-----|:-----|
 |**True**|The combo box item is selected.|
 |**False**|The combo box item is not selected.|
+
 This property is available only at run time.
 
 You can use the  **Selected** property to select items in a combo box by using Visual Basic. For example, the following expression selects the fifth item in the list:

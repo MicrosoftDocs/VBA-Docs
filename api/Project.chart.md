@@ -42,6 +42,7 @@ To create some sample data, add four tasks to a new project, assign local resour
 |T2|5d|19|
 |T3|4d|7|
 |T4|2d|0|
+
 ?
 
 

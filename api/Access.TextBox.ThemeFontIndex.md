@@ -33,6 +33,7 @@ The  **ThemeFontIndex** property uses one of the values listed in the following 
 |:-----|:-----|
 |0|Header font|
 |1 (Default)|Detail font|
+
 If no theme is applied, the  **ThemeFontIndex** property contains -1.
 
 This property is not surfaced in the property sheet.

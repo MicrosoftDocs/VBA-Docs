@@ -41,6 +41,7 @@ The format of the full build number is described in the following table.
 | 21 - 25| Minor version number|
 | 26 - 30| Major version number (Visio = 15)|
 | 31| Reserved|
+
 In addition, for Visio, to obtain the correct full build number, it is necessary to add 1000 to the internal revision number part of the full build number returned by the  **FullBuildNumberCreated** property, as shown in the following macro.
 
 

@@ -35,6 +35,7 @@ The  **RepeatSection** property uses the following settings.
 |:-----|:-----|:-----|
 |**Yes**|**True**|The group header is repeated.|
 |**No**|**False**|(Default) The group header isn't repeated.|
+
 When printing a report that contains a subreport, the subreport's  **RepeatSection** property will determine if the subreport group headers are repeated across pages or columns.
 
 

@@ -61,6 +61,7 @@ The FontBold parameter can be one of the  **MsoTriState** constants declared in 
 |:-----|:-----|
 | **msoFalse**|Do not format the WordArt text as bold.|
 | **msoTrue**|Format the WordArt text as bold.|
+
 The FontItalic parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 

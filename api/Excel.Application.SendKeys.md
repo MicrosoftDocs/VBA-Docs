@@ -67,6 +67,7 @@ To specify characters that aren't displayed when you press the corresponding key
 |TAB| `{TAB}`|
 |UP ARROW| `{UP}`|
 |F1 through F15| `{F1}` through `{F15}`|
+
 You can also specify keys combined with SHIFT and/or CTRL and/or ALT. To specify a key combined with another key or keys, use the following table.
 
 

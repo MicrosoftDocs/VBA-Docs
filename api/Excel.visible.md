@@ -28,6 +28,7 @@ Determines whether the application is visible. Read/write MsoTriState .
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
 | **msoTrue** The object is visible.|
+
  _expression_. **Visible**
  _expression_ Required. An expression that returns a [ChartFillFormat](./Excel.ChartFillFormat.md) object.
 

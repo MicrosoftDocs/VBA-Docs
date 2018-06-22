@@ -59,6 +59,7 @@ Possible values for the  _FixedFormat_ parameter are shown in the following tabl
 |:-----|:-----|:-----|
 | **visFixedFormatPDF**|1|PDF fixed format|
 | **visFixedFormatXPS**|2|XPS fixed format|
+
 Possible values for the  _Intent_ parameter are shown in the following table and declared in **VisDocExIntent** in the Visio type library.
 
 
@@ -67,6 +68,7 @@ Possible values for the  _Intent_ parameter are shown in the following table and
 |:-----|:-----|:-----|
 | **visDocExIntentPrint**|1|Intended to be published online and printed|
 | **visDocExIntentScreen**|0|Intended to be published only online|
+
 Possible values for the  _PrintRange_ parameter are shown in the following table and declared in **VisPrintOutRange** in the Visio type library.
 
 

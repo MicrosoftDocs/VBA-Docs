@@ -55,6 +55,7 @@ For the PlacementDir parameter, pass a value from the  **VisAutoConnectDir** enu
 |visAutoConnectDirNone|0|Connect without relocating the shapes.|
 |visAutoConnectDirRight|4|Connect to the right|
 |visAutoConnectDirUp|1|Connect up.|
+
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 

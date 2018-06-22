@@ -30,6 +30,7 @@ Returns or sets the color of the indicator for error checking options. Read/writ
 | **XlColorIndex** can be one of these **XlColorIndex** constants.|
 | **xlColorIndexAutomatic** The default system color.|
 | **xlColorIndexNone** Not used with this property.|
+
 You can specify a particular color for the indicator by entering the corresponding index value. You can use the  **Colors** property to return the current color palette.
 
 

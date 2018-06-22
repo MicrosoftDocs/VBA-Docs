@@ -41,6 +41,7 @@ The  **GetTable** method returns a **Table** that has all items of the conversat
 |3| **CreationTime**|
 |4| **LastModificationTime**|
 |5| **MessageClass**|
+
 By default, the rows in the table are sorted by the  **ConversationIndex** property of the items.
 
 To modify the default column set, use the  **[Add](Outlook.Columns.Add.md)** , **[Remove](Outlook.Columns.Remove.md)** , or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object.
