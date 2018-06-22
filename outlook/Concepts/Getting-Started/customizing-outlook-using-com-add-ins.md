@@ -45,7 +45,7 @@ The following example shows the contents of a sample registry-editor (.reg) file
 
 
 
-```vbtext
+```text
 [HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\SampleAddIn.AddInIFace] 
 "FriendlyName"="Sample Add-in" 
 "Description"="Sample Outlook Add-In" 

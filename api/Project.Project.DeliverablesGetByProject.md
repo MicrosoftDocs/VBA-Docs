@@ -77,7 +77,7 @@ The  **ows_** fields are defined in the SharePoint list. Some fields that you ma
 
 
 
-```vbXML
+```XML
 <DeliverableMasterDocument> 
  <Deliverables> 
  <Deliverable deliverableUid="6f8cb9a5-d9b8-496d-af90-1e88dc57f46a" projectUid="1b14e65c-5601-4565-acb9-3822078a17fb" 

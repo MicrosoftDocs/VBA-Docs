@@ -43,7 +43,7 @@ The following example shows input data for the  _xml_ parameter.
 
 
 
-```vbXML
+```XML
 <?xml version="1.0" encoding="utf-8" ?>  
 <appointments> 
     <appointment> 
@@ -78,7 +78,7 @@ The following is the C# code sample.
 
 
 
-```vbC#
+```C#
 using System; 
 using System.Collections.Generic; 
 using System.IO; 
@@ -169,7 +169,7 @@ The following is the Visual Basic code sample.
 
 
 
-```vbVB.net
+```VB.net
 Imports System.IO 
 Imports System.Xml 
 Imports Outlook = Microsoft.Office.Interop.Outlook 

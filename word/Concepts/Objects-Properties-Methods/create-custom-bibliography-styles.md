@@ -29,7 +29,7 @@ At the top of the file, add the following code:
 
 
 
-```vbXML
+```XML
 <?xml version="1.0" ?> 
 
 <!--List of the external resources that we are referencing-->
@@ -54,7 +54,7 @@ As the comments indicate, Word uses HTML to represent a bibliography or citation
 
 
 
-```vbXML
+```XML
 <!--Set an optional version number for this style--> 
 
 <xsl:template match="b:version"> 
@@ -70,7 +70,7 @@ More importantly, you can give your style a name. Add this tag: <xsl:when test="
 
 
 
-```vbXML
+```XML
 <xsl:when test="b:StyleNameLocalized/b:Lcid='1033'">
 
    <xsl:text>[Your Style Name]</xsl:text>
@@ -83,7 +83,7 @@ This section contains the locale name of your style. In the case of our example 
 
 
 
-```vbXML
+```XML
 <!--Defines the name of the style in the References dropdown list-->
 <xsl:when test="b:StyleNameLocalized"> 
    <xsl:choose> 
@@ -137,7 +137,7 @@ In the code, you can specify the fields that are important for your bibliography
 
 
 
-```vbXML
+```XML
 <!--Specifies which fields should appear in the Create Source dialog box when in a collapsed state (The Show All Bibliography Fields check box is cleared)-->
 
 <xsl:template match="b:GetImportantFields[b:SourceType = 'Book']"> 
@@ -178,7 +178,7 @@ The HTML required to do this would be embedded in your style sheet as follows.
 
 
 
-```vbXML
+```XML
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
 
 <xsl:template match="b:Source[b:SourceType = 'Book']"> 
@@ -209,7 +209,7 @@ When you reference a book source in your Word document, Word needs to access thi
 
 
 
-```vbXML
+```XML
 <!--Defines the output of the entire Bibliography-->
  
 <xsl:template match="b:Bibliography"> 
@@ -233,7 +233,7 @@ In a similar fashion, you'll need to do the same thing for the citation output. 
 
 
 
-```vbXML
+```XML
 <!--Defines the output of the Citation-->
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
    <html xmlns="http://www.w3.org/TR/REC-html40"> 
@@ -297,7 +297,7 @@ To display a corporate author only if appropriate, use the following procedure.
 Let's start by changing the citation. Here is the code for citations from last time.
 
 
-```vbXML
+```XML
 <!--Defines the output of the Citation-->
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
    <html xmlns="http://www.w3.org/TR/REC-html40"> 
@@ -334,7 +334,7 @@ Declare a new variable to help determine whether a corporate author is available
 Verify that the corporate author has been filled in. You can do this by determining if the count of corporate authors is non-zero. If a corporate author exists, display it. If it does not exist, display the normal author.
 
 
-```vbXML
+```XML
 
 <xsl:text>(</xsl:text> 
 <xsl:choose>
@@ -355,7 +355,7 @@ Now that you've made the change for citations, make the change for the bibliogra
 
 
 
-```vbXML
+```XML
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
 <xsl: template match="b:Source[b:SourceType = 'Book']">
 <!--Label the paragraph as an Office Bibliography paragraph--> 
@@ -376,7 +376,7 @@ Now that you've made the change for citations, make the change for the bibliogra
 Once again, let's start by adding a counting variable.
 
 
-```vbXML
+```XML
 <!--Defines the output format for a simple Book (in the Bibliography) with important fields defined-->
 <xsl: template match="b:Source[b:SourceType = 'Book']"> 
 <!--Count the number of Corporate Authors (can only be 0 or 1)-->
@@ -391,7 +391,7 @@ Once again, let's start by adding a counting variable.
 Verify that a corporate author exists.
 
 
-```vbXML
+```XML
 …..
 <xsl:variable name="cCorporateAuthors"> 
 <xsl:value-of select="count(b:Author/b:Author/b:Corporate)" /> 
@@ -418,7 +418,7 @@ Here's the complete final code.
 
 
 
-```vbXML
+```XML
 <?xml version="1.0" ?> 
 <!--List of the external resources that we are referencing-->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">

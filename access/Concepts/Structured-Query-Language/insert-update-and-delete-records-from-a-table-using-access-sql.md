@@ -17,7 +17,7 @@ To add one record to a table, you must use the field list to define which fields
 
 
 
-```vbsql
+```sql
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name]) 
     VALUES (1, 'Kelly', 'Jill') 
 
@@ -28,7 +28,7 @@ You can omit the field list, but only if you supply all the values that record c
 
 
 
-```vbsql
+```sql
 INSERT INTO tblCustomers 
     VALUES (1, Kelly, 'Jill', '555-1040', 'someone@microsoft.com') 
 
@@ -41,7 +41,7 @@ The following  **INSERT INTO** statement inserts all the values in the CustomerI
 
 
 
-```vbsql
+```sql
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name]) 
     SELECT CustomerID, [Last Name], [First Name] 
     FROM tblOldCustomers 
@@ -53,7 +53,7 @@ If the tables are defined exactly alike, you can leave out the field lists.
 
 
 
-```vbsql
+```sql
 INSERT INTO tblCustomers 
     SELECT * FROM tblOldCustomers 
 
@@ -65,7 +65,7 @@ INSERT INTO tblCustomers
 To modify the data that is currently in a table, you use the  **[UPDATE](http://msdn.microsoft.com/library/08F9C3D6-C020-ECF1-5748-43B93A76DFBB%28Office.15%29.aspx)** statement, which is commonly referred to as an update query. The **UPDATE** statement can modify one or more records and generally takes this form.
 
 
-```vbsql
+```sql
 UPDATE table name   
     SET field name  = some value
 ```
@@ -75,7 +75,7 @@ To update all the records in a table, specify the table name, and then use the  
 
 
 
-```vbsql
+```sql
 UPDATE tblCustomers 
     SET Phone = 'None' 
 
@@ -86,7 +86,7 @@ In most cases, you will want to qualify the  **UPDATE** statement with a **[WHER
 
 
 
-```vbsql
+```sql
 UPDATE tblCustomers 
     SET Email = 'None' 
     WHERE [Last Name] = 'Smith' 
@@ -99,7 +99,7 @@ UPDATE tblCustomers
 To delete the data that is currently in a table, you use the  **[DELETE](http://msdn.microsoft.com/library/64C235BC-5B1A-0A33-714A-9933BA7A81E5%28Office.15%29.aspx)** statement, which is commonly referred to as a delete query. This is also known as truncating a table. The **DELETE** statement can remove one or more records from a table and generally takes this form:
 
 
-```vbsql
+```sql
 DELETE FROM table list
 ```
 
@@ -108,7 +108,7 @@ The  **DELETE** statement does not remove the table structure—only the data th
 
 
 
-```vbsql
+```sql
 DELETE FROM tblInvoices 
 
 ```
@@ -118,7 +118,7 @@ In most cases, you will want to qualify the  **DELETE** statement with a **WHERE
 
 
 
-```vbsql
+```sql
 DELETE FROM tblInvoices 
     WHERE InvoiceID = 3 
 
@@ -129,7 +129,7 @@ If you want to remove data only from certain fields in a table, use the  **UPDAT
 
 
 
-```vbsql
+```sql
 UPDATE tblCustomers  
     SET Email = Null 
 
@@ -145,7 +145,7 @@ To add one record to a table, you must use the field list to define which fields
 
 
 
-```vbsql
+```sql
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name]) 
     VALUES (1, 'Kelly', 'Jill') 
 
@@ -156,7 +156,7 @@ You can omit the field list, but only if you supply all the values that record c
 
 
 
-```vbsql
+```sql
 INSERT INTO tblCustomers 
     VALUES (1, Kelly, 'Jill', '555-1040', 'someone@microsoft.com') 
 
@@ -169,7 +169,7 @@ The following  **INSERT INTO** statement inserts all the values in the CustomerI
 
 
 
-```vbsql
+```sql
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name]) 
     SELECT CustomerID, [Last Name], [First Name] 
     FROM tblOldCustomers 
@@ -181,7 +181,7 @@ If the tables are defined exactly alike, you can leave out the field lists.
 
 
 
-```vbsql
+```sql
 INSERT INTO tblCustomers 
     SELECT * FROM tblOldCustomers 
 
@@ -193,7 +193,7 @@ INSERT INTO tblCustomers
 To modify the data that is currently in a table, you use the  **[UPDATE](http://msdn.microsoft.com/library/08F9C3D6-C020-ECF1-5748-43B93A76DFBB%28Office.15%29.aspx)** statement, which is commonly referred to as an update query. The **UPDATE** statement can modify one or more records and generally takes this form:
 
 
-```vbsql
+```sql
 UPDATE table name   
     SET field name  = some value
 ```
@@ -203,7 +203,7 @@ To update all the records in a table, specify the table name, and then use the  
 
 
 
-```vbsql
+```sql
 UPDATE tblCustomers 
     SET Phone = 'None' 
 
@@ -214,7 +214,7 @@ In most cases, you will want to qualify the  **UPDATE** statement with a **[WHER
 
 
 
-```vbsql
+```sql
 UPDATE tblCustomers 
     SET Email = 'None' 
     WHERE [Last Name] = 'Smith' 
@@ -227,7 +227,7 @@ UPDATE tblCustomers
 To delete the data that is currently in a table, you use the  **[DELETE](http://msdn.microsoft.com/library/64C235BC-5B1A-0A33-714A-9933BA7A81E5%28Office.15%29.aspx)** statement, which is commonly referred to as a delete query. This is also known as truncating a table. The **DELETE** statement can remove one or more records from a table and generally takes this form:
 
 
-```vbsql
+```sql
 DELETE FROM table list
 ```
 
@@ -236,7 +236,7 @@ The  **DELETE** statement does not remove the table structure—only the data th
 
 
 
-```vbsql
+```sql
 DELETE FROM tblInvoices 
 
 ```
@@ -246,7 +246,7 @@ In most cases, you will want to qualify the  **DELETE** statement with a **WHERE
 
 
 
-```vbsql
+```sql
 DELETE FROM tblInvoices 
     WHERE InvoiceID = 3 
 
@@ -257,7 +257,7 @@ If you want to remove data only from certain fields in a table, use the  **UPDAT
 
 
 
-```vbsql
+```sql
 UPDATE tblCustomers  
     SET Email = Null 
 

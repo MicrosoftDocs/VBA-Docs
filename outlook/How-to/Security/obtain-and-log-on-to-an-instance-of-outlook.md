@@ -31,7 +31,7 @@ If Outlook is not running on the local computer, `GetApplicationObject` creates 
 The following is the C# code sample.
 
 
-```vbC#
+```C#
 using System; 
 using System.Diagnostics; 
 using System.Linq; 
@@ -77,7 +77,7 @@ The following is the Visual Basic code sample.
 
 
 
-```vbVB.net
+```VB.net
 Imports System.Diagnostics 
 Imports System.Linq 
 Imports System.Reflection 

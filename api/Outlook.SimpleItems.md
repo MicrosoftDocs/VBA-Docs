@@ -32,7 +32,7 @@ The following code example assumes that the selected item in the explorer window
 
 
 
-```vbC#
+```C#
 void DemoConversation() 
 { 
  object selectedItem = 

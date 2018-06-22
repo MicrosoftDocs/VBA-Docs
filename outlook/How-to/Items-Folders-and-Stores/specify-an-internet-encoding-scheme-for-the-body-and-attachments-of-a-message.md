@@ -22,7 +22,7 @@ where  `0x59020003` is the proptag of **PidTagInternetMailOverrideFormat**.
 
 
 
-```vbC#
+```C#
 private void SendMail_Click() 
 { 
     Outlook.NameSpace objSession; 

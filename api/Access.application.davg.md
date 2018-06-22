@@ -107,7 +107,7 @@ The following examples show how to use various types of criteria with the  **DAv
 
 
 
-```vbjs
+```js
     ' ***************************
     ' Typical Use
     ' Numerical values. Replace "number" with the number to use.

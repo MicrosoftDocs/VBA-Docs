@@ -17,7 +17,7 @@ For example, to enter a formula in cell D6 using Visual Basic, you do not need t
 
 
 
-```vbVB.net
+```VB.net
 Sub EnterFormula() 
     Worksheets("Sheet1").Range("D6").Formula = "=SUM(D2:D5)" 
 End Sub
@@ -34,7 +34,7 @@ The macro recorder will often create a macro that uses the  **Select** method an
 
 
 
-```vbVB.net
+```VB.net
 Sub Macro1() 
     Sheets("Sheet1").Select 
     Range("A1").Select 
@@ -51,7 +51,7 @@ The following example performs the same task without activating or selecting the
 
 
 
-```vbVB.net
+```VB.net
 Sub Labels() 
     With Worksheets("Sheet1") 
         .Range("A1") = "Name" 
@@ -67,7 +67,7 @@ End Sub
 If you use the  **Select** method to select cells, be aware that **Select** works only on the active worksheet. If you run your **Sub** procedure from the module, the **Select** method will fail unless your procedure activates the worksheet before using the **Select** method on a range of cells. For example, the following procedure copies a row from Sheet1 to Sheet2 in the active workbook.
 
 
-```vbVB.net
+```VB.net
 Sub CopyRow() 
     Worksheets("Sheet1").Rows(1).Copy 
     Worksheets("Sheet2").Select 
@@ -82,7 +82,7 @@ End Sub
 You can use the  **Activate** method to activate a cell within a selection. There can be only one active cell, even when a range of cells is selected. The following procedure selects a range and then activates a cell within the range without changing the selection.
 
 
-```vbVB.net
+```VB.net
 Sub MakeActive() 
     Worksheets("Sheet1").Activate 
     Range("A1:D4").Select 

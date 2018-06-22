@@ -17,7 +17,7 @@ The first code sample contains the  `DisplayGlobalAddressListForStore` method an
 
 
 
-```vbC#
+```C#
 void DisplayGlobalAddressListForStore() 
 { 
     // Obtain the store for the current folder 
@@ -97,7 +97,7 @@ The second code sample contains the  `EnumerateAddressListsForStore` method and 
 
 
 
-```vbC#
+```C#
 private void EnumerateAddressListsForStore() 
 { 
     // Obtain the store for the current folder 

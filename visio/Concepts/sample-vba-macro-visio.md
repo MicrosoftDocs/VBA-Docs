@@ -58,13 +58,13 @@ End Sub
 
 |**Sample output**|**Description**|
 |:-----|:-----|
-|```vbC:\documents\drawings\Office.vsd```| The name of the first drawing|
-|```vbBackground-1```|The name of page 1|
-|```vbBackground-2```|The name of page 2|
-|```vbC:\documents\drawings\Recycle.vsd```|The name of the second drawing|
-|```vbPage-1```|The name of page 1|
-|```vbPage-2```|The name of page 2|
-|```vbPage-3```|The name of page 3|
+|```C:\documents\drawings\Office.vsd```| The name of the first drawing|
+|```Background-1```|The name of page 1|
+|```Background-2```|The name of page 2|
+|```C:\documents\drawings\Recycle.vsd```|The name of the second drawing|
+|```Page-1```|The name of page 1|
+|```Page-2```|The name of page 2|
+|```Page-3```|The name of page 3|
 
 You can find more information about writing a program in the VBA environment and about the Visual Basic Editor in Visual Basic Help (in the Visual Basic Editor window, on the  **Help** menu, click **Microsoft Visual Basic Help**).
 You can find details about using a specific Visio object, property, method, enumeration, or event in this reference.

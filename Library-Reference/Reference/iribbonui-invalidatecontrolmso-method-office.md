@@ -44,7 +44,7 @@ Invalidating a control repaints the screen and causes any callback procedures as
 ## Example
 
 
-```vbXML
+```XML
 <customUI … OnLoad="MyAddInInitialize" …>
 ```
 

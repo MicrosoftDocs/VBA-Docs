@@ -34,7 +34,7 @@ Setting this property is optional. Set  **HostID** at design time, for example i
 
 Setting the  **HostID** property creates (or modifies) a subkey at the following location in the registry:
 
- ```vbtext
+ ```text
  HKEY_CURRENTUSER\Software\Microsoft\Office\14.0\VisioHosts\
  ```
 

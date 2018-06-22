@@ -30,7 +30,7 @@ The following code shows how to programmatically modify an Outlook email attachm
 
 
 
-```vbC#
+```C#
 using Outlook = Microsoft.Office.Interop.Outlook;
  
 namespace ModifyAttachmentAddIn
@@ -113,7 +113,7 @@ namespace ModifyAttachmentAddIn
 
 
 
-```vbVB.net
+```VB.net
 Public Class ThisAddIn
  
  

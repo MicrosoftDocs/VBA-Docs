@@ -52,7 +52,7 @@ The following code example obtains a  **Table** object from the current view of 
 
 
 
-```vbC#
+```C#
 private void DemoViewGetTable() 
 { 
  // Obtain the Inbox folder. 

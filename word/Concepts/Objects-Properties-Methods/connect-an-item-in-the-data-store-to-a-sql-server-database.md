@@ -127,7 +127,7 @@ The following procedure explains how to map a content control to a sample custom
     
 2. Copy the following XML code into the text file and save the file.
     
-```vbXML
+```XML
   <?xml version="1.0"?> 
 <Customer> 
   <CompanyName>Alfreds Futterkiste</CompanyName> 
@@ -204,7 +204,7 @@ To build this application, do the following:
     
 3. Add the following connection string to the Web.config file in your Visual Studio project.
     
-```vbXML
+```XML
   <connectionStrings>
  <add name="NorthwindConnectionString"
      connectionString="data source=(local);database=Northwind; integrated security=SSPI;persist security info=false;"
@@ -220,7 +220,7 @@ To build this application, do the following:
     
 7. Configure the assembly in the Web.config file as follows.
     
-```vbXML
+```XML
   <compilation debug="false">
   <assemblies>
     <add assembly="WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35"/>
@@ -236,7 +236,7 @@ To build this application, do the following:
     
 11. Add the following code to the  **WebForm1.aspx** file, overwriting the part of the file bounded by the opening and closing <html> tags.
     
-```vbHTML
+```HTML
   <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
      <title>Data-Driven Document Generation - SQL Server Sample</title>
@@ -290,7 +290,7 @@ To build this application, do the following:
 The following Visual Basic .NET sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the  **WebForm1.aspx.vb** file, overwriting the existing code in the file.
 
 
-```vbVB.net
+```VB.net
 Imports System.Collections.Generic
 Imports System.Data
 Imports System.Data.SqlClient
@@ -394,7 +394,7 @@ End Class
 The following C# sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the  **WebForm1.Aspx.cs** file, copying over the existing code.
 
 
-```vbC#
+```C#
 using System;
 using System.Collections.Generic;
 using System.Data;

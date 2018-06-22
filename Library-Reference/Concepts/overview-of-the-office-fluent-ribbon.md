@@ -31,7 +31,7 @@ With Ribbon Extensibility, you specify callbacks to update properties and perfor
 
 
 
-```vbC#
+```C#
 public void MyButtonOnAction (IRibbonControl control) 
    { 
       if (control.Id=="myButton") 
@@ -87,7 +87,7 @@ You can use XML markup to customize the ribbon. The following example shows the 
 
 
 
-```vbXML
+```XML
 <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui"> 
   <ribbon> 
     <tabs> 
@@ -157,7 +157,7 @@ In C#: Write a callback in your Connect class.
 
 
 
-```vbC#
+```C#
 IRibbonUI myRibbon; 
  
      public void ribbonLoaded(IRibbonUI ribbon) { 

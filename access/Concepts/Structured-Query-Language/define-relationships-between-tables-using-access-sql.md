@@ -28,7 +28,7 @@ The following statement assumes that the tblCustomers table has already been bui
 
 
 
-```vbsql
+```sql
 CREATE TABLE tblInvoices  
     (InvoiceID INTEGER CONSTRAINT PK_InvoiceID PRIMARY KEY, 
     CustomerID INTEGER NOT NULL CONSTRAINT FK_CustomerID  
@@ -43,7 +43,7 @@ Now create a shipping table that will contain each customer's shipping address. 
 
 
 
-```vbsql
+```sql
 CREATE TABLE tblShipping  
     (CustomerID INTEGER CONSTRAINT PK_CustomerID PRIMARY KEY 
         REFERENCES tblCustomers (CustomerID),  
@@ -67,7 +67,7 @@ A single-field constraint, also known as a column-level constraint, is declared 
 
 
 
-```vbsql
+```sql
 ALTER TABLE tblCustomers 
    ALTER COLUMN CustomerID INTEGER 
    CONSTRAINT PK_tblCustomers PRIMARY KEY 
@@ -79,7 +79,7 @@ Notice that the name of the constraint is given. You could use a shortcut for de
 
 
 
-```vbsql
+```sql
 ALTER TABLE tblCustomers 
    ALTER COLUMN CustomerID INTEGER PRIMARY KEY 
 
@@ -92,7 +92,7 @@ To drop a constraint, use the  **DROP CONSTRAINT** clause with the **ALTER TABLE
 
 
 
-```vbsql
+```sql
 ALTER TABLE tblCustomers 
    DROP CONSTRAINT PK_tblCustomers 
 
@@ -103,7 +103,7 @@ Constraints also can be used to restrict the allowable values for a field. You c
 
 
 
-```vbsql
+```sql
 ALTER TABLE tblCustomers 
    ADD CONSTRAINT CustomerID UNIQUE 
    ([Last Name], [First Name]) 
@@ -115,7 +115,7 @@ A check constraint is a powerful SQL feature that allows you to add data validat
 
 
 
-```vbsql
+```sql
 ALTER TABLE tblInvoices 
    ADD CONSTRAINT CheckAmount 
    CHECK (Amount > 0) 
@@ -129,7 +129,7 @@ Suppose that you want to check each customer's credit limit before he or she is 
 
 
 
-```vbsql
+```sql
 CREATE TABLE tblCreditLimit ( 
    Limit DOUBLE) 
  

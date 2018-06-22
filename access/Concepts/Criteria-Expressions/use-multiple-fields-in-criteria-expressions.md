@@ -33,7 +33,7 @@ The  _criteria_ argument evaluates to the following string:
 
 
 
-```vbsql
+```sql
 "[HireDate] >= #1-1-93# AND [Title] = 'Sales Representative'"
 ```
 
