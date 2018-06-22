@@ -29574,7 +29574,7 @@
 ##### [Remove Data from the Data Store When Deleting a Content Control](../word/Concepts/Objects-Properties-Methods/remove-data-from-the-data-store-when-deleting-a-content-control.md)
 ##### [Set the Building Blocks That You Can Use for a Content Control](../word/Concepts/Objects-Properties-Methods/set-the-building-blocks-that-you-can-use-for-a-content-control.md)
 ##### [Connect an Item in the Data Store to a SQL Server Database](../word/Concepts/Objects-Properties-Methods/connect-an-item-in-the-data-store-to-a-sql-server-database.md)
-### [Object model]./overview/object-model-word-vba-reference.md)
+### [Object model](./overview/object-model-word-vba-reference.md)
 #### [AddIn Object](Word.AddIn.md)
 ##### Methods
 ###### [Delete](Word.AddIn.Delete.md)
