@@ -18,7 +18,7 @@ Gets a  **CustomXMLPart** object from the **CustomXMLParts** collection. Read-on
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a **CustomXMLParts** object.
 

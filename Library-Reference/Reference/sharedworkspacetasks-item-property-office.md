@@ -21,7 +21,7 @@ Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shar
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceTasks](sharedworkspacetasks-object-office.md)** object. The specified **SharedWorkspaceTasks** collection.
 

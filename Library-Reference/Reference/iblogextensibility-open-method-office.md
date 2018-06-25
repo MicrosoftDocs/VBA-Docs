@@ -18,7 +18,7 @@ Opens the blog specified by the blog ID. It is called by the  **Open Existing Po
 
 ## Syntax
 
- _expression_. **Open**( **_Account_**, **_PostID_**, **_ParentWindow_**, **_userName_**, **_Password_**, **_xHTML_**, **_Title_**, **_DatePosted_**, **_Categories()_** )
+ _expression_. `Open`( `_Account_`, `_PostID_`, `_ParentWindow_`, `_userName_`, `_Password_`, `_xHTML_`, `_Title_`, `_DatePosted_`, `_Categories()_` )
 
  _expression_ An expression that returns a **IBlogExtensibility** object.
 

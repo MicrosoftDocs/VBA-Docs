@@ -21,7 +21,7 @@ Refreshes the local cache of the [SharedWorkspace](sharedworkspace-object-office
 
 ## Syntax
 
- _expression_. **Refresh**
+ _expression_. `Refresh`
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 

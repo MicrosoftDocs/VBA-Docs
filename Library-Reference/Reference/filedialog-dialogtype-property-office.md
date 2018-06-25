@@ -18,7 +18,7 @@ Gets an  **MsoFileDialogType** constant representing the type of file dialog box
 
 ## Syntax
 
- _expression_. **DialogType**
+ _expression_. `DialogType`
 
  _expression_ A variable that represents a **FileDialog** object.
 

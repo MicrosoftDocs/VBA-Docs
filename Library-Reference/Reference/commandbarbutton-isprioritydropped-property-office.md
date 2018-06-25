@@ -21,7 +21,7 @@ Gets  **True** if the **CommandBarButton** control is currently dropped from the
 
 ## Syntax
 
- _expression_. **IsPriorityDropped**
+ _expression_. `IsPriorityDropped`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

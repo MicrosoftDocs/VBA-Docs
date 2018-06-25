@@ -24,7 +24,7 @@ Gets or sets the Id number for the face of a  **CommandBarButton** control. Read
 
 ## Syntax
 
- _expression_. **FaceId**
+ _expression_. `FaceId`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

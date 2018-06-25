@@ -24,7 +24,7 @@ Gets or sets a  **MsoBarPosition** constant representing the position of a comma
 
 ## Syntax
 
- _expression_. **Position**
+ _expression_. `Position`
 
  _expression_ A variable that represents a **CommandBar** object.
 

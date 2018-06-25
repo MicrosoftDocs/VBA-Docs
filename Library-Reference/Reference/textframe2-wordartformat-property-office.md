@@ -15,7 +15,7 @@ Returns or sets the WordArt type for the specified text frame. Read/write
 
 ## Syntax
 
- _expression_. **WordArtformat**
+ _expression_. `WordArtformat`
 
  _expression_ An expression that returns a **TextFrame2** object.
 

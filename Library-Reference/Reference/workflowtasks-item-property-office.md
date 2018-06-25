@@ -18,7 +18,7 @@ Gets a  **WorkflowTask** object from the **WorkflowTasks** collection. Read-only
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a **WorkflowTasks** object.
 

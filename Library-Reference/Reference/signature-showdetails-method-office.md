@@ -18,7 +18,7 @@ Displays details related to a signature packet.
 
 ## Syntax
 
- _expression_. **ShowDetails**
+ _expression_. `ShowDetails`
 
  _expression_ An expression that returns a **Signature** object.
 

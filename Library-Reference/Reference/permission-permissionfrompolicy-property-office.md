@@ -18,7 +18,7 @@ Gets a  **Boolean** value that indicates whether a permission policy has been ap
 
 ## Syntax
 
- _expression_. **PermissionFromPolicy**
+ _expression_. `PermissionFromPolicy`
 
  _expression_ A variable that represents a **Permission** object.
 

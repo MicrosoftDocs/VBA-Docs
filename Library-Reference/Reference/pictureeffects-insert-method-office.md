@@ -15,7 +15,7 @@ Inserts a Picture Effect in a chain of composite effects.
 
 ## Syntax
 
- _expression_. **Insert**( **_EffectType_**, **_Position_** )
+ _expression_. `Insert`( `_EffectType_`, `_Position_` )
 
  _expression_ An expression that returns a **PictureEffects** object.
 

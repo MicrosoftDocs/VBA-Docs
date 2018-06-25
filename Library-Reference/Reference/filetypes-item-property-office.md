@@ -18,7 +18,7 @@ Gets a value that indicates which file type will be searched for. Read-only.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[FileTypes](filetypes-object-office.md)** object.
 

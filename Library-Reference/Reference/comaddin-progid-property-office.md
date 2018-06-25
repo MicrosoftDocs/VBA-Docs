@@ -18,7 +18,7 @@ Gets the programmatic identifier (ProgID) for the specified  **COMAddIn** object
 
 ## Syntax
 
- _expression_. **ProgId**
+ _expression_. `ProgId`
 
  _expression_ A variable that represents a **COMAddIn** object.
 

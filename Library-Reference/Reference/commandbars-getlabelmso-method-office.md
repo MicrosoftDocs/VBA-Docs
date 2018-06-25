@@ -24,7 +24,7 @@ Returns the label of the control identified by the  **idMso** parameter as a Str
 
 ## Syntax
 
- _expression_. **GetLabelMso**( **_idMso_** )
+ _expression_. `GetLabelMso`( `_idMso_` )
 
  _expression_ An expression that returns a **CommandBars** object.
 

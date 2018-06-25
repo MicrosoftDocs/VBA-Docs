@@ -21,7 +21,7 @@ Gets or sets the status of the specified shared workspace task. Read/write.
 
 ## Syntax
 
- _expression_. **Priority**
+ _expression_. `Priority`
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceTask](sharedworkspacetask-object-office.md)** object.
 

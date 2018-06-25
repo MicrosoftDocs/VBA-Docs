@@ -15,7 +15,7 @@ Gets or sets the location of the top of a shape that is used to crop an image. R
 
 ## Syntax
 
- _expression_. **ShapeTop**
+ _expression_. `ShapeTop`
 
  _expression_ An expression that returns a **Crop** object.
 

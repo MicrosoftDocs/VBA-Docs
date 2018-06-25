@@ -15,7 +15,7 @@ Adds a new  **SmartArtNode** object to the diagram with specified text.
 
 ## Syntax
 
- _expression_. **Add**
+ _expression_. `Add`
 
  _expression_ An expression that returns a **SmartArtNodes** object.
 

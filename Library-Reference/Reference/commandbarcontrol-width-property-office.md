@@ -21,7 +21,7 @@ Gets or sets the width (in pixels) of the specified  **CommandBarControl**. Read
 
 ## Syntax
 
- _expression_. **Width**
+ _expression_. `Width`
 
  _expression_ A variable that represents a **CommandBarControl** object.
 

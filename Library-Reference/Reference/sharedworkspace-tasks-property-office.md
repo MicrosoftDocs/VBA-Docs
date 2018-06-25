@@ -21,7 +21,7 @@ Gets a  **[SharedWorkspaceTasks](sharedworkspacetasks-object-office.md)** collec
 
 ## Syntax
 
- _expression_. **Tasks**
+ _expression_. `Tasks`
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 

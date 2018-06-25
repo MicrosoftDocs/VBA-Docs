@@ -21,7 +21,7 @@ Resumes synchronization between the local copy and the server copy of a shared d
 
 ## Syntax
 
- _expression_. **Unsuspend**
+ _expression_. `Unsuspend`
 
  _expression_ A variable that represents a **Sync** object.
 

@@ -18,7 +18,7 @@ Gets the name of the user who last modified the object. Read-only.
 
 ## Syntax
 
- _expression_. **ModifiedBy**
+ _expression_. `ModifiedBy`
 
  _expression_ A variable that represents a **SharedWorkspaceFile** object.
 

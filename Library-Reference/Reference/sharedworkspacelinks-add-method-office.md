@@ -21,7 +21,7 @@ Adds a link to the list of links in a shared workspace.
 
 ## Syntax
 
- _expression_. **Add**( **_URL_**, **_Description_**, **_Notes_** )
+ _expression_. `Add`( `_URL_`, `_Description_`, `_Notes_` )
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceLinks](sharedworkspacelinks-object-office.md)** object.
 

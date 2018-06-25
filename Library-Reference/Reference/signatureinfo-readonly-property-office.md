@@ -18,7 +18,7 @@ Gets a  **Boolean** value indicating whether the **SignatureInfo** object is rea
 
 ## Syntax
 
- _expression_. **ReadOnly**
+ _expression_. `ReadOnly`
 
  _expression_ An expression that returns a **SignatureInfo** object.
 

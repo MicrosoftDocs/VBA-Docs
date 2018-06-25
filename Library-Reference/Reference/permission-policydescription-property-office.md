@@ -18,7 +18,7 @@ Gets the description of the permissions policy applied to the active document. R
 
 ## Syntax
 
- _expression_. **PolicyDescription**
+ _expression_. `PolicyDescription`
 
  _expression_ A variable that represents a **Permission** object.
 

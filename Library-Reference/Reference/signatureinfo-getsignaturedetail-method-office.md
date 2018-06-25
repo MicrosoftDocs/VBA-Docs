@@ -18,7 +18,7 @@ Displays a specified detail related to a signature.
 
 ## Syntax
 
- _expression_. **GetSignatureDetail**( **_sigdet_** )
+ _expression_. `GetSignatureDetail`( `_sigdet_` )
 
  _expression_ An expression that returns a **SignatureInfo** object.
 

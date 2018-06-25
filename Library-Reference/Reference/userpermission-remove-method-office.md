@@ -18,7 +18,7 @@ Removes the specified  **UserPermission** object from the **[Permission](permiss
 
 ## Syntax
 
- _expression_. **Remove**
+ _expression_. `Remove`
 
  _expression_ Required. A variable that represents a **[UserPermission](userpermission-object-office.md)** object.
 

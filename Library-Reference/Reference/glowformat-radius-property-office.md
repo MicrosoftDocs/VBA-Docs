@@ -15,7 +15,7 @@ Gets or sets the radius value of the glow effect for the  **GlowFormat** object.
 
 ## Syntax
 
- _expression_. **Radius**
+ _expression_. `Radius`
 
  _expression_ An expression that returns a **GlowFormat** object.
 

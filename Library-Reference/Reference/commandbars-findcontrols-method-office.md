@@ -24,7 +24,7 @@ Gets the  **CommandBarControls** collection that fits the specified criteria.
 
 ## Syntax
 
- _expression_. **FindControls**( **_Type_**, **_Id_**, **_Tag_**, **_Visible_** )
+ _expression_. `FindControls`( `_Type_`, `_Id_`, `_Tag_`, `_Visible_` )
 
  _expression_ A variable that represents a **CommandBars** object.
 

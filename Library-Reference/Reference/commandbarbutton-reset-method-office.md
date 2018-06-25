@@ -21,7 +21,7 @@ Resets a built-in  **CommandBarButton** control to its original function and fac
 
 ## Syntax
 
- _expression_. **Reset**
+ _expression_. `Reset`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

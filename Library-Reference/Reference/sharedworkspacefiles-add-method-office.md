@@ -21,7 +21,7 @@ Adds a file to the document library in a shared workspace. Returns a  **[SharedW
 
 ## Syntax
 
- _expression_. **Add**( **_FileName_**, **_ParentFolder_**, **_OverwriteIfFileAlreadyExists_**, **_KeepInSync_** )
+ _expression_. `Add`( `_FileName_`, `_ParentFolder_`, `_OverwriteIfFileAlreadyExists_`, `_KeepInSync_` )
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceFiles](sharedworkspacefiles-object-office.md)** object.
 

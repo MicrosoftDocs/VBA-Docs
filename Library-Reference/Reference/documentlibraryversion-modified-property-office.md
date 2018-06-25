@@ -18,7 +18,7 @@ Gets the date and time at which the specified version of the shared document was
 
 ## Syntax
 
- _expression_. **Modified**
+ _expression_. `Modified`
 
  _expression_ A variable that represents a **DocumentLibraryVersion** object.
 

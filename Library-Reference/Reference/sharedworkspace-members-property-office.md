@@ -21,7 +21,7 @@ Gets a  **[SharedWorkspaceMembers](sharedworkspacemembers-object-office.md)** co
 
 ## Syntax
 
- _expression_. **Members**
+ _expression_. `Members`
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 

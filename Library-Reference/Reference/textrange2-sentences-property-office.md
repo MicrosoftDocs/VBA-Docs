@@ -15,7 +15,7 @@ Returns a  **TextRange2** object that represents the specified subset of text se
 
 ## Syntax
 
- _expression_. **Sentences**( **_Start_**, **_Length_** )
+ _expression_. `Sentences`( `_Start_`, `_Length_` )
 
  _expression_ An expression that returns a **TextRange2** object.
 

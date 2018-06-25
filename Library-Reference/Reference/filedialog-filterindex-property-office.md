@@ -18,7 +18,7 @@ Gets or sets a  **Long** indicating the default file filter of a file dialog box
 
 ## Syntax
 
- _expression_. **FilterIndex**
+ _expression_. `FilterIndex`
 
  _expression_ A variable that represents a **FileDialog** object.
 

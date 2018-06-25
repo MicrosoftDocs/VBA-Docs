@@ -18,7 +18,7 @@ Moves a record in a return set from a  **OfficeDataSourceObject** object from on
 
 ## Syntax
 
- _expression_. **Move**( **_MsoMoveRow_**, **_RowNbr_** )
+ _expression_. `Move`( `_MsoMoveRow_`, `_RowNbr_` )
 
  _expression_ A variable that represents an **OfficeDataSourceObject** object.
 

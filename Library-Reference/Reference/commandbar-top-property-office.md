@@ -24,7 +24,7 @@ Sets or gets the distance from the top edge of the specified command bar, to the
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_. `Top`
 
  _expression_ Required. A variable that represents a **[CommandBar](commandbar-object-office.md)** object.
 

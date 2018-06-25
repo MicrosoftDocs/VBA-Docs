@@ -18,7 +18,7 @@ Allows the template author to populate a  **CustomXMLPart** from an existing fil
 
 ## Syntax
 
- _expression_. **Load**( **_FilePath_** )
+ _expression_. `Load`( `_FilePath_` )
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

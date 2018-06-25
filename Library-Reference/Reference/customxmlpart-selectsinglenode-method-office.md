@@ -18,7 +18,7 @@ Selects a single node within a custom XML part matching an XPath expression.
 
 ## Syntax
 
- _expression_. **SelectSingleNode**( **_XPath_** )
+ _expression_. `SelectSingleNode`( `_XPath_` )
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

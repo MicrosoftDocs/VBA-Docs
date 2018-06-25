@@ -24,7 +24,7 @@ Gets or sets the docking order of a command bar in relation to other command bar
 
 ## Syntax
 
- _expression_. **RowIndex**
+ _expression_. `RowIndex`
 
  _expression_ A variable that represents a **CommandBar** object.
 

@@ -21,7 +21,7 @@ Designates the location of the public copy of a shared document to which changes
 
 ## Syntax
 
- _expression_. **SourceURL**
+ _expression_. `SourceURL`
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 

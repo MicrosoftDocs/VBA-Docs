@@ -21,7 +21,7 @@ Gets the type of  **CommandBarControl**. Read-only.
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_. `Type`
 
  _expression_ Required. A variable that represents a **[CommandBarControl](commandbarcontrol-object-office.md)** object.
 

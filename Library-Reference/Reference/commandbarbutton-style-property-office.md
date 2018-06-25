@@ -24,7 +24,7 @@ Gets or sets the way a  **CommandBarButton** control is displayed. Read/write.
 
 ## Syntax
 
- _expression_. **Style**
+ _expression_. `Style`
 
  _expression_ A variable that represents a **[CommandBarButton](commandbarbutton-object-office.md)** object.
 

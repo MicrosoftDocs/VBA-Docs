@@ -15,7 +15,7 @@ Saves the color scheme of a Microsoft Office theme to a file.
 
 ## Syntax
 
- _expression_. **Save**( **_FileName_** )
+ _expression_. `Save`( `_FileName_` )
 
  _expression_ An expression that returns a **ThemeColorScheme** object.
 

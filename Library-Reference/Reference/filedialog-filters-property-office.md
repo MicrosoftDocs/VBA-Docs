@@ -18,7 +18,7 @@ Gets a  **FileDialogFilters** collection. Read-only.
 
 ## Syntax
 
- _expression_. **Filters**
+ _expression_. `Filters`
 
  _expression_ A variable that represents a **FileDialog** object.
 

@@ -18,7 +18,7 @@ Displays a workflow task edit user interface for the specified  **WorkflowTask**
 
 ## Syntax
 
- _expression_. **Show**
+ _expression_. `Show`
 
  _expression_ An expression that returns a **WorkflowTask** object.
 

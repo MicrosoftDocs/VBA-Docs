@@ -18,7 +18,7 @@ Invalidates the cached values for all of the controls of the Ribbon user interfa
 
 ## Syntax
 
- _expression_. **Invalidate**
+ _expression_. `Invalidate`
 
  _expression_ An expression that returns a **IRibbonUI** object.
 

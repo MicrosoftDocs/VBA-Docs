@@ -21,7 +21,7 @@ Gets a  **[SharedWorkspaceLinks](sharedworkspacelinks-object-office.md)** collec
 
 ## Syntax
 
- _expression_. **Links**
+ _expression_. `Links`
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 

@@ -18,7 +18,7 @@ Gets the domain and user name of the specified [SharedWorkspaceMember](sharedwor
 
 ## Syntax
 
- _expression_. **DomainName**
+ _expression_. `DomainName`
 
  _expression_ A variable that represents a **SharedWorkspaceMember** object.
 

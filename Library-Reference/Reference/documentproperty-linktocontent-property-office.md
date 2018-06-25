@@ -18,7 +18,7 @@ Is  **True** if the value of the custom document property is linked to the conte
 
 ## Syntax
 
- _expression_. **LinkToContent**( **_pfLinkRetVal_** )
+ _expression_. `LinkToContent`( `_pfLinkRetVal_` )
 
  _expression_ A variable that represents a **DocumentProperty** object.
 

@@ -15,7 +15,7 @@ Replaces the text range with the contents of the Clipboard in the format specifi
 
 ## Syntax
 
- _expression_. **PasteSpecial**( **_Format_** )
+ _expression_. `PasteSpecial`( `_Format_` )
 
  _expression_ An expression that returns a **TextRange2** object.
 

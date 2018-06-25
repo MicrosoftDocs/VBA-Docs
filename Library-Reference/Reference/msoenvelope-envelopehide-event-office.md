@@ -18,7 +18,7 @@ Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** obj
 
 ## Syntax
 
- _expression_. **EnvelopeHide**
+ _expression_. `EnvelopeHide`
 
  _expression_ An expression that returns a **MsoEnvelope** object.
 

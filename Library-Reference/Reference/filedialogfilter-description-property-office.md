@@ -18,7 +18,7 @@ Gets the description of each  **Filter** object as a **String** value. The descr
 
 ## Syntax
 
- _expression_. **Description**
+ _expression_. `Description`
 
  _expression_ Required. A variable that represents a **[FileDialogFilter](filedialogfilter-object-office.md)** object.
 

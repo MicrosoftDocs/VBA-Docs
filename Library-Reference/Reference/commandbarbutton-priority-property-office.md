@@ -21,7 +21,7 @@ Gets or sets the priority of a CommandBarButton control. A control's priority de
 
 ## Syntax
 
- _expression_. **Priority**
+ _expression_. `Priority`
 
  _expression_ A variable that represents a **[CommandBarButton](commandbarbutton-object-office.md)** object.
 

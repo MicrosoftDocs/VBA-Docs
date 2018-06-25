@@ -18,7 +18,7 @@ Removes all  **UserPermission** objects from the **Permission** collection of th
 
 ## Syntax
 
- _expression_. **RemoveAll**
+ _expression_. `RemoveAll`
 
  _expression_ A variable that represents a **Permission** object.
 

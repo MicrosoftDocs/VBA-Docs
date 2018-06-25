@@ -15,7 +15,7 @@ Retrieves a  **SmartArtLayout** object at the specified index or with the specif
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a **SmartArtLayouts** object.
 

@@ -24,7 +24,7 @@ Gets or sets the  **Visible** property of the command bar. **True** if the comma
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_. `Visible`
 
  _expression_ A variable that represents a **CommandBar** object.
 

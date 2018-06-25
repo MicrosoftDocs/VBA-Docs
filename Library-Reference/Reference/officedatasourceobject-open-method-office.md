@@ -18,7 +18,7 @@ Opens a table in a  **OfficeDataSourceObject** object.
 
 ## Syntax
 
- _expression_. **Open**( **_bstrSrc_**, **_bstrConnect_**, **_bstrTable_**, **_fOpenExclusive_**, **_fNeverPrompt_** )
+ _expression_. `Open`( `_bstrSrc_`, `_bstrConnect_`, `_bstrTable_`, `_fOpenExclusive_`, `_fNeverPrompt_` )
 
  _expression_ A variable that represents an **OfficeDataSourceObject** object.
 

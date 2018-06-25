@@ -15,7 +15,7 @@ Deletes  **CommandBarCombo** control object from its collection.
 
 ## Syntax
 
- _expression_. **Delete**( **_Temporary_** )
+ _expression_. `Delete`( `_Temporary_` )
 
  _expression_ Required. A variable that represents a **[CommandBarComboBox](commandbarcombobox-object-office.md)** object.
 

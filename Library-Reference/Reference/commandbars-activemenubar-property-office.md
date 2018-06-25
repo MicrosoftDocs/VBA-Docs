@@ -24,7 +24,7 @@ Gets a  **CommandBar** object that represents the active menu bar in the contain
 
 ## Syntax
 
- _expression_. **ActiveMenuBar**
+ _expression_. `ActiveMenuBar`
 
  _expression_ A variable that represents a **CommandBars** object.
 

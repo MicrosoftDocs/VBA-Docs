@@ -18,7 +18,7 @@ Adds a subtree as the last child under the context element node in the tree.
 
 ## Syntax
 
- _expression_. **AppendChildSubtree**( **_XML_** )
+ _expression_. `AppendChildSubtree`( `_XML_` )
 
  _expression_ An expression that returns a **CustomXMLNode** object.
 

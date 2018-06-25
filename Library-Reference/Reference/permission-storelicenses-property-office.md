@@ -18,7 +18,7 @@ Gets or sets a  **Boolean** value that indicates whether the user's license to v
 
 ## Syntax
 
- _expression_. **StoreLicenses**
+ _expression_. `StoreLicenses`
 
  _expression_ A variable that represents a **Permission** object.
 

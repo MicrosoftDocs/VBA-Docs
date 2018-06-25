@@ -18,7 +18,7 @@ Allows you to add a custom namespace/prefix mapping to use when querying an item
 
 ## Syntax
 
- _expression_. **AddNamespace**( **_Prefix_**, **_NamespaceURI_** )
+ _expression_. `AddNamespace`( `_Prefix_`, `_NamespaceURI_` )
 
  _expression_ An expression that returns a **CustomXMLPrefixMappings** object.
 

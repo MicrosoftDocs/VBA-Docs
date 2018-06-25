@@ -21,7 +21,7 @@ Runs the procedure or built-in command assigned to the specified  **CommandBarBu
 
 ## Syntax
 
- _expression_. **Execute**
+ _expression_. `Execute`
 
  _expression_ Required. A variable that represents a **[CommandBarButton](commandbarbutton-object-office.md)** object.
 

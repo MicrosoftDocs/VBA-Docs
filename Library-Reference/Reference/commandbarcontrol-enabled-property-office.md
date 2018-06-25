@@ -21,7 +21,7 @@ Gets or sets a  **Boolean** value specifying if the **CommandBarControl** is ena
 
 ## Syntax
 
- _expression_. **Enabled**
+ _expression_. `Enabled`
 
  _expression_ A variable that represents a **[CommandBarControl](commandbarcontrol-object-office.md)** object.
 

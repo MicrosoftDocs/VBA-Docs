@@ -18,7 +18,7 @@ Gets  **True** if the current element node has child element nodes.
 
 ## Syntax
 
- _expression_. **HasChildNodes**
+ _expression_. `HasChildNodes`
 
  _expression_ An expression that returns a **CustomXMLNode** object.
 

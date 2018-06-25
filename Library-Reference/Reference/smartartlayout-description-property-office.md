@@ -15,7 +15,7 @@ Retrieves the description of the SmartArt layout. Read-only
 
 ## Syntax
 
- _expression_. **Description**
+ _expression_. `Description`
 
  _expression_ An expression that returns a **SmartArtLayout** object.
 

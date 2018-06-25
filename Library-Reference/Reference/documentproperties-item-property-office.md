@@ -18,7 +18,7 @@ Gets a  **DocumentProperty** object from the **DocumentProperties** collection. 
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[DocumentProperties](documentproperties-object-office.md)** object.
 

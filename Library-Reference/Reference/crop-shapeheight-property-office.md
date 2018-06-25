@@ -15,7 +15,7 @@ Gets or sets the height of a shape that is used to crop an image. Read/write
 
 ## Syntax
 
- _expression_. **ShapeHeight**
+ _expression_. `ShapeHeight`
 
  _expression_ An expression that returns a **Crop** object.
 

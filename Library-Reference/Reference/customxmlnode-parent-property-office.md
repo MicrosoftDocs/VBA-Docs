@@ -18,7 +18,7 @@ Gets the  **Parent** object for the **CustomXMLNode** object. Read-only.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. `Parent`
 
  _expression_ An expression that returns a **CustomXMLNode** object.
 

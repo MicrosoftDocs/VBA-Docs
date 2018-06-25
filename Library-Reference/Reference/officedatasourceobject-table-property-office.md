@@ -18,7 +18,7 @@ Gets a  **String** that represents the name of the table within the data source 
 
 ## Syntax
 
- _expression_. **Table**
+ _expression_. `Table`
 
  _expression_ A variable that represents an **OfficeDataSourceObject** object.
 

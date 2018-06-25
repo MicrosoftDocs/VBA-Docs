@@ -24,7 +24,7 @@ Creates a new  **CommandBarControl** object and adds it to the collection of con
 
 ## Syntax
 
- _expression_. **Add**( **_Type_**, **_Id_**, **_Parameter_**, **_Before_**, **_Temporary_** )
+ _expression_. `Add`( `_Type_`, `_Id_`, `_Parameter_`, `_Before_`, `_Temporary_` )
 
  _expression_ Required. A variable that represents a **[CommandBarControls](commandbarcontrols-object-office.md)** object.
 

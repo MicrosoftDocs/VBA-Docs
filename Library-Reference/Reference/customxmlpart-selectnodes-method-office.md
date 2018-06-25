@@ -18,7 +18,7 @@ Selects a collection of nodes from a custom XML part.
 
 ## Syntax
 
- _expression_. **SelectNodes**( **_XPath_** )
+ _expression_. `SelectNodes`( `_XPath_` )
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

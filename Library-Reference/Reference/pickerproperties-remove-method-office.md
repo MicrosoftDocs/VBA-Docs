@@ -18,7 +18,7 @@ Removes a PickerProperty from the collection.
 
 ## Syntax
 
- _expression_. **Remove**( **_Id_** )
+ _expression_. `Remove`( `_Id_` )
 
  _expression_ An expression that returns a **PickerProperties** object.
 

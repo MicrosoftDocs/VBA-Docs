@@ -21,7 +21,7 @@ Gets a  **MsoSyncErrorType** constant which indicates the type of the most recen
 
 ## Syntax
 
- _expression_. **ErrorType**
+ _expression_. `ErrorType`
 
  _expression_ A variable that returns a **[Sync](sync-object-office.md)** object.
 

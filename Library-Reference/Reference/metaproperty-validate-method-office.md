@@ -18,7 +18,7 @@ Validates a  **MetaProperty** object representing a single property value accord
 
 ## Syntax
 
- _expression_. **Validate**
+ _expression_. `Validate`
 
  _expression_ An expression that returns a **MetaProperty** object.
 

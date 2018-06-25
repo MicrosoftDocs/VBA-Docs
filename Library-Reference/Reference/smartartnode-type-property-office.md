@@ -15,7 +15,7 @@ Retrieves the type of SmartArt node. Read-only
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_. `Type`
 
  _expression_ An expression that returns a **SmartArtNode** object.
 

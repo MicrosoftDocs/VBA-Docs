@@ -18,7 +18,7 @@ Set or returns a  **String** representing the path or file name that is initiall
 
 ## Syntax
 
- _expression_. **InitialFileName**
+ _expression_. `InitialFileName`
 
  _expression_ A variable that represents a **FileDialog** object.
 

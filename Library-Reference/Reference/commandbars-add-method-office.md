@@ -24,7 +24,7 @@ Creates a new command bar and adds it to the collection of command bars.
 
 ## Syntax
 
- _expression_. **Add**( **_Name_**, **_Position_**, **_MenuBar_**, **_Temporary_** )
+ _expression_. `Add`( `_Name_`, `_Position_`, `_MenuBar_`, `_Temporary_` )
 
  _expression_ Required. A variable that represents a **[CommandBars](commandbars-object-office.md)** object.
 

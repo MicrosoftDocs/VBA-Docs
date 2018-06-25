@@ -18,7 +18,7 @@ Gets a  **String** that corresponds to the path of one of the files by **_Index_
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[FileDialogSelectedItems](filedialogselecteditems-object-office.md)** object.
 

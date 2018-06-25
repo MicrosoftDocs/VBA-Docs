@@ -21,7 +21,7 @@ Gets the  **Parent** object for the **SharedWorkspaceMember** object. Read-only.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. `Parent`
 
  _expression_ A variable that represents a **SharedWorkspaceMember** object.
 

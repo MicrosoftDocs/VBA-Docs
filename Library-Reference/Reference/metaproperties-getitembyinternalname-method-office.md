@@ -18,7 +18,7 @@ Gets a property's value specifying its name as opposed to its index value.
 
 ## Syntax
 
- _expression_. **GetItemByInternalName**( **_InternalName_** )
+ _expression_. `GetItemByInternalName`( `_InternalName_` )
 
  _expression_ An expression that returns a **MetaProperty** object.
 

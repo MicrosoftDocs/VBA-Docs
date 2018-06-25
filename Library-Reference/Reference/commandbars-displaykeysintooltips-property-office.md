@@ -24,7 +24,7 @@ Is  **True** if shortcut keys are displayed in the **ToolTips** for each command
 
 ## Syntax
 
- _expression_. **DisplayKeysInTooltips**
+ _expression_. `DisplayKeysInTooltips`
 
  _expression_ A variable that represents a **CommandBars** object.
 

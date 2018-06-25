@@ -18,7 +18,7 @@ Gets a  **ScopeFolder** object that represents a subfolder of the parent object.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[SearchFolders](searchfolders-object-office.md)** object.
 

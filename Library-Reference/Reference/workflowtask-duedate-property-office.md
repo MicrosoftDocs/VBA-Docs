@@ -18,7 +18,7 @@ Gets the date that a workflow task is due. Read-only.
 
 ## Syntax
 
- _expression_. **DueDate**
+ _expression_. `DueDate`
 
  _expression_ An expression that returns a **WorkflowTask** object.
 

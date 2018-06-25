@@ -18,7 +18,7 @@ Gets a  **SearchScope** object that corresponds to an area in which to perform a
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[SearchScopes](searchscopes-object-office.md)** object.
 

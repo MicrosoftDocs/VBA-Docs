@@ -21,7 +21,7 @@ Moves the keyboard focus to the specified  **CommandBarComboBox** control. If th
 
 ## Syntax
 
- _expression_. **SetFocus**
+ _expression_. `SetFocus`
 
  _expression_ A variable that represents a **CommandBarComboBox** object.
 

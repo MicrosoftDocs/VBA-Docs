@@ -24,7 +24,7 @@ Returns an  **IPictureDisp** object of the control image identified by the **idM
 
 ## Syntax
 
- _expression_. **GetImageMso**( **_idMso_**, **_Width_**, **_Height_** )
+ _expression_. `GetImageMso`( `_idMso_`, `_Width_`, `_Height_` )
 
  _expression_ An expression that returns a **CommandBars** object.
 

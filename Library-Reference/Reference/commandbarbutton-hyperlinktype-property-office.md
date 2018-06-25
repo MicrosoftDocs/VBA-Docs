@@ -24,7 +24,7 @@ Sets or gets a  **MsoCommandBarButtonHyperlinkType** constant that represents th
 
 ## Syntax
 
- _expression_. **HyperlinkType**
+ _expression_. `HyperlinkType`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

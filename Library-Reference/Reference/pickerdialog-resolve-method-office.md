@@ -18,7 +18,7 @@ Resolves the token using the Picker Dialog and retrieves the results.
 
 ## Syntax
 
- _expression_. **Resolve**( **_TokenText_**, **_duplicateDlgMode_** )
+ _expression_. `Resolve`( `_TokenText_`, `_duplicateDlgMode_` )
 
  _expression_ An expression that returns a **PickerDialog** object.
 

@@ -18,7 +18,7 @@ Sets or gets the title of a file dialog box displayed using the  **FileDialog** 
 
 ## Syntax
 
- _expression_. **Title**
+ _expression_. `Title`
 
  _expression_ Required. A variable that represents a **[FileDialog](filedialog-object-office.md)** object.
 

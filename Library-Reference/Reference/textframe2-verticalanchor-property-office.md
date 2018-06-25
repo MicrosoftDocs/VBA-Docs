@@ -15,7 +15,7 @@ Returns or sets the vertical alignment of text in a text frame. Read/write
 
 ## Syntax
 
- _expression_. **VerticalAnchor**
+ _expression_. `VerticalAnchor`
 
  _expression_ An expression that returns a **TextFrame2** object.
 

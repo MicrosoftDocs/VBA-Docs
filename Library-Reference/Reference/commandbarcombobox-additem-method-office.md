@@ -24,7 +24,7 @@ Adds a list item to the specified command bar combo box control. The combo box c
 
 ## Syntax
 
- _expression_. **AddItem**( **_Text_**, **_Index_** )
+ _expression_. `AddItem`( `_Text_`, `_Index_` )
 
  _expression_ A variable that represents a **CommandBarComboBox** object.
 

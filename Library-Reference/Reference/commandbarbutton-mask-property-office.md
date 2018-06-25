@@ -24,7 +24,7 @@ Gets or sets an  **IPictureDisp** object representing the mask image of a **Comm
 
 ## Syntax
 
- _expression_. **Mask**
+ _expression_. `Mask`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

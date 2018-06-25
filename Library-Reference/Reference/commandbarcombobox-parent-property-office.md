@@ -21,7 +21,7 @@ Gets the  **Parent** object for the **CommandBarComboBox** object. Read-only.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. `Parent`
 
  _expression_ A variable that represents a **CommandBarComboBox** object.
 

@@ -18,7 +18,7 @@ Gets or sets a  **Boolean** value that indicates whether permissions are enabled
 
 ## Syntax
 
- _expression_. **Enabled**
+ _expression_. `Enabled`
 
  _expression_ Required. A variable that represents a **[Permission](permission-object-office.md)** object.
 

@@ -18,7 +18,7 @@ Occurs just after a  **CustomXMLPart** object is loaded.
 
 ## Syntax
 
- _expression_. **PartAfterLoad**( **_Part_**, )
+ _expression_. `PartAfterLoad`( `_Part_`, )
 
  _expression_ An expression that returns a **CustomXMLParts** object.
 

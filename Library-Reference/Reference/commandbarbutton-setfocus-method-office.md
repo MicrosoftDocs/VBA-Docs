@@ -21,7 +21,7 @@ Moves the keyboard focus to the specified  **CommandBarButton** control. If the 
 
 ## Syntax
 
- _expression_. **SetFocus**
+ _expression_. `SetFocus`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

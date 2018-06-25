@@ -15,7 +15,7 @@ Retrieves the number of  **SmartArtNode** objects contained within the **SmartAr
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. `Count`
 
  _expression_ An expression that returns a **SmartArtNodes** object.
 

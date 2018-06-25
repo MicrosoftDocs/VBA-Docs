@@ -15,7 +15,7 @@ Gets information about a custom Document Inspector module.
 
 ## Syntax
 
- _expression_. **GetInfo**( **_Name_**, **_Desc_** )
+ _expression_. `GetInfo`( `_Name_`, `_Desc_` )
 
  _expression_ An expression that returns a **IDocumentInspector** object.
 

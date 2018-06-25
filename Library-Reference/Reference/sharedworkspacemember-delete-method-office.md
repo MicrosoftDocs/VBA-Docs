@@ -21,7 +21,7 @@ Deletes the current  **SharedWorkspaceMember** object.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. `Delete`
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceMember](sharedworkspacemember-object-office.md)** object.
 

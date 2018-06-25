@@ -18,7 +18,7 @@ Set or returns the title of a picker dialog displayed in the Picker Dialog. Read
 
 ## Syntax
 
- _expression_. **Title**
+ _expression_. `Title`
 
  _expression_ An expression that returns a **PickerDialog** object.
 

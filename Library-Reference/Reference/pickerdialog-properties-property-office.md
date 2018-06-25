@@ -18,7 +18,7 @@ Returns the ** PickerProperties** object to specify custom properties for data h
 
 ## Syntax
 
- _expression_. **Properties**
+ _expression_. `Properties`
 
  _expression_ An expression that returns a **PickerDialog** object.
 

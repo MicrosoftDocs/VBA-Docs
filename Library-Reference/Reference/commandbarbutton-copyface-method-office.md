@@ -24,7 +24,7 @@ Copies the face of a command bar button control to the Clipboard.
 
 ## Syntax
 
- _expression_. **CopyFace**
+ _expression_. `CopyFace`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

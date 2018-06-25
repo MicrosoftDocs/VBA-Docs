@@ -21,7 +21,7 @@ Gets or sets the priority of a  **CommandBarPopup** control. Read/write.
 
 ## Syntax
 
- _expression_. **Priority**
+ _expression_. `Priority`
 
  _expression_ A variable that represents a **CommandBarPopup** object.
 

@@ -18,7 +18,7 @@ Ends the current encryption session.
 
 ## Syntax
 
- _expression_. **EndSession**( **_SessionHandle_** )
+ _expression_. `EndSession`( `_SessionHandle_` )
 
  _expression_ An expression that returns a **EncryptionProvider** object.
 

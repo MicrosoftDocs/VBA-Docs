@@ -18,7 +18,7 @@ Gets a  **String** indicating the full path of a **ScopeFolder** object. Read-on
 
 ## Syntax
 
- _expression_. **Path**
+ _expression_. `Path`
 
  _expression_ A variable that represents a **ScopeFolder** object.
 

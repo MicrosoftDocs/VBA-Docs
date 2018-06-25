@@ -24,7 +24,7 @@ Gets or sets a  **MsoOLEMenuGroup** constant that represents the menu group that
 
 ## Syntax
 
- _expression_. **OLEMenuGroup**
+ _expression_. `OLEMenuGroup`
 
  _expression_ A variable that represents a **CommandBarPopup** object.
 

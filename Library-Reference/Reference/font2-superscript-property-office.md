@@ -15,7 +15,7 @@ Gets or sets a value specifying that the selected text should be displayed as su
 
 ## Syntax
 
- _expression_. **Superscript**
+ _expression_. `Superscript`
 
  _expression_ An expression that returns a **Font2** object.
 

@@ -18,7 +18,7 @@ Occurs when the user changes the visibility of the custom task pane.
 
 ## Syntax
 
- _expression_. **VisibleStateChange**( **_CustomTaskPaneInst_**, )
+ _expression_. `VisibleStateChange`( `_CustomTaskPaneInst_`, )
 
  _expression_ An expression that returns a **CustomTaskPane** object.
 

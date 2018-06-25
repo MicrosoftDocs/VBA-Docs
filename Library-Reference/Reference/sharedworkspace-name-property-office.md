@@ -21,7 +21,7 @@ Gets or sets the display name of the shared workspace site. Read/write.
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. `Name`
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 

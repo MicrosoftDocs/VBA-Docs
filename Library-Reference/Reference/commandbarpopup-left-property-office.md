@@ -21,7 +21,7 @@ Gets the horizontal position of the specified  **CommandBarPopup** control (in p
 
 ## Syntax
 
- _expression_. **Left**
+ _expression_. `Left`
 
  _expression_ Required. A variable that represents a **[CommandBarPopup](commandbarpopup-object-office.md)** object.
 

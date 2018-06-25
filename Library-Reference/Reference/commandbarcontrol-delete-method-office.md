@@ -21,7 +21,7 @@ Deletes the  **CommandBarControl** object from its collection.
 
 ## Syntax
 
- _expression_. **Delete**( **_Temporary_** )
+ _expression_. `Delete`( `_Temporary_` )
 
  _expression_ Required. A variable that represents a **[CommandBarControl](commandbarcontrol-object-office.md)** object.
 

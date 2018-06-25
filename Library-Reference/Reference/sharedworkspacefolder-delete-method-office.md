@@ -21,7 +21,7 @@ Deletes the current shared workspace folder and all data within it.
 
 ## Syntax
 
- _expression_. **Delete**( **_DeleteEvenIfFolderContainsFiles_** )
+ _expression_. `Delete`( `_DeleteEvenIfFolderContainsFiles_` )
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceFolder](sharedworkspacefolder-object-office.md)** object.
 

@@ -21,7 +21,7 @@ Gets or sets information about the  **CommandBarButton** control, such as data t
 
 ## Syntax
 
- _expression_. **Tag**
+ _expression_. `Tag`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

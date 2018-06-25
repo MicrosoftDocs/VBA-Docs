@@ -18,7 +18,7 @@ Gets or sets the name of a document property. Read/write.
 
 ## Syntax
 
- _expression_. **Name**( **_lcid_**, **_pbstrRetVal_** )
+ _expression_. `Name`( `_lcid_`, `_pbstrRetVal_` )
 
  _expression_ A variable that represents a **DocumentProperty** object.
 

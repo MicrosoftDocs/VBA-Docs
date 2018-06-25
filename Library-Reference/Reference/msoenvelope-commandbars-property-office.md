@@ -24,7 +24,7 @@ Gets a  **CommandBars** collection. Read-only.
 
 ## Syntax
 
- _expression_. **CommandBars**
+ _expression_. `CommandBars`
 
  _expression_ A variable that represents a **MsoEnvelope** object.
 

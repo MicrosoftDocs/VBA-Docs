@@ -18,7 +18,7 @@ Provides a signature provider add-in the opportunity to display the  **Signature
 
 ## Syntax
 
- _expression_. **ShowSignatureSetup**( **_ParentWindow_**, **_psigsetup_** )
+ _expression_. `ShowSignatureSetup`( `_ParentWindow_`, `_psigsetup_` )
 
  _expression_ An expression that returns a **SignatureProvider** object.
 

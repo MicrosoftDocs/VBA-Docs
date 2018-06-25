@@ -18,7 +18,7 @@ Adds a node to the XML tree.
 
 ## Syntax
 
- _expression_. **AddNode**( **_Parent_**, **_Name_**, **_NamespaceURI_**, **_NextSibling_**, **_NodeType_**, **_NodeValue_** )
+ _expression_. `AddNode`( `_Parent_`, `_Name_`, `_NamespaceURI_`, `_NextSibling_`, `_NodeType_`, `_NodeValue_` )
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

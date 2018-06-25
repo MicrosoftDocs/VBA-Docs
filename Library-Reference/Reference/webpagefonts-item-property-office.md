@@ -18,7 +18,7 @@ Gets a  **WebPageFont** object from the **WebPageFonts** collection for a partic
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[WebPageFonts](webpagefonts-object-office.md)** object.
 

@@ -18,7 +18,7 @@ Removes the specified object from the collection.
 
 ## Syntax
 
- _expression_. **Remove**( **_Index_** )
+ _expression_. `Remove`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[SearchFolders](searchfolders-object-office.md)** object.
 

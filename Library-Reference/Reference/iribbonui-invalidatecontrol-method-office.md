@@ -18,7 +18,7 @@ Invalidates the cached value for a single control on the Ribbon user interface.
 
 ## Syntax
 
- _expression_. **InvalidateControl**( **_bstrControlID_** )
+ _expression_. `InvalidateControl`( `_bstrControlID_` )
 
  _expression_ An expression that returns a **IRibbonUI** object.
 

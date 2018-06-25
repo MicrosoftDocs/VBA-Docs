@@ -15,7 +15,7 @@ Gets or sets a Boolean value representing the visible state of the picture effec
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_. `Visible`
 
  _expression_ An expression that returns a **PictureEffect** object.
 

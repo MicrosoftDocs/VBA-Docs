@@ -21,7 +21,7 @@ Gets the name of a subfolder within the main document library folder of a shared
 
 ## Syntax
 
- _expression_. **FolderName**
+ _expression_. `FolderName`
 
  _expression_ A variable that represents a **SharedWorkspaceFolder** object.
 

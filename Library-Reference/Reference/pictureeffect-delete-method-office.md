@@ -15,7 +15,7 @@ Deletes a Picture Effect.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. `Delete`
 
  _expression_ An expression that returns a **PictureEffect** object.
 

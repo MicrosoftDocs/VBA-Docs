@@ -18,7 +18,7 @@ Gets the name of an error in a  **CustomXMLValidationError** object. If no error
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. `Name`
 
  _expression_ An expression that returns a **CustomXMLValidationError** object.
 

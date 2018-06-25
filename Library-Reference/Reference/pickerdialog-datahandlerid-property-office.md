@@ -18,7 +18,7 @@ Sets or gets the GUID of the Picker Dialog data handler component. Read/write
 
 ## Syntax
 
- _expression_. **DataHandlerId**
+ _expression_. `DataHandlerId`
 
  _expression_ An expression that returns a **PickerDialog** object.
 

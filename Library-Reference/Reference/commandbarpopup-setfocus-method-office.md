@@ -21,7 +21,7 @@ Moves the keyboard focus to the specified  **CommandBarPopup** control. If the p
 
 ## Syntax
 
- _expression_. **SetFocus**
+ _expression_. `SetFocus`
 
  _expression_ A variable that represents a **CommandBarPopup** object.
 

@@ -24,7 +24,7 @@ Gets or sets a  **MsoMenuAnimation** that represents the way a command bar is an
 
 ## Syntax
 
- _expression_. **MenuAnimationStyle**
+ _expression_. `MenuAnimationStyle`
 
  _expression_ A variable that represents a **CommandBars** object.
 

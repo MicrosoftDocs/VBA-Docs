@@ -18,7 +18,7 @@ Gets the e-mail name of the user whose permissions on the active document are de
 
 ## Syntax
 
- _expression_. **UserId**
+ _expression_. `UserId`
 
  _expression_ A variable that represents a **UserPermission** object.
 

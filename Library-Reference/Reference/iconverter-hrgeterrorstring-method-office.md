@@ -18,7 +18,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Syntax
 
- _expression_. **HrGetErrorString**( **_hrErr_**, **_pbstrErrorMsg_**, **_pcap_** )
+ _expression_. `HrGetErrorString`( `_hrErr_`, `_pbstrErrorMsg_`, `_pcap_` )
 
  _expression_ An expression that returns a **IConverter** object.
 

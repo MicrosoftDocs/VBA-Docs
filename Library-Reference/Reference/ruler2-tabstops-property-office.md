@@ -15,7 +15,7 @@ Gets a  **TabStops2** collection that represents the tab stops for the specified
 
 ## Syntax
 
- _expression_. **TabStops**
+ _expression_. `TabStops`
 
  _expression_ An expression that returns a **Ruler2** object.
 

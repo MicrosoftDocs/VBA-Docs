@@ -24,7 +24,7 @@ Resets a built-in command bar to its default configuration.
 
 ## Syntax
 
- _expression_. **Reset**
+ _expression_. `Reset`
 
  _expression_ A variable that represents a **CommandBar** object.
 

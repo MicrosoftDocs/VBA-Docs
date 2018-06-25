@@ -15,7 +15,7 @@ Displays the help topic specified by its ID in the Office Help Viewer or, for he
 
 ## Syntax
 
- _expression_. **ShowHelp**( **_HelpId_**, **_Scope_** )
+ _expression_. `ShowHelp`( `_HelpId_`, `_Scope_` )
 
  _expression_ An expression that returns a **IAssistance** object.
 

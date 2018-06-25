@@ -21,7 +21,7 @@ Compares the local version of the shared document to the version on the server.
 
 ## Syntax
 
- _expression_. **GetUpdate**
+ _expression_. `GetUpdate`
 
  _expression_ A variable that represents a **Sync** object.
 

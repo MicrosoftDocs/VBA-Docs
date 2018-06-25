@@ -15,7 +15,7 @@ Gets or sets a value specifying whether the text for a selection is italic. Read
 
 ## Syntax
 
- _expression_. **Italic**
+ _expression_. `Italic`
 
  _expression_ An expression that returns a **Font2** object.
 

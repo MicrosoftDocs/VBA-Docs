@@ -18,7 +18,7 @@ Gets an  **ODSOColumns** object that represents the fields in a data source. Rea
 
 ## Syntax
 
- _expression_. **Columns**
+ _expression_. `Columns`
 
  _expression_ A variable that represents an **OfficeDataSourceObject** object.
 

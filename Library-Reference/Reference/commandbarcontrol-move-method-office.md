@@ -21,7 +21,7 @@ Moves the specified  **CommandBarControl** to an existing command bar.
 
 ## Syntax
 
- _expression_. **Move**( **_Bar_**, **_Before_** )
+ _expression_. `Move`( `_Bar_`, `_Before_` )
 
  _expression_ Required. A variable that represents a **[CommandBarControl](commandbarcontrol-object-office.md)** object.
 

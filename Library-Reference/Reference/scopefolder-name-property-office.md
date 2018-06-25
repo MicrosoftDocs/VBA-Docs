@@ -18,7 +18,7 @@ Gets the name of a searchable folder. Read-only.
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. `Name`
 
  _expression_ A variable that represents a **ScopeFolder** object.
 

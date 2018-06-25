@@ -18,7 +18,7 @@ Gets or sets a descriptive  **String** value for the specified **COMAddin** obje
 
 ## Syntax
 
- _expression_. **Description**
+ _expression_. `Description`
 
  _expression_ Required. A variable that represents a **[COMAddIn](comaddin-object-office.md)** object.
 

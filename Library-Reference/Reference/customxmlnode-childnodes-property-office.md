@@ -18,7 +18,7 @@ Gets a  **CustomXMLNodes** collection containing all of the child elements of th
 
 ## Syntax
 
- _expression_. **ChildNodes**
+ _expression_. `ChildNodes`
 
  _expression_ An expression that returns a **CustomXMLNode** object.
 

@@ -24,7 +24,7 @@ Gets or sets a string that determines where a command bar will be saved. The str
 
 ## Syntax
 
- _expression_. **Context**
+ _expression_. `Context`
 
  _expression_ A variable that represents a **CommandBar** object.
 

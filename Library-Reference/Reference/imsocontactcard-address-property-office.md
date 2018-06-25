@@ -18,7 +18,7 @@ Represents the address in a Contact card. Read-only
 
 ## Syntax
 
- _expression_. **Address**
+ _expression_. `Address`
 
  _expression_ An expression that returns a **IMsoContactCard** object.
 

@@ -18,7 +18,7 @@ Gets or sets the state of the connection for the specified  **COMAddIn** object.
 
 ## Syntax
 
- _expression_. **Connect**
+ _expression_. `Connect`
 
  _expression_ A variable that represents a **COMAddIn** object.
 

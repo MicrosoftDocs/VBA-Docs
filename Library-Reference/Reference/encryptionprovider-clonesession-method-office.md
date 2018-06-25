@@ -18,7 +18,7 @@ Creates a second, working copy of the  **EncryptionProvider** object's encryptio
 
 ## Syntax
 
- _expression_. **CloneSession**( **_SessionHandle_** )
+ _expression_. `CloneSession`( `_SessionHandle_` )
 
  _expression_ An expression that returns a **EncryptionProvider** object.
 

@@ -18,7 +18,7 @@ Occurs after a node is inserted in a  **CustomXMLPart** object.
 
 ## Syntax
 
- _expression_. **NodeAfterInsert**( **_NewNode_**, **_InUndoRedo_** )
+ _expression_. `NodeAfterInsert`( `_NewNode_`, `_InUndoRedo_` )
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

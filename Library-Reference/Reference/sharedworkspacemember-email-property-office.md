@@ -21,7 +21,7 @@ Gets the e-mail name of the specified  **SharedWorkspaceMember** in the format u
 
 ## Syntax
 
- **Email**_expression_. **Email**
+ **Email**_expression_. `Email`
 
  _expression_ An expression that returns a **SharedWorkspaceMember** object.
 

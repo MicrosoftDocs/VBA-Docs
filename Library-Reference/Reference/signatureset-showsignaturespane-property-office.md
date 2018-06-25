@@ -18,7 +18,7 @@ Gets or sets a  **Boolean** value indicating whether the **Signature** task pane
 
 ## Syntax
 
- _expression_. **ShowSignaturesPane**
+ _expression_. `ShowSignaturesPane`
 
  _expression_ An expression that returns a **SignatureSet** object.
 

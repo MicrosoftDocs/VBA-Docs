@@ -18,7 +18,7 @@ Deletes the active custom task pane.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. `Delete`
 
  _expression_ An expression that returns a **CustomTaskPane** object.
 

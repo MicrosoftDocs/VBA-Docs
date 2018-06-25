@@ -18,7 +18,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLSchemaCo
 
 ## Syntax
 
- _expression_. **NamespaceURI**( **_Index_** )
+ _expression_. `NamespaceURI`( `_Index_` )
 
  _expression_ An expression that returns a **CustomXMLSchemaCollection** object.
 

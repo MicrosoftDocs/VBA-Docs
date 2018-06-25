@@ -18,7 +18,7 @@ Gets or sets the value of a document property. Read/write.
 
 ## Syntax
 
- _expression_. **Value**
+ _expression_. `Value`
 
  _expression_ Required. A variable that represents a **[DocumentProperty](documentproperty-object-office.md)** object.
 

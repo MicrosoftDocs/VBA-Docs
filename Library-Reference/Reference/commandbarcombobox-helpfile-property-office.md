@@ -21,7 +21,7 @@ Gets or sets the file name for the Help topic attached to the  **CommandBarCombo
 
 ## Syntax
 
- _expression_. **HelpFile**
+ _expression_. `HelpFile`
 
  _expression_ A variable that represents a **CommandBarComboBox** object.
 

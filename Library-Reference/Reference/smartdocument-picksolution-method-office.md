@@ -18,7 +18,7 @@ Displays a dialog box that allows the user to choose an available XML expansion 
 
 ## Syntax
 
- _expression_. **PickSolution**( **_ConsiderAllSchemas_** )
+ _expression_. `PickSolution`( `_ConsiderAllSchemas_` )
 
  _expression_ A variable that represents a **SmartDocument** object.
 

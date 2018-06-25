@@ -18,7 +18,7 @@ Gets a  **CustomXMLValidationErrors** object that provides access to any XML val
 
 ## Syntax
 
- _expression_. **Errors**
+ _expression_. `Errors`
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

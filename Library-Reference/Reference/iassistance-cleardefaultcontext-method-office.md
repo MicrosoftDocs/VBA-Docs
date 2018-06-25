@@ -18,7 +18,7 @@ Clears the default help topic previously defined in the  **SetDefaultContext** m
 
 ## Syntax
 
- _expression_. **ClearDefaultContext**( **_HelpId_** )
+ _expression_. `ClearDefaultContext`( `_HelpId_` )
 
  _expression_ An expression that returns a **IAssistance** object.
 

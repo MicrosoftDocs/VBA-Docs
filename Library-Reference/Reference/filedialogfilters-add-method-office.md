@@ -18,7 +18,7 @@ Adds a new file filter to the list of filters in the  **Files of type** drop-dow
 
 ## Syntax
 
- _expression_. **Add**( **_Description_**, **_Extensions_**, **_Position_** )
+ _expression_. `Add`( `_Description_`, `_Extensions_`, `_Position_` )
 
  _expression_ Required. A variable that represents a **FileDialogFilters** object.
 

@@ -18,7 +18,7 @@ Enables picture providers to offer themselves as an upload location for blog pic
 
 ## Syntax
 
- _expression_. **BlogPictureProviderProperties**( **_BlogPictureProvider_**, **_FriendlyName_** )
+ _expression_. `BlogPictureProviderProperties`( `_BlogPictureProvider_`, `_FriendlyName_` )
 
  _expression_ An expression that returns a **IBlogPictureExtensibility** object.
 

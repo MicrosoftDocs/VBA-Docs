@@ -15,7 +15,7 @@ Gets a value that represents a color in the color scheme of a Microsoft Office t
 
 ## Syntax
 
- _expression_. **GetCustomColor**( **_Name_** )
+ _expression_. `GetCustomColor`( `_Name_` )
 
  _expression_ An expression that returns a **ThemeColorScheme** object.
 

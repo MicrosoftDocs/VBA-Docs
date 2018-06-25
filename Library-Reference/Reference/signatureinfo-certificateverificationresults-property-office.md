@@ -18,7 +18,7 @@ Gets the results from the verification of a digital certificate. Read-only.
 
 ## Syntax
 
- _expression_. **CertificateVerificationResults**
+ _expression_. `CertificateVerificationResults`
 
  _expression_ An expression that returns a **SignatureInfo** object.
 

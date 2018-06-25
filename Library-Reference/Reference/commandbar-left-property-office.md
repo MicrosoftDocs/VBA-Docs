@@ -24,7 +24,7 @@ Sets or gets the horizontal distance (in pixels) of the  **CommandBar** from the
 
 ## Syntax
 
- _expression_. **Left**
+ _expression_. `Left`
 
  _expression_ Required. A variable that represents a **[CommandBar](commandbar-object-office.md)** object.
 

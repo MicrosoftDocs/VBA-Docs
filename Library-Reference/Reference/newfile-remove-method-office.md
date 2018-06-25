@@ -18,7 +18,7 @@ Removes an item from the  **New Item** task pane. Returns a **Boolean** value to
 
 ## Syntax
 
- _expression_. **Remove**( **_FileName_**, **_Section_**, **_DisplayName_**, **_Action_** )
+ _expression_. `Remove`( `_FileName_`, `_Section_`, `_DisplayName_`, `_Action_` )
 
  _expression_ Required. A variable that represents a **[NewFile](newfile-object-office.md)** object.
 

@@ -18,7 +18,7 @@ Validates all of the properties in a  **MetaProperties** collection object accor
 
 ## Syntax
 
- _expression_. **Validate**
+ _expression_. `Validate`
 
  _expression_ An expression that returns a **MetaProperties** object.
 

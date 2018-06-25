@@ -18,7 +18,7 @@ Gets a  **FileDialogFilter** object that is a member of the specified **FileDial
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[FileDialogFilters](filedialogfilters-object-office.md)** object.
 

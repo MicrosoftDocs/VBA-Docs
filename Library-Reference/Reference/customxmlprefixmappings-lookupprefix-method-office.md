@@ -18,7 +18,7 @@ Allows you to get a prefix corresponding to the specified namespace.
 
 ## Syntax
 
- _expression_. **LookupPrefix**( **_NamespaceURI_** )
+ _expression_. `LookupPrefix`( `_NamespaceURI_` )
 
  _expression_ An expression that returns a **CustomXMLPrefixMappings** object.
 

@@ -24,7 +24,7 @@ Gets the type of command bar. Read-only.
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_. `Type`
 
  _expression_ Required. A variable that represents a **[CommandBar](commandbar-object-office.md)** object.
 

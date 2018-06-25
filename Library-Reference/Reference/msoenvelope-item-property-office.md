@@ -18,7 +18,7 @@ Gets a  **MailItem** object that can be used to send the document as an e-mail. 
 
 ## Syntax
 
- _expression_. **Item**
+ _expression_. `Item`
 
  _expression_ Required. A variable that represents a **[MsoEnvelope](msoenvelope-object-office.md)** object.
 

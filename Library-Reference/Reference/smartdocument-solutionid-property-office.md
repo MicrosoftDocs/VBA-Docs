@@ -18,7 +18,7 @@ Gets or sets the ID, often a globally unique identifier (GUID), which identifies
 
 ## Syntax
 
- _expression_. **SolutionID**
+ _expression_. `SolutionID`
 
  _expression_ A variable that represents a **SmartDocument** object.
 

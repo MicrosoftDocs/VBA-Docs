@@ -21,7 +21,7 @@ Gets or sets the height of a  **CommandBarControl** control. Read/write.
 
 ## Syntax
 
- _expression_. **Height**
+ _expression_. `Height`
 
  _expression_ A variable that represents a **CommandBarControl** object.
 

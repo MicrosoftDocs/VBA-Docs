@@ -24,7 +24,7 @@ Pastes the contents of the Clipboard onto a  **CommandBarButton**.
 
 ## Syntax
 
- _expression_. **PasteFace**
+ _expression_. `PasteFace`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

@@ -18,7 +18,7 @@ Encrypts and returns a stream of data for a document.
 
 ## Syntax
 
- _expression_. **EncryptStream**( **_SessionHandle_**, **_StreamName_**, **_UnencryptedStream_**, **_EncryptedStream_** )
+ _expression_. `EncryptStream`( `_SessionHandle_`, `_StreamName_`, `_UnencryptedStream_`, `_EncryptedStream_` )
 
  _expression_ An expression that returns a **EncryptionProvider** object.
 

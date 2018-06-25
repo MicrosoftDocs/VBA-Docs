@@ -21,7 +21,7 @@ Gets the ID for a built-in  **CommandBarPopup** control. Read-only.
 
 ## Syntax
 
- _expression_. **Id**
+ _expression_. `Id`
 
  _expression_ A variable that represents a **CommandBarPopup** object.
 

@@ -24,7 +24,7 @@ Gets a  **Boolean** value that specifies whether the command bar should include 
 
 ## Syntax
 
- _expression_. **AdaptiveMenu**
+ _expression_. `AdaptiveMenu`
 
  _expression_ An expression that returns a **CommandBar** object.
 

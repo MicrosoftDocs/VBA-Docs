@@ -21,7 +21,7 @@ Gets the date and time when the  **SharedWorkspaceTask** object was last modifie
 
 ## Syntax
 
- _expression_. **ModifiedDate**
+ _expression_. `ModifiedDate`
 
  _expression_ A variable that represents a **SharedWorkspaceTask** object.
 

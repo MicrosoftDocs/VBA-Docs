@@ -18,7 +18,7 @@ Gets or sets the name in e-mail form of the author of the active document. Read/
 
 ## Syntax
 
- _expression_. **DocumentAuthor**
+ _expression_. `DocumentAuthor`
 
  _expression_ A variable that represents a **Permission** object.
 

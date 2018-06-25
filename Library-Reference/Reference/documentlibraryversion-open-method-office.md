@@ -18,7 +18,7 @@ Opens the specified version of the shared document from the  **DocumentLibraryVe
 
 ## Syntax
 
- _expression_. **Open**
+ _expression_. `Open`
 
  _expression_ Required. A variable that represents a **[DocumentLibraryVersion](documentlibraryversion-object-office.md)** object.
 

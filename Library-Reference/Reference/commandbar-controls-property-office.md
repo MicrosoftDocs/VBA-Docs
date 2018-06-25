@@ -24,7 +24,7 @@ Gets a  **CommandBarControls** object that represents all the controls on a comm
 
 ## Syntax
 
- _expression_. **Controls**
+ _expression_. `Controls`
 
  _expression_ A variable that represents a **CommandBar** object.
 

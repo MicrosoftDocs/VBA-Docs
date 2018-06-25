@@ -18,7 +18,7 @@ Gets the ID of a policy item.  **PolicyItem** objects are contained in **ServerP
 
 ## Syntax
 
- _expression_. **Id**
+ _expression_. `Id`
 
  _expression_ An expression that returns a **PolicyItem** object.
 

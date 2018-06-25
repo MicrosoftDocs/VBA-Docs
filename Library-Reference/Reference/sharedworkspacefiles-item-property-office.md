@@ -21,7 +21,7 @@ Gets a  **SharedWorkspaceFile** object from the **Files** collection of the shar
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceFiles](sharedworkspacefiles-object-office.md)** object. The specified **SharedWorkspaceFiles** collection.
 

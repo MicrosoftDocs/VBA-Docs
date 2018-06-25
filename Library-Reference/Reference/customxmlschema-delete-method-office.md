@@ -18,7 +18,7 @@ Deletes the specified schema from the  **CustomXMLSchema** collection.
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. `Delete`
 
  _expression_ An expression that returns a **CustomXMLSchema** object.
 

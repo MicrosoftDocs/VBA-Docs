@@ -15,7 +15,7 @@ Retrieves the unique Id of the associated SmartArt quick style. Read-only
 
 ## Syntax
 
- _expression_. **Id**
+ _expression_. `Id`
 
  _expression_ An expression that returns a **SmartArtQuickStyle** object.
 

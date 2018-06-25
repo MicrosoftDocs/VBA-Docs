@@ -21,7 +21,7 @@ Gets a  **[SharedWorkspaceFolders](sharedworkspacefolders-object-office.md)** co
 
 ## Syntax
 
- _expression_. **Folders**
+ _expression_. `Folders`
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 

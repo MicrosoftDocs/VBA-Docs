@@ -24,7 +24,7 @@ Gets  **True** if the specified command bar is a built-in command bar of the con
 
 ## Syntax
 
- _expression_. **BuiltIn**
+ _expression_. `BuiltIn`
 
  _expression_ A variable that represents a **CommandBar** object.
 

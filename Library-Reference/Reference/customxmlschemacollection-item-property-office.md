@@ -18,7 +18,7 @@ Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collec
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a **CustomXMLSchemaCollection** object.
 

@@ -24,7 +24,7 @@ Gets or sets the height of a  **CommandBar**. Read/write.
 
 ## Syntax
 
- _expression_. **Height**
+ _expression_. `Height`
 
  _expression_ A variable that represents a **CommandBar** object.
 

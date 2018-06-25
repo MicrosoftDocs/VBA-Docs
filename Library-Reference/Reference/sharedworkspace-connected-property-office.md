@@ -21,7 +21,7 @@ Gets a  **Boolean** value that indicates whether or not the active document is c
 
 ## Syntax
 
- _expression_. **Connected**
+ _expression_. `Connected`
 
  _expression_ A variable that represents a **SharedWorkspace** object.
 

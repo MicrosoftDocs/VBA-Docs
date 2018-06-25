@@ -18,7 +18,7 @@ Gets a  **UserPermission** object that is a member of the **Permission** collect
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[Permission](permission-object-office.md)** object. An item that returns a **Permission** object.
 

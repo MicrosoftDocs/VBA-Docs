@@ -18,7 +18,7 @@ Gets or sets the file or Web site URL to visit or the e-mail address to contact 
 
 ## Syntax
 
- _expression_. **RequestPermissionURL**
+ _expression_. `RequestPermissionURL`
 
  _expression_ A variable that represents a **Permission** object.
 

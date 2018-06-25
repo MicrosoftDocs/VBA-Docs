@@ -21,7 +21,7 @@ Runs the procedure or built-in command assigned to the specified  **CommandBarCo
 
 ## Syntax
 
- _expression_. **Execute**
+ _expression_. `Execute`
 
  _expression_ Required. A variable that represents a **[CommandBarControl](commandbarcontrol-object-office.md)** object.
 

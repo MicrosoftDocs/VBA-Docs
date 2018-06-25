@@ -18,7 +18,7 @@ Refreshes the  **Document Actions** task pane for the active document in Microso
 
 ## Syntax
 
- _expression_. **RefreshPane**
+ _expression_. `RefreshPane`
 
  _expression_ A variable that represents a **SmartDocument** object.
 

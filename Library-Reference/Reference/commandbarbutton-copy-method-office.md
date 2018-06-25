@@ -21,7 +21,7 @@ Copies a command bar button control to an existing command bar.
 
 ## Syntax
 
- _expression_. **Copy**( **_Bar_**, **_Before_** )
+ _expression_. `Copy`( `_Bar_`, `_Before_` )
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

@@ -18,7 +18,7 @@ Creates a signature packet when digitally signing a document.
 
 ## Syntax
 
- _expression_. **AddNonVisibleSignature**( **_varSigProv_** )
+ _expression_. `AddNonVisibleSignature`( `_varSigProv_` )
 
  _expression_ An expression that returns a **SignatureSet** object.
 

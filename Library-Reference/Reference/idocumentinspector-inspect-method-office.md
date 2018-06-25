@@ -15,7 +15,7 @@ Inspects a document for specific information items or document properties by usi
 
 ## Syntax
 
- _expression_. **Inspect**( **_Doc_**, **_Status_**, **_Result_**, **_Action_** )
+ _expression_. `Inspect`( `_Doc_`, `_Status_`, `_Result_`, `_Action_` )
 
  _expression_ An expression that returns a **IDocumentInspector** object.
 

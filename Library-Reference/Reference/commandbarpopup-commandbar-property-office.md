@@ -24,7 +24,7 @@ Gets a  **CommandBar** object that represents the menu displayed by the specifie
 
 ## Syntax
 
- _expression_. **CommandBar**
+ _expression_. `CommandBar`
 
  _expression_ A variable that represents a **CommandBarPopup** object.
 

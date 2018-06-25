@@ -21,7 +21,7 @@ Gets a  **SharedWorkspaceMember** object from the Members collection of the shar
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceMembers](sharedworkspacemembers-object-office.md)** object. The specified **SharedWorkspaceMembers** collection.
 

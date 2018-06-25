@@ -15,7 +15,7 @@ Retrieves a  **EffectParameter** object at the specified index or with the speci
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a **EffectParameters** object.
 

@@ -21,7 +21,7 @@ Gets the type of  **CommandBarComboBox** control. Read-only.
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_. `Type`
 
  _expression_ Required. A variable that represents a **[CommandBarComboBox](commandbarcombobox-object-office.md)** object.
 

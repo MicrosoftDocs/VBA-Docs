@@ -18,7 +18,7 @@ Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLPa
 
 ## Syntax
 
- _expression_. **PartBeforeDelete**( **_OldPart_**, )
+ _expression_. `PartBeforeDelete`( `_OldPart_`, )
 
  _expression_ An expression that returns a **CustomXMLParts** object.
 

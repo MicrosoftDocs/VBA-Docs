@@ -21,7 +21,7 @@ Gets the horizontal position of the specified  **CommandBarControl** (in pixels)
 
 ## Syntax
 
- _expression_. **Left**
+ _expression_. `Left`
 
  _expression_ Required. A variable that represents a **[CommandBarControl](commandbarcontrol-object-office.md)** object.
 

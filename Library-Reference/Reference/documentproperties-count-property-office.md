@@ -18,7 +18,7 @@ Gets a  **Long** indicating the number of items in the **DocumentProperties** co
 
 ## Syntax
 
- _expression_. **Count**( **_pc_** )
+ _expression_. `Count`( `_pc_` )
 
  _expression_ A variable that represents a **DocumentProperties** object.
 

@@ -15,7 +15,7 @@ Specifies the position of a Picture Effect in a chain of composite effects. Read
 
 ## Syntax
 
- _expression_. **Position**
+ _expression_. `Position`
 
  _expression_ An expression that returns a **PictureEffect** object.
 

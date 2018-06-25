@@ -18,7 +18,7 @@ Occurs just after a node is replaced in a  **CustomXMLPart** object.
 
 ## Syntax
 
- _expression_. **NodeAfterReplace**( **_OldNode_**, **_NewNode_**, **_InUndoRedo_** )
+ _expression_. `NodeAfterReplace`( `_OldNode_`, `_NewNode_`, `_InUndoRedo_` )
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

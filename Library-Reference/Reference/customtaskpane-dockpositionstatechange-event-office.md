@@ -18,7 +18,7 @@ Occurs when the user changes the docking position of the active custom task pane
 
 ## Syntax
 
- _expression_. **DockPositionStateChange**( **_CustomTaskPaneInst_**, )
+ _expression_. `DockPositionStateChange`( `_CustomTaskPaneInst_`, )
 
  _expression_ An expression that returns a **CustomTaskPane** object.
 

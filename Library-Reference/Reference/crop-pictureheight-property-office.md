@@ -15,7 +15,7 @@ Gets or sets the height of the image that is to be cropped. Read/write.
 
 ## Syntax
 
- _expression_. **PictureHeight**
+ _expression_. `PictureHeight`
 
  _expression_ An expression that returns a **Crop** object.
 

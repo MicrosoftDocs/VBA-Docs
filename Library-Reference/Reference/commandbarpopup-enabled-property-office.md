@@ -21,7 +21,7 @@ Is  **True** if the **CommandBarPopup** is enabled. Read/write.
 
 ## Syntax
 
- _expression_. **Enabled**
+ _expression_. `Enabled`
 
  _expression_ A variable that represents a **CommandBarPopup** object.
 

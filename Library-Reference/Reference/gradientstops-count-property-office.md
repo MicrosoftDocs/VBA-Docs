@@ -15,7 +15,7 @@ Gets a  **Long** indicating the number of items in the **GradientStops** collect
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. `Count`
 
  _expression_ An expression that returns a **GradientStops** object.
 

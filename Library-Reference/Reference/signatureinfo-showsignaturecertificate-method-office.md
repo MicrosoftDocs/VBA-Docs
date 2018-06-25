@@ -18,7 +18,7 @@ Displays the selected or default digital certificate.
 
 ## Syntax
 
- _expression_. **ShowSignatureCertificate**( **_ParentWindow_** )
+ _expression_. `ShowSignatureCertificate`( `_ParentWindow_` )
 
  _expression_ An expression that returns a **SignatureInfo** object.
 

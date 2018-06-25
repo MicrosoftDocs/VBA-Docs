@@ -15,7 +15,7 @@ Gets or sets the type of the  **TabStop2** object. Read/write.
 
 ## Syntax
 
- _expression_. **Type**
+ _expression_. `Type`
 
  _expression_ An expression that returns a **TabStop2** object.
 

@@ -24,7 +24,7 @@ Gets or sets a  **Boolean** value that specifies whether the specified **Command
 
 ## Syntax
 
- _expression_. **Enabled**
+ _expression_. `Enabled`
 
  _expression_ A variable that represents a **[CommandBar](commandbar-object-office.md)** object.
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. **HorizontalAnchor**
+ _expression_. `HorizontalAnchor`
 
  _expression_ An expression that returns a **TextFrame2** object.
 

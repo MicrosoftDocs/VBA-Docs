@@ -21,7 +21,7 @@ Provides access to the  **SharedWorkspaceFile** objects in the **SharedWorkspace
 
 ## Syntax
 
- _expression_. **Files**
+ _expression_. `Files`
 
  _expression_ A variable that represents a **[SharedWorkspace](sharedworkspace-object-office.md)** object.
 

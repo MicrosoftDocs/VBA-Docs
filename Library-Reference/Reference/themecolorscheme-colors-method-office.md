@@ -15,7 +15,7 @@ Gets an object that represents a color in the color scheme of a Microsoft Office
 
 ## Syntax
 
- _expression_. **Colors**( **_Index_** )
+ _expression_. `Colors`( `_Index_` )
 
  _expression_ An expression that returns a **ThemeColorScheme** object.
 

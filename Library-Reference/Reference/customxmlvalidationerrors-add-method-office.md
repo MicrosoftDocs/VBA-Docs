@@ -18,7 +18,7 @@ Adds a  **CustomXMLValidationError** object containing an XML validation error t
 
 ## Syntax
 
- _expression_. **Add**( **_Node_**, **_ErrorName_**, **_ErrorText_**, **_ClearedOnUpdate_** )
+ _expression_. `Add`( `_Node_`, `_ErrorName_`, `_ErrorText_`, `_ClearedOnUpdate_` )
 
  _expression_ An expression that returns a **CustomXMLValidationErrors** object.
 

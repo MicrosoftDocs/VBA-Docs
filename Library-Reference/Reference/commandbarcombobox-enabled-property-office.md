@@ -21,7 +21,7 @@ Gets or sets a  **Boolean** value that specifies whether the **CommandBarComboBo
 
 ## Syntax
 
- _expression_. **Enabled**
+ _expression_. `Enabled`
 
  _expression_ A variable that represents a **[CommandBarComboBox](commandbarcombobox-object-office.md)** object.
 

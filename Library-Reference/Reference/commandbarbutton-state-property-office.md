@@ -18,7 +18,7 @@ Gets or sets the appearance of a CommandBarButton control. Read/write.
 
 ## Syntax
 
- _expression_. **State**
+ _expression_. `State`
 
  _expression_ Required. A variable that represents a **[CommandBarButton](commandbarbutton-object-office.md)** object.
 

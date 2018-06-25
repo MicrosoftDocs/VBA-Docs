@@ -18,7 +18,7 @@ Creates an empty  **PickerResults** object.
 
 ## Syntax
 
- _expression_. **CreatePickerResults**
+ _expression_. `CreatePickerResults`
 
  _expression_ An expression that returns a **PickerDialog** object.
 

@@ -18,7 +18,7 @@ Deletes the current  **CustomXMLPart** from the data store ( **IXMLDataStore** i
 
 ## Syntax
 
- _expression_. **Delete**
+ _expression_. `Delete`
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

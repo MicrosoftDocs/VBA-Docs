@@ -15,7 +15,7 @@ Returns an  **EffectParameter** object. Read-only
 
 ## Syntax
 
- _expression_. **EffectParameters**
+ _expression_. `EffectParameters`
 
  _expression_ An expression that returns a **PictureEffect** object.
 

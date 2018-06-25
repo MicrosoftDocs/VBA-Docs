@@ -21,7 +21,7 @@ Gets the status of the synchronization of the local copy of the active document 
 
 ## Syntax
 
- _expression_. **Status**
+ _expression_. `Status`
 
  _expression_ Required. A variable that represents a **[Sync](sync-object-office.md)** object.
 

@@ -18,7 +18,7 @@ Inserts the specified subtree into the location just before the context node.
 
 ## Syntax
 
- _expression_. **InsertSubtreeBefore**( **_XML_**, **_NextSibling_** )
+ _expression_. `InsertSubtreeBefore`( `_XML_`, `_NextSibling_` )
 
  _expression_ An expression that returns a **CustomXMLNode** object.
 

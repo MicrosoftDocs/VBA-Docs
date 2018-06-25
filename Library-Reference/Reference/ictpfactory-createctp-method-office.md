@@ -18,7 +18,7 @@ Creates an instance of a custom task pane.
 
 ## Syntax
 
- _expression_. **CreateCTP**( **_CTPAxID_**, **_CTPTitle_**, **_CTPParentWindow_** )
+ _expression_. `CreateCTP`( `_CTPAxID_`, `_CTPTitle_`, `_CTPParentWindow_` )
 
  _expression_ An expression that returns a **ICTPFactory** object.
 

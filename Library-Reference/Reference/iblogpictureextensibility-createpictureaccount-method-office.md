@@ -18,7 +18,7 @@ Allows a picture provider to display the user interface needed to guide the user
 
 ## Syntax
 
- _expression_. **CreatePictureAccount**( **_Account_**, **_BlogProvider_**, **_ParentWindow_**, **_Document_**, **_userName_**, **_Password_** )
+ _expression_. `CreatePictureAccount`( `_Account_`, `_BlogProvider_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_` )
 
  _expression_ An expression that returns a **IBlogPictureExtensibility** object.
 

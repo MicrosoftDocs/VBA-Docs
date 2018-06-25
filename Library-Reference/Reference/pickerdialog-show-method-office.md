@@ -18,7 +18,7 @@ Displays the Picker Dialog with already specified data handler and given options
 
 ## Syntax
 
- _expression_. **Show**( **_IsMultiSelect_**, **_ExistingResults_** )
+ _expression_. `Show`( `_IsMultiSelect_`, `_ExistingResults_` )
 
  _expression_ An expression that returns a **PickerDialog** object.
 

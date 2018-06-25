@@ -21,7 +21,7 @@ Adds a member to the list of members in a shared workspace site. Returns a  **[S
 
 ## Syntax
 
- _expression_. **Add**( **_Email_**, **_DomainName_**, **_DisplayName_**, **_Role_** )
+ _expression_. `Add`( `_Email_`, `_DomainName_`, `_DisplayName_`, `_Role_` )
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceMembers](sharedworkspacemembers-object-office.md)** object.
 

@@ -18,7 +18,7 @@ Applies a filter to a mail merge data source to filter specified records meeting
 
 ## Syntax
 
- _expression_. **ApplyFilter**
+ _expression_. `ApplyFilter`
 
  _expression_ A variable that represents an **OfficeDataSourceObject** object.
 

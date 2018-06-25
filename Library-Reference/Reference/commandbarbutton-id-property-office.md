@@ -21,7 +21,7 @@ Gets the ID for a built-in  **CommandBarButton** control. Read-only.
 
 ## Syntax
 
- _expression_. **Id**
+ _expression_. `Id`
 
  _expression_ Required. A variable that represents a **[CommandBarButton](commandbarbutton-object-office.md)** object.
 

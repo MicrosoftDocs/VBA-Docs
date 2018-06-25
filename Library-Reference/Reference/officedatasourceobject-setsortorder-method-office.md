@@ -18,7 +18,7 @@ Sets the sort order for mail merge data.
 
 ## Syntax
 
- _expression_. **SetSortOrder**( **_SortField1_**, **_SortAscending1_**, **_SortField2_**, **_SortAscending2_**, **_SortField3_**, **_SortAscending3_** )
+ _expression_. `SetSortOrder`( `_SortField1_`, `_SortAscending1_`, `_SortField2_`, `_SortAscending2_`, `_SortField3_`, `_SortAscending3_` )
 
  _expression_ A variable that represents an **OfficeDataSourceObject** object.
 

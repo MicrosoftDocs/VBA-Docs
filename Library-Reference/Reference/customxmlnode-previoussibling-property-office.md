@@ -18,7 +18,7 @@ Gets the previous sibling node (element, comment, or processing instruction) of 
 
 ## Syntax
 
- _expression_. **PreviousSibling**
+ _expression_. `PreviousSibling`
 
  _expression_ An expression that returns a **CustomXMLNode** object.
 

@@ -24,7 +24,7 @@ Occurs when the end user changes the selection in a  **CommandBar** combo box.
 
 ## Syntax
 
- _expression_. **Change**( **_ByVal Ctrl As CommandBarComboBox_** )
+ _expression_. `Change`( `_ByVal Ctrl As CommandBarComboBox_` )
 
  _expression_ A variable that represents a **CommandBarComboBox** object.
 

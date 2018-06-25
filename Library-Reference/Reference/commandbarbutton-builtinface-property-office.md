@@ -24,7 +24,7 @@ Is  **True** if the face of a command bar button control is its original built-i
 
 ## Syntax
 
- _expression_. **BuiltInFace**
+ _expression_. `BuiltInFace`
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

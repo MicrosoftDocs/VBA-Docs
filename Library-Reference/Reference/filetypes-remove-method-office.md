@@ -18,7 +18,7 @@ Removes a  **FileType** object from the collection.
 
 ## Syntax
 
- _expression_. **Remove**( **_Index_** )
+ _expression_. `Remove`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[FileTypes](filetypes-object-office.md)** object.
 

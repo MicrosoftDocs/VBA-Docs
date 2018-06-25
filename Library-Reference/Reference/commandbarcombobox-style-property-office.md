@@ -24,7 +24,7 @@ Gets or sets the way a  **CommandBarComboBox** control is displayed. Can be eith
 
 ## Syntax
 
- _expression_. **Style**
+ _expression_. `Style`
 
  _expression_ A variable that represents a **[CommandBarComboBox](commandbarcombobox-object-office.md)** object.
 

@@ -18,7 +18,7 @@ Queries the signature provider add-in for various details.
 
 ## Syntax
 
- _expression_. **GetProviderDetail**( **_sigprovdet_** )
+ _expression_. `GetProviderDetail`( `_sigprovdet_` )
 
  _expression_ An expression that returns a **SignatureProvider** object.
 

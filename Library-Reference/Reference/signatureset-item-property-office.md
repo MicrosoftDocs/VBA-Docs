@@ -18,7 +18,7 @@ Gets a  **Signature** object that corresponds to one of the digital signatures w
 
 ## Syntax
 
- _expression_. **Item**( **_iSig_** )
+ _expression_. `Item`( `_iSig_` )
 
  _expression_ Required. A variable that represents a **[SignatureSet](signatureset-object-office.md)** object.
 

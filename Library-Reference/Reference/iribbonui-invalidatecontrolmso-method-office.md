@@ -18,7 +18,7 @@ Used to invalidate a built-in control.
 
 ## Syntax
 
- _expression_. **InvalidateControlMso**( **_ControlID_** )
+ _expression_. `InvalidateControlMso`( `_ControlID_` )
 
  _expression_ An expression that returns a **IRibbonUI** object.
 

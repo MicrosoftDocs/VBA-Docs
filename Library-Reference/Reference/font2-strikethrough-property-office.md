@@ -15,7 +15,7 @@ Gets or sets a value specifying the text should be rendered in a strikethrough a
 
 ## Syntax
 
- _expression_. **StrikeThrough**
+ _expression_. `StrikeThrough`
 
  _expression_ An expression that returns a **Font2** object.
 

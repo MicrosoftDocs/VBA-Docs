@@ -15,7 +15,7 @@ Returns or sets a value that specifies if the text on a shape is rotated if the 
 
 ## Syntax
 
- _expression_. **NoTextRotation**
+ _expression_. `NoTextRotation`
 
  _expression_ An expression that returns a **TextFrame2** object.
 

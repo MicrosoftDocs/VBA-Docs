@@ -24,7 +24,7 @@ Occurs when the user clicks a  **CommandBarButton** object.
 
 ## Syntax
 
- _expression_. **Click**( **_Ctrl_**, **_CancelDefault_** )
+ _expression_. `Click`( `_Ctrl_`, `_CancelDefault_` )
 
  _expression_ A variable that represents a **CommandBarButton** object.
 

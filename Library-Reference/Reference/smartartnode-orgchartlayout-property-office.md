@@ -15,7 +15,7 @@ Retrieves or sets the  **MsoOrgChartLayoutType** associated with this node if th
 
 ## Syntax
 
- _expression_. **OrgChartLayout**
+ _expression_. `OrgChartLayout`
 
  _expression_ An expression that returns a **SmartArtNode** object.
 

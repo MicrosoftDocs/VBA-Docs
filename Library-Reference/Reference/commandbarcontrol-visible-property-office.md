@@ -21,7 +21,7 @@ Gets or sets the  **Visible** property of the **CommandBarControl**. **True** if
 
 ## Syntax
 
- _expression_. **Visible**
+ _expression_. `Visible`
 
  _expression_ A variable that represents a **CommandBarControl** object.
 

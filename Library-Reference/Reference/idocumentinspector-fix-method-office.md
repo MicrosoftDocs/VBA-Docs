@@ -15,7 +15,7 @@ Performs some action on specific information items or document properties by usi
 
 ## Syntax
 
- _expression_. **Fix**( **_Doc_**, **_Hwnd_**, **_Status_**, **_Result_** )
+ _expression_. `Fix`( `_Doc_`, `_Hwnd_`, `_Status_`, `_Result_` )
 
  _expression_ An expression that returns a **IDocumentInspector** object.
 

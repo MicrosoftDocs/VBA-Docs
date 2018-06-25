@@ -15,7 +15,7 @@ Removes a gradient stop.
 
 ## Syntax
 
- _expression_. **Delete**( **_Index_** )
+ _expression_. `Delete`( `_Index_` )
 
  _expression_ An expression that returns a **GradientStops** object.
 

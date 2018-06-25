@@ -18,7 +18,7 @@ Inspects a document for specific information or document properties.
 
 ## Syntax
 
- _expression_. **Inspect**( **_Status_**, **_Results_** )
+ _expression_. `Inspect`( `_Status_`, `_Results_` )
 
  _expression_ An expression that returns a **DocumentInspector** object.
 

@@ -15,7 +15,7 @@ Gets an individual object from the  **TabStops2** collection.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a **TabStops2** object.
 

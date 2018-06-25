@@ -15,7 +15,7 @@ Adds a new SmartArtNode to the data model in the way specified by the SmartArtNo
 
 ## Syntax
 
- _expression_. **AddNode**( **_Position_**, **_Type_** )
+ _expression_. `AddNode`( `_Position_`, `_Type_` )
 
  _expression_ An expression that returns a **SmartArtNode** object.
 

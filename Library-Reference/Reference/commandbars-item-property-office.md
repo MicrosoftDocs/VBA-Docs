@@ -24,7 +24,7 @@ Gets a  **CommandBar** object from the **CommandBars** collection. Read-only.
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[CommandBars](commandbars-object-office.md)** object.
 

@@ -18,7 +18,7 @@ Gets or sets an object reference. Read/write.
 
 ## Syntax
 
- _expression_. **Object**
+ _expression_. `Object`
 
  _expression_ A variable that represents a **COMAddIn** object.
 

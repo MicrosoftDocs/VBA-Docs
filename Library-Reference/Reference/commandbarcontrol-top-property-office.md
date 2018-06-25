@@ -21,7 +21,7 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarCo
 
 ## Syntax
 
- _expression_. **Top**
+ _expression_. `Top`
 
  _expression_ Required. A variable that represents a **[CommandBarControl](commandbarcontrol-object-office.md)** object.
 

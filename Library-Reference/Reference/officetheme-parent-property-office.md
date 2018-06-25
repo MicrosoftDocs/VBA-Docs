@@ -15,7 +15,7 @@ Gets the  **Parent** object for the **OfficeTheme** object. Read-only.
 
 ## Syntax
 
- _expression_. **Parent**
+ _expression_. `Parent`
 
  _expression_ An expression that returns a **OfficeTheme** object.
 

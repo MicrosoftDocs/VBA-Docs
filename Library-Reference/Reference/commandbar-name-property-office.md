@@ -24,7 +24,7 @@ Gets the name of the built-in  **CommandBar** object. Read-only.
 
 ## Syntax
 
- _expression_. **Name**
+ _expression_. `Name`
 
  _expression_ A variable that represents a **[CommandBar](commandbar-object-office.md)** object.
 

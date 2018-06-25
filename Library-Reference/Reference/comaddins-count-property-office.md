@@ -18,7 +18,7 @@ Gets a count of the number of COM add-ins in the host application. Read-only.
 
 ## Syntax
 
- _expression_. **Count**
+ _expression_. `Count`
 
  _expression_ An expression that returns a **COMAddIns** object.
 

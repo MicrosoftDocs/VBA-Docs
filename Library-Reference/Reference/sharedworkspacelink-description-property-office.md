@@ -21,7 +21,7 @@ Gets or sets a descriptive  **String** value for the specified **SharedWorkspace
 
 ## Syntax
 
- _expression_. **Description**
+ _expression_. `Description`
 
  _expression_ Required. A variable that represents a **SharedWorkspaceLink** object.
 

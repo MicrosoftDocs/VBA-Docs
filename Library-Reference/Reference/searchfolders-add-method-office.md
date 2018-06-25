@@ -18,7 +18,7 @@ Adds a search folder to a file search.
 
 ## Syntax
 
- _expression_. **Add**( **_ScopeFolder_** )
+ _expression_. `Add`( `_ScopeFolder_` )
 
  _expression_ Required. A variable that represents a **[SearchFolders](searchfolders-object-office.md)** object.
 

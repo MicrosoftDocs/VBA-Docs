@@ -21,7 +21,7 @@ Gets a  **SharedWorkspaceLink** object from the **Links** collection of the shar
 
 ## Syntax
 
- _expression_. **Item**( **_Index_** )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a **[SharedWorkspaceLinks](sharedworkspacelinks-object-office.md)** object. The specified **SharedWorkspaceLinks** collection.
 

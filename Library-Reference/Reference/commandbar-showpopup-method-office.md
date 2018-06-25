@@ -24,7 +24,7 @@ Displays a command bar as a shortcut menu at the specified coordinates or at the
 
 ## Syntax
 
- _expression_. **ShowPopup**( **_x_**, **_y_** )
+ _expression_. `ShowPopup`( `_x_`, `_y_` )
 
  _expression_ A variable that represents a **CommandBar** object.
 

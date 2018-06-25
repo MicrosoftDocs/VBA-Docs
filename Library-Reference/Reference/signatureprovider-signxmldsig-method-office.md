@@ -18,7 +18,7 @@ Used to sign the XMLDSIG template.
 
 ## Syntax
 
- _expression_. **SignXmlDsig**( **_QueryContinue_**, **_psigsetup_**, **_psiginfo_**, **_XmlDsigStream_** )
+ _expression_. `SignXmlDsig`( `_QueryContinue_`, `_psigsetup_`, `_psiginfo_`, `_XmlDsigStream_` )
 
  _expression_ An expression that returns a **SignatureProvider** object.
 

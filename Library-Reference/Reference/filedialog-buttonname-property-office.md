@@ -18,7 +18,7 @@ Sets or gets a  **String** representing the text that is displayed on the action
 
 ## Syntax
 
- _expression_. **ButtonName**
+ _expression_. `ButtonName`
 
  _expression_ A variable that represents a **FileDialog** object.
 

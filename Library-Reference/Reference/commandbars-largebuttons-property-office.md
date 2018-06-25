@@ -24,7 +24,7 @@ Is  **True** if the toolbar buttons displayed are larger than normal size. Read/
 
 ## Syntax
 
- _expression_. **LargeButtons**
+ _expression_. `LargeButtons`
 
  _expression_ A variable that represents a **CommandBars** object.
 

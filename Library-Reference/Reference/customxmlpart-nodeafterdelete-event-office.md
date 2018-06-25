@@ -18,7 +18,7 @@ Occurs after a node is deleted in a  **CustomXMLPart** object.
 
 ## Syntax
 
- _expression_. **NodeAfterDelete**( **_OldNode_**, **_OldParentNode_**, **_OldNextSibling_**, **_InUndoRedo_** )
+ _expression_. `NodeAfterDelete`( `_OldNode_`, `_OldParentNode_`, `_OldNextSibling_`, `_InUndoRedo_` )
 
  _expression_ An expression that returns a **CustomXMLPart** object.
 

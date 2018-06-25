@@ -18,7 +18,7 @@ Displays a specified detail related to a digital certificate.
 
 ## Syntax
 
- _expression_. **GetCertificateDetail**( **_certdet_** )
+ _expression_. `GetCertificateDetail`( `_certdet_` )
 
  _expression_ An expression that returns a **SignatureInfo** object.
 

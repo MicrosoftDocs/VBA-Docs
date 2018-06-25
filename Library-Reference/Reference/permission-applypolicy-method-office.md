@@ -18,7 +18,7 @@ Applies the specified permission policy to the active document.
 
 ## Syntax
 
- _expression_. **ApplyPolicy**( **_FileName_** )
+ _expression_. `ApplyPolicy`( `_FileName_` )
 
  _expression_ A variable that represents a **Permission** object.
 

@@ -15,7 +15,7 @@ Loads the color scheme of a Microsoft Office theme from a file.
 
 ## Syntax
 
- _expression_. **Load**( **_FileName_** )
+ _expression_. `Load`( `_FileName_` )
 
  _expression_ An expression that returns a **ThemeColorScheme** object.
 

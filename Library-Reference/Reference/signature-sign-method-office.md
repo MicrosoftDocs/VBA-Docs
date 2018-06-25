@@ -18,7 +18,7 @@ Creates a signature packet.
 
 ## Syntax
 
- _expression_. **Sign**( **_varSigImg_**, **_varDelSuggSigner_**, **_varDelSuggSignerLine2_**, **_varDelSuggSignerEmail_** )
+ _expression_. `Sign`( `_varSigImg_`, `_varDelSuggSigner_`, `_varDelSuggSignerLine2_`, `_varDelSuggSignerEmail_` )
 
  _expression_ An expression that returns a **Signature** object.
 
