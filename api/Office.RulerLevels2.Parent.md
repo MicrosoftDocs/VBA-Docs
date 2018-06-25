@@ -1,0 +1,36 @@
+---
+title: RulerLevels2.Parent Property (Office)
+ms.prod: office
+api_name:
+- Office.RulerLevels2.Parent
+ms.assetid: 000d8a65-c798-33d2-adc0-d38c44643aae
+ms.date: 06/08/2017
+---
+
+
+# RulerLevels2.Parent Property (Office)
+
+Gets the  **Parent** object for the **RulerLevels2** object. Read-only.
+
+
+## Syntax
+
+ _expression_. `Parent`
+
+ _expression_ An expression that returns a [RulerLevels2](./Office.RulerLevels2.md) object.
+
+
+### Return Value
+
+Object
+
+
+## See also
+
+
+[RulerLevels2 Object](Office.RulerLevels2.md)
+#### Other resources
+
+
+[RulerLevels2 Object Members](./overview/rulerlevels2-members-office.md)
+
