@@ -27,9 +27,9 @@ The following VBA commands are new and unique to Office 2016 for Mac.
 
 |**Command**|**Use to**|
 |:-----|:-----|
-|[GrantAccessToMultipleFiles](Office-Mac/GrantAccessToMultipleFiles.md)|Request a user's permission to access multiple files at once.|
-|[AppleScriptTask](Office-Mac/AppleScriptTask.md)|Call external AppleScript scripts from VB.|
-|[MAC_OFFICE_VERSION](Office-Mac/MacOfficeVersion.md)|IFDEF between different Mac Office versions at compile time.|
+|[GrantAccessToMultipleFiles](../../Office-Mac/GrantAccessToMultipleFiles.md)|Request a user's permission to access multiple files at once.|
+|[AppleScriptTask](../../Office-Mac/AppleScriptTask.md)|Call external AppleScript scripts from VB.|
+|[MAC_OFFICE_VERSION](../../Office-Mac/MacOfficeVersion.md)|IFDEF between different Mac Office versions at compile time.|
 
 ## Ribbon customization in Office for Mac
 
@@ -48,6 +48,6 @@ Office 2016 for Mac supports ribbon customization using Ribbon XML. Note that th
 For information about the idMSOs that are compatible with Office 2016 for Mac, see the following:
 <a name="idMSOs-compatible-with-Office-2016-for-Mac"></a>
 
-- [idMSOs supported in Excel for Mac](Office-Mac/idMSOExcelMac.md)
-- [idMSOs supported in PowerPoint for Mac](Office-Mac/idMSOPowerPointMac.md)
-- [idMSOs supported in Word for Mac](Office-Mac/idMSOWordMac.md)
+- [idMSOs supported in Excel for Mac](../../Office-Mac/idMSOExcelMac.md)
+- [idMSOs supported in PowerPoint for Mac](../../Office-Mac/idMSOPowerPointMac.md)
+- [idMSOs supported in Word for Mac](../../Office-Mac/idMSOWordMac.md)
