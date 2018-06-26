@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Displays a command bar as a shortcut menu at the specified coordinates or at the current pointer coordinates.
 
 
-## 
+
 
 
  **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."

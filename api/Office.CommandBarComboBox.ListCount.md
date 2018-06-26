@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Gets the number of list items in a  **CommandBarComboBox** control. Read-only.
 
 
-## 
+
 
 
  **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."

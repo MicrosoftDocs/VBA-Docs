@@ -54,7 +54,7 @@ You can't save a module with the same name as a type library. If you try to save
 If a field in the table has the same name as an ActiveX Data Objects (ADO) method on an ADO  **Recordset** object, or a Data Access Object (DAO) method on a DAO **Recordset** object, you can't refer to the corresponding field in the recordset with the . (dot) syntax. You must use the ! (exclamation point) syntax, or Access will generate an error. The following example shows how to refer to a field called AddNew in a recordset opened on a table called Contacts:
 
 
-## 
+
 
 
 ```vb
@@ -66,7 +66,7 @@ Debug.Print rst!AddNew
 ```
 
 
-## 
+
 
 
 ```vb

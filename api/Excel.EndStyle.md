@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 Returns or sets the end style for the error bars. Read/write  **XlEndStyleCap**.
 
 
-## 
+
 
 
 
