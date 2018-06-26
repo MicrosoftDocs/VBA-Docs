@@ -13,7 +13,7 @@ Microsoft Outlook allows you to create customizable views that allow you to bett
 
 |**Object name**|**Description**|
 |:-----|:-----|
-| **[BusinessCardView](business../../../api/Outlook.CardView.md)**|This object allows you to view data as a series of Electronic Business Card (EBC) images.|
+| **[BusinessCardView](../../../api/Outlook.CardView.md)**|This object allows you to view data as a series of Electronic Business Card (EBC) images.|
 | **[CalendarView](../../../api/Outlook.CalendarView.md)**|This object allows you to view data in a calendar format.|
 | **[CardView](../../../api/Outlook.CardView.md)**|This object allows you to view data in a series of cards.|
 | **[IconView](../../../api/Outlook.IconView.md)**|This object allows you to view data as icons, similar to a Windows folder or explorer.|

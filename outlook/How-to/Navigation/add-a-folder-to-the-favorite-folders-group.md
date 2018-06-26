@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Add a Folder to the Favorite Folders Group
 
-You can add a folder to the  **Favorite Folders** navigation group in Microsoft Outlook by using the **[Add](../../../api/Outlook.NavigationFolders.Add.md)** method of the **[NavigationFolders](navigation../../../api/Outlook.Folders.md)** collection for a **[NavigationGroup](../../../api/Outlook.NavigationGroup.md)** object. The **Add** method accepts a **[Folder](../../../api/Outlook.Folder.md)** object reference, to which the custom navigation folder is associated.
+You can add a folder to the  **Favorite Folders** navigation group in Microsoft Outlook by using the **[Add](../../../api/Outlook.NavigationFolders.Add.md)** method of the **[NavigationFolders](../../../api/Outlook.Folders.md)** collection for a **[NavigationGroup](../../../api/Outlook.NavigationGroup.md)** object. The **Add** method accepts a **[Folder](../../../api/Outlook.Folder.md)** object reference, to which the custom navigation folder is associated.
 
 You can retrieve a  **NavigationGroup** object reference to the default navigation group for a specified navigation group type by using the **[GetDefaultNavigationGroup](../../../api/Outlook.NavigationGroups.GetDefaultNavigationGroup.md)** method of the **NavigationGroups** object.
 

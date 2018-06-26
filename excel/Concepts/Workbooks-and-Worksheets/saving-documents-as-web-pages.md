@@ -28,7 +28,7 @@ ActiveWorkbook.SaveAs _
 
 ## Customizing the Web Page
 
-You can customize the appearance, content, browser support, editing support, graphics formats, screen resolution, file organization, and encoding of the HTML document by setting properties of the  **[DefaultWebOptions](default../../../api/Excel.WebOptions.md)** object and the  **[WebOptions](../../../api/Excel.WebOptions.md)** object. The  **DefaultWebOptions** object contains application-level properties. These settings are overridden by any workbook-level property settings that have the same names (these are contained in the **WebOptions** object).
+You can customize the appearance, content, browser support, editing support, graphics formats, screen resolution, file organization, and encoding of the HTML document by setting properties of the  **[DefaultWebOptions](../../../api/Excel.WebOptions.md)** object and the  **[WebOptions](../../../api/Excel.WebOptions.md)** object. The  **DefaultWebOptions** object contains application-level properties. These settings are overridden by any workbook-level property settings that have the same names (these are contained in the **WebOptions** object).
 
 After setting the attributes, you can use the  **[Publish](../../../api/Excel.PublishObject.Publish.md)** method to save the workbook, worksheet, chart, range, query table, PivotTable report, print area, or AutoFilter range to a Web page. The following example sets various application-level properties and then sets the  **[AllowPNG](../../../api/Excel.WebOptions.AllowPNG.md)** property of the active workbook, overriding the application-level default setting. Finally, the example saves the range as "C:\Reports\1998_Q1.htm."
 

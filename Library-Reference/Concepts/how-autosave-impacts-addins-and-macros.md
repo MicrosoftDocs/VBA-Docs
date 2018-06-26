@@ -132,13 +132,13 @@ Such add-ins should ensure that AutoSave is turned off by setting AutoSaveOn to 
 
 ## See also
 
-- [Coauthoring in Excel](../../Excel-VBA/articles/about-coauthoring-in-excel.md)
+- [Coauthoring in Excel](../../excel/Concepts/about-coauthoring-in-excel.md)
 
-- [Document object](../../Word-VBA/articles/document-object-word.md)
+- [Document object](../../api/Word.Document.md)
 
-- [Presentation object](../../PowerPoint-VBA/articles/presentation-object-powerpoint.md)
+- [Presentation object](../../api/PowerPoint.Presentation.md)
 
-- [Workbook object](../../Excel-VBA/articles/workbook-object-excel.md)
+- [Workbook object](../../api/Excel.Workbook.md)
 
 #### Additional resources
 
@@ -146,24 +146,24 @@ Such add-ins should ensure that AutoSave is turned off by setting AutoSaveOn to 
 
 - [**AutoSaveOn** property in Excel][AutoSaveOn_Excel]
 
-- [**AfterSave** event in Excel](../../Excel-VBA/articles/application-workbookaftersave-event-excel.md)
+- [**AfterSave** event in Excel](../../api/Excel.Application.WorkbookAfterSave.md)
 
-- [**BeforeSave** event in Excel](../../Excel-VBA/articles/application-workbookbeforesave-event-excel.md)
+- [**BeforeSave** event in Excel](../../api/Excel.Application.WorkbookBeforeSave.md)
 
 - [**AutoSaveOn** property in PowerPoint][AutoSaveOn_PowerPoint]
 
-- [**BeforeSave** event in PowerPoint](../../PowerPoint-VBA/articles/application-presentationbeforesave-event-powerpoint.md)
+- [**BeforeSave** event in PowerPoint](../../api/PowerPoint.Application.PresentationBeforeSave.md)
 
 - [**AutoSaveOn** property in Word][AutoSaveOn_Word]
 
-- [**BeforeSave** event in Word](../..//Word-VBA/articles/application-documentbeforesave-event-word.md)
+- [**BeforeSave** event in Word](../../api/Word.Application.DocumentBeforeSave.md)
 
 [comment]: # (Local shared links)
 
 [AutoSaveArticle]: https://support.office.com/en-US/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5
 
-[AutoSaveOn_Excel]: ../../Excel-VBA/articles/workbook-autosaveon-property-excel.md
+[AutoSaveOn_Excel]: ../../api/Excel.Workbook.AutoSaveOn.md
 
-[AutoSaveOn_PowerPoint]: ../../PowerPoint-VBA/articles/presentation-autosaveon-property-powerpoint.md
+[AutoSaveOn_PowerPoint]: ../../api/PowerPoint.Presentation.AutoSaveOn.md
 
-[AutoSaveOn_Word]: ../../Word-VBA/articles/document-autosaveon-property-word.md
+[AutoSaveOn_Word]: ../../api/Word.Document.AutoSaveOn.md

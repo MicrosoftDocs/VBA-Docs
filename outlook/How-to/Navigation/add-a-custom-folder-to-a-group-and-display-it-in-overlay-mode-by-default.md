@@ -8,9 +8,9 @@ ms.date: 06/08/2017
 
 # Add a Custom Folder to a Group and Display it in Overlay Mode by Default
 
-You can add custom navigation folders to a navigation group in Microsoft Outlook by using the  **[Add](../../../api/Outlook.NavigationFolders.Add.md)** method of the **[NavigationFolders](navigation../../../api/Outlook.Folders.md)** collection for a **[NavigationGroup](../../../api/Outlook.NavigationGroup.md)** object. The **Add** method accepts a **[Folder](../../../api/Outlook.Folder.md)** object reference, to which the custom navigation folder is associated.
+You can add custom navigation folders to a navigation group in Microsoft Outlook by using the  **[Add](../../../api/Outlook.NavigationFolders.Add.md)** method of the **[NavigationFolders](../../../api/Outlook.Folders.md)** collection for a **[NavigationGroup](../../../api/Outlook.NavigationGroup.md)** object. The **Add** method accepts a **[Folder](../../../api/Outlook.Folder.md)** object reference, to which the custom navigation folder is associated.
 
-If the custom navigation folder is associated with a calendar folder, you can also use the  **[IsSideBySide](../../../api/Outlook.NavigationFolder.IsSideBySide.md)** property of the **[NavigationFolder](navigation../../../api/Outlook.Folder.md)** object to determine if the contents of the custom navigation folder are displayed in side-by-side or overlay mode.
+If the custom navigation folder is associated with a calendar folder, you can also use the  **[IsSideBySide](../../../api/Outlook.NavigationFolder.IsSideBySide.md)** property of the **[NavigationFolder](../../../api/Outlook.Folder.md)** object to determine if the contents of the custom navigation folder are displayed in side-by-side or overlay mode.
 
 This sample creates a new calendar folder for company events and adds a custom navigation folder for the new folder, configuring the custom navigation folder so that it is displayed by default in overlay mode.
 

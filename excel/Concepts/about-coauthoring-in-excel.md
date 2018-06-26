@@ -13,7 +13,7 @@ Coauthoring is available to all Excel Online users. This feature is also availab
 
 ## Introduction to coauthoring
 
-[Coauthoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, you can turn off AutoSave until you're ready to share your changes and receive others' changes.
+[Coauthoring](https://support.office.com/en-US/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104) allows you to edit a workbook hosted in the cloud (that is, OneDrive, OneDrive for Business, or SharePoint Online) simultaneously with other users. With each save, everyone editing the workbook at that time can see changes. With [AutoSave](../../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md) enabled, you can see everyone's changes to the workbook in real-time. If you're not ready for others to see your changes, you can turn off AutoSave until you're ready to share your changes and receive others' changes.
 
 ## Principles of coauthoring
 
@@ -61,7 +61,7 @@ Your add-in or macro may already subscribe to save or change events. With the in
 
 #### <a name="SaveEvents"></a>Save events
 
-You may experience issues when your code uses save events such as **BeforeSave** and **AfterSave**. For more information, see [Potential issues with save events and AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md#IssuesWithSaveEventsAndAutoSave).
+You may experience issues when your code uses save events such as **BeforeSave** and **AfterSave**. For more information, see [Potential issues with save events and AutoSave](../../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md#IssuesWithSaveEventsAndAutoSave).
 
 #### <a name="ChangeEvents"></a>Change events
 
@@ -160,7 +160,7 @@ Your add-in displays all current workbook tabs in a task pane for easy navigatio
 
 ## See also
 
-[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
+[AutoSave](../../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
 #### Additional resources
 
