@@ -18,11 +18,11 @@ Represents a set of item data from a  **[Folder](Outlook.Folder.md)** or **[Sear
 
 ## Remarks
 
-The  **Table** represents a read-only dynamic rowset of data in a **Folder** or **Search** object. You can use **[Folder.GetTable](http://msdn.microsoft.com/library/08d184cb-0c41-01b1-abc5-305476380f8b%28Office.15%29.aspx)** or **[Search.GetTable](http://msdn.microsoft.com/library/3aba6b77-73a3-9620-9c18-b2e03c7b63bc%28Office.15%29.aspx)** to obtain a **Table** object that represents a set of items in a folder or search folder. If the **Table** object is obtained from **Folder.GetTable**, you can further specify a filter (in **[Table.Restrict](http://msdn.microsoft.com/library/ecdd30f6-e12c-8025-3ded-592d2fad2bb8%28Office.15%29.aspx)** ) to obtain a subset of the items in the folder. If you do not specify any filter, you will obtain all the items in the folder.
+The  **Table** represents a read-only dynamic rowset of data in a **Folder** or **Search** object. You can use **[Folder.GetTable](./Outlook.Folder.GetTable.md)** or **[Search.GetTable](./Outlook.Search.GetTable.md)** to obtain a **Table** object that represents a set of items in a folder or search folder. If the **Table** object is obtained from **Folder.GetTable**, you can further specify a filter (in **[Table.Restrict](./Outlook.Table.Restrict.md)** ) to obtain a subset of the items in the folder. If you do not specify any filter, you will obtain all the items in the folder.
 
-By default, each item in the returned  **Table** contains only a default subset of its properties. You can regard each row of a **Table** as an item in the folder, each column as a property of the item, and the **Table** as an in-memory lightweight rowset that allows fast enumeration and filtering of items in the folder. Although additions and deletions of the underlying folder are reflected by the rows in the **Table**, the **Table** does not support any events for adding, changing, and removing of rows. If you require a writeable object from the **Table** row, obtain the Entry ID for that row from the default EntryID column in the **Table** and then use the **[GetItemFromID](http://msdn.microsoft.com/library/f2abff80-4c04-998b-654b-28600424a16f%28Office.15%29.aspx)** method of the **[NameSpace](Outlook.NameSpace.md)** object to obtain a full item, such as a **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)** or **[ContactItem](Outlook.ContactItem.md)**, that supports read-write operations. For more information on default columns in a **Table**, see[Default Properties Displayed in a Table Object](http://msdn.microsoft.com/library/649c64f3-2d1e-23f1-bf13-3368da79e62b%28Office.15%29.aspx).
+By default, each item in the returned  **Table** contains only a default subset of its properties. You can regard each row of a **Table** as an item in the folder, each column as a property of the item, and the **Table** as an in-memory lightweight rowset that allows fast enumeration and filtering of items in the folder. Although additions and deletions of the underlying folder are reflected by the rows in the **Table**, the **Table** does not support any events for adding, changing, and removing of rows. If you require a writeable object from the **Table** row, obtain the Entry ID for that row from the default EntryID column in the **Table** and then use the **[GetItemFromID](./Outlook.NameSpace.GetItemFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object to obtain a full item, such as a **[MailItem](./Outlook.MailItem.md)** or **[ContactItem](Outlook.ContactItem.md)**, that supports read-write operations. For more information on default columns in a **Table**, see[Default Properties Displayed in a Table Object](../outlook/How-to/Search-and-Filter/default-properties-displayed-in-a-table-object.md).
 
- For more information on the **Table** object, see[Enumerating, Searching, and Filtering Items in a Folder](http://msdn.microsoft.com/library/d786d292-7a0e-0e1a-e132-affbfde37744%28Office.15%29.aspx).
+ For more information on the **Table** object, see[Enumerating, Searching, and Filtering Items in a Folder](../outlook/How-to/Search-and-Filter/enumerating-searching-and-filtering-items-in-a-folder.md).
 
 
 ## Example
@@ -105,14 +105,14 @@ End Sub
 
 |**Name**|
 |:-----|
-|[FindNextRow](http://msdn.microsoft.com/library/e09019ca-e4bb-2597-7b9e-a56c1b5fce6c%28Office.15%29.aspx)|
-|[FindRow](http://msdn.microsoft.com/library/5722cf58-d026-007a-558f-90b73bad920d%28Office.15%29.aspx)|
-|[GetArray](http://msdn.microsoft.com/library/2594bb2e-290f-8e88-52d1-cd2b2191bbe3%28Office.15%29.aspx)|
-|[GetNextRow](http://msdn.microsoft.com/library/e01ddaa0-a869-2f52-5e46-84d4d4090e61%28Office.15%29.aspx)|
-|[GetRowCount](http://msdn.microsoft.com/library/06014c43-700a-8502-bad7-b3f93a22e870%28Office.15%29.aspx)|
-|[MoveToStart](http://msdn.microsoft.com/library/af499471-dd21-9374-7399-3ce977368015%28Office.15%29.aspx)|
-|[Restrict](http://msdn.microsoft.com/library/ecdd30f6-e12c-8025-3ded-592d2fad2bb8%28Office.15%29.aspx)|
-|[Sort](http://msdn.microsoft.com/library/4e4867c2-27b8-f920-59ce-b60116d22054%28Office.15%29.aspx)|
+|[FindNextRow](./Outlook.Table.FindNextRow.md)|
+|[FindRow](./Outlook.Table.FindRow.md)|
+|[GetArray](./Outlook.Table.GetArray.md)|
+|[GetNextRow](./Outlook.Table.GetNextRow.md)|
+|[GetRowCount](./Outlook.Table.GetRowCount.md)|
+|[MoveToStart](./Outlook.Table.MoveToStart.md)|
+|[Restrict](./Outlook.Table.Restrict.md)|
+|[Sort](./Outlook.Table.Sort.md)|
 
 ## Properties
 
@@ -120,15 +120,15 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/10e7611e-e3b3-a07c-da85-f8c270a37212%28Office.15%29.aspx)|
-|[Class](http://msdn.microsoft.com/library/bea314b0-9db9-ac67-a897-49e619da1066%28Office.15%29.aspx)|
-|[Columns](http://msdn.microsoft.com/library/57005ab1-ad49-296d-5b34-24dfd8f0987f%28Office.15%29.aspx)|
-|[EndOfTable](http://msdn.microsoft.com/library/8c185230-65ce-1b66-7b63-8de3533dea86%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/1c6a54ac-ba4d-72a2-0871-a3522582dbde%28Office.15%29.aspx)|
-|[Session](http://msdn.microsoft.com/library/8a17876d-6637-f30b-6c0f-32cfc8b77d51%28Office.15%29.aspx)|
+|[Application](./Outlook.Table.Application.md)|
+|[Class](./Outlook.Table.Class.md)|
+|[Columns](./Outlook.Table.Columns.md)|
+|[EndOfTable](./Outlook.Table.EndOfTable.md)|
+|[Parent](./Outlook.Table.Parent.md)|
+|[Session](./Outlook.Table.Session.md)|
 
 ## See also
 
 
 [Table Object Members](http://msdn.microsoft.com/library/bd9db35d-0738-22cf-a936-425d5a0ead87%28Office.15%29.aspx)
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

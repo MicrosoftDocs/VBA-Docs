@@ -24,7 +24,7 @@ To obtain an instance of the  **FormRegion** object, an add-in must implement th
 
 When the add-in closes the frame for the form region, the add-in must release the object for the form region.
 
-For more infomation on programming a form region, see [Extending a Form Region with an Add-in](http://msdn.microsoft.com/library/b1a28a20-a0b8-cc57-7672-da51ec8bb097%28Office.15%29.aspx).
+For more infomation on programming a form region, see [Extending a Form Region with an Add-in](../outlook/Concepts/Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md).
 
 
 ## Events
@@ -72,4 +72,4 @@ For more infomation on programming a form region, see [Extending a Form Region w
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

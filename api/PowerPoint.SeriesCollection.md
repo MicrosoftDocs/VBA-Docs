@@ -18,7 +18,7 @@ Represents a collection of all the  **[Series](PowerPoint.Series.md)** objects i
 
 ## Remarks
 
-Use the  **[SeriesCollection](http://msdn.microsoft.com/library/8adeb8b4-ba4f-6cdf-33bf-dceb1845dfb8%28Office.15%29.aspx)** method to return the **SeriesCollection** collection.
+Use the  **[SeriesCollection](./PowerPoint.Chart.SeriesCollection.md)** method to return the **SeriesCollection** collection.
 
 
 ## Example
@@ -28,7 +28,7 @@ Use the  **[SeriesCollection](http://msdn.microsoft.com/library/8adeb8b4-ba4f-6c
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
- Use the **[Extend](http://msdn.microsoft.com/library/f5ac6da3-90c7-d938-9a95-e87d228d901d%28Office.15%29.aspx)** method to extend an existing series. The following example adds the data in cells C6:C10 in the chart's worksheet to an existing series in the series collection of the chart.
+ Use the **[Extend](./PowerPoint.SeriesCollection.Extend.md)** method to extend an existing series. The following example adds the data in cells C6:C10 in the chart's worksheet to an existing series in the series collection of the chart.
 
 
 
@@ -50,7 +50,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Add](http://msdn.microsoft.com/library/29dd05a7-a707-78ff-fc06-1085e065eb3c%28Office.15%29.aspx)** method to create a new series and add it to the chart. The following example adds the data from cells D1:D5 in the chart's worksheet as a new series to the chart.
+Use the  **[Add](./PowerPoint.SeriesCollection.Add.md)** method to create a new series and add it to the chart. The following example adds the data from cells D1:D5 in the chart's worksheet as a new series to the chart.
 
 
 
@@ -96,10 +96,10 @@ End With
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/29dd05a7-a707-78ff-fc06-1085e065eb3c%28Office.15%29.aspx)|
-|[Extend](http://msdn.microsoft.com/library/f5ac6da3-90c7-d938-9a95-e87d228d901d%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/ae34ad0d-1b0a-decb-24e8-3d1c51652f72%28Office.15%29.aspx)|
-|[NewSeries](http://msdn.microsoft.com/library/37a94558-02d9-7f0b-e881-0d9c5a9d4787%28Office.15%29.aspx)|
+|[Add](./PowerPoint.SeriesCollection.Add.md)|
+|[Extend](./PowerPoint.SeriesCollection.Extend.md)|
+|[Item](./PowerPoint.SeriesCollection.Item.md)|
+|[NewSeries](./PowerPoint.SeriesCollection.NewSeries.md)|
 
 ## Properties
 
@@ -107,12 +107,12 @@ End With
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/c872de5e-2a1c-fe96-9966-28e7d30f46c2%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/527e7502-d84e-8884-b0df-7d44cbe89f3f%28Office.15%29.aspx)|
-|[Creator](http://msdn.microsoft.com/library/0d767309-d866-9ec5-5ff0-9c4b7e54c8fc%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/f5d40a16-5a35-3560-1f59-ffdba6d95807%28Office.15%29.aspx)|
+|[Application](./PowerPoint.SeriesCollection.Application.md)|
+|[Count](./PowerPoint.SeriesCollection.Count.md)|
+|[Creator](./PowerPoint.SeriesCollection.Creator.md)|
+|[Parent](./PowerPoint.SeriesCollection.Parent.md)|
 
 ## See also
 
 
-[PowerPoint Object Model Reference](http://msdn.microsoft.com/library/00acd64a-5896-0459-39af-98df2849849e%28Office.15%29.aspx)
+[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)

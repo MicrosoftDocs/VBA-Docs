@@ -21,6 +21,6 @@ The default event for a  **Label** is the Click event.
 
 ## Related Topics
 
-[Label Object](http://msdn.microsoft.com/library/4c51362a-1509-4754-8fc1-10c33014b187%28Office.15%29.aspx)
+[Label Object](../../../api/Outlook.label.object.md)
 
 

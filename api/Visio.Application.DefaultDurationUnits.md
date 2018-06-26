@@ -36,7 +36,7 @@ The return value contains one of the values of  **[VisUnitCodes](Visio.visunitco
 
 You can specify  **DefaultDurationUnits** as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)** ) or a string value such as "minutes". If the string is invalid or the unit code is inappropriate (non-duration), an error is generated.
 
-For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
+For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 Cell formulas that contain a specific unit of measure are displayed in those units regardless of the default duration units setting. Many cell formulas, however, use implicit unit syntax and are displayed in default units.
 
@@ -53,6 +53,6 @@ vsoCell.Result(visDurationUnits) = 60
 
 In this case, the result is 60 minutes if the  **DefaultDurationUnits** property is **visElapsedMin** and 60 seconds if the **DefaultDurationUnits** property is **visElapsedSec** .
 
-For details about implicit units of measure, see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
+For details about implicit units of measure, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 

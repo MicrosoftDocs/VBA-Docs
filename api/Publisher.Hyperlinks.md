@@ -18,7 +18,7 @@ Represents the collection of  **[Hyperlink](Publisher.Hyperlink.md)** objects in
 
 ## Example
 
-Use the  **[Hyperlinks](http://msdn.microsoft.com/library/0cf1f043-532c-3ffc-67cf-389adc5ac02f%28Office.15%29.aspx)** property to return the **Hyperlinks** collection. The following example deletes all text hyperlinks in the active publication that contain the word "Tailspin" in the address.
+Use the  **[Hyperlinks](./Publisher.TextRange.Hyperlinks.md)** property to return the **Hyperlinks** collection. The following example deletes all text hyperlinks in the active publication that contain the word "Tailspin" in the address.
 
 
 ```vb
@@ -45,7 +45,7 @@ Sub DeleteMSHyperlinks()
 End Sub
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/f5a8cc01-a571-623d-bfab-fe48e43a21b1%28Office.15%29.aspx)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the specified Web site.
+Use the  **[Add](./Publisher.Hyperlinks.Add.md)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the specified Web site.
 
 
 
@@ -71,7 +71,7 @@ Sub DisplayHyperlinkAddress()
 End Sub
 ```
 
-The  **[Count](http://msdn.microsoft.com/library/36747f3e-b365-11ca-9cbe-f6148f7da235%28Office.15%29.aspx)** property for this collection returns the number of hyperlinks in the specified shape or selection only.
+The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection returns the number of hyperlinks in the specified shape or selection only.
 
 
 ## Methods
@@ -80,7 +80,7 @@ The  **[Count](http://msdn.microsoft.com/library/36747f3e-b365-11ca-9cbe-f6148f7
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/f5a8cc01-a571-623d-bfab-fe48e43a21b1%28Office.15%29.aspx)|
+|[Add](./Publisher.Hyperlinks.Add.md)|
 
 ## Properties
 
@@ -88,8 +88,8 @@ The  **[Count](http://msdn.microsoft.com/library/36747f3e-b365-11ca-9cbe-f6148f7
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/c025e261-dc0e-9445-2c89-c9e79db6b3cd%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/36747f3e-b365-11ca-9cbe-f6148f7da235%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/8d288fc6-9ded-5732-b972-6fa366ef31c3%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/e3b25f19-6322-172a-3620-c3e728074655%28Office.15%29.aspx)|
+|[Application](./Publisher.Hyperlinks.Application.md)|
+|[Count](./Publisher.Hyperlinks.Count.md)|
+|[Item](./Publisher.Hyperlinks.Item.md)|
+|[Parent](./Publisher.Hyperlinks.Parent.md)|
 

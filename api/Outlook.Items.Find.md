@@ -38,7 +38,7 @@ An  **Object** value that represents an Outlook item if the call succeeds; retur
 
 ## Remarks
 
-To use content indexing search in the  **[Items](Outlook.Items.md)** collection, use the **[Restrict](Outlook.Items.Restrict.md)** method. **FindRow** will return an error if _Filter_ contains content indexing keywords. For more information on content indexing keywords, see[Filtering Items Using Query Keywords](http://msdn.microsoft.com/library/d7e6b169-c5fd-7acc-f077-658a153a921f%28Office.15%29.aspx).
+To use content indexing search in the  **[Items](Outlook.Items.md)** collection, use the **[Restrict](Outlook.Items.Restrict.md)** method. **FindRow** will return an error if _Filter_ contains content indexing keywords. For more information on content indexing keywords, see[Filtering Items Using Query Keywords](../outlook/How-to/Search-and-Filter/filtering-items-using-query-keywords.md).
 
 The method will return an error with the following properties in the  _Filter_ :
 
@@ -123,7 +123,7 @@ Another example is a DASL filter string that filters for the  **Subject** proper
 filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'the right ""stuff""'"
 ```
 
-A different set of escaping rules apply to a property reference for named properties that contain the space, single quote, double quote, or percent character. For more information, see [Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).
+A different set of escaping rules apply to a property reference for named properties that contain the space, single quote, double quote, or percent character. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).
 
  **Date**
 

@@ -30,7 +30,7 @@ MsoPresetTexture
 
 ## Remarks
 
-The  **PresetTexture** property value can be one of the ** [MsoPresetTexture](http://msdn.microsoft.com/library/fbbc897d-f5db-eb0d-20d9-f6b7e9bbcf4f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **PresetTexture** property value can be one of the ** [MsoPresetTexture](./Office.MsoPresetTexture.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[PresetTextured](Publisher.FillFormat.PresetTextured.md)** method to specify the preset texture for the fill.
 

@@ -36,4 +36,4 @@ Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** obje
 
 
  
-[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)
+[Project Object Model](../project/Concepts/project-object-model.md)

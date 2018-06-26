@@ -29,7 +29,7 @@ Creates a connector. Returns a  **[Shape](PowerPoint.Shape.md)** object that rep
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**[MsoConnectorType](http://msdn.microsoft.com/library/2c67963f-5cb3-295d-fdf4-df33a283f1af%28Office.15%29.aspx)**|The type of connector.|
+| _Type_|Required|**[MsoConnectorType](./Office.MsoConnectorType.md)**|The type of connector.|
 | _BeginX_|Required|**Single**|The horizontal position, measured in points, of the connector's starting point relative to the left edge of the slide.|
 | _BeginY_|Required|**Single**|The vertical position, measured in points, of the connector's starting point relative to the top edge of the slide.|
 | _EndX_|Required|**Single**|The horizontal position, measured in points, of the connector's ending point relative to the left edge of the slide.|

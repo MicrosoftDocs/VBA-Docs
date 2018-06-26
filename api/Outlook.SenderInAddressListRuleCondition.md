@@ -20,7 +20,7 @@ Represents a rule condition that the sender's address is in the address list spe
 
  **SenderInAddressListRuleCondition** is derived from the **[RuleCondition](Outlook.RuleCondition.md)** object. Each rule is associated with a **[RuleConditions](Outlook.RuleConditions.md)** object which has a **[SenderInAddressList](Outlook.RuleConditions.SenderInAddressList.md)** property. The **SenderInAddressList** property always returns a **SenderInAddressListRuleCondition** object. If the rule has any of these rule conditions enabled, then **[SenderInAddressListRuleCondition.Enabled](Outlook.SenderInAddressListRuleCondition.Enabled.md)** would be **True**.
 
-For more information on specifying rule conditions, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
+For more information on specifying rule conditions, see [Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## Properties
@@ -40,4 +40,4 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

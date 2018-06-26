@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 Moves the keyboard focus to the specified  **CommandBarComboBox** control. If the control is disabled or isn't visible, this method will fail.
 
 
-## 
+
 
 
  **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."

@@ -25,7 +25,7 @@ Returns a constant in the  **[OlRuleConditionType](Outlook.OlRuleConditionType.m
 
 ## Remarks
 
-For more information on the rule conditions supported for programmatic rule creation, those supported for rules for receiving message, and those supported for rules for sending messages, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
+For more information on the rule conditions supported for programmatic rule creation, those supported for rules for receiving message, and those supported for rules for sending messages, see [Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## See also

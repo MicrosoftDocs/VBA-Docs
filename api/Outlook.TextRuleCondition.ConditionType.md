@@ -25,7 +25,7 @@ Returns a constant from the  **[OlRuleConditionType](Outlook.OlRuleConditionType
 
 ## Remarks
 
-The value of  **ConditionType** depends on the type of rule condition, as several types of rule conditions use the **[TextRuleCondition](Outlook.TextRuleCondition.md)** object: **olConditionBody** , **olConditionBodyOrSubject** , **olConditionMessageHeader** , and **olConditionSubject** . Except for **olConditionMessageHeader** , which is supported only by rules for receiving messages, all these types of conditions are supported by rules for receiving messages as well as rules for sending messages. For more information, see[Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
+The value of  **ConditionType** depends on the type of rule condition, as several types of rule conditions use the **[TextRuleCondition](Outlook.TextRuleCondition.md)** object: **olConditionBody** , **olConditionBodyOrSubject** , **olConditionMessageHeader** , and **olConditionSubject** . Except for **olConditionMessageHeader** , which is supported only by rules for receiving messages, all these types of conditions are supported by rules for receiving messages as well as rules for sending messages. For more information, see[Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## See also

@@ -54,7 +54,7 @@ Possible values for  _StringOrNumber_ include:
 
 "12 ft - 17 in + (12 cm / SQRT(7))"
 
-The  _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in **VisUnitCodes** . A list of valid units is also listed in[About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
+The  _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in **VisUnitCodes** . A list of valid units is also listed in[About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 If  _StringOrNumber_ is a floating point number or integer, _UnitsIn_ declares what unit of measure the **ConvertResult** method should construe the number to be. Pass "" to indicate internal Visio units.
 

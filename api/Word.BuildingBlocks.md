@@ -33,12 +33,12 @@ Set objBB = objTemplate.BuildingBlockEntries _
 
 The collection returned with the  **BuildingBlocks** collection is a filtered collection based on the type and category. Depending on how you access the collection, the collection returned changes. For example, if you access a collection of building blocks with a type of **wdTypeAutoText** with a category of "General", the returned collection may be different from the collection returned if you access a collection of building blocks with a type of **wdTypeAutoText** with a category of "Custom". It is also different from the collection returned if you access the collection of building blocks with a type of **wdTypeCustomAutoText** with a category of "General".
 
-For more information about building blocks, see [Working with Building Blocks](http://msdn.microsoft.com/library/c32a8972-a6fc-bb66-b62a-039b88580b37%28Office.15%29.aspx).
+For more information about building blocks, see [Working with Building Blocks](../word/Concepts/Working-with-Word/working-with-building-blocks.md).
 
 
 ## See also
 
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
 

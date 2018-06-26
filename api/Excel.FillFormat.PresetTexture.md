@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.PresetTexture Property (Excel)
 
-Returns the preset texture for the specified fill. Read-only  **[MsoPresetTexture](http://msdn.microsoft.com/library/fbbc897d-f5db-eb0d-20d9-f6b7e9bbcf4f%28Office.15%29.aspx)** .
+Returns the preset texture for the specified fill. Read-only  **[MsoPresetTexture](./Office.MsoPresetTexture.md)** .
 
 
 ## Syntax

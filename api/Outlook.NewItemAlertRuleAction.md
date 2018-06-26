@@ -20,7 +20,7 @@ Represents an action that displays a new item alert to the user.
 
  **NewItemAlertRuleAction** is derived from the **[RuleAction](Outlook.RuleAction.md)** object. Each rule is associated with a **[RuleActions](Outlook.RuleActions.md)** object which has a **[NewItemAlert](Outlook.RuleActions.NewItemAlert.md)** property. The **NewItemAlert** property always returns a **NewItemAlertRuleAction** object. If the rule has an enabled rule action that displays the specified alert in the **New item Alert** dialog box, then **[NewItemAlertRuleAction.Enabled](Outlook.NewItemAlertRuleAction.Enabled.md)** would be **True**.
 
-For more information on specifying rule actions, see [Specify Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx).
+For more information on specifying rule actions, see [Specify Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md).
 
 
 ## Properties
@@ -40,4 +40,4 @@ For more information on specifying rule actions, see [Specify Rule Actions](http
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

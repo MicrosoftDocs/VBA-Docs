@@ -40,13 +40,13 @@ A  **ViewField** object that represents the new view field.
 
 To programmatically add a custom field to a view, use the  **ViewFields.Add** method. This is the recommended way to dynamically change the view over setting the **[XML](Outlook.View.XML.md)** property of the **[View](Outlook.View.md)** object.
 
-Referencing the property in  _PropertyName_ by its field name requires the localized name in the corresponding locale. For more information on referencing properties by namespace, see[Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).
+Referencing the property in  _PropertyName_ by its field name requires the localized name in the corresponding locale. For more information on referencing properties by namespace, see[Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).
 
 If you are adding a custom property to the  **ViewFields** collection, the property must exist in the **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** collection for the View?s parent folder.
 
 If the property already exists in the  **ViewFields** collection, Outlook will raise an error.
 
-Certain properties cannot be added to a view using  **ViewFields.Add** , including binary properties, computed properties, and HTML or RTF body content. For more information, see[Unsupported Properties in a Table Object or Table Filter](http://msdn.microsoft.com/library/0e37f03f-7677-ca29-d0b2-8b45c026e5f1%28Office.15%29.aspx).
+Certain properties cannot be added to a view using  **ViewFields.Add** , including binary properties, computed properties, and HTML or RTF body content. For more information, see[Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
 
 
 ## Example

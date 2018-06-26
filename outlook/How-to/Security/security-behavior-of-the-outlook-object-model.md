@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Security Behavior of the Outlook Object Model
 
-## 
+
 
 The Outlook object model includes entry points to access Outlook data, save data to specified locations, and send e-mails. These entry points are available to legitimate and malicious application developers alike. Versions of Outlook 98 and Outlook 2000 applied with the Outlook E-mail Security Update, and all subsequent versions starting from Outlook 2000 SP2 use the Object Model Guard to help protect users. 
 

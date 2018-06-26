@@ -40,6 +40,6 @@ The default event for the  **Image** is the Click event.
 
 ## Related Topics
 
-[Image Object](http://msdn.microsoft.com/library/74d4a032-5572-4bda-afb2-e9f743f39a09%28Office.15%29.aspx)
+[Image Object](../../../api/Outlook.image.object.md)
 
 

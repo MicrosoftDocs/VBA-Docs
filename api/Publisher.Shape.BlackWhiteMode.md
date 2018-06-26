@@ -25,7 +25,7 @@ Returns or sets an  **MsoBlackWhiteMode**constant indicating how the specified s
 
 ## Remarks
 
-The  **BlackWhiteMode** property value can be one of the ** [MsoBlackWhiteMode](http://msdn.microsoft.com/library/2b4d7e22-1277-9f5c-ba52-a37e113477c1%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **BlackWhiteMode** property value can be one of the ** [MsoBlackWhiteMode](./Office.MsoBlackWhiteMode.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

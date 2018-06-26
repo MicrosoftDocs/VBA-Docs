@@ -29,7 +29,7 @@ Obtains the values of the properties specified by the one-dimensional array  _Sc
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SchemaNames_|Required| **Variant**|An array that contains the names of the properties whose values are to be returned. These properties are referenced by namespace. For more information, see [Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).|
+| _SchemaNames_|Required| **Variant**|An array that contains the names of the properties whose values are to be returned. These properties are referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 
 ### Return Value
 
@@ -40,7 +40,7 @@ A Variant that represents an array of values of the properties specified in the 
 
 The array returned by  **GetProperties** can contain elements of different types, depending on the type of the property requested. The type of the array element returned by **GetProperties** will be the same as the type of the underlying property. Certain raw property types such as **PT_OBJECT** are unsupported and will raise an error. If you require conversion of the raw property type, for example, from **PT_BINARY** to a string, or from **PT_SYSTIME** to a local time, use the helper methods[PropertyAccessor.BinaryToString](Outlook.PropertyAccessor.BinaryToString.md) and[PropertyAccessor.UTCToLocalTime](Outlook.PropertyAccessor.UTCToLocalTime.md). 
 
-For more information on getting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on getting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](../outlook/How-to/Navigation/best-practices-for-getting-and-setting-properties.md).
 
 
 ## Example

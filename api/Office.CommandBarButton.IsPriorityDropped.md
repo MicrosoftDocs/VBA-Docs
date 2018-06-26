@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 Gets  **True** if the **CommandBarButton** control is currently dropped from the menu or toolbar based on usage statistics and layout space. (Note that this is not the same as the control's visibility, as set by the Visible property). Read-only.
 
 
-## 
+
 
 
  **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."

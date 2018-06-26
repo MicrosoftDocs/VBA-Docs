@@ -48,8 +48,8 @@ Next
 
 |**Name**|
 |:-----|
-|[BreakLink](http://msdn.microsoft.com/library/cc177e67-8664-7273-2339-7d9c01f65ba6%28Office.15%29.aspx)|
-|[Update](http://msdn.microsoft.com/library/c1ce2e2f-53ca-9c64-4ce5-1e0d0bed6c54%28Office.15%29.aspx)|
+|[BreakLink](./PowerPoint.LinkFormat.BreakLink.md)|
+|[Update](./PowerPoint.LinkFormat.Update.md)|
 
 ## Properties
 
@@ -57,12 +57,12 @@ Next
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/a0854949-7bbf-5af7-7c32-a2d67be468ec%28Office.15%29.aspx)|
-|[AutoUpdate](http://msdn.microsoft.com/library/de142aa6-2414-61c3-62d1-1226a0f9209f%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/49bc1179-6fc4-c11f-c0a2-e35d95704622%28Office.15%29.aspx)|
-|[SourceFullName](http://msdn.microsoft.com/library/6a7fb694-609a-77c5-eabc-d95693a87299%28Office.15%29.aspx)|
+|[Application](./PowerPoint.LinkFormat.Application.md)|
+|[AutoUpdate](./PowerPoint.LinkFormat.AutoUpdate.md)|
+|[Parent](./PowerPoint.LinkFormat.Parent.md)|
+|[SourceFullName](./PowerPoint.LinkFormat.SourceFullName.md)|
 
 ## See also
 
 
-[PowerPoint Object Model Reference](http://msdn.microsoft.com/library/00acd64a-5896-0459-39af-98df2849849e%28Office.15%29.aspx)
+[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)

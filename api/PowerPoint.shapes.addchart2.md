@@ -25,7 +25,7 @@ Adds a chart to the document. Returns a [Shape](PowerPoint.Shape.md) object that
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Style_|Optional|**Long**|The chart style. Use "-1" to get the default style for the chart type specified in  **Type**.|
-| _Type_|Optional|[XLCHARTTYPE](http://msdn.microsoft.com/library/bba4ee89-ee91-f55a-d2e0-59a73e5bfabe%28Office.15%29.aspx)|The type of chart.|
+| _Type_|Optional|[XLCHARTTYPE](./Excel.XlChartType.md)|The type of chart.|
 | _Left_|Optional|**Single**|The position, in points, of the left edge of the chart, relative to the anchor.|
 | _Top_|Optional|**Single**|The position, in points, of the top edge of the chart, relative to the anchor.|
 | _Width_|Optional|**Single**|The width, in points, of the chart.|

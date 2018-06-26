@@ -25,7 +25,7 @@ Returns the set of color styles that are currently loaded in the application. Re
 
 ### Return Value
 
- **[SmartArtColors](http://msdn.microsoft.com/library/a1929517-b1fb-c6fe-b6db-03f7ef1ef894%28Office.15%29.aspx)**
+ **[SmartArtColors](./Office.SmartArtColors.md)**
 
 
 ## See also

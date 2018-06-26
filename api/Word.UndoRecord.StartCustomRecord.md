@@ -62,6 +62,6 @@ End Sub
 #### Other resources
 
 
-[Working with the UndoRecord Object](http://msdn.microsoft.com/library/e9df1047-5a1a-91da-3673-7e64b668552d%28Office.15%29.aspx)
+[Working with the UndoRecord Object](../word/Concepts/Working-with-Word/working-with-the-undorecord-object.md)
 
 

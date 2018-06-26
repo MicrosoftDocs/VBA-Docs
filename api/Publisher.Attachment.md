@@ -29,7 +29,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 Before running this macro, place a file named  _image.bmp_ in the root of the C drive on your computer, or change the name and file path of the file in the macro to specify the one you want to attach.
 
-Note that to send an e-mail merge message, you must connect to a data source, create the e-mail merge, and then send the message. For more information, see the  **[EmailMergeEnvelope](http://msdn.microsoft.com/library/555dd80e-bac2-96dd-4256-ad1b8006da0f%28Office.15%29.aspx)** object topic.
+Note that to send an e-mail merge message, you must connect to a data source, create the e-mail merge, and then send the message. For more information, see the  **[EmailMergeEnvelope](./Publisher.EmailMergeEnvelope.md)** object topic.
 
 
 
@@ -58,7 +58,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Delete](http://msdn.microsoft.com/library/935fa9e7-9d40-b820-e386-1a1960845da1%28Office.15%29.aspx)|
+|[Delete](./Publisher.Attachment.Delete.md)|
 
 ## Properties
 
@@ -66,7 +66,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Name](http://msdn.microsoft.com/library/7539a5ac-427f-0dfe-dc31-47ef9436fd14%28Office.15%29.aspx)|
+|[Name](./Publisher.Attachment.Name.md)|
 
 ## See also
 

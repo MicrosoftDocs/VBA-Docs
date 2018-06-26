@@ -29,7 +29,7 @@ Creates a connector. Returns a  **[Shape](Excel.Shape.md)** object that represen
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[MsoConnectorType](http://msdn.microsoft.com/library/2c67963f-5cb3-295d-fdf4-df33a283f1af%28Office.15%29.aspx)**|The connector type to add.|
+| _Type_|Required| **[MsoConnectorType](./Office.MsoConnectorType.md)**|The connector type to add.|
 | _BeginX_|Required| **Single**|The horizontal position (in points) of the connector's starting point relative to the upper-left corner of the document.|
 | _BeginY_|Required| **Single**|The vertical position (in points) of the connector's starting point relative to the upper-left corner of the document.|
 | _EndX_|Required| **Single**|The horizontal position (in points) of the connector's end point relative to the upper-left corner of the document.|

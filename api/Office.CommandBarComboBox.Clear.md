@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Removes all list items from a command bar combo box control (a drop-down list box or a combo box).
 
 
-## 
+
 
 
  **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."

@@ -29,7 +29,7 @@ Creates an automation object of the specified class.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectName_|Required| **String**|The class name of the object to create. For information about valid class names, see [OLE Programmatic Identifiers](http://msdn.microsoft.com/library/4dc61073-a674-b786-418e-60b46c79d0c6%28Office.15%29.aspx).|
+| _ObjectName_|Required| **String**|The class name of the object to create. For information about valid class names, see [OLE Programmatic Identifiers](../outlook/Concepts/Getting-Started/ole-programmatic-identifiers-outlook.md).|
 
 ### Return Value
 

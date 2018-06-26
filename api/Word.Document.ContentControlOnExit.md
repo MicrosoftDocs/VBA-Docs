@@ -37,7 +37,7 @@ Private Sub  _expression_ _'ContentControlOnExit'( **_ContentControl_** , **_Can
 
  **Important**  This event fires only for the content control that you exit and not for parent content controls. For example, if you have a text box content control nested inside a group content control, and you move the cursor from inside the text box content control and into another place in the document, this event fires only once for the text box content control; it does not fire for the parent group content control.
 
-For information about using events with the  **Document** object, see[Using Events with the Document Object](http://msdn.microsoft.com/library/2b043342-436a-5421-e8af-3c2c49684960%28Office.15%29.aspx).
+For information about using events with the  **Document** object, see[Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ## See also

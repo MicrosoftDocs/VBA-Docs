@@ -27,12 +27,12 @@ dlgAnswer = Dialogs(wdDialogFileOpen).Show
 
 The  **WdWordDialog** constants are formed from the prefix "wdDialog" followed by the name of the menu and the dialog box. For example, the constant for the **Page Setup** dialog box is **wdDialogFilePageSetup** , and the constant for the **New** dialog box is **wdDialogFileNew** .
 
-For more information about working with built-in Word dialog boxes, see [Displaying built-in Word dialog boxes](http://msdn.microsoft.com/library/abe465f9-09a1-72ea-2e2d-9de14fc02434%28Office.15%29.aspx).
+For more information about working with built-in Word dialog boxes, see [Displaying built-in Word dialog boxes](../word/Concepts/Customizing-Word/displaying-built-in-word-dialog-boxes.md).
 
 
 ## See also
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
 
 

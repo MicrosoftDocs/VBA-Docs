@@ -26,9 +26,9 @@ A  **Table** is composed of rows and columns. It represents a read-only dynamic 
 
  Use **[Row.GetValues](Outlook.Row.GetValues.md)** to obtain an array of values that correspond to column values at that row in the **Table**.
 
- Use the helper functions **[Row.BinaryToString](Outlook.Row.BinaryToString.md)**, **[Row.LocalTimeToUTC](Outlook.Row.LocalTimeToUTC.md)**, and **[Row.UTCToLocalTime](Outlook.Row.UTCToLocalTime.md)** to facilitate type conversion of column values at a specific row. For more information on property value representation in a **Table**, see[Factors Affecting Property Value Representation in the Table and View Classes](http://msdn.microsoft.com/library/13cf9945-a9e0-bb32-a2cb-74366a365ae1%28Office.15%29.aspx).
+ Use the helper functions **[Row.BinaryToString](Outlook.Row.BinaryToString.md)**, **[Row.LocalTimeToUTC](Outlook.Row.LocalTimeToUTC.md)**, and **[Row.UTCToLocalTime](Outlook.Row.UTCToLocalTime.md)** to facilitate type conversion of column values at a specific row. For more information on property value representation in a **Table**, see[Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
 
- Although additions and deletions of the underlying folder are reflected by the rows in the **Table**, the **Table** does not support any events for adding, changing, and removing of rows. If you require a writeable object from the **Table** row, obtain the Entry ID for that row from the default EntryID column in the **Table** and then use the **[GetItemFromID](Outlook.NameSpace.GetItemFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object to obtain a full item, such as a **[MailItem](Outlook.MailItem.md)** or **[ContactItem](Outlook.ContactItem.md)**, that supports read-write operations. For more information on default columns in a **Table**, see[Default Properties Displayed in a Table Object](http://msdn.microsoft.com/library/649c64f3-2d1e-23f1-bf13-3368da79e62b%28Office.15%29.aspx).
+ Although additions and deletions of the underlying folder are reflected by the rows in the **Table**, the **Table** does not support any events for adding, changing, and removing of rows. If you require a writeable object from the **Table** row, obtain the Entry ID for that row from the default EntryID column in the **Table** and then use the **[GetItemFromID](Outlook.NameSpace.GetItemFromID.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object to obtain a full item, such as a **[MailItem](Outlook.MailItem.md)** or **[ContactItem](Outlook.ContactItem.md)**, that supports read-write operations. For more information on default columns in a **Table**, see[Default Properties Displayed in a Table Object](../outlook/How-to/Search-and-Filter/default-properties-displayed-in-a-table-object.md).
 
 
 ## Example
@@ -131,4 +131,4 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

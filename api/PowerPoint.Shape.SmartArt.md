@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.SmartArt Property (PowerPoint)
 
-Returns a Microsoft Office [SmartArt](http://msdn.microsoft.com/library/24332c9b-87c9-7678-9d9f-9e25f2370afc%28Office.15%29.aspx) object that represents the SmartArt diagram of the **Shape** object. Read-only.
+Returns a Microsoft Office [SmartArt](./Office.SmartArt.md) object that represents the SmartArt diagram of the **Shape** object. Read-only.
 
 
 ## Syntax

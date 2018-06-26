@@ -24,7 +24,7 @@ After an error has been handled, the information in the  **MacroError** object i
 
 The  **MacroError** object contains information about only one error at a time. If more than one error has occurred in a macro, the **MacroError** object contains information about only the last one.
 
-The  **MacroError** object does not contain information about run-time errors that occur when running Visual Basic for Applications (VBA) code. See[Elements of Run-Time Error Handling](http://msdn.microsoft.com/library/a0e06a1e-2709-aa51-92d0-340788a31a8a%28Office.15%29.aspx) for more information about handling run-time errors in VBA.
+The  **MacroError** object does not contain information about run-time errors that occur when running Visual Basic for Applications (VBA) code. See[Elements of Run-Time Error Handling](../access/Concepts/Error-Codes/elements-of-run-time-error-handling.md) for more information about handling run-time errors in VBA.
 
 
 ## Properties
@@ -43,4 +43,4 @@ The  **MacroError** object does not contain information about run-time errors th
 ## See also
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](./overview/object-model-access-vba-reference.md)

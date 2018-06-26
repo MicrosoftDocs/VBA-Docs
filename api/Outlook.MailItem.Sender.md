@@ -95,5 +95,5 @@ End Sub
 
 
 
-[How to: Create a Sendable Item for a Specific Account Based on the Current Folder](http://msdn.microsoft.com/library/758e2e9c-3633-2e77-b9e0-14bb8078cf0b%28Office.15%29.aspx)
+[How to: Create a Sendable Item for a Specific Account Based on the Current Folder](../outlook/Concepts/Accounts/create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
 

@@ -29,7 +29,7 @@ Reloads a workbook based on an HTML document, using the specified document encod
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Encoding_|Required| **[MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)**|The encoding that is to be applied to the workbook.|
+| _Encoding_|Required| **[MsoEncoding](./Office.MsoEncoding.md)**|The encoding that is to be applied to the workbook.|
 
 ## Remarks
 

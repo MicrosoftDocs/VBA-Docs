@@ -27,7 +27,7 @@ Permanently removes the  **[StorageItem](Outlook.StorageItem.md)** object from t
 
 This call allows a solution to clean up or reset the storage for its private data. Attempting to delete a  **StorageItem** that has been removed by a prior **StorageItem.Delete** call will result in the error, "Could not complete the deletion."
 
-For more information on deleting solution data stored in a  **StorageItem** object, see[Updating and Deleting Solution Storage](http://msdn.microsoft.com/library/ac1b1e9f-25d2-4157-c237-318e2e7c5f6b%28Office.15%29.aspx).
+For more information on deleting solution data stored in a  **StorageItem** object, see[Updating and Deleting Solution Storage](../outlook/How-to/Solution-Storage/updating-and-deleting-solution-storage.md).
 
 
 ## Example

@@ -29,7 +29,7 @@ Creates an AutoShape. Returns a  **[Shape](PowerPoint.Shape.md)** object that re
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**[MsoAutoShapeType](http://msdn.microsoft.com/library/7e6fe414-2b25-56d7-a678-b6e718329118%28Office.15%29.aspx)**|Specifies the type of AutoShape to create.|
+| _Type_|Required|**[MsoAutoShapeType](./Office.MsoAutoShapeType.md)**|Specifies the type of AutoShape to create.|
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the AutoShape relative to the left edge of the slide.|
 | _Top_|Required|**Single**|The position, measured in points, of the top edge of the AutoShape relative to the top edge of the slide.|
 | _Width_|Required|**Single**|The width of the AutoShape, measured in points.|

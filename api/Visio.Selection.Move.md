@@ -42,7 +42,7 @@ Nothing
 
 You can specify  _UnitsNameOrCode_ as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)** ) or a string value such as "inches". If the string is invalid or the unit code is inappropriate (nontextual), an error is generated.
 
-For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About units of measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
+For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About units of measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 
 ## Example

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Determine When a Shelled Process Ends
 
-When you run the  **[Shell](http://msdn.microsoft.com/library/033bffb0-540f-2c17-2aed-d25d10bedd8c%28Office.15%29.aspx)** function in a Visual Basic for Applications (VBA) procedure, it starts an executable program asynchronously and returns control to the procedure. This shelled program continues to run independently of your procedure until you close it.
+When you run the  **[Shell](../../../Language-Reference/Language-Reference/User-Interface-Help/shell-function.md)** function in a Visual Basic for Applications (VBA) procedure, it starts an executable program asynchronously and returns control to the procedure. This shelled program continues to run independently of your procedure until you close it.
 
 If your procedure needs to wait for the shelled process to end, you can use the Windows API to poll the status of the application, but this is not very efficient. This topic explains a more efficient method. 
 

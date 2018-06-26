@@ -40,7 +40,7 @@ A  **Date** value that has been converted from a representation in UTC to local 
 
 Use the helper functions  **[Row.BinaryToString](Outlook.Row.BinaryToString.md)** , **[Row.LocalTimeToUTC](Outlook.Row.LocalTimeToUTC.md)** , and **Row.UTCToLocalTime** to facilitate type conversion of column values at a specific row.
 
-For information on property value representation in a  **Table** , see[Factors Affecting Property Value Representation in the Table and View Classes](http://msdn.microsoft.com/library/13cf9945-a9e0-bb32-a2cb-74366a365ae1%28Office.15%29.aspx). For information on using Date-time comparisons in  **Table** filters, see[Filtering Items Using a Date-time Comparison](http://msdn.microsoft.com/library/668e0993-c3d2-835f-0645-ba79bcffe67f%28Office.15%29.aspx).
+For information on property value representation in a  **Table** , see[Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md). For information on using Date-time comparisons in  **Table** filters, see[Filtering Items Using a Date-time Comparison](../outlook/How-to/Search-and-Filter/filtering-items-using-a-date-time-comparison.md).
 
 
 ## See also

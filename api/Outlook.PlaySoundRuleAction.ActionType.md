@@ -25,7 +25,7 @@ Returns a constant,  **olRuleActionPlaySound** , from the **[OlRuleActionType](O
 
 ## Remarks
 
- The sound playing rule action is supported only by rules for receiving messages. For more information, see[Specify Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx).
+ The sound playing rule action is supported only by rules for receiving messages. For more information, see[Specify Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md).
 
 
 ## See also

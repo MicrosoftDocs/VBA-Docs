@@ -23,6 +23,6 @@ The default name for the first  **Page** is Page1; the default name for the seco
 
 ## Related Topics
 
-[ Page Object](http://msdn.microsoft.com/library/2669ab2b-1dfc-47ef-bcaf-e8a9773f010b%28Office.15%29.aspx)
+[ Page Object](../../../api/Outlook.page.object.md)
 
 

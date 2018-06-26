@@ -29,7 +29,7 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ZOrderCmd_|Required| **[MsoZOrderCmd](http://msdn.microsoft.com/library/4615d1c7-9d7b-70a4-1821-785c3af11f4f%28Office.15%29.aspx)**|Specifies where to move the specified shape relative to the other shapes.|
+| _ZOrderCmd_|Required| **[MsoZOrderCmd](./Office.MsoZOrderCmd.md)**|Specifies where to move the specified shape relative to the other shapes.|
 
 ## Remarks
 

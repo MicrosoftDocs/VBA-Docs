@@ -20,7 +20,7 @@ Displays the  **Select Names** dialog box for the user to select entries from on
 
 You can instantiate an instance of the  **SelectNamesDialog** object by calling **[NameSpace.GetSelectNamesDialog](Outlook.NameSpace.GetSelectNamesDialog.md)**.
 
-The dialog box displayed by  **[SelectNamesDialog.Display](Outlook.SelectNamesDialog.Display.md)** is similar to the **Select Names** dialog box in the Outlook user interface. It observes the size and position settings of the built-in **Select Names** dialog box. However, its default state does not show **Message Recipients** above the **To**,  **Cc**, and  **Bcc** edit boxes. For more information on using the **SelectNamesDialog** object to display the **Select Names** dialog box, see[Display Names from the Address Book](http://msdn.microsoft.com/library/32e7179c-8133-ee20-ecf6-52c9275f205f%28Office.15%29.aspx).
+The dialog box displayed by  **[SelectNamesDialog.Display](Outlook.SelectNamesDialog.Display.md)** is similar to the **Select Names** dialog box in the Outlook user interface. It observes the size and position settings of the built-in **Select Names** dialog box. However, its default state does not show **Message Recipients** above the **To**,  **Cc**, and  **Bcc** edit boxes. For more information on using the **SelectNamesDialog** object to display the **Select Names** dialog box, see[Display Names from the Address Book](../outlook/Concepts/Address-Book/display-names-from-the-address-book.md).
 
 
 ## Example
@@ -114,4 +114,4 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

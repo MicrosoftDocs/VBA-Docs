@@ -25,7 +25,7 @@ Creates a table of contents based on the specified document and puts it in a new
 
 ## Remarks
 
-For more information on creating frames pages, see [Creating frames pages](http://msdn.microsoft.com/library/0245564e-b2df-83cd-1e32-e63079970dc1%28Office.15%29.aspx).
+For more information on creating frames pages, see [Creating frames pages](../word/Concepts/Customizing-Word/creating-frames-pages.md).
 
 
 ## Example

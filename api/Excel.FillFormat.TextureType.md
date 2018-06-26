@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureType Property (Excel)
 
-Returns the texture type for the specified fill. Read-only  **[MsoTextureType](http://msdn.microsoft.com/library/be7fdbb6-3684-fa23-f1d8-f0caac02754e%28Office.15%29.aspx)** .
+Returns the texture type for the specified fill. Read-only  **[MsoTextureType](./Office.MsoTextureType.md)** .
 
 
 ## Syntax

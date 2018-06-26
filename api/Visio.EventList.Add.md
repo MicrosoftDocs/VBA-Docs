@@ -49,7 +49,7 @@ Creating  **Event** objects is a common way to handle events from C++ or other n
 
 The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event** , **Action** ( **visActCodeRunAddon** ), **Target** , and **TargetArgs** properties.
 
-Event codes are declared by the Visio type library and have the prefix  **visEvt** . Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event you want to create, see[Event Codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
+Event codes are declared by the Visio type library and have the prefix  **visEvt** . Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event you want to create, see[Event Codes](../visio/Concepts/event-codesvisio.md).
 
 To create an  **Event** object that advises the caller's sink object about an event, see the **AddAdvise** method.
 

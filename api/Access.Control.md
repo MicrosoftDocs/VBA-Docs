@@ -111,7 +111,7 @@ Set txt = Forms!Employees!LastName
 
 The option group control can contain other controls within its  **Controls** collection, including option button, check box, toggle button, and label controls.
 
-The tab control contains a  **[Pages](http://msdn.microsoft.com/library/e77c8d31-1cb7-d647-6faa-2eb234ce0708%28Office.15%29.aspx)** collection, which is a special type of **Controls** collection. The **Pages** collection contains **[Page](http://msdn.microsoft.com/library/6351b0ea-bd07-5ee6-ea20-0d410e09d939%28Office.15%29.aspx)** objects, which are controls. Each **Page** object in turn contains a **Controls** collection, which contains all of the controls on that page.
+The tab control contains a  **[Pages](./Access.Pages.md)** collection, which is a special type of **Controls** collection. The **Pages** collection contains **[Page](./Access.Page.md)** objects, which are controls. Each **Page** object in turn contains a **Controls** collection, which contains all of the controls on that page.
 
 Other  **Control** objects have a **Controls** collection that can contain an attached label. These controls include the text box, option group, option button, toggle button, check box, combo box, list box, command button, bound object frame, and unbound object frame controls.
 
@@ -122,12 +122,12 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 |**Name**|
 |:-----|
-|[Dropdown](http://msdn.microsoft.com/library/45957d42-3e81-f7eb-9579-e5e75c833f59%28Office.15%29.aspx)|
-|[Move](http://msdn.microsoft.com/library/fd52e497-642f-72a9-af64-971d8c888e71%28Office.15%29.aspx)|
-|[Requery](http://msdn.microsoft.com/library/95f68520-7bbc-6627-0702-477b839f98c5%28Office.15%29.aspx)|
-|[SetFocus](http://msdn.microsoft.com/library/21e2a6d1-7dd9-92ae-a6a6-72ed67dbc61d%28Office.15%29.aspx)|
-|[SizeToFit](http://msdn.microsoft.com/library/421b93c4-b648-a7d7-5e0c-845672d4dab8%28Office.15%29.aspx)|
-|[Undo](http://msdn.microsoft.com/library/d2c2d6ee-7086-db63-c471-03530cf7f2ab%28Office.15%29.aspx)|
+|[Dropdown](./Access.Control.Dropdown.md)|
+|[Move](./Access.Control.Move.md)|
+|[Requery](./Access.Control.Requery.md)|
+|[SetFocus](./Access.Control.SetFocus.md)|
+|[SizeToFit](./Access.Control.SizeToFit.md)|
+|[Undo](./Access.Control.Undo.md)|
 
 ## Properties
 
@@ -135,43 +135,43 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/b46574ca-6159-c34a-befd-7d390bdc39f9%28Office.15%29.aspx)|
-|[BottomPadding](http://msdn.microsoft.com/library/df4e0be6-aec9-3e04-c273-3fa0d5d8c026%28Office.15%29.aspx)|
-|[Column](http://msdn.microsoft.com/library/7e4594a5-113e-9fe0-fb96-04b1ee7e798d%28Office.15%29.aspx)|
-|[Controls](http://msdn.microsoft.com/library/81b01d02-c346-8750-cc8a-4623f24219f6%28Office.15%29.aspx)|
-|[Form](http://msdn.microsoft.com/library/86612c78-65f8-dc56-77da-d031502822f7%28Office.15%29.aspx)|
-|[GridlineColor](http://msdn.microsoft.com/library/0966f9d9-70a0-cdd9-fc89-7bf9239e63b6%28Office.15%29.aspx)|
-|[GridlineStyleBottom](http://msdn.microsoft.com/library/d53fb6e0-3613-095f-a52d-747819fc5601%28Office.15%29.aspx)|
-|[GridlineStyleLeft](http://msdn.microsoft.com/library/fe8829f8-bad9-2b34-f613-22b65b3325d4%28Office.15%29.aspx)|
-|[GridlineStyleRight](http://msdn.microsoft.com/library/1d0bf3f0-97d4-d88f-047f-270985520e45%28Office.15%29.aspx)|
-|[GridlineStyleTop](http://msdn.microsoft.com/library/d2a5a630-d6ff-75ae-5921-9c2953d8e9c6%28Office.15%29.aspx)|
-|[GridlineWidthBottom](http://msdn.microsoft.com/library/f51c8d07-a9ce-ce99-622b-7f35290812fb%28Office.15%29.aspx)|
-|[GridlineWidthLeft](http://msdn.microsoft.com/library/e148bfb1-a668-f2e3-ef0b-f243e943bef3%28Office.15%29.aspx)|
-|[GridlineWidthRight](http://msdn.microsoft.com/library/12df6aff-9e00-35ff-47ca-40be9622ee8a%28Office.15%29.aspx)|
-|[GridlineWidthTop](http://msdn.microsoft.com/library/5d3d0d5a-3c72-26fc-66d2-1b7af9768b36%28Office.15%29.aspx)|
-|[HorizontalAnchor](http://msdn.microsoft.com/library/e81daacc-3c0b-608c-aea1-e01bc162b6b3%28Office.15%29.aspx)|
-|[Hyperlink](http://msdn.microsoft.com/library/f27ac8cc-f5ba-cbc5-4153-7b24ce199679%28Office.15%29.aspx)|
-|[ItemData](http://msdn.microsoft.com/library/5eb23c40-566e-33bb-9b73-0ecc701ea5e5%28Office.15%29.aspx)|
-|[ItemsSelected](http://msdn.microsoft.com/library/348bc66f-4274-df2e-fdec-d36f678fd7de%28Office.15%29.aspx)|
-|[Layout](http://msdn.microsoft.com/library/c290a3e7-bba1-0d67-1e82-a53a4b7b2588%28Office.15%29.aspx)|
-|[LayoutID](http://msdn.microsoft.com/library/1cf53242-e9e8-dc87-907a-788036844f4c%28Office.15%29.aspx)|
-|[LeftPadding](http://msdn.microsoft.com/library/42354a61-958a-7c9a-6091-a1884c77ef8a%28Office.15%29.aspx)|
-|[Name](http://msdn.microsoft.com/library/b1e31997-1b99-0476-eda8-afef8975420b%28Office.15%29.aspx)|
-|[Object](http://msdn.microsoft.com/library/bfa11d67-ef96-128f-ef0d-efc555b51b5d%28Office.15%29.aspx)|
-|[ObjectVerbs](http://msdn.microsoft.com/library/e94a1718-0cd7-6d4a-b319-03b180233824%28Office.15%29.aspx)|
-|[OldValue](http://msdn.microsoft.com/library/eb805182-2e02-f134-2515-12b3ca564154%28Office.15%29.aspx)|
-|[Pages](http://msdn.microsoft.com/library/fd4ea2c0-ea8c-51a0-a012-8ba5848d3516%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/e85b37ce-72cd-2326-4f64-6613dde9d2b9%28Office.15%29.aspx)|
-|[Properties](http://msdn.microsoft.com/library/418b9ddb-b7d3-813c-7806-9ae9904175d7%28Office.15%29.aspx)|
-|[Report](http://msdn.microsoft.com/library/1c1f4703-bda7-de97-eb13-830238a5170a%28Office.15%29.aspx)|
-|[RightPadding](http://msdn.microsoft.com/library/3c9d50a2-42e7-f292-a3bc-42bed689fcef%28Office.15%29.aspx)|
-|[Selected](http://msdn.microsoft.com/library/80477eda-78aa-6cdd-062f-dd9caac816c6%28Office.15%29.aspx)|
-|[SmartTags](http://msdn.microsoft.com/library/2f8b1435-31d4-4388-614c-4f26544eed7c%28Office.15%29.aspx)|
-|[TopPadding](http://msdn.microsoft.com/library/52197046-2042-fc96-f72d-d81413546e9e%28Office.15%29.aspx)|
-|[VerticalAnchor](http://msdn.microsoft.com/library/ce4da8b9-aaad-85db-fd3a-490fbd87c380%28Office.15%29.aspx)|
+|[Application](./Access.Control.Application.md)|
+|[BottomPadding](./Access.Control.BottomPadding.md)|
+|[Column](./Access.Control.Column.md)|
+|[Controls](./Access.Control.Controls.md)|
+|[Form](./Access.Control.Form.md)|
+|[GridlineColor](./Access.Control.GridlineColor.md)|
+|[GridlineStyleBottom](./Access.Control.GridlineStyleBottom.md)|
+|[GridlineStyleLeft](./Access.Control.GridlineStyleLeft.md)|
+|[GridlineStyleRight](./Access.Control.GridlineStyleRight.md)|
+|[GridlineStyleTop](./Access.Control.GridlineStyleTop.md)|
+|[GridlineWidthBottom](./Access.Control.GridlineWidthBottom.md)|
+|[GridlineWidthLeft](./Access.Control.GridlineWidthLeft.md)|
+|[GridlineWidthRight](./Access.Control.GridlineWidthRight.md)|
+|[GridlineWidthTop](./Access.Control.GridlineWidthTop.md)|
+|[HorizontalAnchor](./Access.Control.HorizontalAnchor.md)|
+|[Hyperlink](./Access.Control.Hyperlink.md)|
+|[ItemData](./Access.Control.ItemData.md)|
+|[ItemsSelected](./Access.Control.ItemsSelected.md)|
+|[Layout](./Access.Control.Layout.md)|
+|[LayoutID](./Access.Control.LayoutID.md)|
+|[LeftPadding](./Access.Control.LeftPadding.md)|
+|[Name](./Access.Control.Name.md)|
+|[Object](./Access.Control.Object.md)|
+|[ObjectVerbs](./Access.Control.ObjectVerbs.md)|
+|[OldValue](./Access.Control.OldValue.md)|
+|[Pages](./Access.Control.Pages.md)|
+|[Parent](./Access.Control.Parent.md)|
+|[Properties](./Access.Control.Properties.md)|
+|[Report](./Access.Control.Report.md)|
+|[RightPadding](./Access.Control.RightPadding.md)|
+|[Selected](./Access.Control.Selected.md)|
+|[SmartTags](./Access.Control.SmartTags.md)|
+|[TopPadding](./Access.Control.TopPadding.md)|
+|[VerticalAnchor](./Access.Control.VerticalAnchor.md)|
 
 ## See also
 
 
 [Control Object Members](http://msdn.microsoft.com/library/c6f2ed0f-f8e1-d56e-22a5-a365b64b7754%28Office.15%29.aspx)
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](./overview/object-model-access-vba-reference.md)

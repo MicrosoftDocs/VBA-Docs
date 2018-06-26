@@ -35,11 +35,11 @@ Creates an OLE object. Returns a  **[Shape](PowerPoint.Shape.md)** object that r
 | _Height_|Optional|**Single**|The initial height of the OLE object, in points.|
 | _ClassName_|Optional|**String**|The OLE long class name or the ProgID for the object that's to be created. You must specify either the ClassName or FileName argument for the object, but not both.|
 | _FileName_|Optional|**String**|The file from which the object is to be created. If the path isn't specified, the current working folder is used. You must specify either the ClassName or FileName argument for the object, but not both.|
-| _DisplayAsIcon_|Optional|**[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the OLE object will be displayed as an icon.|
+| _DisplayAsIcon_|Optional|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the OLE object will be displayed as an icon.|
 | _IconFileName_|Optional|**String**|The file that contains the icon to be displayed.|
 | _IconIndex_|Optional|**Long**|The index of the icon within IconFileName. The first icon in the file has the index number 0 (zero). If an icon with the given index number doesn't exist in IconFileName, the icon with the index number 1 (the second icon in the file) is used. The default value is 0 (zero).|
 | _IconLabel_|Optional|**String**|A label (caption) to be displayed beneath the icon.|
-| _Link_|Optional|**[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the OLE object will be linked to the file from which it was created. If you specified a value for ClassName, this argument must be  **msoFalse**.|
+| _Link_|Optional|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the OLE object will be linked to the file from which it was created. If you specified a value for ClassName, this argument must be  **msoFalse**.|
 
 ### Return Value
 

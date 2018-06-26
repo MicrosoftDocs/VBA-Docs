@@ -47,8 +47,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/bce8ec2c-1a05-1e0b-8d75-7e4dd7084a19%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/10770705-e8b3-903c-bcfa-84ba26dc1478%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/7fc17907-7e3b-8415-23dc-7f1a64db731c%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/622d2bee-a7b7-6f5f-cb7c-39d69f432b27%28Office.15%29.aspx)|
+|[Application](./Publisher.PageSizes.Application.md)|
+|[Count](./Publisher.PageSizes.Count.md)|
+|[Item](./Publisher.PageSizes.Item.md)|
+|[Parent](./Publisher.PageSizes.Parent.md)|
 

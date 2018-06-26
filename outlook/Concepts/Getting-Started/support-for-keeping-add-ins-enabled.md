@@ -63,7 +63,7 @@ The registry keys and settings are described in the following tables:
 
 To block add-ins that are not managed by this policy setting, you must also configure the "Block all unmanaged add-ins" policy setting.
 
-## 
+
 <a name="bk_addresources"> </a>
 
 ##See Also

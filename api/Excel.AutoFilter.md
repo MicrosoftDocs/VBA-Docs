@@ -19,7 +19,7 @@ Represents autofiltering for the specified worksheet.
  **Note**  When using  **AutoFilter** with dates, the format should be consistent with English date separators ("/") instead of local settings ("."). A valid date would be "2/2/2007", whereas "2.2.2007" is invalid.
 
 
- **Note**  Working with objects (e g  **Interior** Object) requires adding a reference to an object. You will find more information about assigning an Object reference to a variable or property in the[Set Statement](http://msdn.microsoft.com/library/59de2927-b338-0038-50b9-3379d7331935%28Office.15%29.aspx).
+ **Note**  Working with objects (e g  **Interior** Object) requires adding a reference to an object. You will find more information about assigning an Object reference to a variable or property in the[Set Statement](../Language-Reference/Language-Reference/User-Interface-Help/set-statement.md).
 
 
 ## Example
@@ -115,4 +115,4 @@ End Sub
 ## See also
 
 
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
+[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)

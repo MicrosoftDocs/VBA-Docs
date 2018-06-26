@@ -25,7 +25,7 @@ Returns an object that represents the picture or texture fill for the specified 
 
 ### Return Value
 
-[PictureEffects](http://msdn.microsoft.com/library/bc0e1cfd-7328-360d-872e-c71ae93162ed%28Office.15%29.aspx)
+[PictureEffects](./Office.PictureEffects.md)
 
 
 ## Remarks

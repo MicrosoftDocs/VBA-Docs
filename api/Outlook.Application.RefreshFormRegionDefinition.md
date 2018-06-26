@@ -37,7 +37,7 @@ When Outlook starts, it reads the Windows registry to obtain a list of form regi
 
 The  _RegionName_ argument should match the **[InternalName](Outlook.FormRegion.InternalName.md)** property of the form region whose definition you are refreshing. The internal name of a form region supports only ASCII characters. If you specify an empty string, Outlook reads the Windows registry to obtain definitions for all of the form regions that are defined for the local machine and the current user.
 
-For more information about registering form regions, see [Specifying Form Regions in the Windows Registry](http://msdn.microsoft.com/library/0de3fcb1-b357-8300-c943-9a5a788d4976%28Office.15%29.aspx).
+For more information about registering form regions, see [Specifying Form Regions in the Windows Registry](../outlook/Concepts/Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
 
 
 ## See also

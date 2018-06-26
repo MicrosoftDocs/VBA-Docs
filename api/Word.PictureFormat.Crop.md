@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PictureFormat.Crop Property (Word)
 
-Returns or sets a [Crop](http://msdn.microsoft.com/library/21ac150e-0a8f-c77b-717f-bf38fbced5a3%28Office.15%29.aspx) object that represents an image cropping. Read/write.
+Returns or sets a [Crop](./Office.Crop.md) object that represents an image cropping. Read/write.
 
 
 ## Syntax

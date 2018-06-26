@@ -32,7 +32,7 @@ MsoTriState
 
 Setting the  **AllCaps** property to **msoTrue** sets the **SmallCaps** property to **msoFalse**, and vice versa.
 
-The  **AllCaps** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **AllCaps** property value can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

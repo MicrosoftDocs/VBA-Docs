@@ -70,4 +70,4 @@ End With
 ## See also
 
 
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
+[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)

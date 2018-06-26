@@ -21,6 +21,6 @@ The default event for a  **Frame** is the Click event.
 
 ## Related Topics
 
-[Frame Object](http://msdn.microsoft.com/library/8d9aa5df-aab0-40c1-b6ee-1957e1b76307%28Office.15%29.aspx)
+[Frame Object](../../../api/Outlook.frame.object.md)
 
 

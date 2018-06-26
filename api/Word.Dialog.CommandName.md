@@ -25,7 +25,7 @@ Returns the name of the procedure that displays the specified built-in dialog bo
 
 ## Remarks
 
-For more information about working with built-in Word dialog boxes, see [Displaying Built-in Word Dialog Boxes](http://msdn.microsoft.com/library/abe465f9-09a1-72ea-2e2d-9de14fc02434%28Office.15%29.aspx).
+For more information about working with built-in Word dialog boxes, see [Displaying Built-in Word Dialog Boxes](../word/Concepts/Customizing-Word/displaying-built-in-word-dialog-boxes.md).
 
 
 ## Example

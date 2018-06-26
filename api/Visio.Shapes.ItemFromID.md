@@ -38,7 +38,7 @@ Shape
 
 ## Remarks
 
-The ID of a  **Shape** object uniquely identifies the shape within its page or master. You can determine the ID of a shape by displaying the **Special** dialog box (select the shape, and then click **Shape Name** on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab.)
+The ID of a  **Shape** object uniquely identifies the shape within its page or master. You can determine the ID of a shape by displaying the **Special** dialog box (select the shape, and then click **Shape Name** on the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab.)
 
 The ID of a  **Style** object uniquely identifies the style within its document.
 

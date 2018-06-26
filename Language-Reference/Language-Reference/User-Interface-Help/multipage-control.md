@@ -25,6 +25,6 @@ The default event for a  **MultiPage** is the Change event.
 
 ## Related Topics
 
-[MultiPage Object](http://msdn.microsoft.com/library/eb138da0-16a4-4396-a4c6-7f3c5d844a06%28Office.15%29.aspx)
+[MultiPage Object](../../../api/Outlook.multipage.object.md)
 
 

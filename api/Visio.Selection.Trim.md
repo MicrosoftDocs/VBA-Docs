@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **Trim** method is equivalent to clicking **Trim** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab).
+Calling the  **Trim** method is equivalent to clicking **Trim** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab).
 
 The new shapes inherit the formatting of the first selected shape, have no text, and are the topmost shapes in their container—the  _n_th shape,  _n_th - 1 shape,  _n_th - 2 shape, and so forth in the  **Shapes** collection of their containing shape, where _n_ = count. The original shapes are deleted and no shapes are selected when the operation is complete.
 
