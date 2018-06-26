@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 # Using events with Application and Project objects
 
 
-You can write event procedures at the application level or the project level. For example, the [Activate](project-activate-event-project.md) event occurs at the project level when a project is activated and the [NewProject](application-newproject-event-project.md) event occurs at the application level when a project is created.
+You can write event procedures at the application level or the project level. For example, the [Activate](../../api/Project.Project.Activate(even).md) event occurs at the project level when a project is activated and the [NewProject](../../api/Project.Application.NewProject.md) event occurs at the application level when a project is created.
 
-Event procedures in the [Project](project-object-project.md) object are available for any open project. To write event procedures for the [Application](application-object-project.md) object, you must create a new object using the **WithEvents** keyword in a class module. The following steps show how to create and test a simple application event handler:
+Event procedures in the [Project](../../api/Project.Project.md) object are available for any open project. To write event procedures for the [Application](../../api/Project.Application.md) object, you must create a new object using the **WithEvents** keyword in a class module. The following steps show how to create and test a simple application event handler:
 
 1. In the Visual Basic Editor, on the option menu for  **VBAProject**, choose  **Insert**, and then choose  **Class Module** to create a class named **Class1**. You can rename the class module in the **Properties** pane. In the following examples, the class is named **TestClass**.
     
@@ -61,6 +61,6 @@ If you instantiate Project from another application and register an application-
 
 
     
-- If code for one of the three events [Application.ProjectBeforeClose](application-projectbeforeclose-event-project.md), [Application.ProjectBeforeSave](application-projectbeforesave-event-project.md), or [Project.Open](project-open-event-project.md) exists in the global file, but not in the project, it affects both the global and project files. If code exists for those events in both the global and project files, the code in the global file affects the global file, and the code in the project file affects the project.
+- If code for one of the three events [Application.ProjectBeforeClose](../../api/Project.Application.ProjectBeforeClose.md), [Application.ProjectBeforeSave](../../api/Project.Application.ProjectBeforeSave.md), or [Project.Open](../../api/Project.Project.Open.md) exists in the global file, but not in the project, it affects both the global and project files. If code exists for those events in both the global and project files, the code in the global file affects the global file, and the code in the project file affects the project.
     
 

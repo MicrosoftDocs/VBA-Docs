@@ -21,8 +21,8 @@ ms.date: 06/08/2017
 
 |**Property**|**Value**|
 |:-----|:-----|
-| **[Picture](page-picture-property-outlook-forms-script.md)**|The name of the picture that you want to use.|
-| **[PictureAlignment](page-picturealignment-property-outlook-forms-script.md)**|TopLeft|
-| **[PictureSizeMode](page-picturesizemode-property-outlook-forms-script.md)**|Clip|
-| **[PictureTiling](page-picturetiling-property-outlook-forms-script.md)**| **True**|
+| **[Picture](../../../api/Outlook.page.picture.md)**|The name of the picture that you want to use.|
+| **[PictureAlignment](../../../api/Outlook.page.picturealignment.md)**|TopLeft|
+| **[PictureSizeMode](../../../api/Outlook.page.picturesizemode.md)**|Clip|
+| **[PictureTiling](../../../api/Outlook.page.picturetiling.md)**| **True**|
 

@@ -13,7 +13,7 @@ When a macro ends, the values stored in its variables are not automatically save
 
 ## Document variables
 
-Document variables allow you to store values as part of a document or a template. For example, you might store macro values in the document or template where the macro resides. You can add variables to a document or template using the  **[Add](variables-add-method-word.md)** method of the  **[Variables](variables-object-word.md)** collection. The following example saves a document variable in the same location as the macro that is running (document or template) using the  **ActiveDocument** property.
+Document variables allow you to store values as part of a document or a template. For example, you might store macro values in the document or template where the macro resides. You can add variables to a document or template using the  **[Add](../../../api/Word.Variables.Add.md)** method of the  **[Variables](../../../api/Word.variables.md)** collection. The following example saves a document variable in the same location as the macro that is running (document or template) using the  **ActiveDocument** property.
 
 
 ```vb
@@ -22,7 +22,7 @@ Sub AddDocumentVariable()
 End Sub
 ```
 
-The following example uses the  **[Value](variable-value-property-word.md)** property with a  **[Variable](variable-object-word.md)** object to return the value of a document variable.
+The following example uses the  **[Value](../../../api/Word.Variable.Value.md)** property with a  **[Variable](../../../api/Word.Variable.md)** object to return the value of a document variable.
 
 
 
@@ -46,7 +46,7 @@ Like document variables, document properties allow you to store values as part o
 
 The Word object model breaks document properties into two groups: built-in and custom. Custom document properties include the properties shown on the  **Custom** tab in the **Properties** dialog box. Built-in document properties include the properties on all the tabs in the **Properties** dialog box, except the **Custom** tab.
 
-To access built-in properties, use the  **BuiltInDocumentProperties** property to return a **DocumentProperties** collection that includes the built-in document properties. Use the **CustomDocumentProperties**property of a  **[Document](document-object-word.md)** object or a **[Template](template-object-word.md)** object to return a **DocumentProperties** collection that includes the custom document properties. The following example creates a custom document property named "YourName" in the same location as the macro that is running (document or template).
+To access built-in properties, use the  **BuiltInDocumentProperties** property to return a **DocumentProperties** collection that includes the built-in document properties. Use the **CustomDocumentProperties**property of a  **[Document](../../../api/Word.Document.md)** object or a **[Template](../../../api/Word.Template.md)** object to return a **DocumentProperties** collection that includes the custom document properties. The following example creates a custom document property named "YourName" in the same location as the macro that is running (document or template).
 
 
 
@@ -58,7 +58,7 @@ Sub AddCustomDocumentProperties()
 End Sub
 ```
 
-Built-in document properties cannot be added to the  **DocumentProperties** collection returned by the **BuiltInDocumentProperties** property of a **[Document](document-object-word.md)** object or **[Template](template-object-word.md)** object. You can, however, retrieve the contents of a built-in document property or change the value of a read/write built-in document property.
+Built-in document properties cannot be added to the  **DocumentProperties** collection returned by the **BuiltInDocumentProperties** property of a **[Document](../../../api/Word.Document.md)** object or **[Template](../../../api/Word.Template.md)** object. You can, however, retrieve the contents of a built-in document property or change the value of a read/write built-in document property.
 
 
 ## Remarks
@@ -68,7 +68,7 @@ You can use the DOCPROPERTY field to insert document properties into a document.
 
 ## AutoText entries
 
-AutoText entries can be used to store information in a template. Unlike a document variable or property, AutoText entries can include items beyond macro variables, such as formatted text or a graphic. Use the  **[Add](autotextentries-add-method-word.md)** method with the  **[AutoTextEntries](autotextentries-object-word.md)** collection to create a new AutoText entry. The following example creates an AutoText entry named "MyText" that contains the contents of the selection. If the following instruction is part of a template macro, the new AutoText entry is stored in the template, otherwise, the AutoText entry is stored in the template attached to the document where the instruction resides.
+AutoText entries can be used to store information in a template. Unlike a document variable or property, AutoText entries can include items beyond macro variables, such as formatted text or a graphic. Use the  **[Add](../../../api/Word.AutoTextEntries.Add.md)** method with the  **[AutoTextEntries](../../../api/Word.autotextentries.md)** collection to create a new AutoText entry. The following example creates an AutoText entry named "MyText" that contains the contents of the selection. If the following instruction is part of a template macro, the new AutoText entry is stored in the template, otherwise, the AutoText entry is stored in the template attached to the document where the instruction resides.
 
 
 ```vb
@@ -78,7 +78,7 @@ Sub AddAutoTextEntry()
 End Sub
 ```
 
-Use the  **[Value](autotextentry-value-property-word.md)** property with an  **[AutoTextEntry](autotextentry-object-word.md)** object to retrieve the contents of an AutoText entry object.
+Use the  **[Value](../../../api/Word.AutoTextEntry.Value.md)** property with an  **[AutoTextEntry](../../../api/Word.AutoTextEntry.md)** object to retrieve the contents of an AutoText entry object.
 
 
 ## Settings files

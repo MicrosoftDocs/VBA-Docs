@@ -15,7 +15,7 @@ Because Microsoft Outlook supports Automation, you can control Outlook from any 
 
 The Outlook object model provides all of the functionality necessary to manipulate data that is stored in Outlook folders, and it provides the ability to control many aspects of the Outlook user interface (UI).
 
-To start an Outlook Automation session, you can use either early or late binding. Late binding uses either the Visual Basic  **GetObject** function or the [CreateObject](application-createobject-method-outlook.md) function to initialize Outlook. For example, the following code sets an object variable to the Outlook [Application](application-object-outlook.md) object, which is the highest-level object in the Outlook object model. All Automation code must first define an Outlook **Application** object to be able to access any other Outlook objects.
+To start an Outlook Automation session, you can use either early or late binding. Late binding uses either the Visual Basic  **GetObject** function or the [CreateObject](../../../api/Outlook.Application.CreateObject.md) function to initialize Outlook. For example, the following code sets an object variable to the Outlook [Application](../../../api/Outlook.Application.md) object, which is the highest-level object in the Outlook object model. All Automation code must first define an Outlook **Application** object to be able to access any other Outlook objects.
 
 
 
@@ -34,7 +34,7 @@ Dim objOL as Outlook.Application
 Set objOL = New Outlook.Application
 ```
 
-Most programming solutions interact with the data stored in Outlook. Outlook stores all of its information as items in folders. Folders are contained in one or more stores. After you set an object variable to the Outlook  **Application** object, you will commonly set a [NameSpace](namespace-object-outlook.md) object to refer to MAPI, as shown in the following example.
+Most programming solutions interact with the data stored in Outlook. Outlook stores all of its information as items in folders. Folders are contained in one or more stores. After you set an object variable to the Outlook  **Application** object, you will commonly set a [NameSpace](../../../api/Outlook.NameSpace.md) object to refer to MAPI, as shown in the following example.
 
 
 

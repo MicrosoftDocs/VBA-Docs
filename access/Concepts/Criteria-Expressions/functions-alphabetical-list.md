@@ -59,7 +59,7 @@ The following topics describe common functions used in Access expressions.
 
 [CurDir Function](http://msdn.microsoft.com/library/5ABAD447-9C6B-8E9C-D6BB-F43F23DC45AD%28Office.15%29.aspx)
 
-[CurrentUser Method](application-currentuser-method-access.md)
+[CurrentUser Method](../../../api/Access.Application.CurrentUser.md)
 
 [CVar Function](http://msdn.microsoft.com/library/fd602e34-9de2-1e8b-46fe-6a2873d6a785%28Office.15%29.aspx)
 
@@ -77,41 +77,41 @@ The following topics describe common functions used in Access expressions.
 
 [DateValue Function](http://msdn.microsoft.com/library/8C9BD3D6-1614-EEB0-0714-4730EEEB1B95%28Office.15%29.aspx)
 
-[DAvg Function](application-davg-method-access.md)
+[DAvg Function](../../../api/Access.application.davg.md)
 
 [Day Function](http://msdn.microsoft.com/library/8D4D0B63-28D9-C6A3-BD96-3688B0F93A12%28Office.15%29.aspx)
 
-[DCount Method](application-dcount-method-access.md)
+[DCount Method](../../../api/Access.Application.DCount.md)
 
 [DDB Function](http://msdn.microsoft.com/library/E6AE2093-222C-01CD-86BC-73A3CB79D075%28Office.15%29.aspx)
 
-[DDEInitiate Method](application-ddeinitiate-method-access.md)
+[DDEInitiate Method](../../../api/Access.Application.DDEInitiate.md)
 
-[DDERequest Method](application-dderequest-method-access.md)
+[DDERequest Method](../../../api/Access.Application.DDERequest.md)
 
-[DFirst Method](application-dfirst-method-access.md)
+[DFirst Method](../../../api/Access.Application.DFirst.md)
 
 [Dir Function](http://msdn.microsoft.com/library/EAF6FE6E-342A-5038-3914-BB5E58FCAD5A%28Office.15%29.aspx)
 
-[DLast Method](application-dlast-method-access.md)
+[DLast Method](../../../api/Access.Application.DLast.md)
 
-[DLookup Method](application-dlookup-method-access.md)
+[DLookup Method](../../../api/Access.Application.DLookup.md)
 
-[DMax Method](application-dmax-method-access.md)
+[DMax Method](../../../api/Access.Application.DMax.md)
 
-[DMin Method](application-dmin-method-access.md)
+[DMin Method](../../../api/Access.Application.DMin.md)
 
 [DoEvents Function](http://msdn.microsoft.com/library/B38AFDFE-9F8A-AC15-3E02-47184DAE69C5%28Office.15%29.aspx)
 
-[DStDev Method](application-dstdev-method-access.md)
+[DStDev Method](../../../api/Access.Application.DStDev.md)
 
-[DStDevP Method](application-dstdevp-method-access.md)
+[DStDevP Method](../../../api/Access.Application.DStDevP.md)
 
-[DSum Method](application-dsum-method-access.md)
+[DSum Method](../../../api/Access.Application.DSum.md)
 
-[DVar Method](application-dvar-method-access.md)
+[DVar Method](../../../api/Access.Application.DVar.md)
 
-[DVarP Method](application-dvarp-method-access.md)
+[DVarP Method](../../../api/Access.Application.DVarP.md)
 
 [Environ Function](http://msdn.microsoft.com/library/AD8CB911-5DAB-A327-BD9C-EE57818A713A%28Office.15%29.aspx)
 
@@ -119,9 +119,9 @@ The following topics describe common functions used in Access expressions.
 
 [Error Function](http://msdn.microsoft.com/library/F0E51FF6-34F4-43BE-FFCB-D935FA0513C7%28Office.15%29.aspx)
 
-[EuroConvert Method](application-euroconvert-method-access.md)
+[EuroConvert Method](../../../api/Access.Application.EuroConvert.md)
 
-[Eval Method](application-eval-method-access.md)
+[Eval Method](../../../api/Access.Application.Eval.md)
 
 [Exp Function](http://msdn.microsoft.com/library/CD9D5F30-63B5-2025-1B23-4FBED4AEEF1E%28Office.15%29.aspx)
 
@@ -157,15 +157,15 @@ The following topics describe common functions used in Access expressions.
 
 [GetSetting Function](http://msdn.microsoft.com/library/025F1D5D-6FC9-31FF-E59C-F5BCF47E3313%28Office.15%29.aspx)
 
-[GUIDFromString Method](application-guidfromstring-method-access.md)
+[GUIDFromString Method](../../../api/Access.Application.GUIDFromString.md)
 
 [Hex Function](http://msdn.microsoft.com/library/79A403A9-61AF-0991-8F13-60C1033F158A%28Office.15%29.aspx)
 
 [Hour Function](http://msdn.microsoft.com/library/CF0800D1-6E26-71AD-EC8D-09E4876BF469%28Office.15%29.aspx)
 
-[HtmlEncode Method](application-htmlencode-method-access.md)
+[HtmlEncode Method](../../../api/Access.Application.HtmlEncode.md)
 
-[HyperlinkPart Method](application-hyperlinkpart-method-access.md)
+[HyperlinkPart Method](../../../api/Access.Application.HyperlinkPart.md)
 
 [IIf Function](http://msdn.microsoft.com/library/A31D9F49-1F5A-324B-77A2-276EB573552A%28Office.15%29.aspx)
 
@@ -241,13 +241,13 @@ The following topics describe common functions used in Access expressions.
 
 [NPV Function](http://msdn.microsoft.com/library/9F444237-9F5A-834D-1AEC-A2D016DFB325%28Office.15%29.aspx)
 
-[Nz Method](application-nz-method-access.md)
+[Nz Method](../../../api/Access.Application.Nz.md)
 
 [Oct Function](http://msdn.microsoft.com/library/178A6099-9181-2160-2B97-E08C97F8B2BB%28Office.15%29.aspx)
 
 [Partition Function](http://msdn.microsoft.com/library/A9565BFC-640F-4550-455F-7D50D110DF43%28Office.15%29.aspx)
 
-[PlainText Method](application-plaintext-method-access.md)
+[PlainText Method](../../../api/Access.Application.PlainText.md)
 
 [Pmt Function](http://msdn.microsoft.com/library/30583BB1-3A39-BDF5-7632-C8810B9E3617%28Office.15%29.aspx)
 
@@ -303,7 +303,7 @@ The following topics describe common functions used in Access expressions.
 
 [String Function](http://msdn.microsoft.com/library/D6C5C054-21B9-F777-ACAE-AC31710BA5C5%28Office.15%29.aspx)
 
-[StringFromGUID Method](application-stringfromguid-method-access.md)
+[StringFromGUID Method](../../../api/Access.Application.StringFromGUID.md)
 
 [StrReverse Function](http://msdn.microsoft.com/library/6FF232F2-D45C-E99E-6CEC-99D6F86E3B37%28Office.15%29.aspx)
 

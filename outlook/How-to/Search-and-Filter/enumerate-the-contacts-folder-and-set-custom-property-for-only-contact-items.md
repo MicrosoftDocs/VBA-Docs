@@ -15,9 +15,9 @@ This topic shows a code sample that uses the message class of an item to identif
 
 1. The code sample gets all the items in the default Contacts folder.
     
-2. It uses  **[Items.Restrict](items-restrict-method-outlook.md)** to filter contact items from all the items in the default Contacts folder.
+2. It uses  **[Items.Restrict](../../../api/Outlook.Items.Restrict.md)** to filter contact items from all the items in the default Contacts folder.
     
-3. For each contact item, it uses  **[UserProperties.Add](userproperties-add-method-outlook.md)** to add a user-defined field **Affiliation** and sets it based on the existence of a home telephone number. If a home telephone number does not exist for the item, the **Affiliation** property is set to **Business**; otherwise, the field is set to  **Personal**.
+3. For each contact item, it uses  **[UserProperties.Add](../../../api/Outlook.UserProperties.Add.md)** to add a user-defined field **Affiliation** and sets it based on the existence of a home telephone number. If a home telephone number does not exist for the item, the **Affiliation** property is set to **Business**; otherwise, the field is set to  **Personal**.
     
 
 

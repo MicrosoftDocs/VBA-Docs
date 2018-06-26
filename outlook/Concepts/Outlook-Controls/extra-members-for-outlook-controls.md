@@ -44,7 +44,7 @@ And the following methods:
     
 
 Because these members are not part of the Outlook object model, they are not displayed in the object browser and are not supported by intellisense. However, you can search for specific help topics for these members in the Outlook Developer Help.
-To access these members, you can directly reference the member, as in the following example, an  **[OlkTextBox](olktextbox-object-outlook.md)** control, `TextBoxControl`, accesses the  **ControlTipText** property directly with the following line of code.
+To access these members, you can directly reference the member, as in the following example, an  **[OlkTextBox](../../../api/Outlook.OlkTextBox.md)** control, `TextBoxControl`, accesses the  **ControlTipText** property directly with the following line of code.
 
 
 

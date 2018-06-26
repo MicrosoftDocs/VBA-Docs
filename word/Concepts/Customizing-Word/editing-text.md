@@ -31,7 +31,7 @@ For information about, and examples of, other editing tasks, see the following t
 
 ## Determining whether text is selected
 
-The  **[Type](selection-type-property-word.md)** property of the  **[Selection](selection-object-word.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
+The  **[Type](../../../api/Word.Selection.Type.md)** property of the  **[Selection](../../../api/Word.Selection.md)** object returns information about the type of selection. The following example displays a message if the selection is an insertion point.
 
 
 ```vb
@@ -43,7 +43,7 @@ End Sub
 
 ## Collapsing a selection or range
 
-Use the  **Collapse**method to collapse a  **Selection** object or a **[Range](range-object-word.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
+Use the  **Collapse**method to collapse a  **Selection** object or a **[Range](../../../api/Word.Range.md)** object to its beginning or ending point. The following example collapses the selection to an insertion point at the beginning of the selection.
 
 
 ```vb
@@ -72,7 +72,7 @@ End Sub
 
 ## Extending a selection or range
 
-The following example uses the  **[MoveEnd](selection-moveend-method-word.md)** method of the  **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](selection-moveleft-method-word.md)**,  **[MoveRight](selection-moveright-method-word.md)**,  **[MoveUp](selection-moveup-method-word.md)**, and  **[MoveDown](selection-movedown-method-word.md)** methods can also be used to extend a  **Selection** object.
+The following example uses the  **[MoveEnd](../../../api/Word.Selection.MoveEnd.md)** method of the  **Selection** object to extend the end of the selection to include three additional words. The **[MoveLeft](../../../api/Word.Selection.MoveLeft.md)**,  **[MoveRight](../../../api/Word.Selection.MoveRight.md)**,  **[MoveUp](../../../api/Word.Selection.MoveUp.md)**, and  **[MoveDown](../../../api/Word.Selection.MoveDown.md)** methods can also be used to extend a  **Selection** object.
 
 
 ```vb
@@ -81,7 +81,7 @@ Sub ExtendSelection()
 End Sub
 ```
 
-The following example uses the  **[MoveEnd](range-moveend-method-word.md)** method of the **[Range](range-object-word.md)** object to extend the range to include the first three paragraphs in the active document.
+The following example uses the  **[MoveEnd](../../../api/Word.Range.MoveEnd.md)** method of the **[Range](../../../api/Word.Range.md)** object to extend the range to include the first three paragraphs in the active document.
 
 
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Using Events with the Document Object
 
-The  **[Document](document-object-word.md)** object supports several events that enable you to respond to the state of a document. You write procedures to respond to these events in the class module named "ThisDocument." Use the following steps to create an event procedure.
+The  **[Document](../../../api/Word.Document.md)** object supports several events that enable you to respond to the state of a document. You write procedures to respond to these events in the class module named "ThisDocument." Use the following steps to create an event procedure.
 
 
 1. Under your Normal project or document project in the Project Explorer window, double-click  **ThisDocument**. (In Folder view,  **ThisDocument** is located in the **Microsoft Word Objects** folder.)
@@ -20,7 +20,7 @@ The  **[Document](document-object-word.md)** object supports several events that
 4. Add the Visual Basic instructions you want to run when the event occurs.
     
 
-The following example shows a  **[New](document-new-event-word.md)** event procedure in the Normal project that will run when a new document based on the Normal template is created.
+The following example shows a  **[New](../../../api/Word.Document.New.md)** event procedure in the Normal project that will run when a new document based on the Normal template is created.
 
 
 
@@ -31,7 +31,7 @@ Private Sub Document_New()
 End Sub
 ```
 
-The following example shows a  **[Close](document-close-event-word.md)** event procedure in a document project that runs only when that document is closed.
+The following example shows a  **[Close](../../../api/Word.Document.Close(even).md)** event procedure in a document project that runs only when that document is closed.
 
 
 
@@ -46,6 +46,6 @@ If an auto macro exists in a document and the attached template, only the auto m
 
 ## Remarks
 
-For information about creating event procedures for the  **[Application](application-object-word.md)** object, see  [Using Events with the Application Object](using-events-with-the-application-object-word.md).
+For information about creating event procedures for the  **[Application](../../../api/Word.Application.md)** object, see  [Using Events with the Application Object](using-events-with-the-../../../api/Word.Application.md).
 
 

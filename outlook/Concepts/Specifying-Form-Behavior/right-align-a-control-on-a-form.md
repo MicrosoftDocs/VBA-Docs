@@ -8,9 +8,9 @@ ms.date: 06/08/2017
 
 # Right-Align a Control on a Form
 
-1. Drag a  **[Label](label-object-outlook-forms-script.md)** control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the left of the area where you want to align a control.
+1. Drag a  **[Label](../../../api/Outlook.label.md)** control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the left of the area where you want to align a control.
     
-2. Remove any text from the  **[Caption](label-caption-property-outlook-forms-script.md)** property.
+2. Remove any text from the  **[Caption](../../../api/Outlook.label.caption.md)** property.
     
 3. Right-click the label, then click  **Properties**. 
     

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Group Option Buttons
 
-The following example uses the  **[GroupName](optionbutton-groupname-property-outlook-forms-script.md)** property to create two groups of **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls on the same form.
+The following example uses the  **[GroupName](../../../api/Outlook.optionbutton.groupname.md)** property to create two groups of **[OptionButton](../../../api/Outlook.optionbutton.md)** controls on the same form.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains five **OptionButton** controls named OptionButton1 through OptionButton5.
 

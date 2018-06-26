@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Set Options from Visual Basic
 
-You can use the  **[SetOption](application-setoption-method-access.md)** and **[GetOption](application-getoption-method-access.md)** methods to set and return option values in the **Access Options** dialog box from code. To view the **Access Options** dialog box, click the Microsoft Office Button and then click **Access Options**.
+You can use the  **[SetOption](../../../api/Access.Application.SetOption.md)** and **[GetOption](../../../api/Access.Application.GetOption.md)** methods to set and return option values in the **Access Options** dialog box from code. To view the **Access Options** dialog box, click the Microsoft Office Button and then click **Access Options**.
 
 The value that you pass to the  **SetOption** method as the _setting_ argument depends on which type of option you are setting. The following table establishes some guidelines for setting options.
 

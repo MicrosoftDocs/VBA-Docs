@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Specify Control Tip Text for Controls
 
-The following example defines the  **[ControlTipText](page-controltiptext-property-outlook-forms-script.md)** property for three **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls and two **[Page](page-object-outlook-forms-script.md)** objects in a **[MultiPage](multipage-object-outlook-forms-script.md)**.
+The following example defines the  **[ControlTipText](../../../api/Outlook.page.controltiptext.md)** property for three **[CommandButton](../../../api/Outlook.commandbutton.md)** controls and two **[Page](../../../api/Outlook.page.md)** objects in a **[MultiPage](../../../api/Outlook.multipage.md)**.
 
 
  **Note**  The Microsoft Forms 2.0  **CommandButton** control includes the **ControlTipText** property.

@@ -18,35 +18,35 @@ These properties are further qualified as explicit built-in properties. Customer
 
 The Outlook object model provides several approaches to access Outlook properties, such as:
 
-- Referencing a property directly from the parent object to access explicit built-in properties of item objects (for example, the **[MailItem.SenderEmailAddress](mailitem-senderemailaddress-property-outlook.md)** property)
+- Referencing a property directly from the parent object to access explicit built-in properties of item objects (for example, the **[MailItem.SenderEmailAddress](../../../api/Outlook.MailItem.SenderEmailAddress.md)** property)
     
-- Using **[ItemProperties](itemproperties-object-outlook.md)** and **[ItemProperty](itemproperty-object-outlook.md)** to enumerate explicit built-in properties and custom properties and access custom properties of item objects
+- Using **[ItemProperties](../../../api/Outlook.ItemProperties.md)** and **[ItemProperty](../../../api/Outlook.ItemProperty.md)** to enumerate explicit built-in properties and custom properties and access custom properties of item objects
     
-- Using **[UserProperties](userproperties-object-outlook.md)** and **[UserProperty](userproperty-object-outlook.md)** to enumerate and access custom properties of item objects
+- Using **[UserProperties](../../../api/Outlook.UserProperties.md)** and **[UserProperty](../../../api/Outlook.UserProperty.md)** to enumerate and access custom properties of item objects
     
-- Using the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object to access built-in and custom properties of the following objects:
+- Using the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object to access built-in and custom properties of the following objects:
     
-  -  **[AddressEntry](addressentry-object-outlook.md)**
+  -  **[AddressEntry](../../../api/Outlook.AddressEntry.md)**
     
-  -  **[AddressList](addresslist-object-outlook.md)**
+  -  **[AddressList](../../../api/Outlook.AddressList.md)**
     
-  -  **[Attachment](attachment-object-outlook.md)**
+  -  **[Attachment](../../../api/Outlook.Attachment.md)**
     
-  -  **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)**
+  -  **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**
     
-  -  **[ExchangeUser](exchangeuser-object-outlook.md)**
+  -  **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**
     
-  -  **[Folder](folder-object-outlook.md)**
+  -  **[Folder](../../../api/Outlook.Folder.md)**
     
   -  **[Outlook item objects](outlook-item-objects.md)**
     
-  -  **[Recipient](recipient-object-outlook.md)**
+  -  **[Recipient](../../../api/Outlook.Recipient.md)**
     
-  -  **[Store](store-object-outlook.md)**
+  -  **[Store](../../../api/Outlook.Store.md)**
     
 
 > [!NOTE]
-> Although **ItemProperties** and **UserProperties** support enumerating explicit built-in properties, and **[UserProperties.Find](userproperties-find-method-outlook.md)** supports searching for explicit built-in properties, use these objects primarily for custom properties of item objects. Use the **PropertyAccessor** object to access properties of non-item objects, or item-level properties that are not explicitly exposed in the Outlook object model.
+> Although **ItemProperties** and **UserProperties** support enumerating explicit built-in properties, and **[UserProperties.Find](../../../api/Outlook.UserProperties.Find.md)** supports searching for explicit built-in properties, use these objects primarily for custom properties of item objects. Use the **PropertyAccessor** object to access properties of non-item objects, or item-level properties that are not explicitly exposed in the Outlook object model.
 
 The following table shows when to use which entry points.
 

@@ -8,24 +8,24 @@ ms.date: 06/08/2017
 
 # Unsupported Properties in a Table Object or Table Filter
 
-This topic lists the properties that you cannot add to a  **[Table](table-object-outlook.md)** or use in a **Table** filter. You cannot add these properties through **[Columns.Add](columns-add-method-outlook.md)**, and you cannot specify these properties in a filter used by the following methods:
+This topic lists the properties that you cannot add to a  **[Table](../../../api/Outlook.Table.md)** or use in a **Table** filter. You cannot add these properties through **[Columns.Add](../../../api/Outlook.Columns.Add.md)**, and you cannot specify these properties in a filter used by the following methods:
 
 
--  **[Folder.GetTable](folder-gettable-method-outlook.md)**
+-  **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)**
     
--  **[Search.GetTable](search-gettable-method-outlook.md)** (Note that the filter is derived from the **[Search](search-object-outlook.md)** object returned by **[Application.AdvancedSearch](application-advancedsearch-method-outlook.md)**)
+-  **[Search.GetTable](../../../api/Outlook.Search.GetTable.md)** (Note that the filter is derived from the **[Search](../../../api/Outlook.Search.md)** object returned by **[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)**)
     
--  **[Table.FindRow](table-findrow-method-outlook.md)**
+-  **[Table.FindRow](../../../api/Outlook.Table.FindRow.md)**
     
--  **[Table.Restrict](table-restrict-method-outlook.md)**
+-  **[Table.Restrict](../../../api/Outlook.Table.Restrict.md)**
     
 
 | **Properties**| **In Table Object**| **In Table Filter**| **Comments**|
 |:-----|:-----|:-----|:-----|
-|Binary properties|Supported |Not supported|If you add a binary property to a  **Table** referencing its namespace, the value of the property in the **Table** is in binary. You can use **[Row.BinaryToString](row-binarytostring-method-outlook.md)** to convert the value to a string.|
-|Body properties, including  **Body**,  **HTMLBody**, **http://schemas.microsoft.com/mapi/proptag/0x10130102**<br> (for **PidTagHtml**), and **http://schemas.microsoft.com/mapi/proptag/0x10090102** (for **PidTagRtfCompressed**)|The  **Body** property is supported with a condition that only the first 255 bytes of the value are stored in a **Table**. Other properties representing the body content in HTML or RTF are not supported. <br> Because only the first 255 bytes of  **Body** is stored in a **Table**, if you want to obtain the full body content of an item in text or HTML, use the item's  **EntryID** in **[GetItemFromID](namespace-getitemfromid-method-outlook.md)** to obtain the item object. Then retrieve the full value of **Body** through the item object.|Only the  **Body** property represented in text is supported in a filter. This means that the property must be referenced in a DASL filter as **urn:schemas:httpmail:textdescription**, and you cannot filter on any HTML tags in the body. To improve performance, use context indexer keywords in the filter to match strings in the body.||
+|Binary properties|Supported |Not supported|If you add a binary property to a  **Table** referencing its namespace, the value of the property in the **Table** is in binary. You can use **[Row.BinaryToString](../../../api/Outlook.Row.BinaryToString.md)** to convert the value to a string.|
+|Body properties, including  **Body**,  **HTMLBody**, **http://schemas.microsoft.com/mapi/proptag/0x10130102**<br> (for **PidTagHtml**), and **http://schemas.microsoft.com/mapi/proptag/0x10090102** (for **PidTagRtfCompressed**)|The  **Body** property is supported with a condition that only the first 255 bytes of the value are stored in a **Table**. Other properties representing the body content in HTML or RTF are not supported. <br> Because only the first 255 bytes of  **Body** is stored in a **Table**, if you want to obtain the full body content of an item in text or HTML, use the item's  **EntryID** in **[GetItemFromID](../../../api/Outlook.NameSpace.GetItemFromID.md)** to obtain the item object. Then retrieve the full value of **Body** through the item object.|Only the  **Body** property represented in text is supported in a filter. This means that the property must be referenced in a DASL filter as **urn:schemas:httpmail:textdescription**, and you cannot filter on any HTML tags in the body. To improve performance, use context indexer keywords in the filter to match strings in the body.||
 |Computed properties, such as  **AutoResolvedWinner** and **BodyFormat**. See below for a complete list of computed properties.|Not supported|Not supported|To obtain the value of a computed property for an item in a  **Table**, use the item's  **EntryID** in **GetItemFromID** to obtain the item object. Then retrieve the property value through the item object.|
-|Multi-valued properties, such as  **Categories**,  **[Children](contactitem-children-property-outlook.md)**,  **[Companies](contactitem-companies-property-outlook.md)**, and  **[VotingOptions](mailitem-votingoptions-property-outlook.md)**|Supported|Although both Jet and DASL filters both support multi-valued properties, use content indexing in DASL filters for more efficient filtering. For more information, see  [Filtering Items Using a Comparison with a Keywords Property](filtering-items-using-a-comparison-with-a-keywords-property.md).|The format of the values of a multi-valued property in a  **Table** depends on whether the property was added with its explicit built-in name or with a name referencing its namespace. If the property is added with its explicit built-in name, the value in the **Table** is a comma-delimited string. Otherwise, the value is a variant array. For more information, see [How to: Access the Values of a Multi-valued Property in a Table](access-the-values-of-a-multi-valued-property-in-a-table.md).|
+|Multi-valued properties, such as  **Categories**,  **[Children](../../../api/Outlook.ContactItem.Children.md)**,  **[Companies](../../../api/Outlook.ContactItem.Companies.md)**, and  **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**|Supported|Although both Jet and DASL filters both support multi-valued properties, use content indexing in DASL filters for more efficient filtering. For more information, see  [Filtering Items Using a Comparison with a Keywords Property](filtering-items-using-a-comparison-with-a-keywords-property.md).|The format of the values of a multi-valued property in a  **Table** depends on whether the property was added with its explicit built-in name or with a name referencing its namespace. If the property is added with its explicit built-in name, the value in the **Table** is a comma-delimited string. Otherwise, the value is a variant array. For more information, see [How to: Access the Values of a Multi-valued Property in a Table](access-the-values-of-a-multi-valued-property-in-a-table.md).|
 |Properties returning an object, such as  **Attachments**,  **Parent**,  **Recipients**,  **RecurrencePattern**, and  **UserProperties**.|Not supported if property is referenced by its explicit built-in name; supported if property is referenced by its namespace.|Not supported if property is expressed in a Jet query; supported if property is expressed in a DASL query.||
 
 
@@ -44,7 +44,7 @@ If you attempt to add one of the computed properties listed below using  **Colum
     
 -  **Companies**
     
--  **[DLName](distlistitem-dlname-property-outlook.md)**
+-  **[DLName](../../../api/Outlook.DistListItem.DLName.md)**
     
 -  **DownloadState**
     
@@ -62,13 +62,13 @@ If you attempt to add one of the computed properties listed below using  **Colum
     
 -  **MemberCount**
     
--  **[Permission](mailitem-permission-property-outlook.md)**
+-  **[Permission](../../../api/Outlook.MailItem.Permission.md)**
     
--  **[PermissionService](mailitem-permissionservice-property-outlook.md)**
+-  **[PermissionService](../../../api/Outlook.MailItem.PermissionService.md)**
     
--  **[RecurrenceState](appointmentitem-recurrencestate-property-outlook.md)**
+-  **[RecurrenceState](../../../api/Outlook.AppointmentItem.RecurrenceState.md)**
     
--  **[ResponseState](taskitem-responsestate-property-outlook.md)**
+-  **[ResponseState](../../../api/Outlook.TaskItem.ResponseState.md)**
     
 -  **Saved**
     
@@ -80,7 +80,7 @@ If you attempt to add one of the computed properties listed below using  **Colum
     
 -  **Unread**
     
--  **[VotingOptions](mailitem-votingoptions-property-outlook.md)**
+-  **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**
     
 
 
@@ -99,25 +99,25 @@ If you attempt to use one of the computed properties listed below in a Jet filte
     
 -  **Companies**
     
--  **[CompanyLastFirstNoSpace](contactitem-companylastfirstnospace-property-outlook.md)**
+-  **[CompanyLastFirstNoSpace](../../../api/Outlook.ContactItem.CompanyLastFirstNoSpace.md)**
     
--  **[CompanyLastFirstSpaceOnly](contactitem-companylastfirstspaceonly-property-outlook.md)**
+-  **[CompanyLastFirstSpaceOnly](../../../api/Outlook.ContactItem.CompanyLastFirstSpaceOnly.md)**
     
 -  **ContactNames**
     
--  **[Contents](outlookbarpane-contents-property-outlook.md)**
+-  **[Contents](../../../api/Outlook.OutlookBarPane.Contents.md)**
     
 -  **ConversationIndex**
     
--  **[DLName](distlistitem-dlname-property-outlook.md)**
+-  **[DLName](../../../api/Outlook.DistListItem.DLName.md)**
     
 -  **DownloadState**
     
--  **[Email1EntryID](contactitem-email1entryid-property-outlook.md)**
+-  **[Email1EntryID](../../../api/Outlook.ContactItem.Email1EntryID.md)**
     
--  **[Email2EntryID](contactitem-email2entryid-property-outlook.md)**
+-  **[Email2EntryID](../../../api/Outlook.ContactItem.Email2EntryID.md)**
     
--  **[Email3EntryID](contactitem-email3entryid-property-outlook.md)**
+-  **[Email3EntryID](../../../api/Outlook.ContactItem.Email3EntryID.md)**
     
 -  **EntryID**
     
@@ -129,31 +129,31 @@ If you attempt to use one of the computed properties listed below in a Jet filte
     
 -  **IsMarkedAsTask**
     
--  **[LastFirstAndSuffix](contactitem-lastfirstandsuffix-property-outlook.md)**
+-  **[LastFirstAndSuffix](../../../api/Outlook.ContactItem.LastFirstAndSuffix.md)**
     
--  **[LastFirstNoSpace](contactitem-lastfirstnospace-property-outlook.md)**
+-  **[LastFirstNoSpace](../../../api/Outlook.ContactItem.LastFirstNoSpace.md)**
     
--  **[LastFirstNoSpaceAndSuffix](contactitem-lastfirstnospaceandsuffix-property-outlook.md)**
+-  **[LastFirstNoSpaceAndSuffix](../../../api/Outlook.ContactItem.LastFirstNoSpaceAndSuffix.md)**
     
--  **[LastFirstNoSpaceCompany](contactitem-lastfirstnospacecompany-property-outlook.md)**
+-  **[LastFirstNoSpaceCompany](../../../api/Outlook.ContactItem.LastFirstNoSpaceCompany.md)**
     
--  **[LastFirstSpaceOnly](contactitem-lastfirstspaceonly-property-outlook.md)**
+-  **[LastFirstSpaceOnly](../../../api/Outlook.ContactItem.LastFirstSpaceOnly.md)**
     
--  **[LastFirstSpaceOnlyCompany](contactitem-lastfirstspaceonlycompany-property-outlook.md)**
+-  **[LastFirstSpaceOnlyCompany](../../../api/Outlook.ContactItem.LastFirstSpaceOnlyCompany.md)**
     
 -  **MeetingWorkspaceURL**
     
 -  **MemberCount**
     
--  **[NetMeetingAlias](contactitem-netmeetingalias-property-outlook.md)**
+-  **[NetMeetingAlias](../../../api/Outlook.ContactItem.NetMeetingAlias.md)**
     
 -  **NetMeetingServer**
     
--  **[Permission](mailitem-permission-property-outlook.md)**
+-  **[Permission](../../../api/Outlook.MailItem.Permission.md)**
     
--  **[PermissionService](mailitem-permissionservice-property-outlook.md)**
+-  **[PermissionService](../../../api/Outlook.MailItem.PermissionService.md)**
     
--  **[RecurrenceState](appointmentitem-recurrencestate-property-outlook.md)**
+-  **[RecurrenceState](../../../api/Outlook.AppointmentItem.RecurrenceState.md)**
     
 -  **[ReceivedByEntryID](mailitem-receivedbyentryid-property-outlook.md)**
     
@@ -161,7 +161,7 @@ If you attempt to use one of the computed properties listed below in a Jet filte
     
 -  **ReplyRecipients**
     
--  **[ResponseState](taskitem-responsestate-property-outlook.md)**
+-  **[ResponseState](../../../api/Outlook.TaskItem.ResponseState.md)**
     
 -  **Saved**
     
@@ -171,7 +171,7 @@ If you attempt to use one of the computed properties listed below in a Jet filte
     
 -  **TaskSubject**
     
--  **[VotingOptions](mailitem-votingoptions-property-outlook.md)**
+-  **[VotingOptions](../../../api/Outlook.MailItem.VotingOptions.md)**
     
 
  **Note**  For a computed property such as  **TaskSubject** or **IsMarkedAsTask**, you cannot add it to a  **Table** using **Columns.Add** or filter it using **Table.Restrict**, if you reference the property with the explicit property name. However, you can add or filter on the property if you reference it by namespace, as in the following code sample in Visual Basic for Applications: 

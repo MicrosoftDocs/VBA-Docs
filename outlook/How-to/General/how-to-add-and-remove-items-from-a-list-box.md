@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Add and Remove Items from a List Box
 
-The following example adds and deletes the contents of a  **[ListBox](listbox-object-outlook-forms-script.md)** using the **[AddItem](listbox-additem-method-outlook-forms-script.md)**,  **[RemoveItem](listbox-removeitem-method-outlook-forms-script.md)**, and  **SetFocus** methods, and the **[ListIndex](listbox-listindex-property-outlook-forms-script.md)** and **[ListCount](listbox-listcount-property-outlook-forms-script.md)** properties.
+The following example adds and deletes the contents of a  **[ListBox](../../../api/Outlook.listbox.md)** using the **[AddItem](../../../api/Outlook.listbox.additem.md)**,  **[RemoveItem](../../../api/Outlook.listbox.removeitem.md)**, and  **SetFocus** methods, and the **[ListIndex](../../../api/Outlook.listbox.listindex.md)** and **[ListCount](../../../api/Outlook.listbox.listcount.md)** properties.
 
 
  **Note**  The  **SetFocus** method is inherited from the Microsoft Forms 2.0 **ListBox** control.
@@ -22,7 +22,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - A  **ListBox** named ListBox1.
     
-- Two  **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 and CommandButton2.
+- Two  **[CommandButton](../../../api/Outlook.commandbutton.md)** controls named CommandButton1 and CommandButton2.
     
 
 

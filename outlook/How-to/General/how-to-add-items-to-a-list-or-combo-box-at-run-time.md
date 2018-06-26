@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Add Items To a List or Combo Box at Run Time
 
-In a  **[ListBox](listbox-object-outlook-forms-script.md)** or **[ComboBox](combobox-object-outlook-forms-script.md)** with a single column, use the **AddItem** method to add an individual entry to the list.
+In a  **[ListBox](../../../api/Outlook.listbox.md)** or **[ComboBox](../../../api/Outlook.combobox.md)** with a single column, use the **AddItem** method to add an individual entry to the list.
 
 In a multicolumn list box or combo box, you can use the  **List** and **Column** properties to load the list from a two-dimensional array, as shown in the following steps.
 

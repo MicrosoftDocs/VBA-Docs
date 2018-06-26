@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The  **Solutions** module is a navigation module that gives Microsoft Outlook solutions a way to expose one or more folders in the Navigation Pane. By default, its display name is **Solutions**, and its default position is '9' in the Navigation Pane, following the  **Tasks** navigation module.
 
-To add a solution and its folders programmatically to the  **Solutions** module, you must use the **[AddSolution](solutionsmodule-addsolution-method-outlook.md)** method of the **[SolutionsModule](solutionsmodule-object-outlook.md)** object. You can customize the name of the module if there is only one solution in the module; otherwise the name reverts back to **Solutions**.
+To add a solution and its folders programmatically to the  **Solutions** module, you must use the **[AddSolution](../../../api/Outlook.SolutionsModule.AddSolution.md)** method of the **[SolutionsModule](../../../api/Outlook.SolutionsModule.md)** object. You can customize the name of the module if there is only one solution in the module; otherwise the name reverts back to **Solutions**.
 
 The  **Solutions** module shares some features with other navigation modules; for example, besides the module button itself, there is a smaller button for the module that users can click to collapse module buttons on the Navigation Pane. In addition, users can open the **Solutions** module in a new window and customize the display of modules and their relative positions on the Navigation Pane by using the shortcut menu.
 

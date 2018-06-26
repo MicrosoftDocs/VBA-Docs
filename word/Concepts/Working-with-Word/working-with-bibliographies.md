@@ -19,9 +19,9 @@ The Word object model includes several objects designed for automating the creat
 
 |**Object**|**Description**|
 |:-----|:-----|
-| **[Source](source-object-word.md)**|An individual source, such as a book, journal article, or interview.|
-| **[Sources](sources-object-word.md)**|A collection of  **Source** objects.|
-| **[Bibliography](bibliography-object-word.md)**|The list of sources cited in the document (the current list) or the list of sources available in the application (in the master list).|
+| **[Source](../../../api/Word.Source.md)**|An individual source, such as a book, journal article, or interview.|
+| **[Sources](../../../api/Word.Sources.md)**|A collection of  **Source** objects.|
+| **[Bibliography](../../../api/Word.Bibliography.md)**|The list of sources cited in the document (the current list) or the list of sources available in the application (in the master list).|
 
 ## Understanding the source XML
 
@@ -124,7 +124,7 @@ Now that you have the basic structure of the source XML for a book, you can add 
 
 ## Adding sources to the master source list and the current source list
 
-Adding sources to the master source list is similar to adding sources to the current source list, with the exception that you access the  **Sources** collection from different main objects. To add a source to the master source list, you access the **Sources** collection from the **[Bibliography](bibliography-object-word.md)** property of the **[Application](application-object-word.md)** object. To add a source to the current source list, access the **Sources** collection from the **Bibliography** property of the **[Document](document-object-word.md)** object.
+Adding sources to the master source list is similar to adding sources to the current source list, with the exception that you access the  **Sources** collection from different main objects. To add a source to the master source list, you access the **Sources** collection from the **[Bibliography](../../../api/Word.Bibliography.md)** property of the **[Application](../../../api/Word.Application.md)** object. To add a source to the current source list, access the **Sources** collection from the **Bibliography** property of the **[Document](../../../api/Word.Document.md)** object.
 
 The following example uses the basic structure determined previously to add another book source to the master source list.
 
@@ -200,7 +200,7 @@ End Sub
 
 ## Sorting the master source list
 
-You can set the sort order in the  **Source Manager** dialog box by using the **[BibliographySort](options-bibliographysort-property-word.md)** property. The **BibliographySort** property can be a **String** value of "Author", "Tag", "Title", or "Year". This object does not alter the sorting of sources in the document's bibliography. The following example sorts the sources by title.
+You can set the sort order in the  **Source Manager** dialog box by using the **[BibliographySort](../../../api/Word.Options.BibliographySort.md)** property. The **BibliographySort** property can be a **String** value of "Author", "Tag", "Title", or "Year". This object does not alter the sorting of sources in the document's bibliography. The following example sorts the sources by title.
 
 
 ```vb
@@ -212,7 +212,7 @@ End Sub
 
 ## Inserting citations
 
-You can insert a bibliography citation by using the Add method for the Fields collection. The following example inserts a citation at the cursor for the source that you added previously. The text for the field equals the tag value, or the value of the Tag element, which in this case is "Mor01". (See the XML code in the AddBibSource subroutine shown previously for the XML string "<b:Tag>Mor01</b:Tag>".) The value of the Tag element also corresponds to the  **[Tag](source-tag-property-word.md)** property for a **Source** object.
+You can insert a bibliography citation by using the Add method for the Fields collection. The following example inserts a citation at the cursor for the source that you added previously. The text for the field equals the tag value, or the value of the Tag element, which in this case is "Mor01". (See the XML code in the AddBibSource subroutine shown previously for the XML string "<b:Tag>Mor01</b:Tag>".) The value of the Tag element also corresponds to the  **[Tag](../../../api/Word.Source.Tag.md)** property for a **Source** object.
 
 
 ```vb

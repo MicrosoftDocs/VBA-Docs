@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Change the Column Widths of a Multi-Column List Box
 
-The following example uses the  **[ColumnWidths](listbox-columnwidths-property-outlook-forms-script.md)** property to change the column widths of a multicolumn **[ListBox](listbox-object-outlook-forms-script.md)**. The example uses three  **[TextBox](textbox-object-outlook-forms-script.md)** controls to specify the individual column widths and uses the **[Click](commandbutton-click-event-outlook-forms-script.md)** event to specify the units of measure of each **TextBox**.
+The following example uses the  **[ColumnWidths](../../../api/Outlook.listbox.columnwidths.md)** property to change the column widths of a multicolumn **[ListBox](../../../api/Outlook.listbox.md)**. The example uses three  **[TextBox](../../../api/Outlook.textbox.md)** controls to specify the individual column widths and uses the **[Click](../../../api/Outlook.commandbutton.click.md)** event to specify the units of measure of each **TextBox**.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
 
@@ -21,7 +21,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
     
 - Three  **TextBox** controls named TextBox1, TextBox2, and TextBox3 that are bound to the custom text fields above.
     
-- A  **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
     
 Try entering the value 0 to hide a column.
 

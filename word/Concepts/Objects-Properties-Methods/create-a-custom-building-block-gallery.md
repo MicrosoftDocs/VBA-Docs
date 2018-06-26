@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # Create a Custom Building Block Gallery
 
-A building block gallery is a collection of building blocks that are of the same type. There are 32 different types of building block collections that you can create (by using the  **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** enumeration). Each of these types is a gallery. Word provides some of these galleries as built-in building block collections, but most of them are provided so that you can organize your own building blocks. 
+A building block gallery is a collection of building blocks that are of the same type. There are 32 different types of building block collections that you can create (by using the  **[WdBuildingBlockTypes](../../../api/Word.WdBuildingBlockTypes.md)** enumeration). Each of these types is a gallery. Word provides some of these galleries as built-in building block collections, but most of them are provided so that you can organize your own building blocks. 
 
 To provide added flexibility with your custom galleries, you can create categories within each gallery to further organize your custom building blocks.
 
 The objects used in this sample are:
 
--  **[Template](template-object-word.md)**
+-  **[Template](../../../api/Word.Template.md)**
     
--  **[Range](range-object-word.md)**
+-  **[Range](../../../api/Word.Range.md)**
     
--  **[BuildingBlockEntries](buildingblockentries-object-word.md)**
+-  **[BuildingBlockEntries](../../../api/Word.BuildingBlockEntries.md)**
     
--  **[BuildingBlock](buildingblock-object-word.md)**
+-  **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
     
 
 ## Sample

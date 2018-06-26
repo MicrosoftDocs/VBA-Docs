@@ -14,7 +14,7 @@ To specify date or time criteria for an operation, you supply a date or time val
  **Note**  The number signs indicate to Access that the  _criteria_ argument contains a date or time within a string.
 
 
-Suppose that you are creating a filter for an Employees form to display records for all employees born on or after January 1, 1960. You could construct the  _criteria_ argument for the form's **[Filter](form-filter-property-access.md)** or **[ServerFilter](form-serverfilter-property-access.md)** property, as shown in the following example. Note the placement of the number signs.
+Suppose that you are creating a filter for an Employees form to display records for all employees born on or after January 1, 1960. You could construct the  _criteria_ argument for the form's **[Filter](../../../api/Access.Form.Filter(property).md)** or **[ServerFilter](../../../api/Access.Form.ServerFilter.md)** property, as shown in the following example. Note the placement of the number signs.
 
 
 

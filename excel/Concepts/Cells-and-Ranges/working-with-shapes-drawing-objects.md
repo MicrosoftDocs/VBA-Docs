@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Working with Shapes (Drawing Objects)
 
-Shapes, or drawing objects, are represented by three different objects: the  **[Shapes](shapes-object-excel.md)** collection, the  **[ShapeRange](shaperange-object-excel.md)** collection, and the  **[Shape](shape-object-excel.md)** object. In general, you use the  **Shapes** collection to create shapes and to iterate through all the shapes on a given worksheet; you use the **Shape** object to format or modify a single shape; and you use the **ShapeRange** collection to modify multiple shapes the same way you work with multiple shapes in the user interface.
+Shapes, or drawing objects, are represented by three different objects: the  **[Shapes](../../../api/Excel.Shapes.md)** collection, the  **[ShapeRange](../../../api/Excel.ShapeRange.md)** collection, and the  **[Shape](../../../api/Excel.Shape.md)** object. In general, you use the  **Shapes** collection to create shapes and to iterate through all the shapes on a given worksheet; you use the **Shape** object to format or modify a single shape; and you use the **ShapeRange** collection to modify multiple shapes the same way you work with multiple shapes in the user interface.
 
 
 ## Setting Properties for a Shape
@@ -108,6 +108,6 @@ Next
 
 ## Aligning, Distributing, and Grouping Shapes in a Shape Range
 
-Use the  **[Align](shaperange-align-method-excel.md)** and  **[Distribute](shaperange-distribute-method-excel.md)** methods to position a set of shapes relative to one another or relative to the document that contains them. Use the  **[Group](shaperange-group-method-excel.md)** method or the  **[Regroup](shaperange-regroup-method-excel.md)** method to form a single grouped shape from a set of shapes.
+Use the  **[Align](../../../api/Excel.ShapeRange.Align.md)** and  **[Distribute](../../../api/Excel.ShapeRange.Distribute.md)** methods to position a set of shapes relative to one another or relative to the document that contains them. Use the  **[Group](../../../api/Excel.ShapeRange.Group.md)** method or the  **[Regroup](../../../api/Excel.ShapeRange.Regroup.md)** method to form a single grouped shape from a set of shapes.
 
 

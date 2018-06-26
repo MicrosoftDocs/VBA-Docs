@@ -29,6 +29,6 @@ If you move a control from one part of a form to another, the setting of  **Heig
 
 The value assigned to  **Height** or **Width** must be greater than or equal to zero. For most systems, the recommended range of values is from 0 to +32,767. Higher values may also work depending on your system configuration.
 
-For most systems, the recommended range of values for  **Left** and **Top** is from -32,767 to +32,767. Other values may also work depending on your system configuration. For an **[OlkComboBox](olkcombobox-object-outlook.md)** control, values of **Left** and **Top** apply to the text box portion of the control, not to the list portion. When you move or size a control, its new **Left** setting is automatically entered in the property sheet.
+For most systems, the recommended range of values for  **Left** and **Top** is from -32,767 to +32,767. Other values may also work depending on your system configuration. For an **[OlkComboBox](../../../api/Outlook.OlkComboBox.md)** control, values of **Left** and **Top** apply to the text box portion of the control, not to the list portion. When you move or size a control, its new **Left** setting is automatically entered in the property sheet.
 
 

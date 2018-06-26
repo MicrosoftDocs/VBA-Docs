@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Animate a Sparkline
 
-You can animate a sparkline by using the  [ModifySourceData](sparklinegroup-modifysourcedata-method-excel.md) method of the [SparklineGroup](sparklinegroup-object-excel.md) object to iterate over a range of data. This example takes 36 months of data and animates it by displaying the first year of data, then iterates through each subsequent month until it reaches the last month of data. A counter is used to slow the animation so it can be viewed more easily. This example requires a sparkline group that contains three sparklines in the range A2:A4 that represent data in the range B2:AK4.
+You can animate a sparkline by using the  [ModifySourceData](../../../api/Excel.SparklineGroup.ModifySourceData.md) method of the [SparklineGroup](../../../api/Excel.SparklineGroup.md) object to iterate over a range of data. This example takes 36 months of data and animates it by displaying the first year of data, then iterates through each subsequent month until it reaches the last month of data. A counter is used to slow the animation so it can be viewed more easily. This example requires a sparkline group that contains three sparklines in the range A2:A4 that represent data in the range B2:AK4.
 
 
 ```vb
@@ -44,7 +44,7 @@ End Sub
 ## See also
 
 
- [SparklineGroup Object](sparklinegroup-object-excel.md)
+ [SparklineGroup Object](../../../api/Excel.SparklineGroup.md)
 #### Other resources
 
 

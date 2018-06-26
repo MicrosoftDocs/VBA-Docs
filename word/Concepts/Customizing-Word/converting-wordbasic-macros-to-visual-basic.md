@@ -49,7 +49,7 @@ WordBasic.Insert "Hello World"
 End Sub
 ```
 
-Each statement in the converted macro begins with the  **[WordBasic](application-wordbasic-property-word.md)** property.  **WordBasic** is a property in the Word object model that returns an object with all the WordBasic statements and functions; this object makes it possible to run WordBasic macros in Word.
+Each statement in the converted macro begins with the  **[WordBasic](../../../api/Word.Application.WordBasic.md)** property.  **WordBasic** is a property in the Word object model that returns an object with all the WordBasic statements and functions; this object makes it possible to run WordBasic macros in Word.
 
  **Note**  If you save the template over the original template, the WordBasic macros will be permanently lost and previous versions of Word will not be able to use the converted macros.
 

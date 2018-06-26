@@ -29,17 +29,17 @@ Each of these aspects has new objects and members associated with it in the Visi
     
 To connect your Visio drawing to a data source programmatically, you can use the Visio API for data connectivity, which includes the following objects and their associated members:
 
--  **[DataRecordsets](datarecordsets-object-visio.md)** collection
+-  **[DataRecordsets](../../api/Visio.DataRecordsets.md)** collection
     
--  **[DataRecordset](datarecordset-object-visio.md)** object
+-  **[DataRecordset](../../api/Visio.DataRecordset.md)** object
     
--  **[DataConnection](dataconnection-object-visio.md)** object
+-  **[DataConnection](../../api/Visio.DataConnection.md)** object
     
--  **[DataRecordsetChangedEvent](datarecordsetchangedevent-object-visio.md)** object
+-  **[DataRecordsetChangedEvent](../../api/Visio.DataRecordsetChangedEvent.md)** object
     
--  **[DataColumns](datacolumns-object-visio.md)** collection
+-  **[DataColumns](../../api/Visio.DataColumns.md)** collection
     
--  **[DataColumn](datacolumn-object-visio.md)** object
+-  **[DataColumn](../../api/Visio.DataColumn.md)** object
     
 
 ## About Data Recordsets and Data Connections
@@ -56,11 +56,11 @@ You can also add a  **DataRecordset** object by using an XML file that conforms 
 To add a  **DataRecordset** object to the **DataRecordsets** collection, you can use one of the following three methods, depending on the data source you want to connect to and whether you want to pass the method a connection string and query command string or a saved Office Data Connection (ODC) file that contains the connection and query information:
 
 
--  **[DataRecordsets.Add](datarecordsets-add-method-visio.md)**
+-  **[DataRecordsets.Add](../../api/Visio.DataRecordsets.Add.md)**
     
--  **[DataRecordsets.AddFromConnectionFile](datarecordsets-addfromconnectionfile-method-visio.md)**
+-  **[DataRecordsets.AddFromConnectionFile](../../api/Visio.DataRecordsets.AddFromConnectionFile.md)**
     
--  **[DataRecordsets.AddFromXML](datarecordsets-addfromxml-method-visio.md)**
+-  **[DataRecordsets.AddFromXML](../../api/Visio.DataRecordsets.AddFromXML.md)**
     
 The following Visual Basic for Applications (VBA) sample macro shows how you might use the  **Add** method to connect a Visio drawing to data in an Excel worksheet, in this case, in the ORGDATA.XLS sample workbook that is included with Visio:
 
@@ -95,13 +95,13 @@ The  **Add** method returns a **DataRecordset** object and takes four parameters
 
 -  _ConnectionIDOrString_ The ID of an existing **DataConnection** object or the connection string to specify a new data-source connection. If you pass the ID of an existing **DataConnection** object that is currently being used by one or more other data recordsets, the data recordsets become a transacted group recordset. All data recordsets in the group are refreshed whenever a data-refresh operation occurs. You can determine an appropriate connection string by first using the **Data Selector Wizard** in the Visio user interface (UI) to make the same connection, recording a macro while running the wizard, and then copying the connection string from the macro code.
     
--  _CommandString_ The string that specifies the database table or Excel worksheet and specifies the fields (columns) within the table or worksheet that contain the data you want to query. The command string is also passed to the **[DataRecordset.Refresh](datarecordset-refresh-method-visio.md)** method when the data in the recordset is refreshed.
+-  _CommandString_ The string that specifies the database table or Excel worksheet and specifies the fields (columns) within the table or worksheet that contain the data you want to query. The command string is also passed to the **[DataRecordset.Refresh](../../api/Visio.DataRecordset.Refresh.md)** method when the data in the recordset is refreshed.
     
--  _AddOptions_ A combination of one or more values from the **[VisDataRecordsetAddOptions](visdatarecordsetaddoptions-enumeration-visio.md)** enumeration. These values specify certain data recordset behaviors, and make it possible, for example, to prevent the queried data in the recordset from appearing in the **External Data** window in the Visio UI or from being refreshed by user actions. Afteryou assign this value, you cannot change it for the duration of the **DataRecordset** object.
+-  _AddOptions_ A combination of one or more values from the **[VisDataRecordsetAddOptions](../../api/Visio.visdatarecordsetaddoptions.md)** enumeration. These values specify certain data recordset behaviors, and make it possible, for example, to prevent the queried data in the recordset from appearing in the **External Data** window in the Visio UI or from being refreshed by user actions. Afteryou assign this value, you cannot change it for the duration of the **DataRecordset** object.
     
 -  _Name_ An optional string that gives the data recordset a display name. If you specify for data from the recordset to be displayed in the **External Data** window in the Visio UI, the name you pass appears on the tab of that window that corresponds to the data recordset. In our example, there is no existing data connection, so for the first parameter of the **Add** method, we pass _strConnection_, the connection string we defined. For the second parameter, we pass  _strCommand_, the command string we defined, which directs Visio to select all columns from the worksheet we specified. For the third parameter of the  **Add** method, we pass zero to specify default behavior of the data recordset, and for the last parameter, we pass _Org Data_, the display name we defined for the data recordset.
     
-The following sample code shows how to get the  **DataConnection** object that was created when we added a **DataRecordset** object to the **DataRecordsets** collection. It prints the connection string associated with the **DataConnection** object in the **Immediate** window by accessing the **[ConnectionString](dataconnection-connectionstring-property-visio.md)** property of the **DataConnection** object.
+The following sample code shows how to get the  **DataConnection** object that was created when we added a **DataRecordset** object to the **DataRecordsets** collection. It prints the connection string associated with the **DataConnection** object in the **Immediate** window by accessing the **[ConnectionString](../../api/Visio.DataConnection.ConnectionString.md)** property of the **DataConnection** object.
 
 
 
@@ -116,7 +116,7 @@ Public Sub GetDataConnectionObject(vsoDataRecordset As Visio.DataRecordset)
 End Sub
 ```
 
-Just as you can get the connection string associated with a  **DataConnection** object by accessing its **ConnectionString** property, you can get the command string associated with a **DataRecordset** object by accessing its **[CommandString](datarecordset-commandstring-property-visio.md)** property. Both of these properties are assignable, so you can change the data source associated with a **DataRecordset** object or the query associated with a **DataConnection** object at any time, although changes are not reflected in your drawing until you refresh the data. For more information about refreshing data, see [About Linking Shapes to Data](about-linking-shapes-to-data.md). 
+Just as you can get the connection string associated with a  **DataConnection** object by accessing its **ConnectionString** property, you can get the command string associated with a **DataRecordset** object by accessing its **[CommandString](../../api/Visio.DataRecordset.CommandString.md)** property. Both of these properties are assignable, so you can change the data source associated with a **DataRecordset** object or the query associated with a **DataConnection** object at any time, although changes are not reflected in your drawing until you refresh the data. For more information about refreshing data, see [About Linking Shapes to Data](about-linking-shapes-to-data.md). 
 
 
 ## Accessing Data in Data Recordsets Programmatically

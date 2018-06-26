@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Using Events with the Document Object (Publisher)
 
-The  **Document** object supports seven events: **[BeforeClose](document-beforeclose-event-publisher.md)**,  **[Open](document-open-event-publisher.md)**,  **[Redo](document-redo-event-publisher.md)**,  **[ShapesAdded](document-shapesadded-event-publisher.md)**,  **[ShapesRemoved](document-shapesremoved-event-publisher.md)**,  **[Undo](document-undo-event-publisher.md)**, and  **[WizardAfterChange](document-wizardafterchange-event-publisher.md)**. You write procedures to respond to these events in the class module named "ThisDocument". Use the following steps to create an event procedure.
+The  **Document** object supports seven events: **[BeforeClose](../../api/Publisher.Document.BeforeClose.md)**,  **[Open](../../api/Publisher.Document.Open.md)**,  **[Redo](../../api/Publisher.Document.Redo(even).md)**,  **[ShapesAdded](../../api/Publisher.Document.ShapesAdded.md)**,  **[ShapesRemoved](../../api/Publisher.Document.ShapesRemoved.md)**,  **[Undo](../../api/Publisher.Document.Undo(even).md)**, and  **[WizardAfterChange](../../api/Publisher.Document.WizardAfterChange.md)**. You write procedures to respond to these events in the class module named "ThisDocument". Use the following steps to create an event procedure.
 
 
 1. Under your publication project in the  **Project Explorer** window, double-click **ThisDocument**. (In  **Folder** view, **ThisDocument** is located in the **Microsoft Publisher Objects** folder.)

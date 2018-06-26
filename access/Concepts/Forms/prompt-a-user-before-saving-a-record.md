@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Prompt a User Before Saving a Record
 
-The following example illustrates how to use the [BeforeUpdate](form-beforeupdate-event-access.md) event to prompt users to confirm their changes each time they save a record in a form.
+The following example illustrates how to use the [BeforeUpdate](../../../api/Access.Form.BeforeUpdate(even).md) event to prompt users to confirm their changes each time they save a record in a form.
 
 
 ```vb

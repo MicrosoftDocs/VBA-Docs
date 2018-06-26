@@ -15,7 +15,7 @@ The following example uses the  **Add** method of the Microsoft Forms 2.0 **Cont
 
 To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
-- A  **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
     
 
 

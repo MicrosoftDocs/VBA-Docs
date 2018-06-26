@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab
 
-This procedure sets properties on a  [Page](page-object-outlook-forms-script.md) or [Tab](tab-object-outlook-forms-script.md) in a [MultiPage](multipage-object-outlook-forms-script.md) or [TabStrip](tabstrip-object-outlook-forms-script.md) control only.
+This procedure sets properties on a  [Page](../../../api/Outlook.page.md) or [Tab](../../../api/Outlook.tab.md) in a [MultiPage](multi../../../api/Outlook.page.md) or [TabStrip](../../../api/Outlook.tabstrip.md) control only.
 
 
 1. In the Forms Designer, select a page or tab in a  **MultiPage** or **TabStrip** control. For more information, see [How to: Select and Edit a Control Within a Group](select-and-edit-a-control-within-a-group.md) and [How to: Assign a Control Tip, Caption, or Accelerator Key to a Control](assign-a-control-tip-caption-or-accelerator-key-to-a-control.md). 
@@ -27,9 +27,9 @@ This procedure sets properties on a  [Page](page-object-outlook-forms-script.md)
 
  For more information about the **ControlTipText** property to set for a specific control, see:
 
-- The  **[ControlTipText](page-controltiptext-property-outlook-forms-script.md)** property for the **[Page](page-object-outlook-forms-script.md)** control.
+- The  **[ControlTipText](../../../api/Outlook.page.controltiptext.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
-- The  **[ControlTipText](tab-controltiptext-property-outlook-forms-script.md)** property for the **[Tab](tab-object-outlook-forms-script.md)** control.
+- The  **[ControlTipText](tab-controltiptext-property-outlook-forms-script.md)** property for the **[Tab](../../../api/Outlook.tab.md)** control.
     
 
 

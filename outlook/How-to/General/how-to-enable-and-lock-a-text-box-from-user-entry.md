@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Enable and Lock a Text Box from User Entry
 
-The following example demonstrates the  **[Enabled](textbox-enabled-property-outlook-forms-script.md)** and **[Locked](textbox-locked-property-outlook-forms-script.md)** properties and how they complement each other. This example exposes each property independently with a **[CheckBox](checkbox-object-outlook-forms-script.md)**, so you observe the settings individually and combined. This example also includes a second  **[TextBox](textbox-object-outlook-forms-script.md)** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
+The following example demonstrates the  **[Enabled](../../../api/Outlook.textbox.enabled.md)** and **[Locked](../../../api/Outlook.textbox.locked.md)** properties and how they complement each other. This example exposes each property independently with a **[CheckBox](../../../api/Outlook.checkbox.md)**, so you observe the settings individually and combined. This example also includes a second  **[TextBox](../../../api/Outlook.textbox.md)** so you can copy and paste information between the **TextBox** controls and verify the activities supported by the settings of these properties.
 
 
  **Note**  You can copy the selection to the Clipboard using CTRL+C and paste using CTRL+V.

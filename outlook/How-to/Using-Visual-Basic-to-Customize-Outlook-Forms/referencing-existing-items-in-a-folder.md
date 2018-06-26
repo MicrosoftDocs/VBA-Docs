@@ -16,11 +16,11 @@ There are a number of ways you can reference existing items in a folder using Mi
 
 - Using a  `For … Next` or `For Each … Next` loop
     
-- Using the  **[Items](items-object-outlook.md)** collection
+- Using the  **[Items](../../../api/Outlook.Items.md)** collection
     
-- Using the  **[Find](items-find-method-outlook.md)** method
+- Using the  **[Find](../../../api/Outlook.Items.Find.md)** method
     
-- Using the  **[Restrict](items-restrict-method-outlook.md)** method
+- Using the  **[Restrict](../../../api/Outlook.Items.Restrict.md)** method
     
 
 ## Using a For…Next or For Each...Next Loop
@@ -129,7 +129,7 @@ MyItem.Display
 
 ## Using the Find Method
 
-Use the  **Find** method to search for an item in a folder based on the value of one of its fields. If the search is successful, you can then use the **[FindNext](items-findnext-method-outlook.md)** method to check for additional items that meet the same search criteria.
+Use the  **Find** method to search for an item in a folder based on the value of one of its fields. If the search is successful, you can then use the **[FindNext](../../../api/Outlook.Items.FindNext.md)** method to check for additional items that meet the same search criteria.
 
 The following examples search to see if you have any high priority tasks.
 

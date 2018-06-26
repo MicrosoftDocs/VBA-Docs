@@ -8,9 +8,9 @@ ms.date: 06/08/2017
 
 # Obtain the E-mail Address of a Recipient
 
-This topic shows how to obtain the SMTP address for each recipient in a  **[Recipients](recipients-object-outlook.md)** collection.
+This topic shows how to obtain the SMTP address for each recipient in a  **[Recipients](../../../api/Outlook.Recipients.md)** collection.
 
-The method in the code sample,  `GetSMTPAddressForRecipients`, takes a  **[MailItem](mailitem-object-outlook.md)** as an input argument and then displays the SMTP address of each recipient for that mail item. The method first retrieves the **Recipients** collection that represents the set of recipients specified for the mail item. For each **[Recipient](recipient-object-outlook.md)** in that **Recipients** collection, the method then obtains the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that corresponds to that **Recipient** object, and uses the **PropertyAccessor** to get the value of the MAPI property `http://schemas.microsoft.com/mapi/proptag/0x39FE001E`, that maps to the SMTP address of the recipient.
+The method in the code sample,  `GetSMTPAddressForRecipients`, takes a  **[MailItem](../../../api/Outlook.MailItem.md)** as an input argument and then displays the SMTP address of each recipient for that mail item. The method first retrieves the **Recipients** collection that represents the set of recipients specified for the mail item. For each **[Recipient](../../../api/Outlook.Recipient.md)** in that **Recipients** collection, the method then obtains the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object that corresponds to that **Recipient** object, and uses the **PropertyAccessor** to get the value of the MAPI property `http://schemas.microsoft.com/mapi/proptag/0x39FE001E`, that maps to the SMTP address of the recipient.
 
 This topic contains two code samples. The following code sample is written in Microsoft Visual Basic for Applications (VBA). 
 

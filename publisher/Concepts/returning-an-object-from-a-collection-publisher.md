@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Returning an Object from a Collection (Publisher)
 
-The  **Item** method returns a single object from a collection. The following example sets a variable to a **[Page](page-object-publisher.md)** object that represents the first page in the **[Pages](pages-object-publisher.md)** collection.
+The  **Item** method returns a single object from a collection. The following example sets a variable to a **[Page](../../api/Publisher.Page.md)** object that represents the first page in the **[Pages](../../api/Publisher.Pages.md)** collection.
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Using Events with the Application Object (Word)
 
-To create an event handler for an event of the  **[Application](application-object-word.md)** object, you need to complete the following three steps:
+To create an event handler for an event of the  **[Application](../../../api/Word.Application.md)** object, you need to complete the following three steps:
 
 
 1.  [Declare an object variable in a class module to respond to the events.](#Declare)

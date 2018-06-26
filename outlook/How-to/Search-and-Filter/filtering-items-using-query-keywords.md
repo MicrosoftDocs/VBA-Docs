@@ -53,7 +53,7 @@ You can use the following query keywords only in DAV Searching and Locating (DAS
     
     You can combine the  **Is Null** keywords with the **Not** operator to evaluate if a property is not null.
     
-    The following DASL query retrieves all contacts where the custom property  **Order Date** is not null and the **[CompanyName](contactitem-companyname-property-outlook.md)** property is exactly Microsoft:
+    The following DASL query retrieves all contacts where the custom property  **Order Date** is not null and the **[CompanyName](../../../api/Outlook.ContactItem.CompanyName.md)** property is exactly Microsoft:
     
 
 

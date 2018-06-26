@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Create an Appointment as a Meeting on the Calendar
 
-This topic shows a Visual Basic for Applications (VBA) procedure,  `CreateAppt`, that programmatically creates an appointment, sets various properties, and sends the appointment to request a meeting.  `CreateAppt` uses the **[CreateItem](application-createitem-method-outlook.md)** method to create an **[AppointmentItem](appointmentitem-object-outlook.md)** object. It sets the **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** property of the **AppointmentItem** to **olMeeting** to indicate the appointment as a meeting request, and sets a required attendee, an optional attendee, and a meeting location as a resource. The example then displays and sends the appointment item.
+This topic shows a Visual Basic for Applications (VBA) procedure,  `CreateAppt`, that programmatically creates an appointment, sets various properties, and sends the appointment to request a meeting.  `CreateAppt` uses the **[CreateItem](../../../api/Outlook.Application.CreateItem.md)** method to create an **[AppointmentItem](../../../api/Outlook.AppointmentItem.md)** object. It sets the **[MeetingStatus](../../../api/Outlook.AppointmentItem.MeetingStatus.md)** property of the **AppointmentItem** to **olMeeting** to indicate the appointment as a meeting request, and sets a required attendee, an optional attendee, and a meeting location as a resource. The example then displays and sends the appointment item.
 
 
 ```vb

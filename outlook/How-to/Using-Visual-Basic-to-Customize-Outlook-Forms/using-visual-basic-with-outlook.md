@@ -27,7 +27,7 @@ Because VBScript code is associated with a particular item, code that responds t
 
 Code written for Visual Basic or Visual Basic for Applications often does not work in VBScript without modification. For example, you must replace all built-in constants written in Visual Basic for Applications with the literal numeric values of those constants in VBScript. And VBScript uses only the  **Variant** data type.
 Learn about  [constants and variables in VBScript](constants-and-variables-in-vbscript.md).
-In Outlook Visual Basic for Applications and VBScript, you do not need to call  **[CreateObject](application-createobject-method-outlook.md)** or **GetObject** to obtain an **[Application](application-object-outlook.md)** object. For example, the following code displays the Tasks folder:
+In Outlook Visual Basic for Applications and VBScript, you do not need to call  **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** or **GetObject** to obtain an **[Application](../../../api/Outlook.Application.md)** object. For example, the following code displays the Tasks folder:
 
 
 
@@ -48,6 +48,6 @@ olMAPI.GetDefaultFolder(olFolderTasks).Display
 
 or use the  **Application** object that is passed to the **OnConnection** event of the add-in.
 
- **Note**  The  **Application** object returned from calling the **[CreateObject](application-createobject-method-outlook.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](security-behavior-of-the-outlook-object-model.md).
+ **Note**  The  **Application** object returned from calling the **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](security-behavior-of-the-outlook-object-model.md).
 
 

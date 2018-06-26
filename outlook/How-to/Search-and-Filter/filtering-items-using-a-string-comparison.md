@@ -87,7 +87,7 @@ filter = "@SQL=" &; Chr(34) &; _
 
 ## String Comparisons Using Jet Syntax
 
-The string comparison that Jet filters support is limited to an equivalence matching. You can filter items based on the value of a string property being equivalent to a specific string, for example, the  **[LastName](contactitem-lastname-property-outlook.md)** property being equal to "Wilson". Note that the comparison is not case sensitive; in the last example, specifying "Wilson" and "wilson" as the comparison string will return the same results.
+The string comparison that Jet filters support is limited to an equivalence matching. You can filter items based on the value of a string property being equivalent to a specific string, for example, the  **[LastName](../../../api/Outlook.ContactItem.LastName.md)** property being equal to "Wilson". Note that the comparison is not case sensitive; in the last example, specifying "Wilson" and "wilson" as the comparison string will return the same results.
 
 
 ## String Comparisons Using DASL Syntax

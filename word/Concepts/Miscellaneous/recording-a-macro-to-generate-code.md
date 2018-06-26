@@ -27,12 +27,12 @@ If you are unsure of which Visual Basic method or property to use, you can turn 
 6. Select the macro name that you assigned in Step 2 and click  **Edit**.
     
 
-View the Visual Basic code to determine the property that corresponds to the left paragraph indent (the  **[LeftIndent](paragraph-leftindent-property-word.md)** property). Position the cursor within `.LeftIndent` and press **F1** or click the **Help** button.
+View the Visual Basic code to determine the property that corresponds to the left paragraph indent (the  **[LeftIndent](../../../api/Word.Paragraph.LeftIndent.md)** property). Position the cursor within `.LeftIndent` and press **F1** or click the **Help** button.
 
 
 ## Remarks
 
-Recorded macros use the  **[Selection](selection-object-word.md)** object. The following code example indents the selected paragraphs by one-half inch.
+Recorded macros use the  **[Selection](../../../api/Word.Selection.md)** object. The following code example indents the selected paragraphs by one-half inch.
 
 
 ```vb
@@ -41,6 +41,6 @@ Sub IndentParagraph()
 End Sub
 ```
 
-You can, however, modify the recorded macro to work with  **[Range](range-object-word.md)** objects. For more information, see [Revising Recorded Visual Basic Macros](revising-recorded-visual-basic-macros.md).
+You can, however, modify the recorded macro to work with  **[Range](../../../api/Word.Range.md)** objects. For more information, see [Revising Recorded Visual Basic Macros](revising-recorded-visual-basic-macros.md).
 
 
