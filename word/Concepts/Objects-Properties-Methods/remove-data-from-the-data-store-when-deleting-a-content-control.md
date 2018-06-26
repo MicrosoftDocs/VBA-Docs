@@ -21,15 +21,15 @@ You can also delete a single node by calling the  **Delete** method of the **Cus
 For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
 The objects used in these samples are:
 
--  **[ContentControl](contentcontrol-object-word.md)**
+-  **[ContentControl](../../../api/Word.ContentControl.md)**
     
--  **[ContentControls](contentcontrols-object-word.md)**
+-  **[ContentControls](../../../api/Word.ContentControls.md)**
     
 -  **CustomXMLPart** (Microsoft Office system core object model)
     
 -  **CustomXMLParts** (Microsoft Office system core object model)
     
--  **[XMLMapping](xmlmapping-object-word.md)**
+-  **[XMLMapping](../../../api/Word.XMLMapping.md)**
     
 
 ## Sample 1

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Finding and Replacing Text or Formatting
 
-Finding and replacing is exposed by the  **[Find](find-object-word.md)** and  **[Replacement](replacement-object-word.md)** objects. The  **Find** object is available from the **[Selection](selection-object-word.md)** object and the  **[Range](range-object-word.md)** object. The find action differs slightly depending upon whether you access the  **Find** object from the **Selection** object or the **Range** object.
+Finding and replacing is exposed by the  **[Find](../../../api/Word.Find.md)** and  **[Replacement](../../../api/Word.Replacement.md)** objects. The  **Find** object is available from the **[Selection](../../../api/Word.Selection.md)** object and the  **[Range](../../../api/Word.Range.md)** object. The find action differs slightly depending upon whether you access the  **Find** object from the **Selection** object or the **Range** object.
 
 
 ## Finding text and selecting it
@@ -25,7 +25,7 @@ With Selection.Find
 End With
 ```
 
-The  **Find** object includes properties that relate to the options in the **Find and Replace** dialog box. You can set the individual properties of the **Find** object or use arguments with the **[Execute](find-execute-method-word.md)** method, as shown in the following example.
+The  **Find** object includes properties that relate to the options in the **Find and Replace** dialog box. You can set the individual properties of the **Find** object or use arguments with the **[Execute](../../../api/Word.Find.Execute.md)** method, as shown in the following example.
 
 
 
@@ -82,7 +82,7 @@ With Selection.Find
 End With
 ```
 
-The following example removes bold formatting in the active document. The  **[Bold](font-bold-property-word.md)** property is  **True** for the **Find** object and **False** for the **Replacement** object. To find and replace formatting, set the find and replace text to empty strings ("") and set the **_Format_** argument of the **Execute** method to **True**. The selection remains unchanged because the  **Find** object is accessed from a **Range** object (the **[Content](document-content-property-word.md)** property returns a  **Range** object).
+The following example removes bold formatting in the active document. The  **[Bold](../../../api/Word.Font.Bold.md)** property is  **True** for the **Find** object and **False** for the **Replacement** object. To find and replace formatting, set the find and replace text to empty strings ("") and set the **_Format_** argument of the **Execute** method to **True**. The selection remains unchanged because the  **Find** object is accessed from a **Range** object (the **[Content](../../../api/Word.Document.Content.md)** property returns a  **Range** object).
 
 
 

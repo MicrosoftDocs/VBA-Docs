@@ -21,39 +21,39 @@ ms.date: 06/08/2017
 
 For more information about the property to set for a specific control, see the following:
 
-- The  **[ControlTipText](page-controltiptext-property-outlook-forms-script.md)** property for the **[Page](page-object-outlook-forms-script.md)** control.
+- The  **[ControlTipText](../../../api/Outlook.page.controltiptext.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
-- The  **[ControlTipText](tab-controltiptext-property-outlook-forms-script.md)** property for the **[Tab](tab-object-outlook-forms-script.md)** control.
+- The  **[ControlTipText](../../../api/Outlook.tab.controltiptext.md)** property for the **[Tab](../../../api/Outlook.tab.md)** control.
     
-- The  **[Caption](checkbox-caption-property-outlook-forms-script.md)** property for the **[CheckBox](checkbox-object-outlook-forms-script.md)** control.
+- The  **[Caption](../../../api/Outlook.checkbox.caption.md)** property for the **[CheckBox](../../../api/Outlook.checkbox.md)** control.
     
-- The  **[Caption](commandbutton-caption-property-outlook-forms-script.md)** property for the **[CommandButton](commandbutton-object-outlook-forms-script.md)** control.
+- The  **[Caption](../../../api/Outlook.commandbutton.caption.md)** property for the **[CommandButton](../../../api/Outlook.commandbutton.md)** control.
     
-- The  **[Caption](frame-caption-property-outlook-forms-script.md)** property for the **[Frame](frame-object-outlook-forms-script.md)** control.
+- The  **[Caption](../../../api/Outlook.frame.caption.md)** property for the **[Frame](../../../api/Outlook.frame.md)** control.
     
-- The  **[Caption](label-caption-property-outlook-forms-script.md)** property for the **[Label](label-object-outlook-forms-script.md)** control.
+- The  **[Caption](../../../api/Outlook.label.caption.md)** property for the **[Label](../../../api/Outlook.label.md)** control.
     
-- The  **[Caption](optionbutton-caption-property-outlook-forms-script.md)** property for the **[OptionButton](optionbutton-object-outlook-forms-script.md)** control.
+- The  **[Caption](../../../api/Outlook.optionbutton.caption.md)** property for the **[OptionButton](../../../api/Outlook.optionbutton.md)** control.
     
-- The  **[Caption](page-caption-property-outlook-forms-script.md)** property for the **[Page](page-object-outlook-forms-script.md)** control.
+- The  **[Caption](../../../api/Outlook.page.caption.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
-- The  **[Caption](tab-caption-property-outlook-forms-script.md)** property for the **[Tab](tab-object-outlook-forms-script.md)** control.
+- The  **[Caption](../../../api/Outlook.tab.caption.md)** property for the **[Tab](../../../api/Outlook.tab.md)** control.
     
-- The  **[Caption](togglebutton-caption-property-outlook-forms-script.md)** property for the **[ToggleButton](togglebutton-object-outlook-forms-script.md)** control.
+- The  **[Caption](../../../api/Outlook.togglebutton.caption.md)** property for the **[ToggleButton](../../../api/Outlook.togglebutton.md)** control.
     
-- The  **[Accelerator](checkbox-accelerator-property-outlook-forms-script.md)** property for the **[CheckBox](checkbox-object-outlook-forms-script.md)** control.
+- The  **[Accelerator](../../../api/Outlook.checkbox.accelerator.md)** property for the **[CheckBox](../../../api/Outlook.checkbox.md)** control.
     
-- The  **[Accelerator](commandbutton-accelerator-property-outlook-forms-script.md)** property for the **[CommandButton](commandbutton-object-outlook-forms-script.md)** control.
+- The  **[Accelerator](../../../api/Outlook.commandbutton.accelerator.md)** property for the **[CommandButton](../../../api/Outlook.commandbutton.md)** control.
     
-- The  **[Accelerator](label-accelerator-property-outlook-forms-script.md)** property for the **[Label](label-object-outlook-forms-script.md)** control.
+- The  **[Accelerator](../../../api/Outlook.label.accelerator.md)** property for the **[Label](../../../api/Outlook.label.md)** control.
     
-- The  **[Accelerator](optionbutton-accelerator-property-outlook-forms-script.md)** property for the **[OptionButton](optionbutton-object-outlook-forms-script.md)** control.
+- The  **[Accelerator](optionbutton-accelerator-property-outlook-forms-script.md)** property for the **[OptionButton](../../../api/Outlook.optionbutton.md)** control.
     
-- The  **[Accelerator](page-accelerator-property-outlook-forms-script.md)** property for the **[Page](page-object-outlook-forms-script.md)** control.
+- The  **[Accelerator](page-accelerator-property-outlook-forms-script.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
-- The  **[Accelerator](tab-accelerator-property-outlook-forms-script.md)** property for the **[Tab](tab-object-outlook-forms-script.md)** control.
+- The  **[Accelerator](tab-accelerator-property-outlook-forms-script.md)** property for the **[Tab](../../../api/Outlook.tab.md)** control.
     
-- The  **[Accelerator](togglebutton-accelerator-property-outlook-forms-script.md)** property for the **[ToggleButton](togglebutton-object-outlook-forms-script.md)** control.
+- The  **[Accelerator](togglebutton-accelerator-property-outlook-forms-script.md)** property for the **[ToggleButton](../../../api/Outlook.togglebutton.md)** control.
     
 For more information, see  [How to: Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab](assign-a-control-tip-caption-or-accelerator-key-to-a-page-or-tab.md).
 

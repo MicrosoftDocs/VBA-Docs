@@ -15,15 +15,15 @@ Events on sheets are enabled by default. To view the event procedures for a shee
 
 
 
-[Activate](worksheet-activate-event-excel.md) | 
-[BeforeDoubleClick](worksheet-beforedoubleclick-event-excel.md) | 
-[BeforeRightClick](worksheet-beforerightclick-event-excel.md) | 
-[Calculate](worksheet-calculate-event-excel.md) | 
-[Change](worksheet-change-event-excel.md) | 
-[Deactivate](worksheet-deactivate-event-excel.md) | 
-[FollowHyperlink](worksheet-followhyperlink-event-excel.md) | 
-[PivotTableUpdate](worksheet-pivottableupdate-event-excel.md) | 
-[SelectionChange](worksheet-selectionchange-event-excel.md)
+[Activate](../../../api/Excel.Worksheet.Activate(even).md) | 
+[BeforeDoubleClick](../../../api/Excel.Worksheet.BeforeDoubleClick.md) | 
+[BeforeRightClick](../../../api/Excel.Worksheet.BeforeRightClick.md) | 
+[Calculate](../../../api/Excel.Worksheet.Calculate(even).md) | 
+[Change](../../../api/Excel.Worksheet.Change.md) | 
+[Deactivate](../../../api/Excel.Worksheet.Deactivate.md) | 
+[FollowHyperlink](../../../api/Excel.Worksheet.FollowHyperlink.md) | 
+[PivotTableUpdate](../../../api/Excel.Worksheet.PivotTableUpdate.md) | 
+[SelectionChange](../../../api/Excel.Worksheet.SelectionChange.md)
 
 Worksheet-level events occur when a worksheet is activated, when the user changes a worksheet cell, or when the PivotTable changes. The following example adjusts the size of columns A through F whenever the worksheet is recalculated.
 

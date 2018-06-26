@@ -22,7 +22,7 @@ The following events occur in the order specified when a user completes an actio
 | **BeforeAttachmentAdd**|Before an attachment is added to an item|
 | **BeforeAttachmentPreview**|Before an attachment associated with an item is previewed|
 | **AttachmentAdd**|An attachment has been added to an item|
-| **BeforeAttachmentRead**|Before an attachment associated with an item is read from the file system, an attachment stream, or an  **[Attachment](attachment-object-outlook.md)** object|
+| **BeforeAttachmentRead**|Before an attachment associated with an item is read from the file system, an attachment stream, or an  **[Attachment](../../../api/Outlook.Attachment.md)** object|
 | **AttachmentRead**|An attachment has been opened for reading|
 | **BeforeAttachmentSave**|Before an attachment is saved into the Outlook item|
 | **BeforeAttachmentWriteToTempFile**|Before an attachment associated with an item is written to a temporary file|

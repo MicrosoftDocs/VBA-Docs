@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Returning an Object from a Collection (Excel)
 
-The  **Item** property of a collection returns a single object from that collection. The following example sets the `firstBook` variable to a **[Workbook](workbook-object-excel.md)** object that represents the first workbook in the  **[Workbooks](workbooks-object-excel.md)** collection.
+The  **Item** property of a collection returns a single object from that collection. The following example sets the `firstBook` variable to a **[Workbook](../../../api/Excel.Workbook.md)** object that represents the first workbook in the  **[Workbooks](../../../api/Excel.Workbooks.md)** collection.
 
 
 ```vb

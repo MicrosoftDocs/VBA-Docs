@@ -96,7 +96,7 @@ To create the Microsoft Outlook object given in the following table, use one of 
 
 |**To create this object**|**Use one of these identifiers**|
 |:-----|:-----|
-| **[Application](application-object-outlook.md)**|Outlook.Application|
+| **[Application](../../../api/Outlook.Application.md)**|Outlook.Application|
 
 To create the ActiveX controls that are specific for Outlook forms, as listed in the following table, use the corresponding OLE programmatic identifier.
 
@@ -104,23 +104,23 @@ To create the ActiveX controls that are specific for Outlook forms, as listed in
 
 |**To create this Outlook control**|**Use this identifier**|
 |:-----|:-----|
-| **[OlkBusinessCardControl](olkbusinesscardcontrol-object-outlook.md)**|Outlook.OlkBusinessCardControl|
-| **[OlkCategory](olkcategory-object-outlook.md)**|Outlook.OlkCategoryStrip|
-| **[OlkCheckBox](olkcheckbox-object-outlook.md)**|Outlook.OlkCheckBox|
-| **[OlkComboBox](olkcombobox-object-outlook.md)**|Outlook.OlkComboBox|
-| **[OlkCommandButton](olkcommandbutton-object-outlook.md)**|Outlook.OlkCommandButton|
-| **[OlkContactPhoto](olkcontactphoto-object-outlook.md)**|Outlook.OlkContactPhoto|
-| **[OlkDateControl](olkdatecontrol-object-outlook.md)**|Outlook.OlkDateControl|
-| **[OlkFrameHeader](olkframeheader-object-outlook.md)**|Outlook.OlkFrameHeader|
-| **[OlkInfoBar](olkinfobar-object-outlook.md)**|Outlook.OlkInfoBar|
-| **[OlkLabel](olklabel-object-outlook.md)**|Outlook.OlkLabel|
-| **[OlkListBox](olklistbox-object-outlook.md)**|Outlook.OlkListBox|
-| **[OlkOptionButton](olkoptionbutton-object-outlook.md)**|Outlook.OlkOptionButton|
-| **[OlkPageControl](olkpagecontrol-object-outlook.md)**|Outlook.OlkPageControl|
-| **[OlkSenderPhoto](olksenderphoto-object-outlook.md)**|Outlook.OlkSenderPhoto|
-| **[OlkTextBox](olktextbox-object-outlook.md)**|Outlook.OlkTextBox|
-| **[OlkTimeControl](olktimecontrol-object-outlook.md)**|Outlook.OlkTimeControl|
-| **[OlkTimeZoneControl](olktimezonecontrol-object-outlook.md)**|Outlook.OlkTimeZone|
+| **[OlkBusinessCardControl](../../../api/Outlook.OlkBusinessCardControl.md)**|Outlook.OlkBusinessCardControl|
+| **[OlkCategory](../../../api/Outlook.OlkCategory.md)**|Outlook.OlkCategoryStrip|
+| **[OlkCheckBox](../../../api/Outlook.OlkCheckBox.md)**|Outlook.OlkCheckBox|
+| **[OlkComboBox](../../../api/Outlook.OlkComboBox.md)**|Outlook.OlkComboBox|
+| **[OlkCommandButton](../../../api/Outlook.OlkCommandButton.md)**|Outlook.OlkCommandButton|
+| **[OlkContactPhoto](../../../api/Outlook.OlkContactPhoto.md)**|Outlook.OlkContactPhoto|
+| **[OlkDateControl](../../../api/Outlook.OlkDateControl.md)**|Outlook.OlkDateControl|
+| **[OlkFrameHeader](../../../api/Outlook.OlkFrameHeader.md)**|Outlook.OlkFrameHeader|
+| **[OlkInfoBar](../../../api/Outlook.OlkInfoBar.md)**|Outlook.OlkInfoBar|
+| **[OlkLabel](../../../api/Outlook.OlkLabel.md)**|Outlook.OlkLabel|
+| **[OlkListBox](../../../api/Outlook.OlkListBox.md)**|Outlook.OlkListBox|
+| **[OlkOptionButton](../../../api/Outlook.OlkOptionButton.md)**|Outlook.OlkOptionButton|
+| **[OlkPageControl](../../../api/Outlook.OlkPageControl.md)**|Outlook.OlkPageControl|
+| **[OlkSenderPhoto](../../../api/Outlook.OlkSenderPhoto.md)**|Outlook.OlkSenderPhoto|
+| **[OlkTextBox](../../../api/Outlook.OlkTextBox.md)**|Outlook.OlkTextBox|
+| **[OlkTimeControl](../../../api/Outlook.OlkTimeControl.md)**|Outlook.OlkTimeControl|
+| **[OlkTimeZoneControl](../../../api/Outlook.OlkTimeZoneControl.md)**|Outlook.OlkTimeZone|
 
 ## Microsoft PowerPoint
 <a name="OLEMicrosoftPowerPoint"> </a>

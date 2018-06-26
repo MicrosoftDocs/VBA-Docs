@@ -15,7 +15,7 @@ This topic covers specific information about using ActiveX controls on worksheet
 
 Keep the following points in mind when you are working with controls on sheets:
 
-- In addition to the standard properties available for ActiveX controls, the following properties can be used with ActiveX controls in Microsoft Excel:  **[BottomRightCell](oleobject-bottomrightcell-property-excel.md)**,  **[LinkedCell](oleobject-linkedcell-property-excel.md)**,  **[ListFillRange](oleobject-listfillrange-property-excel.md)**,  **[Placement](oleobject-placement-property-excel.md)**,  **[PrintObject](oleobject-printobject-property-excel.md)**,  **[TopLeftCell](oleobject-topleftcell-property-excel.md)**, and  **[ZOrder](oleobject-zorder-property-excel.md)**.
+- In addition to the standard properties available for ActiveX controls, the following properties can be used with ActiveX controls in Microsoft Excel:  **[BottomRightCell](../../../api/Excel.OLEObject.BottomRightCell.md)**,  **[LinkedCell](../../../api/Excel.OLEObject.LinkedCell.md)**,  **[ListFillRange](../../../api/Excel.OLEObject.ListFillRange.md)**,  **[Placement](../../../api/Excel.OLEObject.Placement.md)**,  **[PrintObject](../../../api/Excel.OLEObject.PrintObject.md)**,  **[TopLeftCell](../../../api/Excel.OLEObject.TopLeftCell.md)**, and  **[ZOrder](../../../api/Excel.OLEObject.ZOrder.md)**.
     
     
 These properties can be set and returned using the ActiveX control name. The following example scrolls the workbook window so CommandButton1 is in the upper-left corner.

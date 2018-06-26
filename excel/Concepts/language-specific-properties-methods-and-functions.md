@@ -18,43 +18,43 @@ The following table lists methods that have language-specific arguments. Methods
 
 |**Method**|**Objects**|**Comments**|
 |:-----|:-----|:-----|
-| **[Add](phonetics-add-method-excel.md)**| **Phonetics**||
-| **[AddLabel](shapes-addlabel-method-excel.md)**| **Shapes**||
-| **[AddTextbox](shapes-addtextbox-method-excel.md)**| **Shapes**||
+| **[Add](../../api/Excel.Phonetics.Add.md)**| **Phonetics**||
+| **[AddLabel](../../api/Excel.Shapes.AddLabel.md)**| **Shapes**||
+| **[AddTextbox](../../api/Excel.Shapes.AddTextbox.md)**| **Shapes**||
 | **AutoFormat**| **Range**||
-| **[CheckSpelling](application-checkspelling-method-excel.md)**| **Application**,  **Chart**,  **Range**,  **Worksheet**|Added  **_SpellLang_** and removed **_IgnoreInitialAlefHamza_** and **_IgnoreFinalYaa_**|
-| **[Find](range-find-method-excel.md)**| **Application**,  **Range**|Removed  **_MatchControlCharacters_**,  **_MatchDiacritics_**,  **_MatchKashida_**, and  **_MatchAlefHamza_**|
-| **[GetPhonetic](application-getphonetic-method-excel.md)**| **Application**||
-| **[Replace](range-replace-method-excel.md)**| **Range**|Removed  **_MatchControlCharacters_**,  **_MatchDiacritics_**,  **_MatchKashida_**, and  **_MatchAlefHamza_**|
-| **[SetPhonetic](range-setphonetic-method-excel.md)**| **Range**||
-| **[Sort](range-sort-method-excel.md)**| **Range**|Removed  **_IgnoreControlCharacters_**,  **_IgnoreDiacritics_**, and  **_IgnoreKashida_**|
-| **[SortSpecial](range-sortspecial-method-excel.md)**| **Range**||
+| **[CheckSpelling](../../api/Excel.Application.CheckSpelling.md)**| **Application**,  **Chart**,  **Range**,  **Worksheet**|Added  **_SpellLang_** and removed **_IgnoreInitialAlefHamza_** and **_IgnoreFinalYaa_**|
+| **[Find](../../api/Excel.Range.Find.md)**| **Application**,  **Range**|Removed  **_MatchControlCharacters_**,  **_MatchDiacritics_**,  **_MatchKashida_**, and  **_MatchAlefHamza_**|
+| **[GetPhonetic](../../api/Excel.Application.GetPhonetic.md)**| **Application**||
+| **[Replace](../../api/Excel.Range.Replace.md)**| **Range**|Removed  **_MatchControlCharacters_**,  **_MatchDiacritics_**,  **_MatchKashida_**, and  **_MatchAlefHamza_**|
+| **[SetPhonetic](../../api/Excel.Range.SetPhonetic.md)**| **Range**||
+| **[Sort](../../api/Excel.Range.Sort.md)**| **Range**|Removed  **_IgnoreControlCharacters_**,  **_IgnoreDiacritics_**, and  **_IgnoreKashida_**|
+| **[SortSpecial](../../api/Excel.Range.SortSpecial.md)**| **Range**||
 
 Properties that return or set language-specific attributes are listed in the following table.
 
 
 |**Property**|**Objects**|
 |:-----|:-----|
-| **[AddIndent](range-addindent-property-excel.md)**| **Range**,  **Style**|
-| **[AddressLocal](range-addresslocal-property-excel.md)**| **Range**|
-| **[Alignment](phonetic-alignment-property-excel.md)**| **Phonetic**,  **Phonetics**,  **TextEffectFormat**,  **TickLabels**|
-| **[CharacterType](phonetic-charactertype-property-excel.md)**| **Phonetic**,  **Phonetics**|
-| **[ControlCharacters](application-controlcharacters-property-excel.md)**| **Application**|
-| **[CursorMovement](application-cursormovement-property-excel.md)**| **Application**|
-| **[DefaultSheetDirection](application-defaultsheetdirection-property-excel.md)**| **Application**|
-| **[DisplayRightToLeft](worksheet-displayrighttoleft-property-excel.md)**| **Window**,  **Worksheet**|
-| **[FileFormat](workbook-fileformat-property-excel.md)**| **Workbook**|
-| **[HorizontalAlignment](axistitle-horizontalalignment-property-excel.md)**| **AxisTitle**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabel**,  **Range**,  **Style**,  **TextFrame**|
-| **[IMEMode](validation-imemode-property-excel.md)**| **Validation**|
-| **[International](application-international-property-excel.md)**| **Application**|
-| **[Item](phonetics-item-property-excel.md)**| **Phonetics**|
-| **[Length](phonetics-length-property-excel.md)**| **Phonetics**|
-| **[Phonetic](range-phonetic-property-excel.md)**| **Range**|
-| **[PhoneticCharacters](characters-phoneticcharacters-property-excel.md)**| **Characters**|
-| **[Phonetics](range-phonetics-property-excel.md)**| **Range**|
-| **[ReadingOrder](axistitle-readingorder-property-excel.md)**| **AxisTitle**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabel**,  **Range**,  **Style**,  **TextFrame**,  **TickLabels**|
-| **[Start](phonetics-start-property-excel.md)**| **Phonetics**|
-| **[VerticalAlignment](axistitle-verticalalignment-property-excel.md)**| **AxisTitle**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabels**,  **Range**,  **Style**,  **TextFrame**|
+| **[AddIndent](../../api/Excel.Range.AddIndent.md)**| **Range**,  **Style**|
+| **[AddressLocal](../../api/Excel.Range.AddressLocal.md)**| **Range**|
+| **[Alignment](../../api/Excel.Phonetic.Alignment.md)**| **Phonetic**,  **Phonetics**,  **TextEffectFormat**,  **TickLabels**|
+| **[CharacterType](../../api/Excel.Phonetic.CharacterType.md)**| **Phonetic**,  **Phonetics**|
+| **[ControlCharacters](../../api/Excel.Application.ControlCharacters.md)**| **Application**|
+| **[CursorMovement](../../api/Excel.Application.CursorMovement.md)**| **Application**|
+| **[DefaultSheetDirection](../../api/Excel.Application.DefaultSheetDirection.md)**| **Application**|
+| **[DisplayRightToLeft](../../api/Excel.Worksheet.DisplayRightToLeft.md)**| **Window**,  **Worksheet**|
+| **[FileFormat](../../api/Excel.Workbook.FileFormat.md)**| **Workbook**|
+| **[HorizontalAlignment](../../api/Excel.AxisTitle.HorizontalAlignment.md)**| **AxisTitle**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabel**,  **Range**,  **Style**,  **TextFrame**|
+| **[IMEMode](../../api/Excel.Validation.IMEMode.md)**| **Validation**|
+| **[International](../../api/Excel.Application.International.md)**| **Application**|
+| **[Item](../../api/Excel.Phonetics.Item.md)**| **Phonetics**|
+| **[Length](../../api/Excel.Phonetics.Length.md)**| **Phonetics**|
+| **[Phonetic](../../api/Excel.Range.Phonetic.md)**| **Range**|
+| **[PhoneticCharacters](../../api/Excel.Characters.PhoneticCharacters.md)**| **Characters**|
+| **[Phonetics](../../api/Excel.Range.Phonetics.md)**| **Range**|
+| **[ReadingOrder](../../api/Excel.AxisTitle.ReadingOrder.md)**| **AxisTitle**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabel**,  **Range**,  **Style**,  **TextFrame**,  **TickLabels**|
+| **[Start](../../api/Excel.Phonetics.Start.md)**| **Phonetics**|
+| **[VerticalAlignment](../../api/Excel.AxisTitle.VerticalAlignment.md)**| **AxisTitle**,  **ChartTitle**,  **DataLabel**,  **DataLabels**,  **DisplayUnitLabels**,  **Range**,  **Style**,  **TextFrame**|
 
 The following are language-specific worksheet functions:
 

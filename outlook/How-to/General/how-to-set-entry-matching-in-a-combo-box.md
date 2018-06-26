@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # How to: Set Entry Matching in a Combo Box
 
-The following example uses the  **[MatchFound](combobox-matchfound-property-outlook-forms-script.md)** and **[MatchRequired](combobox-matchrequired-property-outlook-forms-script.md)** properties to demonstrate additional character matching for **[ComboBox](combobox-object-outlook-forms-script.md)**. The matching verification occurs in the  **Change** event.
+The following example uses the  **[MatchFound](../../../api/Outlook.combobox.matchfound.md)** and **[MatchRequired](../../../api/Outlook.combobox.matchrequired.md)** properties to demonstrate additional character matching for **[ComboBox](../../../api/Outlook.combobox.md)**. The matching verification occurs in the  **Change** event.
 
-In this example, the user specifies whether the text portion of a  **ComboBox** must match one of the listed items in the **ComboBox**. The user can specify whether matching is required by using a  **[CheckBox](checkbox-object-outlook-forms-script.md)** and then type into the **ComboBox** to specify an item from its list.
+In this example, the user specifies whether the text portion of a  **ComboBox** must match one of the listed items in the **ComboBox**. The user can specify whether matching is required by using a  **[CheckBox](../../../api/Outlook.checkbox.md)** and then type into the **ComboBox** to specify an item from its list.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
 

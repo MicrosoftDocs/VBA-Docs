@@ -24,6 +24,6 @@ The  **ControlTipText** property lets you give users tips about a control in a r
 
 The default value of  **ControlTipText** is an empty string. When the value of **ControlTipText** is set to an empty string, no tip is available for that control.
 
-Note that for the  **[OlkBusinessCardControl](olkbusinesscardcontrol-object-outlook.md)** and **[OlkContactPhoto](olkcontactphoto-object-outlook.md)** controls, **ControlTipText** is not displayed when mousing over the control.
+Note that for the  **[OlkBusinessCardControl](../../../api/Outlook.OlkBusinessCardControl.md)** and **[OlkContactPhoto](../../../api/Outlook.OlkContactPhoto.md)** controls, **ControlTipText** is not displayed when mousing over the control.
 
 

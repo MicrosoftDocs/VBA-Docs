@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # Import Saved Items using OpenSharedItem
 
-Microsoft Outlook provides the  **[OpenSharedItem](namespace-openshareditem-method-outlook.md)** method, for the **[NameSpace](namespace-object-outlook.md)** object, to open iCalendar appointment (.ics) files, vCard (.vcf) files, and Outlook message (.msg) files and return the Outlook item appropriate for the file. The type of object returned by this method depends on the type of shared item opened, as described in the following table.
+Microsoft Outlook provides the  **[OpenSharedItem](../../../api/Outlook.NameSpace.OpenSharedItem.md)** method, for the **[NameSpace](../../../api/Outlook.NameSpace.md)** object, to open iCalendar appointment (.ics) files, vCard (.vcf) files, and Outlook message (.msg) files and return the Outlook item appropriate for the file. The type of object returned by this method depends on the type of shared item opened, as described in the following table.
 
 
 | **Shared item type**| **Outlook item**|
 |:-----|:-----|
-|iCalendar appointment (.ics) file| **[AppointmentItem](appointmentitem-object-outlook.md)**|
-|vCard (.vcf) file| **[ContactItem](contactitem-object-outlook.md)**|
+|iCalendar appointment (.ics) file| **[AppointmentItem](../../../api/Outlook.AppointmentItem.md)**|
+|vCard (.vcf) file| **[ContactItem](../../../api/Outlook.ContactItem.md)**|
 |Outlook message (.msg) file|Type corresponds to the type of the item that was saved as the .msg file|
 
 Once the shared item is opened, you can then import the item by using the  **Save** method of the returned object to save it to the default folder appropriate to that Outlook item.
@@ -25,7 +25,7 @@ This sample opens and imports a vCard file into the  **Contacts** default folder
     
 2. It then calls the  **Save** method of the **ContactItem** to save it to the **Contacts** default folder.
     
-3. Finally, it obtains a  **[Folder](folder-object-outlook.md)** object reference to the **Contacts** default folder for the current user by using the **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** method of the **NameSpace** object, and then displays the folder.
+3. Finally, it obtains a  **[Folder](../../../api/Outlook.Folder.md)** object reference to the **Contacts** default folder for the current user by using the **[GetDefaultFolder](../../../api/Outlook.NameSpace.GetDefaultFolder.md)** method of the **NameSpace** object, and then displays the folder.
     
 
 

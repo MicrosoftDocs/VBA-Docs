@@ -37,7 +37,7 @@ If the user clicks  **Allow**, the call that invoked the warning, and only that 
 
 ## Execute Action Warning
 
-This warning is invoked when an untrusted solution executes a custom action from the  **[Actions](actions-object-outlook.md)** collection. Outlook displays a message similar to the previous warning, indicating that an action is being executed.
+This warning is invoked when an untrusted solution executes a custom action from the  **[Actions](../../../api/Outlook.Actions.md)** collection. Outlook displays a message similar to the previous warning, indicating that an action is being executed.
 
 If the user clicks  **Deny**, Outlook blocks the call to the  **[Execute](action-execute-method-outlook.md)** method for that action and returns the **MAPI_E_NOT_SUPPORTED** error.
 

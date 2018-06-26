@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 Chart events occur when the user activates or changes a chart. Events on chart sheets are enabled by default. To view the event procedures for a sheet, right-click the sheet tab and select  **View Code** from the shortcut menu. Select the event name from the **Procedure** drop-down list box.
 
-[Activate](chart-activate-event-excel.md) | 
-[BeforeDoubleClick](chart-beforedoubleclick-event-excel.md) | 
-[BeforeRightClick](chart-beforerightclick-event-excel.md) | 
-[Calculate](chart-calculate-event-excel.md) | 
-[Deactivate](chart-deactivate-event-excel.md) | 
-[MouseDown](chart-mousedown-event-excel.md) | 
-[MouseMove](chart-mousemove-event-excel.md) | 
-[MouseUp](chart-mouseup-event-excel.md) | 
-[Resize](chart-resize-event-excel.md) | 
-[Select](chart-select-event-excel.md) | 
-[SeriesChange](chart-serieschange-event-excel.md)
+[Activate](../../../api/Excel.Chart.Activate(even).md) | 
+[BeforeDoubleClick](../../../api/Excel.Chart.BeforeDoubleClick.md) | 
+[BeforeRightClick](../../../api/Excel.Chart.BeforeRightClick.md) | 
+[Calculate](../../../api/Excel.Chart.Calculate.md) | 
+[Deactivate](../../../api/Excel.Chart.Deactivate.md) | 
+[MouseDown](../../../api/Excel.Chart.MouseDown.md) | 
+[MouseMove](../../../api/Excel.Chart.MouseMove.md) | 
+[MouseUp](../../../api/Excel.Chart.MouseUp.md) | 
+[Resize](../../../api/Excel.Chart.Resize.md) | 
+[Select](../../../api/Excel.Chart.Select(even).md) | 
+[SeriesChange](../../../api/Excel.Chart.SeriesChange.md)
 
  **Note**  To write event procedures for an embedded chart, you must create a new object using the  **WithEvents** keyword in a class module. For more information, see [Using Events with Embedded Charts](using-events-with-embedded-charts.md).
 

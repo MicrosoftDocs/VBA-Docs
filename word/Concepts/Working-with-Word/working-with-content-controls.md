@@ -32,10 +32,10 @@ The following table shows the objects in the Word object model that relate to co
 
 |**Name**|**Description**|
 |:-----|:-----|
-| **[ContentControl](contentcontrol-object-word.md)**|Each  **ContentControl** object represents an individual content control within a document. Use the **ContentControls** collection to access individual **ContentControl** objects.|
-| **[ContentControls](contentcontrols-object-word.md)**|You can use the  **ContentControls** properties of the **[Document](document-object-word.md)**,  **[Range](range-object-word.md)**, and  **[Selection](selection-object-word.md)** objects to access the collection of content controls. You can also use the **[SelectContentControlsByTitle](document-selectcontentcontrolsbytitle-method-word.md)** method and the **[SelectContentControlsByTag](document-selectcontentcontrolsbytag-method-word.md)** method of the **Document** object to access a **ContentControls** collection that includes specific content controls that all have the same title or tag value.|
-| **[ContentControlListEntry](contentcontrollistentry-object-word.md)**|When a content control is a drop-down list or combo box, the  **ContentControlListEntry** object represents individual items within the list.|
-| **[ContentControlListEntries](contentcontrollistentries-object-word.md)**|Use the  **[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)** property of the **ContentControl** object to access all the items in an individual drop-down list or combo box.|
+| **[ContentControl](../../../api/Word.ContentControl.md)**|Each  **ContentControl** object represents an individual content control within a document. Use the **ContentControls** collection to access individual **ContentControl** objects.|
+| **[ContentControls](../../../api/Word.ContentControls.md)**|You can use the  **ContentControls** properties of the **[Document](../../../api/Word.Document.md)**,  **[Range](../../../api/Word.Range.md)**, and  **[Selection](../../../api/Word.Selection.md)** objects to access the collection of content controls. You can also use the **[SelectContentControlsByTitle](../../../api/Word.Document.SelectContentControlsByTitle.md)** method and the **[SelectContentControlsByTag](../../../api/Word.Document.SelectContentControlsByTag.md)** method of the **Document** object to access a **ContentControls** collection that includes specific content controls that all have the same title or tag value.|
+| **[ContentControlListEntry](../../../api/Word.ContentControlListEntry.md)**|When a content control is a drop-down list or combo box, the  **ContentControlListEntry** object represents individual items within the list.|
+| **[ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)**|Use the  **[DropdownListEntries](../../../api/Word.ContentControl.DropdownListEntries.md)** property of the **ContentControl** object to access all the items in an individual drop-down list or combo box.|
 
 Each of these objects or collections has methods and properties that allow you to work with the content controls both individually and as a collection. Because there are various types of content controls (see the following section "Types of Content Controls"), the  **ContentControl** object has members that might not apply to all the different types of content controls. The following table shows those properties and methods of the **ContentControl** object that only apply to certain types of content controls.
 
@@ -44,20 +44,20 @@ Each of these objects or collections has methods and properties that allow you t
 
 |**Property/Method**|**Applies To**|
 |:-----|:-----|
-| **[BuildingBlockCategory](contentcontrol-buildingblockcategory-property-word.md)** property|BuildingBlock Gallery content controls (**wdContentControlBuildingBlockGallery**)|
-| **[BuildingBlockType](contentcontrol-buildingblocktype-property-word.md)** property|BuildingBlock Gallery content controls (**wdContentControlBuildingBlockGallery**)|
-| **[DateDisplayFormat](contentcontrol-datedisplayformat-property-word.md)** property|Date content controls (**wdContentControlDate**)|
-| **[DateDisplayLocale](contentcontrol-datedisplaylocale-property-word.md)** property|Date content controls (**wdContentControlDate**)|
-| **[DateStorageFormat](contentcontrol-datestorageformat-property-word.md)** property|Date content controls (**wdContentControlDate**)|
-| **[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)** property|Combo box and drop-down list content controls (**wdContentControlComboBox** and **wdContentControlDropdownList**)|
-| **[MultiLine](contentcontrol-multiline-property-word.md)** property|Plain-text content controls (**wdContentControlText**)|
-| **[Ungroup](contentcontrol-ungroup-method-word.md)** method|Group content controls (**wdContentControlGroup**)|
-| **[SetCheckedSymbol](contentcontrol-setcheckedsymbol-method-word.md)** method|Check Box content control (**wdContentControlCheckBox**)|
-| **[SetUncheckedSymbol](contentcontrol-setuncheckedsymbol-method-word.md)** method|Check Box content control (**wdContentControlCheckBox**)|
+| **[BuildingBlockCategory](../../../api/Word.ContentControl.BuildingBlockCategory.md)** property|BuildingBlock Gallery content controls (**wdContentControlBuildingBlockGallery**)|
+| **[BuildingBlockType](../../../api/Word.ContentControl.BuildingBlockType.md)** property|BuildingBlock Gallery content controls (**wdContentControlBuildingBlockGallery**)|
+| **[DateDisplayFormat](../../../api/Word.ContentControl.DateDisplayFormat.md)** property|Date content controls (**wdContentControlDate**)|
+| **[DateDisplayLocale](../../../api/Word.ContentControl.DateDisplayLocale.md)** property|Date content controls (**wdContentControlDate**)|
+| **[DateStorageFormat](../../../api/Word.ContentControl.DateStorageFormat.md)** property|Date content controls (**wdContentControlDate**)|
+| **[DropdownListEntries](../../../api/Word.ContentControl.DropdownListEntries.md)** property|Combo box and drop-down list content controls (**wdContentControlComboBox** and **wdContentControlDropdownList**)|
+| **[MultiLine](../../../api/Word.ContentControl.MultiLine.md)** property|Plain-text content controls (**wdContentControlText**)|
+| **[Ungroup](../../../api/Word.ContentControl.Ungroup.md)** method|Group content controls (**wdContentControlGroup**)|
+| **[SetCheckedSymbol](../../../api/Word.ContentControl.SetCheckedSymbol.md)** method|Check Box content control (**wdContentControlCheckBox**)|
+| **[SetUncheckedSymbol](../../../api/Word.ContentControl.SetUncheckedSymbol.md)** method|Check Box content control (**wdContentControlCheckBox**)|
 
 ## Types of Content Controls
 
-There are eight different types of content controls that you can add to a document, each of which is represented in a new enumeration called **[WdContentControlType](wdcontentcontroltype-enumeration-word.md)**.
+There are eight different types of content controls that you can add to a document, each of which is represented in a new enumeration called **[WdContentControlType](../../../api/Word.WdContentControlType.md)**.
 
 
 
@@ -81,12 +81,12 @@ In addition to the properties and methods available with the content control obj
 
 |**Event Name**|**Description**|
 |:-----|:-----|
-| **[ContentControlAfterAdd](document-contentcontrolafteradd-event-word.md)**|Occurs after adding a new content control to a document. This event runs whether the user adds the content control by using the tools in the UI or adds them by using code.|
-| **[ContentControlBeforeContentUpdate](document-contentcontrolbeforecontentupdate-event-word.md)**|Occurs before Word updates the content in a content control.|
-| **[ContentControlBeforeDelete](document-contentcontrolbeforedelete-event-word.md)**|Occurs before a user deletes a content control. This event runs whether the user deletes the content control by using the tools in the UI or deletes them by using code.|
-| **[ContentControlBeforeStoreUpdate](document-contentcontrolbeforestoreupdate-event-word.md)**|Occurs before Word updates the contents of a content control from data in the document's data store.|
-| **[ContentControlOnEnter](document-contentcontrolonenter-event-word.md)**|Occurs when a user enters a content control.|
-| **[ContentControlOnExit](document-contentcontrolonexit-event-word.md)**|Occurs when a user exits a content control.|
+| **[ContentControlAfterAdd](../../../api/Word.Document.ContentControlAfterAdd.md)**|Occurs after adding a new content control to a document. This event runs whether the user adds the content control by using the tools in the UI or adds them by using code.|
+| **[ContentControlBeforeContentUpdate](../../../api/Word.Document.ContentControlBeforeContentUpdate.md)**|Occurs before Word updates the content in a content control.|
+| **[ContentControlBeforeDelete](../../../api/Word.Document.ContentControlBeforeDelete.md)**|Occurs before a user deletes a content control. This event runs whether the user deletes the content control by using the tools in the UI or deletes them by using code.|
+| **[ContentControlBeforeStoreUpdate](../../../api/Word.Document.ContentControlBeforeStoreUpdate.md)**|Occurs before Word updates the contents of a content control from data in the document's data store.|
+| **[ContentControlOnEnter](../../../api/Word.Document.ContentControlOnEnter.md)**|Occurs when a user enters a content control.|
+| **[ContentControlOnExit](../../../api/Word.Document.ContentControlOnExit.md)**|Occurs when a user exits a content control.|
 
 ## Working with the Code
 

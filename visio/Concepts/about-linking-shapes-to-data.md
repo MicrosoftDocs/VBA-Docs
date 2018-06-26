@@ -29,22 +29,22 @@ Each of these aspects has objects and members associated with it in the Visio ob
     
 To connect your Visio drawing to a data source programmatically, you can use the Visio API for data connectivity, which includes the following objects and their associated members:
 
--  **[DataRecordsets](datarecordsets-object-visio.md)** collection
+-  **[DataRecordsets](../../api/Visio.DataRecordsets.md)** collection
     
--  **[DataRecordset](datarecordset-object-visio.md)** object
+-  **[DataRecordset](../../api/Visio.DataRecordset.md)** object
     
--  **[DataConnection](dataconnection-object-visio.md)** object
+-  **[DataConnection](../../api/Visio.DataConnection.md)** object
     
--  **[DataRecordsetChangedEvent](datarecordsetchangedevent-object-visio.md)** object
+-  **[DataRecordsetChangedEvent](../../api/Visio.DataRecordsetChangedEvent.md)** object
     
--  **[DataColumns](datacolumns-object-visio.md)** collection
+-  **[DataColumns](../../api/Visio.DataColumns.md)** collection
     
--  **[DataColumn](datacolumn-object-visio.md)** object
+-  **[DataColumn](../../api/Visio.DataColumn.md)** object
     
 After you  [connect your Visio drawing to an external data source](about-connecting-to-data-in-visio.md), you can link the shapes in the drawing to data from that source programmatically. You can link one or more shapes to a single row of data in a data recordset or to multiple rows of data in different data recordsets. However, you cannot link shapes to multiple rows of data in the same recordset.
 You can link existing shapes to data, one shape at a time or as a group; or, you can create shapes and link them to data simultaneously. You can specify the correspondence between shapes and data rows, if you know it, or you can let Visio determine the correspondence automatically, based on a comparison between existing shape data and data in the data recordset.
 After you link shapes to data, you can display that data graphically by adding data graphics to shapes. For more information about data graphics, see  [About Displaying Data Graphically](about-displaying-data-graphically-visio.md).
-The  **[DataRecordset](datarecordset-object-visio.md)** and **[DataColumn](datacolumn-object-visio.md)** objects and the **[DataColumns](datacolumns-object-visio.md)** collection expose several properties, methods, and events that facilitate data linking. In addition, several members of other objects in the Visio object model, including the **Application**,  **Document**,  **Page**,  **Selection**,  **Shape**, and  **Window** objects, are related to data-linking.
+The  **[DataRecordset](../../api/Visio.DataRecordset.md)** and **[DataColumn](../../api/Visio.DataColumn.md)** objects and the **[DataColumns](../../api/Visio.DataColumns.md)** collection expose several properties, methods, and events that facilitate data linking. In addition, several members of other objects in the Visio object model, including the **Application**,  **Document**,  **Page**,  **Selection**,  **Shape**, and  **Window** objects, are related to data-linking.
 
 ## Data-linking and Shape Data
 
@@ -54,21 +54,21 @@ To access and assign shape data in the Visio UI, right-click a shape, point to  
 
 Within the ShapeSheet, shape data is contained in the Shape Data section (previously called the Custom Properties section). To maintain backwards-compatibility, existing object members retain "custom property" or "custom properties" in their name. If you do not assign shape data for a given shape, no Shape Data section appears in the ShapeSheet. You can add a Shape Data section to a ShapeSheet by displaying the ShapeSheet as described previously, right-clicking anywhere in the ShapeSheet window and clicking  **Insert Section**, selecting  **Shape Data**, and then clicking  **OK**.
 
-After you link shapes to data, many of the columns of the Shape Data section correspond closely to the properties of the  **DataColumn** object. For example, the Label column in the Shape Data section, which provides the label that appears for a particular shape data item in the **Shape Data** dialog box, corresponds to the **[DataColumn.DisplayName](datacolumn-displayname-property-visio.md)** property, which controls the name that appears for the associated data column in the **External Data** window. For more information about working with the **DataColumn** object, see [Getting and Setting Data-column Properties](#getsetprops). 
+After you link shapes to data, many of the columns of the Shape Data section correspond closely to the properties of the  **DataColumn** object. For example, the Label column in the Shape Data section, which provides the label that appears for a particular shape data item in the **Shape Data** dialog box, corresponds to the **[DataColumn.DisplayName](../../api/Visio.DataColumn.DisplayName.md)** property, which controls the name that appears for the associated data column in the **External Data** window. For more information about working with the **DataColumn** object, see [Getting and Setting Data-column Properties](#getsetprops). 
 
 
 ## Identifying Shapes, Data Recordsets, and Data Rows
 
 Visio uses unique ID numbers to identify shapes, recordsets, and data rows. Shape IDs are unique only within the scope of the page they are on. After you determine these numbers, you can pass them to methods of the Visio data-related objects to specify exactly how the shapes in your diagram should link to data rows in the available data recordsets.
 
-To determine the ID for a shape, get the  **[Shape.ID](shape-id-property-visio.md)** property value. In addition, Visio also gives shapes unique IDs or GUIDs. The **[Page.ShapeIDsToUniqueIDs](page-shapeidstouniqueids-method-visio.md)** method takes an array of shape IDs, as well as an enumeration value from **[VisUniqueIDArgs](visuniqueidargs-enumeration-visio.md)** specifying whether to get, get or make, or delete shape GUIDs. The **Page.ShapeIDsToUniqueIDs** method also returns an array of unique IDs for the shapes passed in. Conversely, if you know the unique IDs of a set of shapes, you can use the **[Page.UniqueIDsToShapeIDs](page-uniqueidstoshapeids-method-visio.md)** method to obtain the shape IDs for those shapes. For a selection of shapes, use the **[Selection.GetIDs](selection-getids-method-visio.md)** method to get the shape IDs of the shapes.
+To determine the ID for a shape, get the  **[Shape.ID](../../api/Visio.Shape.ID.md)** property value. In addition, Visio also gives shapes unique IDs or GUIDs. The **[Page.ShapeIDsToUniqueIDs](../../api/Visio.Page.ShapeIDsToUniqueIDs.md)** method takes an array of shape IDs, as well as an enumeration value from **[VisUniqueIDArgs](../../api/Visio.visuniqueidargs.md)** specifying whether to get, get or make, or delete shape GUIDs. The **Page.ShapeIDsToUniqueIDs** method also returns an array of unique IDs for the shapes passed in. Conversely, if you know the unique IDs of a set of shapes, you can use the **[Page.UniqueIDsToShapeIDs](../../api/Visio.Page.UniqueIDsToShapeIDs.md)** method to obtain the shape IDs for those shapes. For a selection of shapes, use the **[Selection.GetIDs](../../api/Visio.Selection.GetIDs.md)** method to get the shape IDs of the shapes.
 
-To determine the ID for a  **DataRecordset** object you add to the **[DataRecordsets](datarecordsets-object-visio.md)** collection, get the **[DataRecordset.ID](datarecordset-id-property-visio.md)** property value. To determine the IDs for each of the rows in a data recordset, call the **[DataRecordset.GetDataRowIDs](datarecordset-getdatarowids-method-visio.md)** method, which returns an array of row IDs. For more information, see the section "Accessing Data in Data Recordsets Programmatically," in [About Connecting to Data in Visio](about-connecting-to-data-in-visio.md).
+To determine the ID for a  **DataRecordset** object you add to the **[DataRecordsets](../../api/Visio.DataRecordsets.md)** collection, get the **[DataRecordset.ID](../../api/Visio.DataRecordset.ID.md)** property value. To determine the IDs for each of the rows in a data recordset, call the **[DataRecordset.GetDataRowIDs](../../api/Visio.DataRecordset.GetDataRowIDs.md)** method, which returns an array of row IDs. For more information, see the section "Accessing Data in Data Recordsets Programmatically," in [About Connecting to Data in Visio](about-connecting-to-data-in-visio.md).
 
 
 ## Creating Shapes Linked to Data
 
-When you want to create shapes, already linked to data, on a drawing page that either does not contain any shapes or contains shapes other than the ones you want to link, you can use the  **[Page.DropLinked](page-droplinked-method-visio.md)** and **[Page.DropManyLinkedU](page-dropmanylinkedu-method-visio.md)** methods to create one or more additional shapes already linked to data. These methods resemble the **Page.Drop** and **Page.DropManyU** methods in that they create additional shapes at a specified location on the page; but in addition, they create links between the new shapes and specified data rows in a specified data recordset.
+When you want to create shapes, already linked to data, on a drawing page that either does not contain any shapes or contains shapes other than the ones you want to link, you can use the  **[Page.DropLinked](../../api/Visio.Page.DropLinked.md)** and **[Page.DropManyLinkedU](../../api/Visio.Page.DropManyLinkedU.md)** methods to create one or more additional shapes already linked to data. These methods resemble the **Page.Drop** and **Page.DropManyU** methods in that they create additional shapes at a specified location on the page; but in addition, they create links between the new shapes and specified data rows in a specified data recordset.
 
 The  **DropLinked** method returns the new, linked **Shape** object and takes the following parameters:
 
@@ -131,25 +131,25 @@ In addition, if you do not know the exact shape to data mapping, you can direct 
 
 ## Linking a Single Shape to a Data Row
 
-To link a single shape to a single data row, use the  **[Shape.LinkToData](shape-linktodata-method-visio.md)** method. This method takes a data recordset ID and data row ID as well as an optional **Boolean** flag specifying whether to display the linked data in a data graphic. The default is to display the data graphic.
+To link a single shape to a single data row, use the  **[Shape.LinkToData](../../api/Visio.Shape.LinkToData.md)** method. This method takes a data recordset ID and data row ID as well as an optional **Boolean** flag specifying whether to display the linked data in a data graphic. The default is to display the data graphic.
 
 
 ## Linking Multiple Shapes to Data
 
-Two members of the  **Selection** object, the **[Selection.LinkToData](selection-linktodata-method-visio.md)** and **[Selection.AutomaticLink](selection-automaticlink-method-visio.md)** methods, as well as the **[Page.LinkShapesToDataRows](page-linkshapestodatarows-method-visio.md)** method, make it possible to link one or more existing shapes in a selection to data.
+Two members of the  **Selection** object, the **[Selection.LinkToData](../../api/Visio.Selection.LinkToData.md)** and **[Selection.AutomaticLink](../../api/Visio.Selection.AutomaticLink.md)** methods, as well as the **[Page.LinkShapesToDataRows](../../api/Visio.Page.LinkShapesToDataRows.md)** method, make it possible to link one or more existing shapes in a selection to data.
 
-The  **[Selection.LinkToData](selection-linktodata-method-visio.md)** method functions much like the same method of the **Shape** object, except that it links a selection of shapes, instead of a single shape, to a single data row.
+The  **[Selection.LinkToData](../../api/Visio.Selection.LinkToData.md)** method functions much like the same method of the **Shape** object, except that it links a selection of shapes, instead of a single shape, to a single data row.
 
-If you are unsure about the correspondence between shapes and data rows, but know a match exists between a specific attribute of every shape and the data in one column in the data recordset, the  **[Selection.AutomaticLink](selection-automaticlink-method-visio.md)** method provides a means to link a selection of existing shapes to multiple rows of data. Note that it must be the same attribute for all shapes. For more information about this method, see [Linking to Data Automatically](#linktodataauto).
+If you are unsure about the correspondence between shapes and data rows, but know a match exists between a specific attribute of every shape and the data in one column in the data recordset, the  **[Selection.AutomaticLink](../../api/Visio.Selection.AutomaticLink.md)** method provides a means to link a selection of existing shapes to multiple rows of data. Note that it must be the same attribute for all shapes. For more information about this method, see [Linking to Data Automatically](#linktodataauto).
 
-The  **[Page.LinkShapesToDataRows](page-linkshapestodatarows-method-visio.md)** method is similar to the **Selection.LinkToData** method in that it links multiple shapes. However, you use this method to link shapes on the same page, rather than shapes in a selection, to data. The **LinkShapesToDataRows** method links shapes to multiple data rows, whereas the **LinkToData** method links multiple shapes to a single row. To link shapes, pass the **LinkShapesToDataRows** method a pair of arrays: one for shapes, and one for data rows. Note that the matching array positions must correspond. As a result, for example, the shape at position 1 in the shape array is linked to the data at position 1 in the data row array. Once again, when you call the method, you can optionally specify whether to apply an existing data graphic to linked shapes.
+The  **[Page.LinkShapesToDataRows](../../api/Visio.Page.LinkShapesToDataRows.md)** method is similar to the **Selection.LinkToData** method in that it links multiple shapes. However, you use this method to link shapes on the same page, rather than shapes in a selection, to data. The **LinkShapesToDataRows** method links shapes to multiple data rows, whereas the **LinkToData** method links multiple shapes to a single row. To link shapes, pass the **LinkShapesToDataRows** method a pair of arrays: one for shapes, and one for data rows. Note that the matching array positions must correspond. As a result, for example, the shape at position 1 in the shape array is linked to the data at position 1 in the data row array. Once again, when you call the method, you can optionally specify whether to apply an existing data graphic to linked shapes.
 
 
 ## Linking to Data Automatically
 
 You can use the  **Selection.AutomaticLink** method to link shape data values in selected shapes—that is, shapes assigned to a Selection object—to data rows in a data recordset automatically—that is, without specifying the exact correspondence of all shapes and data rows. To provide Visio with enough information to create the links, however, you must supply at least one set of matching data: the name of a column in the database, a shape attribute type, and, if necessary, a shape value, all at the same index position of the corresponding arrays you pass to the method.
 
-The shape attribute type indicates the attribute of the shape to base the matching upon. The attribute can be the value of a shape data item (formerly known as a custom property value), shape text, or another of the values specified in the  **[VisAutoLinkFieldTypes](visautolinkfieldtypes-enumeration-visio.md)** enumeration.
+The shape attribute type indicates the attribute of the shape to base the matching upon. The attribute can be the value of a shape data item (formerly known as a custom property value), shape text, or another of the values specified in the  **[VisAutoLinkFieldTypes](../../api/Visio.visautolinkfieldtypes.md)** enumeration.
 
 
  **Note**  For example, say that your drawing contains a selection of shapes representing different employees. Their shape text identifies the shapes, which in this case would be the respective employee's names. (You could use some of the employee names from the OrgData.xls workbook that ships with Visio, and then connect to that data source. By default, OrgData.xls is installed at the following path: C:\Program Files\Microsoft Office\Office15\Visio Content\[ _langID_], where  _langID_ varies by country or region.) On some computers, the path might include "Program Files (x86)" instead of "Program Files."
@@ -205,24 +205,24 @@ End Sub
 Use the following methods to determine which shapes are linked to data. Knowing how shapes are linked to data can help prevent conflicts and broken links:
 
 
--  **[Page.GetShapesLinkedToData](page-getshapeslinkedtodata-method-visio.md)**
+-  **[Page.GetShapesLinkedToData](../../api/Visio.Page.GetShapesLinkedToData.md)**
     
--  **[Page.GetShapesLinkedToDataRow](page-getshapeslinkedtodatarow-method-visio.md)**
+-  **[Page.GetShapesLinkedToDataRow](../../api/Visio.Page.GetShapesLinkedToDataRow.md)**
     
--  **[Shape.GetLinkedDataRow](shape-getlinkeddatarow-method-visio.md)**
+-  **[Shape.GetLinkedDataRow](../../api/Visio.Shape.GetLinkedDataRow.md)**
     
--  **[Shape.GetCustomPropertyLinkedColumn](shape-getcustompropertylinkedcolumn-method-visio.md)**
+-  **[Shape.GetCustomPropertyLinkedColumn](../../api/Visio.Shape.GetCustomPropertyLinkedColumn.md)**
     
--  **[Shape.GetCustomPropertiesLinkedToData](shape-getcustompropertieslinkedtodata-method-visio.md)**
+-  **[Shape.GetCustomPropertiesLinkedToData](../../api/Visio.Shape.GetCustomPropertiesLinkedToData.md)**
     
--  **[Shape.IsCustomPropertyLinked](shape-iscustompropertylinked-method-visio.md)**
+-  **[Shape.IsCustomPropertyLinked](../../api/Visio.Shape.IsCustomPropertyLinked.md)**
     
 
 ## Breaking Links between Shapes and Data
 
-As their names imply, you can use the  **[Shape.BreakLinkToData](shape-breaklinktodata-method-visio.md)** and **[Selection.BreakLinkToData](selection-breaklinktodata-method-visio.md)** methods to break existing links between shapes and data programmatically. In addition, various changes made in the UI can break these links. For example, when users delete a data recordset, linked row, or linked shape, or when users click **Unlink from Row** on a shape's shortcut menu or Unlink on a row's shortcut menu, they can cause broken links.
+As their names imply, you can use the  **[Shape.BreakLinkToData](../../api/Visio.Shape.BreakLinkToData.md)** and **[Selection.BreakLinkToData](../../api/Visio.Selection.BreakLinkToData.md)** methods to break existing links between shapes and data programmatically. In addition, various changes made in the UI can break these links. For example, when users delete a data recordset, linked row, or linked shape, or when users click **Unlink from Row** on a shape's shortcut menu or Unlink on a row's shortcut menu, they can cause broken links.
 
-Except when a user deletes a data recordset, row, or shape from the UI, all of these actions fire the  **[Shape.ShapeLinkDeleted](shape-shapelinkdeleted-event-visio.md)** event. You can also use the methods listed in the previous section to determine link status.
+Except when a user deletes a data recordset, row, or shape from the UI, all of these actions fire the  **[Shape.ShapeLinkDeleted](../../api/Visio.Shape.ShapeLinkDeleted.md)** event. You can also use the methods listed in the previous section to determine link status.
 
 
 ## Getting and Setting Data-column Properties
@@ -231,7 +231,7 @@ Every  **DataRecordset** object contains a **DataColumns** collection of all the
 
 The following sample shows how to get the value of the Label cell in the Shape Data section for the first column in the data recordset passed to the method and display it in the  **Immediate** window. Then it sets the value and displays the new value.
 
-Changing this value changes the label of the shape data item in the  **Shape Data** dialog box for all shapes linked to rows in the data recordset. To get and set the Label cell value, we pass the **visDataColumnPropertyDisplayName** value from the **[VisDataColumnProperties](visdatacolumnproperties-enumeration-visio.md)** enumeration to the **[DataColumn.GetProperty](datacolumn-getproperty-method-visio.md)** and **[DataColumn.SetProperty](datacolumn-setproperty-method-visio.md)** methods.
+Changing this value changes the label of the shape data item in the  **Shape Data** dialog box for all shapes linked to rows in the data recordset. To get and set the Label cell value, we pass the **visDataColumnPropertyDisplayName** value from the **[VisDataColumnProperties](../../api/Visio.visdatacolumnproperties.md)** enumeration to the **[DataColumn.GetProperty](../../api/Visio.DataColumn.GetProperty.md)** and **[DataColumn.SetProperty](../../api/Visio.DataColumn.SetProperty.md)** methods.
 
 
 
@@ -258,7 +258,7 @@ End Sub
 
 ## Refreshing Linked Data and Resolving Conflicts
 
-When data changes in the data source to which your drawing is connected, you can refresh the data in your Visio drawing to reflect those changes. You can specify that Visio refresh data automatically at a specified interval by setting the  **[DataRecordset.RefreshInterval](datarecordset-refreshinterval-property-visio.md)** property. You can refresh data programmatically by calling the **[DataRecordset.Refresh](datarecordset-refresh-method-visio.md)** method.
+When data changes in the data source to which your drawing is connected, you can refresh the data in your Visio drawing to reflect those changes. You can specify that Visio refresh data automatically at a specified interval by setting the  **[DataRecordset.RefreshInterval](../../api/Visio.DataRecordset.RefreshInterval.md)** property. You can refresh data programmatically by calling the **[DataRecordset.Refresh](../../api/Visio.DataRecordset.Refresh.md)** method.
 
 In addition, you can resolve any conflicts in the relationship between shapes and rows of data. For example, conflicts can occur when you refresh the data recordset and some data rows to which shapes were linked before the refresh operation no longer exist, because of changes to the data source. Other conflicts are possible when two or more rows in the refreshed recordset have identical primary keys.
 
@@ -267,7 +267,7 @@ In addition, you can resolve any conflicts in the relationship between shapes an
 
 When you create a  **DataRecordset** object, its **RefreshInterval** property value is set to the default, 0. This setting indicates that data is not refreshed automatically. By setting **DataRecordset.RefreshInterval** to a positive **Long** value, you can specify the time in minutes between automatic refreshes. The minimum interval you can specify is one minute. This setting corresponds to the value a user can set in the **Configure Refresh** dialog box.
 
-To determine the date and time of the last refresh operation, get the  **[DataRecordset.TimeRefreshed](datarecordset-timerefreshed-property-visio.md)** property.
+To determine the date and time of the last refresh operation, get the  **[DataRecordset.TimeRefreshed](../../api/Visio.DataRecordset.TimeRefreshed.md)** property.
 
 Additionally, the  **[DataRecordset.RefreshSettings](datarecordset-refreshsettings-property-visio.md)** property allows you to customize automatic refreshes of data. By setting this property to a combination of the values in the**[VisRefreshSettings](visrefreshsettings-enumeration-visio.md)** enumeration, you can specify that either or both of the following occur:
 
@@ -310,7 +310,7 @@ Likewise, you can use the  **[DataRecordset.SetPrimaryKey](datarecordset-setprim
 
 To refresh a connected data recordset programmatically, call the  **DataRecordset.Refresh** method.
 
-Calling this method executes the query string associated with the data recordset and then updates the linked shapes with the data returned by the query. Calling the  **Refresh** method on a particular **DataRecordset** object results in refreshing all other **DataRecordset** objects associated with the same **[DataConnection](dataconnection-object-visio.md)** object (that is, having the same value for their **DataConnection** property). **DataRecordset** objects sharing the same **DataConnection** property value are called transacted data recordsets.
+Calling this method executes the query string associated with the data recordset and then updates the linked shapes with the data returned by the query. Calling the  **Refresh** method on a particular **DataRecordset** object results in refreshing all other **DataRecordset** objects associated with the same **[DataConnection](../../api/Visio.DataConnection.md)** object (that is, having the same value for their **DataConnection** property). **DataRecordset** objects sharing the same **DataConnection** property value are called transacted data recordsets.
 
 If calling  **Refresh** results in conflicts, Visio displays the **Refresh Conflicts** task pane in the UI, unless you set the **RefreshSettings** property to include the **visRefreshNoReconciliationUI** enumerated value.
 

@@ -61,11 +61,11 @@ The following scenarios commonly result in items becoming one-off items.
     
       -  **UserProperties.Add** method.
     
-  - Methods and properties of the  **[FormDescription](formdescription-object-outlook.md)** object.
+  - Methods and properties of the  **[FormDescription](../../../api/Outlook.FormDescription.md)** object.
     
   - Some methods or properties of controls, such as  **Enabled**.
     
-  - Methods and properties of the  **[Actions](actions-object-outlook.md)** collection object.
+  - Methods and properties of the  **[Actions](../../../api/Outlook.Actions.md)** collection object.
     
 Although solutions and situations vary greatly, the following might indicate that an item has become a one-off item.
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Use the Status Bar Progress Meter
 
-This topic shows how to use the  **[SysCmd](application-syscmd-method-access.md)** method to create a progress meter on the status bar that gives a visual representation of the progress of an operation that has a known duration or number of steps.
+This topic shows how to use the  **[SysCmd](../../../api/Access.Application.SysCmd.md)** method to create a progress meter on the status bar that gives a visual representation of the progress of an operation that has a known duration or number of steps.
 
 There are three intrinsic constants that can be used with the  **SysCmd** method's _action_ argument to manipulate the progress meter on the status bar. The following table describes them.
 

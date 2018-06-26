@@ -69,7 +69,7 @@ Sub CreateExcelWorkbook_Early()
 End Sub
 ```
 
-For information about using Project from another application, late binding, and early binding, see the [Application](application-object-project.md) object.
+For information about using Project from another application, late binding, and early binding, see the [Application](../../api/Project.Application.md) object.
 
 The following tables list OLE programmatic identifiers for ActiveX controls and several Microsoft Office applications.
 

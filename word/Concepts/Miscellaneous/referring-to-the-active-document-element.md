@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Referring to the Active Document Element
 
-To refer to the active paragraph, table, field, or other document element, use the  **[Selection](application-selection-property-word.md)** property to return a  **[Selection](selection-object-word.md)** object. From the  **Selection** object, you can access all paragraphs in the selection or the first paragraph in the selection. The following example applies a border around the first paragraph in the selection.
+To refer to the active paragraph, table, field, or other document element, use the  **[Selection](../../../api/Word.Application.Selection.md)** property to return a  **[Selection](../../../api/Word.Selection.md)** object. From the  **Selection** object, you can access all paragraphs in the selection or the first paragraph in the selection. The following example applies a border around the first paragraph in the selection.
 
 
 ```vb
@@ -42,7 +42,7 @@ Sub ShadeTableRow()
 End Sub
 ```
 
-An error occurs if the selection doesn't include a table. Use the  **[Count](tables-count-property-word.md)** property to determine if the selection includes a table. The following example applies shading to the first row of the first table in the selection.
+An error occurs if the selection doesn't include a table. Use the  **[Count](../../../api/Word.Tables.Count.md)** property to determine if the selection includes a table. The following example applies shading to the first row of the first table in the selection.
 
 
 

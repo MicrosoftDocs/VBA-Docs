@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Set the Style of Tabs for a MultiPage and a TabStrip Control
 
-The following example uses the  **Style** property to specify the appearance of the tabs in **[MultiPage](multipage-object-outlook-forms-script.md)** and **[TabStrip](tabstrip-object-outlook-forms-script.md)**. This example also demonstrates using a  **[Label](label-object-outlook-forms-script.md)**. The user chooses a style by selecting an  **[OptionButton](optionbutton-object-outlook-forms-script.md)**.
+The following example uses the  **Style** property to specify the appearance of the tabs in **[MultiPage](../../../api/Outlook.multipage.md)** and **[TabStrip](../../../api/Outlook.tabstrip.md)**. This example also demonstrates using a  **[Label](../../../api/Outlook.label.md)**. The user chooses a style by selecting an  **[OptionButton](../../../api/Outlook.optionbutton.md)**.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
 

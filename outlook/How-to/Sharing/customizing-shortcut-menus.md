@@ -12,7 +12,7 @@ You can customize several different shortcut menus in Microsoft Outlook by using
 
 You customize shortcut menus by using Microsoft Office Fluent user interface (UI) extensibility, just as you would to customize the user interface on a ribbon in an explorer or inspector. 
 
-Because  [CommandBar](../../../api/Office.CommandBar.md) objects have been deprecated since Outlook, shortcut menu events of the [Application](application-object-outlook.md) object that relied on the **CommandBar** object are being deprecated as well, and might not work as expected. These events include the following:
+Because  [CommandBar](../../../api/Office.CommandBar.md) objects have been deprecated since Outlook, shortcut menu events of the [Application](../../../api/Outlook.Application.md) object that relied on the **CommandBar** object are being deprecated as well, and might not work as expected. These events include the following:
 
 
 -  **AttachmentContextMenuDisplay** event

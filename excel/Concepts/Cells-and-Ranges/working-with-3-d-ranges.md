@@ -23,7 +23,7 @@ End Sub
 ```
 
 
-The following example applies the  **[FillAcrossSheets](worksheets-fillacrosssheets-method-excel.md)** method to transfer the formats and any data from the range on Sheet2 to the corresponding ranges on all the worksheets in the active workbook.
+The following example applies the  **[FillAcrossSheets](../../../api/Excel.Worksheets.FillAcrossSheets.md)** method to transfer the formats and any data from the range on Sheet2 to the corresponding ranges on all the worksheets in the active workbook.
 
 
 

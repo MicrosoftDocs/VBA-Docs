@@ -24,7 +24,7 @@ Dim frmInstance As New Form_Employees
 
 By creating multiple instances of an Employees form class, you could show information about one employee on one form instance, and show information about another employee on another form instance. 
 
- **Note**  When you create an instance of a form class by using the  **New** keyword, it is hidden. To show the form, set the **[Visible](form-visible-property-access.md)** property to **True**.
+ **Note**  When you create an instance of a form class by using the  **New** keyword, it is hidden. To show the form, set the **[Visible](../../../api/Access.Form.Visible.md)** property to **True**.
 
 You should declare the variable that represents the new instance of a form class at the module level. If you declare the variable at the procedure level, the variable goes out of scope when the procedure finishes running, and the new instance is removed from memory. The instance exists in memory only as long as the variable to which it is assigned remains in scope.
 Any properties that you set will affect this instance of the form's class, but will not be saved with the form. Also, a new instance of the form's class cannot be created if the form is open in Design view.

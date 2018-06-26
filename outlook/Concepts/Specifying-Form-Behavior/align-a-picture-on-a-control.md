@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 |**Property**|**Description**|
 |:-----|:-----|
-| **PictureAlignment**|Centers the picture within the  [Image](image-object-outlook-forms-script.md) or aligns any corner of the picture with the corresponding corner of the **Image**.|
+| **PictureAlignment**|Centers the picture within the  [Image](../../../api/Outlook.image.md) or aligns any corner of the picture with the corresponding corner of the **Image**.|
 | **PictureSizeMode**|Clips, stretches, or zooms the picture within the  **Image** (stretching can distort the picture but zooming does not).|
 | **PictureTiling**|Shows multiple copies of the picture within the  **Image**.|
 

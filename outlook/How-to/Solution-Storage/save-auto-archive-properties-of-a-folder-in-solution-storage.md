@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # Save Auto-Archive Properties of a Folder in Solution Storage
 
-This topic shows a solution that saves its private data in a few MAPI auto-archive properties. The solution stores these properties in a  **[StorageItem](storageitem-object-outlook.md)** object of the folder to which the auto-archive properties apply. **StorageItem** objects are stored as hidden data in the associated portion of a folder, and because solutions can optionally encrypt their data, they offer the privacy required of solution data. Because the MAPI auto-archive properties are not exposed as explicit built-in properties in the Outlook object model, the solution uses the **[PropertyAccessor](propertyaccessor-object-outlook.md)** on the **StorageItem** object to set these properties.
+This topic shows a solution that saves its private data in a few MAPI auto-archive properties. The solution stores these properties in a  **[StorageItem](../../../api/Outlook.StorageItem.md)** object of the folder to which the auto-archive properties apply. **StorageItem** objects are stored as hidden data in the associated portion of a folder, and because solutions can optionally encrypt their data, they offer the privacy required of solution data. Because the MAPI auto-archive properties are not exposed as explicit built-in properties in the Outlook object model, the solution uses the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** on the **StorageItem** object to set these properties.
 
 The following illustrates the procedure:
 
 1. The  `ChangeAgingProperties` function accepts the following as input parameters:
     
-      -  `oFolder` is the **[Folder](folder-object-outlook.md)** object to which the aging properties apply and where their values are stored.
+      -  `oFolder` is the **[Folder](../../../api/Outlook.Folder.md)** object to which the aging properties apply and where their values are stored.
     
   -  `AgeFolder` indicates whether to archive or delete items in the folder as specified.
     
@@ -36,9 +36,9 @@ The following illustrates the procedure:
     
 2. The validity of the parameters is checked.
     
-3. If the parameters are valid,  ** [Folder.GetStorage](folder-getstorage-method-outlook.md)** is used to create or get an existing **StorageItem** object with the message class, **IPC.MS.Outlook.AgingProperties**. 
+3. If the parameters are valid,  ** [Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** is used to create or get an existing **StorageItem** object with the message class, **IPC.MS.Outlook.AgingProperties**. 
     
-4.  **PropertyAccessor** is then used to set the auto-archive properties on the **StorageItem**,  ** [StorageItem.Save](storageitem-save-method-outlook.md)** is used to save changes to the **StorageItem**.
+4.  **PropertyAccessor** is then used to set the auto-archive properties on the **StorageItem**,  ** [StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** is used to save changes to the **StorageItem**.
     
 5. The  `TestAgingProps` procedure sets the auto-archive settings for the aging properties of the current folder so that items older than six months are moved to the default archive file.
     

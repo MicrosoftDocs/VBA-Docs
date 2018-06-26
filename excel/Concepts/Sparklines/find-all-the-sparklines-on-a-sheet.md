@@ -24,8 +24,8 @@ End Sub
 ```
 
 In the Visual Basic Editor, right-click the  **SparklineForm** form, select **View Code**, and copy and paste the following code.
-The  **UserForm_Activate** procedure iterates through all the sparkline groups on the active sheet and gets the addresses of the sparkline groups by using the [Address](range-address-property-excel.md) property of the [Range](range-object-excel.md) object. The address is then added to the list box.
-The  **SparklineListBox_Click** procedure is called when you click the address of a sparkline group in the list box. This procedure activates the selected sparkline group on the sheet by using the [Activate](range-activate-method-excel.md) method of the [Range](range-object-excel.md) object.
+The  **UserForm_Activate** procedure iterates through all the sparkline groups on the active sheet and gets the addresses of the sparkline groups by using the [Address](../../../api/Excel.Range.Address.md) property of the [Range](../../../api/Excel.Range(objec).md) object. The address is then added to the list box.
+The  **SparklineListBox_Click** procedure is called when you click the address of a sparkline group in the list box. This procedure activates the selected sparkline group on the sheet by using the [Activate](../../../api/Excel.Range.Activate.md) method of the [Range](../../../api/Excel.Range(objec).md) object.
 The  **CloseBtn_Click** procedure is called when you click the button on the user form, and it closes the user form.
 
 

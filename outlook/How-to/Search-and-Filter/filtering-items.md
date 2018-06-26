@@ -12,21 +12,21 @@ This topic describes the general rules for specifying properties in filters that
 
 A filter is a condition or a set of conditions that you can apply to a set of items to obtain a subset of items that meets the specified conditions. Outlook supports filters by using the Microsoft Jet query language syntax or the DAV Searching and Locating (DASL) syntax. Note that the Jet query language syntax has the same syntax as that supported by Microsoft Jet Expression Service, hence the name Jet query language.
 
-As an example, you can filter contact items in your Contacts folder to obtain a list of contacts residing in Canada. In this case, you will be filtering on the **[HomeAddressCountry](contactitem-homeaddresscountry-property-outlook.md)** property. The filter, expressed as a Jet filter, will be `"[HomeAddressCountry] = 'Canada'"`.
+As an example, you can filter contact items in your Contacts folder to obtain a list of contacts residing in Canada. In this case, you will be filtering on the **[HomeAddressCountry](../../../api/Outlook.ContactItem.HomeAddressCountry.md)** property. The filter, expressed as a Jet filter, will be `"[HomeAddressCountry] = 'Canada'"`.
 
 Outlook provides filtering through the following entry points:
 
 
 |Entry point|Jet filter support|DASL filter support|
 |:-----|:-----|:-----|
-|**[Application.AdvancedSearch](application-advancedsearch-method-outlook.md)**|No|Yes|
-|**[Folder.GetTable](folder-gettable-method-outlook.md)**|Yes|Yes|
-|**[Items.Find](items-find-method-outlook.md)**|Yes|Yes. Note that if you use the query keywords **ci_phrasematch** or **ci_startswith** in the filter, you will get an error.|
-|**[Items.Restrict](items-restrict-method-outlook.md)**|Yes|Yes|
-|**[Search.GetTable](search-gettable-method-outlook.md)**|No|Yes|
-|**[Table.FindRow](table-findrow-method-outlook.md)**|Yes|Yes. Note that if you use the query keywords **ci_phrasematch** or **ci_startswith** in the filter, you will get an error.|
-|**[Table.Restrict](table-restrict-method-outlook.md)**|Yes|Yes|
-|**[View.Filter](view-filter-property-outlook.md)**|No|Yes|
+|**[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)**|No|Yes|
+|**[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)**|Yes|Yes|
+|**[Items.Find](../../../api/Outlook.Items.Find.md)**|Yes|Yes. Note that if you use the query keywords **ci_phrasematch** or **ci_startswith** in the filter, you will get an error.|
+|**[Items.Restrict](../../../api/Outlook.Items.Restrict.md)**|Yes|Yes|
+|**[Search.GetTable](../../../api/Outlook.Search.GetTable.md)**|No|Yes|
+|**[Table.FindRow](../../../api/Outlook.Table.FindRow.md)**|Yes|Yes. Note that if you use the query keywords **ci_phrasematch** or **ci_startswith** in the filter, you will get an error.|
+|**[Table.Restrict](../../../api/Outlook.Table.Restrict.md)**|Yes|Yes|
+|**[View.Filter](../../../api/Outlook.View.Filter.md)**|No|Yes|
 
 
  **Note**  A filter must contain a query in either Jet or DASL syntax but not a mixture of both.

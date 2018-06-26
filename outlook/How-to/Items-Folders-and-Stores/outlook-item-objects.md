@@ -11,41 +11,41 @@ ms.date: 06/08/2017
 The following are the item-level objects defined in the Outlook object model:
 
 
--  **[AppointmentItem Object](appointmentitem-object-outlook.md)**
+-  **[AppointmentItem Object](../../../api/Outlook.AppointmentItem.md)**
     
--  **[ContactItem Object](contactitem-object-outlook.md)**
+-  **[ContactItem Object](../../../api/Outlook.ContactItem.md)**
     
--  **[DistListItem Object](distlistitem-object-outlook.md)**
+-  **[DistListItem Object](../../../api/Outlook.DistListItem.md)**
     
--  **[DocumentItem Object](documentitem-object-outlook.md)**
+-  **[DocumentItem Object](../../../api/Outlook.DocumentItem.md)**
     
--  **[JournalItem Object](journalitem-object-outlook.md)**
+-  **[JournalItem Object](../../../api/Outlook.JournalItem.md)**
     
--  **[MailItem Object](mailitem-object-outlook.md)**
+-  **[MailItem Object](../../../api/Outlook.MailItem.md)**
     
--  **[MeetingItem Object](meetingitem-object-outlook.md)**
+-  **[MeetingItem Object](../../../api/Outlook.MeetingItem.md)**
     
--  **[NoteItem Object](noteitem-object-outlook.md)**
+-  **[NoteItem Object](../../../api/Outlook.NoteItem.md)**
     
--  **[PostItem Object](postitem-object-outlook.md)**
+-  **[PostItem Object](../../../api/Outlook.PostItem.md)**
     
--  **[RemoteItem Object](remoteitem-object-outlook.md)**
+-  **[RemoteItem Object](../../../api/Outlook.RemoteItem.md)**
     
--  **[ReportItem Object](reportitem-object-outlook.md)**
+-  **[ReportItem Object](../../../api/Outlook.ReportItem.md)**
     
--  **[SharingItem Object](sharingitem-object-outlook.md)**
+-  **[SharingItem Object](../../../api/Outlook.SharingItem.md)**
     
--  **[StorageItem Object](storageitem-object-outlook.md)**
+-  **[StorageItem Object](../../../api/Outlook.StorageItem.md)**
     
--  **[TaskItem Object](taskitem-object-outlook.md)**
+-  **[TaskItem Object](../../../api/Outlook.TaskItem.md)**
     
--  **[TaskRequestAcceptItem Object](taskrequestacceptitem-object-outlook.md)**
+-  **[TaskRequestAcceptItem Object](../../../api/Outlook.TaskRequestAcceptItem.md)**
     
--  **[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)**
+-  **[TaskRequestDeclineItem Object](../../../api/Outlook.TaskRequestDeclineItem.md)**
     
--  **[TaskRequestItem Object](taskrequestitem-object-outlook.md)**
+-  **[TaskRequestItem Object](../../../api/Outlook.TaskRequestItem.md)**
     
--  **[TaskRequestUpdateItem Object](taskrequestupdateitem-object-outlook.md)**
+-  **[TaskRequestUpdateItem Object](../../../api/Outlook.TaskRequestUpdateItem.md)**
     
 
 

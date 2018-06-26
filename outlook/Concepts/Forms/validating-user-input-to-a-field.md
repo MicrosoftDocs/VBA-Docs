@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Validating User Input to a Field
 
-You can require any field, or any control that is bound to a field, to have a value. For example, you can set the exact text, range of numbers, or any other criteria for the field. You can also show a custom message (based on a validation formula) that tells users how to fill in the field if their entries do not match the value that you want. For example, you can limit the number of characters that can be entered in a  [TextBox](textbox-object-outlook-forms-script.md).
+You can require any field, or any control that is bound to a field, to have a value. For example, you can set the exact text, range of numbers, or any other criteria for the field. You can also show a custom message (based on a validation formula) that tells users how to fill in the field if their entries do not match the value that you want. For example, you can limit the number of characters that can be entered in a  [TextBox](../../../api/Outlook.textbox.md).
 
 For more information, see:
 

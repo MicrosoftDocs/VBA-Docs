@@ -8,9 +8,9 @@ ms.date: 06/08/2017
 
 # Default Properties Displayed in a Table Object
 
-A  **[Table](table-object-outlook.md)** contains rows and columns, where rows represent items in a folder, and columns represent item properties. When you call **[Folder.GetTable](folder-gettable-method-outlook.md)**, you obtain a  **Table** object that has a small pre-defined set of columns corresponding to properties common to default items for that type of folder. Similarly, when you call **[Search.GetTable](search-gettable-method-outlook.md)**, you obtain a  **Table** that has columns corresponding to properties common to default items for all folder types. The pre-defined sets of properties are explicit built-in properties. The small size of these sets allows the **GetTable** call to perform relatively efficiently.
+A  **[Table](../../../api/Outlook.Table.md)** contains rows and columns, where rows represent items in a folder, and columns represent item properties. When you call **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)**, you obtain a  **Table** object that has a small pre-defined set of columns corresponding to properties common to default items for that type of folder. Similarly, when you call **[Search.GetTable](../../../api/Outlook.Search.GetTable.md)**, you obtain a  **Table** that has columns corresponding to properties common to default items for all folder types. The pre-defined sets of properties are explicit built-in properties. The small size of these sets allows the **GetTable** call to perform relatively efficiently.
 
-The following tables list the set of properties returned by  **GetTable** for each type of folder or a search folder. Properties are stored as a 1-based array in a **[Columns](columns-object-outlook.md)** object.
+The following tables list the set of properties returned by  **GetTable** for each type of folder or a search folder. Properties are stored as a 1-based array in a **[Columns](../../../api/Outlook.Columns.md)** object.
 
 ## Columns for all Folder Types
 

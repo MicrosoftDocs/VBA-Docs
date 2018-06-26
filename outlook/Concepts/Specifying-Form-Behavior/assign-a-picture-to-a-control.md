@@ -21,21 +21,21 @@ ms.date: 06/08/2017
 For more information about the  **Picture** property to set for a specific control, see the following:
 
 
-- The  **[Picture](checkbox-picture-property-outlook-forms-script.md)** property for the **[CheckBox](checkbox-object-outlook-forms-script.md)** control.
+- The  **[Picture](../../../api/Outlook.checkbox.picture.md)** property for the **[CheckBox](../../../api/Outlook.checkbox.md)** control.
     
-- The  **[Picture](commandbutton-picture-property-outlook-forms-script.md)** property for the **[CommandButton](commandbutton-object-outlook-forms-script.md)** control.
+- The  **[Picture](../../../api/Outlook.commandbutton.picture.md)** property for the **[CommandButton](../../../api/Outlook.commandbutton.md)** control.
     
-- The  **[Picture](frame-picture-property-outlook-forms-script.md)** property for the **[Frame](frame-object-outlook-forms-script.md)** control.
+- The  **[Picture](../../../api/Outlook.frame.picture.md)** property for the **[Frame](../../../api/Outlook.frame.md)** control.
     
-- The  **[Picture](image-picture-property-outlook-forms-script.md)** property for the **[Image](image-object-outlook-forms-script.md)** control.
+- The  **[Picture](../../../api/Outlook.image.picture.md)** property for the **[Image](../../../api/Outlook.image.md)** control.
     
-- The  **[Picture](label-picture-property-outlook-forms-script.md)** property for the **[Label](label-object-outlook-forms-script.md)** control.
+- The  **[Picture](../../../api/Outlook.label.picture.md)** property for the **[Label](../../../api/Outlook.label.md)** control.
     
-- The  **[Picture](optionbutton-picture-property-outlook-forms-script.md)** property for the **[OptionButton](optionbutton-object-outlook-forms-script.md)** control.
+- The  **[Picture](../../../api/Outlook.optionbutton.picture.md)** property for the **[OptionButton](../../../api/Outlook.optionbutton.md)** control.
     
-- The  **[Picture](page-picture-property-outlook-forms-script.md)** property for the **[Page](page-object-outlook-forms-script.md)** control.
+- The  **[Picture](../../../api/Outlook.page.picture.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
-- The  **[Picture](togglebutton-picture-property-outlook-forms-script.md)** property for the **[ToggleButton](togglebutton-object-outlook-forms-script.md)** control.
+- The  **[Picture](../../../api/Outlook.togglebutton.picture.md)** property for the **[ToggleButton](../../../api/Outlook.togglebutton.md)** control.
     
 
 

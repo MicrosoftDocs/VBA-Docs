@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 ## Customizing with form regions
 
-In a form region, you can set the subject prefix in the XML manifest file of the form region. Alternatively, you can write code in the  [BeforeFormRegionShow](formregionstartup-beforeformregionshow-method-outlook.md) method of the [FormRegionStartup](formregionstartup-object-outlook.md) interface.
+In a form region, you can set the subject prefix in the XML manifest file of the form region. Alternatively, you can write code in the  [BeforeFormRegionShow](../../../api/Outlook.FormRegionStartup.BeforeFormRegionShow.md) method of the [FormRegionStartup](../../../api/Outlook.formregionstartup.md) interface.
 
 For more information, see  [How to: Specify a Subject Prefix of an Item Resulting from an Action](specify-a-subject-prefix-of-an-item-resulting-from-an-action.md).
 

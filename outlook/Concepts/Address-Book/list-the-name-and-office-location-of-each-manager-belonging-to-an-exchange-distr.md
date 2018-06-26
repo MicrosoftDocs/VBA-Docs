@@ -13,13 +13,13 @@ This topic describes how to allow a user to select an Exchange distribution list
 
 1. The code sample below displays a  **Select Distribition List** dialog box for the user to select a distribution list.
     
-    It uses the  **[SelectNamesDialog](selectnamesdialog-object-outlook.md)** object to display the dialog box and obtain user selection. The sample then obtains the user selection through the **[SelectNamesDialog.Recipients](selectnamesdialog-recipients-property-outlook.md)** property.
+    It uses the  **[SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md)** object to display the dialog box and obtain user selection. The sample then obtains the user selection through the **[SelectNamesDialog.Recipients](../../../api/Outlook.SelectNamesDialog.Recipients.md)** property.
     
 2. For each member in the selected distribution list:
     
       1. If the member is a manager, then the code sample displays the name and office number of the manager. 
     
-    Each member in the distribution list is an  **[AddressEntry](addressentry-object-outlook.md)** object. By checking if the **[AddressEntry.AddressEntryUserType](addressentry-addressentryusertype-property-outlook.md)** is either **olExchangeUserAddressEntry** or **olExchangeRemoteUserAddressEntry**, the sample then assigns the  **AddressEntry** object to an **[ExchangeUser](exchangeuser-object-outlook.md)** object, and uses `ExchangeUser.GetDirectReports.Count >0` as a criterion to determine if the user is a manager. It then displays the **[Name](exchangeuser-name-property-outlook.md)** and **[OfficeLocation](exchangeuser-officelocation-property-outlook.md)** properties of the **ExchangeUser** object.
+    Each member in the distribution list is an  **[AddressEntry](../../../api/Outlook.AddressEntry.md)** object. By checking if the **[AddressEntry.AddressEntryUserType](../../../api/Outlook.AddressEntry.AddressEntryUserType.md)** is either **olExchangeUserAddressEntry** or **olExchangeRemoteUserAddressEntry**, the sample then assigns the  **AddressEntry** object to an **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)** object, and uses `ExchangeUser.GetDirectReports.Count >0` as a criterion to determine if the user is a manager. It then displays the **[Name](../../../api/Outlook.ExchangeUser.Name.md)** and **[OfficeLocation](../../../api/Outlook.ExchangeUser.OfficeLocation.md)** properties of the **ExchangeUser** object.
     
   2. If the member is a distribution list, the code sample calls the subroutine  `EnumerateDLManagers`. For each member in that distribution list, if the member is a manager, the code sample then displays the name and office number of the manager.
     

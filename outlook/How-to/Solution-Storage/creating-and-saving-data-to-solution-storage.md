@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This topic describes creating or using existing storage to store private solution data.
 
-The Outlook object model supports creating and storing solution data as hidden items in a folder. You can use  **[Folder.GetStorage](folder-getstorage-method-outlook.md)** to create a **[StorageItem](storageitem-object-outlook.md)** object in a specified folder. You can identify this object by the subject, message class, or Entry ID. Solutions can create **StorageItem** objects in all folders except when:
+The Outlook object model supports creating and storing solution data as hidden items in a folder. You can use  **[Folder.GetStorage](../../../api/Outlook.Folder.GetStorage.md)** to create a **[StorageItem](../../../api/Outlook.StorageItem.md)** object in a specified folder. You can identify this object by the subject, message class, or Entry ID. Solutions can create **StorageItem** objects in all folders except when:
 
 - The folder is a Microsoft Exchange public folder, an Internet Message Access Protocol (IMAP), MSN Hotmail, or a Microsoft SharePoint Foundation folder.
     
@@ -31,6 +31,6 @@ You can call  **Folder.GetStorage** for an item that already exists in a folder.
 
 ## Storing Data in a StorageItem
 
-After obtaining a  **StorageItem** object, you can store private data as an attachment to the item, or as a value to the **Body** property or a custom property of the item. The initial size of the item is 0. As you store data to the item, the **[StorageItem.Size](storageitem-size-property-outlook.md)** is updated. Call **[StorageItem.Save](storageitem-save-method-outlook.md)** to update the contents of the item in the folder.
+After obtaining a  **StorageItem** object, you can store private data as an attachment to the item, or as a value to the **Body** property or a custom property of the item. The initial size of the item is 0. As you store data to the item, the **[StorageItem.Size](../../../api/Outlook.StorageItem.Size.md)** is updated. Call **[StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** to update the contents of the item in the folder.
 
 

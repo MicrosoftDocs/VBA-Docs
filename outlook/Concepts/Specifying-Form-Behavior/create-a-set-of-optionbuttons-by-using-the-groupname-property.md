@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 1. Place all required  **OptionButton** controls on the form.
     
-     **Note**  Option buttons in a  **[Page](page-object-outlook-forms-script.md)**,  **[MultiPage](multipage-object-outlook-forms-script.md)**, or  **[Frame](frame-object-outlook-forms-script.md)** automatically form an option group.
+     **Note**  Option buttons in a  **[Page](../../../api/Outlook.page.md)**,  **[MultiPage](../../../api/Outlook.multipage.md)**, or  **[Frame](../../../api/Outlook.frame.md)** automatically form an option group.
 2. For each button in the group, right-click the control, and in the  **Properties** box, set the **GroupName** property to the same value.
     
 

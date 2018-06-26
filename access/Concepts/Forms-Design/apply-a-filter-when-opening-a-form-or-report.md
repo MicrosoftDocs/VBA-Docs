@@ -13,7 +13,7 @@ When you use Visual Basic for Applications (VBA) code to open a form or report, 
 
 ## Using the wherecondition argument
 
-The  _wherecondition_ argument of the **[OpenForm](docmd-openform-method-access.md)** or **[OpenReport](docmd-openreport-method-access.md)** method or action is the simplest way to get criteria in situations where a user is providing only one value. For example, you could display a form that prompts users to select an order ID for the invoice they want to print. If you are using an event procedure, you can apply a filter that displays only one record by adding an argument to the **OpenReport** method, as shown in the following line of code:
+The  _wherecondition_ argument of the **[OpenForm](../../../api/Access.DoCmd.OpenForm.md)** or **[OpenReport](../../../api/Access.DoCmd.OpenReport.md)** method or action is the simplest way to get criteria in situations where a user is providing only one value. For example, you could display a form that prompts users to select an order ID for the invoice they want to print. If you are using an event procedure, you can apply a filter that displays only one record by adding an argument to the **OpenReport** method, as shown in the following line of code:
 
 
 ```vb

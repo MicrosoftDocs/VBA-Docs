@@ -14,7 +14,7 @@ Remember the following points when you work with controls on documents:
 
 - You can add ActiveX controls to the text layer or drawing layer of the document. To add a control to the drawing layer, click the control on the  **Control Toolbox**. To add a control to the text layer, hold down the SHIFT key while you click a control on the  **Control Toolbox**.
     
-- A control that you add to the text layer is an  **[InlineShape](inlineshape-object-word.md)** object, to which you gain access programmatically through the **[InlineShapes](inlineshapes-object-word.md)** collection. A control that you add to the drawing layer is a **[Shape](shape-object-word.md)** object, to which you gain access programmatically through the **[Shapes](shapes-object-word.md)** collection.
+- A control that you add to the text layer is an  **[InlineShape](inline../../../api/Word.Shape.md)** object, to which you gain access programmatically through the **[InlineShapes](inline../../../api/Word.shapes.md)** collection. A control that you add to the drawing layer is a **[Shape](../../../api/Word.Shape.md)** object, to which you gain access programmatically through the **[Shapes](../../../api/Word.shapes.md)** collection.
     
 - Controls in the text layer are treated like characters and are positioned as characters within a line of text.
     

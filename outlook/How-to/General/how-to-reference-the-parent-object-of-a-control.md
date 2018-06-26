@@ -15,9 +15,9 @@ The following example uses the Microsoft Forms 2.0  **Parent** property to refer
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
 
-- Two  **[Label](label-object-outlook-forms-script.md)** controls named Label1 and Label2.
+- Two  **[Label](../../../api/Outlook.label.md)** controls named Label1 and Label2.
     
-- A  **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
     
 - One or more additional controls of your choice.
     

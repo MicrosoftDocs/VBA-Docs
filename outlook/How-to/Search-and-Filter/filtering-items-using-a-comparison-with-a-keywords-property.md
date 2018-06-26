@@ -14,7 +14,7 @@ The  **Categories** property of an item is of type **keywords** which can contai
 
 ## Jet Queries
 
- In a Jet query, you can only perform phrase-matching on a keywords property. You cannot perform starts-with or substring matching with a Jet query. Consider the following criteria for **[Table.Restrict](table-restrict-method-outlook.md)**: 
+ In a Jet query, you can only perform phrase-matching on a keywords property. You cannot perform starts-with or substring matching with a Jet query. Consider the following criteria for **[Table.Restrict](../../../api/Outlook.Table.Restrict.md)**: 
 
 
 ```vb
@@ -59,6 +59,6 @@ criteria = "@SQL=" &; Chr(34) _
 
 returns any item that has  **Book** as a category, including those categorized with multiple categories, where **Book** is one of the categories. The query does not return items that do not have **Book** as a category.
 
-If the multi-valued property is added to the  **[Table](table-object-outlook.md)** using a reference by namespace, the format of the values of the property is a variant array. To access these values, parse the elements in the array. Using the last example, this would also allow you to obtain the items that contain exactly **Partner** as a category.
+If the multi-valued property is added to the  **[Table](../../../api/Outlook.Table.md)** using a reference by namespace, the format of the values of the property is a variant array. To access these values, parse the elements in the array. Using the last example, this would also allow you to obtain the items that contain exactly **Partner** as a category.
 
 

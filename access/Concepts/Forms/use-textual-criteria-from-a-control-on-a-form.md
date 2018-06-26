@@ -26,7 +26,7 @@ The following example performs a lookup on an Employees table and returns the re
     &; Forms!Employees!LastName &; "'")
 ```
 
-If the current value of the control is  `King`, the following  _criteria_ argument is passed to the [DLookup](application-dlookup-method-access.md) function after Access evaluates the expression and concatenates the strings:
+If the current value of the control is  `King`, the following  _criteria_ argument is passed to the [DLookup](../../../api/Access.Application.DLookup.md) function after Access evaluates the expression and concatenates the strings:
 
 
 

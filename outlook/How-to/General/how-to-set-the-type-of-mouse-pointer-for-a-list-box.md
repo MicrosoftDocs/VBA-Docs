@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Set the Type of Mouse Pointer for a List Box
 
-The following example demonstrates how to specify a mouse pointer that is appropriate for a specific control or situation. For the  **[ListBox](listbox-object-outlook-forms-script.md)** control, you can assign one of several available mouse pointers using the ** [ListBox.MousePointer](listbox-mousepointer-property-outlook-forms-script.md)** property.
+The following example demonstrates how to specify a mouse pointer that is appropriate for a specific control or situation. For the  **[ListBox](../../../api/Outlook.listbox.md)** control, you can assign one of several available mouse pointers using the ** [ListBox.MousePointer](../../../api/Outlook.listbox.mousepointer.md)** property.
 
 This example works in the following ways:
 

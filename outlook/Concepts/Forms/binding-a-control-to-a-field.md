@@ -18,7 +18,7 @@ If you have created a control using the  **Control Toolbox** and you would like 
 3. Click  **OK** in the **Properties** box.
     
 
- **Note**  If you bind a  **[CheckBox](checkbox-object-outlook-forms-script.md)**,  **[ComboBox](combobox-object-outlook-forms-script.md)**,  **[ListBox](listbox-object-outlook-forms-script.md)**, or  **[OptionButton](optionbutton-object-outlook-forms-script.md)** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event of the item to detect the change via code, as shown in the following example:
+ **Note**  If you bind a  **[CheckBox](../../../api/Outlook.checkbox.md)**,  **[ComboBox](../../../api/Outlook.combobox.md)**,  **[ListBox](../../../api/Outlook.listbox.md)**, or  **[OptionButton](../../../api/Outlook.optionbutton.md)** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event of the item to detect the change via code, as shown in the following example:
 
 
 ```vb

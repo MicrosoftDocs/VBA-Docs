@@ -15,7 +15,7 @@ In situations where you must construct strings to be concatenated, you may need 
     
 - When specifying criteria for the  **Find** methods.
     
-- When specifying criteria for the  **[Filter](form-filter-property-access.md)** or **[ServerFilter](form-serverfilter-property-access.md)** property of a form.
+- When specifying criteria for the  **[Filter](../../../api/Access.Form.Filter(property).md)** or **[ServerFilter](../../../api/Access.Form.ServerFilter.md)** property of a form.
     
 - When building SQL strings.
     

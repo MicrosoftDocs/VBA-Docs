@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Set the Number of Lines and the Length of Input in a Text Box
 
-The following example counts the characters and the number of lines of text in a  **[TextBox](textbox-object-outlook-forms-script.md)** by using the **[LineCount](textbox-linecount-property-outlook-forms-script.md)** and **[TextLength](textbox-textlength-property-outlook-forms-script.md)** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the  **LineCount** and **TextLength** properties.
+The following example counts the characters and the number of lines of text in a  **[TextBox](../../../api/Outlook.textbox.md)** by using the **[LineCount](../../../api/Outlook.textbox.linecount.md)** and **[TextLength](../../../api/Outlook.textbox.textlength.md)** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the  **LineCount** and **TextLength** properties.
 
 
  **Note**  The  **SetFocus** method is inherited from the Microsoft Forms 2.0 **TextBox** control.
@@ -22,9 +22,9 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 
 - A  **TextBox** named TextBox1.
     
-- A  **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+- A  **[CommandButton](../../../api/Outlook.commandbutton.md)** named CommandButton1.
     
-- Two  **[Label](label-object-outlook-forms-script.md)** controls named Label1 and Label2.
+- Two  **[Label](../../../api/Outlook.label.md)** controls named Label1 and Label2.
     
 
 

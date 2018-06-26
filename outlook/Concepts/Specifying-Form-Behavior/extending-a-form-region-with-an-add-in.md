@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 
-While you can create and run forms with form regions without a COM add-in, using a COM add-in will allow form regions to include custom business logic or advanced functionality. Unlike customizing form pages in a standard form, you do not use VBScript to write code behind a form; instead, you program form regions with a COM add-in. Your add-in will implement a new interface,  **[FormRegionStartup](formregionstartup-object-outlook.md)**. Add-ins will be able to use Microsoft Forms 2.0 controls and Microsoft Outlook controls in a form region. This topic describes how to implement  **FormRegionStartup** and access Outlook controls in a form region.
+While you can create and run forms with form regions without a COM add-in, using a COM add-in will allow form regions to include custom business logic or advanced functionality. Unlike customizing form pages in a standard form, you do not use VBScript to write code behind a form; instead, you program form regions with a COM add-in. Your add-in will implement a new interface,  **[FormRegionStartup](../../../api/Outlook.formregionstartup.md)**. Add-ins will be able to use Microsoft Forms 2.0 controls and Microsoft Outlook controls in a form region. This topic describes how to implement  **FormRegionStartup** and access Outlook controls in a form region.
 
 ## Specifying the Use of an Add-in
 
@@ -22,20 +22,20 @@ When you register the form region for a message class, create a key in the Windo
 In the same class that implements the  **IDTExtensibility2** interface of your COM Add-in, implement the **Outlook.FormRegionStartup** interface, which is defined in the Outlook type library. Outlook will call the four methods in this interface:
 
 
--  **[GetFormRegionStorage](formregionstartup-getformregionstorage-method-outlook.md)**
+-  **[GetFormRegionStorage](../../../api/Outlook.FormRegionStartup.GetFormRegionStorage.md)**
     
--  **[BeforeFormRegionShow](formregionstartup-beforeformregionshow-method-outlook.md)**
+-  **[BeforeFormRegionShow](../../../api/Outlook.FormRegionStartup.BeforeFormRegionShow.md)**
     
--  **[GetFormRegionManifest](formregionstartup-getformregionmanifest-method-outlook.md)**
+-  **[GetFormRegionManifest](../../../api/Outlook.FormRegionStartup.GetFormRegionManifest.md)**
     
--  **[GetFormRegionIcon](formregionstartup-getformregionicon-method-outlook.md)**
+-  **[GetFormRegionIcon](../../../api/Outlook.FormRegionStartup.GetFormRegionIcon.md)**
     
 
 
 
 ## GetFormRegionStorage
 
-When Outlook is about to display a form region that is controlled by an add-in, Outlook will call the  **GetFormRegionStorage** method. When the add-in receives a call from Outlook to **GetFormRegionStorage** specifying information for a form region, the add-in will return information for the layout. This information can be a local path to the layout file (.OFS file), a Microsoft Windows **IStorage** object, or a byte array with the contents of the OFS file, which allows an add-in to store the OFS as a resoruce. Outlook will use the returned information to instantiate controls and calculate the layout for the form region. Outlook will also instantiate a **[FormRegion](formregion-object-outlook.md)** object for the form region. The method prototype for **GetFormRegionStorage** in Microsoft Visual Basic and Microsoft C# are shown below.
+When Outlook is about to display a form region that is controlled by an add-in, Outlook will call the  **GetFormRegionStorage** method. When the add-in receives a call from Outlook to **GetFormRegionStorage** specifying information for a form region, the add-in will return information for the layout. This information can be a local path to the layout file (.OFS file), a Microsoft Windows **IStorage** object, or a byte array with the contents of the OFS file, which allows an add-in to store the OFS as a resoruce. Outlook will use the returned information to instantiate controls and calculate the layout for the form region. Outlook will also instantiate a **[FormRegion](../../../api/Outlook.FormRegion.md)** object for the form region. The method prototype for **GetFormRegionStorage** in Microsoft Visual Basic and Microsoft C# are shown below.
 
 In Visual Basic: 
 
@@ -121,7 +121,7 @@ using MSForms = Microsoft.Vbe.Interop.Forms;
 
 ```
 
-You can access controls through the  **FormRegion** object obtained from **BeforeFormRegionShow**. The  ** [FormRegion.Form](formregion-form-property-outlook.md)** property returns an object representing a form; you can cast this object to the **MSForms.UserForm** class (exposed in the Microsoft Forms 2.0 object library) to access the form canvas for the form region.
+You can access controls through the  **FormRegion** object obtained from **BeforeFormRegionShow**. The  ** [FormRegion.Form](../../../api/Outlook.FormRegion.Form.md)** property returns an object representing a form; you can cast this object to the **MSForms.UserForm** class (exposed in the Microsoft Forms 2.0 object library) to access the form canvas for the form region.
 
 Each instance of the  **UserForm** object has a **Controls** collection that can be used to access the individual controls on the **UserForm** by control name. Many of the Microsoft Forms 2.0 controls have themed counterparts that are Outlook controls. In a form region, Outlook replaces those Forms 2.0 controls that have Outlook counterpart controls by the corresponding themed counterparts. Once you have obtained a reference to a themed control from the **Controls** collection, you can cast it to the proper type in the Outlook type library. You will then be able to access all the properties, methods, and events exposed for these controls in the Outlook type library. Unlike customizing forms with VBScript, you will be able to listen to all control events, and not only the **Click** event. For more information on controls, see [Controls in a Custom Form](controls-in-a-custom-form.md).
 

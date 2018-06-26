@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Return Objects from Collections
 
-The  **Item** method returns a single object from a collection. The following example sets the _firstPres_ variable to a [Presentation](presentation-object-powerpoint.md) object that represents presentation one variable to a [Presentation](presentation-object-powerpoint.md) object that represents presentation one.
+The  **Item** method returns a single object from a collection. The following example sets the _firstPres_ variable to a [Presentation](../../api/PowerPoint.Presentation.md) object that represents presentation one variable to a [Presentation](../../api/PowerPoint.Presentation.md) object that represents presentation one.
 
 
 ```vb

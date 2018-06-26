@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Macro Actions and Methods of the DoCmd Object
 
-To carry out macro actions from code in Access, use the [DoCmd](docmd-object-access.md)object and its methods. This object replaces the  **DoCmd** statement that you used in versions 1. _x_ and 2.0 of Access to carry out a macro action.
+To carry out macro actions from code in Access, use the [DoCmd](../../../api/Access.DoCmd.md)object and its methods. This object replaces the  **DoCmd** statement that you used in versions 1. _x_ and 2.0 of Access to carry out a macro action.
 
 When you convert a database, Access automatically converts any  **DoCmd** statements and the actions that they carried out in your Access Basic code to methods of the **DoCmd** object by replacing the space with the . (dot) operator.
 

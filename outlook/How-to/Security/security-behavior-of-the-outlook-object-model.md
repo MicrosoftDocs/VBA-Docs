@@ -28,7 +28,7 @@ Versions of Outlook prior to Outlook 2007 have relied on the Object Model Guard 
 
  **In-Process Add-ins**
 
-In-process Outlook add-ins run in the process of the host Outlook program. In-process COM add-ins in Outlook are trusted by default. These COM add-ins are registered on the list of trusted applications by the client computer's administrator, and must use the  **[Application](application-object-outlook.md)** object that is passed to the **OnConnection** event of the add-in. Note that if you create a new **Application** object by using the **[CreateObject](application-createobject-method-outlook.md)** method, that object and any of its subordinate objects, properties, and methods are not trusted.
+In-process Outlook add-ins run in the process of the host Outlook program. In-process COM add-ins in Outlook are trusted by default. These COM add-ins are registered on the list of trusted applications by the client computer's administrator, and must use the  **[Application](../../../api/Outlook.Application.md)** object that is passed to the **OnConnection** event of the add-in. Note that if you create a new **Application** object by using the **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** method, that object and any of its subordinate objects, properties, and methods are not trusted.
 
 For more information about the  **OnConnection** event, see the [IDTExtensibility2](http://msdn.microsoft.com/library/frlrfExtensibilityIDTExtensibility2ClassTopic.aspx) documentation on MSDN.
 

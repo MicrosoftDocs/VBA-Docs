@@ -17,7 +17,7 @@ In addition to enclosing the entire string expression in double quotation marks 
 
  **Note**  The number signs indicate to Access that the  _criteria_ argument contains a date or time within a string.
 
-The following examples set a form's  **[Filter](form-filter-event-access.md)** or **[ServerFilter](form-serverfilter-property-access.md)** property based on criteria that come from a control named HireDate that is on the form. Note the placement of the number signs.
+The following examples set a form's  **[Filter](../../../api/Access.Form.Filter(even).md)** or **[ServerFilter](../../../api/Access.Form.ServerFilter.md)** property based on criteria that come from a control named HireDate that is on the form. Note the placement of the number signs.
 
 
 

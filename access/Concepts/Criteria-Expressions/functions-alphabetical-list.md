@@ -59,7 +59,7 @@ The following topics describe common functions used in Access expressions.
 
 [CurDir Function](../../../Language-Reference/Language-Reference/User-Interface-Help/curdir-function.md)
 
-[CurrentUser Method](application-currentuser-method-access.md)
+[CurrentUser Method](../../../api/Access.Application.CurrentUser.md)
 
 [CVar Function](../../../Language-Reference/Language-Reference/User-Interface-Help/type-conversion-functions.md)
 
@@ -77,41 +77,41 @@ The following topics describe common functions used in Access expressions.
 
 [DateValue Function](../../../Language-Reference/Language-Reference/User-Interface-Help/datevalue-function.md)
 
-[DAvg Function](application-davg-method-access.md)
+[DAvg Function](../../../api/Access.application.davg.md)
 
 [Day Function](../../../Language-Reference/Language-Reference/User-Interface-Help/day-function.md)
 
-[DCount Method](application-dcount-method-access.md)
+[DCount Method](../../../api/Access.Application.DCount.md)
 
 [DDB Function](../../../Language-Reference/Language-Reference/User-Interface-Help/ddb-function.md)
 
-[DDEInitiate Method](application-ddeinitiate-method-access.md)
+[DDEInitiate Method](../../../api/Access.Application.DDEInitiate.md)
 
-[DDERequest Method](application-dderequest-method-access.md)
+[DDERequest Method](../../../api/Access.Application.DDERequest.md)
 
-[DFirst Method](application-dfirst-method-access.md)
+[DFirst Method](../../../api/Access.Application.DFirst.md)
 
 [Dir Function](../../../Language-Reference/Language-Reference/User-Interface-Help/dir-function.md)
 
-[DLast Method](application-dlast-method-access.md)
+[DLast Method](../../../api/Access.Application.DLast.md)
 
-[DLookup Method](application-dlookup-method-access.md)
+[DLookup Method](../../../api/Access.Application.DLookup.md)
 
-[DMax Method](application-dmax-method-access.md)
+[DMax Method](../../../api/Access.Application.DMax.md)
 
-[DMin Method](application-dmin-method-access.md)
+[DMin Method](../../../api/Access.Application.DMin.md)
 
 [DoEvents Function](../../../Language-Reference/Language-Reference/User-Interface-Help/doevents-function.md)
 
-[DStDev Method](application-dstdev-method-access.md)
+[DStDev Method](../../../api/Access.Application.DStDev.md)
 
-[DStDevP Method](application-dstdevp-method-access.md)
+[DStDevP Method](../../../api/Access.Application.DStDevP.md)
 
-[DSum Method](application-dsum-method-access.md)
+[DSum Method](../../../api/Access.Application.DSum.md)
 
-[DVar Method](application-dvar-method-access.md)
+[DVar Method](../../../api/Access.Application.DVar.md)
 
-[DVarP Method](application-dvarp-method-access.md)
+[DVarP Method](../../../api/Access.Application.DVarP.md)
 
 [Environ Function](../../../Language-Reference/Language-Reference/User-Interface-Help/environ-function.md)
 
@@ -119,9 +119,9 @@ The following topics describe common functions used in Access expressions.
 
 [Error Function](../../../Language-Reference/Language-Reference/User-Interface-Help/error-function.md)
 
-[EuroConvert Method](application-euroconvert-method-access.md)
+[EuroConvert Method](../../../api/Access.Application.EuroConvert.md)
 
-[Eval Method](application-eval-method-access.md)
+[Eval Method](../../../api/Access.Application.Eval.md)
 
 [Exp Function](../../../Language-Reference/Language-Reference/User-Interface-Help/exp-function.md)
 
@@ -157,15 +157,15 @@ The following topics describe common functions used in Access expressions.
 
 [GetSetting Function](../../../Language-Reference/Language-Reference/User-Interface-Help/getsetting-function.md)
 
-[GUIDFromString Method](application-guidfromstring-method-access.md)
+[GUIDFromString Method](../../../api/Access.Application.GUIDFromString.md)
 
 [Hex Function](../../../Language-Reference/Language-Reference/User-Interface-Help/hex-function.md)
 
 [Hour Function](../../../Language-Reference/Language-Reference/User-Interface-Help/hour-function.md)
 
-[HtmlEncode Method](application-htmlencode-method-access.md)
+[HtmlEncode Method](../../../api/Access.Application.HtmlEncode.md)
 
-[HyperlinkPart Method](application-hyperlinkpart-method-access.md)
+[HyperlinkPart Method](../../../api/Access.Application.HyperlinkPart.md)
 
 [IIf Function](../../../Language-Reference/Language-Reference/User-Interface-Help/iif-function.md)
 
@@ -241,13 +241,13 @@ The following topics describe common functions used in Access expressions.
 
 [NPV Function](../../../Language-Reference/Language-Reference/User-Interface-Help/npv-function.md)
 
-[Nz Method](application-nz-method-access.md)
+[Nz Method](../../../api/Access.Application.Nz.md)
 
 [Oct Function](../../../Language-Reference/Language-Reference/User-Interface-Help/oct-function.md)
 
 [Partition Function](../../../Language-Reference/Language-Reference/User-Interface-Help/partition-function.md)
 
-[PlainText Method](application-plaintext-method-access.md)
+[PlainText Method](../../../api/Access.Application.PlainText.md)
 
 [Pmt Function](../../../Language-Reference/Language-Reference/User-Interface-Help/pmt-function.md)
 
@@ -303,7 +303,7 @@ The following topics describe common functions used in Access expressions.
 
 [String Function](../../../Language-Reference/Language-Reference/User-Interface-Help/string-function.md)
 
-[StringFromGUID Method](application-stringfromguid-method-access.md)
+[StringFromGUID Method](../../../api/Access.Application.StringFromGUID.md)
 
 [StrReverse Function](../../../Language-Reference/Language-Reference/User-Interface-Help/strreverse-function.md)
 

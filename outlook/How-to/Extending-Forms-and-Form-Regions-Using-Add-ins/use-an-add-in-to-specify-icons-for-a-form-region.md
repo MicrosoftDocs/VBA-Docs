@@ -14,11 +14,11 @@ You can use an add-in to specify the custom icons you would like to use to help 
 ## To use an add-in to specify an icon for a form region
 
 
-1. Implement the  **[FormRegionStartup](formregionstartup-object-outlook.md)** interface.
+1. Implement the  **[FormRegionStartup](../../../api/Outlook.formregionstartup.md)** interface.
     
     All add-ins that extend form regions must implement the  **FormRegionStartup** interface. Outlook calls this interface to obtain layout storage data for a form region. For more information on add-ins for form regions, see [Extending a Form Region with an Add-in](extending-a-form-region-with-an-add-in.md).
     
-    In particular, to specify custom icons, the add-in implements the  **[GetFormRegionManifest](formregionstartup-getformregionmanifest-method-outlook.md)** and the **[GetFormRegionIcon](formregionstartup-getformregionicon-method-outlook.md)** methods of the **FormRegionStartup** interface, specifying a form region manifest XML file and the circumstances where Outlook should display custom icons in the explorer, inspector, or ribbon. For example, you can create a form region to display a type of task that occurs in the household only, and these household tasks belong to a message class, **IPM.Task.Household**, which is derived from  **IPM.Task**. You can extend the form region with an add-in that specifies in the  **GetFormRegionIcon** method a special recurrent icon that Outlook should display adjacent to recurrent household tasks in the explorer.
+    In particular, to specify custom icons, the add-in implements the  **[GetFormRegionManifest](../../../api/Outlook.FormRegionStartup.GetFormRegionManifest.md)** and the **[GetFormRegionIcon](../../../api/Outlook.FormRegionStartup.GetFormRegionIcon.md)** methods of the **FormRegionStartup** interface, specifying a form region manifest XML file and the circumstances where Outlook should display custom icons in the explorer, inspector, or ribbon. For example, you can create a form region to display a type of task that occurs in the household only, and these household tasks belong to a message class, **IPM.Task.Household**, which is derived from  **IPM.Task**. You can extend the form region with an add-in that specifies in the  **GetFormRegionIcon** method a special recurrent icon that Outlook should display adjacent to recurrent household tasks in the explorer.
     
 2. In the form region manifest XML file, specify under the  **icons** element, the value `addin` for each of the child elements where you would like to use a custom icon.
     

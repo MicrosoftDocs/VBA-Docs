@@ -70,7 +70,7 @@ The following list contains topics that describe common functions used in Access
 
 [Day Function](../../../Language-Reference/Language-Reference/User-Interface-Help/day-function.md)
 
-[EuroConvert Method](application-euroconvert-method-access.md)
+[EuroConvert Method](../../../api/Access.Application.EuroConvert.md)
 
 [FormatCurrency Function](../../../Language-Reference/Language-Reference/User-Interface-Help/formatcurrency-function.md)
 
@@ -80,17 +80,17 @@ The following list contains topics that describe common functions used in Access
 
 [FormatPercent Function](../../../Language-Reference/Language-Reference/User-Interface-Help/formatpercent-function.md)
 
-[GUIDFromString Method](application-guidfromstring-method-access.md)
+[GUIDFromString Method](../../../api/Access.Application.GUIDFromString.md)
 
 [Hex Function](../../../Language-Reference/Language-Reference/User-Interface-Help/hex-function.md)
 
-[Nz Method](application-nz-method-access.md)
+[Nz Method](../../../api/Access.Application.Nz.md)
 
 [Oct Function](../../../Language-Reference/Language-Reference/User-Interface-Help/oct-function.md)
 
 [Str Function](../../../Language-Reference/Language-Reference/User-Interface-Help/str-function.md)
 
-[StringFromGUID Method](application-stringfromguid-method-access.md)
+[StringFromGUID Method](../../../api/Access.Application.StringFromGUID.md)
 
 [Type Conversion Functions](../../../Language-Reference/Language-Reference/User-Interface-Help/type-conversion-functions.md)
 
@@ -99,15 +99,15 @@ The following list contains topics that describe common functions used in Access
 
 ## Database
 
-[CurrentUser Method](application-currentuser-method-access.md)
+[CurrentUser Method](../../../api/Access.Application.CurrentUser.md)
 
-[DDEInitiate Method](application-ddeinitiate-method-access.md)
+[DDEInitiate Method](../../../api/Access.Application.DDEInitiate.md)
 
-[DDERequest Method](application-dderequest-method-access.md)
+[DDERequest Method](../../../api/Access.Application.DDERequest.md)
 
-[Eval Method](application-eval-method-access.md)
+[Eval Method](../../../api/Access.Application.Eval.md)
 
-[HyperlinkPart Method](application-hyperlinkpart-method-access.md)
+[HyperlinkPart Method](../../../api/Access.Application.HyperlinkPart.md)
 
 [Partition Function](../../../Language-Reference/Language-Reference/User-Interface-Help/partition-function.md)
 
@@ -157,29 +157,29 @@ The following list contains topics that describe common functions used in Access
 
 ## Domain Aggregate
 
-[DAvg Function](application-davg-method-access.md)
+[DAvg Function](../../../api/Access.application.davg.md)
 
-[DCount Method](application-dcount-method-access.md)
+[DCount Method](../../../api/Access.Application.DCount.md)
 
-[DFirst Method](application-dfirst-method-access.md)
+[DFirst Method](../../../api/Access.Application.DFirst.md)
 
-[DLast Method](application-dlast-method-access.md)
+[DLast Method](../../../api/Access.Application.DLast.md)
 
-[DLookup Method](application-dlookup-method-access.md)
+[DLookup Method](../../../api/Access.Application.DLookup.md)
 
-[DMax Method](application-dmax-method-access.md)
+[DMax Method](../../../api/Access.Application.DMax.md)
 
-[DMin Method](application-dmin-method-access.md)
+[DMin Method](../../../api/Access.Application.DMin.md)
 
-[DStDev Method](application-dstdev-method-access.md)
+[DStDev Method](../../../api/Access.Application.DStDev.md)
 
-[DStDevP Method](application-dstdevp-method-access.md)
+[DStDevP Method](../../../api/Access.Application.DStDevP.md)
 
-[DSum Method](application-dsum-method-access.md)
+[DSum Method](../../../api/Access.Application.DSum.md)
 
-[DVar Method](application-dvar-method-access.md)
+[DVar Method](../../../api/Access.Application.DVar.md)
 
-[DVarP Method](application-dvarp-method-access.md)
+[DVarP Method](../../../api/Access.Application.DVarP.md)
 
 
 ## Error Handling

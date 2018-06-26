@@ -37,7 +37,7 @@ Because existing add-ins and macros can rely on Excel to seamlessly transmit the
 - [Add-ins that have an internal, in-memory state outside of the workbook content](#StateOfAddins)
 - [Add-ins that leverage events](#UseEvents)
 
-[**BeforeRemoteChange**](workbook-beforeremotechange-event-excel.md) and [**AfterRemoteChange**](workbook-afterremotechange-event-excel.md) events were added to enable you to manage remote changes where applicable.
+[**BeforeRemoteChange**](../../api/Excel.Workbook.BeforeRemoteChange.md) and [**AfterRemoteChange**](../../api/Excel.Workbook.AfterRemoteChange.md) events were added to enable you to manage remote changes where applicable.
 
 ### <a name="StateOfAddins"></a>Add-ins that have an internal, in-memory state outside of the workbook content
 

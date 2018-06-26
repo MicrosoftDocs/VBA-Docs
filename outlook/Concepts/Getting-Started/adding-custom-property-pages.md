@@ -16,11 +16,11 @@ Creating a custom property page for Microsoft Outlook involves four major steps:
 
 1. Create the page as an ActiveX control.
     
-2. Implement the  [PropertyPage](propertypage-object-outlook.md) object.
+2. Implement the  [PropertyPage](../../../api/Outlook.PropertyPage.md) object.
     
-3. Write a procedure that sets the value of the  [Dirty](propertypage-dirty-property-outlook.md) property and calls the [OnStatusChange](propertypagesite-onstatuschange-method-outlook.md) method.
+3. Write a procedure that sets the value of the  [Dirty](../../../api/Outlook.PropertyPage.Dirty.md) property and calls the [OnStatusChange](../../../api/Outlook.PropertyPageSite.OnStatusChange.md) method.
     
-4. Create a Component Object Model (COM) add-in that contains an event procedure for  **OptionsPagesAdd** for either the [Application](application-object-outlook.md) or [NameSpace](namespace-object-outlook.md) object, as appropriate. For information about creating a COM add-in, see [Customizing Outlook using COM add-ins](customizing-outlook-using-com-add-ins.md).
+4. Create a Component Object Model (COM) add-in that contains an event procedure for  **OptionsPagesAdd** for either the [Application](../../../api/Outlook.Application.md) or [NameSpace](../../../api/Outlook.NameSpace.md) object, as appropriate. For information about creating a COM add-in, see [Customizing Outlook using COM add-ins](customizing-outlook-using-com-add-ins.md).
     
 
 ## Create the page as an ActiveX control
@@ -48,8 +48,8 @@ The module must then contain code that implements the methods and properties of 
 |**Procedure**|**Description**|
 |:-----|:-----|
 | **Dirty** property|Called by Outlook in response to the  **OnStatusChange** method to determine whether the user has changed a value on the property page.|
-| [Apply](propertypage-apply-method-outlook.md) method|Called by Outlook to notify your program that the user has clicked the  **OK** or the **Apply** button. Usually this procedure applies any property values changed by the user in the property page.|
-| [GetPageInfo](propertypage-getpageinfo-method-outlook.md) method|Called by Outlook to obtain the Help file and topic associated with the property page.|
+| [Apply](../../../api/Outlook.PropertyPage.Apply.md) method|Called by Outlook to notify your program that the user has clicked the  **OK** or the **Apply** button. Usually this procedure applies any property values changed by the user in the property page.|
+| [GetPageInfo](../../../api/Outlook.PropertyPage.GetPageInfo.md) method|Called by Outlook to obtain the Help file and topic associated with the property page.|
 
 ## Write a procedure that sets the Dirty property and calls the OnStatusChange method
 
@@ -58,6 +58,6 @@ Most commonly, changes to property values are not applied immediately in respons
 
 ## Create a COM add-in containing an event procedure for the OptionsPagesAdd event
 
-The  **OptionsPagesAdd** event gives your program the opportunity to add your custom property page to the Microsoft Outlook **Options** dialog box (if the event is fired for the **Application** object) or the folders **Properties** dialog box (if the event is called for the **NameSpace** object). When Outlook calls this event procedure, it passes a [PropertyPages](propertypages-object-outlook.md) object. Your event procedure uses the [Add](propertypages-add-method-outlook.md) method of the collection to add the **PropertyPage** object implemented by your program to the object.
+The  **OptionsPagesAdd** event gives your program the opportunity to add your custom property page to the Microsoft Outlook **Options** dialog box (if the event is fired for the **Application** object) or the folders **Properties** dialog box (if the event is called for the **NameSpace** object). When Outlook calls this event procedure, it passes a [PropertyPages](../../../api/Outlook.PropertyPages.md) object. Your event procedure uses the [Add](../../../api/Outlook.PropertyPages.Add.md) method of the collection to add the **PropertyPage** object implemented by your program to the object.
 
 

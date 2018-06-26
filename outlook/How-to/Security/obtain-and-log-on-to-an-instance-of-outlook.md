@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Obtain and Log On to an Instance of Outlook
 
-This topic shows how to obtain an  **[Application](application-object-outlook.md)** object that represents an active instance of Outlook, if there is one running on the local computer, or to create a new instance of Outlook, log on to the default profile, and return that instance of Outlook.
+This topic shows how to obtain an  **[Application](../../../api/Outlook.Application.md)** object that represents an active instance of Outlook, if there is one running on the local computer, or to create a new instance of Outlook, log on to the default profile, and return that instance of Outlook.
 
 Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/default.aspx) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.
 
@@ -26,7 +26,7 @@ To check whether the array does contain at least one Outlook process, `GetApplic
 
 Because the **[Array](http://msdn.microsoft.com/library/frlrfSystemArrayClassTopic%28Office.15%29.aspx)** class implements the **IEnumerable(T)** interface, `GetApplicationObject` can apply the **Count** method to the array returned by **GetProcessesByName** to see whether there is an Outlook process running. If there is, `GetApplicationObject` uses the **[GetActiveObject](http://msdn.microsoft.com/library/frlrfSystemRuntimeInteropServicesMarshalClassGetActiveObjectTopic%28Office.15%29.aspx)** method of the **[Marshal](http://msdn.microsoft.com/library/frlrfSystemRuntimeInteropServicesMarshalClassTopic%28Office.15%29.aspx)** class in the **[System.Runtime.InteropServices](http://msdn.microsoft.com/library/frlrfSystemRuntimeInteropServices%28Office.15%29.aspx)** namespace to obtain that instance of Outlook, and casts that object to an Outlook **Application** object.
 
-If Outlook is not running on the local computer, `GetApplicationObject` creates a new instance of Outlook, uses the **[Logon](namespace-logon-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object to log on to the default profile, and returns that new instance of Outlook.
+If Outlook is not running on the local computer, `GetApplicationObject` creates a new instance of Outlook, uses the **[Logon](../../../api/Outlook.NameSpace.Logon.md)** method of the **[NameSpace](../../../api/Outlook.NameSpace.md)** object to log on to the default profile, and returns that new instance of Outlook.
 
 The following is the C# code sample.
 

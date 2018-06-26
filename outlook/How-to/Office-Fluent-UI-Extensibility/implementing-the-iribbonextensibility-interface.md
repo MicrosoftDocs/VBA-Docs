@@ -26,7 +26,7 @@ When you implement  **Office.IRibbonExtensibility**, use the  **IRibbonExtensibi
 - Viewing an item in the Reading Pane does not cause  **GetCustomUI** to be called because the ribbon is not displayed in the Reading Pane.
     
 The ribbon ID is a string that is passed from Office to  **GetCustomUI** and that specifies the UI customization to load. Add-in developers can use this string to determine the custom XML markup to return to Outlook. You can also use the ribbon ID to determine the type of Outlook item to display.
-In some cases, such as a  **[MailItem](mailitem-object-outlook.md)** or **[PostItem](postitem-object-outlook.md)**, Outlook calls  **GetCustomUI** once when the first compose note is displayed (where `RibbonID = Microsoft.Outlook.Mail.Compose`) and another time when the first read note is displayed (where  `RibbonID = Microsoft.Outlook.Mail.Read`).
+In some cases, such as a  **[MailItem](../../../api/Outlook.MailItem.md)** or **[PostItem](../../../api/Outlook.PostItem.md)**, Outlook calls  **GetCustomUI** once when the first compose note is displayed (where `RibbonID = Microsoft.Outlook.Mail.Compose`) and another time when the first read note is displayed (where  `RibbonID = Microsoft.Outlook.Mail.Read`).
 Outlook uses the following unique ribbon IDs.
 
 
@@ -67,7 +67,7 @@ Because a base message class shares the same ribbon XML with the custom message 
     
 2.  In the ribbon XML, specify **[IRibbonControl.Context](../../../api/Office.IRibbonControl.Context.md)** callbacks for each tab, group, and control that is specific to the custom message class. These callbacks will be used to display the controls for the custom message class and to hide the controls for the base message class and all other message classes with the same base message class.
     
-3.  In each **getVisible** callback, cast the **IRibbonControl.Context** parameter that is passed to the callback to an Outlook **[Inspector](inspector-object-outlook.md)** object. Use the **MessageClass** property of **[Inspector.CurrentItem](inspector-currentitem-property-outlook.md)** to determine whether to return **True** or **False** in the **getVisible** callback.
+3.  In each **getVisible** callback, cast the **IRibbonControl.Context** parameter that is passed to the callback to an Outlook **[Inspector](../../../api/Outlook.Inspector.md)** object. Use the **MessageClass** property of **[Inspector.CurrentItem](../../../api/Outlook.Inspector.CurrentItem.md)** to determine whether to return **True** or **False** in the **getVisible** callback.
     
 To customize the ribbon on all or multiple Outlook message classes, use the following recommendations:
 

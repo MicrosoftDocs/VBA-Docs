@@ -14,7 +14,7 @@ The following examples show how to determine if a worksheet exists, and then how
 
 ## Determining if a Worksheet Exists
 
-This example shows how to determine if a worksheet named "Sheet4" exists by using the  **[Name](worksheet-name-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object. The name of the worksheet is specified by the `mySheetName` variable.
+This example shows how to determine if a worksheet named "Sheet4" exists by using the  **[Name](../../../api/Excel.Worksheet.Name.md)** property of the **[Worksheet](../../../api/Excel.Worksheet.md)** object. The name of the worksheet is specified by the `mySheetName` variable.
 
 
 ```vb
@@ -36,7 +36,7 @@ End Sub
 
 ## Creating the Worksheet
 
-This example shows how to determine if a worksheet named "Sheet4" exists. The name of the worksheet is specified by the  `mySheetName` variable. If the worksheet does not exist, this example shows how to create a worksheet named "Sheet4" by using the **[Add](worksheets-add-method-excel.md)** method of the **[Worksheets](worksheets-object-excel.md)** object.
+This example shows how to determine if a worksheet named "Sheet4" exists. The name of the worksheet is specified by the  `mySheetName` variable. If the worksheet does not exist, this example shows how to create a worksheet named "Sheet4" by using the **[Add](../../../api/Excel.Worksheets.Add.md)** method of the **[Worksheets](../../../api/Excel.Worksheets.md)** object.
 
 
 ```vb
@@ -59,7 +59,7 @@ End Sub
 
 ## Replacing the Worksheet
 
-This example shows how to determine if a worksheet named "Sheet4" exists. The name of the worksheet is specified by the  `mySheetName` variable. If the worksheet does exist, this example shows how to delete the existing worksheet by using the **[Delete](worksheet-delete-method-excel.md)** method of the **Worksheet** object, and then creates a new worksheet named "Sheet4".
+This example shows how to determine if a worksheet named "Sheet4" exists. The name of the worksheet is specified by the  `mySheetName` variable. If the worksheet does exist, this example shows how to delete the existing worksheet by using the **[Delete](../../../api/Excel.Worksheet.Delete.md)** method of the **Worksheet** object, and then creates a new worksheet named "Sheet4".
 
 
  **Important**  All the data on the original worksheet named "Sheet4" is deleted when the worksheet is deleted.

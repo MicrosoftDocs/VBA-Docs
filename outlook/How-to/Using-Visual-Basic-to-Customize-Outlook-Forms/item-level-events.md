@@ -26,7 +26,7 @@ The following table lists the item-level events supported by Outlook.
 | **AttachmentRemove**|No|Occurs when an attachment has been removed from an item|
 | **BeforeAttachmentAdd**|Yes|Occurs before an attachment is added to an item|
 | **BeforeAttachmentPreview**|Yes|Occurs before an attachment associated with an item is previewed|
-| **BeforeAttachmentRead**|Yes|Occurs before an attachment associated with an item is read from the file system, an attachment stream, or an  **[Attachment](attachment-object-outlook.md)** object|
+| **BeforeAttachmentRead**|Yes|Occurs before an attachment associated with an item is read from the file system, an attachment stream, or an  **[Attachment](../../../api/Outlook.Attachment.md)** object|
 | **BeforeAttachmentSave**|Yes|Occurs just before an attachment is saved into the Outlook item|
 | **BeforeAttachmentWriteToTempFile**|Yes|Occurs before an attachment associated with an item is written to a temporary file|
 | **BeforeAutoSave**|Yes|Occurs before the item is automatically saved by Outlook|

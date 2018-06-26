@@ -31,7 +31,7 @@ Sub TrackChanges()
 End Sub
 ```
 
-In this example,  `Documents` refers to the collection of open documents, and the name "Sales.doc" identifies a single document in the collection. The **[TrackRevisions](document-trackrevisions-property-word.md)** property is set for that single document.
+In this example,  `Documents` refers to the collection of open documents, and the name "Sales.doc" identifies a single document in the collection. The **[TrackRevisions](../../../api/Word.Document.TrackRevisions.md)** property is set for that single document.
 
 Some properties cannot be set. The Help topic for a property indicates whether that property can be set (read/write) or can only be read (read-only).
 
@@ -57,7 +57,7 @@ The Help topic for each property indicates whether you can set that property (re
 
 ## What is a method?
 
-A method is an action that an object can perform. For example, just as a document can be printed, the  **[Document](document-object-word.md)** object has a **[PrintOut](document-printout-method-word.md)** method. Methods often have arguments that qualify how the action is performed. The following example prints the first three pages of the active document.
+A method is an action that an object can perform. For example, just as a document can be printed, the  **[Document](../../../api/Word.Document.md)** object has a **[PrintOut](../../../api/Word.Document.PrintOut.md)** method. Methods often have arguments that qualify how the action is performed. The following example prints the first three pages of the active document.
 
 
 ```vb
@@ -71,11 +71,11 @@ In most cases, methods are actions and properties are qualities. Using a method 
 
 ## Returning an object
 
-Most objects are returned by returning a single object from the collection. For example, the  **[Documents](document-object-word.md)** collection contains the open Word documents. You use the **[Documents](application-documents-property-word.md)** property of the **[Application](application-object-word.md)** object (the object at the top of the Word object hierarchy) to return the **Documents** collection.
+Most objects are returned by returning a single object from the collection. For example, the  **[Documents](../../../api/Word.Document.md)** collection contains the open Word documents. You use the **[Documents](../../../api/Word.Application.Documents.md)** property of the **[Application](../../../api/Word.Application.md)** object (the object at the top of the Word object hierarchy) to return the **Documents** collection.
 
 After you access the collection, you can return a single object by using an index value in parentheses (this is similar to how you work with arrays). The index value is usually a number or a name. For more information, see  [Returning an Object from a Collection](returning-an-object-from-a-collection-word.md).
 
-The following example uses the  **Documents** property to access the **Documents** collection. The index number is used to return the first document in the **Documents** collection. The **[Close](document-close-method-word.md)** method is then applied to the **Document** object to close the first document in the **Documents** collection.
+The following example uses the  **Documents** property to access the **Documents** collection. The index number is used to return the first document in the **Documents** collection. The **[Close](../../../api/Word.Document.Close(method).md)** method is then applied to the **Document** object to close the first document in the **Documents** collection.
 
 
 
@@ -97,7 +97,7 @@ Sub CloseSalesDoc()
 End Sub
 ```
 
-Collection objects often have methods and properties that you can use to modify the whole collection of objects. The  **Documents** object has a **[Save](documents-save-method-word.md)** method that saves all the documents in the collection. The following example saves the open documents by applying the **Save** method.
+Collection objects often have methods and properties that you can use to modify the whole collection of objects. The  **Documents** object has a **[Save](../../../api/Word.Documents.Save.md)** method that saves all the documents in the collection. The following example saves the open documents by applying the **Save** method.
 
 
 

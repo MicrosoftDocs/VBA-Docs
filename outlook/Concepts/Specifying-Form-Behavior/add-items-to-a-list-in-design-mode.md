@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Add Items to a List in Design Mode
 
-1. In Forms Designer, drag the  **[ListBox](listbox-object-outlook-forms-script.md)** or **[ComboBox](combobox-object-outlook-forms-script.md)** control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the form.
+1. In Forms Designer, drag the  **[ListBox](../../../api/Outlook.listbox.md)** or **[ComboBox](../../../api/Outlook.combobox.md)** control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the form.
     
 2. Right-click the control, then click  **Properties** on the shortcut menu.
     

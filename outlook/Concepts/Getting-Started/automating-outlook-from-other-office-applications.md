@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 You can use Visual Basic for Applications (VBA) in any Microsoft Office application to control Microsoft Outlook. For example, if you are developing a cross-application solution using one primary application and several secondary applications, you can write VBA code in the primary application to automate Outlook to send messages and to store and retrieve information in Outlook items. For example, in Excel you can write routines that send a workbook to an Outlook distribution list.
 
-To control Outlook objects from outside Outlook, you must establish a reference to the Outlook object library from the project in which you are writing code. To do this, use the  **References** dialog box in the Visual Basic Editor in the primary application. You can then write code that returns a reference to the Outlook [Application](application-object-outlook.md) object. Through this reference, your code has access to all the objects, properties, methods, and constants defined in the Outlook type library.
+To control Outlook objects from outside Outlook, you must establish a reference to the Outlook object library from the project in which you are writing code. To do this, use the  **References** dialog box in the Visual Basic Editor in the primary application. You can then write code that returns a reference to the Outlook [Application](../../../api/Outlook.Application.md) object. Through this reference, your code has access to all the objects, properties, methods, and constants defined in the Outlook type library.
 
 There are several ways to return a reference to the Outlook  **Application** object.
 
 
-- You can use the  [CreateObject](application-createobject-method-outlook.md) function to start a new session of Outlook and return a reference to the **Application** object that represents the new session.
+- You can use the  [CreateObject](../../../api/Outlook.Application.CreateObject.md) function to start a new session of Outlook and return a reference to the **Application** object that represents the new session.
     
 - You can use the Visual Basic  **GetObject** function to return a reference to the **Application** object that represents a session that is already running. Note that because there can be only one instance of Outlook running at any given time, **GetObject** usually serves little purpose when used with Outlook. **CreateObject** can always be used to access the current instance of Outlook or to create a new instance if one does not exist. However, you can use error trapping with the **GetObject** method to determine whether Outlook is currently running.
     

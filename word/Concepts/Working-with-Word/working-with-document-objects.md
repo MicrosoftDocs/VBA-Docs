@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Working with Document Objects
 
-In Visual Basic, the methods for modifying files are methods of the  **[Document](document-object-word.md)** object or the **[Documents](documents-object-word.md)** collection. This topic includes Visual Basic examples related to the following tasks:
+In Visual Basic, the methods for modifying files are methods of the  **[Document](../../../api/Word.Document.md)** object or the **[Documents](../../../api/Word.documents.md)** collection. This topic includes Visual Basic examples related to the following tasks:
 
 
 -  [Creating a new document](#Creating)
@@ -28,7 +28,7 @@ In Visual Basic, the methods for modifying files are methods of the  **[Document
 
 ## Creating a new document
 
-The  **Documents** collection includes all of the open documents. To create a new document, use the **[Add](documents-add-method-word.md)** method to add a **Document** object to the **Documents** collection. The following instruction creates a document.
+The  **Documents** collection includes all of the open documents. To create a new document, use the **[Add](../../../api/Word.Documents.Add.md)** method to add a **Document** object to the **Documents** collection. The following instruction creates a document.
 
 
 ```vb
@@ -54,7 +54,7 @@ End Sub
 
 ## Opening a document
 
-To open an existing document, use the  **[Open](documents-open-method-word.md)** method with the **Documents** collection. The following instruction opens a document named Sample.doc located in the MyFolder folder.
+To open an existing document, use the  **[Open](../../../api/Word.Documents.Open.md)** method with the **Documents** collection. The following instruction opens a document named Sample.doc located in the MyFolder folder.
 
 
 ```vb
@@ -66,7 +66,7 @@ End Sub
 
 ## Saving an existing document
 
-To save a single document, use the  **[Save](document-save-method-word.md)** method with the **Document** object. The following instruction saves the document named Sales.doc.
+To save a single document, use the  **[Save](../../../api/Word.Document.Save.md)** method with the **Document** object. The following instruction saves the document named Sales.doc.
 
 
 ```vb
@@ -89,7 +89,7 @@ End Sub
 
 ## Saving a new document
 
-To save a single document, use the  **[SaveAs2](document-saveas2-method-word.md)** method with a **Document** object. The following instruction saves the active document as "Temp.doc" in the current folder.
+To save a single document, use the  **[SaveAs2](../../../api/Word.SaveAs2.md)** method with a **Document** object. The following instruction saves the active document as "Temp.doc" in the current folder.
 
 
 ```vb
@@ -103,7 +103,7 @@ The  **_FileName_** argument can include only the file name or the complete path
 
 ## Closing documents
 
-To close a single document, use the  **[Close](document-close-method-word.md)** method with a **Document** object. The following instruction closes and saves the document named Sales.doc.
+To close a single document, use the  **[Close](../../../api/Word.Document.Close(method).md)** method with a **Document** object. The following instruction closes and saves the document named Sales.doc.
 
 
 ```vb
@@ -112,7 +112,7 @@ Sub CloseDocument()
 End Sub
 ```
 
-You can close all open documents by applying the  **[Close](documents-close-method-word.md)** method of the **Documents** collection. The following instruction closes all documents without saving changes.
+You can close all open documents by applying the  **[Close](../../../api/Word.Documents.Close.md)** method of the **Documents** collection. The following instruction closes all documents without saving changes.
 
 
 
@@ -140,7 +140,7 @@ End Sub
 
 ## Activating a document
 
-To change the active document, use the  **[Activate](document-activate-method-word.md)** method with a **Document** object. The following instruction activates the open document named Sales.doc.
+To change the active document, use the  **[Activate](../../../api/Word.Document.Activate.md)** method with a **Document** object. The following instruction activates the open document named Sales.doc.
 
 
 ```vb
@@ -177,7 +177,7 @@ End Sub
 
 ## Referring to the active document
 
-Instead of referring to a document by name or by index number—for example,  `Documents("Sales.doc")` —the **[ActiveDocument](application-activedocument-property-word.md)** property returns a **Document** object that refers to the active document (the document with the focus). The following example displays the name of the active document, or if there are no documents open, it displays a message.
+Instead of referring to a document by name or by index number—for example,  `Documents("Sales.doc")` —the **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** property returns a **Document** object that refers to the active document (the document with the focus). The following example displays the name of the active document, or if there are no documents open, it displays a message.
 
 
 ```vb

@@ -15,6 +15,6 @@ ms.date: 06/08/2017
 3. Click  **Move Up** or **Move Down**.
     
 
- **Note**  You can also set the tab order by changing the  [TabIndex](tabstrip-taborientation-property-outlook-forms-script.md) property. The tab index of the first control in the tab order is **0**; the tab index of the second control is  **1**, and so on.
+ **Note**  You can also set the tab order by changing the  [TabIndex](../../../api/Outlook.tabstrip.taborientation.md) property. The tab index of the first control in the tab order is **0**; the tab index of the second control is  **1**, and so on.
 
 

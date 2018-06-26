@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Allow Multiple Selections in a List Box
 
-The following example uses the  **[MultiSelect](listbox-multiselect-property-outlook-forms-script.md)** and **[Selected](listbox-selected-property-outlook-forms-script.md)** properties to demonstrate how the user can select one or more items in a **[ListBox](listbox-object-outlook-forms-script.md)**. The user specifies a selection method by choosing an option button and then selects an item(s) from the  **ListBox**. The user can display the selected items in a second  **ListBox** by clicking the **[CommandButton](commandbutton-object-outlook-forms-script.md)**.
+The following example uses the  **[MultiSelect](../../../api/Outlook.listbox.multiselect.md)** and **[Selected](../../../api/Outlook.listbox.selected.md)** properties to demonstrate how the user can select one or more items in a **[ListBox](../../../api/Outlook.listbox.md)**. The user specifies a selection method by choosing an option button and then selects an item(s) from the  **ListBox**. The user can display the selected items in a second  **ListBox** by clicking the **[CommandButton](../../../api/Outlook.commandbutton.md)**.
 
 To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
 
@@ -19,7 +19,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
     
 - A  **CommandButton** named CommandButton1.
     
-- Three  **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls named OptionButton1 through OptionButton3.
+- Three  **[OptionButton](../../../api/Outlook.optionbutton.md)** controls named OptionButton1 through OptionButton3.
     
 
 
