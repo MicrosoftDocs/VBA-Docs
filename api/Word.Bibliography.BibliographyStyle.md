@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the name of the active style to us
 
 ## Remarks
 
-For more information, see [Working with Bibliographies](http://msdn.microsoft.com/library/ce05a0bd-bacd-16e1-0ab0-793a47a15da5%28Office.15%29.aspx).
+For more information, see [Working with Bibliographies](../word/Concepts/Working-with-Word/working-with-bibliographies.md).
 
 
 ## See also

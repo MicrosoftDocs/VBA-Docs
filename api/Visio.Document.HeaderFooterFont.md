@@ -35,7 +35,7 @@ COM provides a standard implementation of a font object with the  **IFontDisp** 
 To get information about the  **StdFont** object that supports the **IFontDisp** interface:
 
 
-1. In the  **Code** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab, click **Visual Basic**.
+1. In the  **Code** group on the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab, click **Visual Basic**.
     
 2. On the  **View** menu, click **Object Browser**.
     

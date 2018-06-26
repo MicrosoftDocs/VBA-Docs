@@ -29,7 +29,7 @@ Inserts the specified SmartArt graphic into the active document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Layout_|Required| **[SMARTARTLAYOUT]**|A [SmartArtLayout](http://msdn.microsoft.com/library/f8d9db83-86f7-4830-096d-5d15368ab6b1%28Office.15%29.aspx) object that specifies the layout for the SmartArt graphic.|
+| _Layout_|Required| **[SMARTARTLAYOUT]**|A [SmartArtLayout](./Office.SmartArtLayout.md) object that specifies the layout for the SmartArt graphic.|
 | _Left_|Optional| **Variant**|The distance, in points, from the left edge of the slide to the left edge of the SmartArt graphic.|
 | _Top_|Optional| **Variant**|The distance, in points, from the top edge of the slide to the top edge of the SmartArt graphic.|
 | _Width_|Optional| **Variant**|The width of the SmartArt graphic.|

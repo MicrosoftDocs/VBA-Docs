@@ -29,7 +29,7 @@ Sets the property specified by  _SchemaName_ to the value specified by _Value_ .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SchemaName_|Required| **String**|The name of a property whose value is to be set as specified by the  _Value_ parameter. The property is referenced by namespace. For more information, see[Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).|
+| _SchemaName_|Required| **String**|The name of a property whose value is to be set as specified by the  _Value_ parameter. The property is referenced by namespace. For more information, see[Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 | _Value_|Required| **Variant**|The value that is to be set for the property specified by the  _SchemaName_ parameter.|
 
 ## Remarks
@@ -59,7 +59,7 @@ Use caution and ensure that all exceptions are handled correctly. Conditions whe
     
 
 
-For more information on setting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on setting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](../outlook/How-to/Navigation/best-practices-for-getting-and-setting-properties.md).
 
 
 ## Example

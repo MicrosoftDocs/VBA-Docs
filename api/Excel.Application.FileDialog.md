@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileDialog Property (Excel)
 
-Returns a  **[FileDialog](http://msdn.microsoft.com/library/71a030f2-3b02-21e1-c156-0514ff5eddb7%28Office.15%29.aspx)** object representing an instance of the file dialog.
+Returns a  **[FileDialog](./Office.FileDialog.md)** object representing an instance of the file dialog.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[FileDialog](http://msdn.microsoft.com/library/71a030f2-3b02-21e1-c
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _fileDialogType_|Required| **[MsoFileDialogType](http://msdn.microsoft.com/library/ee445a67-1193-f446-4bd2-963c07fba5ae%28Office.15%29.aspx)**|The type of file dialog.|
+| _fileDialogType_|Required| **[MsoFileDialogType](./Office.MsoFileDialogType.md)**|The type of file dialog.|
 
 ## Remarks
 

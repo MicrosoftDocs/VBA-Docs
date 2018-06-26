@@ -29,7 +29,7 @@ Creates a new SmartArt graphic with the specified layout.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Layout_|Required| **[SmartArtLayout](http://msdn.microsoft.com/library/f8d9db83-86f7-4830-096d-5d15368ab6b1%28Office.15%29.aspx)**|An object that represents the layout to use.|
+| _Layout_|Required| **[SmartArtLayout](./Office.SmartArtLayout.md)**|An object that represents the layout to use.|
 | _Left_|Optional| **Variant**|The distance, in points, from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).|
 | _Top_|Optional| **Variant**|The distance, in points, from the top edge of the object to the top edge of the worksheet.|
 | _Width_|Optional| **Variant**|The width, in points, of the object.|

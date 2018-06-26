@@ -35,6 +35,6 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 #### Other resources
 
 
-[Item Types and Message Classes](http://msdn.microsoft.com/library/15b709cc-7486-b6c7-88a3-4a4d8e0ab292%28Office.15%29.aspx)
+[Item Types and Message Classes](../outlook/Concepts/Forms/item-types-and-message-classes.md)
 
 

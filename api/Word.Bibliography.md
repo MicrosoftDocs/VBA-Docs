@@ -18,12 +18,12 @@ Represents the list of sources available attached to the document (in the curren
 
 ## Remarks
 
-Biblographies are composed of sources. Also see the  **[Source](Word.Source.md)** object and the **[Sources](Word.Sources.md)** collection. For more information, see[Working with Bibliographies](http://msdn.microsoft.com/library/ce05a0bd-bacd-16e1-0ab0-793a47a15da5%28Office.15%29.aspx).
+Biblographies are composed of sources. Also see the  **[Source](Word.Source.md)** object and the **[Sources](Word.Sources.md)** collection. For more information, see[Working with Bibliographies](../word/Concepts/Working-with-Word/working-with-bibliographies.md).
 
 
 ## See also
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
 
 

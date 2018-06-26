@@ -59,7 +59,7 @@ Possible values for  _StringOrNumber_ include:
 
 When  _UnitsIn_ is **visDate** , you can pass a numeric value to the DATETIME function in _StringOrNumber_. The integer portion of the value you pass should represent the number of days since December 30, 1899, and the decimal portion should represent the fraction of a day since midnight. For example, 38135.50 represents noon on May 28th, 2004.
 
-The  _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in **[VisUnitCodes](Visio.visunitcodes.md)** . A list of valid units is also included in[About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
+The  _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in **[VisUnitCodes](Visio.visunitcodes.md)** . A list of valid units is also included in[About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 If  _StringOrNumber_ is a string, _UnitsIn_ specifies how to interpret the evaluated result and is only used if the result is a scalar. For example, the expression " _4 * 5 cm_ " evaluates to 20 cm, which is not a scalar, so _UnitsIn_ is ignored. The expression " _4 * 5_ " evaluates to 20, which is a scalar and is interpreted using the specified _UnitsIn_.
 

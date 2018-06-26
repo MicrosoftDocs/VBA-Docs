@@ -25,7 +25,7 @@ Returns a  **ListTemplates** collection that represents all the list formats for
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx). The ListTemplates property is a member of the [Document](Word.Document.md), [ListGallery](Word.ListGallery.md), and [Template](template-object-word.md) objects.
+For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md). The ListTemplates property is a member of the [Document](Word.Document.md), [ListGallery](Word.ListGallery.md), and [Template](template-object-word.md) objects.
 
 
 ## Example

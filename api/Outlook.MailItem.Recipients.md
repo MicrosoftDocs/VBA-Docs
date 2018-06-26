@@ -63,5 +63,5 @@ End Sub
 
 [How to: Send an E-mail Given the SMTP Address of an Account](http://msdn.microsoft.com/library/97406049-f63a-0c1d-9b3f-57bf48afc4be%28Office.15%29.aspx)
 
-[How to: Send an E-mail Given the SMTP Address of an Account](http://msdn.microsoft.com/library/5e5f707d-8771-bd5f-945b-58537732d99a%28Office.15%29.aspx)
+[How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 

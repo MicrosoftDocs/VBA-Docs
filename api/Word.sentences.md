@@ -68,4 +68,4 @@ ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 ## See also
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Word Object Model Reference](./overview/object-model-word-vba-reference.md)

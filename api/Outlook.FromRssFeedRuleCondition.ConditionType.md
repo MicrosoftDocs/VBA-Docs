@@ -25,7 +25,7 @@ Returns a constant,  **olConditionFromRssFeed** , from the **[OlRuleConditionTyp
 
 ## Remarks
 
-This rule condition is supported by rules for receiving messages. For more information, see [Specifying Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
+This rule condition is supported by rules for receiving messages. For more information, see [Specifying Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## See also

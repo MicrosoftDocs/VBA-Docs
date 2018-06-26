@@ -126,7 +126,7 @@ Another example is a DASL filter string that filters for the  **Subject** proper
 filter = "@SQL=""http://schemas.microsoft.com/mapi/proptag/0x0037001f"" = 'the right ""stuff""'"
 ```
 
-A different set of escaping rules apply to a property reference for named properties that contain the space, single quote, double quote, or percent character. For more information, see [Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).
+A different set of escaping rules apply to a property reference for named properties that contain the space, single quote, double quote, or percent character. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).
 
 
 ### Date

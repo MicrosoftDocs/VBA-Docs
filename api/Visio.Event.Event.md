@@ -34,7 +34,7 @@ If the action code of the  **Event** object is **visActCodeRunAddon** , the even
 
 If the action code of the  **Event** object is **visActCodeAdvise** , the event also specifies the object to receive event notifications (sometimes called the sink object) and arguments to send to the sink object along with the notification.
 
-Event codes are declared by the Microsoft Visio type library in  **[VisEventCodes](Visio.viseventcodes.md)** . They are prefixed with " **visEvt** ". For a list of event codes, see[Event Codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
+Event codes are declared by the Microsoft Visio type library in  **[VisEventCodes](Visio.viseventcodes.md)** . They are prefixed with " **visEvt** ". For a list of event codes, see[Event Codes](../visio/Concepts/event-codesvisio.md).
 
 A program can use the  **Trigger** method to cause an **Event** object's action to be performed without waiting for the event to occur.
 

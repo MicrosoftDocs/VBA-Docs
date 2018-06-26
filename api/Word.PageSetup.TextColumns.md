@@ -27,7 +27,7 @@ Returns a  **[TextColumns](Word(textcolumns).md)** collection that represents th
 
 There will always be at least one text column in the collection. When you create new text columns, you are adding to a collection of one column.
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

@@ -30,7 +30,7 @@ MsoCalloutDropType
 
 ## Remarks
 
-The  **DropType** property value can be one of the ** [MsoCalloutDropType](http://msdn.microsoft.com/library/0923e0a7-beb6-224f-6a87-85111f58ae3b%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **DropType** property value can be one of the ** [MsoCalloutDropType](./Office.MsoCalloutDropType.md)** constants declared in the Microsoft Office type library.
 
 If the callout drop type is  **msoCalloutDropCustom**, the values of the  **[Drop](Publisher.CalloutFormat.Drop.md)** and  **[AutoAttach](Publisher.CalloutFormat.AutoAttach.md)** properties and the relative positions of the callout text box and callout line origin (where the callout points) are used to determine where the callout line attaches to the text box.
 

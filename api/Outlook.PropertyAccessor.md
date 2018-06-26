@@ -18,16 +18,16 @@ Provides the ability to create, get, set, and delete properties on objects.
 
 ## Remarks
 
-Use the  **PropertyAccessor** object to get and set item-level properties that are not explicitly exposed in the Outlook object model, or properties for the following non-item objects: **[AddressEntry](Outlook.AddressEntry.md)**, **[AddressList](Outlook.AddressList.md)**, **[Attachment](http://msdn.microsoft.com/library/3e11582b-ac90-0948-bc37-506570bb287b%28Office.15%29.aspx)**, **[ExchangeDistributionList](http://msdn.microsoft.com/library/2830dfba-6c0a-a81f-6b98-92ac2aafb59d%28Office.15%29.aspx)**, **[ExchangeUser](Outlook.ExchangeUser.md)**, **[Folder](Outlook.Folder.md)**, **[Recipient](Outlook.Recipient.md)**, and **[Store](Outlook.Store.md)**.
+Use the  **PropertyAccessor** object to get and set item-level properties that are not explicitly exposed in the Outlook object model, or properties for the following non-item objects: **[AddressEntry](Outlook.AddressEntry.md)**, **[AddressList](Outlook.AddressList.md)**, **[Attachment](./Outlook.Attachment.md)**, **[ExchangeDistributionList](./Outlook.ExchangeDistributionList.md)**, **[ExchangeUser](Outlook.ExchangeUser.md)**, **[Folder](Outlook.Folder.md)**, **[Recipient](Outlook.Recipient.md)**, and **[Store](Outlook.Store.md)**.
 
 To get or set multiple custom properties, use the  **PropertyAccessor** object instead of the **[UserProperties](Outlook.UserProperties.md)** object for better performance.
 
-For more information on using the  **PropertyAccessor** object, see[Properties Overview](http://msdn.microsoft.com/library/242c9e89-a0c5-ff89-0d2a-410bd42a3461%28Office.15%29.aspx).
+For more information on using the  **PropertyAccessor** object, see[Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
 
 
 ## Example
 
-The following code sample demonstrates how to use the  **[PropertyAccessor.GetProperty](http://msdn.microsoft.com/library/a5f3493b-f302-c7b6-f442-23a7605be1c1%28Office.15%29.aspx)** method to read a MAPI property that belongs to a **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)** but that is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS**.
+The following code sample demonstrates how to use the  **[PropertyAccessor.GetProperty](./Outlook.PropertyAccessor.GetProperty.md)** method to read a MAPI property that belongs to a **[MailItem](./Outlook.MailItem.md)** but that is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS**.
 
 
 ```vb
@@ -62,7 +62,7 @@ Sub DemoPropertyAccessorGetProperty()
 End Sub
 ```
 
-The next code sample demonstrates how the  **[PropertyAccessor.SetProperties](http://msdn.microsoft.com/library/bf7c86da-5146-9567-5b7e-3e5e63ee5587%28Office.15%29.aspx)** method sets the values of multiple properties. If a property does not exist, then **SetProperties** will create the property as long as the parent object supports the creation of those properties. If the object supports an explicit **Save** operation, then the properties are saved to the object when the explicit **Save** operation is called. If the object does not support an explicit **Save** operation, then the properties are saved to the object when **SetProperties** is called.
+The next code sample demonstrates how the  **[PropertyAccessor.SetProperties](./Outlook.PropertyAccessor.SetProperties.md)** method sets the values of multiple properties. If a property does not exist, then **SetProperties** will create the property as long as the parent object supports the creation of those properties. If the object supports an explicit **Save** operation, then the properties are saved to the object when the explicit **Save** operation is called. If the object does not support an explicit **Save** operation, then the properties are saved to the object when **SetProperties** is called.
 
 
 
@@ -158,16 +158,16 @@ End Sub
 
 |**Name**|
 |:-----|
-|[BinaryToString](http://msdn.microsoft.com/library/4a3801af-0a7c-4b8a-7367-600c09047b28%28Office.15%29.aspx)|
-|[DeleteProperties](http://msdn.microsoft.com/library/e9c11799-cb75-fd8c-0c98-aca46796bb46%28Office.15%29.aspx)|
-|[DeleteProperty](http://msdn.microsoft.com/library/9acb52b5-13a7-7363-7e17-83804037f33b%28Office.15%29.aspx)|
-|[GetProperties](http://msdn.microsoft.com/library/f1ba3c52-428a-9e9f-5b81-b68c5f27aa0f%28Office.15%29.aspx)|
-|[GetProperty](http://msdn.microsoft.com/library/a5f3493b-f302-c7b6-f442-23a7605be1c1%28Office.15%29.aspx)|
-|[LocalTimeToUTC](http://msdn.microsoft.com/library/c19f60b2-441f-77b3-eb83-9cfd899e3a52%28Office.15%29.aspx)|
-|[SetProperties](http://msdn.microsoft.com/library/bf7c86da-5146-9567-5b7e-3e5e63ee5587%28Office.15%29.aspx)|
-|[SetProperty](http://msdn.microsoft.com/library/2a97c11d-3f5f-65fe-23d6-8efa40dca303%28Office.15%29.aspx)|
-|[StringToBinary](http://msdn.microsoft.com/library/1ea95601-a21f-47d2-7a3c-166c4984fc25%28Office.15%29.aspx)|
-|[UTCToLocalTime](http://msdn.microsoft.com/library/a56311ac-60ac-4f51-5255-d6840bf6004d%28Office.15%29.aspx)|
+|[BinaryToString](./Outlook.PropertyAccessor.BinaryToString.md)|
+|[DeleteProperties](./Outlook.PropertyAccessor.DeleteProperties.md)|
+|[DeleteProperty](./Outlook.PropertyAccessor.DeleteProperty.md)|
+|[GetProperties](./Outlook.PropertyAccessor.GetProperties.md)|
+|[GetProperty](./Outlook.PropertyAccessor.GetProperty.md)|
+|[LocalTimeToUTC](./Outlook.PropertyAccessor.LocalTimeToUTC.md)|
+|[SetProperties](./Outlook.PropertyAccessor.SetProperties.md)|
+|[SetProperty](./Outlook.PropertyAccessor.SetProperty.md)|
+|[StringToBinary](./Outlook.PropertyAccessor.StringToBinary.md)|
+|[UTCToLocalTime](./Outlook.PropertyAccessor.UTCToLocalTime.md)|
 
 ## Properties
 
@@ -175,13 +175,13 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/51df74aa-6120-519b-3b68-e86e11222264%28Office.15%29.aspx)|
-|[Class](http://msdn.microsoft.com/library/ef4c4ec9-8e80-34de-7699-be1defe52d7c%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/764b07a0-2bfa-1457-b587-bc2559ff72a1%28Office.15%29.aspx)|
-|[Session](http://msdn.microsoft.com/library/db33aa4e-ad96-2db8-de9d-7aa9dd1a137f%28Office.15%29.aspx)|
+|[Application](./Outlook.PropertyAccessor.Application.md)|
+|[Class](./Outlook.PropertyAccessor.Class.md)|
+|[Parent](./Outlook.PropertyAccessor.Parent.md)|
+|[Session](./Outlook.PropertyAccessor.Session.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
 [PropertyAccessor Object Members](http://msdn.microsoft.com/library/3356e345-8878-0ed7-6783-1e49ddecc066%28Office.15%29.aspx)

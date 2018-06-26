@@ -63,5 +63,5 @@ Next
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
-[PickerResults Object Members](http://msdn.microsoft.com/library/6b6ec287-4d88-cc7d-7cfa-f641b1481bbe%28Office.15%29.aspx)
+[Object Model Reference](./overview/reference-object-library-reference-for-office.md)
+[PickerResults Object Members](./overview/pickerresults-members-office.md)

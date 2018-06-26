@@ -24,5 +24,5 @@ The default event of a  **CheckBox** is the Click event.
  **Note**  The  **ListBox** also lets you put a check mark by selected options. Depending on your application, you can use the **ListBox** instead of using a group of **CheckBox** controls.
 
  **Related Topics**
-[CheckBox Object](http://msdn.microsoft.com/library/03879b09-fe1a-492d-9594-78a82776ecee%28Office.15%29.aspx)
+[CheckBox Object](../../../api/Outlook.checkbox.object.md)
 

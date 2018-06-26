@@ -30,7 +30,7 @@ Returns or sets the fill color for negative data points in a series. Read/write
 
 ## Remarks
 
-The  **InvertColor** property enables you to set the fill color for negative data points as a specific numeric, hexadecimal, octal, or RGB color value. To set the value as an RBG value, use the Visual Basic **[RGB](http://msdn.microsoft.com/library/5e9956de-ba18-56cd-0556-715774055cf4%28Office.15%29.aspx)** function. Instead of using the **InvertColor** property, you can use the **[InvertColorIndex](Excel.Series.InvertColorIndex.md)** property, which uses a simplier set of integer values from the current color palette.
+The  **InvertColor** property enables you to set the fill color for negative data points as a specific numeric, hexadecimal, octal, or RGB color value. To set the value as an RBG value, use the Visual Basic **[RGB](../Language-Reference/Language-Reference/User-Interface-Help/rgb-function.md)** function. Instead of using the **InvertColor** property, you can use the **[InvertColorIndex](Excel.Series.InvertColorIndex.md)** property, which uses a simplier set of integer values from the current color palette.
 
 For the  **InvertColor** property to have an effect, the **[InvertIfNegative](Excel.Series.InvertIfNegative.md)** property of the **Series** object must also be set to **True** .
 

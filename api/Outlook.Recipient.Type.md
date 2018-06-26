@@ -105,5 +105,5 @@ End Sub
 
 
 
-[Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx)
+[Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md)
 

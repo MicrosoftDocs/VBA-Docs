@@ -29,7 +29,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DropType_|Required| **[MsoCalloutDropType](http://msdn.microsoft.com/library/0923e0a7-beb6-224f-6a87-85111f58ae3b%28Office.15%29.aspx)**|The starting position of the callout line relative to the text bounding box.|
+| _DropType_|Required| **[MsoCalloutDropType](./Office.MsoCalloutDropType.md)**|The starting position of the callout line relative to the text bounding box.|
 
 ## Example
 

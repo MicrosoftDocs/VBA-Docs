@@ -20,7 +20,7 @@ Contains a set of  **[Attachment](Outlook.Attachment.md)** objects that represen
 
 The  **AttachmentSelection** object contains a read-only collection of attachments that are selected in an item that is in the active inspector or the active explorer.
 
-To customize the attachment shortcut menu by using Microsoft Office Fluent ribbon extensibility, use the  **[Context](http://msdn.microsoft.com/library/39f9d85a-00e9-9682-3957-51d9e72b4d83%28Office.15%29.aspx)** property of the **[IRibbonControl](http://msdn.microsoft.com/library/63aef709-e1d3-b1a6-76af-b568ad0e69ae%28Office.15%29.aspx)** to obtain an **AttachmentSelection** object.
+To customize the attachment shortcut menu by using Microsoft Office Fluent ribbon extensibility, use the  **[Context](./Office.IRibbonControl.Context.md)** property of the **[IRibbonControl](./Office.IRibbonControl.md)** to obtain an **AttachmentSelection** object.
 
 
 ## Methods
@@ -48,4 +48,4 @@ To customize the attachment shortcut menu by using Microsoft Office Fluent ribbo
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

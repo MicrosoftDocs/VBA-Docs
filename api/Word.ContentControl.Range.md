@@ -25,7 +25,7 @@ Returns a  **[Range](Word.Range.md)** that represents the contents of the conten
 
 ## Remarks
 
-Use the  **Range** property to access the text, the formatting for the text, and other text properties. For more information, see[Working with Range Objects](http://msdn.microsoft.com/library/9e240aa7-8608-9d70-aee3-2e202687459e%28Office.15%29.aspx).
+Use the  **Range** property to access the text, the formatting for the text, and other text properties. For more information, see[Working with Range Objects](../word/Concepts/Working-with-Word/working-with-range-objects.md).
 
 
 ## Example

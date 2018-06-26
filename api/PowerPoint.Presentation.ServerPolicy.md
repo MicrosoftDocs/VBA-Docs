@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.ServerPolicy Property (PowerPoint)
 
-Returns a Microsoft Office  **[ServerPolicy](http://msdn.microsoft.com/library/ce2a63d2-5deb-b94b-45d7-ed84e9be7deb%28Office.15%29.aspx)** object. Read-only.
+Returns a Microsoft Office  **[ServerPolicy](./Office.ServerPolicy.md)** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.HasChart Property (Excel)
 
- Returns whether a shape range contains a chart. Read-only **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
+ Returns whether a shape range contains a chart. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
 
 
 ## Syntax

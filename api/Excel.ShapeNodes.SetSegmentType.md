@@ -30,7 +30,7 @@ Sets the segment type of the segment that follows the node specified by  _Index_
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The node whose segment type is to be set.|
-| _SegmentType_|Required| **[MsoSegmentType](http://msdn.microsoft.com/library/1a015227-8090-52a7-24f9-71d7e34fd05d%28Office.15%29.aspx)**|Specifies if the segment is straight or curved.|
+| _SegmentType_|Required| **[MsoSegmentType](./Office.MsoSegmentType.md)**|Specifies if the segment is straight or curved.|
 
 ## Example
 

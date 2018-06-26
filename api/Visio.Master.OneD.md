@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-Setting the  **OneD** property is equivalent to changing a shape's interaction style in the **Behavior** dialog box (click **Behavior** in the **Shape Design** group of the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab). Setting the **OneD** property for a 1-D shape to **False** deletes its 1-D Endpoints section, even if the cells in that section were protected with the GUARD function.
+Setting the  **OneD** property is equivalent to changing a shape's interaction style in the **Behavior** dialog box (click **Behavior** in the **Shape Design** group of the[Developer](../visio/How-to/run-visio-in-developer-mode.md) tab). Setting the **OneD** property for a 1-D shape to **False** deletes its 1-D Endpoints section, even if the cells in that section were protected with the GUARD function.
 
 You can get, but not set, the  **OneD** property of a **Master** object.
 

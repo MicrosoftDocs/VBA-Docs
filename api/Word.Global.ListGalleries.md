@@ -25,7 +25,7 @@ Returns a  **ListGalleries** collection that represents the three list template 
 
 ## Remarks
 
-Each gallery corresponds to a tab in the  **Bullets and Numbering** dialog box. For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+Each gallery corresponds to a tab in the  **Bullets and Numbering** dialog box. For information about returning a single member of a collection, see[Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

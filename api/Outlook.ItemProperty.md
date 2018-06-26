@@ -63,17 +63,17 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/4aff7ec9-14df-2ff3-7fd4-a8ab1ddac4ca%28Office.15%29.aspx)|
-|[Class](http://msdn.microsoft.com/library/ceb37756-d7e4-fd27-372b-996669b8afa9%28Office.15%29.aspx)|
-|[IsUserProperty](http://msdn.microsoft.com/library/6787380b-fe85-22d9-b95b-2b356bf84a21%28Office.15%29.aspx)|
-|[Name](http://msdn.microsoft.com/library/f436386d-aa03-ab38-8ae1-1df0087f7495%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/7be24e63-3e5f-4ed9-a668-380077351636%28Office.15%29.aspx)|
-|[Session](http://msdn.microsoft.com/library/f33cfcd0-f86b-d0cd-7d35-a21644bc5c42%28Office.15%29.aspx)|
-|[Type](http://msdn.microsoft.com/library/12129828-ad07-08b9-9b32-d8b19aba7b6e%28Office.15%29.aspx)|
-|[Value](http://msdn.microsoft.com/library/81144bd5-15d5-a233-6001-f8c80392850f%28Office.15%29.aspx)|
+|[Application](./Outlook.ItemProperty.Application.md)|
+|[Class](./Outlook.ItemProperty.Class.md)|
+|[IsUserProperty](./Outlook.ItemProperty.IsUserProperty.md)|
+|[Name](./Outlook.ItemProperty.Name.md)|
+|[Parent](./Outlook.ItemProperty.Parent.md)|
+|[Session](./Outlook.ItemProperty.Session.md)|
+|[Type](./Outlook.ItemProperty.Type.md)|
+|[Value](./Outlook.ItemProperty.Value.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
 [ItemProperty Object Members](http://msdn.microsoft.com/library/0de85516-c8e3-b985-0b7f-3098a0da7f2c%28Office.15%29.aspx)

@@ -38,7 +38,7 @@ MsgBox HoursPerDay
 
  **Using the TimeScaleValues Collection**
 
-Use the  **[TimeScaleData](http://msdn.microsoft.com/library/51649bc3-8224-15cd-dc9b-af37a1cc4d8b%28Office.15%29.aspx)** method to return a **TimeScaleValues** collection. The following example returns a **TimeScaleValues** collection for the amount of work done by the resource in the active cell between the specified dates, split into week-long portions.
+Use the  **[TimeScaleData](./Project.Resource.TimeScaleData.md)** method to return a **TimeScaleValues** collection. The following example returns a **TimeScaleValues** collection for the amount of work done by the resource in the active cell between the specified dates, split into week-long portions.
 
 
 
@@ -47,7 +47,7 @@ Use the  **[TimeScaleData](http://msdn.microsoft.com/library/51649bc3-8224-15cd-
 ActiveCell.Resource.TimeScaleData("10/1/2012", "10/31/2012")
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/083ef154-31ce-55ec-793a-0627c1eff211%28Office.15%29.aspx)** method to add a **TimeScaleValue** object to the **TimeScaleValues** collection. The following example adds 8 hours of work to Tuesday of that week.
+Use the  **[Add](./Project.TimeScaleValues.Add.md)** method to add a **TimeScaleValue** object to the **TimeScaleValues** collection. The following example adds 8 hours of work to Tuesday of that week.
 
 
 
@@ -66,8 +66,8 @@ TSV.Add 480, 2
 
 |**Name**|
 |:-----|
-|[Clear](http://msdn.microsoft.com/library/3ed3a584-5496-cdf4-eafa-e0ecdd01edfd%28Office.15%29.aspx)|
-|[Delete](http://msdn.microsoft.com/library/ebe03270-1713-77f9-1ac9-97922b2aa612%28Office.15%29.aspx)|
+|[Clear](./Project.TimeScaleValue.Clear.md)|
+|[Delete](./Project.TimeScaleValue.Delete.md)|
 
 ## Properties
 
@@ -75,10 +75,10 @@ TSV.Add 480, 2
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/feab3c92-a313-9ff0-4549-69465f6a3e6f%28Office.15%29.aspx)|
-|[EndDate](http://msdn.microsoft.com/library/e9acd4f8-b002-5195-2e0c-505b633a3b54%28Office.15%29.aspx)|
-|[Index](http://msdn.microsoft.com/library/ebb523d2-cf85-180c-6808-ea83c8d8a5ba%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/69b3a11e-609a-5d10-a76c-5e524e75c453%28Office.15%29.aspx)|
-|[StartDate](http://msdn.microsoft.com/library/fdd70c48-7f07-f4dc-db93-ad46fb30a2bb%28Office.15%29.aspx)|
-|[Value](http://msdn.microsoft.com/library/30665b24-bc19-a6a2-cb1b-a70c3736b05b%28Office.15%29.aspx)|
+|[Application](./Project.TimeScaleValue.Application.md)|
+|[EndDate](./Project.TimeScaleValue.EndDate.md)|
+|[Index](./Project.TimeScaleValue.Index.md)|
+|[Parent](./Project.TimeScaleValue.Parent.md)|
+|[StartDate](./Project.TimeScaleValue.StartDate.md)|
+|[Value](./Project.TimeScaleValue.Value.md)|
 

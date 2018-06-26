@@ -25,7 +25,7 @@ Indicates whether the media controls are visible. Read-only.
 
 ### Return Value
 
- **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**
+ **[MsoTriState](./Office.MsoTriState.md)**
 
 
 ## See also

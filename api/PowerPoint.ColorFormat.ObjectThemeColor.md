@@ -30,7 +30,7 @@ MsoThemeColorIndex
 
 ## Remarks
 
-The value of the  **ObjectThemeColor** property can be one of these **[MsoThemeColorIndex](http://msdn.microsoft.com/library/2281eafa-c8f0-d620-d0eb-c301dfb6a426%28Office.15%29.aspx)** constants.
+The value of the  **ObjectThemeColor** property can be one of these **[MsoThemeColorIndex](./Office.MsoThemeColorIndex.md)** constants.
 
 
 ## Example

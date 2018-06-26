@@ -25,7 +25,7 @@ Returns a  **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection
 
 ## Remarks
 
-This list corresponds to the list of AutoCorrect exceptions on the  **First Letter** tab in the **AutoCorrect Exceptions** dialog box. For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+This list corresponds to the list of AutoCorrect exceptions on the  **First Letter** tab in the **AutoCorrect Exceptions** dialog box. For information about returning a single member of a collection, see[Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 
 
 ## Example

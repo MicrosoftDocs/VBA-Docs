@@ -44,6 +44,6 @@ The  **TopMargin** property corresponds to the **Top** setting in the **Print Se
 
 Units can be an integer or string value such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in  **[VisUnitCodes](Visio.visunitcodes.md)** .
 
-For a list of valid integer and string values, see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
+For a list of valid integer and string values, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 

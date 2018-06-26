@@ -38,7 +38,7 @@ A  **Date** value that represents _Value_ after being converted from local time 
 
 ## Remarks
 
-For more information on type conversion when using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on type conversion when using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](../outlook/How-to/Navigation/best-practices-for-getting-and-setting-properties.md).
 
 
 ## See also

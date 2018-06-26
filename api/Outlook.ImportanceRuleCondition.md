@@ -20,7 +20,7 @@ Represents a rule condition that evaluates the importance of a message.
 
  **ImportanceRuleCondition** is derived from the **[RuleCondition](Outlook.RuleCondition.md)** object. Each rule is associated with a **[RuleConditions](Outlook.RuleConditions.md)** object which has an **[Importance](Outlook.RuleConditions.Importance.md)** property. The **Importance** property always returns a **ImportanceRuleCondition** object. If the rule has any of these rule conditions enabled, then **[ImportanceRuleCondition.Enabled](Outlook.ImportanceRuleCondition.Enabled.md)** would be **True**.
 
-For more information on specifying rule actions, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
+For more information on specifying rule actions, see [Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## Properties
@@ -40,4 +40,4 @@ For more information on specifying rule actions, see [Specify Rule Conditions](h
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

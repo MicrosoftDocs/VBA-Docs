@@ -29,7 +29,7 @@ Sets the specified fill to a pattern.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Pattern_|Required| **[MsoPatternType](http://msdn.microsoft.com/library/b95a7e43-329f-b93b-3664-04d8f570c747%28Office.15%29.aspx)**|The type of pattern.|
+| _Pattern_|Required| **[MsoPatternType](./Office.MsoPatternType.md)**|The type of pattern.|
 
 ## See also
 

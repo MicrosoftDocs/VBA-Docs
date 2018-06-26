@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CustomDocumentProperties Property (Excel)
 
-Returns or sets a  **[DocumentProperties](http://msdn.microsoft.com/library/90d42786-7d9a-b604-dbdf-88db41cbe69b%28Office.15%29.aspx)** collection that represents all the custom document properties for the specified workbook.
+Returns or sets a  **[DocumentProperties](./Office.DocumentProperties.md)** collection that represents all the custom document properties for the specified workbook.
 
 
 ## Syntax

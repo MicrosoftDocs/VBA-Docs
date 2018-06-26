@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.BinsOverflowEnabled Property (Word)
 
-Specifies whether a bin for values above the [BinsOverflowValue](http://msdn.microsoft.com/library/411856a7-ac17-e9eb-35bd-c851c0cfdfdc%28Office.15%29.aspx) is enabled. Read/write **Boolean**.
+Specifies whether a bin for values above the [BinsOverflowValue](./Excel.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.
 
 
 ## Syntax

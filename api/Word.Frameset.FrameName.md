@@ -25,7 +25,7 @@ Returns or sets the name of the specified frame on a frames page. Read/write  **
 
 ## Remarks
 
-For more information on creating frames pages, see [Creating Frames Pages](http://msdn.microsoft.com/library/0245564e-b2df-83cd-1e32-e63079970dc1%28Office.15%29.aspx).
+For more information on creating frames pages, see [Creating Frames Pages](../word/Concepts/Customizing-Word/creating-frames-pages.md).
 
 
 ## Example

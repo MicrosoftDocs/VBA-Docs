@@ -25,7 +25,7 @@ Returns a constant,  **olConditionSenderInAddressBook** , from the **[OlRuleCond
 
 ## Remarks
 
-The rule condition that the sender must be in the address list is supported only by rules for receiving messages. For more information, see [Specify Rule Conditions](http://msdn.microsoft.com/library/812c131a-fe23-1b8b-5e2d-9459d7102630%28Office.15%29.aspx).
+The rule condition that the sender must be in the address list is supported only by rules for receiving messages. For more information, see [Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## See also

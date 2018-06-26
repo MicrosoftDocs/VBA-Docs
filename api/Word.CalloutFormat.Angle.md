@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Angle Property (Word)
 
-Returns or sets the angle of the callout line. Read/write  **[MsoCalloutAngleType](http://msdn.microsoft.com/library/f4535cc0-9c8c-6579-67d5-532650dec2ef%28Office.15%29.aspx)** .
+Returns or sets the angle of the callout line. Read/write  **[MsoCalloutAngleType](./Office.MsoCalloutAngleType.md)** .
 
 
 ## Syntax

@@ -26,7 +26,7 @@ ActiveProject.Subprojects("Arcadia Bay Online Catalog Plan").LinkToSource = Fals
 
  **Getting the Subprojects Collection object**
 
-Use the  **[Subprojects](http://msdn.microsoft.com/library/e4b143fb-3da7-69bd-6535-5604c2cc2dc0%28Office.15%29.aspx)** property to return a **Subprojects** collection. The following example cautions the user if any of the subprojects in the active project are not on the hard disk.
+Use the  **[Subprojects](./Project.Project.Subprojects.md)** property to return a **Subprojects** collection. The following example cautions the user if any of the subprojects in the active project are not on the hard disk.
 
 
 
@@ -56,12 +56,12 @@ Next SubProj
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/ba8620ec-6380-94f0-a47d-faba9ba04fb4%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/ddbbcd5b-3885-fae9-14ef-4854d9d3874f%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/5044cc36-2e53-d424-c037-dbebe30d821a%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/86af8044-cc92-fbf3-d98c-1d3b6ba7ca2a%28Office.15%29.aspx)|
+|[Application](./Project.Subprojects.Application.md)|
+|[Count](./Project.Subprojects.Count.md)|
+|[Item](./Project.Subprojects.Item.md)|
+|[Parent](./Project.Subprojects.Parent.md)|
 
 ## See also
 
 
-[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)
+[Project Object Model](../project/Concepts/project-object-model.md)

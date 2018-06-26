@@ -25,7 +25,7 @@ Returns a  **[FileExportConverters](Excel.FileExportConverters.md)** collection 
 
 ## Remarks
 
-For more information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/f8a36459-f9dd-9f4c-ef7a-b188173434d5%28Office.15%29.aspx).
+For more information about returning a single member of a collection, see [Returning an Object from a Collection](../excel/Concepts/Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md).
 
 
 ## Example

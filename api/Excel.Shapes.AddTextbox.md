@@ -29,7 +29,7 @@ Creates a text box. Returns a  **[Shape](Excel.Shape.md)** object that represent
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required| **[MsoTextOrientation](http://msdn.microsoft.com/library/7e8d0e06-14dd-3ea1-a2e4-50375919517f%28Office.15%29.aspx)**|The orientation of the textbox.|
+| _Orientation_|Required| **[MsoTextOrientation](./Office.MsoTextOrientation.md)**|The orientation of the textbox.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the text box relative to the upper-left corner of the document.|
 | _Top_|Required| **Single**|The position (in points) of the upper-left corner of the text box relative to the top of the document.|
 | _Width_|Required| **Single**|The width of the text box, in points.|

@@ -30,7 +30,7 @@ MsoPresetMaterial
 
 ## Remarks
 
-The  **PresetMaterial** property value can be one of the ** [MsoPresetMaterial](http://msdn.microsoft.com/library/4cf62ef4-f6c8-eb0c-1dfd-569aafca16c0%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **PresetMaterial** property value can be one of the ** [MsoPresetMaterial](./Office.MsoPresetMaterial.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

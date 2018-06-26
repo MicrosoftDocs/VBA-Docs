@@ -36,7 +36,7 @@ The return value contains one of the values of  **[VisUnitCodes](Visio.visunitco
 
 You can specify the value of the  **DefaultAngleUnits** property as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)** ) or a string value such as "degrees". If the string is invalid or the unit code is inappropriate (non-angular), an error is generated.
 
-For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
+For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 Cell formulas that contain a specific unit of measure are displayed in those units regardless of the default angle units setting. Many cell formulas, however, use implicit unit syntax and are displayed in default units.
 
@@ -53,6 +53,6 @@ vsoCell.Result(visAngleUnits) = 90
 
 In this case, the result is 90 degrees if the  **DefaultAngleUnits** property is **visDegrees** , and 90 radians if the **DefaultAngleUnits** property is **visRadians** .
 
-For details about implicit units of measure, see [About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
+For details about implicit units of measure, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 

@@ -52,7 +52,7 @@ Next Temp
 MsgBox Results
 ```
 
-Use the  **[Tasks](http://msdn.microsoft.com/library/8f58ea8e-a3a1-f5aa-ad5d-6447fe777453%28Office.15%29.aspx)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
+Use the  **[Tasks](./Project.Selection.Tasks.md)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
 
 
 
@@ -73,7 +73,7 @@ Next T
 MsgBox Names
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/a6e2186b-610c-0888-a22a-8b7deba3f53f%28Office.15%29.aspx)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
+Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
 
 
 
@@ -89,7 +89,7 @@ ActiveProject.Tasks.Add "Hang clocks"
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/a6e2186b-610c-0888-a22a-8b7deba3f53f%28Office.15%29.aspx)|
+|[Add](./Project.Tasks.Add.md)|
 
 ## Properties
 
@@ -97,13 +97,13 @@ ActiveProject.Tasks.Add "Hang clocks"
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/0d4405af-9edd-f8ad-b0ac-d72e0f02b16c%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/23238c44-1cf0-8dfc-40b3-6def228d5a7a%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/2bbdddae-38f7-6740-0694-73e0cf838e90%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/a2e8cfce-9c04-6c1f-badc-0fe506df270b%28Office.15%29.aspx)|
-|[UniqueID](http://msdn.microsoft.com/library/f87b88e3-5bd0-a57b-c54b-aba17d0de67e%28Office.15%29.aspx)|
+|[Application](./Project.Tasks.Application.md)|
+|[Count](./Project.Tasks.Count.md)|
+|[Item](./Project.Tasks.Item.md)|
+|[Parent](./Project.Tasks.Parent.md)|
+|[UniqueID](./Project.Tasks.UniqueID.md)|
 
 ## See also
 
 
-[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)
+[Project Object Model](../project/Concepts/project-object-model.md)

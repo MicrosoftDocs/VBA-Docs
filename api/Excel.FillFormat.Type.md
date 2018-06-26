@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.Type Property (Excel)
 
-Returns a  **[MsoFillType](http://msdn.microsoft.com/library/43dd4aa6-40bc-e798-674d-d016d582631f%28Office.15%29.aspx)** value that represents the fill type.
+Returns a  **[MsoFillType](./Office.MsoFillType.md)** value that represents the fill type.
 
 
 ## Syntax
