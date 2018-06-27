@@ -22,6 +22,6 @@ The default event of a  **ToggleButton** is the Click event.
 
 ## Related Topics
 
-[ToggleButton Object](http://msdn.microsoft.com/library/9332af2f-e50a-4c56-a29e-1f1362a5ce17%28Office.15%29.aspx)
+[ToggleButton Object](../../../api/Outlook.togglebutton.object.md)
 
 

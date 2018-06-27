@@ -53,8 +53,8 @@ Next
 
 |**Name**|
 |:-----|
-|[Activate](http://msdn.microsoft.com/library/cc4691a3-726f-5093-6345-f688b68ac15a%28Office.15%29.aspx)|
-|[DoVerb](http://msdn.microsoft.com/library/1ee39c5d-3646-81de-79e9-f8cff869308d%28Office.15%29.aspx)|
+|[Activate](./PowerPoint.OLEFormat.Activate.md)|
+|[DoVerb](./PowerPoint.OLEFormat.DoVerb.md)|
 
 ## Properties
 
@@ -62,14 +62,14 @@ Next
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/095419ed-7d4b-16d0-a306-dc0da5c21d9c%28Office.15%29.aspx)|
-|[FollowColors](http://msdn.microsoft.com/library/5f4c3f3d-0332-646f-de45-6854497f5782%28Office.15%29.aspx)|
-|[Object](http://msdn.microsoft.com/library/fcaef43d-590e-179f-6698-4a8c191b92f9%28Office.15%29.aspx)|
-|[ObjectVerbs](http://msdn.microsoft.com/library/895becb3-de86-638c-88e9-b9e72b6c713e%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/2eb7c4bf-5d11-d0e6-74b3-bde215ca3701%28Office.15%29.aspx)|
-|[ProgID](http://msdn.microsoft.com/library/7564f3e1-4e14-9038-a836-5665518b0d09%28Office.15%29.aspx)|
+|[Application](./PowerPoint.OLEFormat.Application.md)|
+|[FollowColors](./PowerPoint.OLEFormat.FollowColors.md)|
+|[Object](./PowerPoint.OLEFormat.Object.md)|
+|[ObjectVerbs](./PowerPoint.OLEFormat.ObjectVerbs.md)|
+|[Parent](./PowerPoint.OLEFormat.Parent.md)|
+|[ProgID](./PowerPoint.OLEFormat.ProgID.md)|
 
 ## See also
 
 
-[PowerPoint Object Model Reference](http://msdn.microsoft.com/library/00acd64a-5896-0459-39af-98df2849849e%28Office.15%29.aspx)
+[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)

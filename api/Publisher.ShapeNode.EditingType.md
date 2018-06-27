@@ -32,7 +32,7 @@ MsoEditingType
 
 Use the  **[SetEditingType](Publisher.ShapeNodes.SetEditingType.md)** method to set the value of this property.
 
-The  **EditingType** property value can be one of the ** [MsoEditingType](http://msdn.microsoft.com/library/5fe5c4f6-6467-c6a7-197c-ff700c384b92%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **EditingType** property value can be one of the ** [MsoEditingType](./Office.MsoEditingType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

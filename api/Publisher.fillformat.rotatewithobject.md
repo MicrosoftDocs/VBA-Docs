@@ -28,7 +28,7 @@ Returns or sets whether the fill rotates with the specified shape. Read/write.
 
 ## Remarks
 
-The value returned by the  **RotateWithObject** property can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants listed in the following table.
+The value returned by the  **RotateWithObject** property can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants listed in the following table.
 
 
 

@@ -25,6 +25,6 @@ The default event for a  **ScrollBar** is the Change event.
 
 ## Related Topics
 
-[ScrollBar Object](http://msdn.microsoft.com/library/11e29e13-21e6-4d17-bbf5-0d91ed50062e%28Office.15%29.aspx)
+[ScrollBar Object](../../../api/Outlook.scrollbar.object.md)
 
 

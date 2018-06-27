@@ -30,7 +30,7 @@ MsoPresetThreeDFormat
 
 ## Remarks
 
-The  **PresetThreeDFormat** property value can be one of the ** [MsoPresetThreeDFormat](http://msdn.microsoft.com/library/9d362115-1979-d079-d7e5-2e7788da614b%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **PresetThreeDFormat** property value can be one of the ** [MsoPresetThreeDFormat](./Office.MsoPresetThreeDFormat.md)** constants declared in the Microsoft Office type library.
 
 Each preset extrusion format contains a set of preset values for the various properties of the extrusion. If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed**. 
 

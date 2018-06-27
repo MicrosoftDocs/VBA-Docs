@@ -53,9 +53,9 @@ criteria = "[LastModificationTime] < '" &; Format$("6/12/2005 3:30PM","General D
 
 ```
 
-For more information on specifying filters for the  **Table** object, see[Filtering Items](http://msdn.microsoft.com/library/4038e042-1b07-5d18-18b0-c2b58c9c42da%28Office.15%29.aspx).
+For more information on specifying filters for the  **Table** object, see[Filtering Items](../outlook/How-to/Search-and-Filter/filtering-items.md).
 
-If  _Filter_ contains custom properties, those properties must exist in the parent folder of the **Table** object in order for the restriction to work correctly. Certain properties are not supported in a **Table** filter, including binary properties, computed properties, and HTML or RTF body content. For more information, see[Unsupported Properties in a Table Object or Table Filter](http://msdn.microsoft.com/library/0e37f03f-7677-ca29-d0b2-8b45c026e5f1%28Office.15%29.aspx).
+If  _Filter_ contains custom properties, those properties must exist in the parent folder of the **Table** object in order for the restriction to work correctly. Certain properties are not supported in a **Table** filter, including binary properties, computed properties, and HTML or RTF body content. For more information, see[Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
 
 If  _Filter_ is a blank string, **Restrict** returns a **Table** object that is identical to the parent **Table** object.
 

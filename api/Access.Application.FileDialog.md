@@ -29,7 +29,7 @@ Returns a  **FileDialog** object which represents a single instance of a file di
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _dialogType_|Required|**MsoFileDialogType**|An  **[MsoFileDialogType](http://msdn.microsoft.com/library/ee445a67-1193-f446-4bd2-963c07fba5ae%28Office.15%29.aspx)** constant that represents the type of dialog box.|
+| _dialogType_|Required|**MsoFileDialogType**|An  **[MsoFileDialogType](./Office.MsoFileDialogType.md)** constant that represents the type of dialog box.|
 
 ## Remarks
 

@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-For more information about A1-style notation, see[How to: Refer to Cells and Ranges by Using A1 Notation](http://msdn.microsoft.com/library/c98741c5-465e-137f-872d-185a20068d4a%28Office.15%29.aspx).
+For more information about A1-style notation, see[How to: Refer to Cells and Ranges by Using A1 Notation](../excel/Concepts/Cells-and-Ranges/refer-to-cells-and-ranges-by-using-a1-notation.md).
 
 
 ## See also

@@ -30,7 +30,7 @@ MsoArrowheadStyle
 
 ## Remarks
 
-The  **BeginArrowheadStyle** property value can be one of the ** [MsoArrowheadStyle](http://msdn.microsoft.com/library/e598631e-dad9-649b-767b-99e7e7ea83da%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **BeginArrowheadStyle** property value can be one of the ** [MsoArrowheadStyle](./Office.MsoArrowheadStyle.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[EndArrowheadStyle](Publisher.LineFormat.EndArrowheadStyle.md)** property to return or set the style of the arrowhead at the end of the line.
 

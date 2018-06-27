@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.HasChart Property (Excel)
 
- Returns whether a shape contains a chart. Read-only **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
+ Returns whether a shape contains a chart. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
 
 
 ## Syntax

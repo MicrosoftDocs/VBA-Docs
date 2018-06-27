@@ -27,7 +27,7 @@ Returns or sets a  **Variant** indicating the value for the specified custom pro
 
 To set for the first time a property created by the  **[UserProperties.Add](Outlook.UserProperties.Add.md)** method, use the **UserProperty.Value** property instead of the **[SetProperties](Outlook.PropertyAccessor.SetProperties.md)** or **[SetProperty](Outlook.PropertyAccessor.SetProperty.md)** method of the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object.
 
-For more information on accessing properties in Outlook, see [Properties Overview](http://msdn.microsoft.com/library/242c9e89-a0c5-ff89-0d2a-410bd42a3461%28Office.15%29.aspx).
+For more information on accessing properties in Outlook, see [Properties Overview](../outlook/How-to/Navigation/properties-overview.md).
 
 
 ## See also

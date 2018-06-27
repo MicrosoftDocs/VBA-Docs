@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # XlBinsType Enumeration (PowerPoint)
 
-Constants passed to and returned by the [ChartGroup.BinsType](http://msdn.microsoft.com/library/7230c44b-2e93-9790-2f27-d584688c6172%28Office.15%29.aspx) property.
+Constants passed to and returned by the [ChartGroup.BinsType](./Excel.chartgroup.binstype.md) property.
 
 
 

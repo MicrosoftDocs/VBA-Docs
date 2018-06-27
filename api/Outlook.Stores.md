@@ -18,7 +18,7 @@ A set of  **[Store](Outlook.Store.md)** objects representing all the stores avai
 
 ## Remarks
 
-You can use the  **Stores** and **Store** objects to enumerate all folders and search folders on all stores in the current session. For more information on storing Outlook items in folders and stores, see[Storing Outlook Items](http://msdn.microsoft.com/library/e4a639a4-10b2-7665-9261-19d6e7707e48%28Office.15%29.aspx).
+You can use the  **Stores** and **Store** objects to enumerate all folders and search folders on all stores in the current session. For more information on storing Outlook items in folders and stores, see[Storing Outlook Items](../outlook/How-to/Items-Folders-and-Stores/storing-outlook-items.md).
 
 
 ## Example
@@ -95,8 +95,8 @@ End Sub
 
 |**Name**|
 |:-----|
-|[BeforeStoreRemove](http://msdn.microsoft.com/library/b21d4854-3da5-5c01-cbc1-098bb505466e%28Office.15%29.aspx)|
-|[StoreAdd](http://msdn.microsoft.com/library/26e7eddc-9c5a-ffff-d574-afa48e5953d8%28Office.15%29.aspx)|
+|[BeforeStoreRemove](./Outlook.Stores.BeforeStoreRemove.md)|
+|[StoreAdd](./Outlook.Stores.StoreAdd.md)|
 
 ## Methods
 
@@ -104,7 +104,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Item](http://msdn.microsoft.com/library/b516241a-7baf-b04b-027d-25de80058fbe%28Office.15%29.aspx)|
+|[Item](./Outlook.Stores.Item.md)|
 
 ## Properties
 
@@ -112,14 +112,14 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/9605ade2-fe86-30a6-ea1d-787498bf20a5%28Office.15%29.aspx)|
-|[Class](http://msdn.microsoft.com/library/fb2b9b17-052c-9b25-53ee-b8fcd9e72cc8%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/218d55b5-8394-146b-46eb-d57f444688e8%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/d737cf58-fc6e-a6a1-5144-c294ffbcc314%28Office.15%29.aspx)|
-|[Session](http://msdn.microsoft.com/library/aea9466c-4b22-10fa-7938-d12f4f193148%28Office.15%29.aspx)|
+|[Application](./Outlook.Stores.Application.md)|
+|[Class](./Outlook.Stores.Class.md)|
+|[Count](./Outlook.Stores.Count.md)|
+|[Parent](./Outlook.Stores.Parent.md)|
+|[Session](./Outlook.Stores.Session.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
 [Stores Object Members](http://msdn.microsoft.com/library/f3fec99a-54b2-c13e-d96a-c8c5e2429f99%28Office.15%29.aspx)

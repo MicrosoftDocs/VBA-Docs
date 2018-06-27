@@ -25,6 +25,6 @@ The default event of a  **ComboBox** is the Change event.
 
 ## Related Topics
 
-[ComboBox Object](http://msdn.microsoft.com/library/b62f1922-e104-4632-9e6a-fb602f3fe336%28Office.15%29.aspx)
+[ComboBox Object](../../../api/Outlook.combobox.object.md)
 
 

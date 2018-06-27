@@ -29,7 +29,7 @@ Sets the specified fill format to a preset texture.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PresetTexture_|Required| **[MsoPresetTexture](http://msdn.microsoft.com/library/fbbc897d-f5db-eb0d-20d9-f6b7e9bbcf4f%28Office.15%29.aspx)**|The type of texture to apply.|
+| _PresetTexture_|Required| **[MsoPresetTexture](./Office.MsoPresetTexture.md)**|The type of texture to apply.|
 
 ## Example
 

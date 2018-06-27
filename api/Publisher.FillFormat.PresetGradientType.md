@@ -30,7 +30,7 @@ MsoPresetGradientType
 
 ## Remarks
 
-The  **PresetGradientType** property value can be one of the ** [MsoPresetGradientType](http://msdn.microsoft.com/library/d0ee19e7-bdd3-3102-61b4-dbb17d5c0363%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **PresetGradientType** property value can be one of the ** [MsoPresetGradientType](./Office.MsoPresetGradientType.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[PresetGradient](Publisher.FillFormat.PresetGradient.md)** method to set the preset gradient type for the fill.
 

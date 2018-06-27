@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Calculates variance based on the entire population.
 
 
-## 
+
 
 
  **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.For more information about the new function, see the [Var_P](Excel.WorksheetFunction.Var_P.md) method.

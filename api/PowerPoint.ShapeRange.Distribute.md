@@ -29,8 +29,8 @@ Evenly distributes the shapes in the specified range of shapes. You can specify 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DistributeCmd_|Required|**[MsoDistributeCmd](http://msdn.microsoft.com/library/be0cb580-1d82-1443-0f03-3461ddb9c33d%28Office.15%29.aspx)**|Specifies whether shapes in the range are to be distributed horizontally or vertically.|
-| _RelativeTo_|Required|**[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether shapes are distributed evenly over the entire horizontal or vertical space on the slide.|
+| _DistributeCmd_|Required|**[MsoDistributeCmd](./Office.MsoDistributeCmd.md)**|Specifies whether shapes in the range are to be distributed horizontally or vertically.|
+| _RelativeTo_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether shapes are distributed evenly over the entire horizontal or vertical space on the slide.|
 
 ### Return Value
 

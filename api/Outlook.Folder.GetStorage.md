@@ -62,7 +62,7 @@ If you specify the  **[Subject](Outlook.StorageItem.Subject.md)** of the **Stora
 
 The  **[Size](Outlook.StorageItem.Size.md)** of a **StorageItem** that is newly created is zero (0) until you make an explicit call on the **[Save](Outlook.StorageItem.Save.md)** method of the item.
 
-For more information on storing data for a solution, see [Storing Data for Solutions](http://msdn.microsoft.com/library/58e69983-5718-4dde-64fc-858abd80c9e5%28Office.15%29.aspx).
+For more information on storing data for a solution, see [Storing Data for Solutions](../outlook/How-to/Solution-Storage/storing-data-for-solutions.md).
 
 
 ## Example

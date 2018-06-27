@@ -44,14 +44,14 @@ The  **GetArray** method offers a conceptually simple means to get values from a
 
 After obtaining the appropriate rows from the  **Table** and before it returns, **GetArray** always repositions the current row to the next row in the **Table** , if there exists a next row. `GetArray(n)` operates as if **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** is called n times.
 
-The values in the columns map to columns in the  **Table** , and are therefore determined by the format of the property name used for the column. For more information, see[Factors Affecting Property Value Representation in the Table and View Classes](http://msdn.microsoft.com/library/13cf9945-a9e0-bb32-a2cb-74366a365ae1%28Office.15%29.aspx).
+The values in the columns map to columns in the  **Table** , and are therefore determined by the format of the property name used for the column. For more information, see[Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
 
 
 ## Example
 
 The following code sample obtains a  **Table** by filtering on all items in the Inbox that contain "Office" in the subject. It then uses the **Table.GetArray** method to copy the data from the **Table** to an array, and prints the property value of each item returned.
 
-For more information on specifying property names in a filter by namespace reference, see [Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).
+For more information on specifying property names in a filter by namespace reference, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).
 
 
 

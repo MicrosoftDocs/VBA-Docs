@@ -30,7 +30,7 @@ MsoLanguageID
 
 ## Remarks
 
-The  **LanguageID** property value can be one of the ** [MsoLanguageID](http://msdn.microsoft.com/library/65ea40f0-9a09-3d76-1519-4acddcc5f367%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **LanguageID** property value can be one of the ** [MsoLanguageID](./Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

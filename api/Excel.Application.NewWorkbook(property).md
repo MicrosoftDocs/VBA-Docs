@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.NewWorkbook Property (Excel)
 
-Returns a  **[NewFile](http://msdn.microsoft.com/library/6f53ced5-4488-b67f-ca1f-729aeb790eb1%28Office.15%29.aspx)** object.
+Returns a  **[NewFile](./Office.NewFile.md)** object.
 
 
 ## Syntax

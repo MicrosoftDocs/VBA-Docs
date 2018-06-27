@@ -20,7 +20,7 @@ Represents an action that moves or copies a message.
 
  **MoveOrCopyRuleAction** is derived from the **[RuleAction](Outlook.RuleAction.md)** object. Each rule is associated with a **[RuleActions](Outlook.RuleActions.md)** object which has a **[CopyToFolder](Outlook.RuleActions.CopyToFolder.md)** property and a **[MoveToFolder](Outlook.RuleActions.MoveToFolder.md)** property. Each of these properties always returns a **MoveOrCopyRuleAction** object. **[MoveOrCopyRuleAction.ActionType](Outlook.MoveOrCopyRuleAction.ActionType.md)** distinguishes between the two action types. If the rule has an enabled rule action that copies or moves a message to the specified folder, then the corresponding **[MoveOrCopyRuleAction.Enabled](Outlook.MoveOrCopyRuleAction.Enabled.md)** would be **True**.
 
-For more information on specifying rule actions, see [Specify Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx).
+For more information on specifying rule actions, see [Specify Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md).
 
 
 ## Properties
@@ -40,4 +40,4 @@ For more information on specifying rule actions, see [Specify Rule Actions](http
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

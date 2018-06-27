@@ -29,7 +29,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PresetExtrusionDirection_|Required| **[MsoPresetExtrusionDirection](http://msdn.microsoft.com/library/6842c53f-a240-249c-32aa-18cac4859ecf%28Office.15%29.aspx)**|Specifies the extrusion direction.|
+| _PresetExtrusionDirection_|Required| **[MsoPresetExtrusionDirection](./Office.MsoPresetExtrusionDirection.md)**|Specifies the extrusion direction.|
 
 ## Remarks
 

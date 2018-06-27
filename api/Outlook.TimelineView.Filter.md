@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the filter for a view. Read/
 
 ## Remarks
 
-The value of this property is a string, in DAV Searching and Locating (DASL) syntax, that represents the current filter for the view. For more information about using DASL syntax to filter items in a view, see [Filtering Items](http://msdn.microsoft.com/library/4038e042-1b07-5d18-18b0-c2b58c9c42da%28Office.15%29.aspx).
+The value of this property is a string, in DAV Searching and Locating (DASL) syntax, that represents the current filter for the view. For more information about using DASL syntax to filter items in a view, see [Filtering Items](../outlook/How-to/Search-and-Filter/filtering-items.md).
 
 
 ## Example

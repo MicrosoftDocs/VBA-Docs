@@ -55,12 +55,12 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/26c38a3a-e30b-1f2d-d535-57bb978bc4f7%28Office.15%29.aspx)|
-|[HasTable](http://msdn.microsoft.com/library/bc4912e2-f521-c6b5-b5a6-a49952014966%28Office.15%29.aspx)|
-|[HasTextFrame](http://msdn.microsoft.com/library/10c3a002-05ae-1167-784c-d62066de802d%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/fbcc74f6-a7ba-df22-0b75-a7b365883d89%28Office.15%29.aspx)|
-|[Table](http://msdn.microsoft.com/library/e9da80d3-ea3c-b47c-d434-498c72955c14%28Office.15%29.aspx)|
-|[TextFrame](http://msdn.microsoft.com/library/bb6ce510-068c-27c2-9df0-a709ab46db2e%28Office.15%29.aspx)|
-|[TextRange](http://msdn.microsoft.com/library/c948da79-ea67-0c8c-1df3-2b32499ea9b3%28Office.15%29.aspx)|
-|[Type](http://msdn.microsoft.com/library/71e6548d-f54a-b4df-d878-d86a85c1332b%28Office.15%29.aspx)|
+|[Application](./Publisher.Story.Application.md)|
+|[HasTable](./Publisher.Story.HasTable.md)|
+|[HasTextFrame](./Publisher.Story.HasTextFrame.md)|
+|[Parent](./Publisher.Story.Parent.md)|
+|[Table](./Publisher.Story.Table.md)|
+|[TextFrame](./Publisher.Story.TextFrame.md)|
+|[TextRange](./Publisher.Story.TextRange.md)|
+|[Type](./Publisher.Story.Type.md)|
 

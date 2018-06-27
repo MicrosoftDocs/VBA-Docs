@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.AutoShapeType Property (Excel)
 
-Returns or sets the shape type for the specified  **[Shape](Excel.Shape.md)** or **[ShapeRange](Excel.ShapeRange.md)** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **[MsoAutoShapeType](http://msdn.microsoft.com/library/7e6fe414-2b25-56d7-a678-b6e718329118%28Office.15%29.aspx)** .
+Returns or sets the shape type for the specified  **[Shape](Excel.Shape.md)** or **[ShapeRange](Excel.ShapeRange.md)** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **[MsoAutoShapeType](./Office.MsoAutoShapeType.md)** .
 
 
 ## Syntax

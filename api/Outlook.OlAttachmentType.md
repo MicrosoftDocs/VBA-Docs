@@ -32,8 +32,8 @@ Used as an optional parameter to the [Attachments.Add Method (Outlook)](attachme
 ## See also
 
 
-[Attach a File to a Mail Item](http://msdn.microsoft.com/library/1d94629b-e713-92cb-32de-c8910612e861%28Office.15%29.aspx)
-[Attach an Outlook Contact Item to an Email Message](http://msdn.microsoft.com/library/ae5240ad-dc3e-4499-8fd0-d8c2d90aa9ba%28Office.15%29.aspx)
-[Limit the Size of an Attachment to an Outlook Email Message](http://msdn.microsoft.com/library/9a240e17-f715-482c-9a8b-c6be1144e15a%28Office.15%29.aspx)
-[Modify an Attachment of an Outlook Email Message](http://msdn.microsoft.com/library/f5dac09a-272b-49d6-bf1e-82c3981260ed%28Office.15%29.aspx)
+[Attach a File to a Mail Item](../outlook/How-to/Items-Folders-and-Stores/attach-a-file-to-a-mail-item.md)
+[Attach an Outlook Contact Item to an Email Message](../outlook/Concepts/Attachments/attach-an-outlook-contact-item-to-an-email-message.md)
+[Limit the Size of an Attachment to an Outlook Email Message](../outlook/Concepts/Attachments/limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
+[Modify an Attachment of an Outlook Email Message](../outlook/Concepts/Attachments/modify-an-attachment-of-an-outlook-email-message.md)
 

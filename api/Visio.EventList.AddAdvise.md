@@ -47,7 +47,7 @@ The source object whose  **EventList** collection contains the **Event** object 
 
 Creating  **Event** objects is a common way to handle events from C++ or other non-Microsoft Visual Basic solutions. When you use the Visual Basic **WithEvents** keyword to handle events, all the events in a source object's event set fire. When you create **Event** objects to handle events, however, your program will only be notified of the events you select. Depending on your solution, this may result in improved performance.
 
-The  _EventCode_ argument is often a combination of constants. For example, **visEvtMod** + **visEvtCell** is the event code for the **CellChanged** event. Event constants are declared by the Visio type library and are prefixed with **visEvt** . To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx). 
+The  _EventCode_ argument is often a combination of constants. For example, **visEvtMod** + **visEvtCell** is the event code for the **CellChanged** event. Event constants are declared by the Visio type library and are prefixed with **visEvt** . To find an event code for the event you want to create, see[Event codes](../visio/Concepts/event-codesvisio.md). 
 
 The arguments passed to the  **AddAdvise** method set the initial values of the **Event** object's **Event** , **Action** ( **visCodeRunAddAdvise** ), and **TargetArgs** properties.
 
@@ -59,7 +59,7 @@ The source object whose  **EventList** collection contains the **Event** object 
 
 Creating  **Event** objects is a common way to handle events from C++ or other non-Microsoft Visual Basic solutions. When you use the Visual Basic **WithEvents** keyword to handle events, all the events in a source object's event set fire. When you create **Event** objects to handle events, however, your program will only be notified of the events you select. Depending on your solution, this may result in improved performance.
 
-The  _EventCode_ argument is often a combination of constants. For example, **visEvtMod** + **visEvtCell** is the event code for the **CellChanged** event. Event constants are declared by the Visio type library and are prefixed with **visEvt** . To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx). 
+The  _EventCode_ argument is often a combination of constants. For example, **visEvtMod** + **visEvtCell** is the event code for the **CellChanged** event. Event constants are declared by the Visio type library and are prefixed with **visEvt** . To find an event code for the event you want to create, see[Event codes](../visio/Concepts/event-codesvisio.md). 
 
 The arguments passed to the  **AddAdvise** method set the initial values of the **Event** object's **Event** , **Action** ( **visCodeRunAddAdvise** ), and **TargetArgs** properties.
 

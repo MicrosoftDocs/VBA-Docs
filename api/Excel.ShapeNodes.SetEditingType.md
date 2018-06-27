@@ -30,7 +30,7 @@ Sets the editing type of the node specified by  _Index_. If the node is a contro
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The node whose editing type is to be set.|
-| _EditingType_|Required| **[MsoEditingType](http://msdn.microsoft.com/library/5fe5c4f6-6467-c6a7-197c-ff700c384b92%28Office.15%29.aspx)**|The editing property of the vertex.|
+| _EditingType_|Required| **[MsoEditingType](./Office.MsoEditingType.md)**|The editing property of the vertex.|
 
 ## Example
 

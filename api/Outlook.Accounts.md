@@ -27,7 +27,7 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 |**Name**|
 |:-----|
-|[AutoDiscoverComplete](http://msdn.microsoft.com/library/86738163-4fb3-b2f5-40bd-4704081d4564%28Office.15%29.aspx)|
+|[AutoDiscoverComplete](./Outlook.Accounts.AutoDiscoverComplete.md)|
 
 ## Methods
 
@@ -35,7 +35,7 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 |**Name**|
 |:-----|
-|[Item](http://msdn.microsoft.com/library/8ef9c358-6d8b-1cbb-40ed-6d3462ae335e%28Office.15%29.aspx)|
+|[Item](./Outlook.Accounts.Item.md)|
 
 ## Properties
 
@@ -43,15 +43,15 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/2075d49d-c300-439f-96b5-8b69531be328%28Office.15%29.aspx)|
-|[Class](http://msdn.microsoft.com/library/a21d5f09-cab6-1474-044a-8fa6739b879f%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/bb29c680-339d-0d92-2500-2116ce7054c2%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/9d17887f-8c13-c589-21a5-b8c61a7adf3b%28Office.15%29.aspx)|
-|[Session](http://msdn.microsoft.com/library/65be5604-6dcf-b26e-1abc-41d1a8813e90%28Office.15%29.aspx)|
+|[Application](./Outlook.Accounts.Application.md)|
+|[Class](./Outlook.Accounts.Class.md)|
+|[Count](./Outlook.Accounts.Count.md)|
+|[Parent](./Outlook.Accounts.Parent.md)|
+|[Session](./Outlook.Accounts.Session.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
-[How to: Send an E-mail Given the SMTP Address of an Account](http://msdn.microsoft.com/library/5e5f707d-8771-bd5f-945b-58537732d99a%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 [Accounts Object Members](http://msdn.microsoft.com/library/cfcc988a-385a-b725-f8ed-00ae7b6dff3b%28Office.15%29.aspx)

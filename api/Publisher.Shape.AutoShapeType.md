@@ -25,7 +25,7 @@ Returns or sets an  **MsoAutoShapeType**constant that specifies a  **Shape** obj
 
 ## Remarks
 
-The  **AutoShapeType** property value can be one of the ** [MsoAutoShapeType](http://msdn.microsoft.com/library/7e6fe414-2b25-56d7-a678-b6e718329118%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **AutoShapeType** property value can be one of the ** [MsoAutoShapeType](./Office.MsoAutoShapeType.md)** constants declared in the Microsoft Office type library.
 
 AutoShapes correspond to  **Shape** objects, although the **AutoShapeType** property for non-Publisher shapes will also return a value. WordArt, OLE, Web Form control, table and picture frame objects should return **msoShapeMixed** as their **AutoShapeType** property value. Text frames should return **msoShapeRectangle** as their **AutoShapeType** property.
 

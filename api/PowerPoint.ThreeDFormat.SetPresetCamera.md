@@ -29,7 +29,7 @@ Specifies the effects camera type and rotation to use for the specified  **Three
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PresetCamera_|Required|**[MsoLightRigType](http://msdn.microsoft.com/library/54a42ee8-a029-0580-eddc-adc305f34d0d%28Office.15%29.aspx)**|The  **ThreeDFormat** object's effects camera type and rotation.|
+| _PresetCamera_|Required|**[MsoLightRigType](./Office.MsoLightRigType.md)**|The  **ThreeDFormat** object's effects camera type and rotation.|
 
 ## See also
 

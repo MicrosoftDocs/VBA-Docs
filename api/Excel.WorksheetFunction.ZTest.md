@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Returns the one-tailed probability-value of a z-test. For a given hypothesized population mean, ZTEST returns the probability that the sample mean would be greater than the average of observations in the data set (array) ? that is, the observed sample mean.
 
 
-## 
+
 
 
  **Important**  This function has been replaced with one or more new functions that may provide improved accuracy and whose names better reflect their usage. This function is still available for compatibility with earlier versions of Excel. However, if backward compatibility is not required, you should consider using the new functions from now on, because they more accurately describe their functionality.For more information about the new function, see the [Z_Test](Excel.WorksheetFunction.Z_Test.md) method.

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.NoTextRotation Property (Word)
 
-True if text in the text frame should not rotate when the shape is rotated. Read/write [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx).
+True if text in the text frame should not rotate when the shape is rotated. Read/write [MsoTriState](./Office.MsoTriState.md).
 
 
 ## Syntax

@@ -50,4 +50,4 @@ Individual  **Page** objects in the **Pages** collection are indexed beginning w
 ## See also
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](./overview/object-model-access-vba-reference.md)

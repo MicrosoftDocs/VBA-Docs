@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # ChartFormat.AutoShapeType Property (PowerPoint)
 
-Returns or sets the auto shape type of the specified object. Read-write [MSOAutoShapeType](http://msdn.microsoft.com/library/7e6fe414-2b25-56d7-a678-b6e718329118%28Office.15%29.aspx).
+Returns or sets the auto shape type of the specified object. Read-write [MSOAutoShapeType](./Office.MsoAutoShapeType.md).
 
 
 ## Syntax

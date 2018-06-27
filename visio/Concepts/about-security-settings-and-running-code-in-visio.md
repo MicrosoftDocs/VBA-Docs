@@ -26,7 +26,7 @@ Starting with Visio 2007, all security settings are Office-wide and are set in t
 - Loading VBA macros
     
 In previous versions of Visio, settings were made in the  **Security** dialog box and the **Security** tab of the **Options** dialog box. As of Visio 2007, these dialog boxes have been eliminated.
-For more information about settings in the Office  **Trust Center**, see  [Security Notes for Microsoft Office Solution Developers](http://msdn.microsoft.com/library/076ce284-5d1d-4823-ba74-f5e5c05bae9b%28Office.15%29.aspx).
+For more information about settings in the Office  **Trust Center**, see  [Security Notes for Microsoft Office Solution Developers](../../Library-Reference/Concepts/security-notes-for-microsoft-office-solution-developers.md).
  For details about digitally signing code and trusted sources and publishers, search for "code signing" on MSDN, the Microsoft Developer Network Web site.
 For more information about good security design practices and technologies, search for "security" on MSDN. 
 

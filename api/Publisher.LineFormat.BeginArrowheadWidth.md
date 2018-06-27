@@ -30,7 +30,7 @@ MsoArrowheadWidth
 
 ## Remarks
 
-The  **BeginArrowheadWidth** property value can be one of the ** [MsoArrowheadWidth](http://msdn.microsoft.com/library/7183f2e0-7431-170b-f4e7-3f8737017ed8%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **BeginArrowheadWidth** property value can be one of the ** [MsoArrowheadWidth](./Office.MsoArrowheadWidth.md)** constants declared in the Microsoft Office type library.
 
 Use the  **[EndArrowheadWidth](Publisher.LineFormat.EndArrowheadWidth.md)** property to return or set the width of the arrowhead at the end of the line.
 

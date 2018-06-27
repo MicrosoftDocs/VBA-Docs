@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.BevelBottomType Property (Excel)
 
-Returns or sets the bottom bevel type for a  **ThreeDFormat** object. Read/write **[MsoBevelType](http://msdn.microsoft.com/library/2404d6cf-0c64-fca5-59bc-098847018f99%28Office.15%29.aspx)** .
+Returns or sets the bottom bevel type for a  **ThreeDFormat** object. Read/write **[MsoBevelType](./Office.MsoBevelType.md)** .
 
 
 ## Syntax

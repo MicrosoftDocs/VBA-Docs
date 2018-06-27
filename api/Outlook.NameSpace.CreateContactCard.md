@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.CreateContactCard Method (Outlook)
 
-Creates an instance of a  **[ContactCard](http://msdn.microsoft.com/library/148c7268-e12c-d9ae-d31f-b625067eb352%28Office.15%29.aspx)** object for the contact that is specified by the _AddressEntry_ parameter.
+Creates an instance of a  **[ContactCard](./Office.ContactCard.md)** object for the contact that is specified by the _AddressEntry_ parameter.
 
 
 ## Syntax
@@ -77,7 +77,7 @@ Outlook raises the E_INVALIDARG error when you pass any of the following  **OlAd
 
  The following code sample in Microsoft Visual Basic for Applications (VBA) displays a Contact Card for the current user defined by the **[CurrentUser](Outlook.NameSpace.CurrentUser.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object.
 
-You cannot run this code directly from the VBA window. To run the code, click the  **Developer** tab, click the **Macros** menu, and then select **Project1.DisplayContactCardForCurrentUser**. For more information about the  **Developer** tab, see[Run in Developer Mode in Outlook](http://msdn.microsoft.com/library/8f81b1ce-333d-d9be-2af7-cfc65bf15e22%28Office.15%29.aspx).
+You cannot run this code directly from the VBA window. To run the code, click the  **Developer** tab, click the **Macros** menu, and then select **Project1.DisplayContactCardForCurrentUser**. For more information about the  **Developer** tab, see[Run in Developer Mode in Outlook](../outlook/How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 
 
 

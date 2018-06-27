@@ -25,7 +25,7 @@ Returns a constant,  **olRuleActionAssignToCategory** , from the **[OlRuleAction
 
 ## Remarks
 
- The category assigning rule action is supported by rules for receiving messages and rules for sending messages. For more information, see[Specifying Rule Actions](http://msdn.microsoft.com/library/c5f83c81-0e01-38aa-5ec7-3932b4443e43%28Office.15%29.aspx).
+ The category assigning rule action is supported by rules for receiving messages and rules for sending messages. For more information, see[Specifying Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md).
 
 
 ## See also

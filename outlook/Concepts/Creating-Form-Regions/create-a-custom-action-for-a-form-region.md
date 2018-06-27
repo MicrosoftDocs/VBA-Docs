@@ -153,7 +153,7 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 | **replyToFolder**|Addresses the resulting item like a post message to the current folder. This also clears the subject of the resulting item.|
 | **response**|Addresses the resulting item as a response to vote, with the sender specified in the  **To** line, and no one in the **CC** or **BCC** lines.|
 
-### 
+#
 
  [To specify the message class and the form for the resulting item](specify-the-message-class-and-form-for-an-item-resulting-from-an-action.md)
 

@@ -32,7 +32,7 @@ Use  **IsInstantSearchEnabled** to evaluate whether you should use **ci_startswi
 
 The following code sample accepts a matching string as an input parameter, constructs a DASL filter with the content indexing keyword  **ci_phrasematch** if Instant Search is enabled on the store, and returns the filter. Otherwise, if Instant Search is not operational, then the code sample returns a filter that uses the **like** keyword.
 
-For more information on filtering with keywords, see [Filtering Items Using Query Keywords](http://msdn.microsoft.com/library/d7e6b169-c5fd-7acc-f077-658a153a921f%28Office.15%29.aspx).
+For more information on filtering with keywords, see [Filtering Items Using Query Keywords](../outlook/How-to/Search-and-Filter/filtering-items-using-query-keywords.md).
 
 
 

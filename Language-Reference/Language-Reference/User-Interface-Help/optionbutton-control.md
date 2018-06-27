@@ -24,6 +24,6 @@ The default event for an  **OptionButton** is the Click event.
 
 ## Related Topics
 
-[ OptionButton Object](http://msdn.microsoft.com/library/5cff61be-6357-4db4-b381-b168626d5f28%28Office.15%29.aspx)
+[ OptionButton Object](../../../api/Outlook.optionbutton.object.md)
 
 

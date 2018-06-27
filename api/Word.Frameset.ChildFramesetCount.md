@@ -25,7 +25,7 @@ Returns the number of child  **Frameset** objects associated with the specified 
 
 ## Remarks
 
-This property applies only to  **Frameset** objects of type **wdFramesetTypeFrameset** . For more information on creating frames pages, see[Creating Frames Pages](http://msdn.microsoft.com/library/0245564e-b2df-83cd-1e32-e63079970dc1%28Office.15%29.aspx).
+This property applies only to  **Frameset** objects of type **wdFramesetTypeFrameset** . For more information on creating frames pages, see[Creating Frames Pages](../word/Concepts/Customizing-Word/creating-frames-pages.md).
 
 
 ## Example

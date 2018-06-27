@@ -124,7 +124,7 @@ Lookup time using the approximate match options of **VLOOKUP**, **HLOOKUP**, and
 
 Ensure that you understand the match-type and range-lookup options in **MATCH**, **VLOOKUP**, and **HLOOKUP**.
 
-The following code example shows the syntax for the **MATCH** function. For more information, see the [Match](http://msdn.microsoft.com/library/901cdd78-e8fc-f149-66ff-5887f7099c96%28Office.14%29.aspx) method of the [WorksheetFunction](http://msdn.microsoft.com/library/7b1d5639-363d-632c-2cf0-2232562646b6%28Office.14%29.aspx) object.
+The following code example shows the syntax for the **MATCH** function. For more information, see the [Match](../../../api/Excel.WorksheetFunction.Match.md) method of the [WorksheetFunction](../../../api/Excel.WorksheetFunction.md) object.
 
 ```vb
   MATCH(lookup value, lookup array, matchtype)
@@ -136,7 +136,7 @@ The following code example shows the syntax for the **MATCH** function. For more
 
 - **Matchtype=-1** returns the smallest match greater than or equal to the lookup value if the lookup array is sorted descending (approximate match).
     
-The following code example shows the syntax for the **VLOOKUP** and **HLOOKUP** functions. For more information, see the [VLOOKUP](http://msdn.microsoft.com/library/1b84b1f5-b557-3a5c-0787-7c19a9800580%28Office.14%29.aspx) and [HLOOKUP](http://msdn.microsoft.com/library/6e7b5ad0-3f70-d7a8-b161-ce418107d2a1%28Office.14%29.aspx) methods of the [WorksheetFunction](http://msdn.microsoft.com/library/7b1d5639-363d-632c-2cf0-2232562646b6%28Office.14%29.aspx) object.
+The following code example shows the syntax for the **VLOOKUP** and **HLOOKUP** functions. For more information, see the [VLOOKUP](../../../api/Excel.WorksheetFunction.VLookup.md) and [HLOOKUP](../../../api/Excel.WorksheetFunction.HLookup.md) methods of the [WorksheetFunction](../../../api/Excel.WorksheetFunction.md) object.
 
 ```vb
   VLOOKUP(lookup value, table array, col index num, range-lookup)

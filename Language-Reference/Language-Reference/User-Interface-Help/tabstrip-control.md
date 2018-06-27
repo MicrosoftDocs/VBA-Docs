@@ -25,6 +25,6 @@ The default event for a  **TabStrip** is the Change event.
 
 ## Related Topics
 
-[TabStrip Object](http://msdn.microsoft.com/library/19cb1cca-975b-4b01-b6a4-4c067153dccf%28Office.15%29.aspx)
+[TabStrip Object](../../../api/Outlook.tabstrip.object.md)
 
 

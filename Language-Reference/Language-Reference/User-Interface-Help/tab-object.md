@@ -24,6 +24,6 @@ Each  **Tab** has a unique name and index value within the[collection](vbe-gloss
 
 ## Related Topics
 
-[Tab Object](http://msdn.microsoft.com/library/e590b219-ed31-47d6-ba82-32ec40dc7667%28Office.15%29.aspx)
+[Tab Object](../../../api/Outlook.tab.object.md)
 
 

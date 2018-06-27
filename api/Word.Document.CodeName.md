@@ -25,7 +25,7 @@ Returns the code name for the specified document. Read-only  **String** .
 
 ## Remarks
 
-The code name is the name for the module that houses event macros for a document. The default name for the module is "ThisDocument"; you can view it in the Project window. For information about using events with the Document object, see [Using Events with the Document Object](http://msdn.microsoft.com/library/2b043342-436a-5421-e8af-3c2c49684960%28Office.15%29.aspx).
+The code name is the name for the module that houses event macros for a document. The default name for the module is "ThisDocument"; you can view it in the Project window. For information about using events with the Document object, see [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
 
 ## Example

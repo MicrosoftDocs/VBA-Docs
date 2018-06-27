@@ -25,7 +25,7 @@ Returns a  **ProofreadingErrors** collection that represents the words identifie
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning a Single Object from a Collection](http://msdn.microsoft.com/library/8c0b84c0-582b-32f7-68e0-6383d0661e74%28Office.15%29.aspx).
+For information about returning a single member of a collection, see [Returning a Single Object from a Collection](../word/Concepts/Miscellaneous/returning-a-single-object-from-a-collection.md).
 
 
 ## Example

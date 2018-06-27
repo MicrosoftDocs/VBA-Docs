@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Represents items listed on the  **New** _Item_ task pane available in several Microsoft Office applications.
 
 
-## 
+
 
 
  **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -84,4 +84,4 @@ End Sub
 #### Other resources
 
 
-[Object Model Reference](http://msdn.microsoft.com/library/499c789a-aba2-0fad-649a-0ea964cd3b5e%28Office.15%29.aspx)
+[Object Model Reference](./overview/reference-object-library-reference-for-office.md)

@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Occurs when any change is made to a command bar.
 
 
-## 
+
 
 
  **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."

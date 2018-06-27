@@ -37,6 +37,6 @@ This property corresponds to the MAPI property,  **PidTagEmailAddress** .
 #### Other resources
 
 
-[How to: Obtain the E-mail Address of a Recipient](http://msdn.microsoft.com/library/b645c227-a7d2-2861-3bf7-4190a19abe81%28Office.15%29.aspx)
+[How to: Obtain the E-mail Address of a Recipient](../outlook/Concepts/Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
 
 

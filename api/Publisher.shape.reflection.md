@@ -26,6 +26,6 @@ Returns a  [ReflectionFormat](Publisher.reflectionformat.md) object that represe
 ## See also
 
 
- [Shape Object](http://msdn.microsoft.com/library/604029ce-9b2f-9748-5d4e-b458796fa2f0%28Office.15%29.aspx)
+ [Shape Object](./Word.Shape.md)
  
 

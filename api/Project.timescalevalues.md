@@ -36,7 +36,7 @@ MsgBox HoursPerDay
 
  **Using the TimeScaleValues Collection**
 
-Use the  **[TimeScaleData](http://msdn.microsoft.com/library/51649bc3-8224-15cd-dc9b-af37a1cc4d8b%28Office.15%29.aspx)** method to return a **TimeScaleValues** collection. The following example returns a **TimeScaleValues** collection for the amount of work done by the resource in the active cell between the specified dates, split into week-long portions.
+Use the  **[TimeScaleData](./Project.Resource.TimeScaleData.md)** method to return a **TimeScaleValues** collection. The following example returns a **TimeScaleValues** collection for the amount of work done by the resource in the active cell between the specified dates, split into week-long portions.
 
 
 
@@ -45,7 +45,7 @@ Use the  **[TimeScaleData](http://msdn.microsoft.com/library/51649bc3-8224-15cd-
 ActiveCell.Resource.TimeScaleData("10/1/2012", "10/31/2012")
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/083ef154-31ce-55ec-793a-0627c1eff211%28Office.15%29.aspx)** method to add a **TimeScaleValue** object to the **TimeScaleValues** collection. The following example adds 8 hours of work to Tuesday of that week.
+Use the  **[Add](./Project.TimeScaleValues.Add.md)** method to add a **TimeScaleValue** object to the **TimeScaleValues** collection. The following example adds 8 hours of work to Tuesday of that week.
 
 
 
@@ -64,7 +64,7 @@ TSV.Add 480, 2
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/083ef154-31ce-55ec-793a-0627c1eff211%28Office.15%29.aspx)|
+|[Add](./Project.TimeScaleValues.Add.md)|
 
 ## Properties
 
@@ -72,12 +72,12 @@ TSV.Add 480, 2
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/58c5a8ae-0646-2f47-ad79-687ec8d41d4e%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/76ac63bf-74e1-3f1c-1089-90eb101e1147%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/8bbd6389-53ac-9f03-d155-c53e6a3dc681%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/1235dcdf-1cb0-23d3-f943-4e7acf513b40%28Office.15%29.aspx)|
+|[Application](./Project.TimeScaleValues.Application.md)|
+|[Count](./Project.TimeScaleValues.Count.md)|
+|[Item](./Project.TimeScaleValues.Item.md)|
+|[Parent](./Project.TimeScaleValues.Parent.md)|
 
 ## See also
 
 
-[Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)
+[Project Object Model](../project/Concepts/project-object-model.md)

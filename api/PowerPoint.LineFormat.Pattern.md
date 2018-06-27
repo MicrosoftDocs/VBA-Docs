@@ -25,7 +25,7 @@ Sets or returns a value that represents the pattern applied to the specified lin
 
 ### Return Value
 
-[MsoPatternType](http://msdn.microsoft.com/library/b95a7e43-329f-b93b-3664-04d8f570c747%28Office.15%29.aspx)
+[MsoPatternType](./Office.MsoPatternType.md)
 
 
 ## Example

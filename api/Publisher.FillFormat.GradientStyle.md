@@ -34,7 +34,7 @@ Use the  [OneColorGradient](Publisher.FillFormat.OneColorGradient.md),  [PresetG
 
 Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the  **[Type](Publisher.FillFormat.Type.md)** property to determine whether the fill has a gradient.
 
-The  **GradientStyle** property value can be one of the ** [MsoGradientStyle](http://msdn.microsoft.com/library/1f0e723f-293c-3646-fd77-da2c8842c71f%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The  **GradientStyle** property value can be one of the ** [MsoGradientStyle](./Office.MsoGradientStyle.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

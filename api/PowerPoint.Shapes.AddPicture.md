@@ -30,8 +30,8 @@ Creates a picture from an existing file. Returns a  **[Shape](PowerPoint.Shape.m
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The file from which the OLE object is to be created.|
-| _LinkToFile_|Required|**[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the picture will be linked to the file from which it was created.|
-| _SaveWithDocument_|Required|**[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the linked picture will be saved with the document into which it is inserted. This argument must be  **msoTrue** if LinkToFile is **msoFalse**.|
+| _LinkToFile_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the picture will be linked to the file from which it was created.|
+| _SaveWithDocument_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the linked picture will be saved with the document into which it is inserted. This argument must be  **msoTrue** if LinkToFile is **msoFalse**.|
 | _Left_|Required|**Single**|The position, measured in points, of the left edge of the picture relative to the left edge of the slide.|
 | _Top_|Required|**Single**|The position, measured in points, of the top edge of the picture relative to the top edge of the slide.|
 | _Width_|Optional|**Single**|The width of the picture, measured in points.|

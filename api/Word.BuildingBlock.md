@@ -110,7 +110,7 @@ Next
 
 Each building block has properties that contain information that applies uniquely to it, such as  **[Name](Word.BuildingBlock.Name.md)**, **[Description](Word.BuildingBlock.Description.md)**, **[Type](Word.BuildingBlock.Type.md)**, and **[Value](Word.BuildingBlock.Value.md)**.
 
-For more information about building blocks, see [Working with Building Blocks](http://msdn.microsoft.com/library/c32a8972-a6fc-bb66-b62a-039b88580b37%28Office.15%29.aspx).
+For more information about building blocks, see [Working with Building Blocks](../word/Concepts/Working-with-Word/working-with-building-blocks.md).
 
 
 ## Methods
@@ -143,4 +143,4 @@ For more information about building blocks, see [Working with Building Blocks](h
 ## See also
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Word Object Model Reference](./overview/object-model-word-vba-reference.md)

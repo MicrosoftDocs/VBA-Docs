@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that disables Outlook from automatically replacin
 
 ## Remarks
 
-For more information on Outlook automatically replacing a Forms 2.0 control by a themed Outlook counterpart control, see [Controls in a Custom Form](http://msdn.microsoft.com/library/fcba1b34-c526-5d01-8644-cb8852bd2348%28Office.15%29.aspx).
+For more information on Outlook automatically replacing a Forms 2.0 control by a themed Outlook counterpart control, see [Controls in a Custom Form](../outlook/Concepts/Forms/controls-in-a-custom-form.md).
 
 
 ## See also

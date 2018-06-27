@@ -18,9 +18,9 @@ Contains a collection of  **[Recipient](Outlook.Recipient.md)** objects for an O
 
 ## Remarks
 
-Use the  **Recipients** property to return the **Recipients** object of an **[AppointmentItem](Outlook.AppointmentItem.md)**, **[JournalItem](http://msdn.microsoft.com/library/6e850295-39f9-47b8-e866-9622e9958c69%28Office.15%29.aspx)**, **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** object.
+Use the  **Recipients** property to return the **Recipients** object of an **[AppointmentItem](Outlook.AppointmentItem.md)**, **[JournalItem](./Outlook.JournalItem.md)**, **[MailItem](./Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** object.
 
-Use the  **[Add](http://msdn.microsoft.com/library/7c285291-0f92-ca8d-1c7b-a71ace83ac84%28Office.15%29.aspx)** method to create a new **Recipient** object and add it to the **Recipients** object. The **[Type](http://msdn.microsoft.com/library/3bdc616c-f008-ec95-0a92-0f704eedee34%28Office.15%29.aspx)** property of a new **Recipient** object is set to the default for the associated **AppointmentItem**, **JournalItem**, **MailItem**, or **TaskItem** object and must be reset to indicate another recipient type.
+Use the  **[Add](./Outlook.Recipients.Add.md)** method to create a new **Recipient** object and add it to the **Recipients** object. The **[Type](./Outlook.Recipient.Type.md)** property of a new **Recipient** object is set to the default for the associated **AppointmentItem**, **JournalItem**, **MailItem**, or **TaskItem** object and must be reset to indicate another recipient type.
 
 Use  **Recipients** ( _index_ ), where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string representing the display name, the alias, or the full SMTP e-mail address of the recipient.
 
@@ -56,10 +56,10 @@ myRecipient.Type = olCC
 
 |**Name**|
 |:-----|
-|[Add](http://msdn.microsoft.com/library/7c285291-0f92-ca8d-1c7b-a71ace83ac84%28Office.15%29.aspx)|
-|[Item](http://msdn.microsoft.com/library/7cfad374-519e-4312-9050-8a8b66b3911e%28Office.15%29.aspx)|
-|[Remove](http://msdn.microsoft.com/library/f5357d32-4901-fb96-3555-f9ef4d5bf3b1%28Office.15%29.aspx)|
-|[ResolveAll](http://msdn.microsoft.com/library/82404dc6-af4e-f32d-68b2-9451328b5ca6%28Office.15%29.aspx)|
+|[Add](./Outlook.Recipients.Add.md)|
+|[Item](./Outlook.Recipients.Item.md)|
+|[Remove](./Outlook.Recipients.Remove.md)|
+|[ResolveAll](./Outlook.Recipients.ResolveAll.md)|
 
 ## Properties
 
@@ -67,14 +67,14 @@ myRecipient.Type = olCC
 
 |**Name**|
 |:-----|
-|[Application](http://msdn.microsoft.com/library/e8f5d72b-d3f6-6f83-f3f9-496278377c84%28Office.15%29.aspx)|
-|[Class](http://msdn.microsoft.com/library/d83f6ca2-e77f-bfa5-b32b-ed52f023c701%28Office.15%29.aspx)|
-|[Count](http://msdn.microsoft.com/library/3e96321d-a329-7460-0d25-4dc928de0441%28Office.15%29.aspx)|
-|[Parent](http://msdn.microsoft.com/library/99dcaedf-f971-48f8-7d6b-75d1ab48d540%28Office.15%29.aspx)|
-|[Session](http://msdn.microsoft.com/library/41ddda3c-ca79-9387-b416-8334aeecc102%28Office.15%29.aspx)|
+|[Application](./Outlook.Recipients.Application.md)|
+|[Class](./Outlook.Recipients.Class.md)|
+|[Count](./Outlook.Recipients.Count.md)|
+|[Parent](./Outlook.Recipients.Parent.md)|
+|[Session](./Outlook.Recipients.Session.md)|
 
 ## See also
 
 
-[Outlook Object Model Reference](http://msdn.microsoft.com/library/73221b13-d8d8-99b8-3394-b95dbbfd5ddc%28Office.15%29.aspx)
+[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
 [Recipients Object Members](http://msdn.microsoft.com/library/958f9e6d-c499-4c19-0550-02506998b125%28Office.15%29.aspx)
