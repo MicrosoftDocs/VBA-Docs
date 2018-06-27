@@ -10496,7 +10496,7 @@
 ##### [Limit the Size of an Attachment to an Outlook Email Message](../outlook/Concepts/Attachments/limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
 ##### [Modify an Attachment of an Outlook Email Message](../outlook/Concepts/Attachments/modify-an-attachment-of-an-outlook-email-message.md)
 #### Categories and Conversations
-##### [Categorize Your Outlook Items](../outlook/Concepts/Categories-and-Conversations/Attachments/categorize-your-outlook-items.md)
+##### [Categorize Your Outlook Items](../outlook/Concepts/Categories-and-Conversations/categorize-your-outlook-items.md)
 ##### [Managing Outlook Items as Conversations](../outlook/Concepts/Categories-and-Conversations/managing-outlook-items-as-conversations.md)
 ##### [Obtain and Enumerate Selected Conversations](../outlook/Concepts/Categories-and-Conversations/obtain-and-enumerate-selected-conversations.md)
 #### Electronic Business Cards
