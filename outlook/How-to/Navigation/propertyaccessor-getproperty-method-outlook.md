@@ -29,7 +29,7 @@ Returns an  **Object** that represents the value of the property specified by _S
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SchemaName_|Required| **String**|The name of the property whose value is to be returned. The property is referenced by namespace. For more information, see [Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).|
+| _SchemaName_|Required| **String**|The name of the property whose value is to be returned. The property is referenced by namespace. For more information, see [Referencing Properties by Namespace](./referencing-properties-by-namespace.md).|
 
 ### Return Value
 
@@ -40,7 +40,7 @@ A  **Variant** value that represents the value of the requested property as spec
 
 The type of the return value will be the same as the type of the underlying property. Certain raw property types such as  **PT_OBJECT** are unsupported and will raise an error. If you require conversion of the raw property type, for example, from **PT_BINARY** to a string, or from **PT_SYSTIME** to a local time, use the helper methods[PropertyAccessor.BinaryToString](propertyaccessor-binarytostring-method-outlook.md) and[PropertyAccessor.UTCToLocalTime](propertyaccessor-utctolocaltime-method-outlook.md). 
 
-For more information on getting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on getting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](./best-practices-for-getting-and-setting-properties.md).
 
 
 ## Example

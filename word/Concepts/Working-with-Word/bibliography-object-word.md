@@ -18,7 +18,7 @@ Represents the list of sources available attached to the document (in the curren
 
 ## Remarks
 
-Biblographies are composed of sources. Also see the  **[Source](source-object-word.md)** object and the **[Sources](sources-object-word.md)** collection. For more information, see[Working with Bibliographies](http://msdn.microsoft.com/library/ce05a0bd-bacd-16e1-0ab0-793a47a15da5%28Office.15%29.aspx).
+Biblographies are composed of sources. Also see the  **[Source](source-object-word.md)** object and the **[Sources](sources-object-word.md)** collection. For more information, see[Working with Bibliographies](./working-with-bibliographies.md).
 
 
 ## See also
@@ -27,6 +27,6 @@ Biblographies are composed of sources. Also see the  **[Source](source-object-wo
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Word Object Model Reference](../../../api/overview/object-model-word-vba-reference.md)
 
 

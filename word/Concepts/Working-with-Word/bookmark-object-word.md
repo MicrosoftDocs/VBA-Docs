@@ -58,7 +58,7 @@ Use the  **BookmarkID** property with a range or selection object to return the 
 MsgBox ActiveDocument.Bookmarks("temp").Range.BookmarkID
 ```
 
-You can use [predefined bookmarks](http://msdn.microsoft.com/library/aa1c6d85-fe70-8f73-5682-ae6ada65be7c%28Office.15%29.aspx)with the  **Bookmarks** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
+You can use [predefined bookmarks](../Miscellaneous/predefined-bookmarks.md)with the  **Bookmarks** property. The following example sets the bookmark named "currpara" to the location marked by the predefined bookmark named "\Para".
 
 
 
@@ -112,4 +112,4 @@ End If
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Word Object Model Reference](../../../api/overview/object-model-word-vba-reference.md)
