@@ -206,6 +206,6 @@ End Namespace
 ## See also
 
 
-[Account Object Members](http://msdn.microsoft.com/library/37759c57-d1ec-775c-cbe6-75c8f314d196%28Office.15%29.aspx)
+[Account Object Members](./overview/Outlook.md)
 [How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

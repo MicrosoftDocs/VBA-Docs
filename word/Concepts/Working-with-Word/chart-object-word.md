@@ -25,7 +25,7 @@ The Example section describes the following properties and methods for returning
 
 - The  **[Chart](inlineshape-chart-property-word.md)** property.
     
-- The  **[AddChart](http://msdn.microsoft.com/library/1b168e7b-543a-a817-51b0-8171beecc946%28Office.15%29.aspx)** method.
+- The  **[AddChart](../../../api/overview/Word.md)** method.
     
 
 
@@ -145,4 +145,4 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 #### Other resources
 
 
-[Word Object Model Reference](http://msdn.microsoft.com/library/be452561-b436-bb9b-6f94-3faa9a74a6fd%28Office.15%29.aspx)
+[Word Object Model Reference](../../../api/overview/object-model-word-vba-reference.md)

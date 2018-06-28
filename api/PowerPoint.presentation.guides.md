@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Presentation.Guides Property (PowerPoint)
 
-Returns the [Guides](http://msdn.microsoft.com/library/923ef616-0670-6ad1-2d9b-f7fe4642185b%28Office.15%29.aspx) collection associated with a custom layout. Read-only.
+Returns the [Guides](./overview/PowerPoint.md) collection associated with a custom layout. Read-only.
 
 
 ## Syntax

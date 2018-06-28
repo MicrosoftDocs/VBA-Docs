@@ -115,4 +115,4 @@ Once you've returned a reference to a  **Module** object, you can set or read it
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[Module Object Members](http://msdn.microsoft.com/library/c2e71012-645e-b818-1247-9775f221619e%28Office.15%29.aspx)
+[Module Object Members](./overview/Access.md)

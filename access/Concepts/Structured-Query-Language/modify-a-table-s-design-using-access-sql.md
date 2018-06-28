@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Modify a Table's Design Using Access SQL
 
-After you have created and populated a table, you may need to modify the table's design. To do so, use the  **[ALTER TABLE](http://msdn.microsoft.com/library/78E6C92C-E88C-E55F-6B89-435360C166A6%28Office.15%29.aspx)** statement. Be aware that altering an existing table's structure may cause you to lose some of the data. For example, changing a field's data type can result in data loss or rounding errors, depending on the data types you are using. It can also break other parts of your application that may refer to the changed field. You should always use extra caution before modifying the structure of an existing table.
+After you have created and populated a table, you may need to modify the table's design. To do so, use the  **[ALTER TABLE](../../../api/overview/Access.md)** statement. Be aware that altering an existing table's structure may cause you to lose some of the data. For example, changing a field's data type can result in data loss or rounding errors, depending on the data types you are using. It can also break other parts of your application that may refer to the changed field. You should always use extra caution before modifying the structure of an existing table.
 
 With the  **ALTER TABLE** statement, you can add, remove, or change a column (or field), and you can add or remove a constraint. You can also declare a default value for a field; however, you can alter only one field at a time. Suppose that you have an invoicing database, and you want to add a field to the Customers table. To add a field with the **ALTER TABLE** statement, use the **ADD COLUMN** clause with the name of the field, its data type, and the size of the data type, if it is required.
 
@@ -51,7 +51,7 @@ ALTER TABLE tblCustomers
 
 ```
 
-Be aware that the default value is not enclosed in single quotation marks. If it were, the quotation marks would also be inserted into the record. The  **DEFAULT** keyword can also be used in a **[CREATE TABLE](http://msdn.microsoft.com/library/FC45D36E-6E43-C030-5016-CCA8BB1379FE%28Office.15%29.aspx)** statement.
+Be aware that the default value is not enclosed in single quotation marks. If it were, the quotation marks would also be inserted into the record. The  **DEFAULT** keyword can also be used in a **[CREATE TABLE](../../../api/overview/Access.md)** statement.
 
 
 
@@ -137,7 +137,7 @@ ALTER TABLE tblInvoices
 
 ```
 
-The expression used to define a check constraint also can refer to more than one field in the same table, or to fields in other tables, and can use any operations that are valid in Microsoft Access SQL, such as  **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statements, mathematical operators, and aggregate functions. The expression that defines the check constraint can be no more than 64 characters long.
+The expression used to define a check constraint also can refer to more than one field in the same table, or to fields in other tables, and can use any operations that are valid in Microsoft Access SQL, such as  **[SELECT](../../../api/overview/Access.md)** statements, mathematical operators, and aggregate functions. The expression that defines the check constraint can be no more than 64 characters long.
 
 Suppose that you want to check each customer's credit limit before he or she is added to the Customers table. Using an  **ALTER TABLE** statement with the **ADD COLUMN** and **CONSTRAINT** clauses, create a constraint that will look up the value in the CreditLimit table to verify the customer's credit limit. Use the following SQL statements to create the tblCreditLimit table, add the CustomerLimit field to the tblCustomers table, add the check constraint to the tblCustomers table, and test the check constraint.
 
@@ -165,7 +165,7 @@ UPDATE TABLE tblCustomers
 
 ```
 
-Be aware that when you execute the  **[UPDATE TABLE](http://msdn.microsoft.com/library/08F9C3D6-C020-ECF1-5748-43B93A76DFBB%28Office.15%29.aspx)** statement, you receive a message indicating that the update did not succeed because it violated the check constraint. If you update the CustomerLimit field to a value that is equal to or less than 100, the update will succeed.
+Be aware that when you execute the  **[UPDATE TABLE](../../../api/overview/Access.md)** statement, you receive a message indicating that the update did not succeed because it violated the check constraint. If you update the CustomerLimit field to a value that is equal to or less than 100, the update will succeed.
 
 
 ## Cascading updates and deletions

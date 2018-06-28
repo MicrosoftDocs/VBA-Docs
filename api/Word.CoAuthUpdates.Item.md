@@ -40,5 +40,5 @@ CoAuthUpdate
 
 
 
-[CoAuthUpdates Object](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx)
+[CoAuthUpdates Object](./overview/Word.md)
 

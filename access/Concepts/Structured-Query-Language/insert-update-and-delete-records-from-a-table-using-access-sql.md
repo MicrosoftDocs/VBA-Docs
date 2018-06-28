@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 ## Inserting Records into a Table
 
-There are essentially two methods for adding records to a table. The first is to add one record at a time; the second is to add many records at a time. In both cases, you use the SQL statement  **[INSERT INTO](http://msdn.microsoft.com/library/D3E44258-79F2-CABA-8629-BDE03F898F2D%28Office.15%29.aspx)** to accomplish the task. **INSERT INTO** statements are commonly referred to as append queries.
+There are essentially two methods for adding records to a table. The first is to add one record at a time; the second is to add many records at a time. In both cases, you use the SQL statement  **[INSERT INTO](../../../api/overview/Access.md)** to accomplish the task. **INSERT INTO** statements are commonly referred to as append queries.
 
 To add one record to a table, you must use the field list to define which fields to put the data in, and then you must supply the data itself in a value list. To define the value list, use the  **VALUES** clause. For example, the following statement will insert the values "1", "Kelly", and "Jill" into the CustomerID, Last Name, and First Name fields, respectively.
 
@@ -34,7 +34,7 @@ INSERT INTO tblCustomers
 
 ```
 
-To add many records to a table at one time, use the  **INSERT INTO** statement along with a **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. When you are inserting records from another table, each value being inserted must be compatible with the type of field that will be receiving the data.
+To add many records to a table at one time, use the  **INSERT INTO** statement along with a **[SELECT](../../../api/overview/Access.md)** statement. When you are inserting records from another table, each value being inserted must be compatible with the type of field that will be receiving the data.
 
 The following  **INSERT INTO** statement inserts all the values in the CustomerID, Last Name, and First Name fields from the tblOldCustomers table into the corresponding fields in the tblCustomers table.
 
@@ -62,7 +62,7 @@ INSERT INTO tblCustomers
 
 ## Updating Records in a Table
 
-To modify the data that is currently in a table, you use the  **[UPDATE](http://msdn.microsoft.com/library/08F9C3D6-C020-ECF1-5748-43B93A76DFBB%28Office.15%29.aspx)** statement, which is commonly referred to as an update query. The **UPDATE** statement can modify one or more records and generally takes this form.
+To modify the data that is currently in a table, you use the  **[UPDATE](../../../api/overview/Access.md)** statement, which is commonly referred to as an update query. The **UPDATE** statement can modify one or more records and generally takes this form.
 
 
 ```sql
@@ -96,7 +96,7 @@ UPDATE tblCustomers
 
 ## Deleting Records from a Table
 
-To delete the data that is currently in a table, you use the  **[DELETE](http://msdn.microsoft.com/library/64C235BC-5B1A-0A33-714A-9933BA7A81E5%28Office.15%29.aspx)** statement, which is commonly referred to as a delete query. This is also known as truncating a table. The **DELETE** statement can remove one or more records from a table and generally takes this form:
+To delete the data that is currently in a table, you use the  **[DELETE](../../../api/overview/Access.md)** statement, which is commonly referred to as a delete query. This is also known as truncating a table. The **DELETE** statement can remove one or more records from a table and generally takes this form:
 
 
 ```sql
@@ -138,7 +138,7 @@ UPDATE tblCustomers
 
 ## Inserting Records into a Table
 
-There are essentially two methods for adding records to a table. The first is to add one record at a time; the second is to add many records at a time. In both cases, you use the SQL statement  **[INSERT INTO](http://msdn.microsoft.com/library/D3E44258-79F2-CABA-8629-BDE03F898F2D%28Office.15%29.aspx)** to accomplish the task. **INSERT INTO** statements are commonly referred to as append queries.
+There are essentially two methods for adding records to a table. The first is to add one record at a time; the second is to add many records at a time. In both cases, you use the SQL statement  **[INSERT INTO](../../../api/overview/Access.md)** to accomplish the task. **INSERT INTO** statements are commonly referred to as append queries.
 
 To add one record to a table, you must use the field list to define which fields to put the data in, and then you must supply the data itself in a value list. To define the value list, use the  **VALUES** clause. For example, the following statement will insert the values "1", "Kelly", and "Jill" into the CustomerID, Last Name, and First Name fields, respectively.
 
@@ -162,7 +162,7 @@ INSERT INTO tblCustomers
 
 ```
 
-To add many records to a table at one time, use the  **INSERT INTO** statement along with a **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. When you are inserting records from another table, each value being inserted must be compatible with the type of field that will be receiving the data.
+To add many records to a table at one time, use the  **INSERT INTO** statement along with a **[SELECT](../../../api/overview/Access.md)** statement. When you are inserting records from another table, each value being inserted must be compatible with the type of field that will be receiving the data.
 
 The following  **INSERT INTO** statement inserts all the values in the CustomerID, Last Name, and First Name fields from the tblOldCustomers table into the corresponding fields in the tblCustomers table.
 
@@ -190,7 +190,7 @@ INSERT INTO tblCustomers
 
 ## Updating Records in a Table
 
-To modify the data that is currently in a table, you use the  **[UPDATE](http://msdn.microsoft.com/library/08F9C3D6-C020-ECF1-5748-43B93A76DFBB%28Office.15%29.aspx)** statement, which is commonly referred to as an update query. The **UPDATE** statement can modify one or more records and generally takes this form:
+To modify the data that is currently in a table, you use the  **[UPDATE](../../../api/overview/Access.md)** statement, which is commonly referred to as an update query. The **UPDATE** statement can modify one or more records and generally takes this form:
 
 
 ```sql
@@ -224,7 +224,7 @@ UPDATE tblCustomers
 
 ## Deleting Records from a Table
 
-To delete the data that is currently in a table, you use the  **[DELETE](http://msdn.microsoft.com/library/64C235BC-5B1A-0A33-714A-9933BA7A81E5%28Office.15%29.aspx)** statement, which is commonly referred to as a delete query. This is also known as truncating a table. The **DELETE** statement can remove one or more records from a table and generally takes this form:
+To delete the data that is currently in a table, you use the  **[DELETE](../../../api/overview/Access.md)** statement, which is commonly referred to as a delete query. This is also known as truncating a table. The **DELETE** statement can remove one or more records from a table and generally takes this form:
 
 
 ```sql

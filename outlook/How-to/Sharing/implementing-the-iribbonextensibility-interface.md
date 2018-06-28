@@ -13,7 +13,7 @@ A Microsoft Outlook add-in that customizes the ribbon, shortcut menus, new-item 
 
 -  **IDTExtensibility2**
     
--  **[IRibbonExtensibility](http://msdn.microsoft.com/library/b27a7576-b6f5-031e-e307-78ef5f8507e0%28Office.15%29.aspx)**
+-  **[IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md)**
     
 
 In Visual C# and Visual Basic add-ins, you must implement these interfaces in the same class.
@@ -65,7 +65,7 @@ Because a base message class shares the same ribbon XML with the custom message 
 
 1. In  **GetCustomUI**, return the XML markup for the ribbon ID for the custom message class (for example, IPM.Contact.ShoeStore) to the ribbon. All ribbons that are used by items with the same base message class (for example, IPM.Contact) will contain the added controls.
     
-2.  In the ribbon XML, specify **[IRibbonControl.Context](http://msdn.microsoft.com/library/39f9d85a-00e9-9682-3957-51d9e72b4d83%28Office.15%29.aspx)** callbacks for each tab, group, and control that is specific to the custom message class. These callbacks will be used to display the controls for the custom message class and to hide the controls for the base message class and all other message classes with the same base message class.
+2.  In the ribbon XML, specify **[IRibbonControl.Context](../../../api/Office.IRibbonControl.Context.md)** callbacks for each tab, group, and control that is specific to the custom message class. These callbacks will be used to display the controls for the custom message class and to hide the controls for the base message class and all other message classes with the same base message class.
     
 3.  In each **getVisible** callback, cast the **IRibbonControl.Context** parameter that is passed to the callback to an Outlook **[Inspector](inspector-object-outlook.md)** object. Use the **MessageClass** property of **[Inspector.CurrentItem](inspector-currentitem-property-outlook.md)** to determine whether to return **True** or **False** in the **getVisible** callback.
     
@@ -75,7 +75,7 @@ To customize the ribbon on all or multiple Outlook message classes, use the foll
     
 - To customize the ribbon on multiple Outlook inspectors, you might have to supply separate ribbon XML for different ribbon IDs depending upon the tab name.
     
-For more information, including examples, about customizing explorer and inspector ribbons, shortcut menus, and Backstage view, see  [Extending the User Interface in Outlook 2010](http://msdn.microsoft.com/library/00b504b0-e897-43b9-8615-44276166823f.aspx) on the MSDN Web site.
+For more information, including examples, about customizing explorer and inspector ribbons, shortcut menus, and Backstage view, see  [Extending the User Interface in Outlook 2010](../../../api/overview/Outlook.md) on the MSDN Web site.
 
 ## See also
 

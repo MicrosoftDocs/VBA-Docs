@@ -70,8 +70,8 @@ End With
 |[CollapseOutline](Word.View.CollapseOutline.md)|
 |[ExpandAllHeadings](Word.view.expandallheadings.md)|
 |[ExpandOutline](Word.View.ExpandOutline.md)|
-|[ForceLowresUpdate](http://msdn.microsoft.com/library/85f017eb-8506-53ad-d9f8-beb759572cde%28Office.15%29.aspx)|
-|[ForceOffscreenUpdate](http://msdn.microsoft.com/library/d1394841-4cd2-0e3f-b4be-116baf1110b3%28Office.15%29.aspx)|
+|[ForceLowresUpdate](./overview/Word.md)|
+|[ForceOffscreenUpdate](./overview/Word.md)|
 |[NextHeaderFooter](Word.View.NextHeaderFooter.md)|
 |[PreviousHeaderFooter](Word.View.PreviousHeaderFooter.md)|
 |[ShowAllHeadings](Word.View.ShowAllHeadings.md)|

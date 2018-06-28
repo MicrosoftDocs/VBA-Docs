@@ -444,7 +444,7 @@ You can often reduce the number of volatile functions by using **INDEX** instead
 
 ### Use C or C++ user-defined functions
 
-User-defined functions that are programmed in C or C++ and that use the C API (XLL add-in functions) generally perform faster than user-defined functions that are developed by using VBA or Automation (XLA or Automation add-ins). For more information, see  [Developing Excel 2010 XLLs](http://msdn.microsoft.com/library/dd27ae4d-ef97-47db-885c-ddd955816900%28Office.14%29.aspx).
+User-defined functions that are programmed in C or C++ and that use the C API (XLL add-in functions) generally perform faster than user-defined functions that are developed by using VBA or Automation (XLA or Automation add-ins). For more information, see  [Developing Excel 2010 XLLs](../../../api/overview/Excel.md).
 
 The performance of VBA user-defined functions is sensitive to how you program and call them.
 
@@ -708,7 +708,7 @@ The following is a list of additional performance optimizations you can use in y
 
 - Use the **Range.SpecialCells** method to scope down the number of cells with which your code interacts.
 
-- Consider the performance gains if you implemented your functionality by using the C API in the XLL SDK. For more information, see the  [Excel 2010 XLL SDK Documentation](http://msdn.microsoft.com/library/abfc9d76-6f22-49b9-ba45-eb7a54b082e0%28Office.14%29.aspx).
+- Consider the performance gains if you implemented your functionality by using the C API in the XLL SDK. For more information, see the  [Excel 2010 XLL SDK Documentation](../../../api/overview/Excel.md).
 
 ## Consider performance and size of Excel file formats
 

@@ -14,7 +14,7 @@ Sending an email message with one or more attachments is easy, both in the Outlo
 
 For example, imagine that your application requires converting the text in all attachments that have a .txt extension to uppercase. In a managed Outlook add-in, you can easily handle the  **ItemSend** event. In that event, perform the work before sending the mail item. The difficult part of the scenario is in retrieving the contents of the attachments to modify the contents of each text file.
 
-The sample code in this topic demonstrates how to solve this particular problem, using the  **GetProperty(String)** and **SetProperty(String, Object)** methods of the **Attachment** interface. In each case, you supply a value that contains the MAPI property [PidTagAttachDataBinary](http://msdn.microsoft.com/library/3b0a8b28-863e-4b96-a4c0-fdb8f40555b9%28Office.15%29.aspx) to obtain (and then set) the contents of the attachment.
+The sample code in this topic demonstrates how to solve this particular problem, using the  **GetProperty(String)** and **SetProperty(String, Object)** methods of the **Attachment** interface. In each case, you supply a value that contains the MAPI property [PidTagAttachDataBinary](../../../api/overview/Outlook.md) to obtain (and then set) the contents of the attachment.
 
  **Note**  The namespace representation of the  **PidTagAttachDataBinary** property is http://schemas.microsoft.com/mapi/proptag/0x37010102. For more information about using the **PropertyAccessor** object on properties that are referenced by namespace, see [Referencing Properties by Namespace](referencing-properties-by-namespace.md).
 

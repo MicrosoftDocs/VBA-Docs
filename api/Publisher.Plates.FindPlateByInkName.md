@@ -38,7 +38,7 @@ Plate
 
 ## Remarks
 
-The InkName parameter can be one of the  ** [PbInkName](http://msdn.microsoft.com/library/69e335b8-40b8-c984-84b6-64073a8ed7ab%28Office.15%29.aspx)** constants declared in the Microsoft Publisher type library.
+The InkName parameter can be one of the  ** [PbInkName](./overview/Publisher.md)** constants declared in the Microsoft Publisher type library.
 
 Process colors are assigned different index numbers in the  **Plates** collection than in the **PrintablePlates** collection. Use the **FindPlateByInkName** method to insure that the desired **Plate** or **PrintablePlate** object is accessed.
 

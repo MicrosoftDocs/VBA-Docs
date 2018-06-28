@@ -122,4 +122,4 @@ End Sub
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[Stores Object Members](http://msdn.microsoft.com/library/f3fec99a-54b2-c13e-d96a-c8c5e2429f99%28Office.15%29.aspx)
+[Stores Object Members](./overview/Outlook.md)

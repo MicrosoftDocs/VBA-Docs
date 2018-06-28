@@ -132,5 +132,5 @@ An option group can also be set to an expression, or it can be unbound. You can 
 ## See also
 
 
-[OptionGroup Object Members](http://msdn.microsoft.com/library/90e68eb2-20f2-510c-4332-241eeac27f14%28Office.15%29.aspx)
+[OptionGroup Object Members](./overview/Access.md)
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)

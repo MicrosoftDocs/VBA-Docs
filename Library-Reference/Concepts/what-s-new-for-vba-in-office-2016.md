@@ -20,8 +20,8 @@ The following tables summarize the new VBA language updates for Office 2016.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|**[CodeProject.IsSQLBackend Property (Access)](http://msdn.microsoft.com/library/c0b0f9bb-5ad4-69c1-9553-2caf420870f1%28Office.15%29.aspx)**|Returns the  **Boolean** value **true** if the code project was created in Access 2013 and newer, and **false** if otherwise.|
-|**[CurrentProject.IsSQLBackend Property (Access)](http://msdn.microsoft.com/library/39e312e0-9b58-e1fe-7a98-be5e225a3c0c%28Office.15%29.aspx)**|Returns  **true** if the current project was created in Access 2013 and onwards and **false** if the current project was created prior to Access 2013. Read-only **Boolean**.|
+|**[CodeProject.IsSQLBackend Property (Access)](../../api/overview/Library-Reference.md)**|Returns the  **Boolean** value **true** if the code project was created in Access 2013 and newer, and **false** if otherwise.|
+|**[CurrentProject.IsSQLBackend Property (Access)](../../api/overview/Library-Reference.md)**|Returns  **true** if the current project was created in Access 2013 and onwards and **false** if the current project was created prior to Access 2013. Read-only **Boolean**.|
 
 ## Excel
 
@@ -121,7 +121,7 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[Queries.Parent Property (Excel)](../../api/Excel.queries.parent.md)**|Returns the parent object for the specified object. Read-only.|
 |**[Series.ParentDataLabelOption Property (Excel)](../../api/Excel.series.parentdatalabeloption.md)**|Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XLParentDataLabelOptions](../../api/Excel.xlparentdatalabeloptions.md).|
 |**[Series.QuartileCalculationInclusiveMedian Property (Excel)](../../api/Excel.series.quartilecalculationinclusivemedian.md)**|**True** if the series uses an inclusive median quartile calculation method. Read/write **Boolean**.|
-|**[SoundNote Object (Excel)](http://msdn.microsoft.com/library/518e9707-4696-e7ad-7547-b746131e311b%28Office.15%29.aspx)**|Represents a recorded sound note.|
+|**[SoundNote Object (Excel)](../../api/overview/Library-Reference.md)**|Represents a recorded sound note.|
 |**[SoundNote.Application Property (Excel)](../../api/Excel.soundnote.application.md)**|When used without an object qualifier, this property returns an [Application](../../api/Excel.Application(objec).md) object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an Application object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.|
 |**[SoundNote.Creator Property (Excel)](../../api/Excel.soundnote.creator.md)**|Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.|
 |**[SoundNote.Parent Property (Excel)](../../api/Excel.soundnote.parent.md)**|Returns the parent object for the specified object. Read-only.|
@@ -170,7 +170,7 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[OlDisplayMode Enumeration (Outlook)](../../api/Outlook.oldisplaymode.md)**|Describes the nature of the display mode. Possible modes include Normal, Portrait View, and Portrait Reading Pane.|
 |**[OlUnifiedGroupFolderType Enumeration (Outlook)](../../api/Outlook.olunifiedgroupfoldertype.md)**|Specifies the folder to be obtained for unified groups. Because groups have both a mail and a calendar folder, you can specify either the  **olGroupMailFolder** or **olGroupCalendarFolder**.|
 |**[OlUnifiedGroupType Enumeration (Outlook)](../../api/Outlook.olunifiedgrouptype.md)**|Specifies the group type as public or private for the [CreateUnifiedGroup](../../api/Outlook.store.createunifiedgroup.md) method.|
-|**[PreviewPane Members (Outlook)](http://msdn.microsoft.com/library/42ded67c-b3cb-a479-a110-fd3db9548d3b%28Office.15%29.aspx)**|Displays content in a "single pane mode" by showing only the Preview Pane view.|
+|**[PreviewPane Members (Outlook)](../../api/overview/Library-Reference.md)**|Displays content in a "single pane mode" by showing only the Preview Pane view.|
 |**[PreviewPane Object (Outlook)](../../api/Outlook.previewpane.md)**|Displays content in a "single pane mode" by showing only the Preview Pane view.|
 |**[PreviewPane.Application Property (Outlook)](../../api/Outlook.previewpane.application.md)**|Returns the [Application](../../api/Outlook.Application.md) object that represents the parent application (Outlook) for the[PreviewPane](../../api/Outlook.previewpane.md) Object. Read-only.|
 |**[PreviewPane.Class Property (Outlook)](../../api/Outlook.previewpane.class.md)**|Returns a constant in the [OlObjectClass](../../api/Outlook.OlObjectClass.md) enumeration indicating the class of the[PreviewPane](../../api/Outlook.previewpane.md) Object. Read-only.|
@@ -204,7 +204,7 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[Application.UpdateEngagementsForProject Method (Project)](../../api/Project.application.updateengagementsforproject.md)**|Update the Engagements for a Project.|
 |**[Assignment.Compliant Property (Project)](../../api/Project.assignment.compliant.md)**|Gets the compliant for a task assignment in Project. Read-only.|
 |**[Cell.Engagement Property (Project)](../../api/Project.cell.engagement.md)**|Gets or sets the engagement resource for a cell.|
-|**[Chart Members (Project)](http://msdn.microsoft.com/library/7632e4dd-46f3-e463-5623-e8f2b2096390%28Office.15%29.aspx)**|The  **Chart** object represents a chart on a report in Project.|
+|**[Chart Members (Project)](../../api/overview/Library-Reference.md)**|The  **Chart** object represents a chart on a report in Project.|
 |**[Engagement Object (Project)](../../api/Project.engagement.md)**||
 |**[Engagement.Application Property (Project)](../../api/Project.engagement.application.md)**||
 |**[Engagement.Comments Property (Project)](../../api/Project.engagement.comments.md)**||
@@ -243,9 +243,9 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[Engagement.SubmittedByGuid Property (Project)](../../api/Project.engagement.submittedbyguid.md)**||
 |**[Engagement.SubmittedByName Property (Project)](../../api/Project.engagement.submittedbyname.md)**||
 |**[Engagement.SubmittedDate Property (Project)](../../api/Project.engagement.submitteddate.md)**||
-|**[EngagementComment Members (Project)](http://msdn.microsoft.com/library/739c0d51-7f6a-90d6-5160-c8634c6dffe3%28Office.15%29.aspx)**||
+|**[EngagementComment Members (Project)](../../api/overview/Library-Reference.md)**||
 |**[EngagementComment Object (Project)](../../api/Project.engagementcomment.md)**||
-|**[EngagementComment Properties (Project)](http://msdn.microsoft.com/library/32d609b0-8df1-0eaa-d9f9-7735bd5e5289%28Office.15%29.aspx)**||
+|**[EngagementComment Properties (Project)](../../api/overview/Library-Reference.md)**||
 |**[EngagementComment.Application Property (Project)](../../api/Project.engagementcomment.application.md)**||
 |**[EngagementComment.AuthorResEmail Property (Project)](../../api/Project.engagementcomment.authorresemail.md)**||
 |**[EngagementComment.AuthorResGuid Property (Project)](../../api/Project.engagementcomment.authorresguid.md)**||
@@ -254,19 +254,19 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[EngagementComment.Guid Property (Project)](../../api/Project.engagementcomment.guid.md)**||
 |**[EngagementComment.Message Property (Project)](../../api/Project.engagementcomment.message.md)**||
 |**[EngagementComment.Parent Property (Project)](../../api/Project.engagementcomment.parent.md)**||
-|**[EngagementComments Members (Project)](http://msdn.microsoft.com/library/5d231a50-8c3a-c299-b5c9-81da32fedccc%28Office.15%29.aspx)**||
-|**[EngagementComments Methods (Project)](http://msdn.microsoft.com/library/8c5db094-4141-bdcc-392f-ded97b647004%28Office.15%29.aspx)**||
+|**[EngagementComments Members (Project)](../../api/overview/Library-Reference.md)**||
+|**[EngagementComments Methods (Project)](../../api/overview/Library-Reference.md)**||
 |**[EngagementComments Object (Project)](../../api/Project.engagementcomments.md)**||
-|**[EngagementComments Properties (Project)](http://msdn.microsoft.com/library/335727af-b898-0629-adee-e3c9d6c89fc4%28Office.15%29.aspx)**||
+|**[EngagementComments Properties (Project)](../../api/overview/Library-Reference.md)**||
 |**[EngagementComments.Add Method (Project)](../../api/Project.engagementcomments.add.md)**||
 |**[EngagementComments.Application Property (Project)](../../api/Project.engagementcomments.application.md)**||
 |**[EngagementComments.Count Property (Project)](../../api/Project.engagementcomments.count.md)**||
 |**[EngagementComments.Item Property (Project)](../../api/Project.engagementcomments.item.md)**||
 |**[EngagementComments.Parent Property (Project)](../../api/Project.engagementcomments.parent.md)**||
-|**[Engagements Members (Project)](http://msdn.microsoft.com/library/a1851a7d-96e5-c523-4ccb-66c5a91220b0%28Office.15%29.aspx)**||
-|**[Engagements Methods (Project)](http://msdn.microsoft.com/library/d8eb0c5a-dc7d-1e42-ac23-882b3bfd06e1%28Office.15%29.aspx)**||
+|**[Engagements Members (Project)](../../api/overview/Library-Reference.md)**||
+|**[Engagements Methods (Project)](../../api/overview/Library-Reference.md)**||
 |**[Engagements Object (Project)](../../api/Project.engagements.md)**||
-|**[Engagements Properties (Project)](http://msdn.microsoft.com/library/0a07b5a0-8eae-3b6e-e290-25ab0ef63b32%28Office.15%29.aspx)**||
+|**[Engagements Properties (Project)](../../api/overview/Library-Reference.md)**||
 |**[Engagements.Add Method (Project)](../../api/Project.engagements.add.md)**||
 |**[Engagements.Application Property (Project)](../../api/Project.engagements.application.md)**||
 |**[Engagements.Count Property (Project)](../../api/Project.engagements.count.md)**||
@@ -297,9 +297,9 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[Resource.EngagementProposedWork Property (Project)](../../api/Project.resource.engagementproposedwork.md)**|Returns the proposed work for the engagement. Read-only  **Double**.|
 |**[Resource.IsLocked Property (Project)](../../api/Project.resource.islocked.md)**|Indicates whether the resource is or is not locked. If resource is locked, you need an engagement for a resource. Read-only Return  **Boolean**.|
 |**[Task.Compliant Property (Project)](../../api/Project.task.compliant.md)**||
-|**[Timeline Members (Project)](http://msdn.microsoft.com/library/ac50eced-d876-ee09-f8f4-01fb2272ddf0%28Office.15%29.aspx)**||
+|**[Timeline Members (Project)](../../api/overview/Library-Reference.md)**||
 |**[Timeline Object (Project)](../../api/Project.timeline.md)**||
-|**[Timeline Properties (Project)](http://msdn.microsoft.com/library/37a5da93-b5b1-dca7-2fac-0cdd5baa3f61%28Office.15%29.aspx)**||
+|**[Timeline Properties (Project)](../../api/overview/Library-Reference.md)**||
 |**[Timeline.Application Property (Project)](../../api/Project.timeline.application.md)**|Gets the Project  **Application** object.|
 |**[Timeline.BarCount Property (Project)](../../api/Project.timeline.barcount.md)**|Indicates the number of bars in a  **Timeline** view.|
 |**[Timeline.FinishDate Property (Project)](../../api/Project.timeline.finishdate.md)**|Indicates the finish date for a  **Timeline** bar based on the input argument.|
@@ -345,16 +345,16 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**Name**|**Description**|
 |:-----|:-----|
 |**[Document.Permission Property (Visio)](../../api/Visio.document.permission.md)**||
-|**[IVInvisibleApp.Application Property (Visio)](http://msdn.microsoft.com/library/5f84769f-404f-9766-4d25-41ef7dfed324%28Office.15%29.aspx)**||
-|**[IVKeyboardEvent.Application Property (Visio)](http://msdn.microsoft.com/library/9eefdda1-02c9-e256-a57a-1862a59695cf%28Office.15%29.aspx)**||
-|**[IVMouseEvent.Application Property (Visio)](http://msdn.microsoft.com/library/dc74f482-2807-3480-8bfc-e8b915f0dff8%28Office.15%29.aspx)**||
+|**[IVInvisibleApp.Application Property (Visio)](../../api/overview/Library-Reference.md)**||
+|**[IVKeyboardEvent.Application Property (Visio)](../../api/overview/Library-Reference.md)**||
+|**[IVMouseEvent.Application Property (Visio)](../../api/overview/Library-Reference.md)**||
 |**[Master.VisualBoundingBox Method (Visio)](../../api/Visio.master.visualboundingbox.md)**|Returns the bounding rectangle of the virtual container that has all the shapes of the given master.|
 |**[Page.VisualBoundingBox Method (Visio)](../../api/Visio.page.visualboundingbox.md)**|Returns the bounding rectangle of the virtual container that has all the shapes of the given page.|
 |**[Selection.VisualBoundingBox Method (Visio)](../../api/Visio.selection.visualboundingbox.md)**|Returns the bounding rectangle of the virtual container that has all the shapes of the given selection.|
 |**[Shape.VisualBoundingBox Method (Visio)](../../api/Visio.shape.visualboundingbox.md)**|Returns the bounding rectangle of the given shape.|
 |**[ValidationIssues.Stat Property (Visio)](../../api/Visio.validationissues.stat.md)**||
-|**[VisColoringMethod Enumeration (Visio)](http://msdn.microsoft.com/library/d39f02dc-36ef-fdd4-62b1-0bfc4d7d2433%28Office.15%29.aspx)**||
-|**[VisRecordsetFieldStatus Enumeration (Visio)](http://msdn.microsoft.com/library/532bc905-1227-eca4-ec7b-d87f7dfb8bb6%28Office.15%29.aspx)**||
+|**[VisColoringMethod Enumeration (Visio)](../../api/overview/Library-Reference.md)**||
+|**[VisRecordsetFieldStatus Enumeration (Visio)](../../api/overview/Library-Reference.md)**||
 
 ## Word
 

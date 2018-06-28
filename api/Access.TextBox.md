@@ -229,4 +229,4 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>
-[TextBox Object Members](http://msdn.microsoft.com/library/bb55abbc-902e-fc2d-bdff-063c55426cd0%28Office.15%29.aspx)
+[TextBox Object Members](./overview/Access.md)

@@ -151,5 +151,5 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 ## See also
 
 
-[Label Object Members](http://msdn.microsoft.com/library/a47442ed-c770-49a4-3bd1-76e3e05bddca%28Office.15%29.aspx)<br/>
+[Label Object Members](./overview/Access.md)<br/>
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)

@@ -188,5 +188,5 @@ myItem.Send
 ## See also
 
 
-[MeetingItem Object Members](http://msdn.microsoft.com/library/9ae6a19d-d326-4c37-90d8-5ed9933672a0%28Office.15%29.aspx)
+[MeetingItem Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

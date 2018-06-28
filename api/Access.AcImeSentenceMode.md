@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcImeSentenceMode Enumeration (Access)
 
-Used with the [IMESentenceMode](http://msdn.microsoft.com/library/1c27036e-cad0-4046-b78c-93de987f85ce%28Office.15%29.aspx) property to specify the IME sentence mode for the IMM.
+Used with the [IMESentenceMode](./overview/Access.md) property to specify the IME sentence mode for the IMM.
 
 
 

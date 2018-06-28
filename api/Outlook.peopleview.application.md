@@ -25,5 +25,5 @@ Returns an [Application](Outlook.Application.md) object that represents the pare
 
 
 [PeopleView Object](Outlook.peopleview.md)
-[PeopleView Members](http://msdn.microsoft.com/library/87b0295a-ab7d-28dd-cdf8-7e4331c3b802%28Office.15%29.aspx)
+[PeopleView Members](./overview/Outlook.md)
 

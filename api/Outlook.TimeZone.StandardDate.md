@@ -25,7 +25,7 @@ Returns a  **Date** value that represents the date and time in this time zone wh
 
 ## Remarks
 
-This value is stored as part of the  **TZI** value for the time zone in the Windows registry. The **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](http://msdn.microsoft.com/library/base.time_zone_information_str%28Office.15%29.aspx)** structure.
+This value is stored as part of the  **TZI** value for the time zone in the Windows registry. The **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](./overview/Outlook.md)** structure.
 
 
 ## See also

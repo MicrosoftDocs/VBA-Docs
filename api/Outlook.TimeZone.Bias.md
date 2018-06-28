@@ -25,7 +25,7 @@ Returns a  **Long** value that represents the difference in minutes of between t
 
 ## Remarks
 
-This value is stored as part of the value for  **TZI** for that time zone in the Windows registry. The **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](http://msdn.microsoft.com/library/base.time_zone_information_str%28Office.15%29.aspx)** structure.
+This value is stored as part of the value for  **TZI** for that time zone in the Windows registry. The **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](./overview/Outlook.md)** structure.
 
  **Bias** does not take into account any time offset for daylight time or standard time in the time zone. To account for any daylight time offset, use **[DaylightBias](Outlook.TimeZone.DaylightBias.md)** . In general, when the local time zone is adopting daylight time, UTC time is the result of adding the **Bias** and **DaylightBias** to the local time. To account for any standard time offset, use **[StandardBias](Outlook.TimeZone.StandardBias.md)** . In general, when the local time zone is adopting standard time, UTC time is the result of adding the **Bias** and **StandardBias** to the local time.
 

@@ -107,5 +107,5 @@ Represents the window in which the contents of a folder are displayed.
 ## See also
 
 
-[Explorer Object Members](http://msdn.microsoft.com/library/4412c507-4dcd-6005-b9c8-11824624250d%28Office.15%29.aspx)
+[Explorer Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

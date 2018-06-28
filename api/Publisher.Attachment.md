@@ -71,4 +71,4 @@ End Sub
 ## See also
 
 
-[Attachment Object Members](http://msdn.microsoft.com/library/594cf3eb-73d8-afa9-b598-ab68066dde8b%28Office.15%29.aspx)
+[Attachment Object Members](./overview/Publisher.md)

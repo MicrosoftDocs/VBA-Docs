@@ -399,4 +399,4 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>
-[ComboBox Object Members](http://msdn.microsoft.com/library/d0d83ca3-3698-295e-5335-7d0816557d6b%28Office.15%29.aspx)
+[ComboBox Object Members](./overview/Access.md)

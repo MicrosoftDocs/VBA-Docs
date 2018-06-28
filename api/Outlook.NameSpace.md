@@ -94,6 +94,6 @@ The only data source supported is MAPI, which allows access to all Outlook data 
 ## See also
 
 
-[NameSpace Object Members](http://msdn.microsoft.com/library/d7a978a3-a2c8-6195-c5f8-af8773500456%28Office.15%29.aspx)
+[NameSpace Object Members](./overview/Outlook.md)
 [How to: Obtain and Log On to an Instance of Outlook](../outlook/How-to/Security/obtain-and-log-on-to-an-instance-of-outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

@@ -130,5 +130,5 @@ End Sub
 ## See also
 
 
-[Table Object Members](http://msdn.microsoft.com/library/bd9db35d-0738-22cf-a936-425d5a0ead87%28Office.15%29.aspx)
+[Table Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

@@ -90,6 +90,6 @@ myRecipient.Type = olCC
 ## See also
 
 
-[Recipient Object Members](http://msdn.microsoft.com/library/70e34018-95de-7fcf-1331-9be61a8675a2%28Office.15%29.aspx)
+[Recipient Object Members](./overview/Outlook.md)
 [How to: Obtain the E-mail Address of a Recipient](../outlook/Concepts/Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

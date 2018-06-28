@@ -142,10 +142,10 @@ End Sub
 |[RemovePersonalInformation](./Access.CurrentProject.RemovePersonalInformation.md)|
 |[Resources](./Access.CurrentProject.Resources.md)|
 |[WebSite](./Access.CurrentProject.WebSite.md)|
-|[IsSQLBackend](http://msdn.microsoft.com/library/39e312e0-9b58-e1fe-7a98-be5e225a3c0c%28Office.15%29.aspx)|
+|[IsSQLBackend](./overview/Access.md)|
 
 ## See also
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[CurrentProject Object Members](http://msdn.microsoft.com/library/adb319f1-487a-d7d1-5755-d57c31c776b8%28Office.15%29.aspx)
+[CurrentProject Object Members](./overview/Access.md)

@@ -17,7 +17,7 @@ Saves the current Web page settings to the registry.
 
  _expression_. **SaveSettings**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](http://msdn.microsoft.com/library/c4675de8-0f63-179f-f687-8962d54d6b2f%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
 ### Return Value

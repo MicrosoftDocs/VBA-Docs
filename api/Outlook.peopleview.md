@@ -21,5 +21,5 @@ Version Added: Outlook 2013
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[PeopleView Object Members](http://msdn.microsoft.com/library/87b0295a-ab7d-28dd-cdf8-7e4331c3b802%28Office.15%29.aspx)
+[PeopleView Object Members](./overview/Outlook.md)
 

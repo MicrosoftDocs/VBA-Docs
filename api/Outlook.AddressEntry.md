@@ -71,4 +71,4 @@ Set myAddressEntry = myRecipient.AddressEntry
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[AddressEntry Object Members](http://msdn.microsoft.com/library/74c88069-aec4-952b-556f-03873fbb488b%28Office.15%29.aspx)
+[AddressEntry Object Members](./overview/Outlook.md)

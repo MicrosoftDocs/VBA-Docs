@@ -154,5 +154,5 @@ Use  **[SelectedTab](./Access.NavigationControl.SelectedTab.md)** property to re
 ## See also
 
 
-[NavigationControl Object Members](http://msdn.microsoft.com/library/c972327e-9b46-f9fb-d69d-104d1d130ee4%28Office.15%29.aspx)
+[NavigationControl Object Members](./overview/Access.md)
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)

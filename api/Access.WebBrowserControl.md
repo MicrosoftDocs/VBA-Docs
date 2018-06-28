@@ -144,4 +144,4 @@ Use the [ControlSource](./Access.WebBrowserControl.ControlSource.md) property to
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[WebBrowserControl Object Members](http://msdn.microsoft.com/library/bd19a10a-fbbc-5fd6-0818-23a377be9583%28Office.15%29.aspx)
+[WebBrowserControl Object Members](./overview/Access.md)

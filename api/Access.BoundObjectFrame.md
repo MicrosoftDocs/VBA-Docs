@@ -24,7 +24,7 @@ A bound object frame is bound to a field in an underlying table.
 
 The field in the underlying table to which the bound object frame is bound must be of the OLE Object data type.
 
-The object in a bound object frame is different for each record. The bound object frame can display linked or embedded objects. If you want to display objects not stored in an underlying table, use an [unbound object frame](http://msdn.microsoft.com/library/4a0874dc-ecac-be7c-25e2-ecc79696e2eb%28Office.15%29.aspx)or an [image control](http://msdn.microsoft.com/library/1f938a6e-7aea-7787-d959-e21edaa9342c%28Office.15%29.aspx).
+The object in a bound object frame is different for each record. The bound object frame can display linked or embedded objects. If you want to display objects not stored in an underlying table, use an [unbound object frame](./overview/Access.md)or an [image control](./overview/Access.md).
 
 
 ## Methods
@@ -149,5 +149,5 @@ The object in a bound object frame is different for each record. The bound objec
 ## See also
 
 
-[BoundObjectFrame Object Members](http://msdn.microsoft.com/library/e2bbeb0c-1b13-5953-999a-4a0b93cb3ec7%28Office.15%29.aspx)
+[BoundObjectFrame Object Members](./overview/Access.md)
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)

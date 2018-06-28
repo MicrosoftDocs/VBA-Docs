@@ -109,4 +109,4 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[Controls Object Members](http://msdn.microsoft.com/library/e82f868f-9c18-7845-d476-f6399c441e97%28Office.15%29.aspx)
+[Controls Object Members](./overview/Access.md)

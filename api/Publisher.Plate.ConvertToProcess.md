@@ -25,7 +25,7 @@ Converts the specified plate from spot color to process.
 
 ## Remarks
 
-The  **ConvertToProcess** method is only accessible if the publication's color mode has been set to process and spot color inks. Use the ** [EnterColorMode](http://msdn.microsoft.com/library/3c04275d-d274-f681-7391-139a54232a3b%28Office.15%29.aspx)** method of the **[Document](Publisher.Document.md)** object to specify a publication's color mode.
+The  **ConvertToProcess** method is only accessible if the publication's color mode has been set to process and spot color inks. Use the ** [EnterColorMode](./overview/Publisher.md)** method of the **[Document](Publisher.Document.md)** object to specify a publication's color mode.
 
 Returns "Permission Denied" when applied to a spot color plate. When the color mode includes process color, the process color inks (black, magenta, yellow and cyan) are the first four plates in the  **[Plates](Publisher.Plates.md)** collection.
 

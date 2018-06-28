@@ -18,7 +18,7 @@ A collection of  **[CustomProperty](Word.CustomProperty.md)** objects that repre
 
 ## Remarks
 
-Use the  **[Properties](http://msdn.microsoft.com/library/c9f81907-e257-85cd-bc65-5b614e905738%28Office.15%29.aspx)** property to return a single **CustomProperties** object. Use the **[Add](Word.CustomProperties.Add.md)** method of the **CustomProperties** object with to create a custom property from within a Microsoft Word Visual Basic for Applications project. This example creates a new property for the first smart tag in the active document and displays the XML code used for the tag.
+Use the  **[Properties](./overview/Word.md)** property to return a single **CustomProperties** object. Use the **[Add](Word.CustomProperties.Add.md)** method of the **CustomProperties** object with to create a custom property from within a Microsoft Word Visual Basic for Applications project. This example creates a new property for the first smart tag in the active document and displays the XML code used for the tag.
 
 
 ```vb

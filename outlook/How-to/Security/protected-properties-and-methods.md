@@ -45,7 +45,7 @@ For more information on security warnings, see  [Outlook Object Model Security P
 | [JournalItem](../../../api/Outlook.JournalItem.md)|Body, ContactNames, PropertyAccessor|SaveAs|
 | [MailItem](../../../api/Outlook.MailItem.md)|Bcc, Body, Cc, HTMLBody, PropertyAccessor, ReceivedByName, ReceivedOnBehalfOfName, Recipients, ReplyRecipientNames, RTFBody, Sender, SenderEmailAddress, SenderEmailType, SenderName, SentOnBehalfOfName, To|SaveAs, Send2|
 | [MeetingItem](../../../api/Outlook.MeetingItem.md)|Body, PropertyAccessor, Recipients, RTFBody, SenderName|SaveAs|
-| [MobileItem](http://msdn.microsoft.com/library/da8149d5-66d3-ea02-941f-e7f2f9eb6bc3%28Office.15%29.aspx)|Body, HTMLBody, PropertyAccessor, ReceivedByName, Recipients, ReplyRecipientNames, SenderEmailAddress, SenderEmailType, SenderName, SMILBody, To|SaveAs, Send2|
+| [MobileItem](../../../api/overview/Outlook.md)|Body, HTMLBody, PropertyAccessor, ReceivedByName, Recipients, ReplyRecipientNames, SenderEmailAddress, SenderEmailType, SenderName, SMILBody, To|SaveAs, Send2|
 | [NameSpace](../../../api/Outlook.NameSpace.md)|CurrentUser, SelectNamesDialog|GetAddressEntryFromID, GetRecipientFromID|
 | [NoteItem](../../../api/Outlook.NoteItem.md)|Body, PropertyAccessor||
 | [PostItem](../../../api/Outlook.PostItem.md)|Body, HTMLBody, PropertyAccessor, RTFBody, SenderName|SaveAs|

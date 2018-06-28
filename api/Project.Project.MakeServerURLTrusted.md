@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.MakeServerURLTrusted Method (Project)
 
-Adds the URL specified in the  **[ServerURL](http://msdn.microsoft.com/library/a204c795-73a3-4ce2-a582-3afd951914c7%28Office.15%29.aspx)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.
+Adds the URL specified in the  **[ServerURL](./overview/Project.md)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.
 
 
 ## Syntax

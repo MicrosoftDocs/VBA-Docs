@@ -77,4 +77,4 @@ myRecipient.Type = olCC
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[Recipients Object Members](http://msdn.microsoft.com/library/958f9e6d-c499-4c19-0550-02506998b125%28Office.15%29.aspx)
+[Recipients Object Members](./overview/Outlook.md)
