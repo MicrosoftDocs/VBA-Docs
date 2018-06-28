@@ -20,7 +20,7 @@ Returns a  **Document** object that represents a new, empty document added to th
 
  _expression_ . **Add**( **_Template_** , **_NewTemplate_** , **_DocumentType_** , **_Visible_** )
 
- _expression_ Required. A variable that represents a **[Documents](documents-object-word.md)** collection.
+ _expression_ Required. A variable that represents a **[Documents](../../../api/Word.documents.md)** collection.
 
 
 ### Parameters
@@ -75,5 +75,5 @@ Documents.Add Template:=tmpName, NewTemplate:=True
 #### Concepts
 
 
-[Documents Collection Object](documents-object-word.md)
+[Documents Collection Object](../../../api/Word.documents.md)
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ContentControl Object (Word)
 
-An individual content control. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain contents such as dates, lists, or paragraphs of formatted text. The  **ContentControl** object is a member of the **[ContentControls](contentcontrols-object-word.md)** collection.
+An individual content control. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain contents such as dates, lists, or paragraphs of formatted text. The  **ContentControl** object is a member of the **[ContentControls](../../../api/Word.ContentControls.md)** collection.
 
 
 ## Remarks
 
-Use the  **[Add](contentcontrols-add-method-word.md)** method of the **ContentControls** collection to create a content control. Use the Type parameter of the **Add** method to specify the type of content control to create. The following example create a new drop-down list content control and adds several items to the list.
+Use the  **[Add](../../../api/Word.ContentControls.Add.md)** method of the **ContentControls** collection to create a content control. Use the Type parameter of the **Add** method to specify the type of content control to create. The following example create a new drop-down list content control and adds several items to the list.
 
 
 ```vb
@@ -61,14 +61,14 @@ Not all content control properties apply to all the different types of content c
 
 |**Property/Method**|**Applies To**|
 |:-----|:-----|
-| **[BuildingBlockCategory](contentcontrol-buildingblockcategory-property-word.md)** property|BuildingBlock Gallery content controls (wdContentControlBuildingBlockGallery)|
-| **[BuildingBlockType](contentcontrol-buildingblocktype-property-word.md)** property|BuildingBlock Gallery content controls (wdContentControlBuildingBlockGallery)|
-| **[DateDisplayFormat](contentcontrol-datedisplayformat-property-word.md)** property|Date content controls (wdContentControlDate)|
-| **[DateDisplayLocale](contentcontrol-datedisplaylocale-property-word.md)** property|Date content controls (wdContentControlDate)|
-| **[DateStorageFormat](contentcontrol-datestorageformat-property-word.md)** property|Date content controls (wdContentControlDate)|
-| **[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)** property|Combo box and drop-down list content controls (wdContentControlComboBox and wdContentControlDropdownList)|
-| **[MultiLine](contentcontrol-multiline-property-word.md)** property|Plain text content controls (wdContentControlText)|
-| **[Ungroup](contentcontrol-ungroup-method-word.md)** method|Group content controls (wdContentControlGroup)|
+| **[BuildingBlockCategory](../../../api/Word.ContentControl.BuildingBlockCategory.md)** property|BuildingBlock Gallery content controls (wdContentControlBuildingBlockGallery)|
+| **[BuildingBlockType](../../../api/Word.ContentControl.BuildingBlockType.md)** property|BuildingBlock Gallery content controls (wdContentControlBuildingBlockGallery)|
+| **[DateDisplayFormat](../../../api/Word.ContentControl.DateDisplayFormat.md)** property|Date content controls (wdContentControlDate)|
+| **[DateDisplayLocale](../../../api/Word.ContentControl.DateDisplayLocale.md)** property|Date content controls (wdContentControlDate)|
+| **[DateStorageFormat](../../../api/Word.ContentControl.DateStorageFormat.md)** property|Date content controls (wdContentControlDate)|
+| **[DropdownListEntries](../../../api/Word.ContentControl.DropdownListEntries.md)** property|Combo box and drop-down list content controls (wdContentControlComboBox and wdContentControlDropdownList)|
+| **[MultiLine](../../../api/Word.ContentControl.MultiLine.md)** property|Plain text content controls (wdContentControlText)|
+| **[Ungroup](../../../api/Word.ContentControl.Ungroup.md)** method|Group content controls (wdContentControlGroup)|
 
 ## See also
 

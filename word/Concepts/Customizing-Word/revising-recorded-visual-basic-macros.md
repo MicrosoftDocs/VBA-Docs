@@ -29,7 +29,7 @@ To enhance your macros, you may want to revise the code recorded into your modul
 
 ## Removing the Selection property
 
-Macros created using the macro recorder depend on the selection. At the beginning of most recorded macro instructions, you see  `Selection`. Recorded macros use the  **[Selection](global-selection-property-word.md)** property to return the **[Selection](selection-object-word.md)** object. For example, the following example moves the selection to the Temp bookmark and inserts text after the bookmark.
+Macros created using the macro recorder depend on the selection. At the beginning of most recorded macro instructions, you see  `Selection`. Recorded macros use the  **[Selection](../../../api/Word.Global.Selection.md)** property to return the **[Selection](../../../api/Word.Selection.md)** object. For example, the following example moves the selection to the Temp bookmark and inserts text after the bookmark.
 
 
 ```vb
@@ -55,7 +55,7 @@ Sub MyMacro()
 End Sub
 ```
 
-The  **[Exists](bookmarks-exists-method-word.md)** method is used to check for the existence of the bookmark named Temp. If the bookmark is found, the bookmark's ending character position is returned by using the **[End](bookmark-end-property-word.md)** property. Finally, the **[Range](document-range-method-word.md)** method of the **Document** object is used to return a **[Range](range-object-word.md)** object that refers to the bookmark's ending position, so that text can be inserted using the **[InsertAfter](range-insertafter-method-word.md)** method of the **Range** object. For more information about defining **Range** objects, see [Working with Range objects](working-with-range-objects.md).
+The  **[Exists](../../../api/Word.Bookmarks.Exists.md)** method is used to check for the existence of the bookmark named Temp. If the bookmark is found, the bookmark's ending character position is returned by using the **[End](../../../api/Word.Bookmark.End.md)** property. Finally, the **[Range](../../../api/Word.Document.Range.md)** method of the **Document** object is used to return a **[Range](../Working-with-Word/range-object-word.md)** object that refers to the bookmark's ending position, so that text can be inserted using the **[InsertAfter](../../../api/Word.Range.InsertAfter.md)** method of the **Range** object. For more information about defining **Range** objects, see [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
 
 
 ## Using With…End With
@@ -146,7 +146,7 @@ The simplified macro executes faster because it sets fewer properties. Only the 
 
 ## Removing unnecessary arguments
 
-When the macro recorder records a method, the values of all of the arguments are included. The following macro was recorded when the document named Test.doc was opened. The resulting macro includes all of the arguments for the  **[Open](documents-open-method-word.md)** method.
+When the macro recorder records a method, the values of all of the arguments are included. The following macro was recorded when the document named Test.doc was opened. The resulting macro includes all of the arguments for the  **[Open](../../../api/Word.Documents.Open.md)** method.
 
 
 ```vb

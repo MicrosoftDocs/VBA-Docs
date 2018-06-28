@@ -16,6 +16,6 @@ When you click a selected control, you put it in the active state. In that state
 
 In both the selected and the active state, you can use  **DEL**,  **CTRL+X**, and  **CTRL+C** for the **Delete**,  **Cut**, and  **Copy** commands, respectively. In the selected state, these commands are available on the shortcut menu and affect the control itself. In the active state, these commands affect whatever text is selected inside the control; if no text is selected, these commands have no effect. These commands are not available on the shortcut menu for active controls.
 
- **Note**  For more information about design mode, see  [Run in Developer Mode in Outlook](run-in-developer-mode-in-outlook.md).
+ **Note**  For more information about design mode, see  [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 
 

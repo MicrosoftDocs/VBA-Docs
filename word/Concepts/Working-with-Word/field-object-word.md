@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field Object (Word)
 
-Represents a field. The  **Field** object is a member of the **Fields** collection. The **[Fields](fields-object-word.md)** collection represents the fields in a selection, range, or document.
+Represents a field. The  **Field** object is a member of the **Fields** collection. The **[Fields](../../../api/Word.fields.md)** collection represents the fields in a selection, range, or document.
 
 
 ## Remarks
@@ -28,7 +28,7 @@ If ActiveDocument.Fields.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method to add a field to the **[Fields](fields-object-word.md)** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
+Use the  **Add** method to add a field to the **[Fields](../../../api/Word.fields.md)** collection. The following example inserts a DATE field at the beginning of the selection and then displays the result.
 
 
 

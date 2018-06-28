@@ -13,7 +13,7 @@ Actions are a very powerful feature of forms in Microsoft Outlook that you can u
 
 ## Forms customized with form regions
 
-You can specify custom actions for a form region. To create an action that suits your needs, you can either modify a built-in action or create a new custom action. For more information, see  [How to: Create a Custom Action for a Form Region](create-a-custom-action-for-a-form-region.md).
+You can specify custom actions for a form region. To create an action that suits your needs, you can either modify a built-in action or create a new custom action. For more information, see  [How to: Create a Custom Action for a Form Region](../Creating-Form-Regions/create-a-custom-action-for-a-form-region.md).
 
 
 ## Forms customized with form pages

@@ -35,7 +35,7 @@ Occurs when you start a slide show.
 
 Microsoft PowerPoint creates the slide show window and passes it to this event. If one slide show branches to another, the  **SlideShowBegin** event does not occur again when the second slide show begins.
 
-For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 
 ## Example

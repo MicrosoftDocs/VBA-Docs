@@ -30,7 +30,7 @@ Frozen columns are displayed on the left side of the datasheet and don't move wh
 
  **Note**  The  **FrozenColumns** property applies only to tables, forms, and queries in Datasheet view.
 
-In [Visual Basic](set-properties-by-using-visual-basic.md), this property setting is an  **Integer** value indicating the number of columns in the datasheet that have been frozen by using the **Freeze Columns** command. The record selector column is always frozen, so the default value is 1. Consequently, if you freeze one column, the **FrozenColumns** property is set to 2; if you freeze two columns, it's set to 3; and so on.
+In [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md), this property setting is an  **Integer** value indicating the number of columns in the datasheet that have been frozen by using the **Freeze Columns** command. The record selector column is always frozen, so the default value is 1. Consequently, if you freeze one column, the **FrozenColumns** property is set to 2; if you freeze two columns, it's set to 3; and so on.
 
 
 ## Example

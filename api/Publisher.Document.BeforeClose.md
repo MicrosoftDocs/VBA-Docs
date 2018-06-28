@@ -33,7 +33,7 @@ Occurs immediately before any open document closes.
 
 ## Remarks
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+For more information about using events with the  **Document** object, see [Using Events with the Document Object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
 
 
 ## Example

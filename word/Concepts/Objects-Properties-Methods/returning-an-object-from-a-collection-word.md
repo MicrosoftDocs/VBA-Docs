@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Returning an Object from a Collection (Word)
 
-The  **Item** method returns a single object from a collection. The following example sets the `docFirst` variable to a **[Document](document-object-word.md)** object that represents the first document in the **[Documents](documents-object-word.md)** collection.
+The  **Item** method returns a single object from a collection. The following example sets the `docFirst` variable to a **[Document](document-object-word.md)** object that represents the first document in the **[Documents](../../../api/Word.documents.md)** collection.
 
 
 ```vb

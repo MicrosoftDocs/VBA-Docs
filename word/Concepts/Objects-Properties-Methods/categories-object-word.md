@@ -15,7 +15,7 @@ Represents a collection of building block categories.
 
 ## Remarks
 
-Use the  **Item** method to access an exising category. You can then use the **[BuildingBlocks](category-buildingblocks-property-word.md)** property to access a collection of **[BuildingBlock](buildingblock-object-word.md)** objects for the category. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window** . (This example assumes that the **Immediate Window** is visible.)
+Use the  **Item** method to access an exising category. You can then use the **[BuildingBlocks](../../../api/Word.Category.BuildingBlocks.md)** property to access a collection of **[BuildingBlock](buildingblock-object-word.md)** objects for the category. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window** . (This example assumes that the **Immediate Window** is visible.)
 
 
 ```vb

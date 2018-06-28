@@ -19,6 +19,6 @@ This topic includes some common Word tasks and the Visual Basic code needed to a
 
  [Finding and replacing text or formatting](finding-and-replacing-text-or-formatting.md)
  [Miscellaneous tasks](miscellaneous-tasks.md)
- [Working with tables](working-with-tables.md)
- [Working with documents](working-with-document-objects.md)
+ [Working with tables](../Working-with-Word/working-with-tables.md)
+ [Working with documents](../Working-with-Word/working-with-document-objects.md)
 

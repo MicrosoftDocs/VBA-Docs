@@ -205,7 +205,7 @@ End Class
 ## See also
 
 
- [Attach a File to a Mail Item](attach-a-file-to-a-mail-item.md)
+ [Attach a File to a Mail Item](../../How-to/Items-Folders-and-Stores/attach-a-file-to-a-mail-item.md)
  [Limit the Size of an Attachment to an Outlook Email Message](limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
  [Modify an Attachment of an Outlook Email Message](modify-an-attachment-of-an-outlook-email-message.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Returns a  **Range** object that represents the rows in the specified **Range** or **DataSheet** object. Read-only.
 
-For information about returning a single member of a collection, see  [Returning an Object from a Collection](returning-an-object-from-a-collection-excel.md).
+For information about returning a single member of a collection, see  [Returning an Object from a Collection](../excel/Concepts/Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md).
 
 ## Example
 

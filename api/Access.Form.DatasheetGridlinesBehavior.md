@@ -27,7 +27,7 @@ You can use the  **DatasheetGridlinesBehavior** property to specify which gridli
 
 This  **DatasheetGridlinesBehavior** property applies only to objects in Datasheet view.
 
-This property is only available in [Visual Basic](set-properties-by-using-visual-basic.md)within a Microsoft Access database.
+This property is only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)within a Microsoft Access database.
 
 The  **DatasheetGridlinesBehavior** property uses the following settings.
 

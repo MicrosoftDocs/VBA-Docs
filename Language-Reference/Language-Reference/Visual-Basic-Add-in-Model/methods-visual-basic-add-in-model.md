@@ -11,54 +11,54 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Add Method (VBA Add-In Object Model)](add-method-vba-add-in-object-model.md)
+- [Add Method (VBA Add-In Object Model)](../User-Interface-Help/add-method-vba-add-in-object-model.md)
     
-- [AddCustom Method](addcustom-method.md)
+- [AddCustom Method](../User-Interface-Help/addcustom-method.md)
     
-- [AddFromFile Method (VBA Add-In Object Model)](addfromfile-method-vba-add-in-object-model.md)
+- [AddFromFile Method (VBA Add-In Object Model)](../User-Interface-Help/addfromfile-method-vba-add-in-object-model.md)
     
-- [AddFromGuid Method (VBA Add-In Object Model)](addfromguid-method-vba-add-in-object-model.md)
+- [AddFromGuid Method (VBA Add-In Object Model)](../User-Interface-Help/addfromguid-method-vba-add-in-object-model.md)
     
-- [AddFromString Method (VBA Add-In Object Model)](addfromstring-method-vba-add-in-object-model.md)
+- [AddFromString Method (VBA Add-In Object Model)](../User-Interface-Help/addfromstring-method-vba-add-in-object-model.md)
     
-- [Close Method (VBA Add-In Object Model)](close-method-vba-add-in-object-model.md)
+- [Close Method (VBA Add-In Object Model)](../User-Interface-Help/close-method-vba-add-in-object-model.md)
     
-- [CreateEventProc Method (VBA Add-In Object Model)](createeventproc-method-vba-add-in-object-model.md)
+- [CreateEventProc Method (VBA Add-In Object Model)](../User-Interface-Help/createeventproc-method-vba-add-in-object-model.md)
     
-- [CreateToolWindow Method](createtoolwindow-method.md)
+- [CreateToolWindow Method](../User-Interface-Help/createtoolwindow-method.md)
     
-- [DeleteLines Method (VBA Add-In Object Model)](deletelines-method-vba-add-in-object-model.md)
+- [DeleteLines Method (VBA Add-In Object Model)](../User-Interface-Help/deletelines-method-vba-add-in-object-model.md)
     
-- [DesignerWindow Method](designerwindow-method.md)
+- [DesignerWindow Method](../User-Interface-Help/designerwindow-method.md)
     
-- [Export Method (VBA Add-In Object Model)](export-method-vba-add-in-object-model.md)
+- [Export Method (VBA Add-In Object Model)](../User-Interface-Help/export-method-vba-add-in-object-model.md)
     
-- [Find Method (VBA Add-In Object Model)](find-method-vba-add-in-object-model.md)
+- [Find Method (VBA Add-In Object Model)](../User-Interface-Help/find-method-vba-add-in-object-model.md)
     
-- [GetSelection Method (VBA Add-In Object Model)](getselection-method-vba-add-in-object-model.md)
+- [GetSelection Method (VBA Add-In Object Model)](../User-Interface-Help/getselection-method-vba-add-in-object-model.md)
     
-- [Import Method (VBA Add-In Object Model)](import-method-vba-add-in-object-model.md)
+- [Import Method (VBA Add-In Object Model)](../User-Interface-Help/import-method-vba-add-in-object-model.md)
     
-- [InsertFile Method](insertfile-method.md)
+- [InsertFile Method](../User-Interface-Help/insertfile-method.md)
     
-- [InsertLines Method (VBA Add-In Object Model)](insertlines-method-vba-add-in-object-model.md)
+- [InsertLines Method (VBA Add-In Object Model)](../User-Interface-Help/insertlines-method-vba-add-in-object-model.md)
     
-- [Item Method (VBA Add-In Object Model)](item-method-vba-add-in-object-model.md)
+- [Item Method (VBA Add-In Object Model)](../User-Interface-Help/item-method-vba-add-in-object-model.md)
     
-- [MakeCompiledFile Method](makecompiledfile-method.md)
+- [MakeCompiledFile Method](../User-Interface-Help/makecompiledfile-method.md)
     
-- [Remove Method (VBA Add-In Object Model)](remove-method-vba-add-in-object-model.md)
+- [Remove Method (VBA Add-In Object Model)](../User-Interface-Help/remove-method-vba-add-in-object-model.md)
     
-- [ReplaceLine Method (VBA Add-In Object Model)](replaceline-method-vba-add-in-object-model.md)
+- [ReplaceLine Method (VBA Add-In Object Model)](../User-Interface-Help/replaceline-method-vba-add-in-object-model.md)
     
-- [SaveAs Method (VBA Add-In Object Model)](saveas-method-vba-add-in-object-model.md)
+- [SaveAs Method (VBA Add-In Object Model)](../User-Interface-Help/saveas-method-vba-add-in-object-model.md)
     
-- [SetFocus Method (VBA Add-In Object Model)](setfocus-method-vba-add-in-object-model.md)
+- [SetFocus Method (VBA Add-In Object Model)](../User-Interface-Help/setfocus-method-vba-add-in-object-model.md)
     
-- [SetSelection Method (VBA Add-In Object Model)](setselection-method-vba-add-in-object-model.md)
+- [SetSelection Method (VBA Add-In Object Model)](../User-Interface-Help/setselection-method-vba-add-in-object-model.md)
     
-- [Show Method (VBA Add-In Object Model)](show-method-vba-add-in-object-model.md)
+- [Show Method (VBA Add-In Object Model)](../User-Interface-Help/show-method-vba-add-in-object-model.md)
     
-- [Update Method (VBA Add-In Object Model)](update-method-vba-add-in-object-model.md)
+- [Update Method (VBA Add-In Object Model)](../User-Interface-Help/update-method-vba-add-in-object-model.md)
     
 

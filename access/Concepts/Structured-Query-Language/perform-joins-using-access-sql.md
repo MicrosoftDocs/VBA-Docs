@@ -172,6 +172,6 @@ PIVOT Format(InvoiceDate, 'yyyy')
    IN ('1996','1997','1998','1999','2000') 
 ```
 
-Be aware that the aggregating function is the  **[Sum](sum-function-microsoft-access-sql.md)** function, the vertical headings are in the **[GROUP BY](group-by-clause-microsoft-access-sql.md)** clause of the **SELECT** statement, and the horizontal headings are determined by the field listed after the **PIVOT** keyword.
+Be aware that the aggregating function is the  **[Sum](../Criteria-Expressions/sum-function-microsoft-access-sql.md)** function, the vertical headings are in the **[GROUP BY](group-by-clause-microsoft-access-sql.md)** clause of the **SELECT** statement, and the horizontal headings are determined by the field listed after the **PIVOT** keyword.
 
 

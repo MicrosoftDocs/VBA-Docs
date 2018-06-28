@@ -16,15 +16,15 @@ This makes it easier to update your data. To update one of these items, you can 
 
 The objects used in these samples are:
 
--  **[ContentControl](contentcontrol-object-word.md)**
+-  **[ContentControl](../Objects-Properties-Methods/contentcontrol-object-word.md)**
     
--  **[ContentControls](contentcontrols-object-word.md)**
+-  **[ContentControls](../../../api/Word.ContentControls.md)**
     
 -  **CustomXMLPart** (Microsoft Office core object model)
     
 -  **CustomXMLParts** (Microsoft Office core object model)
     
--  **[XMLMapping](xmlmapping-object-word.md)**
+-  **[XMLMapping](../../../api/Word.XMLMapping.md)**
     
 
 ## Sample

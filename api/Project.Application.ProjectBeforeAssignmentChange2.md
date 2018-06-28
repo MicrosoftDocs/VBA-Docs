@@ -38,7 +38,7 @@ nothing
 
 ## Remarks
 
-Project events do not occur when the project is embedded in another document or application. For more information and sample code for creating and testing an event handler, see [Using Events with Application and Project Objects](using-events-with-application-and-project-objects.md) .
+Project events do not occur when the project is embedded in another document or application. For more information and sample code for creating and testing an event handler, see [Using Events with Application and Project Objects](../project/Concepts/using-events-with-application-and-project-objects.md) .
 
 The  **ProjectBeforeAssignmentChange2** event doesn't occur when timescaled data changes, when an entire resource or task row is pasted, when an assignment is changed as the result of a drag-and-drop operation in the **Resource Usage** view, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form.
 

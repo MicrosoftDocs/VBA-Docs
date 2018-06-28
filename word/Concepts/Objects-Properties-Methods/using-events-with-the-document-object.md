@@ -46,6 +46,6 @@ If an auto macro exists in a document and the attached template, only the auto m
 
 ## Remarks
 
-For information about creating event procedures for the  **[Application](../../../api/Word.Application.md)** object, see  [Using Events with the Application Object](using-events-with-the-../../../api/Word.Application.md).
+For information about creating event procedures for the  **[Application](../../../api/Word.Application.md)** object, see  [Using Events with the Application Object](../../../api/Word.Application.md).
 
 

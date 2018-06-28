@@ -42,8 +42,8 @@ End Sub
 
 ## See also
 
-[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
+[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
-[co authoring](about-coauthoring-in-excel.md)
+[co authoring](../excel/Concepts/about-coauthoring-in-excel.md)
 
 [Workbook Object](Excel.Workbook.md)

@@ -27,7 +27,7 @@ Returns the program-specific  **AddIns** collection that represents all the add-
 
 Microsoft Office PowerPoint-specific add-ins are identified by a .ppa or .ppam file name extension. Component Object Model (COM) add-ins can be used universally across Microsoft programming products and have a .dll or .exe file name extension.
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](return-objects-from-collections.md).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](../powerpoint/How-to/return-objects-from-collections.md).
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions.Item Method (Outlook)
 
-Obtains a  **[RuleCondition](rulecondition-object-outlook.md)** object specified by _Index_ which is a numerical index into the **[RuleConditions](ruleconditions-object-outlook.md)** collection.
+Obtains a  **[RuleCondition](../../../api/Outlook.RuleCondition.md)** object specified by _Index_ which is a numerical index into the **[RuleConditions](../../../api/Outlook.RuleConditions.md)** collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ A  **RuleCondition** object that represents the specified object.
 
 ## Remarks
 
-The  **RuleConditions** collection object is a fixed collection. It contains **RuleCondition** objects or objects derived from **RuleCondition** . You cannot add or remove items from this collection, but you can index into the collection to enumerate the rule condition items, and set the **[Enabled](rulecondition-enabled-property-outlook.md)** property of the rule condition. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](ruleconditions-count-property-outlook.md)** .
+The  **RuleConditions** collection object is a fixed collection. It contains **RuleCondition** objects or objects derived from **RuleCondition** . You cannot add or remove items from this collection, but you can index into the collection to enumerate the rule condition items, and set the **[Enabled](rulecondition-enabled-property-outlook.md)** property of the rule condition. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](../../../api/Outlook.RuleConditions.Count.md)** .
 
 
 ## See also
@@ -47,5 +47,5 @@ The  **RuleConditions** collection object is a fixed collection. It contains **R
 #### Concepts
 
 
-[RuleConditions Object](ruleconditions-object-outlook.md)
+[RuleConditions Object](../../../api/Outlook.RuleConditions.md)
 

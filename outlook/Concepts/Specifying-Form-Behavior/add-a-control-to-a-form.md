@@ -13,7 +13,7 @@ Use this procedure to add a control from the  [Control Toolbox](control-toolbox-
 
 1. In an open form on the  **Developer** tab, in the **Tools** group, click **Control Toolbox**.
     
-     **Note**  If you do not see the  **Developer** tab in the open form, see the topic [Run in Developer Mode in Outlook](run-in-developer-mode-in-outlook.md).
+     **Note**  If you do not see the  **Developer** tab in the open form, see the topic [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 2. Do one of the following:
     
       - Click a control in the  **Control Toolbox** and then click in the form. The control appears in its default size. You can then drag the border of the control to change its size.

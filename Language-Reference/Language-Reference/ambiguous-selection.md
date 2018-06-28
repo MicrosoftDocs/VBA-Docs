@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 Either you have not selected a keyword or you have requested Help on a component of the integrated development environment (IDE). If you were trying to select a keyword, try reselecting a single keyword. If you were trying to get information on the IDE, click one of the following:
 
-[Code or Module Window](vbe-glossary.md#code-module)
+[Code or Module Window](../Concepts/Getting-Started/vbe-glossary.md#code-module)
 
-[Immediate Window or Pane](vbe-glossary.md)
+[Immediate Window or Pane](../Concepts/Getting-Started/vbe-glossary.md)
 
-[Locals Windows or Pane](vbe-glossary.md)
+[Locals Windows or Pane](../Concepts/Getting-Started/vbe-glossary.md)
 
-[Object Browser](vbe-glossary.md#object-browser)
+[Object Browser](../Concepts/Getting-Started/vbe-glossary.md#object-browser)
 
-[Watch Window or Pane](vbe-glossary.md)
+[Watch Window or Pane](../Concepts/Getting-Started/vbe-glossary.md)
 

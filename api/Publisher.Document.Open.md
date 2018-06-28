@@ -27,7 +27,7 @@ Occurs when a publication is opening.
 
 To access the  **Document** object events, declare a **Document** object variable in the General Declarations section of a class module, then set the variable equal to the **Document** object for which you want to access events.
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+For more information about using events with the  **Document** object, see [Using Events with the Document Object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
 
 
 ## Example

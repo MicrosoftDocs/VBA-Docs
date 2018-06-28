@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Control and Dialog Box Events
 
-After you have added  [controls](activex-controls.md)to your dialog box or document, you add event procedures to determine how the controls respond to user actions.
+After you have added  [controls](../Controls-DialogBoxes-Forms/activex-controls.md)to your dialog box or document, you add event procedures to determine how the controls respond to user actions.
 
 User forms and controls have a predefined set of events. For example, a command button has a  **Click** event that occurs when the user clicks the command button, and UserForms have an Initialize event that runs when the form is loaded.
 

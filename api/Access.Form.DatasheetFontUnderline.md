@@ -27,7 +27,7 @@ You can use the  **DatasheetFontUnderline** property to specify an underlined ap
 
 The  **DatasheetFontUnderline** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-This property is only available in [Visual Basic](set-properties-by-using-visual-basic.md)within a Microsoft Access database.
+This property is only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)within a Microsoft Access database.
 
 The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 

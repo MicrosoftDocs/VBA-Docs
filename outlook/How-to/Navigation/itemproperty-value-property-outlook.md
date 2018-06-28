@@ -68,5 +68,5 @@ End Sub
 #### Concepts
 
 
-[ItemProperty Object](itemproperty-object-outlook.md)
+[ItemProperty Object](../../../api/Outlook.ItemProperty.md)
 

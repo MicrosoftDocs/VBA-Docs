@@ -20,7 +20,7 @@ There are different types of form regions, depending on how you want to customiz
     
 4. Register the form region for a message class (step 9)
     
-When you restart Outlook, the form region will be available for use. Alternatively, you can create the form region and the form region manifest XML file, use an add-in to extend the form region and register the form region programmatically. When you install the add-in, the add-in will also install the form that contains the form region. For more information, see  [Extending a Form Region with an Add-in](extending-a-form-region-with-an-add-in.md).
+When you restart Outlook, the form region will be available for use. Alternatively, you can create the form region and the form region manifest XML file, use an add-in to extend the form region and register the form region programmatically. When you install the add-in, the add-in will also install the form that contains the form region. For more information, see  [Extending a Form Region with an Add-in](../Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md).
 The following procedure details the steps to create a form region using the Forms Designer without an add-in.
 
 1. On the  **Developer** tab, in the **Custom Forms** group, click **Design a Form**.
@@ -41,7 +41,7 @@ The following procedure details the steps to create a form region using the Form
     
 5. Design the layout of the form region by dragging and dropping controls from the Toolbox to the form region, and binding them to fields where appropriate.
     
-    Similar to customizing a form page, customizing a form region involves defining custom fields, inserting controls using the Toolbox, and binding the controls with fields using the Field Chooser. For more information, see  [Controls in a Custom Form](controls-in-a-custom-form.md) and the section Design the Form Region in [Walkthrough: Add a Form Region to an Existing Page on a Form](add-a-form-region-to-an-existing-page-on-a-form.md). Optionally, you can use an add-in to program events of the controls.
+    Similar to customizing a form page, customizing a form region involves defining custom fields, inserting controls using the Toolbox, and binding the controls with fields using the Field Chooser. For more information, see  [Controls in a Custom Form](../Forms/controls-in-a-custom-form.md) and the section Design the Form Region in [Walkthrough: Add a Form Region to an Existing Page on a Form](../Creating-Form-Regions/add-a-form-region-to-an-existing-page-on-a-form.md). Optionally, you can use an add-in to program events of the controls.
     
 6. Save the layout of the form region by clicking  **Save Region**, and then  **Save Form Region** in the **Design** group. The form region layout file will be saved with a .OFS extension.
     

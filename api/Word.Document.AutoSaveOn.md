@@ -44,6 +44,6 @@ End Sub
 
 ## See also
 
-[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
+[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
 [Document Object](Word.Document.md)

@@ -13,7 +13,7 @@ When you customize an Outlook form, the procedure that you use for form pages is
 
 ## Forms customized with form regions
 
-The  [GetFormRegionStorage](../../../api/Outlook.FormRegionStartup.GetFormRegionStorage.md) method controls which form region is displayed on a form by calling the appropriate form regions storage file (.ofs). Form regions cannot be hidden or shown at run time once the form storage has been returned. For more information, see [How to: Create a Form Region](create-a-form-region.md) and [Extending a Form Region with an Add-in](extending-a-form-region-with-an-add-in.md).
+The  [GetFormRegionStorage](../../../api/Outlook.FormRegionStartup.GetFormRegionStorage.md) method controls which form region is displayed on a form by calling the appropriate form regions storage file (.ofs). Form regions cannot be hidden or shown at run time once the form storage has been returned. For more information, see [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md) and [Extending a Form Region with an Add-in](../Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md).
 
 
 ## Forms customized with form pages

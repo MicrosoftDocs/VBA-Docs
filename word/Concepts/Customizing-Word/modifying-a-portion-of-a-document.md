@@ -14,13 +14,13 @@ Visual Basic includes objects that you can use to modify the following document 
 
 |**This expression**|**Returns this object**|
 |:-----|:-----|
-| **Words** ( _index_)| **[Range](range-object-word.md)**|
-| **Characters** ( _index_)| **[Range](range-object-word.md)**|
-| **Sentences** ( _index_)| **[Range](range-object-word.md)**|
-| **Paragraphs** ( _index_)| **[Paragraph](paragraph-object-word.md)**|
-| **Sections** ( _index_)| **[Section](section-object-word.md)**|
+| **Words** ( _index_)| **[Range](../Working-with-Word/../Working-with-Word/../Working-with-Word/range-object-word.md)**|
+| **Characters** ( _index_)| **[Range](../Working-with-Word/../Working-with-Word/../Working-with-Word/range-object-word.md)**|
+| **Sentences** ( _index_)| **[Range](../Working-with-Word/../Working-with-Word/../Working-with-Word/range-object-word.md)**|
+| **Paragraphs** ( _index_)| **[Paragraph](../../../api/Word.Paragraph.md)**|
+| **Sections** ( _index_)| **[Section](../../../api/Word.Section.md)**|
 
-When these properties are used without an index, a collection object with the same name is returned. For example, the  **Paragraphs** property returns the **[Paragraphs](paragraphs-object-word.md)** collection object. However, if you identify an item within these collections by index, the object in the second column of the table is returned. For example, `Words(1)` returns a **Range** object. After you have a **Range** object, you can use any of the range properties or methods to modify the **Range** object. For example, the following instruction copies the first word in the selection to the Clipboard.
+When these properties are used without an index, a collection object with the same name is returned. For example, the  **Paragraphs** property returns the **[Paragraphs](../../../api/Word.paragraphs.md)** collection object. However, if you identify an item within these collections by index, the object in the second column of the table is returned. For example, `Words(1)` returns a **Range** object. After you have a **Range** object, you can use any of the range properties or methods to modify the **Range** object. For example, the following instruction copies the first word in the selection to the Clipboard.
 
 
 
@@ -32,7 +32,7 @@ End Sub
 ```
 
 
- **Note**  The items in the  **[Paragraphs](paragraphs-object-word.md)** and **[Sections](sections-object-word.md)** collections are singular forms of the collection, specifically **Paragraph** objects and **Section** objects, rather than **Range** objects. In fact, most collections in the Word object model have singular form objects with which you can work. However, the **Range** property (which returns a **Range** object) is available from both the **Paragraph** object and the **Section** object, and from most other objects that are children of collections. For example, the following instruction copies the first paragraph in the active document to the Clipboard.
+ **Note**  The items in the  **[Paragraphs](../../../api/Word.paragraphs.md)** and **[Sections](../../../api/Word.sections.md)** collections are singular forms of the collection, specifically **Paragraph** objects and **Section** objects, rather than **Range** objects. In fact, most collections in the Word object model have singular form objects with which you can work. However, the **Range** property (which returns a **Range** object) is available from both the **Paragraph** object and the **Section** object, and from most other objects that are children of collections. For example, the following instruction copies the first paragraph in the active document to the Clipboard.
 
 
 
@@ -43,7 +43,7 @@ Sub CopyParagraph()
 End Sub
 ```
 
-All of the document element properties in the preceding table are available from the  **Document**,  **Selection**, and  **Range** objects. The following examples demonstrate how you can drill down to these properties from **[Document](document-object-word.md)**,  **[Selection](selection-object-word.md)**, and  **Range** objects.
+All of the document element properties in the preceding table are available from the  **Document**,  **Selection**, and  **Range** objects. The following examples demonstrate how you can drill down to these properties from **[Document](../Objects-Properties-Methods/document-object-word.md)**,  **[Selection](../../../api/Word.Selection.md)**, and  **Range** objects.
 The following example sets the case of the first word in the active document.
 
 
@@ -64,7 +64,7 @@ Sub ChangeSectionMargin()
 End Sub
 ```
 
-The following example double spaces the text in the active document (the  **[Content](document-content-property-word.md)** property returns a **Range** object).
+The following example double spaces the text in the active document (the  **[Content](../../../api/Word.Document.Content.md)** property returns a **Range** object).
 
 
 

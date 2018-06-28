@@ -15,8 +15,8 @@ There are several different ways you can prompt for information from a user.
     
 - Use the Visual Basic  **MsgBox** function to display a simple message. You can display several different command buttons and icons. This function returns a number that indicates which button was clicked.
     
-- Use a  [built-in Microsoft Word dialog box](displaying-built-in-word-dialog-boxes.md)to get user input for a specific Word feature.
+- Use a  [built-in Microsoft Word dialog box](../Customizing-Word/displaying-built-in-word-dialog-boxes.md)to get user input for a specific Word feature.
     
-- Use a custom form to get user input. For information about adding controls to a form, see  [Add a control to a form](adding-controls-to-a-document.md).
+- Use a custom form to get user input. For information about adding controls to a form, see  [Add a control to a form](../Customizing-Word/adding-controls-to-a-document.md).
     
 

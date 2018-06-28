@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Collections (Visual Basic Add-In Model)](collections-visual-basic-add-in-model.md)
+- [Collections (Visual Basic Add-In Model)](../Visual-Basic-Add-in-Model/collections-visual-basic-add-in-model.md)
     
-- [Events (Visual Basic Add-In Model)](events-visual-basic-add-in-model.md)
+- [Events (Visual Basic Add-In Model)](../Visual-Basic-Add-in-Model/events-visual-basic-add-in-model.md)
     
-- [Methods (Visual Basic Add-In Model)](methods-visual-basic-add-in-model.md)
+- [Methods (Visual Basic Add-In Model)](../Visual-Basic-Add-in-Model/methods-visual-basic-add-in-model.md)
     
-- [Objects (Visual Basic Add-In Model)](objects-visual-basic-add-in-model.md)
+- [Objects (Visual Basic Add-In Model)](../Visual-Basic-Add-in-Model/objects-visual-basic-add-in-model.md)
     
-- [Properties (Visual Basic Add-In Model)](properties-visual-basic-add-in-model.md)
+- [Properties (Visual Basic Add-In Model)](../Visual-Basic-Add-in-Model/properties-visual-basic-add-in-model.md)
     
 

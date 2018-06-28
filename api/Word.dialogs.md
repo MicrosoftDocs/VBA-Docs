@@ -29,7 +29,7 @@ You cannot create a new built-in dialog box or add one to the  **Dialogs** colle
 dlgAnswer = Dialogs(wdDialogFileOpen).Show
 ```
 
-For more information, see [Displaying built-in Word dialog boxes](displaying-built-in-word-dialog-boxes.md).
+For more information, see [Displaying built-in Word dialog boxes](../word/Concepts/Customizing-Word/displaying-built-in-word-dialog-boxes.md).
 
 
 ## See also

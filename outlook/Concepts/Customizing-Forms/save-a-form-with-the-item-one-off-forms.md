@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Save a Form with the Item (One-off Forms)
 
- **Note**  This Help topic describes how to save a form that is customized with form pages; it does not apply to forms that are customized with form regions. With form regions, you save the layout of the form region by clicking  **Form Region**, and then  **Save Form Region** to save the form region layout file with an .ofs extension. After that, you must create a form region manifest XML file and register the form region in the Windows registry. For more information, see [How to: Create a Form Region](create-a-form-region.md).
+ **Note**  This Help topic describes how to save a form that is customized with form pages; it does not apply to forms that are customized with form regions. With form regions, you save the layout of the form region by clicking  **Form Region**, and then  **Save Form Region** to save the form region layout file with an .ofs extension. After that, you must create a form region manifest XML file and register the form region in the Windows registry. For more information, see [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
 
 
 ## Forms customized with form pages

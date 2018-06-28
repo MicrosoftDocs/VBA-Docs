@@ -24,7 +24,7 @@ For more information, see the following topics:
     
 -  [How to: Automatically insert text into the Subject field of a reply form](automatically-insert-prefix-text-into-the-subject-field-of-a-reply-form.md)
     
--  [How to: Specify whether a form prompts the user, opens, or is sent](specify-whether-a-form-prompts-the-user-opens-or-is-sent.md)
+-  [How to: Specify whether a form prompts the user, opens, or is sent](../Specifying-Form-Behavior/specify-whether-a-form-prompts-the-user-opens-or-is-sent.md)
     
 -  [How to: Pre-address a reply form to a public folder or an e-mail address](pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
     

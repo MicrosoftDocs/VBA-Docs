@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 If you use a single layout for data, use a  **TabStrip** and map each set of data to its own **Tab**. If you need several layouts for data, use a **MultiPage** and assign each layout to its own **Page**.
 
-Unlike a  **Page** of a **MultiPage**, the[client region](glossary-vba.md) of a **TabStrip** is not a separate form, but a portion of the form that contains the **TabStrip**. The border of a **TabStrip** defines a region of the form that you can associate with the tabs. When you place a control in the client region of a **TabStrip**, you are adding a control to the form that contains the **TabStrip**.
+Unlike a  **Page** of a **MultiPage**, the[client region](../../Glossary/glossary-vba.md) of a **TabStrip** is not a separate form, but a portion of the form that contains the **TabStrip**. The border of a **TabStrip** defines a region of the form that you can associate with the tabs. When you place a control in the client region of a **TabStrip**, you are adding a control to the form that contains the **TabStrip**.
 

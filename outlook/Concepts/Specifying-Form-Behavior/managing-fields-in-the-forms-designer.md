@@ -17,7 +17,7 @@ ms.date: 06/08/2017
     
 -  [Create a Simple Field for a Folder](create-a-simple-field-for-a-folder.md)
     
--  [Extend the Use of an Outlook Item by Adding Fields and Pages](extend-the-use-of-an-outlook-item-by-adding-fields-and-pages.md)
+-  [Extend the Use of an Outlook Item by Adding Fields and Pages](../../How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/extend-the-use-of-an-outlook-item-by-adding-fields-and-pages.md)
     
 -  [Show or Hide Fields when Printing and Saving a Form](show-or-hide-fields-when-printing-and-saving-a-form.md)
     

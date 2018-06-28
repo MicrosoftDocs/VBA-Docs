@@ -11,55 +11,55 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Add a Watch Expression](add-a-watch-expression.md)
+- [Add a Watch Expression](../../Concepts/Forms/add-a-watch-expression.md)
     
-- [Check or Add an Object Library Reference](check-or-add-an-object-library-reference.md)
+- [Check or Add an Object Library Reference](../../How-to/check-or-add-an-object-library-reference.md)
     
-- [Continue Code Execution](continue-code-execution.md)
+- [Continue Code Execution](../../How-to/continue-code-execution.md)
     
-- [Copy Example Code from Help](copy-example-code-from-help.md)
+- [Copy Example Code from Help](../../How-to/copy-example-code-from-help.md)
     
-- [Create a Procedure](create-a-procedure.md)
+- [Create a Procedure](../../How-to/create-a-procedure.md)
     
-- [Delete a Watch Expression](delete-a-watch-expression.md)
+- [Delete a Watch Expression](../../How-to/delete-a-watch-expression.md)
     
-- [Edit a Watch Expression](edit-a-watch-expression.md)
+- [Edit a Watch Expression](../../How-to/edit-a-watch-expression.md)
     
-- [Enter a Declaration in Code](enter-a-declaration-in-code.md)
+- [Enter a Declaration in Code](../../How-to/enter-a-declaration-in-code.md)
     
-- [Execute a Specific Statement](execute-a-specific-statement.md)
+- [Execute a Specific Statement](../../How-to/execute-a-specific-statement.md)
     
-- [Find a Procedure](find-a-procedure.md)
+- [Find a Procedure](../../How-to/find-a-procedure.md)
     
-- [Find a Variable Definition](find-a-variable-definition.md)
+- [Find a Variable Definition](../../How-to/find-a-variable-definition.md)
     
-- [Import a Text File into Code](import-a-text-file-into-code.md)
+- [Import a Text File into Code](../../How-to/import-a-text-file-into-code.md)
     
-- [Replace Text in Code](replace-text-in-code.md)
+- [Replace Text in Code](../../How-to/replace-text-in-code.md)
     
-- [Restart Execution](restart-execution.md)
+- [Restart Execution](../../How-to/restart-execution.md)
     
-- [Search for Text in Code](search-for-text-in-code.md)
+- [Search for Text in Code](../../How-to/search-for-text-in-code.md)
     
-- [Set and Clear a Breakpoint](set-and-clear-a-breakpoint.md)
+- [Set and Clear a Breakpoint](../../How-to/set-and-clear-a-breakpoint.md)
     
-- [Set Project Properties](set-project-properties.md)
+- [Set Project Properties](../../How-to/set-project-properties.md)
     
-- [Set Reference to a Type Library](set-reference-to-a-type-library.md)
+- [Set Reference to a Type Library](../../How-to/set-reference-to-a-type-library.md)
     
-- [Set Visual Basic Environment Options](set-visual-basic-environment-options.md)
+- [Set Visual Basic Environment Options](../../How-to/set-visual-basic-environment-options.md)
     
-- [Split the Code Window](split-the-code-window.md)
+- [Split the Code Window](../../How-to/split-the-code-window.md)
     
-- [Start Code Execution](start-code-execution.md)
+- [Start Code Execution](../../How-to/start-code-execution.md)
     
-- [Stop Code Execution](stop-code-execution.md)
+- [Stop Code Execution](../../How-to/stop-code-execution.md)
     
-- [Trace Code Execution](trace-code-execution.md)
+- [Trace Code Execution](../../How-to/trace-code-execution.md)
     
-- [Turn Syntax Checking On or Off](turn-syntax-checking-on-or-off.md)
+- [Turn Syntax Checking On or Off](../../How-to/turn-syntax-checking-on-or-off.md)
     
-- [Use Quick Watch](use-quick-watch.md)
+- [Use Quick Watch](../../How-to/use-quick-watch.md)
     
 - [Use the Immediate Window](use-the-immediate-window.md)
     

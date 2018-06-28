@@ -24,7 +24,7 @@ ms.date: 06/08/2017
     
       -  **Make Equal** — to make all horizontal and vertical spaces between controls the same size. The amount of horizontal and vertical space will vary depending on the area available for displaying controls and the combined width of all controls.
     
-  -  **Increase** — to increase the space between controls by one[grid block](glossary-vba.md).
+  -  **Increase** — to increase the space between controls by one[grid block](../../Glossary/glossary-vba.md).
     
   -  **Decrease** — to decrease the space between controls by one grid block.
     

@@ -28,6 +28,6 @@ You can specify the functionality, behavior, and other innate properties of a fo
 | **exactMessageClass**|Specify a form region is to be used only for items that have exactly the same message class as the form region.| [How to: Specify a Form Region to be Used Only for the Exact Message Class](specify-a-form-region-to-be-used-only-for-the-exact-message-class.md)|
 | **action** and its child elements|Modify a standard action that is available to a form region.| [How to: Modify a Built-in Action for a Form Region](modify-a-built-in-action-for-a-form-region.md)|
 | **action** and its child elements|Create a custom action for a form region.| [How to: Create a Custom Action for a Form Region](create-a-custom-action-for-a-form-region.md)|
-| **icons** and its child elements|Specify custom icons for a form region.| [How to: Specify Icons to be Displayed for a Form Region](specify-icons-to-be-displayed-for-a-form-region.md)|
+| **icons** and its child elements|Specify custom icons for a form region.| [How to: Specify Icons to be Displayed for a Form Region](../Configuring-Forms/specify-icons-to-be-displayed-for-a-form-region.md)|
 | **stringOverride** and its child elements|Specify locale-specific strings in the user interface of a form region.| [How to: Specify Locale-Specific User Interface for a Form Region](specify-locale-specific-user-interface-for-a-form-region.md)|
 

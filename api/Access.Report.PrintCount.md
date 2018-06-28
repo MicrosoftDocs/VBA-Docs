@@ -25,7 +25,7 @@ You can use the  **PrintCount** property to identify the number of times the **O
 
 ## Remarks
 
-You can use this property only in a macro or an [event procedure](set-properties-by-using-visual-basic.md)specified by a section's  **OnPrint** property setting.
+You can use this property only in a macro or an [event procedure](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)specified by a section's  **OnPrint** property setting.
 
 Microsoft Access increments the  **PrintCount** property each time the **OnPrint** property setting is evaluated for the current section. As the next section is printed, Microsoft Access resets the **PrintCount** property to 0.
 

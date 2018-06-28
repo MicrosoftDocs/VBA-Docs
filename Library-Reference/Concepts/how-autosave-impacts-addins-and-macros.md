@@ -158,12 +158,4 @@ Such add-ins should ensure that AutoSave is turned off by setting AutoSaveOn to 
 
 - [**BeforeSave** event in Word](../../api/Word.Application.DocumentBeforeSave.md)
 
-[comment]: # (Local shared links)
-
-[AutoSaveArticle]: https://support.office.com/en-US/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5
-
-[AutoSaveOn_Excel]: ../../api/Excel.Workbook.AutoSaveOn.md
-
-[AutoSaveOn_PowerPoint]: ../../api/PowerPoint.Presentation.AutoSaveOn.md
-
-[AutoSaveOn_Word]: ../../api/Word.Document.AutoSaveOn.md
+[comment]: # (../../api/Word.Document.AutoSaveOn.md

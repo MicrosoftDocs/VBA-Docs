@@ -29,7 +29,7 @@ The  **Redo** event occurs immediately after the action is redone.
 
 If multiple actions are redone, the  **Redo** event occurs only once, after all the actions are complete.
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+For more information about using events with the  **Document** object, see [Using Events with the Document Object](../publisher/Concepts/using-events-with-the-document-object-publisher.md).
 
 
 ## Example

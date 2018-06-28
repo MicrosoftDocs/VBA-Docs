@@ -27,7 +27,7 @@ You can use the  **RecordsetClone** property to refer to a form's **Recordset** 
 
 The  **RecordsetClone** property setting is a copy of the underlying query or table specified by the form's **RecordSource** property. If a form is based on a query, for example, referring to the **RecordsetClone** property is the equivalent of cloning a **Recordset** object by using the same query. If you then apply a filter to the form, the **Recordset** object reflects the filtering.
 
-This property is available only by using [Visual Basic](set-properties-by-using-visual-basic.md) and is read-only in all views.
+This property is available only by using [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) and is read-only in all views.
 
 You use the  **RecordsetClone** property to navigate or operate on a form's records independent of the form itself. For example, you can use the **RecordsetClone** property when you want to use a method, such as the DAO **Find** methods, that can't be used with forms.
 

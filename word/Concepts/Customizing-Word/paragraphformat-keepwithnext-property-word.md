@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_ . **KeepWithNext**
 
- _expression_ A variable that represents a **[ParagraphFormat](paragraphformat-object-word.md)** object.
+ _expression_ A variable that represents a **[ParagraphFormat](../../../api/Word.ParagraphFormat.md)** object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ This property can be  **True** , **False** , or **wdUndefined** .
 #### Concepts
 
 
-[ParagraphFormat Object](paragraphformat-object-word.md)
+[ParagraphFormat Object](../../../api/Word.ParagraphFormat.md)
 

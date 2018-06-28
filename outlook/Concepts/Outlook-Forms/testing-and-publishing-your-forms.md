@@ -20,8 +20,8 @@ To test, at run time, an Outlook form that has customized form pages, publish th
 ## What do you want to do?
 
 
--  [How to: Test a Form in Run Time](test-a-form-in-run-time.md)
+-  [How to: Test a Form in Run Time](../Customizing-Forms/test-a-form-in-run-time.md)
     
--  [How to: Publish a Form](publish-a-form.md)
+-  [How to: Publish a Form](../Customizing-Forms/publish-a-form.md)
     
 

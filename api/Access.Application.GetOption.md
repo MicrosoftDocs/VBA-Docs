@@ -30,7 +30,7 @@ The  **GetOption** method returns the current value of an option in the **Access
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _OptionName_|Required|**String**|The name of the option. For a list of optionname argument strings, see [Set Options from Visual Basic](set-options-from-visual-basic.md) .|
+| _OptionName_|Required|**String**|The name of the option. For a list of optionname argument strings, see [Set Options from Visual Basic](../access/Concepts/Settings/set-options-from-visual-basic.md) .|
 
 ### Return Value
 

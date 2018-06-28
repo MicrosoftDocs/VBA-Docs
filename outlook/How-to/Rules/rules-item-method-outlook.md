@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rules.Item Method (Outlook)
 
-Obtains a  **[Rule](rule-object-outlook.md)** object specified by _Index_ , which is either a numerical index into the **[Rules](rules-object-outlook.md)** collection or the rule name.
+Obtains a  **[Rule](../../../api/Outlook.Rule.md)** object specified by _Index_ , which is either a numerical index into the **[Rules](../../../api/Outlook.Rules.md)** collection or the rule name.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Obtains a  **[Rule](rule-object-outlook.md)** object specified by _Index_ , whic
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either a 1-based  **long** value representing an index into the **Rules** collection, or a **string** name representing the value of the default property of a rule, **[Rule.Name](rule-name-property-outlook.md)** .|
+| _Index_|Required| **Variant**|Either a 1-based  **long** value representing an index into the **Rules** collection, or a **string** name representing the value of the default property of a rule, **[Rule.Name](../../../api/Outlook.Rule.Name.md)** .|
 
 ### Return Value
 
@@ -47,5 +47,5 @@ Returns an error when the rule cannot be found in the collection.
 #### Concepts
 
 
-[Rules Object](rules-object-outlook.md)
+[Rules Object](../../../api/Outlook.Rules.md)
 

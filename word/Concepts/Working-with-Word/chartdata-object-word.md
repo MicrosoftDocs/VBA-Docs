@@ -18,7 +18,7 @@ Represents access to the linked or embedded data associated with a chart.
 
 ## Remarks
 
-Use the  **[ChartData](chart-chartdata-property-word.md)** property to return the **ChartData** object.
+Use the  **[ChartData](../../../api/Word.Chart.ChartData.md)** property to return the **ChartData** object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets the text in the specified range or selection. Read/write  **Stri
 
  _expression_ . **Text**
 
- _expression_ A variable that represents a **[Range](range-object-word.md)** object.
+ _expression_ A variable that represents a **[Range](../Working-with-Word/range-object-word.md)** object.
 
 
 ## Remarks
@@ -45,5 +45,5 @@ myRange.Text = "Dear "
 #### Concepts
 
 
-[Range Object](range-object-word.md)
+[Range Object](../Working-with-Word/range-object-word.md)
 

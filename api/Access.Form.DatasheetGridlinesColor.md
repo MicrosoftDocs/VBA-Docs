@@ -27,7 +27,7 @@ You can use the  **DatasheetGridlinesColor** property to specify the color of gr
 
 The  **DatasheetGridlinesColor** property applies only to objects in Datasheet view.
 
-This property is only available in [Visual Basic](set-properties-by-using-visual-basic.md)within a Microsoft Access database.
+This property is only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)within a Microsoft Access database.
 
 You can also use the  **RGB** or **QBColor** functions to set this property.
 

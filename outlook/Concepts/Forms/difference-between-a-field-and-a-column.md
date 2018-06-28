@@ -12,8 +12,8 @@ A column is collection of cells aligned vertically in a table. A field is an ele
 
 For more information, see the following topics:
 
--  [How to: Create a Combination Field for a Folder](create-a-combination-field-for-a-folder.md)
+-  [How to: Create a Combination Field for a Folder](../Specifying-Form-Behavior/create-a-combination-field-for-a-folder.md)
     
--  [How to: Create a Formula Field for a Folder](create-a-formula-field-for-a-folder.md)
+-  [How to: Create a Formula Field for a Folder](../Specifying-Form-Behavior/create-a-formula-field-for-a-folder.md)
     
 

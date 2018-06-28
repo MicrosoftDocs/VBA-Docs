@@ -52,7 +52,7 @@ x = Selection.Font.Bold
 
 ## The Visual Basic thought process
 
-To perform a task in Visual Basic, you need to determine the appropriate object. For example, if you want to apply character formatting found in the  **Font** dialog box, use the **Font** object. Then you need to determine how to "drill down" through the Word object hierarchy from the **[Application](../../../api/Word.Application.md)** object to the **Font** object, through the objects that contain the **Font** object you want to modify. After you have determined the path to your object (for example, ), use the Object Browser, Help, or the features such as Auto List Members in the Visual Basic Editor to determine what properties and methods can be applied to the object. For more information about drilling down to objects using properties and methods, see [Understanding Objects, Properties, and Methods](understanding-objects-properties-and-methods.md).
+To perform a task in Visual Basic, you need to determine the appropriate object. For example, if you want to apply character formatting found in the  **Font** dialog box, use the **Font** object. Then you need to determine how to "drill down" through the Word object hierarchy from the **[Application](../../../api/Word.Application.md)** object to the **Font** object, through the objects that contain the **Font** object you want to modify. After you have determined the path to your object (for example, ), use the Object Browser, Help, or the features such as Auto List Members in the Visual Basic Editor to determine what properties and methods can be applied to the object. For more information about drilling down to objects using properties and methods, see [Understanding Objects, Properties, and Methods](../Objects-Properties-Methods/understanding-objects-properties-and-methods.md).
 
 Properties and methods are often available to multiple objects in the Word object hierarchy. For example, the following instruction applies bold formatting to the entire document.
 
@@ -98,6 +98,6 @@ The following example applies bold formatting to the first paragraph.
 ActiveDocument.Paragraphs(1).Range.Bold = True
 ```
 
-Both of these example change the formatting in the active document without changing the selection. For more information about the  **Range** object, see [Working with Range objects](working-with-range-objects.md).
+Both of these example change the formatting in the active document without changing the selection. For more information about the  **Range** object, see [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
 
 

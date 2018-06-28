@@ -32,7 +32,7 @@ DocumentProperties
 
 Use the  **[CustomDocumentProperties](PowerPoint.Presentation.CustomDocumentProperties.md)** property to return the collection of custom document properties.
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](return-objects-from-collections.md).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](../powerpoint/How-to/return-objects-from-collections.md).
 
 
 ## Example

@@ -25,7 +25,7 @@ Gets or set the name of the customized ribbon to be displayed when the specified
 
 ## Remarks
 
-For more information about how to display a customized ribbon when loading a form, see [How to: Apply a Filter When Opening a Form or Report](apply-a-filter-when-opening-a-form-or-report.md).
+For more information about how to display a customized ribbon when loading a form, see [How to: Apply a Filter When Opening a Form or Report](../access/Concepts/Forms-Design/apply-a-filter-when-opening-a-form-or-report.md).
 
 
 ## See also

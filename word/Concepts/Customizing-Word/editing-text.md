@@ -98,7 +98,7 @@ End Sub
 
 ## Redefining a selection or range
 
-Use the  **SetRange**method to redefine an existing  **Selection** object or **Range** object. For more information, see [Working with the Selection object](working-with-the-selection-object.md) or [Working with Range objects](working-with-range-objects.md).
+Use the  **SetRange**method to redefine an existing  **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Miscellaneous/working-with-the-selection-object.md) or [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
 
 
 ## Changing text

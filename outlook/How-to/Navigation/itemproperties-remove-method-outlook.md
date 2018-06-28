@@ -37,5 +37,5 @@ Removes an object from the collection.
 #### Concepts
 
 
-[ItemProperties Object](itemproperties-object-outlook.md)
+[ItemProperties Object](../../../api/Outlook.ItemProperties.md)
 

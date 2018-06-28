@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 Just as you can add ActiveX controls to  [custom dialog boxes](creating-a-custom-dialog-box.md), you can add controls directly to a document when you want to provide a sophisticated way for the user to interact directly with your macro, without the distraction of dialog boxes. Use the following procedure to add ActiveX controls to your document. For more specific information about using ActiveX controls in Word, see  [Using ActiveX controls on documents](using-activex-controls-on-word-documents.md).
 
 
-1.  [Add controls to the document](adding-controls-to-a-document.md)
+1.  [Add controls to the document](../Customizing-Word/adding-controls-to-a-document.md)
     
     To add a control to the drawing layer of a document, click the control on the  **Control Toolbox**. To add a control to the text layer of a document, hold down the SHIFT key while you click a control on the  **Control Toolbox**.
     

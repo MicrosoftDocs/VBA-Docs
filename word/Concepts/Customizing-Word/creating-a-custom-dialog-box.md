@@ -22,7 +22,7 @@ Use the following procedure to create a custom dialog box:
     
     Find the control you want to add in the  **Toolbox** and drag the control onto the form.
     
-3.  [Set control properties](setting-control-properties-word.md)
+3.  [Set control properties](../Miscellaneous/setting-control-properties-word.md)
     
     Right-click a control in design mode and click  **Properties** to display the **Properties** window.
     
@@ -38,7 +38,7 @@ Use the following procedure to create a custom dialog box:
     
     Use the  **Show**method to display a UserForm.
     
-7.  [Use control values while code is running](using-control-values-while-code-is-running-word.md)
+7.  [Use control values while code is running](../Objects-Properties-Methods/using-control-values-while-code-is-running-word.md)
     
     Some properties can be set at run time. Values the user sets for controls in the dialog box are lost when the dialog box is closed.
     

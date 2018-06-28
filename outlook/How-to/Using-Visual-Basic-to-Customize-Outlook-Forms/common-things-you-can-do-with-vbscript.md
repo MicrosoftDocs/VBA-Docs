@@ -22,7 +22,7 @@ The following topics are common tasks you can perform with VBScript in a form pa
     
 -  [Reference the Active User](reference-the-active-user.md)
     
--  [How to: Change the Value of a Field](change-the-value-of-a-field.md)
+-  [How to: Change the Value of a Field](../../Concepts/Forms/change-the-value-of-a-field.md)
     
 -  [Reference a Folder](reference-a-folder.md)
     

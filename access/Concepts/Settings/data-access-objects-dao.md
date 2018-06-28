@@ -37,7 +37,7 @@ ms.date: 06/08/2017
     
 - [Find a Record in a Table-Type DAO Recordset](find-a-record-in-a-table-type-dao-recordset.md)
     
-- [Find the Current Position in a DAO Recordset](find-the-current-position-in-a-dao-recordset.md)
+- [Find the Current Position in a DAO Recordset](../Data-Access-Objects/find-the-current-position-in-a-dao-recordset.md)
     
 - [Make Bulk Changes to a DAO Recordset](make-bulk-changes-to-a-dao-recordset.md)
     
@@ -53,7 +53,7 @@ ms.date: 06/08/2017
     
 - [Read From and Write To a Field in a DAO Recordset](read-from-and-write-to-a-field-in-a-dao-recordset.md)
     
-- [Return a Random Record from a DAO Recordset](return-a-random-record-from-a-dao-recordset.md)
+- [Return a Random Record from a DAO Recordset](../Data-Access-Objects/return-a-random-record-from-a-dao-recordset.md)
     
 - [Set Properties of Data Access Objects in Visual Basic](set-properties-of-data-access-objects-in-visual-basic.md)
     

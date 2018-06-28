@@ -12,8 +12,8 @@ You can require any field, or any control that is bound to a field, to have a va
 
 For more information, see:
 
--  [How to: Require a Value for a Field or Control](require-a-value-for-a-field-or-control.md)
+-  [How to: Require a Value for a Field or Control](../Specifying-Form-Behavior/require-a-value-for-a-field-or-control.md)
     
--  [How to: Create a Validation Formula and Message](create-a-validation-formula-and-message.md)
+-  [How to: Create a Validation Formula and Message](../Specifying-Form-Behavior/create-a-validation-formula-and-message.md)
     
 

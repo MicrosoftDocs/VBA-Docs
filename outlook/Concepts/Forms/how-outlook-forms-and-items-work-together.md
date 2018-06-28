@@ -14,5 +14,5 @@ Outlook displays the contents of an item in one of two ways: through a view in a
 
 Every item contains a  **Message Class** field; this field contains the name of the form that Outlook provides to view and edit the item. For example, a contact item has a default message class of "IPM.Contact". If you create a custom form called "Customer", the **Message Class** field of items using that form will contain "IPM.Contact.Customer". The message class of all Outlook items always begins with "IPM". The second part of the message class denotes the type of Outlook form that the form is based on. The third portion of the message class is present only if the form is a customized version of a standard Outlook form.
 
-If you are creating custom forms by using form regions, the message class must be specified in the Windows Registry. For more information, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+If you are creating custom forms by using form regions, the message class must be specified in the Windows Registry. For more information, see  [Specifying Form Regions in the Windows Registry](../Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
 

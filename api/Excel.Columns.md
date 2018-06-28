@@ -19,7 +19,7 @@ Returns a Range object that represents the columns in the specified range or all
 
  _expression_ Required. An expression that returns an object in the Applies To List.
 
-For information about returning a single member of a collection, see  [Returning an Object from a Collection (Excel)](returning-an-object-from-a-collection-excel.md).
+For information about returning a single member of a collection, see  [Returning an Object from a Collection (Excel)](../excel/Concepts/Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md).
 
 ## Example
 

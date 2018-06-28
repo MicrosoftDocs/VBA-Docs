@@ -23,7 +23,7 @@ The Example section describes the following properties and methods for returning
 
 
 
-- The  **[Chart](inlineshape-chart-property-word.md)** property.
+- The  **[Chart](../../../api/Word.InlineShape.Chart.md)** property.
     
 - The  **[AddChart](http://msdn.microsoft.com/library/1b168e7b-543a-a817-51b0-8171beecc946%28Office.15%29.aspx)** method.
     
@@ -32,9 +32,9 @@ The Example section describes the following properties and methods for returning
 
 ## Example
 
-The  **[InlineShapes](inlineshapes-object-word.md)** collection contains an object for each inline shape, including charts, in a document. Use **InlineShapes** ( _Index_ ), where Index is the index number of an inline shape, to return a single **InlineShape** object. Use the **[HasChart](inlineshape-haschart-property-word.md)** property to determine whether the **InlineShape** object represents a chart. If the **HasChart** property is set to **True**, use the **[Chart](inlineshape-chart-property-word.md)** property to return a **Chart** object.
+The  **[InlineShapes](../../../api/Word.inlineshapes.md)** collection contains an object for each inline shape, including charts, in a document. Use **InlineShapes** ( _Index_ ), where Index is the index number of an inline shape, to return a single **InlineShape** object. Use the **[HasChart](../../../api/Word.InlineShape.HasChart.md)** property to determine whether the **InlineShape** object represents a chart. If the **HasChart** property is set to **True**, use the **[Chart](../../../api/Word.InlineShape.Chart.md)** property to return a **Chart** object.
 
-You can also use the  **[Type](inlineshape-type-property-word.md)** property to determine whether the **InlineShape** object represents a chart. If the **Type** property is set to **WdInlineShapeChart**, the inline shape represents a chart.
+You can also use the  **[Type](../../../api/Word.InlineShape.Type.md)** property to determine whether the **InlineShape** object represents a chart. If the **Type** property is set to **WdInlineShapeChart**, the inline shape represents a chart.
 
 The following example verifies whether the first inline shape in the active document represents a chart. If so, the example changes the fore color of the first series on the chart.
 
@@ -66,27 +66,27 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 
 |**Name**|
 |:-----|
-|[ApplyChartTemplate](chart-applycharttemplate-method-word.md)|
-|[ApplyDataLabels](chart-applydatalabels-method-word.md)|
-|[ApplyLayout](chart-applylayout-method-word.md)|
-|[Axes](chart-axes-method-word.md)|
-|[ChartWizard](chart-chartwizard-method-word.md)|
-|[ClearToMatchColorStyle](chart-cleartomatchcolorstyle-method-word.md)|
-|[ClearToMatchStyle](chart-cleartomatchstyle-method-word.md)|
-|[Copy](chart-copy-method-word.md)|
-|[CopyPicture](chart-copypicture-method-word.md)|
-|[Delete](chart-delete-method-word.md)|
-|[Export](chart-export-method-word.md)|
-|[FullSeriesCollection](chart-fullseriescollection-method-word.md)|
-|[GetChartElement](chart-getchartelement-method-word.md)|
-|[Paste](chart-paste-method-word.md)|
-|[Refresh](chart-refresh-method-word.md)|
-|[SaveChartTemplate](chart-savecharttemplate-method-word.md)|
-|[Select](chart-select-method-word.md)|
-|[SeriesCollection](chart-seriescollection-method-word.md)|
-|[SetBackgroundPicture](chart-setbackgroundpicture-method-word.md)|
-|[SetDefaultChart](chart-setdefaultchart-method-word.md)|
-|[SetElement](chart-setelement-method-word.md)|
+|[ApplyChartTemplate](../../../api/Word.Chart.ApplyChartTemplate.md)|
+|[ApplyDataLabels](../../../api/Word.Chart.ApplyDataLabels.md)|
+|[ApplyLayout](../../../api/Word.Chart.ApplyLayout.md)|
+|[Axes](../../../api/Word.Chart.Axes.md)|
+|[ChartWizard](../../../api/Word.Chart.ChartWizard.md)|
+|[ClearToMatchColorStyle](../../../api/Word.chart.cleartomatchcolorstyle.md)|
+|[ClearToMatchStyle](../../../api/Word.Chart.ClearToMatchStyle.md)|
+|[Copy](../../../api/Word.Chart.Copy.md)|
+|[CopyPicture](../../../api/Word.Chart.CopyPicture.md)|
+|[Delete](../../../api/Word.Chart.Delete.md)|
+|[Export](../../../api/Word.Chart.Export.md)|
+|[FullSeriesCollection](../../../api/Word.chart.fullseriescollection.md)|
+|[GetChartElement](../../../api/Word.Chart.GetChartElement.md)|
+|[Paste](../../../api/Word.Chart.Paste.md)|
+|[Refresh](../../../api/Word.Chart.Refresh.md)|
+|[SaveChartTemplate](../../../api/Word.Chart.SaveChartTemplate.md)|
+|[Select](../../../api/Word.Chart.Select.md)|
+|[SeriesCollection](../../../api/Word.Chart.SeriesCollection.md)|
+|[SetBackgroundPicture](../../../api/Word.Chart.SetBackgroundPicture.md)|
+|[SetDefaultChart](../../../api/Word.Chart.SetDefaultChart.md)|
+|[SetElement](../../../api/Word.Chart.SetElement.md)|
 |[SetSourceData](chart-setsourcedata-method-word.md)|
 
 ## Properties
@@ -95,48 +95,48 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 
 |**Name**|
 |:-----|
-|[Application](chart-application-property-word.md)|
-|[AutoScaling](chart-autoscaling-property-word.md)|
-|[BackWall](chart-backwall-property-word.md)|
-|[BarShape](chart-barshape-property-word.md)|
-|[CategoryLabelLevel](chart-categorylabellevel-property-word.md)|
+|[Application](../../../api/Word.Chart.Application.md)|
+|[AutoScaling](../../../api/Word.Chart.AutoScaling.md)|
+|[BackWall](../../../api/Word.Chart.BackWall.md)|
+|[BarShape](../../../api/Word.Chart.BarShape.md)|
+|[CategoryLabelLevel](../../../api/Word.chart.categorylabellevel.md)|
 |[ChartArea](chart-chartarea-property-word.md)|
-|[ChartColor](chart-chartcolor-property-word.md)|
-|[ChartData](chart-chartdata-property-word.md)|
-|[ChartGroups](chart-chartgroups-property-word.md)|
-|[ChartStyle](chart-chartstyle-property-word.md)|
-|[ChartTitle](chart-charttitle-property-word.md)|
-|[ChartType](chart-charttype-property-word.md)|
-|[Creator](chart-creator-property-word.md)|
-|[DataTable](chart-datatable-property-word.md)|
-|[DepthPercent](chart-depthpercent-property-word.md)|
-|[DisplayBlanksAs](chart-displayblanksas-property-word.md)|
-|[Elevation](chart-elevation-property-word.md)|
-|[Floor](chart-floor-property-word.md)|
-|[GapDepth](chart-gapdepth-property-word.md)|
-|[HasAxis](chart-hasaxis-property-word.md)|
-|[HasDataTable](chart-hasdatatable-property-word.md)|
-|[HasLegend](chart-haslegend-property-word.md)|
-|[HasTitle](chart-hastitle-property-word.md)|
-|[HeightPercent](chart-heightpercent-property-word.md)|
-|[Legend](chart-legend-property-word.md)|
-|[Parent](chart-parent-property-word.md)|
-|[Perspective](chart-perspective-property-word.md)|
-|[PivotLayout](chart-pivotlayout-property-word.md)|
-|[PlotArea](chart-plotarea-property-word.md)|
-|[PlotBy](chart-plotby-property-word.md)|
-|[PlotVisibleOnly](chart-plotvisibleonly-property-word.md)|
-|[RightAngleAxes](chart-rightangleaxes-property-word.md)|
-|[Rotation](chart-rotation-property-word.md)|
-|[SeriesNameLevel](chart-seriesnamelevel-property-word.md)|
-|[Shapes](chart-shapes-property-word.md)|
-|[ShowAllFieldButtons](chart-showallfieldbuttons-property-word.md)|
-|[ShowAxisFieldButtons](chart-showaxisfieldbuttons-property-word.md)|
-|[ShowDataLabelsOverMaximum](chart-showdatalabelsovermaximum-property-word.md)|
-|[ShowLegendFieldButtons](chart-showlegendfieldbuttons-property-word.md)|
-|[ShowReportFilterFieldButtons](chart-showreportfilterfieldbuttons-property-word.md)|
-|[ShowValueFieldButtons](chart-showvaluefieldbuttons-property-word.md)|
-|[SideWall](chart-sidewall-property-word.md)|
+|[ChartColor](../../../api/Word.chart.chartcolor.md)|
+|[ChartData](../../../api/Word.Chart.ChartData.md)|
+|[ChartGroups](../../../api/Word.Chart.ChartGroups.md)|
+|[ChartStyle](../../../api/Word.Chart.ChartStyle.md)|
+|[ChartTitle](../../../api/Word.Chart.ChartTitle.md)|
+|[ChartType](../../../api/Word.Chart.ChartType.md)|
+|[Creator](../../../api/Word.Chart.Creator.md)|
+|[DataTable](../../../api/Word.Chart.DataTable.md)|
+|[DepthPercent](../../../api/Word.Chart.DepthPercent.md)|
+|[DisplayBlanksAs](../../../api/Word.Chart.DisplayBlanksAs.md)|
+|[Elevation](../../../api/Word.Chart.Elevation.md)|
+|[Floor](../../../api/Word.Chart.Floor.md)|
+|[GapDepth](../../../api/Word.Chart.GapDepth.md)|
+|[HasAxis](../../../api/Word.Chart.HasAxis.md)|
+|[HasDataTable](../../../api/Word.Chart.HasDataTable.md)|
+|[HasLegend](../../../api/Word.Chart.HasLegend.md)|
+|[HasTitle](../../../api/Word.Chart.HasTitle.md)|
+|[HeightPercent](../../../api/Word.Chart.HeightPercent.md)|
+|[Legend](../../../api/Word.Chart.Legend.md)|
+|[Parent](../../../api/Word.Chart.Parent.md)|
+|[Perspective](../../../api/Word.Chart.Perspective.md)|
+|[PivotLayout](../../../api/Word.Chart.PivotLayout.md)|
+|[PlotArea](../../../api/Word.Chart.PlotArea.md)|
+|[PlotBy](../../../api/Word.Chart.PlotBy.md)|
+|[PlotVisibleOnly](../../../api/Word.Chart.PlotVisibleOnly.md)|
+|[RightAngleAxes](../../../api/Word.Chart.RightAngleAxes.md)|
+|[Rotation](../../../api/Word.Chart.Rotation.md)|
+|[SeriesNameLevel](../../../api/Word.chart.seriesnamelevel.md)|
+|[Shapes](../../../api/Word.Chart.Shapes.md)|
+|[ShowAllFieldButtons](../../../api/Word.Chart.ShowAllFieldButtons.md)|
+|[ShowAxisFieldButtons](../../../api/Word.Chart.ShowAxisFieldButtons.md)|
+|[ShowDataLabelsOverMaximum](../../../api/Word.Chart.ShowDataLabelsOverMaximum.md)|
+|[ShowLegendFieldButtons](../../../api/Word.Chart.ShowLegendFieldButtons.md)|
+|[ShowReportFilterFieldButtons](../../../api/Word.Chart.ShowReportFilterFieldButtons.md)|
+|[ShowValueFieldButtons](../../../api/Word.Chart.ShowValueFieldButtons.md)|
+|[SideWall](../../../api/Word.Chart.SideWall.md)|
 |[Walls](chart-walls-property-word.md)|
 
 ## See also

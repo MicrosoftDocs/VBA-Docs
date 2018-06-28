@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Create Separate Read and Compose Pages Using Form Regions in a Custom Form
 
-To create distinct read and compose pages for a custom form, you can first use the Forms Designer to design a separate form region for the read page, and another separate form region for the compose page. For more information on creating a form region, see  [How to: Create a Form Region](create-a-form-region.md).
+To create distinct read and compose pages for a custom form, you can first use the Forms Designer to design a separate form region for the read page, and another separate form region for the compose page. For more information on creating a form region, see  [How to: Create a Form Region](../../Concepts/Outlook-Forms/create-a-form-region.md).
 
 In order for Outlook to display the appropriate form region for the read page and the compose page, you can use an add-in that programmatically tells Outlook which form region to use in each case. Your add-in does this through the  **[GetFormRegionStorage](../../../api/Outlook.FormRegionStartup.GetFormRegionStorage.md)** method of the **[FormRegionStartup](../../../api/Outlook.formregionstartup.md)** interface.
 

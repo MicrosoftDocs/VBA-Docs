@@ -11,7 +11,7 @@ ms.date: 06/08/2017
  Outlook items can be sorted by adding one or more Outlook item properties to the **[OrderFields](../../../api/Outlook.OrderFields.md)** collection of any of the following objects:
 
 
--  **[BusinessCardView](business../../../api/Outlook.CardView.md)**
+-  **[BusinessCardView](../../../api/Outlook.CardView.md)**
     
 -  **[CardView](../../../api/Outlook.CardView.md)**
     
@@ -52,6 +52,6 @@ The following guidelines should be used when specifying custom properties:
     
 - Custom property names are not case-sensitive, can include spaces, and should be enclosed in square brackets ([]) if they contain spaces.
     
-For more information about property identifiers, see  [Properties Overview](properties-overview.md).
+For more information about property identifiers, see  [Properties Overview](../Navigation/properties-overview.md).
 
 

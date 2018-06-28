@@ -17,6 +17,6 @@ ms.date: 06/08/2017
     
 -  [Testing and Publishing Your Forms](testing-and-publishing-your-forms.md)
     
--  [Creating Custom Forms by Using Visual Basic Scripting Edition](creating-custom-forms-by-using-visual-basic-scripting-edition.md)
+-  [Creating Custom Forms by Using Visual Basic Scripting Edition](../Customizing-Forms/creating-custom-forms-by-using-visual-basic-scripting-edition.md)
     
 

@@ -16,10 +16,10 @@ The building blocks object model includes three new objects and four new collect
 |**Name**|**Description**|
 |:-----|:-----|
 | **[BuildingBlock](buildingblock-object-word.md)**|A specific building block entry.|
-| **[BuildingBlocks](buildingblocks-object-word.md)**|A collection of building block entries in a template that are of the same type and category.|
-| **[BuildingBlockEntries](buildingblockentries-object-word.md)**|A collection of all the building blocks in a template.|
+| **[BuildingBlocks](../../../api/Word.BuildingBlocks.md)**|A collection of building block entries in a template that are of the same type and category.|
+| **[BuildingBlockEntries](../../../api/Word.BuildingBlockEntries.md)**|A collection of all the building blocks in a template.|
 | **[BuildingBlockType](buildingblocktype-object-word.md)**|A building block type. |
-| **[BuildingBlockTypes](buildingblocktypes-object-word.md)**|A collection of building block types.|
+| **[BuildingBlockTypes](../../../api/Word.BuildingBlockTypes.md)**|A collection of building block types.|
 | **[Category](category-object-word.md)**|A building block category.|
 | **[Categories](categories-object-word.md)**|A collection of building block categories.|
 
@@ -31,7 +31,7 @@ Categories are composed of an unlimited number of strings that you can define to
 
 Because you can organize building blocks into types and categories, building blocks can be incredibly flexible. For example, you can have a building block named "Title" that has a type of  **wdTypeBibliography** and a category of "Book Titles" and another building block named "Title" that has a type of **wdTypeBibliography** and a category of "Movie Titles" and then you can have yet another building block named "Title" that has a type of **wdTypeCustomHeaders** and a category of "Book Titles" and so on. The incredible flexibility that building blocks provide help you to create custom solutions without writing code.
 
-However, building block are also programmable. You can create new building blocks, delete building blocks, and manage building blocks programmatically. You can also watch for when users insert new building blocks into a document by using the  **[BuildingBlockInsert](document-buildingblockinsert-event-word.md)** event. Plus, you can use building blocks with content controls to give you even greater control over which building blocks users can insert into their documents. For example, you can use a building block content control to filter the types of building blocks that a user sees, which means that the user cannot insert a building block into a document that is not allowed at a specific place in the document. There are several examples in the following sections that show you how to use the building block objects to work with building blocks programmatically.
+However, building block are also programmable. You can create new building blocks, delete building blocks, and manage building blocks programmatically. You can also watch for when users insert new building blocks into a document by using the  **[BuildingBlockInsert](../../../api/Word.Document.BuildingBlockInsert.md)** event. Plus, you can use building blocks with content controls to give you even greater control over which building blocks users can insert into their documents. For example, you can use a building block content control to filter the types of building blocks that a user sees, which means that the user cannot insert a building block into a document that is not allowed at a specific place in the document. There are several examples in the following sections that show you how to use the building block objects to work with building blocks programmatically.
 
 
 ## Simple Tasks
@@ -41,7 +41,7 @@ The following sections provide simple examples of how to do specific tasks using
 
 ## Creating a Custom Building Block
 
-Creating a custom building block is as simple as using the  **[Add](buildingblocks-add-method-word.md)** method for the **BuildingBlockEntries** collection. You can also use the **[Add](buildingblockentries-add-method-word.md)** method for the **BuildingBlocks** collection; however, this method may raise a run-time error if there are currently no building blocks for the specified type or category. As explained in the table of objects, the **BuildingBlocks** collection is a collection of building blocks for a specific type and category. The **BuildingBlocksEntries** collection contains all the building blocks for a template. Therefore, the preferred way to add new building blocks programmatically is to use the **Add** method for the **BuildingBlockEntries** collection.
+Creating a custom building block is as simple as using the  **[Add](../../../api/Word.BuildingBlocks.Add.md)** method for the **BuildingBlockEntries** collection. You can also use the **[Add](../../../api/Word.BuildingBlockEntries.Add.md)** method for the **BuildingBlocks** collection; however, this method may raise a run-time error if there are currently no building blocks for the specified type or category. As explained in the table of objects, the **BuildingBlocks** collection is a collection of building blocks for a specific type and category. The **BuildingBlocksEntries** collection contains all the building blocks for a template. Therefore, the preferred way to add new building blocks programmatically is to use the **Add** method for the **BuildingBlockEntries** collection.
 
 The following code example collapses the current selection, creates a range and specifies the text for the range, and then adds the selection as a custom building block to the collection of building block entries in the template attached to the current document.
 

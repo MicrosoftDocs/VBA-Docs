@@ -27,7 +27,7 @@ You can use the  **DatasheetFontWeight** property to specify the line width of t
 
 The  **DatasheetFontWeight** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-These properties are only available in [Visual Basic](set-properties-by-using-visual-basic.md) within a Microsoft Access database.
+These properties are only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) within a Microsoft Access database.
 
 In Visual Basic, the  **DatasheetFontWeight** property setting uses the following **Integer** values.
 

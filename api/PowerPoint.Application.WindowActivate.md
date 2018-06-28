@@ -34,7 +34,7 @@ Occurs when the application window or any document window is activated.
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
 

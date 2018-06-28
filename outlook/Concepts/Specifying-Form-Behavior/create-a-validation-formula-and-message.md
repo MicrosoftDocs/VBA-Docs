@@ -24,6 +24,6 @@ For more information, see the following:
 
 -  [How to: Require a Value for a Field or Control](require-a-value-for-a-field-or-control.md)
     
--  [Validating User Input to a Field](validating-user-input-to-a-field.md)
+-  [Validating User Input to a Field](../Forms/validating-user-input-to-a-field.md)
     
 

@@ -30,7 +30,7 @@ Performs a Microsoft Instant Search on the current folder displayed in the Explo
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Query_|Required| **String**|A search string that can contain any valid keywords supported in Instant Search.|
-| _SearchScope_|Optional| **[OlSearchScope](olsearchscope-enumeration-outlook.md)**|Specifies the scope in terms of folders for the search.|
+| _SearchScope_|Optional| **[OlSearchScope](../../../api/Outlook.OlSearchScope.md)**|Specifies the scope in terms of folders for the search.|
 
 ## Remarks
 
@@ -45,5 +45,5 @@ The  **Search** method does not provide a callback to enable the developer to de
 #### Concepts
 
 
-[Explorer Object](explorer-object-outlook.md)
+[Explorer Object](../../../api/Outlook.Explorer.md)
 

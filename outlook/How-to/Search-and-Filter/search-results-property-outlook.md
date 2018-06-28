@@ -83,5 +83,5 @@ End Sub
 #### Concepts
 
 
-[Search Object](search-object-outlook.md)
+[Search Object](../../../api/Outlook.Search.md)
 

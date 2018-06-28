@@ -30,7 +30,7 @@ Use the following procedure to create a custom dialog box:
     
     You can initialize controls in a procedure before you show a form, or you can add code to the Initialize event of the form.
     
-5.  [Control and Dialog Box Events](control-and-dialog-box-events.md)
+5.  [Control and Dialog Box Events](../Events-WorksheetFunctions-Shapes/control-and-dialog-box-events.md)
     
     All controls have a predefined set of events. For example, a command button has a  **Click** event that occurs when the user clicks the command button. You can write event procedures that run when the events occur.
     

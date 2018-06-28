@@ -14,7 +14,7 @@ The message class property determines which folder to route the message to, and 
 
 ## Creating a message class when customizing form regions
 
-Form regions give you more control over how Outlook handles your customized form. Depending on the type of form region that you use when you customize a form, you must create a unique message class for your form. For more information, see  [How to: Create a Form Region](create-a-form-region.md).
+Form regions give you more control over how Outlook handles your customized form. Depending on the type of form region that you use when you customize a form, you must create a unique message class for your form. For more information, see  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
 
 
 ## Creating a message class when customizing form pages

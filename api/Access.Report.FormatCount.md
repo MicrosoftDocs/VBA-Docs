@@ -25,7 +25,7 @@ You can use the  **FormatCount** property to determine the number of times the *
 
 ## Remarks
 
-You can use this property only in an [event procedure](set-properties-by-using-visual-basic.md)specified by a section's  **OnFormat** property setting.
+You can use this property only in an [event procedure](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)specified by a section's  **OnFormat** property setting.
 
 This property isn't available in report Design view.
 

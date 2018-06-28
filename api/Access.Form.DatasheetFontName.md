@@ -27,7 +27,7 @@ You can use the  **DatasheetFontName** property to specify the font used to disp
 
 The  **DatasheetFontName** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-This property is only available in [Visual Basic](set-properties-by-using-visual-basic.md)within a Microsoft Access database.
+This property is only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)within a Microsoft Access database.
 
 For the  **DatasheetFontName** property, the font names you can specify depend on the fonts installed on your system and for your printer. If you specify a font that your system can't display or that isn't installed, Microsoft Windows will substitute a similar font.
 

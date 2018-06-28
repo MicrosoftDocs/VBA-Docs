@@ -31,7 +31,7 @@ Use the following troubleshooting tips to help troubleshoot problems with custom
  **Forms customized with form regions**
 
 
-- When using a custom field on a form region, you must create the field by using an add-in in each folder where you store items that use the form. That way, you can add the field to the view and it is searchable. If you create the field on only the form region, it will not be accessible in the view and it might not pick up the appropriate default value when you create a new item that uses the form.For more information, see  [Extending a Form Region with an Add-in](extending-a-form-region-with-an-add-in.md).
+- When using a custom field on a form region, you must create the field by using an add-in in each folder where you store items that use the form. That way, you can add the field to the view and it is searchable. If you create the field on only the form region, it will not be accessible in the view and it might not pick up the appropriate default value when you create a new item that uses the form.For more information, see  [Extending a Form Region with an Add-in](../Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md).
     
 
 ## When I try to sort, group, or filter a formula field or combination field, I receive an error message.

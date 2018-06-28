@@ -11,10 +11,10 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Click Event (VBA Add-In Object Model)](click-event-vba-add-in-object-model.md)
+- [Click Event (VBA Add-In Object Model)](../User-Interface-Help/click-event-vba-add-in-object-model.md)
     
-- [ItemAdded Event (VBA Add-In Object Model)](itemadded-event-vba-add-in-object-model.md)
+- [ItemAdded Event (VBA Add-In Object Model)](../User-Interface-Help/itemadded-event-vba-add-in-object-model.md)
     
-- [ItemRemoved Event (VBA Add-In Object Model)](itemremoved-event-vba-add-in-object-model.md)
+- [ItemRemoved Event (VBA Add-In Object Model)](../User-Interface-Help/itemremoved-event-vba-add-in-object-model.md)
     
 

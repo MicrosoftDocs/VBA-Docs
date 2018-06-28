@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Border Object (Word)
 
-Represents a border of an object. The  **Border** object is a member of the **[Borders](borders-object-word.md)** collection.
+Represents a border of an object. The  **Border** object is a member of the **[Borders](../../../api/Word.borders.md)** collection.
 
 
 ## Remarks
 
 Use  **Borders** (index), where index identifies the border, to return a single **Border** object. Index can be one of the **[WdBorderType](wdbordertype-enumeration-word.md)** constants. Some of the **WdBorderType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
-Use the  **[LineStyle](border-linestyle-property-word.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
+Use the  **[LineStyle](../../../api/Word.Border.LineStyle.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
 
 
 
@@ -58,7 +58,7 @@ For Each aBorder In ActiveDocument.Sections(1).Borders
 Next aBorder
 ```
 
- **Border** objects cannot be added to the **[Borders](borders-object-word.md)** collection. The number of members in the **[Borders](borders-object-word.md)** collection is finite and varies depending on the type of object. For example, a table has six elements in the **[Borders](borders-object-word.md)** collection, whereas a paragraph has four.
+ **Border** objects cannot be added to the **[Borders](../../../api/Word.borders.md)** collection. The number of members in the **[Borders](../../../api/Word.borders.md)** collection is finite and varies depending on the type of object. For example, a table has six elements in the **[Borders](../../../api/Word.borders.md)** collection, whereas a paragraph has four.
 
 
 ## Properties
@@ -67,14 +67,14 @@ Next aBorder
 
 |**Name**|
 |:-----|
-|[Application](border-application-property-word.md)|
-|[ArtStyle](border-artstyle-property-word.md)|
-|[ArtWidth](border-artwidth-property-word.md)|
-|[Color](border-color-property-word.md)|
-|[ColorIndex](border-colorindex-property-word.md)|
-|[Creator](border-creator-property-word.md)|
-|[Inside](border-inside-property-word.md)|
-|[LineStyle](border-linestyle-property-word.md)|
+|[Application](../../../api/Word.Border.Application.md)|
+|[ArtStyle](../../../api/Word.Border.ArtStyle.md)|
+|[ArtWidth](../../../api/Word.Border.ArtWidth.md)|
+|[Color](../../../api/Word.Border.Color.md)|
+|[ColorIndex](../../../api/Word.Border.ColorIndex.md)|
+|[Creator](../../../api/Word.Border.Creator.md)|
+|[Inside](../../../api/Word.Border.Inside.md)|
+|[LineStyle](../../../api/Word.Border.LineStyle.md)|
 |[LineWidth](border-linewidth-property-word.md)|
 |[Parent](border-parent-property-word.md)|
 |[Visible](border-visible-property-word.md)|

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 ## Forms customized with form regions
 
-To set properties for a form region in a custom form, you must use the XML manifest file instead of the Forms Designer. To learn more, see  [How to: Create a Form Region](create-a-form-region.md).
+To set properties for a form region in a custom form, you must use the XML manifest file instead of the Forms Designer. To learn more, see  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
 
 
 ## Forms customized with form pages

@@ -32,7 +32,7 @@ Long
 
 The  **hWndAccessApp** method returns a **Long Integer** value set by Microsoft Access and is read-only.
 
-You can use this method by using [Visual Basic](set-properties-by-using-visual-basic.md)when making calls to Windows application programming interface (API) functions or other external procedures that require a window handle as an argument.
+You can use this method by using [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)when making calls to Windows application programming interface (API) functions or other external procedures that require a window handle as an argument.
 
 To get the handle to a window containing a Microsoft Access object such as a Form or Report, use the  **hWnd** property.
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Results Object (Outlook)
 
-Contains data and results returned by the  **[Search](search-object-outlook.md)** object and the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method.
+Contains data and results returned by the  **[Search](../../../api/Outlook.Search.md)** object and the **[AdvancedSearch](application-advancedsearch-method-outlook.md)** method.
 
 
 ## Remarks
 
-The  **Results** object contains properties and methods that allow you to view and manipulate data. For example the **[GetNext](results-getnext-method-outlook.md)**, **[GetPrevious](results-getprevious-method-outlook.md)**, **[GetFirst](results-getfirst-method-outlook.md)**, and **[GetLast](results-getlast-method-outlook.md)** methods allow you to search through the results and view the data by field. The **[Sort](results-sort-method-outlook.md)** method allows you to sort the data.
+The  **Results** object contains properties and methods that allow you to view and manipulate data. For example the **[GetNext](../../../api/Outlook.Results.GetNext.md)**, **[GetPrevious](../../../api/Outlook.Results.GetPrevious.md)**, **[GetFirst](../../../api/Outlook.Results.GetFirst.md)**, and **[GetLast](../../../api/Outlook.Results.GetLast.md)** methods allow you to search through the results and view the data by field. The **[Sort](../../../api/Outlook.Results.Sort.md)** method allows you to sort the data.
 
 Use the  **SearchObject.Results** property to return a **Results** object.
 
@@ -69,9 +69,9 @@ End Sub
 
 |**Name**|
 |:-----|
-|[ItemAdd](results-itemadd-event-outlook.md)|
-|[ItemChange](results-itemchange-event-outlook.md)|
-|[ItemRemove](results-itemremove-event-outlook.md)|
+|[ItemAdd](../../../api/Outlook.Results.ItemAdd.md)|
+|[ItemChange](../../../api/Outlook.Results.ItemChange.md)|
+|[ItemRemove](../../../api/Outlook.Results.ItemRemove.md)|
 
 ## Methods
 
@@ -79,14 +79,14 @@ End Sub
 
 |**Name**|
 |:-----|
-|[GetFirst](results-getfirst-method-outlook.md)|
-|[GetLast](results-getlast-method-outlook.md)|
-|[GetNext](results-getnext-method-outlook.md)|
-|[GetPrevious](results-getprevious-method-outlook.md)|
-|[Item](results-item-method-outlook.md)|
-|[ResetColumns](results-resetcolumns-method-outlook.md)|
-|[SetColumns](results-setcolumns-method-outlook.md)|
-|[Sort](results-sort-method-outlook.md)|
+|[GetFirst](../../../api/Outlook.Results.GetFirst.md)|
+|[GetLast](../../../api/Outlook.Results.GetLast.md)|
+|[GetNext](../../../api/Outlook.Results.GetNext.md)|
+|[GetPrevious](../../../api/Outlook.Results.GetPrevious.md)|
+|[Item](../../../api/Outlook.Results.Item.md)|
+|[ResetColumns](../../../api/Outlook.Results.ResetColumns.md)|
+|[SetColumns](../../../api/Outlook.Results.SetColumns.md)|
+|[Sort](../../../api/Outlook.Results.Sort.md)|
 
 ## Properties
 
@@ -94,7 +94,7 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](results-application-property-outlook.md)|
+|[Application](../../../api/Outlook.Results.Application.md)|
 |[Class](results-class-property-outlook.md)|
 |[Count](results-count-property-outlook.md)|
 |[DefaultItemType](results-defaultitemtype-property-outlook.md)|

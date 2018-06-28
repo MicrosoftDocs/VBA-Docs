@@ -33,7 +33,7 @@ Nothing
 
 ## Example
 
-This example shows you where you can place code that runs before merging an incoming remote change. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object.md).
+This example shows you where you can place code that runs before merging an incoming remote change. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md).
 
 ```vb
 Private Sub App_WorkbookBeforeRemoteChange(ByVal Wb As Workbook)
@@ -44,8 +44,8 @@ End Sub
 
 ## See also
 
-[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
+[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
-[Co authoring](about-coauthoring-in-excel.md)
+[Co authoring](../excel/Concepts/about-coauthoring-in-excel.md)
 
 [Workbook Object](Excel.Workbook.md)

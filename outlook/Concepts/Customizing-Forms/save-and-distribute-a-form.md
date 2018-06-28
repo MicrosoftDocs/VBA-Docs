@@ -21,9 +21,9 @@ There are two ways in Microsoft Outlook to save a form that has customized form 
 For more information, see the following topics:
 
 
--  [Form Regions](form-regions.md)
+-  [Form Regions](../Outlook-Forms/form-regions.md)
     
--  [How to: Create a Form Region](create-a-form-region.md)
+-  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md)
     
 
 ## Forms customized with form pages

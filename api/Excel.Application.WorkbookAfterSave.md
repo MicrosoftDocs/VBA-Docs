@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 Occurs after the workbook is saved.
 
-**NOTE:** In Office 365, Excel supports AutoSave, which enables the user's edits to be saved automatically and continuously. Following the guidance in [this article](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md) will ensure that running code in response to the **WorkbookAfterSave** event will function as intended when AutoSave is enabled.
+**NOTE:** In Office 365, Excel supports AutoSave, which enables the user's edits to be saved automatically and continuously. Following the guidance in [this article](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md) will ensure that running code in response to the **WorkbookAfterSave** event will function as intended when AutoSave is enabled.
 
 ## Syntax
 
@@ -57,4 +57,4 @@ End Sub
 
 [Application Object](Excel.Application(objec).md)
 
-[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
+[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)

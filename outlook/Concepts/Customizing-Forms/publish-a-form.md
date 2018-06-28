@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Publish a Form
 
- **Note**  You cannot publish forms that you customized with form regions to the server; instead, you must deploy them by using an add-in. For more information, see  [How to: Extend a Form Region with an Add-in](extending-a-form-region-with-an-add-in.md).
+ **Note**  You cannot publish forms that you customized with form regions to the server; instead, you must deploy them by using an add-in. For more information, see  [How to: Extend a Form Region with an Add-in](../Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md).
 
 
 ## Publish a form customized with form pages

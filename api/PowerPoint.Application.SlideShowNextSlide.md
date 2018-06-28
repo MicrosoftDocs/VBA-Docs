@@ -33,7 +33,7 @@ Occurs immediately before the transition to the next slide. For the first slide,
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](../powerpoint/How-to/use-events-with-the-application-object.md).
 
 
 ## Example

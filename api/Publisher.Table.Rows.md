@@ -25,7 +25,7 @@ Returns a  **[Rows](Publisher.Rows.md)** collection that represents all the tabl
 
 ## Remarks
 
-For information about returning a single member of a collection, see  [Returning an Object from a Collection](returning-an-object-from-a-collection-publisher.md).
+For information about returning a single member of a collection, see  [Returning an Object from a Collection](../publisher/Concepts/returning-an-object-from-a-collection-publisher.md).
 
 
 ## Example

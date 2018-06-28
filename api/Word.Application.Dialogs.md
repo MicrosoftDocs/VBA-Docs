@@ -25,7 +25,7 @@ Returns a  **[Dialogs](Word.dialogs.md)** collection that represents all the bui
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](returning-an-object-from-a-collection-word.md). 
+For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md). 
 
 For a list of built-in dialog boxes, see the **[WdWordDialog](Word.WdWordDialog.md)** enumeration.
 

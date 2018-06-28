@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 You can design and deploy a form region with or without an add-in. 
 
-When you design a form region without an add-in, you create the form region in the Forms Designer and save the form region in an Outlook Form Storage file (.OFS). For more information on creating a form region, see  [How to: Create a Form Region](create-a-form-region.md).
+When you design a form region without an add-in, you create the form region in the Forms Designer and save the form region in an Outlook Form Storage file (.OFS). For more information on creating a form region, see  [How to: Create a Form Region](../Outlook-Forms/create-a-form-region.md).
 
 To run the form region, you must register it in the Windows registry and specify the message class and the corresponding form region manifest XML file.
 

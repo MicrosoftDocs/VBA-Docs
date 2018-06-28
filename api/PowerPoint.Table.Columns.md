@@ -30,7 +30,7 @@ Columns
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](return-objects-from-collections.md).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](../powerpoint/How-to/return-objects-from-collections.md).
 
 
 ## Example

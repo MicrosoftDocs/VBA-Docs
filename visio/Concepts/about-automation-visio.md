@@ -44,6 +44,6 @@ A program controls Visio by accessing its objects and then using their propertie
     
 In the  _Visual Basic Editor:_ On the **Run** menu, click **Run Macro.**
 
-In  _Visio:_ In the **Code** group on the [Developer](run-visio-in-developer-mode.md) tab, click **Macros**.
+In  _Visio:_ In the **Code** group on the [Developer](../How-to/run-visio-in-developer-mode.md) tab, click **Macros**.
 
 

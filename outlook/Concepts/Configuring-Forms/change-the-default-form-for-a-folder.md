@@ -20,5 +20,5 @@ You can change the default form for a particular public folder so that when a ne
 
  **Note**   To copy, install, delete, and update forms in this folder, click **Manage** on the **Forms** tab. You can also specify available forms in a public folder by selecting an option under the **Allow these forms in this folder** box.
 
-If you are interested in this topic, you might also be interested in learning how to  [Change the Form for Existing Items in a Folder](changing-the-form-used-by-existing-items-in-a-folder.md).
+If you are interested in this topic, you might also be interested in learning how to  [Change the Form for Existing Items in a Folder](../Forms/changing-the-form-used-by-existing-items-in-a-folder.md).
 

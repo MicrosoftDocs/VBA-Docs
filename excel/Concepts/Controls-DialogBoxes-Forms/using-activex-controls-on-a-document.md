@@ -26,7 +26,7 @@ Just as you can add ActiveX controls to  [custom dialog boxes](create-a-custom-d
     
     You can initialize controls in a procedure.
     
-4.  [Write event procedures](control-and-dialog-box-events.md)
+4.  [Write event procedures](../Events-WorksheetFunctions-Shapes/control-and-dialog-box-events.md)
     
     All controls have a predefined set of events. For example, a command button has a Click event that occurs when the user clicks the command button. You can write event procedures that run when the events occur.
     

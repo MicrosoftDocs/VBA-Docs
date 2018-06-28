@@ -20,7 +20,7 @@ Returns a  **Boolean** that indicates **True** if the recipient has been validat
 
  _expression_ . **Resolved**
 
- _expression_ A variable that represents a **[Recipient](recipient-object-outlook.md)** object.
+ _expression_ A variable that represents a **[Recipient](../../../api/Outlook.Recipient.md)** object.
 
 
 ## Remarks
@@ -82,5 +82,5 @@ End Sub
 #### Concepts
 
 
-[Recipient Object](recipient-object-outlook.md)
+[Recipient Object](../../../api/Outlook.Recipient.md)
 

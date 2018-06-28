@@ -16,7 +16,7 @@ For example, imagine that your application requires converting the text in all a
 
 The sample code in this topic demonstrates how to solve this particular problem, using the  **GetProperty(String)** and **SetProperty(String, Object)** methods of the **Attachment** interface. In each case, you supply a value that contains the MAPI property [PidTagAttachDataBinary](http://msdn.microsoft.com/library/3b0a8b28-863e-4b96-a4c0-fdb8f40555b9%28Office.15%29.aspx) to obtain (and then set) the contents of the attachment.
 
- **Note**  The namespace representation of the  **PidTagAttachDataBinary** property is http://schemas.microsoft.com/mapi/proptag/0x37010102. For more information about using the **PropertyAccessor** object on properties that are referenced by namespace, see [Referencing Properties by Namespace](referencing-properties-by-namespace.md).
+ **Note**  The namespace representation of the  **PidTagAttachDataBinary** property is http://schemas.microsoft.com/mapi/proptag/0x37010102. For more information about using the **PropertyAccessor** object on properties that are referenced by namespace, see [Referencing Properties by Namespace](../../How-to/Navigation/referencing-properties-by-namespace.md).
 
 The sample code handles the  **ItemSend** event of a mail item. In the custom event handler, for any attachment that has a .txt extension, the code calls the `ConvertAttachmentToUpperCase` method. `ConvertAttachmentToUpperCase` takes an **Attachment** object and a **MailItem** object as input arguments, retrieves a byte array that is filled with the contents of the attachment, converts the byte array to a string, converts the string to uppercase, and then sets the contents of the attachment to the converted string as a byte array.
 
@@ -172,7 +172,7 @@ End Class
 ## See also
 
 
- [Attach a File to a Mail Item](attach-a-file-to-a-mail-item.md)<br>
+ [Attach a File to a Mail Item](../../How-to/Items-Folders-and-Stores/attach-a-file-to-a-mail-item.md)<br>
  [Attach an Outlook Contact Item to an Email Message](attach-an-outlook-contact-item-to-an-email-message.md)<br>
  [Limit the Size of an Attachment to an Outlook Email Message](limit-the-size-of-an-attachment-to-an-outlook-email-message.md)<br>
 

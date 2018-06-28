@@ -20,7 +20,7 @@ Returns or sets the ending character position of a range. Read/write  **Long** .
 
  _expression_ . **End**
 
- _expression_ A variable that represents a **[Range](range-object-word.md)** object.
+ _expression_ A variable that represents a **[Range](../Working-with-Word/range-object-word.md)** object.
 
 
 ## Remarks
@@ -47,5 +47,5 @@ myRange.End = myRange.End - 1
 #### Concepts
 
 
-[Range Object](range-object-word.md)
+[Range Object](../Working-with-Word/range-object-word.md)
 

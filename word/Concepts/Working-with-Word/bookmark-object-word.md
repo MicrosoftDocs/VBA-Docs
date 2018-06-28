@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmark Object (Word)
 
-Represents a single bookmark in a document, selection, or range. The  **Bookmark** object is a member of the **[Bookmarks](bookmarks-object-word.md)** collection. The **Bookmarks** collection includes all the bookmarks listed in the **Bookmark** dialog box ( **Insert** menu).
+Represents a single bookmark in a document, selection, or range. The  **Bookmark** object is a member of the **[Bookmarks](../../../api/Word.bookmarks.md)** collection. The **Bookmarks** collection includes all the bookmarks listed in the **Bookmark** dialog box ( **Insert** menu).
 
 
 ## Remarks
@@ -29,7 +29,7 @@ Use  **Bookmarks** (index), where index is the bookmark name or index number, to
 ActiveDocument.Bookmarks("temp").Select
 ```
 
-The index number represents the position of the bookmark in the  **[Selection](selection-object-word.md)** or **[Range](range-object-word.md)** object. For the **[Document](document-object-word.md)** object, the index number represents the position of the bookmark in the alphabetical list of bookmarks in the **Bookmarks** dialog box (click **Name** to sort the list of bookmarks alphabetically). The following example displays the name of the second bookmark in the **Bookmarks** collection.
+The index number represents the position of the bookmark in the  **[Selection](../../../api/Word.Selection.md)** or **[Range](range-object-word.md)** object. For the **[Document](../Objects-Properties-Methods/document-object-word.md)** object, the index number represents the position of the bookmark in the alphabetical list of bookmarks in the **Bookmarks** dialog box (click **Name** to sort the list of bookmarks alphabetically). The following example displays the name of the second bookmark in the **Bookmarks** collection.
 
 
 
@@ -38,7 +38,7 @@ The index number represents the position of the bookmark in the  **[Selection](s
 MsgBox ActiveDocument.Bookmarks(2).Name
 ```
 
-Use the  **[Add](bookmarks-add-method-word.md)** method to add a bookmark to a document range. The following example marks the selection by adding a bookmark named "temp."
+Use the  **[Add](../../../api/Word.Bookmarks.Add.md)** method to add a bookmark to a document range. The following example marks the selection by adding a bookmark named "temp."
 
 
 
@@ -67,7 +67,7 @@ You can use [predefined bookmarks](http://msdn.microsoft.com/library/aa1c6d85-fe
 ActiveDocument.Bookmarks("\Para").Copy "currpara"
 ```
 
-Use the  **[Exists](bookmarks-exists-method-word.md)** method to determine whether a bookmark already exists in the selection, range, or document. The following example ensures that the bookmark named "temp" exists in the active document before selecting the bookmark.
+Use the  **[Exists](../../../api/Word.Bookmarks.Exists.md)** method to determine whether a bookmark already exists in the selection, range, or document. The following example ensures that the bookmark named "temp" exists in the active document before selecting the bookmark.
 
 
 
@@ -85,9 +85,9 @@ End If
 
 |**Name**|
 |:-----|
-|[Copy](bookmark-copy-method-word.md)|
-|[Delete](bookmark-delete-method-word.md)|
-|[Select](bookmark-select-method-word.md)|
+|[Copy](../../../api/Word.Bookmark.Copy.md)|
+|[Delete](../../../api/Word.Bookmark.Delete.md)|
+|[Select](../../../api/Word.Bookmark.Select.md)|
 
 ## Properties
 
@@ -95,16 +95,16 @@ End If
 
 |**Name**|
 |:-----|
-|[Application](bookmark-application-property-word.md)|
-|[Column](bookmark-column-property-word.md)|
-|[Creator](bookmark-creator-property-word.md)|
-|[Empty](bookmark-empty-property-word.md)|
-|[End](bookmark-end-property-word.md)|
-|[Name](bookmark-name-property-word.md)|
-|[Parent](bookmark-parent-property-word.md)|
-|[Range](bookmark-range-property-word.md)|
-|[Start](bookmark-start-property-word.md)|
-|[StoryType](bookmark-storytype-property-word.md)|
+|[Application](../../../api/Word.Bookmark.Application.md)|
+|[Column](../../../api/Word.Bookmark.Column.md)|
+|[Creator](../../../api/Word.Bookmark.Creator.md)|
+|[Empty](../../../api/Word.Bookmark.Empty.md)|
+|[End](../../../api/Word.Bookmark.End.md)|
+|[Name](../../../api/Word.Bookmark.Name.md)|
+|[Parent](../../../api/Word.Bookmark.Parent.md)|
+|[Range](../../../api/Word.Bookmark.Range.md)|
+|[Start](../../../api/Word.Bookmark.Start.md)|
+|[StoryType](../../../api/Word.Bookmark.StoryType.md)|
 
 ## See also
 

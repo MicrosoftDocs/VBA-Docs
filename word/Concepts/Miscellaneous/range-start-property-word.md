@@ -20,7 +20,7 @@ Returns or sets the starting character position of a range. Read/write  **Long**
 
  _expression_ . **Start**
 
- _expression_ A variable that represents a **[Range](range-object-word.md)** object.
+ _expression_ A variable that represents a **[Range](../Working-with-Word/range-object-word.md)** object.
 
 
 ## Remarks
@@ -58,5 +58,5 @@ myRange.SetRange Start:=myRange.Start + 1, End:=myRange.End
 #### Concepts
 
 
-[Range Object](range-object-word.md)
+[Range Object](../Working-with-Word/range-object-word.md)
 
