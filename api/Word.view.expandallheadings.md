@@ -38,5 +38,5 @@ This method corresponds to the  **Expand All Headings** command on the **Expand/
 #### Other resources
 
 
-[View Members](http://msdn.microsoft.com/library/2ba529d1-0d82-5031-8f66-a9b2632ea0d6%28Office.15%29.aspx)
+[View Members](./overview/Word.md)
 

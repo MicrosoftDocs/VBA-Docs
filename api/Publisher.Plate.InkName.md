@@ -25,7 +25,7 @@ Returns a  **PbInkName** constant that represents the name of the ink to be prin
 
 ## Remarks
 
-The  **InkName** property value can be one of the ** [PbInkName](http://msdn.microsoft.com/library/69e335b8-40b8-c984-84b6-64073a8ed7ab%28Office.15%29.aspx)** constants declared in the Microsoft Publisher type library.
+The  **InkName** property value can be one of the ** [PbInkName](./overview/Publisher.md)** constants declared in the Microsoft Publisher type library.
 
 Use the  **FindPlateByInkName** method of the **[PrintablePlates](Publisher.PrintablePlates.md)** collection to return a specific plate by referencing its ink name.
 

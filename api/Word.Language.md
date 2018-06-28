@@ -85,7 +85,7 @@ End Sub
 If you mark text as  **wdNoProofing** , Word skips the marked text when running a spelling or grammar check.
 
 
- **Note**  You must have the proofing tools installed for each language you intend to check. For more information on working in other languages, see [Language-specific information](http://msdn.microsoft.com/library/b27a2d10-8a15-7b36-b329-34d55ada9f37%28Office.15%29.aspx).
+ **Note**  You must have the proofing tools installed for each language you intend to check. For more information on working in other languages, see [Language-specific information](./overview/Word.md).
 
 
 ## See also

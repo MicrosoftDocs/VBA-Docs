@@ -43,4 +43,4 @@ You can use the  **[Visible](./Outlook.CalendarModule.Visible.md)** property to 
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[CalendarModule Object Members](http://msdn.microsoft.com/library/82731a1f-3ebe-1cb0-9e8b-d370a0b8f954%28Office.15%29.aspx)
+[CalendarModule Object Members](./overview/Outlook.md)

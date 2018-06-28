@@ -33,7 +33,7 @@ Adds a new color plate to the specified  **Plates** object.
 
 ## Remarks
 
-If the  ** [ColorMode](http://msdn.microsoft.com/library/58befa97-9d9b-9294-18b2-ae10dc87f51c%28Office.15%29.aspx)** property of the specified publication is not **pbColorModeSpot** or **pbColorModeSpotAndProcess**, an error occurs.
+If the  ** [ColorMode](./overview/Publisher.md)** property of the specified publication is not **pbColorModeSpot** or **pbColorModeSpotAndProcess**, an error occurs.
 
 
 ## Example

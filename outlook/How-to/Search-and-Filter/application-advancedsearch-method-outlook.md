@@ -62,7 +62,7 @@ Scope = "'" &; Application.Session.GetDefaultFolder(olFolderInbox).FolderPath _
     &; "','" &; Application.Session.GetDefaultFolder(olFolderSentMail).FolderPath &; "'"
 ```
 
-The  _Filter_ parameter can be any valid DASL query. For additional information on DASL queries, see[Filtering Items](http://msdn.microsoft.com/library/4038e042-1b07-5d18-18b0-c2b58c9c42da%28Office.15%29.aspx) and[Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx). Note that you cannot use a JET query for the  _Filter_ parameter of Advanced Search. If Instant Search is enabled on a store that contains a folder specified in the _Scope_ parameter, you can use Instant Search keywords to improve the performance of your search. If you use Instant Search keywords and Instant Search is not enabled, Outlook will return an error and your search will fail.
+The  _Filter_ parameter can be any valid DASL query. For additional information on DASL queries, see[Filtering Items](./filtering-items.md) and[Referencing Properties by Namespace](../Navigation/referencing-properties-by-namespace.md). Note that you cannot use a JET query for the  _Filter_ parameter of Advanced Search. If Instant Search is enabled on a store that contains a folder specified in the _Scope_ parameter, you can use Instant Search keywords to improve the performance of your search. If you use Instant Search keywords and Instant Search is not enabled, Outlook will return an error and your search will fail.
 
 
 ## Example

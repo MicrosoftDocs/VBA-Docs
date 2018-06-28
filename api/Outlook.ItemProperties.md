@@ -88,5 +88,5 @@ End Sub
 ## See also
 
 
-[ItemProperties Object Members](http://msdn.microsoft.com/library/9c18dfa4-b0df-0a01-cac8-cb4ef7a4f2b5%28Office.15%29.aspx)
+[ItemProperties Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

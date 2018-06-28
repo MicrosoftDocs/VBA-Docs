@@ -22,9 +22,9 @@ The programmatic objects that are used in this sample are as follows:
     
 -  **[ContentControls](../../../api/Word.ContentControls.md)**
     
--  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** (in the Microsoft Office system core object model)
+-  **[CustomXMLPart](../../../api/Office.CustomXMLPart.md)** (in the Microsoft Office system core object model)
     
--  **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-6304-8626-1e6705917da3%28Office.15%29.aspx)** (in the Microsoft Office system core object model)
+-  **[CustomXMLParts](../../../api/Office.CustomXMLParts.md)** (in the Microsoft Office system core object model)
     
 -  **[XMLMapping](../../../api/Word.XMLMapping.md)**
     
@@ -108,7 +108,7 @@ End Sub
     
     XML mapping is a feature of Word that enables you to create a link between a document and an XML file. This creates true data/view separation between the document formatting and the custom XML data. 
     
-    To load a custom XML part, you must first add a new data store to a  **[Document](../Objects-Properties-Methods/document-object-word.md)** object by using the ** [Add](http://msdn.microsoft.com/library/f2c1588b-c11b-49ca-5db6-4fa4c26d10c5%28Office.15%29.aspx)** method of the **CustomXMLParts** collection. This appends a new, empty data store to the document. Because it is empty, you cannot use it yet. Next, you must load a custom XML part from an XML file into the data store, by calling the ** [Load](http://msdn.microsoft.com/library/f4d50c05-15bd-ccce-6198-9d6be401b29b%28Office.15%29.aspx)** method of the **CustomXMLPart** object that uses a valid path to an XML file as the parameter.
+    To load a custom XML part, you must first add a new data store to a  **[Document](../Objects-Properties-Methods/document-object-word.md)** object by using the ** [Add](../../../api/Office.CustomXMLParts.Add.md)** method of the **CustomXMLParts** collection. This appends a new, empty data store to the document. Because it is empty, you cannot use it yet. Next, you must load a custom XML part from an XML file into the data store, by calling the ** [Load](../../../api/Office.CustomXMLPart.Load.md)** method of the **CustomXMLPart** object that uses a valid path to an XML file as the parameter.
     
 4. Save the document, naming it CustomerLetterGenerator.docm.
     

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Recordset Property (Access)
 
-Returns or sets the ADO  **Recordset** or DAO **[Recordset](http://msdn.microsoft.com/library/9774232C-E6DA-175B-FC7F-ED2AB7908FA0%28Office.15%29.aspx)** object representing the record source for the specified object. Read/write **Object**.
+Returns or sets the ADO  **Recordset** or DAO **[Recordset](./overview/Access.md)** object representing the record source for the specified object. Read/write **Object**.
 
 
 ## Syntax

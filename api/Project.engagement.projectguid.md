@@ -21,5 +21,5 @@ ms.prod: project-server
 ## See also
 
 
-[Engagement Object](http://msdn.microsoft.com/library/3e7f7bed-e575-a5f4-25e5-1c1cbe1880b.aspx)
+[Engagement Object](./overview/Project.md)
 

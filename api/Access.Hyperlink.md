@@ -37,4 +37,4 @@ Use the  **Hyperlink** property to return a reference to a hyperlink object.
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[Hyperlink Object Members](http://msdn.microsoft.com/library/59452547-c53a-69b7-fd78-2857410c3460%28Office.15%29.aspx)
+[Hyperlink Object Members](./overview/Access.md)

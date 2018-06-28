@@ -30,7 +30,7 @@ For process color and spot color publications, colors are based on inks. For a g
 
 ## Example
 
-Use the  **[ColorsInUse](http://msdn.microsoft.com/library/b018ffbc-b848-c0d0-19fa-df053e45260d%28Office.15%29.aspx)** property of the **[Document](Publisher.Document.md)** object to return the **ColorsInUse** collection.
+Use the  **[ColorsInUse](./overview/Publisher.md)** property of the **[Document](Publisher.Document.md)** object to return the **ColorsInUse** collection.
  
 
  

@@ -76,4 +76,4 @@ End Sub
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[ItemProperty Object Members](http://msdn.microsoft.com/library/0de85516-c8e3-b985-0b7f-3098a0da7f2c%28Office.15%29.aspx)
+[ItemProperty Object Members](./overview/Outlook.md)

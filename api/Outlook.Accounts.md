@@ -54,4 +54,4 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
 [How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
-[Accounts Object Members](http://msdn.microsoft.com/library/cfcc988a-385a-b725-f8ed-00ae7b6dff3b%28Office.15%29.aspx)
+[Accounts Object Members](./overview/Outlook.md)

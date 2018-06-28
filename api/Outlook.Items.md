@@ -137,5 +137,5 @@ End sub
 ## See also
 
 
-[Items Object Members](http://msdn.microsoft.com/library/bcc2cf6c-b6fb-e1a2-1d5c-d7e2bdf6b7dc%28Office.15%29.aspx)
+[Items Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

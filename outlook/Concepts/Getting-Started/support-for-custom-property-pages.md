@@ -18,6 +18,6 @@ A custom property page is an ActiveX control stored in a dynamic-link library (D
 For more information about property pages, see  [adding custom property pages](adding-custom-property-pages.md).
 
 
- **Note**  Customizing the  **Outlook Options** dialog box (available through the Microsoft Office Backstage view) by using property pages has been deprecated. However, you can customize your own tab on the Backstage view using Microsoft Office Fluent user interface extensibility. For more information, see [Extending the User Interface in Outlook 2010](http://msdn.microsoft.com/library/00b504b0-e897-43b9-8615-44276166823f.aspx).
+ **Note**  Customizing the  **Outlook Options** dialog box (available through the Microsoft Office Backstage view) by using property pages has been deprecated. However, you can customize your own tab on the Backstage view using Microsoft Office Fluent user interface extensibility. For more information, see [Extending the User Interface in Outlook 2010](../../../api/overview/Outlook.md).
 
 

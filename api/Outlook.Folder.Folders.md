@@ -104,4 +104,4 @@ End Sub
 #### Other resources
 
 
-[Folder Object Members](http://msdn.microsoft.com/library/788acd42-377a-1803-7713-50e45086e2d1%28Office.15%29.aspx)
+[Folder Object Members](./overview/Outlook.md)

@@ -61,5 +61,5 @@ End Sub
 ## See also
 
 
-[AllTables Object Members](http://msdn.microsoft.com/library/29ac5838-ff13-b187-8f1e-54e7a533d084%28Office.15%29.aspx)
+[AllTables Object Members](./overview/Access.md)
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)

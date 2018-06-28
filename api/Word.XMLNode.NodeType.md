@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.NodeType Property (Word)
 
-Returns a  **[WdXMLNodeType](http://msdn.microsoft.com/library/2f8824c0-d08e-56d2-9ec8-6fa478452316%28Office.15%29.aspx)** constant that represents the type of node.
+Returns a  **[WdXMLNodeType](./overview/Word.md)** constant that represents the type of node.
 
 
 ## Syntax

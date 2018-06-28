@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Retrieve Records Using Access SQL
 
-The most basic and most often used SQL statement is the  **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. **SELECT** statements are the workhorses of all SQL statements, and they are commonly referred to as select queries. You use the **SELECT** statement to retrieve data from the database tables, and the results are usually returned in a set of records (or rows) made up of any number of fields (or columns). You must use the **[FROM](from-clause-microsoft-access-sql.md)** clause to designate which table or tables to select from. The basic structure of a **SELECT** statement is:
+The most basic and most often used SQL statement is the  **[SELECT](../../../api/overview/Access.md)** statement. **SELECT** statements are the workhorses of all SQL statements, and they are commonly referred to as select queries. You use the **SELECT** statement to retrieve data from the database tables, and the results are usually returned in a set of records (or rows) made up of any number of fields (or columns). You must use the **[FROM](from-clause-microsoft-access-sql.md)** clause to designate which table or tables to select from. The basic structure of a **SELECT** statement is:
 
 
 ```sql

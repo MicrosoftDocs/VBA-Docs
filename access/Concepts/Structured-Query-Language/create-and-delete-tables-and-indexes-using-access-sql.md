@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 ## Creating and Deleting Tables
 
-Tables are the primary building blocks of a relational database. A table contains rows (or records) of data, and each row is organized into a finite number of columns (or fields). To build a new table in Access by using Access SQL, you must name the table, name the fields, and define the type of data that the fields will contain. Use the  **[CREATE TABLE](http://msdn.microsoft.com/library/FC45D36E-6E43-C030-5016-CCA8BB1379FE%28Office.15%29.aspx)** statement to define the table in SQL. Suppose that you are building an invoicing database. The first step is to build the initial customers table.
+Tables are the primary building blocks of a relational database. A table contains rows (or records) of data, and each row is organized into a finite number of columns (or fields). To build a new table in Access by using Access SQL, you must name the table, name the fields, and define the type of data that the fields will contain. Use the  **[CREATE TABLE](../../../api/overview/Access.md)** statement to define the table in SQL. Suppose that you are building an invoicing database. The first step is to build the initial customers table.
 
 
 ```sql
@@ -45,7 +45,7 @@ CREATE TABLE tblCustomers
 
 ```
 
-To remove a table from the database, use the  **[DROP TABLE](http://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)** statement.
+To remove a table from the database, use the  **[DROP TABLE](../../../api/overview/Access.md)** statement.
 
 
 
@@ -60,7 +60,7 @@ DROP TABLE tblCustomers
 
 An index is an external data structure used to sort or arrange pointers to data in a table. When you apply an index to a table, you are specifying a certain arrangement of the data so that it can be accessed more quickly. However, if you apply too many indexes to a table, you may slow down the performance because there is extra overhead involved in maintaining the index, and because an index can cause locking issues when used in a multiuser environment. Used in the correct context, an index can greatly improve the performance of an application.
 
-To build an index on a table, you must name the index, name the table to build the index on, name the field or fields within the table to use, and name the options you want to use. You use the  **[CREATE INDEX](http://msdn.microsoft.com/library/C5919EF4-A08D-DF06-7078-5331ADBCB45C%28Office.15%29.aspx)** statement to build the index. For example, you could build an index on the customers table in the invoicing database mentioned earlier by using the following code:
+To build an index on a table, you must name the index, name the table to build the index on, name the field or fields within the table to use, and name the options you want to use. You use the  **[CREATE INDEX](../../../api/overview/Access.md)** statement to build the index. For example, you could build an index on the customers table in the invoicing database mentioned earlier by using the following code:
 
 
 
@@ -155,7 +155,7 @@ DROP INDEX idxName
 
 ## Creating and Deleting Tables
 
-Tables are the primary building blocks of a relational database. A table contains rows (or records) of data, and each row is organized into a finite number of columns (or fields). To build a new table in Access by using Access SQL, you must name the table, name the fields, and define the type of data that the fields will contain. Use the  **[CREATE TABLE](http://msdn.microsoft.com/library/FC45D36E-6E43-C030-5016-CCA8BB1379FE%28Office.15%29.aspx)** statement to define the table in SQL. Suppose that you are building an invoicing database. The first step is to build the initial customers table.
+Tables are the primary building blocks of a relational database. A table contains rows (or records) of data, and each row is organized into a finite number of columns (or fields). To build a new table in Access by using Access SQL, you must name the table, name the fields, and define the type of data that the fields will contain. Use the  **[CREATE TABLE](../../../api/overview/Access.md)** statement to define the table in SQL. Suppose that you are building an invoicing database. The first step is to build the initial customers table.
 
 
 ```sql
@@ -190,7 +190,7 @@ CREATE TABLE tblCustomers
 
 ```
 
-To remove a table from the database, use the  **[DROP TABLE](http://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)** statement.
+To remove a table from the database, use the  **[DROP TABLE](../../../api/overview/Access.md)** statement.
 
 
 
@@ -205,7 +205,7 @@ DROP TABLE tblCustomers
 
 An index is an external data structure used to sort or arrange pointers to data in a table. When you apply an index to a table, you are specifying a certain arrangement of the data so that it can be accessed more quickly. However, if you apply too many indexes to a table, you may slow down the performance because there is extra overhead involved in maintaining the index, and because an index can cause locking issues when used in a multiuser environment. Used in the correct context, an index can greatly improve the performance of an application.
 
-To build an index on a table, you must name the index, name the table to build the index on, name the field or fields within the table to use, and name the options you want to use. You use the  **[CREATE INDEX](http://msdn.microsoft.com/library/C5919EF4-A08D-DF06-7078-5331ADBCB45C%28Office.15%29.aspx)** statement to build the index. For example, you could build an index on the customers table in the invoicing database mentioned earlier by using the following code:
+To build an index on a table, you must name the index, name the table to build the index on, name the field or fields within the table to use, and name the options you want to use. You use the  **[CREATE INDEX](../../../api/overview/Access.md)** statement to build the index. For example, you could build an index on the customers table in the invoicing database mentioned earlier by using the following code:
 
 
 

@@ -17,4 +17,4 @@ An object that represents a query that was created by Power Query. Introduced in
 ## See also
 
 
-[WorkbookQuery Object Members](http://msdn.microsoft.com/library/3c698446-813c-edc2-f8c9-66f5dfc2d1c3%28Office.15%29.aspx)
+[WorkbookQuery Object Members](./overview/Excel.md)

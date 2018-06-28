@@ -42,7 +42,7 @@ This section contains documentation for the enumerations in the Access object mo
 | [AcHorizontalAnchor Enumeration](Access.AcHorizontalAnchor.md)|Used with the  **HorizontalAnchor** property to specify how a control is anchored horizontally within its layout.|
 | [AcHyperlinkPart Enumeration](Access.AcHyperlinkPart.md)|Specifies the the information you want returned by the  **HyperlinkPart** method.|
 | [AcImeMode Enumeration](Access.AcImeMode.md)|Specifies the default startup mode for the Japanese Input Method Editor (IME). |
-| [AcImeSentenceMode Enumeration](Access.AcImeSentenceMode.md)|Used with the [IMESentenceMode](http://msdn.microsoft.com/library/1c27036e-cad0-4046-b78c-93de987f85ce%28Office.15%29.aspx) property to specify the IME sentence mode for the IMM.|
+| [AcImeSentenceMode Enumeration](Access.AcImeSentenceMode.md)|Used with the [IMESentenceMode](./overview/Access.md) property to specify the IME sentence mode for the IMM.|
 | [AcImportXMLOption Enumeration](Access.AcImportXMLOption.md)|Specifies the action to take when using the [Application.ImportXML Method (Access)](application-importxml-method-access.md) method to import data from an XML file.|
 | [AcLayoutType Enumeration](Access.AcLayoutType.md)|Specifies the type of layout that the control is part of.|
 | [AcModuleType Enumeration](Access.AcModuleType.md)|Returns the type of the specified Visual Basic module.|

@@ -25,7 +25,7 @@ Returns or sets a  **Variant** indicating the value for the specified custom or 
 
 ## Remarks
 
-Even though  **ItemProperty.Value** allows you to get or set an explicit built-in property or a custom property, you can reference explicit built-in properties directly from the parent object, for example, `ContactItem.Body`. For more information on accessing properties in Outlook, see [Properties Overview](http://msdn.microsoft.com/library/242c9e89-a0c5-ff89-0d2a-410bd42a3461%28Office.15%29.aspx).
+Even though  **ItemProperty.Value** allows you to get or set an explicit built-in property or a custom property, you can reference explicit built-in properties directly from the parent object, for example, `ContactItem.Body`. For more information on accessing properties in Outlook, see [Properties Overview](./properties-overview.md).
 
 
 ## Example

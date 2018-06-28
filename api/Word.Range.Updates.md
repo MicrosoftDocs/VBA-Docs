@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Updates Property (Word)
 
-Returns a [CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx) collection object that represents all updates that were merged into the specified range at the last explicit save. Read-only.
+Returns a [CoAuthUpdates](./overview/Word.md) collection object that represents all updates that were merged into the specified range at the last explicit save. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a [CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-d
 
 ## Remarks
 
-Use the  **Updates** property to return the[CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx) collection.
+Use the  **Updates** property to return the[CoAuthUpdates](./overview/Word.md) collection.
 
 
  **Note**  This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.

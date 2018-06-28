@@ -90,5 +90,5 @@ End Sub
 ## See also
 
 
-[Categories Object Members](http://msdn.microsoft.com/library/36fd8906-69fa-5aa8-b026-a2de208ccd56%28Office.15%29.aspx)
+[Categories Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

@@ -73,4 +73,4 @@ Because an **AccessObject** object corresponds to an existing object, you can't 
 ## See also
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[Access Object Object Members](http://msdn.microsoft.com/library/78aaacb1-c0d3-d809-088d-d543ecd71de3%28Office.15%29.aspx)
+[Access Object Object Members](./overview/Access.md)

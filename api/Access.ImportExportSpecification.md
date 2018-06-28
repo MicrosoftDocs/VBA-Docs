@@ -50,4 +50,4 @@ Use the  **[Execute](./Access.ImportExportSpecification.Execute.md)** method to 
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[ImportExportSpecification Object Members](http://msdn.microsoft.com/library/f170c0ad-07ab-f567-c75e-f35cca22f189%28Office.15%29.aspx)
+[ImportExportSpecification Object Members](./overview/Access.md)

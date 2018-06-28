@@ -81,5 +81,5 @@ Set myReply = myItem.Actions("Reply").Execute
 ## See also
 
 
-[Action Object Members](http://msdn.microsoft.com/library/b423cdd8-c67e-a53b-9166-eacfd5a33e7c%28Office.15%29.aspx)
+[Action Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

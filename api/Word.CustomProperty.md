@@ -18,7 +18,7 @@ Represents a single instance of a custom property for a smart tag. The  **Custom
 
 ## Remarks
 
-Use the  **[Item](Word.CustomProperties.Item.md)** method—or **[Properties](http://msdn.microsoft.com/library/c9f81907-e257-85cd-bc65-5b614e905738%28Office.15%29.aspx)** (Index), where Index is the number of the property—of the **CustomProperties** collection to return a **CustomProperty** object.
+Use the  **[Item](Word.CustomProperties.Item.md)** method—or **[Properties](./overview/Word.md)** (Index), where Index is the number of the property—of the **CustomProperties** collection to return a **CustomProperty** object.
 
 Use the  **[Name](Word.CustomProperty.Name.md)** and **[Value](Word.CustomProperty.Value.md)** properties to return the information related to a custom property for a smart tag. This example displays a message containing the name and value of the first custom property of the first smart tag in the current document. This example assumes that the current document contains at least one smart tag and that the first smart tag has at least one custom property.
 

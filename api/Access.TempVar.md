@@ -23,7 +23,7 @@ A  **TempVar** objects provide a convenient way to exchange data between VBA pro
 Although a  **TempVar** object can be used to store information for use in VBA procedures, it does not have the same funcitonality as a VBA variable.
 
 
-- By default, a  **TempVar** object remains in memory until Access is closed. You can use the **[Remove](./Access.TempVars.Remove.md)** method or the[RemoveTempVar](http://msdn.microsoft.com/library/7bcc5010-3e30-ecef-2c5d-a35e73c8e325%28Office.15%29.aspx) macro action to remove a **TempVar** object.
+- By default, a  **TempVar** object remains in memory until Access is closed. You can use the **[Remove](./Access.TempVars.Remove.md)** method or the[RemoveTempVar](./overview/Access.md) macro action to remove a **TempVar** object.
     
 - In VBA, a  **TempVar** object is accessible only to the members of the Access **[Application](./Access.Application.md)** object, referenced databases, or add-ins.
     
@@ -44,4 +44,4 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[TempVar Object Members](http://msdn.microsoft.com/library/1d8ac3a8-3116-6ce5-90c0-83265d7b79c4%28Office.15%29.aspx)
+[TempVar Object Members](./overview/Access.md)

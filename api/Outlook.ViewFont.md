@@ -23,7 +23,7 @@ The  **ViewFont** object is used by the following objects to represent font form
 
 - The  **[HeadingsFont](businessOutlook.CardView.HeadingsFont.md)** property of the **[BusinessCardView](businessOutlook.CardView.md)** object.
     
-- The  **[DayWeekFont](http://msdn.microsoft.com/library/ddb6f65d-72e2-d3f2-b10f-b3d8bc4d21b3%28Office.15%29.aspx)**, **[DayWeekTimeFont](http://msdn.microsoft.com/library/37ea6e1f-4148-3ab4-e0aa-48c49321ac91%28Office.15%29.aspx)**, and **[MonthFont](http://msdn.microsoft.com/library/b69d1690-d1a8-dbc0-3de4-86a8eb98a471%28Office.15%29.aspx)** properties of the **[CalendarView](Outlook.CalendarView.md)** object.
+- The  **[DayWeekFont](./overview/Outlook.md)**, **[DayWeekTimeFont](./overview/Outlook.md)**, and **[MonthFont](./overview/Outlook.md)** properties of the **[CalendarView](Outlook.CalendarView.md)** object.
     
 - The  **[BodyFont](Outlook.CardView.BodyFont.md)** and **[HeadingsFont](Outlook.CardView.HeadingsFont.md)** properties of the **[CardView](Outlook.CardView.md)** object.
     

@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-This property is valid only for publications with a  ** [ColorMode](http://msdn.microsoft.com/library/58befa97-9d9b-9294-18b2-ae10dc87f51c%28Office.15%29.aspx)** property value of **pbColorModeSpot** or for spot plates in a publication with a **ColorMode** property value of **pbColorModeSpotAndProcess**.
+This property is valid only for publications with a  ** [ColorMode](./overview/Publisher.md)** property value of **pbColorModeSpot** or for spot plates in a publication with a **ColorMode** property value of **pbColorModeSpotAndProcess**.
 
 
 ## Example

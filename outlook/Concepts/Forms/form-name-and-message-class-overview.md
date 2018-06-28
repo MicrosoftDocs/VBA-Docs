@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The message class is an internal identifier that Microsoft Outlook and Microsoft Exchange use to locate and activate a form.
 
-The message class property determines which folder to route the message to, and which form to activate to view the message. (The message class property corresponds to the MAPI property  [PidTagMessageClass](http://msdn.microsoft.com/library/1e704023-1992-4b43-857e-0a7da7bc8e87%28Office.15%29.aspx).) 
+The message class property determines which folder to route the message to, and which form to activate to view the message. (The message class property corresponds to the MAPI property  [PidTagMessageClass](../../../api/overview/Outlook.md).) 
 
 ## Creating a message class when customizing form regions
 

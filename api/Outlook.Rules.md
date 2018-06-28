@@ -50,5 +50,5 @@ For more information on how to programmatically create, edit, and delete rules, 
 ## See also
 
 
-[Rules Object Members](http://msdn.microsoft.com/library/39fb5418-ff5a-1714-d3b5-07cc28893821%28Office.15%29.aspx)
+[Rules Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

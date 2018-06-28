@@ -45,4 +45,4 @@ End With
 
 
 [PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)
-[SlideShowView Object Members](http://msdn.microsoft.com/library/fe2aacef-7324-4d07-55e9-0dffcdbb2a6c%28Office.15%29.aspx)
+[SlideShowView Object Members](./overview/PowerPoint.md)

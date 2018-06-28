@@ -158,4 +158,4 @@ You can also use check boxes in an option group to display values to choose from
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>
-[CheckBox Object Members](http://msdn.microsoft.com/library/aeefeae7-4053-ec23-80ef-1da1099f54f0%28Office.15%29.aspx)
+[CheckBox Object Members](./overview/Access.md)

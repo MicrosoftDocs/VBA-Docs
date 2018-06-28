@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Timeline Object (Project)
 
-Contains a collection of [ Timeline](http://msdn.microsoft.com/library/ac50eced-d876-ee09-f8f4-01fb2272ddf0%28Office.15%29.aspx) objects. Introduced in Office 2016.
+Contains a collection of [ Timeline](./overview/Project.md) objects. Introduced in Office 2016.
 
 
 ## Remarks

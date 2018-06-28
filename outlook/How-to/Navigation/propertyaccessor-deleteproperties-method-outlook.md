@@ -29,11 +29,11 @@ Deletes the properties specified in the array  _SchemaNames_ .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SchemaNames_|Required| **Variant**|An array that contains the names of the properties that are to be deleted for the parent object of the  **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object. These properties are referenced by namespace. For more information, see[Referencing Properties by Namespace](http://msdn.microsoft.com/library/c1c7bfa9-64d7-81d2-84e7-f0a4c57780b3%28Office.15%29.aspx).|
+| _SchemaNames_|Required| **Variant**|An array that contains the names of the properties that are to be deleted for the parent object of the  **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object. These properties are referenced by namespace. For more information, see[Referencing Properties by Namespace](./referencing-properties-by-namespace.md).|
 
 ### Return Value
 
-A Variant that is  **Null** ( **Nothing** in VBA) if the operation is successful, or is an array of **[Err](http://msdn.microsoft.com/library/23c9697a-9c6b-18f8-2b86-a0735f082c67%28Office.15%29.aspx)** objects if an error occurs. If the return value is an array, the size of this array is the same as that of the _SchemaNames_ array. An **Err** value in the array is mapped to the error result of deleting the corresponding property in the _SchemaNames_ parameter.
+A Variant that is  **Null** ( **Nothing** in VBA) if the operation is successful, or is an array of **[Err](../../../Language-Reference/Language-Reference/User-Interface-Help/err-object.md)** objects if an error occurs. If the return value is an array, the size of this array is the same as that of the _SchemaNames_ array. An **Err** value in the array is mapped to the error result of deleting the corresponding property in the _SchemaNames_ parameter.
 
 
 ## Remarks

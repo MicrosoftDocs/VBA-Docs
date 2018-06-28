@@ -57,4 +57,4 @@ Set mySelectedItems = myExplorer.Selection
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[Selection Object Members](http://msdn.microsoft.com/library/c79922d4-aa76-ff48-f163-8161fa1ae0a8%28Office.15%29.aspx)
+[Selection Object Members](./overview/Outlook.md)

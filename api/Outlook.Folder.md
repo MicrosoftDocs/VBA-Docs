@@ -94,4 +94,4 @@ There is a set of folders within an Outlook data store that supports the default
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[Folder Object Members](http://msdn.microsoft.com/library/788acd42-377a-1803-7713-50e45086e2d1%28Office.15%29.aspx)
+[Folder Object Members](./overview/Outlook.md)

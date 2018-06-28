@@ -154,5 +154,5 @@ With the tab control, you can construct a single form or dialog box that contain
 ## See also
 
 
-[TabControl Object Members](http://msdn.microsoft.com/library/d6de9ec4-e7f9-5c26-d750-d7c134ec9fb0%28Office.15%29.aspx)
+[TabControl Object Members](./overview/Access.md)
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)

@@ -173,5 +173,5 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 ## See also
 
 
-[Control Object Members](http://msdn.microsoft.com/library/c6f2ed0f-f8e1-d56e-22a5-a365b64b7754%28Office.15%29.aspx)
+[Control Object Members](./overview/Access.md)
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)

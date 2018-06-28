@@ -17,7 +17,7 @@ Indicates which document to save as a Web page.
 
  _expression_. **AttachToVisioDoc**( **_docObj_**)
 
- _expression_An expression that returns a  ** [VisSaveAsWeb](http://msdn.microsoft.com/library/c4675de8-0f63-179f-f687-8962d54d6b2f%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a  ** [VisSaveAsWeb](./overview/Visio.md)** object.
 
 
 ### Parameters

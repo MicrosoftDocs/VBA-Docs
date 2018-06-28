@@ -39,7 +39,7 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 
 |**Name**|
 |:-----|
-|[SaveAsPNG](http://msdn.microsoft.com/library/f734988c-2cea-2a51-66b5-d3e7c6c30d56%28Office.15%29.aspx)|
+|[SaveAsPNG](./overview/Word.md)|
 
 ## Properties
 

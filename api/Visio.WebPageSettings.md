@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # VisSaveAsWeb.WebPageSettings Property (Visio Save As Web)
 
-Returns a  ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object that represents the Web page settings that will be used for the Save as Web Page operation. Read-only.
+Returns a  ** [VisWebPageSettings](./overview/Visio.md)** object that represents the Web page settings that will be used for the Save as Web Page operation. Read-only.
 
 
 ## Syntax
 
  _expression_. **WebPageSettings** **VisWebPageSettings**
 
- _expression_An expression that returns a  ** [VisSaveAsWeb](http://msdn.microsoft.com/library/c4675de8-0f63-179f-f687-8962d54d6b2f%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a  ** [VisSaveAsWeb](./overview/Visio.md)** object.
 
 
 ## Remarks

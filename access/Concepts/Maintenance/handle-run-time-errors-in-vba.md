@@ -16,7 +16,7 @@ If you have not implemented error handling, Visual Basic halts execution and dis
 
 When adding error handling to a procedure, you should consider how the procedure will route execution when an error occurs. The first step in routing execution to an error handler is to enable an error handler by including some form of the  **On Error** statement within the procedure. The **On Error** statement directs execution in event of an error. If there is no **On Error** statement, Visual Basic simply halts execution and displays an error message when an error occurs.
 
-When an error occurs in a procedure with an enabled error handler, Visual Basic does not display the normal error message. Instead it routes execution to an error handler, if one exists. When execution passes to an enabled error handler, that error handler becomes active. Within the active error handler, you can determine the type of error that occurred and address it in the manner that you choose. Access provides three objects that contain information about errors that have occurred: the ADO  **Error** object, the Visual Basic **[Err](../../../Language-Reference/Language-Reference/User-Interface-Help/err-object.md)** object, and the DAO **[Error](http://msdn.microsoft.com/library/E2608BC9-BECE-9B47-4562-7A2689601F75%28Office.15%29.aspx)** object.
+When an error occurs in a procedure with an enabled error handler, Visual Basic does not display the normal error message. Instead it routes execution to an error handler, if one exists. When execution passes to an enabled error handler, that error handler becomes active. Within the active error handler, you can determine the type of error that occurred and address it in the manner that you choose. Access provides three objects that contain information about errors that have occurred: the ADO  **Error** object, the Visual Basic **[Err](../../../Language-Reference/Language-Reference/User-Interface-Help/err-object.md)** object, and the DAO **[Error](../../../api/overview/Access.md)** object.
 
 
 ## Routing Execution When an Error Occurs
@@ -125,7 +125,7 @@ The language elements available for error handling include:
     
 - The ADO  **Error** object and **Errors** collection.
     
-- The DAO  **Error** object and **[Errors](http://msdn.microsoft.com/library/D42007B5-6410-14E9-BAF9-9306FDEF38F9%28Office.15%29.aspx)** collection.
+- The DAO  **Error** object and **[Errors](../../../api/overview/Access.md)** collection.
     
 - The  **[AccessError](../../../api/Access.Application.AccessError.md)** method.
     
@@ -136,7 +136,7 @@ The language elements available for error handling include:
 
 The  **Err** object is provided by Visual Basic. When a Visual Basic error occurs, information about that error is stored in the **Err** object. The **Err** object maintains information about only one error at a time. When a new error occurs, the **Err** object is updated to include information about that error instead.
 
-To get information about a particular error, you can use the properties and methods of the  **Err** object. The **[Number](http://msdn.microsoft.com/library/2FB94DCA-F990-04F8-BBD2-9919D28DE75A%28Office.15%29.aspx)** property is the default property of the **Err** object; it returns the identifying number of the error that occurred. The **Err** object's **[Description](../../../Language-Reference/Language-Reference/User-Interface-Help/description-property-visual-basic-for-applications.md)** property returns the descriptive string associated with a Visual Basic error. The **Clear** method clears the current error information from the **Err** object. The **Raise** method generates a specific error and populates the properties of the **Err** object with information about that error.
+To get information about a particular error, you can use the properties and methods of the  **Err** object. The **[Number](../../../api/overview/Access.md)** property is the default property of the **Err** object; it returns the identifying number of the error that occurred. The **Err** object's **[Description](../../../Language-Reference/Language-Reference/User-Interface-Help/description-property-visual-basic-for-applications.md)** property returns the descriptive string associated with a Visual Basic error. The **Clear** method clears the current error information from the **Err** object. The **Raise** method generates a specific error and populates the properties of the **Err** object with information about that error.
 
 The following example shows how to use the  **Err** object in a procedure that may cause a type mismatch error:
 
