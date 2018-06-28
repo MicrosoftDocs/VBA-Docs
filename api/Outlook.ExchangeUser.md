@@ -140,5 +140,5 @@ End Sub
 ## See also
 
 
-[ExchangeUser Object Members](http://msdn.microsoft.com/library/b9489e9d-0b8e-1c8d-d5df-8def4b1ee5e8%28Office.15%29.aspx)
+[ExchangeUser Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

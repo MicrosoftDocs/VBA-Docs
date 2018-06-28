@@ -25,7 +25,7 @@ The Example section describes the following properties and methods for returning
 
 - The  **[Chart](inlineshape-chart-property-word.md)** property.
     
-- The  **[AddChart](http://msdn.microsoft.com/library/1b168e7b-543a-a817-51b0-8171beecc946%28Office.15%29.aspx)** method.
+- The  **[AddChart](../../../api/overview/Word.md)** method.
     
 
 

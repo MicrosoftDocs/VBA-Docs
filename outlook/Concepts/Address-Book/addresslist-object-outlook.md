@@ -67,5 +67,5 @@ Set myAddressList = Application.Session.AddressLists("Personal Address Book")
 #### Other resources
 
 
-[AddressList Object Members](http://msdn.microsoft.com/library/49ce35c2-400b-16b0-5f74-7f7d6260e45b%28Office.15%29.aspx)
+[AddressList Object Members](../../../api/overview/Outlook.md)
 [Outlook Object Model Reference](../../../api/overview/object-model-outlook-vba-reference.md)

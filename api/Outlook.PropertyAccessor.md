@@ -184,4 +184,4 @@ End Sub
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[PropertyAccessor Object Members](http://msdn.microsoft.com/library/3356e345-8878-0ed7-6783-1e49ddecc066%28Office.15%29.aspx)
+[PropertyAccessor Object Members](./overview/Outlook.md)

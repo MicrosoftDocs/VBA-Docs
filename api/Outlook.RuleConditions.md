@@ -75,5 +75,5 @@ For more information on rule conditions, see [Specifying Rule Conditions](../out
 ## See also
 
 
-[RuleConditions Object Members](http://msdn.microsoft.com/library/b2af6ebf-f9f8-8106-20a3-1725c3b78174%28Office.15%29.aspx)
+[RuleConditions Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

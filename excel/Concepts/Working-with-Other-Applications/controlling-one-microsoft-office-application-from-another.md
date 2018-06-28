@@ -27,7 +27,7 @@ If you want to run code in one Microsoft Office application that works with the 
     
      **Note**  You must follow the preceding steps if you want your code to be early bound.
      
-3. Use the  **CreateObject** function with the [OLE Programmatic Identifiers](http://msdn.microsoft.com/library/9d3418b1-cf9e-4c4d-c387-07952f41608e%28Office.15%29.aspx) of the object you want to work with in the other application, as shown in the following example. To see the session of the other application, set the **Visible** property to **True**.
+3. Use the  **CreateObject** function with the [OLE Programmatic Identifiers](../../../api/overview/Excel.md) of the object you want to work with in the other application, as shown in the following example. To see the session of the other application, set the **Visible** property to **True**.
         
     ```vb
       Dim appWD As Word.Application 

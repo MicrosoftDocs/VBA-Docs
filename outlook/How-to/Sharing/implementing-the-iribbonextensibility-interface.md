@@ -75,7 +75,7 @@ To customize the ribbon on all or multiple Outlook message classes, use the foll
     
 - To customize the ribbon on multiple Outlook inspectors, you might have to supply separate ribbon XML for different ribbon IDs depending upon the tab name.
     
-For more information, including examples, about customizing explorer and inspector ribbons, shortcut menus, and Backstage view, see  [Extending the User Interface in Outlook 2010](http://msdn.microsoft.com/library/00b504b0-e897-43b9-8615-44276166823f.aspx) on the MSDN Web site.
+For more information, including examples, about customizing explorer and inspector ribbons, shortcut menus, and Backstage view, see  [Extending the User Interface in Outlook 2010](../../../api/overview/Outlook.md) on the MSDN Web site.
 
 ## See also
 

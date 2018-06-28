@@ -70,5 +70,5 @@ End Sub
 ## See also
 
 
-[Screen Object Members](http://msdn.microsoft.com/library/82c9e4cb-95a9-6842-2629-bcd71c81838f%28Office.15%29.aspx)
+[Screen Object Members](./overview/Access.md)
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)

@@ -90,5 +90,5 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 ## See also
 
 
-[OlkDateControl Object Members](http://msdn.microsoft.com/library/6bc09aee-2f4e-5042-a653-52c0c09068c5%28Office.15%29.aspx)
+[OlkDateControl Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

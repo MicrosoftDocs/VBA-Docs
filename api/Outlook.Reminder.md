@@ -124,5 +124,5 @@ End Sub
 ## See also
 
 
-[Reminder Object Members](http://msdn.microsoft.com/library/2dc26aef-9636-4761-4d79-4571bb7c9726%28Office.15%29.aspx)
+[Reminder Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

@@ -32,7 +32,7 @@ The  **ProgID** and **ClassType** properties will (by default) return the same s
 
 
 
-For information about programmatic identifiers, see [OLE Programmatic Identifiers](http://msdn.microsoft.com/library/b68618d9-81e6-d97f-f706-f80a30d0f082%28Office.15%29.aspx).
+For information about programmatic identifiers, see [OLE Programmatic Identifiers](./overview/Word.md).
 
 
 ## Example

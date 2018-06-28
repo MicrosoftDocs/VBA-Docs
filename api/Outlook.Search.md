@@ -124,5 +124,5 @@ End Sub
 ## See also
 
 
-[Search Object Members](http://msdn.microsoft.com/library/543773b8-9f38-8d3e-2279-8f2a581ccd18%28Office.15%29.aspx)
+[Search Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

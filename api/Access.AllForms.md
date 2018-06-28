@@ -90,4 +90,4 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[AllForms Object Members](http://msdn.microsoft.com/library/a508646e-4478-fdfb-b1b5-177af651b73f%28Office.15%29.aspx)
+[AllForms Object Members](./overview/Access.md)

@@ -252,5 +252,5 @@ End Sub
 ## See also
 
 
-[SharingItem Object Members](http://msdn.microsoft.com/library/719ad60e-2242-2c54-778f-006b61690389%28Office.15%29.aspx)
+[SharingItem Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)

@@ -61,4 +61,4 @@ Set myReply = myItem.Actions("Reply").Execute
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[Actions Object Members](http://msdn.microsoft.com/library/f4791bd5-87bb-ac1e-0acc-709cf5f91e36%28Office.15%29.aspx)
+[Actions Object Members](./overview/Outlook.md)

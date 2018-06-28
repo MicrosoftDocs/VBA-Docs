@@ -176,4 +176,4 @@ Set myItem = Application.CreateItem(olTaskItem)
 
 
 [Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
-[TaskItem Object Members](http://msdn.microsoft.com/library/97234a76-2fc5-bbe4-2e14-25ae18694fc9%28Office.15%29.aspx)
+[TaskItem Object Members](./overview/Outlook.md)

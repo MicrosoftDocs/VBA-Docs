@@ -91,4 +91,4 @@ You can set section properties which are attributes of a form that affect the ap
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)
-[Section Object Members](http://msdn.microsoft.com/library/9c145cfa-d2c2-6559-cdd9-63813774c026%28Office.15%29.aspx)
+[Section Object Members](./overview/Access.md)

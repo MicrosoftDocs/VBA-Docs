@@ -201,10 +201,10 @@ These are some examples of properties being referenced by different DAV namespac
 #### Other resources
 
 
- [MAPI Property Tags](http://msdn.microsoft.com/library/380dad4c-7fbf-4c49-b67c-ab612c923499.aspx)<br>
- [MAPI Property Identifier Overview](http://msdn.microsoft.com/library/957aa00f-23d8-4f3b-bbc2-7d54f17b47b5.aspx)<br>
- [MAPI Property Type Overview](http://msdn.microsoft.com/library/b762f5fb-7c2c-4303-96f7-0b6e657146c9.aspx)<br>
- [Property Identifier Ranges](http://msdn.microsoft.com/library/c01e95bb-be25-490d-880b-60674f890258.aspx)<br>
- [Property Types](http://msdn.microsoft.com/library/71967150-1005-4c85-90f1-76fc7876c0d0.aspx)<br>
- [MAPI Named Properties](http://msdn.microsoft.com/library/464b1297-9d90-47bd-afc4-3dc63b106cb7.aspx)
+ [MAPI Property Tags](../../../api/overview/Outlook.md)<br>
+ [MAPI Property Identifier Overview](../../../api/overview/Outlook.md)<br>
+ [MAPI Property Type Overview](../../../api/overview/Outlook.md)<br>
+ [Property Identifier Ranges](../../../api/overview/Outlook.md)<br>
+ [Property Types](../../../api/overview/Outlook.md)<br>
+ [MAPI Named Properties](../../../api/overview/Outlook.md)
 

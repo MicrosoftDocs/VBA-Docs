@@ -26,7 +26,7 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 | **[JournalItem](../../../api/Outlook.JournalItem.md)**| **[TaskItem](../../../api/Outlook.TaskItem.md)**|
 | **[MailItem](../../../api/Outlook.MailItem.md)**| **[TaskRequestAcceptItem](../../../api/Outlook.TaskRequestAcceptItem.md)**|
 | **[MeetingItem](../../../api/Outlook.MeetingItem.md)**| **[TaskRequestDeclineItem](../../../api/Outlook.TaskRequestDeclineItem.md)**|
-| **[MobileItem](http://msdn.microsoft.com/library/da8149d5-66d3-ea02-941f-e7f2f9eb6bc3%28Office.15%29.aspx)**| **[TaskRequestItem](../../../api/Outlook.TaskRequestItem.md)**|
+| **[MobileItem](../../../api/overview/Outlook.md)**| **[TaskRequestItem](../../../api/Outlook.TaskRequestItem.md)**|
 | **[NoteItem](../../../api/Outlook.NoteItem.md)**| **[TaskRequestUpdateItem](../../../api/Outlook.TaskRequestUpdateItem.md)**|
 
 Outlook items are displayed based on the category name stored in the  **Categories** property of that Outlook item. Because category names are stored as part of the Outlook item, it is possible to have a category name in an Outlook item that is not present in the Master Category List. For example, a category may have been removed.

@@ -529,7 +529,7 @@ This article showed how to create a custom bibliography style in Word, first by 
 <a name="Biblio_AdditionalResources"> </a>
 
 
--  [What's new for Word 2013 developers](http://msdn.microsoft.com/library/d7de81f7-ac7f-a88c-4765-7e8f8c7df4b4.aspx)
+-  [What's new for Word 2013 developers](../../../api/overview/Word.md)
     
 -  [Office and Office 365 Developer Blog](http://blogs.msdn.com/b/officedevdocs/)
     
