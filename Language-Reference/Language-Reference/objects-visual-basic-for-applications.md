@@ -11,30 +11,30 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Collection Object](collection-object.md)
+- [Collection Object](User-Interface-Help/collection-object.md)
     
-- [Debug Object](debug-object.md)
+- [Debug Object](User-Interface-Help/debug-object.md)
     
-- [Dictionary Object](dictionary-object.md)
+- [Dictionary Object](User-Interface-Help/dictionary-object.md)
     
-- [Drive Object](drive-object.md)
+- [Drive Object](User-Interface-Help/drive-object.md)
     
-- [Drives Collection](drives-collection.md)
+- [Drives Collection](User-Interface-Help/drives-collection.md)
     
-- [Err Object](err-object.md)
+- [Err Object](User-Interface-Help/err-object.md)
     
-- [File Object](file-object.md)
+- [File Object](User-Interface-Help/file-object.md)
     
-- [Files Collection](files-collection.md)
+- [Files Collection](User-Interface-Help/files-collection.md)
     
-- [FileSystemObject Object](filesystemobject-object.md)
+- [FileSystemObject Object](User-Interface-Help/filesystemobject-object.md)
     
-- [Folder Object](folder-object.md)
+- [Folder Object](User-Interface-Help/folder-object.md)
     
-- [Folders Collection](folders-collection.md)
+- [Folders Collection](User-Interface-Help/folders-collection.md)
     
-- [TextStream Object](textstream-object.md)
+- [TextStream Object](User-Interface-Help/textstream-object.md)
     
-- [UserForm Object](userform-object.md)
+- [UserForm Object](User-Interface-Help/userform-object.md)
     
 

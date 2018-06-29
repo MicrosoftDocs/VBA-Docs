@@ -11,92 +11,92 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Keywords by Task](keywords-by-task.md)
+- [Keywords by Task](User-Interface-Help/keywords-by-task.md)
     
-- [As <keyword>](as-keyword.md)
+- [As <keyword>](User-Interface-Help/as-keyword.md)
     
-- [Binary <keyword>](binary-keyword.md)
+- [Binary <keyword>](User-Interface-Help/binary-keyword.md)
     
-- [ByRef <keyword>](byref-keyword.md)
+- [ByRef <keyword>](User-Interface-Help/byref-keyword.md)
     
-- [ByVal <keyword>](byval-keyword.md)
+- [ByVal <keyword>](User-Interface-Help/byval-keyword.md)
     
-- [Date <keyword>](date-keyword.md)
+- [Date <keyword>](User-Interface-Help/date-keyword.md)
     
-- [Else <keyword>](else-keyword.md)
+- [Else <keyword>](User-Interface-Help/else-keyword.md)
     
-- [Empty <keyword>](empty-keyword.md)
+- [Empty <keyword>](User-Interface-Help/empty-keyword.md)
     
-- [Error <keyword>](error-keyword.md)
+- [Error <keyword>](User-Interface-Help/error-keyword.md)
     
-- [False <keyword>](false-keyword.md)
+- [False <keyword>](User-Interface-Help/false-keyword.md)
     
-- [For <keyword>](for-keyword.md)
+- [For <keyword>](User-Interface-Help/for-keyword.md)
     
-- [Friend <keyword>](friend-keyword.md)
+- [Friend <keyword>](User-Interface-Help/friend-keyword.md)
     
-- [Get <keyword>](get-keyword.md)
+- [Get <keyword>](User-Interface-Help/get-keyword.md)
     
-- [Input <keyword>](input-keyword.md)
+- [Input <keyword>](User-Interface-Help/input-keyword.md)
     
-- [Is <keyword>](is-keyword.md)
+- [Is <keyword>](User-Interface-Help/is-keyword.md)
     
-- [Len <keyword>](len-keyword.md)
+- [Len <keyword>](User-Interface-Help/len-keyword.md)
     
-- [Let <keyword>](let-keyword.md)
+- [Let <keyword>](User-Interface-Help/let-keyword.md)
     
-- [Lock <keyword>](lock-keyword.md)
+- [Lock <keyword>](User-Interface-Help/lock-keyword.md)
     
-- [Me <keyword>](me-keyword.md)
+- [Me <keyword>](User-Interface-Help/me-keyword.md)
     
-- [Mid <keyword>](mid-keyword.md)
+- [Mid <keyword>](User-Interface-Help/mid-keyword.md)
     
-- [New <keyword>](new-keyword.md)
+- [New <keyword>](User-Interface-Help/new-keyword.md)
     
-- [Next <keyword>](next-keyword.md)
+- [Next <keyword>](User-Interface-Help/next-keyword.md)
     
-- [Nothing <keyword>](nothing-keyword.md)
+- [Nothing <keyword>](User-Interface-Help/nothing-keyword.md)
     
-- [Null <keyword>](null-keyword.md)
+- [Null <keyword>](User-Interface-Help/null-keyword.md)
     
-- [On <keyword>](on-keyword.md)
+- [On <keyword>](User-Interface-Help/on-keyword.md)
     
-- [Option <keyword>](option-keyword.md)
+- [Option <keyword>](User-Interface-Help/optiUser-Interface-Help/on-keyword.md)
     
-- [Optional <keyword>](optional-keyword.md)
+- [Optional <keyword>](User-Interface-Help/optional-keyword.md)
     
-- [ParamArray <keyword>](paramarray-keyword.md)
+- [ParamArray <keyword>](User-Interface-Help/paramarray-keyword.md)
     
-- [Print <keyword>](print-keyword.md)
+- [Print <keyword>](User-Interface-Help/print-keyword.md)
     
-- [Private <keyword>](private-keyword.md)
+- [Private <keyword>](User-Interface-Help/private-keyword.md)
     
-- [Property <keyword>](property-keyword.md)
+- [Property <keyword>](User-Interface-Help/property-keyword.md)
     
-- [PtrSafe <keyword>](ptrsafe-keyword.md)
+- [PtrSafe <keyword>](User-Interface-Help/ptrsafe-keyword.md)
     
-- [Public <keyword>](public-keyword.md)
+- [Public <keyword>](User-Interface-Help/public-keyword.md)
     
-- [Resume <keyword>](resume-keyword.md)
+- [Resume <keyword>](User-Interface-Help/resuUser-Interface-Help/me-keyword.md)
     
-- [Seek <keyword>](seek-keyword.md)
+- [Seek <keyword>](User-Interface-Help/seek-keyword.md)
     
-- [Set <keyword>](set-keyword.md)
+- [Set <keyword>](User-Interface-Help/set-keyword.md)
     
-- [Static <keyword>](static-keyword.md)
+- [Static <keyword>](User-Interface-Help/static-keyword.md)
     
-- [Step <keyword>](step-keyword.md)
+- [Step <keyword>](User-Interface-Help/step-keyword.md)
     
-- [String <keyword>](string-keyword.md)
+- [String <keyword>](User-Interface-Help/string-keyword.md)
     
-- [Then <keyword>](then-keyword.md)
+- [Then <keyword>](User-Interface-Help/then-keyword.md)
     
-- [Time <keyword>](time-keyword.md)
+- [Time <keyword>](User-Interface-Help/tiUser-Interface-Help/me-keyword.md)
     
-- [To <keyword>](to-keyword.md)
+- [To <keyword>](User-Interface-Help/to-keyword.md)
     
-- [True <keyword>](true-keyword.md)
+- [True <keyword>](User-Interface-Help/true-keyword.md)
     
-- [WithEvents <keyword>](withevents-keyword.md)
+- [WithEvents <keyword>](User-Interface-Help/withevents-keyword.md)
     
 

@@ -11,52 +11,52 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Operator Summary](operator-summary.md)
+- [Operator Summary](User-Interface-Help/operator-summary.md)
     
-- [Operator Precedence](operator-precedence.md)
+- [Operator Precedence](User-Interface-Help/operator-precedence.md)
     
-- [- Operator](operator.md)
+- [- Operator](User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [&; Operator](operator.md)
+- [&; Operator](User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [* Operator](operator.md)
+- [* Operator](User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [/ Operator](operator.md)
+- [/ Operator](User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [\ Operator](operator.md)
+- [\ Operator](User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [^ Operator](carrot-operator.md)
+- [^ Operator](User-Interface-Help/carrot-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [+ Operator](plus-operator.md)
+- [+ Operator](User-Interface-Help/plus-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [= Operator](equals-operator.md)
+- [= Operator](User-Interface-Help/equals-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [AddressOf Operator](addressof-operator.md)
+- [AddressOf Operator](User-Interface-Help/addressof-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [And Operator](and-operator.md)
+- [And Operator](User-Interface-Help/and-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [Arithmetic Operators](arithmetic-operators.md)
+- [Arithmetic Operators](User-Interface-Help/arithmetic-operators.md)
     
-- [Comparison Operators](comparison-operators.md)
+- [Comparison Operators](User-Interface-Help/comparison-operators.md)
     
-- [Concatenation Operators](concatenation-operators.md)
+- [Concatenation Operators](User-Interface-Help/concatenation-operators.md)
     
-- [Eqv Operator](eqv-operator.md)
+- [Eqv Operator](User-Interface-Help/eqv-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [Imp Operator](imp-operator.md)
+- [Imp Operator](User-Interface-Help/imp-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [Is Operator](is-operator.md)
+- [Is Operator](User-Interface-Help/is-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [Like Operator](like-operator.md)
+- [Like Operator](User-Interface-Help/like-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [Logical Operators](logical-operators.md)
+- [Logical Operators](User-Interface-Help/logical-operators.md)
     
-- [Mod Operator](mod-operator.md)
+- [Mod Operator](User-Interface-Help/mod-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [Not Operator](not-operator.md)
+- [Not Operator](User-Interface-Help/not-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [Or Operator](or-operator.md)
+- [Or Operator](User-Interface-Help/or-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
-- [Xor Operator](xor-operator.md)
+- [Xor Operator](User-Interface-Help/xUser-Interface-Help/or-User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/User-Interface-Help/operator.md)
     
 

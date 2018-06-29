@@ -11,102 +11,102 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [AtEndOfLine Property](atendofline-property.md)
+- [AtEndOfLine Property](atendofUser-Interface-Help/line-property.md)
     
-- [AtEndOfStream Property](atendofstream-property.md)
+- [AtEndOfStream Property](User-Interface-Help/atendofstream-property.md)
     
-- [Attributes Property](attributes-property.md)
+- [Attributes Property](User-Interface-Help/attributes-property.md)
     
-- [AvailableSpace Property](availablespace-property.md)
+- [AvailableSpace Property](User-Interface-Help/availablespace-property.md)
     
-- [Calendar Property](calendar-property.md)
+- [Calendar Property](User-Interface-Help/calendar-property.md)
     
-- [Column Property (Visual Basic for Applications)](column-property-visual-basic-for-applications.md)
+- [Column Property (Visual Basic for Applications)](User-Interface-Help/column-property-visual-basic-for-applications.md)
     
-- [CompareMode Property](comparemode-property.md)
+- [CompareMode Property](User-Interface-Help/comparemode-property.md)
     
-- [Count Property (FileSystemObject object)](count-property-filesystemobject-object.md)
+- [Count Property (FileSystemObject object)](User-Interface-Help/count-property-filesystemobject-object.md)
     
-- [Count Property (Visual Basic for Applications)](count-property-visual-basic-for-applications.md)
+- [Count Property (Visual Basic for Applications)](User-Interface-Help/count-property-visual-basic-for-applications.md)
     
-- [DateCreated Property](datecreated-property.md)
+- [DateCreated Property](User-Interface-Help/datecreated-property.md)
     
-- [DateLastAccessed Property](datelastaccessed-property.md)
+- [DateLastAccessed Property](User-Interface-Help/datelastaccessed-property.md)
     
-- [DateLastModified Property](datelastmodified-property.md)
+- [DateLastModified Property](User-Interface-Help/datelastmodified-property.md)
     
-- [Description Property (Visual Basic for Applications)](description-property-visual-basic-for-applications.md)
+- [Description Property (Visual Basic for Applications)](User-Interface-Help/description-property-visual-basic-for-applications.md)
     
-- [Drive Property](drive-property.md)
+- [Drive Property](User-Interface-Help/drive-property.md)
     
-- [DriveLetter Property](driveletter-property.md)
+- [DriveLetter Property](User-Interface-Help/driveletter-property.md)
     
-- [Drives Property](drives-property.md)
+- [Drives Property](User-Interface-Help/drives-property.md)
     
-- [DriveType Property](drivetype-property.md)
+- [DriveType Property](User-Interface-Help/drivetype-property.md)
     
-- [Files Property](files-property.md)
+- [Files Property](User-Interface-Help/files-property.md)
     
-- [FileSystem Property](filesystem-property.md)
+- [FileSystem Property](User-Interface-Help/filesystem-property.md)
     
-- [FreeSpace Property](freespace-property.md)
+- [FreeSpace Property](User-Interface-Help/freespace-property.md)
     
-- [HelpContext Property (Visual Basic for Applications)](helpcontext-property-visual-basic-for-applications.md)
+- [HelpContext Property (Visual Basic for Applications)](User-Interface-Help/helpcontext-property-visual-basic-for-applications.md)
     
-- [HelpFile Property](helpfile-property.md)
+- [HelpFile Property](User-Interface-Help/helpfile-property.md)
     
-- [IsReady Property](isready-property.md)
+- [IsReady Property](User-Interface-Help/isready-property.md)
     
-- [IsRootFolder Property](isrootfolder-property.md)
+- [IsRootFolder Property](isUser-Interface-Help/rootfolder-property.md)
     
-- [Item Property (FileSystemObject object)](item-property-filesystemobject-object.md)
+- [Item Property (FileSystemObject object)](User-Interface-Help/item-property-filesystemobject-object.md)
     
-- [Key Property](key-property.md)
+- [Key Property](User-Interface-Help/key-property.md)
     
-- [LastDLLError Property](lastdllerror-property.md)
+- [LastDLLError Property](User-Interface-Help/lastdllerror-property.md)
     
-- [Line Property](line-property.md)
+- [Line Property](User-Interface-Help/line-property.md)
     
-- [Name Property (FileSystemObject object)](name-property-filesystemobject-object.md)
+- [Name Property (FileSystemObject object)](User-Interface-Help/name-property-filesystemobject-object.md)
     
-- [Number Property (Visual Basic for Applications)](number-property-visual-basic-for-applications.md)
+- [Number Property (Visual Basic for Applications)](User-Interface-Help/number-property-visual-basic-for-applications.md)
     
-- [ParentFolder Property](parentfolder-property.md)
+- [ParentFolder Property](User-Interface-Help/parentfolder-property.md)
     
-- [Path Property (FileSystemObject object)](path-property-filesystemobject-object.md)
+- [Path Property (FileSystemObject object)](User-Interface-Help/path-property-filesystemobject-object.md)
     
-- [RightToLeft Property](righttoleft-property.md)
+- [RightToLeft Property](User-Interface-Help/righttoleft-property.md)
     
-- [RootFolder Property](rootfolder-property.md)
+- [RootFolder Property](User-Interface-Help/rootfolder-property.md)
     
-- [SerialNumber Property](serialnumber-property.md)
+- [SerialNumber Property](User-Interface-Help/serialnumber-property.md)
     
-- [ShareName Property](sharename-property.md)
+- [ShareName Property](User-Interface-Help/sharename-property.md)
     
-- [ShortName Property](shortname-property.md)
+- [ShortName Property](User-Interface-Help/shortname-property.md)
     
-- [ShortPath Property](shortpath-property.md)
+- [ShortPath Property](User-Interface-Help/shortpath-property.md)
     
-- [ShowModal Property](showmodal-property.md)
+- [ShowModal Property](User-Interface-Help/showmodal-property.md)
     
-- [Size Property (FileSystemObject object)](size-property-filesystemobject-object.md)
+- [Size Property (FileSystemObject object)](User-Interface-Help/size-property-filesystemobject-object.md)
     
-- [Source Property (Visual Basic for Applications)](source-property-visual-basic-for-applications.md)
+- [Source Property (Visual Basic for Applications)](User-Interface-Help/source-property-visual-basic-for-applications.md)
     
-- [StartUpPosition Property](startupposition-property.md)
+- [StartUpPosition Property](User-Interface-Help/startupposition-property.md)
     
-- [SubFolders Property](subfolders-property.md)
+- [SubFolders Property](User-Interface-Help/subfolders-property.md)
     
-- [TotalSize Property](totalsize-property.md)
+- [TotalSize Property](User-Interface-Help/totalsize-property.md)
     
-- [Type Property (FileSystemObject object)](type-property-filesystemobject-object.md)
+- [Type Property (FileSystemObject object)](User-Interface-Help/type-property-filesystemobject-object.md)
     
-- [VBComponents Property](vbcomponents-property.md)
+- [VBComponents Property](User-Interface-Help/vbcomponents-property.md)
     
-- [VolumeName Property](volumename-property.md)
+- [VolumeName Property](User-Interface-Help/volumename-property.md)
     
-- [WhatsThisButton Property](whatsthisbutton-property.md)
+- [WhatsThisButton Property](User-Interface-Help/whatsthisbutton-property.md)
     
-- [WhatsThisHelp Property](whatsthishelp-property.md)
+- [WhatsThisHelp Property](User-Interface-Help/whatsthishelp-property.md)
     
 

@@ -11,36 +11,36 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Data Type Summary](data-type-summary.md)
+- [Data Type Summary](User-Interface-Help/data-type-summary.md)
     
-- [Boolean Data Type](boolean-data-type.md)
+- [Boolean Data Type](User-Interface-Help/boolean-data-type.md)
     
-- [Byte Data Type](byte-data-type.md)
+- [Byte Data Type](User-Interface-Help/byte-data-type.md)
     
-- [Currency Data Type](currency-data-type.md)
+- [Currency Data Type](User-Interface-Help/currency-data-type.md)
     
-- [Date Data Type](date-data-type.md)
+- [Date Data Type](User-Interface-Help/date-data-type.md)
     
-- [Decimal Data Type](decimal-data-type.md)
+- [Decimal Data Type](User-Interface-Help/decimal-data-type.md)
     
-- [Double Data Type](double-data-type.md)
+- [Double Data Type](User-Interface-Help/double-data-type.md)
     
-- [Integer Data Type](integer-data-type.md)
+- [Integer Data Type](User-Interface-Help/integer-data-type.md)
     
-- [Long Data Type](long-data-type.md)
+- [Long Data Type](User-Interface-Help/long-data-type.md)
     
-- [LongLong Data Type](longlong-data-type.md)
+- [LongLong Data Type](User-Interface-Help/longUser-Interface-Help/long-data-type.md)
     
-- [LongPtr Data Type](longptr-data-type.md)
+- [LongPtr Data Type](User-Interface-Help/longptr-data-type.md)
     
-- [Object Data Type](object-data-type.md)
+- [Object Data Type](User-Interface-Help/object-data-type.md)
     
-- [Single Data Type](single-data-type.md)
+- [Single Data Type](User-Interface-Help/single-data-type.md)
     
-- [String Data Type](string-data-type.md)
+- [String Data Type](User-Interface-Help/string-data-type.md)
     
-- [User-Defined Data Type](user-defined-data-type.md)
+- [User-Defined Data Type](../How-to/user-defined-data-type.md)
     
-- [Variant Data Type](variant-data-type.md)
+- [Variant Data Type](User-Interface-Help/variant-data-type.md)
     
 

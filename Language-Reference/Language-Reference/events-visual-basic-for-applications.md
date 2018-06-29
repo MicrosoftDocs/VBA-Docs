@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Activate, Deactivate Events](activate-deactivate-events.md)
+- [Activate, Deactivate Events](User-Interface-Help/activate-deactivate-events.md)
     
-- [Initialize Event](initialize-event.md)
+- [Initialize Event](User-Interface-Help/initialize-event.md)
     
-- [QueryClose Event](queryclose-event.md)
+- [QueryClose Event](User-Interface-Help/queryclose-event.md)
     
-- [Resize Event](resize-event.md)
+- [Resize Event](User-Interface-Help/resize-event.md)
     
-- [Terminate Event (Visual Basic for Applications)](terminate-event-visual-basic-for-applications.md)
+- [Terminate Event (Visual Basic for Applications)](User-Interface-Help/terminate-event-visual-basic-for-applications.md)
     
 

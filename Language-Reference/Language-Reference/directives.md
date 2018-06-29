@@ -11,8 +11,8 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [#Const Directive](const-directive.md)
+- [#Const Directive](User-Interface-Help/const-directive.md)
     
-- [#If...Then...#Else Directive](ifthenelse-directive.md)
+- [#If...Then...#Else Directive](User-Interface-Help/ifthenelse-directive.md)
     
 

@@ -11,60 +11,60 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Visual Basic Constants](visual-basic-constants.md)
+- [Visual Basic Constants](User-Interface-Help/visual-basic-constants.md)
     
-- [Calendar Constants](calendar-constants.md)
+- [Calendar Constants](User-Interface-Help/calendar-constants.md)
     
-- [CallType Constants](calltype-constants.md)
+- [CallType Constants](User-Interface-Help/calltype-constants.md)
     
-- [Color Constants](color-constants.md)
+- [Color Constants](User-Interface-Help/color-constants.md)
     
-- [ColorConstants (Object Browser)](colorconstants-object-browser.md)
+- [ColorConstants (Object Browser)](User-Interface-Help/colorconstants-object-browser.md)
     
-- [Comparison Constants](comparison-constants.md)
+- [Comparison Constants](User-Interface-Help/comparison-constants.md)
     
-- [Compiler Constants](compiler-constants.md)
+- [Compiler Constants](../Concepts/Getting-Started/compiler-constants.md)
     
-- [Date Constants](date-constants.md)
+- [Date Constants](User-Interface-Help/date-constants.md)
     
-- [Date Format Constants](date-format-constants.md)
+- [Date Format Constants](User-Interface-Help/date-format-constants.md)
     
-- [Dir, GetAttr, and SetAttr Constants](dir-getattr-and-setattr-constants.md)
+- [Dir, GetAttr, and SetAttr Constants](User-Interface-Help/dir-getattr-and-setattr-constants.md)
     
-- [DriveType Constants](drivetype-constants.md)
+- [DriveType Constants](User-Interface-Help/drivetype-constants.md)
     
-- [File Attribute Constants](file-attribute-constants.md)
+- [File Attribute Constants](User-Interface-Help/file-attribute-constants.md)
     
-- [File Input/Output Constants](file-input-output-constants.md)
+- [File Input/Output Constants](User-Interface-Help/file-input-output-constants.md)
     
-- [Form Constants](form-constants.md)
+- [Form Constants](User-Interface-Help/form-constants.md)
     
-- [FormShowConstants (Object Browser)](formshowconstants-object-browser.md)
+- [FormShowConstants (Object Browser)](User-Interface-Help/formshowconstants-object-browser.md)
     
-- [IMEStatus Constants](imestatus-constants.md)
+- [IMEStatus Constants](User-Interface-Help/imestatus-constants.md)
     
-- [Keycode Constants](keycode-constants.md)
+- [Keycode Constants](User-Interface-Help/keycode-constants.md)
     
-- [KeycodeConstants (Object Browser)](keycodeconstants-object-browser.md)
+- [KeycodeConstants (Object Browser)](User-Interface-Help/keycodeconstants-object-browser.md)
     
-- [Miscellaneous Constants](miscellaneous-constants.md)
+- [Miscellaneous Constants](User-Interface-Help/miscellaneous-constants.md)
     
-- [MsgBox Constants](msgbox-constants.md)
+- [MsgBox Constants](User-Interface-Help/msgbox-constants.md)
     
-- [QueryClose Constants](queryclose-constants.md)
+- [QueryClose Constants](User-Interface-Help/queryclose-constants.md)
     
-- [Shell Constants](shell-constants.md)
+- [Shell Constants](User-Interface-Help/shell-constants.md)
     
-- [SpecialFolder Constants](specialfolder-constants.md)
+- [SpecialFolder Constants](User-Interface-Help/specialfolder-constants.md)
     
-- [StrConv Constants](strconv-constants.md)
+- [StrConv Constants](User-Interface-Help/strconv-constants.md)
     
-- [System Color Constants](system-color-constants.md)
+- [System Color Constants](User-Interface-Help/system-User-Interface-Help/color-constants.md)
     
-- [SystemColorConstants (Object Browser)](systemcolorconstants-object-browser.md)
+- [SystemColorConstants (Object Browser)](User-Interface-Help/systemUser-Interface-Help/colorconstants-object-browser.md)
     
-- [Tristate Constants](tristate-constants.md)
+- [Tristate Constants](User-Interface-Help/tristate-constants.md)
     
-- [VarType Constants](vartype-constants.md)
+- [VarType Constants](../Concepts/Getting-Started/vartype-constants.md)
     
 

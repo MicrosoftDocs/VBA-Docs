@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Returns for CStr](returns-for-cstr.md)
+- [Returns for CStr](User-Interface-Help/returns-for-cstr.md)
     
 
