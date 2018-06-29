@@ -405,7 +405,7 @@ ms.date: 06/08/2017
     
 - [Function call on left-hand side of assignment must return Variant or Object](User-Interface-Help/function-call-on-left-hand-side-of-assignment-must-return-variant-or-object.md)
     
-- [Function marked as restricted or uses a type not supported in Visual Basic](function-marked-as-restricted-or-uses-a-type-not-supported-in-visual-basic.md)
+- [Function marked as restricted or uses a type not supported in Visual Basic](User-Interface-Help/function-marked-as-restricted-or-uses-a-type-not-supported-in-visual-basic.md)
     
 - [Identifier too long](User-Interface-Help/identifier-too-long.md)
     

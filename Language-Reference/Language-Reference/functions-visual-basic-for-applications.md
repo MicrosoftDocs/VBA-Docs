@@ -33,7 +33,7 @@ ms.date: 06/08/2017
     
 - [CreateObject Function](User-Interface-Help/createobject-function.md)
     
-- [CurDir Function](curUser-Interface-Help/dir-function.md)
+- [CurDir Function](User-Interface-Help/curdir-function.md)
     
 - [CVErr Function](User-Interface-Help/cverr-function.md)
     
@@ -71,7 +71,7 @@ ms.date: 06/08/2017
     
 - [FileDateTime Function](User-Interface-Help/filedatetime-function.md)
     
-- [FileLen Function](fileUser-Interface-Help/len-function.md)
+- [FileLen Function](User-Interface-Help/filelen-function.md)
     
 - [Filter Function](User-Interface-Help/filter-function.md)
     
@@ -109,13 +109,13 @@ ms.date: 06/08/2017
     
 - [InputBox Function](User-Interface-Help/inputbox-function.md)
     
-- [InStr Function](inUser-Interface-Help/str-function.md)
+- [InStr Function](User-Interface-Help/instr-function.md)
     
 - [InStrRev Function](User-Interface-Help/instrrev-function.md)
     
 - [Int, Fix Functions](User-Interface-Help/int-fix-functions.md)
     
-- [IPmt Function](iUser-Interface-Help/pmt-function.md)
+- [IPmt Function](User-Interface-Help/ipmt-function.md)
     
 - [IRR Function](User-Interface-Help/irr-function.md)
     
@@ -175,7 +175,7 @@ ms.date: 06/08/2017
     
 - [NPer Function](User-Interface-Help/nper-function.md)
     
-- [NPV Function](nUser-Interface-Help/pv-function.md)
+- [NPV Function](User-Interface-Help/npv-function.md)
     
 - [Oct Function](User-Interface-Help/oct-function.md)
     

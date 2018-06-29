@@ -41,13 +41,13 @@ ms.date: 06/08/2017
     
 - [DeleteFolder Method](User-Interface-Help/deletefolder-method.md)
     
-- [DriveExists Method](driveUser-Interface-Help/exists-method.md)
+- [DriveExists Method](User-Interface-Help/driveexists-method.md)
     
 - [Exists Method](User-Interface-Help/exists-method.md)
     
-- [FileExists Method](User-Interface-Help/fileUser-Interface-Help/exists-method.md)
+- [FileExists Method](User-Interface-Help/fileexists-method.md)
     
-- [FolderExists Method](User-Interface-Help/folderUser-Interface-Help/exists-method.md)
+- [FolderExists Method](User-Interface-Help/folderexists-method.md)
     
 - [GetAbsolutePathName Method](User-Interface-Help/getabsolutepathname-method.md)
     
@@ -101,7 +101,7 @@ ms.date: 06/08/2017
     
 - [ReadLine Method](User-Interface-Help/readline-method.md)
     
-- [Remove Method (FileSystemObject object)](User-Interface-Help/reUser-Interface-Help/move-method-filesystemobject-object.md)
+- [Remove Method (FileSystemObject object)](User-Interface-Help/remove-method-filesystemobject-object.md)
     
 - [Remove Method (Visual Basic for Applications)](User-Interface-Help/remove-method-visual-basic-for-applications.md)
     

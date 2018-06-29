@@ -61,7 +61,7 @@ ms.date: 06/08/2017
     
 - [On <keyword>](User-Interface-Help/on-keyword.md)
     
-- [Option <keyword>](User-Interface-Help/optiUser-Interface-Help/on-keyword.md)
+- [Option <keyword>](User-Interface-Help/option-keyword.md)
     
 - [Optional <keyword>](User-Interface-Help/optional-keyword.md)
     
@@ -77,7 +77,7 @@ ms.date: 06/08/2017
     
 - [Public <keyword>](User-Interface-Help/public-keyword.md)
     
-- [Resume <keyword>](User-Interface-Help/resuUser-Interface-Help/me-keyword.md)
+- [Resume <keyword>](User-Interface-Help/resume-keyword.md)
     
 - [Seek <keyword>](User-Interface-Help/seek-keyword.md)
     
@@ -91,7 +91,7 @@ ms.date: 06/08/2017
     
 - [Then <keyword>](User-Interface-Help/then-keyword.md)
     
-- [Time <keyword>](User-Interface-Help/tiUser-Interface-Help/me-keyword.md)
+- [Time <keyword>](User-Interface-Help/time-keyword.md)
     
 - [To <keyword>](User-Interface-Help/to-keyword.md)
     

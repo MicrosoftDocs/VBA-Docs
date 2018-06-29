@@ -57,6 +57,6 @@ ms.date: 06/08/2017
     
 - [Or Operator](User-Interface-Help/or-operator.md)
     
-- [Xor Operator](User-Interface-Help/xoperator.md)
+- [Xor Operator](User-Interface-Help/xor-operator.md)
     
 

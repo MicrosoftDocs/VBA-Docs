@@ -77,7 +77,7 @@ ms.date: 06/08/2017
     
 - [Lock, Unlock Statements](User-Interface-Help/lock-unlock-statements.md)
     
-- [LSet Statement](lUser-Interface-Help/set-statement.md)
+- [LSet Statement](User-Interface-Help/lset-statement.md)
     
 - [Mid Statement](User-Interface-Help/mid-statement.md)
     
@@ -121,13 +121,13 @@ ms.date: 06/08/2017
     
 - [Rem Statement](User-Interface-Help/rem-statement.md)
     
-- [Reset Statement](reUser-Interface-Help/set-statement.md)
+- [Reset Statement](User-Interface-Help/reset-statement.md)
     
 - [Resume Statement](User-Interface-Help/resume-statement.md)
     
 - [RmDir Statement](User-Interface-Help/rmdir-statement.md)
     
-- [RSet Statement](rUser-Interface-Help/set-statement.md)
+- [RSet Statement](User-Interface-Help/rset-statement.md)
     
 - [SaveSetting Statement](User-Interface-Help/savesetting-statement.md)
     

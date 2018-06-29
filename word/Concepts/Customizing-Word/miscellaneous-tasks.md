@@ -26,7 +26,7 @@ This topic includes Visual Basic examples for the following tasks:
 
 ## Changing the view
 
-The  **[View](view-object-word.md)** object includes properties and methods related to view attributes (such as show all, field shading, and table gridlines) for a window or pane. The following example changes the view to print view.
+The  **[View](../../../api/Word.View.md)** object includes properties and methods related to view attributes (such as show all, field shading, and table gridlines) for a window or pane. The following example changes the view to print view.
 
 
 ```vb
@@ -38,7 +38,7 @@ End Sub
 
 ## Setting text in a header or footer
 
-The  **[HeaderFooter](headerfooter-object-word.md)** object is returned by the **Headers**,  **Footers**, and  **HeaderFooter** properties. The following example changes the text of the current page header.
+The  **[HeaderFooter](../../../api/Word.HeaderFooter.md)** object is returned by the **Headers**,  **Footers**, and  **HeaderFooter** properties. The following example changes the text of the current page header.
 
 
 ```vb
@@ -74,7 +74,7 @@ End Sub
 
 ## Setting options
 
-The  **[Options](options-object-word.md)** object includes properties that correspond to optional settings that are available in various menus and dialogs throughout Word. The following example sets three application settings for Word.
+The  **[Options](../../../api/Word.Options.md)** object includes properties that correspond to optional settings that are available in various menus and dialogs throughout Word. The following example sets three application settings for Word.
 
 
 ```vb
@@ -90,7 +90,7 @@ End Sub
 
 ## Changing the document layout
 
-The  **[PageSetup](pagesetup-object-word.md)** contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties. The following example sets the margin values for the active document.
+The  **[PageSetup](../../../api/Word.PageSetup.md)** contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties. The following example sets the margin values for the active document.
 
 
 ```vb
@@ -124,7 +124,7 @@ For more information, see  [Looping through a collection](looping-through-a-coll
 
 ## Customizing menus and toolbars
 
-The  **CommandBar** object represents both menus and toolbars (in versions of Word that do not use the ribbon). Use the **[CommandBars](application-commandbars-property-word.md)** property with a menu or toolbar name to return a single **CommandBar** object. The **Controls** property returns a **CommandBarControls** object that refers to the items on the specified command bar. The following example adds the **Word Count** command to the **Standard** menu.
+The  **CommandBar** object represents both menus and toolbars (in versions of Word that do not use the ribbon). Use the **[CommandBars](../../../api/Word.Application.CommandBars.md)** property with a menu or toolbar name to return a single **CommandBar** object. The **Controls** property returns a **CommandBarControls** object that refers to the items on the specified command bar. The following example adds the **Word Count** command to the **Standard** menu.
 
 
 ```vb
