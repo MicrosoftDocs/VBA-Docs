@@ -24,8 +24,8 @@ When you design a mail form, it is important to consider which type of message f
 
 For more information, see the following topics:
 
--  [Form Regions](form-regions.md)
+-  [Form Regions](../Outlook-Forms/form-regions.md)
     
--  [Making Separate Compose and Read Pages](make-separate-compose-and-read-versions-for-a-form.md)
+-  [Making Separate Compose and Read Pages](../Configuring-Forms/make-separate-compose-and-read-versions-for-a-form.md)
     
 

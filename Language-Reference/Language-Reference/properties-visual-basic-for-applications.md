@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [AtEndOfLine Property](atendofUser-Interface-Help/line-property.md)
+- [AtEndOfLine Property](User-Interface-Help/atendofline-property.md)
     
 - [AtEndOfStream Property](User-Interface-Help/atendofstream-property.md)
     
@@ -57,7 +57,7 @@ ms.date: 06/08/2017
     
 - [IsReady Property](User-Interface-Help/isready-property.md)
     
-- [IsRootFolder Property](isUser-Interface-Help/rootfolder-property.md)
+- [IsRootFolder Property](User-Interface-Help/isrootfolder-property.md)
     
 - [Item Property (FileSystemObject object)](User-Interface-Help/item-property-filesystemobject-object.md)
     

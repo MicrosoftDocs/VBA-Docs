@@ -12,6 +12,6 @@ Both  **ToolTips** and **control tips** are short, descriptive phrases that appe
 
 You can customize  **ToolTips** for controls and for the **Control Toolbox**.
 
-A  **control tip** is set with the [ControlTipText](page-controltiptext-property-outlook-forms-script.md) property. For example, use **ControlTipText** to set the control tip text for the **Page** object.
+A  **control tip** is set with the [ControlTipText](../../../api/Outlook.page.controltiptext.md) property. For example, use **ControlTipText** to set the control tip text for the **Page** object.
 
 

@@ -29,7 +29,7 @@ ms.date: 06/08/2017
     
 - [Long Data Type](User-Interface-Help/long-data-type.md)
     
-- [LongLong Data Type](User-Interface-Help/longUser-Interface-Help/long-data-type.md)
+- [LongLong Data Type](User-Interface-Help/longlong-data-type.md)
     
 - [LongPtr Data Type](User-Interface-Help/longptr-data-type.md)
     

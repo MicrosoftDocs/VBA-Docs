@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Control Toolbox Overview
 
-The  [Control Toolbox](show-or-hide-the-control-toolbox.md) identifies the controls that you can add to a **Frame** or a page of a form.
+The  [Control Toolbox](../Specifying-Form-Behavior/show-or-hide-the-control-toolbox.md) identifies the controls that you can add to a **Frame** or a page of a form.
 
 You can customize the  **Control Toolbox** in many ways including the following:
 
@@ -20,7 +20,7 @@ You can customize the  **Control Toolbox** in many ways including the following:
     
 - Add other controls, including ActiveX controls, to the  **Control Toolbox**. 
     
-- Copy modified controls from the form to the  **Control Toolbox**. For example,  **OK** and **Cancel** buttons are special types of [CommandButtons](commandbutton-object-outlook-forms-script.md). If you copy  **OK** and **Cancel** templates to the **Control Toolbox**, you can quickly add them to other forms.
+- Copy modified controls from the form to the  **Control Toolbox**. For example,  **OK** and **Cancel** buttons are special types of [CommandButtons](../../../api/Outlook.commandbutton.md). If you copy  **OK** and **Cancel** templates to the **Control Toolbox**, you can quickly add them to other forms.
     
 
  **Note**  When you add a control to a form by using the  **Control Toolbox**, the control is not bound to a field.

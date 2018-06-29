@@ -59,9 +59,9 @@ ms.date: 06/08/2017
     
 - [StrConv Constants](User-Interface-Help/strconv-constants.md)
     
-- [System Color Constants](User-Interface-Help/system-User-Interface-Help/color-constants.md)
+- [System Color Constants](User-Interface-Help/system-color-constants.md)
     
-- [SystemColorConstants (Object Browser)](User-Interface-Help/systemUser-Interface-Help/colorconstants-object-browser.md)
+- [SystemColorConstants (Object Browser)](User-Interface-Help/systemcolorconstants-object-browser.md)
     
 - [Tristate Constants](User-Interface-Help/tristate-constants.md)
     

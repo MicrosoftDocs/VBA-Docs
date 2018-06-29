@@ -71,7 +71,7 @@ ms.date: 06/08/2017
     
 - [Let Statement](User-Interface-Help/let-statement.md)
     
-- [Line Input # Statement](User-Interface-Help/line-User-Interface-Help/inputstatement.md)
+- [Line Input # Statement](User-Interface-Help/line-inputstatement.md)
     
 - [Load Statement](User-Interface-Help/load-statement.md)
     
@@ -85,7 +85,7 @@ ms.date: 06/08/2017
     
 - [Name Statement](User-Interface-Help/name-statement.md)
     
-- [On Error Statement](User-Interface-Help/on-User-Interface-Help/error-statement.md)
+- [On Error Statement](User-Interface-Help/on-error-statement.md)
     
 - [On...GoSub, On...GoTo Statements](User-Interface-Help/ongosub-ongoto-statements.md)
     
@@ -97,27 +97,27 @@ ms.date: 06/08/2017
     
 - [Option Explicit Statement](User-Interface-Help/option-explicit-statement.md)
     
-- [Option Private Statement](option-User-Interface-Help/private-statement.md)
+- [Option Private Statement](User-Interface-Help/option-private-statement.md)
     
 - [Print # Statement](User-Interface-Help/printstatement.md)
     
 - [Private Statement](User-Interface-Help/private-statement.md)
     
-- [Property Get Statement](User-Interface-Help/property-User-Interface-Help/get-statement.md)
+- [Property Get Statement](User-Interface-Help/property-get-statement.md)
     
-- [Property Let Statement](User-Interface-Help/property-User-Interface-Help/let-statement.md)
+- [Property Let Statement](User-Interface-Help/property-let-statement.md)
     
-- [Property Set Statement](property-User-Interface-Help/set-statement.md)
+- [Property Set Statement](User-Interface-Help/property-set-statement.md)
     
 - [Public Statement](User-Interface-Help/public-statement.md)
     
 - [Put Statement](User-Interface-Help/put-statement.md)
     
-- [RaiseEvent Statement](User-Interface-Help/raiseUser-Interface-Help/event-statement.md)
+- [RaiseEvent Statement](User-Interface-Help/raiseevent-statement.md)
     
 - [Randomize Statement](User-Interface-Help/randomize-statement.md)
     
-- [ReDim Statement](User-Interface-Help/reUser-Interface-Help/dim-statement.md)
+- [ReDim Statement](User-Interface-Help/redim-statement.md)
     
 - [Rem Statement](User-Interface-Help/rem-statement.md)
     
@@ -151,9 +151,9 @@ ms.date: 06/08/2017
     
 - [Type Statement](User-Interface-Help/type-statement.md)
     
-- [Unload Statement](User-Interface-Help/unUser-Interface-Help/load-statement.md)
+- [Unload Statement](User-Interface-Help/unload-statement.md)
     
-- [While...Wend Statement](User-Interface-Help/whilewUser-Interface-Help/end-statement.md)
+- [While...Wend Statement](User-Interface-Help/whilewend-statement.md)
     
 - [Width # Statement](User-Interface-Help/widthstatement.md)
     

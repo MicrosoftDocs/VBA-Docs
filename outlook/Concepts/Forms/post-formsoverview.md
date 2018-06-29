@@ -15,8 +15,8 @@ A folder that contains posts is usually grouped by the  **Conversation** field t
 For more information, see the following topics:
 
 
--  [Form Regions](form-regions.md)
+-  [Form Regions](../Outlook-Forms/form-regions.md)
     
--  [How to: Make Separate Compose and Read Versions for a Form](make-separate-compose-and-read-versions-for-a-form.md)
+-  [How to: Make Separate Compose and Read Versions for a Form](../Configuring-Forms/make-separate-compose-and-read-versions-for-a-form.md)
     
 

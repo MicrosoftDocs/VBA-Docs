@@ -405,7 +405,7 @@ ms.date: 06/08/2017
     
 - [Function call on left-hand side of assignment must return Variant or Object](User-Interface-Help/function-call-on-left-hand-side-of-assignment-must-return-variant-or-object.md)
     
-- [Function marked as restricted or uses a type not supported in Visual Basic](function-marked-as-restricted-or-uses-a-User-Interface-Help/type-not-supported-in-visual-basic.md)
+- [Function marked as restricted or uses a type not supported in Visual Basic](function-marked-as-restricted-or-uses-a-type-not-supported-in-visual-basic.md)
     
 - [Identifier too long](User-Interface-Help/identifier-too-long.md)
     
@@ -803,7 +803,7 @@ ms.date: 06/08/2017
     
 - [Project contains too many procedure, variable, and constant names](User-Interface-Help/project-contains-too-many-procedure-variable-and-constant-names.md)
     
-- [Project file is read-only](User-Interface-Help/project-User-Interface-Help/file-is-read-only.md)
+- [Project file is read-only](User-Interface-Help/project-file-is-read-only.md)
     
 - [Project is unviewable.](User-Interface-Help/project-is-unviewable.md)
     

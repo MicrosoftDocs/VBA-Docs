@@ -53,7 +53,7 @@ ms.date: 06/08/2017
     
 - [DDB Function](User-Interface-Help/ddb-function.md)
     
-- [Derived Math Functions](derived-User-Interface-Help/math-functions.md)
+- [Derived Math Functions](User-Interface-Help/derived-math-functions.md)
     
 - [Dir Function](User-Interface-Help/dir-function.md)
     
@@ -69,7 +69,7 @@ ms.date: 06/08/2017
     
 - [FileAttr Function](User-Interface-Help/fileattr-function.md)
     
-- [FileDateTime Function](filedateUser-Interface-Help/time-function.md)
+- [FileDateTime Function](User-Interface-Help/filedatetime-function.md)
     
 - [FileLen Function](fileUser-Interface-Help/len-function.md)
     
@@ -79,7 +79,7 @@ ms.date: 06/08/2017
     
 - [FormatCurrency Function](User-Interface-Help/formatcurrency-function.md)
     
-- [FormatDateTime Function](formatdateUser-Interface-Help/time-function.md)
+- [FormatDateTime Function](User-Interface-Help/formatdatetime-function.md)
     
 - [FormatNumber Function](User-Interface-Help/formatnumber-function.md)
     
@@ -119,13 +119,13 @@ ms.date: 06/08/2017
     
 - [IRR Function](User-Interface-Help/irr-function.md)
     
-- [IsArray Function](User-Interface-Help/isUser-Interface-Help/array-function.md)
+- [IsArray Function](User-Interface-Help/isarray-function.md)
     
-- [IsDate Function](User-Interface-Help/isUser-Interface-Help/date-function.md)
+- [IsDate Function](User-Interface-Help/isdate-function.md)
     
 - [IsEmpty Function](User-Interface-Help/isempty-function.md)
     
-- [IsError Function](User-Interface-Help/isUser-Interface-Help/error-function.md)
+- [IsError Function](User-Interface-Help/iserror-function.md)
     
 - [IsMissing Function](User-Interface-Help/ismissing-function.md)
     
@@ -163,7 +163,7 @@ ms.date: 06/08/2017
     
 - [Minute Function](User-Interface-Help/minute-function.md)
     
-- [MIRR Function](User-Interface-Help/mUser-Interface-Help/irr-function.md)
+- [MIRR Function](User-Interface-Help/mirr-function.md)
     
 - [Month Function](User-Interface-Help/month-function.md)
     
@@ -183,7 +183,7 @@ ms.date: 06/08/2017
     
 - [Pmt Function](User-Interface-Help/pmt-function.md)
     
-- [PPmt Function](User-Interface-Help/pUser-Interface-Help/pmt-function.md)
+- [PPmt Function](User-Interface-Help/ppmt-function.md)
     
 - [PV Function](User-Interface-Help/pv-function.md)
     
@@ -247,7 +247,7 @@ ms.date: 06/08/2017
     
 - [TimeValue Function](User-Interface-Help/timevalue-function.md)
     
-- [Type Conversion Functions](../Concepts/Getting-Started/type-User-Interface-Help/conversion-functions.md)
+- [Type Conversion Functions](../Concepts/Getting-Started/type-conversion-functions.md)
     
 - [TypeName Function](User-Interface-Help/typename-function.md)
     
@@ -259,7 +259,7 @@ ms.date: 06/08/2017
     
 - [VarType Function](User-Interface-Help/vartype-function.md)
     
-- [Weekday Function](User-Interface-Help/weekUser-Interface-Help/day-function.md)
+- [Weekday Function](User-Interface-Help/weekday-function.md)
     
 - [WeekdayName Function](User-Interface-Help/weekdayname-function.md)
     
