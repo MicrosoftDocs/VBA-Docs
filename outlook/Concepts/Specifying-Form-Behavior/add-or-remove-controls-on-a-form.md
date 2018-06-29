@@ -15,7 +15,7 @@ You can add or remove controls on a form. In the Forms Designer, do one of the f
 
 
 1. Click 
-![Control toolbox](./images/0548_ZA06045100.gif) [Control Toolbox](control-toolbox-overview.md), and then drag the control to the form.
+![Control toolbox](../../../images/0548_ZA06045100.gif) [Control Toolbox](control-toolbox-overview.md), and then drag the control to the form.
     
 2. Set the control properties.
     

@@ -33,7 +33,7 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 |**vbDataObject**|13|Data access object|
 |**vbDecimal**|14|[Decimal](vbe-glossary.md)|
 |**vbByte**|17|[Byte](vbe-glossary.md)|
-|**vbLongLong**|20|[LongLong](../../Language-Reference/User-Interface-Help/long../../Language-Reference/User-Interface-Help/long-data-type.md) integer (Valid on 64-bit platforms only.)|
+|**vbLongLong**|20|[LongLong](../../Language-Reference/Language-Reference/User-Interface-Help/long-data-type.md) integer (Valid on 64-bit platforms only.)|
 |**vbUserDefinedType**|36|Variants that contain user-defined types|
 |**vbArray**|8192|Array|
 

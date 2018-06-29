@@ -23,7 +23,7 @@ This topic describes the entry points to search items in folders and access to s
 Access the search results by one of these means:
 
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<li><p><b><a href="search-results-property-outlook.md">Search.Results</a></b> contains the search results as a <b><a href="results-object-outlook.md">Results</a></b> collection. Each item in the collection contains the full set of item properties.</p></li>
+<li><p><b><a href="../../../api/Outlook.Search.Results.md">Search.Results</a></b> contains the search results as a <b><a href="../../../api/Outlook.Results.md">Results</a></b> collection. Each item in the collection contains the full set of item properties.</p></li>
 <li><p><b>Search</b>. <b>Save</b> saves the results to a search folder.</p></li>
 <li><p><b><a href="../../../api/Outlook.Search.GetTable.md">Search.GetTable</a></b> also returns the same set of items as in the <b>Results</b> collection, but each item  will contain only a default set of properties and therefore generally offers better performance.</p></li>
 </ul> 

@@ -201,6 +201,6 @@ For more information about creating a reference and controlling objects by using
 
 ## See also
 
-[Access Object Model Reference](object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
 
 
