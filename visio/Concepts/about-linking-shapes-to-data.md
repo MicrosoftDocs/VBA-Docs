@@ -269,7 +269,7 @@ When you create a  **DataRecordset** object, its **RefreshInterval** property va
 
 To determine the date and time of the last refresh operation, get the  **[DataRecordset.TimeRefreshed](../../api/Visio.DataRecordset.TimeRefreshed.md)** property.
 
-Additionally, the  **[DataRecordset.RefreshSettings](datarecordset-refreshsettings-property-visio.md)** property allows you to customize automatic refreshes of data. By setting this property to a combination of the values in the**[VisRefreshSettings](visrefreshsettings-enumeration-visio.md)** enumeration, you can specify that either or both of the following occur:
+Additionally, the  **[DataRecordset.RefreshSettings](../../api/Visio.DataRecordset.RefreshSettings.md)** property allows you to customize automatic refreshes of data. By setting this property to a combination of the values in the**[VisRefreshSettings](../../api/Visio.visrefreshsettings.md)** enumeration, you can specify that either or both of the following occur:
 
 
 - The UI for reconciling refresh conflicts (the  **Refresh Conflicts** task pane) is disabled. (See the next section for more information.)
@@ -299,11 +299,11 @@ You can help prevent these broken or mismatched links by assigning primary keys 
 
 As a result, when you refresh or when Visio refreshes a data recordset that includes primary keys, its rows retain the same row IDs they had before the refresh operation. Because Visio links shapes to data rows by ID—shape ID to row ID—and because row IDs remain the same after a refresh operation, data-linked shapes remain linked to the correct row. Note that row IDs are never recycled for a given a data recordset.
 
-You can use the  **[DataRecordset.GetPrimaryKey](datarecordset-getprimarykey-method-visio.md)** method to determine the existing primary key for a data recordset, if one is specified. This method returns the primary key setting for the data recordset, as a value from the**[VisPrimaryKeySettings](visprimarykeysettings-enumeration-visio.md)** enumeration. You can use single or composite primary keys. A single key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely.
+You can use the  **[DataRecordset.GetPrimaryKey](../../api/Visio.DataRecordset.GetPrimaryKey.md)** method to determine the existing primary key for a data recordset, if one is specified. This method returns the primary key setting for the data recordset, as a value from the**[VisPrimaryKeySettings](../../api/Visio.visprimarykeysettings.md)** enumeration. You can use single or composite primary keys. A single key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely.
 
 If the primary key setting is  **visKeySingle** or **visKeyComposite**, the method also returns an array of primary key column-name strings. If the primary key setting is  **visKeyRowOrder**, the default, the method returns an empty array of primary keys.
 
-Likewise, you can use the  **[DataRecordset.SetPrimaryKey](datarecordset-setprimarykey-method-visio.md)** method to specify the primary key setting for the data recordset, as well as the name of the column or columns that you want to set as the primary key column or columns. Once again, when you set primary keys, make sure that the column or columns you pick to be primary key columns contain unique values (or value sets) for each row.
+Likewise, you can use the  **[DataRecordset.SetPrimaryKey](../../api/Visio.DataRecordset.SetPrimaryKey.md)** method to specify the primary key setting for the data recordset, as well as the name of the column or columns that you want to set as the primary key column or columns. Once again, when you set primary keys, make sure that the column or columns you pick to be primary key columns contain unique values (or value sets) for each row.
 
 
 ## Refreshing Linked Data Programmatically
@@ -314,19 +314,19 @@ Calling this method executes the query string associated with the data recordset
 
 If calling  **Refresh** results in conflicts, Visio displays the **Refresh Conflicts** task pane in the UI, unless you set the **RefreshSettings** property to include the **visRefreshNoReconciliationUI** enumerated value.
 
-Before you refresh linked data, if you want to change the query Visio uses to retrieve the data to query a different table in the same database, set the  **[DataRecordset.CommandString](datarecordset-commandstring-property-visio.md)** property to a new value. To connect to an entirely new data source, set both the **DataRecordset.CommandString** and **[DataConnection.ConnectionString](dataconnection-connectionstring-property-visio.md)** property values.
+Before you refresh linked data, if you want to change the query Visio uses to retrieve the data to query a different table in the same database, set the  **[DataRecordset.CommandString](../../api/Visio.DataRecordset.CommandString.md)** property to a new value. To connect to an entirely new data source, set both the **DataRecordset.CommandString** and **[DataConnection.ConnectionString](../../api/Visio.DataConnection.ConnectionString.md)** property values.
 
-The  **[DataRecordset.GetLastDataError](datarecordsets-getlastdataerror-method-visio.md)** method gets the Active X Data Objects (ADO) error code, ADO description, and data recordset ID associated with the most recent error that resulted from adding a new data recordset or refreshing the data in an existing one.
+The  **[DataRecordset.GetLastDataError](../../api/Visio.DataRecordsets.GetLastDataError.md)** method gets the Active X Data Objects (ADO) error code, ADO description, and data recordset ID associated with the most recent error that resulted from adding a new data recordset or refreshing the data in an existing one.
 
 
 ## Identifying and Resolving Conflicts
 
-When you or Visio refreshes data and a resulting conflict occurs, you can use the  **[DataRecordset.GetAllRefreshConflicts](datarecordset-getallrefreshconflicts-method-visio.md)** and **[DataRecordset.GetMatchingRowsForRefreshConflict](datarecordset-getmatchingrowsforrefreshconflict-method-visio.md)** methods to determine why the conflict arose. The **GetAllRefreshConflicts** method returns an array of shapes for which a conflict exists between data in the shape and data in the data-recordset row to which the shape is linked. To determine which data-recordset rows produced the conflict, you can then pass each of these shapes to the **GetMatchingRowsForRefreshConflict** method, which returns an array of rows that are in conflict.
+When you or Visio refreshes data and a resulting conflict occurs, you can use the  **[DataRecordset.GetAllRefreshConflicts](../../api/Visio.DataRecordset.GetAllRefreshConflicts.md)** and **[DataRecordset.GetMatchingRowsForRefreshConflict](../../api/Visio.DataRecordset.GetMatchingRowsForRefreshConflict.md)** methods to determine why the conflict arose. The **GetAllRefreshConflicts** method returns an array of shapes for which a conflict exists between data in the shape and data in the data-recordset row to which the shape is linked. To determine which data-recordset rows produced the conflict, you can then pass each of these shapes to the **GetMatchingRowsForRefreshConflict** method, which returns an array of rows that are in conflict.
 
 Rows in the data recordset can conflict when two or more of them have identical primary keys, and may link to the same shape. When this occurs,  **GetMatchingRowsForRefreshConflict** returns an array containing at least two row IDs.
 
 Conflicts can also occur when a previously data-linked row from the data recordset is removed. When this occurs, the method returns an empty array.
 
-To remove the conflict, pass the shape to the  **[DataRecordset.RemoveRefreshConflict](datarecordset-removerefreshconflict-method-visio.md)** method, which removes the conflicting information from the current document.
+To remove the conflict, pass the shape to the  **[DataRecordset.RemoveRefreshConflict](../../api/Visio.DataRecordset.RemoveRefreshConflict.md)** method, which removes the conflicting information from the current document.
 
 

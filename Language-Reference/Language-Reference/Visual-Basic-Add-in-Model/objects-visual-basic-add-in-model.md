@@ -19,7 +19,7 @@ ms.date: 06/08/2017
     
 - [CommandBar Object](../User-Interface-Help/commandbar-object.md)
     
-- [CommandBarEvents Object (VBA Add-In Object Model)](commandbar../User-Interface-Help/events-object-vba-add-in-object-model.md)
+- [CommandBarEvents Object (VBA Add-In Object Model)](../User-Interface-Help/events-object-vba-add-in-object-model.md)
     
 - [Events Object (VBA Add-In Object Model)](../User-Interface-Help/events-object-vba-add-in-object-model.md)
     
@@ -27,7 +27,7 @@ ms.date: 06/08/2017
     
 - [Reference Object (VBA Add-In Object Model)](../User-Interface-Help/reference-object-vba-add-in-object-model.md)
     
-- [ReferencesEvents Object (VBA Add-In Object Model)](../User-Interface-Help/references../User-Interface-Help/events-object-vba-add-in-object-model.md)
+- [ReferencesEvents Object (VBA Add-In Object Model)](../User-Interface-Help/events-object-vba-add-in-object-model.md)
     
 - [VBComponent Object (VBA Add-In Object Model)](../User-Interface-Help/vbcomponent-object-vba-add-in-object-model.md)
     

@@ -57,7 +57,7 @@ End Sub
 ## See also
 
 
- [SparklineGroup Object](sparklinegroup-object-excel.md)
+ [SparklineGroup Object](../../../api/Excel.SparklineGroup.md)
 #### Other resources
 
 

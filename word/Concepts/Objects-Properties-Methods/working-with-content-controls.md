@@ -32,8 +32,8 @@ The following table shows the objects in the Word object model that relate to co
 
 |**Name**|**Description**|
 |:-----|:-----|
-| **[ContentControl](contentcontrol-object-word.md)**|Each  **ContentControl** object represents an individual content control within a document. Use the **ContentControls** collection to access individual **ContentControl** objects.|
-| **[ContentControls](../../../api/Word.ContentControls.md)**|You can use the  **ContentControls** properties of the **[Document](document-object-word.md)**,  **[Range](../Working-with-Word/range-object-word.md)**, and  **[Selection](../../../api/Word.Selection.md)** objects to access the collection of content controls. You can also use the **[SelectContentControlsByTitle](../../../api/Word.Document.SelectContentControlsByTitle.md)** method and the **[SelectContentControlsByTag](../../../api/Word.Document.SelectContentControlsByTag.md)** method of the **Document** object to access a **ContentControls** collection that includes specific content controls that all have the same title or tag value.|
+| **[ContentControl](../../../api/Word.ContentControl.md)**|Each  **ContentControl** object represents an individual content control within a document. Use the **ContentControls** collection to access individual **ContentControl** objects.|
+| **[ContentControls](../../../api/Word.ContentControls.md)**|You can use the  **ContentControls** properties of the **[Document](../../../api/Word.Document.md)**,  **[Range](../../../api/Word.Range.md)**, and  **[Selection](../../../api/Word.Selection.md)** objects to access the collection of content controls. You can also use the **[SelectContentControlsByTitle](../../../api/Word.Document.SelectContentControlsByTitle.md)** method and the **[SelectContentControlsByTag](../../../api/Word.Document.SelectContentControlsByTag.md)** method of the **Document** object to access a **ContentControls** collection that includes specific content controls that all have the same title or tag value.|
 | **[ContentControlListEntry](../../../api/Word.ContentControlListEntry.md)**|When a content control is a drop-down list or combo box, the  **ContentControlListEntry** object represents individual items within the list.|
 | **[ContentControlListEntries](../../../api/Word.ContentControlListEntries.md)**|Use the  **[DropdownListEntries](../../../api/Word.ContentControl.DropdownListEntries.md)** property of the **ContentControl** object to access all the items in an individual drop-down list or combo box.|
 Each of these objects or collections has methods and properties that allow you to work with the content controls both individually and as a collection. Because there are various types of content controls (see the following section "Types of Content Controls"), the  **ContentControl** object has members that might not apply to all the different types of content controls. The following table shows those properties and methods of the **ContentControl** object that only apply to certain types of content controls.
@@ -56,7 +56,7 @@ Each of these objects or collections has methods and properties that allow you t
 
 ## Types of Content Controls
 
-There are eight different types of content controls that you can add to a document, each of which is represented in a new enumeration called **[WdContentControlType](wdcontentcontroltype-enumeration-word.md)**.
+There are eight different types of content controls that you can add to a document, each of which is represented in a new enumeration called **[WdContentControlType](../../../api/Word.WdContentControlType.md)**.
 
 
 

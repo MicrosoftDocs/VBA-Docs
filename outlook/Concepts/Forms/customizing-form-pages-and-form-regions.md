@@ -31,6 +31,6 @@ This topic compares customizing forms on form pages with customizing forms on fo
 | **Deployment**|The administrator registers and installs the custom form. If an add-in exists for the form, the administrator installs it separately from the form.|An administrator installs the add-in. In turn, the add-in installs files for the form regions and registers the form regions for the custom form.|
 | **Display of customization in runtime**|Customization is only displayed in the inspector.|Customization is displayed in the inspector and the Reading Pane.|
 | **Support for localized user interface**|No|Supports localized strings for form region names, control names, and user actions based on locale.|
-| **Sharing between solutions**| Each custom form can only be customized by one add-in (except through the **[ModifiedFormPages](../../../api/Outlook.Inspector.ModifiedFormPages.md)** property of the **[Inspector](inspector-object-outlook.md)** object).|Except for the message class IPM, a form for any message class can be customized by more than one add-in. |
+| **Sharing between solutions**| Each custom form can only be customized by one add-in (except through the **[ModifiedFormPages](../../../api/Outlook.Inspector.ModifiedFormPages.md)** property of the **[Inspector](../../../api/Outlook.Inspector.md)** object).|Except for the message class IPM, a form for any message class can be customized by more than one add-in. |
 
 

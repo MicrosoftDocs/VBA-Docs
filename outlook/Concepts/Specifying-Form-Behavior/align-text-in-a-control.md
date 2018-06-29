@@ -21,6 +21,6 @@ This procedure is available only for the  [ComboBox](../../../api/Outlook.combob
     
   -  [TextAlign](../../../api/Outlook.label.textalign.md) property for the [Label](../../../api/Outlook.label.md) control.
     
-  -  [TextAlign](textbox-textalign-property-outlook-forms-script.md) property for the [TextBox](../../../api/Outlook.textbox.md) control.
+  -  [TextAlign](../../../api/Outlook.textbox.textalign.md) property for the [TextBox](../../../api/Outlook.textbox.md) control.
     
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Working with the Selection Object
 
-When you work on a document in Word, you usually select text and then perform an action, such as formatting the text or typing text. In Visual Basic, it is usually not necessary to select text before modifying the text. Instead, you create a  **[Range](../Working-with-Word/range-object-word.md)** object that refers to a specific portion of the document. For information about defining **Range** objects, see [Working with Range objects](working-with-range-objects.md). However, when you want your code to respond to or change a selection, you can do so by using the  **[Selection](../../../api/Word.Selection.md)** object.
+When you work on a document in Word, you usually select text and then perform an action, such as formatting the text or typing text. In Visual Basic, it is usually not necessary to select text before modifying the text. Instead, you create a  **[Range](../../../api/Word.Range.md)** object that refers to a specific portion of the document. For information about defining **Range** objects, see [Working with Range objects](working-with-range-objects.md). However, when you want your code to respond to or change a selection, you can do so by using the  **[Selection](../../../api/Word.Selection.md)** object.
 
 If text is not already selected, use the  **Select** method to select the text that is associated with a specific object and create a **Selection** object. For example, the following instruction selects the first word in the active document.
 

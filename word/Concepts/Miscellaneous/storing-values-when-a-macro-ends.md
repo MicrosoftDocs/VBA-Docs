@@ -83,7 +83,7 @@ Use the  **[Value](../../../api/Word.AutoTextEntry.Value.md)** property with an 
 
 ## Settings files
 
-You can set and retrieve information from a settings file using the  **[PrivateProfileString](system-privateprofilestring-property-word.md)** property of the  **[System](system-object-word.md)** object. The structure of a Windows settings file is the same as the Windows 3.1 WIN.INI file. The following example sets the DocNum key to 1 under the DocTracker section in the Macro.ini file.
+You can set and retrieve information from a settings file using the  **[PrivateProfileString](../../../api/Word.System.PrivateProfileString.md)** property of the  **[System](../../../api/Word.System.md)** object. The structure of a Windows settings file is the same as the Windows 3.1 WIN.INI file. The following example sets the DocNum key to 1 under the DocTracker section in the Macro.ini file.
 
 
 ```vb

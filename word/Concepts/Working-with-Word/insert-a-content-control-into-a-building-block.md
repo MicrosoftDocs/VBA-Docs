@@ -14,11 +14,11 @@ The objects used in this sample are:
 
 -  **[Template](../../../api/Word.Template.md)**
     
--  **[BuildingBlock](../Objects-Properties-Methods/buildingblock-object-word.md)**
+-  **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
     
--  **[Range](range-object-word.md)**
+-  **[Range](../../../api/Word.Range.md)**
     
--  **[ContentControl](../Objects-Properties-Methods/contentcontrol-object-word.md)**
+-  **[ContentControl](../../../api/Word.ContentControl.md)**
     
 The following code inserts a content control into the active document, and then adds the content control to the collection of building blocks in the template attached to the active document.
 

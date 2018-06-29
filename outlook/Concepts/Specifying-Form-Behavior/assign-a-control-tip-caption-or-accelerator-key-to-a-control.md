@@ -47,13 +47,13 @@ For more information about the property to set for a specific control, see the f
     
 - The  **[Accelerator](../../../api/Outlook.label.accelerator.md)** property for the **[Label](../../../api/Outlook.label.md)** control.
     
-- The  **[Accelerator](optionbutton-accelerator-property-outlook-forms-script.md)** property for the **[OptionButton](../../../api/Outlook.optionbutton.md)** control.
+- The  **[Accelerator](../../../api/Outlook.optionbutton.accelerator.md)** property for the **[OptionButton](../../../api/Outlook.optionbutton.md)** control.
     
-- The  **[Accelerator](page-accelerator-property-outlook-forms-script.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
+- The  **[Accelerator](../../../api/Outlook.page.accelerator.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
-- The  **[Accelerator](tab-accelerator-property-outlook-forms-script.md)** property for the **[Tab](../../../api/Outlook.tab.md)** control.
+- The  **[Accelerator](../../../api/Outlook.tab.accelerator.md)** property for the **[Tab](../../../api/Outlook.tab.md)** control.
     
-- The  **[Accelerator](togglebutton-accelerator-property-outlook-forms-script.md)** property for the **[ToggleButton](../../../api/Outlook.togglebutton.md)** control.
+- The  **[Accelerator](../../../api/Outlook.togglebutton.accelerator.md)** property for the **[ToggleButton](../../../api/Outlook.togglebutton.md)** control.
     
 For more information, see  [How to: Assign a Control Tip, Caption, or Accelerator Key to a Page or Tab](assign-a-control-tip-caption-or-accelerator-key-to-a-page-or-tab.md).
 

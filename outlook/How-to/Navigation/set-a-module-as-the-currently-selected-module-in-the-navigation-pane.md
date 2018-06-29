@@ -20,7 +20,7 @@ The following sample sets the  **Calendar** navigation module as the currently s
     
 4. If the  **NavigationModuleType** property of the currently selected **Module** object is set to **olModuleJournal**, the sample then displays a dialog box to indicate to the user that the currently selected  **Journal** navigation module is temporarily unavailable, and that instead the **Calendar** navigation module will be selected.
     
-5. Finally, the sample uses the  **[GetNavigationModule](../../../api/Outlook.NavigationModules.GetNavigationModule.md)** method of the **Modules** collection for the **NavigationPane** object to attempt to retrieve a **[CalendarModule](calendarmodule-object-outlook.md)** object. If successful, the **CurrentModule** property of the **NavigationPane** object is set to the retrieved **CalendarModule** object reference.
+5. Finally, the sample uses the  **[GetNavigationModule](../../../api/Outlook.NavigationModules.GetNavigationModule.md)** method of the **Modules** collection for the **NavigationPane** object to attempt to retrieve a **[CalendarModule](../../../api/Outlook.CalendarModule.md)** object. If successful, the **CurrentModule** property of the **NavigationPane** object is set to the retrieved **CalendarModule** object reference.
     
 
 

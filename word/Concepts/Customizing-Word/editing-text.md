@@ -103,7 +103,7 @@ Use the  **SetRange**method to redefine an existing  **Selection** object or **R
 
 ## Changing text
 
-You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the  **[Text](range-text-property-word.md)** property of a  **Range** object to "The ".
+You can change existing text by changing the contents of a range. The following instruction changes the first word in the active document by setting the  **[Text](../../../api/Word.Range.Text.md)** property of a  **Range** object to "The ".
 
 
 ```vb

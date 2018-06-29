@@ -158,7 +158,7 @@ Sub CreateSaveNewDocument()
 End Sub
 ```
 
-The  **Documents** property returns the **Documents** collection. The **[Add](documents-add-method-word.md)** method creates a new document and returns a **Document** object. The **Save** method is then applied to the **Document** object.
+The  **Documents** property returns the **Documents** collection. The **[Add](../../../api/Word.Documents.Add.md)** method creates a new document and returns a **Document** object. The **Save** method is then applied to the **Document** object.
 
 As you can see, you use methods or properties to drill down to an object. That is, you return an object by applying a method or property to an object above it in the object hierarchy. After you return the object that you want, you can apply the methods and control the properties of that object.
 

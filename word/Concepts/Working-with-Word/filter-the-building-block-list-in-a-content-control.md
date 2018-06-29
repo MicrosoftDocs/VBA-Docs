@@ -15,9 +15,9 @@ You can filter the list of building blocks for a content control when you create
 
 
 
--  **[BuildingBlock](../Objects-Properties-Methods/buildingblock-object-word.md)**
+-  **[BuildingBlock](../../../api/Word.BuildingBlock.md)**
     
--  **[ContentControl](../Objects-Properties-Methods/contentcontrol-object-word.md)**
+-  **[ContentControl](../../../api/Word.ContentControl.md)**
     
 
 ## Sample 1

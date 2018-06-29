@@ -30,7 +30,7 @@ The sample performs the following actions:
     
 7. Finally, the sample then configures the navigation folder:
     
-      - The sample sets the  **[IsSelected](navigationfolder-isselected-property-outlook.md)** property to **True** to display it in the active explorer.
+      - The sample sets the  **[IsSelected](../../../api/Outlook.NavigationFolder.IsSelected.md)** property to **True** to display it in the active explorer.
     
   - The sample then sets the  **IsSideBySide** property to **False** to display it by default in overlay mode.
     

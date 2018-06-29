@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Returning Text from a Document
 
-Use the  **Text**property to return text from a  **[Range](../Working-with-Word/range-object-word.md)** object or **[Selection](../../../api/Word.Selection.md)** object. The following example selects the next paragraph formatted with the Heading 1 style. The contents of the **Text** property are displayed by the **MsgBox** function.
+Use the  **Text**property to return text from a  **[Range](../../../api/Word.Range.md)** object or **[Selection](../../../api/Word.Selection.md)** object. The following example selects the next paragraph formatted with the Heading 1 style. The contents of the **Text** property are displayed by the **MsgBox** function.
 
 
 ```vb

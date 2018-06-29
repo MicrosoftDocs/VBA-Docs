@@ -15,11 +15,11 @@ ms.date: 06/08/2017
     
 - [ActiveVBProject Property (VBA Add-In Object Model)](../User-Interface-Help/activevbproject-property-vba-add-in-object-model.md)
     
-- [ActiveWindow Property (VBA Add-In Object Model)](active../User-Interface-Help/window-property-vba-add-in-object-model.md)
+- [ActiveWindow Property (VBA Add-In Object Model)](../User-Interface-Help/window-property-vba-add-in-object-model.md)
     
 - [AddIns Property](../User-Interface-Help/addins-property.md)
     
-- [BuildFileName Property](build../User-Interface-Help/filename-property.md)
+- [BuildFileName Property](../User-Interface-Help/filename-property.md)
     
 - [BuiltIn Property (VBA Add-In Object Model)](../User-Interface-Help/builtin-property-vba-add-in-object-model.md)
     
@@ -63,7 +63,7 @@ ms.date: 06/08/2017
     
 - [GUID Property (VBA Add-In Object Model)](../User-Interface-Help/guid-property-vba-add-in-object-model.md)
     
-- [HasOpenDesigner Property (VBA Add-In Object Model)](../User-Interface-Help/hasopen../User-Interface-Help/designer-property-vba-add-in-object-model.md)
+- [HasOpenDesigner Property (VBA Add-In Object Model)](../User-Interface-Help/designer-property-vba-add-in-object-model.md)
     
 - [Height Property (VBA Add-In Object Model)](../User-Interface-Help/height-property-vba-add-in-object-model.md)
     
@@ -71,7 +71,7 @@ ms.date: 06/08/2017
     
 - [HelpFile Property (VBA Add-In Object Model)](../User-Interface-Help/helpfile-property-vba-add-in-object-model.md)
     
-- [IndexedValue Property (VBA Add-In Object Model)](indexed../User-Interface-Help/value-property-vba-add-in-object-model.md)
+- [IndexedValue Property (VBA Add-In Object Model)](../User-Interface-Help/value-property-vba-add-in-object-model.md)
     
 - [IsBroken Property (VBA Add-In Object Model)](../User-Interface-Help/isbroken-property-vba-add-in-object-model.md)
     
@@ -81,9 +81,9 @@ ms.date: 06/08/2017
     
 - [LinkedWindowFrame Property (VBA Add-In Object Model)](../User-Interface-Help/linkedwindowframe-property-vba-add-in-object-model.md)
     
-- [LinkedWindows Property](linked../User-Interface-Help/windows-property.md)
+- [LinkedWindows Property](../User-Interface-Help/windows-property.md)
     
-- [MainWindow Property (VBA Add-In Object Model)](main../User-Interface-Help/window-property-vba-add-in-object-model.md)
+- [MainWindow Property (VBA Add-In Object Model)](../User-Interface-Help/window-property-vba-add-in-object-model.md)
     
 - [Major Property (VBA Add-In Object Model)](../User-Interface-Help/major-property-vba-add-in-object-model.md)
     
@@ -101,7 +101,7 @@ ms.date: 06/08/2017
     
 - [ProcBodyLine Property](../User-Interface-Help/procbodyline-property.md)
     
-- [ProcCountLines Property](../User-Interface-Help/proccount../User-Interface-Help/lines-property.md)
+- [ProcCountLines Property](../User-Interface-Help/lines-property.md)
     
 - [ProcOfLine Property](../User-Interface-Help/procofline-property.md)
     

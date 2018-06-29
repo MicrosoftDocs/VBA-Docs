@@ -55,7 +55,7 @@ Sub MyMacro()
 End Sub
 ```
 
-The  **[Exists](../../../api/Word.Bookmarks.Exists.md)** method is used to check for the existence of the bookmark named Temp. If the bookmark is found, the bookmark's ending character position is returned by using the **[End](../../../api/Word.Bookmark.End.md)** property. Finally, the **[Range](../../../api/Word.Document.Range.md)** method of the **Document** object is used to return a **[Range](../Working-with-Word/range-object-word.md)** object that refers to the bookmark's ending position, so that text can be inserted using the **[InsertAfter](../../../api/Word.Range.InsertAfter.md)** method of the **Range** object. For more information about defining **Range** objects, see [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
+The  **[Exists](../../../api/Word.Bookmarks.Exists.md)** method is used to check for the existence of the bookmark named Temp. If the bookmark is found, the bookmark's ending character position is returned by using the **[End](../../../api/Word.Bookmark.End.md)** property. Finally, the **[Range](../../../api/Word.Document.Range.md)** method of the **Document** object is used to return a **[Range](../../../api/Word.Range.md)** object that refers to the bookmark's ending position, so that text can be inserted using the **[InsertAfter](../../../api/Word.Range.InsertAfter.md)** method of the **Range** object. For more information about defining **Range** objects, see [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
 
 
 ## Using With…End With

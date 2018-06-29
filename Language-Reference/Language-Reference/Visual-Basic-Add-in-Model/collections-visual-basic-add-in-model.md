@@ -17,7 +17,7 @@ ms.date: 06/08/2017
     
 - [CommandBars Collection (VBA Add-In Object Model)](../User-Interface-Help/commandbars-collection-vba-add-in-object-model.md)
     
-- [LinkedWindows Collection (VBA Add-In Object Model)](linked../User-Interface-Help/windows-collection-vba-add-in-object-model.md)
+- [LinkedWindows Collection (VBA Add-In Object Model)](../User-Interface-Help/windows-collection-vba-add-in-object-model.md)
     
 - [Properties Collection (VBA Add-In Object Model)](../User-Interface-Help/properties-collection-vba-add-in-object-model.md)
     

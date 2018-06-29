@@ -21,7 +21,7 @@ You can also delete a single node by calling the  **Delete** method of the **Cus
 For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
 The objects used in these samples are:
 
--  **[ContentControl](../Objects-Properties-Methods/contentcontrol-object-word.md)**
+-  **[ContentControl](../../../api/Word.ContentControl.md)**
     
 -  **[ContentControls](../../../api/Word.ContentControls.md)**
     

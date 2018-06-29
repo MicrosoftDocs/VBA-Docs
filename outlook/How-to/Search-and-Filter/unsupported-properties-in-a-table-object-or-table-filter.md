@@ -155,9 +155,9 @@ If you attempt to use one of the computed properties listed below in a Jet filte
     
 -  **[RecurrenceState](../../../api/Outlook.AppointmentItem.RecurrenceState.md)**
     
--  **[ReceivedByEntryID](mailitem-receivedbyentryid-property-outlook.md)**
+-  **[ReceivedByEntryID](../../../api/Outlook.MailItem.ReceivedByEntryID.md)**
     
--  **[ReceivedOnBehalfOfEntryID](mailitem-receivedonbehalfofentryid-property-outlook.md)**
+-  **[ReceivedOnBehalfOfEntryID](../../../api/Outlook.MailItem.ReceivedOnBehalfOfEntryID.md)**
     
 -  **ReplyRecipients**
     

@@ -370,7 +370,7 @@ The following list contains topics that describe common functions used in Access
 
 [Format Function](../../../Language-Reference/Language-Reference/User-Interface-Help/format-function-visual-basic-for-applications.md)
 
-[HtmlEncode Method](application-htmlencode-method-access.md)
+[HtmlEncode Method](../../../api/Access.Application.HtmlEncode.md)
 
 [InStr Function](../../../Language-Reference/Language-Reference/User-Interface-Help/instr-function.md)
 
@@ -386,7 +386,7 @@ The following list contains topics that describe common functions used in Access
 
 [Mid Function](../../../Language-Reference/Language-Reference/User-Interface-Help/mid-function.md)
 
-[PlainText Method](application-plaintext-method-access.md)
+[PlainText Method](../../../api/Access.Application.PlainText.md)
 
 [Replace Function](../../../Language-Reference/Language-Reference/User-Interface-Help/replace-function.md)
 

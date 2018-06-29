@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This topic describes the entry points to search items in folders and access to search results.
 
-||[Application.AdvancedSearch](application-advancedsearch-method-outlook.md)|[Explorer.Search](explorer-search-method-outlook.md)|[Search.GetTable](search-gettable-method-outlook.md)|
+||[Application.AdvancedSearch](../../../api/Outlook.Application.AdvancedSearch.md)|[Explorer.Search](../../../api/Outlook.Explorer.Search.md)|[Search.GetTable](../../../api/Outlook.Search.GetTable.md)|
 |:-----|:-----|:-----|:-----|
 |**Purpose**|Provides programmatic search on items in a specified folder based on a filter.|Performs a programmatic content indexer search that is analogous to a user executing a search from the Outlook user interface.|Provides an efficient way to access items (in a **[Table](../../../api/Outlook.Table.md)**) returned by a prior **Application.AdvancedSearch**. This entry point does not carry out a separate search.|
 |**Scope of search**|Folder specified as a search parameter.|Determined by the parameter _SearchAllItems_. If _SearchAllItems_ is True, the method will search across all folders that have the same folder type as the current folder (specified by the **[DefaultItemType](../../../api/Outlook.Folder.DefaultItemType.md)** property of **[Explorer.CurrentFolder](../../../api/Outlook.Explorer.CurrentFolder.md)**) and all stores that have been selected for search in the Search Options dialog box. <br/><br/>If _SearchAllItems_ is False, the method will search only the folder represented by **Explorer.CurrentFolder**.|Because the **[Search](../../../api/Outlook.Search.md)** object is returned from a prior **Application.AdvancedSearch** operation, the scope of the search associated with **Search.GetTable** is that of the prior **Application.AdvancedSearch**.|
@@ -25,7 +25,7 @@ Access the search results by one of these means:
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 <li><p><b><a href="search-results-property-outlook.md">Search.Results</a></b> contains the search results as a <b><a href="results-object-outlook.md">Results</a></b> collection. Each item in the collection contains the full set of item properties.</p></li>
 <li><p><b>Search</b>. <b>Save</b> saves the results to a search folder.</p></li>
-<li><p><b><a href="search-gettable-method-outlook.md">Search.GetTable</a></b> also returns the same set of items as in the <b>Results</b> collection, but each item  will contain only a default set of properties and therefore generally offers better performance.</p></li>
+<li><p><b><a href="../../../api/Outlook.Search.GetTable.md">Search.GetTable</a></b> also returns the same set of items as in the <b>Results</b> collection, but each item  will contain only a default set of properties and therefore generally offers better performance.</p></li>
 </ul> 
 
 Search results are displayed in Explorer for the current folder. To remove any search results in Explorer, call **[Explorer.ClearSearch](../../../api/Outlook.Explorer.ClearSearch.md)**. 

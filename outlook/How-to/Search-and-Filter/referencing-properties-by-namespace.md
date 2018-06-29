@@ -19,7 +19,7 @@ The following table summarizes the namespaces and the Outlook objects that the n
 
 | **Namespaces**| **Supported Outlook Objects**|
 |:-----|:-----|
-|http://schemas.microsoft.com/mapi/proptag| [Outlook item objects](../Items-Folders-and-Stores/outlook-item-objects.md),  **[AddressEntry](../../../api/Outlook.AddressEntry.md)**,  **[AddressList](../../Concepts/Address-Book/addresslist-object-outlook.md)**,  **[Attachment](../../../api/Outlook.Attachment.md)**,  **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**,  **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**,  **[Folder](../../../api/Outlook.Folder.md)**,  **[Recipient](../../../api/Outlook.Recipient.md)**, and  **[Store](../../../api/Outlook.Store.md)** objects.|
+|http://schemas.microsoft.com/mapi/proptag| [Outlook item objects](../Items-Folders-and-Stores/outlook-item-objects.md),  **[AddressEntry](../../../api/Outlook.AddressEntry.md)**,  **[AddressList](../../../api/Outlook.AddressList.md)**,  **[Attachment](../../../api/Outlook.Attachment.md)**,  **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**,  **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**,  **[Folder](../../../api/Outlook.Folder.md)**,  **[Recipient](../../../api/Outlook.Recipient.md)**, and  **[Store](../../../api/Outlook.Store.md)** objects.|
 |http://schemas.microsoft.com/mapi/id| (Same as above)|
 |http://schemas.microsoft.com/mapi/string|(Same as above)|
 |http://schemas.microsoft.com/exchange|(Same as above)|
@@ -114,7 +114,7 @@ property-name = 1*CHAR
 |Single quote|%27|
 |Percent character|%25|
 
-    The following is an example of how you specify and get the value of a named property,  **Mom's "Gift"**, defined in the MAPI string namespace, by using the  ** [PropertyAccessor.GetProperty](../Navigation/propertyaccessor-getproperty-method-outlook.md)** method:
+    The following is an example of how you specify and get the value of a named property,  **Mom's "Gift"**, defined in the MAPI string namespace, by using the  ** [PropertyAccessor.GetProperty](../../../api/Outlook.PropertyAccessor.GetProperty.md)** method:
     
 
 
@@ -143,7 +143,7 @@ The  **PropertyAccessor** object supports two Office subnamespaces:
 
 - Office namespace 
     
-    This namespace is used to access properties of the  **[DocumentItem](../Navigation/documentitem-object-outlook.md)** object. The following is the format to reference a property in this namespace:
+    This namespace is used to access properties of the  **[DocumentItem](../../../api/Outlook.DocumentItem.md)** object. The following is the format to reference a property in this namespace:
     
      **urn:schemas-microsoft-com:office:office# _name_**
     

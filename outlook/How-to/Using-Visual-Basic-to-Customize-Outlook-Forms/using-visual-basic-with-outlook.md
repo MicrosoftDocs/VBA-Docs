@@ -48,6 +48,6 @@ olMAPI.GetDefaultFolder(olFolderTasks).Display
 
 or use the  **Application** object that is passed to the **OnConnection** event of the add-in.
 
- **Note**  The  **Application** object returned from calling the **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](security-behavior-of-the-outlook-object-model.md).
+ **Note**  The  **Application** object returned from calling the **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](../Security/security-behavior-of-the-outlook-object-model.md).
 
 

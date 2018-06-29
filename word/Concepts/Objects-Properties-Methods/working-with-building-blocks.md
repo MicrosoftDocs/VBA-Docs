@@ -15,17 +15,17 @@ The building blocks object model includes three new objects and four new collect
 
 |**Name**|**Description**|
 |:-----|:-----|
-| **[BuildingBlock](buildingblock-object-word.md)**|A specific building block entry.|
+| **[BuildingBlock](../../../api/Word.BuildingBlock.md)**|A specific building block entry.|
 | **[BuildingBlocks](../../../api/Word.BuildingBlocks.md)**|A collection of building block entries in a template that are of the same type and category.|
 | **[BuildingBlockEntries](../../../api/Word.BuildingBlockEntries.md)**|A collection of all the building blocks in a template.|
-| **[BuildingBlockType](buildingblocktype-object-word.md)**|A building block type. |
+| **[BuildingBlockType](../../../api/Word.BuildingBlockType.md)**|A building block type. |
 | **[BuildingBlockTypes](../../../api/Word.BuildingBlockTypes.md)**|A collection of building block types.|
-| **[Category](category-object-word.md)**|A building block category.|
-| **[Categories](categories-object-word.md)**|A collection of building block categories.|
+| **[Category](../../../api/Word.Category.md)**|A building block category.|
+| **[Categories](../../../api/Word.Categories.md)**|A collection of building block categories.|
 
 ## Understanding Building Blocks
 
-Building blocks are organized by type and category. Building block types are composed of a limited number of  **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** constants. Although there are a limited number of these constants, that number is not small. There are 35 different **WdBuildingBlockTypes** constants. These types help you to define and organize your building blocks and, although you cannot create additional building block types, you can create an unlimited number of categories for each type.
+Building blocks are organized by type and category. Building block types are composed of a limited number of  **[WdBuildingBlockTypes](../../../api/Word.WdBuildingBlockTypes.md)** constants. Although there are a limited number of these constants, that number is not small. There are 35 different **WdBuildingBlockTypes** constants. These types help you to define and organize your building blocks and, although you cannot create additional building block types, you can create an unlimited number of categories for each type.
 
 Categories are composed of an unlimited number of strings that you can define to organize your custom building blocks. Building blocks are stored in templates. By default, the templates that are included with Word have building block categories like "General" and "Built-In". However, you are not limited to just the categories that are included in these templates. A category can be any string that you define. Types and categories are explained later in this topic.
 

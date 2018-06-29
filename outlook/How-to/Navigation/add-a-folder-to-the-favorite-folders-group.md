@@ -25,7 +25,7 @@ The sample performs the following actions:
     
 3. The sample then obtains a reference to the  **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object for the active explorer and uses the **[GetNavigationModule](../../../api/Outlook.NavigationModules.GetNavigationModule.md)** method of the **[NavigationModules](../../../api/Outlook.NavigationModules.md)** collection to obtain a **[MailModule](../../../api/Outlook.MailModule.md)** object reference.
     
-4. It then uses the  **[GetDefaultNavigationGroup](../../../api/Outlook.NavigationGroups.GetDefaultNavigationGroup.md)** method of the **[NavigationGroups](navigationgroups-object-outlook.md)** collection for the **MailModule** to obtains a **NavigationGroup** object reference to the **Favorite Folders** navigation group.
+4. It then uses the  **[GetDefaultNavigationGroup](../../../api/Outlook.NavigationGroups.GetDefaultNavigationGroup.md)** method of the **[NavigationGroups](../../../api/Outlook.NavigationGroups.md)** collection for the **MailModule** to obtains a **NavigationGroup** object reference to the **Favorite Folders** navigation group.
     
 5. Finally, the sample adds a new  **NavigationFolder** object, based on the **Folder** object created earlier by the sample, to the navigation group by using the **Add** method of the **NavigationGroups** collection for that navigation group.
     

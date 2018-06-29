@@ -108,7 +108,7 @@ End Sub
     
     XML mapping is a feature of Word that enables you to create a link between a document and an XML file. This creates true data/view separation between the document formatting and the custom XML data. 
 
-    To load a custom XML part, you must first add a new data store to a  **[Document](document-object-word.md)** object by using the ** [Add](../../../api/Office.CustomXMLParts.Add.md)** method of the **CustomXMLParts** collection. This appends a new, empty data store to the document. Because it is empty, you cannot use it yet. Next, you must load a custom XML part from an XML file into the data store, by calling the ** [Load](../../../api/Office.CustomXMLPart.Load.md)** method of the **CustomXMLPart** object that uses a valid path to an XML file as the parameter.
+    To load a custom XML part, you must first add a new data store to a  **[Document](../../../api/Word.Document.md)** object by using the ** [Add](../../../api/Office.CustomXMLParts.Add.md)** method of the **CustomXMLParts** collection. This appends a new, empty data store to the document. Because it is empty, you cannot use it yet. Next, you must load a custom XML part from an XML file into the data store, by calling the ** [Load](../../../api/Office.CustomXMLPart.Load.md)** method of the **CustomXMLPart** object that uses a valid path to an XML file as the parameter.
 
     
 4. Save the document, naming it CustomerLetterGenerator.docm.

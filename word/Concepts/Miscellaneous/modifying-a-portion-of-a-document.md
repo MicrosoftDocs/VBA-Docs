@@ -87,7 +87,7 @@ Sub SetRangeForFirstTenCharacters()
 End Sub
 ```
 
-Using the  **[Start](range-start-property-word.md)** and **[End](range-end-property-word.md)** properties with a **Range** object, you can create a new **Range** object that refers to a group of document elements. For example, the following instruction creates a **Range** object ( `rngThreeWords`) that refers to the first three words in the active document.
+Using the  **[Start](../../../api/Word.Range.Start.md)** and **[End](../../../api/Word.Range.End.md)** properties with a **Range** object, you can create a new **Range** object that refers to a group of document elements. For example, the following instruction creates a **Range** object ( `rngThreeWords`) that refers to the first three words in the active document.
 
 
 

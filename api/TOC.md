@@ -4106,7 +4106,7 @@
 ##### Properties
 ###### [Count](Excel.AllowEditRanges.Count.md)
 ###### [Item](Excel.AllowEditRanges.Item.md)
-#### [Application Object](Excel.Application(objec).md)
+#### [Application Object](Excel.Application.md)
 ##### Events
 ###### [AfterCalculate](Excel.Application.AfterCalculate.md)
 ###### [NewWorkbook](Excel.Application.NewWorkbook(even).md)
@@ -4426,7 +4426,7 @@
 ###### [Creator](Excel.Areas.Creator.md)
 ###### [Item](Excel.Areas.Item.md)
 ###### [Parent](Excel.Areas.Parent.md)
-#### [AutoCorrect Object](Excel.AutoCorrect(objec).md)
+#### [AutoCorrect Object](Excel.AutoCorrect.md)
 ##### Methods
 ###### [AddReplacement](Excel.AutoCorrect.AddReplacement.md)
 ###### [DeleteReplacement](Excel.AutoCorrect.DeleteReplacement.md)
@@ -4471,7 +4471,7 @@
 ###### [Count](Excel.Axes.Count.md)
 ###### [Creator](Excel.Axes.Creator.md)
 ###### [Parent](Excel.Axes.Parent.md)
-#### [Axis Object](Excel.Axis(objec).md)
+#### [Axis Object](Excel.Axis.md)
 ##### Methods
 ###### [Delete](Excel.Axis.Delete.md)
 ###### [Select](Excel.Axis.Select.md)
@@ -4524,7 +4524,7 @@
 ###### [Top](Excel.Axis.Top.md)
 ###### [Type](Excel.Axis.Type.md)
 ###### [Width](Excel.Axis.Width.md)
-#### [AxisTitle Object](Excel.AxisTitle(objec).md)
+#### [AxisTitle Object](Excel.AxisTitle.md)
 ##### Methods
 ###### [Delete](Excel.AxisTitle.Delete.md)
 ###### [Select](Excel.AxisTitle.Select.md)
@@ -4552,7 +4552,7 @@
 ###### [Top](Excel.AxisTitle.Top.md)
 ###### [VerticalAlignment](Excel.AxisTitle.VerticalAlignment.md)
 ###### [Width](Excel.AxisTitle.Width.md)
-#### [Border Object](Excel.Border(objec).md)
+#### [Border Object](Excel.Border.md)
 ##### Properties
 ###### [Application](Excel.Border.Application.md)
 ###### [Color](Excel.Border.Color.md)
@@ -4799,7 +4799,7 @@
 ###### [Tab](Excel.Chart.Tab.md)
 ###### [Visible](Excel.Chart.Visible.md)
 ###### [Walls](Excel.Chart.Walls.md)
-#### [ChartArea Object](Excel.ChartArea(objec).md)
+#### [ChartArea Object](Excel.ChartArea.md)
 ##### Methods
 ###### [Clear](Excel.ChartArea.Clear.md)
 ###### [ClearContents](Excel.ChartArea.ClearContents.md)
@@ -4840,7 +4840,7 @@
 ###### [SoftEdge](Excel.ChartFormat.SoftEdge.md)
 ###### [TextFrame2](Excel.ChartFormat.TextFrame2.md)
 ###### [ThreeD](Excel.ChartFormat.ThreeD.md)
-#### [ChartGroup Object](Excel.ChartGroup(objec).md)
+#### [ChartGroup Object](Excel.ChartGroup.md)
 ##### Methods
 ###### [CategoryCollection](Excel.chartgroup.categorycollection.md)
 ###### [FullCategoryCollection](Excel.chartgroup.fullcategorycollection.md)
@@ -4965,7 +4965,7 @@
 ###### [Parent](Excel.Charts.Parent.md)
 ###### [Visible](Excel.Charts.Visible.md)
 ###### [VPageBreaks](Excel.Charts.VPageBreaks.md)
-#### [ChartTitle Object](Excel.ChartTitle(objec).md)
+#### [ChartTitle Object](Excel.ChartTitle.md)
 ##### Methods
 ###### [Delete](Excel.ChartTitle.Delete.md)
 ###### [Select](Excel.ChartTitle.Select.md)
@@ -5252,7 +5252,7 @@
 ###### [ShowValue](Excel.Databar.ShowValue.md)
 ###### [StopIfTrue](Excel.Databar.StopIfTrue.md)
 ###### [Type](Excel.Databar.Type.md)
-#### [DataBarBorder Object](Excel.databarBorder(objec).md)
+#### [DataBarBorder Object](Excel.databarBorder.md)
 ##### Properties
 ###### [Application](Excel.databarBorder.Application.md)
 ###### [Color](Excel.databarBorder.Color.md)
@@ -5281,7 +5281,7 @@
 ###### [ServerCredentialsMethod](Excel.datafeedconnection.servercredentialsmethod.md)
 ###### [SourceConnectionFile](Excel.datafeedconnection.sourceconnectionfile.md)
 ###### [SourceDataFile](Excel.datafeedconnection.sourcedatafile.md)
-#### [DataLabel Object](Excel.DataLabel(objec).md)
+#### [DataLabel Object](Excel.DataLabel.md)
 ##### Methods
 ###### [Delete](Excel.DataLabel.Delete.md)
 ###### [Select](Excel.DataLabel.Select.md)
@@ -5351,7 +5351,7 @@
 ###### [ShowSeriesName](Excel.DataLabels.ShowSeriesName.md)
 ###### [ShowValue](Excel.DataLabels.ShowValue.md)
 ###### [VerticalAlignment](Excel.DataLabels.VerticalAlignment.md)
-#### [DataTable Object](Excel.DataTable(objec).md)
+#### [DataTable Object](Excel.DataTable.md)
 ##### Methods
 ###### [Delete](Excel.DataTable.Delete.md)
 ###### [Select](Excel.DataTable.Select.md)
@@ -5433,7 +5433,7 @@
 ###### [Style](Excel.DisplayFormat.Style.md)
 ###### [VerticalAlignment](Excel.DisplayFormat.VerticalAlignment.md)
 ###### [WrapText](Excel.DisplayFormat.WrapText.md)
-#### [DisplayUnitLabel Object](Excel.DisplayUnitLabel(objec).md)
+#### [DisplayUnitLabel Object](Excel.DisplayUnitLabel.md)
 ##### Methods
 ###### [Delete](Excel.DisplayUnitLabel.Delete.md)
 ###### [Select](Excel.DisplayUnitLabel.Select.md)
@@ -5460,7 +5460,7 @@
 ###### [Top](Excel.DisplayUnitLabel.Top.md)
 ###### [VerticalAlignment](Excel.DisplayUnitLabel.VerticalAlignment.md)
 ###### [Width](Excel.DisplayUnitLabel.Width.md)
-#### [DownBars Object](Excel.DownBars(objec).md)
+#### [DownBars Object](Excel.DownBars.md)
 ##### Methods
 ###### [Delete](Excel.DownBars.Delete.md)
 ###### [Select](Excel.DownBars.Select.md)
@@ -5470,7 +5470,7 @@
 ###### [Format](Excel.DownBars.Format.md)
 ###### [Name](Excel.DownBars.Name.md)
 ###### [Parent](Excel.DownBars.Parent.md)
-#### [DropLines Object](Excel.DropLines(objec).md)
+#### [DropLines Object](Excel.DropLines.md)
 ##### Methods
 ###### [Delete](Excel.DropLines.Delete.md)
 ###### [Select](Excel.DropLines.Select.md)
@@ -5488,7 +5488,7 @@
 ###### [Ignore](Excel.Error.Ignore.md)
 ###### [Parent](Excel.Error.Parent.md)
 ###### [Value](Excel.Error.Value.md)
-#### [ErrorBars Object](Excel.ErrorBars(objec).md)
+#### [ErrorBars Object](Excel.ErrorBars.md)
 ##### Methods
 ###### [ClearFormats](Excel.ErrorBars.ClearFormats.md)
 ###### [Delete](Excel.ErrorBars.Delete.md)
@@ -5593,7 +5593,7 @@
 ###### [Creator](Excel.Filters.Creator.md)
 ###### [Item](Excel.Filters.Item.md)
 ###### [Parent](Excel.Filters.Parent.md)
-#### [Floor Object](Excel.Floor(objec).md)
+#### [Floor Object](Excel.Floor.md)
 ##### Methods
 ###### [ClearFormats](Excel.Floor.ClearFormats.md)
 ###### [Paste](Excel.Floor.Paste.md)
@@ -5606,7 +5606,7 @@
 ###### [Parent](Excel.Floor.Parent.md)
 ###### [PictureType](Excel.Floor.PictureType.md)
 ###### [Thickness](Excel.Floor.Thickness.md)
-#### [Font Object](Excel.Font(objec).md)
+#### [Font Object](Excel.Font.md)
 ##### Properties
 ###### [Application](Excel.Font.Application.md)
 ###### [Background](Excel.Font.Background.md)
@@ -5710,7 +5710,7 @@
 ###### [LockAspectRatio](Excel.Graphic.LockAspectRatio.md)
 ###### [Parent](Excel.Graphic.Parent.md)
 ###### [Width](Excel.Graphic.Width.md)
-#### [Gridlines Object](Excel.Gridlines(objec).md)
+#### [Gridlines Object](Excel.Gridlines.md)
 ##### Methods
 ###### [Delete](Excel.Gridlines.Delete.md)
 ###### [Select](Excel.Gridlines.Select.md)
@@ -5734,7 +5734,7 @@
 ##### Properties
 ###### [Picture](Excel.HeaderFooter.Picture.md)
 ###### [Text](Excel.HeaderFooter.Text.md)
-#### [HiLoLines Object](Excel.HiLoLines(objec).md)
+#### [HiLoLines Object](Excel.HiLoLines.md)
 ##### Methods
 ###### [Delete](Excel.HiLoLines.Delete.md)
 ###### [Select](Excel.HiLoLines.Select.md)
@@ -5848,7 +5848,7 @@
 ###### [Creator](Excel.IconSets.Creator.md)
 ###### [Item](Excel.IconSets.Item.md)
 ###### [Parent](Excel.IconSets.Parent.md)
-#### [Interior Object](Excel.Interior(objec).md)
+#### [Interior Object](Excel.Interior.md)
 ##### Properties
 ###### [Application](Excel.Interior.Application.md)
 ###### [Color](Excel.Interior.Color.md)
@@ -5878,7 +5878,7 @@
 ###### [UpdateNotify](Excel.IRTDUpdateEvent.UpdateNotify.md)
 ##### Properties
 ###### [HeartbeatInterval](Excel.IRTDUpdateEvent.HeartbeatInterval.md)
-#### [LeaderLines Object](Excel.LeaderLines(objec).md)
+#### [LeaderLines Object](Excel.LeaderLines.md)
 ##### Methods
 ###### [Delete](Excel.LeaderLines.Delete.md)
 ###### [Select](Excel.LeaderLines.Select.md)
@@ -5888,7 +5888,7 @@
 ###### [Creator](Excel.LeaderLines.Creator.md)
 ###### [Format](Excel.LeaderLines.Format.md)
 ###### [Parent](Excel.LeaderLines.Parent.md)
-#### [Legend Object](Excel.Legend(objec).md)
+#### [Legend Object](Excel.Legend.md)
 ##### Methods
 ###### [Clear](Excel.Legend.Clear.md)
 ###### [Delete](Excel.Legend.Delete.md)
@@ -5915,7 +5915,7 @@
 ###### [Count](Excel.LegendEntries.Count.md)
 ###### [Creator](Excel.LegendEntries.Creator.md)
 ###### [Parent](Excel.LegendEntries.Parent.md)
-#### [LegendEntry Object](Excel.LegendEntry(objec).md)
+#### [LegendEntry Object](Excel.LegendEntry.md)
 ##### Methods
 ###### [Delete](Excel.LegendEntry.Delete.md)
 ###### [Select](Excel.LegendEntry.Select.md)
@@ -5931,7 +5931,7 @@
 ###### [Parent](Excel.LegendEntry.Parent.md)
 ###### [Top](Excel.LegendEntry.Top.md)
 ###### [Width](Excel.LegendEntry.Width.md)
-#### [LegendKey Object](Excel.LegendKey(objec).md)
+#### [LegendKey Object](Excel.LegendKey.md)
 ##### Methods
 ###### [ClearFormats](Excel.LegendKey.ClearFormats.md)
 ###### [Delete](Excel.LegendKey.Delete.md)
@@ -6766,7 +6766,7 @@
 ###### [Parent](Excel.PictureFormat.Parent.md)
 ###### [TransparencyColor](Excel.PictureFormat.TransparencyColor.md)
 ###### [TransparentBackground](Excel.PictureFormat.TransparentBackground.md)
-#### [PivotAxis Object](Excel.pivotAxis(objec).md)
+#### [PivotAxis Object](Excel.pivotAxis.md)
 ##### Properties
 ###### [Application](Excel.pivotAxis.Application.md)
 ###### [Creator](Excel.pivotAxis.Creator.md)
@@ -7233,7 +7233,7 @@
 ###### [PivotCell](Excel.pivotvaluecell.pivotcell.md)
 ###### [ServerActions](Excel.pivotvaluecell.serveractions.md)
 ###### [Value](Excel.pivotvaluecell.value.md)
-#### [PlotArea Object](Excel.PlotArea(objec).md)
+#### [PlotArea Object](Excel.PlotArea.md)
 ##### Methods
 ###### [ClearFormats](Excel.PlotArea.ClearFormats.md)
 ###### [Select](Excel.PlotArea.Select.md)
@@ -7252,7 +7252,7 @@
 ###### [Position](Excel.PlotArea.Position.md)
 ###### [Top](Excel.PlotArea.Top.md)
 ###### [Width](Excel.PlotArea.Width.md)
-#### [Point Object](Excel.Point(objec).md)
+#### [Point Object](Excel.Point.md)
 ##### Methods
 ###### [ApplyDataLabels](Excel.Point.ApplyDataLabels.md)
 ###### [ClearFormats](Excel.Point.ClearFormats.md)
@@ -7465,7 +7465,7 @@
 ###### [Application](Excel.quickanalysis.application.md)
 ###### [Creator](Excel.quickanalysis.creator.md)
 ###### [Parent](Excel.quickanalysis.parent.md)
-#### [Range Object](Excel.Range(objec).md)
+#### [Range Object](Excel.Range.md)
 ##### Methods
 ###### [Activate](Excel.Range.Activate.md)
 ###### [AddComment](Excel.Range.AddComment.md)
@@ -7736,7 +7736,7 @@
 ###### [Count](Excel.Scenarios.Count.md)
 ###### [Creator](Excel.Scenarios.Creator.md)
 ###### [Parent](Excel.Scenarios.Parent.md)
-#### [Series Object](Excel.Series(objec).md)
+#### [Series Object](Excel.Series.md)
 ##### Methods
 ###### [ApplyDataLabels](Excel.Series.ApplyDataLabels.md)
 ###### [ClearFormats](Excel.Series.ClearFormats.md)
@@ -7805,7 +7805,7 @@
 ###### [Count](Excel.SeriesCollection.Count.md)
 ###### [Creator](Excel.SeriesCollection.Creator.md)
 ###### [Parent](Excel.SeriesCollection.Parent.md)
-#### [SeriesLines Object](Excel.SeriesLines(objec).md)
+#### [SeriesLines Object](Excel.SeriesLines.md)
 ##### Methods
 ###### [Delete](Excel.SeriesLines.Delete.md)
 ###### [Select](Excel.SeriesLines.Select.md)
@@ -7945,7 +7945,7 @@
 ###### [Count](Excel.ShapeNodes.Count.md)
 ###### [Creator](Excel.ShapeNodes.Creator.md)
 ###### [Parent](Excel.ShapeNodes.Parent.md)
-#### [ShapeRange Object](Excel.ShapeRange(objec).md)
+#### [ShapeRange Object](Excel.ShapeRange.md)
 ##### Methods
 ###### [Align](Excel.ShapeRange.Align.md)
 ###### [Apply](Excel.ShapeRange.Apply.md)
@@ -8240,7 +8240,7 @@
 ###### [Item](Excel.SortFields.Item.md)
 ###### [Parent](Excel.SortFields.Parent.md)
 ###### [Parent](Excel.soundnote.parent.md)
-#### [SparkAxes Object](Excel.sparkAxes(object).md)
+#### [SparkAxes Object](Excel.sparkAxes.md)
 ##### Properties
 ###### [Application](Excel.sparkAxes.Application.md)
 ###### [Creator](Excel.sparkAxes.Creator.md)
@@ -8254,7 +8254,7 @@
 ###### [Creator](Excel.SparkColor.Creator.md)
 ###### [Parent](Excel.SparkColor.Parent.md)
 ###### [Visible](Excel.SparkColor.Visible.md)
-#### [SparkHorizontalAxis Object](Excel.sparkhorizontalAxis(objec).md)
+#### [SparkHorizontalAxis Object](Excel.sparkhorizontalAxis.md)
 ##### Properties
 ###### [Application](Excel.sparkhorizontalAxis.Application.md)
 ###### [Axis](Excel.SparkHorizontalAxis.Axis.md)
@@ -8320,7 +8320,7 @@
 ###### [Markers](Excel.SparkPoints.Markers.md)
 ###### [Negative](Excel.SparkPoints.Negative.md)
 ###### [Parent](Excel.SparkPoints.Parent.md)
-#### [SparkVerticalAxis Object](Excel.SparkVerticalAxis(objec).md)
+#### [SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 ##### Properties
 ###### [Application](Excel.SparkVerticalAxis.Application.md)
 ###### [Creator](Excel.SparkVerticalAxis.Creator.md)
@@ -8602,7 +8602,7 @@
 ###### [RotationZ](Excel.ThreeDFormat.RotationZ.md)
 ###### [Visible](Excel.ThreeDFormat.Visible.md)
 ###### [Z](Excel.ThreeDFormat.Z.md)
-#### [TickLabels Object](Excel.TickLabels(objec).md)
+#### [TickLabels Object](Excel.TickLabels.md)
 ##### Methods
 ###### [Delete](Excel.TickLabels.Delete.md)
 ###### [Select](Excel.TickLabels.Select.md)
@@ -8676,7 +8676,7 @@
 ###### [Drilled](Excel.TreeviewControl.Drilled.md)
 ###### [Hidden](Excel.TreeviewControl.Hidden.md)
 ###### [Parent](Excel.TreeviewControl.Parent.md)
-#### [Trendline Object](Excel.Trendline(objec).md)
+#### [Trendline Object](Excel.Trendline.md)
 ##### Methods
 ###### [ClearFormats](Excel.Trendline.ClearFormats.md)
 ###### [Delete](Excel.Trendline.Delete.md)
@@ -8730,7 +8730,7 @@
 ###### [ScopeType](Excel.UniqueValues.ScopeType.md)
 ###### [StopIfTrue](Excel.UniqueValues.StopIfTrue.md)
 ###### [Type](Excel.UniqueValues.Type.md)
-#### [UpBars Object](Excel.UpBars(objec).md)
+#### [UpBars Object](Excel.UpBars.md)
 ##### Methods
 ###### [Delete](Excel.UpBars.Delete.md)
 ###### [Select](Excel.UpBars.Select.md)
@@ -8819,7 +8819,7 @@
 ###### [Creator](Excel.VPageBreaks.Creator.md)
 ###### [Item](Excel.VPageBreaks.Item.md)
 ###### [Parent](Excel.VPageBreaks.Parent.md)
-#### [Walls Object](Excel.Walls(objec).md)
+#### [Walls Object](Excel.Walls.md)
 ##### Methods
 ###### [ClearFormats](Excel.Walls.ClearFormats.md)
 ###### [Paste](Excel.Walls.Paste.md)
@@ -10305,11 +10305,11 @@
 ###### [HasBorderHorizontal](Excel.HasBorderHorizontal.md)
 ###### [HasBorderOutline](Excel.HasBorderOutline.md)
 ###### [HasBorderVertical](Excel.HasBorderVertical.md)
-###### [HasDataLabel](hasExcel.DataLabel(Graph property).md)
+###### [HasDataLabel](Excel.hasDataLabel(Graph property).md)
 ###### [HasDataLabels](Excel.HasDataLabels.md)
-###### [HasDataTable](hasExcel.DataTable(Graph property).md)
-###### [HasDisplayUnitLabel](hasExcel.DisplayUnitLabel(Graph property).md)
-###### [HasDropLines](hasExcel.DropLines(Graph property).md)
+###### [HasDataTable](Excel.hasDataTable(Graph property).md)
+###### [HasDisplayUnitLabel]Excel.(hasDisplayUnitLabel(Graph property).md)
+###### [HasDropLines](Excel.hasDropLines(Graph property).md)
 ###### [HasErrorBars](Excel.HasErrorBars(Graph property).md)
 ###### [HasHiLoLines](Excel.HasHiLoLines.md)
 ###### [HasLeaderLines](Excel.HasLeaderLines.md)
@@ -10320,7 +10320,7 @@
 ###### [HasRadarAxisLabels](Excel.HasRadarAxisLabels.md)
 ###### [HasSeriesLines](Excel.HasSeriesLines.md)
 ###### [HasTitle](Excel.HasTitle.md)
-###### [HasUpDownBars](hasupExcel.DownBars(Graph property).md)
+###### [HasUpDownBars](Excel.hasupDownBars(Graph property).md)
 ###### [Height](Excel.height.md)
 ###### [HeightPercent](Excel.HeightPercent.md)
 ###### [HiLoLines](Excel.HiLoLines(Graph property).md)
@@ -10371,7 +10371,7 @@
 ###### [Offset](Excel.Offset.md)
 ###### [Order](Excel.Order.md)
 ###### [Orientation](Excel.orientation.md)
-###### [OutlineFont](outlineExcel.Font(Graph property).md)
+###### [OutlineFont](Excel.outlineFont(Graph property).md)
 ###### [Overlap](Excel.Overlap.md)
 ###### [Parent](Excel.Parent.md)
 ###### [Pattern](Excel.Pattern.md)
@@ -14097,15 +14097,15 @@
 ###### [Enabled](Outlook.senderinaddresslistRuleCondition.Enabled.md)
 ###### [Parent](Outlook.senderinaddresslistRuleCondition.Parent.md)
 ###### [Session](Outlook.senderinaddresslistRuleCondition.Session.md)
-#### [SendRuleAction Object](sendOutlook.ruleAction.md)
+#### [SendRuleAction Object](Outlook.SendRuleAction.md)
 ##### Properties
 ###### [ActionType](Outlook.sendRuleAction.ActionType.md)
-###### [Application](sendOutlook.ruleAction.Application.md)
-###### [Class](sendOutlook.ruleAction.Class.md)
-###### [Enabled](sendOutlook.ruleAction.Enabled.md)
-###### [Parent](sendOutlook.ruleAction.Parent.md)
+###### [Application](Outlook.SendRuleAction.Application.md)
+###### [Class](Outlook.SendRuleAction.Class.md)
+###### [Enabled](Outlook.SendRuleAction.Enabled.md)
+###### [Parent](Outlook.SendRuleAction.Parent.md)
 ###### [Recipients](Outlook.SendRuleAction.Recipients.md)
-###### [Session](sendOutlook.ruleAction.Session.md)
+###### [Session](Outlook.SendRuleAction.Session.md)
 #### [SharingItem Object](Outlook.SharingItem.md)
 ##### Events
 ###### [AfterWrite](Outlook.SharingItem.AfterWrite.md)

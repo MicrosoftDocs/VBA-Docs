@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Returning an Object from a Collection (Word)
 
-The  **Item** method returns a single object from a collection. The following example sets the `docFirst` variable to a **[Document](document-object-word.md)** object that represents the first document in the **[Documents](../../../api/Word.documents.md)** collection.
+The  **Item** method returns a single object from a collection. The following example sets the `docFirst` variable to a **[Document](../../../api/Word.Document.md)** object that represents the first document in the **[Documents](../../../api/Word.documents.md)** collection.
 
 
 ```vb
@@ -61,7 +61,7 @@ Not all collections can be indexed by name. To determine the valid collection in
 
 ## Predefined Index Values
 
-Some collections have predefined index values that you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify a  **[WdBorderType](wdbordertype-enumeration-word.md)** constant with the **Borders** property to return a single **[Border](border-object-word.md)** object.
+Some collections have predefined index values that you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify a  **[WdBorderType](../../../api/Word.WdBorderType.md)** constant with the **Borders** property to return a single **[Border](../../../api/Word.Border.md)** object.
 
 The following example adds a single 0.75-point border below the first paragraph in the selection.
 

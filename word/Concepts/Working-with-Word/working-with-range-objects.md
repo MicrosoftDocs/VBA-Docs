@@ -130,12 +130,12 @@ Sub FormatFirstParagraph()
 End Sub
 ```
 
-For additional information and examples, see the  **[Range](range-case-property-word.md)** property topic.
+For additional information and examples, see the  **[Range](../../../api/Word.Range.Case.md)** property topic.
 
 
 ## Redefining a Range object
 
-Use the  **[SetRange](range-setrange-method-word.md)** method to redefine an existing  **Range** object. The following example defines a range as the current selection. The **SetRange** method then redefines the range so that it refers to the current selection plus the next 10 characters.
+Use the  **[SetRange](../../../api/Word.Range.SetRange.md)** method to redefine an existing  **Range** object. The following example defines a range as the current selection. The **SetRange** method then redefines the range so that it refers to the current selection plus the next 10 characters.
 
 
 ```vb

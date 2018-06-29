@@ -35,6 +35,6 @@ You can also use a sharing invitation to direct another user to an online resour
 
 ## Sharing Providers
 
-Each type of online resource, such as Webcal calendars, is supported by a corresponding sharing provider. A sharing provider encapsulates the access and interpretation tools for a given online resource type. You can use the  **[SharingProvider](sharingitem-sharingprovider-property-outlook.md)** and **[SharingProviderGuid ](sharingitem-sharingproviderguid-property-outlook.md)** properties of a **SharingItem** to determine the sharing provider used by a given sharing message.
+Each type of online resource, such as Webcal calendars, is supported by a corresponding sharing provider. A sharing provider encapsulates the access and interpretation tools for a given online resource type. You can use the  **[SharingProvider](../../../api/Outlook.SharingItem.SharingProvider.md)** and **[SharingProviderGuid ](../../../api/Outlook.SharingItem.SharingProviderGuid.md)** properties of a **SharingItem** to determine the sharing provider used by a given sharing message.
 
 

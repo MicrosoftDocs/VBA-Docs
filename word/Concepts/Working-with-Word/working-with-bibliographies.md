@@ -225,7 +225,7 @@ End Sub
 
 ## Applying a bibliography style
 
-After you insert a bibliography into a document, you can set the bibliography style. Word formats several different styles of bibliographies. You can set the bibliography style by using the  **[BibliographyStyle](bibliography-bibliographystyle-property-word.md)** property. This property can be one of the following **String** values:
+After you insert a bibliography into a document, you can set the bibliography style. Word formats several different styles of bibliographies. You can set the bibliography style by using the  **[BibliographyStyle](../../../api/Word.Bibliography.BibliographyStyle.md)** property. This property can be one of the following **String** values:
 
 
 - APA

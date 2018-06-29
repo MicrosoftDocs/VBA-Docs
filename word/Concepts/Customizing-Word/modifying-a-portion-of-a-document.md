@@ -14,9 +14,9 @@ Visual Basic includes objects that you can use to modify the following document 
 
 |**This expression**|**Returns this object**|
 |:-----|:-----|
-| **Words** ( _index_)| **[Range](../Working-with-Word/../Working-with-Word/../Working-with-Word/range-object-word.md)**|
-| **Characters** ( _index_)| **[Range](../Working-with-Word/../Working-with-Word/../Working-with-Word/range-object-word.md)**|
-| **Sentences** ( _index_)| **[Range](../Working-with-Word/../Working-with-Word/../Working-with-Word/range-object-word.md)**|
+| **Words** ( _index_)| **[Range](../../../api/Word.Range.md)**|
+| **Characters** ( _index_)| **[Range](../../../api/Word.Range.md)**|
+| **Sentences** ( _index_)| **[Range](../../../api/Word.Range.md)**|
 | **Paragraphs** ( _index_)| **[Paragraph](../../../api/Word.Paragraph.md)**|
 | **Sections** ( _index_)| **[Section](../../../api/Word.Section.md)**|
 
@@ -43,7 +43,7 @@ Sub CopyParagraph()
 End Sub
 ```
 
-All of the document element properties in the preceding table are available from the  **Document**,  **Selection**, and  **Range** objects. The following examples demonstrate how you can drill down to these properties from **[Document](../Objects-Properties-Methods/document-object-word.md)**,  **[Selection](../../../api/Word.Selection.md)**, and  **Range** objects.
+All of the document element properties in the preceding table are available from the  **Document**,  **Selection**, and  **Range** objects. The following examples demonstrate how you can drill down to these properties from **[Document](../../../api/Word.Document.md)**,  **[Selection](../../../api/Word.Selection.md)**, and  **Range** objects.
 The following example sets the case of the first word in the active document.
 
 
@@ -87,7 +87,7 @@ Sub SetRangeForFirstTenCharacters()
 End Sub
 ```
 
-Using the  **[Start](range-start-property-word.md)** and **[End](range-end-property-word.md)** properties with a **Range** object, you can create a new **Range** object that refers to a group of document elements. For example, the following instruction creates a **Range** object ( `rngThreeWords`) that refers to the first three words in the active document.
+Using the  **[Start](../../../api/Word.Range.Start.md)** and **[End](../../../api/Word.Range.End.md)** properties with a **Range** object, you can create a new **Range** object that refers to a group of document elements. For example, the following instruction creates a **Range** object ( `rngThreeWords`) that refers to the first three words in the active document.
 
 
 
@@ -117,6 +117,6 @@ Sub SetParagraphRange()
 End Sub
 ```
 
-For more information about defining  **Range** objects, see [Working with Range objects](working-with-range-objects.md).
+For more information about defining  **Range** objects, see [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
 
 

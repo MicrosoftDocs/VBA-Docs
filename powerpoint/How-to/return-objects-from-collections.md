@@ -46,7 +46,7 @@ End With
 
  **Predefined Index Values**
 
-Some collections have predefined index values you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify a  **PpTextStyleType** constant with the **Item** method of the [TextStyles](textstyles-object-powerpoint.md) collection to return a single text style.
+Some collections have predefined index values you can use to return single objects. Each predefined index value is represented by a constant. For example, you specify a  **PpTextStyleType** constant with the **Item** method of the [TextStyles](../../api/PowerPoint.TextStyles.md) collection to return a single text style.
 
 The following example sets the margins for the body area on slides in the active presentation.
 

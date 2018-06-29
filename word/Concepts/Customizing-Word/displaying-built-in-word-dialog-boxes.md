@@ -141,7 +141,7 @@ End Sub
 ```
 
 
- **Note**  You can also use the VBA properties and methods to change the right indent for the paragraph. The following example uses the  **[KeepWithNext](paragraphformat-keepwithnext-property-word.md)** property of the **ParagraphFormat** object to keep the selected paragraph with the following paragraph.
+ **Note**  You can also use the VBA properties and methods to change the right indent for the paragraph. The following example uses the  **[KeepWithNext](../../../api/Word.ParagraphFormat.KeepWithNext.md)** property of the **ParagraphFormat** object to keep the selected paragraph with the following paragraph.
 
 
 
@@ -153,7 +153,7 @@ End Sub
 ```
 
 
- **Note**  Use the  **[Update](dialog-update-method-word.md)** method to ensure that the dialog box values reflect the current values. It may be necessary to use the **Update** method if you define a dialog box variable early in your macro and later want to return or change the current settings.
+ **Note**  Use the  **[Update](../../../api/Word.Dialog.Update.md)** method to ensure that the dialog box values reflect the current values. It may be necessary to use the **Update** method if you define a dialog box variable early in your macro and later want to return or change the current settings.
 
 
 ## Checking how a dialog box was closed

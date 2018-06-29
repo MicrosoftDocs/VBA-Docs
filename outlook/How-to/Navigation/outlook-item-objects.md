@@ -17,7 +17,7 @@ The following are the item-level objects defined in the Outlook object model:
     
 -  **[DistListItem Object](../../../api/Outlook.DistListItem.md)**
     
--  **[DocumentItem Object](documentitem-object-outlook.md)**
+-  **[DocumentItem Object](../../../api/Outlook.DocumentItem.md)**
     
 -  **[JournalItem Object](../../../api/Outlook.JournalItem.md)**
     

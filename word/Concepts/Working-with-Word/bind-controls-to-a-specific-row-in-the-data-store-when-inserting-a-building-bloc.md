@@ -16,7 +16,7 @@ This makes it easier to update your data. To update one of these items, you can 
 
 The objects used in these samples are:
 
--  **[ContentControl](../Objects-Properties-Methods/contentcontrol-object-word.md)**
+-  **[ContentControl](../../../api/Word.ContentControl.md)**
     
 -  **[ContentControls](../../../api/Word.ContentControls.md)**
     

@@ -15,7 +15,7 @@ You can set these restrictions programmatically. For example, you might want to 
 The objects used in this sample are:
 
 
--  [ContentControl](../Objects-Properties-Methods/contentcontrol-object-word.md)
+-  [ContentControl](../../../api/Word.ContentControl.md)
     
 -  [ContentControls](../../../api/Word.ContentControls.md)
     
