@@ -29,20 +29,15 @@ Nothing
 
 When the node is deleted, the first child gets promoted. In the following data model, if B is deleted, the data model then looks like the following: 
 
-- A
-    
-  - B
-    
-  - C
-    
+- A    
+  - B    
+  - C    
 - D
     
 <br/>
  
-- A
-    
-  - C
-    
+- A    
+  - C    
 - D
     
 
