@@ -47,7 +47,7 @@ ctlAutoSum.Execute
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](commandbarbutton-members-office.md)

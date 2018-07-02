@@ -37,7 +37,7 @@ SmartArtQuickStyle
 
 
 [SmartArtQuickStyles Object](Office.SmartArtQuickStyles.md)
-#### Other resources
+
 
 
 [SmartArtQuickStyles Object Members](./overview/smartartquickstyles-members-office.md)

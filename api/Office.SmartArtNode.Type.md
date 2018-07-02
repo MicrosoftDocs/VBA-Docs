@@ -29,7 +29,7 @@ Possible values are msoSmartArtNodeTypeAssistant or msoSmartArtNodeTypeDefault.
 
 
 [SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
+
 
 
 [SmartArtNode Object Members](./overview/smartartnode-members-office.md)

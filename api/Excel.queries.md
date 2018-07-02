@@ -42,7 +42,7 @@ The collection of [WorkbookQuery](Excel.workbookquery.md) objects Introduced in 
 <a name="properties"> </a>
 
 
-#### Other resources
+
 
 
 [Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)

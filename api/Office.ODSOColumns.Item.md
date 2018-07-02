@@ -50,7 +50,7 @@ oOdsoColumn = oOdsoColumns.Item(2)
 
 
 [ODSOColumns Object](Office.ODSOColumns.md)
-#### Other resources
+
 
 
 [ODSOColumns Object Members](./overview/odsocolumns-members-office.md)

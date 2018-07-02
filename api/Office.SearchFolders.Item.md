@@ -35,7 +35,7 @@ Gets a  **ScopeFolder** object that represents a subfolder of the parent object.
 
 
 [SearchFolders Object](Office.SearchFolders.md)
-#### Other resources
+
 
 
 [SearchFolders Object Members](searchfolders-members-office.md)

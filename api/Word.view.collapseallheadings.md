@@ -35,7 +35,7 @@ This method corresponds to the  **Collapse All Headings** command on the **Expan
 
 
 [View Object](Word.View.md)
-#### Other resources
+
 
 
 [View Members](./overview/Word.md)

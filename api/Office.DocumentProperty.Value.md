@@ -32,7 +32,7 @@ If the container application doesn't define a value for one of the built-in docu
 
 
 [DocumentProperty Object](Office.DocumentProperty.md)
-#### Other resources
+
 
 
 [DocumentProperty Object Members](documentproperty-members-office.md)

@@ -32,7 +32,7 @@ MsgBox ActiveDocument.CoAuthoring.Locks.Count
 
 
 [CoAuthoring.Locks Property](coauthoring-locks-property-word.md)
-#### Other resources
+
 
 
 [Word Object Model Reference](./overview/object-model-word-vba-reference.md)

@@ -29,7 +29,7 @@ TabStops2
 
 
 [Ruler2 Object](Office.Ruler2.md)
-#### Other resources
+
 
 
 [Ruler2 Object Members](./overview/ruler2-members-office.md)

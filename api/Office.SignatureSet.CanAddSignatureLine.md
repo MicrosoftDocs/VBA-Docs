@@ -32,7 +32,7 @@ Boolean
 
 
 [SignatureSet Object](Office.SignatureSet.md)
-#### Other resources
+
 
 
 [SignatureSet Object Members](./overview/signatureset-members-office.md)

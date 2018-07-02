@@ -29,7 +29,7 @@ Long
 
 
 [SearchFolders Object](Office.SearchFolders.md)
-#### Other resources
+
 
 
 [SearchFolders Object Members](./overview/searchfolders-members-office.md)

@@ -61,7 +61,7 @@ The following example lists comments and other properties for each version of a 
 
 
 [DocumentLibraryVersion Object](Office.DocumentLibraryVersion.md)
-#### Other resources
+
 
 
 [DocumentLibraryVersion Object Members](./overview/documentlibraryversion-members-office.md)

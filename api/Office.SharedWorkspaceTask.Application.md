@@ -32,7 +32,7 @@ Object
 
 
 [SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTask Object Members](./overview/sharedworkspacetask-members-office.md)

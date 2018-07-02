@@ -60,7 +60,7 @@ Nothing
 
 
 [ContactCard Object](Office.ContactCard.md)
-#### Other resources
+
 
 
 [ContactCard Object Members](./overview/contactcard-members-office.md)

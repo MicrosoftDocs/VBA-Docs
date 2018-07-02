@@ -24,7 +24,7 @@ Retrieves the count of the number of  **EffectParameter** objects contained with
 
 
 [EffectParameters Object](Office.EffectParameters.md)
-#### Other resources
+
 
 
 [EffectParameters Object Members](./overview/effectparameters-members-office.md)

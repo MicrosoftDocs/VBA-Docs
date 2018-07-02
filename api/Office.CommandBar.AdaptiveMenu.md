@@ -38,7 +38,7 @@ Boolean
 
 
 [CommandBar Object](Office.CommandBar.md)
-#### Other resources
+
 
 
 [CommandBar Object Members](./overview/commandbar-members-office.md)

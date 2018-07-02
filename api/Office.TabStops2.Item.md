@@ -37,7 +37,7 @@ TabStop2
 
 
 [TabStops2 Object](Office.TabStops2.md)
-#### Other resources
+
 
 
 [TabStops2 Object Members](./overview/tabstops2-members-office.md)

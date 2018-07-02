@@ -39,7 +39,7 @@ The  **Creator** property always returns the numeric identifier for the active a
 
 
 [SharedWorkspaceFolder Object](Office.SharedWorkspaceFolder.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFolder Object Members](./overview/sharedworkspacefolder-members-office.md)

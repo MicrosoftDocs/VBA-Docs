@@ -45,7 +45,7 @@ End Sub
 
 
 [TextFrame2 Object](Office.TextFrame2.md)
-#### Other resources
+
 
 
 [TextFrame2 Object Members](./overview/textframe2-members-office.md)

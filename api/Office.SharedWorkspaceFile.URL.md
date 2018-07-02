@@ -51,7 +51,7 @@ MsgBox "URL: " &amp; ActiveWorkbook.SharedWorkspaceFile.URL, _
 
 
 [SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)

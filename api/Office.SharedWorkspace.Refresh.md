@@ -53,7 +53,7 @@ err_NeverRefreshed:
 
 
 [SharedWorkspace Object](Office.SharedWorkspace.md)
-#### Other resources
+
 
 
 [SharedWorkspace Object Members](sharedworkspace-members-office.md)

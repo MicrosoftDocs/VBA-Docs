@@ -139,7 +139,7 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 <a name="AboutContributors"> </a>
 
 
-#### Other resources
+
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>

@@ -40,7 +40,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [DocumentProperties Object](Office.DocumentProperties.md)
-#### Other resources
+
 
 
 [DocumentProperties Object Members](./overview/documentproperties-members-office.md)

@@ -58,7 +58,7 @@ You can use the following table to predict the number of sessions for which a me
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

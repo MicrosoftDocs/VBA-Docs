@@ -66,7 +66,7 @@ Use the  **FolderName** property to return the name of the shared workspace fold
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

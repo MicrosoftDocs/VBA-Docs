@@ -59,7 +59,7 @@ The following example adds a new file to the files collection of the shared work
 
 
 [SharedWorkspaceFiles Object](Office.SharedWorkspaceFiles.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFiles Object Members](sharedworkspacefiles-members-office.md)

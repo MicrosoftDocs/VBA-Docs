@@ -29,7 +29,7 @@ Object
 
 
 [GlowFormat Object](Office.GlowFormat.md)
-#### Other resources
+
 
 
 [GlowFormat Object Members](./overview/glowformat-members-office.md)

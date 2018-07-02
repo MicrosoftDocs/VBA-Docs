@@ -40,7 +40,7 @@ If the specified parameter is set for a built-in control, the application can mo
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

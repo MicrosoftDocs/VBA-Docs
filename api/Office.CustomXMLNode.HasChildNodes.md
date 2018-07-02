@@ -106,7 +106,7 @@ End Sub
 
 
 [CustomXMLNode Object](Office.CustomXMLNode.md)
-#### Other resources
+
 
 
 [CustomXMLNode Object Members](./overview/customxmlnode-members-office.md)

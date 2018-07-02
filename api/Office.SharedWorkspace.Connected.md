@@ -48,7 +48,7 @@ The following example checks the  **Connected** property to determine whether th
 
 
 [SharedWorkspace Object](Office.SharedWorkspace.md)
-#### Other resources
+
 
 
 [SharedWorkspace Object Members](./overview/sharedworkspace-members-office.md)

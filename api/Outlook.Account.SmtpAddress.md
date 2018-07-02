@@ -34,7 +34,7 @@ If the account does not have an SMTP address,  **SmtpAddress** returns an empty 
 
 
 [Account Object](Outlook.Account.md)
-#### Other resources
+
 
 
 [Send an E-mail Given the SMTP Address of an Account](send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)

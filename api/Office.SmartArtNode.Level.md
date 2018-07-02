@@ -46,7 +46,7 @@ The levels start at 1 and increment upward. If a node has no level, then a 0 is 
 
 
 [SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
+
 
 
 [SmartArtNode Object Members](./overview/smartartnode-members-office.md)

@@ -29,7 +29,7 @@ MsoSoftEdgeType
 
 
 [SoftEdgeFormat Object](Office.SoftEdgeFormat.md)
-#### Other resources
+
 
 
 [SoftEdgeFormat Object Members](./overview/softedgeformat-members-office.md)

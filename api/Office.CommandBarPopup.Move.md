@@ -59,7 +59,7 @@ Next
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](commandbarpopup-members-office.md)

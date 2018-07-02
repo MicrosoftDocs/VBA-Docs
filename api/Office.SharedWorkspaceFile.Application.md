@@ -32,7 +32,7 @@ Object
 
 
 [SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)

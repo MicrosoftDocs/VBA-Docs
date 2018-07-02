@@ -55,7 +55,7 @@ End If
 
 
 [SharedWorkspaceTasks Object](Office.SharedWorkspaceTasks.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTasks Object Members](./overview/sharedworkspacetasks-members-office.md)

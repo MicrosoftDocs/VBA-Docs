@@ -24,7 +24,7 @@ Retrieves the name of the Picker field. Read-only
 
 
 [PickerField Object](Office.PickerField.md)
-#### Other resources
+
 
 
 [PickerField Object Members](./overview/pickerfield-members-office.md)

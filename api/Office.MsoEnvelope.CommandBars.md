@@ -45,7 +45,7 @@ Set cbars = Application.ActiveDocument.MailEnvelope.Commandbars
 
 
 [MsoEnvelope Object](Office.MsoEnvelope.md)
-#### Other resources
+
 
 
 [MsoEnvelope Object Members](./overview/msoenvelope-members-office.md)

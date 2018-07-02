@@ -29,7 +29,7 @@ Object
 
 
 [NewFile Object](Office.NewFile.md)
-#### Other resources
+
 
 
 [NewFile Object Members](./overview/newfile-members-office.md)

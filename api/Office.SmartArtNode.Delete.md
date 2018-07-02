@@ -53,7 +53,7 @@ When the node is deleted, the first child gets promoted. In the following data m
 
 
 [SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
+
 
 
 [SmartArtNode Object Members](./overview/smartartnode-members-office.md)

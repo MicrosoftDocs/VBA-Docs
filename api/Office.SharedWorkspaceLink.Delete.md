@@ -30,7 +30,7 @@ Deletes the current  **SharedWorkspaceLink** object.
 
 
 [SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLink Object Members](sharedworkspacelink-members-office.md)

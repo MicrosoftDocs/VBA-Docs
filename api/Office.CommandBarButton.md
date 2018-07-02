@@ -51,7 +51,7 @@ End With
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)

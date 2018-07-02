@@ -66,7 +66,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 [ICTPFactory Object](Office.ICTPFactory.md)
-#### Other resources
+
 
 
 [ICTPFactory Object Members](./overview/ictpfactory-members-office.md)

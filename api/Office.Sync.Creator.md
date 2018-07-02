@@ -32,7 +32,7 @@ Long
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](./overview/sync-members-office.md)

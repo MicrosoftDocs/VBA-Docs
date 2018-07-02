@@ -53,7 +53,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 [CustomTaskPane Object](Office.CustomTaskPane.md)
-#### Other resources
+
 
 
 [CustomTaskPane Object Members](./overview/customtaskpane-members-office.md)

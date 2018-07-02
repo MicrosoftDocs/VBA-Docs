@@ -69,7 +69,7 @@ The following example creates a shared workspace site at the URL http://server/s
 
 
 [SharedWorkspace Object](Office.SharedWorkspace.md)
-#### Other resources
+
 
 
 [SharedWorkspace Object Members](./overview/sharedworkspace-members-office.md)

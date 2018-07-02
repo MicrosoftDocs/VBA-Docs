@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **PickerField
 
 
 [PickerField Object](Office.PickerField.md)
-#### Other resources
+
 
 
 [PickerField Object Members](./overview/pickerfield-members-office.md)

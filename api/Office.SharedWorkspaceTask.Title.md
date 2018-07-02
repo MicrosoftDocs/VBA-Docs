@@ -59,7 +59,7 @@ The following example displays a list of the titles of all tasks in the current 
 
 
 [SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTask Object Members](./overview/sharedworkspacetask-members-office.md)

@@ -69,7 +69,7 @@ The following example displays information about the permissions settings of the
 
 
 [Permission Object](Office.Permission.md)
-#### Other resources
+
 
 
 [Permission Object Members](./overview/permission-members-office.md)

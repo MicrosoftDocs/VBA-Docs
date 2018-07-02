@@ -52,7 +52,7 @@ Set cmdBar = CommandBars("Standard")
 
 
 [CommandBars Object](Office.CommandBars.md)
-#### Other resources
+
 
 
 [CommandBars Object Members](commandbars-members-office.md)

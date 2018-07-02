@@ -67,7 +67,7 @@ The following example enables permissions on the active document and applies an 
 
 
 [Permission Object](Office.Permission.md)
-#### Other resources
+
 
 
 [Permission Object Members](./overview/permission-members-office.md)

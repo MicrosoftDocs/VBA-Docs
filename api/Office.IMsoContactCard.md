@@ -37,7 +37,7 @@ You cannot create a new instance of a  **ContactCard** object programmatically. 
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

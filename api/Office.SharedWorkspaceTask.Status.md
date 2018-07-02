@@ -64,7 +64,7 @@ The following example displays a list of all tasks in the current shared workspa
 
 
 [SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTask Object Members](sharedworkspacetask-members-office.md)

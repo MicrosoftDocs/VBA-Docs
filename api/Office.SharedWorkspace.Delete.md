@@ -30,7 +30,7 @@ Deletes the current shared workspace and all data within it.
 
 
 [SharedWorkspace Object](Office.SharedWorkspace.md)
-#### Other resources
+
 
 
 [SharedWorkspace Object Members](sharedworkspace-members-office.md)

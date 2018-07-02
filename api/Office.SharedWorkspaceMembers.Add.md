@@ -61,7 +61,7 @@ The following example adds a new member to the members collection of the shared 
 
 
 [SharedWorkspaceMembers Object](Office.SharedWorkspaceMembers.md)
-#### Other resources
+
 
 
 [SharedWorkspaceMembers Object Members](sharedworkspacemembers-members-office.md)

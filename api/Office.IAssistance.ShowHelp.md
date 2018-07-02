@@ -53,7 +53,7 @@ End Sub
 
 
 [IAssistance Object](Office.IAssistance.md)
-#### Other resources
+
 
 
 [IAssistance Object Members](./overview/iassistance-members-office.md)

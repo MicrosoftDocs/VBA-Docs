@@ -29,7 +29,7 @@ Long
 
 
 [GradientStop Object](Office.GradientStop.md)
-#### Other resources
+
 
 
 [GradientStop Object Members](./overview/gradientstop-members-office.md)

@@ -32,7 +32,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 
 
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
-#### Other resources
+
 
 
 

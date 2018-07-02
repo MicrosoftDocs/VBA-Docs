@@ -62,7 +62,7 @@ The following example restores the previous version of the active document.
 
 
 [DocumentLibraryVersion Object](Office.DocumentLibraryVersion.md)
-#### Other resources
+
 
 
 [DocumentLibraryVersion Object Members](./overview/documentlibraryversion-members-office.md)

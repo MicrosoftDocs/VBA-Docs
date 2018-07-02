@@ -37,7 +37,7 @@ For built-in controls, if you set the  **Enabled** property to **True**, the app
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](commandbarcombobox-members-office.md)

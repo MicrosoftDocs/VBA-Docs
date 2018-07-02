@@ -37,7 +37,7 @@ For example, the policy item might contain code to transform the document into a
 
 
 [PolicyItem Object](Office.PolicyItem.md)
-#### Other resources
+
 
 
 [PolicyItem Object Members](./overview/policyitem-members-office.md)

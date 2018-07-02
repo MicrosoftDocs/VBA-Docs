@@ -53,7 +53,7 @@ MsgBox ("There are " &amp; _
 
 
 [DocumentProperties Object](Office.DocumentProperties.md)
-#### Other resources
+
 
 
 [DocumentProperties Object Members](./overview/documentproperties-members-office.md)

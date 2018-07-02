@@ -91,7 +91,7 @@ End Sub
 
 
 [MailItem Object](Outlook.MailItem.md)
-#### Other resources
+
 
 
 

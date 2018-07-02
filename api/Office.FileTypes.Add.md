@@ -35,7 +35,7 @@ Adds a new file type to a file search.
 
 
 [FileTypes Object](Office.FileTypes.md)
-#### Other resources
+
 
 
 [FileTypes Object Members](filetypes-members-office.md)

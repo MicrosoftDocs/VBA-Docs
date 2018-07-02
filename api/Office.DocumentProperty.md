@@ -28,7 +28,7 @@ Use the Microsoft Word  **Document.BuiltinDocumentProperties**( _index_ ) proper
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [DocumentProperty Object Members](./overview/documentproperty-members-office.md)

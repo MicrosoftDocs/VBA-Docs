@@ -65,7 +65,7 @@ End Sub
 
 [Project Object](Project.Project.md)
 [Checkin Method](Project.Project.CheckIn.md)
-#### Other resources
+
 
 
 [Application.IsCheckedOut](Project.application.ischeckedout.md)

@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **PictureEffe
 
 
 [PictureEffect Object](Office.PictureEffect.md)
-#### Other resources
+
 
 
 [PictureEffect Object Members](./overview/pictureeffect-members-office.md)

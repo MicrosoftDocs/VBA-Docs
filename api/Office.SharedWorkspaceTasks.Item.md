@@ -38,7 +38,7 @@ Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shar
 
 
 [SharedWorkspaceTasks Object](Office.SharedWorkspaceTasks.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTasks Object Members](sharedworkspacetasks-members-office.md)

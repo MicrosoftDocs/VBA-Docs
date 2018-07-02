@@ -87,7 +87,7 @@ The following example displays the number of members in the active document's sh
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

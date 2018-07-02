@@ -80,7 +80,7 @@ The following example modifies the first link in the shared workspace site to po
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

@@ -46,7 +46,7 @@ public void ToggleButtonOnAction(IRibbonControl control, bool pressed)
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [IRibbonControl Object Members](./overview/iribboncontrol-members-office.md)

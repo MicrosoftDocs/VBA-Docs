@@ -27,7 +27,7 @@ Retrieves the count of the number of  **PickerProperty** objects contained withi
 
 
 [PickerProperties Object](Office.PickerProperties.md)
-#### Other resources
+
 
 
 [PickerProperties Object Members](./overview/pickerproperties-members-office.md)

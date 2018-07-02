@@ -67,7 +67,7 @@ End Sub
 
 [DocumentProperty Object](Office.DocumentProperty.md)
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [DocumentProperty Object Members](./overview/documentproperty-members-office.md)

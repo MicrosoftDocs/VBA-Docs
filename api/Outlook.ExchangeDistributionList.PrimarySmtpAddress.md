@@ -34,7 +34,7 @@ Returns an empty string if this property has not been implemented or does not ex
 
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
-#### Other resources
+
 
 
 [How to: Obtain the E-mail Address of a Recipient](../outlook/Concepts/Address-Book/obtain-the-e-mail-address-of-a-recipient.md)

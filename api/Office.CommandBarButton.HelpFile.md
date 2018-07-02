@@ -40,7 +40,7 @@ To use this property, you must also set the HelpContextID property. Help topics 
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)

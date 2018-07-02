@@ -62,7 +62,7 @@ Set cxn = cxp1.SelectSingleNode("//*[@supplierID = 1]")
 
 
 [CustomXMLParts Object](Office.CustomXMLParts.md)
-#### Other resources
+
 
 
 [CustomXMLParts Object Members](./overview/customxmlparts-members-office.md)

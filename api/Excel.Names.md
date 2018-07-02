@@ -119,7 +119,7 @@ Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on 
 <a name="AboutContributor"> </a>
 
 
-#### Other resources
+
 
 
 [Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)

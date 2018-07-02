@@ -55,7 +55,7 @@ This functionality mimics the promote button on the Microsoft Office Fluent Ribb
 
 
 [SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
+
 
 
 [SmartArtNode Object Members](./overview/smartartnode-members-office.md)

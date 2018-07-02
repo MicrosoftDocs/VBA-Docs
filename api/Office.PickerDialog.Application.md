@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [PickerDialog Object](Office.PickerDialog.md)
-#### Other resources
+
 
 
 [PickerDialog Object Members](./overview/pickerdialog-members-office.md)

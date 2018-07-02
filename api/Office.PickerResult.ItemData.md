@@ -27,7 +27,7 @@ Gets or sets a non-display purpose item binding to data. Read/write
 
 
 [PickerResult Object](Office.PickerResult.md)
-#### Other resources
+
 
 
 [PickerResult Object Members](./overview/pickerresult-members-office.md)

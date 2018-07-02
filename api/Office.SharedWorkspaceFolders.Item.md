@@ -38,7 +38,7 @@ Gets a  **SharedWorkspaceFolder** object from the **Folders** collection of the 
 
 
 [SharedWorkspaceFolders Object](Office.SharedWorkspaceFolders.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFolders Object Members](sharedworkspacefolders-members-office.md)

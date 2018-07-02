@@ -42,7 +42,7 @@ For built-in controls, if you set the  **Enabled** property to **True**, the app
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](commandbarbutton-members-office.md)

@@ -30,7 +30,7 @@ Deletes the current  **SharedWorkspaceTask** object.
 
 
 [SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTask Object Members](sharedworkspacetask-members-office.md)

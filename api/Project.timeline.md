@@ -36,7 +36,7 @@ The timeline view is used to create a high level visualization of the project pl
 <a name="properties"> </a>
 
 
-#### Other resources
+
 
 
 [Project object model](../project/Concepts/project-object-model.md)

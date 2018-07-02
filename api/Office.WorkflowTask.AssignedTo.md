@@ -32,7 +32,7 @@ String
 
 
 [WorkflowTask Object](Office.WorkflowTask.md)
-#### Other resources
+
 
 
 [WorkflowTask Object Members](./overview/workflowtask-members-office.md)

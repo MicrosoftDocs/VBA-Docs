@@ -41,7 +41,7 @@ Gets a  **CommandBarControl** object from the **CommandBarControls** collection.
 
 
 [CommandBarControls Object](Office.CommandBarControls.md)
-#### Other resources
+
 
 
 [CommandBarControls Object Members](commandbarcontrols-members-office.md)

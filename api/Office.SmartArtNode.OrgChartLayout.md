@@ -53,7 +53,7 @@ saNode.OrgChartLayout = msoOrgChartLayoutDefault
 
 
 [SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
+
 
 
 [SmartArtNode Object Members](./overview/smartartnode-members-office.md)

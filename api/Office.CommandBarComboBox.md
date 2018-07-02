@@ -58,7 +58,7 @@ Set myControl = CommandBars.FindControl _
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

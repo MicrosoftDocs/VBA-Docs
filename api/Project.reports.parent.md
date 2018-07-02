@@ -25,7 +25,7 @@ Gets the parent of the  **Reports** object. Read-only **Project**.
 
 
 [Project Object](Project.Project.md)
-#### Other resources
+
 
 
 [Reports Object](Project.reports.md)

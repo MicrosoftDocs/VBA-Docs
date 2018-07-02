@@ -41,7 +41,7 @@ The following example opens the previous saved version of the active document in
 
 
 [DocumentLibraryVersion Object](Office.DocumentLibraryVersion.md)
-#### Other resources
+
 
 
 [DocumentLibraryVersion Object Members](documentlibraryversion-members-office.md)

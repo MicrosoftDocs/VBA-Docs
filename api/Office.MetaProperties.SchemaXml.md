@@ -37,7 +37,7 @@ This property is used to return information representing various metadata proper
 
 
 [MetaProperties Object](Office.MetaProperties.md)
-#### Other resources
+
 
 
 [MetaProperties Object Members](./overview/metaproperties-members-office.md)

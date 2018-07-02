@@ -30,7 +30,7 @@ Returns an instance of a  **RevisionsFilter** object. Read-only.
 
 
 [View Object](Word.View.md)
-#### Other resources
+
 
 
 

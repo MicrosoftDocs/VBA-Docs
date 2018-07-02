@@ -29,7 +29,7 @@ The ID associated with this property is case sensitive.
 
 
 [SmartArtLayout Object](Office.SmartArtLayout.md)
-#### Other resources
+
 
 
 [SmartArtLayout Object Members](./overview/smartartlayout-members-office.md)

@@ -57,7 +57,7 @@ csCustomColor = tcsThemeColorScheme.GetCustomColor("CheerfulColor")
 
 
 [ThemeColorScheme Object](Office.ThemeColorScheme.md)
-#### Other resources
+
 
 
 [ThemeColorScheme Object Members](./overview/themecolorscheme-members-office.md)

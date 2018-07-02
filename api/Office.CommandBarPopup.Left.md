@@ -30,7 +30,7 @@ Gets the horizontal position of the specified  **CommandBarPopup** control (in p
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](commandbarpopup-members-office.md)

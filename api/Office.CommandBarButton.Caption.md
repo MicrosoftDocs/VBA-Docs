@@ -59,7 +59,7 @@ End With
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)

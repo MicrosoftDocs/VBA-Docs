@@ -64,7 +64,7 @@ The following example adds a new link to the links collection of the shared work
 
 
 [SharedWorkspaceLinks Object](Office.SharedWorkspaceLinks.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLinks Object Members](sharedworkspacelinks-members-office.md)

@@ -51,7 +51,7 @@ Set latinMinorFont = tfThemeFonts(msoThemeLatin)
 
 
 [ThemeFonts Object](Office.ThemeFonts.md)
-#### Other resources
+
 
 
 [ThemeFonts Object Members](./overview/themefonts-members-office.md)

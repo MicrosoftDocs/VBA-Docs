@@ -72,7 +72,7 @@ End Sub
 
 
 [PictureEffects Object](Office.PictureEffects.md)
-#### Other resources
+
 
 
 [PictureEffects Object Members](./overview/pictureeffects-members-office.md)

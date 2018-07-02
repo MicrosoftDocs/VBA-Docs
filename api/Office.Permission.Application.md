@@ -29,7 +29,7 @@ Object
 
 
 [Permission Object](Office.Permission.md)
-#### Other resources
+
 
 
 [Permission Object Members](./overview/permission-members-office.md)

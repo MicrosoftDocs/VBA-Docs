@@ -40,7 +40,7 @@ The description is not displayed to the user, but it can be useful for documenti
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)

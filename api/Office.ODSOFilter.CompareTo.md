@@ -56,7 +56,7 @@ End Sub
 
 
 [ODSOFilter Object](Office.ODSOFilter.md)
-#### Other resources
+
 
 
 [ODSOFilter Object Members](./overview/odsofilter-members-office.md)

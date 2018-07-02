@@ -24,7 +24,7 @@ Returns the calling object. Read-only
 
 
 [SmartArtLayout Object](Office.SmartArtLayout.md)
-#### Other resources
+
 
 
 [SmartArtLayout Object Members](./overview/smartartlayout-members-office.md)

@@ -44,7 +44,7 @@ End Sub
 
 
 [DocumentProperties Object](Office.DocumentProperties.md)
-#### Other resources
+
 
 
 [DocumentProperties Object Members](./overview/documentproperties-members-office.md)

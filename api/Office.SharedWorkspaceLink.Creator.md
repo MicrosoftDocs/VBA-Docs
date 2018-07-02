@@ -39,7 +39,7 @@ The  **Creator** property always returns the numeric identifier for the active a
 
 
 [SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLink Object Members](./overview/sharedworkspacelink-members-office.md)

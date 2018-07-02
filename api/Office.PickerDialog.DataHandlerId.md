@@ -60,7 +60,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 [PickerDialog Object](Office.PickerDialog.md)
-#### Other resources
+
 
 
 [PickerDialog Object Members](./overview/pickerdialog-members-office.md)

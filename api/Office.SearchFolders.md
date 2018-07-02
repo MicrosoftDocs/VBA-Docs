@@ -46,7 +46,7 @@ You can use the  **Add** method of the **SearchFolders** collection to add a **S
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

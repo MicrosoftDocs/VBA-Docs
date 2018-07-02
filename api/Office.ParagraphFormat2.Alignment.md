@@ -29,7 +29,7 @@ MsoParagraphAlignment
 
 
 [ParagraphFormat2 Object](Office.ParagraphFormat2.md)
-#### Other resources
+
 
 
 [ParagraphFormat2 Object Members](./overview/paragraphformat2-members-office.md)

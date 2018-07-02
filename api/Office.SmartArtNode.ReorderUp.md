@@ -44,7 +44,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes(2).ReorderUp
 
 
 [SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
+
 
 
 [SmartArtNode Object Members](./overview/smartartnode-members-office.md)

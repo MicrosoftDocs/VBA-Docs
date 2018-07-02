@@ -40,7 +40,7 @@ The description is not displayed to the user, but it can be useful for documenti
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

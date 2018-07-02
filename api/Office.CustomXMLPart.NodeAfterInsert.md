@@ -48,7 +48,7 @@ End Sub
 
 
 [CustomXMLPart Object](Office.CustomXMLPart.md)
-#### Other resources
+
 
 
 [CustomXMLPart Object Members](./overview/customxmlpart-members-office.md)

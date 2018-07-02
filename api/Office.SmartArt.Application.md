@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [SmartArt Object](Office.SmartArt.md)
-#### Other resources
+
 
 
 [SmartArt Object Members](./overview/smartart-members-office.md)

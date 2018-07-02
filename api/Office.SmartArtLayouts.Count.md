@@ -24,7 +24,7 @@ Retrieves the count of the number of  **SmartArtLayout** objects contained withi
 
 
 [SmartArtLayouts Object](Office.SmartArtLayouts.md)
-#### Other resources
+
 
 
 [SmartArtLayouts Object Members](./overview/smartartlayouts-members-office.md)

@@ -81,7 +81,7 @@ The following example adds a new task to the tasks collection of the shared work
 
 
 [SharedWorkspaceTasks Object](Office.SharedWorkspaceTasks.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTasks Object Members](sharedworkspacetasks-members-office.md)

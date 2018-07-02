@@ -60,7 +60,7 @@ The following example updates the server copy of the document from the local cop
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](./overview/sync-members-office.md)

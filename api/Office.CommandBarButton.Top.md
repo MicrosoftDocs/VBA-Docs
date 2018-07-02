@@ -30,7 +30,7 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarBu
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](commandbarbutton-members-office.md)

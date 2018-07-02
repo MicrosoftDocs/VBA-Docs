@@ -35,7 +35,7 @@ Long
 
 
 [CommandBarControls Object](Office.CommandBarControls.md)
-#### Other resources
+
 
 
 [CommandBarControls Object Members](./overview/commandbarcontrols-members-office.md)

@@ -30,7 +30,7 @@ Gets the horizontal position of the  **CommandBarComboBox** control (in pixels) 
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](commandbarcombobox-members-office.md)

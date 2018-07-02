@@ -38,7 +38,7 @@ Gets a  **SharedWorkspaceLink** object from the **Links** collection of the shar
 
 
 [SharedWorkspaceLinks Object](Office.SharedWorkspaceLinks.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLinks Object Members](sharedworkspacelinks-members-office.md)

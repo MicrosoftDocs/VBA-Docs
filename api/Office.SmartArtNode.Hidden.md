@@ -24,7 +24,7 @@ Returns  **true** if this node is a hidden node in the data model. Read-only
 
 
 [SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
+
 
 
 [SmartArtNode Object Members](./overview/smartartnode-members-office.md)

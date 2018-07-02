@@ -72,7 +72,7 @@ private void CTP_VisibleStateChange(object sender, string visiblestateArgs)
 
 
 [CustomTaskPane Object](Office.CustomTaskPane.md)
-#### Other resources
+
 
 
 [CustomTaskPane Object Members](./overview/customtaskpane-members-office.md)

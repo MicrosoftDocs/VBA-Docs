@@ -42,7 +42,7 @@ Furthermore, once the  **ItemCountExceeded** property returns **True** for one o
 
 
 [SharedWorkspaceMembers Object](Office.SharedWorkspaceMembers.md)
-#### Other resources
+
 
 
 [SharedWorkspaceMembers Object Members](./overview/sharedworkspacemembers-members-office.md)

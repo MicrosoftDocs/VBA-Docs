@@ -66,7 +66,7 @@ The following example lists the links in a shared workspace site that were modif
 
 
 [SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLink Object Members](./overview/sharedworkspacelink-members-office.md)

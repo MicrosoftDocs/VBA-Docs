@@ -64,7 +64,7 @@ The following example lists the files in a shared workspace site that were last 
 
 
 [SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)

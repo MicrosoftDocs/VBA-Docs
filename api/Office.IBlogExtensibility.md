@@ -34,7 +34,7 @@ An object that provides the ability to manipulate blog entries.
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

@@ -30,7 +30,7 @@ Pastes a copy of a report or a shape, where the copy is a picture.
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [PasteSourceFormatting Method](Project.application.pastesourceformatting.md)

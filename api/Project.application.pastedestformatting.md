@@ -30,7 +30,7 @@ Pastes a copy of a report or a shape, where the copy is formatted in the default
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [CopyReport Method](Project.application.copyreport.md)

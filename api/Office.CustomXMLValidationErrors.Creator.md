@@ -29,7 +29,7 @@ Long
 
 
 [CustomXMLValidationErrors Object](Office.CustomXMLValidationErrors.md)
-#### Other resources
+
 
 
 [CustomXMLValidationErrors Object Members](./overview/customxmlvalidationerrors-members-office.md)

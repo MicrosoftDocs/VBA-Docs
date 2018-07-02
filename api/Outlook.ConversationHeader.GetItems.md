@@ -39,7 +39,7 @@ If no conversation items exist in the same folder as the conversation header,  *
 
 
 [ConversationHeader Object](Outlook.ConversationHeader.md)
-#### Other resources
+
 
 
 [How to: Obtain and Enumerate Selected Conversations](../outlook/Concepts/Categories-and-Conversations/obtain-and-enumerate-selected-conversations.md)

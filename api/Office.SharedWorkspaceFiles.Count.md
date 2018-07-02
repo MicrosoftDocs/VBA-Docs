@@ -35,7 +35,7 @@ Long
 
 
 [SharedWorkspaceFiles Object](Office.SharedWorkspaceFiles.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFiles Object Members](./overview/sharedworkspacefiles-members-office.md)

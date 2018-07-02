@@ -37,7 +37,7 @@ For built-in controls, if you set the  **Enabled** property to **True**, the app
 
 
 [CommandBarControl Object](Office.CommandBarControl.md)
-#### Other resources
+
 
 
 [CommandBarControl Object Members](commandbarcontrol-members-office.md)

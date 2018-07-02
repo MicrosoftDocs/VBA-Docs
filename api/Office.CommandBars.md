@@ -57,7 +57,7 @@ CommandBars("Custom1").Position = msoBarBottom
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [CommandBars Object Members](./overview/commandbars-members-office.md)

@@ -35,7 +35,7 @@ CommandBar
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

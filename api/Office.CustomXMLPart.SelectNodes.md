@@ -61,7 +61,7 @@ Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")
 
 
 [CustomXMLPart Object](Office.CustomXMLPart.md)
-#### Other resources
+
 
 
 [CustomXMLPart Object Members](./overview/customxmlpart-members-office.md)

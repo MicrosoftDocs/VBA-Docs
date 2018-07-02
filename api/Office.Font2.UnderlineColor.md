@@ -29,7 +29,7 @@ ColorFormat
 
 
 [Font2 Object](Office.Font2.md)
-#### Other resources
+
 
 
 [Font2 Object Members](./overview/font2-members-office.md)

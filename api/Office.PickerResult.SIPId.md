@@ -27,7 +27,7 @@ Is the identifier for Office Communication Server. It's used only for people pic
 
 
 [PickerResult Object](Office.PickerResult.md)
-#### Other resources
+
 
 
 [PickerResult Object Members](./overview/pickerresult-members-office.md)

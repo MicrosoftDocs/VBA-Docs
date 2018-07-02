@@ -55,7 +55,7 @@ The following example adds a new folder to the folders collection of the shared 
 
 
 [SharedWorkspaceFolders Object](Office.SharedWorkspaceFolders.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFolders Object Members](sharedworkspacefolders-members-office.md)

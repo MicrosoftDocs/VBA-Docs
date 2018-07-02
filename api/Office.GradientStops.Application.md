@@ -34,7 +34,7 @@ You can use this property with an OLE Automation object to return the applicatio
 
 
 [GradientStops Object](Office.GradientStops.md)
-#### Other resources
+
 
 
 [GradientStops Object Members](./overview/gradientstops-members-office.md)

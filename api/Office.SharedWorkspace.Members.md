@@ -47,7 +47,7 @@ Dim swsMembers As Office.SharedWorkspaceMembers
 
 
 [SharedWorkspace Object](Office.SharedWorkspace.md)
-#### Other resources
+
 
 
 [SharedWorkspace Object Members](./overview/sharedworkspace-members-office.md)

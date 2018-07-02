@@ -34,7 +34,7 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 
 [RemoteItemObject](Outlook.RemoteItem.md)
-#### Other resources
+
 
 
 

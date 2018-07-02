@@ -71,7 +71,7 @@ End Function
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [SignatureSet Object Members](./overview/signatureset-members-office.md)

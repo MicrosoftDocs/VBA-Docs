@@ -32,7 +32,7 @@ String
 
 
 [IRibbonControl Object](Office.IRibbonControl.md)
-#### Other resources
+
 
 
 [IRibbonControl Object Members](./overview/iribboncontrol-members-office.md)

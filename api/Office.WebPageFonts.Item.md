@@ -48,7 +48,7 @@ Set myFont = _
 
 
 [WebPageFonts Object](Office.WebPageFonts.md)
-#### Other resources
+
 
 
 [WebPageFonts Object Members](webpagefonts-members-office.md)

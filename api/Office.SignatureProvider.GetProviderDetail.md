@@ -84,7 +84,7 @@ The following example, written in C#, shows the implementation of the  **GetProv
 
 
 [SignatureProvider Object](Office.SignatureProvider.md)
-#### Other resources
+
 
 
 [SignatureProvider Object Members](./overview/signatureprovider-members-office.md)

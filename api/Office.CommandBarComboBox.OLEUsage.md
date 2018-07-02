@@ -42,7 +42,7 @@ If one of the merging applications isn't an Office application, normal OLE menu 
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

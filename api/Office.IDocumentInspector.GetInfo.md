@@ -41,7 +41,7 @@ Gets information about a custom Document Inspector module.
 
 
 [IDocumentInspector Object](Office.IDocumentInspector.md)
-#### Other resources
+
 
 
 [IDocumentInspector Object Members](./overview/idocumentinspector-members-office.md)

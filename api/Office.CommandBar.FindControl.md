@@ -55,7 +55,7 @@ If the  **CommandBars** collection contains two or more controls that fit the se
 
 
 [CommandBar Object](Office.CommandBar.md)
-#### Other resources
+
 
 
 [CommandBar Object Members](./overview/commandbar-members-office.md)

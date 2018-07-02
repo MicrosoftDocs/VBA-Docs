@@ -39,7 +39,7 @@ Called from the  **Choose Account** dialog when the provider's name is chosen in
 
 
 [IBlogExtensibility Object](Office.IBlogExtensibility.md)
-#### Other resources
+
 
 
 [IBlogExtensibility Object Members](./overview/iblogextensibility-members-office.md)

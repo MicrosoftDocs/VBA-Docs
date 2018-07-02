@@ -40,7 +40,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 [IConverterApplicationPreferences Object](Office.IConverterApplicationPreferences.md)
-#### Other resources
+
 
 
 [IConverterApplicationPreferences Object Members](./overview/iconverterapplicationpreferences-members-office.md)

@@ -53,7 +53,7 @@ The following example extracts the domain name from the  **DomainName** property
 
 
 [SharedWorkspaceMember Object](Office.SharedWorkspaceMember.md)
-#### Other resources
+
 
 
 [SharedWorkspaceMember Object Members](sharedworkspacemember-members-office.md)

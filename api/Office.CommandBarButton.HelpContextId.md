@@ -40,7 +40,7 @@ To use this property, you must also set the HelpFile property. Help topics respo
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)

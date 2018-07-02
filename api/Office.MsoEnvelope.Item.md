@@ -60,7 +60,7 @@ End Sub
 
 
 [MsoEnvelope Object](Office.MsoEnvelope.md)
-#### Other resources
+
 
 
 [MsoEnvelope Object Members](msoenvelope-members-office.md)

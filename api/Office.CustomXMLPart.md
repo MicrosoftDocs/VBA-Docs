@@ -35,7 +35,7 @@ End Sub
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [CustomXMLPart Object Members](./overview/customxmlpart-members-office.md)

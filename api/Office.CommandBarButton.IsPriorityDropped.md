@@ -58,7 +58,7 @@ You can use the following table to predict the number of sessions for which a me
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)

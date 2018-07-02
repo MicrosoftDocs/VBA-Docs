@@ -57,7 +57,7 @@ The following example displays the number of subfolders in the shared workspace 
 
 
 [SharedWorkspaceFolder Object](Office.SharedWorkspaceFolder.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFolder Object Members](./overview/sharedworkspacefolder-members-office.md)

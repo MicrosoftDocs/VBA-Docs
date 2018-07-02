@@ -121,7 +121,7 @@ Selected task ID 4, name: T4
 
 
 [Task Object](Project.Task.md)
-#### Other resources
+
 
 
 [PathDrivenSuccessor Property](Project.task.pathdrivensuccessor.md)

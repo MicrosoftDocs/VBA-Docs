@@ -70,7 +70,7 @@ The following example uses the bitwise  **And** operator with the **Permission**
 
 
 [UserPermission Object](Office.UserPermission.md)
-#### Other resources
+
 
 
 [UserPermission Object Members](./overview/userpermission-members-office.md)

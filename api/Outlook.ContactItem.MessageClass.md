@@ -32,7 +32,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 
 
 [ContactItem Object](Outlook.ContactItem.md)
-#### Other resources
+
 
 
 

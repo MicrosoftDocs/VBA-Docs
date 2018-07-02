@@ -198,7 +198,7 @@ These are some examples of properties being referenced by different DAV namespac
 ## See also
 
 
-#### Other resources
+
 
 
  [MAPI Property Tags](../../../api/overview/Outlook.md)<br>

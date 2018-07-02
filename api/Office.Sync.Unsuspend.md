@@ -55,7 +55,7 @@ The following example resumes document synchronization if it has been suspended.
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](./overview/sync-members-office.md)

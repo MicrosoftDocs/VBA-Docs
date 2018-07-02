@@ -29,7 +29,7 @@ String
 
 
 [CustomXMLPrefixMapping Object](Office.CustomXMLPrefixMapping.md)
-#### Other resources
+
 
 
 [CustomXMLPrefixMapping Object Members](./overview/customxmlprefixmapping-members-office.md)

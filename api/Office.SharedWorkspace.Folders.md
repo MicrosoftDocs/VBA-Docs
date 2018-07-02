@@ -52,7 +52,7 @@ The following example lists the subfolders in the current shared workspace.
 
 
 [SharedWorkspace Object](Office.SharedWorkspace.md)
-#### Other resources
+
 
 
 [SharedWorkspace Object Members](./overview/sharedworkspace-members-office.md)

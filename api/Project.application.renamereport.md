@@ -35,7 +35,7 @@ If you rename a built-in report, the report is copied to a new custom report.
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [Report Object](Project.report.md)

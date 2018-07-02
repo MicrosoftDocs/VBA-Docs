@@ -24,7 +24,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 
 [SmartArtColor Object](Office.SmartArtColor.md)
-#### Other resources
+
 
 
 [SmartArtColor Object Members](./overview/smartartcolor-members-office.md)

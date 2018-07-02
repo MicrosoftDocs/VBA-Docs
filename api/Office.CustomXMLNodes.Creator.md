@@ -29,7 +29,7 @@ Long
 
 
 [CustomXMLNodes Object](Office.CustomXMLNodes.md)
-#### Other resources
+
 
 
 [CustomXMLNodes Object Members](./overview/customxmlnodes-members-office.md)

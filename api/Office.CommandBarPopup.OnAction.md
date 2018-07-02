@@ -40,7 +40,7 @@ The container application determines whether the value is a valid macro name.
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)

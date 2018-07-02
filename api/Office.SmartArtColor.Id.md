@@ -29,7 +29,7 @@ The ID associated with this property is case sensitive.
 
 
 [SmartArtColor Object](Office.SmartArtColor.md)
-#### Other resources
+
 
 
 [SmartArtColor Object Members](./overview/smartartcolor-members-office.md)

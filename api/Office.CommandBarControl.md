@@ -47,7 +47,7 @@ End If
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [CommandBarControl Object Members](./overview/commandbarcontrol-members-office.md)

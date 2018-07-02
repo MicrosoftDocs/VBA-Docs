@@ -59,7 +59,7 @@ End Sub
 
 
 [UndoRecord Object](Word.UndoRecord.md)
-#### Other resources
+
 
 
 [Working with the UndoRecord Object](../word/Concepts/Working-with-Word/working-with-the-undorecord-object.md)

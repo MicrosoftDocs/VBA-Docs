@@ -34,7 +34,7 @@ If a paragraph begins with a bullet, the bullet position is determined by the  *
 
 
 [RulerLevel2 Object](Office.RulerLevel2.md)
-#### Other resources
+
 
 
 [RulerLevel2 Object Members](./overview/rulerlevel2-members-office.md)

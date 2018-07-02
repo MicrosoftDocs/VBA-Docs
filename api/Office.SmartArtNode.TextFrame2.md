@@ -34,7 +34,7 @@ smartart.AllNodes(1).TextFrame2.TextRange.Text="Node 1"
 
 
 [SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
+
 
 
 [SmartArtNode Object Members](./overview/smartartnode-members-office.md)

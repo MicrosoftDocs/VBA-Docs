@@ -35,7 +35,7 @@ Retrieves a  **PickerProperty** object at the specified index. Read-only
 
 
 [PickerProperties Object](Office.PickerProperties.md)
-#### Other resources
+
 
 
 [PickerProperties Object Members](./overview/pickerproperties-members-office.md)

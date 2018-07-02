@@ -42,7 +42,7 @@ ActiveDocument.CustomDocumentProperties("CustomNumber").Delete
 
 
 [DocumentProperty Object](Office.DocumentProperty.md)
-#### Other resources
+
 
 
 [DocumentProperty Object Members](documentproperty-members-office.md)

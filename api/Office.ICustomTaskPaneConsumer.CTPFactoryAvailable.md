@@ -59,7 +59,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 [ICustomTaskPaneConsumer Object](Office.ICustomTaskPaneConsumer.md)
-#### Other resources
+
 
 
 [ICustomTaskPaneConsumer Object Members](./overview/icustomtaskpaneconsumer-members-office.md)

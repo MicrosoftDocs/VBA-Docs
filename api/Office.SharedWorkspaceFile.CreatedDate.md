@@ -60,7 +60,7 @@ The following example returns a list of shared workspace files whose date and ti
 
 
 [SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)

@@ -37,7 +37,7 @@ If a report is not active, the  **SetLTRTable** method displays a dialog box wit
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [SetRTLTable](Project.application.setrtltable.md)

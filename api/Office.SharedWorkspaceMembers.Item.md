@@ -38,7 +38,7 @@ Gets a  **SharedWorkspaceMember** object from the Members collection of the shar
 
 
 [SharedWorkspaceMembers Object](Office.SharedWorkspaceMembers.md)
-#### Other resources
+
 
 
 [SharedWorkspaceMembers Object Members](sharedworkspacemembers-members-office.md)

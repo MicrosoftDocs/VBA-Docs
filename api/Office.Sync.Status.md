@@ -107,7 +107,7 @@ The following example examines the  **Status** property and takes an appropriate
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](sync-members-office.md)

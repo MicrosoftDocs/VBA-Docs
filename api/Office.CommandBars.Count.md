@@ -32,7 +32,7 @@ Integer
 
 
 [CommandBars Object](Office.CommandBars.md)
-#### Other resources
+
 
 
 [CommandBars Object Members](./overview/commandbars-members-office.md)

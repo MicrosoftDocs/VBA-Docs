@@ -32,7 +32,7 @@ String
 
 
 [SignatureSetup Object](Office.SignatureSetup.md)
-#### Other resources
+
 
 
 [SignatureSetup Object Members](./overview/signaturesetup-members-office.md)

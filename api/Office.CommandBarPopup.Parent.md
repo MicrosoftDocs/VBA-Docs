@@ -35,7 +35,7 @@ CommandBar
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)

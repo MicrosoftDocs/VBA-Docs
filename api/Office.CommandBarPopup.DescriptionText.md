@@ -40,7 +40,7 @@ The description is not displayed to the user, but it can be useful for documenti
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)

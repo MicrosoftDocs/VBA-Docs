@@ -37,7 +37,7 @@ GradientStop
 
 
 [GradientStops Object](Office.GradientStops.md)
-#### Other resources
+
 
 
 [GradientStops Object Members](./overview/gradientstops-members-office.md)

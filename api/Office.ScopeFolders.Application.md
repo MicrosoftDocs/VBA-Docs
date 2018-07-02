@@ -29,7 +29,7 @@ Object
 
 
 [ScopeFolders Object](Office.ScopeFolders.md)
-#### Other resources
+
 
 
 [ScopeFolders Object Members](./overview/scopefolders-members-office.md)

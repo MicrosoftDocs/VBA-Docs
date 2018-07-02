@@ -37,7 +37,7 @@ Represents the interface through which the methods of a  **IDocumentInspector** 
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

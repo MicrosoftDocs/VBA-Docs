@@ -30,7 +30,7 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarPo
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](commandbarpopup-members-office.md)

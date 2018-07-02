@@ -30,7 +30,7 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarCo
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](commandbarcombobox-members-office.md)

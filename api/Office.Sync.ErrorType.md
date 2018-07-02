@@ -40,7 +40,7 @@ Use the  **ErrorType** property to determine the type of the most recent documen
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](sync-members-office.md)

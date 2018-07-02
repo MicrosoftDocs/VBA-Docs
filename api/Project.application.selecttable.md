@@ -37,7 +37,7 @@ If the active view is not a report, the  **SelectTable** method displays a dialo
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [ReportTable Object](Project.reporttable.md)

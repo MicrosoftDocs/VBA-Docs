@@ -38,7 +38,7 @@ Deletes the  **CommandBarButton** object from its collection.
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](commandbarbutton-members-office.md)

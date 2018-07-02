@@ -42,7 +42,7 @@ The arguments supplied to the  **Remove** method must match the arguments that w
 
 
 [NewFile Object](Office.NewFile.md)
-#### Other resources
+
 
 
 [NewFile Object Members](newfile-members-office.md)

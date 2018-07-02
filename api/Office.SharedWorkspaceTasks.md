@@ -60,7 +60,7 @@ Use the  **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedW
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

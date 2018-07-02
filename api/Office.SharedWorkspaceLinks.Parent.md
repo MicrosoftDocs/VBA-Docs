@@ -35,7 +35,7 @@ Object
 
 
 [SharedWorkspaceLinks Object](Office.SharedWorkspaceLinks.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLinks Object Members](./overview/sharedworkspacelinks-members-office.md)

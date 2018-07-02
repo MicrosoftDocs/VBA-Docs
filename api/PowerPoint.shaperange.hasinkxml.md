@@ -40,7 +40,7 @@ The value of the this property can be one of these  **MsoTriState** constants.
 
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
-#### Other resources
+
 
 
 [MsoTriState](./Office.MsoTriState.md)

@@ -59,7 +59,7 @@ The following example lists files in the shared workspace site that were created
 
 
 [SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)

@@ -40,7 +40,7 @@ MsgBox "The description of this " &amp; _
 
 
 [COMAddIn Object](Office.COMAddIn.md)
-#### Other resources
+
 
 
 [COMAddIn Object Members](comaddin-members-office.md)

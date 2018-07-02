@@ -69,7 +69,7 @@ The following example gets the hash value of a data stream.
 
 
 [SignatureProvider Object](Office.SignatureProvider.md)
-#### Other resources
+
 
 
 [SignatureProvider Object Members](./overview/signatureprovider-members-office.md)

@@ -31,7 +31,7 @@ Represents the field definitions of sub-items in a  **PickerResult** object. Eac
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

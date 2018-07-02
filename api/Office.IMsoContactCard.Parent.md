@@ -27,7 +27,7 @@ Returns the calling object. Read-only
 
 
 [IMsoContactCard Object](Office.IMsoContactCard.md)
-#### Other resources
+
 
 
 [IMsoContactCard Object Members](./overview/imsocontactcard-members-office.md)

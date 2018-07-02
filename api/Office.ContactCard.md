@@ -42,7 +42,7 @@ You can create a new instance of a  **ContactCard** object by calling the Micros
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

@@ -51,7 +51,7 @@ The following example removes the second user's permissions on the active docume
 
 
 [UserPermission Object](Office.UserPermission.md)
-#### Other resources
+
 
 
 [UserPermission Object Members](userpermission-members-office.md)

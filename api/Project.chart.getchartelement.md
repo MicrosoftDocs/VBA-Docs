@@ -144,7 +144,7 @@ End Sub
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
 
 
-#### Other resources
+
 
 
 [Chart Object](Project.chart.md)

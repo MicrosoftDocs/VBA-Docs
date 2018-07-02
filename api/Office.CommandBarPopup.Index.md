@@ -40,7 +40,7 @@ The position of the first command bar control is 1. Separators are not counted i
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)

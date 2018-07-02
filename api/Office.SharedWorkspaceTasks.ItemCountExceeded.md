@@ -45,7 +45,7 @@ Furthermore, once the  **ItemCountExceeded** property returns **True** for one o
 
 
 [SharedWorkspaceTasks Object](Office.SharedWorkspaceTasks.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTasks Object Members](./overview/sharedworkspacetasks-members-office.md)

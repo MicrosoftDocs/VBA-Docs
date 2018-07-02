@@ -72,7 +72,7 @@ The following example attempts to resolve a conflict by merging changes between 
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](./overview/sync-members-office.md)

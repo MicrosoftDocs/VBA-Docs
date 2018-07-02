@@ -43,7 +43,7 @@ Use the Save method to upload changes to the server after changing the propertie
 
 
 [SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLink Object Members](./overview/sharedworkspacelink-members-office.md)

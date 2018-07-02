@@ -62,7 +62,7 @@ Next
 
 
 [PickerResults Object](Office.PickerResults.md)
-#### Other resources
+
 
 
 [PickerResults Object Members](./overview/pickerresults-members-office.md)

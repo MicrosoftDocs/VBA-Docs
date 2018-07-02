@@ -45,7 +45,7 @@ Each filter in a list is made up of two parts: the file name extension (that is,
 
 
 [FileDialogFilters Object](Office.FileDialogFilters.md)
-#### Other resources
+
 
 
 [FileDialogFilters Object Members](./overview/filedialogfilters-members-office.md)

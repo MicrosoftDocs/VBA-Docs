@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **IMsoContact
 
 
 [IMsoContactCard Object](Office.IMsoContactCard.md)
-#### Other resources
+
 
 
 [IMsoContactCard Object Members](./overview/imsocontactcard-members-office.md)

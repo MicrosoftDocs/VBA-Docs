@@ -47,7 +47,7 @@ ctlAutoSum.Execute
 
 
 [CommandBarControl Object](Office.CommandBarControl.md)
-#### Other resources
+
 
 
 [CommandBarControl Object Members](commandbarcontrol-members-office.md)

@@ -30,7 +30,7 @@ Gets the type of  **CommandBarPopup** control. Read-only.
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](commandbarpopup-members-office.md)

@@ -30,7 +30,7 @@ Gets the type of  **CommandBarComboBox** control. Read-only.
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](commandbarcombobox-members-office.md)

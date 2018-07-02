@@ -30,7 +30,7 @@ Deletes the current  **SharedWorkspaceFile** object.
 
 
 [SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFile Object Members](sharedworkspacefile-members-office.md)

@@ -39,7 +39,7 @@ Contains information about the provider.
 
 
 [IBlogExtensibility Object](Office.IBlogExtensibility.md)
-#### Other resources
+
 
 
 [IBlogExtensibility Object Members](./overview/iblogextensibility-members-office.md)

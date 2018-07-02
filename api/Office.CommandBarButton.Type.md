@@ -30,7 +30,7 @@ Gets the type of  **CommandBarButton** control. Read-only.
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](commandbarbutton-members-office.md)

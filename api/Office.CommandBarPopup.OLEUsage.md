@@ -42,7 +42,7 @@ If one of the merging applications is not an Office application, normal OLE menu
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)

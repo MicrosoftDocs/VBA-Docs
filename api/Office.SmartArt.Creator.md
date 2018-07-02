@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArt** 
 
 
 [SmartArt Object](Office.SmartArt.md)
-#### Other resources
+
 
 
 [SmartArt Object Members](./overview/smartart-members-office.md)

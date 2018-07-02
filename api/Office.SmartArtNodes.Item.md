@@ -37,7 +37,7 @@ SmartArtNode
 
 
 [SmartArtNodes Object](Office.SmartArtNodes.md)
-#### Other resources
+
 
 
 [SmartArtNodes Object Members](./overview/smartartnodes-members-office.md)

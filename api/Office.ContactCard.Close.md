@@ -34,7 +34,7 @@ You can close a contact card either in the user interface or programmatically by
 
 
 [ContactCard Object](Office.ContactCard.md)
-#### Other resources
+
 
 
 [ContactCard Object Members](./overview/contactcard-members-office.md)

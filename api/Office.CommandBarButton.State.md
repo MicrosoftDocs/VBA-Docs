@@ -70,7 +70,7 @@ This example creates a command bar named "Custom" and adds two buttons to it. Th
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](commandbarbutton-members-office.md)

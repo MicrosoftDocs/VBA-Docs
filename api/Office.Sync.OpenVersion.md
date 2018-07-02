@@ -66,7 +66,7 @@ The following example prompts the user to open the server copy of the shared doc
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](./overview/sync-members-office.md)

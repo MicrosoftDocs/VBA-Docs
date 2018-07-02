@@ -48,7 +48,7 @@ MsoDocInspectorStatus members
 
 
 [IDocumentInspector Object](Office.IDocumentInspector.md)
-#### Other resources
+
 
 
 [IDocumentInspector Object Members](./overview/idocumentinspector-members-office.md)

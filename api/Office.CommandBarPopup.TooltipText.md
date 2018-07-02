@@ -40,7 +40,7 @@ By default, the value of the  **Caption** property is used as the **ScreenTip**.
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)

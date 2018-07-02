@@ -40,7 +40,7 @@ MetaProperty
 
 
 [MetaProperties Object](Office.MetaProperties.md)
-#### Other resources
+
 
 
 [MetaProperties Object Members](./overview/metaproperties-members-office.md)

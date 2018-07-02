@@ -56,7 +56,7 @@ Application.HighlightSuccessors True
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [Task.PathSuccessor Property](Project.task.pathsuccessor.md)

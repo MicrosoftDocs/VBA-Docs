@@ -45,7 +45,7 @@ This method allows you to query the  **EncryptionProvider** object for informati
 
 
 [EncryptionProvider Object](Office.EncryptionProvider.md)
-#### Other resources
+
 
 
 [EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)

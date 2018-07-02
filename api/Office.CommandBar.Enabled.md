@@ -40,7 +40,7 @@ For built-in controls, if you set the  **Enabled** property to **True**, the app
 
 
 [CommandBar Object](Office.CommandBar.md)
-#### Other resources
+
 
 
 [CommandBar Object Members](commandbar-members-office.md)
