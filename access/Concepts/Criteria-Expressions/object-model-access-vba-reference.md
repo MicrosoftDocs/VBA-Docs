@@ -1,12 +1,12 @@
 ---
-title: Object model (Access VBA reference)
+title: Object model (Access)
 ms.prod: access
 ms.assetid: 2de134a4-6c5c-d2a3-8377-f4dd973ba650
 ms.date: 06/08/2017
 ---
 
 
-# Object model (Access VBA reference)
+# Object model (Access)
 
 This section of the Access VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Access object model.
 

@@ -1,12 +1,12 @@
 ---
-title: Object model (Excel VBA reference)
+title: Object model (Excel)
 ms.prod: excel
 ms.assetid: 11ea8598-8a20-92d5-f98b-0da04263bf2c
 ms.date: 06/08/2017
 ---
 
 
-# Object model (Excel VBA reference)
+# Object model (Excel)
 
 This section of the Excel VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Excel object model.
 

@@ -1,12 +1,12 @@
 ---
-title: Object model (Publisher VBA reference)
+title: Object model (Publisher)
 ms.prod: publisher
 ms.assetid: 18165c2b-0a00-4809-9cd0-5098261e5a67
 ms.date: 06/08/2017
 ---
 
 
-# Object model (Publisher VBA reference)
+# Object model (Publisher)
 
 This section of the Publisher VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Publisher object model.
 

@@ -3,7 +3,8 @@
 
 This reference contains conceptual overviews, programming tasks, samples, and references to help you develop Outlook solutions.
 
- >**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](http://dev.office.com/docs/add-ins/overview/office-add-ins).
+> [!NOTE] 
+> Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](http://dev.office.com/docs/add-ins/overview/office-add-ins).
 
 This documentation contains the following information:
 
@@ -17,5 +18,6 @@ This documentation contains the following information:
     
 - **Reference**: Provides reference materials for the Outlook object model.
 
- **Note**  The Outlook Forms Script reference includes documentation for the more commonly used objects, controls, and members in Outlook forms. For more information, you can refer to the Microsoft Forms Visual Basic reference, which you can find in the  [Visual Basic for Applications language reference](https://github.com/OfficeDev/VBA-content/tree/master/VBA/Language-Reference-VBA).
+> [!NOTE] 
+> The Outlook Forms Script reference includes documentation for the more commonly used objects, controls, and members in Outlook forms. For more information, you can refer to the Microsoft Forms Visual Basic reference, which you can find in the  [Visual Basic for Applications language reference](https://github.com/OfficeDev/VBA-content/tree/master/VBA/Language-Reference-VBA).
 

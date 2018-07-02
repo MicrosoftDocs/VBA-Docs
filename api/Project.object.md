@@ -1,12 +1,12 @@
 ---
-title: Object model (Project VBA reference)
+title: Object model (Project)
 ms.prod: project-server
 ms.assetid: d41f2ada-ddda-44bf-9497-6e96c1ca8b07
 ms.date: 06/08/2017
 ---
 
 
-# Object model (Project VBA reference)
+# Object model (Project)
 
 This section of the Project VBA Reference contains documentation for all the objects, properties, methods, and events contained in the Project object model.
 
