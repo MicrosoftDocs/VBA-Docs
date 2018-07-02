@@ -18,7 +18,7 @@ Applies data labels to a series.
 
 ## Syntax
 
- _expression_. `ApplyDataLabels`(`Type`, `LegendKey`, `AutoText`, `HasLeaderLines`, `ShowSeriesName`, `ShowCategoryName`, `ShowValue`, `ShowPercentage`, `ShowBubbleSize`, `Separator` )
+ _expression_. `ApplyDataLabels`(`Type`, `LegendKey`, `AutoText`, `HasLeaderLines`, `ShowSeriesName`, `ShowCategoryName`, `ShowValue`, `ShowPercentage`, `ShowBubbleSize`, `Separator`)
 
  _expression_ A variable that represents a [Series](PowerPoint.Series.md) object.
 

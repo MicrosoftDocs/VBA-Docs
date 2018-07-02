@@ -10,19 +10,13 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[Syntax](#syntax)
-[Remarks](#remarks)
-[Example](#example)
-
 Specifies the tables or queries that contain the fields listed in the [SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement.
 
 ## Syntax
+
 SELECT  _fieldlist_ FROM _tableexpression_ [IN _externaldatabase_ ]
 
 A SELECT statement containing a FROM clause has these parts:
-
-
 
 |**Part**|**Description**|
 |:-----|:-----|
@@ -52,8 +46,6 @@ Some of the following examples assume the existence of a hypothetical Salary fie
 
 This example creates a dynaset-type  **Recordset** based on an SQL statement that selects the LastName and FirstName fields of all records in the Employees table. It calls the EnumFields procedure, which prints the contents of a **Recordset** object to the **Debug** window.
 
-
-
 ```vb
 Sub SelectX1() 
  
@@ -80,9 +72,9 @@ Sub SelectX1()
 End Sub
 ```
 
+<br/>
+
 This example counts the number of records that have an entry in the PostalCode field and names the returned field Tally.
-
-
 
 ```vb
 Sub SelectX2() 
@@ -109,6 +101,8 @@ Sub SelectX2()
  
 End Sub
 ```
+
+<br/>
 
 This example shows the number of employees and the average and maximum salaries.
 
@@ -141,9 +135,9 @@ Sub SelectX3()
 End Sub
 ```
 
+<br/>
+
 The **Sub** procedure EnumFields is passed a **Recordset** object from the calling procedure. The procedure then formats and prints the fields of the **Recordset** to the **Debug** window. The variable is the desired printed field width. Some fields may be truncated.
-
-
 
 ```vb
 Sub EnumFields(rst As Recordset, intFldLen As Integer) 
@@ -218,11 +212,12 @@ End Sub
 ```
 
 ## See also
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
-[Search for specific Access error codes on Bing](http://www.bing.com/)
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](http://www.bing.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)

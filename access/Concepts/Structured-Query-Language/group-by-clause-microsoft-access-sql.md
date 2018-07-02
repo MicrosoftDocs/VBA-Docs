@@ -8,18 +8,9 @@ ms.assetid: fe7d5e27-a47a-1229-232c-cf6a0cbad761
 ms.date: 06/08/2017
 ---
 
-
 # GROUP BY Clause (Microsoft Access SQL)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
-
- **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
-[ Example](#sectionSection2)
-
 
 Combines records with identical values in the specified field list into a single record. A summary value is created for each record if you include an [SQL aggregate function](http://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), such as  **Sum** or **Count**, in the[SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement.
 
@@ -29,8 +20,6 @@ Combines records with identical values in the specified field list into a single
 SELECT  _fieldlist_ FROM _table_ WHERE _criteria_ [GROUP BY _groupfieldlist_ ]
 
 A SELECT statement containing a GROUP BY clause has these parts:
-
-
 
 |**Part**|**Description**|
 |:-----|:-----|
@@ -46,7 +35,7 @@ GROUP BY is optional.
 
 Summary values are omitted if there is no SQL aggregate function in the SELECT statement.
 
- **Null** values in GROUP BY fields are grouped and are not omitted. However, **Null** values are not evaluated in any SQL aggregate function.
+**Null** values in GROUP BY fields are grouped and are not omitted. However, **Null** values are not evaluated in any SQL aggregate function.
 
 Use the WHERE clause to exclude rows you do not want grouped, and use the [HAVING](having-clause-microsoft-access-sql.md) clause to filter records after they have been grouped.
 
@@ -58,12 +47,7 @@ All fields in the SELECT field list must either be included in the GROUP BY clau
 ## Example
 <a name="sectionSection2"> </a>
 
-This example creates a list of unique job titles and the number of employees with each title.
-
-This example calls the EnumFields procedure, which you can find in the SELECT statement example.
-
-
-
+This example creates a list of unique job titles and the number of employees with each title. It calls the EnumFields procedure, which you can find in the SELECT statement example.
 
 ```vb
 Sub GroupByX1() 
@@ -94,10 +78,9 @@ End Sub
 
 ```
 
+<br/>
+
 For each unique job title, this example calculates the number of employees in Washington who have that title.
-
-
-
 
 ```vb
 Sub GroupByX2() 
@@ -130,13 +113,14 @@ End Sub
 
 ```
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](http://www.bing.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 

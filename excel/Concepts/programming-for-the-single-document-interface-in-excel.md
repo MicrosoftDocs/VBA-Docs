@@ -7,16 +7,13 @@ ms.date: 06/08/2017
 
 
 # Programming for the Single Document Interface in Excel
+
 Learn about programming considerations for the Single Document Interface in Excel.
-
-
-
 
 ## Comparing Single and Multiple Document Interfaces in Excel 2010 and Excel 2013
 <a name="odc_xl15_ta_ProgrammingtheSDIinExcel2013_Comparing"> </a>
 
 A new feature in Excel 2013 is the single document interface (SDI). SDI is a method of organizing graphical user interface (UI) applications into individual windows that the operating system window manager handles separately. In Excel 2013, each Excel window can contain only one workbook, and each has its own ribbon UI (see Figure 1). By default when you open a new worbook, it will be displayed in another Excel window, even though it is the same Excel instance.
-
 
 **Figure 1. Single Document Interface in Excel 2013**
 
@@ -24,25 +21,21 @@ A new feature in Excel 2013 is the single document interface (SDI). SDI is a met
 
 This contrasts with a multiple document interface (MDI), in which a single parent window is used to contain multiple nested child windows, with only the parent window having a menu or tool bar. In Excel 2010, each workbook in a single instance of Excel utilizes a common ribbon UI (see Figure 2).
 
-
 **Figure 2. Multiple Document Interface in Excel 2010**
 
 ![Multiple Document Interface in Excel 2010](../../images/odc_xl15_ta_ProgrammingtheSDIinExcel2013_02.jpg)
 
 Excel 2010 uses the MDI, which means that there is a single application-level window holding all the workbooks that are open in a particular instance of Excel. The windows of the workbook can be arranged inside the Excel app window, all sharing the same Ribbon UI. SDI in Excel means that each workbook will have its own top level app window, and has its own corresponding Ribbon UI.
 
-|**Note**|
-|:-----|  
-|There is no MDI compatibility option in Excel.|
-
- 
+> [!NOTE] 
+> There is no MDI compatibility option in Excel.
 
 In dual-monitor systems, the SDI in Excel enables side-by-side comparisons of two workbooks by dragging each workbook to a different monitor. Each workbook works independently of the other.
 
 To see SDI and MDI in action, if you have both Excel 2010 and Excel 2013 available, perform the following steps.
 
 
-### To contrast the number of processes for MDI and SDI interfaces:
+### To contrast the number of processes for MDI and SDI interfaces
 
 1. On the Windows Start menu, start Excel 2010.
     
@@ -62,10 +55,10 @@ To see SDI and MDI in action, if you have both Excel 2010 and Excel 2013 availab
     
 9. On the  **Processes** tab scroll down until you see **Excel.exe**. Be aware that although you opened two occurrences of Excel, the two workbooks are contained in the same single instance of Excel.
     
+
 To see how SDI and MDI work inside of an instance of Excel, perform the following steps.
 
-
-### To compare the number of Excel instances for MDI and SDI interfaces:
+### To compare the number of Excel instances for MDI and SDI interfaces
 
 1. On the Windows Start menu, choose Excel 2010.
     
@@ -86,9 +79,8 @@ To see how SDI and MDI work inside of an instance of Excel, perform the followin
 9. Close Excel.
     
 
-|**Note**|
-|:-----|  
-|You can open multiple instances of Excel by using the following command line switch:  **excel.exe /x**. This switch starts Excel in a new process.|  
+> [!NOTE] 
+> You can open multiple instances of Excel by using the following command line switch:  **excel.exe /x**. This switch starts Excel in a new process.
 
 
 In this article, we will discuss the implementation of the SDI in the Excel UI and how it impacts programmability in Excel.
@@ -165,9 +157,7 @@ In Excel, all of the  _workbook-level_ window methods, events, and properties no
 
 Special cases are listed in the following table.
 
- **Table 1. Object Model Behavior with the SDI**
-
-
+**Table 1. Object Model Behavior with the SDI**
 
 |**Function**|**Description**|**SDI Implications**|
 |:-----|:-----|:-----|
@@ -183,9 +173,8 @@ Special cases are listed in the following table.
 | `Workbook.Protect(Password, Structure, Windows)`|Protects a workbook so that it cannot be modified.|Regardless of the value for the  _Windows_ parameter ( **True** or **False**), the window structure protection will NOT be enabled. No runtime error is displayed if  **True** is specified, but that portion of the procedure call will return a **NO-OP**.|
 
  
-|**Note**|
-|:-----|  
-|There are no changes required in custom code so that XLM commands continue to work as expected in SDI Excel.|
+> [!NOTE] 
+> There are no changes required in custom code so that XLM commands continue to work as expected in SDI Excel.
 
 
 ## Deprecating Protect Workbook Windows
@@ -211,72 +200,68 @@ The following section provides workarounds for issues you may encounter when usi
 
 - A workbook cannot be closed by clicking the red "X"  **Close** button when that workbook is programmatically opened via a modal user form. To work around this issue, it is suggested that you add the following code to the user form **Layout** event procedure and then open the user form as modeless.
     
-```vb
-  Private Sub UserForm_Layout()
-    Static fSetModal As Boolean
-    If fSetModal = False Then
-        fSetModal = True
-        Me.Hide
-        Me.Show 1
-    End If
-End Sub
-```
+  ```vb
+    Private Sub UserForm_Layout()
+        Static fSetModal As Boolean
+        If fSetModal = False Then
+            fSetModal = True
+            Me.Hide
+            Me.Show 1
+        End If
+    End Sub
+  ```
 
-
-   Another option is to open the workbook window, activate any other window, and then reactivate the workbook window. You should now be able to close the workbook using the  **Close** button.
+  Another option is to open the workbook window, activate any other window, and then reactivate the workbook window. You should now be able to close the workbook using the  **Close** button.
     
 - Assume that your VBA code opens multiple workbooks and uses the  **DataEntryMode** property to control data entry and workbook closure. In the Excel SDI model, because each workbook is contained in its own process, the **DataEntryMode** property used in one workbook does not recognize the existence of other workbook and therefore has little to no effect on their interaction. To work around this issue, there are a couple of options. You can hide the extra workbooks or worksheets by using `Window.Visible = False` or `Sheet.Visible = False`, respectively. You can also detect and cancel any closing events by using  `Workbook.BeforeClose(Cancel) = True`.
     
 - Toolbars added to Excel workbooks via command bar code and XLA files will not be displayed until after you close and reopen the workbook. Using command bars to customize the UI was deprecated starting in Excel 2007. The optimal solution is to customize the ribbon UI by using XML files as described in detail in the article  [Customizing the 2007 Office Fluent Ribbon for Developers](../../api/overview/Excel.md)
     
-    Another option is to use an application-level event to detect new workbooks opening and then use  `Application.Windows` instead of workbooks to add the ribbon control. The following is sample code that can be used to accomplish this.
+  Another option is to use an application-level event to detect new workbooks opening and then use  `Application.Windows` instead of workbooks to add the ribbon control. The following is sample code that can be used to accomplish this.
     
+  ```vb
+    Private Sub Workbook_Open()
+        ToolBarsAdd
+    End Sub
 
-
-```vb
-  Private Sub Workbook_Open()
-    ToolBarsAdd
-End Sub
-
-Sub ToolBarsAdd()
-    Dim oBar As CommandBar
- 
-    ToolBarsDelete
-    Set oBar = Application.CommandBars.Add(Name:="MyToolBar")
-    '
-    With oBar
-        With .Controls.Add(Type:=msoControlButton)
-            .OnAction = "SayHello"
-            .FaceId = 800
+    Sub ToolBarsAdd()
+        Dim oBar As CommandBar
+    
+        ToolBarsDelete
+        Set oBar = Application.CommandBars.Add(Name:="MyToolBar")
+        '
+        With oBar
+            With .Controls.Add(Type:=msoControlButton)
+                .OnAction = "SayHello"
+                .FaceId = 800
+            End With
         End With
-    End With
-    oBar.Visible = True
-End Sub
+        oBar.Visible = True
+    End Sub
 
-Sub SayHello()
-    MsgBox "Hello from '" &; ActiveWorkbook.Name &; "'"
-End Sub
-```
-
-
-   The following code would then be used to remove the toolbar before closing the workbook.
-    
+    Sub SayHello()
+        MsgBox "Hello from '" &; ActiveWorkbook.Name &; "'"
+    End Sub
+  ```
 
 
-```vb
-  Private Sub Workbook_BeforeClose(Cancel As Boolean)
-    ToolBarsDelete
-End Sub
+  The following code would then be used to remove the toolbar before closing the workbook.
+        
 
-Sub ToolBarsDelete()
-Dim wnd As Window
-On Error Resume Next
-    For Each wnd In Application.Windows
-        wnd.Activate
-        Application.CommandBars("MyToolBar ").Delete
-    Next wnd
-End Sub
-```
+  ```vb
+    Private Sub Workbook_BeforeClose(Cancel As Boolean)
+        ToolBarsDelete
+    End Sub
+
+    Sub ToolBarsDelete()
+    Dim wnd As Window
+    On Error Resume Next
+        For Each wnd In Application.Windows
+            wnd.Activate
+            Application.CommandBars("MyToolBar ").Delete
+        Next wnd
+    End Sub
+  ```
 
 - In Excel 2010, a modeless user form is displayed as the top-level window on top of all Excel windows by default. In Excel 2013, a modeless user form is only visible on top of the workbook window that was active when the user form was displayed. Excel Most Valuable Professional (MVP) Jan Karel Pieterse provides an explanation of the issue and a solution on his web page at  [http://www.jkp-ads.com/articles/keepuserformontop.asp](http://www.jkp-ads.com/articles/keepuserformontop.asp).
     
@@ -287,14 +272,12 @@ End Sub
 The new Single Document Interface in Excel 2013 makes it easy to work with multiple workbooks. You can even drag the workbooks to different monitors for convenience. You just need to remember that there is only one top-level window and one ribbon UI menu per workbook. This may require that you update any existing code to cache the state of controls and settings as you move from workbook to workbook.
 
 
-## Additional resources
+## See also
 <a name="odc_xl15_ta_ProgrammingtheSDIinExcel2013_Additional"> </a>
 
 Find addition information on the topics discussed in this article at the following locations.
 
-
--  [Open Excel workbooks in separate windows and view them side by side](http://blogs.office.com/b/microsoft-excel/archive/2013/02/07/open-multiple-excel-files-in-separate-windows-and-view-them-side-by-side.aspx)
-    
+-  [Open Excel workbooks in separate windows and view them side by side](http://blogs.office.com/b/microsoft-excel/archive/2013/02/07/open-multiple-excel-files-in-separate-windows-and-view-them-side-by-side.aspx) 
 -  [Excel 2013 single document interface (SDI): How to rebuild your task panes to support it](http://www.add-in-express.com/creating-addins-blog/2013/02/28/excel2013-single-document-interface-task-panes/)
     
     

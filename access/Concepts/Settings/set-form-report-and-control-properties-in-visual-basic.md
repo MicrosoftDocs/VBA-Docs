@@ -11,23 +11,14 @@ ms.date: 06/08/2017
 
 # Set Form, Report, and Control Properties in Visual Basic
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[To set a property of a form or report](#sectionSection0)
-[To set a property of a control](#sectionSection1)
-[To set a property of a form or report section](#sectionSection2)
-
-
- **[Form](../../../api/Access.Form.md)**, **[Report](../../../api/Access.Report.md)**, and **[Control](../../../api/Access.Control.md)** objects are Microsoft Access objects. You can set properties for these objects from within a **Sub**, **Function**, or event procedure. You can also set properties for form and report sections.
+**[Form](../../../api/Access.Form.md)**, **[Report](../../../api/Access.Report.md)**, and **[Control](../../../api/Access.Control.md)** objects are Microsoft Access objects. You can set properties for these objects from within a **Sub**, **Function**, or event procedure. You can also set properties for form and report sections.
 
 ## To set a property of a form or report
 <a name="sectionSection0"> </a>
 
 Refer to the individual form or report within the  **[Forms](../../../api/Access.Forms.md)** or **[Reports](../../../api/Access.Reports.md)** collection, followed by the name of the property and its value. For example, to set the **Visible** property of the Customers form to **True** (-1), use the following line of code:
-
 
 ```vb
 Forms!Customers.Visible = True
@@ -35,10 +26,7 @@ Forms!Customers.Visible = True
 
 You can also set a property of a form or report from within the object's module by using the object's  **Me** property. Code that uses the **Me** property executes faster than code that uses a fully qualified object name. For example, to set the **RecordSource** property of the Customers form to an SQL statement that returns all records with a CompanyName field entry beginning with "A" from within the Customers form module, use the following line of code:
 
-
-
-
-```
+```vb
 Me.RecordSource = "SELECT * FROM Customers " _ 
     &; "WHERE CompanyName Like 'A*'"
 ```
@@ -88,16 +76,14 @@ Forms!Customers.Section(3).Visible = False
 Me!Section(acPageHeader).Visible = False
 ```
 
+## See also
 
- **Note**  
-
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](http://www.bing.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 
