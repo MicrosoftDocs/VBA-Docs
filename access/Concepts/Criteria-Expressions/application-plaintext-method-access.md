@@ -32,7 +32,7 @@ Strips the rich text formatting from a string and returns an unformatted text st
 | _RichText_|Required|**Variant**|The rich text string that you want to remove the formatting of.|
 | _Length_|Optional|**Variant**|The number of character to return.|
 
-### Return Value
+### Return value
 
 String
 

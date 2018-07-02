@@ -48,7 +48,7 @@ You can specify that the data recordset have either a single-column or a composi
 
 
 
-|**Constant**|**Value **|**Description**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visKeyRowOrder**|1|Use row order as the primary key.|
 | **visKeySingle**|2|Use a single column as the primary key column.|

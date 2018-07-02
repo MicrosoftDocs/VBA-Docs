@@ -38,7 +38,7 @@ If you can use the  **PatternFlags** property as a pattern (non-zero), the prope
 
 
 
-|**Constant **|**Value **|**Description **|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visMasIsLinePat**|&;H1 |Line pattern |
 | **visMasIsLineEnd**|&;H2 |Line end pattern |
@@ -48,7 +48,7 @@ If  **visMasIsLinePat** is selected, the pattern mode should be one of the follo
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visMasLPTileDeform**|&;H0 |
 | **visMasLPTile**|&;H10 |
@@ -61,7 +61,7 @@ If  **visMasIsLineEnd** is selected, the pattern mode should be one of the follo
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visMasLEDefault**|&;H0 |
 | **visMasLEUpright**|&;H100 |
@@ -72,7 +72,7 @@ If  **visMasIsFillPat** is selected, the pattern mode should be one of the follo
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visMasFPTile**|&;H0 |
 | **visMasFPCenter**|&;H1000 |

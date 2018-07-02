@@ -38,7 +38,7 @@ Possible values for  _KeyButtonState_ can be a combination of the values shown i
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visKeyControl **|8|
 | **visKeyShift **|4|

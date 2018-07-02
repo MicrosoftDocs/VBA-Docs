@@ -56,7 +56,7 @@ The  _Flags_ argument is a bitmask that can include one of the following values.
 
 
 
-|**Constant **|**Value **|**Description **|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visInsertIcon**|&;H10|Displays the new shape as an icon.|
 | **visInsertDontShow**|&;H1000|Does not execute the new object's show verb.|
@@ -67,7 +67,7 @@ The  _Flags_ argument can also include one of the following values.
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visInsertAsControl**|&;H2000|
 | **visInsertAsEmbed**|&;H4000|

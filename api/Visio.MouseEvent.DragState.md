@@ -45,7 +45,7 @@ Possible values returned by the  **DragState** property are shown in the followi
 
 
 
-|**Constant**|**Value **|**Description**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visMouseMoveDragStatesBegin**|1|User is beginning to drag an object with the mouse.|
 | **visMouseMoveDragStatesDrop**|5|User has dropped the dragged object in the drop-target window.|

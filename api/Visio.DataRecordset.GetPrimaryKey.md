@@ -48,7 +48,7 @@ A data recordset for which a primary key has been specified can have single or c
 
 
 
-|**Constant**|**Value **|**Description**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visKeyRowOrder**|1|Use row order as the primary key.|
 | **visKeySingle**|2|Use a single column as the primary key column.|

@@ -38,7 +38,7 @@ The values you supply for the  **AlertResponse** property correspond to the stan
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 |IDOK|1|
 |IDCANCEL|2|

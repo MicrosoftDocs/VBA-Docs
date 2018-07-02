@@ -57,7 +57,7 @@ The following constants for  _fRound_ are declared in the Visio type library in 
 
 
 
-|**Constant **|**Value **|**Description **|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visTruncate**|0 |Truncate the result. |
 | **visRound**|1 |Round the result. |

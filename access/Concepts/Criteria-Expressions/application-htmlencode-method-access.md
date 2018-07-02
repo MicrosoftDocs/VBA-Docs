@@ -32,7 +32,7 @@ Converts a string to an HTML-encoded string.
 | _PlainText_|Required|**Variant**|The text string to encode.|
 | _Length_|Optional|**Variant**|The number of characters to return.|
 
-### Return Value
+### Return value
 
 String
 

@@ -36,7 +36,7 @@ Microsoft Visio can save a document in the following file format versions. Note 
 
 
 
-|**Constant **|**Value **|**Description **|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visVersion60**|&;H60000|Visio 2000 or Visio 2002 document|
 | **visVersion110**|&;HB0000| Visio 2003 or Visio 2007 document|

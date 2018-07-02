@@ -64,7 +64,7 @@ The  _Flags_ argument can be any combination of the values of the constants defi
 
 
 
-|**Constant **|**Value **|**Description **|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visSpatialIncludeDataGraphics**|&;H40|Includes data graphic callout shapes and their sub-shapes. By default, data graphic callout shapes and their subshapes are not included. If the parent shape is itself a data graphic callout, searches are made between the parent shape's geometry and non-callout shapes, unless this flag is set.|
 | **visSpatialIncludeHidden**|&;H10 |Consider hidden Geometry sections. By default, hidden Geometry sections do not influence the result. |

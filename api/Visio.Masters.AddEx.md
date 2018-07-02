@@ -42,7 +42,7 @@ For the  _Type_ parameter, pass one of the following members of **VisMasterTypes
 
 
 
-|**Constant**|**Value **|**Description**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visTypeMaster**|1|Creates a shape master.|
 | **visTypeFillPattern**|2|Creates a fill-pattern master.|

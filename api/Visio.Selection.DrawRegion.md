@@ -59,7 +59,7 @@ The  _Flags_ argument can be one or a combination of the following constants dec
 
 
 
-|**Name **|**Value **|**Description **|
+|**Name **|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visDrawRegionDeleteInput**|&;H4 |Delete items in selection. |
 | **visDrawRegionIgnoreVisible**|&;H20 |Exclude visible geometry. |

@@ -36,7 +36,7 @@ Microsoft Visio supports the following action codes.
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visActCodeRunAddon**|1 |
 | **visActCodeAdvise**|2 |
