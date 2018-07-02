@@ -8,20 +8,17 @@ ms.prod: excel
 
 # XlParentDataLabelOptions Enumeration (Excel)
 
-Constants passed to and returned by the  **Series.ParentDataLabelOption** property.
-
+Constants passed to and returned by the **Series.ParentDataLabelOption** property.
 
 ## Members
 
-
-
-|xlParentDataLabelOptionsBannerxlParentDataLabelOptionsNonexlParentDataLabelOptionsOverlapping|102|Banner parent data labelNo parent data labelOverlapping parent data label|
-| **xlParentDataLabelOptionsBanner**| **1**||
-| **xlParentDataLabelOptionsNone**| **0**||
-| **xlParentDataLabelOptionsOverlapping**| **2**||
+|**Name**|**Value**|**Description**|
+|:-----|:-----|:-----|
+| **xlParentDataLabelOptionsBanner**| **1**| Banner parent data label |
+| **xlParentDataLabelOptionsNone**| **0**| No parent data label |
+| **xlParentDataLabelOptionsOverlapping**| **2**| Overlapping parent data label |
 
 ## See also
 
-
-[Series.ParentDataLabelOption](Excel.series.parentdatalabeloption.md)
+- [Series.ParentDataLabelOption](Excel.series.parentdatalabeloption.md)
 

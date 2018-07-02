@@ -12,8 +12,6 @@ ms.date: 06/08/2017
 
 Specifies how numeric data will be calculated with the destinations cells in the worksheet.
 
-
-
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **xlPasteSpecialOperationAdd**|2|Copied data will be added to the value in the destination cell.|
