@@ -31,14 +31,13 @@ When the node is deleted, the first child gets promoted. In the following data m
 
 - A    
   - B    
-  - C    
+    - C    
 - D
     
-
- 
-- A    
-  - C    
+- A
+  - C
 - D
+
     
 
 ## See also

@@ -15,12 +15,12 @@ Increases the size of the SmartArt node. Mimics the behavior of the Larger butto
 
 ## Syntax
 
- _expression_. `Larger`
+_expression_. `Larger`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 
@@ -32,10 +32,6 @@ The actual amount of increase depends on the layout of the nodes.
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

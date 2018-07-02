@@ -12,15 +12,14 @@ ms.date: 06/08/2017
 
 Swaps a node with the previous node in the bulleted list. This method reorder's the nodes entire family.
 
-
 ## Syntax
 
- _expression_. `ReorderUp`
+_expression_. `ReorderUp`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 
@@ -34,7 +33,6 @@ This method simulates clicking the Reorder Up button on the Microsoft Office Flu
 
 The following code swaps the first node with the next node and reorders the nodes parents.
 
-
 ```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes(2).ReorderUp
 ```
@@ -42,10 +40,6 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes(2).ReorderUp
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

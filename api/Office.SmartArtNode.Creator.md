@@ -10,22 +10,17 @@ ms.date: 06/08/2017
 
 # SmartArtNode.Creator Property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **SmartArtNode** object was created. Read-only
-
+Gets a 32-bit integer that indicates the application in which the  **SmartArtNode** object was created. Read-only.
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_. `Creator`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

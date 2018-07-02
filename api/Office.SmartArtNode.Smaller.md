@@ -12,15 +12,14 @@ ms.date: 06/08/2017
 
 Decreases the size of the SmartArt. Mimics the behavior of the Smaller button on the Microsoft Office Fluent Ribbon UI Format tab for SmartArt.
 
-
 ## Syntax
 
- _expression_. `Smaller`
+_expression_. `Smaller`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 
@@ -32,10 +31,6 @@ The amount of decrease depends on the layout size of the node.
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

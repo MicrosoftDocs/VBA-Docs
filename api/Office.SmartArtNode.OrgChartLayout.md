@@ -10,20 +10,19 @@ ms.date: 06/08/2017
 
 # SmartArtNode.OrgChartLayout Property (Office)
 
-Retrieves or sets the  **MsoOrgChartLayoutType** associated with this node if there is one. Read/write
+Retrieves or sets the  **MsoOrgChartLayoutType** associated with this node if there is one. Read/write.
 
 
 ## Syntax
 
- _expression_. `OrgChartLayout`
+_expression_. `OrgChartLayout`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
 ## Remarks
 
 Possible members are:
-
 
 - msoOrgChartLayoutBothHanging
     
@@ -42,7 +41,6 @@ Possible members are:
 
 The following code sets the OrgChartLayout property to the default layout.
 
-
 ```vb
 Dim saNode As SmartArtNode 
 saNode.OrgChartLayout = msoOrgChartLayoutDefault
@@ -51,10 +49,6 @@ saNode.OrgChartLayout = msoOrgChartLayoutDefault
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

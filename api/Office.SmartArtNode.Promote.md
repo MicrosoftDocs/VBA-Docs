@@ -15,48 +15,34 @@ Promotes the current node (and all its children) a single level within the data 
 
 ## Syntax
 
- _expression_. `Promote`
+_expression_. `Promote`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 
 
 ## Remarks
 
-This functionality mimics the promote button on the Microsoft Office Fluent Ribbon UI when working within the content pane. For example, given the following data model: if B is promoted, the resulting data model looks like the following: 
-
+This functionality mimics the promote button on the Microsoft Office Fluent Ribbon UI when working within the content pane. For example, given the following data model, if B is promoted, the resulting data model looks like the following: 
 
 - A
-    
-- 
-      - B
-    
-  - 
-      - C
-    
+  - B
+    - C   
 - D
     
 
-- A
-    
-- B
-    
-- 
-      - C
-    
+- A    
+- B    
+  - C   
 - D
     
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

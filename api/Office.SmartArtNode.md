@@ -25,10 +25,6 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Count
 
 ## See also
 
-
-[Object Model Reference](reference-object-library-reference-for-office.md)
-
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [Object Model Reference](reference-object-library-reference-for-office.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 
