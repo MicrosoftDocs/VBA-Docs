@@ -12,8 +12,8 @@ ms.date: 06/08/2017
 
 Set or gets the horizontal position of the specified  **CommandBarButton** control (in pixels) relative to the left edge of the screen. Returns the distance from the left side of the docking area. Read-only.
 
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax

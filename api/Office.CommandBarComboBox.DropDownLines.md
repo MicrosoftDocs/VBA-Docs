@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the number of lines in a command bar combo box control. The combo box control must be a custom control and it must be a drop-down list box or a combo box. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -31,8 +28,8 @@ Gets or sets the number of lines in a command bar combo box control. The combo b
 
 ## Remarks
 
-
- **Note**  An error occurs if you attempt to set this property for a combo box control that's an edit box or a built-in combo box control.
+> [!NOTE]
+> An error occurs if you attempt to set this property for a combo box control that's an edit box or a built-in combo box control.
 
 If this property is set to 0 (zero), the number of lines in the control is based on the number of items in the list.
 

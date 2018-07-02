@@ -12,11 +12,8 @@ ms.date: 06/08/2017
 
 Gets or sets the caption text for a command bar control. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -48,11 +45,8 @@ With myControl
 End With
 ```
 
-
- **Note**  
-
-
- **Note**  A control's caption is also displayed as its default ScreenTip.
+> [!NOTE]
+> A control's caption is also displayed as its default ScreenTip.
 
 
 ## See also

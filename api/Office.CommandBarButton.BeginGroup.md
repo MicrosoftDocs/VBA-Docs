@@ -12,11 +12,8 @@ ms.date: 06/08/2017
 
 Gets True if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax

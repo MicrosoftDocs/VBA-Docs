@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Represents a button control on a command bar.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Example
@@ -40,11 +37,8 @@ End If
 End With
 ```
 
-
- **Note**  
-
-
- **Note**  You can also use the  **FindControl** method to return a **CommandBarButton** object.
+> [!NOTE]
+> You can also use the  **FindControl** method to return a **CommandBarButton** object.
 
 
 ## See also
