@@ -40,8 +40,8 @@ Shape
 
 The  **Insert** method works for both picture and string (text) fields.
 
-
- **Note**  You can also use the  **[InsertMailMergeField](Publisher.TextRange.InsertMailMergeField.md)** method of the **[TextRange](Publisher.TextRange.md)** object to add a text data field to a text box in the publication's catalog merge area.
+> [!NOTE] 
+> You can also use the  **[InsertMailMergeField](Publisher.TextRange.InsertMailMergeField.md)** method of the **[TextRange](Publisher.TextRange.md)** object to add a text data field to a text box in the publication's catalog merge area.
 
 
 ## Example

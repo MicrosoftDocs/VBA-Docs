@@ -56,8 +56,8 @@ The following example lists the files in a shared workspace site that were last 
 
 ```
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## See also

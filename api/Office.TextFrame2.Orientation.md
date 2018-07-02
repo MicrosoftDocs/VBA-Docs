@@ -51,8 +51,8 @@ Set pptSlide = ActivePresentation.Slides(1)
 pptSlide.Shapes(1).TextFrame2.Orientation = msoTextOrientationHorizontal
 ```
 
-
- **Note**  Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+> [!NOTE] 
+> Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## See also

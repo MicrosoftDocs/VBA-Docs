@@ -41,7 +41,7 @@ Possible values for the  **StylisticSets** property and how they correspond to i
 
 The number of stylistic sets available varies, depending on the font.
 
-
- **Note**  The  **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
+> [!NOTE] 
+> The  **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
 
 

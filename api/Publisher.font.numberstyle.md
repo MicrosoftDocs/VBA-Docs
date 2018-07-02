@@ -28,7 +28,7 @@ Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constan
 
 ## Remarks
 
-
- **Note**  The  **NumberStyles** property has an effect only for OpenType fonts that contain number styles.
+> [!NOTE] 
+> The  **NumberStyles** property has an effect only for OpenType fonts that contain number styles.
 
 

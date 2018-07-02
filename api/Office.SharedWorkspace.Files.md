@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Provides access to the  **SharedWorkspaceFile** objects in the **SharedWorkspace**. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax

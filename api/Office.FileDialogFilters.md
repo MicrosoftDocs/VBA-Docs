@@ -115,7 +115,8 @@ End Sub
 ```
 
 
- **Note**  A run-time error will occur if the  **Filters** property is used in conjunction with the **Clear**, **Add**, or **Delete** methods when applied to a Save As **FileDiaog** object. For example, `Application.FileDialog(msoFileDialogSaveAs).Filters.Clear` will result in a run-time error.
+> [!NOTE] 
+> A run-time error will occur if the  **Filters** property is used in conjunction with the **Clear**, **Add**, or **Delete** methods when applied to a Save As **FileDiaog** object. For example, `Application.FileDialog(msoFileDialogSaveAs).Filters.Clear` will result in a run-time error.
 
 
 ## Methods

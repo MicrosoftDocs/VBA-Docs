@@ -34,8 +34,8 @@ Only one catalog merge area can be added to a publication page. Typically, a pub
 
 Although you can add one catalog merge area per publication page, you can only connect to a single data source for a publication. What data is merged is determined by the catalog merge area on the active page, and the data fields it contains.
 
-
- **Note**  You must add a catalog merge area to the publication page before you connect to a data source.
+> [!NOTE] 
+> You must add a catalog merge area to the publication page before you connect to a data source.
 
 Use the  **[AddToCatalogMergeArea](Publisher.Shape.AddToCatalogMergeArea.md)** method of the **[Shape](Publisher.Shape.md)** or **[ShapeRange](Publisher.ShapeRange.md)** objects to add shapes to a catalog merge area.
 

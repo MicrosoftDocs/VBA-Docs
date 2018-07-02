@@ -32,8 +32,8 @@ PrintableRect
 
 The printable rectangle is determined by the printer based on the sheet size specified. The printable rectangle of the printer sheet should not be confused with the area within the margins of the publication page. The printable rectangle might be larger or smaller than the publication page.
 
-
- **Note**  When the printer sheet and the publication page size are identical, the publication page is centered on the printer sheet and none of the printer's marks print, even if they are selected.
+> [!NOTE] 
+> When the printer sheet and the publication page size are identical, the publication page is centered on the printer sheet and none of the printer's marks print, even if they are selected.
 
 
 ## Example

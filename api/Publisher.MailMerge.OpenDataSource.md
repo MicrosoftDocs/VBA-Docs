@@ -37,10 +37,8 @@ Attaches a data source to the specified publication, which becomes a main public
 
 ## Remarks
 
-
-
-
- **Note**  If you are using a data source for mail merge, you must add a catalog merge area to the publication page before you attach to the data source.
+> [!NOTE] 
+> If you are using a data source for mail merge, you must add a catalog merge area to the publication page before you attach to the data source.
 
 
 ## Example

@@ -30,8 +30,8 @@ Returns or sets an  **MsoTriState** constant that represents the state of the **
 
 ## Remarks
 
-
- **Note**  The  **Swash** property has an effect only for OpenType fonts that contain swashes.
+> [!NOTE] 
+> The  **Swash** property has an effect only for OpenType fonts that contain swashes.
 
 The  **Swash** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 

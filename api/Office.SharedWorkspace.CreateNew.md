@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Creates a document workspace site on the server and adds the active document to the new shared workspace site.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -41,8 +41,8 @@ Use the  **CreateNew** method to create a shared workspace site for the active d
 
 The  **CreateNew** method raises an error if the active document has changes that have not been saved. The document must be saved before you can add it to a shared workspace site.
 
-
- **Note**  Immediately after creating a shared workspace site and then creating the active document in the site, the active document is closed and then reopened so that the copy of the active document that the user sees is the one located in the site. If the active document was saved prior to invoking the  **CreateNew** method, that copy of the document is unavailable for the period of time while the new copy is created. This causes an exception for any code that tries to access the saved copy during the creation time period. One workaround is to impose a short delay (suggested 15 seconds or more) before attempting to access the active document from any script. In addition, any cached object that points to the local document msut be updated to point to the document in the shared workspace site.
+> [!NOTE] 
+> Immediately after creating a shared workspace site and then creating the active document in the site, the active document is closed and then reopened so that the copy of the active document that the user sees is the one located in the site. If the active document was saved prior to invoking the  **CreateNew** method, that copy of the document is unavailable for the period of time while the new copy is created. This causes an exception for any code that tries to access the saved copy during the creation time period. One workaround is to impose a short delay (suggested 15 seconds or more) before attempting to access the active document from any script. In addition, any cached object that points to the local document msut be updated to point to the document in the shared workspace site.
 
 
 ## Example

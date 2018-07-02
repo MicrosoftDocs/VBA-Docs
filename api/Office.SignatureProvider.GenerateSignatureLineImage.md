@@ -101,8 +101,8 @@ The following example, written in C#, shows the implementation of the  **Generat
  }
 ```
 
-
- **Note**  Signature providers are implemented exclusively in custom COM add-ins and cannot be implemented in Microsoft Visual Basic for Applications (VBA). 
+> [!NOTE] 
+> Signature providers are implemented exclusively in custom COM add-ins and cannot be implemented in Microsoft Visual Basic for Applications (VBA). 
 
 
 ## See also

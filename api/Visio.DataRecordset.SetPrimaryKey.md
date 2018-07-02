@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Sets the primary key setting value and the name of the primary key column or columns for the data recordset.
 
-
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax

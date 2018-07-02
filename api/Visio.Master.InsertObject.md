@@ -76,9 +76,10 @@ Values in  **visInsertAsControl** and **visInsertAsEmbed** only have an effect i
 
 In rare cases, Visio 5.0 or later versions may insert a control whereas earlier versions of Visio would have responded to the same call by inserting an embedded object. If a control is inserted, this method places the document in design mode, causing any code executing in the document to halt until the document is returned to run mode.
 
- **Security** Use caution when you are adding ActiveX controls to your application. ActiveX controls may be designed in such a way that their use could pose a security risk. We recommend that you use controls from trusted sources only. Sign any controls you author.
+> [!CAUTION] 
+> Use caution when you are adding ActiveX controls to your application. ActiveX controls may be designed in such a way that their use could pose a security risk. We recommend that you use controls from trusted sources only. Sign any controls you author.
 
-
- **Caution**   Modifying the registry in any manner, whether through the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. If you are running Microsoft Windows NT or Microsoft Windows 2000, you should also update your Emergency Repair Disk (ERD).
+> [!CAUTION] 
+> Modifying the registry in any manner, whether through the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. If you are running Microsoft Windows NT or Microsoft Windows 2000, you should also update your Emergency Repair Disk (ERD).
 
 

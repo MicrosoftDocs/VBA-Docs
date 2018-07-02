@@ -28,8 +28,8 @@ Returns or sets a  **[pbLigaturePresetType](Publisher.pbligaturepresettype.md)**
 
 ## Remarks
 
-
- **Note**  The  **Ligature** property has an effect only for OpenType fonts that contain ligatures.
+> [!NOTE] 
+> The  **Ligature** property has an effect only for OpenType fonts that contain ligatures.
 
 Ligatures are alternate appearances of sequences of characters; multiple characters are merged into one glyph. For example, when ligatures are turned on for the word  _Office_, the letters  _ffi_ are all joined together into one glyph that displays a continuous line from the first _f_ through the dot in the _i_.
 

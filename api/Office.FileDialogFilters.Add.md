@@ -13,27 +13,22 @@ ms.date: 06/08/2017
 
 # FileDialogFilters.Add Method (Office)
 
-Adds a new file filter to the list of filters in the  **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.
+Adds a new file filter to the list of filters in the **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Description_`, `_Extensions_`, `_Position_` )
+_expression_. `Add`(`Description`, `Extensions`, `Position`)
 
- _expression_ Required. A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
+_expression_ Required. A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
 
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Description_|Required|**String**|The text representing the description of the file name extension you want to add to the list of filters.|
-| _Extensions_|Required|**String**|The text representing the file name extension you want to add to the list of filters. More than one extension may be specified and each must be separated by a semi-colon. For example, the argument can be assigned to the string: "*.txt; *.htm".
- **Note**   Parentheses do not need to be added around the extensions. Microsoft Office will automatically add parentheses around the extensions string when the description and extensions strings are concatenated into one file filter item.
-
-|
+| _Extensions_|Required|**String**|The text representing the file name extension you want to add to the list of filters. More than one extension may be specified and each must be separated by a semi-colon. For example, the argument can be assigned to the string: "*.txt; *.htm".<br/><br/> **Note**: Parentheses do not need to be added around the extensions. Microsoft Office will automatically add parentheses around the extensions string when the description and extensions strings are concatenated into one file filter item.|
 | _Position_|Optional|**Variant**|A number that indicates the position of the new control in the filter list. The new filter will be inserted before the filter at this position. If this argument is omitted, the filter is added at the end of the list.|
 
 ## Remarks
@@ -43,10 +38,6 @@ Each filter in a list is made up of two parts: the file name extension (that is,
 
 ## See also
 
-
-[FileDialogFilters Object](Office.FileDialogFilters.md)
-
-
-
-[FileDialogFilters Object Members](./overview/filedialogfilters-members-office.md)
+- [FileDialogFilters Object](Office.FileDialogFilters.md)
+- [FileDialogFilters Object Members](./overview/filedialogfilters-members-office.md)
 

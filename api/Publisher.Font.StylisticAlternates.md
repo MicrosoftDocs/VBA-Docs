@@ -25,7 +25,7 @@ Returns or sets a  **Variant** that represents the state of the **StylisticAlter
 
 ## Remarks
 
-
- **Note**  The  **StylisticAlternates** property has an effect only for OpenType fonts that contain stylistic alternatives.
+> [!NOTE] 
+> The  **StylisticAlternates** property has an effect only for OpenType fonts that contain stylistic alternatives.
 
 

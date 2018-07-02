@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Represents items listed on the  **New** _Item_ task pane available in several Microsoft Office applications.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Remarks
@@ -53,11 +50,8 @@ Sub RemoveDocFromTaskPane()
 End Sub
 ```
 
-
- **Note**  
-
-
- **Note**  The examples below are for Word, but you can change the  **NewDocument** property for any of the properties listed above and use the code in the corresponding application.
+> [!NOTE] 
+> The examples below are for Word, but you can change the  **NewDocument** property for any of the properties listed above and use the code in the corresponding application.
 
 
 ## Methods
