@@ -18,7 +18,7 @@ Saves a single shape range as a building block. Returns the resulting  **[Buildi
 
  _expression_. **SaveAsBuildingBlock**( **_Name_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ### Parameters

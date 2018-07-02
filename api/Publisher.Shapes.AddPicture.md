@@ -20,7 +20,7 @@ Adds a new  **Shape** object representing a picture to the specified **Shapes** 
 
  _expression_. **AddPicture**( **_Filename_**,  **_LinkToFile_**,  **_SaveWithDocument_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Parameters

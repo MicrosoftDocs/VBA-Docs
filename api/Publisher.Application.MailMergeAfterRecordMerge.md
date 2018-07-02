@@ -20,7 +20,7 @@ Occurs after each record in the data source successfully merges in a mail merge.
 
  _expression_. **MailMergeAfterRecordMerge**( **_Doc_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

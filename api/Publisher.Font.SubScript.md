@@ -20,7 +20,7 @@ Returns or sets an  **MsoTriState** constant indicating whether characters are f
 
  _expression_. **SubScript**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ### Return Value

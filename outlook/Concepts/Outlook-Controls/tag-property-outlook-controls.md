@@ -18,7 +18,7 @@ Returns or sets a  **String** that specifies additional information about a cont
 
  _expression_. **Tag**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Indicates whether the parent  **MailMergeDataSource** object is a master data so
 
  _expression_. **IsMaster**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
 ### Return Value

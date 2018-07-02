@@ -20,7 +20,7 @@ Returns a  **[CellRange](Publisher.CellRange.md)** object that represents the ce
 
  _expression_. **Cells**
 
- _expression_A variable that represents a  **Column** object.
+ _expression_ A variable that represents a  **Column** object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Attaches a data source to the specified publication, which becomes a main public
 
  _expression_. **OpenDataSource**( **_bstrDataSource_**,  **_bstrConnect_**,  **_bstrTable_**,  **_fOpenExclusive_**,  **_fNeverPrompt_**)
 
- _expression_A variable that represents a  **MailMerge** object.
+ _expression_ A variable that represents a  **MailMerge** object.
 
 
 ### Parameters

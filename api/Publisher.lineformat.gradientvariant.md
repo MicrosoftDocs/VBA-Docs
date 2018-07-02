@@ -18,7 +18,7 @@ Returns the gradient variant for the specified line as an integer value, usually
 
  _expression_. **GradientVariant**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_ A variable that represents a  **LineFormat** object.
 
 
 ## Return value

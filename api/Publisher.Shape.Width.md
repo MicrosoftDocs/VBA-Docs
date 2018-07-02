@@ -20,6 +20,6 @@ Returns or sets a  **Variant** that represents the width (in points) of a specif
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 

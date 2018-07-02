@@ -15,7 +15,7 @@ Returns or sets the accelerator key for the page. Read/write.
 
  _expression_. **Accelerator**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

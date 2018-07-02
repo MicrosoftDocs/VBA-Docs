@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to only use publication f
 
  _expression_. **UseOnlyPublicationFonts**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Converts a measurement from pixels to points (1 pixel = 0.75 points). Returns th
 
  _expression_. **PixelsToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

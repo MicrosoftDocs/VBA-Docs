@@ -20,7 +20,7 @@ Returns  **True** if a cell is selected. Read-only **Boolean**.
 
  _expression_. **Selected**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_ A variable that represents a  **Cell** object.
 
 
 ## Example

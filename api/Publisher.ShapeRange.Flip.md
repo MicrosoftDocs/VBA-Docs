@@ -20,7 +20,7 @@ Flips the specified shape around its horizontal or vertical axis, or flips all t
 
  _expression_. **Flip**( **_FlipCmd_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ### Parameters

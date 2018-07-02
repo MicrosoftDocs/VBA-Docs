@@ -15,7 +15,7 @@ Removes pages from the collection.
 
  _expression_. **Clear**
 
- _expression_A variable that represents a  **Pages** object.
+ _expression_ A variable that represents a  **Pages** object.
 
 
 ## Remarks

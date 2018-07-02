@@ -20,6 +20,6 @@ Deletes the specified  **BuildingBlock** object from the **[BuildingBlocks](Publ
 
  _expression_. **Delete**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_ A variable that represents a  **BuildingBlock** object.
 
 

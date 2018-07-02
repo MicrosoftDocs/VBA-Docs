@@ -15,7 +15,7 @@ Returns or sets a  **Variant** that specifies the state of a **[SpinButton](Outl
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **SpinButton** object.
+ _expression_ A variable that represents a  **SpinButton** object.
 
 
 ## Remarks

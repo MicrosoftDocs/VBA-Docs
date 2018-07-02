@@ -18,7 +18,7 @@ Returns or sets a  **Long** that specifies the horizontal offset of the texture 
 
  _expression_. **TextureOffsetX**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ## Property value

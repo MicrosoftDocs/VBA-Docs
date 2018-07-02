@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of objects in a collection. Read-
 
  _expression_. **Count**
 
- _expression_A variable that represents a  **Tabs** object.
+ _expression_ A variable that represents a  **Tabs** object.
 
 
 ## Remarks

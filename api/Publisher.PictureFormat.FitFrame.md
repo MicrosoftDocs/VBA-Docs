@@ -20,6 +20,6 @@ Fits the image represented by the  **PictureFormat** object to the frame of the 
 
  _expression_. **FitFrame**
 
- _expression_A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
+ _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 
 

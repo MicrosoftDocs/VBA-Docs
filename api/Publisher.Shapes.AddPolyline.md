@@ -20,7 +20,7 @@ Adds a new  **Shape** object representing an open polyline or a closed polygon t
 
  _expression_. **AddPolyline**( **_SafeArrayOfPoints_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Parameters

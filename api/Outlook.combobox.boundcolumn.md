@@ -18,7 +18,7 @@ Returns or sets a  **Variant** that identifies the source of data in a multicolu
 
  _expression_. **BoundColumn**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

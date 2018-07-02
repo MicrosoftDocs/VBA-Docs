@@ -20,7 +20,7 @@ Returns or sets a  **PbTableDirectionType** constant that represents whether tex
 
  _expression_. **TableDirection**
 
- _expression_A variable that represents a  **Table** object.
+ _expression_ A variable that represents a  **Table** object.
 
 
 ### Return Value

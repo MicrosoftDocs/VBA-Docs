@@ -20,7 +20,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless lin
 
  _expression_. **AddCallout**( **_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Parameters

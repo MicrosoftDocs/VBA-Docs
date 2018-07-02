@@ -20,7 +20,7 @@ Indicates whether the specified shape has been flipped around its horizontal axi
 
  _expression_. **HorizontalFlip**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

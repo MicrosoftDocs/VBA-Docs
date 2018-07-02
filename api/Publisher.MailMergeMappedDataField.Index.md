@@ -20,7 +20,7 @@ Returns a  **Long** that represents the position of a particular item in a speci
 
  _expression_. **Index**
 
- _expression_A variable that represents a  **MailMergeMappedDataField** object.
+ _expression_ A variable that represents a  **MailMergeMappedDataField** object.
 
 
 ## Example

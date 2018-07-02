@@ -20,7 +20,7 @@ Returns a  **Long** indicating the connection site to which the end of a connect
 
  _expression_. **EndConnectionSite**
 
- _expression_A variable that represents an  **ConnectorFormat** object.
+ _expression_ A variable that represents an  **ConnectorFormat** object.
 
 
 ### Return Value

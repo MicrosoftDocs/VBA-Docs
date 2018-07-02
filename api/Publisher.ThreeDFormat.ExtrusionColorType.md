@@ -20,7 +20,7 @@ Returns or sets an  **MsoExtrusionColorType** constant indicating whether the ex
 
  _expression_. **ExtrusionColorType**
 
- _expression_A variable that represents an  **ThreeDFormat** object.
+ _expression_ A variable that represents an  **ThreeDFormat** object.
 
 
 ### Return Value

@@ -17,7 +17,7 @@ Returns a 32-bit integer that indicates the application in which the  **MailMerg
 
  _expression_. **Creator**
 
- _expression_A variable that represents a  **MailMergeDataSources** object.
+ _expression_ A variable that represents a  **MailMergeDataSources** object.
 
 
 ### Return Value

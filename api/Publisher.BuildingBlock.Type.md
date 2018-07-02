@@ -20,6 +20,6 @@ A  ** [PbBuildingBlockType Enumeration (Publisher)](pbbuildingblocktype-enumerat
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_ A variable that represents a  **BuildingBlock** object.
 
 

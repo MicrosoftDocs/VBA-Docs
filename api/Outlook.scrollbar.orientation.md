@@ -18,7 +18,7 @@ Returns or sets an  **Integer** that specifies whether the control is oriented v
 
  _expression_. **Orientation**
 
- _expression_A variable that represents a  **ScrollBar** object.
+ _expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks

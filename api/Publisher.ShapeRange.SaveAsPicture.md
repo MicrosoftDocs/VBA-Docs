@@ -20,7 +20,7 @@ Saves a range of one or more shapes as a picture file.
 
  _expression_. **SaveAsPicture**( **_Filename_**,  **_pbResolution_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ### Parameters

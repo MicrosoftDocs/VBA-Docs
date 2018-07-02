@@ -20,7 +20,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a Bézier curve 
 
  _expression_. **AddCurve**( **_SafeArrayOfPoints_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Parameters

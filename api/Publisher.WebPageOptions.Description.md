@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the description of a Web page with
 
  _expression_. **Description**
 
- _expression_A variable that represents a  **WebPageOptions** object.
+ _expression_ A variable that represents a  **WebPageOptions** object.
 
 
 ## Example

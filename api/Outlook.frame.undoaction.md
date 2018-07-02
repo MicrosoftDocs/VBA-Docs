@@ -18,7 +18,7 @@ Reverses the most recent action that supports the  **Undo** command.
 
  _expression_. **UndoAction**
 
- _expression_A variable that represents a  **Frame** object.
+ _expression_ A variable that represents a  **Frame** object.
 
 
 ### Return Value

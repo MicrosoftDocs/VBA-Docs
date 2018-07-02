@@ -20,7 +20,7 @@ Returns a  **[DropCap](Publisher.DropCap.md)** object that represents a dropped 
 
  _expression_. **DropCap**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents 
 
  _expression_. **Range**( **_Index_**)
 
- _expression_A variable that represents an  **InlineShapes** object.
+ _expression_ A variable that represents an  **InlineShapes** object.
 
 
 ### Parameters

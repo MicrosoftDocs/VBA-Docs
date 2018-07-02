@@ -18,7 +18,7 @@ Returns a  **String** that specifies the full path name of a bitmap to display o
 
  _expression_. **Picture**
 
- _expression_A variable that represents a  **CheckBox** object.
+ _expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

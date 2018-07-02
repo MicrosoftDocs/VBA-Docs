@@ -20,7 +20,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents a data field i
 
  _expression_. **Insert**( **_Range_**)
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_ A variable that represents a  **MailMergeDataField** object.
 
 
 ### Parameters

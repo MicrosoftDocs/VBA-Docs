@@ -20,7 +20,7 @@ Creates a new  **PageBackground** object for the specified **Page** object.
 
  _expression_. **Create**
 
- _expression_A variable that represents a  **PageBackground** object.
+ _expression_ A variable that represents a  **PageBackground** object.
 
 
 ## Remarks

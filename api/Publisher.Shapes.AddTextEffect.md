@@ -20,7 +20,7 @@ Adds a new  **Shape** object representing a WordArt object to the specified **Sh
 
  _expression_. **AddTextEffect**( **_PresetTextEffect_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Parameters

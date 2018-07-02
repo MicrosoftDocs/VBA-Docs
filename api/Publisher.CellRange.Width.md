@@ -20,6 +20,6 @@ Returns a  **Long** that represent the width (in cells) of a table, range of cel
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **CellRange** object.
+ _expression_ A variable that represents a  **CellRange** object.
 
 

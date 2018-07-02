@@ -20,7 +20,7 @@ Returns a  **PhoneticGuide** object that represents the properties of phonetic t
 
  _expression_. **PhoneticGuide**
 
- _expression_A variable that represents a  **Field** object.
+ _expression_ A variable that represents a  **Field** object.
 
 
 ### Return Value

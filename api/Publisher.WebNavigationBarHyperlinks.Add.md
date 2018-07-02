@@ -20,7 +20,7 @@ Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks**
 
  _expression_. **Add**( **_Address_**,  **_RelativePage_**,  **_PageID_**,  **_TextToDisplay_**,  **_Index_**)
 
- _expression_A variable that represents a  **WebNavigationBarHyperlinks** object.
+ _expression_ A variable that represents a  **WebNavigationBarHyperlinks** object.
 
 
 ### Parameters

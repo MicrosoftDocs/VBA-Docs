@@ -18,7 +18,7 @@ Returns or sets a  **Long** that represents the index of the item displayed in t
 
  _expression_. **TopIndex**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Adds a  **ShapeRange** of type **pbWebNavigationBar** to each page of the curren
 
  _expression_. **AddToEveryPage**( **_Left_**,  **_Top_**,  **_Width_**)
 
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
 ### Parameters

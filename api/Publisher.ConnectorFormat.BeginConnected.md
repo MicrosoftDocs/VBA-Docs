@@ -20,7 +20,7 @@ Returns an  **MsoTriState**constant indicating whether the beginning of the spec
 
  _expression_. **BeginConnected**
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_ A variable that represents a  **ConnectorFormat** object.
 
 
 ### Return Value

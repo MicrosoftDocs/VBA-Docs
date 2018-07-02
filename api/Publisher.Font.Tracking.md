@@ -20,7 +20,7 @@ Returns or sets a  **Variant** indicating the tracking value used to display spa
 
  _expression_. **Tracking**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Specifies whether a Web check box or option button is selected. Read/write.
 
  _expression_. **Selected**
 
- _expression_A variable that represents a  **WebCheckBox** object.
+ _expression_ A variable that represents a  **WebCheckBox** object.
 
 
 ## Remarks

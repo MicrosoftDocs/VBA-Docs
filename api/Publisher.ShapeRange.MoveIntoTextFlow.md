@@ -20,7 +20,7 @@ Moves a given shape into the text flow defined by  ** [TextRange Object](Publish
 
  _expression_. **MoveIntoTextFlow**( **_Range_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ### Parameters

@@ -20,6 +20,6 @@ Returns a  **Single** indicating the distance (in points) from the left edge of 
 
  _expression_. **Left**
 
- _expression_A variable that represents a  **PrintableRect** object.
+ _expression_ A variable that represents a  **PrintableRect** object.
 
 

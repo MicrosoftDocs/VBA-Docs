@@ -18,7 +18,7 @@ Returns or sets a  **Long** that specifies the maximum and minimum acceptable va
 
  _expression_. **Max**
 
- _expression_A variable that represents a  **ScrollBar** object.
+ _expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks

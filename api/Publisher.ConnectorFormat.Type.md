@@ -20,7 +20,7 @@ Returns or sets an  **MsoConnectorType** constant that represents the connector 
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_ A variable that represents a  **ConnectorFormat** object.
 
 
 ## Remarks

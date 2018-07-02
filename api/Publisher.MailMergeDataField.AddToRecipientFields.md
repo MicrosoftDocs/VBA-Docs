@@ -20,7 +20,7 @@ Adds the parent  **MailMergeDataField** object from a particular data source to 
 
  _expression_. **AddToRecipientFields**
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_ A variable that represents a  **MailMergeDataField** object.
 
 
 ## Remarks

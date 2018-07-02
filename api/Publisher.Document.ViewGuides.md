@@ -20,7 +20,7 @@ Returns  **True** if guides are visible in the specified publication. Read/write
 
  _expression_. **ViewGuides**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ### Return Value

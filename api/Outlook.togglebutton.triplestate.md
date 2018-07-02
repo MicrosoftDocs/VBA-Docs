@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that determines whether a user can specify, from 
 
  _expression_. **TripleState**
 
- _expression_A variable that represents a  **ToggleButton** object.
+ _expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

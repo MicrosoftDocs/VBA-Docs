@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of times the catalog merge area w
 
  _expression_. **HorizontalRepeat**
 
- _expression_A variable that represents a  **CatalogMergeShapes** object.
+ _expression_ A variable that represents a  **CatalogMergeShapes** object.
 
 
 ### Return Value

@@ -15,6 +15,6 @@ Returns or sets a  **Single** that specify the height, in points, of the total a
 
  _expression_. **ScrollHeight**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 

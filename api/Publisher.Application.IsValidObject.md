@@ -20,7 +20,7 @@ Determines whether the specified object variable references a valid object and r
 
  _expression_. **IsValidObject**( **_Object_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

@@ -18,7 +18,7 @@ Places the object at the front or back of the z-order.
 
  _expression_. **ZOrder**( **_zPosition_**)
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ### Parameters

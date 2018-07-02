@@ -20,7 +20,7 @@ Returns a  **[Wizard](Publisher.Wizard.md)** object representing the publication
 
  _expression_. **Wizard**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

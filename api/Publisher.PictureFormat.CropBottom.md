@@ -20,7 +20,7 @@ Returns or sets a  **Variant** indicating the amount by which the bottom edge of
 
  _expression_. **CropBottom**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

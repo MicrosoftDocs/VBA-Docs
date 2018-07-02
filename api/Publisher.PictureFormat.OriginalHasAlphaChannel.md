@@ -20,7 +20,7 @@ Returns an  **MsoTriState** constant depending on whether the original, linked p
 
  _expression_. **OriginalHasAlphaChannel**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_ A variable that represents an  **PictureFormat** object.
 
 
 ### Return Value

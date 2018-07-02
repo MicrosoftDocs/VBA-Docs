@@ -20,7 +20,7 @@ Returns or sets a  **Long** indicating the instance of the specified shape compa
 
  _expression_. **WizardTagInstance**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

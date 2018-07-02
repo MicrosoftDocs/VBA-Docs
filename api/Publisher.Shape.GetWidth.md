@@ -20,7 +20,7 @@ Returns the width of the shape or shape range as a  **Single** in the specified 
 
  _expression_. **GetWidth**( **_Unit_**)
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ### Parameters

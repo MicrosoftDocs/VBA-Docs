@@ -15,7 +15,7 @@ Returns or sets an  **Integer** that specifies whether a page has vertical scrol
 
  _expression_. **ScrollBars**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

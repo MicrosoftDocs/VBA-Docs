@@ -15,7 +15,7 @@ Occurs when the user clicks inside the control.
 
  _expression_. **Click**( **_Index_**, )
 
- _expression_A variable that represents a  **MultiPage** object.
+ _expression_ A variable that represents a  **MultiPage** object.
 
 
 ### Parameters

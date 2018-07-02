@@ -20,7 +20,7 @@ Returns a  **[MailMergeDataField](Publisher.MailMergeDataField.md)** object from
 
  _expression_. **Item**( **_varIndex_**)
 
- _expression_A variable that represents a  **MailMergeDataFields** object.
+ _expression_ A variable that represents a  **MailMergeDataFields** object.
 
 
 ### Parameters

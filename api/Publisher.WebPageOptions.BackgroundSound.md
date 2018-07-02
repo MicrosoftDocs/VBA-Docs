@@ -20,7 +20,7 @@ Returns or sets a  **String** that specifies the path to a sound file that is pl
 
  _expression_. **BackgroundSound**
 
- _expression_A variable that represents a  **WebPageOptions** object.
+ _expression_ A variable that represents a  **WebPageOptions** object.
 
 
 ### Return Value

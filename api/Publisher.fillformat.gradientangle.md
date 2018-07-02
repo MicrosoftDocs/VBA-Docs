@@ -18,7 +18,7 @@ Returns or sets the angle of the gradient fill for the specified fill format. Re
 
  _expression_. **GradientAngle**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Returns or sets a  **PbParagraphAlignmentType** constant that represents the ali
 
  _expression_. **Alignment**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ## Remarks

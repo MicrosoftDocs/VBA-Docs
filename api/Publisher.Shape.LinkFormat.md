@@ -20,7 +20,7 @@ Returns a  [LinkFormat](Publisher.LinkFormat.md)object that contains the propert
 
  _expression_. **LinkFormat**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ## Example

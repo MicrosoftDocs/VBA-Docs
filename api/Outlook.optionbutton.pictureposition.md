@@ -15,7 +15,7 @@ Returns or sets an  **Integer** that specifies the location of the picture relat
 
  _expression_. **PicturePosition**
 
- _expression_A variable that represents an  **OptionButton** object.
+ _expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks

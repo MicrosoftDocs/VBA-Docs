@@ -20,7 +20,7 @@ Returns the number of actions available on the redo stack. Read-only  **Long**.
 
  _expression_. **RedoActionsAvailable**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ### Return Value

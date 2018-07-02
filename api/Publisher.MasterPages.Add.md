@@ -20,7 +20,7 @@ Adds a new  **Page** object to the specified **MasterPages** object and returns 
 
  _expression_. **Add**( **_IsTwoPageMaster_**,  **_Abbreviation_**,  **_Description_**, )
 
- _expression_A variable that represents a  **MasterPages** object.
+ _expression_ A variable that represents a  **MasterPages** object.
 
 
 ### Parameters

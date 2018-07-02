@@ -20,7 +20,7 @@ Returns an individual  **Column** object in the specified **Columns** collection
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **Columns** object.
+ _expression_ A variable that represents a  **Columns** object.
 
 
 ### Parameters

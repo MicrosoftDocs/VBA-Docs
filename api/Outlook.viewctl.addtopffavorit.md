@@ -15,6 +15,6 @@ Adds the current public folder to the user's Microsoft Exchange Server  **Favori
 
  _expression_. **AddToPFFavorites**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_ A variable that represents a  **ViewCtl** object.
 
 

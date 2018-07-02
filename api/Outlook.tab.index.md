@@ -15,7 +15,7 @@ Returns or sets an  **Integer** that specifies the position of a **[Tab](Outlook
 
  _expression_. **Index**
 
- _expression_A variable that represents a  **Tab** object.
+ _expression_ A variable that represents a  **Tab** object.
 
 
 ## Remarks

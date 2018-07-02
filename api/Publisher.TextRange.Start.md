@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the starting character position of a
 
  _expression_. **Start**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Return Value

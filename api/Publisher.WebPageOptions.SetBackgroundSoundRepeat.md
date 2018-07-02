@@ -20,7 +20,7 @@ Specifies whether the background sound attached to a Web page should be played i
 
  _expression_. **SetBackgroundSoundRepeat**( **_RepeatForever_**,  **_RepeatTimes_**)
 
- _expression_A variable that represents a  **WebPageOptions** object.
+ _expression_ A variable that represents a  **WebPageOptions** object.
 
 
 ### Parameters

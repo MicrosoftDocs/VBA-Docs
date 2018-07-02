@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether a picture is repeated acro
 
  _expression_. **PictureTiling**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

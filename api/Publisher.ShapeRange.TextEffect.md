@@ -20,7 +20,7 @@ Returns a  **[TextEffectFormat](Publisher.TextEffectFormat.md)** object that rep
 
  _expression_. **TextEffect**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Example

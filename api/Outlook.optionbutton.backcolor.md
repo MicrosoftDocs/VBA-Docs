@@ -15,7 +15,7 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
  _expression_. **BackColor**
 
- _expression_A variable that represents an  **OptionButton** object.
+ _expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks

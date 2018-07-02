@@ -15,7 +15,7 @@ Returns or sets a  **Long** that specifies the border color of an object. Read/w
 
  _expression_. **BorderColor**
 
- _expression_A variable that represents an  **Image** object.
+ _expression_ A variable that represents an  **Image** object.
 
 
 ## Remarks

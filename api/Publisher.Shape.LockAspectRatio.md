@@ -20,7 +20,7 @@ Returns or sets an  **MsoTriState**constant indicating whether the specified sha
 
  _expression_. **LockAspectRatio**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

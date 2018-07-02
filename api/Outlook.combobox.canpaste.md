@@ -18,7 +18,7 @@ Returns a  **Boolean** that specifies whether the Clipboard contains data that t
 
  _expression_. **CanPaste**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

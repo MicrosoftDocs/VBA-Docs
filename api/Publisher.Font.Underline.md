@@ -20,7 +20,7 @@ Returns or sets an  **PbUnderlineType** constant that indicates the type of unde
 
  _expression_. **Underline**
 
- _expression_A variable that represents an  **Font** object.
+ _expression_ A variable that represents an  **Font** object.
 
 
 ### Return Value

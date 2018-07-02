@@ -15,7 +15,7 @@ Returns or sets a  **String** that specifies the name of a control. Read/write.
 
  _expression_. **Name**
 
- _expression_A variable that represents a  **Tab** object.
+ _expression_ A variable that represents a  **Tab** object.
 
 
 ## Remarks

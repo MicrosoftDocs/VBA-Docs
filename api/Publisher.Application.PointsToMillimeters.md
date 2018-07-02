@@ -20,7 +20,7 @@ Converts a measurement from points to millimeters (1 mm = 2.835 points). Returns
 
  _expression_. **PointsToMillimeters**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

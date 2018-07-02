@@ -20,7 +20,7 @@ Returns or sets a  **Long** indicating the page in the publication that is the d
 
  _expression_. **PageID**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_ A variable that represents a  **Hyperlink** object.
 
 
 ## Example

@@ -15,7 +15,7 @@ Returns or sets a  **String** that specifies text in a **[ListBox](Outlook.listb
 
  _expression_. **Text**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

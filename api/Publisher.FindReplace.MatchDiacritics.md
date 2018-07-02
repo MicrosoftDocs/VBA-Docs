@@ -20,7 +20,7 @@ Sets or returns a  **Boolean** representing whether or not a search operation wi
 
  _expression_. **MatchDiacritics**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_ A variable that represents a  **FindReplace** object.
 
 
 ### Return Value

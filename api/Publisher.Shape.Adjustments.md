@@ -20,7 +20,7 @@ Returns an  **[Adjustments](Publisher.Adjustments.md)** collection representing 
 
  _expression_. **Adjustments**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

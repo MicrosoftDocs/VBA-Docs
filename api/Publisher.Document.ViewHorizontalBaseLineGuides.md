@@ -20,7 +20,7 @@ Sets or returns a  **Boolean** that represents whether or not the horizontal bas
 
  _expression_. ****
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ### Return Value

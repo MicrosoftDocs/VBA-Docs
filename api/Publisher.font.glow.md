@@ -18,7 +18,7 @@ Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow
 
  _expression_. **Glow**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ## Return value

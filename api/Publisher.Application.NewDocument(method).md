@@ -20,7 +20,7 @@ Returns a  **Document** object that represents a new publication.
 
  _expression_. **NewDocument**( **_Wizard_**,  **_Design_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

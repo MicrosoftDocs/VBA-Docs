@@ -20,7 +20,7 @@ If the  **[InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)** pr
 
  _expression_. **InvalidComments**
 
- _expression_A variable that represents an  **MailMergeDataSource** object.
+ _expression_ A variable that represents an  **MailMergeDataSource** object.
 
 
 ### Return Value

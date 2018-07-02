@@ -15,6 +15,6 @@ Returns or sets a  **Single** that specify the width, in points, of the total ar
 
  _expression_. **ScrollWidth**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 

@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the length of the radius for a sof
 
  _expression_. **Radius**
 
- _expression_A variable that represents a  **SoftEdgeFormat** object.
+ _expression_ A variable that represents a  **SoftEdgeFormat** object.
 
 
 ## Return value

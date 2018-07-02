@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether tabs are allowed in the ed
 
  _expression_. **TabKeyBehavior**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

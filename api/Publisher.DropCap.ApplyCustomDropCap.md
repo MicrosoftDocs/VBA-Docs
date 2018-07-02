@@ -20,7 +20,7 @@ Applies custom formatting to the first letters of paragraphs in a text frame.
 
  _expression_. **ApplyCustomDropCap**( **_LinesUp_**,  **_Size_**,  **_Span_**,  **_FontName_**,  **_Bold_**,  **_Italic_**)
 
- _expression_A variable that represents a  **DropCap** object.
+ _expression_ A variable that represents a  **DropCap** object.
 
 
 ### Parameters

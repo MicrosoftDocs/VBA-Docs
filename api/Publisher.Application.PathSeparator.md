@@ -20,7 +20,7 @@ Returns a  **String** that represents the character used to separate folder name
 
  _expression_. **PathSeparator**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_ A variable that represents a  **Application** object.
 
 
 ### Return Value

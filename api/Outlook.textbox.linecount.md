@@ -15,6 +15,6 @@ Returns a  **Long** that specifies the number of text lines in a **[TextBox](Out
 
  _expression_. **LineCount**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a  **TextBox** object.
 
 

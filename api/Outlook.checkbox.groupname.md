@@ -18,7 +18,7 @@ Returns or sets a  **String** that identifies a group of mutually exclusive **[C
 
  _expression_. **GroupName**
 
- _expression_A variable that represents a  **CheckBox** object.
+ _expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

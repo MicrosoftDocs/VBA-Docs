@@ -20,7 +20,7 @@ Returns a  **Long** that represents the number of items in the specified collect
 
  _expression_. **Count**
 
- _expression_A variable that represents a  **Hyperlinks** object.
+ _expression_ A variable that represents a  **Hyperlinks** object.
 
 
 ## Example

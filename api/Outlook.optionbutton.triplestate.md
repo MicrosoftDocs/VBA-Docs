@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that determines whether the **[OptionButton](Outl
 
  _expression_. **TripleState**
 
- _expression_A variable that represents an  **OptionButton** object.
+ _expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks

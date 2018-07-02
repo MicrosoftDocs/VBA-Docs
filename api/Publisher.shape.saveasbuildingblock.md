@@ -18,7 +18,7 @@ Saves a single shape as a building block. Returns the resulting  **[BuildingBloc
 
  _expression_. **SaveAsBuildingBlock**( **_Name_**)
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ### Parameters

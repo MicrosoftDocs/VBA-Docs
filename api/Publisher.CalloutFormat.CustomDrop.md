@@ -20,7 +20,7 @@ Sets the vertical distance from the edge of the text bounding box to the place w
 
  _expression_. **CustomDrop**( **_Drop_**)
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_ A variable that represents a  **CalloutFormat** object.
 
 
 ### Parameters

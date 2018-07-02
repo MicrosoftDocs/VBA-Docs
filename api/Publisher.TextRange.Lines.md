@@ -20,7 +20,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the sp
 
  _expression_. **Lines**( **_Start_**,  **_Length_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Parameters

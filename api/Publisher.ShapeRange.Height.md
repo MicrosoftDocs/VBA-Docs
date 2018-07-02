@@ -20,7 +20,7 @@ Returns a  **Variant** that represents the height (in points) of a specified ran
 
  _expression_. **Height**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

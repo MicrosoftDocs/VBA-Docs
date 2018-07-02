@@ -20,7 +20,7 @@ Returns a  **[Shapes](Publisher.Shapes.md)** collection that represents all the 
 
  _expression_. **Shapes**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

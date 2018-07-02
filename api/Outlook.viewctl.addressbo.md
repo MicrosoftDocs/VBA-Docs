@@ -15,6 +15,6 @@ Displays the Microsoft Outlook  **Address Book** dialog box.
 
  _expression_. **AddressBook**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_ A variable that represents a  **ViewCtl** object.
 
 

@@ -20,7 +20,7 @@ Replaces the specified picture, optionally fitting the replacement picture to th
 
  _expression_. **ReplaceEx**( _Pathname_,  _InsertAs_,  _Fit_)
 
- _expression_A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
+ _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 
 
 ### Parameters

@@ -18,7 +18,7 @@ Returns or sets a  **fmShowDropButtonWhen** value that specifies when to show th
 
  _expression_. **ShowDropButtonWhen**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

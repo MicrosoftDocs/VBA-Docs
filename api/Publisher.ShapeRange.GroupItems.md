@@ -20,7 +20,7 @@ Returns a  **[GroupShapes](Publisher.GroupShapes.md)** collection if the specifi
 
  _expression_. **GroupItems**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

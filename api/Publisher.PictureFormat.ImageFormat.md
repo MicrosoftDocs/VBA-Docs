@@ -20,7 +20,7 @@ Returns a  **PbImageFormat** constant that represents the image format of a pict
 
  _expression_. **ImageFormat**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_ A variable that represents an  **PictureFormat** object.
 
 
 ### Return Value

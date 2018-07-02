@@ -20,7 +20,7 @@ Sets or returns a  **String** representing the e-mail address to use when proces
 
  _expression_. **EmailAddress**
 
- _expression_A variable that represents an  **WebCommandButton** object.
+ _expression_ A variable that represents an  **WebCommandButton** object.
 
 
 ### Return Value

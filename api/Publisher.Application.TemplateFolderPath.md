@@ -20,7 +20,7 @@ Returns a  **String** that represents the location where Microsoft Publisher tem
 
  _expression_. **TemplateFolderPath**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_ A variable that represents a  **Application** object.
 
 
 ### Return Value

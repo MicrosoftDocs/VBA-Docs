@@ -20,7 +20,7 @@ Activates a window or OLE object.
 
  _expression_. **Activate**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_ A variable that represents a  **Window** object.
 
 
 ### Return Value

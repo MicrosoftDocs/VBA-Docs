@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether a single row of column hea
 
  _expression_. **ColumnHeads**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

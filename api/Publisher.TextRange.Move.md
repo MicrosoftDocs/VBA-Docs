@@ -20,7 +20,7 @@ Collapses the specified range to its start position or end position and then mov
 
  _expression_. **Move**( **_Unit_**,  **_Size_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Parameters

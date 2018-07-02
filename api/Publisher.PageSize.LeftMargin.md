@@ -20,7 +20,7 @@ Specifies the distance between the left edge of the printer sheet and the top ed
 
  _expression_. **LeftMargin**
 
- _expression_A variable that represents a  **PageSize** object.
+ _expression_ A variable that represents a  **PageSize** object.
 
 
 ### Return Value

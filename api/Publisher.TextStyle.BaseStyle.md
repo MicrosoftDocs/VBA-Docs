@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the style upon which the formattin
 
  _expression_. **BaseStyle**
 
- _expression_A variable that represents a  **TextStyle** object.
+ _expression_ A variable that represents a  **TextStyle** object.
 
 
 ### Return Value
