@@ -83,7 +83,7 @@ The string comparison that DASL filters support includes equivalence, prefix, ph
 sFilter = "[Subject] = 'cat'"
 ```
 
-... will match both "cat" and "RE: cat".
+...will match both "cat" and "RE: cat".
 
 
 ## Equivalence Matching
@@ -106,7 +106,7 @@ As another example, assume that the folder you are searching contains items with
 - RE: Question    
 - The big question
     
-The following = restriction... 
+The following = restriction...
 
 ```vb
 criteria = "@SQL=" &; Chr(34) _ 
@@ -114,7 +114,7 @@ criteria = "@SQL=" &; Chr(34) _
 &; " = 'question'"
 ```
 
-... will return the following results:
+...will return the following results:
 
 - Question   
 - RE: Question
@@ -136,7 +136,7 @@ The syntax of **ci_startswith** is as follows...
 
 ```
 
-... where  _PropertySchemaName_ is a valid name of a property referenced by namespace, and _ComparisonString_ is the string used for comparison.
+...where  _PropertySchemaName_ is a valid name of a property referenced by namespace, and _ComparisonString_ is the string used for comparison.
 
 **ci_startswith** performs a search to match prefixes. It uses tokens (characters, word, or words) in the comparison string to match against the first few characters of any word in the string value of the indexed property. If the comparison string contains multiple tokens, every token in the comarison string must have a prefix match in the indexed property. For example:
 
@@ -174,7 +174,7 @@ criteria = "@SQL=" &; Chr(34) _
 &; " ci_startswith 'question'" 
 ```
 
-... will return the following results:
+...will return the following results:
 
 - Question    
 - Questionable   
@@ -192,7 +192,7 @@ The syntax of **ci_phrasematch** is as follows...
 
 ```
 
-... where  _PropertySchemaName_ is a valid name of a property referenced by namespace and _ComparisonString_ is the string used for comparison.
+...where  _PropertySchemaName_ is a valid name of a property referenced by namespace and _ComparisonString_ is the string used for comparison.
 
 **ci_phrasematch** performs a search to match phrases. It uses tokens (characters, word, or words) in the comparison string to match entire words in the string value of the indexed property. Tokens are enclosed in double quotes or parentheses. Each token in the comparison string must have a phrase match, and not a substring or prefix match. If the comparison string contains multiple tokens, every token in the comarison string must have a phrase match. Any word within a multiple word property like **Subject** or **Body** can match; it doesn't have to be the first word. For example:
 
@@ -222,7 +222,7 @@ criteria = "@SQL=" &; Chr(34) _
 &; " ci_phrasematch 'question'" 
 ```
 
-... will return the following results:
+...will return the following results:
 
 - Question    
 - RE: Question    
@@ -233,46 +233,48 @@ criteria = "@SQL=" &; Chr(34) _
 
 **like** performs prefix, substring, or equivalence matching. Tokens (characters, word, or word) are enclosed with the % character in a specific way depending on the type of matching:
 
+#### prefix matching
+
 ```vb
   like '<token>%'
 ```
 
-... provides prefix matching. For example, restricting for...
+For example, restricting for...
     
 ```vb
   like 'cat%'
 ```
 
-... would match "cat" and "catalog".
+...would match "cat" and "catalog".
     
-<br/>
+#### substring matching
 
 ```vb
   like '%<token>%'
 ```
 
-... provides substring matching. For example, restricting for...
+For example, restricting for...
     
 ```vb
   like '%cat%'
 ```
 
-... would match "cat", "catalog", "kittycat", "decathalon".
+...would match "cat", "catalog", "kittycat", "decathalon".
     
     
-<br/>
+#### equivalence matching
 
 ```vb
   like '<token>'
 ```
 
-... provides equivalence matching. For example, restricting for...
+For example, restricting for...
     
 ```vb
   like 'cat'
 ```
 
-... would match "cat" and "RE: Cat".
+...would match "cat" and "RE: Cat".
     
 Each token can match any part of a word in the string property. If the comparison string contains multiple tokens, every token in the comparison string must have a substring match. Any word within a multiple word property like **Subject** or **Body** can match; it does not have to be the first word.
 
@@ -292,7 +294,7 @@ criteria = "@SQL=" &; Chr(34) _
 &; " like '%question%'" 
 ```
 
-... will return the following results: 
+...will return the following results: 
 
 
 - Question    
