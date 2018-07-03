@@ -2,8 +2,6 @@
 
 Office Visual Basic for Applications (VBA) is an event-driven programming language that enables you to extend Office applications. 
 
-
-
 ## VBA Programming in Office
 
 This reference is for experienced Office users who want to learn about VBA and who want some insight into how programming can help them to customize Office.
@@ -14,5 +12,6 @@ The great power of VBA programming in Office is that nearly every operation that
 
 Beyond the power of scripting VBA to accelerate every-day tasks, you can use VBA to add new functionality to Office applications or to prompt and interact with the user of your documents in ways that are specific to your business needs. For example, you could write some VBA code that displays a pop up message that reminds users to save a document to a particular network drive the first time they try to save it.
 
-## Additional resources
-[Office VBA Object library reference](../../Library-Reference/Concepts/office-vba-object-library-reference.md)
+## See also
+
+- [Office VBA Object library reference](../../Library-Reference/Concepts/office-vba-object-library-reference.md)
