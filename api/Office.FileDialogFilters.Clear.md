@@ -60,7 +60,7 @@ End Sub
 
 
 [FileDialogFilters Object](Office.FileDialogFilters.md)
-#### Other resources
+
 
 
 [FileDialogFilters Object Members](./overview/filedialogfilters-members-office.md)

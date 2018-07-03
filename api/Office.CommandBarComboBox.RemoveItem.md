@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Removes an item from a  **CommandBarComboBox** control.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -69,18 +66,15 @@ With myControl
 End With
 ```
 
-
- **Note**  
-
-
- **Note**  The property fails when applied to controls other than list controls.
+> [!NOTE]
+> The property fails when applied to controls other than list controls.
 
 
 ## See also
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

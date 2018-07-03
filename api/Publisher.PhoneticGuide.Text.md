@@ -20,6 +20,6 @@ Returns a  **String** that represents the contents of phonetic text. Read-only.
 
  _expression_. **Text**
 
- _expression_A variable that represents a  **PhoneticGuide** object.
+ _expression_ A variable that represents a  **PhoneticGuide** object.
 
 

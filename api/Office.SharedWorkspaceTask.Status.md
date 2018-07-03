@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the status of the specified shared workspace task. Read/write .
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -64,7 +64,7 @@ The following example displays a list of all tasks in the current shared workspa
 
 
 [SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTask Object Members](sharedworkspacetask-members-office.md)

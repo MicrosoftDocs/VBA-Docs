@@ -20,7 +20,7 @@ Returns a  **[Hyperlink](Publisher.Hyperlink.md)** object representing the hyper
 
  _expression_. **Hyperlink**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Example

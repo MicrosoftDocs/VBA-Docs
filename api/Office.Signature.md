@@ -73,7 +73,7 @@ End Function
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [Signature Object Members](./overview/signature-members-office.md)

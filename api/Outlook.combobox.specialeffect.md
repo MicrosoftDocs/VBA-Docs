@@ -15,7 +15,7 @@ Returns or sets an  **Integer** that specifies the visual appearance of an objec
 
  _expression_. **SpecialEffect**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

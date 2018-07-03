@@ -20,7 +20,7 @@ Returns or sets a  **Single** indicating the brightness of the specified picture
 
  _expression_. **Brightness**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

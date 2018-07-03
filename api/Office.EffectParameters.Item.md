@@ -32,7 +32,7 @@ Retrieves a  **EffectParameter** object at the specified index or with the speci
 
 
 [EffectParameters Object](Office.EffectParameters.md)
-#### Other resources
+
 
 
 [EffectParameters Object Members](./overview/effectparameters-members-office.md)

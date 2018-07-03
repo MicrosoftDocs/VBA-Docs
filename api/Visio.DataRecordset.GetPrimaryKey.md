@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets the primary key setting and the name of the primary key column or columns for the data recordset.
 
-
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
@@ -48,7 +48,7 @@ A data recordset for which a primary key has been specified can have single or c
 
 
 
-|**Constant**|**Value **|**Description**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visKeyRowOrder**|1|Use row order as the primary key.|
 | **visKeySingle**|2|Use a single column as the primary key column.|

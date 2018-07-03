@@ -15,12 +15,12 @@ Swaps a node with the next node in the bulleted list. This method reorder's the 
 
 ## Syntax
 
- _expression_. `ReorderDown`
+_expression_. `ReorderDown`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 
@@ -34,18 +34,12 @@ This method simulates clicking the Reorder Down buttons on the Microsoft Office 
 
 The following code swaps the first node with the next node and reorders all of its descendants. 
 
-
 ```vb
 ActivePresentation.Slides(1).Shapes(1).SmartArt.Nodes(1).ReorderDown
 ```
 
-
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

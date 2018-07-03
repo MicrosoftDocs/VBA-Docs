@@ -33,7 +33,7 @@ The  _TemplateId_ parameter in the **[Application.ApplyReportLayoutTemplate](Pro
 
 
 [ReportTemplate Object](Project.ReportTemplate.md)
-#### Other resources
+
 
 
 [Application.ApplyReportLayoutTemplate](Project.application.applyreportlayouttemplate.md)

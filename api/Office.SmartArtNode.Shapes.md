@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # SmartArtNode.Shapes Property (Office)
 
-Returns the shape range associated with this  **SmartArtNode** object. Read-only
+Returns the shape range associated with this **SmartArtNode** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_. `Shapes`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
 ## Remarks
@@ -37,10 +37,6 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Item(1).Shapes.Count.
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

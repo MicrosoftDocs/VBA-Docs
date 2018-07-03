@@ -15,7 +15,7 @@ Returns or sets an  **Integer** that specifies how text is aligned in a control.
 
  _expression_. **TextAlign**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

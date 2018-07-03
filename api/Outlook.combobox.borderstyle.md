@@ -18,7 +18,7 @@ Returns or sets an  **Integer** that specifies the type of border of the control
 
  _expression_. **BorderStyle**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

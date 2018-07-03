@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **PrintDensityBars**
 
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ _expression_ A variable that represents a  **AdvancedPrintOptions** object.
 
 
 ### Return Value

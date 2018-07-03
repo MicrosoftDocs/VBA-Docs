@@ -15,7 +15,7 @@ Returns or sets a  **Single** that represents the height in points of the tabs o
 
  _expression_. **TabFixedHeight**
 
- _expression_A variable that represents a  **TabStrip** object.
+ _expression_ A variable that represents a  **TabStrip** object.
 
 
 ## Remarks

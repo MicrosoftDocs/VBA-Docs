@@ -20,6 +20,6 @@ Removes a picture shape from an image, and resets the crop region to the origina
 
  _expression_. **ClearCrop**
 
- _expression_A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
+ _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 
 

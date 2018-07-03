@@ -20,7 +20,7 @@ Changes one of the data fields in one of the records in the master data source (
 
  _expression_. **EditRecord**( **_lRec_**,  **_varField_**,  **_Value_**)
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
 ### Parameters

@@ -34,7 +34,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Color = Application.SmartArtColo
 
 
 [SmartArt Object](Office.SmartArt.md)
-#### Other resources
+
 
 
 [SmartArt Object Members](./overview/smartart-members-office.md)

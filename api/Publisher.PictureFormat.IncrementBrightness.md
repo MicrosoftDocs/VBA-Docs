@@ -20,7 +20,7 @@ Changes the brightness of the picture by the specified amount.
 
  _expression_. **IncrementBrightness**( **_Increment_**)
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Parameters

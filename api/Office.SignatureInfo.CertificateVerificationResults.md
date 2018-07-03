@@ -32,7 +32,7 @@ CertificateVerificationResults
 
 
 [SignatureInfo Object](Office.SignatureInfo.md)
-#### Other resources
+
 
 
 [SignatureInfo Object Members](./overview/signatureinfo-members-office.md)

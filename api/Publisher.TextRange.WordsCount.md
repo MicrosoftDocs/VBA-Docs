@@ -20,7 +20,7 @@ Returns the number of words in the text range represented by the parent  **TextR
 
  _expression_. **WordsCount**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Return Value

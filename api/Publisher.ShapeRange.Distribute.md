@@ -20,7 +20,7 @@ Evenly distributes the shapes in the specified shape range.
 
  _expression_. **Distribute**( **_DistributeCmd_**,  **_RelativeTo_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ### Parameters

@@ -34,7 +34,7 @@ The following constants declared by the Visio type library in  **VisMasterProper
 
 
 
-|**Constant **|**Value **|**Description**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visManual**|0 |Update icon manually.|
 | **visAutomatic**|1 |Update icon automatically from shape geometry data.|

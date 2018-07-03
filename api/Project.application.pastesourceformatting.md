@@ -93,7 +93,7 @@ End Sub
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [CopyReport Method](Project.application.copyreport.md)

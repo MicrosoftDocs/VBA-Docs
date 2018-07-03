@@ -38,7 +38,7 @@ Possible values for  _Button_ are shown in the following table, and are declared
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visMouseLeft **|1|
 | **visMouseMiddle **|16|
@@ -48,7 +48,7 @@ Possible values for  _KeyButtonState_ can be a combination of the values shown i
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visKeyControl**|8|
 | **visKeyShift**|4|

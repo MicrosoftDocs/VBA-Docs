@@ -73,7 +73,7 @@ Engagement objects expose a  **Resource Plan** view, enabling users to display a
 <a name="properties"> </a>
 
 
-#### Other resources
+
 
 
 [Project object model](../project/Concepts/project-object-model.md)

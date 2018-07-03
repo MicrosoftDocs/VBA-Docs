@@ -18,7 +18,7 @@ Returns or sets an  **Integer** that specifies whether a vertical scroll bar app
 
  _expression_. **VerticalScrollBarSide**
 
- _expression_A variable that represents a  **Frame** object.
+ _expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

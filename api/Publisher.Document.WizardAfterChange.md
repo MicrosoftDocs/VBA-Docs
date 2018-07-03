@@ -20,7 +20,7 @@ Occurs after the user chooses an option in the wizard pane that changes any of t
 
  _expression_. **WizardAfterChange**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ## Remarks

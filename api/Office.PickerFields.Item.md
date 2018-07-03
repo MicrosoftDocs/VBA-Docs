@@ -32,7 +32,7 @@ Retrieves a  **PickerField** object at the specified index. Read-only
 
 
 [PickerFields Object](Office.PickerFields.md)
-#### Other resources
+
 
 
 [PickerFields Object Members](./overview/pickerfields-members-office.md)

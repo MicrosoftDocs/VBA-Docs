@@ -57,7 +57,7 @@ End Sub
 
 [ODSOFilter Object](Office.ODSOFilter.md)
 [TextFrame2 Object](Office.TextFrame2.md)
-#### Other resources
+
 
 
 [ODSOFilter Object Members](./overview/odsofilter-members-office.md)

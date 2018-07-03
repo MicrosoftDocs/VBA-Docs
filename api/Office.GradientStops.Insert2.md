@@ -48,7 +48,7 @@ This method differs from the [Insert](Office.GradientStops.Insert.md) method in 
 
 
 [GradientStops Object](Office.GradientStops.md)
-#### Other resources
+
 
 
 [GradientStops Object Members](./overview/gradientstops-members-office.md)

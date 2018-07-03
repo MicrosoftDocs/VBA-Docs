@@ -40,15 +40,15 @@ Inspects a document for specific information items or document properties by usi
 
 MsoDocInspectorStatus members
 
-
- **Note**  The  **IDocumentInspector** object is for the exclusive use of custom Document Inspector module authors and cannot be used with Visual Basic for Applications (VBA).
+> [!NOTE] 
+> The  **IDocumentInspector** object is for the exclusive use of custom Document Inspector module authors and cannot be used with Visual Basic for Applications (VBA).
 
 
 ## See also
 
 
 [IDocumentInspector Object](Office.IDocumentInspector.md)
-#### Other resources
+
 
 
 [IDocumentInspector Object Members](./overview/idocumentinspector-members-office.md)

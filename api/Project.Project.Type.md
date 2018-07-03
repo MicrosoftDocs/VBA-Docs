@@ -60,7 +60,7 @@ End Sub
 
 [Project Object](Project.Project.md)
 [PjProjectType Enumeration](Project.PjProjectType.md)
-#### Other resources
+
 
 
 [CheckoutProject Method](Project.project.checkoutproject.md)

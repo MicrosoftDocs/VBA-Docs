@@ -20,7 +20,7 @@ Returns a  **Long** that represents the table column containing the specified ce
 
  _expression_. **Column**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_ A variable that represents a  **Cell** object.
 
 
 ## Example

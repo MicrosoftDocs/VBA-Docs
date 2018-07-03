@@ -35,7 +35,7 @@ Gets a value that indicates which file type will be searched for. Read-only.
 
 
 [FileTypes Object](Office.FileTypes.md)
-#### Other resources
+
 
 
 [FileTypes Object Members](filetypes-members-office.md)

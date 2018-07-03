@@ -39,7 +39,7 @@ Adds a new filter to the  **ODSOFilters** collection.
 
 
 [ODSOFilters Object](Office.ODSOFilters.md)
-#### Other resources
+
 
 
 [ODSOFilters Object Members](odsofilters-members-office.md)

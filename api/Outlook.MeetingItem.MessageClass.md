@@ -32,7 +32,7 @@ This property corresponds to the MAPI property  **PidTagMessageClass** . The **M
 
 
 [MeetingItem Object](Outlook.MeetingItem.md)
-#### Other resources
+
 
 
 

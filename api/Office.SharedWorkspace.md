@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 The  **SharedWorkspace** property of a **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **SharedWorkspace** object which allows the developer to add the active document to a SharePoint site and to manage other objects in the shared workspace site.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Remarks
@@ -110,7 +110,7 @@ The following example displays the properties of the shared workspace to which t
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

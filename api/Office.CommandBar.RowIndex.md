@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the docking order of a command bar in relation to other command bars in the same docking area. Can be an integer greater than zero, or either of the following  **MsoBarRow** constants: **msoBarRowFirst** or **msoBarRowLast**. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -52,7 +49,7 @@ End With
 
 
 [CommandBar Object](Office.CommandBar.md)
-#### Other resources
+
 
 
 [CommandBar Object Members](./overview/commandbar-members-office.md)

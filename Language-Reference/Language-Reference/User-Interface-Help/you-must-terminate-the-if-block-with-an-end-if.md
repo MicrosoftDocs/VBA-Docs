@@ -9,14 +9,11 @@ ms.date: 06/08/2017
 ---
 
 
-# You must terminate the #If block with an #End If
+# You must terminate the If block with an End If
 
-# **If** is a conditional compilation directive. This error has the following cause and solution:
+**If** is a conditional compilation directive. This error has the following cause and solution:
 
-
-
-- An # **If** block was detected that isn't terminated by an # **End If**. Add an # **End If** in the appropriate position.
+An `#if` block was detected that isn't terminated by an `#endif`. Add an `#endif` in the appropriate position.
     
-
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

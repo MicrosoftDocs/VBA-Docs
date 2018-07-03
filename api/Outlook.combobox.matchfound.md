@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates whether the text that a user has typ
 
  _expression_. **MatchFound**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

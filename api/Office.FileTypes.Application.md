@@ -29,7 +29,7 @@ Object
 
 
 [FileTypes Object](Office.FileTypes.md)
-#### Other resources
+
 
 
 [FileTypes Object Members](./overview/filetypes-members-office.md)

@@ -18,7 +18,7 @@ Removes a row from the list in a  **[ComboBox](Outlook.combobox.md)**.
 
  _expression_. **RemoveItem**( **_pvargIndex_**)
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ### Parameters

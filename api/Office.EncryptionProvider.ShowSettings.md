@@ -43,7 +43,7 @@ This method can only be called on an already encrypted document. You can use thi
 
 
 [EncryptionProvider Object](Office.EncryptionProvider.md)
-#### Other resources
+
 
 
 [EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)

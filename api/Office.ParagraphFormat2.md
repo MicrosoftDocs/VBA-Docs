@@ -56,7 +56,7 @@ ActivePresentation.Slides(1).Shapes(2).TextFrame2.TextRange2 _
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

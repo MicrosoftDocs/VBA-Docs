@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets a  **CommandBarControl** object from the **CommandBarControls** collection. Read-only.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -41,7 +38,7 @@ Gets a  **CommandBarControl** object from the **CommandBarControls** collection.
 
 
 [CommandBarControls Object](Office.CommandBarControls.md)
-#### Other resources
+
 
 
 [CommandBarControls Object Members](commandbarcontrols-members-office.md)

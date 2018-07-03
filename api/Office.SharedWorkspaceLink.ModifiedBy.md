@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets the name of the user who last modified the object. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -66,7 +66,7 @@ The following example lists the links in a shared workspace site that were modif
 
 
 [SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLink Object Members](./overview/sharedworkspacelink-members-office.md)

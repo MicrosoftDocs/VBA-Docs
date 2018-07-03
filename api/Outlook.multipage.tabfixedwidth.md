@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the width in points of the tabs on
 
  _expression_. **TabFixedWidth**
 
- _expression_A variable that represents a  **MultiPage** object.
+ _expression_ A variable that represents a  **MultiPage** object.
 
 
 ## Remarks

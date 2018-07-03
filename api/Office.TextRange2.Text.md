@@ -29,7 +29,7 @@ String
 
 
 [TextRange2 Object](Office.TextRange2.md)
-#### Other resources
+
 
 
 [TextRange2 Object Members](./overview/textrange2-members-office.md)

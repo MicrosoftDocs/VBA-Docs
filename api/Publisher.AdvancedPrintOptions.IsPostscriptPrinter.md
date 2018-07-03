@@ -20,7 +20,7 @@ Returns  **True** if the active printer is a PostScript printer. Read-only **Boo
 
  _expression_. **IsPostscriptPrinter**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
 ### Return Value

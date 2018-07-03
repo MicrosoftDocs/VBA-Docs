@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 A collection of the  **[SharedWorkspaceMember](Office.SharedWorkspaceMember.md)** objects in the current shared workspace site.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Example
@@ -60,7 +60,7 @@ Use the  **[Members](Office.SharedWorkspace.Members.md)** property of the **[Sha
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

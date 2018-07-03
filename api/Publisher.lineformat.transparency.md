@@ -18,7 +18,7 @@ Returns or sets the degree of transparency of lines. Read/write  **Single**.
 
  _expression_. **Transparency**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_ A variable that represents a  **LineFormat** object.
 
 
 ## Return value

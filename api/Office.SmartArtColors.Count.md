@@ -24,7 +24,7 @@ Retrieves the count of the number of  **SmartArtColor** objects contained within
 
 
 [SmartArtColors Object](Office.SmartArtColors.md)
-#### Other resources
+
 
 
 [SmartArtColors Object Members](./overview/smartartcolors-members-office.md)

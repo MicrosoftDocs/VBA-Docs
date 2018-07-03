@@ -20,7 +20,7 @@ Clears the list of actions that can be undone for the specified publication. Cor
 
  _expression_. **UndoClear**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ## Remarks

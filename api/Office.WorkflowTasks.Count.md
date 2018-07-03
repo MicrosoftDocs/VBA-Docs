@@ -32,7 +32,7 @@ Long
 
 
 [WorkflowTasks Object](Office.WorkflowTasks.md)
-#### Other resources
+
 
 
 [WorkflowTasks Object Members](./overview/workflowtasks-members-office.md)

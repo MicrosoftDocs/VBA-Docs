@@ -20,7 +20,7 @@ Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representi
 
  _expression_. **ForeColor**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ## Remarks

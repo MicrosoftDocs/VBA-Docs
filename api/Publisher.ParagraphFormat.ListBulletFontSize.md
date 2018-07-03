@@ -20,7 +20,7 @@ Sets or retrieves a  **Single** that represents the list bullet font size from t
 
  _expression_. **ListBulletFontSize**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a  **Long** that represents, in bytes, the size of the picture or OLE ob
 
  _expression_. **FileSize**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

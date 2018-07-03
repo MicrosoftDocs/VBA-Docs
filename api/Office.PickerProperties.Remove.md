@@ -40,7 +40,7 @@ Nothing
 
 
 [PickerProperties Object](Office.PickerProperties.md)
-#### Other resources
+
 
 
 [PickerProperties Object Members](./overview/pickerproperties-members-office.md)

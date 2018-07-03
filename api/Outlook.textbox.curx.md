@@ -15,7 +15,7 @@ Returns or sets a  **Long** that represents the current horizontal position of t
 
  _expression_. **CurX**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

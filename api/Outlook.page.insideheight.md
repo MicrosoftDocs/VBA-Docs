@@ -15,6 +15,6 @@ Returns a  **Long** that specifies the height, in points, of the client region i
 
  _expression_. **InsideHeight**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 

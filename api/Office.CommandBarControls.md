@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 A collection of  **CommandBarControl** objects that represent the command bar controls on a command bar.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Example
@@ -58,7 +55,7 @@ myControl.Copy Bar:=myCustomBar, Before:=1
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [CommandBarControls Object Members](./overview/commandbarcontrols-members-office.md)

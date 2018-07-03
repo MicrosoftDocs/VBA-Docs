@@ -58,7 +58,7 @@ End Sub
 
 
  [SparklineGroup Object](../../../api/Excel.SparklineGroup.md)
-#### Other resources
+
 
 
  <br>

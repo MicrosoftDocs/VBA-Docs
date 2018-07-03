@@ -80,7 +80,7 @@ End Sub
 
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
-#### Other resources
+
 
 
 [How to: Import Appointment XML Data into Outlook Appointment Objects](../outlook/How-to/Items-Folders-and-Stores/import-appointment-xml-data-into-outlook-appointment-objects-outlook.md)

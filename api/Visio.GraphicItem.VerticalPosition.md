@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the vertical position of the  **GraphicItem** object relative to the shape to which it is applied. Read/write.
 
-
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ The following possible values for the  **VerticalPosition** property are from th
 
 
 
-|**Constant**|**Value **|**Description**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visGraphicBelow**|0|The top edge of the graphic item's alignment box is aligned with the bottom edge of the shape or container's alignment box.|
 | **visGraphicBottomEdge**|1|The horizontal centerline of the graphic item's alignment box is aligned with the bottom edge of the shape or container's alignment box.|
@@ -53,6 +53,7 @@ The following possible values for the  **VerticalPosition** property are from th
 | **visGraphicTopEdge**|5|The horizontal centerline of the graphic item's alignment box is aligned with the top edge of the shape or container's alignment box.|
 | **visGraphicAbove**|6|The bottom edge of the graphic item's alignment box is aligned with the top edge of the shape or container's alignment box.|
 
- **Note**  Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open for editing a copy of the data graphic master whose **GraphicItems** collection the graphic item belongs to. When you are finished setting properties, use the **Master.Close** method to commit changes.
+> [!NOTE] 
+> Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open for editing a copy of the data graphic master whose **GraphicItems** collection the graphic item belongs to. When you are finished setting properties, use the **Master.Close** method to commit changes.
 
 

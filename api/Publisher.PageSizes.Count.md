@@ -20,7 +20,7 @@ Returns the number of  **PageSize** objects in the **PageSizes** collection of t
 
  _expression_. **Count**
 
- _expression_A variable that represents a  **PageSizes** collection.
+ _expression_ A variable that represents a  **PageSizes** collection.
 
 
 ### Return Value

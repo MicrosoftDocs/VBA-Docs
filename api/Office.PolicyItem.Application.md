@@ -29,7 +29,7 @@ Object
 
 
 [PolicyItem Object](Office.PolicyItem.md)
-#### Other resources
+
 
 
 [PolicyItem Object Members](./overview/policyitem-members-office.md)

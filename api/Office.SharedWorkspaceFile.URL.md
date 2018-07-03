@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets the full Uniform Resource Locator (URL) and file name of the shared workspace file. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -51,7 +51,7 @@ MsgBox "URL: " &amp; ActiveWorkbook.SharedWorkspaceFile.URL, _
 
 
 [SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)

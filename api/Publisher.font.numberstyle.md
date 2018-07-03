@@ -18,7 +18,7 @@ Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constan
 
  _expression_.  **NumberStyles**
 
- _expression_A variable that represents a  **[Font](Publisher.Font.md)** object.
+ _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 
 
 ## Return Value
@@ -28,7 +28,7 @@ Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constan
 
 ## Remarks
 
-
- **Note**  The  **NumberStyles** property has an effect only for OpenType fonts that contain number styles.
+> [!NOTE] 
+> The  **NumberStyles** property has an effect only for OpenType fonts that contain number styles.
 
 

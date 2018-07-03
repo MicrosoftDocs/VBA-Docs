@@ -20,7 +20,7 @@ Returns a  **Long** value that specifies the number of times the background soun
 
  _expression_. **BackgroundSoundLoopCount**
 
- _expression_A variable that represents a  **WebPageOptions** object.
+ _expression_ A variable that represents a  **WebPageOptions** object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns a  **HeaderFooter** object representing the header of the specified **Pa
 
  _expression_. **Header**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ### Return Value

@@ -34,7 +34,7 @@ Pictures are stored with picture providers in an account set up by the user.
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

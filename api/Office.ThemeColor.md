@@ -29,7 +29,7 @@ Set tcThemeColor = tcsThemeColorScheme.Colors(msoThemeAccent1)
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [ThemeColor Object Members](./overview/themecolor-members-office.md)

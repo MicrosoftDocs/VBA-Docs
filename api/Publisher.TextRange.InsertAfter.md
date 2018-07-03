@@ -20,7 +20,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents text a
 
  _expression_. **InsertAfter**( **_NewText_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Parameters

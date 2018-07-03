@@ -15,7 +15,7 @@ Returns or sets a  **String** that appears on an object to identify or describe 
 
  _expression_. **Caption**
 
- _expression_A variable that represents a  **ToggleButton** object.
+ _expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

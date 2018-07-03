@@ -20,7 +20,7 @@ Returns a  **Single** that represents the height, in points, of the page. Read-o
 
  _expression_. **Height**
 
- _expression_A variable that represents a  **ReaderSpread** object.
+ _expression_ A variable that represents a  **ReaderSpread** object.
 
 
 ## Remarks

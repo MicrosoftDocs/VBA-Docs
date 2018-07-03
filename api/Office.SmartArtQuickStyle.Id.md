@@ -29,7 +29,7 @@ The ID associated with this property is case sensitive.
 
 
 [SmartArtQuickStyle Object](Office.SmartArtQuickStyle.md)
-#### Other resources
+
 
 
 [SmartArtQuickStyle Object Members](./overview/smartartquickstyle-members-office.md)

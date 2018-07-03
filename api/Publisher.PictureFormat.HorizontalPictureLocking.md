@@ -20,7 +20,7 @@ Returns or sets a  **PbHorizontalPictureLocking** constant indicating where newl
 
  _expression_. **HorizontalPictureLocking**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

@@ -37,7 +37,7 @@ This property is set once at creation.
 
 
 [CustomTaskPane Object](Office.CustomTaskPane.md)
-#### Other resources
+
 
 
 [CustomTaskPane Object Members](./overview/customtaskpane-members-office.md)

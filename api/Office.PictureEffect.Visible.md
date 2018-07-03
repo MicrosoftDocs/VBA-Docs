@@ -24,7 +24,7 @@ Gets or sets a Boolean value representing the visible state of the picture effec
 
 
 [PictureEffect Object](Office.PictureEffect.md)
-#### Other resources
+
 
 
 [PictureEffect Object Members](./overview/pictureeffect-members-office.md)

@@ -32,7 +32,7 @@ Long
 
 
 [WebPageFonts Object](Office.WebPageFonts.md)
-#### Other resources
+
 
 
 [WebPageFonts Object Members](./overview/webpagefonts-members-office.md)

@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the distance between a control and
 
  _expression_. **Top**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Prints all or part of the specified publication.
 
  _expression_. **PrintOut**( **_From_**,  **_To_**,  **_PrintToFile_**,  **_Copies_**,  **_Collate_**,  **_PrintStyle_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ### Parameters

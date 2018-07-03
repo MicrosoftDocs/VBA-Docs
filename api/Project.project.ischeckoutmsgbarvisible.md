@@ -44,7 +44,7 @@ End Sub
 
 
 [Project Object](Project.Project.md)
-#### Other resources
+
 
 
 [IsCheckoutOSVisible](Project.project.ischeckoutosvisible.md)

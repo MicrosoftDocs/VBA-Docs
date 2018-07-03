@@ -29,7 +29,7 @@ Long
 
 
 [RulerLevel2 Object](Office.RulerLevel2.md)
-#### Other resources
+
 
 
 [RulerLevel2 Object Members](./overview/rulerlevel2-members-office.md)

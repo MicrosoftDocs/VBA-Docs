@@ -32,7 +32,7 @@ The return value will be a  **MsoDocProperties** constant.
 
 
 [DocumentProperty Object](Office.DocumentProperty.md)
-#### Other resources
+
 
 
 [DocumentProperty Object Members](documentproperty-members-office.md)

@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the number of lines high to format a
 
  _expression_. **Size**
 
- _expression_A variable that represents a  **DropCap** object.
+ _expression_ A variable that represents a  **DropCap** object.
 
 
 ## Example

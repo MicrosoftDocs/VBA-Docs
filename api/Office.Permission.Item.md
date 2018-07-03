@@ -27,7 +27,7 @@ Gets a  **UserPermission** object that is a member of the **Permission** collect
 
 
 [Permission Object](Office.Permission.md)
-#### Other resources
+
 
 
 [Permission Object Members](permission-members-office.md)

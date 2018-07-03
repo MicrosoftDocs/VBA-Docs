@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [PickerProperty Object](Office.PickerProperty.md)
-#### Other resources
+
 
 
 [PickerProperty Object Members](./overview/pickerproperty-members-office.md)

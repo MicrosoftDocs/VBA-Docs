@@ -20,7 +20,7 @@ Returns the parent of the  **[Printer](Publisher.Printer.md)** object. Read-only
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_ A variable that represents a  **Printer** object.
 
 
 ### Return Value

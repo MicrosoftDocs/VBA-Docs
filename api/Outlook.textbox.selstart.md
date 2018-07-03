@@ -15,7 +15,7 @@ Returns or sets a  **Long** that represents the starting point of selected text,
 
  _expression_. **SelStart**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

@@ -20,6 +20,6 @@ A  **[pbPresetWordArt](Publisher.pbpresetwordart.md)** constant that indicates t
 
  _expression_. **PresetWordArt**
 
- _expression_A variable that represents a  **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
+ _expression_ A variable that represents a  **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
 
 

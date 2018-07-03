@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtLay
 
 
 [SmartArtLayout Object](Office.SmartArtLayout.md)
-#### Other resources
+
 
 
 [SmartArtLayout Object Members](./overview/smartartlayout-members-office.md)

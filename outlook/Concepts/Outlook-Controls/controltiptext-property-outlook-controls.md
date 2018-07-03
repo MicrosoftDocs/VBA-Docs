@@ -15,7 +15,7 @@ Returns or sets a  **String** that appears when the user briefly holds the mouse
 
  _expression_. **ControlTipText**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

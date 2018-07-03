@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **Fill**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ## Example

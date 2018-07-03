@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** indicating whether Microsoft Publisher shows basi
 
  _expression_. **ShowBasicColors**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_ A variable that represents a  **Options** object.
 
 
 ### Return Value

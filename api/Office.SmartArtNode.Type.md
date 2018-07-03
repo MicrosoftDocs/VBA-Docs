@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # SmartArtNode.Type Property (Office)
 
-Retrieves the type of SmartArt node. Read-only
+Retrieves the type of SmartArt node. Read-only.
 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
 ## Remarks
@@ -27,10 +27,6 @@ Possible values are msoSmartArtNodeTypeAssistant or msoSmartArtNodeTypeDefault.
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

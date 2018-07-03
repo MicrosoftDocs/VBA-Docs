@@ -20,7 +20,7 @@ Converts a measurement from points to twips (20 twips = 1 point). Returns the co
 
  _expression_. **PointsToTwips**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

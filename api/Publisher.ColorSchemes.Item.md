@@ -20,7 +20,7 @@ Returns the specified  **[ColorScheme](Publisher.ColorScheme.md)** object from a
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **ColorSchemes** object.
+ _expression_ A variable that represents a  **ColorSchemes** object.
 
 
 ### Parameters

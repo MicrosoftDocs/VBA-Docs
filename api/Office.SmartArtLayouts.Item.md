@@ -37,7 +37,7 @@ SmartArtLayout
 
 
 [SmartArtLayouts Object](Office.SmartArtLayouts.md)
-#### Other resources
+
 
 
 [SmartArtLayouts Object Members](./overview/smartartlayouts-members-office.md)

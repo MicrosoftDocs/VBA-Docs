@@ -47,7 +47,7 @@ End Sub
 
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
-#### Other resources
+
 
 
 

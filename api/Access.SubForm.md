@@ -24,7 +24,8 @@ This object corresponds to a subform control. The subform control embeds a form 
 |**Control**:|**Tool**:|
 |![Subform control](../images/t-subfrm_ZA06054004.gif)|![Subform tool](../images/subfrmrp_ZA06044634.gif)|
 
- **Note**   For example, you can use a form with a subform to present one-to-many relationships, such as one product category with the items that fall into that category. In this case, the main form can display the category ID, name, and description; the subform can display the available products in that category.
+ > [!NOTE]
+ > For example, you can use a form with a subform to present one-to-many relationships, such as one product category with the items that fall into that category. In this case, the main form can display the category ID, name, and description; the subform can display the available products in that category.
 
 Instead of creating the main form, and then adding the subform control to it, you can simultaneously create the main form and subform with a wizard . You can also create a subform by dragging an existing form or report from the Database window to the main form.
 
@@ -139,7 +140,7 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 <a name="AboutContributors"> </a>
 
 
-#### Other resources
+
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>

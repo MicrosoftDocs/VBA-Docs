@@ -15,7 +15,7 @@ Returns or sets a  **Variant** that represents the specified entry in a **[ListB
 
  _expression_. **List**( **_pvargIndex_**,  **_pvargColumn_**)
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a  **ListBox** object.
 
 
 ### Parameters

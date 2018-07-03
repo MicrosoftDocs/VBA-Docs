@@ -20,7 +20,7 @@ Returns or sets a  **PbVerticalPictureLocking** constant indicating where newly 
 
  _expression_. **VerticalPictureLocking**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

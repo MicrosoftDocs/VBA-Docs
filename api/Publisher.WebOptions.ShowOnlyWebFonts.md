@@ -20,7 +20,7 @@ Returns or sets a **Boolean** value that specifies whether only Web-safe fonts a
 
  _expression_. **ShowOnlyWebFonts**
 
- _expression_A variable that represents a  **WebOptions** object.
+ _expression_ A variable that represents a  **WebOptions** object.
 
 
 ### Return Value

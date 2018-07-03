@@ -246,7 +246,7 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 <a name="AboutContributor"> </a>
 
 
-#### Other resources
+
 
 [Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
 

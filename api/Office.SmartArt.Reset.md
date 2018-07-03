@@ -34,7 +34,7 @@ This action mirrors the functionality presented by the Reset Graphic button unde
 
 
 [SmartArt Object](Office.SmartArt.md)
-#### Other resources
+
 
 
 [SmartArt Object Members](./overview/smartart-members-office.md)

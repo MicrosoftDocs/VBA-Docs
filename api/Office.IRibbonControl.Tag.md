@@ -54,7 +54,7 @@ In the XML used to customize the Ribbon user interface, you can set a tag as fol
 
 
 [IRibbonControl Object](Office.IRibbonControl.md)
-#### Other resources
+
 
 
 [IRibbonControl Object Members](./overview/iribboncontrol-members-office.md)

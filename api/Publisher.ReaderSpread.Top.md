@@ -20,6 +20,6 @@ Returns the a  **Single** that represents the distance (in points) from the top 
 
  _expression_. **Top**
 
- _expression_A variable that represents a  **ReaderSpread** object.
+ _expression_ A variable that represents a  **ReaderSpread** object.
 
 

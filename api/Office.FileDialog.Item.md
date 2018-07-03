@@ -27,7 +27,7 @@ Gets the text associated with an object. Read-only.
 
 
 [FileDialog Object](Office.FileDialog.md)
-#### Other resources
+
 
 
 [FileDialog Object Members](filedialog-members-office.md)

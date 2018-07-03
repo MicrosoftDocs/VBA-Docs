@@ -20,7 +20,7 @@ Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the right
 
  _expression_. **BorderRight**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_ A variable that represents a  **Cell** object.
 
 
 ### Return Value

@@ -36,7 +36,7 @@ The  **GlueSettings** property can be any combination of the following **VisGlue
 
 
 
-|**Constant **|**Value **|**Description **|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visGlueToNone**|&;H0 |Glue is enabled but no other glue settings are on. |
 | **visGlueToGuides**|&;H1 |Glue to guides. |

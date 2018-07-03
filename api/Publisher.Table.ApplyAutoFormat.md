@@ -20,7 +20,7 @@ Applies automatic built-in table formatting to a specified table.
 
  _expression_. **ApplyAutoFormat**( **_AutoFormat_**,  **_TextFormatting_**,  **_TextAlignment_**,  **_Fill_**,  **_Borders_**)
 
- _expression_A variable that represents a  **Table** object.
+ _expression_ A variable that represents a  **Table** object.
 
 
 ### Parameters

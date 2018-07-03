@@ -34,7 +34,7 @@ Possible values for  **KeyButtonState** can be a combination of any of the value
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visKeyControl**|8|
 | **visKeyShift**|4|

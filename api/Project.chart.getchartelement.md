@@ -44,8 +44,8 @@ The  **GetChartElement** method returns **Nothing**. Returned values are in the 
 ## Remarks
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
 
-
- **Note**  The  **GetChartElement** method will be removed in the released version of Project 2013. The **Chart** object in Project does not implement events; so, a chart in Project cannot be animated with the **GetChartElement** method by interacting with mouse events.
+> [!NOTE] 
+> The  **GetChartElement** method will be removed in the released version of Project 2013. The **Chart** object in Project does not implement events; so, a chart in Project cannot be animated with the **GetChartElement** method by interacting with mouse events.
 
 The  **GetChartElement** method is unusual because you specify values for only the first two arguments. Project returns data in the other arguments, and your code should examine those values when the method returns.
 
@@ -144,7 +144,7 @@ End Sub
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
 
 
-#### Other resources
+
 
 
 [Chart Object](Project.chart.md)

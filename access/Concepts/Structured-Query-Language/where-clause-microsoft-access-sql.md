@@ -11,19 +11,12 @@ ms.date: 06/08/2017
 
 # WHERE Clause (Microsoft Access SQL)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
-
- **In this article**
-[Syntax](#syntax)
-[Remarks](#remarks)
-[Example](#example)
-
 
 Specifies which records from the tables listed in the [FROM](from-clause-microsoft-access-sql.md) clause are affected by a [SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx), [UPDATE](http://msdn.microsoft.com/library/08f9c3d6-c020-ecf1-5748-43b93a76dfbb%28Office.15%29.aspx), or [DELETE](http://msdn.microsoft.com/library/64c235bc-5b1a-0a33-714a-9933ba7a81e5%28Office.15%29.aspx) statement.
 
 ## Syntax
+
 SELECT  _fieldlist_ FROM _tableexpression_ WHERE _criteria_
 
 A SELECT statement containing a WHERE clause has these parts:
@@ -49,8 +42,6 @@ Use the WHERE clause to eliminate records you do not want grouped by a GROUP BY 
 
 Use various expressions to determine which records the SQL statement returns. For example, the following SQL statement selects all employees whose salaries are more than $21,000:
 
-
-
 ```sql
 SELECT LastName, Salary 
 FROM Employees 
@@ -61,17 +52,13 @@ A WHERE clause can contain up to 40 expressions linked by logical operators, suc
 
 When you enter a field name that contains a space or punctuation, surround the name with brackets ([ ]). For example, a customer information table might include information about specific customers:
 
-
-
-```
+```sql
 SELECT [Customer's Favorite Restaurant]
 ```
 
 When you specify the  _criteria_ argument, date literals must be in U.S. format, even if you are not using the U.S. version of the Microsoft® Jet database engine. For example, May 10, 1996, is written 10/5/96 in the United Kingdom and 5/10/96 in the United States. Be sure to enclose your date literals with the number sign (#) as shown in the following examples.
 
 To find records dated May 10, 1996 in a United Kingdom database, you must use the following SQL statement:
-
-
 
 ```sql
 SELECT * 
@@ -81,8 +68,6 @@ WHERE ShippedDate = #5/10/96#;
 
 You can also use the  **DateValue** function which is aware of the international settings established by Microsoft Windows®. For example, use this code for the United States:
 
-
-
 ```sql
 SELECT * 
 FROM Orders 
@@ -91,35 +76,27 @@ WHERE ShippedDate = DateValue('5/10/96');
 
 And use this code for the United Kingdom:
 
-
-
-
 ```sql
 SELECT * 
 FROM Orders 
 WHERE ShippedDate = DateValue('10/5/96');
 ```
 
-
->**Note**  If the column referenced in the criteria string is of type GUID, the criteria expression uses a slightly different syntax:
-
-
-```
-WHERE ReplicaID = {GUID {12345678-90AB-CDEF-1234-567890ABCDEF}}
-```
-
-Be sure to include the nested braces and hyphens as shown.
+> [!NOTE] 
+> If the column referenced in the criteria string is of type GUID, the criteria expression uses a slightly different syntax:
+> 
+> ```sql
+> WHERE ReplicaID = {GUID {12345678-90AB-CDEF-1234-567890ABCDEF}}
+> ```
+> 
+> Be sure to include the nested braces and hyphens as shown.
 
 
 ## Example
 
 The following example assumes the existence of a hypothetical Salary field in an Employees table. Note that this field does not actually exist in the Northwind database Employees table.
 
-This example selects the LastName and FirstName fields of each record in which the last name is King.
-
-This example calls the EnumFields procedure, which you can find in the SELECT statement example.
-
-
+This example selects the LastName and FirstName fields of each record in which the last name is King. It calls the EnumFields procedure, which you can find in the SELECT statement example.
 
 ```vb
 Sub WhereX() 
@@ -150,11 +127,12 @@ End Sub
 ```
 
 ## See also
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
-[Search for specific Access error codes on Bing](http://www.bing.com/)
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](http://www.bing.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)

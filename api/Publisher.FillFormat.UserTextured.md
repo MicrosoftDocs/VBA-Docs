@@ -20,7 +20,7 @@ Fills the specified shape with small tiles of an image.
 
  _expression_. **UserTextured**( **_TextureFile_**)
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ### Parameters

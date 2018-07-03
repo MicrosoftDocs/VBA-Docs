@@ -20,7 +20,7 @@ Returns an  **[OLEFormat](Publisher.OLEFormat.md)** object that contains OLE for
 
  _expression_. **OLEFormat**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Example

@@ -92,8 +92,8 @@ To use the  **AddDurationColumns** macro, create a tasks list in a SharePoint si
 
 The  **AddDurationColumns** macro adds task duration and baseline duration to the list of available columns in the SharePoint task list (see Figure 1).
 
-
- **Note**  After you run the  **AddDurationColumns** macro, you must save the project in Project Professional to synchronize your changes with the SharePoint task list.
+> [!NOTE] 
+> After you run the  **AddDurationColumns** macro, you must save the project in Project Professional to synchronize your changes with the SharePoint task list.
 
 
 
@@ -152,7 +152,7 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 
 [Application Object](Project.Application.md)
 [PjField Enumeration](Project.PjField.md)
-#### Other resources
+
 
 
 [LinkToTaskList Method](application-linktotasklist-method-project.md)

@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether a **[ListBox](Outlook.list
 
  _expression_. **IntegralHeight**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **Long** indicating the position of the specified shape or shape rang
 
  _expression_. **ZOrderPosition**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

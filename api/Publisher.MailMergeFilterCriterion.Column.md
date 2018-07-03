@@ -20,7 +20,7 @@ Returns a  **String** that represents the name of the field in the mail merge da
 
  _expression_. **Column**
 
- _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+ _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
 
 ## Example

@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets the date and time when the local copy of the active document was last synchronized with the server copy. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -59,7 +59,7 @@ The following example alerts the user and displays the sync status if more than 
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](./overview/sync-members-office.md)

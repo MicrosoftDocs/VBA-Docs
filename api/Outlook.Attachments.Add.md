@@ -67,7 +67,7 @@ End Sub
 
 
 [Attachments Object](Outlook.Attachments.md)
-#### Other resources
+
 
 
 [Attach a File to a Mail Item](../outlook/How-to/Items-Folders-and-Stores/attach-a-file-to-a-mail-item.md)

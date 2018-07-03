@@ -1,12 +1,12 @@
 ---
-title: How do I... (Word VBA reference)
+title: How do I... (Word)
 ms.prod: word
 ms.assetid: 93242a67-809e-5e31-d8c4-50430332ab5a
 ms.date: 06/08/2017
 ---
 
 
-# How do I... (Word VBA reference)
+# How do I... (Word)
 
 This topic links to programming tasks (how-to and walkthrough topics) for common Word scenarios.
 

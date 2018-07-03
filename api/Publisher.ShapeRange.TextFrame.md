@@ -20,7 +20,7 @@ Returns a  **[TextFrame](Publisher.TextFrame.md)** object that represents the te
 
  _expression_. **TextFrame**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Example

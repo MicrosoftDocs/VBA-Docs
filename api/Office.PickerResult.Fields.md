@@ -27,7 +27,7 @@ Represent field definitions of SubItems in a PickerFields collection. Read-only
 
 
 [PickerResult Object](Office.PickerResult.md)
-#### Other resources
+
 
 
 [PickerResult Object Members](./overview/pickerresult-members-office.md)

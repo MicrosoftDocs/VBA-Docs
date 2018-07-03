@@ -29,7 +29,7 @@ Long
 
 
 [FileDialogFilter Object](Office.FileDialogFilter.md)
-#### Other resources
+
 
 
 [FileDialogFilter Object Members](./overview/filedialogfilter-members-office.md)

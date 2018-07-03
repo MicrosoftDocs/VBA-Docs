@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **ColorsInPalette**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

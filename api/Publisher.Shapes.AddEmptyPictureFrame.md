@@ -20,7 +20,7 @@ Returns a  **Shape** object that represents an empty picture frame inserted at t
 
  _expression_. **AddEmptyPictureFrame**( **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Parameters

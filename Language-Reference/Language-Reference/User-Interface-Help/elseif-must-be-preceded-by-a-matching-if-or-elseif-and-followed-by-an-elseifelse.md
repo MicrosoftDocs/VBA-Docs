@@ -1,5 +1,5 @@
 ---
-title: ElseIf must be preceded by a matching If or ElseIf and followed by an ElseIf, Else, or End If
+title: ElseIf must be preceded by a matching If or ElseIf and followed by an ElseIf, Else, or EndIf
 keywords: vblr6.chm1057023
 f1_keywords:
 - vblr6.chm1057023
@@ -9,15 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# #ElseIf must be preceded by a matching #If or #ElseIf and followed by an #ElseIf, #Else, or #End If
+# ElseIf must be preceded by a matching If or ElseIf and followed by an ElseIf, Else, or EndIf
 
-# **ElseIf** is a conditional compilation directive. This error has the following causes and solutions:
+**ElseIf** is a conditional compilation directive. This error has the following causes and solutions:
 
-
-
-- An # **ElseIf** has been detected that isn't preceded by an # **If** or # **ElseIf**. Place an # **If** statement before the # **ElseIf** or remove an incorrectly placed preceding # **End If**.
+- An `#elseif` has been detected that isn't preceded by an `#if` or `#elseif`. Place an `#if` statement before the `#elseif` or remove an incorrectly placed preceding `#endif`.
     
-- An # **ElseIf** has been detected that is preceded by an # **Else** or # **End If**. Appropriately terminate the preceding # **If** block, or change the preceding # **Else** to an # **ElseIf**.
+- An `#elseif` has been detected that is preceded by an `#else` or `#endif`. Appropriately terminate the preceding `#if` block, or change the preceding `#else` to an `#elseif`.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

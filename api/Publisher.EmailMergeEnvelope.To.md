@@ -20,7 +20,7 @@ Gets or sets the  **MailMergeDataField** object that represents the data-source 
 
  _expression_. **To**
 
- _expression_A variable that represents an  **EmailMergeEnvelope** object.
+ _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 
 
 ### Return Value

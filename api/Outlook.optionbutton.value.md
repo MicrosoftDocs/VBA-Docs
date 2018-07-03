@@ -15,7 +15,7 @@ Returns or sets a  **Variant** that specifies whether the option button is selec
 
  _expression_. **Value**
 
- _expression_A variable that represents an  **OptionButton** object.
+ _expression_ A variable that represents an  **OptionButton** object.
 
 
 ## Remarks

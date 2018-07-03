@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Represents a folder in a shared document workspace.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Remarks
@@ -66,7 +66,7 @@ Use the  **FolderName** property to return the name of the shared workspace fold
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

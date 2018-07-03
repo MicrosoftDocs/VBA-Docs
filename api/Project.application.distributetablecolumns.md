@@ -28,7 +28,7 @@ Distributes the columns of a selected table in a report, so that all columns are
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [Shape.Select Method](Project.shape.select.md)

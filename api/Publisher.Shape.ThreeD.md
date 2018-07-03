@@ -20,7 +20,7 @@ Returns a  **[ThreeDFormat](Publisher.ThreeDFormat.md)** object.
 
  _expression_. **ThreeD**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **Story** object that represents the story properties in a text range
 
  _expression_. **Story**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ## Example

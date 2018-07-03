@@ -20,7 +20,7 @@ Returns or sets a  **[ColorFormat](Publisher.ColorFormat.md)** object representi
 
  _expression_. **BackColor**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_ A variable that represents a  **LineFormat** object.
 
 
 ## Remarks

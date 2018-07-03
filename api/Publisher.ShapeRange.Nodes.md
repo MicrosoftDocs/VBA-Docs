@@ -20,7 +20,7 @@ Returns a  **[ShapeNodes](Publisher.ShapeNodes.md)** collection that represents 
 
  _expression_. **Nodes**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Example

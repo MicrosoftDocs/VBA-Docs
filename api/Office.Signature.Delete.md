@@ -32,7 +32,7 @@ For the  **Scripts** collection, using the **Delete** method removes all scripts
 
 
 [Signature Object](Office.Signature.md)
-#### Other resources
+
 
 
 [Signature Object Members](signature-members-office.md)

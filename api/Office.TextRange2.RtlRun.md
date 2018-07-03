@@ -24,7 +24,7 @@ Returns a  **TextRange2** object that represents the specified subset of right-t
 
 
 [TextRange2 Object](Office.TextRange2.md)
-#### Other resources
+
 
 
 [TextRange2 Object Members](./overview/textrange2-members-office.md)

@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Represents a command bar in the container application. The  **CommandBar** object is a member of the **CommandBars** collection.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Example
@@ -71,7 +68,7 @@ viewMenu.Controls.Add ID:=3    'ID of Save command is 3
 
 
 [Object Model Reference](reference-object-library-reference-for-office.md)
-#### Other resources
+
 
 
 [CommandBar Object Members](./overview/commandbar-members-office.md)

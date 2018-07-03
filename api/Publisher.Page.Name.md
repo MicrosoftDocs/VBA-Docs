@@ -20,7 +20,7 @@ Returns or sets a  **String** value indicating the name of the specified object.
 
  _expression_. **Name**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

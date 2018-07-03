@@ -20,7 +20,7 @@ Returns a  **String** representing the list bullet text from the specified parag
 
  _expression_. **ListBulletText**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ### Return Value

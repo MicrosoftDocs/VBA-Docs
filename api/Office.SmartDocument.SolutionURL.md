@@ -52,7 +52,7 @@ The following example determines whether an XML expansion pack is attached to th
 
 
 [SmartDocument Object](Office.SmartDocument.md)
-#### Other resources
+
 
 
 [SmartDocument Object Members](./overview/smartdocument-members-office.md)

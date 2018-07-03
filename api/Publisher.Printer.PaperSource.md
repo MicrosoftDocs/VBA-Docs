@@ -20,7 +20,7 @@ Returns the paper source setting found on the  **Publication and Paper Settings*
 
  _expression_. **PaperSource**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_ A variable that represents a  **Printer** object.
 
 
 ### Return Value

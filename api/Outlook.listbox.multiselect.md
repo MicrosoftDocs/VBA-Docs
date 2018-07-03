@@ -18,7 +18,7 @@ Returns or sets an  **Integer** that indicates whether the object permits multip
 
  _expression_. **MultiSelect**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

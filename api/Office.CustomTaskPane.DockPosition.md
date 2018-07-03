@@ -39,7 +39,7 @@ The value of this property can be set to one of the following  **MsoCTPDockPosit
 
 
 [CustomTaskPane Object](Office.CustomTaskPane.md)
-#### Other resources
+
 
 
 [CustomTaskPane Object Members](./overview/customtaskpane-members-office.md)

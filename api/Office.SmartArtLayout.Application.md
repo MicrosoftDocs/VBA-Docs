@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [SmartArtLayout Object](Office.SmartArtLayout.md)
-#### Other resources
+
 
 
 [SmartArtLayout Object Members](./overview/smartartlayout-members-office.md)

@@ -29,7 +29,7 @@ Long
 
 
 [ThemeEffectScheme Object](Office.ThemeEffectScheme.md)
-#### Other resources
+
 
 
 [ThemeEffectScheme Object Members](./overview/themeeffectscheme-members-office.md)

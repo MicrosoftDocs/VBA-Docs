@@ -34,7 +34,7 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 
 [ContactItemObject](Outlook.ContactItem.md)
-#### Other resources
+
 
 
 

@@ -20,7 +20,7 @@ Returns a  **String** representing the full file name of the saved active public
 
  _expression_. **FullName**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ### Return Value

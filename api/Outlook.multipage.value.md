@@ -15,7 +15,7 @@ Returns or sets a  **Variant** that indicates the currently active page. Read/wr
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **MultiPage** object.
+ _expression_ A variable that represents a  **MultiPage** object.
 
 
 ## Remarks

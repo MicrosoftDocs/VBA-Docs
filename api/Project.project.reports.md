@@ -52,7 +52,7 @@ End Sub
 
 
 [Project Object](Project.Project.md)
-#### Other resources
+
 
 
 [Reports Object](Project.reports.md)

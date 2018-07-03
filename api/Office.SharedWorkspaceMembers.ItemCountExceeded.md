@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets a  **Boolean** value that indicates whether the number of **SharedWorkspaceMembers** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Furthermore, once the  **ItemCountExceeded** property returns **True** for one o
 
 
 [SharedWorkspaceMembers Object](Office.SharedWorkspaceMembers.md)
-#### Other resources
+
 
 
 [SharedWorkspaceMembers Object Members](./overview/sharedworkspacemembers-members-office.md)

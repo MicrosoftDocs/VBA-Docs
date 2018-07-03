@@ -39,7 +39,7 @@ The  **MsoContactCardAddressType** enumeration consists of the following members
 
 
 [IMsoContactCard Object](Office.IMsoContactCard.md)
-#### Other resources
+
 
 
 [IMsoContactCard Object Members](./overview/imsocontactcard-members-office.md)

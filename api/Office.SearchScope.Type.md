@@ -27,7 +27,7 @@ Gets a value that corresponds to the type of  **SearchScope** object. The type i
 
 
 [SearchScope Object](Office.SearchScope.md)
-#### Other resources
+
 
 
 [SearchScope Object Members](searchscope-members-office.md)

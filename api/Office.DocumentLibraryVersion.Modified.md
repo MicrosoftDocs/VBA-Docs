@@ -61,7 +61,7 @@ The following example displays the Modified date and time along with other prope
 
 
 [DocumentLibraryVersion Object](Office.DocumentLibraryVersion.md)
-#### Other resources
+
 
 
 [DocumentLibraryVersion Object Members](./overview/documentlibraryversion-members-office.md)

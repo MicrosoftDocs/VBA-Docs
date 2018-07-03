@@ -34,7 +34,7 @@ The default value for this property is  `IPM.Sharing`.
 
 
 [SharingItem Object](Outlook.SharingItem.md)
-#### Other resources
+
 
 
 

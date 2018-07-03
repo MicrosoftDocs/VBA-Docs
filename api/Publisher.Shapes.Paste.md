@@ -20,7 +20,7 @@ Pastes the shapes or text on the Clipboard into the specified  **[Shapes](Publis
 
  _expression_. **Paste**
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Return Value

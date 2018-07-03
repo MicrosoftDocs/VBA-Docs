@@ -20,7 +20,7 @@ Returns or sets a  **PbWizardTag**constant indicating the function of a specifie
 
  _expression_. **WizardTag**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

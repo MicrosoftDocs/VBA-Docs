@@ -20,6 +20,6 @@ Read-only
 
  _expression_. **PrintStyle**
 
- _expression_A variable that represents a  **[Document](Publisher.Document.md)** object.
+ _expression_ A variable that represents a  **[Document](Publisher.Document.md)** object.
 
 

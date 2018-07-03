@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the optional notes associated with a shared workspace link. Read/write.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -49,7 +49,7 @@ MsgBox "Building Links: " &amp; vbCrLf &amp; strBuildingLinks, _
 
 
 [SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLink Object Members](./overview/sharedworkspacelink-members-office.md)

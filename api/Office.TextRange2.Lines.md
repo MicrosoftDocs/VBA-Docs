@@ -64,7 +64,7 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 
 
 [TextRange2 Object](Office.TextRange2.md)
-#### Other resources
+
 
 
 [TextRange2 Object Members](./overview/textrange2-members-office.md)

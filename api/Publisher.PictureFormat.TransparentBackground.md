@@ -20,7 +20,7 @@ Indicates whether the parts of the specified picture that are defined as the tra
 
  _expression_. **TransparentBackground**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

@@ -32,7 +32,7 @@ Object
 
 
 [OfficeDataSourceObject Object](Office.OfficeDataSourceObject.md)
-#### Other resources
+
 
 
 [OfficeDataSourceObject Object Members](./overview/officedatasourceobject-members-office.md)

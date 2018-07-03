@@ -15,7 +15,7 @@ Returns or sets a  **String** that identifies a group of mutually exclusive **[T
 
  _expression_. **GroupName**
 
- _expression_A variable that represents a  **ToggleButton** object.
+ _expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

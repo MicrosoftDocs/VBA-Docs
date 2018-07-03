@@ -40,7 +40,7 @@ The following constants for field categories are declared by the Visio type libr
 
 
 
-|**Constant **|**Value **|
+|**Constant**|**Value**|
 |:-----|:-----|
 | **visFCatCustom**|0 |
 | **visFCatDateTime**|1 |

@@ -29,7 +29,7 @@ Long
 
 
 [ThemeFont Object](Office.ThemeFont.md)
-#### Other resources
+
 
 
 [ThemeFont Object Members](./overview/themefont-members-office.md)

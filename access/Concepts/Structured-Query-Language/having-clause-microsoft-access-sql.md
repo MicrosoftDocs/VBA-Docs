@@ -11,15 +11,7 @@ ms.date: 06/08/2017
 
 # HAVING Clause (Microsoft Access SQL)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
-
- **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
-[ Example](#sectionSection2)
-
 
 Specifies which grouped records are displayed in a [SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement with a GROUP BY clause. After[GROUP BY](group-by-clause-microsoft-access-sql.md) combines records, HAVING displays any records grouped by the GROUP BY clause that satisfy the conditions of the HAVING clause.
 
@@ -29,8 +21,6 @@ Specifies which grouped records are displayed in a [SELECT](http://msdn.microsof
 SELECT  _fieldlist_ FROM _table_ WHERE _selectcriteria_ GROUP BY _groupfieldlist_ [HAVING _groupcriteria_ ]
 
 A SELECT statement containing a HAVING clause has these parts:
-
-
 
 |**Part**|**Description**|
 |:-----|:-----|
@@ -47,9 +37,6 @@ HAVING is optional.
 
 HAVING is similar to WHERE, which determines which records are selected. After records are grouped with GROUP BY, HAVING determines which records are displayed:
 
-
-
-
 ```sql
 SELECT CategoryID, 
 Sum(UnitsInStock) 
@@ -64,12 +51,7 @@ A HAVING clause can contain up to 40 expressions linked by logical operators, su
 ## Example
 <a name="sectionSection2"> </a>
 
-This example selects the job titles assigned to more than one employee in the Washington region.
-
-This example calls the EnumFields procedure, which you can find in the SELECT statement example.
-
-
-
+This example selects the job titles assigned to more than one employee in the Washington region. It calls the EnumFields procedure, which you can find in the SELECT statement example.
 
 ```vb
 Sub HavingX() 
@@ -99,13 +81,14 @@ End Sub
 
 ```
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](http://www.bing.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 

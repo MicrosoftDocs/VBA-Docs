@@ -75,7 +75,7 @@ The following example determines whether the active document has restricted perm
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

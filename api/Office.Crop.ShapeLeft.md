@@ -55,7 +55,7 @@ End Sub
 
 
 [Crop Object](Office.Crop.md)
-#### Other resources
+
 
 
 [Crop Object Members](./overview/crop-members-office.md)

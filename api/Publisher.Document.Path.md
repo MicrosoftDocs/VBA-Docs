@@ -20,7 +20,7 @@ Returns a  **String** indicating the full path to the file of the saved active p
 
  _expression_. **Path**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ## Remarks

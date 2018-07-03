@@ -74,7 +74,7 @@ Number of global reports: 21
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [Reports Object](Project.reports.md)

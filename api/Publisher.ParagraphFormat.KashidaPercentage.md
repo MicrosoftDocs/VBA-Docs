@@ -20,7 +20,7 @@ Returns or sets a  **Long** indicating the percentage by which kashidas are to b
 
  _expression_. **KashidaPercentage**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ### Return Value

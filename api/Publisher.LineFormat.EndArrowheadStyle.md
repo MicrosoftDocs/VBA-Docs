@@ -20,7 +20,7 @@ Returns or sets an  **MsoArrowheadStyle** constant indicating the style of the a
 
  _expression_. **EndArrowheadStyle**
 
- _expression_A variable that represents an  **LineFormat** object.
+ _expression_ A variable that represents an  **LineFormat** object.
 
 
 ### Return Value

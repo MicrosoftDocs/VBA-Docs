@@ -37,7 +37,7 @@ Among the information that can be read is whether the certificate associated wit
 
 
 [Signature Object](Office.Signature.md)
-#### Other resources
+
 
 
 [Signature Object Members](./overview/signature-members-office.md)

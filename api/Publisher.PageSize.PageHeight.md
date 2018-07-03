@@ -20,7 +20,7 @@ Gets or sets the page height of the blank page size represented by the parent  *
 
  _expression_. **PageHeight**
 
- _expression_A variable that represents a  **PageSize** object.
+ _expression_ A variable that represents a  **PageSize** object.
 
 
 ### Return Value

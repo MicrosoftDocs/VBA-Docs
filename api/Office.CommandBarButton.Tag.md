@@ -12,11 +12,8 @@ ms.date: 06/08/2017
 
 Gets or sets information about the  **CommandBarButton** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -80,7 +77,7 @@ MsgBox (CommandBars("Custom").Controls(1).Tag)
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)

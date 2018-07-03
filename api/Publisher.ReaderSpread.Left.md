@@ -20,6 +20,6 @@ Returns a  **Single** indicating the position (in points) of the left edge of th
 
  _expression_. **Left**
 
- _expression_A variable that represents a  **ReaderSpread** object.
+ _expression_ A variable that represents a  **ReaderSpread** object.
 
 

@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # SmartArtNode.TextFrame2 Property (Office)
 
-Returns the text associated with the  **SmartArtNode** object. Read-only
+Returns the text associated with the **SmartArtNode** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `TextFrame2`
+_expression_. `TextFrame2`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
 ## Example
@@ -32,10 +32,6 @@ smartart.AllNodes(1).TextFrame2.TextRange.Text="Node 1"
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

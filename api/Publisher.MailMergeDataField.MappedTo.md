@@ -20,7 +20,7 @@ Returns the name of the recipient field (column) in the master data source (comb
 
  _expression_. **MappedTo**
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_ A variable that represents a  **MailMergeDataField** object.
 
 
 ### Return Value

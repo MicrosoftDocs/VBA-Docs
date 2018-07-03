@@ -37,7 +37,7 @@ SmartArtColor
 
 
 [SmartArtColors Object](Office.SmartArtColors.md)
-#### Other resources
+
 
 
 [SmartArtColors Object Members](./overview/smartartcolors-members-office.md)

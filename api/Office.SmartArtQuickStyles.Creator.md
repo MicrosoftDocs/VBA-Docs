@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtQui
 
 
 [SmartArtQuickStyles Object](Office.SmartArtQuickStyles.md)
-#### Other resources
+
 
 
 [SmartArtQuickStyles Object Members](./overview/smartartquickstyles-members-office.md)

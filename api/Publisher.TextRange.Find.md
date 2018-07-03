@@ -20,6 +20,6 @@ Returns a  **FindReplace** object from the specified **TextRange** object. The *
 
  _expression_. **Find**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 

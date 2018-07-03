@@ -20,7 +20,7 @@ Converts a measurement from inches to points (1 inch = 72 points). Returns the c
 
  _expression_. **InchesToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether an object automatically re
 
  _expression_. **AutoSize**
 
- _expression_A variable that represents an  **Image** object.
+ _expression_ A variable that represents an  **Image** object.
 
 
 ## Remarks

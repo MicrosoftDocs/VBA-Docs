@@ -29,7 +29,7 @@ Nothing
 
 
 [PictureEffect Object](Office.PictureEffect.md)
-#### Other resources
+
 
 
 [PictureEffect Object Members](./overview/pictureeffect-members-office.md)

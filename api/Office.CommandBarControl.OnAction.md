@@ -12,11 +12,8 @@ ms.date: 06/08/2017
 
 Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a  **CommandBarControl**. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -73,7 +70,7 @@ myBar.Visible = True
 
 
 [CommandBarControl Object](Office.CommandBarControl.md)
-#### Other resources
+
 
 
 [CommandBarControl Object Members](./overview/commandbarcontrol-members-office.md)

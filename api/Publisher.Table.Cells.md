@@ -20,7 +20,7 @@ Returns a  **CellRange** object that represents a range of cells in a table.
 
  _expression_. **Cells**( **_StartRow_**,  **_StartColumn_**,  **_EndRow_**,  **_EndColumn_**)
 
- _expression_A variable that represents a  **Table** object.
+ _expression_ A variable that represents a  **Table** object.
 
 
 ### Parameters

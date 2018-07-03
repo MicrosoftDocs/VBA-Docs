@@ -20,7 +20,7 @@ Detaches the end of the specified connector from the shape to which it is attach
 
  _expression_. **EndDisconnect**
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_ A variable that represents a  **ConnectorFormat** object.
 
 
 ## Remarks

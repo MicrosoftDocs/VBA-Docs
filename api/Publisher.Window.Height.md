@@ -20,7 +20,7 @@ Returns or sets a  **Long** that represents the height (in points) of the window
 
  _expression_. **Height**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_ A variable that represents a  **Window** object.
 
 
 ## Remarks

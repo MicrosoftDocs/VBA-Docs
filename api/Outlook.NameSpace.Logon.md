@@ -88,7 +88,7 @@ End Sub
 
 
 [NameSpace Object](Outlook.NameSpace.md)
-#### Other resources
+
 
 
 [How to: Obtain and Log On to an Instance of Outlook](../outlook/How-to/Security/obtain-and-log-on-to-an-instance-of-outlook.md)

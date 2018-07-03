@@ -32,7 +32,7 @@ Object
 
 
 [COMAddIns Object](Office.COMAddIns.md)
-#### Other resources
+
 
 
 [COMAddIns Object Members](./overview/comaddins-members-office.md)

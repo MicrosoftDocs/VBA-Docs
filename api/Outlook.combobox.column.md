@@ -18,7 +18,7 @@ Returns or sets a  **Variant** that represents a single value, a column of value
 
  _expression_. **Column**( **_pvargColumn_**,  **_pvargIndex_**)
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ### Parameters

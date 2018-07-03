@@ -20,6 +20,6 @@ Returns a  **Variant** that represents the width (in points) of a specified rang
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 

@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets the top-level Uniform Resource Locator (URL) of the shared workspace link. Read/write.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -51,7 +51,7 @@ MsgBox "URL: " &amp; ActiveWorkbook.SharedWorkspaceLink.URL, _
 
 
 [SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-#### Other resources
+
 
 
 [SharedWorkspaceLink Object Members](./overview/sharedworkspacelink-members-office.md)

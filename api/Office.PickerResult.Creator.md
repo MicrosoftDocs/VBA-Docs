@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **PickerResul
 
 
 [PickerResult Object](Office.PickerResult.md)
-#### Other resources
+
 
 
 [PickerResult Object Members](./overview/pickerresult-members-office.md)

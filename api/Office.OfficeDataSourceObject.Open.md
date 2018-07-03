@@ -39,7 +39,7 @@ Opens a table in a  **OfficeDataSourceObject** object.
 
 
 [OfficeDataSourceObject Object](Office.OfficeDataSourceObject.md)
-#### Other resources
+
 
 
 [OfficeDataSourceObject Object Members](./overview/officedatasourceobject-members-office.md)

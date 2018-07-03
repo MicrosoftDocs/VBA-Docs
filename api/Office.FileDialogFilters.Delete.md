@@ -35,7 +35,7 @@ Removes a file dialog filter.
 
 
 [FileDialogFilters Object](Office.FileDialogFilters.md)
-#### Other resources
+
 
 
 [FileDialogFilters Object Members](filedialogfilters-members-office.md)

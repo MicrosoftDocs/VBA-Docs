@@ -32,7 +32,7 @@ Object
 
 
 [CustomXMLPrefixMappings Object](Office.CustomXMLPrefixMappings.md)
-#### Other resources
+
 
 
 [CustomXMLPrefixMappings Object Members](./overview/customxmlprefixmappings-members-office.md)

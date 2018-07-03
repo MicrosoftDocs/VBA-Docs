@@ -40,7 +40,7 @@ objCustomXMLValidationError.Text("To add content to this data stream, it must be
 
 
 [CustomXMLValidationError Object](Office.CustomXMLValidationError.md)
-#### Other resources
+
 
 
 [CustomXMLValidationError Object Members](./overview/customxmlvalidationerror-members-office.md)

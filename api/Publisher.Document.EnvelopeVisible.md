@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** indicating whether the e-mail message header is v
 
  _expression_. **EnvelopeVisible**
 
- _expression_A variable that represents an  **Document** object.
+ _expression_ A variable that represents an  **Document** object.
 
 
 ### Return Value

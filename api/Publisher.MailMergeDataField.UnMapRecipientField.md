@@ -20,7 +20,7 @@ Undoes the mapping between the parent  **MailMergeDataField** object in a partic
 
  _expression_. **UnMapRecipientField**
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_ A variable that represents a  **MailMergeDataField** object.
 
 
 ## Remarks

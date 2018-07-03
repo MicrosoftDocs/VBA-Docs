@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. **Visible**
 
- _expression_A variable that represents a  **SoftEdgeFormat** object.
+ _expression_ A variable that represents a  **SoftEdgeFormat** object.
 
 
 ## Return value

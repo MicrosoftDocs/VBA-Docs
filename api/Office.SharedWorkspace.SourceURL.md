@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Designates the location of the public copy of a shared document to which changes should be published back after the document has been revised in a separate document workspace site. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ The Microsoft SharePoint Team Services user interface allows users to copy a pub
 
 
 [SharedWorkspace Object](Office.SharedWorkspace.md)
-#### Other resources
+
 
 
 [SharedWorkspace Object Members](./overview/sharedworkspace-members-office.md)

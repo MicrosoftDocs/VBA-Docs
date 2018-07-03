@@ -20,7 +20,7 @@ Returns an  **MsoTriState** constant indicating whether the specified picture co
 
  _expression_. **HasAlphaChannel**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

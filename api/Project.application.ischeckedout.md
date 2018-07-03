@@ -76,7 +76,7 @@ End Sub
 
 [Application Object](Project.Application.md)
 [Project.Type Property](Project.Project.Type.md)
-#### Other resources
+
 
 
 [Project.CheckoutProject Method](Project.project.checkoutproject.md)

@@ -20,6 +20,6 @@ Returns or sets a  **Long** that represents the number of guide columns on a pag
 
  _expression_. **Columns**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_ A variable that represents a  **TextFrame** object.
 
 

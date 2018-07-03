@@ -24,7 +24,7 @@ Retrieves the string name of the SmartArt layout. Read-only
 
 
 [SmartArtLayout Object](Office.SmartArtLayout.md)
-#### Other resources
+
 
 
 [SmartArtLayout Object Members](./overview/smartartlayout-members-office.md)

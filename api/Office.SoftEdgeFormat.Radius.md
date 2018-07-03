@@ -24,7 +24,7 @@ Gets or sets the size, measured in points, of the soft edge effect of the shape.
 
 
 [SoftEdgeFormat Object](Office.SoftEdgeFormat.md)
-#### Other resources
+
 
 
 [SoftEdgeFormat Object Members](./overview/softedgeformat-members-office.md)

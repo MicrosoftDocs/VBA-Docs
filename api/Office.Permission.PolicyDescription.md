@@ -61,7 +61,7 @@ The following example displays permission policy information about the active do
 
 
 [Permission Object](Office.Permission.md)
-#### Other resources
+
 
 
 [Permission Object Members](./overview/permission-members-office.md)

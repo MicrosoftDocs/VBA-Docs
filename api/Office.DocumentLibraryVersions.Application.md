@@ -29,7 +29,7 @@ Object
 
 
 [DocumentLibraryVersions Object](Office.DocumentLibraryVersions.md)
-#### Other resources
+
 
 
 [DocumentLibraryVersions Object Members](./overview/documentlibraryversions-members-office.md)

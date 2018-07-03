@@ -20,7 +20,7 @@ Sets or returns a  **PbPageNumberFormat** constant that reperesents the formatti
 
  _expression_. **PageNumberFormat**
 
- _expression_A variable that represents a  **Section** object.
+ _expression_ A variable that represents a  **Section** object.
 
 
 ### Return Value

@@ -14,8 +14,6 @@ Rather than address all the existing properties, this topic focuses on the prope
 
 ## Connection Properties
 
-
-
 |**Property Set**|**Property**|**Set if**|**Set to**|
 |:-----|:-----|:-----|:-----|
 |DBPROPSET_MSOLAPINIT|DBPROP_MSMD_SAFETY_OPTIONS|Supported|OLAPUDFSecurity reg key or DBPROPVAL_MSMD_SAFETY_OPTIONS_ALLOW_SAFESee also: [Safety Options Property](http://msdn.microsoft.com/en-us/library/aa237323.aspx).|
@@ -31,8 +29,6 @@ Rather than address all the existing properties, this topic focuses on the prope
 |DBPROPSET_DBINIT|DBPROP_CMD_HWND|Supported|Not OLAP specific. Set before making the connection.|
 
 ## Data Source Information
-
-
 
 |**Property Set**|**Property**|**Value**|**Use**|
 |:-----|:-----|:-----|:-----|
@@ -51,8 +47,6 @@ Rather than address all the existing properties, this topic focuses on the prope
 |DBPROPSET_ROWSET| [DBPROP_ROWSET_ASYNCH](http://msdn.microsoft.com/en-us/library/ms717927.aspx)|If supported.|Excel tries to set this to  `DBPROPVAL_ASYNCH_INITIALIZE` but if this fails, Excel falls back into synchronous mode.If supported, it enables Excel to support the user pressing the  **Esc** key to stop query execution before it is finished.|
 
 ## Schema Rowset Queries
-
-
 
 |**Schema Rowset**|**Column**|**Value**|**Controls**|
 |:-----|:-----|:-----|:-----|
@@ -78,11 +72,9 @@ Rather than address all the existing properties, this topic focuses on the prope
 
 ## Cell Properties
 
-
-
 |**Property Name**|**Use**|
 |:-----|:-----|
-| **Language**|<p>LCID for determining how to interpret  `FORMAT_STRING` when it is **CURRENCY**.</p> <p>Excel uses this property to determine which currency symbol to use when formatting values with  `FORMAT_STRING` set to **Currency**.</p>  <p>[Retrieving Cell Properties](http://msdn.microsoft.com/en-us/library/ms715853.aspx)</p><p>Example of calculated measure definition specifying the LANGUAGE property for the client application to pick up: </p><p>```CREATE MEMBER CURRENTCUBE.[Measures].[Internet Gross Profit]``` </p><p> ```AS``` </p><p>```[Measures].[Internet Sales Amount]```  </p><p>```-  ```</p><p>```[Measures].[Internet Total Product Cost], ```</p><p>``` ```</p><p>```FORMAT_STRING = "Currency", ```</p><p>```BACK_COLOR = 12615680 /*R=0, G=128, B=192*/, ```</p><p>```FORE_COLOR = 65408 /*R=128, G=255, B=0*/, ```</p><p>```FONT_FLAGS = 3 /*Bold, Italic*/, ```</p><p>```NON_EMPTY_BEHAVIOR = { [Internet Sales Amount],[Internet Total Product Cost] }, ```</p><p>```VISIBLE = 1, ```</p><p>```LANGUAGE = 1033 /*Telling client application to display US currency symbol*/;```</p>|
+| **Language**|<p>LCID for determining how to interpret  `FORMAT_STRING` when it is **CURRENCY**.</p> <p>Excel uses this property to determine which currency symbol to use when formatting values with  `FORMAT_STRING` set to **Currency**.</p>  <p>[Retrieving Cell Properties](http://msdn.microsoft.com/en-us/library/ms715853.aspx)</p><p>Example of calculated measure definition specifying the LANGUAGE property for the client application to pick up: </p><p>```CREATE MEMBER CURRENTCUBE.[Measures].[Internet Gross Profit]``` </p><p> ```AS``` </p><p> ```[Measures].[Internet Sales Amount]```  </p><p> ```-``` </p><p> ```[Measures].[Internet Total Product Cost],  ``` </p><p> ```FORMAT_STRING = "Currency",``` </p><p> ```BACK_COLOR = 12615680 /*R=0, G=128, B=192*/,``` </p><p> ```FORE_COLOR = 65408 /*R=128, G=255, B=0*/, ```</p><p>```FONT_FLAGS = 3 /*Bold, Italic*/, ```</p><p>```NON_EMPTY_BEHAVIOR = { [Internet Sales Amount],[Internet Total Product Cost] },``` </p><p> ```VISIBLE = 1,``` </p><p> ```LANGUAGE = 1033 /*Telling client application to display US currency symbol*/;```</p>|
 
 
 

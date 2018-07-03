@@ -34,7 +34,7 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 
 [NoteItemObject](Outlook.NoteItem.md)
-#### Other resources
+
 
 
 

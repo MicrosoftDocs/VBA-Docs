@@ -54,15 +54,15 @@ The following example, written in C#, shows the implementation of the  **NotifyS
 
 ```
 
-
- **Note**  Signature providers are implemented exclusively in custom COM add-ins and cannot be implemented in Microsoft Visual Basic for Applications (VBA). 
+> [!NOTE] 
+> Signature providers are implemented exclusively in custom COM add-ins and cannot be implemented in Microsoft Visual Basic for Applications (VBA). 
 
 
 ## See also
 
 
 [SignatureProvider Object](Office.SignatureProvider.md)
-#### Other resources
+
 
 
 [SignatureProvider Object Members](./overview/signatureprovider-members-office.md)

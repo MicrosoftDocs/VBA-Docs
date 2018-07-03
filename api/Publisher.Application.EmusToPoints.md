@@ -20,7 +20,7 @@ Converts a measurement from emus to points (12700 emus = 1 point). Returns the c
 
  _expression_. **EmusToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

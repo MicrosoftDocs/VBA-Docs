@@ -20,7 +20,7 @@ Returns an  **OfficeDataSourceObject** object representing the data source in a 
 
  _expression_. **OfficeDataSourceObject**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Return Value

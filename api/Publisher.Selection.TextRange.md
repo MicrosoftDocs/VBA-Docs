@@ -20,7 +20,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the te
 
  _expression_. **TextRange**
 
- _expression_A variable that represents a  **Selection** object.
+ _expression_ A variable that represents a  **Selection** object.
 
 
 ## Example

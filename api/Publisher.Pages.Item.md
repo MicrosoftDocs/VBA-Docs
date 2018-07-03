@@ -20,7 +20,7 @@ Returns the specified  **[Page](Publisher.Page.md)** object from a **Pages** or 
 
  _expression_. **Item**( **_Item_**)
 
- _expression_A variable that represents a  **Pages** object.
+ _expression_ A variable that represents a  **Pages** object.
 
 
 ### Parameters

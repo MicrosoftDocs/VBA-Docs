@@ -101,7 +101,7 @@ End Sub
 
 
 [Folder Object](Outlook.Folder.md)
-#### Other resources
+
 
 
 [Folder Object Members](./overview/Outlook.md)

@@ -20,6 +20,6 @@ A  **Long** that specifies the number of canvases in the **Shapes** collection. 
 
  _expression_. **CanvasesCount**
 
- _expression_A variable that represents a  **[Shapes](Publisher.Shapes.md)** object.
+ _expression_ A variable that represents a  **[Shapes](Publisher.Shapes.md)** object.
 
 

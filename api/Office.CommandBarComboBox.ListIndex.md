@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the index number of the selected item in the list portion of the  **CommandBarComboBox** control. If nothing is selected in the list, this property returns zero. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -31,8 +28,8 @@ Gets or sets the index number of the selected item in the list portion of the  *
 
 ## Remarks
 
-
- **Note**  This property fails when applied to controls other than list controls.
+> [!NOTE]
+> This property fails when applied to controls other than list controls.
 
 Setting the  **ListIndex** property causes the specified control to select the given item and execute the appropriate action in the application.
 
@@ -62,7 +59,7 @@ End Sub
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

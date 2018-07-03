@@ -32,7 +32,7 @@ Object
 
 
 [CustomXMLValidationError Object](Office.CustomXMLValidationError.md)
-#### Other resources
+
 
 
 [CustomXMLValidationError Object Members](./overview/customxmlvalidationerror-members-office.md)

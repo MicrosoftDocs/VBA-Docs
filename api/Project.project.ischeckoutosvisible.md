@@ -54,7 +54,7 @@ End Sub
 
 
 [Project Object](Project.Project.md)
-#### Other resources
+
 
 
 [IsCheckoutMsgBarVisible](Project.project.ischeckoutmsgbarvisible.md)

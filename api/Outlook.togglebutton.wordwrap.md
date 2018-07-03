@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
  _expression_. **WordWrap**
 
- _expression_A variable that represents a  **ToggleButton** object.
+ _expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

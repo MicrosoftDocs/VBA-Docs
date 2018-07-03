@@ -20,7 +20,7 @@ Adds a new color plate to the specified  **Plates** object.
 
  _expression_. **Add**( **_PlateColor_**)
 
- _expression_A variable that represents a  **Plates** object.
+ _expression_ A variable that represents a  **Plates** object.
 
 
 ### Parameters

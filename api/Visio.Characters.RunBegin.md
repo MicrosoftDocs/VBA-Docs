@@ -50,7 +50,7 @@ Use the  _RunType_ argument to specify the type of run you want. You can use any
 
 
 
-|**Constant **|**Value **|**Description **|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visCharPropRow**|1 |Reports runs of characters with common character properties. Corresponds to the set of characters covered by one row in the shape's Character section. |
 | **visParaPropRow**|2 |Reports runs of characters with common paragraph properties. Corresponds to the set of characters covered by one row in the shape's Paragraph section. |

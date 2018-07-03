@@ -32,7 +32,7 @@ Retrieves a  **PictureEffect** object at the specified index. Read-only
 
 
 [PictureEffects Object](Office.PictureEffects.md)
-#### Other resources
+
 
 
 [PictureEffects Object Members](./overview/pictureeffects-members-office.md)

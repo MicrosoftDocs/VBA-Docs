@@ -15,7 +15,7 @@ Returns a  **[ReflectionFormat](Publisher.reflectionformat.md)** object that rep
 
  _expression_. **Reflection**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Return value

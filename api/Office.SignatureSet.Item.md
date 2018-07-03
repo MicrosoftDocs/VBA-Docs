@@ -35,7 +35,7 @@ Gets a  **Signature** object that corresponds to one of the digital signatures w
 
 
 [SignatureSet Object](Office.SignatureSet.md)
-#### Other resources
+
 
 
 [SignatureSet Object Members](signatureset-members-office.md)

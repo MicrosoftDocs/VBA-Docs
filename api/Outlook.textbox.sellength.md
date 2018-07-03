@@ -15,7 +15,7 @@ Returns or sets a  **Long** that represents the number of characters selected in
 
  _expression_. **SelLength**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

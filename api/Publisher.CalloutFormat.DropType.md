@@ -20,7 +20,7 @@ Returns an  **MsoCalloutDropType** constant indicating where the callout line at
 
  _expression_. **DropType**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_ A variable that represents a  **CalloutFormat** object.
 
 
 ### Return Value

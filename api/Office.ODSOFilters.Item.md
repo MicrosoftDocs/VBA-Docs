@@ -50,7 +50,7 @@ oOdsoFilter = oOdsoFilters.Item(1)
 
 
 [ODSOFilters Object](Office.ODSOFilters.md)
-#### Other resources
+
 
 
 [ODSOFilters Object Members](./overview/odsofilters-members-office.md)

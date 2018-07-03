@@ -15,6 +15,6 @@ Returns or sets a  **String**that represents the view implementation via XML. Re
 
  _expression_. **ViewXML**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_ A variable that represents a  **ViewCtl** object.
 
 

@@ -62,7 +62,7 @@ End Sub
 
 
 [SearchScope Object](Office.SearchScope.md)
-#### Other resources
+
 
 
 [SearchScope Object Members](./overview/searchscope-members-office.md)

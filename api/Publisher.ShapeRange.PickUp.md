@@ -20,7 +20,7 @@ Copies formatting from a shape or shape range so that it can be copied to anothe
 
  _expression_. **PickUp**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Sets or returns an  **MsoTriState**constant that represents whether the font for
 
  _expression_. **FontBold**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_ A variable that represents a  **TextEffectFormat** object.
 
 
 ## Remarks

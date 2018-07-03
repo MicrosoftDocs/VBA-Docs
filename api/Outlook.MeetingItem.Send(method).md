@@ -32,7 +32,7 @@ When you create a meeting request programmatically, you first create an  **[Appo
 
 
 [MeetingItem Object](Outlook.MeetingItem.md)
-#### Other resources
+
 
 
 [How to: Create an Appointment as a Meeting on the Calendar](../outlook/How-to/Items-Folders-and-Stores/create-an-appointment-as-a-meeting-on-the-calendar.md)

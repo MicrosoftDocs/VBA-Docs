@@ -20,7 +20,7 @@ Returns a  **[ShadowFormat](Publisher.ShadowFormat.md)** object that represents 
 
  _expression_. **Shadow**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Example

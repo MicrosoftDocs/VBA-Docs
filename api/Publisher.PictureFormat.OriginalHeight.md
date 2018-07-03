@@ -20,7 +20,7 @@ Returns a  **Variant** representing the height, in points, of the specified link
 
  _expression_. **OriginalHeight**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_ A variable that represents an  **PictureFormat** object.
 
 
 ### Return Value

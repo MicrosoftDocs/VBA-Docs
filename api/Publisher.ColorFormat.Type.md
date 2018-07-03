@@ -20,7 +20,7 @@ Returns or sets a  **PbColorType** constant that represents the shape color type
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **ColorFormat** object.
+ _expression_ A variable that represents a  **ColorFormat** object.
 
 
 ## Remarks
