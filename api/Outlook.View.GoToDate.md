@@ -33,7 +33,7 @@ Changes the date used by the current view to display information.
 
 ## Remarks
 
-To specify a date to go to in a current view, such as a  **[CalendarView](calendarOutlook.View.md)** object, you should first obtain a **[View](Outlook.View.md)** object for the current view by using **[Explorer.CurrentView](Outlook.Explorer.CurrentView.md)** instead of **[Folder.CurrentView](Outlook.Folder.CurrentView.md)** . The following code sample demonstrates how to perform this action.
+To specify a date to go to in a current view, such as a  **[CalendarView](Outlook.calendarView.md)** object, you should first obtain a **[View](Outlook.View.md)** object for the current view by using **[Explorer.CurrentView](Outlook.Explorer.CurrentView.md)** instead of **[Folder.CurrentView](Outlook.Folder.CurrentView.md)** . The following code sample demonstrates how to perform this action.
 
 
 ```vb

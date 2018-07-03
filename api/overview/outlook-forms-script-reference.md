@@ -27,7 +27,7 @@ ms.date: 06/08/2017
     
 -  [ListBox Object Reference (Outlook Forms Script)](../Outlook.listbox.object.md)
     
--  [MultiPage Object Reference (Outlook Forms Script)](../multiOutlook.page.object.md)
+-  [MultiPage Object Reference (Outlook Forms Script)](../Outlook.multipage.object.md)
     
 -  [OptionButton Object Reference (Outlook Forms Script)](../Outlook.optionbutton.object.md)
     

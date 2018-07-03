@@ -21,7 +21,7 @@ Represents an order field, used to sort information in a view.
 Use the  **[Add](Outlook.ViewFields.Add.md)** method of the **[OrderFields](Outlook.OrderFields.md)** object to add an Outlook item property to the **SortFields** collection for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[BusinessCardView](businessOutlook.CardView.md)**
+-  **[BusinessCardView](Outlook.businessCardView.md)**
     
 -  **[CardView](Outlook.CardView.md)**
     

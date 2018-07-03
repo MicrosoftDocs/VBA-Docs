@@ -25,7 +25,7 @@ Occurs when the user exits Microsoft Publisher.
 
 ## Remarks
 
-For information about using events with the Application object, see  [Using Events with the Application Object](using-events-with-the-Publisher.Application.md).
+For information about using events with the Application object, see  [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
 
 
 ## See also

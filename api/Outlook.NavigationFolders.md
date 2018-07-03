@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolders Object (Outlook)
 
-Contains a set of  **[NavigationFolder](navigationOutlook.Folder.md)** objects that represent the navigation folders associated with a navigation group.
+Contains a set of  **[NavigationFolder](Outlook.navigationFolder.md)** objects that represent the navigation folders associated with a navigation group.
 
 
 ## Remarks

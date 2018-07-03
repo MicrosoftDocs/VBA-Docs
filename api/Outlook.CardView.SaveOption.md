@@ -25,7 +25,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[CardView](cardOutlook.View.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
+The value of the  **SaveOption** property is set when the **[CardView](Outlook.cardView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example
@@ -117,5 +117,5 @@ End Sub
 ## See also
 
 
-[CardView Object](cardOutlook.View.md)
+[CardView Object](Outlook.cardView.md)
 

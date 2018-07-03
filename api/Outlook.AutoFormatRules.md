@@ -21,7 +21,7 @@ Represents the collection of  **[AutoFormatRule](Outlook.AutoFormatRule.md)** ob
 Use the  **[Add](Outlook.AutoFormatRules.Add.md)** method or the **[Insert](Outlook.AutoFormatRules.Insert.md)** method of the **AutoFormatRules** collection to create a new formatting rule for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[BusinessCardView](businessOutlook.CardView.md)**
+-  **[BusinessCardView](Outlook.businessCardView.md)**
     
 -  **[CalendarView](Outlook.CalendarView.md)**
     

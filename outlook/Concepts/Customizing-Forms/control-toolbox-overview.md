@@ -20,7 +20,7 @@ You can customize the  **Control Toolbox** in many ways including the following:
     
 - Add other controls, including ActiveX controls, to the  **Control Toolbox**. 
     
-- Copy modified controls from the form to the  **Control Toolbox**. For example,  **OK** and **Cancel** buttons are special types of [CommandButtons](commandbutton-object-outlook-forms-script.md). If you copy  **OK** and **Cancel** templates to the **Control Toolbox**, you can quickly add them to other forms.
+- Copy modified controls from the form to the  **Control Toolbox**. For example,  **OK** and **Cancel** buttons are special types of [CommandButtons](../../../api/Outlook.commandbutton.md). If you copy  **OK** and **Cancel** templates to the **Control Toolbox**, you can quickly add them to other forms.
     
 
  **Note**  When you add a control to a form by using the  **Control Toolbox**, the control is not bound to a field.

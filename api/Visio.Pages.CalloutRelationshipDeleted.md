@@ -29,7 +29,7 @@ Private Sub  _expression_ _'CalloutRelationshipDeleted'( **_By Val ShapePair As 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ShapePair_|Required| **[RelatedShapePairEvent](relatedshapepairVisio.Event.md)**|An object that represents the callout shape-pair relationship.|
+| _ShapePair_|Required| **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)**|An object that represents the callout shape-pair relationship.|
 
 ## Remarks
 
