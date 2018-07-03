@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelConnection.CommandType Property (Excel)
 
-Returns or sets one of the [XlCmdType Enumeration (Excel)](xlcmdtype-enumeration-excel.md) constants. Read/Write
+Returns or sets one of the [XlCmdType Enumeration (Excel)](Excel.XlCmdType.md) constants. Read/Write
 
 
 ## Syntax

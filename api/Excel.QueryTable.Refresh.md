@@ -52,7 +52,7 @@ If the query requires parameters, the  **[Parameters](Excel.Parameters.md)** col
 
 The  **Refresh** method returns **True** if the query is successfully completed or started; it returns **False** if the user cancels a connection or parameter dialog box.
 
-To see whether the number of fetched rows exceeded the number of available rows on the worksheet, examine the  **[FetchedRowOverflow](querytable-fetchedrowoverflow-property-excel.md)** property. This property is initialized every time the **Refresh** method is called.
+To see whether the number of fetched rows exceeded the number of available rows on the worksheet, examine the  **[FetchedRowOverflow](Excel.QueryTable.FetchedRowOverflow.md)** property. This property is initialized every time the **Refresh** method is called.
 
 
 ## See also

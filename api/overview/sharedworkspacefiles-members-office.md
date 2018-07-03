@@ -30,6 +30,6 @@ A collection of the  **[SharedWorkspaceFile](../Office.SharedWorkspaceFile.md)**
 |[Count](../Office.SharedWorkspaceFiles.Count.md)|Gets a  **Long** indicating the number of items in the **SharedWorkspaceFiles** collection. Read-only.|
 |[Creator](../Office.SharedWorkspaceFiles.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **SharedWorkspaceFiles** object was created. Read-only.|
 |[Item](../Office.SharedWorkspaceFiles.Item.md)|Gets a  **SharedWorkspaceFile** object from the **Files** collection of the shared workspace. Read-only.|
-|[ItemCountExceeded](sharedworkspacefiles-itemcountexceeded-property-office.md)|Gets a  **Boolean** value indicating whether the number of files allowed in the shared workspace has been exceeded. Read-only.|
-|[Parent](sharedworkspacefiles-parent-property-office.md)|Gets the  **Parent** object for the **SharedWorkspaceFiles** object. Read-only.|
+|[ItemCountExceeded](../Office.SharedWorkspaceFiles.ItemCountExceeded.md)|Gets a  **Boolean** value indicating whether the number of files allowed in the shared workspace has been exceeded. Read-only.|
+|[Parent](../Office.SharedWorkspaceFiles.Parent.md)|Gets the  **Parent** object for the **SharedWorkspaceFiles** object. Read-only.|
 

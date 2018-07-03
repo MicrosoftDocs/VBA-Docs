@@ -45,5 +45,5 @@ ActiveWindow.Selection.ShapeRange.Table.Rows(2).Cells.Borders(ppBorderBottom).Da
 ## See also
 
 
-[PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](overview/object-model-powerpoint-vba-reference.md)
 

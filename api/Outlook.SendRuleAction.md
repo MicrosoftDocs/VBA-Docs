@@ -34,8 +34,8 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 |[Class](Outlook.SendRuleAction.Class.md)|
 |[Enabled](Outlook.SendRuleAction.Enabled.md)|
 |[Parent](Outlook.SendRuleAction.Parent.md)|
-|[Recipients](sendruleaction-recipients-property-outlook.md)|
-|[Session](sendruleaction-session-property-outlook.md)|
+|[Recipients](../missing-files/Outlook/sendruleaction-recipients-property-outlook.md)|
+|[Session](../missing-files/Outlook/sendruleaction-session-property-outlook.md)|
 
 ## See also
 

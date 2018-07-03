@@ -76,5 +76,5 @@ Application.ActivePresentation.PrintOut PrintToFile:="TestPrnt"
 ## See also
 
 
-[Presentation Object](presentation-object-powerpoint.md)
+[Presentation Object](PowerPoint.Presentation.md)
 

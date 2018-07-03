@@ -25,6 +25,6 @@ Specifies constants that determine whether new items of the conversation are alw
 
 ## Remarks
 
-This enumeration is used by the [GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md) method of the[Conversation Object (Outlook)](conversation-object-outlook.md).
+This enumeration is used by the [GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md) method of the[Conversation Object (Outlook)](../missing-files/Outlook/conversation-object-outlook.md).
 
 

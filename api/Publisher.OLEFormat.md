@@ -66,6 +66,6 @@ End Sub
 |[Application](Publisher.OLEFormat.Application.md)|
 |[Object](Publisher.OLEFormat.Object.md)|
 |[ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)|
-|[Parent](oleformat-parent-property-publisher.md)|
-|[ProgId](oleformat-progid-property-publisher.md)|
+|[Parent](../missing-files/Publisher/oleformat-parent-property-publisher.md)|
+|[ProgId](../missing-files/Publisher/oleformat-progid-property-publisher.md)|
 

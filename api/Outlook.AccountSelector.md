@@ -41,7 +41,7 @@ The  **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSe
 |[Class](Outlook.AccountSelector.Class.md)|
 |[Parent](Outlook.AccountSelector.Parent.md)|
 |[SelectedAccount](Outlook.AccountSelector.SelectedAccount.md)|
-|[Session](accountselector-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/accountselector-session-property-outlook.md)|
 
 ## See also
 

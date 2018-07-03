@@ -25,6 +25,6 @@ Indicates the permission restrictions on an  **Item**.
 
 ## Remarks
 
-Used by the [SharingItem.Permission Property (Outlook)](sharingitem-permission-property-outlook.md) and[MailItem.Permission Property (Outlook)](mailitem-permission-property-outlook.md) to specify the permissions that the recipients will have on the item.
+Used by the [SharingItem.Permission Property (Outlook)](../missing-files/Outlook/sharingitem-permission-property-outlook.md) and[MailItem.Permission Property (Outlook)](../missing-files/Outlook/mailitem-permission-property-outlook.md) to specify the permissions that the recipients will have on the item.
 
 

@@ -51,5 +51,5 @@ Set myFont = _
 #### Other resources
 
 
-[WebPageFonts Object Members](webpagefonts-members-office.md)
+[WebPageFonts Object Members](overview/webpagefonts-members-office.md)
 

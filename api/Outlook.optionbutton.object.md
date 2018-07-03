@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [OptionButton Object (Outlook Forms Script)](Outlook.optionbutton.md)
     
--  [OptionButton Members (Outlook Forms Script)](optionbutton-members-outlook-forms-script.md)
+-  [OptionButton Members (Outlook Forms Script)](../missing-files/Outlook/optionbutton-members-outlook-forms-script.md)
     
--  [OptionButton Properties (Outlook Forms Script)](optionbutton-properties-outlook-forms-script.md)
+-  [OptionButton Properties (Outlook Forms Script)](../missing-files/Outlook/optionbutton-properties-outlook-forms-script.md)
     
--  [OptionButton Events (Outlook Forms Script)](optionbutton-events-outlook-forms-script.md)
+-  [OptionButton Events (Outlook Forms Script)](../missing-files/Outlook/optionbutton-events-outlook-forms-script.md)
     
 

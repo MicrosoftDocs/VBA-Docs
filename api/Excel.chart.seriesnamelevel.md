@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Chart.SeriesNameLevel Property (Excel)
 
-Returns a  **[XlSeriesNameLevel Enumeration (Excel)](xlseriesnamelevel-enumeration-excel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
+Returns a  **[XlSeriesNameLevel Enumeration (Excel)](Excel.xlseriesnamelevel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
 
 
 ## Syntax

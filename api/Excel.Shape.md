@@ -196,7 +196,7 @@ ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _
 |[Vertices](Excel.Shape.Vertices.md)|
 |[Visible](Excel.Shape.Visible.md)|
 |[Width](Excel.Shape.Width.md)|
-|[ZOrderPosition](shape-zorderposition-property-excel.md)|
+|[ZOrderPosition](Excel.Shape.ZOrderPosition.md)|
 
 ## See also
 

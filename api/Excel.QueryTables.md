@@ -65,7 +65,7 @@ End With
 |[Application](Excel.QueryTables.Application.md)|
 |[Count](Excel.QueryTables.Count.md)|
 |[Creator](Excel.QueryTables.Creator.md)|
-|[Parent](querytables-parent-property-excel.md)|
+|[Parent](Excel.QueryTables.Parent.md)|
 
 ## See also
 

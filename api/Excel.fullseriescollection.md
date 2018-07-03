@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 
 # FullSeriesCollection Object (Excel)
 
-Represents the full set of [Series Object (Excel)](series-object-excel.md) objects in a chart.
+Represents the full set of [Series Object (Excel)](Excel.Series.md) objects in a chart.
 
 
 ## Remarks
 
-The [FullSeriesCollection Object (Excel)](fullseriescollection-object-excel.md) object enables you to get a filtered out[Series Object (Excel)](series-object-excel.md) object and filter it back in. It also enables you to iterate over the full set of Series object, filtered out or visible, programmatically. By having the existing[SeriesCollection Object (Excel)](seriescollection-object-excel.md) object contain only the visible series you can programmatically perform operations on only the visible series. It also prevents Microsoft Excel from breaking existing chart solutions on charts with filtered out data.
+The [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object enables you to get a filtered out[Series Object (Excel)](Excel.Series.md) object and filter it back in. It also enables you to iterate over the full set of Series object, filtered out or visible, programmatically. By having the existing[SeriesCollection Object (Excel)](Excel.SeriesCollection.md) object contain only the visible series you can programmatically perform operations on only the visible series. It also prevents Microsoft Excel from breaking existing chart solutions on charts with filtered out data.
 
 
 ## Example
 
-The following example displays a message box with the name of the second [Series Object (Excel)](series-object-excel.md) object in the second chart.
+The following example displays a message box with the name of the second [Series Object (Excel)](Excel.Series.md) object in the second chart.
 
 
 ```VB.net
@@ -46,12 +46,12 @@ MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 |[Application](Excel.fullseriescollection.application.md)|
 |[Count](Excel.fullseriescollection.count.md)|
 |[Creator](Excel.fullseriescollection.creator.md)|
-|[Parent](fullseriescollection-parent-property-excel.md)|
+|[Parent](Excel.fullseriescollection.parent.md)|
 
 ## See also
 
 
-[SeriesCollection](seriescollection-object-excel.md)
+[SeriesCollection](Excel.SeriesCollection.md)
 #### Other resources
 
 

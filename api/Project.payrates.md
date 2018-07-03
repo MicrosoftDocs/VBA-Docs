@@ -83,7 +83,7 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 |[Application](Project.PayRates.Application.md)|
 |[Count](Project.PayRates.Count.md)|
 |[Item](Project.PayRates.Item.md)|
-|[Parent](payrates-parent-property-project.md)|
+|[Parent](../missing-files/Project/payrates-parent-property-project.md)|
 
 ## See also
 

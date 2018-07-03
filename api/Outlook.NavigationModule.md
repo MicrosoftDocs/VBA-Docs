@@ -52,9 +52,9 @@ You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to 
 |[Class](Outlook.NavigationModule.Class.md)|
 |[Name](Outlook.NavigationModule.Name.md)|
 |[NavigationModuleType](Outlook.NavigationModule.NavigationModuleType.md)|
-|[Parent](navigationmodule-parent-property-outlook.md)|
+|[Parent](../missing-files/Outlook/navigationmodule-parent-property-outlook.md)|
 |[Position](Outlook.NavigationModule.Position.md)|
-|[Session](navigationmodule-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/navigationmodule-session-property-outlook.md)|
 |[Visible](Outlook.NavigationModule.Visible.md)|
 
 ## See also

@@ -110,7 +110,7 @@ End Sub
 |[Filters](Excel.AutoFilter.Filters.md)|
 |[Parent](Excel.AutoFilter.Parent.md)|
 |[Range](Excel.AutoFilter.Range.md)|
-|[Sort](autofilter-sort-property-excel.md)|
+|[Sort](Excel.AutoFilter.Sort.md)|
 
 ## See also
 

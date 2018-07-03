@@ -41,5 +41,5 @@ Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to i
 #### Other resources
 
 
-[NewFile Object Members](newfile-members-office.md)
+[NewFile Object Members](overview/newfile-members-office.md)
 

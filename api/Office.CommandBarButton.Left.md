@@ -30,5 +30,5 @@ Set or gets the horizontal position of the specified  **CommandBarButton** contr
 #### Other resources
 
 
-[CommandBarButton Object Members](commandbarbutton-members-office.md)
+[CommandBarButton Object Members](overview/commandbarbutton-members-office.md)
 

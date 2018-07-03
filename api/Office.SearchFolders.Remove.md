@@ -38,5 +38,5 @@ Removes the specified object from the collection.
 #### Other resources
 
 
-[SearchFolders Object Members](searchfolders-members-office.md)
+[SearchFolders Object Members](overview/searchfolders-members-office.md)
 

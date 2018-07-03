@@ -20,7 +20,7 @@ Represents the chart area of a chart.
 
 The chart area includes everything, including the plot area. However, the plot area has its own fill, so filling the plot area does not fill the chart area.
 
- For information about formatting the plot area, see **[PlotArea Object](plotarea-object-excel.md)**.
+ For information about formatting the plot area, see **[PlotArea Object](Excel.PlotArea(objec).md)**.
 
 Use the  **ChartArea** property to return the **ChartArea** object.
 
@@ -42,11 +42,11 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 |**Name**|
 |:-----|
-|[Clear](chartarea-clear-method-excel.md)|
-|[ClearContents](chartarea-clearcontents-method-excel.md)|
-|[ClearFormats](chartarea-clearformats-method-excel.md)|
-|[Copy](chartarea-copy-method-excel.md)|
-|[Select](chartarea-select-method-excel.md)|
+|[Clear](Excel.ChartArea.Clear.md)|
+|[ClearContents](Excel.ChartArea.ClearContents.md)|
+|[ClearFormats](Excel.ChartArea.ClearFormats.md)|
+|[Copy](Excel.ChartArea.Copy.md)|
+|[Select](Excel.ChartArea.Select.md)|
 
 ## Properties
 
@@ -54,17 +54,17 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 |**Name**|
 |:-----|
-|[Application](chartarea-application-property-excel.md)|
-|[Creator](chartarea-creator-property-excel.md)|
-|[Format](chartarea-format-property-excel.md)|
-|[Height](chartarea-height-property-excel.md)|
-|[Left](chartarea-left-property-excel.md)|
-|[Name](chartarea-name-property-excel.md)|
-|[Parent](chartarea-parent-property-excel.md)|
-|[RoundedCorners](chartarea-roundedcorners-property-excel.md)|
-|[Shadow](chartarea-shadow-property-excel.md)|
-|[Top](chartarea-top-property-excel.md)|
-|[Width](chartarea-width-property-excel.md)|
+|[Application](Excel.ChartArea.Application.md)|
+|[Creator](Excel.ChartArea.Creator.md)|
+|[Format](Excel.ChartArea.Format.md)|
+|[Height](Excel.ChartArea.Height.md)|
+|[Left](Excel.ChartArea.Left.md)|
+|[Name](Excel.ChartArea.Name.md)|
+|[Parent](Excel.ChartArea.Parent.md)|
+|[RoundedCorners](Excel.ChartArea.RoundedCorners.md)|
+|[Shadow](Excel.ChartArea.Shadow.md)|
+|[Top](Excel.ChartArea.Top.md)|
+|[Width](Excel.ChartArea.Width.md)|
 
 ## See also
 

@@ -67,4 +67,4 @@ End Sub
 
 [Application Object](Word.Application.md)
 
-[AutoSave](../../Office-Shared-VBA/articles/how-autosave-impacts-addins-and-macros.md)
+[AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)

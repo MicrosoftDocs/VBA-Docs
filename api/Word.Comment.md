@@ -72,8 +72,8 @@ MsgBox ActiveDocument.Comments(1).Range.Text
 |[Parent](Word.Comment.Parent.md)|
 |[Range](Word.Comment.Range.md)|
 |[Reference](Word.Comment.Reference.md)|
-|[Replies](comment-replies-property-word.md)|
-|[Scope](comment-scope-property-word.md)|
+|[Replies](../missing-files/Word/comment-replies-property-word.md)|
+|[Scope](../missing-files/Word/comment-scope-property-word.md)|
 
 ## See also
 

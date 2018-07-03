@@ -36,9 +36,9 @@ Use the  **[NavigationFolders](Outlook.NavigationGroup.NavigationFolders.md)** p
 |[GroupType](Outlook.NavigationGroup.GroupType.md)|
 |[Name](Outlook.NavigationGroup.Name.md)|
 |[NavigationFolders](Outlook.NavigationGroup.NavigationFolders.md)|
-|[Parent](navigationgroup-parent-property-outlook.md)|
+|[Parent](../missing-files/Outlook/navigationgroup-parent-property-outlook.md)|
 |[Position](Outlook.NavigationGroup.Position.md)|
-|[Session](navigationgroup-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/navigationgroup-session-property-outlook.md)|
 
 ## See also
 

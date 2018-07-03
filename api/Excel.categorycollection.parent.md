@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # CategoryCollection.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[CategoryCollection Object (Excel)](categorycollection-object-excel.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[CategoryCollection Object (Excel)](Excel.categorycollection.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[CategoryCollection Object (Excel)](categorycollection-object-excel.md) object.
+ _expression_ A variable that represents a[CategoryCollection Object (Excel)](Excel.categorycollection.md) object.
 
 
 ## Remarks
@@ -35,5 +35,5 @@ This property will return the  **Chart** object that owns this collection of cat
 
 
 
-[CategoryCollection Object](categorycollection-object-excel.md)
+[CategoryCollection Object](Excel.categorycollection.md)
 

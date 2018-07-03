@@ -71,5 +71,5 @@ End Sub
 |:-----|
 |[Application](Publisher.Fields.Application.md)|
 |[Count](Publisher.Fields.Count.md)|
-|[Parent](fields-parent-property-publisher.md)|
+|[Parent](../missing-files/Publisher/fields-parent-property-publisher.md)|
 

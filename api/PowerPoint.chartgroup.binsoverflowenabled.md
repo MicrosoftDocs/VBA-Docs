@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # ChartGroup.BinsOverflowEnabled Property (PowerPoint)
 
-Specifies whether a bin for values above the [ChartGroup.BinsOverflowValue Property (PowerPoint)](chartgroup-binsoverflowvalue-property-powerpoint.md) is enabled. Read/write **Boolean**.
+Specifies whether a bin for values above the [ChartGroup.BinsOverflowValue Property (PowerPoint)](PowerPoint.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,5 +24,5 @@ Specifies whether a bin for values above the [ChartGroup.BinsOverflowValue Prope
 ## See also
 
 
-[ChartGroup Object (PowerPoint)](chartgroup-object-powerpoint.md)
+[ChartGroup Object (PowerPoint)](PowerPoint.ChartGroup.md)
 

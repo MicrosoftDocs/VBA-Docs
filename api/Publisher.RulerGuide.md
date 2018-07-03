@@ -60,5 +60,5 @@ End Sub
 |[Application](Publisher.RulerGuide.Application.md)|
 |[Parent](Publisher.RulerGuide.Parent.md)|
 |[Position](Publisher.RulerGuide.Position.md)|
-|[Type](rulerguide-type-property-publisher.md)|
+|[Type](../missing-files/Publisher/rulerguide-type-property-publisher.md)|
 

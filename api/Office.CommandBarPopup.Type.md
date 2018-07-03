@@ -33,5 +33,5 @@ Gets the type of  **CommandBarPopup** control. Read-only.
 #### Other resources
 
 
-[CommandBarPopup Object Members](commandbarpopup-members-office.md)
+[CommandBarPopup Object Members](overview/commandbarpopup-members-office.md)
 

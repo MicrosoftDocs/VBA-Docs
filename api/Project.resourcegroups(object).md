@@ -67,5 +67,5 @@ For resource groups where the group hierarchy can be maintained and cell color c
 |[Application](Project.ResourceGroups.Application.md)|
 |[Count](Project.ResourceGroups.Count.md)|
 |[Item](Project.ResourceGroups.Item.md)|
-|[Parent](resourcegroups-parent-property-project.md)|
+|[Parent](../missing-files/Project/resourcegroups-parent-property-project.md)|
 

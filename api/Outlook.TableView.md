@@ -72,22 +72,22 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 |[LockUserChanges](Outlook.TableView.LockUserChanges.md)|
 |[MaxLinesInMultiLineView](Outlook.TableView.MaxLinesInMultiLineView.md)|
 |[MultiLine](Outlook.TableView.Multiline.md)|
-|[MultiLineWidth](tableview-multilinewidth-property-outlook.md)|
-|[Name](tableview-name-property-outlook.md)|
-|[Parent](tableview-parent-property-outlook.md)|
+|[MultiLineWidth](../missing-files/Outlook/tableview-multilinewidth-property-outlook.md)|
+|[Name](../missing-files/Outlook/tableview-name-property-outlook.md)|
+|[Parent](../missing-files/Outlook/tableview-parent-property-outlook.md)|
 |[RowFont](Outlook.TableView.RowFont.md)|
-|[SaveOption](tableview-saveoption-property-outlook.md)|
-|[Session](tableview-session-property-outlook.md)|
-|[ShowConversationByDate](tableview-showconversationbydate-property-outlook.md)|
-|[ShowConversationSendersAboveSubject](tableview-showconversationsendersabovesubject-property-outlook.md)|
-|[ShowFullConversations](tableview-showfullconversations-property-outlook.md)|
-|[ShowItemsInGroups](tableview-showitemsingroups-property-outlook.md)|
-|[ShowNewItemRow](tableview-shownewitemrow-property-outlook.md)|
-|[ShowReadingPane](tableview-showreadingpane-property-outlook.md)|
+|[SaveOption](../missing-files/Outlook/tableview-saveoption-property-outlook.md)|
+|[Session](../missing-files/Outlook/tableview-session-property-outlook.md)|
+|[ShowConversationByDate](../missing-files/Outlook/tableview-showconversationbydate-property-outlook.md)|
+|[ShowConversationSendersAboveSubject](../missing-files/Outlook/tableview-showconversationsendersabovesubject-property-outlook.md)|
+|[ShowFullConversations](../missing-files/Outlook/tableview-showfullconversations-property-outlook.md)|
+|[ShowItemsInGroups](../missing-files/Outlook/tableview-showitemsingroups-property-outlook.md)|
+|[ShowNewItemRow](../missing-files/Outlook/tableview-shownewitemrow-property-outlook.md)|
+|[ShowReadingPane](../missing-files/Outlook/tableview-showreadingpane-property-outlook.md)|
 |[SortFields](Outlook.TableView.SortFields.md)|
-|[Standard](tableview-standard-property-outlook.md)|
+|[Standard](../missing-files/Outlook/tableview-standard-property-outlook.md)|
 |[ViewFields](Outlook.TableView.ViewFields.md)|
-|[ViewType](tableview-viewtype-property-outlook.md)|
+|[ViewType](../missing-files/Outlook/tableview-viewtype-property-outlook.md)|
 |[XML](Outlook.TableView.XML.md)|
 
 ## See also

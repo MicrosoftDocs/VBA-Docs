@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Object model (Outlook View Control reference)](object-model-outlook-view-control-reference.md)
+-  [Object model (Outlook View Control reference)](overview/object-model-outlook-view-control-reference.md)
     
 -  [ViewCtl Object (Outlook View Control)](Outlook.viewc.md)
     

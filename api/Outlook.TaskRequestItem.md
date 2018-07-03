@@ -151,7 +151,7 @@ End Sub
 |[Size](Outlook.TaskRequestItem.Size.md)|
 |[Subject](Outlook.TaskRequestItem.Subject.md)|
 |[UnRead](Outlook.TaskRequestItem.UnRead.md)|
-|[UserProperties](taskrequestitem-userproperties-property-outlook.md)|
+|[UserProperties](../missing-files/Outlook/taskrequestitem-userproperties-property-outlook.md)|
 
 ## See also
 

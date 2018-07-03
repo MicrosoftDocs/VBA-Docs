@@ -46,7 +46,7 @@ Sets the font for the text in the active cells.
 
 ## Remarks
 
-To set the font with an RGB hexadecimal value for color or with a strikethrough format, use the  **[Font32Ex](application-font32ex-method-project.md)** method.
+To set the font with an RGB hexadecimal value for color or with a strikethrough format, use the  **[Font32Ex](../missing-files/Project/application-font32ex-method-project.md)** method.
 
 
 ## Example

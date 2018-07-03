@@ -50,5 +50,5 @@ The following example lists the files saved in the current shared workspace.
 #### Other resources
 
 
-[SharedWorkspace Object Members](sharedworkspace-members-office.md)
+[SharedWorkspace Object Members](overview/sharedworkspace-members-office.md)
 

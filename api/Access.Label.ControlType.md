@@ -31,25 +31,25 @@ The  **ControlType** property setting is an intrinsic constant that specifies th
 
 |**Constant**|**Control**|
 |:-----|:-----|
-|**acBoundObjectFrame**|[Bound object frame](bound-object-frame-control.md)|
-|**acCheckBox**|[Check box](check-box-control.md)|
-|**acComboBox**|[Combo box](combo-box-control.md)|
-|**acCommandButton**|[Command button](command-button-control.md)|
-|**acCustomControl**|[ActiveX (custom) control](activex-control.md)|
-|**acImage**|[Image](image-control-misc.md)|
-|**acLabel**|[Label](label-control-access.md)|
-|**acLine**|[Line](line-control.md)|
-|**acListBox**|[List box](list-box-control.md)|
-|**acObjectFrame**|[Unbound object frame](unbound-object-frame-control.md)or [Chart](chart-control.md)|
-|**acOptionButton**|[Option button](option-button-control.md)|
-|**acOptionGroup**|[Option group](option-group-control.md)|
-|**acPage**|[Page](page.md)|
-|**acPageBreak**|[Page break](page-break-control.md)|
-|**acRectangle**|[Rectangle](rectangle-control.md)|
-|**acSubform**|[Subform/subreport](subform-subreport-control.md)|
-|**acTabCtl**|[Tab](tab-control.md)|
-|**acTextBox**|[Text box](text-box-control.md)|
-|**acToggleButton**|[Toggle button](toggle-button-control.md)[Toggle button](toggle-button-control.md)|
+|**acBoundObjectFrame**|[Bound object frame](overview/bound-object-frame-control.md)|
+|**acCheckBox**|[Check box](overview/check-box-control.md)|
+|**acComboBox**|[Combo box](overview/combo-box-control.md)|
+|**acCommandButton**|[Command button](overview/command-button-control.md)|
+|**acCustomControl**|[ActiveX (custom) control](overview/activex-control.md)|
+|**acImage**|[Image](overview/image-control-misc.md)|
+|**acLabel**|[Label](overview/label-control-access.md)|
+|**acLine**|[Line](overview/line-control.md)|
+|**acListBox**|[List box](overview/list-box-control.md)|
+|**acObjectFrame**|[Unbound object frame](overview/unbound-object-frame-control.md)or [Chart](overview/chart-control.md)|
+|**acOptionButton**|[Option button](overview/option-button-control.md)|
+|**acOptionGroup**|[Option group](overview/option-group-control.md)|
+|**acPage**|[Page](overview/page.md)|
+|**acPageBreak**|[Page break](overview/page-break-control.md)|
+|**acRectangle**|[Rectangle](overview/rectangle-control.md)|
+|**acSubform**|[Subform/subreport](overview/subform-subreport-control.md)|
+|**acTabCtl**|[Tab](overview/tab-control.md)|
+|**acTextBox**|[Text box](overview/text-box-control.md)|
+|**acToggleButton**|[Toggle button](overview/toggle-button-control.md)[Toggle button](overview/toggle-button-control.md)|
 
  **Note**  The  **ControlType** property can only be set by using Visual Basic in form Design view or report Design view, but it can be read in all views.
 

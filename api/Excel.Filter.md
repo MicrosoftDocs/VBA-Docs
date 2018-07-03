@@ -58,7 +58,7 @@ w.Cells.AutoFilter field:=2, Criteria1:="Crucial", _
 |[Criteria2](Excel.Filter.Criteria2.md)|
 |[On](Excel.Filter.On.md)|
 |[Operator](Excel.Filter.Operator.md)|
-|[Parent](filter-parent-property-excel.md)|
+|[Parent](Excel.Filter.Parent.md)|
 
 ## See also
 

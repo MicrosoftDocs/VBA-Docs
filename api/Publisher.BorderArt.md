@@ -88,5 +88,5 @@ End Sub
 |:-----|
 |[Application](Publisher.BorderArt.Application.md)|
 |[Name](Publisher.BorderArt.Name.md)|
-|[Parent](borderart-parent-property-publisher.md)|
+|[Parent](../missing-files/Publisher/borderart-parent-property-publisher.md)|
 

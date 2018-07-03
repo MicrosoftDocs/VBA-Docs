@@ -165,8 +165,8 @@ End Sub
  
 [Report Object](Project.report.md)
  
-[Shape Object](shape-object-project.md)
+[Shape Object](../missing-files/Project/shape-object-project.md)
  
-[Chart Object](chart-object-project.md)
+[Chart Object](../missing-files/Project/chart-object-project.md)
  
-[Chart.DataTable Property](chart-datatable-property-project.md)
+[Chart.DataTable Property](../missing-files/Project/chart-datatable-property-project.md)

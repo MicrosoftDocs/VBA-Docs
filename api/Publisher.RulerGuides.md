@@ -77,6 +77,6 @@ End Sub
 |:-----|
 |[Application](Publisher.RulerGuides.Application.md)|
 |[Count](Publisher.RulerGuides.Count.md)|
-|[Item](rulerguides-item-property-publisher.md)|
-|[Parent](rulerguides-parent-property-publisher.md)|
+|[Item](../missing-files/Publisher/rulerguides-item-property-publisher.md)|
+|[Parent](../missing-files/Publisher/rulerguides-parent-property-publisher.md)|
 

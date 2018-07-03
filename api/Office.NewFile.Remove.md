@@ -45,5 +45,5 @@ The arguments supplied to the  **Remove** method must match the arguments that w
 #### Other resources
 
 
-[NewFile Object Members](newfile-members-office.md)
+[NewFile Object Members](overview/newfile-members-office.md)
 

@@ -24,5 +24,5 @@ Specifies the number of points in each range. Read/write  **Double**.
 ## See also
 
 
-[ChartGroup Object (PowerPoint)](chartgroup-object-powerpoint.md)
+[ChartGroup Object (PowerPoint)](PowerPoint.ChartGroup.md)
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelMeasureName.MeasureName Property (Excel)
 
- **String** representing the new name a measure which was added to the[ModelTable Object (Excel)](modeltable-object-excel.md) identified by the[ModelMeasureName.TableName Property (Excel)](modelmeasurename-tablename-property-excel.md) property. Read-only.
+ **String** representing the new name a measure which was added to the[ModelTable Object (Excel)](Excel.modeltable.md) identified by the[ModelMeasureName.TableName Property (Excel)](Excel.modelmeasurename.tablename.md) property. Read-only.
 
 
 ## Syntax

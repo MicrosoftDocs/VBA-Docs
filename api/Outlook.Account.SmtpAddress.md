@@ -37,7 +37,7 @@ If the account does not have an SMTP address,  **SmtpAddress** returns an empty 
 #### Other resources
 
 
-[Send an E-mail Given the SMTP Address of an Account](send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+[Send an E-mail Given the SMTP Address of an Account](../missing-files/Outlook/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 
 
 

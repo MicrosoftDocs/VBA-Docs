@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.TextConnection Property (Excel)
 
-Returns a [TextConnection Object (Excel)](textconnection-object-excel.md) object that contains the information on a query to a text file. Read-only
+Returns a [TextConnection Object (Excel)](Excel.textconnection.md) object that contains the information on a query to a text file. Read-only
 
 
 ## Syntax

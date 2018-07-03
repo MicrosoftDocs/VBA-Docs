@@ -30,5 +30,5 @@ Gets the text associated with an object. Read-only.
 #### Other resources
 
 
-[FileDialog Object Members](filedialog-members-office.md)
+[FileDialog Object Members](overview/filedialog-members-office.md)
 

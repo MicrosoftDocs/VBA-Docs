@@ -61,5 +61,5 @@ The following example lists the users who have permissions on the active documen
 #### Other resources
 
 
-[UserPermission Object Members](userpermission-members-office.md)
+[UserPermission Object Members](overview/userpermission-members-office.md)
 

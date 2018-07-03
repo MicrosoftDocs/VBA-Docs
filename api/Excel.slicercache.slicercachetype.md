@@ -23,7 +23,7 @@ Returns the type of the slicer cache - slicer or timeline. Read-only
 
 ## Returns
 
-[XlSlicerCacheType Enumeration (Excel)](xlslicercachetype-enumeration-excel.md)
+[XlSlicerCacheType Enumeration (Excel)](Excel.xlslicercachetype.md)
 
 
 ## Property value

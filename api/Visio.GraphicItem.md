@@ -54,6 +54,6 @@ Use the  **[HorizontalPosition](Visio.GraphicItem.HorizontalPosition.md)** prope
 
 Use the  **[VerticalPosition](Visio.GraphicItem.VerticalPosition.md)** property to get or set thevertical position of the graphic item relative to the shape or selection that it's associated with.
 
-Use the  **[UseDataGraphicPosition](Visio.GraphicItem.UseDataGraphicPosition.md)** property to get or set whether a **GraphicItem** object inherits the settings of the **[DataGraphicHorizontalPosition](Visio.Master.DataGraphicHorizontalPosition.md)** and **[DataGraphicVerticalPosition](master-datagraphicverticalposition-property-visio.md)** properties of the data graphic master it belongs to (when set to **True)** , or whether the **GraphicItem** object's own **HorizontalPosition** and **Vertical Position** settings are applied (when set to **False** ).
+Use the  **[UseDataGraphicPosition](Visio.GraphicItem.UseDataGraphicPosition.md)** property to get or set whether a **GraphicItem** object inherits the settings of the **[DataGraphicHorizontalPosition](Visio.Master.DataGraphicHorizontalPosition.md)** and **[DataGraphicVerticalPosition](Visio.Master.DataGraphicVerticalPosition.md)** properties of the data graphic master it belongs to (when set to **True)** , or whether the **GraphicItem** object's own **HorizontalPosition** and **Vertical Position** settings are applied (when set to **False** ).
 
 

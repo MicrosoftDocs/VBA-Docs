@@ -41,7 +41,7 @@ If calling  **Refresh** results in conflicts, Visio displays the **Refresh Confl
 
 Before refreshing linked data, if you want to change the query string Visio uses to retrieve the data to query a different table in the same database, set the  **[DataRecordset.CommandString](Visio.DataRecordset.CommandString.md)** property to a new value. To connect to an entirely new data source, set both the **[DataRecordset.CommandString](Visio.DataRecordset.CommandString.md)** and **[DataConnection.ConnectionString](Visio.DataConnection.ConnectionString.md)** property values.
 
-When you refresh data and a conflict occurs, you can use the  **[DataRecordset.GetAllRefreshConflicts](Visio.DataRecordset.GetAllRefreshConflicts.md)** and **[DataRecordset.GetMatchingRowsForRefreshConflict](datarecordset-getmatchingrowsforrefreshconflict-method-visio.md)** methods to determine why the conflict arose.
+When you refresh data and a conflict occurs, you can use the  **[DataRecordset.GetAllRefreshConflicts](Visio.DataRecordset.GetAllRefreshConflicts.md)** and **[DataRecordset.GetMatchingRowsForRefreshConflict](Visio.DataRecordset.GetMatchingRowsForRefreshConflict.md)** methods to determine why the conflict arose.
 
 
 ## Example

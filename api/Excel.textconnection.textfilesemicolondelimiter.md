@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.TextFileSemicolonDelimiter Property (Excel)
 
- **True** if the semicolon is the delimiter when you import a text file into a query table, and if the value of the[TextConnection.TextFileParseType Property (Excel)](textconnection-textfileparsetype-property-excel.md) property is **xlDelimited** . The default value is **False** . Read/Write **Boolean** .
+ **True** if the semicolon is the delimiter when you import a text file into a query table, and if the value of the[TextConnection.TextFileParseType Property (Excel)](Excel.textconnection.textfileparsetype.md) property is **xlDelimited** . The default value is **False** . Read/Write **Boolean** .
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableObject.WorkbookConnection Property (Excel)
 
-Returns the [WorkbookConnection Object (Excel)](workbookconnection-object-excel.md) used by the **TableObject** for connecting to the model. The[WorkbookConnection.ModelConnection Property (Excel)](workbookconnection-modelconnection-property-excel.md) property on the **WorkbookConnection** object can then be used to get to and edit DAX etc. Read-only
+Returns the [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) used by the **TableObject** for connecting to the model. The[WorkbookConnection.ModelConnection Property (Excel)](Excel.workbookconnection.modelconnection.md) property on the **WorkbookConnection** object can then be used to get to and edit DAX etc. Read-only
 
 
 ## Syntax

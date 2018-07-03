@@ -71,7 +71,7 @@ If Selection.Comments.Count >= 1 Then MsgBox _
 |[Count](Word.Comments.Count.md)|
 |[Creator](Word.Comments.Creator.md)|
 |[Parent](Word.Comments.Parent.md)|
-|[ShowBy](comments-showby-property-word.md)|
+|[ShowBy](../missing-files/Word/comments-showby-property-word.md)|
 
 ## See also
 

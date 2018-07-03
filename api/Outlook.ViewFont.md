@@ -109,7 +109,7 @@ End Sub
 |[Session](Outlook.ViewFont.Session.md)|
 |[Size](Outlook.ViewFont.Size.md)|
 |[Strikethrough](Outlook.ViewFont.Strikethrough.md)|
-|[Underline](viewfont-underline-property-outlook.md)|
+|[Underline](../missing-files/Outlook/viewfont-underline-property-outlook.md)|
 
 ## See also
 

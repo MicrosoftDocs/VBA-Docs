@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Document.IsInAutosave Property (Word)
 
-Returns  **False** if the most recent firing of the[Application.DocumentBeforeSave Event (Word)](application-documentbeforesave-event-word.md) event was the result of a manual save by the user, and not an automatic save. Read-only.
+Returns  **False** if the most recent firing of the[Application.DocumentBeforeSave Event (Word)](../missing-files/Word/application-documentbeforesave-event-word.md) event was the result of a manual save by the user, and not an automatic save. Read-only.
 
 
 ## Syntax

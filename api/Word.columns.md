@@ -88,7 +88,7 @@ ActiveDocument.Tables(1).Columns(1).Select
 |[PreferredWidth](Word.Columns.PreferredWidth.md)|
 |[PreferredWidthType](Word.Columns.PreferredWidthType.md)|
 |[Shading](Word.Columns.Shading.md)|
-|[Width](columns-width-property-word.md)|
+|[Width](../missing-files/Word/columns-width-property-word.md)|
 
 ## See also
 

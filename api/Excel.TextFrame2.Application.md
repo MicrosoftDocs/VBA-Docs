@@ -28,5 +28,5 @@ When used without an object qualifier, this property returns an  **[Application]
 ## See also
 
 
-[TextFrame2 Object](textframe2-object-excel.md)
+[TextFrame2 Object](Excel.TextFrame2.md)
 

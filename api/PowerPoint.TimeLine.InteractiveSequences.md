@@ -65,5 +65,5 @@ End Sub
 ## See also
 
 
-[TimeLine Object](timeline-object-powerpoint.md)
+[TimeLine Object](PowerPoint.TimeLine.md)
 

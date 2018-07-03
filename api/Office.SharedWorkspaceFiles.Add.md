@@ -62,5 +62,5 @@ The following example adds a new file to the files collection of the shared work
 #### Other resources
 
 
-[SharedWorkspaceFiles Object Members](sharedworkspacefiles-members-office.md)
+[SharedWorkspaceFiles Object Members](overview/sharedworkspacefiles-members-office.md)
 

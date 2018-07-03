@@ -36,5 +36,5 @@ Indicates the display mode: Normal, Portrait View, or Portrait Reading Pane.
 ## See also
 
 
-[Explorer Object (Outlook)](explorer-object-outlook.md)
+[Explorer Object (Outlook)](../missing-files/Outlook/explorer-object-outlook.md)
 

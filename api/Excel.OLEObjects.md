@@ -104,7 +104,7 @@ End Sub
 |[Top](Excel.OLEObjects.Top.md)|
 |[Visible](Excel.OLEObjects.Visible.md)|
 |[Width](Excel.OLEObjects.Width.md)|
-|[ZOrder](oleobjects-zorder-property-excel.md)|
+|[ZOrder](Excel.OLEObjects.ZOrder.md)|
 
 ## See also
 

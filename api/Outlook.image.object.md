@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [Image Object (Outlook Forms Script)](Outlook.image.md)
     
--  [Image Members (Outlook Forms Script)](image-members-outlook-forms-script.md)
+-  [Image Members (Outlook Forms Script)](../missing-files/Outlook/image-members-outlook-forms-script.md)
     
--  [Image Properties (Outlook Forms Script)](image-properties-outlook-forms-script.md)
+-  [Image Properties (Outlook Forms Script)](../missing-files/Outlook/image-properties-outlook-forms-script.md)
     
--  [Image Events (Outlook Forms Script)](image-events-outlook-forms-script.md)
+-  [Image Events (Outlook Forms Script)](../missing-files/Outlook/image-events-outlook-forms-script.md)
     
 

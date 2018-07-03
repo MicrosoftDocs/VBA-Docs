@@ -26,6 +26,6 @@ Indicates the address to use as the mailing address.
 
 ## Remarks
 
-See [ContactItem.SelectedMailingAddress Property (Outlook)](contactitem-selectedmailingaddress-property-outlook.md).
+See [ContactItem.SelectedMailingAddress Property (Outlook)](../missing-files/Outlook/contactitem-selectedmailingaddress-property-outlook.md).
 
 

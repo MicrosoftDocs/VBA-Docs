@@ -71,7 +71,7 @@ Worksheets(1).ChartObjects(1).Chart. _
 |[Application](Excel.Trendlines.Application.md)|
 |[Count](Excel.Trendlines.Count.md)|
 |[Creator](Excel.Trendlines.Creator.md)|
-|[Parent](trendlines-parent-property-excel.md)|
+|[Parent](Excel.Trendlines.Parent.md)|
 
 ## See also
 

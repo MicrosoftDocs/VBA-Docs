@@ -107,7 +107,7 @@ End Sub
 |[Class](Outlook.Reminders.Class.md)|
 |[Count](Outlook.Reminders.Count.md)|
 |[Parent](Outlook.Reminders.Parent.md)|
-|[Session](reminders-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/reminders-session-property-outlook.md)|
 
 ## See also
 

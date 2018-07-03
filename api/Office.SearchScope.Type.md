@@ -30,5 +30,5 @@ Gets a value that corresponds to the type of  **SearchScope** object. The type i
 #### Other resources
 
 
-[SearchScope Object Members](searchscope-members-office.md)
+[SearchScope Object Members](overview/searchscope-members-office.md)
 

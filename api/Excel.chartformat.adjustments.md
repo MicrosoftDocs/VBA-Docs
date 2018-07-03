@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Adjustments Property (Excel)
 
-Returns an [Adjustments Object (Excel)](adjustments-object-excel.md) object. Read-only
+Returns an [Adjustments Object (Excel)](Excel.Adjustments.md) object. Read-only
 
 
 ## Syntax

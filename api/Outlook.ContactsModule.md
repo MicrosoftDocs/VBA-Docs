@@ -34,9 +34,9 @@ You can use the  **[Visible](Outlook.ContactsModule.Visible.md)** property to de
 |[Name](Outlook.ContactsModule.Name.md)|
 |[NavigationGroups](Outlook.ContactsModule.NavigationGroups.md)|
 |[NavigationModuleType](Outlook.ContactsModule.NavigationModuleType.md)|
-|[Parent](contactsmodule-parent-property-outlook.md)|
+|[Parent](../missing-files/Outlook/contactsmodule-parent-property-outlook.md)|
 |[Position](Outlook.ContactsModule.Position.md)|
-|[Session](contactsmodule-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/contactsmodule-session-property-outlook.md)|
 |[Visible](Outlook.ContactsModule.Visible.md)|
 
 ## See also

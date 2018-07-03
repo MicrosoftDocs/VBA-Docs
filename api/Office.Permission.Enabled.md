@@ -37,5 +37,5 @@ When permissions are disabled, the  **Count** property of the **Permission** obj
 #### Other resources
 
 
-[Permission Object Members](permission-members-office.md)
+[Permission Object Members](overview/permission-members-office.md)
 

@@ -35,7 +35,7 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 |[Class](Outlook.AssignToCategoryRuleAction.Class.md)|
 |[Enabled](Outlook.AssignToCategoryRuleAction.Enabled.md)|
 |[Parent](Outlook.AssignToCategoryRuleAction.Parent.md)|
-|[Session](assigntocategoryruleaction-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/assigntocategoryruleaction-session-property-outlook.md)|
 
 ## See also
 

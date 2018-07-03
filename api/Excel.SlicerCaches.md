@@ -49,7 +49,7 @@ ActiveWorkbook.SlicerCaches("Slicer_Country")
 |[Count](Excel.SlicerCaches.Count.md)|
 |[Creator](Excel.SlicerCaches.Creator.md)|
 |[Item](Excel.SlicerCaches.Item.md)|
-|[Parent](slicercaches-parent-property-excel.md)|
+|[Parent](Excel.SlicerCaches.Parent.md)|
 
 ## See also
 

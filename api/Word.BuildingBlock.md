@@ -132,11 +132,11 @@ For more information about building blocks, see [Working with Building Blocks](.
 |[Category](Word.BuildingBlock.Category.md)|
 |[Creator](Word.BuildingBlock.Creator.md)|
 |[Description](Word.BuildingBlock.Description.md)|
-|[ID](buildingblock-id-property-word.md)|
-|[Index](buildingblock-index-property-word.md)|
-|[InsertOptions](buildingblock-insertoptions-property-word.md)|
+|[ID](../missing-files/Word/buildingblock-id-property-word.md)|
+|[Index](../missing-files/Word/buildingblock-index-property-word.md)|
+|[InsertOptions](../missing-files/Word/buildingblock-insertoptions-property-word.md)|
 |[Name](Word.BuildingBlock.Name.md)|
-|[Parent](buildingblock-parent-property-word.md)|
+|[Parent](../missing-files/Word/buildingblock-parent-property-word.md)|
 |[Type](Word.BuildingBlock.Type.md)|
 |[Value](Word.BuildingBlock.Value.md)|
 

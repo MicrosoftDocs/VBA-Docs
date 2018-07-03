@@ -109,5 +109,5 @@ Set cnnConn = Nothing
 ## See also
 
 
-[PivotTables Object](pivottables-object-excel.md)
+[PivotTables Object](Excel.PivotTables.md)
 

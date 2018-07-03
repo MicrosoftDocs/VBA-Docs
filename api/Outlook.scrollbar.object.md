@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 -  [ScrollBar Object (Outlook Forms Script)](Outlook.scrollbar.md)
     
--  [ScrollBar Members (Outlook Forms Script)](scrollbar-members-outlook-forms-script.md)
+-  [ScrollBar Members (Outlook Forms Script)](../missing-files/Outlook/scrollbar-members-outlook-forms-script.md)
     
--  [ScrollBar Properties (Outlook Forms Script)](scrollbar-properties-outlook-forms-script.md)
+-  [ScrollBar Properties (Outlook Forms Script)](../missing-files/Outlook/scrollbar-properties-outlook-forms-script.md)
     
 

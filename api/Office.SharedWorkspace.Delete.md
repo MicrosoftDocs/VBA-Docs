@@ -33,5 +33,5 @@ Deletes the current shared workspace and all data within it.
 #### Other resources
 
 
-[SharedWorkspace Object Members](sharedworkspace-members-office.md)
+[SharedWorkspace Object Members](overview/sharedworkspace-members-office.md)
 

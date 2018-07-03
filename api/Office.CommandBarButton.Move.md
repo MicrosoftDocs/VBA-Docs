@@ -62,5 +62,5 @@ Next
 #### Other resources
 
 
-[CommandBarButton Object Members](commandbarbutton-members-office.md)
+[CommandBarButton Object Members](overview/commandbarbutton-members-office.md)
 

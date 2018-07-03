@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [Label Object (Outlook Forms Script)](Outlook.label.md)
     
--  [Label Members (Outlook Forms Script)](label-members-outlook-forms-script.md)
+-  [Label Members (Outlook Forms Script)](../missing-files/Outlook/label-members-outlook-forms-script.md)
     
--  [Label Properties (Outlook Forms Script)](label-properties-outlook-forms-script.md)
+-  [Label Properties (Outlook Forms Script)](../missing-files/Outlook/label-properties-outlook-forms-script.md)
     
--  [Label Events (Outlook Forms Script)](label-events-outlook-forms-script.md)
+-  [Label Events (Outlook Forms Script)](../missing-files/Outlook/label-events-outlook-forms-script.md)
     
 

@@ -113,9 +113,9 @@ End Sub
 |[Class](Outlook.UserDefinedProperty.Class.md)|
 |[DisplayFormat](Outlook.UserDefinedProperty.DisplayFormat.md)|
 |[Formula](Outlook.UserDefinedProperty.Formula.md)|
-|[Name](userdefinedproperty-name-property-outlook.md)|
-|[Parent](userdefinedproperty-parent-property-outlook.md)|
-|[Session](userdefinedproperty-session-property-outlook.md)|
+|[Name](../missing-files/Outlook/userdefinedproperty-name-property-outlook.md)|
+|[Parent](../missing-files/Outlook/userdefinedproperty-parent-property-outlook.md)|
+|[Session](../missing-files/Outlook/userdefinedproperty-session-property-outlook.md)|
 |[Type](Outlook.UserDefinedProperty.Type.md)|
 
 ## See also

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SeriesCollection Object (Excel)
 
-A collection of all the  **[Series](series-object-excel.md)** objects in the specified chart or chart group.
+A collection of all the  **[Series](Excel.Series.md)** objects in the specified chart or chart group.
 
 
 ## Remarks
 
-Use the  **[SeriesCollection](chart-seriescollection-method-excel.md)** method to return the **SeriesCollection** collection.
+Use the  **[SeriesCollection](Excel.Chart.SeriesCollection.md)** method to return the **SeriesCollection** collection.
 
 
 ## Example
@@ -31,7 +31,7 @@ Worksheets(1).ChartObjects(1).Chart. _
  SeriesCollection.Extend Worksheets(1).Range("c1:c10")
 ```
 
-Use the  **[Add](seriescollection-add-method-excel.md)** method to create a new series and add it to the chart. The following example adds the data from cells A1:A19 as a new series on the chart sheet named "Chart1."
+Use the  **[Add](Excel.SeriesCollection.Add.md)** method to create a new series and add it to the chart. The following example adds the data from cells A1:A19 as a new series on the chart sheet named "Chart1."
 
 
 
@@ -58,11 +58,11 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 
 |**Name**|
 |:-----|
-|[Add](seriescollection-add-method-excel.md)|
-|[Extend](seriescollection-extend-method-excel.md)|
-|[Item](seriescollection-item-method-excel.md)|
-|[NewSeries](seriescollection-newseries-method-excel.md)|
-|[Paste](seriescollection-paste-method-excel.md)|
+|[Add](Excel.SeriesCollection.Add.md)|
+|[Extend](Excel.SeriesCollection.Extend.md)|
+|[Item](Excel.SeriesCollection.Item.md)|
+|[NewSeries](Excel.SeriesCollection.NewSeries.md)|
+|[Paste](Excel.SeriesCollection.Paste.md)|
 
 ## Properties
 
@@ -70,10 +70,10 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 
 |**Name**|
 |:-----|
-|[Application](seriescollection-application-property-excel.md)|
-|[Count](seriescollection-count-property-excel.md)|
-|[Creator](seriescollection-creator-property-excel.md)|
-|[Parent](seriescollection-parent-property-excel.md)|
+|[Application](Excel.SeriesCollection.Application.md)|
+|[Count](Excel.SeriesCollection.Count.md)|
+|[Creator](Excel.SeriesCollection.Creator.md)|
+|[Parent](Excel.SeriesCollection.Parent.md)|
 
 ## See also
 

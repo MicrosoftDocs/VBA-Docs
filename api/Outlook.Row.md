@@ -123,10 +123,10 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](row-application-property-outlook.md)|
-|[Class](row-class-property-outlook.md)|
-|[Parent](row-parent-property-outlook.md)|
-|[Session](row-session-property-outlook.md)|
+|[Application](../missing-files/Outlook/row-application-property-outlook.md)|
+|[Class](../missing-files/Outlook/row-class-property-outlook.md)|
+|[Parent](../missing-files/Outlook/row-parent-property-outlook.md)|
+|[Session](../missing-files/Outlook/row-session-property-outlook.md)|
 
 ## See also
 

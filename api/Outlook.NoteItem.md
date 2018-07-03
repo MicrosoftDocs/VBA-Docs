@@ -81,8 +81,8 @@ Set myItem = Application.CreateItem(olNoteItem)
 |[Session](Outlook.NoteItem.Session.md)|
 |[Size](Outlook.NoteItem.Size.md)|
 |[Subject](Outlook.NoteItem.Subject.md)|
-|[Top](noteitem-top-property-outlook.md)|
-|[Width](noteitem-width-property-outlook.md)|
+|[Top](../missing-files/Outlook/noteitem-top-property-outlook.md)|
+|[Width](../missing-files/Outlook/noteitem-width-property-outlook.md)|
 
 ## See also
 

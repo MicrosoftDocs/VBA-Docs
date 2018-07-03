@@ -31,5 +31,5 @@ The  **[ChartFormat](Excel.ChartFormat.md)** object contains the line, fill, eff
 ## See also
 
 
-[ChartTitle Object](charttitle-object-excel.md)
+[ChartTitle Object](Excel.ChartTitle.md)
 

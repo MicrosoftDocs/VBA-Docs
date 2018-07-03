@@ -30,5 +30,5 @@ Removes a document library version from the  **DocumentLibraryVersions** collect
 #### Other resources
 
 
-[DocumentLibraryVersion Object Members](documentlibraryversion-members-office.md)
+[DocumentLibraryVersion Object Members](overview/documentlibraryversion-members-office.md)
 

@@ -26,7 +26,7 @@ Use  **UserProperties** ( _index_ ), where _index_ is a name or one-based index 
 
 You can use the  **[UserDefinedProperties](./Outlook.Folder.UserDefinedProperties.md)** property of the **[Folder](Outlook.Folder.md)** object to retrieve and examine the definitions of custom item-level properties that a folder can display in a view.
 
-To get or set multiple custom properties, use the  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object instead of the **UserProperties** object for better performance.
+To get or set multiple custom properties, use the  **[PropertyAccessor](../missing-files/Outlook/propertyaccessor-object-outlook.md)** object instead of the **UserProperties** object for better performance.
 
 
 ## Example

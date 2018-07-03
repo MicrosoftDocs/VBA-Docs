@@ -25,6 +25,6 @@ Indicates the ownership state of the task.
 
 ## Remarks
 
-Used by the [TaskItem.Ownership Property (Outlook)](taskitem-ownership-property-outlook.md).
+Used by the [TaskItem.Ownership Property (Outlook)](../missing-files/Outlook/taskitem-ownership-property-outlook.md).
 
 

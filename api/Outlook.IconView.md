@@ -57,15 +57,15 @@ You can change built-in  **IconView** objects, but you cannot delete them. Use t
 |[Filter](Outlook.IconView.Filter.md)|
 |[IconPlacement](Outlook.IconView.IconPlacement.md)|
 |[IconViewType](Outlook.IconView.IconViewType.md)|
-|[Language](iconview-language-property-outlook.md)|
+|[Language](../missing-files/Outlook/iconview-language-property-outlook.md)|
 |[LockUserChanges](Outlook.IconView.LockUserChanges.md)|
-|[Name](iconview-name-property-outlook.md)|
-|[Parent](iconview-parent-property-outlook.md)|
-|[SaveOption](iconview-saveoption-property-outlook.md)|
-|[Session](iconview-session-property-outlook.md)|
+|[Name](../missing-files/Outlook/iconview-name-property-outlook.md)|
+|[Parent](../missing-files/Outlook/iconview-parent-property-outlook.md)|
+|[SaveOption](../missing-files/Outlook/iconview-saveoption-property-outlook.md)|
+|[Session](../missing-files/Outlook/iconview-session-property-outlook.md)|
 |[SortFields](Outlook.IconView.SortFields.md)|
 |[Standard](Outlook.IconView.Standard.md)|
-|[ViewType](iconview-viewtype-property-outlook.md)|
+|[ViewType](../missing-files/Outlook/iconview-viewtype-property-outlook.md)|
 |[XML](Outlook.IconView.XML.md)|
 
 ## See also

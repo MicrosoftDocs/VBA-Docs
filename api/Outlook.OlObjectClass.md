@@ -160,13 +160,13 @@ Specifies constants that represent the different Microsoft Outlook object classe
 | **olTextRuleCondition**|134|A  **[TextRuleCondition](Outlook.TextRuleCondition.md)** object.|
 | **olUserDefinedProperties**|172|A  **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object.|
 | **olUserDefinedProperty**|171|A  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object.|
-| **olUserProperties**|38|A  **[UserProperties](userproperties-object-outlook.md)** object.|
-| **olUserProperty**|39|A  **[UserProperty](userproperty-object-outlook.md)** object.|
-| **olView**|80|A  **[View](view-object-outlook.md)** object.|
-| **olViewField**|142|A  **[ViewField](viewfield-object-outlook.md)** object.|
-| **olViewFields**|141|A  **[ViewFields](viewfields-object-outlook.md)** object.|
-| **olViewFont**|146|A  **[ViewFont](viewfont-object-outlook.md)** object.|
-| **olViews**|79|A  **[Views](views-object-outlook.md)** object.|
+| **olUserProperties**|38|A  **[UserProperties](../missing-files/Outlook/userproperties-object-outlook.md)** object.|
+| **olUserProperty**|39|A  **[UserProperty](../missing-files/Outlook/userproperty-object-outlook.md)** object.|
+| **olView**|80|A  **[View](../missing-files/Outlook/view-object-outlook.md)** object.|
+| **olViewField**|142|A  **[ViewField](../missing-files/Outlook/viewfield-object-outlook.md)** object.|
+| **olViewFields**|141|A  **[ViewFields](../missing-files/Outlook/viewfields-object-outlook.md)** object.|
+| **olViewFont**|146|A  **[ViewFont](../missing-files/Outlook/viewfont-object-outlook.md)** object.|
+| **olViews**|79|A  **[Views](../missing-files/Outlook/views-object-outlook.md)** object.|
 
 ## Remarks
 

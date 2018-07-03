@@ -33,7 +33,7 @@ Use the  **[Item](Project.ChildDrivers.Item.md)** property to get a single child
 |[Count](Project.ChildDrivers.Count.md)|
 |[Item](Project.ChildDrivers.Item.md)|
 |[Parent](Project.ChildDrivers.Parent.md)|
-|[TotalDetectedCount](childdrivers-totaldetectedcount-property-project.md)|
+|[TotalDetectedCount](../missing-files/Project/childdrivers-totaldetectedcount-property-project.md)|
 
 ## See also
 

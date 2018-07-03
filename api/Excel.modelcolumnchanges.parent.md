@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelColumnChanges.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelColumnChanges Object (Excel)](modelcolumnchanges-object-excel.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[ModelColumnChanges Object (Excel)](modelcolumnchanges-object-excel.md) object.
+ _expression_ A variable that represents a[ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns an  **Object** that represents the parent object of the specified[ModelC
 
 
 
-[ModelColumnChanges Object](modelcolumnchanges-object-excel.md)
+[ModelColumnChanges Object](Excel.modelcolumnchanges.md)
 

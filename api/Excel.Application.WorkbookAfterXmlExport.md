@@ -54,5 +54,5 @@ Use the  **[AfterXmlExport](Excel.Workbook.AfterXmlExport.md)** event if you wan
 
 
 [Workbook Object](Excel.Workbook.md)
-[Application Object](application-object-excel.md)
+[Application Object](Excel.Application.md)
 

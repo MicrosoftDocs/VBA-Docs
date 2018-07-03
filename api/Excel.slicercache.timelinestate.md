@@ -23,7 +23,7 @@ The timeline-specific state of the  **SlicerCache** object. Read-only
 
 ## Returns
 
-[TimelineState Object (Excel)](timelinestate-object-excel.md)
+[TimelineState Object (Excel)](Excel.timelinestate.md)
 
 
 ## Property value

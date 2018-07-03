@@ -40,5 +40,5 @@ The  **UserPermission** object associates a set of permissions on the active doc
 #### Other resources
 
 
-[UserPermission Object Members](userpermission-members-office.md)
+[UserPermission Object Members](overview/userpermission-members-office.md)
 

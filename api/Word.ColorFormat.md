@@ -24,12 +24,12 @@ Use one of the properties listed in the following table to return a  **ColorForm
 
 |**Use this property**|**With this object**|**To return a ColorFormat object that represents this**|
 |:-----|:-----|:-----|
-|**[BackColor](fillformat-backcolor-property-word.md)**|**[FillFormat](fillformat-object-word.md)**|Background fill color (used in a shaded or patterned fill)|
-|**[ForeColor](fillformat-forecolor-property-word.md)**|**[FillFormat](fillformat-object-word.md)**|Foreground fill color (or the fill color for a solid fill)|
-|**[BackColor](lineformat-backcolor-property-word.md)**|**[LineFormat](lineformat-object-word.md)**|Background line color (used in a patterned line)|
-|**[ForeColor](lineformat-forecolor-property-word.md)**|**[LineFormat](lineformat-object-word.md)**|Foreground line color (or the line color for a solid line)|
-|**[ForeColor](shadowformat-forecolor-property-word.md)**|**[ShadowFormat](shadowformat-object-word.md)**|Shadow color|
-|**[ExtrusionColor](threedformat-extrusioncolor-property-word.md)**|**[ThreeDFormat](threedformat-object-word.md)**|Color of the sides of an extruded object|
+|**[BackColor](../missing-files/Word/fillformat-backcolor-property-word.md)**|**[FillFormat](../missing-files/Word/fillformat-object-word.md)**|Background fill color (used in a shaded or patterned fill)|
+|**[ForeColor](../missing-files/Word/fillformat-forecolor-property-word.md)**|**[FillFormat](../missing-files/Word/fillformat-object-word.md)**|Foreground fill color (or the fill color for a solid fill)|
+|**[BackColor](../missing-files/Word/lineformat-backcolor-property-word.md)**|**[LineFormat](../missing-files/Word/lineformat-object-word.md)**|Background line color (used in a patterned line)|
+|**[ForeColor](../missing-files/Word/lineformat-forecolor-property-word.md)**|**[LineFormat](../missing-files/Word/lineformat-object-word.md)**|Foreground line color (or the line color for a solid line)|
+|**[ForeColor](../missing-files/Word/shadowformat-forecolor-property-word.md)**|**[ShadowFormat](../missing-files/Word/shadowformat-object-word.md)**|Shadow color|
+|**[ExtrusionColor](../missing-files/Word/threedformat-extrusioncolor-property-word.md)**|**[ThreeDFormat](../missing-files/Word/threedformat-object-word.md)**|Color of the sides of an extruded object|
 
 Use the  **RGB** property to set a color to an explicit red-green-blue value. The following example adds a rectangle to the active document and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
@@ -59,7 +59,7 @@ End With
 |[Parent](Word.ColorFormat.Parent.md)|
 |[RGB](Word.ColorFormat.RGB.md)|
 |[TintAndShade](Word.ColorFormat.TintAndShade.md)|
-|[Type](colorformat-type-property-word.md)|
+|[Type](../missing-files/Word/colorformat-type-property-word.md)|
 
 ## See also
 

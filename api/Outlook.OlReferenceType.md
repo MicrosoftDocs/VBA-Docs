@@ -24,6 +24,6 @@ Indicates the reference type.
 
 ## Remarks
 
-Used as a parameter to the [Application.GetObjectReference Method (Outlook)](application-getobjectreference-method-outlook.md).
+Used as a parameter to the [Application.GetObjectReference Method (Outlook)](../missing-files/Outlook/application-getobjectreference-method-outlook.md).
 
 

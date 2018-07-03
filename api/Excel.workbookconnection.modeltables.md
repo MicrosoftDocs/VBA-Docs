@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.ModelTables Property (Excel)
 
-Returns a [ModelTables Object (Excel)](modeltables-object-excel.md) object associated with the particular connection. Read-only
+Returns a [ModelTables Object (Excel)](Excel.modeltables.md) object associated with the particular connection. Read-only
 
 
 ## Syntax

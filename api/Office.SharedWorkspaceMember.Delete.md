@@ -33,5 +33,5 @@ Deletes the current  **SharedWorkspaceMember** object.
 #### Other resources
 
 
-[SharedWorkspaceMember Object Members](sharedworkspacemember-members-office.md)
+[SharedWorkspaceMember Object Members](overview/sharedworkspacemember-members-office.md)
 

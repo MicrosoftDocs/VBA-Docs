@@ -45,7 +45,7 @@ For more information on filters, see [Filtering Items](../outlook/How-to/Search-
 
  **GetTable** returns a **Table** with the default column set for the folder type of the parent **Folder** . To modify the default column set, use the **[Add](Outlook.Columns.Add.md)** , **[Remove](Outlook.Columns.Remove.md)** , or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object. When _TableContents_ is **olHiddenItems** , the default column set is always the default column set for a mail folder even though the parent **Folder** might be, for example, a Contacts folder. For more information on default column sets, see[Default Properties Displayed in a Table Object](../outlook/How-to/Search-and-Filter/default-properties-displayed-in-a-table-object.md).
 
-You can use  **[Table.Restrict](table-restrict-method-outlook.md)** to apply subsequent filters to a **Table** that is based on the **Folder** object.
+You can use  **[Table.Restrict](../missing-files/Outlook/table-restrict-method-outlook.md)** to apply subsequent filters to a **Table** that is based on the **Folder** object.
 
 
 ## Example

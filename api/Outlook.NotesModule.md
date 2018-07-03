@@ -34,9 +34,9 @@ You can use the  **[Visible](Outlook.NotesModule.Visible.md)** property to deter
 |[Name](Outlook.NotesModule.Name.md)|
 |[NavigationGroups](Outlook.NotesModule.NavigationGroups.md)|
 |[NavigationModuleType](Outlook.NotesModule.NavigationModuleType.md)|
-|[Parent](notesmodule-parent-property-outlook.md)|
+|[Parent](../missing-files/Outlook/notesmodule-parent-property-outlook.md)|
 |[Position](Outlook.NotesModule.Position.md)|
-|[Session](notesmodule-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/notesmodule-session-property-outlook.md)|
 |[Visible](Outlook.NotesModule.Visible.md)|
 
 ## See also

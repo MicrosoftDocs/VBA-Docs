@@ -36,7 +36,7 @@ If the current folder displays a folder home page, this property returns an empt
 
 
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the  **Count** property and the **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** object that is returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property to display the senders of all messages that are selected in the active explorer.
+The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the  **Count** property and the **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** object that is returned by the **[Explorer.Selection](../missing-files/Outlook/explorer-selection-property-outlook.md)** property to display the senders of all messages that are selected in the active explorer.
 
 
 

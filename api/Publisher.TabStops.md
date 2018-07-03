@@ -118,6 +118,6 @@ End Sub
 |**Name**|
 |:-----|
 |[Application](Publisher.TabStops.Application.md)|
-|[Count](tabstops-count-property-publisher.md)|
-|[Parent](tabstops-parent-property-publisher.md)|
+|[Count](../missing-files/Publisher/tabstops-count-property-publisher.md)|
+|[Parent](../missing-files/Publisher/tabstops-parent-property-publisher.md)|
 

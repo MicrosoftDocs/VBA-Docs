@@ -31,7 +31,7 @@ Identifies the navigation module type of a  **[NavigationModule](Outlook.Navigat
 
 ## Remarks
 
-This enumeration is used by the [NavigationModule.NavigationModuleType Property (Outlook)](navigationmodule-navigationmoduletype-property-outlook.md) for the following objects to identify the type of navigation module:
+This enumeration is used by the [NavigationModule.NavigationModuleType Property (Outlook)](../missing-files/Outlook/navigationmodule-navigationmoduletype-property-outlook.md) for the following objects to identify the type of navigation module:
 
 
 1.  **CalendarModule**
@@ -50,6 +50,6 @@ This enumeration is used by the [NavigationModule.NavigationModuleType Property 
     
 8.  **TasksModule**
     
-The enumeration is also used by the [NavigationModules.GetNavigationModule Method (Outlook)](navigationmodules-getnavigationmodule-method-outlook.md) to identify the navigation module type of the **NavigationModule** to retrieve.
+The enumeration is also used by the [NavigationModules.GetNavigationModule Method (Outlook)](../missing-files/Outlook/navigationmodules-getnavigationmodule-method-outlook.md) to identify the navigation module type of the **NavigationModule** to retrieve.
 
 

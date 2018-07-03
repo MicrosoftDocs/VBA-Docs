@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.TextFileVisualLayout Property (Excel)
 
-Returns or sets a [XlTextVisualLayoutType Enumeration (Excel)](xltextvisuallayouttype-enumeration-excel.md) enumeration that indicates whether the visual layout of the text being imported is left-to-right or right-to-left. Read/Write
+Returns or sets a [XlTextVisualLayoutType Enumeration (Excel)](Excel.XlTextVisualLayoutType.md) enumeration that indicates whether the visual layout of the text being imported is left-to-right or right-to-left. Read/Write
 
 
 ## Syntax

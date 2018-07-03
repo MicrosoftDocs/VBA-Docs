@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelRelationship.ForeignKeyColumn Property (Excel)
 
-Contains the [ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) object (Excel) representing the foreign key column on the many side of the one-to-many relationship. Read-only
+Contains the [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the foreign key column on the many side of the one-to-many relationship. Read-only
 
 
 ## Syntax

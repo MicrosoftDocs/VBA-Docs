@@ -58,6 +58,6 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](freeformbuilder-application-property-publisher.md)|
-|[Parent](freeformbuilder-parent-property-publisher.md)|
+|[Application](../missing-files/Publisher/freeformbuilder-application-property-publisher.md)|
+|[Parent](../missing-files/Publisher/freeformbuilder-parent-property-publisher.md)|
 

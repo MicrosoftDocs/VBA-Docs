@@ -31,5 +31,5 @@ _Index_ Required. The index is one based.
 #### Other resources
 
 
-[FileDialogSelectedItems Object Members](filedialogselecteditems-members-office.md)
+[FileDialogSelectedItems Object Members](overview/filedialogselecteditems-members-office.md)
 

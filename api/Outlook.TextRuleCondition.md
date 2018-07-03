@@ -33,8 +33,8 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 |[Class](Outlook.TextRuleCondition.Class.md)|
 |[ConditionType](Outlook.TextRuleCondition.ConditionType.md)|
 |[Enabled](Outlook.TextRuleCondition.Enabled.md)|
-|[Parent](textrulecondition-parent-property-outlook.md)|
-|[Session](textrulecondition-session-property-outlook.md)|
+|[Parent](../missing-files/Outlook/textrulecondition-parent-property-outlook.md)|
+|[Session](../missing-files/Outlook/textrulecondition-session-property-outlook.md)|
 |[Text](Outlook.TextRuleCondition.Text.md)|
 
 ## See also

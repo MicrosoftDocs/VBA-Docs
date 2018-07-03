@@ -38,5 +38,5 @@ Gets a  **DocumentLibraryVersion** object from the **DocumentLibraryVersions** c
 #### Other resources
 
 
-[DocumentLibraryVersions Object Members](documentlibraryversions-members-office.md)
+[DocumentLibraryVersions Object Members](overview/documentlibraryversions-members-office.md)
 

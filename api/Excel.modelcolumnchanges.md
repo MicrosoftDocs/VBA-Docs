@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelColumnChanges Object (Excel)
 
-A collection of [ModelColumnChange Object (Excel)](modelcolumnchange-object-excel.md) objects representing columns for which the data type was change in the Excel data model.
+A collection of [ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) objects representing columns for which the data type was change in the Excel data model.
 
 
 ## See also

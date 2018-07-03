@@ -56,7 +56,7 @@ To see an example of an add-in that adds folders to the  **Solutions** module, s
 |[NavigationModuleType](Outlook.SolutionsModule.NavigationModuleType.md)|
 |[Parent](Outlook.SolutionsModule.Parent.md)|
 |[Position](Outlook.SolutionsModule.Position.md)|
-|[Session](solutionsmodule-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/solutionsmodule-session-property-outlook.md)|
 |[Visible](Outlook.SolutionsModule.Visible.md)|
 
 ## See also

@@ -43,5 +43,5 @@ MsgBox "The description of this " &amp; _
 #### Other resources
 
 
-[COMAddIn Object Members](comaddin-members-office.md)
+[COMAddIn Object Members](overview/comaddin-members-office.md)
 

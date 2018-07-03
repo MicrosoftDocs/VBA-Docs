@@ -56,5 +56,5 @@ err_NeverRefreshed:
 #### Other resources
 
 
-[SharedWorkspace Object Members](sharedworkspace-members-office.md)
+[SharedWorkspace Object Members](overview/sharedworkspace-members-office.md)
 

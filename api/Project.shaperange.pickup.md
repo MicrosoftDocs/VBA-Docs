@@ -66,4 +66,4 @@ End Sub
 
 [ShapeRange Object](Project.shaperange.md)
 [Apply Method](Project.shaperange.apply.md)
-[Shape.PickUp Method](shape-pickup-method-project.md)
+[Shape.PickUp Method](../missing-files/Project/shape-pickup-method-project.md)

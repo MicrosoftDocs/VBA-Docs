@@ -47,5 +47,5 @@ Creates a new command bar and adds it to the collection of command bars.
 #### Other resources
 
 
-[CommandBars Object Members](commandbars-members-office.md)
+[CommandBars Object Members](overview/commandbars-members-office.md)
 

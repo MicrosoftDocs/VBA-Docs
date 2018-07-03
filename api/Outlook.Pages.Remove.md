@@ -34,5 +34,5 @@ Removes an object from the collection.
 ## See also
 
 
-[Pages Object (Outlook)](pages-object-outlook.md)
+[Pages Object (Outlook)](../missing-files/Outlook/pages-object-outlook.md)
 

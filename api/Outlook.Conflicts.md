@@ -77,11 +77,11 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](conflicts-application-property-outlook.md)|
-|[Class](conflicts-class-property-outlook.md)|
+|[Application](../missing-files/Outlook/conflicts-application-property-outlook.md)|
+|[Class](../missing-files/Outlook/conflicts-class-property-outlook.md)|
 |[Count](Outlook.Conflicts.Count.md)|
-|[Parent](conflicts-parent-property-outlook.md)|
-|[Session](conflicts-session-property-outlook.md)|
+|[Parent](../missing-files/Outlook/conflicts-parent-property-outlook.md)|
+|[Session](../missing-files/Outlook/conflicts-session-property-outlook.md)|
 
 ## See also
 

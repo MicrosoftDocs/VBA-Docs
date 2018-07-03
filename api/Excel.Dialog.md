@@ -49,7 +49,7 @@ dlgAnswer = Application.Dialogs(xlDialogOpen).Show
 |:-----|
 |[Application](Excel.Dialog.Application.md)|
 |[Creator](Excel.Dialog.Creator.md)|
-|[Parent](dialog-parent-property-excel.md)|
+|[Parent](Excel.Dialog.Parent.md)|
 
 ## See also
 

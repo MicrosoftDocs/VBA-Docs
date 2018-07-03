@@ -39,7 +39,7 @@ You must set the  **RecurrenceType** property before you set other properties fo
 
 ## Example
 
-This Visual Basic for Applications example uses  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** to obtain the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object for the newly-created **[AppointmentItem](Outlook.AppointmentItem.md)** . The properties, **RecurrenceType** , **DayOfWeekMask** , **[MonthOfYear](Outlook.RecurrencePattern.MonthOfYear.md)** , **Instance** , **Occurences** , **StartTime** , **EndTime** , and **[Subject](appointmentitem-subject-property-outlook.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs the first Monday of June effective 6/1/2007 until 6/6/2016 from 2:00 PM to 5:00 PM."
+This Visual Basic for Applications example uses  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** to obtain the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object for the newly-created **[AppointmentItem](Outlook.AppointmentItem.md)** . The properties, **RecurrenceType** , **DayOfWeekMask** , **[MonthOfYear](Outlook.RecurrencePattern.MonthOfYear.md)** , **Instance** , **Occurences** , **StartTime** , **EndTime** , and **[Subject](../missing-files/Outlook/appointmentitem-subject-property-outlook.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs the first Monday of June effective 6/1/2007 until 6/6/2016 from 2:00 PM to 5:00 PM."
 
 
 ```vb

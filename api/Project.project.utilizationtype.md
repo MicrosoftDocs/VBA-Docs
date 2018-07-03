@@ -8,7 +8,7 @@ ms.prod: project-server
 
 # Project.UtilizationType Property (Project)
 
-If the [Project.UtilizationType Property (Project)](project-utilizationtype-property-project.md) property is **Project Plan until**, this date is used to switch between using the project plan to calculate resource availability or when resource engagements are used.Read-only. Introduced in Office 2016.
+If the [Project.UtilizationType Property (Project)](../missing-files/Project/project-utilizationtype-property-project.md) property is **Project Plan until**, this date is used to switch between using the project plan to calculate resource availability or when resource engagements are used.Read-only. Introduced in Office 2016.
 
 
 ## Syntax

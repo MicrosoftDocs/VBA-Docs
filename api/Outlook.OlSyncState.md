@@ -24,6 +24,6 @@ Indicates the synchronization state.
 
 ## Remarks
 
-See [SyncObject.Progress Event (Outlook)](syncobject-progress-event-outlook.md).
+See [SyncObject.Progress Event (Outlook)](../missing-files/Outlook/syncobject-progress-event-outlook.md).
 
 

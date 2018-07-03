@@ -111,8 +111,8 @@ End Sub
 |[Application](Outlook.OrderField.Application.md)|
 |[Class](Outlook.OrderField.Class.md)|
 |[IsDescending](Outlook.OrderField.IsDescending.md)|
-|[Parent](orderfield-parent-property-outlook.md)|
-|[Session](orderfield-session-property-outlook.md)|
+|[Parent](../missing-files/Outlook/orderfield-parent-property-outlook.md)|
+|[Session](../missing-files/Outlook/orderfield-session-property-outlook.md)|
 |[ViewXMLSchemaName](Outlook.OrderField.ViewXMLSchemaName.md)|
 
 ## See also

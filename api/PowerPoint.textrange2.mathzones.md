@@ -35,6 +35,6 @@ A math zone is a text range within which math typography rules apply and outside
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](textrange2-object-powerpoint.md)
+[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
 

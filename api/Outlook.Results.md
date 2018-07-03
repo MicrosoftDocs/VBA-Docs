@@ -95,11 +95,11 @@ End Sub
 |**Name**|
 |:-----|
 |[Application](Outlook.Results.Application.md)|
-|[Class](results-class-property-outlook.md)|
-|[Count](results-count-property-outlook.md)|
-|[DefaultItemType](results-defaultitemtype-property-outlook.md)|
-|[Parent](results-parent-property-outlook.md)|
-|[Session](results-session-property-outlook.md)|
+|[Class](../missing-files/Outlook/results-class-property-outlook.md)|
+|[Count](../missing-files/Outlook/results-count-property-outlook.md)|
+|[DefaultItemType](../missing-files/Outlook/results-defaultitemtype-property-outlook.md)|
+|[Parent](../missing-files/Outlook/results-parent-property-outlook.md)|
+|[Session](../missing-files/Outlook/results-session-property-outlook.md)|
 
 ## See also
 

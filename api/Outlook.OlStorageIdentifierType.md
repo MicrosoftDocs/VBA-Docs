@@ -25,6 +25,6 @@ Specifies the type of identifier for a  **[StorageItem](Outlook.StorageItem.md)*
 
 ## Remarks
 
-The message class of a [StorageItem Object (Outlook)](Outlook.StorageItem.md) is not exposed as an explicit built-in property. You can access the message class property through the[PropertyAccessor Object (Outlook)](propertyaccessor-object-outlook.md) that is provided by[StorageItem.PropertyAccessor Property (Outlook)](storageitem-propertyaccessor-property-outlook.md).
+The message class of a [StorageItem Object (Outlook)](Outlook.StorageItem.md) is not exposed as an explicit built-in property. You can access the message class property through the[PropertyAccessor Object (Outlook)](../missing-files/Outlook/propertyaccessor-object-outlook.md) that is provided by[StorageItem.PropertyAccessor Property (Outlook)](../missing-files/Outlook/storageitem-propertyaccessor-property-outlook.md).
 
 

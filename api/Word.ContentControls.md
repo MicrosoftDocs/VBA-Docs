@@ -89,8 +89,8 @@ Use the  **ContentControl** object to work with individual content controls. For
 |:-----|
 |[Application](Word.ContentControls.Application.md)|
 |[Count](Word.ContentControls.Count.md)|
-|[Creator](contentcontrols-creator-property-word.md)|
-|[Parent](contentcontrols-parent-property-word.md)|
+|[Creator](../missing-files/Word/contentcontrols-creator-property-word.md)|
+|[Parent](../missing-files/Word/contentcontrols-parent-property-word.md)|
 
 ## See also
 

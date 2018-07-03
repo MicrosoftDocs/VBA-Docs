@@ -71,7 +71,7 @@ Worksheets("sheet3").PivotTables(1) _
 |[Application](Excel.PivotTables.Application.md)|
 |[Count](Excel.PivotTables.Count.md)|
 |[Creator](Excel.PivotTables.Creator.md)|
-|[Parent](pivottables-parent-property-excel.md)|
+|[Parent](Excel.PivotTables.Parent.md)|
 
 ## See also
 

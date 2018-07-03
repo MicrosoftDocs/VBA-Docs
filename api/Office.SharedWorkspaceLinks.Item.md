@@ -41,5 +41,5 @@ Gets a  **SharedWorkspaceLink** object from the **Links** collection of the shar
 #### Other resources
 
 
-[SharedWorkspaceLinks Object Members](sharedworkspacelinks-members-office.md)
+[SharedWorkspaceLinks Object Members](overview/sharedworkspacelinks-members-office.md)
 

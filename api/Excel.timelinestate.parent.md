@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # TimelineState.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[TimelineState Object (Excel)](timelinestate-object-excel.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[TimelineState Object (Excel)](Excel.timelinestate.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[TimelineState Object (Excel)](timelinestate-object-excel.md) object.
+ _expression_ A variable that represents a[TimelineState Object (Excel)](Excel.timelinestate.md) object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns an  **Object** that represents the parent object of the specified[Timeli
 
 
 
-[TimelineState Object](timelinestate-object-excel.md)
+[TimelineState Object](Excel.timelinestate.md)
 

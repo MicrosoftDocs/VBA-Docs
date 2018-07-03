@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelColumnChanges.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of[ModelColumnChange Object (Excel)](modelcolumnchange-object-excel.md) objects in a[ModelColumnChanges Object (Excel)](modelcolumnchanges-object-excel.md) object. Read-only.
+Returns a  **Long** value that represents the number of[ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) objects in a[ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Count`
 
- _expression_ A variable that represents a[ModelColumnChanges Object (Excel)](modelcolumnchanges-object-excel.md) object.
+ _expression_ A variable that represents a[ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns a  **Long** value that represents the number of[ModelColumnChange Object
 
 
 
-[ModelColumnChanges Object](modelcolumnchanges-object-excel.md)
+[ModelColumnChanges Object](Excel.modelcolumnchanges.md)
 

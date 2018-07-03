@@ -38,5 +38,5 @@ Gets a  **Signature** object that corresponds to one of the digital signatures w
 #### Other resources
 
 
-[SignatureSet Object Members](signatureset-members-office.md)
+[SignatureSet Object Members](overview/signatureset-members-office.md)
 

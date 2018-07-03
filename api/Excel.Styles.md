@@ -75,7 +75,7 @@ ActiveWorkbook.Styles("Normal").Font.Bold = True
 |[Count](Excel.Styles.Count.md)|
 |[Creator](Excel.Styles.Creator.md)|
 |[Item](Excel.Styles.Item.md)|
-|[Parent](styles-parent-property-excel.md)|
+|[Parent](Excel.Styles.Parent.md)|
 
 ## See also
 

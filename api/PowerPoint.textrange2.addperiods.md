@@ -21,6 +21,6 @@ Adds period (.) punctuation to the right side of the text contained in TextRange
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](textrange2-object-powerpoint.md)
+[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
 

@@ -81,5 +81,5 @@ End With
 ## See also
 
 
-[ActionSetting Object](actionsetting-object-powerpoint.md)
+[ActionSetting Object](PowerPoint.ActionSetting.md)
 

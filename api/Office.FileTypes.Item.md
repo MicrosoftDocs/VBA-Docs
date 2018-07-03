@@ -38,5 +38,5 @@ Gets a value that indicates which file type will be searched for. Read-only.
 #### Other resources
 
 
-[FileTypes Object Members](filetypes-members-office.md)
+[FileTypes Object Members](overview/filetypes-members-office.md)
 

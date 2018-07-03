@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # WorksheetDataConnection.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[WorksheetDataConnection Object (Excel)](worksheetdataconnection-object-excel.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[WorksheetDataConnection Object (Excel)](Excel.worksheetdataconnection.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[WorksheetDataConnection Object (Excel)](worksheetdataconnection-object-excel.md) object.
+ _expression_ A variable that represents a[WorksheetDataConnection Object (Excel)](Excel.worksheetdataconnection.md) object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns an  **Object** that represents the parent object of the specified[Worksh
 
 
 
-[WorksheetDataConnection Object](worksheetdataconnection-object-excel.md)
+[WorksheetDataConnection Object](Excel.worksheetdataconnection.md)
 

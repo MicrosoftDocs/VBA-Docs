@@ -79,7 +79,7 @@ ActiveWorkbook.SlicerCaches(1).Slicers(1).Width = 200
 |[Style](Excel.Slicer.Style.md)|
 |[TimelineViewState](Excel.slicer.timelineviewstate.md)|
 |[Top](Excel.Slicer.Top.md)|
-|[Width](slicer-width-property-excel.md)|
+|[Width](Excel.Slicer.Width.md)|
 
 ## See also
 

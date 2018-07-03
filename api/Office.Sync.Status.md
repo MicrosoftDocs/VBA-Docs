@@ -110,5 +110,5 @@ The following example examines the  **Status** property and takes an appropriate
 #### Other resources
 
 
-[Sync Object Members](sync-members-office.md)
+[Sync Object Members](overview/sync-members-office.md)
 

@@ -38,5 +38,5 @@ Gets a  **SearchScope** object that corresponds to an area in which to perform a
 #### Other resources
 
 
-[SearchScopes Object Members](searchscopes-members-office.md)
+[SearchScopes Object Members](overview/searchscopes-members-office.md)
 

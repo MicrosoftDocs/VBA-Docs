@@ -25,6 +25,6 @@ Indicates the response to a meeting request.
 
 ## Remarks
 
-See [MeetingItem Object (Outlook)](meetingitem-object-outlook.md).
+See [MeetingItem Object (Outlook)](../missing-files/Outlook/meetingitem-object-outlook.md).
 
 

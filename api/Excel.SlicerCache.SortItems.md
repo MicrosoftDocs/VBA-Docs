@@ -32,7 +32,7 @@ Returns or sets the sort order of the items in the slicer. Read/write  **[XlSlic
 
 The default setting of this property is  **xlSlicerSortAscending** .
 
-The  **SortItems** property of the **SlicerCache** object only applies to slicers that are based on PivotTables that are connected to workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ). Attempting to access the **SortItems** property for slicers that are connected to a OLAP data sources ( **SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **True** ) generates a run-time error. For OLAP data sources, use the **[SortItems](Excel.SlicerCacheLevel.SortItems.md)** property of the **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object instead.
+The  **SortItems** property of the **SlicerCache** object only applies to slicers that are based on PivotTables that are connected to workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ). Attempting to access the **SortItems** property for slicers that are connected to a OLAP data sources ( **SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **True** ) generates a run-time error. For OLAP data sources, use the **[SortItems](Excel.SlicerCacheLevel.SortItems.md)** property of the **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object instead.
 
 
 ## See also

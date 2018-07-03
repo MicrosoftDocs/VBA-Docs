@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelTable.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTable Object (Excel)](modeltable-object-excel.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[ModelTable Object (Excel)](Excel.modeltable.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[ModelTable Object (Excel)](modeltable-object-excel.md) object.
+ _expression_ A variable that represents a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 
 
 
-[ModelTable Object](modeltable-object-excel.md)
+[ModelTable Object](Excel.modeltable.md)
 

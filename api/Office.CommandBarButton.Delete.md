@@ -41,5 +41,5 @@ Deletes the  **CommandBarButton** object from its collection.
 #### Other resources
 
 
-[CommandBarButton Object Members](commandbarbutton-members-office.md)
+[CommandBarButton Object Members](overview/commandbarbutton-members-office.md)
 

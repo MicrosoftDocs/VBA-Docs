@@ -36,5 +36,5 @@ Gets or sets the way a  **CommandBarComboBox** control is displayed. Can be eith
 #### Other resources
 
 
-[CommandBarComboBox Object Members](commandbarcombobox-members-office.md)
+[CommandBarComboBox Object Members](overview/commandbarcombobox-members-office.md)
 

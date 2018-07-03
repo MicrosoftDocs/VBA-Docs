@@ -52,7 +52,7 @@ Set myNewColumn = Worksheets(1).ListObject(1).ListColumns.Add
 |[Count](Excel.ListColumns.Count.md)|
 |[Creator](Excel.ListColumns.Creator.md)|
 |[Item](Excel.ListColumns.Item.md)|
-|[Parent](listcolumns-parent-property-excel.md)|
+|[Parent](Excel.ListColumns.Parent.md)|
 
 ## See also
 

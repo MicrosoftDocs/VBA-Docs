@@ -62,5 +62,5 @@ Next
 #### Other resources
 
 
-[CommandBarComboBox Object Members](commandbarcombobox-members-office.md)
+[CommandBarComboBox Object Members](overview/commandbarcombobox-members-office.md)
 

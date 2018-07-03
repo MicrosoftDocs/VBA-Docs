@@ -43,8 +43,8 @@ Use the  **[Count](Outlook.NavigationModules.Count.md)** property to return the 
 |[Application](Outlook.NavigationModules.Application.md)|
 |[Class](Outlook.NavigationModules.Class.md)|
 |[Count](Outlook.NavigationModules.Count.md)|
-|[Parent](navigationmodules-parent-property-outlook.md)|
-|[Session](navigationmodules-session-property-outlook.md)|
+|[Parent](../missing-files/Outlook/navigationmodules-parent-property-outlook.md)|
+|[Session](../missing-files/Outlook/navigationmodules-session-property-outlook.md)|
 
 ## See also
 

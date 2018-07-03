@@ -24,29 +24,29 @@ Use the  **[CalculatedMembers](Excel.PivotTable.CalculatedMembers.md)** property
 
 There are three supported types of calculated members:  _Named Sets_ , _Calculated Measures_ , and _Calculated Members_ . Object model support has been available for all three of these types since Excel 2010. User interface support was made available for Named Sets in Excel 2010. In Excel 2013, the OLAP Calculated Members and Calculated Measures feature was created to build a user interface for the calculated members and measures object model.
 
- **Named Sets** are used exactly the same as in Excel 2010. Named Sets should continue to use the method CalculatedMembers.[CalculatedMembers.Add Method (Excel)](calculatedmembers-add-method-excel.md) and the type[XlCalculatedMemberType Enumeration (Excel)](xlcalculatedmembertype-enumeration-excel.md).
+ **Named Sets** are used exactly the same as in Excel 2010. Named Sets should continue to use the method CalculatedMembers.[CalculatedMembers.Add Method (Excel)](Excel.CalculatedMembers.Add.md) and the type[XlCalculatedMemberType Enumeration (Excel)](Excel.XlCalculatedMemberType.md).
 
  **Calculated Members** have the following changes for Excel 2013:
 
 
-- They now use the method called CalculatedMembers.[CalculatedMembers.AddCalculatedMember Method (Excel)](calculatedmembers-addcalculatedmember-method-excel.md).
+- They now use the method called CalculatedMembers.[CalculatedMembers.AddCalculatedMember Method (Excel)](Excel.calculatedmembers.addcalculatedmember.md).
     
-- They support the property [CalculatedMember.ParentHierarchy Property (Excel)](calculatedmember-parenthierarchy-property-excel.md).
+- They support the property [CalculatedMember.ParentHierarchy Property (Excel)](Excel.calculatedmember.parenthierarchy.md).
     
-- They support the property [CalculatedMember.ParentMember Property (Excel)](calculatedmember-parentmember-property-excel.md).
+- They support the property [CalculatedMember.ParentMember Property (Excel)](Excel.calculatedmember.parentmember.md).
     
-- They support the property [CalculatedMember.NumberFormat Property (Excel)](calculatedmember-numberformat-property-excel.md).
+- They support the property [CalculatedMember.NumberFormat Property (Excel)](Excel.calculatedmember.numberformat.md).
     
  **Calculated Measures** have the following changes for Excel 2013:
 
 
-- They now use the method called CalculatedMembers.[CalculatedMembers.AddCalculatedMember Method (Excel)](calculatedmembers-addcalculatedmember-method-excel.md).
+- They now use the method called CalculatedMembers.[CalculatedMembers.AddCalculatedMember Method (Excel)](Excel.calculatedmembers.addcalculatedmember.md).
     
-- They now use the type [XlCalculatedMemberType Enumeration (Excel)](xlcalculatedmembertype-enumeration-excel.md).
+- They now use the type [XlCalculatedMemberType Enumeration (Excel)](Excel.XlCalculatedMemberType.md).
     
-- They support the property [CalculatedMember.DisplayFolder Property (Excel)](calculatedmember-displayfolder-property-excel.md).
+- They support the property [CalculatedMember.DisplayFolder Property (Excel)](Excel.CalculatedMember.DisplayFolder.md).
     
-- They support the property [CalculatedMember.NumberFormat Property (Excel)](calculatedmember-numberformat-property-excel.md).
+- They support the property [CalculatedMember.NumberFormat Property (Excel)](Excel.calculatedmember.numberformat.md).
     
 
 ## Example

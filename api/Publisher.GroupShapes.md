@@ -59,5 +59,5 @@ End Sub
 |:-----|
 |[Application](Publisher.GroupShapes.Application.md)|
 |[Count](Publisher.GroupShapes.Count.md)|
-|[Parent](groupshapes-parent-property-publisher.md)|
+|[Parent](../missing-files/Publisher/groupshapes-parent-property-publisher.md)|
 

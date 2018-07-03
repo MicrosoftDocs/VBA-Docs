@@ -63,7 +63,7 @@ End With
 |[Count](Excel.Hyperlinks.Count.md)|
 |[Creator](Excel.Hyperlinks.Creator.md)|
 |[Item](Excel.Hyperlinks.Item.md)|
-|[Parent](hyperlinks-parent-property-excel.md)|
+|[Parent](Excel.Hyperlinks.Parent.md)|
 
 ## See also
 

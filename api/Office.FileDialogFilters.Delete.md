@@ -38,5 +38,5 @@ Removes a file dialog filter.
 #### Other resources
 
 
-[FileDialogFilters Object Members](filedialogfilters-members-office.md)
+[FileDialogFilters Object Members](overview/filedialogfilters-members-office.md)
 

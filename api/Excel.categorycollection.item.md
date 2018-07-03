@@ -31,7 +31,7 @@ Returns a single object from the  **CategoryCollection** object.
 
 ### Return value
 
-[ChartCategory Object (Excel)](chartcategory-object-excel.md)
+[ChartCategory Object (Excel)](Excel.chartcategory.md)
 
 
 ## See also

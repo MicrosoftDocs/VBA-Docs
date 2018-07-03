@@ -88,5 +88,5 @@ End Sub
 |[Application](Publisher.TabStop.Application.md)|
 |[Leader](Publisher.TabStop.Leader.md)|
 |[Parent](Publisher.TabStop.Parent.md)|
-|[Position](tabstop-position-property-publisher.md)|
+|[Position](../missing-files/Publisher/tabstop-position-property-publisher.md)|
 

@@ -80,7 +80,7 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 |[Application](Project.Availabilities.Application.md)|
 |[Count](Project.Availabilities.Count.md)|
 |[Item](Project.Availabilities.Item.md)|
-|[Parent](availabilities-parent-property-project.md)|
+|[Parent](../missing-files/Project/availabilities-parent-property-project.md)|
 
 ## See also
 

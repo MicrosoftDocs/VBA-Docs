@@ -38,5 +38,5 @@ Gets a  **DocumentProperty** object from the **DocumentProperties** collection. 
 #### Other resources
 
 
-[DocumentProperties Object Members](documentproperties-members-office.md)
+[DocumentProperties Object Members](overview/documentproperties-members-office.md)
 

@@ -62,7 +62,7 @@ ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True
 |[MaintainHierarchy](Project.Group2.MaintainHierarchy.md)|
 |[Name](Project.Group2.Name.md)|
 |[Parent](Project.Group2.Parent.md)|
-|[ShowSummary](group2-showsummary-property-project.md)|
+|[ShowSummary](../missing-files/Project/group2-showsummary-property-project.md)|
 
 ## See also
 

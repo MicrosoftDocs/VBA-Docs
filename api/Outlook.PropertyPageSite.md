@@ -54,7 +54,7 @@ Use the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method
 |[Application](Outlook.PropertyPageSite.Application.md)|
 |[Class](Outlook.PropertyPageSite.Class.md)|
 |[Parent](Outlook.PropertyPageSite.Parent.md)|
-|[Session](propertypagesite-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/propertypagesite-session-property-outlook.md)|
 
 ## See also
 

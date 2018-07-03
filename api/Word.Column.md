@@ -103,7 +103,7 @@ End If
 |[PreferredWidthType](Word.Column.PreferredWidthType.md)|
 |[Previous](Word.Column.Previous.md)|
 |[Shading](Word.Column.Shading.md)|
-|[Width](column-width-property-word.md)|
+|[Width](../missing-files/Word/column-width-property-word.md)|
 
 ## See also
 

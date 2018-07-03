@@ -33,5 +33,5 @@ Gets the horizontal position of the specified  **CommandBarControl** (in pixels)
 #### Other resources
 
 
-[CommandBarControl Object Members](commandbarcontrol-members-office.md)
+[CommandBarControl Object Members](overview/commandbarcontrol-members-office.md)
 

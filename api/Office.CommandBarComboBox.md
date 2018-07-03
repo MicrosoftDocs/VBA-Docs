@@ -57,7 +57,7 @@ Set myControl = CommandBars.FindControl _
 ## See also
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](overview/reference-object-library-reference-for-office.md)
 #### Other resources
 
 

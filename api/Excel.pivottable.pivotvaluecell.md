@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PivotValueCell Method (Excel)
 
-Retrieve the [PivotValueCell Object (Excel)](pivotvaluecell-object-excel.md) object for a given PivotTable provided certain row and column indices.
+Retrieve the [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object for a given PivotTable provided certain row and column indices.
 
 
 ## Syntax

@@ -119,7 +119,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestUpdateItem.GetAssociatedTask.m
 |[Size](Outlook.TaskRequestUpdateItem.Size.md)|
 |[Subject](Outlook.TaskRequestUpdateItem.Subject.md)|
 |[UnRead](Outlook.TaskRequestUpdateItem.UnRead.md)|
-|[UserProperties](taskrequestupdateitem-userproperties-property-outlook.md)|
+|[UserProperties](../missing-files/Outlook/taskrequestupdateitem-userproperties-property-outlook.md)|
 
 ## See also
 

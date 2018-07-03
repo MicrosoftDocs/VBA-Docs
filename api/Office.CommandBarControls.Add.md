@@ -70,5 +70,5 @@ customBar.Visible = True
 #### Other resources
 
 
-[CommandBarControls Object Members](commandbarcontrols-members-office.md)
+[CommandBarControls Object Members](overview/commandbarcontrols-members-office.md)
 

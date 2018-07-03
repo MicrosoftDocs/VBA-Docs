@@ -34,9 +34,9 @@ You can use the  **[Visible](Outlook.JournalModule.Visible.md)** property to det
 |[Name](Outlook.JournalModule.Name.md)|
 |[NavigationGroups](Outlook.JournalModule.NavigationGroups.md)|
 |[NavigationModuleType](Outlook.JournalModule.NavigationModuleType.md)|
-|[Parent](journalmodule-parent-property-outlook.md)|
+|[Parent](../missing-files/Outlook/journalmodule-parent-property-outlook.md)|
 |[Position](Outlook.JournalModule.Position.md)|
-|[Session](journalmodule-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/journalmodule-session-property-outlook.md)|
 |[Visible](Outlook.JournalModule.Visible.md)|
 
 ## See also

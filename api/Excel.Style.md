@@ -90,7 +90,7 @@ ActiveWorkbook.Styles("Normal").Font.Bold = True
 |[ShrinkToFit](Excel.Style.ShrinkToFit.md)|
 |[Value](Excel.Style.Value.md)|
 |[VerticalAlignment](Excel.Style.VerticalAlignment.md)|
-|[WrapText](style-wraptext-property-excel.md)|
+|[WrapText](Excel.Style.WrapText.md)|
 
 ## See also
 

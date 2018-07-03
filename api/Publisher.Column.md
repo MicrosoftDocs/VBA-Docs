@@ -78,6 +78,6 @@ End Sub
 |:-----|
 |[Application](Publisher.Column.Application.md)|
 |[Cells](Publisher.Column.Cells.md)|
-|[Parent](column-parent-property-publisher.md)|
-|[Width](column-width-property-publisher.md)|
+|[Parent](../missing-files/Publisher/column-parent-property-publisher.md)|
+|[Width](../missing-files/Publisher/column-width-property-publisher.md)|
 

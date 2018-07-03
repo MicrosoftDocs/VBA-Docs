@@ -39,5 +39,5 @@ To see whether the number of fetched rows exceeded the number of available rows 
 ## See also
 
 
-[OLEDBConnection Object](oledbconnection-object-excel.md)
+[OLEDBConnection Object](Excel.OLEDBConnection.md)
 

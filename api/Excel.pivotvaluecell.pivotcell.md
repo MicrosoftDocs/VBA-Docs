@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PivotValueCell.PivotCell Property (Excel)
 
-Returns the [PivotCell Object (Excel)](pivotcell-object-excel.md) that specifies the location of the **PivotValueCell** . Read-only
+Returns the [PivotCell Object (Excel)](Excel.PivotCell.md) that specifies the location of the **PivotValueCell** . Read-only
 
 
 ## Syntax

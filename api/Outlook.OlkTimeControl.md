@@ -88,8 +88,8 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 |[Style](Outlook.OlkTimeControl.Style.md)|
 |[Text](Outlook.OlkTimeControl.Text.md)|
 |[TextAlign](Outlook.OlkTimeControl.TextAlign.md)|
-|[Time](olktimecontrol-time-property-outlook.md)|
-|[Value](olktimecontrol-value-property-outlook.md)|
+|[Time](../missing-files/Outlook/olktimecontrol-time-property-outlook.md)|
+|[Value](../missing-files/Outlook/olktimecontrol-value-property-outlook.md)|
 
 ## See also
 

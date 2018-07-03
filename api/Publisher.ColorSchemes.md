@@ -78,5 +78,5 @@ End Sub
 |[Application](Publisher.ColorSchemes.Application.md)|
 |[Count](Publisher.ColorSchemes.Count.md)|
 |[Item](Publisher.ColorSchemes.Item.md)|
-|[Parent](colorschemes-parent-property-publisher.md)|
+|[Parent](../missing-files/Publisher/colorschemes-parent-property-publisher.md)|
 

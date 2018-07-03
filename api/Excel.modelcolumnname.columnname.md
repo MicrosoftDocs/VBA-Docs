@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelColumnName.ColumnName Property (Excel)
 
- **String** representing the name of a column of the table identified by the[ModelColumnName.TableName Property (Excel)](modelcolumnname-tablename-property-excel.md) property. Read-only.
+ **String** representing the name of a column of the table identified by the[ModelColumnName.TableName Property (Excel)](Excel.modelcolumnname.tablename.md) property. Read-only.
 
 
 ## Syntax

@@ -25,5 +25,5 @@ Specifies the folder to be obtained for unified groups. Because groups have both
 ## See also
 
 
-[Store.CreateUnifiedGroup Method (Outlook)](store-createunifiedgroup-method-outlook.md)
+[Store.CreateUnifiedGroup Method (Outlook)](../missing-files/Outlook/store-createunifiedgroup-method-outlook.md)
 

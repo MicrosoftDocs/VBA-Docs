@@ -43,5 +43,5 @@ For built-in controls, if you set the  **Enabled** property to **True**, the app
 #### Other resources
 
 
-[CommandBar Object Members](commandbar-members-office.md)
+[CommandBar Object Members](overview/commandbar-members-office.md)
 

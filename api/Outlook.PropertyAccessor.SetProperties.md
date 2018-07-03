@@ -69,7 +69,7 @@ For more information on setting properties using the  **PropertyAccessor** objec
 
 ## Example
 
-This code sample demonstrates how the  **SetProperties** method sets the values of multiple properties. If a property does not exist, then **SetProperties** will create the property as long as the parent object supports the creation of those properties. Since the **[MailItem](mailitem-object-outlook.md)** object supports a **[MailItem.Save](mailitem-save-method-outlook.md)** operation, the properties here are saved with an explicit `oMail.Save`.
+This code sample demonstrates how the  **SetProperties** method sets the values of multiple properties. If a property does not exist, then **SetProperties** will create the property as long as the parent object supports the creation of those properties. Since the **[MailItem](../missing-files/Outlook/mailitem-object-outlook.md)** object supports a **[MailItem.Save](../missing-files/Outlook/mailitem-save-method-outlook.md)** operation, the properties here are saved with an explicit `oMail.Save`.
 
 
 ```vb

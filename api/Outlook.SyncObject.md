@@ -65,7 +65,7 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 |[Class](Outlook.SyncObject.Class.md)|
 |[Name](Outlook.SyncObject.Name.md)|
 |[Parent](Outlook.SyncObject.Parent.md)|
-|[Session](syncobject-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/syncobject-session-property-outlook.md)|
 
 ## See also
 

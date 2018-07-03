@@ -63,5 +63,5 @@ End Sub
 #### Other resources
 
 
-[FileDialogFilter Object Members](filedialogfilter-members-office.md)
+[FileDialogFilter Object Members](overview/filedialogfilter-members-office.md)
 

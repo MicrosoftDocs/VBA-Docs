@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock.Type Property (Publisher)
 
-A  ** [PbBuildingBlockType Enumeration (Publisher)](pbbuildingblocktype-enumeration-publisher.md)** value that represents the type of the building block. Read-only.
+A  ** [PbBuildingBlockType Enumeration (Publisher)](../missing-files/Publisher/pbbuildingblocktype-enumeration-publisher.md)** value that represents the type of the building block. Read-only.
 
 
 ## Syntax

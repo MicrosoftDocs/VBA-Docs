@@ -36,5 +36,5 @@ The Smtp address used to delete the group.
 ## See also
 
 
-[Store Object (Outlook)](store-object-outlook.md)
+[Store Object (Outlook)](../missing-files/Outlook/store-object-outlook.md)
 

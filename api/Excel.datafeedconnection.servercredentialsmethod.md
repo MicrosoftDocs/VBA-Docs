@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.ServerCredentialsMethod Property (Excel)
 
-Returns or sets the type of credentials that should be used for server authentication.  **[XlCredentialsMethod Enumeration (Excel)](xlcredentialsmethod-enumeration-excel.md)** Read/Write
+Returns or sets the type of credentials that should be used for server authentication.  **[XlCredentialsMethod Enumeration (Excel)](Excel.XlCredentialsMethod.md)** Read/Write
 
 
 ## Syntax

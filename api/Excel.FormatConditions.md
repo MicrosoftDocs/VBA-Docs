@@ -70,8 +70,8 @@ End With
 |:-----|
 |[Application](Excel.FormatConditions.Application.md)|
 |[Count](Excel.FormatConditions.Count.md)|
-|[Creator](formatconditions-creator-property-excel.md)|
-|[Parent](formatconditions-parent-property-excel.md)|
+|[Creator](Excel.FormatConditions.Creator.md)|
+|[Parent](Excel.FormatConditions.Parent.md)|
 
 ## See also
 

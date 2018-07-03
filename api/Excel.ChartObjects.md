@@ -100,7 +100,7 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 |[ShapeRange](Excel.ChartObjects.ShapeRange.md)|
 |[Top](Excel.ChartObjects.Top.md)|
 |[Visible](Excel.ChartObjects.Visible.md)|
-|[Width](chartobjects-width-property-excel.md)|
+|[Width](Excel.ChartObjects.Width.md)|
 
 ## See also
 

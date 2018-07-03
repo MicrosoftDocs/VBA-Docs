@@ -45,7 +45,7 @@ Specifies the appearance of link lines in the active Network Diagram view.
 
 If no arguments are specified, the  **BoxLinks** method has no effect. If _ColorMode_ is **pjColorModePredecessor**, the _NoncriticalColor_ and _CriticalColor_ parameters are ignored.
 
-To edit box link lines where the colors can be RGB values, use the  **[BoxLinksEx](application-boxlinksex-method-project.md)** method.
+To edit box link lines where the colors can be RGB values, use the  **[BoxLinksEx](../missing-files/Project/application-boxlinksex-method-project.md)** method.
 
 
 ## Example

@@ -47,5 +47,5 @@ The shared workspace task schema on the server can be customized. Customization 
 #### Other resources
 
 
-[SharedWorkspaceTask Object Members](sharedworkspacetask-members-office.md)
+[SharedWorkspaceTask Object Members](overview/sharedworkspacetask-members-office.md)
 

@@ -62,7 +62,7 @@ Remarks
 
 Use the  **[Add](Word.AddIns.Add.md)** method with the **[Rows](Word.rows.md)** or **[Columns](Word.columns.md)** collection to add a row or column of cells.
 
-Use the  **[Information](selection-information-property-word.md)** property with a **Selection** object to return the current row and column number. The following example changes the width of the first cell in the selection and then displays the cell's row number and column number.
+Use the  **[Information](../missing-files/Word/selection-information-property-word.md)** property with a **Selection** object to return the current row and column number. The following example changes the width of the first cell in the selection and then displays the cell's row number and column number.
 
 
 

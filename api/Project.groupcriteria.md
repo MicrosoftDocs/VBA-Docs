@@ -102,7 +102,7 @@ ActiveProject.ResourceGroups("Response Pending").GroupCriteria.Add "% Work Compl
 |[Application](Project.GroupCriteria.Application.md)|
 |[Count](Project.GroupCriteria.Count.md)|
 |[Item](Project.GroupCriteria.Item.md)|
-|[Parent](groupcriteria-parent-property-project.md)|
+|[Parent](../missing-files/Project/groupcriteria-parent-property-project.md)|
 
 ## See also
 

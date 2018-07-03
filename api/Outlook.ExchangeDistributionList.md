@@ -90,9 +90,9 @@ End Sub
 |[Name](Outlook.ExchangeDistributionList.Name.md)|
 |[Parent](Outlook.ExchangeDistributionList.Parent.md)|
 |[PrimarySmtpAddress](Outlook.ExchangeDistributionList.PrimarySmtpAddress.md)|
-|[PropertyAccessor](exchangedistributionlist-propertyaccessor-property-outlook.md)|
-|[Session](exchangedistributionlist-session-property-outlook.md)|
-|[Type](exchangedistributionlist-type-property-outlook.md)|
+|[PropertyAccessor](../missing-files/Outlook/exchangedistributionlist-propertyaccessor-property-outlook.md)|
+|[Session](../missing-files/Outlook/exchangedistributionlist-session-property-outlook.md)|
+|[Type](../missing-files/Outlook/exchangedistributionlist-type-property-outlook.md)|
 
 ## See also
 

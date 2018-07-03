@@ -38,5 +38,5 @@ Gets a member of the specified  **COMAddIns** collection.
 #### Other resources
 
 
-[COMAddIns Object Members](comaddins-members-office.md)
+[COMAddIns Object Members](overview/comaddins-members-office.md)
 

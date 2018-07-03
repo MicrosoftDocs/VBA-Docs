@@ -49,5 +49,5 @@ The  _Collate_ parameter value can be one of these **MsoTriState** constants.
 ## See also
 
 
-[View Object](view-object-powerpoint.md)
+[View Object](PowerPoint.View.md)
 

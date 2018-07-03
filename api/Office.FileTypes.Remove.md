@@ -38,5 +38,5 @@ Removes a  **FileType** object from the collection.
 #### Other resources
 
 
-[FileTypes Object Members](filetypes-members-office.md)
+[FileTypes Object Members](overview/filetypes-members-office.md)
 

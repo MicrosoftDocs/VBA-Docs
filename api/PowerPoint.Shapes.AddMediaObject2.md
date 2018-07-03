@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddMediaObject2 Method (PowerPoint)
 
-Replaces deprecated [Shapes.AddMediaObject Method (PowerPoint)](shapes-addmediaobject-method-powerpoint.md). Adds a new media object. 
+Replaces deprecated [Shapes.AddMediaObject Method (PowerPoint)](PowerPoint.Shapes.AddMediaObject.md). Adds a new media object. 
 
 
 ## Syntax

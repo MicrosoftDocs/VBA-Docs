@@ -66,7 +66,7 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 |[Application](Excel.LegendEntries.Application.md)|
 |[Count](Excel.LegendEntries.Count.md)|
 |[Creator](Excel.LegendEntries.Creator.md)|
-|[Parent](legendentries-parent-property-excel.md)|
+|[Parent](Excel.LegendEntries.Parent.md)|
 
 ## See also
 

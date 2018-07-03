@@ -30,7 +30,7 @@ Double
 
 ## Remarks
 
-The  **[Width](Excel.Slicer.Width.md)** property of the **[Slicer](Excel.Slicer.md)** object is automatically adjusted based on the value of the **ColumnWidth** property and the **[NumberOfColumns](slicer-numberofcolumns-property-excel.md)** property.
+The  **[Width](Excel.Slicer.Width.md)** property of the **[Slicer](Excel.Slicer.md)** object is automatically adjusted based on the value of the **ColumnWidth** property and the **[NumberOfColumns](Excel.Slicer.NumberOfColumns.md)** property.
 
 
 ## See also

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 -  [ComboBox Object (Outlook Forms Script)](Outlook.combobox.md)
     
--  [ComboBox Members (Outlook Forms Script)](combobox-members-outlook-forms-script.md)
+-  [ComboBox Members (Outlook Forms Script)](../missing-files/Outlook/combobox-members-outlook-forms-script.md)
     
--  [ComboBox Properties (Outlook Forms Script)](combobox-properties-outlook-forms-script.md)
+-  [ComboBox Properties (Outlook Forms Script)](../missing-files/Outlook/combobox-properties-outlook-forms-script.md)
     
--  [ComboBox Methods (Outlook Forms Script)](combobox-methods-outlook-forms-script.md)
+-  [ComboBox Methods (Outlook Forms Script)](../missing-files/Outlook/combobox-methods-outlook-forms-script.md)
     
--  [ComboBox Events (Outlook Forms Script)](combobox-events-outlook-forms-script.md)
+-  [ComboBox Events (Outlook Forms Script)](../missing-files/Outlook/combobox-events-outlook-forms-script.md)
     
 

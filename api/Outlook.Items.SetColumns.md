@@ -59,7 +59,7 @@ The  **ConversationIndex** property cannot be cached using the **SetColumns** me
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example uses the  **[Items](Outlook.Items.md)** collection to get the items in default Tasks folder, caches the **[Subject](Outlook.MailItem.Subject.md)** and **[DueDate](taskitem-duedate-property-outlook.md)** properties and then displays the subject and due dates each in turn.
+The following Visual Basic for Applications (VBA) example uses the  **[Items](Outlook.Items.md)** collection to get the items in default Tasks folder, caches the **[Subject](Outlook.MailItem.Subject.md)** and **[DueDate](../missing-files/Outlook/taskitem-duedate-property-outlook.md)** properties and then displays the subject and due dates each in turn.
 
 
 ```vb

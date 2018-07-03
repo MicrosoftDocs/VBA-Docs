@@ -56,8 +56,8 @@ End Sub
 |[Application](Office.DocumentInspector.Application.md)|
 |[Creator](Office.DocumentInspector.Creator.md)|
 |[Description](Office.DocumentInspector.Description.md)|
-|[Name](documentinspector-name-property-office.md)|
-|[Parent](documentinspector-parent-property-office.md)|
+|[Name](Office.DocumentInspector.Name.md)|
+|[Parent](Office.DocumentInspector.Parent.md)|
 
 ## See also
 

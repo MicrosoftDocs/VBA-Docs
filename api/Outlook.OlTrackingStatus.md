@@ -30,6 +30,6 @@ Indicates the most recent tracking status change for the recipient.
 
 ## Remarks
 
-Used by the [Recipient.TrackingStatus Property (Outlook)](recipient-trackingstatus-property-outlook.md).
+Used by the [Recipient.TrackingStatus Property (Outlook)](../missing-files/Outlook/recipient-trackingstatus-property-outlook.md).
 
 

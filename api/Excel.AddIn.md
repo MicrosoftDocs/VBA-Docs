@@ -111,7 +111,7 @@ End If
 |[Name](Excel.AddIn.Name.md)|
 |[Parent](Excel.AddIn.Parent.md)|
 |[Path](Excel.AddIn.Path.md)|
-|[progID](addin-progid-property-excel.md)|
+|[progID](Excel.AddIn.progID.md)|
 
 ## See also
 

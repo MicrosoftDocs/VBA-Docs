@@ -71,7 +71,7 @@ End Sub
 |[CompareTo](Publisher.MailMergeFilterCriterion.CompareTo.md)|
 |[Comparison](Publisher.MailMergeFilterCriterion.Comparison.md)|
 |[Conjunction](Publisher.MailMergeFilterCriterion.Conjunction.md)|
-|[Creator](mailmergefiltercriterion-creator-property-publisher.md)|
-|[Index](mailmergefiltercriterion-index-property-publisher.md)|
-|[Parent](mailmergefiltercriterion-parent-property-publisher.md)|
+|[Creator](../missing-files/Publisher/mailmergefiltercriterion-creator-property-publisher.md)|
+|[Index](../missing-files/Publisher/mailmergefiltercriterion-index-property-publisher.md)|
+|[Parent](../missing-files/Publisher/mailmergefiltercriterion-parent-property-publisher.md)|
 

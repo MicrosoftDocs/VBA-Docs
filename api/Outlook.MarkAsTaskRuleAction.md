@@ -36,7 +36,7 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 |[FlagTo](Outlook.MarkAsTaskRuleAction.FlagTo.md)|
 |[MarkInterval](Outlook.MarkAsTaskRuleAction.MarkInterval.md)|
 |[Parent](Outlook.MarkAsTaskRuleAction.Parent.md)|
-|[Session](markastaskruleaction-session-property-outlook.md)|
+|[Session](../missing-files/Outlook/markastaskruleaction-session-property-outlook.md)|
 
 ## See also
 

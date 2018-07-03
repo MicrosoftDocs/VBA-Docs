@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableColumns.Item Method (Excel)
 
-Returns a [ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) object (Excel) from the **ModelTableColumns** collection (Excel)
+Returns a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) from the **ModelTableColumns** collection (Excel)
 
 
 ## Syntax

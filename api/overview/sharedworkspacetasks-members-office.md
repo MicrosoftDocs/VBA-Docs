@@ -31,5 +31,5 @@ A collection of the  **[SharedWorkspaceTask](../Office.SharedWorkspaceTask.md)**
 |[Creator](../Office.SharedWorkspaceTasks.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **SharedWorkspaceTasks** object was created. Read-only.|
 |[Item](../Office.SharedWorkspaceTasks.Item.md)|Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shared workspace. Read-only.|
 |[ItemCountExceeded](../Office.SharedWorkspaceTasks.ItemCountExceeded.md)|Gets a  **Boolean** value that indicates whether the number of **SharedWorkspaceTasks** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.|
-|[Parent](sharedworkspacetasks-parent-property-office.md)|Getss the  **Parent** object for the **SharedWorkspaceTasks** object. Read-only.|
+|[Parent](../Office.SharedWorkspaceTasks.Parent.md)|Getss the  **Parent** object for the **SharedWorkspaceTasks** object. Read-only.|
 
