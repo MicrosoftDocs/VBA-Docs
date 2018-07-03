@@ -197,8 +197,8 @@ End Sub
 |[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)|
 |[Parent](Outlook.CalendarSharing.Parent.md)|
 |[RestrictToWorkingHours](Outlook.CalendarSharing.RestrictToWorkingHours.md)|
-|[Session](../missing-files/Outlook/calendarsharing-session-property-outlook.md)|
-|[StartDate](../missing-files/Outlook/calendarsharing-startdate-property-outlook.md)|
+|[Session](Outlook.CalendarSharing.Session.md)|
+|[StartDate](Outlook.CalendarSharing.StartDate.md)|
 
 ## See also
 

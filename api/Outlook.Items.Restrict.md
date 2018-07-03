@@ -250,7 +250,7 @@ Sub MoveItems()
 End Sub
 ```
 
-This Visual Basic for Applications example uses the  **Restrict** method to apply a filter to contact items based on the item's **[LastModificationTime](../missing-files/Outlook/contactitem-lastmodificationtime-property-outlook.md)** property.
+This Visual Basic for Applications example uses the  **Restrict** method to apply a filter to contact items based on the item's **[LastModificationTime](Outlook.ContactItem.LastModificationTime.md)** property.
 
 
 

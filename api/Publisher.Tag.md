@@ -77,5 +77,5 @@ End Sub
 |[Application](Publisher.Tag.Application.md)|
 |[Name](Publisher.Tag.Name.md)|
 |[Parent](Publisher.Tag.Parent.md)|
-|[Value](../missing-files/Publisher/tag-value-property-publisher.md)|
+|[Value](Publisher.Tag.Value.md)|
 

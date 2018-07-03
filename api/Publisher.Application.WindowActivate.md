@@ -54,5 +54,5 @@ End Sub
 ## See also
 
 
- [Application Object](../missing-files/Publisher/application-object-publisher.md)
+ [Application Object](Publisher.Application.md)
 

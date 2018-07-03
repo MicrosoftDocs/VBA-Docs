@@ -44,7 +44,7 @@ End If
 
  **Note**   **CustomLabel** objects are sorted alphabetically in the **[CustomLabels](Word.customlabels.md)** collection and their index numbers are dynamically reassigned as the contents of the collection change. For that reason, it is safer to refer to a specific **CustomLabel** object by name rather than by index number.
 
-Use the  **[Add](../missing-files/Word/customlabels-add-method-word.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
+Use the  **[Add](Word.CustomLabels.Add.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
 
 
 

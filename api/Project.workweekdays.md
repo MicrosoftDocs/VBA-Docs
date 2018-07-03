@@ -28,7 +28,7 @@ Use the  **[Item](Project.WorkWeekDays.Item.md)** property return a single **Wor
 |[Application](Project.WorkWeekDays.Application.md)|
 |[Count](Project.WorkWeekDays.Count.md)|
 |[Item](Project.WorkWeekDays.Item.md)|
-|[Parent](../missing-files/Project/workweekdays-parent-property-project.md)|
+|[Parent](Project.WorkWeekDays.Parent.md)|
 
 ## See also
 

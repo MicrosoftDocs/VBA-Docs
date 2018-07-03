@@ -32,14 +32,14 @@ Categories can be assigned to Outlook items by specifying the names of the appro
 
 |||
 |:-----|:-----|
-|**[AppointmentItem](../missing-files/Outlook/appointmentitem-object-outlook.md)**|**[RemoteItem](../missing-files/Outlook/remoteitem-object-outlook.md)**|
-|**[ContactItem](../missing-files/Outlook/contactitem-object-outlook.md)**|**[ReportItem](../missing-files/Outlook/reportitem-object-outlook.md)**|
-|**[DistListItem](../missing-files/Outlook/distlistitem-object-outlook.md)**|**[SharingItem](../missing-files/Outlook/sharingitem-object-outlook.md)**|
-|**[DocumentItem](../missing-files/Outlook/documentitem-object-outlook.md)**|**[TaskItem](../missing-files/Outlook/taskitem-object-outlook.md)**|
-|**[JournalItem](../missing-files/Outlook/journalitem-object-outlook.md)**|**[TaskRequestAcceptItem](../missing-files/Outlook/taskrequestacceptitem-object-outlook.md)**|
-|**[MailItem](../missing-files/Outlook/mailitem-object-outlook.md)**|**[TaskRequestDeclineItem](../missing-files/Outlook/taskrequestdeclineitem-object-outlook.md)**|
-|**[MeetingItem](../missing-files/Outlook/meetingitem-object-outlook.md)**|**[TaskRequestItem](../missing-files/Outlook/taskrequestitem-object-outlook.md)**|
-|**[NoteItem](../missing-files/Outlook/noteitem-object-outlook.md)**|**[TaskRequestUpdateItem](../missing-files/Outlook/taskrequestupdateitem-object-outlook.md)**|
+|**[AppointmentItem](Outlook.AppointmentItem.md)**|**[RemoteItem](Outlook.RemoteItem.md)**|
+|**[ContactItem](Outlook.ContactItem.md)**|**[ReportItem](Outlook.ReportItem.md)**|
+|**[DistListItem](Outlook.DistListItem.md)**|**[SharingItem](Outlook.SharingItem.md)**|
+|**[DocumentItem](Outlook.DocumentItem.md)**|**[TaskItem](Outlook.TaskItem.md)**|
+|**[JournalItem](Outlook.JournalItem.md)**|**[TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md)**|
+|**[MailItem](Outlook.MailItem.md)**|**[TaskRequestDeclineItem](Outlook.TaskRequestDeclineItem.md)**|
+|**[MeetingItem](Outlook.MeetingItem.md)**|**[TaskRequestItem](Outlook.TaskRequestItem.md)**|
+|**[NoteItem](Outlook.NoteItem.md)**|**[TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md)**|
 |**[PostItem](Outlook.PostItem.md)**||
 
 ## Example
@@ -123,11 +123,11 @@ End Sub
 |[CategoryGradientBottomColor](Outlook.Category.CategoryGradientBottomColor.md)|
 |[CategoryGradientTopColor](Outlook.Category.CategoryGradientTopColor.md)|
 |[CategoryID](Outlook.Category.CategoryID.md)|
-|[Class](../missing-files/Outlook/category-class-property-outlook.md)|
+|[Class](Outlook.Category.Class.md)|
 |[Color](Outlook.Category.Color.md)|
 |[Name](Outlook.Category.Name.md)|
-|[Parent](../missing-files/Outlook/category-parent-property-outlook.md)|
-|[Session](../missing-files/Outlook/category-session-property-outlook.md)|
+|[Parent](Outlook.Category.Parent.md)|
+|[Session](Outlook.Category.Session.md)|
 |[ShortcutKey](Outlook.Category.ShortcutKey.md)|
 
 ## See also

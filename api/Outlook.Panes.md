@@ -63,7 +63,7 @@ Set myOLBarPane = myExplorer.Panes.Item("OutlookBar")
 |[Class](Outlook.Panes.Class.md)|
 |[Count](Outlook.Panes.Count.md)|
 |[Parent](Outlook.Panes.Parent.md)|
-|[Session](../missing-files/Outlook/panes-session-property-outlook.md)|
+|[Session](Outlook.Panes.Session.md)|
 
 ## See also
 

@@ -50,8 +50,8 @@ Use the  **[ModuleSwitch](Outlook.NavigationPane.ModuleSwitch.md)** event to det
 |[DisplayedModuleCount](Outlook.NavigationPane.DisplayedModuleCount.md)|
 |[IsCollapsed](Outlook.NavigationPane.IsCollapsed.md)|
 |[Modules](Outlook.NavigationPane.Modules.md)|
-|[Parent](../missing-files/Outlook/navigationpane-parent-property-outlook.md)|
-|[Session](../missing-files/Outlook/navigationpane-session-property-outlook.md)|
+|[Parent](Outlook.NavigationPane.Parent.md)|
+|[Session](Outlook.NavigationPane.Session.md)|
 
 ## See also
 

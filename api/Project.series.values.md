@@ -28,4 +28,4 @@ For a code example that uses the  **Values** property, see the **[Series](Projec
 
 
 [Series Object](Project.series.md)
-[XValues Property](../missing-files/Project/series-xvalues-property-project.md)
+[XValues Property](Project.series.xvalues.md)

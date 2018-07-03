@@ -62,7 +62,7 @@ MsgBox CaptionLabels(1).Name
 |[Application](Word.CaptionLabels.Application.md)|
 |[Count](Word.CaptionLabels.Count.md)|
 |[Creator](Word.CaptionLabels.Creator.md)|
-|[Parent](../missing-files/Word/captionlabels-parent-property-word.md)|
+|[Parent](Word.CaptionLabels.Parent.md)|
 
 ## See also
 

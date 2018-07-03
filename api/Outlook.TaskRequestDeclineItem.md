@@ -119,7 +119,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestDeclineItem.GetAssociatedTask.
 |[Size](Outlook.TaskRequestDeclineItem.Size.md)|
 |[Subject](Outlook.TaskRequestDeclineItem.Subject.md)|
 |[UnRead](Outlook.TaskRequestDeclineItem.UnRead.md)|
-|[UserProperties](../missing-files/Outlook/taskrequestdeclineitem-userproperties-property-outlook.md)|
+|[UserProperties](Outlook.TaskRequestDeclineItem.UserProperties.md)|
 
 ## See also
 

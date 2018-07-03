@@ -39,5 +39,5 @@ An  **Object** value that represents the specified object.
 ## See also
 
 
-[Pages Object (Outlook)](../missing-files/Outlook/pages-object-outlook.md)
+[Pages Object (Outlook)](Outlook.Pages.md)
 

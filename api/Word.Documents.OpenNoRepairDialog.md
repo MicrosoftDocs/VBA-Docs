@@ -48,7 +48,7 @@ Opens the specified document and adds it to the [Documents](Word.documents.md) c
 
 ### Return Value
 
-A  **[Document](../missing-files/Word/document-object-word.md)** object that represents the specified document.
+A  **[Document](Word.Document.md)** object that represents the specified document.
 
 
 ## Security

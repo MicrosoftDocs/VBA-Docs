@@ -20,7 +20,7 @@ Adds a  **[Field](Word.Field.md)** object to the **Fields** collection. Returns 
 
  _expression_. `Add`( `_Range_` , `_Type_` , `_Text_` , `_PreserveFormatting_` )
 
- _expression_ Required. A variable that represents a '[Fields](../missing-files/Word/fields-object-word.md)' collection.
+ _expression_ Required. A variable that represents a '[Fields](Word.fields.md)' collection.
 
 
 ### Parameters
@@ -82,5 +82,5 @@ MsgBox myField.Result
 ## See also
 
 
-[Fields Collection Object](../missing-files/Word/fields-object-word.md)
+[Fields Collection Object](Word.fields.md)
 

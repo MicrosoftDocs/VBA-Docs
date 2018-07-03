@@ -121,5 +121,5 @@ Application.WindowNewWindow
 |[TopPane](Project.Window.TopPane.md)|
 |[Visible](Project.Window.Visible.md)|
 |[Width](Project.Window.Width.md)|
-|[WindowState](../missing-files/Project/window-windowstate-property-project.md)|
+|[WindowState](Project.Window.WindowState.md)|
 

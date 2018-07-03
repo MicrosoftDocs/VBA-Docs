@@ -153,21 +153,21 @@ End Sub
 |[Filter](Outlook.TimelineView.Filter.md)|
 |[GroupByFields](Outlook.TimelineView.GroupByFields.md)|
 |[ItemFont](Outlook.TimelineView.ItemFont.md)|
-|[Language](../missing-files/Outlook/timelineview-language-property-outlook.md)|
+|[Language](Outlook.TimelineView.Language.md)|
 |[LockUserChanges](Outlook.TimelineView.LockUserChanges.md)|
 |[LowerScaleFont](Outlook.TimelineView.LowerScaleFont.md)|
 |[MaxLabelWidth](Outlook.TimelineView.MaxLabelWidth.md)|
-|[Name](../missing-files/Outlook/timelineview-name-property-outlook.md)|
-|[Parent](../missing-files/Outlook/timelineview-parent-property-outlook.md)|
-|[SaveOption](../missing-files/Outlook/timelineview-saveoption-property-outlook.md)|
-|[Session](../missing-files/Outlook/timelineview-session-property-outlook.md)|
+|[Name](Outlook.TimelineView.Name.md)|
+|[Parent](Outlook.TimelineView.Parent.md)|
+|[SaveOption](Outlook.TimelineView.SaveOption.md)|
+|[Session](Outlook.TimelineView.Session.md)|
 |[ShowLabelWhenViewingByMonth](Outlook.TimelineView.ShowLabelWhenViewingByMonth.md)|
 |[ShowWeekNumbers](Outlook.TimelineView.ShowWeekNumbers.md)|
 |[Standard](Outlook.TimelineView.Standard.md)|
 |[StartField](Outlook.TimelineView.StartField.md)|
 |[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)|
 |[UpperScaleFont](Outlook.TimelineView.UpperScaleFont.md)|
-|[ViewType](../missing-files/Outlook/timelineview-viewtype-property-outlook.md)|
+|[ViewType](Outlook.TimelineView.ViewType.md)|
 |[XML](Outlook.TimelineView.XML.md)|
 
 ## See also

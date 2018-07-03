@@ -35,7 +35,7 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 |[ConditionType](Outlook.SenderInAddressListRuleCondition.ConditionType.md)|
 |[Enabled](Outlook.SenderInAddressListRuleCondition.Enabled.md)|
 |[Parent](Outlook.SenderInAddressListRuleCondition.Parent.md)|
-|[Session](../missing-files/Outlook/senderinaddresslistrulecondition-session-property-outlook.md)|
+|[Session](Outlook.SenderInAddressListRuleCondition.Session.md)|
 
 ## See also
 

@@ -33,7 +33,7 @@ To obtain the value of a property (column) for a specific item (row) in a  **Tab
 |[Class](Outlook.Column.Class.md)|
 |[Name](Outlook.Column.Name.md)|
 |[Parent](Outlook.Column.Parent.md)|
-|[Session](../missing-files/Outlook/column-session-property-outlook.md)|
+|[Session](Outlook.Column.Session.md)|
 
 ## See also
 

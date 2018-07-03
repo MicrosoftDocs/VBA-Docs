@@ -25,6 +25,6 @@ Indicates the format in which the data file should be created.
 
 ## Remarks
 
-Used as a parameter to the [NameSpace.AddStoreEx Method (Outlook)](../missing-files/Outlook/namespace-addstoreex-method-outlook.md).
+Used as a parameter to the [NameSpace.AddStoreEx Method (Outlook)](Outlook.NameSpace.AddStoreEx.md).
 
 

@@ -25,6 +25,6 @@ Indicates how items will be automatically previewed.
 
 ## Remarks
 
-Used by the [TableView.AutoPreview Property (Outlook)](../missing-files/Outlook/tableview-autopreview-property-outlook.md) to determine how items are automatically previewed.
+Used by the [TableView.AutoPreview Property (Outlook)](Outlook.TableView.AutoPreview.md) to determine how items are automatically previewed.
 
 

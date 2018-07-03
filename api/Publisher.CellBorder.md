@@ -57,6 +57,6 @@ cbTemp.Weight = 2
 |:-----|
 |[Application](Publisher.CellBorder.Application.md)|
 |[Color](Publisher.CellBorder.Color.md)|
-|[Parent](../missing-files/Publisher/cellborder-parent-property-publisher.md)|
+|[Parent](Publisher.CellBorder.Parent.md)|
 |[Weight](Publisher.CellBorder.Weight.md)|
 

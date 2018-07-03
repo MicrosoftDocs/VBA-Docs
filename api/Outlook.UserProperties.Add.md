@@ -54,7 +54,7 @@ You cannot add custom properties to Office document items such as Word, Excel, o
 
 ## Example
 
-This VBA example creates a new  **[ContactItem](../missing-files/Outlook/contactitem-object-outlook.md)** object and adds "LastDateSpokenWith" as a custom property.
+This VBA example creates a new  **[ContactItem](Outlook.ContactItem.md)** object and adds "LastDateSpokenWith" as a custom property.
 
 
 ```vb

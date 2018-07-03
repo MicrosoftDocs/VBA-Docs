@@ -45,7 +45,7 @@ Forms are registered as one of three classes: Folder, Organization, or Personal.
 This Visual Basic for Applications (VBA) example creates a contact, obtains its  **[FormDescription](Outlook.FormDescription.md)** object, and saves it in the Folder form registry of the default **Contacts** folder.
 
 
- **Note**  The  **[PublishForm](../missing-files/Outlook/formdescription-publishform-method-outlook.md)** method will return an error if the caption ( **[Name](Outlook.FormDescription.Name.md)** ) for the form is not set first.
+ **Note**  The  **[PublishForm](Outlook.FormDescription.PublishForm.md)** method will return an error if the caption ( **[Name](Outlook.FormDescription.Name.md)** ) for the form is not set first.
 
 
 ```vb

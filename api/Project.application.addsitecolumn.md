@@ -155,4 +155,4 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 #### Other resources
 
 
-[LinkToTaskList Method](../missing-files/Project/application-linktotasklist-method-project.md)
+[LinkToTaskList Method](Project.application.linktotasklist.md)

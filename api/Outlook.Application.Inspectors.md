@@ -64,5 +64,5 @@ End Sub
 ## See also
 
 
-[Application Object](../missing-files/Outlook/application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

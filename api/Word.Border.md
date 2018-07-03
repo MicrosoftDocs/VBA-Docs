@@ -75,9 +75,9 @@ Next aBorder
 |[Creator](Word.Border.Creator.md)|
 |[Inside](Word.Border.Inside.md)|
 |[LineStyle](Word.Border.LineStyle.md)|
-|[LineWidth](../missing-files/Word/border-linewidth-property-word.md)|
-|[Parent](../missing-files/Word/border-parent-property-word.md)|
-|[Visible](../missing-files/Word/border-visible-property-word.md)|
+|[LineWidth](Word.Border.LineWidth.md)|
+|[Parent](Word.Border.Parent.md)|
+|[Visible](Word.Border.Visible.md)|
 
 ## See also
 

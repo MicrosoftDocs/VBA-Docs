@@ -55,8 +55,8 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 |[Name](Word.FileConverter.Name.md)|
 |[OpenFormat](Word.FileConverter.OpenFormat.md)|
 |[Parent](Word.FileConverter.Parent.md)|
-|[Path](../missing-files/Word/fileconverter-path-property-word.md)|
-|[SaveFormat](../missing-files/Word/fileconverter-saveformat-property-word.md)|
+|[Path](Word.FileConverter.Path.md)|
+|[SaveFormat](Word.FileConverter.SaveFormat.md)|
 
 ## See also
 

@@ -40,9 +40,9 @@ Use the  **[IsRemovable](Outlook.NavigationFolder.IsRemovable.md)** property to 
 |[IsRemovable](Outlook.NavigationFolder.IsRemovable.md)|
 |[IsSelected](Outlook.NavigationFolder.IsSelected.md)|
 |[IsSideBySide](Outlook.NavigationFolder.IsSideBySide.md)|
-|[Parent](../missing-files/Outlook/navigationfolder-parent-property-outlook.md)|
+|[Parent](Outlook.NavigationFolder.Parent.md)|
 |[Position](Outlook.NavigationFolder.Position.md)|
-|[Session](../missing-files/Outlook/navigationfolder-session-property-outlook.md)|
+|[Session](Outlook.NavigationFolder.Session.md)|
 
 ## See also
 

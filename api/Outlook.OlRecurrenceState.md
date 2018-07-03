@@ -26,6 +26,6 @@ Indicates the recurrence state of an  **AppointmentItem** .
 
 ## Remarks
 
-See [AppointmentItem.RecurrenceState Property (Outlook)](../missing-files/Outlook/appointmentitem-recurrencestate-property-outlook.md).
+See [AppointmentItem.RecurrenceState Property (Outlook)](Outlook.AppointmentItem.RecurrenceState.md).
 
 

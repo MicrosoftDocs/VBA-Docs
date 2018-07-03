@@ -51,7 +51,7 @@ Set myOlBarPane = myPanes.Item("OutlookBar")
 |[Name](Outlook.OutlookBarPane.Name.md)|
 |[Parent](Outlook.OutlookBarPane.Parent.md)|
 |[Session](Outlook.OutlookBarPane.Session.md)|
-|[Visible](../missing-files/Outlook/outlookbarpane-visible-property-outlook.md)|
+|[Visible](Outlook.OutlookBarPane.Visible.md)|
 
 ## See also
 

@@ -48,7 +48,7 @@ Sets the style of boxes in the Network Diagram view.
 
 To display the  **Box Styles** dialog box, use the **[BarBoxStyles](Project.Application.BarBoxStyles.md)** method.
 
-To edit box link lines where the colors can be RGB values, use the  **[BoxStylesEditEx](../missing-files/Project/application-boxstyleseditex-method-project.md)** method.
+To edit box link lines where the colors can be RGB values, use the  **[BoxStylesEditEx](Project.Application.BoxStylesEditEx.md)** method.
 
 
 ## Example

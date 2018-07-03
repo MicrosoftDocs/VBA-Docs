@@ -80,5 +80,5 @@ End Sub
 |[Application](Publisher.ColorScheme.Application.md)|
 |[Colors](Publisher.ColorScheme.Colors.md)|
 |[Name](Publisher.ColorScheme.Name.md)|
-|[Parent](../missing-files/Publisher/colorscheme-parent-property-publisher.md)|
+|[Parent](Publisher.ColorScheme.Parent.md)|
 

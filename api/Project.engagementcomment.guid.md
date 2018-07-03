@@ -21,5 +21,5 @@ The Guid property for the EngagementComment object. Introduced in Office 2016.
 ## See also
 
 
-[EngagementComment Object (Project)](../missing-files/Project/engagementcomment-object-project.md)
+[EngagementComment Object (Project)](Project.engagementcomment.md)
 

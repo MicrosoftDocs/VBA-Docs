@@ -67,7 +67,7 @@ ActiveProject.TaskGroups2("Overallocated Tasks").GroupCriteria(1).Ascending = Fa
 |[Application](Project.TaskGroups2.Application.md)|
 |[Count](Project.TaskGroups2.Count.md)|
 |[Item](Project.TaskGroups2.Item.md)|
-|[Parent](../missing-files/Project/taskgroups2-parent-property-project.md)|
+|[Parent](Project.TaskGroups2.Parent.md)|
 
 ## See also
 

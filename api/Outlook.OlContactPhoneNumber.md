@@ -41,6 +41,6 @@ Specfies the telephone number type.
 
 ## Remarks
 
-See [ContactItem Object (Outlook)](../missing-files/Outlook/contactitem-object-outlook.md).
+See [ContactItem Object (Outlook)](Outlook.ContactItem.md).
 
 

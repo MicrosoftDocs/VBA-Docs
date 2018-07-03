@@ -43,7 +43,7 @@ Use the  **[Add](Project.Exceptions.Add.md)** method to add an **Exception** obj
 |[Application](Project.Exceptions.Application.md)|
 |[Count](Project.Exceptions.Count.md)|
 |[Item](Project.Exceptions.Item.md)|
-|[Parent](../missing-files/Project/exceptions-parent-property-project.md)|
+|[Parent](Project.Exceptions.Parent.md)|
 
 ## See also
 

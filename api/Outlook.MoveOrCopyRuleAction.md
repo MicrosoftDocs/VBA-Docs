@@ -34,8 +34,8 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 |[Class](Outlook.MoveOrCopyRuleAction.Class.md)|
 |[Enabled](Outlook.MoveOrCopyRuleAction.Enabled.md)|
 |[Folder](Outlook.MoveOrCopyRuleAction.Folder.md)|
-|[Parent](../missing-files/Outlook/moveorcopyruleaction-parent-property-outlook.md)|
-|[Session](../missing-files/Outlook/moveorcopyruleaction-session-property-outlook.md)|
+|[Parent](Outlook.MoveOrCopyRuleAction.Parent.md)|
+|[Session](Outlook.MoveOrCopyRuleAction.Session.md)|
 
 ## See also
 

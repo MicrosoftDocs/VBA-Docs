@@ -88,7 +88,7 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 |[Application](Project.GroupCriteria2.Application.md)|
 |[Count](Project.GroupCriteria2.Count.md)|
 |[Item](Project.GroupCriteria2.Item.md)|
-|[Parent](../missing-files/Project/groupcriteria2-parent-property-project.md)|
+|[Parent](Project.GroupCriteria2.Parent.md)|
 
 ## See also
 

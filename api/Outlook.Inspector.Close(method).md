@@ -34,7 +34,7 @@ Closes the  **[Inspector](Outlook.Inspector.md)** and optionally saves changes t
 ## Remarks
 
 
- **Note**  Do not use this method from within the [Inspector.Activate Event (Outlook)](../missing-files/Outlook/inspector-activate-event-outlook.md) event handler.
+ **Note**  Do not use this method from within the [Inspector.Activate Event (Outlook)](Outlook.Inspector.Activate(even).md) event handler.
 
 
 ## Example

@@ -25,11 +25,11 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 ## Remarks
 
-If you use the  **[UserProperties.Add](Outlook.UserProperties.Add.md)** method on the **[UserProperties](Outlook.UserProperties.md)** object associated with a **[StorageItem](../missing-files/Outlook/storageitem-object-outlook.md)** , the optional _AddToFolderFields_ and _DisplayFormat_ arguments of the **UserProperties.Add** method will be ignored. Any custom properties of the **StorageItem** object will not be exposed as custom properties in the **Field Chooser**.
+If you use the  **[UserProperties.Add](Outlook.UserProperties.Add.md)** method on the **[UserProperties](Outlook.UserProperties.md)** object associated with a **[StorageItem](Outlook.StorageItem.md)** , the optional _AddToFolderFields_ and _DisplayFormat_ arguments of the **UserProperties.Add** method will be ignored. Any custom properties of the **StorageItem** object will not be exposed as custom properties in the **Field Chooser**.
 
 
 ## See also
 
 
-[StorageItem Object](../missing-files/Outlook/storageitem-object-outlook.md)
+[StorageItem Object](Outlook.StorageItem.md)
 

@@ -76,5 +76,5 @@ End Sub
 ## See also
 
 
-[Reminders Object](../missing-files/Outlook/reminders-object-outlook.md)
+[Reminders Object](Outlook.Reminders.md)
 

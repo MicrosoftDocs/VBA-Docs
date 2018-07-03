@@ -71,7 +71,7 @@ End Sub
 #### Other resources
 
 
-[Send an E-mail Given the SMTP Address of an Account](../missing-files/Outlook/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+[Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 
 
 

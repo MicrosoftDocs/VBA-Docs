@@ -119,7 +119,7 @@ End Sub
 |[Session](Outlook.StorageItem.Session.md)|
 |[Size](Outlook.StorageItem.Size.md)|
 |[Subject](Outlook.StorageItem.Subject.md)|
-|[UserProperties](../missing-files/Outlook/storageitem-userproperties-property-outlook.md)|
+|[UserProperties](Outlook.StorageItem.UserProperties.md)|
 
 ## See also
 

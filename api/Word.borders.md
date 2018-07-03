@@ -104,7 +104,7 @@ Next aBorder
 |[Parent](Word.Borders.Parent.md)|
 |[Shadow](Word.Borders.Shadow.md)|
 |[SurroundFooter](Word.Borders.SurroundFooter.md)|
-|[SurroundHeader](../missing-files/Word/borders-surroundheader-property-word.md)|
+|[SurroundHeader](Word.Borders.SurroundHeader.md)|
 
 ## See also
 

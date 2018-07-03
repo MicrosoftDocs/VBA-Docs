@@ -34,8 +34,8 @@ For more information on specifying rule actions, see [Specifying Rule Conditions
 |[Class](Outlook.AddressRuleCondition.Class.md)|
 |[ConditionType](Outlook.AddressRuleCondition.ConditionType.md)|
 |[Enabled](Outlook.AddressRuleCondition.Enabled.md)|
-|[Parent](../missing-files/Outlook/addressrulecondition-parent-property-outlook.md)|
-|[Session](../missing-files/Outlook/addressrulecondition-session-property-outlook.md)|
+|[Parent](Outlook.AddressRuleCondition.Parent.md)|
+|[Session](Outlook.AddressRuleCondition.Session.md)|
 
 ## See also
 

@@ -64,5 +64,5 @@ End Sub
 ## See also
 
 
-[Items Object](../missing-files/Outlook/items-object-outlook.md)
+[Items Object](Outlook.Items.md)
 

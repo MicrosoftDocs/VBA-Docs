@@ -88,7 +88,7 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 |**Name**|
 |:-----|
 |[Application](Publisher.Plates.Application.md)|
-|[Count](../missing-files/Publisher/plates-count-property-publisher.md)|
-|[Item](../missing-files/Publisher/plates-item-property-publisher.md)|
-|[Parent](../missing-files/Publisher/plates-parent-property-publisher.md)|
+|[Count](Publisher.Plates.Count.md)|
+|[Item](Publisher.Plates.Item.md)|
+|[Parent](Publisher.Plates.Parent.md)|
 

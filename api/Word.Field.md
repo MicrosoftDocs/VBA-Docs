@@ -41,7 +41,7 @@ MsgBox myField.Result
 ```
 
 
- **Note**  The  **wdFieldDate** constant is part of the **[WdFieldType](../missing-files/Word/wdfieldtype-enumeration-word.md)** group of constants, which includes all the various field types.
+ **Note**  The  **wdFieldDate** constant is part of the **[WdFieldType](Word.WdFieldType.md)** group of constants, which includes all the various field types.
 
 
 ## See also

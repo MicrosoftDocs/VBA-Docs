@@ -82,5 +82,5 @@ End Sub
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [ConnectorFormat Property](Project.shape.connectorformat.md)
-[AutoShapeType Property](../missing-files/Project/shape-autoshapetype-property-project.md)
+[AutoShapeType Property](Project.shape.autoshapetype.md)
 [MsoConnectorType](http://msdn.microsoft.com/en-us/library/office/ff860918%28v=office.15%29)

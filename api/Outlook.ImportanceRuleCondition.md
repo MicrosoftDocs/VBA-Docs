@@ -35,7 +35,7 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 |[Enabled](Outlook.ImportanceRuleCondition.Enabled.md)|
 |[Importance](Outlook.ImportanceRuleCondition.Importance.md)|
 |[Parent](Outlook.ImportanceRuleCondition.Parent.md)|
-|[Session](../missing-files/Outlook/importancerulecondition-session-property-outlook.md)|
+|[Session](Outlook.ImportanceRuleCondition.Session.md)|
 
 ## See also
 

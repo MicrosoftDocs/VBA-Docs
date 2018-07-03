@@ -69,5 +69,5 @@ End Sub
 |[Top](Publisher.Window.Top.md)|
 |[Visible](Publisher.Window.Visible.md)|
 |[Width](Publisher.Window.Width.md)|
-|[WindowState](../missing-files/Publisher/window-windowstate-property-publisher.md)|
+|[WindowState](Publisher.Window.WindowState.md)|
 

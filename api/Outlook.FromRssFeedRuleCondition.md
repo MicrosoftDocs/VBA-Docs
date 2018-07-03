@@ -35,7 +35,7 @@ For more information about specifying rule actions, see [Specify Rule Conditions
 |[Enabled](Outlook.FromRssFeedRuleCondition.Enabled.md)|
 |[FromRssFeed](Outlook.FromRssFeedRuleCondition.FromRssFeed.md)|
 |[Parent](Outlook.FromRssFeedRuleCondition.Parent.md)|
-|[Session](../missing-files/Outlook/fromrssfeedrulecondition-session-property-outlook.md)|
+|[Session](Outlook.FromRssFeedRuleCondition.Session.md)|
 
 ## See also
 

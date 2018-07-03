@@ -84,5 +84,5 @@ End Sub
 |:-----|
 |[Application](Publisher.ShapeNodes.Application.md)|
 |[Count](Publisher.ShapeNodes.Count.md)|
-|[Parent](../missing-files/Publisher/shapenodes-parent-property-publisher.md)|
+|[Parent](Publisher.ShapeNodes.Parent.md)|
 

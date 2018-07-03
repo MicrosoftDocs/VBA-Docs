@@ -114,6 +114,6 @@ End Sub
 |**Name**|
 |:-----|
 |[Application](Publisher.Columns.Application.md)|
-|[Count](../missing-files/Publisher/columns-count-property-publisher.md)|
-|[Parent](../missing-files/Publisher/columns-parent-property-publisher.md)|
+|[Count](Publisher.Columns.Count.md)|
+|[Parent](Publisher.Columns.Parent.md)|
 

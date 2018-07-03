@@ -105,8 +105,8 @@ End Sub
 |[Application](Outlook.ViewField.Application.md)|
 |[Class](Outlook.ViewField.Class.md)|
 |[ColumnFormat](Outlook.ViewField.ColumnFormat.md)|
-|[Parent](../missing-files/Outlook/viewfield-parent-property-outlook.md)|
-|[Session](../missing-files/Outlook/viewfield-session-property-outlook.md)|
+|[Parent](Outlook.ViewField.Parent.md)|
+|[Session](Outlook.ViewField.Session.md)|
 |[ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)|
 
 ## See also

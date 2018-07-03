@@ -71,5 +71,5 @@ End Sub
 ## See also
 
 
-[Explorers Object](../missing-files/Outlook/explorers-object-outlook.md)
+[Explorers Object](Outlook.Explorers.md)
 

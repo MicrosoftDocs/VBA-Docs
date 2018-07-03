@@ -50,7 +50,7 @@ Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 |[Name](Outlook.OutlookBarShortcut.Name.md)|
 |[Parent](Outlook.OutlookBarShortcut.Parent.md)|
 |[Session](Outlook.OutlookBarShortcut.Session.md)|
-|[Target](../missing-files/Outlook/outlookbarshortcut-target-property-outlook.md)|
+|[Target](Outlook.OutlookBarShortcut.Target.md)|
 
 ## See also
 

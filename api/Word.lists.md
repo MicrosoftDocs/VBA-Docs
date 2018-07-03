@@ -68,7 +68,7 @@ You can manipulate the individual  **[List](Word.List.md)** objects within a doc
 |[Application](Word.Lists.Application.md)|
 |[Count](Word.Lists.Count.md)|
 |[Creator](Word.Lists.Creator.md)|
-|[Parent](../missing-files/Word/lists-parent-property-word.md)|
+|[Parent](Word.Lists.Parent.md)|
 
 ## See also
 

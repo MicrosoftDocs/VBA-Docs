@@ -43,7 +43,7 @@ Set myOlBarGroup = myOutlookBarGroups.Item("Other Shortcuts")
 |[Parent](Outlook.OutlookBarGroup.Parent.md)|
 |[Session](Outlook.OutlookBarGroup.Session.md)|
 |[Shortcuts](Outlook.OutlookBarGroup.Shortcuts.md)|
-|[ViewType](../missing-files/Outlook/outlookbargroup-viewtype-property-outlook.md)|
+|[ViewType](Outlook.OutlookBarGroup.ViewType.md)|
 
 ## See also
 

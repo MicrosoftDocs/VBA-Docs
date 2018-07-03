@@ -27,7 +27,7 @@ Switches the text flow in the specified WordArt from horizontal to vertical, or 
 
 Using the  **ToggleVerticalText** method swaps the values of the **[Left](Publisher.Shape.Left.md)** and **[Top](Publisher.Shape.Top.md)** properties of the **[Shape](Publisher.Shape.md)** object that represents the WordArt and leaves the  **[Width](Publisher.Shape.Width.md)** and **[Height](Publisher.Shape.Height.md)** properties unchanged.
 
-The  **[Flip](Publisher.Shape.Flip.md)** method and  **[Rotation](Publisher.Shape.Rotation.md)** property of the  **[Shape](Publisher.Shape.md)** object and the  **[RotatedChars](Publisher.TextEffectFormat.RotatedChars.md)** property and  **ToggleVerticalText** method of the **[TextEffectFormat](../missing-files/Publisher/texteffectformat-object-publisher.md)** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The  **[Flip](Publisher.Shape.Flip.md)** method and  **[Rotation](Publisher.Shape.Rotation.md)** property of the  **[Shape](Publisher.Shape.md)** object and the  **[RotatedChars](Publisher.TextEffectFormat.RotatedChars.md)** property and  **ToggleVerticalText** method of the **[TextEffectFormat](Publisher.TextEffectFormat.md)** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
 ## Example

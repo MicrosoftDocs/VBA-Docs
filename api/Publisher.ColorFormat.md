@@ -27,12 +27,12 @@ Use one of the properties listed in the following table to return a  **ColorForm
 
 |**Use this property**|**With this object**|**To return a ColorFormat object that represents this**|
 |:-----|:-----|:-----|
-|**[BackColor](../missing-files/Publisher/fillformat-backcolor-property-publisher.md)**|**[FillFormat](../missing-files/Publisher/fillformat-object-publisher.md)**|Background fill color (used in a shaded or patterned fill)|
+|**[BackColor](Publisher.FillFormat.BackColor.md)**|**[FillFormat](Publisher.FillFormat.md)**|Background fill color (used in a shaded or patterned fill)|
 |**[ForeColor](Publisher.FillFormat.ForeColor.md)**|**FillFormat**|Foreground fill color (or the fill color for a solid fill)|
-|**[BackColor](../missing-files/Publisher/lineformat-backcolor-property-publisher.md)**|**[LineFormat](../missing-files/Publisher/lineformat-object-publisher.md)**|Background line color (used in a patterned line)|
+|**[BackColor](Publisher.LineFormat.BackColor.md)**|**[LineFormat](Publisher.LineFormat.md)**|Background line color (used in a patterned line)|
 |**[ForeColor](Publisher.LineFormat.ForeColor.md)**|**LineFormat**|Foreground line color (or the line color for a solid line)|
-|**[ForeColor](../missing-files/Publisher/shadowformat-forecolor-property-publisher.md)**|**[ShadowFormat](../missing-files/Publisher/shadowformat-object-publisher.md)**|Shadow color|
-|**[ExtrusionColor](../missing-files/Publisher/threedformat-extrusioncolor-property-publisher.md)**|**[ThreeDFormat](../missing-files/Publisher/threedformat-object-publisher.md)**|Color of the sides of an extruded object|
+|**[ForeColor](Publisher.ShadowFormat.ForeColor.md)**|**[ShadowFormat](Publisher.ShadowFormat.md)**|Shadow color|
+|**[ExtrusionColor](Publisher.ThreeDFormat.ExtrusionColor.md)**|**[ThreeDFormat](Publisher.ThreeDFormat.md)**|Color of the sides of an extruded object|
 
 ## Example
 
@@ -70,5 +70,5 @@ End Sub
 |[SchemeColor](Publisher.ColorFormat.SchemeColor.md)|
 |[TintAndShade](Publisher.ColorFormat.TintAndShade.md)|
 |[Transparency](Publisher.ColorFormat.Transparency.md)|
-|[Type](../missing-files/Publisher/colorformat-type-property-publisher.md)|
+|[Type](Publisher.ColorFormat.Type.md)|
 

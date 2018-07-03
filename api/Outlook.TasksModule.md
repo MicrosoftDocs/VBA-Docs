@@ -34,9 +34,9 @@ You can use the  **[Visible](Outlook.TasksModule.Visible.md)** property to deter
 |[Name](Outlook.TasksModule.Name.md)|
 |[NavigationGroups](Outlook.TasksModule.NavigationGroups.md)|
 |[NavigationModuleType](Outlook.TasksModule.NavigationModuleType.md)|
-|[Parent](../missing-files/Outlook/tasksmodule-parent-property-outlook.md)|
+|[Parent](Outlook.TasksModule.Parent.md)|
 |[Position](Outlook.TasksModule.Position.md)|
-|[Session](../missing-files/Outlook/tasksmodule-session-property-outlook.md)|
+|[Session](Outlook.TasksModule.Session.md)|
 |[Visible](Outlook.TasksModule.Visible.md)|
 
 ## See also

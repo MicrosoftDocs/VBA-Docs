@@ -23,11 +23,11 @@ Determines if the object is a unified group, by way of a call to [IsUnifiedGroup
 
 ### Return Value
 
-Returns the  **Outlook.Folder** object associated with the group using the **GetUnifiedGroup** and[ExchangeDistributionList.GetUnifiedGroupFromStore Method (Outlook)](../missing-files/Outlook/exchangedistributionlist-getunifiedgroupfromstore-method-outlook.md) methods.
+Returns the  **Outlook.Folder** object associated with the group using the **GetUnifiedGroup** and[ExchangeDistributionList.GetUnifiedGroupFromStore Method (Outlook)](Outlook.exchangedistributionlist.getunifiedgroupfromstore.md) methods.
 
 
 ## See also
 
 
-[ExchangeDistributionList Object (Outlook)](../missing-files/Outlook/exchangedistributionlist-object-outlook.md)
+[ExchangeDistributionList Object (Outlook)](Outlook.ExchangeDistributionList.md)
 

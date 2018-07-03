@@ -35,7 +35,7 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 |[Enabled](Outlook.NewItemAlertRuleAction.Enabled.md)|
 |[Parent](Outlook.NewItemAlertRuleAction.Parent.md)|
 |[Session](Outlook.NewItemAlertRuleAction.Session.md)|
-|[Text](../missing-files/Outlook/newitemalertruleaction-text-property-outlook.md)|
+|[Text](Outlook.NewItemAlertRuleAction.Text.md)|
 
 ## See also
 

@@ -33,7 +33,7 @@ Use the  **[Item](Project.CalendarDrivers.Item.md)** property to get a single re
 |[Count](Project.CalendarDrivers.Count.md)|
 |[Item](Project.CalendarDrivers.Item.md)|
 |[Parent](Project.CalendarDrivers.Parent.md)|
-|[TotalDetectedCount](../missing-files/Project/calendardrivers-totaldetectedcount-property-project.md)|
+|[TotalDetectedCount](Project.CalendarDrivers.TotalDetectedCount.md)|
 
 ## See also
 

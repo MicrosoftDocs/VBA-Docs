@@ -64,4 +64,4 @@ End Sub
 
 
 [CheckoutProject Method](Project.project.checkoutproject.md)
-[Application.IsCheckedOut Property](../missing-files/Project/application-ischeckedout-property-project.md)
+[Application.IsCheckedOut Property](Project.application.ischeckedout.md)

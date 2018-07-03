@@ -116,8 +116,8 @@ End Sub
 |[Application](Outlook.ViewFields.Application.md)|
 |[Class](Outlook.ViewFields.Class.md)|
 |[Count](Outlook.ViewFields.Count.md)|
-|[Parent](../missing-files/Outlook/viewfields-parent-property-outlook.md)|
-|[Session](../missing-files/Outlook/viewfields-session-property-outlook.md)|
+|[Parent](Outlook.ViewFields.Parent.md)|
+|[Session](Outlook.ViewFields.Session.md)|
 
 ## See also
 

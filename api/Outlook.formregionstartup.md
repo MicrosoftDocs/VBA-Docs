@@ -40,7 +40,7 @@ For more information on writing add-ins for form regions, see [Extending a Form 
 |:-----|
 |[BeforeFormRegionShow](Outlook.FormRegionStartup.BeforeFormRegionShow.md)|
 |[GetFormRegionIcon](Outlook.FormRegionStartup.GetFormRegionIcon.md)|
-|[GetFormRegionManifest](../missing-files/Outlook/formregionstartup-getformregionmanifest-method-outlook.md)|
+|[GetFormRegionManifest](Outlook.FormRegionStartup.GetFormRegionManifest.md)|
 |[GetFormRegionStorage](Outlook.FormRegionStartup.GetFormRegionStorage.md)|
 
 ## See also

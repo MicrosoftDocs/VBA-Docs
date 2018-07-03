@@ -43,7 +43,7 @@ Set myOLBarStorage = myPanes.Item("OutlookBar").Contents
 |[Class](Outlook.OutlookBarStorage.Class.md)|
 |[Groups](Outlook.OutlookBarStorage.Groups.md)|
 |[Parent](Outlook.OutlookBarStorage.Parent.md)|
-|[Session](../missing-files/Outlook/outlookbarstorage-session-property-outlook.md)|
+|[Session](Outlook.OutlookBarStorage.Session.md)|
 
 ## See also
 

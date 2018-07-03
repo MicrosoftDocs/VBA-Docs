@@ -57,5 +57,5 @@ The **HitHighlight** method applies primarily to search highlighting in Office O
 
 ## See also
 
-- [Find Object](../missing-files/Word/find-object-word.md)
+- [Find Object](Word.Find.md)
 
