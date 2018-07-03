@@ -26757,7 +26757,6 @@
 ###### [ItemFromID](Visio.ValidationIssues.ItemFromID.md)
 ###### [ObjectType](Visio.ValidationIssues.ObjectType.md)
 ###### [Stat](Visio.validationissues.stat.md)
-###### [Stat](Visio.validationissues.stat.md)
 #### [ValidationRule Object](Visio.ValidationRule.md)
 ##### Methods
 ###### [AddIssue](Visio.ValidationRule.AddIssue.md)
@@ -29855,18 +29854,6 @@
 ###### [Count](Word.HangulAndAlphabetExceptions.Count.md)
 ###### [Creator](Word.HangulAndAlphabetExceptions.Creator.md)
 ###### [Parent](Word.HangulAndAlphabetExceptions.Parent.md)
-#### [Dictionaries Object](Word.dictionaries.md)
-##### Methods
-###### [Add](Word.Dictionaries.Add.md)
-###### [ClearAll](Word.Dictionaries.ClearAll.md)
-###### [Item](Word.Dictionaries.Item.md)
-##### Properties
-###### [ActiveCustomDictionary](Word.Dictionaries.ActiveCustomDictionary.md)
-###### [Application](Word.Dictionaries.Application.md)
-###### [Count](Word.Dictionaries.Count.md)
-###### [Creator](Word.Dictionaries.Creator.md)
-###### [Maximum](Word.Dictionaries.Maximum.md)
-###### [Parent](Word.Dictionaries.Parent.md)
 #### [HeaderFooter Object](Word.HeaderFooter.md)
 ##### Properties
 ###### [Application](Word.HeaderFooter.Application.md)
