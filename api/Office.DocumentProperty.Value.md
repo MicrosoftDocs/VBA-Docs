@@ -35,5 +35,5 @@ If the container application doesn't define a value for one of the built-in docu
 
 
 
-[DocumentProperty Object Members](documentproperty-members-office.md)
+[DocumentProperty Object Members](overview/documentproperty-members-office.md)
 

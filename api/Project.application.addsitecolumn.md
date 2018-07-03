@@ -155,4 +155,4 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 
 
 
-[LinkToTaskList Method](application-linktotasklist-method-project.md)
+[LinkToTaskList Method](Project.application.linktotasklist.md)

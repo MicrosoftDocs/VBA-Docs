@@ -58,10 +58,10 @@ Use the  **[Export](Excel.XmlMap.Export.md)** method to export data from cells m
 |[PreserveNumberFormatting](Excel.XmlMap.PreserveNumberFormatting.md)|
 |[RootElementName](Excel.XmlMap.RootElementName.md)|
 |[RootElementNamespace](Excel.XmlMap.RootElementNamespace.md)|
-|[SaveDataSourceDefinition](xmlmap-savedatasourcedefinition-property-excel.md)|
-|[Schemas](xmlmap-schemas-property-excel.md)|
-|[ShowImportExportValidationErrors](xmlmap-showimportexportvalidationerrors-property-excel.md)|
-|[WorkbookConnection](xmlmap-workbookconnection-property-excel.md)|
+|[SaveDataSourceDefinition](Excel.XmlMap.SaveDataSourceDefinition.md)|
+|[Schemas](Excel.XmlMap.Schemas.md)|
+|[ShowImportExportValidationErrors](Excel.XmlMap.ShowImportExportValidationErrors.md)|
+|[WorkbookConnection](Excel.XmlMap.WorkbookConnection.md)|
 
 ## See also
 

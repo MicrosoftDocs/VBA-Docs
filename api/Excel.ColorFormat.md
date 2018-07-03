@@ -62,8 +62,8 @@ End With
 |[Parent](Excel.ColorFormat.Parent.md)|
 |[RGB](Excel.ColorFormat.RGB.md)|
 |[SchemeColor](Excel.ColorFormat.SchemeColor.md)|
-|[TintAndShade](colorformat-tintandshade-property-excel.md)|
-|[Type](colorformat-type-property-excel.md)|
+|[TintAndShade](Excel.ColorFormat.TintAndShade.md)|
+|[Type](Excel.ColorFormat.Type.md)|
 
 ## See also
 

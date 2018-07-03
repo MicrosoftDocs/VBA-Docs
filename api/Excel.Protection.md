@@ -79,7 +79,7 @@ End Sub
 |:-----|
 |[AllowDeletingColumns](Excel.Protection.AllowDeletingColumns.md)|
 |[AllowDeletingRows](Excel.Protection.AllowDeletingRows.md)|
-|[AllowEditRanges](protection-alloweditranges-property-excel.md)|
+|[AllowEditRanges](Excel.Protection.AllowEditRanges.md)|
 |[AllowFiltering](Excel.Protection.AllowFiltering.md)|
 |[AllowFormattingCells](Excel.Protection.AllowFormattingCells.md)|
 |[AllowFormattingColumns](Excel.Protection.AllowFormattingColumns.md)|

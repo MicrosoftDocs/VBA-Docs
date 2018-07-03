@@ -33,7 +33,7 @@ Use the  **[Item](Project.PredecessorDrivers.Item.md)** property to get a single
 |[Count](Project.PredecessorDrivers.Count.md)|
 |[Item](Project.PredecessorDrivers.Item.md)|
 |[Parent](Project.PredecessorDrivers.Parent.md)|
-|[TotalDetectedCount](predecessordrivers-totaldetectedcount-property-project.md)|
+|[TotalDetectedCount](Project.PredecessorDrivers.TotalDetectedCount.md)|
 
 ## See also
 

@@ -137,7 +137,7 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 |[ShowReportFilterFieldButtons](Word.Chart.ShowReportFilterFieldButtons.md)|
 |[ShowValueFieldButtons](Word.Chart.ShowValueFieldButtons.md)|
 |[SideWall](Word.Chart.SideWall.md)|
-|[Walls](chart-walls-property-word.md)|
+|[Walls](Word.Chart.Walls.md)|
 
 ## See also
 

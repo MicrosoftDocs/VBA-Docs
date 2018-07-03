@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableObject.ListObject Property (Excel)
 
-Returns a [ListObject Object (Excel)](listobject-object-excel.md) object for the[TableObject Object (Excel)](tableobject-object-excel.md) object. Read-only
+Returns a [ListObject Object (Excel)](Excel.ListObject.md) object for the[TableObject Object (Excel)](Excel.tableobject.md) object. Read-only
 
 
 ## Syntax

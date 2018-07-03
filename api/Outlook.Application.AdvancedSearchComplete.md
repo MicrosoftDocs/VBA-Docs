@@ -93,5 +93,5 @@ End Sub
 ## See also
 
 
-[Application Object](application-object-outlook.md)
+[Application Object](Outlook.Application.md)
 

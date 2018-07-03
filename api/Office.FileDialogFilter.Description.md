@@ -63,5 +63,5 @@ End Sub
 
 
 
-[FileDialogFilter Object Members](filedialogfilter-members-office.md)
+[FileDialogFilter Object Members](overview/filedialogfilter-members-office.md)
 

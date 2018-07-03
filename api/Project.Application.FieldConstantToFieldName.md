@@ -45,7 +45,7 @@ You can access project custom fields through the  **ProjectSummaryTask** propert
 
 ## Example
 
-The following example shows the difference between the  **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method and the **FieldConstantToFieldName** method:
+The following example shows the difference between the  **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method and the **FieldConstantToFieldName** method:
 
 
 1. To use the example, use Project Web App to create an enterprise project text custom field named  **TestEntProjText**. 

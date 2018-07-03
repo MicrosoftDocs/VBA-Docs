@@ -92,6 +92,6 @@ End With
 |[EndConnected](Publisher.ConnectorFormat.EndConnected.md)|
 |[EndConnectedShape](Publisher.ConnectorFormat.EndConnectedShape.md)|
 |[EndConnectionSite](Publisher.ConnectorFormat.EndConnectionSite.md)|
-|[Parent](connectorformat-parent-property-publisher.md)|
-|[Type](connectorformat-type-property-publisher.md)|
+|[Parent](Publisher.ConnectorFormat.Parent.md)|
+|[Type](Publisher.ConnectorFormat.Type.md)|
 

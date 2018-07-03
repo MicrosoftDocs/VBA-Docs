@@ -52,5 +52,5 @@ Set cmdBar = CommandBars("Standard")
 
 
 
-[CommandBars Object Members](commandbars-members-office.md)
+[CommandBars Object Members](overview/commandbars-members-office.md)
 

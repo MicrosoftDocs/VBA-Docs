@@ -63,7 +63,7 @@ Worksheets(1).Visible = False
 |[Item](Excel.Worksheets.Item.md)|
 |[Parent](Excel.Worksheets.Parent.md)|
 |[Visible](Excel.Worksheets.Visible.md)|
-|[VPageBreaks](worksheets-vpagebreaks-property-excel.md)|
+|[VPageBreaks](Excel.Worksheets.VPageBreaks.md)|
 
 ## See also
 

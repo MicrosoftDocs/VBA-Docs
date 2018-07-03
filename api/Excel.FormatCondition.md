@@ -84,11 +84,11 @@ End With
 |[Parent](Excel.FormatCondition.Parent.md)|
 |[Priority](Excel.FormatCondition.Priority.md)|
 |[PTCondition](Excel.FormatCondition.PTCondition.md)|
-|[ScopeType](formatcondition-scopetype-property-excel.md)|
-|[StopIfTrue](formatcondition-stopiftrue-property-excel.md)|
-|[Text](formatcondition-text-property-excel.md)|
-|[TextOperator](formatcondition-textoperator-property-excel.md)|
-|[Type](formatcondition-type-property-excel.md)|
+|[ScopeType](Excel.FormatCondition.ScopeType.md)|
+|[StopIfTrue](Excel.FormatCondition.StopIfTrue.md)|
+|[Text](Excel.FormatCondition.Text.md)|
+|[TextOperator](Excel.FormatCondition.TextOperator.md)|
+|[Type](Excel.FormatCondition.Type.md)|
 
 ## See also
 

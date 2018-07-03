@@ -59,5 +59,5 @@ End If
 
 
 
-[CommandBar Object Members](commandbar-members-office.md)
+[CommandBar Object Members](overview/commandbar-members-office.md)
 

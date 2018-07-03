@@ -40,9 +40,7 @@ End With
 ## See also
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
-
-
+[Object Model Reference](overview/reference-object-library-reference-for-office.md)
 
 [TextRange2 Object Members](./overview/textrange2-members-office.md)
 

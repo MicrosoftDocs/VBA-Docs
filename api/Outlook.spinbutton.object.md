@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 -  [SpinButton Object (Outlook Forms Script)](Outlook.spinbutton.md)
     
--  [SpinButton Members (Outlook Forms Script)](spinbutton-members-outlook-forms-script.md)
+-  [SpinButton Members (Outlook Forms Script)](../missing-files/Outlook/spinbutton-members-outlook-forms-script.md)
     
--  [SpinButton Properties (Outlook Forms Script)](spinbutton-properties-outlook-forms-script.md)
+-  [SpinButton Properties (Outlook Forms Script)](../missing-files/Outlook/spinbutton-properties-outlook-forms-script.md)
     
 

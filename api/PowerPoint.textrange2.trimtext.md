@@ -26,6 +26,6 @@ TextRange2
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](textrange2-object-powerpoint.md)
+[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
 

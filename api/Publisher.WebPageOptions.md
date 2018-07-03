@@ -64,5 +64,5 @@ End With
 |[IncludePageOnNewWebNavigationBars](Publisher.WebPageOptions.IncludePageOnNewWebNavigationBars.md)|
 |[Keywords](Publisher.WebPageOptions.Keywords.md)|
 |[Parent](Publisher.WebPageOptions.Parent.md)|
-|[PublishFileName](webpageoptions-publishfilename-property-publisher.md)|
+|[PublishFileName](Publisher.WebPageOptions.PublishFileName.md)|
 

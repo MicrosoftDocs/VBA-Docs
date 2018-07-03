@@ -21,5 +21,5 @@ The AuthorResGuid property for the EngagementComment object. Introduced in Offic
 ## See also
 
 
-[EngagementComment Object (Project)](engagementcomment-object-project.md)
+[EngagementComment Object (Project)](Project.engagementcomment.md)
 

@@ -39,5 +39,5 @@ A [Shape](PowerPoint.Shape.md) object that represents the newly-added ink shape.
 
 
 [Shape](PowerPoint.Shape.md)
-[Shapes Object](shapes-object-powerpoint.md)
+[Shapes Object](PowerPoint.Shapes.md)
 

@@ -55,7 +55,7 @@ Specifies the layout of boxes in the active Network Diagram view (PERT chart).
 
 Using the  **BoxLayout** method without specifying any arguments displays the **Box Layout** dialog box.
 
-To format the Network Diagram layout using hexadecimal values for  _ViewBackgroundColor_, see the **[BoxLayoutEx](application-boxlayoutex-method-project.md)** method.
+To format the Network Diagram layout using hexadecimal values for  _ViewBackgroundColor_, see the **[BoxLayoutEx](Project.Application.BoxLayoutEx.md)** method.
 
 
 ## Example

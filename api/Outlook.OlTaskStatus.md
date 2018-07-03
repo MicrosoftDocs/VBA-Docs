@@ -27,6 +27,6 @@ Indicates the task status.
 
 ## Remarks
 
-Used by the [TaskItem.Status Property (Outlook)](taskitem-status-property-outlook.md).
+Used by the [TaskItem.Status Property (Outlook)](Outlook.TaskItem.Status.md).
 
 

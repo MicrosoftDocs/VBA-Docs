@@ -89,7 +89,7 @@ Sheets(Array("Sheet4", "Sheet5")).Move before:=Sheets(1)
 |[Item](Excel.Sheets.Item.md)|
 |[Parent](Excel.Sheets.Parent.md)|
 |[Visible](Excel.Sheets.Visible.md)|
-|[VPageBreaks](sheets-vpagebreaks-property-excel.md)|
+|[VPageBreaks](Excel.Sheets.VPageBreaks.md)|
 
 ## See also
 

@@ -27,6 +27,6 @@ Indicates the status of the meeting.
 
 ## Remarks
 
-See [AppointmentItem.MeetingStatus Property (Outlook)](appointmentitem-meetingstatus-property-outlook.md).
+See [AppointmentItem.MeetingStatus Property (Outlook)](Outlook.AppointmentItem.MeetingStatus.md).
 
 

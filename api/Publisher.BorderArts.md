@@ -73,5 +73,5 @@ End Sub
 |:-----|
 |[Application](Publisher.BorderArts.Application.md)|
 |[Count](Publisher.BorderArts.Count.md)|
-|[Parent](borderarts-parent-property-publisher.md)|
+|[Parent](Publisher.BorderArts.Parent.md)|
 

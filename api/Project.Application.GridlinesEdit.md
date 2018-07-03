@@ -46,7 +46,7 @@ Edits gridlines.
 
 ## Remarks
 
-To edit gridlines where colors can be hexadecimal RGB values, use the  **[GridLinesEditEx](application-gridlineseditex-method-project.md)** method.
+To edit gridlines where colors can be hexadecimal RGB values, use the  **[GridLinesEditEx](Project.Application.GridlinesEditEx.md)** method.
 
 
 ## Example

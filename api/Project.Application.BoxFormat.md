@@ -54,7 +54,7 @@ Using the  **BoxFormat** method without specifying any arguments displays the **
 
 Use the  **BoxFormat** method to change the formatting of boxes from their default styles. To define the default styles, use the **BoxStylesEdit** or **BoxStylesEditEx** method.
 
-To format Network Diagram boxes using hexadecimal values for  _BorderColor_ and _BackgroundColor_, see the **[BoxFormatEx](application-boxformatex-method-project.md)** method.
+To format Network Diagram boxes using hexadecimal values for  _BorderColor_ and _BackgroundColor_, see the **[BoxFormatEx](Project.Application.BoxFormatEx.md)** method.
 
 
 ## Example

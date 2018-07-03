@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableColumns Object (Excel)
 
-Represent a [ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) collection of single columns inside a[ModelTable Object (Excel)](modeltable-object-excel.md) object.
+Represent a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) collection of single columns inside a[ModelTable Object (Excel)](Excel.modeltable.md) object.
 
 
 ## See also

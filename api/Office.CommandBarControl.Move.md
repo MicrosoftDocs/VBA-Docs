@@ -59,5 +59,5 @@ Next
 
 
 
-[CommandBarControl Object Members](commandbarcontrol-members-office.md)
+[CommandBarControl Object Members](overview/commandbarcontrol-members-office.md)
 

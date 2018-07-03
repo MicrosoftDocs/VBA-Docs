@@ -148,7 +148,7 @@ End Sub
 |[Color](Publisher.BorderArtFormat.Color.md)|
 |[Exists](Publisher.BorderArtFormat.Exists.md)|
 |[Name](Publisher.BorderArtFormat.Name.md)|
-|[Parent](borderartformat-parent-property-publisher.md)|
-|[StretchPictures](borderartformat-stretchpictures-property-publisher.md)|
-|[Weight](borderartformat-weight-property-publisher.md)|
+|[Parent](Publisher.BorderArtFormat.Parent.md)|
+|[StretchPictures](Publisher.BorderArtFormat.StretchPictures.md)|
+|[Weight](Publisher.BorderArtFormat.Weight.md)|
 

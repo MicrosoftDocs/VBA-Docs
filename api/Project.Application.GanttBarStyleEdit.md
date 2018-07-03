@@ -60,7 +60,7 @@ Changes or creates a Gantt bar style.
 
 To manually show the  **Bar Styles** dialog box, click the **Format** tab under the **Gantt Chart Tools** tab. In the **Bar Styles** group, click **Bar Styles** in the **Format** drop-down list. The **Bar Styles** dialog box can contain up to 200 style entries.
 
-To edit Gantt bar styles where colors can be hexadecimal RGB values, use the  **[GanttBarEditEx](application-ganttbareditex-method-project.md)** method.
+To edit Gantt bar styles where colors can be hexadecimal RGB values, use the  **[GanttBarEditEx](Project.Application.GanttBarEditEx.md)** method.
 
 
 ## Example

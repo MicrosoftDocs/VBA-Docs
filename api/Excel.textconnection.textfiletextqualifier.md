@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.TextFileTextQualifier Property (Excel)
 
-Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/Write [XlTextQualifier Enumeration (Excel)](xltextqualifier-enumeration-excel.md)
+Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/Write [XlTextQualifier Enumeration (Excel)](Excel.XlTextQualifier.md)
 
 
 ## Syntax

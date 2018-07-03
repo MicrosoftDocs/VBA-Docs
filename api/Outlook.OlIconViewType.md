@@ -25,6 +25,6 @@ Indicates the view mode when using an  **[IconView](Outlook.IconView.md)** objec
 
 ## Remarks
 
-For  **olIconViewLarge** and **olIconViewSmall**, the actual placement and orientation of icons displayed in the [IconView](Outlook.IconView.md) object is determined by the[OlIconViewPlacement](Outlook.OlIconViewPlacement.md) constant specified in the[IconPlacement](iconview-iconplacement-property-outlook.md) property of the **IconView** object. The **IconPlacement** property value is ignored when **olIconViewList** is selected.
+For  **olIconViewLarge** and **olIconViewSmall**, the actual placement and orientation of icons displayed in the [IconView](Outlook.IconView.md) object is determined by the[OlIconViewPlacement](Outlook.OlIconViewPlacement.md) constant specified in the[IconPlacement](Outlook.IconView.IconPlacement.md) property of the **IconView** object. The **IconPlacement** property value is ignored when **olIconViewList** is selected.
 
 

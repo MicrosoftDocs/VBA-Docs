@@ -73,7 +73,7 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 |[Application](Excel.SeriesCollection.Application.md)|
 |[Count](Excel.SeriesCollection.Count.md)|
 |[Creator](Excel.SeriesCollection.Creator.md)|
-|[Parent](seriescollection-parent-property-excel.md)|
+|[Parent](Excel.SeriesCollection.Parent.md)|
 
 ## See also
 

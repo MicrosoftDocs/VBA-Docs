@@ -41,5 +41,5 @@ Set objSession = Application.Session
 ## See also
 
 
-[PropertyAccessor Object](propertyaccessor-object-outlook.md)
+[PropertyAccessor Object](Outlook.PropertyAccessor.md)
 

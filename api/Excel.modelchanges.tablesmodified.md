@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelChanges.TablesModified Property (Excel)
 
-Returns a [ModelTableNames Object (Excel)](modeltablenames-object-excel.md) collection of table names as strings representing all tables which were refreshed or recalculated as part of a model operation. Read-only.
+Returns a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) collection of table names as strings representing all tables which were refreshed or recalculated as part of a model operation. Read-only.
 
 
 ## Syntax

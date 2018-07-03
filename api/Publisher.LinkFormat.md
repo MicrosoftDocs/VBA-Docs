@@ -63,6 +63,6 @@ End Sub
 |**Name**|
 |:-----|
 |[Application](Publisher.LinkFormat.Application.md)|
-|[Parent](linkformat-parent-property-publisher.md)|
+|[Parent](Publisher.LinkFormat.Parent.md)|
 |[SourceFullName](Publisher.LinkFormat.SourceFullName.md)|
 

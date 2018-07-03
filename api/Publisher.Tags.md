@@ -77,5 +77,5 @@ End Sub
 |:-----|
 |[Application](Publisher.Tags.Application.md)|
 |[Count](Publisher.Tags.Count.md)|
-|[Parent](tags-parent-property-publisher.md)|
+|[Parent](Publisher.Tags.Parent.md)|
 

@@ -26,6 +26,6 @@ Indicates the delegation state of a task.
 
 ## Remarks
 
-Used by the [TaskItem.DelegationState Property (Outlook)](taskitem-delegationstate-property-outlook.md).
+Used by the [TaskItem.DelegationState Property (Outlook)](Outlook.TaskItem.DelegationState.md).
 
 

@@ -123,8 +123,8 @@ End Sub
 |[Application](Outlook.OrderFields.Application.md)|
 |[Class](Outlook.OrderFields.Class.md)|
 |[Count](Outlook.OrderFields.Count.md)|
-|[Parent](orderfields-parent-property-outlook.md)|
-|[Session](orderfields-session-property-outlook.md)|
+|[Parent](Outlook.OrderFields.Parent.md)|
+|[Session](Outlook.OrderFields.Session.md)|
 
 ## See also
 

@@ -28,6 +28,6 @@ Specifies the recurrence pattern type.
 
 ## Remarks
 
-Used by the [RecurrencePattern.RecurrenceType Property (Outlook)](recurrencepattern-recurrencetype-property-outlook.md) of an[AppointmentItem Object (Outlook)](appointmentitem-object-outlook.md) to specify the frequency of occurrences of the appointment.
+Used by the [RecurrencePattern.RecurrenceType Property (Outlook)](Outlook.RecurrencePattern.RecurrenceType.md) of an[AppointmentItem Object (Outlook)](Outlook.AppointmentItem.md) to specify the frequency of occurrences of the appointment.
 
 

@@ -35,5 +35,5 @@ Deletes the  **CommandBarPopup** object from its collection.
 
 
 
-[CommandBarPopup Object Members](commandbarpopup-members-office.md)
+[CommandBarPopup Object Members](overview/commandbarpopup-members-office.md)
 

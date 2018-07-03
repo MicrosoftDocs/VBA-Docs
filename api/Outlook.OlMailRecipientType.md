@@ -26,6 +26,6 @@ Indicates the recipient type for the  **Item**.
 
 ## Remarks
 
-Used by the [Recipient.Type Property (Outlook)](recipient-type-property-outlook.md) of an **Item**.
+Used by the [Recipient.Type Property (Outlook)](Outlook.Recipient.Type.md) of an **Item**.
 
 

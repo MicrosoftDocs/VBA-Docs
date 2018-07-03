@@ -21,5 +21,5 @@ Gets the compliant for a task assignment in Project. Read-only Introduced in Off
 ## See also
 
 
-[Assignment Object (Project)](assignment-object-project.md)
+[Assignment Object (Project)](Project.Assignment.md)
 

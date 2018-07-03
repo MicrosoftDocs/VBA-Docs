@@ -23,7 +23,7 @@ Returns an object that represents a collection of all the PivotTable reports on 
 
 ## Returns
 
-[PivotTables Object (Excel)](pivottables-object-excel.md)
+[PivotTables Object (Excel)](Excel.PivotTables.md)
 
 
 ## Property value

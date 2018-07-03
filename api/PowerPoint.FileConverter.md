@@ -34,7 +34,7 @@ The index number represents the position of the file converter in the  **[FileCo
 MsgBox FileConverters(1).FormatName
 ```
 
-You cannot create a new file converter or add one to the  **[FileConverters](PowerPoint.FileConverters.md)** collection. **FileConverter** objects are added during installation of Microsoft Office or by installing supplemental file converters. Use either the **[CanSave](PowerPoint.FileConverter.CanSave.md)** or **[CanOpen](fileconverter-canopen-property-powerpoint.md)** property to determine whether a **FileConverter** object can be used to open or save document.
+You cannot create a new file converter or add one to the  **[FileConverters](PowerPoint.FileConverters.md)** collection. **FileConverter** objects are added during installation of Microsoft Office or by installing supplemental file converters. Use either the **[CanSave](PowerPoint.FileConverter.CanSave.md)** or **[CanOpen](PowerPoint.FileConverter.CanOpen.md)** property to determine whether a **FileConverter** object can be used to open or save document.
 
 File converters for saving documents are listed in the  **Save As** dialog box. File converters for opening documents appear in a dialog box if the **Confirm conversion at Open** check box is selected on the **General** tab in the **Options** dialog box.
 
@@ -42,5 +42,5 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 ## See also
 
 
-[PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](overview/object-model-powerpoint-vba-reference.md)
 

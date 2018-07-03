@@ -94,5 +94,5 @@ End Sub
 ## See also
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

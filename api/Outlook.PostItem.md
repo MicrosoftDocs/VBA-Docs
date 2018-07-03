@@ -154,7 +154,7 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 |[TaskSubject](Outlook.PostItem.TaskSubject.md)|
 |[ToDoTaskOrdinal](Outlook.PostItem.ToDoTaskOrdinal.md)|
 |[UnRead](Outlook.PostItem.UnRead.md)|
-|[UserProperties](postitem-userproperties-property-outlook.md)|
+|[UserProperties](Outlook.PostItem.UserProperties.md)|
 
 ## See also
 

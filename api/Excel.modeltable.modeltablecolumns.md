@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTable.ModelTableColumns Property (Excel)
 
-Collection of [ModelTableColumns Object (Excel)](modeltablecolumns-object-excel.md) that make up the ModelTable. Read-only
+Collection of [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) that make up the ModelTable. Read-only
 
 
 ## Syntax

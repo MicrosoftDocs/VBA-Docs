@@ -45,7 +45,7 @@ The  **[Selection](Outlook.Selection.md)** collection contains **ConversationHea
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the  **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** object, returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property, to display the senders of all messages that are selected in the active explorer.
+The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the  **[Count](Outlook.Selection.Count.md)** property and **[Item](Outlook.Selection.Item.md)** method of the **[Selection](Outlook.Selection.md)** object, returned by the **[Explorer.Selection](Outlook.Explorer.Selection.md)** property, to display the senders of all messages that are selected in the active explorer.
 
 
 ```vb

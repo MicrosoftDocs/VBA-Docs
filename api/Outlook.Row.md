@@ -123,10 +123,10 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](row-application-property-outlook.md)|
-|[Class](row-class-property-outlook.md)|
-|[Parent](row-parent-property-outlook.md)|
-|[Session](row-session-property-outlook.md)|
+|[Application](Outlook.Row.Application.md)|
+|[Class](Outlook.Row.Class.md)|
+|[Parent](Outlook.Row.Parent.md)|
+|[Session](Outlook.Row.Session.md)|
 
 ## See also
 

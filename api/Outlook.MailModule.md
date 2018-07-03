@@ -37,9 +37,9 @@ You can use the  **[Visible](Outlook.MailModule.Visible.md)** property to determ
 |[Name](Outlook.MailModule.Name.md)|
 |[NavigationGroups](Outlook.MailModule.NavigationGroups.md)|
 |[NavigationModuleType](Outlook.MailModule.NavigationModuleType.md)|
-|[Parent](mailmodule-parent-property-outlook.md)|
+|[Parent](Outlook.MailModule.Parent.md)|
 |[Position](Outlook.MailModule.Position.md)|
-|[Session](mailmodule-session-property-outlook.md)|
+|[Session](Outlook.MailModule.Session.md)|
 |[Visible](Outlook.MailModule.Visible.md)|
 
 ## See also

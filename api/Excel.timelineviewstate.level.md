@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TimelineViewState.Level Property (Excel)
 
-Get or set the displayed level. [XlTimelineLevel Enumeration (Excel)](xltimelinelevel-enumeration-excel.md) Read/Write
+Get or set the displayed level. [XlTimelineLevel Enumeration (Excel)](Excel.xltimelinelevel.md) Read/Write
 
 
 ## Syntax

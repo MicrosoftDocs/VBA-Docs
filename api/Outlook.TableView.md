@@ -72,22 +72,22 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 |[LockUserChanges](Outlook.TableView.LockUserChanges.md)|
 |[MaxLinesInMultiLineView](Outlook.TableView.MaxLinesInMultiLineView.md)|
 |[MultiLine](Outlook.TableView.Multiline.md)|
-|[MultiLineWidth](tableview-multilinewidth-property-outlook.md)|
-|[Name](tableview-name-property-outlook.md)|
-|[Parent](tableview-parent-property-outlook.md)|
+|[MultiLineWidth](Outlook.TableView.MultiLineWidth.md)|
+|[Name](Outlook.TableView.Name.md)|
+|[Parent](Outlook.TableView.Parent.md)|
 |[RowFont](Outlook.TableView.RowFont.md)|
-|[SaveOption](tableview-saveoption-property-outlook.md)|
-|[Session](tableview-session-property-outlook.md)|
-|[ShowConversationByDate](tableview-showconversationbydate-property-outlook.md)|
-|[ShowConversationSendersAboveSubject](tableview-showconversationsendersabovesubject-property-outlook.md)|
-|[ShowFullConversations](tableview-showfullconversations-property-outlook.md)|
-|[ShowItemsInGroups](tableview-showitemsingroups-property-outlook.md)|
-|[ShowNewItemRow](tableview-shownewitemrow-property-outlook.md)|
-|[ShowReadingPane](tableview-showreadingpane-property-outlook.md)|
+|[SaveOption](Outlook.TableView.SaveOption.md)|
+|[Session](Outlook.TableView.Session.md)|
+|[ShowConversationByDate](Outlook.TableView.ShowConversationByDate.md)|
+|[ShowConversationSendersAboveSubject](Outlook.TableView.ShowConversationSendersAboveSubject.md)|
+|[ShowFullConversations](Outlook.TableView.ShowFullConversations.md)|
+|[ShowItemsInGroups](Outlook.TableView.ShowItemsInGroups.md)|
+|[ShowNewItemRow](Outlook.TableView.ShowNewItemRow.md)|
+|[ShowReadingPane](Outlook.TableView.ShowReadingPane.md)|
 |[SortFields](Outlook.TableView.SortFields.md)|
-|[Standard](tableview-standard-property-outlook.md)|
+|[Standard](Outlook.TableView.Standard.md)|
 |[ViewFields](Outlook.TableView.ViewFields.md)|
-|[ViewType](tableview-viewtype-property-outlook.md)|
+|[ViewType](Outlook.TableView.ViewType.md)|
 |[XML](Outlook.TableView.XML.md)|
 
 ## See also

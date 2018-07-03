@@ -44,10 +44,10 @@ Note that if you delete a  **Folder** using **[Folder.Delete](Outlook.Folder.Del
 |**Name**|
 |:-----|
 |[Application](Outlook.NavigationFolders.Application.md)|
-|[Class](navigationfolders-class-property-outlook.md)|
-|[Count](navigationfolders-count-property-outlook.md)|
-|[Parent](navigationfolders-parent-property-outlook.md)|
-|[Session](navigationfolders-session-property-outlook.md)|
+|[Class](Outlook.NavigationFolders.Class.md)|
+|[Count](Outlook.NavigationFolders.Count.md)|
+|[Parent](Outlook.NavigationFolders.Parent.md)|
+|[Session](Outlook.NavigationFolders.Session.md)|
 
 ## See also
 

@@ -47,5 +47,5 @@ If  _Provider_ is not specified, the method attempts to use the appropriate shar
 ## See also
 
 
-[NameSpace Object](namespace-object-outlook.md)
+[NameSpace Object](Outlook.NameSpace.md)
 

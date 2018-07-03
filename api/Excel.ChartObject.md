@@ -85,7 +85,7 @@ Worksheets("sheet1").ChartObjects("chart 1").RoundedCorners = True
 |[TopLeftCell](Excel.ChartObject.TopLeftCell.md)|
 |[Visible](Excel.ChartObject.Visible.md)|
 |[Width](Excel.ChartObject.Width.md)|
-|[ZOrder](chartobject-zorder-property-excel.md)|
+|[ZOrder](Excel.ChartObject.ZOrder.md)|
 
 ## See also
 

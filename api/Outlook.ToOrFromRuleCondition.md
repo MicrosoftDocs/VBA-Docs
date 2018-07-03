@@ -33,9 +33,9 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 |[Class](Outlook.ToOrFromRuleCondition.Class.md)|
 |[ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)|
 |[Enabled](Outlook.ToOrFromRuleCondition.Enabled.md)|
-|[Parent](toorfromrulecondition-parent-property-outlook.md)|
+|[Parent](Outlook.ToOrFromRuleCondition.Parent.md)|
 |[Recipients](Outlook.ToOrFromRuleCondition.Recipients.md)|
-|[Session](toorfromrulecondition-session-property-outlook.md)|
+|[Session](Outlook.ToOrFromRuleCondition.Session.md)|
 
 ## See also
 

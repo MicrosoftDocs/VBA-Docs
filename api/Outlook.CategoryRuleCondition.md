@@ -35,7 +35,7 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 |[ConditionType](Outlook.CategoryRuleCondition.ConditionType.md)|
 |[Enabled](Outlook.CategoryRuleCondition.Enabled.md)|
 |[Parent](Outlook.CategoryRuleCondition.Parent.md)|
-|[Session](categoryrulecondition-session-property-outlook.md)|
+|[Session](Outlook.CategoryRuleCondition.Session.md)|
 
 ## See also
 

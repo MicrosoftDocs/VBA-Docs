@@ -31,5 +31,5 @@ Represents a Document Inspector module in a  **[DocumentInspectors](../Office.Do
 |[Creator](../Office.DocumentInspector.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **DocumentInspector** object was created. Read-only.|
 |[Description](../Office.DocumentInspector.Description.md)|Gets the description of the  **DocumentInspector** object. Read-only.|
 |[Name](../Office.DocumentInspector.Name.md)|Gets the name of the module represented by a  **DocumentInspector** object. Read-only.|
-|[Parent](documentinspector-parent-property-office.md)|Gets an object that represents the parent of the  **DocumentInspector** object. Read-only.|
+|[Parent](../Office.DocumentInspector.Parent.md)|Gets an object that represents the parent of the  **DocumentInspector** object. Read-only.|
 

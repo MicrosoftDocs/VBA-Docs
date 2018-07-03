@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelColumnNames Object (Excel)
 
-A collection of [ModelColumnName Object (Excel)](modelcolumnname-object-excel.md) objects representing columns of tables in the data model.
+A collection of [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) objects representing columns of tables in the data model.
 
 
 ## See also

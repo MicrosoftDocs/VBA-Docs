@@ -63,5 +63,5 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 |[InUse](Publisher.Plate.InUse.md)|
 |[Luminance](Publisher.Plate.Luminance.md)|
 |[Name](Publisher.Plate.Name.md)|
-|[Parent](plate-parent-property-publisher.md)|
+|[Parent](Publisher.Plate.Parent.md)|
 

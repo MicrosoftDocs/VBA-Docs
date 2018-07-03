@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TimelineState.FilterType Property (Excel)
 
-Returns the type of the date filter. [XlPivotFilterType Enumeration (Excel)](xlpivotfiltertype-enumeration-excel.md) Read-only
+Returns the type of the date filter. [XlPivotFilterType Enumeration (Excel)](Excel.XlPivotFilterType.md) Read-only
 
 
 ## Syntax

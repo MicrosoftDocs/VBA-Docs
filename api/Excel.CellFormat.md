@@ -81,9 +81,9 @@ End Sub
 |[NumberFormatLocal](Excel.CellFormat.NumberFormatLocal.md)|
 |[Orientation](Excel.CellFormat.Orientation.md)|
 |[Parent](Excel.CellFormat.Parent.md)|
-|[ShrinkToFit](cellformat-shrinktofit-property-excel.md)|
-|[VerticalAlignment](cellformat-verticalalignment-property-excel.md)|
-|[WrapText](cellformat-wraptext-property-excel.md)|
+|[ShrinkToFit](Excel.CellFormat.ShrinkToFit.md)|
+|[VerticalAlignment](Excel.CellFormat.VerticalAlignment.md)|
+|[WrapText](Excel.CellFormat.WrapText.md)|
 
 ## See also
 

@@ -34,5 +34,5 @@ End With
 ## See also
 
 
-[PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](overview/object-model-powerpoint-vba-reference.md)
 

@@ -78,7 +78,7 @@ End With
 |[ShowError](Excel.Validation.ShowError.md)|
 |[ShowInput](Excel.Validation.ShowInput.md)|
 |[Type](Excel.Validation.Type.md)|
-|[Value](validation-value-property-excel.md)|
+|[Value](Excel.Validation.Value.md)|
 
 ## See also
 

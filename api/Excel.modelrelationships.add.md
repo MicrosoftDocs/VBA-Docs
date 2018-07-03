@@ -18,7 +18,7 @@ Adds a new relationship to the model.
 
  _expression_. `Add`_(ForeignKeyColumn,_ _PrimaryKeyColumn)_
 
- _expression_ A variable that represents a[ModelRelationships Object (Excel)](modelrelationships-object-excel.md) object (Excel).
+ _expression_ A variable that represents a[ModelRelationships Object (Excel)](Excel.modelrelationships.md) object (Excel).
 
 
 ### Parameters
@@ -27,8 +27,8 @@ Adds a new relationship to the model.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ForeignKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) object (Excel) representing the foreign key column in the table on the many side of the one-to-many relationship.|
-| _PrimaryKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.|
+| _ForeignKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the foreign key column in the table on the many side of the one-to-many relationship.|
+| _PrimaryKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.|
 
 ### Return value
 
@@ -39,5 +39,5 @@ Adds a new relationship to the model.
 
 
 
-[ModelRelationships Object](modelrelationships-object-excel.md)
+[ModelRelationships Object](Excel.modelrelationships.md)
 

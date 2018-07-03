@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [TextBox Object (Outlook Forms Script)](Outlook.textbox.md)
     
--  [TextBox Members (Outlook Forms Script)](textbox-members-outlook-forms-script.md)
+-  [TextBox Members (Outlook Forms Script)](../missing-files/Outlook/textbox-members-outlook-forms-script.md)
     
--  [TextBox Properties (Outlook Forms Script)](textbox-properties-outlook-forms-script.md)
+-  [TextBox Properties (Outlook Forms Script)](../missing-files/Outlook/textbox-properties-outlook-forms-script.md)
     
--  [TextBox Methods (Outlook Forms Script)](textbox-methods-outlook-forms-script.md)
+-  [TextBox Methods (Outlook Forms Script)](../missing-files/Outlook/textbox-methods-outlook-forms-script.md)
     
 

@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # FullSeriesCollection.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of[Series Object (Excel)](series-object-excel.md) objects in the[FullSeriesCollection Object (Excel)](fullseriescollection-object-excel.md) object. Read-only.
+Returns a  **Long** value that represents the number of[Series Object (Excel)](Excel.Series.md) objects in the[FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Count`
 
- _expression_ A variable that represents a[FullSeriesCollection Object (Excel)](fullseriescollection-object-excel.md)object.
+ _expression_ A variable that represents a[FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md)object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns a  **Long** value that represents the number of[Series Object (Excel)](s
 
 
 
-[FullSeriesCollection Object](fullseriescollection-object-excel.md)
+[FullSeriesCollection Object](Excel.fullseriescollection.md)
 

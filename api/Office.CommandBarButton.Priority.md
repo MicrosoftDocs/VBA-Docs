@@ -37,5 +37,5 @@ The  **Priority** property is not used by command bar controls that are menu ite
 
 
 
-[CommandBarButton Object Members](commandbarbutton-members-office.md)
+[CommandBarButton Object Members](overview/commandbarbutton-members-office.md)
 

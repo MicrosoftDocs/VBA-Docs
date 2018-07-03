@@ -27,7 +27,7 @@ You can use the  **ColumnCount** property to specify the number of columns displ
 
 The  **ColumnCount** property holds an integer between 1 and the maximum number of fields in the table, query, or SQL statement, or the maximum number of values in the value list, specified in the **RowSource** property of the control.
 
-For [table fields](table-field.md) , you can set this property on the **Lookup** tab in the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box or List Box.
+For [table fields](overview/table-field.md) , you can set this property on the **Lookup** tab in the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box or List Box.
 
 For example, if you set the  **ColumnCount** property for a list box on an Employees form to 3, one column can list last names, another can list first names, and the third can list employee ID numbers.
 

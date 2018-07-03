@@ -78,5 +78,5 @@ End Sub
 
 
 
-[FileDialog Object Members](filedialog-members-office.md)
+[FileDialog Object Members](overview/filedialog-members-office.md)
 

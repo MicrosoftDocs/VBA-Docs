@@ -21,6 +21,6 @@ Removes all period (.) punctuation from the text in the  **TextRange2** object.
 ## See also
 
 
-[TextRange2 Object (PowerPoint)](textrange2-object-powerpoint.md)
+[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
 

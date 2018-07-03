@@ -105,10 +105,10 @@ End Sub
 |[Parent](Outlook.BusinessCardView.Parent.md)|
 |[SaveOption](Outlook.BusinessCardView.SaveOption.md)|
 |[Session](Outlook.BusinessCardView.Session.md)|
-|[SortFields](businesscardview-sortfields-property-outlook.md)|
-|[Standard](businesscardview-standard-property-outlook.md)|
-|[ViewType](businesscardview-viewtype-property-outlook.md)|
-|[XML](businesscardview-xml-property-outlook.md)|
+|[SortFields](Outlook.BusinessCardView.SortFields.md)|
+|[Standard](Outlook.BusinessCardView.Standard.md)|
+|[ViewType](Outlook.BusinessCardView.ViewType.md)|
+|[XML](Outlook.BusinessCardView.XML.md)|
 
 ## See also
 

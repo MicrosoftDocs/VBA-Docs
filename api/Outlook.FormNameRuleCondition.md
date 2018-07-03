@@ -35,7 +35,7 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 |[Enabled](Outlook.FormNameRuleCondition.Enabled.md)|
 |[FormName](Outlook.FormNameRuleCondition.FormName.md)|
 |[Parent](Outlook.FormNameRuleCondition.Parent.md)|
-|[Session](formnamerulecondition-session-property-outlook.md)|
+|[Session](Outlook.FormNameRuleCondition.Session.md)|
 
 ## See also
 

@@ -111,8 +111,8 @@ Next aCell
 |[PreferredWidth](Word.Cells.PreferredWidth.md)|
 |[PreferredWidthType](Word.Cells.PreferredWidthType.md)|
 |[Shading](Word.Cells.Shading.md)|
-|[VerticalAlignment](cells-verticalalignment-property-word.md)|
-|[Width](cells-width-property-word.md)|
+|[VerticalAlignment](Word.Cells.VerticalAlignment.md)|
+|[Width](Word.Cells.Width.md)|
 
 ## See also
 

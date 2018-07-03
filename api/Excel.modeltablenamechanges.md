@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableNameChanges Object (Excel)
 
-A collection of [ModelTableNameChange Object (Excel)](modeltablenamechange-object-excel.md) objects representing table names before and after a table name change in the Excel data model.
+A collection of [ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) objects representing table names before and after a table name change in the Excel data model.
 
 
 ## See also

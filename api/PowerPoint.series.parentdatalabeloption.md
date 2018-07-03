@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Series.ParentDataLabelOption Property (PowerPoint)
 
-Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XlParentDataLabelOptions Enumeration (PowerPoint)](xlparentdatalabeloptions-enumeration-powerpoint.md).
+Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XlParentDataLabelOptions Enumeration (PowerPoint)](PowerPoint.xlparentdatalabeloptions.md).
 
 
 ## Syntax

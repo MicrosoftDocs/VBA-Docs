@@ -95,11 +95,11 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](userdefinedproperties-application-property-outlook.md)|
-|[Class](userdefinedproperties-class-property-outlook.md)|
-|[Count](userdefinedproperties-count-property-outlook.md)|
-|[Parent](userdefinedproperties-parent-property-outlook.md)|
-|[Session](userdefinedproperties-session-property-outlook.md)|
+|[Application](Outlook.UserDefinedProperties.Application.md)|
+|[Class](Outlook.UserDefinedProperties.Class.md)|
+|[Count](Outlook.UserDefinedProperties.Count.md)|
+|[Parent](Outlook.UserDefinedProperties.Parent.md)|
+|[Session](Outlook.UserDefinedProperties.Session.md)|
 
 ## See also
 

@@ -64,5 +64,5 @@ End Sub
 ## See also
 
 
-[Items Object](items-object-outlook.md)
+[Items Object](Outlook.Items.md)
 

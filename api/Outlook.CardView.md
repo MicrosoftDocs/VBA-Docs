@@ -57,19 +57,19 @@ You can change built-in  **CardView** objects, but you cannot delete them. Use t
 |[Class](Outlook.CardView.Class.md)|
 |[Filter](Outlook.CardView.Filter.md)|
 |[HeadingsFont](Outlook.CardView.HeadingsFont.md)|
-|[Language](cardview-language-property-outlook.md)|
+|[Language](Outlook.CardView.Language.md)|
 |[LockUserChanges](Outlook.CardView.LockUserChanges.md)|
 |[MultiLineFieldHeight](Outlook.CardView.MultiLineFieldHeight.md)|
-|[Name](cardview-name-property-outlook.md)|
-|[Parent](cardview-parent-property-outlook.md)|
-|[SaveOption](cardview-saveoption-property-outlook.md)|
-|[Session](cardview-session-property-outlook.md)|
+|[Name](Outlook.CardView.Name.md)|
+|[Parent](Outlook.CardView.Parent.md)|
+|[SaveOption](Outlook.CardView.SaveOption.md)|
+|[Session](Outlook.CardView.Session.md)|
 |[ShowEmptyFields](Outlook.CardView.ShowEmptyFields.md)|
 |[SortFields](Outlook.CardView.SortFields.md)|
 |[Standard](Outlook.CardView.Standard.md)|
 |[ViewFields](Outlook.CardView.ViewFields.md)|
-|[ViewType](cardview-viewtype-property-outlook.md)|
-|[Width](cardview-width-property-outlook.md)|
+|[ViewType](Outlook.CardView.ViewType.md)|
+|[Width](Outlook.CardView.Width.md)|
 |[XML](Outlook.CardView.XML.md)|
 
 ## See also

@@ -66,6 +66,6 @@ End Sub
 |[Application](Publisher.OLEFormat.Application.md)|
 |[Object](Publisher.OLEFormat.Object.md)|
 |[ObjectVerbs](Publisher.OLEFormat.ObjectVerbs.md)|
-|[Parent](oleformat-parent-property-publisher.md)|
-|[ProgId](oleformat-progid-property-publisher.md)|
+|[Parent](Publisher.OLEFormat.Parent.md)|
+|[ProgId](Publisher.OLEFormat.ProgId.md)|
 

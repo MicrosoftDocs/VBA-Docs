@@ -26,9 +26,9 @@ Returns the start of the filtering date range.  **Variant** Read-only
 This property will return an error for either of the following conditions:
 
 
-- [TimelineState.SingleRangeFilterState Property (Excel)](timelinestate-singlerangefilterstate-property-excel.md) == **False**
+- [TimelineState.SingleRangeFilterState Property (Excel)](Excel.timelinestate.singlerangefilterstate.md) == **False**
     
-- [SlicerCache.FilterCleared Property (Excel)](slicercache-filtercleared-property-excel.md) == **True**
+- [SlicerCache.FilterCleared Property (Excel)](Excel.slicercache.filtercleared.md) == **True**
     
 
 ## Property value

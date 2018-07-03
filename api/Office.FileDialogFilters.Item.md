@@ -30,5 +30,5 @@ Gets a  **FileDialogFilter** object that is a member of the specified **FileDial
 
 
 
-[FileDialogFilters Object Members](filedialogfilters-members-office.md)
+[FileDialogFilters Object Members](overview/filedialogfilters-members-office.md)
 

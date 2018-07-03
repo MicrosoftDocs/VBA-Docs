@@ -26,6 +26,6 @@ Indicates the response to a task request.
 
 ## Remarks
 
-Used by the [TaskItem.ResponseState Property (Outlook)](taskitem-responsestate-property-outlook.md) and as a parameter to the[TaskItem.Respond Method (Outlook)](taskitem-respond-method-outlook.md).
+Used by the [TaskItem.ResponseState Property (Outlook)](Outlook.TaskItem.ResponseState.md) and as a parameter to the[TaskItem.Respond Method (Outlook)](Outlook.TaskItem.Respond.md).
 
 

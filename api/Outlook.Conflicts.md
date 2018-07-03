@@ -77,11 +77,11 @@ End Sub
 
 |**Name**|
 |:-----|
-|[Application](conflicts-application-property-outlook.md)|
-|[Class](conflicts-class-property-outlook.md)|
+|[Application](Outlook.Conflicts.Application.md)|
+|[Class](Outlook.Conflicts.Class.md)|
 |[Count](Outlook.Conflicts.Count.md)|
-|[Parent](conflicts-parent-property-outlook.md)|
-|[Session](conflicts-session-property-outlook.md)|
+|[Parent](Outlook.Conflicts.Parent.md)|
+|[Session](Outlook.Conflicts.Session.md)|
 
 ## See also
 

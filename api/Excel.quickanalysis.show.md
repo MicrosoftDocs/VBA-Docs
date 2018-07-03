@@ -31,7 +31,7 @@ Displays specific members of the Analysis Lens user interface.
 
 ### Remarks
 
-When [XlQuickAnalysisMode Enumeration (Excel)](xlquickanalysismode-enumeration-excel.md) is set to any one of the following options, the resulting user interface is displayed:
+When [XlQuickAnalysisMode Enumeration (Excel)](Excel.xlquickanalysismode.md) is set to any one of the following options, the resulting user interface is displayed:
 
 
 - If missing or set to  **xlLensOnly** = Show the button but no fly-outs

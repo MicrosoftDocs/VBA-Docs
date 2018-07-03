@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject Object (Excel)
 
-Represents a [ListObject Object (Excel)](listobject-object-excel.md) object in the **ListObjects** collection.
+Represents a [ListObject Object (Excel)](Excel.ListObject.md) object in the **ListObjects** collection.
 
 
 ## Remarks

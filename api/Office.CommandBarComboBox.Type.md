@@ -30,5 +30,5 @@ Gets the type of  **CommandBarComboBox** control. Read-only.
 
 
 
-[CommandBarComboBox Object Members](commandbarcombobox-members-office.md)
+[CommandBarComboBox Object Members](overview/commandbarcombobox-members-office.md)
 

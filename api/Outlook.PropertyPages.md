@@ -44,7 +44,7 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 |[Class](Outlook.PropertyPages.Class.md)|
 |[Count](Outlook.PropertyPages.Count.md)|
 |[Parent](Outlook.PropertyPages.Parent.md)|
-|[Session](propertypages-session-property-outlook.md)|
+|[Session](Outlook.PropertyPages.Session.md)|
 
 ## See also
 

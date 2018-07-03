@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # PivotValueCell.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[PivotValueCell Object (Excel)](pivotvaluecell-object-excel.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[PivotValueCell Object (Excel)](pivotvaluecell-object-excel.md) object.
+ _expression_ A variable that represents a[PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns an  **Object** that represents the parent object of the specified[PivotV
 
 
 
-[PivotValueCell Object](pivotvaluecell-object-excel.md)
+[PivotValueCell Object](Excel.pivotvaluecell.md)
 

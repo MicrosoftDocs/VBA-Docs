@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # ChartGroup.BinsUnderflowEnabled Property (PowerPoint)
 
-Specifies whether a bin for values below the [ChartGroup.BinsUnderflowValue Property (PowerPoint)](chartgroup-binsunderflowvalue-property-powerpoint.md) is enabled. Read/write **Boolean**.
+Specifies whether a bin for values below the [ChartGroup.BinsUnderflowValue Property (PowerPoint)](PowerPoint.chartgroup.binsunderflowvalue.md) is enabled. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,5 +24,5 @@ Specifies whether a bin for values below the [ChartGroup.BinsUnderflowValue Prop
 ## See also
 
 
-[ChartGroup Object (PowerPoint)](chartgroup-object-powerpoint.md)
+[ChartGroup Object (PowerPoint)](PowerPoint.ChartGroup.md)
 

@@ -53,10 +53,10 @@ Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNaviga
 |**Name**|
 |:-----|
 |[Application](Outlook.NavigationGroups.Application.md)|
-|[Class](navigationgroups-class-property-outlook.md)|
-|[Count](navigationgroups-count-property-outlook.md)|
-|[Parent](navigationgroups-parent-property-outlook.md)|
-|[Session](navigationgroups-session-property-outlook.md)|
+|[Class](Outlook.NavigationGroups.Class.md)|
+|[Count](Outlook.NavigationGroups.Count.md)|
+|[Parent](Outlook.NavigationGroups.Parent.md)|
+|[Session](Outlook.NavigationGroups.Session.md)|
 
 ## See also
 

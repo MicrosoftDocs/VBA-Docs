@@ -63,7 +63,7 @@ End Sub
 |[Range](Excel.ListColumn.Range.md)|
 |[Total](Excel.ListColumn.Total.md)|
 |[TotalsCalculation](Excel.ListColumn.TotalsCalculation.md)|
-|[XPath](listcolumn-xpath-property-excel.md)|
+|[XPath](Excel.ListColumn.XPath.md)|
 
 ## See also
 

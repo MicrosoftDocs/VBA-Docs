@@ -99,7 +99,7 @@ Set myPage = myPages.Add("General")
 |[Class](Outlook.Pages.Class.md)|
 |[Count](Outlook.Pages.Count.md)|
 |[Parent](Outlook.Pages.Parent.md)|
-|[Session](pages-session-property-outlook.md)|
+|[Session](Outlook.Pages.Session.md)|
 
 ## See also
 

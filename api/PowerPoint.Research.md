@@ -24,5 +24,5 @@ The research service feature provides the ability to search multiple custom and 
 ## See also
 
 
-[PowerPoint Object Model Reference](object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](overview/object-model-powerpoint-vba-reference.md)
 

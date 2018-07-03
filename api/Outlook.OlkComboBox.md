@@ -99,8 +99,8 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 |[Style](Outlook.OlkComboBox.Style.md)|
 |[Text](Outlook.OlkComboBox.Text.md)|
 |[TextAlign](Outlook.OlkComboBox.TextAlign.md)|
-|[TopIndex](olkcombobox-topindex-property-outlook.md)|
-|[Value](olkcombobox-value-property-outlook.md)|
+|[TopIndex](Outlook.OlkComboBox.TopIndex.md)|
+|[Value](Outlook.OlkComboBox.Value.md)|
 
 ## See also
 

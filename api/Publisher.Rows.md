@@ -90,5 +90,5 @@ End Sub
 |:-----|
 |[Application](Publisher.Rows.Application.md)|
 |[Count](Publisher.Rows.Count.md)|
-|[Parent](rows-parent-property-publisher.md)|
+|[Parent](Publisher.Rows.Parent.md)|
 

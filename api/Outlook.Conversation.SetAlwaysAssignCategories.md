@@ -44,7 +44,7 @@ To determine the existing categories that are always assigned to items of the co
 
 If  **SetAlwaysAssignCategories** is called more than once, the result is cumulative. For example, if you call **SetAlwaysAssignCategories** specifying the category ?Important? and then call **SetAlwaysAssignCategories** again specifying the categories "Business" and "Social", the categories that are always assigned are "Important", "Business", and "Social".
 
-To stop the action of always assigning categories, use the  **[ClearAlwaysAssignCategories](conversation-clearalwaysassigncategories-method-outlook.md)** method. After the **ClearAlwaysAssignCategories** method has been called, **GetAlwaysAssignCategories** returns an empty string.
+To stop the action of always assigning categories, use the  **[ClearAlwaysAssignCategories](Outlook.Conversation.ClearAlwaysAssignCategories.md)** method. After the **ClearAlwaysAssignCategories** method has been called, **GetAlwaysAssignCategories** returns an empty string.
 
  The **SetAlwaysAssignToCategories** method ignores any category names that are empty strings. For example, if the _Categories_ parameter is set to the string "Work,,Play", "Work" and "Play" are assigned to the conversation and the empty string category is ignored.
 

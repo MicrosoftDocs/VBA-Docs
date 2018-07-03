@@ -54,8 +54,7 @@ myControl.Copy Bar:=myCustomBar, Before:=1
 ## See also
 
 
-[Object Model Reference](reference-object-library-reference-for-office.md)
-
+[Object Model Reference](overview/reference-object-library-reference-for-office.md)
 
 
 [CommandBarControls Object Members](./overview/commandbarcontrols-members-office.md)

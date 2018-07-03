@@ -65,5 +65,5 @@ End Sub
 ## See also
 
 
-[Sequence Object](sequence-object-powerpoint.md)
+[Sequence Object](PowerPoint.Sequence.md)
 

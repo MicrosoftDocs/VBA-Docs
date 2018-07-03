@@ -38,7 +38,7 @@ Creates a new list object.
 
 ### Return Value
 
-A  **[ListObject](listobject-object-excel.md)** object that represents the new list object.
+A  **[ListObject](Excel.ListObject.md)** object that represents the new list object.
 
 
 ## Remarks

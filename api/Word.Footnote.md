@@ -61,7 +61,7 @@ ActiveDocument.Footnotes.Add Range:=Selection.Range , _
 |[Index](Word.Footnote.Index.md)|
 |[Parent](Word.Footnote.Parent.md)|
 |[Range](Word.Footnote.Range.md)|
-|[Reference](footnote-reference-property-word.md)|
+|[Reference](Word.Footnote.Reference.md)|
 
 ## See also
 

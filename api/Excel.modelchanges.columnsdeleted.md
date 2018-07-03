@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelChanges.ColumnsDeleted Property (Excel)
 
-Returns a [ModelColumnNames Object (Excel)](modelcolumnnames-object-excel.md) collection of[ModelColumnName Object (Excel)](modelcolumnname-object-excel.md) objects which represent all columns which were deleted as part of a model operation. Read-only.
+Returns a [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) collection of[ModelColumnName Object (Excel)](Excel.modelcolumnname.md) objects which represent all columns which were deleted as part of a model operation. Read-only.
 
 
 ## Syntax

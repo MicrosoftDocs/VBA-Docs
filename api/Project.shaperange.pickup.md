@@ -66,4 +66,4 @@ End Sub
 
 [ShapeRange Object](Project.shaperange.md)
 [Apply Method](Project.shaperange.apply.md)
-[Shape.PickUp Method](shape-pickup-method-project.md)
+[Shape.PickUp Method](Project.shape.pickup.md)

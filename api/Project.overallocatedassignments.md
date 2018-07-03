@@ -62,7 +62,7 @@ End Sub
 |[Count](Project.OverAllocatedAssignments.Count.md)|
 |[Item](Project.OverAllocatedAssignments.Item.md)|
 |[Parent](Project.OverAllocatedAssignments.Parent.md)|
-|[TotalDetectedCount](overallocatedassignments-totaldetectedcount-property-project.md)|
+|[TotalDetectedCount](Project.OverAllocatedAssignments.TotalDetectedCount.md)|
 
 ## See also
 

@@ -73,7 +73,7 @@ End With
 |[PageNumbers](Word.HeaderFooter.PageNumbers.md)|
 |[Parent](Word.HeaderFooter.Parent.md)|
 |[Range](Word.HeaderFooter.Range.md)|
-|[Shapes](headerfooter-shapes-property-word.md)|
+|[Shapes](Word.HeaderFooter.Shapes.md)|
 
 ## See also
 

@@ -82,5 +82,5 @@ End Sub
 |[Height](Publisher.CellRange.Height.md)|
 |[Parent](Publisher.CellRange.Parent.md)|
 |[Row](Publisher.CellRange.Row.md)|
-|[Width](cellrange-width-property-publisher.md)|
+|[Width](Publisher.CellRange.Width.md)|
 

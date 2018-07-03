@@ -93,5 +93,5 @@ End Sub
 |:-----|
 |[Application](Publisher.TextStyles.Application.md)|
 |[Count](Publisher.TextStyles.Count.md)|
-|[Parent](textstyles-parent-property-publisher.md)|
+|[Parent](Publisher.TextStyles.Parent.md)|
 

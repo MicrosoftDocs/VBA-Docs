@@ -107,9 +107,9 @@ End Sub
 |[Enabled](Outlook.AutoFormatRule.Enabled.md)|
 |[Filter](Outlook.AutoFormatRule.Filter.md)|
 |[Font](Outlook.AutoFormatRule.Font.md)|
-|[Name](autoformatrule-name-property-outlook.md)|
-|[Parent](autoformatrule-parent-property-outlook.md)|
-|[Session](autoformatrule-session-property-outlook.md)|
+|[Name](Outlook.AutoFormatRule.Name.md)|
+|[Parent](Outlook.AutoFormatRule.Parent.md)|
+|[Session](Outlook.AutoFormatRule.Session.md)|
 |[Standard](Outlook.AutoFormatRule.Standard.md)|
 
 ## See also

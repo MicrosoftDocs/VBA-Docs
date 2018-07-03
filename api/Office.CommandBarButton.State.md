@@ -73,5 +73,5 @@ This example creates a command bar named "Custom" and adds two buttons to it. Th
 
 
 
-[CommandBarButton Object Members](commandbarbutton-members-office.md)
+[CommandBarButton Object Members](overview/commandbarbutton-members-office.md)
 

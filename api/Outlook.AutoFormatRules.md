@@ -115,9 +115,9 @@ End Sub
 |:-----|
 |[Application](Outlook.AutoFormatRules.Application.md)|
 |[Class](Outlook.AutoFormatRules.Class.md)|
-|[Count](autoformatrules-count-property-outlook.md)|
-|[Parent](autoformatrules-parent-property-outlook.md)|
-|[Session](autoformatrules-session-property-outlook.md)|
+|[Count](Outlook.AutoFormatRules.Count.md)|
+|[Parent](Outlook.AutoFormatRules.Parent.md)|
+|[Session](Outlook.AutoFormatRules.Session.md)|
 
 ## See also
 

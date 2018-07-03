@@ -78,6 +78,6 @@ End Sub
 |:-----|
 |[Application](Publisher.MailMergeFilters.Application.md)|
 |[Count](Publisher.MailMergeFilters.Count.md)|
-|[Creator](mailmergefilters-creator-property-publisher.md)|
-|[Parent](mailmergefilters-parent-property-publisher.md)|
+|[Creator](Publisher.MailMergeFilters.Creator.md)|
+|[Parent](Publisher.MailMergeFilters.Parent.md)|
 

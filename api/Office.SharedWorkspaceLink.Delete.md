@@ -33,5 +33,5 @@ Deletes the current  **SharedWorkspaceLink** object.
 
 
 
-[SharedWorkspaceLink Object Members](sharedworkspacelink-members-office.md)
+[SharedWorkspaceLink Object Members](overview/sharedworkspacelink-members-office.md)
 

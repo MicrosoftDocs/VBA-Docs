@@ -46,5 +46,5 @@ The smtp address used to create the group.
 ## See also
 
 
-[Store Object (Outlook)](store-object-outlook.md)
+[Store Object (Outlook)](Outlook.Store.md)
 

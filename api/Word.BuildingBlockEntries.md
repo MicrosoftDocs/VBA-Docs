@@ -60,7 +60,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 |[Application](Word.BuildingBlockEntries.Application.md)|
 |[Count](Word.BuildingBlockEntries.Count.md)|
 |[Creator](Word.BuildingBlockEntries.Creator.md)|
-|[Parent](buildingblockentries-parent-property-word.md)|
+|[Parent](Word.BuildingBlockEntries.Parent.md)|
 
 ## See also
 

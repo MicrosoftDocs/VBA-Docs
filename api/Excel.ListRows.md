@@ -49,7 +49,7 @@ Set myNewRow = Worksheets(1).ListObject(0).ListRows.Add
 |[Count](Excel.ListRows.Count.md)|
 |[Creator](Excel.ListRows.Creator.md)|
 |[Item](Excel.ListRows.Item.md)|
-|[Parent](listrows-parent-property-excel.md)|
+|[Parent](Excel.ListRows.Parent.md)|
 
 ## See also
 

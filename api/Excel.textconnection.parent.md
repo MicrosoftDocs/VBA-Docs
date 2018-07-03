@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # TextConnection.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[TextConnection Object (Excel)](textconnection-object-excel.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[TextConnection Object (Excel)](Excel.textconnection.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[TextConnection Object (Excel)](textconnection-object-excel.md) object.
+ _expression_ A variable that represents a[TextConnection Object (Excel)](Excel.textconnection.md) object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns an  **Object** that represents the parent object of the specified[TextCo
 
 
 
-[TextConnection Object](textconnection-object-excel.md)
+[TextConnection Object](Excel.textconnection.md)
 

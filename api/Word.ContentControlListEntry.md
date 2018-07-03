@@ -167,10 +167,10 @@ Next
 
 |**Name**|
 |:-----|
-|[Application](contentcontrollistentry-application-property-word.md)|
-|[Creator](contentcontrollistentry-creator-property-word.md)|
-|[Index](contentcontrollistentry-index-property-word.md)|
-|[Parent](contentcontrollistentry-parent-property-word.md)|
+|[Application](Word.ContentControlListEntry.Application.md)|
+|[Creator](Word.ContentControlListEntry.Creator.md)|
+|[Index](Word.ContentControlListEntry.Index.md)|
+|[Parent](Word.ContentControlListEntry.Parent.md)|
 |[Text](Word.ContentControlListEntry.Text.md)|
 |[Value](Word.ContentControlListEntry.Value.md)|
 

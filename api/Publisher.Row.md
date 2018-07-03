@@ -110,6 +110,6 @@ End Sub
 |:-----|
 |[Application](Publisher.Row.Application.md)|
 |[Cells](Publisher.Row.Cells.md)|
-|[Height](row-height-property-publisher.md)|
-|[Parent](row-parent-property-publisher.md)|
+|[Height](Publisher.Row.Height.md)|
+|[Parent](Publisher.Row.Parent.md)|
 

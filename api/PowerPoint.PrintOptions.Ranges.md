@@ -72,5 +72,5 @@ End With
 ## See also
 
 
-[PrintOptions Object](printoptions-object-powerpoint.md)
+[PrintOptions Object](PowerPoint.PrintOptions.md)
 

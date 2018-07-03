@@ -108,8 +108,8 @@ End Sub
 |[Parent](Outlook.SelectNamesDialog.Parent.md)|
 |[Recipients](Outlook.SelectNamesDialog.Recipients.md)|
 |[Session](Outlook.SelectNamesDialog.Session.md)|
-|[ShowOnlyInitialAddressList](selectnamesdialog-showonlyinitialaddresslist-property-outlook.md)|
-|[ToLabel](selectnamesdialog-tolabel-property-outlook.md)|
+|[ShowOnlyInitialAddressList](Outlook.SelectNamesDialog.ShowOnlyInitialAddressList.md)|
+|[ToLabel](Outlook.SelectNamesDialog.ToLabel.md)|
 
 ## See also
 

@@ -35,5 +35,5 @@ For the  **Scripts** collection, using the **Delete** method removes all scripts
 
 
 
-[Signature Object Members](signature-members-office.md)
+[Signature Object Members](overview/signature-members-office.md)
 

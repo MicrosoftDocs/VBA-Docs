@@ -38,5 +38,5 @@ Adds a search folder to a file search.
 
 
 
-[SearchFolders Object Members](searchfolders-members-office.md)
+[SearchFolders Object Members](overview/searchfolders-members-office.md)
 

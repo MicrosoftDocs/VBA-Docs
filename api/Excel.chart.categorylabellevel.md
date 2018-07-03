@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Chart.CategoryLabelLevel Property (Excel)
 
-Returns a  **[XlCategoryLabelLevel Enumeration (Excel)](xlcategorylabellevel-enumeration-excel.md)** constant referring to the level of where the category labels are being sourced from. **Integer** Read/Write.
+Returns a  **[XlCategoryLabelLevel Enumeration (Excel)](Excel.xlcategorylabellevel.md)** constant referring to the level of where the category labels are being sourced from. **Integer** Read/Write.
 
 
 ## Syntax

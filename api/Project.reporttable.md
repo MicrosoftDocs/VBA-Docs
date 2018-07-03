@@ -165,8 +165,8 @@ End Sub
  
 [Report Object](Project.report.md)
  
-[Shape Object](shape-object-project.md)
+[Shape Object](Project.shape.md)
  
-[Chart Object](chart-object-project.md)
+[Chart Object](Project.chart.md)
  
-[Chart.DataTable Property](chart-datatable-property-project.md)
+[Chart.DataTable Property](Project.chart.datatable.md)

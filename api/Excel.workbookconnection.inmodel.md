@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.InModel Property (Excel)
 
-Specifies whether or not the [WorkbookConnection Object (Excel)](workbookconnection-object-excel.md) has been added to the model. **Boolean** Read-only
+Specifies whether or not the [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) has been added to the model. **Boolean** Read-only
 
 
 ## Syntax
 
  _expression_. `InModel`
 
- _expression_ A variable that represents a[WorkbookConnection Object (Excel)](workbookconnection-object-excel.md) object.
+ _expression_ A variable that represents a[WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object.
 
 
 ## Remarks
@@ -34,5 +34,5 @@ Must be false for legacy connections.
 ## See also
 
 
-[WorkbookConnection Object](workbookconnection-object-excel.md)
+[WorkbookConnection Object](Excel.WorkbookConnection.md)
 

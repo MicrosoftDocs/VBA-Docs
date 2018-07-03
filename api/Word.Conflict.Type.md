@@ -25,7 +25,7 @@ Returns the [WdRevisionType](Word.WdRevisionType.md)for the [Conflict](Word.Conf
 
 ## Example
 
-The following code example gets the [type](conflict-type-property-word.md) of each conflict in the active document.
+The following code example gets the [type](Word.Conflict.Type.md) of each conflict in the active document.
 
 
 ```vb

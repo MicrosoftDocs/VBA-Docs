@@ -44,5 +44,5 @@ The following example opens the previous saved version of the active document in
 
 
 
-[DocumentLibraryVersion Object Members](documentlibraryversion-members-office.md)
+[DocumentLibraryVersion Object Members](overview/documentlibraryversion-members-office.md)
 

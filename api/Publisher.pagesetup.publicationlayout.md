@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PublicationLayout Property (Publisher)
 
-Returns or sets a  [PbPublicationLayout Enumeration (Publisher)](pbpublicationlayout-enumeration-publisher.md) constant that indicates the layout of a publication. Read/write.
+Returns or sets a  [PbPublicationLayout Enumeration (Publisher)](Publisher.pbpublicationlayout.md) constant that indicates the layout of a publication. Read/write.
 
 
 ## Syntax
@@ -47,5 +47,5 @@ End With
 ## See also
 
 
- [PageSetup Object (Publisher)](pagesetup-object-publisher.md)
+ [PageSetup Object (Publisher)](Publisher.PageSetup.md)
 

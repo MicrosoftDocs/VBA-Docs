@@ -49,5 +49,5 @@ End Sub
 |[Pages](Publisher.ReaderSpread.Pages.md)|
 |[Parent](Publisher.ReaderSpread.Parent.md)|
 |[Top](Publisher.ReaderSpread.Top.md)|
-|[Width](readerspread-width-property-publisher.md)|
+|[Width](Publisher.ReaderSpread.Width.md)|
 

@@ -33,6 +33,6 @@ The  **Session** property and the[GetNamespace](Outlook.Application.GetNamespace
 ## See also
 
 
-[PreviewPane Object (Outlook)](previewpane-object-outlook.md)
+[PreviewPane Object (Outlook)](Outlook.previewpane.md)
 
 

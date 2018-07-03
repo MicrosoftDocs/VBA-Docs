@@ -39,5 +39,5 @@ Deletes a filter object from the  **ODSOFilters** collection.
 
 
 
-[ODSOFilters Object Members](odsofilters-members-office.md)
+[ODSOFilters Object Members](overview/odsofilters-members-office.md)
 

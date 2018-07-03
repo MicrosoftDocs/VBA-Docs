@@ -35,7 +35,7 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 |[Enabled](Outlook.PlaySoundRuleAction.Enabled.md)|
 |[FilePath](Outlook.PlaySoundRuleAction.FilePath.md)|
 |[Parent](Outlook.PlaySoundRuleAction.Parent.md)|
-|[Session](playsoundruleaction-session-property-outlook.md)|
+|[Session](Outlook.PlaySoundRuleAction.Session.md)|
 
 ## See also
 

@@ -144,8 +144,8 @@ End Sub
 |[Application](Outlook.Views.Application.md)|
 |[Class](Outlook.Views.Class.md)|
 |[Count](Outlook.Views.Count.md)|
-|[Parent](views-parent-property-outlook.md)|
-|[Session](views-session-property-outlook.md)|
+|[Parent](Outlook.Views.Parent.md)|
+|[Session](Outlook.Views.Session.md)|
 
 ## See also
 

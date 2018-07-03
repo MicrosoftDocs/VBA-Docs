@@ -35,7 +35,7 @@ Builds a freeform object. Returns a  **[FreeformBuilder](Word.FreeformBuilder.md
 
 ## Remarks
 
-Use the  **[AddNodes](Word.FreeformBuilder.AddNodes.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **ConvertToShape** method to convert the **[FreeformBuilder](Word.FreeformBuilder.md)** object into a **[Shape](shape-object-word.md)** object that has the geometric description you've defined in the **[FreeformBuilder](Word.FreeformBuilder.md)** object.
+Use the  **[AddNodes](Word.FreeformBuilder.AddNodes.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **ConvertToShape** method to convert the **[FreeformBuilder](Word.FreeformBuilder.md)** object into a **[Shape](Word.Shape.md)** object that has the geometric description you've defined in the **[FreeformBuilder](Word.FreeformBuilder.md)** object.
 
 
 ## Example

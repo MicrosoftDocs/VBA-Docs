@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelRelationship.PrimaryKeyColumn Property (Excel)
 
-Contains the [ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.
+Contains the [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.
 
 
 ## Syntax

@@ -33,12 +33,12 @@ Occurs when the application window is activated.
 
 ## Remarks
 
-For information about using events with the Application object, see  [Using Events with the Application Object](../publisher/Concepts/../publisher/Concepts/using-events-with-the-application-object-publisher.md).
+For information about using events with the Application object, see  [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example
 
-This example maximizes the Microsoft Publisher window when it is activated. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see  [Using Events with the Application Object](../publisher/Concepts/../publisher/Concepts/using-events-with-the-application-object-publisher.md)for directions on how to accomplish this.
+This example maximizes the Microsoft Publisher window when it is activated. This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see  [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md)for directions on how to accomplish this.
 
 
 ```vb
@@ -54,5 +54,5 @@ End Sub
 ## See also
 
 
- [Application Object](application-object-publisher.md)
+ [Application Object](Publisher.Application.md)
 

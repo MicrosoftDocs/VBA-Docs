@@ -32,5 +32,5 @@ Occurs before an attachment associated with an instance of the parent object is 
 ## See also
 
 
-[TaskRequestDeclineItem Object](taskrequestdeclineitem-object-outlook.md)
+[TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 

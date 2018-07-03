@@ -33,5 +33,5 @@ Deletes the current  **SharedWorkspaceTask** object.
 
 
 
-[SharedWorkspaceTask Object Members](sharedworkspacetask-members-office.md)
+[SharedWorkspaceTask Object Members](overview/sharedworkspacetask-members-office.md)
 

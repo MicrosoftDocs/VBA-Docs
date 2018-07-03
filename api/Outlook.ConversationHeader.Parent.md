@@ -27,7 +27,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 The parent of the  **ConversationHeader** object returns a **[Selection](Outlook.Selection.md)** object.
 
- The returned **Selection** object contains only **[ConversationHeader](Outlook.ConversationHeader.md)** objects. Getting the **Parent** property is equivalent to calling the **[Selection.GetSelection](selection-getselection-method-outlook.md)** method with the **olConversationHeaders** argument.
+ The returned **Selection** object contains only **[ConversationHeader](Outlook.ConversationHeader.md)** objects. Getting the **Parent** property is equivalent to calling the **[Selection.GetSelection](Outlook.Selection.GetSelection.md)** method with the **olConversationHeaders** argument.
 
 
 ## See also

@@ -67,7 +67,7 @@ ActiveProject.ResourceGroups2("Resources by Rate").GroupCriteria(1).Ascending = 
 |[Application](Project.ResourceGroups2.Application.md)|
 |[Count](Project.ResourceGroups2.Count.md)|
 |[Item](Project.ResourceGroups2.Item.md)|
-|[Parent](resourcegroups2-parent-property-project.md)|
+|[Parent](Project.ResourceGroups2.Parent.md)|
 
 ## See also
 

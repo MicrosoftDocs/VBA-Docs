@@ -62,5 +62,5 @@ End With
 ## See also
 
 
-[FreeformBuilder Object](freeformbuilder-object-powerpoint.md)
+[FreeformBuilder Object](PowerPoint.FreeformBuilder.md)
 

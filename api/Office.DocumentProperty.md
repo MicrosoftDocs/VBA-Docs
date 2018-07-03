@@ -28,8 +28,13 @@ Use the Microsoft Word  **Document.BuiltinDocumentProperties**( _index_ ) proper
 ## See also
 
 
+<<<<<<< HEAD
+[Object Model Reference](overview/reference-object-library-reference-for-office.md)
+#### Other resources
+=======
 [Object Model Reference](reference-object-library-reference-for-office.md)
 
+>>>>>>> master
 
 
 [DocumentProperty Object Members](./overview/documentproperty-members-office.md)

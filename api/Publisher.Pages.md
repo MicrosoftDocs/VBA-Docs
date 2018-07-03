@@ -57,5 +57,5 @@ End Sub
 |[Application](Publisher.Pages.Application.md)|
 |[Count](Publisher.Pages.Count.md)|
 |[Item](Publisher.Pages.Item.md)|
-|[Parent](pages-parent-property-publisher.md)|
+|[Parent](Publisher.Pages.Parent.md)|
 

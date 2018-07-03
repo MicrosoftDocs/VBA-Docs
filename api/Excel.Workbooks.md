@@ -72,9 +72,9 @@ Workbooks.Open FileName:="Array.xls", ReadOnly:=True
 |:-----|
 |[Application](Excel.Workbooks.Application.md)|
 |[Count](Excel.Workbooks.Count.md)|
-|[Creator](workbooks-creator-property-excel.md)|
-|[Item](workbooks-item-property-excel.md)|
-|[Parent](workbooks-parent-property-excel.md)|
+|[Creator](Excel.Workbooks.Creator.md)|
+|[Item](Excel.Workbooks.Item.md)|
+|[Parent](Excel.Workbooks.Parent.md)|
 
 ## See also
 

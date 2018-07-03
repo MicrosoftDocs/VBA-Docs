@@ -38,5 +38,5 @@ Adds a new file type to a file search.
 
 
 
-[FileTypes Object Members](filetypes-members-office.md)
+[FileTypes Object Members](overview/filetypes-members-office.md)
 

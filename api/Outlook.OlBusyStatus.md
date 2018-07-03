@@ -27,6 +27,6 @@ Indicates a user's availability.
 
 ## Remarks
 
-The user's availability is based on scheduled appointments. See [AppointmentItem.BusyStatus Property (Outlook)](appointmentitem-busystatus-property-outlook.md).
+The user's availability is based on scheduled appointments. See [AppointmentItem.BusyStatus Property (Outlook)](Outlook.AppointmentItem.BusyStatus.md).
 
 

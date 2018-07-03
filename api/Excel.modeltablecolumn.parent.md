@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelTableColumn.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a[ModelTableColumn Object (Excel)](modeltablecolumn-object-excel.md) object.
+ _expression_ A variable that represents a[ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object.
 
 
 ## Property value
@@ -30,5 +30,5 @@ Returns an  **Object** that represents the parent object of the specified[ModelT
 
 
 
-[ModelTableColumn Object](modeltablecolumn-object-excel.md)
+[ModelTableColumn Object](Excel.modeltablecolumn.md)
 

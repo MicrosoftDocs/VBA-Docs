@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Model.CreateModelWorkbookConnection Method (Excel)
 
-Returns a [WorkbookConnection Object (Excel)](workbookconnection-object-excel.md) object of type[ModelConnection Object (Excel)](modelconnection-object-excel.md). 
+Returns a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object of type[ModelConnection Object (Excel)](Excel.modelconnection.md). 
 
 
 ## Syntax

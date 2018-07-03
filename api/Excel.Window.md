@@ -122,7 +122,7 @@ Windows("book1.xls":1).DisplayGridlines = False
 |[Width](Excel.Window.Width.md)|
 |[WindowNumber](Excel.Window.WindowNumber.md)|
 |[WindowState](Excel.Window.WindowState.md)|
-|[Zoom](window-zoom-property-excel.md)|
+|[Zoom](Excel.Window.Zoom.md)|
 
 ## See also
 

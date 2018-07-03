@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelMeasureNames Object (Excel)
 
-A collection of [ModelMeasureName Object (Excel)](modelmeasurename-object-excel.md) objects representing names of measures in the Excel data model.
+A collection of [ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) objects representing names of measures in the Excel data model.
 
 
 ## See also

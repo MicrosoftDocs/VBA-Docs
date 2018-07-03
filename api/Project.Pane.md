@@ -38,5 +38,5 @@ Use a property such as the  **[BottomPane](Project.Window.BottomPane.md)** prope
 |:-----|
 |[Application](Project.Pane.Application.md)|
 |[Index](Project.Pane.Index.md)|
-|[Parent](pane-parent-property-project.md)|
+|[Parent](Project.Pane.Parent.md)|
 

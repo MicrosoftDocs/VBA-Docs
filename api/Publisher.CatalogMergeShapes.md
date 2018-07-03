@@ -143,8 +143,8 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 |**Name**|
 |:-----|
 |[Application](Publisher.CatalogMergeShapes.Application.md)|
-|[Count](catalogmergeshapes-count-property-publisher.md)|
-|[HorizontalRepeat](catalogmergeshapes-horizontalrepeat-property-publisher.md)|
-|[Parent](catalogmergeshapes-parent-property-publisher.md)|
-|[VerticalRepeat](catalogmergeshapes-verticalrepeat-property-publisher.md)|
+|[Count](Publisher.CatalogMergeShapes.Count.md)|
+|[HorizontalRepeat](Publisher.CatalogMergeShapes.HorizontalRepeat.md)|
+|[Parent](Publisher.CatalogMergeShapes.Parent.md)|
+|[VerticalRepeat](Publisher.CatalogMergeShapes.VerticalRepeat.md)|
 

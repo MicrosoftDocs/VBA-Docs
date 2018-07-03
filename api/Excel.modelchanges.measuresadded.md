@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelChanges.MeasuresAdded Property (Excel)
 
-Returns a [ModelMeasureNames Object (Excel)](modelmeasurenames-object-excel.md) collection of[ModelMeasureName Object (Excel)](modelmeasurename-object-excel.md) objects which represent all measures which were added as part of a model operation. Read-only.
+Returns a [ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) collection of[ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) objects which represent all measures which were added as part of a model operation. Read-only.
 
 
 ## Syntax

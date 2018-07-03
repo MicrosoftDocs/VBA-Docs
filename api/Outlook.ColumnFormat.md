@@ -105,9 +105,9 @@ End Sub
 |[FieldFormat](Outlook.ColumnFormat.FieldFormat.md)|
 |[FieldType](Outlook.ColumnFormat.FieldType.md)|
 |[Label](Outlook.ColumnFormat.Label.md)|
-|[Parent](columnformat-parent-property-outlook.md)|
-|[Session](columnformat-session-property-outlook.md)|
-|[Width](columnformat-width-property-outlook.md)|
+|[Parent](Outlook.ColumnFormat.Parent.md)|
+|[Session](Outlook.ColumnFormat.Session.md)|
+|[Width](Outlook.ColumnFormat.Width.md)|
 
 ## See also
 

@@ -73,7 +73,7 @@ Use the  **RowName** property to transition from unnamed to named Connection Poi
 
 See  **[VisRowIndices](Visio.visrowindices.md)** for a list of valid row constants and **[VisRowTags](Visio.visrowtags.md)** for a list of valid row tag constants.
 
-See  **[VisSectionIndices](vissectionindices-enumeration-visio.md)** for a list of valid section constants.
+See  **[VisSectionIndices](Visio.vissectionindices.md)** for a list of valid section constants.
 
 
 ## Example

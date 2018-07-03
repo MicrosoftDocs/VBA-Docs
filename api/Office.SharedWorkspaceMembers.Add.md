@@ -64,5 +64,5 @@ The following example adds a new member to the members collection of the shared 
 
 
 
-[SharedWorkspaceMembers Object Members](sharedworkspacemembers-members-office.md)
+[SharedWorkspaceMembers Object Members](overview/sharedworkspacemembers-members-office.md)
 
