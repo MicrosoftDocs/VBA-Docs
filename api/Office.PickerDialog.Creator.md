@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **PickerDialo
 
 
 [PickerDialog Object](Office.PickerDialog.md)
-#### Other resources
+
 
 
 [PickerDialog Object Members](./overview/pickerdialog-members-office.md)

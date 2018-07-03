@@ -36,7 +36,7 @@ The following table includes other command line switches you can use to start th
 
 
 
-|**Command line switch**|**Description **|
+|**Command line switch**|**Description**|
 |:-----|:-----|
 |/nonew|The  **New** tab is not shown on startup.|
 |/nologo|The startup screen is not shown on startup.|

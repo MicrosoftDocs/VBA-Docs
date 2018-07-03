@@ -27,7 +27,7 @@ Retrieves the value of a Picker property. Read-only
 
 
 [PickerProperty Object](Office.PickerProperty.md)
-#### Other resources
+
 
 
 [PickerProperty Object Members](./overview/pickerproperty-members-office.md)

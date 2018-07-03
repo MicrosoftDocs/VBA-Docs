@@ -24,7 +24,7 @@ Retrieves the description of the SmartArt color style. Read-only
 
 
 [SmartArtColor Object](Office.SmartArtColor.md)
-#### Other resources
+
 
 
 [SmartArtColor Object Members](./overview/smartartcolor-members-office.md)

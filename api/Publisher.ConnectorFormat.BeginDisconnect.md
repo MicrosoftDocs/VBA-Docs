@@ -20,7 +20,7 @@ Detaches the beginning of the specified connector from the shape to which it is 
 
  _expression_. **BeginDisconnect**
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_ A variable that represents a  **ConnectorFormat** object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Moves the focus to this instance of an object.
 
  _expression_. **SetFocus**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

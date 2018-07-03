@@ -20,7 +20,7 @@ Specifies the type of story. Read-only.
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **Story** object.
+ _expression_ A variable that represents a  **Story** object.
 
 
 ## Remarks

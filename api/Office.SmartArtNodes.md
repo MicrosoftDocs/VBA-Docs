@@ -51,7 +51,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Count
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

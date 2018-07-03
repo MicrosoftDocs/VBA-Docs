@@ -20,7 +20,7 @@ Specifies that the first segment of the callout line (the segment attached to th
 
  _expression_. **AutomaticLength**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_ A variable that represents a  **CalloutFormat** object.
 
 
 ## Remarks

@@ -15,7 +15,7 @@ Returns an  **Object** that has the focus. Read-only.
 
  _expression_. **ActiveControl**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

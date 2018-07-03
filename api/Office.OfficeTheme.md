@@ -29,7 +29,6 @@ Set tcsThemeColorScheme = tTheme.ThemeColorScheme
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
 
 
 [OfficeTheme Object Members](./overview/officetheme-members-office.md)

@@ -20,7 +20,7 @@ Creates a duplicate of the specified  **[Shape](Publisher.Shape.md)** or **[Shap
 
  _expression_. **Duplicate**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ### Return Value

@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the width (in pixels) of the list for the specified command bar combo box control. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -31,8 +28,8 @@ Gets or sets the width (in pixels) of the list for the specified command bar com
 
 ## Remarks
 
-
- **Note**  An error occurs if you attempt to set this property for a built-in control.
+> [!NOTE]
+> An error occurs if you attempt to set this property for a built-in control.
 
 If this property is set to -1, the width of the list is based on the length of the longest item in the combo box list. If this property is set to 0, the width of the list is based on the width of the control.
 
@@ -59,7 +56,7 @@ End With
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

@@ -20,7 +20,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing an OLE object to
 
  _expression_. **AddOLEObject**( **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_ClassName_**,  **_Filename_**,  **_Link_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Parameters

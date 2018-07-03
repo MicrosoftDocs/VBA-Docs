@@ -27,7 +27,7 @@ Represents the address in a Contact card. Read-only
 
 
 [IMsoContactCard Object](Office.IMsoContactCard.md)
-#### Other resources
+
 
 
 [IMsoContactCard Object Members](./overview/imsocontactcard-members-office.md)

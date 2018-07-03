@@ -32,7 +32,7 @@ Object
 
 
 [DocumentInspectors Object](Office.DocumentInspectors.md)
-#### Other resources
+
 
 
 [DocumentInspectors Object Members](./overview/documentinspectors-members-office.md)

@@ -9,14 +9,11 @@ ms.date: 06/08/2017
 ---
 
 
-# #Else clause must be preceded by a matching #If
+# Else clause must be preceded by a matching If
 
-# **Else** is a conditional compilation directive. This error has the following cause and solution:
+**Else** is a conditional compilation directive. This error has the following cause and solution:
 
-
-
-- An # **Else** clause was detected that isn't preceded by a matching # **If** or # **ElseIf**. Check to see if a preceding # **If** has been separated from this # **Else** by an # **End If**. Note that only one # **Else** is permitted in each # **If** block, so two successive # **Else** clauses cause this error.
+An `#else` clause was detected that isn't preceded by a matching `#if` or `#elseif`. Check to see if a preceding `#if` has been separated from this `#else` by an `#endif`. Note that only one `#else` is permitted in each `#if` block, so two successive `#else` clauses cause this error.
     
-
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

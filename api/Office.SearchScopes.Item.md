@@ -35,7 +35,7 @@ Gets a  **SearchScope** object that corresponds to an area in which to perform a
 
 
 [SearchScopes Object](Office.SearchScopes.md)
-#### Other resources
+
 
 
 [SearchScopes Object Members](overview/searchscopes-members-office.md)

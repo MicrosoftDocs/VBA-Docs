@@ -82,7 +82,7 @@ End Sub
 
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
-#### Other resources
+
 
 
 [How to: Create an Appointment as a Meeting on the Calendar](../outlook/How-to/Items-Folders-and-Stores/create-an-appointment-as-a-meeting-on-the-calendar.md)

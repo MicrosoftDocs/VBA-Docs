@@ -15,21 +15,19 @@ Adds a new SmartArtNode to the data model in the way specified by the SmartArtNo
 
 ## Syntax
 
- _expression_. `AddNode`( `_Position_`, `_Type_` )
+_expression_. `AddNode`(`Position`, `Type`)
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Position_|Optional|**MsoSmartArtNodePosition**|Specifies the location of the SmartArtNode in the data model. For example,  **msoSmartArtNodeAbove** or **msoSmartArtNodeAfter**.|
+| _Position_|Optional|**MsoSmartArtNodePosition**|Specifies the location of the SmartArtNode in the data model. For example, **msoSmartArtNodeAbove** or **msoSmartArtNodeAfter**.|
 | _Type_|Optional|**MsoSmartArtNodeType**|Specifies the type of the added SmartArtNode. For example,  **msoSmartArtNodeTypeAssistant** or **msoSmartArtNodeTypeDefault**.|
 
-### Return Value
+### Return value
 
 SmartArtNode
 
@@ -48,10 +46,6 @@ saNode = saNode.AddNode(msoSmartArtNodeBelow, msoSmartArtNodeTypeDefault)
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

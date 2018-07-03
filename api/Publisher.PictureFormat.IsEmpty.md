@@ -20,7 +20,7 @@ Returns a  **MsoTriState** constant that represents whether the specified shape 
 
  _expression_. **IsEmpty**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_ A variable that represents an  **PictureFormat** object.
 
 
 ### Return Value

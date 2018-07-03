@@ -20,7 +20,7 @@ Maps a field (column) in a particular data source represented by the parent  **M
 
  _expression_. **MapToRecipientField**( **_bstrValue_**)
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_ A variable that represents a  **MailMergeDataField** object.
 
 
 ### Parameters
@@ -39,8 +39,8 @@ If you do not pass a value for the optional bstrValue parameter, Microsoft Publi
 
 If you pass the name of a field that does not exist, Publisher returns an error. 
 
-
- **Note**  To add a field, use the  **[AddToRecipientFields](Publisher.MailMergeDataField.AddToRecipientFields.md)** method.
+> [!NOTE] 
+> To add a field, use the  **[AddToRecipientFields](Publisher.MailMergeDataField.AddToRecipientFields.md)** method.
 
 
 ## Example

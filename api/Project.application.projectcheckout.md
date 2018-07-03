@@ -74,7 +74,7 @@ End Sub
 
 [Application Object](Project.Application.md)
 [Project.Checkin Method](Project.Project.CheckIn.md)
-#### Other resources
+
 
 
 [IsCheckedOut Property](Project.application.ischeckedout.md)

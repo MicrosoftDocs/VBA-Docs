@@ -20,7 +20,7 @@ Returns a  **Long** that represents the type of a shape, range of shapes, or pro
 
  _expression_. **ID**
 
- _expression_A variable that represents a  **WizardValue** object.
+ _expression_ A variable that represents a  **WizardValue** object.
 
 
 ## Example

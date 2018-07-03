@@ -20,7 +20,7 @@ Sets or retrieves a  **String** representing the list bullet font name from the 
 
  _expression_. **ListBulletFontName**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ### Return Value

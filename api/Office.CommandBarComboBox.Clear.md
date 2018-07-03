@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Removes all list items from a command bar combo box control (a drop-down list box or a combo box).
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -31,10 +28,8 @@ Removes all list items from a command bar combo box control (a drop-down list bo
 
 ## Remarks
 
-
-
-
- **Note**  This method fails if it is applied to a built-in command bar control (a control that comes with Microsoft Office).
+> [!NOTE]
+> This method fails if it is applied to a built-in command bar control (a control that comes with Microsoft Office).
 
 
 ## Example
@@ -61,7 +56,7 @@ End If
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

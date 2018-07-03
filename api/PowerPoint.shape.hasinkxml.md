@@ -39,7 +39,7 @@ The value of this property can be one of these  **MsoTriState** constants.
 
 
 [Shape Object](PowerPoint.Shape.md)
-#### Other resources
+
 
 
 [MsoTriState](./Office.MsoTriState.md)

@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Creates a new command bar and adds it to the collection of command bars.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -44,7 +41,7 @@ Creates a new command bar and adds it to the collection of command bars.
 
 
 [CommandBars Object](Office.CommandBars.md)
-#### Other resources
+
 
 
 [CommandBars Object Members](overview/commandbars-members-office.md)

@@ -20,7 +20,7 @@ Occurs when a user changes from a specified step to a specified step in the Mail
 
  _expression_. **MailMergeWizardStateChange**( **_Doc_**,  **_FromState_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

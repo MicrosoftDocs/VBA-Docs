@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets a  **MsoOLEMenuGroup** constant that represents the menu group that the specified command bar pop-up control belongs to when the menu groups of the OLE server are merged with the menu groups of an OLE client (that is, when an object of the container application type is embedded in another application). Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -31,8 +28,8 @@ Gets or sets a  **MsoOLEMenuGroup** constant that represents the menu group that
 
 ## Remarks
 
-
- **Note**  This property is read-only for built-in controls.
+> [!NOTE] 
+> This property is read-only for built-in controls.
 
 This property is intended to allow add-in applications to specify how their command bar controls will be represented in the Office application. If either the container or the server does not implement command bars, normal OLE menu merging occurs: the menu bar is merged, and all the toolbars from the server, and none of the toolbars from the container. This property is relevant only for pop-up controls on the menu bar because menus are merged on the basis of their menu group category.
 
@@ -55,7 +52,7 @@ myControl.OLEMenuGroup = msoOLEMenuGroupNone
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)

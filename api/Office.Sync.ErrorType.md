@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets a  **MsoSyncErrorType** constant which indicates the type of the most recent document synchronization error. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ Use the  **ErrorType** property to determine the type of the most recent documen
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](overview/sync-members-office.md)

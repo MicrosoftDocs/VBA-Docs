@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Resumes synchronization between the local copy and the server copy of a shared document.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -55,7 +55,7 @@ The following example resumes document synchronization if it has been suspended.
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](./overview/sync-members-office.md)

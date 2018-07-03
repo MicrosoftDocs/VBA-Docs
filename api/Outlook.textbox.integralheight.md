@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether a **[TextBox](Outlook.text
 
  _expression_. **IntegralHeight**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

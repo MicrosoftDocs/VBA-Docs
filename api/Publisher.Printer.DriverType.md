@@ -20,7 +20,7 @@ Specifies the type of driver supported by the printer. Read-only.
 
  _expression_. **DriverType**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_ A variable that represents a  **Printer** object.
 
 
 ### Return Value

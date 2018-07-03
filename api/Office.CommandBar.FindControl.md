@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets a  **CommandBarControl** object that fits a specified criteria.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -55,7 +52,7 @@ If the  **CommandBars** collection contains two or more controls that fit the se
 
 
 [CommandBar Object](Office.CommandBar.md)
-#### Other resources
+
 
 
 [CommandBar Object Members](./overview/commandbar-members-office.md)

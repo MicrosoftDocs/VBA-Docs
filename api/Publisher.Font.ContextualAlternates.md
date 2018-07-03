@@ -20,7 +20,7 @@ Returns or sets an  **MsoTriState** constant that represents the state of the **
 
  _expression_. **ContextualAlternates**
 
- _expression_A variable that represents a  **[Font](Publisher.Font.md)** object.
+ _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 
 
 ## Return Value
@@ -30,8 +30,8 @@ Returns or sets an  **MsoTriState** constant that represents the state of the **
 
 ## Remarks
 
-
- **Note**  The  **ContextualAlternates** property has an effect only for OpenType fonts that contain contextual alternates.
+> [!NOTE] 
+> The  **ContextualAlternates** property has an effect only for OpenType fonts that contain contextual alternates.
 
 The  **ContextualAlternates** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 

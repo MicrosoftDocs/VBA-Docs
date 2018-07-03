@@ -20,7 +20,7 @@ Deletes the catalog merge area from the specified publication page. All shapes c
 
  _expression_. **RemoveCatalogMergeArea**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_ A variable that represents a  **Shape** object.
 
 
 ## Remarks

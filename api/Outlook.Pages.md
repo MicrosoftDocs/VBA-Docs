@@ -103,5 +103,4 @@ Set myPage = myPages.Add("General")
 
 ## See also
 
-
-[Object model (Outlook VBA reference)](./overview/object-model-outlook-vba-reference.md)
+- [Object model (Outlook)](./overview/object-model-outlook-vba-reference.md)

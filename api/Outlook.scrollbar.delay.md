@@ -18,7 +18,7 @@ Returns or sets a  **Long** that specifies the delay in milliseconds, between ev
 
  _expression_. **Delay**
 
- _expression_A variable that represents a  **ScrollBar** object.
+ _expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks

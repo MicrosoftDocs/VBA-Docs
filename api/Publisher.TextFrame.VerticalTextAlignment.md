@@ -20,7 +20,7 @@ Returns or sets a  **PbVerticalTextAlignmentType**constant that represents the v
 
  _expression_. **VerticalTextAlignment**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_ A variable that represents a  **TextFrame** object.
 
 
 ## Remarks

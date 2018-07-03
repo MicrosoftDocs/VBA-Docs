@@ -62,7 +62,7 @@ End Sub
 
 
 [CustomXMLSchema Object](Office.CustomXMLSchema.md)
-#### Other resources
+
 
 
 [CustomXMLSchema Object Members](./overview/customxmlschema-members-office.md)

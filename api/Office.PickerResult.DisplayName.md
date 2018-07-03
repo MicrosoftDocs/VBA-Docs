@@ -27,7 +27,7 @@ Represents a display name of PickerResult. Read/write
 
 
 [PickerResult Object](Office.PickerResult.md)
-#### Other resources
+
 
 
 [PickerResult Object Members](./overview/pickerresult-members-office.md)

@@ -18,7 +18,7 @@ Returns a  [ThreeDFormat](Publisher.ThreeDFormat.md) object that contains 3-D ef
 
  _expression_. **ThreeD**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ## Return value

@@ -18,7 +18,7 @@ Returns or sets a  **String** that specifies the name of an object. Read/write.
 
  _expression_. **Name**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

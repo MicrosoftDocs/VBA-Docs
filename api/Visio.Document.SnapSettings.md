@@ -36,7 +36,7 @@ The  **SnapSettings** property can be any combination of the following **VisSnap
 
 
 
-|**Constant **|**Value **|**Description **|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visSnapToNone**|&;H0 |Snap to nothing. |
 | **visSnapToRulerSubdivisions**|&;H1 |Snap to tick marks on the ruler. |

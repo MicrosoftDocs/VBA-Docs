@@ -34,7 +34,7 @@ The format of the build number is described in the following table.
 
 
 
-|**Bits **|**Description **|
+|**Bits**|**Description**|
 |:-----|:-----|
 |0 - 15 |Internal build number |
 

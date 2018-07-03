@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the default horizontal callout position for members of the  **GraphicItems** collection of the **Master** object of type **visTypeDataGraphic** . Read/write.
 
-
- **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
+> [!NOTE] 
+> This Visio object or member is available only to licensed users of Visio Professional 2013.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ The following possible values for the  **DataGraphicHorizontalPosition** propert
 
 
 
-|**Constant**|**Value **|**Description**|
+|**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **visGraphicFarLeft**|0|The right edge of the graphic item's alignment box is aligned with the left edge of the shape's alignment box.|
 | **visGraphicLeftEdge**|1|The vertical centerline of the graphic item's alignment box is aligned with the left edge of the shape's alignment box.|
@@ -53,6 +53,7 @@ The following possible values for the  **DataGraphicHorizontalPosition** propert
 | **visGraphicRightEdge**|5|The vertical centerline of the graphic item's alignment box is aligned with the right edge of the shape's alignment box.|
 | **visGraphicFarRight**|6|The left edge of the graphic item's alignment box is aligned with the right edge of the shape's alignment box.|
 
- **Note**  Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open for editing a copy of the data graphic master whose **GraphicItems** collection the graphic item belongs to. When you are finished setting properties, use the **Master.Close** method to commit changes.
+> [!NOTE] 
+> Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open for editing a copy of the data graphic master whose **GraphicItems** collection the graphic item belongs to. When you are finished setting properties, use the **Master.Close** method to commit changes.
 
 

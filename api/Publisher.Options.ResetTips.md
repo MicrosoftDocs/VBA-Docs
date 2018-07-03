@@ -20,7 +20,7 @@ Resets tippages so that a user can view them when using features that have been 
 
  _expression_. **ResetTips**
 
- _expression_A variable that represents an  **Options** object.
+ _expression_ A variable that represents an  **Options** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns or sets an  **MsoCalloutAngleType** constant that represents the angle o
 
  _expression_. **Angle**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_ A variable that represents a  **CalloutFormat** object.
 
 
 ## Remarks

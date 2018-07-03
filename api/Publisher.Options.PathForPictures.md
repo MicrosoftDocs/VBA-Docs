@@ -20,7 +20,7 @@ Returns a  **String** that represents the default path for picture files. Read.
 
  _expression_. **PathForPictures**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_ A variable that represents a  **Options** object.
 
 
 ### Return Value

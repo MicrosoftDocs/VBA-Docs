@@ -20,7 +20,7 @@ Returns an  **MsoGradientColorType** constant indicating the gradient color type
 
  _expression_. **GradientColorType**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ### Return Value

@@ -20,12 +20,12 @@ Returns or sets a  **Variant** that represents the state of the **StylisticAlter
 
  _expression_. **StylisticAlternates**
 
- _expression_A variable that represents a  **[Font](Publisher.Font.md)** object.
+ _expression_ A variable that represents a  **[Font](Publisher.Font.md)** object.
 
 
 ## Remarks
 
-
- **Note**  The  **StylisticAlternates** property has an effect only for OpenType fonts that contain stylistic alternatives.
+> [!NOTE] 
+> The  **StylisticAlternates** property has an effect only for OpenType fonts that contain stylistic alternatives.
 
 

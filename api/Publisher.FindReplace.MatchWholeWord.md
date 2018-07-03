@@ -20,7 +20,7 @@ Sets or returns a  **Boolean** that represents whether the whole word will be ma
 
  _expression_. **MatchWholeWord**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_ A variable that represents a  **FindReplace** object.
 
 
 ### Return Value

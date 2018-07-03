@@ -29,7 +29,7 @@ Long
 
 
 [WebPageFont Object](Office.WebPageFont.md)
-#### Other resources
+
 
 
 [WebPageFont Object Members](./overview/webpagefont-members-office.md)

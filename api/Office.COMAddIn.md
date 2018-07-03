@@ -55,7 +55,6 @@ End If
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
 
 
 [COMAddIn Object Members](./overview/comaddin-members-office.md)

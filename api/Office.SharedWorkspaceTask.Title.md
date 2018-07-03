@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -59,7 +59,7 @@ The following example displays a list of the titles of all tasks in the current 
 
 
 [SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTask Object Members](./overview/sharedworkspacetask-members-office.md)

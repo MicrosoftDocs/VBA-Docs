@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 This property checks or unchecks the check box control for the option to show menus in Microsoft Office as full or personalized. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -61,7 +58,7 @@ End With
 
 
 [CommandBars Object](Office.CommandBars.md)
-#### Other resources
+
 
 
 [CommandBars Object Members](./overview/commandbars-members-office.md)

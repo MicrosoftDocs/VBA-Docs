@@ -16,10 +16,8 @@ ms.date: 06/08/2017
 Gets or sets an  **IPictureDisp** object representing the image of a **CommandBarButton** object. Read/write.
 
 
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -33,8 +31,8 @@ Gets or sets an  **IPictureDisp** object representing the image of a **CommandBa
 
 When you change the image on a button, you will also want to use the  **Mask** property to set a mask image. The mask image determines which parts of the button image are transparent. Always set the mask after you have set the picture for a **CommandBarButton** object.
 
-
- **Note**  The images for the  **View Microsoft**_Application_ and **Insert**_Item_ buttons on the **Standard** toolbar in the Visual Basic Editor cannot be changed.
+> [!NOTE]
+> The images for the  **View Microsoft**_Application_ and **Insert**_Item_ buttons on the **Standard** toolbar in the Visual Basic Editor cannot be changed.
 
 
 ## Example
@@ -93,7 +91,7 @@ End Sub
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)

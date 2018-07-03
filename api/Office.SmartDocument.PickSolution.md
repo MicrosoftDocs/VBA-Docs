@@ -71,7 +71,7 @@ The following example checks the  **SolutionID** property to determine whether t
 
 
 [SmartDocument Object](Office.SmartDocument.md)
-#### Other resources
+
 
 
 [SmartDocument Object Members](./overview/smartdocument-members-office.md)

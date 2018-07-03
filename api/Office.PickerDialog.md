@@ -73,7 +73,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

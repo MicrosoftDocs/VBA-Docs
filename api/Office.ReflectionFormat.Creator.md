@@ -29,7 +29,7 @@ Long
 
 
 [ReflectionFormat Object](Office.ReflectionFormat.md)
-#### Other resources
+
 
 
 [ReflectionFormat Object Members](./overview/reflectionformat-members-office.md)

@@ -20,7 +20,7 @@ Returns or sets a  **PbDirectionType** constant that represents the default dire
 
  _expression_. **DefaultPubDirection**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_ A variable that represents a  **Options** object.
 
 
 ### Return Value

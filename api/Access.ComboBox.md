@@ -395,7 +395,7 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 <a name="AboutContributors"> </a>
 
 
-#### Other resources
+
 
 
 [Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>

@@ -20,7 +20,7 @@ Returns an  **[ObjectVerbs](Publisher.ObjectVerbs.md)** collection that contains
 
  _expression_. **ObjectVerbs**
 
- _expression_A variable that represents an  **OLEFormat** object.
+ _expression_ A variable that represents an  **OLEFormat** object.
 
 
 ### Return Value

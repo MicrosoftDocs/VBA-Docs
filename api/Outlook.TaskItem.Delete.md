@@ -34,7 +34,7 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 
 [TaskItemObject](Outlook.TaskItem.md)
-#### Other resources
+
 
 
 

@@ -40,7 +40,7 @@ Encryption providers are implemented through custom COM add-ins. You are provide
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

@@ -18,7 +18,7 @@ Returns or sets an  **Integer** that specifies the position of a control in the 
 
  _expression_. **TabIndex**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

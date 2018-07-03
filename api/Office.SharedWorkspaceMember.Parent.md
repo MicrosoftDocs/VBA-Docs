@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets the  **Parent** object for the **SharedWorkspaceMember** object. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Object
 
 
 [SharedWorkspaceMember Object](Office.SharedWorkspaceMember.md)
-#### Other resources
+
 
 
 [SharedWorkspaceMember Object Members](./overview/sharedworkspacemember-members-office.md)

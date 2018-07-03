@@ -20,7 +20,7 @@ Returns an  **Application** object that represents the creator of the parent **I
 
  _expression_. **Application**
 
- _expression_A variable that represents an  **InstalledPrinters** object.
+ _expression_ A variable that represents an  **InstalledPrinters** object.
 
 
 ### Return Value

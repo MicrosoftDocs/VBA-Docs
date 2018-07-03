@@ -24,7 +24,7 @@ Retrieves the description of the SmartArt quick style. Read-only
 
 
 [SmartArtQuickStyle Object](Office.SmartArtQuickStyle.md)
-#### Other resources
+
 
 
 [SmartArtQuickStyle Object Members](./overview/smartartquickstyle-members-office.md)

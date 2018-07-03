@@ -15,6 +15,6 @@ Sends all messages that are in the  **Outbox** folder and checks for new message
 
  _expression_. **SendAndReceive**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_ A variable that represents a  **ViewCtl** object.
 
 

@@ -56,7 +56,7 @@ The following example assigns a combination of read and edit permissions on the 
 
 
 [Permission Object](Office.Permission.md)
-#### Other resources
+
 
 
 [Permission Object Members](overview/permission-members-office.md)

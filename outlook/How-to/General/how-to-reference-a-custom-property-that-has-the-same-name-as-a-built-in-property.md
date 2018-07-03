@@ -11,23 +11,21 @@ ms.date: 06/08/2017
 
 # How to: Reference a Custom Property that Has the Same Name as a Built-in Property of the Control
 
-Assume a new control has a  **Top** property that is different from the standard **Top** property in Microsoft Forms. You can use either property, based on the syntax:
+Assume a new control has a **Top** property that is different from the standard **Top** property in Microsoft Forms. You can use either property, based on the syntax:
 
+This example uses the standard **Top** property:
 
-- 
 ```vb
   control.Top
 ```
 
+This example uses the **Top** property from the added control:    
 
-    uses the standard  **Top** property.
-    
-- 
 ```vb
   control.Object.Top
 ```
 
 
-    uses the  **Top** property from the added control.
+
     
 

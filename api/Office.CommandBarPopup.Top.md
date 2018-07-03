@@ -12,11 +12,8 @@ ms.date: 06/08/2017
 
 Gets the distance (in pixels) from the top edge of the specified  **CommandBarPopup** control to the top edge of the screen. Read-only.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -30,7 +27,7 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarPo
 
 
 [CommandBarPopup Object](Office.CommandBarPopup.md)
-#### Other resources
+
 
 
 [CommandBarPopup Object Members](overview/commandbarpopup-members-office.md)

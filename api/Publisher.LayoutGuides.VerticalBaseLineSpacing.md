@@ -20,7 +20,7 @@ Returns a  **Single** that represents the vertical baseline spacing of the speci
 
  _expression_. **VerticalBaseLineSpacing**
 
- _expression_A variable that represents a  **LayoutGuides** object.
+ _expression_ A variable that represents a  **LayoutGuides** object.
 
 
 ### Return Value

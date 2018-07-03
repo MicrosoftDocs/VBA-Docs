@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Updates the server copy of the shared document with the local copy.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -60,7 +60,7 @@ The following example updates the server copy of the document from the local cop
 
 
 [Sync Object](Office.Sync.md)
-#### Other resources
+
 
 
 [Sync Object Members](./overview/sync-members-office.md)

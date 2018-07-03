@@ -20,7 +20,7 @@ Returns a  **FileDialog** object that represents a single instance of a file dia
 
  _expression_. **FileDialog**( **_Type_**)
 
- _expression_A variable that represents a  **Application** object.
+ _expression_ A variable that represents a  **Application** object.
 
 
 ### Parameters

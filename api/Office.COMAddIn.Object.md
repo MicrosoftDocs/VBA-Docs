@@ -46,7 +46,7 @@ Set objBaseObject = _
 
 
 [COMAddIn Object](Office.COMAddIn.md)
-#### Other resources
+
 
 
 [COMAddIn Object Members](./overview/comaddin-members-office.md)

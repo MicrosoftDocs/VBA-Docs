@@ -15,7 +15,7 @@ Returns or sets a  **Long** that represents the index of the list item displayed
 
  _expression_. **TopIndex**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

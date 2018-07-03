@@ -20,7 +20,7 @@ Determines whether  **Validate addresses** is available under **Refine recipient
 
  _expression_. **ValidateAddressVisible**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Return Value

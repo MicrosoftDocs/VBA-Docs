@@ -20,7 +20,7 @@ Deletes an  **Attachment** object from the **Attachments** collection of an e-ma
 
  _expression_. **Delete**
 
- _expression_A variable that represents an  **Attachment** object.
+ _expression_ A variable that represents an  **Attachment** object.
 
 
 ## Remarks

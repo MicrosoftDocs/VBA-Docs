@@ -47,7 +47,7 @@ If the current view is not a conversation view, or, if  **Selection.Location** i
 
 
 [Selection Object](Outlook.Selection.md)
-#### Other resources
+
 
 
 

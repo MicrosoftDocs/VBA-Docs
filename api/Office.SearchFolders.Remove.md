@@ -35,7 +35,7 @@ Removes the specified object from the collection.
 
 
 [SearchFolders Object](Office.SearchFolders.md)
-#### Other resources
+
 
 
 [SearchFolders Object Members](overview/searchfolders-members-office.md)

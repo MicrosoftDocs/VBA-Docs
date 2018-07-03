@@ -20,7 +20,7 @@ Returns a  **String** indicating the Microsoft Publisher globally unique identif
 
  _expression_. **ProductCode**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_ A variable that represents a  **Application** object.
 
 
 ### Return Value

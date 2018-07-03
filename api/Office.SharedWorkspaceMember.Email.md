@@ -16,7 +16,8 @@ ms.date: 06/08/2017
 Gets the e-mail name of the specified  **SharedWorkspaceMember** in the format user@domain.com. Read-only.
 
 
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -52,7 +53,7 @@ Dim swsMember As Office.SharedWorkspaceMember
 
 
 [SharedWorkspaceMember Object](Office.SharedWorkspaceMember.md)
-#### Other resources
+
 
 
 [SharedWorkspaceMember Object Members](./overview/sharedworkspacemember-members-office.md)

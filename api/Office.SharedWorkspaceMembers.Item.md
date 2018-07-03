@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets a  **SharedWorkspaceMember** object from the Members collection of the shared workspace. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Gets a  **SharedWorkspaceMember** object from the Members collection of the shar
 
 
 [SharedWorkspaceMembers Object](Office.SharedWorkspaceMembers.md)
-#### Other resources
+
 
 
 [SharedWorkspaceMembers Object Members](overview/sharedworkspacemembers-members-office.md)

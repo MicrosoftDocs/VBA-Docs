@@ -15,7 +15,7 @@ Returns or sets a  **Variant** that identifies the column in a **[ListBox](Outlo
 
  _expression_. **TextColumn**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

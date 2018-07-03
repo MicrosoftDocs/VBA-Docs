@@ -20,7 +20,7 @@ Gets the name of the printer represented by the parent  **Printer** object. Read
 
  _expression_. **PrinterName**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_ A variable that represents a  **Printer** object.
 
 
 ### Return Value

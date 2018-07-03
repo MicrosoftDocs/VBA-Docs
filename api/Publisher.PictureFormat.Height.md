@@ -20,7 +20,7 @@ Returns a  **Variant** that represents the height, in points, of the specified p
 
  _expression_. **Height**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ## Remarks

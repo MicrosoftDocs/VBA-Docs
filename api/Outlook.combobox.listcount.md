@@ -18,7 +18,7 @@ Returns a  **Long** that represents the number of list entries in a control. Rea
 
  _expression_. **ListCount**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

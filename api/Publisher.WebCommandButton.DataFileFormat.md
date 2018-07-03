@@ -20,7 +20,7 @@ Sets or returns a  **PbSubmitDataFormatType** constant that represents the forma
 
  _expression_. **DataFileFormat**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_ A variable that represents a  **WebCommandButton** object.
 
 
 ### Return Value

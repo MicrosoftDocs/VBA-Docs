@@ -20,7 +20,7 @@ Returns a  **Long** indicating the gradient variant for the specified fill. Gene
 
  _expression_. **GradientVariant**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ### Return Value

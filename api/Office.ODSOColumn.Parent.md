@@ -32,7 +32,7 @@ Object
 
 
 [ODSOColumn Object](Office.ODSOColumn.md)
-#### Other resources
+
 
 
 [ODSOColumn Object Members](./overview/odsocolumn-members-office.md)

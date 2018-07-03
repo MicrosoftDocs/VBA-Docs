@@ -37,7 +37,7 @@ The specific class for this property depends on the host application.
 
 
 [CustomTaskPane Object](Office.CustomTaskPane.md)
-#### Other resources
+
 
 
 [CustomTaskPane Object Members](./overview/customtaskpane-members-office.md)

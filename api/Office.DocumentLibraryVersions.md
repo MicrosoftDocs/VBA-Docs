@@ -82,7 +82,7 @@ Dim dlvVersions As Office.DocumentLibraryVersions
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

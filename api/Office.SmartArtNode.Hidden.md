@@ -10,22 +10,18 @@ ms.date: 06/08/2017
 
 # SmartArtNode.Hidden Property (Office)
 
-Returns  **true** if this node is a hidden node in the data model. Read-only
+Returns **true** if this node is a hidden node in the data model. Read-only.
 
 
 ## Syntax
 
- _expression_. `Hidden`
+_expression_. `Hidden`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

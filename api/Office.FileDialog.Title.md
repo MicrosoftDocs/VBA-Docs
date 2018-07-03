@@ -30,7 +30,7 @@ Sets or gets the title of a file dialog box displayed using the  **FileDialog** 
 
 
 [FileDialog Object](Office.FileDialog.md)
-#### Other resources
+
 
 
 [FileDialog Object Members](overview/filedialog-members-office.md)

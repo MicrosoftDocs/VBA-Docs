@@ -48,7 +48,7 @@ The  **SmartDocument** object model is available whether or not a document has a
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

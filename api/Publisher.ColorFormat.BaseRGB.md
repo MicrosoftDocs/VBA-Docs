@@ -20,7 +20,7 @@ Returns or sets an  **MsoRGBType** constant that represents the original RGB col
 
  _expression_. **BaseRGB**
 
- _expression_A variable that represents a  **ColorFormat** object.
+ _expression_ A variable that represents a  **ColorFormat** object.
 
 
 ### Return Value

@@ -29,7 +29,7 @@ ThemeEffectScheme
 
 
 [OfficeTheme Object](Office.OfficeTheme.md)
-#### Other resources
+
 
 
 [OfficeTheme Object Members](./overview/officetheme-members-office.md)

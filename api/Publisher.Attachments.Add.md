@@ -20,7 +20,7 @@ Adds an  **Attachment** object to the **Attachments** collection of a Microsoft 
 
  _expression_. **Add**( **_Filename_**)
 
- _expression_A variable that represents an  **Attachments** colleciton.
+ _expression_ A variable that represents an  **Attachments** colleciton.
 
 
 ### Parameters

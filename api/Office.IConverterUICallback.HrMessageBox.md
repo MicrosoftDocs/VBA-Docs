@@ -43,7 +43,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 [IConverterUICallback Object](Office.IConverterUICallback.md)
-#### Other resources
+
 
 
 [IConverterUICallback Object Members](./overview/iconverteruicallback-members-office.md)

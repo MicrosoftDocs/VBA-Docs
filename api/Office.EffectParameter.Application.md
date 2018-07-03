@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [EffectParameter Object](Office.EffectParameter.md)
-#### Other resources
+
 
 
 [EffectParameter Object Members](./overview/effectparameter-members-office.md)

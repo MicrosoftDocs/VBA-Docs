@@ -20,7 +20,7 @@ Returns a  **Long** that represents, in dots per inch (dpi), the resolution at w
 
  _expression_. **OriginalResolution**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_ A variable that represents an  **PictureFormat** object.
 
 
 ### Return Value

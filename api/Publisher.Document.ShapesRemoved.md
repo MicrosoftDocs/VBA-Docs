@@ -20,7 +20,7 @@ Occurs when a shape is deleted from a publication.
 
  _expression_. **ShapesRemoved**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ## Example

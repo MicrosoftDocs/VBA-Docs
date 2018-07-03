@@ -32,7 +32,7 @@ Long
 
 
 [DocumentLibraryVersion Object](Office.DocumentLibraryVersion.md)
-#### Other resources
+
 
 
 [DocumentLibraryVersion Object Members](./overview/documentlibraryversion-members-office.md)

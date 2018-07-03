@@ -18,7 +18,7 @@ Returns or sets a  **Variant** that identifies the column in a **[ComboBox](Outl
 
  _expression_. **TextColumn**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

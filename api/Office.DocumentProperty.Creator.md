@@ -40,7 +40,7 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentPro
 
 
 [DocumentProperty Object](Office.DocumentProperty.md)
-#### Other resources
+
 
 
 [DocumentProperty Object Members](./overview/documentproperty-members-office.md)

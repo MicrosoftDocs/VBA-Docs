@@ -24,7 +24,7 @@ Returns the calling object. Read-only
 
 
 [SmartArtQuickStyle Object](Office.SmartArtQuickStyle.md)
-#### Other resources
+
 
 
 [SmartArtQuickStyle Object Members](./overview/smartartquickstyle-members-office.md)

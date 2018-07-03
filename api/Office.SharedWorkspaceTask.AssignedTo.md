@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets a value containing the name of the one assigned to the task represented by the  **SharedWorkspaceTask** object. Read/write.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ String
 
 
 [SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTask Object Members](./overview/sharedworkspacetask-members-office.md)

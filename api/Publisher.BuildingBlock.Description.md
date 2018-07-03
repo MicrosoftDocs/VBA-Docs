@@ -17,6 +17,6 @@ Gets or sets a string that represents the description of the building block. Rea
 
  _expression_. **Description**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_ A variable that represents a  **BuildingBlock** object.
 
 

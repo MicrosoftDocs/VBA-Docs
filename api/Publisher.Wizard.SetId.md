@@ -20,7 +20,7 @@ Specifies the type of the wizard (template) to which to convert the current publ
 
  _expression_. **SetId**( **_ID_**)
 
- _expression_A variable that represents a  **Wizard** object.
+ _expression_ A variable that represents a  **Wizard** object.
 
 
 ### Parameters

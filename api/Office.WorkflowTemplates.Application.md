@@ -29,7 +29,7 @@ Object
 
 
 [WorkflowTemplates Object](Office.WorkflowTemplates.md)
-#### Other resources
+
 
 
 [WorkflowTemplates Object Members](./overview/workflowtemplates-members-office.md)

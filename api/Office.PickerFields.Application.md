@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [PickerFields Object](Office.PickerFields.md)
-#### Other resources
+
 
 
 [PickerFields Object Members](./overview/pickerfields-members-office.md)

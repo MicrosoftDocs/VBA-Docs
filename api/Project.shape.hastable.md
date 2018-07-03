@@ -25,7 +25,7 @@ Gets a value that indicates whether the shape contains a table. Read-only  **[Ms
 
 
 [Table Object](Project.Table.md)
-#### Other resources
+
 
 
 [Shape Object](Project.shape.md)

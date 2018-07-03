@@ -32,7 +32,7 @@ This feature is only available in the Open XML Format SDK.
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

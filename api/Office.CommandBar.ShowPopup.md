@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Displays a command bar as a shortcut menu at the specified coordinates or at the current pointer coordinates.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -60,18 +57,15 @@ End With
 myBar.ShowPopup
 ```
 
-
- **Note**  
-
-
- **Note**  If the  **Position** property of the command bar is not set to **msoBarPopup**, this method fails.
+> [!NOTE]
+> If the  **Position** property of the command bar is not set to **msoBarPopup**, this method fails.
 
 
 ## See also
 
 
 [CommandBar Object](Office.CommandBar.md)
-#### Other resources
+
 
 
 [CommandBar Object Members](./overview/commandbar-members-office.md)

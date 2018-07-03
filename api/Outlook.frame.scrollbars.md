@@ -18,7 +18,7 @@ Returns or sets an  **Integer** that specifies whether a control has vertical sc
 
  _expression_. **ScrollBars**
 
- _expression_A variable that represents a  **Frame** object.
+ _expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

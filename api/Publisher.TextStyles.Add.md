@@ -20,7 +20,7 @@ Adds a new  **TextStyle** object to the specified **TextStyles** object and retu
 
  _expression_. **Add**( **_Font_**,  **_ParagraphFormat_**,  **_StyleName_**,  **_BasedOn_**)
 
- _expression_A variable that represents a  **TextStyles** object.
+ _expression_ A variable that represents a  **TextStyles** object.
 
 
 ### Parameters

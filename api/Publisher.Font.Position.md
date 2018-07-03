@@ -20,7 +20,7 @@ Returns or sets a  **Variant** representing the font position relative to the ba
 
  _expression_. **Position**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ## Example

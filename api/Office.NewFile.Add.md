@@ -38,7 +38,7 @@ Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to i
 
 
 [NewFile Object](Office.NewFile.md)
-#### Other resources
+
 
 
 [NewFile Object Members](overview/newfile-members-office.md)

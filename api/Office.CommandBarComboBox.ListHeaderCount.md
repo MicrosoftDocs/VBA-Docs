@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets or sets the number of list items in a  **CommandBarComboBox** control that appears above the separator line. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -31,8 +28,8 @@ Gets or sets the number of list items in a  **CommandBarComboBox** control that 
 
 ## Remarks
 
-
- **Note**  This property is read-only for built-in combo box controls.
+> [!NOTE]
+> This property is read-only for built-in combo box controls.
 
 A  **ListHeaderCount** property value of - 1 indicates that there's no separator line in the combo box control.
 
@@ -59,7 +56,7 @@ End With
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)

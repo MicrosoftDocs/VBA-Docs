@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether a value entered in the tex
 
  _expression_. **MatchRequired**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

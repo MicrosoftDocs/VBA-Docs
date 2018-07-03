@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtNod
 
 
 [SmartArtNodes Object](Office.SmartArtNodes.md)
-#### Other resources
+
 
 
 [SmartArtNodes Object Members](./overview/smartartnodes-members-office.md)

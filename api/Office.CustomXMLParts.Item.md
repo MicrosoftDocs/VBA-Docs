@@ -40,7 +40,7 @@ CustomXMLPart
 
 
 [CustomXMLParts Object](Office.CustomXMLParts.md)
-#### Other resources
+
 
 
 [CustomXMLParts Object Members](./overview/customxmlparts-members-office.md)

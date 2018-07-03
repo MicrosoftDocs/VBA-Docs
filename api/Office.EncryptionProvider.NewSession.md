@@ -45,7 +45,7 @@ This method is called by your COM add-in.
 
 
 [EncryptionProvider Object](Office.EncryptionProvider.md)
-#### Other resources
+
 
 
 [EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)

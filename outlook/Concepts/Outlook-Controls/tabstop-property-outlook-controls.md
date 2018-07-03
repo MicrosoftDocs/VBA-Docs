@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that indicates whether an object can receive focu
 
  _expression_. **TabStop**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

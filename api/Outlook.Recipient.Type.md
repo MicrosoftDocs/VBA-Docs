@@ -101,7 +101,7 @@ End Sub
 
 
 [Recipient Object](Outlook.Recipient.md)
-#### Other resources
+
 
 
 

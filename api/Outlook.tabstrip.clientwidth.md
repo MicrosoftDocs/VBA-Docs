@@ -18,7 +18,7 @@ Returns a  **Single** value that represents the width dimension of the display a
 
  _expression_. **ClientWidth**
 
- _expression_A variable that represents a  **TabStrip** object.
+ _expression_ A variable that represents a  **TabStrip** object.
 
 
 ## Remarks

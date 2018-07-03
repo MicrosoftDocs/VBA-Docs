@@ -43,7 +43,7 @@ This method is typically called by your COM add-in during a save operation.
 
 
 [EncryptionProvider Object](Office.EncryptionProvider.md)
-#### Other resources
+
 
 
 [EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)

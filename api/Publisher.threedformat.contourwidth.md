@@ -18,7 +18,7 @@ Returns or sets a  **Single** that represents the width of the contour of a shap
 
  _expression_. **ContourWidth**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_ A variable that represents a  **ThreeDFormat** object.
 
 
 ## Return value

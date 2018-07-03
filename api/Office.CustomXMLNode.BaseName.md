@@ -37,7 +37,7 @@ This is the default member of  **CustomXMLNode** object.
 
 
 [CustomXMLNode Object](Office.CustomXMLNode.md)
-#### Other resources
+
 
 
 [CustomXMLNode Object Members](./overview/customxmlnode-members-office.md)

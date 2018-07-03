@@ -20,7 +20,7 @@ Returns or sets a  **Variant** that represents the width of the pages in a publi
 
  _expression_. **PageWidth**
 
- _expression_A variable that represents a  **PageSetup** object.
+ _expression_ A variable that represents a  **PageSetup** object.
 
 
 ### Return Value

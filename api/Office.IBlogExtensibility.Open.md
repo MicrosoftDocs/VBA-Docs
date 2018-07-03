@@ -43,7 +43,7 @@ Opens the blog specified by the blog ID. It is called by the  **Open Existing Po
 
 
 [IBlogExtensibility Object](Office.IBlogExtensibility.md)
-#### Other resources
+
 
 
 [IBlogExtensibility Object Members](./overview/iblogextensibility-members-office.md)

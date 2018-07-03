@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [PictureEffects Object](Office.PictureEffects.md)
-#### Other resources
+
 
 
 [PictureEffects Object Members](./overview/pictureeffects-members-office.md)

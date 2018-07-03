@@ -15,7 +15,7 @@ Returns or sets a  **String** that identifies the control. Read/write.
 
  _expression_. **Name**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

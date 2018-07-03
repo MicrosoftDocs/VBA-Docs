@@ -20,7 +20,7 @@ Returns or sets a  **Single** indicating the contrast for the specified picture 
 
  _expression_. **Contrast**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_ A variable that represents a  **PictureFormat** object.
 
 
 ### Return Value

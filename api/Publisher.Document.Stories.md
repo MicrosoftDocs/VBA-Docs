@@ -20,7 +20,7 @@ Returns a  **[Stories](Publisher.Stories.md)** collection containing all stories
 
  _expression_. **Stories**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ### Return Value

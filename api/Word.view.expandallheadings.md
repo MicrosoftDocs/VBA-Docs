@@ -35,7 +35,7 @@ This method corresponds to the  **Expand All Headings** command on the **Expand/
 
 
 [View Object](Word.View.md)
-#### Other resources
+
 
 
 [View Members](./overview/Word.md)

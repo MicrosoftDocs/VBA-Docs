@@ -24,7 +24,7 @@ Retrieves the primary category name associated with the SmartArt quick style. Re
 
 
 [SmartArtQuickStyle Object](Office.SmartArtQuickStyle.md)
-#### Other resources
+
 
 
 [SmartArtQuickStyle Object Members](./overview/smartartquickstyle-members-office.md)

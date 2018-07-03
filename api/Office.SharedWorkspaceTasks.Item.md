@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shared workspace. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shar
 
 
 [SharedWorkspaceTasks Object](Office.SharedWorkspaceTasks.md)
-#### Other resources
+
 
 
 [SharedWorkspaceTasks Object Members](overview/sharedworkspacetasks-members-office.md)

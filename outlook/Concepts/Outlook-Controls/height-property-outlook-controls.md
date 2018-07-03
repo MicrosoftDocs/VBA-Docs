@@ -18,7 +18,7 @@ Returns or sets a  **Single** that specifies the height, in points, of the contr
 
  _expression_. **Height**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

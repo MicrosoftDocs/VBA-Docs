@@ -24,7 +24,7 @@ Gets a 32-bit integer that indicates the application in which the  **EffectParam
 
 
 [EffectParameters Object](Office.EffectParameters.md)
-#### Other resources
+
 
 
 [EffectParameters Object Members](./overview/effectparameters-members-office.md)

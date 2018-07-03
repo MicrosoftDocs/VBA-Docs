@@ -3,7 +3,8 @@
 
 This reference contains conceptual overviews, programming tasks, samples, and references to help you develop Excel solutions.
 
- >**Note**  Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](https://dev.office.com/docs/add-ins/excel/excel-add-ins-overview?product=excel).
+> [!NOTE] 
+> Interested in developing solutions that extend the Office experience across [multiple platforms](https://dev.office.com/add-in-availability)? Check out the new [Office Add-ins model](https://dev.office.com/docs/add-ins/excel/excel-add-ins-overview?product=excel).
 
 - [Getting Started with VBA in Office](../../Library-Reference/Concepts/getting-started-with-vba-in-office.md): Provides insight into how VBA programming can help to customize Office solutions.
     

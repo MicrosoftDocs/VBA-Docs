@@ -20,7 +20,7 @@ Returns an  **MsoTristate** that represents whether or not text will be position
 
  _expression_. **LockToBaseLine**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ### Return Value

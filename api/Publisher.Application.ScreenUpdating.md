@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** indicating whether Microsoft Publisher refreshes 
 
  _expression_. **ScreenUpdating**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_ A variable that represents a  **Application** object.
 
 
 ### Return Value

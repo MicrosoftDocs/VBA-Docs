@@ -32,7 +32,7 @@ Object
 
 
 [UserPermission Object](Office.UserPermission.md)
-#### Other resources
+
 
 
 [UserPermission Object Members](./overview/userpermission-members-office.md)

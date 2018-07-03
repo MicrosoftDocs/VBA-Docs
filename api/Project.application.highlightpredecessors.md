@@ -55,7 +55,7 @@ Application.HighlightPredecessors True
 
 
 [Application Object](Project.Application.md)
-#### Other resources
+
 
 
 [Task.PathPredecessor Property](Project.task.pathpredecessor.md)

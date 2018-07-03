@@ -24,7 +24,7 @@ Retrieves the string name of the  **EffectParameter** parameter. Read-only
 
 
 [EffectParameter Object](Office.EffectParameter.md)
-#### Other resources
+
 
 
 [EffectParameter Object Members](./overview/effectparameter-members-office.md)

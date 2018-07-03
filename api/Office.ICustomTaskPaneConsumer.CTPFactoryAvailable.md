@@ -52,14 +52,15 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 ```
 
 
- **Note**  You can create custom task panes in any language that supports COM and allows you to create dynamic-linked library (DLL) files. For example, Microsoft Visual Basic® 6.0, Microsoft Visual Basic .NET, Microsoft Visual C++®, Microsoft Visual C++ .NET, and Microsoft Visual C#®. However, Microsoft Visual Basic for Applications (VBA) does not support creating custom task panes. 
+> [!NOTE] 
+> You can create custom task panes in any language that supports COM and allows you to create dynamic-linked library (DLL) files. For example, Microsoft Visual Basic® 6.0, Microsoft Visual Basic .NET, Microsoft Visual C++®, Microsoft Visual C++ .NET, and Microsoft Visual C#®. However, Microsoft Visual Basic for Applications (VBA) does not support creating custom task panes. 
 
 
 ## See also
 
 
 [ICustomTaskPaneConsumer Object](Office.ICustomTaskPaneConsumer.md)
-#### Other resources
+
 
 
 [ICustomTaskPaneConsumer Object Members](./overview/icustomtaskpaneconsumer-members-office.md)

@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the number of degrees the specifie
 
  _expression_. **Rotation**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Remarks

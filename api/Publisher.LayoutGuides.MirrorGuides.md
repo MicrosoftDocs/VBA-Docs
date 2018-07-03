@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** indicating whether Microsoft Publisher creates mi
 
  _expression_. **MirrorGuides**
 
- _expression_A variable that represents a  **LayoutGuides** object.
+ _expression_ A variable that represents a  **LayoutGuides** object.
 
 
 ### Return Value

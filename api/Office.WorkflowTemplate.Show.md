@@ -57,7 +57,7 @@ End Sub
 
 
 [WorkflowTemplate Object](Office.WorkflowTemplate.md)
-#### Other resources
+
 
 
 [WorkflowTemplate Object Members](./overview/workflowtemplate-members-office.md)

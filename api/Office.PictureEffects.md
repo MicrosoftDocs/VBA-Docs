@@ -52,7 +52,6 @@ End Sub
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
 
 
 [PictureEffects Object Members](./overview/pictureeffects-members-office.md)

@@ -29,7 +29,7 @@ Long
 
 
 [CustomXMLSchemaCollection Object](Office.CustomXMLSchemaCollection.md)
-#### Other resources
+
 
 
 [CustomXMLSchemaCollection Object Members](./overview/customxmlschemacollection-members-office.md)

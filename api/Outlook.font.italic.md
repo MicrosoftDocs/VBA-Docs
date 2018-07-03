@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether text is normal or italic. 
 
  _expression_. **Italic**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ## Remarks

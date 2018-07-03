@@ -20,7 +20,7 @@ Inserts a new segment after the specified node of the freeform drawing.
 
  _expression_. **Insert**( **_Index_**,  **_SegmentType_**,  **_EditingType_**,  **_X1_**,  **_Y1_**,  **_X2_**,  **_Y2_**,  **_X3_**,  **_Y3_**)
 
- _expression_A variable that represents a  **ShapeNodes** object.
+ _expression_ A variable that represents a  **ShapeNodes** object.
 
 
 ### Parameters

@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 A collection of  **CommandBar** objects that represent the command bars in the container application.
 
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Example
@@ -49,15 +49,14 @@ Use enumName, where  _index_ is the name or index number of a command bar, to re
 CommandBars("Custom1").Position = msoBarBottom
 ```
 
-
- **Note**  You can use the name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use the name to specify a menu, shortcut menu, or submenu (all of which are represented by  **CommandBar** objects). If two or more custom menus or submenus have the same name, enumName returns the first one. To ensure that you return the correct menu or submenu, locate the pop-up control that displays that menu. Then apply the **CommandBar** property to the pop-up control to return the command bar that represents that menu.
+> [!NOTE] 
+> You can use the name or index number to specify a menu bar or toolbar in the list of available menu bars and toolbars in the container application. However, you must use the name to specify a menu, shortcut menu, or submenu (all of which are represented by  **CommandBar** objects). If two or more custom menus or submenus have the same name, enumName returns the first one. To ensure that you return the correct menu or submenu, locate the pop-up control that displays that menu. Then apply the **CommandBar** property to the pop-up control to return the command bar that represents that menu.
 
 
 ## See also
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
 
 
 [CommandBars Object Members](./overview/commandbars-members-office.md)

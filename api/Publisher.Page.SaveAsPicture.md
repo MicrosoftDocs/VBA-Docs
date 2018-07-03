@@ -20,7 +20,7 @@ Saves a page as a picture file.
 
  _expression_. **SaveAsPicture**( **_Filename_**,  **_pbResolution_**)
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ### Parameters

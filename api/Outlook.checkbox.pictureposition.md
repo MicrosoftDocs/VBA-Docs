@@ -18,7 +18,7 @@ Returns or sets an  **Integer** that specifies the location of the picture relat
 
  _expression_. **PicturePosition**
 
- _expression_A variable that represents a  **CheckBox** object.
+ _expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that specifies whether a control takes the focus 
 
  _expression_. **TakeFocusOnClick**
 
- _expression_A variable that represents a  **CommandButton** object.
+ _expression_ A variable that represents a  **CommandButton** object.
 
 
 ## Remarks

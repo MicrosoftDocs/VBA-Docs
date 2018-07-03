@@ -20,7 +20,7 @@ Returns a  **Long** indicating the number of pages in the specified reader sprea
 
  _expression_. **PageCount**
 
- _expression_A variable that represents a  **ReaderSpread** object.
+ _expression_ A variable that represents a  **ReaderSpread** object.
 
 
 ### Return Value

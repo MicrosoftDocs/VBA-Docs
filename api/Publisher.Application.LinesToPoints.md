@@ -20,7 +20,7 @@ Converts a measurement from lines to points (1 line = 12 points). Returns the co
 
  _expression_. **LinesToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ### Parameters

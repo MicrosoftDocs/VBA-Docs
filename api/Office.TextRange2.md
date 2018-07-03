@@ -41,8 +41,6 @@ End With
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
-
 
 [TextRange2 Object Members](./overview/textrange2-members-office.md)
 

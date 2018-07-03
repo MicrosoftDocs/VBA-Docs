@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value used to scale the width of the characters i
 
  _expression_. **Scaling**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ### Return Value

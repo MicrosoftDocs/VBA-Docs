@@ -18,7 +18,7 @@ Returns or sets a  **Long** that specifies the foreground color of an object. Re
 
  _expression_. **ForeColor**
 
- _expression_A variable that represents a  **CheckBox** object.
+ _expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

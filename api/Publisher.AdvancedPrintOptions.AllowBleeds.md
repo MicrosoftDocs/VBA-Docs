@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **AllowBleeds**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
 ### Return Value

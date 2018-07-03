@@ -42,7 +42,7 @@ Returns the list and details of user blogs associated with the specified account
 
 
 [IBlogExtensibility Object](Office.IBlogExtensibility.md)
-#### Other resources
+
 
 
 [IBlogExtensibility Object Members](./overview/iblogextensibility-members-office.md)

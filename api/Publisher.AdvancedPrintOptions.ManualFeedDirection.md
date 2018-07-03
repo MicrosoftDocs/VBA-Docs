@@ -20,7 +20,7 @@ Gets or sets the orientation (landscape or portrait) of how envelopes are fed to
 
  _expression_. **ManualFeedDirection**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
 ### Return Value

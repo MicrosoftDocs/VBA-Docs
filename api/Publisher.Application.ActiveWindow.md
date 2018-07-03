@@ -20,7 +20,7 @@ Returns a  **[Window](Publisher.Window.md)** object that represents the window w
 
  _expression_. **ActiveWindow**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ## Example

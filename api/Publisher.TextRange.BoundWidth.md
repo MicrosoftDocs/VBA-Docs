@@ -20,7 +20,7 @@ Returns a  **Single** indicating the width, in points, of the bounding box for t
 
  _expression_. **BoundWidth**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Return Value

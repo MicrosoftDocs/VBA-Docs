@@ -29,7 +29,7 @@ Object
 
 
 [FileDialog Object](Office.FileDialog.md)
-#### Other resources
+
 
 
 [FileDialog Object Members](./overview/filedialog-members-office.md)

@@ -20,7 +20,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a connector to t
 
  _expression_. **AddConnector**( **_Type_**,  **_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_ A variable that represents a  **Shapes** object.
 
 
 ### Parameters

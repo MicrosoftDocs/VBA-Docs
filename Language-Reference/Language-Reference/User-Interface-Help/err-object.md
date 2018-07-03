@@ -56,7 +56,7 @@ End If
 
 [Handle Run-Time Errors in VBA](../../../access/Concepts/Error-Codes/elements-of-run-time-error-handling.md)
 
-#### Other resources
+
 
 [Raise Method](raise-method.md)
 [Trappable Errors](trappable-errors.md)

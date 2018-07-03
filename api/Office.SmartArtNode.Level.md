@@ -10,44 +10,30 @@ ms.date: 06/08/2017
 
 # SmartArtNode.Level Property (Office)
 
-Retrieves the node's level in the hierarchy. Read-only
+Retrieves the node's level in the hierarchy. Read-only.
 
 
 ## Syntax
 
- _expression_. `Level`
+_expression_. `Level`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
 ## Remarks
 
-The levels start at 1 and increment upward. If a node has no level, then a 0 is returned. For example, in the following data model, A and F have a level of 1, B and D have a level of 2, and C and E have a level of 3.
+The levels start at 1 and increment upward. If a node has no level, a 0 is returned. For example, in the following data model, A and F have a level of 1, B and D have a level of 2, and C and E have a level of 3.
 
-
-- A
-    
-- 
-      - B
-    
-  - 
-      - C
-    
-  - D
-    
-- 
-      - 
-      - E
-    
+- A   
+  - B 
+    - C    
+  - D    
+    - E    
 - F
     
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

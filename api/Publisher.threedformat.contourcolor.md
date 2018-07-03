@@ -18,7 +18,7 @@ Returns or sets a  **ColorFormat** object that represents color of the contour o
 
  _expression_. **ContourColor**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_ A variable that represents a  **ThreeDFormat** object.
 
 
 ## Return value

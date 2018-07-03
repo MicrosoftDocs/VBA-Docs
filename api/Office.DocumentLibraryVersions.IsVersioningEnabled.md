@@ -53,7 +53,7 @@ The following example displays the number of saved versions of the active docume
 
 
 [DocumentLibraryVersions Object](Office.DocumentLibraryVersions.md)
-#### Other resources
+
 
 
 [DocumentLibraryVersions Object Members](./overview/documentlibraryversions-members-office.md)

@@ -32,7 +32,7 @@ String
 
 
 [DocumentInspector Object](Office.DocumentInspector.md)
-#### Other resources
+
 
 
 [DocumentInspector Object Members](./overview/documentinspector-members-office.md)

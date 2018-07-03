@@ -17,7 +17,7 @@ Returns an  **Application** object that represents the creator of the parent **M
 
  _expression_. **Application**
 
- _expression_A variable that represents a  **MailMergeDataSources** collection.
+ _expression_ A variable that represents a  **MailMergeDataSources** collection.
 
 
 ### Return Value

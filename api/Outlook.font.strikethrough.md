@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether the text appears with stri
 
  _expression_. **Strikethrough**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ## Remarks

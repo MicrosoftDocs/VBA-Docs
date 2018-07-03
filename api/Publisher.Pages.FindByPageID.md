@@ -20,7 +20,7 @@ Returns a  **[Page](Publisher.Page.md)** object that represents the page with th
 
  _expression_. **FindByPageID**( **_PageID_**)
 
- _expression_A variable that represents a  **Pages** object.
+ _expression_ A variable that represents a  **Pages** object.
 
 
 ### Parameters

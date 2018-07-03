@@ -20,7 +20,7 @@ Returns an  **MsoPresetGradientType** constant that represents the preset gradie
 
  _expression_. **PresetGradientType**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Quits Microsoft Publisher. This is equivalent to clicking  **Exit** on the **Fil
 
  _expression_. **Quit**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_ A variable that represents an  **Application** object.
 
 
 ## Remarks

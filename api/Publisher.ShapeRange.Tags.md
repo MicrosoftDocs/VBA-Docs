@@ -20,7 +20,7 @@ Returns a  **[Tags](Publisher.Tags.md)** collection representing tags or custom 
 
  _expression_. **Tags**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_ A variable that represents a  **ShapeRange** object.
 
 
 ## Example

@@ -40,7 +40,7 @@ During a save operation, the  **CloneSession** method is called by your COM add-
 
 
 [EncryptionProvider Object](Office.EncryptionProvider.md)
-#### Other resources
+
 
 
 [EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)

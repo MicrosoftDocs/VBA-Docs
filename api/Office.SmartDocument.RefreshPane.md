@@ -49,7 +49,7 @@ The following example determines whether the active Excel workbook has an XML ex
 
 
 [SmartDocument Object](Office.SmartDocument.md)
-#### Other resources
+
 
 
 [SmartDocument Object Members](./overview/smartdocument-members-office.md)

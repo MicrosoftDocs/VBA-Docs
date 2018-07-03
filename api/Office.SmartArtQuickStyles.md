@@ -45,7 +45,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.QuickStyle = Application.SmartAr
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

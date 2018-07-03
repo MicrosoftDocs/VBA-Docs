@@ -18,7 +18,7 @@ Returns a  **Single** value that represents the location of the left edge of the
 
  _expression_. **ClientLeft**
 
- _expression_A variable that represents a  **TabStrip** object.
+ _expression_ A variable that represents a  **TabStrip** object.
 
 
 ## Remarks

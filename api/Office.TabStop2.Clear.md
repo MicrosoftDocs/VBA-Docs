@@ -35,7 +35,7 @@ ActiveDocument.Paragraphs(1).TabStops2(1).Clear
 
 
 [TabStop2 Object](Office.TabStop2.md)
-#### Other resources
+
 
 
 [TabStop2 Object Members](./overview/tabstop2-members-office.md)

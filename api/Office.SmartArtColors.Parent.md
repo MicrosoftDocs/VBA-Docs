@@ -24,7 +24,7 @@ Returns the calling object. Read-only
 
 
 [SmartArtColors Object](Office.SmartArtColors.md)
-#### Other resources
+
 
 
 [SmartArtColors Object Members](./overview/smartartcolors-members-office.md)

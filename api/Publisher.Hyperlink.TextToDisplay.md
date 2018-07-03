@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the text displayed for a hyperlink
 
  _expression_. **TextToDisplay**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_ A variable that represents a  **Hyperlink** object.
 
 
 ### Return Value

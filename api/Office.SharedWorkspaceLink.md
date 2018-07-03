@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Represents a URL link saved in a shared document workspace site.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Remarks
@@ -80,7 +80,7 @@ The following example modifies the first link in the shared workspace site to po
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

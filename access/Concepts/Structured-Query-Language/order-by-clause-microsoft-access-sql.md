@@ -11,16 +11,7 @@ ms.date: 06/08/2017
 
 # ORDER BY Clause (Microsoft Access SQL)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
-
- **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
-[ Example](#sectionSection2)
-[About the Contributors](#AboutContributors)
-
 
 Sorts a query's resulting records on a specified field or fields in ascending or descending order.
 
@@ -47,9 +38,6 @@ ORDER BY is optional. However, if you want your data displayed in sorted order, 
 
 The default sort order is ascending (A to Z, 0 to 9). Both of the following examples sort employee names in last name order:
 
-
-
-
 ```sql
 SELECT LastName, FirstName 
 FROM Employees 
@@ -60,9 +48,6 @@ ORDER BY LastName ASC;
 ```
 
 To sort in descending order (Z to A, 9 to 0), add the DESC reserved word to the end of each field you want to sort in descending order. The following example selects salaries and sorts them in descending order:
-
-
-
 
 ```sql
 SELECT LastName, Salary 
@@ -76,7 +61,7 @@ ORDER BY is usually the last item in an SQL statement.
 
 You can include additional fields in the ORDER BY clause. Records are sorted first by the first field listed after ORDER BY. Records that have equal values in that field are then sorted by the value in the second field listed, and so on.
 
- **Link provided by:**
+**Link provided by:**
 ![Community Member Icon](../../../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
 
 
@@ -86,12 +71,7 @@ You can include additional fields in the ORDER BY clause. Records are sorted fir
 ## Example
 <a name="sectionSection2"> </a>
 
-The SQL statement shown in the following example uses the ORDER BY clause to sort records by last name in descending order (Z-A).
-
-This example calls the EnumFields procedure, which you can find in the SELECT statement example.
-
-
-
+The SQL statement shown in the following example uses the ORDER BY clause to sort records by last name in descending order (Z-A). It calls the EnumFields procedure, which you can find in the SELECT statement example.
 
 ```vb
 Sub OrderByX() 
@@ -126,13 +106,14 @@ End Sub
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](http://www.bing.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 

@@ -12,11 +12,8 @@ ms.date: 06/08/2017
 
  **True** if the specified **CommandBar** or **CommandBarControl** is enabled. Read/write .
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -42,7 +39,7 @@ For built-in controls, if you set the  **Enabled** property to **True**, the app
 
 
 [CommandBarButton Object](Office.CommandBarButton.md)
-#### Other resources
+
 
 
 [CommandBarButton Object Members](overview/commandbarbutton-members-office.md)

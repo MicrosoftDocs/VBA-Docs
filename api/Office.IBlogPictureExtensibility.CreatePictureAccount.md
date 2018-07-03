@@ -40,7 +40,7 @@ Allows a picture provider to display the user interface needed to guide the user
 
 
 [IBlogPictureExtensibility Object](Office.IBlogPictureExtensibility.md)
-#### Other resources
+
 
 
 [IBlogPictureExtensibility Object Members](./overview/iblogpictureextensibility-members-office.md)

@@ -20,7 +20,7 @@ Formats the line spacing of specified paragraphs.
 
  _expression_. **SetLineSpacing**( **_Rule_**,  **_Spacing_**)
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ### Parameters

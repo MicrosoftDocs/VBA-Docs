@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [PickerResult Object](Office.PickerResult.md)
-#### Other resources
+
 
 
 [PickerResult Object Members](./overview/pickerresult-members-office.md)

@@ -24,7 +24,7 @@ Gets an  **Application** object that represents the container application for th
 
 
 [SmartArtColor Object](Office.SmartArtColor.md)
-#### Other resources
+
 
 
 [SmartArtColor Object Members](./overview/smartartcolor-members-office.md)

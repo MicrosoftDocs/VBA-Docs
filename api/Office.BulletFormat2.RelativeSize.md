@@ -29,7 +29,7 @@ Single
 
 
 [BulletFormat2 Object](Office.BulletFormat2.md)
-#### Other resources
+
 
 
 [BulletFormat2 Object Members](./overview/bulletformat2-members-office.md)

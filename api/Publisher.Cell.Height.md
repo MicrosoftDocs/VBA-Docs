@@ -20,7 +20,7 @@ Returns a  **Long** that represent the height (in cells) of a table, range of ce
 
  _expression_. **Height**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_ A variable that represents a  **Cell** object.
 
 
 ## Remarks

@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets a  **Boolean** value that indicates whether or not the active document is currently saved in and connected to a shared workspace. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -48,7 +48,7 @@ The following example checks the  **Connected** property to determine whether th
 
 
 [SharedWorkspace Object](Office.SharedWorkspace.md)
-#### Other resources
+
 
 
 [SharedWorkspace Object Members](./overview/sharedworkspace-members-office.md)

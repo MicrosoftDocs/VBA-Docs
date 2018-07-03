@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether to save personal informat
 
  _expression_. **RemovePersonalInformation**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ### Return Value

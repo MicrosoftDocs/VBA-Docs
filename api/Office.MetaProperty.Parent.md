@@ -32,7 +32,7 @@ Object
 
 
 [MetaProperty Object](Office.MetaProperty.md)
-#### Other resources
+
 
 
 [MetaProperty Object Members](./overview/metaproperty-members-office.md)

@@ -15,7 +15,7 @@ Returns or sets a  **String** that specifies the text that appears on the page. 
 
  _expression_. **Caption**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

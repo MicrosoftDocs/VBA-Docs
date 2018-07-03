@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Represents a signature provider add-in.
 
-
- **Note**  Signature providers are implemented exclusively in custom COM add-ins and cannot be implemented in Microsoft Visual Basic for Applications (VBA).
+> [!NOTE] 
+> Signature providers are implemented exclusively in custom COM add-ins and cannot be implemented in Microsoft Visual Basic for Applications (VBA).
 
 
 ## Methods
@@ -38,7 +38,7 @@ Represents a signature provider add-in.
 ## See also
 
 
-#### Other resources
+
 
 
 [Object Model Reference](./overview/reference-object-library-reference-for-office.md)

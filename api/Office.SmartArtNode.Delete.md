@@ -15,46 +15,33 @@ Removes the current SmartArt node.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Return Value
+### Return value
 
 Nothing
 
 
 ## Remarks
 
-When the node is deleted, the first child gets promoted. In the following data model: if B is deleted, the data model then looks like the following: 
+When the node is deleted, the first child gets promoted. In the following data model, if B is deleted, the data model then looks like the following: 
 
-
-- A
-    
-- 
-      - B
-    
-  - 
-      - C
-    
+- A    
+  - B    
+    - C    
 - D
     
-
 - A
-    
-- 
-      - C
-    
+  - C
 - D
+
     
 
 ## See also
 
-
-[SmartArtNode Object](Office.SmartArtNode.md)
-#### Other resources
-
-
-[SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object](Office.SmartArtNode.md)
+- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
 

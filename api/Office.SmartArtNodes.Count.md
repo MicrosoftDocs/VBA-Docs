@@ -24,7 +24,7 @@ Retrieves the number of  **SmartArtNode** objects contained within the **SmartAr
 
 
 [SmartArtNodes Object](Office.SmartArtNodes.md)
-#### Other resources
+
 
 
 [SmartArtNodes Object Members](./overview/smartartnodes-members-office.md)

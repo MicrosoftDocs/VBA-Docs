@@ -43,7 +43,6 @@ public string GetCustomUI(string RibbonID)
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
 
 
 [IRibbonExtensibility Object Members](./overview/iribbonextensibility-members-office.md)

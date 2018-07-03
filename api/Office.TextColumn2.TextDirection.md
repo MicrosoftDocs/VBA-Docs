@@ -34,7 +34,7 @@ Examples of MsoTextDirection include msoTextDirectionLeftToRight, msoTextDirecti
 
 
 [TextColumn2 Object](Office.TextColumn2.md)
-#### Other resources
+
 
 
 [TextColumn2 Object Members](./overview/textcolumn2-members-office.md)

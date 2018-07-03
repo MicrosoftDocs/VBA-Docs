@@ -20,7 +20,7 @@ Gets or sets whether to use a wizard for blank publications. Read/Write.
 
  _expression_. **UseWizardForBlankPublication**
 
- _expression_A variable that represents an  **Options** object.
+ _expression_ A variable that represents an  **Options** object.
 
 
 ### Return Value

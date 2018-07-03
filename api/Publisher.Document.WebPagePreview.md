@@ -20,7 +20,7 @@ Generates a Web page preview of the specified publication in Internet Explorer.
 
  _expression_. **WebPagePreview**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_ A variable that represents a  **Document** object.
 
 
 ## Remarks

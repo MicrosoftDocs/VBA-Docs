@@ -79,7 +79,7 @@ End Sub
 
 
 [Application Object](Outlook.Application.md)
-#### Other resources
+
 
 
 

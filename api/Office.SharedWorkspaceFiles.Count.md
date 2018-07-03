@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets a  **Long** indicating the number of items in the **SharedWorkspaceFiles** collection. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Long
 
 
 [SharedWorkspaceFiles Object](Office.SharedWorkspaceFiles.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFiles Object Members](./overview/sharedworkspacefiles-members-office.md)

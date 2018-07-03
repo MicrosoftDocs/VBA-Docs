@@ -20,7 +20,7 @@ Sets or returns a  **PbCellDiagonalType** constant that represents a cell that i
 
  _expression_. **Diagonal**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_ A variable that represents a  **Cell** object.
 
 
 ### Return Value

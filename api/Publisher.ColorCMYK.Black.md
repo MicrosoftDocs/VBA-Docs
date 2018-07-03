@@ -20,7 +20,7 @@ Sets or returns a  **Long** that represents the black component of a CMYK color.
 
  _expression_. **Black**
 
- _expression_A variable that represents a  **ColorCMYK** object.
+ _expression_ A variable that represents a  **ColorCMYK** object.
 
 
 ### Return Value

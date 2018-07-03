@@ -25,8 +25,6 @@ There is only one  **FileTypes** collection for all searches so it's important t
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
-
 
 [FileTypes Object Members](./overview/filetypes-members-office.md)
 

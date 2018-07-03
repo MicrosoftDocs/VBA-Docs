@@ -20,7 +20,7 @@ Returns or sets a  **Variant** that represents the right indent (in points) for 
 
  _expression_. **RightIndent**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
 ### Return Value

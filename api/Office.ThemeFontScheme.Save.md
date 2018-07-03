@@ -42,7 +42,7 @@ ThemeFontScheme.Save("C:\myThemeFontScheme.xml")
 
 
 [ThemeFontScheme Object](Office.ThemeFontScheme.md)
-#### Other resources
+
 
 
 [ThemeFontScheme Object Members](./overview/themefontscheme-members-office.md)

@@ -20,7 +20,7 @@ Deletes the specified object and places it on the Clipboard.
 
  _expression_. **Cut**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Return Value

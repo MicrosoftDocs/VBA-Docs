@@ -32,7 +32,6 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Layout = Application.SmartArtLay
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
 
 
 [SmartArtLayout Object Members](./overview/smartartlayout-members-office.md)

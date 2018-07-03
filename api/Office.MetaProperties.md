@@ -35,8 +35,6 @@ End Function
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
-
 
 [MetaProperties Object Members](./overview/metaproperties-members-office.md)
 

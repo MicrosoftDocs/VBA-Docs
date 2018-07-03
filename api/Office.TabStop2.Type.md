@@ -34,7 +34,7 @@ Examples of  **MsoTabStopType** types include **msoTabStopCenter**, **msoTabStop
 
 
 [TabStop2 Object](Office.TabStop2.md)
-#### Other resources
+
 
 
 [TabStop2 Object Members](./overview/tabstop2-members-office.md)

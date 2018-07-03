@@ -36,7 +36,7 @@ Deletes a filter object from the  **ODSOFilters** collection.
 
 
 [ODSOFilters Object](Office.ODSOFilters.md)
-#### Other resources
+
 
 
 [ODSOFilters Object Members](overview/odsofilters-members-office.md)

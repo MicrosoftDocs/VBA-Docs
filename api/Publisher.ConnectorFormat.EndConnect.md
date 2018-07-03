@@ -20,7 +20,7 @@ Attaches the end of the specified connector to a specified shape.
 
  _expression_. **EndConnect**( **_ConnectedShape_**,  **_ConnectionSite_**)
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_ A variable that represents a  **ConnectorFormat** object.
 
 
 ### Parameters

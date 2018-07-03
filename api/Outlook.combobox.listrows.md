@@ -18,7 +18,7 @@ Returns or sets a  **Long** that specifies the maximum number of rows to display
 
  _expression_. **ListRows**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

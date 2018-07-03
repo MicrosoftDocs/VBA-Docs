@@ -20,7 +20,7 @@ Sets or returns a  **String** that represents the subject for e-mail messages ge
 
  _expression_. **EmailSubject**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_ A variable that represents a  **Hyperlink** object.
 
 
 ## Example

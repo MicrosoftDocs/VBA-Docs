@@ -20,7 +20,7 @@ Returns a  **Boolean** value indicating whether the specified cell contains any 
 
  _expression_. **HasText**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_ A variable that represents a  **Cell** object.
 
 
 ## Example

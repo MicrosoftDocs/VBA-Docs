@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether a control can be edited. R
 
  _expression_. **Locked**
 
- _expression_A variable that represents a  **TextBox** object.
+ _expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

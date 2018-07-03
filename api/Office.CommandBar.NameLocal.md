@@ -15,11 +15,8 @@ ms.date: 06/08/2017
 
 Gets the name of a built-in command bar as it's displayed in the language version of the container application, or returns or sets the name of a custom command bar. Read/write.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE]
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -31,8 +28,8 @@ Gets the name of a built-in command bar as it's displayed in the language versio
 
 ## Remarks
 
-
- **Note**  If you attempt to set this property for a built-in command bar, an error occurs.
+> [!NOTE]
+> If you attempt to set this property for a built-in command bar, an error occurs.
 
 The local name of a built-in command bar is displayed in the title bar (when the command bar isn't docked) and in the list of available command bars, wherever that list is displayed in the container application.
 
@@ -56,7 +53,7 @@ End With
 
 
 [CommandBar Object](Office.CommandBar.md)
-#### Other resources
+
 
 
 [CommandBar Object Members](./overview/commandbar-members-office.md)

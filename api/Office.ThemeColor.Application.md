@@ -29,7 +29,7 @@ Object
 
 
 [ThemeColor Object](Office.ThemeColor.md)
-#### Other resources
+
 
 
 [ThemeColor Object Members](./overview/themecolor-members-office.md)

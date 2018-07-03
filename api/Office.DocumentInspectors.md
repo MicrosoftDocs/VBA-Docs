@@ -44,7 +44,6 @@ End Sub
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
 
 
 [DocumentInspectors Object Members](./overview/documentinspectors-members-office.md)

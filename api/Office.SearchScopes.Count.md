@@ -32,7 +32,7 @@ Long
 
 
 [SearchScopes Object](Office.SearchScopes.md)
-#### Other resources
+
 
 
 [SearchScopes Object Members](./overview/searchscopes-members-office.md)

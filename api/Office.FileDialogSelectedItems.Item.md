@@ -28,7 +28,7 @@ _Index_ Required. The index is one based.
 
 
 [FileDialogSelectedItems Object](Office.FileDialogSelectedItems.md)
-#### Other resources
+
 
 
 [FileDialogSelectedItems Object Members](overview/filedialogselecteditems-members-office.md)

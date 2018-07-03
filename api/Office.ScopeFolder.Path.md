@@ -62,7 +62,7 @@ End Sub
 
 
 [ScopeFolder Object](Office.ScopeFolder.md)
-#### Other resources
+
 
 
 [ScopeFolder Object Members](./overview/scopefolder-members-office.md)

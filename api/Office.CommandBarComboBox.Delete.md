@@ -32,7 +32,7 @@ Deletes  **CommandBarCombo** control object from its collection.
 
 
 [CommandBarComboBox Object](Office.CommandBarComboBox.md)
-#### Other resources
+
 
 
 [CommandBarComboBox Object Members](overview/commandbarcombobox-members-office.md)

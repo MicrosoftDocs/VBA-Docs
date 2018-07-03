@@ -52,7 +52,7 @@ MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 
 
 [SeriesCollection](Excel.SeriesCollection.md)
-#### Other resources
+
 
 
 [Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)

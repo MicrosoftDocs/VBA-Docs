@@ -18,7 +18,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object that represents th
 
  _expression_. **Color**
 
- _expression_A variable that represents a  **GlowFormat** object.
+ _expression_ A variable that represents a  **GlowFormat** object.
 
 
 ## Return value

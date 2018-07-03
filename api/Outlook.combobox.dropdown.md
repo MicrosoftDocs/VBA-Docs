@@ -18,7 +18,7 @@ Displays the list portion of a  **[ComboBox](Outlook.combobox.md)**.
 
  _expression_. **DropDown**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

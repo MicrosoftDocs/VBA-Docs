@@ -18,7 +18,7 @@ Returns or sets whether the fill rotates with the specified shape. Read/write.
 
  _expression_. **RotateWithObject**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ## Return value
@@ -40,7 +40,8 @@ The value returned by the  **RotateWithObject** property can be one of the ** [M
 The setting of the  **RotateWithObject** property corresponds to the setting of the **Rotate with shape** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface.
 
 
- **Note**  The  **Rotate with shape** box appears only if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
+> [!NOTE] 
+> The  **Rotate with shape** box appears only if you have either the **Gradient fill** or **Picture or texture fill** option buttons selected on the **Fill** pane of the **Format Shape** dialog box.
 
 
 ## See also

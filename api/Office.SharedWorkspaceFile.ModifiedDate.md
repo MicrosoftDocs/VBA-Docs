@@ -15,8 +15,8 @@ ms.date: 06/08/2017
 
 Gets the date and time when the  **SharedWorkspaceFile** object was last modified. Read-only.
 
-
- **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 
 ## Syntax
@@ -58,7 +58,7 @@ Dim swsFile As Office.SharedWorkspaceFile
 
 
 [SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-#### Other resources
+
 
 
 [SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)

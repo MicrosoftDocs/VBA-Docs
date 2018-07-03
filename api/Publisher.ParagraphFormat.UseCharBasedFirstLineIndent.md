@@ -20,7 +20,7 @@ Returns or sets an  **MsoTriState** constant that specifies whether a paragraph 
 
  _expression_. **UseCharBasedFirstLineIndent**
 
- _expression_A variable that represents an  **ParagraphFormat** object.
+ _expression_ A variable that represents an  **ParagraphFormat** object.
 
 
 ### Return Value

@@ -18,33 +18,30 @@ Activates the specified custom tab on the Microsoft Office Fluent Ribbon UI. Use
 
 ## Syntax
 
- _expression_. `ActivateTabQ`( `_ControlID_`, `_Namespace_` )
+ _expression_. `ActivateTabQ`(`ControlID`, `Namespace`)
 
  _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
 
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ControlID_|Required|**String**|Specifies the Id of the custom Ribbon tab to be activated.|
 | _Namespace_|Required|**String**|Specifies the namespace of the tab element.|
 
-### Return Value
+### Return value
 
 Nothing
 
 
 ## Example
 
-The following code activates the qualified tab "test:MyTab". It assumes that you have defined the tab in the Ribbon definition file (customUI.xml) file as follows. The subroutine that follows is called from the onLoad attribute of the <customUI> element in the customUI.xml file.
-
+The following code activates the qualified tab "test:MyTab". It assumes that you have defined the tab in the Ribbon definition file (customUI.xml) as follows. The subroutine that follows is called from the onLoad attribute of the `<customUI>` element in the customUI.xml file.
 
 - xmlns:test="testnamespace"
     
-- <tab idQ="test:MyTab" >
+- `<tab idQ="test:MyTab">`
     
 
 ```vb
@@ -58,10 +55,6 @@ End Sub
 
 ## See also
 
-
-[IRibbonUI Object](Office.IRibbonUI.md)
-#### Other resources
-
-
-[IRibbonUI Object Members](./overview/iribbonui-members-office.md)
+- [IRibbonUI Object](Office.IRibbonUI.md)
+- [IRibbonUI Object Members](./overview/iribbonui-members-office.md)
 

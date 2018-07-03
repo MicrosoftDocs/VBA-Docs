@@ -15,7 +15,7 @@ Removes a row from the list in a  **[ListBox](Outlook.listbox.md)**.
 
  _expression_. **RemoveItem**( **_pvargIndex_**)
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_ A variable that represents a  **ListBox** object.
 
 
 ### Parameters

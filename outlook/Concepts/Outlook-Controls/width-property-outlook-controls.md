@@ -18,7 +18,7 @@ Returns or sets a  **Single** that specifies the width, in points, of the contro
 
  _expression_. **Width**
 
- _expression_A variable that represents an Outlook control object.
+ _expression_ A variable that represents an Outlook control object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Returns or sets an  **MsoTriState** constant that represents the state of the **
 
  _expression_. **StrikeThrough**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_ A variable that represents a  **Font** object.
 
 
 ### Return Value

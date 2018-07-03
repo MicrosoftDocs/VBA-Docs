@@ -53,8 +53,6 @@ End If
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
-
 
 [LanguageSettings Object Members](./overview/languagesettings-members-office.md)
 

@@ -20,6 +20,6 @@ Returns a  **String** that represents the value of a mail merge data field recor
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_ A variable that represents a  **MailMergeDataField** object.
 
 

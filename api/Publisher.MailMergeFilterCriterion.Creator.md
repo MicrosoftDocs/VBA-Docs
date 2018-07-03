@@ -17,6 +17,6 @@ Returns a  **Long** that represents the application in which the specified objec
 
  _expression_. **Creator**
 
- _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+ _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
 

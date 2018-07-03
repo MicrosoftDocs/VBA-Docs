@@ -18,7 +18,7 @@ Returns or sets a  **String** that specifies the width of each column in a multi
 
  _expression_. **ColumnWidths**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

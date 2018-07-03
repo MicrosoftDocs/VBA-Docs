@@ -20,7 +20,7 @@ Returns  **True** if the device represented by the parent **Printer** object is 
 
  _expression_. **IsColor**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_ A variable that represents a  **Printer** object.
 
 
 ### Return Value

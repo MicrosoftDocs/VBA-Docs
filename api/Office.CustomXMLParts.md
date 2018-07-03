@@ -40,8 +40,6 @@ End Sub
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
-
 
 [CustomXMLParts Object Members](./overview/customxmlparts-members-office.md)
 

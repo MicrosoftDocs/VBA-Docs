@@ -18,7 +18,7 @@ Occurs when the user clicks inside the control.
 
  _expression_. **Click**
 
- _expression_A variable that represents a  **CheckBox** object.
+ _expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

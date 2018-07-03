@@ -20,7 +20,7 @@ Returns a  **WebNavigationBarHyperlinks** collection containing all of the hyper
 
  _expression_. **Links**
 
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
 ### Return Value

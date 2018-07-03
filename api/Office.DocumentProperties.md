@@ -27,8 +27,6 @@ Use  **BuiltinDocumentProperties(index)**, where _index_ is the index number of 
 
 
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
-#### Other resources
-
 
 [DocumentProperties Object Members](./overview/documentproperties-members-office.md)
 

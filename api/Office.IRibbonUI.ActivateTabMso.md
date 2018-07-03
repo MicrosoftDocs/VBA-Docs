@@ -54,7 +54,7 @@ End Sub
 
 
 [IRibbonUI Object](Office.IRibbonUI.md)
-#### Other resources
+
 
 
 [IRibbonUI Object Members](./overview/iribbonui-members-office.md)

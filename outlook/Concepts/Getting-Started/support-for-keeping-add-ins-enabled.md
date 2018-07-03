@@ -66,7 +66,8 @@ To block add-ins that are not managed by this policy setting, you must also conf
 
 <a name="bk_addresources"> </a>
 
-##See Also
-- [Concepts (Outlook VBA reference)](concepts-outlook-vba-reference.md)
+## See also
+
+- [Concepts (Outlook)](concepts-outlook-vba-reference.md)
     
 

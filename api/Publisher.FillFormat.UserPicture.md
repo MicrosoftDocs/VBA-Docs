@@ -20,7 +20,7 @@ Fills the specified shape with one large image.
 
  _expression_. **UserPicture**( **_PictureFile_**)
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_ A variable that represents a  **FillFormat** object.
 
 
 ### Parameters

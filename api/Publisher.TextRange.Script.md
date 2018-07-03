@@ -20,7 +20,7 @@ Returns a  **PbFontScriptType** constant that represents the font script for a t
 
  _expression_. **Script**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_ A variable that represents a  **TextRange** object.
 
 
 ### Return Value

@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents the keywords for a Web page within
 
  _expression_. **Keywords**
 
- _expression_A variable that represents a  **WebPageOptions** object.
+ _expression_ A variable that represents a  **WebPageOptions** object.
 
 
 ### Return Value

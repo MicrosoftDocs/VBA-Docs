@@ -11,22 +11,14 @@ ms.date: 06/08/2017
 
 # Avg Function (Microsoft Access SQL)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
-
- **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
-[ Example](#sectionSection2)
-
 
 Calculates the arithmetic mean of a set of values contained in a specified field on a query.
 
 ## Syntax
 <a name="sectionSection0"> </a>
 
- **Avg(** _expr_ **)**
+**Avg(** _expr_ **)**
 
 The  _expr_ placeholder represents a string expression identifying the field that contains the numeric data you want to average or an expression that performs a calculation using the data in that field. Operands in _expr_ can include the name of a table field, a constant, or a function (which can be either intrinsic or user-defined but not one of the other SQL aggregate functions).
 
@@ -47,9 +39,6 @@ You can use  **Avg** in a query expression and in the **SQL** property of a **Qu
 This example uses the Orders table to calculate the average freight charges for orders with freight charges over $100. 
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
-
-
-
 
 ```vb
 Sub AvgX() 
@@ -79,13 +68,14 @@ Sub AvgX()
 End Sub
 ```
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+- [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 

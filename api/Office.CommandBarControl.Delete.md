@@ -12,11 +12,8 @@ ms.date: 06/08/2017
 
 Deletes the  **CommandBarControl** object from its collection.
 
-
-
-
-
- **Note**  The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> [!NOTE] 
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
 
 
 ## Syntax
@@ -38,7 +35,7 @@ Deletes the  **CommandBarControl** object from its collection.
 
 
 [CommandBarControl Object](Office.CommandBarControl.md)
-#### Other resources
+
 
 
 [CommandBarControl Object Members](overview/commandbarcontrol-members-office.md)

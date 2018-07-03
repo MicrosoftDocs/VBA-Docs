@@ -18,7 +18,7 @@ Returns a  **Long** that represents the preferred horizontal position of the ins
 
  _expression_. **CurTargetX**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks
