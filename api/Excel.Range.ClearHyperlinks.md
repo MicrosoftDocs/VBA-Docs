@@ -36,5 +36,5 @@ Calling the  **ClearHyperlinks** method on the specified range is equivalent to 
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

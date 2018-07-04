@@ -33,5 +33,5 @@ Attempting to set this property to a value less than -1 or more than 1 results i
 ## See also
 
 
-[Border Object](Excel.Border(objec).md)
+[Border Object](Excel.Border(object).md)
 

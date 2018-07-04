@@ -31,5 +31,5 @@ Variant
 ## See also
 
 
-[SeriesLines Object](Excel.SeriesLines(objec).md)
+[SeriesLines Object](Excel.SeriesLines(object).md)
 

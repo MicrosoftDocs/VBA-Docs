@@ -38,7 +38,7 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 
 ## Remarks
 
-You cannot use the  **CompareSideBySideWith** method with the **[Application](Excel.Application(objec).md)** object or the **[ActiveWorkbook](Excel.Application.ActiveWorkbook.md)** property.
+You cannot use the  **CompareSideBySideWith** method with the **[Application](Excel.Application(object).md)** object or the **[ActiveWorkbook](Excel.Application.ActiveWorkbook.md)** property.
 
 
 ## See also

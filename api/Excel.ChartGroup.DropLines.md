@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.DropLines Property (Excel)
 
-Returns a  **[DropLines](Excel.DropLines(objec).md)** object that represents the drop lines for a series on a line chart or area chart. Applies only to line charts or area charts. Read-only.
+Returns a  **[DropLines](Excel.DropLines(object).md)** object that represents the drop lines for a series on a line chart or area chart. Applies only to line charts or area charts. Read-only.
 
 
 ## Syntax
@@ -43,5 +43,5 @@ End With
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

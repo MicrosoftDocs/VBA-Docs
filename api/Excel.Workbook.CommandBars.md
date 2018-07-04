@@ -25,7 +25,7 @@ Returns a  **[CommandBars](./Office.CommandBars.md)** object that represents the
 
 ## Remarks
 
-Used with the  **[Application](Excel.Application(objec).md)** object, this property returns the set of built-in and custom command bars available to the application.
+Used with the  **[Application](Excel.Application(object).md)** object, this property returns the set of built-in and custom command bars available to the application.
 
 When a workbook is embedded in another application and activated by the user by double-clicking the workbook, using this property with a  **[Workbook](Excel.Workbook.md)** object returns the set of Microsoft Excel command bars available within the other application. At all other times, using this property with a **Workbook** object returns **Nothing** .
 

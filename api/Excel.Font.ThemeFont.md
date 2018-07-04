@@ -26,5 +26,5 @@ Returns or sets the theme font in the applied font scheme that is associated wit
 ## See also
 
 
-[Font Object](Excel.Font(objec).md)
+[Font Object](Excel.Font(object).md)
 

@@ -25,11 +25,11 @@ Returns or sets a  **Variant** value that represents the name of the object.
 
 ## Remarks
 
-The name of a  **[Font](Excel.Font(objec).md)** object is a **String** .
+The name of a  **[Font](Excel.Font(object).md)** object is a **String** .
 
 
 ## See also
 
 
-[Font Object](Excel.Font(objec).md)
+[Font Object](Excel.Font(object).md)
 

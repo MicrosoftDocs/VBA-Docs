@@ -64,5 +64,5 @@ End Sub
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

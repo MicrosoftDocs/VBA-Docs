@@ -26,5 +26,5 @@ Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value t
 ## See also
 
 
-[LegendKey Object](Excel.LegendKey(objec).md)
+[LegendKey Object](Excel.LegendKey(object).md)
 

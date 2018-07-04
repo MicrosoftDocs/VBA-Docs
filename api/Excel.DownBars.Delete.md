@@ -31,5 +31,5 @@ Variant
 ## See also
 
 
-[DownBars Object](Excel.DownBars(objec).md)
+[DownBars Object](Excel.DownBars(object).md)
 

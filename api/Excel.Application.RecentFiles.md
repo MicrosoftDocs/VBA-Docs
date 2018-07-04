@@ -36,5 +36,5 @@ Application.RecentFiles.Maximum = 6
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

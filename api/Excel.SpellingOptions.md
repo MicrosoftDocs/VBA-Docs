@@ -18,7 +18,7 @@ Represents the various spell checking options for a worksheet.
 
 ## Remarks
 
-Use the  **[SpellingOptions](Excel.Application.SpellingOptions.md)** property of the **[Application](Excel.Application(objec).md)** object to return a **SpellingOptions** object.
+Use the  **[SpellingOptions](Excel.Application.SpellingOptions.md)** property of the **[Application](Excel.Application(object).md)** object to return a **SpellingOptions** object.
 
 Once a  **SpellingOptions** object is returned, you can use its following properties to set or return various spell checking options.
 

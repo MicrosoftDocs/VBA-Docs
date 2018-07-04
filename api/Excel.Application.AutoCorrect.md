@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AutoCorrect Property (Excel)
 
-Returns an  **[AutoCorrect](Excel.AutoCorrect(objec).md)** object that represents the Microsoft Excel AutoCorrect attributes. Read-only.
+Returns an  **[AutoCorrect](Excel.AutoCorrect(object).md)** object that represents the Microsoft Excel AutoCorrect attributes. Read-only.
 
 
 ## Syntax
@@ -38,5 +38,5 @@ End With
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

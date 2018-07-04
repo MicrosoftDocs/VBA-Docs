@@ -18,7 +18,7 @@ Represents the error-checking options for an application.
 
 ## Remarks
 
-Use the  **[ErrorCheckingOptions](Excel.Application.ErrorCheckingOptions.md)** property of the **[Application](Excel.Application(objec).md)** object to return an **ErrorCheckingOptions** object.
+Use the  **[ErrorCheckingOptions](Excel.Application.ErrorCheckingOptions.md)** property of the **[Application](Excel.Application(object).md)** object to return an **ErrorCheckingOptions** object.
 
 Reference the  **[Item](Excel.Errors.Item.md)** property of the **[Errors](Excel.Errors.md)** object to view a list of index values associated with error-checking options.
 

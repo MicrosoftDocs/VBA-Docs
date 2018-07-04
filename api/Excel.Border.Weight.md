@@ -36,5 +36,5 @@ Worksheets("Sheet1").Ovals(1).Border.Weight = xlMedium
 ## See also
 
 
-[Border Object](Excel.Border(objec).md)
+[Border Object](Excel.Border(object).md)
 

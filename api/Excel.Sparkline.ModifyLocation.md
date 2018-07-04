@@ -29,7 +29,7 @@ Modifies the location of a single sparkline.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Range_|Required| **[Range](Excel.Range(objec).md)**|The cell that contains the sparkline.|
+| _Range_|Required| **[Range](Excel.Range(object).md)**|The cell that contains the sparkline.|
 
 ### Return Value
 

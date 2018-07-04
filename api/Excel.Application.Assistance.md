@@ -31,5 +31,5 @@ The  **IAssistance** object allows developers to show custom help and help that 
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

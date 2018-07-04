@@ -30,7 +30,7 @@ Parses a range of data and breaks it into multiple cells. Distributes the conten
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ParseLine_|Optional| **Variant**|A string that contains left and right brackets to indicate where the cells should be split.|
-| _Destination_|Optional| **Variant**|A [Range](Excel.Range(objec).md) object that represents the upper-left corner of the destination range for the parsed data. If this argument is omitted, Microsoft Excel parses in place.|
+| _Destination_|Optional| **Variant**|A [Range](Excel.Range(object).md) object that represents the upper-left corner of the destination range for the parsed data. If this argument is omitted, Microsoft Excel parses in place.|
 
 ### Return Value
 
@@ -57,5 +57,5 @@ Worksheets("Sheet1").Columns("A").Parse _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

@@ -48,5 +48,5 @@ Charts(Array("Chart1", "Chart3", "Chart5")).Visible = False
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

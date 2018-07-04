@@ -35,5 +35,5 @@ Worksheets(1).ChartObjects(1).Chart _
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

@@ -29,7 +29,7 @@ Runs a macro or calls a function. This can be used to run a macro written in Vis
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Macro_|Optional| **Variant**|The macro to run. This can be either a string with the macro name, a  **[Range](Excel.Range(objec).md)** object indicating where the function is, or a register ID for a registered DLL (XLL) function. If a string is used, the string will be evaluated in the context of the active sheet.|
+| _Macro_|Optional| **Variant**|The macro to run. This can be either a string with the macro name, a  **[Range](Excel.Range(object).md)** object indicating where the function is, or a register ID for a registered DLL (XLL) function. If a string is used, the string will be evaluated in the context of the active sheet.|
 | _Arg1-Arg30_|Optional| **Variant**|An argument that should be passed to the function.|
 
 ### Return Value
@@ -47,5 +47,5 @@ The  **Run** method returns whatever the called macro returns.
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

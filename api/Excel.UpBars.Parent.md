@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[UpBars Object](Excel.UpBars(objec).md)
+[UpBars Object](Excel.UpBars(object).md)
 

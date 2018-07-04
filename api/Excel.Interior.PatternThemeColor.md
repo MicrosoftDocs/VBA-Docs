@@ -26,5 +26,5 @@ Returns or sets a theme color pattern for an  **Interior** object. Read/write **
 ## See also
 
 
-[Interior Object](Excel.Interior(objec).md)
+[Interior Object](Excel.Interior(object).md)
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # LegendEntries Object (Excel)
 
-A collection of all the  **[LegendEntry](Excel.LegendEntry(objec).md)** objects in the specified chart legend.
+A collection of all the  **[LegendEntry](Excel.LegendEntry(object).md)** objects in the specified chart legend.
 
 
 ## Remarks
 
- Each legend entry has two parts: the text of the entry, which is the name of the series or trendline associated with the legend entry; and the entry marker, which visually links the legend entry with its associated series or trendline in the chart. The formatting properties for the entry marker and its associated series or trendline are contained in the **[LegendKey](Excel.LegendKey(objec).md)** object.
+ Each legend entry has two parts: the text of the entry, which is the name of the series or trendline associated with the legend entry; and the entry marker, which visually links the legend entry with its associated series or trendline in the chart. The formatting properties for the entry marker and its associated series or trendline are contained in the **[LegendKey](Excel.LegendKey(object).md)** object.
 
 
 ## Example

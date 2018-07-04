@@ -41,7 +41,7 @@ Creates a new trendline.
 
 ### Return Value
 
-A  **[Trendline](Excel.Trendline(objec).md)** object that represents the new trendline.
+A  **[Trendline](Excel.Trendline(object).md)** object that represents the new trendline.
 
 
 ## Example

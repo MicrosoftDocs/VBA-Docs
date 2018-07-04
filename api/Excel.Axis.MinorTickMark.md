@@ -48,5 +48,5 @@ Charts("Chart1").Axes(xlValue).MinorTickMark = xlTickMarkInside
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

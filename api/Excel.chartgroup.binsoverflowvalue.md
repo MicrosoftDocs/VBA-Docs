@@ -24,5 +24,5 @@ If an [BinsOverflowEnabled](Excel.chartgroup.binsoverflowenabled.md) is **True**
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[ChartArea Object](Excel.ChartArea(objec).md)
+[ChartArea Object](Excel.ChartArea(object).md)
 

@@ -36,5 +36,5 @@ For more information about A1-style notation, see [How to: Refer to Cells and Ra
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

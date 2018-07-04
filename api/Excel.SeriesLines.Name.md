@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[SeriesLines Object](Excel.SeriesLines(objec).md)
+[SeriesLines Object](Excel.SeriesLines(object).md)
 

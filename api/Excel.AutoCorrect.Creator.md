@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[AutoCorrect Object](Excel.AutoCorrect(objec).md)
+[AutoCorrect Object](Excel.AutoCorrect(object).md)
 

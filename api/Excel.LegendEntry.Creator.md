@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[LegendEntry Object](Excel.LegendEntry(objec).md)
+[LegendEntry Object](Excel.LegendEntry(object).md)
 

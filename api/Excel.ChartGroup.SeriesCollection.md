@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.SeriesCollection Method (Excel)
 
-Returns an object that represents either a single series (a  **[Series](Excel.Series(objec).md)** object) or a collection of all the series (a **[SeriesCollection](Excel.SeriesCollection(object).md)** collection) in the chart or chart group.
+Returns an object that represents either a single series (a  **[Series](Excel.Series(object).md)** object) or a collection of all the series (a **[SeriesCollection](Excel.SeriesCollection(object).md)** collection) in the chart or chart group.
 
 
 ## Syntax
@@ -49,5 +49,5 @@ Charts("Chart1").SeriesCollection(1).HasDataLabels = True
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

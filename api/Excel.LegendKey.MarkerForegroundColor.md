@@ -26,5 +26,5 @@ Sets the marker foreground color as an RGB value or returns the corresponding co
 ## See also
 
 
-[LegendKey Object](Excel.LegendKey(objec).md)
+[LegendKey Object](Excel.LegendKey(object).md)
 

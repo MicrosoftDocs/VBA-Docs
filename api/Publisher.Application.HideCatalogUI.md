@@ -25,7 +25,7 @@ Occurs when the catalog of publication wizards is hidden in the Microsoft Publis
 
 ## Remarks
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example

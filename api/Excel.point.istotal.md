@@ -24,5 +24,5 @@ ms.prod: excel
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

@@ -37,5 +37,5 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

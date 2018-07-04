@@ -37,5 +37,5 @@ The value of this property can be set to an integer value from -90 to 90 degrees
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

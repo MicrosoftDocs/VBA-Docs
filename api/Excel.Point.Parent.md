@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

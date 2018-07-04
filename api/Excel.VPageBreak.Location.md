@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VPageBreak.Location Property (Excel)
 
-Returns the cell (a **Range** object) that defines the page-break location. Vertical page breaks are aligned with the left edge of the location cell. Read-only **[Range](Excel.Range(objec).md)** .
+Returns the cell (a **Range** object) that defines the page-break location. Vertical page breaks are aligned with the left edge of the location cell. Read-only **[Range](Excel.Range(object).md)** .
 
 
 ## Syntax

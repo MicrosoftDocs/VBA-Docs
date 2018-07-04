@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[TickLabels Object](Excel.TickLabels(objec).md)
+[TickLabels Object](Excel.TickLabels(object).md)
 

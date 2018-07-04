@@ -47,5 +47,5 @@ Worksheets("Sheet1").Range("B1").FormulaR1C1 = "=SQRT(R1C1)"
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

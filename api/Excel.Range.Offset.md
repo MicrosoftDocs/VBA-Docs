@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Offset Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents a range that?s offset from the specified range.
+Returns a  **[Range](Excel.Range(object).md)** object that represents a range that?s offset from the specified range.
 
 
 ## Syntax
@@ -58,5 +58,5 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

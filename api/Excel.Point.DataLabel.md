@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.DataLabel Property (Excel)
 
-Returns a  **[DataLabel](Excel.DataLabel(objec).md)** object that represents the data label associated with the point. Read-only.
+Returns a  **[DataLabel](Excel.DataLabel(object).md)** object that represents the data label associated with the point. Read-only.
 
 
 ## Syntax
@@ -40,5 +40,5 @@ End With
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

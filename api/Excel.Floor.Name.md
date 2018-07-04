@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[Floor Object](Excel.Floor(objec).md)
+[Floor Object](Excel.Floor(object).md)
 

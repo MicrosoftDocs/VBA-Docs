@@ -18,7 +18,7 @@ Represents an icon set conditional formatting rule.
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(objec).md)** collection. You can create an icon set formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** method or **[AddIconSetCondition](Excel.FormatConditions.AddIconSetCondition.md)** method of the **FormatConditions** collection.
+All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create an icon set formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** method or **[AddIconSetCondition](Excel.FormatConditions.AddIconSetCondition.md)** method of the **FormatConditions** collection.
 
 Each icon set contains three, four, or five icons. You use the  **[IconSets](Excel.Workbook.IconSets.md)** property of the **[Workbook](Excel.Workbook.md)** object to return an **[IconSets](Excel.IconSets.md)** object to specify one of the built-in icon sets. Each individual icon in the icon set is then assigned to a subset of the values of the range by the members of the **[IconCriteria](Excel.IconCriteria.md)** object. The type of threshold is also specified by this object.
 

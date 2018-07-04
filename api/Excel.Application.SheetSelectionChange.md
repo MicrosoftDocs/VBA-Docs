@@ -35,5 +35,5 @@ Occurs when the selection changes on any worksheet (doesn't occur if the selecti
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

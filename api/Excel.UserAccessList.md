@@ -18,7 +18,7 @@ A collection of  **[UserAccess](Excel.UserAccess.md)** objects that represent th
 
 ## Example
 
-Use the  **[Users](Excel.AllowEditRange.Users.md)** property of the protected **[Range](Excel.Range(objec).md)** object to return a **UserAccessList** collection.
+Use the  **[Users](Excel.AllowEditRange.Users.md)** property of the protected **[Range](Excel.Range(object).md)** object to return a **UserAccessList** collection.
 
 
 

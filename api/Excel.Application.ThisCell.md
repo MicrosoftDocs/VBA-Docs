@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ThisCell Property (Excel)
 
-Returns the cell in which the user-defined function is being called from as a  **[Range](Excel.Range(objec).md)** object.
+Returns the cell in which the user-defined function is being called from as a  **[Range](Excel.Range(object).md)** object.
 
 
 ## Syntax
@@ -44,5 +44,5 @@ End Function
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

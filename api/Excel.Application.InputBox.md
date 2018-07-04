@@ -29,7 +29,7 @@ Displays a dialog box for user input. Returns the information entered in the dia
 |:-----|:-----|:-----|:-----|
 | _Prompt_|Required| **String**|The message to be displayed in the dialog box. This can be a string, a number, a date, or a Boolean value (Microsoft Excel automatically coerces the value to a **String** before it is displayed).|
 | _Title_|Optional| **Variant**|The title for the input box. If this argument is omitted, the default title is "Input."|
-| _Default_|Optional| **Variant**|Specifies a value that will appear in the text box when the dialog box is initially displayed. If this argument is omitted, the text box is left empty. This value can be a **[Range](Excel.Range(objec).md)** object.|
+| _Default_|Optional| **Variant**|Specifies a value that will appear in the text box when the dialog box is initially displayed. If this argument is omitted, the text box is left empty. This value can be a **[Range](Excel.Range(object).md)** object.|
 | _Left_|Optional| **Variant**|Specifies an *x* position for the dialog box in relation to the upper-left corner of the screen, in points.|
 | _Top_|Optional| **Variant**|Specifies a *y* position for the dialog box in relation to the upper-left corner of the screen, in points.|
 | _HelpFile_|Optional| **Variant**|The name of the Help file for this input box. If the _HelpFile_ and _HelpContextID_ arguments are present, a Help button will appear in the dialog box.|
@@ -122,5 +122,5 @@ End Function
 
 ## See also
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

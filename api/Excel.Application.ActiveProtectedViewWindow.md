@@ -20,7 +20,7 @@ Returns a  **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object that r
 
  _expression_. `ActiveProtectedViewWindow`
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Example
@@ -36,5 +36,5 @@ MsgBox "The name of the active Protected View window is " &; ActiveProtectedWind
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

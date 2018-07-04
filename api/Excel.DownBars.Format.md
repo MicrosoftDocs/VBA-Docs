@@ -26,5 +26,5 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 ## See also
 
 
-[DownBars Object](Excel.DownBars(objec).md)
+[DownBars Object](Excel.DownBars(object).md)
 

@@ -36,5 +36,5 @@ Charts("Chart1").ChartTitle.Shadow = True
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

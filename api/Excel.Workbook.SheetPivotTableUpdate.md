@@ -34,7 +34,7 @@ Occurs after the sheet of the PivotTable report has been updated.
 
 ## Example
 
-This example displays a message stating that the sheet of the PivotTable report has been updated. This example assumes you have declared an object of type  **[Application](Excel.Application(objec).md)** or **[Workbook](Excel.Workbook.md)** with events in a class module.
+This example displays a message stating that the sheet of the PivotTable report has been updated. This example assumes you have declared an object of type  **[Application](Excel.Application(object).md)** or **[Workbook](Excel.Workbook.md)** with events in a class module.
 
 
 ```vb

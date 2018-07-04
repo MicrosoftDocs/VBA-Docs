@@ -26,5 +26,5 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](E
 ## See also
 
 
-[Walls Object](Excel.Walls(objec).md)
+[Walls Object](Excel.Walls(object).md)
 

@@ -20,7 +20,7 @@ Represents the chart area of a chart.
 
 The chart area includes everything, including the plot area. However, the plot area has its own fill, so filling the plot area does not fill the chart area.
 
- For information about formatting the plot area, see **[PlotArea Object](Excel.PlotArea(objec).md)**.
+ For information about formatting the plot area, see **[PlotArea Object](Excel.PlotArea(object).md)**.
 
 Use the  **ChartArea** property to return the **ChartArea** object.
 

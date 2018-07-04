@@ -20,7 +20,7 @@ Occurs after the workbook is saved.
 
  _expression_. `WorkbookAfterSave`( `_Wb_` , `_Success_` )
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -55,6 +55,6 @@ End Sub
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)

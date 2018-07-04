@@ -41,7 +41,7 @@ Defines a parameter for the specified query table.
 | **XlParameterType** can be one of these **XlParameterType** constants.|
 | **xlConstant** . Uses the value specified by the _Value_ argument.|
 | **xlPrompt** . Displays a dialog box that prompts the user for the value. The _Value_ argument specifies the text shown in the dialog box.|
-| **xlRange** . Uses the value of the cell in the upper-left corner of the range. The _Value_ argument specifies a **[Range](Excel.Range(objec).md)** object|
+| **xlRange** . Uses the value of the cell in the upper-left corner of the range. The _Value_ argument specifies a **[Range](Excel.Range(object).md)** object|
 
 ## Example
 

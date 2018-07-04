@@ -18,7 +18,7 @@ A collection of all the  **[Watch](Excel.Watches.md)** objects in a specified ap
 
 ## Example
 
-Use the  **[Watches](Excel.Application.Watches.md)** property of the **[Application](Excel.Application(objec).md)** object to return a **Watches** collection.
+Use the  **[Watches](Excel.Application.Watches.md)** property of the **[Application](Excel.Application(object).md)** object to return a **Watches** collection.
 
 
 

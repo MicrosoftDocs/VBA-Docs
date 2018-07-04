@@ -30,7 +30,7 @@ Uses East Asian sorting methods to sort the range, a PivotTable report, or uses 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _SortMethod_|Optional| **[XlSortMethod](Excel.XlSortMethod.md)**|The type of sort. Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
-| _Key1_|Optional| **Variant**|The first sort field, as either text (a PivotTable field or range name) or a  **[Range](Excel.Range(objec).md)** object ("Dept" or Cells(1, 1), for example).|
+| _Key1_|Optional| **Variant**|The first sort field, as either text (a PivotTable field or range name) or a  **[Range](Excel.Range(object).md)** object ("Dept" or Cells(1, 1), for example).|
 | _Order1_|Optional| **[XlSortOrder](Excel.XlSortOrder.md)**|The sort order for the field or range specified in the  _Key1_ argument.|
 | _Type_|Optional| **Variant**|Specifies which elements are to be sorted. Use this argument only when sorting PivotTable reports.|
 | _Key2_|Optional| **Variant**|The second sort field, as either text (a PivotTable field or range name) or a  **Range** object. If you omit this argument, there?s no second sort field. Cannot be used when sorting PivotTable reports.|
@@ -72,5 +72,5 @@ End Sub
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

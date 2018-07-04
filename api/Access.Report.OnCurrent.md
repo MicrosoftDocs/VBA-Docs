@@ -96,6 +96,6 @@ End Sub
 ## See also
 
 
-[Report.Current Event (Access)](report-current-event-access.md)
+[Report.Current Event (Access)](Access.Report.Current.md)
 [Report Object](Access.Report.md)
 

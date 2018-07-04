@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Floor Property (Excel)
 
-Returns a  **[Floor](Excel.Floor(objec).md)** object that represents the floor of the 3-D chart. Read-only.
+Returns a  **[Floor](Excel.Floor(object).md)** object that represents the floor of the 3-D chart. Read-only.
 
 
 ## Syntax

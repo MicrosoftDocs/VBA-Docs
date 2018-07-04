@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Merge Method (Excel)
 
-Creates a merged cell from the specified  **[Range](Excel.Range(objec).md)** object.
+Creates a merged cell from the specified  **[Range](Excel.Range(object).md)** object.
 
 
 ## Syntax
@@ -39,5 +39,5 @@ The value of a merged range is specified in the cell of the range's upper-left c
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

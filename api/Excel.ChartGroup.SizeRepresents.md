@@ -36,5 +36,5 @@ Charts(1).ChartGroups(1).SizeRepresents = xlSizeIsWidth
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

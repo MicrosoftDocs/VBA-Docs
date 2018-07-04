@@ -36,5 +36,5 @@ Charts("Chart1").Axes(xlValue).TickLabels.NumberFormatLinked = True
 ## See also
 
 
-[TickLabels Object](Excel.TickLabels(objec).md)
+[TickLabels Object](Excel.TickLabels(object).md)
 

@@ -26,5 +26,5 @@ Returns or sets the position of the axis title on the chart. Read/write  **[XlCh
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

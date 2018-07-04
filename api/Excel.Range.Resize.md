@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Resize Property (Excel)
 
-Resizes the specified range. Returns a  **[Range](Excel.Range(objec).md)** object that represents the resized range.
+Resizes the specified range. Returns a  **[Range](Excel.Range(object).md)** object that represents the resized range.
 
 
 ## Syntax
@@ -64,5 +64,5 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

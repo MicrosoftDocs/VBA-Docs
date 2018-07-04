@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Range Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents a cell or a range of cells.
+Returns a  **[Range](Excel.Range(object).md)** object that represents a cell or a range of cells.
 
 
 ## Syntax
@@ -100,5 +100,5 @@ Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

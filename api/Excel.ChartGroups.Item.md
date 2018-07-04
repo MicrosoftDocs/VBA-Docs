@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[ChartGroup](Excel.ChartGroup(objec).md)** object contained by the collection.
+A  **[ChartGroup](Excel.ChartGroup(object).md)** object contained by the collection.
 
 
 ## Example

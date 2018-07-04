@@ -26,5 +26,5 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType ](
 ## See also
 
 
-[LegendKey Object](Excel.LegendKey(objec).md)
+[LegendKey Object](Excel.LegendKey(object).md)
 

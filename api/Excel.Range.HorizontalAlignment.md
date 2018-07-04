@@ -41,5 +41,5 @@ Some of these constants may not be available to you, depending on the language s
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

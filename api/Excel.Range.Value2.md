@@ -41,5 +41,5 @@ Range("a1").Value2 = Range("b1").Value2 + Range("c1").Value2
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

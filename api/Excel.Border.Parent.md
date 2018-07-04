@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[Border Object](Excel.Border(objec).md)
+[Border Object](Excel.Border(object).md)
 

@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[DropLines Object](Excel.DropLines(objec).md)
+[DropLines Object](Excel.DropLines(object).md)
 

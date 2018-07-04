@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Point](Excel.Point(objec).md)** object contained by the collection.
+A  **[Point](Excel.Point(object).md)** object contained by the collection.
 
 
 ## Example

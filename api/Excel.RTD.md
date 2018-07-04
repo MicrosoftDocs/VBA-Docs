@@ -18,7 +18,7 @@ Represents a real-time data object.
 
 ## Remarks
 
-Use the  **[RTD](Excel.Application.RTD.md)** property of the **[Application](Excel.Application(objec).md)** object to return a **RTD** object.
+Use the  **[RTD](Excel.Application.RTD.md)** property of the **[Application](Excel.Application(object).md)** object to return a **RTD** object.
 
 
 ## See also

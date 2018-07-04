@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartObject.TopLeftCell Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the cell that lies under the upper-left corner of the specified object. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the cell that lies under the upper-left corner of the specified object. Read-only.
 
 
 ## Syntax

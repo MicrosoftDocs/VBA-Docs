@@ -31,5 +31,5 @@ Setting this property to  **True** will result in a run-time error if the active
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

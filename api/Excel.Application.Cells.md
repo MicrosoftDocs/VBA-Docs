@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Cells Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents all the cells on the active worksheet. If the active document is not a worksheet, this property fails.
+Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells on the active worksheet. If the active document is not a worksheet, this property fails.
 
 
 ## Syntax
@@ -62,5 +62,5 @@ MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Mic
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat Object (Excel)
 
-Represents the display settings for an associated  **[Range](Excel.Range(objec).md)** object. Read only.
+Represents the display settings for an associated  **[Range](Excel.Range(object).md)** object. Read only.
 
 
 ## Remarks

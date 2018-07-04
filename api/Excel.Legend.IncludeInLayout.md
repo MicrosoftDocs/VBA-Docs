@@ -31,5 +31,5 @@ This property does not affect whether a chart is in autolayout mode or not. If t
 ## See also
 
 
-[Legend Object](Excel.Legend(objec).md)
+[Legend Object](Excel.Legend(object).md)
 

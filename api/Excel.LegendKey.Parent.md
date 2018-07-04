@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[LegendKey Object](Excel.LegendKey(objec).md)
+[LegendKey Object](Excel.LegendKey(object).md)
 

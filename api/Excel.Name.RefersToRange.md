@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.RefersToRange Property (Excel)
 
-Returns the  **[Range](Excel.Range(objec).md)** object referred to by a **Name** object. Read-only.
+Returns the  **[Range](Excel.Range(object).md)** object referred to by a **Name** object. Read-only.
 
 
 ## Syntax

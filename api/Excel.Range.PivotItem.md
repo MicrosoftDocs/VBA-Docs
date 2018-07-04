@@ -38,5 +38,5 @@ MsgBox "The active cell is in the item " &; _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

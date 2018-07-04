@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendEntry.LegendKey Property (Excel)
 
-Returns a  **[LegendKey](Excel.LegendKey(objec).md)** object that represents the legend key associated with the entry.
+Returns a  **[LegendKey](Excel.LegendKey(object).md)** object that represents the legend key associated with the entry.
 
 
 ## Syntax
@@ -37,5 +37,5 @@ Charts("Chart1").Legend.LegendEntries(1).LegendKey _
 ## See also
 
 
-[LegendEntry Object](Excel.LegendEntry(objec).md)
+[LegendEntry Object](Excel.LegendEntry(object).md)
 

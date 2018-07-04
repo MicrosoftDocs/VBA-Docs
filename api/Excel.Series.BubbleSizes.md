@@ -47,5 +47,5 @@ Worksheets(1).ChartObjects(1).Chart _
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

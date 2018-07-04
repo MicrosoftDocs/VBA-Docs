@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[HiLoLines Object](Excel.HiLoLines(objec).md)
+[HiLoLines Object](Excel.HiLoLines(object).md)
 

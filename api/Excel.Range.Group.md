@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Group Method (Excel)
 
-When the  **[Range](Excel.Range(objec).md)** object represents a single cell in a PivotTable field?s data range, the **Group** method performs numeric or date-based grouping in that field.
+When the  **[Range](Excel.Range(object).md)** object represents a single cell in a PivotTable field?s data range, the **Group** method performs numeric or date-based grouping in that field.
 
 
 ## Syntax
@@ -63,5 +63,5 @@ The  **Range** object must be a single cell in the PivotTable field?s data range
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

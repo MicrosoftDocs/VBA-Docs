@@ -51,5 +51,5 @@ To check only cells and notes, use this method with the object returned by the  
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

@@ -25,7 +25,7 @@ Returns the specified window, for a  **[Windows](Excel.Windows.md)** object.
 
 ## Remarks
 
-The returned object type depends on the current selection (for example, if a cell is selected, this property returns a  **[Range](Excel.Range(objec).md)** object). The **Selection** property returns **Nothing** if nothing is selected.
+The returned object type depends on the current selection (for example, if a cell is selected, this property returns a  **[Range](Excel.Range(object).md)** object). The **Selection** property returns **Nothing** if nothing is selected.
 
 Using this property with no object qualifier is equivalent to using  `Application.Selection`.
 

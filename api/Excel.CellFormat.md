@@ -18,7 +18,7 @@ Represents the search criteria for the cell format.
 
 ## Remarks
 
-Use the  **[FindFormat](Excel.Application.FindFormat.md)** or **[ReplaceFormat](Excel.Application.ReplaceFormat.md)** properties of the **[Application](Excel.Application(objec).md)** object to return a **CellFormat** object.
+Use the  **[FindFormat](Excel.Application.FindFormat.md)** or **[ReplaceFormat](Excel.Application.ReplaceFormat.md)** properties of the **[Application](Excel.Application(object).md)** object to return a **CellFormat** object.
 
 With a  **CellFormat** object, you can use the **[Borders](Excel.CellFormat.Borders.md)**, **[Font](Excel.CellFormat.Font.md)**, or **[Interior](Excel.CellFormat.Interior.md)** properties of the **CellFormat** object, to define the search criteria for the cell format.
 

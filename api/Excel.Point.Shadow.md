@@ -26,5 +26,5 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

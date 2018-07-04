@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

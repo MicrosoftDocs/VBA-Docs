@@ -40,5 +40,5 @@ The  **Characters** object isn't a collection.
 ## See also
 
 
-[DataLabel Object](Excel.DataLabel(objec).md)
+[DataLabel Object](Excel.DataLabel(object).md)
 

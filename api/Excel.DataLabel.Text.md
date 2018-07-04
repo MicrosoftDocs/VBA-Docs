@@ -26,5 +26,5 @@ Returns or sets the text for the specified object. Read/write  **String** .
 ## See also
 
 
-[DataLabel Object](Excel.DataLabel(objec).md)
+[DataLabel Object](Excel.DataLabel(object).md)
 

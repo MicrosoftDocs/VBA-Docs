@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[DataTable Object](Excel.DataTable(objec).md)
+[DataTable Object](Excel.DataTable(object).md)
 

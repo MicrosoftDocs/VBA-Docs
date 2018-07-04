@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

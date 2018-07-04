@@ -18,7 +18,7 @@ Represents the various spreadsheet errors for a range.
 
 ## Remarks
 
-Use the  **[Errors](Excel.Range.Errors.md)** property of the **[Range](Excel.Range(objec).md)** object to return an **Errors** object.
+Use the  **[Errors](Excel.Range.Errors.md)** property of the **[Range](Excel.Range(object).md)** object to return an **Errors** object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets how Excel will validate files before opening them. Read/write
 
  _expression_. `FileValidation`
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Return Value
@@ -36,5 +36,5 @@ Files that do not pass validation will be opened in a  **Protected View** window
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

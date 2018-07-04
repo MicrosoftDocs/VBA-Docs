@@ -46,5 +46,5 @@ End With
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

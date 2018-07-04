@@ -26,5 +26,5 @@ Deletes the object.
 ## See also
 
 
-[DataTable Object](Excel.DataTable(objec).md)
+[DataTable Object](Excel.DataTable(object).md)
 

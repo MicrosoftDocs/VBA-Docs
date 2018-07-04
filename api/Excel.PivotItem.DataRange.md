@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.DataRange Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object as shown in the following table. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object as shown in the following table. Read-only.
 
 
 ## Syntax

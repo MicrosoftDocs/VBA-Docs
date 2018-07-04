@@ -29,7 +29,7 @@ Deletes the object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Shift_|Optional| **Variant**|Used only with  **[Range](Excel.Range(objec).md)** objects. Specifies how to shift cells to replace deleted cells. Can be one of the following **[XlDeleteShiftDirection](Excel.XlDeleteShiftDirection.md)** constants: **xlShiftToLeft** or **xlShiftUp** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
+| _Shift_|Optional| **Variant**|Used only with  **[Range](Excel.Range(object).md)** objects. Specifies how to shift cells to replace deleted cells. Can be one of the following **[XlDeleteShiftDirection](Excel.XlDeleteShiftDirection.md)** constants: **xlShiftToLeft** or **xlShiftUp** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
 
 ### Return Value
 
@@ -39,5 +39,5 @@ Variant
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

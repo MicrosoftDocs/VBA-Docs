@@ -31,7 +31,7 @@ A Data Service data connection may contain one or more entities. Each entity spe
 |:-----|
 |[Entities](Access.WebService.Entities.md)|
 |[Name](Access.WebService.Name.md)|
-|[Parent](webservice-parent-property-access.md)|
+|[Parent](Access.webservice.parent.md)|
 
 ## See also
 

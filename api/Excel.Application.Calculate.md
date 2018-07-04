@@ -48,5 +48,5 @@ Worksheets("Sheet1").UsedRange.Columns("A:C").Calculate
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

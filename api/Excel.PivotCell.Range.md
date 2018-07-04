@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.Range Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the range the specified PivotCell applies to.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the range the specified PivotCell applies to.
 
 
 ## Syntax

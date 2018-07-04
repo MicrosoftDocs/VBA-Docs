@@ -26,5 +26,5 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 ## See also
 
 
-[Walls Object](Excel.Walls(objec).md)
+[Walls Object](Excel.Walls(object).md)
 

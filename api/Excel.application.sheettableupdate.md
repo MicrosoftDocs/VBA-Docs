@@ -33,5 +33,5 @@ Occurs when a table on a worksheet is updated.
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.DataLabels Method (Excel)
 
-Returns an object that represents either a single data label (a  **[DataLabel](Excel.DataLabel(objec).md)** object) or a collection of all the data labels for the series (a **[DataLabels](Excel.DataLabels(object).md)** collection).
+Returns an object that represents either a single data label (a  **[DataLabel](Excel.DataLabel(object).md)** object) or a collection of all the data labels for the series (a **[DataLabels](Excel.DataLabels(object).md)** collection).
 
 
 ## Syntax
@@ -62,5 +62,5 @@ End With
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

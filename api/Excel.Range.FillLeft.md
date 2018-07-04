@@ -41,5 +41,5 @@ Worksheets("Sheet1").Range("A1:M1").FillLeft
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

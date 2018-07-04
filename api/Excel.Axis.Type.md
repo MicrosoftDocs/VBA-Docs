@@ -31,5 +31,5 @@ When using this property for the horizontal axis of scatter charts,  **xlCategor
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

@@ -33,7 +33,7 @@ Returns a  **String** value that represents the range reference in the language 
 | _ColumnAbsolute_|Optional| **Variant**| **True** to return the column part of the reference as an absolute reference. The default value is **True** .|
 | _ReferenceStyle_|Optional| **[XlReferenceStyle](Excel.XlReferenceStyle.md)**|The reference style. The default value is  **xlA1** .|
 | _External_|Optional| **Variant**| **True** to return an external reference. **False** to return a local reference. The default value is **False** .|
-| _RelativeTo_|Optional| **Variant**|If  _RowAbsolute_ and _ColumnAbsolute_ are **False** , and _ReferenceStyle_ is **xlR1C1** , you must include a starting point for the relative reference. This argument is a **[Range](Excel.Range(objec).md)** object that defines the starting point.|
+| _RelativeTo_|Optional| **Variant**|If  _RowAbsolute_ and _ColumnAbsolute_ are **False** , and _ReferenceStyle_ is **xlR1C1** , you must include a starting point for the relative reference. This argument is a **[Range](Excel.Range(object).md)** object that defines the starting point.|
 
 ## Remarks
 
@@ -62,5 +62,5 @@ MsgBox mc.Address(ReferenceStyle:=xlR1C1, _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

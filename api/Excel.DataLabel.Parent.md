@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[DataLabel Object](Excel.DataLabel(objec).md)
+[DataLabel Object](Excel.DataLabel(object).md)
 

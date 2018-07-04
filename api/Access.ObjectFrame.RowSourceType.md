@@ -35,13 +35,13 @@ The  **RowSourceType** property uses the following settings.
 |Value List|The data is a list of items specified by the  **RowSource** setting.|
 |Field List|The data is a list of field names from a table, query, or SQL statement specified by the  **RowSource** setting.|
 
- **Note**  You can also set the  **RowSourceType** property with a user-defined function. The function name is entered without a preceding equal sign (=) and without the trailing pair of parentheses. You must provide[specific function code arguments](rowsourcetype-property-user-defined-functioncode-argument-values.md)to tell Microsoft Access how to fill the control. 
+ **Note**  You can also set the  **RowSourceType** property with a user-defined function. The function name is entered without a preceding equal sign (=) and without the trailing pair of parentheses. You must provide[specific function code arguments](Access.RowSourceType.md)to tell Microsoft Access how to fill the control. 
 
 In Visual Basic, set the  **RowSourceType** property by using a string expression with one of these values: `"Table/Query"`,  `"Value List"`, or  `"Field List"`. You also use a string expression to set the value of the  **RowSource** property. To set the **RowSourceType** property to a user-defined function, enter the name of the function.
 
 When you have a limited number of values that don't change, you can set the  **RowSourceType** property to Value List and then enter the values that make up the list in the **RowSource** property.
 
-When you create a user-defined function to insert items into a list box or combo box, Microsoft Access calls the function repeatedly to get the information it needs. User-defined  **RowSourceType** functions must be written in a very specific[function format](rowsourcetype-property-user-defined-functioncode-argument-values.md).
+When you create a user-defined function to insert items into a list box or combo box, Microsoft Access calls the function repeatedly to get the information it needs. User-defined  **RowSourceType** functions must be written in a very specific[function format](Access.RowSourceType.md).
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.VisibleRange Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the range of cells that are visible in the window or pane. If a column or row is partially visible, it's included in the range. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the range of cells that are visible in the window or pane. If a column or row is partially visible, it's included in the range. Read-only.
 
 
 ## Syntax

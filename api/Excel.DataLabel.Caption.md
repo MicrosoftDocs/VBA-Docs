@@ -26,5 +26,5 @@ Returns or sets a  **String** value that represents the data label text.
 ## See also
 
 
-[DataLabel Object](Excel.DataLabel(objec).md)
+[DataLabel Object](Excel.DataLabel(object).md)
 

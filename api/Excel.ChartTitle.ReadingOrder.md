@@ -26,5 +26,5 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

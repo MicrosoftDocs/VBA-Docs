@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObject.Border Property (Excel)
 
-Returns a  **[Border](Excel.Border(objec).md)** object that represents the border of the object.
+Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
 
 
 ## Syntax

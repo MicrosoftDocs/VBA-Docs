@@ -18,7 +18,7 @@ Represents a data bar conditional formating rule. Applying a data bar to a range
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(objec).md)** collection. You can create a data bar formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddDatabar](Excel.FormatConditions.AddDatabar.md)** methods of the **FormatConditions** collection.
+All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create a data bar formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddDatabar](Excel.FormatConditions.AddDatabar.md)** methods of the **FormatConditions** collection.
 
 You use the  **[MinPoint](Excel.Databar.MinPoint.md)** and **[MaxPoint](Excel.Databar.MaxPoint.md)** properties of the **Databar** object to set the values of the shortest bar and longest bar of a range of data. These properites return a **[ConditionValue](Excel.ConditionValue.md)** object, with which you can specify how the thresholds are evaluated.
 

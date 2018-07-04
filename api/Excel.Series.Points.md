@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Points Method (Excel)
 
-Returns an object that represents a single point (a  **[Point](Excel.Point(objec).md)** object) or a collection of all the points (a **[Points](Excel.Points(object).md)** collection) in the series. Read-only
+Returns an object that represents a single point (a  **[Point](Excel.Point(object).md)** object) or a collection of all the points (a **[Points](Excel.Points(object).md)** collection) in the series. Read-only
 
 
 ## Syntax
@@ -49,5 +49,5 @@ Charts("Chart1").SeriesCollection(1).Points(1).ApplyDataLabels
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

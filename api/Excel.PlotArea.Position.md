@@ -26,5 +26,5 @@ Returns or sets the position of the plot area on the chart. Read/write  **[XlCha
 ## See also
 
 
-[PlotArea Object](Excel.PlotArea(objec).md)
+[PlotArea Object](Excel.PlotArea(object).md)
 

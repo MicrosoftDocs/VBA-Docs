@@ -36,7 +36,7 @@ Occurs before the publication is printed or previewed. .
 
 The  **BeforePrint** event fires only after the document is fully loaded and the onload events have returned. Printing does not occur until the event handler is executed.
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example

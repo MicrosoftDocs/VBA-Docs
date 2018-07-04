@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.DataLabelRange Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the range that contains the labels for the data fields in the PivotTable report. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the range that contains the labels for the data fields in the PivotTable report. Read-only.
 
 
 ## Syntax

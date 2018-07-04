@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[DownBars Object](Excel.DownBars(objec).md)
+[DownBars Object](Excel.DownBars(object).md)
 

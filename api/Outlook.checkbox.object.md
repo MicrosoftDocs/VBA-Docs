@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [CheckBox Object (Outlook Forms Script)](Outlook.checkbox.md)
     
--  [CheckBox Members (Outlook Forms Script)](../missing-files/Outlook/checkbox-members-outlook-forms-script.md)
+-  [CheckBox Members (Outlook Forms Script)](Outlook.checkbox(members).md)
     
--  [CheckBox Properties (Outlook Forms Script)](../missing-files/Outlook/checkbox-properties-outlook-forms-script.md)
+-  [CheckBox Properties (Outlook Forms Script)](Outlook.checkbox(properties.md)
     
--  [CheckBox Events (Outlook Forms Script)](../missing-files/Outlook/checkbox-events-outlook-forms-script.md)
+-  [CheckBox Events (Outlook Forms Script)](Outlook.checkbox(event).md)
     
 

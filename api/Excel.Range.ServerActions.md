@@ -26,5 +26,5 @@ Specifies the actions that can be performed on the SharePoint server for a  **Ra
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

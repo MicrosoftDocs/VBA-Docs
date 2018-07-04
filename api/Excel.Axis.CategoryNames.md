@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.CategoryNames Property (Excel)
 
-Returns or sets all the category names for the specified axis, as a text array. When you set this property, you can set it to either an array or a  **[Range](Excel.Range(objec).md)** object that contains the category names. Read/write **Variant** .
+Returns or sets all the category names for the specified axis, as a text array. When you set this property, you can set it to either an array or a  **[Range](Excel.Range(object).md)** object that contains the category names. Read/write **Variant** .
 
 
 ## Syntax
@@ -52,5 +52,5 @@ Charts("Chart1").Axes(xlCategory).CategoryNames = _
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[PlotArea Object](Excel.PlotArea(objec).md)
+[PlotArea Object](Excel.PlotArea(object).md)
 

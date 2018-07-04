@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CurrentArray Property (Excel)
 
-If the specified cell is part of an array, returns a  **[Range](Excel.Range(objec).md)** object that represents the entire array. Read-only.
+If the specified cell is part of an array, returns a  **[Range](Excel.Range(object).md)** object that represents the entire array. Read-only.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ ActiveCell.CurrentArray.Select
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

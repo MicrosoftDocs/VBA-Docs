@@ -30,7 +30,7 @@ Because there is no  **Activate** method for the **ListObject** object, you can 
 
 ## Example
 
-The following example activates the list in the default  **ListObject** object in the first worksheet of the active workbook. Invoking the **Activate** method of the **[Range](Excel.Range(objec).md)** object without cell parameters activates the entire range for the list.
+The following example activates the list in the default  **ListObject** object in the first worksheet of the active workbook. Invoking the **Activate** method of the **[Range](Excel.Range(object).md)** object without cell parameters activates the entire range for the list.
 
 
 ```vb

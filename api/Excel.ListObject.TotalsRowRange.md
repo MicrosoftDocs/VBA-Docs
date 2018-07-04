@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.TotalsRowRange Property (Excel)
 
- Returns a **[Range](Excel.Range(objec).md)** representing the Total row, if any, from a specified **ListObject** object. Read-only.
+ Returns a **[Range](Excel.Range(object).md)** representing the Total row, if any, from a specified **ListObject** object. Read-only.
 
 
 ## Syntax

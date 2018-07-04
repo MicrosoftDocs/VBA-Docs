@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PasteSpecial Method (Excel)
 
-Pastes a  **[Range](Excel.Range(objec).md)** that has been copied into the specified range.
+Pastes a  **[Range](Excel.Range(object).md)** that has been copied into the specified range.
 
 
 ## Syntax
@@ -56,5 +56,5 @@ End With
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

@@ -28,9 +28,9 @@ Use the  **[Font](Excel.FormatCondition.Font.md)**, **[Borders](Excel.FormatCond
 
 |**Object**|**Properties**|
 |:-----|:-----|
-|**[Font](Excel.Font(objec).md)**|**Bold** **Color** **ColorIndex** **FontStyle** **Italic** **Strikethrough** **Underline** The accounting underline styles cannot be used.|
-|**[Border](Excel.Border(objec).md)**|**Bottom** **Color** **Left** **Right** **Style** The following border styles can be used (all others aren?t supported): **xlNone**, **xlSolid**, **xlDash**, **xlDot**, **xlDashDot**, **xlDashDotDot**, **xlGray50**, **xlGray75**, and **xlGray25**. **Top** **Weight** The following border weights can be used (all others aren?t supported): **xlWeightHairline** and **xlWeightThin**.|
-|**[Interior](Excel.Interior(objec).md)**|**Color** **ColorIndex** **Pattern** **PatternColorIndex**|
+|**[Font](Excel.Font(object).md)**|**Bold** **Color** **ColorIndex** **FontStyle** **Italic** **Strikethrough** **Underline** The accounting underline styles cannot be used.|
+|**[Border](Excel.Border(object).md)**|**Bottom** **Color** **Left** **Right** **Style** The following border styles can be used (all others aren?t supported): **xlNone**, **xlSolid**, **xlDash**, **xlDot**, **xlDashDot**, **xlDashDotDot**, **xlGray50**, **xlGray75**, and **xlGray25**. **Top** **Weight** The following border weights can be used (all others aren?t supported): **xlWeightHairline** and **xlWeightThin**.|
+|**[Interior](Excel.Interior(object).md)**|**Color** **ColorIndex** **Pattern** **PatternColorIndex**|
 
 ## Example
 

@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[LegendEntry](Excel.LegendEntry(objec).md)** object contained by the collection.
+A  **[LegendEntry](Excel.LegendEntry(object).md)** object contained by the collection.
 
 
 ## Example

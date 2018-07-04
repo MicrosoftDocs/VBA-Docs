@@ -36,5 +36,5 @@ Charts(1).SeriesCollection(1).ApplyPictToEnd = True
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

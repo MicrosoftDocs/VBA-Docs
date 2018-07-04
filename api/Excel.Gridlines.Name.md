@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[Gridlines Object](Excel.Gridlines(objec).md)
+[Gridlines Object](Excel.Gridlines(object).md)
 

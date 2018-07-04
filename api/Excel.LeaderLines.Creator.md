@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[LeaderLines Object](Excel.LeaderLines(objec).md)
+[LeaderLines Object](Excel.LeaderLines(object).md)
 

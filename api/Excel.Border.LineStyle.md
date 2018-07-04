@@ -47,5 +47,5 @@ End With
 ## See also
 
 
-[Border Object](Excel.Border(objec).md)
+[Border Object](Excel.Border(object).md)
 

@@ -51,5 +51,5 @@ Worksheets("Sheet1").Range("E1:E3").FormulaArray = _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

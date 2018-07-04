@@ -36,5 +36,5 @@ Charts(1).ChartGroups(1).Has3DShading = True
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

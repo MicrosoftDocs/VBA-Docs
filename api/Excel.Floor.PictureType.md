@@ -31,5 +31,5 @@ This property can be set to one of the following constants:  **xlStack** or **xl
 ## See also
 
 
-[Floor Object](Excel.Floor(objec).md)
+[Floor Object](Excel.Floor(object).md)
 

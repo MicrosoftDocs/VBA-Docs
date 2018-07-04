@@ -38,7 +38,7 @@ Use the [Execute](Access.Operation.Execute.md) method to execute the operation.
 |**Name**|
 |:-----|
 |[Name](Access.Operation.Name.md)|
-|[Parent](operation-parent-property-access.md)|
+|[Parent](Access.operation.parent.md)|
 |[WSParameters](Access.Operation.WSParameters.md)|
 
 ## See also

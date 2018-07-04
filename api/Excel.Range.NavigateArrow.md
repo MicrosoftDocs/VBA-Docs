@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.NavigateArrow Method (Excel)
 
-Navigates a tracer arrow for the specified range to the precedent, dependent, or error-causing cell or cells. Selects the precedent, dependent, or error cells and returns a  **[Range](Excel.Range(objec).md)** object that represents the new selection. This method causes an error if it's applied to a cell without visible tracer arrows.
+Navigates a tracer arrow for the specified range to the precedent, dependent, or error-causing cell or cells. Selects the precedent, dependent, or error cells and returns a  **[Range](Excel.Range(object).md)** object that represents the new selection. This method causes an error if it's applied to a cell without visible tracer arrows.
 
 
 ## Syntax
@@ -53,5 +53,5 @@ ActiveCell.NavigateArrow True, 1
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

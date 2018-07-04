@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[ErrorBars Object](Excel.ErrorBars(objec).md)
+[ErrorBars Object](Excel.ErrorBars(object).md)
 

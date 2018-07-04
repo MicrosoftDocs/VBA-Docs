@@ -34,5 +34,5 @@ Occurs after any worksheet is recalculated or after any changed data is plotted 
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

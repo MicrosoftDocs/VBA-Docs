@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.UsedRange Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the used range on the specified worksheet. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the used range on the specified worksheet. Read-only.
 
 
 ## Syntax

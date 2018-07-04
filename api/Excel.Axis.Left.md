@@ -26,5 +26,5 @@ Returns a  **Double** value that represents the distance, in points, from the le
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

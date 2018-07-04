@@ -37,5 +37,5 @@ Worksheets("Sheet1").Range("A1"). _
 ## See also
 
 
-[Interior Object](Excel.Interior(objec).md)
+[Interior Object](Excel.Interior(object).md)
 

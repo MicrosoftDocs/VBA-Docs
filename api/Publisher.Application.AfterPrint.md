@@ -35,7 +35,7 @@ Fires after all variables and fields print.
 
 Microsoft Publisher does not return UI control to the user until the event handler is executed. The event is called after all the drawing operations are completed (in other words, after the software's job finishes and the printing hardware takes over).
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example

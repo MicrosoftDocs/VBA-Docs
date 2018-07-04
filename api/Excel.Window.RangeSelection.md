@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.RangeSelection Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the selected cells on the worksheet in the specified window even if a graphic object is active or selected on the worksheet. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the selected cells on the worksheet in the specified window even if a graphic object is active or selected on the worksheet. Read-only.
 
 
 ## Syntax

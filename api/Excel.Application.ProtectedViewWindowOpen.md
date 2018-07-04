@@ -20,7 +20,7 @@ Occurs when a workbook is opened in a  **Protected View** window.
 
  _expression_. `ProtectedViewWindowOpen`( `_Pvw_` , )
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -52,5 +52,5 @@ End Sub
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

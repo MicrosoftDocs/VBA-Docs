@@ -63,5 +63,5 @@ Worksheets("Sheet1").Columns("A").Replace _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

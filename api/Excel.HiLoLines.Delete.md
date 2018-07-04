@@ -31,5 +31,5 @@ Variant
 ## See also
 
 
-[HiLoLines Object](Excel.HiLoLines(objec).md)
+[HiLoLines Object](Excel.HiLoLines(object).md)
 

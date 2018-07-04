@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Legend.LegendEntries Method (Excel)
 
-Returns an object that represents either a single legend entry (a  **[LegendEntry](Excel.LegendEntry(objec).md)** object) or a collection of legend entries (a **[LegendEntries](Excel.LegendEntries(object).md)** object) for the legend.
+Returns an object that represents either a single legend entry (a  **[LegendEntry](Excel.LegendEntry(object).md)** object) or a collection of legend entries (a **[LegendEntries](Excel.LegendEntries(object).md)** object) for the legend.
 
 
 ## Syntax
@@ -49,5 +49,5 @@ Charts("Chart1").Legend.LegendEntries(1).Font.Name = "Arial"
 ## See also
 
 
-[Legend Object](Excel.Legend(objec).md)
+[Legend Object](Excel.Legend(object).md)
 

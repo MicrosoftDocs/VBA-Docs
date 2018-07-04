@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[HiLoLines Object](Excel.HiLoLines(objec).md)
+[HiLoLines Object](Excel.HiLoLines(object).md)
 

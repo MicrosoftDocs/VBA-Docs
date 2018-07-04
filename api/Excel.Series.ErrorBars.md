@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.ErrorBars Property (Excel)
 
-Returns an  **[ErrorBars](Excel.ErrorBars(objec).md)** object that represents the error bars for the series. Read-only.
+Returns an  **[ErrorBars](Excel.ErrorBars(object).md)** object that represents the error bars for the series. Read-only.
 
 
 ## Syntax
@@ -38,5 +38,5 @@ End With
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

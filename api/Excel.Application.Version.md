@@ -38,5 +38,5 @@ MsgBox "Welcome to Microsoft Excel version " &; _
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

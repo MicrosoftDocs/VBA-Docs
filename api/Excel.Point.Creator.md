@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

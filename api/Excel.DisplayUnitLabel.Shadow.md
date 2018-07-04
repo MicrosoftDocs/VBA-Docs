@@ -26,5 +26,5 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 ## See also
 
 
-[DisplayUnitLabel Object](Excel.DisplayUnitLabel(objec).md)
+[DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 

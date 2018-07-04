@@ -20,7 +20,7 @@ Occurs before changes are applied to a PivotTable.
 
  _expression_. `SheetPivotTableBeforeAllocateChanges`( `_Sh_` , `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` , `_Cancel_` )
 
- _expression_ A variable that represents a '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents a '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -48,5 +48,5 @@ The  **SheetPivotTableBeforeAllocateChanges** event occurs immediately before Ex
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

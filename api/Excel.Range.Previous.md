@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Previous Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the next cell.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the next cell.
 
 
 ## Syntax
@@ -44,5 +44,5 @@ ActiveCell.Previous.Select
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

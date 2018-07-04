@@ -20,7 +20,7 @@ Occurs when a  **Protected View** window is deactivated.
 
  _expression_. `ProtectedViewWindowDeactivate`( `_Pvw_` )
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -51,5 +51,5 @@ End Sub
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

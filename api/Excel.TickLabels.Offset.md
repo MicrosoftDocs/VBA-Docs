@@ -45,5 +45,5 @@ End With
 ## See also
 
 
-[TickLabels Object](Excel.TickLabels(objec).md)
+[TickLabels Object](Excel.TickLabels(object).md)
 

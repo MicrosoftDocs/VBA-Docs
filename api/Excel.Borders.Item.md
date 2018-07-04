@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.Item Property (Excel)
 
-Returns a  **[Border](Excel.Border(objec).md)** object that represents one of the borders of either a range of cells or a style.
+Returns a  **[Border](Excel.Border(object).md)** object that represents one of the borders of either a range of cells or a style.
 
 
 ## Syntax

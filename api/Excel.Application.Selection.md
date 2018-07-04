@@ -13,7 +13,7 @@ ms.date: 04/25/2018
 
 # Application.Selection Property (Excel)
 
-Returns the currently selected object in the active worksheet for an **[Application](Excel.Application(objec).md)** object. Returns `Nothing` if no objects are selected. Use the `Select` method to set the selection, and use `TypeName` to discover the kind of object that is selected. 
+Returns the currently selected object in the active worksheet for an **[Application](Excel.Application(object).md)** object. Returns `Nothing` if no objects are selected. Use the `Select` method to set the selection, and use `TypeName` to discover the kind of object that is selected. 
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the currently selected object in the active worksheet for an **[Applicat
 
 ## Remarks
 
-The returned object type depends on the current selection (for example, if a cell is selected, this property returns a  **[Range](Excel.Range(objec).md)** object). The **Selection** property returns **Nothing** if nothing is selected.
+The returned object type depends on the current selection (for example, if a cell is selected, this property returns a  **[Range](Excel.Range(object).md)** object). The **Selection** property returns **Nothing** if nothing is selected.
 
 Using this property with no object qualifier is equivalent to using  `Application.Selection`.
 
@@ -67,5 +67,5 @@ End Sub
 ## See also
 
 [TypeName function](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/typename-function)<br>
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

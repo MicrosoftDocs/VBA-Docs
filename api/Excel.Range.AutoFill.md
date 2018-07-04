@@ -29,7 +29,7 @@ Performs an autofill on the cells in the specified range.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Destination_|Required| **[Range](Excel.Range(objec).md)**|The cells to be filled. The destination must include the source range.|
+| _Destination_|Required| **[Range](Excel.Range(object).md)**|The cells to be filled. The destination must include the source range.|
 | _Type_|Optional| **[XlAutoFillType](Excel.XlAutoFillType.md)**|Specifies the fill type.|
 
 ### Return Value
@@ -52,5 +52,5 @@ sourceRange.AutoFill Destination:=fillRange
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

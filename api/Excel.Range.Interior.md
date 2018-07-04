@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Interior Property (Excel)
 
-Returns an  **[Interior](Excel.Interior(objec).md)** object that represents the interior of the specified object.
+Returns an  **[Interior](Excel.Interior(object).md)** object that represents the interior of the specified object.
 
 
 ## Syntax
@@ -40,5 +40,5 @@ End Sub
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

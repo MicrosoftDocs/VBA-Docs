@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Rows Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents all the rows on the active worksheet. If the active document isn't a worksheet, the **Rows** property fails. Read-only **Range** object.
+Returns a  **[Range](Excel.Range(object).md)** object that represents all the rows on the active worksheet. If the active document isn't a worksheet, the **Rows** property fails. Read-only **Range** object.
 
 
 ## Syntax
@@ -77,5 +77,5 @@ End If
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

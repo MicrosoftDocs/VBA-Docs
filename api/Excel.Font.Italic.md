@@ -36,5 +36,5 @@ Worksheets("Sheet1").Range("A1:A5").Font.Italic = True
 ## See also
 
 
-[Font Object](Excel.Font(objec).md)
+[Font Object](Excel.Font(object).md)
 

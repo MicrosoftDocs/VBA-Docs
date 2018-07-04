@@ -38,5 +38,5 @@ The value of this property can be set to one of the following constants:
 ## See also
 
 
-[DataLabel Object](Excel.DataLabel(objec).md)
+[DataLabel Object](Excel.DataLabel(object).md)
 

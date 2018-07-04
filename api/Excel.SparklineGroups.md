@@ -20,7 +20,7 @@ Represents a collection of sparkline groups.
 
 The  **SparklineGroups** object can contain multiple **[SparklineGroup](Excel.SparklineGroup.md)** objects.
 
-Use the  **[SparklineGroups](Excel.Range.SparklineGroups.md)** property of the **[Range](Excel.Range(objec).md)** object to return an existing **SparklineGroups** collection from its parent range.
+Use the  **[SparklineGroups](Excel.Range.SparklineGroups.md)** property of the **[Range](Excel.Range(object).md)** object to return an existing **SparklineGroups** collection from its parent range.
 
 Use the  **[Add](Excel.SparklineGroups.Add.md)** method to create a group of new sparklines.
 

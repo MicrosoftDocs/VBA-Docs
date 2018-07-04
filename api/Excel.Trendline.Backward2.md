@@ -40,5 +40,5 @@ End With
 ## See also
 
 
-[Trendline Object](Excel.Trendline(objec).md)
+[Trendline Object](Excel.Trendline(object).md)
 

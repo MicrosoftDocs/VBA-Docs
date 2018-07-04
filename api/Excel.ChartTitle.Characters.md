@@ -40,5 +40,5 @@ The  **Characters** object isn't a collection.
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

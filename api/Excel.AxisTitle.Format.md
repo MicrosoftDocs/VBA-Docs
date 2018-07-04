@@ -26,5 +26,5 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.TickLabels Property (Excel)
 
-Returns a  **[TickLabels](Excel.TickLabels(objec).md)** object that represents the tick-mark labels for the specified axis. Read-only.
+Returns a  **[TickLabels](Excel.TickLabels(object).md)** object that represents the tick-mark labels for the specified axis. Read-only.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.ColorIndex = 3
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

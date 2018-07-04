@@ -41,5 +41,5 @@ Some of these constants may not be available to you, depending on the language s
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

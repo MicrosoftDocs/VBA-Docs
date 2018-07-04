@@ -31,5 +31,5 @@ Some chart types aren't available for PivotChart reports.
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

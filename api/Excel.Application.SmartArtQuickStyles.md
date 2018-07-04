@@ -20,7 +20,7 @@ Returns the set of SmartArt quick styles which are currently loaded in the appli
 
  _expression_. `SmartArtQuickStyles`
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Return Value
@@ -31,5 +31,5 @@ Returns the set of SmartArt quick styles which are currently loaded in the appli
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

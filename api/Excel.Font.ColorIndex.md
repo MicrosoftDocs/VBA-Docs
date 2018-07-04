@@ -46,5 +46,5 @@ Worksheets("Sheet1").Range("A1").Font.ColorIndex = 3
 ## See also
 
 
-[Font Object](Excel.Font(objec).md)
+[Font Object](Excel.Font(object).md)
 

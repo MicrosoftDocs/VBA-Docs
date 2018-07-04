@@ -20,7 +20,7 @@ Returns the group for the specified axis. Read-only
 
  _expression_. `AxisGroup`
 
- _expression_ A variable that represents an '[Axis](Excel.Axis(objec).md)' object.
+ _expression_ A variable that represents an '[Axis](Excel.Axis(object).md)' object.
 
 
 ### Return Value
@@ -31,5 +31,5 @@ Returns the group for the specified axis. Read-only
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

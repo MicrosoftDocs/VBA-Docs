@@ -20,7 +20,7 @@ Occurs before changes to a PivotTable are discarded.
 
  _expression_. `SheetPivotTableBeforeDiscardChanges`( `_Sh_` , `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` )
 
- _expression_ A variable that represents a '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents a '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -47,5 +47,5 @@ Occurs immediately before Excel executes a  **ROLLBACK TRANSACTION** statement a
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

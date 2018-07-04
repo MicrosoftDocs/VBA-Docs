@@ -29,7 +29,7 @@ Sets the cell range to which this formatting rule applies.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Range_|Required| **[Range](Excel.Range(objec).md)**|The range to which this formatting rule will be applied.|
+| _Range_|Required| **[Range](Excel.Range(object).md)**|The range to which this formatting rule will be applied.|
 
 ## Remarks
 

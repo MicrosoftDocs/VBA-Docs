@@ -26,5 +26,5 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 ## See also
 
 
-[ChartArea Object](Excel.ChartArea(objec).md)
+[ChartArea Object](Excel.ChartArea(object).md)
 

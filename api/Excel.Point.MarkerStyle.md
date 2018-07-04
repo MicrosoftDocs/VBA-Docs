@@ -46,5 +46,5 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

@@ -20,7 +20,7 @@ Returns or sets whether Excel allows user-defined functions in XLL add-ins to be
 
  _expression_. `UseClusterConnector`
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Return Value
@@ -43,5 +43,5 @@ After setting the  **UseClusterConnector** property, use the **[ClusterConnector
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

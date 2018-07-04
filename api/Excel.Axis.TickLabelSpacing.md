@@ -42,5 +42,5 @@ Charts("Chart1").Axes(xlCategory).TickLabelSpacing = 10
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[Floor Object](Excel.Floor(objec).md)
+[Floor Object](Excel.Floor(object).md)
 

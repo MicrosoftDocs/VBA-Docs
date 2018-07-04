@@ -32,5 +32,5 @@ Occurs before any sheet is deleted.
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

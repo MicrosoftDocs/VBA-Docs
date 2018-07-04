@@ -31,5 +31,5 @@ Variant
 ## See also
 
 
-[LegendEntry Object](Excel.LegendEntry(objec).md)
+[LegendEntry Object](Excel.LegendEntry(object).md)
 

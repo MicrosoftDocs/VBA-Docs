@@ -26,5 +26,5 @@ Returns a  **Double** value that represents the width, in points, of the object.
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

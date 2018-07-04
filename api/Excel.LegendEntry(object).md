@@ -20,7 +20,7 @@ Represents a legend entry in a chart legend.
 
  The **LegendEntry** object is a member of the **[LegendEntries](Excel.LegendEntries(object).md)** collection. The **LegendEntries** collection contains all the **LegendEntry** objects in the legend.
 
-Each legend entry has two parts: the text of the entry, which is the name of the series associated with the legend entry; and an entry marker, which visually links the legend entry with its associated series or trendline in the chart. Formatting properties for the entry marker and its associated series or trendline are contained in the  **[LegendKey](Excel.LegendKey(objec).md)** object.
+Each legend entry has two parts: the text of the entry, which is the name of the series associated with the legend entry; and an entry marker, which visually links the legend entry with its associated series or trendline in the chart. Formatting properties for the entry marker and its associated series or trendline are contained in the  **[LegendKey](Excel.LegendKey(object).md)** object.
 
 The text of a legend entry cannot be changed.  **LegendEntry** objects support font formatting, and they can be deleted. No pattern formatting is supported for legend entries. The position and size of entries is fixed.
 

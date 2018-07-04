@@ -47,7 +47,7 @@ Use  **[SelectedTab](./Access.NavigationControl.SelectedTab.md)** property to re
 |[MouseDown](./Access.NavigationControl.MouseDown.md)|
 |[MouseMove](./Access.NavigationControl.MouseMove.md)|
 |[MouseUp](./Access.NavigationControl.MouseUp.md)|
-|[Undo](./Access.NavigationControl.Undo(even).md)|
+|[Undo](./Access.NavigationControl.Undo(event).md)|
 
 ## Methods
 

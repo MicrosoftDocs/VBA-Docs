@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MinorGridlines Property (Excel)
 
-Returns a  **[Gridlines](Excel.Gridlines(objec).md)** object that represents the minor gridlines for the specified axis. Only axes in the primary axis group can have gridlines. Read-only.
+Returns a  **[Gridlines](Excel.Gridlines(object).md)** object that represents the minor gridlines for the specified axis. Only axes in the primary axis group can have gridlines. Read-only.
 
 
 ## Syntax
@@ -40,5 +40,5 @@ End With
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

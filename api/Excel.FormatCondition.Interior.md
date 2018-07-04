@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Interior Property (Excel)
 
-Returns an  **[Interior](Excel.Interior(objec).md)** object that represents the interior of the specified object.
+Returns an  **[Interior](Excel.Interior(object).md)** object that represents the interior of the specified object.
 
 
 ## Syntax

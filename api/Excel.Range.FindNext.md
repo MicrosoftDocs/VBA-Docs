@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.FindNext Method (Excel)
 
-Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** method. Finds the next cell that matches those same conditions and returns a **[Range](Excel.Range(objec).md)** object that represents that cell. This does not affect the selection or the active cell.
+Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** method. Finds the next cell that matches those same conditions and returns a **[Range](Excel.Range(object).md)** object that represents that cell. This does not affect the selection or the active cell.
 
 
 ## Syntax
@@ -150,5 +150,5 @@ Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on 
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

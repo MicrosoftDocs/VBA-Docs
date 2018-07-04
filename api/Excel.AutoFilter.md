@@ -59,7 +59,7 @@ w.Range("A1").AutoFilter field:=1, Criteria1:="S"
 End Sub
 ```
 
-To create an  **AutoFilter** object for a worksheet, you must turn autofiltering on for a range on the worksheet either manually or using the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **[Range](Excel.Range(objec).md)** object. The following example uses the values stored in module-level variables in the previous example to restore the original autofiltering to the Crew worksheet.
+To create an  **AutoFilter** object for a worksheet, you must turn autofiltering on for a range on the worksheet either manually or using the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **[Range](Excel.Range(object).md)** object. The following example uses the values stored in module-level variables in the previous example to restore the original autofiltering to the Crew worksheet.
 
 
 

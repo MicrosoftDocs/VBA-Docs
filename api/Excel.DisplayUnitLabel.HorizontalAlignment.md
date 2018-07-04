@@ -41,5 +41,5 @@ Some of these constants may not be available to you, depending on the language s
 ## See also
 
 
-[DisplayUnitLabel Object](Excel.DisplayUnitLabel(objec).md)
+[DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 

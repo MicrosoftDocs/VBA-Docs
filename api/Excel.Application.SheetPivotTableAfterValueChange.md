@@ -20,7 +20,7 @@ Occurs after a cell or range of cells inside a PivotTable are edited or recalcul
 
  _expression_. `SheetPivotTableAfterValueChange`( `_Sh_` , `_TargetPivotTable_` , `_TargetRange_` )
 
- _expression_ A variable that represents a '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents a '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -31,7 +31,7 @@ Occurs after a cell or range of cells inside a PivotTable are edited or recalcul
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|The worksheet that contains the PivotTable|
 | _TargetPivotTable_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that contains the edited or recalculated cells.|
-| _TargetRange_|Required| **[Range](Excel.Range(objec).md)**|The range that contains all the edited or recalcuated cells.|
+| _TargetRange_|Required| **[Range](Excel.Range(object).md)**|The range that contains all the edited or recalcuated cells.|
 
 ### Return Value
 
@@ -46,5 +46,5 @@ The  **PivotTableAfterValueChange** event does not occur under any conditions ot
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

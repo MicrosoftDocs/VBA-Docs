@@ -20,7 +20,7 @@ Returns or sets the fill color for negative data points in a series. Read/write
 
  _expression_. `InvertColor`
 
- _expression_ A variable that represents a '[Series](Excel.Series(objec).md)' object.
+ _expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
 
 
 ### Return Value
@@ -50,5 +50,5 @@ ActiveChart.SeriesCollection(1).InvertColor = RGB(255, 0, 255)
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

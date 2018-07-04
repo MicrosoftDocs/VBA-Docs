@@ -26,5 +26,5 @@ Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value t
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[DownBars Object](Excel.DownBars(objec).md)
+[DownBars Object](Excel.DownBars(object).md)
 

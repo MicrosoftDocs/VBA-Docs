@@ -18,7 +18,7 @@ Represents a color scale conditional formatting rule.
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(objec).md)** collection. You can create a color scale formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddColorScale](Excel.FormatConditions.AddColorScale.md)** method of the **FormatConditions** collection.
+All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create a color scale formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddColorScale](Excel.FormatConditions.AddColorScale.md)** method of the **FormatConditions** collection.
 
 Color scales are visual guides that help you understand data distribution and variation. You can apply either a two-color or a three-color scale to a range of data, data in a table, or data in a PivotTable report. For a two-color scale conditional format, you assign the value, type, and color to the minimum and maximum thresholds of a range. A three-color scale also has a midpoint threshold.
 

@@ -26,5 +26,5 @@ Returns or sets a  **String** value that represents the chart title text.
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

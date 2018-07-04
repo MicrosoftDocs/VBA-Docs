@@ -26,5 +26,5 @@ Returns or sets the position of the chart title on the chart. Read/write  **[XlC
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

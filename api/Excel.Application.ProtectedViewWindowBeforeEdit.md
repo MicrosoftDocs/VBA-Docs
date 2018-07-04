@@ -20,7 +20,7 @@ Occurs immediately before editing is enabled on the workbook in the specified  *
 
  _expression_. `ProtectedViewWindowBeforeEdit`( `_Pvw_` , `_Cancel_` )
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -58,5 +58,5 @@ End Sub
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

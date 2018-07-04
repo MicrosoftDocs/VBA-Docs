@@ -40,5 +40,5 @@ The  **Characters** object isn't a collection.
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

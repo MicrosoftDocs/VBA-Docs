@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[Interior Object](Excel.Interior(objec).md)
+[Interior Object](Excel.Interior(object).md)
 

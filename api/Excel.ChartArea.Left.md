@@ -26,5 +26,5 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 ## See also
 
 
-[ChartArea Object](Excel.ChartArea(objec).md)
+[ChartArea Object](Excel.ChartArea(object).md)
 

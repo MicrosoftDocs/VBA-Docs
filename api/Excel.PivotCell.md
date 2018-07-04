@@ -18,7 +18,7 @@ Represents a cell in a PivotTable report.
 
 ## Remarks
 
-Use the  **[PivotCell](Excel.Range.PivotCell.md)** property of the **[Range](Excel.Range(objec).md)** collection to return a **PivotCell** object.
+Use the  **[PivotCell](Excel.Range.PivotCell.md)** property of the **[Range](Excel.Range(object).md)** collection to return a **PivotCell** object.
 
 Once a  **PivotCell** object is returned, you can use the **[ColumnItems](Excel.PivotCell.ColumnItems.md)** or **[RowItems](Excel.PivotCell.RowItems.md)** property to determine the **[PivotItems](Excel.PivotItems.md)** collection that corresponds to the items on the column or row axis that represents the selected number. The following example uses the **ColumnItems** property of the **PivotCell** object to return a **[PivotItemList](Excel.PivotItemList.md)** collection.
 

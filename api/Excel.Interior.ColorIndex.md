@@ -36,5 +36,5 @@ The color is specified as an index value into the current color palette, or as o
 ## See also
 
 
-[Interior Object](Excel.Interior(objec).md)
+[Interior Object](Excel.Interior(object).md)
 

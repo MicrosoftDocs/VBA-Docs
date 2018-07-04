@@ -24,5 +24,5 @@ If an [BinsUnderflowEnabled](Excel.chartgroup.binsunderflowenabled.md) is **True
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

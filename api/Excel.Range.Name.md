@@ -25,11 +25,11 @@ Returns or sets a  **Variant** value that represents the name of the object.
 
 ## Remarks
 
-The name of a  **[Range](Excel.Range(objec).md)** object is a **[Name](Excel.Name.md)** object.
+The name of a  **[Range](Excel.Range(object).md)** object is a **[Name](Excel.Name.md)** object.
 
 
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 
