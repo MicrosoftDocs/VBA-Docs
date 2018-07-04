@@ -208,4 +208,4 @@ End Namespace
 
 [Account Object Members](./overview/Outlook.md)
 [How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

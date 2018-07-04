@@ -231,4 +231,4 @@ End Sub
 
 
 [Send an E-mail Given the SMTP Address of an Account (Outlook)](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)<br>
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

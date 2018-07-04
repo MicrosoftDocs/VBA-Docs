@@ -24,6 +24,6 @@ Use the  **[Vertical](Excel.SparkAxes.Vertical.md)** property of the **[SparkAxe
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 
 

@@ -12,7 +12,7 @@ This reference contains information about the collections, objects, methods, pro
 
 Note: If you are looking for information about Microsoft Graph, the unified API endpoint, see [Microsoft Graph Overview](http://graph.microsoft.io/en-us/docs).
 
--  **[Concepts](./Excel.md)** Provides important concepts about developing custom Excel Graph solutions.
+-  **[Concepts](../Excel.md)** Provides important concepts about developing custom Excel Graph solutions.
     
 -  **[Collections](collections-graph-visual-basic-reference.md)** Provides reference information about the collections in the object model.
     

@@ -46,4 +46,4 @@ This collection is read-only, and serves the purpose of enumerating time zones s
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

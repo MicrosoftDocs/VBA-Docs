@@ -62,4 +62,4 @@ To see an example of an add-in that adds folders to the  **Solutions** module, s
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

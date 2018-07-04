@@ -57,4 +57,4 @@ Set myNewColumn = Worksheets(1).ListObject(1).ListColumns.Add
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)

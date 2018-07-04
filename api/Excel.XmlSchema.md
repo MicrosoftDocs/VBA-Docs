@@ -28,6 +28,6 @@ Use the  **[XML](Excel.XmlSchema.XML.md)** property to return the XML contents o
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 
 

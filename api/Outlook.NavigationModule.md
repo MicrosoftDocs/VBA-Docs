@@ -60,4 +60,4 @@ You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

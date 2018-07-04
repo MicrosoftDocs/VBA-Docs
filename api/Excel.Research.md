@@ -34,6 +34,6 @@ Worksheets("Sheet1").Research.Translate = True
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 
 

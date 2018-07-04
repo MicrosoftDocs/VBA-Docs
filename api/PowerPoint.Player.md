@@ -19,5 +19,5 @@ Allows access to playback controls for the associated shape in the current windo
 ## See also
 
 
-[PowerPoint Object Model Reference](overview/object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 

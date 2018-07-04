@@ -20,6 +20,6 @@ Version Added: Outlook 2013
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [PeopleView Object Members](./overview/Outlook.md)
 

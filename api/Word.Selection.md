@@ -333,5 +333,5 @@ Because  **Range** objects share many of the same methods and properties as **Se
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

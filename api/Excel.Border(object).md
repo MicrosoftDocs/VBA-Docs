@@ -1,4 +1,4 @@
----
+﻿---
 title: Border Object (Excel)
 keywords: vbaxl10.chm546072
 f1_keywords:
@@ -74,4 +74,4 @@ Worksheets("Sheet1").Range("A1:G1"). _
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)

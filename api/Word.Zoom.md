@@ -41,6 +41,6 @@ The  **Add** method isn't available for the **Zooms** collection. The **Zooms** 
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

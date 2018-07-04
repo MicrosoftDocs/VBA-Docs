@@ -55,5 +55,5 @@ Because the index number for a particular chart group can change if the chart fo
 
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 

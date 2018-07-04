@@ -1,4 +1,4 @@
----
+﻿---
 title: ShapeRange Object (Excel)
 keywords: vbaxl10.chm639072
 f1_keywords:
@@ -160,4 +160,4 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor.RGB = _
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)

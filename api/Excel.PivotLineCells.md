@@ -24,6 +24,6 @@ Use the  **PivotLineCells** ( _index_) method to return or specify the location 
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 
 

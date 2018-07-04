@@ -84,4 +84,4 @@ Many of the properties of the  **FillFormat** object are read-only. To set one o
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)

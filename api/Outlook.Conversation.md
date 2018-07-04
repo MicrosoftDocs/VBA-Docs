@@ -175,5 +175,5 @@ void EnumerateConversation(object item,
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [Conversation Object Members](./overview/Outlook.md)

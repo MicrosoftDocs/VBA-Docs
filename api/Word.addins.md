@@ -62,6 +62,6 @@ Use the  **Compiled** property to determine whether an **AddIn** object is a tem
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

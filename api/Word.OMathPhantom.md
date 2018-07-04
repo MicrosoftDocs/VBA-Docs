@@ -25,5 +25,5 @@ Use the  **OMathPhantom** object to display the spacing of part of an equation w
 
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

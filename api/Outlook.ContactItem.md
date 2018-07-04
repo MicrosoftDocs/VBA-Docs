@@ -276,5 +276,5 @@ Set myItem = Application.CreateItem(olContactItem)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [ContactItem Object Members](./overview/Outlook.md)

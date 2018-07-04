@@ -24,6 +24,6 @@ The SparkColor object corresponds to the settings of the items available on the 
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 
 

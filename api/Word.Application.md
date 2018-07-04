@@ -1,4 +1,4 @@
----
+﻿---
 title: Application Object (Word)
 keywords: vbawd10.chm2416
 f1_keywords:
@@ -284,5 +284,5 @@ Set wrd = Nothing
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

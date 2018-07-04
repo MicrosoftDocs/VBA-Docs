@@ -25,5 +25,5 @@ A table style defines the formatting for one or all of the elements of a table, 
 
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 

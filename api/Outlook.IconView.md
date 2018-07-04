@@ -71,4 +71,4 @@ You can change built-in  **IconView** objects, but you cannot delete them. Use t
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

@@ -26,6 +26,6 @@ The properties of the  **ValueChange** object specify details about the change t
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 
 

@@ -19,6 +19,6 @@ Represents an invisible box around an equation or part of an equation to which y
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

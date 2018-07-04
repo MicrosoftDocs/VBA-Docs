@@ -58,6 +58,6 @@ End Sub
 [Attach an Outlook Contact Item to an Email Message](../outlook/Concepts/Attachments/attach-an-outlook-contact-item-to-an-email-message.md)
 [Limit the Size of an Attachment to an Outlook Email Message](../outlook/Concepts/Attachments/limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
 [Modify an Attachment of an Outlook Email Message](../outlook/Concepts/Attachments/modify-an-attachment-of-an-outlook-email-message.md)
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 
 

@@ -25,5 +25,5 @@ The  **OMathRecognizedFunctions** collection is a collection of the names that a
 
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

@@ -19,6 +19,6 @@ This object or member has been deprecated, but it remains part of the object mod
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 
 

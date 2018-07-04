@@ -93,4 +93,4 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

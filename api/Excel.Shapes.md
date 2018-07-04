@@ -1,4 +1,4 @@
----
+﻿---
 title: Shapes Object (Excel)
 keywords: vbaxl10.chm637072
 f1_keywords:
@@ -79,5 +79,5 @@ End Sub
 
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excelobject-model.md)
 
