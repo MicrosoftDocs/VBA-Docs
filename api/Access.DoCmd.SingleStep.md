@@ -25,7 +25,7 @@ Pauses macro execution and opens the  **Macro Single Step** dialog box.
 
 ## Remarks
 
-The  **SingleStep** method will not stop the execution of or assist in debugging Visual Basic for Applications (VBA) code. Use the **[Stop](../Language-Reference/Language-Reference/User-Interface-Help/stop-statement.md)** statement to pause execution of VBA code.
+The  **SingleStep** method will not stop the execution of or assist in debugging Visual Basic for Applications (VBA) code. Use the **[Stop](../language/reference/User-Interface-Help/stop-statement.md)** statement to pause execution of VBA code.
 
 
 ## See also

@@ -20,7 +20,7 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 |**vbEmpty**|0|Uninitialized (default)|
 |**vbNull**|1|Contains no valid data|
 |**vbInteger**|2|[Integer](vbe-glossary.md)|
-|**vbLong**|3|[Long](../../Language-Reference/User-Interface-Help/long-data-type.md) integer|
+|**vbLong**|3|[Long](../../reference/User-Interface-Help/long-data-type.md) integer|
 |**vbSingle**|4|Single-precision floating-point number|
 |**vbDouble**|5|Double-precision floating-point number|
 |**vbCurrency**|6|[Currency](vbe-glossary.md)|
@@ -33,7 +33,7 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 |**vbDataObject**|13|Data access object|
 |**vbDecimal**|14|[Decimal](vbe-glossary.md)|
 |**vbByte**|17|[Byte](vbe-glossary.md)|
-|**vbLongLong**|20|[LongLong](../../Language-Reference/User-Interface-Help/long-data-type.md) integer (Valid on 64-bit platforms only.)|
+|**vbLongLong**|20|[LongLong](../../reference/User-Interface-Help/long-data-type.md) integer (Valid on 64-bit platforms only.)|
 |**vbUserDefinedType**|36|Variants that contain user-defined types|
 |**vbArray**|8192|Array|
 

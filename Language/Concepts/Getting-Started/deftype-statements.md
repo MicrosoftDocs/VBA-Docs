@@ -42,8 +42,8 @@ The statement name determines the data type:
 |**DefByte**|[Byte](vbe-glossary.md)|
 |**DefInt**|[Integer](vbe-glossary.md)|
 |**DefLng**|[Long](vbe-glossary.md)|
-|**DefLngLng**|[LongLong](../../Language-Reference/User-Interface-Help/longlong-data-type.md) (Valid on 64-bit platforms only.)|
-|**DefLngPtr**|[LongPtr](../../Language-Reference/User-Interface-Help/longptr-data-type.md)|
+|**DefLngLng**|[LongLong](../../reference/User-Interface-Help/longlong-data-type.md) (Valid on 64-bit platforms only.)|
+|**DefLngPtr**|[LongPtr](../../reference/User-Interface-Help/longptr-data-type.md)|
 |**DefCur**|[Currency](vbe-glossary.md)|
 |**DefSng**|[Single](vbe-glossary.md)|
 |**DefDbl**|[Double](vbe-glossary.md)|

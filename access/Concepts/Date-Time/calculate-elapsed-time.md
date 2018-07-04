@@ -78,11 +78,11 @@ Because dates and times are stored together as double-precision numbers, you may
 ? Now()=DateValue("7/11/2006")
 ```
 
-The  **[Now](../../../Language-Reference/Language-Reference/User-Interface-Help/now-function.md)** function returns a double-precision number representing the current date and time. However, the **[DateValue](../../../Language-Reference/Language-Reference/User-Interface-Help/datevalue-function.md)** function returns an integer number representing the date but not a fractional time value. As a result, **Now** equals **DateValue** only when **Now** returns a time of 00:00:00 (12:00:00 A.M.).
+The  **[Now](../../../language/reference/User-Interface-Help/now-function.md)** function returns a double-precision number representing the current date and time. However, the **[DateValue](../../../language/reference/User-Interface-Help/datevalue-function.md)** function returns an integer number representing the date but not a fractional time value. As a result, **Now** equals **DateValue** only when **Now** returns a time of 00:00:00 (12:00:00 A.M.).
 
 To receive accurate results when you compare date values, use one of the following functions. To test each function, type it in the Immediate window, substitute the current date for 7/11/2006, and then press ENTER: 
 
-To return an integer value, use the  **[Date](../../../Language-Reference/Language-Reference/User-Interface-Help/date-function.md)** function:
+To return an integer value, use the  **[Date](../../../language/reference/User-Interface-Help/date-function.md)** function:
 
 
 
@@ -91,7 +91,7 @@ To return an integer value, use the  **[Date](../../../Language-Reference/Langua
 ?Date()=DateValue("7/11/2006")
 ```
 
-To remove the fractional portion of the  **Now** function, use the **[Int](../../../Language-Reference/Language-Reference/User-Interface-Help/int-fix-functions.md)** function:
+To remove the fractional portion of the  **Now** function, use the **[Int](../../../language/reference/User-Interface-Help/int-fix-functions.md)** function:
 
 
 
@@ -138,7 +138,7 @@ var2 = DateAdd("n", 10, var1)
 ? CStr(var2) = CStr(#2:10:00 PM#)
 ```
 
-Use the  **[DateDiff](../../../Language-Reference/Language-Reference/User-Interface-Help/datediff-function.md)** function to compare precise units such as seconds:
+Use the  **[DateDiff](../../../language/reference/User-Interface-Help/datediff-function.md)** function to compare precise units such as seconds:
 
 
 

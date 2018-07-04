@@ -46,10 +46,10 @@ The function name determines the return type as shown in the following:
 |**CDec** [Decimal](vbe-glossary.md)|79,228,162,514,264,337,593,543,950,335 for zero-scaled numbers, that is, numbers with no decimal places. For numbers with 28 decimal places, the range is 7.9228162514264337593543950335. The smallest possible non-zero number is 0.0000000000000000000000000001.|
 |**CInt** [Integer](vbe-glossary.md)|-32,768 to 32,767+ADs- fractions are rounded.|
 |**CLng** [Long](vbe-glossary.md)|-2,147,483,648 to 2,147,483,647+ADs- fractions are rounded.|
-|**CLngLng** [LongLong](../../Language-Reference/User-Interface-Help/longlong-data-type.md)|-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807+ADs- fractions are rounded. (Valid on 64-bit platforms only.)|
-|**CLngPtr** [LongPtr](../../Language-Reference/User-Interface-Help/longptr-data-type.md)|-2,147,483,648 to 2,147,483,647 on 32-bit systems, -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 on 64-bit systems+ADs- fractions are rounded for 32-bit and 64-bit systems.|
+|**CLngLng** [LongLong](../../reference/User-Interface-Help/longlong-data-type.md)|-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807+ADs- fractions are rounded. (Valid on 64-bit platforms only.)|
+|**CLngPtr** [LongPtr](../../reference/User-Interface-Help/longptr-data-type.md)|-2,147,483,648 to 2,147,483,647 on 32-bit systems, -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 on 64-bit systems+ADs- fractions are rounded for 32-bit and 64-bit systems.|
 |**CSng** [Single](vbe-glossary.md)|-3.402823E38 to -1.401298E-45 for negative values+ADs- 1.401298E-45 to 3.402823E38 for positive values.|
-|**CStr** [String](vbe-glossary.md)|AWw-Returns for CStr](../../Language-Reference/User-Interface-Help/returns-for-cstr.md) depend on the _expression_ argument.|
+|**CStr** [String](vbe-glossary.md)|AWw-Returns for CStr](../../reference/User-Interface-Help/returns-for-cstr.md) depend on the _expression_ argument.|
 |**CVar** [Variant](vbe-glossary.md)|Same range as  **Double** for numerics. Same range as **String** for non-numerics.|
 
 ## Remarks
