@@ -34245,7 +34245,7 @@
 #### [Use the Object Browser](../language/reference/User-Interface-Help/use-the-object-browser.md)
 #### [Use the Project Explorer](../language/reference/User-Interface-Help/use-the-project-explorer.md)
 #### [Use the Properties Window](../language/reference/User-Interface-Help/use-the-properties-window.md)
-### Language Reference
+### Reference
 #### [Ambiguous selection](../language/reference/ambiguous-selection.md)
 #### [Keyword Not Found](../language/reference/keyword-not-found.md)
 #### [Character Sets](../language/reference/character-sets.md)
