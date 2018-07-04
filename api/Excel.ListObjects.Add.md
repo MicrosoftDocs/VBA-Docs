@@ -29,7 +29,7 @@ Creates a new list object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SourceType_|Optional|**[XlListObjectSourceType](XllistObjectSourceType-enumeration-excel.md)**|Indicates the kind of source for the query. |
+| _SourceType_|Optional|**[XlListObjectSourceType](Excel.XlListObjectSourceType.md)**|Indicates the kind of source for the query. |
 | _Source_|Optional|**Variant**|when SourceType =  **xlSrcRange** . A **[Range](Excel.Range(object).md)** object representing the data source. If omitted, the Source will default to the range returned by list range detection code. when SourceType = **xlSrcExternal** . An array of **String** values specifying a connection to the source, containing the following elements:<ul><li>0 - URL to SharePoint site</li><li>1 - ListName</li><li>2 - ViewGUID</li></ul>|
 | _LinkSource_|Optional|**Boolean**| Indicates whether an external data source is to be linked to the **ListObject** object. If SourceType is **xlSrcExternal** , default is **True** . Invalid if SourceType is **xlSrcRange** , and will return an error if not omitted.|
 | _XlListObjectHasHeaders_|Optional|**Variant**|An  **[XlYesNoGuess](Excel.XlYesNoGuess.md)** constant that indicates whether the data being imported has column labels. If the Source does not contain headers, Excel will automatically generate headers. Default value: **xlGuess**.|

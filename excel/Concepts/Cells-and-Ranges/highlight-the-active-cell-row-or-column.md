@@ -52,7 +52,7 @@ End Sub
 
 ## Highlighting the Row and Column that Contain the Active Cell, Within the Current Region
 
-The following code example clears the color in all the cells on the worksheet by setting the  **[ColorIndex](../../../api/Excel.Interior.ColorIndex.md)** property equal to 0, and then highlights the row and column that contain the active cell, within the current region by using the **[CurrentRegion](../../../api/Excel.Range.CurrentRegion.md)** property of the **[Range](../../../api/Excel.Range(objec).md)** object.
+The following code example clears the color in all the cells on the worksheet by setting the  **[ColorIndex](../../../api/Excel.Interior.ColorIndex.md)** property equal to 0, and then highlights the row and column that contain the active cell, within the current region by using the **[CurrentRegion](../../../api/Excel.Range.CurrentRegion.md)** property of the **[Range](../../../api/Excel.Range(object).md)** object.
 
 
 ```vb
