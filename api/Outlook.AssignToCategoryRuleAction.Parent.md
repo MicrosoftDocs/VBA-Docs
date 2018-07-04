@@ -25,11 +25,11 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **[AssignToCategoryRuleAction](assigntocategoryOutlook.RuleAction.md)** object is the **[RuleAction](Outlook.RuleAction.md)** object.
+The parent of the  **[AssignToCategoryRuleAction](Outlook.assigntocategoryRuleAction.md)** object is the **[RuleAction](Outlook.RuleAction.md)** object.
 
 
 ## See also
 
 
-[AssignToCategoryRuleAction Object](assigntocategoryOutlook.RuleAction.md)
+[AssignToCategoryRuleAction Object](Outlook.assigntocategoryRuleAction.md)
 

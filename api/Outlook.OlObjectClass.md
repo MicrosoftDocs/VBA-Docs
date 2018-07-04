@@ -20,7 +20,7 @@ Specifies constants that represent the different Microsoft Outlook object classe
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **olAccount**|105|An  **[Account](Outlook.Account.md)** object.|
-| **olAccountRuleCondition**|135|An  **[AccountRuleCondition](accountOutlook.RuleCondition.md)** object.|
+| **olAccountRuleCondition**|135|An  **[AccountRuleCondition](Outlook.accountRuleCondition.md)** object.|
 | **olAccounts**|106|An  **[Accounts](Outlook.Accounts.md)** object.|
 | **olAction**|32|An  **[Action](Outlook.Action.md)** object.|
 | **olActions**|33|An  **[Actions](Outlook.Actions.md)** object.|
@@ -28,21 +28,21 @@ Specifies constants that represent the different Microsoft Outlook object classe
 | **olAddressEntry**|8|An  **[AddressEntry](Outlook.AddressEntry.md)** object.|
 | **olAddressList**|7|An  **[AddressList](Outlook.AddressList.md)** object.|
 | **olAddressLists**|20|An  **[AddressLists](Outlook.AddressLists.md)** object.|
-| **olAddressRuleCondition**|170|An  **[AddressRuleCondition](addressOutlook.RuleCondition.md)** object.|
+| **olAddressRuleCondition**|170|An  **[AddressRuleCondition](Outlook.addressRuleCondition.md)** object.|
 | **olApplication**|0|An  **[Application](Outlook.Application.md)** object.|
 | **olAppointment**|26|An  **[AppointmentItem](Outlook.AppointmentItem.md)** object.|
-| **olAssignToCategoryRuleAction**|122|An  **[AssignToCategoryRuleAction](assigntocategoryOutlook.RuleAction.md)** object.|
+| **olAssignToCategoryRuleAction**|122|An  **[AssignToCategoryRuleAction](Outlook.assigntocategoryRuleAction.md)** object.|
 | **olAttachment**|5|An  **[Attachment](Outlook.Attachment.md)** object.|
 | **olAttachments**|18|An  **[Attachments](Outlook.Attachments.md)** object.|
-| **olAttachmentSelection**|169|An  **[AttachmentSelection](attachmentOutlook.Selection.md)** object.|
-| **olAutoFormatRule**|147|An  **[AutoFormatRule](autoformatOutlook.Rule.md)** object.|
-| **olAutoFormatRules**|148|An  **[AutoFormatRules](autoformatOutlook.Rules.md)** object.|
+| **olAttachmentSelection**|169|An  **[AttachmentSelection](Outlook.attachmentSelection.md)** object.|
+| **olAutoFormatRule**|147|An  **[AutoFormatRule](Outlook.autoformatRule.md)** object.|
+| **olAutoFormatRules**|148|An  **[AutoFormatRules](Outlook.autoformatRules.md)** object.|
 | **olCalendarModule**|159|A  **[CalendarModule](Outlook.CalendarModule.md)** object.|
 | **olCalendarSharing**|151|A  **[CalendarSharing](Outlook.CalendarSharing.md)** object.|
 | **olCategories**|153|A  **[Categories](Outlook.Categories.md)** object.|
 | **olCategory**|152|A  **[Category](Outlook.Category.md)** object.|
-| **olCategoryRuleCondition**|130|A  **[CategoryRuleCondition](categoryOutlook.RuleCondition.md)** object.|
-| **olClassBusinessCardView**|168|A  **[BusinessCardView](businessOutlook.CardView.md)** object.|
+| **olCategoryRuleCondition**|130|A  **[CategoryRuleCondition](Outlook.categoryRuleCondition.md)** object.|
+| **olClassBusinessCardView**|168|A  **[BusinessCardView](Outlook.businessCardView.md)** object.|
 | **olClassCalendarView**|139|A  **[CalendarView](Outlook.CalendarView.md)** object.|
 | **olClassCardView**|138|A  **[CardView](Outlook.CardView.md)** object.|
 | **olClassIconView**|137|An  **[IconView](Outlook.IconView.md)** object.|
@@ -74,11 +74,11 @@ Specifies constants that represent the different Microsoft Outlook object classe
 | **olFolderUserProperties**|172|A  **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object.|
 | **olFolderUserProperty**|171|A  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** object.|
 | **olFormDescription**|37|A  **[FormDescription](Outlook.FormDescription.md)** object.|
-| **olFormNameRuleCondition**|131|A  **[FormNameRuleCondition](formnameOutlook.RuleCondition.md)** object.|
+| **olFormNameRuleCondition**|131|A  **[FormNameRuleCondition](Outlook.formnameRuleCondition.md)** object.|
 | **olFormRegion**|129|A  **[FormRegion](Outlook.FormRegion.md)** object.|
-| **olFromRssFeedRuleCondition**|173|A  **[FromRssFeedRuleCondition](fromrssfeedOutlook.RuleCondition.md)** object.|
-| **olFromRuleCondition**|132|A  **[ToOrFromRuleCondition](toorfromOutlook.RuleCondition.md)** object.|
-| **olImportanceRuleCondition**|128|An  **[ImportanceRuleCondition](importanceOutlook.RuleCondition.md)** object.|
+| **olFromRssFeedRuleCondition**|173|A  **[FromRssFeedRuleCondition](Outlook.fromrssfeedRuleCondition.md)** object.|
+| **olFromRuleCondition**|132|A  **[ToOrFromRuleCondition](Outlook.toorfromRuleCondition.md)** object.|
+| **olImportanceRuleCondition**|128|An  **[ImportanceRuleCondition](Outlook.importanceRuleCondition.md)** object.|
 | **olInspector**|35|An  **[Inspector](Outlook.Inspector.md)** object.|
 | **olInspectors**|61|An  **[Inspectors](Outlook.Inspectors.md)** object.|
 | **olItemProperties**|98|An  **[ItemProperties](Outlook.ItemProperties.md)** object.|
@@ -88,14 +88,14 @@ Specifies constants that represent the different Microsoft Outlook object classe
 | **olJournalModule**|162|A  **[JournalModule](Outlook.JournalModule.md)** object.|
 | **olMail**|43|A  **[MailItem](Outlook.MailItem.md)** object.|
 | **olMailModule**|158|A  **[MailModule](Outlook.MailModule.md)** object.|
-| **olMarkAsTaskRuleAction**|124|A  **[MarkAsTaskRuleAction](markastaskOutlook.RuleAction.md)** object.|
+| **olMarkAsTaskRuleAction**|124|A  **[MarkAsTaskRuleAction](Outlook.markastaskRuleAction.md)** object.|
 | **olMeetingCancellation**|54|A  **[MeetingItem](Outlook.MeetingItem.md)** object that is a meeting cancellation notice.|
 | **olMeetingForwardNotification**|181|A  **[MeetingItem](Outlook.MeetingItem.md)** object that is a notice about forwarding the meeting request.|
 | **olMeetingRequest**|53|A  **[MeetingItem](Outlook.MeetingItem.md)** object that is a meeting request.|
 | **olMeetingResponseNegative**|55|A  **[MeetingItem](Outlook.MeetingItem.md)** object that is a refusal of a meeting request.|
 | **olMeetingResponsePositive**|56|A  **[MeetingItem](Outlook.MeetingItem.md)** object that is an acceptance of a meeting request.|
 | **olMeetingResponseTentative**|57|A  **[MeetingItem](Outlook.MeetingItem.md)** object that is a tentative acceptance of a meeting request.|
-| **olMoveOrCopyRuleAction**|118|A  **[MoveOrCopyRuleAction](moveorcopyOutlook.RuleAction.md)** object.|
+| **olMoveOrCopyRuleAction**|118|A  **[MoveOrCopyRuleAction](Outlook.moveorcopyRuleAction.md)** object.|
 | **olNamespace**|1|A  **[NameSpace](Outlook.NameSpace.md)** object.|
 | **olNavigationFolder**|167|A  **[NavigationFolder](Outlook.NavigationFolder.md)** object.|
 | **olNavigationFolders**|166|A  **[NavigationFolders](Outlook.NavigationFolders.md)** object.|
@@ -103,7 +103,7 @@ Specifies constants that represent the different Microsoft Outlook object classe
 | **olNavigationGroups**|164|A  **[NavigationGroups](Outlook.NavigationGroups.md)** object.|
 | **olNavigationModule**|157|A  **[NavigationModule](Outlook.NavigationModule.md)** object.|
 | **olNavigationModules**|156|A  **[NavigationModules](Outlook.NavigationModules.md)** object.|
-| **olNewItemAlertRuleAction**|125|A  **[NewItemAlertRuleAction](newitemalertOutlook.RuleAction.md)** object.|
+| **olNewItemAlertRuleAction**|125|A  **[NewItemAlertRuleAction](Outlook.newitemalertRuleAction.md)** object.|
 | **olNote**|44|A  **[NoteItem](Outlook.NoteItem.md)** object.|
 | **olNotesModule**|163|A  **[NotesModule](Outlook.NotesModule.md)** object.|
 | **olOrderField**|144|An  **[OrderField](Outlook.OrderField.md)** object.|
@@ -117,7 +117,7 @@ Specifies constants that represent the different Microsoft Outlook object classe
 | **olOutspace**|180|An  **[AccountSelector](Outlook.AccountSelector.md)** object.|
 | **olPages**|36|A  **[Pages](Outlook.Pages.md)** object.|
 | **olPanes**|62|A  **[Panes](Outlook.Panes.md)** object.|
-| **olPlaySoundRuleAction**|123|A  **[PlaySoundRuleAction](playsoundOutlook.RuleAction.md)** object.|
+| **olPlaySoundRuleAction**|123|A  **[PlaySoundRuleAction](Outlook.playsoundRuleAction.md)** object.|
 | **olPost**|45|A  **[PostItem](Outlook.PostItem.md)** object.|
 | **olPropertyAccessor**|112|A  **[PropertyAccessor](Outlook.PropertyAccessor.md)** object.|
 | **olPropertyPages**|71|A  **[PropertyPages](Outlook.PropertyPages.md)** object.|

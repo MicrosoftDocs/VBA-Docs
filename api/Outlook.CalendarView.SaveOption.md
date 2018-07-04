@@ -25,7 +25,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[CalendarView](calendarOutlook.View.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
+The value of the  **SaveOption** property is set when the **[CalendarView](Outlook.calendarView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example
@@ -117,5 +117,5 @@ End Sub
 ## See also
 
 
-[CalendarView Object](calendarOutlook.View.md)
+[CalendarView Object](Outlook.calendarView.md)
 

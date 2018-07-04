@@ -40,8 +40,8 @@ You can use the  **Modify** method to change one of the formats, or the **[Delet
 |:-----|
 |[Application](Access.FormatConditions.Application.md)|
 |[Count](Access.FormatConditions.Count.md)|
-|[Item](formatconditions-item-property-access.md)|
-|[Parent](formatconditions-parent-property-access.md)|
+|[Item](Access.FormatConditions.Item.md)|
+|[Parent](Access.FormatConditions.Parent.md)|
 
 ## See also
 

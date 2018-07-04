@@ -35,7 +35,7 @@ Fires when the string that appears as the fourth item under  **Prepare to follow
 
 You can use the  **[ShowFollowUpCustom](Publisher.Application.ShowFollowUpCustom.md)** property to display this string.
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-Publisher.Application.md).
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
 
 
 ## Example

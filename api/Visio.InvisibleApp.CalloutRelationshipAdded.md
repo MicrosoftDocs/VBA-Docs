@@ -26,7 +26,7 @@ Private Sub  _expression_ _'CalloutRelationshipAdded'( **_By Val ShapePair As Re
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ShapePair_|Required| **[RelatedShapePairEvent](relatedshapepairVisio.Event.md)**|An object that represents the new callout shape-pair relationship.|
+| _ShapePair_|Required| **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)**|An object that represents the new callout shape-pair relationship.|
 
 ## Remarks
 

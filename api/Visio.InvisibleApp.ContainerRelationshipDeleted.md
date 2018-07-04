@@ -26,7 +26,7 @@ Private Sub  _expression_ _'ContainerRelationshipDeleted'( **_By Val ShapePair A
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ShapePair_|Required| **[RelatedShapePairEvent](relatedshapepairVisio.Event.md)**|An object that represents the container shape-pair relationship.|
+| _ShapePair_|Required| **[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)**|An object that represents the container shape-pair relationship.|
 
 ## Remarks
 

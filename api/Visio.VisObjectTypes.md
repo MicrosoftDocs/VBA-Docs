@@ -37,7 +37,7 @@ Specifies codes returned by the  **ObjectType** property.
 | **visObjTypeDataColumns**|55|[DataColumns](Visio.DataColumns.md) collection|
 | **visObjTypeDataConnection**|54|[DataConnection](Visio.DataConnection.md) object|
 | **visObjTypeDataRecordset**|53|[DataRecordset](Visio.DataRecordset.md) object|
-| **visObjTypeDataRecordsetChangedEvent**|57|[DataRecordsetChangedEvent](datarecordsetchangedVisio.Event.md) object|
+| **visObjTypeDataRecordsetChangedEvent**|57|[DataRecordsetChangedEvent](Visio.datarecordsetchangedEvent.md) object|
 | **visObjTypeDataRecordsets**|52|[DataRecordsets](Visio.DataRecordsets.md) collection|
 | **visObjTypeDoc**|10|[Document](Visio.Document.md) object|
 | **visObjTypeDocs**|11|[Documents](Visio.Documents.md) collection|
@@ -67,7 +67,7 @@ Specifies codes returned by the  **ObjectType** property.
 | **visObjTypePath**|41|[Path](Visio.Path.md) object|
 | **visObjTypePaths**|40|[Paths](Visio.Paths.md) collection|
 | **visObjTypeRelatedShapePairEvent**|61|[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md) object|
-| **visObjTypeReplaceShapesEvent**|71|[ReplaceShapesEvent](replaceshapesVisio.Event.md) object|
+| **visObjTypeReplaceShapesEvent**|71|[ReplaceShapesEvent](Visio.replaceshapesEvent.md) object|
 | **visObjTypeRow**|45|[Row](Visio.Row.md) object|
 | **visObjTypeSection**|44|[Section](Visio.Section.md) object|
 | **visObjTypeSelection**|16|[Selection](Visio.Selection.md) object|

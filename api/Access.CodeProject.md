@@ -81,7 +81,7 @@ For example, an  **AccessObject** object representing a form is a member of the 
 |[RemovePersonalInformation](Access.CodeProject.RemovePersonalInformation.md)|
 |[Resources](Access.CodeProject.Resources.md)|
 |[WebSite](Access.CodeProject.WebSite.md)|
-|[IsSQLBackend](codeproject-issqlbackend-property-access.md)|
+|[IsSQLBackend](Access.CodeProject.IsSQLBackend.md)|
 
 ## See also
 

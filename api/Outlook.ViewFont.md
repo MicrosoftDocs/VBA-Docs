@@ -21,7 +21,7 @@ Represents the font used when formatting text in various portions of a view.
 The  **ViewFont** object is used by the following objects to represent font formatting information applied to the text in various portions of a view:
 
 
-- The  **[HeadingsFont](businessOutlook.CardView.HeadingsFont.md)** property of the **[BusinessCardView](businessOutlook.CardView.md)** object.
+- The  **[HeadingsFont](Outlook.businessCardView.HeadingsFont.md)** property of the **[BusinessCardView](Outlook.businessCardView.md)** object.
     
 - The  **[DayWeekFont](./overview/Outlook.md)**, **[DayWeekTimeFont](./overview/Outlook.md)**, and **[MonthFont](./overview/Outlook.md)** properties of the **[CalendarView](Outlook.CalendarView.md)** object.
     

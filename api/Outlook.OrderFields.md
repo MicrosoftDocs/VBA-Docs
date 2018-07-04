@@ -21,7 +21,7 @@ Represents the collection of  **[OrderField](Outlook.OrderField.md)** objects in
 The  **OrderFields** collection represents the Outlook item properties used to sort Outlook items displayed in the view. Use the **[Add](Outlook.OrderFields.Add.md)** method or the **OrderFields** collection to create a new order field for the following objects derived from the **[View](Outlook.View.md)** object:
 
 
--  **[BusinessCardView](businessOutlook.CardView.md)**
+-  **[BusinessCardView](Outlook.businessCardView.md)**
     
 -  **[CardView](Outlook.CardView.md)**
     

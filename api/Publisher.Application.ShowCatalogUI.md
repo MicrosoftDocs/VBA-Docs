@@ -29,7 +29,7 @@ You can use the  ** [Application.ShowWizardCatalog](Publisher.Application.ShowWi
 
 The  **ShowCatalogUI** event does not fire when the publication catalog is displayed when Publisher first starts. To determine if the catalog is displayed at that time, you can use the **[WizardCatalogVisible](Publisher.Application.WizardCatalogVisible.md)** property.
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-Publisher.Application.md).
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
 
 
 ## Example

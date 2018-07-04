@@ -2290,13 +2290,13 @@
 ###### [MouseDown](Access.NavigationControl.MouseDown.md)
 ###### [MouseMove](Access.NavigationControl.MouseMove.md)
 ###### [MouseUp](Access.NavigationControl.MouseUp.md)
-###### [Undo](Access.NavigationControl.Undo(even).md)
+###### [Undo](Access.NavigationControl.Undo(event).md)
 ##### Methods
 ###### [Move](Access.NavigationControl.Move.md)
 ###### [Requery](Access.NavigationControl.Requery.md)
 ###### [SetFocus](Access.NavigationControl.SetFocus.md)
 ###### [SizeToFit](Access.NavigationControl.SizeToFit.md)
-###### [Undo](Access.NavigationControl.Undo.md)
+###### [Undo](Access.NavigationControl.Undo(method).md)
 ##### Properties
 ###### [Application](Access.NavigationControl.Application.md)
 ###### [AutoTab](Access.NavigationControl.AutoTab.md)
@@ -3953,7 +3953,7 @@
 ##### [Reference Cells and Ranges](../excel/Concepts/Cells-and-Ranges/reference-cells-and-ranges.md)
 ##### [Refer to All the Cells on the Worksheet](../excel/Concepts/Cells-and-Ranges/refer-to-all-the-cells-on-the-worksheet.md)
 ##### [Refer to Cells and Ranges by Using A1 Notation](../excel/Concepts/Cells-and-Ranges/refer-to-cells-and-ranges-by-using-a1-notation.md)
-##### [Refer to Cells by Using a Range Object](../excel/Concepts/Cells-and-Ranges/refer-to-cells-by-using-a-Excel.Range(Graph object).md)
+##### [Refer to Cells by Using a Range Object](../excel/Concepts/Cells-and-Ranges/refer-to-cells-by-using-a-range-object.md)
 ##### [Refer to Cells by Using Index Numbers](../excel/Concepts/Cells-and-Ranges/refer-to-cells-by-using-index-numbers.md)
 ##### [Refer to Cells by Using Shortcut Notation](../excel/Concepts/Cells-and-Ranges/refer-to-cells-by-using-shortcut-notation.md)
 ##### [Refer to Cells Relative to Other Cells](../excel/Concepts/Cells-and-Ranges/refer-to-cells-relative-to-other-cells.md)
@@ -3993,7 +3993,7 @@
 ##### [List of Worksheet Functions Available to Visual Basic](../excel/Concepts/Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)
 ##### [List of Worksheet Functions that Support Long Strings](../excel/Concepts/Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-that-support-long-strings.md)
 ##### [Using Events with Embedded Charts](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-embedded-charts.md)
-##### [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-Excel.Application(Graph object).md)
+##### [Using Events with the Application Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-application-object.md)
 ##### [Using Events with the QueryTable Object](../excel/Concepts/Events-WorksheetFunctions-Shapes/using-events-with-the-querytable-object.md)
 ##### [Invalid Procedure Name Error](../excel/Concepts/Events-WorksheetFunctions-Shapes/invalid-procedure-name-error.md)
 #### Working with Other Applications
@@ -4426,7 +4426,7 @@
 ###### [Creator](Excel.Areas.Creator.md)
 ###### [Item](Excel.Areas.Item.md)
 ###### [Parent](Excel.Areas.Parent.md)
-#### [AutoCorrect Object](Excel.AutoCorrect.md)
+#### [AutoCorrect Object](Excel.AutoCorrect(object).md)
 ##### Methods
 ###### [AddReplacement](Excel.AutoCorrect.AddReplacement.md)
 ###### [DeleteReplacement](Excel.AutoCorrect.DeleteReplacement.md)
@@ -4471,7 +4471,7 @@
 ###### [Count](Excel.Axes.Count.md)
 ###### [Creator](Excel.Axes.Creator.md)
 ###### [Parent](Excel.Axes.Parent.md)
-#### [Axis Object](Excel.Axis.md)
+#### [Axis Object](Excel.Axis(object).md)
 ##### Methods
 ###### [Delete](Excel.Axis.Delete.md)
 ###### [Select](Excel.Axis.Select.md)
@@ -4524,7 +4524,7 @@
 ###### [Top](Excel.Axis.Top.md)
 ###### [Type](Excel.Axis.Type.md)
 ###### [Width](Excel.Axis.Width.md)
-#### [AxisTitle Object](Excel.AxisTitle.md)
+#### [AxisTitle Object](Excel.AxisTitle(object).md)
 ##### Methods
 ###### [Delete](Excel.AxisTitle.Delete.md)
 ###### [Select](Excel.AxisTitle.Select.md)
@@ -4552,7 +4552,7 @@
 ###### [Top](Excel.AxisTitle.Top.md)
 ###### [VerticalAlignment](Excel.AxisTitle.VerticalAlignment.md)
 ###### [Width](Excel.AxisTitle.Width.md)
-#### [Border Object](Excel.Border.md)
+#### [Border Object](Excel.Border(object).md)
 ##### Properties
 ###### [Application](Excel.Border.Application.md)
 ###### [Color](Excel.Border.Color.md)
@@ -4840,7 +4840,7 @@
 ###### [SoftEdge](Excel.ChartFormat.SoftEdge.md)
 ###### [TextFrame2](Excel.ChartFormat.TextFrame2.md)
 ###### [ThreeD](Excel.ChartFormat.ThreeD.md)
-#### [ChartGroup Object](Excel.ChartGroup.md)
+#### [ChartGroup Object](Excel.ChartGroup(object).md)
 ##### Methods
 ###### [CategoryCollection](Excel.chartgroup.categorycollection.md)
 ###### [FullCategoryCollection](Excel.chartgroup.fullcategorycollection.md)
@@ -5281,7 +5281,7 @@
 ###### [ServerCredentialsMethod](Excel.datafeedconnection.servercredentialsmethod.md)
 ###### [SourceConnectionFile](Excel.datafeedconnection.sourceconnectionfile.md)
 ###### [SourceDataFile](Excel.datafeedconnection.sourcedatafile.md)
-#### [DataLabel Object](Excel.DataLabel.md)
+#### [DataLabel Object](Excel.DataLabel(object).md)
 ##### Methods
 ###### [Delete](Excel.DataLabel.Delete.md)
 ###### [Select](Excel.DataLabel.Select.md)
@@ -5351,7 +5351,7 @@
 ###### [ShowSeriesName](Excel.DataLabels.ShowSeriesName.md)
 ###### [ShowValue](Excel.DataLabels.ShowValue.md)
 ###### [VerticalAlignment](Excel.DataLabels.VerticalAlignment.md)
-#### [DataTable Object](Excel.DataTable.md)
+#### [DataTable Object](Excel.DataTable(object).md)
 ##### Methods
 ###### [Delete](Excel.DataTable.Delete.md)
 ###### [Select](Excel.DataTable.Select.md)
@@ -5433,7 +5433,7 @@
 ###### [Style](Excel.DisplayFormat.Style.md)
 ###### [VerticalAlignment](Excel.DisplayFormat.VerticalAlignment.md)
 ###### [WrapText](Excel.DisplayFormat.WrapText.md)
-#### [DisplayUnitLabel Object](Excel.DisplayUnitLabel.md)
+#### [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 ##### Methods
 ###### [Delete](Excel.DisplayUnitLabel.Delete.md)
 ###### [Select](Excel.DisplayUnitLabel.Select.md)
@@ -5460,7 +5460,7 @@
 ###### [Top](Excel.DisplayUnitLabel.Top.md)
 ###### [VerticalAlignment](Excel.DisplayUnitLabel.VerticalAlignment.md)
 ###### [Width](Excel.DisplayUnitLabel.Width.md)
-#### [DownBars Object](Excel.DownBars.md)
+#### [DownBars Object](Excel.DownBars(object).md)
 ##### Methods
 ###### [Delete](Excel.DownBars.Delete.md)
 ###### [Select](Excel.DownBars.Select.md)
@@ -5470,7 +5470,7 @@
 ###### [Format](Excel.DownBars.Format.md)
 ###### [Name](Excel.DownBars.Name.md)
 ###### [Parent](Excel.DownBars.Parent.md)
-#### [DropLines Object](Excel.DropLines.md)
+#### [DropLines Object](Excel.DropLines(object).md)
 ##### Methods
 ###### [Delete](Excel.DropLines.Delete.md)
 ###### [Select](Excel.DropLines.Select.md)
@@ -5488,7 +5488,7 @@
 ###### [Ignore](Excel.Error.Ignore.md)
 ###### [Parent](Excel.Error.Parent.md)
 ###### [Value](Excel.Error.Value.md)
-#### [ErrorBars Object](Excel.ErrorBars.md)
+#### [ErrorBars Object](Excel.ErrorBars(object).md)
 ##### Methods
 ###### [ClearFormats](Excel.ErrorBars.ClearFormats.md)
 ###### [Delete](Excel.ErrorBars.Delete.md)
@@ -5593,7 +5593,7 @@
 ###### [Creator](Excel.Filters.Creator.md)
 ###### [Item](Excel.Filters.Item.md)
 ###### [Parent](Excel.Filters.Parent.md)
-#### [Floor Object](Excel.Floor.md)
+#### [Floor Object](Excel.Floor(object).md)
 ##### Methods
 ###### [ClearFormats](Excel.Floor.ClearFormats.md)
 ###### [Paste](Excel.Floor.Paste.md)
@@ -5606,7 +5606,7 @@
 ###### [Parent](Excel.Floor.Parent.md)
 ###### [PictureType](Excel.Floor.PictureType.md)
 ###### [Thickness](Excel.Floor.Thickness.md)
-#### [Font Object](Excel.Font.md)
+#### [Font Object](Excel.Font(object).md)
 ##### Properties
 ###### [Application](Excel.Font.Application.md)
 ###### [Background](Excel.Font.Background.md)
@@ -5710,7 +5710,7 @@
 ###### [LockAspectRatio](Excel.Graphic.LockAspectRatio.md)
 ###### [Parent](Excel.Graphic.Parent.md)
 ###### [Width](Excel.Graphic.Width.md)
-#### [Gridlines Object](Excel.Gridlines.md)
+#### [Gridlines Object](Excel.Gridlines(object).md)
 ##### Methods
 ###### [Delete](Excel.Gridlines.Delete.md)
 ###### [Select](Excel.Gridlines.Select.md)
@@ -5734,7 +5734,7 @@
 ##### Properties
 ###### [Picture](Excel.HeaderFooter.Picture.md)
 ###### [Text](Excel.HeaderFooter.Text.md)
-#### [HiLoLines Object](Excel.HiLoLines.md)
+#### [HiLoLines Object](Excel.HiLoLines(object).md)
 ##### Methods
 ###### [Delete](Excel.HiLoLines.Delete.md)
 ###### [Select](Excel.HiLoLines.Select.md)
@@ -5848,7 +5848,7 @@
 ###### [Creator](Excel.IconSets.Creator.md)
 ###### [Item](Excel.IconSets.Item.md)
 ###### [Parent](Excel.IconSets.Parent.md)
-#### [Interior Object](Excel.Interior.md)
+#### [Interior Object](Excel.Interior(object).md)
 ##### Properties
 ###### [Application](Excel.Interior.Application.md)
 ###### [Color](Excel.Interior.Color.md)
@@ -5878,7 +5878,7 @@
 ###### [UpdateNotify](Excel.IRTDUpdateEvent.UpdateNotify.md)
 ##### Properties
 ###### [HeartbeatInterval](Excel.IRTDUpdateEvent.HeartbeatInterval.md)
-#### [LeaderLines Object](Excel.LeaderLines.md)
+#### [LeaderLines Object](Excel.LeaderLines(object).md)
 ##### Methods
 ###### [Delete](Excel.LeaderLines.Delete.md)
 ###### [Select](Excel.LeaderLines.Select.md)
@@ -5888,7 +5888,7 @@
 ###### [Creator](Excel.LeaderLines.Creator.md)
 ###### [Format](Excel.LeaderLines.Format.md)
 ###### [Parent](Excel.LeaderLines.Parent.md)
-#### [Legend Object](Excel.Legend.md)
+#### [Legend Object](Excel.Legend(object).md)
 ##### Methods
 ###### [Clear](Excel.Legend.Clear.md)
 ###### [Delete](Excel.Legend.Delete.md)
@@ -5915,7 +5915,7 @@
 ###### [Count](Excel.LegendEntries.Count.md)
 ###### [Creator](Excel.LegendEntries.Creator.md)
 ###### [Parent](Excel.LegendEntries.Parent.md)
-#### [LegendEntry Object](Excel.LegendEntry.md)
+#### [LegendEntry Object](Excel.LegendEntry(object).md)
 ##### Methods
 ###### [Delete](Excel.LegendEntry.Delete.md)
 ###### [Select](Excel.LegendEntry.Select.md)
@@ -5931,7 +5931,7 @@
 ###### [Parent](Excel.LegendEntry.Parent.md)
 ###### [Top](Excel.LegendEntry.Top.md)
 ###### [Width](Excel.LegendEntry.Width.md)
-#### [LegendKey Object](Excel.LegendKey.md)
+#### [LegendKey Object](Excel.LegendKey(object).md)
 ##### Methods
 ###### [ClearFormats](Excel.LegendKey.ClearFormats.md)
 ###### [Delete](Excel.LegendKey.Delete.md)
@@ -7233,7 +7233,7 @@
 ###### [PivotCell](Excel.pivotvaluecell.pivotcell.md)
 ###### [ServerActions](Excel.pivotvaluecell.serveractions.md)
 ###### [Value](Excel.pivotvaluecell.value.md)
-#### [PlotArea Object](Excel.PlotArea.md)
+#### [PlotArea Object](Excel.PlotArea(object).md)
 ##### Methods
 ###### [ClearFormats](Excel.PlotArea.ClearFormats.md)
 ###### [Select](Excel.PlotArea.Select.md)
@@ -7252,7 +7252,7 @@
 ###### [Position](Excel.PlotArea.Position.md)
 ###### [Top](Excel.PlotArea.Top.md)
 ###### [Width](Excel.PlotArea.Width.md)
-#### [Point Object](Excel.Point.md)
+#### [Point Object](Excel.Point(object).md)
 ##### Methods
 ###### [ApplyDataLabels](Excel.Point.ApplyDataLabels.md)
 ###### [ClearFormats](Excel.Point.ClearFormats.md)
@@ -7465,7 +7465,7 @@
 ###### [Application](Excel.quickanalysis.application.md)
 ###### [Creator](Excel.quickanalysis.creator.md)
 ###### [Parent](Excel.quickanalysis.parent.md)
-#### [Range Object](Excel.Range.md)
+#### [Range Object](Excel.Range(object).md)
 ##### Methods
 ###### [Activate](Excel.Range.Activate.md)
 ###### [AddComment](Excel.Range.AddComment.md)
@@ -7805,7 +7805,7 @@
 ###### [Count](Excel.SeriesCollection.Count.md)
 ###### [Creator](Excel.SeriesCollection.Creator.md)
 ###### [Parent](Excel.SeriesCollection.Parent.md)
-#### [SeriesLines Object](Excel.SeriesLines.md)
+#### [SeriesLines Object](Excel.Series(object).md)
 ##### Methods
 ###### [Delete](Excel.SeriesLines.Delete.md)
 ###### [Select](Excel.SeriesLines.Select.md)
@@ -8309,7 +8309,7 @@
 ###### [Creator](Excel.SparklineGroups.Creator.md)
 ###### [Item](Excel.SparklineGroups.Item.md)
 ###### [Parent](Excel.SparklineGroups.Parent.md)
-#### [SparkPoints Object](Excel.SparkPoints(object).md)
+#### [SparkPoints Object](Excel.SparkPoints.md)
 ##### Properties
 ###### [Application](Excel.SparkPoints.Application.md)
 ###### [Creator](Excel.SparkPoints.Creator.md)
@@ -8602,7 +8602,7 @@
 ###### [RotationZ](Excel.ThreeDFormat.RotationZ.md)
 ###### [Visible](Excel.ThreeDFormat.Visible.md)
 ###### [Z](Excel.ThreeDFormat.Z.md)
-#### [TickLabels Object](Excel.TickLabels.md)
+#### [TickLabels Object](Excel.TickLabels(object).md)
 ##### Methods
 ###### [Delete](Excel.TickLabels.Delete.md)
 ###### [Select](Excel.TickLabels.Select.md)
@@ -8676,7 +8676,7 @@
 ###### [Drilled](Excel.TreeviewControl.Drilled.md)
 ###### [Hidden](Excel.TreeviewControl.Hidden.md)
 ###### [Parent](Excel.TreeviewControl.Parent.md)
-#### [Trendline Object](Excel.Trendline.md)
+#### [Trendline Object](Excel.Trendline(object).md)
 ##### Methods
 ###### [ClearFormats](Excel.Trendline.ClearFormats.md)
 ###### [Delete](Excel.Trendline.Delete.md)
@@ -8730,7 +8730,7 @@
 ###### [ScopeType](Excel.UniqueValues.ScopeType.md)
 ###### [StopIfTrue](Excel.UniqueValues.StopIfTrue.md)
 ###### [Type](Excel.UniqueValues.Type.md)
-#### [UpBars Object](Excel.UpBars.md)
+#### [UpBars Object](Excel.UpBars(object).md)
 ##### Methods
 ###### [Delete](Excel.UpBars.Delete.md)
 ###### [Select](Excel.UpBars.Select.md)
@@ -8819,7 +8819,7 @@
 ###### [Creator](Excel.VPageBreaks.Creator.md)
 ###### [Item](Excel.VPageBreaks.Item.md)
 ###### [Parent](Excel.VPageBreaks.Parent.md)
-#### [Walls Object](Excel.Walls.md)
+#### [Walls Object](Excel.Walls(object).md)
 ##### Methods
 ###### [ClearFormats](Excel.Walls.ClearFormats.md)
 ###### [Paste](Excel.Walls.Paste.md)
@@ -10213,7 +10213,7 @@
 ###### [SaveAs](Excel.SaveAs.md)
 ###### [SaveAsOldFileFormat](Excel.SaveAsOldFileFormat.md)
 ###### [SeriesCollection](Excel.SeriesCollection(Graph metho).md)
-###### [SetDefaultChart](setdefaultExcel.Chart(Graph metho).md)
+###### [SetDefaultChart](Excel.setdefaultChart.md)
 ###### [SetEchoOn](Excel.SetEchoOn.md)
 ###### [Solid](Excel.Solid.md)
 ###### [Trendlines](Excel.Trendlines(Graph metho).md)
@@ -10305,12 +10305,12 @@
 ###### [HasBorderHorizontal](Excel.HasBorderHorizontal.md)
 ###### [HasBorderOutline](Excel.HasBorderOutline.md)
 ###### [HasBorderVertical](Excel.HasBorderVertical.md)
-###### [HasDataLabel](Excel.hasDataLabel(Graph property).md)
+###### [HasDataLabel](Excel.hasDataLabel.md)
 ###### [HasDataLabels](Excel.HasDataLabels.md)
-###### [HasDataTable](Excel.hasDataTable(Graph property).md)
-###### [HasDisplayUnitLabel]Excel.(hasDisplayUnitLabel(Graph property).md)
-###### [HasDropLines](Excel.hasDropLines(Graph property).md)
-###### [HasErrorBars](Excel.HasErrorBars(Graph property).md)
+###### [HasDataTable](Excel.hasDataTable.md)
+###### [HasDisplayUnitLabel]Excel.(hasDisplayUnitLabel.md)
+###### [HasDropLines](Excel.hasDropLines.md)
+###### [HasErrorBars](Excel.HasErrorBars.md)
 ###### [HasHiLoLines](Excel.HasHiLoLines.md)
 ###### [HasLeaderLines](Excel.HasLeaderLines.md)
 ###### [HasLegend](Excel.HasLegend.md)
@@ -10371,7 +10371,7 @@
 ###### [Offset](Excel.Offset.md)
 ###### [Order](Excel.Order.md)
 ###### [Orientation](Excel.orientation.md)
-###### [OutlineFont](Excel.outlineFont(Graph property).md)
+###### [OutlineFont](Excel.OutlineFont.md)
 ###### [Overlap](Excel.Overlap.md)
 ###### [Parent](Excel.Parent.md)
 ###### [Pattern](Excel.Pattern.md)
@@ -10409,7 +10409,7 @@
 ###### [ShowCategoryName](Excel.ShowCategoryName.md)
 ###### [ShowChartTipNames](Excel.ShowChartTipNames.md)
 ###### [ShowChartTipValues](Excel.ShowChartTipValues.md)
-###### [ShowLegendKey](showExcel.LegendKey(Graph property).md)
+###### [ShowLegendKey](Excel.showLegendKey.md)
 ###### [ShowNegativeBubbles](Excel.ShowNegativeBubbles.md)
 ###### [ShowPercentage](Excel.ShowPercentage.md)
 ###### [ShowSeriesName](Excel.ShowSeriesName.md)
@@ -21059,7 +21059,7 @@
 ###### [WindowsUserAccount](Project.Resource.WindowsUserAccount.md)
 ###### [Work](Project.Resource.Work.md)
 ###### [WorkVariance](Project.Resource.WorkVariance.md)
-#### [ResourceGroups Object](Project.ResourceGroups.md)
+#### [ResourceGroups Object](Project.resourcegroups(object).md)
 ##### Methods
 ###### [Add](Project.ResourceGroups.Add.md)
 ###### [Copy](Project.ResourceGroups.Copy.md)
@@ -21068,7 +21068,7 @@
 ###### [Count](Project.ResourceGroups.Count.md)
 ###### [Item](Project.ResourceGroups.Item.md)
 ###### [Parent](Project.ResourceGroups.Parent.md)
-#### [ResourceGroups2 Object](Project.ResourceGroups2.md)
+#### [ResourceGroups2 Object](Project.resourcegroups2(object).md)
 ##### Methods
 ###### [Add](Project.ResourceGroups2.Add.md)
 ###### [Copy](Project.ResourceGroups2.Copy.md)
@@ -21322,7 +21322,7 @@
 ###### [Path](Project.subProject.Path.md)
 ###### [ReadOnly](Project.subProject.ReadOnly.md)
 ###### [SourceProject](Project.Subproject.SourceProject.md)
-#### [Subprojects Object](Project.subprojects.md)
+#### [Subprojects Object](Project.subprojects(object).md)
 ##### Properties
 ###### [Application](Project.subProjects.Application.md)
 ###### [Count](Project.subProjects.Count.md)
@@ -21874,7 +21874,7 @@
 ###### [Path](Project.TaskDependency.Path.md)
 ###### [To](Project.TaskDependency.To.md)
 ###### [Type](Project.TaskDependency.Type.md)
-#### [TaskGroups Object](Project.Taskgroups.md)
+#### [TaskGroups Object](Project.Taskgroups(object).md)
 ##### Methods
 ###### [Add](Project.Taskgroups.Add.md)
 ###### [Copy](Project.Taskgroups.Copy.md)
@@ -21883,7 +21883,7 @@
 ###### [Count](Project.Taskgroups.Count.md)
 ###### [Item](Project.Taskgroups.Item.md)
 ###### [Parent](Project.Taskgroups.Parent.md)
-#### [TaskGroups2 Object](Project.Taskgroups2.md)
+#### [TaskGroups2 Object](Project.Taskgroups2(object).md)
 ##### Methods
 ###### [Add](Project.Taskgroups2.Add.md)
 ###### [Copy](Project.Taskgroups2.Copy.md)
@@ -22295,8 +22295,8 @@
 ## [Publisher](./overview/Publisher.md)
 ### Concepts
 #### [Returning an Object from a Collection](../publisher/Concepts/returning-an-object-from-a-collection-publisher.md)
-#### [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md)
-#### [Using Events with the Document Object](../publisher/Concepts/using-events-with-the-Publisher.Document.md)
+#### [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md)
+#### [Using Events with the Document Object](../publisher/Concepts/using-events-with-the-document-object-publisher.md)
 ### [Object model](./overview/object-model-publisher-vba-reference.md)
 #### [Adjustments Object](Publisher.Adjustments.md)
 ##### Properties
@@ -24215,7 +24215,7 @@
 #### [About Extending the Functionality of Visio](../visio/Concepts/about-extending-the-functionality-of-visio.md)
 #### [About Linking Shapes to Data](../visio/Concepts/about-linking-shapes-to-data.md)
 #### [About Security Settings and Running Code in Visio](../visio/Concepts/about-security-settings-and-running-code-in-visio.md)
-#### [About the This Document Object](../visio/Concepts/about-the-thisVisio.Document.md)
+#### [About the This Document Object](../visio/Concepts/about-the-thisdocument-object-visio.md)
 #### [About the Visio Drawing Control](../visio/Concepts/about-the-visio-drawing-control.md)
 #### [About the Visio Type Library](../visio/Concepts/about-the-visio-type-library.md)
 #### [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md)
@@ -27278,7 +27278,7 @@
 ##### [Using Control Values While Code Is Running](../word/Concepts/Objects-Properties-Methods/using-control-values-while-code-is-running-word.md)
 ##### [Using DAO from Microsoft Word](../word/Concepts/Objects-Properties-Methods/using-dao-from-microsoft-word.md)
 ##### [Using Events with ActiveX Controls](../word/Concepts/Objects-Properties-Methods/using-events-with-activex-controls.md)
-##### [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-Word.Application.md)
+##### [Using Events with the Application Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-application-object-word.md)
 ##### [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md)
 ##### [Bind a Content Control to a Node in the Data Store](../word/Concepts/Objects-Properties-Methods/bind-a-content-control-to-a-node-in-the-data-store.md)
 ##### [Bind Controls to a Specific Row in the Data Store When Inserting a Building Block](../word/Concepts/Objects-Properties-Methods/bind-controls-to-a-specific-row-in-the-data-store-when-inserting-a-building-bloc.md)

@@ -33,7 +33,7 @@ Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the 
 
 ## Remarks
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-Publisher.Application.md).
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
 
 
 ## Example

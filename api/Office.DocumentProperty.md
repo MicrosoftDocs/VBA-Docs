@@ -32,7 +32,7 @@ Use the Microsoft Word  **Document.BuiltinDocumentProperties**( _index_ ) proper
 [Object Model Reference](overview/reference-object-library-reference-for-office.md)
 #### Other resources
 =======
-[Object Model Reference](reference-object-library-reference-for-office.md)
+[Object Model Reference](overview/reference-object-library-reference-for-office.md)
 
 >>>>>>> master
 

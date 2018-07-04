@@ -25,7 +25,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[TimelineView](timelineOutlook.View.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
+The value of the  **SaveOption** property is set when the **[TimelineView](Outlook.timelineView.md)** object is created by using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example
@@ -117,5 +117,5 @@ End Sub
 ## See also
 
 
-[TimelineView Object](timelineOutlook.View.md)
+[TimelineView Object](Outlook.timelineView.md)
 

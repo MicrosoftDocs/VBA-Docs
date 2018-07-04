@@ -25,7 +25,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
 ## Remarks
 
-The value of the  **SaveOption** property is set when the **[TableView](tableOutlook.View.md)** object is created using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
+The value of the  **SaveOption** property is set when the **[TableView](Outlook.tableView.md)** object is created using the **[Add](Outlook.Views.Add.md)** method of the **[Views](Outlook.Views.md)** collection.
 
 
 ## Example
@@ -117,5 +117,5 @@ End Sub
 ## See also
 
 
-[TableView Object](tableOutlook.View.md)
+[TableView Object](Outlook.tableView.md)
 
