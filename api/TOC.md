@@ -10320,7 +10320,7 @@
 ###### [HasRadarAxisLabels](Excel.HasRadarAxisLabels.md)
 ###### [HasSeriesLines](Excel.HasSeriesLines.md)
 ###### [HasTitle](Excel.HasTitle.md)
-###### [HasUpDownBars](Excel.hasupDownBars(Graph property).md)
+###### [HasUpDownBars](Excel.hasupDownBars.md)
 ###### [Height](Excel.height.md)
 ###### [HeightPercent](Excel.HeightPercent.md)
 ###### [HiLoLines](Excel.HiLoLines(Graph property).md)
