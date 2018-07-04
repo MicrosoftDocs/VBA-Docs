@@ -30,11 +30,11 @@ Variant
 
 ## Remarks
 
-Deleting a  **[LegendKey](Excel.LegendKey(objec).md)** object deletes the entire series.
+Deleting a  **[LegendKey](Excel.LegendKey(object).md)** object deletes the entire series.
 
 
 ## See also
 
 
-[LegendKey Object](Excel.LegendKey(objec).md)
+[LegendKey Object](Excel.LegendKey(object).md)
 

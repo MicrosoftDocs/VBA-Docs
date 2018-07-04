@@ -18,7 +18,7 @@ Represents the legend in a chart. Each chart can have only one legend.
 
 ## Remarks
 
- The **Legend** object contains one or more **[LegendEntry](Excel.LegendEntry(objec).md)** objects; each **LegendEntry** object contains a **[LegendKey](Excel.LegendKey(objec).md)** object.
+ The **Legend** object contains one or more **[LegendEntry](Excel.LegendEntry(object).md)** objects; each **LegendEntry** object contains a **[LegendKey](Excel.LegendKey(object).md)** object.
 
 The chart legend isn't visible unless the  **[HasLegend](Excel.Chart.HasLegend.md)** property is **True**. If this property is **False**, properties and methods of the **Legend** object will fail.
 

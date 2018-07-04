@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders Object (Excel)
 
-A collection of four  **[Border](Excel.Border(objec).md)** objects that represent the four borders of a **[Range](Excel.Range(objec).md)** or **[Style](Excel.Style.md)** object.
+A collection of four  **[Border](Excel.Border(object).md)** objects that represent the four borders of a **[Range](Excel.Range(object).md)** or **[Style](Excel.Style.md)** object.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SeriesCollection Object (Excel)
 
-A collection of all the  **[Series](Excel.Series(objec).md)** objects in the specified chart or chart group.
+A collection of all the  **[Series](Excel.Series(object).md)** objects in the specified chart or chart group.
 
 
 ## Remarks

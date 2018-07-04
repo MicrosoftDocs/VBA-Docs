@@ -56,5 +56,5 @@ Selection.Subtotal GroupBy:=1, Function:=xlSum, _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

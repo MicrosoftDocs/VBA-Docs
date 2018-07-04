@@ -37,5 +37,5 @@ Worksheets("Sheet1").Range("A1") _
 ## See also
 
 
-[Font Object](Excel.Font(objec).md)
+[Font Object](Excel.Font(object).md)
 

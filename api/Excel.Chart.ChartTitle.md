@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartTitle Property (Excel)
 
-Returns a  **[ChartTitle](Excel.ChartTitle(objec).md)** object that represents the title of the specified chart. Read-only.
+Returns a  **[ChartTitle](Excel.ChartTitle(object).md)** object that represents the title of the specified chart. Read-only.
 
 
 ## Syntax

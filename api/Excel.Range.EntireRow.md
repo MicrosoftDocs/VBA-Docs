@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.EntireRow Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the entire row (or rows) that contains the specified range. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the entire row (or rows) that contains the specified range. Read-only.
 
 
 ## Syntax
@@ -86,5 +86,5 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

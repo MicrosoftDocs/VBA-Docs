@@ -32,7 +32,7 @@ Applies data labels to a series.
 | _Type_|Optional| **[XlDataLabelsType](Excel.XlDataLabelsType.md)**|The type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default value is **False** .|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
-| _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Excel.Chart(object).md)** and **[Series](Excel.Series(objec).md)** objects, **True** if the series has leader lines.|
+| _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Excel.Chart(object).md)** and **[Series](Excel.Series(object).md)** objects, **True** if the series has leader lines.|
 | _ShowSeriesName_|Optional| **Variant**|Pass a boolean value to enable or disable the series name for the data label.|
 | _ShowCategoryName_|Optional| **Variant**|Pass a boolean value to enable or disable the category name for the data label.|
 | _ShowValue_|Optional| **Variant**|Pass a boolean value to enable or disable the value for the data label.|
@@ -68,5 +68,5 @@ Charts("Chart1").SeriesCollection(1). _
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

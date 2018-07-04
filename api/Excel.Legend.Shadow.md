@@ -26,5 +26,5 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 ## See also
 
 
-[Legend Object](Excel.Legend(objec).md)
+[Legend Object](Excel.Legend(object).md)
 

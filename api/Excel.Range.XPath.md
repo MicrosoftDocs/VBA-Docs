@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.XPath Property (Excel)
 
-Returns an  **[XPath](Excel.XPath.md)** object that represents the Xpath of the element mapped to the specified **[Range](Excel.Range(objec).md)** object. The context of the range determines whether or not the action succeeds or returns an empty object. Read-only.
+Returns an  **[XPath](Excel.XPath.md)** object that represents the Xpath of the element mapped to the specified **[Range](Excel.Range(object).md)** object. The context of the range determines whether or not the action succeeds or returns an empty object. Read-only.
 
 
 ## Syntax
@@ -47,5 +47,5 @@ If the range selection is valid, but none of the cells are mapped, Excel returns
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

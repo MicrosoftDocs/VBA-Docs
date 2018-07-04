@@ -26,5 +26,5 @@ This object, member, or enumeration is deprecated and is not intended to be used
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

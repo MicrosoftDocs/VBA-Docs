@@ -41,5 +41,5 @@ Worksheets("Sheet1").Range("A1:G37").RemoveSubtotal
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

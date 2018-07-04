@@ -34,5 +34,5 @@ When a user filters out a series, the series  **IsFiltered** property switches t
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

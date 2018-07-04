@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.UpBars Property (Excel)
 
-Returns an  **[UpBars](Excel.UpBars(objec).md)** object that represents the up bars on a line chart. Applies only to line charts. Read-only.
+Returns an  **[UpBars](Excel.UpBars(object).md)** object that represents the up bars on a line chart. Applies only to line charts. Read-only.
 
 
 ## Syntax
@@ -40,5 +40,5 @@ End With
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

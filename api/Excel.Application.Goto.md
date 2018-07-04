@@ -29,7 +29,7 @@ Selects any range or Visual Basic procedure in any workbook, and activates that 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Reference_|Optional| **Variant**|The destination. Can be a  **[Range](Excel.Range(objec).md)** object, a string that contains a cell reference in R1C1-style notation, or a string that contains a Visual Basic procedure name. If this argument is omitted, the destination is the last range you used the **Goto** method to select.|
+| _Reference_|Optional| **Variant**|The destination. Can be a  **[Range](Excel.Range(object).md)** object, a string that contains a cell reference in R1C1-style notation, or a string that contains a Visual Basic procedure name. If this argument is omitted, the destination is the last range you used the **Goto** method to select.|
 | _Scroll_|Optional| **Variant**| **True** to scroll through the window so that the upper-left corner of the range appears in the upper-left corner of the window. **False** to not scroll through the window. The default is **False** .|
 
 ## Remarks
@@ -60,5 +60,5 @@ Application.Goto Reference:=Worksheets("Sheet1").Range("A154"), _
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

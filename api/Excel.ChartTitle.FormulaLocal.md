@@ -36,5 +36,5 @@ For more information about A1-style notation, see [How to: Refer to Cells and Ra
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

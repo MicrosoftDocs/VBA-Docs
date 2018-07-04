@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Next Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the next cell.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the next cell.
 
 
 ## Syntax
@@ -33,5 +33,5 @@ On a protected sheet, this property returns the next unlocked cell. On an unprot
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

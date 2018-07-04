@@ -20,7 +20,7 @@ Represents the automatic recovery features of a workbook.
 
 Properties for the  **AutoRecover** object determine the path and time interval for backing up all files.
 
-Use the  **[AutoRecover](Excel.Application.AutoRecover.md)** property of the **[Application](Excel.Application(objec).md)** object to return an **AutoRecover** object.
+Use the  **[AutoRecover](Excel.Application.AutoRecover.md)** property of the **[Application](Excel.Application(object).md)** object to return an **AutoRecover** object.
 
 Use the  **[Path](Excel.AutoRecover.Path.md)** property of the **AutoRecover** object to set the path for where the AutoRecover file will be saved.
 

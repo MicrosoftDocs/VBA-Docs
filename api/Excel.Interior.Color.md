@@ -51,5 +51,5 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 ## See also
 
 
-[Interior Object](Excel.Interior(objec).md)
+[Interior Object](Excel.Interior(object).md)
 

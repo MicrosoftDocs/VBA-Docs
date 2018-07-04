@@ -24,5 +24,5 @@ Specifies the parent data label option (banner, overlapping, or none) for the sp
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

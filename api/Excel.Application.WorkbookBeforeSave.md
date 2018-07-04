@@ -56,6 +56,6 @@ End Sub
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)

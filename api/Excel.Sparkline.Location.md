@@ -25,7 +25,7 @@ Returns or sets the location of a single sparkline. Read/write
 
 ### Return Value
 
-[Range](Excel.Range(objec).md)
+[Range](Excel.Range(object).md)
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueValues.Interior Property (Excel)
 
-Returns an  **[Interior](Excel.Interior(objec).md)** object that specifies a cell's interior attributes for a conditional formatting rule that evaluates to **True** . Read-only.
+Returns an  **[Interior](Excel.Interior(object).md)** object that specifies a cell's interior attributes for a conditional formatting rule that evaluates to **True** . Read-only.
 
 
 ## Syntax

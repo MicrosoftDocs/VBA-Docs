@@ -26,5 +26,5 @@ Sets the marker background color as an RGB value or returns the corresponding co
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

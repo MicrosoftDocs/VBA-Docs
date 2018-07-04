@@ -26,5 +26,5 @@ ms.date: 06/08/2017
 ## See also
 
 
-[LegendKey Object](Excel.LegendKey(objec).md)
+[LegendKey Object](Excel.LegendKey(object).md)
 

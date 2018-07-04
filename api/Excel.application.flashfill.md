@@ -34,5 +34,5 @@ Flash Fill detects when you are modifying data that fits a pattern which can be 
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

@@ -41,5 +41,5 @@ Charts("Chart1").Axes(xlCategory).AxisBetweenCategories = True
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

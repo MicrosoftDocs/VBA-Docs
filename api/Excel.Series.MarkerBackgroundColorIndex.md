@@ -26,5 +26,5 @@ Returns or sets the marker background color as an index into the current color p
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

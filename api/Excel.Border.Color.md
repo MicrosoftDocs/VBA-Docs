@@ -51,5 +51,5 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 ## See also
 
 
-[Border Object](Excel.Border(objec).md)
+[Border Object](Excel.Border(object).md)
 

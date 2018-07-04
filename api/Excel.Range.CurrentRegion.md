@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CurrentRegion Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the current region. The current region is a range bounded by any combination of blank rows and blank columns. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the current region. The current region is a range bounded by any combination of blank rows and blank columns. Read-only.
 
 
 ## Syntax
@@ -55,5 +55,5 @@ tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

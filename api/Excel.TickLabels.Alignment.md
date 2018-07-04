@@ -26,5 +26,5 @@ Returns or sets a  **Long** value that represents the alignment for the specifie
 ## See also
 
 
-[TickLabels Object](Excel.TickLabels(objec).md)
+[TickLabels Object](Excel.TickLabels(object).md)
 

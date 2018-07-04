@@ -36,5 +36,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

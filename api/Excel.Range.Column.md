@@ -105,5 +105,5 @@ Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on 
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

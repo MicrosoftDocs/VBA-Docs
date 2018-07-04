@@ -26,5 +26,5 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 ## See also
 
 
-[DisplayUnitLabel Object](Excel.DisplayUnitLabel(objec).md)
+[DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 

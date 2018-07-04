@@ -38,5 +38,5 @@ The value of this property can be set to one of the following constants:
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

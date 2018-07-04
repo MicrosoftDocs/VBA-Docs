@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveCell Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the active cell in the active window (the window on top) or in the specified window. If the window isn't displaying a worksheet, this property fails. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the active cell in the active window (the window on top) or in the specified window. If the window isn't displaying a worksheet, this property fails. Read-only.
 
 
 ## Syntax
@@ -69,5 +69,5 @@ End With
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

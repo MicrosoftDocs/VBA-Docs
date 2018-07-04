@@ -26,5 +26,5 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

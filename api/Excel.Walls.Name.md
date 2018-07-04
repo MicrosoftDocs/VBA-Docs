@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[Walls Object](Excel.Walls(objec).md)
+[Walls Object](Excel.Walls(object).md)
 

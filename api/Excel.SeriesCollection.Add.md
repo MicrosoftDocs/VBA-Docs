@@ -29,7 +29,7 @@ Adds one or more new series to the  **SeriesCollection** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Source_|Required| **Variant**|The new data as a  **[Range](Excel.Range(objec).md)** object.|
+| _Source_|Required| **Variant**|The new data as a  **[Range](Excel.Range(object).md)** object.|
 | _Rowcol_|Optional| **[XlRowCol](Excel.XlRowCol.md)**|. Specifies whether the new values are in the rows or columns of the specified range.|
 | _SeriesLabels_|Optional| **Variant**| **True** if the first row or column contains the name of the data series. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Microsoft Excel attempts to determine the location of the series name from the contents of the first row or column.|
 | _CategoryLabels_|Optional| **Variant**| **True** if the first row or column contains the name of the category labels. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Microsoft Excel attempts to determine the location of the category label from the contents of the first row or column.|
@@ -37,7 +37,7 @@ Adds one or more new series to the  **SeriesCollection** collection.
 
 ### Return Value
 
-A  **[Series](Excel.Series(objec).md)** object that represents the new series.
+A  **[Series](Excel.Series(object).md)** object that represents the new series.
 
 
 ## Remarks

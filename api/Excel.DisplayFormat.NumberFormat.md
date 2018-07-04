@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.NumberFormat Property (Excel)
 
-Returns a value that represents the format code of the associated  **[Range](Excel.Range(objec).md)** object as it is displayed in the current user interface. Read-only.
+Returns a value that represents the format code of the associated  **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax

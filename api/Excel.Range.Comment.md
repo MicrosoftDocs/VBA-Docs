@@ -26,5 +26,5 @@ Returns a  **[Comment](Excel.Comment.md)** object that represents the comment as
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

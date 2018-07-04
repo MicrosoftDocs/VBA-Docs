@@ -26,5 +26,5 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 ## See also
 
 
-[PlotArea Object](Excel.PlotArea(objec).md)
+[PlotArea Object](Excel.PlotArea(object).md)
 

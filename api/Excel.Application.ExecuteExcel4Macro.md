@@ -56,5 +56,5 @@ MsgBox ExecuteExcel4Macro("GET.CELL(42)")
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axes Object (Excel)
 
-A collection of all the  **[Axis](Excel.Axis(objec).md)** objects in the specified chart.
+A collection of all the  **[Axis](Excel.Axis(object).md)** objects in the specified chart.
 
 
 ## Remarks

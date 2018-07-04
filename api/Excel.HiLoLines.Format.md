@@ -26,5 +26,5 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 ## See also
 
 
-[HiLoLines Object](Excel.HiLoLines(objec).md)
+[HiLoLines Object](Excel.HiLoLines(object).md)
 

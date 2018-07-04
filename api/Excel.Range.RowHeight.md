@@ -47,5 +47,5 @@ End With
 
 
 [Slicer Object](Excel.Slicer.md)
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

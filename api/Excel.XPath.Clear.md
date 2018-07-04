@@ -27,7 +27,7 @@ Clears all XPath schema information for the mapped range.
 
  **Clear** affects the entire range mapped to this **[XPath](Excel.XPath.md)** object.
 
-This method does not clear the data from the cells mapped to the specified XPath. Use the  **[Clear](Excel.Range.Clear.md)** method of the **[Range](Excel.Range(objec).md)** object to clear the data from the cells.
+This method does not clear the data from the cells mapped to the specified XPath. Use the  **[Clear](Excel.Range.Clear.md)** method of the **[Range](Excel.Range(object).md)** object to clear the data from the cells.
 
 If the specified XPath is mapped in an XML list, then the schema mapping is removed, but the list is not deleted from the worksheet.
 

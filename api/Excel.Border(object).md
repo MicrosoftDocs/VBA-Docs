@@ -18,7 +18,7 @@ Represents the border of an object.
 
 ## Remarks
 
-Most bordered objects (all except for the  **[Range](Excel.Range(objec).md)** and **[Style](Excel.Style.md)** objects) have a border that's treated as a single entity, regardless of how many sides it has. The entire border must be returned as a unit. Use the **[Border](Excel.Trendline.Border.md)** property, such as from a **[TrendLine](Excel.Trendline(objec).md)** object, to return the **Border** object for this kind of object.
+Most bordered objects (all except for the  **[Range](Excel.Range(object).md)** and **[Style](Excel.Style.md)** objects) have a border that's treated as a single entity, regardless of how many sides it has. The entire border must be returned as a unit. Use the **[Border](Excel.Trendline.Border.md)** property, such as from a **[TrendLine](Excel.Trendline(object).md)** object, to return the **Border** object for this kind of object.
 
 
 ## Example

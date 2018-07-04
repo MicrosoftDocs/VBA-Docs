@@ -56,5 +56,5 @@ Charts("Chart1").Axes(xlCategory).Crosses = xlMaximum
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

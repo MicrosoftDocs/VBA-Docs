@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Trendline](Excel.Trendline(objec).md)** object contained by the collection.
+A  **[Trendline](Excel.Trendline(object).md)** object contained by the collection.
 
 
 ## Example

@@ -18,7 +18,7 @@ A collection of all the  **[Window](Excel.Window.md)** objects in Microsoft Exce
 
 ## Remarks
 
-The  **Windows** collection for the **[Application](Excel.Application(objec).md)** object contains all the windows in the application, whereas the **Windows** collection for the **[Workbook](Excel.Workbook.md)** object contains only the windows in the specified workbook.
+The  **Windows** collection for the **[Application](Excel.Application(object).md)** object contains all the windows in the application, whereas the **Windows** collection for the **[Workbook](Excel.Workbook.md)** object contains only the windows in the specified workbook.
 
 
 ## Example

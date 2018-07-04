@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparklineGroups.Count Property (Excel)
 
-Returns the count of sparkline groups in the associated  **[Range](Excel.Range(objec).md)** object. Read-only.
+Returns the count of sparkline groups in the associated  **[Range](Excel.Range(object).md)** object. Read-only.
 
 
 ## Syntax

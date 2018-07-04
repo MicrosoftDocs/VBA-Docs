@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Trendlines Method (Excel)
 
-Returns an object that represents a single trendline (a  **[Trendline](Excel.Trendline(objec).md)** object) or a collection of all the trendlines (a **[Trendlines](Excel.Trendlines(object).md)** collection) for the series.
+Returns an object that represents a single trendline (a  **[Trendline](Excel.Trendline(object).md)** object) or a collection of all the trendlines (a **[Trendlines](Excel.Trendlines(object).md)** collection) for the series.
 
 
 ## Syntax
@@ -49,5 +49,5 @@ Charts("Chart1").SeriesCollection(1).Trendlines.Add Type:=xlLinear
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

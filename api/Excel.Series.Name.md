@@ -31,5 +31,5 @@ You can reference using R1C1 notation, for example, "=Sheet1!R1C1".
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

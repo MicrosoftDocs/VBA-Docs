@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.EntireColumn Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the entire column (or columns) that contains the specified range. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the entire column (or columns) that contains the specified range. Read-only.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ ActiveCell.EntireColumn.Cells(1, 1).Value = 5
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

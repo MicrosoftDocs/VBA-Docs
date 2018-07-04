@@ -26,5 +26,5 @@ Returns a  **String** value that represents the name of the object.
 ## See also
 
 
-[DropLines Object](Excel.DropLines(objec).md)
+[DropLines Object](Excel.DropLines(object).md)
 

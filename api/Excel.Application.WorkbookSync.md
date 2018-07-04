@@ -20,5 +20,5 @@ This object or member has been deprecated, but it remains part of the object mod
 
 
 [Workbook Object](Excel.Workbook.md)
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

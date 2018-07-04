@@ -60,5 +60,5 @@ ActiveCell.ShowDependents Remove:=True
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

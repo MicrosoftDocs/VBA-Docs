@@ -20,7 +20,7 @@ Returns an index value that is used internally to associate series formatting wi
 
  _expression_. `PlotColorIndex`
 
- _expression_ A variable that represents a '[Series](Excel.Series(objec).md)' object.
+ _expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
 
 
 ### Return Value
@@ -36,5 +36,5 @@ This property is used internally by Excel and is not intended to be called from 
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

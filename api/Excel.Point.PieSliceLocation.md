@@ -20,7 +20,7 @@ Returns the vertical or horizontal position of a point on a chart item, in point
 
  _expression_. `PieSliceLocation`( `_loc_` , `_Index_` )
 
- _expression_ A variable that represents a '[Point](Excel.Point(objec).md)' object.
+ _expression_ A variable that represents a '[Point](Excel.Point(object).md)' object.
 
 
 ### Parameters
@@ -45,5 +45,5 @@ This property only applies to pie and doughnut chart types.
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

@@ -26,5 +26,5 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 ## See also
 
 
-[Legend Object](Excel.Legend(objec).md)
+[Legend Object](Excel.Legend(object).md)
 

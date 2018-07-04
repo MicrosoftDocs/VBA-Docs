@@ -26,5 +26,5 @@ Selects the object.
 ## See also
 
 
-[LeaderLines Object](Excel.LeaderLines(objec).md)
+[LeaderLines Object](Excel.LeaderLines(object).md)
 

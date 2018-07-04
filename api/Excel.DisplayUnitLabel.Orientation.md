@@ -37,5 +37,5 @@ The value of this property can be an integer value from -90 to 90 degrees or one
 ## See also
 
 
-[DisplayUnitLabel Object](Excel.DisplayUnitLabel(objec).md)
+[DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 

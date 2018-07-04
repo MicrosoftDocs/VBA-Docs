@@ -18,7 +18,7 @@ Represents a top ten visual of a conditional formatting rule. Applying a color t
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(objec).md)** collection. You can create a top 10 formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddTop10](Excel.FormatConditions.AddTop10.md)** method of the **FormatConditions** collection.
+All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create a top 10 formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddTop10](Excel.FormatConditions.AddTop10.md)** method of the **FormatConditions** collection.
 
 
 ## Example

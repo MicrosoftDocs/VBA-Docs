@@ -20,7 +20,7 @@ Performs a writeback operation for all edited cells in a range based on an OLAP 
 
  _expression_. `AllocateChanges`
 
- _expression_ A variable that represents a '[Range](Excel.Range(objec).md)' object.
+ _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
 ## Remarks
@@ -31,5 +31,5 @@ The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for al
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

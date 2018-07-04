@@ -36,5 +36,5 @@ Charts("Chart1").SeriesCollection(1).InvertIfNegative = True
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

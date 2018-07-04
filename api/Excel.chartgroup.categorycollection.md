@@ -37,5 +37,5 @@ Returns an object that represents a collection of all of the visible categories 
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

@@ -31,5 +31,5 @@ The format code is the same string as the  **Format Codes** option in the **Form
 ## See also
 
 
-[DataLabel Object](Excel.DataLabel(objec).md)
+[DataLabel Object](Excel.DataLabel(object).md)
 

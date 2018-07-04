@@ -29,7 +29,7 @@ Occurs when cells on the worksheet are changed by the user or by an external lin
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Target_|Required| **[Range](Excel.Range(objec).md)**|The changed range. Can be more than one cell.|
+| _Target_|Required| **[Range](Excel.Range(object).md)**|The changed range. Can be more than one cell.|
 
 ### Return Value
 

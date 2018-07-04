@@ -30,11 +30,11 @@ Variant
 
 ## Remarks
 
-Deleting a  **[Point](Excel.Point(objec).md)** object deletes the entire series.
+Deleting a  **[Point](Excel.Point(object).md)** object deletes the entire series.
 
 
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

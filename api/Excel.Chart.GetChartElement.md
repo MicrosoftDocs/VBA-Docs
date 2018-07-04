@@ -88,7 +88,7 @@ The following table describes the meaning of  _Arg1_ and _Arg2_ after the method
 |GroupIndex|Specifies the offset within the  **[ChartGroups](Excel.ChartGroups(object).md)** collection for a specific chart group.|
 |PivotFieldIndex|Specifies the offset within the  **[PivotFields](Excel.PivotFields.md)** collection for a specific column (series), data, page, or row (category) field. -1 if the drop zone type is **xlDataField** .|
 |PointIndex|Specifies the offset within the  **[Points](Excel.Points(object).md)** collection for a specific point within a series. A value of ? 1 indicates that all data points are selected.|
-|SeriesIndex|Specifies the offset within the  **[Series](Excel.Series(objec).md)** collection for a specific series.|
+|SeriesIndex|Specifies the offset within the  **[Series](Excel.Series(object).md)** collection for a specific series.|
 |ShapeIndex|Specifies the offset within the  **[Shapes](Excel.Shapes.md)** collection for a specific shape.|
 |TrendlineIndex|Specifies the offset within the  **[Trendlines](Excel.Trendlines(object).md)** collection for a specific trendline within a series.|
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ListObject Property (Excel)
 
-Returns a  **[ListObject](Excel.ListObject.md)** object for the **[Range](Excel.Range(objec).md)** object. Read-only **ListObject** object.
+Returns a  **[ListObject](Excel.ListObject.md)** object for the **[Range](Excel.Range(object).md)** object. Read-only **ListObject** object.
 
 
 ## Syntax
@@ -26,5 +26,5 @@ Returns a  **[ListObject](Excel.ListObject.md)** object for the **[Range](Excel.
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

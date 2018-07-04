@@ -20,7 +20,7 @@ Returns a  **[FileExportConverters](Excel.FileExportConverters.md)** collection 
 
  _expression_. `FileExportConverters`
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Remarks
@@ -44,5 +44,5 @@ MsgBox fcTemp.Description
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.HeaderRowRange Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the range of the header row for a list. Read-only **Range** .
+Returns a  **[Range](Excel.Range(object).md)** object that represents the range of the header row for a list. Read-only **Range** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.MergeCells Property (Excel)
 
-Returns a value that indicates if the associated  **[Range](Excel.Range(objec).md)** object contains merged cells as it is displayed in the current user interface. Read-only.
+Returns a value that indicates if the associated  **[Range](Excel.Range(object).md)** object contains merged cells as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax

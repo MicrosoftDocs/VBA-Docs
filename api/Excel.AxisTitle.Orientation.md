@@ -37,5 +37,5 @@ The value of this property can be set to an integer value from -90 to 90 degrees
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

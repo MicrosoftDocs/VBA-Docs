@@ -31,5 +31,5 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[Floor Object](Excel.Floor(objec).md)
+[Floor Object](Excel.Floor(object).md)
 

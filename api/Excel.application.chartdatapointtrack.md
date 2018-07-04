@@ -34,5 +34,5 @@ Data labels will now track the  _actual_ data point to which they are attached (
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

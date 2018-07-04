@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.XmlMapQuery Method (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the cells mapped to a particular XPath. Returns **Nothing** if the specified XPath has not been mapped to the worksheet.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the cells mapped to a particular XPath. Returns **Nothing** if the specified XPath has not been mapped to the worksheet.
 
 
 ## Syntax

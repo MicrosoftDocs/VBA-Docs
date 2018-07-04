@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableNameChanges.Application Property (Excel)
 
-Returns an  **[Application](Excel.Application(objec).md)** object that represents the Microsoft Excel application. Read-only.
+Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 
 
 ## Syntax

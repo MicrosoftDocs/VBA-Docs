@@ -26,5 +26,5 @@ Returns or sets the data-marker size, in points. Can be a value from 2 through 7
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

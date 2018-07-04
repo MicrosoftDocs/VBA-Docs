@@ -26,5 +26,5 @@ This property should not be used. Sound notes have been removed from Microsoft E
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

@@ -26,5 +26,5 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

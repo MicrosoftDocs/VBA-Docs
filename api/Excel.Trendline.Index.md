@@ -26,5 +26,5 @@ Returns a  **Long** value that represents the index number of the object within 
 ## See also
 
 
-[Trendline Object](Excel.Trendline(objec).md)
+[Trendline Object](Excel.Trendline(object).md)
 

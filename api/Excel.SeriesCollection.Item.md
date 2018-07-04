@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Series](Excel.Series(objec).md)** object contained by the collection.
+A  **[Series](Excel.Series(object).md)** object contained by the collection.
 
 
 ## Example

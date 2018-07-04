@@ -44,5 +44,5 @@ Worksheets("Sheet1").Range("A1:G37").AutoOutline
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

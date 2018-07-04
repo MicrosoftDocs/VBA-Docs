@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Phonetic.Font Property (Excel)
 
-Returns a  **[Font](Excel.Font(objec).md)** object that represents the font of the specified object.
+Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 
 
 ## Syntax

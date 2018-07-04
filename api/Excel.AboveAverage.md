@@ -18,7 +18,7 @@ Represents an above average visual of a conditional formatting rule. Applying a 
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(objec).md)** collection. You can create an above average formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddAboveAverage](Excel.FormatConditions.AddAboveAverage.md)** method of the **FormatConditions** collection.
+All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create an above average formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddAboveAverage](Excel.FormatConditions.AddAboveAverage.md)** method of the **FormatConditions** collection.
 
 
 ## Example

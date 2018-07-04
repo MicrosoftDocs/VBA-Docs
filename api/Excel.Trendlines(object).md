@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendlines Object (Excel)
 
-A collection of all the  **[Trendline](Excel.Trendline(objec).md)** objects for the specified series.
+A collection of all the  **[Trendline](Excel.Trendline(object).md)** objects for the specified series.
 
 
 ## Remarks

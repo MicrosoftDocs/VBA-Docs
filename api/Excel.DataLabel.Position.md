@@ -26,5 +26,5 @@ Returns or sets a  **[XlDataLabelPosition](Excel.XlDataLabelPosition.md)** value
 ## See also
 
 
-[DataLabel Object](Excel.DataLabel(objec).md)
+[DataLabel Object](Excel.DataLabel(object).md)
 

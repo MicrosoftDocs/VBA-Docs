@@ -29,7 +29,7 @@ Returns the union of two or more ranges.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Range**|At least two  **[Range](Excel.Range(objec).md)** objects must be specified.|
+| _Arg1_|Required| **Range**|At least two  **[Range](Excel.Range(object).md)** objects must be specified.|
 | _Arg2_|Required| **Range**|At least two  **Range** objects must be specified.|
 | _Arg3_|Optional| **Variant**|At least two  **Range** objects must be specified.|
 | _Arg4_|Optional| **Variant**|At least two  **Range** objects must be specified.|
@@ -80,5 +80,5 @@ bigRange.Formula = "=RAND()"
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

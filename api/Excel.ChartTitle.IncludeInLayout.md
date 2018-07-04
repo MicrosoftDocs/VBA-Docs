@@ -31,5 +31,5 @@ This property does not affect whether a chart is in autolayout mode or not. If t
 ## See also
 
 
-[ChartTitle Object](Excel.ChartTitle(objec).md)
+[ChartTitle Object](Excel.ChartTitle(object).md)
 

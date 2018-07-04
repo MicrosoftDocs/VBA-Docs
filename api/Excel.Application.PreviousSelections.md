@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PreviousSelections Property (Excel)
 
-Returns an array of the last four ranges or names selected. Each element in the array is a  **[Range](Excel.Range(objec).md)** object. Read-only **Variant** .
+Returns an array of the last four ranges or names selected. Each element in the array is a  **[Range](Excel.Range(object).md)** object. Read-only **Variant** .
 
 
 ## Syntax
@@ -58,5 +58,5 @@ noSelections:
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

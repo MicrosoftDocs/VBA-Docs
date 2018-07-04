@@ -18,7 +18,7 @@ Contains methods and properties that pertain to speech.
 
 ## Remarks
 
-Use the  **[Speech](Excel.Application.Speech.md)** property of the **[Application](Excel.Application(objec).md)** object to return a **[Speech](Excel.Speech.md)** object.
+Use the  **[Speech](Excel.Application.Speech.md)** property of the **[Application](Excel.Application(object).md)** object to return a **[Speech](Excel.Speech.md)** object.
 
 
 ## Example

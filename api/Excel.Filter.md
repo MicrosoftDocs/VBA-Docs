@@ -33,7 +33,7 @@ If w.AutoFilterMode Then
 End If
 ```
 
-Note that all the properties of the  **Filter** object are read-only. To set these properties, apply autofiltering manually or using the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **[Range](Excel.Range(objec).md)** object, as shown in the following example.
+Note that all the properties of the  **Filter** object are read-only. To set these properties, apply autofiltering manually or using the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **[Range](Excel.Range(object).md)** object, as shown in the following example.
 
 
 

@@ -61,5 +61,5 @@ Next
 ## See also
 
 
-[AutoCorrect Object](Excel.AutoCorrect(objec).md)
+[AutoCorrect Object](Excel.AutoCorrect(object).md)
 

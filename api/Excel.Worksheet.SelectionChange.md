@@ -29,7 +29,7 @@ Occurs when the selection changes on a worksheet.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Target_|Required| **[Range](Excel.Range(objec).md)**|The new selected range.|
+| _Target_|Required| **[Range](Excel.Range(object).md)**|The new selected range.|
 
 ## Example
 

@@ -36,5 +36,5 @@ The  **CalculateRowMajorOrder** method calculates the specified range range cell
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

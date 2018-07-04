@@ -41,7 +41,7 @@ Finds specific information in a range.
 
 ### Return Value
 
-A [Range](Excel.Range(objec).md) object that represents the first cell where that information is found.
+A [Range](Excel.Range(object).md) object that represents the first cell where that information is found.
 
 
 ## Remarks
@@ -167,5 +167,5 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

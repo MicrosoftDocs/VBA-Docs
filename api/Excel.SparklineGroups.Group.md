@@ -29,7 +29,7 @@ Groups the selected sparklines.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Location_|Required| **[Range](Excel.Range(objec).md)**|The location of the first cell in the group.|
+| _Location_|Required| **[Range](Excel.Range(object).md)**|The location of the first cell in the group.|
 
 ### Return Value
 

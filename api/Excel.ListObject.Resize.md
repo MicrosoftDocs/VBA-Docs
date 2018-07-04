@@ -29,7 +29,7 @@ The  **Resize** method allows a **[ListObject](Excel.ListObject.md)** object to 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Range_|Required| **[Range](Excel.Range(objec).md)**|The new range.|
+| _Range_|Required| **[Range](Excel.Range(object).md)**|The new range.|
 
 ## Remarks
 

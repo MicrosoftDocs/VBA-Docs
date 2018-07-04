@@ -18,7 +18,7 @@ A collection of the areas, or contiguous blocks of cells, within a selection.
 
 ## Remarks
 
-There's no singular Area object; individual members of the  **Areas** collection are **[Range](Excel.Range(objec).md)** objects. The **Areas** collection contains one **Range** object for each discrete, contiguous range of cells within the selection. If the selection contains only one area, the **Areas** collection contains a single **Range** object that corresponds to that selection.
+There's no singular Area object; individual members of the  **Areas** collection are **[Range](Excel.Range(object).md)** objects. The **Areas** collection contains one **Range** object for each discrete, contiguous range of cells within the selection. If the selection contains only one area, the **Areas** collection contains a single **Range** object that corresponds to that selection.
 
 
 ## Example

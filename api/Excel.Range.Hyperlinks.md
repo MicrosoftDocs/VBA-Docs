@@ -26,5 +26,5 @@ Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the 
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

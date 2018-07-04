@@ -31,5 +31,5 @@ This method can be used on column, bar, line, or radar charts.
 ## See also
 
 
-[Floor Object](Excel.Floor(objec).md)
+[Floor Object](Excel.Floor(object).md)
 

@@ -31,5 +31,5 @@ This method can be used on column, bar, line, or radar charts.
 ## See also
 
 
-[Walls Object](Excel.Walls(objec).md)
+[Walls Object](Excel.Walls(object).md)
 

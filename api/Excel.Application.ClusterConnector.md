@@ -20,7 +20,7 @@ Returns or sets the name of the High Performance Computing (HPC) Cluster Connect
 
  _expression_. `ClusterConnector`
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Return Value
@@ -43,5 +43,5 @@ Before you can specify the  **ClusterConnector** property, you must use the **[U
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

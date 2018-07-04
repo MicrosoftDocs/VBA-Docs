@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.SeriesLines Property (Excel)
 
-Returns a  **[SeriesLines](Excel.SeriesLines(objec).md)** object that represents the series lines for a 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie chart. Read-only.
+Returns a  **[SeriesLines](Excel.SeriesLines(object).md)** object that represents the series lines for a 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie chart. Read-only.
 
 
 ## Syntax
@@ -43,5 +43,5 @@ End With
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

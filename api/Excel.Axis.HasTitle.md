@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-An axis title is represented by an  **[AxisTitle](Excel.AxisTitle(objec).md)** object.
+An axis title is represented by an  **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## Example
@@ -44,5 +44,5 @@ End With
 ## See also
 
 
-[Axis Object](Excel.Axis(objec).md)
+[Axis Object](Excel.Axis(object).md)
 

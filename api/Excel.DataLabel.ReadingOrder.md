@@ -26,5 +26,5 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 ## See also
 
 
-[DataLabel Object](Excel.DataLabel(objec).md)
+[DataLabel Object](Excel.DataLabel(object).md)
 

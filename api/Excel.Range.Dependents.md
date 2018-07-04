@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Dependents Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents the range containing all the dependents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one dependent. Read-only **Range** object.
+Returns a  **[Range](Excel.Range(object).md)** object that represents the range containing all the dependents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one dependent. Read-only **Range** object.
 
 
 ## Syntax
@@ -42,5 +42,5 @@ Range("A1").Dependents.Select
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

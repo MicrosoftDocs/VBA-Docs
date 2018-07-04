@@ -20,7 +20,7 @@ Returns or sets the group for the specified series. Read/write
 
  _expression_. `AxisGroup`
 
- _expression_ A variable that represents a '[Series](Excel.Series(objec).md)' object.
+ _expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
 
 
 ### Return Value
@@ -31,5 +31,5 @@ Returns or sets the group for the specified series. Read/write
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

@@ -37,5 +37,5 @@ ActiveCell.Font.Strikethrough = True
 ## See also
 
 
-[Font Object](Excel.Font(objec).md)
+[Font Object](Excel.Font(object).md)
 

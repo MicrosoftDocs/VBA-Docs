@@ -26,5 +26,5 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

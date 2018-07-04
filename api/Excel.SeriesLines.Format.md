@@ -26,5 +26,5 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 ## See also
 
 
-[SeriesLines Object](Excel.SeriesLines(objec).md)
+[SeriesLines Object](Excel.SeriesLines(object).md)
 

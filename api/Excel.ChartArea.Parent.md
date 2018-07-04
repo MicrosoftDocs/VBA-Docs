@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[ChartArea Object](Excel.ChartArea(objec).md)
+[ChartArea Object](Excel.ChartArea(object).md)
 

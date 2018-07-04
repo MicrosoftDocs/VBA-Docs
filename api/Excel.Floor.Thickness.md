@@ -31,5 +31,5 @@ Use this property to set the thickness of the floor. The default thickness is ze
 ## See also
 
 
-[Floor Object](Excel.Floor(objec).md)
+[Floor Object](Excel.Floor(object).md)
 

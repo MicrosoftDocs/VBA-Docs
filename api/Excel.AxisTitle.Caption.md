@@ -26,5 +26,5 @@ Returns or sets a  **String** value that represents the axis title text.
 ## See also
 
 
-[AxisTitle Object](Excel.AxisTitle(objec).md)
+[AxisTitle Object](Excel.AxisTitle(object).md)
 

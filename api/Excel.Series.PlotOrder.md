@@ -43,5 +43,5 @@ Charts("Chart1").ChartGroups(1).SeriesCollection(2).PlotOrder = 3
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

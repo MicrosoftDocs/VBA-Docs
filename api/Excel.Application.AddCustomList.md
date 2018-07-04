@@ -53,5 +53,5 @@ On Error Goto 0       ' resume regular error handling
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

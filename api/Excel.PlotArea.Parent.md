@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[PlotArea Object](Excel.PlotArea(objec).md)
+[PlotArea Object](Excel.PlotArea(object).md)
 

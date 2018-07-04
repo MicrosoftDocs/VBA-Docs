@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Intersect Method (Excel)
 
-Returns a [Range](Excel.Range(objec).md) object that represents the rectangular intersection of two or more ranges. If one or more ranges from a different worksheet are specified, an error will be returned.
+Returns a [Range](Excel.Range(object).md) object that represents the rectangular intersection of two or more ranges. If one or more ranges from a different worksheet are specified, an error will be returned.
 
 
 ## Syntax
@@ -84,5 +84,5 @@ End If
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

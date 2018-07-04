@@ -37,5 +37,5 @@ Worksheets(1).ChartObjects(1).Chart _
 ## See also
 
 
-[Trendline Object](Excel.Trendline(objec).md)
+[Trendline Object](Excel.Trendline(object).md)
 

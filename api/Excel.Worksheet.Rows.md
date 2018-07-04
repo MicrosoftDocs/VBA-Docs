@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Rows Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents all the rows on the specified worksheet. Read-only **Range** object.
+Returns a  **[Range](Excel.Range(object).md)** object that represents all the rows on the specified worksheet. Read-only **Range** object.
 
 
 ## Syntax

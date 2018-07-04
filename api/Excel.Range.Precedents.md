@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Precedents Property (Excel)
 
-Returns a  **[Range](Excel.Range(objec).md)** object that represents all the precedents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one precedent. Read-only.
+Returns a  **[Range](Excel.Range(object).md)** object that represents all the precedents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one precedent. Read-only.
 
 
 ## Syntax
@@ -37,5 +37,5 @@ Range("A1").Precedents.Select
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

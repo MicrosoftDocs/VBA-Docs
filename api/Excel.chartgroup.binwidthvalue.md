@@ -24,5 +24,5 @@ Specifies the number of points in each range. Read/write  **Double**.
 ## See also
 
 
-[ChartGroup Object](Excel.ChartGroup(objec).md)
+[ChartGroup Object](Excel.ChartGroup(object).md)
 

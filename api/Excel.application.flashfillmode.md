@@ -29,5 +29,5 @@ ms.date: 06/08/2017
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

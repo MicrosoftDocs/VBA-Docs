@@ -26,5 +26,5 @@ Returns or sets a  **Double** value that represents the height, in points, of th
 ## See also
 
 
-[PlotArea Object](Excel.PlotArea(objec).md)
+[PlotArea Object](Excel.PlotArea(object).md)
 

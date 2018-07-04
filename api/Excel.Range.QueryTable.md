@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.QueryTable Property (Excel)
 
-Returns a  **[QueryTable](Excel.QueryTable.md)** object that represents the query table that intersects the specified **[Range](Excel.Range(objec).md)** object.
+Returns a  **[QueryTable](Excel.QueryTable.md)** object that represents the query table that intersects the specified **[Range](Excel.Range(object).md)** object.
 
 
 ## Syntax
@@ -36,5 +36,5 @@ Worksheets(1).Range("a10").QueryTable.Refresh
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

@@ -41,5 +41,5 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.ClearFormats
 ## See also
 
 
-[ChartArea Object](Excel.ChartArea(objec).md)
+[ChartArea Object](Excel.ChartArea(object).md)
 

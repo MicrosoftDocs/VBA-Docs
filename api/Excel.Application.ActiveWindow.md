@@ -20,7 +20,7 @@ Returns a  **[Window](Excel.Window.md)** object that represents the active windo
 
  _expression_. `ActiveWindow`
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Example
@@ -36,5 +36,5 @@ MsgBox "The name of the active window is " &; ActiveWindow.Caption
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

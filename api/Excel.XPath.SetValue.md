@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XPath.SetValue Method (Excel)
 
-Maps the specified  **[XPath](Excel.XPath.md)** object to a **[ListColumn](Excel.ListColumn.md)** object or **[Range](Excel.Range(objec).md)** collection. If the **XPath** object has previously been mapped to the **ListColumn** object or **Range** collection, the **SetValue** method sets the properties of the **XPath** object.
+Maps the specified  **[XPath](Excel.XPath.md)** object to a **[ListColumn](Excel.ListColumn.md)** object or **[Range](Excel.Range(object).md)** collection. If the **XPath** object has previously been mapped to the **ListColumn** object or **Range** collection, the **SetValue** method sets the properties of the **XPath** object.
 
 
 ## Syntax

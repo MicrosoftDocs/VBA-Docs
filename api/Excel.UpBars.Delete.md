@@ -31,5 +31,5 @@ Variant
 ## See also
 
 
-[UpBars Object](Excel.UpBars(objec).md)
+[UpBars Object](Excel.UpBars(object).md)
 

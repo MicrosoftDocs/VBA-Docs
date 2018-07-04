@@ -41,5 +41,5 @@ Worksheets("Sheet1").Rows(2).OutlineLevel = 1
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

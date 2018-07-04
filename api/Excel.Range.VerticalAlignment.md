@@ -38,5 +38,5 @@ The value of this property can be set to one of the following constants:
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

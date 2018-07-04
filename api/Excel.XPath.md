@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XPath Object (Excel)
 
-Represents an XPath that has been mapped to a  **[Range](Excel.Range(objec).md)** or **[ListColumn](Excel.ListColumn.md)** object.
+Represents an XPath that has been mapped to a  **[Range](Excel.Range(object).md)** or **[ListColumn](Excel.ListColumn.md)** object.
 
 
 ## Example

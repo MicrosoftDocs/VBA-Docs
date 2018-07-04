@@ -93,5 +93,5 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

@@ -20,7 +20,7 @@ Occurs when a new sheet is created in any open workbook.
 
  _expression_. `WorkbookNewSheet`( `_Wb_` , `_Sh_` )
 
- _expression_ A variable that represents an '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -53,5 +53,5 @@ End Sub
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

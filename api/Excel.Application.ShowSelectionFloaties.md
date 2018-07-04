@@ -31,5 +31,5 @@ Corresponds with the  **Show MiniBar on selection** check box in the **Excel Opt
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

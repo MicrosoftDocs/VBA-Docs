@@ -30,7 +30,7 @@ Occurs after a cell or range of cells inside a PivotTable are edited or recalcul
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _TargetPivotTable_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that contains the edited or recalculated cells.|
-| _TargetRange_|Required| **[Range](Excel.Range(objec).md)**|The range that contains all the edited or recalcuated cells.|
+| _TargetRange_|Required| **[Range](Excel.Range(object).md)**|The range that contains all the edited or recalcuated cells.|
 
 ### Return Value
 

@@ -31,5 +31,5 @@ Attempting to access a theme color for an object whose color is not currently th
 ## See also
 
 
-[Interior Object](Excel.Interior(objec).md)
+[Interior Object](Excel.Interior(object).md)
 

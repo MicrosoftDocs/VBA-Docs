@@ -26,5 +26,5 @@ Returns the parent object for the specified object. Read-only.
 ## See also
 
 
-[Gridlines Object](Excel.Gridlines(objec).md)
+[Gridlines Object](Excel.Gridlines(object).md)
 

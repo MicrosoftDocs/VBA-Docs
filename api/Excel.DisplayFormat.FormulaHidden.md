@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.FormulaHidden Property (Excel)
 
-Returns a value that indicates if the formula of the associated  **[Range](Excel.Range(objec).md)** object is hidden when the worksheet is protected as it is displayed in the current user interface. Read-only.
+Returns a value that indicates if the formula of the associated  **[Range](Excel.Range(object).md)** object is hidden when the worksheet is protected as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax

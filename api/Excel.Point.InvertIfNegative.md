@@ -26,5 +26,5 @@ ms.date: 06/08/2017
 ## See also
 
 
-[Point Object](Excel.Point(objec).md)
+[Point Object](Excel.Point(object).md)
 

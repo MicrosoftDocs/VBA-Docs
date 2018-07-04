@@ -32,5 +32,5 @@ Occurs after a callout gallery?s icons (dynamic &; static) have finished renderi
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

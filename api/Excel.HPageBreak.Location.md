@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HPageBreak.Location Property (Excel)
 
-Returns or sets the cell (a **Range** object) that defines the page-break location. Horizontal page breaks are aligned with the top edge of the location cell. Read/write **[Range](Excel.Range(objec).md)**.
+Returns or sets the cell (a **Range** object) that defines the page-break location. Horizontal page breaks are aligned with the top edge of the location cell. Read/write **[Range](Excel.Range(object).md)**.
 
 
 ## Syntax

@@ -36,5 +36,5 @@ To select a cell or a range of cells, use the  **Select** method. To make a sing
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 

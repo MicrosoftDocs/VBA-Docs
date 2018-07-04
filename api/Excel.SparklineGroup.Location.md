@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparklineGroup.Location Property (Excel)
 
-Gets or sets the  **[Range](Excel.Range(objec).md)** object that represents the location of the sparkline group. Read/write.
+Gets or sets the  **[Range](Excel.Range(object).md)** object that represents the location of the sparkline group. Read/write.
 
 
 ## Syntax

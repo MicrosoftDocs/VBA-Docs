@@ -31,5 +31,5 @@ Variant
 ## See also
 
 
-[DropLines Object](Excel.DropLines(objec).md)
+[DropLines Object](Excel.DropLines(object).md)
 

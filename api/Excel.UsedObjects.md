@@ -18,7 +18,7 @@ Represents objects that have been allocated in a workbook.
 
 ## Example
 
-Use the  **[UsedObjects](Excel.Application.UsedObjects.md)** property of the **[Application](Excel.Application(objec).md)** object to return a **UsedObjects** collection.
+Use the  **[UsedObjects](Excel.Application.UsedObjects.md)** property of the **[Application](Excel.Application(object).md)** object to return a **UsedObjects** collection.
 
 Once a  **UsedObjects** collection is returned, you can determine the quantity of used objects in a Microsoft Excel application using the **[Count](Excel.UsedObjects.Count.md)** property.
 

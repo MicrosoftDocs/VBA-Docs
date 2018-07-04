@@ -52,5 +52,5 @@ Charts("Chart1").SeriesCollection(1).Values = _
 ## See also
 
 
-[Series Object](Excel.Series(objec).md)
+[Series Object](Excel.Series(object).md)
 

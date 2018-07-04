@@ -20,7 +20,7 @@ Occurs before changes are committed against the OLAP data source for a PivotTabl
 
  _expression_. `SheetPivotTableBeforeCommitChanges`( `_Sh_` , `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` , `_Cancel_` )
 
- _expression_ A variable that represents a '[Application](Excel.Application(objec).md)' object.
+ _expression_ A variable that represents a '[Application](Excel.Application(object).md)' object.
 
 
 ### Parameters
@@ -48,5 +48,5 @@ The  **SheetPivotTableBeforeCommitChanges** event occurs immediately before Exce
 ## See also
 
 
-[Application Object](Excel.Application(objec).md)
+[Application Object](Excel.Application(object).md)
 

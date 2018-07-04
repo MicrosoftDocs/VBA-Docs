@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Top10.Font Property (Excel)
 
-Returns a  **[Font](Excel.Font(objec).md)** object that specifies the font formatting if the conditional formatting rule evaluates to **True** . Read-only.
+Returns a  **[Font](Excel.Font(object).md)** object that specifies the font formatting if the conditional formatting rule evaluates to **True** . Read-only.
 
 
 ## Syntax

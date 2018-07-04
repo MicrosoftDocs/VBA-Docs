@@ -20,7 +20,7 @@ Discards all changes in the edited cells of the range.
 
  _expression_. `DiscardChanges`
 
- _expression_ A variable that represents a '[Range](Excel.Range(objec).md)' object.
+ _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
 ## Remarks
@@ -31,5 +31,5 @@ For a range based on an OLAP data source, this method removes all values and for
 ## See also
 
 
-[Range Object](Excel.Range(objec).md)
+[Range Object](Excel.Range(object).md)
 
