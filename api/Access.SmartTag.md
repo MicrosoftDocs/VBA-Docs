@@ -46,7 +46,7 @@ To return the collection of actions available for the smart tag, use the  **[Sma
 |[Parent](Access.SmartTag.Parent.md)|
 |[Properties](Access.SmartTag.Properties.md)|
 |[SmartTagActions](Access.SmartTag.SmartTagActions.md)|
-|[XML](smarttag-xml-property-access.md)|
+|[XML](Access.smarttag.xml.md)|
 
 ## See also
 

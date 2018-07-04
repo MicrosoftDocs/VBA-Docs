@@ -40,7 +40,7 @@ Use the  **ImportExportSpecification** property of the[CodeProject](Access.CodeP
 |[Application](Access.ImportExportSpecifications.Application.md)|
 |[Count](Access.ImportExportSpecifications.Count.md)|
 |[Item](Access.ImportExportSpecifications.Item.md)|
-|[Parent](importexportspecifications-parent-property-access.md)|
+|[Parent](Access.ImportExportSpecifications.Parent.md)|
 
 ## See also
 

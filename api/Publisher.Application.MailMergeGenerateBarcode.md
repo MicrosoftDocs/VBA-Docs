@@ -40,7 +40,7 @@ If the add-in can use the address text directly, it returns a string representat
 
 To permit triggering of the  **MailMergeGenerateBarcode** event, you must handle the **[MailMergeInsertBarcode](Publisher.Application.MailMergeInsertBarcode.md)** event in your code, and the add-in must set the OkToInsert parameter passed to that event to **True**. 
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
+For more information about using events with the  **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example

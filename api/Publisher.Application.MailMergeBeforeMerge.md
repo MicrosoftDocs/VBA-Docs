@@ -36,7 +36,7 @@ Occurs when a merge is executed before any records in a mail merge have merged.
 
 ## Remarks
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-Publisher.Application.md).
+To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](../publisher/Concepts/using-events-with-the-application-object-publisher.md).
 
 
 ## Example
