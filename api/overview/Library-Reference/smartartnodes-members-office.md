@@ -18,8 +18,8 @@ Represents a collection of nodes within a Smart Art diagram.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.SmartArtNodes.Add.md)|Adds a new  **SmartArtNode** object to the diagram with specified text.|
-|[Item](../Office.SmartArtNodes.Item.md)|Retrieves a  **SmartArtNode** object at the specified index or with the specified unique Id.|
+|[Add](../../Office.SmartArtNodes.Add.md)|Adds a new  **SmartArtNode** object to the diagram with specified text.|
+|[Item](../../Office.SmartArtNodes.Item.md)|Retrieves a  **SmartArtNode** object at the specified index or with the specified unique Id.|
 
 ## Properties
 
@@ -27,8 +27,8 @@ Represents a collection of nodes within a Smart Art diagram.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.SmartArtNodes.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtNodes** object. Read-only|
-|[Count](../Office.SmartArtNodes.Count.md)|Retrieves the number of  **SmartArtNode** objects contained within the **SmartArtNodes** collection. Read-only|
-|[Creator](../Office.SmartArtNodes.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **SmartArtNodes** object was created. Read-only|
-|[Parent](../Office.SmartArtNodes.Parent.md)|Returns the calling object. Read-only|
+|[Application](../../Office.SmartArtNodes.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtNodes** object. Read-only|
+|[Count](../../Office.SmartArtNodes.Count.md)|Retrieves the number of  **SmartArtNode** objects contained within the **SmartArtNodes** collection. Read-only|
+|[Creator](../../Office.SmartArtNodes.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **SmartArtNodes** object was created. Read-only|
+|[Parent](../../Office.SmartArtNodes.Parent.md)|Returns the calling object. Read-only|
 

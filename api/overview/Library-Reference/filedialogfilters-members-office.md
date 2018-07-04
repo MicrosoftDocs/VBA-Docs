@@ -18,10 +18,10 @@ A collection of  **FileDialogFilter** objects that represent the types of files 
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.FileDialogFilters.Add.md)|Adds a new file filter to the list of filters in the  **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.|
-|[Clear](../Office.FileDialogFilters.Clear.md)|Removes all filters currently applied in a file dialog box.|
-|[Delete](../Office.FileDialogFilters.Delete.md)|Removes a file dialog filter.|
-|[Item](../Office.FileDialogFilters.Item.md)|Gets a  **FileDialogFilter** object that is a member of the specified **FileDialogFilters** collection.|
+|[Add](../../Office.FileDialogFilters.Add.md)|Adds a new file filter to the list of filters in the  **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.|
+|[Clear](../../Office.FileDialogFilters.Clear.md)|Removes all filters currently applied in a file dialog box.|
+|[Delete](../../Office.FileDialogFilters.Delete.md)|Removes a file dialog filter.|
+|[Item](../../Office.FileDialogFilters.Item.md)|Gets a  **FileDialogFilter** object that is a member of the specified **FileDialogFilters** collection.|
 
 ## Properties
 
@@ -29,8 +29,8 @@ A collection of  **FileDialogFilter** objects that represent the types of files 
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.FileDialogFilters.Application.md)|Gets an  **Application** object that represents the container application for the **FileDialogFilters** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
-|[Count](../Office.FileDialogFilters.Count.md)|Gets a  **Long** indicating the number of items in the **FileDialogFilters** collection. Read-only.|
-|[Creator](../Office.FileDialogFilters.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **FileDialogFilters** object was created. Read-only.|
-|[Parent](../Office.FileDialogFilters.Parent.md)|Gets the  **Parent** object for the **FileDialogFilters** object. Read-only.|
+|[Application](../../Office.FileDialogFilters.Application.md)|Gets an  **Application** object that represents the container application for the **FileDialogFilters** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
+|[Count](../../Office.FileDialogFilters.Count.md)|Gets a  **Long** indicating the number of items in the **FileDialogFilters** collection. Read-only.|
+|[Creator](../../Office.FileDialogFilters.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **FileDialogFilters** object was created. Read-only.|
+|[Parent](../../Office.FileDialogFilters.Parent.md)|Gets the  **Parent** object for the **FileDialogFilters** object. Read-only.|
 

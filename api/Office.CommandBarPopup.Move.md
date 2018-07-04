@@ -59,5 +59,5 @@ Next
 
 
 
-[CommandBarPopup Object Members](overview/commandbarpopup-members-office.md)
+[CommandBarPopup Object Members](./overview/Library-Reference/commandbarpopup-members-office.md)
 

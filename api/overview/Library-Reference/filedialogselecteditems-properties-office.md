@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.FileDialogSelectedItems.Application.md)|Gets an  **Application** object that represents the container application for the **FileDialogSelectedItems** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
-|[Count](../Office.FileDialogSelectedItems.Count.md)|Gets a  **Long** indicating the number of items in the **FileDialogSelectedItem** s collection. Read-only.|
-|[Creator](../Office.FileDialogSelectedItems.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **FileDialogSelectedItems** object was created. Read-only.|
-|[Parent](../Office.FileDialogSelectedItems.Parent.md)|Gets the  **Parent** object for the **FileDialogSelectedItems** object. Read-only.|
+|[Application](../../Office.FileDialogSelectedItems.Application.md)|Gets an  **Application** object that represents the container application for the **FileDialogSelectedItems** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
+|[Count](../../Office.FileDialogSelectedItems.Count.md)|Gets a  **Long** indicating the number of items in the **FileDialogSelectedItem** s collection. Read-only.|
+|[Creator](../../Office.FileDialogSelectedItems.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **FileDialogSelectedItems** object was created. Read-only.|
+|[Parent](../../Office.FileDialogSelectedItems.Parent.md)|Gets the  **Parent** object for the **FileDialogSelectedItems** object. Read-only.|
 

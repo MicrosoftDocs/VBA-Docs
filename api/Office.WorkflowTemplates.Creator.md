@@ -32,5 +32,5 @@ Long
 
 
 
-[WorkflowTemplates Object Members](./overview/workflowtemplates-members-office.md)
+[WorkflowTemplates Object Members](./overview/Library-Reference/workflowtemplates-members-office.md)
 

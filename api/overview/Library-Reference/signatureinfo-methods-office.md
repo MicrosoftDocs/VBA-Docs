@@ -14,9 +14,9 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[GetCertificateDetail](../Office.SignatureInfo.GetCertificateDetail.md)|Displays a specified detail related to a digital certificate.|
-|[GetSignatureDetail](../Office.SignatureInfo.GetSignatureDetail.md)|Displays a specified detail related to a signature.|
-|[SelectCertificateDetailByThumbprint](../Office.SignatureInfo.SelectCertificateDetailByThumbprint.md)|Displays a dialog box containing information about a digital certificate following vertification of the user from a thumbprint.|
-|[SelectSignatureCertificate](../Office.SignatureInfo.SelectSignatureCertificate.md)|Displays a dialog box that allows users to select which signature certificate to use for signing a document.|
-|[ShowSignatureCertificate](../Office.SignatureInfo.ShowSignatureCertificate.md)|Displays the selected or default digital certificate. |
+|[GetCertificateDetail](../../Office.SignatureInfo.GetCertificateDetail.md)|Displays a specified detail related to a digital certificate.|
+|[GetSignatureDetail](../../Office.SignatureInfo.GetSignatureDetail.md)|Displays a specified detail related to a signature.|
+|[SelectCertificateDetailByThumbprint](../../Office.SignatureInfo.SelectCertificateDetailByThumbprint.md)|Displays a dialog box containing information about a digital certificate following vertification of the user from a thumbprint.|
+|[SelectSignatureCertificate](../../Office.SignatureInfo.SelectSignatureCertificate.md)|Displays a dialog box that allows users to select which signature certificate to use for signing a document.|
+|[ShowSignatureCertificate](../../Office.SignatureInfo.ShowSignatureCertificate.md)|Displays the selected or default digital certificate. |
 

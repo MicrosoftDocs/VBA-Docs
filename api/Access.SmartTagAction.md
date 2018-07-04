@@ -46,4 +46,4 @@ To return the parent control of the  **[SmartTag](Access.SmartTag.md)** object, 
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)

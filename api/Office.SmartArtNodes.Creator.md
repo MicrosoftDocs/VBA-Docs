@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtNod
 
 
 
-[SmartArtNodes Object Members](./overview/smartartnodes-members-office.md)
+[SmartArtNodes Object Members](./overview/Library-Reference/smartartnodes-members-office.md)
 

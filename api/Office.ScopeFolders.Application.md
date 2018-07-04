@@ -32,5 +32,5 @@ Object
 
 
 
-[ScopeFolders Object Members](./overview/scopefolders-members-office.md)
+[ScopeFolders Object Members](./overview/Library-Reference/scopefolders-members-office.md)
 

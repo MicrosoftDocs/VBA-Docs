@@ -62,5 +62,5 @@ End Sub
 
 
 
-[Font2 Object Members](./overview/font2-members-office.md)
+[Font2 Object Members](./overview/Library-Reference/font2-members-office.md)
 

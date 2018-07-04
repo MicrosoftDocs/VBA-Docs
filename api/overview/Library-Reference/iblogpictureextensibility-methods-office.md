@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[BlogPictureProviderProperties](../Office.IBlogPictureExtensibility.BlogPictureProviderProperties.md)|Enables picture providers to offer themselves as an upload location for blog pictures.|
-|[CreatePictureAccount](../Office.IBlogPictureExtensibility.CreatePictureAccount.md)|Allows a picture provider to display the user interface needed to guide the user through setting up a picture account.|
-|[PublishPicture](../Office.IBlogPictureExtensibility.PublishPicture.md)|Used to post a picture object to its final destination in a blog.|
+|[BlogPictureProviderProperties](../../Office.IBlogPictureExtensibility.BlogPictureProviderProperties.md)|Enables picture providers to offer themselves as an upload location for blog pictures.|
+|[CreatePictureAccount](../../Office.IBlogPictureExtensibility.CreatePictureAccount.md)|Allows a picture provider to display the user interface needed to guide the user through setting up a picture account.|
+|[PublishPicture](../../Office.IBlogPictureExtensibility.PublishPicture.md)|Used to post a picture object to its final destination in a blog.|
 

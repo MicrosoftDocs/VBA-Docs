@@ -49,5 +49,5 @@ Hands off the current post so it can be republished by the provider.
 
 
 
-[IBlogExtensibility Object Members](./overview/iblogextensibility-members-office.md)
+[IBlogExtensibility Object Members](./overview/Library-Reference/iblogextensibility-members-office.md)
 

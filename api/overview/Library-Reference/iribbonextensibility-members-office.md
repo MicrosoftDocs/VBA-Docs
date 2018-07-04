@@ -18,5 +18,5 @@ The interface through which the Ribbon user interface (UI) communicates with a C
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[GetCustomUI](../Office.IRibbonExtensibility.GetCustomUI.md)|Loads the XML markup, either from an XML customization file or from XML markup embedded in the procedure, that customizes the Ribbon user interface.|
+|[GetCustomUI](../../Office.IRibbonExtensibility.GetCustomUI.md)|Loads the XML markup, either from an XML customization file or from XML markup embedded in the procedure, that customizes the Ribbon user interface.|
 

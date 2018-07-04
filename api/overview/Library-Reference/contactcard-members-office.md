@@ -18,8 +18,8 @@ Represents a Microsoft Office contact card.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Close](../Office.ContactCard.Close.md)|Closes the contact card.|
-|[Show](../Office.ContactCard.Show.md)|Displays the contact card at the specified x-coordinate position outside the specified rectangle. |
+|[Close](../../Office.ContactCard.Close.md)|Closes the contact card.|
+|[Show](../../Office.ContactCard.Show.md)|Displays the contact card at the specified x-coordinate position outside the specified rectangle. |
 
 ## Properties
 
@@ -27,6 +27,6 @@ Represents a Microsoft Office contact card.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.ContactCard.Application.md)|Returns an  **Application** object that represents the parent Office application for the **ContactCard** object. Read-only.|
-|[Creator](../Office.ContactCard.Creator.md)|Returns a  **Long** that indicates the application in which the **ContactCard** object was created. Read-only.|
+|[Application](../../Office.ContactCard.Application.md)|Returns an  **Application** object that represents the parent Office application for the **ContactCard** object. Read-only.|
+|[Creator](../../Office.ContactCard.Creator.md)|Returns a  **Long** that indicates the application in which the **ContactCard** object was created. Read-only.|
 

@@ -32,5 +32,5 @@ Object
 
 
 
-[CustomXMLSchemaCollection Object Members](./overview/customxmlschemacollection-members-office.md)
+[CustomXMLSchemaCollection Object Members](./overview/Library-Reference/customxmlschemacollection-members-office.md)
 

@@ -18,5 +18,5 @@ Used to create a custom task pane.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[CreateCTP](../Office.ICTPFactory.CreateCTP.md)|Creates an instance of a custom task pane.|
+|[CreateCTP](../../Office.ICTPFactory.CreateCTP.md)|Creates an instance of a custom task pane.|
 

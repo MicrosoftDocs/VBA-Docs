@@ -32,5 +32,5 @@ Object
 
 
 
-[ThemeColorScheme Object Members](./overview/themecolorscheme-members-office.md)
+[ThemeColorScheme Object Members](./overview/Library-Reference/themecolorscheme-members-office.md)
 

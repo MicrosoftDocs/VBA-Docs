@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.SharedWorkspaceLinks.Add.md)|Adds a link to the list of links in a shared workspace.|
+|[Add](../../Office.SharedWorkspaceLinks.Add.md)|Adds a link to the list of links in a shared workspace.|
 

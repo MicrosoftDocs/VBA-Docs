@@ -30,5 +30,5 @@ Retrieves the unique Id of the associated  **PickerResult** object. Read-only
 
 
 
-[PickerResult Object Members](./overview/pickerresult-members-office.md)
+[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 

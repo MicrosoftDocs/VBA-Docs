@@ -47,8 +47,8 @@ End Sub
 ## See also
 
 
-[Object Model Reference](overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-[IRibbonUI Object Members](./overview/iribbonui-members-office.md)
+[IRibbonUI Object Members](./overview/Library-Reference/iribbonui-members-office.md)
 

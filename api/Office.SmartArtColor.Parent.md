@@ -27,5 +27,5 @@ Returns the calling object. Read-only
 
 
 
-[SmartArtColor Object Members](./overview/smartartcolor-members-office.md)
+[SmartArtColor Object Members](./overview/Library-Reference/smartartcolor-members-office.md)
 

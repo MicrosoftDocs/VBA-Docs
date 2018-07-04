@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](../Office.SmartArtColors.Item.md)|Retrieves a  **SmartArtColor** object at the specified index or with the specified unique Id.|
+|[Item](../../Office.SmartArtColors.Item.md)|Retrieves a  **SmartArtColor** object at the specified index or with the specified unique Id.|
 

@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[SmartArtLayouts Object Members](./overview/smartartlayouts-members-office.md)
+[SmartArtLayouts Object Members](./overview/Library-Reference/smartartlayouts-members-office.md)
 

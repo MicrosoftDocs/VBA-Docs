@@ -15,7 +15,7 @@ This object has the following events:
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[PartAfterAdd](../Office.CustomXMLParts.PartAfterAdd.md)|Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts** collection.|
-|[PartAfterLoad](../Office.CustomXMLParts.PartAfterLoad.md)|Occurs just after a  **CustomXMLPart** object is loaded.|
-|[PartBeforeDelete](../Office.CustomXMLParts.PartBeforeDelete.md)|Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLParts** collection.|
+|[PartAfterAdd](../../Office.CustomXMLParts.PartAfterAdd.md)|Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts** collection.|
+|[PartAfterLoad](../../Office.CustomXMLParts.PartAfterLoad.md)|Occurs just after a  **CustomXMLPart** object is loaded.|
+|[PartBeforeDelete](../../Office.CustomXMLParts.PartBeforeDelete.md)|Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLParts** collection.|
 

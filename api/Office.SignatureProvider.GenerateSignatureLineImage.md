@@ -112,5 +112,5 @@ The following example, written in C#, shows the implementation of the  **Generat
 
 
 
-[SignatureProvider Object Members](./overview/signatureprovider-members-office.md)
+[SignatureProvider Object Members](./overview/Library-Reference/signatureprovider-members-office.md)
 

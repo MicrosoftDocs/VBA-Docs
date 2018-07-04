@@ -35,5 +35,5 @@ String
 
 
 
-[DocumentLibraryVersion Object Members](./overview/documentlibraryversion-members-office.md)
+[DocumentLibraryVersion Object Members](./overview/Library-Reference/documentlibraryversion-members-office.md)
 

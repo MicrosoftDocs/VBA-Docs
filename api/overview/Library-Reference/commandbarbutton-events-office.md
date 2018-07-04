@@ -15,5 +15,5 @@ This object has the following events:
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Click](../Office.CommandBarButton.Click.md)|Occurs when the user clicks a  **CommandBarButton** object.|
+|[Click](../../Office.CommandBarButton.Click.md)|Occurs when the user clicks a  **CommandBarButton** object.|
 

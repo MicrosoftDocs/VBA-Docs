@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.SearchFolders.Add.md)|Adds a search folder to a file search.|
-|[Remove](../Office.SearchFolders.Remove.md)|Removes the specified object from the collection.|
+|[Add](../../Office.SearchFolders.Add.md)|Adds a search folder to a file search.|
+|[Remove](../../Office.SearchFolders.Remove.md)|Removes the specified object from the collection.|
 

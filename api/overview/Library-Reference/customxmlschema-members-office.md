@@ -18,8 +18,8 @@ Represents a schema in a  **CustomXMLSchemaCollection** collection.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](../Office.CustomXMLSchema.Delete.md)|Deletes the specified schema from the  **CustomXMLSchema** collection.|
-|[Reload](../Office.CustomXMLSchema.Reload.md)|Reloads a schema from a file.|
+|[Delete](../../Office.CustomXMLSchema.Delete.md)|Deletes the specified schema from the  **CustomXMLSchema** collection.|
+|[Reload](../../Office.CustomXMLSchema.Reload.md)|Reloads a schema from a file.|
 
 ## Properties
 
@@ -27,9 +27,9 @@ Represents a schema in a  **CustomXMLSchemaCollection** collection.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.CustomXMLSchema.Application.md)|Gets an  **Application** object that represents the container application for the **CustomXMLSchema** object. Read-only.|
-|[Creator](../Office.CustomXMLSchema.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **CustomXMLSchema** object was created. Read-only.|
-|[Location](../Office.CustomXMLSchema.Location.md)|Gets a  **String** that represents the location of a schema on a computer. Read-only.|
-|[NamespaceURI](../Office.CustomXMLSchema.NamespaceURI.md)|Gets the unique address identifier for the namespace of the  **CustomXMLSchema** object. Read-only.|
-|[Parent](../Office.CustomXMLSchema.Parent.md)|Gets the  **Parent** object for the **CustomXMLSchema** object. Read-only.|
+|[Application](../../Office.CustomXMLSchema.Application.md)|Gets an  **Application** object that represents the container application for the **CustomXMLSchema** object. Read-only.|
+|[Creator](../../Office.CustomXMLSchema.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **CustomXMLSchema** object was created. Read-only.|
+|[Location](../../Office.CustomXMLSchema.Location.md)|Gets a  **String** that represents the location of a schema on a computer. Read-only.|
+|[NamespaceURI](../../Office.CustomXMLSchema.NamespaceURI.md)|Gets the unique address identifier for the namespace of the  **CustomXMLSchema** object. Read-only.|
+|[Parent](../../Office.CustomXMLSchema.Parent.md)|Gets the  **Parent** object for the **CustomXMLSchema** object. Read-only.|
 

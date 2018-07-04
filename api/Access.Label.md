@@ -152,4 +152,4 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 
 
 [Label Object Members](./overview/Access.md)<br/>
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)

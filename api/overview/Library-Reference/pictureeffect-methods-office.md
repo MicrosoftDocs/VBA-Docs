@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](../Office.PictureEffect.Delete.md)|Deletes a Picture Effect.|
+|[Delete](../../Office.PictureEffect.Delete.md)|Deletes a Picture Effect.|
 

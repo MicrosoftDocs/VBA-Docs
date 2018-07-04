@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.ThemeEffectScheme.Application.md)|Gets an  **Application** object that represents the container application for the **ThemeEffectScheme** object. Read-only.|
-|[Creator](../Office.ThemeEffectScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ThemeEffectScheme** object was created. Read-only.|
-|[Parent](../Office.ThemeEffectScheme.Parent.md)|Gets the  **Parent** object for the **ThemeEffectScheme** object. Read-only.|
+|[Application](../../Office.ThemeEffectScheme.Application.md)|Gets an  **Application** object that represents the container application for the **ThemeEffectScheme** object. Read-only.|
+|[Creator](../../Office.ThemeEffectScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ThemeEffectScheme** object was created. Read-only.|
+|[Parent](../../Office.ThemeEffectScheme.Parent.md)|Gets the  **Parent** object for the **ThemeEffectScheme** object. Read-only.|
 

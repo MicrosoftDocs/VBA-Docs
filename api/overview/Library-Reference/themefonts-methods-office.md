@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](../Office.ThemeFonts.Item.md)|Gets one of the three language fonts contained in the  **ThemeFonts** collection.|
+|[Item](../../Office.ThemeFonts.Item.md)|Gets one of the three language fonts contained in the  **ThemeFonts** collection.|
 

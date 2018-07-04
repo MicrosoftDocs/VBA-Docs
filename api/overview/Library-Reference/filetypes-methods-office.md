@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.FileTypes.Add.md)|Adds a new file type to a file search.|
-|[Remove](../Office.FileTypes.Remove.md)|Removes a  **FileType** object from the collection.|
+|[Add](../../Office.FileTypes.Add.md)|Adds a new file type to a file search.|
+|[Remove](../../Office.FileTypes.Remove.md)|Removes a  **FileType** object from the collection.|
 

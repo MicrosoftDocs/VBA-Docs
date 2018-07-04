@@ -18,7 +18,7 @@ This feature is only available in the Open XML Format SDK.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[HrCheckFormat](../Office.IConverterPreferences.HrCheckFormat.md)|This feature is only available in the Open XML Format SDK.|
-|[HrGetLossySave](../Office.IConverterPreferences.HrGetLossySave.md)|This feature is only available in the Open XML Format SDK.|
-|[HrGetMacroEnabled](../Office.IConverterPreferences.HrGetMacroEnabled.md)|This feature is only available in the Open XML Format SDK.|
+|[HrCheckFormat](../../Office.IConverterPreferences.HrCheckFormat.md)|This feature is only available in the Open XML Format SDK.|
+|[HrGetLossySave](../../Office.IConverterPreferences.HrGetLossySave.md)|This feature is only available in the Open XML Format SDK.|
+|[HrGetMacroEnabled](../../Office.IConverterPreferences.HrGetMacroEnabled.md)|This feature is only available in the Open XML Format SDK.|
 

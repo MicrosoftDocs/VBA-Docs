@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](../Office.SmartArtQuickStyles.Item.md)|Retrieves a  **SmartArtQuickStyle** object at the specified index or with the specified unique Id.|
+|[Item](../../Office.SmartArtQuickStyles.Item.md)|Retrieves a  **SmartArtQuickStyle** object at the specified index or with the specified unique Id.|
 

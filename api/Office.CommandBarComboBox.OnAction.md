@@ -40,5 +40,5 @@ The container application determines whether the value is a valid macro name.
 
 
 
-[CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)
+[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
 

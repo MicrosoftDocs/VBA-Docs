@@ -18,9 +18,9 @@ Represents a collection of  **DocumentInspector** objects.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.DocumentInspectors.Application.md)|Gets an  **Application** object that represents the creator of the **DocumentInspectors** object. Read-only.|
-|[Count](../Office.DocumentInspectors.Count.md)|Gets the number of items in the  **DocumentInspectors** object. Read-only.|
-|[Creator](../Office.DocumentInspectors.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **DocumentInspectors** object was created. Read-only.|
-|[Item](../Office.DocumentInspectors.Item.md)|Gets the  **DocumentInspector** object specified by the index. Read-only.|
-|[Parent](../Office.DocumentInspectors.Parent.md)|Gets an object that represents the parent of a  **DocumentInspectors** object. Read-only.|
+|[Application](../../Office.DocumentInspectors.Application.md)|Gets an  **Application** object that represents the creator of the **DocumentInspectors** object. Read-only.|
+|[Count](../../Office.DocumentInspectors.Count.md)|Gets the number of items in the  **DocumentInspectors** object. Read-only.|
+|[Creator](../../Office.DocumentInspectors.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **DocumentInspectors** object was created. Read-only.|
+|[Item](../../Office.DocumentInspectors.Item.md)|Gets the  **DocumentInspector** object specified by the index. Read-only.|
+|[Parent](../../Office.DocumentInspectors.Parent.md)|Gets an object that represents the parent of a  **DocumentInspectors** object. Read-only.|
 

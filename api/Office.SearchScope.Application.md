@@ -32,5 +32,5 @@ Object
 
 
 
-[SearchScope Object Members](./overview/searchscope-members-office.md)
+[SearchScope Object Members](./overview/Library-Reference/searchscope-members-office.md)
 

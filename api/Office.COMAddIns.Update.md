@@ -45,5 +45,5 @@ Application.COMAddIns.Update
 
 
 
-[COMAddIns Object Members](./overview/comaddins-members-office.md)
+[COMAddIns Object Members](./overview/Library-Reference/comaddins-members-office.md)
 

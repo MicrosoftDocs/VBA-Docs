@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.SharedWorkspaceFolders.Add.md)|Adds a folder to the document library in a shared workspace. Returns a  **[SharedWorkspaceFolder](../Office.SharedWorkspaceFolder.md)** object.|
+|[Add](../../Office.SharedWorkspaceFolders.Add.md)|Adds a folder to the document library in a shared workspace. Returns a  **[SharedWorkspaceFolder](../../Office.SharedWorkspaceFolder.md)** object.|
 

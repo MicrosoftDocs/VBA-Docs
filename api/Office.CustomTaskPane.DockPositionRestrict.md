@@ -35,5 +35,5 @@ MsoCTPDockPositionRestrict
 
 
 
-[CustomTaskPane Object Members](./overview/customtaskpane-members-office.md)
+[CustomTaskPane Object Members](./overview/Library-Reference/customtaskpane-members-office.md)
 

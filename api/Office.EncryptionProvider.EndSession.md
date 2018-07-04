@@ -43,5 +43,5 @@ During a save operation, the  **CloneSession** method is called by your COM add-
 
 
 
-[EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)
+[EncryptionProvider Object Members](./overview/Library-Reference/encryptionprovider-members-office.md)
 

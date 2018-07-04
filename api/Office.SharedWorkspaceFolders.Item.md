@@ -41,5 +41,5 @@ Gets a  **SharedWorkspaceFolder** object from the **Folders** collection of the 
 
 
 
-[SharedWorkspaceFolders Object Members](overview/sharedworkspacefolders-members-office.md)
+[SharedWorkspaceFolders Object Members](./overview/Library-Reference/sharedworkspacefolders-members-office.md)
 

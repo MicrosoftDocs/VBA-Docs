@@ -27,5 +27,5 @@ Returns a  **TextRange2** object that represents the specified subset of left-to
 
 
 
-[TextRange2 Object Members](./overview/textrange2-members-office.md)
+[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 

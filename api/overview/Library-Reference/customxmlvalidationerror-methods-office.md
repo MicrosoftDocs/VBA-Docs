@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](../Office.CustomXMLValidationError.Delete.md)|Deletes the  **CustomXMLValidationError** object representing a data validation error.|
+|[Delete](../../Office.CustomXMLValidationError.Delete.md)|Deletes the  **CustomXMLValidationError** object representing a data validation error.|
 

@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Close](../Office.ContactCard.Close.md)|Closes the contact card.|
-|[Show](../Office.ContactCard.Show.md)|Displays the contact card at the specified x-coordinate position outside the specified rectangle. |
+|[Close](../../Office.ContactCard.Close.md)|Closes the contact card.|
+|[Show](../../Office.ContactCard.Show.md)|Displays the contact card at the specified x-coordinate position outside the specified rectangle. |
 

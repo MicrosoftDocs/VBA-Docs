@@ -58,5 +58,5 @@ You can use the following table to predict the number of sessions for which a me
 
 
 
-[CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)
+[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
 

@@ -62,5 +62,5 @@ The following example alerts the user and displays the sync status if more than 
 
 
 
-[Sync Object Members](./overview/sync-members-office.md)
+[Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 

@@ -27,5 +27,5 @@ Returns a 32-bit integer that indicates the application in which this object was
 
 
 
-[SmartArtColor Object Members](./overview/smartartcolor-members-office.md)
+[SmartArtColor Object Members](./overview/Library-Reference/smartartcolor-members-office.md)
 

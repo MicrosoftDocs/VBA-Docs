@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[SmartArtColors Object Members](./overview/smartartcolors-members-office.md)
+[SmartArtColors Object Members](./overview/Library-Reference/smartartcolors-members-office.md)
 

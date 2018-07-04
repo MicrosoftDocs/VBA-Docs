@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.CustomXMLParts.Add.md)|Allows you to add a new  **CustomXMLPart** to a file.|
-|[SelectByID](../Office.CustomXMLParts.SelectByID.md)|Selects a custom XML part matching a GUID. |
-|[SelectByNamespace](../Office.CustomXMLParts.SelectByNamespace.md)|Selects the collection of custom XML parts whose namespace matches the search criteria. |
+|[Add](../../Office.CustomXMLParts.Add.md)|Allows you to add a new  **CustomXMLPart** to a file.|
+|[SelectByID](../../Office.CustomXMLParts.SelectByID.md)|Selects a custom XML part matching a GUID. |
+|[SelectByNamespace](../../Office.CustomXMLParts.SelectByNamespace.md)|Selects the collection of custom XML parts whose namespace matches the search criteria. |
 

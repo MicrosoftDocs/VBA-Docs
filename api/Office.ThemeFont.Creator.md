@@ -32,5 +32,5 @@ Long
 
 
 
-[ThemeFont Object Members](./overview/themefont-members-office.md)
+[ThemeFont Object Members](./overview/Library-Reference/themefont-members-office.md)
 

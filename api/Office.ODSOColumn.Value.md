@@ -35,5 +35,5 @@ String
 
 
 
-[ODSOColumn Object Members](./overview/odsocolumn-members-office.md)
+[ODSOColumn Object Members](./overview/Library-Reference/odsocolumn-members-office.md)
 

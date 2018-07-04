@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **PickerResul
 
 
 
-[PickerResult Object Members](./overview/pickerresult-members-office.md)
+[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 

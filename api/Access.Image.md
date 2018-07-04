@@ -132,5 +132,5 @@ You can use the image control or an [Unbound object frame](./overview/Access.md)
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br>
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)<br>
 [Image Object Members](./overview/Access.md)

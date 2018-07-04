@@ -32,5 +32,5 @@ MsoParagraphAlignment
 
 
 
-[ParagraphFormat2 Object Members](./overview/paragraphformat2-members-office.md)
+[ParagraphFormat2 Object Members](./overview/Library-Reference/paragraphformat2-members-office.md)
 

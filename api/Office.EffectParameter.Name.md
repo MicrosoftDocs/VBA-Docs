@@ -27,5 +27,5 @@ Retrieves the string name of the  **EffectParameter** parameter. Read-only
 
 
 
-[EffectParameter Object Members](./overview/effectparameter-members-office.md)
+[EffectParameter Object Members](./overview/Library-Reference/effectparameter-members-office.md)
 

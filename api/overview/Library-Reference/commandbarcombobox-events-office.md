@@ -15,5 +15,5 @@ This object has the following events:
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Change](../Office.CommandBarComboBox.Change.md)|Occurs when the end user changes the selection in a  **CommandBar** combo box.|
+|[Change](../../Office.CommandBarComboBox.Change.md)|Occurs when the end user changes the selection in a  **CommandBar** combo box.|
 

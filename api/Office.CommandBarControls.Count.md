@@ -35,5 +35,5 @@ Integer
 
 
 
-[CommandBarControls Object Members](./overview/commandbarcontrols-members-office.md)
+[CommandBarControls Object Members](./overview/Library-Reference/commandbarcontrols-members-office.md)
 

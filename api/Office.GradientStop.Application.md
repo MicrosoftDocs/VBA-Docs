@@ -37,5 +37,5 @@ You can use this property with an OLE Automation object to return the applicatio
 
 
 
-[GradientStop Object Members](./overview/gradientstop-members-office.md)
+[GradientStop Object Members](./overview/Library-Reference/gradientstop-members-office.md)
 

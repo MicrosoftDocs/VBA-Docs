@@ -35,5 +35,5 @@ Object
 
 
 
-[IRibbonControl Object Members](./overview/iribboncontrol-members-office.md)
+[IRibbonControl Object Members](./overview/Library-Reference/iribboncontrol-members-office.md)
 

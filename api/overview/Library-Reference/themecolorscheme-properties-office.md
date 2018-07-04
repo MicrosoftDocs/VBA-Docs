@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.ThemeColorScheme.Application.md)|Gets an  **Application** object that represents the container application for the **ThemeColorScheme** object. Read-only.|
-|[Count](../Office.ThemeColorScheme.Count.md)|Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.|
-|[Creator](../Office.ThemeColorScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ThemeColorScheme** object was created. Read-only.|
-|[Parent](../Office.ThemeColorScheme.Parent.md)|Gets the  **Parent** object for the **ThemeColorScheme** object. Read-only.|
+|[Application](../../Office.ThemeColorScheme.Application.md)|Gets an  **Application** object that represents the container application for the **ThemeColorScheme** object. Read-only.|
+|[Count](../../Office.ThemeColorScheme.Count.md)|Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.|
+|[Creator](../../Office.ThemeColorScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ThemeColorScheme** object was created. Read-only.|
+|[Parent](../../Office.ThemeColorScheme.Parent.md)|Gets the  **Parent** object for the **ThemeColorScheme** object. Read-only.|
 

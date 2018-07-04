@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[EffectParameter Object Members](./overview/effectparameter-members-office.md)
+[EffectParameter Object Members](./overview/Library-Reference/effectparameter-members-office.md)
 

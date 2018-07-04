@@ -18,8 +18,8 @@ Represents a custom task pane in the container application.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[DockPositionStateChange](../Office.CustomTaskPane.DockPositionStateChange.md)|Occurs when the user changes the docking position of the active custom task pane.|
-|[VisibleStateChange](../Office.CustomTaskPane.VisibleStateChange.md)|Occurs when the user changes the visibility of the custom task pane.|
+|[DockPositionStateChange](../../Office.CustomTaskPane.DockPositionStateChange.md)|Occurs when the user changes the docking position of the active custom task pane.|
+|[VisibleStateChange](../../Office.CustomTaskPane.VisibleStateChange.md)|Occurs when the user changes the visibility of the custom task pane.|
 
 ## Methods
 
@@ -27,7 +27,7 @@ Represents a custom task pane in the container application.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](../Office.CustomTaskPane.Delete.md)|Deletes the active custom task pane.|
+|[Delete](../../Office.CustomTaskPane.Delete.md)|Deletes the active custom task pane.|
 
 ## Properties
 
@@ -35,13 +35,13 @@ Represents a custom task pane in the container application.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.CustomTaskPane.Application.md)|Gets the  **Application** object of the host application. Read-only.|
-|[ContentControl](../Office.CustomTaskPane.ContentControl.md)|Gets the Microsoft ActiveX® control instance displayed in the custom task pane frame. Read-only.|
-|[DockPosition](../Office.CustomTaskPane.DockPosition.md)|Gets or sets an enumerated value specifying the docked position of a  **CustomTaskPane** object. Read/write.|
-|[DockPositionRestrict](../Office.CustomTaskPane.DockPositionRestrict.md)|Gets or sets an enumerated value specifying a restriction on the orientation of a  **CustomTaskPane** object. Read/write.|
-|[Height](../Office.CustomTaskPane.Height.md)|Gets or sets the height of the  **CustomTaskPane** object (in points). Read/write.|
-|[Title](../Office.CustomTaskPane.Title.md)|Gets a  **String** representing the title of a **CustomTaskPane** object. Read-only.|
-|[Visible](../Office.CustomTaskPane.Visible.md)|**True** if the specified **CustomTaskPane** object is visible. Read/write.|
-|[Width](../Office.CustomTaskPane.Width.md)|Gets or sets the width of the task pane specified by the  **CustomTaskPane** object. Read/write.|
-|[Window](../Office.CustomTaskPane.Window.md)|Gets the parent window object of the  **CustomTaskPane** object. Read-only.|
+|[Application](../../Office.CustomTaskPane.Application.md)|Gets the  **Application** object of the host application. Read-only.|
+|[ContentControl](../../Office.CustomTaskPane.ContentControl.md)|Gets the Microsoft ActiveX® control instance displayed in the custom task pane frame. Read-only.|
+|[DockPosition](../../Office.CustomTaskPane.DockPosition.md)|Gets or sets an enumerated value specifying the docked position of a  **CustomTaskPane** object. Read/write.|
+|[DockPositionRestrict](../../Office.CustomTaskPane.DockPositionRestrict.md)|Gets or sets an enumerated value specifying a restriction on the orientation of a  **CustomTaskPane** object. Read/write.|
+|[Height](../../Office.CustomTaskPane.Height.md)|Gets or sets the height of the  **CustomTaskPane** object (in points). Read/write.|
+|[Title](../../Office.CustomTaskPane.Title.md)|Gets a  **String** representing the title of a **CustomTaskPane** object. Read-only.|
+|[Visible](../../Office.CustomTaskPane.Visible.md)|**True** if the specified **CustomTaskPane** object is visible. Read/write.|
+|[Width](../../Office.CustomTaskPane.Width.md)|Gets or sets the width of the task pane specified by the  **CustomTaskPane** object. Read/write.|
+|[Window](../../Office.CustomTaskPane.Window.md)|Gets the parent window object of the  **CustomTaskPane** object. Read-only.|
 

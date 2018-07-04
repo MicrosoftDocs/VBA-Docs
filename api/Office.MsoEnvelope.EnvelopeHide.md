@@ -58,5 +58,5 @@ End Sub
 
 
 
-[MsoEnvelope Object Members](./overview/msoenvelope-members-office.md)
+[MsoEnvelope Object Members](./overview/Library-Reference/msoenvelope-members-office.md)
 

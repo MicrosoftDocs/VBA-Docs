@@ -14,9 +14,9 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.CustomXMLPrefixMappings.Application.md)|Gets an  **Application** object that represents the container application for the ** CustomXMLPrefixMappings** object. Read-only.|
-|[Count](../Office.CustomXMLPrefixMappings.Count.md)|Gets a  **Long** indicating the number of items in the **CustomXMLPrefixMappings** collection. Read-only.|
-|[Creator](../Office.CustomXMLPrefixMappings.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **CustomXMLPrefixMappings** object was created. Read-only.|
-|[Item](../Office.CustomXMLPrefixMappings.Item.md)|Gets a  **CustomXMLPrefixMapping** object from the **CustomXMLPrefixMappings** collection. Read-only.|
-|[Parent](../Office.CustomXMLPrefixMappings.Parent.md)|Gets the  **Parent** object for the **CustomXMLPrefixMappings** object. Read-only.|
+|[Application](../../Office.CustomXMLPrefixMappings.Application.md)|Gets an  **Application** object that represents the container application for the ** CustomXMLPrefixMappings** object. Read-only.|
+|[Count](../../Office.CustomXMLPrefixMappings.Count.md)|Gets a  **Long** indicating the number of items in the **CustomXMLPrefixMappings** collection. Read-only.|
+|[Creator](../../Office.CustomXMLPrefixMappings.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **CustomXMLPrefixMappings** object was created. Read-only.|
+|[Item](../../Office.CustomXMLPrefixMappings.Item.md)|Gets a  **CustomXMLPrefixMapping** object from the **CustomXMLPrefixMappings** collection. Read-only.|
+|[Parent](../../Office.CustomXMLPrefixMappings.Parent.md)|Gets the  **Parent** object for the **CustomXMLPrefixMappings** object. Read-only.|
 

@@ -40,5 +40,5 @@ The contents of the Policy Statement is displayed as a "business bar" notificati
 
 
 
-[ServerPolicy Object Members](./overview/serverpolicy-members-office.md)
+[ServerPolicy Object Members](./overview/Library-Reference/serverpolicy-members-office.md)
 

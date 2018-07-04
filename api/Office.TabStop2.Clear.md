@@ -38,5 +38,5 @@ ActiveDocument.Paragraphs(1).TabStops2(1).Clear
 
 
 
-[TabStop2 Object Members](./overview/tabstop2-members-office.md)
+[TabStop2 Object Members](./overview/Library-Reference/tabstop2-members-office.md)
 

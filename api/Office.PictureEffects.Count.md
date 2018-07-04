@@ -27,5 +27,5 @@ Retrieves the count of the number of  **PictureEffect** objects contained within
 
 
 
-[PictureEffects Object Members](./overview/pictureeffects-members-office.md)
+[PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 

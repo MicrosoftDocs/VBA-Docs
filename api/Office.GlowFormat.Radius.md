@@ -32,5 +32,5 @@ Single
 
 
 
-[GlowFormat Object Members](./overview/glowformat-members-office.md)
+[GlowFormat Object Members](./overview/Library-Reference/glowformat-members-office.md)
 

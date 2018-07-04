@@ -10,7 +10,7 @@ ms.prod: office
 
 Inserts a field into the body of a data label in a chart. 
 
-This method applies only to data labels in a chart. Calling this method on any other kind of [TextRange2](../Office.TextRange2.md) object will raise a runtime error.
+This method applies only to data labels in a chart. Calling this method on any other kind of [TextRange2](../../Office.TextRange2.md) object will raise a runtime error.
 
 ## Syntax
 
@@ -35,6 +35,6 @@ This method applies only to data labels in a chart. Calling this method on any o
 
 ### Return value
 
-[TextRange2](../Office.TextRange2.md)
+[TextRange2](../../Office.TextRange2.md)
 
 

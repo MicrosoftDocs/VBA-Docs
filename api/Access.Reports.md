@@ -46,4 +46,4 @@ You can't add or delete a  **Report** object from the **Reports** collection.
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)

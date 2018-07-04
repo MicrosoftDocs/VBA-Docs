@@ -83,7 +83,7 @@ End Sub
 ## See also
 
 
-[Object Model Reference](overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-[FileDialog Object Members](./overview/filedialog-members-office.md)
+[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
 

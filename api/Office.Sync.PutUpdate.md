@@ -63,5 +63,5 @@ The following example updates the server copy of the document from the local cop
 
 
 
-[Sync Object Members](./overview/sync-members-office.md)
+[Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 

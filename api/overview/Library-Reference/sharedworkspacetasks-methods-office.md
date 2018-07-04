@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.SharedWorkspaceTasks.Add.md)|Adds a task to the list of tasks in a shared workspace. Returns a  **SharedWorkspaceTask** object.|
+|[Add](../../Office.SharedWorkspaceTasks.Add.md)|Adds a task to the list of tasks in a shared workspace. Returns a  **SharedWorkspaceTask** object.|
 

@@ -18,10 +18,10 @@ Represents the color scheme of a Microsoft Office theme.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Colors](../Office.ThemeColorScheme.Colors.md)|Gets an object that represents a color in the color scheme of a Microsoft Office theme.|
-|[GetCustomColor](../Office.ThemeColorScheme.GetCustomColor.md)|Gets a value that represents a color in the color scheme of a Microsoft Office theme. |
-|[Load](../Office.ThemeColorScheme.Load.md)|Loads the color scheme of a Microsoft Office theme from a file.|
-|[Save](../Office.ThemeColorScheme.Save.md)|Saves the color scheme of a Microsoft Office theme to a file.|
+|[Colors](../../Office.ThemeColorScheme.Colors.md)|Gets an object that represents a color in the color scheme of a Microsoft Office theme.|
+|[GetCustomColor](../../Office.ThemeColorScheme.GetCustomColor.md)|Gets a value that represents a color in the color scheme of a Microsoft Office theme. |
+|[Load](../../Office.ThemeColorScheme.Load.md)|Loads the color scheme of a Microsoft Office theme from a file.|
+|[Save](../../Office.ThemeColorScheme.Save.md)|Saves the color scheme of a Microsoft Office theme to a file.|
 
 ## Properties
 
@@ -29,8 +29,8 @@ Represents the color scheme of a Microsoft Office theme.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.ThemeColorScheme.Application.md)|Gets an  **Application** object that represents the container application for the **ThemeColorScheme** object. Read-only.|
-|[Count](../Office.ThemeColorScheme.Count.md)|Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.|
-|[Creator](../Office.ThemeColorScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ThemeColorScheme** object was created. Read-only.|
-|[Parent](../Office.ThemeColorScheme.Parent.md)|Gets the  **Parent** object for the **ThemeColorScheme** object. Read-only.|
+|[Application](../../Office.ThemeColorScheme.Application.md)|Gets an  **Application** object that represents the container application for the **ThemeColorScheme** object. Read-only.|
+|[Count](../../Office.ThemeColorScheme.Count.md)|Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.|
+|[Creator](../../Office.ThemeColorScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ThemeColorScheme** object was created. Read-only.|
+|[Parent](../../Office.ThemeColorScheme.Parent.md)|Gets the  **Parent** object for the **ThemeColorScheme** object. Read-only.|
 

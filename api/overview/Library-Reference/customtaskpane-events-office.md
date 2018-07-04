@@ -15,6 +15,6 @@ This object has the following events:
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[DockPositionStateChange](../Office.CustomTaskPane.DockPositionStateChange.md)|Occurs when the user changes the docking position of the active custom task pane.|
-|[VisibleStateChange](../Office.CustomTaskPane.VisibleStateChange.md)|Occurs when the user changes the visibility of the custom task pane.|
+|[DockPositionStateChange](../../Office.CustomTaskPane.DockPositionStateChange.md)|Occurs when the user changes the docking position of the active custom task pane.|
+|[VisibleStateChange](../../Office.CustomTaskPane.VisibleStateChange.md)|Occurs when the user changes the visibility of the custom task pane.|
 

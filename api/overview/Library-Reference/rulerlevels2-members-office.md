@@ -18,7 +18,7 @@ A collection of all the  **RulerLevel2** objects on the specified ruler.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](../Office.RulerLevels2.Item.md)|Gets a member of the  **RulerLevels2** collection.|
+|[Item](../../Office.RulerLevels2.Item.md)|Gets a member of the  **RulerLevels2** collection.|
 
 ## Properties
 
@@ -26,8 +26,8 @@ A collection of all the  **RulerLevel2** objects on the specified ruler.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.RulerLevels2.Application.md)|Gets an  **Application** object that represents the container application for the **RulerLevels2** object. Read-only.|
-|[Count](../Office.RulerLevels2.Count.md)|Gets a  **Long** indicating the number of items in the **RulerLevels2** collection. Read-only.|
-|[Creator](../Office.RulerLevels2.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **RulerLevels2** object was created. Read-only.|
-|[Parent](../Office.RulerLevels2.Parent.md)|Gets the  **Parent** object for the **RulerLevels2** object. Read-only.|
+|[Application](../../Office.RulerLevels2.Application.md)|Gets an  **Application** object that represents the container application for the **RulerLevels2** object. Read-only.|
+|[Count](../../Office.RulerLevels2.Count.md)|Gets a  **Long** indicating the number of items in the **RulerLevels2** collection. Read-only.|
+|[Creator](../../Office.RulerLevels2.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **RulerLevels2** object was created. Read-only.|
+|[Parent](../../Office.RulerLevels2.Parent.md)|Gets the  **Parent** object for the **RulerLevels2** object. Read-only.|
 

@@ -18,8 +18,8 @@ This feature is only available in the Open XML Format SDK.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[HrCheckFormat](../Office.IConverterApplicationPreferences.HrCheckFormat.md)|This feature is only available in the Open XML Format SDK.|
-|[HrGetApplication](../Office.IConverterApplicationPreferences.HrGetApplication.md)|This feature is only available in the Open XML Format SDK.|
-|[HrGetHwnd](../Office.IConverterApplicationPreferences.HrGetHwnd.md)|This feature is only available in the Open XML Format SDK.|
-|[HrGetLcid](../Office.IConverterApplicationPreferences.HrGetLcid.md)|This feature is only available in the Open XML Format SDK.|
+|[HrCheckFormat](../../Office.IConverterApplicationPreferences.HrCheckFormat.md)|This feature is only available in the Open XML Format SDK.|
+|[HrGetApplication](../../Office.IConverterApplicationPreferences.HrGetApplication.md)|This feature is only available in the Open XML Format SDK.|
+|[HrGetHwnd](../../Office.IConverterApplicationPreferences.HrGetHwnd.md)|This feature is only available in the Open XML Format SDK.|
+|[HrGetLcid](../../Office.IConverterApplicationPreferences.HrGetLcid.md)|This feature is only available in the Open XML Format SDK.|
 

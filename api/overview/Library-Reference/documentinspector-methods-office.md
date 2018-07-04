@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Fix](../Office.DocumentInspector.Fix.md)|Performs an action on specific information items or document properties depending on the Document Inspector module specified.|
-|[Inspect](../Office.DocumentInspector.Inspect.md)|Inspects a document for specific information or document properties.|
+|[Fix](../../Office.DocumentInspector.Fix.md)|Performs an action on specific information items or document properties depending on the Document Inspector module specified.|
+|[Inspect](../../Office.DocumentInspector.Inspect.md)|Inspects a document for specific information or document properties.|
 

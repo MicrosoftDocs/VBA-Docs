@@ -66,5 +66,5 @@ public string GetCustomUI(string RibbonID)
 
 
 
-[IRibbonExtensibility Object Members](./overview/iribbonextensibility-members-office.md)
+[IRibbonExtensibility Object Members](./overview/Library-Reference/iribbonextensibility-members-office.md)
 

@@ -46,5 +46,5 @@ This method can only be called on an already encrypted document. You can use thi
 
 
 
-[EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)
+[EncryptionProvider Object Members](./overview/Library-Reference/encryptionprovider-members-office.md)
 

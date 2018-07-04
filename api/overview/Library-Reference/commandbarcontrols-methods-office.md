@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.CommandBarControls.Add.md)|Creates a new  **CommandBarControl** object and adds it to the collection of controls on the specified command bar.|
+|[Add](../../Office.CommandBarControls.Add.md)|Creates a new  **CommandBarControl** object and adds it to the collection of controls on the specified command bar.|
 

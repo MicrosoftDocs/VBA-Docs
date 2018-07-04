@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](../Office.GradientStops.Delete.md)|Removes a gradient stop.|
-|[Insert](../Office.GradientStops.Insert.md)|Adds a stop to a gradient.|
-|[Insert2](../Office.GradientStops.Insert2.md)|Adds a stop to a gradient and specifies the brightness, as well as the transparency, of the color.|
+|[Delete](../../Office.GradientStops.Delete.md)|Removes a gradient stop.|
+|[Insert](../../Office.GradientStops.Insert.md)|Adds a stop to a gradient.|
+|[Insert2](../../Office.GradientStops.Insert2.md)|Adds a stop to a gradient and specifies the brightness, as well as the transparency, of the color.|
 

@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[SmartArtNodes Object Members](./overview/smartartnodes-members-office.md)
+[SmartArtNodes Object Members](./overview/Library-Reference/smartartnodes-members-office.md)
 

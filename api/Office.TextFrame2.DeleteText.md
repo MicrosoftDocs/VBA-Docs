@@ -44,5 +44,5 @@ pptSlide.Shapes(1).TextFrame2.DeleteText
 
 
 
-[TextFrame2 Object Members](./overview/textframe2-members-office.md)
+[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 

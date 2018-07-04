@@ -46,5 +46,5 @@ Use the Save method to upload changes to the server after changing the propertie
 
 
 
-[SharedWorkspaceTask Object Members](./overview/sharedworkspacetask-members-office.md)
+[SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 

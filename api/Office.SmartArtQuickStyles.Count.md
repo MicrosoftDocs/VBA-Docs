@@ -27,5 +27,5 @@ Retrieves the count of the number of SmartArtQuickStyle objects contained within
 
 
 
-[SmartArtQuickStyles Object Members](./overview/smartartquickstyles-members-office.md)
+[SmartArtQuickStyles Object Members](./overview/Library-Reference/smartartquickstyles-members-office.md)
 

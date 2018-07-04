@@ -35,5 +35,5 @@ Object
 
 
 
-[SignatureSet Object Members](./overview/signatureset-members-office.md)
+[SignatureSet Object Members](./overview/Library-Reference/signatureset-members-office.md)
 

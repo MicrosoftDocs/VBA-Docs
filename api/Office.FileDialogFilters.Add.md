@@ -39,5 +39,5 @@ Each filter in a list is made up of two parts: the file name extension (that is,
 ## See also
 
 - [FileDialogFilters Object](Office.FileDialogFilters.md)
-- [FileDialogFilters Object Members](./overview/filedialogfilters-members-office.md)
+- [FileDialogFilters Object Members](./overview/Library-Reference/filedialogfilters-members-office.md)
 

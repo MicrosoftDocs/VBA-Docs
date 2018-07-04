@@ -18,7 +18,7 @@ A collection of SmartArt color styles.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](../Office.SmartArtColors.Item.md)|Retrieves a  **SmartArtColor** object at the specified index or with the specified unique Id.|
+|[Item](../../Office.SmartArtColors.Item.md)|Retrieves a  **SmartArtColor** object at the specified index or with the specified unique Id.|
 
 ## Properties
 
@@ -26,8 +26,8 @@ A collection of SmartArt color styles.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](../Office.SmartArtColors.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtColors** object. Read-only|
-|[Count](../Office.SmartArtColors.Count.md)|Retrieves the count of the number of  **SmartArtColor** objects contained within the **SmartArtColors** collection. Read-only|
-|[Creator](../Office.SmartArtColors.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **SmartArtColors** object was created. Read-only|
-|[Parent](../Office.SmartArtColors.Parent.md)|Returns the calling object. Read-only|
+|[Application](../../Office.SmartArtColors.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtColors** object. Read-only|
+|[Count](../../Office.SmartArtColors.Count.md)|Retrieves the count of the number of  **SmartArtColor** objects contained within the **SmartArtColors** collection. Read-only|
+|[Creator](../../Office.SmartArtColors.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **SmartArtColors** object was created. Read-only|
+|[Parent](../../Office.SmartArtColors.Parent.md)|Returns the calling object. Read-only|
 

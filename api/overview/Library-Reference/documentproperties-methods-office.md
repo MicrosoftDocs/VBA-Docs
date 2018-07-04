@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](../Office.DocumentProperties.Add.md)|Creates a new custom document property. You can add a new document property only to the custom  **DocumentProperties** collection.|
+|[Add](../../Office.DocumentProperties.Add.md)|Creates a new custom document property. You can add a new document property only to the custom  **DocumentProperties** collection.|
 

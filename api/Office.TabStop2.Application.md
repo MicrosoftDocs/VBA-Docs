@@ -32,5 +32,5 @@ Object
 
 
 
-[TabStop2 Object Members](./overview/tabstop2-members-office.md)
+[TabStop2 Object Members](./overview/Library-Reference/tabstop2-members-office.md)
 

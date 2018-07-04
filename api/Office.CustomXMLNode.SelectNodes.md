@@ -63,5 +63,5 @@ Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")
 
 
 
-[CustomXMLNode Object Members](./overview/customxmlnode-members-office.md)
+[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
 

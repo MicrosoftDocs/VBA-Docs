@@ -38,5 +38,5 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Item(1).Shapes.Count.
 ## See also
 
 - [SmartArtNode Object](Office.SmartArtNode.md)
-- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 

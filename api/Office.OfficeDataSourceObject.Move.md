@@ -54,5 +54,5 @@ oOdso.Move(msoMoveRowFirst, 3)
 
 
 
-[OfficeDataSourceObject Object Members](./overview/officedatasourceobject-members-office.md)
+[OfficeDataSourceObject Object Members](./overview/Library-Reference/officedatasourceobject-members-office.md)
 

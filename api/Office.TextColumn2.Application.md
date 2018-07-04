@@ -32,5 +32,5 @@ Object
 
 
 
-[TextColumn2 Object Members](./overview/textcolumn2-members-office.md)
+[TextColumn2 Object Members](./overview/Library-Reference/textcolumn2-members-office.md)
 

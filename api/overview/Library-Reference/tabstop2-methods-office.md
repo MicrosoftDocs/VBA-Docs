@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Clear](../Office.TabStop2.Clear.md)|Removes the specified custom tab stop|
+|[Clear](../../Office.TabStop2.Clear.md)|Removes the specified custom tab stop|
 

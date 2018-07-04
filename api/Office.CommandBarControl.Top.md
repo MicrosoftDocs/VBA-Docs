@@ -30,5 +30,5 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarCo
 
 
 
-[CommandBarControl Object Members](overview/commandbarcontrol-members-office.md)
+[CommandBarControl Object Members](./overview/Library-Reference/commandbarcontrol-members-office.md)
 

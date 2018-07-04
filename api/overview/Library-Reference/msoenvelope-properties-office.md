@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[CommandBars](../Office.MsoEnvelope.CommandBars.md)|Gets a  **CommandBars** collection. Read-only.|
-|[Introduction](../Office.MsoEnvelope.Introduction.md)|Sets or gets the introductory text that is included with a document that is sent using the  **MsoEnvelope** object. The introductory text is included at the top of the document in the e-mail. Read/write.|
-|[Item](../Office.MsoEnvelope.Item.md)|Gets a  **MailItem** object that can be used to send the document as an e-mail. Read-only.|
-|[Parent](../Office.MsoEnvelope.Parent.md)|Gets the  **Parent** object for the MsoEnvelope object. Read-only.|
+|[CommandBars](../../Office.MsoEnvelope.CommandBars.md)|Gets a  **CommandBars** collection. Read-only.|
+|[Introduction](../../Office.MsoEnvelope.Introduction.md)|Sets or gets the introductory text that is included with a document that is sent using the  **MsoEnvelope** object. The introductory text is included at the top of the document in the e-mail. Read/write.|
+|[Item](../../Office.MsoEnvelope.Item.md)|Gets a  **MailItem** object that can be used to send the document as an e-mail. Read-only.|
+|[Parent](../../Office.MsoEnvelope.Parent.md)|Gets the  **Parent** object for the MsoEnvelope object. Read-only.|
 

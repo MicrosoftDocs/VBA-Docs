@@ -35,5 +35,5 @@ Long
 
 
 
-[SearchFolders Object Members](./overview/searchfolders-members-office.md)
+[SearchFolders Object Members](./overview/Library-Reference/searchfolders-members-office.md)
 

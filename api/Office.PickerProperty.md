@@ -63,4 +63,4 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-[Object Model Reference](./overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)

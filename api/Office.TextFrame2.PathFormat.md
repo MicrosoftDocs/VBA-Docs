@@ -45,5 +45,5 @@ The value of the PathFormat property can be one of these MsoPathType constants. 
 
 
 
-[TextFrame2 Object Members](./overview/textframe2-members-office.md)
+[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 

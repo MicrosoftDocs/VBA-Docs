@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](../Office.COMAddIns.Item.md)|Gets a member of the specified  **COMAddIns** collection.|
-|[Update](../Office.COMAddIns.Update.md)|Updates the contents of the COMAddIns collection from the list of add-ins stored in the Windows registry.|
+|[Item](../../Office.COMAddIns.Item.md)|Gets a member of the specified  **COMAddIns** collection.|
+|[Update](../../Office.COMAddIns.Update.md)|Updates the contents of the COMAddIns collection from the list of add-ins stored in the Windows registry.|
 

@@ -65,5 +65,5 @@ Set cxn = cxp1.SelectSingleNode("//*[@supplierID = 1]")
 
 
 
-[CustomXMLParts Object Members](./overview/customxmlparts-members-office.md)
+[CustomXMLParts Object Members](./overview/Library-Reference/customxmlparts-members-office.md)
 

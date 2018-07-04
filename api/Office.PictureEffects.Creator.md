@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **PictureEffe
 
 
 
-[PictureEffects Object Members](./overview/pictureeffects-members-office.md)
+[PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 

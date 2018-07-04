@@ -143,5 +143,5 @@ Use the [ControlSource](./Access.WebBrowserControl.ControlSource.md) property to
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
 [WebBrowserControl Object Members](./overview/Access.md)

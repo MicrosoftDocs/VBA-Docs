@@ -62,5 +62,5 @@ Dim objCustomPrefixMappings As  CustomPrefixMappings
 
 
 
-[CustomXMLPrefixMappings Object Members](./overview/customxmlprefixmappings-members-office.md)
+[CustomXMLPrefixMappings Object Members](./overview/Library-Reference/customxmlprefixmappings-members-office.md)
 

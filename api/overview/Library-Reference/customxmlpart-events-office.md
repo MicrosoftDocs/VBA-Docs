@@ -15,7 +15,7 @@ This object has the following events:
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[NodeAfterDelete](../Office.CustomXMLPart.NodeAfterDelete.md)|Occurs after a node is deleted in a  **CustomXMLPart** object.|
-|[NodeAfterInsert](../Office.CustomXMLPart.NodeAfterInsert.md)|Occurs after a node is inserted in a  **CustomXMLPart** object.|
-|[NodeAfterReplace](../Office.CustomXMLPart.NodeAfterReplace.md)|Occurs just after a node is replaced in a  **CustomXMLPart** object.|
+|[NodeAfterDelete](../../Office.CustomXMLPart.NodeAfterDelete.md)|Occurs after a node is deleted in a  **CustomXMLPart** object.|
+|[NodeAfterInsert](../../Office.CustomXMLPart.NodeAfterInsert.md)|Occurs after a node is inserted in a  **CustomXMLPart** object.|
+|[NodeAfterReplace](../../Office.CustomXMLPart.NodeAfterReplace.md)|Occurs just after a node is replaced in a  **CustomXMLPart** object.|
 

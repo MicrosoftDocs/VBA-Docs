@@ -42,5 +42,5 @@ The  **MsoContactCardAddressType** enumeration consists of the following members
 
 
 
-[IMsoContactCard Object Members](./overview/imsocontactcard-members-office.md)
+[IMsoContactCard Object Members](./overview/Library-Reference/imsocontactcard-members-office.md)
 

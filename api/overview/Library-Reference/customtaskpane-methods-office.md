@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](../Office.CustomTaskPane.Delete.md)|Deletes the active custom task pane.|
+|[Delete](../../Office.CustomTaskPane.Delete.md)|Deletes the active custom task pane.|
 

@@ -32,5 +32,5 @@ Long
 
 
 
-[PolicyItem Object Members](./overview/policyitem-members-office.md)
+[PolicyItem Object Members](./overview/Library-Reference/policyitem-members-office.md)
 

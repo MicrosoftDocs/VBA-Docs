@@ -15,5 +15,5 @@ This object has the following events:
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[OnUpdate](../Office.CommandBars.OnUpdate.md)|Occurs when any change is made to a command bar.|
+|[OnUpdate](../../Office.CommandBars.OnUpdate.md)|Occurs when any change is made to a command bar.|
 

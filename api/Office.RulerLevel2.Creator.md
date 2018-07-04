@@ -32,5 +32,5 @@ Long
 
 
 
-[RulerLevel2 Object Members](./overview/rulerlevel2-members-office.md)
+[RulerLevel2 Object Members](./overview/Library-Reference/rulerlevel2-members-office.md)
 

@@ -150,4 +150,4 @@ The object in a bound object frame is different for each record. The bound objec
 
 
 [BoundObjectFrame Object Members](./overview/Access.md)
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)

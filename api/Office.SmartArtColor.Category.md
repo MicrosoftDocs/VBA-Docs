@@ -27,5 +27,5 @@ Retrieves the primary category name associated with the SmartArt color style. Re
 
 
 
-[SmartArtColor Object Members](./overview/smartartcolor-members-office.md)
+[SmartArtColor Object Members](./overview/Library-Reference/smartartcolor-members-office.md)
 

@@ -32,5 +32,5 @@ Object
 
 
 
-[SmartDocument Object Members](./overview/smartdocument-members-office.md)
+[SmartDocument Object Members](./overview/Library-Reference/smartdocument-members-office.md)
 

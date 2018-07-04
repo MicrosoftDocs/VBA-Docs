@@ -51,5 +51,5 @@ If Application.LanguageSettings.LanguageID(msoLanguageIDExeMode) _
 
 
 
-[LanguageSettings Object Members](./overview/languagesettings-members-office.md)
+[LanguageSettings Object Members](./overview/Library-Reference/languagesettings-members-office.md)
 

@@ -35,5 +35,5 @@ Retrieves a  **EffectParameter** object at the specified index or with the speci
 
 
 
-[EffectParameters Object Members](./overview/effectparameters-members-office.md)
+[EffectParameters Object Members](./overview/Library-Reference/effectparameters-members-office.md)
 

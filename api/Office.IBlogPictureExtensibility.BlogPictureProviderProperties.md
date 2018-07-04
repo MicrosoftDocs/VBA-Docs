@@ -39,5 +39,5 @@ Enables picture providers to offer themselves as an upload location for blog pic
 
 
 
-[IBlogPictureExtensibility Object Members](./overview/iblogpictureextensibility-members-office.md)
+[IBlogPictureExtensibility Object Members](./overview/Library-Reference/iblogpictureextensibility-members-office.md)
 

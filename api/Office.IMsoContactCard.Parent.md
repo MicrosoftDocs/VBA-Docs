@@ -30,5 +30,5 @@ Returns the calling object. Read-only
 
 
 
-[IMsoContactCard Object Members](./overview/imsocontactcard-members-office.md)
+[IMsoContactCard Object Members](./overview/Library-Reference/imsocontactcard-members-office.md)
 

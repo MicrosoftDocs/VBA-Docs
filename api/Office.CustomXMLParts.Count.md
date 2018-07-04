@@ -35,5 +35,5 @@ Long
 
 
 
-[CustomXMLParts Object Members](./overview/customxmlparts-members-office.md)
+[CustomXMLParts Object Members](./overview/Library-Reference/customxmlparts-members-office.md)
 
