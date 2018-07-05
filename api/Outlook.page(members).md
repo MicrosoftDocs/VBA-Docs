@@ -43,7 +43,7 @@ Represents one page of a  [MultiPage](Outlook.multipage.md) or a single member o
 | [ControlTipText](Outlook.Page.controltiptext.md)|Returns and sets a  **String** that specifies text that appears when the user briefly holds the mouse pointer over a control without clicking. Read/write.|
 | [Cycle](Outlook.Page.cycle.md)|Returns or sets an  **Integer** that specifies whether cycling includes controls nested in a [MultiPage](Outlook.multipage.md). Read/write.|
 | [Enabled](Outlook.Page.enabled.md)|Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.|
-| [Index](Outlook.Page.index.md)|Returns or sets an  **Integer** that specifies the position of a [Page](Outlook.Page.object-outlook-forms-script.md) object in a [Pages](pages-object-outlook-forms-script.md) collection. Read/write.|
+| [Index](Outlook.Page.index.md)|Returns or sets an  **Integer** that specifies the position of a [Page](Outlook.Page.md) object in a [Pages](Outlook.pages) collection. Read/write.|
 | [InsideHeight](Outlook.Page.insideheight.md)|Returns a  **Long** that specifies the height, in points, of the client region inside a **Page**. Read-only.|
 | [InsideWidth](Outlook.Page.insidewidth.md)|Returns a  **Long** that specifies the width, in points, of the client region inside a **Page**. Read-only.|
 | [KeepScrollBarsVisible](Outlook.Page.keepscrollbarsvisible.md)|Returns or sets an  **Integer** that specifies whether scroll bars remain visible when not required. Read/write.|
