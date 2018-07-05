@@ -59,5 +59,5 @@ The following example assigns a combination of read and edit permissions on the 
 
 
 
-[Permission Object Members](overview/permission-members-office.md)
+[Permission Object Members](overview/Library-Reference/permission-members-office.md)
 

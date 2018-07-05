@@ -32,5 +32,5 @@ Application
 
 
 
-[ContactCard Object Members](./overview/contactcard-members-office.md)
+[ContactCard Object Members](./overview/Library-Reference/contactcard-members-office.md)
 

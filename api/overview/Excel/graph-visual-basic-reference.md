@@ -18,9 +18,9 @@ Note: If you are looking for information about Microsoft Graph, the unified API 
     
 -  **[Objects](objects-graph-visual-basic-reference.md)** Provides reference information about the objects in the object model.
     
--  **[Methods](methods-graph-visual-basic-reference.md)** Provides reference information about the methods in the object model.
+-  **[Methods](../methods-graph-visual-basic-reference.md)** Provides reference information about the methods in the object model.
     
--  **[Properties](properties-graph-visual-basic-reference.md)** Provides reference information about the properties in the object model.
+-  **[Properties](../properties-graph-visual-basic-reference.md)** Provides reference information about the properties in the object model.
     
 -  **[Enumerations](enumerations-graph-visual-basic-reference.md)** Provides reference information about the enumerations in the object model.
     

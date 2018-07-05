@@ -58,5 +58,5 @@ The following example uses the  **RemoveAll** method to remove all user permissi
 
 
 
-[Permission Object Members](./overview/permission-members-office.md)
+[Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
