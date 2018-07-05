@@ -228,5 +228,5 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)<br/>
 [TextBox Object Members](./overview/Access.md)

@@ -46,5 +46,5 @@ This method is called by your COM add-in when the document is opened, and after 
 
 
 
-[EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)
+[EncryptionProvider Object Members](./overview/Library-Reference/encryptionprovider-members-office.md)
 

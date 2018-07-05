@@ -42,5 +42,5 @@ Called from the  **Choose Account** dialog when the provider's name is chosen in
 
 
 
-[IBlogExtensibility Object Members](./overview/iblogextensibility-members-office.md)
+[IBlogExtensibility Object Members](./overview/Library-Reference/iblogextensibility-members-office.md)
 

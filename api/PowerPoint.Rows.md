@@ -76,4 +76,4 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)

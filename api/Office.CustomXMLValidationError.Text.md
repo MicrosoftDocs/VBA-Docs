@@ -35,5 +35,5 @@ String
 
 
 
-[CustomXMLValidationError Object Members](./overview/customxmlvalidationerror-members-office.md)
+[CustomXMLValidationError Object Members](./overview/Library-Reference/customxmlvalidationerror-members-office.md)
 

@@ -32,5 +32,5 @@ Object
 
 
 
-[SignatureInfo Object Members](./overview/signatureinfo-members-office.md)
+[SignatureInfo Object Members](./overview/Library-Reference/signatureinfo-members-office.md)
 

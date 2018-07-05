@@ -35,5 +35,5 @@ Object
 
 
 
-[FileDialogSelectedItems Object Members](./overview/filedialogselecteditems-members-office.md)
+[FileDialogSelectedItems Object Members](./overview/Library-Reference/filedialogselecteditems-members-office.md)
 

@@ -40,5 +40,5 @@ To use this property, you must also set the HelpContextID property. Help topics 
 
 
 
-[CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)
+[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
 

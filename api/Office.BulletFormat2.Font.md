@@ -32,5 +32,5 @@ Font2
 
 
 
-[BulletFormat2 Object Members](./overview/bulletformat2-members-office.md)
+[BulletFormat2 Object Members](./overview/Library-Reference/bulletformat2-members-office.md)
 

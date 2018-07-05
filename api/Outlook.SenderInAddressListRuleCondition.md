@@ -40,4 +40,4 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

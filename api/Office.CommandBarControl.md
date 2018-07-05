@@ -43,8 +43,8 @@ End If
 ## See also
 
 
-[Object Model Reference](overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-[CommandBarControl Object Members](./overview/commandbarcontrol-members-office.md)
+[CommandBarControl Object Members](./overview/Library-Reference/commandbarcontrol-members-office.md)
 

@@ -43,5 +43,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[DocumentProperty Object Members](./overview/documentproperty-members-office.md)
+[DocumentProperty Object Members](./overview/Library-Reference/documentproperty-members-office.md)
 

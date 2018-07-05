@@ -56,5 +56,5 @@ The following example extracts the domain name from the  **DomainName** property
 
 
 
-[SharedWorkspaceMember Object Members](overview/sharedworkspacemember-members-office.md)
+[SharedWorkspaceMember Object Members](./overview/Library-Reference/sharedworkspacemember-members-office.md)
 

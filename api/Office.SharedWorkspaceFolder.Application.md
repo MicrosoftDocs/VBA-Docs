@@ -35,5 +35,5 @@ Object
 
 
 
-[SharedWorkspaceFolder Object Members](./overview/sharedworkspacefolder-members-office.md)
+[SharedWorkspaceFolder Object Members](./overview/Library-Reference/sharedworkspacefolder-members-office.md)
 

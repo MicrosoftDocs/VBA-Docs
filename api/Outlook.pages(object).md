@@ -26,5 +26,5 @@ You can reference a  **Page** by its index value. The index value reflects the o
 ## See also
 
 
- [Outlook Object Model Reference](overview/object-model-outlook-vba-reference.md)
+ [Outlook Object Model Reference](overview/Outlook/object-model.md)
 

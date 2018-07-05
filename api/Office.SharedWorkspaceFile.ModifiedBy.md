@@ -67,5 +67,5 @@ The following example lists the files in a shared workspace site that were last 
 
 
 
-[SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)
+[SharedWorkspaceFile Object Members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
 

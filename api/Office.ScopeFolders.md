@@ -42,4 +42,4 @@ You can't add or remove  **ScopeFolder** objects from a **ScopeFolders** collect
 
 
 
-[Object Model Reference](./overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)

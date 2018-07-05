@@ -73,4 +73,4 @@ Worksheets(1).Range("A1:B2").Hyperlinks(2).Follow
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)

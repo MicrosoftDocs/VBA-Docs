@@ -51,5 +51,5 @@ MsoDocInspectorStatus members
 
 
 
-[IDocumentInspector Object Members](./overview/idocumentinspector-members-office.md)
+[IDocumentInspector Object Members](./overview/Library-Reference/idocumentinspector-members-office.md)
 

@@ -41,5 +41,5 @@ Gets a  **SharedWorkspaceMember** object from the Members collection of the shar
 
 
 
-[SharedWorkspaceMembers Object Members](overview/sharedworkspacemembers-members-office.md)
+[SharedWorkspaceMembers Object Members](./overview/Library-Reference/sharedworkspacemembers-members-office.md)
 

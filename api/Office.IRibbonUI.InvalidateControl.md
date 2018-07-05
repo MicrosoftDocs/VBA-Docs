@@ -66,5 +66,5 @@ End Sub
 
 
 
-[IRibbonUI Object Members](./overview/iribbonui-members-office.md)
+[IRibbonUI Object Members](./overview/Library-Reference/iribbonui-members-office.md)
 

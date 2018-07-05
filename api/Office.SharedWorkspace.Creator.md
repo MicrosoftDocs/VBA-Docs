@@ -40,5 +40,5 @@ As an example, if the object was created in Microsoft Word, this property return
 
 
 
-[SharedWorkspace Object Members](./overview/sharedworkspace-members-office.md)
+[SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 

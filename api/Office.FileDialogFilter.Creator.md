@@ -32,5 +32,5 @@ Long
 
 
 
-[FileDialogFilter Object Members](./overview/filedialogfilter-members-office.md)
+[FileDialogFilter Object Members](./overview/Library-Reference/filedialogfilter-members-office.md)
 

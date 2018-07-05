@@ -202,5 +202,5 @@ You can also use a toggle button in a custom dialog box to accept user input.
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)<br/>
 [ToggleButton Object Members](./overview/Access.md)

@@ -32,5 +32,5 @@ Object
 
 
 
-[FileTypes Object Members](./overview/filetypes-members-office.md)
+[FileTypes Object Members](./overview/Library-Reference/filetypes-members-office.md)
 

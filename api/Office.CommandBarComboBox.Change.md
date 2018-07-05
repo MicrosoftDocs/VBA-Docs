@@ -128,5 +128,5 @@ End Sub
 
 
 
-[CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)
+[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
 

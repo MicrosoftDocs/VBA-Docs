@@ -46,5 +46,5 @@ Use the Save method to upload changes to the server after changing the propertie
 
 
 
-[SharedWorkspaceLink Object Members](./overview/sharedworkspacelink-members-office.md)
+[SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 

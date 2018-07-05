@@ -32,5 +32,5 @@ Long
 
 
 
-[ODSOFilter Object Members](./overview/odsofilter-members-office.md)
+[ODSOFilter Object Members](./overview/Library-Reference/odsofilter-members-office.md)
 

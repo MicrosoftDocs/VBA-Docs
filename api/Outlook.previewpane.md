@@ -18,4 +18,4 @@ Microsoft Outlook utilizes responsive design by enabling this auto-resizing feat
 ## See also
 
 - [PreviewPane Members (Outlook)](./overview/Outlook.md)
-- [Object model (Outlook)](./overview/object-model-outlook-vba-reference.md)
+- [Object model (Outlook)](./overview/Outlook/object-model.md)

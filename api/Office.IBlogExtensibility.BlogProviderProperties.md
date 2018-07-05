@@ -42,5 +42,5 @@ Contains information about the provider.
 
 
 
-[IBlogExtensibility Object Members](./overview/iblogextensibility-members-office.md)
+[IBlogExtensibility Object Members](./overview/Library-Reference/iblogextensibility-members-office.md)
 

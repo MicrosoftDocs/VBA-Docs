@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[PickerDialog Object Members](./overview/pickerdialog-members-office.md)
+[PickerDialog Object Members](./overview/Library-Reference/pickerdialog-members-office.md)
 

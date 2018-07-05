@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtLay
 
 
 
-[SmartArtLayouts Object Members](./overview/smartartlayouts-members-office.md)
+[SmartArtLayouts Object Members](./overview/Library-Reference/smartartlayouts-members-office.md)
 

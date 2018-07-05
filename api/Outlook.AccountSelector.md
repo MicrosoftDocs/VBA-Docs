@@ -46,4 +46,4 @@ The  **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSe
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

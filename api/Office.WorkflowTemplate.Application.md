@@ -32,5 +32,5 @@ Object
 
 
 
-[WorkflowTemplate Object Members](./overview/workflowtemplate-members-office.md)
+[WorkflowTemplate Object Members](./overview/Library-Reference/workflowtemplate-members-office.md)
 

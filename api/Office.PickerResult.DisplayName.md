@@ -30,5 +30,5 @@ Represents a display name of PickerResult. Read/write
 
 
 
-[PickerResult Object Members](./overview/pickerresult-members-office.md)
+[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 

@@ -70,5 +70,5 @@ Set objPickerResults = objPickerDialog.Resolve("johndoe", False)
 
 
 
-[PickerDialog Object Members](./overview/pickerdialog-members-office.md)
+[PickerDialog Object Members](./overview/Library-Reference/pickerdialog-members-office.md)
 

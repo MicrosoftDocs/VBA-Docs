@@ -43,5 +43,5 @@ CustomXMLValidationError
 
 
 
-[CustomXMLValidationErrors Object Members](./overview/customxmlvalidationerrors-members-office.md)
+[CustomXMLValidationErrors Object Members](./overview/Library-Reference/customxmlvalidationerrors-members-office.md)
 

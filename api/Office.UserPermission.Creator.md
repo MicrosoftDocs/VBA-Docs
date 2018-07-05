@@ -32,5 +32,5 @@ Long
 
 
 
-[UserPermission Object Members](./overview/userpermission-members-office.md)
+[UserPermission Object Members](./overview/Library-Reference/userpermission-members-office.md)
 

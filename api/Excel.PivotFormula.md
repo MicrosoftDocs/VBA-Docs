@@ -34,6 +34,6 @@ Worksheets(1).PivotTables(1).PivotFormulas(1).Index = 2
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

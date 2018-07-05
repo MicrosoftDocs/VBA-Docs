@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Broadcast.State Property (Word)
 
-Returns an [MSOBroadcastState](./overview/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
+Returns an [MSOBroadcastState](./overview/Library-Reference/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
 
 
 ## Syntax

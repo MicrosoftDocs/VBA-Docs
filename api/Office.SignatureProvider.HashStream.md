@@ -72,5 +72,5 @@ The following example gets the hash value of a data stream.
 
 
 
-[SignatureProvider Object Members](./overview/signatureprovider-members-office.md)
+[SignatureProvider Object Members](./overview/Library-Reference/signatureprovider-members-office.md)
 

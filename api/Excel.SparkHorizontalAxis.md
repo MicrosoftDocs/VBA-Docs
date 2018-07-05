@@ -25,5 +25,5 @@ Use the  **[Horizontal](Excel.SparkAxes.Horizontal.md)** property of the **[Spar
 
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 

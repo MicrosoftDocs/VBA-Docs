@@ -30,5 +30,5 @@ Display purpose or non-display purpose field data of a PickerResult object. It i
 
 
 
-[PickerResult Object Members](./overview/pickerresult-members-office.md)
+[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 

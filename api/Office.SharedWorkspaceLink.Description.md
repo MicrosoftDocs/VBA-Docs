@@ -38,5 +38,5 @@ The  **Description** property is optional when a new shared workspace link or ta
 
 
 
-[SharedWorkspaceLink Object Members](./overview/sharedworkspacelink-members-office.md)
+[SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 

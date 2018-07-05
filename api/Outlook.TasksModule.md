@@ -42,4 +42,4 @@ You can use the  **[Visible](Outlook.TasksModule.Visible.md)** property to deter
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

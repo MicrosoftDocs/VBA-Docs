@@ -32,5 +32,5 @@ Long
 
 
 
-[ReflectionFormat Object Members](./overview/reflectionformat-members-office.md)
+[ReflectionFormat Object Members](./overview/Library-Reference/reflectionformat-members-office.md)
 

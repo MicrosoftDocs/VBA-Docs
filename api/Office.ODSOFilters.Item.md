@@ -53,5 +53,5 @@ oOdsoFilter = oOdsoFilters.Item(1)
 
 
 
-[ODSOFilters Object Members](./overview/odsofilters-members-office.md)
+[ODSOFilters Object Members](./overview/Library-Reference/odsofilters-members-office.md)
 

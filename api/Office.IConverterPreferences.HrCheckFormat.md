@@ -43,5 +43,5 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-[IConverterPreferences Object Members](./overview/iconverterpreferences-members-office.md)
+[IConverterPreferences Object Members](./overview/Library-Reference/iconverterpreferences-members-office.md)
 

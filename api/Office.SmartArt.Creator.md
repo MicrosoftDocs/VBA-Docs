@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArt** 
 
 
 
-[SmartArt Object Members](./overview/smartart-members-office.md)
+[SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
 

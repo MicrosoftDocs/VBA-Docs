@@ -77,5 +77,5 @@ Set myAddressEntry = myAddressList.AddressEntries(index)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [AddressEntries Object Members](./overview/Outlook.md)

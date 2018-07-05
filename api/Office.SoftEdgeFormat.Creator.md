@@ -32,5 +32,5 @@ Long
 
 
 
-[SoftEdgeFormat Object Members](./overview/softedgeformat-members-office.md)
+[SoftEdgeFormat Object Members](./overview/Library-Reference/softedgeformat-members-office.md)
 

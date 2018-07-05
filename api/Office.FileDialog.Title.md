@@ -33,5 +33,5 @@ Sets or gets the title of a file dialog box displayed using the  **FileDialog** 
 
 
 
-[FileDialog Object Members](overview/filedialog-members-office.md)
+[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
 

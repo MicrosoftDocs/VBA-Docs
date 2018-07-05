@@ -56,5 +56,5 @@ err_NeverRefreshed:
 
 
 
-[SharedWorkspace Object Members](overview/sharedworkspace-members-office.md)
+[SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 

@@ -50,4 +50,4 @@ ActiveWindow.Selection.SlideRange.TimeLine.InteractiveSequences
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)

@@ -40,5 +40,5 @@ Nothing
 
 
 
-[PictureEffects Object Members](./overview/pictureeffects-members-office.md)
+[PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 

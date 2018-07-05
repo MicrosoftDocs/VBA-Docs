@@ -338,6 +338,6 @@ Set myItem = Application.CreateItem(olAppointmentItem)
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [How to: Import Appointment XML Data into Outlook Appointment Objects](../outlook/How-to/Items-Folders-and-Stores/import-appointment-xml-data-into-outlook-appointment-objects-outlook.md)
 [AppointmentItem Object Members](./overview/Outlook.md)

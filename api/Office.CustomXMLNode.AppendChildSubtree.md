@@ -70,5 +70,5 @@ End Sub
 
 
 
-[CustomXMLNode Object Members](./overview/customxmlnode-members-office.md)
+[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
 

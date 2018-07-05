@@ -35,5 +35,5 @@ Object
 
 
 
-[FileDialogFilters Object Members](./overview/filedialogfilters-members-office.md)
+[FileDialogFilters Object Members](./overview/Library-Reference/filedialogfilters-members-office.md)
 

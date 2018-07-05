@@ -54,5 +54,5 @@ End Sub
 
 
 
-[IAssistance Object Members](./overview/iassistance-members-office.md)
+[IAssistance Object Members](./overview/Library-Reference/iassistance-members-office.md)
 

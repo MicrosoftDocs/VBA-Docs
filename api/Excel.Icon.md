@@ -25,5 +25,5 @@ The  **Icon** object is returned from the **[Item](Excel.IconSet.Item.md)** prop
 
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 

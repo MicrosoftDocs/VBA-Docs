@@ -32,5 +32,5 @@ RulerLevels2
 
 
 
-[Ruler2 Object Members](./overview/ruler2-members-office.md)
+[Ruler2 Object Members](./overview/Library-Reference/ruler2-members-office.md)
 

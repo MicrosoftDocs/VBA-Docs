@@ -67,8 +67,8 @@ viewMenu.Controls.Add ID:=3    'ID of Save command is 3
 ## See also
 
 
-[Object Model Reference](overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-[CommandBar Object Members](./overview/commandbar-members-office.md)
+[CommandBar Object Members](./overview/Library-Reference/commandbar-members-office.md)
 

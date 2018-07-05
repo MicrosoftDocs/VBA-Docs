@@ -37,5 +37,5 @@ Gradients are a smooth transition from one color state to another. The endpoints
 
 
 
-[GradientStop Object Members](./overview/gradientstop-members-office.md)
+[GradientStop Object Members](./overview/Library-Reference/gradientstop-members-office.md)
 

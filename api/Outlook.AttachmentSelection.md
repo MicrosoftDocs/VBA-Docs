@@ -48,4 +48,4 @@ To customize the attachment shortcut menu by using Microsoft Office Fluent ribbo
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

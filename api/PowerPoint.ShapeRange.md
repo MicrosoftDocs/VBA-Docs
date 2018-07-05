@@ -1,4 +1,4 @@
----
+﻿---
 title: ShapeRange Object (PowerPoint)
 keywords: vbapp10.chm548000
 f1_keywords:
@@ -190,4 +190,4 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)

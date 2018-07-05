@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[SmartArtQuickStyle Object Members](./overview/smartartquickstyle-members-office.md)
+[SmartArtQuickStyle Object Members](./overview/Library-Reference/smartartquickstyle-members-office.md)
 

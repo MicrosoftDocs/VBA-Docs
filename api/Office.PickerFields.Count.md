@@ -27,5 +27,5 @@ Retrieves the count of the number of  **PickerField** objects contained within t
 
 
 
-[PickerFields Object Members](./overview/pickerfields-members-office.md)
+[PickerFields Object Members](./overview/Library-Reference/pickerfields-members-office.md)
 

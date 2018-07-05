@@ -196,5 +196,5 @@ You can display text on a command button by setting its  **Caption** property, o
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)<br/>
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)<br/>
 [CommandButton Object Members](./overview/Access.md)

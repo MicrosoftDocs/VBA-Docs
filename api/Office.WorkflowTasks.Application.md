@@ -32,5 +32,5 @@ Object
 
 
 
-[WorkflowTasks Object Members](./overview/workflowtasks-members-office.md)
+[WorkflowTasks Object Members](./overview/Library-Reference/workflowtasks-members-office.md)
 

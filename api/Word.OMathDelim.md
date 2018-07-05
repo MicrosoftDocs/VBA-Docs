@@ -20,5 +20,5 @@ Represents a delimiter object, consisting of opening and closing delimiters (suc
 
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

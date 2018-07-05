@@ -1,4 +1,4 @@
----
+﻿---
 title: Shapes Object (Word)
 keywords: vbawd10.chm2463
 f1_keywords:
@@ -104,4 +104,4 @@ The  **Count** property for this collection in a document returns the number of 
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)

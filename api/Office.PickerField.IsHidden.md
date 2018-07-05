@@ -30,5 +30,5 @@ Specifies whether the Picker field is hidden. Read-only
 
 
 
-[PickerField Object Members](./overview/pickerfield-members-office.md)
+[PickerField Object Members](./overview/Library-Reference/pickerfield-members-office.md)
 

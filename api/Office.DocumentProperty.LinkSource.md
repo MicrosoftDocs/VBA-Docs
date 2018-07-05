@@ -69,5 +69,5 @@ End Sub
 
 
 
-[DocumentProperty Object Members](./overview/documentproperty-members-office.md)
+[DocumentProperty Object Members](./overview/Library-Reference/documentproperty-members-office.md)
 

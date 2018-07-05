@@ -30,5 +30,5 @@ Gets a  **UserPermission** object that is a member of the **Permission** collect
 
 
 
-[Permission Object Members](overview/permission-members-office.md)
+[Permission Object Members](overview/Library-Reference/permission-members-office.md)
 

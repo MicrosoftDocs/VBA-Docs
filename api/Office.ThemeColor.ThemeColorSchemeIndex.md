@@ -32,5 +32,5 @@ MsoThemeColorSchemeIndex
 
 
 
-[ThemeColor Object Members](./overview/themecolor-members-office.md)
+[ThemeColor Object Members](./overview/Library-Reference/themecolor-members-office.md)
 

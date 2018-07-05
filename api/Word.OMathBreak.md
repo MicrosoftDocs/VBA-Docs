@@ -19,6 +19,6 @@ Represents individual line breaks in an equation. Each  **OMathBreak** object is
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

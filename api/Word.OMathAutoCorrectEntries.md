@@ -20,5 +20,5 @@ Represents a collection of math AutoCorrect entries. Use the  **[OMathAutoCorrec
 
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

@@ -49,5 +49,5 @@ When you save a file to the Office Open XML File Format (which is the only forma
 
 
 
-[EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)
+[EncryptionProvider Object Members](./overview/Library-Reference/encryptionprovider-members-office.md)
 

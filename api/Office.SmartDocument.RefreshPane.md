@@ -52,5 +52,5 @@ The following example determines whether the active Excel workbook has an XML ex
 
 
 
-[SmartDocument Object Members](./overview/smartdocument-members-office.md)
+[SmartDocument Object Members](./overview/Library-Reference/smartdocument-members-office.md)
 

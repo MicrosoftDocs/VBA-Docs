@@ -27,5 +27,5 @@ Use the  **[Uri](Excel.XmlNamespace.Uri.md)** property to return the Uniform Res
 
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 

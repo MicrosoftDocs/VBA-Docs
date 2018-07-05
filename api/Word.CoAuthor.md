@@ -43,6 +43,6 @@ MsgBox "The name of the first co author in this document is " &; author.Name
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

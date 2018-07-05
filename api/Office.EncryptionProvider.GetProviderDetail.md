@@ -48,5 +48,5 @@ This method allows you to query the  **EncryptionProvider** object for informati
 
 
 
-[EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)
+[EncryptionProvider Object Members](./overview/Library-Reference/encryptionprovider-members-office.md)
 

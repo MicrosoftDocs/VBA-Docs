@@ -35,5 +35,5 @@ Long
 
 
 
-[Signature Object Members](./overview/signature-members-office.md)
+[Signature Object Members](./overview/Library-Reference/signature-members-office.md)
 

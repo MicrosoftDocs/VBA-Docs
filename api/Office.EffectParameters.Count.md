@@ -27,5 +27,5 @@ Retrieves the count of the number of  **EffectParameter** objects contained with
 
 
 
-[EffectParameters Object Members](./overview/effectparameters-members-office.md)
+[EffectParameters Object Members](./overview/Library-Reference/effectparameters-members-office.md)
 

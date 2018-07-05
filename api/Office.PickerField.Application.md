@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[PickerField Object Members](./overview/pickerfield-members-office.md)
+[PickerField Object Members](./overview/Library-Reference/pickerfield-members-office.md)
 

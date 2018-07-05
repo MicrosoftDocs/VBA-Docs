@@ -1,4 +1,4 @@
----
+﻿---
 title: Names Object (Excel)
 keywords: vbaxl10.chm487072
 f1_keywords:
@@ -122,6 +122,6 @@ Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on 
 
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

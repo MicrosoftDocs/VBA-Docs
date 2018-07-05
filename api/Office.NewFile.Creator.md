@@ -32,5 +32,5 @@ Long
 
 
 
-[NewFile Object Members](./overview/newfile-members-office.md)
+[NewFile Object Members](./overview/Library-Reference/newfile-members-office.md)
 

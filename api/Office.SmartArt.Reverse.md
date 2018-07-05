@@ -27,5 +27,5 @@ Gets or sets the state of the SmartArt diagram with regard to (left-to-right) LT
 
 
 
-[SmartArt Object Members](./overview/smartart-members-office.md)
+[SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
 

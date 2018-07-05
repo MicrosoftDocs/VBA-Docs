@@ -1,4 +1,4 @@
----
+﻿---
 title: Words Object (Word)
 keywords: vbawd10.chm2396
 f1_keywords:
@@ -95,4 +95,4 @@ ActiveDocument.Range.Words(1).InsertAfter "New text "
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)

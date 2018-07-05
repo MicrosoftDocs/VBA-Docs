@@ -27,5 +27,5 @@ Returns or sets the degree of transparency of the specified glow as a value betw
 
 
 
-[GlowFormat Object Members](./overview/glowformat-members-office.md)
+[GlowFormat Object Members](./overview/Library-Reference/glowformat-members-office.md)
 

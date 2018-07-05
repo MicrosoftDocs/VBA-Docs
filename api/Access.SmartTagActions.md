@@ -37,4 +37,4 @@ To return the collection of actions related to a smart tag, use the  **[SmartTag
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)

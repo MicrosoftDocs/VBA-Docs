@@ -89,4 +89,4 @@ End Sub
 
 
 [ItemProperties Object Members](./overview/Outlook.md)
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

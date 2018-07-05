@@ -43,5 +43,5 @@ Allows a picture provider to display the user interface needed to guide the user
 
 
 
-[IBlogPictureExtensibility Object Members](./overview/iblogpictureextensibility-members-office.md)
+[IBlogPictureExtensibility Object Members](./overview/Library-Reference/iblogpictureextensibility-members-office.md)
 

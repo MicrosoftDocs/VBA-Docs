@@ -35,5 +35,5 @@ Object
 
 
 
-[DocumentInspectors Object Members](./overview/documentinspectors-members-office.md)
+[DocumentInspectors Object Members](./overview/Library-Reference/documentinspectors-members-office.md)
 

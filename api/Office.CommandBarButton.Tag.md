@@ -80,5 +80,5 @@ MsgBox (CommandBars("Custom").Controls(1).Tag)
 
 
 
-[CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)
+[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
 

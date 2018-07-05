@@ -20,5 +20,5 @@ The  **UniqueValues** object uses the **DupeUnique** property to returns or sets
 
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 

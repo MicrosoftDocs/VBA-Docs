@@ -1,4 +1,4 @@
----
+﻿---
 title: ListTemplate Object (Word)
 keywords: vbawd10.chm2447
 f1_keywords:
@@ -75,4 +75,4 @@ Use the  **Convert** method to convert a multiple-level list template to a singl
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)

@@ -40,5 +40,5 @@ If the specified parameter is set for a built-in control, the application can mo
 
 
 
-[CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)
+[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
 

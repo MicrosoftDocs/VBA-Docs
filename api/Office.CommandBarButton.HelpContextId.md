@@ -40,5 +40,5 @@ To use this property, you must also set the HelpFile property. Help topics respo
 
 
 
-[CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)
+[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
 

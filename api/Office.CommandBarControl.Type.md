@@ -35,5 +35,5 @@ The value of the  **Type** property is available as a value in the **[MsoControl
 
 
 
-[CommandBarControl Object Members](overview/commandbarcontrol-members-office.md)
+[CommandBarControl Object Members](./overview/Library-Reference/commandbarcontrol-members-office.md)
 

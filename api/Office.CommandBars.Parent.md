@@ -38,5 +38,5 @@ Object
 
 
 
-[CommandBars Object Members](./overview/commandbars-members-office.md)
+[CommandBars Object Members](./overview/Library-Reference/commandbars-members-office.md)
 

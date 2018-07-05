@@ -41,6 +41,6 @@ You can wrap text around  **Shape** or **ShapeRange** objects by using the **Wra
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

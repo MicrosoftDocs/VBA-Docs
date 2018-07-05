@@ -59,6 +59,6 @@ To see whether the specified list template contains the formatting built into Wo
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

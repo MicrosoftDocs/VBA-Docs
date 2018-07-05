@@ -80,5 +80,5 @@ End Sub
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [CalendarView Object Members](./overview/Outlook.md)

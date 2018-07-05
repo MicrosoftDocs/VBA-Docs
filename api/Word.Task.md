@@ -48,6 +48,6 @@ Use Visual Basic's  **Shell** function to run an executable program and add the 
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

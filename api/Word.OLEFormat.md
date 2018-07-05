@@ -68,4 +68,4 @@ Use the  **Object** property to return an object that represents an ActiveX cont
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)

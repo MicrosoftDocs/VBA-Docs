@@ -37,5 +37,5 @@ You can close a contact card either in the user interface or programmatically by
 
 
 
-[ContactCard Object Members](./overview/contactcard-members-office.md)
+[ContactCard Object Members](./overview/Library-Reference/contactcard-members-office.md)
 

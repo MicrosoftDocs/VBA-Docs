@@ -27,5 +27,5 @@ Retrieves the number of  **SmartArtNode** objects contained within the **SmartAr
 
 
 
-[SmartArtNodes Object Members](./overview/smartartnodes-members-office.md)
+[SmartArtNodes Object Members](./overview/Library-Reference/smartartnodes-members-office.md)
 

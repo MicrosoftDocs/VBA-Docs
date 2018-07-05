@@ -45,5 +45,5 @@ Furthermore, once the  **ItemCountExceeded** property returns **True** for one o
 
 
 
-[SharedWorkspaceMembers Object Members](./overview/sharedworkspacemembers-members-office.md)
+[SharedWorkspaceMembers Object Members](./overview/Library-Reference/sharedworkspacemembers-members-office.md)
 

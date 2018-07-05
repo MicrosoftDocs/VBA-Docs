@@ -1,4 +1,4 @@
----
+﻿---
 title: ListTemplates Object (Word)
 ms.prod: word
 ms.assetid: 5b5f3ed8-4522-f52e-5ae8-9df26a7da154
@@ -67,5 +67,5 @@ Use the  **Convert** method to convert a multiple-level list template to a singl
 
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

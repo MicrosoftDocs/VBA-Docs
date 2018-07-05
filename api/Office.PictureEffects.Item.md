@@ -35,5 +35,5 @@ Retrieves a  **PictureEffect** object at the specified index. Read-only
 
 
 
-[PictureEffects Object Members](./overview/pictureeffects-members-office.md)
+[PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 

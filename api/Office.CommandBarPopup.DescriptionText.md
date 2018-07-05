@@ -40,5 +40,5 @@ The description is not displayed to the user, but it can be useful for documenti
 
 
 
-[CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)
+[CommandBarPopup Object Members](./overview/Library-Reference/commandbarpopup-members-office.md)
 

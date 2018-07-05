@@ -49,4 +49,4 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

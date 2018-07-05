@@ -23,5 +23,5 @@ _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.m
 ## See also
 
 - [SmartArtNode Object](Office.SmartArtNode.md)
-- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 

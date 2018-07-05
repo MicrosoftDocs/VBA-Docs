@@ -76,4 +76,4 @@ If Selection.Comments.Count >= 1 Then MsgBox _
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)

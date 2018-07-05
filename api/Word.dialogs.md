@@ -35,6 +35,6 @@ For more information, see [Displaying built-in Word dialog boxes](../word/Concep
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

@@ -49,5 +49,5 @@ Dim swsTask As Office.SharedWorkspaceTask
 
 
 
-[SharedWorkspaceTask Object Members](./overview/sharedworkspacetask-members-office.md)
+[SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 

@@ -43,5 +43,5 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentPro
 
 
 
-[DocumentProperties Object Members](./overview/documentproperties-members-office.md)
+[DocumentProperties Object Members](./overview/Library-Reference/documentproperties-members-office.md)
 

@@ -138,4 +138,4 @@ Use one of the following methods to insert characters into a  **TextRange** obje
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)

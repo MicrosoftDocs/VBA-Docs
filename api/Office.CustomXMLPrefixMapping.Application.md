@@ -32,5 +32,5 @@ Object
 
 
 
-[CustomXMLPrefixMapping Object Members](./overview/customxmlprefixmapping-members-office.md)
+[CustomXMLPrefixMapping Object Members](./overview/Library-Reference/customxmlprefixmapping-members-office.md)
 
