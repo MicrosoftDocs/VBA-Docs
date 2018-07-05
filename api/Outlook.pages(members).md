@@ -17,10 +17,10 @@ Represents all the pages of a  [MultiPage](Outlook.multipage.md).
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Add](Outllok.Pages.add.md)|Adds a [Page](Outlook.Page.md) to a [Pages](Outlook.pages.md) collection.|
-| [Clear](Outllok.Pages.clear.md)|Removes pages from the collection.|
-| [Item](Outllok.Pages.item.md)|Returns a member of a collection, either by position or by name.|
-| [Remove](Outllok.Pages.remove.md)|Removes a member from a collection.|
+| [Add](Outlook.Pages.add.md)|Adds a [Page](Outlook.Page.md) to a [Pages](Outlook.pages.md) collection.|
+| [Clear](Outlook.Pages.clear.md)|Removes pages from the collection.|
+| [Item](Outlook.Pages.item.md)|Returns a member of a collection, either by position or by name.|
+| [Remove](Outlook.Pages.remove.md)|Removes a member from a collection.|
 
 
 
@@ -30,7 +30,7 @@ Represents all the pages of a  [MultiPage](Outlook.multipage.md).
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Count](Outllok.Pages.count.md)|Returns a  **Long** that represents the number of objects in a collection. Read-only.|
+| [Count](Outlook.Pages.count.md)|Returns a  **Long** that represents the number of objects in a collection. Read-only.|
 
 
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ComboBox Members (Outlook Forms Script)
 
-Combines the features of a  [ListBox](Outlook.ListBox.md) and a [TextBox](textbox.md).
+Combines the features of a  [ListBox](Outlook.ListBox.md) and a [TextBox](Outlook.textbox.md).
 
 
 ## Methods
@@ -19,7 +19,7 @@ Combines the features of a  [ListBox](Outlook.ListBox.md) and a [TextBox](textbo
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [AddItem](Outlook.combobox.additem.md)|For a single-column  [ComboBox](combobox.md), the  **AddItem** method adds an item to the list. For a multicolumn **ComboBox**, this method adds a row to the list.|
+| [AddItem](Outlook.combobox.additem.md)|For a single-column  [ComboBox](Outlook.combobox.md), the  **AddItem** method adds an item to the list. For a multicolumn **ComboBox**, this method adds a row to the list.|
 | [Clear](Outlook.combobox.clear.md)|Removes all entries in the list in a  **ComboBox**.|
 | [Copy](Outlook.combobox.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.combobox.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
@@ -40,7 +40,7 @@ Combines the features of a  [ListBox](Outlook.ListBox.md) and a [TextBox](textbo
 | [BackStyle](Outlook.combobox.backstyle.md)|Returns or sets an  **Integer** that specifies the background style for an object. Read/write.|
 | [BorderColor](Outlook.combobox.bordercolor.md)|Returns or sets a  **Long** that specifies the border color of an object. Read/write.|
 | [BorderStyle](Outlook.combobox.borderstyle.md)|Returns or sets an  **Integer** that specifies the type of border of the control. Read/write.|
-| [BoundColumn](Outlook.combobox.boundcolumn.md)|Returns or sets a  **Variant** that identifies the source of data in a multicolumn [ComboBox](combobox.md). Read/write.|
+| [BoundColumn](Outlook.combobox.boundcolumn.md)|Returns or sets a  **Variant** that identifies the source of data in a multicolumn [ComboBox](Outlook.combobox.md). Read/write.|
 | [CanPaste](Outlook.combobox.canpaste.md)|Returns a  **Boolean** that specifies whether the Clipboard contains data that the object supports. Read-only.|
 | [Column](Outlook.combobox.column.md)|Returns or sets a  **Variant** that represents a single value, a column of values, or a two-dimensional array to load into a **ComboBox**. Read/write.|
 | [ColumnCount](Outlook.combobox.columncount.md)|Returns or sets a  **Long** that represents the number of columns to display in a combo box. Read/write.|

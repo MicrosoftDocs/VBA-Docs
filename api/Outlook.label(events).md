@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Label.Click Event (Outlook Forms Script)](Outllok.Label.click.md)
+-  [Label.Click Event (Outlook Forms Script)](Outlook.Label.click.md)
     
 

@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [ListBox.Click Event (Outlook Forms Script)](Outllok.ListBox.click.md)
+-  [ListBox.Click Event (Outlook Forms Script)](Outlook.ListBox.click.md)
     
 

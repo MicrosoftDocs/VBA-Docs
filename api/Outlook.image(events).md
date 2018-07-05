@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 ## In this section
 
 
--  [Image.Click Event (Outlook Forms Script)](Outllok.Image.click.md)
+-  [Image.Click Event (Outlook Forms Script)](Outlook.Image.click.md)
     
 

@@ -25,7 +25,7 @@ Shows the selection state of an item.
 | [Caption](Outlook.togglebutton.caption.md)|Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.|
 | [Enabled](Outlook.togglebutton.enabled.md)|Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.|
 | [ForeColor](Outlook.togglebutton.forecolor.md)|Returns or sets a  **Long** that specifies the foreground color of an object. Read/write.|
-| [GroupName](Outlook.togglebutton.groupname.md)|Returns or sets a  **String** that identifies a group of mutually exclusive [ToggleButton](togglebutton.md) controls. Read/write.|
+| [GroupName](Outlook.togglebutton.groupname.md)|Returns or sets a  **String** that identifies a group of mutually exclusive [ToggleButton](Outlook.togglebutton.md) controls. Read/write.|
 | [Locked](Outlook.togglebutton.locked.md)|Returns or sets a  **Boolean** that specifies whether a control can be edited. Read/write.|
 | [MouseIcon](Outlook.togglebutton.mouseicon.md)|Returns a  **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.|
 | [MousePointer](Outlook.togglebutton.mousepointer.md)|Returns or sets an  **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.|

@@ -18,7 +18,7 @@ Presents a set of related controls as a visual group.
 |**Name**|**Description**|
 |:-----|:-----|
 | [BackColor](Outlook.tabstrip.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
-| [ClientHeight](Outlook.tabstrip.clientheight.md)|Returns a  **Single** value that represents the height dimension of the display area of a [TabStrip](tabstrip.md). Read-only.|
+| [ClientHeight](Outlook.tabstrip.clientheight.md)|Returns a  **Single** value that represents the height dimension of the display area of a [TabStrip](Outlook.tabstrip.md). Read-only.|
 | [ClientLeft](Outlook.tabstrip.clientleft.md)|Returns a  **Single** value that represents the location of the left edge of the display area of a **TabStrip**. Read-only.|
 | [ClientTop](Outlook.tabstrip.clienttop.md)|Returns a  **Single** value that represents the location of the top edge of the display area of a **TabStrip**. Read-only.|
 | [ClientWidth](Outlook.tabstrip.clientwidth.md)|Returns a  **Single** value that represents the width dimension of the display area of a **TabStrip**. Read-only.|
@@ -27,7 +27,7 @@ Presents a set of related controls as a visual group.
 | [MouseIcon](Outlook.tabstrip.mouseicon.md)|Returns a  **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.|
 | [MousePointer](Outlook.tabstrip.mousepointer.md)|Returns or sets an  **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.|
 | [MultiRow](Outlook.tabstrip.multirow.md)|Returns or sets a  **Boolean** that specifies whether the control has more than one row of tabs. Read/write.|
-| [SelectedItem](Outlook.tabstrip.selecteditem.md)|Returns an  **Object** that indicates the currently selected [Tab](tab.md) object. Read-only.|
+| [SelectedItem](Outlook.tabstrip.selecteditem.md)|Returns an  **Object** that indicates the currently selected [Tab](Outlook.tab.md) object. Read-only.|
 | [Style](Outlook.tabstrip.style.md)|Returns or sets an  **Integer** that identifies the style of the tabs on the control. Read/write.|
 | [TabFixedHeight](Outlook.tabstrip.tabfixedheight.md)|Returns or sets a  **Single** that represents the height in points of the tabs on a **TabStrip**. Read/write.|
 | [TabFixedWidth](Outlook.tabstrip.tabfixedwidth.md)|Returns or sets a  **Single** that represents the width in points of the tabs on a **TabStrip**. Read/write.|

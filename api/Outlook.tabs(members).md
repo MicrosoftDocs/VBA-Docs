@@ -17,7 +17,7 @@ Represents all the  [Tab Object (Outlook Forms Script)](Outlook.tab.md) controls
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Add](Outlook.tabs.add.md)|Adds a  [Tab](tab.md) to a [Tabs](tabs.md) collection.|
+| [Add](Outlook.tabs.add.md)|Adds a  [Tab](Outlook.tab.md) to a [Tabs](Outlook.tabs.md) collection.|
 | [Clear](Outlook.tabs.clear.md)|Removes all tabs from a  **Tabs** collection.|
 | [Item](Outlook.tabs.item.md)|Returns a member of a collection, either by position or by name.|
 | [Remove](Outlook.tabs.remove.md)|Removes a member from a collection.|

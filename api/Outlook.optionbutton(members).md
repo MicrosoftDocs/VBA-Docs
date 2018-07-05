@@ -25,7 +25,7 @@ Shows the selection status of one item in a group of choices.
 | [Caption](Outlook.optionbutton.caption.md)|Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.|
 | [Enabled](Outlook.optionbutton.enabled.md)|Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.|
 | [ForeColor](Outlook.optionbutton.forecolor.md)|Returns or sets a  **Long** that specifies the foreground color of an object. Read/write.|
-| [GroupName](Outlook.optionbutton.groupname.md)|Returns or sets a  **String** that identifies a group of mutually exclusive [OptionButton](Outlook.optionbutton.object-outlook-forms-script.md) controls. Read/write.|
+| [GroupName](Outlook.optionbutton.groupname.md)|Returns or sets a  **String** that identifies a group of mutually exclusive [OptionButton](Outlook.optionbutton.md) controls. Read/write.|
 | [Locked](Outlook.optionbutton.locked.md)|Returns or sets a  **Boolean** that specifies whether a control can be edited. Read/write.|
 | [MouseIcon](Outlook.optionbutton.mouseicon.md)|Returns a  **String** that represents the full path name of a custom icon that is to be assigned to the control. Read-only.|
 | [MousePointer](Outlook.optionbutton.mousepointer.md)|Returns or sets an  **Integer** that specifies the type of pointer displayed when the user positions the mouse over a particular object. Read/write.|

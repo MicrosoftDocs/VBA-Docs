@@ -18,7 +18,7 @@ Increments and decrements a value.
 |**Name**|**Description**|
 |:-----|:-----|
 | [BackColor](Outlook.spinbutton.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
-| [Delay](Outlook.spinbutton.delay.md)|Returns or sets a  **Long** that specifies the delay in milliseconds, between events on a [SpinButton](spinbutton.md). Read/write.|
+| [Delay](Outlook.spinbutton.delay.md)|Returns or sets a  **Long** that specifies the delay in milliseconds, between events on a [SpinButton](Outlook.spinbutton.md). Read/write.|
 | [Enabled](Outlook.spinbutton.enabled.md)|Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.|
 | [ForeColor](Outlook.spinbutton.forecolor.md)|Returns or sets a  **Long** that specifies the foreground color of an object. Read/write.|
 | [Max](Outlook.spinbutton.max.md)|Returns or sets a  **Long** that specifies the maximum and minimum acceptable values for the **Value** property of a **SpinButton**. Read/write.|

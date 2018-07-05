@@ -30,7 +30,7 @@ Displays information from a user or from an organized set of data.
 |**Name**|**Description**|
 |:-----|:-----|
 | [AutoSize](Outlook.textbox.autosize.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
-| [AutoTab](Outlook.textbox.autotab.md)|Returns or sets a  **Boolean** that specifies whether an automatic tab occurs when a user enters the maximum allowable number of characters into a [TextBox](textbox.md). Read/write.|
+| [AutoTab](Outlook.textbox.autotab.md)|Returns or sets a  **Boolean** that specifies whether an automatic tab occurs when a user enters the maximum allowable number of characters into a [TextBox](Outlook.textbox.md). Read/write.|
 | [AutoWordSelect](Outlook.textbox.autowordselect.md)|Returns or sets a  **Boolean** that specifies whether the basic unit used to extend a selection is a word or a single character. Read/write.|
 | [BackColor](Outlook.textbox.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [BackStyle](Outlook.textbox.backstyle.md)|Returns or sets an  **Integer** that specifies the background style for an object. Read/write.|
