@@ -26,6 +26,6 @@ The  **SlicerPivotTables** collection contains information about the PivotTables
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

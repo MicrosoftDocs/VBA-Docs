@@ -55,4 +55,4 @@ MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)

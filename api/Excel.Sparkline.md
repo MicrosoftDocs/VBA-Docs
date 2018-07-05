@@ -24,6 +24,6 @@ Use the  **[ModifyLocation](Excel.Sparkline.ModifyLocation.md)** method to chang
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

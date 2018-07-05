@@ -34,6 +34,6 @@ Worksheets(1).VPageBreaks(1).Location = Worksheets(1).Range("e5")
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

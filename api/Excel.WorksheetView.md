@@ -24,6 +24,6 @@ Controls the look and feel of the application or workbook-level view by providin
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

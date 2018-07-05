@@ -127,4 +127,4 @@ Windows("book1.xls":1).DisplayGridlines = False
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)

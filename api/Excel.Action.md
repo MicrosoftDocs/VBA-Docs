@@ -42,4 +42,4 @@ Represents an action to be executed in a Pivottable or sheet data.
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)

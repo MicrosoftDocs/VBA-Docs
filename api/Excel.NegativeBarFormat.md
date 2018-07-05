@@ -24,6 +24,6 @@ The properties of the  **NegativeBarFormat** object can be used to specify the f
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

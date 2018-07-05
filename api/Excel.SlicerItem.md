@@ -41,4 +41,4 @@ To access the  **SlicerItem** object that represents the currently selected butt
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)

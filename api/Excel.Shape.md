@@ -201,4 +201,4 @@ ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)

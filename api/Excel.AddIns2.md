@@ -24,6 +24,6 @@ The contents of the  **AddIns2** collection correspond to the list of add-ins di
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

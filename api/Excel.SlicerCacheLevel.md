@@ -25,5 +25,5 @@ When a slicer is used to filter an OLAP data source, the slicer cache it is asso
 
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 

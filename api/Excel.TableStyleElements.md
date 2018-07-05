@@ -27,5 +27,5 @@ A table style element in a table can have formatting specified in a table style 
 
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 

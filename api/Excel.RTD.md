@@ -25,5 +25,5 @@ Use the  **[RTD](Excel.Application.RTD.md)** property of the **[Application](Exc
 
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 

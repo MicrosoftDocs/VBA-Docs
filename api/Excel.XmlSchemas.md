@@ -26,6 +26,6 @@ Use the  **[Item](Excel.XmlSchemas.Item.md)** method to return an **XmlSchema** 
 ## See also
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

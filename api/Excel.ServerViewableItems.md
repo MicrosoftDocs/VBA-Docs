@@ -29,5 +29,5 @@ In the Excel user interface, you can view the collection of objects that are mar
 
 
 
-[Excel Object Model Reference](./overview/Excelobject-model.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
