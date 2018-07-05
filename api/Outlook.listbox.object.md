@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 -  [ListBox Object (Outlook Forms Script)](Outlook.listbox.md)
     
--  [ListBox Members (Outlook Forms Script)](../missing-files/Outlook/listbox-members-outlook-forms-script.md)
+-  [ListBox Members (Outlook Forms Script)](Outlook.listbox(members).md)
     
--  [ListBox Properties (Outlook Forms Script)](../missing-files/Outlook/listbox-properties-outlook-forms-script.md)
+-  [ListBox Properties (Outlook Forms Script)](Outlook.listbox(properties).md)
     
--  [ListBox Methods (Outlook Forms Script)](../missing-files/Outlook/listbox-methods-outlook-forms-script.md)
+-  [ListBox Methods (Outlook Forms Script)](Outlook.listbox(methods).md)
     
--  [ListBox Events (Outlook Forms Script)](../missing-files/Outlook/listbox-events-outlook-forms-script.md)
+-  [ListBox Events (Outlook Forms Script)](Outlook.listbox(events).md)
     
 

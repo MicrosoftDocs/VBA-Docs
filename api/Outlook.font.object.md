@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 -  [Font Object (Outlook Forms Script)](Outlook.font.md)
     
--  [Font Members (Outlook Forms Script)](../missing-files/Outlook/font-members-outlook-forms-script.md)
+-  [Font Members (Outlook Forms Script)](Outlook.font(members).md)
     
--  [Font Properties (Outlook Forms Script)](../missing-files/Outlook/font-properties-outlook-forms-script.md)
+-  [Font Properties (Outlook Forms Script)](Outlook.font(properties).md)
     
 

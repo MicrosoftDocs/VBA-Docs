@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 -  [Tab Object (Outlook Forms Script)](Outlook.tab.md)
     
--  [Tab Members (Outlook Forms Script)](../missing-files/Outlook/tab-members-outlook-forms-script.md)
+-  [Tab Members (Outlook Forms Script)](Outlook.tab(members).md)
     
--  [Tab Properties (Outlook Forms Script)](../missing-files/Outlook/tab-properties-outlook-forms-script.md)
+-  [Tab Properties (Outlook Forms Script)](Outlook.tab(properties).md)
     
 

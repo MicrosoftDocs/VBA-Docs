@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [MultiPage Object (Outlook Forms Script)](Outlook.multipage.md)
     
--  [MultiPage Members (Outlook Forms Script)](../missing-files/Outlook/multipage-members-outlook-forms-script.md)
+-  [MultiPage Members (Outlook Forms Script)](Outlook.multipage(members).md)
     
--  [MultiPage Properties (Outlook Forms Script)](../missing-files/Outlook/multipage-properties-outlook-forms-script.md)
+-  [MultiPage Properties (Outlook Forms Script)](Outlook.multipage(properties).md)
     
--  [MultiPage Events (Outlook Forms Script)](../missing-files/Outlook/multipage-events-outlook-forms-script.md)
+-  [MultiPage Events (Outlook Forms Script)](Outlook.multipage(events).md)
     
 

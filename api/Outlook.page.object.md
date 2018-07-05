@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [Page Object (Outlook Forms Script)](Outlook.page.md)
     
--  [Page Members (Outlook Forms Script)](../missing-files/Outlook/page-members-outlook-forms-script.md)
+-  [Page Members (Outlook Forms Script)](Outlook.page(members).md)
     
--  [Page Properties (Outlook Forms Script)](../missing-files/Outlook/page-properties-outlook-forms-script.md)
+-  [Page Properties (Outlook Forms Script)](Outlook.page(properties).md)
     
--  [Page Methods (Outlook Forms Script)](../missing-files/Outlook/page-methods-outlook-forms-script.md)
+-  [Page Methods (Outlook Forms Script)](Outlook.page(methods).md)
     
 

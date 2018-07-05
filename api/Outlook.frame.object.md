@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 -  [Frame Object (Outlook Forms Script)](Outlook.frame.md)
     
--  [Frame Members (Outlook Forms Script)](../missing-files/Outlook/frame-members-outlook-forms-script.md)
+-  [Frame Members (Outlook Forms Script)](Outlook.frame(members).md)
     
--  [Frame Properties (Outlook Forms Script)](../missing-files/Outlook/frame-properties-outlook-forms-script.md)
+-  [Frame Properties (Outlook Forms Script)](Outlook.frame(properties).md)
     
--  [Frame Methods (Outlook Forms Script)](../missing-files/Outlook/frame-methods-outlook-forms-script.md)
+-  [Frame Methods (Outlook Forms Script)](Outlook.frame(methods).md)
     
--  [Frame Events (Outlook Forms Script)](../missing-files/Outlook/frame-events-outlook-forms-script.md)
+-  [Frame Events (Outlook Forms Script)](Outlook.frame(events).md)
     
 

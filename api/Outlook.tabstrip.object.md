@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [TabStrip Object (Outlook Forms Script)](Outlook.tabstrip.md)
     
--  [TabStrip Members (Outlook Forms Script)](../missing-files/Outlook/tabstrip-members-outlook-forms-script.md)
+-  [TabStrip Members (Outlook Forms Script)](Outlook.tabstrip(members).md)
     
--  [TabStrip Properties (Outlook Forms Script)](../missing-files/Outlook/tabstrip-properties-outlook-forms-script.md)
+-  [TabStrip Properties (Outlook Forms Script)](Outlook.tabstrip(properties).md)
     
--  [TabStrip Events (Outlook Forms Script)](../missing-files/Outlook/tabstrip-events-outlook-forms-script.md)
+-  [TabStrip Events (Outlook Forms Script)](Outlook.tabstrip(events).md)
     
 

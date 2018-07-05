@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 -  [CommandButton Object (Outlook Forms Script)](Outlook.commandbutton.md)
     
--  [CommandButton Members (Outlook Forms Script)](../missing-files/Outlook/commandbutton-members-outlook-forms-script.md)
+-  [CommandButton Members (Outlook Forms Script)](Outlook.commandbutton(members).md)
     
--  [CommandButton Properties (Outlook Forms Script)](../missing-files/Outlook/commandbutton-properties-outlook-forms-script.md)
+-  [CommandButton Properties (Outlook Forms Script)](Outlook.commandbutton(properties).md)
     
--  [CommandButton Events (Outlook Forms Script)](../missing-files/Outlook/commandbutton-events-outlook-forms-script.md)
+-  [CommandButton Events (Outlook Forms Script)](Outlook.commandbutton(events).md)
     
 
