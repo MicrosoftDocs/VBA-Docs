@@ -58,5 +58,5 @@ You can use the following table to predict the number of sessions for which a me
 
 
 
-[CommandBarPopup Object Members](./overview/commandbarpopup-members-office.md)
+[CommandBarPopup Object Members](./overview/Library-Reference/commandbarpopup-members-office.md)
 

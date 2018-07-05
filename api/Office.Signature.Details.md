@@ -40,5 +40,5 @@ Among the information that can be read is whether the certificate associated wit
 
 
 
-[Signature Object Members](./overview/signature-members-office.md)
+[Signature Object Members](./overview/Library-Reference/signature-members-office.md)
 

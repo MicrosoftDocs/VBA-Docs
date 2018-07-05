@@ -42,5 +42,5 @@ The value of this property can be set to one of the following  **MsoCTPDockPosit
 
 
 
-[CustomTaskPane Object Members](./overview/customtaskpane-members-office.md)
+[CustomTaskPane Object Members](./overview/Library-Reference/customtaskpane-members-office.md)
 

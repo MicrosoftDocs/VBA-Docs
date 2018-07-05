@@ -25,5 +25,5 @@ Generally, this character is a curly brace, bracket, or arrow but it can be any 
 
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

@@ -58,5 +58,5 @@ The following example checks for a conflict between the local and the server cop
 
 
 
-[Sync Object Members](./overview/sync-members-office.md)
+[Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 

@@ -41,5 +41,5 @@ Deletes the current shared workspace folder and all data within it.
 
 
 
-[SharedWorkspaceFolder Object Members](overview/sharedworkspacefolder-members-office.md)
+[SharedWorkspaceFolder Object Members](./overview/Library-Reference/sharedworkspacefolder-members-office.md)
 

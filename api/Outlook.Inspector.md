@@ -88,5 +88,5 @@ Represents the window in which an Outlook item is displayed.
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [Inspector Object Members](./overview/Outlook.md)

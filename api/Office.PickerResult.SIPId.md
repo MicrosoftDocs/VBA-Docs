@@ -30,5 +30,5 @@ Is the identifier for Office Communication Server. It's used only for people pic
 
 
 
-[PickerResult Object Members](./overview/pickerresult-members-office.md)
+[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 

@@ -30,6 +30,6 @@ ActiveChart.Floor.Interior.Color = RGB(0, 255, 255)
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

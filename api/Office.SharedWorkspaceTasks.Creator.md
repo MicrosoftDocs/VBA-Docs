@@ -58,5 +58,5 @@ End If
 
 
 
-[SharedWorkspaceTasks Object Members](./overview/sharedworkspacetasks-members-office.md)
+[SharedWorkspaceTasks Object Members](./overview/Library-Reference/sharedworkspacetasks-members-office.md)
 

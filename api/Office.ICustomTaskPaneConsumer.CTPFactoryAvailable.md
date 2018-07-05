@@ -63,5 +63,5 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 
-[ICustomTaskPaneConsumer Object Members](./overview/icustomtaskpaneconsumer-members-office.md)
+[ICustomTaskPaneConsumer Object Members](./overview/Library-Reference/icustomtaskpaneconsumer-members-office.md)
 

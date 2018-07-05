@@ -64,5 +64,5 @@ The following example displays the Modified date and time along with other prope
 
 
 
-[DocumentLibraryVersion Object Members](./overview/documentlibraryversion-members-office.md)
+[DocumentLibraryVersion Object Members](./overview/Library-Reference/documentlibraryversion-members-office.md)
 

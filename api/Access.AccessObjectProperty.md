@@ -81,4 +81,4 @@ With the same syntax forms, you can also refer to the  **Value** property of a *
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)

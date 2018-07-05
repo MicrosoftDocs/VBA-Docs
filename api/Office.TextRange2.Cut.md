@@ -27,5 +27,5 @@ Removes a portion or all of the text from a range of text.
 
 
 
-[TextRange2 Object Members](./overview/textrange2-members-office.md)
+[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 

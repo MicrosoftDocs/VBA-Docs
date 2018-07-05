@@ -40,5 +40,5 @@ GradientStop
 
 
 
-[GradientStops Object Members](./overview/gradientstops-members-office.md)
+[GradientStops Object Members](./overview/Library-Reference/gradientstops-members-office.md)
 

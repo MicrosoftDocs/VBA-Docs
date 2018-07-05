@@ -52,5 +52,5 @@ objCustomXMLSchema.Reload
 
 
 
-[CustomXMLSchema Object Members](./overview/customxmlschema-members-office.md)
+[CustomXMLSchema Object Members](./overview/Library-Reference/customxmlschema-members-office.md)
 

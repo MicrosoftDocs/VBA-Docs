@@ -58,5 +58,5 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-[PickerResult Object Members](./overview/pickerresult-members-office.md)
+[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 

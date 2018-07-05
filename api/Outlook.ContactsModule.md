@@ -42,4 +42,4 @@ You can use the  **[Visible](Outlook.ContactsModule.Visible.md)** property to de
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

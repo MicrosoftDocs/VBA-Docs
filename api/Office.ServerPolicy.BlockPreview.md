@@ -35,5 +35,5 @@ Boolean
 
 
 
-[ServerPolicy Object Members](./overview/serverpolicy-members-office.md)
+[ServerPolicy Object Members](./overview/Library-Reference/serverpolicy-members-office.md)
 

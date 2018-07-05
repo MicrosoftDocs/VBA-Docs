@@ -32,5 +32,5 @@ The ID associated with this property is case sensitive.
 
 
 
-[SmartArtQuickStyle Object Members](./overview/smartartquickstyle-members-office.md)
+[SmartArtQuickStyle Object Members](./overview/Library-Reference/smartartquickstyle-members-office.md)
 

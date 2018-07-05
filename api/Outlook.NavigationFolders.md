@@ -52,4 +52,4 @@ Note that if you delete a  **Folder** using **[Folder.Delete](Outlook.Folder.Del
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

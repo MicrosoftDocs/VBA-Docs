@@ -43,5 +43,5 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
 [TempVar Object Members](./overview/Access.md)

@@ -51,8 +51,8 @@ End Sub
 ## See also
 
 
-[Object Model Reference](overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-[PictureEffects Object Members](./overview/pictureeffects-members-office.md)
+[PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 

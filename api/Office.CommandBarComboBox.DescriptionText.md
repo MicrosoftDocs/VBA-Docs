@@ -40,5 +40,5 @@ The description is not displayed to the user, but it can be useful for documenti
 
 
 
-[CommandBarComboBox Object Members](./overview/commandbarcombobox-members-office.md)
+[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
 

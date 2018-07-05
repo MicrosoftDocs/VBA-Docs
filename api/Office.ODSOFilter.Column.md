@@ -60,6 +60,6 @@ End Sub
 
 
 
-[ODSOFilter Object Members](./overview/odsofilter-members-office.md)
-[TextFrame2 Object Members](./overview/textframe2-members-office.md)
+[ODSOFilter Object Members](./overview/Library-Reference/odsofilter-members-office.md)
+[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 

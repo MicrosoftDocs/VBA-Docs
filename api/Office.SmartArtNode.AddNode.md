@@ -47,5 +47,5 @@ saNode = saNode.AddNode(msoSmartArtNodeBelow, msoSmartArtNodeTypeDefault)
 ## See also
 
 - [SmartArtNode Object](Office.SmartArtNode.md)
-- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 

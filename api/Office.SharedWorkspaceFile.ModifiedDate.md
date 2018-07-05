@@ -61,5 +61,5 @@ Dim swsFile As Office.SharedWorkspaceFile
 
 
 
-[SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)
+[SharedWorkspaceFile Object Members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
 

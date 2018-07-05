@@ -35,5 +35,5 @@ Long
 
 
 
-[WebPageFonts Object Members](./overview/webpagefonts-members-office.md)
+[WebPageFonts Object Members](./overview/Library-Reference/webpagefonts-members-office.md)
 

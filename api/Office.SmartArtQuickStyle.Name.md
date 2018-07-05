@@ -27,5 +27,5 @@ Retrieves the string name of the SmartArt quick style. Read-only
 
 
 
-[SmartArtQuickStyle Object Members](./overview/smartartquickstyle-members-office.md)
+[SmartArtQuickStyle Object Members](./overview/Library-Reference/smartartquickstyle-members-office.md)
 

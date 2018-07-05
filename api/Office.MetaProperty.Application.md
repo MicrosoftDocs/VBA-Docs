@@ -32,5 +32,5 @@ Object
 
 
 
-[MetaProperty Object Members](./overview/metaproperty-members-office.md)
+[MetaProperty Object Members](./overview/Library-Reference/metaproperty-members-office.md)
 

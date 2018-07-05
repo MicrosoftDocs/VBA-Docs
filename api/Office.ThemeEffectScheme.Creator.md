@@ -32,5 +32,5 @@ Long
 
 
 
-[ThemeEffectScheme Object Members](./overview/themeeffectscheme-members-office.md)
+[ThemeEffectScheme Object Members](./overview/Library-Reference/themeeffectscheme-members-office.md)
 

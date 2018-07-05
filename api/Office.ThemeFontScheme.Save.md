@@ -45,5 +45,5 @@ ThemeFontScheme.Save("C:\myThemeFontScheme.xml")
 
 
 
-[ThemeFontScheme Object Members](./overview/themefontscheme-members-office.md)
+[ThemeFontScheme Object Members](./overview/Library-Reference/themefontscheme-members-office.md)
 

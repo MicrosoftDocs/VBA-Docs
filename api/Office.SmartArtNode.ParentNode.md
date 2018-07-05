@@ -28,5 +28,5 @@ If this node is the root node, an error is returned.
 ## See also
 
 - [SmartArtNode Object](Office.SmartArtNode.md)
-- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 

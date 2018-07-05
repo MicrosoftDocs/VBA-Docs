@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **EffectParam
 
 
 
-[EffectParameters Object Members](./overview/effectparameters-members-office.md)
+[EffectParameters Object Members](./overview/Library-Reference/effectparameters-members-office.md)
 

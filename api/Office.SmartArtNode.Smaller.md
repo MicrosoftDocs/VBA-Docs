@@ -32,5 +32,5 @@ The amount of decrease depends on the layout size of the node.
 ## See also
 
 - [SmartArtNode Object](Office.SmartArtNode.md)
-- [SmartArtNode Object Members](./overview/smartartnode-members-office.md)
+- [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 

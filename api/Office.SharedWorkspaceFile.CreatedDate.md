@@ -63,5 +63,5 @@ The following example returns a list of shared workspace files whose date and ti
 
 
 
-[SharedWorkspaceFile Object Members](./overview/sharedworkspacefile-members-office.md)
+[SharedWorkspaceFile Object Members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
 

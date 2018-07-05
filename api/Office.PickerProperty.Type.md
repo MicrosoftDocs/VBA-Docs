@@ -30,5 +30,5 @@ Retrieves the type of the Picker property. Read-only
 
 
 
-[PickerProperty Object Members](./overview/pickerproperty-members-office.md)
+[PickerProperty Object Members](./overview/Library-Reference/pickerproperty-members-office.md)
 

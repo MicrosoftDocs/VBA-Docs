@@ -16,6 +16,6 @@ Represents the mathematical radical object, consisting of a radical, a base, and
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

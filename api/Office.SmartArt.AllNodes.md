@@ -59,5 +59,5 @@ smartart.AllNodes(1).TextFrame2.TextRange.Text="Node 1"
 
 
 
-[SmartArt Object Members](./overview/smartart-members-office.md)
+[SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
 

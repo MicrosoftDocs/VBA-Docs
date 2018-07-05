@@ -64,5 +64,5 @@ The following example lists comments and other properties for each version of a 
 
 
 
-[DocumentLibraryVersion Object Members](./overview/documentlibraryversion-members-office.md)
+[DocumentLibraryVersion Object Members](./overview/Library-Reference/documentlibraryversion-members-office.md)
 

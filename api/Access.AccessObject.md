@@ -72,5 +72,5 @@ Because an **AccessObject** object corresponds to an existing object, you can't 
 
 ## See also
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
 [Access Object Object Members](./overview/Access.md)

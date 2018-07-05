@@ -40,5 +40,5 @@ Valid graphics files include files with the following extensions: .bmp, .cdr, .c
 
 
 
-[BulletFormat2 Object Members](./overview/bulletformat2-members-office.md)
+[BulletFormat2 Object Members](./overview/Library-Reference/bulletformat2-members-office.md)
 

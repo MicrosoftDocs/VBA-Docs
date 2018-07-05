@@ -56,5 +56,5 @@ MsgBox ("There are " &amp; _
 
 
 
-[DocumentProperties Object Members](./overview/documentproperties-members-office.md)
+[DocumentProperties Object Members](./overview/Library-Reference/documentproperties-members-office.md)
 

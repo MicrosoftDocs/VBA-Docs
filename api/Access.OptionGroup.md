@@ -133,4 +133,4 @@ An option group can also be set to an expression, or it can be unbound. You can 
 
 
 [OptionGroup Object Members](./overview/Access.md)
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)

@@ -63,5 +63,5 @@ Next
 
 
 
-[Object Model Reference](./overview/reference-object-library-reference-for-office.md)
-[PickerResults Object Members](./overview/pickerresults-members-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+[PickerResults Object Members](./overview/Library-Reference/pickerresults-members-office.md)

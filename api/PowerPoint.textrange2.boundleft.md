@@ -48,5 +48,5 @@ End With
 
 
 [TextRange2 Object](./Office.TextRange2.md)
-[TextRange2 Object Members](./overview/textrange2-members-office.md)
+[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 

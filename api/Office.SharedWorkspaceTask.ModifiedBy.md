@@ -43,5 +43,5 @@ For shared workspace objects, the  **ModifiedBy** property returns the display n
 
 
 
-[SharedWorkspaceTask Object Members](./overview/sharedworkspacetask-members-office.md)
+[SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 

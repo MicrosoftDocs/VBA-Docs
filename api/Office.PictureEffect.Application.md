@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[PictureEffect Object Members](./overview/pictureeffect-members-office.md)
+[PictureEffect Object Members](./overview/Library-Reference/pictureeffect-members-office.md)
 

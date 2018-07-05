@@ -27,5 +27,5 @@ Retrieves the primary category name associated with the SmartArt layout. Read-on
 
 
 
-[SmartArtLayout Object Members](./overview/smartartlayout-members-office.md)
+[SmartArtLayout Object Members](./overview/Library-Reference/smartartlayout-members-office.md)
 

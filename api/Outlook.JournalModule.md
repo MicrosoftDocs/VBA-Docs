@@ -42,4 +42,4 @@ You can use the  **[Visible](Outlook.JournalModule.Visible.md)** property to det
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

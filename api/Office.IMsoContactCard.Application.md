@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[IMsoContactCard Object Members](./overview/imsocontactcard-members-office.md)
+[IMsoContactCard Object Members](./overview/Library-Reference/imsocontactcard-members-office.md)
 

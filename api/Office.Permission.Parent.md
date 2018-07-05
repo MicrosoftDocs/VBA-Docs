@@ -35,5 +35,5 @@ Object
 
 
 
-[Permission Object Members](./overview/permission-members-office.md)
+[Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 

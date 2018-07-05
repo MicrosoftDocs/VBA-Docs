@@ -49,4 +49,4 @@ You can use the  **Add** method of the **SearchFolders** collection to add a **S
 
 
 
-[Object Model Reference](./overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)

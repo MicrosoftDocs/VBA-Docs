@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **PickerPrope
 
 
 
-[PickerProperty Object Members](./overview/pickerproperty-members-office.md)
+[PickerProperty Object Members](./overview/Library-Reference/pickerproperty-members-office.md)
 

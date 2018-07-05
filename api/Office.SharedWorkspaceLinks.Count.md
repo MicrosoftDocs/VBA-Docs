@@ -38,5 +38,5 @@ Long
 
 
 
-[SharedWorkspaceLinks Object Members](./overview/sharedworkspacelinks-members-office.md)
+[SharedWorkspaceLinks Object Members](./overview/Library-Reference/sharedworkspacelinks-members-office.md)
 

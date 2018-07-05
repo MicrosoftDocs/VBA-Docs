@@ -15,14 +15,14 @@ For more information about a specific control, select an object from the followi
 
 
 
-[CheckBox](../../../Language-Reference/Language-Reference/User-Interface-Help/checkbox-control.md) | 
-[ComboBox](../../../Language-Reference/Language-Reference/User-Interface-Help/combobox-control.md) | 
-[CommandButton](../../../Language-Reference/Language-Reference/User-Interface-Help/commandbutton-control.md) | 
-[Image](../../../Language-Reference/Language-Reference/User-Interface-Help/image-control.md) | 
-[Label](../../../Language-Reference/Language-Reference/User-Interface-Help/label-control.md) | 
-[ListBox](../../../Language-Reference/Language-Reference/User-Interface-Help/listbox-control.md) |  [OptionButton](../../../Language-Reference/Language-Reference/User-Interface-Help/optionbutton-control.md) | 
-[ScrollBar](../../../Language-Reference/Language-Reference/User-Interface-Help/scrollbar-control.md) | 
-[SpinButton](../../../Language-Reference/Language-Reference/User-Interface-Help/spinbutton-control.md) | 
-[TextBox](../../../Language-Reference/Language-Reference/User-Interface-Help/textbox-control.md) | 
-[ToggleButton](../../../Language-Reference/Language-Reference/User-Interface-Help/togglebutton-control.md)
+[CheckBox](../../../language/reference/User-Interface-Help/checkbox-control.md) | 
+[ComboBox](../../../language/reference/User-Interface-Help/combobox-control.md) | 
+[CommandButton](../../../language/reference/User-Interface-Help/commandbutton-control.md) | 
+[Image](../../../language/reference/User-Interface-Help/image-control.md) | 
+[Label](../../../language/reference/User-Interface-Help/label-control.md) | 
+[ListBox](../../../language/reference/User-Interface-Help/listbox-control.md) |  [OptionButton](../../../language/reference/User-Interface-Help/optionbutton-control.md) | 
+[ScrollBar](../../../language/reference/User-Interface-Help/scrollbar-control.md) | 
+[SpinButton](../../../language/reference/User-Interface-Help/spinbutton-control.md) | 
+[TextBox](../../../language/reference/User-Interface-Help/textbox-control.md) | 
+[ToggleButton](../../../language/reference/User-Interface-Help/togglebutton-control.md)
 

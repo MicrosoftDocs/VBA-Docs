@@ -48,6 +48,6 @@ For more information about building blocks, see [Working with Building Blocks](.
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 
 

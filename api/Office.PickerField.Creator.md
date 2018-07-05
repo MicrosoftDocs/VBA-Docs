@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **PickerField
 
 
 
-[PickerField Object Members](./overview/pickerfield-members-office.md)
+[PickerField Object Members](./overview/Library-Reference/pickerfield-members-office.md)
 

@@ -40,5 +40,5 @@ This property is used to return information representing various metadata proper
 
 
 
-[MetaProperties Object Members](./overview/metaproperties-members-office.md)
+[MetaProperties Object Members](./overview/Library-Reference/metaproperties-members-office.md)
 

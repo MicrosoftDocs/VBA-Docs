@@ -37,5 +37,5 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.QuickStyle = Application.SmartAr
 
 
 
-[SmartArt Object Members](./overview/smartart-members-office.md)
+[SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Name Object (Excel)
 keywords: vbaxl10.chm489072
 f1_keywords:
@@ -104,4 +104,4 @@ Worksheets(1).Range("a1:b1").Name.Visible = False
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)

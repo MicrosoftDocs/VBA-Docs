@@ -40,5 +40,5 @@ Examples of  **MsoTextChangeCase** enumeration include **msoCaseLower**, **msoCa
 
 
 
-[TextRange2 Object Members](./overview/textrange2-members-office.md)
+[TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 

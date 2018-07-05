@@ -70,5 +70,5 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 
-[ICTPFactory Object Members](./overview/ictpfactory-members-office.md)
+[ICTPFactory Object Members](./overview/Library-Reference/ictpfactory-members-office.md)
 

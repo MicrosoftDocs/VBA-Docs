@@ -35,5 +35,5 @@ String
 
 
 
-[SignatureSetup Object Members](./overview/signaturesetup-members-office.md)
+[SignatureSetup Object Members](./overview/Library-Reference/signaturesetup-members-office.md)
 

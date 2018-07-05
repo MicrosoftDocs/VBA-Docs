@@ -38,5 +38,5 @@ The Microsoft SharePoint Team Services user interface allows users to copy a pub
 
 
 
-[SharedWorkspace Object Members](./overview/sharedworkspace-members-office.md)
+[SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 

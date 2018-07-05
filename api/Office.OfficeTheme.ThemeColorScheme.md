@@ -32,5 +32,5 @@ ThemeColorScheme
 
 
 
-[OfficeTheme Object Members](./overview/officetheme-members-office.md)
+[OfficeTheme Object Members](./overview/Library-Reference/officetheme-members-office.md)
 

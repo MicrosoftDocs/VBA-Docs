@@ -51,5 +51,5 @@ End Sub
 
 
 
-[CustomXMLPart Object Members](./overview/customxmlpart-members-office.md)
+[CustomXMLPart Object Members](./overview/Library-Reference/customxmlpart-members-office.md)
 

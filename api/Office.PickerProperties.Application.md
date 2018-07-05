@@ -27,5 +27,5 @@ Gets an  **Application** object that represents the container application for th
 
 
 
-[PickerProperties Object Members](./overview/pickerproperties-members-office.md)
+[PickerProperties Object Members](./overview/Library-Reference/pickerproperties-members-office.md)
 

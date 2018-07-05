@@ -37,5 +37,5 @@ mySG.SeriesColor.Color = RGB(255, 0, 0)
 
 ## See also
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 

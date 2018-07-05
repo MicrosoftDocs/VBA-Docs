@@ -30,5 +30,5 @@ Retrieves the unique Id of the associated  **PickerProperty** object. Read-only
 
 
 
-[PickerProperty Object Members](./overview/pickerproperty-members-office.md)
+[PickerProperty Object Members](./overview/Library-Reference/pickerproperty-members-office.md)
 

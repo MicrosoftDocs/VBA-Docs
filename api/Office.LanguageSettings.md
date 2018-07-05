@@ -52,7 +52,7 @@ End If
 ## See also
 
 
-[Object Model Reference](overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-[LanguageSettings Object Members](./overview/languagesettings-members-office.md)
+[LanguageSettings Object Members](./overview/Library-Reference/languagesettings-members-office.md)
 

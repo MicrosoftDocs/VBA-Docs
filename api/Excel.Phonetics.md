@@ -1,4 +1,4 @@
----
+﻿---
 title: Phonetics Object (Excel)
 keywords: vbaxl10.chm657072
 f1_keywords:
@@ -43,6 +43,6 @@ ActiveCell.Phonetics(1).Text = "フリガナ"
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

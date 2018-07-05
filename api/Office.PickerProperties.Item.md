@@ -38,5 +38,5 @@ Retrieves a  **PickerProperty** object at the specified index. Read-only
 
 
 
-[PickerProperties Object Members](./overview/pickerproperties-members-office.md)
+[PickerProperties Object Members](./overview/Library-Reference/pickerproperties-members-office.md)
 

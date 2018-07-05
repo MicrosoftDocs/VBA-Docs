@@ -60,5 +60,5 @@ End Sub
 
 
 
-[WorkflowTask Object Members](./overview/workflowtask-members-office.md)
+[WorkflowTask Object Members](./overview/Library-Reference/workflowtask-members-office.md)
 

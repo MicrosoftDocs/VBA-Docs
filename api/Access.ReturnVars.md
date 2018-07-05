@@ -37,4 +37,4 @@ The  **RetunVars** collection can store up to 255 **ReturnVar** objects.
 ## See also
 
 
-[Access Object Model Reference](./overview/object-model-access-vba-reference.md)
+[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)

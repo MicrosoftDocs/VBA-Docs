@@ -40,5 +40,5 @@ The specific class for this property depends on the host application.
 
 
 
-[CustomTaskPane Object Members](./overview/customtaskpane-members-office.md)
+[CustomTaskPane Object Members](./overview/Library-Reference/customtaskpane-members-office.md)
 

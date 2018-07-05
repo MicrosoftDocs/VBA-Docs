@@ -81,5 +81,5 @@ Note that even after you release your reference and attempt to obtain a new refe
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [RecurrencePattern Object Members](./overview/Outlook.md)

@@ -42,5 +42,5 @@ The  **Creator** property always returns the numeric identifier for the active a
 
 
 
-[SharedWorkspaceFiles Object Members](./overview/sharedworkspacefiles-members-office.md)
+[SharedWorkspaceFiles Object Members](./overview/Library-Reference/sharedworkspacefiles-members-office.md)
 

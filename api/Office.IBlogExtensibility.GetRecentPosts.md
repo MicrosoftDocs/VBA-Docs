@@ -45,5 +45,5 @@ Returns the list of the user's last fifteen blog posts that Microsoft Word then 
 
 
 
-[IBlogExtensibility Object Members](./overview/iblogextensibility-members-office.md)
+[IBlogExtensibility Object Members](./overview/Library-Reference/iblogextensibility-members-office.md)
 

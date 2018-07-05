@@ -54,5 +54,5 @@ The following example removes the second user's permissions on the active docume
 
 
 
-[UserPermission Object Members](overview/userpermission-members-office.md)
+[UserPermission Object Members](./overview/Library-Reference/userpermission-members-office.md)
 

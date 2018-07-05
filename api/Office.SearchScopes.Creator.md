@@ -32,5 +32,5 @@ Long
 
 
 
-[SearchScopes Object Members](./overview/searchscopes-members-office.md)
+[SearchScopes Object Members](./overview/Library-Reference/searchscopes-members-office.md)
 

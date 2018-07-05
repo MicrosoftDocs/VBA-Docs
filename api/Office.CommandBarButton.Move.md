@@ -59,5 +59,5 @@ Next
 
 
 
-[CommandBarButton Object Members](overview/commandbarbutton-members-office.md)
+[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
 

@@ -48,5 +48,5 @@ The output of this method is another session handle with the same encryption set
 
 
 
-[EncryptionProvider Object Members](./overview/encryptionprovider-members-office.md)
+[EncryptionProvider Object Members](./overview/Library-Reference/encryptionprovider-members-office.md)
 

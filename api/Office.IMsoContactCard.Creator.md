@@ -27,5 +27,5 @@ Gets a 32-bit integer that indicates the application in which the  **IMsoContact
 
 
 
-[IMsoContactCard Object Members](./overview/imsocontactcard-members-office.md)
+[IMsoContactCard Object Members](./overview/Library-Reference/imsocontactcard-members-office.md)
 

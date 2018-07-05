@@ -66,5 +66,5 @@ ActivePresentation.Slides(2).Shapes(5).Table.Columns(1).Select
 ## See also
 
 
-[PowerPoint Object Model Reference](overview/object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 

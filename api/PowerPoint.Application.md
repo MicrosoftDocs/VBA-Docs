@@ -169,4 +169,4 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)

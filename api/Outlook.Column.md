@@ -38,4 +38,4 @@ To obtain the value of a property (column) for a specific item (row) in a  **Tab
 ## See also
 
 
-[Outlook Object Model Reference](./overview/object-model-outlook-vba-reference.md)
+[Outlook Object Model Reference](./overview/Outlook/object-model.md)

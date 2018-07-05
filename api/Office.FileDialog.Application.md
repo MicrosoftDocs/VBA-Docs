@@ -32,5 +32,5 @@ Object
 
 
 
-[FileDialog Object Members](./overview/filedialog-members-office.md)
+[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
 

@@ -240,5 +240,5 @@ For more information about working with  **Range** objects, see [Working with Ra
 ## See also
 
 
-[Word Object Model Reference](./overview/object-model-word-vba-reference.md)
+[Word Object Model Reference](./overview/Word/object-model.md)
 

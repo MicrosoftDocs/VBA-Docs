@@ -38,5 +38,5 @@ Gets a value that indicates which file type will be searched for. Read-only.
 
 
 
-[FileTypes Object Members](overview/filetypes-members-office.md)
+[FileTypes Object Members](./overview/Library-Reference/filetypes-members-office.md)
 

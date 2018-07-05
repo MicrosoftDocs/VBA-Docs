@@ -35,6 +35,6 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 ## See also
 
 
-[Excel Object Model Reference](./overview/object-model-excel-vba-reference.md)
+[Excel Object Model Reference](./overview/Excel/object-model.md)
 
 

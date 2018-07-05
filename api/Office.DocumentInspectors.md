@@ -43,8 +43,8 @@ End Sub
 ## See also
 
 
-[Object Model Reference](overview/reference-object-library-reference-for-office.md)
+[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-[DocumentInspectors Object Members](./overview/documentinspectors-members-office.md)
+[DocumentInspectors Object Members](./overview/Library-Reference/documentinspectors-members-office.md)
 

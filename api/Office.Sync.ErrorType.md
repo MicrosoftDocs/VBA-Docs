@@ -43,5 +43,5 @@ Use the  **ErrorType** property to determine the type of the most recent documen
 
 
 
-[Sync Object Members](overview/sync-members-office.md)
+[Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 

@@ -55,5 +55,5 @@ If the  **CommandBars** collection contains two or more controls that fit the se
 
 
 
-[CommandBar Object Members](./overview/commandbar-members-office.md)
+[CommandBar Object Members](./overview/Library-Reference/commandbar-members-office.md)
 

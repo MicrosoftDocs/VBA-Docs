@@ -30,5 +30,5 @@ Gets PickerResult collection if the result of resolving results has multiple can
 
 
 
-[PickerResult Object Members](./overview/pickerresult-members-office.md)
+[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 

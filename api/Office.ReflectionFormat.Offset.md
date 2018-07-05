@@ -27,5 +27,5 @@ Gets or sets the amount of separation, measured in points, of the reflected imag
 
 
 
-[ReflectionFormat Object Members](./overview/reflectionformat-members-office.md)
+[ReflectionFormat Object Members](./overview/Library-Reference/reflectionformat-members-office.md)
 

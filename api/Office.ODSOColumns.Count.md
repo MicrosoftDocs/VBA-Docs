@@ -35,5 +35,5 @@ Long
 
 
 
-[ODSOColumns Object Members](./overview/odsocolumns-members-office.md)
+[ODSOColumns Object Members](./overview/Library-Reference/odsocolumns-members-office.md)
 

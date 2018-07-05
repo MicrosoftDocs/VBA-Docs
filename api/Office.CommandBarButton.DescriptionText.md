@@ -40,5 +40,5 @@ The description is not displayed to the user, but it can be useful for documenti
 
 
 
-[CommandBarButton Object Members](./overview/commandbarbutton-members-office.md)
+[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
 

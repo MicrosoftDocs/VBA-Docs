@@ -53,4 +53,4 @@ ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange _
 ## See also
 
 
-[PowerPoint Object Model Reference](./overview/object-model-powerpoint-vba-reference.md)
+[PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
