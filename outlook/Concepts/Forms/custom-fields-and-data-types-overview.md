@@ -36,5 +36,6 @@ You can create and view custom fields in table views and card views. You can cre
 | **Percent**|Numeric data as a percentage.|
 | **Text**|Text or combinations of text and numbers, such as addresses. Can be up to 255 characters long.|
 | **Yes/No**|Data that contains only one of two values, such as Yes/No, True/False, On/Off. |
+
 Each of the data types except  **Combination**,  **Formula**, and  **Keywords** has a series of standard formats that you can use to show the values of the fields.
 

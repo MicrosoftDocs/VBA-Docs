@@ -45,6 +45,7 @@ Microsoft Access calls the user-defined function by repeatedly using different v
 |**acLBGetFormat**|Format string|Format string to be used to format the list entry displayed in the row and column specified by the  _row_ and _col_ arguments; -1 to use the default format.|
 |**acLBEnd**|End (the last call to a user-defined function always uses this value)|Nothing.|
 |**acLBClose**|(Not used)|Not used.|
+
 Microsoft Access calls your user-defined function once for  **acLBInitialize**, **acLBOpen**, **acLBGetRowCount**, and **acLBGetColumnCount**. It initializes the user-defined function, opens the query, and determines the number of rows and columns.
 Microsoft Access calls your user-defined function twice for  **acLBGetColumnWidth** — once to determine the total width of the list box or combo box and a second time to set the column width.
 The number of times your user-defined function is called for  **acLBGetValue** and **acLBGetFormat** to get list entries and to format strings varies depending on the number of entries, the user's scrolling, and other factors.

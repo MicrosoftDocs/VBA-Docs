@@ -30,6 +30,7 @@ You can create custom text and memo formats by using the following symbols.
 |&;|Text character is not required.|
 |<|Force all characters to lowercase.|
 |>|Force all characters to uppercase.|
+
 Custom formats for Text and Memo fields can have up to two sections. Each section contains the format specification for different data in a field.
 
 
@@ -38,6 +39,7 @@ Custom formats for Text and Memo fields can have up to two sections. Each sectio
 |:-----|:-----|
 |First|Format for fields with text.|
 |Second|Format for fields with zero-length strings and  **Null** values.|
+
 For example, if you have a text box control in which you want the word "None" to appear when there is no string in the field, you could type the custom format  **@;"None"** as the control's **Format** property setting. The @ symbol causes the text from the field to be displayed; the second section causes the word "None" to appear when there is a zero-length string or Null value in the field.
 
 
@@ -59,6 +61,7 @@ The following are examples of text and memo custom formats.
 |@;"Unknown"|**Null** value|Unknown|
 ||Zero-length string|Unknown|
 ||Any text| _Same text as entered is displayed_|
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

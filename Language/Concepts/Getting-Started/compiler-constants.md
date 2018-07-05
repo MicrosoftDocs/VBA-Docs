@@ -36,6 +36,7 @@ On 16-bit development platforms, the compiler constants are defined as follows:
 |**Win16**|**True**|Indicates development environment is 16-bit compatible.|
 |**Win32**|**False**|Indicates that the development environment is not 32-bit compatible.|
 |**Win64**|**False**|Indicates that the development environment is not 64-bit compatible.|
+
 On 32-bit development platforms, the compiler constants are defined as follows:
 
 
@@ -50,6 +51,7 @@ On 32-bit development platforms, the compiler constants are defined as follows:
 |**Win64**|**False**|Indicates that the development environment is not 64-bit compatible.|
 |**Mac**|**True**|Indicates that the development environment is Macintosh.|
 |**Mac**|**False**|Indicates that the development environment is not Macintosh.|
+
 On 64-bit development platforms, the compiler constants are defined as follows:
 
 

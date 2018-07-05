@@ -51,6 +51,7 @@ Custom number formats can have one to four sections with semicolons (;) as the l
 |Second|The format for negative numbers.|
 |Third|The format for zero values.|
 |Fourth|The format for  **Null** values.|
+
 For example, you could use the following custom Currency format:
 
 

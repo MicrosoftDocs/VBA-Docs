@@ -32,6 +32,7 @@ The following table shows the predefined  **Format** property settings for the D
 |Long Time|Same as the setting on the  **Time** tab in the regional settings of Windows. Example: 5:34:23 PM.|
 |Medium Time|Example: 5:34 PM.|
 |Short Time|Example: 17:34.|
+
  **Custom Formats**
 
 You can create custom date and time formats by using the following symbols.
@@ -69,6 +70,7 @@ You can create custom date and time formats by using the following symbols.
 |A/P|Twelve-hour clock with the uppercase letter "A" or "P", as appropriate.|
 |a/p|Twelve-hour clock with the lowercase letter "a" or "p", as appropriate.|
 |AMPM|Twelve-hour clock with the appropriate morning/afternoon designator as defined in the regional settings of Windows.|
+
 Custom formats are displayed according to the settings specified in the regional settings of Windows. Custom formats inconsistent with the settings specified in the regional settings of Windows are ignored.
 
 |**Note**|

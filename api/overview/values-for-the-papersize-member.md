@@ -59,6 +59,7 @@ ms.date: 06/08/2017
 |40|German Std Fanfold (8.5 x 12 in.)|
 |41|German Legal Fanfold (8.5 x 13 in.)|
 |256|User-defined|
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

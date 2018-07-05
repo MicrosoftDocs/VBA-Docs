@@ -31,6 +31,7 @@ ms.date: 06/08/2017
 |11|Large-capacity bin|
 |14|Cassette bin|
 |256|Device-specific bins start here|
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
