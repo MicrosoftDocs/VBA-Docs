@@ -83,6 +83,6 @@ This routine is triggered after the user changes the text in the first text cont
 
 This example is very simple, but it shows what you can do with events, XML mapping, and content controls. You can use code such as this to update any text in a document when one text content control is changed. This is powerful because it assumes nothing about the document formatting, and it does not work with the document formatting. Instead, it works against the schema that you attach to the document.
 
- [Bind a Content Control to a Node in the Data Store](bind-a-content-control-to-a-node-in-the-data-store.md)
- [Bind a Content Control to a Node in the Data Store](bind-a-content-control-to-a-node-in-the-data-store.md)
+ [Bind a Content Control to a Node in the Data Store](../Objects-Properties-Methods/bind-a-content-control-to-a-node-in-the-data-store.md)
+ [Bind a Content Control to a Node in the Data Store](../Objects-Properties-Methods/bind-a-content-control-to-a-node-in-the-data-store.md)
 

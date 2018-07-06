@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Combines the features of a  **ListBox** and a **TextBox**. The user can enter a new value, as with a **TextBox**, or the user can select an existing value as with a **ListBox**.
  **Remarks**
-If a  **ComboBox** is[bound](glossary-vba.md) to a[data source](glossary-vba.md), then the  **ComboBox** inserts the value the user enters or selects into that data source. If a multicolumn combo box is bound, then the **BoundColumn** property determines which value is stored in the bound data source.
+If a  **ComboBox** is[bound](../../../language/Glossary/glossary-vba.md) to a[data source](../../../language/Glossary/glossary-vba.md), then the  **ComboBox** inserts the value the user enters or selects into that data source. If a multicolumn combo box is bound, then the **BoundColumn** property determines which value is stored in the bound data source.
 The list in a  **ComboBox** consists of rows of data. Each row can have one or more columns, which can appear with or without headings. Some applications do not support column headings, others provide only limited support.
 The default property of a  **ComboBox** is the **Value** property.
 The default event of a  **ComboBox** is the Change event.

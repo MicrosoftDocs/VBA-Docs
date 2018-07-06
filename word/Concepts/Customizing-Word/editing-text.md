@@ -24,7 +24,7 @@ This topic includes Visual Basic examples related to the following tasks:
 
 For information about, and examples of, other editing tasks, see the following topics:
 
- [Returning text from a document](returning-text-from-a-document.md)<br>
+ [Returning text from a document](../Miscellaneous/returning-text-from-a-document.md)<br>
  [Selecting text in a document](selecting-text-in-a-document.md)<br>
  [Inserting text in a document](inserting-text-in-a-document.md)<br>
  [Manipulating a portion of a document](modifying-a-portion-of-a-document.md)<br>
@@ -98,7 +98,7 @@ End Sub
 
 ## Redefining a selection or range
 
-Use the  **SetRange**method to redefine an existing  **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Miscellaneous/working-with-the-selection-object.md) or [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
+Use the  **SetRange**method to redefine an existing  **Selection** object or **Range** object. For more information, see [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md) or [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 
 ## Changing text

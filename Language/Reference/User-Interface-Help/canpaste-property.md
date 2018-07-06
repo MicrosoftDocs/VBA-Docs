@@ -36,5 +36,5 @@ The  **CanPaste** property return values are:
 
  **Remarks**
  **CanPaste** is read-only.
-If the Clipboard data is in a [format](glossary-vba.md) that the current[target](glossary-vba.md) object does not support, the **CanPaste** property is **False**. For example, if you try to paste a bitmap into an object that only supports text, **CanPaste** will be **False**.
+If the Clipboard data is in a [format](../../../language/Glossary/glossary-vba.md) that the current[target](../../../language/Glossary/glossary-vba.md) object does not support, the **CanPaste** property is **False**. For example, if you try to paste a bitmap into an object that only supports text, **CanPaste** will be **False**.
 

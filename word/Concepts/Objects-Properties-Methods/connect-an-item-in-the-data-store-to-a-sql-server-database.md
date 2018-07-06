@@ -28,7 +28,7 @@ The programmatic objects that are used in this sample are as follows:
     
 -  **[XMLMapping](../../../api/Word.XMLMapping.md)**
     
-For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
+For more information about content controls, see  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md).
 
 ## Business Scenario: Create a Customer Document Generator
 

@@ -258,5 +258,5 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)
 

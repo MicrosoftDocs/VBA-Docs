@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Control Toolbox Overview
 
-The  [Control Toolbox](show-or-hide-the-control-toolbox.md) identifies the controls that you can add to a **Frame** or a page of a form.
+The  [Control Toolbox](../Specifying-Form-Behavior/show-or-hide-the-control-toolbox.md) identifies the controls that you can add to a **Frame** or a page of a form.
 
 You can customize the  **Control Toolbox** in many ways including the following:
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: DoCmd Object (Access)
 keywords: vbaac10.chm4241
 f1_keywords:
@@ -135,5 +135,5 @@ End Sub
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)
 

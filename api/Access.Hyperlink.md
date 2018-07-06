@@ -36,5 +36,5 @@ Use the  **Hyperlink** property to return a reference to a hyperlink object.
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)
 [Hyperlink Object Members](./overview/Access.md)

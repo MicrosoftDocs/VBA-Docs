@@ -22,7 +22,7 @@ Remember the following points when you work with controls on documents:
     
 - If you want the user to use the ActiveX controls but not change the layout of the document, protect the document by clicking the  **Protect Form** button on the **Forms** toolbar.
     
-- Microsoft Word implements the  **LostFocus** and **GotFocus** events for ActiveX controls on a document. The other events listed in the **Procedure** drop-down list box are documented in Microsoft Forms Help. For more information about using events with ActiveX controls, see the [Control and dialog box events](control-and-dialog-box-events-word.md) and the [Using events with ActiveX controls](using-events-with-activex-controls.md) topics.
+- Microsoft Word implements the  **LostFocus** and **GotFocus** events for ActiveX controls on a document. The other events listed in the **Procedure** drop-down list box are documented in Microsoft Forms Help. For more information about using events with ActiveX controls, see the [Control and dialog box events](../Customizing-Word/control-and-dialog-box-events-word.md) and the [Using events with ActiveX controls](using-events-with-activex-controls.md) topics.
     
 - If you want to add form fields instead of ActiveX controls to your document to create an online form, use the  **Forms** toolbar.
     

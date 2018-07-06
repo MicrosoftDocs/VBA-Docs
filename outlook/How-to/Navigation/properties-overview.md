@@ -38,7 +38,7 @@ The Outlook object model provides several approaches to access Outlook propertie
     
   -  **[Folder](../../../api/Outlook.Folder.md)**
     
-  -  **[Outlook item objects](outlook-item-objects.md)**
+  -  **[Outlook item objects](../Items-Folders-and-Stores/outlook-item-objects.md)**
     
   -  **[Recipient](../../../api/Outlook.Recipient.md)**
     

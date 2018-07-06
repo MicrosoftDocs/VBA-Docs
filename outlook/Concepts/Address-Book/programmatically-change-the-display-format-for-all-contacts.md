@@ -12,7 +12,7 @@ In Outlook, you can specify the default setting for how to file new contacts thr
 
 This topic shows a code sample that goes through all the Contact items in the default Contacts folder and uses the  **[FileAs](../../../api/Outlook.ContactItem.FileAs.md)** property of each Contact item to specify the string to file the contact by; in this particular example, the string is changed to first name followed by a blank and then the last name. The code sample then saves the changes to the Contact item.
 
- **Note**  Generally, a folder in Outlook can contain heterogeneous items, and the Contact folder can contain  **[ContactItem](../../../api/Outlook.ContactItem.md)** objects as well as other items. The code sample ensures that it only changes the file-as format for Contact items by filtering on the message class IPM.Contact. For more information on item types and message classes, see [Item Types and Message Classes](item-types-and-message-classes.md).
+ **Note**  Generally, a folder in Outlook can contain heterogeneous items, and the Contact folder can contain  **[ContactItem](../../../api/Outlook.ContactItem.md)** objects as well as other items. The code sample ensures that it only changes the file-as format for Contact items by filtering on the message class IPM.Contact. For more information on item types and message classes, see [Item Types and Message Classes](../Forms/item-types-and-message-classes.md).
 
 
 

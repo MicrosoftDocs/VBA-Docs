@@ -98,6 +98,6 @@ The following example applies bold formatting to the first paragraph.
 ActiveDocument.Paragraphs(1).Range.Bold = True
 ```
 
-Both of these example change the formatting in the active document without changing the selection. For more information about the  **Range** object, see [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
+Both of these example change the formatting in the active document without changing the selection. For more information about the  **Range** object, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 

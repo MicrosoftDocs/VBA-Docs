@@ -14,7 +14,7 @@ While you can create and run forms with form regions without a COM add-in, using
 
 ## Specifying the Use of an Add-in
 
-When you register the form region for a message class, create a key in the Windows registry for that message class (if the key does not yet exist), and specify as data, an equal sign ( **=**) followed by the ProgID of the add-in. For more information on registering a form region in the Windows registry, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+When you register the form region for a message class, create a key in the Windows registry for that message class (if the key does not yet exist), and specify as data, an equal sign ( **=**) followed by the ProgID of the add-in. For more information on registering a form region in the Windows registry, see  [Specifying Form Regions in the Windows Registry](../Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
 
 
 ## Implementing FormRegionStartup
@@ -172,7 +172,7 @@ checkBox1.Value = true;
 
 When Outlook starts, it reads the list of form regions from the Windows registry and caches the data. Based on this data, if Outlook notices that an add-in is to provide the XML manifest for a form region, Outlook will use the ProgID provided in the cached data and call the  **GetFormRegionManifest** method implemented by this add-in to obtain the XML it needs to display the form region. If the XML manifest is not valid and does not conform to the form region XML schema, Outlook will not be able to load the form region.
 
-For more information on specifying a ProgID when registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
+For more information on specifying a ProgID when registering a form region, see  [Specifying Form Regions in the Windows Registry](../Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
 
 The Visual Basic and C# method prototypes for  **GetFormRegionManifest** are shown below.
 

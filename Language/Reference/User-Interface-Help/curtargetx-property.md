@@ -28,7 +28,7 @@ The  **CurTargetX** property syntax has these parts:
  **Return Values**
 The  **CurTargetX** property retrieves the preferred position, measured in himetric units. A himetric is 0.0001 meter.
  **Remarks**
-The [target](glossary-vba.md) position is relative to the left edge of the control. If the length of a line is less than the value of the **CurTargetX** property, you can place the insertion point at the end of the the line. The value of **CurTargetX** changes when the user sets the insertion point or when the **CurX** property is set. **CurTargetX** is read-only.
+The [target](../../../language/Glossary/glossary-vba.md) position is relative to the left edge of the control. If the length of a line is less than the value of the **CurTargetX** property, you can place the insertion point at the end of the the line. The value of **CurTargetX** changes when the user sets the insertion point or when the **CurX** property is set. **CurTargetX** is read-only.
 The return value is valid when the object has [focus](vbe-glossary.md).
 You can use  **CurTargetX** and **CurX** to move the insertion point as the user scrolls through the contents of a multiline **TextBox** or **ComboBox**. When the user moves the insertion point to another line of text by scrolling the content of the object, **CurTargetX** specifies the preferred position for the insertion point. **CurX** is set to this value if the line of text is longer than the value of **CurTargetX**. Otherwise, **CurX** is set to the end of the line of text.
 

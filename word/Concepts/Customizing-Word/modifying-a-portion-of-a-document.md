@@ -117,6 +117,6 @@ Sub SetParagraphRange()
 End Sub
 ```
 
-For more information about defining  **Range** objects, see [Working with Range objects](../Miscellaneous/working-with-range-objects.md).
+For more information about defining  **Range** objects, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
 

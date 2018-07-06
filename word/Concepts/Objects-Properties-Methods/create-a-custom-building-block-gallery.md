@@ -58,6 +58,6 @@ End Sub
 ## Additional Resources
 
 
--  [Working with Building Blocks](working-with-building-blocks.md)
+-  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)
     
 
