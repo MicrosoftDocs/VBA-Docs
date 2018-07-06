@@ -19,7 +19,7 @@ The following table summarizes the namespaces and the Outlook objects that the n
 
 | **Namespaces**| **Supported Outlook Objects**|
 |:-----|:-----|
-|http://schemas.microsoft.com/mapi/proptag| [Outlook item objects](outlook-item-objects.md),  **[AddressEntry](../../../api/Outlook.AddressEntry.md)**,  **[AddressList](../../../api/Outlook.AddressList.md)**,  **[Attachment](../../../api/Outlook.Attachment.md)**,  **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**,  **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**,  **[Folder](../../../api/Outlook.Folder.md)**,  **[Recipient](../../../api/Outlook.Recipient.md)**, and  **[Store](../../../api/Outlook.Store.md)** objects.|
+|http://schemas.microsoft.com/mapi/proptag| [Outlook item objects](../Items-Folders-and-Stores/outlook-item-objects.md),  **[AddressEntry](../../../api/Outlook.AddressEntry.md)**,  **[AddressList](../../../api/Outlook.AddressList.md)**,  **[Attachment](../../../api/Outlook.Attachment.md)**,  **[ExchangeDistributionList](../../../api/Outlook.ExchangeDistributionList.md)**,  **[ExchangeUser](../../../api/Outlook.ExchangeUser.md)**,  **[Folder](../../../api/Outlook.Folder.md)**,  **[Recipient](../../../api/Outlook.Recipient.md)**, and  **[Store](../../../api/Outlook.Store.md)** objects.|
 |http://schemas.microsoft.com/mapi/id| (Same as above)|
 |http://schemas.microsoft.com/mapi/string|(Same as above)|
 |http://schemas.microsoft.com/exchange|(Same as above)|

@@ -15,15 +15,15 @@ Just as you can add ActiveX controls to  [custom dialog boxes](creating-a-custom
     
     To add a control to the drawing layer of a document, click the control on the  **Control Toolbox**. To add a control to the text layer of a document, hold down the SHIFT key while you click a control on the  **Control Toolbox**.
     
-2.  [Set control properties](setting-control-properties-word.md)
+2.  [Set control properties](../Miscellaneous/setting-control-properties-word.md)
     
     Right-click a control in design mode and click  **Properties** to display the **Properties** window.
     
-3.  [Initialize the controls](initializing-control-properties-word.md)
+3.  [Initialize the controls](../Customizing-Word/initializing-control-properties-word.md)
     
     You can initialize controls in a procedure.
     
-4.  [Write event procedures](control-and-dialog-box-events-word.md)
+4.  [Write event procedures](../Customizing-Word/control-and-dialog-box-events-word.md)
     
     All controls have a predefined set of events. For example, a command button has a  **Click** event that occurs when the user clicks the command button. You can write event procedures that run when the events occur.
     

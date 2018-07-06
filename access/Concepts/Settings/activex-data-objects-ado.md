@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ## In this section
 
 
-- [Bind a Form to an ADO Recordset](bind-a-form-to-an-ado-recordset.md)
+- [Bind a Form to an ADO Recordset](../ActiveX-Data-Objects/bind-a-form-to-an-ado-recordset.md)
     
-- [Set Properties of ActiveX Data Objects in Visual Basic](set-properties-of-activex-data-objects-in-visual-basic.md)
+- [Set Properties of ActiveX Data Objects in Visual Basic](../ActiveX-Data-Objects/set-properties-of-activex-data-objects-in-visual-basic.md)
     
 - [Create an ADO Connection String](create-an-ado-connection-string.md)
     

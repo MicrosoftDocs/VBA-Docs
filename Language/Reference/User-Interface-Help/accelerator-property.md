@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Sets or retrieves the [accelerator key](glossary-vba.md) for a control.
+Sets or retrieves the [accelerator key](../../../language/Glossary/glossary-vba.md) for a control.
  **Syntax**
  _object_. **Accelerator** [= _String_ ]
 The  **Accelerator** property syntax has these parts:

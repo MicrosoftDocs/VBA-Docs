@@ -153,4 +153,4 @@ It's also possible to use an unbound option button in a custom dialog box to acc
 
 
 [OptionButton Object Members](./overview/Access.md)
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)

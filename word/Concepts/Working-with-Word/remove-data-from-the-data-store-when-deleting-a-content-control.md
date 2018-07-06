@@ -110,5 +110,5 @@ End Sub
 ```
 ## Additional Resources
 
- [Bind a Content Control to a Node in the Data Store](bind-a-content-control-to-a-node-in-the-data-store.md)
+ [Bind a Content Control to a Node in the Data Store](../Objects-Properties-Methods/bind-a-content-control-to-a-node-in-the-data-store.md)
 

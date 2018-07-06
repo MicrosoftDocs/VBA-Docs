@@ -31,7 +31,7 @@ The  **Column** property syntax has these parts:
  **Settings**
 If you specify both the column and row values,  **Column** reads or writes a specific item.
 If you specify only the column value, the  **Column** property reads or writes the specified column in the current row of the object. For example, MyListBox.Column (3) reads or writes the third column in MyListBox.
- **Column** returns a _Variant_ from the cursor. When a built-in[cursor](glossary-vba.md) provides the value for _Variant_ (such as when using the **AddItem** method), the value is a string. When an external cursor provides the value for _Variant_, formatting associated with the data is not included in the _Variant_.
+ **Column** returns a _Variant_ from the cursor. When a built-in[cursor](../../../language/Glossary/glossary-vba.md) provides the value for _Variant_ (such as when using the **AddItem** method), the value is a string. When an external cursor provides the value for _Variant_, formatting associated with the data is not included in the _Variant_.
  **Remarks**
 You can use  **Column** to assign the contents of a combo box or list box to another control, such as a text box. For example, you can set the **ControlSource** property of a text box to the value in the second column of a list box.
 If the user makes no selection when you refer to a column in a combo box or list box, the  **Column** setting is **Null**. You can check for this condition by using the IsNull function.

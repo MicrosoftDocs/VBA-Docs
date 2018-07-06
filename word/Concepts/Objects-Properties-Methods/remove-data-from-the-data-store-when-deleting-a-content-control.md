@@ -18,7 +18,7 @@ ActiveDocument.ContentControls.Item("MyTitle").Delete
 
 You can also delete a single node by calling the  **Delete** method of the **CustomDataXMLNode** object that you want to remove. You can delete an entire custom XML part by calling the **Delete** method of the **CustomXMLPart** object that you want to remove.
 
-For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
+For more information about content controls, see  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md).
 The objects used in these samples are:
 
 -  **[ContentControl](../../../api/Word.ContentControl.md)**

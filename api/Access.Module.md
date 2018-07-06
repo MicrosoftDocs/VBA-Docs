@@ -114,5 +114,5 @@ Once you've returned a reference to a  **Module** object, you can set or read it
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)
 [Module Object Members](./overview/Access.md)

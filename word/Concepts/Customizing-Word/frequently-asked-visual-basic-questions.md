@@ -26,7 +26,7 @@ ms.date: 06/08/2017
 
  [How do I refer to the active element (for example, paragraph, table, field)?](../Miscellaneous/referring-to-the-active-document-element.md)
 
- [What is a Range object?](../Miscellaneous/working-with-range-objects.md)
+ [What is a Range object?](../Working-with-Word/working-with-range-objects.md)
 
  [How do I refer to words, sentences, paragraphs, or sections in a document?](modifying-a-portion-of-a-document.md)
 
@@ -44,7 +44,7 @@ ms.date: 06/08/2017
 
  [How do I prompt for information from the user?](../Miscellaneous/prompting-for-information.md)
 
- [How do I return text from a document?](returning-text-from-a-document.md)
+ [How do I return text from a document?](../Miscellaneous/returning-text-from-a-document.md)
 
  [How do I know if the Application property is needed before a top-level property or method?](determining-whether-the-application-property-is-necessary.md)
 

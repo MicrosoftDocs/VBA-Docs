@@ -44,4 +44,4 @@ Use the [Execute](Access.Operation.Execute.md) method to execute the operation.
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)

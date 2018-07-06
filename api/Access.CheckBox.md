@@ -157,5 +157,5 @@ You can also use check boxes in an option group to display values to choose from
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)<br/>
+[Access Object Model Reference](./overview/Access/object-model.md)<br/>
 [CheckBox Object Members](./overview/Access.md)

@@ -29,4 +29,4 @@ Represents a parameter defined for an [Operation](Access.Operation.md).
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)

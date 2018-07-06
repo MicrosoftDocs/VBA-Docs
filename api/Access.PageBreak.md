@@ -57,5 +57,5 @@ Position page breaks above or below other controls. Placing a page break on the 
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)
 

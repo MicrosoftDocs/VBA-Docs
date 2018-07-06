@@ -45,4 +45,4 @@ Use the  **ImportExportSpecification** property of the[CodeProject](Access.CodeP
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)

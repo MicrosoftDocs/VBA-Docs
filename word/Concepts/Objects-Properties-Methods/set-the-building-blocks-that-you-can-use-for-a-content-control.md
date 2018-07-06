@@ -33,7 +33,7 @@ The  **[WdBuildingBlockTypes](../../../api/Word.WdBuildingBlockTypes.md)** enume
     
 - Custom Quick Parts
     
-For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
+For more information about content controls, see  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md).
 The objects used in this sample are:
 
 -  **[ContentControl](../../../api/Word.ContentControl.md)**

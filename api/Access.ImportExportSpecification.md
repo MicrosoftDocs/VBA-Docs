@@ -49,5 +49,5 @@ Use the  **[Execute](./Access.ImportExportSpecification.Execute.md)** method to 
 ## See also
 
 
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)
 [ImportExportSpecification Object Members](./overview/Access.md)

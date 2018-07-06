@@ -43,5 +43,5 @@ Sub SelectRange()
 End Sub
 ```
 
-For more information, see  [Working with the Selection object](working-with-the-selection-object.md).
+For more information, see  [Working with the Selection object](../Working-with-Word/working-with-the-selection-object.md).
 

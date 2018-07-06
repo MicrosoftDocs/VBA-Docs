@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the default [run time](vbe-glossary.md) mode of the[Input Method Editor (IME](glossary-vba.md)) for a control. This property applies only to applications written for East Asia and is ignored in other applications.
+Specifies the default [run time](vbe-glossary.md) mode of the[Input Method Editor (IME](../../../language/Glossary/glossary-vba.md)) for a control. This property applies only to applications written for East Asia and is ignored in other applications.
  **Syntax**
  _object_. **IMEMode** [= _fmIMEMode_ ]
 The  **IMEMode** property syntax has these parts:

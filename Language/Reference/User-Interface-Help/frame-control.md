@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Creates a functional and visual [control group](glossary-vba.md).
+Creates a functional and visual [control group](../../../language/Glossary/glossary-vba.md).
  **Remarks**
 All option buttons in a  **Frame** are mutually exclusive, so you can use the **Frame** to create an option group. You can also use a **Frame** to group controls with closely related contents.For example, in an application that processes customer orders, you might use a **Frame** to group the name, address, and account number of customers.
 You can also use a  **Frame** to create a group of toggle buttons, but the toggle buttons are not mutually exclusive.

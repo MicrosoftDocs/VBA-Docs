@@ -36,7 +36,6 @@
 ##### [Macro Actions and Methods of the DoCmd Object](../access/Concepts/Error-Codes/macro-actions-and-methods-of-the-docmd-object.md)
 ##### [Using Enumerated Constants in Microsoft Access 2002 and Later](../access/Concepts/Error-Codes/using-enumerated-constants-in-microsoft-access-2002-and-later.md)
 ##### [Comparison of Data Types](../access/Concepts/Error-Codes/comparison-of-data-types.md)
-##### [Call Procedures in a Subform or Subreport](../access/Concepts/Error-Codes/call-procedures-in-a-subform-or-subreport.md)
 ##### [Program with Class Modules](../access/Concepts/Error-Codes/program-with-class-modules.md)
 #### Structured Query Language (SQL)
 ##### [Use International Date Formats in SQL Statements](../access/Concepts/Structured-Query-Language/use-international-date-formats-in-sql-statements.md)
@@ -51,7 +50,6 @@
 ##### [Use Aggregate Functions to Work with Values in Access SQL](../access/Concepts/Structured-Query-Language/use-aggregate-functions-to-work-with-values-in-access-sql.md)
 #### Data Access Objects (DAO)
 ##### [Add a Record to a DAO Recordset](../access/Concepts/Data-Access-Objects/add-a-record-to-a-dao-recordset.md)
-##### [Build SQL Statements That Include Variables and Controls](../access/Concepts/Data-Access-Objects/build-sql-statements-that-include-variables-and-controls.md)
 ##### [Change Tables Involved in a One-to-Many Relationship in a DAO Recordset](../access/Concepts/Data-Access-Objects/change-tables-involved-in-a-one-to-many-relationship-in-a-dao-recordset.md)
 ##### [Count the Number of Records in a DAO Recordset](../access/Concepts/Data-Access-Objects/count-the-number-of-records-in-a-dao-recordset.md)
 ##### [Create a DAO Recordset From a Form](../access/Concepts/Data-Access-Objects/create-a-dao-recordset-from-a-form.md)
@@ -80,7 +78,6 @@
 ##### [Use Transactions in a DAO Recordset](../access/Concepts/Data-Access-Objects/use-transactions-in-a-dao-recordset.md)
 #### ActiveX Data Objects (ADO)
 ##### [Bind a Form to an ADO Recordset](../access/Concepts/ActiveX-Data-Objects/bind-a-form-to-an-ado-recordset.md)
-##### [Build SQL Statements That Include Variables and Controls](../access/Concepts/ActiveX-Data-Objects/build-sql-statements-that-include-variables-and-controls.md)
 ##### [Set Properties of ActiveX Data Objects in Visual Basic](../access/Concepts/ActiveX-Data-Objects/set-properties-of-activex-data-objects-in-visual-basic.md)
 ##### [Create an ADO Connection String](../access/Concepts/ActiveX-Data-Objects/create-an-ado-connection-string.md)
 #### XML
@@ -103,11 +100,9 @@
 ##### [Hide a Subform if the Main Form Contains No Records](../access/Concepts/Controls/hide-a-subform-if-the-main-form-contains-no-records.md)
 ##### [Prevent the Accidental Erasure of Data When Moving Between Controls on a Form](../access/Concepts/Controls/prevent-the-accidental-erasure-of-data-when-moving-between-controls-on-a-form.md)
 ##### [Refer to Tab Control Objects in VBA](../access/Concepts/Controls/refer-to-tab-control-objects-in-vba.md)
-##### [Set Form, Report, and Control Properties in Code](../access/Concepts/Controls/set-form-report-and-control-properties-in-code.md)
 #### Forms Design
 ##### [Create Multiple Instances of a Form](../access/Concepts/Forms-Design/create-multiple-instances-of-a-form.md)
 ##### [Synchronize Two Combo Boxes on a Form](../access/Concepts/Forms-Design/synchronize-two-combo-boxes-on-a-form.md)
-##### [Create a DAO Recordset From a Form](../access/Concepts/Forms-Design/create-a-dao-recordset-from-a-form.md)
 ##### [Use Date and Time Criteria from a Control on a Form](../access/Concepts/Forms-Design/use-date-and-time-criteria-from-a-control-on-a-form.md)
 ##### [Apply a Filter When Opening a Form or Report](../access/Concepts/Forms-Design/apply-a-filter-when-opening-a-form-or-report.md)
 ##### [Cancel an Event](../access/Concepts/Forms-Design/cancel-an-event.md)
@@ -124,9 +119,7 @@
 ##### [Retrieve a List of Installed Printers](../access/Concepts/Printing/retrieve-a-list-of-installed-printers.md)
 ##### [Work with Form and Report Printer Settings](../access/Concepts/Printing/work-with-form-and-report-printer-settings.md)
 ##### [Close a Report Automatically If It Does Not Contain Any Records](../access/Concepts/Printing/close-a-report-automatically-if-it-does-not-contain-any-records.md)
-##### [Cancel an Event](../access/Concepts/Printing/cancel-an-event.md)
 ##### [Filter a Report Using a Form's Filter](../access/Concepts/Printing/filter-a-report-using-a-form-s-filter.md)
-##### [Change the Filter or Sort Order of a Form or Report](../access/Concepts/Printing/change-the-filter-or-sort-order-of-a-form-or-report.md)
 #### Date/Time
 ##### [Calculate Age](../access/Concepts/Date-Time/calculate-age.md)
 ##### [Calculate and Display Specific Date Values](../access/Concepts/Date-Time/calculate-and-display-specific-date-values.md)
@@ -10839,7 +10832,6 @@
 #### Search and Filter
 ##### [Overview](../outlook/How-to/Search-and-Filter/overview-outlook-search-and-filter.md)
 ##### [Enumerating, Searching, and Filtering Items in a Folder](../outlook/How-to/Search-and-Filter/enumerating-searching-and-filtering-items-in-a-folder.md)
-##### [Sorting Items in a Folder](../outlook/How-to/Search-and-Filter/sorting-items-in-a-folder.md)
 ##### [Table](../outlook/How-to/Search-and-Filter/table.md)
 ##### [Adding Columns to a Table Object](../outlook/How-to/Search-and-Filter/adding-columns-to-a-table-object.md)
 ##### [Default Properties Displayed in a Table Object](../outlook/How-to/Search-and-Filter/default-properties-displayed-in-a-table-object.md)
@@ -10866,7 +10858,6 @@
 ##### [Search the Calendar for Appointments that Occur Partially or Entirely in a Given Time Period](../outlook/How-to/Search-and-Filter/search-the-calendar-for-appointments-that-occur-partially-or-entirely-in-a-given.md)
 ##### [Search the Calendar for Appointments Within a Date Range that Contain a Specific Word in the Subject](../outlook/How-to/Search-and-Filter/search-the-calendar-for-appointments-within-a-date-range-that-contain-a-specific.md)
 ##### [Search and Obtain Items in an Aggregated View](../outlook/How-to/Search-and-Filter/search-and-obtain-items-in-an-aggregated-view-outlook.md)
-##### [Enumerate the Contacts Folder and Set Custom Property for only Contact Items](../outlook/How-to/Search-and-Filter/enumerate-the-contacts-folder-and-set-custom-property-for-only-contact-items.md)
 #### Security
 ##### [Security Behavior of the Outlook Object Model](../outlook/How-to/Security/security-behavior-of-the-outlook-object-model.md)
 ##### [Outlook Object Model Security Warnings](../outlook/How-to/Security/outlook-object-model-security-warnings.md)

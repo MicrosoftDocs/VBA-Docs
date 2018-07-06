@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Retrieves a text string from the  **DataObject** using the specified[format](glossary-vba.md).
+Retrieves a text string from the  **DataObject** using the specified[format](../../../language/Glossary/glossary-vba.md).
  **Syntax**
  _String_ = _object_. **GetText(** [ _format_ ] **)**
 The  **GetText** method syntax has these parts:

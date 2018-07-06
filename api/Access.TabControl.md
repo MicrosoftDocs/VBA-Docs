@@ -155,4 +155,4 @@ With the tab control, you can construct a single form or dialog box that contain
 
 
 [TabControl Object Members](./overview/Access.md)
-[Access Object Model Reference](../access/Concepts/Criteria-Expressions/object-model-access-vba-reference.md)
+[Access Object Model Reference](./overview/Access/object-model.md)

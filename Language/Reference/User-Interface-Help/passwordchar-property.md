@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether [placeholder](glossary-vba.md) characters are displayed instead of the characters actually entered in a **TextBox**.
+Specifies whether [placeholder](../../../language/Glossary/glossary-vba.md) characters are displayed instead of the characters actually entered in a **TextBox**.
  **Syntax**
  _object_. **PasswordChar** [= _String_ ]
 The  **PasswordChar** property syntax has these parts:
