@@ -83,7 +83,7 @@ Returns information about the current country/region and international settings.
 | **xl24HourClock**| **Boolean**| **True** if you?re using 24-hour time; **False** if you?re using 12-hour time.|
 | **xl4DigitYears**| **Boolean**| **True** if you?re using four-digit years; **False** if you?re using two-digit years.|
 | **xlDateOrder**| **Long**|Order of date elements:0 = month-day-year1 = day-month-year2 = year-month-day|
-| **xlDateSeparator**| **String**|Date separator ( **/** ).|
+| **xlDateSeparator**| **String**|Date separator (**/** ).|
 | **xlDayCode**| **String**|Day symbol (d).|
 | **xlDayLeadingZero**| **Boolean**| **True** if a leading zero is displayed in days.|
 | **xlHourCode**| **String**|Hour symbol (h).|

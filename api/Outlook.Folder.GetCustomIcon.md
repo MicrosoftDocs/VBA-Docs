@@ -32,7 +32,7 @@ An  **IPictureDisp** object that represents a custom icon for the folder.
 
 The returned  **IPictureDisp** object has its **Type** property equal to **PICTYPE_ICON** or **PICTYPE_BITMAP** .
 
- **GetCustomIcon** returns **Null** ( **Nothing** in Visual Basic) if the folder does not have a custom folder icon, or if the folder belongs to one of the following groups of folders:
+ **GetCustomIcon** returns **Null** (**Nothing** in Visual Basic) if the folder does not have a custom folder icon, or if the folder belongs to one of the following groups of folders:
 
 
 - Default folders (as listed by the  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)

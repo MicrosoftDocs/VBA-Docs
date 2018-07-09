@@ -18,7 +18,7 @@ Occurs after each record in the data source successfully merges in a mail merge.
 
 ## Syntax
 
- _expression_. **MailMergeAfterRecordMerge**( **_Doc_**)
+ _expression_. **MailMergeAfterRecordMerge**(**_Doc_**)
 
  _expression_ A variable that represents an  **Application** object.
 

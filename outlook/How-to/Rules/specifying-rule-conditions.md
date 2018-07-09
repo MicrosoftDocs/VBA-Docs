@@ -52,7 +52,7 @@ The following table lists all the rule conditions supported by the Rules and Ale
 |Sender address contains words specified in  **TextRuleCondition.Text**.| **olConditionSenderAddress**|Yes|Yes|No|
 |Sender is in the address list specified in  **[AddressRuleCondition.Address](../../../api/Outlook.AddressRuleCondition.Address.md)**.| **olConditionSenderInAddressBook**|Yes|Yes|No|
 |Message is marked with the specified level of sensitivity.| **olConditionSensitivity**|No|Yes|Yes|
-|Sent to recipients ( **To**,  **Cc**) are in the recipient list specified in  **ToOrFromRuleCondition.Recipients**.| **olConditionSentTo**|Yes|Yes|Yes|
+|Sent to recipients (**To**,  **Cc**) are in the recipient list specified in  **ToOrFromRuleCondition.Recipients**.| **olConditionSentTo**|Yes|Yes|Yes|
 |Message size is between x and y in units of KB, where x and y are  **Date** values. For example, "10;50" sets the size condition between 10 and 50KB.| **olConditionSizeRange**|No|Yes|Yes|
 |Subject contains words specified in  **TextRuleCondition.Text**.| **olConditionSubject**|Yes|Yes|Yes|
 |My name is in the  **To** box.| **olConditionTo**|Yes|Yes|No|

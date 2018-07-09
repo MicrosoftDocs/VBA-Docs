@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 If you want to run code in one Office application that works with the objects in another application, follow these steps.
 
 
-1. Set a reference to the other application's type library in the  **References** dialog box ( **Tools** menu). After you have done this, the objects, properties, and methods show up in the Object Browser and the syntax is checked at compile time. You can also get context-sensitive Help on them.
+1. Set a reference to the other application's type library in the  **References** dialog box (**Tools** menu). After you have done this, the objects, properties, and methods show up in the Object Browser and the syntax is checked at compile time. You can also get context-sensitive Help on them.
     
 2. Declare object variables that will refer to the objects in the other application as specific types. Make sure you qualify each type with the name of the application that is supplying the object. For example, the following statement declares a variable that will point to a Word document, and another that refers to an Excel application. 
     

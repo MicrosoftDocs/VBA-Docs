@@ -25,7 +25,7 @@ Returns the name of the specified file converter. Read-only  **String** .
 
 ## Remarks
 
-The format names appear in the  **Save as type** box in the **Save As** dialog box ( **File** menu).
+The format names appear in the  **Save as type** box in the **Save As** dialog box (**File** menu).
 
 
 ## Example

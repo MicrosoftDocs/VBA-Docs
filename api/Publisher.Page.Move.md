@@ -18,7 +18,7 @@ Moves the specified page to the specified index in the  **Pages** collection.
 
 ## Syntax
 
- _expression_. **Move**( **_Page_**,  **_After_**)
+ _expression_. **Move**(**_Page_**,  **_After_**)
 
  _expression_ A variable that represents a  **Page** object.
 

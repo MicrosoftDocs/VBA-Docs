@@ -44,7 +44,7 @@ Setting the  **ResultForce** property is similar to setting a cell's **ResultFro
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
- **Cell.ResultForce** ( **visInches** ) = _newValue_
+ **Cell.ResultForce** (**visInches** ) = _newValue_
 
  **Cell.ResultForce** (65) = _newValue_
 

@@ -32,7 +32,7 @@ Indicates the user property type.
 | **olPercent**|12|Represents a  **Double** number property type used to store a percentage. It corresponds to the MAPI type **PT_LONG**.|
 | **olSmartFrom**|22|Represents a smart from property type. This property indicates that if the  **From** property of an Outlook item is empty, then the **To** property should be used instead.|
 | **olText**|1|Represents a  **String** property type. It corresponds to the MAPI type **PT_STRING8**.|
-| **olYesNo**|6|Represents a yes/no ( **Boolean**) property type. It corresponds to the MAPI type  **PT_BOOLEAN**.|
+| **olYesNo**|6|Represents a yes/no (**Boolean**) property type. It corresponds to the MAPI type  **PT_BOOLEAN**.|
 
 ## Remarks
 

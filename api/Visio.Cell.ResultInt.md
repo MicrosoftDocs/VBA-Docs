@@ -43,7 +43,7 @@ Getting the  **ResultInt** property is similar to a getting a cell's **Result** 
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. If the string is invalid, an error is generated. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
- _lngRet_ = **Cell.ResultInt** ( **visInches** , _fRound_)
+ _lngRet_ = **Cell.ResultInt** (**visInches** , _fRound_)
 
  _lngRet_ = **Cell.ResultInt** (65, _fRound_)
 

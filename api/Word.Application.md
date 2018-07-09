@@ -25,7 +25,7 @@ Use the  **Application** property to return the **Application** object. The foll
 MsgBox Application.UserName
 ```
 
-Many of the properties and methods that return the most common user-interface objects—such as the active document ( **ActiveDocument** property)—can be used without the **Application** object qualifier. For example, instead of writing `Application.ActiveDocument.PrintOut`, you can write  `ActiveDocument.PrintOut`. Properties and methods that can be used without the  **Application** object qualifier are considered "global." To view the global properties and methods in the **Object Browser**, click  **<globals>** at the top of the list in the **Classes** box. (Also see the **[Global](./Word.Global.md)** object.)
+Many of the properties and methods that return the most common user-interface objects—such as the active document (**ActiveDocument** property)—can be used without the **Application** object qualifier. For example, instead of writing `Application.ActiveDocument.PrintOut`, you can write  `ActiveDocument.PrintOut`. Properties and methods that can be used without the  **Application** object qualifier are considered "global." To view the global properties and methods in the **Object Browser**, click  **<globals>** at the top of the list in the **Classes** box. (Also see the **[Global](./Word.Global.md)** object.)
 
 Remarks
 

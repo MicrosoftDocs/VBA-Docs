@@ -18,7 +18,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a text
 
 ## Syntax
 
- _expression_. **InsertMailMergeField**( **_varIndex_**)
+ _expression_. **InsertMailMergeField**(**_varIndex_**)
 
  _expression_ A variable that represents a  **TextRange** object.
 

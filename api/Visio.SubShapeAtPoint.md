@@ -15,7 +15,7 @@ Gets the ID of the subshape in the drawing that is open in Microsoft Visio Viewe
 
 ## Syntax
 
- _expression_. **SubShapeAtPoint**( **_X_**,  **_Y_**)
+ _expression_. **SubShapeAtPoint**(**_X_**,  **_Y_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

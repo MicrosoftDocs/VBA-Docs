@@ -26,7 +26,7 @@ You can treat an [object variable](vbe-glossary.md) exactly the same as the [obj
 
 ## Declaring an Object Variable
 
-Use the  **Dim** statement or one of the other declaration statements ( **Public**, **Private**, or **Static** ) to declare an object variable. A [variable](vbe-glossary.md) that refers to an object must be a **Variant**, an **Object**, or a specific type of object. For example, the following declarations are valid:
+Use the  **Dim** statement or one of the other declaration statements (**Public**, **Private**, or **Static** ) to declare an object variable. A [variable](vbe-glossary.md) that refers to an object must be a **Variant**, an **Object**, or a specific type of object. For example, the following declarations are valid:
 
 
 ```vb

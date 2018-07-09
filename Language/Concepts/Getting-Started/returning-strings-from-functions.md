@@ -23,7 +23,7 @@ Consider using the  **String** version when:
 - You write data directly to random-access files.
     
 
-The following functions return values in a  **String** variable when you append a dollar sign ( **$** ) to the function name. These functions have the same usage and syntax as their **Variant** equivalents without the dollar sign.
+The following functions return values in a  **String** variable when you append a dollar sign (**$** ) to the function name. These functions have the same usage and syntax as their **Variant** equivalents without the dollar sign.
 
 |**Function**|||
 |:-----|:-----|:-----|

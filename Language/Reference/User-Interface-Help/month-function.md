@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Integer** ) specifying a whole number between 1 and 12, inclusive, representing the month of the year.
+Returns a  **Variant** (**Integer** ) specifying a whole number between 1 and 12, inclusive, representing the month of the year.
  **Syntax**
  **Month(**_date_**)**
 The required  _date_[argument](vbe-glossary.md) is any[Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a date. If  _date_ contains[Null](vbe-glossary.md),  **Null** is returned.

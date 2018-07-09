@@ -18,7 +18,7 @@ A collection of  **[AddIn](Excel.AddIn.md)** objects that represent all the add-
 
 ## Remarks
 
-The contents of the  **AddIns2** collection correspond to the list of add-ins displayed in the **Add-Ins** dialog box ( **Add-Ins** command on the **Developer** tab) and any add-ins that are currently open.
+The contents of the  **AddIns2** collection correspond to the list of add-ins displayed in the **Add-Ins** dialog box (**Add-Ins** command on the **Developer** tab) and any add-ins that are currently open.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.GetFreeBusy Method (Outlook)
 
-Returns  **Null** ( **Nothing** in Visual Basic) because free-busy information is available only to individual users and not **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** objects.
+Returns  **Null** (**Nothing** in Visual Basic) because free-busy information is available only to individual users and not **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** objects.
 
 
 ## Syntax

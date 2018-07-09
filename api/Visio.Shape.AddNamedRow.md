@@ -40,7 +40,7 @@ Integer
 
 ## Remarks
 
-You can add named rows to the Actions ( **visSectionAction** ), Controls ( **visSectionControls** ), Shape Data ( **visSectionProp** ), User-Defined Cells ( **visSectionUser** ), Hyperlinks ( **visSectionHyperlink** ), and Connection Points ( **visSectionConnectionPts** ) ShapeSheet sections. You can access cells in the new rows by passing the row number returned by the **AddNamedRow** method to the **CellsSRC** property. Alternatively, you can access cells in the new rows by using the row's name with the **Cells** property. For details about cell references and cells in named rows, see the Actions, Controls, User-defined Cells, Hyperlink, Shape Data, or Connection Points row topics in the Microsoft Visio ShapeSheet Reference.
+You can add named rows to the Actions (**visSectionAction** ), Controls (**visSectionControls** ), Shape Data (**visSectionProp** ), User-Defined Cells (**visSectionUser** ), Hyperlinks (**visSectionHyperlink** ), and Connection Points (**visSectionConnectionPts** ) ShapeSheet sections. You can access cells in the new rows by passing the row number returned by the **AddNamedRow** method to the **CellsSRC** property. Alternatively, you can access cells in the new rows by using the row's name with the **Cells** property. For details about cell references and cells in named rows, see the Actions, Controls, User-defined Cells, Hyperlink, Shape Data, or Connection Points row topics in the Microsoft Visio ShapeSheet Reference.
 
 An empty row name string ("") creates a row with a default name.
 

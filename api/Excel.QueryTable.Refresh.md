@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.Refresh Method (Excel)
 
-Updates an external data range ( **[QueryTable](Excel.QueryTable.md)** ).
+Updates an external data range (**[QueryTable](Excel.QueryTable.md)** ).
 
 
 ## Syntax

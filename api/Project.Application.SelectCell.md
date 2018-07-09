@@ -29,7 +29,7 @@ Selects a cell.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Row_|Optional|**Long**|The row number ( **RowRelative** is **False** ) or the relative row position ( **RowRelative** is **True** ) of the cell to select.|
+| _Row_|Optional|**Long**|The row number (**RowRelative** is **False** ) or the relative row position (**RowRelative** is **True** ) of the cell to select.|
 | _Column_|Optional|**Integer**|The column number of the cell to select.|
 | _RowRelative_|Optional|**Boolean**|**True** if the row number is relative to the active cell. The default value is **True**.|
 

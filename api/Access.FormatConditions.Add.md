@@ -30,7 +30,7 @@ You can use the  **Add** method to add a conditional format as a **[FormatCondit
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**AcFormatConditionType**|An  **[AcFormatConditionType](Access.AcFormatConditionType.md)** constant that specifies the type of format condition to be added.|
-| _Operator_|Optional|**AcFormatConditionOperator**|An  **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)** constant that specified the operator. If the _Type_ argument is **acExpression**, the _Operator_ argument is ignored. If you leave this argument blank, the default constant ( **acBetween** ) is assumed.|
+| _Operator_|Optional|**AcFormatConditionOperator**|An  **[AcFormatConditionOperator](Access.AcFormatConditionOperator.md)** constant that specified the operator. If the _Type_ argument is **acExpression**, the _Operator_ argument is ignored. If you leave this argument blank, the default constant (**acBetween** ) is assumed.|
 | _Expression1_|Optional|**Variant**|A value or expression associated with the first part of the conditional format. Can be a constant or a string value.|
 | _Expression2_|Optional|**Variant**|A value or expression associated with the second part of the conditional format when the  _Operator_ argument is **acBetween** or **acNotBetween** (otherwise, this argument is ignored). Can be a constant or a string value.|
 

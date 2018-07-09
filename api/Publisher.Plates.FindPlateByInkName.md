@@ -18,7 +18,7 @@ Returns a  **Plate** object that represents the plate of the specified ink name.
 
 ## Syntax
 
- _expression_. **FindPlateByInkName**( **_InkName_**)
+ _expression_. **FindPlateByInkName**(**_InkName_**)
 
  _expression_An expression that returns a  **Plates** object.
 

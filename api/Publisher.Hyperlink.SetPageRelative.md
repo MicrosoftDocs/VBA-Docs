@@ -18,7 +18,7 @@ Sets the target type for the specified hyperlink.
 
 ## Syntax
 
- _expression_. **SetPageRelative**( **_RelativePage_**)
+ _expression_. **SetPageRelative**(**_RelativePage_**)
 
  _expression_ A variable that represents a  **Hyperlink** object.
 

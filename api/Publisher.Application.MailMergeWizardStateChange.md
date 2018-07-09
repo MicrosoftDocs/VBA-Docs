@@ -18,7 +18,7 @@ Occurs when a user changes from a specified step to a specified step in the Mail
 
 ## Syntax
 
- _expression_. **MailMergeWizardStateChange**( **_Doc_**,  **_FromState_**)
+ _expression_. **MailMergeWizardStateChange**(**_Doc_**,  **_FromState_**)
 
  _expression_ A variable that represents an  **Application** object.
 

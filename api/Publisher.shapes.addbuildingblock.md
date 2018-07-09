@@ -16,7 +16,7 @@ Adds a  **[BuildingBlock](Publisher.BuildingBlock.md)** object and returns a **[
 
 ## Syntax
 
- _expression_. **AddBuildingBlock**( **_BBlockIn_**,  **_Left_**,  **_Top_**)
+ _expression_. **AddBuildingBlock**(**_BBlockIn_**,  **_Left_**,  **_Top_**)
 
  _expression_ A variable that represents a  **Shapes** object.
 

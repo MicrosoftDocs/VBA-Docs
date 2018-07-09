@@ -36,7 +36,7 @@ Val("&;HFFFF")
 ```
 
 
- **Note**  The  **Val** function recognizes only the period ( **.** ) as a valid decimal separator. When different decimal separators are used, as in international applications, use **CDbl** instead to convert a string to a number.
+ **Note**  The  **Val** function recognizes only the period (**.** ) as a valid decimal separator. When different decimal separators are used, as in international applications, use **CDbl** instead to convert a string to a number.
 
 
 ## Example

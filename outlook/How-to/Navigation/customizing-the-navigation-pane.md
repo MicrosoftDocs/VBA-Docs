@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Customizing the Navigation Pane
 
-The Navigation Pane provides access to information that pertains to the active explorer, including different views and different ways to accomplish tasks in that explorer. The  **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object represents the Navigation Pane for an explorer; to obtain one, call the **[NavigationPane](../../../api/Outlook.Explorer.NavigationPane.md)** property of the **[Explorer](../../../api/Outlook.Explorer.md)** object. If the explorer does not contain a Navigation Pane, this property returns **Null** ( **Nothing** in Visual Basic).
+The Navigation Pane provides access to information that pertains to the active explorer, including different views and different ways to accomplish tasks in that explorer. The  **[NavigationPane](../../../api/Outlook.NavigationPane.md)** object represents the Navigation Pane for an explorer; to obtain one, call the **[NavigationPane](../../../api/Outlook.Explorer.NavigationPane.md)** property of the **[Explorer](../../../api/Outlook.Explorer.md)** object. If the explorer does not contain a Navigation Pane, this property returns **Null** (**Nothing** in Visual Basic).
 
 
 ## Navigation Modules

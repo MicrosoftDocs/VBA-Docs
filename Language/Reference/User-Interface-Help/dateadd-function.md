@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Date** ) containing a date to which a specified time interval has been added.
+Returns a  **Variant** (**Date** ) containing a date to which a specified time interval has been added.
  **Syntax**
  **DateAdd( _interval, number, date_ )**
 The  **DateAdd** function syntax has these[named arguments](vbe-glossary.md):
@@ -23,7 +23,7 @@ The  **DateAdd** function syntax has these[named arguments](vbe-glossary.md):
 |:-----|:-----|
 |**_interval_**|Required. [String expression](vbe-glossary.md) that is the interval of time you want to add.|
 |**_number_**|Required. [Numeric expression](vbe-glossary.md) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
-|**_date_**|Required.  **Variant** ( **Date** ) or literal representing date to which the interval is added.|
+|**_date_**|Required.  **Variant** (**Date** ) or literal representing date to which the interval is added.|
 
  **Settings**
 The  **_interval_**[argument](vbe-glossary.md) has these settings:

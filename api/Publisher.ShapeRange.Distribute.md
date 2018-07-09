@@ -18,7 +18,7 @@ Evenly distributes the shapes in the specified shape range.
 
 ## Syntax
 
- _expression_. **Distribute**( **_DistributeCmd_**,  **_RelativeTo_**)
+ _expression_. **Distribute**(**_DistributeCmd_**,  **_RelativeTo_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

@@ -36,7 +36,7 @@ MsgBox FileConverters(1).FormatName
 
 You cannot create a new file converter or add one to the  **[FileConverters](Word.fileconverters.md)** collection. **FileConverter** objects are added during installation of Microsoft Office or by installing supplemental file converters. Use either the **CanSave** or **CanOpen** property to determine whether a **FileConverter** object can be used to open or save document.
 
-File converters for saving documents are listed in the  **Save As** dialog box. File converters for opening documents appear in a dialog box if the **Confirm conversion at Open** check box is selected on the **General** tab in the **Options** dialog box ( **Tools** menu).
+File converters for saving documents are listed in the  **Save As** dialog box. File converters for opening documents appear in a dialog box if the **Confirm conversion at Open** check box is selected on the **General** tab in the **Options** dialog box (**Tools** menu).
 
 
 ## Properties

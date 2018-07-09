@@ -25,7 +25,7 @@ Returns a  **String** representing the last name, first name, middle name, and s
 
 ## Remarks
 
-There is a comma between the last and first names and spaces between all the names and the suffix. This property is parsed from the  **[LastName](Outlook.ContactItem.LastName.md)** , **[FirstName](Outlook.ContactItem.FirstName.md)** , **[MiddleName](Outlook.ContactItem.MiddleName.md)** and **[Suffix](Outlook.ContactItem.Suffix.md)** properties. The **LastName** , **FirstName** , and **Suffix** properties are themselves parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property. The value of this property is only filled when its associated property ( **FirstName** , **LastName** , **MiddleName** , **CompanyName** , and **Suffix** ) contain Asian (DBCS) characters. If the corresponding field does not contain Asian characters, the property will be empty.
+There is a comma between the last and first names and spaces between all the names and the suffix. This property is parsed from the  **[LastName](Outlook.ContactItem.LastName.md)** , **[FirstName](Outlook.ContactItem.FirstName.md)** , **[MiddleName](Outlook.ContactItem.MiddleName.md)** and **[Suffix](Outlook.ContactItem.Suffix.md)** properties. The **LastName** , **FirstName** , and **Suffix** properties are themselves parsed from the **[FullName](Outlook.ContactItem.FullName.md)** property. The value of this property is only filled when its associated property (**FirstName** , **LastName** , **MiddleName** , **CompanyName** , and **Suffix** ) contain Asian (DBCS) characters. If the corresponding field does not contain Asian characters, the property will be empty.
 
 
 ## See also

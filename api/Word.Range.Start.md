@@ -27,7 +27,7 @@ Returns or sets the starting character position of a range. Read/write  **Long**
 
  **Range** objects have starting and ending character positions. The starting position refers to the character position closest to the beginning of the story. If this property is set to a value larger than that of the **End** property, the **End** property is set to the same value as that of **Start** property.
 
-This property returns the starting character position relative to the beginning of the story. The main text story ( **wdMainTextStory** ) begins with character position 0 (zero). You can change the size of a selection, range, or bookmark by setting this property.
+This property returns the starting character position relative to the beginning of the story. The main text story (**wdMainTextStory** ) begins with character position 0 (zero). You can change the size of a selection, range, or bookmark by setting this property.
 
 
 ## Example

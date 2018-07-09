@@ -27,7 +27,7 @@ Long
 
 ## Remarks
 
-Set  **SilentMode** to a non-zero value ( **True**) to prevent any component of the user interface from appearing when a drawing is saved as a Web page; set it to zero ( **False**) to allow dialog boxes to be displayed. The default is  **False**.
+Set  **SilentMode** to a non-zero value (**True**) to prevent any component of the user interface from appearing when a drawing is saved as a Web page; set it to zero (**False**) to allow dialog boxes to be displayed. The default is  **False**.
 
 Setting the  **SilentMode** property to **True** overrides the setting of the **[OpenBrowser](Visio.OpenBrowser.md)** property and prevents newly created Web pages from opening in the default browser automatically.
 

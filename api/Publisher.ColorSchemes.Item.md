@@ -18,7 +18,7 @@ Returns the specified  **[ColorScheme](Publisher.ColorScheme.md)** object from a
 
 ## Syntax
 
- _expression_. **Item**( **_Index_**)
+ _expression_. **Item**(**_Index_**)
 
  _expression_ A variable that represents a  **ColorSchemes** object.
 

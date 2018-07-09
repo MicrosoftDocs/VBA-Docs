@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.GetContact Method (Outlook)
 
-Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object does not correspond to a contact in a Contacts Address Book.
+Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object does not correspond to a contact in a Contacts Address Book.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistribu
 
 ### Return Value
 
- **Null** ( **Nothing** in Visual Basic) because the **ExchangeDistributionList** object does not correspond to a contact in a Contacts Address Book.
+ **Null** (**Nothing** in Visual Basic) because the **ExchangeDistributionList** object does not correspond to a contact in a Contacts Address Book.
 
 
 ## Remarks

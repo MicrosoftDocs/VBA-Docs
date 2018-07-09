@@ -15,7 +15,7 @@ Only [comments](vbe-glossary.md), directives, and [declarations](vbe-glossary.md
 
 
 
-- You placed executable code outside a procedure. Any nondeclarative lines outside a procedure must begin with a comment delimiter ( **'** ). Declarative statements must appear before the first procedure declaration. Comments are ignored when the code executes.
+- You placed executable code outside a procedure. Any nondeclarative lines outside a procedure must begin with a comment delimiter (**'** ). Declarative statements must appear before the first procedure declaration. Comments are ignored when the code executes.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

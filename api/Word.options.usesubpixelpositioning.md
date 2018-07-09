@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** that specifies whether sub-pixel positioning is e
 
 ## Remarks
 
-The  **UseSubPixelPositioning** value is **True** if sub-pixel positioning is enabled. This property setting corresponds to the setting of the **Use subpixel positioning to smooth fonts on screen** option on the **Advanced** tab of the **Options** dialog box ( **File** tab) in the Word user interface.
+The  **UseSubPixelPositioning** value is **True** if sub-pixel positioning is enabled. This property setting corresponds to the setting of the **Use subpixel positioning to smooth fonts on screen** option on the **Advanced** tab of the **Options** dialog box (**File** tab) in the Word user interface.
 
 
 ## Property value

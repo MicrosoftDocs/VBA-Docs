@@ -33,7 +33,7 @@ You can set this property only for command bar buttons that contain an  **OnActi
 
 ## Example
 
-This example displays the shortcut text for the  **Open** command ( **File** menu) on the Microsoft Excel Worksheet menu bar in a message box.
+This example displays the shortcut text for the  **Open** command (**File** menu) on the Microsoft Excel Worksheet menu bar in a message box.
 
 
 ```vb

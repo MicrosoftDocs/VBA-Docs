@@ -145,7 +145,7 @@ Sub MaximizeDocumentWindow()
 End Sub
 ```
 
-The  **ActiveWindow** property returns a **Window** object that represents the active window. The **WindowState** property is set to the maximize constant ( **wdWindowStateMaximize**).
+The  **ActiveWindow** property returns a **Window** object that represents the active window. The **WindowState** property is set to the maximize constant (**wdWindowStateMaximize**).
 
 The following example creates a document and displays the  **Save As** dialog box so that a name can be provided for the document.
 

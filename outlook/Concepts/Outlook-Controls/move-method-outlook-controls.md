@@ -16,7 +16,7 @@ Moves a control to the specified location.
 
 ## Syntax
 
- _expression_. **Move**( **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Layout_**)
+ _expression_. **Move**(**_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Layout_**)
 
  _expression_ A variable that represents an Outlook control object.
 

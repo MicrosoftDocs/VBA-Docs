@@ -27,7 +27,7 @@ Determines whether supporting files for the Web page to be created are placed in
 
 ## Remarks
 
-Set  **StoreInFolder** to a non-zero value ( **True**) to place supporting Web page files in a subfolder that has the same name as the root HTML file; otherwise, set it to zero ( **False**). 
+Set  **StoreInFolder** to a non-zero value (**True**) to place supporting Web page files in a subfolder that has the same name as the root HTML file; otherwise, set it to zero (**False**). 
 
 If you set the  **StoreInFolder** property to **True** (non-zero), Microsoft Visio places the supporting files in a subfolder prefixed with the same name as the .htm file. If either the .htm file or the subfolder is moved or deleted, its corresponding subfolder or .htm file is also moved or deleted.
 

@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether the toolbar is visible in Microsoft 
 
 ## Remarks
 
-The default is for the toolbar to be visible ( **True**).
+The default is for the toolbar to be visible (**True**).
 
 
 ## Example

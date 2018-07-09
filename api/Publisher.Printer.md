@@ -18,7 +18,7 @@ A  **Printer** object represents a printer installed on your computer.
 
 ## Remarks
 
-Many of the properties, such as  **PaperSize**, **PaperSource**, and **PaperOrientation**, of the **Printer** object correspond to the settings in the **Print Setup** dialog box ( **File** menu) in the Microsoft Publisher user interface .
+Many of the properties, such as  **PaperSize**, **PaperSource**, and **PaperOrientation**, of the **Printer** object correspond to the settings in the **Print Setup** dialog box (**File** menu) in the Microsoft Publisher user interface .
 
 The collection of all the printers installed on your computer is represented by the  **InstalledPrinters** collection.
 

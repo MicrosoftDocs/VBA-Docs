@@ -25,7 +25,7 @@ The Microsoft Excel Visual Basic object library includes built-in constants for 
 
 ## Example
 
-Use  **[Dialogs](Excel.Application.Dialogs.md)** ( _index_ ), where _index_ is a built-in constant identifying the dialog box, to return a single **Dialog** object. The following example runs the built-in **Open** dialog box ( **File** menu). The **Show** method returns **True** if Microsoft Excel successfully opens a file; it returns **False** if the user cancels the dialog box.
+Use  **[Dialogs](Excel.Application.Dialogs.md)** ( _index_ ), where _index_ is a built-in constant identifying the dialog box, to return a single **Dialog** object. The following example runs the built-in **Open** dialog box (**File** menu). The **Show** method returns **True** if Microsoft Excel successfully opens a file; it returns **False** if the user cancels the dialog box.
 
 
 ```vb

@@ -25,7 +25,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object representing the Inspec
 
 ## Remarks
 
-Returns  **Null** ( **Nothing** in Visual Basic) if the form region is displayed in the Reading Pane.
+Returns  **Null** (**Nothing** in Visual Basic) if the form region is displayed in the Reading Pane.
 
 
 ## See also

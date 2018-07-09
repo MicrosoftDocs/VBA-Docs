@@ -19,7 +19,7 @@ ms.date: 06/08/2017
     
   - A line that contains only [line labels](vbe-glossary.md).
     
-  - A line that contains only [declarations](vbe-glossary.md) ( **Const**, **Dim**, **Static**, **Type**, and so on).
+  - A line that contains only [declarations](vbe-glossary.md) (**Const**, **Dim**, **Static**, **Type**, and so on).
     
   - Any line in a hidden [module](vbe-glossary.md).
     

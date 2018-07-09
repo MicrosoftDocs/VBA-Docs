@@ -33,7 +33,7 @@ Boolean
 
 ## Remarks
 
-Setting the  **DataGraphicHidesText** property to **False** (0) displays the shape text. Setting the property to **True** (-1) hides the text. The default is to display the text ( **False** ).
+Setting the  **DataGraphicHidesText** property to **False** (0) displays the shape text. Setting the property to **True** (-1) hides the text. The default is to display the text (**False** ).
 
 The value of the  **DataGraphicHidesText** property corresponds to the setting of the **HIde shape text when data graphic is applied** box under **Display options** in the **New Data Graphic** or **Edit Data Graphic** dialog box.
 

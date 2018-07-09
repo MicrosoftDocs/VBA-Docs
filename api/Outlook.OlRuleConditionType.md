@@ -45,7 +45,7 @@ Specifies the type of rule condition or exception condition of a rule.
 | **olConditionSenderAddress**|17|Sender address contains words specified in  **TextRuleCondition.Text** .|
 | **olConditionSenderInAddressBook**|25|Sender is in the address list specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)** .|
 | **olConditionSensitivity**|7|Message is marked with the specified level of sensitivity.|
-| **olConditionSentTo**|12|Sent to recipients ( **To**,  **Cc**) are in the recipient list specified in  **ToOrFromRuleCondition.Recipients** .|
+| **olConditionSentTo**|12|Sent to recipients (**To**,  **Cc**) are in the recipient list specified in  **ToOrFromRuleCondition.Recipients** .|
 | **olConditionSizeRange**|21|Message size is between x and y in units of KB, where x and y are  **Integer** values.|
 | **olConditionSubject**|2|Subject contains words specified in  **TextRuleCondition.Text** .|
 | **olConditionTo**|5|My name is in the  **To** box.|

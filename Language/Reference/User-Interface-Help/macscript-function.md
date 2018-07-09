@@ -18,7 +18,7 @@ Executes an AppleScript script and returns a value returned by the script, if an
  **MacScript**_script_
 The  _script_ argument is a [String expression](vbe-glossary.md). The  **String** expression either can be a series of AppleScript commands or can specify the name of an AppleScript script or a script file.
  **Remarks**
-Multiline scripts can be created by embedding carriage-return characters ( **Chr(** 13 **)** ).
+Multiline scripts can be created by embedding carriage-return characters (**Chr(** 13 **)** ).
 
 
 ```vb

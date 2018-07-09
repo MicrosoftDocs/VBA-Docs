@@ -18,7 +18,7 @@ Returns an individual  **Column** object in the specified **Columns** collection
 
 ## Syntax
 
- _expression_. **Item**( **_Index_**)
+ _expression_. **Item**(**_Index_**)
 
  _expression_ A variable that represents a  **Columns** object.
 

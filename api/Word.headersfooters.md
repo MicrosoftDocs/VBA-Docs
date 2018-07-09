@@ -29,7 +29,7 @@ End With
 
  **Note**  You cannot add  **HeaderFooter** objects to the **HeadersFooters** collection.
 
-Use  **Headers** (Index) or **Footers** (Index), where index is one of the **WdHeaderFooterIndex** constants ( **wdHeaderFooterEvenPages** , **wdHeaderFooterFirstPage** , or **wdHeaderFooterPrimary** ), to return a single **HeaderFooter** object. The following example changes the text of both the primary header and the primary footer the first section of the active document.
+Use  **Headers** (Index) or **Footers** (Index), where index is one of the **WdHeaderFooterIndex** constants (**wdHeaderFooterEvenPages** , **wdHeaderFooterFirstPage** , or **wdHeaderFooterPrimary** ), to return a single **HeaderFooter** object. The following example changes the text of both the primary header and the primary footer the first section of the active document.
 
 
 

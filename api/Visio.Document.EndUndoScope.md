@@ -30,7 +30,7 @@ Ends or cancels a transaction that has a unique scope.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _nScopeID_|Required| **Long**|The ID of the scope to close.|
-| _bCommit_|Required| **Boolean**| flag indicating that the changes made during the scope should be accepted ( **True** ) or canceled ( **False** ).|
+| _bCommit_|Required| **Boolean**| flag indicating that the changes made during the scope should be accepted (**True** ) or canceled (**False** ).|
 
 ### Return Value
 

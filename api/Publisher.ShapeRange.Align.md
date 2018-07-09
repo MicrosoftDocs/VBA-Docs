@@ -18,7 +18,7 @@ Aligns all the shapes in the specified  **ShapeRange** object.
 
 ## Syntax
 
- _expression_. **Align**( **_AlignCmd_**,  **_RelativeTo_**)
+ _expression_. **Align**(**_AlignCmd_**,  **_RelativeTo_**)
 
  _expression_ A variable that represents a  **ShapeRange** object.
 

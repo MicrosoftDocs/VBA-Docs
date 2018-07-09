@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Integer** ) containing a whole number representing the day of the week.
+Returns a  **Variant** (**Integer** ) containing a whole number representing the day of the week.
  **Syntax**
  **Weekday(**_date_, [ **_firstdayofweek_** ] **)**
 The  **Weekday** function syntax has these[named arguments](vbe-glossary.md):

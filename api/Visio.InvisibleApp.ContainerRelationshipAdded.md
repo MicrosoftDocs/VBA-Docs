@@ -15,7 +15,7 @@ Occurs when a new container relationship is added to the document.
 
 ## Syntax
 
-Private Sub  _expression_ _'ContainerRelationshipAdded'( **_By Val ShapePair As RelatedShapePairEvent_** )
+Private Sub  _expression_ _'ContainerRelationshipAdded'(**_By Val ShapePair As RelatedShapePairEvent_** )
 
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 

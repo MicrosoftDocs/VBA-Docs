@@ -29,7 +29,7 @@ Represents a single  **CustomXMLPart** in a **CustomXMLParts** collection.
 |**Name**|**Description**|
 |:-----|:-----|
 |[AddNode](../../Office.CustomXMLPart.AddNode.md)|Adds a node to the XML tree.|
-|[Delete](../../Office.CustomXMLPart.Delete.md)|Deletes the current  **CustomXMLPart** from the data store ( **IXMLDataStore** interface).|
+|[Delete](../../Office.CustomXMLPart.Delete.md)|Deletes the current  **CustomXMLPart** from the data store (**IXMLDataStore** interface).|
 |[Load](../../Office.CustomXMLPart.Load.md)|Allows the template author to populate a  **CustomXMLPart** from an existing file. Returns **True** if the load was successful.|
 |[LoadXML](../../Office.CustomXMLPart.LoadXML.md)|Allows the template author to populate a  **CustomXMLPart** object from an XML string. Returns **True** if the load was successful.|
 |[SelectNodes](../../Office.CustomXMLPart.SelectNodes.md)|Selects a collection of nodes from a custom XML part.|

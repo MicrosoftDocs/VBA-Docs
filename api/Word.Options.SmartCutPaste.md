@@ -38,7 +38,7 @@ With myDoc
 End With
 ```
 
-This example returns the status of the  **Smart cut and paste** option on the **Edit** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the status of the  **Smart cut and paste** option on the **Edit** tab in the **Options** dialog box (**Tools** menu).
 
 
 

@@ -43,7 +43,7 @@ End Sub
 
 ## Adding Comments
 
-Comments can explain a procedure or a particular instruction to anyone reading your code. Visual Basic ignores comments when it runs your procedures. Comment lines begin with an apostrophe ( **'** ) or with **Rem** followed by a space, and can be added anywhere in a procedure. To add a comment to the same line as a statement, insert an apostrophe after the statement, followed by the comment. By default, comments are displayed as green text.
+Comments can explain a procedure or a particular instruction to anyone reading your code. Visual Basic ignores comments when it runs your procedures. Comment lines begin with an apostrophe (**'** ) or with **Rem** followed by a space, and can be added anywhere in a procedure. To add a comment to the same line as a statement, insert an apostrophe after the statement, followed by the comment. By default, comments are displayed as green text.
 
 
 ## Checking Syntax Errors

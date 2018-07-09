@@ -18,7 +18,7 @@ Occurs when Microsoft Publisher requires data to generate barcodes in a mail-mer
 
 ## Syntax
 
- _expression_. **MailMergeGenerateBarcode**( **_Doc_**,  **_bstrString_**)
+ _expression_. **MailMergeGenerateBarcode**(**_Doc_**,  **_bstrString_**)
 
  _expression_ A variable that represents an  **Application** object.
 

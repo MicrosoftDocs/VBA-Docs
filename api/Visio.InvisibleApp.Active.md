@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The active application on the Windows desktop is distinct from the active Visio instance, which is returned by a call to the OLE  **GetActiveObject** method ( **GetObject** method in Microsoft Visual Basic). The **GetObject** method retrieves the instance of Visio that was most recently activated, which may or may not be the active application on the desktop at that moment. Of all instances of Visio that are currently running, only one is the active Visio instance.
+The active application on the Windows desktop is distinct from the active Visio instance, which is returned by a call to the OLE  **GetActiveObject** method (**GetObject** method in Microsoft Visual Basic). The **GetObject** method retrieves the instance of Visio that was most recently activated, which may or may not be the active application on the desktop at that moment. Of all instances of Visio that are currently running, only one is the active Visio instance.
 
 For example, suppose you start one instance of Visio and one of another application, such as Microsoft Excel.
 

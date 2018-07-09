@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.UniqueIDSuccessors Property (Project)
 
-Gets or sets the unique identification ( **UniqueID** ) numbers of the successors of the task, separated by the list separator. Read/write **String**.
+Gets or sets the unique identification (**UniqueID** ) numbers of the successors of the task, separated by the list separator. Read/write **String**.
 
 
 ## Syntax

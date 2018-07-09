@@ -15,7 +15,7 @@ Gets the count of hyperlinks associated with the shape at the specified index in
 
 ## Syntax
 
- _expression_. **HyperlinkCount**( **_ShapeIndex_**)
+ _expression_. **HyperlinkCount**(**_ShapeIndex_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

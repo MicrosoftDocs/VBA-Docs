@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether the shortcut (right-click) menu is e
 
 ## Remarks
 
-The default is for the shortcut menu to be enabled ( **True**).
+The default is for the shortcut menu to be enabled (**True**).
 
 If the  **ContextMenuEnabled** property is set to **False**, there is no way for the user to access that menu. However, all of the commands on the menu are available on the toolbar.
 

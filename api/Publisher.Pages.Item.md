@@ -18,7 +18,7 @@ Returns the specified  **[Page](Publisher.Page.md)** object from a **Pages** or 
 
 ## Syntax
 
- _expression_. **Item**( **_Item_**)
+ _expression_. **Item**(**_Item_**)
 
  _expression_ A variable that represents a  **Pages** object.
 

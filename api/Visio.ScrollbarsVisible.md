@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether the scroll bars are visible in Micro
 
 ## Remarks
 
-The default is for the scroll bars to be visible ( **True**).
+The default is for the scroll bars to be visible (**True**).
 
 
 ## Example

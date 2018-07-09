@@ -33,7 +33,7 @@ Obtains a  **[Column](Outlook.Column.md)** object specified by _Index_ .
 
 ### Return Value
 
- A **Column** object that represents the column matching the _Index_ in the **[Table](Outlook.Table.md)** . Returns the error, "Array index out of bounds" if _Index_ is an invalid **Long** integer. Returns **Null** ( **Nothing** in Visual Basic) if _Index_ is a **String** representing a column name that cannot be found in the **Table** .
+ A **Column** object that represents the column matching the _Index_ in the **[Table](Outlook.Table.md)** . Returns the error, "Array index out of bounds" if _Index_ is an invalid **Long** integer. Returns **Null** (**Nothing** in Visual Basic) if _Index_ is a **String** representing a column name that cannot be found in the **Table** .
 
 
 ## See also

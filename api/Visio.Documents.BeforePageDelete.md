@@ -18,7 +18,7 @@ Occurs before a page is deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _'BeforePageDelete'( **_ByVal Page As [IVPAGE]_** )
+Private Sub  _expression_ _'BeforePageDelete'(**_ByVal Page As [IVPAGE]_** )
 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 

@@ -63,7 +63,7 @@ For Each T In ActiveProject.Tasks
 Next T
 ```
 
-Use the  **[Split](Project.Task.Split.md)** method ( **Task** object) to add a **SplitPart** object to the **SplitParts** collection. (The **Split** method creates a split in a task.) The following example creates a split in the task from Wednesday to Monday, in October of 2012.
+Use the  **[Split](Project.Task.Split.md)** method (**Task** object) to add a **SplitPart** object to the **SplitParts** collection. (The **Split** method creates a split in a task.) The following example creates a split in the task from Wednesday to Monday, in October of 2012.
  
 
  

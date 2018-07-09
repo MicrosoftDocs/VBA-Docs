@@ -25,7 +25,7 @@ Finds the next row in the  **[Table](Outlook.Table.md)** that meets the criteria
 
 ### Return Value
 
-A  **[Row](Outlook.Row.md)** object that represents the next row in the **Table** that meets the filter condition in the preceding call to **FindRow** . Returns **Null** ( **Nothing** in Visual Basic) if **FindNextRow** cannot find another row that meets the criteria specified in **FindRow** . Also returns **Null** if **FindRow** has not been called before **FindNextRow** .
+A  **[Row](Outlook.Row.md)** object that represents the next row in the **Table** that meets the filter condition in the preceding call to **FindRow** . Returns **Null** (**Nothing** in Visual Basic) if **FindNextRow** cannot find another row that meets the criteria specified in **FindRow** . Also returns **Null** if **FindRow** has not been called before **FindNextRow** .
 
 
 ## Remarks

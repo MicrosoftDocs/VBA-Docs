@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) containing a copy of a specified string without leading spaces ( **LTrim** ), trailing spaces ( **RTrim** ), or both leading and trailing spaces ( **Trim** ).
+Returns a  **Variant** (**String** ) containing a copy of a specified string without leading spaces (**LTrim** ), trailing spaces (**RTrim** ), or both leading and trailing spaces (**Trim** ).
  **Syntax**
  **LTrim** ( _string_ )
  **RTrim** ( _string_ )

@@ -15,7 +15,7 @@ Occurs after the name of a page, the background page associated with a page, or 
 
 ## Syntax
 
-Private Sub  _expression_ _'PageChanged'( **_ByVal page As [IVPAGE]_** )
+Private Sub  _expression_ _'PageChanged'(**_ByVal page As [IVPAGE]_** )
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 

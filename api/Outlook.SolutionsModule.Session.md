@@ -25,7 +25,7 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 ## Remarks
 
-Returns  **Null** ( **Nothing** in Visual Basic) if there is no logged-on session.
+Returns  **Null** (**Nothing** in Visual Basic) if there is no logged-on session.
 
 The  **Session** property and the **[GetNamespace](Outlook.Application.GetNamespace.md)** method can be used interchangeably to obtain the **NameSpace** object for the current session. Both members serve the same purpose. For example, the following statements perform the same function.
 

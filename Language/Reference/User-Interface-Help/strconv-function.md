@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) converted as specified.
+Returns a  **Variant** (**String** ) converted as specified.
  **Syntax**
- **StrConv** ( **_string, conversion, LCID_** )
+ **StrConv** (**_string, conversion, LCID_** )
 The  **StrConv** function syntax has these[named arguments](vbe-glossary.md):
 
 
@@ -46,7 +46,7 @@ The  **_conversion_**[argument](vbe-glossary.md) settings are:
 
  **Note**  These [constants](vbe-glossary.md) are specified by Visual Basic for Applications. As a result, they may be used anywhere in your code in place of the actual values. Most can be combined, for example, **vbUpperCase + vbWide**, except when they are mutually exclusive, for example, **vbUnicode + vbFromUnicode**. The constants **vbWide**, **vbNarrow**, **vbKatakana**, and **vbHiragana** cause[run-time errors](vbe-glossary.md) when used in[locales](vbe-glossary.md) where they do not apply.
 
-The following are valid word separators for proper casing: [Null](vbe-glossary.md) ( **Chr$(** 0 **)** ), horizontal tab ( **Chr$(** 9 **)** ), linefeed ( **Chr$(** 10 **)** ), vertical tab ( **Chr$(** 11 **)** ), form feed ( **Chr$(** 12 **)** ), carriage return ( **Chr$(** 13 **)** ), space (SBCS) ( **Chr$(** 32 **)** ). The actual value for a space varies by country/region for[DBCS](vbe-glossary.md).
+The following are valid word separators for proper casing: [Null](vbe-glossary.md) (**Chr$(** 0 **)** ), horizontal tab (**Chr$(** 9 **)** ), linefeed (**Chr$(** 10 **)** ), vertical tab (**Chr$(** 11 **)** ), form feed (**Chr$(** 12 **)** ), carriage return (**Chr$(** 13 **)** ), space (SBCS) (**Chr$(** 32 **)** ). The actual value for a space varies by country/region for[DBCS](vbe-glossary.md).
  **Remarks**
 When converting from a  **Byte** array in ANSI format to a string, use the **StrConv** function. When converting from such an array in Unicode format, use an assignment statement.
 

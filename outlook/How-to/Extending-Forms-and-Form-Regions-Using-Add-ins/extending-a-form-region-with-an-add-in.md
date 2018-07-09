@@ -14,7 +14,7 @@ While you can create and run forms with form regions without a COM add-in, using
 
 ## Specifying the Use of an Add-in
 
-When you register the form region for a message class, create a key in the Windows registry for that message class (if the key does not yet exist), and specify as data, an equal sign ( **=**) followed by the ProgID of the add-in. For more information on registering a form region in the Windows registry, see  [Specifying Form Regions in the Windows Registry](../../Concepts/Creating-Form-Regions/../../Concepts/Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
+When you register the form region for a message class, create a key in the Windows registry for that message class (if the key does not yet exist), and specify as data, an equal sign (**=**) followed by the ProgID of the add-in. For more information on registering a form region in the Windows registry, see  [Specifying Form Regions in the Windows Registry](../../Concepts/Creating-Form-Regions/../../Concepts/Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
 
 
 ## Implementing FormRegionStartup

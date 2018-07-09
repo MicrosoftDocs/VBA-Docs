@@ -25,7 +25,7 @@ Returns a  **[Range](Word.Range.md)** object that represents a field's code. Rea
 
 ## Remarks
 
-A field's code is everything that's enclosed by the field characters ( **{ }** ) including the leading space and trailing space characters. You can access a field's code without changing the view from field results.
+A field's code is everything that's enclosed by the field characters (**{ }** ) including the leading space and trailing space characters. You can access a field's code without changing the view from field results.
 
 
 ## Example

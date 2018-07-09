@@ -15,7 +15,7 @@ Occurs when the shape selection is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnSelectionChanged**( **_ShapeIndex_**)
+ _expression_. **OnSelectionChanged**(**_ShapeIndex_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

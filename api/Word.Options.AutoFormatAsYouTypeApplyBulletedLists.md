@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatAsYouTypeApplyBulletedLists Property (Word)
 
- **True** if bullet characters (such as asterisks, hyphens, and greater-than signs) are replaced with bullets from the **Bullets And Numbering** dialog box ( **Format** menu) as you type. Read/write **Boolean** .
+ **True** if bullet characters (such as asterisks, hyphens, and greater-than signs) are replaced with bullets from the **Bullets And Numbering** dialog box (**Format** menu) as you type. Read/write **Boolean** .
 
 
 ## Syntax
@@ -32,7 +32,7 @@ This example causes characters to be replaced with bullets when typed in a list.
 Options.AutoFormatAsYouTypeApplyBulletedLists = True
 ```
 
-This example returns the status of the  **Automatic bulleted lists** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the  **Automatic bulleted lists** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box (**Tools** menu).
 
 
 

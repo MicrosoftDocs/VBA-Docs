@@ -34,7 +34,7 @@ Allows you to add a custom namespace/prefix mapping to use when querying an item
 
 ## Remarks
 
-If the prefix already exists in the Namespace Manager, this method will overwrite the meaning of that prefix except when the prefix is one added or used by the data store ( **IXMLDataStore** interface) internally, in which case it will return an error.
+If the prefix already exists in the Namespace Manager, this method will overwrite the meaning of that prefix except when the prefix is one added or used by the data store (**IXMLDataStore** interface) internally, in which case it will return an error.
 
 
 ## Example

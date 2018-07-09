@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **ShowHidden** property also controls whether hidden bookmarks are listed in the **Bookmark** dialog box ( **Insert** menu). Hidden bookmarks are automatically inserted when cross-references are inserted into the document.
+The  **ShowHidden** property also controls whether hidden bookmarks are listed in the **Bookmark** dialog box (**Insert** menu). Hidden bookmarks are automatically inserted when cross-references are inserted into the document.
 
 
 ## Example

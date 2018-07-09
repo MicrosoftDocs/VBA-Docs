@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Integer** ) containing a whole number representing the year.
+Returns a  **Variant** (**Integer** ) containing a whole number representing the year.
  **Syntax**
  **Year(**_date_**)**
 The required  _date_[argument](vbe-glossary.md) is any[Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a date. If  _date_ contains[Null](vbe-glossary.md),  **Null** is returned.

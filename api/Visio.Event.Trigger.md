@@ -43,9 +43,9 @@ Triggering an event causes the action associated with the event to be performed.
 
 
 
-- If the action is to run an add-on ( **visEvtCodeRunAddon** ), the string is passed in the command line string sent to the add-on.
+- If the action is to run an add-on (**visEvtCodeRunAddon** ), the string is passed in the command line string sent to the add-on.
     
-- If the action is to send a notification to the calling program ( **visEvtCodeAdvise** ), the string is passed in the _moreInfo_ parameter of the notification.
+- If the action is to send a notification to the calling program (**visEvtCodeAdvise** ), the string is passed in the _moreInfo_ parameter of the notification.
     
 
 

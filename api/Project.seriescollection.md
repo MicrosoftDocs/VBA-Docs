@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # SeriesCollection Object (Project)
-Represents a collection of data series ( **[Series](Project.series.md)** objects) in a chart.
+Represents a collection of data series (**[Series](Project.series.md)** objects) in a chart.
  
 
 ## Remarks

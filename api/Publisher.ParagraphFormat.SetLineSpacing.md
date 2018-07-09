@@ -18,7 +18,7 @@ Formats the line spacing of specified paragraphs.
 
 ## Syntax
 
- _expression_. **SetLineSpacing**( **_Rule_**,  **_Spacing_**)
+ _expression_. **SetLineSpacing**(**_Rule_**,  **_Spacing_**)
 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 

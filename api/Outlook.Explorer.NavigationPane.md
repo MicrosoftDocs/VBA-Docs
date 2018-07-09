@@ -25,7 +25,7 @@ Returns a  **[NavigationPane](Outlook.NavigationPane.md)** object that represent
 
 ## Remarks
 
-Some  **Explorer** objects may not have an associated **NavigationPane** object. In such cases, this property returns **Null** ( **Nothing** in Visual Basic.)
+Some  **Explorer** objects may not have an associated **NavigationPane** object. In such cases, this property returns **Null** (**Nothing** in Visual Basic.)
 
 
 ## Example

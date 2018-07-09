@@ -25,7 +25,7 @@ Returns the collection of  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** obj
 
 ## Remarks
 
-The  **SlicerCacheLevels** property applies only to slicers that filter OLAP data sources ( **SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **True** ). Attempting to access this property from non-OLAP slicers will generate a run-time error.
+The  **SlicerCacheLevels** property applies only to slicers that filter OLAP data sources (**SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **True** ). Attempting to access this property from non-OLAP slicers will generate a run-time error.
 
 
 ## See also

@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether warnings and alerts appear when an e
 
 ## Remarks
 
-The default is for warnings and alerts to appear ( **True**).
+The default is for warnings and alerts to appear (**True**).
 
 
 ## Example

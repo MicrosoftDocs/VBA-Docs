@@ -30,7 +30,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example compares the author name of each comment in the active document with the user name on the  **User Information** tab in the **Options** dialog box ( **Tools** menu). If the names aren't the same, the comment reference mark is formatted to appear in red.
+This example compares the author name of each comment in the active document with the user name on the  **User Information** tab in the **Options** dialog box (**Tools** menu). If the names aren't the same, the comment reference mark is formatted to appear in red.
 
 
 ```vb

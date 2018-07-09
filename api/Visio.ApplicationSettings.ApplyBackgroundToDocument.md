@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ApplicationSettings.ApplyBackgroundToDocument Property (Visio)
 
-Determines whether the selected background or border is applied to all pages in the document ( **True** ) or only to the current page ( **False** ). Read/write.
+Determines whether the selected background or border is applied to all pages in the document (**True** ) or only to the current page (**False** ). Read/write.
 
 
 ## Syntax

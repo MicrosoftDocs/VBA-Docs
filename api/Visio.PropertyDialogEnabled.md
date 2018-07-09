@@ -27,7 +27,7 @@ Gets or sets a value that indicates whether the  **Properties and Settings** dia
 
 ## Remarks
 
-The default is for the  **Properties and Settings** dialog box to be available ( **True**).
+The default is for the  **Properties and Settings** dialog box to be available (**True**).
 
 When the  **PropertyDialogEnabled** property is set to **False**, clicking  **Properties and Settings** in the toolbar or on the shortcut (right-click) menu has no effect.
 

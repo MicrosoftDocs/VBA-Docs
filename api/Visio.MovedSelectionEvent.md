@@ -18,6 +18,6 @@ Holds information about a selection that is moved from one location, such as a p
 
 ## Remarks
 
-When you move a selection of shapes to a sub-process page, Microsoft Visio fires the  **SelectionMovedToSubprocess** event ( **[AddAdvise](Visio.EventList.AddAdvise.md)** -only), which returns a **MovedSelectionEvent** object that encapsulates information about the move.
+When you move a selection of shapes to a sub-process page, Microsoft Visio fires the  **SelectionMovedToSubprocess** event (**[AddAdvise](Visio.EventList.AddAdvise.md)** -only), which returns a **MovedSelectionEvent** object that encapsulates information about the move.
 
 

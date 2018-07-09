@@ -30,7 +30,7 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 
 ## Remarks
 
-The  **VisibleSlicerItems** property is only applicable for slicers that are based on PivotTables based on workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ). Attempting to access the **VisibleSlicerItems** property for slicers that are connected to an OLAP data source ( **SlicerCache** . **OLAP** = **True** ) generates a run-time error.
+The  **VisibleSlicerItems** property is only applicable for slicers that are based on PivotTables based on workbook ranges or lists (**SlicerCache** . **SourceType** = **xlDatabase** ). Attempting to access the **VisibleSlicerItems** property for slicers that are connected to an OLAP data source (**SlicerCache** . **OLAP** = **True** ) generates a run-time error.
 
 
 ## See also

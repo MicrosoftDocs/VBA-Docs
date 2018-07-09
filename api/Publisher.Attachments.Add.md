@@ -18,7 +18,7 @@ Adds an  **Attachment** object to the **Attachments** collection of a Microsoft 
 
 ## Syntax
 
- _expression_. **Add**( **_Filename_**)
+ _expression_. **Add**(**_Filename_**)
 
  _expression_ A variable that represents an  **Attachments** colleciton.
 

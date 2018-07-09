@@ -38,7 +38,7 @@ A  **Folder** object that represents a special folder specified by the _FolderTy
 
 ## Remarks
 
-Not all special folders exist in all stores. If the requested special folder does not exist, a  **Null** value ( **Nothing** in VB) will be returned.
+Not all special folders exist in all stores. If the requested special folder does not exist, a  **Null** value (**Nothing** in VB) will be returned.
 
 
 ## See also

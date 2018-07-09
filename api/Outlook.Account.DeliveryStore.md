@@ -25,7 +25,7 @@ Returns a  **[Store](Outlook.Store.md)** object that represents the default deli
 
 ## Remarks
 
-Returns  **Null** ( **Nothing** in Visual Basic) if the account does not have a default delivery store.
+Returns  **Null** (**Nothing** in Visual Basic) if the account does not have a default delivery store.
 
 
 ## See also

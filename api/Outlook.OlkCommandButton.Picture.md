@@ -25,7 +25,7 @@ Returns or sets a  **StdPicture** value that represents the picture that is disp
 
 ## Remarks
 
-The picture is of the Microsoft Windows type  **StdPicture** . The default value is **Null** ( **Nothing** in Visual Basic).
+The picture is of the Microsoft Windows type  **StdPicture** . The default value is **Null** (**Nothing** in Visual Basic).
 
 A picture and text cannot be displayed at the same time on the control, so when the picture property is set, the text property is ignored.
 

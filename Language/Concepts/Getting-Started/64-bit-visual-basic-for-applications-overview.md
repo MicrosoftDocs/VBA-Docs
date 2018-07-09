@@ -63,7 +63,7 @@ Declare PtrSafe Function GetActiveWindow Lib "user32" () As Long
 ```
 
 To reiterate, you must modify the  **Declare** statement to include the **PtrSafe** qualifier and you must update any variables within the statement that need to hold 64-bit quantities so that the variables use 64-bit data types.
-VBA  **Declare** statement example modified to include the **PtrSafe** keyword and updated to use the proper 64-bit ( **LongPtr** ) data type:
+VBA  **Declare** statement example modified to include the **PtrSafe** keyword and updated to use the proper 64-bit (**LongPtr** ) data type:
 
 
 

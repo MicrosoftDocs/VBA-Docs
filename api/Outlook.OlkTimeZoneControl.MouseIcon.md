@@ -25,7 +25,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 ## Remarks
 
-The default value is  **Null** ( **Nothing** in Visual Basic).
+The default value is  **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

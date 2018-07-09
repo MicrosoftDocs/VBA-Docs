@@ -17,7 +17,7 @@ Tells Microsoft Office Excel what to do with the results and what kind of report
  **Note**  The Solver add-in is not enabled by default. Before you can use this function, you must have the Solver add-in enabled and installed. For information about how to do that, see  [Using the Solver VBA Functions](using-the-solver-vba-functions.md). After the Solver add-in is installed, you must establish a reference to the Solver add-in. In the Visual Basic Editor, with a module active, click  **References** on the **Tools** menu, and then select **Solver** under **Available References**. If  **Solver** does not appear under **Available References**, click  **Browse**, and then open Solver.xlam in the \Program Files\Microsoft Office\Office14\Library\SOLVER subfolder.
 
 
- **SolverFinish**( **_KeepFinal_**,  **_ReportArray_**, **_OutlineReports_**)
+ **SolverFinish**(**_KeepFinal_**,  **_ReportArray_**, **_OutlineReports_**)
 
  **KeepFinal** Optional **Variant**. Can be either 1 or 2. If  **_KeepFinal_** is 1 or omitted, the final solution values are kept in the changing cells, replacing any former values. If **_KeepFinal_** is 2, the final solution values are discarded, and the former values are restored.
  **ReportArray** Optional **Variant**. The kind of report that Excel will create when Solver is finished:

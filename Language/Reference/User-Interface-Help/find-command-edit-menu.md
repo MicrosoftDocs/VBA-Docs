@@ -22,7 +22,7 @@ Toolbar shortcut:
  **Find Next**
 Finds and selects the next occurrence of the text specified in the Find What box of the  **Find** dialog box.
 Toolbar shortcut: 
-![Toolbar button](../../../images/tbr_next_ZA01201716.gif). Keyboard shortcuts: SHIFT+F4 ( **Find** **Next** ) or SHIFT+F3 ( **Find** **Previous** ).
+![Toolbar button](../../../images/tbr_next_ZA01201716.gif). Keyboard shortcuts: SHIFT+F4 (**Find** **Next** ) or SHIFT+F3 (**Find** **Previous** ).
 
 ## Dialog Box Options
 

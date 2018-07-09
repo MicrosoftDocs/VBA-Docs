@@ -18,7 +18,7 @@ Saves a single shape as a picture file.
 
 ## Syntax
 
- _expression_. **SaveAsPicture**( **_Filename_**,  **_pbResolution_**)
+ _expression_. **SaveAsPicture**(**_Filename_**,  **_pbResolution_**)
 
  _expression_ A variable that represents a  **Shape** object.
 

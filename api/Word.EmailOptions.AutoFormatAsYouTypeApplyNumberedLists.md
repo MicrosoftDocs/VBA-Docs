@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
- If set to **True** , numbered lists use a numbering scheme from the **Bullets and Numbering** dialog box ( **Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character when the ENTER key is pressed.
+ If set to **True** , numbered lists use a numbering scheme from the **Bullets and Numbering** dialog box (**Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character when the ENTER key is pressed.
 
 
 ## Example
@@ -37,7 +37,7 @@ This example causes lists to be automatically numbered as you type.
 Options.AutoFormatAsYouTypeApplyNumberedLists = True
 ```
 
-This example returns the status of the  **Automatic numbered lists** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the  **Automatic numbered lists** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box (**Tools** menu).
 
 
 

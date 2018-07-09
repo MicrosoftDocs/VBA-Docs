@@ -27,9 +27,9 @@ Determines whether the  **Search Pages** control for searching for shapes in a d
 
 ## Remarks
 
-Search returns non-zero ( **True**) if the  **Search Pages** control is displayed after the drawing is exported to a Web page; otherwise, it returns zero ( **False**). The default is  **True**.
+Search returns non-zero (**True**) if the  **Search Pages** control is displayed after the drawing is exported to a Web page; otherwise, it returns zero (**False**). The default is  **True**.
 
-Set  **Search** to a non-zero value ( **True**) to display the  **Search Pages** control after the drawing is exported to a Web page; otherwise, set it to zero ( **False**). 
+Set  **Search** to a non-zero value (**True**) to display the  **Search Pages** control after the drawing is exported to a Web page; otherwise, set it to zero (**False**). 
 
 This property corresponds to the  **Search Pages** check box under **Publishing Options** on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
 

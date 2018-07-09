@@ -67,9 +67,9 @@ The settings for  _Shift_ are:
 
  **Remarks**
 Use this event to monitor the mouse pointer as it enters, leaves, or rests directly over a valid [target](../../../language/Glossary/glossary-vba.md). When a drag-and-drop operation is in progress, the system initiates this event when the user moves the mouse, or presses or releases the mouse button or buttons. The mouse pointer position determines the target object that receives this event. You can determine the state of the mouse pointer by examining the  _DragState_ argument.
-When a control handles this event, you can use the  _Effect_ argument to identify the drag-and-drop action to perform. When _Effect_ is set to **fmDropEffectCopyOrMove**, the drop source supports a copy ( **fmDropEffectCopy** ), move ( **fmDropEffectMove** ), or a cancel ( **fmDropEffectNone** ) operation.
-When  _Effect_ is set to **fmDropEffectCopy**, the drop source supports a copy or a cancel ( **fmDropEffectNone** ) operation.
-When  _Effect_ is set to **fmDropEffectMove**, the drop source supports a move or a cancel ( **fmDropEffectNone** ) operation.
+When a control handles this event, you can use the  _Effect_ argument to identify the drag-and-drop action to perform. When _Effect_ is set to **fmDropEffectCopyOrMove**, the drop source supports a copy (**fmDropEffectCopy** ), move (**fmDropEffectMove** ), or a cancel (**fmDropEffectNone** ) operation.
+When  _Effect_ is set to **fmDropEffectCopy**, the drop source supports a copy or a cancel (**fmDropEffectNone** ) operation.
+When  _Effect_ is set to **fmDropEffectMove**, the drop source supports a move or a cancel (**fmDropEffectNone** ) operation.
 When  _Effect_ is set to **fmDropEffectNone**. the drop source supports a cancel operation.
 Most controls do not support drag-and-drop while  _Cancel_ is **False**, which is the default setting. This means the control rejects attempts to drag or drop anything on the control, and the control does not initiate the BeforeDropOrPaste event. The **TextBox** and **ComboBox** controls are exceptions to this; these controls support drag-and-drop operations even when _Cancel_ is **False**.
 

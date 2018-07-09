@@ -15,7 +15,7 @@ Occurs after a property of a shape that is not stored in a cell is changed in a 
 
 ## Syntax
 
-Private Sub  _expression_ _'ShapeChanged'( **_ByVal Shape As [IVSHAPE]_** )
+Private Sub  _expression_ _'ShapeChanged'(**_ByVal Shape As [IVSHAPE]_** )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

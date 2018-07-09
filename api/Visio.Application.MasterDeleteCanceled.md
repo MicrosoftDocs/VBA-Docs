@@ -15,7 +15,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _'MasterDeleteCanceled'( **_ByVal Master As [IVMASTER]_** )
+Private Sub  _expression_ _'MasterDeleteCanceled'(**_ByVal Master As [IVMASTER]_** )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

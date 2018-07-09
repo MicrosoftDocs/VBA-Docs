@@ -33,7 +33,7 @@ Deletes the properties specified in the array  _SchemaNames_ .
 
 ### Return Value
 
-A Variant that is  **Null** ( **Nothing** in VBA) if the operation is successful, or is an array of **[Err](../language/reference/User-Interface-Help/err-object.md)** objects if an error occurs. If the return value is an array, the size of this array is the same as that of the _SchemaNames_ array. An **Err** value in the array is mapped to the error result of deleting the corresponding property in the _SchemaNames_ parameter.
+A Variant that is  **Null** (**Nothing** in VBA) if the operation is successful, or is an array of **[Err](../language/reference/User-Interface-Help/err-object.md)** objects if an error occurs. If the return value is an array, the size of this array is the same as that of the _SchemaNames_ array. An **Err** value in the array is mapped to the error result of deleting the corresponding property in the _SchemaNames_ parameter.
 
 
 ## Remarks

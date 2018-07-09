@@ -77,7 +77,7 @@ To access a protected document, a user needs the following:
     
 - The specific IRM permissions for any method or event that is used.
     
-The following tables show the required permissions. Use the corresponding  **msoPermission** constants from the previous section. For almost all APIs, the user needs the Edit ( **msoPermissionEdit**) permission. Note that if the user has Full Control ( **msoPermissionFullControl**), all APIs are enabled.
+The following tables show the required permissions. Use the corresponding  **msoPermission** constants from the previous section. For almost all APIs, the user needs the Edit (**msoPermissionEdit**) permission. Note that if the user has Full Control (**msoPermissionFullControl**), all APIs are enabled.
 
 
 **IRM permissions for Methods**
@@ -86,8 +86,8 @@ The following tables show the required permissions. Use the corresponding  **mso
 |**Method**|**Required permission**|
 |:-----|:-----|
 | **Copy**|Read and Copy|
-| **Copy** ( **Selection** object)|Read and Copy|
-| **Copy** ( **Shape** object)|Read and Copy|
+| **Copy** (**Selection** object)|Read and Copy|
+| **Copy** (**Shape** object)|Read and Copy|
 | **GetFilterCommands**|Read|
 | **GetFilterObjects**|Read|
 | **GetFilterSRC**|Read|
@@ -96,7 +96,7 @@ The following tables show the required permissions. Use the corresponding  **mso
 | **GetPolylineData**|Read|
 | **GetResults**|Read|
 | **GetViewRect**|Read|
-| **Open** ( **Documents** collection)|Read|
+| **Open** (**Documents** collection)|Read|
 | **OpenEx**|Read|
 | **Print**|Read and Print|
 | **PrintTile**|Read and Print|

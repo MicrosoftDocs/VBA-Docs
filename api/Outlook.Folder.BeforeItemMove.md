@@ -37,7 +37,7 @@ Occurs when an item is about to be moved or deleted from a folder, either as a r
 
 This event fires when the item is about to be moved to another folder (including the Deleted Items folder) or when the item is about to be permanently deleted. It does not fire during auto-archiving or synchronizing operations.
 
-If the action is a permanent delete, the  _MoveTo_ folder returned in the event will be **Null** ( **Nothing** in Visual Basic).
+If the action is a permanent delete, the  _MoveTo_ folder returned in the event will be **Null** (**Nothing** in Visual Basic).
 
 
 ## See also

@@ -19,7 +19,7 @@ ms.date: 06/08/2017
     
 - To view an event procedure, select the appropriate object in the  **Object** box in the **Code** window, and then select the event in the **Procedure** box.
     
-     **Note**  To visually separate [procedures](vbe-glossary.md) in the **Code** window, you can select the **Procedure Separator** check box on the **Editor** tab of the **Options** dialog box ( **Tools** menu). You can switch between Procedure view and Full Module view using the buttons in the lower-left corner of the **Code** window.
+     **Note**  To visually separate [procedures](vbe-glossary.md) in the **Code** window, you can select the **Procedure Separator** check box on the **Editor** tab of the **Options** dialog box (**Tools** menu). You can switch between Procedure view and Full Module view using the buttons in the lower-left corner of the **Code** window.
 
  **To find a procedure in another module**
 

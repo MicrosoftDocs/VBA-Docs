@@ -34,7 +34,7 @@ You can set the  **NegotiateToolbars** property either at design time (for examp
 
 When  **NegotiateToolbars** is set to **True** , you can use the methods and properties of the Visio object model to customize Visio toolbars in the Visio Drawing Control window.
 
-Visio task panes are implemented as toolbars. If you set  **NegotiateMenus** to **True** , but set **NegotiateToolbars** to **False** , menu commands such as **Task Pane** ( **View** menu) and **Microsoft Office Visio Help** ( **Help** menu) will be unavailable.
+Visio task panes are implemented as toolbars. If you set  **NegotiateMenus** to **True** , but set **NegotiateToolbars** to **False** , menu commands such as **Task Pane** (**View** menu) and **Microsoft Office Visio Help** (**Help** menu) will be unavailable.
 
 
 

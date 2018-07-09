@@ -24,7 +24,7 @@ Logical indices of rows in ShapeSheet sections of  **Shape** or **Style** object
 | **visRowAnnotation**|0|Index of the first row in  **visSectionAnnotation** .|
 | **visRowBevelProperties**|29|Index of the row in  **visSectionObject** that defines the bevel properties of the shape.|
 | **visRowCharacter**|0|Index of the first row in  **visSectionCharacter** .|
-| **visRowComponent**|0|Index of the component properties row in a Geometry section ( **visSectionFirstComponent** +).|
+| **visRowComponent**|0|Index of the component properties row in a Geometry section (**visSectionFirstComponent** +).|
 | **visRowConnectionPts**|0|Index of the first row in  **visSectionConnectionPts** .|
 | **visRowControl**|0|Index of the first row in  **visSectionControl** .|
 | **visRowDoc**|20|Index of the row in  **visSectionObject** that contains document properties.|

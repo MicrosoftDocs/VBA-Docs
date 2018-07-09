@@ -15,7 +15,7 @@ Gets the ID of the shape at the specified index position in the collection of sh
 
 ## Syntax
 
- _expression_. **ShapeIndexToID**( **_ShapeIndex_**)
+ _expression_. **ShapeIndexToID**(**_ShapeIndex_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

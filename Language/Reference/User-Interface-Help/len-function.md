@@ -56,7 +56,7 @@ MyLen = Len(MyCur)    ' Returns 8.
 
 ```
 
-The second example uses  **LenB** and a user-defined function ( **LenMbcs** ) to return the number of byte characters in a string if ANSI is used to represent the string.
+The second example uses  **LenB** and a user-defined function (**LenMbcs** ) to return the number of byte characters in a string if ANSI is used to represent the string.
 
 
 

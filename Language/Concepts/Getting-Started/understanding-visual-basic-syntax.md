@@ -39,7 +39,7 @@ MsgBox "Your answer is correct!",0,"Answer Box"
 
 ```
 
-To specify an argument by name, use the argument name followed by a colon and an equal sign ( **:=** ), and the argument's value. You can specify named arguments in any order, for example:
+To specify an argument by name, use the argument name followed by a colon and an equal sign (**:=** ), and the argument's value. You can specify named arguments in any order, for example:
 
 
 

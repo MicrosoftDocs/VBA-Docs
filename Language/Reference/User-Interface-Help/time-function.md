@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Date** ) indicating the current system time.
+Returns a  **Variant** (**Date** ) indicating the current system time.
  **Syntax**
  **Time**
  **Remarks**

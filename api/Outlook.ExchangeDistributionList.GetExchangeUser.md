@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.GetExchangeUser Method (Outlook)
 
-Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object does not correspond to an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
+Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** object does not correspond to an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **Null** ( **Nothing** in Visual Basic) because the **[ExchangeDistribu
 
 ### Return Value
 
- **Null** ( **Nothing** in Visual Basic) because the **ExchangeDistributionList** object does not correspond to an **ExchangeUser** object.
+ **Null** (**Nothing** in Visual Basic) because the **ExchangeDistributionList** object does not correspond to an **ExchangeUser** object.
 
 
 ## Remarks

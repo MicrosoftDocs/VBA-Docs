@@ -27,9 +27,9 @@ Determines whether a secondary output format for the Web page is defined. Read/w
 
 ## Remarks
 
-The  **AltFormat** property returns non-zero ( **True**) if a secondary output format for the Web page is defined; otherwise, it returns zero ( **False**). The default is  **True**.
+The  **AltFormat** property returns non-zero (**True**) if a secondary output format for the Web page is defined; otherwise, it returns zero (**False**). The default is  **True**.
 
-Set the  **AltFormat** property to a non-zero value ( **True**) to enable selection of a secondary output format for the web page; otherwise, set it to zero ( **False**).
+Set the  **AltFormat** property to a non-zero value (**True**) to enable selection of a secondary output format for the web page; otherwise, set it to zero (**False**).
 
 The  **AltFormat** property is ignored if the primary output format chosen is supported in all browsers by Microsoft Visio 2010. For more information about primary and secondary output formats, see the **[PriFormat](Visio.AltFormat.md)** and **[SecFormat](Visio.SecFormat.md)** properties.
 

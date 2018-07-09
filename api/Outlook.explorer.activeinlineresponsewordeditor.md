@@ -21,7 +21,7 @@ Returns the Word [Document](./Word.Document.md) object of the active inline resp
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if no inline response is visible in the Reading Pane. The returned Word **Document** object provides access to most of the Word object model except for the following members:
+This property returns  **Null** (**Nothing** in Visual Basic) if no inline response is visible in the Reading Pane. The returned Word **Document** object provides access to most of the Word object model except for the following members:
 
 
 - [InlineShapes.AddChart2](./Word.inlineshapes.addchart2.md)

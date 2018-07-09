@@ -21,7 +21,7 @@ The required _line_ [argument](vbe-glossary.md) can be any [line label](vbe-glos
  
  **GoTo** can branch only to lines within the procedure where it appears.
 
- >**Note**  Too many  **GoTo** statements can make code difficult to read and debug. Use structured control [statements](vbe-glossary.md) ( **Do...Loop**, **For...Next**, **If...Then...Else**, **Select Case** ) whenever possible.
+ >**Note**  Too many  **GoTo** statements can make code difficult to read and debug. Use structured control [statements](vbe-glossary.md) (**Do...Loop**, **For...Next**, **If...Then...Else**, **Select Case** ) whenever possible.
 
 ## Example
 

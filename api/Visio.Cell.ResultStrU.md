@@ -42,7 +42,7 @@ Getting the  **ResultStrU** property is similar to getting a cell's **Result** p
 
 You can specify  _UnitsNameOrCode_ as an integer or a string value. If the string is invalid, an error is generated. For example, the following statements all set _UnitsNameOrCode_ to inches.
 
- _stringReturned_ = **Cell.ResultStrU** ( **visInches** )
+ _stringReturned_ = **Cell.ResultStrU** (**visInches** )
 
  _stringReturned_ = **Cell.ResultStrU** (65)
 

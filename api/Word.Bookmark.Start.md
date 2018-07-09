@@ -29,7 +29,7 @@ If this property is set to a value larger than that of the  **[End](Word.Bookmar
 
  Bookmark objects have starting and ending character positions. The starting position refers to the character position closest to the beginning of the story.
 
-This property returns the starting character position relative to the beginning of the story. The main text story ( **wdMainTextStory** ) begins with character position 0 (zero). You can change the size of a bookmark by setting this property.
+This property returns the starting character position relative to the beginning of the story. The main text story (**wdMainTextStory** ) begins with character position 0 (zero). You can change the size of a bookmark by setting this property.
 
 
 ## Example

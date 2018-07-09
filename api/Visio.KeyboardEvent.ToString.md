@@ -68,7 +68,7 @@ The example contains a class module and two public procedures that are inserted 
 
 The  **clsEventSink** class implements the **IVisEventProc** interface. The class module creates a class to handle events fired by the Visio **Application** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for the **MouseDown** event. When a **MouseDown** event fires, Visio passes a **MouseEvent** object to **VisEventProc** as _pSubjectObj_. The function then constructs a message that displays the string returned by the  **ToString** property of the **MouseEvent** object passed to the function.
 
-Other events fall under the default case ( **Case Else** ). The **Case Else** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
+Other events fall under the default case (**Case Else** ). The **Case Else** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
 
 The example assumes that there is an active document in the Visio application window. Copy the following code into the  **ThisDocument** project in the Visual Basic Editor:
 

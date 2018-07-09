@@ -18,7 +18,7 @@ Returns a  **String** that represents the name of the font script being used in 
 
 ## Syntax
 
- _expression_. **GetScriptName**( **_Script_**)
+ _expression_. **GetScriptName**(**_Script_**)
 
  _expression_ A variable that represents a  **Font** object.
 

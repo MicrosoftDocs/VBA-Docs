@@ -33,7 +33,7 @@ Examines, reports, and repairs selected conditions in a document.
 | _nActions_|Optional| **Variant**|Indicates which conditions to detect. See Remarks for possible values.|
 | _nAlerts_|Optional| **Variant**|Indicates which detected conditions to report. See Remarks for possible values.|
 | _nFixes_|Optional| **Variant**|Indicates which detected conditions to fix. See Remarks for possible values.|
-| _bStopOnError_|Optional| **Variant**|Non-zero ( **True** ) to cause processing to stop if an error is encountered while attempting to fix a detected condition; zero ( **False** ) to allow processing to continue.|
+| _bStopOnError_|Optional| **Variant**|Non-zero (**True** ) to cause processing to stop if an error is encountered while attempting to fix a detected condition; zero (**False** ) to allow processing to continue.|
 | _bLogFileName_|Optional| **Variant**|Reserved for future use.|
 | _nReserved_|Optional| **Variant**|Reserved for future use.|
 

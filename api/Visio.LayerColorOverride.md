@@ -15,7 +15,7 @@ Gets or sets a value that indicates whether the color of the specified layer is 
 
 ## Syntax
 
- _expression_. **LayerColorOverride**( **_LayerIndex_**)
+ _expression_. **LayerColorOverride**(**_LayerIndex_**)
 
  _expression_An expression that returns a  **Viewer** object.
 

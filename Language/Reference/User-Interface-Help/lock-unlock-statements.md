@@ -34,7 +34,7 @@ The  _recordrange_[argument](vbe-glossary.md) settings are:
 
 |**Setting**|**Description**|
 |:-----|:-----|
-| _recnumber_|Record number ( **Random** mode files) or byte number ( **Binary** mode files) at which locking or unlocking begins.|
+| _recnumber_|Record number (**Random** mode files) or byte number (**Binary** mode files) at which locking or unlocking begins.|
 | _start_|Number of the first record or byte to lock or unlock.|
 | _end_|Number of the last record or byte to lock or unlock.|
 

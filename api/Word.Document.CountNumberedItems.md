@@ -36,7 +36,7 @@ Returns the number of bulleted or numbered items and LISTNUM fields in the speci
 
 Bulleted items are counted when either  **wdNumberParagraph** or **wdNumberAllNumbers** (the default) is specified for NumberType.
 
-There are two types of numbers: preset numbers ( **wdNumberParagraph** ), which you can add to paragraphs by selecting a template in the **Bullets and Numbering** dialog box; and LISTNUM fields ( **wdNumberListNum** ), which allow you to add more than one number per paragraph.
+There are two types of numbers: preset numbers (**wdNumberParagraph** ), which you can add to paragraphs by selecting a template in the **Bullets and Numbering** dialog box; and LISTNUM fields (**wdNumberListNum** ), which allow you to add more than one number per paragraph.
 
 
 ## See also

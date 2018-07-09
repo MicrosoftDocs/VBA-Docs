@@ -30,7 +30,7 @@ Set temp3 = ListGalleries(2).ListTemplates(3)
 ```
 
 
- **Note**  Some properties and methods —  **Convert** and **Add**, for example — won't work with list templates that are accessed from a list gallery. You can modify these list templates, but you cannot change their list gallery type ( **wdBulletGallery**, **wdNumberGallery**, or **wdOutlineNumberGallery** ).
+ **Note**  Some properties and methods —  **Convert** and **Add**, for example — won't work with list templates that are accessed from a list gallery. You can modify these list templates, but you cannot change their list gallery type (**wdBulletGallery**, **wdNumberGallery**, or **wdOutlineNumberGallery** ).
 
 The following example sets an object variable equal to the list template used in the third list in the active document, and then it applies that list template to the selection.
 

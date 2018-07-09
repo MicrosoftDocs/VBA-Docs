@@ -18,7 +18,7 @@ Changes the color of a picture in a publication.
 
 ## Syntax
 
- _expression_. **Recolor**( **_Color_**,  **_LeaveBlackPartsBlack_**)
+ _expression_. **Recolor**(**_Color_**,  **_LeaveBlackPartsBlack_**)
 
  _expression_ A variable that represents a  **PictureFormat** object.
 

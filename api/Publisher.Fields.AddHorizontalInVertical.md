@@ -18,7 +18,7 @@ Inserts horizontal text into a stream of vertical text and returns the new horiz
 
 ## Syntax
 
- _expression_. **AddHorizontalInVertical**( **_Range_**,  **_Text_**)
+ _expression_. **AddHorizontalInVertical**(**_Range_**,  **_Text_**)
 
  _expression_ A variable that represents a  **Fields** object.
 

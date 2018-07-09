@@ -23,7 +23,7 @@ This topic contains the following information and examples:
 
 ## Showing a built-in dialog box
 
-You can display a built-in dialog box to get user input or to control Word by using Visual Basic for Applications (VBA). The  **[Show](../../../api/Word.Dialog.Show.md)** method of the **[Dialog](../../../api/Word.Dialog.md)** object displays and executes any action taken in a built-in Word dialog box. To access a particular built-in Word dialog box, you specify a **[WdWordDialog](../../../api/Word.WdWordDialog.md)** constant with the **[Dialogs](../../../api/Word.Application.Dialogs.md)** property. For example, the following macro instruction displays the **Open** dialog box ( **wdDialogFileOpen**).
+You can display a built-in dialog box to get user input or to control Word by using Visual Basic for Applications (VBA). The  **[Show](../../../api/Word.Dialog.Show.md)** method of the **[Dialog](../../../api/Word.Dialog.md)** object displays and executes any action taken in a built-in Word dialog box. To access a particular built-in Word dialog box, you specify a **[WdWordDialog](../../../api/Word.WdWordDialog.md)** constant with the **[Dialogs](../../../api/Word.Application.Dialogs.md)** property. For example, the following macro instruction displays the **Open** dialog box (**wdDialogFileOpen**).
 
 
 ```vb
@@ -32,7 +32,7 @@ Sub ShowOpenDialog()
 End Sub
 ```
 
-If a file is selected and  **OK** is clicked, the file is opened (the action is executed). The following example displays the **Print** dialog box ( **wdDialogFilePrint**).
+If a file is selected and  **OK** is clicked, the file is opened (the action is executed). The following example displays the **Print** dialog box (**wdDialogFilePrint**).
 
 
 

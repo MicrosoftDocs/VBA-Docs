@@ -15,7 +15,7 @@ Queued when an internal command ends, or when an Automation client exits a scope
 
 ## Syntax
 
-Private Sub  _expression_ _'ExitScope'( **_ByVal app As [IVAPPLICATION]_** , **_ByVal nScopeID As Long_** , **_ByVal bstrDescription As String_** , **_ByVal bErrOrCancelled As Boolean_** )
+Private Sub  _expression_ _'ExitScope'(**_ByVal app As [IVAPPLICATION]_** , **_ByVal nScopeID As Long_** , **_ByVal bstrDescription As String_** , **_ByVal bErrOrCancelled As Boolean_** )
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

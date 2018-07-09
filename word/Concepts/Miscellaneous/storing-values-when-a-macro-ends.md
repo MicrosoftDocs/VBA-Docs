@@ -143,7 +143,7 @@ The  **PrivateProfileString** property has three arguments: **_FileName_**,  **_
 
 You can also set information in the Windows registry using the following  **PrivateProfileString** syntax.
 
- **System.PrivateProfileString**( **_FileName_**,  **_Section_**,  **_Key_**)  **=**_value_
+ **System.PrivateProfileString**(**_FileName_**,  **_Section_**,  **_Key_**)  **=**_value_
 
 The following example sets the DOC-PATH entry to "C:\My Documents" in the Options subkey for Office Word 2007 in the Windows registry.
 

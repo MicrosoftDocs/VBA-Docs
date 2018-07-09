@@ -24,7 +24,7 @@ You set a [breakpoint](vbe-glossary.md) to suspend execution at a specific state
 ![Toolbar button](../../images/tbr_bkpt_ZA01201681.gif). The breakpoint is added and the line is set to the breakpoint color defined on the  **Editor Format** tab in the **Options** dialog box.
     
 
-If you set a breakpoint on a line that contains several statements separated by colons ( **:** ), the break always occurs at the first statement on the line.
+If you set a breakpoint on a line that contains several statements separated by colons (**:** ), the break always occurs at the first statement on the line.
  **To clear a breakpoint**
 
 

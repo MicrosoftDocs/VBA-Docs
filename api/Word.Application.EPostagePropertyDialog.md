@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EPostagePropertyDialog Event (Word)
 
-Occurs when a user clicks the  **E-postage Properties** ( **Labels and Envelopes** dialog box) button or **Print Electronic Postage** button.
+Occurs when a user clicks the  **E-postage Properties** (**Labels and Envelopes** dialog box) button or **Print Electronic Postage** button.
 
 
 ## Syntax

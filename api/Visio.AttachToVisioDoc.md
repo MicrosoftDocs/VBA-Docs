@@ -15,7 +15,7 @@ Indicates which document to save as a Web page.
 
 ## Syntax
 
- _expression_. **AttachToVisioDoc**( **_docObj_**)
+ _expression_. **AttachToVisioDoc**(**_docObj_**)
 
  _expression_An expression that returns a  ** [VisSaveAsWeb](./overview/Visio.md)** object.
 

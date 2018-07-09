@@ -12,7 +12,7 @@ ms.date: 06/08/2017
     
 2. Click the  **BackColor** or **ForeColor** property.
     
-3. In the top-right corner of the  **Properties** dialog box, click the **ellipsis** button ( **...**). 
+3. In the top-right corner of the  **Properties** dialog box, click the **ellipsis** button (**...**). 
     
 4. Do one of the following: 
     

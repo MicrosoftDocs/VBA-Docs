@@ -25,7 +25,7 @@ Returns a  **[Dialogs](Excel.Dialogs.md)** collection that represents all built-
 
 ## Example
 
-This example displays the  **Open** dialog box ( **File** menu).
+This example displays the  **Open** dialog box (**File** menu).
 
 
 ```vb

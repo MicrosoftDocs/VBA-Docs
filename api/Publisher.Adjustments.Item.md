@@ -18,7 +18,7 @@ Returns or sets a  **Variant** indicating the adjustment value specified by the 
 
 ## Syntax
 
- _expression_. **Item**( **_Index_**)
+ _expression_. **Item**(**_Index_**)
 
  _expression_ A variable that represents an  **Adjustments** object.
 

@@ -27,9 +27,9 @@ Determines whether a shape's custom properties (shape data) are displayed in the
 
 ## Remarks
 
- **PropControl** returns non-zero ( **True**) if custom properties are set to be displayed in the Web page; otherwise, it returns zero ( **False**). The default is  **True**.
+ **PropControl** returns non-zero (**True**) if custom properties are set to be displayed in the Web page; otherwise, it returns zero (**False**). The default is  **True**.
 
-Set  **PropControl** to a non-zero value ( **True**) to display custom properties in the Web page; otherwise, set it to zero ( **False**). 
+Set  **PropControl** to a non-zero value (**True**) to display custom properties in the Web page; otherwise, set it to zero (**False**). 
 
 If you choose to display custom properties, a  **Custom Properties** control appears in the left frame in the browser window, displaying custom properties (shape data) that are associated with a shape when you press CTRL and click the shape.
 

@@ -40,7 +40,7 @@ An  **Object** that represents the parent conversation item of the node specifie
 
 If the node specified by the  _Item_ parameter does not exist in the conversation, the **GetParent** method returns an error.
 
-If the node specified by the  _Item_ parameter does not have a parent item in the conversation, the **GetParent** method returns **Null** ( **Nothing** in Visual Basic).
+If the node specified by the  _Item_ parameter does not have a parent item in the conversation, the **GetParent** method returns **Null** (**Nothing** in Visual Basic).
 
 
 ## See also
