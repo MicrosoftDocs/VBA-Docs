@@ -47,23 +47,43 @@
     "fileMetadata": {
       "ms.topic":
        {
-         "articles/**.md": "reference",
-         "conceptuals/**.md": "conceptual"
+         "api/**.md": "reference",
+         "access/**.md": "conceptual",
+		 "excel/**.md": "conceptual",
+		 "Language/**.md": "conceptual",
+		 "Library-Reference/**.md": "conceptual",
+		 "Office-Mac/**.md": "conceptual",
+		 "outlook/**.md": "conceptual",
+		 "powerpoint/**.md": "conceptual",
+		 "project/**.md": "conceptual",
+		 "publisher/**.md": "conceptual",
+		 "visio/**.md": "conceptual",
+		 "word/**.md": "conceptual"
        },
 	   "ms.prod": 
        { 
-         "articles/Access/**.md": "access",
-         "articles/Excel/**.md": "excel",
-         "articles/Outlook/**.md": "outlook",
-         "articles/PowerPoint/**.md": "powerpoint",
-         "articles/Project/**.md": "project",
-         "articles/Publisher/**.md": "publisher",
-         "articles/Visio/**.md": "visio",
-         "articles/Word/**.md": "word",
-         "articles/Language-Reference/**.md": "office",
-         "articles/Office-F1-Landing/**.md": "office",
-         "articles/Office-Mac/**.md": "office",
-         "articles/Office-Shared/**.md": "office"
+         "api/Access.*.md": "access",
+         "api/Excel.*.md": "excel",
+         "api/Outlook.*.md": "outlook",
+         "api/PowerPoint.*.md": "powerpoint",
+         "api/Project.*.md": "project",
+         "api/Publisher.*.md": "publisher",
+         "api/Visio.*.md": "visio",
+         "api/Word.*.md": "word",
+         "api/Office.*.md": "office",
+		 "api/overview/**.md": "vba",
+		 
+		 "access/**.md": "access",
+		 "excel/**.md": "excel",
+		 "Language/**.md": "office",
+		 "Library-Reference/**.md": "office",
+		 "Office-Mac/**.md": "office",
+		 "outlook/**.md": "outlook",
+		 "powerpoint/**.md": "powerpoint",
+		 "project/**.md": "project",
+		 "publisher/**.md": "publisher",
+		 "visio/**.md": "visio",
+		 "word/**.md": "word"
        }
     },
     "template": [],

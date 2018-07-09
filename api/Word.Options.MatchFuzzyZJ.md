@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 # Options.MatchFuzzyZJ Property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
-![](../images/fe286_ZA06051765.gif)" and "
-![](../images/fe287_ZA06051766.gif)
+![Symbol](../images/fe286_ZA06051765.gif)" and "
+![Symbol](../images/fe287_ZA06051766.gif)
 ![Symbol](../images/fe209_ZA06051695.gif)" and between "
 ![Symbol](../images/fe288_ZA06051767.gif)" and "
 ![Symbol](../images/fe275_ZA06051754.gif)
@@ -32,8 +32,8 @@ ms.date: 06/08/2017
 ## Example
 
 This example sets Microsoft Word to ignore the distinction between "
-![](../images/fe286_ZA06051765.gif)" and "
-![](../images/fe287_ZA06051766.gif)
+![Symbol](../images/fe286_ZA06051765.gif)" and "
+![Symbol](../images/fe287_ZA06051766.gif)
 ![Symbol](../images/fe209_ZA06051695.gif)" and between "
 ![Symbol](../images/fe288_ZA06051767.gif)" and "
 ![Symbol](../images/fe275_ZA06051754.gif)
