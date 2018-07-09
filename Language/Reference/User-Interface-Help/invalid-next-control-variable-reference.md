@@ -13,19 +13,15 @@ ms.date: 06/08/2017
 
 The numeric [variable](vbe-glossary.md) in the **Next** part of a **For...Next** loop must match the variable in the **For** part. This error has the following cause and solution:
 
-
-
-- The variable in the  **Next** part of a **For...Next** loop differs from the variable in the **For** part. For example:
+- The variable in the **Next** part of a **For...Next** loop differs from the variable in the **For** part. For example:
     
-```vb
-For Counter = 1 To 10 
-MyVar = Counter 
-Next Count 
-
+  ```vb
+    For Counter = 1 To 10 
+    MyVar = Counter 
+    Next Count 
   ```
 
-
-    Check the spelling of the variable in the  **Next** part to be sure it matches the **For** part. Also, be sure you haven't inadvertently deleted parts of the enclosing loop that used the variable.
+  Check the spelling of the variable in the **Next** part to be sure it matches the **For** part. Also, be sure you haven't inadvertently deleted parts of the enclosing loop that used the variable.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

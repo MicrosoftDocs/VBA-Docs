@@ -111,7 +111,7 @@ There are a number of wildcard characters to choose from, and the following tabl
 
 ## Sorting the Result Set
 
-To specify a particular sort order on one or more fields in the result set, use the optional  **[ORDER BY](order-by-clause-microsoft-access-sql.md)** clause. Records can be sorted in either ascending ( **ASC** ) or descending ( **DESC** ) order; ascending is the default.
+To specify a particular sort order on one or more fields in the result set, use the optional  **[ORDER BY](order-by-clause-microsoft-access-sql.md)** clause. Records can be sorted in either ascending (**ASC** ) or descending (**DESC** ) order; ascending is the default.
 
 Fields referenced in the  **ORDER BY** clause do not have to be part of the **SELECT** statement's field list, and sorting can be applied to string, numeric, and date/time values. Always place the **ORDER BY** clause at the end of the **SELECT** statement.
 
