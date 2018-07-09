@@ -8,20 +8,16 @@ ms.date: 06/08/2017
 
 # Format Property - Date/Time Data Type
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
-You can set the  **Format** property to predefined date and time formats or use custom formats for the Date/Time data type.
+You can set the **Format** property to predefined date and time formats or use custom formats for the Date/Time data type.
 
 
 ## Setting
 
- **Predefined Formats**
+**Predefined Formats**
 
-The following table shows the predefined  **Format** property settings for the Date/Time data type.
-
-
+The following table shows the predefined **Format** property settings for the Date/Time data type.
 
 |**Setting**|**Description**|
 |:-----|:-----|
@@ -29,11 +25,11 @@ The following table shows the predefined  **Format** property settings for the D
 |Long Date|Same as the Long Date setting in the regional settings of Windows. Example: Saturday, April 3, 1993.|
 |Medium Date|Example: 3-Apr-93.|
 |Short Date|Same as the Short Date setting in the regional settings of Windows. Example: 4/3/93.<table><tr><th>**Caution**</th></tr><tr><td>The Short Date setting assumes that dates between 1/1/00 and 12/31/29 are twenty-first century dates (that is, the years are assumed to be 2000 to 2029). Dates between 1/1/30 and 12/31/99 are assumed to be twentieth century dates (that is, the years are assumed to be 1930 to 1999).</td></tr></table>|
-|Long Time|Same as the setting on the  **Time** tab in the regional settings of Windows. Example: 5:34:23 PM.|
+|Long Time|Same as the setting on the **Time** tab in the regional settings of Windows. Example: 5:34:23 PM.|
 |Medium Time|Example: 5:34 PM.|
 |Short Time|Example: 17:34.|
 
- **Custom Formats**
+**Custom Formats**
 
 You can create custom date and time formats by using the following symbols.
 
@@ -73,9 +69,8 @@ You can create custom date and time formats by using the following symbols.
 
 Custom formats are displayed according to the settings specified in the regional settings of Windows. Custom formats inconsistent with the settings specified in the regional settings of Windows are ignored.
 
-|**Note**|
-|:-----|  
-|If you want to add a comma or other separator to a custom format, enclose the separator in quotation marks as follows: mmm d", "yyyy.|
+> [!NOTE] 
+> If you want to add a comma or other separator to a custom format, enclose the separator in quotation marks as follows: mmm d", "yyyy.
 
 
 ## Example
@@ -95,13 +90,15 @@ You could use a custom format to display "A.D." before or "B.C." after a year de
 
 Positive numbers are displayed as years with an "A.D." before the year. Negative numbers are displayed as years with a "B.C." after the year.
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](http://www.bing.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+
 

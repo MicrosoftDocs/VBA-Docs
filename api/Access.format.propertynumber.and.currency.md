@@ -8,26 +8,17 @@ ms.date: 06/08/2017
 
 # Format Property - Number and Currency Data Types
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[Setting](#sectionSection0)
-[Remarks](#sectionSection1)
-[Examples](#sectionSection2)
+You can set the **Format** property to predefined number formats or custom number formats for the Number and Currency data types.
 
-
-You can set the  **Format** property to predefined number formats or custom number formats for the Number and Currency data types.
-
-## Setting
 <a name="sectionSection0"> </a>
 
- **Predefined Formats**
+## Setting
 
-The following table shows the predefined  **Format** property settings for numbers.
+**Predefined Formats**
 
-
+The following table shows the predefined **Format** property settings for numbers.
 
 |**Setting**|**Description**|
 |:-----|:-----|
@@ -39,25 +30,20 @@ The following table shows the predefined  **Format** property settings for numbe
 |Percent|Multiply the value by 100 and append a percent sign (%); follow the settings specified in the regional settings of Windows for negative amounts, decimal symbols, and decimal places.|
 |Scientific|Use standard scientific notation.|
 
- **Custom Formats**
+**Custom Formats**
 
 Custom number formats can have one to four sections with semicolons (;) as the list separator. Each section contains the format specification for a different type of number.
-
-
 
 |**Section**|**Description**|
 |:-----|:-----|
 |First|The format for positive numbers.|
 |Second|The format for negative numbers.|
 |Third|The format for zero values.|
-|Fourth|The format for  **Null** values.|
+|Fourth|The format for **Null** values.|
 
 For example, you could use the following custom Currency format:
 
-
-
-
-```
+```vb
 $#,##0.00[Green];($#,##0.00)[Red];"Zero";"Null"
 ```
 
@@ -66,8 +52,6 @@ This number format contains four sections separated by semicolons and uses a dif
 If you use multiple sections but don't specify a format for each section, entries for which there is no format will either display nothing or default to the formatting of the first section.
 
 You can create custom number formats by using the following symbols.
-
-
 
 |**Symbol**|**Description**|
 |:-----|:-----|
@@ -83,7 +67,7 @@ You can create custom number formats by using the following symbols.
 ## Remarks
 <a name="sectionSection1"> </a>
 
-You can use the  **DecimalPlaces** property to override the default number of decimal places for the predefined format specified for the **Format** property.
+You can use the **DecimalPlaces** property to override the default number of decimal places for the predefined format specified for the **Format** property.
 
 The predefined currency and euro formats follow the settings in the regional settings of Windows. You can override these by entering your own currency format.
 
@@ -92,8 +76,6 @@ The predefined currency and euro formats follow the settings in the regional set
 <a name="sectionSection2"> </a>
 
 The following are examples of the predefined number formats.
-
-
 
 |**Setting**|**Data**|**Display**|
 |:-----|:-----|:-----|
@@ -106,20 +88,19 @@ The following are examples of the predefined number formats.
 
 The following are examples of custom number formats.
 
-
-
 |**Setting**|**Description**|
 |:-----|:-----|
-|0;(0);;"Null"|Display positive values normally; display negative values in parentheses; display the word "Null" if the value is  **Null**.|
+|0;(0);;"Null"|Display positive values normally; display negative values in parentheses; display the word "Null" if the value is **Null**.|
 |+0.0;-0.0;0.0|Display a plus (+) or minus (-) sign with positive or negative numbers; display 0.0 if the value is zero.|
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
-[Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
+## See also
+
+- [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+- [Search for specific Access error codes on Bing](http://www.bing.com/)
+- [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+- [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
 
