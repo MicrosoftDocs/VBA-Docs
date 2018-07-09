@@ -15,31 +15,25 @@ ms.date: 06/08/2017
 
 Returns the matrix product of two arrays. The result is an array with the same number of rows as array1 and the same number of columns as array2.
 
-
 ## Syntax
 
- _expression_. `MMult`( `_Arg1_` , `_Arg2_` )
+_expression_. `MMult`(`Arg1`, `Arg2`)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters
-
-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg2_|Required| **Variant**|Array1, array2 - the arrays you want to multiply.|
 
-### Return Value
+### Return value
 
 Variant
 
 
 ## Remarks
-
-
-
 
 - The number of columns in array1 must be the same as the number of rows in array2, and both arrays must contain only numbers. 
     
@@ -47,7 +41,7 @@ Variant
     
 - MMULT returns the #VALUE! error when:
     
-      - Any cells are empty or contain text.
+  - Any cells are empty or contain text.
     
   - The number of columns in array1 is different from the number of rows in array2.
     
@@ -61,6 +55,5 @@ Variant
 
 ## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+- [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

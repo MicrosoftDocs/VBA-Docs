@@ -15,37 +15,31 @@ ms.date: 06/08/2017
 
 Returns the matrix determinant of an array.
 
-
 ## Syntax
 
- _expression_. `MDeterm`( `_Arg1_` )
+_expression_. `MDeterm`(`Arg1`)
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ### Parameters
-
-
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - a numeric array with an equal number of rows and columns.|
 
-### Return Value
+### Return value
 
 Double
 
 
 ## Remarks
 
-
-
-
 - Array can be given as a cell range, for example, A1:C3; as an array constant, such as {1,2,3;4,5,6;7,8,9}; or as a name to either of these. 
     
 - MDTERM returns the #VALUE! error when:
     
-      - Any cells in array are empty or contain text.
+  - Any cells in array are empty or contain text.
     
   - Array does not have an equal number of rows and columns.
     
@@ -60,6 +54,5 @@ Double
 
 ## See also
 
-
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+- [WorksheetFunction Object](Excel.WorksheetFunction.md)
 

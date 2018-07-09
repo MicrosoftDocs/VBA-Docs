@@ -61,7 +61,7 @@ _expression_ A variable that represents an **Application** object.
 
 ### Return value
 
- **Boolean**
+**Boolean**
 
 
 ## Example
@@ -69,7 +69,7 @@ _expression_ A variable that represents an **Application** object.
 The following example creates a filter (if one does not exist) for tasks with the highest priority, and then applies the filter.
 
 
-``` 
+```vb
 Sub CreateAndApplyHighestPriorityFilter() 
     Dim TaskFilter As Variant  ' Index for For Each loop. 
     Dim Found As Boolean    ' Whether or not the filter exists. 
