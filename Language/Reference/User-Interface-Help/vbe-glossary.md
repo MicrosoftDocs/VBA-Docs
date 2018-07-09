@@ -494,14 +494,11 @@ A variable declared outside **Function**, **Sub**, or **Property** procedure cod
 
 An argument that has a name that is predefined in the object library. Instead of providing a value for each argument in a specified order expected by the syntax, you can use named arguments to assign values in any order. For example, suppose a method accepts three arguments:
 
- **DoSomeThing** **_namedarg1, namedarg2, namedarg3_**
+**DoSomeThing** **_namedarg1, namedarg2, namedarg3_**
 
 By assigning values to named arguments, you can use the following statement:
 
-
-
-
-```
+```vb
 DoSomeThing namedarg3 := 4, namedarg2 := 5, namedarg1 := 20 
 
 ```
